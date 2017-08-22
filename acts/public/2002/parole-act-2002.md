@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-22_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -17,6 +17,7 @@ The purpose of this Act is to reform the law relating to the release from detent
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **biometric information** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **Board** means the New Zealand Parole Board established under section 108; and includes a panel of the Board, a panel convenor, and the chairperson acting within their respective jurisdictions
   - **bodily sample** , for a person, means—
     (a) a sample of the person’s blood, breath, hair, or urine; or
@@ -238,12 +239,20 @@ The chairperson or a panel convenor may, on the application of the person who ap
   (d) if consent is given under paragraph (c), the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
   (e) if an offender intends to change his or her residential address within a probation area, the offender must give the probation officer reasonable notice before moving from his or her residential address (unless notification is impossible in the circumstances) and must advise the probation officer of the new address:
   (f) the offender must not reside at any address at which a probation officer has directed the offender not to reside:
+  (fa) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+  (fb) the offender must, if a probation officer directs, allow the collection of biometric information:
   (g) the offender must not engage, or continue to engage, in any employment or occupation in which the probation officer has directed the offender not to engage or continue to engage:
   (h) the offender must not associate with any specified person, or with persons of any specified class, with whom the probation officer has, in writing, directed the offender not to associate:
   (i) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
 (2)
 (3) In this section, probation area means an area designated by the chief executive for the administration of release conditions, community-based sentences, sentences of home detention (including post-detention conditions), or orders.
 (4) For the purposes of any provision of this Act relating to the imposition of standard release conditions, those conditions must be treated as if they were imposed by the Board.
+
+### 14A Purpose of collecting biometric information under section 14(1)﻿(fb)
+Biometric information collected under section 14(1)﻿(fb) may only be used for the purpose of helping—
+  (a) to manage offenders to ensure public safety; and
+  (b) to identify offenders before they leave New Zealand; and
+  (c) to enforce the condition specified in section 14(1)﻿(fa).
 
 ### 15 Special conditions
 (1) The Board may (subject to subsections (2) and (4)) impose any 1 or more special conditions on an offender.
@@ -339,7 +348,7 @@ For the purposes of section 15, a programme means any of the following:
 (1) An authorised person may give an offender a notice under section 16B(2) in any of the following ways:
   (a) by giving the notice personally and in writing to the offender:
   (b) by giving the notice personally and orally to the offender, then, unless the notice requires the offender only to undergo breath screening, as soon as practicable recording it in writing and giving a copy to the offender:
-  (c) if the notice is given under section 16B(2)﻿(a), by giving the notice to the offender by telephone or other means of electronic communication (as defined in section 5 of the Electronic Transactions Act 2002), then as soon as practicable recording it in writing (if it is not already in writing) and giving a copy to the offender.
+  (c) if the notice is given under section 16B(2)﻿(a), by giving the notice to the offender by telephone or other means of electronic communication (as defined in section 209 of the Contract and Commercial Law Act 2017), then as soon as practicable recording it in writing (if it is not already in writing) and giving a copy to the offender.
 (2) An automated system must, in response to an offender contacting it as required by a notice given under section 16B(2)﻿(c) and subsection (1), give the offender a spoken or written response notice specifying whether the offender is required to undergo testing.
 (3) A notice given by an authorised person under subsection (1)﻿(c), or a response notice that is given by an automated system under subsection (2) and that requires an offender to undergo testing, must specify the name and location of a testing facility to which the offender is required to report to undergo testing, and the time or times when the offender is required to report, under section 16D.
 
@@ -1699,6 +1708,8 @@ In this Part, sentencing court, in relation to an offender, means the High Court
   (c) the offender must obtain the prior written consent of a probation officer before moving to a new residential address:
   (d) if consent is given under paragraph (c) and the offender is moving to a new probation area, the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
   (e) the offender must not reside at any address at which a probation officer has directed the offender not to reside:
+  (ea) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+  (eb) the offender must, if a probation officer directs, allow the collection of biometric information:
   (f) the offender must obtain the prior written consent of a probation officer before changing his or her employment:
   (g) the offender must not engage, or continue to engage, in any employment or occupation in which the probation officer has directed the offender not to engage or continue to engage:
   (h) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer:
@@ -1711,6 +1722,12 @@ In this Part, sentencing court, in relation to an offender, means the High Court
   (k) the offender must not associate with, or contact, any person or class of person specified in a written direction given to the offender for the purposes of this paragraph.
 (2) In this section, contact includes communicating, or attempting to communicate, with a person by any means, such as by telephone or via the Internet.
 (3) The condition in subsection (1)﻿(i) applies to extended supervision orders made before and after the commencement of section 17 of the Parole (Extended Supervision Orders) Amendment Act 2014.
+
+### 107JB Purpose of collecting biometric information under section 107JA(1)﻿(eb)
+Biometric information collected under section 107JA(1)﻿(eb) may only be used for the purpose of helping—
+  (a) to manage offenders to ensure public safety; and
+  (b) to identify offenders before they leave New Zealand; and
+  (c) to enforce the condition specified in section 107JA(1)﻿(ea).
 
 ### 107K Board may impose special conditions
 (1) At any time before an extended supervision order expires or is cancelled, and whether or not it has come into force, the Board may, on an application by the chief executive or a probation officer, impose on the offender any special condition that the Board is entitled to impose under section 15.
