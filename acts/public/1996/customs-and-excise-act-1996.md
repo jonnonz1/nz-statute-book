@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-08-22_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -21,6 +21,12 @@ _Consolidation as at 2017-04-01_
   - **beer** means the product of the alcoholic fermentation by yeast of liquid derived from a mash of drinking water and malt grains with hops or their extract
   - **biofuel** means any gaseous or liquid fuel produced from biomass that can be used as a fuel for engines
   - **biofuel blend** means a product that results from blending biofuel with petrol, diesel, or other substances
+  - **biometric information** , in relation to a person, means information that comprises—
+    (a) 1 or more of the following kinds of information:
+      (i) a photograph of all or any part of the person’s head and shoulders:
+      (ii) impressions of the person’s fingerprints:
+      (iii) a scan of the person’s irises; and
+    (b) an electronic record of the information that is capable of being used for biometric matching
   - **boat** means a vessel other than a ship
   - **cargo aggregator** means a person who, for reward, aggregates cargo (being cargo to be carried for different people) for carriage together on a craft—
     (a) in bulk cargo containers, or otherwise; and
@@ -171,6 +177,7 @@ _Consolidation as at 2017-04-01_
     (b) in relation to goods, includes the importer or a person having possession of or who is beneficially interested in the goods; and
     (c) in relation to land, means the person entitled to receive the rack rent thereof, or who would be so entitled if the land were let to a tenant at the rack rent
   - **package** includes any means used or capable of being used to pack, cover, enclose, contain, or encase goods for carriage, a bulk cargo container, a pallet, or a similar device
+  - **personal information** means information about an identifiable person (including, without limitation, biometric information)
   - **prescribed** means,—
     (a) in respect of the matters described in section 288, prescribed by the chief executive; and
     (b) in respect of all other matters, prescribed by regulations made under this Act
@@ -619,6 +626,46 @@ A person preparing to board a craft for departure from New Zealand must comply w
       (i) the arrival of a craft in New Zealand; or
       (ii) the departure of a craft from New Zealand.
 
+**Information**
+
+### 32D Arrival and departure information
+The Customs may, for the purposes of monitoring the movement of craft and persons, passenger and crew processing, and border security, collect and use the following information about craft and persons arriving in or departing from New Zealand:
+  (a) details of craft movements including the craft name and registration number or identifier, estimated date and time of arrival or departure, and place of origin and destination; and
+  (b) personal information including the person’s name, date of birth, gender, biometric information, passport number, nationality, and travel movements.
+
+### 32E Verification of identity using biometric information
+(1) A Customs officer may, during the processing of a person’s arrival in or departure from New Zealand, request that person to provide biometric information for the purpose of verifying the person’s identity using biometric matching.
+(2) A person who fails to comply with a request made under subsection (1) may be directed by a Customs officer to remain in a designated place for either or both of the following purposes:
+  (a) to enable the officer to make any inquiries necessary to establish the identity of the person:
+  (b) to enable the officer to obtain the attendance of, or make inquiries of, another officer who is authorised, in respect of a matter specified in section 32C(1), to do 1 or more of the following:
+    (i) question the person:
+    (ii) ascertain or determine the status of the person:
+    (iii) detain the person:
+    (iv) arrest the person.
+(3) A person must comply with a direction given to the person under subsection (2).
+(4) A direction given to a person under subsection (2) ceases to have effect 4 hours after it is given.
+(5) In this section,—
+  - **another officer** means—
+    (a) a constable; or
+    (b) a bailiff; or
+    (c) an employee or agent of a department of State
+  - **designated place** means—
+    (a) a Customs controlled area; or
+    (b) a Customs place; or
+    (c) a place approved by the chief executive for the purposes of—
+      (i) the arrival of a craft in New Zealand; or
+      (ii) the departure of a craft from New Zealand.
+
+### 32F Detention of persons failing to comply with a direction under section 32E
+(1) A Customs officer may detain a person who fails to comply with a direction given under section 32E(2).
+(2) A Customs officer may detain a person under this section only for either or both of the purposes specified in section 32E(2).
+(3) A person must not be detained under this section for a period exceeding 4 hours.
+(4) Reasonable force may be used, if necessary, to detain a person under this section.
+(5) Nothing in this section prevents a person from—
+  (a) being detained or further detained under another provision of this Act or under any other enactment if there are lawful grounds for that detention; or
+  (b) being arrested under section 174.
+(6) In this section, to detain a person includes to deliver the person to a Police station or into the custody of a constable.
+
 **Departure of craft**
 
 ### 33 Clearance of craft
@@ -893,7 +940,7 @@ Nothing in this Part—
   (b) prevents the Customs from using otherwise than as provided in this Part information to which Customs is given access otherwise than as required by or under this Part:
   (c) affects any obligation a person may have to give the Customs advance notice of matters under section 21:
   (d) affects any obligation a person may have under this Act to make an entry in respect of goods that are imported or that are to be imported:
-  (e) affects any powers the Customs has to collect and use information under section 279.
+  (e) affects any powers the Customs has to collect and use information under section 32D.
 
 ## Part 4 — Entry and accounting for goods
 
@@ -3917,9 +3964,7 @@ Subject to any limitations imposed in regulations made under this Act, the chief
 The chief executive may, from time to time, determine any seal, stamp, mark, marking, substance, or device for the use of the Customs.
 
 ### 279 Arrival and departure information
-The Customs may, for the purposes of monitoring the movement of craft and persons, passenger and crew processing and border security, collect and use the following information about craft and persons arriving in or departing from New Zealand:
-  (a) details of craft movements including the craft name, and registration number or identifier, estimated date and time of arrival or departure and place of origin and destination; and
-  (b) personal information including the person's name, date of birth, gender, passport number, nationality, and travel movements.
+[Repealed]
 
 ### 280 Supply of arrival and departure information for benefit and benefit debt recovery purposes
 (1) In this section, unless the context otherwise requires, the term benefit has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
@@ -3950,7 +3995,7 @@ The Customs may, for the purposes of monitoring the movement of craft and person
 In section 280B, unless the context otherwise requires,—
   - **authorised officer** means any officer, employee, or agent of the department who, with the approval of the chief executive of the Customs, is authorised by the chief executive of the department to supply information or receive information from the chief executive of the Customs under section 280B
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
-  - **identifying information** means personal information that identifies an individual, which may include the individual's passport number
+  - **identifying information** means information that identifies, or relates to the identity of, a person, but does not include biometric information
   - **social security agreement** means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
 
 ### 280B Disclosure of arrival and departure information for purposes of mutual assistance provision contained in social security agreement
@@ -3987,7 +4032,7 @@ In sections 280D and 280E, unless the context otherwise requires,—
     (d)
     (e) any amount payable under section 138A(1) of the Sentencing Act 2002
   - **fines enforcement action** includes the execution of a warrant to arrest a person in respect of the non-payment of the whole, or of any part, of any fine
-  - **identifying information** means personal information that identifies an individual, which may include the individual's passport number
+  - **identifying information** means information that identifies, or relates to the identity of, a person, but does not include biometric information
   - **serious default** , in relation to a person, means that—
     (a) the person owes—
       (i) an amount of $1,000 (or any other amount that may be fixed by the Governor-General by Order in Council) or more in relation to 1 or more unpaid fines (other than an amount of reparation); or
@@ -4102,7 +4147,7 @@ In sections 280K and 280L, unless the context otherwise requires,—
   - **financial support debt** means an amount owing to the Commissioner of—
     (a) financial support as defined in section 2 of the Child Support Act 1991:
     (b) a penalty or interest under the Child Support Act 1991
-  - **identifying information** means personal information that identifies an individual
+  - **identifying information** means information that identifies, or relates to the identity of, a person, but does not include biometric information
   - **officer of the Department** has the meaning given to it by section 3(1) of the Tax Administration Act 1994
   - **serious default** means the state of having an amount of financial support debt due and owing to the Commissioner of Inland Revenue and satisfying criteria agreed by the Commissioner and the Privacy Commissioner in consultation with the chief executive.
 
@@ -4201,6 +4246,7 @@ In sections 280K and 280L, unless the context otherwise requires,—
   (c) border security; or
   (d) the enforcement of a law imposing a pecuniary penalty; or
   (e) the protection of public revenue.
+(1A) Despite subsection (1), the chief executive may not disclose biometric information relating to any person to an overseas agency, body, or person for the purpose of assisting the overseas agency, body, or person to perform the function specified in subsection (1)﻿(d).
 (2) The disclosure of information under subsection (1) must be—
   (a) in accordance with an agreement between the chief executive and the agency, body, or person concerned that complies with subsections (3) and (4); or
   (b) in accordance with subsection (8).
@@ -4252,7 +4298,7 @@ In sections 280K and 280L, unless the context otherwise requires,—
   (g) known currency and other financial transactions of relevant interest, including involvement in money laundering:
   (h) intelligence analysis assessments and reports:
   (i) details of mail interceptions:
-  (j) personal identification details (which may include photographs, distinguishing features, and details of identity or travel documents):
+  (j) personal information:
   (k) names and details of Customs personnel, freight forwarding and transport personnel, and personnel in the trade and travel business:
   (l) details of known or suspected involvement of persons in illicit activities.
 (2) Section 281 does not prevent or limit any disclosure of information otherwise than under that section that may be required or authorised by or under law, or any treaty, agreement, or arrangement concluded by the Government of New Zealand.
