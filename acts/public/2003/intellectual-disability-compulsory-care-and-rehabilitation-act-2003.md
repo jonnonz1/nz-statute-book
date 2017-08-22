@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-22_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -46,6 +46,7 @@ The purposes of this Act are—
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **biometric information** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **care and rehabilitation plan** , in relation to a care recipient, means the care and rehabilitation plan prepared for the care recipient, under section 24, as varied from time to time under this Act
   - **care manager** means a person designated under section 141
   - **care programme** means a programme that—
@@ -586,6 +587,17 @@ Every care recipient is entitled to medical treatment and other health care appr
   (b) in accordance with guidelines issued under section 148; and
   (c) with the support of a second opinion given by a medical consultant designated by the Director-General of Health under section 146.
 
+### 62A Collection of biometric information from special care recipients
+(1) This section provides for the collection of biometric information to—
+  (a) strengthen the management of special care recipients; and
+  (b) ensure the safety and security of special care recipients; and
+  (c) better manage the risk of special care recipients breaching section 67A.
+(2) A special care recipient must allow the collection of biometric information if directed by—
+  (a) the Director-General of Health; or
+  (b) the care manager for the special care recipient; or
+  (c) a compulsory care co-ordinator.
+(3) This section is subject to any regulations made under section 150(ca).
+
 ### Subpart 3 — Requirement to stay in designated facilities or places
 
 **Placement of care recipients**
@@ -633,6 +645,20 @@ Every care recipient is entitled to medical treatment and other health care appr
 (3) The Director-General of Health may, at any time during a period of leave authorised under this section, cancel that leave by notifying the person who has undertaken the care of the special care recipient during the period of leave or, if there is no such person, by notifying the care recipient.
 (4) With the authority of the Director-General and subject to any conditions that the Director-General may impose, the co-ordinator may exercise in any particular case the powers conferred on the Director-General by this section.
 (5) Before the co-ordinator exercises a power under subsection (4) in respect of a care recipient who, following an application under section 29, has been transferred from a prison, the co-ordinator must consult with the manager of that prison.
+
+### 67A Special care recipients not to leave secure facility or depart from New Zealand without permission
+(1) A special care recipient may not leave the secure facility in which the special care recipient is detained unless—
+  (a) authorised by the Minister under section 66; or
+  (b) authorised by the Director-General under section 67.
+(2) A special care recipient may not depart from New Zealand unless—
+  (a) the special care recipient is on authorised leave; and
+  (b) the special care recipient is permitted by the Minister, on terms and conditions specified by the Minister, to be absent from New Zealand during that authorised leave; and
+  (c) the special care recipient’s departure from New Zealand is in accordance with the terms and conditions of the Minister’s permission given under paragraph (b).
+(3) In subsection (2),—
+  - **authorised leave** , in relation to a special care recipient, means leave from the secure facility in which the special care recipient is detained that is authorised under section 66 or 67
+  - **depart** includes—
+    (a) attempt to depart:
+    (b) prepare to depart.
 
 ### Subpart 4 — Status of special care recipients subject to sentences
 
@@ -941,8 +967,10 @@ A care manager has authority—
 ### 110 Meaning of care recipient who has escaped
 In sections 111 to 113, care recipient who has escaped means a care recipient—
   (a) who has left the care recipient's facility without authority; or
+  (ab) who has breached any terms or conditions of authorised leave; or
   (b) who has failed to return to the care recipient's facility after the expiry of authorised leave; or
-  (c) who has failed to return to the care recipient's facility after the cancellation of previously authorised leave.
+  (c) who has failed to return to the care recipient's facility after the cancellation of previously authorised leave; or
+  (d) who has departed from New Zealand in contravention of section 67A(2).
 
 ### 111 Power to retake care recipient absent without authority
 The co-ordinator or the care manager of a care recipient who has escaped may retake and return that care recipient to the care recipient's facility or to another facility specified by the co-ordinator.
@@ -1232,6 +1260,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing the powers and duties of district inspectors, and regulating the exercise of such powers and the performance of such duties:
   (c) regulating the management of secure care facilities:
+  (ca) restricting or otherwise regulating the collection under section 62A of biometric information from special care recipients:
   (d) making provision for determining the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 124 or qualified persons appointed under section 125, and those fees and expenses may differ according to—
     (i) the complexity of the proceeding and the time spent; and
     (ii) whether or not professional services are to be provided in a specified number of proceedings during a specified period:
