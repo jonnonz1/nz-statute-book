@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-22_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -957,7 +957,7 @@ Sections 92Q to 92W and Part 4 of the Human Rights Act 1993 shall apply, with su
     (ii) any code of practice (except any code of practice that modifies principles 6 and 7); and
   (c) reduces any uncertainty about whether personal information can be lawfully shared for the provision of the public services, and in the circumstances, described in approved information sharing agreements.
 
-### 96B Relationship between this Part and other law relating to information sharing
+### 96B Relationship between Part 9A and other law relating to information disclosure
 (1) To avoid doubt, nothing in this Part—
   (a) limits the collection, use, or disclosure of personal information that is authorised or required by or under any enactment; and
   (b) compels agencies to enter into an information sharing agreement if those agencies are already allowed to share personal information—
@@ -965,7 +965,7 @@ Sections 92Q to 92W and Part 4 of the Human Rights Act 1993 shall apply, with su
     (ii) in circumstances where an exemption from or a modification to any 1 or more of the information privacy principles or any code of practice is not required to make the sharing of the information lawful.
 (2) Without limiting subsection (1)﻿(a),—
   (a) this Part does not limit section 7, 54 or 57; and
-  (b) this Part and Parts 10 and 11 do not limit one another.
+  (b) this Part does not limit Part 10, 10A, or 11.
 (3) An information sharing agreement may—
   (a) duplicate an information sharing provision by providing for an agency to share the same personal information as specified in the information sharing provision—
     (i) with the same agencies specified in the information sharing provision; and
@@ -1318,6 +1318,13 @@ In this Part, unless the context otherwise requires,—
     (l) the Education Council of Aotearoa New Zealand established under Part 32 of the Education Act 1989:
     (m) the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
 
+### 97A Relationship between Part 10 and other law relating to information disclosure
+This Part does not—
+  (a) limit the collection, use, or disclosure of personal information that—
+    (i) is authorised or required by or under any enactment; or
+    (ii) is permitted by the information privacy principles:
+  (b) limit Part 9A, 10A, or 11.
+
 **Information matching guidelines**
 
 ### 98 Information matching guidelines
@@ -1444,12 +1451,64 @@ Where a specified agency derives or receives information produced by an authoris
 **Avoidance of controls on information matching**
 
 ### 108 Avoidance of controls on information matching through use of exceptions to information privacy principles
-Where the collection or disclosure of information is authorised by an information matching provision, nothing in subclause (2)﻿(d)﻿(i) of principle 2 or paragraph (e)﻿(i) of principle 11 authorises or permits the collection or disclosure of that information for the purposes of—
+Despite section 97A, if the collection or disclosure of information is authorised by an information matching provision, nothing in subclause (2)﻿(d)﻿(i) of principle 2 or paragraph (e)﻿(i) of principle 11 authorises or permits the collection or disclosure of that information for the purposes of—
   (a) any authorised information matching programme; or
   (b) any information matching programme the objective of which is similar in nature to any authorised information matching programme.
 
 ### 109 Avoidance of controls on information matching through use of official information statutes
 Notwithstanding anything in the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, no public sector agency shall disclose pursuant to either of those enactments, to any other public sector agency, any personal information if the sole or principal purpose for which that information is sought is for use in an information matching programme.
+
+## Part 10A — Identity information
+
+### 109A Purpose of Part
+The purpose of this Part is to authorise accessing agencies, when carrying out specified functions, to verify the identity of an individual by accessing identity information held about that individual by a holder agency.
+
+### 109B Relationship between Part 10A and other law relating to information disclosure
+This Part does not—
+  (a) limit the collection, use, or disclosure of personal information that—
+    (i) is authorised or required by or under any enactment; or
+    (ii) is permitted by the information privacy principles:
+  (b) limit Part 9A, 10, or 11.
+
+### 109C Interpretation
+In this Part,—
+  - **access** , in relation to a database, includes remote access to that database
+  - **accessing agency** means an agency specified in the first column of Schedule 4A
+  - **biometric information** , in relation to a person, means information that comprises—
+    (a) 1 or more of the following kinds of personal information:
+      (i) a photograph of all or any part of the person’s head and shoulders:
+      (ii) impressions of the person’s fingerprints:
+      (iii) a scan of the person’s irises; and
+    (b) an electronic record of the personal information that is capable of being used for biometric matching
+  - **database** means any information recording system or facility used by an agency to store information
+  - **holder agency** means an agency specified in the third column of Schedule 4A
+  - **identity information** , in relation to an individual, means any information that identifies, or relates to the identity of, the individual, and includes (without limitation) the following information:
+    (a) the individual’s biographical details (for example, the individual’s name, address, date of birth, place of birth, and gender):
+    (b) the individual’s biometric information:
+    (c) a photograph or visual image of the individual:
+    (d) details of the individual’s—
+      (i) New Zealand travel document; or
+      (ii) certificate of identity:
+    (e) details of any distinguishing features (including tattoos and birthmarks).
+
+### 109D Access by agencies to identity information
+An accessing agency may, for the purpose specified in the second column of Schedule 4A opposite the name of the accessing agency, have access to an individual’s identity information held by a holder agency specified in the third column of that schedule opposite the name of the accessing agency.
+
+### 109E Manner and form of access
+(1) Access to identity information permitted under section 109D may be facilitated between a holder agency and an accessing agency in the manner agreed by the agencies (for example, by direct access to information stored in a holder agency’s database, or by exchange of information between the agencies).
+(2) Identity information that is held by a holder agency and accessed by an accessing agency under section 109D may be made available to the accessing agency in the form agreed by the agencies.
+
+### 109F Annual reporting requirement
+The chief executive of an accessing agency must include in every annual report prepared by the chief executive for the purposes of section 43 of the Public Finance Act 1989, or any other applicable enactment requiring an annual report to Parliament, details of the operation of this Part and Schedule 4A.
+
+### 109G Amendment of Schedule 4A
+(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister given after consultation with the Privacy Commissioner,—
+  (a) add, remove, amend, or replace any item in Schedule 4A; or
+  (b) repeal Schedule 4A and substitute a new schedule.
+(2) Before recommending the making of an Order in Council facilitating access by an accessing agency to identity information held by a holder agency, the responsible Minister must be satisfied that—
+  (a) the purpose for which the identity information is to be accessed relates to a specified function of the accessing agency; and
+  (b) the identity information to be accessed is no more than is reasonably necessary to enable the accessing agency to achieve that purpose; and
+  (c) any potential conflicts or inconsistencies between the sharing of personal information under Schedule 4A and any other enactment have been identified and appropriately addressed.
 
 ## Part 11 — Law enforcement information
 
@@ -1461,6 +1520,13 @@ In this Part, unless the context otherwise requires,—
     (a) is about an identifiable individual; and
     (b) is specified in Schedule 5
   - **local authority** means a local authority or public body named or specified in Schedule 1 or Schedule 2 of the Local Government Official Information and Meetings Act 1987.
+
+### 110A Relationship between Part 11 and other law relating to information disclosure
+This Part does not—
+  (a) limit the collection, use, or disclosure of personal information that—
+    (i) is authorised or required by or under any enactment; or
+    (ii) is permitted by the information privacy principles:
+  (b) limit Part 9A, 10, or 10A.
 
 ### 111 Access by accessing agencies to law enforcement information
 An accessing agency may have access to law enforcement information held by a holder agency if such access is authorised by the provisions of Schedule 5.
@@ -1891,6 +1957,18 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 (1) Where an authorised information matching programme is to continue for any period longer than 1 year, or for an indefinite period, the agencies involved in the programme shall establish limits on the number of times that matching is carried out pursuant to the programme in each year of its operation.
 (2) The limits established in accordance with subclause (1) shall be stated in writing in an annex to the Technical Standards Report prepared in respect of the programme pursuant to clause 4.
 (3) The limits established in accordance with subclause (1) may be varied from time to time by the agencies involved in the programme.
+
+## Schedule 4A — Identity information
+
+| Accessing agency | Purpose of access | Holder agency |
+| --- | --- | --- |
+| Department of Corrections | To verify the identity of—aa person under control or supervision (as defined in section 3(1) of the Corrections Act 2004):ba person who under section 30B of the Bail Act 2000 has been granted bail with an electronic monitoring condition | Department of Internal AffairsMBIE (Immigration)Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)Ministry of JusticeNew Zealand PoliceNew Zealand Transport Agency |
+| Department of Internal Affairs | To verify the identity of a person who has applied for—athe issue of—ia New Zealand travel document:iia certificate of New Zealand citizenship:iiian electronic identity credential:bthe registration of a name change | Department of CorrectionsMBIE (Immigration)Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)New Zealand PoliceNew Zealand Transport Agency |
+| MBIE (Immigration) | To verify the identity of a person—awho is seeking to travel to New Zealand:bwho is arriving in or departing from New Zealand:cwho is applying for a visa:dwho an immigration officer has good cause to suspect—ihas committed an offence against the Immigration Act 2009:iihas obtained a visa under a fraudulent identity:iiiis liable for deportation or turnaround:ivis unlawfully in New Zealand | Department of CorrectionsDepartment of Internal AffairsMinistry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)Ministry of JusticeNew Zealand Customs ServiceNew Zealand PoliceNew Zealand Transport Agency |
+| Ministry of Health and District Health Boards | To verify the identity of a person who—ais being admitted, or returned, to a hospital as a special patient or restricted patient; orbis being admitted, or returned, to a secure facility as a special care recipient | Department of CorrectionsDepartment of Internal AffairsMBIE (Immigration)New Zealand Police |
+| New Zealand Customs Service | To verify the identity of a person who—ais in a Customs controlled area; andbis departing, or attempting to depart, from New Zealand | Department of CorrectionsDepartment of Internal AffairsMBIE (Immigration)Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)New Zealand Transport Agency |
+| New Zealand Police | To verify the identity of a person—awhose identifying particulars have been taken under section 32 or 33 of the Policing Act 2008:bwhose identifying particulars have been taken under section 11 of the Returning Offenders (Management and Information) Act 2015:cwho has breached, has attempted to breach, or is preparing to breach a condition of any sentence, or order imposed under any enactment, that the person not leave New Zealand | Department of CorrectionsDepartment of Internal AffairsMBIE (Immigration)Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)New Zealand Customs ServiceNew Zealand Transport Agency |
+| Note: A reference in this schedule to MBIE (Immigration) is a reference to the part of the Ministry of Business, Innovation, and Employment that administers the Immigration Act 2009. |  |  |
 
 ## Schedule 5 — Law enforcement information
 
