@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2017-08-11_
+_Consolidation as at 2017-08-22_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -20,6 +20,7 @@ The purposes of this Act are—
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **biometric information** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **bodily sample** , for a person, means—
     (a) a sample of the person’s blood, breath, hair, or urine; or
     (b) any other sample of a similar kind from the person
@@ -732,6 +733,7 @@ An offender who is sentenced to supervision is subject to—
   (d) if consent is given under paragraph (c), the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
   (e) if an offender intends to change his or her residential address within a probation area, the offender must give a probation officer reasonable notice before moving from his or her residential address (unless notification is impossible in the circumstances) and must advise the probation officer of the new address:
   (f) the offender must not reside at any address at which a probation officer has directed the offender not to reside:
+  (fa) the offender must, if a probation officer directs, allow the collection of biometric information:
   (g) the offender must not engage, or continue to engage, in any employment or occupation in which a probation officer has directed the offender not to engage or continue to engage:
   (h) the offender must not associate with any specified person, or with persons of any specified class, with whom a probation officer has, in writing, directed the offender not to associate:
   (i) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
@@ -850,6 +852,8 @@ An offender who is sentenced to intensive supervision is subject to—
   (e) if consent is given under paragraph (d), the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
   (f) if an offender intends to change his or her residential address within a probation area, the offender must give a probation officer reasonable notice before moving from his or her residential address (unless notification is impossible in the circumstances) and must advise the probation officer of the new address:
   (g) the offender must not reside at any address at which a probation officer has directed the offender not to reside:
+  (ga) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+  (gb) the offender must, if a probation officer directs, allow the collection of biometric information:
   (h) the offender must not engage, or continue to engage, in any employment or occupation in which a probation officer has directed the offender not to engage or continue to engage:
   (i) the offender must not associate with any specified person, or with persons of any specified class, with whom a probation officer has, in writing, directed the offender not to associate:
   (j) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
@@ -1001,6 +1005,9 @@ An offender who is subject to a sentence of community work must report in person
   (a) as soon as practicable, and not later than 72 hours, after the sentence is imposed or, if the start date of the sentence has been deferred under section 20A(2)﻿(b) or 57A, within 72 hours of the specified start date; and
   (b) as directed at any other time during the sentence for the purpose of monitoring the sentence.
 
+### 59A Offender must allow collection of biometric information
+An offender who is subject to a sentence of community work must, if a probation officer directs, allow the collection of biometric information.
+
 ### 60 Offender must notify probation officer if offender changes residential address
 If an offender who is subject to a sentence of community work moves to a new residential address, the offender must, within 72 hours, notify a probation officer of the offender's new residential address.
 
@@ -1151,6 +1158,8 @@ If a probation officer is satisfied that the offender has a good record of compl
     (ii) not later than 24 hours after the start date of the sentence if the sentence has been deferred under section 20A(2)﻿(b) unless the 24 hours elapses on a weekend or a public holiday, in which case the offender must report on the next working day:
   (c) the offender must report to a probation officer as and when required to do so by the probation officer, and must notify the probation officer of his or her residential address, any change to that address, and the nature and place of his or her employment when asked to do so:
   (d) the offender must keep in his or her possession the curfew order drawn up under section 74 and, if requested to do so by a constable or a probation officer, must produce the order for inspection:
+  (da) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+  (db) the offender must, if a probation officer directs, allow the collection of biometric information:
   (e) the offender must, when required to do so by a probation officer, submit to the electronic monitoring of compliance with the conditions of his or her sentence, which may require the offender to be connected to electronic monitoring equipment throughout the sentence term and not just throughout the curfew period:
   (f) the offender must, if required to submit to the electronic monitoring of his or her sentence, remain during the curfew period within the area defined by the probation officer.
 (2) An offender may leave the curfew address during the curfew period only—
@@ -1282,7 +1291,7 @@ An offender who is subject to a sentence of intensive supervision with a drug or
     (ii) to submit to continuous monitoring when required to do so under section 80ZO(2)﻿(b); or
     (iii) to comply with instructions specified in a notice given under section 80ZO(2)﻿(b) that are reasonably necessary for the effective administration of the continuous monitoring; or
     (iv) to accompany an authorised person, when required to do so under section 80ZQ(4), to a place where it is likely that it will be reasonably practicable for the offender to undergo testing; or
-    (v) to contact a specified automated system when required to do so under section80ZO(2)﻿(c); or
+    (v) to contact a specified automated system when required to do so under section 80ZO(2)﻿(c); or
     (vi) to report, at any time or times when required to do so under section 80ZQ(5), to a specified testing facility to undergo testing; or
     (vii) to undergo a testing procedure when required to do so under sections 80ZO(2)﻿(c) and 80ZQ; or
   (b) does anything with the intention of diluting or contaminating a bodily sample required under section 80ZO(2)﻿(a) or (c) for the purposes of a prescribed testing procedure; or
@@ -1291,6 +1300,7 @@ An offender who is subject to a sentence of intensive supervision with a drug or
 ### 71 Offences relating to breach of sentence of community work
 (1) An offender who is sentenced to community work commits an offence, and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, who—
   (a) fails, without reasonable excuse, to report to a probation officer in accordance with section 59 or section 78 or section 80; or
+  (ab) fails, without reasonable excuse, to allow the collection of biometric information in accordance with section 59A; or
   (b) fails, without reasonable excuse, to notify a probation officer of any new residential address in accordance with section 60; or
   (c) fails, without reasonable excuse, to—
     (i) do any work satisfactorily in accordance with the sentence; or
@@ -1486,6 +1496,8 @@ When an offender performs any service or does any work or attends any course or 
   (a) the offender is under the supervision of a probation officer and must co-operate with the probation officer and comply with any lawful direction given by that probation officer; and
   (b) the offender must not leave the home detention residence at any time except in the circumstances set out in subsections (3), (4), and (5); and
   (c) the offender must keep in his or her possession the order drawn up under section 80ZC and, if requested to do so by a constable or a probation officer, must produce the order for inspection; and
+  (ca) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+  (cb) the offender must, if a probation officer directs, allow the collection of biometric information:
   (d) the offender must, when required by a probation officer, submit to the electronic monitoring of compliance with his or her detention conditions; and
   (da) the offender must, if required to submit to the electronic monitoring of his or her sentence, remain within the area defined by the probation officer; and
   (e) the offender must not engage, or continue to engage, in any employment or occupation in which a probation officer has directed the offender not to engage or continue to engage; and
@@ -1646,6 +1658,8 @@ The standard post-detention conditions of a sentence of home detention are the f
   (c) if consent is given under paragraph (b), the offender must report in person to a probation officer in the new probation area in which the offender is to reside as soon as practicable, and not later than 72 hours, after the offender's arrival in the new area:
   (d) if an offender intends to change his or her residential address within a probation area, the offender must give the probation officer reasonable notice before moving from his or her residential address (unless notification is impossible in the circumstances) and must advise the probation officer of the new address:
   (e) the offender must not reside at any address at which a probation officer has directed the offender not to reside:
+  (ea) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+  (eb) the offender must, if a probation officer directs, allow the collection of biometric information:
   (f) the offender must not engage, or continue to engage, in any employment or occupation in which the probation officer has directed the offender not to engage or continue to engage:
   (g) the offender must not associate with any specified person, or with persons of any specified class, with whom the probation officer has, in writing, directed the offender not to associate:
   (h) the offender must take part in a rehabilitative and reintegrative needs assessment if and when directed to do so by a probation officer.
@@ -1925,6 +1939,15 @@ After considering a progress report, the Judge may order that the offender atten
 (2) If the Judge requests further submissions under subsection (1), he or she must set the matter down for a hearing.
 (3) After hearing submissions on whether the sentence should be varied or cancelled at the hearing, the Judge may vary or cancel the sentence of intensive supervision or home detention in accordance with section 54K or 80F (whichever is applicable) as if an application had been made under either of those sections.
 
+### Subpart 2BA — Biometric information
+
+### 80ZMA Purpose of collecting biometric information
+(1) Biometric information collected under section 49(1)﻿(fa), 54F(1)﻿(gb), 59A, 69E(1)﻿(db), 80C(2)﻿(cb), or 80O(eb) may only be used for the purpose of helping—
+  (a) to manage offenders to ensure public safety; and
+  (b) to identify offenders before they leave New Zealand; and
+  (c) to enforce the conditions specified in sections 54F(1)﻿(ga), 69E(1)﻿(da), 80C(2)﻿(ca), and 80O(ea).
+(2) Biometric information may be used only for the purpose referred to in subsection (1).
+
 ### Subpart 2C — Drug or alcohol conditions
 
 ### 80ZN Imposition, and effect, of drug or alcohol condition
@@ -1960,7 +1983,7 @@ After considering a progress report, the Judge may order that the offender atten
 (1) An authorised person may give an offender a notice under section 80ZO(2) in any of the following ways:
   (a) by giving the notice personally and in writing to the offender:
   (b) by giving the notice personally and orally to the offender, then, unless the notice requires the offender only to undergo breath screening, as soon as practicable recording it in writing and giving a copy to the offender:
-  (c) if the notice is given under section 80ZO(2)﻿(a), by giving the notice to the offender by telephone or other means of electronic communication (as defined in section 5 of the Electronic Transactions Act 2002), then as soon as practicable recording it in writing (if it is not already in writing) and giving a copy to the offender.
+  (c) if the notice is given under section 80ZO(2)﻿(a), by giving the notice to the offender by telephone or other means of electronic communication (as defined in section 209 of the Contract and Commercial Law Act 2017), then as soon as practicable recording it in writing (if it is not already in writing) and giving a copy to the offender.
 (2) An automated system must, in response to an offender contacting it as required by a notice given under section 80ZO(2)﻿(c) and subsection (1), give the offender a spoken or written response notice specifying whether the offender is required to undergo testing.
 (3) A notice given by an authorised person under subsection (1)﻿(c) or a response notice that is given under subsection (2) and that requires an offender to undergo testing must specify the name and location of a testing facility to which the offender is required to report to undergo testing, and the time or times when the offender is required to report, under section 80ZQ.
 
