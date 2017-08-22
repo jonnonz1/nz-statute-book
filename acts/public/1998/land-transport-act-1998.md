@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2017-08-11_
+_Consolidation as at 2017-08-22_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -866,7 +866,9 @@ The Agency may suspend or revoke a driver licence in accordance with the regulat
   (b) in the case of a person who applies to convert an overseas licence or permit to a New Zealand full driver licence, the licence must show the date of issue of that person's first New Zealand driver licence; and
   (c) in the case of a learner licence or restricted licence issued under Part 4 of the Land Transport (Driver Licensing) Rule 1999, the original date of issue of the learner licence or restricted licence must be shown on that licence.
 (4C) Subsection (4B)﻿(c) does not apply if the learner licence or the restricted licence adds a class to an existing licence.
-(5) The Agency must store the photographic image used for each licence until the licence expires.
+(5) The agency—
+  (a) must store the photographic image used for each licence until the licence expires; and
+  (b) may store the photographic image used for each licence after the licence has expired.
 
 ### 28A Transitional provisions for photographic driver licences
 Despite section 28(1)﻿(g) and (4), the date of issue of a driver licence continues to be shown on an existing licence until that licence is renewed or replaced under Part 12 of the Land Transport (Driver Licensing) Rule 1999.
@@ -4207,17 +4209,22 @@ The functions of the Minister under this Act are—
 (6) Information requested under subsection (4) may be given in writing or electronically or orally.
 
 ### 200 Restrictions on access to photographic images of driver licence holders
-(1) Except as provided in this section, no person, other than a person acting in the course of the person's official duties as an employee of the Agency, may access any photographic image stored under section 28(5).
-(2) A constable may, for the purpose of enforcing any enactment referred to in section 113(1), access any photographic image stored under section 28(5) on production to the Agency of—
-  (a) written consent to such access given by the individual to whom the image relates; or
-  (b) an appropriate warrant issued under section 198 of the Summary Proceedings Act 1957.
-(2A) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
+(1) Except as provided in this section or Part 10A of the Privacy Act 1993, no person other than a person acting in the course of the person’s official duties as an employee of the agency may access or use any photographic image stored under section 28(5).
+(2) A person who is acting in the course of the person’s official duties as an employee of the Department of Internal Affairs may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual.
+(3) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
   (a) on production to the Agency of—
     (i) a death certificate (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the individual; or
-    (ii) the grant of probate of the will of the individual or of letters of administration to the individual's estate; and
-  (b) only if the person who is seeking access to the photographic image satisfies the Agency that the person is the individual's next of kin.
-(3) A person who has lawful access to a photographic image stored under section 28(5) may use that image only in the course, and for the purposes, of the person's official duties.
-(4) For the purposes of this section, next of kin includes a spouse, a civil union partner, and a de facto partner.
+    (ii) the grant of probate of the will of the individual or of letters of administration to the individual’s estate; and
+  (b) only if the person who is seeking access to the photographic image satisfies the Agency that the person is the individual’s next of kin.
+(4) A person who is acting in the course of the person’s official duties as an employee of a specified agency may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual for the purpose of law enforcement.
+(5) For the purposes of this section,—
+  - **next of kin** includes a spouse, a civil union partner, and a de facto partner
+  - **specified agency** means any of the following:
+    (a) the Department of Corrections:
+    (b) the part of the Ministry of Business, Innovation, and Employment that administers the Immigration Act 2009:
+    (c) the Ministry of Justice:
+    (d) the New Zealand Customs Service:
+    (e) the New Zealand Police.
 
 **Use of outside agencies in performance of functions**
 
