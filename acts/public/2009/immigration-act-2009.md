@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-22_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -47,12 +47,12 @@ In this Act, unless the context otherwise requires,—
     (a) providing information to the chief executive under section 96; or
     (b) notifying a person to whom section 96 applies of a decision of the chief executive under section 97
   - **arrival hall** means a place licensed under section 12 of the Customs and Excise Act 1996 for the processing of persons arriving in New Zealand
-  - **biometric information** , in relation to a person,—
-    (a) means any or all of—
-      (i) a photograph of all or part of the person's head and shoulders:
-      (ii) the person’s fingerprints:
-      (iii) an iris scan; and
-    (b) includes a record, whether physical or electronic, of any of the above things
+  - **biometric information** , in relation to a person, means information that comprises—
+    (a) 1 or more of the following kinds of personal information:
+      (i) a photograph of all or any part of the person’s head and shoulders:
+      (ii) impressions of the person’s fingerprints:
+      (iii) a scan of the person’s irises; and
+    (b) a record, whether physical or electronic, of the personal information that is capable of being used for biometric matching
   - **border requirement** means a requirement, responsibility, or obligation under any of sections 103 to 106, 119, and 120
   - **carrier** , in relation to a craft,—
     (a) means the owner or charterer of the craft; and
