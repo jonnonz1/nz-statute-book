@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-22_
 
 > Title
 
@@ -21,6 +21,7 @@ The purposes of this Act are—
 In this Act, unless the context otherwise requires,—
   - **adopted person** means a person information (not being information derived from an adoption order that has been discharged) relating to whom has been recorded under section 24 or section 25, or under a corresponding provision of a former Act or a former Adoption Act
   - **adoption information** means information relating to an adoption; and, in relation to any adoption, means information relating to that adoption
+  - **approved information sharing agreement** and have the meanings given to them by section 96C of the Privacy Act 1993
   - **birth** includes a still-birth; but does not include a miscarriage
   - **birth certificate** means a document—and, in relation to any person, means a birth certificate containing registered birth information relating to the person's birth
     (a) issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
@@ -77,6 +78,7 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to a person, a document within the meaning of paragraph (a) that contains registered name change information relating to each of the person's name changes
   - **name change information** means information relating to a name change; and, in relation to any name change, means information relating to that name change
   - **New Zealand** includes the Ross Dependency
+  - **non-disclosure direction** means a direction made by the Registrar-General on a request under section 75A(2)﻿(b) that a person's birth information, marriage information, civil union information, or name change information not be disclosed to the public
   - **occupier** , in relation to any premises, means the person for the time being in charge of them
   - **prescribed fee** includes a fee calculated or ascertained in accordance with regulations made under this Act
   - **Privacy Commissioner** means the Privacy Commissioner holding that office under section 12 of the Privacy Act 1993
@@ -1035,9 +1037,34 @@ In sections 74 to 75G,—
 (2) This section does not limit section 74.
 (3) This section and section 78A do not limit each other, and section 78A does not prevent the Registrar-General from entering into an information sharing agreement with any agency to share information of the kind specified in subsection (1).
 (4) Subsection (1) applies whether or not a non-disclosure direction is in force in respect of any or all of the personal information about an identifiable individual referred to in that subsection.
-(5) In this section,—
-  - **approved information sharing agreement** and have the meanings given to them by section 96C of the Privacy Act 1993
-  - **non-disclosure direction** means a direction made by the Registrar-General on a request under section 75A(2)﻿(b) that a person's birth information, marriage information, civil union information, or name change information not be disclosed to the public.
+(5)
+
+### 78AB Disclosure of birth information, death information, marriage information, civil union information, and name change information for law enforcement purposes
+(1) This section applies if a specified agency has reason to suspect that a particular individual—
+  (a) is, or is liable to be, detained under an enactment:
+  (b) is, or is liable to be, arrested under a warrant issued by a court or any Registrar:
+  (c) is contravening, or is about to contravene, an enactment or a court order:
+  (d) is liable to be prosecuted for an offence punishable by imprisonment:
+  (e) is, or is liable to be, detained or arrested in respect of a traffic offence:
+  (f) is endangering, or is threatening to endanger, the life, health, or safety of a person or group of persons:
+  (g) is injured or dead.
+(2) If this section applies, the Registrar-General may, despite the existence or absence of an approved information sharing agreement, share the following personal information about the particular individual with the specified agency:
+  (a) birth information:
+  (b) death information:
+  (c) marriage information:
+  (d) civil union information:
+  (e) name change information.
+(3) This section does not limit section 74, 78A, or 78AA.
+(4) Subsection (1) applies whether or not a non-disclosure direction is in force in respect of any or all of the personal information about an identifiable individual referred to in that subsection.
+(5) For the purposes of this section, specified agency means any of the following:
+  (a) the Department of Corrections:
+  (b) the Department of Internal Affairs:
+  (c) the part of the Ministry of Business, Innovation, and Employment that administers the Immigration Act 2009:
+  (d) the Ministry of Justice:
+  (e) the Ministry of Transport:
+  (f) the New Zealand Customs Service:
+  (g) the New Zealand Police:
+  (h) the New Zealand Transport Agency.
 
 ### 78B Information matching to trace unregistered births
 (1) The purpose of this section is to authorise the Registrar-General to obtain information from the department for the time being responsible for the administration of the Social Security Act 1964 (the department) in order to assist in locating and contacting the mothers of children whose births are unregistered so that their births may be registered.
