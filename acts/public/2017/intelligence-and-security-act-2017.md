@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2017-03-28_
+_Consolidation as at 2017-08-22_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -2903,8 +2903,9 @@ Sections 281 and 282 amend the Land Transport Act 1998.
 Replace section 200(1) with:
   (1) No person other than a person acting in the course of the person’s official duties as an employee of the Agency may access or use any photographic image stored under section 28(5).
   (1A) Subsection (1) is subject to—
-    (a) subsections (2) and (2A):
-    (b) section 141 of the Intelligence and Security Act 2017.
+    (a) subsections (2), (3), and (4):
+    (b) section 141 of the Intelligence and Security Act 2017:
+    (c) Part 10A of the Privacy Act 1993.
 
 **Amendments to Passports Act 1992**
 
