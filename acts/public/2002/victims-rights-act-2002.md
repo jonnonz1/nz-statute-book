@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-22_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -528,6 +528,9 @@ The chief executive of the Department of Corrections must give a victim to whom 
     (ii) the offender's death during home detention or while subject to any post-detention conditions imposed under section 80N or 80R of the Sentencing Act 2002; and
   (c) notice, shortly beforehand, of the expiry date of any post-detention conditions imposed under section 80N or 80R of the Sentencing Act 2002.
 
+### 35B Notice of offender on temporary release escaping from lawful custody
+If the accused or offender is temporarily released from custody under section 62(1)﻿(a) of the Corrections Act 2004, the chief executive of the Department of Corrections must give a victim to whom this section applies notice, as soon as practicable, of every instance the accused or offender is deemed to be unlawfully at large under section 63(3) of that Act.
+
 ### 36 Notice of convictions and sentences for breaching release or detention conditions
 (1) The chief executive of the Department of Corrections must give a victim to whom this section applies notice, as soon as practicable, of—
   (a) every conviction of the offender for an offence against section 71(1) of the Parole Act 2002 of breaching, without reasonable excuse, any standard release conditions or special conditions imposed by the New Zealand Parole Board:
@@ -598,10 +601,13 @@ The chief executive of the Department of Corrections must give a victim to whom 
 A victim to whom this section applies may, for any reason he or she thinks fit, appoint any other person to receive on the victim's behalf, and ensure that the victim is given and understands, any notice to be given to the victim under any of sections 34 to 39 (in sections 41 to 45 called the information).
 
 ### 41 Effect of appointment of representative
-If a representative of a victim is appointed, then, unless the appointment is terminated under section 44,—
+(1) If a representative of a victim is appointed, then, unless the appointment is terminated under section 44,—
   (a)
   (b) the information to which the appointment relates must be given to the representative, rather than to the victim; and
   (c) the representative must make all reasonable efforts to receive on the victim's behalf, and ensure that the victim is given and understands, the information to which the appointment relates.
+(2) However, despite subsection (1)﻿(b), if the information to which the appointment relates is a notice to be given to the victim under section 35(1)﻿(b)﻿(i), 35A(b)﻿(i), 35B, or 37(2)﻿(c), that notice may be given to the victim directly in any case where the person giving the notice reasonably believes—
+  (a) there is a risk to the victim’s safety; and
+  (b) that risk cannot in the circumstances be sufficiently managed by giving the notice to the representative.
 
 ### 42 Victim's support person may be or appoint representative
 A victim's support person (person A) may appoint himself or herself, or another support person of the victim, as representative of the victim, on behalf of the victim, if—
@@ -634,7 +640,7 @@ A notice appointing, or terminating the appointment of, a representative, takes 
   (b) by posting it, or delivering it by courier or otherwise, to the victim at a postal address (for example, one of a house or office, letterbox, rural delivery box, document exchange box, or private box at a postal outlet) he or she gave as part of his or her address; or
   (c) by sending it by fax machine to a fax number given by the victim as part of his or her address; or
   (d) by sending it by email to the victim at the email address he or she gave as part of his or her address.
-(2) If, as required by section 41(b), information is to be given to the representative of a victim, it is sufficient compliance with that requirement to give the information by any of the means set out in subsection (1)﻿(a) to (d) and all references in those paragraphs to the victim are to be read as references to the representative.
+(2) If, as required by section 41(1)﻿(b), information is to be given to the representative of a victim, it is sufficient compliance with that requirement to give the information by any of the means set out in subsection (1)﻿(a) to (d) and all references in those paragraphs to the victim are to be read as references to the representative.
 (3) Nothing in subsection (1) or (2) prevents notice from being given by any other means.
 
 **Participation in process under Parole Act 2002**
