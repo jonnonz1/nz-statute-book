@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-08-22_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -9,6 +9,7 @@ _Consolidation as at 2017-03-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **biometric information** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **clinician** means a person who holds a professional qualification relevant to the assessment, treatment, and care of patients with mental disorder
   - **court** means—
     (a) the District Court; or
@@ -595,6 +596,19 @@ So far as practicable, duly authorised officers shall act as a ready point of co
   (g) retaking after an escape.
 (3) The person in charge of the hospital must send the information within 14 days after the event occurs.
 
+**Collection of biometric information**
+
+### 43A Collection of biometric information
+(1) This section provides for the collection of biometric information to—
+  (a) strengthen the management of special patients and restricted patients in hospitals; and
+  (b) ensure the safety and security of special patients and restricted patients; and
+  (c) better manage the risk of special patients and restricted patients breaching section 52A.
+(2) A person who is a special patient or a restricted patient must allow the collection of biometric information if directed by—
+  (a) the Director of Mental Health; or
+  (b) the Director of Area Mental Health Services; or
+  (c) the person in charge of the hospital in which the patient is detained.
+(3) This section is subject to any regulations made under section 135(1)﻿(f).
+
 **Special patients**
 
 ### 44 Treatment of special patients generally
@@ -713,8 +727,21 @@ If it appears to the chief executive of the Department of Corrections that any p
 (3) The Director may, at any time during the period of leave granted under this section to any patient, cancel the leave; and, in any such case, the provisions of subsections (3) to (5) of section 50 shall apply with any necessary modifications.
 (4) With the authority of the Director and subject to such conditions as the Director may impose, the Director of Area Mental Health Services may, after consultation (in the case of a patient who is detained in hospital pursuant to an order made under section 45 or pursuant to section 46) with the manager of the appropriate prison, exercise in any particular case the powers conferred on the Director by this section.
 
+### 52A Special patients not to leave hospital or depart from New Zealand without permission
+(1) A special patient may not leave the hospital in which the special patient is detained unless—
+  (a) granted leave of absence by the Minister under section 50; or
+  (b) granted leave of absence by the Director under section 52.
+(2) A special patient may not depart from New Zealand unless—
+  (a) the special patient has been granted leave of absence under section 50 or 52; and
+  (b) the special patient is permitted by the Minister, on terms and conditions specified by the Minister, to be absent from New Zealand during that leave; and
+  (c) the special patient’s departure from New Zealand is in accordance with the terms and conditions of the Minister’s permission given under paragraph (b).
+(3) A special patient who contravenes subsection (2) must be treated as having escaped.
+(4) In subsection (2), depart includes—
+  (a) attempt to depart:
+  (b) prepare to depart.
+
 ### 53 Escape and absence without leave
-Any special patient who escapes, or who fails to return on the expiry or cancellation of any period of leave may be retaken at any time by the Director, or by the Director of Area Mental Health Services, or by a duly authorised officer, or by any constable, or by any person to whom the charge of the patient had been entrusted during the period of leave, and taken to the hospital from which the patient escaped or was on leave or to any other hospital specified by the Director.
+Any special patient who escapes, or who breaches any condition of leave, or who fails to return on the expiry or cancellation of any period of leave may be retaken at any time by the Director, or by the Director of Area Mental Health Services, or by a duly authorised officer, or by any constable, or by any person to whom the charge of the patient had been entrusted during the period of leave, and taken to the hospital from which the patient escaped or was on leave or to any other hospital specified by the Director.
 
 **Restricted patients**
 
@@ -1186,7 +1213,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (1) The Minister may from time to time, by notice in the Gazette, declare any hospital, or any part of a hospital, to be a psychiatric security institution, and may in like manner revoke or amend any such notice.
 (2) Notwithstanding anything in this Act, no compulsory treatment order or any other order made by any court under this or any other Act shall purport to commit any person to a psychiatric security institution.
 (3) No patient shall be transferred to or from any psychiatric security institution otherwise than at the direction or with the authority of the Director.
-(4) Subject to any regulations made under this Act, any patient in a psychiatric security institution shall, if so required by the Director, be photographed.
+(4)
 
 **Review Tribunals**
 
@@ -1551,7 +1578,7 @@ The responsible clinician shall send to the Director-General of Health, or to su
   (c) regulating the employment of patients and prescribing the terms and conditions of any such employment, the remuneration to be paid to or in respect of patients in consideration of any work performed by them, the method of such payment, and the persons to whom such remuneration is to be paid:
   (d) regulating the carrying on of agricultural, industrial, or commercial pursuits or workshops in or in connection with hospitals:
   (e) regulating the conduct of psychiatric security institutions:
-  (f) regulating the photographing of special patients contained in psychiatric security institutions:
+  (f) restricting or otherwise regulating the collection under section 43A of biometric information from special patients and restricted patients:
   (g) prescribing fees for any of the purposes of this Act:
   (h) prescribing offences in respect of the contravention of or non-compliance with any regulation made under this Act or any requirement or direction made or given pursuant to any such regulation:
   (i) prescribing fines not exceeding in respect of any such offence $500 and, in the case of a continuing offence, $50 for every day on which the offence has continued:
