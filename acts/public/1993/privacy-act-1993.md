@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2017-08-31_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1374,13 +1374,11 @@ Where a specified agency derives or receives information produced by an authoris
 (1A) Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the Social Security Act 1964 from immediately suspending sole parent support, the supported living payment, an emergency benefit, jobseeker support, a young parent payment, or a youth payment, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to section 280 of the Customs and Excise Act 1996, and where, before or immediately after the decision to suspend, the department gives the individual written notice—and the adverse action shall not be taken until the expiration of those 5 working days.
   (a) specifying particulars of the discrepancy and the suspension of benefit, and any other adverse action the department proposes to take; and
   (b) stating that the individual has 5 working days from the receipt of the notice to show cause why the benefit ought not to have been suspended or why the adverse action should not be taken, or both—
-(1B) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately suspending payment to an individual of all or part of an interim instalment of a credit of tax under subparts MA to MF and MZ of the Income Tax Act 2007 when a discrepancy is identified in information supplied to the Commissioner under section 85G of the Tax Administration Act 1994 if, before or immediately after the decision to suspend, the Commissioner gives a written notice to the individual that—and the other adverse action must not be taken until expiration of those 5 working days.
-  (a) provides details of the discrepancy and the suspension of payment of the credit of tax and any other adverse action which the Commissioner proposes to take; and
-  (b) states that the individual has 5 working days from the receipt of the notice to show cause why payment of the credit of tax ought not to have been suspended or why the adverse action should not be taken, or both—
+(1B)
 (1C) Nothing in subsection (1) prevents the Commissioner of Inland Revenue from immediately taking action to recover amounts relating to—
   (a) unpaid amounts owed to the Commissioner by an individual who is in serious default identified in information supplied to the Commissioner under section 280H of the Customs and Excise Act 1996; or
   (b) financial support under the Child Support Act 1991 owed to the Commissioner by an individual who is identified in information supplied to the Commissioner under section 280K or 280L of the Customs and Excise Act 1996.
-(2) Nothing in subsection (1) or subsection (1A) or subsection (1B) prevents an agency from taking adverse action against an individual if compliance with the requirements of that subsection would prejudice any investigation into the commission of an offence or the possible commission of an offence.
+(2) Nothing in subsection (1) or subsection (1A) prevents an agency from taking adverse action against an individual if compliance with the requirements of that subsection would prejudice any investigation into the commission of an offence or the possible commission of an offence.
 (2A) Nothing in subsection (1) prevents any constable or any bailiff from immediately executing a warrant to arrest an individual in respect of the non-payment of the whole or any part of a fine if the discrepancy arises in respect of arrival and departure information supplied under section 280D of the Customs and Excise Act 1996 and if, before executing the warrant, the individual concerned is—
   (a) informed of the intention to execute the warrant; and
   (b) given an opportunity to confirm—
@@ -1388,7 +1386,7 @@ Where a specified agency derives or receives information produced by an authoris
     (ii) that neither of the following circumstances applies:
       (A) the fine has been paid:
       (B) an arrangement to pay the fine over time has been entered into.
-(3) Every notice required to be given to any individual under subsection (1) or subsection (1A) or subsection (1B) may be given by delivering it to that individual, and may be delivered—
+(3) Every notice required to be given to any individual under subsection (1) or subsection (1A) may be given by delivering it to that individual, and may be delivered—
   (a) personally; or
   (b) by leaving it at that individual's usual or last known place of residence or business or at the address specified by that individual in any application or other document received from that individual; or
   (c) by posting it in a letter addressed to that individual at that place of residence or business or at that address.
@@ -1879,6 +1877,7 @@ The income of the Commissioner shall be exempt from income tax.
 |  |  |  |  | minformation about a person who may pose a risk to a child and information about that risk:nany assessments of a child for the purposes of the Oranga Tamariki Act 1989. |
 | Information sharing to support services for disengaged youth: information sharing agreement between the Ministry of Education and the Ministry of Social Development made on 8 August 2012 | To provide services to encourage and help young persons who have ceased to be enrolled at a registered school or a tertiary education organisation to move into, or remain in, education, training, and employment rather than to receiving financial support under the Social Security Act 1964 | http://www.youthservice.govt.nz/for-providers/provider-guide/neet-clients/information-sharing.html | Ministry of Social Development | astudent name (and any alternative names):bgender:cethnicity:ddate of birth:eresidency information (if known):faddress:ghome and mobile phone numbers (if known):hemail address:ischools attended (including geographical regions and deciles):jnumber of schools attended:kdate left school and year level:lleaving reason (for each school):mqualification information at time of leaving school:ndetails of any interventions that student may have participated in:oany information on student’s participation in tertiary education. |
 | Information Sharing Agreement for Sharing Permitted Information with Statistics New Zealand | Bona fide research in relation to matters of public interestProduction of official statistics by Statistics New Zealand | http://www.justice.govt.nz | Ministry of Justice | Permitted information, being permitted information that is specified in Part B of the items relating to court information in Schedule 2 of the Senior Courts Act 2016, but not including any permitted information suppressed by or under a court order or any enactmentPermitted information, being permitted information that is specified in Part B of the items relating to court information in of the District Court Act 2016, but not including any permitted information suppressed by or under a court order or any enactment |
+| Information Sharing Agreement Between Ministry of Social Development And Inland Revenue Department made in July 2017 | The accurate and efficient assessment of eligibility for, and entitlement to, benefits and subsidiesThe accurate and efficient assessment and enforcement of tax obligations, including recovering any associated debtThe accurate and efficient assessment and enforcement of obligations relating to benefits and subsidies, including recovering any associated debt | http://www.msd.govt.nzhttp://www.ird.govt.nz | Inland Revenue | acontact information:bidentifying information:cinformation about domestic relationships, including—ithe current and previous names, aliases, contact details, and dates of birth of persons with whom an identifiable individual has or had a domestic relationship; andiiin relation to any of those persons, information about employment, information about finances and income, information about social assistance, and information about tax:dinformation about employment:einformation about finances and income:finformation about social assistance:ginformation about tax. |
 
 ## Schedule 3 — Information matching provisions
 
@@ -1899,7 +1898,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Social Security Act 1964 | Sections 126A, 126AB, and 126AC |
 | Social Welfare (Transitional Provisions) Act 1990 | Section 19D(3)﻿(b) |
 | Student Loan Scheme Act 2011 | Section 208 |
-| Tax Administration Act 1994 | Sections 46A, 82, 83, 84, 85, 85A, 85B, 85E, 85G, and 85H |
+| Tax Administration Act 1994 | Sections 46A, 82, 85A, 85B, 85E, and 85H |
 
 ## Schedule 4 — Information matching rules
 
