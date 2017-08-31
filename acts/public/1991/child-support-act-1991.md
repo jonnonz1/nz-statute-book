@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-08-31_
 
 > Title
 
@@ -3532,11 +3532,8 @@ Every question of fact arising in any proceeding under this Act (not being crimi
     (iii) any threat made by a liable person against the welfare of an officer of the Inland Revenue Department:
   (b) the communication, to the person who, in relation to any liable person and to any financial support payable by the liable person under this Act, is the payee, of such information as the Commissioner considers desirable for the purpose of informing that person of the amount of any such financial support that is in arrear and unpaid by the liable person and the enforcement actions that have been taken or are proposed for the purpose of securing payment of that amount:
   (ba) the communication from time to time, to the person who, in relation to any liable person and to any financial support payable by the liable person under this Act, is the payee, of such information as the Commissioner considers desirable for the purpose of informing that person, in relation to any period, of the amount of any such financial support that has been paid by the liable person for or during that period, and the date or dates on which the payment or payments have been made:
-  (c) the communication, to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or any officer of that department authorised in that behalf, of information for the purpose of—
-    (i) carrying into effect the provisions of this Act; or
-    (ii) carrying into effect the provisions of section 70A of the Social Security Act 1964:
-    (iii)
-  (d) the communication, to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or any officer of that department authorised in that behalf or the General Manager of Veterans’ Affairs New Zealand, of information relating to the amount of financial support paid by the Commissioner pursuant to Part 9 of this Act to any person whose income is required to be determined for the purposes of the Social Security Act 1964 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the Veterans' Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001:
+  (c)
+  (d) the communication, to the General Manager of Veterans’ Affairs New Zealand or any member of the Defence Force authorised in that behalf, of information relating to the amount of financial support paid by the Commissioner pursuant to Part 9 of this Act to any person whose income is required to be determined for the purposes of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the Veterans’ Support Act 2014:
   (db) the communication, to the Chief Executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
   (dc) the communication, to the Commissioner of Police or any Police employee authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
   (e) the communication, to the Chief Executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purposes of—
@@ -3551,7 +3548,7 @@ Every question of fact arising in any proceeding under this Act (not being crimi
 (4) Without limiting the generality of subsection (3), it is hereby declared that no person to whom this section applies shall be required to produce in any court or tribunal any book or document, or to divulge or communicate to any court or tribunal any matter or thing which that person may acquire or have access to or be given by way of information to which this section applies.
 (5) The certificate referred to in subsection (3) shall be given in the form prescribed by the Commissioner, and shall include the full name, address, and signature of the person giving the certificate and the date on which the certificate is given.
 (6) The certificate referred to in subsection (3) and subsection (5) shall,—
-  (a) where it is given by any persons referred to in paragraph (c) or paragraph (d) of subsection (2), be kept by the department for the time being responsible for the administration of the Social Security Act 1964 as a permanent record; and
+  (a) where it is given by any persons referred to in subsection (2)﻿(d), be kept by Veterans’ Affairs New Zealand as a permanent record; or
   (b) where it is given by any persons referred to in subsection (2)﻿(db) or (e), be kept by the Ministry of Justice as a permanent record; or
   (bb) if it is given by any persons referred to in subsection (2)﻿(dc), be kept by the New Zealand Police as a permanent record; or
   (c) where it is given by any other person referred to in subsection (2), be kept by the Inland Revenue Department as a permanent record.
@@ -3560,13 +3557,8 @@ Every question of fact arising in any proceeding under this Act (not being crimi
   (a) using information obtained under this Act for the purposes of carrying into effect the provisions of any of the Inland Revenue Acts; or
   (b) using information obtained under any of the Inland Revenue Acts for the purposes of carrying into effect the provisions of this Act.
 (9) Sections 81 to 87 of the Tax Administration Act 1994 shall not prevent officers of the Inland Revenue Department from advising persons who potentially are liable persons of the amount of child support that is likely to be payable by that person, based on the income of that person.
-(10) No obligation as to secrecy or other restriction upon the disclosure of information imposed by any enactment or otherwise shall prevent the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or any officer of that department authorised in that behalf from disclosing to the Commissioner—
-  (a) information obtained for any purpose and which is required to be disclosed by the persons authorised by this subsection for the purposes of carrying into effect the provisions of this Act:
-  (b) information held in relation to any person who is required to make liable parent contributions assessed under the Social Security Act 1964:
-  (c) the name and address of any person who is in receipt of a benefit under the Social Security Act 1964 and who is a liable person or a payee under this Act.
-(11) Information obtained pursuant to subsection (10) shall not be disclosed except—
-  (a) to the Commissioner or any officer of the Inland Revenue Department authorised in that behalf; or
-  (b) for the purposes of any proceeding connected with a matter in relation to which those persons so authorised perform their duties.
+(10)
+(11)
 
 ## Part 15 — Amendments to other Acts
 
