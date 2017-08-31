@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017
-_Consolidation as at 2017-03-30_
+_Consolidation as at 2017-08-31_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017.
