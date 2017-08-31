@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-08-31_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -47,9 +47,9 @@ _Consolidation as at 2017-07-01_
     (e) an amendment by the Commissioner of an assessment
   - **authorised officer** —
     (a) is defined in section 82(9) for the purposes of that section:
-    (b) is defined in section 83(7) for the purposes of that section:
-    (c) is defined in section 84(6) for the purposes of that section:
-    (d) is defined in section 85(6) for the purposes of that section:
+    (b)
+    (c)
+    (d)
     (e) is defined in section 81(8)﻿(aa) for the purposes of section 81(4)﻿(y):
     (f) is defined in section 82AA(3) for the purposes of that section
   - **award** is defined in section 130(6) for the purposes of that section
@@ -59,15 +59,8 @@ _Consolidation as at 2017-07-01_
     (b) for which the relevant reporting entity, under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 (the Act), has obtained identity information and completed verification of identity in accordance with the Act, if customer due diligence is required under that Act for the person
   - **base amount** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **basis of exemption** , in section 208(1)﻿(f), is the basis of exemption referred to in section 32E(2)
-  - **beneficiary** —
-    (a) is defined in section 82(9) for the purposes of that section:
-    (b) is defined in section 84(6) for the purposes of that section
-  - **beneficiary information** —
-    (a) is defined in section 82(9) for the purposes of that section:
-    (b) is defined in section 84(6) for the purposes of that section
-  - **benefit** , in sections 82, 82A, 84, and 85, has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
-    (a) a lump sum payable under section 61DB or section 61DC or section 61DD of that Act:
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under paragraph (d) or paragraph (da) of section 124(1) of that Act
+  - **beneficiary** is defined in section 82(9) for the purposes of that section
+  - **beneficiary information** is defined in section 82(9) for the purposes of that section
   - **bill of exchange** , in section 144, means a bill of exchange within the meaning of the Bills of Exchange Act 1908; and includes a promissory note within the meaning of that Act, other than a bank note
   - **binding ruling** means any—
     (a) public ruling made under section 91D:
@@ -76,8 +69,6 @@ _Consolidation as at 2017-07-01_
     (d) status ruling made under section 91GA
   - **business** is defined in section 152(18) for the purposes of that section
   - **business group amnesty** means an amnesty declared by the Commissioner under section 226B
-  - **cardholder** is defined in section 83(7) for the purposes of that section
-  - **cardholder information** is defined in section 83(7) for the purposes of that section
   - **challenge** means—as the context requires
     (a) to commence proceedings under Part 8A challenging a disputable decision; or
     (ab) to commence proceedings under section 89K(6) challenging a refusal to issue a notice; or
@@ -139,8 +130,6 @@ _Consolidation as at 2017-07-01_
       (iii) if a challenge is determined by a Taxation Review Authority in its general jurisdiction, and not by a court, the day on which the Authority determines the challenge:
       (iv) if a challenge is determined by a court, whether or not by way of appeal, the day on which the challenge is finally determined, whether in those proceedings or in a subsequent appeal:
       (v) to the extent the Commissioner concedes a challenge, the day on which the Commissioner notifies the disputant of the concession
-  - **debtor** is defined in section 85(6) for the purposes of that section
-  - **debtor information** is defined in section 85(6) for the purposes of that section
   - **decision** , for the purposes of the definition of disputable decision, includes the making, giving, or exercising of a discretion, judgment, direction, opinion, approval, consent, or determination by the Commissioner
   - **deferrable tax** , for a person who is a taxpayer or disputant, means—
     (a) an amount of tax, assessed under a tax law as payable by the person, in relation to which the person makes a competent objection under Part 8 or that the person challenges under Part 8A:
@@ -180,7 +169,6 @@ _Consolidation as at 2017-07-01_
   - **employee** is defined in section 46(7) for the purposes of that section
   - **employer** , in section 47, has the same meaning as in paragraphs (c) and (d) of the definition of that term in section YA 1 of the Income Tax Act 2007
   - **encumbrance** , in respect of an estate or interest in land, means any trust, contract, easement, condition, or contingency affecting the same, and any restriction, however imposed, on the owner's power of user, alienation, or disposition
-  - **entitlement card** is defined in section 83(7) for the purposes of that section
   - **exceptional circumstance** —
     (a) is defined in section 89K(3) for the purposes of that section:
     (b) is defined in section 89L(3) for the purposes of that section:
@@ -331,7 +319,6 @@ _Consolidation as at 2017-07-01_
   - **provisional tax paid** is defined in section 139C
   - **provisional tax payable** is defined in section 139C
   - **provisional taxpayer** means a person who is liable to pay provisional tax under section RC 3 of the Income Tax Act 2007
-  - **qualifying person** is defined in sections 83(7), 84(6), and 85G(6) for the purposes of those sections
   - **ratio instalment date** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **reconciliation statement** means a reconciliation statement under section 49
   - **record** —
@@ -356,11 +343,6 @@ _Consolidation as at 2017-07-01_
     (a) is defined in section 120KB(4) for the purposes of Part 7:
     (b) for the purposes of any other provision of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **response period** is defined in section 89AB
-  - **responsible department** —
-    (a) in sections 81(4)﻿(f) and (o), 82, and 85, means—
-      (i) in relation to a benefit that is not a student allowance, the department for the time being responsible for the administration of the Social Security Act 1964:
-      (ii) in relation to a student allowance, the department for the time being responsible for the administration of Part 25 of the Education Act 1989:
-    (b) in sections 24F and 24IB, means the department for the time being responsible for the administration of the Social Security Act 1964
   - **restricted information** , in sections 87 and 205, means any information that the Commissioner has obtained under the Inland Revenue Acts, including all Acts (whether repealed or not) at any time administered by or in the department, or arising out of such other functions as may from time to time have been lawfully conferred on the Commissioner
   - **return period** means—
     (a) the period covered by a tax return, or which would be covered by a tax return if one were provided:
@@ -1412,7 +1394,7 @@ An employee who wishes to have a tax code for their employment as a private dome
   (b) their other employment income from 1 or more employers.
 (1) After an application is received under subsection (1A), the Commissioner may issue a special tax code for an employee, whether because the employee has 2 or more employments, or is entitled to have a net loss carried forward, or wishes to have a reduction applying to the amount of tax withheld, or for another reason.
 (1B) When a special tax code is issued for an employee under subsection (1), the Commissioner must—
-  (a) notify the responsible department under section 24IB, if the employee asks under subsection (1AB)﻿(a) for the special tax code to apply to their New Zealand superannuation income or veteran’s pension income; or
+  (a) notify the department that is for the time being responsible for administration of the Social Security Act 1964 (the responsible department) under section 24IB, if the employee asks under subsection (1AB)﻿(a) for the special tax code to apply to their New Zealand superannuation income or veteran’s pension income; or
   (b) give the employee a special tax code certificate that includes the information required under section 24F(2) and (3), if the employee asks under subsection (1AB)﻿(b) for the special tax code to apply to their other employment income from 1 or more employers.
 (2) The special tax code may—
   (a) set out a tax code to apply to a payment of salary or wages to an employee by 1 or more of their employers for a period referred to in the certificate or notification:
@@ -1459,7 +1441,7 @@ An employee who wishes to have a tax code for their employment as a private dome
 (1) This section applies when—
   (a) an employee asks under section 24F(1AB)﻿(a) for a special tax code to apply to their New Zealand Superannuation income or veteran’s pension income; and
   (b) the Commissioner issues a special tax code for the employee under section 24F(1).
-(2) The Commissioner must provide as soon as practicable a special tax code notification that includes the information required under section 24F(2) and (3) to an officer, employee, or agent of the responsible department whom the chief executive of the department authorises to receive the information.
+(2) The Commissioner must provide as soon as practicable a special tax code notification that includes the information required under section 24F(2) and (3) to an officer, employee, or agent of the department that is for the time being responsible for administration of the Social Security Act 1964 (the responsible department) whom the chief executive of the department authorises to receive the information.
 (3) Subject to section 24F(4), the responsible department must apply the special tax code notification in relation to a PAYE income payment of New Zealand superannuation income or veteran’s pension (a payment) made to the employee after the date the notification is provided to the responsible department.
 (4) If the special tax code notification is provided to the responsible department after the next payment has been calculated, the department must use the notification in relation to a payment that follows the next payment.
 
@@ -3221,7 +3203,7 @@ A notice of entitlement issued under section 80KD—
 (1) This section applies when the Commissioner—
   (a) is notified under section 80KG; or
   (b) considers that a notice of entitlement given to a person no longer applies; or
-  (c) is advised by the chief executive of the administering department, under sections 84 or 85G, that the person is also receiving a tax credit from the chief executive or will receive a tax credit from the chief executive.
+  (c) is advised by the chief executive of the administering department, under an information sharing agreement referred to in section 81A, that the person is also receiving a tax credit from the chief executive or will receive a tax credit from the chief executive.
 (2) The Commissioner may, on notifying the person,—
   (a) cancel the notice of entitlement; or
   (b) provide a replacement notice of entitlement for the same relationship period or a different relationship period, or provide a supplement to the notice of entitlement, as appropriate, having regard to information in the Commissioner’s possession.
@@ -3243,7 +3225,7 @@ A notice of entitlement issued under section 80KD—
 (2) The Commissioner may pay the instalments of the tax credit that the Commissioner thinks should be paid, having regard to the circumstances of the case.
 
 ### 80KK Payment by instalment of family tax credit (without abatement)
-(1) This section applies when the Commissioner considers, on the basis of information provided under section 85G by the chief executive, that a person is entitled to family tax credit.
+(1) This section applies when the Commissioner considers, on the basis of information provided under an information sharing agreement referred to in section 81A by the chief executive, that a person is entitled to family tax credit.
 (2) In the period described in subsection (3), the Commissioner must pay to the person the family tax credit by instalment and without abatement.
 (3) The period—
   (a) starts on the day following the day that the chief executive says is the last day that the person is entitled to—
@@ -3431,9 +3413,9 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (ec) communicating to a person who is an officer or employee of the Ministry of Business, Innovation, and Employment, WorkSafe New Zealand, or an agency designated under section 191 of the Health and Safety at Work Act 2015, information that—
     (i) the person is authorised by the Ministry, WorkSafe New Zealand, or agency, as applicable, to receive under workplace legislation; and
     (ii) the Commissioner considers is not undesirable to disclose and is reasonably necessary to enable the person to carry out a function, duty, or power conferred on the person under or in relation to workplace legislation:
-  (f) communicating to any person, being an officer, employee, or agent of the responsible department or of the Accident Compensation Corporation or of the Ministry of Justice, any information, being information—
-    (i) which the person is authorised by the chief executive of Social Welfare or the Managing Director or chief executive of the Accident Compensation Corporation or the chief executive of the Ministry of Justice to receive; and
-    (ii) which is communicated to that person for the purposes of section 82 or section 83 or section 84 or section 85 or section 85A or section 85K:
+  (f) communicating to any person, being an officer, employee, or agent of the Accident Compensation Corporation or of the Ministry of Justice, any information, being information—
+    (i) which the person is authorised by the Managing Director or chief executive of the Accident Compensation Corporation or the chief executive of the Ministry of Justice to receive; and
+    (ii) which is communicated to that person for the purposes of section 82 or section 85A or section 85K:
   (fa) communicating to any person, being an officer, employee, or agent of the Regulator for the purposes of the Accident Insurance Act 1998 any information, being information—
     (i) which the person is authorised by the Regulator to receive; and
     (ii) which is communicated to that person for the purposes of section 370 or section 371 of the Accident Insurance Act 1998:
@@ -3444,7 +3426,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (i) the person is authorised by the New Zealand Customs Service to receive; and
     (ii) relates to a person who is liable to pay financial support under the Child Support Act 1991; and
     (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
-  (g) communicating to an authorised person under section 207 of the Student Loan Scheme Act 2011 any information specified in subsection (1) or (2) of that section in accordance with subsection (1) of that section:
+  (g) communicating to an authorised person under section 207 of the Student Loan Scheme Act 2011 any information specified in subsection (1) of that section in accordance with subsection (1) of that section:
   (gb) communicating to the chief executive of the New Zealand Customs Service under section 208 of the Student Loan Scheme Act 2011 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section:
   (gba) communicating to a contact person (within the meaning of section 193A of the Student Loan Scheme Act 2011), for the purposes of a request under that section, any information required to be communicated by that section:
   (gbb) communicating to a person referred to in section 209A(2) of the Student Loan Scheme Act 2011 any information specified in subsection (3) of that section for the purposes set out in subsection (1) of that section:
@@ -3477,7 +3459,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (iii) the information is obtained, held, and communicated by the Commissioner for a purpose relating to verifying the identity of the client; and
     (iv) the public sector agency is authorised by the client to receive the information; and
     (v) the Minister of Revenue has been notified by the Commissioner that such information will be communicated to the public sector agency:
-  (o) communicating, for the purpose of section 82A, information to a person who is an officer, employee, or agent of the responsible department and who is authorised to receive the information by the chief executive of that department:
+  (o)
   (ob) communicating to a relevant professional body appropriate details of a failure by 1 of its members to satisfy, as agent, a person’s liability to pay RLWT in accordance with the RLWT rules:
   (p) communicating, for the purpose of section 85F, information to a person who is an officer, employee, or agent of the New Zealand Film Commission responsible for the administration of a scheme under which government screen production payments are made and who is authorised to receive the information by the chief executive of the New Zealand Film Commission:
   (q) communicating, for the purpose of section 85H, information to a person who is an officer, employee, or agent of the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987 and who is authorised to receive the information by the chief executive of that department:
@@ -3575,42 +3557,31 @@ Despite any other enactment in the Inland Revenue Acts, the Commissioner may sup
     (ii) in the Commissioner's opinion, is or would be relevant to a decision referred to in subparagraph (i).
 
 ### 82 Disclosure of information for matching purposes
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the responsible department and the Corporation for the purposes of verifying—
-  (a) the entitlement or eligibility of any person to or for any benefit or to or for earnings related compensation; or
-  (b) the amount of any benefit or of earnings related compensation to which any person is or was entitled or for which any person is or was eligible; or
+(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Corporation for the purposes of verifying—
+  (a) the entitlement or eligibility of any person to or for any earnings related compensation; or
+  (b) the amount of any earnings related compensation to which any person is or was entitled or for which any person is or was eligible; or
   (c) whether any premium or levy is payable or the amount of any premium or levy payable by any person.
-(2) For the purpose of this section, any officer or employee or agent of the responsible department authorised in that behalf by the chief executive of that department may from time to time supply to the Commissioner any beneficiary information held by that department.
+(2)
 (3) For the purpose of this section, any officer or employee or agent of the Corporation authorised in that behalf by the Managing Director or chief executive of the Corporation may from time to time supply to the Commissioner any beneficiary information held by the Corporation.
-(4) Where, in relation to any person, beneficiary information is supplied to the Commissioner under subsection (2) or subsection (3), the Commissioner may cause a comparison of that information to be made with any information held by the department and which relates to that person.
-(5) Where the result of any comparison carried out under subsection (4) indicates that any person—the Commissioner may take action under subsection (6).
-  (a) who is receiving, or has received, a benefit is or was, while receiving that benefit, also receiving any other income; or
-  (b) who is receiving, or has received, earnings related compensation is or was, while receiving that compensation, receiving income from employment (including self-employment),—
-(6) Where, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Commissioner may, for the purpose of this section, supply to any authorised officer of the responsible department or, as the case may require, the Corporation, all or any of the following information that is held by the department and that relates to the person:
-  (a) where the person is, or was, in employment while receiving any benefit, or any earnings related compensation,—
+(4) Where, in relation to any person, beneficiary information is supplied to the Commissioner under subsection (3), the Commissioner may cause a comparison of that information to be made with any information held by the department and which relates to that person.
+(5) Where the result of any comparison carried out under subsection (4) indicates that any person who is receiving, or has received, earnings related compensation is or was, while receiving that compensation, receiving income from employment (including self-employment) the Commissioner may take action under subsection (6).
+(6) Where, in relation to any person, the circumstances referred to in subsection (5) apply, the Commissioner may, for the purpose of this section, supply to any authorised officer of the Corporation, all or any of the following information that is held by the department and that relates to the person:
+  (a) where the person is, or was, in employment while receiving any earnings related compensation,—
     (i) the date or dates on which that employment commenced:
     (ii) where applicable, the date or dates on which that employment ceased:
     (iii) the name and business address of each employer so employing that person:
-  (b) where the person is, or was, receiving any other income during any period in which he or she is receiving, or has received, any benefit or any earnings related compensation, in circumstances where that other income may be taken into account in determining the person's entitlement to or eligibility for that benefit or compensation, or in determining the amount of that benefit or compensation, the amount of that other income so received during that period.
-(7) Where the result of any comparison carried out under subsection (4) indicates that any person who is an applicant for any benefit or for earnings related compensation is receiving any income from any source, and that income may be taken into account in determining the person's entitlement to or eligibility for that benefit or compensation, or in determining the amount of that benefit or compensation, the Commissioner may, for the purpose of this section, supply details of that income to any authorised officer of the responsible department or, as the case may be, the Corporation.
-(7B) If the Commissioner supplies under subsection (6) or (7) information about a person to the responsible department, the Commissioner may also supply to that department the following additional information that is held by the department and that relates to the person:
-  (a) the full name and date of birth of the person:
-  (b) if the information held by the department includes information about the person's employment—
-    (i) the telephone number of each employer of the person:
-    (ii) the email address of each employer of the person:
-    (iii) the tax code or codes applicable to the person during each period for which the person received a benefit.
+  (b) where the person is, or was, receiving any other income during any period in which they are receiving, or have received, any earnings related compensation, in circumstances where that other income may be taken into account in determining the person’s entitlement to or eligibility for that compensation, or in determining the amount of that compensation, the amount of that other income so received during that period.
+(7) Where the result of any comparison carried out under subsection (4) indicates that any person who is an applicant for earnings related compensation is receiving any income from any source, and that income may be taken into account in determining the person’s entitlement to or eligibility for that compensation, or in determining the amount of that compensation, the Commissioner may, for the purpose of this section, supply details of that income to any authorised officer of the Corporation.
+(7B)
 (8) The provisions of this section shall apply notwithstanding any other provision of this Act.
 (9) In this section, unless the context otherwise requires,—
-  - **authorised officer** ,—
-    (a) in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this section:
-    (b) in relation to the Corporation, means any officer, employee, or agent of the Corporation who is authorised by the Managing Director or chief executive of the Corporation to receive information supplied by the Commissioner under this section
+  - **authorised officer** means any officer, employee, or agent of the Corporation who is authorised by the Managing Director or chief executive of the Corporation to receive information supplied by the Commissioner under this section
   - **beneficiary** means—
-    (a) a person who is receiving, or has received, a benefit or earnings related compensation:
-    (b) an applicant for a benefit or earnings related compensation:
-    (c) in the case of a benefit that is a student allowance, a person who is a spouse of the recipient of the benefit under regulation 2 of the Student Allowances Regulations 1998
+    (a) a person who is receiving, or has received, earnings related compensation:
+    (b) an applicant for earnings related compensation
   - **beneficiary information** , in relation to a beneficiary, means information that—
-    (a) identifies the beneficiary, which may include the beneficiary's tax file number; and
-    (b) identifies any benefit or earnings related compensation that the beneficiary is receiving, or has received, or for which the beneficiary has applied, including, in the case of any benefit or earnings related compensation that the beneficiary is receiving or has received, the dates on which payment of the benefit or compensation commenced and (where applicable) the date on which that payment ceased
-  - **benefit** includes a benefit payable under the Social Security Act 1964 and a student allowance payable under Part 25 of the Education Act 1989
+    (a) identifies the beneficiary, which may include the beneficiary’s tax file number; and
+    (b) identifies any earnings related compensation that the beneficiary is receiving, or has received, or for which the beneficiary has applied, including, in the case of any earnings related compensation that the beneficiary is receiving or has received, the dates on which payment of the compensation commenced, and, where applicable, the date on which that payment ceased
   - **Corporation** means the Accident Compensation Corporation or the Accident Rehabilitation and Compensation Insurance Corporation
   - **earnings related compensation** means—
     (a) compensation payable under the Accident Compensation Act 1982; and
@@ -3623,82 +3594,16 @@ Despite any other enactment in the Inland Revenue Acts, the Commissioner may sup
 (3) In this section, authorised officer, in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this section.
 
 ### 82A Disclosure of information to prevent cessation of benefit payments
-(1) This section authorises the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the Social Security Act 1964 to ensure the provision of correct tax file numbers of beneficiaries so as to prevent the cessation of benefit payments.
-(2) For the purpose of subsection (1), an authorised officer or agent of the department for the time being responsible for the administration of the Social Security Act 1964 may give to the Commissioner any information about a beneficiary that is held by that department if the information may assist in identifying the beneficiary to the Inland Revenue Department.
-(3) A disclosure of information must not be made under subsection (2) until 10 working days after the department for the time being responsible for the administration of the Social Security Act 1964 requests a beneficiary to supply the beneficiary's tax file number and the beneficiary does not provide it to the department.
-(4) The Commissioner may compare the information referred to in subsection (2) with other information held by the Inland Revenue Department.
-(5) If, as a result of a comparison under this section, the beneficiary is identified, the Commissioner may supply the tax file number of the beneficiary to a person authorised under section 81(4)﻿(o) to receive that information.
-(6) A tax file number provided by the Commissioner under subsection (5) may be used by the department for the time being responsible for the administration of the Social Security Act 1964 as if it were supplied by the beneficiary.
-(7) In this section, authorised officer (in relation to the department for the time being responsible for the administration of the Social Security Act 1964) has the same meaning as in section 82(9).
-(8) In this section—
-  - **beneficiary** means a person who is receiving, or who has received, a benefit, and includes an applicant for a benefit
-  - **benefit** includes an allowance paid pursuant to regulations made under section 303 of the Education Act 1989
-  - **information about a beneficiary** means information that—
-    (a) identifies the beneficiary; and
-    (b) identifies the benefit that the beneficiary is receiving, has received, or for which the beneficiary has applied.
-(9) A secrecy obligation or other restriction imposed does not prevent the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 or an authorised officer of that department from receiving information disclosed by the Commissioner.
+[Repealed]
 
 ### 83 Disclosure of information for purposes of entitlement card
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the Social Security Act 1964—
-  (a) for the purpose of enabling the chief executive of that department to issue entitlement cards; and
-  (b) for the purpose of verifying the entitlement or eligibility of any cardholder to or for an entitlement card.
-(2) For the purpose of subsection (1)﻿(a), on application by the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964, the Commissioner may, at any time, supply to any authorised officer of the department all or any of the following information that is held by the department in relation to a WFF tax credit for the year commencing on 1 April 1990 or any subsequent year:
-  (a) the names and addresses of persons in receipt of that credit of tax; and
-  (b) the tax file number of each person in receipt of that credit of tax; and
-  (c) the number of children to which that credit of tax relates; and
-  (d) whether that credit of tax is a full credit or a partial credit; and
-  (e) the expected family scheme income of the qualifying person, or the combined expected family scheme income of the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship, which is used to determine that credit of tax; and
-  (f) the family scheme income of the qualifying person, or the combined family scheme income of the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship, which is used to determine that credit of tax; and
-  (g) the amounts of all credits of tax by instalments payable to the qualifying person, or the combined amounts of all credits of tax by instalments payable to the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship; and
-  (h) the amounts of the credits of tax for the income year that are payable to the qualifying person, or the combined amounts of the credits of tax for the income year that are payable to the qualifying person and the person with whom the qualifying person lives in a marriage, civil union, or de facto relationship; and
-  (i) the birth date of each child to which that credit of tax relates.
-(3) For the purpose of subsection (1)﻿(b), any officer or employee or agent of the department for the time being responsible for the administration of the Social Security Act 1964 authorised in that behalf by the chief executive of that department may from time to time supply to the Commissioner any cardholder information held by that department.
-(4) Where, in relation to any person, cardholder information is supplied to the Commissioner under subsection (3), the Commissioner may cause a comparison of the information to be made with any information held by the department and which relates to that person.
-(5) Where the result of any comparison carried out under subsection (4) indicates that a cardholder is receiving, or has, during the previous income year, received, any income from any source, and that income may be, or might have been, taken into account in determining the cardholder's entitlement to or eligibility for an entitlement card, the Commissioner may, for the purpose of subsection (1)﻿(b), supply details of that income to any authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964.
-(6) The provisions of this section shall apply notwithstanding any other provision of this Act.
-(7) In this section, unless the context otherwise requires,—
-  - **authorised officer** , in relation to the department for the time being responsible for the administration of the Social Security Act 1964, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this section
-  - **cardholder** means an individual who holds an entitlement card; and includes an applicant for an entitlement card
-  - **cardholder information** , in relation to a cardholder, means information that identifies the cardholder, which may include the cardholder's tax file number
-  - **entitlement card** means a card issued under regulations made under section 132A of the Social Security Act 1964
-  - **qualifying person** means a person qualifying for an entitlement under section MC 2 of the Income Tax Act 2007.
+[Repealed]
 
 ### 84 Disclosure of information for WFF tax credit double payment identification
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the Social Security Act 1964 for the purposes of—
-  (a) identifying a qualifying person and the person (if any) with whom the qualifying person lives in a marriage, civil union, or de facto relationship who are in receipt of a WFF tax credit from both the Commissioner and the chief executive of that department; and
-  (b) verifying whether a qualifying person is or was entitled to any benefit.
-(2) For the purpose of subsection (1), the Commissioner may, at any time, supply to an authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964 all or any of the following information that is held by the Inland Revenue Department in relation to a qualifying person and the person (if any) with whom the qualifying person lives in a marriage, civil union, or de facto relationship:
-  (a) the name and address of the qualifying person and the person (if any) with whom the qualifying person lives in a marriage, civil union, or de facto relationship; and
-  (b) the tax file number of the qualifying person and the person (if any) with whom the qualifying person lives in a marriage, civil union, or de facto relationship; and
-  (c) the date of birth of the qualifying person and the person (if any) with whom the qualifying person lives in a marriage, civil union, or de facto relationship.
-(3) Where, in relation to any qualifying person and the person (if any) with whom the qualifying person lives in a marriage, civil union, or de facto relationship, information is supplied by the Commissioner to any authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964, the chief executive of that department may compare that information with any beneficiary information held by the department which relates to that qualifying person and person (if any).
-(4) Where the results of any comparison carried out under subsection (3) indicate that a qualifying person (and any person with whom the qualifying person lives in a marriage, civil union, or de facto relationship) is in receipt of a WFF tax credit from both the Commissioner and the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964, the chief executive shall—
-  (a) transfer the results of that comparison to the Commissioner; and
-  (b) retain a copy of the results for the purposes of verifying a person's current or previous entitlement to a benefit.
-(5) The provisions of this section shall apply notwithstanding any other provision of this Act.
-(6) In this section, unless the context otherwise requires,—
-  - **authorised officer** , in relation to the department for the time being responsible for the administration of the Social Security Act 1964, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this section
-  - **beneficiary** means any person who is in receipt of any benefit
-  - **beneficiary information** , in relation to a beneficiary, means information that identifies the beneficiary, which may include the beneficiary's tax file number
-  - **qualifying person** means a person who meets the requirements of sections MC 3 to MC 6(a) of the Income Tax Act 2007, and includes a person entitled to a tax credit under section MD 10 or ME 1 of that Act
-  - **WFF tax credit** means an interim instalment of WFF tax credit.
+[Repealed]
 
 ### 85 Disclosure of address information in relation to debtors
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the responsible department for the purpose of assisting the responsible department to recover money owed by debtors to the responsible department, acting in the name of the Crown.
-(2) For the purpose of this section, any officer or employee or agent of the responsible department authorised in that behalf by the chief executive of that department may from time to time supply to the Commissioner any debtor information held by that department.
-(3) Where, in relation to any debtor, information is supplied by any authorised officer of the responsible department to the Commissioner, the Commissioner may compare that information with any information held by the Commissioner which relates to the debtor.
-(4) For the purpose of subsection (3), where the Commissioner has information relating to the debtor, the Commissioner may supply to an authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964 all or any of the following information that is held by the Commissioner in relation to that debtor:
-  (a) the street address of the debtor; and
-  (b) the name and street address of the last known employer of the debtor.
-(5) The provisions of this section shall apply notwithstanding any other provision of this Act.
-(6) In this section, unless the context otherwise requires,—
-  - **authorised officer** , in relation to the responsible department, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to receive information supplied by the Commissioner under this section
-  - **debtor** means—
-    (a) any person in respect of whom liable parent contributions assessed under the Social Security Act 1964 remain unpaid; or
-    (b) any person who is not currently receiving a benefit and from whom any amount of money may be recovered under section 86 or section 125 of that Act; or
-    (c) any person liable to pay any maintenance under the Family Proceedings Act 1980 that remains unpaid and that may be enforced against the person pursuant to section 259 of the Child Support Act 1991:
-    (d) a person who is not currently receiving a student allowance and from whom a debt relating to an allowance (as defined in section 302 of the Education Act 1989) is recoverable under section 307B of that Act
-  - **debtor information** means information that identifies the debtor, which may include the debtor's tax file number.
+[Repealed]
 
 ### 85A Disclosure of certain information in relation to fines defaulters
 (1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Ministry of Justice for the purpose of establishing an information matching programme to enable the Ministry of Justice to locate any fines defaulter.
@@ -3789,24 +3694,7 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 (4) If any of the information specified in subsection (2) is not held by the department, the Commissioner may use any of the Commissioner's powers that are contained in Part 3 to obtain information.
 
 ### 85G Disclosure of information in relation to Working for Families tax credits
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the department currently responsible for administering the Social Security Act 1964 for the purpose of providing to the Commissioner information that the chief executive of that department considers necessary to enable the Commissioner to—
-  (a) commence paying family tax credit payments to a qualifying person who has ceased to be entitled to be paid a WFF tax credit under section 80KN:
-  (b) contact a person in order to invite the person to—
-    (i) apply for a credit of tax under section MD 1, or sections MD 1 and ME 1, of the Income Tax Act 2007; or
-    (ii) provide additional information so that the Commissioner may calculate the credit of tax:
-  (c) withdraw or replace a certificate of entitlement under section 80KH.
-(2) For the purpose of subsection (1), any authorised officer may from time to time supply to the Commissioner all or any beneficiary information that is held by the department currently responsible for administering the Social Security Act 1964 in relation to a beneficiary and a spouse (if any) of the beneficiary.
-(3) If information is supplied under subsection (2), the Commissioner may compare that information with any qualifying person information held by the Commissioner.
-(4) The Commissioner may take action under subparts MA to MF and MZ of the Income Tax Act 2007 if the results of a comparison under subsection (3) indicate that—
-  (a) the qualifying person will be in receipt of a WFF tax credit from both of the Commissioner and the chief executive of the department currently responsible for administering the Social Security Act 1964:
-  (b) the Commissioner may be required to commence paying a WFF tax credit to a qualifying person.
-(5) The provisions of this section apply notwithstanding any other provisions of this Act.
-(6) In this section, unless the context otherwise requires,—
-  - **authorised officer** , in relation to the department currently responsible for administering the Social Security Act 1964, means any officer, employee, or agent of that department who is authorised by the chief executive of that department to supply information to the Commissioner under this section
-  - **beneficiary** means any person who is or was in receipt of any benefit
-  - **beneficiary information** , in relation to a beneficiary, means information that identifies the beneficiary, the beneficiary's spouse (if any) and any dependent child of that beneficiary (including their dates of birth and tax file numbers), and any other information of a kind specified by the Minister by notice published in the Gazette, being information that may assist the Commissioner to achieve the purpose in subsection (1)
-  - **qualifying person** means a person who meets the requirements in sections MC 3 to MC 6(a) of the Income Tax Act 2007, and includes a person entitled to a tax credit under section MD 10 or ME 1 of that Act
-  - **WFF tax credit** means an interim instalment of WFF tax credit.
+[Repealed]
 
 ### 85GB Government Actuary to provide information to Commissioner for purpose of administration of KiwiSaver Act 2006
 [Repealed]
@@ -3953,21 +3841,25 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 ### 87 Further secrecy requirements
 (1) Any person with access to restricted information shall—
   (a) before he or she acquires or has access to or is given any restricted information, certify in the manner prescribed in subsection (3) that he or she has been shown, has read, and has understood the provisions of this section; and
-  (b) subsequently be bound to maintain and aid in maintaining the secrecy of all restricted information that comes to his or her knowledge, and shall not at any time communicate such information to any person, except for any purpose for which, and to the extent to which, the Commissioner authorises such disclosure.
+  (b) subsequently be bound to maintain and aid in maintaining the secrecy of all restricted information that comes to his or her knowledge, and shall not at any time communicate such information to any person, except—
+    (i) for any purpose for which, and to the extent to which, the Commissioner authorises such disclosure; or
+    (ii) in circumstances described in an information sharing agreement referred to in section 81A.
 (2) Without limiting the generality of subsection (1), no person shall be required to produce in any court or tribunal any document, or to divulge or communicate to any court or tribunal any restricted information.
 (3) The certificate referred to in subsection (1) shall be given in the form prescribed by the Commissioner, and shall include the full name, address, and signature of the person giving the certificate and the date on which the certificate is given.
 (4) The certificate shall—
   (a) where it is given by any person referred to in section 81(4)﻿(d), be kept by Statistics New Zealand as a permanent record:
-  (b) where it is given by any person referred to in section 81(4)﻿(f) who is an officer or employee or agent of the department for the time being responsible for the administration of the Social Security Act 1964, be kept by that department as a permanent record:
+  (b)
   (c) where it is given by any person referred to in section 81(4)﻿(f) who is an officer or employee or agent of the Accident Rehabilitation and Compensation Insurance Corporation or the Accident Compensation Corporation, be kept by that Corporation as a permanent record:
   (d) where it is given by any person referred to in section 81(4)﻿(g) (being an employee of the loan manager under the Student Loan Scheme or an employee of any tertiary institution or the Secretary of Education or any employee of the Ministry of Education), be kept by the Secretary of Education as a permanent record:
   (db) where it is given by any person referred to in section 81(4)﻿(gb), be kept by the New Zealand Customs Service as a permanent record:
   (dc) where it is given to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009), be kept by the Commissioner as a permanent record:
+  (dd) where it is given by any person or agency referred to in an information sharing agreement, be kept by that person or agency as a permanent record:
   (e) in any other case be kept by the Inland Revenue Department as a permanent record.
 (5) In this section, person with access to restricted information means any person who—
   (a) acquires or has access to or is given restricted information—
     (i) through the agency of the Commissioner under any of paragraphs (d), (e), (eb), (f), (g), (gb), (gc), (h), (i) and (q) of section 81(4); or
     (ii) by virtue of the person's access to the information processing and storage systems of the department; or
+    (iii) under an information sharing agreement referred to in section 81A; or
   (ab) being a person, other than an Inland Revenue officer, who is employed by, or provides services to, a government agency and is required by the agency to perform their duties in a place, and with facilities, shared with Inland Revenue officers who are expected by the Commissioner to perform their duties in the place and with the facilities; or
   (b) being a person who, by the nature of his or her physical access to the premises or the information processing and storage systems of the department may or is likely to have access to restricted information, has been required by the Commissioner to certify in the manner prescribed by subsection (3); or
   (c) accompanies the Commissioner or an authorised officer, as permitted by section 16(2A), to a place where the person may or is likely to have access to restricted information; or
