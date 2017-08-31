@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2017-03-30_
+_Consolidation as at 2017-08-31_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1962,22 +1962,10 @@ A loan contract entered into by a borrower (whether before or after the commence
 **Disclosure of information**
 
 ### 207 Disclosure of information between authorised persons
-(1) No obligation as to secrecy or other restriction imposed by an enactment or otherwise on the disclosure of information prevents—
-  (a) an authorised person from disclosing to another authorised person information required for the purpose of enabling the Commissioner to confirm the identity of a person who applies for a student loan; or
-  (b) an authorised person from disclosing to another authorised person information required for the purpose of enabling the Commissioner to correctly identify a borrower who has received or been charged with a loan advance; or
-  (ba) an authorised person from disclosing to another authorised person any information for the purpose of verifying any declaration made by an applicant for a student loan as to any unpaid amounts owed by the applicant where the declaration is a condition of obtaining the loan; or
-  (c) the Commissioner from disclosing to the chief executive information that is necessary to investigate circumstances in which an authorised person considers—
-    (i) a student loan may have been improperly obtained; or
-    (ii) an attempt has been made to obtain a student loan by improper means.
-(2) For the purposes of subsection (1)﻿(c), the information that the Commissioner may disclose includes the following:
-  (a) particulars of loan repayments made:
-  (b) the consolidated loan balance:
-  (c) particulars the Commissioner may possess as to the location of a borrower:
-  (d) whether a person specified by the chief executive is a taxpayer:
-  (e) for an address specified by the chief executive, the number of borrowers recorded as resident at that address:
-  (f) any other particulars that the Commissioner considers relevant to the purposes of subsection (1)﻿(c).
-(3) Information obtained under subsection (1) must not be disclosed except to an authorised person and for the purposes of that subsection.
-(4) Despite subsection (3), no obligation as to secrecy or other restriction imposed by an enactment or otherwise on the disclosure of information prevents the persons specified in paragraphs (a), (c), and (e) of the definition of authorised person in subsection (5) from receiving information disclosed by an authorised person to another authorised person in accordance with subsection (1) for any purpose that relates to the administration of the student loan scheme.
+(1) No obligation as to secrecy or other restriction imposed by an enactment or otherwise on the disclosure of information prevents an authorised person from disclosing to another authorised person any information for the purpose of verifying any declaration made by an applicant for a student loan as to any unpaid amounts owed by the applicant where the declaration is a condition of obtaining the loan.
+(2)
+(3)
+(4) No obligation as to secrecy or other restriction imposed by an enactment or otherwise on the disclosure of information prevents the persons specified in paragraphs (a), (c), and (e) of the definition of authorised person in subsection (5) from receiving information disclosed by an authorised person to another authorised person in accordance with subsection (1) for any purpose that relates to the administration of the student loan scheme.
 (5) In this section,—
   - **authorised person** means—
     (a) the Commissioner or an officer of the Inland Revenue Department who is authorised by the Commissioner to disclose and receive information under this section; or
