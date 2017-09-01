@@ -1,5 +1,5 @@
 # Electricity Industry Act 2010
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Electricity Industry Act 2010.
@@ -911,7 +911,7 @@ Except as provided in section 92, nothing in this Part overrides or limits the p
 (1) For the purposes of Part 2 of the Commerce Act 1986, businesses to which section 76 (corporate separation and arm’s-length rules) applies are deemed to be separate bodies corporate that are not interconnected, despite the fact that they may have a common owner.
 (2) Subsection (1) applies despite section 2(7) of the Commerce Act 1986.
 
-### 93 Illegal Contracts Act 1970
+### 93 Illegal contracts
 (1) An agreement lawfully entered into does not become illegal or unenforceable by any party by reason of the fact that its performance is in breach of a provision of this Part.
 (2) An agreement entered into in breach of a provision of this Part is voidable at the option of any party to the agreement who is not in breach of a provision of this Part by notice in writing to the other party to the agreement at any time within 1 month after the innocent party has notice that the agreement is in breach of a provision of this Part.
 
