@@ -1,5 +1,5 @@
 # Home and Community Support (Payment for Travel Between Clients) Settlement Act 2016
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2017-09-01_
 
 ## Preamble
 (1) On 7 August 2013, proceedings were lodged with the Employment Relations Authority claiming that the time spent by the applicant in travelling between clients to whom the applicant provided home-based care and support was work for the purposes of section 6 of the Minimum Wage Act 1983:
@@ -141,7 +141,7 @@ This Act does not prevent an HCS employer from paying an HCS employee a greater 
 ### 13 Payment of lesser amounts prohibited
 An employment agreement that contains a term or condition that excludes, restricts, or reduces an HCS employee’s entitlements under this Act—
   (a) has no effect to the extent that it does so, regardless of whether the term or condition was agreed before or after the commencement of this Act; but
-  (b) is not an illegal contract under the Illegal Contracts Act 1970.
+  (b) is not an illegal contract under subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 
 **Time spent in travel between clients**
 
