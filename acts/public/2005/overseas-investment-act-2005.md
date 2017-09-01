@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -382,13 +382,13 @@ The Minister may revoke a consent for an overseas investment transaction before 
 
 ### 29 Transaction may be cancelled
 (1) A transaction for which consent is required under this Act and under which the overseas investment has been given effect without that consent—
-  (a) is not an illegal contract for the purposes of the Illegal Contracts Act 1970; and
+  (a) is not an illegal contract for the purposes of subpart 5 of Part 2 of the Contract and Commercial Law Act 2017; and
   (b) is not void only because the overseas investment has been given effect to without the requisite consent or because giving effect to the overseas investment without the requisite consent is an offence; but
   (c) may be cancelled by—
     (i) a party to the transaction who was not required to obtain consent to the transaction under this Act, by giving notice in writing to all the other parties; or
     (ii) the court, on the application of the regulator.
 (2) On cancellation under this section,—
-  (a) the court has the same powers as it has under section 9 of the Contractual Remedies Act 1979; and
+  (a) the court has the same powers as it has under sections 43 to 48 of the Contract and Commercial Law Act 2017; and
   (b) if the court orders the cancellation on the regulator's application, the court may also make any other order necessary to give effect to the cancellation.
 
 ### Subpart 3 — Administration
