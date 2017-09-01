@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -256,7 +256,7 @@ A person must not tamper with a motor vehicle's odometer.
 
 ### 15 Particulars (including statement about buyer taking motor vehicle free of security interests) that must be contained in notice attached to used motor vehicle
 (1) All of the following particulars must be contained in every notice that, in accordance with section 14(1), must be attached to a used motor vehicle:
-  (a) a statement that sets out the effect of section 58 of the Personal Property Securities Act 1999. That section, as amended by section 145, is as follows:Buyer or lessee of motor vehicle acquired from registered trader takes motor vehicle free of security interest:
+  (a) a statement that sets out the effect of section 58 of the Personal Property Securities Act 1999. That section, as amended by section 145, is as follows:Buyer or lessee of motor vehicle acquired from registered trader takes motor vehicle free of security interest
     A buyer or lessee of a motor vehicle who acquires the motor vehicle for value takes the motor vehicle free of any security interest in the motor vehicle if—
       (a) the buyer or lessee is a consumer who acquires the motor vehicle from a registered trader (whether or not the motor vehicle trader is acting as a principal or as an agent for the seller or lessor in the transaction under which the buyer or lessee, as the case may be, acquires the motor vehicle); and
       (b) the security interest was not created or provided for in a transaction to which the buyer or lessee is a party; and
@@ -955,16 +955,15 @@ A search of the list for personal information that has not been carried out in a
 
 ### 89 Jurisdiction of Disputes Tribunal
 (1) A Disputes Tribunal has jurisdiction, on the application of any party, to—
-  (a) inquire into and determine any application or claim, as the case may be, under any of the following Acts if that application or claim is in respect of the sale of any motor vehicle:
-    (i) the Sale of Goods Act 1908:
-    (ii) the Fair Trading Act 1986:
-    (iii) the Consumer Guarantees Act 1993:
-    (iv) the Contractual Remedies Act 1979; and
+  (a) inquire into and determine any application or claim, as the case may be, under any of the following if that application or claim is in respect of the sale of any motor vehicle:
+    (i) the Fair Trading Act 1986:
+    (ii) the Consumer Guarantees Act 1993:
+    (iii) subpart 3 of Part 2 or Part 3 of the Contract and Commercial Law Act 2017; and
   (b) make any order that a court or a Disputes Tribunal constituted under the Disputes Tribunals Act 1988 may make under,—
-    (i) in the case of proceedings under the Sale of Goods Act 1908, section 53 of that Act; or
+    (i)
     (ii) in the case of proceedings under the Fair Trading Act 1986, section 43(2) of that Act; or
     (iii) in the case of proceedings under the Consumer Guarantees Act 1993, section 39 or 47 of that Act; or
-    (iv) in the case of proceedings under the Contractual Remedies Act 1979, section 9 of that Act.
+    (iv) in the case of proceedings under subpart 3 of Part 2 or Part 3 of the Contract and Commercial Law Act 2017, sections 43 to 48 or section 194 of that Act.
 (2) A Disputes Tribunal may order that the rights and obligations of the buyer of a motor vehicle under a collateral credit agreement vest in a motor vehicle trader if—
   (a) the collateral credit agreement is associated with the contract for the sale of that motor vehicle; and
   (b) the motor vehicle trader is a party to that contract for sale; and
