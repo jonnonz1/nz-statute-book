@@ -1,5 +1,5 @@
 # Minors' Contracts Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 (1) This Act is the Minors' Contracts Amendment Act 2005.
@@ -19,7 +19,7 @@ This Act comes into force on 26 April 2005.
 
 ### 5 Contracts of minors of or over the age of 18 years, certain contracts concerning life insurance, and contracts of service
 (1) Section 5 of the principal Act is amended by omitting the heading and substituting Certain contracts concerning life insurance, and contracts of service.
-(2) Section 5 of the principal Act is amended by repealing subsection (1)(a).
+(2) Section 5 of the principal Act is amended by repealing subsection (1)﻿(a).
 
 ### 6 Contracts of minors below the age of 18 years
 (1) Section 6 of the principal Act is amended by omitting the heading and substituting Contracts of minors.
