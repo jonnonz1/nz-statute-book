@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -585,7 +585,7 @@ Where, by any provision of the Code, conduct is excepted from conduct that is in
   (a) if damages fall within the terms of the property order, the Commissioner shall pay the damages to the person or trustee corporation acting as the property manager; or
   (b) if damages do not fall within the terms of the property order, the Commissioner may, in his or her discretion, pay the damages to Public Trust.
 (6) Where money is paid to Public Trust under subsection (3) or subsection (4) or subsection (5),—
-  (a) section 12 of the Minors’ Contracts Act 1969 shall apply in the case of a minor who is not married or in a civil union; and
+  (a) sections 103 to 110 of the Contract and Commercial Law Act 2017 shall apply in the case of a minor who is not married or in a civil union; and
   (b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (4) or subsection (5)﻿(b); and
   (c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (5)﻿(a).
 
