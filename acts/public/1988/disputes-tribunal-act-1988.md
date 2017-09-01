@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -314,7 +314,7 @@ Every agreed settlement approved by the Tribunal under section 18(3), and every 
   (a) at any time appoint to represent the minor a person who is willing to do so and who is not disqualified by section 38(7), and authorise that person to control the conduct of the minor's case; or
   (b) when approving a representative under section 38(3), or at any time thereafter, authorise that representative to control the conduct of the minor's case.
 (3) A person empowered by or under this section to control the conduct of the case of a minor may do all such things in the proceedings as that person could do if that person were a party to the proceedings in place of that minor.
-(4) Nothing in this section shall restrict the application of section 12 of the Minors' Contracts Act 1969 to—after proceedings have been commenced in the Tribunal.
+(4) Nothing in this section shall restrict the application of sections 103 to 110 of the Contract and Commercial Law Act 2017 to—after proceedings have been commenced in the Tribunal.
   (a) any settlement agreed to by, or on behalf of, a minor; or
   (b) any payment made or proposed to be made by, or on behalf of, or to, or for the benefit of, a minor—
 (5) In this section proceedings in the Tribunal means—and includes any order made in proceedings as so defined.
