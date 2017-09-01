@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -247,7 +247,7 @@ An individual may use an electronic identity credential only if—
   (d) for matters that are additional to those addressed by the individual's current electronic identity credential and are the subject of information supplied to the participating agency by the individual,—
     (i) the individual adequately indicates to the participating agency the individual's approval of the information that the individual supplies; and
     (ii) alterations subsequently made in the information are detectable.
-(6) In interpreting subsection (5)﻿(d)﻿(i), reference may be made to sections 6 and 22(1)﻿(a) of the Electronic Transactions Act 2002.
+(6) In interpreting subsection (5)﻿(d)﻿(i), reference may be made to sections 210 and 226(1)﻿(a) of the Contract and Commercial Law Act 2017.
 
 ### 20 Effect of change in status of electronic identity credential
 (1) A change in status of an electronic identity credential does not, of itself, affect the validity of any applicable transaction or service that was completed or provided before the change even if the identity of the individual to whom the transaction or service relates was verified using the credential.
