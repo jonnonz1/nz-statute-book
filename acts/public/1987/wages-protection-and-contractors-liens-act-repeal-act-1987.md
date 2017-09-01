@@ -1,5 +1,5 @@
 # Wages Protection and Contractors' Liens Act Repeal Act 1987
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to repeal the Wages Protection and Contractors' Liens Act 1939 and to make provision incidental thereto
 
