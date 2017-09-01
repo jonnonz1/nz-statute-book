@@ -1,5 +1,5 @@
 # Contractual Remedies Amendment Act 2016
-_Consolidation as at 2016-10-17_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Contractual Remedies Amendment Act 2016.
