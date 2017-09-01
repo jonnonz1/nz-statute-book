@@ -1,5 +1,5 @@
 # Frustrated Contracts Act 1944
-_Consolidation as at 2002-12-19_
+_Consolidation as at 2017-09-01_
 
 > An Act to amend the law relating to the frustration of contracts
 
