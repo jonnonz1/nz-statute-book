@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -68,7 +68,7 @@ In this Act, unless the context otherwise requires,—
   - **instrument** —
     (a) means any use of words, figures, or symbols (for example, an agreement, contract, deed, grant, or memorandum, or some other document that is certified, executed, or otherwise approved by or on behalf of a party or parties, or a judgment, order, or process of a court) that—
       (i) creates, evidences, modifies, or extinguishes legal or equitable rights, interests, or liabilities (without being lodged, filed, or registered under an enactment, or after being so lodged, filed, or registered, or both); and
-      (ii) is in a visible and tangible form and medium (for example, in handwriting, print, or both), or is in an electronic form in accordance with the Electronic Transactions Act 2002 or the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; and
+      (ii) is in a visible and tangible form and medium (for example, in handwriting, print, or both), or is in an electronic form in accordance with Part 4 of the Contract and Commercial Law Act 2017 or the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; and
     (b) includes any instrument as defined in section 2 of the Land Transfer Act 1952; and
     (c) includes any covenant expressed or implied (under this or any other enactment) in, and any variation of, any instrument as defined in paragraph (a) or (b); but
     (d) does not include an enactment (though it may be in a form prescribed by one, or have covenants or terms implied in it under one, or both)
@@ -2608,7 +2608,7 @@ The matters referred to in section 262(b) are—
 (5) This section does not limit the right of a lessee to whom this section applies to—
   (a) cancel the lease in accordance with any right—
     (i) expressed or implied in the lease; or
-    (ii) provided for in the Contractual Remedies Act 1979; and
+    (ii) provided for in subpart 3 of Part 2 of the Contract and Commercial Law Act 2017; and
   (b) claim damages for breach of the lease.
 (6) Any assessment of damages under a claim referred to in subsection (5)﻿(b) must take into account the value of any release, in whole or in part, from the obligation to—
   (a) pay the rent or other amounts payable under the lease; or
