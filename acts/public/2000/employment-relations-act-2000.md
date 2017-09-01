@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2051,10 +2051,10 @@ An employer who does not comply with any of sections 69ZD to 69ZEB is liable to 
 (1) This Part does not prevent an employer from providing an employee with enhanced or additional entitlements to rest breaks and meal breaks (whether specified in an employment agreement or otherwise) on a basis agreed with the employee.
 (2) An employment agreement that excludes or reduces an employee's entitlement to rest breaks and meal breaks under section 69ZD(1) or (3) or 69ZE or to compensatory measures under section 69ZEA—
   (a) has no effect to the extent that it does so; but
-  (b) is not an illegal contract under the Illegal Contracts Act 1970.
+  (b) is not an illegal contract under subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 (3) An employment agreement that restricts an employee's rest breaks or meal breaks otherwise than in accordance with section 69ZD(2)—
   (a) has no effect to the extent that it does so; but
-  (b) is not an illegal contract under the Illegal Contracts Act 1970.
+  (b) is not an illegal contract under subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 
 ### 69ZH Relationship between Part and other enactments
 Where an employee is a person who is required to take rest breaks or meal breaks by, or under, an enactment other than this Part, the requirement for rest breaks or meal breaks defined by, or under, the other enactment applies instead of this Part.
@@ -3284,7 +3284,7 @@ To avoid doubt, in proceedings under this Part for a declaration of breach, pecu
 ### 142V Insurance against pecuniary penalties unlawful
 (1) To the extent that an insurance policy or a contract of insurance indemnifies or purports to indemnify a person for the person's liability to pay a pecuniary penalty under this Act,—
   (a) the policy or contract is of no effect; and
-  (b) no court or tribunal has jurisdiction to grant relief in respect of the policy or contract, whether under section 7 of the Illegal Contracts Act 1970 or otherwise.
+  (b) no court or tribunal has jurisdiction to grant relief in respect of the policy or contract, whether under sections 75 to 82 of the Contract and Commercial Law Act 2017 or otherwise.
 (2) A person must not—
   (a) enter into, or offer to enter into, a policy or contract described in subsection (1); or
   (b) indemnify, or offer to indemnify, another person for the other person's liability to pay a pecuniary penalty under this Act; or
@@ -3464,7 +3464,7 @@ A person who wishes to access mediation services must contact an office of the d
   (b) be satisfied that, knowing the effect of that subsection, the parties affirm their request.
 (3) Where, following the affirmation referred to in subsection (2) of a request made under subsection (1), the agreed terms of settlement to which the request relates are signed by the person empowered to do so,—
   (a) those terms are final and binding on, and enforceable by, the parties; and
-  (ab) the terms may not be cancelled under section 7 of the Contractual Remedies Act 1979; and
+  (ab) the terms may not be cancelled under sections 36 to 40 of the Contract and Commercial Law Act 2017; and
   (b) except for enforcement purposes, no party may seek to bring those terms before the Authority or the court, whether by action, appeal, application for review, or otherwise.
 (3A) For the purposes of subsection (3), a minor aged 16 years or over may be a party to agreed terms of settlement, and be bound by that settlement, as if the minor were a person of full age and capacity.
 (4) A person who breaches an agreed term of settlement to which subsection (3) applies is liable to a penalty imposed by the Authority.
@@ -3650,13 +3650,13 @@ If a matter before the Authority relates principally to an alleged breach of emp
 
 ### 162 Application of law relating to contracts
 Subject to sections 163 and 164, the Authority may, in any matter related to an employment agreement, make any order that the High Court or the District Court may make under any enactment or rule of law relating to contracts, including—
-  (a) the Contracts (Privity) Act 1982:
-  (b) the Contractual Mistakes Act 1977:
-  (c) the Contractual Remedies Act 1979:
-  (d) the Fair Trading Act 1986:
-  (e) the Frustrated Contracts Act 1944:
-  (f) the Illegal Contracts Act 1970:
-  (g) the Minors' Contracts Act 1969.
+  (a) Part 2 of the Contract and Commercial Law Act 2017:
+  (b) the Fair Trading Act 1986.
+  (c)
+  (d)
+  (e)
+  (f)
+  (g)
 
 ### 163 Restriction on Authority's power in relation to collective agreements
 The Authority may not, under section 162 or any other provision of this Act, make in respect of a collective agreement an order cancelling or varying the agreement or any term of the agreement.
