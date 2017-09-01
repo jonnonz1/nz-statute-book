@@ -1,5 +1,5 @@
 # Consumer Guarantees Act 1993
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > Title
 
@@ -284,7 +284,7 @@ Notwithstanding section 16, where—there shall be no right of redress against t
   (b) the use to which a consumer is likely to put them:
   (c) the length of time for which it is reasonable for them to be used:
   (d) the amount of use to which it is reasonable for them to be put before the defect becomes apparent.
-(3) This section applies notwithstanding section 37 of the Sale of Goods Act 1908.
+(3) This section applies notwithstanding section 170 of the Contract and Commercial Law Act 2017.
 
 ### 21 Failure of substantial character
 For the purposes of section 18(3), a failure to comply with a guarantee is of a substantial character in any case where—
@@ -513,7 +513,7 @@ Nothing in this Part limits or affects—
     (i) the extent to which a party was able to negotiate the terms of the agreement; and
     (ii) whether a party was required to either accept or reject the agreement on the terms and conditions presented by another party; and
   (d) whether all or any of the parties received advice from, or were represented by, a lawyer, either at the time of the negotiations leading to the agreement or at any other relevant time.
-(3) Section 56 of the Sale of Goods Act 1908 shall be read subject to the provisions of this section.
+(3) Section 197 of the Contract and Commercial Law Act 2017 shall be read subject to the provisions of this section.
 (4) Every supplier and every manufacturer commits an offence against section 13(i) of the Fair Trading Act 1986 who purports to contract out of any provision of this Act other than in accordance with subsection (2) or section 43A.
 (5) Where an agreement of the kind described in subsection (2) excludes any provision of this Act, the benefit of the exclusion shall be deemed to be conferred on any manufacturer of the goods supplied under the agreement, as well as on the supplier of those goods.
 (6) Nothing in subsection (1) shall limit or affect any term in an agreement in writing between a supplier and a consumer to the extent that the term—
