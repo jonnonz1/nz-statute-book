@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -90,7 +90,7 @@ Schedule 1AA contains application, savings, and transitional provisions relating
 (2) This Act does not prevent an employer from providing an employee with enhanced or additional entitlements (whether specified in an employment agreement or otherwise) on a basis agreed with the employee.
 (3) However, an employment agreement that excludes, restricts, or reduces an employee’s entitlements under this Act—
   (a) has no effect to the extent that it does so; but
-  (b) is not an illegal contract under the Illegal Contracts Act 1970.
+  (b) is not an illegal contract under subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 
 ### 7 Application
 This Act—
