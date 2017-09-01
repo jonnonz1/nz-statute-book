@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2017-09-01_
 
 > Title
 
@@ -1330,7 +1330,7 @@ Nothing in this Act limits access to information that is recorded under this Act
 (2B) To avoid doubt,—
   (a) the Ministry of Justice satisfies the requirements of subsection (2A) by providing the information required in the notice or certificate (as the case may be), and is not required to provide the actual notice or certificate (whether by electronic means or otherwise):
   (b) the obligation for a court or its Registrar to give the notice or certificate referred to in subsection (2A) ceases only when the Ministry of Justice has provided the information in accordance with that subsection.
-(3) In this section, transaction has the same meaning as in section 5 of the Electronic Transactions Act 2002.
+(3) In this section, transaction has the same meaning as in section 209 of the Contract and Commercial Law Act 2017.
 
 ### 90 No prosecution without authority of Registrar-General
 No prosecution for an offence against this Act shall be commenced without the authority of the Registrar-General.
