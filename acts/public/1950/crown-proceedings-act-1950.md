@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
