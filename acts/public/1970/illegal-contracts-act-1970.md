@@ -1,5 +1,5 @@
 # Illegal Contracts Act 1970
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2017-09-01_
 
 > An Act to reform the law relating to illegal contracts
 
