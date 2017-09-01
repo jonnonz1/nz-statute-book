@@ -1,5 +1,5 @@
 # Minors' Contracts Act 1969
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to restate and reform the law relating to minors' contracts
 
