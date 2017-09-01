@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -533,7 +533,7 @@ ExamplePerson A has a security interest in person B's car.Person B sells the car
 
 ### 53 Buyer or lessee of goods sold or leased in ordinary course of business takes goods free of certain security interests
 (1) A buyer of goods sold in the ordinary course of business of the seller, and a lessee of goods leased in the ordinary course of business of the lessor, takes the goods free of a security interest that is given by the seller or lessor or that arises under section 45, unless the buyer or lessee knows that the sale or the lease constitutes a breach of the security agreement under which the security interest was created.
-(2) This section prevails over section 3 of the Mercantile Law Act 1908 and section 27 of the Sale of Goods Act 1908 where this section applies and either or both of those sections apply.ExamplePerson A has a perfected security interest in person B's (a car dealer's) inventory (cars).Person B sells a car to person C (a customer).Person C takes the car free of person A's perfected security interest in the car.
+(2) This section prevails over sections 153, 154, and 297 to 300 of the Contract and Commercial Law Act 2017 where this section applies and any of those sections apply.ExamplePerson A has a perfected security interest in person B's (a car dealer's) inventory (cars).Person B sells a car to person C (a customer).Person C takes the car free of person A's perfected security interest in the car.
 
 ### 54 Buyer or lessee of consumer goods of certain value takes goods free of security interest
 (1) A buyer or lessee of goods that are acquired as consumer goods takes the consumer goods free of any security interest, if—
