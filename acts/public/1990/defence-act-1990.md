@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2017-09-01_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -447,7 +447,7 @@ An oath of allegiance shall bind the person subscribing it to serve in the Servi
   (b) a written acknowledgment by the person giving the consent that he or she is aware that the person enlisting will be liable for active service at any time after that person attains the age of 18 years.
 (5) An acknowledgment referred to in subsection (4)﻿(b) need not be given or signified separately from the written consent if the consent is given on a form that contains a conspicuous statement to the effect that the person enlisting will be liable for active service outside New Zealand at any time after attaining the relevant (specified) age.
 (6) If any such application is not accompanied by the required consent, it shall be accompanied by a statement of the reasons as to why consent has not or cannot be obtained.
-(7) The enlistment of any person pursuant to this section shall be binding on that person notwithstanding anything to the contrary in the Minors’ Contracts Act 1969 or any other enactment.
+(7) The enlistment of any person pursuant to this section shall be binding on that person notwithstanding anything to the contrary in subpart 6 of Part 2 of the Contract and Commercial Law Act 2017 or any other enactment.
 (8) For the purposes of this section, a person shall be deemed to be under a disability if, by reason of his or her mental condition, that person is unable to understand the nature of any objection or, as the case may be, any consent made or given for the purposes of this section.
 
 ### 37 Liability of minors for active service
