@@ -1,5 +1,5 @@
 # Electronic Transactions (Contract Formation) Amendment Act 2014
-_Consolidation as at 2014-05-09_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Electronic Transactions (Contract Formation) Amendment Act 2014.
