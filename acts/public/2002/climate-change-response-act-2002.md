@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -2637,7 +2637,7 @@ If a party to any proceedings before the District Court under section 145 is dis
   (b) may give notice by—
     (i) personal delivery to a person that is not a body corporate:
     (ii) personal delivery to a person that is a body corporate, if the personal delivery is made to the person’s office during working hours:
-    (iii) an electronic means of communication to the person, if the EPA complies with the Electronic Transactions Act 2002:
+    (iii) an electronic means of communication to the person, if the EPA complies with Part 4 of the Contract and Commercial Law Act 2017:
     (iv) post to—
       (A) the street address of the person’s usual or last known place of residence; or
       (B) the street address of any of the person’s usual or last known places of business; or
@@ -2652,7 +2652,7 @@ If a party to any proceedings before the District Court under section 145 is dis
     (i) give the notice to the EPA at the office of the EPA:
     (ii) give the notice by—
       (A) personal delivery, if the personal delivery is made during working hours:
-      (B) an electronic means of communication, if the person complies with the Electronic Transactions Act 2002:
+      (B) an electronic means of communication, if the person complies with Part 4 of the Contract and Commercial Law Act 2017:
       (C) post to the post office box number for the office.
 (3) A notice given by post under subsection (2)﻿(b)﻿(ii)﻿(C) is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
 
