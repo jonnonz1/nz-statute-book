@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -4365,7 +4365,7 @@ In this Part,—
 (1) A party may enter into a loan only with the authorisation of the party secretary.
 (2) Only the party secretary may enter into a loan on behalf of the party.
 (3) If the party secretary enters into a loan that is not in writing, the party secretary must, as soon as is reasonably practicable, make a written record of the loan.
-(4) A loan entered into in contravention of this section is an illegal contract for the purposes of the Illegal Contracts Act 1970.
+(4) A loan entered into in contravention of this section is an illegal contract for the purposes of subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 
 ### 214 Offence to enter into unauthorised loan
 A person is guilty of—
