@@ -1,5 +1,5 @@
 # Contractual Mistakes Act 1977
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to reform the law relating to the effect of mistakes on contracts
 
