@@ -1,5 +1,5 @@
 # Contracts (Privity) Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 (1) This Act is the Contracts (Privity) Amendment Act 2002.
