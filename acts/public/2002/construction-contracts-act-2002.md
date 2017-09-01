@@ -1,5 +1,5 @@
 # Construction Contracts Act 2002
-_Consolidation as at 2017-03-31_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Construction Contracts Act 2002.
@@ -469,8 +469,8 @@ A payer becomes liable to pay the claimed amount on the due date for the payment
   (e) may at any time lift the suspension, even if the amount has not been paid or the determination has not been complied with.
 (3) To avoid doubt, subsection (2)﻿(c) does not affect party A's rights to recover (whether in an adjudication or otherwise) any costs incurred as a consequence of the extension of time that exist other than solely by reason of this Act, nor does it add anything to those rights.
 (4) If party A exercises the right conferred by subsection (1), the exercise of that right does not—
-  (a) affect any rights that would otherwise have been available to party A under the Contractual Remedies Act 1979; or
-  (b) enable party B to exercise any rights that may otherwise have been available to party B under that Act as a direct consequence of party A exercising the right conferred by subsection (1).
+  (a) affect any rights that would otherwise have been available to party A under subpart 3 of Part 2 of the Contract and Commercial Law Act 2017; or
+  (b) enable party B to exercise any rights that may otherwise have been available to party B under that subpart as a direct consequence of party A exercising the right conferred by subsection (1).
 (5) The right to suspend work under a construction contract ceases when party B pays the amount in full or complies with the adjudicator's determination.
 
 ## Part 3 — Adjudication of disputes
