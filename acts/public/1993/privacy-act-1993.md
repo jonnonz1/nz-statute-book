@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2017-08-31_
+_Consolidation as at 2017-09-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -862,7 +862,7 @@ Where, by any provision of the information privacy principles or of this Act or 
 (1A) Subsection (1) applies subject to subpart 1 of Part 2 of the Prisoners' and Victims' Claims Act 2005.
 (2) Damages recovered by the Director of Human Rights Proceedings under this section shall be paid to the aggrieved individual on whose behalf the proceedings were brought or, if that individual is a minor who is not married or in a civil union or lacks the capacity to manage his or her own financial affairs, in the discretion of the Director of Human Rights Proceedings to Public Trust.
 (3) Where money is paid to Public Trust under subsection (2),—
-  (a) section 12 of the Minors' Contracts Act 1969 shall apply in the case of a minor who is not married or in a civil union; and
+  (a) sections 103 to 110 of the Contract and Commercial Law Act 2017 shall apply in the case of a minor who is not married or in a civil union; and
   (b) Part 9A of the Protection of Personal and Property Rights Act 1988 shall apply in the case of an individual who lacks the capacity to manage his or her own financial affairs.
 
 ### 89 Certain provisions of Human Rights Act 1993 to apply
