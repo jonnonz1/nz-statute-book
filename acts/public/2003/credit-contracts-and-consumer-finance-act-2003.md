@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -1764,7 +1764,7 @@ The court may make all or any of the orders referred to in section 94 if the cou
 (1) An order under section 93 or 94A may be made on the application of the Commission or any party to a consumer credit contract, other credit contract, guarantee, consumer lease, or buy-back transaction, as the case may be.
 (2) An application for an order under section 93 or 94A may be made at any time within 3 years after the date on which the loss or damage was discovered or ought reasonably to have been discovered.
 (3) An application made by the Commission for an order under section 93 or 94A may be made on behalf of a person or a class of persons.
-(4) Nothing in section 93 or 94A or this section limits or affects the Illegal Contracts Act 1970.
+(4) Nothing in section 93 or 94A or this section limits or affects subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 
 **Injunctions**
 
@@ -2195,7 +2195,7 @@ Nothing in this Part limits section 41 or section 80 or section 82.
 
 ### 135 No contracting out
 (1) This Act has effect despite any provision to the contrary in any credit contract, guarantee, consumer lease, or buy-back transaction.
-(1A) Section 56 of the Sale of Goods Act 1908 must be read as subject to this section.
+(1A) Section 197 of the Contract and Commercial Law Act 2017 must be read as subject to this section.
 (2) Every creditor, lessor, or transferee commits an offence against section 13(i) of the Fair Trading Act 1986 who purports to contract out of any provision of this Act.
 (3) Subsection (1) does not limit or affect any term in a credit contract, guarantee, consumer lease, or buy-back transaction between a creditor, a lessor, or a transferee and a debtor, a guarantor, a lessee, or an occupier to the extent that the term—
   (a) imposes a stricter duty on the creditor, the lessor, or the transferee than that imposed by this Act; or
