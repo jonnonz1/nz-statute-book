@@ -1,5 +1,5 @@
 # Sale of Goods (United Nations Convention) Act 1994
-_Consolidation as at 1995-10-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to give effect to the provisions of the United Nations Convention on Contracts for the International Sale of Goods
 
