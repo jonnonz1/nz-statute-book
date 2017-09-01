@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -962,7 +962,7 @@ The functions of the agency include the following:
   (c) must include the information reasonably requested by the social housing provider, to enable the social housing provider to make decisions on allocating, assigning, and letting housing, and continuing to allocate, assign, and let housing.
 (3) The agency must update the notification following any determination that affects the tenant’s eligibility for social housing or housing needs assessed by the agency or determined on review and appeal, and may update a notification following an investigation under this Part.
 (4) A social housing provider is entitled to rely on a notification given under this section.
-(5) A notification under this section may be given by electronic means in accordance with Part 2 of the Electronic Transactions Act 2002.
+(5) A notification under this section may be given by electronic means in accordance with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017.
 
 ### 104 Income-related rent
 (1) This subsection applies to social housing and a tenant if—
@@ -1001,7 +1001,7 @@ The functions of the agency include the following:
   (b) may update a notification following an investigation under this Part.
 (3) An updated notification must state whether the change in income-related rent is due to a change in the tenant’s circumstances or the circumstances of any other applicable person and, if so, the date the change in circumstances occurred.
 (4) A social housing provider is entitled to rely on a notification given under this section.
-(5) A notification under this section may be given by electronic means in accordance with Part 2 of the Electronic Transactions Act 2002.
+(5) A notification under this section may be given by electronic means in accordance with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017.
 
 **Calculating income-related rents**
 
@@ -1484,7 +1484,7 @@ In this section and in sections 146 to 155, unless the context otherwise require
   (a) may revoke a deduction notice at any time:
   (b) must revoke the deduction notice if satisfied that the overdue amount has been paid.
 (5) Every deduction notice is subject to sections 148 to 155.
-(6) A notice under this section may be given by electronic means in accordance with Part 2 of the Electronic Transactions Act 2002.
+(6) A notice under this section may be given by electronic means in accordance with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017.
 
 ### 148 Issue of deduction notice to State sector employer
 In any case where a tenant is employed within a department (within the meaning of the State Sector Act 1988), a deduction notice may be issued under section 146 to the chief executive of that department in respect of any salary or wages payable to the tenant.
@@ -1542,7 +1542,7 @@ In any case where a third party deducts, under a deduction notice, any money pay
     (ii) by leaving it at that person's place of business; or
     (iii) by posting it in a letter addressed to that person at that place of business.
 (2) If any such notice is sent to any person by post, then, in the absence of evidence to the contrary, the notice is deemed to have been received by that person on the fourth day after the day on which it is posted, and, in proving the delivery, it is sufficient to prove the letter was properly addressed and posted.
-(3) A notice to a person under any of sections 146 to 154 may be given by electronic means in accordance with Part 2 of the Electronic Transactions Act 2002.
+(3) A notice to a person under any of sections 146 to 154 may be given by electronic means in accordance with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017.
 
 **Transitional matters**
 
@@ -1925,12 +1925,12 @@ If regulations under section 187(1)﻿(a) establish a body to dispose of appeals
     (i) personally; or
     (ii) by leaving it at that person's usual or last known place of residence or business or at the address specified by that person in any application or other document received from that person; or
     (iii) by posting it in a letter addressed to that person at that place of residence or business or at that address; or
-    (iv) by an electronic means of communication to that person that complies with Part 2 of the Electronic Transactions Act 2002:
+    (iv) by an electronic means of communication to that person that complies with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017:
   (b) in the case of any other person, including an officer or employee in the service of the Crown in his or her official capacity,—
     (i) where applicable, personally; or
     (ii) by leaving it at that person's place of business; or
     (iii) by posting it in a letter addressed to that person at that place of business; or
-    (iv) by an electronic means of communication to that person that complies with Part 2 of the Electronic Transactions Act 2002.
+    (iv) by an electronic means of communication to that person that complies with subpart 2 of Part 4 of the Contract and Commercial Law Act 2017.
 (2) If any such notice is sent to any person by post, then, in the absence of evidence to the contrary, the notice is deemed to have been received by that person on the fourth day after the day on which it is posted, and, in proving the delivery, it is sufficient to prove the letter was properly addressed and posted.
 
 ## Schedule 1 — Enactments amended
