@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2017-08-09_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -588,7 +588,7 @@ This Act binds the Crown.
 (2) A provision of an agreement or a deed is void if it provides that a party to the agreement or deed is—
   (a) required or bound to waive compliance with any requirement of this Act or the regulations; or
   (b) taken to have notice of any agreement, document, or matter not specifically referred to in the relevant disclosure document (if any).
-(3) Nothing in this section or in any other provision of this Act or the regulations limits the Illegal Contracts Act 1970.
+(3) Nothing in this section or in any other provision of this Act or the regulations limits subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 (which relates to illegal contracts).
 
 ## Part 2 — Fair dealing
 
