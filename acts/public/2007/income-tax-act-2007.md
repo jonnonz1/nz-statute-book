@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-08-04_
+_Consolidation as at 2017-09-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -11133,7 +11133,7 @@ When this section applies
 (1) This section applies when—
   (a) a person (the buyer) enters into an unconditional contract to buy an item of depreciable property; and
   (b) the contract is not a hire purchase agreement and the item is not a hire purchase asset that is the subject of a hire purchase agreement; and
-  (c) the contract is subject to the Sale of Goods Act 1908; and
+  (c) the contract is subject to Part 3, subparts 1 to 6 of the Contract and Commercial Law Act 2017; and
   (d) title to the item does not pass until the purchase price is paid in full; and
   (e) the buyer takes possession of the item before title to it passes.
 Buyer treated as owner
