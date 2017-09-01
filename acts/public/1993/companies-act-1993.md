@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-09-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -432,7 +432,7 @@ A share in a company is personal property.
 (3) The personal representative of a deceased shareholder may transfer a share even though the personal representative is not a shareholder at the time of transfer.
 
 ### 40 Contracts for issue of shares
-A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of financial products or otherwise, is an illegal contract for the purposes of the Illegal Contracts Act 1970 unless—
+A contract or deed under which a company is or may be required to issue shares, whether on the exercise of an option or on the conversion of financial products or otherwise, is an illegal contract for the purposes of subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 unless—
   (a) the board is entitled to issue the shares; and
   (b) either—
     (i) the board has complied with section 47 or section 49; or
@@ -2032,7 +2032,7 @@ Where a shareholder of a company brings proceedings against the company or a dir
 (2) Notwithstanding any enactment or rule of law, a pre-incorporation contract may be ratified within such period as may be specified in the contract, or if no period is specified, then within a reasonable time after the incorporation of the company in the name of which, or on behalf of which, it has been made.
 (3) A contract that is ratified is as valid and enforceable as if the company had been a party to the contract when it was made.
 (4) A pre-incorporation contract may be ratified by a company in the same manner as a contract may be entered into on behalf of a company under section 180.
-(5) Notwithstanding the Contracts (Privity) Act 1982, if a pre-incorporation contract has not been ratified by a company, or validated by the court under section 184, the company may not enforce it or take the benefit of it.
+(5) Despite subpart 1 of Part 2 of the Contract and Commercial Law Act 2017, if a pre-incorporation contract has not been ratified by a company, or validated by the court under section 184, the company may not enforce it or take the benefit of it.
 
 ### 183 Warranties implied in pre-incorporation contracts
 (1) Notwithstanding any enactment or rule of law, in a pre-incorporation contract, unless a contrary intention is expressed in the contract, there is an implied warranty by the person who purports to make the contract in the name of, or on behalf of, the company—
