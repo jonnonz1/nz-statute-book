@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2017-06-01_
+_Consolidation as at 2017-09-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -1729,7 +1729,7 @@ The provisions of the LLMC Convention as amended by the LLMC Protocol have the f
   (d) applies, subject to subsection (4), whether the liability arises at common law or under any other enactment, and notwithstanding anything in any other enactment.
 (4) This Part and Articles 2, 3, and 9 of the LLMC Convention do not limit or affect—
   (a) section 33J, 33K, or 110 of this Act; or
-  (b) anything in the Accident Compensation Act 2001, Parts 18 to 26A of this Act, or the Carriage of Goods Act 1979.
+  (b) anything in the Accident Compensation Act 2001, Parts 18 to 26A of this Act, or subpart 1 of Part 5 of the Contract and Commercial Law Act 2017.
 
 ### 87 Calculation of limits of liability
 (1)
@@ -1809,7 +1809,7 @@ This Part applies to every ship (whether registered or not and whether a New Zea
 (4) Without limiting subsection (3), in any case to which subsection (1) or subsection (2) applies, the High Court may, in accordance with rules of court, extend the period referred to in the appropriate one of those subsections to such extent and on such conditions as it thinks fit.
 (5) This section shall not apply to proceedings in respect of any alleged fault of a ship used by or set aside for the New Zealand Defence Force.
 (6) Subsection (3) shall not apply to any ships of the Crown.
-(7) This section shall not limit or affect section 110, or anything in the Injury Prevention, Rehabilitation, and Compensation Act 2001 or Parts 18 to 26A of this Act or the Carriage of Goods Act 1979.
+(7) This section shall not limit or affect section 110, or anything in the Injury Prevention, Rehabilitation, and Compensation Act 2001 or Parts 18 to 26A of this Act or subpart 1 of Part 5 of the Contract and Commercial Law Act 2017.
 
 ## Part 9 — Wreck of ships and aircraft
 
@@ -2301,7 +2301,7 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
     (b) goods initially loaded on the ship at a New Zealand port for carriage to and final unloading at another New Zealand port
   - **continuous** , in relation to a journey, means proceeding directly and expeditiously
   - **foreign port** means a port in a country other than New Zealand
-  - **goods** has the same meaning as in section 2 of the Carriage of Goods Act 1979
+  - **goods** has the same meaning as in section 246 of the Contract and Commercial Law Act 2017
   - **international cargo** , in relation to any ship, means—
     (a) passengers who initially board the ship at—
       (i) a foreign port for carriage to and disembarking at a New Zealand port; or
