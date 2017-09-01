@@ -1,5 +1,5 @@
 # Carriage of Goods Act 1979
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2017-09-01_
 
 > An Act to restate and reform the law relating to the carriage of goods within New Zealand
 
