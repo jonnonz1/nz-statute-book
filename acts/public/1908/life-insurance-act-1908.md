@@ -1,5 +1,5 @@
 # Life Insurance Act 1908
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to life insurance
 
@@ -340,13 +340,13 @@ No policy shall become void by non-payment of premiums so long as the premiums a
 **Insurance of minors**
 
 ### 66A Insurance by minor who is under the age of 10 years
-A minor who is under the age of 10 years may effect a policy on the minor's own life only if the effecting of the policy is in accordance with a contract approved under section 9 of the Minors' Contracts Act 1969 by the District Court.
+A minor who is under the age of 10 years may effect a policy on the minor's own life only if the effecting of the policy is in accordance with a contract approved under sections 98 to 101 of the Contract and Commercial Law Act 2017 by the District Court.
 
 ### 66B Insurance by minor who is of or over the age of 10 years
 (1) A minor of or over the age of 10 years may do, execute, suffer, and perform all acts, deeds, matters, and things necessary or proper for the purpose of effecting a policy on the minor's own life.
 (2) Subsection (1) is,—
-  (a) in the case of a minor who has not attained the age of 16 years, subject to section 6 of the Minors' Contracts Act 1969; and
-  (b) in the case of a minor who has attained the age of 16 years, subject to section 5(2) of the Minors' Contracts Act 1969.
+  (a) in the case of a minor who has not attained the age of 16 years, subject to sections 86 to 91 of the Contract and Commercial Law Act 2017; and
+  (b) in the case of a minor who has attained the age of 16 years, subject to section 93 of the Contract and Commercial Law Act 2017.
 (3) Subsection (1) is subject to sections 67A, 67C, 67D, and 67E.
 
 ### 66C Dealings by minors with policies
@@ -359,7 +359,7 @@ A minor who is under the age of 10 years may effect a policy on the minor's own 
   (b) if under the age of 16 years, may, with the approval of the District Court, do, in relation to the policy, any of the things mentioned in subparagraphs (i), (ii), and (iv) of paragraph (a).
 (2) Subsection (1) shall apply whether or not the policy was effected in the first place by the minor.
 (3) Subsection (1)﻿(a) shall apply whether the policy has been effected before or after the minor attained the age of 16 years.
-(4) Where a minor of or over the age of 16 years—section 5(2) of the Minors' Contracts Act 1969 shall apply to the surrender or discharge and to every contract so entered into.
+(4) Where a minor of or over the age of 16 years—section 93 of the Contract and Commercial Law Act 2017 shall apply to the surrender or discharge and to every contract so entered into.
   (a) exercises the power conferred on the minor by subsection (1)﻿(a)﻿(i) or subsection (1)﻿(a)﻿(ii); or
   (b) enters into a contract in relation to any policy to which subsection (1) applies—
 (5)
@@ -369,14 +369,14 @@ A minor who is under the age of 10 years may effect a policy on the minor's own 
   (a) that the person who effected the policy was, at the time when that person effected the policy, of or over the age of 10 years; and
   (b) that the person who disposed of the policy was, at the time when that person disposed of the policy, of or over the age of 16 years.
 (2) The presumption set out in subsection (1) shall not apply where the company issuing the policy, or the person claiming under any disposition of the policy made bona fide and for valuable consideration, had, at the time of the issue, actual knowledge that the person purporting to effect the policy was under the age of 10 years or had, at the time of the disposition, actual knowledge that the person purporting to dispose of the policy was under the age of 16 years.
-(3) Nothing in this section applies in respect of any policy effected in accordance with a contract approved under section 9 of the Minors' Contracts Act 1969.
+(3) Nothing in this section applies in respect of any policy effected in accordance with a contract approved under sections 98 to 101 of the Contract and Commercial Law Act 2017.
 
 ### 67 Insurance on life of minor who is under the age of 16 years
 (1) A policy on the life of a minor who is under the age of 16 years may be effected by any of the following persons:
   (a) the parents or guardians of the minor, or one of them:
   (b) a parent or guardian of the minor and the spouse of that parent or guardian, jointly:
   (c) any person who has obtained the consent of the District Court to do so.
-(2) Except as provided in subsection (1) of this section or in section 66A or section 66B or section 67A of this Act or in section 9 of the Minors' Contracts Act 1969, no person may effect a policy on the life of a minor who is under the age of 16 years.
+(2) Except as provided in subsection (1) of this section or in section 66A or section 66B or section 67A of this Act or in sections 98 to 101 of the Contract and Commercial Law Act 2017, no person may effect a policy on the life of a minor who is under the age of 16 years.
 (3) Subsection (1) is subject to sections 67B to 67E.
 
 ### 67A Endowment insurances on lives of minors
