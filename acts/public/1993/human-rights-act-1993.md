@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2017-05-19_
+_Consolidation as at 2017-09-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1103,7 +1103,7 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
   (d) an order that the defendant perform any acts specified in the order with a view to redressing any loss or damage suffered by the complainant or, as the case may be, the aggrieved person as a result of the breach:
   (e) a declaration that any contract entered into or performed in contravention of any provision of Part 1A or Part 2 is an illegal contract:
   (f) an order that the defendant undertake any specified training or any other programme, or implement any specified policy or programme, in order to assist or enable the defendant to comply with the provisions of this Act:
-  (g) relief in accordance with the Illegal Contracts Act 1970 in respect of any such contract to which the defendant and the complainant or, as the case may be, the aggrieved person are parties:
+  (g) relief in accordance with subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 in respect of any such contract to which the defendant and the complainant or, as the case may be, the aggrieved person are parties:
   (h) any other relief the Tribunal thinks fit.
 (4) It is no defence to proceedings referred to in subsection (2) or subsection (5) that the breach was unintentional or without negligence on the part of the party against whom the complaint was made, but, subject to section 92P, the Tribunal must take the conduct of the parties into account in deciding what, if any, remedy to grant.
 (5) In proceedings before the Human Rights Review Tribunal brought, under section 92B(3), by the person against whom a complaint was made, that person may seek a declaration that he or she has not committed a breach of Part 1A or Part 2.
@@ -1144,7 +1144,7 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
   (a) if damages fall within the terms of the property order, the Tribunal must direct the defendant to pay damages awarded under section 92M to the person or trustee corporation acting as the property manager; or
   (b) if damages do not fall within the terms of the property order, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust.
 (4) If money is paid to Public Trust under any of subsections (1) to (3),—
-  (a) section 12 of the Minors' Contracts Act 1969 applies in the case of a minor who is not married or in a civil union; and
+  (a) sections 103 to 110 of the Contract and Commercial Law Act 2017 applies in the case of a minor who is not married or in a civil union; and
   (b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (2) or subsection (3)﻿(b); and
   (c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (3)﻿(a).
 
@@ -1769,7 +1769,7 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
 
 ### 153 Savings
 (1) Nothing in this Act affects the right to bring any proceedings, whether civil or criminal, that may be brought other than under this Act, but, in assessing any damages to be awarded to or on behalf of any person under this Act or otherwise, a court must take account of any damages already awarded to or on behalf of that person in respect of the same cause of action.
-(2) Subject to the Illegal Contracts Act 1970, no proceedings, civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2.
+(2) Subject to subpart 5 of Part 2 of the Contract and Commercial Law Act 2017, no proceedings, civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2.
 (3) Nothing in this Act shall affect any enactment or rule of law, or any policy or administrative practice of the Government of New Zealand, that—
   (a)
   (b) distinguishes between New Zealand citizens and other persons, or between British subjects or Commonwealth citizens and aliens.
