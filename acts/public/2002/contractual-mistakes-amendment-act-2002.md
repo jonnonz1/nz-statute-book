@@ -1,5 +1,5 @@
 # Contractual Mistakes Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 (1) This Act is the Contractual Mistakes Amendment Act 2002.
@@ -9,7 +9,7 @@ _Consolidation as at 2007-09-03_
 This Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 3 Interpretation
-Section 2(1) of the principal Act is amended by repealing the definition of Court, and substituting the following definition:.
+Section 2(1) of the principal Act is amended by repealing the definition of Court, and substituting the following definition:
   - **Court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
 
 ### 4 Purpose of Act
