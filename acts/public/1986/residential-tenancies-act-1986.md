@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -327,8 +327,8 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
 (1) A person who has attained the age of 18 years or who is or has been married or in a civil union under that age shall have the same capacity in respect of tenancy agreements, and in respect of the settlement of disputes arising in relation to tenancy agreements, as persons of full age have.
 (2) Subject to subsection (3), where during a tenancy, the tenant attains the age of 18 years or marries or enters into a civil union for the first time under that age, the tenancy agreement shall thereafter have the same force and effect as it would have had if the tenant had been of full age at the time when the tenant entered into the agreement.
 (3) In any case to which subsection (2) applies, the tenant may, within 10 working days after the date on which the tenant attains the age of 18 years or marries or enters into a civil union, apply to the Tribunal for an order relieving the tenant of all or any of the obligations imposed on the tenant by the agreement.
-(4) Subject to subsections (1) and (2), the Tribunal shall have and may exercise, in respect of tenancy agreements, all the jurisdiction and powers conferred on the High Court or the District Court by the Minors' Contracts Act 1969.
-(5) Except where any proceedings are transferred to the District Court under section 83(2) or an appeal is brought under any of sections 117, 119, and 120, no court shall have jurisdiction under the Minors’ Contracts Act 1969 in respect of any tenancy agreement.
+(4) Subject to subsections (1) and (2), the Tribunal shall have and may exercise, in respect of tenancy agreements, all the jurisdiction and powers conferred on the High Court or the District Court by subpart 6 of Part 2 of the Contract and Commercial Law Act 2017.
+(5) Except where any proceedings are transferred to the District Court under section 83(2) or an appeal is brought under any of sections 117, 119, and 120, no court shall have jurisdiction under subpart 6 of Part 2 of the Contract and Commercial Law Act 2017 in respect of any tenancy agreement.
 
 ### 15 Notification of successor to landlord or tenant
 (1) Where, during the term of any tenancy, the landlord's or tenant's interest passes to some other person, that other person shall, within 10 working days thereafter, cause the other party to the tenancy to be notified of—
@@ -1759,7 +1759,7 @@ Stage 2
   (b) when approving a representative under section 93(5) or at any time thereafter, authorise that representative to control the conduct of the minor's case.
 (3) In any proceedings before the Tribunal, any manager or person appointed to administer another's affairs under the Protection of Personal and Property Rights Act 1988 shall, subject to that Act, control the conduct of the case of the person whose affairs they manage or administer.
 (4) A person who is empowered by or under this section to control the conduct of the case of another person may do all such things in the proceedings as the person so empowered could do if that person were a party to the proceedings in place of that other person.
-(5) Nothing in this section shall restrict the application of section 12 of the Minors' Contracts Act 1969 to—after proceedings have been commenced before the Tribunal.
+(5) Nothing in this section shall restrict the application of sections 103 to 110 of the Contract and Commercial Law Act 2017 to—after proceedings have been commenced before the Tribunal.
   (a) a settlement agreed to by or on behalf of a minor; or
   (b) a payment made or proposed to be made by, or on behalf of, or to, or for the benefit of, a minor,—
 (6) In this section proceedings before the Tribunal means—and also includes any order made in any such proceedings.
