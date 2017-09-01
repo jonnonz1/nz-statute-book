@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2017-09-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -919,16 +919,16 @@ In no case shall any person be sentenced by the Court Martial to detention for a
 (7) Subsections (4) and (5) shall apply only in respect of pawnbrokers carrying on business in New Zealand, or in places over which New Zealand is for the time being exercising sovereignty, or in respect of pawnbrokers over which New Zealand or the Armed Forces or any part of the Armed Forces has jurisdiction by virtue of any treaty or agreement with the country in which the pawnbrokers are carrying on business.
 
 ### 87A Suspension of compensation and restitution orders made by Court Martial, etc
-(1) Where the Court Martial makes an order for compensation under section 86, or an order for restitution under section 87 (with or without compensation under subsection (3) of that section), or convicts anyone of an offence to which subsection (1) of section 26 of the Sale of Goods Act 1908 applies, the operation of that order or the provisions of that subsection shall be suspended to such extent as may be prescribed in the rules of procedure pending—as may be so prescribed.
+(1) Where the Court Martial makes an order for compensation under section 86, or an order for restitution under section 87 (with or without compensation under subsection (3) of that section), or convicts anyone of an offence to which section 152(1) of the Contract and Commercial Law Act 2017 applies, the operation of that order or the provisions of that subsection shall be suspended to such extent as may be prescribed in the rules of procedure pending—as may be so prescribed.
   (a) the completion of such proceedings; or
   (b) the expiration of such period; or
   (c) the giving of such consent; or
   (d) the occurrence of such event or circumstance—
 (2) Without limiting section 160 of this Act or section 19 of the Court Martial Appeals Act 1953, where the operation of any such order or the operation of the said provisions is so suspended, the order or provisions shall not take effect if the conviction is quashed on review or appeal.
 (3) Subsection (1), with any necessary modifications, applies to—
-  (a) a finding of guilty made by a disciplinary officer, being a finding to which section 26(1) of the Sale of Goods Act 1908 applies:
+  (a) a finding of guilty made by a disciplinary officer, being a finding to which section 152(1) of the Contract and Commercial Law Act 2017 applies:
   (b) an order for compensation or restitution made by a disciplinary officer under section 86 or 87.
-(4) If the operation of an order for compensation or restitution or the operation of section 26(1) of the Sale of Goods Act 1908 is suspended by virtue of subsection (3), the order or provisions must not take effect if the finding of guilty is quashed on appeal.
+(4) If the operation of an order for compensation or restitution or the operation of section 152(1) of the Contract and Commercial Law Act 2017 is suspended by virtue of subsection (3), the order or provisions must not take effect if the finding of guilty is quashed on appeal.
 (5) Subsection (4) does not limit section 134.
 
 ## Part 4 — Arrest and search
@@ -2127,7 +2127,7 @@ The Governor-General may, by Order in Council, make rules of procedure for all o
   (o) providing for the procedure to be observed in new trials by disciplinary officers or the Court Martial directed to be held under any provision of this Act or of the Court Martial Appeals Act 1953:
   (p) empowering the Director of Military Prosecutions, with the leave of a Judge, in such cases and to such extent as the rules specify, to amend a charge before the Court Martial:
   (q) specifying any matter referred to in section 87A(1) in relation to the suspension of orders for compensation; and providing for the retention of deductions from pay made pursuant to any order for compensation while the order is suspended:
-  (r) specifying any matter referred to in section 87A(1) in relation to the suspension of orders for restitution and the suspension in certain cases of the provisions of section 26(1) of the Sale of Goods Act 1908; and providing for the retention and safe custody of any property to which any order for restitution or those provisions apply while the order or the operation of those provisions is suspended:
+  (r) specifying any matter referred to in section 87A(1) in relation to the suspension of orders for restitution and the suspension in certain cases of the provisions of section 152(1) of the Contract and Commercial Law Act 2017; and providing for the retention and safe custody of any property to which any order for restitution or those provisions apply while the order or the operation of those provisions is suspended:
   (s)
   (t) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect, in relation to the investigation, trial, and punishment of offences against this Act.
 
