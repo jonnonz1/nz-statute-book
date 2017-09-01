@@ -1,5 +1,5 @@
 # Tūhoe Claims Settlement Act 2014
-_Consolidation as at 2014-07-27_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Tūhoe Claims Settlement Act 2014.
@@ -259,16 +259,16 @@ In this Act, unless the context otherwise requires,—
   - **interest** means a covenant, easement, lease, licence, licence to occupy, tenancy, or other right or obligation affecting a property
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Tūhoe** means an individual referred to in section 13(1)(a)
+  - **member of Tūhoe** means an individual referred to in section 13(1)﻿(a)
   - **property redress schedule** means the property redress schedule of the deed of settlement
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustee) acting for or on behalf of—
-      (i) the collective group referred to in section 13(1)(a); or
+      (i) the collective group referred to in section 13(1)﻿(a); or
       (ii) 1 or more members of Tūhoe; or
-      (iii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)(c)
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)﻿(c)
   - **reserve** has the meaning given in section 2(1) of the Reserves Act 1977
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **RFR** means the right of first refusal provided for by subpart 2 of Part 3
@@ -320,7 +320,7 @@ In this Act, unless the context otherwise requires,—
     (ii) Wai 724 (Murupara Section and Rating Powers Act 1998 Claim); and
     (iii) Wai 725 (Te Pāhou Blocks).
 (4) However, the historical claims do not include—
-  (a) a claim that a member of Tūhoe, or a whānau, hapū, or group referred to in section 13(1)(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not a Tūhoe tipuna; or
+  (a) a claim that a member of Tūhoe, or a whānau, hapū, or group referred to in section 13(1)﻿(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not a Tūhoe tipuna; or
   (b) a claim that a representative entity had or may have that is based on a claim referred to in paragraph (a).
 (5) A claim may be a historical claim whether or not the claim has arisen or been considered, researched, registered, notified, or made on or before the settlement date.
 (6) In this section,—
@@ -492,7 +492,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
     (i) section 24 of the Conservation Act 1987 does not apply to the property; and
     (ii) the property is subject to sections 29(3) and 33; or
   (b) part of the property, the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the property that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 31 Application of other enactments
 (1) The vesting of the fee simple estate in a cultural redress property under this subpart does not—
@@ -509,7 +509,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 ### 32 Application of other enactments
 (1) The trustees are the administering body of Te Tii.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to Te Tii, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to Te Tii.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to Te Tii.
 (4) If the reservation of Te Tii under this subpart is revoked under section 24 of the Reserves Act 1977 for all or part of Te Tii, section 25(2) of that Act applies to the revocation, but not the rest of section 25.
 (5) The name of Te Tii must not be changed nor a new name assigned to it under section 16(10) of the Reserves Act 1977 without the written consent of the owners of the property, and section 16(10A) of that Act does not apply to the proposed name.
 
@@ -549,7 +549,7 @@ The owners of the reserve land must not mortgage, or give a security interest in
   (a) confirming that all of the land contained in the computer freehold register for the property was returned on the return date; and
   (b) containing a statement from the relevant licensee under the Crown forestry licence endorsing paragraph (a).
 (2) The Registrar-General must remove the Crown forestry licence memorial from the computer freehold register for the property.
-(3) In subsection (1)(a), return date has the meaning given in the relevant Crown forestry licence.
+(3) In subsection (1)﻿(a), return date has the meaning given in the relevant Crown forestry licence.
 
 ### 38 Removal of public access and easement notations
 (1) This section applies to the CNI forests properties.
@@ -570,7 +570,7 @@ In this subpart,—
     (a) means each of the following protocols issued under section 40:
       (i) the primary industries protocol:
       (ii) the taonga tūturu protocol; and
-    (b) includes any amendments made under section 40(1)(b)
+    (b) includes any amendments made under section 40(1)﻿(b)
   - **responsible Minister** means,—
     (a) for the primary industries protocol, the Minister for Primary Industries:
     (b) for the taonga tūturu protocol, the Minister for Arts, Culture and Heritage:
@@ -722,7 +722,7 @@ To give effect to part 4C of the deed of settlement, the Crown (acting by and th
 (5) A notification made under subsection (4) that land is subject to Part 4A of the Conservation Act 1987 is to be treated as having been made in compliance with section 24D(1) of that Act.
 
 ### 57 Requirements if lease terminates or expires
-(1) This section applies if the lease referred to in section 56(1)(c) (or a renewal of that lease) terminates, or expires without being renewed, in relation to all or part of the property that is transferred subject to the lease.
+(1) This section applies if the lease referred to in section 56(1)﻿(c) (or a renewal of that lease) terminates, or expires without being renewed, in relation to all or part of the property that is transferred subject to the lease.
 (2) The transfer of the property is no longer exempt from section 24 (except subsection (2A)) of the Conservation Act 1987 in relation to all or that part of the property.
 (3) The registered proprietors of the property must apply in writing to the Registrar-General,—
   (a) if no part of the property remains subject to such a lease, to remove from the computer freehold register for the property the notifications that—
@@ -761,7 +761,7 @@ In this subpart and Schedule 3,—
       (ii) to grant an easement over the land; or
       (iii) to consent to an assignment of a lease, or to a sublease, of the land; or
       (iv) to remove an improvement, a fixture, or a fitting from the land
-  - **expiry date** , in relation to an offer, means its expiry date under sections 61(2)(a) and 62
+  - **expiry date** , in relation to an offer, means its expiry date under sections 61(2)﻿(a) and 62
   - **notice** means a notice given under this subpart
   - **offer** means an offer by an RFR landowner, made in accordance with section 61, to dispose of RFR land to the trustees
   - **public work** has the meaning given in section 2 of the Public Works Act 1981
@@ -785,7 +785,7 @@ In this subpart and Schedule 3,—
     (ii) is held in fee simple by the Crown; or
     (iii) is a reserve vested in an administering body that derived title to the reserve from the Crown and that would, on the application of section 25 or 27 of the Reserves Act 1977, revest in the Crown; and
   (b) the land described in part 3.2 of the attachments that, on the settlement date, is vested in or held in fee simple by the New Zealand Railways Corporation; and
-  (c) any land obtained in exchange for a disposal of RFR land under section 72(1)(c) or 73.
+  (c) any land obtained in exchange for a disposal of RFR land under section 72(1)﻿(c) or 73.
 (2) Land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
     (i) the trustees or their nominee (for example, under section 52 in the case of a deferred selection property or under a contract formed under section 65); or
@@ -886,7 +886,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 71 Disposal by the Crown under certain legislation
 An RFR landowner may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 34, 43, or 44 of the Marine and Coastal Area (Takutai Moana) Act 2011; or
   (c) section 355(3) of the Resource Management Act 1991.
 
@@ -894,8 +894,8 @@ An RFR landowner may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981, if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981, if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -929,7 +929,7 @@ An RFR landowner may dispose of RFR land to Te Urewera in accordance with any pr
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 
 **Notices about RFR land**
 
@@ -1257,7 +1257,7 @@ A notice by or to an RFR landowner or the trustees under subpart 2 of Part 3 mus
     (iv) sending it by electronic means such as email.
 
 ### 2 Use of electronic transmission
-Despite clause 1, a notice that must be given in writing and signed, as required by clause 1(a), may be given by electronic means provided the notice is given with an electronic signature that satisfies section 22(1)(a) and (b) of the Electronic Transactions Act 2002.
+Despite clause 1, a notice that must be given in writing and signed, as required by clause 1(a), may be given by electronic means provided the notice is given with an electronic signature that satisfies section 226(1)﻿(a) and (b) of the Contract and Commercial Law Act 2017.
 
 ### 3 Time when notice received
 (1) A notice is to be treated as having been received—
@@ -1275,6 +1275,6 @@ Despite clause 1, a notice that must be given in writing and signed, as required
   (a) the Tūhoe Charitable Trust Board, to be held subject to the trusts, covenants, and conditions applying to the assets and liabilities of the Tūhoe Charitable Trust; and
   (b) the Wairoa-Waikaremoana Maori Trust Board.
 (2) The rent and other money referred to in subsection (1) constitute assets,—
-  (a) in the case of the money paid under subsection (1)(a), of the Tūhoe Charitable Trust Board; and
-  (b) in the case of the money paid under subsection (1)(b), of the Wairoa-Waikaremoana Maori Trust Board, for the purposes of section 24 of the Maori Trust Boards Act 1955.
+  (a) in the case of the money paid under subsection (1)﻿(a), of the Tūhoe Charitable Trust Board; and
+  (b) in the case of the money paid under subsection (1)﻿(b), of the Wairoa-Waikaremoana Maori Trust Board, for the purposes of section 24 of the Maori Trust Boards Act 1955.
 (3) Any necessary expenses incurred in negotiating the lease and carrying out the requirements of this Act may be met from the rent payable under the lease before it is paid to the Tūhoe Charitable Trust Board as trustee of the Tūhoe Charitable Trust and the Wairoa-Waikaremoana Maori Trust Board respectively.
