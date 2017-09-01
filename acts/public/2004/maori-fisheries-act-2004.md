@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -221,7 +221,7 @@ This Act binds the Crown.
   (c) in freshwater, must be classified as freshwater.
 (2) For each stock, if any commercial catch was taken during the 5 fishing years prior to the declaration referred to in section 7(1) in any of the harbours listed in Schedule 2, Te Ohu Kai Moana Trustee Limited must determine a harbour quota.
 (3) In relation to each harbour listed in Schedule 2, the proportion of the available settlement quota that is to be classified as harbour quota for each stock must be the proportion of the total commercial catch of that stock taken in that harbour in the fishing year with the highest commercial catch in that harbour during the 5 fishing years prior to the declaration referred to in section 7(1).
-(4) Harbour quota is calculated under subsection (3) in accordance with the following formula: Harbour quota for the listed harbour = a× cbwhere—ais the highest commercial catch of a stock in a listed harbour in a fishing year during the 5 fishing years prior to the declaration referred to in section 7(1)bis the total commercial catch of that stock in that yearcis the available settlement quota.
+(4) Harbour quota is calculated under subsection (3) in accordance with the following formula:Harbour quota for the listed harbour = (a ÷ b) × cwhere—ais the highest commercial catch of a stock in a listed harbour in a fishing year during the 5 fishing years prior to the declaration referred to in section 7(1)bis the total commercial catch of that stock in that yearcis the available settlement quota.
 
 ### 9 Alternative basis for classification of new quota
 (1) This section applies when Te Ohu Kai Moana Trustee Limited is unable to classify a stock under section 8.
@@ -483,7 +483,7 @@ In this Act,—
 (1) Despite section 13(2), if a withdrawing group notifies in accordance with section 20(2)﻿(a) its intention to withdraw from a joint mandated iwi organisation, Te Ohu Kai Moana Trustee Limited must recognise under section 13(1) a mandated iwi organisation for the withdrawing group if the withdrawing group has set up an organisation that meets—
   (a) the criteria of section 14 (other than section 14(d)﻿(ii)); and
   (b) the following further criteria:
-    (i) it has on its register of iwi members no fewer than the minimum number of persons specified in column 4 of Schedule 3, in the proportion that the amount attributed to the withdrawing group under section 20(3)﻿(a) represents of the notional iwi population specified in column 2 of Schedule 3, calculated in accordance with the formula— a× cbwhere—ais the amount attributed to the withdrawing group under section 20(3)﻿(a)bis the total notional population for the iwi set out in column 2 of Schedule 3cis the minimum number of members specified in column 4 of Schedule 3; and
+    (i) it has on its register of iwi members no fewer than the minimum number of persons specified in column 4 of Schedule 3, in the proportion that the amount attributed to the withdrawing group under section 20(3)﻿(a) represents of the notional iwi population specified in column 2 of Schedule 3, calculated in accordance with the formula—(a ÷ b) × cwhere—ais the amount attributed to the withdrawing group under section 20(3)﻿(a)bis the total notional population for the iwi set out in column 2 of Schedule 3cis the minimum number of members specified in column 4 of Schedule 3; and
     (ii) it has an asset-holding company, as required by section 12(1)﻿(d).
 (2) Despite subsection (1), if a group has withdrawn from a joint mandated iwi organisation as provided for under section 20, settlement assets must be distributed under section 36(1)﻿(f)﻿(ii), allocated and transferred under section 43 or Part 3, or payments must be made under section 84(1)﻿(g) or section 96(1)﻿(g), as the case may be, to the relevant joint mandated iwi organisation as if no group had withdrawn from that joint mandated iwi organisation.
 
@@ -1096,7 +1096,7 @@ If Aotearoa Fisheries Limited issues additional income shares,—
   (b) on the terms and conditions that the Court thinks fit, so long as the income shares are not vested other than in—
     (i) a mandated iwi organisation, to be held in trust by an asset-holding company of the mandated iwi organisation; or
     (ii) Te Ohu Kai Moana Trustee Limited.
-(3) In the case of a breach of section 67(2) or sections 69 to 72, the Illegal Contracts Act 1970 does not apply.
+(3) In the case of a breach of section 67(2) or sections 69 to 72, subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 does not apply.
 
 ### 74 Exceptions to restrictions on disposal of income shares
 (1) Sections 69 to 73 do not apply to transfers of income shares between or among—
@@ -1117,7 +1117,7 @@ If Aotearoa Fisheries Limited issues additional income shares,—
 (4) However, subsections (2) and (3) do not apply to—
   (a) quota shares listed in Schedule 1; or
   (b) assets described in section 137(1); or
-  (c) any entities in which Te Ohu Kai Moana Trustee Limited has a controlling interest that hold any of the quota listed in Schedule l; or
+  (c) any entities in which Te Ohu Kai Moana Trustee Limited has a controlling interest that hold any of the quota listed in Schedule 1; or
   (d) shares in a subsidiary of, or a trust controlled by, Te Ohu Kai Moana Trustee Limited that owns any of the quota shares listed in Schedule 1; or
   (e) the shares in ACE Trader Limited, SafeAce Limited, Whangape Mussels Limited, and Southern Abalone Limited; or
   (f) any loans issued by the Treaty of Waitangi Fisheries Commission at any time to a company transferred to Aotearoa Fisheries Limited under this Act; or
@@ -1882,7 +1882,7 @@ When allocating deepwater quota to iwi, Te Ohu Kai Moana Trustee Limited must—
 (2) If a quota management area is partly within the Chatham zone, the settlement quota for that quota management stock must be divided for the purpose of allocation into 2 portions in accordance with subsection (3), with—
   (a) 1 portion being attributed to the Chatham zone; and
   (b) the other portion being attributed to the remaining part of the quota management area to be allocated under section 140 or section 141 or section 144, as if it were an allocation for a complete quota management area.
-(3) If settlement quota for a stock is to be divided under subsection (2), the portion of the quota for the stock attributable to the Chatham zone is given by— a× cbwhere a = ac −as2andacmeans the amount of stock taken in the Chatham zoneasmeans the amount of stock taken from the shared zoneac and asare derived from—bmeans the total of all commercial catches for the stock for the relevant period described in subparagraphs (i) and (ii)cmeans the amount of settlement quota for the stock.
+(3) If settlement quota for a stock is to be divided under subsection (2), the portion of the quota for the stock attributable to the Chatham zone is given by—(a ÷ b) × cwherea = ac − (as ÷ 2)andacmeans the amount of stock taken in the Chatham zoneasmeans the amount of stock taken from the shared zoneac and asare derived from—bmeans the total of all commercial catches for the stock for the relevant period described in subparagraphs (i) and (ii)cmeans the amount of settlement quota for the stock.
   (i) in the case of stocks introduced into the quota management system before 1 October 1999, the total of all commercial catches for the stock for the fishing years commencing on 1 October 1990 and ending on 30 September 2001 (inclusive):
   (ii) in the case of stocks introduced into the quota management system after 1 October 1999, the total of all commercial catches of the stock for the most recent 5 fishing years of available data
 (4) If a quota management area is wholly within the Chatham zone, all the settlement quota for that stock is attributed to the Chatham zone.
@@ -2206,7 +2206,7 @@ If assets offered for sale under section 163 include inshore or freshwater settl
     (iii) a mandated iwi organisation; or
     (iv) an entity within Te Ohu Kai Moana Group; and
   (b) on the terms and conditions that the Court thinks fit, so long as the quota shares are not vested other than in a mandated iwi organisation or an entity within Te Ohu Kai Moana Group.
-(3) In the case of a breach of sections 161 to 168 or rules made under section 176, the Illegal Contracts Act 1970 does not apply.
+(3) In the case of a breach of sections 161 to 168 or rules made under section 176, subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 does not apply.
 
 ### Subpart 3 — Exceptions to application of subpart 2
 
@@ -2274,7 +2274,7 @@ Subpart 2 does not apply to—
   (b) an adult member of an iwi whose mandated iwi organisation is a party; or
   (c) a mandated iwi organisation; or
   (d) an entity within Te Ohu Kai Moana Group.
-(3) In the case of a breach of section 173 or rules made under section 176, the Illegal Contracts Act 1970 does not apply.
+(3) In the case of a breach of section 173 or rules made under section 176, subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 does not apply.
 
 ### Subpart 4 — Additional rules for quota sales and exchanges
 
