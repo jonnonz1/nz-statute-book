@@ -1,5 +1,5 @@
 # Rangitāne o Manawatu Claims Settlement Act 2016
-_Consolidation as at 2016-12-12_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Rangitāne o Manawatu Claims Settlement Act 2016.
@@ -1442,7 +1442,7 @@ A notice by or to an RFR landowner or the trustees under subpart 4 of Part 3 mus
     (iv) sending it by electronic means such as email.
 
 ### 2 Use of electronic transmission
-Despite clause 1, a notice given in accordance with clause 1(a) may be given by electronic means as long as the notice is given with an electronic signature that satisfies section 22(1)﻿(a) and (b) of the Electronic Transactions Act 2002.
+Despite clause 1, a notice given in accordance with clause 1(a) may be given by electronic means as long as the notice is given with an electronic signature that satisfies section 226(1)﻿(a) and (b) of the Contract and Commercial Law Act 2017.
 
 ### 3 Time when notice received
 (1) A notice is to be treated as having been received—
