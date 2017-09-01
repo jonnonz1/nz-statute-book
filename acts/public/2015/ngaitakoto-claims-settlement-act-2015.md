@@ -1,5 +1,5 @@
 # NgāiTakoto Claims Settlement Act 2015
-_Consolidation as at 2015-09-22_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the NgāiTakoto Claims Settlement Act 2015.
@@ -2123,7 +2123,7 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 | Waipapakauri Papakainga property | North Auckland Land District—Far North District4.8103 hectares, more or less, being Section 1 SO 472392. | Subject to an unregistered electricity licence/easement in gross with concession number NO-15075-OTH to Top Energy Limited (dated 21 February 2005). |
 | Waipapakauri Beach property | North Auckland Land District—Far North District6.3410 hectares, more or less, being Section 2 SO 472392. | Subject to being a scenic reserve, as referred to in section 31(3).Subject to the right of way easements referred to in section 31(5).Subject to an unregistered electricity licence/easement in gross with concession number NO-15075-OTH to Top Energy Limited (dated 21 February 2005). |
 | Wharemaru / East Beach property | North Auckland Land District—Far North District1000.0830 hectares, more or less, being Section 1 SO 470833. | Subject to being a scenic reserve, as referred to in section 32(3). |
-| Mai i Waikanae ki Waikoropūpūnoa | North Auckland Land District—Far North District18.7500 hectares, more or less, being Section 2 SO 470146. Part Gazette notice C195138.1. | Subject to being a scenic reserve, as referred to in section 26(4).Subject to the protective covenant certificate C626733.1.Subject to Crown forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Together with a right of way easement created by D592406A.2.Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1. |
+| Mai i Waikanae ki Waikoropūpūnoa | North Auckland Land District—Far North District18.7500 hectares, more or less, being Section 2 SO 470146. Part Gazette notice C195138.1. | Subject to being a scenic reserve, as referred to in section 26(4).Subject to the protective covenant certificate C626733.1.Subject to Crown forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Together with a right of way easement created by D592406A﻿.﻿2.Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1. |
 | Mai i Hukatere ki Waimahuru | North Auckland Land District—Far North District80.8425 hectares, more or less, being Sections 8, 9, and 10 SO 469833. Part Gazette notice B342446.1 and Part Gazette 1966, p 1435. | Subject to being a scenic reserve, as referred to in section 27(4).Subject to the protective covenant certificate C626733.1.Subject to Crown Forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Together with a right of way easement created by D145215.1 (affects the part formerly Lot 1 DP 136868).Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1 (affects the parts formerly Part Lot 1 DP 136869, Part Lot 1 DP 136868, and Part Lot 1 DP 137713). |
 | Mai i Ngāpae ki Waimoho | North Auckland Land District—Far North District44.2385 hectares, more or less, being Sections 1, 2, 3, and 4 SO 469833. Part Gazette 1966, p 1435. | Subject to being a scenic reserve, as referred to in section 28(4).Subject to the protective covenant certificate C626733.1.Subject to Crown Forestry licence registered as C312828.1F and held in computer interest register NA100A/1.Subject to a notice pursuant to section 91 of the Government Roading Powers Act 1989 created by Instrument D538881.1 (affects the part formerly Lot 1 DP 137714).Subject to a Notice pursuant to section 195(2) of the Climate Change Response Act 2002 registered as Instrument 9109779.1. |
 | Mai i Waimimiha ki Ngāpae | North Auckland Land District—Far North District72.1300 hectares, more or less, being Section 1 SO 469396. | Subject to being a scenic reserve, as referred to in section 29(3). |
@@ -2557,7 +2557,7 @@ A notice by or to an RFR landowner, or the trustees of an offer trust or a recip
     (iv) sending it by electronic means such as email.
 
 ### 2 Use of electronic transmission
-Despite clause 1, a notice given in accordance with subclause (1)﻿(a) may be given by electronic means as long as the notice is given with an electronic signature that satisfies section 22(1)﻿(a) and (b) of the Electronic Transactions Act 2002.
+Despite clause 1, a notice given in accordance with subclause (1)﻿(a) may be given by electronic means as long as the notice is given with an electronic signature that satisfies section 226(1)﻿(a) and (b) of the Contract and Commercial Law Act 2017.
 
 ### 3 Time when notice received
 (1) A notice is to be treated as having been received—
