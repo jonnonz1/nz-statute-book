@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2017-09-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -4391,44 +4391,19 @@ In this section and sections 282E to 282L, unless the context otherwise requires
 **Interim arrangements for information sharing**
 
 ### 282E Purpose of sections 282F to 282H
-The purpose of sections 282F to 282H is to support certain interim information-sharing measures (relating to joint border management initiatives between the Ministry and the Customs) that are required to be in place until the JBMS becomes fully operational by allowing—
-  (a) the Customs to collect or store any border information:
-  (b) the Ministry to access that border information for a Ministry-related border management function.
+[Repealed]
 
 ### 282F Interim collection of border information
-(1) The Customs may—
-  (a) collect any border information:
-  (b) store any border information.
-(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 2 or 3 of the Privacy Act 1993.
+[Repealed]
 
 ### 282G Requirement by or under this Act to supply border information is complied with if information is supplied to Ministry or other agency
-(1) A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Customs if, instead of to the Customs, the person supplies the border information to—
-  (a) the Ministry, for the purposes of, and in accordance with, section 41C(1) of the Biosecurity Act 1993:
-  (b) an agency appointed under section 41C(3) of the Biosecurity Act 1993, for the purposes of, and in accordance with, section 41C(1) of that Act.
-(2) However, subsection (1) does not apply if the chief executive has given the person a written notice requiring the border information to be supplied to the Customs instead of to the Ministry or an agency appointed under section 41C(3) of the Biosecurity Act 1993.
+[Repealed]
 
 ### 282H Interim access to border information
-(1) The chief executive may, in accordance with a written agreement entered into by the chief executive and the Director-General, allow the Ministry to access any border information that was or is collected or stored by the Customs before, on, or after the commencement of this section.
-(2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 or 11 of the Privacy Act 1993.
-(3) An agreement must state—
-  (a) the purpose of the agreement; and
-  (b) the border information that can be accessed; and
-  (c) the conditions subject to which the border information will be accessed; and
-  (d) how the Ministry will use the border information (including the limits on any further disclosure by the Ministry); and
-  (e) the method and form of access.
-(4) An agreement may be varied by the chief executive and the Director-General in writing.
-(5) The chief executive and the Director-General must consult the Privacy Commissioner before entering into or varying an agreement.
-(6) To avoid doubt, nothing in subsection (1) limits or prevents the Ministry from carrying out an analysis of any border information to which it has access under that subsection for the purpose of examining risk patterns or risk profiles in relation to any or all of the following:
-  (a) goods, persons, or craft:
-  (b) import or export transactions:
-  (c) importers or exporters.
+[Repealed]
 
 ### 282I Expiry of sections 282E to 282H and agreements made under section 282H
-(1) The following expire, or must be taken to have expired, on 1 July 2015 or on a later date appointed by the Governor-General by Order in Council made on the recommendation of the Minister:
-  (a) sections 282E to 282H:
-  (b) any agreement made under section 282H.
-(1A) A date later than 1 July 2015 appointed by an Order in Council under subsection (1) may, before that date, be replaced by another date later than 1 July 2015 appointed by a later Order in Council under subsection (1).
-(2) The Minister may recommend the making of an Order in Council under subsection (1) only if he or she is satisfied, after consulting the Minister for Biosecurity, that a later date is necessary because of a delay in the full operationalisation of the JBMS.
+[Repealed]
 
 **Information sharing for joint border management**
 
