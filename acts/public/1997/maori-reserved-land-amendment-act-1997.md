@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -54,7 +54,7 @@ Where land that is subject to a lease to which this Act applies, or a lessee's i
 
 ### 7 Transfer or assignment of lessor's or lessee's interest in contravention of implied provisions void
 (1) Any transfer of land that is subject to a lease to which this Act applies by a lessor, or any assignment of an interest in a lease to which this Act applies by a lessee, in breach of the provisions in Schedule 1 (as implied in the lease by section 5) is void, unless the party not making the transfer or assignment consents in writing to the transfer or assignment before the transfer or assignment is made.
-(2) A transfer or assignment that is void under subsection (1) is not illegal and no contract is, by reason of the fact that it provides for such a transfer or assignment, an illegal contract within the meaning of section 3 of the Illegal Contracts Act 1970.
+(2) A transfer or assignment that is void under subsection (1) is not illegal and no contract is, by reason of the fact that it provides for such a transfer or assignment, an illegal contract within the meaning of section 71 of the Contract and Commercial Law Act 2017.
 
 ### 8 Acquisition of relevant interest in lessors or lessees that are companies
 (1) After the commencement of this Act, a person (other than a preferred alienee) must not acquire a relevant interest, or an additional relevant interest, in the voting products of a company that is a lessor of a lease to which this Act applies unless—
@@ -64,7 +64,7 @@ Where land that is subject to a lease to which this Act applies, or a lessee's i
   (a) The company complies with clauses 11 to 14 or clauses 16 to 25 of the provisions in Schedule 1, as if the company were proposing to assign its interest in the lease; or
   (b) The lessor of the lease consents in writing to the acquisition before the relevant interest is acquired.
 (3) The acquisition of a relevant interest in the voting products of a company in contravention of this section is void.
-(4) An acquisition that is void under subsection (3) is not illegal and no contract is, by reason of the fact that it provides for such an acquisition, an illegal contract within the meaning of section 3 of the Illegal Contracts Act 1970.
+(4) An acquisition that is void under subsection (3) is not illegal and no contract is, by reason of the fact that it provides for such an acquisition, an illegal contract within the meaning of section 71 of the Contract and Commercial Law Act 2017.
 (5) In this section,—
   (a) company includes any body corporate with voting products; but does not include a company that is a listed issuer (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
   (b) Preferred alienee means a person that comes within the preferred classes of alienees under Te Ture Whenua Maori Act 1993:
@@ -78,7 +78,7 @@ Where land that is subject to a lease to which this Act applies, or a lessee's i
   (b) The person acquiring the beneficial interest is a preferred alienee or a specified assignee; or
   (c) The party to the lease, not being the trustee of the trust in which the beneficial interest is acquired, consents in writing before the interest is acquired.
 (2) The acquisition of a beneficial interest in a trust in contravention of subsection (1) is void.
-(3) An acquisition that is void under subsection (2) is not illegal and no contract is, by reason of the fact that it provides for such an acquisition, an illegal contract within the meaning of section 3 of the Illegal Contracts Act 1970.
+(3) An acquisition that is void under subsection (2) is not illegal and no contract is, by reason of the fact that it provides for such an acquisition, an illegal contract within the meaning of section 71 of the Contract and Commercial Law Act 2017.
 (4) In this section,—
   (a) Preferred alienee means a person that comes within the preferred classes of alienees under Te Ture Whenua Maori Act 1993:
   (b) Specified assignee has the same meaning as in clause 2 of Schedule 1.
@@ -90,11 +90,11 @@ Where land that is subject to a lease to which this Act applies, or a lessee's i
 (2) A lessee is not required to comply with subsection (1) if—
   (a) The lessor, by notice in writing to the lessee, has exempted the lessee from such compliance; or
   (b) The High Court has made an order extending the period within which the lessee must comply with subsection (1).
-(3) The High Court may make an order under subsection (2)(b) on the grounds that any legal proceedings that have been commenced within 1 year after the testator's or intestate's death, being—are unlikely to be disposed of within that year.
+(3) The High Court may make an order under subsection (2)﻿(b) on the grounds that any legal proceedings that have been commenced within 1 year after the testator's or intestate's death, being—are unlikely to be disposed of within that year.
   (a) Proceedings touching the validity of the will of the testator; or
   (b) Proceedings for obtaining, recalling, or revoking any grant of administration under the Administration Act 1969 (other than a grant made under section 7 of that Act) in respect of the estate of the testator or intestate; or
   (c) Proceedings under the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955 in respect of the estate of the testator or intestate,—
-(4) The High Court may make an order under subsection (2)(b) on such terms and conditions as the High Court thinks fit.
+(4) The High Court may make an order under subsection (2)﻿(b) on such terms and conditions as the High Court thinks fit.
 
 ### 11 District Land Registrar to note certificate of title and lease
 (1) Subject to subsection (2), as soon as reasonably practicable after the commencement of this Act, the District Land Registrar must, in relation to every lease to which this Act applies, make all such entries in the register, and do all such other things as may be necessary to give effect to the provisions of this Act.
@@ -136,22 +136,22 @@ The District Land Registrar must not register a transfer of any land that is sub
 (4) The lessor may, within 3 months after being given a notice under subsection (1), elect either—
   (a) To inform the chief executive of Te Puni Kokiri, by notice in writing signed by the lessor, that the lessor will accept both of the amounts specified in the notice given to the lessor under subsection (1); or
   (b) To file in the appropriate office of the District Court, in accordance with section 21 of the Land Valuation Proceedings Act 1948, an application to have the lessor's compensation determined by the Land Valuation Tribunal in accordance with section 15.
-(5) Where the lessor files an application under subsection (4)(b), the lessor must, within 3 working days after the day on which that notice is filed, give a copy of that application to the chief executive of Te Puni Kokiri, who is to be a party to the proceedings before the Land Valuation Tribunal.
-(6) Where the lessor files an application under subsection (4)(b), the lessor is not entitled, in respect of the lease to which the application relates, to compensation under section 13 or a solatium payment under section 25.
-(7) Where the chief executive of Te Puni Kokiri receives from the lessor a notice under subsection (4)(a), the chief executive must, within 3 months after the day on which he or she receives that notice, pay to the lessor the amounts specified in the notice given to the lessor under subsection (1).
-(8) Where the lessor does not, within the period allowed by subsection (4), take either of the steps permitted by that subsection, the lessor is deemed to have given to the chief executive on the last day of that period a notice under subsection (4)(a).
+(5) Where the lessor files an application under subsection (4)﻿(b), the lessor must, within 3 working days after the day on which that notice is filed, give a copy of that application to the chief executive of Te Puni Kokiri, who is to be a party to the proceedings before the Land Valuation Tribunal.
+(6) Where the lessor files an application under subsection (4)﻿(b), the lessor is not entitled, in respect of the lease to which the application relates, to compensation under section 13 or a solatium payment under section 25.
+(7) Where the chief executive of Te Puni Kokiri receives from the lessor a notice under subsection (4)﻿(a), the chief executive must, within 3 months after the day on which he or she receives that notice, pay to the lessor the amounts specified in the notice given to the lessor under subsection (1).
+(8) Where the lessor does not, within the period allowed by subsection (4), take either of the steps permitted by that subsection, the lessor is deemed to have given to the chief executive on the last day of that period a notice under subsection (4)﻿(a).
 (9) In this section,—
   - **Land Valuation Tribunal** has the meaning given to it by section 2 of the Land Valuation Proceedings Act 1948
   - **Lessor** means, in relation to land under the Land Transfer Act 1952, the registered proprietor of the land.
 
 ### 15 Determination of compensation by Land Valuation Tribunal
-(1) Where a lessor files an application under section 14(4)(b), the Land Valuation Tribunal has jurisdiction to determine, in accordance with this section, the amount to be paid to the lessor by the Crown as compensation—
+(1) Where a lessor files an application under section 14(4)﻿(b), the Land Valuation Tribunal has jurisdiction to determine, in accordance with this section, the amount to be paid to the lessor by the Crown as compensation—
   (a) For the delay, as from the commencement of 1 January 1998,—
     (i) In the change to a more frequent rent review; and
     (ii) In the change to a fair annual rent based on the unimproved value of the land; and
   (b) For the conditions imposed by this Act on the transfer by the lessor of the land subject to the lease.
 (2) The Land Valuation Tribunal must, as soon as practicable, determine the amount of that compensation.
-(3) Every application made under section 14(4)(b) must, subject to this section, be dealt with by the Land Valuation Tribunal in accordance with the provisions of the Land Valuation Proceedings Act 1948, which is to apply with all necessary modifications.
+(3) Every application made under section 14(4)﻿(b) must, subject to this section, be dealt with by the Land Valuation Tribunal in accordance with the provisions of the Land Valuation Proceedings Act 1948, which is to apply with all necessary modifications.
 (4) In this section,—
   - **Land Valuation Tribunal** has the meaning given to it by section 2 of the Land Valuation Proceedings Act 1948
   - **Lessor** means, in relation to land under the Land Transfer Act 1952, the registered proprietor of the land.
@@ -189,7 +189,7 @@ If the annual rent of the lease is, at the commencement of this Act, no longer d
 
 ### 22 Compensation payable by the Crown
 (1) Compensation payable to a lessor or lessee under this Act must be paid by the Crown as soon as the amount of the compensation is determined in accordance with this Act.
-(2) Payments of compensation made under the Maori Reserved Land Amendment Act 1998 are deemed, for the purposes of this section and section 30 of this Act and section CW 34(1)(g) of the Income Tax Act 2007, to be payments of compensation made under this Act.
+(2) Payments of compensation made under the Maori Reserved Land Amendment Act 1998 are deemed, for the purposes of this section and section 30 of this Act and section CW 34(1)﻿(g) of the Income Tax Act 2007, to be payments of compensation made under this Act.
 
 ### 23 Interest payable on compensation
 (1) Where the compensation to which a person is entitled under section 13 or section 15 or section 16 or section 4 of the Maori Reserved Land Amendment Act 1998 is not paid to that person, within the period of 3 months after the date on which that person becomes entitled to be paid that compensation, and the delay, after the expiration of that period, in making payment is attributable to the Crown, the Crown must, on paying that compensation, pay it together with interest in respect of the period beginning with the expiration of that period of 3 months and ending with the date of payment.
@@ -248,7 +248,7 @@ Nothing in this Act or the Maori Reserved Land Amendment Act 1998 affects the ri
   (a) Correcting any misdescription or error in that schedule:
   (b) Inserting a number or certificate of title that is not specified in that schedule:
   (c) Adding, on or before 30 June 1998, the details of any lease to which the principal Act applies and which have been omitted in error from that schedule.
-(2) An Order in Council may be made under subsection (1)(c) only on the recommendation of the Minister of Maori Affairs, after consultation by that Minister with such persons, including the lessor and lessee of the lease to which the order relates, as that Minister thinks fit.
+(2) An Order in Council may be made under subsection (1)﻿(c) only on the recommendation of the Minister of Maori Affairs, after consultation by that Minister with such persons, including the lessor and lessee of the lease to which the order relates, as that Minister thinks fit.
 
 ### 30 Goods and services tax
 No payment made under this Act is to be treated, for the purposes of the Goods and Services Tax Act 1985, as consideration for the supply of goods and services.
@@ -506,11 +506,11 @@ In this schedule, unless the context otherwise requires,—
     (c) In relation to lessors, 25%.
 
 ### 2
-(1) For the purposes of this schedule, the land inflation rate means the land inflation rate for each land type and location as set out in the following table:Land Inflation Rates (%)LocationRural DairyRural HorticulturalRural PastoralUrban CommercialUrban IndustrialUrban ResidentialAucklandN/AN/AN/A2.502.502.50Nelson2.002.001.902.152.152.15Palmerston NorthN/AN/AN/A2.25N/A2.25RotoruaN/AN/AN/A2.15N/A2.15Taranaki2.252.002.00N/AN/A1.50Wellington2.00N/AN/A2.00N/A2.00West Coast (South Island)2.00N/A1.901.751.751.75Other2.00N/A1.751.501.501.50N/A means that there are no applicable leases of that land type in that location.
+(1) For the purposes of this schedule, the land inflation rate means the land inflation rate for each land type and location as set out in the following table:The following table is small in size and has seven columns. Column 1 is headed Location. Column 2 is headed Rural Dairy. Column 3 is headed Rural Horticultural. Column 4 is headed Rural Pastoral. Column 5 is headed Urban Commercial. Column 6 is headed Urban Industrial. Column 7 is headed Urban Residential.Land Inflation Rates (%)LocationRural DairyRural HorticulturalRural PastoralUrban CommercialUrban IndustrialUrban ResidentialAucklandN/AN/AN/A2.502.502.50Nelson2.002.001.902.152.152.15Palmerston NorthN/AN/AN/A2.25N/A2.25RotoruaN/AN/AN/A2.15N/A2.15Taranaki2.252.002.00N/AN/A1.50Wellington2.00N/AN/A2.00N/A2.00West Coast (South Island)2.00N/A1.901.751.751.75Other2.00N/A1.751.501.501.50N/A means that there are no applicable leases of that land type in that location.
 (2) The land inflation rates must be taken into account in determining the estimated unimproved value.
 
 ### 3
-(1) For the purposes of this schedule, the market rent rate means the market rent rate for each land type and location as set out in the following table:Market Rent Rates (%)LocationRural DairyRural HorticulturalRural PastoralUrban CommercialUrban IndustrialUrban ResidentialAucklandN/AN/AN/A5.755.755.50Nelson5.805.805.807.25N/A5.45Palmerston NorthN/AN/AN/A7.00N/A5.25RotoruaN/AN/AN/A7.25N/A5.25Taranaki4.755.004.505.00N/A5.00Wellington4.75N/AN/A7.00N/A6.00West Coast (South Island)4.75N/A4.506.756.755.00Other4.755.004.505.005.004.00N/A means that there are no applicable leases of that land type in that location.
+(1) For the purposes of this schedule, the market rent rate means the market rent rate for each land type and location as set out in the following table:The following table is small in size and has seven columns. Column 1 is headed Location. Column 2 is headed Rural Dairy. Column 3 is headed Rural Horticultural. Column 4 is headed Rural Pastoral. Column 5 is headed Urban Commercial. Column 6 is headed Urban Industrial. Column 7 is headed Urban Residential.Market Rent Rates (%)LocationRural DairyRural HorticulturalRural PastoralUrban CommercialUrban IndustrialUrban ResidentialAucklandN/AN/AN/A5.755.755.50Nelson5.805.805.807.25N/A5.45Palmerston NorthN/AN/AN/A7.00N/A5.25RotoruaN/AN/AN/A7.25N/A5.25Taranaki4.755.004.505.00N/A5.00Wellington4.75N/AN/A7.00N/A6.00West Coast (South Island)4.75N/A4.506.756.755.00Other4.755.004.505.005.004.00N/A means that there are no applicable leases of that land type in that location.
 (2) The market rent rates must be taken into account in determining the estimated market rent.
 
 ### 4
@@ -1125,102 +1125,102 @@ The compensation payable to the lessee is—
 | Rapana-Robin |  |  |  |  |  |  |
 | H877327 | Lots 1, 2, 6, & 7 Otorohanga Maori Township | 949/192, 949/193 | Otorohanga | 30/06/2009 | UCO | 1/07/2003 |
 | Maori Trust Office |  |  |  |  |  |  |
-| S.501917 | Lot 35 Block II DP 2893 Karewa Maori Township | 643/130 | Kawhia | 31/03/2012 | UR0 | 1/04/2003 |
-| S.527346 | Lot 43 DP 2893 Blk II Karewa Maori Township | 643/132 | Kawhia | 31/12/2011 | UR0 | 1/01/2003 |
-| H.024858 | Lot 10 Block XII DP 19460 Otorohanga Maori Township | 435/59 | Otorohanga | 30/06/2016 | UR0 | 01/07/2004 |
-| B.037978 | Lot 76 Block II DP 2893 Karewa Maori Township | 905/95 | Kawhia | 31/07/2010 | RPO | 1/08/2003 |
-| S.433510 | Lot 59 DP 2893 Blk I Karewa Maori Township | 927/73 | Kawhia | 30/09/2010 | UR0 | 1/10/2003 |
+| S﻿.﻿501917 | Lot 35 Block II DP 2893 Karewa Maori Township | 643/130 | Kawhia | 31/03/2012 | UR0 | 1/04/2003 |
+| S﻿.﻿527346 | Lot 43 DP 2893 Blk II Karewa Maori Township | 643/132 | Kawhia | 31/12/2011 | UR0 | 1/01/2003 |
+| H﻿.﻿024858 | Lot 10 Block XII DP 19460 Otorohanga Maori Township | 435/59 | Otorohanga | 30/06/2016 | UR0 | 01/07/2004 |
+| B﻿.﻿037978 | Lot 76 Block II DP 2893 Karewa Maori Township | 905/95 | Kawhia | 31/07/2010 | RPO | 1/08/2003 |
+| S﻿.﻿433510 | Lot 59 DP 2893 Blk I Karewa Maori Township | 927/73 | Kawhia | 30/09/2010 | UR0 | 1/10/2003 |
 | 760248 | Part Maori Reserve 806 Block VII Southbridge Survev District | 240/120 | Canterbury | 31/07/2010 | RPO | 1/08/2003 |
-| S.440929 | Lot 2 DP 5 12862 Part Allotments 41 and 42 Block I Karewa Maori Township | 643/122 | Kawhia | 30/06/2010 | UR0 | 1/07/2003 |
-| S.524644 | Lot 4 Block XVI DP 19460 Otorohanga Maori TownshIp | 435/100 | Otorohanga | 30/06/2012 | UR0 | 1/07/2003 |
-| H.999753 | Lot 1 DPS 12862 Blk IX Karewa Maori Township | 643/122 | Kawhia | 30/06/2010 | UR0 | 1/07/2003 |
-| H.011476 | Lot 62 & Pt 61 Blk I Kawera Maori Township Blk IV Kawhia Survey District | 11B/1236 | Kawhia | 31/12/2015 | UR0 | 1/01/2004 |
+| S﻿.﻿440929 | Lot 2 DP 5 12862 Part Allotments 41 and 42 Block I Karewa Maori Township | 643/122 | Kawhia | 30/06/2010 | UR0 | 1/07/2003 |
+| S﻿.﻿524644 | Lot 4 Block XVI DP 19460 Otorohanga Maori TownshIp | 435/100 | Otorohanga | 30/06/2012 | UR0 | 1/07/2003 |
+| H﻿.﻿999753 | Lot 1 DPS 12862 Blk IX Karewa Maori Township | 643/122 | Kawhia | 30/06/2010 | UR0 | 1/07/2003 |
+| H﻿.﻿011476 | Lot 62 & Pt 61 Blk I Kawera Maori Township Blk IV Kawhia Survey District | 11B/1236 | Kawhia | 31/12/2015 | UR0 | 1/01/2004 |
 | 90647 | Tuatini Sec 7, 10, 11 & 13 Blk V | 1D/1404, 1A/370 | Tokomaru Bay | 31/05/2010 | UC0 | 1/06/2003 |
 | 106034.1 | Lots 11, 12 & 13 Blk I Maori Reserve 95 Blk X Halswell Survey District | 199/76 | Canterbury | 28/02/2007 | RPO | 1/03/2002 |
-| B.011048.2 | Part Section 7 DP 2893 Lot 2 DP S 12401 Blk II Karewa Maori Township | 643/121 | Kawhia | 31/12/2009 | UR0 | 1/01/2003 |
-| S.406914 | Section 8 Block XX DP 19460 Otorohanga Maori Township | 435/142 | Otorohanga | 31/12/2009 | UR0 | 1/01/2003 |
-| S.406914 | Section 8 Block XX DP 19460 Otorohanga Maori Township | 435/142 | Otorohanga | 31/12/2009 | UR0 | 1/01/2003 |
+| B﻿.﻿011048.2 | Part Section 7 DP 2893 Lot 2 DP S 12401 Blk II Karewa Maori Township | 643/121 | Kawhia | 31/12/2009 | UR0 | 1/01/2003 |
+| S﻿.﻿406914 | Section 8 Block XX DP 19460 Otorohanga Maori Township | 435/142 | Otorohanga | 31/12/2009 | UR0 | 1/01/2003 |
+| S﻿.﻿406914 | Section 8 Block XX DP 19460 Otorohanga Maori Township | 435/142 | Otorohanga | 31/12/2009 | UR0 | 1/01/2003 |
 | 24359 | Section 5 Block IV Potaka Maori Township | 194/130 | Utiku | 31/12/2009 | UR0 | 1/01/2003 |
-| S.435839 | Lot 10 DP 20591 Blk III Taumarunui Maori Township | 1495/1 | Taumarunui | 31/12/2009 | UC0 | 1/01/2003 |
-| S.435525 | Part Lot 20 DP 19461 Blk XVII Otorohanga Maori Township | 435/126 | Otorohanga | 30/06/2010 | UR0 | 1/07/2003 |
-| H.040392.1 | Lot 2 DP S 16555 being part Block IX Otorohanga Maori Township | 16B/523 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
-| S.298940 | Lot 64 Block I DP 2893 Karewa Maori Township | 643/93 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿435839 | Lot 10 DP 20591 Blk III Taumarunui Maori Township | 1495/1 | Taumarunui | 31/12/2009 | UC0 | 1/01/2003 |
+| S﻿.﻿435525 | Part Lot 20 DP 19461 Blk XVII Otorohanga Maori Township | 435/126 | Otorohanga | 30/06/2010 | UR0 | 1/07/2003 |
+| H﻿.﻿040392.1 | Lot 2 DP S 16555 being part Block IX Otorohanga Maori Township | 16B/523 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
+| S﻿.﻿298940 | Lot 64 Block I DP 2893 Karewa Maori Township | 643/93 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 11.4.91 | Te Araroa Sec 78K1 Block IX East Cape Survey District | 1A/339 | Te Araroa | 31/05/2012 | UR0 | 1/06/2003 |
 | 438511 | Lot 2 DP 28187 Part Lot 1 Block VIII Taumarunui Maori Township | 9D/326 | Taumarunui | 31/12/2009 | UC0 | 1/01/2003 |
 | 102100 | Te Araroa Sec 53 Pt, Block IX East Cape Survey District | 1A/499 | Te Araroa | 30/06/2013 | UC0 | 1/07/2003 |
-| H.030152 | Lot 19 DP 19461 Block XVII Otorohanga Maori Township | 435/125 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
-| S.350650 | Lot 27 Block 1 DP 2893 Karewa Maori Township | 643/103 | Kawhia | 31/10/2007 | UR0 | 1/11/2002 |
-| S.270388 | Lot 5 DPS 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 435/25, 7A/838, | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
+| H﻿.﻿030152 | Lot 19 DP 19461 Block XVII Otorohanga Maori Township | 435/125 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
+| S﻿.﻿350650 | Lot 27 Block 1 DP 2893 Karewa Maori Township | 643/103 | Kawhia | 31/10/2007 | UR0 | 1/11/2002 |
+| S﻿.﻿270388 | Lot 5 DPS 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 435/25, 7A/838, | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
 | A041833 | Section 29 DP 896 Block VI Tokaanu Township | A1/87 | Tokaanu | 30/09//2015 | UR0 | 1/10/2004 |
-| H.053199 | Part Allotment 2 Block IX Otorohanga Maori Township | 16B/524 | Otorohanga | 30/06/2016 | URO | 1/07/2004 |
+| H﻿.﻿053199 | Part Allotment 2 Block IX Otorohanga Maori Township | 16B/524 | Otorohanga | 30/06/2016 | URO | 1/07/2004 |
 | A041839 | Section 19 DP 896 Vl Tokaanu Township | A1/87 | Tokaanu | 30/09/2015 | UR0 | 1/10/2004 |
-| H.040392.2 | Lot 1 DP S 16555 Otorohanga Maori Township | 16B/522 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
-| S.580713 | Section 11 Block II DP 2893 Karewa Maori Township | 643/142 | Kawhia | 31/12/2014 | UR0 | 1/01/2004 |
-| H.030151 | Lot 10 Block VII DP 19450 Otorohanga Maori Township | 435/19 | Otorohanga | 30/05/2016 | UR0 | 1/07/2004 |
+| H﻿.﻿040392.2 | Lot 1 DP S 16555 Otorohanga Maori Township | 16B/522 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
+| S﻿.﻿580713 | Section 11 Block II DP 2893 Karewa Maori Township | 643/142 | Kawhia | 31/12/2014 | UR0 | 1/01/2004 |
+| H﻿.﻿030151 | Lot 10 Block VII DP 19450 Otorohanga Maori Township | 435/19 | Otorohanga | 30/05/2016 | UR0 | 1/07/2004 |
 | 440871 | Section 412 Port Chalmers Town | 88/60 | Port Chalmers | 31/08/2015 | UI0 | 1/09/2004 |
 | 7.10.96 | Lot 1 DP S 73429 | 59A/490 | Te Kuiti | 30/06/2016 | UCO | 1/07/2004 |
-| H.039293 | Part Lot 5 Block IX DP 19460 Otorohanga Maori Township | 435/38 | Otorohanga | 30/06/2016 | UCO | 1/07/2004 |
-| S.21363 | Lot 18 Block XIII DP 19460 Otorohanga Maori Township | 435/95 | Otorohanga | 31/05/2011 | UR0 | 1/06/2003 |
-| H.049223 | Part Lot 13 Block XII DP 19460 Otorohanga Maori Township | 435/61 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
-| H.032955.3 | Lot 7 Block I DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| H﻿.﻿039293 | Part Lot 5 Block IX DP 19460 Otorohanga Maori Township | 435/38 | Otorohanga | 30/06/2016 | UCO | 1/07/2004 |
+| S﻿.﻿21363 | Lot 18 Block XIII DP 19460 Otorohanga Maori Township | 435/95 | Otorohanga | 31/05/2011 | UR0 | 1/06/2003 |
+| H﻿.﻿049223 | Part Lot 13 Block XII DP 19460 Otorohanga Maori Township | 435/61 | Otorohanga | 30/06/2016 | UR0 | 1/07/2004 |
+| H﻿.﻿032955.3 | Lot 7 Block I DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
 | 763896 | Lots 1 and 2 Block II DP 2415 Blk IV Potaka Maori Township Blk II Hautapu Survey District | 194/132 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
-| H.572216 | Lot 5 DP 20591 Block V Taumarunui Maori Township | 437/71 | Taumarunui | 30/04/2004 | UR0 | l/05/2002 |
-| S.302811 | Lot 11 Block I DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
-| S.302809 | Lot 5 DP 2893 Blk I Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| H﻿.﻿572216 | Lot 5 DP 20591 Block V Taumarunui Maori Township | 437/71 | Taumarunui | 30/04/2004 | UR0 | l/05/2002 |
+| S﻿.﻿302811 | Lot 11 Block I DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| S﻿.﻿302809 | Lot 5 DP 2893 Blk I Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
 | 758055.4 | Lot 2 DP 26849 Blk II Tokaanu Township Blk X Puketi Survey District | 25A/440 | Tokaanu | 30/06/2003 | UCO | 1/07/2002 |
-| H.482357.3 | Lot 10 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/10/2002 |
+| H﻿.﻿482357.3 | Lot 10 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/10/2002 |
 
 | Lease Number or Date of Lease | Description | Certificate of Title Number | Location | Expiry Date of lease | Land Type/ Location | First Rent Review Date |
 | --- | --- | --- | --- | --- | --- | --- |
-| H.539906.1 | Lot I DP S 33423 Otorohanga Maori Township | 30A/109 | Otorohanga | 30/09/2004 | URO | 1/10/2002 |
-| S.276943 | Lot 6 DP S 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 14A/880 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
-| H.032955.7 | Lot 21 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
-| H.482357.1 | Lot 9 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
-| H.032955.2 | Lot 6 DP 2893 Blk 1 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| H﻿.﻿539906.1 | Lot I DP S 33423 Otorohanga Maori Township | 30A/109 | Otorohanga | 30/09/2004 | URO | 1/10/2002 |
+| S﻿.﻿276943 | Lot 6 DP S 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 14A/880 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
+| H﻿.﻿032955.7 | Lot 21 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| H﻿.﻿482357.1 | Lot 9 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| H﻿.﻿032955.2 | Lot 6 DP 2893 Blk 1 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
 | A041848 | Sec 28 DP 896 Blk ll Tokaanu Township Blk X Puketi Survey District | 520/229 | Tokaanu | 30/06/2003 | UC0 | 1/07/2002 |
-| S.278186 | Lot 1 DP S 3232 Block VIII Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
-| S.265502 | Lot 23 DP 2893 Blk I Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
-| S.260628 | Lot 61 Block II 2893 Karewa Maori Township | 643/114 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.303940 | Lot 20 Block II DP 2893 Karewa Maori Township | 643/91 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.303938 | Lot 56 Block II DP 2893 Karewa Maori Township | 643/102 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| H.482357.2 | Lot 8 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
-| S.473274 | Part Lot 18 DP 20591 Blk VIII Taumarunui Township | 437/93 | Taumarunui | 31/12/2010 | UC0 | 1/01/2003 |
-| S.515510 | Lot 1 DP S 1982 being part Section 17 Block II Karewa Maori Township | 643/133 | Kawhia | 30/06/2012 | UR0 | 1/07/2003 |
-| S.514613 | Lot 38 Block II DP 2893 Karewa Maori Township | 643/128 | Kawhia | 31/12/2011 | UR0 | 1/01/2003 |
-| S.477195 | Lot 42 Block II DP 2893 Karewa Maori Township | 643/129 | Kawhia | 31/12/2011 | UR0 | 1/01/2003 |
+| S﻿.﻿278186 | Lot 1 DP S 3232 Block VIII Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
+| S﻿.﻿265502 | Lot 23 DP 2893 Blk I Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| S﻿.﻿260628 | Lot 61 Block II 2893 Karewa Maori Township | 643/114 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿303940 | Lot 20 Block II DP 2893 Karewa Maori Township | 643/91 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿303938 | Lot 56 Block II DP 2893 Karewa Maori Township | 643/102 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| H﻿.﻿482357.2 | Lot 8 DP 2893 Karewa Maori Township | 643/173 | Kawhia | 31/12/2003 | UR0 | 1/01/2002 |
+| S﻿.﻿473274 | Part Lot 18 DP 20591 Blk VIII Taumarunui Township | 437/93 | Taumarunui | 31/12/2010 | UC0 | 1/01/2003 |
+| S﻿.﻿515510 | Lot 1 DP S 1982 being part Section 17 Block II Karewa Maori Township | 643/133 | Kawhia | 30/06/2012 | UR0 | 1/07/2003 |
+| S﻿.﻿514613 | Lot 38 Block II DP 2893 Karewa Maori Township | 643/128 | Kawhia | 31/12/2011 | UR0 | 1/01/2003 |
+| S﻿.﻿477195 | Lot 42 Block II DP 2893 Karewa Maori Township | 643/129 | Kawhia | 31/12/2011 | UR0 | 1/01/2003 |
 | 96384 | Tuatini Sec 9 DP 1163 Blk V | 1A/370 | Tokomaru Bay | 31/12/2011 | UR0 | 1/01/2003 |
 | 104972 | TuaTni Sec 8 DP 1163 Blk V | 1A/370 | Tokomaru Bay | 30/06/2014 | UR0 | 1/07/2004 |
 | 253047 | Section 13 Block I Waimumu Hundred and Part Section 225 Block LXIV of the Hokonui District | 148/117 | Southland | 31/12/2012 | RPO | 1/01/2003 |
-| S.476924 | Lot 1 DP S 14585 Karewa Maori Township | 11B/1236 | Kawhia | 31/10/2011 | UR0 | 1/11/2003 |
-| S.266053 | Lot 3 DP S 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
-| S.493054 | Lot 3 Block XVI DP 19460 Otorohanga Maori Township | 435/99 | Otorohanga | 30/06/2011 | UC0 | 1/07/2003 |
-| S.412124 | Lot 15 DP 19460 Blk XI Otorohanga Maori Township | 435/45 | Otorohanga | 30/06/2010 | UC0 | 1/07/2003 |
-| S.513707 | Lot 1 DP 14868 Karewa Maori Township | 643/123 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
-| S.476033 | Lot 15 Block II DP 2893 Karewa Maori Township | 643/124 | Kawhia | 31/12/2010 | URO | 1/01/2003 |
-| S.452603 | Lot 52 Block I DP 2893 Karewa Maori Township | 643/110 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
+| S﻿.﻿476924 | Lot 1 DP S 14585 Karewa Maori Township | 11B/1236 | Kawhia | 31/10/2011 | UR0 | 1/11/2003 |
+| S﻿.﻿266053 | Lot 3 DP S 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
+| S﻿.﻿493054 | Lot 3 Block XVI DP 19460 Otorohanga Maori Township | 435/99 | Otorohanga | 30/06/2011 | UC0 | 1/07/2003 |
+| S﻿.﻿412124 | Lot 15 DP 19460 Blk XI Otorohanga Maori Township | 435/45 | Otorohanga | 30/06/2010 | UC0 | 1/07/2003 |
+| S﻿.﻿513707 | Lot 1 DP 14868 Karewa Maori Township | 643/123 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
+| S﻿.﻿476033 | Lot 15 Block II DP 2893 Karewa Maori Township | 643/124 | Kawhia | 31/12/2010 | URO | 1/01/2003 |
+| S﻿.﻿452603 | Lot 52 Block I DP 2893 Karewa Maori Township | 643/110 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
 | 30/10/95 | Section 7 DP 1882 Block V Turungarere Township | 157/217 | Horowhenua | 30/09/2002 | UR0 | 1/10/2001 |
-| H.303544.3 | Lot 14 Block II DP 2893 Karewa Maori Township | 643/124 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
+| H﻿.﻿303544.3 | Lot 14 Block II DP 2893 Karewa Maori Township | 643/124 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
 | 751983 | Section 16 Blk IV Potaka Maori Township Block II Hautapu Survey District | 194/130 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
-| S.493054 | Lot 3 Block XVI DP 19460 Otorohanga Maori Township | 435/99 | Otorohanga | 30/06/2011 | UC0 | 1/07/2003 |
+| S﻿.﻿493054 | Lot 3 Block XVI DP 19460 Otorohanga Maori Township | 435/99 | Otorohanga | 30/06/2011 | UC0 | 1/07/2003 |
 | 429/197 | Orimakatea Grant 6820 Sec 145 Blk VI Wairoa Survey | 429/197 | Waverley | 31/12/2010 | RPO | 1/01/2003 |
-| S.403116 | Part Lot 2 Block XIII being Lot 2 DP S 11592 Otorohanga Maori Township | 8C/1082 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
+| S﻿.﻿403116 | Part Lot 2 Block XIII being Lot 2 DP S 11592 Otorohanga Maori Township | 8C/1082 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
 | 751954 | Sec 5 Blk IV Potaka Maori Township Blk II Hautapu Survey District | 194/130 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
 | 739229 | Section 17 Blk IV Potaka Maori Township Blk II Hautapu Survey District | 194/130 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
 | 89137 | Waipiro Sec 3 Block III Waipiro Maori Township | 96/50 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 735602 | Lot 9 Block IV Potaka Maori Township Blk II Hautapu Survey District | 194/130 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
 | 89137 | Waipiro Sec 4 & 5 Block III Waipiro Maori Township | 96/50 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 94025 | Waipiro Secs 3, 4 and 5 Block I | 96/120 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
-| S.524644 | Lot 4 Block XVI DP 19460 Otorohanga Maori Township | 435/100 | Otorohanga | 30/06/2012 | UR0 | 1/07/2003 |
+| S﻿.﻿524644 | Lot 4 Block XVI DP 19460 Otorohanga Maori Township | 435/100 | Otorohanga | 30/06/2012 | UR0 | 1/07/2003 |
 | 89138 | Waipiro Pt Sec 1 Block III | 96/53 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 753366 | Lot 9 DP 2415 Blk IV Potaka Maori Township Block II Hautapu Survey District | 194/130 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
 | 735603 | Lot 8 DP 2415 Blk IV Potaka Maori Township Blk II Hautapu Survey District | 194/130 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
-| S.373457 | Lot 29 Block I DP 2893 Karewa Maori Township | 10A/816 | Kawhia | 31/05/2008 | UR0 | 1/06/2003 |
-| S.403116 | Part Lot 2 Block XIII being Lot 2 DP S 11592 Otorohanga Maori Township | 8C/1082 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
-| S.379122 | Lot 7 Block XVI DP 2893 Otorohanga Maori Township | 435/103 | Otorohanga | 31/08/2008 | UC0 | 1/09/2003 |
-| S.379122 | Lot 1 Block XVI DP 19460 Otorohanga Maori Township | 435/103 | Otorohanga | 31/08/2008 | UC0 | 1/09/2003 |
+| S﻿.﻿373457 | Lot 29 Block I DP 2893 Karewa Maori Township | 10A/816 | Kawhia | 31/05/2008 | UR0 | 1/06/2003 |
+| S﻿.﻿403116 | Part Lot 2 Block XIII being Lot 2 DP S 11592 Otorohanga Maori Township | 8C/1082 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
+| S﻿.﻿379122 | Lot 7 Block XVI DP 2893 Otorohanga Maori Township | 435/103 | Otorohanga | 31/08/2008 | UC0 | 1/09/2003 |
+| S﻿.﻿379122 | Lot 1 Block XVI DP 19460 Otorohanga Maori Township | 435/103 | Otorohanga | 31/08/2008 | UC0 | 1/09/2003 |
 | 718477 | Lots 2 and 3 DP 14196 Part Maori Reserve 806 Block VII Southbridge Survey District | 240/120 | Canterbury | 31/07/2008 | RPO | 1/08/2003 |
 | 83798 | Tuatini Sec 8 Block IX Tokomaru Bay Survey District | 11/63, 1A/534 | Tokomaru Bay | 30/06/2008 | UR0 | 1/07/2003 |
-| S.382233 | Part Lot 2 Block XIII being Lot 1 DP S 1 1592 Otorohanga Maori Township | 7C/59 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
+| S﻿.﻿382233 | Part Lot 2 Block XIII being Lot 1 DP S 1 1592 Otorohanga Maori Township | 7C/59 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
 | 60898 | Waipiro Pt Lot 3 Block IV Mata Survey District | 96/120 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 85852 | Waipiro Lot 7 Block IV | 1D/918 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 86858 | Waipiro Lot 5 Block IV | 96/122 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
@@ -1233,69 +1233,69 @@ The compensation payable to the lessee is—
 | 87692 | Waipiro Lot 2 Block II | 1D/1241, 1A/1241 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 753364 | Section 12 DP 2415 Block IV Potaka Maori Township | 194/130 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
 | 94026 | Waipiro Sec 2 Block IV | 96/120 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
-| S.391304 | Lot 1 DP 4873 being part Lot 2 Block XVI Otorohanga Maori Township | 435/98 | Otorohanga | 30/06/2009 | UC0 | 1/07/2003 |
+| S﻿.﻿391304 | Lot 1 DP 4873 being part Lot 2 Block XVI Otorohanga Maori Township | 435/98 | Otorohanga | 30/06/2009 | UC0 | 1/07/2003 |
 | 6461 | Lot 3 Waipiro Sec 1 Block III | 96/53 | Waipiro Bay | 30/06/2009 | RPO | 1/07/2003 |
 | 6458 | Waipiro Lot 3 Block II | 96/121 | Waipiro Bay | 30/06/2009 | RPO | 1/07/2003 |
 | 88133 | Waipiro Pt Sec 3 Block IV Mata Survey District | 96/120 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 24350 | Lots 6, 7, 8 Block VI Potaka Maori Township | 194/132, 525/47 | Utiku | 31/12/2009 | RPO | 1/01/2003 |
 | 706213 | Sec 18-21 Block IV Potaka Maori Township | 190/134 | Utiku | 30/06/2008 | RPO | 1/07/2003 |
 | 6450 | Waipiro Secs 1 and 2 Block III | 96/53 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
-| S.540072 | Lot 91 Block II DP 2893 Karewa Maori Township | 643/175 | Kawhia | 31/01/2013 | UR0 | 1/02/2003 |
+| S﻿.﻿540072 | Lot 91 Block II DP 2893 Karewa Maori Township | 643/175 | Kawhia | 31/01/2013 | UR0 | 1/02/2003 |
 | 85271 | Lot 2 DP 4030 Tuatini Sec 22 Block IV Tuatini Maori Township | 1C/389, 1A/370 | Tokomaru Bay | 30/06/2008 | UC0 | 1/07/2003 |
 | 752630 | Section 1 Block II Potaka Maori Township | 194/130 | Utiku | 31/12/2008 | RP0 | 1/01/2003 |
 | 705668 | Lot 13 DP 2415 Block IV Potaka Maori Township | 194/130 | Utiku | 31/12/2008 | RP0 | 1/01/2003 |
 | 757582 | Sec 28 DP 2415 Blk III Potaka Maori Township Blk II Hautapu Survey District | 499/180 | Utiku | 31/12/2008 | RP0 | 1/01/2003 |
-| S.386139 | Lot 13 Block X DP 19501 Te Kuiti Maori Township | 435/223 | Te Kuiti | 30/11/2008 | UC0 | 1/12/2003 |
+| S﻿.﻿386139 | Lot 13 Block X DP 19501 Te Kuiti Maori Township | 435/223 | Te Kuiti | 30/11/2008 | UC0 | 1/12/2003 |
 | 364871 | Section 17 Block XI being Lots 1 and 2 DPS 2541 Otorohanga Maori Township | 435/47 | Otorohanga | 31/10/2008 | UI0 | 1/11/2003 |
 
 | Lease Number or Date of Lease | Description | Certificate of Title Number | Location | Expiry Date of lease | Land Type/ Location | First Rent Review Date |
 | --- | --- | --- | --- | --- | --- | --- |
 | 88091 | Tuatini Sec 15 Block IV | 1A/371 | Tokomaru Bay | 31/12/2008 | UR0 | 1/01/2003 |
 | 753365 | Lot 2 DP 2415 Blk IV Potaka Maori Township Block II Hautapu Survey District | 194/130 | Utiku | 31/12/2009 | RP0 | 1/01/2003 |
-| S.550982 | Lot 81 Block 11 DP2893 Karewa Maori Township | 643/117 | Kawhia | 31/12/2013 | UR0 | 1/01/2003 |
+| S﻿.﻿550982 | Lot 81 Block 11 DP2893 Karewa Maori Township | 643/117 | Kawhia | 31/12/2013 | UR0 | 1/01/2003 |
 | 62871 | Te Araroa Sec 58 DP 1162 Block IX East Cape Survey District | 51/268, 1A/500 | Te Araroa | 31/12/2008 | UR0 | 1/01/2003 |
 | 103203 | Tuatini Lot 1 DP 4030 Block IV | 1A/370 | Tokomaru Bay | 30/09/2013 | UC0 | 1/10/2003 |
-| B.211645 | Lot 3 Block 1 DP 2893 Karewa Maori Township | 643/136 | Kawhia | 30/06/2013 | UR0 | 1/07/2003 |
+| B﻿.﻿211645 | Lot 3 Block 1 DP 2893 Karewa Maori Township | 643/136 | Kawhia | 30/06/2013 | UR0 | 1/07/2003 |
 | 101773 | Pt Sec 53 DP 1162 Blk IX East Cape Survey District | 4A/1373, 1A/499 | Te Araroa | 30/06/2013 | UR0 | 1/07/2003 |
-| S.500417 | Lot 36 Block II DP2893 Karewa Maori Township | 643/131 | Kawhia | 31/03/2012 | UR0 | 1/04/2003 |
+| S﻿.﻿500417 | Lot 36 Block II DP2893 Karewa Maori Township | 643/131 | Kawhia | 31/03/2012 | UR0 | 1/04/2003 |
 | 913894 | Sections 30 and 31 DP 896 Block VI | A1/87 | Tokaanu | 30/04/2013 | UC0 | 1/05/2003 |
 | 058247.1 | Section 25 DP 896 Block VI Tokaanu Township | A1/87 | Tokaanu | 30/09/2015 | UC0 | 1/10/2004 |
-| S.527913 | Lot 12 Block II DP 2893 Karewa Maori Township | 643/140 | Kawhia | 31/12/2012 | UR0 | 1/01/2003 |
-| S.557445 | Lot 90 Block II DP 2893 Karewa Maori Township | 643/175 | Kawhia | 31/01/2013 | UR0 | 1/02/2003 |
+| S﻿.﻿527913 | Lot 12 Block II DP 2893 Karewa Maori Township | 643/140 | Kawhia | 31/12/2012 | UR0 | 1/01/2003 |
+| S﻿.﻿557445 | Lot 90 Block II DP 2893 Karewa Maori Township | 643/175 | Kawhia | 31/01/2013 | UR0 | 1/02/2003 |
 | 92038 | Te Araroa Lot 3 DP 5363 Sec 51 | 48/1373, 1A/499 | Te Araroa | 31/12/2008 | UC0 | 1/01/2003 |
 | 94026 | Waipiro Sec 1 Block 1V | 96/120 | Waipiro Bay | 30/06/2009 | UR0 | 1/07/2003 |
 | 868687 | Lot 4 DP 14196 Pt Maori Res 3667 & Pt Maori Res 806 & Rural Sec37181 Blk VII Southbridge Survey District | 430/146, 9B/496 | Canterbury | 3/10/2008 | RP0 | 4/10/2003 |
 | 81822 | Te Araroa Sec 21 Block IX | 1A/1453 | Te Ararora | 31/03/2008 | UR0 | 1/04/2003 |
-| H.712303.4 | Lot 3 DP S 40761 Part Otorohanga Maori Township | 37A/412 | Otorohanga | 31/03/2008 | UI0 | 1/04/2003 |
-| H.712303.3 | Lot 2 DP S 40767 Otororanga Maori Township | 37A/411 | Otorohanga | 31/03/2008 | UI0 | 1/04/2003 |
+| H﻿.﻿712303.4 | Lot 3 DP S 40761 Part Otorohanga Maori Township | 37A/412 | Otorohanga | 31/03/2008 | UI0 | 1/04/2003 |
+| H﻿.﻿712303.3 | Lot 2 DP S 40767 Otororanga Maori Township | 37A/411 | Otorohanga | 31/03/2008 | UI0 | 1/04/2003 |
 | 705669 | Lot 2 DP 2415 Block II Potaka Maori Township | 194/130 | Utiku | 31/12/2007 | UR0 | 1/01/2002 |
 | 706214 | Lot 1 DP 2415 Block VI Potaka Maori Township | 194/132 | Utiku | 31/12/2007 | RP0 | 1/01/2002 |
 | 92035 | Te Araroa Pt Sec 50 Lot 2 DP 5363 | 4A/1373, 1A/499 | Te Araroa | 31/12/2008 | UC0 | 1/01/2003 |
 | 706213 | Sections 14, 15 Block IV Potaka Maori Township | 190/134 | Utiku | 30/06/2008 | RP0 | 1/07/2003 |
-| S.388803 | Lot 1 DP2893 Block I Karewa Maori Township | 643/173 | Kawhia | 30/09/2008 | UR0 | 1/10/2003 |
-| S.382233 | Part Lot 2 Block XIII being Lot 1 DP S 11592 Otorohanga Maori | 7C/59 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
-| B.088269.1 | Secs 6 & 7 DP 2415 Blk IV Potaka Maori Township Blk II Hautapu Survey District | 194/132 | Taihape | 31/12/2009 | UR0 | 1/01/2003 |
-| S.402302 | Lot 85 Block II DP 2893 Karewa Maori Township | 643/116 | Kawhia | 31/12/2008 | UR0 | 1/01/2003 |
-| S.373867 | Lot 62 Block II DP 2893 Karewa Maori Township | 643/119 | Kawhia | 31/12/2008 | UR0 | 1/01/2003 |
+| S﻿.﻿388803 | Lot 1 DP2893 Block I Karewa Maori Township | 643/173 | Kawhia | 30/09/2008 | UR0 | 1/10/2003 |
+| S﻿.﻿382233 | Part Lot 2 Block XIII being Lot 1 DP S 11592 Otorohanga Maori | 7C/59 | Otorohanga | 31/03/2009 | UR0 | 1/04/2003 |
+| B﻿.﻿088269.1 | Secs 6 & 7 DP 2415 Blk IV Potaka Maori Township Blk II Hautapu Survey District | 194/132 | Taihape | 31/12/2009 | UR0 | 1/01/2003 |
+| S﻿.﻿402302 | Lot 85 Block II DP 2893 Karewa Maori Township | 643/116 | Kawhia | 31/12/2008 | UR0 | 1/01/2003 |
+| S﻿.﻿373867 | Lot 62 Block II DP 2893 Karewa Maori Township | 643/119 | Kawhia | 31/12/2008 | UR0 | 1/01/2003 |
 | 92039 | Te Araroa Pt Sec 56 Pt Lot 5 DP 5363 Block IX East Cape Survey District | 1A/500 | Te Araroa | 31/12/2008 | UR0 | 1/01/2003 |
 | 92037 | Te Araroa Secs 50 & 51 Pts, Lot 1 Block IX East Cape Survey District | 4A/1373, 1A/499 | Te Araroa | 31/12/2008 | UR0 | 1/01/2003 |
-| S.373868 | Lot 24 Block I DP 2893 Karewa Maori Township CT 643/103 (Part) | 896/270 | Kawhia | 31/08/2008 | UR0 | 1/09/2003 |
+| S﻿.﻿373868 | Lot 24 Block I DP 2893 Karewa Maori Township CT 643/103 (Part) | 896/270 | Kawhia | 31/08/2008 | UR0 | 1/09/2003 |
 | 703520 | Lot 8 DP 2415 Block IV Potaka Maori Township | 194/130 | Utiku | 31/12/2007 | RP0 | 1/01/2002 |
-| S.309958 | Lot 63 Block II DP 2893 Karewa Township | 643/115 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿309958 | Lot 63 Block II DP 2893 Karewa Township | 643/115 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 588248 | Lot 2, 3, 4 DP 2415 Block III Potaka Maori Township | 499/178 | Utiku | 30/06/2005 | RP0 | 1/07/2002 |
 | 582635 | Section 14 & 15 Block V Potaka Maori Township | 194/132 | Utiku | 30/06/2005 | RP0 | 1/07/2002 |
 | 233844 | Sections 13, 14, 15 & 16 Block VI Potaka Maori Township | 194/132 | Utiku | 30/06/2005 | RP0 | 01/07/2002 |
 | 23443 | Section 8, Block V Potaka Maori Township | 194/132 | Utiku | 30/06/2005 | RP0 | 1/07/2002 |
-| S.304224 | Lot 44 Block II DP 2893 Karewa Maori Township | 643/89 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.334373 | Lot 26 Block 1 DP 2893 Karewa Maori Township | 643/103 | Kawhia | 31/10/2007 | UR0 | 1/11/2002 |
+| S﻿.﻿304224 | Lot 44 Block II DP 2893 Karewa Maori Township | 643/89 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿334373 | Lot 26 Block 1 DP 2893 Karewa Maori Township | 643/103 | Kawhia | 31/10/2007 | UR0 | 1/11/2002 |
 | 76847 | Te Araroa Sec 62 Block IX East Cape Survey District | 1A/501 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
 | 74930 | Te Araroa Sec 80 DP 1162 Blk IX East Cape Survey District | 1A/341, 4A/935 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
 | 6328 | Te Araroa Sec 83 DP 1162 Block IX East Cape Survey District | 1A/341 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
 | 621156 | Lot 10 Block II Potaka Maori Township | 194/130 | Utiku | 30/06/2006 | RP0 | 1/07/2002 |
 | 23384 | Section 12 Block V Potaka Maori Township | 194/132 | Utiku | 30/06/2005 | RP0 | 1/07/2002 |
-| S.313861 | Lot 89 Block II DP 2893 Karewa Maori Township | 643/74 | Kawhia | 31/03/2006 | UR0 | 1/04/2002 |
-| S.304046 | Lot 64 Block II Karewa Maori Township | 643/97 | Kawhia | 31/03/2006 | UR0 | 1/04/2002 |
-| S.343496 | Lot 65 Block I DP 2893 Karewa Maori Township | 643/93 | Kawhia | 31/12/2005 | UR0 | 1/01/2002 |
+| S﻿.﻿313861 | Lot 89 Block II DP 2893 Karewa Maori Township | 643/74 | Kawhia | 31/03/2006 | UR0 | 1/04/2002 |
+| S﻿.﻿304046 | Lot 64 Block II Karewa Maori Township | 643/97 | Kawhia | 31/03/2006 | UR0 | 1/04/2002 |
+| S﻿.﻿343496 | Lot 65 Block I DP 2893 Karewa Maori Township | 643/93 | Kawhia | 31/12/2005 | UR0 | 1/01/2002 |
 | 80723 | Tuatini Lot 2 DP 4133 | 83/142, 1A/536 | Tokomaru Bay | 31/12/2006 | UR0 | 1/01/2002 |
 | 6325 | Te Araroa Pt 43 & 44 Pts Block IX East Cape Survey District | 1A/498 | Te Araroa | 31/12/2005 | UC0 | 1/01/2002 |
 | 6651 | Te Araroa Sec 87 Block IX East Cape Survey District | 1A/342 | Te Araroa | 30/06/2005 | UR0 | 1/07/2002 |
@@ -1310,7 +1310,7 @@ The compensation payable to the lessee is—
 | 6321 | Te Araroa Sec 47 DP 1162 Blk IX East Cape Survey District | 4A/1373, 1A/498 | Te Araroa | 31/12/2005 | UI0 | 1/01/2002 |
 | B103410.4 | Lot 1 DP S 35716 and Lot 3 DP S 33384 Part Lots 1 and 24 Block VIII Taumarunui Maori Township | 40A/273 | Taumarunui | 30/06/2006 | UC0 | 1/07/2002 |
 | 10.2.83 | Te Araroa Sec 67 DP 1162 Tapuaeoteao F Blk IX East Cape Survey District | 1A/502 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
-| G.184214.1 | Te Araroa Sec 26 Block IX East Cape Survey District | 1A/362 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
+| G﻿.﻿184214.1 | Te Araroa Sec 26 Block IX East Cape Survey District | 1A/362 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
 | 6428 | Te Araroa Sec 81 DP 1162 Blk IX East Cape Survey District | 1A/1009 | Te Araroa | 31/12/2005 | UC0 | 1/01/2002 |
 | 76911 | Te Araroa Secs 43 & 44 & Pt 45 Blk IX East Cape Survey District | 2D/167, 1A/488 | Te Araroa | 31/12/2005 | UC0 | 1/01/2002 |
 | 76846 | Te Araroa Sec 46 Blk IX East Cape Survey District | 5C/1445 2D/167 | Te Araroa | 31/12/2005 | UC0 | 1/01/2002 |
@@ -1333,10 +1333,10 @@ The compensation payable to the lessee is—
 | 77784 | Te Araroa Sec 84 DP 1162 Block IX East Cape Survey District | 1A/341 | Te Araroa | 30/06/2006 | UR0 | 1/07/2002 |
 | 23.9.86 | Te Araroa Sec 78 Lot 2 Block IX East Cape Survey District | 1A/339 | Te Araroa | 31/08/2007 | UR0 | 1/09/2002 |
 | 9181524.1 | Tuatini Secs 14, 16, 17 Block IV | 1A/371 | Tokomaru Bay | 30/03/2003 | UR0 | 31/03/2002 |
-| S.296490 | Lot 60 Block II DP 2893 Karewa Maori Township | 643/113 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿296490 | Lot 60 Block II DP 2893 Karewa Maori Township | 643/113 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 772258 | Sections 29, 30, 31 DP 2415 Blk III Potaka Maori Township | 972/84, 499/180 | Utiku | 31/12/2009 | RP0 | 1/01/2003 |
 | 28.7.95 | Sec 78D Parikitua B Te Araroa Maori Township | 65/143 | Te Araroa | 31/12/2004 | UR0 | 1/01/2002 |
-| S.455292 | Lot 16 Block II DP 2893 Karewa Maori Township | 643/124 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
+| S﻿.﻿455292 | Lot 16 Block II DP 2893 Karewa Maori Township | 643/124 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
 | 6839 | Te Araroa 27 | 1A/362 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
 | 6714 | Te Araroa Sec 12 Block IX East Cape Survey District | 51/267, 1A/360 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
 | 6582 | Te Araroa Sec 30A Block IX East Cape Survey District | 51/267 | Te Araroa | 31/12/2005 | UR0 | 1/01/2002 |
@@ -1359,63 +1359,63 @@ The compensation payable to the lessee is—
 | 444268 | Part Section 39 Block I Takaanu Towhship Blks VI & X Puketi Survey District | 520/229 | Tokaanu | 31/12/2000 | UR0 | 1/01/2001 |
 | A041847 | Sec 26 DP 896 Blk X Puketi Survey District | 520/229 | Tokaanu | 30/06/2003 | UC0 | 1/07/2002 |
 | 722336.1 | Section 1 and 2 Block VIII Tokaanu Township DP 896 Blk X Puketi Survey District | A2/92 | Tokaanu | 31/12/2000 | UC0 | 1/01/2001 |
-| S.260315 | Lot 1 DP S 7370 being Part Lot 67 and 66 DP 2893 Block I Karewa Maori Township | 643/75 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
+| S﻿.﻿260315 | Lot 1 DP S 7370 being Part Lot 67 and 66 DP 2893 Block I Karewa Maori Township | 643/75 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
 | 65274 | Sec 197 Blk I Tokaanu Township & Lot 2 DP 28577 Blk X Puketi Survey District | 5C/597 | Tokaanu | 31/12/2000 | RP0 | 1/01/2001 |
 | 514829 | Lot 56 Block VI Tokaanu Township Blk X Puketi Survey District | Al/91 | Tokaanu | 31/12/2002 | UR0 | 1/01/2001 |
-| S.161894 | Lot 10 Block XVII DP 19461 Otorohanga Maori Township | 435/117 | Otorohanga | 31/12/99 | UR0 | 1/01/2001 |
+| S﻿.﻿161894 | Lot 10 Block XVII DP 19461 Otorohanga Maori Township | 435/117 | Otorohanga | 31/12/99 | UR0 | 1/01/2001 |
 | 444269 | Section 1D Part VII Tokaanu Township | 864/23 | Tokaanu | 31/12/2000 | UC0 | 1/01/2001 |
-| S.495225 | Lot 2 DP S 14868 Karewa Maori Township | 643/123 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
+| S﻿.﻿495225 | Lot 2 DP S 14868 Karewa Maori Township | 643/123 | Kawhia | 31/12/2010 | UR0 | 1/01/2003 |
 | Unregistered | Ohura South F2C Blk III Piopiotea Survey District | 78/300 | Tokomaru Bay | 30/06/2000 | RP0 | 1/07/2001 |
 | 652791.2 | Pt Sec 19 Blk 1 Tokaanu Township DP 2877 Blk X Puketi Survey District | 5C/596 | Tokaanu | 31/12/2000 | UR0 | 1/01/2001 |
 | 722336.2 | Sec 4 DP 896 Blk VII Tokaanu Township Blk X Puketi Survey District | A1/92 | Tokaanu | 30/06/2003 | UC0 | 1/07/2002 |
 | 26204 | PT Sec 1 DP 896 Block II Tokaanu Township Blk X Puketi Survey District | 52D/229, 28C/137 | Tokaanu | 30/06/2003 | UC0 | 1/07/2002 |
-| S.233391 | Lots 32 and 34 Blk II DP 2893 Karewa Maori Township | 643/138, 643/139 | Kawhia | 31/03/2003 | UR0 | 1/04/2002 |
-| S.145527 | Lot 22 Block I DP 2893 Karewa Maori Township | 643/95, 13A/960 | Kawhia | 31/12/99 | UR0 | 1/01/2001 |
-| H.607299 | Lot 2 DP S 4537 being part Lot 19 Block II Karewa Maori Township | 643/91 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿233391 | Lots 32 and 34 Blk II DP 2893 Karewa Maori Township | 643/138, 643/139 | Kawhia | 31/03/2003 | UR0 | 1/04/2002 |
+| S﻿.﻿145527 | Lot 22 Block I DP 2893 Karewa Maori Township | 643/95, 13A/960 | Kawhia | 31/12/99 | UR0 | 1/01/2001 |
+| H﻿.﻿607299 | Lot 2 DP S 4537 being part Lot 19 Block II Karewa Maori Township | 643/91 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 77348 | Pt Sec 4A1, 4A2, 4B Blk II Tuatini Maori Township Blk VIII Tokomaru Bay Survey District | 1A/542 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
-| S.282343 | Part Allot 1 Block VII being Lot 2 DP S 3232 Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
+| S﻿.﻿282343 | Part Allot 1 Block VII being Lot 2 DP S 3232 Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
 | 4.9.87 | Sec 77 Te Araroa Maori Township Blk IX East Cape Survey District | 5A/774 | Te Araroa | 31/08/2007 | UR0 | 1/09/2002 |
-| S.268926 | Lot 46 Block II DP 2893 Karewa Maori Township | 643/89 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.275881 | Lot 40 Block II DP 2893 Karewa Maori Township | 643/105 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.308621 | Lot 4 DP S 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
-| S.172746 | Lot 11 Block XX DP 19460 Otorohanga Maori Township | 435/144 | Otorohanga | 30/06/2001 | UR0 | 1/07/2001 |
-| H.628243.2 | Lots 67, 68 and 69 Block II DP 2893 Karewa Maori Township | 643/78 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.173839 | Lot 32 Block I DP 2893 Karewa Maori Township | 643/108 | Kawhia | 30/06/2001 | UR0 | 1/07/2001 |
-| H.539906.3 | Lot 3 DP S 33423 Otorohanga Maori Township | 30A/111 | Otorohanga | 30/09/2004 | UR0 | 1/10/2002 |
-| H.539906.2 | Lot 2 DP S 33423 Otorohanga Maori Township | 30A/110 | Otorohanga | 30/09/2004 | UR0 | 1/10/2002 |
+| S﻿.﻿268926 | Lot 46 Block II DP 2893 Karewa Maori Township | 643/89 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿275881 | Lot 40 Block II DP 2893 Karewa Maori Township | 643/105 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿308621 | Lot 4 DP S 3232 being part Allotment 1 Block VIII Otorohanga Maori Township | 435/25 | Otorohanga | 31/08/2004 | UR0 | 1/09/2002 |
+| S﻿.﻿172746 | Lot 11 Block XX DP 19460 Otorohanga Maori Township | 435/144 | Otorohanga | 30/06/2001 | UR0 | 1/07/2001 |
+| H﻿.﻿628243.2 | Lots 67, 68 and 69 Block II DP 2893 Karewa Maori Township | 643/78 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿173839 | Lot 32 Block I DP 2893 Karewa Maori Township | 643/108 | Kawhia | 30/06/2001 | UR0 | 1/07/2001 |
+| H﻿.﻿539906.3 | Lot 3 DP S 33423 Otorohanga Maori Township | 30A/111 | Otorohanga | 30/09/2004 | UR0 | 1/10/2002 |
+| H﻿.﻿539906.2 | Lot 2 DP S 33423 Otorohanga Maori Township | 30A/110 | Otorohanga | 30/09/2004 | UR0 | 1/10/2002 |
 | 514706 | Sec 29 DP 896 Blk VIII Tokaanu Township Blk X Puketi Survey District | 520/229 | Tokaanu | 30/06/2003 | UC0 | 1/07/2002 |
-| S.274233 | Lot 86 Block II DP 2893 Karewa Maori Township | 643/77 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿274233 | Lot 86 Block II DP 2893 Karewa Maori Township | 643/77 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 21596 | Section 1D Block VII Tokaanu Township DP 896 Blk X Puketi Survey District | 520/229 | Tokaanu | 31/12/2000 | UC0 | 1/01/2001 |
-| S.276023 | Section 41 Block II DP 2893 Karewa Maori Township | 643/104 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿276023 | Section 41 Block II DP 2893 Karewa Maori Township | 643/104 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 582636 | Pt Lot 1 DP 896 Blk II Tokaanu Township Blk X Pukeri Survey District | 520/229 | Tokaanu | 30/06/2003 | UC0 | 1/07/2002 |
-| S.258212 | Lot 79 Block II DP 2893 Karewa Maori Township | 643/107 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿258212 | Lot 79 Block II DP 2893 Karewa Maori Township | 643/107 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 76394 | Tuatini Sec 3 Block II | 1A/542 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | 497711 | Section 54 Block VI Tokaanu Township | 94/127 | Tokaanu | 31/12/2002 | UC0 | 1/01/2001 |
 | 86996 | Te Araroa Sec 88 Block IX East Cape Survey District | 65/143, 1A/342 | Te Araroa | 30/06/2006 | UR0 | 1/07/2002 |
-| S.205370 | Allotment 13 and part Allotment 14 Block XI DP 19460 Otorohanga Maori Township | 435/43, 435/44 | Otorohanga | 30/06/2002 | UI0 | 1/07/2001 |
+| S﻿.﻿205370 | Allotment 13 and part Allotment 14 Block XI DP 19460 Otorohanga Maori Township | 435/43, 435/44 | Otorohanga | 30/06/2002 | UI0 | 1/07/2001 |
 | 6346 | Tuatini Pt Secs 5 & 7 Block IV DP 1163 | 1A/367 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | 11.08.92 | Pt Sec 1,2,3 Blk IV Lot 2 DP 8195 | 104/162, 1A/367 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | 6339 | Tuatini Sec 4 & Pt Sec 5 Block IX Tuatini Survey District | 83/142, 1A/535 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | H287683.5 | Lot 1 DP S 28187 Part Lot 1 Block VIII Taumarunui Maori Township | 34B/772 | Taumarunui | 30/06/2006 | UC0 | 1/07/2002 |
-| S.309739 | Lot 58 Block II DP 2893 Karewa Maori Township | 643/100 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| H.764579.7 | Lot 2 DP S 37838 Blk VIII Taumarunui Maori Township | 40A/273 | Taumarunui | 30/06/2006 | UC0 | 1/07/2002 |
+| S﻿.﻿309739 | Lot 58 Block II DP 2893 Karewa Maori Township | 643/100 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| H﻿.﻿764579.7 | Lot 2 DP S 37838 Blk VIII Taumarunui Maori Township | 40A/273 | Taumarunui | 30/06/2006 | UC0 | 1/07/2002 |
 | 76394 | Lot 1 Pt Sec 1, 2, 3 Blk IV Tuatini Survey District | 5C/1259 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | 6350 | Tuatini Sec 1 Block III | 83/143 | Tokomaru Bay | 31/12/2006 | UR0 | 1/01/2002 |
 | 84677 | Pt Sec 48 Lot 2 DP 3645 Blk IX East Cape Survey District | 1A/499, 4A/1373 | Te Araroa | 31/08/2007 | UC0 | 1/09/2002 |
 | 660965 | Lot 1 DP 14196 Part Maori Reserve 3667 and Part Maori Reserve 806 Block VII Southbridge Survey District | 240/120, 430/146 | Canterbury | 31/05/2007 | RP0 | 1/06/2002 |
-| S.334891 | Lot 25 Block I Karewa Maori Township | 643/103 | Kawhia | 31/03/2007 | UR0 | 1/04/2002 |
+| S﻿.﻿334891 | Lot 25 Block I Karewa Maori Township | 643/103 | Kawhia | 31/03/2007 | UR0 | 1/04/2002 |
 | 6888 | Pt Tapuaeoteoa F Blk IX East Cape Survey District | 51/268, 1A/502 | Te Araroa | 31/03/2007 | RP0 | 1/04/2002 |
 | 6334 | Sec 69 Pt Tapuaeoteoa F Blk IX East Cape Survey District | 1A/502 | Te Araroa | 31/03/2007 | RP0 | 1/04/2002 |
 | 6334 | Sec 68 Pt Tapuaeoteoa F Blk IX East Cape Survey District | 1A/502 | Te Araroa | 31/03/2007 | RP0 | 1/04/2002 |
 | H764579.8 | Lot 3 DP 37838 Blk VII Taumarunui Maori Township | 40A/273 | Taumarunui | 30/06/2006 | UC0 | 1/07/2002 |
-| S.205574 | Part Lot 23 Block XI DP 19460 Otorohanga Maori Township | 435/52 | Otorohanga | 30/06/2002 | UC0 | 1/07/2001 |
-| S.180453 | Lot 6 Block II DP 2893 Karewa Maori Township | 643/95 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
-| S.192850 | Lot 1 Block XIII DP 19460 Otorohanga Maori Township | 435/79 | Otorohanga | 30/06/2002 | UR0 | 1/07/2001 |
-| S.198264 | Lot 87 Block II DP 2893 Karewa Maori Township | 643/112 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
-| S.195717 | Lot 18 Block XI DP 19460 Otorohanga Maori Township | 435/48 | Otorohanga | 30/06/2002 | UI0 | 1/07/2001 |
+| S﻿.﻿205574 | Part Lot 23 Block XI DP 19460 Otorohanga Maori Township | 435/52 | Otorohanga | 30/06/2002 | UC0 | 1/07/2001 |
+| S﻿.﻿180453 | Lot 6 Block II DP 2893 Karewa Maori Township | 643/95 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
+| S﻿.﻿192850 | Lot 1 Block XIII DP 19460 Otorohanga Maori Township | 435/79 | Otorohanga | 30/06/2002 | UR0 | 1/07/2001 |
+| S﻿.﻿198264 | Lot 87 Block II DP 2893 Karewa Maori Township | 643/112 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
+| S﻿.﻿195717 | Lot 18 Block XI DP 19460 Otorohanga Maori Township | 435/48 | Otorohanga | 30/06/2002 | UI0 | 1/07/2001 |
 | 76394 | Tuatini Pt Sec 4A1, 4A2 Block II | 1A/542 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
-| S.188108 | Part Lot 14 Block XI DP 19460 Otorohanga Maori Township | 435/44 | Otorohanga | 30/06/2002 | UC0 | 1/07/2001 |
-| H.443690 | Part Section 23 Block XI DP 19460 Otorohanga Maori Township | 435/52 | Otorohanga | 30/06/2002 | UC0 | 1/07/2001 |
+| S﻿.﻿188108 | Part Lot 14 Block XI DP 19460 Otorohanga Maori Township | 435/44 | Otorohanga | 30/06/2002 | UC0 | 1/07/2001 |
+| H﻿.﻿443690 | Part Section 23 Block XI DP 19460 Otorohanga Maori Township | 435/52 | Otorohanga | 30/06/2002 | UC0 | 1/07/2001 |
 | 76782 | Tuatini Sec 7 Pt Block IX | 1A/535 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | 76782 | Tuatini Sec 7 Pt Block IX | 1A/534 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | 497733 | Section 3C Block VII Tokaanu Township | 520/229 | Tokaanu | 2/05/2002 | UC0 | 3/05/2001 |
@@ -1423,19 +1423,19 @@ The compensation payable to the lessee is—
 | 77347 | Sec 4A2 Blk II Tuatini Maori Township Blk VIII Tokomaru Bay Survey District | 1A/542 | Tokomaru Bay | 30/06/2006 | UR0 | 1/07/2002 |
 | 76014 | Te Araroa Lot 85 Block IX East Cape Survey District | 65/143, 1A/367 | Te Araroa | 30/06/2006 | UR0 | 1/07/2002 |
 | 517742 | Pt Section 39 Block 1 Tokaanu Township Blk X Puketi Survey District | 520/299 | Tokaanu | 31/08/2002 | UR0 | 1/09/2001 |
-| S.325386 | Lot 83 Block II DP 2893 Karewa Maori Township | 643/77 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿325386 | Lot 83 Block II DP 2893 Karewa Maori Township | 643/77 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 | 5.03.51 | Section 23 DP 1162 Block IX East Cape S.D. | 1A/363 | Te Araroa | 31/12/2015 | UR0 | 1/01/2004 |
 | Te Ata-i-Rangi-Kaaku |  |  |  |  |  |  |
-| S.180452 | Part Lot 5 Block II DP 2893 Karewa Maori Township | 13A/960 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
-| S.310000 | Lot 4 Blk II DP 2893 Karewa Maori Township | 643/111 | Kawhia | 31/12/2005 | UR0 | 1/01/2002 |
-| S.258869 | Lot 1 Block II DP 2893 Karewa Maori Township | 3B/876 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.294730 | Lot 3 Block II DP 2893 Karewa Maori Township | 643/92 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.298941 | Lot 2 Block II DP 2893 Karewa Maori Township | 643/92 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
-| S.328898 | Part Lot 21 Blk II DP 2893 Karewa Maori Township | 643/90 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿180452 | Part Lot 5 Block II DP 2893 Karewa Maori Township | 13A/960 | Kawhia | 31/12/2001 | UR0 | 1/01/2001 |
+| S﻿.﻿310000 | Lot 4 Blk II DP 2893 Karewa Maori Township | 643/111 | Kawhia | 31/12/2005 | UR0 | 1/01/2002 |
+| S﻿.﻿258869 | Lot 1 Block II DP 2893 Karewa Maori Township | 3B/876 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿294730 | Lot 3 Block II DP 2893 Karewa Maori Township | 643/92 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿298941 | Lot 2 Block II DP 2893 Karewa Maori Township | 643/92 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
+| S﻿.﻿328898 | Part Lot 21 Blk II DP 2893 Karewa Maori Township | 643/90 | Kawhia | 31/12/2004 | UR0 | 1/01/2002 |
 
 | Lease Number or Date of Lease | Description | Certificate of Title Number | Location | Expiry Date of lease | Land Type/ Location | First Rent Review Date |
 | --- | --- | --- | --- | --- | --- | --- |
-| S.310000 | Pt Lot 5 Block II DP 2893 Karewa Maori Township | 643/95 | Kawhia | 31/12/2005 | UR0 | 1/01/2002 |
+| S﻿.﻿310000 | Pt Lot 5 Block II DP 2893 Karewa Maori Township | 643/95 | Kawhia | 31/12/2005 | UR0 | 1/01/2002 |
 | Potaka Whanau Development Trust |  |  |  |  |  |  |
 | 428334 | Lots 8, 9, & 10 DP 2415 Blk I Hautapu SD | 194/129 | Utiku | 31/12/2000 | URO | 1/01/2001 |
 | 23445 | Sec 33 DP 2415 Blk III Hautapu SD | 499/179 | Utiku | 30/06/2005 | RPO | 1/07/2002 |
@@ -1554,38 +1554,38 @@ The compensation payable to the lessee is—
 | Others |  |  |  |  |  |  |
 | S242047 | Sec 18 Blk LXIX Town of Rotorua | 1711/91 | Rotorua | 31/12/2004 | UCRD | 1/01/2002 |
 | Pukeroa Oruawhata Trust |  |  |  |  |  |  |
-| H.690701 | Lot 3 Sec 22 Town of Rotorua | 473/115 | Rotorua | 31/05/2007 | UCRD | 1/06/2002 |
-| S.433532 | Lot 5 Sec 22 Town of Rotorua | 473/117 | Rotorua | 31/08/2010 | UCRD | 1/09/2003 |
-| H.552258 | Lot 1 Sec 22 Town of Rotorua | 473/113 | Rotorua | 31/12/2003 | UCRD | 1/01/2002 |
-| H.557463 | Lot 20 Sec 22 Town of Rotorua | 473/124 | Rotorua | 31/12/2002 | UCRD | 1/01/2001 |
-| H.572676.1 | Part Lot 24 Sec 22 Town of Rotorua | 473/131 | Rotorua | 31/01/2003 | UCRD | 1/02/2002 |
-| H.563887 | Lot 7 Sec 22 Town of Rotorua | 473/119 | Rotorua | 31/12/2003 | UCRD | 1/01/2002 |
-| H.557117,1 | Sec 25 Block LXIX Town of Rotorua | 473/109 | Rotorua | 31/12/2003 | URRD | 1/01/2002 |
-| H.563888 | Lot 15 Sec 22 Town of Rotorua | 473/126 | Rotorua | 28/02/2005 | UCRD | 1/03/2002 |
-| H.573995 | Lot 11 Sec 22 Town of Rotorua | 473/123 | Rotorua | 31/12/2004 | UCRD | 1/01/2002 |
-| H.634383.1 | Sec 5 Block LI Town of Rotorua | 471/175 | Rotorua | 30/06/2006 | UCRD | 1/07/2002 |
-| H.840219.2 | Lot 23 Sec 22 Town of Rotorua | 473/124 | Rotorua | 31/12/2002 | UCRD | 1/01/2001 |
-| H.634206 | Sec 24 & 26 Block LXIX Town of Rotorua | 473/110; 473/108 | Rotorua | 30/06/2006 | URRD | 1/07/2002 |
-| H.645288 | Lot 17 Sec 22 Town of Rotorua | 473/127 | Rotorua | 28/06/2006 | UCRD | 29/06/2002 |
-| H.677065 | Sec 1 Block LXIX Town of Rotorua | 473/107 | Rotorua | 31/12/2006 | URRD | 1/01/2002 |
-| H.674473 | Lot 6 Sec 22 Town of Rotorua | 473/118 | Rotorua | 31/10/2006 | UCRD | 1/11/2002 |
-| B.084646.2 | Lot 13 DP 24491 Pt Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
-| H.563601 | Lot 19 Sec 22 Town of Rotorua | 473/128 | Rotorua | 31/07/2003 | UCRD | 1/08/2002 |
-| S.329888 | Lot 14 DP 24491 Pt Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
-| H.670400 | Lot 14 Sec 22 Town of Rotorua | 473/125 | Rotorua | 30/09/2006 | UCRD | 1/10/2002 |
-| H.697920 | Lots 1-6, 10 DP 24491 Sec 1 Blk LXII Town of Rotorua | 7A/60 | Rotorua | 18/02/2007 | UCRD | 19/02/2002 |
+| H﻿.﻿690701 | Lot 3 Sec 22 Town of Rotorua | 473/115 | Rotorua | 31/05/2007 | UCRD | 1/06/2002 |
+| S﻿.﻿433532 | Lot 5 Sec 22 Town of Rotorua | 473/117 | Rotorua | 31/08/2010 | UCRD | 1/09/2003 |
+| H﻿.﻿552258 | Lot 1 Sec 22 Town of Rotorua | 473/113 | Rotorua | 31/12/2003 | UCRD | 1/01/2002 |
+| H﻿.﻿557463 | Lot 20 Sec 22 Town of Rotorua | 473/124 | Rotorua | 31/12/2002 | UCRD | 1/01/2001 |
+| H﻿.﻿572676.1 | Part Lot 24 Sec 22 Town of Rotorua | 473/131 | Rotorua | 31/01/2003 | UCRD | 1/02/2002 |
+| H﻿.﻿563887 | Lot 7 Sec 22 Town of Rotorua | 473/119 | Rotorua | 31/12/2003 | UCRD | 1/01/2002 |
+| H﻿.﻿557117,1 | Sec 25 Block LXIX Town of Rotorua | 473/109 | Rotorua | 31/12/2003 | URRD | 1/01/2002 |
+| H﻿.﻿563888 | Lot 15 Sec 22 Town of Rotorua | 473/126 | Rotorua | 28/02/2005 | UCRD | 1/03/2002 |
+| H﻿.﻿573995 | Lot 11 Sec 22 Town of Rotorua | 473/123 | Rotorua | 31/12/2004 | UCRD | 1/01/2002 |
+| H﻿.﻿634383.1 | Sec 5 Block LI Town of Rotorua | 471/175 | Rotorua | 30/06/2006 | UCRD | 1/07/2002 |
+| H﻿.﻿840219.2 | Lot 23 Sec 22 Town of Rotorua | 473/124 | Rotorua | 31/12/2002 | UCRD | 1/01/2001 |
+| H﻿.﻿634206 | Sec 24 & 26 Block LXIX Town of Rotorua | 473/110; 473/108 | Rotorua | 30/06/2006 | URRD | 1/07/2002 |
+| H﻿.﻿645288 | Lot 17 Sec 22 Town of Rotorua | 473/127 | Rotorua | 28/06/2006 | UCRD | 29/06/2002 |
+| H﻿.﻿677065 | Sec 1 Block LXIX Town of Rotorua | 473/107 | Rotorua | 31/12/2006 | URRD | 1/01/2002 |
+| H﻿.﻿674473 | Lot 6 Sec 22 Town of Rotorua | 473/118 | Rotorua | 31/10/2006 | UCRD | 1/11/2002 |
+| B﻿.﻿084646.2 | Lot 13 DP 24491 Pt Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
+| H﻿.﻿563601 | Lot 19 Sec 22 Town of Rotorua | 473/128 | Rotorua | 31/07/2003 | UCRD | 1/08/2002 |
+| S﻿.﻿329888 | Lot 14 DP 24491 Pt Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
+| H﻿.﻿670400 | Lot 14 Sec 22 Town of Rotorua | 473/125 | Rotorua | 30/09/2006 | UCRD | 1/10/2002 |
+| H﻿.﻿697920 | Lots 1-6, 10 DP 24491 Sec 1 Blk LXII Town of Rotorua | 7A/60 | Rotorua | 18/02/2007 | UCRD | 19/02/2002 |
 
 | Lease Number or Date of Lease | Description | Certificate of Title Number | Location | Expiry Date of lease | Land Type/ Location | First Rent Review Date |
 | --- | --- | --- | --- | --- | --- | --- |
-| H.709951.2 | Lot 15 DP 24491 Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
-| S.407947 | Lot 10 Sec 22 Town of Rotorua | 473/122 | Rotorua | 31/01/2010 | UCRD | 1/02/2003 |
-| H.683470 | Lot 21 Sec 22 Town of Rotorua | 473/129 | Rotorua | 31/05/2007 | UCRD | 1/06/2002 |
-| H.776580 | Lot 25 Sec 22 Town of Rotorua | 473/132 | Rotorua | 30/06/2007 | UCRD | 1/07/2002 |
-| H.709951.1 | Lot 12 DP 24491 Pt Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
-| B.042172.1 | Lot 2 Sec 22 Town of Rotorua | 473/114 | Rotorua | 31/12/2011 | UCRD | 1/01/2003 |
-| B.040543.1 | Lot 9 Sec 22 Town of Rotorua | 473/121 | Rotorua | 31/12/2011 | UCRD | 1/01/2003 |
-| S.433533 | Lot 4 Sec 22 Town of Rotorua | 473/116 | Rotorua | 31/08/2010 | UCRD | 1/09/2003 |
-| H.286498 | Lot 16, Section 22, Town of Rotorua | 10C/1247 | Rotorua | 31/07/2000 | UCRD | 1/08/2003. |
+| H﻿.﻿709951.2 | Lot 15 DP 24491 Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
+| S﻿.﻿407947 | Lot 10 Sec 22 Town of Rotorua | 473/122 | Rotorua | 31/01/2010 | UCRD | 1/02/2003 |
+| H﻿.﻿683470 | Lot 21 Sec 22 Town of Rotorua | 473/129 | Rotorua | 31/05/2007 | UCRD | 1/06/2002 |
+| H﻿.﻿776580 | Lot 25 Sec 22 Town of Rotorua | 473/132 | Rotorua | 30/06/2007 | UCRD | 1/07/2002 |
+| H﻿.﻿709951.1 | Lot 12 DP 24491 Pt Sec 1 Blk LXII Town of Rotorua | 7A/61 | Rotorua | 18/02/2007 | URRD | 19/02/2002 |
+| B﻿.﻿042172.1 | Lot 2 Sec 22 Town of Rotorua | 473/114 | Rotorua | 31/12/2011 | UCRD | 1/01/2003 |
+| B﻿.﻿040543.1 | Lot 9 Sec 22 Town of Rotorua | 473/121 | Rotorua | 31/12/2011 | UCRD | 1/01/2003 |
+| S﻿.﻿433533 | Lot 4 Sec 22 Town of Rotorua | 473/116 | Rotorua | 31/08/2010 | UCRD | 1/09/2003 |
+| H﻿.﻿286498 | Lot 16, Section 22, Town of Rotorua | 10C/1247 | Rotorua | 31/07/2000 | UCRD | 1/08/2003. |
 | Tiki Te Koku Ruamano Trust |  |  |  |  |  |  |
 | H502691 | Section 1 Block LI Town of Rotorua | 408/269 | Rotorua | 11/04/2003 | UCRD | 12/04/2002 |
 | H315019.1 | Section 1 Block LII Town of Rotorua | 408/267 | Rotorua | 25/05/2001 | UCRD | 26/05/2001 |
@@ -1947,7 +1947,7 @@ The compensation payable to the lessee is—
 | B398723.2 | Lot 1 DP 79051 being Pt Sec 1099 | 358/107 | Wellington | 30/09/2010 | UCWD | 1/10/2003 |
 | 744610 | Lot 2 DP 575 Pt Sec 974 | 504/223 | Wellington | 2/02/2010 | UCWD | 3/02/2003 |
 | 765469 | Lot 1 DP 575 Pt Sec 974 | 504/223 | Wellington | 2/02/2010 | UCWD | 3/02/2003 |
-| B.179074.2 | Lot 3 DP 67429 | 37C/936 | Wellington | 31/08/2009 | UCWD | 1/09/2003 |
+| B﻿.﻿179074.2 | Lot 3 DP 67429 | 37C/936 | Wellington | 31/08/2009 | UCWD | 1/09/2003 |
 | 723539 | Lot 1 DP 545 Pt Sec 974 | 504/223 | Wellington | 15/04/2009 | URWD | 16/04/2003 |
 | 736691 | Lot 2 DP 545 Pt Sec 974 | 504/223 | Wellington | 15/04/2009 | URWD | 16/04/2003 |
 | 687088 | Lot 4 DP 602 Pt Sec 988 | 37C/941 | Wellington | 31/12/2007 | URWD | 1/01/2002 |
