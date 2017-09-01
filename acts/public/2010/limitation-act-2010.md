@@ -1,5 +1,5 @@
 # Limitation Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Limitation Act 2010.
@@ -39,7 +39,7 @@ In this Act, unless the context otherwise requires,—
     (a) the Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988; or
     (b) a Motor Vehicle Disputes Tribunal exercising under section 89(1)﻿(b)﻿(iii) or (iv) of the Motor Vehicle Sales Act 2003 the Disputes Tribunal’s jurisdiction under—
       (i) section 39 or 47 of the Consumer Guarantees Act 1993; or
-      (ii) section 9 of the Contractual Remedies Act 1979
+      (ii) sections 43 to 48 of the Contract and Commercial Law Act 2017
   - **foreign country** means a country other than New Zealand
   - **fraud** includes—
     (a) dishonest or fraudulent concealment; and
@@ -287,7 +287,7 @@ For the purposes of this Act, no person is deemed to have been in possession of 
 (2) The original claimant’s title to the goods is extinguished if the period for the original claim ends before the original claimant makes the original claim.
 (3) This section overrides section 43.
 (4) However, this section does not limit or affect—
-  (a) section 26(1) of the Sale of Goods Act 1908 (which ensures that, if goods have been stolen and the offender is prosecuted to conviction, the property in the goods so stolen revests in the person who was the owner of the goods, or that person's personal representative); or
+  (a) section 152(1) of the Contract and Commercial Law Act 2017 (which ensures that, if goods have been stolen and the offender is convicted, the property in the goods that were stolen revests in the person who was the owner of the goods, or that person's personal representative); or
   (b) monetary relief in respect of a claim for conversion or wrongful detention when the granting of that relief is not prevented by section 43(a).
 
 ### 31 Claim to recover personal property held on trust
@@ -343,16 +343,10 @@ For the purposes of this Act, no person is deemed to have been in possession of 
 (4) If a defence under this section has been or could be established against the claim the specified court or tribunal may, if it thinks it just to do so on an application made to it for the purpose, order that relief may be granted in respect of the claim as if no defence under this Part applies to it.
 (5) The application for the order must be made before the specified court or tribunal has decided whether the defendant has established a defence under this Part against the claim.
 
-**Claims under contracts statutes**
+**Claims under contract enactment**
 
 ### 37 Claim for non-monetary and non-declaratory relief
-(1) This section applies to a claim for relief (other than any form of monetary relief or declaratory relief) under all or any of the following Acts:
-  (a) Contracts (Privity) Act 1982:
-  (b) Contractual Mistakes Act 1977:
-  (c) Contractual Remedies Act 1979:
-  (d) Frustrated Contracts Act 1944:
-  (e) Illegal Contracts Act 1970:
-  (f) Minors' Contracts Act 1969.
+(1) This section applies to a claim for relief (other than any form of monetary relief or declaratory relief) under Part 2 of the Contract and Commercial Law Act 2017.
 (2) It is a defence to the claim if the defendant proves that the date on which the claim is filed is at least 6 years after the date of the act or omission on which the claim is based.
 (3) The claim has both a late knowledge period and a longstop period, and sections 11(3)﻿(a) and (b), and 14 apply to it,—
   (a) as if it were a money claim; and
