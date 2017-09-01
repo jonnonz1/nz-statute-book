@@ -1,5 +1,5 @@
 # Deaths by Accidents Compensation Act 1952
-_Consolidation as at 2010-03-03_
+_Consolidation as at 2017-09-01_
 
 > An Act to consolidate and amend certain enactments relating to actions for damages on behalf of the families of persons killed by accident
 
@@ -92,7 +92,7 @@ Where any amount is to be held on trust as a class fund for any dependants under
 (2) The court may exercise any power under section 64 of the Trustee Act 1956 (which relates to dealings with trust property) either on the creation of any trust under any of the provisions of this Part or from time to time during the continuance of any such trust.
 
 ### 17 Variation of orders
-The court may at any time vary any order made by it either before or after the commencement of this Act in respect of damages which have been recovered (either in an action or without an action being brought) under this Act or under the corresponding provisions of any former Act and in respect of the income therefrom so far as the damages and income are for the time being in the hands of a trustee as aforesaid or in the hands of Public Trust or any other trustee under Part 9A of the Protection of Personal and Property Rights Act 1988 or section 12 of the Minors' Contracts Act 1969.
+The court may at any time vary any order made by it either before or after the commencement of this Act in respect of damages which have been recovered (either in an action or without an action being brought) under this Act or under the corresponding provisions of any former Act and in respect of the income therefrom so far as the damages and income are for the time being in the hands of a trustee as aforesaid or in the hands of Public Trust or any other trustee under Part 9A of the Protection of Personal and Property Rights Act 1988 or sections 103 to 110 of the Contract and Commercial Law Act 2017.
 
 ### 18 Considerations to be taken into account in making or varying order
 In making or varying an order under this Part the court shall have regard to all relevant considerations including, where the damages are recovered in an action which is tried with a jury, any recommendation which the jury may make in respect of the order; and the court may, whenever it considers that it is just and proper to do so, take into consideration all or any of the following matters:
@@ -113,7 +113,7 @@ An order or variation of an order under this Part may be made by the court of it
 The provisions of this Part shall extend so as to apply to damages that have become recoverable before the passing of this Act under any enactment repealed by this Act except in so far as the damages have been disposed of in accordance with the provisions of any such enactment.
 
 ### 21 Powers of court not affected by certain other Acts
-Nothing in Part 9A of the Protection of Personal and Property Rights Act 1988 or in section 12 of the Minors' Contracts Act 1969 or in any order made by the court under either of those sections shall prevent the court from making an order under this Part in respect of any damages to which this Part applies.
+Nothing in Part 9A of the Protection of Personal and Property Rights Act 1988 or in sections 103 to 110 of the Contract and Commercial Law Act 2017 or in any order made by the court under that Part or those sections shall prevent the court from making an order under this Part in respect of any damages to which this Part applies.
 
 ### 22 Validation of certain orders previously made
 Where the court has made any order before the commencement of this Act and the order was invalid at the time when it was made but would have been valid if this Part had then been in force, the order shall be deemed to have been validly made and the provisions of this Part shall be deemed to have applied to the order as from the time when it was made.
