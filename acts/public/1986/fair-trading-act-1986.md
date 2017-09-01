@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-09-01_
 
 > Title
 
@@ -160,7 +160,7 @@ Nothing in this Act applies to conduct in relation to any transaction or event r
   (e) whether all or any of the parties received advice from, or were represented by, a lawyer, either at the time of the negotiations leading to the agreement or at any other relevant time.
 (5) To avoid doubt, nothing in this section—
   (a) prevents the Commission from bringing proceedings for an offence under this Act (including an offence under section 12A, 13, or 14(1)) against a party to the agreement referred to in subsection (1):
-  (b) limits the application of the Contractual Remedies Act 1979.
+  (b) limits the application of subpart 3 of Part 2 of the Contract and Commercial Law Act 2017.
 
 ### 6 Functions of Commission in relation to dissemination of information
 In addition to the functions conferred on the Commission by this Act, the Commission shall—
@@ -772,7 +772,7 @@ The purpose of this Part is to set out in one place the rules applying to—
 
 ### 36E Risk in goods
 (1) Goods to which a layby sale agreement relates remain at the supplier's risk until property in the goods is transferred to the consumer and the consumer takes possession of those goods.
-(2) To avoid doubt, this section overrides section 22 of the Sale of Goods Act 1908.
+(2) To avoid doubt, this section overrides section 148 of the Contract and Commercial Law Act 2017.
 
 ### 36F Cancellation of layby sale agreement by consumer
 (1) A consumer may cancel a layby sale agreement—
@@ -1259,7 +1259,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (b) is for the provision of credit by a person other than the supplier to enable person A to pay, or defer payment, for the goods.
 (5) An order made under subsection (3)﻿(a) to (d) does not prevent proceedings being instituted or commenced under this Part.
 (6) This section does not limit or affect—
-  (a) the Illegal Contracts Act 1970; or
+  (a) subpart 5 of Part 2 of the Contract and Commercial Law Act 2017; or
   (b) section 317 of the Accident Compensation Act 2001.
 
 ### 43A Application for order under section 43
@@ -1717,7 +1717,7 @@ Nothing in sections 48B to 48L or any co-operation arrangement prevents the Comm
 ### 50 Saving of other laws
 (1) Nothing in this Act limits or affects the operation of any other Act.
 (2) Nothing in this Act limits or affects any liability that any person may incur under any rule of law or enactment other than this Act.
-(3) However, subsection (1) does not apply in relation to any provision in Part 4A that limits or affects the operation of the Sale of Goods Act 1908 or the Contractual Remedies Act 1979.
+(3) However, subsection (1) does not apply in relation to any provision in Part 4A that limits or affects the operation of subpart 3 of Part 2 or Part 3 of the Contract and Commercial Law Act 2017.
 
 ### 51 Application of Act to goods that are, or may be, exported to China
 (1) This Act applies to conduct or representations relating to goods that are, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement in the same way as this Act applies to goods supplied within New Zealand as follows:
