@@ -1,5 +1,5 @@
 # Contractual Remedies Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 (1) This Act is the Contractual Remedies Amendment Act 2002.
@@ -13,7 +13,7 @@ Section 2 of the principal Act is amended by repealing the definition of Court, 
   - **Court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined.
 
 ### 4 Cancellation of contract
-Section 7 of the principal Act is amended by omitting from subsections (3)(b) and (c) and (4)(a) the word stipulation wherever it occurs, and substituting in each case the word term.
+Section 7 of the principal Act is amended by omitting from subsections (3)﻿(b) and (c) and (4)﻿(a) the word stipulation wherever it occurs, and substituting in each case the word term.
 
 ### 5 Rules applying to cancellation
 Section 8(1) of the principal Act is amended by repealing paragraph (b), and substituting the following paragraph:
