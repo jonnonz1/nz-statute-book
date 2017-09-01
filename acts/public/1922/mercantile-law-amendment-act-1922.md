@@ -1,5 +1,5 @@
 # Mercantile Law Amendment Act 1922
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-01_
 
 > An Act to amend The Mercantile Law Act 1908
 
