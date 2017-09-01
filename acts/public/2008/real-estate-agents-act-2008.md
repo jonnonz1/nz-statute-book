@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -993,7 +993,7 @@ A person who is affected by a decision of the Tribunal may appeal to the High Co
   (a) the failure to give a copy of the agreement within the required time was occasioned by inadvertence or other cause beyond the control of the agent; and
   (b) the commission or expenses that will be recoverable if the order is made are fair and reasonable in all the circumstances; and
   (c) failure to make the order would be unjust.
-(4) This section overrides the Illegal Contracts Act 1970.
+(4) This section overrides subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 
 ### 127 Approved guide to be provided before agency agreement for residential property signed
 (1) An agent must not enter into an agency agreement with a person for the sale of residential property unless the agent or a licensee on the agent’s behalf—
