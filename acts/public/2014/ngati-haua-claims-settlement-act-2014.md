@@ -1,5 +1,5 @@
 # Ngāti Hauā Claims Settlement Act 2014
-_Consolidation as at 2014-12-15_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Ngāti Hauā Claims Settlement Act 2014.
@@ -210,7 +210,7 @@ In this Act, unless the context otherwise requires,—
   - **interest** means a covenant, easement, lease, licence, licence to occupy, tenancy, or other right or obligation affecting a property
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Hauā** means an individual referred to in section 13(1)(a)
+  - **member of Ngāti Hauā** means an individual referred to in section 13(1)﻿(a)
   - **national park management plan** has the meaning given to in section 2 of the National Parks Act 1980
   - **Ngāti Hauā Iwi Trust** means the trust of that name established by a trust deed dated 16 July 2013
   - **non-raupatu historical claims** has the meaning given in section 14
@@ -221,9 +221,9 @@ In this Act, unless the context otherwise requires,—
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustee) acting for or on behalf of—
-      (i) the collective group referred to in section 13(1)(a); or
+      (i) the collective group referred to in section 13(1)﻿(a); or
       (ii) 1 or more members of Ngāti Hauā; or
-      (iii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)(c)
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)﻿(c)
   - **reserve** has the meaning given in section 2(1) of the Reserves Act 1977
   - **reserve property** has the meaning given in section 59
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
@@ -288,7 +288,7 @@ In this Act, unless the context otherwise requires,—
 (4) However, the non-raupatu historical claims do not include—
   (a) Raupatu claims as defined in section 8(1) of the Waikato Raupatu Claims Settlement Act 1995; or
   (b) Raupatu claims as defined in section 88(2) of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010; or
-  (c) a claim that a member of Ngāti Hauā, or a whānau, hapū, or group referred to in section 13(1)(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not an ancestor of Ngāti Hauā; or
+  (c) a claim that a member of Ngāti Hauā, or a whānau, hapū, or group referred to in section 13(1)﻿(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not an ancestor of Ngāti Hauā; or
   (d) a claim that a representative entity had or may have that is based on a claim referred to in paragraph (c).
 (5) A claim may be a historical claim whether or not the claim has arisen or been considered, researched, registered, notified, or made on or before the settlement date.
 
@@ -369,8 +369,8 @@ The chief executive of the Ministry of Justice must make copies of the deed of s
 ### 21 Interpretation
 In this subpart,—
   - **protocol** —
-    (a) means the taonga tūturu protocol issued under section 23(1)(a); and
-    (b) includes any amendments to the taonga tūturu protocol made under section 23(1)(b)
+    (a) means the taonga tūturu protocol issued under section 23(1)﻿(a); and
+    (b) includes any amendments to the taonga tūturu protocol made under section 23(1)﻿(b)
   - **responsible Minister** means the Minister for Arts, Culture and Heritage
   - **taonga tūturu** —
   (a) has the meaning given in section 2(1) of the Protected Objects Act 1975; and
@@ -491,11 +491,11 @@ The only purposes of the statutory acknowledgement are to—
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide the following to the trustees for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
-(2) A summary provided under subsection (1)(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
+(2) A summary provided under subsection (1)﻿(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
 (3) The summary must be provided—
   (a) as soon as is reasonably practicable after the relevant consent authority receives the application; but
   (b) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice must be provided under subsection (1)(b) not later than 10 working days after the day on which the consent authority receives the notice.
+(4) A copy of a notice must be provided under subsection (1)﻿(b) not later than 10 working days after the day on which the consent authority receives the notice.
 (5) The trustees may, by written notice to a relevant consent authority,—
   (a) waive the right to be provided with a summary or copy of a notice under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -654,7 +654,7 @@ The overlay classification does not affect the classification of the overlay are
   (b) the relevant area is to be, or has been, disposed of by the Crown; or
   (c) the responsibility for managing the relevant area is to be, or has been, transferred to a different Minister of the Crown or the Commissioner of Crown Lands.
 (3) The Crown must take reasonable steps to ensure that the trustees continue to have input into the management of a relevant area if—
-  (a) subsection (2)(c) applies; or
+  (a) subsection (2)﻿(c) applies; or
   (b) there is a change in the statutory management regime that applies to all or part of the overlay area.
 
 ### 57 Exercise of powers and performance of functions and duties
@@ -686,13 +686,13 @@ In this subpart,—
 ### 60 Gordon Gow Scenic Reserve
 (1) The reservation of Gordon Gow Scenic Reserve as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Gordon Gow Scenic Reserve vests in the trustees.
-(3) Gordon Gow Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Gordon Gow Scenic Reserve is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Gordon Gow Scenic Reserve.
 
 ### 61 Maungakawa
 (1) The reservation of Maungakawa (being part of Te Tapui Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Maungakawa vests in the trustees.
-(3) Maungakawa is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Maungakawa is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Maungakawa Scenic Reserve.
 (5) Subsections (1) to (4) do not take effect until the trustees have provided the Crown with a registrable right of way easement in gross in favour of the Minister of Conservation on the terms and conditions set out in part 3 of the documents schedule.
 (6) Despite the provisions of the Reserves Act 1977, the easement—
@@ -702,7 +702,7 @@ In this subpart,—
 ### 62 Pukemako site A
 (1) The reservation of Pukemako site A (being Maungakawa Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Pukemako site A vests in the trustees.
-(3) Pukemako site A is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Pukemako site A is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Pukemako Scenic Reserve.
 
 ### 63 Pukemako site B
@@ -802,7 +802,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
     (i) section 24 of the Conservation Act 1987 does not apply to the property; and
     (ii) the property is subject to sections 74(3) and 80; or
   (b) part of the property, the Registrar-General must ensure that the notifications referred to in paragraph (a) remain only on the computer freehold register for the part of the property that remains a reserve.
-(4) The Registrar-General must comply with an application received in accordance with subsection (3)(a).
+(4) The Registrar-General must comply with an application received in accordance with subsection (3)﻿(a).
 
 ### 76 Application of other enactments
 (1) The vesting of the fee simple estate in a cultural redress property under this subpart does not—
@@ -824,7 +824,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 ### 78 Application of other enactments to reserve properties
 (1) The trustees are the administering body of a reserve property, except as provided for in section 65.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve property, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(3) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
+(3) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
 (4) If the reservation of a reserve property under this subpart is revoked under section 24 of the Reserves Act 1977 for all or part of the property, section 25(2) of that Act applies to the revocation, but not the rest of section 25 of that Act.
 (5) A reserve property is not a Crown protected area under the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, despite anything in that Act.
 (6) A reserve property must not have its name changed or a name assigned to it under section 16(10) of the Reserves Act 1977 without the written consent of the owners of the property, and section 16(10A) of that Act does not apply to the proposed name.
@@ -984,7 +984,7 @@ A member of the committee is not precluded by the Local Authorities (Members' In
   (a) considers that all or any part of the Waharoa Aerodrome land is not required for aerodrome and ancillary aviation purposes; and
   (b) exercises the Minister's or body's powers under section 24 of the Reserves Act 1977 to revoke the reservation of the Waharoa Aerodrome land (or part of it) as a reserve by notice in the Gazette.
 (2) The Minister must not give notice in the Gazette revoking the reservation of the Waharoa Aerodrome land (or part of it) as a reserve until the expiry of 1 month after notice has been given under section 97.
-(3) On revocation of the reserve status under subsection (1)(b), that part of the Waharoa Aerodrome land vests in the trustees.
+(3) On revocation of the reserve status under subsection (1)﻿(b), that part of the Waharoa Aerodrome land vests in the trustees.
 
 ### 96 Matters relating to vesting under section 95
 (1) Except as provided in section 95, that section does not—
@@ -1000,7 +1000,7 @@ A member of the committee is not precluded by the Local Authorities (Members' In
 (3) The persons are—
   (a) the trustees; and
   (b) every person who would be entitled to enforce the restriction, encumbrance, lien, or interest if it were valid.
-(4) If it is impracticable to give notice to every person under subsection (3)(b), that subsection may be complied with by publishing a notice in a daily newspaper circulating in the district of the Matamata–Piako District Council in relation to the matter.
+(4) If it is impracticable to give notice to every person under subsection (3)﻿(b), that subsection may be complied with by publishing a notice in a daily newspaper circulating in the district of the Matamata–Piako District Council in relation to the matter.
 
 ### 98 No change in classification or purpose
 Despite sections 24 and 24A of the Reserves Act 1977, neither the Minister nor the local authority in which the Waharoa Aerodrome land is vested as a reserve for aerodrome purposes may change the classification or purpose of the whole or any part of the land.
@@ -1122,7 +1122,7 @@ In this subpart and Schedule 5,—
       (iii) consent to an assignment of a lease, or to a sublease, of the land; or
       (iv) remove an improvement, a fixture, or a fitting from the land; or
       (v) vest and gift back Te Tapui Scenic Reserve under subpart 5 of Part 2
-  - **expiry date** , in relation to an offer, means its expiry date under sections 111(2)(a) and 112
+  - **expiry date** , in relation to an offer, means its expiry date under sections 111(2)﻿(a) and 112
   - **notice** means a notice given under this subpart
   - **offer** means an offer by an RFR landowner, made in accordance with section 111, to dispose of RFR land to the trustees
   - **public work** has the meaning given in section 2 of the Public Works Act 1981
@@ -1148,7 +1148,7 @@ In this subpart and Schedule 5,—
   (c) the land described in subpart B of part 4 of the property redress schedule to which clause 7.11 of the deed of the settlement does not apply that, on the settlement date,—
     (i) is vested in the Crown; or
     (ii) is held in fee simple by the Crown; and
-  (d) any land obtained in exchange for a disposal of RFR land under section 122(1)(c) or 123.
+  (d) any land obtained in exchange for a disposal of RFR land under section 122(1)﻿(c) or 123.
 (2) Land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
     (i) the trustees or their nominee (for example, under a contract formed under section 115); or
@@ -1248,7 +1248,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 121 Disposal under certain legislation
 An RFR landowner may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 34, 43, or 44 of the Marine and Coastal Area (Takutai Moana) Act 2011; or
   (c) section 355(3) of the Resource Management Act 1991; or
   (d) an Act that—
@@ -1259,8 +1259,8 @@ An RFR landowner may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1292,7 +1292,7 @@ The Waikato District Health Board (established by section 19(1) of the New Zeala
     (i) that prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) that the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 
 **Notices about RFR land**
 
@@ -1459,9 +1459,9 @@ The joint management agreement dated 18 June 2013 between the Waikato Raupatu Ri
 **Integrated river management plan and Upper Waikato River integrated management plan**
 
 ### 146 Application of provisions of components of integrated river management plan
-(1) The conservation and fisheries components of the integrated river management plan referred to in section 35(3)(a) and (b) respectively of the Waikato-Tainui Act may contain provisions that apply to the Waikato River to the extent that it is within the sub-catchment.
-(2) The Waikato Raupatu River Trust and the Waikato Regional Council may agree that the provisions of the regional council component of the integrated river management plan referred to in section 35(3)(c) of the Waikato-Tainui Act apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
-(3) The Waikato Raupatu River Trust and an agency that has agreed a component of the integrated river management plan referred to in section 35(3)(d) of the Waikato-Tainui Act may agree that provisions of the component apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
+(1) The conservation and fisheries components of the integrated river management plan referred to in section 35(3)﻿(a) and (b) respectively of the Waikato-Tainui Act may contain provisions that apply to the Waikato River to the extent that it is within the sub-catchment.
+(2) The Waikato Raupatu River Trust and the Waikato Regional Council may agree that the provisions of the regional council component of the integrated river management plan referred to in section 35(3)﻿(c) of the Waikato-Tainui Act apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
+(3) The Waikato Raupatu River Trust and an agency that has agreed a component of the integrated river management plan referred to in section 35(3)﻿(d) of the Waikato-Tainui Act may agree that provisions of the component apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
 
 ### 147 Process for preparation of provisions that apply to Waikato River under section 146
 Provisions of components that, under section 146, apply to the Waikato River within the sub-catchment must be prepared in accordance with Schedule 7 of the Waikato-Tainui Act with any necessary modifications, including the modifications set out in section 148.
@@ -1546,7 +1546,7 @@ A notice by or to an RFR landowner or the trustees under subpart 2 of Part 3 mus
     (iv) sending it by electronic means such as email.
 
 ### 2 Use of electronic transmission
-Despite clause 1, a notice that must be given in writing and signed, as required by clause 1(a), may be given by electronic means provided the notice is given with an electronic signature that satisfies section 22(1)(a) and (b) of the Electronic Transactions Act 2002.
+Despite clause 1, a notice that must be given in writing and signed, as required by clause 1(a), may be given by electronic means provided the notice is given with an electronic signature that satisfies section 226(1)﻿(a) and (b) of the Contract and Commercial Law Act 2017.
 
 ### 3 Time when notice received
 (1) A notice is to be treated as having been received—
