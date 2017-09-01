@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2017-08-31_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1948,7 +1948,7 @@ Sections 15B, 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A
   (c) whether the loan contract was signed before, on, or after the date on which this section comes into force.
 
 ### 205 Loan contract enforceable against minor
-A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of the Minors' Contracts Act 1969, as if the borrower were aged 18 years.
+A loan contract entered into by a borrower (whether before or after the commencement of this section) who is under 18 years of age must be treated, for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017, as if the borrower were aged 18 years.
 
 ### 206 Student loan contracts are not credit contracts
 (1) A loan contract is not—
@@ -2023,20 +2023,20 @@ In accordance with, and for the purpose set out in, section 280I of the Customs 
   (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post, or fax; or
   (b) by telephone; or
   (c) made orally in person in a manner acceptable to the Commissioner; or
-  (d) by an electronic means (except a fax), if the person complies with the Electronic Transactions Act 2002, including by email or the Internet; or
+  (d) by an electronic means (except a fax), if the person complies with Part 4 of the Contract and Commercial Law Act 2017, including by email or the Internet; or
   (e) in any other manner acceptable to the Commissioner.
 (2) However, it does not include a communication on the Internet, or by other means, if the person for whom the communication is intended is not directly alerted to it in some manner.
 (3) A notification that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
-(4) Despite subsection (1)﻿(d) of this section, section 6 of the Tax Administration Act 1994, and sections 16 and 20 of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
+(4) Despite subsection (1)﻿(d) of this section, section 6 of the Tax Administration Act 1994, and sections 220 and 224 of the Contract and Commercial Law Act 2017, the consent of a person is not required in order for information to be communicated in an electronic form.
 
 ### 212 Meaning of notify a person in writing
 (1) A requirement in this Act for a person to notify a person in writing or for a matter to be notified in writing is satisfied by a communication—
   (a) that is printed, typewritten, or otherwise visibly represented, copied, or reproduced on paper and is given by personal delivery, post, or fax; or
-  (b) by an electronic means (except a fax), if the person complies with the Electronic Transactions Act 2002, including by email or the Internet; or
+  (b) by an electronic means (except a fax), if the person complies with Part 4 of the Contract and Commercial Law Act 2017, including by email or the Internet; or
   (c) in any other manner acceptable to the Commissioner.
 (2) However, it does not include a communication on the Internet, or by other means, if the person for whom the communication is intended is not directly alerted to it in some manner.
 (3) A notification in writing that is given by post is treated as having been given at the time the notification would have been delivered in the ordinary course of the post.
-(4) Despite subsection (1)﻿(b) of this section, section 6 of the Tax Administration Act 1994, and sections 16 and 20 of the Electronic Transactions Act 2002, the consent of a person is not required in order for information to be communicated in an electronic form.
+(4) Despite subsection (1)﻿(b) of this section, section 6 of the Tax Administration Act 1994, and sections 220 and 224 of the Contract and Commercial Law Act 2017, the consent of a person is not required in order for information to be communicated in an electronic form.
 
 ### 213 Meaning of formally notify
 [Repealed]
