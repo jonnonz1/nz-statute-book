@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -4939,7 +4939,7 @@ An immigration officer may, by written notice served on the person to whom the i
   (b) personal service on the recipient; or
   (c) sending it by registered post to the recipient's last known place of residence or business, in which case it is deemed to be received by the recipient on the date on which it was posted.
 (3) Subsection (2) applies despite anything in section 24 of the Summary Proceedings Act 1957, and,—
-  (a) if service is effected in accordance with subsection (2), the recipient is deemed to have consented to service in that way (despite sections 16 and 20(1)﻿(b) of the Electronic Transactions Act 2002); and
+  (a) if service is effected in accordance with subsection (2), the recipient is deemed to have consented to service in that way (despite sections 220 and 224(1)﻿(b) of the Contract and Commercial Law Act 2017); and
   (b) in any case, for the purpose of sections 387 and 389 of the Companies Act 1993, the service is deemed to have been service by way of leaving the notice at the recipient's address for service.
 
 **Evidence in proceedings**
