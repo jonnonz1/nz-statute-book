@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2017-08-11_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -1151,7 +1151,7 @@ The enactments listed in Schedule 3 are consequentially amended in the manner in
 (3) The methods are—
   (a) by personal delivery to a person that is not a body corporate:
   (b) by personal delivery to a person that is a body corporate, if the personal delivery is made to the person's office during working hours:
-  (c) by an electronic means of communication to the person, if the RUC collector complies with the Electronic Transactions Act 2002:
+  (c) by an electronic means of communication to the person, if the RUC collector complies with Part 4 of the Contract and Commercial Law Act 2017:
   (d) by post—
     (i) to the street address of the person's usual or last known place of residence; or
     (ii) to the street address of any of the person's usual or last known places of business; or
@@ -1167,7 +1167,7 @@ The enactments listed in Schedule 3 are consequentially amended in the manner in
   (b) using one of the methods specified in subclause (3).
 (3) The methods are—
   (a) by personal delivery, if the delivery is made during working hours; or
-  (b) by electronic means of communication, if the person complies with the Electronic Transactions Act 2002; or
+  (b) by electronic means of communication, if the person complies with Part 4 of the Contract and Commercial Law Act 2017; or
   (c) by post to the street address or post office box number for the office.
 (4) For the purposes of subclause (3)﻿(c), a notice given by post is treated as having been given at the time the notice would have been delivered in the ordinary course of the post.
 
