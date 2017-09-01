@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -1116,6 +1116,7 @@ Every matter approved or prescribed under this Act that is required to be publis
 | Climate Change Response Act 2002 | 162(1) |
 | Climate Change Response Act 2002 | 202(1) |
 | Commodity Levies Act 1990 | 4 (apart from, or with, section 305 of the Fisheries Act 1996, or section 111 of the Wine Act 2003) |
+| Contract and Commercial Law Act 2017 | 239(2)—restriction: only if the order makes an addition to Schedule 5 |
 | Criminal Procedure Act 2011 | 387(1)﻿(i) |
 | Criminal Procedure Act 2011 | 387(1)﻿(j) |
 | Customs and Excise Act 1996 | 54(2) |
@@ -1126,7 +1127,6 @@ Every matter approved or prescribed under this Act that is required to be publis
 | Customs and Excise Act 1996 | 286A |
 | Education Act 1989 | 2(4) |
 | Education Act 1989 | 159(4) |
-| Electronic Transactions Act 2002 | 14(3)—restriction: only if the order makes an addition to the Schedule |
 | Energy (Fuels, Levies, and References) Act 1989 | 33(1) |
 | Energy Resources Levy Act 1976 | 5(1) |
 | Fisheries Act 1996 | 74(7) |
