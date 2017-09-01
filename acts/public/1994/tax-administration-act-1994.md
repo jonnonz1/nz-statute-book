@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-08-31_
+_Consolidation as at 2017-09-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -618,13 +618,13 @@ There shall continue to be a department of State, to be known as the Inland Reve
 (3) Judicial notice shall be taken of every such signature and of the fact that the person whose signature it purports to be holds or has held office as Commissioner or other relevant officer of the department, as the case may require.
 
 ### 13B Use of electronic signatures for tax administration purposes
-(1) Subject to meeting the criteria and requirements set out in the guidelines referred to in subsection (2) and the provisions of the Electronic Transactions Act 2002, a person may give information to the Commissioner under an electronic signature.
+(1) Subject to meeting the criteria and requirements set out in the guidelines referred to in subsection (2) and the provisions of Part 4 of the Contract and Commercial Law Act 2017, a person may give information to the Commissioner under an electronic signature.
 (2) The Commissioner must publish guidelines that set out the criteria and technical requirements for—
   (a) the use of a valid electronic signature on documents provided to the Commissioner:
   (b) the nature of, and circumstances in which, the Commissioner accepts information under an electronic signature.
 (3) When the Commissioner receives a document bearing the electronic signature of a person, unless there are reasonable grounds to suppose otherwise,—
   (a) the document is treated as signed by the person; and
-  (b) the person is treated as complying with both the guidelines referred to in subsection (2) and section 24 of the Electronic Transactions Act 2002.
+  (b) the person is treated as complying with both the guidelines referred to in subsection (2) and section 228 of the Contract and Commercial Law Act 2017.
 
 ### 14 Modes of communication: general provisions
 (1) Sections 14B to 14E apply for the purposes of this Act, the Income Tax Act 2007, and the Goods and Services Tax Act 1985, unless the context requires otherwise, to set out what is meant when a person (person A) gives information to, or communicates with, another person (person B) by—
@@ -634,7 +634,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
   (d) notifying:
   (e) formally notifying.
 (2) Sections 14F and 14G set out the requirements for giving information or communicating by personal delivery, post, fax, or electronic means.
-(3) Despite sections 6, 14B(2)﻿(c), and 14C(2)﻿(a), and sections 16 and 20 of the Electronic Transactions Act 2002, when there are reasonable grounds to suppose an electronic communication will be received by a person, the consent of the person is not required in order for the Commissioner to communicate in electronic form.
+(3) Despite sections 6, 14B(2)﻿(c), and 14C(2)﻿(a), and sections 220 and 224 of the Contract and Commercial Law Act 2017, when there are reasonable grounds to suppose an electronic communication will be received by a person, the consent of the person is not required in order for the Commissioner to communicate in electronic form.
 (4) Despite subsection (1) and the references to this Act, the Income Tax Act 2007, and the Goods and Services Tax Act 1985, sections 14C to 14G apply when any other Act requires the Commissioner to give notice to a person, or a person to give notice to the Commissioner.
 
 ### 14B Asking, requesting, or informing
@@ -645,7 +645,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
 (2) Person A may communicate—
   (a) by telephone; or
   (b) orally in person in a manner acceptable to the Commissioner; or
-  (c) by electronic means, if person A complies with the provisions of the Electronic Transactions Act 2002, for an item of information delivered in a way referred to in section 14F; or
+  (c) by electronic means, if person A complies with the provisions of Part 4 of the Contract and Commercial Law Act 2017, for an item of information delivered in a way referred to in section 14F; or
   (d) in print and delivered in a way referred to in section 14F, whether the document is handwritten, typewritten, or otherwise visibly represented, and whether copied or reproduced on paper; or
   (e) in another manner permitted by the Commissioner.
 (3) However, communication under this section does not include communication on the internet or by other electronic means, if person B is not directly alerted to the communication in some manner.
@@ -656,7 +656,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
   (a) applying to person B for something:
   (b) notifying person B about something.
 (2) Person A may communicate—
-  (a) by electronic means, if person A complies with the provisions of the Electronic Transactions Act 2002, for an item of information delivered in a way referred to in section 14F; or
+  (a) by electronic means, if person A complies with the provisions of Part 4 of the Contract and Commercial Law Act 2017, for an item of information delivered in a way referred to in section 14F; or
   (b) in print and delivered in a way referred to in section 14F, whether the document is handwritten, typewritten, or otherwise visibly represented, and whether copied or reproduced on paper; or
   (c) in another manner permitted by the Commissioner.
 (3) However, communication under this section does not include communication on the internet or by other electronic means, if person B is not directly alerted to the communication in some manner.
@@ -683,7 +683,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
   (b) if person B is a corporate body, by personal delivery to person B’s office during working hours; or
   (c) by delivery to person B’s contact address as described in section 14G.
 (3) When the Commissioner is person B, person A may communicate with the Commissioner—
-  (a) by electronic means if, in delivering the communication, person A complies with the Electronic Transactions Act 2002; or
+  (a) by electronic means if, in delivering the communication, person A complies with Part 4 of the Contract and Commercial Law Act 2017; or
   (b) by fax, to a fax number that has been provided by the Commissioner; or
   (c) by personal delivery during working hours to an office of the department that is available to accept communication of the information; or
   (d) by post—
@@ -697,7 +697,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
   (a) the person; or
   (b) a representative authorised to act on behalf of the person in relation to the relevant matter.
 (6) A communication by post is treated as having been given at the time the communication would have been delivered in the ordinary course of the post.
-(7) Section 11 of the Electronic Transactions Act 2002 applies to determine the time of receipt of an electronic communication.
+(7) Section 214 of the Contract and Commercial Law Act 2017 applies to determine the time of receipt of an electronic communication.
 (8) For the purposes of this section and section 14G, delivery by electronic means does not include a communication to a fax number.
 
 ### 14G Contact addresses
@@ -1316,7 +1316,7 @@ An information holder who is required to disclose information in relation to a p
 (1) Where information contained in a taxpayer's return has been transmitted by electronic means in the prescribed electronic format in accordance with section 36, the taxpayer shall retain or cause to be retained—
   (a) the return in the form of—
     (i) a signed hard-copy transcript of the information transmitted:
-    (ii) an electronic form meeting the requirements of section 25 of the Electronic Transactions Act 2002; and
+    (ii) an electronic form meeting the requirements of section 229 of the Contract and Commercial Law Act 2017; and
   (b) for a period of—
     (i) 7 years after the end of the income year to which the return relates; or
     (ii) a greater period that the Commissioner requires under section 22 for other records of the taxpayer, if the Commissioner gives the taxpayer notice of a further retention period under section 22(5).
@@ -2040,7 +2040,7 @@ A return purporting to be made by or on behalf of any person shall for all purpo
 (3) Where a taxpayer or registered person, or agent of a taxpayer or registered person, transmits to the Commissioner in the prescribed electronic format the information contained in any return of the taxpayer or registered person in accordance with an approval given under subsection (1),—
   (a) the taxpayer or registered person shall retain or cause to be retained the information in—
     (i) a hard-copy transcript:
-    (ii) an electronic form meeting the requirements of section 25 of the Electronic Transactions Act 2002; and
+    (ii) an electronic form meeting the requirements of section 229 of the Contract and Commercial Law Act 2017; and
   (b) if no electronic form under paragraph (a)﻿(ii) of a return is retained, and the return is not an employer monthly schedule or annual reconciliation statement under section 57B, the hard-copy transcript must be signed under section 40 and held by the taxpayer or registered person on behalf of the Commissioner; and
   (ba)
   (c) the information transmitted to the Commissioner shall be treated for the purposes of this Act and the Goods and Services Tax Act 1985 as if it were a return furnished under such provisions of this Act or the Goods and Services Tax Act 1985 as relate to the kind of return in question.
