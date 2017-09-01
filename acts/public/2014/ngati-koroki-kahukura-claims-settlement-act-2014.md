@@ -1,5 +1,5 @@
 # Ngāti Koroki Kahukura Claims Settlement Act 2014
-_Consolidation as at 2014-12-15_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Ngāti Koroki Kahukura Claims Settlement Act 2014.
@@ -142,15 +142,15 @@ In this Act, unless the context otherwise requires,—
   - **interest** means a covenant, easement, lease, licence, licence to occupy, tenancy, or other right or obligation affecting a property
   - **LINZ** means Land Information New Zealand
   - **local authority** has the meaning given in section 5(1) of the Local Government Act 2002
-  - **member of Ngāti Koroki Kahukura** means an individual referred to in section 13(1)(a)
+  - **member of Ngāti Koroki Kahukura** means an individual referred to in section 13(1)﻿(a)
   - **property redress schedule** means the property redress schedule of the deed of settlement
   - **Registrar-General** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
   - **representative entity** means—
     (a) the trustees; and
     (b) any person (including any trustee) acting for or on behalf of—
-      (i) the collective group referred to in section 13(1)(a); or
+      (i) the collective group referred to in section 13(1)﻿(a); or
       (ii) 1 or more members of Ngāti Koroki Kahukura; or
-      (iii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)(c)
+      (iii) 1 or more of the whānau, hapū, or groups referred to in section 13(1)﻿(c)
   - **reserve** has the meaning given in section 2(1) of the Reserves Act 1977
   - **reserve property** has the meaning given in section 35
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
@@ -189,7 +189,7 @@ In this Act, unless the context otherwise requires,—
   - **Ngāti Koroki Kahukura tupuna** means an individual who—
     (a) exercised customary rights by virtue of being descended from—
       (i) Koroki (through Hape) or Kahukura; or
-      (ii) any other recognised ancestor of a group referred to in subsection (1)(c); and
+      (ii) any other recognised ancestor of a group referred to in subsection (1)﻿(c); and
     (b) exercised the customary rights predominantly in relation to the area of interest at any time after 6 February 1840.
 
 ### 14 Meaning of historical claims
@@ -211,8 +211,8 @@ In this Act, unless the context otherwise requires,—
   (a) a claim to the Waitangi Tribunal that relates exclusively to Ngāti Koroki Kahukura or a representative entity, including Wai 1494 Comprehensive Ngāti Koroki Kahukura claim, to the extent that subsection (2) applies to the claim:
   (b) any other claim to the Waitangi Tribunal, including Wai 443, Te Rohe Katoa o Ngāti Raukawa claim, to the extent that subsection (2) applies to the claim and the claim relates to Ngāti Koroki Kahukura or a representative entity.
 (4) However, the historical claims do not include—
-  (a) a claim that a member of Ngāti Koroki Kahukura, or a whānau, hapū, or group referred to in section 13(1)(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not a Ngāti Koroki Kahukura tupuna; or
-  (b) a claim that a member of Ngāti Koroki Kahukura, or a whānau, hapū, or group referred to in section 13(1)(c), had or may have in relation to Wai 1294, Ngāti Koroki Kahukura (Transpower claim) dated 14 July 2005; or
+  (a) a claim that a member of Ngāti Koroki Kahukura, or a whānau, hapū, or group referred to in section 13(1)﻿(c), had or may have that is founded on a right arising by virtue of being descended from an ancestor who is not a Ngāti Koroki Kahukura tupuna; or
+  (b) a claim that a member of Ngāti Koroki Kahukura, or a whānau, hapū, or group referred to in section 13(1)﻿(c), had or may have in relation to Wai 1294, Ngāti Koroki Kahukura (Transpower claim) dated 14 July 2005; or
   (c) a claim that a representative entity had or may have that is based on a claim referred to in paragraph (a) or (b).
 (5) A claim may be a historical claim whether or not the claim has arisen or been considered, researched, registered, notified, or made on or before the settlement date.
 
@@ -347,11 +347,11 @@ The only purposes of the statutory acknowledgement are—
 (1) Each relevant consent authority must, for a period of 20 years on and from the effective date, provide the following to the trustees for each resource consent application for an activity within, adjacent to, or directly affecting a statutory area:
   (a) if the application is received by the consent authority, a summary of the application; or
   (b) if notice of the application is served on the consent authority under section 145(10) of the Resource Management Act 1991, a copy of the notice.
-(2) A summary provided under subsection (1)(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
+(2) A summary provided under subsection (1)﻿(a) must be the same as would be given to an affected person by limited notification under section 95B of the Resource Management Act 1991 or as may be agreed between the trustees and the relevant consent authority.
 (3) The summary must be provided—
   (a) as soon as is reasonably practicable after the relevant consent authority receives the application; but
   (b) before the relevant consent authority decides under section 95 of the Resource Management Act 1991 whether to notify the application.
-(4) A copy of a notice must be provided under subsection (1)(b) not later than 10 working days after the day on which the consent authority receives the notice.
+(4) A copy of a notice must be provided under subsection (1)﻿(b) not later than 10 working days after the day on which the consent authority receives the notice.
 (5) The trustees may, by written notice to a relevant consent authority,—
   (a) waive the right to be provided with a summary or copy of a notice under this section; and
   (b) state the scope of that waiver and the period it applies for.
@@ -484,7 +484,7 @@ The fee simple estate in Tunakawa vests in the trustees.
 ### 39 Koroki Kahukura ki Hinuera
 (1) The reservation of Koroki Kahukura ki Hinuera (being Horahora Gorge Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Koroki Kahukura ki Hinuera vests in the trustees.
-(3) Koroki Kahukura ki Hinuera is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Koroki Kahukura ki Hinuera is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Koroki Kahukura ki Hinuera Scenic Reserve.
 (5) The joint management body established by section 62 is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under section 26 of that Act.
 
@@ -498,7 +498,7 @@ The fee simple estate in Tunakawa vests in the trustees.
 ### 41 Te Reti
 (1) The reservation of Te Reti (being Te Reti Road Scenic Reserve) as a scenic reserve subject to the Reserves Act 1977 is revoked.
 (2) The fee simple estate in Te Reti vests in the trustees.
-(3) Te Reti is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)(a) of the Reserves Act 1977.
+(3) Te Reti is declared a reserve and classified as a scenic reserve for the purposes specified in section 19(1)﻿(a) of the Reserves Act 1977.
 (4) The reserve is named Te Reti Scenic Reserve.
 (5) The joint management body established by section 62 is the administering body of the reserve, and the Reserves Act 1977 applies to the reserve as if the reserve were vested in the body (as if the body were trustees) under section 26 of that Act.
 
@@ -678,7 +678,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 
 ### 61 Application of other enactments to reserve properties
 (1) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to a reserve property, despite sections 48A(6), 114(5), and 115(6) of that Act.
-(2) Sections 78(1)(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
+(2) Sections 78(1)﻿(a), 79 to 81, and 88 of the Reserves Act 1977 do not apply in relation to a reserve property.
 (3) If the reservation of a reserve property under this subpart is revoked under section 24 of the Reserves Act 1977 for all or part of the property, section 25(2) of that Act applies to the revocation, but not the rest of section 25 of that Act.
 (4) A reserve property is not a Crown protected area under the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008 despite anything in that Act.
 (5) A reserve property must not have a name assigned to it or have its name changed under section 16(10) of the Reserves Act 1977 without the written consent of the owners of the property, and section 16(10A) of that Act does not apply to the proposed name.
@@ -722,7 +722,7 @@ Each cultural redress property vested under this subpart is subject to, or has t
 (7) From the time of registration of the new owners under this section, the administering body—
   (a) is the entity stated to be the administering body in the consent given under subsection (4) by the Waipa District Council; and
   (b) holds the reserve land for the same reserve purposes as those for which it was held by the administering body immediately before the transfer.
-(8) If a new joint management body becomes the administering body, then section 62 (except for section 62(8)(a)) applies as if the reference in that section to the trustees is a reference to the new owners.
+(8) If a new joint management body becomes the administering body, then section 62 (except for section 62(8)﻿(a)) applies as if the reference in that section to the trustees is a reference to the new owners.
 (9) If the Waipa District Council becomes the administering body, the Reserves Act 1977 applies to the reserve land as if the reserve land were vested in the council under section 26 of that Act.
 (10) A transfer that complies with this section need not comply with any other requirements.
 
@@ -753,8 +753,8 @@ The owners of reserve land must not mortgage, or give a security interest in, th
     (iii) recognising and taking account of the importance of the land in providing both cultural and material support for Ngāti Koroki Kahukura.
 (5) No other provisions in Part 17 of Te Ture Whenua Maori Act 1993 nor any regulations made under section 338(15) of that Act apply to the Māori reservation properties except as follows:
   (a) the Maori Land Court has jurisdiction under section 338(8) of Te Ture Whenua Maori Act 1993 to amend the terms of the trust of a Maori reservation on application from the trustees, but must not amend or derogate from the terms in subsection (4); and
-  (b) on the recommendation of the Maori Land Court, the chief executive of Te Puni Kōkiri, by notice in the Gazette, may exclude from the Maori reservation any part of the land in the reservation or cancel the reservation in accordance with section 338(5)(a) or (b) of that Act.
-(6) Sections 18(1)(c), 18(1)(d), 19(1)(a), 20, 24, 26, 194, and 342 of Te Ture Whenua Maori Act 1993 apply to the Māori reservation properties as if the properties were Maori freehold land.
+  (b) on the recommendation of the Maori Land Court, the chief executive of Te Puni Kōkiri, by notice in the Gazette, may exclude from the Maori reservation any part of the land in the reservation or cancel the reservation in accordance with section 338(5)﻿(a) or (b) of that Act.
+(6) Sections 18(1)﻿(c), 18(1)﻿(d), 19(1)﻿(a), 20, 24, 26, 194, and 342 of Te Ture Whenua Maori Act 1993 apply to the Māori reservation properties as if the properties were Maori freehold land.
 (7) Section 108(9) of the Resource Management Act 1991 applies to the Māori reservation properties as if those properties were Maori land within the meaning of Te Ture Whenua Maori Act 1993.
 (8) Nothing in this section affects the rights and obligations of the grantee of the operating easement.
 
@@ -818,7 +818,7 @@ The Crown acknowledges—
     (iii) that the land is subject to Part 4A of the Conservation Act 1987; and
     (iv) that, despite subparagraph (iii), the land is not subject to section 24 of that Act; and
     (v) that the land is subject to section 11 of the Crown Minerals Act 1991.
-(4) The notification under subsection (3)(b)(iii) that the land is subject to Part 4A of the Conservation Act 1987 is to be treated as having been made in compliance with section 24D(1) of that Act.
+(4) The notification under subsection (3)﻿(b)﻿(iii) that the land is subject to Part 4A of the Conservation Act 1987 is to be treated as having been made in compliance with section 24D(1) of that Act.
 (5) Subsection (3) is subject to the completion of any survey necessary to create a computer freehold register.
 (6) The Director-General must make the application referred to in subsection (3) within 24 months after the settlement date or by any later date that may be agreed in writing by the Crown and the trustees.
 (7) Te Hapori o Maungatautari must not—
@@ -842,12 +842,12 @@ The Crown acknowledges—
     (iii) other statements related to the significance of Maungatautari Mountain Scenic Reserve that are contained in deeds of settlement entered into between the Crown and Ngāti Hauā, Raukawa, and Waikato-Tainui or in any enactment giving effect to those deeds; and
     (iv) the Crown acknowledgements set out in section 70; and
   (b) exercise the power or carry out the function in a manner that—
-    (i) is not inconsistent with the matters specified in paragraph (a)(i) to (iv); and
+    (i) is not inconsistent with the matters specified in paragraph (a)﻿(i) to (iv); and
     (ii) does not compromise a known archaeological site, wāhi tapu, or wāhi tupuna or cause it to be destroyed, damaged, or modified.
-(5) A person to whom this subsection applies must, having exercised a power or carried out a function, make a written statement describing how the matters specified in subsection (4)(a)(i) to (iv) are reflected in the manner that the power was exercised or the function was carried out.
+(5) A person to whom this subsection applies must, having exercised a power or carried out a function, make a written statement describing how the matters specified in subsection (4)﻿(a)﻿(i) to (iv) are reflected in the manner that the power was exercised or the function was carried out.
 
 ### 75 Reserve status and management plan
-(1) Maungatautari Mountain Scenic Reserve is a scenic reserve for the purposes of section 19(1)(a) of the Reserves Act 1977.
+(1) Maungatautari Mountain Scenic Reserve is a scenic reserve for the purposes of section 19(1)﻿(a) of the Reserves Act 1977.
 (2) Subject to section 78(5), the reservation of Maungatautari Mountain Scenic Reserve as a reserve under the Reserves Act 1977 must not be revoked.
 (3) Despite subsection (1), the reserve classification of Maungatautari Mountain Scenic Reserve may be reclassified in accordance with section 24 of the Reserves Act 1977.
 (4) If the reserve classification of Maungatautari Mountain Scenic Reserve is reclassified in accordance with section 24 of the Reserves Act 1977,—
@@ -863,7 +863,7 @@ The Crown acknowledges—
   (a) exchange any land comprising the reserve or part of the reserve under section 15 of that Act; or
   (b) revoke the reservation of the land as a reserve under section 24 of that Act; or
   (c) vest the reserve in other persons under section 26 of that Act.
-(3) Despite subsection (2)(a), the Minister may authorise an exchange of land comprising part of the reserve in accordance with section 78.
+(3) Despite subsection (2)﻿(a), the Minister may authorise an exchange of land comprising part of the reserve in accordance with section 78.
 
 ### 77 Registration of instruments under Land Transfer Act 1952
 (1) The Registrar-General must not accept for registration an instrument that relates to the Maungatautari Mountain Scenic Reserve unless the instrument—
@@ -937,7 +937,7 @@ The Crown acknowledges—
   (c) the chairperson of the Raukawa Settlement Trust:
   (d) the chairperson of Te Arataura:
   (e) the mayor of the Waipa District Council.
-(4) If at any time any of the entities listed in subsection (3)(a) to (d) has more than 1 chairperson, only 1 of them may act as an authorised representative for that entity.
+(4) If at any time any of the entities listed in subsection (3)﻿(a) to (d) has more than 1 chairperson, only 1 of them may act as an authorised representative for that entity.
 (5) A deed, contract, or other instrument is to be taken as executed by the authorised representatives on behalf of Te Hapori o Maungatautari if—
   (a) the deed, contract, or other instrument is executed by—
     (i) the mayor of the Waipa District Council; and
@@ -1047,9 +1047,9 @@ In this section and sections 87 to 96, unless the context otherwise requires,—
 **Integrated river management plan and Upper Waikato River integrated management plan**
 
 ### 94 Application of provisions of components of integrated river management plan
-(1) The conservation and fisheries components of the integrated river management plan referred to in section 35(3)(a) and (b) respectively of the Waikato-Tainui Act may contain provisions that apply to the Waikato River to the extent that it is within the sub-catchment.
-(2) The Waikato Raupatu River Trust and the Waikato Regional Council may agree that the provisions of the regional council component of the integrated river management plan referred to in section 35(3)(c) of the Waikato-Tainui Act apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
-(3) The Waikato Raupatu River Trust and an agency that has agreed a component of the integrated river management plan referred to in section 35(3)(d) of the Waikato-Tainui Act may agree that provisions of the component apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
+(1) The conservation and fisheries components of the integrated river management plan referred to in section 35(3)﻿(a) and (b) respectively of the Waikato-Tainui Act may contain provisions that apply to the Waikato River to the extent that it is within the sub-catchment.
+(2) The Waikato Raupatu River Trust and the Waikato Regional Council may agree that the provisions of the regional council component of the integrated river management plan referred to in section 35(3)﻿(c) of the Waikato-Tainui Act apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
+(3) The Waikato Raupatu River Trust and an agency that has agreed a component of the integrated river management plan referred to in section 35(3)﻿(d) of the Waikato-Tainui Act may agree that provisions of the component apply to the Waikato River to the extent that it is within the sub-catchment, and those provisions apply according to the terms of the agreement.
 
 ### 95 Process for preparation of provisions that apply to Waikato River under section 94
 Provisions of components that, under section 94, apply to the Waikato River within the sub-catchment must be prepared in accordance with Schedule 7 of the Waikato-Tainui Act with any necessary modifications, including the modifications set out in section 96.
@@ -1077,8 +1077,8 @@ Provisions of components that, under section 94, apply to the Waikato River with
 
 ### 97 Iwi objectives for review of Waikato river vision and strategy
 (1) Ngāti Koroki Kahukura may formulate iwi objectives for the Waikato River for the purposes of—
-  (a) section 20(2)(a)(iv) of the Waikato-Tainui Act; and
-  (b) section 21(2)(a)(ii) of the 2010 Act.
+  (a) section 20(2)﻿(a)﻿(iv) of the Waikato-Tainui Act; and
+  (b) section 21(2)﻿(a)﻿(ii) of the 2010 Act.
 (2) If Ngāti Koroki Kahukura formulates iwi objectives, it must do so in accordance with this section.
 (3) The iwi objectives must be consistent with the overarching purposes specified in section 3 of the Waikato-Tainui Act and section 3 of the 2010 Act.
 (4) The trustees must make the iwi objectives available for inspection by the public at the offices of the Taumatawiwi Trust and provide copies to—
@@ -1173,7 +1173,7 @@ In this subpart and Schedule 4,—
       (ii) grant an easement over the land; or
       (iii) consent to an assignment of a lease, or to a sublease, of the land; or
       (iv) remove an improvement, a fixture, or a fitting from the land
-  - **expiry date** , in relation to an offer, means its expiry date under sections 108(2)(a) and 109
+  - **expiry date** , in relation to an offer, means its expiry date under sections 108(2)﻿(a) and 109
   - **notice** means a notice given under this subpart
   - **offer** means an offer by an RFR landowner, made in accordance with section 108, to dispose of RFR land to the trustees
   - **public work** has the meaning given in section 2 of the Public Works Act 1981
@@ -1195,7 +1195,7 @@ In this subpart and Schedule 4,—
     (i) vested in the Crown; or
     (ii) held in fee simple by the Crown; or
     (iii) a reserve vested in an administering body that derived title to the reserve from the Crown and that would, on the application of section 25 or 27 of the Reserves Act 1977, revest in the Crown; and
-  (b) any land obtained in exchange for a disposal of RFR land under section 119(1)(c) or 120.
+  (b) any land obtained in exchange for a disposal of RFR land under section 119(1)﻿(c) or 120.
 (2) RFR land does not include a commercial redress property.
 (3) Land ceases to be RFR land if—
   (a) the fee simple estate in the land transfers from the RFR landowner to—
@@ -1296,7 +1296,7 @@ An RFR landowner may dispose of RFR land in accordance with—
 
 ### 118 Disposal under certain legislation
 An RFR landowner may dispose of RFR land in accordance with—
-  (a) section 54(1)(d) of the Land Act 1948; or
+  (a) section 54(1)﻿(d) of the Land Act 1948; or
   (b) section 34, 43, or 44 of the Marine and Coastal Area (Takutai Moana) Act 2011; or
   (c) section 355(3) of the Resource Management Act 1991.
 
@@ -1304,8 +1304,8 @@ An RFR landowner may dispose of RFR land in accordance with—
 (1) An RFR landowner may dispose of RFR land in accordance with—
   (a) section 40(2) or (4) or 41 of the Public Works Act 1981 (including as applied by another enactment); or
   (b) section 52, 105(1), 106, 114(3), 117(7), or 119 of the Public Works Act 1981; or
-  (c) section 117(3)(a) of the Public Works Act 1981; or
-  (d) section 117(3)(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
+  (c) section 117(3)﻿(a) of the Public Works Act 1981; or
+  (d) section 117(3)﻿(b) of the Public Works Act 1981 if the land is disposed of to the owner of adjoining land; or
   (e) section 23(1) or (4), 24(4), or 26 of the New Zealand Railways Corporation Restructuring Act 1990.
 (2) To avoid doubt, RFR land may be disposed of by an order of the Maori Land Court under section 134 of Te Ture Whenua Maori Act 1993, after an application by an RFR landowner under section 41(e) of the Public Works Act 1981.
 
@@ -1334,7 +1334,7 @@ The Crown may dispose of RFR land—
     (i) prevents or limits an RFR landowner’s disposal of RFR land to the trustees; and
     (ii) the RFR landowner cannot satisfy by taking reasonable steps; and
   (c) the terms of a mortgage over, or security interest in, RFR land.
-(2) Reasonable steps, for the purposes of subsection (1)(b)(ii), do not include steps to promote the passing of an enactment.
+(2) Reasonable steps, for the purposes of subsection (1)﻿(b)﻿(ii), do not include steps to promote the passing of an enactment.
 
 **Notices about RFR land**
 
@@ -1509,7 +1509,7 @@ A notice by or to an RFR landowner or the trustees under subpart 2 of Part 3 mus
     (iv) sending it by electronic means such as email.
 
 ### 2 Use of electronic transmission
-Despite clause 1, a notice that must be given in writing and signed, as required by clause 1(a), may be given by electronic means provided the notice is given with an electronic signature that satisfies section 22(1)(a) and (b) of the Electronic Transactions Act 2002.
+Despite clause 1, a notice that must be given in writing and signed, as required by clause 1(a), may be given by electronic means provided the notice is given with an electronic signature that satisfies section 226(1)﻿(a) and (b) of the Contract and Commercial Law Act 2017.
 
 ### 3 Time when notice received
 (1) A notice is to be treated as having been received—
