@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -425,7 +425,7 @@ A person must not increase the opportunities for casino gambling.
 No compensation is payable by the Crown to any person for any loss or damage arising from the enactment or operation of sections 10 to 12.
 
 ### 14 Legality of gambling contracts
-(1) Every contract for, or relating to, illegal gambling is an illegal contract for the purposes of the Illegal Contracts Act 1970, and that Act applies accordingly.
+(1) Every contract for, or relating to, illegal gambling is an illegal contract for the purposes of subpart 5 of Part 2 of the Contract and Commercial Law Act 2017, and that subpart applies accordingly.
 (2) Gambling contracts authorised by or under this Act are enforceable at law.
 
 ### 15 Providing credit for gambling prohibited
@@ -1867,7 +1867,7 @@ A corporate society that mainly or wholly distributes net proceeds to the commun
   (a) as a specific amount:
   (b) as a percentage:
   (c) as an amount for each gaming machine.
-(4) A contract or other arrangement or obligation entered into by a corporate society, whether before or after the enactment of this Act, that does not comply with limits set under subsection (1) is an illegal contract for the purposes of the Illegal Contracts Act 1970.
+(4) A contract or other arrangement or obligation entered into by a corporate society, whether before or after the enactment of this Act, that does not comply with limits set under subsection (1) is an illegal contract for the purposes of subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 (5) A notice given under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (6) In this section, operating costs—
   (a) includes the following:
