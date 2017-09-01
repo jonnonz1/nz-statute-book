@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -924,7 +924,7 @@ In accordance with sections 76 to 83, the Disputes Tribunal established under se
 ### 84 General provisions relating to section 82 orders
 (1) An application under section 82(1) may be made at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
 (2) An order made under section 82(3)﻿(a) or (b) does not prevent proceedings being instituted or commenced under sections 79 to 86.
-(3) Nothing in section 82 or section 83 limits or affects the Illegal Contracts Act 1970.
+(3) Nothing in section 82 or section 83 limits or affects subpart 5 of Part 2 of the Contract and Commercial Law Act 2017.
 (4) For the purposes of sections 81 and 82, a reference to court includes a reference to the District Court and also, for the purposes of section 82, the Disputes Tribunal.
 (5) Nothing in section 82 or section 83 affects section 317 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
