@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -196,14 +196,14 @@ Subject to sections 4, 6, and 7, the Corporation may regulate its own procedure 
 (6) In this section the terms master, officer, and seaman have the same meanings as in the Shipping and Seamen Act 1952.
 
 ### 18 Carriage of goods
-(1) The provisions of the Carriage of Goods Act 1979, so far as they are applicable, shall apply with respect to the receipt, custody, carriage, and delivery of goods under this Act, and, in respect of such matters, the provisions of this Act shall be read subject to the provisions of that Act.
+(1) The provisions of subpart 1 of Part 5 of the Contract and Commercial Law Act 2017, so far as they are applicable, shall apply with respect to the receipt, custody, carriage, and delivery of goods under this Act, and, in respect of such matters, the provisions of this Act shall be read subject to the provisions of that subpart.
 (2) Nothing in subsection (1) shall limit or affect subsections (8) and (9) or section 20.
 (3) All goods received by the Corporation shall, subject to any conditions or regulations in that behalf, be deemed to be in the custody of the Corporation until delivered to the consignee.
-(4) No person shall be entitled to recover from the Corporation or any employee, or from any agent of the Corporation for the purposes of this Act, for any loss of or damage to or in connection with any goods any greater amount than that provided for in the Carriage of Goods Act 1979.
+(4) No person shall be entitled to recover from the Corporation or any employee, or from any agent of the Corporation for the purposes of this Act, for any loss of or damage to or in connection with any goods any greater amount than that provided for in subpart 1 of Part 5 of the Contract and Commercial Law Act 2017.
 (5) When any goods have been received by the Corporation for carriage, and the time during which the goods may, in accordance with any contract or under any terms and conditions imposed by the Corporation under section 111, remain on the premises of the Corporation has expired, then, notwithstanding anything in this Act, the Corporation shall be responsible only as a warehouseman for any loss of or damage to the goods that may occur between the time of the expiry and the time of their removal by the consignee or owner of the goods:
   provided that nothing in this Act shall impose on the Corporation any liability in respect of the goods left on the premises of the Corporation if, by virtue of any such terms and conditions, they are so left, or deemed to be so left, at the risk of the person leaving them.
 (6) The Corporation may make special agreements with any person for insuring any goods delivered upon the railway against all loss or damage from any cause whatever or for insuring the Corporation against all liability in respect of any such loss or damage; and, for the purposes of the premiums in respect of any such insurance, may increase or diminish the charges payable on the goods.
-(7) The Corporation may enter into any kind of contract for the carriage of goods described in section 8 of the Carriage of Goods Act 1979.
+(7) The Corporation may enter into any kind of contract for the carriage of goods described in section 248 of the Contract and Commercial Law Act 2017.
 (8) Every person who makes or procures to be made any false statement in regard to any goods delivered upon the railway (whether in respect of their nature, quantity, weight, measurement, value, or otherwise howsoever) in any consignment note, waybill, or other document delivered in respect of those goods, commits an offence and shall, in respect of each offence, be liable on conviction to imprisonment for a term not exceeding 6 months, or to a fine not exceeding $2,000.
 (9) If in any such document there is any understatement of the quantity, weight, measurement, or value of the goods, or any misdescription of their nature, which if undetected might lead to their being charged for at less than the proper rate, then, in lieu of charges at the ordinary rate, and irrespective of any person's liability under the last preceding subsection, and whether the understatement or misdescription is wilful or not, charges at a special rate to be fixed by the Corporation, not exceeding double the ordinary rate on the whole consignment, shall be payable in respect of the goods.
 
@@ -731,7 +731,7 @@ Notwithstanding the definition of Government service in section 2 of the Governm
   (h) the use by any vessel of any wharf, jetty, mooring, berthage, building, crane, or other appliance in connection with a railway; or
   (i) the loading or unloading of goods from or into lighters, into or from any vessel lying at or adjacent to any wharf, pier, jetty, berthage, or mooring in connection with a railway; or
   (j) the receipt or delivery of goods from or to any vessel lying at or adjacent to any such wharf, pier, jetty, berthage, or mooring; or
-  (k) insurance (in addition to any other charges payable) in respect of goods carried or to be carried pursuant to a contract for carriage at declared value risk (within the meaning of the Carriage of Goods Act 1979).
+  (k) insurance (in addition to any other charges payable) in respect of goods carried or to be carried pursuant to a contract for carriage at declared value risk (within the meaning of subpart 1 of Part 5 of the Contract and Commercial Law Act 2017).
 (2) Notwithstanding anything in subsection (1), the Corporation, or any employee duly authorised by it, may from time to time fix special charges to be paid in lieu of the ordinary ones upon special occasions, or for such times as it thinks fit; and it shall not be necessary to publish these special charges in the Gazette.
 (3) For the purpose of any scales of charges fixed under this section in the case of the demurrage of rolling stock at destination stations, consignees shall be deemed to have requested the demurrage.
 (4) The Corporation may, by notice in the Gazette, impose terms and conditions with respect to any of the matters mentioned in paragraphs (a) to (k) of subsection (1), including terms and conditions with respect to the conveyance of passengers and the terms and conditions on and subject to which goods will be received, held, carried, delivered, or otherwise dealt with:
