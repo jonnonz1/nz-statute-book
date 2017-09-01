@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -378,18 +378,18 @@ A person may opt in at any time provided—
 (1) A person who is less than 18 years may only opt in in accordance with this section.
 (2) A person who is less than 16 years may opt in if all their guardians contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
-  (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
+  (b) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017; and
   (c) opting in under section 34(1)﻿(a).
 (3) A person who is 16 or 17 years old with a guardian or a CYPFA guardian may opt in if the person and 1 of their guardians or CYPFA guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
-  (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
+  (b) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017; and
   (c) opting in under section 34(1)﻿(a).
 (4) A person who is 16 or 17 years old with no guardian may opt in if the person contracts directly with a provider. If the provider accepts the person, then the person is treated as—
-  (a) 18 years for the purposes of the Minors' Contracts Act 1969:
+  (a) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017:
   (b) opting in under section 34(1)﻿(a).
 (5) A person who is less than 16 years with a CYPFA guardian may opt in if the CYPFA guardian (independently from the person, and from all other, if any, CYPFA guardians, guardians, or both, of the person) contracts directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
-  (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
+  (b) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017; and
   (c) opting in under section 34(1)﻿(a).
 (6) If a person who is less than 16 years with a CYPFA guardian is a member of a KiwiSaver scheme (whether opted into before or while the CYPFA guardian's guardianship has effect), the CYPFA guardian has for the purposes of this Act authority (instead of all guardians, if any, of the person, and independently from the person, and from all other, if any, CYPFA guardians of the person) to make decisions (for example, voluntary transfer decisions), or to take other steps, in respect of the person's membership of the scheme.
 
@@ -2023,7 +2023,7 @@ Sections 14 to 14G of the Tax Administration Act 1994 apply when this Act requir
 (3) The person may use the methods set out in subsections (4) to (7) to give the notice, subject to any conditions described in those subsections.
 (4) The person may give the notice by personal delivery to an addressee who is not a corporate body.
 (5) The person may give the notice by personal delivery to an addressee that is a corporate body, if the personal delivery is made to the addressee’s office during working hours.
-(6) The person may give the notice by an electronic means of communication to the addressee, if the person complies with the Electronic Transactions Act 2002.
+(6) The person may give the notice by an electronic means of communication to the addressee, if the person complies with Part 4 of the Contract and Commercial Law Act 2017.
 (7) The person may give the notice by posting it—
   (a) to the street address of the addressee’s usual or last known place of residence; or
   (b) to the street address of any of the addressee’s usual or last known places of business; or
@@ -2031,7 +2031,7 @@ Sections 14 to 14G of the Tax Administration Act 1994 apply when this Act requir
 (8) A notice given by post is treated as having been given at the time it would have been delivered in the ordinary course of post.
 
 ### 219 Consent to electronic transactions
-(1) A person who gives his or her electronic address to any other person under this Act is treated as having consented to use, provide, or accept information in an electronic form for all of the purposes of this Act and the Electronic Transactions Act 2002.
+(1) A person who gives his or her electronic address to any other person under this Act is treated as having consented to use, provide, or accept information in an electronic form for all of the purposes of this Act and Part 4 of the Contract and Commercial Law Act 2017.
 (2) This section does not apply to the Commissioner of Inland Revenue or any employee or officer of the Inland Revenue Department.
 
 ### 220 Special rules about giving of product disclosure statements
