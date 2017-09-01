@@ -1,5 +1,5 @@
 # Contractual Remedies Act 1979
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to reform the law relating to remedies for misrepresentation and breach of contract
 
