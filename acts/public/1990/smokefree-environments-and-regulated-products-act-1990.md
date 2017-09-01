@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-09-01_
 
 > Title
 
@@ -544,7 +544,7 @@ Where any craft on which is displayed any tobacco product trade mark or the comp
   (b) compliance with it would limit or prevent compliance with section 28(1) or (2).
 (2) The arrangement may be a contract, or a legally binding or other agreement, undertaking, or understanding.
 (3) Subsection (2) does not limit subsection (1).
-(4) A person who is, or is claiming through or under, a party to the arrangement may (regardless of whether it is a contract) seek relief under the Illegal Contracts Act 1970 (which applies with the necessary modifications) as if compliance with the term were performance, in a way that gives rise to illegality, of a provision of a contract.
+(4) A person who is, or is claiming through or under, a party to the arrangement may (regardless of whether it is a contract) seek relief under subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 (which applies with the necessary modifications) as if compliance with the term were performance, in a way that gives rise to illegality, of a provision of a contract.
 
 ### 29 Tobacco product not to be advertised or labelled as suitable for chewing, etc
 (1) No person shall publish an advertisement for a tobacco product that directly or indirectly states or suggests that the product is suitable for chewing or for any other oral use (other than smoking).
