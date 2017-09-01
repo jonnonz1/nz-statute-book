@@ -1,5 +1,5 @@
 # Carriage of Goods Amendment Act 2013
-_Consolidation as at 2013-12-17_
+_Consolidation as at 2017-09-01_
 
 ### 1 Title
 This Act is the Carriage of Goods Amendment Act 2013.
