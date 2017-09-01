@@ -1,5 +1,5 @@
 # Contracts (Privity) Act 1982
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2017-09-01_
 
 > An Act to permit a person who is not a party to a deed or contract to enforce a promise made in it for the benefit of that person
 
@@ -53,7 +53,7 @@ Nothing in this Act prevents a promise to which section 4 applies or any obligat
 
 ### 7 Power of court to authorise variation or discharge
 (1) Where, in the case of a promise to which section 4 applies or of an obligation imposed by that section,—a court, on application by the promisor or promisee, may, if it is just and practicable to do so, make an order authorising the variation or discharge of the promise or obligation or both on such terms and conditions as the court thinks fit.
-  (a) the variation or discharge of that promise or obligation is precluded by section 5(1)(a); or
+  (a) the variation or discharge of that promise or obligation is precluded by section 5(1)﻿(a); or
   (b) it is uncertain whether the variation or discharge of that promise is so precluded,—
 (2) If a court—the court shall make it a condition of the variation or discharge that the promisor pay to the beneficiary, by way of compensation, such sum as the court thinks just.
   (a) makes an order under subsection (1); and
