@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2017-08-11_
+_Consolidation as at 2017-09-04_
 
 > Title
 
@@ -2247,10 +2247,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 ### Part 2 — Provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
 
 ### 9 Transitional provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
-(1) In this clause, commencement date means the day on which the Public Finance (Fiscal Responsibility) Amendment Act 2013 comes into force.
-(2) Section 26M(3)﻿(c) does not apply to a budget policy statement if the fiscal strategy report most recently presented to the House of Representatives was presented before the commencement date.
-(3) Section 26NA(2)﻿(d) does not apply to the first investment statement presented to the House of Representatives under section 26NA.
-(4) This Part is repealed 4 years after the commencement date.
+[Repealed]
 
 ## Schedule 2 — Enactments repealed
 
