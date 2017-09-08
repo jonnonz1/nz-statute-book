@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-09-08_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -34,6 +34,7 @@ _Consolidation as at 2017-09-01_
   - **aircraft** has the same meaning as in the Civil Aviation Act 1990
   - **Articles of Agreement** means an agreement between an employer and 1 or more seafarers setting out the terms and conditions of the seafarers’ employment
   - **Authority** means the authority continued by section 429
+  - **ballast water** has the meaning given to it in section 246A(1)
   - **commercial ship** means a ship that is not—
     (a) a pleasure craft; or
     (b) solely powered manually; or
@@ -2274,6 +2275,11 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
 (3) Where a ship is detained or sold under this section, the Crown, the Director, and the chief executive of the New Zealand Customs Service, or any person acting under their direction or authority under this section shall not be liable for any loss or damage arising directly or indirectly from the detention or sale of the ship unless it is proved to the satisfaction of a court that the person acted in bad faith.
 (4) The chief executive of the New Zealand Customs Service shall advise the Director of every ship detained pursuant to subsection (1) by the chief executive or by a person acting under the chief executive’s direction or authority.
 
+### 197A Regulations may impose ballast water management levy
+(1) The Governor-General may from time to time, by Order in Council, make regulations imposing a ballast water management levy on ships, as defined in section 246A(3)﻿(a), that discharge ballast water from outside New Zealand waters into New Zealand waters or the exclusive economic zone.
+(2) The purpose of the levy is to wholly or partly fund administration, inspection, and enforcement services relating to the control and management of ballast water.
+(3) Sections 191(3) to 197 apply with all necessary modifications to regulations made under this section.
+
 **Coastal shipping**
 
 ### 198 Coastal shipping
@@ -2653,10 +2659,10 @@ In this Part, unless the context otherwise requires,—
     (b) release of harmful substances for the purposes of legitimate scientific research into pollution abatement and control;—
   - **harmful substance** means any substance specified as a harmful substance for the purposes of this definition by the marine protection rules
   - **marine protection product** means—and includes anything that is specified as a marine protection product for the purposes of this definition by the marine protection rules
-    (a) anything that comprises, or is intended to comprise, any part of a ship, offshore installation, or pipeline, or that is or is intended to be installed on or fitted or supplied to a ship, offshore installation, or pipeline for the purpose of preventing, limiting, or controlling a discharge or the escape of a harmful substance, including (but not limited to)—
-      (i) any plant or equipment that treats or is intended to treat a harmful substance; and
-      (ii) any plant or equipment that monitors or is intended to monitor the discharge or escape of a harmful substance; and
-    (b) any substance used or intended to be used for the dispersal or emulsification of a harmful substance in the sea;—
+    (a) anything that comprises, or is intended to comprise, any part of a ship, offshore installation, or pipeline, or that is or is intended to be installed on or fitted or supplied to a ship, offshore installation, or pipeline for the purpose of preventing, limiting, or controlling a discharge or the escape of a harmful substance or ballast water, including (but not limited to)—
+      (i) any plant or equipment that treats or is intended to treat a harmful substance or ballast water; and
+      (ii) any plant or equipment that monitors or is intended to monitor the discharge or escape of a harmful substance or ballast water; and
+    (b) any substance used or intended to be used for the dispersal or emulsification of a harmful substance or ballast water in the sea;—
   - **MARPOL** means the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto; and includes any subsequent protocol or amendment to, or revision of, that convention accepted or ratified by New Zealand
   - **mining activity** means an activity carried out for, or in connection with,—
     (a) the identification of areas of the seabed likely to contain mineral deposits; or
@@ -2862,6 +2868,78 @@ Every person who commits an offence against section 240, 241, or 242A is liable 
   (b) makes default in the payment of any fine or other monetary penalty imposed by the court under section 244,—
 (2) Every agent of a ship who, under subsection (1), pays any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)﻿(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
 (3) Notwithstanding anything in the District Court Act 2016, the District Court shall have jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
+
+## Part 19A — Protection of marine environment from ballast water
+
+### 246A Meaning of ballast water, convention, and ship
+(1) Ballast water means water with its suspended matter taken on board a ship to control the ship's trim, list, draught, stability, or stresses.
+(2) Convention means the International Convention for the Control and Management of Ships' Ballast Water and Sediments, 2004, in—
+  (a) this section; and
+  (b) sections 271(2)﻿(ca), 272(1)﻿(aa), and 388(n).
+(3) Ship—
+  (a) means a ship within the meaning of the convention, in sections 197A, 246B to 246D, 271(2)﻿(ca), 388(n), 396(3)﻿(aa), 397(2)﻿(ca), and 397(3):
+  (b) includes a ship within the meaning of the convention, in sections 396(1)﻿(c) and (3)﻿(c) and 397(1) and (2)﻿(d) to (g).
+
+### 246B Discharge from ships
+(1) Ballast water may be discharged from a ship only in accordance with the applicable marine protection rules.
+(2) Subsection (1) applies to—
+  (a) a ship in—
+    (i) the territorial sea of New Zealand; or
+    (ii) the internal waters of New Zealand; or
+    (iii) the exclusive economic zone of New Zealand; and
+  (b) a ship that is a New Zealand ship in the sea beyond the outer limits of the exclusive economic zone of New Zealand.
+
+### 246C Offence
+(1) This section applies if ballast water is discharged from a ship in breach of section 246B.
+(2) The master or owner of the ship commits an offence.
+(3) A person who is not the master or owner of the ship and who causes intentional damage resulting in the discharge of the ballast water commits an offence.
+(4) A person who commits an offence under this section is liable to—
+  (a) imprisonment for a term not exceeding 2 years; or
+  (b) a fine or fines as follows:
+    (i) a fine not exceeding $200,000; and
+    (ii) if the offence is a continuing one, a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
+(5) Section 246 applies as if the reference to section 237 were a reference to this section.
+
+### 246D Defences
+(1) This section sets out defences to proceedings for an offence against section 246C.
+(2) The defendant has a defence if the defendant proves that the discharge—
+  (a) was for the purpose of saving life; and
+  (b) was a reasonable step to take to achieve the purpose.
+(3) The defendant has a defence if the defendant proves that the discharge—
+  (a) was for the purpose of securing the safety of a ship; and
+  (b) was a reasonable step to take to achieve the purpose.
+(4) The defendant has a defence if the defendant proves that—
+  (a) the ballast water escaped as a consequence of damage to—
+    (i) a ship or its equipment; or
+    (ii) apparatus other than a ship used in connection with marine operations; or
+    (iii) a pipeline; and
+  (b) the damage did not result from the defendant's negligence or deliberate act; and
+  (c) as soon as practicable after the damage occurred, all reasonable steps were taken—
+    (i) to prevent the escape; or
+    (ii) if the escape could not be prevented, to minimise the escape.
+
+### 246E Director's powers
+(1) The Director may investigate a discharge or escape of ballast water.
+(2) For the purposes of carrying out the investigation, the Director may—
+  (a) make inquiries of a person who the Director has reason to believe is in possession of information that may assist in establishing the cause of the discharge or escape:
+  (b) issue a summons requiring a person to—
+    (i) attend at the time and place specified in the summons:
+    (ii) give evidence:
+    (iii) produce documents or things in his or her possession or control that are relevant to the subject of the investigation:
+  (c) remove a document from the place where it is kept and take possession of it for a period of time that is reasonable in the circumstances:
+  (d) require a person to reproduce in a usable form information recorded or stored on a document, electronically or otherwise, or allow the Director to reproduce it:
+  (e) prohibit or restrict access by persons or classes of persons to the site of the discharge or escape to which the investigation relates, if the Director believes on reasonable grounds that prohibiting or restricting access is necessary to—
+    (i) preserve or record evidence; or
+    (ii) prevent any thing involved in the discharge or escape being tampered with, altered, mutilated, or destroyed:
+  (f) seize, detain, remove, preserve, protect, or test any thing that the Director believes on reasonable grounds may assist in establishing the cause of the discharge or escape.
+(3) The Director may authorise a person to carry out an action described in subsection (2).
+(4) Section 5 of the Commissions of Inquiry Act 1908 applies to a summons under this section.
+Definition for this section
+(5) In this section, document means a document in any form, electronic or otherwise.
+
+### 246F Person subject of exercise of Director's powers
+(1) A person required to do anything under section 246E(2) has the same privileges and immunities as a person giving evidence before a commission of inquiry has under section 6 of the Commissions of Inquiry Act 1908.
+(2) A person required to do anything under section 246E(2) who fails, without reasonable cause, to do it commits an offence and is liable to a fine not exceeding $1,000.
 
 ## Part 20 — Protection of marine environment from hazardous ships, structures, and offshore operations
 
@@ -3192,6 +3270,7 @@ Subject to section 267, every person who commits an offence against section 263 
   (a) the condition of the ship or marine protection product does not correspond substantially with the particulars of any document relating to the ship or marine protection product; or
   (b) the ship or marine protection product has been materially altered without the sanction of the State that issued or approved the document; or
   (c) the ship is not fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment; or
+  (ca) for a document issued under the convention, the ship cannot discharge ballast water without presenting a threat of harm to the environment, human health, property, or resources (convention and ship having the meanings given to them in section 246A(2) and (3)﻿(a)); or
   (d) any provision or condition of the document is not being met.
 (3) Sections 269, 270, 272, 273, 274, 275, 276, 277, 395, and 406(b) shall not apply to any document to which this section relates.
 (4) This section applies in respect of—
@@ -3202,6 +3281,7 @@ Subject to section 267, every person who commits an offence against section 263 
 ### 272 Suspension of marine protection documents or imposition of conditions
 (1) The Director may from time to time—if he or she considers such action necessary in the interests of protecting the marine environment and if he or she—
   (a) suspend any marine protection document issued by the Director under this Act, or under any marine protection rules, or impose conditions in respect of any such marine protection document; or
+  (aa) suspend the recognition by the Director as a marine protection document of any document issued under the convention, or impose conditions on recognition, if he or she considers the action necessary in the interests of protecting the environment, human health, property, or resources (convention having the meaning given to it in section 246A(2)); or
   (b) suspend the recognition by the Director as a marine protection document of any document issued by another person or organisation, or impose conditions in respect of such recognition,—
   (c) is satisfied that the holder fails or has failed to comply with any conditions of the relevant marine protection document; or
   (d) is satisfied that the holder has contravened or failed to comply with section 406; or
@@ -3251,8 +3331,8 @@ Subject to section 267, every person who commits an offence against section 263 
 ### 276 Criteria for action under section 272 or section 273
 (1) The provisions of this section shall apply for the purpose of determining whether a marine protection document, or recognition of a document as a marine protection document, should be suspended or made subject to conditions under section 272 or revoked under section 273.
 (2) Where this section applies, the Director may have regard to, and give such weight as the Director considers appropriate to, the following matters:
-  (a) the person’s compliance history with any regulatory requirements relating to protection of the sea from harmful substances and the person’s compliance history with the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances:
-  (b) any conviction for any offence related to the discharge of harmful substances into the sea, whether or not—
+  (a) the person’s compliance history with any regulatory requirements relating to protection of the sea from harmful substances or ballast water and the person’s compliance history with the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances:
+  (b) any conviction for any offence related to the discharge of harmful substances or ballast water into the sea, whether or not—
     (i) the conviction was in a New Zealand court; or
     (ii) the offence was committed before the commencement of this Act:
   (c) any conviction for any offence under the Resource Management Act 1991 or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012 in respect of the discharge of harmful substances.
@@ -4190,7 +4270,8 @@ The Minister may from time to time make marine protection rules for all or any o
     (v) records to be kept in respect of activities involving harmful substances or any specified harmful substance:
   (k) prescribing shipping exclusion zones and navigation and shipping lanes within the territorial sea of New Zealand:
   (l) prescribing the requirements and procedures for the discharge or escape of water produced from geologic formations by marine operations in the high seas:
-  (m) prescribing the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships.
+  (m) prescribing the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships:
+  (n) prescribing requirements and procedures relating to the control and management of ballast water for the purposes of the convention, including, but not limited to, provision for the Director to issue guidelines that allow for exemptions from the requirements and procedures for ships complying with the guidelines.
 
 ### 389 Marine protection rules in relation to waste or other matter
 (1) The Minister may from time to time make marine protection rules for all or any of the following purposes:
@@ -4289,18 +4370,23 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
     (iii) the prescribed requirements are clearly unreasonable or inappropriate in the particular case; or
     (iv) events have occurred that make the prescribed requirements unnecessary or inappropriate in the particular case; and
   (ba) the risk to safety will not be significantly increased by the granting of the exemption; and
-  (c) the risk of harm to the marine environment will not be significantly increased by the granting of the exemption.
+  (c) the granting of the exemption will not significantly increase the risk of harm,—
+    (i) for a marine protection rule on ballast water, to the environment, human health, property, or resources; or
+    (ii) for any other marine protection rule, to the marine environment.
 (3) The number and nature of exemptions granted under subsection (1) shall be notified as soon as practicable in the Gazette.
 (4) Nothing in this section shall apply in any case where any marine protection rule specifically provides that no exemptions are to be granted.
 
 ### 396 Inspections and audits
-(1) The Director may from time to time, in writing, require any person who—to undergo, or carry out, such inspections or audits, or both, as the Director considers necessary in the interests of protecting the marine environment from harm.
+(1) The Director may from time to time, in writing, require any person who—to undergo, or carry out, such inspections or audits, or both, as the Director considers necessary in the interests of protecting the marine environment from harm or protecting the environment, human health, property, or resources from harm from ballast water.
   (a) holds any marine protection document; or
   (b) is required to hold any marine protection document by this Act or any regulations or marine protection rules made under this Act; or
   (c) operates, maintains, or services, or does any other act in respect of any ship, marine protection product, offshore installation, pipeline, transfer or reception facility—
-(2) The Director may in respect of any person described in subsection (1) carry out such inspections or audits, or both, as the Director considers necessary in the interests of protecting the marine environment from harm.
+(2) The Director may in respect of any person described in subsection (1) carry out such inspections or audits, or both, as the Director considers necessary in the interests of protecting the marine environment from harm or protecting the environment, human health, property, or resources from harm from ballast water.
 (3) For the purposes of any inspection or audit carried out in respect of any person under subsection (2), the Director may, in writing,—
   (a) require that person to provide to the Director such information as the Director considers relevant to the inspection or audit:
+  (aa) for a ship, as defined in section 246A(3)﻿(a), require the person to—
+    (i) allow the Director to take a sample of the ship's ballast water:
+    (ii) demonstrate to the Director the familiarity of the master or crew with essential procedures for the prevention of harm to the environment, human health, property, or resources from ballast water:
   (b) require that person to demonstrate to the Director the familiarity of the master or crew with essential shipboard procedures for the prevention of marine pollution:
   (c) require that person to demonstrate to the Director that any operational, maintenance, or servicing procedure in respect of a ship or marine protection product is capable of being carried out in a competent manner.
 
@@ -4315,12 +4401,16 @@ The provisions of sections 446 to 452 apply in relation to marine protection rul
   (a) there is an existing discharge from the ship of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (b) there is likely to be a discharge from the ship of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
   (c) ships of a particular class are likely to give rise to a discharge of a harmful substance in breach of this Act, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012; or
+  (ca) in relation to ballast water, and ships as defined in section 246A(3)﻿(a),—
+    (i) there is an existing discharge from the ship of ballast water in breach of this Act; or
+    (ii) there is likely to be a discharge from the ship of ballast water in breach of this Act; or
+    (iii) ships of a particular class are likely to give rise to a discharge of ballast water in breach of this Act; or
   (d) there has not been issued in respect of the ship or the marine protection product, as the case may be, a marine protection document as required by this Act or any regulations or marine protection rules made under this Act; or
   (e) a marine protection document in respect of the ship or marine protection product, as the case may be, has expired; or
   (f) any provision or condition of a marine protection document in respect of the ship, or marine protection product, as the case may be, is not being met; or
   (g) the ship or the marine protection product presents an unreasonable threat of harm to the marine environment; or
   (h) any conditions imposed under paragraph (b) or paragraph (d) of subsection (1) have not been complied with.
-(3) The powers under subsection (1) may also be exercised where the Director believes on clear grounds that the master or crew are not familiar with essential shipboard procedures for the prevention of marine pollution.
+(3) The powers under subsection (1) may also be exercised where the Director believes on clear grounds that the master or crew are not familiar with essential shipboard procedures for the prevention of marine pollution or essential procedures on a ship, as defined in section 246A(3)﻿(a), for the prevention of harm to the environment, human health, property, or resources from ballast water.
 (4) Without limiting the generality of subsection (2), the Director may detain any ship to which section 232 applies if the owner of that ship has not provided a contract of insurance or other financial security in accordance with the provisions of that section.
 (5) Nothing in this section shall permit the Director to detain a foreign ship where that detention would constitute a breach of any marine protection convention.
 (6) Subject to subsections (7) and (8), any detention or seizure under subsection (1) shall be maintained for only such time as the grounds under subsection (2) which gave rise to the detention or seizure continue.
