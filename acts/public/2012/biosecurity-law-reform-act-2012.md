@@ -1,5 +1,5 @@
 # Biosecurity Law Reform Act 2012
-_Consolidation as at 2012-09-17_
+_Consolidation as at 2017-09-08_
 
 ### 1 Title
 This Act is the Biosecurity Law Reform Act 2012.
