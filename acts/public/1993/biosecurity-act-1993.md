@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-09-08_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -618,6 +618,8 @@ Cargo aggregator defined
     (ii) the place is not the port or destination notified (or, as the case may be, last notified) under section 17,—
   (b) shall prevent risk goods from leaving the craft without the permission of an inspector.
 (2) The person in charge of any such craft shall, if so required by an inspector, pay a bond for such amount not exceeding $10,000 as the inspector may require to secure due compliance with subsection (1)﻿(b).
+(3) The person is deemed to have an inspector's permission to discharge ballast water into New Zealand waters if the person has complied with rules made under section 388 of the Maritime Transport Act 1994.
+(4) In subsection (3), ballast water and New Zealand waters have the meanings given to them in the Maritime Transport Act 1994.
 
 ### 19 Persons in charge of certain craft to obey directions of inspector or authorised person
 (1) This section applies to a craft, and place in New Zealand, if—
