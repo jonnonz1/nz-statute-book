@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-14_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -2138,15 +2138,7 @@ Nothing in sections 17(2), 23, 150, 165, 166, and 194 to 204 affects the operati
 (2) Any regulations made under section 243, this section, or section 245 may prescribe, or provide for the Commissioner to determine, different or additional procedures, requirements, or matters in relation to different classes of applications, requests, notices, or other matters.
 
 ### 245 Regulations providing for transitional matters and orderly implementation of Act
-(1) The Governor-General may, by Order in Council, make regulations—
-  (a) prescribing transitional and savings provisions concerning the coming into force of this Act, which may be in addition to or in place of the transitional and savings provisions of this Part:
-  (b) providing that, subject to any conditions specified in the regulations, during a specified transitional period—
-    (i) specified provisions of this Act or the Patents Act 1953 (including definitions) do not apply (or apply with modifications or additions or both):
-    (ii) specified provisions repealed, amended, or revoked by this Act continue to apply (or apply with modifications or additions or both):
-  (c) providing for any other matters necessary for facilitating or ensuring an orderly implementation of this Act.
-(2) On the close of the day that is 3 years after the commencement of Part 3, this section is repealed and any regulations made under it that are still in force are revoked (except that those regulations continue to apply, as if not revoked, for the purposes of—
-  (a) a patent application to which the regulations applied immediately before that revocation; and
-  (b) the bringing and completion of any application, request, notice, or other proceeding relating to the patent application, whether commenced before or after that revocation).
+[Repealed]
 
 ### 246 Orders in Council as to convention countries
 For the purpose of giving effect to any international agreement or arrangement to which New Zealand is a party or that applies to New Zealand, the Governor-General may, by Order in Council, declare that any entity specified in the order that is a party to the agreement or arrangement or to which the agreement or arrangement applies (whether a State, part of a State, a territory for whose international relations a State is responsible, a political union, an international organisation, or any other entity) is, for the purposes of all or any of the provisions of this Act, a convention country.
@@ -2288,11 +2280,7 @@ Any reference to the Commissioner, the Journal, or the Patent Office in a provis
 (2) The persons holding office as the Commissioner and Assistant Commissioners under the Designs Act 1953 continue to hold those offices despite the repeal and substitution of sections 3 and 4 of that Act.
 
 ### 267 Transitional power for Commissioner
-(1) The Commissioner may, for the purpose of facilitating the transition from the Patents Act 1953 to this Act, do any of the following in connection with a patent application, other application, notice, or request originally made under the Patents Act 1953 and to which this Act now applies:
-  (a) exempt a person (on the terms and conditions (if any) that the Commissioner thinks fit) from any statutory requirement that applied or now applies to the application, notice, or request:
-  (b) give a person additional time to comply with a statutory requirement in respect of the application, notice, or request that previously did not apply.
-(2) In this section, statutory requirement means a requirement under the Patents Act 1953 or this Act, or under any regulations, orders, directions, or other matters made under either Act.
-(3) This section expires on close of the day that is 3 years after the commencement of this section.
+[Repealed]
 
 ## Part 6 — Joint registration regime with Australia for patent attorneys
 
