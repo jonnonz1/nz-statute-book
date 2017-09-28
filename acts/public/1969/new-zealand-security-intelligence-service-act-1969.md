@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Act 1969
-_Consolidation as at 2017-04-01_
+_Consolidation as at 2017-09-28_
 
 > An Act to make better provision for the New Zealand Security Intelligence Service
 
