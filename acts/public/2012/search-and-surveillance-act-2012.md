@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -309,12 +309,12 @@ A constable conducting a search of a place or vehicle under section 20 may, with
   (b) the Misuse of Drugs Act 1975:
   (c) the Criminal Procedure Act 2011.
 
-### Subpart 8 — Warrantless powers in relation to offences against section 78 of Crimes Act 1961
+### Subpart 8 — Warrantless powers in relation to offences against section 78 or 78AA of Crimes Act 1961
 
-### 25 Warrantless searches if offence against section 78 of Crimes Act 1961 suspected
+### 25 Warrantless searches if offence against section 78 or 78AA of Crimes Act 1961 suspected
 (1) A constable may, without a warrant, carry out a search in the circumstances set out in subsection (2).
 (2) The circumstances are that there are reasonable grounds—
-  (a) to suspect that an offence against section 78 of the Crimes Act 1961 has been, is being, or will be committed and that the case is one of great urgency and requires immediate action; and
+  (a) to suspect that an offence against section 78 or 78AA of the Crimes Act 1961 has been, is being, or will be committed and that the case is one of great urgency and requires immediate action; and
   (b) to believe that there is evidence in any place, or in or on any vehicle or other thing, as to the commission of that offence or evidence of a thing that is intended to be used for the purpose of committing that offence.
 
 ### Subpart 9 — Warrantless powers in relation to offences against section 202A of Crimes Act 1961
@@ -514,9 +514,7 @@ Nothing in this Part affects the common law defence of necessity as it applies t
     (i) being lawfully in private premises; and
     (ii) recording what he or she observes or hears there (provided that the enforcement officer records only those matters that he or she could see or hear without the use of a surveillance device):
   (b) covert audio recording of a voluntary oral communication between 2 or more persons made with the consent of at least 1 of them:
-  (c) activities carried out under the authority of an interception warrant issued under—
-    (i) section 4A(1) or (2), 4IB(1) or (2), or 4ID(1) of the New Zealand Security Intelligence Service Act 1969; or
-    (ii) section 15A(1)﻿(a) of the Government Communications Security Bureau Act 2003:
+  (c) activities carried out under an authorisation issued under Part 4 of the Intelligence and Security Act 2017:
   (d) activities carried out by the enforcement officer's use of a surveillance device, if that use is authorised under any enactment other than this Act.
 (2) Subsection (1)﻿(b) does not prevent an enforcement officer from applying for a warrant authorising covert audio recording in the circumstances set out in that subsection.
 
