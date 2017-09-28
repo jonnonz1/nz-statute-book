@@ -1,5 +1,5 @@
 # Inspector-General of Intelligence and Security Amendment Act 2013
-_Consolidation as at 2013-08-26_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Inspector-General of Intelligence and Security Amendment Act 2013.
@@ -37,9 +37,9 @@ Replace section 5 and the cross-heading above section 5 with:Inspector-General a
 (2) In section 6(2) and (3), after Inspector-General, insert or Deputy Inspector-General in each place.
 
 ### 7 Section 11 amended (Functions of Inspector-General)
-(1) After section 11(1)(b), insert:.
+(1) After section 11(1)﻿(b), insert:.
   (ba) to inquire into any complaint made by the Speaker of the House of Representatives on behalf of 1 or more members of Parliament:
-(2) Replace section 11(1)(c), (d), and (da) with:.
+(2) Replace section 11(1)﻿(c), (d), and (da) with:.
   (c) to inquire at the request of the Minister or the Prime Minister or of the Inspector-General's own motion into any matter where it appears that a New Zealand person has been or may be adversely affected by any act, omission, practice, policy, or procedure of an intelligence and security agency:
   (ca) to inquire at the request of the Minister or the Prime Minister or of the Inspector-General's own motion into the propriety of particular activities of an intelligence and security agency:
   (d) without limiting paragraph (a), to review at intervals of not more than 12 months—
@@ -51,7 +51,7 @@ Replace section 5 and the cross-heading above section 5 with:Inspector-General a
       (D) legal compliance generally:
   (da) to conduct unscheduled audits of the procedures and compliance systems described in paragraph (d):
 (3) Repeal section 11(2).
-(4) In section 11(3), replace (1)(c)(ii) with (1)(ca).
+(4) In section 11(3), replace (1)﻿(c)﻿(ii) with (1)﻿(ca).
 
 ### 8 Section 12 amended (Consultation)
 Replace section 12(2) with:
@@ -90,7 +90,7 @@ After section 15, insert:Advisory panelAdvisory panel establishedFunction of adv
     (b) may from time to time be reappointed; and
     (c) may at any time resign office by notice in writing to the Prime Minister; and
     (d) may be removed from office by notice in writing from the Prime Minister for misconduct, inability to perform the functions of office, or neglect of duty.
-  (1) A member of the advisory panel appointed under section 15C(1)(a) is entitled—
+  (1) A member of the advisory panel appointed under section 15C(1)﻿(a) is entitled—
     (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
     (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
   (2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
@@ -132,7 +132,7 @@ After section 25, insert:Publication of Inspector-General's reports under sectio
 In section 26(1), after Act, the Inspector-General, insert and an appointed member of the advisory panel.
 
 ### 15 Section 27 amended (Reports by Inspector-General)
-(1) After section 27(2)(b), insert:.
+(1) After section 27(2)﻿(b), insert:.
   (ba) certify the extent to which each intelligence and security agency's compliance systems are sound; and
 (2) In section 27(3), replace lay a copy of the report before with present a copy of the report to.
 (3) In section 27(4) and (6), replace laid before with presented to.
