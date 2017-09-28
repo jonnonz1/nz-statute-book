@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2017-07-27_
+_Consolidation as at 2017-09-28_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -135,9 +135,9 @@ Nothing in section 13 shall permit an Ombudsman to investigate any decision or r
 (3) If the Ombudsman determines that the complaint should be dealt with, in whole or in part, under the Health and Disability Commissioner Act 1994, the Ombudsman shall forthwith refer the complaint or, as the case requires, the appropriate part of the complaint to the Health and Disability Commissioner to be dealt with accordingly, and shall notify the complainant of the action that has been taken.
 
 ### 17C Referral of complaint to Inspector-General of Intelligence and Security
-(1) Where, on receiving a complaint under this Act, an Ombudsman considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of the Inspector-General of Intelligence and Security holding office under section 5 of the Inspector-General of Intelligence and Security Act 1996, the Ombudsman shall forthwith consult with the Inspector-General of Intelligence and Security in order to determine the appropriate means of dealing with the complaint.
+(1) Where, on receiving a complaint under this Act, an Ombudsman considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of the Inspector-General of Intelligence and Security holding office under section 157 of the Intelligence and Security Act 2017, the Ombudsman shall forthwith consult with the Inspector-General of Intelligence and Security in order to determine the appropriate means of dealing with the complaint.
 (2) As soon as practicable after consulting with the Inspector-General of Intelligence and Security under subsection (1), the Ombudsman shall determine whether the complaint should be dealt with, in whole or in part, under this Act.
-(3) If the Ombudsman determines that the complaint should be dealt with, in whole or in part, under the Inspector-General of Intelligence and Security Act 1996, the Ombudsman shall forthwith refer the complaint or, as the case requires, the appropriate part of the complaint to the Inspector-General of Intelligence and Security to be dealt with accordingly, and shall notify the complainant of the action that has been taken.
+(3) If the Ombudsman determines that the complaint should be dealt with, in whole or in part, under subpart 1 of Part 6 of the Intelligence and Security Act 2017, the Ombudsman shall forthwith refer the complaint or, as the case requires, the appropriate part of the complaint to the Inspector-General of Intelligence and Security to be dealt with accordingly, and shall notify the complainant of the action that has been taken.
 
 ### 18 Proceedings of Ombudsmen
 (1) Before investigating any matter under this Act, an Ombudsman shall inform the chief executive of the department affected, or, as the case may require, the chief executive of the organisation affected, of his intention to make the investigation.
@@ -205,7 +205,7 @@ Notwithstanding anything in section 21, an Ombudsman may from time to time under
   (c) in relation to any matter that is within the jurisdiction of the Health and Disability Commissioner, whether or not the matter arises out of a particular complaint made under this Act,—
 
 ### 21C Consultation with Inspector-General of Intelligence and Security
-Notwithstanding anything in section 21, an Ombudsman may from time to time undertake consultation with the Inspector-General of Intelligence and Security holding office under section 5 of the Inspector-General of Intelligence and Security Act 1996 in relation to any matter relating to the functions of the Ombudsman, including (without limitation) consultation—and for the purposes of any such consultation, an Ombudsman may disclose to the Inspector-General of Intelligence and Security such information as the Ombudsman considers necessary for that purpose.
+Notwithstanding anything in section 21, an Ombudsman may from time to time undertake consultation with the Inspector-General of Intelligence and Security holding office under section 157 of the Intelligence and Security Act 2017 in relation to any matter relating to the functions of the Ombudsman, including (without limitation) consultation—and for the purposes of any such consultation, an Ombudsman may disclose to the Inspector-General of Intelligence and Security such information as the Ombudsman considers necessary for that purpose.
   (a) for the purposes of making a determination under section 17C:
   (b) in relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
   (c) in relation to any matter that is within the jurisdiction of the Inspector-General of Intelligence and Security, whether or not the matter arises out of a particular complaint made under this Act,—
@@ -248,9 +248,9 @@ No proceeding of an Ombudsman shall be held bad for want of form, and, except on
   (a) no proceedings, civil or criminal, shall lie against any Ombudsman, or against any person holding any office or appointment under the Chief Ombudsman, for anything he may do or report or say in the course of the exercise or intended exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures Act 2000, unless it is shown that he acted in bad faith:
   (b) no Ombudsman, and no such person as aforesaid, shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his knowledge in the exercise of his functions under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures Act 2000.
 (2) Nothing in subsection (1) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 (3) Anything said or any information supplied or any document, paper, or thing produced by any person in the course of any inquiry by or proceedings before an Ombudsman under this Act or the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987 or the Protected Disclosures Act 2000 shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 (4) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by an Ombudsman under this Act, or under the Official Information Act 1982, or under the Local Government Official Information and Meetings Act 1987, or under the Protected Disclosures Act 2000, shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
