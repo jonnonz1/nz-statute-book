@@ -1,5 +1,5 @@
 # New Zealand Business Number Act 2016
-_Consolidation as at 2016-04-15_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the New Zealand Business Number Act 2016.
@@ -58,7 +58,7 @@ In this Act, unless the context otherwise requires,—
     (b) a department under section 27A(1) and (2) of the State Sector Act 1988:
     (c) the New Zealand Defence Force:
     (d) the New Zealand Police:
-    (e) the New Zealand Security Intelligence Service:
+    (e)
     (f) the Parliamentary Counsel Office:
     (g) the Office of the Clerk of the House of Representatives:
     (h) the Parliamentary Service
