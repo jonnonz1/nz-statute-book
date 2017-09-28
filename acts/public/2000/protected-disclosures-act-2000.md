@@ -1,5 +1,5 @@
 # Protected Disclosures Act 2000
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Protected Disclosures Act 2000.
@@ -26,6 +26,7 @@ This Act comes into force on 1 January 2001.
     (d) does not include—
       (i) a Minister of the Crown; or
       (ii) a member of Parliament
+  - **classified information** has the meaning given to it by section 78AA of the Crimes Act 1961
   - **employee** , in relation to an organisation, includes—
     (a) a former employee:
     (b) a homeworker within the meaning of section 5 of the Employment Relations Act 2000:
@@ -35,7 +36,7 @@ This Act comes into force on 1 January 2001.
     (f) in relation to the New Zealand Defence Force, a member of the Armed Forces:
     (g) a person who works for the organisation as a volunteer without reward or expectation of reward for that work
   - **environment** has the meaning given to it by section 2 of the Environment Act 1986
-  - **intelligence and security agency** has the meaning given to it by section 2(1) of the Inspector-General of Intelligence and Security Act 1996
+  - **intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
   - **Ombudsman** means an Ombudsman holding office under the Ombudsmen Act 1975; and includes for the purposes of this Act except section 13—
     (a) any person holding office under an Ombudsman to whom any of the powers of an Ombudsman have been delegated under section 28 of that Act; and
     (b) any person whom the Chief Ombudsman has appointed to perform an Ombudsman's functions under this Act
@@ -81,7 +82,7 @@ The purpose of this Act is to promote the public interest—
   (c) the employee wishes to disclose the information so that the serious wrongdoing can be investigated; and
   (d) the employee wishes the disclosure to be protected.
 (2) Any disclosure made in accordance with subsection (1) is a protected disclosure of information for the purposes of this Act.
-(3) If an employee of an organisation believes on reasonable grounds that the information he or she discloses is about serious wrongdoing in or by that organisation but the belief is mistaken, the information must be treated as complying with subsection (1)(a) for the purposes of the protections conferred by this Act and by section 66(1)(a) of the Human Rights Act 1993.
+(3) If an employee of an organisation believes on reasonable grounds that the information he or she discloses is about serious wrongdoing in or by that organisation but the belief is mistaken, the information must be treated as complying with subsection (1)﻿(a) for the purposes of the protections conferred by this Act and by section 66(1)﻿(a) of the Human Rights Act 1993.
 (4) This section is subject to section 6A.
 
 ### 6A Technical failure to comply with or refer to Act
@@ -95,7 +96,7 @@ The purpose of this Act is to promote the public interest—
 (2) If an employee notifies the Office of the Ombudsmen, orally or in writing, that he or she has disclosed, or is considering the disclosure of, information under this Act, an Ombudsman must provide information and guidance to that employee on the following matters:
   (a) the kinds of disclosures that are protected under this Act:
   (b) the manner in which, and the persons to whom, information may be disclosed under this Act:
-  (c) the broad role of each authority referred to in paragraph (a)(i) to (x) of the definition of appropriate authority in section 3(1):
+  (c) the broad role of each authority referred to in paragraph (a)﻿(i) to (x) of the definition of appropriate authority in section 3(1):
   (d) the protections and remedies available under this Act and the Human Rights Act 1993 if the disclosure of information in accordance with this Act leads to victimisation of the person making the disclosure:
   (e) how particular information disclosed to an appropriate authority may be referred to another appropriate authority under this Act.
 
@@ -147,40 +148,45 @@ The purpose of this Act is to promote the public interest—
 
 **Intelligence and security and international relations**
 
-### 12 Special rules on procedures of intelligence and security agency
-The internal procedures of an intelligence and security agency must—
-  (a) provide that the persons to whom a disclosure may be made must be persons holding an appropriate security clearance and be authorised to have access to the information; and
-  (b) state that the only appropriate authority to whom information may be disclosed is the Inspector-General of Intelligence and Security; and
-  (c) invite any employee who has disclosed, or is considering the disclosure of, information under this Act to seek information and guidance from the Inspector-General of Intelligence and Security, and not from an Ombudsman; and
-  (d) state that no disclosure may be made to an Ombudsman, or to a Minister of the Crown other than—
-    (i) the Minister responsible for the relevant intelligence and security agency; or
+### 12 Special rules on procedures of organisations relating to intelligence and security matters
+(1) This section applies to—
+  (a) an intelligence and security agency; and
+  (b) any other organisation in the public sector that holds or has access to—
+    (i) classified information; or
+    (ii) information relating to the activities of an intelligence and security agency.
+(2) An organisation to which this section applies must have internal procedures that—
+  (a) provide that the persons to whom a disclosure of information described in subsection (1)﻿(b) may be made must be persons holding an appropriate security clearance and be authorised to have access to the information; and
+  (b) state that the only appropriate authority to whom information described in subsection (1)﻿(b) may be disclosed is the Inspector-General of Intelligence and Security; and
+  (c) invite any employee who has disclosed, or is considering the disclosure of, information described in subsection (1)﻿(b) under this Act to seek information and guidance from the Inspector-General of Intelligence and Security, and not from an Ombudsman; and
+  (d) state that no disclosure of information described in subsection (1)﻿(b) may be made to an Ombudsman or to a Minister of the Crown other than—
+    (i) the Minister responsible for an intelligence and security agency; or
     (ii) the Prime Minister.
 
-### 13 Special rules on procedures of certain organisations relating to international relations and intelligence and security
-The internal procedures of—must, insofar as they relate to the disclosure of information concerning the international relations of the Government of New Zealand or intelligence and security matters,—
+### 13 Special rules on procedures of certain organisations relating to international relations
+(1) This section applies to the internal procedures of the following agencies to the extent that those procedures relate to the disclosure of information (other than classified information) concerning the international relations of the Government of New Zealand:
   (a) the Department of the Prime Minister and Cabinet; and
   (b) the Ministry of Foreign Affairs and Trade; and
   (c) the Ministry of Defence; and
-  (d) the New Zealand Defence Force—
-  (e) provide that the persons to whom a disclosure may be made must be persons holding an appropriate security clearance and be authorised to have access to the information; and
-  (f) state that the only appropriate authority to whom information may be disclosed is an Ombudsman; and
-  (g) invite any employee who has disclosed, or is considering the disclosure of, information under this Act to seek information and guidance from an Ombudsman; and
-  (h) state that no disclosure may be made to a Minister of the Crown other than,—
-    (i) in the case of a disclosure relating to the international relations of the Government of New Zealand, either the Prime Minister or the Minister responsible for foreign affairs and trade; or
-    (ii) in the case of a disclosure relating to intelligence and security matters, either the Prime Minister or the Minister responsible for an intelligence and security agency.
+  (d) the New Zealand Defence Force.
+(2) The internal procedures must—
+  (a) state that the only appropriate authority to whom information may be disclosed is an Ombudsman; and
+  (b) invite any employee who has disclosed, or is considering the disclosure of, information under this Act to seek information and guidance from an Ombudsman; and
+  (c) state that no disclosure may be made to a Minister of the Crown other than—
+    (i) the Prime Minister; or
+    (ii) the Minister responsible for foreign affairs and trade.
 
 ### 14 Further protection of information relating to intelligence and security and international relations
-Neither the Inspector-General of Intelligence and Security nor an Ombudsman may disclose information referred to in section 12 or section 13 except in accordance with the provisions of the Inspector-General of Intelligence and Security Act 1996 or the Ombudsmen Act 1975, as the case may be.
+Neither the Inspector-General of Intelligence and Security nor an Ombudsman may disclose information referred to in section 12 or section 13 except in accordance with the provisions of subpart 1 of Part 6 of the Intelligence and Security Act 2017 or the Ombudsmen Act 1975, as the case may be.
 
 **Further provisions concerning Ombudsmen**
 
 ### 15 Ombudsmen may escalate disclosure to appropriate authority or Minister or investigate disclosure
 (1) An Ombudsman may, with the consent of an employee who has made a protected disclosure of information to any organisation, appropriate authority, or other person in accordance with this Act,—
-  (a) refer the disclosure to an appropriate authority or to another appropriate authority if the Ombudsman considers, after consultation with that appropriate authority, that any of the circumstances in section 9(1)(a) to (c) apply; or
-  (b) refer the disclosure to a Minister of the Crown if the Ombudsman considers, after consultation with that Minister, that any of the circumstances in section 10(1)(b)(i) to (iii) apply; or
+  (a) refer the disclosure to an appropriate authority or to another appropriate authority if the Ombudsman considers, after consultation with that appropriate authority, that any of the circumstances in section 9(1)﻿(a) to (c) apply; or
+  (b) refer the disclosure to a Minister of the Crown if the Ombudsman considers, after consultation with that Minister, that any of the circumstances in section 10(1)﻿(b)﻿(i) to (iii) apply; or
   (c) investigate the disclosure if the Ombudsman considers that—
     (i) the disclosure relates to a public sector organisation; and
-    (ii) any of the circumstances in section 9(1)(a) to (c) or section 10(1)(b)(i) to (iii) apply.
+    (ii) any of the circumstances in section 9(1)﻿(a) to (c) or section 10(1)﻿(b)﻿(i) to (iii) apply.
 (2) Subsection (1)—
   (a) applies despite sections 7 to 10:
   (b) does not authorise an Ombudsman to act if the protected disclosure of information is in respect of the Office of the Parliamentary Commissioner for the Environment.
@@ -194,7 +200,7 @@ Neither the Inspector-General of Intelligence and Security nor an Ombudsman may 
 ### 15A Ombudsmen may take over some investigations or investigate in conjunction with public sector organisation
 (1) An Ombudsman may take over an investigation of a disclosure of information by a public sector organisation, or investigate a disclosure of information in conjunction with a public sector organisation, if—
   (a) the disclosure is in respect of the public sector organisation; and
-  (b) the Ombudsman considers that any of the circumstances in section 10(1)(b)(i) to (iii) apply; and
+  (b) the Ombudsman considers that any of the circumstances in section 10(1)﻿(b)﻿(i) to (iii) apply; and
   (c) the employee who made the disclosure consents to the Ombudsman acting under this section; and
   (d) in the case of an investigation in conjunction with a public sector organisation, the public sector organisation consents to the Ombudsman acting under this section.
 (2) However, subsection (1) does not authorise an Ombudsman to act if the protected disclosure of information is in respect of the Office of the Parliamentary Commissioner for the Environment.
@@ -276,7 +282,7 @@ The Chief Ombudsman may, by written notice, appoint a person to perform an Ombud
 **Miscellaneous provisions**
 
 ### 20 False allegations
-The protections conferred by this Act and by section 66(1)(a) of the Human Rights Act 1993 do not apply where the person who makes a disclosure of information makes an allegation known to that person to be false or otherwise acts in bad faith.
+The protections conferred by this Act and by section 66(1)﻿(a) of the Human Rights Act 1993 do not apply where the person who makes a disclosure of information makes an allegation known to that person to be false or otherwise acts in bad faith.
 
 ### 21 Other protections preserved
 This Act does not limit any protection, privilege, immunity, or defence, whether statutory or otherwise, relating to the disclosure of information.
