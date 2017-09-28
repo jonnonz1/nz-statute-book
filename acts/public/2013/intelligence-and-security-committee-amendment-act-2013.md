@@ -1,5 +1,5 @@
 # Intelligence and Security Committee Amendment Act 2013
-_Consolidation as at 2013-08-26_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Intelligence and Security Committee Amendment Act 2013.
@@ -11,9 +11,9 @@ This Act comes into force on the day that is 1 month after the date on which it 
 This Act amends the Intelligence and Security Committee Act 1996 (the principal Act).
 
 ### 4 Section 6 amended (Functions of Committee)
-(1) After section 6(1)(a), insert:.
+(1) After section 6(1)﻿(a), insert:
   (ab) without limiting paragraph (a), to conduct an annual financial review of the performance of an intelligence and security agency in the previous financial year after the responsible Minister has submitted a copy of the agency's annual report to the Committee:
-(2) Replace section 6(1)(e) with:
+(2) Replace section 6(1)﻿(e) with:
   (e) subject to section 18,—
     (i) to present an annual report to the House of Representatives on the activities of the Committee; and
     (ii) to make an annual report publicly available on the Internet site of the New Zealand Parliament:
@@ -26,7 +26,7 @@ After section 7, insert:Further provisions relating to chairperson and Leader of
     (b) the Prime Minister is the responsible Minister under the legislation governing the intelligence security agency.
   (2) If the Prime Minister is chairing the meeting of the Committee at which the matter is discussed,—
     (a) the Prime Minister must not act as chairperson of the Committee; and
-    (b) another member of the Committee nominated by the Prime Minister, being one of the 2 members appointed under section 7(1)(c), must act as chairperson.
+    (b) another member of the Committee nominated by the Prime Minister, being one of the 2 members appointed under section 7(1)﻿(c), must act as chairperson.
   (3) The chairperson of the Committee may appoint either of the following (if not already a member of the Committee) to be an alternate chairperson to act as chairperson at the discretion of the chairperson in the absence of the chairperson at a meeting of the Committee:
     (a) the Deputy Prime Minister:
     (b) the Attorney-General.
@@ -34,7 +34,7 @@ After section 7, insert:Further provisions relating to chairperson and Leader of
 
 ### 6 Section 12 amended (Conduct of proceedings)
 After section 12(2), insert:
-  (2A) However, subsection (2) does not apply when the Committee is performing its function specified in section 6(1)(ab).
+  (2A) However, subsection (2) does not apply when the Committee is performing its function specified in section 6(1)﻿(ab).
 
 ### 7 Section 13 amended (Meetings of Committee)
 After section 13(6), insert:
@@ -45,7 +45,7 @@ In section 18(1), replace reporting with presenting an annual report or other re
 
 ### 9 New sections 21 to 27 and cross-heading inserted
 After section 20, insert:Periodic reviewsRequirement to hold periodic reviewsAppointment of reviewers and related mattersProvision of informationReport of reviewersRemuneration of reviewersProvision of administrative and other supportReviewers to determine own procedure
-  A review of the intelligence and security agencies, the legislation governing them, and their oversight legislation must, in accordance with the terms of reference specified under section 22(3)(a), be—
+  A review of the intelligence and security agencies, the legislation governing them, and their oversight legislation must, in accordance with the terms of reference specified under section 22(3)﻿(a), be—
     (a) commenced before 30 June 2015; and
     (b) afterwards, held at intervals not shorter than 5 years and not longer than 7 years.
   (1) A review under section 21 must be conducted by 2 persons (reviewers) appointed by the Attorney-General.
@@ -69,4 +69,4 @@ After section 20, insert:Periodic reviewsRequirement to hold periodic reviewsApp
   (2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
   (1) The Ministry of Justice is responsible for providing to the reviewers the administrative, secretarial, and other support necessary for the reviewers to conduct their review effectively and efficiently.
   (2) A person providing administrative, secretarial, or other support under subsection (1) must have an appropriate security clearance.
-  The reviewers may determine their own procedure subject to any matters specified under section 22(3)(b).
+  The reviewers may determine their own procedure subject to any matters specified under section 22(3)﻿(b).
