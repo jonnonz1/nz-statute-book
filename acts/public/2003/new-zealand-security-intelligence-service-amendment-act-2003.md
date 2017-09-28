@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Amendment Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 (1) This Act is the New Zealand Security Intelligence Service Amendment Act 2003.
