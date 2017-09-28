@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -125,6 +125,7 @@ This Act is the Corrections Act 2004.
     (b) a monitor; or
     (c) a security monitor; or
     (d) a Visiting Justice; or
+    (da) the Inspector-General of Intelligence and Security; or
     (e) an Ombudsman; or
     (f) the Commissioner for Children; or
     (g) the Health and Disability Commissioner; or
@@ -1664,16 +1665,23 @@ The chief executive must take all practicable steps to ensure that—
   (c) at the start of every outward prisoner call that is being or is to be monitored, the prisoner hears, and there is transmitted to the device to which the call is made, a message to the effect that the call may be monitored.
 
 ### 117 Authorised disclosure of information
+(1AAA) An authorised person may disclose a prisoner call only as provided in this section.
 (1) An authorised person may disclose a prisoner call for a purpose set out in section 112 as a purpose of monitoring prisoner calls.
 (2) An authorised person may disclose a prisoner call if the authorised person believes on reasonable grounds that the disclosure—
   (a) is necessary to avoid prejudice to the maintenance of the law by a public sector agency (within the meaning of the Privacy Act 1993), including the prevention, detection, investigation, prosecution, and punishment of offences; or
   (b) is necessary for the conduct of proceedings (already commenced or reasonably in contemplation) before a court or tribunal; or
-  (c) is necessary to prevent or lessen a serious and imminent threat to public health, public safety, or the life or health of any person; or
+  (c) is necessary to prevent or lessen a serious threat (as defined in section 2(1) of the Privacy Act 1993) to—
+    (i) public health or public safety; or
+    (ii) the life or health of any person; or
   (d) has been authorised by the Privacy Commissioner under section 54(1) of the Privacy Act 1993.
+(2A) An authorised person may disclose a prisoner call to an intelligence and security agency only if the authorised person believes, on reasonable grounds, that the disclosure is necessary to enable the agency to perform any of its functions under section 10, 11, 13, or 14 of the Intelligence and Security Act 2017.
 (3) An authorised person may disclose a prisoner call to the prisoner concerned.
 (4) An authorised person who is listening to a prisoner call may allow any eligible employee to listen to the call for the purpose of interpreting it.
 (5) An authorised person may allow any eligible employee to listen to a recording of a prisoner for the purpose of providing a transcript, a written translation, or both.
 (6) An authorised person may allow any eligible employee to read a transcript of a prisoner call for the purpose of providing a written translation.
+(7) In this section, intelligence and security agency means—
+  (a) the New Zealand Security Intelligence Service:
+  (b) the Government Communications Security Bureau.
 
 ### 118 Restrictions on disclosure of information
 (1) An authorised person must not knowingly disclose a prisoner call otherwise than under section 117 or in accordance with the Privacy Act 1993.
