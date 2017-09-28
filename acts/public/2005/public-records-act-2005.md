@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -99,7 +99,7 @@ In this Act, unless the context otherwise requires,—
       (vii) the Office of the Clerk of the House of Representatives; and
       (viii) the New Zealand Police; and
       (ix) the New Zealand Defence Force; and
-      (x) the New Zealand Security Intelligence Service; and
+      (x)
       (xa) the Approved Agency under the Harmful Digital Communications Act 2015, in its role under that Act; and
       (xi) any person or class of persons declared by an Order in Council made under section 5(1)﻿(a)﻿(i) to be a public office for the purposes of this Act
   - **public record** —
