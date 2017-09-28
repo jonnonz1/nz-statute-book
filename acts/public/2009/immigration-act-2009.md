@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -22,7 +22,9 @@ This Act is the Immigration Act 2009.
   (b) provides for the development of immigration instructions (which set rules and criteria for the grant of visas and entry permission) to meet objectives determined by the Minister, which may include objectives such as—
     (i) contributing to the New Zealand workforce through facilitating access to skills and labour; and
     (ii) supporting families; and
-  (c) allows for the management of the immigration aspects of border control, by setting requirements that apply to persons arriving in New Zealand or who are intending to arrive in New Zealand; and
+  (c) allows for the management of persons crossing the border by setting requirements that apply to—
+    (i) persons arriving, or intending to arrive, in New Zealand; and
+    (ii) persons departing, or intending to depart, from New Zealand; and
   (d) provides a process for implementing specified immigration-related international obligations; and
   (e) includes mechanisms to ensure that those who engage with the immigration system comply with its requirements, including mechanisms that—
     (i) enable immigration officers to gather information in relation to visa holders, employers, and education providers to determine compliance with obligations in respect of the system; and
@@ -45,7 +47,8 @@ In this Act, unless the context otherwise requires,—
     (d) the Deportation Review Tribunal
   - **approved system** means a system, including an electronic system, approved by the chief executive for the purpose of—
     (a) providing information to the chief executive under section 96; or
-    (b) notifying a person to whom section 96 applies of a decision of the chief executive under section 97
+    (b) giving notice under section 97(2) of a decision made under section 97(1); or
+    (c) giving notice under section 97A(3) of a decision made under section 97A(1)
   - **arrival hall** means a place licensed under section 12 of the Customs and Excise Act 1996 for the processing of persons arriving in New Zealand
   - **biometric information** , in relation to a person, means information that comprises—
     (a) 1 or more of the following kinds of personal information:
@@ -67,7 +70,7 @@ In this Act, unless the context otherwise requires,—
       (ii) any travel document issued by any international organisation for the time being specified by the Minister for the purpose of this definition
   - **chief executive** means—
     (a) the chief executive of the Department:
-    (b) when used in relation to a relevant agency, the chief executive of that agency (including, where appropriate, the Commissioner of Police, the Director of Security, the Chief of Defence Force, the General Manager of the Aviation Security Service, and the Director of the Government Communications Security Bureau)
+    (b) when used in relation to a relevant agency, the chief executive of that agency (including, where appropriate, the Commissioner of Police, the Chief of Defence Force, and the General Manager of the Aviation Security Service)
   - **claim** means a claim by a person in New Zealand for recognition, as the case may be, as—
     (a) a refugee in New Zealand under the Refugee Convention:
     (b) a protected person in New Zealand under the Convention Against Torture:
@@ -126,7 +129,7 @@ In this Act, unless the context otherwise requires,—
     (a) means—
       (i) a government department named in Schedule 1 of the State Sector Act 1988; or
       (ii) a Crown entity (within the meaning of section 7(1) of the Crown Entities Act 2004); and
-    (b) includes the New Zealand Police, the New Zealand Security Intelligence Service, and the Government Communications Security Bureau
+    (b) includes the New Zealand Police
   - **grant** , in relation to any visa, or entry permission, includes the situation where this Act or any regulations made under this Act deems a grant of the relevant visa, or entry permission, to occur
   - **holder** , in relation to a visa granted under this Act,—
     (a) means the person in respect of whom the visa is granted; but
@@ -207,6 +210,9 @@ In this Act, unless the context otherwise requires,—
     (a) by way of an application for review under the Judicial Review Procedure Act 2016; or
     (b) by way of an application for certiorari, mandamus, or prohibition; or
     (c) by way of an application for a declaratory judgment
+  - **scheduled international service** means a series of flights or voyages that are—
+    (a) performed by a craft for the transport of passengers, cargo, or mail between New Zealand and 1 or more points in any other country or territory, if the flights or voyages are so regular or frequent as to constitute a systematic service, whether or not in accordance with a published timetable; and
+    (b) operated in such a manner that each flight or voyage is open to use by members of the public
   - **security** —
     (a) means—
       (i) the defence of New Zealand:
@@ -335,7 +341,7 @@ In this Act, unless the context otherwise requires,—
   (a) on board the same craft; or
   (b) on board the same group of craft at the same time; or
   (c) on board the same group of craft and within such a time period or in such circumstances that each person arrived, or intended to arrive, in New Zealand as part of the group.
-(2) In subsection (1), craft does not include a craft travelling to New Zealand in the course of a scheduled international service (within the meaning of section 96(4)).
+(2) In subsection (1), craft does not include a craft travelling to New Zealand in the course of a scheduled international service.
 
 ### 10 Meaning of deported
 (1) For the purposes of this Act, a person is deported from a country if the person leaves the country (whether or not at the expense of the government of the country) and an order for the person's departure made by the government of the country, an authorised official of the country, or a judicial authority in the country, is in force.
@@ -597,7 +603,7 @@ A person who is unlawfully in New Zealand may not—
 (5) Where a decision to grant or refuse to grant a visa or entry permission, or to issue or refuse to issue an invitation to apply for a visa, is made by way of an automated electronic system, that decision must for all purposes be treated as a decision of an immigration officer who is authorised to make the decision under this Act.
 
 ### 29 Automated decision making in advance passenger processing
-The chief executive may make a decision under section 97(1) by means of an automated electronic system that analyses the information (if any) about a person that is held by the chief executive or to which the chief executive has access using criteria predetermined by the chief executive.
+The chief executive may make a decision under section 97(1) or 97A(1) by means of an automated electronic system that analyses the information (if any) about a person that is held by the chief executive or to which the chief executive has access using criteria predetermined by the chief executive.
 
 ### 29A Use of automated system to confirm New Zealand citizenship
 (1) An automated electronic system that applies criteria predetermined by the chief executive may be used, for the purposes of this Act, to confirm a person's status as a New Zealand citizen.
@@ -1305,29 +1311,26 @@ At any time before the transit period of a transit passenger expires, an immigra
 
 **Advance passenger processing**
 
-### 96 Responsibilities of carrier, and person in charge, of commercial craft before it departs from another country to travel to New Zealand
-(1) This section applies to a carrier, and a person in charge, of a commercial craft, if—
-  (a) the carrier or the person is notified by the chief executive that—
-    (i) the carrier or the person is a person of a kind who must comply with the responsibilities specified in subsection (2) before a craft in relation to which the carrier or the person is the carrier or the person in charge departs from another country to travel to New Zealand; or
-    (ii) the craft in relation to which the carrier or the person is the carrier or the person in charge is a craft of a kind in relation to which the carrier or the person must comply with the responsibilities specified in subsection (2) before the craft departs from another country to travel to New Zealand; and
-  (b) either—
-    (i) the craft is scheduled to travel to New Zealand in the course of a scheduled international service; or
-    (ii) it is proposed that the craft travel to New Zealand from another country.
-(2) The carrier or the person must, before the craft departs from another country to travel to New Zealand,—
-  (a) obtain from every person who intends to board the craft for the purpose of travelling to New Zealand the information prescribed for the purposes of this subsection:
-  (b) provide to the chief executive, by means of an approved system, the information prescribed for the purposes of this subsection.
-(3) The chief executive may, in writing, exempt a carrier or a person to whom this section applies from complying with some or all of the carrier's or the person's responsibilities under this section in all or any specified circumstances.
-(4) In this section, scheduled international service means a series of flights or voyages that are—
-  (a) performed by a craft for the transport of passengers, cargo, or mail between New Zealand and 1 or more points in any other country or territory, if the flights or voyages are so regular or frequent as to constitute a systematic service, whether or not in accordance with a published timetable; and
-  (b) operated in a manner where each flight or voyage is open to use by members of the public.
+### 96 Carrier, and person in charge, of commercial craft to provide advance passenger processing information before departure
+(1) This section applies to a carrier, and a person in charge, of a commercial craft if—
+  (a) one of the following applies:
+    (i) the craft is scheduled to travel to New Zealand in the course of a scheduled international service:
+    (ii) it is proposed that the craft travel to New Zealand from another country:
+    (iii) the craft is scheduled to travel from New Zealand in the course of a scheduled international service:
+    (iv) it is proposed that the craft travel from New Zealand to another country; and
+  (b) the chief executive has notified the carrier, or a person in charge, of the craft that the carrier or person in charge of the craft must comply with this section.
+(2) A carrier, or a person in charge, of a commercial craft must—
+  (a) obtain from every person who intends to board the craft for the purpose of travelling to, or from, New Zealand the advance passenger processing information prescribed for the purposes of this subsection; and
+  (b) provide that information to the chief executive, by means of an approved system, before the departure of the craft to travel to, or from, New Zealand.
+(3) The chief executive may, by notice in writing, in any specified circumstances, exempt a carrier, or person in charge, of a commercial craft from complying with some or all of the requirements under subsection (2).
 
-### 97 Chief executive may make decision about person boarding craft for purpose of travelling to New Zealand
-(1) The chief executive may decide that a person in relation to whom information has been received under section 96(2)—
-  (a) may board a craft for the purpose of travelling to New Zealand; or
-  (b) may not board a craft for the purpose of travelling to New Zealand; or
-  (c) may board a craft for the purpose of travelling to New Zealand only if he or she complies with conditions specified by the chief executive.
+### 97 Chief executive may make decision about person boarding commercial craft for purpose of travelling to New Zealand
+(1) The chief executive may decide that a person in relation to whom information has been received under section 96(2) and who intends to board a commercial craft for the purpose of travelling to New Zealand—
+  (a) may board the craft; or
+  (b) may not board the craft; or
+  (c) may board the craft only if he or she complies with conditions specified by the chief executive.
 (2) The chief executive—
-  (a) must notify a person to whom section 96 applies of a decision made under subsection (1); and
+  (a) must notify a carrier, or a person in charge, of a commercial craft from whom information has been received under section 96(2) of a decision made under subsection (1); and
   (b) may do so in any form he or she thinks appropriate, including, but not limited to, by means of an approved system, which may contain code that represents the outcome of the decision; and
   (c) may do so in any manner he or she thinks appropriate, including, but not limited to, by means of an automated electronic notification.
 (3) The chief executive—
@@ -1345,7 +1348,22 @@ At any time before the transit period of a transit passenger expires, an immigra
   (a) may not appeal the decision to any court, the Tribunal, the Minister, or otherwise:
   (b) may bring review proceedings in relation to the decision only on the grounds that he or she is a person in relation to whom that decision should not have been made because he or she is a person to whom subsection (3)﻿(b) applies.
 (5) The chief executive is not obliged to give reasons for a decision made under subsection (1) other than that subsection (1) applies, and section 23 of the Official Information Act 1982 does not apply in respect of the decision.
-(6) To avoid doubt, nothing in section 305 applies to the chief executive when he or she is notifying a carrier, or a person in charge, of a commercial craft to whom section 96 applies of a decision made under subsection (1).
+(6) Nothing in section 305 applies to the chief executive when he or she is giving a notification under subsection (2).
+
+### 97A Chief executive may make decision about person boarding commercial craft for purpose of travelling from New Zealand
+(1) The chief executive may decide that a person in relation to whom information has been received under section 96(2) and who intends to board a commercial craft for the purpose of travelling from New Zealand—
+  (a) may board the craft; or
+  (b) may not board the craft; or
+  (c) may board the craft only if he or she complies with conditions specified by the chief executive.
+(2) The chief executive may make a decision under subsection (1)﻿(b) or (c) only if the chief executive has reason to believe that the person is attempting to travel on—
+  (a) a lost, stolen, or invalid passport or certificate of identity; or
+  (b) a forged, false, fraudulently obtained, or improperly altered passport or certificate of identity; or
+  (c) a passport or certificate of identity that does not relate to that person.
+(3) The chief executive—
+  (a) must notify a carrier, or a person in charge, of a commercial craft from whom information has been received under section 96(2) of a decision made under subsection (1); and
+  (b) may do so in any form that he or she thinks appropriate, including, but not limited to, by means of an approved system, which may contain code that represents the outcome of the decision; and
+  (c) may do so in any manner that he or she thinks appropriate, including, but not limited to, by means of an automated electronic notification.
+(4) Nothing in section 305 applies to the chief executive when he or she is giving a notification under subsection (3).
 
 ### 98 Grant of entry permission outside New Zealand
 (1) An immigration officer may grant entry permission to a person outside New Zealand if the person—
@@ -1398,16 +1416,20 @@ At any time before the transit period of a transit passenger expires, an immigra
   (b) in the case of a commercial passenger aircraft on a scheduled international service, to supply such available information as may be required by an immigration officer relating to any person who may have been on board the craft since its last place of call.
 (3) Once a craft that is en route to New Zealand has entered the territorial limits of New Zealand, the person in charge of the craft is, for the purpose of ensuring or facilitating compliance with this Act, responsible for preventing, with such reasonable force as may be necessary, the disembarkation of any person from the craft other than for the purpose of carrying out the person’s responsibilities under section 103.
 (4) Subsections (1) to (3) are subject to any applicable special direction or to regulations made under section 400.
-(5) In this section, scheduled international service has the meaning given to it in section 96(4).
+(5)
 
 ### 102 Obligations of carriers, and persons in charge, of craft to provide information
 (1) The purpose of this section is to facilitate—
   (a) the exercise or performance of powers, functions, or duties under this Act:
   (b) the prevention, detection, investigation, prosecution, and punishment of immigration offences:
   (c) the protection of border security.
-(2) A person (being a carrier, or a person in charge, of a craft) to whom section 96 applies must provide the chief executive with the information prescribed for the purposes of this subsection about every person who intended to board the craft for the purpose of travelling to New Zealand, including persons who did not in fact board the craft for any reason (including because of a decision made by the chief executive under section 97).
-(3) The chief executive may, in writing, exempt a person to whom section 96 applies from providing some or all of the information required under subsection (2) in all or any specified circumstances.
-(4) A person granted an exemption under subsection (3) must, despite that exemption, comply with any request made by the chief executive, not more than 14 days before or after the arrival of a craft in New Zealand, for some or all of the information prescribed for the purposes of subsection (2).
+(2) A carrier, and a person in charge, of a commercial craft who is required under section 96 to provide information to the chief executive must also provide to the chief executive the information prescribed for the purposes of this section about every person who intends or intended to board the craft for the purpose of—
+  (a) travelling to New Zealand, including persons who did not board the craft for any reason (including because of a decision made by the chief executive under section 97); or
+  (b) travelling from New Zealand, including persons who did not board the craft for any reason (including because of a decision made by the chief executive under section 97A).
+(3) The chief executive may, by notice in writing, in any specified circumstances, exempt a carrier, or a person in charge, of a commercial craft from complying with some or all of the requirements under subsection (2).
+(4) Despite being granted an exemption, a carrier, or a person in charge, of a commercial craft must provide to the chief executive—
+  (a) some or all of the information required under subsection (2)﻿(a) if requested by the chief executive not more than 14 days before or after the arrival of the craft in New Zealand; or
+  (b) some or all of the information required under subsection (2)﻿(b) if requested by the chief executive not more than 14 days before or after the departure of the craft from New Zealand.
 (5) Information required under subsection (2) or (4) must be provided, or otherwise made available,—
   (a) in a form and manner approved by the chief executive; and
   (b) on the date, or at the time, specified by the chief executive; and
@@ -4024,7 +4046,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
     (i) is not a New Zealand citizen; and
     (ii) has previously travelled to New Zealand.
 (3) The chief executive of the Department may compare the information he or she receives with information that the Department holds about the person.
-(4) If the Department holds immigration information about the person, the chief executive of the Department may supply the information described in subsection (5) to an authorised officer under an agreement to which subsection (6) applies.
+(4) If the Department holds immigration information about the person, the chief executive of the Department may supply the information described in subsection (5) to an authorised officer under an agreement entered into in accordance with section 303C.
 (5) The information is—
   (a) the person's identifying information:
   (b) the person's previous convictions:
@@ -4036,20 +4058,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (h) the person's general history known to the Department (which may include information about associates and networks):
   (i) the person's past travel movements:
   (j) details of a visa held by the person.
-(6) The following provisions apply to an agreement:MakingContentsVaryingReviews and reports
-  (a) it must not be made until the chief executive of the Department has consulted the Privacy Commissioner about it:
-  (b) it must be made between the chief executive of the Department and the chief executive of the specified agency:
-  (c) it must be in writing:
-  (d) it must state the criteria for the disclosure under it of information by the Department to the specified agency:
-  (e) it must state the use that the specified agency may make of the information disclosed to it:
-  (f) it must—
-    (i) state that the specified agency must not disclose the information disclosed to it to any other agencies, bodies, or persons; or
-    (ii) state the other agencies, bodies, or persons to which the specified agency may disclose information disclosed to it, the extent to which the specified agency may disclose the information, and the conditions subject to which the specified agency may disclose the information:
-  (g) it may state the form in which the information may be disclosed:
-  (h) it may state the method by which the information may be disclosed:
-  (i) it may be varied:
-  (j) it must not be varied until the chief executive of the Department has consulted the Privacy Commissioner about the variation:
-  (k) it, and the arrangements for disclosure under it, must be the subject of reviews and reports to the Privacy Commissioner by the chief executive of the specified agency at intervals of no less than 12 months, if the Privacy Commissioner so requires.
+(6)
 (7) The chief executive of the specified agency must ensure that each annual report of the specified agency includes information about agreements between the chief executive of the specified agency and the chief executive of the Department under this section, including—
   (a) the number of agreements; and
   (b) an outline of each agreement; and
@@ -4077,6 +4086,84 @@ For the purposes of this Act, a constable has all the powers of an immigration o
     (c) the department of State responsible for the administration of the Biosecurity Act 1993:
     (d) the department of State responsible for the administration of the Corrections Act 2004:
     (e) the department of State responsible for the administration of the Customs and Excise Act 1996.
+
+### 303A Disclosure of information to specified agencies for purposes of law enforcement, counter-terrorism, and security
+(1) The purpose of this section is to enable the disclosure of information by the Department to a specified agency to allow that agency a longer period of time to—
+  (a) identify any person of interest who is intending to board a craft for the purpose of travelling from New Zealand; and
+  (b) perform any of its functions, or exercise any of its powers, in relation to an identified person of interest before that person departs from New Zealand.
+(2) For the purpose of this section, the chief executive of a specified agency may supply to the chief executive of the Department personal information about a person of interest.
+(3) The chief executive of the Department may compare the information received under subsection (2) about a person of interest with APP information that he or she holds.
+(4) If the chief executive of the Department holds APP information about the person of interest, he or she may, under an agreement entered into in accordance with section 303C,—
+  (a) notify the chief executive of the specified agency that the person of interest intends to board a craft for the purpose of travelling from New Zealand; and
+  (b) disclose to that chief executive—
+    (i) the APP information held by the chief executive of the Department about the person of interest; and
+    (ii) any other information held by the chief executive of the Department about the person’s intended travel (for example, when and where the person checked in).
+(5) In this section,—
+  - **APP information** means advance passenger processing information that the chief executive of the Department has received under section 96(2) about persons intending to board a craft for the purpose of travelling from New Zealand
+  - **chief executive of a specified agency** means the head of that specified agency
+  - **person of interest** means a person of interest to the chief executive of a specified agency because the chief executive believes on reasonable grounds that the person may attempt to leave New Zealand and that the person—
+    (a) poses a threat or risk to the security of New Zealand or another country because the person intends to engage in, or facilitate,—
+      (i) a terrorist act within the meaning of section 5 of the Terrorism Suppression Act 2002; or
+      (ii) the proliferation of weapons of mass destruction; or
+      (iii) any other unlawful activity designed or likely to cause serious economic damage to New Zealand, carried out for the purpose of commercial or economic gain; or
+    (b) is—
+      (i) a person under control or supervision (as defined in section 3(1) of the Corrections Act 2004); or
+      (ii) on bail with an electronic monitoring condition granted under section 30B of the Bail Act 2000; or
+      (iii) liable to be arrested (with or without a warrant) by an employee or agent of a specified agency; or
+      (iv) suspected of escaping from lawful custody; or
+      (v) suspected of being a perpetrator or victim of an offence under section 98D of the Crimes Act 1961 (trafficking in persons); or
+      (vi) suspected of being involved in the unlawful movement of illegal goods; or
+      (vii) a person who poses a risk, for any reason, to the safety of other passengers, the crew, or craft
+  - **personal information** , in relation to a person of interest, includes the following information:
+    (a) the person’s—
+      (i) full name; and
+      (ii) date of birth; and
+      (iii) place of birth; and
+      (iv) nationality; and
+      (v) gender; and
+    (b) the details specified in the person’s passport or certificate of identity, if known, including—
+      (i) the passport or certificate of identity number; and
+      (ii) the expiry date; and
+      (iii) the issuer of the person’s certificate of identity (if any), if it is not the person’s country of nationality
+  - **specified agency** means—
+    (a) the New Zealand Police:
+    (b) the department of State responsible for the administration of the Corrections Act 2004:
+    (c) the department of State responsible for the administration of the Customs and Excise Act 1996:
+    (d) the Civil Aviation Authority of New Zealand established under section 72A(1) of the Civil Aviation Act 1990.
+
+### 303B Direct access to information for purposes of law enforcement, counter-terrorism, and security
+(1) For the purpose of section 303A, the chief executive of the Department may allow the chief executive of a specified agency to access the APP information database or databases to search for information relating to a person of interest.
+(2) Before allowing the chief executive of a specified agency access to the APP information, the chief executive of the Department must enter into an agreement with the specified agency in accordance with section 303C.
+(3) The agreement must specify, in addition to the matters set out in section 303C(2)﻿(d) to (h),—
+  (a) the particular information that may be accessed:
+  (b) the particular purpose or purposes for which the information may be accessed:
+  (c) the positions or designations of the persons in the specified agency who may access the database or databases:
+  (d) the records to be kept in relation to each occasion on which a database is accessed:
+  (e) the safeguards that are to be applied for protecting personal information that is accessed:
+  (f) the requirements relating to storage and disposal of information obtained by the specified agency from the database:
+  (g) the requirements for reviewing the agreement.
+(4) In this section,—
+  - **access** , in relation to a database, includes remote access to the database
+  - **APP information** , , , and have the meanings given to them by section 303A(5)
+  - **APP information database** means the database of APP information
+  - **database** means any information recording system or facility used by the Department to store or process information.
+
+### 303C Requirements for agreements entered into under section 303, 303A, or 303B
+(1) This section applies to an agreement entered into under section 303, 303A, or 303B.
+(2) An agreement—MakingContentsVaryingReviews and reports
+  (a) must not be made until the chief executive of the Department has consulted the Privacy Commissioner:
+  (b) must be made between the chief executive of the Department and the chief executive of the specified agency:
+  (c) must be in writing:
+  (d) must state the criteria for the disclosure under it of information by the Department to the specified agency:
+  (e) must state the use that the specified agency may make of the information disclosed to it:
+  (f) must—
+    (i) state that the specified agency must not disclose the information disclosed to it to any other agencies, bodies, or persons; or
+    (ii) state the other agencies, bodies, or persons to which the specified agency may disclose information disclosed to it, the extent to which the specified agency may disclose the information, and the conditions subject to which the specified agency may disclose the information:
+  (g) may state the form in which the information may be disclosed:
+  (h) may state the method by which the information may be disclosed:
+  (i) may be varied:
+  (j) must not be varied until the chief executive of the Department has consulted the Privacy Commissioner:
+  (k) must, if the Privacy Commissioner requires, provide that the agreement, and the arrangements for disclosure under it, be the subject of reviews and reports to the Privacy Commissioner by the chief executive of the specified agency at intervals of no less than 12 months.
 
 ### 304 Disclosure of information to employers
 (1) The purpose of this section is to facilitate the disclosure of information by the Department to an employer to enable the employer to verify that a person is entitled under this Act to work in the employer’s service.
@@ -4739,8 +4826,9 @@ Every person commits an offence against this Act who, not being an immigration o
 ### 349 Offences relating to carriers, and persons in charge, of craft
 (1) Every carrier, or person in charge, of a commercial craft commits an offence who—
   (a) fails without reasonable excuse to comply with any of the carrier's or the person's responsibilities under section 96(2); or
-  (b) allows a person to travel to New Zealand before a decision has been made by the chief executive under section 97(1); or
+  (b) allows a person to travel to, or from, New Zealand before a decision has been made by the chief executive under section 97(1) or 97A(1); or
   (c) having been notified under section 97(2) of a decision made by the chief executive under section 97(1)﻿(b) or (c), without reasonable excuse fails to ensure that the person to whom the decision relates complies with it; or
+  (ca) having been notified under section 97A(3) of a decision made by the chief executive under section 97A(1)﻿(b) or (c), fails without reasonable excuse to ensure that the person to whom the decision relates complies with it; or
   (d) fails without reasonable excuse to comply with any of the carrier’s or the person’s obligations under section 102(2), (4), or (5).
   (e)
 (2) Every carrier, or person in charge, of a craft commits an offence who fails without reasonable excuse to comply with any of the requirements of—
@@ -4974,7 +5062,9 @@ An immigration officer may, by written notice served on the person to whom the i
   (20) the person is or is not an excluded person; or
   (21) the person travelled to New Zealand on a certain commercial craft at a certain time; or
   (22) the person did or did not travel to New Zealand before a decision was made by the chief executive under section 97(1); or
+  (22A) the person did or did not travel from New Zealand before a decision was made by the chief executive under section 97A(1); or
   (23) the person travelled to New Zealand contrary to a decision made by the chief executive under section 97(1)﻿(b) or (c); or
+  (23A) the person travelled from New Zealand contrary to a decision made by the chief executive under section 97A(1)﻿(b) or (c); or
   (24) the person did not provide, or otherwise make available, to the chief executive the information prescribed for the purposes of section 102(2); or
   (25) the person has or has not, at any material time,—
     (a) claimed to be a refugee in New Zealand or elsewhere; or
@@ -5504,7 +5594,7 @@ Without limiting section 400, regulations made under that section may—
 
 ### 402 Regulations relating to procedures and requirements in relation to arrivals in and departures from New Zealand
 Without limiting the generality of section 400, regulations made under that section may—
-  (a) prescribe the information that must be obtained for the purposes of section 96(2)﻿(a) from every person who intends to board a commercial craft for the purposes of travelling to New Zealand:
+  (a) prescribe the information that must be obtained for the purposes of section 96(2)﻿(a) from every person who intends to board a commercial craft for the purposes of travelling to or from New Zealand:
   (b) prescribe the information that must be provided to the chief executive for the purposes of section 96(2)﻿(b), which may include, without limitation,—
     (i) a description of the location of the information prescribed for the purposes of section 102(2); and
     (ii) if applicable, the electronic address for the information referred to in subparagraph (i):
