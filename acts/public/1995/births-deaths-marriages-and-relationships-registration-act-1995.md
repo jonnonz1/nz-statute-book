@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-09-28_
 
 > Title
 
@@ -51,7 +51,7 @@ In this Act, unless the context otherwise requires,—
     (b) containing registered death information;—
   - **death information** means information relating to a death; and, in relation to any death, means information relating to that death
   - **Deputy Registrar-General** means a Deputy Registrar-General appointed under section 80(1)
-  - **Director of Security** means the Director of Security holding office under the New Zealand Security Intelligence Service Act 1969
+  - **Director-General of an intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
   - **disposal** , includes burial and cremation; and has a corresponding meaning
   - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **doctor's certificate** , in relation to a death or a body, means a doctor's certificate referred to in sections 46B and 46C of the Burial and Cremation Act 1964 relating to the cause of death or, as the case may be, the cause of death of the person whose body it is
@@ -62,6 +62,7 @@ In this Act, unless the context otherwise requires,—
   - **former Adoption Act** means the Infants Act 1908 or the Maori Land Act 1931 or the Maori Affairs Act 1953 or any Act relating to the adoption of children that was repealed before 1 September 1995
   - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **index** includes part of an index
+  - **intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
   - **marriage** means a marriage solemnised under the Marriage Act 1955 or a former Act; and includes a service marriage
   - **marriage certificate** means a document—and, in relation to any marriage, means a marriage certificate containing registered marriage information relating to that marriage
     (a) issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
@@ -746,20 +747,20 @@ If the Registrar-General or a Registrar receives information that the parties to
       (A) a witness in any proceeding; or
       (B) an undercover Police officer:
     (ii) needs protection because of his or her relationship to a person who is, has been, or will be a witness in any proceeding:
-  (b) the Minister in charge of the New Zealand Security Intelligence Service, for the purpose of protecting a person who is, has been, or will be—
-    (i) an officer or employee of the New Zealand Security Intelligence Service; or
-    (ii) approved by the Director of Security to undertake activities for the New Zealand Security Intelligence Service.
-(2) The Minister may then direct the Registrar-General, in writing, to create new identity information for the person if the Minister is satisfied that it is—
-  (a) in the interests of justice that new identity information be created as a result of a request under subsection (1)﻿(a); or
-  (b) in the interests of security that new identity information be created as a result of a request under subsection (1)﻿(b).
+  (b) the Director-General of an intelligence and security agency, for the purpose of protecting the identity of a person who is, has been, or will be an employee.
+(2) The Minister may give a written direction to the Registrar-General to create new identity information for the person if,—
+  (a) on receiving a request under subsection (1)﻿(a), the Minister is satisfied that it is in the interests of justice that the new identity information be created; or
+  (b) on receiving a request under subsection (1)﻿(b), the Minister is satisfied, having regard to the matters set out in section 26(3) of the Intelligence and Security Act 2017 (which applies with any necessary modifications), that—
+    (i) the person will use the new identity information appropriately; and
+    (ii) it is otherwise appropriate to grant the request.
 (3) New identity information is created by the Registrar-General by omitting, amending, or inserting—
   (a) birth information, death information, marriage information, civil union information, or name change information (including, if necessary, the creation of other identities to support the person's new identity information); and
   (b) operational or administrative information as necessary, so that it supports the information described in paragraph (a).
 (4) The Registrar-General may omit, amend, or insert information in the birth information, death information, marriage information, civil union information, or name change information of a person for whom new identity information has been created if the Registrar-General receives notification that the new identity is no longer needed or has been compromised, from—
   (a) the Commissioner of Police in relation to new identity information created as a result of a request under subsection (1)﻿(a); or
-  (b) the Director of Security in relation to new identity information created as a result of a request under subsection (1)﻿(b).
+  (b) the Director-General of an intelligence and security agency in relation to new identity information created as the result of a request under subsection (1)﻿(b).
 (5) In this section,—
-  - **employee** and have the same meaning as in section 2 of the New Zealand Security Intelligence Service Act 1969
+  - **employee** has the meaning given to it by section 22 of the Intelligence and Security Act 2017
   - **undercover Police officer** means a person who is a member of the Police or a corresponding overseas law enforcement agency and whose identity is concealed for the purpose of an undercover investigation approved by the Commissioner of Police.
 
 ### 66 Birth certificates where error in birth registration corrected
@@ -902,7 +903,7 @@ In sections 74 to 75G,—
 (2) Sections 75A(2)﻿(b), 75B(2), and 75D(2) do not apply to a request made by any of the following persons under section 74 to access any information relating to the registration of a person’s birth, marriage, civil union, or name change:
   (a) a public sector agency that requires the information to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences):
   (b) a public sector agency to whom disclosure of the information is contemplated or authorised by any other enactment:
-  (c) the New Zealand Security Intelligence Service if it requires the information for the exercise of its security-related functions:
+  (c) an intelligence and security agency, if it requires the information for the performance of its functions:
   (d) the Police so they can notify next of kin of a person’s death.
 
 ### 75G Searches for purposes of gathering statistics, or for health, historical, or demographic research
@@ -1005,14 +1006,14 @@ In sections 74 to 75G,—
 (4) The Registrar-General may notify a government agency that has an interest in ensuring that people do not have more than 1 identity of the fact that section 65 applies to a person and provide details about the person, such as the person's date of birth, former name, and new name, to the agency.
 (5) However, the Registrar-General may do so only if he or she has the written approval of—
   (a) the Commissioner of Police, in the case of a new identity created as the result of a request made under section 65(1)﻿(a); or
-  (b) the Director of Security, in the case of a new identity created as the result of a request made under section 65(1)﻿(b).
+  (b) the Director-General of an intelligence and security agency, if the new identity was created as the result of a request made under section 65(1)﻿(b).
 (6) Subsections (7) and (8) apply if a person requests, under this Act, birth information, death information, marriage information, civil union information, or name change information of a person for whom a new identity has been created.
 (7) The Registrar-General must, as soon as practicable,—
   (a) cause the person who has the new identity to be notified that the information has been requested, if the Registrar-General has the person's latest contact details; and
   (b) also notify—
     (i) the Commissioner of Police, if the new identity was created as a result of a request under section 65(1)﻿(a); or
-    (ii) the Director of Security, if the new identity was created as a result of a request under section 65(1)﻿(b).
-(8) The Registrar-General may also inform the person who has the new identity and the Commissioner of Police or the Director of Security (whichever is notified under subsection (7)) of the following information:
+    (ii) the Director-General of an intelligence and security agency, if the new identity was created as the result of a request made under section 65(1)﻿(b).
+(8) The Registrar-General may also inform the person who has the new identity and the Commissioner of Police or the Director-General of the relevant intelligence and security agency (whichever is notified under subsection (7)) of the following information:
   (a) the date and time of the request:
   (b) the name, address, and contact details (if known) of the person who made the request:
   (c) the information requested:
