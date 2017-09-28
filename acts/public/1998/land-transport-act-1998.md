@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2017-09-28_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -803,9 +803,7 @@ If an enforcement officer, acting in the course of his or her official duties, b
     (i) is a Police employee or a person who is, has been, or may be a witness in any proceedings:
     (ii) needs protection because of his or her relationship to a person who is, has been, or may be a witness in any proceeding:
     (iii) needs protection because of his or her relationship to a Police employee:
-  (b) the Director of Security, for the purpose of protecting a person who is, has been, or will be—
-    (i) an employee or officer of the New Zealand Security Intelligence Service; or
-    (ii) approved by the Director of Security to undertake activities for the New Zealand Security Intelligence Service:
+  (b) the Director-General of an intelligence and security agency, for the purpose of protecting the identity of a person who is, has been, or will be an employee:
   (c) the chief executive, for the purpose of protecting a person who is, has been, or will be—
     (i) a fishery officer; or
     (ii) approved by the chief executive to undertake activities for the Ministry.
@@ -815,11 +813,13 @@ If an enforcement officer, acting in the course of his or her official duties, b
   (b) operational or administrative information as necessary, so that it supports the information described in paragraph (a).
 (4) The Agency may omit, amend, or add information as necessary if the Agency receives notification that the driver licence is no longer required, or has been compromised, from—
   (a) the Commissioner, in relation to the driver licence created as a result of a request under subsection (1)﻿(a); or
-  (b) the Director of Security, in relation to new identity information created as a result of a request under subsection (1)﻿(b); or
+  (b) the Director-General of an intelligence and security agency, in relation to new identity information created as the result of a request under subsection (1)﻿(b); or
   (c) the chief executive, in relation to the driver licence created as a result of a request under subsection (1)﻿(c).
 (5) In this section,—
   - **chief executive** , , and have the same meanings as in section 2(1) of the Fisheries Act 1996
-  - **Director of Security** , , and have the same meanings as in section 2(1) of the New Zealand Security Intelligence Service Act 1969
+  - **Director-General of an intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
+  - **employee** , in relation to an intelligence and security agency, has the meaning given to it by section 22 of the Intelligence and Security Act 2017
+  - **intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
   - **Police employee** means—
     (a) a person appointed under section 18 of the Policing Act 2008; or
     (b) a person—
@@ -4209,7 +4209,11 @@ The functions of the Minister under this Act are—
 (6) Information requested under subsection (4) may be given in writing or electronically or orally.
 
 ### 200 Restrictions on access to photographic images of driver licence holders
-(1) Except as provided in this section or Part 10A of the Privacy Act 1993, no person other than a person acting in the course of the person’s official duties as an employee of the agency may access or use any photographic image stored under section 28(5).
+(1) No person other than a person acting in the course of the person’s official duties as an employee of the Agency may access or use any photographic image stored under section 28(5).
+(1A) Subsection (1) is subject to—
+  (a) subsections (2), (3), and (4):
+  (b) section 141 of the Intelligence and Security Act 2017:
+  (c) Part 10A of the Privacy Act 1993.
 (2) A person who is acting in the course of the person’s official duties as an employee of the Department of Internal Affairs may access or use any photographic image stored under section 28(5) to verify the identity of a particular individual.
 (3) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
   (a) on production to the Agency of—
