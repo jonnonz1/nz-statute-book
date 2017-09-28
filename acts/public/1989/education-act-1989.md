@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-09-28_
 
 > An Act to reform the administration of education
 
@@ -8333,7 +8333,9 @@ In this Part,—
 Despite anything in this Part, a person may use or disclose his or her own national student number for any purpose.
 
 ### 346 Offences
-(1) An authorised user commits an offence, and is liable on conviction to a fine not exceeding $15,000, who uses or discloses a person's national student number otherwise than in accordance with the authorisations under section 344 that apply to that user.
+(1) An authorised user commits an offence, and is liable on conviction to a fine not exceeding $15,000, if the authorised user uses or discloses a person’s national student number otherwise than—
+  (a) in accordance with the authorisations under section 344 that apply to that user; or
+  (b) as required by section 141 of the Intelligence and Security Act 2017 (to the extent that a permission granted under section 137 or 138 of that Act permits the Director-General of an intelligence and security agency to access information relating to national student numbers).
 (2) A person (person A) who is not an authorised user commits an offence, and is liable on conviction to a fine not exceeding $15,000, who, without reasonable excuse, keeps a record of, or requires the disclosure of, the national student number of another person (person B) if the number is, or is capable by person A of being, linked to any information that may lead person A to the identification of person B.
 
 ### 347 Regulations
