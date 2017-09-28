@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Amendment Act 2014
-_Consolidation as at 2014-12-11_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the New Zealand Security Intelligence Service Amendment Act 2014.
@@ -59,14 +59,14 @@ After section 4I, insert:Visual surveillance warrantsInterpretationIssue of visu
     (i) section 4L (which requires the Minister to certify that the information on warrants in the annual report is correct):
     (j) section 5AA (which permits the Director to delegate certain functions or powers relating to warrants, but not the function involved in applying for a warrant):
     (k) section 5AAC (which requires delegations involving the execution of warrants to be entered in a register).
-  (2) The immunities referred to in subsection (1)(a) have effect despite anything to the contrary in any other Act.
+  (2) The immunities referred to in subsection (1)﻿(a) have effect despite anything to the contrary in any other Act.
   (1) The Director (or the person for the time being acting as the Director) may authorise a person to exercise a power specified in subsection (2) without an intelligence warrant or a visual surveillance warrant if the Director (or the person acting as the Director) is satisfied—
     (a) that the exercise of the power is necessary for the detection, investigation, or prevention of any actual, potential, or suspected—
       (i) terrorist act; or
       (ii) facilitation of a terrorist act; and
     (b) that,—
-      (i) in the case of an intelligence warrant, the conditions set out in section 4A(3)(b) to (d) apply; or
-      (ii) in the case of a visual surveillance warrant, the conditions set out in section 4IB(3)(b) to (d) apply; and
+      (i) in the case of an intelligence warrant, the conditions set out in section 4A(3)﻿(b) to (d) apply; or
+      (ii) in the case of a visual surveillance warrant, the conditions set out in section 4IB(3)﻿(b) to (d) apply; and
     (c) that obtaining an intelligence warrant or a visual surveillance warrant within the time in which it is proposed to exercise the power is impracticable in the circumstances and a delay is likely to result in a loss of intelligence.
   (2) The powers are the power to,—
     (a) in relation to an intelligence warrant,—
@@ -104,7 +104,7 @@ After section 4I, insert:Visual surveillance warrantsInterpretationIssue of visu
   (9) As soon as practicable after the expiry of an authorisation under section 4ID(1), if no warrant is issued in relation to the same subject matter, the Minister must ensure that any records resulting from activities undertaken pursuant to that authorisation are destroyed, except to the extent that those records are relevant—
     (a) to the detection of activities prejudicial to security; or
     (b) to the gathering of foreign intelligence information that is essential to security.
-  (10) As soon as practicable after a decision is made to retain records under subsection (9)(a) or (b), the Minister must refer the matter to the Inspector-General for investigation.
+  (10) As soon as practicable after a decision is made to retain records under subsection (9)﻿(a) or (b), the Minister must refer the matter to the Inspector-General for investigation.
   (11) Every person who knowingly fails to comply with subsection (9) commits an offence and is liable on conviction to a fine not exceeding $10,000.
   (12) The Director must include in every annual report prepared under section 4J a statement, in relation to the reporting period to which the report relates, of—
     (a) the number of authorisations given under section 4ID(1):
@@ -114,8 +114,8 @@ After section 4I, insert:Visual surveillance warrantsInterpretationIssue of visu
     (c) the length of time, expressed in 12-hour bands, that those authorisations remained in force before expiring or being replaced by an intelligence warrant or a visual surveillance warrant:
     (d) how many of those authorisations were followed by an application for an intelligence warrant or a visual surveillance warrant in relation to the same subject matter:
     (e) how many determinations were made under subsection (7) that it was not appropriate for an authorisation under section 4ID(1) to have been given.
-  (13) As soon as practicable after each year ending on 31 December, the Director must deliver to the Minister an interim report of the matters in subsection (12)(a) to (e) in relation to the 6-month period from 1 July to 31 December.
-  (14) Section 4J(2) to (4) (except section 4J(3)(b)) applies to an interim report under subsection (13).
+  (13) As soon as practicable after each year ending on 31 December, the Director must deliver to the Minister an interim report of the matters in subsection (12)﻿(a) to (e) in relation to the 6-month period from 1 July to 31 December.
+  (14) Section 4J(2) to (4) (except section 4J(3)﻿(b)) applies to an interim report under subsection (13).
   (1) The following provisions apply, with any necessary modifications, to an authorisation under section 4ID(1) as if references to an intelligence warrant or a warrant in those provisions were references to an authorisation under section 4ID(1):
     (a) section 4A(6) to (8) (which confers immunities on persons giving effect to warrants):
     (b) section 4D (which empowers the Director or a delegate of the Director to give effect to a warrant and to request third parties to assist):
@@ -124,11 +124,11 @@ After section 4I, insert:Visual surveillance warrantsInterpretationIssue of visu
     (e) section 4I (which enables the Minister to issue a warrant for the removal of equipment installed under a warrant):
     (f) section 5AA (which permits the Director to delegate certain functions or powers relating to warrants, but not the function involved in applying for a warrant):
     (g) section 5AAC (which requires delegations involving the execution of warrants to be entered in a register).
-  (2) The immunities conferred under subsection (1)(a) have effect despite anything to the contrary in any other Act.
+  (2) The immunities conferred under subsection (1)﻿(a) have effect despite anything to the contrary in any other Act.
   Sections 4IA to 4IF and this section are repealed on 1 April 2017.
 
 ### 5 Section 4H amended (Prevention or detection of serious crime)
-In section 4H(1), replace sections 4(1)(a) and 4G(1)(a), with sections 4(1)(a), 4IB(10), 4IE(9), 4G(1)(a), and 4G(2A),.
+In section 4H(1), replace sections 4(1)﻿(a) and 4G(1)﻿(a), with sections 4(1)﻿(a), 4IB(10), 4IE(9), 4G(1)﻿(a), and 4G(2A),.
 
 ### 6 Section 5G amended (Exercise of Commissioner's functions during absence, etc)
 In section 5G(2), replace sections 4A and 4F with sections 4A, 4F, 4IB, and 4IE.
@@ -139,7 +139,7 @@ In section 5G(2), replace sections 4A and 4F with sections 4A, 4F, 4IB, and 4IE.
 
 ### 8 Consequential amendment to Search and Surveillance Act 2012
 (1) This section amends the Search and Surveillance Act 2012.
-(2) In section 47(1)(c)(i), replace section 4A(1) or (2) with section 4A(1) or (2), 4IB(1) or (2), or 4ID(1).
+(2) In section 47(1)﻿(c)﻿(i), replace section 4A(1) or (2) with section 4A(1) or (2), 4IB(1) or (2), or 4ID(1).
 
 ### 9 Consequential amendment to Telecommunications (Interception Capability and Security) Act 2013
 (1) This section amends the Telecommunications (Interception Capability and Security) Act 2013.
