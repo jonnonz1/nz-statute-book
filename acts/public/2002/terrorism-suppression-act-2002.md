@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -61,8 +61,8 @@ The purpose of this Act is—
   - **infrastructure facility** means a facility (whether publicly or privately owned) providing or distributing basic services for a population (for example, water, sewage disposal, energy, fuel, or communications)
   - **intelligence and security agency** means—
     (a) the New Zealand Security Intelligence Service:
-    (b) the Government Communications Security Bureau:
-    (c) any other agency declared by the Governor-General from time to time by Order in Council as an intelligence and security agency for the purposes of the Inspector-General of Intelligence and Security Act 1996
+    (b) the Government Communications Security Bureau
+    (c)
   - **international organisation** means any organisation of States or Governments of States, or any organ or agency of any organisation of that kind
   - **make available** has the meaning given to it in section 10(6)
   - **manufacture** means any process, including reprocessing, that produces plastic explosives
