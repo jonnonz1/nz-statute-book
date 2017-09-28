@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Amendment Act (No 2) 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-28_
 
 > An Act to amend the New Zealand Security Intelligence Service Act 1969
 
@@ -99,9 +99,9 @@ The principal Act is amended by repealing sections 4AB to 4C, and substituting t
     (c) By adding any person or class of persons to the persons requested under subsection (2).
   (1) A person who is authorised by an interception warrant to intercept the communications of persons or to seize documents or things, and any person who is requested in accordance with the warrant to assist in making the interception or seizure, may enter—
     (a) Any place that is specified in the warrant; or
-    (b) Any place that is owned or occupied by a person identified in the warrant under section 4B(1)(b) or (1)(c); or
-    (c) Any place where a person identified in the warrant under section 4B(1)(b) or (1)(c) is or is likely to be at any time.
-  (2) The power conferred by subsection (1)(c) is subject to section 4F.
+    (b) Any place that is owned or occupied by a person identified in the warrant under section 4B(1)﻿(b) or (1)﻿(c); or
+    (c) Any place where a person identified in the warrant under section 4B(1)﻿(b) or (1)﻿(c) is or is likely to be at any time.
+  (2) The power conferred by subsection (1)﻿(c) is subject to section 4F.
   (3) If a person enters a place under subsection (1) in order to intercept communications in accordance with an interception warrant, the person may do in the place any of the following acts that are necessary for the purposes of giving effect to the warrant:
     (a) lnstal or modify any device or equipment in the place:
     (b) Maintain any device or equipment in the place:
@@ -116,13 +116,13 @@ The principal Act is amended by repealing sections 4AB to 4C, and substituting t
     (f) Any other act that is reasonable in the circumstances and reasonably required to achieve the purposes for which the warrant was issued.
   (1) In any case where an interception warrant authorises the interception or seizure of the communications of a person, everyone who makes, or assists in making, the interception or seizure under the interception warrant must take all practicable steps that are reasonable in the circumstances to minimise the likelihood of intercepting or seizing communications that are not relevant to the person whose communications are to be intercepted or seized.
   (2) A person acting under an interception warrant may not exercise a power to enter a place without the prior approval of the Director (or the person for the time being acting as the Director), if that place is neither—
-    (a) Owned or occupied by a person identified in the warrant under section 4B(1)(b) or (1)(c); nor
+    (a) Owned or occupied by a person identified in the warrant under section 4B(1)﻿(b) or (1)﻿(c); nor
     (b) Specified in the interception warrant.
   (3) As soon as an approval is given under subsection (2), the Director (or the person for the time being acting as the Director) must—
     (a) Advise the Minister of the approval; and
     (b) If the interception warrant concerned is a domestic interception warrant, also advise the Commissioner of the approval.
-  (4) When the Minister is advised under subsection (3)(a) of an approval, the Minister may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
-  (5) When the Commissioner is advised under subsection (3)(b) of an approval, the Commissioner, after consultation with the Minister, may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
+  (4) When the Minister is advised under subsection (3)﻿(a) of an approval, the Minister may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
+  (5) When the Commissioner is advised under subsection (3)﻿(b) of an approval, the Commissioner, after consultation with the Minister, may direct every person acting under the warrant concerned not to proceed with, or to discontinue, interceptions or seizures of communications or documents or things at the place to which the approval relates.
   (6) The Director (or the person for the time being acting as the Director) must ensure that every direction under this section is carried out without delay.
   (1) Every person who intercepts or seizes any communication in accordance with an interception warrant must, as soon as practicable after the interception or seizure,—
     (a) Destroy any copy that he or she may make of the communication or any part of the communication, and any record, whether in writing or otherwise, of the information obtained by that interception or seizure, except to the extent that the information recorded in the copy or record relates directly or indirectly to the detection of activities prejudicial to security or comprises foreign intelligence information essential to security:
@@ -130,7 +130,7 @@ The principal Act is amended by repealing sections 4AB to 4C, and substituting t
     (c) In the case of any other letter or document or thing that has been intercepted or seized, return it to the place from which it was intercepted or seized if the Director considers that it is practicable to do so.
   (2) However, if the Director considers that the return of any communication to the mail might lead to consequences that would endanger life or property, or if the Director considers that it is not practicable to return any letter or document or thing to the place from which it was intercepted or seized, the Director must, as soon as practicable after the interception or seizure, consult the Solicitor-General as to the disposition of the communication, and must dispose of it as the Solicitor-General requires.
   (3) Every person who knowingly fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
-  (1) Despite sections 4(1)(a) and 4G(1)(a), the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Security Intelligence Service and may communicate any such information to members of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
+  (1) Despite sections 4(1)﻿(a) and 4G(1)﻿(a), the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Security Intelligence Service and may communicate any such information to members of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
   (2) In subsection (1), serious crime means,—
     (a) In relation to New Zealand, any indictable offence; and
     (b) In relation to an overseas country, any offence that, if it occurred in New Zealand, would be an indictable offence.
@@ -149,7 +149,7 @@ The principal Act is amended by repealing sections 4AB to 4C, and substituting t
     (a) Accords with any directions given under subsection (4); and
     (b) Includes the statement on warrants required by section 4K; and
     (c) Includes the statement specified in section 39(3) of the Public Finance Act 1989 as set out in section 70I of that Act.
-  (4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the statements referred to in subsection (3)(b) and (3)(c)) be deleted from the report, if the Minister considers that the material is likely—
+  (4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the statements referred to in subsection (3)﻿(b) and (3)﻿(c)) be deleted from the report, if the Minister considers that the material is likely—
     (a) To prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
     (b) To prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of any other country or any agency of such a government; or
     (c) To prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by any international organisation; or
@@ -207,7 +207,7 @@ The principal Act is amended by inserting, after section 5, the following headin
 ## Part 2 — Consequential and transitional provisions
 
 ### 8 Consequential amendment to Inspector-General of Intelligence and Security Act 1996
-Section 11(1)(d) of the Inspector-General of lntelligence and Security Act 1996 is consequentially amended by omitting the expression and 4B, and substituting the expression to 4G.
+Section 11(1)﻿(d) of the Inspector-General of lntelligence and Security Act 1996 is consequentially amended by omitting the expression and 4B, and substituting the expression to 4G.
 
 ### 9 Consequential repeals
 The following enactments are consequentially repealed:
@@ -218,8 +218,8 @@ The following enactments are consequentially repealed:
 ### 10 Transitional provisions relating to warrants
 (1) This section applies to every warrant issued under section 4A or section 4AB of the principal Act (as in force immediately before the commencement of this Act) that is in force immediately before the commencement of this Act.
 (2) Every warrant to which this section applies continues in force in accordance with the term specified in the warrant.
-(3) If a warrant to which this section applies was issued for the purposes of section 4A(1)(a)(i) of the principal Act (as in force before the commencement of this Act), the principal Act applies as if it were a domestic interception warrant.
-(4) If a warrant to which this section applies was issued for the purposes of section 4A(1)(a)(ii) of the principal Act (as in force before the commencement of this Act), the principal Act applies as if it were a foreign interception warrant.
+(3) If a warrant to which this section applies was issued for the purposes of section 4A(1)﻿(a)﻿(i) of the principal Act (as in force before the commencement of this Act), the principal Act applies as if it were a domestic interception warrant.
+(4) If a warrant to which this section applies was issued for the purposes of section 4A(1)﻿(a)﻿(ii) of the principal Act (as in force before the commencement of this Act), the principal Act applies as if it were a foreign interception warrant.
 (5) If a warrant to which this section applies was issued under section 4AB of the principal Act (as in force before the commencement of this Act), the principal Act applies as if it had been issued under section 4I of the principal Act (as enacted by section 6 of this Act).
 
 ### 11 Transitional provisions relating to statement on warrants
