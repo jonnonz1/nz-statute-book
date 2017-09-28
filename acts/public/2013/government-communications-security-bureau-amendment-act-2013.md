@@ -1,5 +1,5 @@
 # Government Communications Security Bureau Amendment Act 2013
-_Consolidation as at 2013-08-26_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Government Communications Security Bureau Amendment Act 2013.
@@ -20,7 +20,7 @@ Replace section 3(c) to (e) with:
 (1) This section amends section 4.
 (2) Repeal the definitions of computer access authorisation or authorisation, computer system, foreign communications, foreign intelligence, and network.
 (3) Insert in their appropriate alphabetical order:.
-  - **access authorisation** means an authorisation issued under section 15A(1)(b)
+  - **access authorisation** means an authorisation issued under section 15A(1)﻿(b)
   - **incidentally obtained intelligence** means intelligence—
     (a) that is obtained in the course of gathering intelligence about the capabilities, intentions, or activities of foreign organisations or foreign persons; but
     (b) that is not intelligence of the kind referred to in paragraph (a)
@@ -28,7 +28,7 @@ Replace section 3(c) to (e) with:
 (4) In the definition of access, replace computer system with information infrastructure.
 (5) In the definition of communication, after sounds,, insert information,.
 (6) In the definition of foreign organisation, paragraph (d), replace exclusively with principally.
-(7) In the definition of interception warrant, replace section 17 with section 15A(1)(a).
+(7) In the definition of interception warrant, replace section 17 with section 15A(1)﻿(a).
 
 ### 6 New section 5A inserted (Transitional provisions relating to amendments to Act)
 After section 5, insert:Transitional provisions relating to amendments to Act
@@ -59,7 +59,7 @@ Replace sections 7 and 8 with:Objective of BureauFunctions of BureauInformation 
     (c) to provide any intelligence gathered and any analysis of the intelligence to—
       (i) the Minister; and
       (ii) any person or office holder (whether in New Zealand or overseas) authorised by the Minister to receive the intelligence.
-  (2) For the purpose of performing its function under subsection (1)(a) and (b), the Bureau may co-operate with, and provide advice and assistance to, any public authority (whether in New Zealand or overseas) and any other entity authorised by the Minister for the purposes of this subsection.
+  (2) For the purpose of performing its function under subsection (1)﻿(a) and (b), the Bureau may co-operate with, and provide advice and assistance to, any public authority (whether in New Zealand or overseas) and any other entity authorised by the Minister for the purposes of this subsection.
   (1) This function of the Bureau is to co-operate with, and provide advice and assistance to, the following for the purpose of facilitating the performance of their functions:
     (a) the New Zealand Police; and
     (b) the New Zealand Defence Force; and
@@ -112,10 +112,10 @@ In section 11(2),—
 
 ### 10 Section 12 amended (Annual report)
 (1) In section 12(2), replace without delay with as soon as practicable.
-(2) After section 12(3)(b), insert:.
+(2) After section 12(3)﻿(b), insert:.
   (ba) if any interception warrants have been issued during the year to which the report relates, the number of warrants issued; and
-(3) In section 12(3)(c), delete computer.
-(4) After section 12(3)(c), insert:.
+(3) In section 12(3)﻿(c), delete computer.
+(4) After section 12(3)﻿(c), insert:.
   (ca) if any access authorisations have been issued during the year to which the report relates, the number of authorisations issued; and
   (cb) a statement as to whether the Bureau has, under its function specified in section 8C(1), provided during the year to which the report relates any advice or assistance and, if so, the number of instances on which advice or assistance has been provided; and
 
@@ -138,7 +138,7 @@ Replace section 14 with:Interceptions not to target New Zealand citizens or perm
     (b) must not be retained or disclosed except in accordance with sections 23 and 25.
 
 ### 14 Section 15 amended (Interceptions for which warrant or authorisation required)
-(1) In section 15(1)(a), replace a network with an information infrastructure.
+(1) In section 15(1)﻿(a), replace a network with an information infrastructure.
 (2) In section 15(2),—
   (a) replace a computer access authorisation with an access authorisation; and
   (b) replace a computer system with an information infrastructure.
@@ -182,7 +182,7 @@ After section 15, insert:Authorisations to intercept communications or access in
   (1) A warrant or an authorisation may request 1 or more persons or classes of persons to give any assistance that is reasonably necessary to give effect to the warrant or authorisation.
   (2) If a request is made, under subsection (1), to 1 or more persons or classes of persons who are employees (the employees), the warrant or authorisation must also request the persons who are the employers of the employees, or any other persons in any way in control of the employees, to make the services of the employees available to the Bureau.
   (3) On an application made in writing by the Director, the Minister may amend a warrant or authorisation (as appropriate)—
-    (a) by substituting a person, persons, or classes of persons for the person, persons, or classes of persons specified in the warrant under section 15D(2)(a):
+    (a) by substituting a person, persons, or classes of persons for the person, persons, or classes of persons specified in the warrant under section 15D(2)﻿(a):
     (b) by substituting another person, other persons, or other classes of persons for a person, persons, or classes of persons requested under subsection (1):
     (c) by adding any person, persons, or classes of persons to the persons requested under subsection (1).
   The expiry of an interception warrant or of an authorisation does not prevent a further application for an interception warrant or an authorisation in respect of the same subject matter.
@@ -214,7 +214,7 @@ Replace section 19 and the cross-heading above section 19 with:Register of inter
     (b) whether the warrant or authorisation contains a request to give assistance under section 15E(1); and
     (c) any person, persons, or classes of persons substituted or added under section 15E(3).
   (3) The Director must make the register available to the Minister or the Inspector-General of Intelligence and Security as and when requested by the Minister or the Inspector-General.
-  (4) As soon as practicable after information specified in section 15D(2)(a) is entered in the register, the Director must notify the Inspector-General of Intelligence and Security if the information relates to a New Zealand citizen or a permanent resident of New Zealand.
+  (4) As soon as practicable after information specified in section 15D(2)﻿(a) is entered in the register, the Director must notify the Inspector-General of Intelligence and Security if the information relates to a New Zealand citizen or a permanent resident of New Zealand.
   (1) This section applies if—
     (a) the Minister is unavailable to issue an interception warrant or access authorisation; and
     (b) circumstances make it necessary to issue a warrant or an authorisation before the Minister is available to do so.
@@ -243,8 +243,8 @@ Repeal section 22.
 ### 23 Section 23 amended (Destruction of irrelevant records obtained by interception)
 (1) In section 23(1), delete computer.
 (2) In section 23(1), after except to the extent, insert permitted by section 25 or to the extent.
-(3) In section 23(1)(a), replace section 7(1)(a) with section 7.
-(4) In section 23(1)(b), replace section 8 with section 8A or 8B.
+(3) In section 23(1)﻿(a), replace section 7(1)﻿(a) with section 7.
+(4) In section 23(1)﻿(b), replace section 8 with section 8A or 8B.
 
 ### 24 Section 24 amended (Duty to minimise impact of interception on third parties)
 In section 24, replace a computer with an.
