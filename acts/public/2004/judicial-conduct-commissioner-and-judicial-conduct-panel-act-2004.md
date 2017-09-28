@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -385,8 +385,8 @@ The Governor-General, on an address from the House of Representatives, may remov
 (2) No proceedings, civil or criminal, lie against any person to whom this section applies for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
 (3) No person to whom this clause applies is required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
 (4) Nothing in subclause (2) or subclause (3) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981; or
-  (b) the offence of attempting or conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981.
+  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981; or
+  (b) the offence of attempting or conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981.
 (5) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commissioner or the Deputy Commissioner under this Act is privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 (6) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner or the Deputy Commissioner under this Act is deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
