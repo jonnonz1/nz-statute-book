@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2017-09-08_
+_Consolidation as at 2017-09-28_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -3958,7 +3958,8 @@ Sections 142A to 142D do not prevent—
   (a) provided to the Director-General under this Act; or
   (b) disclosed to the Director-General by a border sector agency; or
   (c) held by the Director-General after coming to the Director-General from another source.
-(2) The Director-General may disclose the information to agencies in New Zealand to facilitate the carrying out by the agencies of—
+(1A) The Director-General may disclose the personal information to an intelligence and security agency only if the Director-General believes, on reasonable grounds, that the disclosure of the information is necessary to enable the agency to perform any of its functions under section 10, 11, 13, or 14 of the Intelligence and Security Act 2017.
+(2) The Director-General may disclose the personal information to other agencies in New Zealand to facilitate the carrying out by the agencies of—
   (a) the prevention, detection, investigation, prosecution, and punishment of offences:
   (b) the enforcement of a law imposing a pecuniary penalty:
   (c) the protection of the life, health, or safety of a person or group of persons:
@@ -3979,6 +3980,9 @@ Sections 142A to 142D do not prevent—
     (ii) the method by which the information may be disclosed; and
   (f) may be varied.
 (5) This section does not apply to information in the biosecurity database.
+(6) In this section, intelligence and security agency means—
+  (a) the New Zealand Security Intelligence Service:
+  (b) the Government Communications Security Bureau.
 
 ### 142J Disclosure of personal information outside New Zealand
 (1) This section applies to personal information—
