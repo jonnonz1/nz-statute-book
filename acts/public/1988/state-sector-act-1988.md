@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-09-28_
 
 > Title
 
@@ -547,21 +547,13 @@ The Governor-General may, by Order in Council, provide for savings and transitio
 (2) In carrying out the functions under subsection (1), the Commissioner shall report to the appropriate Minister or appropriate Ministers on the manner and extent to which the chief executive is fulfilling all of the requirements imposed upon that chief executive, whether under this Act or otherwise.
 
 ### 44 Special provisions in relation to certain chief executives
-(1) Nothing in sections 35, 36, 38, 39, and 43 applies in respect of—
-  (a)
-  (b)
-  (c)
-  (d) the Director of the Government Communications Security Bureau; or
-  (e) the State Services Commissioner.
+(1) Nothing in sections 35, 36, 38, 39, and 43 applies in respect of the State Services Commissioner.
 (1A) Nothing in sections 35, 36, 38, and 39 applies in respect of the Solicitor-General, and a review of the Solicitor-General's performance under section 43—
   (a) must only pertain to the Solicitor-General's responsibilities as the chief executive of a department; and
   (b) must not pertain to the performance of the independent and constitutional functions of the Solicitor-General or the performance of persons assisting the Solicitor-General in the performance of those functions.
-(2) For the purposes of this Act, but subject to subsection (1),—
-  (a) the Solicitor-General shall be the chief executive of the Crown Law Office:
-  (b)
-  (c) the State Services Commissioner shall be the chief executive in respect of the State Services Commission:
-  (d)
-  (e) the Director of the Government Communications Security Bureau is the chief executive of the Government Communications Security Bureau.
+(2) For the purposes of this Act,—
+  (a) the Solicitor-General is the chief executive of the Crown Law Office:
+  (b) the State Services Commissioner is the chief executive of the State Services Commission.
 
 ### 45 Application of Labour Relations Act 1987 in respect of chief executives
 [Repealed]
