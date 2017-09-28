@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Amendment Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2017-09-28_
 
 > An Act to amend the New Zealand Security Intelligence Service Act 1969
 
@@ -25,7 +25,7 @@ This section inserted s 2A of the principal Act.
 (3) Section 3 of the New Zealand Security Intelligence Service Amendment Act 1977 is hereby consequentially repealed.
 
 ### 5 Issue of interception warrant
-This section substituted s 4A(5)(b) of the principal Act.
+This section substituted s 4A(5)﻿(b) of the principal Act.
 
 ### 6 Prevention or detection of serious crime
 [Repealed]
