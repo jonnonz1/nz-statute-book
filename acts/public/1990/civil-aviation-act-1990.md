@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2017-08-15_
+_Consolidation as at 2017-09-28_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -1998,7 +1998,7 @@ The Minister shall ensure that aviation security services are provided at all se
 (2) If a person refuses consent to a security check under subsection (1), the person may not be granted any authorisation under the rules if the rules require a favourable security check determination.
 (3) The Director may grant a favourable security check determination if the Director decides that the person has undergone an alternative security check that is acceptable to the Director.
 (4) For the purpose of determining whether a person poses a threat to aviation security, the Director may—
-  (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under section 4(1)﻿(bb) of the New Zealand Security Intelligence Service Act 1969; and
+  (a) seek and receive any information that the Director considers relevant, including (but not limited to) a recommendation made by the New Zealand Security Intelligence Service under section 11 of the Intelligence and Security Act 2017; and
   (b) give weight to any component of the information as the Director considers appropriate in the circumstances.
 (5) If the Director determines that a person does not pose a threat to aviation security, the Director must advise the person of the favourable security check determination.
 (6) The Director may reconsider any previous security check determination that the Director has made if—
@@ -2017,7 +2017,7 @@ The Minister shall ensure that aviation security services are provided at all se
 (8) Nothing in this section limits the power of the Director to grant an exemption under section 37.
 
 ### 77G Review procedures for security check determinations
-(1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service under section 4(1)﻿(bb) of the New Zealand Security Intelligence Service Act 1969, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with sections 11 and 16 of the Inspector-General of Intelligence and Security Act 1996.
+(1) If the Director makes an adverse security check determination with respect to a New Zealand person based on a recommendation made by the New Zealand Security Intelligence Service, the Director must advise the New Zealand person that the person may lodge a complaint regarding the recommendation with the Inspector-General of Intelligence and Security in accordance with sections 158(1)﻿(e) and 171 of the Intelligence and Security Act 2017.
 (2) If the Director proposes to make an adverse security check determination with respect to a person based on information other than a recommendation made by the New Zealand Security Intelligence Service, the Director must—
   (a) advise the person of the proposed determination and the reasons for the proposed determination; and
   (b) give the person written notice that, within 20 working days of the date of the notice, the person may—
@@ -2039,9 +2039,11 @@ The Minister shall ensure that aviation security services are provided at all se
 (4) If the Director makes a final adverse security check determination, the Director must—
   (a) revoke any authorisation granted to the person by the Director under the rules, if a favourable security check determination is required under the rules for the authorisation; and
   (b) require any other entity to revoke any authorisation granted to the person, if a favourable security check determination is required under the rules for the authorisation.
-(5) For the purposes of this section,—
-  - **Inspector-General of Intelligence and Security** means the person holding office under section 5 of the Inspector-General of Intelligence and Security Act 1996
-  - **New Zealand person** has the same meaning as in section 2(1) of the Inspector-General of Intelligence and Security Act 1996.
+(5) In this section,—
+  - **Inspector-General of Intelligence and Security** means the person holding office under section 157 of the Intelligence and Security Act 2017
+  - **New Zealand person** means any person who is—
+    (a) a New Zealand citizen; or
+    (b) a person ordinarily resident in New Zealand.
 
 ### 77H Offence to carry out activity while authorisation withdrawn or after authorisation revoked
 (1) Every person commits an offence who carries out an activity that requires an authorisation—
