@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-09-28_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -572,6 +572,27 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
     (vi) records any sound or image; or
     (vii) delivers any object to any person,—
 
+### 78AA Wrongful communication, retention, or copying of classified information
+(1) Every person specified in subsection (2) is liable to imprisonment for a term not exceeding 5 years if the person, within or outside New Zealand,—
+  (a) knowingly or recklessly, and with knowledge that he or she is acting without proper authority, communicates any classified information to any other person; or
+  (b) knowing that he or she is acting without proper authority, retains or copies any classified information; or
+  (c) knowingly fails to comply with any directions issued by a lawful authority for the return of any classified information that is in his or her possession or under his or her control.
+(2) Subsection (1) applies to—
+  (a) a person who holds, or has held, a government-sponsored national security clearance to access classified information; or
+  (b) a person to whom classified information has been disclosed in confidence if—
+    (i) the disclosure is authorised; and
+    (ii) the person knows that the disclosure is in respect of classified information.
+(3) In this section,—
+  - **classified information** means—
+    (a) information that—
+      (i) is, or was, official information; and
+      (ii) is classified under the New Zealand Government Security Classification System as being accessible only to persons who have a national security clearance:
+    (b) foreign government information that is—
+      (i) classified in a foreign country; and
+      (ii) accessible only to persons having a government-sponsored national security clearance
+  - **New Zealand Government Security Classification System** means the security classification system applying to official information that is published (and from time to time amended) on an Internet site maintained by or on behalf of the New Zealand Security Intelligence Service
+  - **official information** has the meaning given to it by section 78A(2).
+
 ### 78A Wrongful communication, retention, or copying of official information
 (1) Every one is liable to imprisonment for a term not exceeding 3 years who, being a person who owes allegiance to the Sovereign in right of New Zealand, within or outside New Zealand,—
   (a) knowingly or recklessly, and with knowledge that he or she is acting without proper authority, communicates any official information or delivers any object to any other person knowing that such communication or delivery is likely to prejudice the security or defence of New Zealand; or
@@ -615,11 +636,11 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
     (a) holding or performing the duties of an office established by an enactment; or
     (b) performing duties expressly conferred on him or her by virtue of his or her office by an enactment.
 
-### 78B Consent of Attorney-General to proceedings in relation to espionage or wrongful communication, retention, or copying of official information
+### 78B Consent of Attorney-General to proceedings in relation to espionage or wrongful communication, retention, or copying of classified information or official information
 (1) No charging document may be filed against any person for—except with the consent of the Attorney-General:provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for his or her arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the filing of a charge for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
-  (a) an offence against section 78 or section 78A(1); or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1); or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A(1),—
+  (a) an offence against section 78, 78AA(1), or 78A(1); or
+  (b) the offence of conspiring to commit an offence against section 78, 78AA(1), or 78A(1); or
+  (c) the offence of attempting to commit an offence against section 78, 78AA(1), or 78A(1),—
 (2) The Attorney-General may, before deciding whether or not to give his or her consent under subsection (1), make such inquiries as he or she thinks fit.
 
 ### 78C Questions of law in relation to espionage or wrongful communication of information
@@ -1928,11 +1949,8 @@ A person who claims in good faith a right to the possession of a young person un
   (a) is a party to that private communication; or
   (b) does so pursuant to, and in accordance with the terms of, any authority conferred on him or her by or under—
     (i) the Search and Surveillance Act 2012; or
-    (ii)
-    (iii) the New Zealand Security Intelligence Service Act 1969; or
-    (iiia) the Government Communications Security Bureau Act 2003; or
-    (iv)
-    (v) the International Terrorism (Emergency Powers) Act 1987.
+    (ii) Part 4 of the Intelligence and Security Act 2017; or
+    (iii) the International Terrorism (Emergency Powers) Act 1987.
 (3)
 (4) Subsection (1) does not apply to any monitoring of a prisoner call under section 113 of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under section 189B of that Act.
 (5) Subsection (1) does not apply to the interception of private communications by any interception device operated by a person engaged in providing an Internet or other communication service to the public if—
@@ -1966,10 +1984,10 @@ A person who claims in good faith a right to the possession of a young person un
     (i) the sole or principal purpose of which he or she knows to be the surreptitious interception of private communications; or
     (ii) that he or she holds out as being useful for the surreptitious interception of private communications (whether or not he or she also holds it out as being useful for any other purpose).
 (2) It is a defence to a charge under this section if the person charged proves either—
-  (a) that at the time he or she did any act referred to in any of paragraphs (a) to (d) of subsection (1) he or she believed that the other person referred to in the relevant paragraph was a constable, or an officer of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, acting in the course of his or her official duties; or
+  (a) that at the time he or she did any act referred to in any of paragraphs (a) to (d) of subsection (1) he or she believed that the other person referred to in the relevant paragraph was a constable, or an employee of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, acting in the course of his or her official duties; or
   (b) where the charge relates to the supply of an interception device otherwise than for valuable consideration, that—
     (i) he or she supplied the interception device to the other person referred to in paragraph (c) or paragraph (d) of subsection (1) for the purpose of any proceeding or of any investigation or examination preliminary or incidental to any proceeding; or
-    (ii) being a constable or an officer of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, he or she supplied the interception device in the course of his or her official duties to the other person referred to in the said paragraph (c) or the said paragraph (d) for any lawful purpose.
+    (ii) being a constable or an employee of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, he or she supplied the interception device in the course of his or her official duties to the other person referred to in the said paragraph (c) or the said paragraph (d) for any lawful purpose.
 
 ### 216E Forfeiture
 Where any person is convicted of a crime against section 216B or section 216D in respect of any interception devices the sole or principal purpose of which is the surreptitious interception of private communications, the court may, as part of the sentence, order that the interception devices shall be forfeited; and, in such a case, the interception devices shall thereupon become forfeited to the Crown accordingly, and may be disposed of in such manner as the Commissioner of Police directs.
@@ -2055,7 +2073,8 @@ Everyone is liable to imprisonment for a term not exceeding 3 years who intentio
 (1) This section applies to the following persons:
   (a) any constable; and
   (b) any Customs officer; and
-  (c) any officer or employee of the New Zealand Security Intelligence Service; and
+  (c) any employee of the New Zealand Security Intelligence Service; and
+  (ca) any employee of the Government Communications Security Bureau; and
   (d) any employee of the Department of Corrections and any other employee exercising powers or functions under the Corrections Act 2004; and
   (e) any lawyer or agent—
     (i) giving legal advice in relation to an intimate visual recording; or
@@ -3422,28 +3441,6 @@ If sections 413 and 414 are inconsistent with any other enactment or rule of law
 ## Schedule 5 — New Zealand enactments repealed
 
 ## Schedule 6 — Interception warrant
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Crimes Amendment Act (No 3) 1985, and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as the principal Act).
-(2) This Act shall come into force on 1 February 1986.
-
-### 6 Transitional provisions
-(1) No person shall be convicted of—in respect of any act done before 1 February 1986.
-  (a) sexual violation; or
-  (b) attempted sexual violation; or
-  (c) assault with intent to commit sexual violation; or
-  (d) an offence against section 129A of the principal Act (inducing sexual connection by coercion); or
-  (e) an offence against section 142A of that Act (compelling indecent act with animal); or
-  (f) being a party to the commission of any offence referred to in paragraphs (a) to (e); or
-  (g) conspiring with any person to commit any such offence,—
-(2) Every person who, but for the passing of this Act, could have been charged with any offence specified in subsection (3) in respect of any act done before 1 February 1986 may be charged with and convicted of such offence, and the relevant provisions of the principal Act shall continue to apply, as if sections 2 and 4 had not been passed.
-(3) Subsection (2) applies to the following offences:
-  (a) rape:
-  (b) attempted rape:
-  (c) assault with intent to commit rape:
-  (d) being a party to the commission of any offence referred to in paragraphs (a) to (c):
-  (e) conspiring with any person to commit any such offence.
-(4) Notwithstanding anything in section 1(2) of this Act or in subsection (2) of this section, where the trial of any person for an offence specified in subsection (3) commences on or after the 28th day after the date on which this Act receives the Governor-General's assent, the provisions of section 375A of the principal Act (as inserted by section 5) shall apply with all necessary modifications.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Homosexual Law Reform Act 1986.
