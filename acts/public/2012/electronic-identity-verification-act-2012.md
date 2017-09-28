@@ -1,5 +1,5 @@
 # Electronic Identity Verification Act 2012
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Electronic Identity Verification Act 2012.
@@ -164,10 +164,9 @@ An electronic identity credential is a record kept in electronic form that—
 
 ### 12 Exception to section 11 for certain individuals with new identity information
 (1) Section 11 does not apply to an individual who is specified in subsection (2) for whom new identity information has been created under section 65 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which relates to the protection of certain witnesses, undercover police officers, and other protected persons).
-(2) An individual referred to in subsection (1) (a specified individual) is a person who is, has been, or will be—
-  (a) an undercover police officer; or
-  (b) an officer or employee of the New Zealand Security Intelligence Service; or
-  (c) approved by the Director of Security to undertake activities for the New Zealand Security Intelligence Service.
+(2) An individual referred to in subsection (1) (a specified individual) is—
+  (a) a person who is, has been, or will be, an undercover Police officer; or
+  (b) an employee of an intelligence and security agency.
 (3) Accordingly, a specified individual who already has a current electronic identity credential at the time the new identity information is created may, on application under section 28, be issued another electronic identity credential in respect of his or her new identity.
 (4) If subsection (3) applies and the other electronic identity credential is issued, the specified individual may choose to use either or both of the electronic identity credentials in question.
 (5) However, a specified individual who does not have a current electronic identity credential at the time the new identity information is created may, on application under section 28, be issued an electronic identity credential in respect of—
@@ -178,8 +177,9 @@ An electronic identity credential is a record kept in electronic form that—
 (7) A specified individual who uses either or both of the specified individual's electronic identity credentials as contemplated by subsections (4) and (6) is not excused from any criminal liability in respect of any act or omission involving the use of those credentials that would otherwise constitute an offence against any other enactment.
 (8) However, subsection (7) does not limit or affect the provision of any other enactment or rule of law that confers protection on a specified individual against criminal liability and, if there is any inconsistency between that subsection and that provision, the latter prevails.
 (9) In this section,—
-  (a) Director of Security has the meaning given to it by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
-  (b) employee, officer, and undercover Police officer have the meanings given to them by section 65(5) of that Act.
+  - **employee** has the meaning given to it by section 22 of the Intelligence and Security Act 2017
+  - **intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
+  - **undercover Police officer** has the meaning given to it by section 65(5) of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
 
 ### 13 Limits of exception in section 12
 (1) The following individuals for whom new identity information has been created under section 65 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 do not come within the exception set out in section 12:
