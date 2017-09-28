@@ -1,5 +1,5 @@
 # Financial Markets Authority Act 2011
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Financial Markets Authority Act 2011.
@@ -183,7 +183,7 @@ The Minister may, by notice to the FMA, request that the FMA inquire into, and r
 (1) The FMA is not liable for anything it may do or fail to do in the course of the performance or exercise or intended performance or exercise of its functions, powers, or duties, unless it is shown that it acted in bad faith or without reasonable care.
 (2) No member or employee of the FMA, nor any delegate of the FMA, is liable for anything that person may do or say or fail to do or say in the course of the operations of the FMA, unless it is shown that the person acted in bad faith.
 (3) Nothing in subsections (1) and (2) applies in respect of proceedings for—
-  (a) an offence against section 78, 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
   (b) the offence of conspiring to commit an offence against any of those sections of the Crimes Act 1961; or
   (c) the offence of attempting to commit an offence against any of those sections of the Crimes Act 1961.
 (4) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
