@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2017-09-28_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -1472,6 +1472,7 @@ Sections 32(1), 38(4)﻿(d), 40(2), 41(4), 41(5), 41(6), 50(4), 51(3), 53, 109(1
 (3) Notwithstanding anything in subsection (2), no letter or other postal article addressed to a patient may be withheld from the patient if it is sent by or on behalf of any of the following persons:
   (a) a member of Parliament:
   (b) a Judge or officer of any court, or a member or officer of any other judicial body:
+  (ba) the Inspector-General of Intelligence and Security:
   (c) an Ombudsman:
   (d) the Director-General of Health or the Director:
   (e) a district inspector or an official visitor:
