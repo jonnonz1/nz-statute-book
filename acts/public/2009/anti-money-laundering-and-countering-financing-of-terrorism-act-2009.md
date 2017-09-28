@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2017-08-11_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -174,7 +174,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   - **government agency** means—
     (a) a government department named in Schedule 1 of the State Sector Act 1988; or
     (b) a Crown entity under section 7 of the Crown Entities Act 2004; or
-    (c) the Reserve Bank, the Parliamentary Counsel Office, the New Zealand Police, and the New Zealand Security Intelligence Service; or
+    (c) the Reserve Bank, the Parliamentary Counsel Office, and the New Zealand Police; or
     (d) any overseas country's counterpart of any of the entities in paragraphs (a) to (c)
   - **high-value dealer** —
     (a) means a person who is in trade and in the ordinary course of business, buys or sells all or any of the following articles by way of a cash transaction or a series of related cash transactions, if the total value of that transaction or those transactions is equal to or above the applicable threshold value:
@@ -308,7 +308,6 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (ii) any other person that is required by any enactment to comply with this Act as if it were a reporting entity; but
     (c) excludes a person or class of persons declared by regulations not to be a reporting entity for the purposes of this Act
   - **search warrant** means a warrant issued under section 117
-  - **security** has the same meaning as in section 2(1) of the New Zealand Security Intelligence Service Act 1969
   - **senior manager** (and correspondingly) means,—
     (a) in relation to a reporting entity that is a company, a director within the meaning of section 126 of the Companies Act 1993; and
     (b) in relation to a reporting entity that is not a company, a person who occupies a position comparable to that of a director (for example, a trustee or partner); and
@@ -492,7 +491,7 @@ A reporting entity must also obtain—
   (f) a body that—
     (i) corresponds to a State enterprise or a new State enterprise (as defined in paragraph (e); and
     (ii) is located in a country that has sufficient AML/CFT systems:
-  (g) the New Zealand Security Intelligence Service:
+  (g)
   (h) a person licensed to be a supervisor or statutory supervisor under the Financial Markets Supervisors Act 2011, when the person acts for itself:
   (i) a trustee corporation, within the meaning of section 2(1) of the Administration Act 1969, when the trustee corporation acts for itself:
   (j) a Crown entity, as defined in section 7(1) of the Crown Entities Act 2004:
@@ -1690,7 +1689,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (e) the Financial Advisers Act 2008:
   (f) the Financial Markets Authority Act 2011:
   (g) the Financial Markets Conduct Act 2013:
-  (h) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
+  (h) Parts 1 to 7 of the Intelligence and Security Act 2017:
   (i) the Financial Transactions Reporting Act 1996:
   (j) the Gambling Act 2003:
   (k) the Goods and Services Tax Act 1985:
