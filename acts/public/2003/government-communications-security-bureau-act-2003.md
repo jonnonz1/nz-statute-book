@@ -1,5 +1,5 @@
 # Government Communications Security Bureau Act 2003
-_Consolidation as at 2013-09-26_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Government Communications Security Bureau Act 2003.
@@ -20,7 +20,7 @@ The purpose of this Act is to—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **access** , in relation to any information infrastructure, means instruct, communicate with, store data in, retrieve data from, or otherwise make use of any of the resources of, the information infrastructure
-  - **access authorisation** means an authorisation issued under section 15A(1)(b)
+  - **access authorisation** means an authorisation issued under section 15A(1)﻿(b)
   - **Bureau** means the Government Communications Security Bureau continued by section 6
   - **communication** includes signs, signals, impulses, writing, images, sounds, information, or data that a person or machine produces, sends, receives, processes, or holds in any medium
   - **Director** means the chief executive of the Bureau; and includes a person who, under section 10, exercises or performs the functions, duties, or powers of the Director
@@ -38,7 +38,7 @@ In this Act, unless the context otherwise requires,—
   - **information infrastructure** includes electromagnetic emissions, communications systems and networks, information technology systems and networks, and any communications carried on, contained in, or relating to those emissions, systems, or networks
   - **intercept** includes hear, listen to, record, monitor, acquire, or receive a communication, or acquire its substance, meaning, or sense
   - **interception device** means any electronic, mechanical, electromagnetic, optical, or electro-optical instrument, apparatus, equipment, or other device that is used or is capable of being used to intercept communications
-  - **interception warrant** means a warrant issued under section 15A(1)(a)
+  - **interception warrant** means a warrant issued under section 15A(1)﻿(a)
   - **medium** means any form in which communications may be produced, sent, received, processed, or held; and includes electromagnetic, acoustic, or other energy
   - **Minister** means the Minister of the Crown who, under any warrant or with the authority of the Prime Minister, is for the time being responsible for the Bureau
   - **permanent resident** means a person who is, or who is deemed to be, the holder of a residence class visa under the Immigration Act 2009
@@ -91,7 +91,7 @@ This function of the Bureau is—
   (c) to provide any intelligence gathered and any analysis of the intelligence to—
     (i) the Minister; and
     (ii) any person or office holder (whether in New Zealand or overseas) authorised by the Minister to receive the intelligence.
-(2) For the purpose of performing its function under subsection (1)(a) and (b), the Bureau may co-operate with, and provide advice and assistance to, any public authority (whether in New Zealand or overseas) and any other entity authorised by the Minister for the purposes of this subsection.
+(2) For the purpose of performing its function under subsection (1)﻿(a) and (b), the Bureau may co-operate with, and provide advice and assistance to, any public authority (whether in New Zealand or overseas) and any other entity authorised by the Minister for the purposes of this subsection.
 
 ### 8C Co-operation with other entities to facilitate their functions
 (1) This function of the Bureau is to co-operate with, and provide advice and assistance to, the following for the purpose of facilitating the performance of their functions:
@@ -172,7 +172,7 @@ The State Services Commissioner—
   (d) a statement setting out—
     (i) a summary of the Bureau’s equal employment opportunities programme for the year to which the report relates; and
     (ii) an account of the extent to which the Bureau was able to meet, during the year to which the report relates, the equal employment opportunities programme for that year.
-(4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the material referred to in section 45E(1)(c)(i) of the Public Finance Act 1989 and subsection (3)(b) to (d)) be deleted from the report if the Minister considers that the material is likely—
+(4) Before presenting a copy of the report to the House of Representatives under subsection (3), the Minister may direct that any material (other than the material referred to in section 45E(1)﻿(c)﻿(i) of the Public Finance Act 1989 and subsection (3)﻿(b) to (d)) be deleted from the report if the Minister considers that the material is likely—
   (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
   (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the Government of any other country or any agency of such a Government; or
   (c) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by any international organisation; or
@@ -252,7 +252,7 @@ The purpose of this Part is—
 (1) A warrant or an authorisation may request 1 or more persons or classes of persons to give any assistance that is reasonably necessary to give effect to the warrant or authorisation.
 (2) If a request is made, under subsection (1), to 1 or more persons or classes of persons who are employees (the employees), the warrant or authorisation must also request the persons who are the employers of the employees, or any other persons in any way in control of the employees, to make the services of the employees available to the Bureau.
 (3) On an application made in writing by the Director, the Minister may amend a warrant or authorisation (as appropriate)—
-  (a) by substituting a person, persons, or classes of persons for the person, persons, or classes of persons specified in the warrant under section 15D(2)(a):
+  (a) by substituting a person, persons, or classes of persons for the person, persons, or classes of persons specified in the warrant under section 15D(2)﻿(a):
   (b) by substituting another person, other persons, or other classes of persons for a person, persons, or classes of persons requested under subsection (1):
   (c) by adding any person, persons, or classes of persons to the persons requested under subsection (1).
 
@@ -287,7 +287,7 @@ The expiry of an interception warrant or of an authorisation does not prevent a 
   (b) whether the warrant or authorisation contains a request to give assistance under section 15E(1); and
   (c) any person, persons, or classes of persons substituted or added under section 15E(3).
 (3) The Director must make the register available to the Minister or the Inspector-General of Intelligence and Security as and when requested by the Minister or the Inspector-General.
-(4) As soon as practicable after information specified in section 15D(2)(a) is entered in the register, the Director must notify the Inspector-General of Intelligence and Security if the information relates to a New Zealand citizen or a permanent resident of New Zealand.
+(4) As soon as practicable after information specified in section 15D(2)﻿(a) is entered in the register, the Director must notify the Inspector-General of Intelligence and Security if the information relates to a New Zealand citizen or a permanent resident of New Zealand.
 
 **Urgent issue of warrants and authorisations**
 
