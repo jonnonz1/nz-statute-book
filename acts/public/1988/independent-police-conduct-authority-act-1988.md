@@ -1,5 +1,5 @@
 # Independent Police Conduct Authority Act 1988
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-09-28_
 
 > An Act to make better provision for the investigation and resolution of complaints against the Police by establishing the Independent Police Conduct Authority
 
@@ -268,9 +268,9 @@ The Authority shall not, in any opinion or recommendation given under section 27
   (a) no proceedings, whether civil or criminal, may lie against the Authority, any member of the Authority, or any person holding any office or appointment under the Authority, for anything done or said by them in the course of the exercise or intended exercise of their functions under this Act, unless it is shown that they acted in bad faith:
   (b) the Authority, members of the Authority, and any person holding office or appointment under the Authority must not be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to their knowledge in the exercise of their functions under this Act.
 (2) Nothing in subsection (1) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A of the Crimes Act 1961; or
+  (a) an offence against section 78, 78AA(1), 78A(1), 105, or 105A of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, or 105A of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, or 105A of the Crimes Act 1961; or
   (d) an offence against section 37.
 (3) Anything said or any information given or any document or thing produced by any person in the course of any investigation by or proceedings before the Authority under this Act shall be privileged in the same manner as if the investigation or proceedings were proceedings in a court.
 (4) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992,—shall be deemed to be an official report made by a person holding an inquiry under the authority of the Government of New Zealand.
