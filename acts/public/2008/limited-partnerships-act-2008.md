@@ -1,5 +1,5 @@
 # Limited Partnerships Act 2008
-_Consolidation as at 2015-11-07_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Limited Partnerships Act 2008.
@@ -856,7 +856,7 @@ When exercising a power described in section 78F or 78G, the Registrar (or a per
     (d) the enforcement of the Misuse of Drugs Act 1975:
     (e) the enforcement of the Terrorism Suppression Act 2002:
     (f) the administration of the Mutual Assistance in Criminal Matters Act 1992:
-    (g) the investigation of matters relating to security under the New Zealand Security Intelligence Service Act 1969:
+    (g) the performance by the New Zealand Security Intelligence Service or the Government Communications Security Bureau of its function under section 10 or 11 of the Intelligence and Security Act 2017:
     (h) any action referred to in paragraphs (a) to (g) taken in respect of legislation of an overseas jurisdiction that is broadly equivalent to the enactments listed in those paragraphs.
 (2) A person authorised by the Registrar for the purposes of section 78, or in relation to a disclosure under section 78F, 78G, or 78H, who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must give the document, information, or report to the Registrar when directed to do so by a person holding that office.
 (3) A person authorised by the Registrar for the purposes of section 78, or in relation to a disclosure under section 78F, 78G, or 78H, who has obtained a document or information in the course of making an inspection under that section or prepared a report in relation to an inspection under that section must not disclose that document, information, or report except—
