@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2017-09-04_
+_Consolidation as at 2017-09-28_
 
 > Title
 
@@ -83,7 +83,7 @@ _Consolidation as at 2017-09-04_
       (i) a department (as defined in section 27A(1) and (2) of the State Sector Act 1988); or
       (ii) the New Zealand Defence Force; or
       (iii) the New Zealand Police; or
-      (iv) the New Zealand Security Intelligence Service; or
+      (iv)
       (v) the Parliamentary Counsel Office; or
       (vi) the Office of the Clerk of the House of Representatives; or
       (vii) the Parliamentary Service; but
@@ -414,7 +414,7 @@ Except as otherwise provided by a resolution of the House of Representatives, th
   (b) projected expenses or non-departmental capital expenditure to be incurred for the category; and
   (c) comparative projected and estimated actual expenses or non-departmental capital expenditure for the category for the previous financial year.
 (4) However,—
-  (a) in the case of an appropriation for expenses and capital expenditure to be incurred by an intelligence and security department, subsection (2)﻿(a) and (c) do not apply; and
+  (a) in the case of an appropriation for expenses and capital expenditure to be incurred by an intelligence and security department, subsection (2)﻿(c) does not apply; and
   (b) in the case of an appropriation for borrowing expenses, subsection (2)﻿(c) does not apply.
 
 ### 15B Comparative information requirements if no directly corresponding appropriation or category
@@ -1111,7 +1111,7 @@ The chief executive of a department is responsible for—
 (2) However, the department must not publish the information—
   (a) in the period of 3 months before the Minister delivers the Budget for the first full financial year to which the information relates; or
   (b) if the Minister gives less than 3 months' notice of the day on which he or she will deliver that Budget, in the period commencing on the day on which the Minister gives that notice and ending when the Minister delivers the Budget.
-(3) In the case of information provided by an intelligence and security department, the responsible Minister must forward a copy of the information, as soon as practicable after receiving it, to the members of the Intelligence and Security Committee established under the Intelligence and Security Committee Act 1996.
+(3) In the case of information provided by an intelligence and security department, the responsible Minister must forward a copy of the information, as soon as practicable after receiving it, to the members of the Intelligence and Security Committee continued under section 192 of the Intelligence and Security Act 2017.
 (4) In the case of information provided by any other department, the responsible Minister (or the Minister referred to in subsection (6), if applicable) must present the information to the House of Representatives—
   (a) in the same document as the department's annual report for the financial year before the first full financial year to which the information relates; or
   (b) in any other document, in which case the information must be presented as soon as practicable after the responsible Minister receives it and not later than the date on which the annual report described in paragraph (a) is presented.
@@ -1291,11 +1291,9 @@ A department's annual report must include—
 
 ### 45E Application of this Part to intelligence and security departments
 (1) This Part applies to an intelligence and security department, subject to subsection (2) and with the following (and any other necessary) modifications:
-  (a) section 40 must be read as if section 40(2)﻿(d)﻿(ii) did not include a reference to the Minister; and
-  (b) sections 45B and 45BA must be read as if those sections referred to the forecast or actual financial statements, prepared in accordance with generally accepted accounting practice, that, in the opinion of the responsible Minister, will fairly reflect the department's forecast or actual financial operations and financial position for that financial year; and
-  (c) section 4J of the New Zealand Security Intelligence Service Act 1969 or, as the case may be, section 12 of the Government Communications Security Bureau Act 2003 is substituted (subject to all necessary modifications) for sections 43 and 44, except that—
-    (i) the report presented to the House of Representatives under section 4J(3) of the New Zealand Security Intelligence Service Act 1969 or section 12(3) of the Government Communications Security Bureau Act 2003 must include a statement that provides a record of the total of the actual expenses and capital expenditure incurred by the department for that year against the department's appropriation for that financial year (that statement being a substitute for the financial statements submitted to the responsible Minister and the Intelligence and Security Committee); and
-    (ii) the department must publish the report as soon as practicable after it has been presented to the House of Representatives.
+  (a) section 40 must be read as if the discretion conferred on the Minister by section 40(2)﻿(d)﻿(ii) were only able to be exercised with the agreement of the responsible Minister; and
+  (b)
+  (c) section 221 of the Intelligence and Security Act 2017 is substituted for sections 43 and 44.
   (d)
 (2) Section 39 (which requires information provided by a department on its strategic intentions to be presented to the House of Representatives and to be published) does not apply to an intelligence and security department.
 (3) However, subsection (2) does not affect the obligations of the responsible Minister of an intelligence and security department under section 39(3).
@@ -1803,7 +1801,7 @@ Any lending under section 65L or section 65M must be made from a capital expendi
 
 ### 65T Directions relating to operation of Departmental Bank Accounts
 (1) The Minister or the Treasury may give directions on the terms and conditions under which a Departmental Bank Account must be operated.
-(2) However, in the case of an intelligence and security department, the power conferred by subsection (1) must be exercised only on a basis agreed between the Minister and the responsible Minister for that department.
+(2) However, in the case of an intelligence and security department, the power conferred by subsection (1) must be exercised only on a basis agreed between the Minister and the responsible Minister.
 
 **General**
 
@@ -1834,7 +1832,7 @@ Any lending under section 65L or section 65M must be made from a capital expendi
   (a) issue directions about any public money held in a Crown Bank Account or a Departmental Bank Account; and
   (b) transfer money in a Crown Bank Account to another Crown Bank Account or a Departmental Bank Account; and
   (c) after consultation with the responsible Minister, direct a department that operates a Departmental Bank Account to transfer money in that account to a Crown Bank Account or another Departmental Bank Account.
-(5) In the case of an intelligence and security department, the powers conferred on the Minister or the Treasury by subsections (3) and (4) must be exercised on a basis agreed between the Minister and the responsible Minister for that department.
+(5) In the case of an intelligence and security department, the powers conferred on the Minister or the Treasury by subsections (3) and (4) must be exercised on a basis agreed between the Minister and the responsible Minister.
 
 ### 65X Statement of accounts must be sent to Treasury or Auditor-General
 A bank at which public money is kept must send to the Treasury or the Auditor-General the statements of account relating to that money that the Treasury or the Auditor-General may require, as the case may be.
