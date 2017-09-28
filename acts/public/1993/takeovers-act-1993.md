@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2017-03-31_
+_Consolidation as at 2017-09-28_
 
 > Title
 
@@ -560,9 +560,9 @@ No person is excused from answering any question or providing any information or
   (a) proceedings in respect of the falsity of any testimony; or
   (b) proceedings to which the Panel is a party; or
   (c) proceedings in respect of—
-    (i) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-    (ii) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-    (iii) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+    (i) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+    (ii) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+    (iii) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 (3) This section does not limit the application of the Official Information Act 1982.
 
 ### Subpart 2 — Enforcement by court
