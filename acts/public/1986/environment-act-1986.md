@@ -1,5 +1,5 @@
 # Environment Act 1986
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2017-09-28_
 
 > An Act to—aprovide for the establishment of the office of Parliamentary Commissioner for the Environment:bprovide for the establishment of the Ministry for the Environment:censure that, in the management of natural and physical resources, full and balanced account is taken of—ithe intrinsic values of ecosystems; andiiall values which are placed by individuals and groups on the quality of the environment; andiiithe principles of the Treaty of Waitangi; andivthe sustainability of natural and physical resources; andvthe needs of future generations
 
@@ -199,9 +199,9 @@ The Commissioner shall have such powers as may be necessary to enable the Commis
   (a) no proceedings, civil or criminal, shall lie against any person to whom this section applies for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith:
   (b) no person to whom this section applies shall be required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
 (3) Nothing in subsection (2) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 (4) Anything said or information supplied or any document or thing produced by any person in the course of any inquiry by or proceedings before the Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
 (5) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made under this Act by the Commissioner shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
