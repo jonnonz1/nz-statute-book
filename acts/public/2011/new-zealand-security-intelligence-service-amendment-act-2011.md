@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Amendment Act 2011
-_Consolidation as at 2011-07-12_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the New Zealand Security Intelligence Service Amendment Act 2011.
@@ -55,14 +55,14 @@ The following section is inserted after section 4:Principles underpinning perfor
 
 ### 7 Issue of interception warrant
 (1) Section 4A(1) and (2) are amended by inserting or to undertake electronic tracking, after not otherwise lawfully obtainable by the person,.
-(2) Section 4A(2)(b)(i) is amended by omitting whose communications may be intercepted and substituting who is to be subject to the warrant.
-(3) Section 4A(3)(a) and (b) are amended by inserting or electronic tracking after or seizure.
-(4) Section 4A(3)(d) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
+(2) Section 4A(2)﻿(b)﻿(i) is amended by omitting whose communications may be intercepted and substituting who is to be subject to the warrant.
+(3) Section 4A(3)﻿(a) and (b) are amended by inserting or electronic tracking after or seizure.
+(4) Section 4A(3)﻿(d) is amended by repealing subparagraph (i) and substituting the following subparagraph:.
   (i) section 58 or 59 of the Evidence Act 2006; or
 (5) Section 4A(6) is amended by omitting Every person who, by any interception warrant issued under subsection (1) of this section, is authorised to intercept or seize any communication, document, or thing, or is requested to give any assistance in making the interception or seizure, is justified in making the interception or seizure, and in taking any reasonable action necessarily involved in making or assisting to make or attempting to make the interception or seizure, and substituting Every person who is an authorised person under an intelligence warrant or a removal warrant, and every person requested under section 4D(2) to assist an authorised person to give effect to a warrant, is justified in exercising any powers conferred on the person by or under this Act for the purpose of giving effect to the warrant, and in taking, or attempting to take, any reasonable action necessarily involved in giving effect to the warrant,.
 
 ### 8 Subject matter of interception warrant
-(1) Section 4B(1)(b) and (c)(i) are amended by inserting or the facility after the place.
+(1) Section 4B(1)﻿(b) and (c)﻿(i) are amended by inserting or the facility after the place.
 (2) Section 4B(1) is amended by adding ; and and also by adding the following paragraph:
   (d) if electronic tracking is to be undertaken, state either or both of the following:
     (i) a description of the thing or class of thing to be tracked:
@@ -83,12 +83,12 @@ Sections 4D and 4E, and the heading above section 4E, are repealed and the follo
   (6) In this section, organisation includes a body corporate, an unincorporated body, an association of persons, a government department, and a Crown entity or other instrument of the Crown.
   (1) A person who is an authorised person under an intelligence warrant or any person who is requested under section 4D(2) to assist the authorised person may, for the purpose of giving effect to the warrant, gain entry to—
     (a) any place that is specified in the warrant; or
-    (b) any place that is owned or occupied by a person identified in the warrant under section 4B(1)(b) or (c); or
-    (c) any place where a person identified in the warrant under section 4B(1)(b) or (c) is or is likely to be at any time; or
-    (d) in any case where a facility is identified in the warrant under section 4B(1)(b) or (c), any place—
+    (b) any place that is owned or occupied by a person identified in the warrant under section 4B(1)﻿(b) or (c); or
+    (c) any place where a person identified in the warrant under section 4B(1)﻿(b) or (c) is or is likely to be at any time; or
+    (d) in any case where a facility is identified in the warrant under section 4B(1)﻿(b) or (c), any place—
       (i) where that facility is or is likely to be at any time; or
       (ii) that it is necessary to enter in order to access that facility.
-  (2) The power conferred by subsection (1)(c) or (d) is subject to section 4F.
+  (2) The power conferred by subsection (1)﻿(c) or (d) is subject to section 4F.
   (3) A person who is an authorised person under an intelligence warrant or any person who is requested under section 4D(2) to assist the authorised person may, in order to take the actions authorised by the warrant, do any of the following acts that are necessary for the purpose of giving effect to the warrant:
     (a) instal or modify any device or equipment:
     (b) maintain or monitor any device or equipment:
@@ -117,11 +117,11 @@ Section 4I is repealed and the following section substituted:Issue of removal wa
   (3) A warrant issued under subsection (1) must specify a period not exceeding 12 months for which the warrant is valid.
 
 ### 12 Statement on warrants
-(1) Section 4K(2)(d) is amended by omitting , made by the Minister under section 4D,.
+(1) Section 4K(2)﻿(d) is amended by omitting , made by the Minister under section 4D,.
 (2) Section 4K(3) is amended by omitting warrants (removal warrants) that were in force at any time during the reporting period, and that were issued under section 4I to remove devices or equipment installed under a domestic interception warrant: and substituting removal warrants that were in force at any time during the reporting period:.
 
 ### 13 Certificate by Minister
-Section 4L(2)(b) is amended by omitting warrants issued under section 4I and substituting removal warrants.
+Section 4L(2)﻿(b) is amended by omitting warrants issued under section 4I and substituting removal warrants.
 
 ### 14 Heading inserted above section 5
 The following heading is inserted above section 5:Director of Security.
@@ -160,6 +160,6 @@ The following sections are inserted after section 5:Delegation of functions or p
 
 ### 17 Consequential amendments to enactments relating to names of warrants
 (1) The principal Act is amended in the manner indicated in the Schedule.
-(2) Section 11(1)(d) of the Inspector-General of Intelligence and Security Act 1996 is amended by omitting interception warrants and substituting intelligence warrants.
+(2) Section 11(1)﻿(d) of the Inspector-General of Intelligence and Security Act 1996 is amended by omitting interception warrants and substituting intelligence warrants.
 
 ## Schedule  — Amendments to principal Act relating to names of warrants
