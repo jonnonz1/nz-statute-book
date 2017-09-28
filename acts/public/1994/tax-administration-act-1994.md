@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-09-28_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3470,6 +3470,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (s) communicating to any person, being a member of the New Zealand Police, any information, being information—
     (i) that the person is authorised by the Commissioner of Police to receive; and
     (ii) that is communicated to that person for the purposes of section 85K:
+  (sa) allowing the Director-General of an intelligence and security agency (as defined in section 4 of the Intelligence and Security Act 2017), or an employee of that intelligence and security agency authorised by the Director-General for that purpose, access to information specified in a permission given under section 137 or 138 of the Intelligence and Security Act 2017:
   (sb) communicating, for the purpose of section 85M, information relating to some offences under the Companies Act 1993 to the Registrar of Companies:
   (sc) communicating, for the purpose of section 85N, information relating to a taxpayer and reportable unpaid tax to an approved credit reporting agency:
   (t) communicating to any person who is an employee of the Treasury (as defined in section 2 of the Public Finance Act 1989), any information communicated to that person for the purposes of section LH 15 of the Income Tax Act 2007:
