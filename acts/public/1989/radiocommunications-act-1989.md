@@ -1,5 +1,5 @@
 # Radiocommunications Act 1989
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-09-28_
 
 > An Act to provide for the management of the radio frequency spectrum
 
@@ -1139,19 +1139,17 @@ Where any person is alleged to have committed an infringement offence, that pers
 (2) Subsection (1) does not apply to any radiocommunications intercepted—
   (a) by the Secretary for the purpose of ensuring compliance with this Act; or
   (b) by a constable, a Customs officer, or any other class of law enforcement official listed in regulations made under this Act for the purpose of avoiding prejudice to the maintenance of the law, including the detection, prevention, investigation, prosecution, and punishment of offences; or
-  (c) by an officer or employee of—
-    (i) the New Zealand Security Intelligence Service, for the purpose of obtaining intelligence relevant to security; or
-    (ii) the Government Communications Security Bureau, for the purpose of obtaining intelligence about the capabilities, intentions, and activities of foreign persons and foreign organisations; or
+  (c) by an employee of an intelligence and security agency for the purpose of performing the function under section 10 of the Intelligence and Security Act 2017; or
   (d) by a member of the New Zealand Defence Force, in connection with any of the purposes specified in section 5(a) to (d) of the Defence Act 1990; or
   (e) by a person acting under, and in accordance with, any authority conferred on him or her by or under—
     (i) Part 1 of the Telecommunications (Residual Provisions) Act 1987; or
-    (ii) the New Zealand Security Intelligence Service Act 1969; or
-    (iia) the Government Communications Security Bureau Act 2003; or
+    (ii) Part 4 of the Intelligence and Security Act 2017; or
+    (iia)
     (iii) the Misuse of Drugs Amendment Act 1978; or
     (iv) the International Terrorism (Emergency Powers) Act 1987.
-(3) For the purposes of this section,—
-  (a)
-  (b) security has the same meaning as in section 2(1) of the New Zealand Security Intelligence Service Act 1969.
+(3) In this section, intelligence and security agency means—
+  (a) the New Zealand Security Intelligence Service:
+  (b) the Government Communications Security Bureau.
 (4) Subsection (2) does not authorise the interception of any private communications within the meaning of section 216A of the Crimes Act 1961.
 
 **Regulations**
