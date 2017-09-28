@@ -1,5 +1,5 @@
 # Children's Commissioner Act 2003
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Children's Commissioner Act 2003.
@@ -210,9 +210,9 @@ The Commissioner may regulate the procedure for any investigation under this Act
 (2) No civil or criminal proceedings may be brought against the officeholder or a former officeholder or against a person who is or has been an employee of the Commissioner for anything done or omitted in the course of the exercise or intended exercise of functions under this Act unless it is shown that the person concerned acted in bad faith.
 (3) Neither the officeholder nor a former officeholder nor a person who is or has been an employee of the Commissioner may be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything that comes to the knowledge of the person concerned in the exercise of functions or powers under this Act.
 (4) Nothing in subsection (2) or subsection (3) applies in respect of proceedings for—
-  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+  (a) an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78, 78AA(1), 78A(1), 105, 105A, or 105B of the Crimes Act 1961.
 (5) Nothing in subsection (3) applies to any report made by the Commissioner to a court under section 12(1)﻿(g).
 (5A) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (5B) This section contains an exception to section 121 of the Crown Entities Act 2004.
