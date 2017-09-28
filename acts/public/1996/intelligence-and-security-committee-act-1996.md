@@ -1,5 +1,5 @@
 # Intelligence and Security Committee Act 1996
-_Consolidation as at 2014-08-08_
+_Consolidation as at 2017-09-28_
 
 > An Act to increase the level of oversight and review of intelligence and security agencies by establishing an Intelligence and Security Committee
 
@@ -19,7 +19,7 @@ _Consolidation as at 2014-08-08_
     (b) the Government Communications Security Bureau:
     (c) any other agency declared by the Governor-General from time to time by Order in Council as an intelligence and security agency for the purposes of this Act
   - **New Zealand Security Intelligence Service** means the New Zealand Security Intelligence Service referred to in section 3 of the New Zealand Security Intelligence Service Act 1969
-  - **nominated member** means a member of the Committee nominated in accordance with section 7(1)(c) or section 7(1)(d)
+  - **nominated member** means a member of the Committee nominated in accordance with section 7(1)﻿(c) or section 7(1)﻿(d)
   - **sensitive information** has the meaning given to it by section 3
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
@@ -84,7 +84,7 @@ There is hereby established a committee to be known as the Intelligence and Secu
   (b) the Prime Minister is the responsible Minister under the legislation governing the intelligence security agency.
 (2) If the Prime Minister is chairing the meeting of the Committee at which the matter is discussed,—
   (a) the Prime Minister must not act as chairperson of the Committee; and
-  (b) another member of the Committee nominated by the Prime Minister, being one of the 2 members appointed under section 7(1)(c), must act as chairperson.
+  (b) another member of the Committee nominated by the Prime Minister, being one of the 2 members appointed under section 7(1)﻿(c), must act as chairperson.
 (3) The chairperson of the Committee may appoint either of the following (if not already a member of the Committee) to be an alternate chairperson to act as chairperson at the discretion of the chairperson in the absence of the chairperson at a meeting of the Committee:
   (a) the Deputy Prime Minister:
   (b) the Attorney-General.
@@ -118,7 +118,7 @@ There is hereby established a committee to be known as the Intelligence and Secu
 ### 12 Conduct of proceedings
 (1) Subject to the provisions of this Act, the proceedings of the Committee shall be conducted in accordance with the Standing Orders of the House of Representatives.
 (2) The proceedings of the Committee shall be held in private unless the Committee by unanimous resolution resolves otherwise.
-(2A) However, subsection (2) does not apply when the Committee is performing its function specified in section 6(1)(ab).
+(2A) However, subsection (2) does not apply when the Committee is performing its function specified in section 6(1)﻿(ab).
 (3) Where the proceedings of the Committee are conducted in private, the Committee may, having regard to the requirements of security and to such other matters as the Committee thinks fit, give directions as to the persons who may be present.
 
 ### 13 Meetings of Committee
@@ -157,11 +157,11 @@ There is hereby established a committee to be known as the Intelligence and Secu
 (1) If the chief executive of an intelligence and security agency or any other person is asked by the Committee to disclose any documents or other information in his or her possession relevant to the matters being considered by the Committee, that chief executive or other person shall, subject to subsections (2) and (3), either—
   (a) arrange for those documents or that information to be made available to the Committee; or
   (b) inform the Committee that those documents or that information cannot be disclosed because, in the opinion of the chief executive of the relevant intelligence and security agency, those documents are, or that information is, sensitive information.
-(2) The fact that any particular documents are, or any particular information is, sensitive information shall not prevent the disclosure of those documents or that information under subsection (1)(a) if,—
+(2) The fact that any particular documents are, or any particular information is, sensitive information shall not prevent the disclosure of those documents or that information under subsection (1)﻿(a) if,—
   (a) in any case where the documents are, or the information is, in the possession or under the control of the chief executive of an intelligence and security agency, that chief executive considers it safe to disclose them; or
   (b) in any case where the documents are, or information is, in the possession or under the control of any other person, the chief executive of the relevant intelligence and security agency considers it safe to disclose them.
-(3) Subject to subsection (4), information that has not been disclosed to the Committee on the ground specified in subsection (1)(b) shall be disclosed to the Committee if the Prime Minister considers it desirable in the public interest.
-(4) Subsection (3) of this section shall not apply to information that is sensitive information under subsections (1)(d) and (2) of section 3.
+(3) Subject to subsection (4), information that has not been disclosed to the Committee on the ground specified in subsection (1)﻿(b) shall be disclosed to the Committee if the Prime Minister considers it desirable in the public interest.
+(4) Subsection (3) of this section shall not apply to information that is sensitive information under subsections (1)﻿(d) and (2) of section 3.
 (5) Where any document or other information having a security classification is provided to the Committee, the Committee shall ensure that the document or information—
   (a) is kept in safe custody in accordance with the requirements applying to the safe custody of documents in the intelligence and security agencies; and
   (b) is returned to the originating intelligence and security agency when no longer required by the Committee.
@@ -202,7 +202,7 @@ There is hereby established a committee to be known as the Intelligence and Secu
 **Periodic reviews**
 
 ### 21 Requirement to hold periodic reviews
-A review of the intelligence and security agencies, the legislation governing them, and their oversight legislation must, in accordance with the terms of reference specified under section 22(3)(a), be—
+A review of the intelligence and security agencies, the legislation governing them, and their oversight legislation must, in accordance with the terms of reference specified under section 22(3)﻿(a), be—
   (a) commenced before 30 June 2015; and
   (b) afterwards, held at intervals not shorter than 5 years and not longer than 7 years.
 
@@ -238,4 +238,4 @@ To assist the reviewers to conduct their review,—
 (2) A person providing administrative, secretarial, or other support under subsection (1) must have an appropriate security clearance.
 
 ### 27 Reviewers to determine own procedure
-The reviewers may determine their own procedure subject to any matters specified under section 22(3)(b).
+The reviewers may determine their own procedure subject to any matters specified under section 22(3)﻿(b).
