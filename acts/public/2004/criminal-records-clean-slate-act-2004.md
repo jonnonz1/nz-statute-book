@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-09-28_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -247,7 +247,7 @@ This Act binds the Crown.
   (a) the eligible individual's criminal record or information about the eligible individual's criminal record is necessary for any of the following purposes:
     (i) the exercise of the prevention, detection, investigation, or prosecution functions of a law enforcement agency or an overseas agency or body whose functions correspond to those of a law enforcement agency; or
     (ii) the administration of sentences or the management of remand inmates by a law enforcement agency; or
-    (iii) the exercise of security-related functions of the New Zealand Security Intelligence Service; or
+    (iii) the exercise of the protective security advice and assistance function of the New Zealand Security Intelligence Service under section 11 of the Intelligence and Security Act 2017; or
   (b) the eligible individual's criminal record or information about the eligible individual's criminal record is relevant to any criminal or civil proceedings before a court or tribunal (including sentencing) or proceedings before the New Zealand Parole Board; or
   (c) the eligible individual has made an application of any kind under the Arms Act 1983 and a Police employee is considering whether the individual is a fit and proper person for the purposes of that application; or
   (d) the eligible individual has made an application for employment—
