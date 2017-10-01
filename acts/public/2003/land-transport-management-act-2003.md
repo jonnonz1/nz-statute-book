@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-10-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -174,7 +174,6 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **statutorily independent function** means,—
     (a) in the case of the Agency, a function specified in section 95(2):
     (b) a matter in respect of which this Act provides must be carried out independently
-  - **taxi service** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **toll** means a toll that is payable under Part 2, and includes different levels of tolls if more than 1 level is set in respect of the same road
   - **toll operator** , in relation to a toll road, means the public road controlling authority or concessionaire who operates the toll road under a road tolling scheme
@@ -1520,9 +1519,7 @@ A regional public transport plan is not invalid merely because the regional coun
 ### 119 Adoption of regional public transport plans
 (1) A regional council must, by resolution on or before 1 July 2015, adopt a regional public transport plan unless it does not intend to—
   (a) enter into any contract for the supply of any public transport service:
-  (b) provide any financial assistance to any operator or user of—
-    (i) a taxi service:
-    (ii) a shuttle service.
+  (b) provide any financial assistance to any operator or user of any other passenger service in a small passenger service vehicle.
 (2) A regional council may, by resolution at any time, vary or renew a regional public transport plan previously adopted by it.
 (3) The production in proceedings of a copy of a regional public transport plan purporting to have been adopted, varied, or renewed by a regional council under this section is, in the absence of evidence to the contrary, sufficient evidence of the plan and of the fact that it has been adopted, varied, or renewed in accordance with this section.
 (4) A regional council (or a territorial authority to which the responsibility is transferred under the Local Government Act 2002) may not delegate the responsibility for adopting, varying, or renewing a regional public transport plan to a committee or other subordinate decision-making body, or a member or an officer of the council (or territorial authority, as the case may be), or any other person.
@@ -1537,7 +1534,7 @@ A regional public transport plan is not invalid merely because the regional coun
     (iv) indicate the date by which a unit is expected to start operating; and
     (v) indicate the date by which any exempt service that is to be replaced by a unit is to be deregistered; and
     (vi) identify any units for which the regional council intends to provide financial assistance; and
-    (vii) identify any taxi services or shuttle services for which the regional council intends to provide financial assistance; and
+    (vii) identify any passenger services in small passenger service vehicles for which the regional council intends to provide financial assistance; and
     (viii) describe how the network of public transport services and the services referred to in subparagraph (vii) will assist the transport-disadvantaged; and
   (b) must specify any objectives and policies that are to apply to—
     (i) any units; and
