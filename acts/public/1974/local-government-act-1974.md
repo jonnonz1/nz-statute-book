@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-10-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2864,7 +2864,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 (2) The grant of any such right or easement shall be subject to the payment of such rent, and to the observance of such conditions as to size, construction, repair, and maintenance of the conduit pipes, and as to repair of any road or private road or private way under or along which they are laid, as the council thinks fit.
 
 ### 339 Transport shelters
-(1) The council may erect on the footpath of any road a shelter for use by intending public-transport passengers or taxi passengers:
+(1) The council may erect on the footpath of any road a shelter for use by intending public-transport passengers or small passenger service vehicle passengers:
   provided that no such shelter may be erected so as to unreasonably prevent access to any land having a frontage to the road.
 (2) The council shall give notice in writing of its proposal to erect any shelter under this section to the occupier and, if he is not also the owner, to the owner of any land the frontage of which is likely to be injuriously affected by the erection of the shelter, and shall not proceed with the erection of the shelter until after the expiration of the time for objecting against the proposal or, in the event of an objection, until after the objection has been determined.
 (3) Within 14 days after the service of the notice, the occupier or owner, as the case may be, may object in writing to the council against the proposal.
