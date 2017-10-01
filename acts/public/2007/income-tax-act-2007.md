@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -11559,7 +11559,7 @@ Rate for certain motor vehicles
 (3) The economic rate for a motor vehicle that is designed exclusively or mainly to carry persons and has seats for no more than 12 persons is a diminishing value rate of 30% or a straight-line rate of 21% if the motor vehicle—
   (a) is not available for hire:
   (b) is available for hire for a hire period of more than 1 month:
-  (c) is a taxi:
+  (c) is a small passenger service vehicle:
   (d) is a minibus.
 
 ### EE 30 Economic rate for plant, equipment, or building, with high residual value
@@ -39161,7 +39161,7 @@ In this Act, unless the context requires otherwise,—
     (b) in the FBT rules, and in the definition of work-related vehicle,—
       (i) means a motor vehicle designed exclusively or mainly to carry people:
       (ii) includes such a motor vehicle that has rear doors or collapsible rear seats:
-      (iii) does not include a minibus, moped, motorcycle, or taxi
+      (iii) does not include a minibus, moped, motorcycle, or small passenger service vehicle
   - **cash accounting method** is defined in section EG 2(4) (Adjustment for changes to accounting practice) for the purposes of that section
   - **cash basis person** is defined in section EW 54 (Meaning of cash basis person)
   - **casual agricultural employee** means—
@@ -41947,6 +41947,7 @@ In this Act, unless the context requires otherwise,—
   - **slice rule** means the rule set out in section CD 23(3) (Ordering rule and slice rule) for calculating the amount of available subscribed capital per share
   - **small-business person** is defined in section RC 40 (Some definitions) for the purposes of subpart RC (Provisional tax)
   - **small partnership** means a partnership that is not a limited partnership and has 5 or less partners, none of whom are companies or partnerships
+  - **small passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **social assistance payment** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **social assistance suspensory loan** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **sound commercial reason** is defined in section EW 26(7) (Change of spreading method) for the purposes of that section.
@@ -42167,7 +42168,7 @@ In this Act, unless the context requires otherwise,—
       (i) wholly owns the FIF under the laws of New Zealand and the host country; and
       (ii) has a relationship with the host country meeting the requirements of paragraphs (a) to (c); and
       (iii) because of the parent company's domicile, residence, place of incorporation, or centre of management, is liable in the host country to tax on the FIF's income in the same period that the FIF would be liable on its income if it were a company liable for tax
-  - **taxi** is defined in section 2(1) of the Land Transport Act 1998
+  - **taxi**
   - **taxicab**
   - **taxpayer** means a person who is, or may be, liable to perform or comply with an obligation imposed by this Act
   - **technology**
