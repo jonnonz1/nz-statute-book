@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2017-10-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -30,7 +30,6 @@ _Consolidation as at 2017-09-28_
   - **approved health authority** means an institution approved by the Minister, with the agreement of the Minister of Health, for the purposes of section 209
   - **approved laboratory** means a laboratory approved by the Science Minister, by notice in the Gazette, for the purposes of analysing blood specimens taken for the purposes of this Act
   - **approved provider** , in relation to alcohol interlock devices, means a person approved by the Agency to install, maintain, or remove alcohol interlock devices
-  - **approved taxi organisation** means a taxi organisation approved or deemed to be approved by the Agency under this Act, the regulations, or the rules
   - **approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister of Police, by notice in the Gazette
   - **assessment centre** means an establishment or individual for the time being approved as an assessment centre for the purposes of this Act by the chief executive of the Ministry of Health
   - **axle** means 1 or more shafts, spindles, or bearings in the same vertical transverse plane by means of which, in conjunction with wheels mounted on those shafts, spindles, or bearings, a portion of the weight of the vehicle is transmitted to the roadway; and, except as the provisions of this Act or of the rules otherwise provide, the following provisions apply for the purposes of this Act and the regulations and rules:
@@ -52,7 +51,7 @@ _Consolidation as at 2017-09-28_
   - **certificate of loading** means a certificate of loading issued under the regulations or the rules
   - **Commissioner** means the Commissioner of Police
   - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice in the Gazette, to determine whether a person’s capacity to drive is impaired
-  - **control** , in relation to a transport service or a proposed or approved taxi organisation, means direct or indirect control of the management of the whole or part of the transport service or taxi organisation by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service or taxi organisation that gives the person a significant influence on the operation of the whole or part of the service or organisation (whether or not other persons are also involved)
+  - **control** , in relation to a transport service, means direct or indirect control of the management of the whole or part of the transport service by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service that gives the person a significant influence on the operation of the whole or part of the service (whether or not other persons are also involved)
   - **court** means the District Court
   - **cruising** means driving repeatedly in the same direction over the same section of a road in a motor vehicle in a manner that—
     (a) draws attention to the power or sound of the engine of the motor vehicle being driven; or
@@ -87,6 +86,16 @@ _Consolidation as at 2017-09-28_
   - **evidence of vehicle inspection** , in relation to a vehicle, means any certificate, label, or document issued under this Act as evidence of the completion of the periodic vehicle inspection requirements in respect of that vehicle
   - **evidential breath test** means a test carried out by means of an evidential breath-testing device in a manner prescribed in respect of that device by the Minister of Police, by notice in the Gazette
   - **evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice in the Gazette
+  - **facilitate** , in relation to a small passenger service,—
+    (a) means to enable drivers and passengers to connect by electronic or any other means (for example, by telephone, Internet site, application, or software); but
+    (b) does not include the mere provision of an answering or call centre service
+  - **facilitated cost-sharing arrangement** means a small passenger service that is facilitated by a facilitator (whether or not the facilitator is paid) under which a passenger is carried in return for the driver’s costs being reimbursed, which costs—
+    (a) may be up to a maximum amount per kilometre set by the Minister by notice in the Gazette (for example, the costs of fuel and reasonable vehicle wear and tear); but
+    (b) may not include—
+      (i) payment for the driver’s driving or travelling time; or
+      (ii) any infringement fee incurred in the course of the journey; or
+      (iii) registration and licensing costs for the driver or the driver’s vehicle
+  - **facilitator** means a person who facilitates a small passenger service
   - **financial year** , in relation to the Agency, means the period of 12 months commencing on 1 July and ending with the close of 30 June
   - **fire brigade** includes—
     (a) a defence fire brigade and an industry brigade (as those terms are defined in section 6 of the Fire and Emergency New Zealand Act 2017); and
@@ -131,6 +140,8 @@ _Consolidation as at 2017-09-28_
     (c) an infringement offence specified in regulations made under this Act:
     (ca) a toll offence:
     (d) any other offence against this Act or any other enactment that is specified as an infringement offence against this Act (other than an offence that carries a penalty of imprisonment or mandatory disqualification from holding or obtaining a driver licence)
+  - **large passenger service** means a passenger service provided in a large passenger service vehicle
+  - **large passenger service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a large passenger service
   - **land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
   - **land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 2012, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, or this Act
   - **land transport register** includes—
@@ -221,6 +232,7 @@ _Consolidation as at 2017-09-28_
     (b) includes the carriage of passengers on any road—
       (i) that involves a specific charge on passengers for transport, including part payments to cover fuel and donations (which are expected as a condition of carriage); or
       (ii) by a person or an organisation that is funded by another person or organisation specifically for the provision of transport; or
+      (iia) after a connection between a passenger and a small passenger service facilitated by a facilitator; or
       (iii) in which the carriage of passengers is an integral part of, or reasonably necessary to provide, another service or activity (other than a transport service) for which payment is made; or
       (iv) in which the carriage of passengers is made using the vehicle provided by one of the passengers and the driver is paid for the carriage; or
       (v) that involves the letting on hire of a vehicle by a person who drives the vehicle or provides a driver for the vehicle if, during the hiring, the vehicle is used for the carriage of passengers; but
@@ -228,7 +240,6 @@ _Consolidation as at 2017-09-28_
       (i) private ambulance services provided by organisations primarily for their employees, being ambulance services that are available to the general public in an emergency only when public ambulance services cannot provide a service; or
       (ii) any service using a vehicle that is specified as an exempt passenger service vehicle in the regulations or the rules; or
       (iii) any service specified as an exempt passenger service in the regulations or the rules
-  - **passenger service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a passenger service
   - **passenger service vehicle** —
     (a) means a vehicle used or available for use in a passenger service for the carriage of passengers; but
     (b) does not include—
@@ -306,6 +317,9 @@ _Consolidation as at 2017-09-28_
     (c) any service specified as an exempt rental service in the regulations or the rules
   - **rental service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on a rental service
   - **rental service vehicle** means a vehicle used or available for use in a rental service for letting on hire for the carriage of passengers or goods, or both, to a person who drives the vehicle or provides a driver for the vehicle; but does not include a vehicle specified as an exempt vehicle in this Act or the regulations or the rules
+  - **representative** means an agent authorised by a small passenger service operator to—
+    (a) engage with the Agency on matters relating to the operator’s compliance with the relevant requirements of this Act, the regulations, and the rules; and
+    (b) accept service of legal documents on behalf of the operator
   - **responsible clinician** has the same meaning as it has in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **rest time** means all time that—
     (a) is not work time; and
@@ -328,6 +342,15 @@ _Consolidation as at 2017-09-28_
     (a) an operation carried out on 1 occasion only; and
     (b) an operation carried out solely for the benefit of the persons carrying it out
   - **site** , in section 147, means a site where a dynamic axle weigher is used
+  - **small passenger service** means a passenger service provided in—
+    (a) a small passenger service vehicle; or
+    (b) a vehicle designed or adapted to carry 12 or fewer persons (including the driver) that is provided by one of the passengers being carried; or
+    (c) a vehicle designed or adapted to carry 12 or fewer persons (including the driver) that is being used in a facilitated cost-sharing arrangement
+  - **small passenger service licence** means a licence granted or deemed to be granted under subpart 3 of Part 4A that authorises its holder to carry on or facilitate a small passenger service
+  - **small passenger service operator** —
+    (a) means a person who carries on a small passenger service; and
+    (b) includes a facilitator; but
+    (c) does not include any other person who is a driver in the small passenger service or who otherwise assists in the small passenger service
   - **small passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry 12 or fewer persons (including the driver)
   - **special vehicle lane** has the meaning given to it in clause 1.6 of the Land Transport (Road User) Rule 2004
   - **speed limit** means a speed limit set by or under this Act, the Local Government Act 1974, the Government Roading Powers Act 1989, or the rules
@@ -338,11 +361,6 @@ _Consolidation as at 2017-09-28_
       (ii) any bylaw made under section 22AB(1)﻿(m) to (o):
     (b) any offence specified as a stationary vehicle offence in regulations made under this Act
   - **storage provider** means a person who stores vehicles impounded under this Act
-  - **taxi** means a motor vehicle that is—
-    (a) a small passenger service vehicle; and
-    (b) fitted with a sign on its roof displaying the word taxi and any other signs required by the regulations or the rules; and
-    (c) in use or available for use for hire or reward for the carriage of passengers other than on defined routes
-  - **taxi service** means a passenger service carried on by means of a taxi or taxis
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **toll** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **toll offence** means an offence against section 54(1) of the Land Transport Management Act 2003
@@ -363,10 +381,14 @@ _Consolidation as at 2017-09-28_
   - **transport service driver** means any person who is, or is from time to time, employed or engaged in driving a vehicle being used in a transport service other than a rental service, whether or not that person is licensed or required to hold a licence to drive such a vehicle
   - **transport service licence** means any of the following licences granted or deemed to be granted under subpart 3 of Part 4A:
     (a) a goods service licence:
-    (b) a passenger service licence:
+    (b) a large passenger service licence:
     (c) a rental service licence:
-    (d) a vehicle recovery service licence
-  - **transport service operator** means a person who carries on a transport service, whether or not that person employs personnel to assist in doing so on its behalf; but does not include those personnel
+    (d) a small passenger service licence:
+    (e) a vehicle recovery service licence
+  - **transport service operator** —
+    (a) means a person who carries on a transport service; and
+    (b) includes, in relation to a small passenger service, a facilitator; but
+    (c) does not include any other person who is a driver in the transport service or who otherwise assists in the transport service
   - **transport service vehicle** means any goods service vehicle, passenger service vehicle, rental service vehicle, or vehicle recovery service vehicle; but does not include—
     (a) a rail vehicle under the Railways Act 2005; or
     (b) a vehicle running on self-laying tracks or rollers; or
@@ -969,17 +991,20 @@ Despite section 28(1)﻿(g) and (4), the date of issue of a driver licence conti
 
 ### 30A Requirements for vehicles
 (1) A holder of a transport service licence must ensure that—
-  (a) every vehicle to be used in connection with the service is maintained in a fit and proper condition and that the requirements of any Act, regulation, or rule made for this purpose are met:
-  (b) no vehicle is used in connection with the service unless and until all fees payable in respect of the vehicle and the service under any Act, regulation, or bylaw have been duly paid or appropriate arrangements have been made for payment.
-(2) The holder of any transport service licence must, whenever required to do so by the Agency, present for inspection any vehicle that is used in the service.
+  (a) every vehicle to be used in the service is maintained in a fit and proper condition and that the requirements of any Act, regulation, or rule made for this purpose are met:
+  (b) no vehicle is used in the service unless and until all fees payable in respect of the vehicle and the service under any Act, regulation, or bylaw have been duly paid or appropriate arrangements have been made for payment.
+(2) The holder of any transport service licence must, whenever required to do so by the Agency, present for inspection any transport service vehicle used in the service.
+(2A) The driver of a small passenger service vehicle must, whenever required to do so by the Agency, present the vehicle for inspection.
 (3) No evidence of vehicle inspection may be issued in respect of a transport service vehicle unless the person issuing the evidence of vehicle inspection has been notified of the transport service licence number under which the vehicle is being operated.
 (4) No person may use a transport service vehicle if that vehicle has suffered serious damage until the vehicle has been inspected and passed as being safe by a person authorised by the Agency, or the owner of the vehicle has been informed by such a person that the vehicle is not to be inspected.
+(5) Nothing in subsection (1), (3), or (4) applies to a vehicle used in a small passenger service.
+(6) Nothing in this section applies to—
+  (a) the facilitator of a facilitated cost-sharing arrangement; or
+  (b) a vehicle used in a facilitated cost-sharing arrangement; or
+  (c) a vehicle designed or adapted to carry 12 or fewer persons (including the driver) provided by one of the passengers being carried.
 
 ### 30B Provision of identification information in Braille
-The holder of a transport service licence under which a taxi is operated and the driver of that taxi must, in accordance with any regulations or rules, ensure that the following identification information is provided in Braille:
-  (a) the name of the approved taxi organisation; and
-  (b) the unique fleet number assigned to the taxi; and
-  (c) the approved taxi organisation's telephone number for complaints.
+[Repealed]
 
 ### Subpart 2 — Fit and proper person test
 
@@ -1004,16 +1029,16 @@ The holder of a transport service licence under which a taxi is operated and the
   (b) the fact that the person has been charged with any offence that is of such a nature that the public interest would seem to require that a person convicted of committing such an offence not be considered to be fit and proper for the purposes of this section.
 (4) Despite subsection (3), the Agency may take into account any other matters and evidence as the Agency considers relevant.
 
-### 30D Additional criteria for small passenger service vehicles and vehicle recovery service
-Without in any way limiting the matters that the Agency may consider under section 30C(2), when the Agency is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of small passenger service vehicles, or to any vehicle recovery service, the Agency must consider, in particular,—
+### 30D Additional criteria for small passenger service and vehicle recovery service
+Without in any way limiting the matters that the Agency may consider under section 30C(2), when the Agency is assessing whether or not a person is a fit and proper person in relation to any small passenger service, or to any vehicle recovery service, the Agency must consider, in particular,—
   (a) any history of serious behavioural problems:
   (b) any offending in respect of offences of violence, sexual offences, drugs offences, arms offences, or offences involving organised criminal activities:
   (c) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges:
   (d) any persistent offending of any kind:
   (e) any complaints in respect of the person or any transport service operated by the person that are of a persistent or serious nature.
 
-### 30E Additional criteria for large passenger service vehicles
-Without in any way limiting the matters that the Agency may have regard to under section 30C(2), when the Agency is assessing whether or not a person is a fit and proper person in relation to any passenger service involving the use of large passenger service vehicles, the Agency must consider, in particular,—
+### 30E Additional criteria for large passenger service
+Without in any way limiting the matters that the Agency may have regard to under section 30C(2), when the Agency is assessing whether or not a person is a fit and proper person in relation to any large passenger service, the Agency must consider, in particular,—
   (a) any history of serious behavioural problems that indicate a propensity for violence:
   (b) any offending in respect of offences of violence or sexual offences:
   (c) any offending in respect of major transport-related offences, particularly offences relating to safety or to road user charges.
@@ -1045,12 +1070,13 @@ If the Agency proposes to take into account any information that is or may be pr
 
 ### Subpart 3 — Licensing of transport services
 
-### 30J Transport service operators may not carry on certain transport services unless licensed to do so
-A transport service operator may not carry on any of the following transport services unless licensed to do so:
-  (a) goods service:
-  (b) passenger service:
-  (c) rental service:
-  (d) vehicle recovery service.
+### 30J Transport service operators must be licensed
+A transport service operator may not carry on (or, in relation to a small passenger service operator, facilitate) any of the following transport services unless licensed to do so:
+  (a) a goods service:
+  (b) a large passenger service:
+  (c) a rental service:
+  (d) a small passenger service:
+  (e) a vehicle recovery service.
 
 ### 30K Application for transport service licence
 (1) Every application for a transport service licence must be—
@@ -1061,13 +1087,17 @@ A transport service operator may not carry on any of the following transport ser
 ### 30L Grant of licence
 (1) After considering an application for a transport service licence, the Agency may grant the licence only if the Agency is satisfied that—
   (a) the applicant is a fit and proper person to hold a transport service licence; and
-  (b) any person who is to have, or is likely to have, control or involvement in the operation of the transport service is a fit and proper person to have such control or involvement; and
-  (c) the applicant or any person who is to have control of the service is the holder of the appropriate certificate (if any) required by the regulations or the rules; and
-  (d) all relevant requirements of this Act, the regulations, and the rules have been complied with.
-(2) In determining whether or not a person is a fit and proper person to operate, control, or have an involvement in, a transport service, the Agency must consider the matters specified in subpart 2.
+  (b) any person who is to have, or is likely to have, control of the transport service is a fit and proper person to have such control; and
+  (c) any representative meeting the requirements of subsection (1A)﻿(b) is a fit and proper person to be a representative; and
+  (d) the applicant or any person who is to have control of the transport service is the holder of the appropriate certificate (if any) required by the regulations or the rules; and
+  (e) all relevant requirements of this Act, the regulations, and the rules have been complied with.
+(1A) The Agency may grant a small passenger service licence only if the Agency is satisfied that—
+  (a) a person who is to have control of the small passenger service in New Zealand lives in New Zealand; or
+  (b) the small passenger service operator has a representative who lives in New Zealand.
+(2) In determining whether or not a person is a fit and proper person in relation to any transport service, the Agency must consider the matters specified in subpart 2.
 (3) Subpart 5 applies to a decision not to grant a transport service licence.
 
-### 30M Conditions of transport service licences
+### 30M Conditions of goods service licence
 Despite section 30L(1) and (2), the Agency may grant the licence on such conditions as the Agency may specify on the licence or in writing to the holder if the applicant applies for a goods service licence and the Agency—
   (a) is not satisfied that the applicant is a fit and proper person to operate a goods service under the licence sought; but
   (b) is satisfied that—
@@ -1093,56 +1123,49 @@ Despite section 30L(1) and (2), the Agency may grant the licence on such conditi
   (c) the Police; or
   (d) any emergency service organisation approved by the Agency for the purposes of this section.
 
-### 30P Agency may grant applications for approved taxi organisations
-(1) The Agency may grant an application by a person or an organisation to be an approved taxi organisation.
-(2) An application by a person or organisation to be an approved taxi organisation must be made in accordance with the regulations or the rules.
-(3) An approved taxi organisation must comply with the requirements relating to an approved taxi organisation specified in the regulations or the rules.
-(4) A holder of a passenger service licence may not operate a taxi service under that licence unless the licence holder is a member of an approved taxi organisation.
+### 30P Driver must have or drive under transport service licence
+A transport service driver must, when using a vehicle in a transport service,—
+  (a) have the relevant transport service licence; or
+  (b) drive on behalf of the holder of the relevant transport service licence; or
+  (c) have been facilitated to connect with passengers by a facilitator who holds a small passenger service licence.
 
-### 30Q Circumstances in which Agency must grant applications for approved taxi organisations
-(1) Despite section 30P(1), the Agency must grant an application if the Agency is satisfied that—
-  (a) the applicant is—
-    (i) a person who holds, or has made an application for, a passenger service licence; or
-    (ii) an organisation that represents operators of taxi services; and
-  (b) any person who will have, or is likely to have, control of the proposed taxi organisation is a fit and proper person, within the meaning of subpart 2, to have control of the proposed taxi organisation; and
-  (c) any person who will have, or is likely to have, control of the proposed taxi organisation holds the appropriate certificate (if any) required by the regulations or the rules; and
-  (d) the operating rules, rosters, and other internal operating procedures of the proposed taxi organisation are likely to provide adequate control over the proposed taxi organisation's members and their drivers; and
-  (e) the proposed taxi organisation's members and their drivers have the ability to meet the relevant requirements of the regulations and the rules; and
-  (f) the proposed taxi organisation is likely to be able to meet the relevant requirements of the regulations and the rules; and
-  (g) the signage of the proposed taxi organisation is sufficiently distinguishable from the signage of any other approved taxi organisation operating in the same area.
-(2) Approval of an application includes approval of the proposed operating rules for the proposed taxi organisation.
-(3) Subpart 5 applies to a decision not to grant an application.
+### 30Q Records to be kept by facilitator of facilitated cost-sharing arrangement
+(1) A facilitator of a facilitated cost-sharing arrangement must keep—
+  (a) all records of payments to the driver; and
+  (b) all records of payments made by passengers to the facilitator; and
+  (c) a record of the distance travelled on each trip.
+(2) The person who keeps the records required under subsection (1) must—
+  (a) keep each record for 12 months from the date it is made; and
+  (b) make all records referred to in subsection (1) in the possession or control of that person available for immediate inspection on demand at any reasonable time by the Agency.
+(3) A person employed by the Agency to whom records are made available for inspection under subsection (2)﻿(b) is entitled to make copies of those records.
 
 ### 30R Agency may revoke approval
-(1) The Agency may revoke any approval granted under section 30P(1) or section 30Q(1) if—
-  (a) the person or organisation has been convicted 3 times or more of an offence against this Act or the regulations; or
-  (b) the person or organisation no longer meets the criteria to be an approved taxi organisation; or
-  (c) the Agency is satisfied that the person or organisation, or any person in control of the organisation,—
-    (i) is not a fit and proper person, within the meaning of subpart 2, to have control of an approved taxi organisation; or
-    (ii) is not a fit and proper person to have control of an approved taxi organisation because the drivers within that approved taxi organisation have failed to maintain, in accordance with the regulations or the rules,—
-      (A) an adequate area knowledge; or
-      (B) an appropriate ability to communicate in the English language; or
-    (iii) is unable to maintain adequate control over the activities of its members or their drivers in accordance with—
-      (A) the organisation's operating rules; and
-      (B) any relevant regulations or rules made under this Act.
-(2) Subpart 5 applies to a decision to revoke an approval.
+[Repealed]
 
 ### Subpart 4 — Revocation of transport service licences
 
 ### 30S When Agency may revoke transport service licence
 (1) The Agency may revoke a transport service licence if the Agency is satisfied that—
   (a) the holder of the transport service licence is not a fit and proper person to be the holder of a transport service licence; or
-  (b) any person having control of the service, or any person who has an involvement in the operation of the service, is not a fit and proper person to have control of, or be involved in, the operation of the service.
+  (b) any person who has control of the transport service is not a fit and proper person to have control of the service; or
+  (c) any representative who lives in New Zealand is not a fit and proper person to be a representative; or
+  (d) any driver is not a fit and proper person.
+(1A) Subsection (1)﻿(c) does not apply in relation to drivers who are facilitated to connect with passengers under a facilitated cost-sharing arrangement.
 (2) Subpart 5 applies to a decision to revoke a transport service licence.
 
 ### 30T Procedure Agency must follow before revoking transport service licence
-If the proposed revocation of a licence under this section is on the ground that a person other than the licence holder is not a fit and proper person,—
+If the proposed revocation of a licence under section 30S is on the ground that a person other than the licence holder is not a fit and proper person,—
   (a) the notice required to be given to the licence holder by section 30W must specify the steps that the Agency will require to be taken if the licence is not to be revoked, which steps may include a requirement that the person concerned cease all involvement in the service within a specified period; and
   (b) the licence must not be revoked where the licence holder complies with any such requirements of the Agency.
 
 ### 30U Suspension of transport service licence
-(1) If the holder of a transport service licence, or any person who has control of the service, does not hold a certificate required by the regulations or the rules, the Agency may suspend the licence until the holder of the licence or the person who has control of the service is the holder of such a certificate.
-(2) Subject to subsection (1), any such suspension shall cease immediately upon the holder of the licence or any person having control of the service obtaining the appropriate certificate and notifying the Agency accordingly.
+(1) The Agency may suspend a licence if—
+  (a) the holder of a transport service licence, or any person who has control of the service, does not hold a certificate required by the regulations or the rules; or
+  (b) the holder of a small passenger service licence, or any person who has control of the service, does not comply with the applicable requirements in this Part, Part 4B, the regulations, or the rules; or
+  (c) the holder of a small passenger service licence does not have—
+    (i) a person with control of the service in New Zealand who lives in New Zealand; or
+    (ii) a representative who lives in New Zealand.
+(2) A suspension ceases immediately when the Agency is satisfied that subsection (1)﻿(a), (b), or (c) no longer applies.
 (3) Subpart 5 applies to a decision to suspend a transport service licence.
 
 ### Subpart 5 — Adverse decisions
@@ -1151,20 +1174,14 @@ If the proposed revocation of a licence under this section is on the ground that
 In sections 30W to 30Y, unless the context otherwise requires,—
   - **adverse decision** means any decision of the Agency—
     (a) that a person is not a fit and proper person under subpart 2; or
-    (b) to refuse to grant—
-      (i) a transport service licence under section 30L; or
-      (ii) approval as an approved taxi organisation under section 30Q(1); or
+    (b) to refuse to grant a transport service licence under section 30L; or
     (c) to grant a licence on conditions under section 30M; or
-    (d) to revoke—
-      (i) a transport service licence under section 30S; or
-      (ii) approval of an approved taxi organisation under section 30R(1); or
-    (e) to suspend—
-      (i) a transport service licence under section 30U; or
-      (ii)
+    (d) to revoke a transport service licence under section 30S; or
+    (e) to suspend a transport service licence under section 30U; or
     (f) to disqualify—
       (i) a transport service driver under section 87A; or
       (ii) a transport service licence holder or person in control of a transport service under section 87B
-  - **affected licence holder** , in relation to any person directly affected by an adverse decision, means the holder of or the applicant for the transport service licence for the transport service in which that person has or is to have control or is or will be involved, whether as a driver or otherwise
+  - **affected licence holder** , in relation to any person directly affected by an adverse decision, means the holder of or the applicant for the transport service licence for the transport service in which that person has or is to have control, whether as a driver or otherwise
   - **person directly affected** , in relation to any adverse decision, means the person who would be entitled under section 106 to appeal against that adverse decision
   - **person on the basis of whose character the adverse decision arises** , in relation to any adverse decision made or proposed to be made on the ground that any person is not a fit and proper person for the purposes of the relevant service, licence, or other matter to which the decision relates, means the person whom the Agency assesses as not being a fit and proper person.
 
@@ -1202,7 +1219,9 @@ After considering the matters referred to in section 30X(c), the Agency must—
 ## Part 4B — Work time and logbooks
 
 ### 30Z Application of Part
-Nothing in this Part applies in respect of any rail service vehicle.
+Nothing in this Part applies in relation to—
+  (a) a vehicle used in a facilitated cost-sharing arrangement; or
+  (b) any rail service vehicle.
 
 ### 30ZA Agency may grant exemptions or approve alternative fatigue management schemes
 (1) If the Agency takes into account the criteria specified in section 166(2), the Agency may, upon any conditions that the Agency considers appropriate,—
@@ -1229,6 +1248,7 @@ Nothing in this Part applies in respect of any rail service vehicle.
   (a) requires a class 2 licence (as specified in the rules); and
   (b) is used within a 50 km radius of the vehicle's normal base of operation; and
   (c) is not used for hire or reward.
+(4) This section is subject to section 30Z.
 
 ### 30ZC Limits on work time
 (1) A driver subject to this subpart—
@@ -1242,13 +1262,17 @@ Nothing in this Part applies in respect of any rail service vehicle.
 (5) This section does not apply to a driver of an ambulance service or a fire brigade who is proceeding to or returning from an incident attended in response to a priority call specified in the rules.
 
 ### 30ZD Records must be kept
-(1) A person who employs a person to drive a vehicle referred to in section 30ZB, and any self-employed driver who drives a vehicle referred to in section 30ZB, must keep—
-  (a) time records, wage records, and other related employment records for the driver; and
-  (b) accommodation records and receipts for the driver that are relevant to the driver's transport service or transport service vehicle; and
+(1AA) Subsection (1) applies to—
+  (a) a person who employs a person to drive a vehicle referred to in section 30ZB; and
+  (b) a self-employed driver who drives a vehicle referred to in section 30ZB; and
+  (c) a facilitator who facilitates a driver who drives a vehicle referred to in section 30ZB to connect with passengers.
+(1) A person to whom this section applies must keep all—
+  (a) time records, records of payments to the driver, and employment or contractual records relating to the driver; and
+  (b) accommodation records and receipts for the driver that are relevant to the driver’s transport service or transport service vehicle; and
   (c) fuel records and receipts for the relevant transport service vehicles.
 (2) The person who keeps the records required under subsection (1) must—
   (a) keep each record for 12 months from the date it is made; and
-  (b) make all relevant time records, fuel records and receipts, accommodation records and receipts, wage records, and other related employment records in the possession or control of that person available for immediate inspection on demand at any reasonable time by an enforcement officer.
+  (b) make all relevant records referred to in subsection (1) in the possession or control of that person available for immediate inspection on demand at any reasonable time by an enforcement officer.
 (3) Every enforcement officer to whom records are made available for inspection under subsection (2)﻿(b) is entitled to make copies of those records.
 
 ### Subpart 2 — Logbooks
@@ -1268,6 +1292,7 @@ Nothing in this Part applies in respect of any rail service vehicle.
     (i) requires a class 1 or class 2 licence (as specified in the rules); and
     (ii) is used within a 50 km radius of the vehicle's normal base of operation; and
     (iii) is not used for hire or reward.
+(3) This section is subject to section 30Z.
 
 ### 30ZF Drivers must maintain logbooks
 Unless exempted under section 30ZA(1), the regulations, or the rules, a driver must maintain a logbook in the—
@@ -1280,7 +1305,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 ### 30ZH Duties regarding logbooks
 (1) A driver must—
   (a) retain a logbook required to be maintained by that driver under section 30ZF for a period of 12 months after the date of the last entry in that logbook; and
-  (b) in the case of a driver who is an employee, deliver a copy of each completed logbook record to the driver's employer within 14 days after completing that record, and the employer must retain the copy of each logbook record for a period of 12 months from the date of the record.
+  (b) in the case of a driver who is an employee, or who is driving on behalf of a transport service operator, or who is facilitated to connect with passengers by a small passenger service operator, deliver a copy of each completed logbook record to the driver's employer or transport service operator within 14 days after completing that record, and the employer or transport service operator must retain the copy of each logbook record for a period of 12 months from the date of the record.
 (1A) Despite anything in subsection (1), if the logbook only contains entries for a light RUC vehicle (as defined in section 5(1) of the Road User Charges Act 2012), the driver must retain the logbook only for a period of 12 months.
 (2) A driver must—
   (a) carry a logbook with him or her at all times when driving a vehicle to which section 30ZE applies; and
@@ -1292,7 +1317,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (3) If the form of the logbook required to be maintained under section 30ZF includes an identical copy made simultaneously with the original of that logbook, and the logbook has been produced to an enforcement officer, that enforcement officer is entitled, on demand,—
   (a) to remove that identical copy; or
   (b) if that identical copy has previously been removed or is illegible, to make a copy of that logbook.
-(4) A person who is required to retain a logbook or a copy of a logbook under subsection (1) must make it and all relevant time records, wage records, and other related employment records available for immediate inspection on demand by an enforcement officer at any reasonable time during the period for which it is required to be retained.
+(4) A person who is required to retain a logbook or a copy of a logbook under subsection (1) must make it and all relevant time records, records of payments to the driver, and employment or contractual records relating to the driver available for immediate inspection on demand by an enforcement officer at any reasonable time during the period for which it is required to be retained.
 (5) A person to whom a logbook or a copy of a logbook or records are required to be made available for inspection under subsection (4) is entitled to make a copy of that logbook or that copy or those records.
 
 ### Subpart 3 — Evidence in proceedings
@@ -2088,20 +2113,28 @@ If a certificate referred to in section 143 is produced in proceedings for an of
 ## Part 6A — Offences relating to transport services and penalties
 
 ### 79A Offence to carry on transport service without licence
-(1) A person commits an offence if the person carries on any transport service without the appropriate current licence.
+(1) A person commits an offence if the person carries on (or, in relation to a small passenger service operator, facilitates) any transport service without the appropriate current licence.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
-(3) A person who is convicted of a second or subsequent offence against subsection (1) is liable on conviction to a fine not exceeding $25,000 and the court may, if it thinks appropriate, order any or every vehicle used under the transport service to be immediately impounded and held at a location that the Agency specifies, at the expense of the convicted person (which is in addition to the fine and any other costs (if any) ordered by the court), for a period specified by the court that does not exceed 90 days.
+(3) A person who is convicted of a second or subsequent offence against subsection (1) is liable on conviction to a fine not exceeding $25,000 and the court may, if it thinks appropriate, order any or every transport service vehicle used under the transport service to be immediately impounded and held at a location that the Agency specifies, at the expense of the convicted person (which is in addition to the fine and any other costs (if any) ordered by the court), for a period specified by the court that does not exceed 90 days.
 (4) Any fees and charges incurred with respect to an impoundment under subsection (3) are recoverable from the convicted person by the vehicle recovery service operator or storage provider.
 (5) Nothing in subsection (4) limits or affects any rights against the owner of the vehicle, or in respect of the vehicle, that may be exercised by the vehicle recovery service operator or storage provider.
 (6) A person may not remove or release from storage an impounded motor vehicle, unless allowed to do so under this Act.
 (7) The storage provider must immediately comply with a direction under this Act to release the vehicle to the owner or a person authorised for the purpose by the owner.
 (8) The Agency, or a person authorised for the purpose by the Agency, may enter into such arrangements with vehicle recovery service operators and storage providers as the Agency considers necessary for the purposes of this section.
 
+### 79AB Offence to drive vehicle used in transport service without licence
+(1) A transport service driver commits an offence if the driver uses a vehicle in a transport service and there is no relevant transport service licence held by any of the following:
+  (a) the driver:
+  (b) a transport service operator on whose behalf the driver is driving:
+  (c) a facilitator who facilitated the driver to connect with passengers of the service.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
+
 ### 79B Provision of incorrect information
 A licence holder or person having control of a transport service who notifies the Agency that the licence holder or person holds the appropriate certificate, knowing that the information is incorrect or being reckless as to whether or not it is correct, commits an offence and is liable on conviction to a fine not exceeding $10,000.
 
 ### 79C Failure to present vehicle for inspection
-(1) A transport service licence holder commits an offence if he or she fails to present his or her transport service vehicle for inspection when required to do so by the Agency.
+(1) A transport service licence holder commits an offence if the holder fails to present a transport service vehicle used in the service for inspection when required to do so by the Agency.
+(1A) A driver of a small passenger service vehicle commits an offence if the driver fails to present the vehicle for inspection when required to do so by the Agency.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
 
 ### 79D Contravention of section 30K
@@ -2116,6 +2149,7 @@ A licence holder or person having control of a transport service who notifies th
   (a) the operator of the transport service did not hold an appropriate transport service licence; or
   (b) the operator of the transport service was disqualified from holding or obtaining a transport service licence; or
   (c) the transport service licence of the operator was suspended or revoked.
+(1A) Subsection (1) does not apply to an enforcement officer acting in the performance or intended performance of the officer’s official duties as an employee or agent of the Agency.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $25,000.
 
 ### 79F Contravention of section 30M
@@ -2130,8 +2164,12 @@ A licence holder or person having control of a transport service who notifies th
 (5) The maximum penalty on conviction for an offence against subsection (4) is a fine not exceeding $500.
 
 ### 79H Contravention of section 128A
-(1) A person who holds a passenger service licence or a driver of a small passenger service vehicle commits an offence if the person or the driver acts in contravention of or fails to comply with any direction given by an enforcement officer under section 128A.
+(1) A person who holds a small passenger service licence or a driver of a small passenger service vehicle commits an offence if the person or the driver acts in contravention of or fails to comply with any direction given by an enforcement officer under section 128A.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $2,000.
+
+### 79HA Failure to keep or produce records
+(1) A person commits an offence if the person fails or refuses to comply with any of the requirements of section 30Q.
+(2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $100,000.
 
 ### 79I Contravention of section 128B
 (1) A person who holds a vehicle recovery service licence or a driver of a vehicle recovery service vehicle commits an offence if the person or the driver acts in contravention of or fails to comply with any direction given by an enforcement officer under section 128B.
@@ -2362,7 +2400,7 @@ To avoid doubt, section 82A applies if a period of disqualification or suspensio
 If the Agency is satisfied that a transport service driver is not a fit and proper person within the meaning of subpart 2 of Part 4A to drive a transport service vehicle, the Agency may disqualify that person, for a period not exceeding 10 years, from driving any vehicle being used in a transport service (other than a rental service) or a specified class of transport service.
 
 ### 87B Disqualification of holder of transport service licence from holding transport service licence
-If the Agency revokes a transport service licence, the Agency may disqualify, for a period not exceeding 10 years, the holder of the transport service licence, or any other person who was in control of or involved in the transport service and whose fitness and propriety was the basis of, or contributed to, a decision to revoke the transport service licence, from—
+If the Agency revokes a transport service licence, the Agency may disqualify, for a period not exceeding 10 years, the holder of the transport service licence, or any other person who was in control of the transport service and whose fitness and propriety was the basis of, or contributed to, a decision to revoke the transport service licence, from—
   (a) holding or obtaining a transport service licence:
   (b) having any form of control of a transport service.
 
@@ -3306,7 +3344,7 @@ An enforcement officer may, at a reasonable time, exercise all or any of the fol
   (b) the vehicle be moved to a place of safety approved by the officer and be kept stopped at that place—
 
 ### 128A Enforcement officer's powers in respect of non-complying small passenger service vehicles
-An enforcement officer who is in uniform or who produces evidence of identity as an enforcement officer may direct the driver of any small passenger service vehicle that is not in compliance with section 30B or any rule or regulation to cease making the vehicle available for hire and to remove the vehicle from any designated stand until such time as the vehicle is in compliance with the regulations or the rules.
+An enforcement officer who is in uniform or who produces evidence of identity as an enforcement officer may direct the driver of any small passenger service vehicle that is not in compliance with any rule or regulation to cease making the vehicle available for hire and to remove the vehicle from any designated stand until such time as the vehicle is in compliance with the regulations or the rules.
 
 ### 128B Enforcement officer's powers in respect of non-complying vehicle recovery service vehicles
 Any enforcement officer who is in uniform or who produces evidence of identity as an enforcement officer may direct the driver of any vehicle recovery service vehicle that is not in compliance with any rule or regulation to cease making the vehicle available for towing or carrying until such time as the vehicle is in compliance with the rules or regulations.
@@ -3781,19 +3819,19 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (vi) set out the responsibilities and required behaviour of transport service operators, including—
       (A) the permissible driving hours of persons driving transport service vehicles, including the work time and rest time to be observed by drivers; and
       (B) the obligations and restrictions in respect of signs on vehicles; and
-      (C) the fixing and advertising of fares, complaints procedures, and the recording of complaints; and
+      (C) requirements relating to fares, complaints procedures, and the recording of complaints; and
       (D) the maintenance of a register of tows and hires; and
       (E) the obligations of rental service operators; and
       (F) requirements concerning logbooks; and
       (G) requirements of a safety management system where required for the issue of land transport documents:
-    (vii) set out the categories of performance for transport service operators and approved taxi organisations; and
+    (vii) set out the categories of performance for transport service operators; and
     (viia) specify the publication requirements for the performance levels for the categories of performance; and
     (viib) provide the means for assessing and re-assessing levels of performance; and
-    (viic) provide incentives and rewards for transport service operators and approved taxi organisations that meet specified levels of performance:
-    (viii) empower the Agency to approve tests, courses, and course providers for the purpose of issuing certificates of knowledge of law and practice or area knowledge certificates or other certificates:
-    (ix) specify the circumstances in which the Agency can require an applicant for, or the holder of, a certificate of knowledge of law and practice or an area knowledge certificate or other certificates to undergo such tests, including (but not limited to) a second or subsequent test:
+    (viic) provide incentives and rewards for transport service operators that meet specified levels of performance:
+    (viii) empower the Agency to approve tests, courses, and course providers for the purpose of issuing certificates of knowledge of law and practice or other certificates:
+    (ix) specify the circumstances in which the Agency can require an applicant for, or the holder of, a certificate of knowledge of law and practice or other certificates to undergo such tests, including (but not limited to) a second or subsequent test:
     (x) specify the drivers involved in transport services that must display or wear a photographic identification card and the details of such a card:
-    (xi) specify the requirements for approved taxi organisations, including (but not limited to) those required by persons in control of the approved taxi organisation:
+    (xi)
     (xii) provide for the notification of vehicles used in a transport service:
     (xiii) provide for the issue of certificates of responsibility where a person other than the owner operates a vehicle in a transport service under licence:
     (xiv) provide for the display of identification on goods service vehicles, vehicle recovery service vehicles, and large passenger service vehicles:
@@ -4190,19 +4228,10 @@ The functions of the Minister under this Act are—
   (k) information about any order of disqualification made against the holder of the licence under this Act or any former enactment:
   (l) information about any order removing a disqualification imposed on the holder under this Act or any former enactment:
   (m) the dates of any amendments to the licence.
-(3) The register of transport service licences must also show the following information for an approved taxi organisation:
-  (a) the full name of the approved taxi organisation; and
-  (b) the business address of the approved taxi organisation; and
-  (c) the telephone number by which the services of the approved taxi organisation may be booked; and
-  (d) the full names of the responsible officers of the approved taxi organisation; and
-  (e) the date of approval; and
-  (f) the status of the approval; and
-  (g) the safety rating (if any) of the approved taxi organisation.
+(3)
 (4) A person who applies to the Agency and pays the prescribed fee (if any)—
   (a) is, with the consent of the holder of the transport service licence named in the application, entitled to the information stored in the register in respect of the licence holder; but
-  (b) is, without the consent of the holder of the transport service licence named in the application, entitled only to the information stored in the register in respect of the licence holder that is—
-    (i) specified in subsection (2)﻿(a) and (g) to (l); and
-    (ii) in the case of an approved taxi organisation, specified in subsection (3)﻿(a) to (c) and (e) to (g).
+  (b) is, without the consent of the holder of the transport service licence named in the application, entitled only to the information stored in the register in respect of the licence holder that is specified in subsection (2)﻿(a) and (g) to (l).
 (5) An application under subsection (4)—
   (a) may be made in writing or electronically or orally; and
   (b) must describe the person named with sufficient particularity to enable the Agency to identify the person and the licences concerned.
@@ -5020,6 +5049,39 @@ In this Part, amendment Act means the Land Transport Amendment Act 2017.
 (1) Notices given under section 16A before subpart 4 of Part 1 of the amendment Act comes into force continue to have effect as if that subpart had not come into force.
 (2) Subclause (1) applies until the close of the day that is 12 months after subpart 4 of Part 1 of the amendment Act comes into force.
 
+**Small passenger services**
+
+### 7 Transitional arrangement for small passenger service operator
+(1) Before the close of the 28th day after the commencement of this clause,—
+  (a) section 30J(d) does not apply to a small passenger service operator who is facilitating a small passenger service; and
+  (b) section 30U(1)﻿(c) does not apply to a small passenger service operator.
+(2) A small passenger service operator who does not comply with section 30J(d) at the commencement of this clause must, before the close of the 28th day after the commencement of this clause, have a small passenger service licence.
+(3) A small passenger service operator whose licence may be suspended under section 30U(1)﻿(c) must, before the close of the 28th day after the commencement of this clause,—
+  (a) ensure that—
+    (i) a person with control of the service in New Zealand lives in New Zealand; or
+    (ii) the operator has a representative who lives in New Zealand; and
+  (b) in the manner required by the Agency, notify the Agency—
+    (i) that the operator meets the requirements of paragraph (a); and
+    (ii) of any address information required under the rules in relation to that person or representative.
+
+### 8 Transitional arrangement for driver using vehicle in small passenger service
+(1) Before the close of the 28th day after the commencement of this clause, sections 30P(c) and 79AB(1)﻿(c) do not apply to a driver using a vehicle in a small passenger service who has been facilitated to connect with passengers by a facilitator.
+(2) Before the close of the 28th day after the commencement of this clause, a driver using a vehicle in a small passenger service must—
+  (a) have a small passenger service licence; or
+  (b) drive on behalf of the holder of a small passenger service licence; or
+  (c) have been facilitated to connect with passengers by a facilitator who holds a small passenger service licence.
+
+### 9 Transitional arrangement for taxi stands and transit lanes
+Taxi stands, shuttle stands, and transit lanes that may be used by any type of small passenger service vehicle before the commencement of this clause may be used by all small passenger service vehicles until the relevant road controlling authority changes the rules about the vehicles that may use the stands or lanes.
+
+### 10 Existing passenger service licences and applications unaffected by subpart 5 of Part 1 of amendment Act
+(1) A person who has an existing passenger service licence when subpart 5 of Part 1 of the amendment Act comes into force is deemed to have—
+  (a) a small passenger service licence (as defined in section 2 as amended by subpart 5 of Part 1 of the amendment Act); and
+  (b) a large passenger service licence (as defined in section 2 as amended by subpart 5 of Part 1 of the amendment Act).
+(2) Except as required by clauses 7 and 8, subpart 5 of Part 1 of the amendment Act does not affect—
+  (a) the existing licensed status of a person who was granted a passenger service licence before that subpart came into force; or
+  (b) any application for a passenger service licence made before that subpart came into force, and the application must be processed as if that subpart had not come into force.
+
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
 ## Schedule 2 — Enactments repealed
@@ -5032,7 +5094,7 @@ In this Part, amendment Act means the Land Transport Amendment Act 2017.
 This Act is the Land Transport (Enforcement Powers) Amendment Act 2009.
 
 ### 2 Commencement
-(1) Sections 9, 10, 17, 18, 20, 21, and 40(2) come into force on a date appointed by the Governor-General by Order in Council.
+(1) Sections 9, 10, 17, 20, 21, and 40(2) come into force on a date appointed by the Governor-General by Order in Council.
 (2) Sections 4(2) and (3), 5, 13 to 16, 34, and 39(2) come into force on 1 November 2009.
 (3) The rest of this Act comes into force on 1 December 2009.
 
