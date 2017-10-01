@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-10-01_
 
 > Title
 
@@ -73,17 +73,8 @@ _Consolidation as at 2017-09-01_
   - **of the same kind** means not differing in a manner stated in subsection (2)
   - **office** means a place in which any person is employed, directly or indirectly, to do any clerical work in connection with any business carried on by the occupier of that place
   - **open area** , in relation to any premises, means a part of the premises that is not an internal area
-  - **operating taxi** means a taxi at a time when—
-    (a) it is carrying a passenger; or
-    (b) its driver is—
-      (i) travelling to begin plying for hire; or
-      (ii) plying for hire; or
-      (iii) travelling to pick up a passenger; or
-      (iv) returning from carrying a passenger (otherwise than at the end of a shift); or
-      (v) resting, eating, or drinking before beginning or resuming plying for hire
   - **organised activity** means any cultural, educational, sporting, or recreational activity or event
   - **package** means a pack, carton, wrapping, or other container in which tobacco products, or (as the case may be) herbal smoking products, are customarily sold at retail
-  - **passenger service vehicle** and have the same meaning as in section 2 of the Land Transport Act 1998
   - **point of sale** —
     (a) means a checkout where tobacco products may be bought; and
     (b) includes a till or cashbox, where tobacco products may be bought, even if it is not at or part of a checkout
@@ -245,11 +236,18 @@ An employer may permit smoking in a vehicle provided by the employer and normall
 (2)
 
 ### 9 Smoking restricted in passenger service vehicles
-(1) Subject to subsection (3), the operator of a passenger service vehicle shall not permit any person to smoke in that vehicle while it is carrying passengers.
-(1A) The operator of an operating taxi must not permit any person to smoke in it.
-(1B) No person may smoke in an operating taxi, whether or not it is carrying passengers.
-(2) Subject to subsection (3), no person shall smoke in any passenger service vehicle while it is carrying passengers.
-(3) Nothing in this section shall apply to any small passenger service vehicle (other than an operating taxi) where the driver and every passenger in the vehicle agree that smoking shall be permitted.
+(1) This section applies to the following (passenger service vehicles):
+  (a) a large passenger service vehicle while it is carrying passengers:
+  (b) a small passenger service vehicle at all times except when it is returning from carrying a passenger at the end of a shift:
+  (c) a vehicle being used in a small passenger service.
+(1A)
+(1B)
+(2) The operator of a passenger service vehicle must not permit any person to smoke in the vehicle.
+(3) No person may smoke in a passenger service vehicle.
+(4) In this section,—
+  - **large passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
+  - **small passenger service** has the same meaning as in section 2(1) of the Land Transport Act 1998
+  - **small passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998.
 
 ### 10 Application of Act to ships
 This Act applies to a ship if, and only if, it is—
@@ -338,7 +336,7 @@ This Act applies to a ship if, and only if, it is—
 (2A) The managers of any premises who fail to comply with section 7A(1) commit an offence.
 (2B) The occupier of any premises who fails to comply with section 7A(3) commits an offence.
 (3) The operator of an aircraft who, without reasonable excuse, permits a person to smoke in contravention of section 8(1) commits an offence.
-(4) The operator of a passenger service vehicle who, without reasonable excuse, permits a person to smoke in contravention of subsection (1) or subsection (1A) of section 9 commits an offence.
+(4) The operator of a passenger service vehicle who, without reasonable excuse, permits a person to smoke in contravention of section 9(2) commits an offence.
 (6) The owner or occupier of an area to which section 11 applies who, without reasonable excuse, permits any person to smoke in the area commits an offence.
 (7) A licensee who fails to comply with section 12(1) commits an offence.
 (8) The operator of a restaurant who fails to comply with section 13(1) commits an offence.
