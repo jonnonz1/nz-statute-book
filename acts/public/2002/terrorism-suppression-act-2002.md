@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2017-10-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -87,7 +87,7 @@ The purpose of this Act is—
   - **property** —
     (a) means real or personal property of any description, whether situated in New Zealand or elsewhere and whether tangible or intangible; and
     (b) includes an interest in any real or personal property of that kind
-  - **public transportation system** means all conveyances (for example, aircraft, trains, ships, ferries, trucks, buses, or taxis), facilities, buildings, and objects (whether publicly or privately owned) used in or for services that are available to the public for the transportation of persons or cargo
+  - **public transportation system** means all conveyances (for example, aircraft, trains, ships, ferries, trucks, buses, or small passenger vehicles), facilities, buildings, and objects (whether publicly or privately owned) used in or for services that are available to the public for the transportation of persons or cargo
   - **radioactive device** means—
     (a) a nuclear weapon or other nuclear explosive device; or
     (b) a radioactive material dispersal device; or
@@ -104,7 +104,7 @@ The purpose of this Act is—
     (a) an intelligence and security agency; or
     (b) the New Zealand Police
   - **specified terrorism convention** means any treaty specified in Schedule 3
-  - **State or government facility** means any conveyance (for example, an aircraft, train, ship, ferry, truck, bus, taxi, or car) or facility (whether permanent or temporary) used or occupied by any of the following persons in connection with their official duties:
+  - **State or government facility** means any conveyance (for example, an aircraft, train, ship, ferry, truck, bus, small passenger vehicle, or car) or facility (whether permanent or temporary) used or occupied by any of the following persons in connection with their official duties:
     (a) representatives of a State:
     (b) members of the executive, legislative, or judicial branch of the Government of a State:
     (c) employees or officials of a State, or of any other public authority or entity:
