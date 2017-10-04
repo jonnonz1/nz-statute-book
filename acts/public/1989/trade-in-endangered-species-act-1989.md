@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2017-04-04_
+_Consolidation as at 2017-10-04_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -1507,18 +1507,20 @@ Amendment(s) incorporated in the Act(s).
 |  |  | Ambystoma mexicanum |  | Axolotl |  |  |
 |  | Salamandridae—Newts and salamanders |  | Paramesotriton hongkongensis |  | Hong Kong Warty Newt |  |
 
-| Order | Family |  | Genus, species, or subspecies |  | Common name | Exceptions/limitations |
-| --- | --- | --- | --- | --- | --- | --- |
-| Carcharhiniformes | Carcharhinidae—Requiem sharks |  | Carcharhinus longimanus |  | Oceanic Whitetip Shark |  |
-|  | Sphyrnidae—Hammerhead sharks |  | Sphyrna lewini |  | Scalloped Hammerhead |  |
-|  |  | Sphyrna mokarran |  | Great Hammerhead |  |  |
-|  |  |  | Sphyrna zygaena |  | Smooth Hammerhead |  |
-| Lamniformes | Cetorhinidae—Basking sharks |  | Cetorhinus maximus |  | Basking Shark |  |
-|  | Lamnidae—Mackerel sharks |  | Carcharodon carcharias |  | Great White Shark |  |
-|  |  |  | Lamna nasus |  | Porbeagle |  |
-| Myliobatiformes | Myliobatidae—Eagle and mobulid rays |  | Manta spp |  | Manta Rays |  |
-|  |  |  | Mobula spp |  | Devil Rays |  |
-| Orectolobiformes | Rhincodontidae—Whale sharks |  | Rhincodon typus |  | Whale Shark |  |
+| Order | Family | Genus, species, or subspecies | Common name | Exceptions/limitations |
+| --- | --- | --- | --- | --- |
+| Carcharhiniformes | Carcharhinidae—Requiem sharks | Carcharhinus falciformis | Silky Shark |  |
+|  |  | Carcharhinus longimanus | Oceanic Whitetip Shark |  |
+|  | Sphyrnidae—Hammerhead sharks | Sphyrna lewini | Scalloped Hammerhead |  |
+|  |  | Sphyrna mokarran | Great Hammerhead |  |
+|  |  | Sphyrna zygaena | Smooth Hammerhead |  |
+| Lamniformes | Alopiidae—Thresher sharks | Alopias spp | Thresher Sharks |  |
+|  | Cetorhinidae—Basking sharks | Cetorhinus maximus | Basking Shark |  |
+|  | Lamnidae—Mackerel sharks | Carcharodon carcharias | Great White Shark |  |
+|  |  | Lamna nasus | Porbeagle |  |
+| Myliobatiformes | Myliobatidae—Eagle and mobulid rays | Manta spp | Manta Rays |  |
+|  |  | Mobula spp | Devil Rays |  |
+| Orectolobiformes | Rhincodontidae—Whale sharks | Rhincodon typus | Whale Shark |  |
 
 | Order |  | Family |  | Genus, species, or subspecies |  | Common name | Exceptions/limitations |
 | --- | --- | --- | --- | --- | --- | --- | --- |
