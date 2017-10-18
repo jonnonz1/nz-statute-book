@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2013-11-28_
+_Consolidation as at 2017-10-18_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -247,7 +247,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (f) regulate deer farming permitted under paragraph (c) or paragraph (d), subject to any provisions prescribed by regulations made under section 40(1)﻿(e).
 (2A) The requirements of this section that apply in respect of deer kept in a safari park on land on which the farming of deer is regulated also apply in respect of deer kept in a safari park on land on which the farming of deer is not regulated.
 (3) Before giving a notice under subsection (2), the Minister shall,—
-  (a) in any case where the notice does anything specified in any of paragraphs (a) to (d) of that subsection, publicly notify the intention to give the notice; and, in that case, section 49 of the Conservation Act 1987 shall apply with any necessary modifications:
+  (a) in any case where the notice does anything specified in any of paragraphs (a) to (d) of that subsection, publicly notify the intention to give the notice; and, in that case, section 49 of the Conservation Act 1987 shall apply with any necessary modifications as if the giving of the notice under subsection (2) were an exercise of power under that Act:
   (b) in every case, have regard to—
     (i) whether feral deer of the same species are already established in the area concerned; and
     (ii) whether deer-induced modification of the environment is likely to differ from the modification of the environment caused by introduced animal species that are already present; and
