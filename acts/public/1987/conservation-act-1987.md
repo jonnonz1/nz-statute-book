@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2017-03-21_
+_Consolidation as at 2017-10-18_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -176,12 +176,15 @@ _Consolidation as at 2017-03-21_
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
-    (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
+    (c) a day in the period commencing on 20 December in any year and ending with 10 January in the following year.
 (2) In this Act, unless the context otherwise requires, conservation park, ecological area, sanctuary area, or wilderness area, mean an area held for ecological, park, sanctuary, or wilderness purposes under section 18AA(1) or 18(1).
 (3) For the purposes of this Act, the Governor-General may from time to time, by Order in Council, declare any species to be included in or excluded from the definitions of the terms aquatic life, freshwater fish, or sports fish in subsection (1); and any such declaration may be expressed to apply to any species in any specified areas or waters, or generally throughout New Zealand.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions (if any) set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Act to give effect to Treaty of Waitangi
 This Act shall so be interpreted and administered as to give effect to the principles of the Treaty of Waitangi.
@@ -743,43 +746,85 @@ The following provisions shall apply to the preparation and approval of draft co
   (b) the application would be inconsistent with the process.
 
 ### 17S Contents of application
-(1) Every application for a concession shall include the following information:
+Every application for a concession must include the following information:
   (a) a description of the proposed activity:
-  (b) a description identifying the places where the proposed activity will be carried out and indicating the status of such places:
-  (c) a description of the potential effects of the proposed activity, and any actions which the applicant proposes to take to avoid, remedy, or mitigate any adverse effects:
-  (d) details of the proposed type of concession for which the applicant is applying:
-  (e) a statement of the proposed duration of the concession and the reasons for the proposed duration:
-  (f) relevant information relating to the applicant, including any information relevant to the applicant's ability to carry out the proposed activity.
-(2) Where an applicant applies for—the applicant, in addition to supplying the information required by subsection (1), shall supply reasons for the request and sufficient information to satisfy the Minister, in terms of section 17U, that it is both appropriate to grant the lease, profit à prendre, licence, or easement and lawful to grant it.
-  (a) a lease; or
-  (b) a profit à prendre or a licence granting an interest in land; or
-  (c) an easement;—
-(3) The Minister may require an applicant for a concession to supply such further information as the Minister considers necessary to enable a decision to be made, including the preparation of an environmental impact assessment in the form set out in Schedule 4 of the Resource Management Act 1991 or in such other form as the Minister may require.
-(4) The Minister may, at the expense of the applicant,—
-  (a) commission a report or seek advice from any person (including the Director-General) on any matters raised in relation to the application, including a review of any information provided by the applicant:
-  (b) obtain from any source any existing relevant information on the proposed activity or structure that is the subject of the application.
-(5) Any information obtained by the Minister under subsection (4) shall be supplied to the applicant who may comment on it within such time as may be specified by the Minister.
-(6) An application is incomplete where the Minister—
-  (a) has advised the applicant that the applicant has not supplied any specified information required by or under this section, which information has not been received by the Minister; or
-  (b) has not received any report commissioned or advice sought under subsection (4); or
-  (c) has supplied information to the applicant under subsection (5) and the time limit specified under that subsection has not expired.
+  (b) a description identifying the places where the proposed activity will be carried out (including the status of those places):
+  (c) a description of—
+    (i) the potential effects of the proposed activity:
+    (ii) any actions that the applicant proposes to take to avoid, remedy, or mitigate any adverse effects of the proposed activity:
+  (d) details of the type of concession for which the applicant is applying:
+  (e) a statement of—
+    (i) the proposed duration of the concession; and
+    (ii) the reasons for the proposed duration:
+  (f) relevant information relating to the applicant, including any information relevant to the applicant's ability to carry out the proposed activity:
+  (g) if the applicant applies for a lease, a licence granting an interest in land, or an easement,—
+    (i) reasons for the request; and
+    (ii) sufficient information to satisfy the Minister that, in terms of section 17U, it is both lawful and appropriate to grant the lease, licence, or easement (as the case may be).
 
-### 17T Process for complete application
-(1) The Minister shall consider every complete application for a concession that is received by him or her.
-(1A) However, the Minister must not consider an application made in breach of section 17R(2).
-(2) If the Minister is satisfied that the complete application does not comply with or is inconsistent with the provisions of this Act or any relevant conservation management strategy or conservation management plan, he or she shall, within 20 working days after receipt of the application, decline the application and inform the applicant that he or she has declined the application and the reasons for declining the application.
-(3) Nothing in this Act or any other Act shall require the Minister to grant any concession if he or she considers that the grant of a concession is inappropriate in the circumstances of the particular application having regard to the matters set out in section 17U.
-(4) Before granting a lease, or a licence with a term (including all renewals) exceeding 10 years, in respect of a conservation area, the Minister must give public notice of the intention to do so.
-(5) Before granting a licence with a term (including all renewals) not exceeding 10 years, or a permit or easement, in respect of a conservation area, the Minister may give public notice of the intention to do so if, having regard to the effects of the licence, permit, or easement, he or she considers it appropriate to give the notice.
-(6) Subsections (4) and (5) do not apply to the grant of a lease or licence resulting from the exercise of a right of renewal, or a right to a new lease or licence, that is contained in a lease or licence.
-(7) Section 49 applies to a public notice given under subsection (4) or (5).
+### 17SA Minister may return application that lacks required information
+(1) If the Minister is satisfied that an application does not contain all of the information required by section 17S, he or she may return the application to the applicant.
+(2) The Minister may only do so within 10 working days after receiving the application.
+(3) If the Minister returns an application, he or she must give the applicant reasons for the decision to do so.
+(4) If an application is resubmitted after having been returned, the application is to be treated as a new application.
+
+### 17SB Minister may decline application that is obviously inconsistent with Act, etc
+(1) If the Minister is satisfied that an application obviously does not comply with, or is obviously inconsistent with, the provisions of this Act or any relevant conservation management strategy or conservation management plan, he or she may decline the application.
+(2) The Minister may make his or her decision on the basis of the information provided in or with the application, and without making further inquiry.
+(3) The Minister may only do so within 20 working days after the expiry of the period referred to in section 17SA(2).
+(4) If the Minister declines an application, he or she must inform the applicant and give the applicant reasons for the decision.
+
+### 17SC Public notification of application for leases, licences, permits, or easements
+(1) The Minister must publicly notify every application for—
+  (a) a lease; or
+  (b) a licence for a term (including renewals) of more than 10 years.
+(2) The Minister may publicly notify any other application for a licence if, having regard to the effects of the licence, he or she considers it appropriate to do so.
+(3) The Minister may publicly notify any application for a permit or an easement if, having regard to the effects of the permit or easement, he or she considers it appropriate to do so.
+(4) However, this section does not apply to—
+  (a) an application that—
+    (i) does not comply with section 17R(2); or
+    (ii) is returned under section 17SA or 17SD; or
+    (iii) is declined under section 17SB:
+  (b) an application for the grant of a lease or licence resulting from the exercise of a right of renewal or extension, or a right to a new lease or licence, that is contained in a lease or licence.
+
+### 17SD Minister may require applicant to provide further information
+(1) The Minister may, by notice in writing, require an applicant for a concession to supply any further information (including an environmental impact assessment) that the Minister considers necessary to enable a decision to be made.
+(2) The applicant must provide the information within any reasonable time that is specified in the notice.
+(3) An environmental impact assessment that is provided for the purposes of this section must be—
+  (a) in the form set out in Schedule 4 of the Resource Management Act 1991; or
+  (b) in any other form that the Minister requires.
+(4) If the applicant does not provide all of the information within the specified time and the Minister determines that the information not provided is necessary to enable a decision to be made on the application, the Minister may return the application to the applicant with the reasons for the determination.
+(5) However, the Minister cannot return the application under subsection (4) if—
+  (a) the applicant, within the specified time, advises the Minister that some or all of the requested information will not be provided and requests that the application be considered anyway; or
+  (b) the application has been publicly notified.
+
+### 17SE Minister may commission report or advice
+(1) The Minister may, at the applicant’s expense,—
+  (a) commission a report or seek advice from any person (including the Director-General) on any matters raised in relation to an application:
+  (b) obtain, from any source, any existing relevant information on the proposed activity (or structure) that is the subject of the application.
+(2) The Minister must—
+  (a) provide the applicant with a copy of any information obtained under subsection (1); and
+  (b) provide the applicant with any reasonable time that the Minister considers appropriate in which to comment on the information provided.
+(3) To avoid doubt, the report or advice under subsection (1) may include a review of the application and any information provided by the applicant.
+
+### 17T Minister to consider applications
+(1) The Minister must consider an application for a concession if the application—
+  (a) complies with section 17R(2); and
+  (b) is not returned under section 17SA; and
+  (c) is not declined under section 17SB; and
+  (d) is not returned under section 17SD(4).
+(2) The Minister must consider the application when,—
+  (a) if public notification is required or the Minister considers it appropriate under section 17SC, section 49 has been complied with; and
+  (b) if the Minister sought further information under section 17SD,—
+    (i) the information has been provided; or
+    (ii) the time specified in the notice for providing the information has expired and the information has not been provided; and
+  (c) if the Minister obtained any information under section 17SE, section 17SE(2) has been complied with.
 
 ### 17U Matters to be considered by Minister
 (1) In considering any application for a concession, the Minister shall have regard to the following matters:
   (a) the nature of the activity and the type of structure or facility (if any) proposed to be constructed:
   (b) the effects of the activity, structure, or facility:
   (c) any measures that can reasonably and practicably be undertaken to avoid, remedy, or mitigate any adverse effects of the activity:
-  (d) any information received by the Minister under section 17S or section 17T:
+  (d) any information received by the Minister under sections 17S, 17SD, and 17SE:
   (e) any relevant environmental impact assessment, including any audit or review:
   (f) any relevant oral or written submissions received as a result of any relevant public notice issued under section 49:
   (g) any relevant information which may be withheld from any person in accordance with the Official Information Act 1982 or the Privacy Act 1993.
@@ -804,6 +849,7 @@ The following provisions shall apply to the preparation and approval of draft co
   (b) the protection of the physical security of the activity concerned; or
   (c) the competent operation of the activity concerned.
 (7) For the purposes of subsection (6), the competent operation of an activity includes the necessity for the activity to achieve adequate investment and maintenance.
+(8) Nothing in this Act or any other Act requires the Minister to grant any concession if he or she considers that the grant of a concession is inappropriate in the circumstances of the particular application having regard to the matters set out in this section.
 
 ### 17V Limitations on concessions and leases over marginal strips
 (1) Without limiting the power of the Minister to grant a concession over a conservation area that is a marginal strip, the Minister may decline to grant a concession in any case if he or she is satisfied that it is more appropriate in that case to enter into any agreement or arrangement under section 24H.
@@ -2316,9 +2362,12 @@ A court may sentence any individual who commits an offence against this Act to a
 
 ### 49 Public notice and rights of objection
 (1) Where this Act requires any thing to be publicly notified, the Minister shall publish a notice of the thing in some newspaper circulating in the area in which the subject matter of the notice is situated and at least once in each of 4 daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively; but if satisfied that the thing is of local or regional interest only, the Minister may limit the publication of the notice to a newspaper or newspapers circulating throughout the locality or region in which the subject matter is situated.
-(2) Where the Minister gives public notice of intention to exercise any power conferred by this Act—
+(2) Where the Minister gives public notice of intention to exercise any power conferred by this Act or gives public notice of an application for a concession—
   (a) any person or organisation may object in writing to the Director-General against the proposal, or make written submissions on the proposal; and
-  (b) every objection or submission shall be sent to the Director-General at the place and before the date specified in the notice in that behalf, being a date not less than 40 working days after the date of publication of the notice; and
+  (b) the Minister must give persons and organisations wishing to make objections or submissions the following time to do so:
+    (i) in the case of the exercise of a power, at least 40 working days:
+    (ii) in the case of an application for a concession, at least 20 working days; and
+  (ba) every objection or submission must be sent to the Director-General at the place, and by the date, specified in the notice; and
   (c) where a person or organisation making an objection or submission so requests in the objection or submission, the Director-General shall give the person or organisation a reasonable opportunity of appearing before the Director-General in support of the objection or submission; and
   (d) the Director-General shall send to the Minister with a recommendation a summary of all objections and comments received and a recommendation as to the extent to which they should be allowed or accepted; and
   (e) the Minister shall consider the recommendation and the contents of the summary before deciding whether or not to proceed with the proposal.
@@ -2636,6 +2685,14 @@ Where, immediately before the commencement of this Act, there was in existence a
   (e) the Minister after consultation with the Minister of Transport,—
 (14) Notwithstanding the repeal or amendment of any provision in the Marine Farming Act 1971, the validity, invalidity, effect, or consequences of any thing already done or suffered in respect of any licence, permit, approval, or consent under that Act, shall not be affected:
   provided that any change in requirements as to any consent, renewal, amendment, or any other such matter relating thereto and either provided for by this Act or occurring on or after 1 April 1987 shall be deemed to apply to such licences, permits, approvals, or consents under the Marine Farming Act 1971 as appropriate.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Part 4 of Resource Legislation Amendment Act 2017
+
+### 1 Pending applications for concessions
+(1) All pending applications for a concession under section 17R must be dealt with and determined as if this Act had not been amended by Part 4 of the Resource Legislation Amendment Act 2017.
+(2) In this clause, an application is pending if it was received by the Minister before the commencement of Part 4 of the Resource Legislation Amendment Act 2017 and, as at that commencement, it had not been finally determined.
 
 ## Schedule 1 — Other enactments administered by Department
 
