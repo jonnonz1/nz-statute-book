@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-10-18_
 
 > Title
 
@@ -1114,7 +1114,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
   (c) the activities' net impact on the land, either while the activities are taking place or after their completion; and
   (d) any other matters that the Minister considers relevant to achieving the purpose of this Act.
 (3) If the Minister of Conservation determines the proposed mining activities to be significant mining activities,—
-  (a) he or she must ensure that the application is publicly notified in accordance with section 49 of the Conservation Act 1987 as if the application were required to be publicly notified under that Act; and
+  (a) he or she must ensure that the application is publicly notified in accordance with section 49 of the Conservation Act 1987 as if the application were an application for a concession that is required to be publicly notified under that Act; and
   (b) section 49 of that Act applies with the necessary modifications; and
   (c) the Director-General of Conservation must perform the duties required by that section as if the application were a proposal, including sending a recommendation and summary of objections and comments received to the Minister of Conservation and, if the application relates to a matter to which section 61(1AA) applies, to the Minister.
 (4) The public notification of an application in accordance with subsection (3) may (without limitation) be conducted in conjunction with the public notification of any related concession application under the Conservation Act 1987.
