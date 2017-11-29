@@ -1,5 +1,5 @@
 # Trade (Safeguard Measures) Act 2014
-_Consolidation as at 2014-11-11_
+_Consolidation as at 2017-11-29_
 
 ### 1 Title
 This Act is the Trade (Safeguard Measures) Act 2014.
@@ -18,8 +18,8 @@ The purpose of this Act is to enable New Zealand to apply safeguard measures and
 (1) Safeguard measures and provisional safeguard duties imposed under this Act are trade remedies.
 (2) Trade remedies are remedies against certain imports that are causing injury to New Zealand industries.
 (3) New Zealand's other trade remedies are—
-  (a) anti-dumping duties under the Dumping and Countervailing Duties Act 1988 in relation to goods that are imported into New Zealand at less than their normal value in the exporting country:
-  (b) countervailing duties under the Dumping and Countervailing Duties Act 1988 in relation to goods imported into New Zealand that are subsidised by a foreign government:
+  (a) anti-dumping duties under the Trade (Anti-dumping and Countervailing Duties) Act 1988 in relation to goods that are imported into New Zealand at less than their normal value in the exporting country:
+  (b) countervailing duties under the Trade (Anti-dumping and Countervailing Duties) Act 1988 in relation to goods imported into New Zealand that are subsidised by a foreign government:
   (c) transitional safeguard measures (including provisional ones) under sections 15A to 15H of the Tariff Act 1988 in relation to imports from a country that is a party to certain free trade agreements with New Zealand.
 (4) This section is intended as a guide only.
 
@@ -31,7 +31,7 @@ In this Act, unless the context otherwise requires,—
   - **domestic industry** means—
     (a) producers who produce like goods or directly competitive goods in New Zealand; or
     (b) producers whose collective production constitutes a major proportion of the production in New Zealand of like goods or directly competitive goods
-  - **extended safeguard duty** means a safeguard duty extended under section 23(2)(a)
+  - **extended safeguard duty** means a safeguard duty extended under section 23(2)﻿(a)
   - **extended safeguard measure** means a safeguard measure extended under section 23(2)
   - **import** has the same meaning as importation in section 2(1) of the Customs and Excise Act 1996
   - **increased imports** means increased imports of goods into New Zealand, whether it is an absolute increase or a relative increase as compared with the amount of like goods or directly competitive goods produced in New Zealand
@@ -41,7 +41,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **provisional safeguard duty** means a duty imposed under section 14(1)
-  - **safeguard duty** means a duty imposed under section 19(2)(a)
+  - **safeguard duty** means a duty imposed under section 19(2)﻿(a)
   - **safeguard investigation** means an investigation by the chief executive initiated by the Minister under section 8
   - **safeguard measure** has the meaning given by section 18
   - **serious injury** means a significant overall impairment in the position of a domestic industry
@@ -114,7 +114,7 @@ This Act binds the Crown.
   (a) if the applicant seeks a provisional safeguard duty; or
   (b) if a provisional safeguard duty is imposed under section 14.
 (3) If the chief executive is unable to report within the time period required by subsection (1) or (2), the chief executive must give the Minister written reasons for being unable to report within the time period.
-(4) The Minister must set out any written reasons given by the chief executive under subsection (3) when the Minister notifies the chief executive's report under section 19(4)(b).
+(4) The Minister must set out any written reasons given by the chief executive under subsection (3) when the Minister notifies the chief executive's report under section 19(4)﻿(b).
 
 ### 13 Safeguard investigation
 (1) The matters the chief executive must investigate in a safeguard investigation include the following:
@@ -133,8 +133,8 @@ This Act binds the Crown.
     (iii) the likely effect of a safeguard measure on the market (including on consumers):
     (iv) New Zealand’s international relations and trade goals:
     (v) the strategic importance of the domestic industry.
-(2) In investigating whether there is serious injury or a threat of serious injury for the purposes of subsection (1)(a), the chief executive must consider the impact of the increased imports on the domestic industry, including actual and potential decline in output, sales, market share, profits, productivity, employment, and utilisation of production capacity.
-(3) In investigating whether the increased imports have caused serious injury or a threat of serious injury for the purposes of subsection (1)(a), the chief executive must consider—
+(2) In investigating whether there is serious injury or a threat of serious injury for the purposes of subsection (1)﻿(a), the chief executive must consider the impact of the increased imports on the domestic industry, including actual and potential decline in output, sales, market share, profits, productivity, employment, and utilisation of production capacity.
+(3) In investigating whether the increased imports have caused serious injury or a threat of serious injury for the purposes of subsection (1)﻿(a), the chief executive must consider—
   (a) the nature and extent of imports of the goods by the domestic industry, including the value, quantity, frequency, and purpose of the imports; and
   (b) factors other than the imports that have injured, or are injuring, the domestic industry.
 
@@ -200,28 +200,28 @@ A safeguard measure is any of the following imposed on or in relation to importe
   (b) after deciding to do nothing or taking an action under subsection (1), notify the chief executive's report about a safeguard investigation, except for the following information:
     (i) confidential information; and
     (ii) other information that the chief executive would be likely to withhold if it were requested under the Official Information Act 1982.
-(5) An order under subsection (2)(a) and an exemption under subsection (3) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) An order under subsection (2)﻿(a) and an exemption under subsection (3) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 20 Duration of safeguard measure
-(1) Safeguard duty is due and payable on the demand of the Customs on goods imported on and from the date specified in the order referred to in section 19(2)(a), which must be on or after the commencement of the order.
+(1) Safeguard duty is due and payable on the demand of the Customs on goods imported on and from the date specified in the order referred to in section 19(2)﻿(a), which must be on or after the commencement of the order.
 (2) Safeguard duty is due and payable on the demand of the Customs on goods imported until the earliest of—
-  (a) the date specified in the order referred to in section 19(2)(a); or
+  (a) the date specified in the order referred to in section 19(2)﻿(a); or
   (b) 4 years after the date of the commencement of the order referred to in section 14(1) that any provisional safeguard duty be imposed on that particular type of goods; or
   (c) 4 years from the date the duty is due and payable under subsection (1); or
   (d) the date the safeguard duty is terminated under section 26(1).
-(3) An extended safeguard duty is an exception to subsection (2)(b) and (c).
-(4) A safeguard measure imposed by an Order in Council recommended by the Minister under section 19(2)(b) must come into effect on and from the date specified in the Order in Council, which must be on or after the commencement of the Order in Council.
-(5) A safeguard measure imposed by an Order in Council recommended by the Minister under section 19(2)(b) must end with effect from the earliest of—
+(3) An extended safeguard duty is an exception to subsection (2)﻿(b) and (c).
+(4) A safeguard measure imposed by an Order in Council recommended by the Minister under section 19(2)﻿(b) must come into effect on and from the date specified in the Order in Council, which must be on or after the commencement of the Order in Council.
+(5) A safeguard measure imposed by an Order in Council recommended by the Minister under section 19(2)﻿(b) must end with effect from the earliest of—
   (a) the date specified in the Order in Council; or
   (b) 4 years after the commencement of the order referred to in section 14(1) that any provisional safeguard duty be imposed on that particular type of goods; or
   (c) 4 years from the date the safeguard measure comes into effect under subsection (4); or
   (d) the date the safeguard measure is terminated under section 26(1).
-(6) A safeguard measure extended under section 23(2)(b) is an exception to subsection (5)(b) and (c).
+(6) A safeguard measure extended under section 23(2)﻿(b) is an exception to subsection (5)﻿(b) and (c).
 
 **Safeguard review**
 
 ### 21 Initiation of safeguard review
-(1) The Minister may initiate a review by the chief executive of a safeguard measure, and sections 9(1), (2)(a) and (b), (3)(a) to (c) and (e) to (g), 10, 11, and 12(1), (3), and (4) apply (with any necessary modifications) to the review as if the review were an investigation initiated under section 8.
+(1) The Minister may initiate a review by the chief executive of a safeguard measure, and sections 9(1), (2)﻿(a) and (b), (3)﻿(a) to (c) and (e) to (g), 10, 11, and 12(1), (3), and (4) apply (with any necessary modifications) to the review as if the review were an investigation initiated under section 8.
 (2) The Minister may initiate a safeguard review either after an application or at the Minister’s discretion.
 (3) The Minister must notify the decision to initiate a review of a safeguard measure, and that notification must state the date on which the review was initiated.
 
@@ -257,17 +257,17 @@ The matters the chief executive must investigate in a review of a safeguard meas
   (b) after deciding to do nothing or taking an action under subsection (1), notify the chief executive's report about the review of a safeguard measure, except for the following information:
     (i) confidential information; and
     (ii) other information that the chief executive would be likely to withhold if it were requested under the Official Information Act 1982.
-(5) An order under subsection (2)(a) and an exemption under subsection (3) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5) An order under subsection (2)﻿(a) and an exemption under subsection (3) are legislative instruments and disallowable instruments for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 24 Duration of extended safeguard measure
-(1) Extended safeguard duty is due and payable on the demand of the Customs on goods imported on and from the date specified in the order referred to in section 23(2)(a), which must be on or after the commencement of the order.
+(1) Extended safeguard duty is due and payable on the demand of the Customs on goods imported on and from the date specified in the order referred to in section 23(2)﻿(a), which must be on or after the commencement of the order.
 (2) Extended safeguard duty is due and payable on the demand of the Customs on goods imported until the earliest of—
-  (a) the date specified in the order under section 23(2)(a); or
+  (a) the date specified in the order under section 23(2)﻿(a); or
   (b) 8 years after the date of the commencement of the order under section 14(1) that any provisional safeguard duty be imposed on that particular type of goods; or
   (c) 8 years from the date the duty is due and payable under section 20(1); or
   (d) the date the safeguard duty is terminated under section 26(1).
-(3) A safeguard measure extended by an Order in Council recommended by the Minister under section 23(2)(b) must come into effect on and from the date specified in the order referred to in section 23(2)(b), which must be on or after the commencement of the order.
-(4) A safeguard measure extended by an Order in Council recommended by the Minister under section 23(2)(b) must end with effect from the earliest of—
+(3) A safeguard measure extended by an Order in Council recommended by the Minister under section 23(2)﻿(b) must come into effect on and from the date specified in the order referred to in section 23(2)﻿(b), which must be on or after the commencement of the order.
+(4) A safeguard measure extended by an Order in Council recommended by the Minister under section 23(2)﻿(b) must end with effect from the earliest of—
   (a) the date specified in the Order in Council; or
   (b) 8 years after the date of the commencement of the order under section 14(1) that any provisional safeguard duty be imposed on that particular type of goods; or
   (c) 8 years from the date the safeguard measure comes into effect under section 20(4); or
@@ -284,7 +284,7 @@ All duty imposed under this Act must be paid to, and collected by, the Customs.
 (1) The Minister may, if the Minister is satisfied that there is a good reason to do so,—
   (a) order the termination or reduction, with effect from a specified date that is after the commencement of the order, of a safeguard measure referred to in section 18(a) (including if it has been extended under section 23(2)); or
   (b) recommend the termination or reduction, with effect from a specified date that is after the commencement of the recommended Order in Council, of a safeguard measure referred to in section 18(b) or (c) (including if it has been extended under section 23(2)).
-(2) An order under subsection (1)(a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) An order under subsection (1)﻿(a) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 2 — Miscellaneous matters
 
@@ -300,7 +300,7 @@ The following apply in relation to an inquiry by a Temporary Safeguard Authority
 
 ### 29 Consequential amendments to Customs and Excise Act 1996
 (1) This section amends the Customs and Excise Act 1996.
-(2) The definition of duty in section 2(1) is amended by inserting the following paragraph after paragraph (b):.
+(2) The definition of duty in section 2(1) is amended by inserting the following paragraph after paragraph (b):
   (ba) provisional safeguard duty, safeguard duty, and extended safeguard duty imposed under the Trade (Safeguard Measures) Act 2014:
 (3) Section 102(4) is amended by adding or under the Trade (Safeguard Measures) Act 2014.
 (4) Section 113(5) is amended by adding or under the Trade (Safeguard Measures) Act 2014.
