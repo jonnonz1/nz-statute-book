@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-12-01_
 
 > Title
 
@@ -454,7 +454,7 @@ Sections 33 and 34 shall apply notwithstanding anything to the contrary in secti
   (h) the setting or endorsing of standards, controls, or requirements for the whole or any part of any tree or vegetation to prevent the interruption of the gas supply system.
 (2) WorkSafe may from time to time issue an amendment or revocation of any gas code of practice.
 (3) Every gas code of practice and every amendment or revocation of a gas code of practice shall show the date on which it was issued.
-(4) WorkSafe may issue any code of practice, issued in accordance with the Hazardous Substances and New Organisms Act 1996, as a gas code of practice under this Act.
+(4) WorkSafe may issue any code of practice, issued in accordance with the Hazardous Substances and New Organisms Act 1996 or the Health and Safety at Work Act 2015, as a gas code of practice under this Act.
 
 ### 38 Code may incorporate official standards by reference
 (1) WorkSafe may include in any gas code of practice a reference to—if that official standard or, as the case may be, that part of that official standard relates to the subject matter of the code.
@@ -1085,85 +1085,6 @@ For the purposes of the audit of any financial statements referred to in section
 ### 43ZZF Expiry of subpart
 (1) This subpart expires on the date on which subpart 3 comes into force.
 (2) The expiry of this subpart does not affect any gas governance regulations or rules made on the recommendation of the industry body.
-
-### Subpart 3 — Governance of gas industry by Energy Commission
-
-**Preliminary provisions**
-
-### 43ZZG Purpose
-The purpose of this subpart is to enable the establishment of the Energy Commission to be responsible for—
-  (a) developing recommendations for gas governance regulations or rules that promote its principal objective:
-  (b) other matters relating to the governance of the gas industry.
-
-**Energy Commission**
-
-### 43ZZH Commission to govern gas industry established
-(1) An Energy Commission is established.
-(2) The Energy Commission is the same body as the Electricity Authority established by section 12 of the Electricity Industry Act 2010.
-
-### 43ZZI Continuation of Commission's functions, objectives, etc
-(1) The Electricity Authority continues under both the Electricity Industry Act 2010 and this Act—
-  (a) under the new name Energy Commission; and
-  (b) with the additional objectives, specific outcomes, functions, powers, and duties specified in this Act; but
-  (c) otherwise without any change in respect of its continuity, assets, rights, liabilities, and contracts.
-(2) All references to the Electricity Authority in any enactment or document must be read as references to the Energy Commission.
-
-### 43ZZJ Additional principal objective of Energy Commission
-(1) The principal objective of the Energy Commission in relation to gas is to ensure that gas is delivered to existing and new customers in a safe, efficient, fair, reliable, and environmentally sustainable manner.
-(2) This objective in relation to gas ranks equally with the objective specified in section 15 of the Electricity Industry Act 2010 in relation to electricity.
-
-### 43ZZK Additional specific outcomes in relation to gas
-(1) Consistent with its principal objective in relation to gas, the Commission must seek to achieve, in relation to gas, the following specific outcomes:
-  (a) the facilitation and promotion of the ongoing supply of gas to meet New Zealand's energy needs, by providing access to essential infrastructure and competitive market arrangements:
-  (b) energy and other resources are used efficiently:
-  (c) barriers to competition in the gas industry are minimised to the long-term benefit of end-users:
-  (d) incentives for investment in gas processing facilities, transmission and distribution, energy efficiency, and demand-side management are maintained or enhanced:
-  (e) the full costs of producing and transporting gas are signalled to consumers:
-  (f) delivered gas costs and prices are subject to sustained downward pressure:
-  (g) the quality of gas services and in particular trade-offs between quality and price, as far as possible, reflect customer's preferences:
-  (h) risks relating to security of supply, including transport arrangements, are properly and efficiently managed by all parties:
-  (i) consistency with the Government's gas safety regime is maintained:
-  (j) the gas sector contributes to achieving the Government's climate change objectives by minimising gas losses and promoting demand-side management and energy efficiency.
-(2)
-
-### 43ZZL Additional functions
-(1) The functions of the Energy Commission in relation to gas are—
-  (a) to formulate and make recommendations concerning gas governance regulations and rules in accordance with this Part:
-  (b) to administer, monitor compliance with, enforce, and apply penalties or other remedies for contraventions of, gas governance regulations and rules:
-  (c) to establish, operate, and facilitate the operation of (by contracting with other parties, entering into a joint venture or contractual arrangement, or other means) markets for gas industry participants:
-  (d) to undertake forecasting and modelling of future gas supply and demand:
-  (e) to promote improvement in the efficiency with which gas is used:
-  (f) to approve 1 or more complaints resolution system for the purpose of section 43E:
-  (g) to develop best practice methodologies and other standards and model agreements for use by gas industry participants:
-  (h) to provide advice to the Minister on matters concerning the gas industry.
-(2) In performing its functions, the Energy Commission must promote its principal objective.
-(3) The functions in this section rank equally with the functions specified in section 16 of the Electricity Industry Act 2010.
-
-### 43ZZM Additional members and their duties
-(1) The Minister may recommend, and the Governor-General may appoint, up to 2 additional persons as members of the Energy Commission, having regard to the need to ensure that the Commission has among its members knowledge and experience of, and capability in, the gas industry.
-(2) In that case, section 13(1) of the Electricity Industry Act 2010 must be read as if the Commission comprises between 5 and 9 members.
-(3) A member appointed under this section, when acting as a member, must not act as a representative of, or promote the interests or views of, any organisation, a particular gas industry participant, or a particular group of gas industry participants.
-
-**Role of Energy Commission in relation to gas governance regulations and rules**
-
-### 43ZZN Objectives of recommendations
-In formulating recommendations for gas governance regulations and rules, the Commission must give effect to its principal objective and specific outcomes and have regard to its GPS objectives and outcomes.
-
-### 43ZZO Consultation and accountability sections apply
-Section 172Z of the Electricity Act 1992 applies (as if it had not been repealed) in relation to the Energy Commission in respect of gas.
-
-### 43ZZP Levy of industry participants
-(1) Section 128 of the Electricity Industry Act 2010 applies—
-  (a) as if references to industry participants applied equally to gas industry participants; and
-  (b) as if gas industry participants were levied for the estimated costs of performing the Commission's gas-related functions, powers, and duties, and electricity industry participants were levied for the estimated costs of performing the Commission's electricity-related functions, powers, and duties; and
-  (c) with all other necessary modifications.
-(2) Levy regulations made under that section in respect of gas may also—
-  (a) include in the levy amount or method any costs the Commission may have incurred in preparing to perform its gas-related functions, powers, and duties; and
-  (b) provide for the transition from the industry body to the Commission.
-
-### 43ZZQ Amendments to Ombudsmen Act 1975 and Public Finance Act 1989
-(1) The Ombudsmen Act 1975 is amended by omitting from Part 2 of Schedule 1 the item relating to the Electricity Authority, and substituting, in its appropriate alphabetical order, the following item:Energy Commission and every subsidiary of the Energy Commission.
-(2) The Public Finance Act 1989 is amended by omitting from Schedules 4, 5, and 6 the item relating to the Electricity Authority, and substituting, in its appropriate alphabetical order, the following item:Energy Commission.
 
 ### Subpart 4 — Exemptions from restrictive trade practice provisions of Commerce Act 1986
 
