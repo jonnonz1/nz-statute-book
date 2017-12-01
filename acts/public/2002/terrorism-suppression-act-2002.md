@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2017-10-01_
+_Consolidation as at 2017-12-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -260,10 +260,10 @@ This Act binds the Crown.
   (a) possesses, uses, or manufactures unmarked plastic explosives, knowing they are unmarked; or
   (b) imports or exports unmarked plastic explosives to or from New Zealand, knowing they are unmarked.
 (2) Subsection (1) does not apply in respect of unmarked plastic explosives (not being explosives to which subsection (3) applies) that were lawfully manufactured in, or imported into New Zealand before the commencement of this section and that may, subject to the Health and Safety at Work Act 2015, be transported or possessed by—
-  (a) a person who performs military or Police functions during the period that begins with the entry into force of this section and ends 15 years later; or
-  (b) any other person during the period that begins with the entry into force of this section and ends 3 years later.
+  (a) a person who performs military or Police functions during the period that begins with the entry into force of this section and ends 15 years later.
+  (b)
 (3) Nothing in this section applies to unmarked plastic explosives—
-  (a) that are manufactured or held in limited quantities for sole use in any of the following activities that are duly approved by the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011:
+  (a) that are manufactured or held in limited quantities for sole use in any of the following activities that are duly approved by the Environmental Protection Authority established by section 7 of the Environmental Protection Authority Act 2011 or by WorkSafe established by section 5 of the WorkSafe New Zealand Act 2013:
     (i) research, development, or testing of new or modified explosives; or
     (ii) training in explosives detection or testing of explosives detection equipment; or
     (iii) forensic science activities; or
