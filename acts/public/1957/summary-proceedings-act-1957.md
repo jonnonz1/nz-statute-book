@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-12-01_
 
 > Title
 
@@ -43,6 +43,7 @@ _Consolidation as at 2017-07-14_
     (d) section 58 of the Civil Aviation Act 1990; or
     (da) section 129 of the Plumbers, Gasfitters, and Drainlayers Act 2006; or
     (e) section 159 or section 159A of the Biosecurity Act 1993; or
+    (ea) section 112 of the Hazardous Substances and New Organisms Act 1996; or
     (f) section 66 of the Dog Control Act 1996; or
     (fa) section 165B of the Electricity Act 1992; or
     (fb) section 40D of the Fair Trading Act 1986; or
