@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Amendment Act 2015
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2017-12-01_
 
 ### 1 Title
 This Act is the Hazardous Substances and New Organisms Amendment Act 2015.
