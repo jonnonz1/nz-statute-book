@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2017-12-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -20,23 +20,26 @@ _Consolidation as at 2017-07-01_
   - **building** has the same meaning as in section 7 of the Building Act 2004
   - **by-product** means an incidental or secondary product made in the manufacture of another product
   - **carrier** , in relation to a craft, means the owner or charterer of the craft; and, where the owner or charterer is not in New Zealand, includes the agent in New Zealand of the owner or charterer or, if there is no such agent in New Zealand, the person in charge
+  - **classification control** means a control imposed under this Act for any hazardous substance in any place that specifies any requirements for advertising, identification, labelling, packaging, or safety data sheets
   - **code of practice** means any document issued or approved in accordance with section 78
   - **compound** means any chemical combination of chemical elements
   - **conditional release approval** means an approval under section 38BA or 38C
   - **conditionally released new organism** means a new organism that is subject to a conditional release approval
-  - **container** means any vessel or structure, whether moveable or fixed, in which hazardous substances may be cased, covered, enclosed, contained, or packed; and—
-    (a) includes,—
-      (i) any vessel (other than part of a vehicle's fuel system) which forms an integral part of any vehicle; and
-      (ii) any stationary container; and
-      (iii) any package; and
-    (b) does not include any landfill
   - **containment** means restricting an organism or substance to a secure location or facility to prevent escape; and includes, in respect of genetically modified organisms, field testing and large-scale fermentation
   - **containment facility** means,—
     (a) in relation to new organisms (other than genetically modified organisms), a facility registered as a containment facility under the Biosecurity Act 1993:
     (b) in relation to genetically modified organisms, a facility which complies with the controls imposed by an approval granted under any of sections 42, 42A, 42B, or 45
   - **containment structure** means a containment facility that is a vehicle, room, building, or other structure, set aside and equipped for the development of genetically modified organisms
+  - **content control** means a control imposed under this Act that—
+    (a) specifies the allowable limits for the content of any—
+      (i) substance contained in any substance or product; or
+      (ii) element or compound that makes up any substance contained in any substance or product; or
+    (b) specifies the allowable limits for the properties of any substance or product; or
+    (c) prohibits the presence of any—
+      (i) substance contained in any substance or product; or
+      (ii) element or compound that makes up any substance contained in any substance or product
   - **controller** means the person for the time being in charge of a location or facility
-  - **controls** means any obligations or restrictions imposed on any hazardous substance or new organism, or on any person in relation to any hazardous substance or new organism, by this or any other Act or any regulations, rules, codes, or other documents made in accordance with the provisions of this or any other Act for the purposes of controlling the adverse effects of that substance or organism on people or the environment
+  - **controls** means any obligations or restrictions imposed on any hazardous substance or new organism, or on any person in relation to any hazardous substance or new organism, by this or any other Act or any regulations, rules, EPA notices, codes, or other instruments or documents made in accordance with the provisions of this or any other Act for the purposes of controlling the adverse effects of that substance or organism on people or the environment
   - **craft** means any form of aircraft, ship, or other vehicle or vessel capable of being used to transport any substance to or from New Zealand from or to any country outside New Zealand
   - **Crown entity** —
     (a) has the same meaning as in section 7(1) of the Crown Entities Act 2004; and
@@ -64,7 +67,9 @@ _Consolidation as at 2017-07-01_
       (i) rendering the organism biologically inactive in such a manner as to prevent the occurrence of any future biological activity; or
       (ii) exporting the organism from New Zealand
   - **distribution system** has the same meaning as in section 2 of the Gas Act 1992
+  - **document** has the same meaning as in section 4(1) of the Evidence Act 2006
   - **ecotoxic** means capable of causing ill health, injury, or death to any living organism
+  - **ecotoxic control** means a control imposed under this Act for the purposes of controlling the ecotoxic effects of a hazardous substance
   - **effect** includes—
     (a) any potential or probable effect; and
     (b) any positive or adverse effect; and
@@ -85,16 +90,24 @@ _Consolidation as at 2017-07-01_
     (b) in relation to class 9 substances, means water, soil, or sediment where these are in the natural environment, or a surface that a hazardous substance may be deposited onto
   - **environmental user charge** means an amount of money payable per unit mass of a hazardous substance
   - **environmentally sound disposal** , in relation to a substance that is a persistent organic pollutant, means disposal in accordance with directions given by the Authority by notice in the Gazette, being directions that are not inconsistent with Article 6 of the Stockholm Convention
+  - **EPA control** —
+    (a) means any control imposed by the Authority under this Act for the purpose of controlling the adverse effects of hazardous substances on people or on the environment; and
+    (b) includes, but is not limited to, classification controls, content controls, disposal controls, and ecotoxic controls
   - **EPA notice** means a notice issued in the Gazette by the Authority under Part 6 or under any other provision of this Act that applies section 76C
   - **explosive** means capable of sudden expansion owing to a release of internal energy; and includes the capability to generate—and has a corresponding meaning
     (a) deflagration; or
     (b) pyrotechnic effects,—
   - **exportation** has the same meaning as in section 2(1) of the Customs and Excise Act 1996; and has a corresponding meaning
-  - **exposure limit** means an environmental exposure limit, a tolerable exposure limit, or a workplace exposure standard (as these terms are defined in section 77B(6))
+  - **exposure limit** means an environmental exposure limit or a tolerable exposure limit (as these terms are defined in section 77B(6))
   - **field test** means, in relation to an organism, the carrying on of trials on the effects of the organism under conditions similar to those of the environment into which the organism is likely to be released, but from which the organism, or any heritable material arising from it, could be retrieved or destroyed at the end of the trials
   - **firework** means an object containing small quantities of hazardous substances with explosive properties enclosed in a case of paper or similar material of such a strength, construction, and character that the ignition or explosion of one such firework will not cause the explosion en masse of similar fireworks kept or carried with it, and whose sole or principal effect is not percussive or vertical or horizontal flight
   - **gas appliance** has the same meaning as in section 2 of the Gas Act 1992
   - **gas installation** has the same meaning as in section 2 of the Gas Act 1992
+  - **gases under pressure** means—
+    (a) a compressed gas; or
+    (b) a liquefied gas; or
+    (c) a refrigerated liquefied gas; or
+    (d) a dissolved gas
   - **genetic element** , in relation to a new organism, means—
     (a) heritable material; and
     (b) any genes, nucleic acids, or other molecules from the organism that can, without human intervention, replicate in a biological system and transfer a character or trait to another organism or to subsequent generations of the organism
@@ -102,7 +115,7 @@ _Consolidation as at 2017-07-01_
     (a) have been modified by in vitro techniques; or
     (b) are inherited or otherwise derived, through any number of replications, from any genes or other genetic material which has been modified by in vitro techniques
   - **hazard classification** means a combination of the hazardous property of a substance and the level or type of hazard related to that property prescribed in accordance with section 74
-  - **hazardous substance** means, unless expressly provided otherwise by regulations, any substance—
+  - **hazardous substance** means, unless expressly provided otherwise by regulations or an EPA notice, any substance—
     (a) with 1 or more of the following intrinsic properties:
       (i) explosiveness:
       (ii) flammability:
@@ -137,7 +150,6 @@ _Consolidation as at 2017-07-01_
     (a) their biological and genetic diversity; and
     (b) the essential characteristics that determine an ecosystem's integrity, form, functioning, and resilience
   - **laboratory** means a vehicle, room, building, or any other structure set aside and equipped for scientific experiments or research, for teaching science, or for the development of chemical or medicinal products
-  - **landfill** means any premises used for the lawful deposit or disposal of waste materials into or onto land
   - **life cycle** , in relation to a substance, means the time for which the substance is in existence from (and including) its manufacture or importation to its disposal
   - **light rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
   - **local authority** means a territorial authority or a regional council
@@ -160,8 +172,6 @@ _Consolidation as at 2017-07-01_
     (ba) includes a manufactured article containing 1 or more of those substances; but
     (c) does not include a substance occurring in quantities as unintentional trace contaminants in products and articles
   - **person** includes the Crown
-  - **place of work** has the same meaning as in section 2(1) and (3) of the Health and Safety in Employment Act 1992
-  - **port of entry** has the same meaning as in the Customs Act 1966
   - **premises** includes a dwelling, building, aircraft, ship, carriage, vehicle, box, receptacle, and place
   - **prescribed** means prescribed by regulations made or an EPA notice issued under this Act
   - **public health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
@@ -185,9 +195,7 @@ _Consolidation as at 2017-07-01_
   - **risk species** means any species, subspecies, infrasubspecies, variety, strain, or cultivar prescribed as a risk species under section 140
   - **road** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **serious environmental damage** means any environmental damage prescribed under section 140
-  - **serious harm** has the same meaning as in Schedule 1 of the Health and Safety in Employment Act 1992
   - **ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
-  - **stationary container** means any building or part of a building, or vessel supported by or incorporated in any building, which is expressly designed to contain any hazardous substance
   - **Stockholm Convention** —
     (a) means the Convention on Persistent Organic Pollutants done at Stockholm on 23 May 2001 and the Annexes to the Convention, a copy of the English text of which is set out in Schedule 1AA; and
     (b) includes any amendments to, or substitutions of, the Convention or the Annexes that are, or will become, binding on New Zealand
@@ -198,9 +206,7 @@ _Consolidation as at 2017-07-01_
     (d) any manufactured article containing, incorporating, or including any hazardous substance with explosive properties
   - **taxonomic classification** , in relation to an organism, means the genus, species, subspecies, infrasubspecies, variety, strain, cultivar, or other appropriate classification that the organism belongs to
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
-  - **test certificate** means a certificate issued by a test certifier in accordance with section 82
   - **toxic** means capable of causing ill health in, or injury to, human beings
-  - **tracking system** means a system established under regulations made under section 76
   - **transferable permit** means any permit to import or manufacture a hazardous substance issued in accordance with a transferable permit scheme
   - **transferable permit scheme** means any scheme established in accordance with section 87
   - **transhipment** means the importation into New Zealand of a hazardous substance or new organism solely for the purpose of export within 20 working days to another destination outside New Zealand
@@ -210,6 +216,7 @@ _Consolidation as at 2017-07-01_
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing on 20 December in any year and ending with 15 January in the following year
+  - **workplace** has the same meaning as in section 20 of the Health and Safety at Work Act 2015
   - **WorkSafe** means WorkSafe New Zealand established by section 5 of the WorkSafe New Zealand Act 2013.
 (2) For the purposes of paragraph (a) of the definition of the term substance in section 2(1), the definition of any mixture of elements or mixture of compounds may include a range of percentages of the elements or compounds making up the substance.
 
@@ -242,20 +249,20 @@ _Consolidation as at 2017-07-01_
 ### 3 Act to bind the Crown
 (1) Except as provided in subsections (2) to (8), this Act shall bind the Crown.
 (2) Subject to subsections (3) to (8), this Act shall not apply to any hazardous substance controlled by the Minister of Defence.
-(3) The Chief of Defence Force shall develop codes of practice for hazardous substances controlled by the Minister of Defence and contained in any weapons system.
+(3) The Chief of Defence Force shall develop codes of practice for EPA controls for hazardous substances controlled by the Minister of Defence and contained in any weapons system.
 (4) The codes of practice developed under subsection (3)—
   (a) must—
-    (i) be based on the relevant controls (including any group standard conditions) imposed by the Authority on hazardous substances that have been approved by the Authority (including a deemed approval under section 96E or section 160A) for any purpose under this Act; or
-    (ii) meet the relevant requirements prescribed by regulations made in accordance with section 75; and
+    (i) be based on the relevant EPA controls (including any group standard conditions) imposed by the Authority on hazardous substances that have been approved by the Authority (including a deemed approval under section 96E or section 160A) for any purpose under this Act; or
+    (ii) meet the relevant requirements prescribed by EPA notices issued in accordance with section 75; and
   (b) may incorporate or adapt any relevant international code of practice.
 (5) The Chief of Defence Force—
   (a) must ensure that methods of controlling all hazardous substances not contained in any weapons system and controlled by the Minister of Defence—
-    (i) are based on the relevant controls (including any group standard conditions) imposed by the Authority on hazardous substances that have been approved by the Authority (including a deemed approval under section 96E or section 160A) for any purpose under this Act; or
-    (ii) meet the relevant requirements prescribed by regulations made in accordance with section 75; and
+    (i) are based on the relevant EPA controls (including any group standard conditions) imposed by the Authority on hazardous substances that have been approved by the Authority (including a deemed approval under section 96E or section 160A) for any purpose under this Act; or
+    (ii) meet the relevant requirements prescribed by EPA notices issued in accordance with section 75; and
   (b) may comply with the relevant requirements in paragraph (a) by following the relevant code of practice approved under section 79.
-(6) The Secretary of Defence shall audit the controls on hazardous substances under the control of the Minister of Defence in accordance with section 24(2)﻿(e) of the Defence Act 1990, and report the results to the Minister and the Minister of Defence.
-(7) Any person may report to the Authority a breach of the requirements required to be met by any regulations in relation to hazardous substances under the control of the Minister of Defence.
-(8) Where an incident occurs which involves any hazardous substance under the control of the Minister of Defence and the incident is not being investigated under the Armed Forces Discipline Act 1971, the Authority may, after consultation with the Minister and the Minister of the Crown who is responsible for the Ministry of Justice, direct an inquiry to be held before a District Court Judge.
+(6) The Secretary of Defence shall audit the EPA controls on hazardous substances under the control of the Minister of Defence in accordance with section 24(2)﻿(e) of the Defence Act 1990, and report the results to the Minister and the Minister of Defence.
+(7) Any person may report to the Authority a breach of the requirements required to be met by any regulations or EPA notices in relation to hazardous substances under the control of the Minister of Defence.
+(8) Where an incident occurs which involves any breach of an EPA control relating to a hazardous substance under the control of the Minister of Defence and the incident is not being investigated under the Armed Forces Discipline Act 1971, the Authority may, after consultation with the Minister and the Minister of the Crown who is responsible for the Ministry of Justice, direct an inquiry to be held before a District Court Judge.
 (9) To assist the Judge, the Authority may appoint 2 or more people with skills or knowledge relevant to the subject matter of the inquiry.
 (10) The Judge may hold the inquiry at any times and places the Judge appoints, and shall report on the cause of the incident to the Authority.
 (11) The Judge has all the powers of a Commission of Inquiry under the Commissions of Inquiry Act 1908; and subject to subsections (9) and (10), that Act shall apply accordingly.
@@ -318,6 +325,8 @@ All persons exercising powers and functions under this Act shall take into accou
   (b) monitor and review—
     (i) the extent to which the Act reduces adverse effects on the environment or people from hazardous substances or new organisms:
     (ii) the enforcement of this Act including, but not limited to, the exercise of any power under section 103 by any enforcement officer:
+  (ba) carry out its enforcement functions under this Act:
+  (bb) issue certificates in accordance with section 82 and revoke certificates in accordance with section 82C:
   (c) promote awareness of the adverse effects of hazardous substances and new organisms on people or the environment and awareness of the prevention or safe management of those effects:
   (d) contribute to and co-operate with international forums and carry out international requirements as directed by the Minister:
   (e) enquire into any incident or emergency involving a hazardous substance or a new organism:
@@ -327,6 +336,7 @@ All persons exercising powers and functions under this Act shall take into accou
   (fc) approve standards for containment facilities:
   (g) carry out any powers, functions, and duties conferred on it by or under this Act.
 (2) The Authority must, before exercising the function specified in subsection (1)﻿(fc), consult the persons whom the Authority considers are representative of the classes of person who are likely to have an interest in the standards.
+(2A) In carrying out its powers, functions, and duties conferred on it by or under this Act that relate to hazardous substances, the Authority must foster a co-operative and consultative relationship with WorkSafe.
 (3) This section does not limit section 17 of the Crown Entities Act 2004.
 
 ### 12 Powers, functions, and duties of enforcement officers
@@ -394,13 +404,13 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
   (cb) the power to decide any application under section 28, if it is not publicly notified under section 53(2), to its chief executive:
   (d) the power to conduct a rapid assessment under section 28A to its chief executive:
   (e) the power to hear and decide any application made under section 31 to its chief executive:
-  (f) the power to hear and decide an application made under section 83 for approval as a test certifier to any person, whether or not that person is a member of the Authority:
+  (f)
   (g) the power to appoint an enforcement officer under section 99(3)﻿(a) to its chief executive:
-  (h) the power to decide any application for any permission or licence under Part 6, or the revocation of any permission or licence under that Part, to—
-    (i) any employee of the Ministry of Agriculture and Forestry, any Medical Officer of Health (as defined in section 2(1) of the Health Act 1956), or any employee of any person specified in section 97, or any enforcement officer, with relevant experience in the subject matter of the application or the permission or licence; or
+  (h) the power to decide any application for any permission under Part 6, or the revocation of any permission under that Part, to—
+    (i) any employee of the department for the time being responsible for the administration of the Biosecurity Act 1993, any Medical Officer of Health (as defined in section 2(1) of the Health Act 1956), or any employee of any person specified in section 97, or any enforcement officer, with relevant experience in the subject matter of the application or the permission or licence; or
     (ii) if there is no employee or enforcement officer with the relevant experience, any other person with the relevant experience, whether or not that person is a member of the Authority:
   (ha) the power to revoke a certificate under section 82C to its chief executive:
-  (i) the power to decide any application for any licence under Part 6, or the revocation of any licence under that Part, to any test certifier approved under section 84.
+  (i)
 (3) Every decision made in accordance with a delegation under this section shall be treated in all respects as though it were a decision of the Authority.
 (4) Every person purporting to act under a delegation under this section is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
 (5) A delegation under this section shall be revocable at will, and no such delegation shall prevent the performance or exercise of any function, power, or duty by the Authority.
@@ -412,16 +422,18 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
 (7) Sections 73 to 76 of the Crown Entities Act 2004 do not apply to the Authority's functions, powers, or duties under this Act.
 
 ### 20 Obligation to prepare and maintain register
-(1) The Authority shall keep a register of all applications made to the Authority.
+(1) The Authority must keep a register of all applications for approvals for hazardous substances and new organisms made to the Authority, including pending and withdrawn applications.
 (2) The register shall specify—
   (a) the name and address of the applicant:
   (b) a sufficient description of the substance or organism to uniquely identify that substance or organism:
   (c) the purpose of the application:
   (ca) if applicable, the project concerned:
   (d) whether the application was approved or declined:
-  (e) any controls attached to the approval by the Authority, including any associated permissions granted under section 95A and any associated licences granted under section 95B:
-  (f) all the controls on a hazardous substance, whether the controls are imposed under this Act or any other Act.
+  (e) any controls attached to the approval by the Authority, including any associated permissions granted under section 95A:
+  (f) all the controls on a hazardous substance imposed under this Act.
 (3) The register shall also record the details of any list of low-risk organisms issued by the Authority.
+(3A) The register must also include reference to controls on a hazardous substance imposed under the Health and Safety at Work Act 2015.
+(3B) The register may also include reference to controls on a hazardous substance imposed under any other Act.
 (4) Any decision by the Authority to approve the importation for release or development of any organism as a low-risk organism (other than an organism which is listed as a low-risk organism), shall also be included in the register.
 (5) Every person shall have the right to inspect the register during the ordinary office hours of the Authority.
 (6) The Authority may withhold any information relating to transhipment applications that this section would otherwise require to be on the register if, in its opinion, the information could pose a risk to national safety and security.
@@ -459,7 +471,7 @@ A committee or subcommittee appointed for the purpose of section 19(2)﻿(b) mus
 Any local authority may prescribe fees by bylaw or resolution in accordance with section 150 of the Local Government Act 2002 for the exercise or performance by the local authority of any power, function, or duty under this Act.
 
 ### 24 Power to request information
-The Authority may from time to time request any person who in the Authority's opinion is able to give any information relating to any significant incident or emergency or likely significant incident or emergency involving a hazardous substance or new organism which is the subject of an inquiry by the Authority under section 11(e), to furnish to the Authority any such information and to produce any documents or papers or things which in the Authority's opinion relate to any such matter and which may be in the possession or under the control of that person.
+The Authority may from time to time request any person who in the Authority's opinion is able to give any information relating to any significant incident or emergency or likely significant incident or emergency involving a hazardous substance or new organism which is the subject of an inquiry by the Authority under section 11(1)﻿(e), to furnish to the Authority any such information and to produce any documents or papers or things which in the Authority's opinion relate to any such matter and which may be in the possession or under the control of that person.
 
 ## Part 4A — Nga Kaihautu Tikanga Taiao
 
@@ -642,15 +654,15 @@ The Authority may approve the manufacture or importation of any hazardous substa
 
 ### 33 Exemptions from Act for small-scale research on hazardous substances
 (1) Nothing in this Act applies to any small-scale use of hazardous substances in research and development or teaching if—
-  (a) the use occurs in a laboratory that meets the prescribed requirements; and
+  (a) the use occurs in a laboratory that meets the requirements prescribed under the Health and Safety at Work Act 2015; and
   (b) the use does not create or involve a hazardous substance for which any application for approval has been declined under this Act; and
   (ba) the use does not create or involve a persistent organic pollutant; and
   (c) the importation, storage, and transportation of the hazardous substances each meets the prescribed requirements; and
   (d) no such hazardous substance, nor any substance created from that use, is sold as a substance or in a product containing or derived from that substance, except as provided for in subsection (2).
 (2) A hazardous substance, or any substance created from the use of that hazardous substance, referred to in subsection (1) may be sold as a substance or in a product containing or derived from that substance only if it is sold to—
-  (a) a laboratory in New Zealand that meets the prescribed requirements:
+  (a) a laboratory in New Zealand that meets the requirements prescribed under the Health and Safety at Work Act 2015:
   (b) a laboratory outside New Zealand, but only if—
-    (i) the hazardous substance or the substance has been sold to the laboratory outside New Zealand by a laboratory in New Zealand that meets the prescribed requirements; and
+    (i) the hazardous substance or the substance has been sold to the laboratory outside New Zealand by a laboratory in New Zealand that meets the requirements prescribed under the Health and Safety at Work Act 2015; and
     (ii) the laboratory in New Zealand holds evidence that the hazardous substance or the substance will be used by the laboratory outside New Zealand in research and development or training, and produces that evidence if requested to do so by the Authority.
 
 **Assessment of new organisms for importation or release**
@@ -996,7 +1008,7 @@ The Authority may, for a deemed approval under section 255,—
   (b) import any new organism for release in an emergency; or
   (c) release any new organism from containment in an emergency; or
   (d) release any hazardous substance from containment in an emergency; or
-  (e) use any hazardous substance in an emergency in a manner which would otherwise contravene the provisions of this Act or any regulations—
+  (e) use any hazardous substance in an emergency in a manner which would otherwise contravene the provisions of this Act or any regulations or any EPA notice—
 (2) Every application shall be in an approved form and shall include—
   (a) information to identify the substance or organism; and
   (b) information showing that the hazardous substance or new organism is necessary to deal with an emergency; and
@@ -1066,7 +1078,7 @@ Sections 49D to 49K apply to a special emergency whether or not—
   (a) import any agricultural compound or medicine for release; or
   (b) manufacture an agricultural compound or medicine that is a hazardous substance otherwise in containment; or
   (c) release any agricultural compound or medicine from containment; or
-  (d) use any agricultural compound or medicine in a manner that would contravene this Act or any regulations.
+  (d) use any agricultural compound or medicine in a manner that would contravene this Act or any regulations or any EPA notice.
 (3) For the purposes of subsection (1),—
   (a) it does not matter whether the application is made or approved before or after the special emergency has been declared:
   (b) the applicant may import, release, or use the agricultural compound or medicine before the declaration of the special emergency has been notified or published in the Gazette.
@@ -1255,7 +1267,9 @@ Any information withheld from any person in accordance with section 9(2)﻿(b) o
 (1) The Authority—
   (a) may commission a report or seek advice from any person on any matters raised in relation to the application, including a review of any information provided by the applicant:
   (b) may obtain any existing relevant information on the substance or organism which is the subject of the application from any source:
-  (c) shall consult with all departments or Crown entities notified of the application in accordance with section 53(4) and, where any application is for approval to import, develop, field test, conditionally release, or release a new organism, have particular regard to any submissions made by the Department of Conservation.
+  (c) must consult with all departments or Crown entities notified of the application in accordance with section 53(4) and,—
+    (i) if any application is for approval to import, develop, field test, conditionally release, or release a new organism, have particular regard to any submissions made by the Department of Conservation; and
+    (ii) if any application is for approval to import or manufacture a hazardous substance, have particular regard to any submissions made by WorkSafe.
 (1A) Any report, advice, or other information obtained under subsection (1) may be considered at any hearing conducted by the Authority.
 (2) Where the Authority obtains further information under subsection (1), the Authority, at least 10 working days before commencement of the hearing or consideration, as the case may be, of the application, shall notify the applicant and every person who made a submission that the information is available for inspection, unless that information has been withheld in accordance with section 9(2)﻿(b) of the Official Information Act 1982.
 (3) Where information is requested in accordance with subsection (1), the Authority may postpone the hearing or consideration of the application until the information has been received.
@@ -1312,6 +1326,7 @@ A hearing of any application need not be held unless—
   (b) the chief executive of the Authority—
 (2) Where any request has been made under subsection (1), the Authority may decide that grounds exist to reassess that substance or organism after taking into account that—
   (a) significant new information relating to the effects of the substance or the organism has become available; or
+  (aa) a change in any controls under the Health and Safety at Work Act 2015; or
   (b) another substance with similar or improved beneficial effects and reduced adverse effects has become available; or
   (c) information showing a significant change of use, or a significant change in the quantity manufactured, imported, or developed has become available.
 (3) The Authority shall give its decision under subsection (2) in writing, with reasons, to the applicant.
@@ -1333,7 +1348,7 @@ A hearing of any application need not be held unless—
   (a) a reassessment of the hazardous substance under section 63 is not appropriate because the reassessment will involve only a specific aspect of the approval; and
   (b) the amendment is not a minor or technical amendment to which section 67A applies.
 (2) A reassessment under this section—
-  (a) may vary the controls that attach to a hazardous substance, or the description of a hazardous substance, or both; but
+  (a) may vary the EPA controls that attach to a hazardous substance, or the description of a hazardous substance, or both; but
   (b) may not revoke an approval given to a hazardous substance under this Act to import or manufacture the substance.
 (3) A reassessment under this section is deemed to be an application, and sections 55 to 61 apply with all necessary modifications.
 (4) The Authority may reassess a hazardous substance under this section without publicly notifying the reassessment in accordance with section 53.
@@ -1344,7 +1359,7 @@ A hearing of any application need not be held unless—
 (6) The Authority may approve or decline an application for reassessment under this section as it considers appropriate after taking into account—
   (a) all the effects associated with the reassessment; and
   (b) the best international practices and standards for the safe management of hazardous substances.
-(7) Section 77 applies to any hazardous substance that is approved under this section.
+(7) Sections 77, 77A, and 77B apply to any hazardous substance that is approved under this section and, for the purposes of this section, controls previously imposed under section 77A have effect as other specified controls under that section.
 (8) Section 65(e) applies, with all necessary modifications, to a reassessment under this section.
 
 ### 63B Proposal for group standard may be consulted on in same way as reassessment
@@ -1356,11 +1371,35 @@ A hearing of any application need not be held unless—
   (b) its assessment of the matters referred to in section 53(1A)﻿(c).
 (3) If the Authority consults in accordance with subsection (2), then the public notice requirements of sections 53(1A), 96C(2), and 96D do not apply.
 
+### 63C Modified reassessment to change controls in other cases
+(1) Despite anything to the contrary in this Act, the Authority may reassess a hazardous substance in accordance with this section if the Authority considers that—
+  (a) a reassessment of the hazardous substance under section 63 is not appropriate because the reassessment will involve only a specific aspect of the approval; and
+  (b) the amendment is not a minor or technical amendment to which section 67A applies; and
+  (c) the reassessment is necessary because of a change in the hazard classification system, controls in regulations, EPA controls, or controls under the Health and Safety at Work Act 2015.
+(2) A reassessment under this section—
+  (a) may vary 1 or more of the following:
+    (i) the EPA controls that attach to a hazardous substance:
+    (ii) the description of a hazardous substance:
+    (iii) the hazard classification of a hazardous substance; but
+  (b) may not revoke an approval given to import or manufacture a hazardous substance under this Act.
+(3) A reassessment under this section is deemed to be an application, and sections 55 to 61 apply with all necessary modifications.
+(4) The Authority may reassess a hazardous substance under this section without publicly notifying the reassessment in accordance with section 53.
+(5) If the Authority does not publicly notify the reassessment in accordance with section 53, the Authority must—
+  (a) do everything reasonably practicable on its part to consult with all persons who, in its opinion, may be affected by the reassessment; and
+  (b) give those persons a reasonable opportunity to make submissions and comments to the Authority on the reassessment; and
+  (c) consider all submissions and comments received.
+(6) The Authority may approve or decline an application for reassessment under this section as it considers appropriate after taking into account—
+  (a) all the effects associated with the reassessment; and
+  (b) the best international practices and standards for the safe management of hazardous substances.
+(7) Section 65(e) applies, with all necessary modifications, to a reassessment under this section.
+(8) Sections 77, 77A, and 77B apply to any hazardous substance that is approved under this section and, for the purposes of this section, controls previously imposed under section 77A have effect as other specified controls under that section.
+(9) This section does not limit the operation of section 77(2)﻿(a).
+
 ### 64 Suspension of approvals during reassessment
 Where a decision to reassess any hazardous substance has been publicly notified under section 63(2), and the Authority has reasonable cause to believe that there is significant actual or imminent danger to human health or safety or the environment from the continued use of the substance, the Authority, by notice in the Gazette, may direct that any further use of the substance is prohibited until such time as a decision has been made following the reassessment.
 
 ### 65 No compensation following reassessment
-Where any hazardous substance or new organism is reassessed in accordance with section 63, no compensation shall be payable to any person for any loss where the Authority—
+Where any hazardous substance or new organism is reassessed in accordance with section 63, 63A, or 63C or a group standard is amended or revoked under section 96B(3), no compensation shall be payable to any person for any loss where the Authority—
   (a) declines to allow any further importation or manufacture of that substance; or
   (b) declines to approve the release of any new organism from containment; or
   (c) declines to approve any further importation, field testing, or development of any new organism in containment; or
@@ -1384,12 +1423,19 @@ Following any decision to—the Authority may direct the owner of any such organ
 ### 67A Minor or technical amendments to approvals
 The Authority may, of its own motion, amend any approval given by it under this Part if it considers that the alteration is minor in effect or corrects a minor or technical error.
 
+### 67B Revoking duplicated approvals
+(1) The Authority may, by notice in the Gazette, revoke an approval, a deemed approval, or a group standard for a substance if the Authority is satisfied that a corresponding approval to the same or a substantially similar effect applies to the substance under—
+  (a) a group standard; or
+  (b) a Part 5 approval that is not a deemed approval.
+(2) The Authority may, but is not required to, consult any person or organisation before revoking an approval, a deemed approval, or a group standard under this section.
+
 **Minister's call-in powers**
 
 ### 68 Minister's power to call in applications with significant effects
 (1) The Minister may direct that he or she will decide an application under this Act if the Minister considers that the decision on the application will have—
   (a) significant cultural, economic, environmental, ethical, health, international, or spiritual effects; or
   (b) significant effects in an area in which the Authority lacks sufficient knowledge or experience.
+(1A) However, a direction under this section applies to an application that relates to any hazardous substances only if the application is one referred to in section 53.
 (2) The direction shall include the Minister's reasons for giving it.
 (2A) Sections 114 and 115 of the Crown Entities Act 2004 do not apply to a direction under subsection (1).
 (2B) This section applies despite section 113 of the Crown Entities Act 2004.
@@ -1448,17 +1494,19 @@ Where the Minister directs that the Minister will decide any application in acco
 ### 73G Expiry
 [Repealed]
 
-## Part 6 — Controls
+## Part 6 — EPA controls
 
 **Hazard classification system**
 
 ### 74 Establishment of hazard classification system
-Subject to section 141, the Governor-General may, from time to time, by Order in Council make regulations establishing a hazard classification system by—
-  (a) prescribing for each intrinsic hazardous substance property a number of degrees or types of hazard:
-  (b) prescribing, for each intrinsic hazardous substance property, a degree of hazard below which any substance is not considered hazardous.
+The Authority may from time to time, in accordance with section 76C, issue an EPA notice establishing a hazard classification system by—
+  (a) prescribing, for each intrinsic hazardous substance property, a number of degrees or types of hazard, which may be done by reference to an international system or by incorporation of material under section 141A:
+  (b) prescribing, for each intrinsic hazardous substance property, a degree of hazard below which any substance is not considered hazardous, which may be done by reference to an international system or by incorporation of material under section 141A:
+  (c) prescribing, for gases under pressure, a physical state when packaged:
+  (d) prescribing substances as substances that are not hazardous for the purpose of this Act.
 
-### 75 Regulations prescribing hazard classification control
-(1) Subject to section 141, the Governor-General may, from time to time, by Order in Council make regulations prescribing controls for each hazard classification for the following purposes:
+### 75 Authority may prescribe hazardous property controls
+(1) The Authority may from time to time, in accordance with section 76C, issue an EPA notice prescribing any EPA controls for each hazard classification for the following purposes:
   (a) for substances with explosive properties:
     (i) to reduce the likelihood of an unintended explosion:
     (ii) to control the adverse effects likely to be caused by an explosion:
@@ -1474,30 +1522,34 @@ Subject to section 141, the Governor-General may, from time to time, by Order in
   (e) for substances with toxic properties:
     (i) to reduce the likelihood of any unintended exposure to any such substances:
     (ii) to control the adverse effects of any exposure to such substances:
-  (f) for substances with ecotoxic properties:
+  (f) for substances with ecotoxic properties—
     (i) to reduce the likelihood of unintended exposure to any such substance:
-    (ii) to control the adverse effects of any exposure to such substances:
-  (g) prescribing substances as substances which are not hazardous for the purpose of this Act.
-(2) Any regulations made under this section may require any specified person to obtain a test certificate at any specified time certifying that any prescribed requirement has been met.
-(3) Any regulations made under subsection (1)﻿(e) or (f) may—
+    (ii) to control the adverse effects of any exposure to such substances.
+  (g)
+(2)
+(3) Any notice made under subsection (1)﻿(e) or (f) may—
   (a) set, or provide for the setting of, exposure limits within a range of values, or according to a methodology:
   (b) set, or provide for the setting of, exposure limits by adopting international values or international methodologies.
 
-### 76 Requirements for containers, identification, disposal, emergencies, tracking, and fireworks
-(1) Subject to section 141, the Governor-General may from time to time, by Order in Council, make regulations prescribing controls in respect of any hazard classifications for the following purposes:
-  (a) prescribing requirements for packages or containers for hazardous substances:
-  (b) prescribing requirements for specifying the identification, labelling, or advertising of hazardous substances:
-  (c) prescribing requirements for disposal of hazardous substances:
-  (d) prescribing requirements to manage any emergency involving a hazardous substance:
-  (e) prescribing systems for tracking hazardous substances which may include requirements that—
-    (i) the whereabouts of the substance be recorded at all times or from time to time:
-    (ii) the quantity of the substance be recorded:
-    (iii) a person be identified as being in charge of the substance:
-    (iv) any person handling the substance holds prescribed qualifications:
-  (f) prescribing qualifications, including requirements that a person be a member of any specified professional body or organisation, for any person handling a hazardous substance.
-(2) Any requirements prescribed in accordance with paragraph (a) or paragraph (b) or paragraph (c) of subsection (1) shall comply with any relevant requirements prescribed by regulations made under section 75.
-(3) Any regulations made under this section may require any person to obtain a test certificate at any specified time certifying that any specified requirement has been met.
-(4) Despite section 18(1) of the Building Act 2004, regulations may be made prescribing requirements for stationary containers that require a person to achieve performance criteria that are additional to or more restrictive in relation to any building work than the performance criteria specified in the building code as defined in section 7 of the Building Act 2004.
+### 76 Authority may prescribe controls and requirements relating to hazardous substances
+(1) The Authority may, from time to time, in accordance with section 76C, issue an EPA notice prescribing EPA controls that do 1 or more of the following:
+  (a) prescribe requirements for packages or containers for hazardous substances:
+  (b) prescribe requirements for the identification, labelling, and advertising of hazardous substances, and requirements for safety data sheets:
+  (c) prescribe requirements for disposal of hazardous substances:
+  (d) prescribe qualifications and other requirements that persons must hold or meet in order to obtain or handle—
+    (i) hazardous substances other than in a workplace:
+    (ii) hazardous substances with ecotoxic properties:
+  (e) prescribe requirements for content controls:
+  (f) prescribe EPA controls on any gases under pressure, whether or not the properties of any gas that is under pressure are intrinsically hazardous:
+  (g) prescribe EPA controls for any hazardous substance to avoid or mitigate any adverse effects on the physical or chemical nature of the environment:
+  (h) prescribe EPA controls to avoid or mitigate illness or injury to people or damage to the environment or chattels from any hazardous substance:
+  (i) prescribe EPA controls for by-products with hazardous properties, which result from the manufacture or use of any substance:
+  (j) prescribe technical restrictions and prohibitions on the sale of specified fireworks.
+(2) Gases under pressure that are subject to EPA controls under subsection (1)﻿(f) must be treated as hazardous substances for the purposes of Part 7, regardless of their properties.
+(3) EPA controls may be prescribed under subsection (1)﻿(i) only if the Authority is satisfied that the controls on any by-product with hazardous properties under this Act or any other Act are not sufficient to achieve the purposes of this Act.
+(4) The Authority may, in any EPA notice,—
+  (a) prescribe EPA controls for any specified hazardous substance or hazardous substances of a specified class:
+  (b) prescribe or provide for EPA controls by reference to controls prescribed under any other Act.
 
 ### 76A Authority may prescribe other matters relating to hazardous substances
 The Authority may, in accordance with section 76C, issue an EPA notice that does 1 or more of the following:
@@ -1545,12 +1597,12 @@ The Authority may, in accordance with section 76C, issue an EPA notice that does
 ### 76D Application of Legislation Act 2012 to EPA notices
 An EPA notice is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
-### 77 Controls on hazardous substances
-(1) Where the Authority has approved the importation or manufacture of any substance under section 28A or section 29, the Authority shall give that substance 1 or more hazard classifications in accordance with the intrinsic properties of that substance and the degree of hazard of that substance.
-(2) The controls prescribed for each hazard classification shall attach to the substance, but may be varied,—
-  (a) from time to time by amendments to the regulations prescribing controls for the relevant hazard classification:
-  (b) at the time the substance is approved, in accordance with subsections (3), (4) and (5).
-(2A) If regulations referred to in subsection (2)﻿(a) are made, then, unless the Authority otherwise determines, the regulations do not affect any variations made by the Authority under subsections (3) to (5) before the commencement of the regulations.
+### 77 EPA controls on hazardous substances
+(1) Where the Authority has approved the importation or manufacture of any substance under section 28A or section 29, the Authority shall give that substance 1 or more hazard classifications in accordance with the intrinsic properties of that substance and the degree or type of hazard of that substance, if applicable.
+(2) The controls prescribed by any regulations, and the EPA controls prescribed by any EPA notice, for each hazard classification attach to the substance, but may be varied,—
+  (a) from time to time, by amendments to the regulations or notice prescribing the controls for the relevant hazard classification:
+  (b) at the time the substance is approved, in accordance with subsections (3), (4), and (5).
+(2A) Nothing in any regulations or EPA notice referred to in subsection (2)﻿(a) affects any variations made by the Authority under subsections (3) to (5) before the commencement of the regulations or notice, unless the Authority determines otherwise.
 (3) The Authority may substitute or add any controls prescribed for any classification,—
   (a) where the adverse effects identified for a substance are greater than the adverse effects which would usually be associated with substances given that hazard classification; or
   (b) where another substance with similar or improved beneficial effects and reduced adverse effects has become available and the availability of the substance should be restricted by the imposition of additional controls; or
@@ -1560,25 +1612,27 @@ An EPA notice is a disallowable instrument, but not a legislative instrument, fo
   (b) where the benefits of any substance are such that the controls should be varied to retain the benefits and the variation would, in the opinion of the Authority, not significantly increase the adverse effect.
 (5) Where any substance is given 2 or more hazard classifications, the Authority shall combine the prescribed controls and impose such of those controls as will control all of the adverse effects identified for the substance.
 (6) Where any controls are varied or deleted in accordance with subsection (3) or subsection (4), the Authority shall ensure that the controls remain consistent over the whole life cycle of the substance concerned.
-(7) Any restrictions and prohibitions on the sale of fireworks prescribed under section 140(1)﻿(r) shall be in addition to any controls placed on fireworks under this section to control their explosive properties.
+(7) Any restrictions and prohibitions on the sale of fireworks prescribed under section 76(1)﻿(j) or 140(1)﻿(r) or (s) are in addition to any EPA controls placed on fireworks under this section to control their explosive properties.
 (8) The powers under sections 77A and 77B are in addition to the powers conferred by this section.
 
-### 77A Authority's power to impose controls and vary specified controls
-(1) The Authority may, at the time it approves a substance for any purpose under this Act, impose as controls under this section any obligations and restrictions that the Authority thinks fit.
-(2) Without limiting anything in subsection (1), the Authority may,—
-  (a) in approving a substance, specify as a control under this section an obligation to obtain a permission under section 95A for general or particular use of the substance:
-  (b) in approving a substance, specify as a control under this section an obligation to obtain a licence under section 95B for possession of the substance.
-(3) Obligations and restrictions imposed under this section are controls for the purposes of this Act, and such controls may—
+### 77A Authority's power to impose EPA controls and vary specified controls
+(1) The Authority may, at the time it approves a substance for any purpose under this Act, impose as controls under this section any obligations and restrictions that the Authority thinks fit for the purpose of setting EPA controls.
+(2) Without limiting anything in subsection (1), the Authority may, in approving a substance, specify as an EPA control under this section—
+  (a) an obligation to obtain a permission under section 95A for general or particular use of the substance; or
+  (b) a restriction on the use of a substance.
+(3) Obligations and restrictions imposed under this section are EPA controls for the purposes of this Act, and such controls may—
   (a) be additional to other specified controls; or
   (b) vary other specified controls; or
   (c) be in substitution for other specified controls; or
   (d) combine other specified controls; or
   (e) delete other specified controls.
-(4) Before imposing a control under this section, the Authority must be satisfied that, against any other specified controls that apply to the substance,—
-  (a) the proposed control is more effective in terms of its effect on the management, use, and risks of the substance; or
-  (b) the proposed control is more cost-effective in terms of its effect on the management, use, and risks of the substance; or
-  (c) the proposed control is more likely to achieve its purpose.
-(5) In this section, other specified controls means controls imposed by or under any other section of this Act, and includes controls imposed by regulations made under this Act.
+(4) Before imposing a control under this section, the Authority must be satisfied that, either—
+  (a) against any other specified controls that apply to the substance,—
+    (i) the proposed control is more effective in terms of its effect on the management, use, and risks of the substance; or
+    (ii) the proposed control is more cost-effective in terms of its effect on the management, use, and risks of the substance; or
+    (iii) the proposed control is more likely to achieve its purpose; or
+  (b) in the case of a control that is a restriction on the use of a hazardous substance, the positive effects of the substance when restricted to that use outweigh the adverse effects.
+(5) In this section, other specified controls means controls imposed by or under any other section of this Act, and includes controls imposed by regulations made under this Act or EPA controls made under an EPA notice.
 
 ### 77B Exposure limits for substances with toxic or ecotoxic properties
 (1) Despite anything to the contrary in this Act, the Authority may, at the time, or at any time after, it approves a substance with toxic or ecotoxic properties for any purpose under this Act,—
@@ -1587,12 +1641,12 @@ An EPA notice is a disallowable instrument, but not a legislative instrument, fo
 (2) Exposure limits set under subsection (1) may comprise 1 or more of the following:
   (a) environmental exposure limits:
   (b) tolerable exposure limits:
-  (c) workplace exposure standards.
+  (c)
 (3) Without limiting anything in subsection (1), the Authority may—
   (a) provide that all or any of the exposure limits set by it are for guidance only:
   (b) set, or provide for the setting of, exposure limits within a range of values or according to a methodology:
   (c) set, or provide for the setting of, exposure limits by adopting international values or international methodologies.
-(4) Exposure limits imposed under this section are controls for the purposes of this Act, and such exposure limits may—
+(4) Exposure limits imposed under this section are EPA controls for the purposes of this Act, and such exposure limits may—
   (a) be additional to other specified exposure limits; or
   (b) vary other specified exposure limits; or
   (c) substitute other specified exposure limits; or
@@ -1608,19 +1662,18 @@ An EPA notice is a disallowable instrument, but not a legislative instrument, fo
   (d) give those people a reasonable opportunity to make submissions and comments to the Authority on the proposed exposure limit; and
   (e) consider all submissions and comments received.
 (6) In this section,—
-  - **environmental exposure limit** means the limit on the concentration of a substance (or any element or compound making up the substance) with ecotoxic properties in an environmental medium as set in accordance with this section or regulations made under section 75
-  - **tolerable exposure limit** means the limit on the concentration of a substance (or any element or compound making up the substance) with toxic properties in an environmental medium as set in accordance with this section or regulations made under section 75
-  - **workplace exposure standard** means the limit on the concentration of a substance (or any element or compound making up the substance) with toxic properties in air set in accordance with this section or regulations made under section 75 for the purpose of protecting persons in a workplace from the adverse effects of toxic substances.
+  - **environmental exposure limit** means the limit on the concentration of a substance (or any element or compound making up the substance) with ecotoxic properties in an environmental medium as set in accordance with this section or EPA notices
+  - **tolerable exposure limit** means the limit on the concentration of a substance (or any element or compound making up the substance) with toxic properties in an environmental medium as set in accordance with this section or EPA notices
 
 ### 78 Codes of practice
-(1) The Authority may from time to time issue, amend, approve, or revoke any code of practice for hazardous substances for the purpose of implementing any requirement included in controls or in regulations in force under this Act.
+(1) The Authority may from time to time issue, amend, approve, or revoke any code of practice for hazardous substances for the purpose of implementing any requirement included in EPA controls or in regulations or an EPA notice in force under this Act.
 (2) Every code of practice, and every amendment or revocation of a code of practice for hazardous substances, shall show the date on which it was issued.
 (3) The Authority may issue, as a code of practice for hazardous substances, any code of practice approved under any other Act.
 (4) The Authority may approve, as a code of practice for hazardous substances, any document prepared by any other person if that document is considered by the Authority as a suitable document for use as a code of practice for hazardous substances.
 (5) A code of practice issued or approved under this Act that is also a code of practice approved under any other Act or a document prepared by another person, consists of the contents of that code or document as that code or document existed on the date that it was approved or issued as a code of practice under this Act.
-(6) The Authority shall not—without the written consent of the relevant Minister or the Building Industry Authority.
-  (a) adopt with modification any documents previously approved by a Minister of the Crown (or by the Building Industry Authority established by section 10(1) of the Building Act 1991); or
-  (b) approve any amendment of any part of a code of practice that comprises a document approved by a Minister of the Crown (or by the Building Industry Authority) and later adopted by the Authority—
+(6) The Authority must not, without the written consent of the relevant Minister,—
+  (a) adopt with modification any documents previously approved by a Minister of the Crown; or
+  (b) approve any amendment of any part of a code of practice that comprises a document approved by a Minister of the Crown and later adopted by the Authority.
 
 ### 79 Codes may be approved by Authority
 (1) A code of practice for hazardous substances, an amendment to such a code, and a revocation of such a code, shall not have any force or effect until it has been approved by the Authority.
@@ -1645,80 +1698,30 @@ Without affecting any other method of proof, the production in any proceedings o
 
 **Test certifiers**
 
-### 82 Issue of test certificates by test certifiers
-(1) Where—require any person to obtain a test certificate, that person shall obtain the test certificate from a test certifier who has been approved to issue such a test certificate in accordance with sections 83 and 84.
-  (a) any regulations made under this Act; or
-  (aa) any approval granted by the Authority under this Act; or
-  (b) any requirements imposed in accordance with Schedule 3,—
-(2) A test certifier may, if he or she is authorised to issue a test certificate for any prescribed requirement and is satisfied on reasonable grounds that the prescribed requirement has been met, issue a test certificate.
-(3) A test certifier shall not issue any test certificate in respect of any matter if the test certifier is or has been responsible for, or has a financial interest in, the design, planning, or construction of anything relating to the matter.
-(4) Where any test certifier considers, on reasonable grounds that any matter does not comply with the relevant requirement, he or she shall, unless a conditional test certificate is issued under subsection (4A),—
-  (a) refuse to issue a test certificate; and
-  (b) notify the applicant, in writing, with reasons, of the refusal; and
-  (c) notify the appropriate enforcement agency unless the test certifier is satisfied that any potential adverse effect from failure to comply with the relevant requirements has been satisfactorily avoided.
-(4A) A test certifier may issue a conditional test certificate for a hazardous substance location if he or she considers, on reasonable grounds, that the failure to meet the relevant requirements for the hazardous substance location is minor and technical in nature.
-(4B) A conditional test certificate must—
-  (a) specify the requirements that have not been met; and
-  (b) specify the date by which the requirements must be met; and
-  (c) state that the certificate expires on the close of the day specified under paragraph (b) if the requirements have not been met by then.
-(4C) A conditional test certificate expires on the close of the day specified under subsection (4B)﻿(b) if the requirements specified under subsection (4B)﻿(a) have not been met by then.
-(4D) In all other respects, a conditional test certificate is a test certificate for the purposes of this Act.
-(4E) In subsection (4A), hazardous substance location has the same meaning as in regulation 3 of the Hazardous Substances (Classes 1 to 5 Controls) Regulations 2001.
-(5) A test certifier must, as soon as practicable after issuing a test certificate under this section, forward a copy of that test certificate to the Authority.
+### 82 Certificates
+Regulations made under this Act, EPA notices, approvals granted by the Authority, and requirements imposed in accordance with Part 3 of Schedule 3 may require a person to obtain a certificate—
+  (a) from a certifier authorised under section 211(1)﻿(k) of the Health and Safety at Work Act 2015 that certifies that any specified requirement has been met; or
+  (b) from the Authority under this Act that certifies that any specified requirement has been met; or
+  (c) under any other relevant enactment that certifies that any specified requirement has been met.
 
 ### 82A Register of test certificates
-(1) The Authority must keep and maintain a register of test certificates issued by test certifiers under section 82.
-(2) The purpose of the register is to facilitate compliance with, and enforcement of,—
-  (a) this Act, the Agricultural Compounds and Veterinary Medicines Act 1997, the Health and Safety in Employment Act 1992, and the Resource Management Act 1991; and
-  (b) any regulations or notices in force under those Acts.
-(3) The register must specify—
-  (a) the date on which each test certificate was issued, and the expiry date or (if applicable) the date of the revocation of the test certificate; and
-  (b) the name of the test certifier who issued the certificate; and
-  (c) the matter for which each test certificate has been issued; and
-  (d) details of the prescribed requirements for which each test certificate was issued; and
-  (e) in the case of a test certificate issued in respect of a place, the street address of the place; and
-  (f) in the case of a test certificate issued in respect of a person,—
-    (i) the name of the person; and
-    (ii) the name and address of the person's place of work; and
-  (g) in the case of a conditional test certificate issued for a hazardous substance location,—
-    (i) details of the hazardous substance location; and
-    (ii) the relevant requirements for the hazardous substance location that have not been met; and
-    (iii) the date by which the requirements must be met.
-(4) A search of the register may be carried out by the Authority, and by the following persons for the following purposes:
-  (a) an individual, or a person with the written consent of the individual, for the purpose of searching for information about that individual in accordance with the Privacy Act 1993:
-  (b) a test certifier for the purpose of searching for information that the test certifier has provided under section 82(5):
-  (c) an approved person for a purpose that—
-    (i) relates to the purpose of the register; or
-    (ii) is necessary to prevent or lessen a serious and imminent threat to public health, public safety, or the life or health of any person; or
-    (iii) is necessary to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences); or
-    (iv) has been authorised by the Privacy Commissioner under section 54(1) of the Privacy Act 1993; or
-    (v) is necessary to plan for responses to any emergency (as defined in section 46).
-(5) In this section, approved person means—
-  (a) the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Agricultural Compounds and Veterinary Medicines Act 1997:
-  (b) a person specified in section 97:
-  (ba) the board of Fire and Emergency New Zealand:
-  (c) an enforcement officer.
+[Repealed]
 
 ### 82B Delegation by approved person
-(1) An approved person described in section 82A(5)﻿(a), (b), or (ba) may, in writing, delegate to any person the approved person's power to search the register in accordance with section 82A(4).
-(2) The approved person may delegate the power to search the register on such terms and conditions as the approved person thinks fit.
-(3) Every decision made in accordance with a delegation under subsection (1) must be treated in all respects as though it were a decision of the approved person.
-(4) Every person purporting to act under a delegation under this section is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
-(5) A delegation under this section is revocable at will and does not prevent the exercise of the power to search the register by the approved person.
-(6) Every delegation under subsection (1) must be available for public inspection at the office of the relevant approved person during ordinary office hours.
+[Repealed]
 
-### 82C Revocation of test certificates
-(1) The Authority may, at any time and by notice in writing to the person to whom the test certificate was issued (the certificate holder), revoke a test certificate if the Authority is satisfied that the certificate holder—
-  (a) obtained the test certificate by fraud, misrepresentation, or concealment of facts; or
+### 82C Revocation of certificates
+(1) The Authority may, at any time and by notice in writing to the person to whom the certificate was issued (the certificate holder), revoke a certificate if the Authority is satisfied that the certificate holder—
+  (a) obtained the certificate by fraud, misrepresentation, or concealment of facts; or
   (b) has been negligent as a certificate holder; or
   (c) is incompetent to act as a certificate holder; or
-  (d) has not met, or continued to meet, any requirement for which the test certificate was issued.
-(2) The Authority may not revoke a test certificate under subsection (1) unless the Authority—
-  (a) has notified the certificate holder in writing of its intention to investigate whether to revoke the test certificate; and
+  (d) has not met, or continued to meet, any requirement for which the certificate was issued.
+(2) The Authority may not revoke a certificate under subsection (1) unless the Authority—
+  (a) has notified the certificate holder in writing of its intention to investigate whether to revoke the certificate; and
   (b) has given the certificate holder reasons in writing for the Authority's investigation; and
   (c) has given the certificate holder a reasonable opportunity to make submissions to the Authority in respect of the investigation; and
   (d) has considered all submissions and any other information received; and
-  (e) is, as a result of the investigation, satisfied that there are grounds for revoking the test certificate under subsection (1).
+  (e) is, as a result of the investigation, satisfied that there are grounds for revoking the certificate under subsection (1).
 (3) The Authority may seek, receive, or take into account any other information or evidence that the Authority considers relevant for the purposes of this section.
 (4) If the Authority proposes to take into account any information that is or may be prejudicial to the certificate holder, the Authority must, subject to subsection (5), disclose that information to the certificate holder and give him or her a reasonable opportunity to refute or comment on the information.
 (5) The Authority is not required to disclose any information under subsection (4) that would be likely to endanger the safety of any person.
@@ -1732,53 +1735,20 @@ Without affecting any other method of proof, the production in any proceedings o
 (7) On completion of the Authority's investigation, the Authority must notify the certificate holder in writing of—
   (a) the Authority's decision; and
   (b) the certificate holder's right of appeal against that decision.
-(8) A test certificate that is revoked under this section is deemed to have expired on the date on which the test certificate was revoked.
+(8) A certificate that is revoked under this section is deemed to have expired on the date on which the certificate was revoked.
 (9)
 
 ### 83 Applications for approval as test certifier
-(1) Any person may apply to the Authority for approval as a test certifier.
-(2) Every application shall be in the form specified or provided by the Authority and shall specify the requirements in respect of which the applicant wishes to be approved as a test certifier.
-(3) Except as provided by subsection (4), each application shall include—
-  (a) information that will enable the Authority to decide whether or not the applicant has appropriate qualifications, sufficient knowledge of the relevant requirement, and appropriate equipment to test for the relevant requirements, and, if so,—
-    (i) the specific requirements in respect of which the applicant should be approved; and
-    (ii) any limitations which should be placed on the approval:
-  (b) where required by the Authority, evidence that a scheme of insurance, approved by the Authority, will apply in respect of any insurable civil liability of the applicant that might arise out of the issuing by the applicant of a test certificate under this Act or any regulations.
-(4) In the case of an applicant who is or has been a test certifier and who is applying for continuation or renewal of approval in respect of the same requirements, the application need not be accompanied by the documentation required by subsection (3)﻿(a), but instead shall be accompanied by—
-  (a) a list of any additional qualifications that the applicant has acquired since that person's previous application; and
-  (b) a request for any changes to any limitations imposed on the previous approval, with reasons for the request; and
-  (c) in the case of an application for renewal, reasons why the approval lapsed.
+[Repealed]
 
 ### 84 Processing applications for approval as test certifier
-(1) The Authority may require the applicant for approval as a test certifier to provide further information in support of the application.
-(2) If the applicant is unable to comply with any requirement of the Authority under subsection (1), the applicant shall inform the Authority of the reasons why the applicant is unable to comply.
-(3) The application shall be considered by the Authority within 20 working days of receipt of all information required under subsection (1) or notification by the applicant under subsection (2) that he or she is unable to comply with a request for further information.
-(4) The Authority shall notify the applicant not less than 10 days before any meeting at which it is intended to consider the application. The applicant may, and if the Authority so requires, the applicant shall appear and be heard at that meeting of the Authority.
-(5) After considering an application for approval as a test certifier the Authority shall grant the approval if it is satisfied—
-  (a) that the applicant has—
-    (i) the prescribed qualifications; and
-    (ii) sufficient knowledge of the relevant requirements; and
-    (iii) complied with any other prescribed conditions; and
-  (b) where required by the Authority, that a scheme of insurance approved by the Authority will apply in respect of any insurable civil liability of the applicant that might arise out of the issuing by the applicant of a test certificate under this Act or any regulations, except in respect of a test certificate issued by a territorial authority.
-(6) If the Authority declines an application it shall notify the applicant in writing specifying the reasons.
-(7) An approval expires on the earlier of the following dates:
-  (a) 5 years after the date on which it is given:
-  (b) the date of expiry (if any) specified by the Authority in the approval.
+[Repealed]
 
 ### 85 Register of test certifiers
-(1) The Authority shall establish and maintain a register of test certifiers.
-(2) Whenever the Authority approves a person as a test certifier, it shall enter on the register—
-  (a) the date of approval; and
-  (b) the name and address of the person approved; and
-  (c) the specific requirements in respect of, or in connection with which, the person may issue test certificates; and
-  (d) any limitation on the matters in respect of which the person may issue test certificates; and
-  (e) the date of expiry of the approval; and
-  (f) such other matters relating to the approval as the Authority directs.
-(3) A test certificate purporting to be under the hand of a person duly authorised by the Authority to issue such a certificate shall, in the absence of proof to the contrary, and without proof of the signature appended to the certificate, be sufficient evidence of the matters specified in the certificate.
-(4) Every person shall have the right to inspect the register during the ordinary office hours of the Authority.
+[Repealed]
 
 ### 86 Complaints to Authority
-(1) If the Authority receives any complaint about, or has cause to query the conduct or ability of, a test certifier, the Authority may investigate the complaint or query and, if it considers the complaint or query to be justified, may amend or cancel the approval.
-(2) The Authority may, if it thinks fit, after the receipt of any complaint or query, suspend all or any part of the approval given under section 84 until the investigation under subsection (1) is complete.
+[Repealed]
 
 **Transferable permits**
 
@@ -1798,11 +1768,11 @@ Without affecting any other method of proof, the production in any proceedings o
 The Authority may recommend to the Minister that a transferable permit scheme be established, amended, or revoked for any hazardous substances or group of hazardous substances, in accordance with section 87, where the Authority is satisfied—
   (a) that a reduction in the likely occurrence of adverse effects similar to that achieved by the controls attached to any substance in accordance with sections 77, 77A, and 77B could be achieved by—
     (i) any transferable permit scheme; or
-    (ii) any combination of a transferable permit scheme and controls prescribed in accordance with sections 75 and 76; and
+    (ii) any combination of a transferable permit scheme and EPA controls prescribed in accordance with sections 75 and 76; and
   (b) that such a scheme will be cost effective to implement, having regard to the costs associated with the transferable permit scheme, including the costs of monitoring and the costs of alternative methods of controls, and the benefits provided from the ability to transfer permits.
 
 ### 89 Transferable permit scheme and variation of controls
-(1) Where any transferable permit scheme is established for any hazardous substance in accordance with section 87, the Authority may substitute or delete any controls attached to that substance if the combination of controls and transferable permit scheme reduce the likely adverse effects of that substance to a level similar to that achieved by the controls attached to that substance in accordance with sections 77, 77A, and 77B.
+(1) Where any transferable permit scheme is established for any hazardous substance in accordance with section 87, the Authority may substitute or delete any EPA controls attached to that substance if the combination of controls and transferable permit scheme reduce the likely adverse effects of that substance to a level similar to that achieved by the controls attached to that substance in accordance with sections 77, 77A, and 77B.
 (2) Any substitution or deletion of controls on any substance in accordance with subsection (1) shall remain in force so long as the transferable permit scheme in place at the time of the substitution or deletion of controls remains the same.
 
 ### 90 Transfer of permits
@@ -1815,7 +1785,7 @@ Every transferable permit shall specify—
   (a) the substance in respect of which it is issued; and
   (b) the dates of issue and expiry of the permit; and
   (c) the amount of the substance which the permit holder is permitted to import or manufacture under the permit; and
-  (d) any other controls on the importation or manufacture of substances as the Authority thinks fit.
+  (d) any other EPA controls on the importation or manufacture of substances as the Authority thinks fit.
 
 ### 92 Modification of permits
 The Authority may modify any permit to correct any clerical error or omission.
@@ -1836,7 +1806,7 @@ Where a transferable permit scheme exists for a substance,—
   (a) no person shall manufacture or import that hazardous substance unless any relevant transferable permit has been obtained for the amount of substance being manufactured or imported; and
   (b) any Customs officer may permit the importation of any hazardous substance upon production by the importer of a relevant transferable permit for the amount of substance being imported.
 
-**Permissions and licences**
+**Permissions**
 
 ### 95A Permissions
 (1) This section applies if the Authority approves a substance subject to an obligation referred to in section 77A(2)﻿(a) (namely that, before using the substance, a person must obtain a prior permission under this section for the general or particular use of the substance).
@@ -1852,37 +1822,22 @@ Where a transferable permit scheme exists for a substance,—
   (b) revoke a permission granted to the holder under this section.
 
 ### 95B Licences
-(1) This section applies if the Authority approves a substance subject to an obligation referred to in section 77A(2)﻿(b) (namely, that a person must obtain a licence under this section before possessing the substance).
-(2) An application for a licence under this section must—
-  (a) be made in a form prescribed by regulations referred to in subsection (4) or (in the absence of such regulations) in a form determined by the Authority; and
-  (b) be accompanied by the appropriate charge (if any) fixed under section 21.
-(3) The Authority—
-  (a) must grant a licence under this section if satisfied that the applicant—
-    (i) is a fit and proper person to possess the substance concerned; and
-    (ii) meets the relevant test certification requirements that apply to the substance under section 82; and
-  (b) may make the licence subject to any conditions it may specify in the licence.
-(4) Regulations made under section 76 or section 140, or both, may (without limitation)—
-  (a) specify the criteria the Authority must consider in determining whether the applicant is a fit and proper person:
-  (b) specify any other matters that the Authority may consider in determining whether to grant a licence under this section:
-  (c) prescribe the form of an application for a licence under this section:
-  (d) provide for the variation of licences under this section and provide for their revocation:
-  (e) provide for any other matters necessary for the administration of licences under this section.
-(5) The holder of a licence granted under this section is authorised to possess the substance specified in the licence in accordance with the approval of the substance and the holder's licence.
+[Repealed]
 
 **Environmental user charges**
 
 ### 96 Report on environmental user charges
-(1) Where the Authority considers that a reduction in the likely occurrence of adverse effects similar to that achieved by the controls attached to any substance in accordance with sections 77, 77A, and 77B could be achieved by—the Authority may report to the Minister on such a charge or any combination of such controls and an environmental user charge.
+(1) Where the Authority considers that a reduction in the likely occurrence of adverse effects similar to that achieved by the EPA controls attached to any substance in accordance with sections 77, 77A, and 77B could be achieved by—the Authority may report to the Minister on such a charge or any combination of such controls and an environmental user charge.
   (a) any environmental user charge; or
-  (b) any combination of an environmental user charge and controls prescribed in accordance with section 75 or section 76,—
+  (b) any combination of an environmental user charge and EPA controls prescribed in accordance with section 75 or section 76,—
 (2) Before preparing any report in accordance with subsection (1), the Authority shall satisfy itself that any environmental user charge would be cost effective to implement having regard to the costs associated with the environmental user charge, including the costs of monitoring and the costs of alternative methods of control.
 (3) Any report to the Minister made in accordance with subsection (1) may include any other matters relevant to any environmental user charge, including a report on—
   (a) the time of commencement of any environmental user charge; and
   (b) the duration of any environmental user charge; and
   (c) any matters relevant to the implementation of environmental user charges; and
   (d) use of the revenue from environmental user charges; and
-  (e) any procedure for adjusting or removing any controls already imposed upon a substance at the time of imposition of the environmental user charge; and
-  (f) any procedure for adjusting or removing any combination of controls and environmental user charge or an environmental user charge, after a reassessment of the substance under section 62.
+  (e) any procedure for adjusting or removing any EPA controls already imposed upon a substance at the time of imposition of the environmental user charge; and
+  (f) any procedure for adjusting or removing any combination of EPA controls and environmental user charge or an environmental user charge, after a reassessment of the substance under section 62.
 
 ## Part 6A — Group standards
 
@@ -1892,7 +1847,7 @@ The purpose of this Part is to enable the Authority to issue, amend, and revoke 
 ### 96B Group standards
 (1) The Authority may, by notice in the Gazette, issue group standards that—
   (a) identify the group of hazardous substances or products (described in subsection (2)) concerned; and
-  (b) impose as conditions under this section any obligations and restrictions that the Authority thinks fit on the identified group of hazardous substances or products.
+  (b) impose as conditions that apply to the identified group of hazardous substances or products any obligations and restrictions that the Authority thinks fit for the purpose of setting EPA controls.
 (2) A group standard may apply to 1 or more of the following hazardous substances or products:
   (a) a hazardous substance to which Part 5 applies:
   (b) a hazardous substance to which Parts 11 to 15 apply:
@@ -1946,11 +1901,12 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 
 ### 97 Enforcement of Act
 (1) The following persons shall ensure the provisions of this Act (including any controls imposed on approvals granted under this Act) are enforced in the following situations:
-  (a) WorkSafe must ensure that the provisions of this Act are enforced in any place of work:
+  (a) WorkSafe must ensure that the provisions of this Act in respect of disposal and ecotoxic controls, and equivalent conditions in group standards issued under section 96B that relate to hazardous substances, are enforced in any workplace:
   (b) WorkSafe must ensure that the provisions of this Act are enforced in, on, at, or around any distribution system, gas installation, or gas appliance:
   (c) the New Zealand Transport Agency may enforce the provisions of this Act in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
   (d) the Commissioner of Police (after consultation with the New Zealand Transport Agency) shall ensure that the provisions of this Act are enforced in or on any motor vehicle, on any road, in or on any rail vehicle, or on any railway line:
-  (e) the Director of the Civil Aviation Authority shall ensure that the provisions of this Act are enforced in or on any aircraft:
+  (da) in relation to the retail sale of fireworks, the Commissioner of Police must ensure that any restrictions and prohibitions imposed under this Act are enforced:
+  (e) the Director of the Civil Aviation Authority shall ensure that the provisions of this Act are enforced in or on any aircraft and that the provisions of this Act relating to the discharge of hazardous substances from an aircraft are enforced:
   (f) the Director of Maritime New Zealand shall ensure that the provisions of this Act are enforced in or on any ship:
   (g) the chief executive of the Ministry of Health shall ensure that the provisions of this Act are enforced where it is necessary to protect public health:
   (h) the chief executive of any territorial authority—
@@ -1961,6 +1917,12 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 (2) The chief executive of a regional council may—
   (a) enforce the provisions of this Act in or on those premises specified in subsection (1)﻿(a) to (g) if the regional council is in or on those premises for the purposes of enforcing the provisions of the Resource Management Act 1991:
   (b) enforce the provisions of this Act in or on those premises specified in subsection (1)﻿(a) to (g) if the function, power, or duty is transferred to the regional council in accordance with section 98.
+(3) The Authority must ensure that the following matters are enforced:
+  (a) provisions of this Act in respect of classification controls and content controls, and equivalent conditions in group standards issued under section 96B that relate to hazardous substances:
+  (b) the requirement for a hazardous substance to have an approval before being imported or manufactured:
+  (c) prohibitions relating to persistent organic pollutants and hazardous substances prohibited by regulations:
+  (d) requirements imposed under any EPA notice made under section 76A.
+(4) The Authority must ensure the provisions of this Act in respect of any regulations, EPA controls, and equivalent conditions in group standards issued under section 96B that relate to hazardous substances are enforced in any workplace to the extent that responsibility for enforcement is not provided for in subsection (1)﻿(a) to (g).
 
 ### 97A Enforcement of Act in respect of new organisms
 (1) The enforcement agency must ensure that the provisions of this Act are enforced in respect of new organisms.
@@ -1992,14 +1954,23 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
   (b) by using another means for the time being generally or specifically approved in writing by the responsible person.
 (3) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993, and responsible person means, in this section, the person (whether described as the enforcement agency or otherwise) who under sections 97 to 97B of this Act is responsible for enforcement of the requirement.
 
-### 97B Enforcement of Act in respect of hazardous substances in place of work
-(1) The enforcement agency must ensure that the provisions of this Act are enforced in respect of hazardous substances in a place of work.
-(2) For the purpose of complying with subsection (1), the enforcement agency may appoint enforcement officers in accordance with this Act who may exercise the powers of inspectors under the Health and Safety in Employment Act 1992, and the provisions of that Act apply with all necessary modifications.
-(3) In this section,—
-  - **enforcement agency** —
-    (a) means WorkSafe:
-    (b) includes, in relation to a particular industry, sector, or type of work, the chief executive of an agency designated under section 28B(1) of that Act to administer that Act for the particular industry, sector, or type of work
-  - **inspector** and have the same meanings as in section 2(1) of the Health and Safety in Employment Act 1992.
+### 97B Enforcement of Act in respect of hazardous substances in workplace
+An inspector appointed under section 163 of the Health and Safety at Work Act 2015 may also exercise the powers of an enforcement officer under this Act in relation to hazardous substances in any workplace, whether or not the person is appointed as an enforcement officer under this Act.
+
+### 97C Sharing of information between Authority and enforcement agencies
+(1) Subject to any enactment,—
+  (a) the Authority may provide an enforcement agency with any information, or a copy of any document, that it—
+    (i) holds in relation to the performance or exercise of its functions, duties, or powers under or in relation to this Act; and
+    (ii) considers may assist the enforcement agency in the performance or exercise of the enforcement agency's functions, duties, or powers under or in relation to any enactment; and
+  (b) an enforcement agency may provide the Authority with any information, or a copy of any document, that it—
+    (i) holds in relation to the performance or exercise of its functions, duties, or powers under or in relation to any enactment; and
+    (ii) considers may assist the Authority in the performance or exercise of its functions, duties, or powers under or in relation to this Act.
+(2) If subsection (1)﻿(a) or (b) applies, the Authority or enforcement agency (as the case may be) may impose conditions that it thinks fit relating to the provision of the information or document, including conditions relating to—
+  (a) the storage and use of, or access to, anything provided:
+  (b) the copying, returning, or disposing of copies of any documents provided.
+(3) In this section, enforcement agency means the New Zealand Customs Service and any entity referred to in section 97.
+(4) Nothing in this section limits the Privacy Act 1993.
+(5) This section applies despite anything to the contrary in any contract, deed, or document.
 
 ### 98 Co-ordination of inspection
 (1) Any person specified in section 97 or section 97A may,—
@@ -2036,7 +2007,7 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
     (i) any department specified in Schedule 1 of the State Sector Act 1988:
     (ii) any Crown entity:
     (iii) any local authority—
-(4) In this section, hazardous substance includes compressed gases, whether intrinsically hazardous or not.
+(4) In this section, hazardous substance includes gases under pressure, whether intrinsically hazardous or not.
 
 ### 100 Appointment of enforcement officers
 (1) No person shall be appointed as an enforcement officer unless that person has the prescribed qualifications to carry out the powers, functions, and duties specified in the officer's warrant of appointment.
@@ -2055,15 +2026,15 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 (8) In determining whether any appointment under this section should be renewed or whether a new appointment should be made, the Minister shall consider whether the territorial authority is capable of exercising its powers, functions, and duties under this Act, and, if the Minister considers the territorial authority is so capable, the territorial authority shall be directed by the Minister to resume those powers, functions, and duties.
 
 ### 102 Building Act 2004
-(1) Where an enforcement officer believes that any building or sitework does not comply with the Building Act 2004, the enforcement officer shall, by notice in writing, give to the appropriate territorial authority details of the respects in which the building or sitework is believed not to comply.
-(2) For the purposes of this section, the terms building, sitework, and territorial authority have the meanings ascribed to them by the Building Act 2004.
+(1) Where an enforcement officer believes that any building or building work does not comply with the Building Act 2004, the enforcement officer shall, by notice in writing, give to the appropriate territorial authority details of the respects in which the building or building work is believed not to comply.
+(2) For the purposes of this section, the terms building, building work, and territorial authority have the meanings ascribed to them by the Building Act 2004.
 
-### 103 Powers of entry for inspection
+### 103 Powers of entry for inspection relating to new organisms
 (1) Any enforcement officer may, at any reasonable time,—for the purpose of inspection to—
   (a) go on, into, under, and over any premises (excluding dwellings); or
   (b) with the consent of the occupier, go on, into, under, and over a dwelling—
-  (c) monitor compliance with the conditions or controls on any hazardous substance or new organism in any premises where a hazardous substance or new organism approved under this Act is located; or
-  (d) determine the nature of any substance or organism in the premises; or
+  (c) monitor compliance with the conditions or controls on any new organism in any premises where a new organism approved under this Act is located; or
+  (d) determine the nature of any organism in the premises; or
   (e) determine whether or not any person is complying with a compliance order.
 (2) For the purposes of subsection (1), an enforcement officer may—
   (a) take samples of water, air, soil, any substance, or any organism; and
@@ -2087,14 +2058,53 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 (6) An enforcement officer may take any person with relevant experience or expertise on to the premises to assist the officer with the inspection.
 (7) Nothing in this section shall limit or affect the privilege against self-incrimination.
 
+### 103A Powers of entry for inspection relating to hazardous substances
+(1) Any enforcement officer may, at any reasonable time, for the purposes referred to in subsection (2),—
+  (a) go on, into, under, and over any premises (excluding dwellings); or
+  (b) with the consent of the occupier, go on, into, under, and over a dwelling.
+(2) The purposes concerned are to—
+  (a) monitor or enforce compliance with this Act and any conditions, controls, or requirements on any hazardous substance; or
+  (b) determine the nature of any hazardous substance; or
+  (c) determine whether or not any person is complying with a compliance order.
+(3) For the purposes of this section, an enforcement officer may—
+  (a) take samples of water, air, soil, any substance, or any organism; and
+  (b) open containers or packages (including secured or sealed containers or packages) to inspect the contents; and
+  (c) take photographs and measurements and make sketches and recordings; and
+  (d) take or remove any thing for analysis or testing; and
+  (e) conduct examinations, tests, inquiries, demonstrations, and inspections; and
+  (f) require that any place or thing specified by the enforcement officer is not disturbed for a reasonable time pending any examination, test, inquiry, demonstration, or inspection; and
+  (g) require any person in charge of relevant premises to—
+    (i) make statements, in any form or manner specified by the enforcement officer, about conditions, material, or equipment relevant to the purpose of the inspection; or
+    (ii) produce information relevant to the purpose of the inspection, and take copies of the information or extracts from the information.
+(4) An enforcement officer may do any of the things referred to in subsection (3) whether or not—
+  (a) the enforcement officer or the person whom the enforcement officer is dealing with has gone on, into, under, or over premises or a dwelling described in subsection (1)﻿(a) or (b); or
+  (b) in respect of any information, the information is—
+    (i) on premises or in a dwelling that is described in subsection (1)﻿(a) or (b); or
+    (ii) in the place where the enforcement officer is; or
+    (iii) in another place.
+(5) If any enforcement officer has taken any thing in accordance with subsection (3)﻿(d), the enforcement officer must give the occupier of the premises written notice of the things that have been taken, the reason for taking the things, and where the things will be kept.
+(6) Within 5 working days of removing a thing, the enforcement officer must give the person in charge of the premises written notice stating—
+  (a) whether or not the thing will be returned or destroyed; and
+  (b) either—
+    (i) the time and date of the return of the thing to the premises; or
+    (ii) the results of the analysis of the thing and why it is being destroyed.
+(7) Every enforcement officer exercising any of the powers conferred under this section must, at the time of exercising that power, and after that on request, produce—
+  (a) evidence of that person's appointment as an enforcement officer; and
+  (b) evidence of that person's identity.
+(8) An enforcement officer may take any person with relevant experience or expertise on to the premises to assist the officer with the inspection.
+(9) Nothing in this section limits or affects the privilege against self-incrimination.
+(10) In this section,—
+  - **information** includes any document
+  - **relevant premises** means premises where hazardous substances are located or that are used or are likely to be used for activities related to the manufacture, import, or supply of hazardous substances, including the keeping of documents related to those activities.
+
 **Compliance orders**
 
 ### 104 Scope of compliance order
 (1) A compliance order may be served on any person by an enforcement officer—
   (a) requiring that person to cease, or prohibiting that person from commencing, anything done or to be done by or on behalf of that person that, in the opinion of the enforcement officer,—
-    (i) contravenes or is likely to contravene this Act, any regulations, or a control imposed by an approval under this Act; or
+    (i) contravenes or is likely to contravene this Act, any regulations, any EPA notice, or a control imposed by an approval under this Act; or
     (ii) relates to any hazardous substance or new organism and is or is likely to be dangerous, to such an extent that it has or is likely to have an adverse effect on the health and safety of people or the environment; or
-  (b) requiring that person to do something that, in the opinion of the enforcement officer, is necessary to ensure that person complies with this Act, any regulations, controls imposed by an approval granted under this Act, or is necessary to avoid, remedy, or mitigate any actual or likely adverse effects on people or the environment resulting from any breach of any regulations or any controls imposed by an approval granted under this Act—
+  (b) requiring that person to do something that, in the opinion of the enforcement officer, is necessary to ensure that person complies with this Act, any regulations, any EPA notice, or any controls imposed by an approval granted under this Act, or is necessary to avoid, remedy, or mitigate any actual or likely adverse effects on people or the environment resulting from any breach of any regulations, any EPA notice, or any controls imposed by an approval granted under this Act—
     (i) caused by or on behalf of the person; or
     (ii) relating to any land of which the person is the owner or occupier.
 (2) A compliance order may be made subject to such conditions as are reasonable in the circumstances.
@@ -2114,7 +2124,7 @@ Subject to the rights of appeal in section 125, any person on whom a compliance 
   (f) the rights of appeal under section 125; and
   (g) the name and address of the agency whose enforcement officer served the order.
 (2) The period referred to in subsection (1)﻿(d) must—
-  (a) commence at the time the notice is served; and
+  (a) commence at the time the compliance order is served; and
   (b) be reasonable, having regard to the circumstances giving rise to the compliance order.
 
 ### 107 Service of compliance order
@@ -2142,7 +2152,7 @@ Subject to the rights of appeal in section 125, any person on whom a compliance 
 
 ### 109 Offences
 (1) Every person commits an offence against this Act who—
-  (a) manufactures any hazardous substance in contravention of this Act; or
+  (a) imports or manufactures any hazardous substance in contravention of this Act; or
   (aa) imports, manufactures, uses, or stores a persistent organic pollutant in contravention of this Act; or
   (b) develops or field tests a new organism in contravention of this Act; or
   (c) knowingly imports or releases a new organism in contravention of this Act; or
@@ -2151,11 +2161,14 @@ Subject to the rights of appeal in section 125, any person on whom a compliance 
     (ii) possesses or disposes of any hazardous substance or new organism imported, manufactured, developed, or released in contravention of this Act; or
   (da) fails to comply with any requirements in an EPA notice made under section 76A(d) or (f); or
   (e) fails to comply with—
-    (i) any controls imposed by any approval granted under this Act; or
-    (ii) any controls specified in any regulations; or
-    (iii) any requirement to obtain a test certificate specified in any regulations; or
-  (ea) fails to comply with a condition on a licence or permission granted under section 95A or section 95B; or
-  (eb) fails to comply with a condition imposed under section 96B(1)﻿(b) on an identified group of hazardous substances; or
+    (i) any controls imposed by an approval relating to a new organism granted under this Act; or
+    (ii) any EPA controls imposed by an approval relating to a hazardous substance granted under this Act; or
+    (iii) any controls specified in any regulations relating to a new organism; or
+    (iv) any prohibition specified in any regulations; or
+    (v) any controls specified in any regulations or an EPA notice relating to a hazardous substance; or
+    (vi) any requirement to obtain a certificate specified in any regulations or an EPA notice; or
+  (ea) fails to comply with a condition on a permission granted under section 95A; or
+  (eb) fails to comply with a condition imposed under section 96B(1)﻿(b) on an identified group of hazardous substances or products; or
   (f) fails to comply with any compliance order served under section 107; or
   (g) fails to comply with any of the requirements of section 124; or
   (h) fails without any lawful justification or excuse to obtain any transferable permit when required to do so by any Order in Council in force under this Act; or
@@ -2191,9 +2204,10 @@ In sections 111 to 113—
   - **infringement offence** means an offence specified as such in regulations made under section 140.
 
 ### 111 Commission of infringement offence
-Where any person is alleged to have committed an infringement offence, that person may either—
+(1) Where any person is alleged to have committed an infringement offence, that person may either—
   (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
   (b) be served with an infringement notice as provided for in section 112.
+(2) Proceedings commenced in the way described in subsection (1)﻿(a) do not require the leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
 
 ### 112 Infringement notices
 (1) Where an enforcement officer observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice may be issued in respect of that offence.
@@ -2210,7 +2224,9 @@ Where any person is alleged to have committed an infringement offence, that pers
 (4) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and in that case the provisions of that section shall apply with the necessary modifications.
 
 ### 113 Entitlement to infringement fees
-A territorial authority shall be entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer employed by that authority.
+(1) A territorial authority shall be entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer employed by that authority.
+(2) A regional council is entitled to retain all infringement fees received by it in respect of infringement offences where the infringement notice was issued by an enforcement officer employed by that council.
+(3) Except as provided in subsections (1) and (2), all infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 114 Penalties
 (1) Every person who commits an offence against paragraph (a) or paragraph (aa) or paragraph (b) or paragraph (c) or paragraph (d) or paragraph (e) or paragraph (ea) or paragraph (eb) of section 109(1) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $500,000 and, if the offence is a continuing one, to a further fine not exceeding $50,000 for every day or part of a day during which the offence has continued.
@@ -2251,12 +2267,10 @@ Where any body corporate is convicted of an offence against this Act, every dire
   (c) that the action or event to which the prosecution related was within the defendant's control; but—
     (i) the defendant had taken all reasonable steps to prevent the action or event; and
     (ii) the defendant took such steps as were reasonable in all the circumstances to mitigate or remedy the effects of the action or event after it occurred.
-(3) It is a defence to prosecution for any offence specified in section 109(1)﻿(e)﻿(ii) or (iii) that the defendant—unless the defendant had reason to believe that the code of practice or the structure or goods covered by the test certificate did not meet the relevant controls.
+(3) It is a defence to prosecution for any offence specified in section 109(1)﻿(e)﻿(ii) or (iii) that the defendant—unless the defendant had reason to believe that the code of practice or the structure or goods covered by the certificate did not meet the relevant controls.
   (a) complied with any code of practice approved under section 79 as a method of achieving the controls that it is alleged that the defendant failed to comply with; or
-  (b) was the holder of any current test certificate issued by any test certifier in accordance with section 82, certifying that the controls that it is alleged that the defendant failed to comply with had been met,—
-(4) It is a defence to prosecution for any offence specified in section 109(1)﻿(e)﻿(ii) or (iii) that, at the time of the alleged offence, the defendant was the holder of a conditional test certificate issued under section 82(4A) that—
-  (a) specified, as requirements that had not been met, the controls that it is alleged that the defendant failed to comply with; and
-  (b) had not expired under section 82(4C).
+  (b) was the holder of any current certificate issued by any certifier in accordance with section 82, certifying that the controls that it is alleged that the defendant failed to comply with had been met,—
+(4)
 
 ### 118 Fines to be paid to territorial authority instituting prosecution
 (1) Subject to subsection (2), where a person is convicted of an offence under section 109 and the court imposes a fine, the court shall, if the charging document for that offence was filed on behalf of a territorial authority, order that the fine be paid to that territorial authority.
@@ -2267,7 +2281,7 @@ Where any body corporate is convicted of an offence against this Act, every dire
 
 ### 119 Search warrants
 (1) Any issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who is satisfied, on an application made in the manner provided in subpart 3 of Part 4 of that Act, that there are reasonable grounds for believing that there is, in or on or under or over any premises or any dwelling,—may issue a search warrant.
-  (a) any substance or organism that has been imported, manufactured, developed, released, held, transported, or disposed of in contravention of this Act; or
+  (a) any substance or organism that has been imported, manufactured, developed, supplied, released, held, transported, or disposed of in contravention of this Act; or
   (b) any documents or other records which there are reasonable grounds to believe may be evidence of the commission of any offence under this Act to which paragraph (a) applies,—
 (2) Every search warrant shall be directed either to a constable by name or to every constable or to any enforcement officer by name, but in any of those cases, the warrant may be executed by any constable.
 (3) Subject to subsection (4), the provisions of Part 4 of the Search and Surveillance Act 2012 apply.
@@ -2297,10 +2311,10 @@ Any inspector (as defined in section 2(1) of the Biosecurity Act 1993) may requi
 
 ### 124 Responsibilities of carrier and person in charge of any craft
 (1) For the purposes of this Act, the carrier and the person in charge of any craft that berths, lands, or otherwise arrives in New Zealand from another country, or that is to so berth, land, or arrive, shall—
-  (a) ensure that any documentation, required by regulations, in relation to all hazardous substances loaded onto that craft is available:
-  (b) on arrival of the craft at a port of entry or Customs airport, produce for inspection such documentation as a Customs officer may lawfully specify.
+  (a) ensure that any documentation, required by regulations or any EPA notice, in relation to all hazardous substances loaded onto that craft is available:
+  (b) on arrival of the craft at a port or airport of entry, produce for inspection such documentation as a Customs officer may lawfully specify.
 (2) The carrier and the person in charge of a craft leaving New Zealand shall—
-  (a) provide transportation from New Zealand, at the cost in respects of the carrier, of any hazardous substance on board the craft, or any other craft operated by the carrier when it arrived in New Zealand, which was not accompanied by the documentation required by regulations:
+  (a) provide transportation from New Zealand, at the cost in respects of the carrier, of any hazardous substance on board the craft, or any other craft operated by the carrier when it arrived in New Zealand, which was not accompanied by the documentation required by regulations or any EPA notice:
   (b) in respect of any hazardous substance for which the carrier is obliged to provide transportation or the cost of transportation under paragraph (a), to pay all the costs (if any) incurred by the Crown in holding that substance before the removal of that substance from New Zealand.
 
 ## Part 7A — Pecuniary penalties and civil liability for breaches relating to new organisms
@@ -2407,19 +2421,15 @@ In proceedings for an order under section 124B,—
   (b) declines any application for a transferable permit; or
   (c) revokes any transferable permit; or
   (d) imposes any charge on any person to recover costs in accordance with section 21; or
-  (da) revokes a test certificate under section 82C; or
-  (e) declines any application for approval as a test certifier in respect of any relevant controls in accordance with section 84; or
-  (f) revokes any approval to act as a test certifier in respect of any relevant controls in accordance with section 86; or
-  (g) suspends all or any part of any approval to act as a test certifier in accordance with section 86; or
+  (da) revokes a certificate under section 82C; or
+  (e)
+  (f)
+  (g)
   (h)
   (i) declines any application under section 51 to tranship a substance or organism,—
-(1A) A person may appeal to the District Court against—
-  (a) a decision of the Authority, under section 95A,—
-    (i) about the terms and conditions of a permission held by the person; or
-    (ii) declining to grant the person a permission or revoking a permission held by the person; or
-  (b) a decision of the Authority, under section 95B,—
-    (i) about the terms and conditions of a licence held by the person; or
-    (ii) declining to grant the person a licence or revoking a licence held by the person.
+(1A) A person may appeal to the District Court against a decision of the Authority, under section 95A,—
+  (a) about the terms and conditions of a permission held by the person; or
+  (b) declining to grant the person a permission or revoking a permission held by the person.
 (2) In any case where—the person directly affected may appeal against that decision to the District Court.
   (a) any property is seized and retained pursuant to section 119; or
   (b) an application for compensation is declined in accordance with section 138; or
@@ -2429,10 +2439,11 @@ In proceedings for an order under section 124B,—
 (3) Any person on whom a compliance order is served may appeal to the District Court against the whole or any part of that order.
 (4) Any person who lodges a notice of appeal under subsection (3) may apply to the District Court for a stay of the compliance order until the determination of the appeal.
 (5) The District Court shall not confirm a compliance order against which an appeal has been lodged where the person on whom the order was served was acting in accordance with—
-  (a) controls on any hazardous substance under this Act; or
+  (a) EPA controls on any hazardous substance under this Act; or
   (b) conditions imposed on an approval granted under this Act.
 (6) Subject to subsection (7), the decision of the court on any appeal under this Act shall be final.
 (7) Any party to an appeal under this section may further appeal to the High Court on a question of law.
+(8) An appeal under this section must be made and determined in accordance with the District Court Act 2016 and the District Court Rules 2014.
 
 ### 126 Appeal on question of law
 (1) Any—may appeal against the decision of the Authority to the High Court on a question of law, unless a right of appeal to the District Court against the decision is provided for in any other provision of this Act.
@@ -2552,40 +2563,47 @@ No action or proceedings shall be brought against any enforcement officer or any
 ## Part 10 — Miscellaneous provisions
 
 ### 140 Regulations
-(1) Subject to section 141, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Subject to section 141, the Governor-General may from time to time, by Order in Council, make regulations for 1 or more of the following purposes:
   (a) prescribing organisms as genetically modified organisms for the purpose of this Act:
-  (b) prescribing organisms as organisms which are not genetically modified for the purposes of this Act:
-  (ba) prescribing organisms that are not new organisms for the purposes of this Act:
-  (c) prescribing or providing for controls on compressed gases, whether intrinsically hazardous or not:
-  (d) prescribing the method of estimating the quantity of any substance or organism to be imported or manufactured:
-  (e) prescribing controls for any hazardous substance to avoid or mitigate any adverse effects on the physical or chemical nature of the environment:
-  (f) prescribing controls to avoid or mitigate illness or injury to people or damage to the environment or chattels from any hazardous substance:
-  (fa) prescribing controls for any conditionally released new organism or any qualifying organism released with controls, to avoid or mitigate any adverse effects on the physical or chemical nature of the environment:
-  (fb) prescribing controls for any conditionally released new organism or any qualifying organism released with controls, to avoid or mitigate illness or injury to people or animals (other than the persons or animals referred to in section 38I(4)﻿(a) and (b)) or damage to the environment or chattels:
-  (g) prescribing requirements to be met by a laboratory, and during the storage, importation, or transportation of any hazardous substance, for the purposes of section 33:
-  (h) prescribing—
+  (b) prescribing organisms as organisms that are not genetically modified for the purpose of this Act:
+  (c) prescribing organisms that are not new organisms for the purpose of this Act:
+  (d) prescribing the method of estimating the quantity of any organism to be imported:
+  (e) prescribing controls for any conditionally released new organism or any qualifying organism released with controls, to avoid or mitigate any adverse effects on the physical or chemical nature of the environment:
+  (f) prescribing controls for any conditionally released new organism or any qualifying organism released with controls, to avoid or mitigate illness or injury to people or animals (other than the persons or animals referred to in section 38I(4)﻿(a) and (b)) or damage to the environment or chattels:
+  (g) prescribing—
     (i) any species as a risk species where any subspecies, infrasubspecies, variety, strain, or cultivar of that species may have adverse effects on the health and safety of people or the environment; or
     (ii) any subspecies, infrasubspecies, variety, strain, or cultivar as a risk species where that subspecies, infrasubspecies, variety, strain, or cultivar may have adverse effects on the health and safety of people or the environment:
-  (i) prescribing those offences under this Act that constitute infringement offences against this Act:
-  (j) prescribing forms of infringement notices, and prescribing the infringement fees (not exceeding $1,000) for each infringement offence, which may be different fees for different offences:
-  (k) prescribing countries or organisations for the purposes of sections 28, 31, 34, 38A, and 40:
-  (l) prescribing information to be provided with any application for approval:
-  (m) prescribing forms for the purposes of this Act:
-  (n) prescribing documentation to be issued in respect of any hazardous substance before importation into New Zealand:
-  (o) prescribing qualifications for—
-    (i) enforcement officers appointed under section 100:
-    (ii) test certifiers appointed under section 84:
-  (p) prescribing controls for by-products with hazardous properties, which result from the manufacture of any substance:
-  (q) prescribing damage as serious environmental damage for the purposes of section 144:
-  (r) prescribing restrictions and prohibitions on the sale of specified fireworks:
-  (s) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) Regulations may only be made under subsection (1)﻿(p) where the Authority has notified the Minister that the Authority has reviewed the controls on any by-product with hazardous properties under this Act or any other Act and has satisfied itself that those controls are not sufficient to achieve the purposes of this Act.
-(2A) Regulations may be made under subsection (1)﻿(ba) only if the Minister has considered—
+  (h) prescribing offences under this Act that constitute infringement offences against this Act:
+  (i) prescribing forms of infringement notices, and prescribing the infringement fees (not exceeding $3,000) for each infringement offence, which may be different fees for different offences:
+  (j) prescribing countries or organisations for the purpose of sections 34, 38A, and 40 (which relate to new organisms):
+  (k) prescribing information to be provided with any application for approval relating to new organisms:
+  (l) prescribing forms for the purpose of this Act that relate to new organisms and prescribing forms of search warrants under this Act:
+  (m) prescribing qualifications for enforcement officers appointed under section 100 who perform functions relating to new organisms:
+  (n) prescribing controls for by-products with hazardous properties, which result from the manufacture of any substance:
+  (o) prescribing damage as serious environmental damage for the purpose of section 144:
+  (p) prescribing prohibitions on the possession, importation, and manufacture of any hazardous substance:
+  (q) prescribing restrictions on the access to or use of a hazardous substance outside the workplace:
+  (r) prescribing restrictions on the sale of any hazardous substance:
+  (s) prescribing prohibitions on the sale of specified fireworks:
+  (t) providing for any matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
+(2) Regulations may be made under subsection (1)﻿(c) only if the Minister has considered—
   (a) whether the organism has formed a self-sustaining population in New Zealand; and
   (b) whether any person is attempting to manage, control, or eradicate the organism under any Act.
-(3) Any regulations made under this Act may provide for controls by reference to controls in regulations under any other Act:
-(4) Any regulations made under subsection (1) may require any person to obtain a test certificate at any specified time certifying that a specified requirement has been met.
-(5) Regulations made under subsection (1)﻿(c) may prescribe or provide for controls on any compressed gases, whether or not the properties of any gas that is compressed are intrinsically hazardous, and those compressed gases must all be treated as hazardous substances for the purposes of Part 7 regardless of their properties.
+(3) Regulations made under subsection (1)﻿(h) may (without limitation) prescribe as an infringement offence the failure to comply with—
+  (a) any control referred to in section 109(1)﻿(e)﻿(ii) or (v) that is specified or described in the regulations:
+  (b) any requirement referred to in section 109(1)﻿(e)﻿(vi):
+  (c) any condition referred to in section 109(1)﻿(eb) that is specified or described in the regulations, including any condition that is referred to as being equivalent to a control.
+(4) Regulations may be made under subsection (1)﻿(p), (q), or (r) only if the Minister—
+  (a) is satisfied that the proposed regulations are desirable in the public interest; and
+  (b) has consulted the Authority and the Minister for Workplace Relations and Safety.
+(5) Any regulations or other instrument made under this Act may provide for controls by reference to controls in regulations under any other Act.
+(6) Regulations made under this section may—
+  (a) be of general or limited application:
+  (b) differ according to differences in time, place, or circumstance, or on any other basis:
+  (c) impose prohibitions:
+  (d) impose obligations and restrictions on persons:
+  (e) apply differently to people of a differing age or health status, and may apply only to people of a particular age or health status.
+(7) Any regulation made under this section is not invalid merely because it confers a discretion on, or allows a matter to be determined or approved by, any person.
 
 ### 140A Persistent organic pollutants
 (1) The Governor-General may, by Order in Council, amend Schedule 2A to—
@@ -2735,9 +2753,10 @@ If a notice is published in the Gazette under section 141B or 141D in relation t
   (b) a coastal permit to do something that would otherwise contravene section 15 of the Resource Management Act 1991; or
   (c) a discharge permit,—
 (5) For the purposes of this section, resource consent has the same meaning as in the Resource Management Act 1991.
-(6) Any controls prescribed under any other Act for any hazardous substance shall not contravene the provisions of regulations made under sections 75 and 76 unless—
-  (a) there is a provision in that other Act that expressly provides that controls made under that other Act for specified purposes may contravene the provisions of regulations made under this Act; and
+(6) Any controls prescribed under any other Act for any hazardous substance shall not contravene the provisions of EPA notices issued under sections 75 and 76 unless—
+  (a) there is a provision in that other Act that expressly provides that controls made under that other Act for specified purposes may contravene the provisions of EPA notices issued under this Act; and
   (b) the controls are made for the purposes provided for in that Act.
+(7) Nothing in this Act affects the requirements of the Health and Safety at Work Act 2015, or of any regulations or safe work instruments made under that Act, that relate to hazardous substances in a workplace.
 
 ### 142A Exemptions from approval requirements
 [Repealed]
@@ -2751,7 +2770,7 @@ If a notice is published in the Gazette under section 141B or 141D in relation t
 (3) The Medical Officer of Health shall ensure that information about any injury notified in accordance with subsection (2) or subsection (2A) (not being information which identifies any individual person) is supplied to the Minister of Health.
 
 ### 144 Reporting of incidents
-(1) Every person in charge of a substance involved in an incident resulting in serious harm to any person or serious environmental damage shall, unless an enforcement officer attended the incident or subsection (2) applies, report that incident to an enforcement officer.
+(1) Every person in charge of a substance involved in an incident resulting in death, or a notifiable injury or illness as defined by section 23 of the Health and Safety at Work Act 2015, or serious environment damage must, unless an enforcement officer attended the incident or subsection (2) applies, report that incident to an enforcement officer.
 (2) No person shall be obliged to report an incident to an enforcement officer under this Act where the incident is required to be reported under any other Act.
 
 ### 145 Ombudsmen Act 1975 amended
@@ -3337,8 +3356,87 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 
 ## Schedule 7 — Transitional and savings provisions relating to amendments to Act
 
+### 1 Interpretation
+In this schedule, unless the context otherwise requires,—
+  - **deemed approval** means an approval for a hazardous substance or group of hazardous substances deemed to have been given under section 29 by—
+    (a) the Hazardous Substances (Fireworks, Safety Ammunition, and Other Explosives Transfer) Regulations 2003; or
+    (b) a notice issued under section 160A that is in force immediately before the commencement of this schedule
+  - **existing classification system** —
+    (a) means the hazard classification system that is provided for in the Hazardous Substances (Classification) Regulations 2001 and the Hazardous Substances (Minimum Degrees of Hazard) Regulations 2001, as in force immediately before the establishment of the new classification system; and
+    (b) if a hazardous substance has been given a hazard classification by the Authority for the purposes of an approval or is deemed to have a hazard classification under a deemed approval, includes the classification of that hazardous substance that it has been given or is deemed to have
+  - **existing prescribed controls** —
+    (a) means controls prescribed by regulations made under this Act that apply to an individual approval or a deemed approval (as varied in the approval in accordance with section 77, 77A, or 77B) and that are in force immediately before the commencement of this schedule; and
+    (b) includes any conditions imposed on a hazardous substance by a group standard in force immediately before the commencement of this schedule
+  - **further transitional measures** means transitional arrangements related to the existing classification system or existing prescribed controls, as provided for in—
+    (a) any approval or group standard that has been reissued in accordance with this schedule; or
+    (b) any EPA notice or regulations made under clause 8 or the Health and Safety at Work Act 2015
+  - **new classification system** means the hazard classification system provided for in an EPA notice issued under section 74 on or after the commencement of this schedule
+  - **new controls** means the controls prescribed in an EPA notice issued under this Act on or after the commencement of this schedule.
+
+### 2 Existing classification system applies for the purpose of applying existing prescribed controls
+Despite any hazard classification under the new classification system, a hazardous substance may be classified under the existing classification system for the purpose of applying existing prescribed controls in accordance with—
+  (a) this schedule; or
+  (b) further transitional measures.
+
+### 3 Limitation on effect of existing prescribed controls
+An existing prescribed control has no legal effect to the extent that it is replaced by any regulations or safe work instruments made under the Health and Safety at Work Act 2015.
+
+### 4 Existing prescribed controls applying to approvals (including deemed approvals)
+(1) This clause applies to—
+  (a) approvals for a hazardous substance or group of hazardous substances given under Part 5 that are in force immediately before the commencement of this schedule; and
+  (b) deemed approvals.
+(2) All existing prescribed controls continue to apply to the approval according to their terms, but subject to clause 3, until the Authority has—
+  (a) reissued the approval under subclause (3); or
+  (b) revoked the approval under section 67B.
+(3) Despite sections 62 and 63, the Authority may review and, by public notice, amend and reissue the approval for the purpose of updating the approval to—
+  (a) take into account the new classification system, the revocation of existing prescribed controls or the replacement of existing prescribed controls with new controls; or
+  (b) omit any control if it is reasonable to conclude that the purpose of the control is to address the adverse effects on people in the workplace and that any other aspect of the control is only incidental to that purpose.
+(4) The amendment and reissue of the approval under this clause is not a reassessment of a hazardous substance to which section 63 applies or a modified reassessment of a hazardous substance to which section 63A or 63C applies.
+(5) If an approval is reissued in accordance with this clause, it must be treated, without further need for a decision under the relevant provision referred to in paragraph (a) or (b), as if it has been reissued—
+  (a) under the provision under which the approval was granted; or
+  (b) in the case of an approval described in subclause (1)﻿(b), under section 29.
+(6) If the Authority reviews an approval under subclause (3) and considers it appropriate to identify a group of substances with approvals or deemed approvals that should be replaced with a group standard, the Authority may revoke the approvals or deemed approvals under section 67B and, by notice in the Gazette, issue a new group standard.
+(7) If the Authority issues a group standard in accordance with this clause—
+  (a) sections 53 and 96C do not apply to the amendment or reissue of the group standard under this clause; and
+  (b) the group standard must be treated as if it has been issued under section 96B in accordance with the requirements of this Act.
+
+### 5 Existing group standards
+(1) This clause applies to group standards issued under section 96B that are in force immediately before the commencement of this schedule.
+(2) The existing prescribed controls in a group standard continue to apply to the hazardous substances concerned according to the terms of the group standard, but subject to clause 3, until the Authority has—
+  (a) reissued the group standard under subclause (3); or
+  (b) revoked the group standard under section 67B.
+(3) The Authority may review and, by notice in the Gazette, amend and reissue a group standard for the purpose of updating the group standard to—
+  (a) take into account the new classification system, the revocation of existing prescribed controls, or the replacement of existing prescribed controls with new controls; or
+  (b) omit any condition imposed by the Authority under section 96B if it is reasonable to conclude that the purpose of the condition is to address the adverse effects on people in the workplace and that any other aspect of the condition is only incidental to that purpose.
+(4) The Authority may, if it considers appropriate, reissue a group standard under this clause that excludes hazardous substances or products that it formerly covered if those hazardous substances or products are moved to a different group standard that is also reissued under this clause or issued under clause 4(6).
+(5) If the Authority reissues a group standard in accordance with this clause,—
+  (a) sections 53 and 96C do not apply to the amendment of a group standard under this clause; and
+  (b) the group standard must be treated as if it has been issued under section 96B in accordance with the requirements of this Act.
+
+### 6 Existing regulations and codes of practice
+(1) This clause applies to—
+  (a) regulations in force under this Act immediately before the commencement of this schedule that include any requirements that apply in relation to hazardous substances in workplaces; and
+  (b) codes of practice issued or approved by the Authority for the purpose of implementing any requirement included in those regulations that are in force immediately before the commencement of this schedule.
+(2) The regulations, codes of practice, and approvals of codes of practice to which this clause applies—
+  (a) continue in force until revoked or replaced; and
+  (b) even if revoked, continue in force for the purpose of applying any existing prescribed controls in accordance with—
+    (i) this schedule; or
+    (ii) further transitional measures.
+(3) The Authority may revoke any code or approval of a code to which this clause applies without complying with section 79(2) if satisfied that, as applicable, a corresponding code or guidance has been or is to be issued by—
+  (a) WorkSafe under the Health and Safety at Work Act 2015; or
+  (b) the Authority, under this Act.
+
 ### 7 Pre-commencement action relating to EPA notices
 Subsections (1) and (2) of section 76C are satisfied in relation to any EPA notice if action of the kind described in those subsections was taken before their commencement for the purpose of facilitating the making of the notice.
+
+### 8 Transitional matters may be provided for in regulations
+(1) The Governor-General may, by Order in Council, make regulations providing for transitional and savings matters that are in addition to, or in place of, the provisions of this schedule and that are necessary because of the coming into force of the Hazardous Substances and New Organisms Amendment Act 2015.
+(2) Transitional and savings provisions enacted under this clause are revoked at the close of whichever of the following periods ends first:
+  (a) the period during which the provisions are stated to be in force:
+  (b) the period of 3 years from the commencement of this schedule.
+
+### 9 Expiry of clause 8
+Clause 8 expires at the close of 3 years after the commencement of this schedule and is then repealed.
 
 ### 1 Title
 (1) This Act is the Hazardous Substances and New Organisms (Genetically Modified Organisms) Amendment Act 2002.
