@@ -1,5 +1,5 @@
 # WorkSafe New Zealand Amendment Act 2015
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-12-01_
 
 ### 1 Title
 This Act is the WorkSafe New Zealand Amendment Act 2015.
