@@ -1,5 +1,5 @@
 # WorkSafe New Zealand Act 2013
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2017-12-01_
 
 ### 1 Title
 This Act is the WorkSafe New Zealand Act 2013.
@@ -20,7 +20,7 @@ In this Act, unless the context otherwise requires,—
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **PCBU** has the same meaning as in section 17 of the Health and Safety at Work Act 2015
   - **relevant health and safety legislation** has the same meaning as in section 16 of the Health and Safety at Work Act 2015
-  - **transferred employee** means a person referred to in section 11 who has been offered and has accepted employment in WorkSafe New Zealand
+  - **transferred employee** means a person referred to in section 11 or clause 1 of Schedule 2 who has been offered and has accepted employment in WorkSafe New Zealand
   - **worker** has the same meaning as in section 19 of the Health and Safety at Work Act 2015
   - **workplace** has the same meaning as in section 20 of the Health and Safety at Work Act 2015
   - **WorkSafe New Zealand** means the entity established by section 5.
@@ -183,12 +183,17 @@ A person's appointment as a departmental medical practitioner before the commenc
   (a) WorkSafe New Zealand appointed the person; and
   (b) the person were appointed as a health and safety medical practitioner under that Act.
 
+**Transfer of EPA employees and contracts**
+
+### 21A Transfer of EPA employees and contracts to WorkSafe New Zealand
+Schedule 2 contains provisions relating to the transfer of EPA employees and contracts to WorkSafe New Zealand.
+
 **Amendments to other enactments**
 
 ### 22 Amendments to other enactments
 Amend the enactments specified in the Schedule as set out in that schedule.
 
-## Schedule  — Amendments relating to WorkSafe New Zealand
+## Schedule 1 — Amendments relating to WorkSafe New Zealand
 
 | Name | Exemption from acquisition of securities, borrowing, guarantee, and derivative rules |  |  |  | Exemption from section 165 (net surplus payable to Crown) |
 | --- | --- | --- | --- | --- | --- |
@@ -273,3 +278,52 @@ Amend the enactments specified in the Schedule as set out in that schedule.
 | WorkSafe New Zealand (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing the health and safety in employment legislation) |
 | --- |
 | Ministry of Business, Innovation, and Employment (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing immigration legislation) |
+
+## Schedule 2 — Transfer of EPA employees, contracts, and information to WorkSafe New Zealand
+
+**Transfer of employees**
+
+### 1 Restriction on compensation for technical redundancy
+(1) An employee of the EPA is not entitled to receive any payment or other benefit on the ground that the position held by the employee in the EPA has ceased to exist if—
+  (a) the position ceases to exist as a result of a transfer of functions from the EPA to WorkSafe New Zealand; and
+  (b) in connection with that transfer of functions,—
+    (i) the employee is offered equivalent employment in WorkSafe New Zealand (whether or not the employee accepts the offer); or
+    (ii) the employee is offered, and accepts, other employment in WorkSafe New Zealand.
+(2) In subclause (1), equivalent employment to the employee's employment in the EPA is employment in WorkSafe New Zealand that is—
+  (a) in substantially the same position; and
+  (b) in the same general locality; and
+  (c) on terms and conditions of employment that are no less favourable than those that applied to the employee immediately before the offer of equivalent employment (including any service-related, redundancy, and superannuation conditions); and
+  (d) on terms that treat the period of service with the EPA (and any other period of service recognised by the EPA as continuous service) as if it were continuous service with WorkSafe New Zealand.
+(3) This section overrides Part 6A of the Employment Relations Act 2000.
+
+### 2 Employment of transferred employee to be treated as continuous employment
+The employment of a transferred employee by WorkSafe New Zealand is to be treated as continuous employment for the purposes of any enactment.
+
+### 3 Transferred employees bound by collective agreement
+(1) This section applies to a transferred employee who was bound by a collective agreement with the EPA immediately before the employee transferred to WorkSafe New Zealand.
+(2) On and after the commencement of this clause,—
+  (a) the employee continues to be bound by the collective agreement and may enforce the collective agreement against WorkSafe New Zealand; and
+  (b) WorkSafe New Zealand must be treated as if it were a party to the collective agreement instead of the EPA; and
+  (c) unless the context otherwise requires, every reference in the collective agreement to the EPA must be read as a reference to WorkSafe New Zealand.
+
+### 4 Government Superannuation fund
+(1) Any person who, immediately before becoming an employee of WorkSafe New Zealand, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 is deemed, for the purposes of that Act, to be employed in the Government service as long as the person continues to be an employee of WorkSafe New Zealand.
+(2) The Government Superannuation Fund Act 1956 applies in all respects as if the person's service as an employee of WorkSafe were Government service.
+(3) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(4) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of WorkSafe New Zealand is the controlling authority.
+
+**Transfer of contracts**
+
+### 5 Transfer of contracts to WorkSafe New Zealand
+(1) This section applies to a contract (other than an employment agreement) that—
+  (a) was made between the EPA and another person; and
+  (b) is identified by the EPA and WorkSafe New Zealand and relates solely to a function or power of the EPA before the commencement of this clause that becomes a function or power of WorkSafe New Zealand on that commencement.
+(2) On and after the commencement of this clause,—
+  (a) the contract must be treated as if WorkSafe New Zealand were the party to the contract instead of the EPA; and
+  (b) unless the context otherwise requires, every reference in the contract to the EPA must be read as a reference to WorkSafe New Zealand.
+
+**Transfer of information**
+
+### 6 Transfer of information to WorkSafe New Zealand
+(1) Despite anything in any other Act, the EPA may transfer to WorkSafe New Zealand any information held by the EPA under the Hazardous Substances and New Organisms Act 1996 (including information referred to in section 20, 82A, or 85 of that Act) that is necessary to enable WorkSafe New Zealand to perform functions or duties under the Health and Safety at Work Act 2015 that correspond to functions or duties that were formerly performed by the EPA.
+(2) The transfer of information from the EPA to WorkSafe New Zealand under subclause (1) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
