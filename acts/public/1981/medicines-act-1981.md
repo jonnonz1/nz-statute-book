@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2017-12-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -1683,7 +1683,7 @@ Without limiting the generality of section 105(1)﻿(d) or (qaa), regulations ma
 
 ### 110 Relationship with Hazardous Substances and New Organisms Act 1996
 (1) Subject to subsection (2), nothing in this Act shall affect or derogate from the Hazardous Substances and New Organisms Act 1996.
-(2) In the event of any inconsistency between the provisions of the Hazardous Substances and New Organisms Act 1996 and the provisions of this Act, or between the provisions of any regulations made under that Act and the provisions of any regulations made under this Act, in the case of a medicine that is also a hazardous substance within the meaning of that Act, the provisions of this Act and of the regulations made under this Act shall prevail.
+(2) In the event of any inconsistency between the provisions of the Hazardous Substances and New Organisms Act 1996 and the provisions of this Act, or between the provisions of any regulations made or EPA notices issued under that Act and the provisions of any regulations made under this Act, in the case of a medicine that is also a hazardous substance within the meaning of that Act, the provisions of this Act and of the regulations made under this Act shall prevail.
 
 ### 111 Amendment of and effect on Animal Remedies Act 1967
 [Repealed]
