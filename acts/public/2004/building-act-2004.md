@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-12-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -946,7 +946,7 @@ If a project information memorandum contains information previously supplied to 
     (i) if it complied with the building code immediately before the building work began, continues to comply with the building code; or
     (ii) if it did not comply with the building code immediately before the building work began, continues to comply at least to the same extent as it did then comply:
   (c) the building work does not breach any other enactment:
-  (d) the building to which the building work relates is not a building that is required to be licensed under the Hazardous Substances and New Organisms Act 1996.
+  (d) the building to which the building work relates is not a hazardous substance location that is required to be authorised under the Health and Safety at Work Act 2015 or any regulations made under that Act.
 (3) In subsection (1)﻿(b), authorised person means a person who is authorised under the Plumbers, Gasfitters, and Drainlayers Act 2006 to do the work, except for a person who is authorised under section 15, 16, 19, or 25 of that Act.
 
 ### 43 Building consent not required for energy work
