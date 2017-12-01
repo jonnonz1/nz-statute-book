@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2017-12-01_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -1154,7 +1154,7 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
 (2) Nothing in this Act affects the application of the HSNO Act in relation to the psychoactive substance.
 (3) However, in the event of any inconsistency—
   (a) between the provisions of this Act and the provisions of the HSNO Act, the provisions of this Act prevail:
-  (b) between the provisions of regulations made under this Act and the provisions of regulations made under the HSNO Act, the provisions of regulations made under this Act prevail.
+  (b) between the provisions of regulations made under this Act and the provisions of regulations made or EPA notices issued under the HSNO Act, the provisions of regulations made under this Act prevail.
 
 ### 105 Application of Customs and Excise Act 1996
 The provisions of the Customs and Excise Act 1996, except section 209 of that Act, apply to a psychoactive substance that is not an approved product (or part of an approved product) as if it were prohibited goods under that Act, unless the person importing the psychoactive substance—
