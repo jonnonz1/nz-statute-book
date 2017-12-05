@@ -1,5 +1,5 @@
 # Subordinate Legislation Confirmation Act 2016
-_Consolidation as at 2016-12-16_
+_Consolidation as at 2017-12-05_
 
 ### 1 Title
 This Act is the Subordinate Legislation Confirmation Act 2016.
