@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2017-06-01_
+_Consolidation as at 2017-12-05_
 
 > Title
 
@@ -1338,6 +1338,30 @@ The Maternity Leave and Employment Protection Act 1980 is hereby repealed.
   (b) in any other case, the person or his or her spouse or partner becomes the primary carer in respect of a child on or after 1 April 2016.
 (2) A person to whom the amendments referred to in subclause (1) apply may, before 1 April 2016,—
   (a) give notice of a request to take parental leave, in which case the person may begin his or her parental leave before 1 April 2016 as if those amendments were already in force; and
+  (b) apply for a parental leave payment under Part 7A as if those amendments were already in force.
+
+### Part 4 — Provisions relating to Part 1 of Parental Leave and Employment Protection Amendment Act 2017
+
+### 4 Application of Part 1 of Parental Leave and Employment Protection Amendment Act 2017
+(1) This Act, as amended by Part 1 of the Parental Leave and Employment Protection Amendment Act 2017, applies to a person who takes parental leave or applies for a parental leave payment in respect of a child if,—
+  (a) in the case of a child born to the person or to the person’s spouse or partner,—
+    (i) the expected date of delivery of the child is on or after 1 July 2018; or
+    (ii) the child is born on or after 1 July 2018; or
+  (b) in any other case, the person or his or her spouse or partner becomes the primary carer in respect of a child on or after 1 July 2018.
+(2) A person referred to in subclause (1) may, before 1 July 2018,—
+  (a) give notice of a request to take parental leave, in which case the person may begin the parental leave before 1 July 2018 as if those amendments were already in force; and
+  (b) apply for a parental leave payment under Part 7A as if those amendments were already in force.
+
+### Part 5 — Provisions relating to Part 2 of Parental Leave and Employment Protection Amendment Act 2017
+
+### 5 Application of Part 2 of Parental Leave and Employment Protection Amendment Act 2017
+(1) This Act, as amended by Part 2 of the Parental Leave and Employment Protection Amendment Act 2017, applies to a person who takes parental leave or applies for a parental leave payment in respect of a child if,—
+  (a) in the case of a child born to the person or to the person’s spouse or partner,—
+    (i) the expected date of delivery of the child is on or after 1 July 2020; or
+    (ii) the child is born on or after 1 July 2020; or
+  (b) in any other case, the person or his or her spouse or partner becomes the primary carer in respect of a child on or after 1 July 2020.
+(2) A person referred to in subclause (1) may, before 1 July 2020,—
+  (a) give notice of a request to take parental leave, in which case the person may begin the parental leave before 1 July 2020 as if those amendments were already in force; and
   (b) apply for a parental leave payment under Part 7A as if those amendments were already in force.
 
 ## Schedule 1 — Change of employer
