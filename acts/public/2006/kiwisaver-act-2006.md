@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-12-05_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -236,6 +236,7 @@ The automatic rules apply to an employee who—
 (1) Despite sections 10 to 13, the following are not new employment, and the automatic enrolment rules do not apply:
   (a) if the person is an employee only because they are in receipt of payments of salary or wages of a type referred to in any of the following sections in the Income Tax Act 2007:
     (i) section RD 5(1)﻿(b)﻿(iii) (which relates to certain ACC payments):
+    (ia) section RD 5(1)﻿(b)﻿(iiib) (which relates to payments paid under the Compensation for Live Organ Donors Act 2016):
     (ii) section RD 5(3) (which relates to payments to working partners):
     (iib) section RD 5(3B) (which relates to payments to working owners):
     (iic) section RD 5(6)﻿(be) to (bg) (which relate to payments made under the Veterans’ Support Act 2014):
