@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2017-12-05_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -104,7 +104,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **district health board or other provider** means a DHB or provider, as defined in section 6 of the New Zealand Public Health and Disability Act 2000
   - **earner** —
     (a) means a natural person who engages in employment, whether or not as an employee; and
-    (b) includes a person to whom clause 43 or clause 44 of Schedule 1 applies
+    (b) includes a person to whom clause 43, 44, or 44A of Schedule 1 applies
   - **Earners' Account** means the Account described in section 218
   - **earnings** means—
     (a) earnings as an employee:
@@ -335,6 +335,7 @@ Acute treatment, in relation to a claimant, means—
 (1) Earnings as an employee, in relation to any person and any tax year, does not include—
   (a) any income-tested benefit, veteran's pension, New Zealand superannuation, or schedular payment; or
   (aa) any parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987; or
+  (ab) any payment paid under the Compensation for Live Organ Donors Act 2016; or
   (b) any student allowance established in accordance with regulations made under section 303 of the Education Act 1989; or
   (c) any amount allocated to a person or persons, other than the person who is the employee in question, under sections CD 11, CW 63, DB 58, GB 23, and GB 24 of the Income Tax Act 2007; or
   (cb) any benefit arising from a share purchase agreement under section CE 2(2) or (4) of the Income Tax Act 2007 when the employer makes an election under section RD 7B of that Act to withhold and pay tax in relation to the benefit; or
@@ -1353,10 +1354,11 @@ First week compensation is salary or wages payable to the employee for the purpo
 
 ### 100 Entitlement to weekly compensation depends on claimant's incapacity for employment and vocational independence
 (1) A claimant who has cover and who lodges a claim for weekly compensation—
-  (a) is entitled to receive it if the Corporation determines that the claimant is incapacitated within the meaning of section 103(2) and the claimant is eligible under clause 32 or clause 44 of Schedule 1 for weekly compensation:
+  (a) is entitled to receive it if the Corporation determines that the claimant is incapacitated within the meaning of section 103(2) and the claimant is eligible under clause 32, 44, or 44A of Schedule 1 for weekly compensation:
   (b) is entitled to receive it if the Corporation determines that the claimant is incapacitated within the meaning of section 103(2) and the claimant is eligible under section 210 for weekly compensation:
   (c) is entitled to receive it if the Corporation determines that the claimant is incapacitated within the meaning of section 105(2) and if the claimant is eligible under section 224 or clause 43 of Schedule 1 for weekly compensation:
   (d) is entitled to receive it if the Corporation determines that the claimant is incapacitated within the meaning of section 105(2) and if the claimant is eligible under clause 47 of Schedule 1 for weekly compensation.
+(1A) If a claimant is eligible for weekly compensation under clause 44A of Schedule 1 because of the operation of clause 43 of that schedule, the Corporation must determine whether the claimant is incapacitated within the meaning of section 105(2).
 (2) While a claimant is receiving weekly compensation,—
   (a) section 103 or section 105, as the case may be, continues to apply to the claimant; and
   (b) the Corporation may from time to time determine the claimant's incapacity under section 103 or section 105, as the case may require; and
@@ -1376,10 +1378,11 @@ First week compensation is salary or wages payable to the employee for the purpo
   (a) must consider an assessment undertaken by a medical practitioner or nurse practitioner; and
   (b) may obtain any professional, technical, specialised, or other advice from any person it considers appropriate.
 
-### 103 Corporation to determine incapacity of claimant who, at time of personal injury, was earner or on unpaid parental leave
+### 103 Corporation to determine incapacity of claimant who, at time of personal injury, was earner, on unpaid parental leave, or recuperating organ donor
 (1) The Corporation must determine under this section the incapacity of—
   (a) a claimant who was an earner at the time he or she suffered the personal injury:
-  (b) a claimant who was on unpaid parental leave at the time he or she suffered the personal injury.
+  (b) a claimant who was on unpaid parental leave at the time he or she suffered the personal injury:
+  (c) a claimant who was within a payment period under the Compensation for Live Organ Donors Act 2016 at the time he or she suffered the personal injury.
 (2) The question that the Corporation must determine is whether the claimant is unable, because of his or her personal injury, to engage in employment in which he or she was employed when he or she suffered the personal injury.
 (3) If the answer under subsection (2) is that the claimant is unable to engage in such employment, the claimant is incapacitated for employment.
 (4) The references in subsections (1) and (2) to a personal injury are references to a personal injury for which the person has cover under this Act.
@@ -2612,6 +2615,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (4) The application has no effect in respect of any personal injury suffered before the application is made.
 (5) A person who has cover under this section for any period is entitled to renew his or her cover if he or she does not return to work before that cover period expires.
 (6) A person who is on parental leave within the meaning of the Parental Leave and Employment Protection Act 1987, or who has had an application for parental leave approved under that Act, is regarded as being still in employment for the purposes of subsection (2) and, for the purposes of subsection (3)﻿(c), the person’s weekly earnings are to be calculated as if the period of incapacity was before the commencement of the person’s parental leave.
+(7) A person who is within a payment period under the Compensation for Live Organ Donors Act 2016 (or who is within 1 month of that period ceasing and not otherwise in employment) is regarded as being still in employment for the purposes of subsection (2) and, for the purposes of subsection (3)﻿(c), the person’s weekly earnings are to be calculated as if the period of incapacity was before the commencement of the payment period.
 
 ### 224 Compensation for persons who purchase weekly compensation
 (1) A person who has purchased the right to receive weekly compensation under section 223 is entitled to weekly compensation for loss of potential earning capacity as if that person had earnings at the rate specified in the relevant agreement between the person and the Corporation, and Part 4 and Parts 2 and 4 of Schedule 1 apply accordingly, if the person—
@@ -4873,11 +4877,12 @@ If the Corporation is determining earnings under this Part in relation to a self
 (3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
   (a) any period during which the claimant was entitled to weekly compensation:
   (b) any continuous period of unpaid sick leave, during a period of employment, of more than 1 week:
+  (ba) any period during which the claimant was within a payment period under the Compensation for Live Organ Donors Act 2016:
   (c) any period during which—
     (i) the claimant did not receive earnings as an employee; and
     (ii) the claimant did receive earnings as a self-employed person or as a shareholder-employee; and
     (iii) those earnings ceased before the commencement of the claimant's incapacity:
-  (d) any earnings in respect of any period under paragraph (a), (b), or (c).
+  (d) any earnings in respect of any period under paragraph (a), (b), (ba), or (c).
 (4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)﻿(a), (b), or (c) applies to.
 (5) For the purposes of subclause (3)﻿(c), the Corporation may determine the number of weeks that fairly and reasonably represent the period during which the claimant received earnings as a self-employed person or as a shareholder-employee.
 
@@ -4910,9 +4915,10 @@ If the Corporation is determining earnings under this Part in relation to a self
   (c) for all other claimants, the amount calculated using the following formula:where—
     (a) is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
     (b) is the claimant's earnings as a self-employed person in the relevant year
-    (c) is 52
-    (d) is the number of weeks in the relevant year.
+    (c) is 52 or such smaller number, if an adjustment is required under subclause (3A)
+    (d) is the number of weeks in the relevant year or such smaller number, if an adjustment is required under subclause (3A).
 (3) The amount that applies under this subclause is the amount of minimum weekly earnings as determined under clause 42(3), if the claimant is an earner who is liable to pay the minimum levy set out in regulations made for the purposes of section 168B.
+(3A) The numbers referred to in items c and d of the formula in subclause (2)﻿(c) must be adjusted by deducting any period during which the claimant was within a payment period under the Compensation for Live Organ Donors Act 2016.
 (4) A claimant is eligible for the greater of—
   (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
   (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
@@ -4947,8 +4953,9 @@ If the Corporation is determining earnings under this Part in relation to a self
   (c) for all other claimants, the amount calculated using the following formula:where—
     (a) is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
     (b) is the claimant's earnings as a shareholder-employee in the relevant year
-    (c) is 52
-    (d) is the number of weeks in the relevant year.
+    (c) is 52 or such smaller number, if an adjustment is required under subclause (2A)
+    (d) is the number of weeks in the relevant year or such smaller number, if an adjustment is required under subclause (2A).
+(2A) The numbers referred to in items c and d of the formula in subclause (2)﻿(c) must be adjusted by deducting any period during which the claimant was within a payment period under the Compensation for Live Organ Donors Act 2016.
 (3) A claimant is eligible for the greater of—
   (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
   (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
@@ -5043,6 +5050,29 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) weekly compensation for loss of earnings arising from an entitlement under any other provision of this schedule.
 (6) Parental leave must not be treated as paid leave for the purposes of this clause only because the person may be entitled to a payment in respect of the leave under Part 7A of the Parental Leave and Employment Protection Act 1987.
 
+**Claimant who is recuperating organ donor**
+
+### 44A Weekly earnings if claimant receiving earnings compensation as organ donor immediately before his or her incapacity commenced
+(1) This clause applies to a claimant who is within a payment period under the Compensation for Live Organ Donors Act 2016 immediately before his or her incapacity commenced.
+(2) The claimant’s incapacity is deemed to have commenced on the date on which the payment period started—
+  (a) for the purposes of calculating the claimant’s weekly compensation, if the claimant had earnings immediately before that date; or
+  (b) for the purposes of applying clause 43, if the claimant did not have earnings immediately before that date.
+(3) For the purposes of determining the commencement date of entitlement to compensation for loss of earnings under this Act, the date that falls immediately after the payment period ends is deemed to be the date his or her incapacity commenced.
+(4) Unless the personal injury is a motor vehicle injury, a work-related personal injury, or a treatment injury, payments under this clause come from the Earners’ Account.
+(5) If this clause applies, the claimant is entitled to the greater of the following:
+  (a) weekly compensation for loss of earnings arising from the application of this clause:
+  (b) weekly compensation for loss of earnings arising from an entitlement under any other provision of this schedule.
+
+**Employee who has consecutive periods of unpaid parental leave and recuperation from organ donation**
+
+### 44B Weekly earnings if employee has consecutive periods of unpaid parental leave and earnings compensation as organ donor
+(1) This clause applies if a claimant is an employee and either—
+  (a) clause 44 applies to the claimant and the claimant’s unpaid parental leave is immediately before or after a payment period under the Compensation for Live Organ Donors Act 2016; or
+  (b) clause 44A applies to the claimant and the claimant’s payment period is immediately before or after a period of unpaid parental leave.
+(2) The claimant’s incapacity is deemed to have commenced—
+  (a) on the earlier of the dates described in clauses 44(2) and 44A(2), for the purposes of calculating the claimant’s weekly compensation; and
+  (b) on the later of the dates described in clauses 44(3) and 44A(3), for the purposes of determining the commencement date of entitlement to compensation for loss of earnings.
+
 **Estimated earnings**
 
 ### 45 Interim estimation of weekly earnings that cannot be ascertained
@@ -5109,6 +5139,7 @@ If the Corporation is determining earnings under this Part in relation to a self
     (ii) whether made in New Zealand currency or an overseas currency:
   (b) employment includes employment whether in New Zealand or overseas.
 (5) Payments made in an overseas currency must be treated as having been converted into New Zealand currency at the average rate of foreign exchange offered, at the date of payment, by registered banks in New Zealand.
+(6) In clause 51(2), earnings includes payments of earnings compensation under the Compensation for Live Organ Donors Act 2016.
 
 ### 50 Estimation for abatement purposes of earnings that cannot be ascertained
 (1) This clause applies to a claimant who has—
