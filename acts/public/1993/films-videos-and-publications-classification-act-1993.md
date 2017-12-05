@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-12-05_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -381,7 +381,7 @@ For the purposes of this Act, the classification given to a publication under se
 **Referral of publications by courts**
 
 ### 29 Character of publications arising in court proceedings
-(1) Except as provided in subsections (2) and (3), where in any civil or criminal proceedings before a court (including any proceedings under section 116) a question arises whether any publication—the court shall refer the question to the Classification Office for decision, and the Classification Office shall have exclusive jurisdiction to determine the question.
+(1) Except as provided in subsections (2) and (3), where in any civil or criminal proceedings before a court (including any proceedings under section 116 but not including proceedings under section 67) a question arises whether any publication—the court shall refer the question to the Classification Office for decision, and the Classification Office shall have exclusive jurisdiction to determine the question.
   (a) is objectionable; or
   (b) is objectionable except in any 1 or more of the following circumstances:
     (i) if the availability of the publication is restricted to persons who have attained a specified age:
@@ -607,10 +607,21 @@ The deadline referred to in section 48(1)﻿(b) is,—
 
 **Interim restrictions on review**
 
-### 49 Interim restriction orders
-(1) Any person who is entitled, under section 53(2), to make written submissions to the Board in relation to a publication submitted for review under section 47 may, at any time before the review is completed, apply to the President of the Board for an interim restriction order in respect of the publication to which the review relates, and the President may, if satisfied that it is in the public interest to do so, make such an order accordingly.
-(2) Every application under subsection (1) shall be dealt with as soon as practicable.
-(3) While an interim restriction order is in force, no person who has knowledge of the making of that order shall do any act or thing in relation to the publication to which the order relates that would be an offence against paragraph (c) or paragraph (d) or paragraph (e) of section 123(1) or against section 127 or section 129 if that publication were an objectionable publication.
+### 49 Interim restriction orders on review
+(1) A person who is entitled, under section 53(2), to make written submissions to the Board in relation to a publication submitted for review under section 47 may, at any time before the review is completed, apply to the President of the Board for an interim restriction order in respect of the publication.
+(2) The President must, as soon as practicable,—
+  (a) grant the application, if he or she is satisfied that it is in the public interest to do so; or
+  (b) decline the application.
+(3) If the President grants the application, he or she must make an interim restriction order in respect of the publication that—
+  (a) prohibits the doing of any act or thing in relation to the publication that, if the publication were an objectionable publication, would be an offence against any of the following:
+    (i) section 123(1)﻿(c), (d), or (e):
+    (ii) section 127:
+    (iii) section 129; or
+  (b) restricts the availability of the publication to—
+    (i) persons who have attained the age of 18 years or a specified younger age; or
+    (ii) specified persons or classes of persons; or
+  (c) restricts the use of the publication to 1 or more specified purposes (which may be made in conjunction with an order made under paragraph (b)).
+(4) When determining whether to make an order under subsection (3)﻿(b) or (c), the President need not take into account the matters referred to in sections 3(4)﻿(a) to (f), 3A, and 3B that apply when determining whether a publication is to be classified as a restricted publication.
 
 ### 50 Notification of interim restriction order
 (1) Every interim restriction order shall be published in the Gazette.
@@ -742,10 +753,21 @@ When any party to the appeal notifies the Registrar of the High Court at Welling
 
 **Interim restrictions on appeal**
 
-### 67 Imposition of interim restrictions on appeal
-(1) Any party to an appeal under section 58 may apply on notice to the High Court or a Judge of that court for an interim restriction order in respect of the publication that is the subject of the appeal, and the court or Judge may, if satisfied that it is in the public interest to do so, make such an order accordingly.
-(2) Every application under subsection (1) shall be dealt with as soon as practicable.
-(3) While an interim restriction order is in force, no person who has knowledge of the making of that order shall do any act or thing in relation to the publication to which the order relates that would be an offence against paragraph (c) or paragraph (d) or paragraph (e) of section 123(1) or against section 127 or section 129 if that publication were an objectionable publication.
+### 67 Interim restriction orders on appeal
+(1) A party to an appeal under section 58 may, at any time before the appeal is determined, apply on notice to the High Court or a Judge of that court for an interim restriction order in respect of the publication that is the subject of the appeal.
+(2) The High Court or Judge must, as soon as practicable,—
+  (a) grant the application, if the High Court or Judge is satisfied that it is in the public interest to do so; or
+  (b) decline the application.
+(3) If the High Court or Judge grants the application, the High Court or Judge must make an interim restriction order in respect of the publication that—
+  (a) prohibits the doing of any act or thing in relation to the publication that, if the publication were an objectionable publication, would be an offence against any of the following:
+    (i) section 123(1)﻿(c), (d), or (e):
+    (ii) section 127:
+    (iii) section 129; or
+  (b) restricts the availability of the publication to—
+    (i) persons who have attained the age of 18 years or a specified younger age; or
+    (ii) specified persons or classes of persons; or
+  (c) restricts the use of the publication to 1 or more specified purposes (which may be made in conjunction with an order made under paragraph (b)).
+(4) When determining whether to make an order under subsection (3)﻿(b) or (c), the High Court or Judge need not take into account the matters referred to in sections 3(4)﻿(a) to (f), 3A, and 3B that apply in determining whether a publication is to be classified as a restricted publication.
 
 ### 68 Notification of interim restriction order
 (1) Every interim restriction order shall be published in the Gazette.
@@ -1027,12 +1049,12 @@ The Secretary shall arrange for there to be furnished to the Board such secretar
   (a) an Inspector discovers any person publicly displaying any publication; and
   (b) the Inspector believes, on reasonable grounds,—
     (i) that the publication is a restricted publication or, by virtue of a serial publication order, is to be treated as a restricted publication; and
-    (ii) that the publication is being publicly displayed in contravention of section 130 or section 133,—
+    (ii) that the public display of the publication constitutes an offence under section 130, 133, or 133A,—
 (3) Without limiting section 106, where—the Inspector may seize the poster and deliver it to the Secretary.
   (a) an Inspector discovers any person publicly displaying—relating to a restricted publication or a publication that, by virtue of a serial publication order, is to be treated as a restricted publication; and
     (i) any advertising poster; or
     (ii) any film poster—
-  (b) the Inspector believes, on reasonable grounds, that the poster is being publicly displayed in contravention of section 130 or section 133,—
+  (b) the Inspector believes, on reasonable grounds, that the public display of the poster constitutes an offence under section 130, 133, or 133A,—
 (4) Subject to subsection (5), the Secretary may retain any publication, advertising poster, or film poster delivered to him or her under subsection (1) or subsection (2) or subsection (3), and the publication, advertising poster, or film poster shall subsequently be dealt with in accordance with section 118; and the provisions of that section, with any necessary modifications, shall apply accordingly.
 (5) The Secretary may, at any time, return the publication, advertising poster, or film poster to the person entitled to it, subject to any such conditions relating to compliance with the provisions of this Act with respect to the publication, advertising poster, or film poster as the Secretary may specify.
 
@@ -1345,10 +1367,20 @@ A person may be convicted of exhibiting an objectionable publication if what is 
 
 **Miscellaneous offences**
 
-### 133 Contravention of serial publication order or interim restriction order
-Every person commits an offence and is liable on conviction to a fine not exceeding,—who acts in contravention of, or fails to comply with, section 37(5) or section 37(6) or section 49(3) or section 67(3).
+### 133 Contravention of serial publication order
+(1) A person commits an offence who fails to comply with section 37(5) or (6).
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding,—
   (a) in the case of an individual, $3,000; or
-  (b) in the case of a body corporate, $10,000,—
+  (b) in the case of a body corporate, $10,000.
+
+### 133A Contravention of interim restriction order
+(1) A person commits an offence who, having knowledge of an order made in respect of a publication under section 49(3)﻿(a) or 67(3)﻿(a), fails to comply with that order.
+(2) A person commits an offence who, having knowledge of an order made in respect of a publication under section 49(3)﻿(b) or (c) or 67(3)﻿(b) or (c),—
+  (a) fails to comply with that order; or
+  (b) delivers the publication to any other person with the intention that it be dealt with by any person in contravention of the order.
+(3) A person who commits an offence under subsection (1) or (2) is liable on conviction to a fine not exceeding,—
+  (a) in the case of an individual, $3,000; or
+  (b) in the case of a body corporate, $10,000.
 
 ### 134 Obstruction of Inspector
 Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
@@ -1405,7 +1437,8 @@ No private prosecution (as defined in section 5 of the Criminal Procedure Act 20
   (a) sections 123 to 129 (offences involving objectionable or restricted publications):
   (b) section 131 (offence to possess objectionable publication):
   (c) section 131A (offences relating to possession of objectionable publications and involving knowledge):
-  (d) section 133 (contravention of serial publication order or interim restriction order).
+  (d) section 133 (contravention of serial publication order):
+  (e) section 133A (contravention of interim restriction order).
 
 ### 145 Delegation of powers by Commissioner of Police
 [Repealed]
