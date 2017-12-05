@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2017-10-01_
+_Consolidation as at 2017-12-05_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2202,6 +2202,7 @@ Income
   (d)
   (e) a New Zealand superannuation payment:
   (f) a parental leave payment or preterm baby payment paid under Part 7A of the Parental Leave and Employment Protection Act 1987:
+  (fb) a payment of earnings compensation under the Compensation for Live Organ Donors Act 2016:
   (g) a pension:
   (h) a veteran’s pension:
   (i) a retirement lump sum paid under Part 5, subpart 7 of the Veterans’ Support Act 2014:
@@ -30351,6 +30352,7 @@ Modifications to weekly employment
 (2) For the purposes of subsection (1),—
   (a) a person who is employed in a pay period that is longer than 1 week is treated as undertaking the employment activities to a uniform daily extent for the period:
   (b) a person who is employed becomes incapacitated as described in subsection (3) and is unable to undertake employment in a week in which but for the incapacity they would be employed for the number of hours set out in subsection (1)﻿(a) and (b) is treated as having been employed for the hours referred to:
+  (bb) a person who has a payment period under the Compensation for Live Organ Donors Act 2016 and is employed at the start of the period is treated as being employed during the period for the hours for which the person would have been employed during the period but for the organ donation:
   (c) a person is treated as employed in any week in relation to which the person receives parental leave payments or preterm baby payments under Part 7A of the Parental Leave and Employment Protection Act 1987 for the number of hours that the person would have worked in a week that the person normally worked in their last period of employment before that week:
   (d) a person who receives or will receive weekly compensation from the Accident Compensation Corporation, Veterans' Affairs New Zealand, or both, as a surviving spouse or partner of a deceased claimant is treated as being employed, during the week to which that compensation relates, for the number of hours that the deceased claimant would have been employed for in a week before dying, but for their incapacity. The number of hours under this paragraph are in addition to the person's own hours.
 Incapacity
@@ -35943,6 +35945,7 @@ Meaning
     (i) a bonus, commission, gratuity, overtime pay, or other pay of any kind; and
     (ii) a payment described in subsections (2) to (8); and
     (iii) an accident compensation earnings-related payment; and
+    (iiib) a payment of earnings compensation under the Compensation for Live Organ Donors Act 2016; and
     (iv)
   (c) does not include—
     (i) an amount of exempt income:
