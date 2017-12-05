@@ -1,5 +1,5 @@
 # Residential Tenancies Amendment Act 2016
-_Consolidation as at 2016-06-02_
+_Consolidation as at 2017-12-05_
 
 ### 1 Title
 This Act is the Residential Tenancies Amendment Act 2016.
@@ -7,8 +7,8 @@ This Act is the Residential Tenancies Amendment Act 2016.
 ### 2 Commencement
 (1) This Act, except the provisions referred to in subsections (2) to (4), comes into force on 1 July 2016.
 (2) Sections 3, 5, 15(2), 20, 43, 44(1), and 45 and the Schedule come into force on the day after the date on which this Act receives the Royal assent.
-(3) Sections 6(4), 14(2) and (3), 18(2), and 44(2) come into force on 1 July 2019.
-(4) Sections 4(2) and 14(5) come into force on 1 October 2019.
+(3)
+(4)
 
 ### 3 Principal Act
 This Act amends the Residential Tenancies Act 1986 (the principal Act).
@@ -20,7 +20,7 @@ This Act amends the Residential Tenancies Act 1986 (the principal Act).
   - **income-related rent tenancy** means a tenancy, other than a boarding house tenancy,—
     (a) that commences before 1 July 2016 and in relation to which section 72(1) or 92(1) of the Housing Restructuring and Tenancy Matters Act 1992 applies at the beginning of 1 July 2016; or
     (b) that commences on or after 1 July 2016 and in relation to which section 72(1) or 92(1) of the Housing Restructuring and Tenancy Matters Act 1992 applies at its commencement
-(2) In section 2(1), repeal the definitions of income-related rent tenancy and New Zealand Standard (as inserted by subsection (1) of this section).
+(2)
 (3) In section 2(1), replace the definition of work order with:
   - **work order** —
     (a) means an order by the Tribunal to carry out any repairs to any premises or to any chattels, or to rectify any deficiency in the performance of any services, by doing such work or attending to such matters (including the replacement of chattels) as may be specified in the order; and
@@ -52,8 +52,7 @@ After section 2, insert:Transitional, savings, and related provisions
   (1F) The landlord commits an unlawful act if—
     (a) the landlord fails to comply with subsection (1A); or
     (b) the landlord’s statement under subsection (1A) includes anything that the landlord knows to be false or misleading.
-(4) Replace section 13A(1A)﻿(c) (as inserted by subsection (3) of this section) with:
-  (c) if requirements in respect of insulation are imposed on the landlord as referred to in section 45(1)﻿(bb) or 66I(1)﻿(bb), an explanation of how the landlord will comply with those requirements.
+(4)
 
 ### 7 Section 15 amended (Notification of successor to landlord or tenant)
 After section 15(1), insert:
@@ -103,15 +102,15 @@ After section 40(1)﻿(c), insert:
     (i) for the prohibition of any insulation (or any material or other item related to insulation) of a specified description; or
     (ii) that any work, or other activity, of a specified description that is carried out during the tenancy must be carried out in accordance with a specified New Zealand Standard or a specified provision of a New Zealand Standard; or
     (iii) that specified requirements in relation to thermal resistance (as defined in the regulations) must be met where any work, or other activity, of a specified description is carried out during the tenancy; and
-(2) In section 45(1)﻿(bb) (as inserted by subsection (1) of this section), delete if the tenancy is an income-related rent tenancy,.
-(3) Repeal section 45(1)﻿(bc) (as inserted by subsection (1) of this section).
+(2)
+(3)
 (4) After section 45(1A), insert:
   (1B) The landlord in relation to an income-related rent tenancy that commences on or after 1 July 2016 but before 1 July 2019 is not required to comply with the requirements imposed on the landlord as referred to in subsection (1)﻿(bb) until the 90th day after the date of commencement of the tenancy.
   (1C) Subsection (1B) does not apply to a requirement that provides (generally or in specified circumstances)—
     (a) for the prohibition of any insulation (or any material or other item related to insulation) of a specified description; or
     (b) that any work, or other activity, of a specified description that is carried out during the tenancy must be carried out in accordance with a specified New Zealand Standard or a specified provision of a New Zealand Standard; or
     (c) that specified requirements in relation to thermal resistance (as defined in the regulations) must be met where any work, or other activity, of a specified description is carried out during the tenancy.
-(5) Repeal section 45(1B) and (1C) (as inserted by subsection (4) of this section).
+(5)
 
 ### 15 Section 48 amended (Landlord’s right of entry)
 (1) In section 48(1)﻿(b), replace subsection (2) or subsection (3) with subsections (2) to (3).
@@ -141,8 +140,7 @@ After section 61(5), insert:
     (i) for the prohibition of any insulation (or any material or other item related to insulation) of a specified description; or
     (ii) that any work, or other activity, of a specified description that is carried out during the tenancy must be carried out in accordance with a specified New Zealand Standard or a specified provision of a New Zealand Standard; or
     (iii) that specified requirements in relation to thermal resistance (as defined in the regulations) must be met where any work, or other activity, of a specified description is carried out during the tenancy; and
-(2) Replace section 66I(1)﻿(bb) (as inserted by subsection (1) of this section) with:
-  (bb) comply with all requirements in respect of insulation imposed on the landlord by regulations made under section 138B; and
+(2)
 
 ### 19 Section 66K amended (Obligations of tenant)
 After section 66K(1)﻿(c), insert:
@@ -418,7 +416,7 @@ After section 138, insert:Regulations in respect of smoke alarms
     (a) requirements that insulation (or any material or other item related to insulation) be installed in connection with ceilings, floors, or walls that are at premises:
     (b) requirements about the inspection, maintenance, or replacement of insulation (or any material or other item related to insulation) that is installed in connection with ceilings, floors, or walls that are at premises:
     (c) requirements about the quantities, locations, condition, types, or technical specifications of insulation (or any material or other item related to insulation) that is installed in connection with ceilings, floors, or walls that are at premises and requirements about methods of installation.
-(2) In section 138B(1) (as inserted by subsection (1) of this section), delete or (bc).
+(2)
 
 ## Part 2 — Amendments to schedules of principal Act
 
@@ -426,7 +424,7 @@ After section 138, insert:Regulations in respect of smoke alarms
 Insert the Schedule 1AA set out in the Schedule of this Act as the first schedule after the last section of the principal Act.
 
 ### 46 Schedule 1A amended
-(1) In Schedule 1A, insert in their appropriate numerical order:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 1A of the Residential Tenancies Act 1986 and should be read with that table to provide understanding of the context.13A(1F) (Non-compliance with section 13A(1A), etc)50030(2)(Landlord failing to keep records)20048(4)﻿(b)(Tenant failing, without reasonable excuse, to allow landlord to enter upon premises in circumstances where landlord entitled to enter)1,00054(3)(Retaliatory notice of termination)4,000123A(4)(Landlord failing to provide required documents to chief executive)1,000
+(1) In Schedule 1A, insert in their appropriate numerical order:The following table is small in size and has 3 columns. This table is an amendment to the table in Schedule 1A of the Residential Tenancies Act 1986 and should be read with that table to provide understanding of the context.13A(1F)(Non-compliance with section 13A(1A), etc)50030(2)(Landlord failing to keep records)20048(4)﻿(b)(Tenant failing, without reasonable excuse, to allow landlord to enter upon premises in circumstances where landlord entitled to enter)1,00054(3)(Retaliatory notice of termination)4,000123A(4)(Landlord failing to provide required documents to chief executive)1,000
 (2) In Schedule 1A, item relating to section 45(1A), after maintenance,, insert smoke alarms, insulation,.
 (3) In Schedule 1A, item relating to section 45(1A), replace 3,000 with 4,000.
 (4) In Schedule 1A, item relating to section 66I(4), after maintenance,, insert smoke alarms, insulation,.
