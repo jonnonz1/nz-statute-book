@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-12-16_
 
 > Title
 
@@ -1467,10 +1467,14 @@ Without limiting section 46I, the following are examples of the kind of terms th
   (a) to supply to the Commission, by writing signed by that person or, in the case of a body corporate, by a director or competent employee or agent of the body corporate, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
   (b) to supply to the Commission, or to a person specified in the notice acting on its behalf in accordance with the notice, any document or class of documents specified in the notice; or
   (c) to appear before the Commission at a time and place specified in the notice to give evidence, either orally or in writing, and supply any document or class of documents specified in the notice.
+(1A) A person may appear before the Commission under subsection (1)﻿(c) by audio link or audiovisual link if the Commission and the person agree.
 (2) Every person who is required to supply information or documents to the Commission has the same privileges in relation to the supply of the information or documents as witnesses have in any court.
 (3) No person is excused from complying with a requirement to supply information or documents, or to appear before the Commission, on the ground that to do so might tend to incriminate the person.
 (4) A statement made by a person in answer to a question put by or before the Commission is not admissible against the person in criminal proceedings other than proceedings for a charge of perjury against the maker of the statement or in proceedings on a charge of an offence against section 47J.
 (5) Subsections (3) and (4) prevail over subsection (2).
+(6) In this section,—
+  - **audio link** means facilities (for example, telephone facilities) that enable audio communication between the Commission and a person when either or both of them are not physically present at the place specified in the notice
+  - **audiovisual link** means facilities that enable audio and visual communication between the Commission and a person when either or both of them are not physically present at the place specified in the notice.
 
 ### 47H Notices
 (1) Any notice given by the Commission under section 47G is sufficiently given if—
@@ -1489,10 +1493,12 @@ Without limiting section 46I, the following are examples of the kind of terms th
   (b) leaving it at—
     (i) his or her usual or last known place of residence or business; or
     (ii) at the address specified by him or her in any notice, application, or other document made, given, or tendered to the Commission under this Act; or
-  (c) posting it by letter addressed to him or her at that place of residence or business or at that address.
-(2) If any notice is sent to any person by registered letter, then,—
-  (a) unless the contrary is proved, the notice must be treated as having been delivered to him or her when it would have been delivered in the ordinary course of post; and
-  (b) in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
+  (c) posting it by letter addressed to him or her at that place of residence or business or at that address; or
+  (d) emailing it to the person at an email address that is used by the person.
+(2) If any notice is sent to any person by a service that records delivery, then,—
+  (a) unless the contrary is proved, the notice must be treated as having been delivered to him or her when it would have been delivered in the ordinary course of business for that service; and
+  (b) in proving the delivery, it is sufficient to prove that the notice was properly addressed and provided to the service.
+(2A) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 (3) If the notice is required to be served on an association or body of persons,—
   (a) the notice may be served on the secretary, executive officer, manager, or other officer holding a similar position in the association or body; and
   (b) service on the association or body must, unless otherwise directed by the Commission, be treated as service on all persons who are members of the association or body, or who are represented on the association or body by those members.
