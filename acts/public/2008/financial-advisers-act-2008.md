@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-12-16_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -1535,11 +1535,13 @@ The functions of the disciplinary committee are to—
 ### 110 Serving of summons
 (1) A summons may be served—
   (a) by delivering it personally to the person summoned; or
-  (b) by posting it to the person summoned at that person's usual place of residence.
+  (b) by posting it to the person summoned at that person's usual place of residence; or
+  (c) by emailing it to the person summoned at an email address that is used by the person summoned.
 (2) A summons must,—
   (a) if it is to be served under subsection (1)﻿(a), be served at least 48 hours before the attendance of the witness is required:
-  (b) if it is to be served under subsection (1)﻿(b), be served at least 10 days before the attendance of the witness is required.
+  (b) if it is to be served under subsection (1)﻿(b) or (c), be served at least 10 days before the attendance of the witness is required.
 (3) A summons that is posted is treated as having been served when it would have been delivered in the ordinary course of post.
+(4) In the absence of proof to the contrary, a summons that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the summons was emailed, it is sufficient to prove that the summons was properly addressed and sent to the email address.
 
 ### 111 Witnesses' fees, allowances, and expenses
 (1) A witness appearing before the disciplinary committee under a summons is entitled to be paid witnesses' fees, allowances, and expenses in accordance with the scales prescribed by regulations under the Criminal Procedure Act 2011.
