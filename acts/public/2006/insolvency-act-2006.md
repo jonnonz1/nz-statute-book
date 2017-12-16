@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-12-16_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -12,6 +12,8 @@ This Act comes into force on a date to be appointed by the Governor-General by O
 ### 3 Interpretation
 In this Part and Parts 2 to 7, unless the context otherwise requires,—
   - **Assignee** or means the Official Assignee for New Zealand, the Deputy Official Assignee for New Zealand, and any other Official Assignee or Deputy Assignee appointed under this Act
+  - **audio link** means facilities (for example, telephone facilities) that enable audio communication between people in different places
+  - **audiovisual link** means facilities that enable both audio and visual communication between people in different places
   - **bankrupt** means a person who has been adjudicated bankrupt (see section 10)
   - **charge** includes a right or interest in relation to property owned by a debtor, by virtue of which a creditor of the debtor is entitled to claim payment in priority to other creditors; but does not include a charge under a charging order issued by a court in favour of a judgment creditor
   - **company** means any company within the meaning of the Companies Act 1993; and includes—
@@ -974,11 +976,12 @@ The bankrupt must as soon as practicable after acquisition notify the Assignee o
 (2) In subsection (1), relevant documents means all accounting records, papers, deeds, instruments, and other documents relating to the bankrupt's estate.
 
 ### 143 Bankrupt must give Assignee information relating to property
-The bankrupt must,—
+(1) The bankrupt must,—
   (a) as soon as practicable after adjudication, give the Assignee a complete and accurate list of the bankrupt's property and of the bankrupt's creditors and debtors, and update the lists as necessary; and
   (b) give the Assignee any other information relating to the bankrupt's property that the Assignee requires; and
   (c) attend before the Assignee when required by the Assignee; and
   (d) verify any statement by statutory declaration when required by the Assignee.
+(2) The bankrupt may attend before the Assignee for the purposes of subsection (1)﻿(c) by audio link or audiovisual link if the Assignee and the bankrupt agree.
 
 ### 144 Bankrupt must give Assignee information relating to income and expenditure
 When the Assignee requires it, the bankrupt must provide the Assignee with details of his or her income and expenditure since adjudication.
@@ -1138,6 +1141,7 @@ The Assignee may make an allowance out of the property of the bankrupt to the ba
 (1) The Assignee may at any time, before or after a bankrupt's discharge,—
   (a) summon any of the persons listed in subsection (2) to appear before the Assignee, another Assignee, or a District Court Judge to be examined on oath in relation to the bankrupt's property, conduct, or dealings; and
   (b) require that person to produce and surrender to the Assignee or District Court Judge before whom that person appears any document in that person's possession or control that relates to the bankrupt's property, conduct, or dealings.
+(1A) A person who is summoned by the Assignee for examination may appear before the Assignee by audio link or audiovisual link if the Assignee and the person agree.
 (2) The persons referred to in subsection (1) are—
   (a) the bankrupt:
   (b) the bankrupt's spouse:
@@ -1540,14 +1544,16 @@ The title of a purchaser of the bankrupt's property from the Assignee under a do
 **Notice by Assignee**
 
 ### 223 Means of giving notice to creditors
-Any requirement under this Act that the Assignee give notice to a creditor is satisfied,—
+(1) Any requirement under this Act that the Assignee give notice to a creditor is satisfied,—
   (a) in the case of a natural person, if the notice is—
     (i) delivered to that person; or
     (ii) posted to that person's address or delivered to a box at a document exchange that that person is using at the time; or
-    (iii) sent by facsimile machine to a telephone number used by that person for the transmission of documents by facsimile:
+    (iii) sent by facsimile machine to a telephone number used by that person for the transmission of documents by facsimile; or
+    (iv) emailed to the person at an email address that is used by that person:
   (b) in the case of a company, if the notice is sent in accordance with section 388 of the Companies Act 1993:
   (c) in the case of an overseas company, if the notice is sent in accordance with section 390 of the Companies Act 1993:
   (d) in the case of a body corporate that is not a company or an overseas company, if the notice is sent in accordance with section 391(3) of the Companies Act 1993.
+(2) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 
 **Assignee's decisions**
 
