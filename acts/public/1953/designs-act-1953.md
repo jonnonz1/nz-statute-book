@@ -1,5 +1,5 @@
 # Designs Act 1953
-_Consolidation as at 2016-05-13_
+_Consolidation as at 2017-12-16_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
@@ -498,9 +498,12 @@ Where by this Act any act has to be done by or to any person in connection with 
 (1) There shall be paid in respect of the registration of designs and applications therefor, and in respect of other matters relating to designs arising under this Act, such fees as may from time to time be prescribed by regulations made under this Act, and all such fees shall be paid into a Departmental Bank Account.
 (2) Any sum paid to the Commissioner by mistake, or any sum the payment of which is not required by the regulations made under this Act, may be refunded by the Commissioner, and all moneys so refunded shall be paid out of public money without further appropriation than this Act.
 
-### 48 Service of notices, etc, by post
-(1) Any notice required or authorized to be given by or under this Act, and any application or other document so authorized or required to be made or filed, may be given, made, or filed by sending it by post in a letter addressed to the person concerned at his usual or last known address.
-(2) Where any notice is sent by the Commissioner to any person by post as aforesaid, the notice shall be deemed to have been given at the time when the letter containing it would have been delivered in the ordinary course of post.
+### 48 Service of notices
+(1) A notice, an application, or any other document may be given to, made to, or filed with a person by—
+  (a) sending it by post addressed to the person at the person’s usual or last known address; or
+  (b) emailing it to the person at an email address that is used by the person.
+(2) A notice posted to a person by the Commissioner must be treated as received by the person when it would have been delivered in the ordinary course of post.
+(3) In the absence of proof to the contrary, a notice emailed to a person by the Commissioner must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that it was properly addressed and sent to the email address.
 
 ### 49 Annual report
 [Repealed]
