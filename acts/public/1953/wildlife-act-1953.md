@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2017-03-13_
+_Consolidation as at 2017-12-16_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -12,7 +12,7 @@ _Consolidation as at 2017-03-13_
   - **activity** includes a trade, business, or occupation
   - **animal** means any mammal (not being a domestic animal or a rabbit or a hare or a seal or other marine mammal), any bird (not being a domestic bird), any reptile, or any amphibian; and includes any terrestrial or freshwater invertebrate declared to be an animal under section 7B and any marine species declared to be an animal under section 7BA; and also includes the dead body or any part of the dead body of any animal
   - **aquatic life** means any species of plant or animal life which, at any time in the life history of the species, must inhabit water; and includes seabirds (whether or not in an aquatic environment)
-  - **associated products** means products made in association with game bird habitat stamps as part of the game bird habitat stamp programme
+  - **associated products** means goods or services produced or supplied in association with game bird habitat stamps as part of the game bird habitat stamp programme
   - **bird** means any bird, whether native, introduced, or imported, or that has migrated to New Zealand or has arrived in New Zealand and become established there; but does not include any domestic bird
   - **buy** includes barter, exchange for consideration, offer to buy, or attempt to buy
   - **close season** , with respect to any game, means any period during which the hunting or killing of that game is not expressly permitted, either generally or in any specified district or place
@@ -52,8 +52,9 @@ _Consolidation as at 2017-03-13_
       (ii) any operation in support of or in preparation for any activities described in this definition
   - **fishing-related mortality** means the accidental death or incidental death of any protected species that occurs in the course of fishing
   - **game** means all animals and game birds for the time being specified in Schedule 1
-  - **game bird habitat stamp** means a stamp in a form approved by the Minister under section 19A
+  - **game bird habitat stamp** means a stamp or mark in a form approved by the Minister under section 19A
   - **game hunting guide** means a person whose services are actively promoted or advertised for hire or reward with the express purpose of organising and assisting persons to undertake game hunting
+  - **game licence** means a licence to hunt or kill game issued by the Department or a Fish and Game Council under regulations made under this Act
   - **human-induced mortality** means the death of any marine wildlife that can be attributed directly or indirectly to any human activity
   - **hunt or kill** , in relation to any wildlife, includes the hunting, killing, taking, trapping, or capturing of any wildlife by any means; and also includes pursuing, disturbing, or molesting any wildlife, taking or using a firearm, dog, or like method to hunt or kill wildlife, whether this results in killing or capturing or not; and also includes every attempt to hunt or kill wildlife and every act of assistance of any other person to hunt or kill wildlife
   - **lease** —and has a corresponding meaning
@@ -72,7 +73,6 @@ _Consolidation as at 2017-03-13_
       (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under any enactment relating to wildlife that was passed before the commencement of section 2 of the Wildlife Amendment Act 1996; and
       (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under this Act before the date of commencement of the said section 2 or issued under any other enactment relating to wildlife that was passed before that date; and
       (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a)) and issued under this Act before the commencement of the said section 2;—
-  - **licence** means any licence to hunt or kill game issued by a Fish and Game Council under regulations made under this Act
   - **marine species** means any species inhabiting or found in or on the sea or foreshore
   - **marine wildlife** means any marine species, or individual of a species, defined as wildlife under this Act
   - **Minister** means the Minister of Conservation
@@ -171,7 +171,7 @@ The wildlife for the time being specified in Schedule 1 is hereby declared to be
   (c) any wildlife for the time being specified in any schedule of this Act to cease to be included in any schedule of this Act, in which case the wildlife shall be deemed to be absolutely protected under this Act:
   (d) any species of animal to cease to be wildlife for the purposes of this Act.
 (2) Any Order in Council made under the authority of subsection (1) may be expressed to operate throughout New Zealand or in such part or parts of New Zealand and for such period or periods as may be specified in the Order in Council.
-(3) Every Order in Council made under the authority of subsection (1) shall have effect according to its tenor, and in particular may provide in the case of any wildlife declared to be game under that subsection for vesting in the Department the control of that game in any area that does not form part of an area under the jurisdiction of a Fish and Game Council, for the issue of licences to hunt or kill any such wildlife, and for payment to a Crown Bank Account of any fees in respect of those licences.
+(3) Every Order in Council made under the authority of subsection (1) shall have effect according to its tenor, and in particular may provide in the case of any wildlife declared to be game under that subsection for vesting in the Department the control of that game in any area that does not form part of an area under the jurisdiction of a Fish and Game Council, for the issue of game licences to hunt or kill any such wildlife, and for payment to a Crown Bank Account of any fees in respect of those game licences.
 
 **Wildlife sanctuaries**
 
@@ -376,8 +376,8 @@ In determining the maximum allowable level of fishing-related mortality for thre
 (2) Every person who hunts or kills game, or during any open season has in his or her possession any game, otherwise than in terms of a notification, commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
 (3) In any prosecution for an offence that the defendant has in his or her possession a number of game in excess of the number specified in a notification, it is a defence if the defendant proves that the excess game were taken by some other person or persons and all the game in the possession of the defendant have affixed or tied to the game a label on which the following particulars are legibly written:
   (a) the names and addresses of the persons by whom the game were taken; and
-  (b) the numbers of the licences to hunt or kill game held by those persons; and
-  (c) the name of the Fish and Game Council by which those licences were issued; and
+  (b) the numbers of the game licences held by those persons; and
+  (c) the name of the Fish and Game Council by which those game licences were issued; and
   (d) the date or dates on which the game were taken.
 
 ### 17 Hunting or killing in game areas
@@ -428,9 +428,9 @@ In determining the maximum allowable level of fishing-related mortality for thre
   - **vessel** includes any launch, boat, canoe, punt, or other similar craft, whether propelled by mechanical power or not.
 
 ### 19 Licence to hunt or kill game
-(1) Except as provided in subsection (3), every person who hunts or kills game of any species during an open season in any area, unless that person is the holder of a licence under this Act to hunt or kill game of that species available in that area during that season, commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
+(1) Except as provided in subsection (3), every person who hunts or kills game of any species during an open season in any area, unless that person is the holder of a game licence under this Act to hunt or kill game of that species available in that area during that season, commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(3).
 (2)
-(3) Notwithstanding anything in the foregoing provisions of this section, the occupier of any land, and the wife, husband, civil union partner, or de facto partner and any one son or daughter of the occupier, may, during an open season, hunt or kill on that land without a licence (but subject to all other restrictions imposed by or under this Act) any game that may lawfully be hunted or killed under a licence in the district within the boundaries of which that land is situated.
+(3) Notwithstanding anything in the foregoing provisions of this section, the occupier of any land, and the wife, husband, civil union partner, or de facto partner and any one son or daughter of the occupier, may, during an open season, hunt or kill on that land without a game licence (but subject to all other restrictions imposed by or under this Act) any game that may lawfully be hunted or killed under a game licence in the district within the boundaries of which that land is situated.
 (4) In subsection (3) the term occupier, in relation to any land, means—
   (a) the person whose permanent and principal or only place of residence is on the land, if he resides on the land by virtue of the fact that he is—
     (i) the owner of the fee simple of the land; or
@@ -439,23 +439,23 @@ In determining the maximum allowable level of fishing-related mortality for thre
     (iv) the sharemilker under a sharemilking agreement entered into with such an owner who does not himself personally reside on the land:
   (b) where there are several such persons, such one of them as is, by notice in writing signed by all of them and delivered to the Fish and Game Council for the area concerned, appointed to be the occupier for the purposes of that subsection. Every such appointment shall continue in force during the whole of the open season in respect of which it is made and shall lapse at the end of that season.
 (4A) In subsection (3) the term occupier, in relation to any land, does not include a person appointed under the Conservation Act 1987 to be the manager of a marginal strip.
-(5) On production to the Fish and Game Council of the appointment referred to in paragraph (b) of subsection (4), the Fish and Game Council shall endorse on the appointment a certificate that it has been so produced and shall return it to the person appointed, who shall, in any circumstances where a licence under this Act to hunt or kill game is required, produce that appointment so endorsed to any authorised person (as defined in subsection (3) of section 61) demanding its production, and if he fails to do so he commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(1).
+(5) On production to the Fish and Game Council of the appointment referred to in subsection (4)﻿(b), the Fish and Game Council shall endorse on the appointment a certificate that it has been so produced and shall return it to the person appointed, who shall, in any circumstances where a game licence is required, produce that appointment so endorsed to any authorised person (as defined in section 61(3)) demanding its production, and if he fails to do so he commits an offence against this Act and is liable on conviction to the penalty set out in section 67E(1).
 (6) Where a person resides on land that is farmed in conjunction with any other land, he shall be deemed for the purposes of subsection (4) to reside on that other land also.
 
 ### 19A Game bird habitat stamp
-(1) In any notification of an open season given under section 15, the Minister may require that a game bird habitat stamp be affixed to every licence to hunt or kill game.
+(1) In any notification of an open season given under section 15, the Minister may require that a game bird habitat stamp be displayed on every game licence.
 (2) A game bird habitat stamp shall—
   (a) be in a form—
     (i) approved by the Minister on the recommendation of the New Zealand Fish and Game Council made after having regard to the views expressed by Fish and Game Councils and the New Zealand Game Bird Habitat Trust Board; and
     (ii) published in the Gazette; and
-  (b) if the stamp is being obtained for the purpose of affixing it to a licence to hunt or kill game, be obtained at the same time as the licence is obtained.
-(3) The prescribed fee shall be payable in respect of every game bird habitat stamp supplied in respect of a licence to hunt or kill game.
+  (b) if the stamp is being obtained for the purpose of displaying it on a game licence, be obtained at the same time as the licence is obtained.
+(3) The prescribed fee shall be payable in respect of every game bird habitat stamp supplied in respect of a game licence.
 
 ### 20 Limitation of licence
 [Repealed]
 
-### 21 Holder of licence not to enter on land without consent
-(1) Except as otherwise expressly provided in this Act, or in any Proclamation or Order in Council or notice pursuant thereto, nothing in any licence or other authority under this Act shall authorise the holder to enter upon or to hunt or kill game on any land without the consent of the occupier of the land.
+### 21 Holder of game licence not to enter on land without consent
+(1) Except as otherwise expressly provided in this Act, or in any Proclamation or Order in Council or notice pursuant thereto, nothing in any game licence or other authority under this Act shall authorise the holder to enter upon or to hunt or kill game on any land without the consent of the occupier of the land.
 (2) In subsection (1), the term occupier includes:
   (a) in the case of any reserve within the meaning of the Reserves Act 1977, the Director-General or, as the case may require, the administering body:
   (b) in the case of any land actually and exclusively used by any Fish and Game Council for the purposes of this Act, that Fish and Game Council:
@@ -705,8 +705,8 @@ The Board shall have the following functions:
   (l) annually—
     (i) to recommend to the New Zealand Fish and Game Council the game bird or other wildlife species to be depicted on the following year's game bird habitat stamp:
     (ii) to appoint, or select by competition, an artist to produce the stamp artwork of the species approved by the New Zealand Fish and Game Council:
-  (m) to liaise with the New Zealand Fish and Game Council, or individual Fish and Game Councils, as the case may be, to have provision on licences for the affixing of a game bird habitat stamp:
-  (n) to co-ordinate with the New Zealand Fish and Game Council the production of game bird habitat stamps and their affixing to licences:
+  (m) to liaise with the New Zealand Fish and Game Council, or individual Fish and Game Councils, as the case may be, to have provision on game licences for the display of a game bird habitat stamp:
+  (n) to co-ordinate with the New Zealand Fish and Game Council the production of game bird habitat stamps and their display on game licences:
   (o) to provide regular reports to the New Zealand Fish and Game Council, Fish and Game Councils, the Department of Conservation, Ducks Unlimited New Zealand Incorporated, and other similar interested persons or organisations.
 
 ### 44E Powers of Board
@@ -874,14 +874,14 @@ A person who does any act in pursuance or intended pursuance of any of the funct
 
 ### 61 Person in pursuit of wildlife to comply with demand by authorised officer
 (1) In any prosecution for an offence against this Act or against any regulations under this Act, proof that any person found in any area where any species of wildlife is usually prevalent had with him or under his control any firearm, net, trap, decoy, or other instrument or device capable of being used for the purpose of hunting or killing any such species shall be evidence from which the court may infer that that person was in pursuit of that species.
-(2) Every such person shall, in any circumstances where a licence under this Act to hunt or kill that species is required, produce his licence to any authorised person demanding its production, and if he fails to do so he commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
+(2) Every such person shall, in any circumstances where a game licence or other licence or authority under this Act to hunt or kill that species is required, produce his game licence or other licence or authority to any authorised person demanding its production, and if he fails to do so he commits an offence against this Act and is liable on conviction to the penalty set out in section 67F(1).
 (3) For the purposes of subsection (2) the term authorised person means—
   (a) any Justice:
   (b) any ranger:
   (c)
   (d) the occupier of the land on which the person is found in pursuit of or in possession of wildlife:
   (e) any person duly authorised in writing by the Permanent Head of the Department of State or by the local authority controlling the land on which the person is found in pursuit of or in possession of wildlife:
-  (f) any holder of a licence to hunt or kill wildlife issued under this Act:
+  (f) any holder of a game licence or other licence or authority to hunt or kill wildlife issued under this Act:
   (g) any other person duly authorised in writing by the Director-General.
 (4) In addition to the powers contained in subsection (2) or in section 66, every authorised person as defined in paragraph (b), paragraph (d), or paragraph (e) of subsection (3) may demand production of all or any wildlife (whether alive or dead) and all or any skins, feathers, or eggs of any wildlife in possession of any person referred to in subsection (1), and of all or any nets, traps, firearms, ammunition, boats, vehicles, engines, instruments, appliances, and devices that are being used or are intended to be used or have been used for the purpose of hunting or killing any wildlife or that he reasonably believes to be so being used or to be intended to be so used or to have been so used, and of any bag, container, or other article (including any coat or other similar article of clothing) that is being used for the purpose of carrying any wildlife (whether alive or dead) or that he reasonably believes to have been so used or to be intended to be so used.
 (5) Any authorised person referred to in subsection (4) may exercise in respect of anything produced to him pursuant to that subsection the powers of search and seizure conferred on rangers by section 39.
@@ -1031,7 +1031,7 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (d) section 17(3) (which relates to hunting or killing game in a designated area where there are artificially formed waters):
   (e) section 17(6) (which relates to hunting or killing game where a person knows that food has been placed or there are artificially formed waters):
   (f) section 18(1A) (which relates to breaching restrictions on the taking of game):
-  (g) section 19(1) (which relates to hunting or killing game without a licence):
+  (g) section 19(1) (which relates to hunting or killing game without a game licence):
   (h) section 22(1) (which relates to shooting at or attempting to shoot at a game bird not in flight):
   (i) section 63(1A)﻿(c) (which relates to hunting, killing, buying, or selling game, or robbing or disturbing the nest of game):
   (j) section 65(2)﻿(c) (which relates to receiving game taken without authority):
@@ -1166,9 +1166,9 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 ### 72 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make such regulations as he considers necessary or expedient for the protection or control of wildlife or for the due administration of this Act.
 (2) Without limiting the general power to make regulations conferred by subsection (1), it is hereby declared that regulations may be made under that subsection for all or any of the following purposes:
-  (a) prescribing the forms and classes of licences to hunt or kill game, and licences to operate as game hunting guides, to be issued under this Act and the fees to be paid therefor, and providing for the issue of those licences and for the disposal of fees for those licences and of fines recovered under this Act:
-  (b) prescribing the scope and effect of licences to hunt or kill game, and licences to operate as game hunting guides, issued under this Act or of any specified class of licences, and providing for licences issued in respect of any district to be available in any other district or districts or in all districts:
-  (c) providing for the revocation of licences to hunt or kill game, and licences to operate as game hunting guides, and for the refusal of the issue of licences in certain cases:
+  (a) prescribing the forms and classes of game licences, and licences to operate as game hunting guides, to be issued under this Act and the fees to be paid therefor, and providing for the issue of those licences and for the disposal of fees for those licences and of fines recovered under this Act:
+  (b) prescribing the scope and effect of game licences, and licences to operate as game hunting guides, issued under this Act or of any specified class of licences, and providing for licences issued in respect of any district to be available in any other district or districts or in all districts:
+  (c) providing for the revocation of game licences, and licences to operate as game hunting guides, and for the refusal of the issue of licences in certain cases:
   (d) providing for the control of wildlife refuges and closed game areas under this Act, for the protection and wellbeing of any wildlife in wildlife refuges and closed game areas, and, in particular, for the control of access to wildlife refuges and closed game areas and for the prohibition or restriction of the use in wildlife refuges and closed game areas of vehicles or vessels or boats of any description, whether propelled by mechanical power or not, or of aircraft:
   (e) providing for the issue and regulating the use of marks of identification to be affixed to any preserved specimens of wildlife or any part thereof taken pursuant to a licence or other authority under this Act and retained for any purpose:
   (f) regulating, restricting, or imposing conditions on the freezing or canning or otherwise preserving of any game and the keeping in any freezing chamber or cool store or the possession thereof when frozen, canned, or otherwise preserved; and providing for the inspection of any freezing chamber, refrigerating works, canneries, or public or privately owned canning plants, and any premises (not being a dwellinghouse) where any game is frozen, canned or otherwise preserved, treated, dressed, or stored:
@@ -1203,10 +1203,10 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 (2B) Without limiting the power to make regulations under subsections (1), (2), and (2A), the Governor-General may from time to time, by Order in Council, make regulations prescribing the scope and effect of licences to farm, breed, or sell, or capture or dispose of or convey or keep in captivity for the purposes of farming, breeding, or selling, any wildlife specified in Schedule 8, and any fees to be paid therefor, and providing for the issue of those licences and for the disposal of any fees for those licences.
 (3) Regulations made under this section may apply generally throughout New Zealand or within any specified district or in any specified part or parts thereof.
 (3A) Notwithstanding anything in section 72(1) or (2), the Minister may by notice in the Gazette,—
-  (a) fix the forms and classes of licences to hunt or kill game:
-  (b) fix the scope and effect of licences or of any specified class of licences to hunt or kill game:
-  (c) provide for the licences issued in respect of any district for hunting or killing game to be available in any other district or districts or in all districts:
-  (d) fix the fees payable for any licence to hunt or kill game:
+  (a) fix the forms (including electronic forms) and classes of game licences:
+  (b) fix the scope and effect of game licences or of any specified class of game licences:
+  (c) provide for the game licences issued in respect of any district to be available in any other district or districts or in all districts:
+  (d) fix the fees payable for any game licence:
   (e) fix the fees payable in respect of game bird habitat stamps, the basis on which such fees are payable, and the persons or bodies to whom such fees are payable.
 (3B) A notice in the Gazette made under subsection (3A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (4)
