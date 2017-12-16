@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2017-12-16_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -210,7 +210,12 @@ An acknowledgment of the registration of a society or branch under section 17 sh
 On being satisfied that any amendment of the rules of a registered society or branch complies with and is not contrary to the provisions of this Part, the Registrar shall issue to the society or branch, in respect of that amendment, an acknowledgment of registration which shall be conclusive evidence that the amendment is duly registered.
 
 ### 26 Amendment of rules by Registrar
-(1) Without limiting the responsibilities of any registered society or branch to comply with the provisions of this Act, the Registrar may, if he thinks the rules of a registered society or branch should be amended to comply with any provision of this Act, by notice in writing served personally or by post upon the society or branch, require it within the period specified in the notice to amend the rules in the manner so specified or otherwise in a manner approved by the Registrar.
+(1) Without limiting the responsibilities of any registered society or branch to comply with the provisions of this Act, the Registrar may, if he thinks the rules of a registered society or branch should be amended to comply with any provision of this Act, by notice in writing, require the society or branch within the period specified in the notice to amend the rules in the manner so specified or otherwise in a manner approved by the Registrar.
+(1A) A notice under this section may be served on a society or branch by—
+  (a) delivering it personally to the society or branch; or
+  (b) sending it by post to the usual or last known address of the society or branch; or
+  (c) emailing it to the society or branch at an email address that is used by the society or branch.
+(1B) In the absence of proof to the contrary, a notice that is emailed to a society or branch must be treated as served on the society or branch on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 (2) Subject to this Act, if within the period specified in the notice the society or branch fails to amend the rules as required, the Registrar may himself, by notation upon the registered copy of the rules, amend the rules of the society or branch.
 (3) The Registrar shall give a society or branch notice in writing of any amendment effected by him under this section and of the date on which the amendment comes into effect.
 
