@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2017-12-16_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6470,7 +6470,7 @@ A person who acts in contravention of a notice under section 385 or 385AA is per
   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of section 387; or
   (b) by posting it to the company's registered office or address for service or delivering it to a box at a document exchange which the company is using at the time; or
   (c) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the company's registered office or address for service or its head office or principal place of business; or
-  (d) by sending it by email to an electronic address used by the company.
+  (d) by emailing it to the company at an email address that is used by the company.
 (2) Subsection (1) is subject to section 391(3A) to (3C).
 
 ### 388A Service of other documents on directors
@@ -6480,8 +6480,8 @@ A document, other than a document in any legal proceedings, may be served on a d
   (c) by posting it to the company's registered office or address for service or delivering it to a box at a document exchange that the company is using at the time; or
   (d) by sending it by fax machine to a telephone number used for the transmission of documents by fax at the director's residential address (as that address is shown in the register); or
   (e) by sending it by fax machine to a telephone number used for the transmission of documents by fax at the company's registered office or address for service or its head office or principal place of business; or
-  (f) by sending it by email to an electronic address used by the director; or
-  (g) by sending it by email to an electronic address used by the company.
+  (f) by emailing it to the director at an email address that is used by the director; or
+  (g) by emailing it to the company at an email address that is used by the company.
 
 ### 389 Service of documents on overseas companies in legal proceedings
 (1) A document, including a writ, summons, notice, or order, in any legal proceedings may be served on an overseas company in New Zealand as follows:
@@ -6496,7 +6496,8 @@ A document, other than a document in any legal proceedings, may be served on a d
 (1) A document, other than a document in any legal proceedings, may be served on an overseas company as follows:
   (a) by any of the methods set out in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (e) of subsection (1) of section 389; or
   (b) by posting it to the address of the overseas company's principal place of business in New Zealand or delivering it to a box at a document exchange which the overseas company is then using at the time; or
-  (c) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal place of business in New Zealand of the overseas company.
+  (c) by sending it by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal place of business in New Zealand of the overseas company; or
+  (d) by emailing it to the overseas company at an email address that is used by the overseas company.
 (2) Subsection (1) is subject to section 391(3A) to (3C).
 
 ### 391 Service of documents on shareholders and creditors
