@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-12-16_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -51,11 +51,16 @@ _Consolidation as at 2017-03-01_
 
 ### 9 Approval of organisations
 (1) Any organisation may apply to the Registrar-General in the manner hereinafter provided for approval as an organisation which may, pursuant to section 10, nominate persons to solemnise marriages, (therein and in this section referred to as an approved organisation).
-(2) Every such application shall be accompanied by a statement signed by the chief office bearer and 10 members of the organisation, all being of or over the age of 18 years, each of whom shall append his or her age and address, setting out:
+(2) The application must be accompanied by a statement setting out—
   (a) the objects and beliefs of the organisation; and
-  (b) the number or, if this cannot accurately be ascertained, the approximate number of members of the organisation of or over the age of 18 years:
-  provided that in the case of any organisation the constitution or tenets of which do not recognise any chief office bearer an application signed as aforesaid by 10 members only shall be sufficient.
-(3) The signatures of the signatories to every application shall be attested by some other person who shall, by statutory declaration attached to the statement, verify the signatures as the genuine signatures of the persons whose signatures they purport to be.
+  (b) the number or, if that cannot be accurately ascertained, the approximate number of members of the organisation who are of or over the age of 18 years.
+(2A) The statement must be—
+  (a) signed by the persons specified in subsection (2B), each of whom must state his or her age and address; or
+  (b) approved electronically by, or on behalf of, the persons specified in subsection (2B) in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+(2B) The persons are—
+  (a) the chief office bearer and at least 10 members of the organisation who are of or over the age of 18; or
+  (b) in the case of an organisation whose constitution or tenets do not recognise a chief office bearer, at least 10 members of the organisation who are of or over the age of 18.
+(3) Another person must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to a statement signed under subsection (2A)﻿(a) are who they claim to be and are members of the organisation (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
 (4) If the Registrar-General is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote religious beliefs or philosophical or humanitarian convictions, he or she may by notice in the Gazette declare the organisation to be an approved organisation.
 (4A) If the Registrar-General fails or refuses to declare the organisation an approved organisation, he or she shall, if required to do so by the organisation, refer the application to the Minister who, if he or she is satisfied that the principal object or one of the principal objects of the organisation is to uphold or promote beliefs or convictions as aforesaid, may direct the Registrar-General to declare the organisation, by notice in the Gazette, an approved organisation; and in that case the Registrar-General shall forthwith do so.
 (5)
@@ -80,7 +85,7 @@ _Consolidation as at 2017-03-01_
 
 ### 10 Marriage celebrants from approved organisations
 (1) The name of every adult member of an approved organisation nominated to be a marriage celebrant shall be sent to the Registrar-General together with a certificate from the organisation declaring that it wishes the member to be a marriage celebrant.
-(2) The certificate shall be signed and attested in the manner specified in section 9 for applications for approval.
+(2) The certificate must be made or signed in the same manner as a statement under section 9(2A) to (3).
 (3) If the Registrar-General is satisfied that any person so nominated is of good character and otherwise qualified to act as a marriage celebrant, and that the provisions of this Act in respect of the submission of his or her name have been complied with, he or she shall enter the name of the person on the list.
 (4) If the Registrar-General fails or refuses to enter in the list the name of any person nominated pursuant to this section he or she shall, if required to do so by any signatory to the certificate accompanying the person's nomination, refer the nomination to the Minister, who may direct the Registrar-General to enter the person's name in the list, and in that case the Registrar-General shall forthwith enter the person's name in the list.
 
@@ -170,9 +175,17 @@ If any persons knowingly and wilfully marry without a marriage licence where a m
 ## Part 4 — Formalities preliminary to marriage
 
 ### 23 Notice of marriage
-(1) Where 2 persons intend to marry in New Zealand, one of them shall give notice in the prescribed form to a Registrar.
-(2) The person giving notice shall appear personally before the Registrar and shall make a statutory declaration in the prescribed form that the several particulars set forth in the notice are true, that he or she believes that the marriage is not prohibited by section 15, and that there is no other lawful impediment to the intended marriage.
-(3) Notwithstanding subsection (2), where the 2 persons concerned are ordinarily resident outside New Zealand, the person giving notice may do so by posting the prescribed form to the Registrar; but in that case the Registrar shall not issue the licence until satisfied that one of those persons has made the appropriate statutory declaration.
+(1) Where 2 persons intend to marry in New Zealand, one of them shall give notice to a Registrar in a manner specified by the Registrar-General.
+(2) The person giving notice must verify that—
+  (a) the particulars in the notice are true; and
+  (b) he or she believes that the intended marriage is not prohibited by section 15; and
+  (c) there is no other lawful impediment to the intended marriage.
+(2A) The information in subsection (2) may be verified—
+  (a) electronically in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995); or
+  (b) by the person giving notice appearing personally before the Registrar and making a statutory declaration.
+(3) However, if the 2 parties to an intended marriage are ordinarily resident outside New Zealand, the requirements of subsection (1) and (2A)﻿(b) are satisfied if—
+  (a) one of the parties gives notice to the Registrar in a manner specified by the Registrar-General; and
+  (b) the Registrar is satisfied that one of the parties has made a statutory declaration as to the matters in subsection (2)﻿(a) to (c).
 
 ### 24 Issue of marriage licence and information return
 (1) Subject to the provisions of this Act, if a marriage is to be solemnised by a marriage celebrant or under section 32, and notice has been given to a Registrar in accordance with section 23, the Registrar shall, not earlier than the third day after the day the notice was given, issue to the person who gave the notice—
@@ -253,15 +266,18 @@ A Registrar shall issue a marriage licence or solemnise a marriage, as the case 
 ### 32B Application to become exempt religious body
 (1) A religious body (other than the religious body to which section 32 applies) may apply to the Registrar-General for an exemption from observing the requirements of this Part relating to the solemnisation of marriages in the presence of a marriage celebrant.
 (2) An application made under subsection (1) must be accompanied by—
-  (a) a statement signed by the chief office bearer and 10 members of the religious body setting out—
+  (a) a statement setting out—
     (i) the beliefs and objects of the organisation; and
     (ii) the number or, if this cannot be accurately ascertained, the approximate number of members of the organisation of or over 18 years; and
   (b) a statement explaining why the objects and beliefs of the religious body are inconsistent with those provisions of this Part relating to the solemnisation of marriages in the presence of a marriage celebrant; and
   (c) a statement containing a description of the rules and procedures by which the body proposes to solemnise marriages.
-(3) In the case of a religious body whose rules and procedures or tenets do not recognise any chief office bearer, the statement referred to in subsection (2)﻿(a) need only be signed by 10 members of the body.
-(4) The statement referred to in subsection (2)﻿(a) (whether signed by the persons referred to in that subsection or the persons referred to in subsection (3)) is invalid unless—
-  (a) each signatory is of or over 18 years and includes in the statement his or her age and address; and
-  (b) the signatures of the signatories are attested by another person who must, by statutory declaration attached to the statement, verify the signatures as the genuine signatures of the persons whose signatures they purport to be.
+(3) The statement referred to in subsection (2)﻿(a) must be—
+  (a) signed by the persons specified in subsection (4), each of whom must state his or her age and address; or
+  (b) approved electronically by, or on behalf of, the persons specified in subsection (4) in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+(4) The persons are—
+  (a) the chief office bearer and at least 10 members of the religious body who are of or over the age of 18; or
+  (b) in the case of a religious body whose rules and procedures or tenets do not recognise a chief office bearer, at least 10 members of the organisation who are of or over the age of 18.
+(5) Another person must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to an application signed under subsection (3)﻿(a) are who they claim to be and are members of the body (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
 
 ### 32C Declaration of religious body as exempt religious body
 (1) The Registrar-General may, on receiving an application under section 32B, grant the exemption sought by declaring the religious body to be an exempt religious body if the Registrar-General is satisfied—
@@ -357,8 +373,14 @@ All marriages (whether solemnised before or after the commencement of this Act) 
   (b) the Registrar-General is satisfied that no lawful impediment to the intended marriage has been shown to exist.
 
 ### 42 Notice of intended marriage outside New Zealand
-(1) Where any citizen of a Commonwealth country or of the Republic of Ireland resident in New Zealand for at least 7 days desires to marry outside New Zealand under the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom or to marry any such citizen in the United Kingdom, he or she may give notice to a Registrar in the prescribed form.
-(2) The person giving notice shall appear personally before the Registrar and shall make a statutory declaration that the several particulars set forth in the notice are true and that he or she believes the marriage is not prohibited by Schedule 2 and that there is no other lawful impediment to the marriage.
+(1) Where any citizen of a Commonwealth country or of the Republic of Ireland resident in New Zealand for at least 7 days desires to marry outside New Zealand under the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom or to marry any such citizen in the United Kingdom, he or she may give notice to a Registrar in a manner specified by the Registrar-General.
+(2) The person giving notice must verify that—
+  (a) the particulars in the notice are true; and
+  (b) he or she believes the intended marriage is not prohibited by Schedule 2; and
+  (c) there is no other lawful impediment to the intended marriage.
+(2A) The information in subsection (2) may be verified—
+  (a) electronically in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995); or
+  (b) by the person giving notice appearing personally before the Registrar and making a statutory declaration.
 (3) If the person giving notice is under the age of 20 years, the same consents shall be required as in the case of a marriage to be solemnised in New Zealand.
 (4) The provisions of section 25 relating to caveats shall apply in respect of intended marriages to which this section relates as they apply to marriages intended to be solemnised in New Zealand.
 (5) Subject to the provisions of subsections (2) to (4), the Registrar shall, after the expiry of 14 days from the date of giving notice, issue a certificate in the prescribed form that notice of the intended marriage has been given.
@@ -437,7 +459,7 @@ Every person who falsely pretends to be a marriage celebrant and solemnises any 
 
 ### 60 Offences in connection with false statements and improper solemnisation of marriages
 Every person commits an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $400, or to both, who knowingly and wilfully—
-  (a) makes or causes to be made any false declaration for the purposes of this Act; or
+  (a) makes or causes to be made any false declaration or verification for the purposes of this Act; or
   (b) makes or causes to be made, for the purpose of being inserted in any register book, a false statement of any of the particulars required to be known and registered under the provisions of this Act; or
   (c) notifies any Registrar of the lodgement of a caveat under section 25 if in fact no such caveat has been lodged.
 
@@ -457,6 +479,18 @@ No prosecution under this Act shall be commenced after the expiration of 3 years
   (c) providing for such other matters as are contemplated by or necessary to give full effect to the provisions of this Act and its due administration.
 (2) Where the Registrar-General or any Registrar is empowered by this Act to do any act for which a fee is payable, he or she may refuse to do the act until the fee is paid.
 (3) Notwithstanding the provisions of any regulations under this Act, the Registrar-General may dispense with the payment of any fee payable under this Act.
+
+### 64AA Registrar-General may specify manner of application and verification of information
+(1) The Registrar-General may specify—
+  (a) the manner in which a notice may be given for the purposes of sections 23 and 42, including specifying—
+    (i) when, where, and how the notice may be given; and
+    (ii) forms (including electronic forms) requiring information or setting out information that must be provided in the notice; and
+    (iii) requirements in connection with the use of specified forms; and
+  (b) the manner in which information may be verified electronically for the purposes of sections 9, 10, 23, 32B, and 42, including specifying—
+    (i) when and how information must be verified; and
+    (ii) what evidence must be provided to verify the information; and
+    (iii) requirements with which evidence must comply.
+(2) Information required by a form specified under subsection (1)﻿(a)﻿(ii) must be prescribed by regulations.
 
 ### 64A Rules of procedure
 (1) Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under sections 19 and 26.
