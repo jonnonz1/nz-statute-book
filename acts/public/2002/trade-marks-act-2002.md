@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2017-07-27_
+_Consolidation as at 2017-12-16_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -1428,13 +1428,17 @@ The chief executive must, in relation to any notice given under section 137,—
   (d) consider any response made by that person to the chief executive within the time allowed.
 (3) The written advice under subsection (2) may be given—
   (a) by delivering it to that person; or
-  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive; or
+  (c) by emailing it to the person at an email address that is used by the person.
+(4) In the absence of proof to the contrary, written advice that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the advice was emailed, it is sufficient to prove that the advice was properly addressed and sent to the email address.
 
 ### 139B Notice of suspension
 (1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 139A(2)﻿(a).
 (2) The notice of suspension may be given—
   (a) by delivering it to that person; or
-  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive; or
+  (c) by emailing it to the person at an email address that is used by the person.
+(3) In the absence of proof to the contrary, a notice of suspension that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 
 ### 139C Chief executive may reinstate accepted notice
 The chief executive may reinstate an accepted notice suspended under section 139A if the chief executive is satisfied that the grounds for the suspension no longer apply.
@@ -1563,7 +1567,9 @@ The court may, on an application by any person, make an order that—
     (i) by delivering it to him or her in person; or
     (ii) by posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) by sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (v) by emailing it to the person at an email address that is used by the person.
+(2A) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 (3) A Customs officer to whom a document is produced for inspection may do 1 or more of the following:
   (a) inspect the document:
   (b) take extracts from the document:
@@ -1579,7 +1585,9 @@ The court may, on an application by any person, make an order that—
     (i) by delivering it to him or her in person; or
     (ii) by posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) by sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (v) by emailing it to the person at an email address that is used by the person.
+(3) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 
 ### 155D Customs officer may apply for production order
 (1) If a Customs officer believes on reasonable grounds that a person has in his or her possession, custody, or control, 1 or more documents that are evidence of, or may be of significant relevance to the investigation of, an offence against any of sections 120 to 124 in respect of imported goods, the Customs officer may apply to a District Court Judge for an order requiring the person to produce the documents for inspection by a Customs officer.
@@ -1970,9 +1978,11 @@ Section 197 does not apply to—
 (1) A notice or any other document that is required or authorised by this Act to be served on or given to a person may be served or given by—
   (a) delivering it to the person or the person's agent; or
   (b) leaving it at the person's or the person's agent's usual or last known residence or business; or
-  (c) posting it in a letter addressed to the person or the person's agent by name at that residence or business address.
+  (c) posting it in a letter addressed to the person or the person's agent by name at that residence or business address; or
+  (d) emailing it to the person or the person’s agent at an email address that is used by the person or the person’s agent.
 (2) If the person is deceased, a notice or other document may be served on or given to the person's personal representative.
-(3) If a notice or other document is sent to any person by post, it is deemed to have been delivered to that person at the time when the letter would in the ordinary course of post be delivered and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
+(3) A notice or any other document that is sent to a person by post must be treated as received by the person when it would have been delivered in the ordinary course of post, and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
+(4) In the absence of proof to the contrary, a notice or any other document that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the document was emailed, it is sufficient to prove that the document was properly addressed and sent to the email address.
 
 **Annual report**
 
