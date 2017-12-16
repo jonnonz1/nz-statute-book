@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2017-10-18_
+_Consolidation as at 2017-12-16_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -1490,22 +1490,10 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 **Transitional Councils**
 
 ### 26N Transitional Councils
-(1) The Minister shall, by notice in the Gazette, establish—
-  (a) a Transitional New Zealand Fish and Game Council; and
-  (b) a Transitional Fish and Game Council for each region defined under section 26A(1)﻿(c).
-(2) Each Transitional Fish and Game Council shall consist of not more than 12 members appointed by the Minister.
-(3) The Transitional New Zealand Fish and Game Council and each Transitional Fish and Game Council shall be established for the period specified in the notice by which it is established.
+[Repealed]
 
 ### 26O Functions and powers of Transitional Councils
-(1) The Transitional New Zealand Fish and Game Council shall have all the functions and powers of the New Zealand Fish and Game Council under this Act.
-(2) Each Transitional Fish and Game Council shall have all the functions and powers of a Fish and Game Council under this Act.
-(3) Without limiting the generality of subsection (2), each Transitional Fish and Game Council shall—
-  (a) conduct a postal ballot for the first election of members of the Fish and Game Council for its region; and
-  (b) develop an annual operational work plan for its region and submit for the approval of the Minister those provisions of it that relate to the management of those species of sports fish and game for which there is no management plan; and
-  (c) provide a report of its operations, and financial statements audited by the Audit Office and complying with section 26H(b).
-(4) The Transitional Fish and Game Councils concerned shall engage the Department for a period of not less than 6 months, on terms and conditions to be mutually agreed, to manage—
-  (a) the area formerly known as the Rotorua Acclimatisation District (except those parts that constitute the Taupo Fishery in that District); and
-  (b) the area formerly known as the Southern Lakes Acclimatisation District.
+[Repealed]
 
 **Fish and Game Councils**
 
@@ -1626,8 +1614,12 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 (3) For the purposes of this section, each Fish and Game Council shall maintain a register or roll of persons who indicate their wish to vote at an election of members of the Council.
 
 ### 26Z Conduct of elections
-(1) Voting at the election of members of Fish and Game Councils shall be by postal ballot and in accordance with regulations made under section 48.
-(2) Each Transitional Fish and Game Council shall, as soon as practicable after it is established, conduct an election to elect not more than 12 persons to be members of the Fish and Game Council for the area for which that Transitional Council is established.
+(1) The election of members of Fish and Game Councils must be conducted—
+  (a) using either of the following methods of voting:
+    (i) postal voting:
+    (ii) a combination of electronic voting and postal voting; and
+  (b) in accordance with regulations made under section 48.
+(2)
 (3) The second election of members of each Fish and Game Council shall be held by that Council 3 years after the date of the first election of members of that Council, and subsequent elections shall be held every third year thereafter.
 (4) At every election of members of a Fish and Game Council at least 1 member shall be elected for each subregion of the Council.
 
