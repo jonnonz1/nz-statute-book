@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2017-12-16_
 
 > Title
 
@@ -2657,6 +2657,10 @@ In determining an appeal under section 91(1), the court may do any of the follow
   (b) to produce to the Commission, or to a person specified in the notice acting on its behalf in accordance with the notice, any document or class of documents specified in the notice; or
   (c) to appear before the Commission at a time and place specified in the notice to give evidence, either orally or in writing, and produce any document or class of documents specified in the notice.
 (2) For the purposes of subsection (1), the Commission’s powers under this Act include the power to investigate whether an exception or exemption from this Act (whether under this Act or any other enactment) applies to a person or to a person’s conduct.
+((3)) A person may appear before the Commission under subsection (1)﻿(c) by audio link or audiovisual link if the Commission and the person agree.
+((4)) In this section,—
+  - **audio link** means facilities (for example, telephone facilities) that enable audio communication between the Commission and a person when either or both of them are not physically present at the place specified in the notice
+  - **audiovisual link** means facilities that enable audio and visual communication between the Commission and a person when either or both of them are not physically present at the place specified in the notice.
 
 ### 98A Power to search
 (1) The Commission may, from time to time, authorise an employee of the Commission to search under a warrant issued under subsection (2) any place named in the warrant for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of section 99A.
@@ -2841,8 +2845,13 @@ The Commission must not provide information to an overseas regulator that the Co
 (2) All documents purporting to be signed by or on behalf of the Commission or to be sealed with the seal of the Commission shall, in all courts and in all proceedings under this Act, be deemed to have been so signed or sealed with due authority unless the contrary is proved.
 
 ### 102 Service of notices
-(1) Any notice or other document required or authorised to be served on or given to any person for the purposes of this Act may be served or given by delivering it to that person, or by leaving it at his usual or last known place of residence or business or at the address specified by him in any notice, application, or other document made or given or tendered to the Commission under this Act, or by posting it by letter addressed to him at that place of residence or business or at that address.
-(2) If any such notice or other document is sent to any person by registered letter, then, unless the contrary is shown, it shall be deemed to have been delivered to him when it would have been delivered in the ordinary course of post; and in proving the delivery it shall be sufficient to prove that the letter was properly addressed and posted.
+(1) A notice or any other document required or authorised to be served on or given to a person for the purposes of this Act may be served or given by—
+  (a) delivering it to the person; or
+  (b) leaving it at the person’s usual or last known place of residence or business or at the address specified by the person in any notice, application, or other document given to the Commission under this Act; or
+  (c) sending it by post to the person’s usual or last known place of residence or business or to the address specified by the person in any notice, application, or other document given to the Commission under this Act; or
+  (d) emailing it to the person at an email address that is used by the person.
+(2) A notice or any other document that is sent to a person by a service that records delivery must, in the absence of proof to the contrary, be treated as received by the person when it would have been delivered in the ordinary course of business for that service, and, in proving the delivery, it is sufficient to prove that the document was properly addressed and provided to the service.
+(2A) In the absence of proof to the contrary, a notice or any other document that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the document was emailed, it is sufficient to prove that the document was properly addressed and sent to the email address.
 (3) Where for any purpose under this Act a notice or document is required to be served on an association or body of persons the notice or document may be served on the secretary, executive officer, manager, or other officer holding a similar position in the association or body; and for the purposes of this Act, service on the association or body shall, unless otherwise directed by the Commission, be deemed to be service on all persons who are members of the association or body or who are represented on the association or body by those members.
 
 ### 103 Offences
