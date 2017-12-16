@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-12-16_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -2557,13 +2557,17 @@ In this Part, unless the context otherwise requires,—
   (d) consider any response made by that person to the chief executive within the time allowed.
 (3) The written advice under subsection (2) may be given—
   (a) by delivering it to that person; or
-  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive; or
+  (c) by emailing it to the person at an email address that is used by the person.
+(4) In the absence of proof to the contrary, written advice that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the advice was emailed, it is sufficient to prove that the advice was properly addressed and sent to the email address.
 
 ### 136B Notice of suspension
 (1) If the chief executive decides to suspend an accepted notice, the chief executive must give written notice of the suspension to the person referred to in section 136A(2)﻿(a).
 (2) The notice of suspension may be given—
   (a) by delivering it to that person; or
-  (b) by posting it to the most recent address for that person that has been notified to the chief executive.
+  (b) by posting it to the most recent address for that person that has been notified to the chief executive; or
+  (c) by emailing it to the person at an email address that is used by the person.
+(3) In the absence of proof to the contrary, a notice of suspension that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 
 ### 136C Chief executive may reinstate accepted notice
 The chief executive may reinstate an accepted notice suspended under section 136A if the chief executive is satisfied that the grounds for the suspension no longer apply.
@@ -2595,10 +2599,14 @@ The chief executive may reinstate an accepted notice suspended under section 136
   (b) any other person appearing to the chief executive to have an interest in the item—
 (2) Every notice required to be served on the claimant or other person under subsection (1) may be given to the claimant or other person—
   (a) by personal delivery to the claimant or other person; or
-  (b) by posting it to the last known address of the claimant or other person, in which case it shall be deemed to have been served on the claimant or other person at the time at which it would have been delivered in the ordinary course of post; and in proving posting—
-    (i) it shall be sufficient to prove that the notice was properly addressed; and
-    (ii) it shall be presumed, in the absence of proof to the contrary, that the notice was posted on the day on which it was dated; or
-  (c) by sending it by facsimile to the last known facsimile number of the claimant or other person, in which case it shall, in the absence of proof to the contrary, be deemed to have been served on the claimant or other person on the day after the day on which it was sent; and, in proving sending, it shall be sufficient to prove that a facsimile machine generated a record of the transmission of the notice to such facsimile number.
+  (b) by posting it to the last known address of the claimant or other person; or
+  (c) by faxing it to the last known fax number of the claimant or other person; or
+  (d) by emailing it to the claimant or other person at an email address that is used by the claimant or other person.
+(2A) A notice that is posted to a claimant or any other person must be treated as served on the claimant or other person at the time when it would have been delivered in the ordinary course of post, and, in proving the delivery,—
+  (a) it is sufficient to prove that the letter was properly addressed and posted; and
+  (b) in the absence of proof to the contrary, the notice must be treated as having been posted on the day on which it was dated.
+(2B) A notice that is faxed to a claimant or any other person must, in the absence of proof to the contrary, be treated as served on the claimant or other person on the day after the date on which it is faxed, and, in proving that it was faxed, it is sufficient to prove that a fax machine generated a record of the transmission of the notice to the fax number.
+(2C) In the absence of proof to the contrary, a notice that is emailed to a claimant or any other person must be treated as served on the claimant or other person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 (3) The detention of any item under section 140 is not rendered illegal by a failure to serve notice under subsection (1).
 
 ### 140 Detention of pirated copy
@@ -2666,7 +2674,9 @@ If any pirated copies have been detained in the custody of the chief executive o
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (v) emailing it to the person at an email address that is used by the person.
+(2A) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 (3) A Customs officer to whom a document is produced for inspection may do 1 or more of the following:
   (a) inspect the document:
   (b) take extracts from the document:
@@ -2682,7 +2692,9 @@ If any pirated copies have been detained in the custody of the chief executive o
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
+    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (v) emailing it to the person at an email address that is used by the person.
+(3) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 
 ### 144C Customs officer may apply for production order
 (1) If a Customs officer believes on reasonable grounds that a person has in his or her possession, custody, or control, 1 or more documents that are evidence of, or may be of significant relevance to the investigation of, an offence against section 131, 198, or 226C in respect of imported goods, the Customs officer may apply to a District Court Judge for an order requiring the person to produce the documents for inspection by a Customs officer.
@@ -3416,11 +3428,13 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 ### 217 Service of summons
 (1) A witness summons may be served—
   (a) by delivering it personally to the person summoned; or
-  (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
+  (b) by sending it to the person summoned, at that person’s usual place of residence, by a service that records delivery; or
+  (c) by emailing it to the person summoned at an email address that is used by that person.
 (2) The summons shall,—
   (a) where it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required; or
-  (b) where it is served under subsection (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)﻿(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (b) where it is served under subsection (1)﻿(b) or (c), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) A summons sent to a person in accordance with subsection (1)﻿(b) must be treated as served on the person at the time when it would have been delivered in the ordinary course of business for the service it was sent by.
+(4) In the absence of proof to the contrary, a summons emailed to a person in accordance with subsection (1)﻿(c) must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the summons was emailed, it is sufficient to prove that the summons was properly addressed and sent to the email address.
 
 ### 218 Witnesses' allowances
 (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
