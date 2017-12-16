@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2014-05-01_
+_Consolidation as at 2017-12-16_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -126,11 +126,11 @@ The Registrar shall, before requesting an auditor to disclose information pursua
   (d) appoint in writing any person to enter upon and search any premises and inspect, remove, and take copies of any documents, or extracts from documents, relating to the business, operation, and management of that corporation in the possession of, or under the control of, any person and, where necessary, require the reproduction in usable form of any information recorded or stored in those documents.
 (2) Every person commits an offence against this Act who, without lawful justification or excuse, hinders, obstructs, or delays, in the conduct of any inspection pursuant to this section, any person duly authorised to make the inspection.
 (3) A corporation or an associated person commits an offence against this Act if, without lawful justification or excuse,—
-  (a) it fails to comply with any requirement of the Registrar under subsection (1)(c); or
-  (b) it supplies any information required to be supplied pursuant to subsection (1)(c) that is false or misleading in a material particular.
+  (a) it fails to comply with any requirement of the Registrar under subsection (1)﻿(c); or
+  (b) it supplies any information required to be supplied pursuant to subsection (1)﻿(c) that is false or misleading in a material particular.
 
 ### 18 Requirements on entering and searching premises
-(1) No person appointed pursuant to section 17(1)(d) shall enter upon and search any premises, or inspect, remove, or take copies of any documents, or extracts from documents, in the possession of, or under the control of, any person, or require the reproduction in usable form of any information recorded or stored in any documents, unless—
+(1) No person appointed pursuant to section 17(1)﻿(d) shall enter upon and search any premises, or inspect, remove, or take copies of any documents, or extracts from documents, in the possession of, or under the control of, any person, or require the reproduction in usable form of any information recorded or stored in any documents, unless—
   (a) the occupier of the premises or the person who has possession of the documents agrees; or
   (b) that person obtains a warrant under section 24.
 (2) Every person authorised to enter upon and search any premises pursuant to a warrant obtained under section 24 shall, on first entering those premises, and, if requested, at any subsequent time, produce—
@@ -199,7 +199,7 @@ Where it is necessary or desirable for the purpose of determining whether to exe
 (7) Nothing in the Official Information Act 1982 or any other Act, other than this Act, applies to information to which this section applies whether or not such information has been published or disclosed to any person pursuant to this section.
 
 ### 24 Procedure for obtaining warrants
-(1) Where a Judge of the High Court is satisfied, on application in writing made on oath, that there are reasonable grounds for believing—the Judge may issue a warrant, in terms of section 25, to a person appointed pursuant to section 17(1)(d).
+(1) Where a Judge of the High Court is satisfied, on application in writing made on oath, that there are reasonable grounds for believing—the Judge may issue a warrant, in terms of section 25, to a person appointed pursuant to section 17(1)﻿(d).
   (a) that any information supplied to the Registrar by a corporation or an associated person pursuant to this Part is false or misleading in a material particular; or
   (b) that a corporation or an associated person has failed to comply with any requirement to supply information pursuant to section 9—
 (2) Where a Judge of the High Court is satisfied, on application in writing made on oath, that there are reasonable grounds for believing that it is necessary for the purpose of determining whether to exercise the powers conferred under Part 2 or Part 3 that an investigation of the affairs of a corporation should be carried out, that Judge may issue a warrant, in terms of section 25, to a person appointed under section 19.
@@ -218,21 +218,21 @@ Where it is necessary or desirable for the purpose of determining whether to exe
 ### 27 Effect of final decision that exercise of powers under section 17 unlawful
 In any case where it is declared, in a final decision given in any proceedings in respect of the exercise of any powers conferred by section 17 that the exercise of any powers conferred by that section is unlawful, to the extent to which the exercise of those powers is declared unlawful,—
   (a) the Registrar shall ensure that forthwith after the decision of the court is given—
-    (i) any information supplied by the corporation or an associated person pursuant to section 17(1)(c), and any record of such information, is destroyed:
-    (ii) any documents, or extracts from documents, obtained pursuant to an inspection made under section 17(1)(d) are returned to the person previously having possession of those documents, or previously having them under his or her control, and any copies of such documents or extracts are destroyed:
+    (i) any information supplied by the corporation or an associated person pursuant to section 17(1)﻿(c), and any record of such information, is destroyed:
+    (ii) any documents, or extracts from documents, obtained pursuant to an inspection made under section 17(1)﻿(d) are returned to the person previously having possession of those documents, or previously having them under his or her control, and any copies of such documents or extracts are destroyed:
     (iii) any information derived from or based upon any such information or documents or extracts is destroyed:
-  (b) no information supplied by the corporation or an associated person pursuant to section 17(1)(c), and no documents, or extracts from documents, obtained pursuant to an inspection made under section 17(1)(d), and no record of any such information or documents, shall be—
+  (b) no information supplied by the corporation or an associated person pursuant to section 17(1)﻿(c), and no documents, or extracts from documents, obtained pursuant to an inspection made under section 17(1)﻿(d), and no record of any such information or documents, shall be—
     (i) admissible in evidence in any proceedings:
     (ii) used in connection with the exercise of any power conferred by Part 2 or Part 3.
 
 ### 28 Effect of final decision that exercise of powers under sections 19 to 21 unlawful
 In any case where it is declared, in a final decision given in any proceedings in respect of the exercise of any powers conferred by sections 19 to 21, that the exercise of any powers conferred by those sections is unlawful, to the extent to which the exercise of those powers is declared unlawful,—
   (a) the Registrar shall ensure that forthwith after the decision of the court is given—
-    (i) any information obtained pursuant to section 21(1)(a), and any record of such information, is destroyed:
-    (ii) any documents produced for inspection pursuant to section 21(1)(a) are returned to the person previously having possession of the documents, or previously having the documents under his or her control, and any copies of such documents, or extracts from such documents, are destroyed:
+    (i) any information obtained pursuant to section 21(1)﻿(a), and any record of such information, is destroyed:
+    (ii) any documents produced for inspection pursuant to section 21(1)﻿(a) are returned to the person previously having possession of the documents, or previously having the documents under his or her control, and any copies of such documents, or extracts from such documents, are destroyed:
     (iii) any documents, or extracts from documents, obtained pursuant to an investigation made under section 21(2) are returned to the person previously having possession of those documents, or previously having them under his or her control, and any copies of such documents or extracts are destroyed:
     (iv) any information derived from or based upon such information, documents, or extracts is destroyed:
-  (b) no information obtained or documents produced for inspection pursuant to section 21(1)(a), and no documents, or extracts from documents, obtained pursuant to an investigation made under section 21(2), and no record of any such information or documents, shall be—
+  (b) no information obtained or documents produced for inspection pursuant to section 21(1)﻿(a), and no documents, or extracts from documents, obtained pursuant to an investigation made under section 21(2), and no record of any such information or documents, shall be—
     (i) admissible as evidence in any proceedings:
     (ii) used in connection with the exercise of any power conferred by Part 2 or Part 3.
 
@@ -271,7 +271,7 @@ If the Registrar or the FMA gives a notice to a corporation under section 30, or
 ### 34 Period for which directions may apply
 (1) Every direction under section 33 shall be expressed to apply for a period not exceeding 21 days.
 (2) A direction may be revoked at any time by the Registrar or the FMA (as the case may be).
-(3) Any money placed in a trust account pursuant to section 33(1)(b) may, after it has ceased to be subject to a direction, be applied for the purposes for which it was received.
+(3) Any money placed in a trust account pursuant to section 33(1)﻿(b) may, after it has ceased to be subject to a direction, be applied for the purposes for which it was received.
 (4) Subsection (3) shall not apply if the corporation has been declared to be subject to statutory management.
 
 ### 35 Offence to contravene directions, etc
@@ -286,7 +286,10 @@ If the Registrar or the FMA gives a notice to a corporation under section 30, or
   (c) with the written consent of the Registrar or the FMA (as the case may be), to any person who has a proper interest in knowing that the notice has been given.
 
 ### 37 Miscellaneous provisions relating to notices
-(1) A notice given under section 30 to a corporation, or a notice given under section 31(2) to an associated person, shall be deemed to have been given upon delivery to the head office, registered office, or principal place of business in New Zealand of the corporation or associated person, as the case may be.
+(1) A notice may be given to a corporation (under section 30) or an associated person (under section 31(2)) by—
+  (a) delivering it to the head office, registered office, or principal place of business in New Zealand of the corporation or associated person (as the case may be); or
+  (b) emailing it to the corporation or associated person at an email address that is used by the corporation or associated person.
+(1A) In the absence of proof to the contrary, a notice that is emailed to a corporation or an associated person must be treated as received by the corporation or associated person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that it was properly addressed and sent to the email address.
 (2) A notice given under section 30 or section 31(2) may at any time be revoked by the Registrar or the FMA (as the case may be).
 
 ## Part 3 — Statutory management
@@ -300,7 +303,7 @@ If the Registrar or the FMA gives a notice to a corporation under section 30, or
 (2) Where an Order in Council is made under subsection (1), every subsidiary of a corporation declared to be subject to statutory management, except any subsidiary declared to be a subsidiary to which the order does not apply, shall be subject to statutory management, and the statutory manager or statutory managers so appointed shall be the statutory manager or statutory managers of every such subsidiary.
 (3) Every Order in Council made under subsection (1) must specify the date on which, and the time at which, the Order in Council comes into force.
 (4) The date and time as specified must not be earlier than the date on which, and the time at which, the Order in Council is made.
-(5) Subsections (1)(a) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
+(5) Subsections (1)﻿(a) and (2) are subject to section 139J(4) of the Reserve Bank of New Zealand Act 1989.
 
 ### 39 Grounds on which corporation can be declared to be subject to statutory management
 The FMA shall not make a recommendation under section 38 in respect of a corporation unless it is satisfied on reasonable grounds—
@@ -343,11 +346,11 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
 (5) Nothing in paragraph (a) of subsection (1) limits or prevents any person commencing or continuing any action or other proceedings, including proceedings by way of counterclaim, against a corporation in respect of any contract entered into, or obligation incurred, by that corporation after the date on which, and the time at which, that corporation was declared to be subject to statutory management.
 (6) Nothing in paragraph (b) of subsection (1) limits or prevents any person issuing any execution, attaching any debt, or otherwise enforcing or seeking to enforce any judgment or order obtained against a corporation in respect of any contract entered into, or obligation incurred, by that corporation after the date on which, and the time at which, that corporation was declared to be subject to statutory management.
 (7) In the case of a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply,—
-  (a) nothing in subsection (1)(h) applies to any right of set-off provided for in the netting agreement; and
+  (a) nothing in subsection (1)﻿(h) applies to any right of set-off provided for in the netting agreement; and
   (b) nothing in subsection (1) limits or prevents the exercise of any of the following rights under the netting agreement:
     (i) the termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
     (ii) the taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination; and
-  (c) nothing in subsection (1) limits or prevents the exercise by a recognised clearing house (within the meaning of section 310A of the Companies Act 1993), of any right referred to in subsection (1)(d) to (f) in respect of any property of that corporation if the right that is exercised has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under a recognised multilateral netting agreement (within the meaning of that section).
+  (c) nothing in subsection (1) limits or prevents the exercise by a recognised clearing house (within the meaning of section 310A of the Companies Act 1993), of any right referred to in subsection (1)﻿(d) to (f) in respect of any property of that corporation if the right that is exercised has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under a recognised multilateral netting agreement (within the meaning of that section).
 (8) In the case of netting under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Reserve Bank of New Zealand Act 1989,—
   (a) nothing in subsection (1) limits or prevents the exercise of any rights relating to the calculation of a netted balance under those rules; and
   (b) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that corporation if the right that is exercised—
@@ -410,8 +413,8 @@ Subject to this Part, a statutory manager of a corporation shall, for the purpos
 ### 51 Sale of property or assets subject to a security
 (1) A statutory manager may—notwithstanding the existence, or the terms and conditions, of any security over the property or those assets in favour of any other person.
   (a) sell or otherwise dispose of any property or assets of a corporation pursuant to section 50(1); or
-  (b) sell or otherwise dispose of any property or assets of a corporation to any body corporate formed and registered pursuant to section 50(2)(a); or
-  (c) sell or otherwise dispose of any shares in, or property or assets of, a body corporate formed and registered pursuant to section 50(2)(a)—
+  (b) sell or otherwise dispose of any property or assets of a corporation to any body corporate formed and registered pursuant to section 50(2)﻿(a); or
+  (c) sell or otherwise dispose of any shares in, or property or assets of, a body corporate formed and registered pursuant to section 50(2)﻿(a)—
 (2) Where a statutory manager of a corporation sells or otherwise disposes of any property or assets of that corporation under section 50(1), being property or assets subject to a security interest, the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than—
   (a) the costs of the statutory manager in selling or disposing of the property or assets; and
   (b) claims in respect of preferential payments made under section 312 of the Companies Act 1993 (as applied by section 55), in the case of—
@@ -419,9 +422,9 @@ Subject to this Part, a statutory manager of a corporation shall, for the purpos
       (A) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
       (B) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
     (ii) proceeds of inventory that are subject to a security interest that is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999.
-(3) Where a statutory manager of a corporation sells or otherwise disposes of any property or assets of that corporation to any body corporate formed and registered pursuant to section 50(2)(a), being property or assets subject to a security in favour of any other person, the property or those assets shall continue to be subject to that security.
-(4) If a statutory manager of a corporation sells or otherwise disposes of any shares in a body corporate formed and registered under section 50(2)(a), any property or assets of which are subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the shares.
-(5) If a statutory manager of a corporation sells or otherwise disposes of any property or assets of a body corporate formed and registered under section 50(2)(a), being property or assets subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
+(3) Where a statutory manager of a corporation sells or otherwise disposes of any property or assets of that corporation to any body corporate formed and registered pursuant to section 50(2)﻿(a), being property or assets subject to a security in favour of any other person, the property or those assets shall continue to be subject to that security.
+(4) If a statutory manager of a corporation sells or otherwise disposes of any shares in a body corporate formed and registered under section 50(2)﻿(a), any property or assets of which are subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the shares.
+(5) If a statutory manager of a corporation sells or otherwise disposes of any property or assets of a body corporate formed and registered under section 50(2)﻿(a), being property or assets subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
 (6) The kind of security interest referred to in this subsection is a security interest that—
   (a) is over all or any part of the corporation's accounts receivable and inventory or all or any part of either of them; and
   (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
@@ -583,10 +586,10 @@ Every person who commits an offence against this Act for which no penalty is pro
   (c) generally to all corporations and statutory managers to which this Act applies.
 
 ### 72 Proof of transactions
-(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a corporation subject to statutory management, or any shares in or property or assets of any body corporate incorporated pursuant to section 50(2)(a),—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
+(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a corporation subject to statutory management, or any shares in or property or assets of any body corporate incorporated pursuant to section 50(2)﻿(a),—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
   (a) executed or purporting to be executed by or on behalf of that corporation or body corporate, as the case may be; and
   (b) containing a recital that the transfer or other disposition of the property or assets of the corporation or body corporate, as the case may be, is made pursuant to section 50—
-(2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a corporation subject to statutory management, or any body corporate formed and registered pursuant to section 50(2)(a), as the case may be, has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
+(2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a corporation subject to statutory management, or any body corporate formed and registered pursuant to section 50(2)﻿(a), as the case may be, has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
 
 ### 73 Repeal of Companies Special Investigations Act 1958
 The Acts specified in the Schedule are hereby consequentially repealed.
