@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2017-12-16_
 
 > Title
 
@@ -296,11 +296,13 @@ In sections 21A and 21B,—
 (2) A person applying for registration of a name change must—
   (a) complete the standard form and provide it to the Registrar-General; and
   (b) pay the prescribed fee (if any); and
-  (c) deposit 1 of the following with the Registrar-General:
-    (i) a statutory declaration made, in accordance with subsection (3), by an eligible person or the guardian of an eligible person (accompanied by the eligible person’s written consent if the eligible person is 16 years of age or older and the application was made by the eligible person’s guardian); or
+  (c) provide one of the following to the Registrar-General:
+    (i) a statement made, in accordance with subsection (3), by an eligible person or the guardian of an eligible person (accompanied by the eligible person’s written consent if the eligible person is 16 years of age or older and the application was made by the eligible person’s guardian) and verified—
+      (A) electronically in a prescribed manner (see also section 82A); or
+      (B) by statutory declaration; or
     (ii) a deed poll executed before 1 September 1995, evidencing any change in the eligible person’s names; or
     (iii) a copy of a deed poll executed and filed in an office of the High Court before 1 September 1995 and certified by a Registrar of the court in which it was filed.
-(3) The eligible person or the guardian of the eligible person must declare, in the statutory declaration provided under subsection (2)﻿(c)﻿(i),—
+(3) The eligible person or the guardian of the eligible person must declare, in the verified statement provided under subsection (2)﻿(c)﻿(i),—
   (a) an intention to abandon (and to adopt some other names instead of) the names most recently included in—
     (i) the eligible person’s birth information or name change information; or
     (ii) the registration of the eligible person’s birth in another State; or
@@ -309,7 +311,7 @@ In sections 21A and 21B,—
     (i) the eligible person’s birth information or name change information; or
     (ii) the registration of the eligible person’s birth in another State; or
     (iii) a record of a name change deposited with a foreign registration authority.
-(3A) The Registrar-General may require a person before whom the statutory declaration referred to in subsection (2)﻿(c)﻿(i) is made—
+(3A) The Registrar-General may require a person before whom a statutory declaration referred to in subsection (2)﻿(c)﻿(i)﻿(B) or section 82A(2) is made—
   (a) to verify the identity of the eligible person or the guardian of the eligible person, or both, in a manner specified by the Registrar-General; and
   (b) to state whether he or she is satisfied of the identity of the eligible person or the guardian of the eligible person, or both.
 (4) A birth certificate, or some other certificate or evidence, that satisfies the Registrar-General of the date and place of the eligible person’s birth and the status of any other person making the application as the eligible person’s guardian must also be provided to the Registrar-General if the eligible person’s birth is not registered.
@@ -317,7 +319,7 @@ In sections 21A and 21B,—
 (5) The Registrar-General must, at the option of the eligible person or the guardian of the eligible person, return or destroy the certificate or evidence provided under subsection (4) or (4A).
 
 ### 21B Registration of name change
-(1) The Registrar-General must, subject to section 18, register a name change as soon as practicable if the documents and fee (if any) required by section 21A are deposited with the Registrar-General.
+(1) The Registrar-General must, subject to section 18, register a name change as soon as practicable if the documents and fee (if any) required by section 21A are provided to the Registrar-General.
 (2) The Registrar-General must register a name change as follows:
   (a) for an eligible person whose birth has been registered or is required to be registered, include the new name in the person’s birth information; or
   (b) for an eligible person whose birth cannot be registered because of section 6, include the new name in the person’s name change information.
@@ -665,7 +667,7 @@ Upon the conviction of any person for bigamy, the Registrar of the court concern
 ### 62 Recording new names in relation to marriages
 (1) Subsection (2) applies if, during the course of a marriage, a party to the marriage changes his or her name and the change is recorded in the person's birth information or name change information.
 (2) The person who has changed his or her name (or if the person has died, the other party to the marriage) may request the Registrar-General to include the new name or change of name in his or her marriage information.
-(3) A request under subsection (2) may be made when the statutory declaration, deed poll, or copy of the deed poll concerned is deposited under section 21A.
+(3) A request under subsection (2) may be made when the verified statement, deed poll, or copy of the deed poll concerned is provided under section 21A.
 (4) The Registrar-General must include the new name or change of name as requested, if the request is accompanied by the prescribed fee (if any).
 
 ## Part 7A — Civil unions
@@ -714,7 +716,7 @@ If the Registrar-General or a Registrar receives information that the parties to
 ### 62G Recording new names in relation to civil unions
 (1) Subsection (2) applies if, during the course of a civil union, a party to the civil union changes his or her name and the change is recorded in the person's birth information or name change information.
 (2) The person who has changed his or her name (or if the person has died, the other party to the civil union) may request the Registrar-General to include the new name or change of name in his or her civil union information.
-(3) A request under subsection (2) may be made when the statutory declaration is deposited under section 21A.
+(3) A request under subsection (2) may be made when the verified statement is provided under section 21A.
 (4) The Registrar-General must include the new name or change of name as requested, if the request is accompanied by the prescribed fee (if any).
 
 ## Part 8 — Certificates
@@ -1219,7 +1221,7 @@ In sections 78H and 78I, historical information means information that relates t
 
 ## Part 11 — Powers of inquiry and correction and updating of records
 
-### 82 Registrar-General's powers of inquiry
+### 82 Registrar-General's powers of inquiry in relation to registrable events
 (1) The Registrar-General may, if he or she considers it reasonably necessary for the purposes of this Act, make inquiries—
   (a) to determine whether a registrable event has occurred; or
   (b) to collect details of a registrable event; or
@@ -1227,6 +1229,15 @@ In sections 78H and 78I, historical information means information that relates t
 (2) The Registrar-General may also require a person who provides information under this section to make a statutory declaration on a form provided by the Registrar-General for the purpose or to provide other evidence in support of the information provided.
 (3) The Registrar-General may delegate his or her powers under this section to 1 or more Registrars.
 (4) In this section, registrable event means an adoption, birth, death, marriage, civil union, name change, or sexual assignment or reassignment.
+
+### 82A Registrar-General’s powers of inquiry in relation to information provided or verified electronically
+(1) The Registrar-General may, if he or she considers it reasonably necessary for the purposes of this Act, the Marriage Act 1955, or the Civil Union Act 2004, make inquiries to satisfy himself or herself that—
+  (a) any information verified electronically under section 21A of this Act, section 11 or Schedule 1 of the Civil Union Act 2004, or section 9, 10, 23, 32B, or 42 of the Marriage Act 1955 is true; or
+  (b) an application, statement, or certificate approved electronically under clause 1 of Schedule 1 of the Civil Union Act 2004 or section 9, 10, or 32B of the Marriage Act 1955 is approved by the required persons.
+(2) The Registrar-General may also require a person who verifies a statement electronically under section 21A(2)﻿(c)﻿(i) to make a statutory declaration in support of the statement.
+(3) The Registrar-General may also require a person who verifies information electronically under clause 1 of Schedule 1 of the Civil Union Act 2004 or section 9, 10, or 32B of the Marriage Act 1955 to make a statutory declaration in support of the information.
+(4) The Registrar-General may also require a person who verifies information electronically under section 11 of the Civil Union Act 2004 or section 23 or 42 of the Marriage Act 1955 to appear personally before a Registrar to make a statutory declaration in support of the information.
+(5) The Registrar-General may delegate his or her powers under this section to 1 or more Registrars.
 
 ### 83 Registrars must decline to record certain information
 (1) If a Registrar is satisfied (on reasonable grounds) after making any inquiries under section 82 that seem appropriate, that information in respect of a birth, death, marriage, civil union, or name change is or is likely to be incorrect, he or she must decline to record the information.
@@ -1281,7 +1292,7 @@ This Act does not limit the provision of information under the Statistics Act 19
 Nothing in this Act limits access to information that is recorded under this Act if the access is for the purposes of, and in accordance with, the Identity Information Confirmation Act 2012.
 
 ### 87B Registrar-General may issue standard forms
-(1) The Registrar-General may issue forms requiring information or setting out information that may be provided for the purposes of this Act.
+(1) The Registrar-General may issue forms (including electronic forms) requiring information or setting out information that may be provided for the purposes of this Act.
 (2) Information required by the forms must be prescribed by regulations and may include information prescribed to be contained in certificates under this Act.
 
 ### 88 Regulations
@@ -1290,6 +1301,10 @@ Nothing in this Act limits access to information that is recorded under this Act
   (ab) specifying the grounds on which a request for a non-disclosure direction may be made to the Registrar-General under section 75A(2)﻿(b):
   (ac) specifying the grounds on which a request for the reinstatement of a non-disclosure direction may be made to the Registrar-General under section 75B(4)﻿(b):
   (ad) prescribing the period referred to in section 75B(3)﻿(a) for which a non-disclosure direction under section 75A(2)﻿(b) remains in force, including the conditions subject to which any such direction ceases to be in force:
+  (ae) prescribing, for the purposes of section 21A(2)﻿(c)﻿(i), the manner in which information may be verified electronically, including prescribing—
+    (i) when and how the information must be verified:
+    (ii) what evidence must be provided to verify the information:
+    (iii) requirements with which evidence must comply:
   (b) providing for any other matters contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Regulations made under subsection (1) may require the giving and collection of information for the purpose of statistics, including matters to be notified, matters to be registered, or both.
 
@@ -1313,9 +1328,11 @@ Nothing in this Act limits access to information that is recorded under this Act
     (ii) negligently allows it to be damaged; or
     (iii) negligently does any act referred to in paragraph (c):
   (g) makes a written or oral statement, knowing that it is false or being reckless as to whether it is false, for the purpose of obtaining a source document, or a copy of a source document, or information recorded under this Act:
-  (h) for a purpose contemplated by this Act, provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified.
+  (h) for a purpose contemplated by this Act, provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified:
+  (i) for the purpose of applying for registration of a name change under section 21A, verifies a statement that the person knows to be false and that the person intends to be misleading.
 (2) Every person who commits an offence against subsection (1)﻿(a) or subsection (1)﻿(b) or subsection (1)﻿(c) shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 (2A) A person who commits an offence against subsection (1)﻿(g) or (h) is liable, on conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
+(2B) A person who commits an offence against subsection (1)﻿(i) is liable, on conviction, to a term of imprisonment not exceeding 3 years.
 (3) A person who commits any other offence against this Act is liable, on conviction, to a fine not exceeding—
   (a) $50,000 for a contravention of or failure to comply with section 78F(7) or 78I:
   (b) $10,000 for a contravention of or failure to comply with section 42:
