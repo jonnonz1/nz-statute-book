@@ -1,5 +1,5 @@
 # Civil Union Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2017-12-16_
 
 ### 1 Title
 This Act is the Civil Union Act 2004.
@@ -63,14 +63,17 @@ Two people who are within the prohibited degrees of civil union, as set out in S
 
 **Formalities**
 
-### 11 Notice of civil union, and statutory declaration
-(1) If 2 people intend to enter into a civil union, one of them must appear personally before the Registrar and give notice in the prescribed form of the intended civil union.
-(2) The person giving notice must also make a statutory declaration in the prescribed form before the Registrar declaring that—
-  (a) the person believes that the parties are not within the prohibited degrees of civil union or, if they are, an order has been made under section 10 dispensing with the prohibition; and
-  (b) there is no other lawful impediment to the intended civil union; and
-  (c) the particulars in the notice are true.
-(3) However, if the 2 parties to an intended civil union are ordinarily resident outside New Zealand, the requirements of this section are satisfied if—
-  (a) one of the parties posts the notice in the prescribed form to the Registrar; and
+### 11 Notice of civil union
+(1) If 2 people intend to enter into a civil union, one of them must give notice to the Registrar of the intended civil union in a manner specified by the Registrar-General.
+(2) The person giving notice must verify that—
+  (a) the particulars in the notice are true; and
+  (b) the person believes that the parties are not within the prohibited degrees of civil union or, if they are, an order has been made under section 10 dispensing with the prohibition; and
+  (c) there is no other lawful impediment to the intended civil union.
+(2A) The information in subsection (2) may be verified—
+  (a) electronically in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995); or
+  (b) by the person giving notice appearing personally before the Registrar and making a statutory declaration.
+(3) However, if the 2 parties to an intended civil union are ordinarily resident outside New Zealand, the requirements of subsections (1) and (2A)﻿(b) are satisfied if—
+  (a) one of the parties gives notice to the Registrar of the intended civil union in a manner specified by the Registrar-General; and
   (b) one of the parties, at any time before the licence is issued or (if the Registrar is to solemnise the civil union) the civil union is solemnised, makes a statutory declaration as to the matters in subsection (2)﻿(a) to (c).
 (4) A person giving notice under this section must pay the prescribed notice fee.
 
@@ -231,7 +234,7 @@ Every person commits an offence, and is liable on conviction to imprisonment for
 
 ### 32 Offences in connection with false statements relating to civil union
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years, or to a fine not exceeding $5,000, or to both, who knowingly and wilfully—
-  (a) makes or causes to be made any false declaration for the purposes of this Act; or
+  (a) makes or causes to be made any false declaration or verification for the purposes of this Act; or
   (b) makes or causes to be made, for the purpose of being inserted in any register, a false statement of any particular required to be known and registered; or
   (c) gives a Registrar a document that purports to be a copy of a notice of objection when it is not in fact a copy of a notice of objection.
 
@@ -241,7 +244,17 @@ A prosecution under this Act may not be commenced more than 3 years from the dat
 **Miscellaneous**
 
 ### 34 Registrar-General
-The Registrar-General is charged with the general administration of this Act.
+(1) The Registrar-General is charged with the general administration of this Act.
+(2) The Registrar-General may specify—
+  (a) the manner in which a notice may be given for the purposes of section 11 or an application may be made for the purposes of Schedule 1, including specifying—
+    (i) when and how a notice may be given or an application may be made; and
+    (ii) forms (including electronic forms) requiring information or setting out information that must be provided in the notice or application; and
+    (iii) requirements in connection with the use of specified forms; and
+  (b) the manner in which information may be verified electronically for the purposes of section 11 and Schedule 1, including specifying—
+    (i) when and how information may be verified; and
+    (ii) what evidence must be provided to verify the information; and
+    (iii) requirements with which evidence must comply.
+(3) Information required by a form specified under subsection (2)﻿(a)﻿(ii) must be required by this Act or prescribed by regulations.
 
 ### 35 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for one or more of the following purposes:
@@ -313,14 +326,18 @@ The enactments listed in Schedule 5 are consequentially amended in the manner in
 ## Schedule 1 — Exempt bodies
 
 ### 1 Application to become exempt body
-(1) A body that wishes to become an exempt body must apply to the Registrar-General for exemption in the prescribed form.
+(1) A body that wishes to become an exempt body must apply to the Registrar-General for exemption in a manner specified by the Registrar-General.
 (2) The application must set out—
   (a) the name and contact address of the body; and
   (b) the objects and beliefs of the body; and
   (c) the approximate number of its members who are of or over the age of 16; and
   (d) an explanation of why the objects and beliefs of the body are inconsistent with the requirements of this Act for the solemnisation of a civil union; and
-  (e) the rules and procedures that the body proposes to apply when solemnising a civil union.
-(3) The application must be signed by at least 10 members of the body who are of or over the age of 16, each of whom must give their age and address, and the signatures must be accompanied by a statutory declaration, signed by a person who is not a member, to the effect that the signatories are who they claim to be and are members of the body.
+  (e) the rules and procedures that the body proposes to apply when solemnising a civil union; and
+  (f) any prescribed information.
+(3) The application must be—
+  (a) signed by at least 10 members of the body who are of or over the age of 16, each of whom must state his or her age and address; or
+  (b) approved electronically by, or on behalf of, at least 10 members of the body who are of or over the age of 16 in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
+(3A) A person who is not a member of the organisation must verify, either electronically in a manner specified by the Registrar-General or by statutory declaration, that the signatories to an application signed under subsection (3)﻿(a) are who they claim to be and are members of the body (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995).
 
 ### 2 Registrar-General or Minister may grant exemption
 (1) The Registrar-General may agree to grant the exemption applied for if any prescribed application fee is paid and the Registrar-General is satisfied that—
