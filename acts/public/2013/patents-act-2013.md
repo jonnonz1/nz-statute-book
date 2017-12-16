@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2017-09-14_
+_Consolidation as at 2017-12-16_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -2012,7 +2012,7 @@ The Māori advisory committee may regulate its own procedure, subject to any dir
   (a) delivered personally or posted to the person at the person’s address for service or last known place of residence or business; or
   (b) sent by fax or electronic communication to the person’s last known fax number or electronic address; or
   (c) made available to the person in accordance with a prescribed electronic delivery method (if permitted under the regulations).
-(2) A notice or document that is sent to a person at a fax number or an electronic address must be treated as received by that person not later than 2 days after the date on which it is sent.
+(2) A notice or document that is sent to a person at a fax number or an electronic address must be treated as received by that person on the second working day after the date on which it is sent.
 (3) A notice or document that is posted to a person must be treated as received by that person not later than 7 days after the date on which it is posted.
 (4) However, a notice or document must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person’s part.
 (5) A notice or document that is made available to a person using the prescribed electronic delivery method must be treated as received by that person when specified by the regulations.
