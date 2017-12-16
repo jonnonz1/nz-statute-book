@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2017-09-08_
+_Consolidation as at 2017-12-16_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -601,7 +601,11 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
   (h) prescribe ship traffic separation and management schemes:
   (i) specify requirements for the carriage and use of personal flotation devices and buoyancy aids on pleasure craft:
   (j) require the marking and identification of personal water craft.
-(2) Navigation bylaws made under subsection (1) may not—
+(1A) In relation to the launch of a vehicle or an object that a person has a licence or permit under New Zealand law to launch into outer space, a regional council may, in consultation with the Director, make bylaws—
+  (a) to prohibit or regulate the use of ships:
+  (b) to regulate, or authorise a person to regulate, the admission of persons to specified areas.
+(1B) The agreement dated 16 September 2016 between Her Majesty the Queen in right of New Zealand acting by and through the Minister for Economic Development, Rocket Lab Limited (a company incorporated under the Companies Act 1993 under company number 1835428), and Rocket Lab USA (a corporation incorporated in the United States of America) is to be treated as a licence or permit under New Zealand law for the purposes of subsection (1A).
+(2) Navigation bylaws made under subsection (1) or (1A) may not—
   (a) limit or affect the ability of a port company or an operator of a commercial port to manage its operations within areas owned or controlled by it, except to the extent the regional council considers necessary in the interests of maritime safety:
   (b) impose any charge in respect of the regional council’s responsibilities in relation to oil pollution:
   (c) impose licensing requirements in respect of any aspect of commercial shipping operations that is subject to any requirement contained in any maritime rule:
@@ -648,7 +652,11 @@ For the purposes of carrying out his or her duties under this Part, a harbourmas
 (4) If an infringement notice has been issued under this section, proceedings may be commenced in respect of the offence to which the notice relates in accordance with section 21 of the Summary Proceedings Act 1957, and the provisions of that section apply with all necessary modifications.
 
 ### 33Q Entitlement to infringement fees
-A regional council is entitled to retain all infringement fees received by it in respect of infringement offences under section 33O if the infringement notice was issued by a harbourmaster or an enforcement officer of that council.
+A regional council is entitled to retain any infringement fee it receives in respect of an infringement offence—
+  (a) under section 33O if the infringement notice was issued by a harbourmaster or an enforcement officer of the council:
+  (b) under section 422 if—
+    (i) the infringement offence is a breach of a maritime rule or a navigation bylaw prescribed as an infringement offence by regulations made under section 201(1)﻿(b); and
+    (ii) the infringement notice was issued under section 423 by a harbourmaster or an enforcement officer of the council.
 
 **Fees and charges**
 
@@ -736,13 +744,22 @@ Port operators must not operate, maintain, or service a port, or cause or permit
   (c) other launching facilities.
 
 ### 33X Delegation or transfer of council's responsibilities
-(1) A regional council may transfer to a council-controlled organisation or a port operator any of its responsibilities under this Part except—
+(1) A regional council or territorial authority may transfer to a council-controlled organisation or a port operator any of its responsibilities under this Part except—
   (a) the power to transfer responsibilities under this section; and
   (b) the power to appoint harbourmasters; and
   (c) the power to make bylaws.
 (2) A regional council may transfer any of its responsibilities under this Part to another public authority except the power to transfer responsibilities under this section.
-(3) A public authority may delegate any of the responsibilities transferred to it under subsection (2) to a port operator except any power to make bylaws.
-(4) Section 17(3) to (6) of the Local Government Act 2002 apply to transfers of responsibilities under this section to another regional council or territorial authority.
+(2A) A territorial authority may transfer its responsibilities under section 33I to another public authority.
+(3) A public authority may delegate any of the responsibilities transferred to it under subsection (2) or (2A) to a port operator or a council-controlled organisation except any power to make bylaws.
+(3A) The transfer of a responsibility described in section 33I does not have the effect of transferring ownership of any works constructed under that section.
+(4) A transfer of a responsibility under this section may only be made if—
+  (a) the parties to the proposed transfer have agreed on the terms of the proposed transfer; and
+  (b) the parties to the proposed transfer have notified the Minister of the proposed transfer.
+(4A) A local authority that is party to a proposed transfer must not agree to the transfer unless satisfied, after consultation in accordance with section 82 of the Local Government Act 2002, that the benefits of the proposed transfer to the authority’s district or region will outweigh any negative impacts of the proposal.
+(4B) From the time a transfer takes effect, the responsibilities and powers of the party receiving the transfer are extended as necessary to enable that party to undertake, exercise, and perform the transferred responsibilities.
+(4C) A party to a transfer may, in accordance with this section, initiate—
+  (a) a variation of the terms of the transfer; or
+  (b) the reversal of the transfer.
 (5) In this section, council-controlled organisation has the meaning given to it in section 6 of the Local Government Act 2002.
 
 ## Part 4 — Further regulation of maritime activity
@@ -776,32 +793,41 @@ Port operators must not operate, maintain, or service a port, or cause or permit
 (5) Service of any notification under this Act on a holder of, or an applicant for, a maritime document shall be effective service if served at the address last provided by that holder or applicant under this section.
 
 ### 36 Maritime rules relating to other matters
-(1) The Minister may from time to time make maritime rules for all or any of the following purposes:
+(1) The Minister may from time to time make maritime rules that provide for all or any of the following:
   (a) classifying ships as to type, nature of service, operating limits, or otherwise:
   (b) the implementation of technical standards, codes of practice, performance standards, and other requirements of the conventions:
-  (c) prescribing standards and requirements for the design and construction of, or major alteration to, any ship:
-  (d) prescribing standards and requirements for the accommodation of seafarers or passengers on any commercial ship:
-  (e) prescribing the provision of medical supplies and facilities on any ship, their stowage, maintenance, and periodic inspection, and requiring medical officers on ships:
-  (f) prescribing the requirements for the maintenance and periodic inspection or testing of the hull, machinery, and systems of any ship, safety equipment, or any maritime products of any ship:
-  (g) prescribing safe navigational and maritime operational and emergency procedures, including such procedures for any seaplane, and any training requirements in respect of such procedures:
-  (h) prescribing operational and emergency procedures for the assistance of persons in distress at sea and in respect of collisions:
-  (i) defining operating limits and pilotage limits; and specifying requirements concerning pilotage (including when and where pilotage is required or is not required, and the classes of ships that must carry a pilot in circumstances described in the rules):
-  (j) prescribing standards and requirements for the safe management of commercial shipping operations:
-  (k) requiring the recording and retention of operational information and prescribing the details of any reporting that is required by this Act:
-  (l) prescribing criteria for determining the maximum number of passengers or persons that may be carried on any ship and for assigning and marking load lines on any ship:
-  (m) prescribing standards and requirements for the carriage on a ship of any cargo, container, or personal property (including any item brought on to the ship by a passenger or other person, or carried in or on a vehicle on the ship); and prescribing standards and requirements concerning containers carried on a ship:
-  (n) prescribing the minimum number of seafarers to be employed on any commercial ship, their qualifications, and experience:
-  (o) prescribing standards, specifications, qualifications, restrictions, and licensing requirements for persons engaged in maritime activities, including any medical requirements and requirements relating to the keeping of records of qualifications, restrictions, and licences:
-  (p) prescribing technical standards or requirements relating to the health and safety of seafarers:
-  (q) prescribing the format of maritime documents, forms, and applications:
-  (r) prescribing the requirements and criteria for determining the tonnage measurement, length, and size of any ship:
-  (s) prescribing the criteria and conditions under which foreign licences, permits, certificates, or other documents will be recognised by the Director under section 41:
-  (t) prescribing standards and requirements for maritime products (including safety equipment), and prescribing the maritime products to be carried on any ship:
-  (ta) prescribing standards and requirements for navigational aids:
+  (c) standards and requirements for the design and construction of, or major alteration to, any ship:
+  (d) standards and requirements for the accommodation of seafarers or passengers on any commercial ship:
+  (e) the provision of medical supplies and facilities on any ship, their stowage, maintenance, and periodic inspection, and requiring medical officers on ships:
+  (ea) any matter that is contemplated by or necessary for giving full effect to Part 4B, including, without limitation—
+    (i) the prescribing of safety-sensitive activities; and
+    (ii) a scheme for carrying out drug and alcohol testing of safety-sensitive workers, including the prescribing of—
+      (A) testable drugs; and
+      (B) permissible levels of alcohol or testable drugs for testing purposes; and
+      (C) testing processes and procedures; and
+    (iii) the prescribing of matters to be stated in a document under section 40Z(5)﻿(a)﻿(iii); and
+    (iv) record keeping by operators and the Director:
+  (f) the requirements for the maintenance and periodic inspection or testing of the hull, machinery, and systems of any ship, safety equipment, or any maritime products of any ship:
+  (g) safe navigational and maritime operational and emergency procedures, including such procedures for any seaplane, and any training requirements in respect of such procedures:
+  (h) operational and emergency procedures for the assistance of persons in distress at sea and in respect of collisions:
+  (i) defining operating limits and pilotage limits:
+  (ia) requirements concerning pilotage, including when and where, and the classes of ships for which, pilotage is required or not required:
+  (j) standards and requirements for the safe management of commercial shipping operations:
+  (k) the recording and retention of operational information and the details of any reporting that is required by this Act:
+  (l) criteria for determining the maximum number of passengers or persons that may be carried on any ship and for assigning and marking load lines on any ship:
+  (m) standards and requirements for the carriage on a ship of any cargo, container, or personal property (including any item brought on to the ship by a passenger or other person, or carried in or on a vehicle on the ship); and standards and requirements concerning containers carried on a ship:
+  (n) the minimum number of seafarers to be employed on any commercial ship, their qualifications, and experience:
+  (o) standards, specifications, qualifications, restrictions, and licensing requirements for persons engaged in maritime activities, including any medical requirements and requirements relating to the keeping of records of qualifications, restrictions, and licences:
+  (p) technical standards or requirements relating to the health and safety of seafarers:
+  (q) the format of maritime documents, forms, and applications:
+  (r) the requirements and criteria for determining the tonnage measurement, length, and size of any ship:
+  (s) the criteria and conditions under which foreign licences, permits, certificates, or other documents will be recognised by the Director under section 41:
+  (t) standards and requirements for maritime products (including safety equipment), and the maritime products to be carried on any ship:
+  (ta) standards and requirements for navigational aids:
   (tb) regulating the conduct of ships in New Zealand waters or the conduct of ships in any defined part of New Zealand waters, for the purpose of securing safe navigation in those waters:
-  (tc) prescribing standards and requirements for port and harbour safety:
-  (td) prescribing ship traffic separation and management schemes:
-  (u) prescribing or providing for such matters as may be necessary—
+  (tc) standards and requirements for port and harbour safety:
+  (td) ship traffic separation and management schemes:
+  (u) such matters as may be necessary—
     (i) to enable New Zealand to become a party to any international convention, protocol, or agreement relating to maritime transport:
     (ii) to implement such international practices or standards relating to maritime transport as may, from time to time, be recommended by the International Maritime Organisation:
   (v) assisting maritime safety and security, including (but not limited to) personal security:
@@ -1163,6 +1189,94 @@ An enforcement officer may arrest a seafarer without warrant if the officer has 
 (1) For the purposes of this Part, a muster list, or other official record, from a ship, that is certified by the ship's master or operator and that indicates that a seafarer was performing designated safety, security, or marine environmental duties at the time of an alleged offence against section 40C is sufficient evidence, in the absence of proof to the contrary, of those matters.
 (2) No muster list or other official record referred to in subsection (1) is admissible as evidence in proceedings for an offence against this Part if the court, on application made by the defendant not less than 14 days before the hearing, orders that the master or operator appear as a witness at the hearing.
 
+## Part 4B — Drug and alcohol testing by Director
+
+### 40X Health and Safety at Work Act 2015 not limited by this Part
+This Part does not limit the Health and Safety at Work Act 2015.
+
+### 40Y Interpretation
+In this Part, unless the context otherwise requires,—
+  - **bodily sample** means any of the following:
+    (a) biological fluid:
+    (b) biological tissue (whether living or not):
+    (c) breath
+  - **Director testing** means drug or alcohol testing carried out by the Director under section 40Z
+  - **drug or alcohol test** means—
+    (a) a test of a person’s bodily sample to determine the presence, but not the level, of alcohol or a testable drug (or both) in the sample; or
+    (b) a test of a person’s bodily sample to determine the presence and the level of alcohol or a testable drug (or both) in the sample
+  - **negative result** , in relation to a drug or alcohol test, means that the test reveals—
+    (a) that alcohol or a testable drug (or both) is not present in the bodily sample; or
+    (b) if the Director, in carrying out Director testing, applies the permissible level of alcohol or a testable drug prescribed by the maritime rules, that alcohol or a testable drug is not present in the body at that specified level; or
+    (c) if the Director, in carrying out Director testing, applies the permissible level of alcohol or a testable drug specified in the operator’s safety system, that alcohol or a testable drug is not present in the body at that specified level
+  - **operator** means an operator who—
+    (a) operates a ship other than a pleasure craft; and
+    (b) holds a maritime document for operating that ship; and
+    (c) is required by maritime rules to establish and follow a management system for the purposes of section 17(4)﻿(a)
+  - **safety-sensitive activity** —
+    (a) means an activity that could significantly affect the health or safety of any person on board a ship, including the person performing the activity; and
+    (b) includes an activity prescribed by the maritime rules
+  - **safety-sensitive worker** —
+    (a) means an individual who carries out work in any capacity for an operator in a role that involves the worker performing a safety-sensitive activity; and
+    (b) includes the operator, if the operator is an individual
+  - **safety system** means the management system referred to in paragraph (c) of the definition of operator in this section
+  - **testable drug** —
+    (a) means a drug that could impair a safety-sensitive worker’s performance of a safety-sensitive activity; and
+    (b) includes a drug prescribed by the maritime rules; and
+    (c) may include, for the purposes of section 40Z(4)﻿(a), a drug specified in the operator’s safety system as a drug for which testing may be carried out.
+
+### 40Z Director testing
+(1) The Director may carry out drug or alcohol testing of 1 or more safety-sensitive workers of an operator.
+(2) Director testing—
+  (a) must be carried out in relation to alcohol and testable drugs; and
+  (b) may be carried out without giving advance notification to the operator or to the workers selected for testing; and
+  (c) may be carried out at any reasonable time and in any reasonable circumstances the Director considers appropriate; and
+  (d) may be carried out only if the worker consents to be tested; and
+  (e) must be carried out by a person who is competent to carry out the testing, including by having any necessary experience or qualifications.
+(3) Subject to this section, Director testing must be carried out in accordance with the maritime rules.
+(4) If the operator’s safety system includes a scheme for carrying out drug and alcohol testing of safety-sensitive workers, Director testing may, at the Director’s discretion, be carried out in relation to the testable drugs and the permissible levels of alcohol and testable drugs—
+  (a) specified in the safety system; or
+  (b) prescribed by the maritime rules.
+(5) When carrying out Director testing, the Director must—
+  (a) carry a document that states—
+    (i) the name and contact details of the person carrying out the test; and
+    (ii) an explanation of the statutory power to carry out the test; and
+    (iii) any other matter prescribed by the maritime rules; and
+  (b) show the document to the worker on first approaching the worker and at any later time on request; and
+  (c) take reasonable steps to establish the identity of a worker who is to be tested; and
+  (d) ask for the worker’s consent before testing the worker; and
+  (e) give the worker a written statement that contains the information and other matters set out in subsection (6).
+(6) The statement required under subsection (5)﻿(e) must contain the following:
+  (a) the matters set out in the document referred to in subsection (5)﻿(b):
+  (b) the purpose of the test:
+  (c) a general description of how the test will be carried out, including how the bodily sample will be taken and how it will be analysed:
+  (d) an explanation of the consequences of refusing to consent or of the worker’s test returning a result other than a negative result:
+  (e) advice that the worker will be informed of the result of the test (and approximately when this will happen):
+  (f) advice about the worker’s right to appeal to the District Court under section 424 against the decision to test the worker:
+  (g) advice about the worker’s right to request a second test under section 40ZA and any charge for carrying out a second test.
+(7) As soon as practicable after the Director becomes aware of the result of a test, the Director must give the test result to the worker tested and the operator.
+(8) A safety-sensitive worker who has been tested or selected for testing under this section may appeal against the decision to test that worker to the District Court under section 424.
+
+### 40ZA Worker may request second Director test
+(1) A worker who has undergone Director testing may, immediately after the test is carried out, ask the Director to carry out a second test for the same substance by the same method.
+(2) The Director must carry out a second test requested under this section.
+(3) If a second test is carried out under subsection (2),—
+  (a) that second test and its results replace the first test and its results for the purposes of this Part; but
+  (b) subsections (1) and (2) do not apply so as to require a further test.
+
+### 40ZB What happens if worker refuses consent or test result is not negative
+(1) A safety-sensitive worker who has been selected for Director testing may refuse to consent to the testing.
+(2) If a worker refuses to consent to Director testing or is tested and returns a result other than a negative result, the Director must notify the operator for whom the worker carries out work of that fact as soon as practicable.
+(3) If the Director notifies the operator under subsection (2), the operator must prohibit the worker from performing safety-sensitive activities until the operator reasonably believes that the worker is able to safely perform those activities.
+(4) Subsection (3)—
+  (a) applies regardless of any scheme for carrying out drug and alcohol testing of safety-sensitive workers in the operator’s safety system; but
+  (b) does not in any other way limit the operation of that scheme.
+
+### 40ZC Use of test results in criminal proceedings
+Test results obtained from Director testing are not admissible in any criminal proceedings other than the prosecution of an offence against any of the following:
+  (a) this Act:
+  (b) the Health and Safety at Work Act 2015:
+  (c) the Hazardous Substances and New Organisms Act 1996.
+
 ## Part 5 — Powers and duties of Director of Maritime New Zealand in relation to maritime activity
 
 **Powers in relation to maritime documents**
@@ -1508,7 +1622,9 @@ Without limiting the powers conferred by section 58, for the purpose of exercisi
 ### 60B Limitation of liability where pilot engaged
 (1) A port company, or other body corporate or person, who provides a pilot is not liable for any neglect or want of skill of the pilot.
 (2) The owner or master of a ship navigating under circumstances in which pilotage is required is answerable for any loss or damage caused by the ship or by any fault of the navigation of the ship in the same manner and to the same extent as that person would be if pilotage were not required.
-(3) A pilot is not liable for neglect or want of skill while on board a ship and acting as a pilot.
+(3) A pilot is not liable for neglect or want of skill when acting as a pilot,—
+  (a) on board a ship being provided with pilotage; or
+  (b) in accordance with the maritime rules, on land or on board another ship.
 
 ## Part 6 — Offences in relation to maritime activity
 
@@ -2417,8 +2533,8 @@ Every person who receives any maritime levy shall, on demand, issue to the perso
     (i) in the case of an individual, shall be a fine not exceeding $5,000:
     (ii) in the case of a body corporate, shall be a fine not exceeding $30,000:
   (d) prescribing the infringement fee for each offence prescribed under paragraph (b) and for infringement offences against section 200B, which,—
-    (i) in the case of an individual, shall be a fine not exceeding $2,000:
-    (ii) in the case of a body corporate, shall be a fine not exceeding $12,000:
+    (i) in the case of an individual, must not exceed $2,000:
+    (ii) in the case of a body corporate, must not exceed $12,000:
   (e) such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act (other than those referred to in section 394(1)﻿(i)) and for their due administration.
 (2) Any regulations made under this Act may be so made that different regulations shall apply with respect to different classes of persons, ships, or maritime products, or with respect to the same class of person, ship, or maritime product in different circumstances.
 
@@ -2658,11 +2774,12 @@ In this Part, unless the context otherwise requires,—
     (a) dumping in accordance with a permit issued by the Director under section 262; or
     (b) release of harmful substances for the purposes of legitimate scientific research into pollution abatement and control;—
   - **harmful substance** means any substance specified as a harmful substance for the purposes of this definition by the marine protection rules
-  - **marine protection product** means—and includes anything that is specified as a marine protection product for the purposes of this definition by the marine protection rules
+  - **marine protection product** means—
+    (aa) anything or any substance specified as a marine protection product for the purposes of this definition by the marine protection rules; and
     (a) anything that comprises, or is intended to comprise, any part of a ship, offshore installation, or pipeline, or that is or is intended to be installed on or fitted or supplied to a ship, offshore installation, or pipeline for the purpose of preventing, limiting, or controlling a discharge or the escape of a harmful substance or ballast water, including (but not limited to)—
       (i) any plant or equipment that treats or is intended to treat a harmful substance or ballast water; and
       (ii) any plant or equipment that monitors or is intended to monitor the discharge or escape of a harmful substance or ballast water; and
-    (b) any substance used or intended to be used for the dispersal or emulsification of a harmful substance or ballast water in the sea;—
+    (b) any substance used or intended to be used for the dispersal or emulsification of a harmful substance or ballast water in the sea
   - **MARPOL** means the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto; and includes any subsequent protocol or amendment to, or revision of, that convention accepted or ratified by New Zealand
   - **mining activity** means an activity carried out for, or in connection with,—
     (a) the identification of areas of the seabed likely to contain mineral deposits; or
@@ -4248,29 +4365,29 @@ The owner and person in charge of a regulated offshore installation each commits
 
 ### 388 Marine protection rules in relation to harmful and other substances
 The Minister may from time to time make marine protection rules for all or any of the following purposes:
-  (a) specifying the substances that are harmful substances for the purposes of section 225:
-  (b) specifying the substances that are noxious liquid substances for the purposes of section 225:
-  (c) specifying the substances that are not to be noxious liquid substances for the purposes of section 225:
-  (ca) specifying the substances that are hazardous substances other than oil for the purposes of section 247:
-  (d) specifying things and substances that are to be included as marine protection products for the purposes of section 225:
-  (e) prescribing requirements for the design and construction of ships and other real or personal property for which a marine protection document is required:
-  (f) prescribing areas of ships where harmful substances, or any specified harmful substance, or ballast water, may not be held:
-  (g) prescribing the maximum quantities of harmful substances, or any specified harmful substance, that may be held on ships or any class of ship:
-  (h) prescribing standards and requirements in respect of marine protection products and reception facilities:
+  (a) the substances that are harmful substances for the purposes of section 225:
+  (b) the substances that are noxious liquid substances for the purposes of section 225:
+  (c) the substances that are not to be noxious liquid substances for the purposes of section 225:
+  (ca) the substances that are hazardous substances other than oil for the purposes of section 247:
+  (d) things and substances that are to be included as marine protection products for the purposes of section 225:
+  (e) requirements for the design and construction of ships and other real or personal property for which a marine protection document is required:
+  (f) areas of ships where harmful substances, or any specified harmful substance, or ballast water, may not be held:
+  (g) the maximum quantities of harmful substances, or any specified harmful substance, that may be held on ships or any class of ship:
+  (h) standards and requirements in respect of marine protection products and reception facilities:
   (i) regulating or prohibiting, in relation to ships, all or any of the following:
     (i) the discharge of harmful substances or any specified harmful substance, whether generally or in any specified area:
     (ii) the removal or retention on board of harmful substances:
     (iii) the stowage, packaging, containment, marking, labelling, documentation, and notification of harmful substances carried in packaged form:
     (iv) plans for emergencies involving harmful substances or any specified harmful substance:
-  (j) prescribing the requirements (and, in particular, in the case of any notice, the time periods to be complied with and the form and manner in which the notice is to be given) in respect of ships, offshore installations, pipelines, transfer facilities, reception facilities, and marine operations for the following:
+  (j) the requirements (and, in particular, in the case of any notice, the time periods to be complied with and the form and manner in which the notice is to be given) in respect of ships, offshore installations, pipelines, transfer facilities, reception facilities, and marine operations for the following:
     (i) giving notice under section 227 of the discharge or escape of any harmful substance:
     (ii) giving notice under section 228 of any pollution incident:
     (iii) giving notice under section 229 or section 230 of the prospective arrival of any ship carrying oil or a noxious liquid substance or the transfer of oil or any such substance to or from a ship:
     (iv) surveys and inspections:
     (v) records to be kept in respect of activities involving harmful substances or any specified harmful substance:
-  (k) prescribing shipping exclusion zones and navigation and shipping lanes within the territorial sea of New Zealand:
-  (l) prescribing the requirements and procedures for the discharge or escape of water produced from geologic formations by marine operations in the high seas:
-  (m) prescribing the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships:
+  (k) shipping exclusion zones and navigation and shipping lanes within the territorial sea of New Zealand:
+  (l) the requirements and procedures for the discharge or escape of water produced from geologic formations by marine operations in the high seas:
+  (m) the requirements and procedures for the transfer of oil or noxious liquid substances to or from transfer facilities or ships:
   (n) prescribing requirements and procedures relating to the control and management of ballast water for the purposes of the convention, including, but not limited to, provision for the Director to issue guidelines that allow for exemptions from the requirements and procedures for ships complying with the guidelines.
 
 ### 389 Marine protection rules in relation to waste or other matter
@@ -4898,7 +5015,7 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (a) certified as a correct copy of the material by the Minister or the Director (as the case may be); and
   (b) retained by the Authority.
 (4) Any material incorporated in a rule by reference under subsection (1) is to be treated for all purposes as forming part of the rule; and, unless otherwise provided in the rules, every amendment to any material incorporated by reference under subsection (1) that is made by the person or organisation originating the material is, subject to subsections (5) and (6), to be treated as being a part of the rule.
-(5) All material incorporated by reference under subsection (1) or (2) must be made available at the offices of the Authority for inspection by the public free of charge.
+(5) All material incorporated by reference under subsection (1) or (2) must be made available at the head office of the Authority for inspection by the public free of charge.
 (6) The Authority must give notice in the Gazette and on the Authority's Internet site stating—
   (a) that the material is incorporated in the rule and the date on which the rule was made; and
   (b) that the material is available for inspection during working hours, free of charge; and
