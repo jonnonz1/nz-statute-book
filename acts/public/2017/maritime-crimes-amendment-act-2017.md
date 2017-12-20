@@ -253,7 +253,7 @@ Amend the Acts specified in Schedule 2 as set out in that schedule.
 
 ### Schedule 1 — Consolidated text of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation and of the Protocol of 2005 to the Convention
 
-### Schedule 2 — Consolidated text of the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf and of the Protocol of 2005 to the Protocol
+### Schedule 2 — Consolidated text of the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms Located on the Continental Shelf and of the Protocol of 2005 to the Protocol
 
 ## Schedule 2 — Consequential amendments to other Acts
 
