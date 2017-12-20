@@ -1,5 +1,5 @@
 # Taxation (Budget Measures: Family Incomes Package) Act 2017
-_Consolidation as at 2017-05-29_
+_Consolidation as at 2017-12-20_
 
 ### 1 Title
 This Act is the Taxation (Budget Measures: Family Incomes Package) Act 2017.
