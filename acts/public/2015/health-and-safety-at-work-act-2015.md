@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2017-12-21_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -263,6 +263,7 @@ In this Act, unless the context otherwise requires,—
       (i) Electricity Act 1992:
       (ii) Gas Act 1992:
       (iii) Hazardous Substances and New Organisms Act 1996:
+      (iiia) Outer Space and High-altitude Activities Act 2017:
       (iv) WorkSafe New Zealand Act 2013
   - **representative** , in relation to a worker, means—
     (a) the health and safety representative for the worker; or
@@ -2672,7 +2673,7 @@ A worker participation system developed, agreed, and implemented under section 1
 **New Zealand Mining Board of Examiners**
 
 ### 22 Continuation of New Zealand Mining Board of Examiners
-(1) The New Zealand Mining Board of Examiners (the Board) established under section 20D of the Health and Safety in Employment Act 1992 is continued.
+(1) The New Zealand Mining Board of Examiners (the Board) established under section 20D of the Health and Safety in Employment Act 1992is continued.
 (2) A person who, immediately before the commencement of this clause, held office as a member of the Board continues in office on and after that commencement and must be treated as if the person were appointed under clause 29 of Schedule 3 of this Act.
 
 ### 23 Savings of Board levy
