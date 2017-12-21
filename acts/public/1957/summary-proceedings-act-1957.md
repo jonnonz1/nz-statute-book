@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2017-12-21_
 
 > Title
 
@@ -55,6 +55,7 @@ _Consolidation as at 2017-12-01_
     (ja) section 235A of the Employment Relations Act 2000; or
     (ja) section 74 of the Psychoactive Substances Act 2013; or
     (jb) section 138 of the Health and Safety at Work Act 2015; or
+    (jba) section 82 of the Outer Space and High-altitude Activities Act 2017; or
     (jc) section 153 of the Fire and Emergency New Zealand Act 2017; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
@@ -2513,23 +2514,6 @@ Section 5 does not apply to the following legal proceedings:
   (b) any other legal proceedings that expressly challenge the validity of a conviction for an offence against section 223(d), 241(c), or 247(c) of the Crimes Act 1961 on the ground that that provision was not referred to in Part 1 of Schedule 1 of the Summary Proceedings Act 1957 at the date of that conviction, if those proceedings were commenced, and contained that ground, before the date on which this Act receives the Royal assent.
 
 ### 1 Title
-This Act is the Summary Proceedings Amendment Act 2011.
-
-### 2 Commencement
-(1) The following provisions come into force on the day after the date on which this Act receives the Royal assent:
-  (a) section 3:
-  (b) section 17:
-  (c) section 27 (but only to the extent that it relates to section 88B of the Summary Proceedings Act 1957):
-  (d) section 31 (but only to the extent that it relates to section 92I of the Summary Proceedings Act 1957):
-  (e) section 45.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
-(3) Any provisions of this Act that are not in force on the expiry of the period of 15 months that starts on the date on which this Act receives the Royal assent come into force (despite subsection (2)) on that expiry.
-
-### 47 Transitional provisions relating to pre-commencement fines and warrants
-(1) The principal Act as amended by this Act applies to the enforcement of any fine whether adjudged, ordered, or deemed to be ordered to be paid before or after the commencement of this Act.
-(2) Amendment(s) incorporated in the Act(s).
-
-### 1 Title
 This Act is the Crimes Amendment Act (No 3) 2011.
 
 ### 2 Commencement
@@ -2543,35 +2527,3 @@ This Act amends the Crimes Act 1961.
 ### 12 Transitional provision
 (1) The amendments and repeals made by this Act do not apply to any offence committed or alleged to have been committed (in whole or in part) before the commencement of this Act and the principal Act as in force before the commencement of this Act continues to apply to any such offence.
 (2) Section 414 of the principal Act has effect (with any necessary modifications) if the date on which the offence was committed cannot be established with sufficient certainty.
-
-### 1 Title
-This Act is the Search and Surveillance Act 2012.
-
-### 2 Commencement
-(1) Part 1 and subpart 1 of Part 3 (other than section 49(3) and (4)), and sections 136, 140, 141, 148, 162, 165, 166, 167, 168, 169, 170, 171, 172, 175, 179, 180, 181, 247, 248, 251(3), 325 (other than section 325(4) and (6)), 334(1) and (7), 337(4), 342, 343, 346, 347, 349, 350, 352, 353, 354, 355, and 356 come into force on 18 April 2012.
-(2) The rest of this Act comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(3) To the extent that it is not previously brought into force under subsection (2), the rest of this Act comes into force on 1 April 2014.
-(4) In this section, provision includes any item, or any part of an item, in the Schedule.
-
-## Part 1 — General provisions
-
-### 5 Purpose
-The purpose of this Act is to facilitate the monitoring of compliance with the law and the investigation and prosecution of offences in a manner that is consistent with human rights values by—
-  (a) modernising the law of search, seizure, and surveillance to take into account advances in technologies and to regulate the use of those technologies; and
-  (b) providing rules that recognise the importance of the rights and entitlements affirmed in other enactments, including the New Zealand Bill of Rights Act 1990, the Privacy Act 1993, and the Evidence Act 2006; and
-  (c) ensuring investigative tools are effective and adequate for law enforcement needs.
-
-## Part 5 — Amendments, repeals, and miscellaneous provisions
-
-### Subpart 4 — Regulation-making powers, transitional provisions, and review provision
-
-**Transitional provisions**
-
-### 349 Transitional provision relating to sections 200A to 200P of Summary Proceedings Act 1957
-(1) Despite the repeal of sections 200A to 200P of the Summary Proceedings Act 1957 by this Act,—
-  (a) where an application has been made under any of those sections before 18 April 2012, and the application is not finally determined before that date, those sections continue to apply to the application and to any matter or obligation relating to the application in all respects as if this Act (other than this section) had not been enacted; and
-  (b) those sections (except for section 200F) continue to apply to a continuing warrant and to any matter relating to the continuing warrant in all respects as if this Act (other than this section) had not been enacted; and
-  (c) those sections continue to apply to anything done, before 18 April 2012, under section 200G of that Act.
-(2) In this section, continuing warrant means a tracking device warrant or a warrant for removal of a tracking device issued under sections 200A to 200P of the Summary Proceedings Act 1957—
-  (a) before 18 April 2012; or
-  (b) on or after that date on an application made before that date.
