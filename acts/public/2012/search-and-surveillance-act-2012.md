@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2017-12-21_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3734,6 +3734,8 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 | Oranga Tamariki Act 1989 | 39(1) and (3) | Constable or chief executive may obtain and execute place of safety warrant authorising search for, and removal of, child at risk of harm | Sections 99, 101, and 105 |
 |  | 40(1) and (4) | On application for order that child is in need of care and protection, constable or chief executive may obtain and execute search warrant authorising search for and removal of child | Sections 99, 101, and 105 |
 |  | 386(1) | If child or young person absconds, constable or chief executive may obtain and execute search warrant authorising search for, and removal and return of, child or young person | Sections 99, 101, and 105 |
+| Outer Space and High-altitude Activities Act 2017 | 60 | Powers of enforcement officers | Subparts 1, 4, 5, 6, 7, 9, and 10 (except for sections 118 and 119) |
+|  | 61 | Provisions relating to entry to dwellinghouse or marae | Subparts 1, 3, 4, 5, 7, 9, and 10 (except that sections 118 and 119 apply only in respect of warrant issued to a named constable or to every constable) |
 | Overseas Investment Act 2005 | 56(3) | Regulator may obtain search warrant to search place or thing if there are reasonable grounds to believe offence under Overseas Investment Act 2005 has been, or is being, committed at place or thing or there is on, under, or over place or thing evidence of offence against that Act | All (except sections 118 and 119) |
 | Ozone Layer Protection Act 1996 | 23(1) | Constable may obtain and execute search warrant to search for evidence of offence against Ozone Layer Protection Act 1996 | All (except sections 118 and 119) |
 |  | 25 | If any constable or officer seizes any substance or goods under Ozone Layer Protection Act 1996, subparts 1, 6, 7, 9, and 10 of Part 4 of Search and Surveillance Act 2012 apply | Subparts 1, 6, 7, 9, and 10 |
