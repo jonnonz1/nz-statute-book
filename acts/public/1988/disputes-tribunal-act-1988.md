@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -252,13 +252,13 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 (8) Nothing in subsection (1) shall restrict the making by the Tribunal of any order that it is authorised to make by any other enactment.
 
 ### 20 Power of Tribunal to award interest
-(1) Subject to subsection (2), where the Tribunal makes an order under section 19(1)﻿(a) or section 47(3)﻿(b) that a party to the proceedings pay money to another party to the proceedings, the Tribunal may, if it thinks fit, order that there shall be included in the amount so ordered to be paid interest at such rate, not exceeding the prescribed rate, as it thinks fit on the whole or any part of that amount for the whole or any part of the period between the date when the cause of action arose and the date of the making of the order.
+(1) Subject to subsection (2), where the Tribunal makes an order under section 19(1)﻿(a) or section 47(3)﻿(b) that a party to the proceedings pay money to another party to the proceedings, the Tribunal may, if it thinks fit, order that there shall be included in the amount so ordered to be paid interest, calculated in accordance with (or on a basis that ensures it does not exceed interest calculated in accordance with) Schedule 2 of the Interest on Money Claims Act 2016, on the whole or any part of that amount for the whole or any part of the period between the date when the cause of action arose and the date of the making of the order.
 (2) Subsection (1) does not—
-  (a) authorise the giving of interest upon interest; or
+  (a)
   (b) apply in relation to any debt upon which interest is payable as of right, whether by virtue of any agreement, enactment, or rule of law, or otherwise.
-(3) Where the Tribunal makes an order under section 19(1)﻿(a) in respect of a debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law, or otherwise, there shall be included in the amount ordered to be paid interest at such rate, not exceeding the prescribed rate, as the Tribunal thinks fit for the period between the date as from which interest became payable and the date of the making of the order.
+(3) Where the Tribunal makes an order under section 19(1)﻿(a) in respect of a debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law, or otherwise, there shall be included in the amount ordered to be paid interest, calculated in accordance with (or on a basis that ensures it does not exceed interest calculated in accordance with) Schedule 2 of the Interest on Money Claims Act 2016, for the period between the date as from which interest became payable and the date of the making of the order.
 (4) The monetary restrictions provided for by section 10(1A) and (3), section 13(2), and subsections (4) to (7) of section 19 do not apply in respect of any interest claimed, payable, or ordered to be paid under this section.
-(5) In this section the term the prescribed rate means the rate of 11% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
+(5)
 
 ### 21 Reasons for decisions
 (1) The Tribunal shall in all proceedings give its reasons for its final decision in the proceedings.
