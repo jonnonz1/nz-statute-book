@@ -1,5 +1,5 @@
 # District Courts Amendment Act 1982
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 > An Act to validate the exercise of civil jurisdiction and criminal jurisdiction at Henderson, and the exercise of jurisdiction by Small Claims Tribunals at Gisborne, Henderson, and Invercargill
 
