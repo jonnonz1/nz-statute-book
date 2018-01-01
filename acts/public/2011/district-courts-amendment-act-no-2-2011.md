@@ -1,5 +1,5 @@
 # District Courts Amendment Act (No 2) 2011
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the District Courts Amendment Act (No 2) 2011.
@@ -33,20 +33,20 @@ The following sections are inserted after section 11C:No proceeding against Comm
     (a) the Community Magistrate acted in good faith under the belief that he or she had in fact jurisdiction; and
     (b) in all the circumstances the Community Magistrate ought fairly and reasonably to be excused; and
     (c) the amount paid or agreed to be paid was fair and reasonable.
-  (5) If the High Court Judge is not satisfied of the matter in subsection (4)(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Community Magistrate must be indemnified by the Crown to the amount specified in the certificate.
+  (5) If the High Court Judge is not satisfied of the matter in subsection (4)﻿(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Community Magistrate must be indemnified by the Crown to the amount specified in the certificate.
   (6) Application for a certificate under any of subsections (2), (4), or (5) may be made by a Community Magistrate at any time to a Judge in Chambers, and the Judge has power to grant the certificate after considering all evidence that is given before him or her either orally or in the form of affidavits.
   (7) A copy of the application must be served by the Community Magistrate on the Attorney-General, who is entitled to appear and oppose it.
 
 ### 6 Principal Act amendments taking into account section 14 of District Courts Amendment Act 2011
 (1) If section 14 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
-  (a) section 84C(2)(c) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
-  (b) new section 84EA(5)(c) as inserted by section 14 of the District Courts Amendment Act 2011 is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
+  (a) section 84C(2)﻿(c) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
+  (b) new section 84EA(5)﻿(c) as inserted by section 14 of the District Courts Amendment Act 2011 is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
   (c) subsection (2) of this section is repealed.
 (2)
 
 ### 7 Principal Act amendment further taking into account section 14 of District Courts Amendment Act 2011
 (1) If section 14 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
-  (a) section 84C(2)(d) of the principal Act is amended by omitting constable and substituting Police employee; and
+  (a) section 84C(2)﻿(d) of the principal Act is amended by omitting constable and substituting Police employee; and
   (b) subsection (2) of this section is repealed.
 (2)
 
@@ -58,14 +58,14 @@ The following sections are inserted after section 11C:No proceeding against Comm
 
 ### 9 Principal Act: first amendment taking into account section 23 of District Courts Amendment Act 2011
 (1) If section 23 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
-  (a) section 84O(6)(b) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
-  (b) new section 84OB(3)(d) as inserted by section 23 of the District Courts Amendment Act 2011 is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
+  (a) section 84O(6)﻿(b) of the principal Act is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
+  (b) new section 84OB(3)﻿(d) as inserted by section 23 of the District Courts Amendment Act 2011 is amended by omitting section 46 of the Summary Proceedings Act 1957 and substituting section 168 of the Criminal Procedure Act 2011; and
   (c) subsection (2) of this section is repealed.
 (2)
 
 ### 10 Principal Act: second amendment taking into account section 23 of District Courts Amendment Act 2011
 (1) If section 23 of the District Courts Amendment Act 2011 is not in force on the date that this section comes into force,—
-  (a) section 84O(6)(c) of the principal Act is amended by omitting constable in each place where it appears and substituting in each case Police employee; and
+  (a) section 84O(6)﻿(c) of the principal Act is amended by omitting constable in each place where it appears and substituting in each case Police employee; and
   (b) subsection (2) is repealed.
 (2)
 
