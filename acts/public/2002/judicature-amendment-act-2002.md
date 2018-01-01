@@ -1,5 +1,5 @@
 # Judicature Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 (1) This Act is the Judicature Amendment Act 2002.
