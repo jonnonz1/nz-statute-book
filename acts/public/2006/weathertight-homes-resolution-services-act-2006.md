@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -1812,8 +1812,7 @@ In any adjudication the tribunal may, if it thinks fit, dispense with any eviden
 (2) Every application for an order under section 105 or 106 of the District Court Act 2016 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 
 ### 16 Power to award interest
-(1) In any adjudication for the recovery of any money, the tribunal may, if it thinks fit and subject to subclause (2), order the inclusion, in the sum for which a determination is given, of interest, at such rate, not exceeding the 90-day bill rate plus 2%, as the tribunal thinks fit, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
-(2) Subclause (1) does not authorise the giving of interest upon interest.
+In any adjudication for the recovery of any money, the tribunal may, if it thinks fit, order the inclusion, in the sum for which a determination is given, of interest, calculated in accordance with (or on a basis that ensures it does not exceed interest calculated in accordance with) Schedule 2 of the Interest on Money Claims Act 2016, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
 
 ### 17 Power to proceed if any party fails to attend
 If, without good cause shown, any party to a claim before the tribunal fails to attend or be represented, the tribunal may act as fully in the matter before it as if that party had duly attended or been represented.
