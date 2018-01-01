@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -5276,9 +5276,9 @@ Any party to a matter before the Authority is competent to give evidence in the 
 (2) Where a matter is resolved by the Authority making a consent order as to the terms of settlement, the Authority may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the Authority thinks fit.
 
 ### 11 Power to award interest
-(1) In any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under section 87(3) of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
+(1) In any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
 (2) Without limiting the Authority's discretion under subclause (1), in deciding whether to order the inclusion of interest, the Authority must consider whether there has been long-standing and repeated non-compliance with a demand notice.
-(3) Subclause (1) does not authorise the giving of interest upon interest.
+(3)
 
 ### 12 Power to proceed if any party fails to attend
 If, without good cause shown, any party to a matter before the Authority fails to attend or be represented, the Authority may act as fully in the matter before it as if that party had duly attended or been represented.
@@ -5386,8 +5386,7 @@ In any proceedings the court may, if it thinks fit, dispense with any evidence o
 (3) Nothing in subclauses (1) and (2) limits the making of rules under section 212 or regulations under section 237.
 
 ### 14 Power to award interest
-(1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under section 87(3) of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
-(2) Subclause (1) does not authorise the giving of interest upon interest.
+In any proceedings for the recovery of any money, the court may, if it thinks fit, order that the amount awarded include interest, calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
 
 ### 15 Power to dismiss frivolous or vexatious proceedings
 (1) The court may, at any time in any proceedings before it, dismiss a matter or defence that the court considers to be frivolous or vexatious.
