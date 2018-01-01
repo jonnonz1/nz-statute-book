@@ -1,5 +1,5 @@
 # District Courts Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 > An Act to amend the District Courts Act 1947
 
