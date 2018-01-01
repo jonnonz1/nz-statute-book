@@ -1,5 +1,5 @@
 # Judicature Amendment Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 > An Act to amend the Judicature Act 1908
 
