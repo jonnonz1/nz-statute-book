@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-01-01_
 
 ### 1 Short Title and commencement
 [Repealed]
@@ -297,13 +297,7 @@ _Consolidation as at 2017-03-01_
 **Judgments and orders**
 
 ### 62B Power of court to award interest on debts and damages
-(1) Subject to subsection (2), in a proceeding for the recovery of any debt or damages, the court may, if it thinks fit, order that there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment.
-(2) Subsection (1) shall not—
-  (a) authorise the giving of interest upon interest; or
-  (b) apply in relation to any debt upon which interest is payable as of right, whether by virtue of any agreement, enactment, or rule of law, or otherwise; or
-  (c) affect the damages recoverable for the dishonour of a bill of exchange.
-(3) In any proceedings for the recovery of any debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law, or otherwise, there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as the court thinks fit for the period between the date as from which the interest became payable and the date of the judgment.
-(4) In this section the term the prescribed rate means the rate of 11% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
+[Repealed]
 
 ### 63 Finality of judgments and orders
 [Repealed]
@@ -315,13 +309,7 @@ _Consolidation as at 2017-03-01_
 [Repealed]
 
 ### 65A Interest on judgment debts
-(1) In this section—
-  - **enforcement process** , in relation to a judgment debt, means any summons, warrant, or order issued or made in any proceedings of a kind referred to in section 79(1) for the enforcement of that debt
-  - **judgment debt** means the amount for which judgment is entered or for which an order of a court is made in any civil proceedings.
-(2) Every judgment debt of an amount exceeding $3,000, or such other amount as may be fixed from time to time for the purposes of this section by the Governor-General by Order in Council, shall carry interest from the date of the judgment or order on the amount for the time being remaining unpaid.
-(3) Such interest shall be at the rate for the time being prescribed by or under section 62B, and shall accrue from month to month.
-(4) No interest shall be payable on costs incurred after the date of the judgment or order.
-(5) Notwithstanding subsection (2) or subsection (3), where any enforcement process is issued in respect of the judgment debt, no interest shall be payable in excess of the amount specified in the process unless a further such process is issued.
+[Repealed]
 
 **Removal of judgments**
 
