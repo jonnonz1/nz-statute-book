@@ -1,5 +1,5 @@
 # District Courts Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 (1) This Act is the District Courts Amendment Act 2002.
@@ -29,7 +29,7 @@ The principal Act is amended by repealing Part 5, and substituting the following
       (ii) to consider or determine (whether for the first time or again) any matters the High Court directs; or
       (iii) to enter judgment for any party to the proceedings concerned the High Court directs:
     (c) make any further or other orders it thinks fit (including any orders as to costs).
-  (2) The High Court must state its reasons for giving a direction under subsection (1)(b).
+  (2) The High Court must state its reasons for giving a direction under subsection (1)﻿(b).
   (3) The High Court may give the District Court any direction it thinks fit relating to—
     (a) rehearing any proceedings directed to be reheard; or
     (b) considering or determining any matter directed to be considered or determined.
@@ -87,7 +87,7 @@ An appeal, under any enactment, commenced before the commencement of section 3 m
 (8) Subsection (7) overrides subsection (6).
 
 ### 31A Effect of High Court's order or decision
-Except as provided in section 31B(1)(b), an order or decision of the High Court on an appeal under section 31 is final.
+Except as provided in section 31B(1)﻿(b), an order or decision of the High Court on an appeal under section 31 is final.
 
 ### 39 Right of appeal to High Court
 (1) This subsection applies to a decision of a Family Court or District Court, in proceedings under this Act, to—
