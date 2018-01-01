@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -17,7 +17,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 (2A) Subpart 2 of Part 2 must be read with the following related enactments:
   (a) the Legal Services Act 2011, which facilitates the granting of legal aid in respect of victims’ claims proceedings under subpart 2 of Part 2 of this Act; and
   (b) the Privacy Act 1993, which enables the Ministry of Justice to have access to Police records on offender identity and victim identity for the purpose of providing assistance to victims in accordance with this Act; and
-  (c) the Victims’ Rights Act 2002, which requires the Secretary for Justice to request, for the purposes of a notice under section 20 of this Act, the current address (including the full name) of a victim who has asked for notice of certain matters under that Act.
+  (c) the Victims' Rights Act 2002, which requires the Secretary for Justice to request, for the purposes of a notice under section 20 of this Act, the current address (including the full name) of a victim who has asked for notice of certain matters under that Act.
 (3) The purpose of subpart 3 of Part 2 is to suspend the running of limitation periods for certain claims by victims.
 (4) The purpose of subpart 4 of Part 2 is to ensure that after 30 June 2013 generally only the following provisions apply or continue to apply to specified claims made before 1 July 2013, money to be paid as compensation in respect of claims of that kind, and victims' claims against money of that kind:
   (a) the provisions of this Act as in force immediately before 1 July 2013; and
@@ -346,7 +346,7 @@ In sections 22 and 28, sending date, in relation to a notice required by section
 
 ### 24 Secretary’s duties for purposes of section 21
 (1) The Secretary must, for the purposes of section 21, take reasonable steps to identify, and ascertain the contact details of, people who may be or are victims of the accused or the offender.
-(2) Those steps include requesting under section 33A of the Victims’ Rights Act 2002 the current address (including the full name) of a person—
+(2) Those steps include requesting under section 33A of the Victims' Rights Act 2002 the current address (including the full name) of a person—
   (a) who may be or is a victim of the accused or the offender; and
   (b) who asked for notice of certain matters under that Act and gave his or her current address for that purpose.
 (3) To help to identify, and ascertain the contact details of, people who may be or are victims of the accused or the offender, the Secretary may, by making a request for the purpose to the appropriate Registrar or Judge Advocate General, and without paying a fee, access or search, inspect, and take or be issued with copies of or extracts from, court documents or records that—
@@ -563,9 +563,9 @@ Subject to sections 28 to 44, 46, 59, and 60, the Tribunal may regulate the proc
 ### 47 Further provisions on determination of claims received
 (1) The Tribunal must determine any amounts to be paid to victims without taking account in any way of the amount of money actually held in the account for the offender.
 (2) In determining whether to order under section 46(3) or (4) that an amount be paid to a victim by way of damages or exemplary damages, and in quantifying that amount, the Tribunal must apply the general law relating to the awarding of damages.
-(3) The Tribunal may, if it thinks fit, include in the amount ordered to be paid to a victim under section 46(3) or (4) interest at a rate, not exceeding the prescribed rate, it thinks fit on some or all of the damages for all or a part of the period between the date when the cause of action arose and the date of the order.
-(4) However, the Tribunal cannot give interest upon interest.
-(5) In this section and in section 50, the prescribed rate means the prescribed rate as defined in section 62B(4) of the District Courts Act 1947.
+(3) The Tribunal may, if it thinks fit, include in the amount ordered to be paid to a victim under section 46(3) or (4) interest calculated in accordance with, or on a basis that ensures it does not exceed interest calculated in accordance with, Schedule 2 of the Interest on Money Claims Act 2016, on some or all of the damages for all or a part of the period between the date on which the cause of action arose and the date of the order.
+(4)
+(5)
 (6) Without limiting the Tribunal’s powers, the Tribunal may dismiss a victim’s claim if satisfied that it is frivolous, vexatious, or made solely for the purpose of delay.
 
 ### 48 Implementation of order
@@ -780,7 +780,7 @@ The limitation periods to which this section applies cease to run for the action
 [Repealed]
 
 ### 1 Title
-This Act is the Prisoners’ and Victims’ Claims Amendment Act 2007.
+This Act is the Prisoners' and Victims' Claims Amendment Act 2007.
 
 ### 2 Commencement
 This Act is deemed to have come into force on 30 June 2007.
