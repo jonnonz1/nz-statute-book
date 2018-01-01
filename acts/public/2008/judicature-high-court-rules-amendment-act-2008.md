@@ -1,5 +1,5 @@
 # Judicature (High Court Rules) Amendment Act 2008
-_Consolidation as at 2008-09-25_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Judicature (High Court Rules) Amendment Act 2008.
@@ -25,7 +25,7 @@ Section 4B is amended by adding the following subsection as subsection (2):
   (2) The Chief High Court Judge may make all the arrangements that are necessary for the sittings of the Court and the conduct of its business.
 
 ### 6 Associate Judge may exercise certain powers of the Court
-Section 26I(1) is amended by inserting the following paragraphs after paragraph (e):.
+Section 26I(1) is amended by inserting the following paragraphs after paragraph (e):
   (ea) the making of any order (other than an arrest order or an order relating to an arrest order) that may be made under rules of court against a judgment debtor who has been ordered to attend court for examination:
   (eb) the making, variation, suspension, or discharge of attachment orders under rules of court:
 
@@ -243,7 +243,7 @@ the Crown has the same meaning as in section 2(1) of the Crown Proceedings Act 1
 
 ### 1.13 Failure to give notice
 A failure to comply with rule 1.11 does not prevent a person speaking Māori at a case management conference or pre-trial conference or hearing, but—
-  (a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c) of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
+  (a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)﻿(a) or (c) of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
   (b) the court may treat the failure to comply as a relevant consideration in an award of costs.
 
 ### 1.14 Translation may be ordered by court
@@ -389,7 +389,7 @@ An order made by a Registrar under rule 2.5 or 2.6 must—
   (b) a Registrar’s refusal to file a document tendered for filing:
   (c) a Registrar’s refusal to perform a duty placed on him or her under these rules.
 (2) The Judge may, on review, make any orders he or she thinks just.
-(3) It is not necessary to apply for an order for an extraordinary remedy under Part 30 or to make an application for review under Part 1 of the Judicature Amendment Act 1972 when seeking a review under subclause (1)(b) or (c).
+(3) It is not necessary to apply for an order for an extraordinary remedy under Part 30 or to make an application for review under Part 1 of the Judicature Amendment Act 1972 when seeking a review under subclause (1)﻿(b) or (c).
 (4) Notice of an application for review must be filed,—
   (a) if it is made by a party who was present or represented when the decision or refusal of the Registrar was given, within 5 working days of the decision or refusal; or
   (b) if it is made by a party who was not present or represented, within 5 working days after the receipt by the party of notice of the decision or refusal.
@@ -768,7 +768,7 @@ Rules 4.34 to 4.46 apply to a minor to whom rule 4.31(1) applies, and every refe
 The court may set aside a step in a proceeding if an incapacitated person did not have a litigation guardian when that step was taken and the court considers that the incapacitated person was unfairly prejudiced.
 
 ### 4.35 Appointment of litigation guardian
-(1) This rule applies if an incapacitated person does not have a litigation guardian within the meaning of paragraph (a)(i) of the definition of litigation guardian in rule 4.29.
+(1) This rule applies if an incapacitated person does not have a litigation guardian within the meaning of paragraph (a)﻿(i) of the definition of litigation guardian in rule 4.29.
 (2) The court may appoint a litigation guardian if it is satisfied that—
   (a) the person for whom the litigation guardian is to be appointed is an incapacitated person; and
   (b) the litigation guardian—
@@ -785,13 +785,13 @@ The court may set aside a step in a proceeding if an incapacitated person did no
   (a) may be made without notice; and
   (b) must be served on the person for whom the litigation guardian is to be appointed.
 (2) When the person for whom the litigation guardian is to be appointed is a minor,—
-  (a) subclause (1)(b) does not apply; and
+  (a) subclause (1)﻿(b) does not apply; and
   (b) unless the court otherwise orders, the application must be served instead on—
     (i) the minor’s parent or guardian; or
     (ii) if there is no parent or guardian, a person of full age who has the care of the minor or with whom the minor lives.
 
 ### 4.37 Notification of appointment
-(1) A litigation guardian within the meaning of paragraph (a)(i) of the definition of litigation guardian in rule 4.29 must file a copy of the order or other document that empowers him or her to conduct the proceeding, at the same time as the first document relating to the proceeding is filed.
+(1) A litigation guardian within the meaning of paragraph (a)﻿(i) of the definition of litigation guardian in rule 4.29 must file a copy of the order or other document that empowers him or her to conduct the proceeding, at the same time as the first document relating to the proceeding is filed.
 (2) A person appointed under rule 4.35 as a litigation guardian of a party to a proceeding must give notice of the appointment to other parties in the proceeding as soon as practicable after the appointment.
 
 ### 4.38 Powers of litigation guardian
@@ -820,7 +820,7 @@ The fact that an incapacitated person is, or has been, represented by a litigati
   (a) the incapacitated person:
   (b) the person who is the litigation guardian of the incapacitated person at the time the costs determination is made:
   (c) a person against whom an order for indemnity or contribution has been made under rule 4.43, to the extent of the amount of the indemnity or contribution.
-(2) Unless the court otherwise orders, a litigation guardian is entitled to be reimbursed out of the property of the incapacitated person for any costs paid under subclause (1)(b) or (c).
+(2) Unless the court otherwise orders, a litigation guardian is entitled to be reimbursed out of the property of the incapacitated person for any costs paid under subclause (1)﻿(b) or (c).
 
 ### 4.43 Liability of former litigation guardian for costs subsequently awarded against incapacitated person
 The court may make an order—
@@ -907,7 +907,7 @@ A party’s name that is incorrectly stated in pleadings or changed by marriage,
     (i) the person ought to have been joined; or
     (ii) the person’s presence before the court may be necessary to adjudicate on and settle all questions involved in the proceeding.
 (2) An order does not require an application and may be made on terms the court considers just.
-(3) Despite subclause (1)(b), no person may be added as a plaintiff without that person’s consent.
+(3) Despite subclause (1)﻿(b), no person may be added as a plaintiff without that person’s consent.
 
 #### Subpart 10 — Interpleader
 
@@ -966,7 +966,7 @@ In this rule and rules 4.58 to 4.64, unless the context otherwise requires,—
 (4) The court may make an order declaring that the claimant and all persons claiming under that claimant may not continue or subsequently prosecute that claim against the applicant and all persons claiming under the applicant but that order does not affect the rights of the claimants as between themselves.
 
 ### 4.64 Costs of applicant
-(1) Unless the court otherwise orders, an applicant is entitled to the indemnity costs (as defined by rule 14.6(1)(b)) of and incidental to the application.
+(1) Unless the court otherwise orders, an applicant is entitled to the indemnity costs (as defined by rule 14.6(1)﻿(b)) of and incidental to the application.
 (2) The court may order that the applicant’s costs be paid by any 1 or more of the claimants and may apportion the liability between any 2 or more claimants, as it thinks just.
 (3) The court may charge any property in dispute, or the proceeds of the sale of it, or both, with payment of the costs of the applicant.
 
@@ -983,7 +983,7 @@ In this rule and rules 4.58 to 4.64, unless the context otherwise requires,—
     (i) an application for judicial review under Part 1 of the Judicature Amendment Act 1972 that arises out of, or relates to, the making of a designation under the Terrorism Suppression Act 2002:
     (ii) an application for, or in the nature of, an extraordinary remedy under Part 30 of these rules that arises out of, or relates to, the making of a designation under the Terrorism Suppression Act 2002:
     (iii) an application under section 35, 47E, or 55 of the Terrorism Suppression Act 2002.
-(2) Despite subclause (1)(a), if the place where the cause of action sued on, or some material part of it, arose is nearer to the place where the plaintiff or the plaintiff first-named in the statement of claim resides than to the place where the defendant resides, the proper registry of the court for the purposes of subclause (1) is, at the option of the plaintiff or the plaintiff first-named, as the case may be, the registry nearest to the residence of the plaintiff or the plaintiff first-named, as the case may be.
+(2) Despite subclause (1)﻿(a), if the place where the cause of action sued on, or some material part of it, arose is nearer to the place where the plaintiff or the plaintiff first-named in the statement of claim resides than to the place where the defendant resides, the proper registry of the court for the purposes of subclause (1) is, at the option of the plaintiff or the plaintiff first-named, as the case may be, the registry nearest to the residence of the plaintiff or the plaintiff first-named, as the case may be.
 (3) If a plaintiff proposes to exercise the option conferred by subclause (2), the plaintiff must file with the statement of claim and notice of proceeding an affidavit by the plaintiff or the plaintiff’s solicitor stating the place where the cause of action or the material part of it arose, and that that place is nearer to the place where the plaintiff or the plaintiff first-named in the statement of claim resides than to the place where the defendant resides.
 (4) If it appears to a Judge, on application made, that the statement of claim has been filed in the wrong registry of the court, he or she may direct that the statement of claim or all documents filed in the proceeding be transferred to the proper registry.
 (5) If it appears to a Judge, on application made, that a different registry of the court would be more convenient to the parties, he or she may direct that the statement of claim or all documents be transferred to that registry and that registry becomes the proper registry.
@@ -1037,9 +1037,9 @@ All documents presented for filing must have the proper heading of the proceedin
     (iii) if applicable, the next event date; and
     (iv) if applicable, the name of the Judge or Associate Judge to whom the proceeding has been assigned; and
     (v) the information required by rule 5.16; and
-  (b) leave ample space between the description of the document and the information referred to in paragraph (a)(v) for the inclusion of a minute.
+  (b) leave ample space between the description of the document and the information referred to in paragraph (a)﻿(v) for the inclusion of a minute.
 (2) The heading may, if necessary, be continued on another sheet.
-(3) In subclause (1)(a)(iii), next event date means, if allocated, the date and nature of a hearing or conference that is to be held next after the date on which the document is filed.
+(3) In subclause (1)﻿(a)﻿(iii), next event date means, if allocated, the date and nature of a hearing or conference that is to be held next after the date on which the document is filed.
 
 #### Subpart 3 — Heading of court documents
 
@@ -1207,14 +1207,14 @@ A solicitor by whom, or on whose behalf, a document is filed in the court is to 
 (2) If the party’s address for service after the change of representation will be different from that which applied before the change, the party must also serve a copy of the notice at the address that was, immediately before the change, the party’s address for service.
 (3) The notice—
   (a) must be signed by the party personally or by the party’s attorney; and
-  (b) in the case of a notice under subclause (1)(a) or (b), must contain the information about the new solicitor required by paragraphs (b) to (e) of rule 5.44(1); and
-  (c) in the case of a party referred to in subclause (1)(c), must state that the party’s intention is to act in person.
+  (b) in the case of a notice under subclause (1)﻿(a) or (b), must contain the information about the new solicitor required by paragraphs (b) to (e) of rule 5.44(1); and
+  (c) in the case of a party referred to in subclause (1)﻿(c), must state that the party’s intention is to act in person.
 (4) For the purpose of the proceeding, the change of representation takes effect on the filing of an affidavit proving service in accordance with subclause (1) and attaching and verifying a copy of the notice served.
 (5) A party may change that party’s address for service by—
   (a) filing a notice of the change showing the new address for service; and
   (b) serving a copy of the notice on every other party.
 (6) A change of address for service may be combined with a notice under subclause (1).
-(7) A notice of change of address for service need not be filed under subclause (5)(a) if an affidavit is filed under subclause (4).
+(7) A notice of change of address for service need not be filed under subclause (5)﻿(a) if an affidavit is filed under subclause (4).
 (8) Form G 11 may be used.
 
 ### 5.41 Withdrawal of solicitor who has ceased to act for party
@@ -1225,7 +1225,7 @@ A solicitor by whom, or on whose behalf, a document is filed in the court is to 
     (i) has filed a notice stating that the party intends to act in person and the party’s new address for service; and
     (ii) has served a copy of the notice on the solicitor on the record and on every other party to the proceeding who has given an address for service; and
     (iii) has filed an affidavit proving that service and attaching and verifying a copy of the notice served.
-(3) Unless subclause (2)(a) or (b) applies, the solicitor on the record for a party to a proceeding, for the purposes of that proceeding, is the solicitor on the record for that party until the final conclusion of the proceeding unless and until the solicitor—
+(3) Unless subclause (2)﻿(a) or (b) applies, the solicitor on the record for a party to a proceeding, for the purposes of that proceeding, is the solicitor on the record for that party until the final conclusion of the proceeding unless and until the solicitor—
   (a) obtains an order under subclause (1); and
   (b) serves on every party to the proceeding who has given an address for service a copy of the order obtained under that subclause; and
   (c) files an affidavit proving that service.
@@ -1234,7 +1234,7 @@ A solicitor by whom, or on whose behalf, a document is filed in the court is to 
 (6) An order made under subclause (1) does not affect the rights of the solicitor and the party for whom the solicitor acted as between themselves.
 
 ### 5.42 Address for service of party whose solicitor has ceased to act
-(1) This rule applies whenever the solicitor on the record for a party has obtained an order under rule 5.41 and has complied with rule 5.41(3)(b) and (c).
+(1) This rule applies whenever the solicitor on the record for a party has obtained an order under rule 5.41 and has complied with rule 5.41(3)﻿(b) and (c).
 (2) The last known address of the party, or, when the party is a body corporate, its registered or principal registry is, for the purpose of serving the party with any document not required to be served personally, the party’s address for service until the party either—
   (a) appoints another solicitor and complies with rule 5.40; or
   (b) if entitled to act in person,—
@@ -1541,14 +1541,14 @@ Rules 6.1 and 6.2 and rules 6.4 to 6.25 apply to any notice that by these rules,
 A document may be served at an address for service by leaving the document at that address at any time between 9 am and 5 pm.
 
 ### 6.6 Service by means of post office box, document exchange, fax, or email
-(1) When a document is served on a party or person in accordance with rule 6.1(d)(i) or (ii), that document must,—
+(1) When a document is served on a party or person in accordance with rule 6.1(d)﻿(i) or (ii), that document must,—
   (a) if posted to a post office box address, be treated as served on the earlier of—
     (i) the third working day after the day on which it was posted; or
     (ii) the day on which it was received; and
   (b) if left at a document exchange, be treated as served on the earlier of—
     (i) the second working day after the day on which it was left; or
     (ii) the day on which it was received.
-(2) A document served on a party or person in accordance with rule 6.1(d)(iii) must—
+(2) A document served on a party or person in accordance with rule 6.1(d)﻿(iii) must—
   (a) be treated as dispatched at the time the electronic communication first enters an information system outside the control of its originator; and
   (b) be treated as received,—
     (i) in the case of a party who has designated an information system for the purpose of receiving electronic communications, at the time the electronic communication enters that information system; or
@@ -1722,7 +1722,7 @@ The certificate given under rule 6.25 must be sealed with the seal of the court 
 (1) If service of process has been effected out of New Zealand without leave, and the court's jurisdiction is protested under rule 5.49, the court must dismiss the proceeding unless the party effecting service establishes—
   (a) that there is—
     (i) a good arguable case that the claim falls wholly within 1 or more of the paragraphs of rule 6.27; and
-    (ii) the court should assume jurisdiction by reason of the matters set out in rule 6.28(5)(b) to (d); or
+    (ii) the court should assume jurisdiction by reason of the matters set out in rule 6.28(5)﻿(b) to (d); or
   (b) that, had the party applied for leave under rule 6.28,—
     (i) leave would have been granted; and
     (ii) it is in the interests of justice that the failure to apply for leave should be excused.
@@ -1809,14 +1809,14 @@ Except when the court otherwise orders, a defendant who has been served out of N
   (b) a second case management conference must be held within 75 working days after the commencement of the proceeding:
   (c) a pre-trial conference must be held on a date arranged by the Registrar in accordance with subclause (6).
 (2) After the commencement of a proceeding on the standard track,—
-  (a) the Registrar must make arrangements for a case management conference to be held in accordance with subclause (1)(a); and
+  (a) the Registrar must make arrangements for a case management conference to be held in accordance with subclause (1)﻿(a); and
   (b) the plaintiff must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to every other party.
 (3) The Registrar must make arrangements to ensure that, within 25 working days after a proceeding is moved to the standard track from the swift track, a case management conference is held for the proceeding.
 (4) Unless the court otherwise directs, the first case management conference that is held for a proceeding must be conducted by telephone or video link.
 (5) At the second case management conference, the presiding Judge or Associate Judge must—
   (a) issue directions for the trial; and
   (b) fix a date for the holding of the pre-trial conference, or direct the Registrar to do so.
-(6) The date referred to in subclause (5)(b) must be as close as practicable to the date that is 10 working days after the date specified by these rules or directed by the court for service of the first written statements of evidence proposed to be called at the trial.
+(6) The date referred to in subclause (5)﻿(b) must be as close as practicable to the date that is 10 working days after the date specified by these rules or directed by the court for service of the first written statements of evidence proposed to be called at the trial.
 (7) The Registrar must—
   (a) make arrangements for the pre-trial conference to be held; and
   (b) at least 10 working days before the date fixed for the pre-trial conference, remind the parties or their counsel of that date.
@@ -1824,14 +1824,14 @@ Except when the court otherwise orders, a defendant who has been served out of N
 (9) Counsel must file and serve, 2 working days before the pre-trial conference, a memorandum that addresses each of the items in Schedule 8, or, alternatively, a joint memorandum.
 
 ### 7.4 Matters to be considered at case management conferences for proceedings other than appeals
-(1) The matters to be considered at a case management conference under rule 7.3(1)(a) and (b) are—
+(1) The matters to be considered at a case management conference under rule 7.3(1)﻿(a) and (b) are—
   (a) the Schedule 5 matters that are relevant to the proceeding and its current stage; and
   (b) any interlocutory applications allocated for hearing at that conference under rule 7.33; and
   (c) any application for an interlocutory order outlined in a memorandum filed under subclause (3).
 (2) Unless excused by the Judge, the parties must, not later than 2 working days before the case management conference,—
   (a) file a joint memorandum; or
   (b) each file a memorandum.
-(3) Any memorandum filed for a conference under rule 7.3(1)(a) and (b) must—
+(3) Any memorandum filed for a conference under rule 7.3(1)﻿(a) and (b) must—
   (a) address the matters set out in Schedule 5 that are relevant to the proceeding and its current stage; and
   (b) outline, with reasonable details, any application for an interlocutory order intended to be made at the case management conference.
 (4) Any memorandum filed for a conference under subclause (2) must address the matters in that subclause.
@@ -1906,7 +1906,7 @@ Rules 7.13 to 7.18 apply to all proceedings other than proceedings that are on t
 (1) A Judge may give a direction that—
   (a) allocates a hearing date for a proceeding; or
   (b) requires the Registrar to allocate a hearing date for the proceeding.
-(2) Unless the Judge otherwise directs, if no hearing date has been allocated for the proceeding by the time that a second case management conference is, under rule 7.3(1)(b), held for the proceeding, the hearing date must be allocated at that conference whether or not any interlocutory application is outstanding.
+(2) Unless the Judge otherwise directs, if no hearing date has been allocated for the proceeding by the time that a second case management conference is, under rule 7.3(1)﻿(b), held for the proceeding, the hearing date must be allocated at that conference whether or not any interlocutory application is outstanding.
 (3) When the Judge gives a direction under subclause (1), the Judge may also give a direction that fixes the setting down date for the proceeding.
 (4) A direction under subclause (1), or directions under subclauses (1) and (3), may be given at any time on the Judge’s own initiative or on the application of 1 or more parties to the proceeding.
 (5) If the Judge gives a direction under subclause (1) without giving a direction under subclause (3), the setting down date for the proceeding is the later of—
@@ -1920,14 +1920,14 @@ If either party to a proceeding to which section 19A of the Act applies requires
 
 ### 7.15 Lists of proceedings
 The Registrar must cause the following lists to be kept:
-  (a) a list of proceedings that have been allocated a hearing date under rule 7.13(1)(a); and
-  (b) a list of proceedings for which the Registrar is, under rule 7.13(1)(b), required to allocate a hearing date.
+  (a) a list of proceedings that have been allocated a hearing date under rule 7.13(1)﻿(a); and
+  (b) a list of proceedings for which the Registrar is, under rule 7.13(1)﻿(b), required to allocate a hearing date.
 
 ### 7.16 Registrar’s functions in relation to hearing dates
-(1) After a Judge has allocated a hearing date for a proceeding under rule 7.13(1)(a), the Registrar must promptly—
+(1) After a Judge has allocated a hearing date for a proceeding under rule 7.13(1)﻿(a), the Registrar must promptly—
   (a) record the hearing date and the setting down date for the proceeding in the appropriate list; and
   (b) give written confirmation of both dates to all parties to the proceeding.
-(2) After the Judge gives a direction under rule 7.13(1)(b) for a proceeding, the Registrar must—
+(2) After the Judge gives a direction under rule 7.13(1)﻿(b) for a proceeding, the Registrar must—
   (a) promptly record the proceeding in the appropriate list; and
   (b) allocate a hearing date for the proceeding—
     (i) as soon as practicable; and
@@ -2057,8 +2057,8 @@ Despite rule 7.34(1), every application for summary judgment must be heard in op
 ### 7.39 Synopsis of argument
 (1) This rule applies to a defended interlocutory application unless, or to the extent that, a Judge directs otherwise.
 (2) The applicant must file and serve a synopsis of argument (synopsis) on every other party,—
-  (a) if the respondent has filed a notice of opposition under rule 7.24(1)(a), at least 3 working days before the hearing of the interlocutory application; or
-  (b) if the respondent has filed a notice of opposition under rule 7.24(1)(b), at least 2 working days before the hearing of the interlocutory application.
+  (a) if the respondent has filed a notice of opposition under rule 7.24(1)﻿(a), at least 3 working days before the hearing of the interlocutory application; or
+  (b) if the respondent has filed a notice of opposition under rule 7.24(1)﻿(b), at least 2 working days before the hearing of the interlocutory application.
 (3) The applicant’s synopsis must—
   (a) identify the general nature of the case:
   (b) include a chronology of the material facts:
@@ -2066,7 +2066,7 @@ Despite rule 7.34(1), every application for summary judgment must be heard in op
   (d) be accompanied by or have annexed to it—
     (i) an indexed and paginated set of relevant documents; and
     (ii) a list of authorities.
-(4) The material required to be included in the applicant’s synopsis under subclause (3)(a) to (c) must not exceed 10 pages.
+(4) The material required to be included in the applicant’s synopsis under subclause (3)﻿(a) to (c) must not exceed 10 pages.
 (5) The respondent must, at least 1 working day before the hearing, file and serve a synopsis on every other party.
 (6) The respondent’s synopsis must—
   (a) identify any material facts that are not referred to in the applicant’s synopsis:
@@ -2075,7 +2075,7 @@ Despite rule 7.34(1), every application for summary judgment must be heard in op
   (d) be accompanied by or have annexed to it—
     (i) an indexed and paginated set of any relevant documents not included in the applicant’s synopsis; and
     (ii) a list of any authorities not included in the applicant’s synopsis.
-(7) The material required to be included in the respondent’s synopsis under subclause (6)(a) to (c) must not exceed 10 pages.
+(7) The material required to be included in the respondent’s synopsis under subclause (6)﻿(a) to (c) must not exceed 10 pages.
 
 ### 7.40 Failure to attend
 (1) If a party is neither present nor represented at the hearing of an application, the Judge may—
@@ -2108,7 +2108,7 @@ The hearing of an application may, from time to time, be adjourned on any terms 
 (2) An interlocutory order may be made—
   (a) on the interlocutory application of a party; or
   (b) on a Judge’s own initiative.
-(3) Before making an order under subclause (2)(b), the Judge must give the parties an opportunity to be heard.
+(3) Before making an order under subclause (2)﻿(b), the Judge must give the parties an opportunity to be heard.
 
 ### 7.44 Power to grant interlocutory order or interlocutory relief
 A Judge may make any interlocutory order or grant any interlocutory relief the Judge thinks just, even though the order or relief has not been specifically claimed and there is no claim for general or other relief.
@@ -2493,7 +2493,7 @@ If there are more than 2 parties, a party who is required under rule 8.2 to answ
 ### 8.9 Insufficient answer
 If a party fails to answer an interrogatory sufficiently, a Judge may, in addition to acting under rule 7.48,—
   (a) if the party has made an insufficient answer, order the party to make a further answer verified by affidavit in accordance with rule 8.8; or
-  (b) order the party, or any of the persons mentioned in rule 8.8(1)(b) to (d) as the case requires, to attend to be orally examined.
+  (b) order the party, or any of the persons mentioned in rule 8.8(1)﻿(b) to (d) as the case requires, to attend to be orally examined.
 
 ### 8.10 Incorrect answer to be amended
 (1) If, by reason of a change of circumstances or an error or omission, a statement filed in response to a notice given or order made under rule 8.1, 8.5, or 8.9 appears to the party by or on whose behalf it was filed to be defective or erroneous, that party must promptly file and serve a further statement that corrects or supplements the original statement.
@@ -2574,7 +2574,7 @@ As soon as practicable after a party becomes bound to comply with a discovery or
 (3) The affidavit may be in form G 37.
 
 ### 8.21 Schedule appended to affidavit of documents
-(1) The schedule referred to in rule 8.20(2)(d) must identify or list documents—
+(1) The schedule referred to in rule 8.20(2)﻿(d) must identify or list documents—
   (a) in the control of the party giving discovery and for which the party does not claim privilege or confidentiality, identifying them by number:
   (b) in the control of the party giving discovery for which privilege is claimed, stating the nature of the privilege claimed:
   (c) in the control of the party giving discovery for which confidentiality is claimed, stating the nature and extent of the confidentiality:
@@ -2759,7 +2759,7 @@ A brief served under rule 9.2, 9.3, or 9.5—
   (a) must, unless the trial Judge otherwise directs, be read by the witness at the trial as the witness’s evidence in chief; and
   (b) is, when read by the witness at the trial, the evidence in chief given by the witness at the trial; and
   (c) must, after being read by the witness at the trial, be endorsed by or on behalf of the Registrar with the words Given in evidence on [date].
-(2) The endorsement made under subclause (1)(c) must be signed and dated by or on behalf of the Registrar.
+(2) The endorsement made under subclause (1)﻿(c) must be signed and dated by or on behalf of the Registrar.
 
 ### 9.7 Oral evidence in chief generally not permissible
 (1) Oral evidence in chief of any person (whether or not a brief of that person’s evidence has been served) may be offered at the trial only if that oral evidence—
@@ -2895,14 +2895,14 @@ When a convention is in force between a country and New Zealand relating to the 
     (i) a copy of each of the documents mentioned in paragraph (a); and
     (ii) a personal undertaking by the party obtaining the order or the party’s solicitor to be responsible for all expenses in respect of the execution of the letter of request incurred by the court or by any person at the request of the court, and, on being given notice of the amount of those expenses, to pay the amount forthwith into a Crown Bank Account and produce evidence of the payment to the Registrar.
 (2) The correctness of every translation must be certified or otherwise verified to the satisfaction of the Registrar.
-(3) The Registrar may require security of a reasonable amount instead of an undertaking under subclause (1)(b)(ii).
+(3) The Registrar may require security of a reasonable amount instead of an undertaking under subclause (1)﻿(b)﻿(ii).
 (4) The letter of request must be in such form as the court approves and be issued under the hand of a Judge and the seal of the court.
 
 ### 9.27 Agents of parties
 The party who obtains an order for the issue of a letter of request must file a statement of the names and addresses of the parties’ agents in the country in which the letter of request is to be executed.
 
 ### 9.28 Consequences of non-compliance with undertaking as to expenses
-When a party who has given an undertaking under rule 9.26(1)(b)(ii) does not, within 5 working days after being served with notice of the amount of the expenses concerned, pay that amount to the Registrar, the court may, on application by the Registrar,—
+When a party who has given an undertaking under rule 9.26(1)﻿(b)﻿(ii) does not, within 5 working days after being served with notice of the amount of the expenses concerned, pay that amount to the Registrar, the court may, on application by the Registrar,—
   (a) order the party to pay the amount of the expenses to the Registrar; and
   (b) until payment, stay the proceeding as far as concerns the whole or any part of any claim for relief by that party; and
   (c) strike out any pleading filed by that party.
@@ -3007,7 +3007,7 @@ The question to be submitted to the court expert and the instructions (if any) g
 (2) An expert witness must—
   (a) state in any written statement of the proposed evidence of the witness served under rule 9.2 or 9.3, or at the time of giving any oral evidence, or in any affidavit containing the evidence of the expert witness, that the expert witness has read the code of conduct and agrees to comply with it:
   (b) comply with the code of conduct in preparing any written statement of the proposed evidence of the witness to be served under rule 9.2 or 9.3 or in giving any oral or affidavit evidence in any proceeding.
-(3) The evidence of an expert witness who has not complied with subclause (2)(a) may be offered only with the leave of the court.
+(3) The evidence of an expert witness who has not complied with subclause (2)﻿(a) may be offered only with the leave of the court.
 
 ### 9.44 Court may direct conference of expert witnesses
 (1) The court may, on its own initiative or on the application of a party to a proceeding, direct expert witnesses to—
@@ -3016,7 +3016,7 @@ The question to be submitted to the court expert and the instructions (if any) g
   (c) try to reach agreement on matters in issue in the proceeding:
   (d) prepare and sign a joint witness statement stating the matters on which the expert witnesses agree and the matters on which they do not agree, including the reasons for their disagreement:
   (e) prepare the joint witness statement without the assistance of the legal advisers of the parties.
-(2) The court must not give a direction under subclause (1)(b) or (e) unless the parties agree.
+(2) The court must not give a direction under subclause (1)﻿(b) or (e) unless the parties agree.
 (3) The court may, on its own initiative or on the application of a party to the proceeding,—
   (a) appoint an independent expert to convene and conduct the conference of expert witnesses:
   (b) give any directions for convening and conducting the conference the court thinks just.
@@ -3244,7 +3244,7 @@ Within 10 working days after service on the plaintiff of the defendant’s affid
 (2) Exhibits that are not annexed to the affidavit must, subject to subclause (3), be filed with the affidavit in a separate bundle, which bundle must—
   (a) be securely bound; and
   (b) include a sheet bearing a proper heading, endorsement, and subscription.
-(3) If the size, shape, or nature of an exhibit makes it impracticable to comply with subclause (1)(b) or (2), that exhibit must have firmly affixed to it a sheet bearing a proper heading, endorsement, and subscription.
+(3) If the size, shape, or nature of an exhibit makes it impracticable to comply with subclause (1)﻿(b) or (2), that exhibit must have firmly affixed to it a sheet bearing a proper heading, endorsement, and subscription.
 
 ### 9.78 Interlineation, alteration, or erasure in affidavit
 An affidavit having in the statement by the taker or its contents an interlineation, alteration, or erasure must not, without leave of the court, be read or made use of in a proceeding unless the interlineation or alteration (other than by erasure) is authenticated by the initials of the taker, or, in the case of an erasure, unless the words or figures appearing at the time of taking the affidavit to be written on the erasure are rewritten and signed or initialled in the margin of the affidavit by the taker.
@@ -3691,7 +3691,7 @@ If the documents specified in rule 12.4(4) have not been served within the time 
   (a) in the case of a defendant, setting out the defence to the cause or causes of action that are subject to the summary judgment application; or
   (b) in the case of a plaintiff, setting out the reasons why the defendant’s defences do not succeed against the plaintiff’s cause or causes of action.
 (2) If an opposing party does not file and serve the documents required by subclause (1), the party may not be heard in opposition to the application without the leave of the court.
-(3) Rule 7.24(2) and (3) apply, with all necessary modifications, to a notice of opposition filed under subclause (1)(a).
+(3) Rule 7.24(2) and (3) apply, with all necessary modifications, to a notice of opposition filed under subclause (1)﻿(a).
 
 ### 12.10 Statement of defence
 A defendant who has filed both a notice of opposition and an affidavit under rule 12.9 may, in addition, file a statement of defence in the registry of the court in which the notice of opposition and the affidavit were filed.
@@ -3758,7 +3758,7 @@ The plaintiff must file with the statement of claim an affidavit that—
   (b) if practicable, by leaving in the letterbox or other receptacle for mail on the land the documents required to be served under subclause (1) (those documents must be enclosed in a sealed envelope addressed to The Occupiers).
 
 ### 13.6 Time for filing statement of defence
-Despite rule 5.47(2)(b), if service is effected in accordance with rule 13.5(3), the statement of defence must be filed within 25 working days after the day on which that service is effected.
+Despite rule 5.47(2)﻿(b), if service is effected in accordance with rule 13.5(3), the statement of defence must be filed within 25 working days after the day on which that service is effected.
 
 ### 13.7 Power of court to make unlawful occupiers defendants
 A Judge may order that an unlawful occupier who is not a defendant be made a defendant or be added as a defendant.
@@ -3898,7 +3898,7 @@ Costs may be determined by a Judge or an Associate Judge other than the one who 
   (d) reasonable in amount.
 (3) Despite subclause (2), a disbursement may be disallowed or reduced if it is disproportionate in the circumstances of the proceeding.
 (4) A Judge or an Associate Judge may direct a Registrar to exercise the powers of the court under subclause (2) or (3).
-(5) When considering whether a disbursement paid or payable for an expert witness's fee or expenses is reasonable for the purposes of subclause (2)(d), a Judge or an Associate Judge may—
+(5) When considering whether a disbursement paid or payable for an expert witness's fee or expenses is reasonable for the purposes of subclause (2)﻿(d), a Judge or an Associate Judge may—
   (a) call for a report or an assessment from a professional organisation or otherwise; and
   (b) make any incidental order considered just, including an order as to the cost of that report or assessment.
 
@@ -3987,7 +3987,7 @@ The plaintiff may proceed against any 1 or more of the defendants under rules 15
   (a) interest (if any) payable as of right calculated up to the date of judgment (if interest has been specifically claimed in the statement of claim); and
   (b) costs and disbursements as fixed by the Registrar.
 (2) If the plaintiff claims costs and disbursements, the plaintiff must file a memorandum setting out the amount claimed and how that amount is calculated, together with any submissions in support of the claim.
-(3) Every Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements under subclause (1)(b).
+(3) Every Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements under subclause (1)﻿(b).
 
 ### 15.8 Land
 (1) If the relief claimed by the plaintiff is the recovery of land and the defendant does not file a statement of defence within the number of working days required by the notice of proceeding (or if the statement of defence is limited to part only of the land claimed), the plaintiff may seal judgment that the person whose title is asserted in the statement of claim recovers possession of the land (or possession of any part of the land to which the statement of defence does not apply) and costs and disbursements as fixed by the Registrar.
@@ -4056,7 +4056,7 @@ For the purposes of rules 15.19 to 15.25, a reference to discontinuing a proceed
 (1) At any time before the giving of judgment or a verdict, a plaintiff may discontinue a proceeding by—
   (a) filing a notice of discontinuance and serving a copy of the notice on every other party to the proceeding; or
   (b) orally advising the court at the hearing that the proceeding is discontinued.
-(2) A notice of discontinuance under subclause (1)(a) must be in form G 24.
+(2) A notice of discontinuance under subclause (1)﻿(a) must be in form G 24.
 (3) This rule is subject to rule 15.20.
 
 ### 15.20 Restrictions on right to discontinue proceeding
@@ -4067,13 +4067,13 @@ For the purposes of rules 15.19 to 15.25, a reference to discontinuing a proceed
     (iii) made an interim order under section 8 of the Judicature Amendment Act 1972; or
   (b) a party to the proceeding has given an undertaking to the court.
 (2) A plaintiff to whom an interim payment has been made, whether voluntarily or under an order made under rule 7.70 or 7.71, may discontinue the proceeding only with the written consent of the party by whom the payment was made or with the leave of the court.
-(3) A plaintiff may discontinue a proceeding in which there is more than 1 plaintiff only with the consent of every other plaintiff or with the leave of the court. If the plaintiff files a notice of discontinuance under rule 15.19(1)(a), the consent of every other plaintiff must be in writing.
-(4) If there is more than 1 defendant in a proceeding, a plaintiff may discontinue a proceeding against a particular defendant only with the consent of every other defendant or with the leave of the court. If the plaintiff files a notice of discontinuance under rule 15.19(1)(a), the consent of every other defendant must be in writing.
+(3) A plaintiff may discontinue a proceeding in which there is more than 1 plaintiff only with the consent of every other plaintiff or with the leave of the court. If the plaintiff files a notice of discontinuance under rule 15.19(1)﻿(a), the consent of every other plaintiff must be in writing.
+(4) If there is more than 1 defendant in a proceeding, a plaintiff may discontinue a proceeding against a particular defendant only with the consent of every other defendant or with the leave of the court. If the plaintiff files a notice of discontinuance under rule 15.19(1)﻿(a), the consent of every other defendant must be in writing.
 
 ### 15.21 Effect of discontinuance
 (1) A proceeding ends against a defendant or defendants on—
-  (a) the filing and service of a notice of discontinuance under rule 15.19(1)(a); or
-  (b) the giving of oral advice of the discontinuance at the hearing under rule 15.19(1)(b); or
+  (a) the filing and service of a notice of discontinuance under rule 15.19(1)﻿(a); or
+  (b) the giving of oral advice of the discontinuance at the hearing under rule 15.19(1)﻿(b); or
   (c) the making of an order under rule 15.20.
 (2) The discontinuance of a proceeding does not affect the determination of costs.
 (3) Rule 15.22 overrides this rule.
@@ -4844,7 +4844,7 @@ An enforcing officer—
 (1) An enforcing officer must sell chattels first if both land and chattels were seized from a liable party under the same sale order unless another sequence is—
   (a) preferred by the liable party; or
   (b) directed by the court.
-(2) Despite any preferences of the liable party, the court may direct under subclause (1)(b) that the land be sold—
+(2) Despite any preferences of the liable party, the court may direct under subclause (1)﻿(b) that the land be sold—
   (a) before the chattels; or
   (b) at the same time as a specified chattel or a specified class of chattels.
 (3) If the proceeds of the sale of the chattels or of the land or of the land and some of the chattels are insufficient to satisfy the amount required by the sale order, the enforcing officer must sell the remaining seized property.
@@ -5091,8 +5091,8 @@ In these rules, originating application means an application made in accordance 
 ### 19.2 Applications under certain enactments
 Applications to the court under the following enactments must be made by originating application:
   (a) the Arbitration Act 1996 (other than article 35 of Schedule 1 and clause 5 of Schedule 2 of that Act):
-  (b) section 21(1)(a) and (b) and Parts 3, 4, and 5 of the Charitable Trusts Act 1957:
-  (c) sections 228(1)(d), 233(1)(c), 233(2)(c), 236, 290, 294(5), 295, 299, and Part 15A of the Companies Act 1993:
+  (b) section 21(1)﻿(a) and (b) and Parts 3, 4, and 5 of the Charitable Trusts Act 1957:
+  (c) sections 228(1)﻿(d), 233(1)﻿(c), 233(2)﻿(c), 236, 290, 294(5), 295, 299, and Part 15A of the Companies Act 1993:
   (d) sections 34, 41, 95, 97, and 126 of the Coroners Act 2006:
   (e) sections 58 and 59 of the Corporations (Investigation and Management) Act 1989:
   (f) section 166E of the Customs and Excise Act 1996:
@@ -5104,7 +5104,7 @@ Applications to the court under the following enactments must be made by origina
   (l) sections 132, 133, 140, 143, 145, 145A, 148, and 217 of the Land Transfer Act 1952:
   (m) sections 30, 37, 52, 166, 180, and 182 of the Lawyers and Conveyancers Act 2006:
   (n) section 9A(3) of the Law Reform Act 1936:
-  (o) section 12(1)(a) of the Minors’ Contracts Act 1969:
+  (o) section 12(1)﻿(a) of the Minors’ Contracts Act 1969:
   (p) section 41 of the Patents Act 1953 (subject to Part 22 of these rules):
   (q) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
   (r) the Proceeds of Crime Act 1991:
@@ -5206,7 +5206,7 @@ Rule 9.74 applies to a proceeding commenced by originating application.
   (b) the Arbitration Act 1996:
   (c) the Bail Act 2000:
   (d) appeals by way of case stated under Part 21 of these rules.
-(2) For the purposes of subclause (1)(a), appeals under an enactment that incorporates provisions (whether modified or not) of the Summary Proceedings Act 1957 are not appeals under the Summary Proceedings Act 1957.
+(2) For the purposes of subclause (1)﻿(a), appeals under an enactment that incorporates provisions (whether modified or not) of the Summary Proceedings Act 1957 are not appeals under the Summary Proceedings Act 1957.
 (3) This Part applies subject to any express provision in the enactment under which the appeal is brought or sought to be brought.
 
 ### 20.2 Interpretation
@@ -5268,13 +5268,13 @@ For the purposes of rules 20.3 and 20.4, a period begins when the decision to wh
 (2) Service at the address for service stated in the proceedings to which the appeal relates is sufficient service for the purposes of subclause (1).
 
 ### 20.7 Power to dispense with service
-Despite rule 20.6(1)(c), the court may dispense with service on a party of a notice of appeal on any terms the court thinks just.
+Despite rule 20.6(1)﻿(c), the court may dispense with service on a party of a notice of appeal on any terms the court thinks just.
 
 ### 20.8 Filing notice of appeal
 (1) A notice of appeal must be filed in—
   (a) the registry of the court nearest to the place where the decision appealed against was given; or
   (b) any other registry of the court in which the parties agree that the notice of appeal may be filed.
-(2) If subclause (1)(b) applies, the parties must endorse on, or file with, the notice of appeal a memorandum recording their agreement to the filing of the notice of appeal in the registry of the court in which it is filed.
+(2) If subclause (1)﻿(b) applies, the parties must endorse on, or file with, the notice of appeal a memorandum recording their agreement to the filing of the notice of appeal in the registry of the court in which it is filed.
 (3) The court may direct as follows, in the circumstances set out in subclause (4):
   (a) the notice of appeal must be filed in another registry of the court; or
   (b) the documents relating to the appeal must be transferred to another registry of the court.
@@ -5388,7 +5388,7 @@ Appeals are by way of rehearing.
     (ii) to consider or determine (whether for the first time or again) any matters the court directs; or
     (iii) to enter judgment for any party to the proceedings the court directs:
   (c) make any order the court thinks just, including any order as to costs.
-(2) The court must state its reasons for giving a direction under subclause (1)(b).
+(2) The court must state its reasons for giving a direction under subclause (1)﻿(b).
 (3) The court may give the decision-maker any direction it thinks fit relating to—
   (a) rehearing any proceedings directed to be reheard; or
   (b) considering or determining any matter directed to be considered or determined.
@@ -5468,10 +5468,10 @@ Unless otherwise provided by any enactment, every notice of appeal must specify�
 (1) The appropriate registry in which to file a notice of appeal is—
   (a) the registry of the court nearest to the place where the matter was or is being heard; or
   (b) any other registry of the court in which the parties agree that the notice or case may be filed.
-(2) If subclause (1)(a) applies, the court may direct that the notice of appeal be filed in another registry of the court if it appears to the court (on an application by a party) that—
+(2) If subclause (1)﻿(a) applies, the court may direct that the notice of appeal be filed in another registry of the court if it appears to the court (on an application by a party) that—
   (a) the notice of appeal has been filed in the wrong registry of the court; or
   (b) another registry of the court would be more convenient to the parties.
-(3) If subclause (2)(b) applies, the parties must endorse on or file with the notice of appeal a memorandum of their agreement.
+(3) If subclause (2)﻿(b) applies, the parties must endorse on or file with the notice of appeal a memorandum of their agreement.
 
 ### 21.8 Lodging of draft case stated
 (1) Every person who gives a notice of appeal must, as soon as practicable after giving that notice, lodge a draft case with—
@@ -5600,7 +5600,7 @@ The patentee must notify the Commissioner of an intention to make an application
   (b) state that any person who wishes to oppose the amendment must, within 10 working days after the date of the actual issue of the journal, give written notice to the patentee.
 
 ### 22.12 Right to be heard
-A person giving notice under rule 22.11(3)(b) is entitled to be heard, subject to any direction of the court on costs.
+A person giving notice under rule 22.11(3)﻿(b) is entitled to be heard, subject to any direction of the court on costs.
 
 ### 22.13 Time for making application
 The patentee must, as soon as practicable after the expiration of 15 working days after the date of the issue of the journal in which an advertisement of the proposed amendment is published, proceed by way of interlocutory application.
@@ -5838,7 +5838,7 @@ The court may, on any application for registration, order the judgment creditor 
 (1) The order giving leave to register a judgment or part of a judgment—
   (a) must state the period, being a period computed from the date of service of notice of registration, within which an application may be made to set aside the registration; and
   (b) must prohibit enforcement of the judgment until after the expiration of the period stated in paragraph (a).
-(2) Unless the court otherwise orders, the period stated under subclause (1)(a) must be the same as would apply under the general rules to the filing of a statement of defence in a proceeding.
+(2) Unless the court otherwise orders, the period stated under subclause (1)﻿(a) must be the same as would apply under the general rules to the filing of a statement of defence in a proceeding.
 (3) The court may, on an application made at any time while it remains competent for any party to apply to have the registration set aside, grant an extension of the period (either as originally fixed or as subsequently extended) during which an application to have the judgment set aside may be made.
 (4) It is not necessary to serve an order made under subclause (1) on the judgment debtor.
 
@@ -5876,7 +5876,7 @@ The court may, on any application for registration, order the judgment creditor 
   (c) an address for service; and
   (d) subject to subclause (2), the right of the judgment debtor to apply, on the grounds appearing in the Act, to have the registration set aside; and
   (e) in accordance with the terms of the order giving leave to register, within what period from the date of service of the notice an application to set aside may be made.
-(2) Subclause (1)(d) does not require the notice to set out the grounds on which the registration can be set aside.
+(2) Subclause (1)﻿(d) does not require the notice to set out the grounds on which the registration can be set aside.
 
 ### 23.20 Application to set aside registration
 (1) An application to set aside the registration of a foreign judgment must be made by interlocutory application.
@@ -5931,7 +5931,7 @@ The form of an enforcement process within the meaning of rule 17.3 issued on a f
   (b) a separate certificate under the seal of the court in which the Registrar must certify—
     (i) the matters stated in the affidavit filed in accordance with rule 23.24(2); and
     (ii) any other particulars it is necessary to give to the court or tribunal in which enforcement of the judgment will be sought.
-(2) In giving a certificate under subclause (1)(b) the Registrar is entitled to rely on the affidavit filed under rule 23.24(2) and the documents attached to it.
+(2) In giving a certificate under subclause (1)﻿(b) the Registrar is entitled to rely on the affidavit filed under rule 23.24(2) and the documents attached to it.
 
 #### Subpart 3 — Enforcement of certain judgments and orders of Federal Court of Australia
 
@@ -5978,7 +5978,7 @@ If a judgment or order for the payment of a sum of money in Australian currency 
     (ii) the amount that the sum payable under the judgment or order represents in New Zealand currency so calculated:
   (b) the rate of interest (if any) carried by the judgment or order:
   (c) the amount of interest that, under Australian law, will have become due and payable under the judgment or order up to the time of the application, expressed,—
-    (i) if the application does not state that the judgment creditor wishes the judgment to be registered in Australian currency, in New Zealand currency calculated under paragraph (a)(i):
+    (i) if the application does not state that the judgment creditor wishes the judgment to be registered in Australian currency, in New Zealand currency calculated under paragraph (a)﻿(i):
     (ii) if the application states that the judgment is to be registered in Australian currency, in Australian currency.
 
 ### 23.33 Method of registration
@@ -6296,7 +6296,7 @@ Unless the court otherwise directs, the Official Assignee is not personally liab
 (3) A foreign representative who has filed an application under subclause (1) may apply without notice for relief of a provisional nature under article 19(1).
 
 ### 24.57 Other procedural requirements
-(1) A New Zealand agent or representative of the debtor served under rule 24.56(2)(b), must, as a condition of being treated as a respondent to the application under Part 19, provide evidence of that agency or representation to the court’s satisfaction.
+(1) A New Zealand agent or representative of the debtor served under rule 24.56(2)﻿(b), must, as a condition of being treated as a respondent to the application under Part 19, provide evidence of that agency or representation to the court’s satisfaction.
 (2) The foreign representative must, when filing an application under rule 24.56(1) or within 25 working days after the date of filing, file an application for directions as to service under rule 18.7 and the Judge may give directions as to service and make any incidental orders considered just.
 (3) An application for modification or termination of recognition under article 17(5) must be made by originating application served on the parties and any other persons who were directed to be served before the recognition order under article 17(1) was made.
 
@@ -6568,10 +6568,10 @@ A preliminary act is a document containing a statement of the following particul
 (2) An order limiting the plaintiff’s liability—
   (a) need not be advertised; but
   (b) if not advertised, operates only to protect the plaintiff against claims by the named defendants or persons claiming through or under those persons.
-(3) To protect the plaintiff’s liability against claims by other persons as well as the defendants and persons referred to in subclause (2)(b), an order limiting the plaintiff’s liability must—
+(3) To protect the plaintiff’s liability against claims by other persons as well as the defendants and persons referred to in subclause (2)﻿(b), an order limiting the plaintiff’s liability must—
   (a) be advertised by the plaintiff in the manner provided, and within the period specified, in the order; and
   (b) specify a period within which persons with claims against the plaintiff concerning the casualty to which the action relates may enter an appearance in the action (if they have not already done so) and file their claims, and, in cases to which subclause (5) applies, file a motion, if they think fit, to set the order aside.
-(4) The period to be allowed under subclause (3)(b), unless the court otherwise orders, must be not less than 2 months from the latest date allowed for the appearance of the advertisement and, after the expiration of the period so allowed, leave of the court is required to enter an appearance, file a claim, or to make an application to set aside the order.
+(4) The period to be allowed under subclause (3)﻿(b), unless the court otherwise orders, must be not less than 2 months from the latest date allowed for the appearance of the advertisement and, after the expiration of the period so allowed, leave of the court is required to enter an appearance, file a claim, or to make an application to set aside the order.
 (5) If an order limiting the plaintiff’s liability specifies a period in accordance with subclause (3),—
   (a) a person with a claim against the plaintiff concerning the casualty to which the action relates who is not named in the notice of proceeding as a defendant to the action may, within the specified period after entering an appearance, apply on notice for the order to be set aside:
   (b) a person with a claim against the plaintiff concerning the casualty to which the action relates who is named but was not served with the notice of proceeding and has not entered an appearance may, within the specified period after entering an appearance, apply on notice for the order to be set aside.
@@ -6652,7 +6652,7 @@ Rule 4.17 applies if a third party fails to enter an appearance, as if the failu
   (b) an indemnity to the Registrar in form AD 8 and security to the satisfaction of the Registrar for the fees, expenses, and harbour dues (if any) of the Registrar and of the Registrar’s appointed officers and agents.
 
 ### 25.35 Issue of warrant of arrest
-(1) The Registrar may require additional security to cover fees, expenses, and harbour dues (if any) referred to in rule 25.34(4)(b).
+(1) The Registrar may require additional security to cover fees, expenses, and harbour dues (if any) referred to in rule 25.34(4)﻿(b).
 (2) The Registrar must, before issuing the warrant of arrest, ascertain whether a caveat against the issue of a warrant of arrest has been entered, but, under rule 25.43(2), the entry of a caveat against arrest does not prevent the issue of a warrant of arrest.
 (3) On being satisfied that the relevant requirements of rule 24.34 and this rule have been complied with, the Registrar must—
   (a) complete the certificate on the application for a warrant of arrest; and
@@ -6680,7 +6680,7 @@ A warrant of arrest is valid for 6 months beginning on the day of issue unless s
 (2) Service may be made by the Registrar’s duly appointed officer or agent.
 
 ### 25.39 No Crown indemnity required
-Rules 25.34(4)(b) and 25.35(4)(b) do not require the Crown to give any indemnity or security.
+Rules 25.34(4)﻿(b) and 25.35(4)﻿(b) do not require the Crown to give any indemnity or security.
 
 ### 25.40 Contempt to move ship under arrest
 (1) This rule applies to—
@@ -6745,7 +6745,7 @@ Rules 25.34(4)(b) and 25.35(4)(b) do not require the Crown to give any indemnity
 (2) The Registrar must apply to the court under rule 25.41 for the appropriate order if—
   (a) the Registrar considers the request reasonable; and
   (b) the applicant gives the Registrar a satisfactory undertaking in writing to pay on demand the fees and expenses incurred by the Registrar, and any of the Registrar’s appointed officers or agents, in taking the desired steps.
-(3) If the interested persons are unable or unwilling to arrange for an undertaking under subclause (2)(b) to be given, they may intervene in the action in which the cargo is under arrest and apply for an order for discharge of the cargo and for directions as to the fees and expenses incurred by the Registrar, and any of the Registrar’s appointed officers or agents, in discharging and storing the cargo under the order.
+(3) If the interested persons are unable or unwilling to arrange for an undertaking under subclause (2)﻿(b) to be given, they may intervene in the action in which the cargo is under arrest and apply for an order for discharge of the cargo and for directions as to the fees and expenses incurred by the Registrar, and any of the Registrar’s appointed officers or agents, in discharging and storing the cargo under the order.
 (4) If a ship is under arrest but cargo on board the ship is not, persons interested in the cargo who wish to secure its discharge may follow 1 or other of the procedures specified in this rule.
 
 ### 25.48 Security
@@ -6780,8 +6780,8 @@ Rules 25.34(4)(b) and 25.35(4)(b) do not require the Crown to give any indemnity
   (c) that, within 5 working days after the date of payment into court of the proceeds of sale, the Registrar must send a notice in form AD 17 for publication in the Gazette and such newspaper (if any) as the court may direct.
 (2) A party who obtains judgment against the ship or the proceeds of sale of the ship may, on obtaining judgment, apply to the court by motion for an order determining the order of priority of the claims against the proceeds of sale of the ship.
 (3) However, if the order for sale contains a further order referred to in subclause (1), an application for an order determining priorities may be made only after the expiration of the period that applies under paragraph (a) or (b) of that subclause.
-(4) An application to the court to extend the period referred to in subclause (1)(a) must be served on each party who has begun an action in rem against the ship or the proceeds of sale of the ship.
-(5) The Registrar must lodge in the registry a copy of each newspaper in which the notice referred to in subclause (1)(c) appeared.
+(4) An application to the court to extend the period referred to in subclause (1)﻿(a) must be served on each party who has begun an action in rem against the ship or the proceeds of sale of the ship.
+(5) The Registrar must lodge in the registry a copy of each newspaper in which the notice referred to in subclause (1)﻿(c) appeared.
 (6) The expenses incurred by the Registrar in complying with an order of the court under this rule must be included in the Registrar’s expenses relating to the sale of the ship.
 
 #### Subpart 7 — Miscellaneous provisions
@@ -6816,14 +6816,14 @@ In this Part,—
 
 ### 26.2 Application
 This Part applies to—
-  (a) an appeal under clause 5(1)(a) or (b) of Schedule 2:
-  (b) an application for leave to appeal under clause 5(1)(c) of Schedule 2:
+  (a) an appeal under clause 5(1)﻿(a) or (b) of Schedule 2:
+  (b) an application for leave to appeal under clause 5(1)﻿(c) of Schedule 2:
   (c) an application for entry of an award as a judgment under article 35 of Schedule 1.
 
-#### Subpart 2 — Appeals under clause 5(1)(a) or (b) of Schedule 2
+#### Subpart 2 — Appeals under clause 5(1)﻿(a) or (b) of Schedule 2
 
 ### 26.3 Originating application to commence appeal
-(1) The plaintiff must commence an appeal to which clause 5(1)(a) or (b) of Schedule 2 applies by filing an originating application in the proper registry determined under rule 5.1.
+(1) The plaintiff must commence an appeal to which clause 5(1)﻿(a) or (b) of Schedule 2 applies by filing an originating application in the proper registry determined under rule 5.1.
 (2) The originating application—
   (a) must be in form Arb 1; and
   (b) must not name the arbitral tribunal as a defendant.
@@ -6832,7 +6832,7 @@ This Part applies to—
 (5) This rule has effect despite rule 5.25 or Part 18.
 
 ### 26.4 Affidavit to be filed in support
-At the same time as the originating application is filed, the plaintiff must file an affidavit proving that the appeal falls within clause 5(1)(a) or (b) of Schedule 2, as the case may be.
+At the same time as the originating application is filed, the plaintiff must file an affidavit proving that the appeal falls within clause 5(1)﻿(a) or (b) of Schedule 2, as the case may be.
 
 ### 26.5 Service
 The plaintiff must serve copies of the originating application and the affidavit on the defendant either before or immediately after filing.
@@ -6859,14 +6859,14 @@ The grounds of the appeal may be subsequently amended by leave of the court.
 (2) The circumstances are that—
   (a) the defendant intends to contend at the hearing that another question of law arises out of the award; and
   (b) the other question is the reason for the cross-appeal; and
-  (c) clause 5(1)(a) or (b) of Schedule 2 applies with respect to the other question.
+  (c) clause 5(1)﻿(a) or (b) of Schedule 2 applies with respect to the other question.
 (3) The notice of cross-appeal—
   (a) must be filed within 10 working days after service of the plaintiff’s originating application; and
   (b) must be in form Arb 1, with any necessary modifications.
 (4) This Part applies to cross-appeals with all necessary modifications.
 
 ### 26.9 Record of arbitration
-(1) This rule and rule 26.10 apply if the court gives a direction under rule 7.5(7)(d)(i) at a case management conference or at any other time.
+(1) This rule and rule 26.10 apply if the court gives a direction under rule 7.5(7)﻿(d)﻿(i) at a case management conference or at any other time.
 (2) The record of the arbitration comprises any—
   (a) application, documents, written submissions, statements, reports, and other papers lodged with the arbitral tribunal; and
   (b) transcript of evidence; and
@@ -6888,7 +6888,7 @@ The grounds of the appeal may be subsequently amended by leave of the court.
 (4) The court may direct the plaintiff to file a further copy of the record if an appeal is to be heard by more than 1 Judge.
 
 ### 26.11 Transcript of evidence
-(1) This rule and rule 26.12 apply if the court gives a direction under rule 7.5(7)(d)(ii) at a case management conference or at any other time.
+(1) This rule and rule 26.12 apply if the court gives a direction under rule 7.5(7)﻿(d)﻿(ii) at a case management conference or at any other time.
 (2) The court may order that a transcript be made of any recorded evidence given in the arbitration—
   (a) if it is satisfied that the transcript is required to properly determine the appeal; and
   (b) subject to any conditions that the court thinks just.
@@ -6920,10 +6920,10 @@ The grounds of the appeal may be subsequently amended by leave of the court.
 ### 26.14 Leave to appeal to Court of Appeal
 An application to the High Court under clause 5(5) of Schedule 2 for leave to appeal to the Court of Appeal must be filed within 20 working days of the High Court’s determining the appeal under clause 5(4) of Schedule 2.
 
-#### Subpart 3 — Leave to appeal under clause 5(1)(c) of Schedule 2
+#### Subpart 3 — Leave to appeal under clause 5(1)﻿(c) of Schedule 2
 
 ### 26.15 Applications for leave to appeal
-(1) The plaintiff must commence a proceeding to which clause 5(1)(c) of Schedule 2 applies by filing an originating application in the proper registry determined under rule 5.1.
+(1) The plaintiff must commence a proceeding to which clause 5(1)﻿(c) of Schedule 2 applies by filing an originating application in the proper registry determined under rule 5.1.
 (2) The originating application—
   (a) must be in form Arb 2; and
   (b) must not name the arbitral tribunal as a defendant.
@@ -6966,8 +6966,8 @@ An application to the court under clause 5(5) of Schedule 2 for leave to appeal 
 (1) If rule 26.20 does not apply, a party to an award who wishes to enforce it may—
   (a) enforce it by action; or
   (b) apply to the court for entry of the award as a judgment.
-(2) A party electing the method set out in subclause (1)(a) must commence a proceeding under Part 5.
-(3) A party electing the method set out in subclause (1)(b) must follow the procedure set out in rules 26.22 to 26.27.
+(2) A party electing the method set out in subclause (1)﻿(a) must commence a proceeding under Part 5.
+(3) A party electing the method set out in subclause (1)﻿(b) must follow the procedure set out in rules 26.22 to 26.27.
 
 ### 26.22 Application for entry of award as judgment
 (1) The party to the award must file an originating application in the proper registry, determined under rule 5.1.
@@ -6997,11 +6997,11 @@ At the same time as the originating application is filed, the plaintiff must fil
 (2) The time is whichever of the following applies:
   (a) 10 working days after the plaintiff’s application is served on the defendant; or
   (b) a period fixed by the court of less than 10 working days after the order fixing that period is served on the defendant.
-(3) An application to the Registrar under subclause (1)(b)—
+(3) An application to the Registrar under subclause (1)﻿(b)—
   (a) is made by letter signed by the plaintiff or his or her solicitor or counsel requesting the entry of the award as a judgment; and
   (b) need not be served on the defendant.
-(4) An application for an order under subclause (2)(b) may be made without notice.
-(5) An order under subclause (2)(b) does not take effect unless it is served on the defendant together with the documents referred to in rule 26.24(1).
+(4) An application for an order under subclause (2)﻿(b) may be made without notice.
+(5) An order under subclause (2)﻿(b) does not take effect unless it is served on the defendant together with the documents referred to in rule 26.24(1).
 (6) Subclause (5) applies even if the originating application to which the order relates has already been served on the defendant, and in that case the previous service of the application ceases to have effect when the order is made.
 
 ### 26.27 Opposition to entry as judgment
@@ -7038,7 +7038,7 @@ For the purposes of this Part,—
     (b) includes Public Trust or the Māori Trustee or a trustee company as defined in the Trustee Companies Act 1967 treated as an executor or administrator because it has filed an election to administer
   - **executed** ,—
     (a) for a will made on or after 1 November 2007, means signed and witnessed as described in section 11(3) and (4) of the Wills Act 2007; and
-    (b) for a will made before 1 November 2007, means signed and witnessed as described in section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007
+    (b) for a will made before 1 November 2007, means signed and witnessed as described in section 11(3) and (4), as modified by section 40(2)﻿(i), of the Wills Act 2007
   - **grant** means a grant of administration
   - **will** has the same meaning as in section 8 of the Wills Act 2007.
 
@@ -7166,13 +7166,13 @@ An application for a grant is made by—
   (b) all Senior Deputy Registrars in the Auckland registry; and
   (c) no other deputy registrars.
 (2) The registrars have the powers of the court under—
-  (a) sections 5 to 9A and sections 12, 19, 21, 44, and 61(a)(ii) of the Administration Act 1969; and
-  (b) section 380(4)(c)(iii) of the Insolvency Act 2006; and
+  (a) sections 5 to 9A and sections 12, 19, 21, 44, and 61(a)﻿(ii) of the Administration Act 1969; and
+  (b) section 380(4)﻿(c)﻿(iii) of the Insolvency Act 2006; and
   (c) section 154(3) of the Insolvency Act 1967; and
   (d) section 76 of the Public Trust Act 2001; and
   (e) section 35(4) of the Trustee Act 1956; and
   (f) section 8(1) of the Trustee Companies Act 1967; and
-  (g) rule 27.10(6)(b); and
+  (g) rule 27.10(6)﻿(b); and
   (h) rule 27.12(6), if an unopposed application has been made under rule 27.12(3); and
   (i) rule 27.13(3); and
   (j) rule 27.29(2); and
@@ -7199,8 +7199,8 @@ Rules 27.16 to 27.28 apply to every case in which a will is advanced and relied 
   (b) evidence given under rule 27.16 satisfying the court that the will complies with section 11(3) and (4) of the Wills Act 2007:
   (c) an order made under section 14 of the Wills Act 2007.
 (2) For wills made before 1 November 2007, each of the following is evidence that a will’s execution was valid:
-  (a) an attestation clause in the will consisting of a recital describing the actions complying with section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007:
-  (b) evidence given under rule 27.16 satisfying the court that the will complies with section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007.
+  (a) an attestation clause in the will consisting of a recital describing the actions complying with section 11(3) and (4), as modified by section 40(2)﻿(i), of the Wills Act 2007:
+  (b) evidence given under rule 27.16 satisfying the court that the will complies with section 11(3) and (4), as modified by section 40(2)﻿(i), of the Wills Act 2007.
 
 ### 27.18 Doubt as to will-maker’s understanding
 (1) This rule applies if—
@@ -7234,7 +7234,7 @@ If there is doubt as to the date on which a will was executed, the court may req
   (b) the change is of practical importance; and
   (c) the change was not made,—
     (i) for a will made on or after 1 November 2007, by a means described in section 15 of the Wills Act 2007; or
-    (ii) for a will made before 1 November 2007, by a means described in section 15, as modified by section 40(2)(l) of the Wills Act 2007.
+    (ii) for a will made before 1 November 2007, by a means described in section 15, as modified by section 40(2)﻿(l) of the Wills Act 2007.
 (2) The court may require evidence to prove whether or not the change was present when the will was executed.
 (3) The court may give directions as to the form in which the will is to be proved.
 (4) Words that have been changed form part of a will as proved if the change does not obliterate the words in such a way as to prevent their effect being apparent.
@@ -7252,7 +7252,7 @@ If there is doubt as to the date on which a will was executed, the court may req
 ### 27.23 Revocation
 (1) This rule applies if it appears to the court that,—
   (a) for a will made on or after 1 November 2007, 1 of the means of revocation described in section 16 of the Wills Act 2007 may have been used; or
-  (b) for a will made before 1 November 2007, 1 of the means of revocation described in section 16, as modified by section 40(2)(m) and (n) of the Wills Act 2007, may have been used.
+  (b) for a will made before 1 November 2007, 1 of the means of revocation described in section 16, as modified by section 40(2)﻿(m) and (n) of the Wills Act 2007, may have been used.
 (2) The applicant must satisfy the court that the will has not been revoked.
 
 ### 27.24 Duplicate wills
@@ -7269,7 +7269,7 @@ If there is doubt as to the date on which a will was executed, the court may req
   (b) has survived the will-maker but has died without obtaining a grant; or
   (c) has renounced probate of the will; or
   (d) is a former spouse or former civil union partner of the will-maker whose appointment is void under section 19 of the Wills Act 2007, for a will made on or after 1 November 2007; or
-  (e) is a former spouse of the will-maker whose appointment is void under section 19, as modified by section 40(2)(q), of the Wills Act 2007, for a will made before 1 November 2007; or
+  (e) is a former spouse of the will-maker whose appointment is void under section 19, as modified by section 40(2)﻿(q), of the Wills Act 2007, for a will made before 1 November 2007; or
   (f) is incapable of acting as an executor but does not have an attorney for the purposes of section 9A of the Administration Act 1969.
 (3) This rule also applies if—
   (a) section 19 of the Administration Act 1969 applies to an executor; and
@@ -7403,7 +7403,7 @@ If there is doubt as to the date on which a will was executed, the court may req
     (ii) in the case of a surviving spouse or a surviving civil union partner, by section 26(1) of the Family Proceedings Act 1980; or
     (iii) in the case of a surviving de facto partner, by section 77B of the Administration Act 1969; or
     (iv) in every case, by the choice of option A under section 61 of the Property (Relationships) Act 1976:
-  (b) in a case of the kind referred to in section 77C of the Administration Act 1969 (succession on intestacy if intestate dies leaving a spouse or a civil union partner and 1 or more de facto partners, or 2 or more de facto partners), a surviving spouse, surviving civil union partner, or surviving de facto partner entitled to succeed on the intestacy, if his or her beneficial interest in the estate is not affected in any of the ways stated in paragraph (a)(i) to (iv):
+  (b) in a case of the kind referred to in section 77C of the Administration Act 1969 (succession on intestacy if intestate dies leaving a spouse or a civil union partner and 1 or more de facto partners, or 2 or more de facto partners), a surviving spouse, surviving civil union partner, or surviving de facto partner entitled to succeed on the intestacy, if his or her beneficial interest in the estate is not affected in any of the ways stated in paragraph (a)﻿(i) to (iv):
   (c) the children of the deceased (including any persons entitled by virtue of the Legitimation Act 1939 or the Status of Children Act 1969) or, failing them, the issue of a child who has died during the lifetime of the deceased:
   (d) the parent or parents of the deceased:
   (e) brothers and sisters of full or half blood, or, failing them, the issue of any such brother or sister who has died during the lifetime of the deceased:
@@ -7626,7 +7626,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 29.3 Entry on commercial list by endorsement
 (1) If—
-  (a) a statement of claim or statement of defence in any proceeding referred to in section 24B(1)(a) to (f) of the Act is filed in a registry of the court at which a commercial list is established; and
+  (a) a statement of claim or statement of defence in any proceeding referred to in section 24B(1)﻿(a) to (f) of the Act is filed in a registry of the court at which a commercial list is established; and
   (b) either—
     (i) a plaintiff, by endorsement on the statement of claim; or
     (ii) a defendant, by endorsement on the statement of defence,—
@@ -7639,15 +7639,15 @@ requires the proceeding to be entered on the commercial list, the proceeding mus
   (c) on a counterclaim; or
   (d) by a defendant to a counterclaim; or
   (e) by a third or subsequent party.
-(5) At the time of endorsement under subclause (1)(b)(i), the plaintiff must file and serve a statement of the essential issues believed to arise in the proceeding.
-(6) When filing a statement of defence, the defendant to a proceeding endorsed under subclause (1)(b)(i) must also file a statement of additional issues or affirmative defences believed to arise in the proceeding and not included in the statement required by subclause (5).
-(7) A plaintiff or other party to a proceeding endorsed under subclause (1)(b)(ii) must, within 5 working days after receiving the defendant’s statement of defence and statement under subclause (6), file and serve a statement of additional issues or affirmative replies or defences believed to arise in the proceeding and not included in the statement required by subclause (6).
+(5) At the time of endorsement under subclause (1)﻿(b)﻿(i), the plaintiff must file and serve a statement of the essential issues believed to arise in the proceeding.
+(6) When filing a statement of defence, the defendant to a proceeding endorsed under subclause (1)﻿(b)﻿(i) must also file a statement of additional issues or affirmative defences believed to arise in the proceeding and not included in the statement required by subclause (5).
+(7) A plaintiff or other party to a proceeding endorsed under subclause (1)﻿(b)﻿(ii) must, within 5 working days after receiving the defendant’s statement of defence and statement under subclause (6), file and serve a statement of additional issues or affirmative replies or defences believed to arise in the proceeding and not included in the statement required by subclause (6).
 (8) A party subsequently joined in proceedings governed by this Part must, within 5 working days of that joinder, file and serve a statement of additional issues or affirmative defences believed to arise in the proceeding and not included in statements filed under subclauses (5), (6), and (7).
 
 ### 29.4 Entry on commercial list by order
-(1) If a statement of claim that could have been endorsed under rule 29.3(1)(b) has not been endorsed, the plaintiff may, at any time after the filing of the statement of claim but not later than 10 working days after the day on which a statement of defence in the proceeding is filed, apply to a commercial list Judge for the entry of the proceeding on the commercial list.
-(2) If a statement of claim that, but for rule 29.3(4)(a), could have been endorsed under rule 29.3(1)(b) is served with an application for judgment under rule 12.2 or 12.3 and an affidavit by or on behalf of the defendant is, in accordance with rule 12.9, filed and served in answer to the affidavit by or on behalf of the plaintiff, the defendant may, at any time before the date for hearing of the application for judgment, make application to a commercial list Judge for the entry of the proceeding on the commercial list.
-(3) If a statement of claim that, but for rule 29.3(4)(a), could have been endorsed under rule 29.3(1)(b) is served with an application for judgment under rule 12.2 or 12.3, and that application is subsequently dismissed, the plaintiff may make application to a commercial list Judge for the entry of the proceeding on the commercial list.
+(1) If a statement of claim that could have been endorsed under rule 29.3(1)﻿(b) has not been endorsed, the plaintiff may, at any time after the filing of the statement of claim but not later than 10 working days after the day on which a statement of defence in the proceeding is filed, apply to a commercial list Judge for the entry of the proceeding on the commercial list.
+(2) If a statement of claim that, but for rule 29.3(4)﻿(a), could have been endorsed under rule 29.3(1)﻿(b) is served with an application for judgment under rule 12.2 or 12.3 and an affidavit by or on behalf of the defendant is, in accordance with rule 12.9, filed and served in answer to the affidavit by or on behalf of the plaintiff, the defendant may, at any time before the date for hearing of the application for judgment, make application to a commercial list Judge for the entry of the proceeding on the commercial list.
+(3) If a statement of claim that, but for rule 29.3(4)﻿(a), could have been endorsed under rule 29.3(1)﻿(b) is served with an application for judgment under rule 12.2 or 12.3, and that application is subsequently dismissed, the plaintiff may make application to a commercial list Judge for the entry of the proceeding on the commercial list.
 (4) If the statement of claim in a proceeding that is of a commercial nature but that is not within any of the classes of proceeding specified in paragraphs (a) to (f) of section 24B(1) of the Act is filed in a registry of the court at which a commercial list is established, any party to the proceeding may, at any time after the filing of the statement of claim but not later than 10 working days after the day on which a statement of defence in the proceeding is filed, apply to a commercial list Judge for the entry of that proceeding on the commercial list.
 (5) If an application is made under subclauses (1) to (4), a commercial list Judge may order that the proceeding be entered on the commercial list.
 (6) An application under this rule must be accompanied by a statement concisely stating the nature of the dispute, the issues likely to arise, the contentions of the applicant on those issues, the reasons why the order should be made, and an explanation of the delay in applying.
@@ -7758,7 +7758,7 @@ If the parties desire that the decision of a Judge hearing and determining any p
 (2) The notice of proceeding to a defendant in relation to an application under section 24C(4) of the Act must be in form CL 3.
 (3) The defendant is not obliged by rule 5.47 to file and serve a statement of defence but may, within 10 working days after the service on the defendant of the notice of proceeding or within such shorter time as a commercial list Judge may order, file and serve a statement of defence or an appearance in form CL 2.
 (4) The commercial list Judge may hear and determine the question involved in the dispute at such time and on such terms as that Judge considers appropriate.
-(5) If the proper determination of the question requires evidence other than that contained in or attached as an exhibit to the affidavit filed under subclause (1)(b) or cross-examination on that affidavit or those exhibits, a commercial list Judge may, on the application of any party or on the Judge’s own initiative, order that the proceeding be placed on the commercial list.
+(5) If the proper determination of the question requires evidence other than that contained in or attached as an exhibit to the affidavit filed under subclause (1)﻿(b) or cross-examination on that affidavit or those exhibits, a commercial list Judge may, on the application of any party or on the Judge’s own initiative, order that the proceeding be placed on the commercial list.
 
 ### 29.18 Form of documents
 (1) Despite rule 5.8, all documents filed in respect of a proceeding entered on the commercial list and all documents filed in relation to an application under section 24C(4) of the Act must be filed flat.
@@ -7801,7 +7801,7 @@ In this Part, extraordinary remedy means—
 Unless the court otherwise directs, every application to which this Part applies must be heard in open court.
 
 ### 31.3 Applications to be made by statement of claim
-(1) An application to the High Court to put a company into liquidation under section 241(2)(c) of the Companies Act 1993 must be made by statement of claim in form C 1.
+(1) An application to the High Court to put a company into liquidation under section 241(2)﻿(c) of the Companies Act 1993 must be made by statement of claim in form C 1.
 (2) An application to the High Court under section 174 of the Companies Act 1993 must be made by statement of claim in form C 2.
 
 ### 31.4 Proper registry of court
@@ -7925,11 +7925,11 @@ If a person who is entitled to file a statement of defence or an appearance in a
 (3) The inherent jurisdiction of the court is not limited by this rule.
 
 ### 31.23 Power to appoint interim liquidator
-(1) When a proceeding for putting a company into liquidation has been commenced under rule 31.3, the plaintiff and any person entitled to apply to the court for the appointment of a liquidator under section 241(2)(c) of the Companies Act 1993 may apply to the court for the appointment of an interim liquidator.
+(1) When a proceeding for putting a company into liquidation has been commenced under rule 31.3, the plaintiff and any person entitled to apply to the court for the appointment of a liquidator under section 241(2)﻿(c) of the Companies Act 1993 may apply to the court for the appointment of an interim liquidator.
 (2) If the court is satisfied, upon proof by affidavit, that there is sufficient ground for the appointment of an interim liquidator, it may make the appointment, and may limit the rights and powers of the interim liquidator in any manner it thinks just.
 
 ### 31.24 Additional and substituted plaintiffs in liquidation proceeding
-(1) This rule applies to any person who is entitled to make an application to the court for putting a company into liquidation under section 241(2)(c) of the Companies Act 1993.
+(1) This rule applies to any person who is entitled to make an application to the court for putting a company into liquidation under section 241(2)﻿(c) of the Companies Act 1993.
 (2) The person may become a plaintiff in that proceeding by filing in the registry of the court and serving on all the parties to the proceeding—
   (a) a statement of claim in form C 1; and
   (b) a notice of proceeding in form C 3; and
@@ -8002,8 +8002,8 @@ When an order that a company be put into liquidation or an order for the appoint
 
 ### 31.35 Procedure in respect of miscellaneous applications
 (1) Subpart 2 of Part 7, relating to interlocutory applications, applies to applications to the court in respect of—
-  (a) a defendant company sought to be put into liquidation under section 241(2)(c) of the Companies Act 1993; or
-  (b) a company in respect of which a liquidator has been appointed under section 241(2)(c) of the Companies Act 1993; or
+  (a) a defendant company sought to be put into liquidation under section 241(2)﻿(c) of the Companies Act 1993; or
+  (b) a company in respect of which a liquidator has been appointed under section 241(2)﻿(c) of the Companies Act 1993; or
   (c) a company in respect of which an application under section 174 of the Companies Act 1993 is pending.
 (2) Subclause (1) is subject to subclauses (3) and (4).
 (3) An application specified in subclause (1) must have the same heading as the heading on the application for putting the company into liquidation or for the order under section 174 of the Companies Act 1993.
@@ -8014,8 +8014,8 @@ When an order that a company be put into liquidation or an order for the appoint
 ### 31.36 Applications involving allegations of fraud, negligence, misfeasance, or similar behaviour
 (1) An application must be made by filing a statement of claim under these rules if it relates to a company described in subclause (2) and involves an allegation of fraud, negligence, misfeasance, or similar behaviour.
 (2) The companies are—
-  (a) a defendant company in relation to an application made to put that company into liquidation under section 241(2)(c) of the Companies Act 1993; or
-  (b) a company in respect of which a liquidator has been appointed under section 241(2)(c) of the Companies Act 1993; or
+  (a) a defendant company in relation to an application made to put that company into liquidation under section 241(2)﻿(c) of the Companies Act 1993; or
+  (b) a company in respect of which a liquidator has been appointed under section 241(2)﻿(c) of the Companies Act 1993; or
   (c) a company in respect of which an application under section 174 of the Companies Act 1993 is pending.
 (3) The applicant must, as soon as practicable after the statement of defence has been filed or the time for filing a statement of defence has expired, file an application for directions under rule 7.9.
 (4) The statement of claim must have the same heading as the heading on the application for putting the company into liquidation or for the order under section 174 of the Companies Act 1993.
@@ -8030,7 +8030,7 @@ A notice under section 294(1) of the Companies Act 1993 must—
 (1) A notice under section 294(1) of the Companies Act 1993 must,—
   (a) if the company has been put into liquidation by the court, be filed in the registry of the court in which the order putting the company into liquidation was made under the liquidation file number (even though the heading of the notice is different); and
   (b) in any other case, be filed in the registry of the court in the town where, or the registry of the court in the town nearest to which, the registered office of the company in liquidation was situated at the date of liquidation.
-(2) If more than 1 notice under section 294(1) of the Companies Act 1993 relating to the same company in liquidation has been filed under subclause (1)(b), those notices must be filed under the same file number (even though the heading of each notice is different).
+(2) If more than 1 notice under section 294(1) of the Companies Act 1993 relating to the same company in liquidation has been filed under subclause (1)﻿(b), those notices must be filed under the same file number (even though the heading of each notice is different).
 
 ### 31.39 Transitional provision for companies registered under the Companies Act 1955
 Part 9A of the High Court Rules as in force immediately before the coming into force of these rules applies, even though it has been repealed, to companies remaining registered under the Companies Act 1955.
@@ -8145,7 +8145,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
     (ii) there is a real possibility that the respondent might destroy such material or cause it to be unavailable for use in evidence in a proceeding or anticipated proceeding before the court.
 
 ### 33.4 Restriction on entrants
-(1) The permitted persons identified under rule 33.2(2)(b) must not include the applicant in person, or, if the applicant is not a natural person, any director, officer, employee, partner, or other person associated with the applicant, other than the applicant’s solicitor.
+(1) The permitted persons identified under rule 33.2(2)﻿(b) must not include the applicant in person, or, if the applicant is not a natural person, any director, officer, employee, partner, or other person associated with the applicant, other than the applicant’s solicitor.
 (2) The number of those permitted persons must be as small as is reasonably practicable in the circumstances.
 
 ### 33.5 Applicant’s undertaking and duty
@@ -8860,7 +8860,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 
 | Statement B |  |
 | --- | --- |
-| (a) | I am the surviving de facto partner of the deceased. I am entitled to succeed on the intestacy. My beneficial interest in the estate is not affected by the choice I have made between option A and option B, under section 61 of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with section 65(2)(c) of that Act in this court on [date]. A copy is attached and marked “[specify]”. |
+| (a) | I am the surviving de facto partner of the deceased. I am entitled to succeed on the intestacy. My beneficial interest in the estate is not affected by the choice I have made between option A and option B, under section 61 of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with section 65(2)﻿(c) of that Act in this court on [date]. A copy is attached and marked “[specify]”. |
 | (b) | My interest is not affected by section 77B of the Administration Act 1969 (which negates the beneficial interest of a surviving de facto partner to a relationship of short duration in some circumstances [if you claim that section 77B(2) applies, state the facts supporting your claim]. |
 
 | *Select one. |
