@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2018-01-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -976,7 +976,7 @@ The power of awarding costs conferred upon the Land Valuation Tribunal by sectio
 When any claim for compensation is at any time after its making withdrawn or abandoned, whether wholly or in part, costs may be awarded by the Land Valuation Tribunal in respect of that claim or that part of it in the same manner as if the claim or part had been heard and determined by the Tribunal; and any such award of costs shall be dealt with and enforced in the same manner as an award of compensation.
 
 ### 94 Interest on compensation money
-The Land Valuation Tribunal may, if it thinks fit, order that there be included in the sum of any award interest at such rate as it thinks fit on the whole or any part of the award for the whole or any part of the period between the specified date or, where appropriate, the date on which the claimant gives vacant possession of the land (whichever is later) and the date of making of the award.
+The Land Valuation Tribunal may, if it thinks fit, order that there be included in the sum of any award interest, calculated in accordance with (or on a basis that ensures it does not exceed interest calculated in accordance with) Schedule 2 of the Interest on Money Claims Act 2016, on the whole or any part of the award for the whole or any part of the period between the specified date or, where appropriate, the date on which the claimant gives vacant possession of the land (whichever is later) and the date of making of the award.
 
 ### 95 Finality of award and enforcement
 (1) Subject to section 26 of the Land Valuation Proceedings Act 1948, the award shall be final as regards the amount awarded, but shall not be final as regards the right or title of the claimant or any other person to receive the amount awarded or any part of it.
