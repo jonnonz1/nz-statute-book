@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-01-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -324,7 +324,7 @@ The court may exercise with respect to Māori freehold land all of the powers co
 (2) However, a power conferred on the court by subsection (1) may be exercised only if the occasion for the exercise of that power arises in the course of proceedings (other than an application made for the purposes of section 16(2), 39, or any of sections 43 to 48 of the Contract and Commercial Law Act 2017) properly before the court under section 18(1)﻿(d) of this Act.
 
 ### 24B Power to award interest on debt or damages
-The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under section 62B of the District Courts Act 1947 in its own proceedings.
+The court, in its proceedings, has the same powers to award interest on any debt or damages as the District Court has under Part 1 of the Interest on Money Claims Act 2016 in its own proceedings.
 
 ### 25 Power of court to make order to restore effect of lost instruments of alienation
 (1) On proof to the satisfaction of the court that any instrument of alienation of Maori freehold land, whether executed before or after the commencement of this Act, has been lost or destroyed, it may make an order under this section if it is satisfied—
