@@ -1,5 +1,5 @@
 # Sharemilking Agreements Act 1937
-_Consolidation as at 2016-04-04_
+_Consolidation as at 2018-01-01_
 
 > An Act to make provision for safeguarding the interests of sharemilkers under sharemilking agreements
 
@@ -655,7 +655,7 @@ The arbitrator has the power to direct by whom, in what amounts, and in what man
 The arbitrator may require the parties to lodge with the arbitrator a sum of money as a deposit against the arbitrator's fees and charges.
 
 ### 157
-In assessing a claim for interest, the arbitrator may set interest rates in excess of the rate prescribed under section 87(3) of the Judicature Act 1908 if the arbitrator considers it appropriate to do so.
+In assessing a claim for interest, the arbitrator may set interest rates in excess of the rate that would apply on an award of interest on a money judgment under Part 1 of the Interest on Money Claims Act 2016 if the arbitrator considers it appropriate to do so.
 
 ### 158
 The arbitrator must give the award in writing within 1 month of the hearing. However, the arbitrator may extend the time for giving the award by a further month by giving notice in writing to the parties.
