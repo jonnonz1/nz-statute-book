@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-01-01_
 
 > An Act to reform the administration of education
 
@@ -4025,7 +4025,7 @@ The purpose of this Part is to establish—
 (5) Subsection (4) does not limit section 29 of the Crown Entities Act 2004.
 
 ### 159E Charging
-(1) The Commission may charge a commercial rate for any goods and services that it provides under section 159F(1)﻿(bc) to (bg).
+(1) The Commission may charge a commercial rate for any goods and services that it provides under section 159F(1)﻿(bc) and (bd).
 (2) However, the Commission may not charge a commercial rate for any other goods and services that it provides unless the Minister approves.
 
 **Functions of Commission**
@@ -4044,15 +4044,11 @@ The purpose of this Part is to establish—
   (b) to provide advice to the Minister on the activities and performance of tertiary education organisations and the tertiary education sector generally; and
   (ba) to develop details of how to implement funding mechanisms; and
   (bb) to implement funding mechanisms; and
-  (bc) to establish and maintain a database of information about occupations and about post-compulsory education and training:
-  (bd) to make that information available to the public and to institutions, private training establishments, students, and other interested bodies and persons:
-  (be) to provide—
-    (i) training and assistance to persons who advise about occupations; and
-    (ii) career advice and associated counselling relating to post-compulsory education and training:
-  (bf) to liaise with, and monitor the needs of, institutions, private training establishments, students and other bodies and persons with respect to—
-    (i) information, training, and advice relating to occupations; and
-    (ii) career advice and associated counselling relating to post-compulsory education and training:
-  (bg) to provide support services for the purpose of promoting transition education that prepares students for employment, or further education and training, or both:
+  (bc) to provide a publicly available careers information service that includes a database of information about occupations and tertiary education and training:
+  (bd) to facilitate and strengthen the connections between schools, employers, and tertiary education organisations to ensure students are better prepared for employment and further education and training, or both:
+  (be)
+  (bf)
+  (bg)
   (c) to provide advice to the Minister on the implementation of policy and on the operational implications of new policy initiatives; and
   (d) to monitor the performance of organisations that receive funding from the Commission including by measuring performance against specified outcomes; and
   (da) to undertake any functions that the Minister directs the Commission to undertake under section 159J; and
@@ -4062,31 +4058,13 @@ The purpose of this Part is to establish—
 (2) In addition, the Commission may provide information and other tertiary-related services to the Crown, provided that these functions are consistent with the Commission's statement of intent and are consistent with, and do not displace, any of its functions under subsection (1).
 
 ### 159FA Offers of employment in equivalent positions for Careers New Zealand employees
-(1) During the period beginning on 1 June 2017 and ending with the close of 30 June 2017, the Commission must offer employment in an equivalent position to every person who is an employee of Careers New Zealand (other than the chief executive) immediately before the commencement of this section.
-(2) The terms and conditions of an offer must be equivalent to those applying to the relevant employee immediately before the offer.
-(3) In this section, employment in an equivalent position means employment that is—
-  (a) in substantially the same position; and
-  (b) in the same general locality; and
-  (c) on terms and conditions that are no less favourable than those applying to the employee immediately before the date the offer of employment is made to that employee; and
-  (d) on terms that treat the period of service with Careers New Zealand (and every other period of service recognised by Careers New Zealand as continuous service) as if it were continuous service with the Commission.
+[Repealed]
 
 ### 159FB Effect of offers on certain agreements and entitlements
-(1) If a person accepts an offer,—
-  (a) nothing in this Act or any other enactment—
-    (i) binds the person to a collective agreement; or
-    (ii) entitles the person to be bound by or enforce a collective agreement:
-  (b) the change of employer does not constitute new employment for the purposes of—
-    (i) enrolling in a KiwiSaver scheme under the KiwiSaver Act 2006:
-    (ii) determining any entitlements under the Holidays Act 2003.
-(2) Subsection (1)﻿(a) does not apply to a collective agreement to the extent that the parties agree otherwise.
+[Repealed]
 
 ### 159FC No compensation for technical redundancy of employees of Careers New Zealand
-(1) An employee of Careers New Zealand is not entitled to receive any payment or other benefit on the ground that—
-  (a) the employee’s position in Careers New Zealand has ceased to exist; or
-  (b) the employee declines to accept an offer of employment in an equivalent position.
-(2) This section overrides—
-  (a) Part 6A of the Employment Relations Act 2000; and
-  (b) any employee protection provision in any relevant employment agreement.
+[Repealed]
 
 ### 159FD Repeal of sections 159FA to 159FD
 (1) Sections 159FA to 159FC are repealed on 1 January 2018.
@@ -9528,27 +9506,16 @@ In this schedule, unless the context otherwise requires,—
 Careers New Zealand is dissolved.
 
 ### 6 Assets and liabilities
-(1) The assets and liabilities of Careers New Zealand vest in the Commission.
-(2) All money payable to or by Careers New Zealand becomes payable to or by the Commission.
-(3) Anything done, omitted to be done, or to be done by, or in relation to, Careers New Zealand is to be treated as having been done, having been omitted to be done, or having to be done by, or in relation to, the Commission.
-(4) However, any individual or collective employment agreement with Careers New Zealand ceases to apply.
+[Repealed]
 
 ### 7 Transfer of information
-(1) All information held by Careers New Zealand is transferred to the Commission.
-(2) The transfer does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
+[Repealed]
 
 ### 8 Proceedings
-(1) All proceedings or any other matters involving Careers New Zealand that are yet to be determined or completed on the commencement of this clause are to be determined or completed by the Commission in accordance with the provisions of this Act as in force immediately before the commencement of this clause as if the Commission were Careers New Zealand.
-(2) No action may be taken in relation to any breach of contract, lease, or licence arrangement arising from—
-  (a) the vesting of assets or liabilities in the Commission:
-  (b) the cessation of any individual or collective employment agreement.
+[Repealed]
 
 ### 9 References to Careers New Zealand
-(1) This clause applies to—
-  (a) things that are in force or existing immediately before the commencement of this clause; and
-  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents, and notices.
-(2) If this clause applies, every reference in any thing specified in subclause (1) to Careers New Zealand is, on or after the commencement of this clause, to be treated as a reference to the Commission unless the context otherwise requires.
-(3) This clause does not apply to any collective employment agreement with Careers New Zealand.
+[Repealed]
 
 ### 10 Repeal of clauses 6 to 9 and this clause
 (1) Clauses 6 to 9 are repealed on 1 January 2018.
@@ -10859,10 +10826,6 @@ The validity of any action of the Authority must be determined as if at all mate
     (i) contained the definition of relevant school inserted by section 52 of this Act; and
     (ii) did not contain the definition of secondary school, as repealed by section 52 of this Act; and
   (b) every other reference in Part 20 of the Education Act 1989 to a secondary school were a reference to a relevant school, within the meaning of that term as inserted in section 246 of that Act by section 52 of this Act.
-
-### 77 Validation in respect of change of proprietor of integrated school
-(1) For the purposes of the Education Act 1989, actions done under that Act or under the Private Schools Conditional Integration Act 1975 before the commencement of this Act are not invalid solely because of a defect or error in the processes relating to a change of proprietor of an integrated school.
-(2) In this section, integrated school and proprietor have the same meanings as in section 2(1) of the Private Schools Conditional Integration Act 1975.
 
 ### 1 Title
 This Act is the Education Amendment Act (No 3) 2010.
