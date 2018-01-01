@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-01-01_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -3467,6 +3467,11 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 ### 222 Costs
 (1) The Tribunal, in any proceedings before it under this Act, may make such order as to costs as it thinks fit.
 (2) Any such order as to costs may be filed in the District Court and may be enforced as a judgment of that court.
+
+### 222A Power to award interest
+(1) This section applies where the Tribunal makes an order under Part 8 for the payment of an amount of money (including money required to be repaid, or further money required to be paid, in respect of charges already paid).
+(2) The Tribunal's order may include an award of interest on the whole or part of the money, payable for the period, ending not later than the date that the money is paid, that the Tribunal thinks appropriate, as compensation for delay in payment of the money.
+(3) Interest awarded under this section must be calculated in accordance with (or on a basis that ensures it does not exceed interest calculated in accordance with) Schedule 2 of the Interest on Money Claims Act 2016.
 
 ### 223 Stating case for High Court
 (1) The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the proceedings or of its own motion, state a case for the opinion of the High Court on any question of law arising in any proceedings before the Tribunal.
