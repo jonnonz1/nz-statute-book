@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-01-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to trusts and trustees
 
@@ -412,7 +412,7 @@ Notwithstanding any rule of law or practice to the contrary, a trustee of any pr
 (4) In this section lease includes a sublease and an agreement for a lease or sublease and any instrument giving any such indemnity as aforesaid or varying the liabilities under the lease; grant applies to a grant whether the rent is created by limitation, grant, reservation, or otherwise, and includes an agreement for a grant and any instrument giving any such indemnity as aforesaid or varying the liabilities under the grant; and lessee and grantee include persons respectively deriving title under them.
 
 ### 34A Trustee to have lien on policy money for premiums
-Where a trustee pays any premiums in respect of any policy of insurance he shall have a lien on the policy money for the amount of the premiums so paid, together with interest thereon at the rate of 6% or such other rate as the Governor-General may for the time being by Order in Council prescribe.
+Where a trustee pays any premiums in respect of any policy of insurance he shall have a lien on the policy money for the amount of the premiums so paid, together with interest thereon of an amount calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016.
 
 ### 35 Protection against creditors and others by means of advertisements
 (1) Where a trustee has given notice by advertisement published at least once in a newspaper circulating in each locality in which in the opinion of the trustee claims are likely to arise requiring persons having claims to which this section applies to send to the trustee, within the time fixed in the notice, particulars of their claims and warning them of the consequences of their failure to do so, then, at the expiration of that time or at any time thereafter the trustee may administer or distribute the property or any part thereof to which the notice relates to or among the persons entitled thereto having regard only to the claims, whether formal or not, of which the trustee then has notice; and he shall not, as respects the property so administered or distributed, be liable to any person of whose claim he has not had notice at the time of the administration or distribution:
