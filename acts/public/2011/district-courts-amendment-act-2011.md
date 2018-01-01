@@ -1,5 +1,5 @@
 # District Courts Amendment Act 2011
-_Consolidation as at 2014-04-14_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the District Courts Amendment Act 2011.
@@ -46,7 +46,7 @@ Section 28I is repealed and the following section substituted:Enforcement of fin
 Section 69 is repealed.
 
 ### 11 Nature of proceedings for enforcement of judgment
-(1) Section 79(1)(a) is amended by omitting distress warrant and substituting warrant to seize property.
+(1) Section 79(1)﻿(a) is amended by omitting distress warrant and substituting warrant to seize property.
 (2) Section 79 is amended by repealing subsection (5) and substituting the following subsections:
   (5) An attachment order to enforce a judgment or order for the payment of money may be made, and proceedings for such an attachment order may be commenced, at any time after the judgment is entered or the order made.
   (5A) Except as provided in subsection (5), proceedings to enforce a judgment or order may not be commenced unless—
@@ -65,7 +65,7 @@ Section 69 is repealed.
     (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
     (c) both parties agreed on the terms of the attachment order, including the details specified in section 84H; and
     (d) the judgment or order includes the details specified in section 84H.
-  (5E) Nothing in subsection (5D)(c) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3).
+  (5E) Nothing in subsection (5D)﻿(c) allows the parties to agree on a net amount to be paid for an earnings period that would otherwise derogate from section 84I(3).
   (5F) For the purposes of subsection (5D), hearing includes a judicial settlement conference held under the rules.
 
 ### 12 New section 79A inserted
@@ -103,7 +103,7 @@ Sections 84A to 84E are repealed and the following sections substituted:Filing o
     (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
     (b) order that the hearing be held at a place other than in a court:
     (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
-  (4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(a) and, at the same time as the summons is served, the judgment debtor must be notified of the court's power to cancel the hearing in the circumstances referred to in subsection (6).
+  (4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)﻿(a) and, at the same time as the summons is served, the judgment debtor must be notified of the court's power to cancel the hearing in the circumstances referred to in subsection (6).
   (5) The hearing must not be held until at least 3 working days or any shorter period agreed by the judgment debtor has passed after the date on which the summons was served.
   (6) The court may cancel a hearing if, before the date of the hearing,—
     (a) such information about the judgment debtor's means for satisfying the judgment debt is provided that, in the opinion of the court, it is unnecessary for the hearing to take place; and
@@ -122,7 +122,7 @@ Sections 84A to 84E are repealed and the following sections substituted:Filing o
     (a) order any of the judgment debtor's books or other documents to be produced at the hearing:
     (b) order that the hearing be held at a place other than in a court:
     (c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
-  (4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(b).
+  (4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)﻿(b).
   (5) The hearing must not be held until at least 3 working days or any shorter period agreed by the parties has passed after the date on which the summons was served.
   (6) The court may cancel a hearing at the request of the judgment creditor.
   (7) The jurisdiction of the court under this section may be exercised by the Registrar.
@@ -176,7 +176,7 @@ Sections 84G and 84H are repealed and the following sections substituted:Attachm
     (a) in the circumstances referred to in section 79(5C); or
     (b) in the circumstances referred to in section 84EC(1); or
     (c) on the application of the judgment creditor or judgment debtor.
-  (2) If an application is made under subsection (1)(c),—
+  (2) If an application is made under subsection (1)﻿(c),—
     (a) the party who makes the application must serve a copy of it on the other party; and
     (b) the court may make the attachment order even though the other party has not had the opportunity to make representations to the court about the application.
   (3) If an attachment order is made, it must be served on the employer to whom the order relates, the judgment creditor, and the judgment debtor.
@@ -192,9 +192,9 @@ Sections 84G and 84H are repealed and the following sections substituted:Attachm
 
 ### 17 Effect of attachment orders
 (1) Section 84I(1) is amended by omitting by way of weekly payments of such amount as is specified in the attachment order and substituting by way of sums of such amount, and payable by reference to such earnings period, as is specified in the attachment order.
-(2) Section 84I(2)(a) is amended by omitting week in each place where it appears and substituting in each case earnings period.
+(2) Section 84I(2)﻿(a) is amended by omitting week in each place where it appears and substituting in each case earnings period.
 (3) Section 84I(2) is amended by repealing paragraph (c) and substituting the following paragraph:.
-  (c) shall be subject to any charge created by an attachment order under the Family Proceedings Act 1980 or the Summary Proceedings Act 1957 and to any item referred to in subsection (5)(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
+  (c) shall be subject to any charge created by an attachment order under the Family Proceedings Act 1980 or the Summary Proceedings Act 1957 and to any item referred to in subsection (5)﻿(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
 (4) Section 84I is amended by adding the following subsections:
   (3) Despite subsections (1) and (2), no attachment order is to operate so that, when its effect is considered either alone or with the effect of any item referred to in subsection (5), the net amount paid to a judgment debtor for an earnings period is below the protected earnings rate for the earnings period; and, where necessary, the amount to be deducted from the judgment debtor's salary or wages for the earnings period is treated as being reduced or cancelled accordingly.
   (4) Nothing in section 84 of the Social Security Act 1964 applies to an attachment order.
@@ -263,12 +263,12 @@ Section 84O is repealed and the following sections are substituted:Contempt proc
   (1) On receipt of an application under section 84O(3), the Registrar must—
     (a) appoint a time and place for the hearing of the application if satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; or
     (b) if not so satisfied, refer the application to a Judge.
-  (2) On the referral of the application under subsection (1)(b), the Judge must—
+  (2) On the referral of the application under subsection (1)﻿(b), the Judge must—
     (a) deal with the application on the papers; and
     (b) consider whether he or she is satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so.
   (3) If the Judge is so satisfied, he or she must direct the Registrar to appoint a time and place for the hearing of the application.
   (4) If the Judge is not so satisfied, he or she must decline the application.
-  (5) If the Registrar appoints a time and place for the hearing of the application under subsection (1)(a) or (3), the judgment debtor must be served with a copy of the application, and a notice of the time and place so appointed, by a person referred to in section 108A(3)(c).
+  (5) If the Registrar appoints a time and place for the hearing of the application under subsection (1)﻿(a) or (3), the judgment debtor must be served with a copy of the application, and a notice of the time and place so appointed, by a person referred to in section 108A(3)﻿(c).
   (6) The Registrar must notify the judgment creditor of the time and place so appointed.
   (7) If the application is declined under subsection (4), the Registrar must notify the judgment creditor that the application has been declined.
   (1) If a copy of the application cannot be served on the judgment debtor under section 84OA(5), or if the judgment debtor fails to appear at the hearing of the application, a Judge or Registrar may issue a warrant to arrest the judgment debtor and bring the judgment debtor before the court as soon as possible.
@@ -316,7 +316,7 @@ Section 87 is amended by omitting warrant of distress and substituting warrant t
 
 ### 31 Protection of bailiff selling goods under execution without notice of claim by third party
 (1) Section 90(1) is amended by omitting distress warrant and substituting warrant to seize property.
-(2) Section 90(1)(a) is amended by inserting free of all ownership interests and other proprietary interests held in them before the sale after those goods.
+(2) Section 90(1)﻿(a) is amended by inserting free of all ownership interests and other proprietary interests held in them before the sale after those goods.
 
 ### 32 Procedure when goods seized are secured under bill of sale
 (1) Section 91 is amended by omitting warrant of distress and substituting warrant to seize property.
@@ -357,11 +357,11 @@ The following heading and sections are inserted after section 108:ServiceService
     (b) by sending the document to the recipient by prepaid post addressed to the recipient's last known place of residence or business:
     (c) if the recipient has a known electronic address, by sending it to the recipient at that address in electronic form.
   (2) For recipients to whom section 108B applies, subsection (1) is modified to the extent provided by that section.
-  (3) Despite subsection (1), the following documents must be served in accordance with subsection (1)(a) or, where applicable, section 108B(2)(b) or (4):
+  (3) Despite subsection (1), the following documents must be served in accordance with subsection (1)﻿(a) or, where applicable, section 108B(2)﻿(b) or (4):
     (a) a summons issued under section 84D, which must be served by an authorised process server:
     (b) a summons issued under section 84E, which must be served by or on behalf of the judgment creditor or by an authorised process server:
     (c) a copy of the application and notice of the time and place appointed for the hearing of the application that is required to be served on the judgment debtor under section 84OA(5), which must be served by or on behalf of the judgment creditor or by an authorised process server.
-  (4) This section is subject to section 84L(4)(a).
+  (4) This section is subject to section 84L(4)﻿(a).
   (5) In this section and in section 108B,—
     - **authorised process server** means a person who is—
     (a) a constable; or
@@ -376,7 +376,7 @@ The following heading and sections are inserted after section 108:ServiceService
       (b) does not include filing the document in a court under rules of court.
   (1) If a document is served in accordance with this section, it is, for the purposes of section 108A, taken to be served on the recipient concerned.
   (2) If the recipient is a body corporate or a Crown organisation, a document may be served—
-    (a) if it may be served under section 108A(1)(b) or (c), by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
+    (a) if it may be served under section 108A(1)﻿(b) or (c), by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
     (b) by being delivered to an officer or employee of the body corporate or Crown organisation at its head office, principal place of business, or registered office, or bringing it to the officer's notice or the employee's notice if that person refuses to accept it.
   (3) If a solicitor has signed a memorandum stating that the solicitor is authorised to accept service of a document on behalf of the recipient, the document may be served on the solicitor in any way authorised by section 108A.
   (4) In addition to the ways of service authorised by section 108A, a document may be served by delivering or sending it to, or by leaving it with,—
@@ -390,7 +390,7 @@ The following heading and sections are inserted after section 108:ServiceService
   (1) If any summons or any other document is served by a person who is authorised to do so under this Act, the rules, or any other enactment, the service may be proved—
     (a) by an endorsement on a copy of the document or, where applicable, on a printout that records an electronic document, showing the fact, date, time, and mode of service; or
     (b) in any other manner prescribed by the rules.
-  (1A) An endorsement under subsection (1)(a) must be signed by the person who served the summons or document.
+  (1A) An endorsement under subsection (1)﻿(a) must be signed by the person who served the summons or document.
 (3) Section 116A(2) is amended by omitting Every officer or constable and substituting A person.
 (4) Section 116A is amended by adding the following subsections:
   (3) If a document is served by sending it by prepaid post, then, unless the contrary is shown, the document is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
@@ -399,10 +399,10 @@ The following heading and sections are inserted after section 108:ServiceService
 
 ### 40 District Courts Rules
 Section 122(3) is amended by inserting the following paragraph after paragraph (ia):
-  (ib) providing for documents to be sent in electronic form under section 108A(1)(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
+  (ib) providing for documents to be sent in electronic form under section 108A(1)﻿(c), including (without limitation) provisions for the retention of records that evidence the fact that, and the date and time when, such documents were sent to electronic addresses:
 
 ### 41 Regulations
-Section 123(1)(a) is amended by inserting filing and after fees for the.
+Section 123(1)﻿(a) is amended by inserting filing and after fees for the.
 
 ### 42 New section 123AA inserted
 The following section is inserted after section 123:Chief executive of Ministry of Justice may approve forms
