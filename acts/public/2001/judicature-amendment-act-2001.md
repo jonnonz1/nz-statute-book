@@ -1,5 +1,5 @@
 # Judicature Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 (1) This Act is the Judicature Amendment Act 2001.
@@ -28,7 +28,7 @@ Section 100A of the principal Act is amended by repealing paragraph (d), and sub
   (ii) for restrictions to apply (after the expiry of the period of postponement and so long as the fee remains unpaid) on the steps that may be taken in the proceedings in respect of which the fee is payable:
 (dd) providing for the manner in which an application for the exercise of a power specified in paragraph (d) or paragraph (db) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Department for Courts:
 (2) Section 100A of the principal Act is amended by adding, as subsection (2), the following subsection:
-  (2) No fee is payable for an application for the exercise of a power specified in subsection (1)(d) or (db).
+  (2) No fee is payable for an application for the exercise of a power specified in subsection (1)﻿(d) or (db).
 
 ### 5 New section 100B added
 The principal Act is amended by adding the following section:Reviews of decisions of Registrars concerning fees1991 No 71 s 16.
