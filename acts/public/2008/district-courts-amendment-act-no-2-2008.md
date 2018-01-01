@@ -1,5 +1,5 @@
 # District Courts Amendment Act (No 2) 2008
-_Consolidation as at 2008-06-25_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the District Courts Amendment Act (No 2) 2008.
@@ -22,11 +22,11 @@ This Act amends the District Courts Act 1947.
     (e) attempting to commit an indictable offence to which paragraph (b) or (c) applies, or inciting or counselling or attempting to procure any person to commit any such offence, which is not committed:
     (f) being an accessory after the fact to any indictable offence to which paragraph (b) or (c) applies.
 (2) Section 28A(2) is amended by omitting paragraphs (d), (f), (g), and (h) and substituting paragraphs (c) to (f).
-(3) Section 153A(6)(a) of the Summary Proceedings Act 1957 is consequentially amended by repealing subparagraphs (i) to (v) and substituting the following subparagraphs:.
+(3) Section 153A(6)﻿(a) of the Summary Proceedings Act 1957 is consequentially amended by repealing subparagraphs (i) to (v) and substituting the following subparagraphs:.
   (i) the defendant elected under section 66 to be tried by a jury; or
   (ii) the offence is an indictable offence under any enactment (other than an offence referred to in Part 2 of Schedule 1A of the District Courts Act 1947); or
-  (iii) the offence is an offence to which section 28A(1)(d), (e), or (f) of the District Courts Act 1947 applies,—
-(4) Section 168A(1)(a) of the Summary Proceedings Act 1957 is consequentially amended by omitting paragraphs (a) to (d) of section 28A(1) of the District Courts Act 1947 and substituting paragraphs (a), (b), and (d) to (f) of section 28A(1) of the District Courts Act 1947.
+  (iii) the offence is an offence to which section 28A(1)﻿(d), (e), or (f) of the District Courts Act 1947 applies,—
+(4) Section 168A(1)﻿(a) of the Summary Proceedings Act 1957 is consequentially amended by omitting paragraphs (a) to (d) of section 28A(1) of the District Courts Act 1947 and substituting paragraphs (a), (b), and (d) to (f) of section 28A(1) of the District Courts Act 1947.
 (5) Section 168AA(1) of the Summary Proceedings Act 1957 is consequentially amended by omitting Part 2 and substituting Part 1.
 
 ### 5 Maximum sentences
@@ -34,7 +34,7 @@ Section 28F(3) is amended by repealing paragraph (a) and substituting the follow
   (a) a person pleads guilty under section 153A or 168 of the Summary Proceedings Act 1957, before or during the preliminary hearing, to—
     (i) any offence for which the accused elects trial by jury under section 66 of the Summary Proceedings Act 1957; or
     (ii) any indictable offence under any enactment (other than the offences referred to in Part 2 of Schedule 1A); or
-    (iii) any offence to which section 28A(1)(d), (e), or (f) applies; and
+    (iii) any offence to which section 28A(1)﻿(d), (e), or (f) applies; and
 
 ### 6 Appeal against sentence
 Section 28H is amended by repealing subsection (2) and substituting the following subsections:
@@ -104,9 +104,9 @@ Schedule 1A is repealed, and the Schedule 1A set out in the Schedule substituted
 | Section 208 | Abduction for purposes of marriage or sexual connection |
 | Section 209 | Kidnapping |
 | Section 232(1) | Aggravated burglary |
-| Section 235(1)(a) and (c)† | Aggravated robbery (causing grievous bodily harm) |
+| Section 235(1)﻿(a) and (c)† | Aggravated robbery (causing grievous bodily harm) |
 | Section 235 | Aggravated robbery |
-| Section 235(1)(b)† | Aggravated robbery (with other person or persons) |
+| Section 235(1)﻿(b)† | Aggravated robbery (with other person or persons) |
 | Section 236(1) | Assault with intent to rob |
 | Section 239(1) | Demanding with intent to steal, etc |
 | Section 240A† | Aggravated burglary |
@@ -123,7 +123,7 @@ Schedule 1A is repealed, and the Schedule 1A set out in the Schedule substituted
 | Section | Offence |
 | --- | --- |
 | Section 6 | Dealing with controlled drugs (but only where the charge relates to a class B controlled drug) |
-| Section 12C | Commission of offences outside New Zealand (other than offences against subsection (1)(a)) |
+| Section 12C | Commission of offences outside New Zealand (other than offences against subsection (1)﻿(a)) |
 
 | Section | Offence |
 | --- | --- |
@@ -212,17 +212,17 @@ Schedule 1A is repealed, and the Schedule 1A set out in the Schedule substituted
 
 | Section | Offence |
 | --- | --- |
-| Section 4(1)(a)–(h) | Crimes relating to ships |
-| Section 4(2)(a), (b) | Crimes relating to ships |
-| Section 4(3)(a), (b) | Crimes relating to ships |
-| Section 5(1)(a)–(e) | Crimes relating to fixed platforms |
-| Section 5(2)(a), (b) | Crimes relating to fixed platforms |
-| Section 5(3)(a), (b) | Crimes relating to fixed platforms |
+| Section 4(1)﻿(a)–(h) | Crimes relating to ships |
+| Section 4(2)﻿(a), (b) | Crimes relating to ships |
+| Section 4(3)﻿(a), (b) | Crimes relating to ships |
+| Section 5(1)﻿(a)–(e) | Crimes relating to fixed platforms |
+| Section 5(2)﻿(a), (b) | Crimes relating to fixed platforms |
+| Section 5(3)﻿(a), (b) | Crimes relating to fixed platforms |
 
 | Section | Offence |
 | --- | --- |
-| Section 6(2)(a) | Dealing with controlled drugs (Class A) |
-| Section 6(2A)(a) | Conspiring to deal with controlled drugs (Class A) |
+| Section 6(2)﻿(a) | Dealing with controlled drugs (Class A) |
+| Section 6(2A)﻿(a) | Conspiring to deal with controlled drugs (Class A) |
 | Section 10(1) | Aiding offences against law of another country |
 
 | Section | Offence |
