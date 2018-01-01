@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -782,7 +782,7 @@ The matters that a disputes panel must take into account in deciding a dispute r
 (1) In a dispute referred to in section 53(3), a disputes panel may make 1 or more of the following orders:
   (a) an order that the operator must market the residential unit concerned in a particular way, or at a particular price:
   (b) an order that the operator must pay the resident a sum in compensation:
-  (c) an order that the operator must pay the resident interest not exceeding the rate of interest prescribed under section 87 of the Judicature Act 1908:
+  (c) an order that the operator must pay the resident interest calculated in accordance with (or on a basis that ensures it does not exceed interest calculated in accordance with) Schedule 2 of the Interest on Money Claims Act 2016:
   (d) an order that the operator,—
     (i) if the resident has a legal or equitable estate or interest in the residential unit, must buy the resident's estate or interest at a price and within the time fixed by the panel; or
     (ii) in any other case, must pay the resident a sum fixed by the panel within a time fixed by the panel as if the operator had disposed of the residential unit.
