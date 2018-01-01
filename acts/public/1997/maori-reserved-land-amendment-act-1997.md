@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-01-01_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -193,7 +193,7 @@ If the annual rent of the lease is, at the commencement of this Act, no longer d
 
 ### 23 Interest payable on compensation
 (1) Where the compensation to which a person is entitled under section 13 or section 15 or section 16 or section 4 of the Maori Reserved Land Amendment Act 1998 is not paid to that person, within the period of 3 months after the date on which that person becomes entitled to be paid that compensation, and the delay, after the expiration of that period, in making payment is attributable to the Crown, the Crown must, on paying that compensation, pay it together with interest in respect of the period beginning with the expiration of that period of 3 months and ending with the date of payment.
-(2) The interest paid under subsection (1) is to be paid at the rate prescribed by or under section 87 of the Judicature Act 1908.
+(2) The interest paid under subsection (1) must be calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016.
 (3) Notwithstanding any other Act, agreement, or rules of court, the Crown, except as provided in subsections (1) and (2), is not liable to pay interest on compensation payable under this Act.
 
 ### 24 Claims under Treaty of Waitangi Act 1975 not precluded
@@ -357,7 +357,7 @@ If the party to this lease that gives a notice under clause 4 does receive (with
 Upon determination of the annual rent payable in accordance with clauses 32 to 34, an appropriate adjustment must be made between the parties; and the lessee will immediately pay to the lessor, or the lessor will immediately refund to the lessee, as the case may require, the amount of the adjustment together with interest calculated from the date of payment or non-payment to the date of the refund or payment, as the case may be.
 
 ### 8
-The interest payable under clause 7 is to be paid at the rate prescribed by or under section 87 of the Judicature Act 1908.
+The interest payable under clause 7 must be calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016.
 
 ### 9
 The annual rent determined under clauses 4 to 6 or clauses 32 to 34 is to be exclusive of goods and services tax, if any, under the Goods and Services Tax Act 1985.
@@ -427,7 +427,7 @@ Upon determining the market value of the lessee's interest in this lease, the pu
   (a) The lessor must pay to the lessee that market value; and
   (b) The lessee must transfer to the lessor the lessee's interest in this lease.
 (2) If the market value is not paid by the lessor in accordance with subclause (1) (otherwise than because of any default by the lessee), the lessor must pay to the lessee interest calculated from the date due for payment of the market value to the date of payment of the market value.
-(3) The interest payable under subclause (2) is to be paid at the rate prescribed by or under section 87 of the Judicature Act 1908.
+(3) The interest payable under subclause (2) must be calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016.
 
 ### 26
 Clauses 27 to 30 apply where the lessor proposes to transfer for valuable consideration the land that is subject to this lease to a third party other than a person who comes within the preferred classes of alienees under Te Ture Whenua Maori Act 1993.
