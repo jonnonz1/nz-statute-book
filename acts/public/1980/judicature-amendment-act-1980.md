@@ -1,5 +1,5 @@
 # Judicature Amendment Act 1980
-_Consolidation as at 2008-12-25_
+_Consolidation as at 2018-01-01_
 
 > An Act to amend the Judicature Act 1908
 
