@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -935,8 +935,8 @@ Before making a determination under this Act, a Labour Inspector must—
   (a) the Authority gives judgment for an employee in an action to recover holiday pay or leave pay; or
   (b) the Authority makes a determination under section 226 of the Employment Relations Act 2000 in favour of the employee.
 (2) The Authority may include, in the sum for which judgment is given or the determination is made, interest for the whole or any part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment or determination.
-(3) Interest included in a judgment or determination must not exceed interest at the rate calculated under clause 11 of Schedule 2 of the Employment Relations Act 2000.
-(4) This section does not authorise the giving of interest upon interest.
+(3) Interest included in a judgment or determination must not exceed interest calculated under clause 11 of Schedule 2 of the Employment Relations Act 2000.
+(4)
 
 ### 85 Presumption that employment continuous if employee dismissed and re-employed within 1 month
 (1) If an employer dismisses an employee and then re-employs the employee within 1 month after the dismissal, the employee’s employment must be treated as being continuous for the purpose of the employee’s entitlements under this Act.
