@@ -1,5 +1,5 @@
 # District Courts (District Court Judges) Amendment Act 2010
-_Consolidation as at 2010-03-22_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the District Courts (District Court Judges) Amendment Act 2010.
