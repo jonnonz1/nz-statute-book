@@ -1,5 +1,5 @@
 # Judicature Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Judicature Amendment Act 2006.
@@ -14,7 +14,7 @@ This Act amends the Judicature Act 1908.
 ## Part 1 — Procedures and constitution of Court of Appeal
 
 ### 4 Constitution of Court of Appeal
-Section 57(2)(b) is amended by omitting 6 and substituting 8.
+Section 57(2)﻿(b) is amended by omitting 6 and substituting 8.
 
 ### 5 Court of Appeal to sit in divisions
 (1) Section 58(1) is amended by omitting in subsection (2) and.
@@ -48,7 +48,7 @@ Section 67 is repealed and the following section substituted:Appeals against dec
     (b) directly to the Supreme Court (in exceptional circumstances as provided for in section 14 of the Supreme Court Act 2003).
   (2) An application under subsection (1) for leave to appeal to the Court of Appeal must be made to the High Court or, if the High Court refuses leave, to the Court of Appeal.
   (3) An application under subsection (1) for leave to appeal directly to the Supreme Court must be made to the Supreme Court.
-  (4) If leave to appeal referred to in subsection (1)(a) is obtained, the decision of the Court of Appeal on appeal from the High Court is final unless a party, on application, obtains leave to appeal against that decision to the Supreme Court.
+  (4) If leave to appeal referred to in subsection (1)﻿(a) is obtained, the decision of the Court of Appeal on appeal from the High Court is final unless a party, on application, obtains leave to appeal against that decision to the Supreme Court.
   (5) Subsections (1), (3), and (4) are subject to the Supreme Court Act 2003.
 
 ### 10 Section 68 repealed
