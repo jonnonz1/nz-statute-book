@@ -1,5 +1,5 @@
 # Judicature (Rules Committee and Technical Advisers) Amendment Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 > An Act to amend the Judicature Act 1908 for the purposes of reconstituting the Rules Committee and providing for the appointment, in appeals in the Court of Appeal, of technical advisers
 
