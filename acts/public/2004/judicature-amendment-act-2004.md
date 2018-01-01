@@ -1,5 +1,5 @@
 # Judicature Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 (1) This Act is the Judicature Amendment Act 2004.
@@ -13,7 +13,7 @@ This Act comes into force on the day after the date on which it receives the Roy
   (1) The High Court consists of—
     (a) a Judge called the Chief Justice of New Zealand; and
     (b) the other Judges, up to a maximum of 55, who are from time to time appointed.
-  (1A) For the purposes of subsection (1)(b),—
+  (1A) For the purposes of subsection (1)﻿(b),—
     (a) a Judge who is acting on a full-time basis counts as 1:
     (b) a Judge who is acting on a part-time basis counts as an appropriate fraction of 1:
     (c) the aggregate number (for example, 54.5) must not exceed the maximum number of Judges that is for the time being permitted.
