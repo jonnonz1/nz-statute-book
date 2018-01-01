@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-01-01_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -1320,9 +1320,9 @@ Where—that shareholder is entitled to require the company to purchase those sh
   (b) the reasonable costs of expert witnesses.
 
 ### 112B Interest payable on outstanding payments
-(1) Interest on any sum that must be paid under section 112 or 112A that is outstanding after the date on which it falls due is payable,—
-  (a) in the case of a share price determined under section 112, at the same rate of interest as the prescribed rate under section 87(3) of the Judicature Act 1908; and
-  (b) in the case of a share price determined under section 112A, on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
+(1) If a sum that must be paid under section 112 or 112A (the initial amount) is outstanding after it falls due under that section,—
+  (a) in the case of a share price determined under section 112, interest is payable from the date on which the initial amount falls due until the date of payment of the initial amount (and for this purpose the interest must be calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016):
+  (b) in the case of a share price determined under section 112A, interest is payable on the basis and at the rate that the arbitral tribunal thinks fit having regard to all of the circumstances.
 (2) The sum on which interest is payable under subsection (1)﻿(b) includes any interest or damages for loss awarded under section 112A.
 
 ### 112C Timing of transfer of shares
@@ -5052,7 +5052,7 @@ Nothing in this Part limits or affects the recovery of—
 
 ### 309 Claims relating to debts payable after commencement of liquidation
 (1) A claim in respect of a debt that, but for the liquidation, would not be payable until a date that is 6 months, or later than 6 months, after the date of commencement of the liquidation is to be treated, for the purposes of this Part, as a claim for the present value of the debt.
-(2) For the purposes of subsection (1), the present value of a debt is to be determined by deducting from the amount of the debt interest at the prescribed rate (within the meaning of section 87(3) of the Judicature Act 1908) for the period from the date on which the company is put into liquidation to the date when the debt is due.
+(2) For the purposes of subsection (1), the present value of a debt is to be determined by deducting from the amount of the debt interest at the interest rate as defined in section 12(3) of the Interest on Money Claims Act 2016 (as at the date of commencement of the liquidation) for the period from the date on which the company is put into liquidation to the date when the debt is due.
 
 ### 310 Mutual credit and set-off
 (1) Where there have been mutual credits, mutual debts, or other mutual dealings between a company and a person who seeks or, but for the operation of this section, would seek to have a claim admitted in the liquidation of the company,—
@@ -5191,10 +5191,10 @@ The variation or revocation of a declaration under section 310K does not affect 
 ### 311 Interest on claims
 (1) The amount of a claim may include interest up to the date of commencement of the liquidation—
   (a) at such rate as may be specified or contained in any contract that makes provision for the payment of interest on that amount; or
-  (b) in the case of a judgment debt, at such rate as is payable on the judgment debt.
-(2) If any surplus assets remain after the payment of all admitted claims, interest shall be paid at the prescribed rate on those claims from the date of commencement of the liquidation to the date on which each claim is paid, and if the amount of the surplus assets is insufficient to pay interest in full on all claims, payment shall abate rateably among all claims.
-(3) If any surplus assets remain after the payment of interest in accordance with subsection (2), interest shall be paid on all admitted claims referred to in subsection (1) from the date of commencement of the liquidation to the date on which the claim is paid at a rate equal to the excess between the prescribed rate and the rate referred to in paragraph (a) or paragraph (b) of that subsection, as the case may be, and, if the amount of the surplus assets is insufficient to pay interest in full on all claims, payment shall abate rateably among all claims.
-(4) For the purposes of this section, prescribed rate means the prescribed rate within the meaning of section 87(3) of the Judicature Act 1908.
+  (b) in the case of a judgment debt, of the amount that is payable on the judgment debt.
+(2) If any surplus assets remain after the payment of all admitted claims, the specified interest must be paid on those claims from the date of commencement of the liquidation to the date on which each claim is paid, and if the amount of the surplus assets is insufficient to pay interest in full on all claims, payment shall abate rateably among all claims.
+(3) If any surplus assets remain after the payment of specified interest in accordance with subsection (2), interest must be paid, on all admitted claims referred to in subsection (1)﻿(a), of an amount equal to the difference between the specified interest paid under subclause (2) and the interest that would have been payable under the contract for that period and, if the amount of the surplus assets is insufficient to pay interest in full on all those claims, payment must abate rateably among them.
+(4) For the purpose of subsection (2), specified interest means interest calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016.
 
 ### 312 Preferential claims
 (1) The liquidator must pay out of the assets of the company the expenses, fees, and claims set out in Schedule 7 to the extent and in the order of priority specified in that schedule and that schedule applies to the payment of those expenses, fees, and claims according to its tenor.
