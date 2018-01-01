@@ -1,5 +1,5 @@
 # District Courts Amendment Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 > An Act to validate the exercise of criminal jurisdiction under Part 2A of the District Courts Act 1947 in Courts held in certain cities, boroughs, and other places
 
