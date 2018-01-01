@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -63,7 +63,6 @@ In this Act, unless the context otherwise requires,—
   - **permanent Judge** does not include an acting District Court Judge
   - **Police employee** has the meaning given by section 4 of the Policing Act 2008
   - **prescribed** means prescribed by regulations made under section 230
-  - **prescribed rate** has the meaning given to it by section 87 of the Judicature Act 1908
   - **principal Judge** means a Judge who is appointed the principal Judge of a division of the court
   - **proceeding** means any application to the court for the exercise of the civil jurisdiction of the court other than an interlocutory application
   - **Registrar** means a District Court Registrar appointed under section 62
@@ -567,7 +566,7 @@ The court has the jurisdiction in relation to criminal proceedings conferred by�
 ### 75 Money recoverable by statute
 (1) The court has jurisdiction to hear and determine a proceeding—
   (a) for the recovery of any penalty, expenses, costs, contribution, or similar monetary liability that is recoverable under any enactment; and
-  (b) in which the amount claimed does not exceed $350,000 excluding interest that may be payable under section 87 of the Judicature Act 1908.
+  (b) in which the amount claimed does not exceed $350,000 excluding interest that may be payable under the Interest on Money Claims Act 2016.
 (2) Subsection (1) does not apply if an enactment expressly provides that the proceeding may only be brought in another court.
 (3) In subsection (1)﻿(a), penalty does not include a fine to which a person is liable on conviction of an offence.
 
@@ -985,7 +984,7 @@ Appeals must be by way of rehearing.
   (b) on appeal, the effect of the High Court's determination is that some or all of the amount did not need to be paid.
 (2) The High Court—
   (a) may order B to repay to A some or all of the amount paid by A; and
-  (b) may also order B to pay to A interest at a rate not greater than the prescribed rate (within the meaning of section 87(3) of the Judicature Act 1908) on the amount ordered to be repaid.
+  (b) may also order B to pay interest calculated in accordance with (or on a basis that ensures it does not exceed interest calculated in accordance with) Schedule 2 of the Interest on Money Claims Act 2016.
 
 ### 130 Enforcement proceedings
 For the purposes of enforcement proceedings, a judgment or an order of the High Court under section 128(1)﻿(a) or (b) or under section 129(2) must be treated as if it were a judgment or order of the District Court in which the decision appealed against was made.
