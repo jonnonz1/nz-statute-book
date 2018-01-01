@@ -1,5 +1,5 @@
 # District Courts Amendment Act 2008
-_Consolidation as at 2008-03-26_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the District Courts Amendment Act 2008.
