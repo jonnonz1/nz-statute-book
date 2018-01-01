@@ -1,5 +1,5 @@
 # District Courts Amendment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 > An Act to amend The District Courts Act 1947
 
@@ -27,10 +27,10 @@ This section inserted ss 56A and 56B of the principal Act.
 This section inserted s 79(2A) of the principal Act.
 
 ### 8 District Courts rules
-(1) This subsection inserted s 122(3)(ca) of the principal Act.
-(2) This subsection inserted s 122(3)(fa) of the principal Act.
-(3) This subsection inserted s 122(3)(ga) of the principal Act.
-(4) This subsection inserted s 122(3)(ia) of the principal Act.
+(1) This subsection inserted s 122(3)﻿(ca) of the principal Act.
+(2) This subsection inserted s 122(3)﻿(fa) of the principal Act.
+(3) This subsection inserted s 122(3)﻿(ga) of the principal Act.
+(4) This subsection inserted s 122(3)﻿(ia) of the principal Act.
 
 ### 9 Application of existing provisions
 (1) Subject to subsection (2) of this section, so far as the provisions of any Act that is in force at the commencement of the 1st day of July 1992, being provisions that prescribe the procedure to be followed in relation to the commencement of proceedings in a District Court or to the conduct of proceedings commenced in a District Court, are inconsistent with the principal Act or this Act or the rules, those provisions shall be deemed to be subject to the principal Act and this Act and the rules.
