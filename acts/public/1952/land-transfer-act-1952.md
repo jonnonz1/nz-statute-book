@@ -1,5 +1,5 @@
 # Land Transfer Act 1952
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-01-01_
 
 > An Act to consolidate and amend certain enactments relating to the registration and transfer of title to land
 
@@ -1848,7 +1848,7 @@ Where any person fraudulently—he shall be deemed for the purposes of the Crime
   (a) register, deposit, or accept an instrument, dealing, or document for the deposit, lodging, or filing of which a fee is prescribed; or
   (b) do any act for the doing of which a fee is prescribed,—
 (3) Regulations made under this Act may prescribe—
-  (a) that interest is payable on any unpaid fee at the rate prescribed for the time being under section 87 of the Judicature Act 1908; and
+  (a) that interest, calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016, is payable on any unpaid fee for the period specified in the regulations; and
   (b) the circumstances and manner in which that interest is to be paid.
 (4) Notwithstanding subsection (2), a Registrar may—
   (a) dispense with the payment of all or any part of any fee payable under this Act; or
