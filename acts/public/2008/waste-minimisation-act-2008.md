@@ -1,5 +1,5 @@
 # Waste Minimisation Act 2008
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Waste Minimisation Act 2008.
@@ -368,7 +368,7 @@ The Secretary must distribute and spend all levy money received by—
 (3) Once the written demand is made, the estimated amount must be treated as the correct amount of levy payable by the operator under section 28.
 
 ### 35 Interest on unpaid levy
-(1) If the operator of a disposal facility does not fully pay an amount of levy (the original amount) by the close of the due day for payment, the levy owing is to be treated as having been increased by an amount calculated daily using the following formula:amount of increase = unpaid amount × prescribed rate where—unpaid amountis any part of the original amount that remains unpaid on the day of calculationprescribed rate has the same meaning as in section 87(3) of the Judicature Act 1908.
+(1) If the operator of a disposal facility does not fully pay an amount of levy (the original amount) by the close of the due day for payment, the levy owing is to be treated as having been increased by an amount calculated daily using the following formula:amount of increase = unpaid amount × prescribed rate where—unpaid amountis any part of the original amount that remains unpaid on the day of calculationprescribed rate is the business lending rate published by the Reserve Bank of New Zealand on the most recent 1 July before the day of calculation.
 (2) Any amount of increase calculated under subsection (1) is not itself subject to an increase under that subsection.
 
 ### 36 Unpaid levy is debt
