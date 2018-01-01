@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-01-01_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -144,17 +144,31 @@ _Consolidation as at 2017-03-01_
 (3) Any notice under this section declaring an animal to be a pest for the purposes of this Act may be at any time amended or revoked by the Minister of Conservation by a subsequent notice published in the Gazette.
 
 ### 3 Definition of manipulation
-(1) In this Act, unless the context otherwise requires, the term manipulation, in relation to an animal, means, subject to subsections (2) and (3), interfering with the normal physiological, behavioural, or anatomical integrity of the animal by deliberately—and manipulating has a corresponding meaning.
+(1) In this Act, unless the context otherwise requires, the term manipulation, in relation to an animal, means, subject to subsections (1A) to (3), interfering with the normal physiological, behavioural, or anatomical integrity of the animal by deliberately—and manipulating has a corresponding meaning.
   (a) subjecting it to a procedure which is unusual or abnormal when compared with that to which animals of that type would be subjected under normal management or practice and which involves—
     (i) exposing the animal to any parasite, micro-organism, drug, chemical, biological product, radiation, electrical stimulation, or environmental condition; or
     (ii) enforced activity, restraint, nutrition, or surgical intervention; or
   (b) depriving the animal of usual care;—
+(1A) The term defined by subsection (1) includes the killing of an animal (other than an animal in a wild state) for the purpose of interfering with the animal's body or its tissues in a manner specified in that subsection.
+(1B) The term defined by subsection (1) also includes the breeding or production of an animal using any breeding technique (including genetic modification) that may result in the birth or production of an animal that is more susceptible to, or at greater risk of, pain or distress during its life as a result of the breeding or production.
 (2) The term defined by subsection (1) does not include—
   (a) any therapy or prophylaxis necessary or desirable for the welfare of an animal; or
   (b) the killing of an animal by the owner or person in charge as the end point of research, testing, or teaching if the animal is killed in such a manner that the animal does not suffer unreasonable or unnecessary pain or distress; or
-  (c) the killing of an animal in order to undertake research, testing, or teaching on the dead animal or on prenatal or developmental tissue of the animal if the animal is killed in such a manner that the animal does not suffer unreasonable or unnecessary pain or distress; or
+  (c)
   (d) the hunting or killing of any animal in a wild state by a method that is not an experimental method; or
   (e) any procedure that the Minister declares, under subsection (3), not to be a manipulation for the purposes of this Act.
+(2A) Subsection (1A) does not apply to any killing of an animal that is carried out by any person—
+  (a) while exercising powers under the Biosecurity Act 1993 for the purposes specified in section 121(1A) of that Act; or
+  (b) while exercising powers or performing functions for the purposes of a response activity carried out under the Biosecurity Act 1993, being an activity undertaken after any event described in subsection (2B) and for any purpose described in subsection (2C).
+(2B) The events concerned are—
+  (a) the detection of an unwanted organism not previously known to be present in New Zealand:
+  (b) the appearance of different effects of an unwanted organism known to be present in New Zealand and capable of being eradicated.
+(2C) The purposes concerned are—
+  (a) to investigate the unwanted organism:
+  (b) to minimise the impact of the unwanted organism on natural and physical resources, human health, and overseas market access for New Zealand products:
+  (c) to control the spread of the unwanted organism:
+  (d) to reduce the geographical distribution of the unwanted organism:
+  (e) to eradicate the unwanted organism.
 (3) The Minister may from time to time, after consultation with the National Animal Welfare Advisory Committee and the National Animal Ethics Advisory Committee, declare any procedure, by notice in the Gazette, not to be a manipulation for the purposes of this Act.
 (4) The Minister must, in deciding whether to publish a notice under subsection (3) in relation to a procedure, have regard to the following matters:
   (a) the nature of the procedure; and
@@ -175,18 +189,23 @@ In this Act, unless the context otherwise requires, the term physical, health, a
   (e) protection from, and rapid diagnosis of, any significant injury or disease,—
 
 ### 5 Definition of research, testing, and teaching
-(1) In this Act, unless the context otherwise requires, the term research, testing, and teaching means, subject to subsections (2) to (4),—
+(1) In this Act, unless the context otherwise requires, the term research, testing, and teaching means, subject to subsections (1A) to (4),—
   (a) any work (being investigative work or experimental work or diagnostic work or toxicity testing work or potency testing work) that involves the manipulation of any animal; or
   (b) any work that—
     (i) is carried out for the purpose of producing antisera or other biological products; and
     (ii) involves the manipulation of any animal; or
-  (c) any teaching that involves the manipulation of any animal.
+  (c) any teaching that involves the manipulation of any animal; or
+  (d) any routine breeding of animals that may result in the birth or production of an animal that is more susceptible to, or at greater risk of, pain or distress during its life, being breeding for the purpose of carrying out any work or teaching of a type specified in paragraphs (a) to (c) on any offspring.
+(1A) The term defined by subsection (1) includes any work of a kind described in subsection (1)﻿(a) or (b) carried out on the body or tissues of an animal after the animal was killed for the purpose, if the killing of the animal was a manipulation under section 3(1A).
+(1B) A reference in subsection (1) to a manipulation of an animal includes a reference to the act of breeding or producing the animal in a way described in section 3(1B).
+(1C) In applying subsection (1) in relation to a manipulation described in section 3(1B), the reference in subsection (1) to work must be read as a reference to scientific work but does not include normal animal management or practice.
 (2) The term defined by subsection (1) does not include any manipulation that is carried out on any animal that is in the immediate care of a veterinarian, if—
   (a) the veterinarian believes on reasonable grounds that the manipulation will not cause the animal unreasonable or unnecessary pain or distress, or lasting harm; and
   (b) the manipulation is—
     (i) for clinical purposes in order to diagnose any disease in the animal or any associated animal; or
     (ii) for clinical purposes in order to assess the effectiveness of a proposed treatment regime for the animal or any associated animal; or
     (iii) for the purposes of assessing the characteristics of the animal with a view to maximising the productivity of the animal or any associated animal.
+(2A) Subsection (2)﻿(a) does not apply in relation to a manipulation described in section 3(1A).
 (3) The term defined by subsection (1) does not include any manipulation of an animal—
   (a) which is carried out with the principal objective of—
     (i) assisting the breeding, marking, capturing, translocation, or trapping of animals of that type; or
@@ -1230,11 +1249,11 @@ Every code holder must establish and maintain an animal ethics committee.
 (2) Each animal ethics committee has such powers as are reasonably necessary to enable it to carry out its functions.
 
 ### 100 Criteria
-In considering any application for the approval of a project and in setting, varying, or revoking conditions of the approval of a project, every animal ethics committee must have regard to such of the following matters as are relevant:
-  (a) the purposes of this Part; and
+(1) In considering any application for the approval of a project and in setting, varying, or revoking conditions of the approval of a project, every animal ethics committee must have regard to such of the following matters as are relevant:
+  (a) the purposes of this Part, but the committee need not have regard to the purpose stated in section 80(1)﻿(b) for any part of the project that involves manipulation to which section 3(1A) applies; and
   (b) any matters that the committee is required to consider by regulations made under this Act; and
   (c) the scientific or educational objectives of the project; and
-  (d) the harm to, or the distress felt by, the animals as a result of the manipulation, and the extent to which that harm or distress can be alleviated by any means (including, where the pain or distress cannot be held within reasonable levels, the abandonment of the manipulation or the humane destruction of animals); and
+  (d) the harm to, or the distress felt by, the animals as a result of the manipulation, and the extent to which that harm or distress can be alleviated by any means (including, where the pain or distress cannot be held within reasonable levels, the abandonment of the manipulation or the humane destruction of animals), but this paragraph does not apply to the killing of animals for the purpose of any project where research, testing, and teaching are to be performed on their bodies or tissues; and
   (e) whether the design of the experiment or demonstration is such that it is reasonable to expect that the objectives of the experiment or demonstration will be met; and
   (f) the factors that have been taken into account in the choice of animal species; and
   (fa) the extent to which there has been—
@@ -1249,6 +1268,7 @@ In considering any application for the approval of a project and in setting, var
   (k) whether the same animals are to be used repeatedly in successive projects, and, if so, the cumulative effect of the successive projects on the welfare of the animals; and
   (l) whether there is a commitment to ensuring that findings of any experiment will be adequately used, promoted, or published; and
   (m) any other matters that the committee considers relevant.
+(2) When an animal ethics committee considers approving a research, testing, and teaching project that involves manipulation to which section 3(1A) applies, the committee must be satisfied that every animal that will be subject to that manipulation will be killed in such a manner that the animal does not suffer unreasonable or unnecessary pain or distress.
 
 ### 101 Membership
 (1) Each animal ethics committee is to consist of at least 4 members.
