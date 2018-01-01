@@ -1,5 +1,5 @@
 # District Courts Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 (1) This Act is the District Courts Amendment Act 2001.
@@ -14,7 +14,7 @@ Section 113 of the principal Act is amended by repealing subsection (2), and sub
   (2A) An act for which a fee is payable is not invalid simply because the fee has not been paid.
 
 ### 4 Regulations
-(1) Section 123 of the principal Act is amended by inserting, after paragraph (b), the following paragraphs:.
+(1) Section 123 of the principal Act is amended by inserting, after paragraph (b), the following paragraphs:
   (ba) in order to promote access to justice, empowering Registrars or Deputy Registrars to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or an intended proceeding (including a proceeding in a Disputes Tribunal), or to refund, in whole or in part, such a fee that has already been paid, if satisfied on the basis of criteria specified under paragraph (bb) that—
     (i) the person otherwise responsible for payment of the fee is unable to pay or absorb the fee in whole or in part; or
     (ii) unless 1 or more of those powers are exercised in respect of a proceeding that concerns a matter of genuine public interest, the proceeding is unlikely to be commenced or continued:
@@ -29,11 +29,11 @@ Section 113 of the principal Act is amended by repealing subsection (2), and sub
     (ii) for restrictions to apply (after the expiry of the period of postponement and so long as the fee remains unpaid) on the steps that may be taken in the proceedings in respect of which the fee is payable:
   (be) providing for the manner in which an application for the exercise of a power specified in paragraph (ba) or paragraph (bc) is to be made, including, without limitation, requiring such an application to be in a form approved for the purpose by the chief executive of the Department for Courts:
 (2) Section 123 of the principal Act is amended by adding, as subsection (2), the following subsection:
-  (2) No fee is payable for an application for the exercise of a power specified in subsection (1)(ba) or (bc).
+  (2) No fee is payable for an application for the exercise of a power specified in subsection (1)﻿(ba) or (bc).
 
 ### 5 New section 123A inserted
-The principal Act is amended by inserting, after section 123, the following section:Reviews of decisions of Registrars concerning fees1991 No 71 s 16.
-  (1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 123(1)(ba) may apply to a Judge for a review of that decision.
+The principal Act is amended by inserting, after section 123, the following section:Reviews of decisions of Registrars concerning fees1991 No 71 s 16
+  (1) Any person who is aggrieved by a decision of a Registrar or Deputy Registrar under regulations made under section 123(1)﻿(ba) may apply to a Judge for a review of that decision.
   (2) An application under subsection (1) may be made within 20 working days after the date on which the applicant is notified of the decision of the Registrar or Deputy Registrar, or within any further time that the Judge allows on application made for that purpose either before or after the expiration of those 20 working days.
   (3) Applications under this section may be made on an informal basis.
   (4) Reviews under this section are—
