@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-01-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1769,7 +1769,7 @@ The court must determine the amount of an uncertain creditor's claim on the appl
 
 ### 253 Creditor's claim payable 6 months or more after adjudication
 (1) A creditor's claim that would, but for the bankruptcy, be payable 6 months or more after the date of adjudication is treated as a claim for the present value of the debt.
-(2) The present value of the debt is calculated by deducting interest at the rate prescribed under section 87(3) of the Judicature Act 1908 for the period from the date of adjudication to the date when the debt would be payable.
+(2) The present value of the debt is calculated by deducting interest at the interest rate as defined in section 12(3) of the Interest on Money Claims Act 2016 (as at the date of adjudication) for the period from the date of adjudication to the date when the debt would be payable.
 
 **Set-off**
 
@@ -1868,7 +1868,7 @@ ExampleA and B are the only creditors of the bankrupt, C. A's contract with C pr
 (3) If the surplus is not enough to pay additional post-adjudication interest in full on the creditors' claims eligible for that interest, payment of interest must abate rateably among them all.
 
 ### 267 Meaning of prescribed rate
-In sections 265 and 266, prescribed rate means the rate of interest prescribed from time to time under section 87(3) of the Judicature Act 1908.
+In sections 265 and 266, prescribed rate means the interest rate as defined in section 12(3) of the Interest on Money Claims Act 2016 (as at the date when the claim is paid).
 
 **Miscellaneous provisions relating to creditors' claims**
 
