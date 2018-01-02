@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-01-02_
 
 > An Act to reform the administration of education
 
@@ -4067,8 +4067,7 @@ The purpose of this Part is to establish—
 [Repealed]
 
 ### 159FD Repeal of sections 159FA to 159FD
-(1) Sections 159FA to 159FC are repealed on 1 January 2018.
-(2) This section is repealed on 2 January 2018.
+[Repealed]
 
 ### 159G Principles guiding how Commission operates
 In performing its functions, the Commission must, in addition to complying with section 159AB,—
@@ -9518,8 +9517,7 @@ Careers New Zealand is dissolved.
 [Repealed]
 
 ### 10 Repeal of clauses 6 to 9 and this clause
-(1) Clauses 6 to 9 are repealed on 1 January 2018.
-(2) This clause is repealed on 2 January 2018.
+[Repealed]
 
 ### Part 5 — Provision relating to cohort entry
 
