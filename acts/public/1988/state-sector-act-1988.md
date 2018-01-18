@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-01-18_
 
 > Title
 
