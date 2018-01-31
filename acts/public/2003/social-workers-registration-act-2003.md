@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-01-31_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -1235,7 +1235,7 @@ If satisfied that a registered social worker has changed his or her name, or tha
 ### 128 Entry to be cancelled on death of social worker
 (1) Promptly after registering the death of a person who appears to have been a registered social worker, a Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) must give the Registrar written notice of the death, with particulars of its date and place.
 (2) If there is an entry in the Register relating to the person, the Registrar must, as soon as is practicable after receiving the notice, cancel it.
-(3) The Board may direct the Registrar to cancel the entry in the Register relating to a registered social worker if it believes on reasonable grounds (other than having received a doctor's certificate) that a registered social worker has died.
+(3) The Board may direct the Registrar to cancel the entry in the Register relating to a registered social worker if it believes on reasonable grounds (other than having received a certificate of cause of death (as defined in section 2(1) of the Burial and Cremation Act 1964)) that a registered social worker has died.
 (4) The Registrar must make reasonable efforts to give a copy of the direction to the social worker's personal representative.
 (5)
 
