@@ -1,5 +1,5 @@
 # Medicines Amendment Act 2016
-_Consolidation as at 2016-11-07_
+_Consolidation as at 2018-01-31_
 
 ### 1 Title
 This Act is the Medicines Amendment Act 2016.
