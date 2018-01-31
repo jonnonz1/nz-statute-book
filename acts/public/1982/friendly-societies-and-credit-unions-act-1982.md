@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-01-31_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -345,7 +345,7 @@ Except as provided in this Part, the subscription of a person who is or has been
 ### 45 Evidence of death
 (1) A registered society or branch shall not pay any sum of money upon the death of a member or other person whose death is, or ought to be, entered in any register of deaths, except upon the production—
   (a) of a death certificate (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the member or other person; or
-  (ab) of a doctor's certificate (within the meaning of section 2(1) of the Burial and Cremation Act 1964) relating to the death of the member or other person; or
+  (ab) of a certificate of cause of death (as defined in section 2(1) of the Burial and Cremation Act 1964) relating to the death of the member or other person; or
   (b) of the grant of probate of the will of the member or other person or of letters of administration to his estate.
 (2) Subsection (1)﻿(a) shall not apply to deaths at sea or out of New Zealand, nor to a death where the body cannot be found, nor to any death certified by a coroner to be the subject of a pending inquiry, nor to any case where the Registrar, on being satisfied of the fact of death, grants an exemption from this section.
 
