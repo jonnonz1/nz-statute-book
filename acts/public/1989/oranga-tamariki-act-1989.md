@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-01-31_
 
 > Title
 
@@ -56,6 +56,8 @@ _Consolidation as at 2017-07-14_
     (b) in relation to Part 4, means a meeting convened or reconvened by a youth justice co-ordinator in accordance with section 247 or section 270 or section 281 or section 281B
   - **family resource centre** means any premises that provide temporary accommodation for a child or young person and any person who has the care of that child or young person, where that accommodation is provided as part of a programme designed to provide assistance to that person
   - **guardianship** has the meaning given to it by section 15 of the Care of Children Act 2004; and has a corresponding meaning, and includes, without limitation, a person who is a guardian by virtue of this Act
+  - **health practitioner** has the same meaning as in section 5 of the Health Practitioners Competence Assurance Act 2003
+  - **hospital** has the same meaning as in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **iwi social service** means any incorporated body approved by the chief executive as an iwi social service pursuant to section 396(1)
   - **lay advocate** does not include any person who is a barrister or solicitor
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
@@ -67,14 +69,13 @@ _Consolidation as at 2017-07-14_
     (b) a person—
       (i) appointed as a guardian of the child or young person under section 27 of the Care of Children Act 2004, where that appointment was made in substitution for an order under section 78, 101, or 110 of this Act, or for an agreement under section 140 of this Act; and
       (ii) who has the day-to-day care of the child or young person pursuant to a parenting order made under section 48 of the Care of Children Act 2004 or because there is no other guardian who has the day-to-day care of the child or young person
-  - **psychiatric hospital** means a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
   - **residence** —
     (a) means any residential centre, family home, group home, foster home, family resource centre, or other premises or place, approved or recognised for the time being by the chief executive as a place of care or treatment for the purposes of this Act; and
     (b) includes any place of care or treatment, so approved, whether administered by the Crown or not; but
     (c) does not include—
       (i) a prison; or
-      (ii) a psychiatric hospital or a facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+      (ii) a hospital or a facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
       (iii)
       (iv) a children's health camp operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development
   - **secure care** , in relation to a child or young person in a residence established under section 364, means containment in that residence within a locked room or enclosure with visible physical barriers
@@ -313,8 +314,8 @@ Section 86 of the State Sector Act 1988 applies to a person outside the Public S
 (6) This section is not limited by section 5(d) (which sets out a principle relating to ascertaining, considering, and giving weight to the wishes of the child or young person).
 (7) In this section, support includes support from a member of the child’s or young person’s family group or other person supporting the child or young person, a specialist service provider, or any other service under this Act.
 
-### 12 Duty of medical practitioner to minimise distress to child or young person
-Every medical practitioner who carries out a medical examination of any child or young person under any provision of this Act shall carry out that examination in a way that causes the least possible distress to the child or young person.
+### 12 Duty of health practitioner to minimise distress to child or young person
+Every health practitioner who carries out a medical examination of any child or young person under any provision of this Act shall carry out that examination in a way that causes the least possible distress to the child or young person.
 
 ## Part 2 — Care and protection of children and young persons
 
@@ -737,7 +738,7 @@ Where an application is made to the court under section 44, or a child or young 
 **Medical examination of child or young person**
 
 ### 49 Court may order medical examination of child or young person
-(1) Where the court is satisfied—the court may order the child or young person to attend for a medical examination by a medical practitioner.
+(1) Where the court is satisfied—the court may order the child or young person to attend for a medical examination by a health practitioner whom the court considers qualified for the purpose.
   (a) that there are reasonable grounds for suspecting that a child or young person is suffering ill-treatment, abuse, neglect, deprivation, or serious harm; and
   (b) that it is expedient that a medical examination of that child or young person be carried out for the purpose of determining whether that suspicion is well-founded,—
 (2) An application for an order under subsection (1) may be made by the chief executive or a constable.
@@ -757,8 +758,8 @@ Where an application is made to the court under section 44, or a child or young 
 ### 51 Court may impose conditions on order for medical examination
 Any order under section 49 may be made on such terms and conditions as the court thinks fit, including restrictions on the nature of the medical examination that may be carried out and the procedures that may be used to carry out that examination.
 
-### 52 Medical practitioner to prepare report on examination
-(1) Every medical practitioner who carries out a medical examination of a child or young person pursuant to an order under section 49 shall forthwith prepare a written report of the results of that examination and shall supply that report to the court.
+### 52 Health practitioner to prepare report on examination
+(1) Every health practitioner who carries out a medical examination of a child or young person pursuant to an order under section 49 shall forthwith prepare a written report of the results of that examination and shall supply that report to the court.
 (2) A copy of every report supplied to the court pursuant to subsection (1) shall be given by the Registrar to—
   (a) every person entitled to appear and be heard on the application to which the report relates:
   (b) any other person whom the court considers has a proper interest in receiving a copy of the report.
@@ -767,8 +768,8 @@ Any order under section 49 may be made on such terms and conditions as the court
 (1) This section applies to any child or young person—
   (a) in respect of whom a warrant has been issued under section 39; or
   (b) who is placed in the custody of the chief executive under that section or under section 40 or section 42.
-(2) The chief executive may, with the consent of any parent or guardian of the child or young person, arrange for any child or young person to whom this section applies to be medically examined by a medical practitioner.
-(3) Where, after making reasonable efforts to do so, the chief executive does not obtain the consent of a parent or guardian of a child or young person to a medical examination under subsection (2), the chief executive may require the child or young person to be medically examined by a medical practitioner.
+(2) The chief executive may, with the consent of any parent or guardian of the child or young person, arrange for any child or young person to whom this section applies to be medically examined by a health practitioner qualified for the purpose.
+(3) Where, after making reasonable efforts to do so, the chief executive does not obtain the consent of a parent or guardian of a child or young person to a medical examination under subsection (2), the chief executive may require the child or young person to be medically examined by a health practitioner qualified for the purpose.
 
 ### 54 Child or young person entitled to have adult present
 Every child or young person who is medically examined under section 53 is entitled to have present during that examination 1 adult—
@@ -777,13 +778,13 @@ Every child or young person who is medically examined under section 53 is entitl
 
 ### 55 Restrictions on internal examinations and examinations under general anaesthetic
 (1) No medical examination carried out under section 53 shall include any internal examination of the genitals or anus of any child or young person unless—
-  (a) the medical practitioner carrying out the examination believes that the child or young person may have been subject to recent physical or sexual abuse involving either or both of those parts of the body; and
+  (a) the health practitioner carrying out the examination believes that the child or young person may have been subject to recent physical or sexual abuse involving either or both of those parts of the body; and
   (b) the child or young person consents to such an examination of that part of the body.
 (2) No medical examination carried out under section 53 shall include any medical procedure that involves the administration of a general anaesthetic to the child or young person.
 (3) Nothing in subsection (1)﻿(b) requires the consent of any child or young person to any examination if the age or level of maturity of the child or young person makes it impracticable to obtain such consent.
 
-### 56 Medical practitioner to prepare report on examination
-Every medical practitioner who carries out a medical examination of a child or young person under section 53 shall forthwith prepare a written report of the results of that examination and shall supply that report to the person who arranged or required the examination.
+### 56 Health practitioner to prepare report on examination
+Every health practitioner who carries out a medical examination of a child or young person under section 53 shall forthwith prepare a written report of the results of that examination and shall supply that report to the person who arranged or required the examination.
 
 ### 57 Report to chief executive following medical examination
 A delegate of the chief executive who exercises the power under section 53(3) to require a medical examination to be carried out shall, within 3 days after the day on which that examination is carried out, forward to the chief executive a written report on the exercise of that power and the circumstances in which it came to be exercised.
@@ -1883,10 +1884,10 @@ The Family Court Judge who presides over a mediation conference shall be entitle
 (4) Subject to the right of the person who refuses to consent to the order to explain the reasons for that person's refusal, and to cross-examine witnesses and call evidence, the court may draw such inferences (if any) from the fact of the refusal as appear to it to be proper in the circumstances.
 
 ### 179 Further provisions relating to medical, psychiatric, and psychological examinations
-(1) Every medical examination carried out under subsection (1) or subsection (2) of section 178 shall be carried out by a registered medical practitioner.
-(2) Every psychiatric examination carried out under subsection (1) or subsection (2) of section 178 shall be carried out by a registered medical practitioner holding a specialist psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry.
+(1) Every medical examination carried out under subsection (1) or subsection (2) of section 178 shall be carried out by a health practitioner whom the court considers qualified for the purpose.
+(2) Every psychiatric examination carried out under subsection (1) or subsection (2) of section 178 shall be carried out by a health practitioner holding a specialist psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry.
 (3) Every psychological examination carried out under subsection (1) or subsection (2) of section 178 shall be carried out by—
-  (a) a registered medical practitioner holding a psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry; or
+  (a) a health practitioner holding a psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry; or
   (b) a registered psychologist; or
   (c) a person appointed by the court for the purpose, being a person whom the court is satisfied—
     (i) is entitled to practise as a psychologist, or in the speciality of psychological medicine or psychiatry, in that person's country of permanent residence; and
@@ -1898,21 +1899,21 @@ The Family Court Judge who presides over a mediation conference shall be entitle
 ### 180 Fees for reports prepared under section 178
 Where any person prepares a report pursuant to section 178, the fees and expenses of that person shall be paid by such party or parties to the proceedings as the court shall order or, if the court so decides, shall be paid out of money appropriated by Parliament for the purpose.
 
-### 181 Court may order examination to be carried out in psychiatric hospital
-(1) If, at any stage of the hearing of any proceedings under Part 2,—the court may, if it considers it expedient, make an order for the detention and examination of that child or young person in a psychiatric hospital for such period, not exceeding 5 days, as the court thinks fit.
-  (a) 2 medical practitioners have certified or given evidence that a psychiatric assessment of any child of or over the age of 10 years, or of any young person to whom the proceedings relate, should be obtained, and it appears to the court that it would not be practicable for such assessment to be carried out outside a psychiatric hospital; or
-  (b) 2 psychiatric reports (whether obtained pursuant to section 178(1) or otherwise) recommending detention of any such child or young person in a psychiatric hospital for further observation are available to the court,—
-(2) Where an order is made under subsection (1), a Family Court Judge may, on application made at any time before the expiry of the period specified in the order, if the Judge is satisfied that it is necessary to detain the child or young person to whom the order relates in a psychiatric hospital for longer than that period for the purpose of completing the assessment or observation of that child or young person pursuant to that order, extend the period for which that child or young person may be detained in that hospital for such period, not exceeding 14 days, as the Judge thinks fit.
-(3) The examination required by an order made under subsection (1) shall be carried out by a medical practitioner holding a specialist psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry.
+### 181 Court may order examination to be carried out in hospital
+(1) If, at any stage of the hearing of any proceedings under Part 2,—the court may, if it considers it expedient, make an order for the detention and examination of that child or young person in a hospital for such period, not exceeding 5 days, as the court thinks fit.
+  (a) 2 health practitioners have certified or given evidence that a psychiatric assessment of any child of or over the age of 10 years, or of any young person to whom the proceedings relate, should be obtained, and it appears to the court that it would not be practicable for such assessment to be carried out outside a hospital; or
+  (b) 2 psychiatric reports (whether obtained pursuant to section 178(1) or otherwise) recommending detention of any such child or young person in a hospital for further observation are available to the court,—
+(2) Where an order is made under subsection (1), a Family Court Judge may, on application made at any time before the expiry of the period specified in the order, if the Judge is satisfied that it is necessary to detain the child or young person to whom the order relates in a hospital for longer than that period for the purpose of completing the assessment or observation of that child or young person pursuant to that order, extend the period for which that child or young person may be detained in that hospital for such period, not exceeding 14 days, as the Judge thinks fit.
+(3) The examination required by an order made under subsection (1) shall be carried out by a health practitioner holding a specialist psychiatric appointment or holding vocational registration in the speciality of psychological medicine or psychiatry.
 (4) An order made under subsection (1) in respect of any child or young person is sufficient authority—
   (a) for the detention of the child or young person by the chief executive or any constable for the purpose of ensuring compliance with the order:
-  (b) for the transfer of the child or young person from a residence to a psychiatric hospital:
-  (c) for the detention of the child or young person and examination in a psychiatric hospital:
-  (d) for the return to any residence in which the child or young person was detained at the time of transfer to a psychiatric hospital.
+  (b) for the transfer of the child or young person from a residence to a hospital:
+  (c) for the detention of the child or young person and examination in a hospital:
+  (d) for the return to any residence in which the child or young person was detained at the time of transfer to a hospital.
 (5) The power to detain a child or young person may be exercised by a social worker or any other person authorised under a delegation by the chief executive to exercise that power (see section 7C).
 
-### 182 Release of child or young person from psychiatric hospital where detention no longer required
-Any child or young person who is detained in a psychiatric hospital pursuant to an order made under section 181(1) may be released, or may be returned to a residence, as the case may require, notwithstanding that the period for which the child or young person was ordered to be detained has not expired, if the superintendent of that psychiatric hospital certifies in writing that the assessment of the child or young person has been completed or that no further observation of the child or young person is required.
+### 182 Release of child or young person from hospital where detention no longer required
+Any child or young person who is detained in a hospital pursuant to an order made under section 181(1) may be released, or may be returned to a residence, as the case may require, notwithstanding that the period for which the child or young person was ordered to be detained has not expired, if the superintendent of that hospital certifies in writing that the assessment of the child or young person has been completed or that no further observation of the child or young person is required.
 
 ### 183 Review of order made under section 178 or section 181
 The court may, from time to time, review any order made under section 178 or section 181, and on any such review the court may make such order as may be just.
