@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2018-01-31_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -95,9 +95,9 @@ _Consolidation as at 2017-12-01_
   - **Medicines Review Committee** means the committee established under section 10
   - **Minister** means the Minister of Health
   - **new organism** has the same meaning as in section 2A of the Hazardous Substances and New Organisms Act 1996
-  - **nurse practitioner** means a health practitioner—
-    (a) who is, or is deemed to be, registered with the Nursing Council as a practitioner of the profession of nursing; and
-    (b) for whom the Nursing Council has authorised a scope of practice that includes prescribing medicines
+  - **nurse practitioner** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of nurse practitioner functions; and
+    (b) holds a current practising certificate
   - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003
   - **officer** means—
     (a) any officer of the Ministry of Health:
@@ -1615,7 +1615,9 @@ The Governor-General may from time to time, by Order in Council, add to or omit 
     (iii) to demonstrate, to the satisfaction of the relevant professional organisation, that the person is sufficiently knowledgeable to safely prescribe prescription medicines or prescription medicines of a specified class or description:
   (b) requiring any designated prescriber or any class of designated prescriber to undergo specified training or to undergo training specified from time to time by notice in the Gazette by the Minister, or by the relevant professional organisation (including training of an ongoing nature):
   (c) requiring any designated prescriber or any class of designated prescriber to undergo an assessment of competence to prescribe prescription medicines of a specified class or description (including an assessment at regular intervals):
-  (d) requiring any designated prescriber or any class of designated prescriber who prescribes prescription medicines of any specified class or description to undertake those duties under the supervision of a practitioner, or a specified class of practitioner:
+  (d) requiring any designated prescriber or any class of designated prescriber who prescribes prescription medicines of any specified class or description to undertake those duties under the supervision of—
+    (i) a practitioner, or any specified class of practitioner; or
+    (ii) a nurse practitioner:
   (e) prohibiting any person who fails to comply with any requirement imposed by or under regulations referred to in paragraphs (a) to (d) from prescribing prescription medicines or prescription medicines of any specified class or description.
 (2) In this section, relevant professional organisation means the authority under the Health Practitioners Competence Assurance Act 2003 that has jurisdiction in respect of the class of registered health professional to which a designated prescriber, or a class of designated prescriber, belongs.
 
