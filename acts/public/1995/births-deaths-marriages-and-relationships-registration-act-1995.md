@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-01-31_
 
 > Title
 
@@ -54,7 +54,6 @@ In this Act, unless the context otherwise requires,—
   - **Director-General of an intelligence and security agency** has the meaning given to it by section 4 of the Intelligence and Security Act 2017
   - **disposal** , includes burial and cremation; and has a corresponding meaning
   - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
-  - **doctor's certificate** , in relation to a death or a body, means a doctor's certificate referred to in sections 46B and 46C of the Burial and Cremation Act 1964 relating to the cause of death or, as the case may be, the cause of death of the person whose body it is
   - **document** means a document in any form; and includes any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced; and has a corresponding meaning
   - **Family Court** means the division of the District Court known, in accordance with section 4 of the Family Court Act 1980, as the Family Court
   - **foreign registration authority** means an authority constituted in a State outside New Zealand that has the function of recording information relating to name changes or deaths within that State
