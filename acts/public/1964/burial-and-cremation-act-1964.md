@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2016-07-21_
+_Consolidation as at 2018-01-31_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -12,6 +12,7 @@ _Consolidation as at 2016-07-21_
   - **body** means a dead human body and includes the body of a stillborn child
   - **burial ground** means a denominational burial ground or a private burial ground; but does not include a Maori burial ground
   - **cemetery** means any land held, taken, purchased, acquired, set apart, dedicated, or reserved, under the provisions of any Act or before the commencement of this Act, exclusively for the burial of the dead generally, and, where the context so permits, includes a closed cemetery
+  - **certificate of cause of death** , in relation to a death or a body, means a certificate referred to in section 46B or 46C relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
   - **closed cemetery** means a cemetery which has been closed by a closing order and has a corresponding meaning
   - **closing order** means an order made under paragraph (a) of subsection (1) of section 41 before 1 January 1969, or a notice published under that paragraph after that date, or an Order in Council made under any corresponding former provision
   - **coroner's authorisation** , in relation to a body, means an authorisation by a coroner under section 42 of the Coroners Act 2006 for the release of the body
@@ -21,20 +22,25 @@ _Consolidation as at 2016-07-21_
   - **dead foetus** has the meaning given to it in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **denominational burial ground** means any land, outside the boundaries of a cemetery, held, purchased, acquired, set apart, or dedicated, under the provisions of any Act or before the commencement of this Act, for the burial of the dead belonging to 1 or more religious denominations
   - **disposal** includes burial and cremation
-  - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
-  - **doctor's certificate** , in relation to a death or a body, means a doctor's certificate referred to in section 46B or 46C relating to the cause of death or, as the case may require, the cause of death of the person whose body it is
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **funeral director** means a person whose business is or includes disposing of bodies
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
-  - **give a doctor's certificate** , in relation to a person's death, means complete and sign a doctor's certificate and give it to the person having charge of the person's body
+  - **give a certificate of cause of death** , in relation to a person's death, means complete and sign a certificate of cause of death and give it to the person having charge of the person's body
   - **guardian** means a person appointed to be a guardian under section 14
+  - **health practitioner** has the same meaning as in section 5 of the Health Practitioners Competence Assurance Act 2003
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **manager** means the manager of a denominational burial ground
   - **Maori burial ground** means any land set apart for the purposes of a burial ground under section 439 of the Maori Affairs Act 1953 or any corresponding former provision
+  - **medical practitioner** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
+    (b) holds a current practising certificate
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** means the Minister of Health
   - **monument** includes any tombstone, headstone, memorial, kerbing, or other erection
   - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
+  - **nurse practitioner** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of nurse practitioner functions; and
+    (b) holds a current practising certificate
   - **private burial ground** means a parcel of land declared to be a private burial ground under the provisions of the Cemeteries Amendment Act 1912
   - **religious denomination** means the adherents of any religion and includes any church, sect, or other subdivision of such adherents
   - **specified not-for-profit entity** has the same meaning as in section 46 of the Financial Reporting Act 2013
@@ -374,49 +380,55 @@ The Minister may, by any reopening order or by any later notice in the Gazette,�
 (1) Subject to the provisions of sections 47 and 48 of this Act and of section 85(1)﻿(g) of the Civil Defence Emergency Management Act 2002, it shall not be lawful to bury any body in any land not being a cemetery or a denominational burial ground or a private burial ground or a Maori burial ground if there is a cemetery or any such burial ground within 32 kilometres of the place where the death has occurred, or of the place whence the body is taken for the purpose of burial:provided that nothing in this subsection shall compel the burial in a denominational burial ground of the body of a person who was not at the time of his death a practising member of the denomination concerned or the burial in a Maori burial ground of any body which would not otherwise be permitted to be buried therein or permit the burial in a private burial ground of a body the burial of which in such burial ground is prohibited by subsection (3) of section 36.
 (2) If there is not a cemetery, or any such burial ground in which the body may properly be buried, within the distance mentioned in subsection (1), the body may be buried in other land but notice of every such burial specifying the name of the person buried, if known, the supposed cause of death, and the place of burial, shall, within 3 days after the burial, be given by the person burying the body to the nearest District Court Judge.
 
-### 46AA Doctor's certificate or coroner's authorisation required before body disposed of
-(1) A body must not be buried, cremated, or otherwise disposed of unless the person in charge of the disposal has obtained a doctor's certificate or a coroner's authorisation.
-(2) The person in charge of the disposal must send a copy of the doctor's certificate or coroner's authorisation to the department administering this Act.
+### 46AA Certificate of cause of death or coroner's authorisation required before body disposed of
+(1) A body must not be buried, cremated, or otherwise disposed of unless the person in charge of the disposal has been given—
+  (a) a certificate of cause of death; or
+  (b) a coroner's authorisation.
+(2) After receiving under subsection (1) a certificate of cause of death or coroner's authorisation, the person in charge of the disposal must send a copy of that certificate or authorisation to the department that administers this Act.
 (3) This section is subject to section 46A.
 
 ### 46A Stillborn children
 (1) A stillborn child must not be buried, cremated, or otherwise disposed of unless the person in charge of the disposal has obtained—
   (a) a written certificate relating to the cause of the stillbirth signed—
-    (i) by a doctor who was present at the birth or examined the child after birth; or
-    (ii) if no doctor was present at the birth or examined the child after birth, by a midwife; or
+    (i) by a medical practitioner who was present at the birth or examined the child after birth; or
+    (ii) if no medical practitioner was present at the birth or examined the child after birth, by a midwife; or
   (b) a statutory declaration, made by the person or one of the persons required under the Births, Deaths, Marriages, and Relationships Registration Act 1995 to notify the birth, to the effect that the child was born dead, and that—
-    (i) no doctor or midwife was present at the birth; or
-    (ii) it is impossible to obtain a certificate under paragraph (a) from a doctor or midwife present at the birth; or
+    (i) no medical practitioner or midwife was present at the birth; or
+    (ii) it is impossible to obtain a certificate under paragraph (a) from a medical practitioner or midwife present at the birth; or
   (c) a coroner's authorisation.
 (2) The person in charge of the disposal must send a copy of the certificate, statutory declaration, or coroner's authorisation to the department administering this Act.
 
-### 46B Doctor's certificate in relation to illness
-(1) Subsections (2) and (3) apply if a person dies after an illness.
-(2) A doctor who attended the person during the illness must, if (and only if) satisfied that the person's death was a natural consequence of the illness, give a doctor's certificate for the death immediately after the doctor learns of the death.
-(3) However, a doctor other than a doctor who attended the person during the illness may give a doctor's certificate for the death if (and only if) satisfied that the person's death was a natural consequence of the illness and that—
-  (a) the doctor who last attended the person during the illness is unavailable; or
-  (b) less than 24 hours has passed since the death, and the doctor who last attended the person during the illness is unlikely to be able to give a doctor's certificate for the death within 24 hours after the death; or
-  (c) 24 hours or a longer period has passed since the death, and the doctor who last attended the person during the illness has not given a doctor's certificate for the death.
-(4) Subsection (3)﻿(b) and (c) do not apply if the doctor who last attended the person during the illness has refused to give a doctor's certificate for the death because that doctor was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
-(5) A doctor must not give a doctor's certificate under subsection (2) or (3) if the death—
-  (a) must be reported to the New Zealand Police because section 14 (except subsection (2)﻿(f)) of the Coroners Act 2006 applies; or
-  (b) has been reported to a coroner under section 15(2) of that Act.
-(6) A doctor may give a doctor's certificate despite subsection (5) if a coroner has decided not to open an inquiry into the death.
-(7) A doctor who must give a doctor's certificate under subsection (2), but knows that since he or she attended the person concerned some other doctor attended the person, must not give the certificate without taking all reasonable steps to consult the other doctor.
-(8) A doctor must not give a doctor's certificate under subsection (3) unless the doctor has—
-  (a) had regard to the medical records relating to the person concerned of the doctor who last attended the person during the illness; and
-  (b) had regard to the circumstances of the person's death; and
-  (c) examined the person's body.
+### 46B Certificate of cause of death in relation to illness
+(1) This section applies if a person dies after an illness.
+(2) A medical practitioner or a nurse practitioner who attended the person during the illness must, immediately after learning of the person’s death, give a certificate of cause of death for the person’s death if the practitioner—
+  (a) is satisfied that the person’s death was a natural consequence of the illness; and
+  (b) has taken reasonable steps to consult with any health practitioner known to have subsequently attended the person during the person’s illness.
+(3) Any other medical practitioner or nurse practitioner may give a certificate of cause of death for the person's death if (and only if) the practitioner is satisfied that the person's death was a natural consequence of the illness and—
+  (a) a medical practitioner or nurse practitioner who attended the person during the person’s illness is unavailable; or
+  (b) less than 24 hours has passed since the death, and a medical practitioner or nurse practitioner who attended the person during the person’s illness is unlikely to be able to give a certificate of cause of death for the person's death within 24 hours after the death; or
+  (c) at least 24 hours have passed since the person's death, and a medical practitioner or nurse practitioner who attended the person during the person’s illness has not given a certificate of cause of death for the person's death.
+(4) Subsection (3)﻿(b) and (c) does not apply if a medical practitioner or nurse practitioner who attended the person during the person’s illness has refused to give a certificate of cause of death for the person's death because the practitioner was not satisfied, or was not yet satisfied, that the death was a natural consequence of the illness.
+(5) A medical practitioner or nurse practitioner must not give a certificate of cause of death under subsection (3) unless the practitioner—
+  (a) has regard to the medical records relating to the person concerned of the health practitioner who last attended the person during the illness; and
+  (b) has regard to the circumstances of the person's death; and
+  (c) has examined the person's body.
+(6) A certificate of cause of death must not be given under subsection (2) or (3) if—
+  (a) the death—
+    (i) must be reported to the New Zealand Police because section 13 (except subsection (1)﻿(b)) of the Coroners Act 2006 applies; or
+    (ii) has been reported to a coroner under section 15(2) of that Act; and
+  (b) the coroner has decided to open an inquiry into the death.
 
-### 46C Doctor's certificate in relation to accidents to elderly persons
-(1) A doctor may give a doctor's certificate for the death of a person even though a death may have been reported to the New Zealand Police under section 13 of the Coroners Act 2006 if the person was 70 years of age or older and, in the opinion of the doctor,—
+### 46C Certificate of cause of death in relation to accidents to persons aged 70 years or more
+(1) This section applies if a person of or over the age of 70 years dies (the deceased) and, in the opinion of a medical practitioner or nurse practitioner,—
   (a) the death was caused by injuries, or injuries contributed substantially to it; and
   (b) the injuries were caused by an accident; and
-  (c) the injuries, the accident, or both arose principally by virtue of infirmities that were attributes of the person's age; and
+  (c) the injuries, the accident, or both arose principally by virtue of infirmities that were attributes of the deceased’s age; and
   (d) the accident was not suspicious or unusual; and
   (e) the accident was not caused by an act or omission of any other person; and
   (f) except to the extent that the death involved injury by accident, it was not violent, unnatural, or in some way a death in respect of which the Coroners Act 2006 requires an inquiry to be conducted.
-(2) If a doctor is aware that a death has been reported to a coroner under section 15(2) of the Coroners Act 2006, the doctor must not give a doctor's certificate under subsection (1) without first obtaining the agreement of the designated coroner.
+(2) A medical practitioner or nurse practitioner may give a certificate of cause of death for the deceased.
+(3) Subsection (2) applies even though the death may have been reported to the New Zealand Police under section 14 of the Coroners Act 2006.
+(4) However, if the medical practitioner or nurse practitioner is aware that the death has been reported to a coroner under section 15(2) of the Coroners Act 2006, the practitioner must not give a certificate of cause of death under subsection (2) without first obtaining the agreement of the designated coroner.
 
 ### 46D No liability for costs incurred in supplying information
 To avoid doubt, the Crown is not liable for the costs incurred by a person in supplying information required by section 46AA, 46A, 46B, or 46C.
@@ -433,7 +445,7 @@ To avoid doubt, the Crown is not liable for the costs incurred by a person in su
 
 ### 46F Transfer of charge of body
 (1) A person having charge of a body must not transfer charge of it to another person unless he or she first—
-  (a) gives the other person a doctor's certificate or coroner's authorisation; and
+  (a) gives the other person a certificate of cause of death or coroner's authorisation; and
   (b) gets from the other person a notice, in the standard form, taking responsibility for notifying a Registrar under section 42 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 of the death of the person whose body it is, and (except where the body is being removed by the other person for anatomical examination under the Human Tissue Act 2008)—
     (i) taking responsibility for disposing of the body; and
     (ii) describing (with enough detail to enable it to be identified) the place where the other person intends to dispose of the body.
@@ -443,8 +455,8 @@ To avoid doubt, the Crown is not liable for the costs incurred by a person in su
     (i) a constable; or
     (ii) a doctor who has been directed by a coroner to perform a post-mortem of the body; or
     (iii) the occupier of a hospital.
-(3) Nevertheless, if a person has a doctor's certificate or coroner's authorisation at the time that he or she transfers charge of a body to another person, he or she must give the certificate or authorisation to the other person.
-(4) A person must not take charge of a body for anatomical examination under the Human Tissue Act 2008, or removal from New Zealand for disposal outside New Zealand, without first obtaining a doctor's certificate or coroner's authorisation.
+(3) Nevertheless, if a person has a certificate of cause of death or coroner's authorisation at the time that he or she transfers charge of a body to another person, he or she must give the certificate or authorisation to the other person.
+(4) A person must not take charge of a body for anatomical examination under the Human Tissue Act 2008, or removal from New Zealand for disposal outside New Zealand, without first obtaining a certificate of cause of death or coroner's authorisation.
 (5) In this section, standard form has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
 
 ### 47 Burial in private burial place
@@ -485,7 +497,7 @@ Notwithstanding anything in this Act, a body may be buried in any place, even th
 
 ## Part 8 — Offences and penalties
 
-### 54AA Offences concerning doctor's certificate or certificate relating to stillbirth
+### 54AA Offences concerning certificate of cause of death or certificate relating to stillbirth
 A person who contravenes or fails to comply with section 46AA or 46A commits an offence and is liable, on conviction, to a fine not exceeding $1,000.
 
 ### 54 Offences concerning burials
