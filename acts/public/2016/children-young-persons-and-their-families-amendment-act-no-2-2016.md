@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Amendment Act (No 2) 2016
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-01-31_
 
 ### 1 Title
 This Act is the Children, Young Persons, and Their Families Amendment Act (No 2) 2016.
