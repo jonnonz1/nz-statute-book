@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-01-31_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -23,6 +23,7 @@ _Consolidation as at 2017-09-28_
     (a) that begins with the date on which the patient receives a notice under section 11(1); and
     (b) that ends when 5 clear days have passed after that date
   - **fit to be released from compulsory status** , in relation to a patient, means no longer mentally disordered and fit to be released from the requirement of assessment or treatment under this Act
+  - **health practitioner** has the same meaning as in section 5 of the Health Practitioners Competence Assurance Act 2003
   - **hospital** —
     (a) means premises that—but where only parts of any premises are used (or intended to be used) to provide hospital mental health care, means only those parts; and
       (i) are used to provide hospital mental health care in accordance with section 9 of the Health and Disability Services (Safety) Act 2001; or
@@ -35,7 +36,10 @@ _Consolidation as at 2017-09-28_
     (a) poses a serious danger to the health or safety of that person or of others; or
     (b) seriously diminishes the capacity of that person to take care of himself or herself;—
   - **Minister** means the Minister of Health
-  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
+  - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of nursing functions
+  - **nurse practitioner** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of nurse practitioner functions; and
+    (b) holds a current practising certificate
   - **official visitor** means a person appointed pursuant to section 94 to be an official visitor
   - **patient** means a person who is—
     (a) required to undergo assessment under section 11 or section 13; or
@@ -43,6 +47,7 @@ _Consolidation as at 2017-09-28_
     (c) a special patient
   - **person in charge** , in relation to a hospital or service, means the chief executive of the hospital or service
   - **principal caregiver** , in relation to any patient, means the friend of the patient or the member of the patient's family group or whanau who is most evidently and directly concerned with the oversight of the patient's care and welfare
+  - **primary health care provider** means a health practitioner who manages and provides primary and ongoing health care to a patient
   - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004; and in section 45 of this Act includes a hospital or a Police station while it is deemed by section 36 of the Corrections Act 2004 to be a prison
   - **proposed patient** has the meaning given to that term by section 2A
   - **psychiatric security institution** means a hospital, or part of a hospital, declared under section 100 to be a psychiatric security institution
@@ -75,7 +80,7 @@ _Consolidation as at 2017-09-28_
 ### 2A Meaning of proposed patient
 A person—
   (a) starts being a proposed patient when an application is made under section 8A; and
-  (b) stops being a proposed patient when a medical practitioner records a finding—
+  (b) stops being a proposed patient when a health practitioner records a finding—
     (i) under section 10(1)﻿(b)﻿(i), in which case the person does not become a patient; or
     (ii) under section 10(1)﻿(b)﻿(ii), in which case the person becomes a patient.
 
@@ -115,9 +120,9 @@ For the purposes of this Act, the Director of Area Mental Health Services shall 
   (a) a psychiatrist approved by the Director of Area Mental Health Services; or
   (b) some other registered health professional who, in the opinion of the Director of Area Mental Health Services, has undergone training in, and is competent in, the assessment, treatment, and care, of persons with mental disorder.
 
-### 7A Medical practitioner or responsible clinician to consult
+### 7A Practitioner or responsible clinician to consult
 (1) In this section, practitioner means—
-  (a) a medical practitioner conducting an assessment examination of a proposed patient under section 9; and
+  (a) a health practitioner conducting an assessment examination of a proposed patient under section 9; and
   (b) a responsible clinician providing an assessment of, or treatment to, a patient.
 (2) A practitioner must consult the family or whanau of the proposed patient or patient. This subsection is subject to subsection (3).
 (3) Subsection (2) does not apply if the practitioner has reasonable grounds for deciding that consultation—
@@ -146,24 +151,33 @@ An application is made under this section when the Director of Area Mental Healt
   (d) it states the relationship or association of the applicant with the person; and
   (e) it states the grounds on which the applicant believes the person to be suffering from a mental disorder.
 
-### 8B Medical practitioner's certificate to accompany application for assessment
+### 8B Certificate to accompany application for assessment
 (1) This section applies when—
-  (a) a medical practitioner is asked, by an applicant, to issue a certificate to accompany the application form; or
-  (b) a medical practitioner is the applicant and wishes to issue a certificate to accompany his or her application form.
-(2) A medical practitioner to whom subsection (1)﻿(a) applies must not issue a certificate if he or she is related to the applicant or to the person.
-(3) A medical practitioner to whom subsection (1)﻿(b) applies must not issue a certificate if he or she is related to the person.
-(4) The medical practitioner must—
+  (a) a health practitioner is asked, by an applicant, to issue a certificate to accompany the application form; or
+  (b) a health practitioner is the applicant and wishes to issue a certificate to accompany his or her application form.
+(2) A health practitioner to whom subsection (1)﻿(a) applies must not issue a certificate if he or she is related to the applicant or to the person.
+(3) A health practitioner to whom subsection (1)﻿(b) applies must not issue a certificate if he or she is related to the person.
+(4) The health practitioner must—
   (a) examine the person; and
   (b) if he or she considers that there are reasonable grounds for believing that the person may be suffering from a mental disorder, issue the certificate.
 (5) The certificate must—
-  (a) state that the medical practitioner has examined the person:
+  (a) state that the health practitioner has examined the person:
   (b) state the date of the examination:
-  (c) state that the medical practitioner considers that there are reasonable grounds for believing that the person may be suffering from a mental disorder:
-  (d) set out full particulars of the reasons for that opinion, explaining in what way the medical practitioner believes that the person's condition may come within the statutory definition of mental disorder:
-  (e) state that the medical practitioner is not related to the person or to the applicant (except when the medical practitioner is the applicant).
+  (c) state that the health practitioner considers that there are reasonable grounds for believing that the person may be suffering from a mental disorder:
+  (d) set out full particulars of the reasons for that opinion, explaining in what way the health practitioner believes that the person's condition may come within the statutory definition of mental disorder:
+  (e) state that the health practitioner is not related to the person or to the applicant (except when the health practitioner is the applicant).
+(6) In this section,—
+  - **health practitioner** means—
+    (a) a medical practitioner; or
+    (b) a nurse practitioner; or
+    (c) a registered nurse practising in mental health
+  - **registered nurse practising in mental health** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice includes the assessment of a person’s mental capacity; and
+    (b) holds a current practising certificate.
 
 ### 9 Assessment examination to be arranged and conducted
-(1) Where an application is made under section 8A, the Director of Area Mental Health Services, or a duly authorised officer acting with the authority of that Director, shall make the necessary arrangements for the proposed patient to undergo an assessment examination forthwith.
+(1) When the Director of Area Mental Health Services or a duly authorised officer receives notice of an application made under section 8A from the health practitioner who issued the certificate accompanying that application, the Director of Area Mental Health Services must make the necessary arrangements for the proposed patient to immediately undergo an assessment examination.
+(1A) Notice of an application made under section 8A may be given by any means, including by telephone.
 (2) The arrangements required by subsection (1) shall include the following:
   (a) nominating, in accordance with subsection (3), the person by whom the assessment examination is to be conducted:
   (b) determining, in consultation with the person by whom the assessment examination is to be conducted, the time and place at which it is to be conducted:
@@ -173,38 +187,38 @@ An application is made under this section when the Director of Area Mental Healt
     (iii) stating the name of the person who is to conduct the assessment examination:
   (d) ensuring that the purpose of the assessment examination and the requirements of the notice given under paragraph (c) are explained to the proposed patient in the presence of a member of the proposed patient's family, or a caregiver in relation to the proposed patient or other person concerned with the welfare of the proposed patient:
   (e) ensuring, where necessary, that appropriate arrangements are made to convey the proposed patient at the required time to the place where the assessment examination is to be conducted, and, where it is necessary or desirable that the proposed patient be accompanied on the journey, ensuring that an appropriate person is available to do so.
-(3) Every assessment examination shall be conducted by a medical practitioner (but not being the medical practitioner who issued the certificate under section 8B(4)﻿(b)), being—
-  (a) a psychiatrist approved by the Director of Area Mental Health Services for the purposes of the assessment examination or of assessment examinations generally; or
-  (b) if no such psychiatrist is reasonably available, some other medical practitioner who, in the opinion of the Director of Area Mental Health Services, is suitably qualified to conduct the assessment examination or assessment examinations generally.
-(4) For the purposes of subsection (1), an application under section 8A is deemed to have been made if the Director of Area Mental Health Services or a duly authorised officer receives notice of it from the medical practitioner who issued the certificate relating to the person under section 8B(4)﻿(b). The medical practitioner may give notice by any means, including by telephone. The assessment examination must not take place until the Director of Area Mental Health Services, or a duly authorised officer, or the medical practitioner who is to conduct the examination receives an application relating to the person and complying with section 8A.
+(3) An assessment examination must be conducted by a health practitioner who is—
+  (a) a psychiatrist approved by the Director of Area Mental Health Services for the purposes of the assessment examination, or of assessment examinations generally; or
+  (b) if no such psychiatrist is reasonably available, a medical practitioner or nurse practitioner (not being a medical practitioner or nurse practitioner who issued the certificate under section 8B(4)﻿(b)) who, in the opinion of the Director of Mental Health, is suitably qualified to conduct the assessment examination or assessment examinations generally.
+(4) The Director of Mental Health may delegate his or her function under subsection (3)﻿(b) to the Director of Area Mental Health Services.
 
 ### 10 Certificate of preliminary assessment
-(1) After completing the assessment examination, the medical practitioner shall record his or her findings in a certificate of preliminary assessment, stating—
+(1) After completing the assessment examination, the health practitioner must record his or her findings in a certificate of preliminary assessment, stating—
   (a) that he or she has carefully considered the statutory definition of mental disorder and the proposed patient's condition in relation to that definition; and
   (b) that, in his or her opinion,—
     (i) the proposed patient is not mentally disordered; or
     (ii) there are reasonable grounds for believing that the proposed patient is mentally disordered and that it is desirable that the proposed patient be required to undergo further assessment and treatment.
-(2) The medical practitioner shall send to the Director of Area Mental Health Services—
+(2) The health practitioner must send to the Director of Area Mental Health Services—
   (a) the certificate of preliminary assessment; and
   (b) full particulars of the reasons for his or her opinion of the proposed patient's condition, and any relevant reports from other health professionals involved in the case; and
   (c) a copy of any notice given to the patient under section 11(1); and
-  (d) the application for assessment made under section 8A, if it is in the possession of the medical practitioner.
-(3) If the medical practitioner is of the opinion that the proposed patient is not mentally disordered, that person is free from further assessment and treatment under this Part (without prejudice to the making of a further application under section 8A in respect of the person at some time in the future).
-(4) Where the medical practitioner considers that there are reasonable grounds for believing that the proposed patient is mentally disordered and that it is desirable that the proposed patient be required to undergo further assessment and treatment, the medical practitioner shall—
+  (d) the application for assessment made under section 8A, if it is in the possession of the health practitioner.
+(3) If the health practitioner is of the opinion that the proposed patient is not mentally disordered, that person is free from further assessment and treatment under this Part (without prejudice to the making of a further application under section 8A in respect of the person at some time in the future).
+(4) Where the health practitioner considers that there are reasonable grounds for believing that the proposed patient is mentally disordered and that it is desirable that the proposed patient be required to undergo further assessment and treatment, the health practitioner must—
   (a) give or send a copy of the certificate of preliminary assessment to each of the following:
     (i) the patient:
     (ii) any welfare guardian of the patient:
     (iii) the applicant for assessment:
     (iv) the patient's principal caregiver:
-    (v) the medical practitioner who usually attends the patient; and
+    (v) the primary health care provider who usually attends the patient; and
   (b) give or send, to each of the persons specified in paragraph (a), a statement of the legal consequences of the finding set out in the certificate of preliminary assessment, and of the recipient's right to apply to the court for a review of the patient's condition; and
   (c) otherwise deal with the case in accordance with section 11.
 
 ### 11 Further assessment and treatment for 5 days
-(1) If the medical practitioner records a finding under section 10(1)﻿(b)﻿(ii), the medical practitioner must require the patient to undergo further assessment and treatment throughout the first period. The medical practitioner must give the patient written notice of this requirement.
-(2) In the notice, the medical practitioner must—
+(1) If the health practitioner records a finding under section 10(1)﻿(b)﻿(ii), the health practitioner must require the patient to undergo further assessment and treatment throughout the first period. The health practitioner must give the patient written notice of this requirement.
+(2) In the notice, the health practitioner must—
   (a) require the patient to attend at the patient's place of residence, or at some other place nominated in the notice, for the purposes of assessment and treatment throughout the first period; or
-  (b) if the medical practitioner considers that the patient cannot be further assessed and treated adequately as an outpatient, direct that the patient be admitted to and detained in a specified hospital for the purposes of assessment and treatment throughout the first period.
+  (b) if the health practitioner considers that the patient cannot be further assessed and treated adequately as an outpatient, direct that the patient be admitted to and detained in a specified hospital for the purposes of assessment and treatment throughout the first period.
 (3) If, at any time during the first period, the responsible clinician considers that a patient who is an outpatient cannot continue to be assessed and treated adequately as an outpatient, the clinician may give a written notice—
   (a) directing the patient to present himself or herself at a specified hospital to be admitted and detained for the purposes of assessment and treatment during the remainder of the first period; and
   (b) directing the person in charge of the hospital to admit and detain the patient for the purposes of assessment and treatment during the remainder of the first period.
@@ -236,7 +250,7 @@ An application is made under this section when the Director of Area Mental Healt
   (b) any welfare guardian of the patient:
   (c) the applicant for assessment:
   (d) the patient's principal caregiver:
-  (e) the medical practitioner who usually attended the patient immediately before the patient was required to undergo assessment and treatment under this Part:
+  (e) the primary health care provider who usually attended the patient immediately before the patient was required to undergo assessment and treatment under this Part:
   (f) a district inspector:
   (g) an official visitor.
 (6) To each of the persons specified in paragraphs (a) to (e) of subsection (5), the responsible clinician shall also give or send a statement of the legal consequences of the finding set out in the certificate of further assessment, and of the recipient's right to apply to the court for a review of the patient's condition.
@@ -288,7 +302,7 @@ An application is made under this section when the Director of Area Mental Healt
   (a) any welfare guardian of the patient:
   (b) the applicant for assessment:
   (c) the patient's principal caregiver:
-  (d) the medical practitioner who usually attended the patient immediately before the patient was required to undergo assessment and treatment under this Part:
+  (d) the primary health care provider who usually attended the patient immediately before the patient was required to undergo assessment and treatment under this Part:
   (e) the Director of Area Mental Health Services:
   (f) a district inspector:
   (g) an official visitor.
@@ -439,7 +453,7 @@ Notwithstanding any of the preceding provisions of this Part, the court may dete
 (6) As soon as practicable after giving a direction under subsection (3), the responsible clinician must notify the following:
   (a) any welfare guardian of the patient:
   (b) the patient's principal caregiver:
-  (c) the medical practitioner who usually attended the patient immediately before the patient was required to undergo assessment and treatment under Part 1:
+  (c) the primary health care provider who usually attended the patient immediately before the patient was required to undergo assessment and treatment under Part 1:
   (d) a district inspector:
   (e) an official visitor.
 
@@ -895,7 +909,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
     (i) the patient:
     (ii) any welfare guardian of the patient:
     (iii) the patient's principal caregiver:
-    (iv) the medical practitioner who usually attended the patient immediately before the patient was required to undergo assessment and treatment under Part 1:
+    (iv) the primary health care provider who usually attended the patient immediately before the patient was required to undergo assessment and treatment under Part 1:
     (v) a district inspector:
     (vi) an official visitor.
 (8) To each of the persons specified in subparagraphs (i) to (iv) of subsection (7)﻿(b) the responsible clinician shall also send a statement of the legal consequences of the finding set out in the certificate of clinical review, and of the recipient's right to apply to the Review Tribunal for a review of the patient's condition.
@@ -980,7 +994,7 @@ Subject to section 124, every patient is entitled to the prompt dispatch unopene
   (d) the patient:
   (e) any welfare guardian of the patient:
   (f) the patient's principal caregiver:
-  (g) the medical practitioner who usually attended the patient immediately before the patient was required to undergo assessment and treatment under Part 1:
+  (g) the primary health care provider who usually attended the patient immediately before the patient was required to undergo assessment and treatment under Part 1:
   (h) a district inspector:
   (i) an official visitor.
 (11) To each of the persons specified in paragraphs (d) to (g) of subsection (10), the convener shall also send a statement of the legal consequences of the decision, and of the recipient's right to appeal to the court against the decision.
@@ -1075,7 +1089,7 @@ Wherever practicable, for the purposes of a review by a Review Tribunal of the c
   (b) a Deputy Director of Mental Health, who shall, under the control of the Director, perform such general official duties as the Director may from time to time require.
 (2) On the occurrence from any cause of a vacancy in the office of Director, whether by reason of death, resignation, or otherwise, and in case of the absence from duty of the Director from whatever cause arising, and so long as the vacancy or absence continues, the Deputy Director shall have and may exercise and perform all the powers, duties, and functions of the Director.
 (3) The fact that the Deputy Director exercises or performs any of the Director's powers, duties, and functions shall be conclusive evidence of the Deputy Director's authority to do so, and no person shall be concerned to inquire whether the occasion has arisen requiring or authorising the Deputy Director to do so.
-(4) The Director may from time to time delegate to any person employed in the Ministry of Health all or any of the powers, duties, and functions conferred or imposed on the Director by this Act, to be exercised by that person whenever, or on any specified occasion when, there is not present in Wellington a person holding or acting in the office of Director or of Deputy Director.
+(4) The Director may from time to time delegate to any person employed in the Ministry of Health all or any of the powers, duties, and functions conferred or imposed on the Director by this Act (other than the function in section 9(3)﻿(b)), to be exercised by that person whenever, or on any specified occasion when, there is not present in Wellington a person holding or acting in the office of Director or of Deputy Director.
 (5) Every delegation under subsection (4) shall have effect according to its tenor.
 (6) The Director may at any time amend or revoke any such delegation, and no such delegation shall prevent the exercise or performance of any power, duty, or function by the Director.
 (7) Without limiting any of the preceding provisions of this section, the Director-General of Health may exercise and perform all or any of the powers, duties, and functions conferred or imposed on the Director by this Act.
@@ -1169,8 +1183,8 @@ Wherever practicable, for the purposes of a review by a Review Tribunal of the c
   (b) a hospital or service in or through which any patient is being assessed or treated as an outpatient must be visited at least 4 times a year at regular intervals and when the Director directs.
 (2) Any district inspector or official visitor may, without previous notice, visit any hospital or service as often as the district inspector or the official visitor thinks fit.
 (3) All visits made under the authority of this section may be made on such days and at such hours of the day or night, and for such length of time, as the district inspector or the official visitor thinks fit.
-(4) On any such visit, the district inspector or the official visitor may, if the Director so permits or requires, be accompanied by a medical practitioner named by the Director.
-(5) Any district inspector, and any official visitor, may, in respect of any specific matter, obtain advice from a medical practitioner appointed for the purpose by the Director, and that medical practitioner shall, for that purpose, have all the powers of visitation and inspection conferred on district inspectors and official visitors by this Act.
+(4) On any such visit, the district inspector or the official visitor may, if the Director so permits or requires, be accompanied by a health practitioner named by the Director.
+(5) Any district inspector, and any official visitor, may, in respect of any specific matter, obtain advice from a health practitioner appointed for the purpose by the Director, and that health practitioner shall, for that purpose, have all the powers of visitation and inspection conferred on district inspectors and official visitors by this Act.
 
 ### 97 Extent of inspection
 (1) Every district inspector, and every official visitor, shall, when visiting any hospital or service for the purposes of this Act, have access to every part of the hospital or service and to every person in it, whether detained or not.
