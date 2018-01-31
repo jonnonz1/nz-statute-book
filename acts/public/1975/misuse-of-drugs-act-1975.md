@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2016-12-22_
+_Consolidation as at 2018-01-31_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -27,9 +27,9 @@ _Consolidation as at 2016-12-22_
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** means the Minister of Health
-  - **nurse practitioner** means a health practitioner—
-    (a) who is, or is deemed to be, registered with the Nursing Council as a practitioner of the profession of nursing; and
-    (b) for whom the Nursing Council has authorised a scope of practice that includes prescribing medicines
+  - **nurse practitioner** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of nurse practitioner functions; and
+    (b) holds a current practising certificate
   - **Nursing Council** means the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003
   - **optometrist** means a person—
     (a) who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board as a practitioner of optometry; and
@@ -46,6 +46,9 @@ _Consolidation as at 2016-12-22_
     (e) any fungus of the genera Conocybe, Panaeolus, or Psilocybe from which a controlled drug can be produced or which contains a controlled drug:
     (f) any other plant which is declared to be a prohibited plant by regulations made under this Act
   - **registered health professional** means a health practitioner who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession
+  - **registered nurse** means a health practitioner who—
+    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of registered nurse functions; and
+    (b) holds a current practising certificate
   - **standing order** has the same meaning as it has in section 2(1) of the Medicines Act 1981
   - **supply** includes distribute, give, and sell
   - **veterinarian** means a veterinarian or a specialist within the meaning of section 4 of the Veterinarians Act 2005
@@ -173,7 +176,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
 
 ### 6 Dealing with controlled drugs
 (1) Except as provided in section 8, or pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall—
-  (a) import into or export from New Zealand any controlled drug, other than a controlled drug specified or described in Part 6 of Schedule 3; or
+  (a) import into or export from New Zealand any controlled drug; or
   (b) produce or manufacture any controlled drug; or
   (c) supply or administer, or offer to supply or administer, any Class A controlled drug or Class B controlled drug to any other person, or otherwise deal in any such controlled drug; or
   (d) supply or administer, or offer to supply or administer, any Class C controlled drug to a person under 18 years of age; or
@@ -210,38 +213,49 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (4) Nothing in subsection (3) shall prejudice any defence which it is open to a person charged with an offence against this section to raise apart from that subsection.
 
 ### 8 Exemptions from sections 6 and 7
-(1) In subsection (2), references to a medical practitioner, dentist, veterinarian, midwife, nurse practitioner, optometrist, designated prescriber, or pharmacist mean a medical practitioner, dentist, veterinarian, midwife, nurse practitioner, optometrist, designated prescriber, or pharmacist, acting as such in the course of his or her practice or employment, and references to the supply of controlled drugs include an offer to supply controlled drugs.
-(2) Notwithstanding anything in section 6 or section 7, but subject to sections 22 to 25 and any prohibitions, limitations, restrictions, or conditions, imposed thereby or thereunder or by or pursuant to any regulations under this Act,—
-  (a) any medical practitioner, dentist or veterinarian may prescribe, produce, manufacture, supply, or administer controlled drugs:
-  (aa)
+(1) Despite sections 6 and 7,—
+  (a) any medical practitioner, dentist, or veterinarian may prescribe, produce, manufacture, supply, or administer controlled drugs:
   (b) any pharmacist or any person with the authority and under the immediate supervision of a pharmacist may produce, manufacture, or supply controlled drugs—
     (i) listed in the pharmaceutical schedule within the meaning of the New Zealand Public Health and Disability Act 2000 for the purposes of a person eligible for a subsidy for the supply of controlled drugs; or
     (ii) for the purposes of the hospital in which he or she is employed; or
     (iii) pursuant to a prescription or order issued by a medical practitioner, dentist, nurse practitioner, optometrist, midwife, designated prescriber, or veterinarian:
-  (ba)
-  (c) any person for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to himself in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
+  (c) any person for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to himself or herself in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
   (d) any person having the care of a patient for whom a controlled drug is supplied by a medical practitioner or dentist, or prescribed by a medical practitioner or dentist and lawfully supplied, may administer that drug to that patient in accordance with the advice of the medical practitioner or dentist who supplied or prescribed it:
-  (da)
   (e) any person having the care of an animal for which a controlled drug is supplied by a veterinarian, or prescribed by a veterinarian and lawfully supplied, may administer that drug to that animal in accordance with the advice of the veterinarian who supplied or prescribed it:
-  (f) any district health board established by or under the New Zealand Public Health and Disability Act 2000 or other corporate body, and any individual person being the manager or person licensed to carry on a hospital or any other institution, having the care of patients for whom controlled drugs are lawfully prescribed or supplied, may possess those drugs for the purposes of the treatment of those patients:
-  (g) any person in the service of the Crown or any Medical Officer of Health or any pharmacist approved by a Medical Officer of Health may procure and possess a controlled drug for the purposes of and in connection with his official duties:
-  (h) any carrier may possess a controlled drug in the course of carriage to such extent as is necessary or incidental to his business:
+  (f) any district health board established by or under the New Zealand Public Health and Disability Act 2000 or other corporate body, and any individual person who is the manager or person licensed to carry on a hospital or any other institution, that has the care of patients for whom controlled drugs are lawfully prescribed or supplied may possess those drugs for the purposes of the treatment of those patients:
+  (g) any person in the service of the Crown, or any Medical Officer of Health or any pharmacist approved by a Medical Officer of Health, may procure and possess a controlled drug for the purposes of and in connection with his or her official duties:
+  (h) any carrier may possess a controlled drug in the course of carriage to such extent as is necessary or incidental to the carrier’s business:
   (i) any person who is permitted by or under this Act to import, export, supply, or administer a controlled drug may procure that drug from a person lawfully entitled to supply it and may possess that drug in the manner and for the purposes expressed or implied in that authority:
   (j) any person who is licensed or otherwise permitted under this Act to cultivate a prohibited plant may possess any controlled drug derived from that plant in the manner and for the purposes expressed or implied in that authority:
   (k) any person who is permitted by or under this Act to possess a controlled drug may procure that drug from a person lawfully entitled to supply it, and may supply or use that drug in the manner and for the purposes expressed or implied in that authority:
   (l) a person may, while entering or leaving New Zealand, possess a controlled drug required for treating the medical condition of the person or any other person in his or her care or control, if the quantity of drug is no greater than that required for treating the medical condition for 1 month, and the drug was—
-    (i) lawfully supplied to the person by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist in New Zealand; or
-    (ii) prescribed by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber (as defined in section 2(1) of the Medicines Act 1981), or dentist, and lawfully supplied to the person in New Zealand; or
-    (iii) lawfully supplied to the person overseas and supplied for the purpose of treating a medical condition.
-(2A) Despite sections 6 and 7, but subject to sections 22 to 25 and any prohibitions, limitations, restrictions, or conditions imposed under those sections or any regulations made under this Act,—
-  (a) a designated prescriber, nurse practitioner, optometrist, or midwife who is authorised by regulations made under this Act to prescribe controlled drugs of any specified class or description, may prescribe, supply, or administer such drugs:
-  (b) a person who is authorised to issue a standing order may include in a standing order authority to supply and administer controlled drugs of any specified class or description, and a person who is authorised under a standing order to supply and administer any controlled drugs may supply and administer those drugs in accordance with that standing order.
-(2B) In subsection (2A),—
-  (a) references to a designated prescriber or a person authorised under a standing order to supply and administer any controlled drugs, mean a designated prescriber or person acting in the course of his or her practice or employment; and
-  (b) references to the supply of controlled drugs include an offer to supply controlled drugs.
-(3) Subject to section 22 and to any regulations under this Act and to any other enactment or rule of law prohibiting, restricting, or regulating the import, export, supply, or administration of drugs, any person may—
-  (a) import or export any controlled drug specified or described in Part 6 of Schedule 3:
-  (b) supply or administer any controlled drug specified or described in the said Part 6.
+    (i) lawfully supplied to the person by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber, or dentist in New Zealand; or
+    (ii) prescribed by a medical practitioner, nurse practitioner, optometrist, midwife, designated prescriber, or dentist, and lawfully supplied to the person in New Zealand; or
+    (iii) lawfully supplied to the person overseas and supplied for the purpose of treating a medical condition:
+  (m) a designated prescriber, nurse practitioner, optometrist, or midwife who is authorised by regulations made under this Act to prescribe controlled drugs of any specified class or description may prescribe, supply, or administer such drugs:
+  (n) a person who is authorised to issue a standing order may include in a standing order authority to supply and administer controlled drugs of any specified class or description, and a person who is authorised under a standing order to supply and administer any controlled drugs may supply and administer those drugs in accordance with that standing order.
+(2) However, subsection (1) is subject to any prohibitions, limitations, restrictions, or conditions imposed by any regulations made under this Act.
+(3) Nothing in subsection (1) or (2) overrides—
+  (a) sections 22 to 25; or
+  (b) any prohibitions, limitations, restrictions, or conditions imposed under any of those sections.
+(4) Despite section 6(1)﻿(a), any person may import, export, supply, administer, or possess any controlled drug specified or described in Part 6 of Schedule 3.
+(5) However, subsection (4) is subject to any prohibitions, limitations, restrictions, or conditions imposed by any regulations made under this Act.
+(6) Nothing in subsection (4) or (5) overrides—
+  (a) section 22; or
+  (b) any prohibitions, limitations, restrictions, or conditions imposed under that section; or
+  (c) any other enactment.
+(7) In this section,—
+  (a) a reference to a person of any of the following descriptions is a reference to that person acting in the course of his or her practice or employment:
+    (i) medical practitioner:
+    (ii) dentist:
+    (iii) veterinarian:
+    (iv) pharmacist:
+    (v) midwife:
+    (vi) nurse practitioner:
+    (vii) optometrist:
+    (viii) designated prescriber:
+    (ix) person authorised under a standing order authority; and
+  (b) a reference to the supply of controlled drugs includes an offer to supply a controlled drug.
 
 ### 9 Cultivation of prohibited plants
 (1) Except pursuant to a licence under this Act, or as otherwise permitted by regulations made under this Act, no person shall cultivate any prohibited plant.
@@ -462,41 +476,56 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (b) to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both, in any other case.
 (7)
 
-### 24 Treatment of people dependent on controlled drugs
-(1) Every medical practitioner commits an offence who prescribes, administers, or supplies a controlled drug for or to a person who the practitioner has reason to believe is dependent on that or any other controlled drug,—
-  (a) in the course or for the purpose of the treatment of the person for dependency; and
-  (b) otherwise than in accordance with subsection (2).
-(1A) Every midwife, nurse practitioner, optometrist, or designated prescriber commits an offence against this Act who prescribes, administers, or supplies a controlled drug for or to a person who the midwife or prescriber has reason to believe is dependent on that or any other controlled drug, in the course of, or for the purpose of, the treatment of the person for dependency.
-(2) In the course or for the purpose of the treatment for dependency of a person who the practitioner has reason to believe is dependent on that or any other controlled drug, a medical practitioner may prescribe, administer, or provide a controlled drug for or to the person if the medical practitioner—
-  (a) is for the time being specified under subsection (7)﻿(a); or
-  (b) is—
-    (i) working in an institution, clinic, or place for the time being specified under subsection (7)﻿(b); and
-    (ii) for the time being authorised in writing to prescribe controlled drugs by a medical practitioner working in that institution, clinic, or place who is for the time being specified under subsection (7)﻿(a); and
-  (c) is—
-    (i) acting in the medical practitioner’s capacity as a medical officer employed by a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 for the time being specified under subsection (7)﻿(b); and
-    (ii) for the time being authorised in writing by the person in charge of that institution, acting under the general or specific directions of a Medical Officer of Health, to prescribe controlled drugs; or
-  (d) is acting—
-    (i) with the permission in writing, given in relation to that particular person, of a medical practitioner for the time being authorised by paragraph (a) or paragraph (b) or paragraph (c) to do so; and
-    (ii) during the period, and in accordance with the terms and conditions (if any), specified or imposed in the permission, or in any written modification of the permission, given by that medical practitioner.
-(3) Except with the concurrence of the Medical Officer of Health, no permission under subsection (2)﻿(d) may specify a period longer than 3 months.
-(4) A permission under subsection (2)﻿(d) may from time to time be renewed by the person who gave it, or any other medical practitioner authorised by that paragraph to give such a permission.
-(5) Except with the concurrence of the Medical Officer of Health, no renewal under subsection (4) of a permission under subsection (2)﻿(d) may be for a period longer than 3 months.
-(6) An authority or permission given or renewed under subsection (2) or subsection (4)—
-  (a) may at any time be withdrawn by the person who gave or renewed it, by written notice to the person to whom it was given; and
-  (b) is deemed to have been withdrawn when, as the case may be,—
-    (i) the notice under subsection (7)﻿(a) specifying the medical practitioner by whom the authority or permission was given is revoked; or
-    (ii) the notice under subsection (7)﻿(b) specifying the institution, clinic, or place, in respect of which the authority or permission concerned was given or renewed is revoked; or
-    (iii) the medical practitioner by whom the authority or permission was given dies, or ceases to work in the premises, clinic, or place to which the authority relates.
-(7) The Minister may from time to time, by notice in the Gazette,—
-  (a) specify any medical practitioner (by name) as a medical practitioner who may, subject to any general or specific conditions imposed by the Minister on the recommendation of the Director-General of Health, prescribe, administer, or supply controlled drugs for the purposes of this section:
-  (b) specify (by name or description) as a place at which controlled drugs may be prescribed, administered, or supplied for the purposes of this section—
-    (i) any hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
-    (ii) any clinic, or other place in which a medical practitioner for the time being specified under paragraph (a) works.
-(8) The Minister may from time to time, by notice in the Gazette, revoke or amend a notice under subsection (7).
-(9) This section does not apply to—
+### 24 Offence to prescribe, administer, or supply controlled drug in certain cases
+(1) A health practitioner commits an offence if, in the course of, or for the purpose of, treating a person for drug dependency, the health practitioner—
+  (a) prescribes, administers, or supplies a controlled drug for or to the person; and
+  (b) does so although having reason to believe that the person is dependent on that or any other controlled drug.
+(2) Subsection (1) does not apply to—
   (a) the treatment of a patient, within the meaning of the Alcoholism and Drug Addiction Act 1966, while the patient is in an institution, within the meaning of that Act:
-  (b) the emergency treatment of a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001, for a period not exceeding 3 days:
-  (c) the treatment of any restricted person within the meaning of section 25.
+  (b) the emergency treatment of a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 for a period not exceeding 3 days:
+  (c) the treatment of any restricted person.
+(3) Subsection (1) is subject to section 24A.
+(4) In this section,—
+  - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
+  - **restricted person** has the same meaning as in section 25(1).
+
+### 24A Medical practitioners, nurse practitioners, designated prescriber nurses, and designated prescriber pharmacists may prescribe controlled drugs to people dependent on controlled drugs
+(1) Section 24(1) does not apply to a medical practitioner who—
+  (a) is specified under subsection (7)﻿(a) (a specified medical practitioner); or
+  (b) is—
+    (i) working in a place specified under subsection (7)﻿(b) (a specified place); and
+    (ii) authorised, in writing by a specified medical practitioner working in the specified place, to prescribe controlled drugs; or
+  (c) is—
+    (i) employed as a medical officer in a hospital care institution specified under subsection (7)﻿(b)﻿(i); and
+    (ii) authorised, in writing by the person in charge of that institution, who is acting under the general or specific directions of a Medical Officer of Health, to prescribe controlled drugs.
+(2) Section 24(1) does not apply to a nurse practitioner, designated prescriber nurse, or designated prescriber pharmacist who is—
+  (a) working in a specified place; and
+  (b) authorised, in writing by a specified medical practitioner working in the specified place, to prescribe controlled drugs.
+(3) Section 24(1) does not apply to a medical practitioner, nurse practitioner, designated prescriber nurse, or designated prescriber pharmacist who is acting in accordance with a written permission that is given—
+  (a) by a medical practitioner to whom subsection (1)﻿(a), (b), or (c) applies; and
+  (b) for a specified period not exceeding 3 months.
+(4) A permission given under subsection (3) may from time to time be renewed for a further specified period not exceeding 3 months by—
+  (a) the medical practitioner who gave it; or
+  (b) any other medical practitioner to whom subsection (1)﻿(a), (b), or (c) applies.
+(5) A period specified under subsection (3)﻿(b) or (4) may be longer than 3 months if the Medical Officer of Health agrees.
+(6) A permission given under subsection (3) or renewed under subsection (4)—
+  (a) may at any time be withdrawn by the medical practitioner who gave or renewed it, by written notice to the person to whom it was given; and
+  (b) is deemed to have been withdrawn when the medical practitioner who gave or renewed it is no longer a medical practitioner to whom subsection (1)﻿(a), (b), or (c) applies.
+(7) The Minister may from time to time, by notice in the Gazette,—
+  (a) specify by name any medical practitioner as a medical practitioner who may, subject to any general or special conditions imposed by the Minister on the recommendation of the Director-General of Health, prescribe, administer, or supply controlled drugs for the purpose of this section:
+  (b) specify by name or description as a place at which controlled drugs may be prescribed, administered, or supplied for the purposes of this section—
+    (i) any hospital care institution; or
+    (ii) any clinic, or other place in which a medical practitioner specified under paragraph (a) works.
+(8) When, for the purposes of subsection (2)﻿(b), a specified medical practitioner authorises a nurse practitioner, designated prescriber nurse, or designated prescriber pharmacist to prescribe controlled drugs, the specified medical practitioner must comply with any applicable guidelines issued by the Director-General of Health.
+(9) The Minister may, from time to time, by notice in the Gazette, revoke or amend a notice under subsection (7).
+(10) In this section,—
+  - **designated prescriber nurse** means a registered nurse who—
+    (a) is a designated prescriber; and
+    (b) is acting within his or her scope of practice
+  - **designated prescriber pharmacist** means a pharmacist who—
+    (a) is a designated prescriber; and
+    (b) is acting within his or her scope of practice
+  - **hospital care institution** has the same meaning as in section 58(4) of the Health and Disability Services (Safety) Act 2001.
 
 ### 25 Restrictions on supply to particular persons
 (1) In this section restricted person means a person who is the subject of a notice given under subsection (3) and for the time being in force.
@@ -1407,7 +1436,7 @@ In any case where any person is convicted of a drug dealing offence and the cour
 (1) The power conferred by section 39(1) shall not be exercised by any court—
   (a) in respect of any conduct in relation to which the defendant has been charged with a drug dealing offence but acquitted of that charge:
   (b) in respect of any money or assets in relation to which the power has been previously exercised by any court.
-(2) The powers conferred by sections 38 and 39(1) shall not be exercised by any District Court so as to impose a fine greater than the maximum prescribed by section 6(3) of the principal Act.
+(2) The powers conferred by sections 38 and 39(1) shall not be exercised by the District Court so as to impose a fine greater than the maximum prescribed by section 6(3) of the principal Act.
 
 ### 41 Inability of offender to explain source of money or assets may be evidence
 (1) Where, in any case to which section 38 applies, the offender fails to explain to the court’s satisfaction the source of any money or assets owned by him, the court may accept that as evidence that the money or assets was or were derived by the offender from the offence.
@@ -1422,11 +1451,11 @@ Where, in any case to which section 38 or section 39 applies, it appears to the 
 (1) If the court sentences an offender on conviction for a drug dealing offence to pay a fine to which section 38 or 39 applies, section 19 of the Crimes Act 1961 or Part 3 of the Summary Proceedings Act 1957 applies (whichever is applicable) to the enforcement of the fine, subject to any necessary modifications.
 (2) The court or the Registrar may make any orders as are appropriate under any of the provisions specified in subsection (1) in respect of any money or assets that are treated as belonging to the offender under section 42 (which are deemed to be the offender's property for the purposes of this subsection).
 (3) In subsection (2), Registrar—
-  (a) means any Registrar of the High Court or a District Court; and
+  (a) means any Registrar of the High Court or the District Court; and
   (b) includes any Deputy Registrar.
 
 ### 45 Fine imposed in District Court may be enforced in High Court
-Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
+Where the District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
 
 **Administration of Part**
 
