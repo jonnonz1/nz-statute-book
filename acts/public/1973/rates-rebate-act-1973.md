@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-02-03_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -30,6 +30,7 @@ _Consolidation as at 2017-07-14_
       (vi) any family tax credit payable under the Income Tax Act 2007:
       (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the Social Security Act 1964 or a veteran's pension under Part 6 of the Veterans' Support Act 2014 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
+  - **operator** has the same meaning as in section 5 of the Retirement Villages Act 2003
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
   - **preceding tax year** means the period of 12 months ending with 31 March preceding the commencement of the rating year in respect of which the application is made
   - **property** has the meaning given to the term rating unit by sections 5B and 5C of the Rating Valuations Act 1998
@@ -41,7 +42,12 @@ _Consolidation as at 2017-07-14_
     (d) rates for which judgment has been entered in a court
   - **rates rebate** or includes a refund of rates under section 6
   - **rating year** means a period of 12 months beginning on 1 July
-  - **residential property** means a rating unit under the Local Government (Rating) Act 2002 that is used as the usual place of residence of the ratepayer at the commencement of the rating year in respect of which an application for a rebate under this Act is made; but does not include any unit that is also used principally for commercial or industrial or business or farming purposes
+  - **resident** has the same meaning as in section 5 of the Retirement Villages Act 2003
+  - **residential property** means—
+    (a) a rating unit under the Local Government (Rating) Act 2002 that is used as the usual place of residence of the ratepayer at the commencement of the rating year in respect of which an application for a rebate under this Act is made, but does not include any unit that is also used principally for commercial or industrial or business or farming purposes; or
+    (b) a rating unit under the Local Government (Rating) Act 2002 that is used as a retirement village at the commencement of the rating year in respect of which an application for a refund under section 7A is made
+  - **residential unit** has the same meaning as in section 5 of the Retirement Villages Act 2003
+  - **retirement village** has the meaning specified in section 6 of the Retirement Villages Act 2003
   - **spouse** , in relation to any ratepayer, means the wife or husband of the ratepayer, being a wife or husband who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
 (2) For the purposes of paragraph (c) of the definition of the term income in subsection (1), any income of any person allowed by any provision of the Income Tax Act 2007 to be spread back or forward or allowed to be apportioned to a financial year earlier or later than that in which it was derived shall be included in the income of that person for the financial year in which it was derived.
@@ -101,6 +107,33 @@ _Consolidation as at 2017-07-14_
 (5) Where application for a refund is made under this section and the chief executive of the territorial authority or other officer authorised by the chief executive for the purpose is satisfied that the application has been properly completed, the chief executive or authorised officer must grant the application and pay to the ratepayer the amount of the refund to which the ratepayer is entitled.
 (6) In this section, the term owner-occupier flat means a residential flat in respect of which the applicant has a right of occupation under a lease or licence held by him by virtue of being a shareholder in a company owning the land on which the building comprising or including the owner-occupier flat is erected or by virtue of being the owner of an estate or interest in the land on which the building comprising or including the owner-occupier flat is erected.
 
+### 7A Refund to resident of retirement village of contribution towards rates
+(1) This section applies to a resident of a retirement village—
+  (a) who has a residential unit in the retirement village that is not separately rated; and
+  (b) who contributes to the outgoings of the retirement village.
+(2) A resident may apply for a refund of the amount of the rates contribution that the resident would be entitled to receive as a rebate under section 3 if—
+  (a) the residential unit were separately rated and the resident were the ratepayer; and
+  (b) the amount of the resident’s rates contribution in any rating year is the amount of the rates payable in respect of the residential unit for that rating year.
+(3) For the purpose of calculating a resident’s income in accordance with section 3 (as applied by subsection (2)), the resident’s income for the preceding tax year includes the income for that tax year of a spouse, a partner, or any other person who was ordinarily resident in the residential unit at the commencement of the rating year for which an application for a refund is made.
+(4) An application for a refund must—
+  (a) be made on a form provided for the purpose by the Secretary for Local Government; and
+  (b) be verified by the declaration of the resident; and
+  (c) be accompanied by a certificate in writing signed by the operator of the retirement village specifying—
+    (i) the total amount of the rates payable in respect of that retirement village for the rating year; and
+    (ii) the amount of the resident’s rates contribution, and if subsection (5) applies, the amount of the resident’s annual contribution and the total amount of the annual contributions made by all residents of the retirement village; and
+    (iii) that the resident’s rates contribution was made under a written agreement between the operator and the resident; and
+  (d) be left at the public office of the territorial authority in whose district the property is situated (whether the rates are payable to that territorial authority or to any other local authority) or be sent by post addressed to that office.
+(5) If no part of the resident’s annual contribution to the outgoings of the retirement village is specifically made in respect of rates, then, for the purposes of this section, the resident is deemed to have contributed in respect of rates an amount that bears to the total amount of rates payable in respect of the retirement village the same proportion as the amount of the resident’s contribution bears to the total amount of the contributions of all the residents of the retirement village.
+(6) After being satisfied that the application has been properly completed, the chief executive of the territorial authority, or an officer authorised by the chief executive for the purpose, must—
+  (a) credit any refund amount to the rates account of the retirement village and notify the operator and the resident in accordance with subsection (8); or
+  (b) if the resident requests, pay any refund amount to the resident.
+(7) On receipt of a refund amount under subsection (6)﻿(a), the operator must—
+  (a) credit the refund amount to any amount that the resident owes, or may be liable to pay, as a contribution to the outgoings of the retirement village; or
+  (b) pay the refund amount to the resident.
+(8) A notice under subsection (6)﻿(a) must state the resident’s name, the refund amount, the rating year that the refund amount applies to, and when the refund amount was credited.
+(9) Section 5(4) applies to the application with all necessary modifications.
+(10) In this section, rates contribution means, in relation to a resident of a retirement village, that part of the resident’s contribution to the outgoings of the retirement village that is made (whether specifically or by virtue of subsection (5)) towards the rates payable in respect of the retirement village.
+
 ### 8 Provisions applying where system of rating by instalments in force
 (1) Where any rates in respect of which a ratepayer has applied for a rebate pursuant to section 5 are payable by instalments pursuant to section 24 of the Local Government (Rating) Act 2002, the following provisions shall apply with respect to any rebate granted pursuant to the said section 5:
   (a) where the rebate is granted before the rates for the rating year have been set, the amount of the rebate granted in respect of each such instalment shall be—
@@ -113,16 +146,16 @@ _Consolidation as at 2017-07-14_
 (2)
 
 ### 9 Refund to territorial authorities of rebates granted
-(1) Where any ratepayer has been granted a rebate of rates pursuant to section 5 (including any payment made to the ratepayer pursuant to paragraph (d) of subsection (1) of section 8) or a refund of rates under section 6 or section 7, the Secretary for Local Government shall, on application made to him by the territorial authority on a form provided by him for the purpose, and being satisfied that the rebate or refund has been properly granted in accordance with the provisions of the said section 5 or section 6 or section 7, as the case may be, refund the amount of the rebate or refund to the territorial authority out of money appropriated by Parliament.
+(1) Where any ratepayer has been granted a rebate of rates pursuant to section 5 (including any payment made to the ratepayer pursuant to section 8(1)﻿(d)) or any person has been granted a refund of rates under section 6, 7, or 7A, the Secretary for Local Government shall, on application made to him by the territorial authority on a form provided by him for the purpose, and being satisfied that the rebate or refund has been properly granted in accordance with section 5, 6, 7, or 7A, as the case may be, refund the amount of the rebate or refund to the territorial authority out of money appropriated by Parliament.
 (2) The Secretary for Local Government may from time to time pay to any territorial authority, out of money appropriated by Parliament, such amounts as the Secretary thinks fit by way of advances in anticipation of refunds to be made to the territorial authority pursuant to subsection (1).
 
 ### 10 Recovery of overpayments
 (1) Where—the amount of the rebate or refund granted, or, as the case may be, the amount of the excess, shall be deemed to be a rate payable to the territorial authority in respect of the property, and shall be payable and recoverable accordingly.
-  (a) any ratepayer has been granted a rebate of rates pursuant to section 5 (including any payment made to the ratepayer pursuant to paragraph (d) of subsection (1) of section 8) or a refund of rates under section 6 or section 7; and
-  (b) the Secretary for Local Government has declined to refund to the territorial authority the amount of the rebate or refund granted, or any part thereof, on the ground that the ratepayer was not entitled to a rebate or refund or was granted a rebate or refund in excess of the amount to which he was entitled,—
-(2) Where, in any case to which subsection (1) does not apply,—the amount of the rebate or refund granted, or, as the case may be, the amount of the excess, may be recovered from the ratepayer as a debt due to the Crown.
-  (a) a rates rebate or refund has been granted under section 5 or section 6; and
-  (b) the ratepayer was not entitled to the rebate or refund or was granted a rebate or refund in excess of the amount to which he was entitled,—
+  (a) any ratepayer has been granted a rebate of rates pursuant to section 5 (including any payment made to the ratepayer pursuant to section 8(1)﻿(d)) or any person has been granted a refund of rates under section 6, 7, or 7A; and
+  (b) the Secretary for Local Government has declined to refund to the territorial authority the amount of the rebate or refund granted, or any part thereof, on the ground that the ratepayer or person was not entitled to a rebate or refund or was granted a rebate or refund in excess of the amount to which he was entitled,—
+(2) Where, in any case to which subsection (1) does not apply,—the amount of the rebate or refund granted, or, as the case may be, the amount of the excess, may be recovered from the ratepayer or person as a debt due to the Crown.
+  (a) a rates rebate or refund has been granted under section 5, 6, 7, or 7A; and
+  (b) the ratepayer or person was not entitled to the rebate or refund or was granted a rebate or refund in excess of the amount to which he was entitled,—
 
 ### 11 Information to be supplied and books and documents to be produced
 (1) Subject to subsection (2), it shall be the duty of every person to answer fully and correctly to the best of his knowledge and belief all questions in respect of any application for a rebate under this Act or any other matter arising under this Act put to him by any person authorised for the purpose by the Secretary for Local Government, and to produce for the inspection of any person so authorised such certificates, books, documents, or other information as he may require for the purposes of this Act.
