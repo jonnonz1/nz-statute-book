@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-02-21_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -888,7 +888,7 @@ If regulations made under sections 105(1)﻿(qaa) and 105D grant delegated presc
   (b) officers and employees of any district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000:
   (c) people providing, or employed in providing, hospital care (within the meaning of the Health and Disability Services (Safety) Act 2001):
   (d) managers of prisons within the meaning of the Corrections Act 2004:
-  (e) managers and superintendents of institutions within the meaning of the Alcoholism and Drug Addiction Act 1966:
+  (e) managers of treatment centres within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017:
   (f) authorised prescribers:
   (g) delegated prescribers:
   (ga)
