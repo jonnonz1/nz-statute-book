@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-02-21_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -35,7 +35,7 @@ _Consolidation as at 2017-09-28_
   - **health care institution** means—
     (a) premises used to provide health care services within the meaning of the Health and Disability Services (Safety) Act 2001, in compliance with that Act; or
     (b) a children’s health camp operated by Children’s Health Camps—The New Zealand Foundation for Child and Family Health and Development; or
-    (c) a certified institution within the meaning of the Alcoholism and Drug Addiction Act 1966
+    (c) a treatment centre within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017
   - **health care procedure** means any health treatment, health examination, health teaching, or health research administered to or carried out on or in respect of any person by any health care provider; and includes any provision of health services to any person by any health care provider
   - **health care provider** has the meaning given to it by section 3
   - **health consumer** includes any person on or in respect of whom any health care procedure is carried out
@@ -84,7 +84,7 @@ In this Act, unless the context otherwise requires, the term health care provide
   (d)
   (e) Children’s Health Camps—The New Zealand Foundation for Child and Family Health and Development:
   (f)
-  (g) a manager of a certified institution within the meaning of the Alcoholism and Drug Addiction Act 1966:
+  (g) a manager of a treatment centre within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017:
   (h) any health practitioner:
   (i) any person who provides ambulance services to the public:
   (j) any person employed by the School Dental Service to carry on the practice of dentistry:
