@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-02-21_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -632,11 +632,11 @@ Subject to the provisions of any other enactment, every special patient shall be
 (1) In this section, unless the context otherwise requires,—
   - **institution** means—
     (a) a prison; and
-    (b) a certified institution under the Alcoholism and Drug Addiction Act 1966; and
+    (b) a treatment centre under the Substance Addiction (Compulsory Assessment and Treatment) Act 2017; and
     (c) a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014
   - **superintendent** ,—
     (a) in relation to a prison, means the manager of that prison; and
-    (b) in relation to a certified institution under the Alcoholism and Drug Addiction Act 1966, means the chief resident officer of that institution; and
+    (b) in relation to a treatment centre under the Substance Addiction (Compulsory Assessment and Treatment) Act 2017, means the manager of that treatment centre; and
     (c) in relation to a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014, means the residence manager within the meaning of that Act.
 (2) The superintendent of an institution, or any other officer of the institution authorised by the superintendent, may make an application under section 8A in respect of a person detained in the institution if the superintendent has reasonable grounds to believe that the person may be mentally disordered.
 (3) An application under subsection (2) is dealt with under Parts 1 and 2, subject to the following provisions:
