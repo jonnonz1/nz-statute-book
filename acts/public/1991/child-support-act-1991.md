@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2017-08-31_
+_Consolidation as at 2018-02-21_
 
 > Title
 
@@ -1137,7 +1137,7 @@ In this Part, unless the context otherwise requires,—
   - **exempted person** means a person who has, under this Part, been exempted from the payment of financial support
   - **hospital patient** means a person who is, for the time being,—
     (a) a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
-    (b) a resident of an institution certified under the Alcoholism and Drug Addiction Act 1966
+    (b) a patient within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017
   - **income** —
     (a) has the same meaning as in section YA 1 of the Income Tax Act 2007; and
     (b) includes gross income (within the meaning of section OB 1 of the Income Tax Act 1994 and the Income Tax Act 2004) and assessable income (within the meaning of the Income Tax Act 1976)
@@ -3892,7 +3892,7 @@ The amendments made by sections 6 to 9 of the Taxation (Annual Rates for 2015–
 The amendments made by sections 4(1), 13, 14, and 17 to 22 of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 apply only in relation to child support in respect of the child support year commencing on 1 April 2016 or a later child support year.
 
 ### 8C Amendment of sections 25, 51, 90(1), and 180 and replacement of section 27 (election by receiving carer to end formula assessment, etc)
-The amendments made by sections 10, 11, 24, 28(1), 65, and 65 of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016—
+The amendments made by sections 10, 11, 24, 28(1), 52, and 65 of the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016—
   (a) apply only in relation to child support in respect of the child support year commencing on 1 April 2015 or a later child support year; but
   (b) do not apply in relation to a formula assessment as it applies in respect of a qualifying child if, on or before the date on which the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 receives the Royal assent, a receiving carer of the child makes an election under section 27 of this Act that the liability of every liable parent to pay child support to the receiving carer in respect of the child under the formula assessment is to end.
 
