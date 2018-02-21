@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-02-21_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -416,7 +416,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (aa)
   (b) a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001:
   (c) managers of prisons within the meaning of the Corrections Act 2004:
-  (d) managers and superintendents of institutions within the meaning of the Alcoholism and Drug Addiction Act 1966:
+  (d) managers of treatment centres within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017:
   (e) medical practitioners:
   (f) dentists:
   (fa) midwives:
@@ -481,7 +481,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
   (a) prescribes, administers, or supplies a controlled drug for or to the person; and
   (b) does so although having reason to believe that the person is dependent on that or any other controlled drug.
 (2) Subsection (1) does not apply to—
-  (a) the treatment of a patient, within the meaning of the Alcoholism and Drug Addiction Act 1966, while the patient is in an institution, within the meaning of that Act:
+  (a) the treatment of a patient, within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017, while the patient is in a treatment centre, within the meaning of that Act:
   (b) the emergency treatment of a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 for a period not exceeding 3 days:
   (c) the treatment of any restricted person.
 (3) Subsection (1) is subject to section 24A.
