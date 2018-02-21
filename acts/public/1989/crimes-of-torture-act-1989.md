@@ -1,5 +1,5 @@
 # Crimes of Torture Act 1989
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-02-21_
 
 > Title
 
@@ -112,6 +112,7 @@ In this Part, unless the context otherwise requires,—
     (b) a Police cell:
     (c) a court cell:
     (d) a hospital:
+    (da) a treatment centre as defined in section 4 of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017:
     (e) a secure facility as defined in section 9(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
     (f) a residence established under section 364 of the Oranga Tamariki Act 1989:
     (fa) a residence established under section 114 of the Public Safety (Public Protection Orders) Act 2014:
