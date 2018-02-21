@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2017-12-21_
+_Consolidation as at 2018-02-21_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2477,8 +2477,8 @@ Notwithstanding anything to the contrary in this Act,—
 (7) Nothing in this section shall be construed to entitle a single person or a couple who are married or in a civil union or in a de facto relationship to receive a greater amount of benefit, as a result of hospitalisation, than would otherwise have been payable.
 (8)
 
-### 75A Beneficiaries in institutions under Alcoholism and Drug Addiction Act 1966
-Notwithstanding anything to the contrary in this Act, where a beneficiary, or any other person in respect of whom a benefit is payable, is a resident of an institution certified under the Alcoholism and Drug Addiction Act 1966 (not being a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992) or of any institution which is fulfilling a similar purpose to an institution certified under that Act, the rate of any benefit payable in respect of the period of residence in such institution shall be determined by the chief executive after taking into account all of the beneficiary's financial circumstances and commitments.
+### 75A Beneficiaries in treatment centres under Substance Addiction (Compulsory Assessment and Treatment) Act 2017
+Despite anything to the contrary in this Act, where a beneficiary, or any other person in respect of whom a benefit is payable, is a resident in a treatment centre under the Substance Addiction (Compulsory Assessment and Treatment) Act 2017 (not being a psychiatric security institution within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992) or of any institution that is fulfilling a similar purpose to a treatment centre under that Act, the rate of any benefit payable in respect of the period of detention in that treatment centre or institution must be determined by the chief executive after taking into account all of the beneficiary's financial circumstances and commitments.
 
 ### 75B Effect on benefit of warrant to arrest beneficiary
 (1) This section applies to a beneficiary who is not an excluded beneficiary (as defined in subsection (2)) if the chief executive is satisfied (based on information available to the chief executive) that—
