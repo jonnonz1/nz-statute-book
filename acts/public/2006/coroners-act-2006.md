@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-02-21_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -101,7 +101,7 @@ In this Act, unless the context otherwise requires,—
   - **craft** includes any aircraft, ship, boat, or other machine or vessel, used or capable of being used for the carriage or transportation of persons or goods, or both, by air or water or over or under water
   - **death** , in relation to reporting to a Police employee or a coroner, includes the finding of a body
   - **death in official custody or care** means the death of any of the following:
-    (a) a patient who is required to be detained in an institution pursuant to an order under section 9 of the Alcoholism and Drug Addiction Act 1966 (whether or not the death occurred in the institution):
+    (a) a patient within the meaning of the Substance Addiction (Compulsory Assessment and Treatment) Act 2017 (whether or not the death occurred in a treatment centre):
     (b) a child or young person who has been placed in a residence within the meaning of section 2(1) or 364 of the Oranga Tamariki Act 1989 (whether or not the death occurred in the residence):
     (c) a child or young person who—
       (i) is in the custody or care of an iwi social service, a cultural social service, a residential disability care operator, or the director of a child and family support service pursuant to section 43, 78, 101, 102, 110, 139, 140, 141, 142, 234, 238, or 345 of the Oranga Tamariki Act 1989; or
