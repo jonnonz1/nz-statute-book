@@ -1,5 +1,5 @@
 # Alcoholism and Drug Addiction Act 1966
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-02-21_
 
 > An Act to consolidate and amend the Reformatory Institutions Act 1909 and its amendments, and to make better provision for the care and treatment of alcoholics and drug addicts
 
