@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-02-21_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
