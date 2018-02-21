@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-02-21_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -484,7 +484,7 @@ Amendment(s) incorporated in the Act(s).
 
 ### 49 Alcoholism and Drug Addiction Act 1966 amended
 (1) Amendment(s) incorporated in the Act(s).
-(2) Section 37A(6) of the Alcoholism and Drug Addiction Act 1966 (as inserted by subsection (1)) shall come into force on the date appointed for the commencement of the Armed Forces Discipline Act 1971.
+(2)
 
 ### 50 Children and Young Persons Act 1974 amended
 [Repealed]
