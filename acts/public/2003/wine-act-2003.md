@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2016-07-01_
+_Consolidation as at 2018-03-02_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -22,6 +22,7 @@ The objects of this Act are to—
 
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **automated electronic system** means a system that is the subject of an arrangement under section 118A
   - **commodity** means any plant material or honey used for the making of wine
   - **Director-General** means the chief executive of the Ministry
   - **export eligibility requirements** means those requirements imposed on exports of any class, kind, or description of wine by regulations made under section 38
@@ -30,7 +31,7 @@ The objects of this Act are to—
     (a) it is food, wine vinegar, or commodity-based spirits; and
     (b) it is made by a winemaker; and
     (c) it is made at the place or area covered by the winemaker’s wine standards management plan or subject to an exemption under section 6 or 11 from the requirement to have such a plan; and
-    (d) it is produced from wine or partially fermented commodities; and
+    (d) it is produced from wine; and
     (e) it has been processed in such a way that it is not wine or a wine product
   - **financial year** means a period of 12 months beginning on 1 July in any year and ending on 30 June in the following year
   - **fit for intended purpose** , used in relation to wine, is described in subsection (2)
@@ -43,11 +44,13 @@ The objects of this Act are to—
     (b) leads or could lead to an adverse or injurious health effect on humans from consumption of wine
   - **in writing** means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax or email or other electronic means
   - **industry organisation** means, as appropriate, all or any of—
-    (a) the Wine Institute of New Zealand Inc:
+    (a) New Zealand Winegrowers Incorporated:
     (b) the New Zealand Fruit Wine and Cider Makers Association:
-    (c) the New Zealand Grape Growers Council Inc:
+    (c)
     (d) any other body specified as an industry organisation for the purposes of this definition by the Minister by notice in the Gazette:
     (e) the successors in title of any of those bodies
+  - **infringement fee** , in relation to an infringement offence, means the amount set out in regulations made under section 96E to be payable for the offence
+  - **infringement offence** means an offence identified in regulations made under section 96E as an infringement offence
   - **label** , subject to subsection (3), means any tag, brand, mark, or statement in writing or any representation or design or descriptive matter on or attached to or used in connection with or accompanying any wine
   - **making** , or , in relation to wine, means any or every process or action from receipt of the commodity through to dispatch of the wine, including—
     (a) the crushing or pressing of the commodity for juice:
@@ -71,9 +74,9 @@ The objects of this Act are to—
     (b) it results from the processing of commodities without their undergoing fermentation; and
     (c) it is made by a winemaker; and
     (d) it is made at the place or area covered by the winemaker’s wine standards management plan or subject to an exemption under section 6 or 11 from the requirement to have such a plan
-  - **permissible functions and activities** means verification functions and activities and other specialist functions and activities that may be carried out by a recognised agency, recognised person, or recognised class of persons for the purposes of this Act, and includes—
-    (a) verification functions and activities in relation to wine standards management plans:
-    (b) other verification functions and activities in relation to export requirements:
+  - **permissible functions and activities** means specialist functions and activities that may be carried out by a recognised agency, recognised person, or recognised class of persons for the purposes of this Act, and includes—
+    (a) verification functions and activities:
+    (b)
     (c) the provision of independent evaluations of the validity of wine standards management plans for the purposes of section 18(1)﻿(b):
     (d) functions and activities in relation to export eligibility requirements
   - **place** includes any building, conveyance, moveable facility, or structure; and includes any land where wine or commodities are produced
@@ -82,15 +85,15 @@ The objects of this Act are to—
     (a) a person who is recognised by the Director-General under section 71 or 72; and
     (b) a group of persons who are recognised by the Director-General under section 72
   - **recognised class** means a class of natural persons that is recognised by the Director-General under section 75
-  - **recognised management plan verifier** means a recognised person whose specified functions and activities include carrying out verification functions and activities in relation to wine standards management plans
   - **recognised person** means a natural person who—
     (a) is recognised by the Director-General under section 73 or 74; or
     (b) is a member of a recognised class, but only—
       (i) to the extent that the person carries out the specified functions and activities for which the class is recognised; and
       (ii) while the person continues to hold the qualifications or meet the other membership criteria according to which the class is defined in the public register in accordance with section 82(1)﻿(a)
-  - **recognised verifying agency** means a recognised agency whose specified functions and activities include managing and carrying out verification functions and activities in relation to wine standards management plans
   - **registered exporter** means an exporter currently registered under section 49
   - **registered wine standards management plan** means a wine standards management plan that is currently registered under section 19
+  - **regulated person** has the meaning given in section 54A
+  - **regulations** means regulations made under this Act
   - **risk factors** means—
     (a) risks from false or misleading labelling:
     (b) risks from hazards to human health
@@ -99,6 +102,7 @@ The objects of this Act are to—
     (a) a recognised agency is responsible for managing and carrying out; or
     (b) a recognised person may carry out; or
     (c) persons who are members of a recognised class may carry out
+  - **supplementary notice** means a notice issued under section 120(2)
   - **trade** means sell for consumption or use; and includes—
     (a) selling for resale (including as a constituent part of another product) for consumption or use:
     (b) offering or attempting to sell, or receiving for sale, or having in possession or exposing for sale, or sending or delivering for sale, or causing or permitting to be sold, offered, or exposed for sale:
@@ -106,33 +110,41 @@ The objects of this Act are to—
     (d) supplying a product under a contract, together with other goods or services or both, in consideration of an inclusive charge for the product and the other goods or services:
     (e) offering as a public prize or reward, or giving away for the purpose of advertisement or in the furtherance of any trade or business:
     (f) every other method of disposition for valuable consideration
-  - **verification** includes the periodic checks carried out by recognised management plan verifiers to determine—
-    (a) the appropriateness of a wine standards management plan:
-    (b) whether operations that are subject to a wine standards management plan are in compliance with the requirements of the plan and of this Act:
-    (c) whether wine for whose export an official assurance is required has been produced or made in a way that meets the requirements for the official assurance
-  - **wine** means any grape wine, fruit wine, vegetable wine, or mead; and—
+  - **verification** includes the application of methods, procedures, tests, and other checks to confirm—
+    (a) in relation to a wine standards management plan,—
+      (i) whether operations that are subject to the plan are being carried out in compliance with it; and
+      (ii) the applicability of the plan to the operations of the relevant wine business; and
+      (iii) the effectiveness of the plan:
+    (b) in relation to wine for whose export an official assurance is required, whether the wine has been produced or made in a way that meets the requirements for the official assurance:
+    (c) whether a regulated person has complied with a requirement imposed by or under this Act
+  - **verifier** means a recognised person whose specified functions and activities include carrying out verification functions and activities
+  - **verifying agency** means a recognised agency whose specified functions and activities include managing and carrying out verification functions and activities means any grape wine, fruit wine, vegetable wine, or mead; and—
     (a) includes—
       (i) cider and perry:
       (ii) fortified wines such as sherry, port, and fruit or vegetable-based liqueurs; and
-    (b) to the extent specified in section 10(3) or section 12(4) or section 32 includes wine products; but
+    (b) to the extent specified in sections 12 and 15A, includes wine products, extension products, and partial process products; but
     (c) does not include beer or spirits
   - **wine business** means a business undertaking that, for reward or for the purposes of trade,—
     (a) makes wine; or
     (b) exports wine
   - **wine officer** , or , means a person appointed as a wine officer under section 55; and includes the Director-General
   - **wine product** , subject to subsection (3), means a food (as defined in the Food Act 2014) containing no less than 700 ml/L of wine which has been formulated, processed, modified, or mixed with other foods such that it is not wine
-  - **wine standard** , or , means a standard prescribed under subpart 2 of Part 2 that specifies criteria that must be met to determine fitness for its intended purpose of any class or description of wine
+  - **wine standard** means a standard prescribed by regulations made under section 33
   - **wine standards management plan** has the meaning given by section 8, and, except in subpart 1 of Part 2, is to be taken to refer to a registered wine standards management plan
   - **winemaker** means a person who, for reward (otherwise than as an employee) or for purposes of trade, makes wine.
-(2) In this Act, fit for intended purpose, used in relation to wine, means wine that has been made in accordance with the requirements of this Act and that meets any relevant wine standards and associated specifications set under subpart 2 of Part 2 and any relevant New Zealand food standards.
+(2) In this Act, fit for intended purpose, used in relation to wine, means wine that has been made in accordance with the requirements of this Act and that meets any relevant wine standards and supplementary notices and any relevant New Zealand food standards.
 (3) The Governor-General may, by Order in Council, amend or substitute the definitions of fruit wine or vegetable wine, grape wine, label, mead, and wine product to ensure consistency with New Zealand food standards.
 (4) Nothing in the definitions of fruit wine or vegetable wine, grape wine, mead, or wine product prevents the addition of any foods, food additives, or processing aids to such products if that addition to the particular product is permitted under the Food Act 2014.
+
+### 4A Transitional, savings, and related provisions relating to amending Acts
+(1) The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+(2) Sections 129 to 132 contain transitional, savings, and related provisions relating to the enactment of this Act.
 
 **Application of Act generally**
 
 ### 5 Scope of Act
 (1) This Act applies to the making of all wine for reward or for the purposes of trade or export.
-(2) This Act may also apply or be made to apply to wine products and producers of commodities from which wine is made, to the extent specified in sections 10 and 12.
+(2) This Act may also apply or be made to apply to wine products, extension products, partial process products, and producers of commodities from which wine is made, to the extent specified in sections 12, 15A, and 32.
 (3) Classes, descriptions, and kinds of wine, commodities, winemakers, exporters, and operations may be excluded from the application of this Act to the extent exempted from all or any of its provisions by Order in Council under section 6.
 
 ### 6 Exemptions from application of Act
@@ -150,7 +162,7 @@ The objects of this Act are to—
   (d) the need to protect the health of consumers of wine:
   (e) the relative cost of having the exemption or not having it, who bears the cost, and the positive and negative impacts on New Zealand consumers:
   (f) such other matters as the Minister considers relevant.
-(4) The Minister may not recommend the making of an order under this section unless satisfied that appropriate consultation has been carried out in accordance with section 115.
+(4)
 (5) An exemption under this section may have retrospective effect.
 
 ## Part 2 — Winemaking and export of wine
@@ -160,18 +172,18 @@ This Part provides for—
   (a) wine standards management plans, under which winemakers must operate, as a main means of—
     (i) ensuring that wine complies with appropriate standards and is safe for consumption; and
     (ii) facilitating exports of wine; and
-  (b) the setting of wine standards and specifications that must be met by any wine intended for trade or export; and
+  (b) the setting of wine standards that must be met by any wine intended for trade or export; and
   (c) requirements in relation to the export of wine, and the giving of official assurances where appropriate to meet overseas market access requirements.
 
 ### Subpart 1 — Wine standards management plans
 
-### 8 What is a wine standards management plan?
+### 8 What is a wine standards management plan
 (1) A wine standards management plan is a plan designed to identify, control, manage, and eliminate or minimise hazards and other risk factors in relation to the making of wine in order to ensure that the wine is fit for its intended purpose.
 (2) A wine standards management plan may be individually created by the person or wine business to whom or which it is to apply, or it may be created by some other party but adopted and amended to suit the operations of the person or business concerned. It may also be based on a template, a model, or a code of practice, if in the view of the Director-General the template, model, or code of practice is valid and appropriate for the business concerned.
 (3) A wine standards management plan can relate to any or all matters relating to the making of wine for trade or export.
-(4) A wine standards management plan may also apply to 1 or more wine businesses in cases where the Director-General has given approval under section 15.
+(4) A wine standards management plan may also apply to 1 or more wine businesses or parts of businesses in cases where the Director-General has given approval under section 15.
 
-### 9 Who must have a wine standards management plan?
+### 9 Who must have a wine standards management plan
 The following persons must operate under a registered wine standards management plan for their wine-related operations, unless exempted under section 6 or section 11:
   (a) all winemakers:
   (b) such other persons as may be specified by Order in Council under section 12 as requiring to operate under a wine standards management plan.
@@ -180,7 +192,7 @@ The following persons must operate under a registered wine standards management 
 [Repealed]
 
 ### 11 Limited exemption from requirement to have wine standards management plan
-(1) The Director-General may, by notice under section 120, exempt in whole or in part any winemaker or person required under section 12 to have a wine standards management plan from the requirement to operate under a wine standards management plan—
+(1) The Director-General may, by notice under section 120(1), exempt in whole or in part any winemaker or person required under section 12 to have a wine standards management plan from the requirement to operate under a wine standards management plan—
   (a) for the period specified in the notice; and
   (b) on such conditions (if any) as may be specified in the notice.
 (2) The Director-General may not grant an exemption under subsection (1) unless satisfied that, having regard if appropriate to the period of the exemption or the conditions imposed,—
@@ -193,19 +205,18 @@ The following persons must operate under a registered wine standards management 
   (a) exporters of wine:
   (b) transporters of commodities or wine:
   (c) producers of commodities:
-  (d) persons manufacturing wine products.
+  (d) persons manufacturing wine products, extension products, or partial process products.
 (2) The persons to whom and operations to which the order applies may be defined by reference to—
-  (a) the class, kind, or description of commodity or wine or wine product produced:
-  (b) the intended purpose or destination of the commodity or wine or wine product in question:
-  (c) the type of operations or processes carried out in relation to the commodity or wine or wine product:
-  (d) the type of premises or place in which operations or processes are carried out in relation to the commodity or wine or wine product in question:
+  (a) the class, kind, or description of commodity, wine, wine product, extension product, or partial process product:
+  (b) the intended purpose or destination of the commodity, wine, wine product, extension product, or partial process product:
+  (c) the type of operations or processes carried out in relation to the commodity, wine, wine product, extension product, or partial process product:
+  (d) the type of premises or place in which operations or processes are carried out in relation to the commodity, wine, wine product, extension product, or partial process product:
   (e) any combination of the above.
-(3) The Minister may not recommend the making of an order under this section unless—
-  (a) the Minister is satisfied that the order is necessary or desirable—
-    (i) in the interests of producing wine or wine product that is fit for its intended purpose; or
-    (ii) for the purpose of facilitating access to overseas markets; and
-  (b) there has been appropriate consultation on the subject matter of the order in accordance with section 115, except where the Minister considers the making of the order a matter of urgency in the public interest.
-(4) Where an order under this section requires a wine standards management plan in respect of any specified operations, it may also, to ensure the appropriate application of any relevant provisions of this Act to the commodity or wine product or other matter concerned, specify that those provisions are to apply as if the commodity, wine product, or matter were wine, or otherwise make appropriate provision to ensure the application of this Act to the operations for which a registered wine standards management plan is required; and those provisions then apply accordingly.
+(3) The Minister may not recommend the making of an order under this section unless the Minister is satisfied that the order is necessary or desirable—
+  (a) in the interests of producing wine, wine products, extension products, or partial process products that are fit for intended purpose; or
+  (b) for the purpose of facilitating access to overseas markets.
+(4) If an order under this section requires a wine standards management plan in respect of operations relating to wine, this Act (including the regulations and any notices under section 120) applies in relation to the wine unless the order provides otherwise.
+(5) If an order under this section requires a wine standards management plan in respect of operations relating to commodities, wine products, extension products, or partial process products, this Act (including the regulations and any notices under section 120) applies to the commodities, wine products, extension products, or partial process products as if they were wine unless the order provides otherwise.
 
 ### 13 Duties of operators of wine standards management plans
 An operator of a wine standards management plan has the following duties:
@@ -214,7 +225,7 @@ An operator of a wine standards management plan has the following duties:
   (c) to adequately implement and resource all operations under the plan, including provision for the instruction, competency, and supervision of staff to ensure the making of wine that is fit for its intended purpose:
   (d) to ensure that all operations under the plan are commensurate with the capability and the capacity of the premises or place, facilities, equipment, and staff to make wine that is fit for its intended purpose and, if applicable, complies with any export requirements under subpart 3 of Part 2:
   (e) to give relevant recognised agencies and recognised persons such freedom and access as will allow them to carry out their functions and activities under the Act, including verification functions and activities:
-  (f) to notify the Director-General, in advance where practicable, and otherwise as soon as possible, of any change in the operator's recognised verifying agency.
+  (f) to notify the Director-General, in advance where practicable, and otherwise as soon as possible, of any change in the operator's verifying agency.
 
 ### 14 Contents of and requirements for wine standards management plans
 (1) A wine standards management plan must—
@@ -229,14 +240,19 @@ An operator of a wine standards management plan has the following duties:
 (2) A wine standards management plan must—
   (a) set out the procedures the operator will use for identifying, controlling, managing, eliminating, or minimising risk factors:
   (b) describe the steps the operator will take to confirm that the plan is working effectively:
+  (ba) make provision in relation to tracing and recalling wine as required by regulations made under section 54C or any supplementary notice:
   (c) provide for appropriate corrective actions (including recall) to be undertaken where the wine may not be fit for its intended purpose:
-  (d) set out appropriate and auditable documentation and record keeping:
+  (d) provide for appropriate and auditable documentation, record keeping, and reporting, including as required by—
+    (i) regulations made under section 54H(1) or any supplementary notice; or
+    (ii) any notice referred to in section 54H(2):
+  (da) make provision in relation to verification as required by regulations made under section 54F or any supplementary notice:
   (e) as appropriate to the operations under the plan, contain the matters specified in, and otherwise comply with—
-    (i) any relevant standard or other requirement prescribed by regulations made under this Act, and any relevant New Zealand food standard:
-    (ii) any relevant specifications set by the Director-General under this Act (including location of reference material and documents recording specific procedures):
+    (i) any relevant wine standards, other regulations, supplementary notices, and New Zealand food standards; and
+    (ii) any relevant notices issued by the Director-General under section 120 (including location of reference material and documents recording specific procedures):
   (f) cover all winemaking components and processes, and all premises and equipment:
   (g) document all processes involved in the making of wine.
 (2A) However, in relation to wine made for export, a wine standards management plan need not comply with a New Zealand food standard to the extent that the standard's labelling requirements conflict with the labelling requirements of the country that imports the wine.
+(2B) A wine standards management plan must comply with any regulations or supplementary notice requiring it to be differentiated from other information kept by the operator and prescribing how this must be done.
 (3) In relation to hazards, a plan must demonstrate that the following matters have also been taken into account in its development:
   (a) systematic identification of any hazards, and determination of the significance of those hazards, involved in the production of commodities and the making of wine:
   (b) determination of the points at which the hazards of significance identified in paragraph (a) occur, and the processes or procedures to best control them:
@@ -245,14 +261,14 @@ An operator of a wine standards management plan has the following duties:
   (e) identification of the action that will be taken if any parameters established for the plan are not achieved:
   (f) establishment of procedures for the ongoing confirmation that the plan is effective in managing the hazards:
   (g) appropriate and auditable documentation and record keeping.
-(4) A proposed plan must also make appropriate provision for verification activities and the rights of recognised management plan verifiers, as specified by the Director-General.
+(4)
 
 ### 15 Multi-business wine standards management plans
 (1) A registered wine standards management plan may apply to more than 1 business, if the Director-General approves.
 (2) The Director-General may approve one person's wine standards management plan applying to all or part of the business or businesses of 1 or more other persons if satisfied that—
-  (a) the plan is appropriate to the other businesses or part-businesses, as well as to the business of the person whose plan it is; and
-  (b) the registered operator of the plan will have sufficient control, authority, and accountability for all matters covered by the plan in relation to the other businesses or part-businesses subject to its coverage; and
-  (c) the applicant for the approval has obtained the consent or otherwise taken into account the views of any person whose business or part-business is to be covered by the plan.
+  (a) the plan is appropriate to the other businesses or parts of businesses, as well as to the business of the person whose plan it is; and
+  (b) the registered operator of the plan will have sufficient control, authority, and accountability for all matters covered by the plan in relation to the other businesses or parts of businesses subject to its coverage; and
+  (c) the applicant for the approval has obtained the consent or otherwise taken into account the views of any person whose business or part of whose business is to be covered by the plan.
 (3) The approval may be given subject to conditions.
 (4) Application for approval under this section must be made by the operator of the wine standards management plan, either at the time of application for its registration under section 18, or as an application for amendment under section 22(3).
 
@@ -262,30 +278,28 @@ An operator of a wine standards management plan has the following duties:
 (1) This section applies to winemakers who make extension products, partial process products, or wine products.
 (2) The winemakers may choose to apply subsection (3) or (4).
 (3) Winemakers who choose to apply this subsection must include all their operations in their registered food control plans or register all their operations under a national programme. The Food Act 2014, and its provisions on verification, apply to their products.
-(4) Winemakers who choose to apply this subsection must include all their operations in their registered wine standards management plans. This Act, and its provisions on verification, apply to their products as if they were wine.
+(4) Winemakers who choose to apply this subsection must include all their operations in their registered wine standards management plans. This Act (including the regulations and any notices under section 120) applies to their extension products, partial process products, or wine products as if they were wine.
 (5) Winemakers who also make food, or sell it at retail, must, subject to section 27 of the Food Act 2014, do both the following:
   (a) comply with the Food Act regime for their food operations; and
   (b) comply with their wine standards management plans for all their winemaking operations.
 
 ### 15B Application for intermittent use of food control plan as wine standards management plan
 (1) An operator of a food control plan may apply to the Director-General to register a food control plan (food plan) as a wine standards management plan (wine plan) for use intermittently.
-(2) The application—
-  (a) must be made in a manner approved by the Director-General; and
-  (b) must be accompanied by the prescribed fee (if any); and
-  (c) is subject to sections 18 to 20 as if it were made under section 18.
+(2) Sections 18 to 20 apply to the application as if it were an application under section 18.
 (3) The Director-General must impose conditions on registration specifying—
   (a) the times during which the food plan’s operator may use the plan; and
   (b) the manner in which the food plan’s operator may use the plan; and
   (c) the notice that the food plan’s operator must give of the food plan’s being in use.
 (4) The Director-General must also impose a condition on registration specifying whether and to what extent the food plan is subject to the verification requirements of this Act or the Food Act 2014. In setting the condition, the Director-General must take into account—
   (a) the desirability of continuity in verification services, functions, or requirements; and
-  (b) export eligibility requirements.
+  (b) export eligibility requirements and any supplementary notices; and
+  (c) any requirements set out in the regulations or any supplementary notices for determining whether all or any classes of registered food control plans are to be subject to the verification regime of this Act or the Food Act 2014.
 (5) The Director-General must—
   (a) advise the applicant of the conditions that the Director-General has imposed under subsections (3) and (4) and section 19(2); and
   (b) give the applicant the opportunity to withdraw the application.
 (6) The Director-General must as soon as practicable after registration notify the following persons of the fact and conditions of registration:
   (a) the applicant; and
-  (b) the applicant’s verifier or verification agency (if applicable); and
+  (b) the applicant’s verifier or verifying agency (if applicable); and
   (c) the applicant’s verifier or verification agency under the Food Act 2014; and
   (d) either—
     (i) the chief executive of the agency for the time being responsible for the administration of the Food Act 2014; or
@@ -293,12 +307,21 @@ An operator of a wine standards management plan has the following duties:
 
 ### 15C Intermittent use of food control plan as wine standards management plan
 (1) This section applies when a food control plan (food plan) is registered as a wine standards management plan (wine plan) under section 15B.
-(2) While an operator is using the registered food plan, the operator is treated as a person who—
+(2) While an operator is using the registered food plan, unless the regulations or any supplementary notice provide otherwise, the operator is treated as a person who—
   (a) is required to have a wine plan for the operations for which the operator is using the registered food plan; and
   (b) is not required to comply with the Food Act regime for the operations for which the operator is using the registered food plan.
-(3) While an operator is not using the registered food plan,—
+(3) While an operator is not using the registered food plan, unless the regulations or any supplementary notice provide otherwise,—
   (a) the operator is treated as a person who is required to comply with the Food Act regime; and
   (b) this Act does not apply to the operator.
+
+### 15D Regulations may grant or provide for exemptions from this Act or Food Act 2014
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations exempting, or providing for the exemption of, persons from specified requirements imposed by or under this Act or the Food Act 2014.
+(2) The Minister may not recommend the making under subsection (1) of regulations that grant an exemption unless satisfied that—
+  (a) granting the exemption is necessary or desirable in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under this Act and the Food Act 2014; and
+  (b) the extent of the exemption is not broader than is reasonably necessary for that purpose.
+(3) The Minister may not recommend the making under subsection (1) of regulations that provide for exemptions to be granted unless satisfied that the regulations permit an exemption to be granted only if—
+  (a) granting the exemption is necessary or desirable in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under this Act and the Food Act 2014; and
+  (b) the extent of the exemption is not broader than is reasonably necessary for that purpose.
 
 **Registration of wine standards management plans**
 
@@ -321,11 +344,12 @@ A person who is required to operate under a wine standards management plan must 
   (d) the types of wine (whether grape wine, fruit wine or vegetable wine, or other type of wine or wine product) to which the plan applies:
   (e) the principal categories of winemaking and other operations carried out under the plan:
   (f) the location and type of premises or place to which the plan applies:
-  (g) the name of the recognised verifying agency responsible for the verification function under the plan:
+  (g) the name of the verifying agency responsible for verification of the plan:
   (h) the date (and period, if appropriate) of any suspension of operations under the plan or any deregistration or surrender of registration of the plan:
   (i) a brief indication of the reason for any such suspension or deregistration:
-  (j) the date of the most recent amendment to the plan:
-  (k) such other particulars as may be prescribed by or under this Act.
+  (j) the date on which the most recent significant amendment to the wine standards management plan has been registered under section 22:
+  (k) the date of any notifications of minor amendments to the wine standards management plan under section 23:
+  (l) any other particulars required by the regulations or any supplementary notice.
 (4) The Director-General must—
   (a) keep the register open for public inspection, free of charge, at all reasonable hours at the head office of the Ministry and at such other places as the Director-General determines as necessary or appropriate; and
   (b) supply to any person copies of all or part of the register on request and on payment of a reasonable charge for the production of the copy.
@@ -340,13 +364,14 @@ A person who is required to operate under a wine standards management plan must 
     (i) a copy of the wine standards management plan (or such greater number of copies as may be required by the Director-General); or
     (ii) an outline of the contents of the wine standards management plan that complies with the requirements of the Director-General for those outlines; and
   (b) a copy of a report of an independent evaluation, carried out not more than 6 months before the date of the application for registration, of the validity of the wine standards management plan, in terms of sections 8 and 14; and
-  (c) the name of the recognised verifying agency that has indicated it is prepared to undertake verification functions in respect of the plan; and
-  (d) such further information and other material (including declarations, where appropriate) as may be required by regulations made under this Act; and
+  (c) the name of the verifying agency that has indicated it is prepared to undertake verification of the plan; and
+  (d) such further information and other material (including declarations, where appropriate) as may be required by the regulations or any supplementary notice; and
   (e) the prescribed fee (if any).
 (1A) Despite the requirement in subsection (1)﻿(b), the Director-General may waive or modify the requirement for an independent evaluation report where—
   (a) a wine standards management plan is fully based on a template, model, or code of practice that the Director-General considers to be valid and appropriate for the business concerned in accordance with section 8(2); or
   (b) a wine standards management plan is a multi-business wine standards management plan approved by the Director-General in accordance with section 15; or
   (c) the risks to human health are negligible and the Director-General is satisfied that the nature of the business does not require an independent evaluation report to ensure validity in terms of sections 8 and 14.
+(1B) The information or material accompanying the application must be provided in a way that complies with any requirements prescribed by the regulations or any supplementary notice.
 (2) The Director-General may require an applicant to supply further information or other material before determining whether or not to register a wine standards management plan.
 (3) If the information or material is not supplied within 6 months of the date of the request, or within such further time as the Director-General allows, the application for registration lapses.
 
@@ -355,6 +380,7 @@ A person who is required to operate under a wine standards management plan must 
   (a) the content of the wine standards management plan—
     (i) complies with the requirements imposed by or under this Act; and
     (ii) ensures that, as far as practicable, the wine to be produced under the plan will be fit for its intended purpose; and
+    (iii) is clear enough to be readily understood by the operator, the Director-General, and the operator’s verifier; and
   (b) the applicant is a fit and proper person to operate a wine business, taking into account whether the applicant or any directors or managers of the business concerned have been convicted, whether in New Zealand or overseas, of any offence relating to fraud or dishonesty, or relating to management control or business activities in respect of any wine business (whether in New Zealand or elsewhere); and
   (c) the business, or its operator, is resident in New Zealand within the meaning of section OE 1 or section OE 2 of the Income Tax Act 1994.
 (2) Registration may be subject to such reasonable conditions as the Director-General may specify, including conditions relating to the commencement of operations under the plan.
@@ -375,47 +401,60 @@ A person who is required to operate under a wine standards management plan must 
 (1) The registration of a wine standards management plan applies only to the particular operator and premises or place specified in the register, and may not be transferred to a different operator or premises or place.
 (2) Nothing in this section prevents—
   (a) the registration in the name of a new operator, or in relation to new premises or a new place, of a wine standards management plan in substantially identical terms to those that applied to a former operator or premises or place; or
-  (b) the extension of a plan to the business or part-business of another person in accordance with an approval given under section 15.
-(3) For the purposes of this section, the following circumstances will, except as otherwise specified by the Director-General by notice under section 120, be treated as involving a change in the operator of a wine standards management plan, and so require registration of a new plan rather than amendment of an existing registered plan:
+  (b) the extension of a plan to the business or part of the business of another person in accordance with an approval given under section 15.
+(3) For the purposes of this section, the following circumstances will, except as otherwise specified by the Director-General by notice under section 120(1), be treated as involving a change in the operator of a wine standards management plan, and so require registration of a new plan rather than amendment of an existing registered plan:
   (a) a change in the members of a partnership (but not in members' respective shares in the partnership):
   (b) the death, bankruptcy, receivership, or liquidation of the operator of the plan.
 
-### 22 Significant amendment of wine standards management plan
+### 22 Registration of significant amendment of wine standards management plan
 (1) The operator of a registered wine standards management plan must amend that plan, and apply for registration of the amendment, where any change, event, or other matter means that the plan—
   (a) is no longer appropriate, or will no longer be appropriate, to the wine, processes, or premises or place covered by the plan; or
   (b) otherwise impacts, or will impact, on the fitness for its intended purpose of the wine concerned or the content of the wine standards management plan.
 (2) The operator must amend the plan, and apply for registration of the amendment, before the event where the operator knows of the change, event, or other matter in advance, and in all other cases must do so without unreasonable delay.
-(3) The operator of a wine standards management plan may at any time apply to the Director-General, in a manner approved by the Director-General and on payment of the prescribed fee (if any), for registration of an amendment to the plan.
+(3) The operator of a wine standards management plan may at any time apply to the Director-General for registration of an amendment to the plan.
+(3A) An application under this section must be made in writing in a form or manner approved by the Director-General and be accompanied by—
+  (a) any information and other material required by the regulations or any supplementary notice; and
+  (b) the prescribed fee (if any).
+(3B) The information or material accompanying the application must be provided in a way that complies with any requirements prescribed by the regulations or any supplementary notice.
+(3C) Sections 18(2) and (3), 19, and 20 apply to an application under this section, with any necessary modifications, as if it were an application for registration under section 18.
 (4) As soon as practicable after determining to register an amendment, the Director-General must—
   (a) notify the applicant in writing accordingly; and
   (b) where the amendment relates to future events or matters, specify the date or occasion on which the amendment takes effect or will apply; and
-  (c) supply to both the applicant and the appropriate recognised verifying agency a certified copy of the amendment (or, where appropriate, of a redraft of the relevant part of the plan that incorporates the amendment); and
+  (c) give the applicant’s verifying agency a copy of the amendment (or, where appropriate, of a redraft of the relevant part of the plan that incorporates the amendment); and
   (d) make an appropriate entry on the register of wine standards management plans.
 (5) If the Director-General proposes to refuse to register an amendment, the Director-General must give the applicant—
   (a) a notice containing such particulars as will clearly inform the applicant of the grounds on which the Director-General proposes to refuse to register the amendment; and
   (b) a reasonable opportunity to make written submissions or be heard in respect of the matter.
 (6) Where the Director-General finally determines to refuse to register an amendment, the Director-General must as soon as practicable notify that fact to the applicant in writing, giving reasons.
 (7) If a person acting under the delegated authority of the Director-General refuses to register an amendment, the applicant may seek a review of that decision under section 114.
-(8) The Director-General may, by notice under section 120, specify matters in relation to amendments to wine standards management plans, including—
-  (a) specifying the kinds of amendments that require registration and those that do not; and
-  (b) specifying any amount of notice that may be required in respect of events or matters of a kind known to the operator in advance that will require an amendment to a registered wine standards management plan.
+(8)
 
-### 23 Updates of minor amendments to wine standards management plans
+### 23 Notification of minor amendments to wine standards management plans
 (1) For the purpose of ensuring that a registered wine standards management plan continues to comply with the requirements of section 14, every operator of a wine standards management plan must from time to time notify the Director-General of all amendments to the wine standards management plan that—
   (a) are of such a nature as not to require registration under section 22; and
   (b) have not been previously notified to the Director-General under this section.
 (2) Notification of the amendments must—
-  (a) be made in a manner approved by the Director-General; and
-  (b) be made at such intervals as may be prescribed by regulations made under this Act, or otherwise by notice by the Director-General under section 120; and
-  (c) contain such details and be accompanied by such other material (including declarations and evaluation reports, if required) as may be prescribed by regulations made under this Act or by notice by the Director-General under section 120; and
-  (d) be accompanied by the prescribed fee (if any).
+  (a) be made in a form or manner approved by the Director-General; and
+  (b) be made at the intervals set out in the regulations or any supplementary notice; and
+  (c) be accompanied by—
+    (i) any information and other material required by the regulations or any supplementary notice; and
+    (ii) the prescribed fee (if any); and
+  (d) comply with any requirements in the regulations or any supplementary notice.
 (3) On being satisfied that the requirements of this section have been complied with, and that the registered wine standards management plan concerned continues to comply with the requirements of section 14, the Director-General must register the fact that the plan has been updated under this section.
-(4) The Director-General may, by notice under section 120, specify matters for the purposes of this section.
+(4)
+
+### 23A Director-General may require amendment to improve clarity of registered wine standards management plan
+(1) If the Director-General considers that a registered wine standards management plan is not clear enough to be readily understood by the persons referred to in section 19(1)﻿(a)﻿(iii), the Director-General may require the operator to amend the plan.
+(2) The operator must amend the plan to meet the Director-General’s requirements under subsection (1) within 6 months after the date the requirement is received.
+(3) If the operator fails to do so, the Director-General may—
+  (a) suspend operations under the plan in accordance with section 24; or
+  (b) remove the plan from the register in accordance with section 25.
 
 ### 24 Suspension of operations under registered wine standards management plan
-(1) The Director-General may at any time suspend any or all operations under a registered wine standards management plan for a period of up to 3 months if the Director-General has reasonable grounds to believe that—
+(1) The Director-General may suspend any or all operations under a registered wine standards management plan for a period of up to 3 months if the Director-General has reasonable grounds to believe that—
   (a) the plan may not be or is no longer effective; or
-  (b) the wine made under the plan does not meet or no longer meets the requirements of this Act.
+  (b) the wine made under the plan does not meet or no longer meets the requirements imposed by or under this Act; or
+  (c) suspension is permitted under section 23A.
 (2) The Director-General may impose conditions and requirements in respect of the implementation and operation of a suspension under this section.
 (3) Where the Director-General suspends all or any operations under a wine standards management plan, he or she must give written notice of that fact to the operator of the plan, specifying—
   (a) the reason for the suspension; and
@@ -430,16 +469,17 @@ A person who is required to operate under a wine standards management plan must 
   (b) the date on which the suspension ends; and
   (c) which operations are suspended; and
   (d) how the operator intends to deal with any affected product.
-(5) The Director-General must notify the appropriate recognised verifying agency of a suspension under this section.
+(5) The Director-General must notify the operator’s verifying agency of a suspension under this section.
 (6) The Director-General may notify any suspension under this section in the Gazette.
 (7) A suspension under this section does not affect any other actions that the Director-General may take under this Act.
 (8) Where operations are suspended under this section, the Director-General may direct the operator or person in charge to take action appropriate to deal with any affected wine, and may exercise any of his or her other powers.
 (9) If a person acting under the delegated authority of the Director-General suspends any operations under this section, the operator of the wine standards management plan or of the business concerned may seek a review of the suspension under section 114.
 
 ### 25 Deregistration of wine standards management plan
-(1) The Director-General may at any time remove a wine standards management plan from the register if the Director-General is satisfied that—
+(1) The Director-General may remove a wine standards management plan from the register if the Director-General is satisfied that—
   (a) the Director-General would be justified under section 24 in suspending operations under the plan but, in light of repeated suspensions of operations under the wine standards management plan in the past under that section, it would be more appropriate to deregister the plan; or
   (b) there is or has been such a serious failure of operations or other matters under the plan as to cast doubt on the fitness for its intended purpose of the wine produced under the plan; or
+  (ba) removal of the plan from the register is permitted under section 23A; or
   (c) whether by reason of the passage of time or changing circumstances, or for any other reason, the wine standards management plan no longer ensures the fitness for its intended purpose of the wine under the plan; or
   (d) the operator of the plan is no longer a fit and proper person to operate or be responsible for the operation of a wine business, taking into account any conviction of the operator or any director or manager of the wine business concerned, whether in New Zealand or overseas, of any offence relating to fraud or dishonesty, or relating to management control or business activities in respect of businesses of a kind (whether in New Zealand or elsewhere) that are regulated under this Act; or
   (e) if the business ceases to be a wine business.
@@ -448,22 +488,22 @@ A person who is required to operate under a wine standards management plan must 
   (b) given the operator an opportunity to be heard.
 (3) Where the Director-General finally determines to deregister a wine standards management plan, the Director-General must—
   (a) give written notice of that fact to the operator of the plan, giving reasons and specifying the date on which the deregistration takes effect (which may not be earlier than the date of notification); and
-  (b) notify the appropriate recognised verifying agency of that fact.
+  (b) notify the operator’s verifying agency of that fact.
 (4) Where a wine standards management plan is deregistered under this section, the Director-General may direct the operator or person in charge to take action appropriate to deal with any affected wine and may exercise any of his or her other powers under section 59.
 (5) The Director-General may notify any deregistration under this section in the Gazette.
 (6) The deregistration of a wine standards management plan does not affect any other actions that the Director-General may take under this Act.
 (7) If a person acting under the delegated authority of the Director-General deregisters a wine standards management plan under this section, the operator of the wine standards management plan or of the wine business concerned may seek a review of the deregistration under section 114.
 
-### 26 Removal of wine business from coverage of wider wine standards management plan
-(1) The Director-General may at any time remove any wine business from the coverage of a registered wine standards management plan that applies to 2 or more comparable businesses if the Director-General is satisfied that deregistration of the plan would be appropriate under section 25(1) if the business were the only one operating under the plan.
-(2) Subsections (2) to (7) of section 25 apply in relation to the removal of the business from the coverage of the wine standards management plan as if references in those subsections to deregistration of the plan were references to removal from the coverage of the plan.
+### 26 Removal of business or part of business from coverage of wider wine standards management plan
+(1) The Director-General may remove any business or part of a business from the coverage of a registered wine standards management plan that applies to more than 1 comparable business if the Director-General is satisfied that deregistration of the plan would be appropriate under section 25(1) if the business or part of a business being removed were the only one operating under the plan.
+(2) Section 25(2) to (7) applies in relation to the removal of the business or part of a business from the coverage of the wine standards management plan as if references in those subsections to deregistration of the plan were references to removal from the coverage of the plan.
 
 ### 27 Surrender of registration
-(1) The operator of a registered wine standards management plan may at any time surrender registration of the plan by notice in writing to the Director-General.
+(1) The operator of a registered wine standards management plan may surrender registration of the plan by notice in writing to the Director-General.
 (2) Where the operator or wine business concerned ceases to operate as a wine business, that operator or wine business (or, where appropriate, the liquidator, receiver, executor, or other successor in title of the operator) must, within 20 working days of so ceasing,—
   (a) notify the Director-General in writing of that fact; and
   (b) surrender the notice of registration to the Director-General; and
-  (c) notify the appropriate recognised verifying agency of that fact.
+  (c) notify the operator’s verifying agency of that fact.
 (3) At the same time as notification under subsection (1) or subsection (2), the operator or other relevant person must also notify the Director-General of how it is proposed to deal with any remaining wine covered by the wine standards management plan.
 (4) The Director-General may approve or agree to any such proposal, but may also, if appropriate, exercise any of his or her powers under section 59.
 (5) On being notified of a surrender by an operator of a wine standards management plan under this section,—
@@ -472,63 +512,50 @@ A person who is required to operate under a wine standards management plan must 
 
 **Miscellaneous matters**
 
-### 28 References to recognised verifying agency
-A reference in this subpart to a recognised verifying agency, in relation to a wine standards management plan, must be treated as if it were a reference to a recognised management plan verifier if a recognised person carries out the verification functions and activities for that plan without being employed or engaged by a recognised agency.
+### 28 References to verifying agency
+A reference in this subpart to a verifying agency, in relation to a wine standards management plan, must be treated as if it were a reference to a verifier if a recognised person carries out the verification functions and activities for that plan without being employed or engaged by a recognised agency.
 
 ### 29 Wine standards management plan in conflict with regulations or notices
 If there is any conflict between the requirements of a registered wine standards management plan and those of any regulations or notices made under this Act, whether by reason of a failure to amend or update the plan to reflect any new requirements or otherwise, the requirements of the regulations or notices prevail.
 
-### Subpart 2 — Wine standards and specifications
+### Subpart 2 — Wine standards
 
-### 30 Outline of subpart 2
-This subpart provides for—
-  (a) the setting of standards that must be met by any wine intended for trade or export; and
-  (b) the setting of specifications that may be necessary or desirable to enable those standards to be met.
+### 30 Wine standards
+(1) This subpart provides for the setting of standards that must be met by any wine intended for trade or export.
+(2) The standards may be set by regulations made under section 33, which may be supplemented by supplementary notices.
 
-### 31 Application of standards and specifications
-Standards and specifications set under this subpart may apply in respect of any class, kind, or description of wine, person or business, process or operation, equipment or other thing, premises or place, or area, and may apply regardless of whether or not a wine standards management plan is in place or is required in respect of the relevant wine, person or business, process or operation, premises or place, or area.
+### 31 Application of standards
+Standards set under this subpart may apply in respect of any class, kind, or description of wine, person or business, process or operation, equipment or other thing, premises or place, or area, and may apply regardless of whether or not a wine standards management plan is in place or is required in respect of the relevant wine, person or business, process or operation, premises or place, or area.
 
 ### 32 Application to extension products, partial process products, and wine products
-(1) This section applies to extension products, partial process products, and wine products that are made or required to be made under a registered wine standards management plan under section 12 or 15A.
-(2) Standards and specifications set under this subpart may apply to the products as if they were wine.
-(3) In this subpart, wine includes the products.
+[Repealed]
 
 ### 33 Regulations may prescribe standards
-(1) Regulations may be made under section 119, on the recommendation of the Minister, that prescribe—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that prescribe—
   (a) standards in relation to wine identity and label integrity:
   (b) safety and hygiene standards for wine.
 (2) Without limiting the generality of subsection (1), standards may be prescribed in relation to the following matters:
   (a) the identification and labelling of wine, including prescribing minimum percentages of inputs required to label or identify wine in terms of its vintage, variety, and country or area of origin:
+  (ab) the information or other matters that must be specified, or that may or may not be specified, in any label on any bottle or other container of wine or any class or description of wine, and the requirements that must be met for that information or other matter to be specified or not specified:
   (b) the keeping of records and the provision of returns to the Director-General in relation to wine and the making of wine, as a means of ensuring the truthfulness and integrity of labelling of wine, and the safety of wine:
   (c) the imposition of prohibitions, limitations, or requirements in relation to hazards or substances in a wine and the hygiene of all materials, substances, and equipment used in making wine.
-(3) A standard may authorise or provide for matters of detail to be specified by the Director-General.
-(4) A standard may apply generally or in respect of 1 or more of the following:
-  (a) any specified wine, person or business, activity, or related matter or thing:
-  (b) any specified class or classes of wine, person or business, activity, or related matter or thing.
-(5) Without limiting the generality of subsection (4), a class of wine, person or business, activity, or related matter or thing may be defined by reference to—
-  (a) the class, kind, or description of wine; or
-  (b) a particular variety or blend of varieties of commodity; or
-  (c) the premises or place, area, or locality in which the relevant wine is made or dealt with, or from which its components or other additives are derived; or
-  (d) any other relevant factors.
+(3)
+(4)
+(5)
 (6) No standard may be prescribed that conflicts with any New Zealand food standard.
-(7) No prescribed standard may be held invalid merely because it—
-  (a) confers any discretion on, or allows any matter to be determined or approved by, the Minister, the Director-General, or any wine officer; or
-  (b) allows the Minister, the Director-General, or any other person to impose requirements as to the performance of any activities.
+(7)
 
 ### 34 Prerequisites for prescribing standards
-(1) In recommending the prescribing of standards under section 33, the Minister must have regard to—
+(1) In determining whether to recommend the making of a wine standard under section 33, the Minister must have regard to—
   (a) the desirability of maintaining consistency between New Zealand wine standards and any relevant standards, requirements, or recommended practices that apply or are accepted internationally:
   (b) the desirability of maintaining consistency with New Zealand's international obligations:
   (c) the desirability of facilitating access to overseas markets:
   (d) the need to protect the health of consumers of wine:
   (e) such other matters as the Minister considers relevant.
-(2) The Minister may not recommend the prescribing of any wine standard unless the Minister is satisfied that appropriate consultation has been carried out in accordance with section 115.
+(2)
 
 ### 35 Director-General may issue specifications supplementary to wine standards
-(1) The Director-General may from time to time, by notice under section 120, set specifications and other detailed requirements that—
-  (a) are specified or contemplated by or necessary to give effect to any prescribed standard; or
-  (b) are necessary or desirable to amplify the manner in which any such standard may or must be achieved.
-(2) The Director-General may set specifications under this section only after having regard to the matters specified in section 34(1) and after appropriate consultation carried out in accordance with section 115.
+[Repealed]
 
 ### Subpart 3 — Export of wine
 
@@ -543,38 +570,36 @@ The object of this subpart is to facilitate the access of wine to overseas marke
 (1) No person may export wine from New Zealand unless—
   (a) in the case of wine that requires an official assurance that the wine meets relevant overseas market access requirements notified or made available under section 41, the appropriate official assurance has been obtained; and
   (b) either—
-    (i) in the case of wine to which export eligibility requirements set under section 38 apply, compliance with those requirements has been demonstrated; or
+    (i) in the case of wine to which export eligibility requirements set under section 38 apply, compliance with those requirements and any supplementary notices has been demonstrated; or
     (ii) in the case of wine to which export eligibility requirements do not apply, the person is registered as an exporter under section 49.
-(2) Subsection (1) does not apply to any consignment of wine to the extent it is exempted from the relevant requirements under section 39 or under regulations made under this Act.
+(2) Subsection (1) does not apply to any consignment of wine to the extent it is exempted from the relevant requirements by the regulations or any supplementary notice or by a notice referred to in section 39.
 
 ### 38 Export eligibility requirements
 (1) The purpose of export eligibility requirements is to protect the reputation of New Zealand wine.
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out requirements that must be met for wine to be eligible for export from New Zealand.
-(3) The export eligibility requirements may apply to all wines, or to 1 or more classes, kinds, or descriptions of wine.
+(3)
 (4) Without limiting the generality of subsection (2), the regulations setting export eligibility requirements may—
   (a) prohibit the export of wine with an obvious fault (whether due to oxidation, tainting with extraneous flavours, or other fault):
-  (b) prescribe processes for demonstrating compliance with the export eligibility requirements, whether by way of analysis or assessment of samples or certification by recognised agencies or recognised persons or otherwise:
-  (c) allow for matters of detail to be specified by notice under section 120.
-(5) The Minister may recommend the making of regulations setting export eligibility requirements under this section only after appropriate consultation in accordance with section 115.
-(6) The Director-General may issue an export eligibility certificate for any wine if satisfied that the relevant export eligibility requirements have been met for that wine.
+  (b) set out processes for demonstrating compliance with the export eligibility requirements, whether by way of analysis or assessment of samples or certification by recognised agencies or recognised persons or otherwise:
+  (c) set out procedures and requirements in relation to the export eligibility requirements.
+(5)
+(6) The Director-General may issue an export eligibility certificate for any wine if satisfied that the relevant export eligibility requirements and any supplementary notices have been met for that wine.
 
-### 39 Exemption of certain consignments
-(1) The Director-General may, by notice under section 120, exempt from all or any of the requirements of this subpart any particular consignment or wine or person, or any particular class or description of consignments or wine or persons, if the Director-General is satisfied that the consignment or wine to be exported is—
+### 39 Exemption of certain consignments, wine, or persons
+(1) The Director-General may, by notice under section 120(1), exempt from all or any of the requirements of this subpart any particular consignment or wine or person, or any particular class or description of consignments or wine or persons, if the Director-General is satisfied that the consignment or wine to be exported is—
   (a) to be used for the purposes of research or development; or
   (b) to be used as a trade sample or otherwise to assess any overseas market for the initial development of that market; or
   (c) for the personal use or other non-commercial use of the person travelling with the consignment; or
   (d) wine for consumption during transit as a passenger or crew by sea or air on a vessel or aircraft leaving New Zealand; or
-  (e) of a kind that may be exempted by the Director-General in accordance with any order or regulations made under this Act.
-(2) Regulations made under section 119 may—
-  (a) exempt from all or any of the requirements of this subpart any class or description of consignments or wine or persons, having regard to the matters specified in subsection (1)﻿(a) to (d):
-  (b) authorise the Director-General to grant individual exemptions in accordance with any conditions set out in the regulations.
-(3) An exemption under this section is subject to any conditions set out in the notice or regulations.
+  (e) of a kind that the regulations permit to be exempted under this section.
+(2)
+(3)
 
 ### 40 Duties of exporters
 It is the duty of every exporter of wine to which this subpart applies—
   (a) to ensure that their operations as an exporter do not contravene any relevant requirement of or under this Act; and
   (b) to export only wine that meets—
-    (i) the relevant standards and specifications; and
+    (i) the relevant wine standards and any supplementary notices; and
     (ii) the relevant overseas market access requirements notified or made available by the Director-General under section 41; and
   (c) to notify the Director-General as soon as possible, and in any case not later than 24 hours after the event or first knowledge of the event, of the event and what actions (if any) have been taken in respect of the event in any case where wine exported by the exporter—
     (i) is not fit, or is no longer fit, for its intended purpose; or
@@ -582,7 +607,7 @@ It is the duty of every exporter of wine to which this subpart applies—
     (iii) does not meet or no longer meets the relevant overseas market access requirements as notified or made available by the Director-General under section 41; or
     (iv) does not have, or no longer has, the required official assurances; and
   (d) to maintain procedures and processes to demonstrate that the record-keeping requirements of and under this Act in relation to the provenance and processing of the wine exported by the exporter are being complied with; and
-  (e) in the case where the wine is subject to export eligibility requirements, to ensure that they only export wine that has been shown to comply with those requirements.
+  (e) in the case where the wine is subject to export eligibility requirements, to ensure that they only export wine that has been shown to comply with those requirements and any supplementary notices.
 
 **Market access requirements and official assurances to foreign governments**
 
@@ -590,7 +615,7 @@ It is the duty of every exporter of wine to which this subpart applies—
 (1) The Director-General must—
   (a) either notify or ensure that there is made available to exporters and winemakers known to the Director-General any particular access requirements for overseas markets that New Zealand has recognised; and
   (b) make those requirements available for inspection free of charge, or for purchase at reasonable cost, to exporters and winemakers.
-(2) The Director-General may, where the Director-General considers it necessary or desirable, by notice under section 120, issue specifications that set out the manner in which the access requirements may or must be met, and must notify or make the specifications available in the same way as requirements are notified or made available under subsection (1).
+(2) The Director-General may, where the Director-General considers it necessary or desirable, by notice under section 120(1), specify the manner in which the access requirements may or must be met, and must notify or make the notice available in the same way as requirements are notified or made available under subsection (1).
 (3) Nothing in subsection (1) prevents the Director-General from—
   (a) charging for access to any website, or for information or services provided by any website; or
   (b) in the case of overseas market access requirements that are commercially sensitive, limiting access to those requirements to persons who satisfy the Director-General that their specific export or processing activities cannot be properly undertaken under this Act unless they have that access.
@@ -599,7 +624,7 @@ It is the duty of every exporter of wine to which this subpart applies—
 (1) For the purposes of meeting the overseas market access requirements of any foreign government that are notified or made available by the Director-General under section 41 in respect of any wine to be exported, the Director-General, or a person authorised by the Director-General under section 46, may, in appropriate cases, issue an official assurance in respect of that wine if satisfied that the relevant requirements of the importing country have been met.
 (2) Without limiting the matters to which an official assurance may apply, an official assurance is a statement to a foreign government, or an agent of a foreign government, attesting that, as appropriate, any 1 or more of the following applies in respect of any wine:
   (a) any specified process has been completed under this Act with respect to the wine concerned:
-  (b) the wine concerned meets the standards and specifications set under subpart 2 of Part 2 and any relevant New Zealand food standards for that wine:
+  (b) the wine concerned meets the relevant wine standards and any supplementary notices and any relevant New Zealand food standards for that wine:
   (c) any overseas market access requirements of any foreign government that are recognised by New Zealand, and that are stated in the assurance, have been met by the system under which the wine was made:
   (d) the situation in New Zealand, in relation to any matter concerning wine, is as stated in the assurance.
 (3) An official assurance is not a guarantee that the contents of all or any of a particular consignment of wine to which it relates—
@@ -616,13 +641,17 @@ It is the duty of every exporter of wine to which this subpart applies—
   (c) 1 or more export destinations; or
   (d) any combination of the above.
 (3) An official assurance may be communicated to its appropriate destination by writing, fax, electronic means, or any other form of communication that is accurate, clear, and verifiable.
-(4) The Director-General may issue notices under section 120 that set out requirements and procedures for the issue and control of official assurances.
+(4)
 
 ### 44 Obtaining of official assurance
 (1) A person who wishes to obtain an official assurance in respect of any wine for export may apply in a manner approved by the Director-General, and must—
   (a) supply such information as is required; and
   (b) pay any relevant fee.
 (2) The Director-General must not issue an official assurance unless satisfied that the information obtained from the applicant justifies the giving of the assurance.
+(3) The Director-General may, by notice under section 120(1), do either or both of the following:
+  (a) set out requirements and procedures for the issue and control of official assurances:
+  (b) set out other matters in relation to the obtaining of official assurances.
+(4) Matters set out in notices under subsection (3) are in addition to matters (if any) prescribed by regulations made under section 119(1)﻿(g).
 
 ### 45 Official assurance may be withdrawn, and reissued
 (1) An official assurance may be withdrawn by the Director-General or other authorised person if the Director-General or person is satisfied that—
@@ -650,7 +679,7 @@ The Director-General may designate 1 or more persons employed within the Ministr
     (ii) if appropriate, the exporter's New Zealand agent:
   (b) the date on which the exporter was registered, and the date of expiry of that registration:
   (c) the date of any deregistration under section 52:
-  (d) such other particulars as may be prescribed by or under this Act.
+  (d) any other particulars required by the Director-General by notice under section 120(1).
 (4) The Director-General must—
   (a) keep the register open for public inspection, free of charge, at all reasonable hours at the head office of the Ministry and at such other places as the Director-General determines as necessary or appropriate; and
   (b) supply to any person copies of all or part of the register on request and on payment of a reasonable charge for the production of the copy.
@@ -660,7 +689,7 @@ The Director-General may designate 1 or more persons employed within the Ministr
   (c) that permits the information in the register to be accessed by electronic means, including (without limitation) by means of remote log-on access.
 
 ### 48 Applications for registration as exporter
-(1) A person who intends to export any wine (other than wine to which export eligibility requirements apply, or wine exempted under section 39 or by regulations under this Act) must apply to the Director-General, in a manner approved by the Director-General, for registration on the register of exporters.
+(1) A person who intends to export any wine (other than wine to which export eligibility requirements apply, or wine exempted under section 39 or by the regulations) must apply to the Director-General, in a manner approved by the Director-General, for registration on the register of exporters.
 (2) On receipt of a properly made application accompanied by the prescribed fee (if any), the Director-General must register the applicant as an exporter unless the Director-General considers that—
   (a) the applicant is not a fit and proper person to be registered as an exporter, having regard to any conviction of the applicant or any director or manager of the applicant, whether in New Zealand or overseas, for any offence relating to fraud or dishonesty, or relating to management control or business activities in respect of wine businesses (whether in New Zealand or elsewhere); or
   (b) there has in the past been a serious or repeated failure by the applicant to comply with duties of the type specified in section 40; or
@@ -691,12 +720,12 @@ Where the Director-General determines to register an applicant as an exporter, t
 (2) Any failure to pay the fee by the due date that persists for more than 20 working days may result in deregistration under section 52.
 
 ### 52 Deregistration of exporters
-(1) The Director-General may at any time remove a person from the register of exporters if satisfied that—
+(1) The Director-General may remove a person from the register of exporters if satisfied that—
   (a) there has been a serious or repeated failure by the registered exporter to comply with the duties specified in section 40; or
   (b) the person is disqualified from being registered as an exporter by virtue of section 48, or is not a fit and proper person to be registered as an exporter having regard to any conviction of a kind referred to in section 48(2) that—
     (i) arose after the person's registration as an exporter; or
     (ii) first came to the attention of the Director-General after the person's registration as an exporter; or
-  (c) any failure to pay the annual fee or other fee prescribed under section 51 by the due date has persisted for more than 20 working days.
+  (c) any failure to pay the annual fee or other fee prescribed for the purposes of section 51 by the due date has persisted for more than 20 working days.
 (2) Before removing a person from the register, the Director-General must—
   (a) notify the person in writing of his or her intention, giving the reasons for that intention and the facts and assumptions on which it is based; and
   (b) give the person a reasonable opportunity, within the time specified in the written notice, to provide evidence, information, and submissions as to why the person should not be removed from the register.
@@ -709,11 +738,98 @@ Where the Director-General determines to register an applicant as an exporter, t
   (b) as soon as practicable, notify the person of the decision in writing, giving reasons and the facts or assumptions on which the decision is based in the case of an unfavourable decision.
 
 ### 53 Surrender of registration
-(1) A registered exporter may at any time surrender registration by notice in writing to the Director-General.
+(1) A registered exporter may surrender registration by notice in writing to the Director-General.
 (2) The Director-General must record the surrender on the register of exporters, and the surrender takes effect from the date stated in the register.
 
 ### 54 Refusal to register or decision to deregister may be reviewed in certain cases
 If a person acting under the delegated authority of the Director-General refuses an application to register a person as an exporter, or deregisters the person, the person may seek a review of that decision under section 114.
+
+### Subpart 4 — General obligations
+
+### 54A Interpretation
+In this Part, regulated person means any of the following:
+  (a) the operator of a wine business:
+  (b) the operator of a registered wine standards management plan:
+  (c) an exporter:
+  (d) a person who is in charge of wine for the purposes of a wine business:
+  (e) any other person—
+    (i) who has, or is in a class of persons who have, any obligation under this Act; and
+    (ii) who is, or is in a class of persons that is, specified by the regulations.
+
+**Tracing and recall**
+
+### 54B Tracing and recall requirements
+A regulated person must, as and when required by the regulations or any supplementary notice,—
+  (a) have in place any procedures for tracing and recalling wine; and
+  (b) conduct simulations or other tests of those procedures; and
+  (c) implement those procedures to trace or recall wine.
+
+### 54C Regulations relating to tracing and recall
+(1) The Governor-General may, by Order in Council, make regulations prescribing requirements that apply to regulated persons in relation to tracing and recalling wine.
+(2) The regulations may (without limitation) do any or all of the following:
+  (a) identify the regulated persons who are required to have procedures for tracing and recalling wine:
+  (b) set requirements relating to—
+    (i) the content of those procedures:
+    (ii) the conducting of simulations and other tests of those procedures:
+    (iii) the implementation of those procedures to trace or recall wine:
+  (c) specify matters in relation to tracing and recall that must be included in wine standards management plans (see section 14).
+
+**Verification**
+
+### 54D Verification
+A regulated person must comply with any requirements relating to verification that are prescribed by regulations made under section 54F or any supplementary notice.
+
+### 54E Obligation of persons subject to verification requirements
+A person who is subject to verification requirements under this Act must—
+  (a) give the verifier—
+    (i) the access to places, things, and information that the verifier reasonably needs to undertake the verification; and
+    (ii) any reasonable assistance requested by the verifier to undertake the verification; and
+  (b) comply with any other requirements relating to the verification set out in any of the following:
+    (i) regulations made under section 54F or any supplementary notice:
+    (ii) if the person is the operator of a wine standards management plan, that plan:
+    (iii) if the person is subject to a notice made under section 120(1), that notice.
+
+### 54F Regulations relating to verification
+(1) The Governor-General may, by Order in Council, make regulations prescribing requirements in relation to verification of any or all of the following:
+  (a) wine standards management plans:
+  (b) wine for whose export an official assurance is required:
+  (c) compliance by regulated persons with requirements imposed by or under this Act.
+(2) The regulations may (without limitation) do any or all of the following:
+  (a) in relation to verification of wine standards management plans, specify the operations, or the parts of the operations, that must be verified:
+  (b) set requirements relating to the frequency, intensity, and cost of verification:
+  (c) specify matters in relation to verification that must be included in wine standards management plans (see section 14):
+  (d) set out matters relating to the rights of verifiers and verifying agencies in relation to the undertaking of verification activities:
+  (e) set reporting requirements for verifiers (see section 82H):
+  (f) set out requirements relating to the exercise, carrying out, and managing of verification functions and activities (see sections 82G and 82H).
+
+**Record keeping and reporting**
+
+### 54G Record keeping and reporting requirements
+(1) A regulated person, recognised person, or recognised agency must—
+  (a) collect the required information; and
+  (b) keep that information in the required manner and for the required period; and
+  (c) give that information to—
+    (i) the Director-General or a wine officer at all reasonable times on request; and
+    (ii) any other person as required.
+(2) In this section,—
+  - **give** , in relation to information, includes—
+    (a) to give access to the information; and
+    (b) to permit the inspection of the information; and
+    (c) to permit the making of copies of the information
+  - **required** means required by any of the following:
+  (a) this Act:
+  (b) the regulations or any supplementary notice:
+  (c) a notice referred to in section 54H(2).
+
+### 54H Regulations and notices relating to record keeping and reporting
+(1) The Governor-General may, by Order in Council, make regulations prescribing requirements in relation to record keeping and reporting by regulated persons, recognised persons, and recognised agencies.
+(2) The Director-General may, by notice under section 120(1), prescribe requirements in relation to record keeping and reporting by regulated persons, recognised persons, and recognised agencies (in addition to requirements (if any) prescribed by the regulations).
+(3) The regulations or a notice may (without limitation) do any or all of the following:
+  (a) set requirements relating to—
+    (i) what information must be collected:
+    (ii) how, and for how long, the information must be kept:
+    (iii) what information must be given under section 54G(1)﻿(c) and when, how, and to whom it must be given:
+  (b) specify matters in relation to record keeping and reporting that must be included in wine standards management plans (see section 14).
 
 ## Part 3 — Officers, cost recovery, etc
 
@@ -729,7 +845,7 @@ If a person acting under the delegated authority of the Director-General refuses
 **Powers of Director-General**
 
 ### 56 Director-General may issue notices
-The Director-General may from time to time issue notices as specified in section 120.
+The Director-General may issue notices under section 120.
 
 ### 57 Director-General may give directions
 (1) The Director-General may, by notice in writing, give directions to any or all wine officers, recognised persons, recognised agencies, or recognised classes as to the exercise of their functions under this Act.
@@ -761,7 +877,7 @@ The Director-General may from time to time issue notices as specified in section
   (d) accepts a surrender of registration under section 27, in circumstances where no agreement has been reached on how it is proposed to deal with any remaining wine covered by the wine standards management plan; or
   (e) suspends export operations of an exporter in accordance with section 52(3); or
   (f) has reasonable grounds to believe that a person who is required to be registered as an exporter under subpart 3 of Part 2 is exporting, has exported, or is about to export wine without being so registered; or
-  (g) has reasonable grounds to believe that a person is exporting, has exported, or is about to export wine that does not meet relevant export eligibility requirements.
+  (g) has reasonable grounds to believe that a person is exporting, has exported, or is about to export wine that does not meet relevant export eligibility requirements or any supplementary notice.
 (2) In a situation to which this section applies, the Director-General may, whether immediately before, at the same time as, or after taking any relevant action referred to in subsection (1),—
   (a) give directions to the relevant operator, person in charge (or person who reasonably appears to be in charge), owner of the wine, or exporter, or any of them, on the handling, storage, further processing, transport, identification, classification, reclassification, verification, condemnation, destruction, or disposal of the wine affected by the deregistration, surrender, suspension, or failure to register; and
   (b) if the directions are not complied with, undertake the appropriate directed activities himself or herself (through wine officers or other Ministry officers or employees) in relation to the affected wine.
@@ -772,9 +888,29 @@ The Director-General may from time to time issue notices as specified in section
 (2) The Director-General is protected from civil liability for a statement published under this section, unless the statement was not made in good faith or was made recklessly.
 
 ### 61 Delegations by Director-General
-The Director-General may delegate under section 41 of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act, except the power to issue statements under section 60.
+The Director-General may delegate under section 41 of the State Sector Act 1988 all or any of his or her functions, powers, or duties under this Act.
 
 **Powers of wine officers**
+
+### 61A Power to issue improvement notice
+(1) A wine officer may issue an improvement notice to any person if the officer reasonably believes that the person is failing, or has failed, to comply with 1 or more requirements imposed by or under this Act.
+(2) An improvement notice must state—
+  (a) the requirement that the officer reasonably believes the person is failing, or has failed, to comply with; and
+  (b) the reasons for the officer's reasonable belief; and
+  (c) the nature and extent of the failure to comply with the requirement; and
+  (d) the date by which the person must comply with the requirement; and
+  (e) the person's right, under section 61B, to seek a review of the decision to issue the improvement notice.
+(3) A wine officer may, by written notice, withdraw an improvement notice, but may reissue it if subsection (1) applies.
+(4) An improvement notice must be served in accordance with section 117.
+(5) A person to whom an improvement notice is issued must comply with the notice, subject to any extension of the date by which the person must comply with the applicable requirement that the wine officer may grant on the person’s request.
+
+### 61B Review of improvement notice
+(1) A person to whom an improvement notice is issued under section 61A may apply to the Director-General to have the decision to issue it reviewed.
+(2) Section 114(2) to (8) applies in relation to the application and review as if the decision to issue the notice were a decision to which that section applies.
+(3) The Director-General may initiate a review of a decision to issue an improvement notice on the Director-General’s own initiative and without an application for review being made.
+(4) For the purposes of subsection (3), section 114(3A), (4), (6), (7), and (8) applies in relation to the review as if—
+  (a) the decision to issue the notice were a decision to which that section applies and the person to whom it was issued had applied for a review; and
+  (b) the maximum time allowed under section 114(4) were 80 days from the date on which the improvement notice was issued.
 
 ### 62 Power of entry
 (1) A wine officer may, for the purpose of determining whether or not any person is complying with this Act, or any requirements made under this Act, or whether any wine is in compliance with the requirements of this Act or any requirements made under this Act, without a warrant enter any place (other than a dwelling house or marae) at, in, or from which—
@@ -838,12 +974,23 @@ Subparts 1, 5, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012
   (c)
   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General in retaining the item.
 
+### 68A Matters may be continued by different wine officer
+(1) An action initiated or taken under this Act by a wine officer may be continued by another wine officer.
+(2) Without limiting subsection (1), if an officer has given any notice, authorisation, or consent under this Act (whether or not subject to conditions), any wine officer may—
+  (a) take further action in relation to that notice, authorisation, or consent; or
+  (b) revoke or withdraw it; or
+  (c) vary it; or
+  (d) revoke or vary any condition on or subject to which it was given.
+
+### 68B Opinion or belief of wine officer
+If this Act requires a wine officer to hold a particular opinion or belief about something before exercising a power, it is sufficient if a more senior wine officer or the Director-General holds that opinion or belief and directs the wine officer to exercise the power.
+
 **Recognised agencies, persons, and classes of persons**
 
 ### 69 Outline of sections 70 to 82Z
 Sections 70 to 82Z—
-  (a) establish a procedure for the recognition of agencies (including recognised verifying agencies) that are responsible for managing and carrying out specified functions and activities for the purposes of this Act; and
-  (b) establish a procedure for the recognition of persons (including recognised management plan verifiers) or classes of persons who are to carry out specified functions and activities for the purposes of this Act; and
+  (a) establish a procedure for the recognition of agencies (including verifying agencies) that are responsible for managing and carrying out specified functions and activities for the purposes of this Act; and
+  (b) establish a procedure for the recognition of persons (including verifiers) or classes of persons who are to carry out specified functions and activities for the purposes of this Act; and
   (c) set out the duties of recognised agencies, recognised persons, and recognised classes, and when their recognition can be suspended or withdrawn; and
   (d) provide for the establishment and maintenance of a public register of recognised agencies, recognised persons, and recognised classes, and for the public to access the register.
 
@@ -851,8 +998,8 @@ Sections 70 to 82Z—
 In sections 71 to 82Z,—
   - **requirements of this Act** means any requirements or procedures specified in—
     (a) this Act; or
-    (b) regulations made under this Act; or
-    (c) a notice issued under section 120
+    (b) the regulations or any supplementary notice; or
+    (c) a notice issued under section 120(1)
   - **specified conviction** means—
   (a) a conviction for an offence against this Act; or
   (b) a conviction (whether in New Zealand or in another country) for any offence relating to fraud or dishonesty; or
@@ -1061,7 +1208,7 @@ Recognised agencies and recognised persons must pay the prescribed fee, charge, 
   (d) has systems, processes, and procedures to manage appropriately any conflict of interest that might arise while carrying out those functions and activities; and
   (e) complies with all conditions of recognition imposed under section 81; and
   (f) complies with all applicable directions given under section 57; and
-  (g) complies with all applicable requirements of this Act.
+  (g) complies with all other applicable requirements of this Act.
 (2) When carrying out its specified functions and activities, a recognised agency must also ensure that each recognised person that the agency manages and supplies (if any)—
   (a) maintains all competency requirements applicable to his or her recognition; and
   (b) is not placed in a position or a situation that compromises his or her impartiality and independence in carrying out his or her specified functions and activities.
@@ -1075,7 +1222,7 @@ When carrying out his or her specified functions and activities, a recognised pe
   (d) maintains appropriate confidentiality (particularly in respect of commercially sensitive matters) relating to operations and activities the person comes into contact with in the course of carrying out those functions and activities (except to the extent that the person is required to report under paragraph (e) or otherwise for the purposes of this Act), including matters relating to design, technology, systems, personnel, and practices; and
   (e) reports to the Ministry (or any other specified authority), in accordance with any applicable requirements of this Act,—
     (i) any matter that a recognised person is required to report; and
-    (ii) for a recognised management plan verifier, any failure to comply with, or any inadequacy in, a wine standards management plan; and
+    (ii) for a verifier, any failure to comply with, or any inadequacy in, a wine standards management plan; and
   (f) complies with all conditions of recognition imposed under section 81; and
   (g) complies with all applicable directions given under section 57; and
   (h) complies with all applicable requirements of this Act.
@@ -1084,6 +1231,10 @@ When carrying out his or her specified functions and activities, a recognised pe
 Nothing in section 82G or 82H prevents a recognised agency or a recognised person from carrying out functions and activities that are outside the scope of the agency's or person's specified functions and activities, provided that the agency or person does not do so—
   (a) in the agency's or person's capacity as a recognised agency or a recognised person; or
   (b) while purporting to act as a recognised agency or a recognised person.
+
+### 82IA Recognised agency and recognised person accountable to Director-General
+(1) A recognised agency is, in carrying out its specified functions and activities, accountable to the Director-General.
+(2) A recognised person is, in carrying out his or her specified functions and activities, accountable to the Director-General.
 
 **Suspension of recognition**
 
@@ -1221,7 +1372,7 @@ A surrender takes effect on the later of—
     (v) a list of any members of the class whose recognition has been suspended, withdrawn, or surrendered and the date on which the suspension, withdrawal, or surrender takes effect; and
   (c) the specified functions and activities of each recognised agency, recognised person, and recognised class; and
   (d) the date on which each agency, person, and class was recognised and the duration of that recognition; and
-  (e) any other particulars that are prescribed in regulations made under this Act.
+  (e) any other particulars required by the regulations or any supplementary notice.
 (2) A suspension of recognition that is recorded on the public register must specify—
   (a) the date and time the suspension starts; and
   (b) the period of the suspension; and
@@ -1269,9 +1420,9 @@ If the Director-General is required to consult a person or a category or class o
   (d) consider any submissions that he or she receives on the matter from any person who was notified of the matter.
 
 ### 82Y Director-General may require notification of termination of contracts
-(1) The Director-General may, by notice under section 120, require any recognised management plan verifier or recognised verifying agency to notify the Director-General of the termination of any contract with the operator of a wine standards management plan for managing or carrying out verification functions and activities.
-(2) The notice may apply generally or to any particular case or class of case.
-(3) The recognised management plan verifier or recognised verifying agency must notify the Director-General in writing of the termination as soon as practicable, and in no case later than 7 days after it occurs.
+(1) The Director-General may, by notice under section 120(1), require any verifier or verifying agency to notify the Director-General of the termination of any contract with the operator of a wine standards management plan for managing or carrying out verification functions and activities.
+(2)
+(3) The verifier or verifying agency must notify the Director-General in writing of the termination as soon as practicable, and in no case later than 7 days after it occurs.
 
 ### 82Z Director-General must consider exemption, waiver, or refund of fees
 (1) The Director-General must consider whether an exemption, a waiver, or a refund of all or part of a prescribed fee, charge, or levy is appropriate if—
@@ -1294,7 +1445,7 @@ No wine officer, no person called on to assist a wine officer, and no recognised
   (b) efficiency, in that costs should generally be allocated and recovered in order to ensure that maximum benefits are delivered at minimum cost:
   (c) justifiability, in that costs should be collected only to meet the reasonable costs (including indirect costs) for the provision or exercise of the relevant function, power, or service:
   (d) transparency, in that costs should be identified and allocated as closely as practicable in relation to tangible service provision for the recovery period in which the service is provided.
-(3) Costs should not be recovered under this subpart unless there has been appropriate consultation with affected parties and relevant industry organisations in accordance with section 115, and the parties involved have been given sufficient time and information to make an informed contribution.
+(3) Costs should not be recovered under this subpart unless there has been consultation with affected parties and relevant industry organisations in accordance with section 115, and the parties involved have been given sufficient time and information to make an informed contribution.
 (4) Nothing in subsection (3) or in section 87 or section 115 requires consultation in relation to specific fees or charges, or the specific levels of fees or charges, so long as the fees or charges set are reasonably within the purview of any general consultation or any consultation carried out for the purposes of section 115, and a failure to comply with subsection (3) does not affect the validity of any regulations made for the purposes of this subpart.
 (5) Nothing in this section requires a strict apportionment of the costs to be recovered for a particular function or service based on usage; and, without limiting the way in which fees or charges may be set, a fee or charge may be set at a level or in a way that—
   (a) is determined by calculations that involve an averaging of costs or potential costs:
@@ -1313,25 +1464,27 @@ The methods by which costs may be recovered under this subpart are as follows:
   (i) any combination of the above.
 
 ### 86 Cost recovery to relate generally to financial year
-(1) Except as provided in subsection (2), any regulations under this subpart that set a fee, charge, or levy that applies in any financial year—
+(1) Except as provided in subsection (2), any regulations that set a fee, charge, or levy that applies in any financial year—
   (a) must have been made before the start of that financial year; but
   (b) except as the regulations may otherwise provide, apply in that year and all subsequent years until revoked or replaced.
 (2) Subsection (1) does not prevent the alteration or setting during any financial year of a fee, charge, or levy payable in that year if either—
   (a) the fee, charge, or levy is reduced, removed, or restated without substantive alteration; or
   (b) in the case of an increase or a new fee, charge, or levy,—
-    (i) appropriate consultation in accordance with section 115 has been carried out with persons or representatives of persons substantially affected by the alteration or setting; and
+    (i) consultation in accordance with section 115 has been carried out with persons or representatives of persons substantially affected by the alteration or setting; and
     (ii) the Minister is satisfied that those persons, or their representatives, agree or do not substantially disagree with the alteration or setting.
 (3) Subsection (1) does not prevent the amendment of any regulation setting a fee, charge, or levy if any substantive alteration effected by the amendment is for the purpose of correcting an error.
 (4) Recovery may be made in any financial year of any shortfall in cost recovery for any of the preceding 4 financial years, and allowance may be made for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
 
 ### 87 Three-yearly review of cost recovery
 (1) The Minister must cause to be reviewed, at least once in every 3-year period occurring since the original setting of, or latest change to, the levels and methods of cost recovery in relation to any class of wine, business, person, or other matter, the levels and methods of cost recovery in the relevant area that are likely to be appropriate for the following financial year or years.
-(2) The Minister must ensure that appropriate consultation in accordance with section 115 takes place in relation to any such review.
+(2) The Minister must ensure that consultation in accordance with section 115 takes place in relation to any such review.
 (3) A review may make provision for recovery in any relevant financial year of any shortfall in cost recovery for any of the preceding 4 financial years, or make allowance for any over-recovery of costs in those years (including any estimated shortfall or over-recovery for the immediately preceding financial year).
 (4) Subsection (1) does not require all areas of cost recovery to be reviewed at the same time, nor does it impose any time limit on the making of regulations to implement the results of a review.
 
 ### 88 Fees and charges to be prescribed by regulations
-(1) Regulations may be made under this Act, on the recommendation of the Minister, prescribing fees and charges for the purposes of this Act.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing fees and charges for the purposes of this Act, including fees and charges—
+  (a) for applications, renewals, or related matters under this Act (for example, for applications for registration under subpart 1 or 3 of Part 2 or for applications for recognition under sections 70 to 82Z); and
+  (b) payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing registration under subpart 3 of Part 2 or for ongoing recognition under sections 70 to 82Z).
 (2) The fees and charges may be prescribed using any 1 or more of the methods specified in section 85, or any combination of those methods.
 (3) Different fees and charges, or different rates or types of fee or charge, may be prescribed in respect of different classes or descriptions of wine, persons or businesses, operations, or other matters, or any combination of them.
 (4) Without limiting subsection (3), the fees and charges prescribed may—
@@ -1340,11 +1493,11 @@ The methods by which costs may be recovered under this subpart are as follows:
   (c) differ for otherwise similar services provided in different ways:
   (d) differ for otherwise similar services provided to different categories of person:
   (e) differ depending on the amount of service required or the components of the service required for the particular person or class of person.
-(5) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for these components by the Director-General under section 120.
+(5) Where regulations prescribe a formula for determining a fee or charge, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for these components by the Director-General by notice under section 120(1).
 (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 84 and 86 have been met.
 
 ### 89 Regulations may impose levies
-(1) Regulations may be made under this Act, on the recommendation of the Minister, prescribing levies for the purposes of this Act.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing levies for the purposes of this Act, including levies payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing registration under subpart 3 of Part 2 or for ongoing recognition under sections 70 to 82Z).
 (2) Different levies or rates of levy or bases on which an amount of levy is to be calculated or ascertained may be prescribed for different purposes, and different levies or rates of levy or bases for calculation may be set for different classes or descriptions of wine, persons or businesses, operations, or other matters, or any combination of them.
 (3) Without limiting the generality of subsection (1), regulations imposing levies may—
   (a) specify when and how any levy is to be paid:
@@ -1356,6 +1509,7 @@ The methods by which costs may be recovered under this subpart are as follows:
     (i) whether or not any person is required to pay, or collect, the levy concerned; or
     (ii) the amount of levy any person is required to pay or collect—
 (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 84 and 86 have been met.
+(4A) Where regulations prescribe a formula for determining a levy, the formula may specify the value of 1 or more of its components as being an amount or amounts notified for those components by the Director-General by notice under section 120(1).
 (5) Nothing in this section or in this subpart affects the power of persons within the winemaking industry to determine to introduce and impose a levy on wine in accordance with section 111.
 
 ### 90 Trust accounts required to be kept by persons collecting levies
@@ -1377,8 +1531,9 @@ The methods by which costs may be recovered under this subpart are as follows:
 (3) All money received by the Ministry as a result of such charges must be paid into the Departmental Bank Account.
 
 ### 92 Exemptions, waivers, and refunds
-(1) Regulations made under this Act may provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this Act, in whole or in part, in any class of case.
+(1) The regulations may provide for exemptions from, or waivers or refunds of, any fee, levy, or charge payable under this Act, in whole or in part, in any class of case.
 (2) Any such regulations may authorise the Director-General to grant an exemption, waiver, or refund in any particular case or class of case.
+(3) An exemption or a waiver granted under this section expires on the date specified in it, which must not be more than 5 years after the exemption is granted.
 
 ### 93 Fees, levies, and charges to constitute debt due to Director-General
 Any fee, levy, or charge that has become payable is a debt due to the Director-General, and is recoverable as a debt by the Director-General in any court of competent jurisdiction. Until paid in full, it remains a debt due to the Crown.
@@ -1405,6 +1560,61 @@ The explanatory note of regulations made under section 89 must indicate that—
   (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ## Part 4 — Offences, penalties, and miscellaneous provisions
+
+**Infringement offences**
+
+### 96A Proceedings for infringement notices
+(1) This section applies when a person is alleged to have committed an infringement offence.
+(2) The person may—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice as provided in section 96B and, in that case, section 21 of the Summary Proceedings Act 1957 applies with all necessary modifications.
+(3) Proceedings commenced in the way described in subsection (2)﻿(a) do not require leave of a District Court Judge or Registrar under section 21(1)﻿(a) of the Summary Proceedings Act 1957.
+
+### 96B Issue and cancellation of infringement notices
+(1) An infringement notice may be served on a person if a wine officer—
+  (a) observes the person committing an infringement offence; or
+  (b) reasonably believes that the person is committing an infringement offence; or
+  (c) reasonably believes that the person has committed an infringement offence.
+(2) An infringement notice may be cancelled by a wine officer if—
+  (a) the interests of justice require cancellation; and
+  (b) neither the particulars of a reminder notice nor a notice of hearing relating to the infringement notice has been filed in a District Court.
+(3) An infringement notice is cancelled by the service of a cancellation notice.
+(4) An infringement notice or a cancellation notice may be served by a wine officer personally delivering it to the person alleged to have committed the infringement offence.
+(5) Alternatively, an infringement notice or a cancellation notice may be served by post addressed to,—
+  (a) if the person is a natural person,—
+    (i) the address of the person's last-known place of residence; or
+    (ii) the address on the person's driver licence; or
+    (iii) the person's address on the latest electoral roll; or
+    (iv) the person's last-known registered address, if the person has or has had a registered address for any purpose; or
+    (v) the person's address in the latest telephone directory; or
+    (vi) the address of the person's last-known place of business; or
+  (b) if the person is not a natural person,—
+    (i) the person's last-known registered address, if the person has or has had a registered address for any purpose; or
+    (ii) the person's address in the latest telephone directory; or
+    (iii) the address of the person's last-known place of business.
+(6) For the purposes of the Summary Proceedings Act 1957, an infringement notice or a cancellation notice served under subsection (5) is treated as having been served on the person when it was posted.
+
+### 96C Form of infringement notice
+(1) An infringement notice must be in the form set out in the regulations.
+(2) The form must contain the following details:
+  (a) sufficient details to inform the person served with the notice of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee for the offence; and
+  (c) the time within which the infringement fee must be paid; and
+  (d) the address of the place at which the infringement fee must be paid; and
+  (e) a statement of the person's right to ask for a hearing; and
+  (f) a statement of the person's right to ask for cancellation of the notice; and
+  (g) a statement of what will happen if the person does not pay the infringement fee or ask for a hearing or ask for cancellation of the notice; and
+  (h) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957.
+
+### 96D Payment of infringement fees
+All infringement fees paid for infringement offences must be paid to the Ministry.
+
+### 96E Regulations about infringement offences
+The Governor-General may, by Order in Council, make regulations to do all or any of the following:
+  (a) identify the offences in or under this Act that are infringement offences:
+  (b) identify as an infringement offence an offence against section 103 for failing to comply with a specified provision, direction, condition, notice, or requirement:
+  (c) set out notices and forms required for the purposes of sections 96A to 96D:
+  (d) set out the amounts, up to $1,000, of infringement fees that are payable for infringement offences, including different fees for a first offence, a second offence, and subsequent offences.
 
 **Offences, penalties, and proceedings**
 
@@ -1444,8 +1654,8 @@ The explanatory note of regulations made under section 89 must indicate that—
   (b) in the case of an individual, to a fine not exceeding $50,000.
 
 ### 100 Offence to export unless registered or in compliance with export eligibility requirements
-(1) A person commits an offence who, being a person who is required to be registered as an exporter in relation to the wine concerned, without being so registered exports any wine to which subpart 3 of Part 2 applies other than in accordance with an exemption granted under section 6 or section 39 or by regulations made under this Act.
-(2) A person commits an offence who exports any wine that does not comply with any relevant export eligibility requirements.
+(1) A person commits an offence who, being a person who is required to be registered as an exporter in relation to the wine concerned, without being so registered exports any wine to which subpart 3 of Part 2 applies other than in accordance with an exemption granted under section 6 or section 39 or by the regulations or any supplementary notice.
+(2) A person commits an offence who exports any wine that does not comply with any relevant export eligibility requirements or any supplementary notice.
 (3)
 (4) A person who commits an offence against this section is liable on conviction to a fine not exceeding—
   (a) $250,000, in the case of a body corporate; or
@@ -1456,12 +1666,27 @@ The explanatory note of regulations made under section 89 must indicate that—
   (a) any wine officer; or
   (b) an assistant of a wine officer; or
   (c) any recognised agency, recognised person, or other authorised person—
-(2) A person commits an offence who, with intent to deceive, personates or pretends to be a wine officer or recognised verifying agency, or a person referred to in subsection (1)﻿(c).
+(2) A person commits an offence who, with intent to deceive, personates or pretends to be a wine officer or an agency or a person referred to in subsection (1)﻿(c).
 (3) A person who commits an offence against this section is liable,—
   (a) for a body corporate, to a fine not exceeding $250,000:
   (b) for an individual, to—
     (i) imprisonment for a term not exceeding 3 months; and
     (ii) a fine not exceeding $50,000.
+
+### 101A Offences involving automated electronic system
+(1) A person commits an offence who intentionally obstructs or hinders an automated electronic system that is doing an action under section 118A.
+(2) A person commits an offence who knowingly damages or impairs an automated electronic system.
+(3) A person who commits an offence against this section is liable on conviction,—
+  (a) for a body corporate, to a fine not exceeding $250,000:
+  (b) for an individual, to imprisonment for a term not exceeding 3 months and a fine not exceeding $50,000.
+
+### 101B Breach of compliance order
+(1) A person commits an offence who, without reasonable excuse, breaches or fails to comply with the terms of a compliance order or an interim compliance order issued under section 110A or 110F.
+(2) A person who commits an offence against this section is liable on conviction to—
+  (a) a fine not exceeding—
+    (i) $300,000, in the case of a body corporate; or
+    (ii) $50,000, in the case of an individual; and
+  (b) an additional fine not exceeding $2,000 for every day on which the breach or failure continues.
 
 ### 102 Offence of breach of duty
 (1) A person commits an offence who, without reasonable excuse,—
@@ -1476,7 +1701,7 @@ The explanatory note of regulations made under section 89 must indicate that—
 ### 103 Failure to comply with Act, etc
 (1) A person commits an offence who, without reasonable excuse, fails to comply with—
   (a) any provision of this Act; or
-  (b) any provision of any regulations made under this Act the failure to comply with which is specified in those regulations as an offence; or
+  (b) any provision of the regulations the failure to comply with which is identified in the regulations as an offence; or
   (c) any direction, condition, notice, or requirement lawfully given, made, or imposed by or under this Act.
 (2) A person who commits an offence against this section for which no other penalty is specified is liable on conviction to a fine not exceeding—
   (a) $100,000, in the case of a body corporate; or
@@ -1493,7 +1718,7 @@ The explanatory note of regulations made under section 89 must indicate that—
 ### 105 Evidence in proceedings
 (1) In any proceedings for an offence under this Act, a certificate or document (including electronic copy) of any of the following kinds is admissible in evidence and, in the absence of proof to the contrary, is sufficient evidence of the matter stated in the certificate or of the contents of the document, as the case may require:
   (a) a certificate purporting to be signed by the Director-General, or by a delegate of the Director-General, to the effect that, at any specified date or period,—
-    (i) a named person or body is or was, or is not or was not, a wine officer, a recognised verifying agency, a recognised person, a recognised agency, or an employee of the Ministry; or
+    (i) a named person or body is or was, or is not or was not, a wine officer, a verifier, a verifying agency, a recognised person, a recognised agency, or an employee of the Ministry; or
     (ii) a specified wine standards management plan was or was not registered or was or was not amended, deregistered, or surrendered under subpart 1 of Part 2; or
     (iii) a named person was or was not registered as an exporter under subpart 3 of Part 2, or the person's registration was or was not removed or surrendered; or
     (iv) a class, kind, or description of wine is or was, or is not or was not, subject to export eligibility requirements; or
@@ -1512,7 +1737,7 @@ The explanatory note of regulations made under section 89 must indicate that—
   (f) a document purporting to be a copy of an official assurance or a statement given under section 60:
   (g) a document purporting to be a copy of a notice or direction or approval or specification (including a copy of any material incorporated by reference) or requirement given under this Act.
 (2) The production of a certificate or document purporting to be a certificate or document to which subsection (1) applies is prima facie evidence that it is such a certificate or document, without proof of the signature of the person purporting to have signed it or of its nature.
-(3) No certificate of an analyst, a recognised agency, or a recognised person, and no other evidence of an analysis, test, or examination under this Act, is to be ruled inadmissible or disregarded by reason only of the fact that any of the provisions of this Act or of any regulations or specifications made under this Act relating to the taking, analysing, testing, or examining of samples have not been strictly complied with, if there has been reasonable compliance with those provisions.
+(3) No certificate of an analyst, a recognised agency, or a recognised person, and no other evidence of an analysis, test, or examination under this Act, is to be ruled inadmissible or disregarded by reason only of the fact that any of the provisions of this Act or of any regulations, notices, or orders made under this Act relating to the taking, analysing, testing, or examining of samples have not been strictly complied with, if there has been reasonable compliance with those provisions.
 (4) A certificate or document to which subsection (1) applies is not admissible in evidence unless—
   (a) at least 14 days before the hearing at which the certificate or document is to be tendered, a copy is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate or document as a witness at the hearing or to call evidence as to the nature of the document; and
   (b) the court has not, on the application of the defendant made not less than 7 days before the hearing, ordered, not less than 4 days before the hearing (or such lesser period as the court in the special circumstances of the case thinks fit), that the certificate or document should not be admissible as evidence in the proceedings.
@@ -1536,8 +1761,106 @@ Where a body corporate is convicted of an offence under this Act, every director
 (1) Any act or omission on behalf of a body corporate or other person (each called the principal) by a director, agent, or employee (each called the agent) of the principal is to be treated for the purposes of this Act as being also the act or omission of the principal.
 (2) Despite subsection (1), where a principal is charged under this Act in relation to the act or omission of an agent for an offence against any of sections 97, 98, 99, and 100, it is a defence to the charge if the principal proves that the principal took all reasonable steps to prevent the commission of the offence or the commission of offences of that kind.
 
-### 110 Time for filing charge for offence against section 102 or 103
-Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against section 102 or 103 of this Act ends on the date that is 2 years after the date on which the offence was committed.
+### 109A Order to pay amount because of commercial gain
+(1) This section applies to a person convicted of an offence against any of sections 97 to 100 and 101A to 103.
+(2) The court may make an order under subsection (4) or (5) if it is satisfied that the offence was committed in the course of producing a commercial gain.
+(3) The court may make the order in addition to, or instead of, a penalty that the court may impose under the relevant offence provision.
+(4) The court may make an order under this subsection whether or not the person is a body corporate. The order is that the person pay an amount up to 3 times the value of the commercial gain resulting from committing the offence.
+(5) The court may make an order under this subsection if the person is a body corporate and the value of the gain cannot be readily ascertained. The order is that the person pay an amount up to 10% of the combined turnover of the body corporate and every interconnected body corporate it has over the period of the offending.
+(6) The court must assess the value of a gain that is readily ascertainable.
+(7) An amount that the court orders to be paid under this section is recoverable in the same manner as a fine.
+(8) In this section, interconnected and turnover have the same meanings as in the Commerce Act 1986.
+
+### 110 Charging documents
+Despite anything to the contrary in the Criminal Procedure Act 2011, a charging document in respect of any offence against this Act may be filed in any case within 4 years after the time when the offence was committed or within any longer time allowed by that other Act.
+
+**Compliance orders**
+
+### 110A Compliance orders
+(1) A compliance order is an order made by a District Court that may do 1 or more of the following things:
+  (a) require a person to cease, or prohibit a person from commencing, anything done or to be done by or on behalf of that person that, in the opinion of the court, contravenes or is likely to contravene this Act or any requirement imposed by or under this Act, and thus—
+    (i) is likely to endanger the health of the public through the sale of wine that has not been made in accordance with the requirements of Part 2 or that is otherwise not fit for its intended purpose; or
+    (ii) is likely to prejudice the reputation of New Zealand wine in overseas markets, or the integrity of official assurances given under this Act:
+  (b) require a person to remedy or mitigate any adverse effect arising from any action or matter that may be the subject of an order under paragraph (a):
+  (c) require a person to do something that, in the opinion of the court, is necessary in order to avoid, remedy, or mitigate any actual or likely adverse effect arising from any action or matter that may be the subject of an order under paragraph (a):
+  (d) require a person to pay money to or reimburse the Crown for any actual and reasonable costs and expenses that the Crown has incurred or is likely to incur in avoiding, remedying, or mitigating any adverse effect arising from the failure of the person to comply with a compliance order earlier made against the person under paragraph (a), (b), or (c).
+(2) For the purposes of subsection (1)﻿(d), actual and reasonable costs includes the costs of investigation, supervision, and monitoring of the relevant situation and the costs of any actions required to avoid, remedy, or mitigate the relevant adverse effect.
+(3) A compliance order may be made on such terms and conditions as the court thinks fit, including the provision of security or the entry into a bond for performance.
+(4) If the court so orders, a compliance order applies to the personal representatives, successors, and assigns of the person to whom the order is addressed to the same extent that it applies to the person.
+
+### 110B Application for compliance order
+(1) The Director-General may apply to a District Court for a compliance order of a kind specified in section 110A.
+(2) Every application to a District Court under this section must be made by originating application.
+(3) The rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every application to the court under this section except as modified—
+  (a) by sections 110C to 110K; and
+  (b) by any rules made under section 110L.
+
+### 110C Notification of application
+(1) Except as provided in section 110F (which relates to interim compliance orders), the Director-General must serve notice of the application on every person directly affected by the application.
+(2) The notice must be served within 5 working days after the date on which the application is filed in a District Court, or within such further time as a District Court may allow.
+
+### 110D Right to be heard
+Except as provided in section 110F, before deciding an application for a compliance order, the court must—
+  (a) hear the applicant; and
+  (b) hear any person against whom the order is sought who wishes to be heard.
+
+### 110E Decision on application
+After considering an application for a compliance order, the court may—
+  (a) make an appropriate order under section 110A; or
+  (b) refuse the application.
+
+### 110F Interim compliance orders
+(1) If a District Court Judge considers it necessary to do so, the Judge may make an interim compliance order without requiring service of notice in accordance with section 110C and without holding a hearing.
+(2) Before making an interim compliance order, the Judge must consider—
+  (a) whether failure to make the order is likely—
+    (i) to endanger human health through the sale of the wine concerned; or
+    (ii) to prejudice the integrity or reputation of New Zealand exports of wine, or the integrity of official assurances under this Act; and
+  (b) whether the court should hear the applicant or any person against whom the order is sought; and
+  (c) such other matters as the Judge thinks fit.
+(3) The Judge must direct the applicant or another person to serve a copy of the interim compliance order on the person against whom the order is made.
+(4) The interim compliance order—
+  (a) takes effect from when it is served, or on and from such later date as the order directs; and
+  (b) remains in force until the application under section 110B for a compliance order in respect of the same matter is determined, or until cancelled under subsection (5) or under section 110G.
+(5) A person against whom an interim compliance order has been made without the person having been heard may apply to a District Court Judge to change or cancel the order, and, after hearing from that person and the applicant for the order, the Judge may confirm, change, or cancel the interim compliance order.
+
+### 110G Change or cancellation of compliance order
+(1) Without limiting section 110F(5), any person directly affected by a compliance order may apply to a District Court in the manner set out in rules made under section 110L to change or cancel the order.
+(2) The applicant must, within 5 working days after making the application, serve notice of the application in the manner set out in the rules on the Director-General and on any other person (outside the Ministry) who was directly affected by the original order.
+(3) Before deciding an application to change or cancel a compliance order, the court must hear the applicant, the Director-General, and any person directly affected by the original compliance order who wishes to be heard.
+(4) After considering the application, the court may—
+  (a) change or cancel the compliance order; or
+  (b) refuse the application.
+
+### 110H Compliance with compliance order
+(1) Where a compliance order is served on the person against whom it is directed, the person must—
+  (a) comply with the order; and
+  (b) unless the order directs otherwise, pay all the costs and expenses of complying with the order.
+(2) If the person fails to comply with the order, the Director-General may comply with the order on behalf of the person, and, for that purpose, may—
+  (a) exercise, or direct the exercise of, any of the powers of a wine officer under this Act; and
+  (b) recover the costs and expenses of complying with the order as a debt due from the person.
+
+### 110I Appeals to High Court
+(1) This subsection applies to a decision of a District Court, on an application under section 110B, to—
+  (a) make or refuse to make a compliance order; or
+  (b) dismiss the proceedings; or
+  (c) otherwise finally determine the proceedings.
+(2) A party to proceedings in which there is made a decision to which subsection (1) applies, or any other person prejudicially affected by the decision, may appeal to the High Court against the decision.
+(3) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under section 72 of that Act.
+
+### 110J Appeals to Court of Appeal or Supreme Court
+(1) With the leave of the court appealed to, a party to an appeal under section 110I may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court in the appeal.
+(2) On an appeal under this section, the Court of Appeal or the Supreme Court has the same power to adjudicate on the proceedings as the High Court had.
+(3) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+
+### 110K Effect of appeal
+Except where the court making the order appealed from otherwise directs,—
+  (a) the operation of a compliance order is not suspended by an appeal under section 110I or 110J; and
+  (b) every compliance order may be enforced in the same manner in all respects as if no such appeal were pending.
+
+### 110L Rules of court
+In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules—
+  (a) regulating the practice and procedure of District Courts in proceedings under this Act that relate to compliance orders:
+  (b) providing for such matters as are contemplated by or necessary or desirable for giving full effect to the provisions of this Act that relate to compliance orders.
 
 **Industry levies**
 
@@ -1554,26 +1877,12 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 **Recordkeeping requirements**
 
 ### 112 Records and returns
-(1) The following persons must keep such records and other information in relation to wine and associated things, and make such returns to the Director-General as may reasonably be required by or under regulations or other specifications or requirements made by or under this Act:
-  (a) operators of wine businesses:
-  (b) operators of registered wine standards management plans:
-  (c) exporters:
-  (d) recognised persons:
-  (e) recognised agencies:
-  (f) owners or persons in control (or reasonably appearing to be in control) of any wine or commodity.
-(2) The following persons must also keep such records and information, and make such returns to the Director-General, as may be required by or under a registered wine standards management plan:
-  (a) the operator of a wine standards management plan:
-  (b) recognised management plan verifiers and recognised verifying agencies who carry out verification functions and activities in relation to the plan:
-  (c) any other recognised person or recognised agency who undertakes functions or activities in relation to the plan.
-(3) For the purposes of this Act, the Director-General may, in any particular case or class of cases, by notice under section 120,—
-  (a) require records and other information additional to those specified in regulations to be kept and provided to the Director-General by any person referred to in subsection (1) or subsection (2); and
-  (b) specify the manner and form in which information is to be provided in returns to the Director-General; and
-  (c) specify the period for which or date until which records must be kept.
+[Repealed]
 
 ### 113 Records to be available for inspection, etc
-A person who is required by or under section 112 to keep records or any other information must at all reasonable times—
-  (a) on demand from the Director-General or any wine officer, provide access to all relevant information required to be kept under this Act in the person's possession with respect to any wine or thing subject to this Act or any associated thing; and
-  (b) permit the Director-General or any wine officer to inspect and make copies of the record or information.
+[Repealed]
+
+**Use of border information**
 
 ### 113A Border information supplied using JBMS must be supplied in approved form and manner
 (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
@@ -1604,9 +1913,9 @@ A person who is required by or under section 112 to keep records or any other in
   (a) a decision to refuse to register a wine standards management plan or an amendment to a plan under subpart 1 of Part 2:
   (b) a decision to impose conditions on the registration of a wine standards management plan under section 19:
   (c) a decision to suspend all or any operations under a wine standards management plan under section 24:
-  (d) a decision to deregister a wine standards management plan under section 25, or to remove a wine business or part business from coverage of a plan under section 26:
+  (d) a decision to deregister a wine standards management plan under section 25, or to remove a wine business or part of a business from coverage of a plan under section 26:
   (e) a decision to refuse to register a person as an exporter under subpart 3 of Part 2:
-  (f) a decision to deregister an exporter or to suspend export operations under subpart 3 of Part 2:
+  (f) a decision to deregister an exporter under subpart 3 of Part 2:
   (g) a decision to refuse an application to recognise an agency under section 71:
   (h) a decision to refuse an application to recognise a person under section 73:
   (ha) a decision to refuse an application to recognise a class under section 75:
@@ -1614,46 +1923,47 @@ A person who is required by or under section 112 to keep records or any other in
   (hc) a decision to vary a condition of recognition under section 81, unless the variation is made on the application of the recognised agency, the recognised person, or a member of the recognised class in accordance with the terms of that application:
   (hd) a decision to suspend, or to extend the suspension of, recognition of an agency, a person, or a class under section 82J or 82K:
   (he) a decision to withdraw recognition of an agency, a person, or a class under section 82N or 82O:
-  (i) any decision specified by regulations made under this Act as a decision to which this section applies.
-(2) A person who is dissatisfied with any such decision may seek a review of the decision by the Director-General or by a person designated by the Director-General who was not involved in making the original decision.
+  (i) any decision specified by the regulations as a decision that is subject to review under this section.
+(2) A person who is dissatisfied with any such decision may seek a review of the decision by the Director-General.
 (3) An application for a review must—
   (a) be in writing; and
   (b) state the grounds on which it is believed that the original decision was inappropriate; and
   (c) be provided to the Director-General within 20 working days after the original decision was notified to the applicant.
-(4) The Director-General, or a person designated by the Director-General who was not involved in the original decision, must review the matter within 40 working days, or within such extended period not exceeding a further 20 working days as the Director-General or designated person may specify by notice in writing to the applicant.
+(3A) The Director-General may conduct the review personally or designate another person who was not involved in the original decision to conduct the review.
+(4) The Director-General or designated person must review the matter within 40 working days, or within such extended period not exceeding a further 20 working days as the Director-General or designated person may specify by notice in writing to the applicant.
 (5) For the purposes of a review, the Director-General or designated person may require the applicant to supply information additional to that contained in the application for review within a specified time. The time taken to supply any such information (or allowed for its supply, if the information is not in fact supplied) is not to be counted for the purposes of the time limits specified in subsection (4).
 (6) The decision sought to be reviewed remains valid unless and until altered by the Director-General or designated person.
 (7) The Director-General or designated person must, as soon as practicable, notify the applicant for review of his or her decision on the review in writing, giving reasons for the decision.
-(8) A decision by the Director-General under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
+(8) A decision by the Director-General or a designated person under this section is final, unless determined otherwise by a court of law of competent jurisdiction.
 
 **Consultation, notification, etc**
 
-### 115 Consultation requirements for making of certain orders, specifications, etc
+### 115 Consultation requirements for making of Orders in Council, regulations, and notices
 (1) Before making a recommendation for the making of any Order in Council or regulations under this Act, the Minister—
   (a) must be satisfied that the Director-General has carried out consultation in accordance with subsection (3) and has advised the Minister of the results of any such consultation; and
   (b) must take into account the results of that consultation.
-(2) Before setting any specifications or requirements made pursuant to section 120 (other than for the purposes of section 41(1)), the Director-General must consult in accordance with subsection (3) and take into account the results of that consultation.
+(2) Before issuing a notice under section 120 (other than for the purposes of section 41(1)), the Director-General must consult in accordance with subsection (3) and take into account the results of that consultation.
 (3) The Director-General must—
-  (a) do everything reasonably practicable on his or her part to consult with the persons or industry organisations that appear to the Director-General to be representative of the interests of persons likely to be substantially affected by the making of the relevant order or regulations or the setting of the relevant specifications or requirements referred to in subsections (1) and (2); and
+  (a) do everything reasonably practicable on his or her part to consult with the persons or industry organisations that appear to the Director-General to be representative of the interests of persons likely to be substantially affected by the making of the Order in Council, regulations, or notice; and
   (b) in the case of a proposed Order in Council or regulations, advise the Minister of the results of any such consultation.
 (4) The process for consultation should, to the extent practicable in the circumstances, include—
-  (a) giving adequate and appropriate notice of the intention to make the order or regulations or set the specifications or requirements; and
+  (a) giving adequate and appropriate notice of the intention to make the Order in Council, regulations, or notice; and
   (b) providing a reasonable opportunity for interested persons to make submissions; and
   (c) adequate and appropriate consideration of any such submissions.
-(5) This section does not apply in respect of the making of any order or regulations, or the setting of any specifications or requirements by the Director-General, if the Minister or Director-General considers it necessary or desirable in the public interest that the order or regulations be made, or the specifications or requirements be set, as a matter of urgency.
-(6) A failure to comply with this section does not affect the validity of any order or regulations made or any specifications or requirements set under this Act.
+(5) This section does not apply in relation to any Order in Council, regulations, or notice if the Minister or Director-General considers it necessary or desirable in the public interest that the Order in Council, regulations, or notice be made or issued as a matter of urgency.
+(6) A failure to comply with this section does not affect the validity of any Order in Council, regulations, or notice.
 
-### 116 Notification of certain matters
-(1) This section applies to notices issued by the Director-General that are of a kind listed in section 120.
+### 116 Notification of notices under section 120
+(1) This section applies to notices issued by the Director-General under section 120 (other than notices issued for the purposes of section 41(2)).
 (2) Where any notice to which this section applies affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must—
   (a) notify the persons of the matter individually in accordance with section 117; and
   (b) either—
-    (i) supply them with a copy of the specifications, requirements, exemption, or other matter concerned; or
+    (i) supply them with a copy of the notice; or
     (ii) notify them where they may inspect a copy free of charge (which may include inspection by electronic means) or obtain a copy on payment of a reasonable charge.
-(3) Where it is not possible or practicable to notify a matter to which this section applies in accordance with subsection (2), the Director-General must—
-  (a) either publish the specifications, requirements, exemption, or other matter concerned in the Gazette, or notify their making or existence in the Gazette; and
-  (b) where the Director-General considers it practicable, cause them to be brought to the attention of persons likely to be affected by them by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
-(4) If the specifications, requirements, exemption, or other matter concerned are notified only, and not published, in the Gazette,—
+(3) For any other notice, the Director-General must—
+  (a) publish the notice, or notification that it has been issued, in the Gazette; and
+  (b) where the Director-General considers it practicable, cause the notice to be brought to the attention of persons likely to be affected by it by notice or publication in any newspaper or trade journal, or by any other practicable means (including electronic means).
+(4) If the notice is not published in full in the Gazette,—
   (a) the Director-General must make copies available for inspection free of charge, and for purchase at a reasonable cost, at the head office of the Ministry and at such other places as the Director-General determines; and
   (b) the Gazette notice must specify where a copy may be inspected or obtained.
 
@@ -1685,82 +1995,168 @@ A person who is required by or under section 112 to keep records or any other in
   (a) a director, partner, secretary, or other officer or official of a company or other body of which the relevant person is an employee:
   (b) a company or other body to whom the relevant person is contracted in relation to the person's functions for the purposes of this Act.
 
+**Automated electronic systems**
+
+### 118A Arrangement for system
+(1) The Director-General may arrange for the use of an automated electronic system to do the actions described in subsection (2) that this Act or another enactment allows or requires the persons described in subsection (3) to do for the purposes of this Act.
+(2) The actions are—
+  (a) exercising a power:
+  (b) carrying out a function:
+  (c) carrying out a duty:
+  (d) making a decision, including making a decision by—
+    (i) analysing information that a person described in subsection (3) holds or has access to about a person, goods, or craft; and
+    (ii) applying criteria predetermined by the Director-General to the analysis:
+  (e) doing an action for the purpose of exercising a power, carrying out a function or duty, or making a decision:
+  (f) communicating the exercising of a power, carrying out of a function or duty, or making of a decision.
+(3) The persons are—
+  (a) the Director-General:
+  (b) wine officers:
+  (c) persons designated under section 46 to issue official assurances.
+(4) The Director-General may make an arrangement only if satisfied that—
+  (a) the system has the capacity to do the action with reasonable reliability; and
+  (b) a process is available under which a person affected by an action done by the system can have the action reviewed by a person described in subsection (3) without undue delay.
+(5) A system used in accordance with an arrangement may include components outside New Zealand.
+(6) The Director-General must consult the Privacy Commissioner about including in an arrangement actions that involve the collection or use of personal information.
+
+### 118B Effect of use of system
+(1) This section applies to an action done by an automated electronic system.
+(2) An action allowed or required by this Act done by the system—
+  (a) is treated as an action done properly by the appropriate person referred to in section 118A(3); and
+  (b) is not invalid by virtue only of the fact that it is done by the system.
+(3) If an action allowed or required by another enactment done by the system is done in accordance with any applicable provisions in the enactment on the use of an automated electronic system, the action—
+  (a) is treated as an action done properly by the appropriate person referred to in section 118A(3); and
+  (b) is not invalid by virtue only of the fact that it is done by the system.
+(4) If the system operates in such a way as to render the action done or partly done by the system clearly wrong, the action may be done by the appropriate person referred to in section 118A(3).
+
 **Regulations, notices, etc**
 
 ### 119 Regulations
-(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) exempting under section 6 any winemaker from the ambit of the Act or from the requirement to operate under a wine standards management plan:
-  (b) prescribing requirements, criteria, specifications, procedures, and related matters in relation to wine standards management plans and the amending and updating of wine standards management plans:
-  (ba) for the purposes of section 15B, specifying criteria for determining whether all or any class or classes of registered food control plans are to be subject to the verification regime of this Act or the Food Act 2014:
-  (bb) for the purposes of section 15B, if it is appropriate to allow exemptions in the interests of avoiding unnecessary or undesirable duplication of equivalent duties or matters under this Act and the Food Act 2014, exempting persons from compliance with specified requirements imposed under either Act, or providing for their exemption, whether wholly, partly, or conditionally:
-  (bc) for the purposes of section 15B, prescribing any other matters relating to the registration of food control plans as wine standards management plans:
-  (c) prescribing wine standards, including criteria, specifications, and other related matters, in accordance with subpart 2 of Part 2:
-  (d) prescribing export eligibility requirements under section 38, and procedures and requirements in relation to them:
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing, in relation to wine standards management plans (see section 14),—
+    (i) requirements relating to the content of plans:
+    (ii) other requirements relating to plans:
+    (iii) how plans are to be differentiated from other information kept by operators:
+  (b) prescribing, in relation to the relationship between the Food Act regime and wine standards management plans (see sections 15B and 15C),—
+    (i) when and to what extent section 15C(2) or (3) does not apply:
+    (ii) requirements for determining whether all or any classes of registered food control plans are to be subject to the verification regime of this Act or the Food Act 2014:
+    (iii) any other requirements relating to elections to operate under a wine standards management plan under section 15B:
+    (iv) matters relating to the registration of food control plans as wine standards management plans:
+  (ba)
+  (bb)
+  (bc)
+  (c) prescribing, in relation to the registration of wine standards management plans (see sections 17 and 18),—
+    (i) the particulars to be shown in the register:
+    (ii) when part only of a wine standards management plan may be lodged and the parts that must be lodged:
+    (iii) information and other material that must accompany applications for registration:
+    (iv) how accompanying information and material is to be provided to the Director-General:
+  (ca) prescribing, in relation to significant amendments to registered wine standards management plans (see section 22),—
+    (i) the kinds of amendments that require registration under section 22 and those that do not:
+    (ii) how long before a known change, event, or other matter an application for registration of an amendment to the plan must be made:
+    (iii) information and other material that must accompany applications for registration:
+    (iv) how accompanying information and material is to be provided to the Director-General:
+    (v) other requirements relating to registration of significant amendments:
+  (cb) prescribing, in relation to minor amendments to registered wine standards management plans (see section 23),—
+    (i) the intervals at which notification must be given to the Director-General:
+    (ii) information and other material that must accompany a notification:
+    (iii) other requirements relating to notification of minor amendments:
+  (d)
   (e) prescribing procedures and requirements relating to the registration of exporters:
-  (f) prescribing exemptions for, or additions to, any class of consignment, wine, or person for the purposes of section 39(2), including prescribing conditions in respect of any such exemption or addition and authorising the Director-General to exempt or impose conditions in relation to any consignment, wine, or person of a prescribed class:
+  (f) prescribing, in relation to exports,—
+    (i) exemptions for any consignment for the purposes of section 37(2):
+    (ii) the kinds of consignments and wine in relation to which the Director-General may grant exemptions under section 39(1):
   (g) prescribing procedures and requirements for applying for and obtaining official assurances, and otherwise prescribing matters in relation to official assurances:
+  (ga) specifying persons, or classes of persons, for the purposes of the definition of regulated person in section 54A:
   (h) prescribing requirements and procedures for the recognition and renewal of recognition of agencies, persons, and classes of persons under sections 70 to 82Z:
   (ha) prescribing competencies, qualifications, experience, or other requirements that must be met—
     (i) in order for a person to be recognised as a recognised agency or a recognised person under sections 70 to 82Z:
     (ii) in order for a class of persons to be recognised as a recognised class under sections 70 to 82Z:
+    (iia) in order for an agency, a person, or a class of persons to maintain recognition:
     (iii) by a recognised agency, recognised person, or recognised class:
   (hb) prescribing performance standards or other requirements that must be met by a recognised agency when it is managing or carrying out, or a recognised person or recognised class when it is carrying out, its specified functions and activities:
   (hc) prescribing any particulars that must be contained in the public register:
-  (i) prescribing the information or other matters that must be specified, or that may or may not be specified, in any label on any bottle or other container of wine or any class or description of wine, and the requirements that must be met for that information or other matter to be specified or not specified:
-  (j) prescribing fees, charges, or levies for the purposes of this Act in accordance with the requirements for regulations made under section 88 or 89, including—
-    (i) fees or charges for applications, renewals, or related matters under this Act (for example, for applications for registration under subpart 1 or 3 of Part 2 or for applications for recognition under sections 70 to 82Z):
-    (ii) fees, charges, or levies that are payable on an ongoing basis by a person given a particular status under this Act (for example, for ongoing registration under subpart 3 of Part 2 or for ongoing recognition under sections 70 to 82Z):
+  (i)
+  (j)
   (k) imposing and prescribing levies to fund industry activities relating to wine pursuant to section 111:
-  (l) prescribing records, returns, or information in relation to wine or associated things that any person or class of persons may be required to keep or provide to the Director-General or any wine officer:
+  (l)
   (m) prescribing forms and procedures for the purposes of this Act:
   (n) specifying matters that constitute offences for the purposes of section 103(1)﻿(b):
-  (o) specifying any matters of a general nature that may be specified by the Director-General by notice under section 120:
+  (o) specifying decisions as decisions that are subject to review under section 114:
+  (oa) permitting supplementary notices to be made to supplement specified provisions of the regulations (see section 120(2)﻿(b)):
   (p) providing for such other matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) Regulations made under this Act may—
-  (a) authorise the Minister or the Director-General to issue or impose any approval, requirement, prohibition, specification, restriction, condition, direction, instruction, or order in any particular case or class of cases:
-  (b) authorise a wine officer to issue or impose any requirement, prohibition, condition, direction, or instruction in any particular case or class of cases:
-  (c) exempt from compliance with or from the application of any provisions of the regulations any wine, process, operation, person, place, premises, or area, or authorise the Minister or the Director-General to grant such exemptions as the regulations may specify.
+(2)
+
+### 119A Scope of regulations
+(1) Regulations made under this Act may do any or all of the following:
+  (a) authorise the Minister or Director-General to—
+    (i) impose requirements, conditions, restrictions, or prohibitions:
+    (ii) issue approvals, directions, instructions, or orders:
+  (b) authorise a wine officer to—
+    (i) impose requirements, conditions, restrictions, or prohibitions:
+    (ii) issue directions or instructions:
+  (c) exempt, or authorise the Minister or Director-General to exempt, any wine, person, place, business, process, operation, activity, or other matter or thing from any provision of the regulations:
+  (d) authorise the Minister, the Director-General, or a wine officer to decide a matter:
+  (e) confer any other discretion on the Minister, the Director-General, or a wine officer.
+(2) The regulations may—
+  (a) apply generally, or in relation to any specified, or specified class of, wine, persons, places, businesses, processes, operations, activities, or other matters or things:
+  (b) make the same provision for all cases or different provisions for different cases, or classes of case.
+(3) If a provision of this Act permits regulations to prescribe requirements, the regulations may prescribe requirements, specifications, criteria, procedures, or other matters of a similar kind.
 
 ### 120 Notices
-(1) The Director-General may from time to time issue notices for the following purposes:
-  (a) setting specifications in relation to wine standards management plans for the purposes of subpart 1 of Part 2:
-  (b) granting limited exemptions under section 11(1):
-  (c) specifying for the purposes of section 21 the circumstances that will, or will not, be treated as involving a change in the operator of a wine standards management plan:
-  (d) specifying matters in relation to the amendment of wine standards management plans under section 22, including specifying the kinds of changes that do or do not constitute an amendment requiring registration, and specifying the amount of notice of a future amendment that may be required:
-  (e) specifying matters in relation to the updating of wine standards management plans under section 23:
-  (f) notifying requirements in relation to the termination of contracts with recognised management plan verifiers or recognised verifying agencies under section 82Y:
-  (g) specifying matters of detail in relation to wine standards in accordance with subpart 2 of Part 2:
-  (h) exempting under section 39 any particular consignment or wine or person, or class of consignments, wine, or persons, from the export requirements of subpart 3 of Part 2:
-  (i) specifying particulars to be shown on any of the registers required to be kept by this Act:
-  (j) setting specifications and providing matters of detail in relation to export eligibility requirements:
-  (k) notifying overseas market access requirements, and the manner in which they may or must be met:
-  (l) setting specifications in relation to the issue and control of official assurances under subpart 3 of Part 2:
-  (m) specifying matters in relation to the obtaining of official assurances:
-  (n) specifying requirements and procedures for the recognition and renewal of recognition of agencies, persons, and classes of persons under sections 70 to 82Z:
-  (na) prescribing competencies, qualifications, experience, or other requirements that must be met—
-    (i) in order for a person to be recognised as a recognised agency or a recognised person under sections 70 to 82Z:
-    (ii) in order for a class of persons to be recognised as a recognised class under sections 70 to 82Z:
-    (iii) by a recognised agency, recognised person, or recognised class:
-  (nb) prescribing performance standards or other requirements that must be met by a recognised agency when it is managing or carrying out, or a recognised person or recognised class when it is carrying out, its specified functions and activities:
-  (o) specifying the value to be attributed to any component of a formula of a kind referred to in section 85(b) that determines fees or charges:
-  (p) specifying records and other information to be kept and returns to be made by any person for the purposes of section 112.
-(2) Any notice under subsection (1) must be notified in accordance with section 116.
-(3) A notice under subsection (1)﻿(o) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(1) The Director-General may issue notices under this subsection to do anything that a provision of this Act permits to be done by notice under this subsection.
+(2) The Director-General may issue notices under this subsection to prescribe matters,—
+  (a) if a provision of this Act refers to regulations and supplementary notices (for example by requiring something to be done in accordance with regulations and any supplementary notice), to supplement those regulations; or
+  (b) if the regulations permit supplementary notices to be made to supplement provisions of the regulations, to supplement those provisions of the regulations.
+(3) The Director-General must not issue a notice under subsection (2) unless satisfied that the notice—
+  (a) sets out matters of detail to elaborate on matters provided for in the regulations; or
+  (b) sets out procedures, methodologies, forms, or other matters of an administrative nature relating to matters provided for in the regulations; or
+  (c) sets out how requirements imposed by the regulations may or must be met; or
+  (d) otherwise supplements matters of general principle set out in the regulations.
+(4) If a provision of this Act requires the Minister to be satisfied of any matter before recommending the making of regulations, the Director-General may not issue a notice under subsection (2) to supplement those regulations unless the Director-General is satisfied of that matter.
+(5) A notice may—
+  (a) apply generally, or in relation to any specified, or specified class of, wine, persons, businesses, activities, or other matters or things:
+  (b) make the same provision for all cases or different provisions for different cases, or classes of case:
+  (c) impose any conditions, restrictions, or prohibitions.
+(6) If a notice issued under this section is inconsistent with the regulations, the regulations prevail to the extent of the inconsistency.
+(7) A notice issued under this section must be notified in accordance with section 116.
+
+### 120A Application of Legislation Act 2012 to notices
+(1) The following notices issued under section 120(1) are neither disallowable instruments nor legislative instruments for the purposes of the Legislation Act 2012 and do not have to be presented to the House of Representatives under section 41 of that Act:
+  (a) a notice issued for the purposes of section 41:
+  (b) a notice that—
+    (i) is issued for the purposes of section 11, 21, 39, or 82Y; and
+    (ii) applies only to a named person.
+(2) Any other notice issued under section 120(1), and any notice issued under section 120(2), is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 121 Incorporation of material by reference into regulations, notices, and orders
 (1) The following material may be incorporated by reference into any regulations, notice, or order (all referred to in this section as instruments) made or given under this Act:
   (a) standards, requirements, or recommended practices published by or on behalf of any body or person in New Zealand or in any other country:
-  (b) standards or requirements of international or national organisations:
-  (c) standards or requirements of any country or jurisdiction:
+  (b) standards, requirements, or recommended practices of international or national organisations:
+  (c) standards, requirements, or recommended practices of any country or jurisdiction:
   (d) any other material that, in the opinion of the Minister (or, as appropriate, the Director-General), is too large or impractical to be printed as part of the instrument concerned.
 (2) Any such material may be incorporated in an instrument in whole or in part, and either unmodified or with such additions, omissions, or variations as are specified in the instrument.
 (3) Any such material so incorporated by reference in an instrument is to be treated for all purposes as forming part of that instrument.
-(4) If any amendment to or updating of material incorporated by reference under this section is made, that amendment or updating—
+(3A) Every reference in an instrument to the current edition of any standard work of reference is, unless the instrument otherwise specifies, to be construed at any particular time as the latest edition of that work available at that time, together with any amendments, additions, and deletions made to or from it up to that time.
+(4) If any amendment to or updating of material incorporated by reference under this section (other than a standard work of reference) is made, that amendment or updating—
   (a) does not take effect unless specified in the instrument concerned; and
   (b) does not take effect until the date specified for that purpose in the instrument concerned.
-(5) The Director-General must—
-  (a) make available for inspection free of charge, at the head office of the Ministry and at such other places as the Director-General determines as necessary or appropriate, copies of all material incorporated in an instrument by reference under this section; and
-  (b) either make copies of that material available for purchase, at a reasonable cost, or advise where copies of the material may be obtained.
+(5) A standard work of reference is a work of reference that the Director-General considers is accepted internationally or by an industry as a standard one to refer to on its subject matter.
+
+### 121A Availability and proof of material incorporated by reference
+(1) If material (other than a standard work of reference) is incorporated by reference in an instrument under section 121, a copy of the material and any amendment to, or update of, the material must be—
+  (a) certified as a correct copy of the material by the Director-General; and
+  (b) retained by the Director-General.
+(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the instrument of that material.
+(3) The Director-General must—
+  (a) make copies of all material incorporated in an instrument by reference available for inspection, free of charge, at the head office of the Ministry and at other places that the Director-General determines are appropriate; and
+  (b) make copies of the material available, free of charge, on an Internet site maintained by or on behalf of the Ministry; and
+  (c) either make copies of the material available for purchase, at a reasonable cost, or advise where copies of the material may be obtained.
+(4) The Director-General may comply with subsection (3)﻿(b) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry to a copy of the material that is available, free of charge, on an Internet site maintained by or on behalf of someone else.
+(5) The Director-General is not required to comply with subsection (3)﻿(b) or (c) if doing so would infringe copyright in the material or be inconsistent with any other enactment or rule of law.
+
+### 121B Application of Legislation Act 2012 to incorporating instrument and incorporated material
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in an instrument under section 121 or to an amendment to, or update of, that material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to an instrument that incorporates material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in an instrument to be presented to the House of Representatives.
 
 **Repeals, amendments, savings, and transitional provisions**
 
@@ -1810,6 +2206,68 @@ The Wine Makers Regulations 1990 (SR 1990/77) are revoked, subject to section 12
 
 ### 132 Transitional provisions relating to fees
 Despite section 86(1)﻿(a), regulations under this Act may set a fee, charge, or levy that applies in the financial year commencing on 1 July 2003, even if the regulations are not made before the commencement of that year.
+
+## Schedule 1 — Transitional, savings, and related provisions relating to amending Acts
+
+### Part 1 — Provisions relating to Food Safety Law Reform Act 2018
+
+### 1 Operator of existing WSMP to provide information now required with application to register plan
+(1) The Director-General may, by notice under section 120(1), require operators of existing WSMPs to provide all or part of the additional information to the Director-General in the manner and within the period specified in the notice.
+(2) The operator must provide the information as required by the notice.
+(3) If the operator fails to do so, the Director-General may—
+  (a) suspend operations under the existing WSMP in accordance with section 24; or
+  (b) remove the existing WSMP from the register in accordance with section 25.
+(4) For the purposes of subclause (3), sections 24(1)﻿(c) and 25(1)﻿(ba) are to be read as including a reference to suspension or removal under this clause.
+(5) This clause is repealed on the date that is 2 years after the commencement date.
+(6) In this clause,—
+  - **additional information** means information or material that the operator of the existing WSMP—
+    (a) has not provided to the Director-General; and
+    (b) would have been required by section 18 to provide with an application for registration of the existing WSMP had the application been made on the day on which the relevant notice under subclause (1) was issued
+  - **commencement date** means the date on which section 187 of the Food Safety Law Reform Act 2018 comes into force
+  - **existing WSMP** means a wine standards management plan that was registered before the commencement date.
+
+**Saving of notices issued by Director-General**
+
+### 2 Interpretation
+In this clause and clauses 3 to 5,—
+  - **4-year date** means the date that is 4 years after the commencement date
+  - **commencement date** means the date on which section 249 of the Food Safety Law Reform Act 2018 comes into force
+  - **existing notice** means a notice that was issued by the Director-General under this Act and was in force immediately before the commencement date
+  - **new section 120** means section 120 as inserted by section 249 of the Food Safety Law Reform Act 2018.
+
+### 3 Saving of notices where empowering provisions continued or replaced
+(1) This clause applies to an existing notice (a continuing notice)—
+  (a) that was made only under 1 or more of the following:
+    (i) section 120(1)﻿(b) (for section 11):
+    (ii) section 120(1)﻿(j)(for sections 38 and 40(b)﻿(i)):
+    (iii) section 120(1)﻿(h) (for section 39):
+    (iv) section 120(1)﻿(k) (for section 41):
+    (v) section 120(1)﻿(l) and (m) (for sections 43, 44, and 45):
+    (vi) section 120(1)﻿(i) (for section 47):
+    (vii) section 120(1)﻿(o) (for section 88(5)):
+    (viii) section 120(1)﻿(p) (for section 112); or
+  (b) that is declared by Order in Council under clause 5 to be a continuing notice.
+(2) A continuing notice continues in force as if it were a notice issued under new section 120(1) or (2) (as the case requires) for the purposes of,—
+  (a) if the provision for the purposes of which it was made remains in force (with or without modifications), that provision; or
+  (b) otherwise, the provision of the Act that, with or without modification, replaces or corresponds to the provision for the purposes of which it was made.
+(3) A continuing notice may be amended or revoked as if it were a notice issued under new section 120(1) or (2) (as the case requires).
+
+### 4 Transitional arrangement for other notices
+(1) This clause applies in relation to an existing notice that is not a continuing notice.
+(2) Until the 4-year date, a notice to which this clause applies—
+  (a) continues in force as if—
+    (i) it were a notice issued under new section 120(1) or (2) (as the case requires); and
+    (ii) the provision for the purposes of which it was made had not been amended or repealed by Part 3 of the Food Safety Law Reform Act 2018; and
+  (b) may be amended or revoked by the Director-General by notice under section 120 as in force immediately before the commencement date as if Part 3 of the Food Safety Law Reform Act 2018 had not commenced; and
+  (c) may be revoked by the Director-General by notice under new section 120 or by the regulations.
+(3) On the 4-year date, any notice to which this clause applies that remains in force is revoked.
+
+### 5 Order in Council declaring notices to be continuing notices
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare an existing notice, or a class of existing notices, to be a continuing notice or notices for the purposes of clause 3.
+(2) The Minister may not recommend the making of an order under this clause unless satisfied that, for each notice to which the order applies, there is an enactment in this Act as amended by the Food Safety Law Reform Act 2018—
+  (a) that, with or without modification, replaces or corresponds to the enactment under which the notice was made; and
+  (b) under which the notice could be made.
+(3) An Order in Council cannot be made under this clause on or after the 4-year date.
 
 ## Schedule 1 — Form of search warrant
 
