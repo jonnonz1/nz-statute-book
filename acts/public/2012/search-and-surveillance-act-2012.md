@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2017-12-21_
+_Consolidation as at 2018-03-02_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3662,7 +3662,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 308 | Food safety officer may ask about documents, etc | Subpart 5 of Part 4 |
 |  | 309 | Food safety officer must identify himself or herself | Section 131 |
 |  | 311 | Food safety officer may enter places without search warrant | Part 4 (other than subparts 2, 3, 6, and 8 and sections 118 and 119) |
-|  | 322 | Requirements about applications for search warrant | Sections 98 to 100 |
+|  | 322 | Constable or food safety officer may apply for warrant | Sections 98 to 100 |
 |  | 323 | Issuing officer's power to issue search warrant | Sections 102 to 104 and 107, and subpart 5 of Part 4 |
 |  | 325 | How search warrant can be transmitted | Section 105 |
 |  | 326 | Search powers under warrant | Section 110 |
