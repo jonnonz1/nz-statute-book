@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2017-12-21_
+_Consolidation as at 2018-03-02_
 
 > Title
 
@@ -52,11 +52,14 @@ _Consolidation as at 2017-12-21_
     (ha) section 105C of the Credit Contracts and Consumer Finance Act 2003; or
     (i) section 162 of the Animal Welfare Act 1999; or
     (j) section 357 of the Gambling Act 2003; or
-    (ja) section 235A of the Employment Relations Act 2000; or
+    (jaa) section 235A of the Employment Relations Act 2000; or
     (ja) section 74 of the Psychoactive Substances Act 2013; or
     (jb) section 138 of the Health and Safety at Work Act 2015; or
     (jba) section 82 of the Outer Space and High-altitude Activities Act 2017; or
     (jc) section 153 of the Fire and Emergency New Zealand Act 2017; or
+    (jca) section 219 of the Food Act 2014; or
+    (jd) section 125B of the Animal Products Act 1999; or
+    (je) section 96B of the Wine Act 2003; or
     (k) any provision of any other Act providing for the use of the infringement notice procedure under section 21
   - **infringement offence** means any offence under any Act in respect of which a person may be issued with an infringement notice
   - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
