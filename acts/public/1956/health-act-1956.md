@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-03-02_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -1690,7 +1690,7 @@ The Director-General may, for the purpose of protecting the public, publish stat
 ### 69ZZZE Relationship between this Part and other enactments
 This Part does not apply to any water—
   (a) supplied for food preparation use that is regulated under the Food Act 2014; or
-  (b) that is subject to regulations or specifications made or issued under the Animal Products Act 1999 or the Wine Act 2003.
+  (b) that is subject to regulations or notices made or issued under the Animal Products Act 1999 or the Wine Act 2003.
 
 ## Part 3 — Infectious and notifiable diseases
 
