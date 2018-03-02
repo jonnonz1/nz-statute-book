@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-03-02_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -322,12 +322,18 @@ This Act binds the Crown.
   (c) does not include—
     (i) any tobacco; or
     (ii) any cosmetics; or
-    (iii) any substances used only as medicines (within the meaning of the Medicines Act 1981), any controlled drugs (within the meaning of the Misuse of Drugs Act 1975), or any psychoactive substance (within the meaning of the Psychoactive Substances Act 2013); or
+    (iii) any substance that—
+      (A) is used only as a medicine or is a controlled drug or psychoactive substance; but
+      (B) is not the subject of a declaration referred to in paragraph (b)﻿(vii); or
     (iv) any inedible food-related accessory; or
     (v) anything that is declared by the Governor-General, by Order in Council made under section 393, not to be food for the purposes of this Act.
 (2) To avoid doubt, neither subsection (1)﻿(b)﻿(iv) nor (v) requires any ingredient or other constituent of any food or drink or anything that is or is intended to be mixed with or added to any food or drink to comply, on its own, with the applicable requirements of this Act that specifically relate to food in its final consumable form.
 (3) However, the food in its final consumable form must still comply with the applicable requirements of this Act.
-(4) In this section, animal has the meaning given to it by section 4(1) of the Animal Products Act 1999.
+(4) In this section,—
+  - **animal** has the meaning given by section 4(1) of the Animal Products Act 1999
+  - **controlled drug** has the meaning given by section 2 of the Misuse of Drugs Act 1975
+  - **medicine** has the meaning given by section 3 of the Medicines Act 1981
+  - **psychoactive substance** has the meaning given by section 9 of the Psychoactive Substances Act 2013.
 
 **Meaning of food business**
 
@@ -468,6 +474,7 @@ In achieving the purpose of this Act, the Minister, the chief executive, and all
   (h) dealing with applications for registration by importers; and
   (i) establishing and maintaining the public registers; and
   (j) monitoring compliance with the applicable requirements of this Act; and
+  (ja) undertaking contingency planning for incidents that may affect the safety and suitability of food; and
   (k) monitoring and implementing the enforcement system under this Act and working collaboratively with territorial authorities and other regulatory bodies; and
   (l) co-ordinating the response to emergencies that may undermine the purpose of this Act; and
   (m) conducting, on application, reviews of certain decisions made by relevant territorial authorities or designating the persons to conduct those reviews; and
@@ -712,7 +719,9 @@ A food control plan is a plan designed for a particular food business to identif
 (7) This section does not limit or affect section 45.
 
 ### 41 Food control plan: form
-A food control plan must be in writing in a form acceptable to the appropriate registration authority for the plan.
+A food control plan must be in writing and—
+  (a) be submitted for registration in a form acceptable to the appropriate authority; and
+  (b) comply with the requirements of this Act.
 
 ### 42 Food control plan: contents
 A food control plan must set out—
@@ -737,15 +746,16 @@ A food control plan must set out—
     (v) corrective actions; and
     (vi) operator verification activities; and
     (vii) document control and record keeping; and
+  (ha) if subpart 1 of Part 3A applies, any matters relating to the tracing of food and recall of food that are required by any regulations made under section 133C and any notice under section 405; and
   (i) any validation information as appropriate; and
   (j) any other matters that may be specified in regulations or in notices under section 405.
 
-### 43 Regulations about food control plans
+### 43 Regulations and notices about food control plans
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) stating matters relating to the content and purpose of a food control plan for the food sectors referred to in section 21(3)﻿(a):
   (b) prescribing controls, restrictions, requirements, and prohibitions in relation to a food sector, including provisions about how a food sector must manage or deal with risks that arise from trading in food:
-  (c) prescribing verification requirements, including provisions that deal with the frequency, intensity, and cost of verification:
-  (d) prescribing requirements for the registration of food control plans and providing for the manner and form in which a person must register a food control plan:
+  (c) requiring a food control plan to be differentiated from other information kept by the operator and prescribing how this must be done:
+  (d) prescribing requirements for the registration of food control plans, including the manner and form in which the operator must provide the food control plan for registration:
   (e) prescribing conditions, or restrictions on conditions, that the registration authority may impose on the registration of a food control plan:
   (f) prescribing requirements for the validation and evaluation of food control plans:
   (g) providing for any other matters that may be necessary or desirable to give effect to or to administer the registration of food control plans:
@@ -756,6 +766,10 @@ A food control plan must set out—
   (l) prescribing requirements relating to the safety and suitability of food and to good operating practice:
   (m) prescribing any other matters that may be necessary for the purpose of giving effect to the implementation of food control plans.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) The chief executive may, by notice under section 405,—
+  (a) set requirements as to how persons who operate under food control plans are to demonstrate competency (in relation to the safety and suitability of food, food production, and food processing and handling), the appropriate training for those persons, and the staff training to be provided:
+  (b) set requirements for the validation and evaluation of food control plans:
+  (c) supplement regulations made under this section.
 
 **Amendments to food control plans**
 
@@ -853,14 +867,17 @@ If there is any inconsistency between the requirements of a registered food cont
   (c) be accompanied by the fee (if any) that is prescribed or set under section 204 or 205.
 (2) For a food control plan that is based on an official template or model, the information referred to in subsection (1)﻿(b) is—
   (a) the information required under section 42(a) to (e) that provides a comprehensive and accurate representation of all the requirements of those paragraphs; and
-  (b) the reference number of the official template or model used; and
-  (c) confirmation of the verifier or verification agency that will carry out verification functions in respect of the plan.
+  (b) the reference number of the official template or model; and
+  (c) confirmation of the operator’s verifier or verification agency.
 (3) For a food control plan that is not based on an official template or model, the information referred to in subsection (1)﻿(b) is—
   (a) either of the following:
     (i) the information required under section 42(a) to (e) and (h)﻿(ii) that provides a comprehensive and accurate representation of all the requirements of those paragraphs and a list of the contents of the food control plan:
     (ii) a copy of the entire food control plan; and
-  (b) unless waived by the chief executive on a case-by-case basis or by notice under section 405, a report of an independent evaluation, carried out not more than 6 months before the date of the application for registration, of the validity of the food control plan in terms of sections 41 and 42; and
+  (b) unless waived under subsection (4), a report of an independent evaluation, carried out not more than 6 months before the date of the application for registration, of the validity of the food control plan in terms of sections 41 and 42; and
   (c) confirmation of the verifier or verification agency that will carry out verification functions in respect of the plan.
+(4) The chief executive may waive the requirement to provide an independent evaluation of the validity of a food control plan—
+  (a) on a case-by-case basis; or
+  (b) by notice under section 405.
 
 ### 54 Registration authority may refuse to process application for registration
 The registration authority may refuse to process an application for registration if the applicant does not provide an application that complies with section 53.
@@ -880,7 +897,8 @@ The registration authority must register a food control plan if satisfied that�
     (ii) if the plan applies to more than 1 food business, every operator of the food businesses and the operator of the plan are New Zealand residents within the meaning of either of those sections of that Act; and
   (d) either,—
     (i) if the plan applies to 1 food business, the operator of the food business is able to comply with the requirements of this Act; or
-    (ii) if the plan applies to more than 1 food business, every operator of the food businesses and the operator of the plan are able to comply with the requirements of this Act.
+    (ii) if the plan applies to more than 1 food business, every operator of the food businesses and the operator of the plan are able to comply with the requirements of this Act; and
+  (e) the plan is clear enough to be readily understood by the operator, the relevant registration authority, and the operator’s verifier or verification agency.
 
 ### 57 Refusal to register food control plan
 (1) If the registration authority proposes to refuse to register a food control plan, the registration authority must give the applicant—
@@ -896,7 +914,9 @@ The registration authority must register a food control plan if satisfied that�
   (a) before the significant change in circumstances occurs; or
   (b) if compliance with paragraph (a) is not practicable, as soon as practicable after the significant change in circumstances occurs but, in any event, not later than 10 working days after the change occurs.
 (3) In this section, significant change in circumstances means—
-  (a) any change in the information that the applicant has provided in respect of the application for registration of the food control plan under section 53 in respect of the information required under section 42(a) to (e) and under section 55:
+  (a) if the application is for registration of a food control plan under section 53(3), any change in the information that the applicant—
+    (i) has provided in the food control plan to meet the requirements of section 42(a) to (e):
+    (ii) has provided under section 55:
   (b) any change in the procedures set out in the food control plan that relate to the matters referred to in section 42(h)﻿(ii):
   (c) any matter that results in the food control plan not meeting the criteria under section 56.
 
@@ -930,6 +950,11 @@ The registration authority must register a food control plan if satisfied that�
   (c) is surrendered under section 71.
 (3) The registration may be renewed for further periods in accordance with Part 2 of Schedule 4.
 
+### 61A Clarity of food control plans not based on official template or model
+If a registration authority considers that a food control plan that is not based on an official template or model does not comply with section 56(e),—
+  (a) the authority may require the operator of the plan to amend the plan to comply with section 56(e); and
+  (b) the operator must amend the plan accordingly within 6 months after the date the operator received the authority’s requirement to amend the plan.
+
 **Suspension of operations under registered food control plan**
 
 ### 62 Mandatory suspension
@@ -937,7 +962,8 @@ The registration authority must register a food control plan if satisfied that�
   (a) the food control plan may not be, or is no longer, effective (for example, because of a failure to have the plan verified in accordance with the applicable requirements of this Act); or
   (b) the food traded under the food control plan does not meet, or no longer meets, the applicable requirements of this Act; or
   (c) the food traded under the food control plan may pose a risk to human life or public health; or
-  (d) there is or has been a serious failure of operations or there are or have been other matters (including non-compliance with the conditions of registration) under the plan that cast doubt on the safety and suitability of food traded under it.
+  (d) there is or has been a serious failure of operations or there are or have been other matters (including non-compliance with the conditions of registration) under the plan that cast doubt on the safety and suitability of food traded under it; or
+  (e) in the case of a registered food control plan that is not based on an official template or model, the operator has failed to comply with a requirement under section 61A.
 (2) The maximum period of suspension under this section is 3 months.
 
 ### 63 Registration authority may extend mandatory suspension
@@ -986,7 +1012,8 @@ The registration authority must register a food control plan if satisfied that�
     (i) surrendered the registration of the plan; or
     (ii) failed to surrender the registration of the plan despite reasonable efforts by the registration authority to contact the operator; or
   (f) the operator of the plan has transferred the food business covered by the plan to a new operator, but the registration authority is not satisfied of the matters in section 56(c) or (d) in relation to the new operator; or
-  (g) the operator of the plan has failed to pay any fees or charges imposed or prescribed by or under this Act or any regulations made under this Act (excluding any infringement fee).
+  (g) the operator of the plan has failed to pay any fees or charges imposed or prescribed by or under this Act or any regulations made under this Act (excluding any infringement); or
+  (h) in the case of a registered food control plan that is not based on an official template or model, the operator has failed to comply with a requirement under section 61A.
 (2) If the registration authority decides to cancel the registration of a food control plan, the registration authority—
   (a) must, as soon as practicable, give written notice of the cancellation to—
     (i) the appropriate verifier or verification agency (if any); and
@@ -1030,21 +1057,21 @@ The purpose of this subpart is to set out provisions about the nature, content, 
 
 ### 74 National programme: general description
 (1) A national programme is a programme designed to identify, control, manage, and eliminate or minimise hazards or other relevant factors for the purpose of achieving safe and suitable food by—
-  (a) imposing controls on a food business in relation to matters such as (without limitation) good operating practice, documentation requirements, verification requirements, and registration requirements; and
+  (a) imposing controls on a food business in relation to matters such as (without limitation) good operating practice, documentation requirements, verification requirements, registration requirements, and traceability and recall requirements; and
   (b) managing the relevant risks in a manner that ensures the level of control placed on food businesses in a food sector is, among other things, proportional to the level of risk that the food sector generally poses to public health.
 (2) A national programme must require every person or food business that is subject to it to comply with the applicable requirements of this Act.
 (3) A national programme may be 1 of the 3 levels specified in section 21(3)﻿(b) and each of those levels may differ in the level of control or the set of requirements that it imposes, depending on how high or low the level is.
 (4) Accordingly, a level 3 national programme generally imposes a higher level of control on a food business than a level 2 or level 1 national programme, and a level 2 national programme generally imposes a higher level of control than a level 1 national programme.
 
 ### 75 How national programme may be imposed
-(1) A national programme may be imposed by regulations made under section 76 and, if required, supplemented by specifications set by the chief executive by notice under section 405.
-(2) Any regulations or specifications referred to in subsection (1) may—
+(1) A national programme may be imposed by regulations made under section 76.
+(2) Any regulations made under section 76 or notice referred to in section 76(3) may—
   (a) apply to particular food businesses or food sectors or to classes of food businesses or food sectors:
   (b) specify different requirements for different food businesses or food sectors or different classes of food businesses or food sectors:
   (c) make different provision for different food businesses or food sectors or classes of food businesses or food sectors.
 (3) To avoid doubt, section 405(3) applies if the chief executive issues a notice setting specifications for the purposes of subsection (1).
 
-### 76 Regulations about national programmes
+### 76 Regulations and notices about national programmes
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) prescribing controls, restrictions, requirements, and prohibitions in relation to a food sector, including provisions about how a food sector must manage or deal with risks that arise from trading in food:
   (b) prescribing verification requirements, including provisions that deal with the frequency, intensity, and cost of verification:
@@ -1059,14 +1086,18 @@ The purpose of this subpart is to set out provisions about the nature, content, 
   (k) prescribing any other matters that may be necessary to ensure that a national programme effectively minimises and manages risks to public health and protects and promotes public health:
   (l) prescribing any other matters that may be necessary for the purpose of giving effect to a national programme.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) The chief executive may, by notice under section 405,—
+  (a) set requirements as to how persons who operate under national programmes are to demonstrate competence (in relation to the safety and suitability of food, food production, and food processing and handling), the appropriate training for those persons, and the staff training to be provided; and
+  (b) specify information or other material (including any declarations) that must be provided in an application for registration; and
+  (c) supplement regulations made under this section.
 
 ### 77 National programme not invalid on certain grounds
 A national programme may not be held invalid merely because it—
   (a) confers any discretion on, or allows any matter to be determined or approved by, the Minister, the chief executive, the registration authority, or any food safety officer; or
   (b) allows the Minister or the chief executive to impose specifications or other requirements as to the performance of any activities.
 
-### 78 Requirements of national programme to prevail in cases of inconsistency with other regulations or specifications made under this Act
-If there is any inconsistency between the requirements of a national programme and the provisions of any other regulations or specifications made under this Act, the requirements of the national programme prevail.
+### 78 Requirements of national programme to prevail in cases of inconsistency with other regulations or notices made under this Act
+If there is any inconsistency between the requirements of a national programme and the provisions of any other regulations or notices made under this Act, the requirements of the national programme prevail.
 
 **Requirement for food businesses subject to national programme to register**
 
@@ -1112,7 +1143,7 @@ An application for registration must—
   (f) include the position or designation of the person who is responsible for the day-to-day management of the food business, as nominated by the person in control of the food business; and
   (g) include the scope of the operations of the food business; and
   (h) include confirmation of the verifier or verification agency that will carry out the verification functions in respect of the food business; and
-  (i) include any further information or other material (including declarations, if appropriate) that may be required by notice under section 405 or by regulations made under this Act; and
+  (i) include any further information or other material (including declarations, if appropriate) that may be required by any regulations made under this Act or any notice under section 405; and
   (j) be accompanied by the fee (if any) that is prescribed or set under section 204 or 205.
 
 ### 84 Registration authority may refuse to process application for registration
@@ -1257,7 +1288,7 @@ A monitoring programme must specify its purpose, and may—
   (e) provide for technical matters and specifications and matters of detail:
   (f) authorise or provide for operational matters to give effect to the monitoring programme (for example, periodic sampling plans).
 
-### 103 Regulations about monitoring programmes
+### 103 Regulations and notices about monitoring programmes
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for 1 or both of the following purposes:
   (a) prescribing 1 or more monitoring programmes:
   (b) authorising the chief executive to exempt, after taking into account the matters specified in subsection (2), any person or group of persons from compliance with, or from the application of, any provisions of a monitoring programme.
@@ -1272,6 +1303,7 @@ A monitoring programme must specify its purpose, and may—
     (ii) the relative cost of having the monitoring programme or not having it, and who bears the cost:
     (iii) any other matters that the Minister considers relevant; and
   (d) be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(4) The chief executive may, by notice under section 405, supplement regulations made under this section.
 
 ### 104 Chief executive may specify certain matters by notice
 (1) For the purpose of giving effect to a monitoring programme, the chief executive may, by notice under section 405, specify the following matters that are necessary to give effect to the matters provided for in section 102:
@@ -1283,8 +1315,8 @@ A monitoring programme must specify its purpose, and may—
   (f) reporting:
   (g) provision of information:
   (h) surveillance and the consequences of surveillance.
-(2) The chief executive may, by notice under section 405, supplement any regulations referred to in section 103 by providing for any other matters necessary to give effect to the monitoring programme that have not been provided for by the regulations.
-(3) A notice referred to in subsection (1) or (2) must not be inconsistent with the regulations.
+(2)
+(3) A notice referred to in subsection (1) must not be inconsistent with the regulations.
 
 ### 105 Monitoring programme not invalid on certain grounds
 A monitoring programme may not be held invalid merely because it—
@@ -1334,8 +1366,8 @@ In this Part, a reference to food imported for the purpose of sale includes a re
 (1) An importer of food for the purpose of sale must—
   (a) ensure that the importer’s operations comply with any applicable requirements of this Act; and
   (b) import only food that meets all applicable requirements of this Act; and
-  (c) maintain procedures and processes to demonstrate that the record-keeping requirements of this Act in relation to the source or traceability and processing and handling of the food imported by the importer are being complied with; and
-  (d) comply with section 294 and comply with section 295, which, if the importer's food business is not operating under a risk-based measure, applies as if the reference to a recognised person (other than a verifier) were a reference to any recognised person (including a verifier).
+  (c) maintain procedures and processes to demonstrate that the record-keeping requirements of this Act in relation to the traceability and processing and handling of the food imported by the importer are being complied with; and
+  (d) comply with section 294 and comply with section 295, which, if the importer's food business is not operating under a risk-based measure, applies as if the reference to a recognised person or recognised agency (other than a verifier or verification agency) were a reference to any recognised person or recognised agency (including a verifier or verification agency).
 (2) To avoid doubt, subsection (1) applies whether or not the importer is registered under this Act.
 
 ### 111 Duty of registered importer
@@ -1490,6 +1522,55 @@ A surrender takes effect—
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
   (a) by using the JBMS; or
   (b) by using another means for the time being generally or specifically approved in writing by the chief executive.
+
+## Part 3A — Tracing, recall, and verification
+
+### Subpart 1 — Tracing and recall
+
+### 133A Application of this subpart
+This subpart applies to a person who—
+  (a) trades in food; and
+  (b) is specified by regulations made under section 133C(1)﻿(a) as a person to whom this subpart applies.
+
+### 133B Tracing and recall
+A person to whom this subpart applies must, in accordance with any regulations made under section 133C and any notice under section 405,—
+  (a) have in place procedures for—
+    (i) tracing food; and
+    (ii) recalling food; and
+  (b) conduct simulations or other tests of those procedures; and
+  (c) implement those procedures to trace and recall food.
+
+### 133C Regulations and notices relating to tracing and recall of food
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  (a) specifying a person who trades in food as a person to whom this subpart applies:
+  (b) setting requirements that apply to that person in relation to—
+    (i) the content of procedures referred to in section 133B(a); and
+    (ii) the conducting of simulations and other tests of those procedures; and
+    (iii) the implementation of those procedures to trace food and recall food:
+  (c) specifying matters in relation to tracing and recall that must be included (if applicable) in a food control plan or a national programme.
+(2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) The chief executive may, by notice under section 405, supplement regulations made under this section.
+
+### Subpart 2 — Verification
+
+### 133D Application
+This subpart applies to a person who—
+  (a) trades in food; and
+  (b) is specified by regulations made under section 133F(1)﻿(a) as a person to whom this subpart applies.
+
+### 133E Verification
+A person to whom this subpart applies must ensure that the person’s operations are verified in accordance with any regulations made under section 133F and any notice under section 405.
+
+### 133F Regulations and notices relating to verification
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  (a) specifying a person who trades in food as a person to whom this subpart applies:
+  (b) specifying the operations or the part of the person’s operations that must be verified:
+  (c) prescribing requirements relating to the exercise, carrying out, and managing of verification functions and activities:
+  (d) specifying matters in relation to verification that must be included in a food control plan.
+(2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) The chief executive may, by notice under section 405,—
+  (a) prescribe requirements relating to the verification of those operations, including requirements relating to the frequency, intensity, and cost of verification; and
+  (b) supplement regulations made under this section.
 
 ## Part 4 — Provisions relating to recognition, territorial authorities, administration, and enforcement
 
@@ -1745,6 +1826,10 @@ Nothing in section 155 or 156 prevents a recognised agency or a recognised perso
   (a) in the agency's or person's capacity as a recognised agency or a recognised person; or
   (b) while purporting to act as a recognised agency or a recognised person.
 
+### 157A Recognised agency and recognised person accountable to chief executive
+(1) A recognised agency is, in carrying out its specified functions and activities in relation to a food business, accountable to the chief executive.
+(2) A recognised person is, in carrying out his or her specified functions and activities in relation to a food business, accountable to the chief executive.
+
 **Suspension of recognition**
 
 ### 158 Suspension of recognition of recognised agency, etc
@@ -1938,16 +2023,17 @@ If the chief executive is required to consult a person or a category or class of
 (6) If a territorial authority contracts out 1 or more of its functions, it continues to have responsibility for that function.
 
 ### 174 Duties of territorial authority
-A territorial authority must—
+(1) A territorial authority must—
   (a) take all reasonable steps to ensure it has adequate resources and capability to carry out its role, functions, and duties and to exercise its powers under this Act:
   (b) take all reasonable steps to ensure its functions, duties, and powers under this Act are managed, performed, and exercised in accordance with any relevant national outcomes issued under section 175:
   (c) take all reasonable steps to ensure that relevant persons who are employed or engaged by the territorial authority are able to carry out their functions and activities under this Act, including verification, investigation, and enforcement activities:
   (d) take all reasonable steps to ensure that relevant persons who are employed or engaged by the territorial authority for the purposes of this Act maintain their competencies:
   (e) take all reasonable steps to ensure that any person who is employed, engaged, or used by the territorial authority is not placed in a situation that compromises his or her impartiality or independence in relation to the performance of his or her functions or activities under this Act:
-  (f) monitor its performance of its functions and duties and its exercise of its powers under this Act and provide written reports on these matters to the chief executive annually or at intervals specified in a notice under section 405 (which reports must include any details specified in the notice under that section):
+  (f) monitor its performance of its functions and duties and its exercise of its powers under this Act and provide written reports on these matters to the chief executive annually or at intervals specified in a notice referred to in subsection (2):
   (g) provide capability to respond as required in an emergency situation:
   (h) if it is being reviewed under section 185, facilitate the conduct of the review and provide any information required under section 189 by the person conducting the review:
   (i) carry out any other function, duty, or direction imposed or given by or under this Act.
+(2) The chief executive may, by notice under section 405, specify the intervals at which the reports required by subsection (1)﻿(f) must be provided and any details to be included in the reports.
 
 **National outcomes for territorial authorities**
 
@@ -2227,7 +2313,9 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (c) differ for otherwise similar services provided in different ways:
   (d) differ for otherwise similar services provided to different categories of persons:
   (e) differ depending on the amount of service required or the components of the service required for the particular person or class of persons.
-(5) If regulations prescribe a formula for determining a fee or charge, the formula may specify the value attributed to any component of that formula.
+(5) If regulations prescribe a formula for determining a fee or charge, the value to be attributed to a component of that formula may—
+  (a) be specified in the formula; or
+  (b) be specified by the chief executive by notice under section 405.
 (6) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 198 and 201 have been met.
 (7) This section does not limit or affect section 205.
 (8) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
@@ -3373,7 +3461,7 @@ A court may make an order under any of sections 269 to 273 in addition to, or in
 
 **Information collection by chief executive**
 
-### 292 Require production of information for purpose of determining safety and suitability of food
+### 292 Chief executive may require information from operator to determine safety and suitability of food
 (1) This section applies if the chief executive reasonably suspects that an operator of a food business has any information described in subsection (2) that the chief executive considers is necessary for the purpose of determining the safety and suitability of food to protect human life or public health.
 (2) The information referred to in subsection (1) is information about—
   (a) food or anything that may become food, or anything that has become food; or
@@ -3384,6 +3472,30 @@ A court may make an order under any of sections 269 to 273 in addition to, or in
   (b) copy the information or require a food safety officer to copy the information.
 (4) A copy made under subsection (3), certified by the chief executive or the food safety officer as a true and correct copy, is presumed to be a true and correct copy, until the contrary is proved.
 (5) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 (privilege and confidentiality) applies to requirements made, and the copying of information, under this section.
+
+### 292A Chief executive may require information to determine safety of food
+(1) This section applies if the chief executive—
+  (a) identifies that the consumption of a food may pose a serious risk of illness or injury to consumers; and
+  (b) considers that urgent action may be needed to protect consumers from that risk.
+(2) The chief executive may require a person who is not an operator of a food business to provide the information described in subsection (3) if—
+  (a) the chief executive reasonably considers the information is necessary and relevant to determine—
+    (i) the safety status of food; or
+    (ii) the extent of the risk referred to in subsection (1)﻿(a); or
+    (iii) the action needed to protect consumers from that risk; and
+  (b) the chief executive reasonably believes that the person has the information.
+(3) The information is information about—
+  (a) food or anything that may become food or anything that has become food:
+  (b) a food-related accessory used in producing or processing and handling food for sale:
+  (c) any place used for the production, processing and handling, or sale of food:
+  (d) anything that is or is likely to be a hazard.
+(4) A requirement to provide information under this section must be in writing.
+(5) The chief executive—
+  (a) may require the information to be provided to the chief executive or a food safety officer; and
+  (b) may require the information to be provided within a time specified by the chief executive; and
+  (c) may copy the information or require a food safety officer to copy the information.
+(6) A copy that is made under subsection (5) and certified by the chief executive or the food safety officer as a true and correct copy is presumed to be a true and correct copy until the contrary is proved.
+(7) No person is excused from compliance with a requirement to provide information under this section by reason only that compliance with that requirement would constitute breach of any contract or agreement.
+(8) No evidence of any information that has directly or indirectly been obtained as a result of a person’s compliance with a requirement to provide information under this section may be used against the person in any criminal proceeding, except in a criminal proceeding that concerns the falsity of the information.
 
 ### 293 Require production of information if reasonable belief that requirement of this Act has been breached
 (1) This section applies if the chief executive reasonably believes that, in breach of a requirement of this Act, a person is in possession of—
@@ -3397,44 +3509,44 @@ A court may make an order under any of sections 269 to 273 in addition to, or in
 (4) For the purposes of this section, any thing that has been seized or detained, whether under this Act or any other enactment, must be treated as being in the possession of the person who had it in his or her possession when it was seized or ordered to be detained.
 (5) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 (privilege and confidentiality) applies to requirements made, and the copying of information, under this section.
 
-**Powers of verifiers**
+**Rights of access of verifiers, verification agencies, recognised persons, and recognised agencies**
 
-### 294 Verifiers' rights of access and certain verifier powers
-(1) The operator of a food business that is operating under a risk-based measure must provide a verifier with the following:
+### 294 Rights of access and related powers and duties of verifiers and verification agencies
+(1) The operator of a food business that is operating under a risk-based measure must provide a verifier or verification agency with the following:
   (a) reasonable access to the places covered by the risk-based measure that is being verified; and
   (b) reasonable access to the risk-based measure; and
   (c) reasonable access to information about the risk-based measure; and
   (d) reasonable access to documents that are required to be kept under the risk-based measure; and
   (e) reasonable access to food and to food-related accessories that are used in connection with the risk-based measure or that ought to be used in connection with the risk-based measure.
-(2) A verifier must do the following:
-  (a) give the operator reasonable notice of the verifier's intention to carry out the verification; and
-  (b) identify himself or herself on entry to the place and when asked at any time by any person at the place.
-(3) A verifier is not required to comply with subsection (2)﻿(a) if giving notice would defeat the purpose of the particular visit.
-(4) A verifier may do 1 or both of the following if necessary for the purpose of the verification:
+(2) The following duties apply:
+  (a) a verifier or verification agency must give the operator reasonable notice of the verifier’s or verification agency’s intention to carry out the verification; and
+  (b) the verifier or each person authorised by the verification agency to carry out the verification must identify himself or herself on entry to the place and when asked at any time by any person at the place.
+(3) A verifier or verification agency is not required to comply with subsection (2)﻿(a) if giving notice would defeat the purpose of the particular visit.
+(4) A verifier or verification agency may do 1 or both of the following if necessary for the purpose of the verification:
   (a) open food-related accessories, such as containers and packages, used in connection with the risk-based measure and verify their contents:
   (b) identify or mark food and food-related accessories.
-(5) A verifier may ask an operator or another person for assistance in carrying out a verification.
+(5) A verifier or verification agency may ask an operator or another person for assistance in carrying out a verification.
 (6) A person providing assistance under subsection (5) is protected from civil and criminal liability for an act that the person does or omits to do—
-  (a) under the supervision of, and as instructed by, the verifier; and
+  (a) under the supervision of, and as instructed by, the verifier or verification agency; and
   (b) in good faith.
 (7) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 (privilege and confidentiality) applies to any information or document required to be produced under this section.
 
-### 295 Recognised persons' rights of access
-(1) The operator of a food business must provide a recognised person (other than a verifier) with the following, so as to enable the person to perform functions or duties or exercise powers:
+### 295 Rights of access and related powers and duties of recognised persons and recognised agencies
+(1) The operator of a food business must provide a recognised person or recognised agency (other than a verifier or verification agency) with the following, so as to enable the person or agency to perform functions or duties or exercise powers:
   (a) reasonable access to places used by the operator for the business; and
   (b) reasonable access to information relating to the business; and
   (c) reasonable access to documents relating to the business; and
   (d) reasonable access to food and to food-related accessories.
-(2) A recognised person must do the following:
-  (a) give the operator reasonable notice of the recognised person's intention to perform the functions or duties or exercise the powers; and
-  (b) identify himself or herself on entry to the place and when asked at any time by any person at the place.
-(3) A recognised person is not required to comply with subsection (2)﻿(a) if giving notice would defeat the purpose of the particular visit.
-(4) A recognised person may do 1 or both of the following if necessary for the purpose of performing the functions or duties or exercising the powers:
+(2) The following duties apply:
+  (a) a recognised person or recognised agency must give reasonable notice of the person's or agency’s intention to perform the functions or duties or exercise the powers; and
+  (b) the recognised person or each person authorised by the recognised agency for the purposes of paragraph (a) must identify himself or herself on entry to the place and when asked at any time by any person at the place.
+(3) A recognised person or recognised agency is not required to comply with subsection (2)﻿(a) if giving notice would defeat the purpose of the particular visit.
+(4) A recognised person or recognised agency may do 1 or both of the following if necessary for the purpose of performing the functions or duties or exercising the powers:
   (a) open food-related accessories, such as containers and packages:
   (b) identify or mark food and food-related accessories.
-(5) A recognised person may ask an operator or another person for assistance in performing the functions or duties or exercising the powers.
+(5) A recognised person or recognised agency may ask an operator or another person for assistance in performing the functions or duties or exercising the powers.
 (6) A person providing assistance under subsection (5) is protected from civil and criminal liability for an act that the person does or omits to do—
-  (a) under the supervision of, and as instructed by, the recognised person; and
+  (a) under the supervision of, and as instructed by, the recognised person or recognised agency; and
   (b) in good faith.
 (7) Subpart 5 of Part 4 of the Search and Surveillance Act 2012 (privilege and confidentiality) applies to any information or document required to be produced under this section.
 
@@ -3716,8 +3828,8 @@ A food safety officer may restrict the use of or close, a place for non-complian
 ### 320 Reasonable belief by food safety officer
 If this Act requires a food safety officer to reasonably believe something before exercising a power, it is sufficient if a more highly ranked food safety officer or the chief executive reasonably believes it and directs the food safety officer to exercise the power.
 
-### 321 Matters may be completed by different food safety officer
-(1) An action initiated or taken under this Act by a food safety officer may be completed by another food safety officer.
+### 321 Matters may be continued by different food safety officer
+(1) An action initiated or taken under this Act by a food safety officer may be continued by another food safety officer.
 (2) Without limiting subsection (1), if an officer has given any notice, authorisation, or consent under this Act (whether or not subject to conditions), any food safety officer may—
   (a) take further steps on or in relation to that notice, authorisation, or consent; or
   (b) revoke or withdraw it; or
@@ -3731,7 +3843,7 @@ If this Act requires a food safety officer to reasonably believe something befor
   (a) section 98 (application for search warrant):
   (b) section 99 (application must be verified):
   (c) section 100 (mode of application for search warrant).
-(2) An application for a search warrant is made to an issuing officer.
+(2) A constable or a food safety officer may apply to an issuing officer for a search warrant.
 
 ### 323 Issue of search warrant
 (1) This section applies if an issuing officer reasonably believes that there is, at a place, any thing—
@@ -4043,7 +4155,7 @@ Before recommending the making of regulations under section 345, the Minister mu
 
 ### 353 Chief executive may delegate
 (1) The chief executive may delegate under section 41 of the State Sector Act 1988 all or any of his or her functions, duties, and powers under this Act.
-(2) Subsection (1) does not apply to the chief executive's powers in sections 289 and 410.
+(2) Subsection (1) does not apply to the chief executive's power in section 410.
 
 **Review of decisions**
 
@@ -4588,7 +4700,7 @@ The chief executive must enter the outcome of each review of a decision describe
   (i) procedures.
 (8) The regulations may authorise the Minister, the chief executive, a food safety officer, or a territorial authority to decide a matter.
 (9) The regulations may confer a discretion on the Minister, the chief executive, a food safety officer, or a territorial authority.
-(10) This section must be read in conjunction with sections 383 to 392.
+(10)
 
 ### 382 Regulations: how they apply to stock in trade
 In the 12 months after the commencement date of regulations under this Act, a person may sell food to which the regulations apply if—
@@ -4598,7 +4710,7 @@ In the 12 months after the commencement date of regulations under this Act, a pe
     (ii) the food was purchased before the commencement date for importation into New Zealand; and
   (c) since the commencement date no one has done or omitted to do an act that causes the food not to comply with the regulations.
 
-### 383 Regulations about standards in relation to food
+### 383 Regulations and notices about standards in relation to food
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting standards in relation to food that specify the criteria that the composition of food, and the sampling and testing of food to determine its composition, must meet to ensure that food is safe and suitable.
 (2) The reference in subsection (1) to the composition of food means the microbiological content, microbiological quality, purity, quality, quantity, strength, or weight, among other things, of—
   (a) the food itself; and
@@ -4621,8 +4733,8 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (o) any other matter that affects the safety or suitability of food.
 (4) Regulations referred to in subsection (3)﻿(k) may (without limitation)—
   (a) specify how residue levels are to be determined for specified foods:
-  (b) prohibit the sale of any food containing residues of a substance that exceed limits specified by a notice under section 406(1)﻿(u):
-  (c) provide for exemptions from specified requirements of the regulations where the residues present in the food concerned are within allowable limits specified in a notice under section 406(1)﻿(u) and the food complies with any other requirements specified in the notice.
+  (b) prohibit the sale of any food containing residues of a substance that exceed limits specified by a notice under subsection (8):
+  (c) provide for exemptions from specified requirements of the regulations where the residues present in the food concerned are within allowable limits specified in a notice under subsection (8) and the food complies with any other requirements specified in the notice.
 (5) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting food standards that food-related accessories must meet to ensure that food is safe and suitable.
 (6) Before recommending the making of regulations under this section, the Minister must take into account—
   (a) the need to protect public health; and
@@ -4633,15 +4745,21 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (f) the most effective way of achieving the safety and suitability of food; and
   (g) any other matters that the Minister considers relevant.
 (7) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(8) The chief executive may, by notice under section 405,—
+  (a) specify the maximum amount of contaminants or residues that may be present in food:
+  (b) set requirements in relation to the matters specified in paragraph (a):
+  (c) provide for the matters referred to in subsection (4)﻿(b) and (c):
+  (d) supplement regulations made under this section.
 
-### 384 Regulations about risk-based measures and related matters
+### 384 Regulations and notices about risk-based measures and related matters
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations relating to all or any of the following:
   (a) wine standards management plans or risk management programmes intended to operate as food control plans:
   (b) the territorial authorities’ role in registering food control plans:
   (c) the chief executive’s role in registering food control plans.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) The chief executive may, by notice under section 405, supplement regulations made under this section.
 
-### 385 Regulations about grading schemes
+### 385 Regulations and notices about grading schemes
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting up a grading scheme that—
   (a) has the purpose of improving, promoting, or protecting the safety or suitability of food; and
   (b) provides consumers with information about the level of a food business's compliance with the food safety regime.
@@ -4661,6 +4779,7 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (a) regulations are made setting up a grading scheme for food businesses; and
   (b) a bylaw is made by a territorial authority that purports to set up a grading scheme for food businesses that is inconsistent with those regulations.
 (4) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(5) The chief executive may, by notice under section 405, supplement regulations made under this section.
 
 ### 386 Regulations about approved documents, materials, or facilities, or persons or classes of persons
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out criteria that the chief executive must take into account before approving a document, material, or facility, or a person or class of persons under section 291.
@@ -4672,13 +4791,14 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (d) any other matters that the Minister considers relevant to the question of whether an approved document, material, or facility, or an approved person or an approved class of persons must be used.
 (4) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 
-### 387 Regulations about imported food
+### 387 Regulations and notices about imported food
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting out all or any of the following for imported food:
   (a) general requirements that apply to imported food:
   (b) different requirements for different categories of food, based on criteria, descriptions, food groups, import pathways, origins, risks, or types:
   (c) requirements that specify which different categories of food require clearance under section 109, and requirements that specify other matters related to the clearance of that food:
   (d) restrictions or prohibitions on, or requirements for, dealing with food that is not cleared:
-  (e) requirements that can be applied to imported food in accordance with the regulations by a notice under section 405:
+  (e) requirements relating to the safety and suitability of food and to good operating practice:
+  (ea) controls, restrictions, requirements, and prohibitions in relation to a food sector, including how a food sector must manage or deal with risks that arise from trading in food:
   (f) how the requirements may or must be met:
   (g) when the requirements must be met:
   (h) who is responsible for ensuring that the requirements are met:
@@ -4687,14 +4807,22 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (k) record-keeping requirements that must be complied with.
 (2) To avoid doubt, regulations under this section may apply different requirements to different foods within a category of food.
 (3) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(4) The chief executive may, by notice under section 405,—
+  (a) set requirements relating to the form or manner of applications for registration as an importer; and
+  (b) specify—
+    (i) which imported food category a particular food fits into for the purposes of regulations made under this section; and
+    (ii) conditions and criteria that attach to a particular food fitting within or continuing to fit within a particular category; and
+    (iii) conditions and criteria that determine the basis for movement between particular categories; and
+    (iv) requirements for providing samples and information about imported food and monitoring imported food that will assist in determining the risk of an imported food or determining an imported food’s categorisation; and
+  (c) supplement regulations made under this section.
 
 ### 388 Regulations about verification functions in relation to importers
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing verification requirements in relation to the operations of registered importers, including provisions that deal with the frequency, intensity, and cost of verification.
-(2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+[Repealed]
 
-### 389 Regulations about recognised agencies, persons, and classes of persons
+### 389 Regulations and notices about recognised agencies, persons, and classes of persons
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) prescribing requirements and procedures for the recognition and renewal of recognition of agencies, persons, and classes of persons under subpart 1 of Part 4:
+  (ab) prescribing requirements that agencies, persons, and classes of persons under subpart 1 of Part 4 must comply with in order to maintain recognition:
   (b) prescribing competencies, qualifications, experience, or other requirements that must be met—
     (i) in order for a person to be recognised as a recognised agency or a recognised person under subpart 1 of Part 4:
     (ii) in order for a class of persons to be recognised as a recognised class under subpart 1 of Part 4:
@@ -4702,8 +4830,9 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (c) prescribing performance standards or other requirements that must be met by a recognised agency when it is managing or carrying out, or a recognised person or recognised class when it is carrying out, its specified functions and activities:
   (d) prescribing any particulars that must be contained in the relevant public register.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) The chief executive may, by notice under section 405, supplement regulations made under this section.
 
-### 390 Regulations about information
+### 390 Regulations and notices about information
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations setting requirements for all or any of the following for a person or a class of persons:
   (a) the information that the person or class of persons must collect about food or a food-related accessory:
   (b) the periods for which the person or class of persons must keep the information:
@@ -4713,6 +4842,10 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (b) how the public registers are to be maintained:
   (c) the details to be included in the public registers.
 (3) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(4) The chief executive may, by notice under section 405,—
+  (a) set requirements for all or any of the matters described in subsection (1)﻿(a) to (c):
+  (b) set requirements for all or any of the matters described in subsection (2)﻿(a) to (c):
+  (c) supplement regulations made under this section.
 
 ### 391 Regulations about offences
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -4741,11 +4874,12 @@ In the 12 months after the commencement date of regulations under this Act, a pe
   (b) declaring any person to be a person for the purposes of section 368(4).
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
 
-### 395 Regulations about other matters
+### 395 Regulations and notices about other matters
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for any matters that are—
   (a) not covered by sections 383 to 394; and
   (b) contemplated by this Act, necessary for its administration, or necessary to give it full effect.
 (2) Before recommending the making of regulations under this section, the Minister must be satisfied that there has been appropriate consultation on the regulations in accordance with section 379.
+(3) The chief executive may, by notice under section 405, supplement regulations made under this section.
 
 ### Subpart 5 — Food standards
 
@@ -4755,7 +4889,7 @@ In the 12 months after the commencement date of regulations under this Act, a pe
 The purpose of sections 397 to 402 is to give effect to New Zealand's obligations under the Australia–New Zealand Joint Food Standards Agreement by giving lawful effect to joint food standards.
 
 ### 397 Minister may adopt joint food standards
-(1) The Minister may, by notice, adopt a joint food standard (adopted joint food standard) for food manufactured or prepared for sale or sold in New Zealand, or imported into New Zealand, if subsections (2) and (3) are complied with.
+(1) The Minister may, by notice, adopt a joint food standard (adopted joint food standard) for food manufactured or prepared for sale or sold in New Zealand, or imported into, or exported from, New Zealand, if subsections (2) and (3) are complied with.
 (2) In adopting a joint food standard under subsection (1), the Minister must take into account the following matters:
   (a) the need to protect public health:
   (b) the desirability of avoiding unnecessary restrictions on trade:
@@ -4763,6 +4897,7 @@ The purpose of sections 397 to 402 is to give effect to New Zealand's obligation
   (d) the need to give effect to New Zealand's obligations under any relevant international treaty, agreement, convention, or protocol:
   (e) any other matters that the Minister considers relevant.
 (3) The Minister must not adopt a joint food standard under subsection (1) unless he or she is satisfied that adequate consultation on the joint food standard has taken place under the Food Standards Australia New Zealand Act 1991 (Australia).
+(4) The effect of adopting a joint food standard is that a person who manufactures or prepares food for sale in New Zealand, or sells food in New Zealand, or imports food into, or exports food from, New Zealand must comply with the requirements of the adopted food standard in relation to that food.
 
 ### 398 Issue, notification, and availability of adopted joint food standards
 (1) A notice adopting a joint food standard under section 397 must—
@@ -4786,7 +4921,10 @@ The purpose of sections 397 to 402 is to give effect to New Zealand's obligation
 (1) The Minister may amend or revoke an adopted joint food standard in order to—
   (a) give effect to an amendment or a revocation of a joint food standard; or
   (b) correct an error or omission in that standard.
-(2) Sections 398 and 399 apply, subject to any necessary modifications, in respect of any amendment or revocation of an adopted joint food standard.
+(2) An amendment to an adopted food standard under subsection (1)﻿(a) or (b) must, subject to this section, be adopted in the same way as a joint food standard is adopted.
+(3) Sections 397 and 398 apply, subject to any necessary modifications, in respect of—
+  (a) the adoption of an amendment to an adopted food standard except that section 397(2) and (3) does not apply if the amendment corrects an error or omission in that standard:
+  (b) the revocation of an adopted food standard.
 
 ### 401 Minister must not delegate power to adopt joint food standards
 Despite section 28 of the State Sector Act 1988, the Minister must not delegate to any other person the power under section 397 to adopt joint food standards.
@@ -4804,7 +4942,7 @@ Despite section 28 of the State Sector Act 1988, the Minister must not delegate 
 The purpose of section 404 is to allow, in certain limited and exceptional circumstances, for food standards to be issued separately from those set out in the Australia New Zealand Food Standards Code and to be given the force of law in New Zealand only.
 
 ### 404 Minister may issue domestic food standards
-(1) The Minister may, by notice, issue food standards (domestic food standards) for food manufactured or prepared for sale or sold in New Zealand, or imported into New Zealand, if—
+(1) The Minister may, by notice, issue food standards (domestic food standards) for food manufactured or prepared for sale or sold in New Zealand, or imported into, or exported from, New Zealand, if—
   (a) standards have been or are being developed under the Australia–New Zealand Joint Food Standards Agreement for inclusion in the Australia New Zealand Food Standards Code, but New Zealand has chosen, under an annex of the Agreement, to opt out of the standards; and
   (b) subsection (2) is complied with.
 (2) In issuing domestic food standards under subsection (1), the Minister must take into account the following matters:
@@ -4820,54 +4958,19 @@ The purpose of section 404 is to allow, in certain limited and exceptional circu
 
 **Notices**
 
-### 405 Notices relating to general matters
-(1) The chief executive may issue notices setting specifications or requirements for the following general matters:
-  (a) the form or manner of applications for registration as an importer:
-  (b) waivers by the chief executive of the requirement for an independent evaluation report on the validity of food control plans:
-  (c) the exercise and carrying out and managing of verification powers and functions:
-  (d) the value to be attributed to a component of a formula that determines fees or charges.
-(2) The chief executive may issue notices specifying—
-  (a) which imported food category a particular food fits into for the purposes of regulations made under section 387:
-  (b) conditions and criteria that attach to a particular food fitting within or continuing to fit within a particular category:
-  (c) conditions and criteria that determine the basis for movement between particular categories:
-  (d) requirements for providing samples and information about and monitoring imported food that will assist in determining the risk of an imported food or determining an imported food's categorisation.
-(3) The chief executive may issue notices setting specifications or requirements—
-  (a) that are contemplated by this Act or its regulations; or
-  (b) that are necessary or desirable to give effect to this Act or its regulations; or
-  (c) that are necessary to amplify the manner in which the requirements of regulations under this Act must be met; or
-  (d) that are desirable to amplify the manner in which the requirements of regulations under this Act may be met.
+### 405 Notices
+(1) The chief executive may issue notices that—
+  (a) set requirements or specify matters that are permitted by this Act; or
+  (b) are permitted by a provision of this Act to supplement regulations made under this Act.
+(2) The chief executive must not issue a notice under subsection (1)﻿(b) unless satisfied that the notice—
+  (a) sets out matters of detail to elaborate on matters provided for in the regulations; or
+  (b) sets out procedures, methodologies, forms, or other matters of an administrative nature relating to matters provided for in the regulations; or
+  (c) sets out how requirements imposed by the regulations may or must be met; or
+  (d) otherwise supplements matters of general principle set out in the regulations.
+(3) If a notice issued under this section is inconsistent with the regulations, the regulations prevail to the extent of the inconsistency.
 
 ### 406 Notices relating to specifications or requirements for specific matters
-(1) Section 405 includes the power to issue notices setting specifications or requirements for the following specific matters:
-  (a) exemptions from the requirement to operate under a registered food control plan or national programme, for the purposes of section 33:
-  (b) food control plan templates or models, for the purposes of section 39 or 40:
-  (c) amending, replacing, or revoking food control plan templates or models, for the purposes of section 44(1):
-  (d) a period of time relating to an amended, replaced, or revoked food control plan template or model, for the purposes of section 44(2) or (3):
-  (e) significant amendments to food control plans, for the purposes of section 45(5) or 46(6):
-  (f) the verification requirements for food control plans, including the frequency, intensity, and cost of verification:
-  (g) the validation and evaluation of food control plans:
-  (h) how persons who operate under food control plans are to demonstrate competency (in relation to the safety and suitability of food, food production, and food processing and handling), the appropriate training for those persons, and the staff training to be provided:
-  (i) supplementing national programmes, for the purposes of section 75:
-  (j) controls, restrictions, requirements, and prohibitions in relation to a food sector, including how a food sector must manage or deal with risks that arise from trading in food:
-  (k) the verification requirements for national programmes, including the frequency, intensity, and cost of verification:
-  (l) how persons who operate under national programmes are to demonstrate their competency (in relation to the safety and suitability of food, food production, and food processing and handling), the appropriate training for those persons, and the staff training to be provided:
-  (m) the safety and suitability of food and good operating practice:
-  (n) applications for registration of food businesses subject to a national programme, for the purposes of section 83:
-  (o) for the purposes of section 104:
-  (p) competencies, qualifications, experience, or other requirements that must be met—
-    (i) in order for a person to be recognised as a recognised agency or a recognised person under subpart 1 of Part 4:
-    (ii) in order for a class of persons to be recognised as a recognised class under subpart 1 of Part 4:
-    (iii) by a recognised agency, recognised person, or recognised class:
-  (q) performance standards or other requirements that must be met by a recognised agency when it is managing or carrying out, or by a recognised person or recognised class when it is carrying out, its specified functions and activities:
-  (r) notification of the termination of contracts with verifiers or verification agencies under section 170:
-  (s) the intervals between written reports and the details to be included in the reports, for the purposes of section 174(f):
-  (t) approving documents, materials, or facilities or persons or classes of persons, and suspending or withdrawing the approval of documents, materials, or facilities or persons or classes of persons, for the purposes of section 291:
-  (u) the maximum amounts of contaminants or residues that may be present in food:
-  (v) exemptions for food that is to be exported, for the purposes of section 347:
-  (w) collecting information, for the purposes of section 367(2)﻿(a):
-  (x) keeping information, for the purposes of section 367(2)﻿(b):
-  (y) for the purposes of section 383(4).
-(2) References in this Act to a notice issued under section 405 must be treated as including a reference to a notice issued under this section, unless this Act otherwise provides or the context otherwise requires.
+[Repealed]
 
 ### 407 Notices: consultation
 The chief executive must consult under section 380 before issuing a notice under section 405.
@@ -4899,11 +5002,11 @@ The chief executive must consult under section 380 before issuing a notice under
 (8) The chief executive must set a reasonable price for a notice sold under this section.
 
 ### 409 Application of Legislation Act 2012 to certain notices
-(1) A notice issued under section 104, 405, 406(1)﻿(a) to (u), or (w) to (y), 427, 435, 436, 437, or 438 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(1) A notice issued under section 427, 435, 436, 437, or 438 or section 405 by virtue of section 33, 39, 40, 44, 45, 46, 75, 103, 104, 133C, 133F, 170, 174, 291, 347, 383, 387, 389, or 390, is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (2) However, a notice is neither a disallowable instrument nor a legislative instrument for the purposes of the Legislation Act 2012 if the notice is issued—
-  (a) under section 405(1)﻿(b) in respect of a specified business; or
-  (b) under section 405(2) in respect of a specified business or a specified food or brand of food; or
-  (c) under section 406(1)﻿(a), (1)﻿(e), or (1)﻿(t) in respect of a specified business; or
+  (a) under section 405 by virtue of section 53(4)﻿(b) in respect of a specified business; or
+  (b) under section 405 by virtue of section 387(4)﻿(b); or
+  (c) under section 405 by virtue of section 33(4), 45(5), 46(6), or 291; or
   (d) under section 435 in respect of a specified individual; or
   (e) under section 436 in respect of a specified agency; or
   (f) under section 437 in respect of a specified individual or agency; or
@@ -4953,7 +5056,9 @@ The chief executive must consult under section 380 before issuing a notice under
 ### 413 Overview of transitional provisions
 (1) This section describes the general scheme and effect of the transitional provisions contained in this subpart. It is by way of explanation only and does not limit or affect the other provisions of this Act.
 (2) The Food Act 1981 is repealed by section 420. See that section and section 2 for the staggered commencement of the repeal of different provisions of that Act.
-(3) However, despite the repeal of the Food Act 1981, the Food Hygiene Regulations 1974, the Dietary Supplements Regulations 1985, and the Food (Safety) Regulations 2002 continue in force until the end of this Act's introductory period, unless they are sooner revoked by regulations made under this Act.
+(3) However, despite the repeal of the Food Act 1981,—
+  (a) the Food Hygiene Regulations 1974 and the Food (Safety) Regulations 2002 continue in force until the end of this Act’s introductory period unless revoked earlier by regulations made under this Act; and
+  (b) the Dietary Supplements Regulations 1985 continue in force until 1 March 2021 unless revoked earlier by regulations made under this Act.
 (4) Each food sector will have an authorised period to make the transition from the requirements of the Food Act 1981 and the Food Hygiene Regulations 1974 to the new requirements of this Act. That period will start on the relevant appointed date and end on a date that the Governor-General, by Order in Council, may specify by regulations made under this Act. The effect of allowing an authorised transition period for each food sector is intended to provide food businesses across the entire food industry with a staggered and orderly transition to the new requirements of this Act.
 (5) A food business that is subject to the Food Hygiene Regulations 1974 immediately before the relevant appointed date may do any of the following during the authorised transition period for the food sector that the food business is in:
   (a) comply with the Food Hygiene Regulations 1974; or
@@ -5018,7 +5123,10 @@ In this subpart, Act's introductory period means the period that—
 ### 420 Pre-commencement legislative requirements: Food Act 1981 and regulations
 (1) Sections 37 and 40 of the Food Act 1981 are repealed on the day after the date on which this Act receives the Royal assent (see section 2(3)﻿(b)).
 (2) The other provisions of the Food Act 1981 are repealed on the date or dates appointed by Order in Council for the purpose of their repeal (see section 2(1)).
-(3) Despite subsection (2), the Dietary Supplements Regulations 1985, the Food Hygiene Regulations 1974, and the Food (Safety) Regulations 2002 continue in force until the end of this Act's introductory period, or until earlier revoked by regulations made under this Act, and while continued may be amended as if that Act had not been repealed.
+(3) Despite subsection (2),—
+  (a) the Food Hygiene Regulations 1974 and the Food (Safety) Regulations 2002 continue in force until the end of this Act’s introductory period unless revoked earlier by regulations made under this Act; and
+  (b) the Dietary Supplements Regulations 1985 continue in force until 1 March 2021 unless revoked earlier by regulations made under this Act; and
+  (c) the regulations continued by paragraph (a) or (b) may be amended as if the Food Act 1981 had not been repealed.
 
 ### 421 Pre-commencement standards
 (1) A food standard is treated as if it had been issued as an adopted joint food standard under this Act if it—
@@ -5039,6 +5147,12 @@ In this subpart, Act's introductory period means the period that—
   (a) the date on which the food standard is revoked by regulations made under this Act:
   (b) the date on which this Act's introductory period ends.
 (5) A food standard that is issued under section 11M of the Food Act 1981 and is in force on the relevant appointed date is treated as if it had been issued as an emergency notice under this Act.
+(6) If a food standard to which subsection (2) applies cannot be amended under section 404 because the requirements of section 404(1)﻿(a) are not satisfied, the Minister may, by notice, amend the standard if the Minister—
+  (a) is satisfied that the amendment could have been made under section 11C of the Food Act 1981 (had it been in force); and
+  (b) is satisfied that the amendment does not have the effect of extending the application of the standard; and
+  (c) has taken into account the matters described in section 404(2); and
+  (d) is satisfied that there has been appropriate consultation on the amendment in accordance with section 379.
+(7) Sections 398 to 402 apply, subject to any necessary modifications, in respect of an amendment made under subsection (6).
 
 ### 422 Pre-commencement food
 Food produced or processed and handled under the Food Act 1981 and in existence on the relevant appointed date is treated as equivalent to food at the comparable stage of production or processing and handling under this Act.
@@ -5185,7 +5299,7 @@ The following documents may incorporate material by reference under Schedule 6:
   (d) notices.
 (2) A reference in a document to the current edition of a specified standard work of reference must be read as a reference to the latest edition of the work available at the time of reading, together with any changes made to it up to that time.
 (3) A reference in a document to a specific edition of a specified standard work of reference means that the specific edition must be used.
-(4) A standard work of reference is a work of reference that the chief executive considers is accepted internationally or by an industry as a standard one to refer to on its subject matter. Examples are the Food Chemicals Codex and the Pharmaceutical Codex.
+(4) A standard work of reference is a work of reference that the chief executive considers is accepted internationally or by an industry as a standard one to refer to on its subject matter. An example is the Codex Alimentarius.
 
 **Other enactments**
 
@@ -5553,7 +5667,7 @@ In this schedule,—
   (a) certified as a correct copy of the material by the chief executive; and
   (b) retained by the chief executive.
 (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the specified document of that material.
-(3) Subclauses (1) and (2) do not apply to an adopted joint food standard.
+(3) Subclauses (1) and (2) do not apply to an adopted joint food standard or a standard work of reference (as defined in section 445(4)).
 
 ### 6 Effect of expiry of material incorporated by reference
 (1) Material that is incorporated by reference in a specified document (the original document) that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the original document only if a specified document made after the making of the original document states that the material ceases to have legal effect.
@@ -5604,8 +5718,8 @@ In this schedule,—
 
 ### 9 Application of Legislation Act 2012 to material incorporated by reference
 (1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a specified document or to an amendment to, or replacement of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to regulations that incorporate material by reference.
-(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in regulations to be presented to the House of Representatives.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 applies to a specified document that incorporates material by reference.
+(3) However, nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a specified document to be presented to the House of Representatives.
 
 ## Schedule 7 — Consequential amendments, repeals, and revocations
 
