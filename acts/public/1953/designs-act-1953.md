@@ -1,5 +1,5 @@
 # Designs Act 1953
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-03-14_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
@@ -512,7 +512,8 @@ Where by this Act any act has to be done by or to any person in connection with 
 This Act shall be in force in Tokelau.
 
 ### 51 Saving
-Nothing in this Act shall be construed as authorizing or requiring the Commissioner to register a design the use of which would, in his opinion, be contrary to law or morality.
+(1) Nothing in this Act shall be construed as authorizing or requiring the Commissioner to register a design the use of which would, in his opinion, be contrary to law or morality.
+(2) However, the Commissioner may register a design even if its use is restricted or prohibited under the Smoke-free Environments Act 1990.
 
 ### 52 Repeals and savings
 (1) The enactments specified in the Schedule are hereby repealed.
