@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2018-03-22_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
