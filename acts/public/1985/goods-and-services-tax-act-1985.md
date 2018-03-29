@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-03-29_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -241,6 +241,11 @@ _Consolidation as at 2017-07-01_
   (h) a trustee of a trust and a trustee of another trust if the same person is a settlor of both trusts, except if, in relation to a supply of goods and services,—
     (i) either trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes; and
     (ii) the supply is made in, or enables, the carrying out of the charitable, benevolent, philanthropic, or cultural purposes:
+  (hb) A trustee of a trust and a person who has a power of appointment or of removal of the trustee, except if the person—
+    (i) holds the power as a provider of professional services; and
+    (ii) is subject to a professional code of conduct, and disciplinary process intended to enforce compliance with the code, of an approved organisation as that term is defined in section 3(1) of the Tax Administration Act 1994, for such providers of professional services; and
+    (iii) has not benefited from the trust; and
+    (iv) is not eligible to benefit from the trust:
   (i) a person (person A) and another person (person B) if—
     (i) person B is associated with a third person (person C) under any one of paragraphs (a) to (h); and
     (ii) person C is associated with person A under any one of paragraphs (a) to (h).
@@ -1398,7 +1403,7 @@ If a person makes a return that includes a figure for the value of supplies char
 (8) For the purposes of this section, a registered person does not include a widely-held company, as that term is defined in section YA 1 of the Income Tax Act 2007.
 
 ### 20H Goods and services tax incurred in making financial services for raising funds
-(1) A registered person who principally makes taxable supplies and who makes supplies of financial services in the course of an activity of raising funds that are intended for use by the registered person for expenditure in a taxable activity has a deduction under section 20(3)﻿(hc) of input tax for the supplies of financial services, if the financial services—
+(1) A registered person who principally makes taxable supplies and who makes supplies of financial services in the course of an activity of raising funds that are intended for use by the registered person for expenditure in a taxable activity has a deduction under section 20(3)﻿(hd) of input tax for the supplies of financial services, if the financial services—
   (a) are not referred to in section 11A(1)﻿(q) and (r); and
   (b) do not give rise to a deduction under section 20(3) for the registered person in the absence of this section; and
   (c) are the issue or allotment of a debt security or equity security, the renewal of a debt security or equity security, the payment of an amount of interest, principal, or dividend for a debt security or equity security, or the provision or variation of a guarantee of the performance of obligations in the issue, allotment, or renewal, of a debt security or equity security; and
@@ -1809,11 +1814,11 @@ A registered person who receives a supply of services that is treated by section
   (b) more than the deduction actually claimed by the person, the amount of the excess is a deduction under section 20(3) for the person.
 
 ### 25AB Consequences of change in contract for secondhand goods
-(1) This section applies to a supply of secondhand goods to a registered person if—
+(1) This section applies to a supply of secondhand goods to a registered person for which the registered person returns input tax determined under section 3A(3) if—
   (a) the supply is affected by an event referred to in section 25(1)﻿(a) to (c); and
   (b) the registered person returns input tax on the supply as a deduction from the amount of output tax for a taxable period in the calculation of tax payable by the registered person for the taxable period; and
   (c) as a result of the event referred to in paragraph (a), the amount of input tax on the supply returned by the registered person exceeds the correct amount of input tax for the supply; and
-  (d) the supplier does not provide a tax invoice or debit note in relation to the supply.
+  (d) the supplier does not provide a tax invoice or credit note in relation to the supply.
 (2) An amount equal to the amount of the excess referred to in subsection (1)﻿(c) is treated as being tax charged in relation to a taxable supply made by the registered person for the taxable period in which the event referred to in subsection (1)﻿(a) occurs.
 
 ### 25A Commissioner may approve use of symbols, etc, on electronically transmitted invoices and credit and debit notes
@@ -2103,7 +2108,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
   (a) any change in the name, address, constitution, or nature of the principal taxable activity or activities of that registered person:
   (b) any change of address from which, or the name in which, any taxable activity is carried on by that registered person:
   (c) any change whereby that registered person ceases to satisfy the conditions of section 15(2):
-  (ca) any change whereby that registered person now satisfies the conditions of either subparagraph (i) or subparagraph (ii) of subsection (4)﻿(b) of section 15:
+  (ca) any change whereby that registered person now satisfies the conditions of section 15(4):
   (cb) any change whereby that registered person ceases to satisfy the conditions of section 19A, where the Commissioner has made a direction in respect of that registered person under that section:
   (d) any change where that registered person, being a member of a group within the meaning of section 55, ceases to be eligible to be a member of that group:
   provided that paragraphs (a) to (cb) shall not apply to the notification of any changes in the ownership of any company.
