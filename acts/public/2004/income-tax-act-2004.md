@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2017-03-30_
+_Consolidation as at 2018-03-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
