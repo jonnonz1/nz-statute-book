@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2017-12-21_
+_Consolidation as at 2018-03-29_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -2072,7 +2072,7 @@ If requested by a coroner, the regulator must give the coroner a written report 
 (2) The funding levy is payable by—
   (a) every employer, on the amount of earnings paid or deemed to have been paid by the employer to the employer's employees:
   (b) every earner who has earnings as a self-employed person, on the amount of earnings as a self-employed person derived or deemed to have been derived by the earner:
-  (c) every shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee.
+  (c) every shareholder-employee to whom section RD 3B or RD 3C of the Income Tax Act 2007 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee.
 (3) The funding levy must be added to, and is deemed to be part of, the Work Account levy, and—
   (a) the funding levy is payable, collected, and remitted, and penalties are payable in respect of it, as if it were the Work Account levy; and
   (b) ACC and the Commissioner of Inland Revenue have all of the powers in respect of the funding levy that they have in respect of the Work Account levy; and
