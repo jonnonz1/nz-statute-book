@@ -1,5 +1,5 @@
 # Compensation for Live Organ Donors Act 2016
-_Consolidation as at 2016-12-05_
+_Consolidation as at 2018-03-29_
 
 ### 1 Title
 This Act is the Compensation for Live Organ Donors Act 2016.
@@ -298,11 +298,11 @@ Before section 7 of the District Court Act 2016 comes into force,—
   - **earnings as an employee** has the meaning given by section 6(1) of the Accident Compensation Act 2001
   - **employee** means a person who receives, or is entitled to receive,—
     (a) any amount that is treated as income from employment; or
-    (b) any salary, wages, or other income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies
+    (b) any income to which section RD 3B or RD 3C of the Income Tax Act 2007 applies
   - **employer** —
     (a) means a person, other than a person acting for an employer as a PAYE intermediary (as defined in section YA 1 of the Income Tax Act 2007), who pays, or is liable to pay,—
       (i) any amount that, in relation to any other person, is treated as income from employment; and
-      (ii) any salary, wages, or other income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies; but
+      (ii) any income to which section RD 3B or RD 3C of the Income Tax Act 2007 applies; but
     (b) does not include a person who is an employer solely by reason of any of section RD 5(1)﻿(b)﻿(iii), (6)﻿(b) to (c), and (7) of the Income Tax Act 2007
   - **income from employment** has the meaning given by paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007
   - **most recently completed tax year** , in relation to a self-employed person or a shareholder-employee, means the most recent year ending with the balance date (whether 31 March or another date) of the self-employed person or shareholder-employee before the payment period
