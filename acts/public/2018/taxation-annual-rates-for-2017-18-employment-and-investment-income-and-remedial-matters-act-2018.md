@@ -1918,7 +1918,7 @@ After section RZ 13, insert:Listed PAYE intermediaries: transitional provisionam
 (55) In the definition of PAYE intermediary, in paragraph (a)﻿(i), delete or 15G.
 (56) Repeal the definition of period of restriction.
 (57) In the definition of petroleum development expenditure, after paragraph (b)﻿(ii), insert:
-  (iii) expenditure that relates to an amount for which a deduction is allowed under section DT 7B (Resuming commercial production: petroleum development expenditure), except as provided in that section
+  (iib) expenditure that relates to an amount for which a deduction is allowed under section DT 7B (Resuming commercial production: petroleum development expenditure), except as provided in that section
 (58) Repeal the definition of petroleum mining company.
 (59) In the definition of principal settlor, replace 2 years with 5 years.
 (60) In the definition of profit distribution plan, in paragraph (b), replace share purchase agreement with employee share scheme.
