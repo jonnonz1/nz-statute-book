@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017
-_Consolidation as at 2017-08-31_
+_Consolidation as at 2018-03-29_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Act 2017.
@@ -9,8 +9,8 @@ This Act is the Taxation (Annual Rates for 2016–17, Closely Held Companies, an
 (2) Section 335 comes into force on the day on which the Taxation (Annual Rates for 2016–17, Closely Held Companies, and Remedial Matters) Bill is introduced.
 (3) Section 347(2) comes into force on 1 October 1986.
 (4) Section 297(1) comes into force on 14 December 1993.
-(5) Section 351(1) comes into force on 1 August 2003.
-(6) Sections 365, 386(1) and (2), 387, 388, 389, 390, 392, 393, and 394(5), (6), and (8) come into force on 1 April 2005.
+(5)
+(6) Sections 365, 387, 388, 389, 390, 392, 393, and 394(5), (6), and (8) come into force on 1 April 2005.
 (7) Sections 385, 386(1) and (3), 391, and 394(2), (3), (4), and (7) come into force on 1 April 2006.
 (8) Sections 7, 8, 16, 20, 22(1), (9), and (10), 23(1), (2), (6), (8), and (9), 32, 38, 51, 64, 75, 94, 103, 114, 125, 128, 149(1) and (5), 150, 151, 162, 163, 168(1), 171(1), (2), (3), and (6), 172(1), 196, 206, 234, 256, 259, 263, 264, 288(9), (12), (13), (69), (90), (91), (113), (114), and (123), and 340 come into force on 1 April 2008.
 (9) Sections 40, 153(2), 189(2), 191, 198(1) and (3), 214(1), 220, 221, 224(1) and (3), 225(1), 228(2), 230, 236(1) and (3), 239(1), 288(7), (55), (56), (57), (74), (95), (97), (99), (102), (108), and (112), and 290 come into force on 1 April 2009.
@@ -36,7 +36,7 @@ This Act is the Taxation (Annual Rates for 2016–17, Closely Held Companies, an
 (29) Section 303 comes into force on 14 May 2016.
 (30) Sections 300, 301, and 325(1) come into force on 2 June 2016.
 (31) Section 104 comes into force on 1 July 2016.
-(32) Sections 194, 202, 207, 208, 209, 213, 214(4) and (7), 215(4) and (6), 288(51), 349, 353(3) and (5), 362, and 367 come into force on 1 October 2016.
+(32) Sections 194, 202, 207, 208, 209, 213, 214(4) and (7), 215(4) and (6), 288(51), 349, 353(3) and (5), 362, and 367(1) and (2) come into force on 1 October 2016.
 (33) Sections 13, 14, 17, 18, 19, 21, 22(5), (6), (7), and (8), 24, 28, 41, 44, 47, 52, 53, 54, 55, 59, 62, 63(3) and (4), 65, 66, 67, 69, 77, 78, 91, 95, 96, 97, 106, 107, 109, 110, 111, 113, 115, 117, 119, 120, 121, 122, 123, 124, 126, 127, 129, 130, 131, 133, 141, 143, 144, 145, 146, 147(1), (2), (3), and (5), 153(1), 154, 155, 156, 157, 158, 161, 164, 176, 177(3) and (4), 178(1) and (2), 179(1) and (2), 180, 181(1), (3), and (4), 182, 184(2), 185(1), (3), and (4), 186, 188, 189(1), (3), and (4), 192, 193, 195(1), (3), and (5), 197, 198(2) and (4), 199, 200, 201, 203(1), (3), and (5), 204, 210, 211, 212, 214(2), (3), and (6), 215(1), (2), (3), and (5), 216, 219, 222, 223, 224(2) and (4), 225(2), 226, 227, 228(1) and (3), 231, 232, 233, 235, 236(2) and (4), 237, 238, 239(2), (3), and (4), 240, 241, 243, 244, 246, 247, 249, 250, 251, 252, 253, 254, 257, 265, 266, 267, 268, 269, 270, 271, 275, 276, 277, 280, 282, 284, 288(2), (3), (4), (10), (11), (15), (16), (17), (18), (22), (24), (26), (27), (28), (29), (32), (33), (34), (35), (36), (37), (38), (39), (40), (41), (42), (44), (47), (48), (49), (50), (52), (59), (60), (61), (62), (63), (64), (65), (66), (67), (92), (93), (94), (98), (101), (105), (107), (109), (111), (116), (117), (118), and (121), 289, 291, 292, 293, 296, 302, 306, 307, 308, 309, 314, 315, 317, 318, 319, 320, 321, 322, 334, 336, 337, 338, 339, 341, 342, 353(1) and (4), 356(2), 357, and 375(2) come into force on 1 April 2017.
 (34) Sections 50(1), 76, and 343 come into force on 1 July 2017.
 (35) Sections 288(58) and 361 come into force on 1 April 2018.
