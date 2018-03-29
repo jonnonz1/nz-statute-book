@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2018-03-29_
 
 > Title
 
@@ -506,7 +506,7 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
 
 ### 35B Dependent child allowance
 (1) For the purpose of calculating a parent's child support income amount under section 34 in a child support year, a parent is entitled to a dependent child allowance in respect of each of his or her dependent children.
-(2) The amount of a parent's dependent child allowance, in relation to each dependent child, is—c% × e ÷ nwhere—c%is the care cost percentage of the parent in relation to the dependent child (being the percentage that would be determined under section 16 if the child were a qualifying child)eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the dependent child on the basis of—nis the total number of the parent's dependent children.
+(2) The amount of a parent's dependent child allowance, in relation to each dependent child, is—c% × (e ÷ n)where—c%is the care cost percentage of the parent in relation to the dependent child (being the percentage that would be determined under section 16 if the child were a qualifying child)eis the amount, determined in accordance with the child expenditure table applying to that child support year, that applies to the parent in respect of the dependent child on the basis of—nis the total number of the parent's dependent children.
   (a) the child support income amount of the parent alone, with that amount being treated as the adjusted taxable income of the parent, minus the parent's living allowance; and
   (b) the total number of the parent's dependent children; and
   (c) the age group of those children
@@ -537,7 +537,7 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
 ### 36B Where no receiving carers are parents
 (1) This section applies if, in respect of a qualifying child, there are 1 or 2 receiving carers, and neither of them is a parent of the child.
 (2) If the liable parent is liable to pay child support in respect of just 1 non-parent receiving carer, the amount of child support payable in respect of that carer is the annual amount of child support payable by the liable parent for the child.
-(3) If the liable parent is liable to pay child support in respect of 2 non-parent receiving carers, the amount of child support payable in respect of each carer is—f × c% ÷ g%where—fis the annual amount of child support payable by the liable parent for the childc%is the care cost percentage of the receiving carer in relation to the childg%is the combined care cost percentages of both the receiving carers of the child, in relation to the child.
+(3) If the liable parent is liable to pay child support in respect of 2 non-parent receiving carers, the amount of child support payable in respect of each carer is—f × (c% ÷ g%)where—fis the annual amount of child support payable by the liable parent for the childc%is the care cost percentage of the receiving carer in relation to the childg%is the combined care cost percentages of both the receiving carers of the child, in relation to the child.
 
 ### 36C Where 1 receiving carer is parent and other is non-parent
 (1) This section applies if, in respect of a qualifying child, there are 2 receiving carers, where 1 of them is a parent of the child and the other is a non-parent carer of the child.
@@ -1176,7 +1176,9 @@ In this Part, unless the context otherwise requires,—
 
 ### 89D Exemption for long-term prisoners
 (1) A liable person is eligible for an exemption from the payment of financial support for the whole, or part, of a long-term period of imprisonment of that person if—
-  (a) the person's income for that whole period, or that part, will be or was nil, or will be or was calculated only from income consisting solely of income from investments; and
+  (a) the person’s income for the whole period, or that part, will be or was nil or will include or included no income other than income from—
+    (i) investments:
+    (ii) employment under section 66 of the Corrections Act 2004; and
   (b) the person's income from investments (if any) during that whole period, or that part, did not or will not—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
@@ -1201,7 +1203,7 @@ In this Part, unless the context otherwise requires,—
 (1) An exemption under this subpart does not apply at any time during the whole of a child support year if,—
   (a) at any time during the relevant period,—
     (i) in the case of an exemption under section 89C, the person receives any income (subject to section 89C(1A)) other than from investments or a social security benefit payable at the rate specified in Schedule 22 of the Social Security Act 1964; or
-    (ii) in the case of an exemption under section 89D or 89E, the person receives any income (subject to sections 89C(1A) and 89D(1A)) other than from investments; or
+    (ii) in the case of an exemption under section 89D or 89E, the person receives any income (subject to sections 89C(1A) and 89D(1A)) other than from investments, or employment under section 66 of the Corrections Act 2004; or
   (b) the person receives income from investments during the relevant period that—
     (i) exceeds, if the relevant period is less than a full child support year in duration, an average amount per week in the relevant period that is equal to the relevant minimum annual rate of financial support, divided by 52; or
     (ii) exceeds, if the relevant period is a full child support year in duration, the relevant minimum annual rate of financial support.
