@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-03-29_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -115,11 +115,11 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **earnings as a shareholder-employee** has the meaning set out in section 15
   - **employee** means a natural person who receives, or is entitled to receive,—
     (a) any amount that is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007; or
-    (b) any salary, wages, or other income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies
+    (b) any salary, wages, or other income to which section RD 3B or RD 3C of the Income Tax Act 2007 applies
   - **employer** —
     (a) means a person, other than a person acting for an employer as a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007, who pays, or is liable to pay,—
       (i) any amount that, in relation to any other person, is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007; and
-      (ii) any salary, wages, or other income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies; but
+      (ii) any salary, wages, or other income to which section RD 3B or RD 3C of the Income Tax Act 2007 applies; but
     (b) does not include, for the purpose of Part 6, a person who is an employer solely by reason of any of section RD 5(1)﻿(b)﻿(iii), (6)﻿(b), or (c) of the Income Tax Act 2007
   - **employment** —
     (a) means work engaged in or carried out for the purposes of pecuniary gain or profit; and
@@ -372,7 +372,7 @@ The Corporation must treat the earnings of a private domestic worker as earnings
   (b) the amount described in subsection (3) (the subsection (3) amount), if the Corporation decides that the subsection (2) amount is not a reasonable representation of the person's earnings as a shareholder-employee in the tax year.
 (2) The subsection (2) amount is—
   (a) all PAYE income payments of the person for the tax year derived from a company of which the person is a shareholder-employee; and
-  (b) all income of the person that is deemed to be income derived otherwise than from PAYE income payments under section RD 3(2) to (4) of the Income Tax Act 2007.
+  (b) all income of the person that is deemed to be income derived otherwise than from PAYE income payments under section RD 3B or RD 3C of the Income Tax Act 2007.
 (3) The subsection (3) amount is an amount determined by the Corporation in the following way:
   (a) first, determine each of the following amounts:
     (i) an amount that represents reasonable remuneration for the services that the person provides to the company as an employee of the company in the tax year; and
@@ -2144,7 +2144,7 @@ An appeal under section 149 is dealt with in accordance with the District Court 
 (1) Except as provided in subsection (2), nothing in this Act requires an employer to pay a Work Account levy on earnings of an employee that exceed the specified maximum.
 (2) If a person's earnings as an employee for a tax year are paid by 2 or more employers, and the total of those earnings exceeds the specified maximum,—
   (a) each employer must pay a Work Account levy on all earnings paid by the employer up to the specified maximum; but
-  (b) each employer may apply in writing to the Corporation for a pro rata refund of the excess levy paid, to be calculated according to the following formula:where—
+  (b) each employer may apply in writing to the Corporation for a pro rata refund of the excess levy paid, to be calculated according to the following formula:(a ÷ b) × cwhere—
     (a) is the total earnings on which the levy is paid by the employer in respect of that employee
     (b) is the total earnings on which the levy is paid by all employers in respect of that employee
     (c) is the total excess levy paid by all employers in respect of that employee.
@@ -2799,13 +2799,13 @@ For the purposes of this Part, the Corporation may determine—
 (5) This section does not prevent the Corporation from using any other agent for the purposes of levy collection.
 
 ### 246 Information available to Corporation
-(1) The purpose of this section is to enable the Corporation to establish liability for levies under this Part effectively in relation to employers, self-employed persons, and private domestic workers, and to shareholder-employees to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies.
+(1) The purpose of this section is to enable the Corporation to establish liability for levies under this Part effectively in relation to employers, self-employed persons, and private domestic workers, and to shareholder-employees to whom section RD 3B or RD 3C of the Income Tax Act 2007 applies.
 (2) The Corporation may, for the purposes of this section, from time to time request the Commissioner to provide a list of all those employers, self-employed persons, private domestic workers, and shareholder-employees, or of any category of those employers, self-employed persons, private domestic workers, and shareholder-employees as the Corporation may specify.
-(3) The list is to include the names of the employers, self-employed persons, and private domestic workers, and shareholder-employees to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, their addresses and ACC file numbers, and (if available) the time at which the employers, self-employed persons, private domestic workers, and shareholder-employees became or ceased to be employers, self-employed persons, private domestic workers, or shareholder-employees.
-(4) The Corporation may request the Commissioner to provide any information relating to an employer's, self-employed person's, or private domestic worker's industry classification and the total amount paid by an employer or a private domestic worker as earnings as an employee, or as earnings as a shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, or (in the case of a self-employed person) the earnings as a self-employed person that the Corporation may specify for the purposes of this section.
+(3) The list is to include the names of the employers, self-employed persons, and private domestic workers, and shareholder-employees to whom section RD 3B or RD 3C of the Income Tax Act 2007 applies, their addresses and ACC file numbers, and (if available) the time at which the employers, self-employed persons, private domestic workers, and shareholder-employees became or ceased to be employers, self-employed persons, private domestic workers, or shareholder-employees.
+(4) The Corporation may request the Commissioner to provide any information relating to an employer's, self-employed person's, or private domestic worker's industry classification and the total amount paid by an employer or a private domestic worker as earnings as an employee, or as earnings as a shareholder-employee to whom section RD 3B or RD 3C of the Income Tax Act 2007 applies, or (in the case of a self-employed person) the earnings as a self-employed person that the Corporation may specify for the purposes of this section.
 (4A) The Corporation may also request the Commissioner to provide any of the following information:
-  (a) whether an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies has a tax agent and, if so, the tax agent's name and contact details:
-  (b) for an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies who is an individual, whether the individual is deceased and, if so,—
+  (a) whether an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3B or RD 3C of the Income Tax Act 2007 applies has a tax agent and, if so, the tax agent's name and contact details:
+  (b) for an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3B or RD 3C of the Income Tax Act 2007 applies who is an individual, whether the individual is deceased and, if so,—
     (i) the individual's date of death; and
     (ii) the name and contact details of the administrator or executor of the individual's estate.
 (4B) In this section, tax agent has the same meaning as in section 3 of the Tax Administration Act 1994.
@@ -3354,7 +3354,7 @@ In making a determination under section 296, the District Court must not—
 ### 298 Work-related gradual process, disease, or infection involving exposure before 1 April 2002
 (1) This section applies if a claimant suffers a personal injury caused by a work-related gradual process, disease, or infection on or after 1 April 2002.
 (2) If an employment task referred to in section 30(2) was performed by the claimant or the claimant was employed in an environment referred to in that provision, at any time on or after 1 July 1999 and before 1 July 2000, the Corporation is entitled to recover some or all of the costs of providing entitlements to the claimant from the insurer who insured the claimant's employer or, in the case of a self-employed person, the insurer who was the insurer of the self-employed person, at that time under the Accident Insurance Act 1998.
-(3) The amount that the Corporation may recover is—where—
+(3) The amount that the Corporation may recover is—(a ÷ b) × total costswhere—
   (a) is the period of time employed in the employment referred to in subsection (2) on or after 1 July 1999 and before 1 July 2000 when the insurer was the employer's or self-employed person's insurer; and
   (b) is the total period of time the claimant was employed in the employment referred to in subsection (2) (including the time before 1 July 1999).
 
@@ -4880,10 +4880,10 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) the claimant's weekly earnings calculated in accordance with clause 36, as if the claimant were not in permanent employment immediately before his or her incapacity commenced.
 
 ### 34 Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations
-(1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:The following table is small in size and contains a formula.abwhere—
+(1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:a ÷ bwhere—
   (a) is the claimant's earnings as an employee (from that permanent employment) in the 4 weeks immediately before his or her incapacity commenced
   (b) is the number of full or part weeks during which the claimant earned those earnings as an employee in those 4 weeks.
-(2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:The following table is small in size and contains a formula.abwhere—
+(2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:a ÷ bwhere—
   (a) is the claimant's earnings as an employee (from employment with that employer) in the 52 weeks immediately before his or her incapacity commenced
   (b) is the number of full or part weeks during which the claimant earned those earnings as an employee.
 (3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
@@ -4899,8 +4899,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 (2) For the purposes of this clause and clause 36, employment is not permanent employment if, in the opinion of the Corporation, the claimant would have not continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
 
 ### 36 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations
-(1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:The following table is small in size and contains a formula.abwhere—ais the claimant's earnings as an employee (from all employment that was not permanent employment) in the 4 weeks immediately before his or her incapacity commencedbis the number of full or part weeks during which the claimant earned those earnings as an employee in the 4 weeks immediately before his or her incapacity commenced.
-(2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:The following table is small in size and contains a formula.abwhere—ais the claimant's earnings as an employee (from all employment that was not permanent employment) in the 52 weeks immediately before his or her incapacity commencedbis 52 or such smaller number, if adjustments are required under subclause (4).
+(1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:a ÷ bwhere—ais the claimant's earnings as an employee (from all employment that was not permanent employment) in the 4 weeks immediately before his or her incapacity commencedbis the number of full or part weeks during which the claimant earned those earnings as an employee in the 4 weeks immediately before his or her incapacity commenced.
+(2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:a ÷ bwhere—ais the claimant's earnings as an employee (from all employment that was not permanent employment) in the 52 weeks immediately before his or her incapacity commencedbis 52 or such smaller number, if adjustments are required under subclause (4).
 (3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
   (a) any period during which the claimant was entitled to weekly compensation:
   (b) any continuous period of unpaid sick leave, during a period of employment, of more than 1 week:
@@ -4932,14 +4932,14 @@ If the Corporation is determining earnings under this Part in relation to a self
   (a) for the first 4 weeks after the first week of incapacity, the greater of the relevant amount calculated under subclause (2) or the amount under subclause (3):
   (b) for any period of incapacity after the 4 weeks referred to in paragraph (a), the relevant amount calculated under subclause (2).
 (2) The amounts that apply under this subclause are,—
-  (a) for claimants who first commenced receiving earnings as self-employed persons in the tax year in which the incapacity commenced, the amount calculated using the following formula:The following table is small in size and contains a formula.abwhere—
+  (a) for claimants who first commenced receiving earnings as self-employed persons in the tax year in which the incapacity commenced, the amount calculated using the following formula:a ÷ bwhere—
     (a) is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
     (b) is the number of full or part weeks during which the claimant earned those earnings as an employee:
-  (b) for claimants for whom the relevant year was the first year during which they received earnings as a self-employed person, the amount calculated using the following formula:where—
+  (b) for claimants for whom the relevant year was the first year during which they received earnings as a self-employed person, the amount calculated using the following formula:(a + b) ÷ cwhere—
     (a) is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
     (b) is the claimant's earnings as a self-employed person in the relevant year
     (c) is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a self-employed person in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
-  (c) for all other claimants, the amount calculated using the following formula:where—
+  (c) for all other claimants, the amount calculated using the following formula:a ÷ c + b ÷ dwhere—
     (a) is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
     (b) is the claimant's earnings as a self-employed person in the relevant year
     (c) is 52 or such smaller number, if an adjustment is required under subclause (3A)
@@ -4970,14 +4970,14 @@ If the Corporation is determining earnings under this Part in relation to a self
   (a) the relevant amount calculated under clause 34 or clause 36, whichever is applicable; and
   (b) the relevant amount calculated under subclause (2).
 (2) The amounts to be calculated under this subclause are,—
-  (a) for claimants who first commenced receiving earnings as a shareholder-employee in the tax year in which the incapacity commenced, the amount calculated using the following formula:The following table is small in size and contains a formula.abwhere—
+  (a) for claimants who first commenced receiving earnings as a shareholder-employee in the tax year in which the incapacity commenced, the amount calculated using the following formula:a ÷ bwhere—
     (a) is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
     (b) is the number of full or part weeks during which the claimant earned those earnings as an employee:
-  (b) for claimants for whom the relevant year was the first year during which they received earnings as a shareholder-employee, the amount calculated using the following formula:where—
+  (b) for claimants for whom the relevant year was the first year during which they received earnings as a shareholder-employee, the amount calculated using the following formula:(a + b) ÷ cwhere—
     (a) is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
     (b) is the claimant's earnings as a shareholder-employee in the relevant year
     (c) is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a shareholder-employee in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
-  (c) for all other claimants, the amount calculated using the following formula:where—
+  (c) for all other claimants, the amount calculated using the following formula:a ÷ c + b ÷ dwhere—
     (a) is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
     (b) is the claimant's earnings as a shareholder-employee in the relevant year
     (c) is 52 or such smaller number, if an adjustment is required under subclause (2A)
