@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-01-02_
+_Consolidation as at 2018-03-30_
 
 > An Act to reform the administration of education
 
@@ -46,6 +46,7 @@ _Consolidation as at 2018-01-02_
     (b) in relation to a principal, means the board of the principal's school
   - **Chief Review Officer** means the chief executive of the Education Review Office
   - **composite school** has the same meaning as in section 145(1)
+  - **contract of enrolment** , in relation to an international student, means a written contract entered into between the student (or the student’s parent if the student is under the age of 18) and the board of a State school that entitles the student to receive tuition at the school
   - **correspondence school** has the same meaning as in section 145(1)
   - **crime involving dishonesty** has the same meaning as in section 2(1) of the Crimes Act 1961
   - **criteria for registration** , in relation to a private school or proposed private school, means the criteria set out in section 35C
@@ -132,7 +133,9 @@ Except as provided in this Act, every person who is not an international student
 (1) Subject to section 4A(3), an international student—
   (a) shall not be enrolled at a State school without the board's consent; and
   (b) shall not be enrolled in special education without the consent of the person or body administering the institution or service concerned.
-(2) Subject to section 4B and to subsections (3) and (4) of this section, once enrolled at a State school or in special education an international student has the same rights to remain enrolled, and to tuition, at the school as a domestic student.
+(2) Subject to sections 4B and 13A and to subsections (2A) to (4) of this section, once enrolled at a State school or in special education an international student has the same rights to remain enrolled, and to tuition, at the school as a domestic student.
+(2A) If an international student’s conduct is in breach of the contract of enrolment, the board of the school may take appropriate disciplinary action against the student.
+(2B) For the purposes of subsection (2A), disciplinary action, including suspension, exclusion, or the termination of the student’s enrolment, is appropriate disciplinary action if it is taken in accordance with the most recent code of practice published under section 238F and the contract of enrolment.
 (3) Except as provided in subsection (5), no international student may be enrolled at a State school if the student's enrolment has the effect that a domestic student who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
 (4) Except as provided in subsection (5), no international student may be enrolled in any subject, course, or programme at a State school if the student's enrolment has the effect that a domestic student who is entitled to enrol in the subject, course, or programme and has applied for enrolment in it is not able to be enrolled in it.
 (5) Although domestic students may not be able to be enrolled, an international student may be enrolled at a State school, or in any subject, course, or programme at a State school, if the enrolment is in a vacant place—
@@ -590,13 +593,16 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 ### 12 Enrolment schemes for certain other schools
 [Repealed]
 
-**Standing-down, suspension, exclusion, and expulsion of students**
+**Standing-down, suspension, exclusion, and expulsion of domestic students**
 
 ### 13 Purpose
-The purpose of the provisions of this Act concerning the standing-down, suspension, exclusion, or expulsion of a student from a State school is to—
+The purpose of the provisions of this Act concerning the standing-down, suspension, exclusion, or expulsion of a domestic student from a State school is to—
   (a) provide a range of responses for cases of varying degrees of seriousness; and
   (b) minimise the disruption to a student's attendance at school and facilitate the return of the student to school when that is appropriate; and
   (c) ensure that individual cases are dealt with in accordance with the principles of natural justice.
+
+### 13A Application of sections 14 to 18AA
+Sections 14 to 18AA (and any rules made under section 18AA) apply only in relation to domestic students.
 
 ### 14 Principal may stand-down or suspend students
 (1) The principal of a State school may stand-down or suspend a student if satisfied on reasonable grounds that—
@@ -3845,6 +3851,7 @@ The State Sector Act 1988 does not apply to an institution that is a sponsor if 
   - **college of education** means, subject to subsection (3), a body referred to in section 162(1)﻿(b) or a body established as a college of education under section 162(2)
   - **combined council** means a body constituted under section 222AM
   - **Commission** means the Tertiary Education Commission established under section 159C
+  - **community tertiary education provider** means a registered establishment that has been recognised by the Minister under section 232AA
   - **constituents** , in relation to an institution, means the people who (by virtue of section 163) constitute it
   - **council** , in relation to an institution, means the body that governs the institution in accordance with section 165
   - **designated polytechnic** ,—
@@ -3854,6 +3861,10 @@ The State Sector Act 1988 does not apply to an institution that is a sponsor if 
     (a) a New Zealand citizen; or
     (b) the holder of a residence class visa granted under the Immigration Act 2009 who satisfies the criteria (if any) prescribed by regulations made under subsection (4); or
     (c) a person of a class or description of persons required by the Minister, by notice in the Gazette, to be treated as if they are not international students
+  - **educational outcome** means a credit, grade, mark, or other measure of student achievement that contributes towards the student gaining—
+    (a) a qualification listed on the Qualifications Framework; or
+    (b) an award that recognises the successful completion of a training scheme; or
+    (c) recognition for successfully meeting the learning outcomes of a standard listed on the Directory of Assessment Standards
   - **enrol** includes admit and and have corresponding meanings
   - **equivalent full-time student formula** means the formula of that name that is based on the student workload that would normally be carried out by a full-time student in a single academic year
   - **existing institution** means—
@@ -3899,6 +3910,7 @@ The State Sector Act 1988 does not apply to an institution that is a sponsor if 
   - **reconstitution day** ,—
     (a) in relation to a polytechnic designated for the purposes of Part 15A by the Governor-General by Order in Council, means the day on which the order comes into force:
     (b) in relation to any other polytechnic, means 1 May 2010
+  - **record of achievement** means a record of a student’s educational outcomes maintained by the Qualifications Authority, a tertiary education provider, or an industry training organisation
   - **Regional Employment and Access Council** means a council of that name established under section 7 of the Access Training Scheme Act 1988
   - **registered establishment** means a private training establishment that has been granted registration by the Qualifications Authority under Part 18, other than a registration that has been cancelled
   - **Secretary** means the chief executive of the Ministry
@@ -3909,7 +3921,7 @@ The State Sector Act 1988 does not apply to an institution that is a sponsor if 
     (a) an institution:
     (b) a registered establishment:
     (c) a government training establishment:
-    (d) any other person or body that provides, or proposes to provide, tertiary education and that is funded through non-departmental output classes from Vote Education (for example, community education providers)
+    (d) any other person or body that provides, or proposes to provide, tertiary education and that is funded through non-departmental output classes from Vote Education
   - **tertiary education strategy** means the latest strategy document issued under section 159AA
   - **training scheme** means study or training that—
     (a) leads to an award; but
@@ -4027,6 +4039,16 @@ The purpose of this Part is to establish—
 ### 159E Charging
 (1) The Commission may charge a commercial rate for any goods and services that it provides under section 159F(1)﻿(bc) and (bd).
 (2) However, the Commission may not charge a commercial rate for any other goods and services that it provides unless the Minister approves.
+(3) The Commission may charge an organisation a fee relating to the cost of the Commission investigating whether the organisation has breached or is breaching a condition subject to which the organisation was given funding approval under section 159YA or funding under section 159ZC if the Commission finds that the organisation has breached or is breaching such a condition.
+(4) However, the Commission may charge a fee under subsection (3) only if the Commission has notified the affected organisation of the proposed investigation and the date on which the investigation will start.
+(5) In reaching a decision on whether to charge an organisation a fee under subsection (3) and on the amount of the fee (if one is to be charged), the Commission must have regard to—
+  (a) the nature and seriousness of the breach; and
+  (b) the effect that a fee would have on the operation, long-term viability, and performance of the organisation.
+(6) The Governor-General may, by Order in Council, on the recommendation of the Minister made in accordance with subsection (7), make regulations—
+  (a) prescribing the criteria against which the Commission must assess a breach to determine the nature and seriousness of the breach for the purposes of subsection (5); and
+  (b) prescribing the criteria against which the Commission must assess a proposed fee to determine, for the purposes of subsection (5), the effect that the fee would have on the operation, long-term viability, and performance of an organisation; and
+  (c) specifying the maximum percentage or proportion of the cost incurred by the Commission in its investigation that may be charged as a fee by the Commission under subsection (3).
+(7) Before making a recommendation under subsection (6), the Minister must consult all persons and organisations that the Minister considers ought to be consulted.
 
 **Functions of Commission**
 
@@ -4178,7 +4200,7 @@ The chief executive of the Commission—
   (e) provide for funding that targets particular groups of students.
 
 ### 159M Restrictions on design of funding mechanisms
-In determining a design for a funding mechanism under section 159L, the Minister may not—
+In determining a design for a funding mechanism under section 159L or in varying a determination under section 159OA, the Minister may not—
   (a) identify a specified organisation or organisations to which funding is to be provided or denied under any funding mechanism; or
   (b) specify conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students until—
     (i) the Minister has published a notice in the Gazette that—
@@ -4195,6 +4217,26 @@ Every funding mechanism must be consistent with the principle that receiving pub
 The Commission must—
   (a) develop the details of how to implement the Minister's determination of the design of funding mechanisms under section 159L; and
   (b) implement the funding mechanisms.
+
+### 159OA Variation of determination of design of funding mechanisms
+(1) After the Commission has implemented, or started to implement, the funding mechanisms under section 159O, the Minister may vary the determination of the design of the funding mechanisms.
+(2) The Minister may only vary a determination—
+  (a) if it is reasonably necessary to do so; and
+  (b) by making changes in relation to the matters mentioned in section 159L(2) and (3).
+(3) Before deciding to vary a determination, the Minister must consult—
+  (a) all organisations that would be affected by a variation that the Minister proposes; and
+  (b) all other persons and organisations that the Minister considers ought to be consulted.
+(4) However, the Minister is not required to consult under subsection (3) in relation to a variation of the conditions under section 159L(3)﻿(d) that set limits on the fees that organisations may charge domestic students.
+(5) If the Minister varies a determination, an organisation affected by the variation must—
+  (a) consider whether any amendments are needed to its plan as a result of the variation; and
+  (b) if it considers that a significant amendment is needed to its plan, or that its plan needs to be replaced, ask the Commission to approve the significant amendment to, or the replacement of, its plan under section 159YK.
+(6) If the Minister varies a determination and, as a result of the variation, the Commission must attach new conditions to funding under a funding mechanism,—
+  (a) the Commission must attach the new conditions to any funding approval that it has given under that funding mechanism; and
+  (b) the Commission must notify any affected organisation of the attachment of the new conditions to the organisation’s funding approval; and
+  (c) the new conditions take effect on the date on which the affected organisation is so notified.
+(7) If the Minister varies a determination, the variation takes effect on a date specified by the Minister that must be no earlier than whichever is the later of the following:
+  (a) the day that is 3 months after the date on which the Minister varies the determination:
+  (b) the beginning of the calendar year after the calendar year during which the Minister varies the determination.
 
 **Requirements for, and content of, proposed plans**
 
@@ -4246,6 +4288,7 @@ The Commission may, by notice in writing, exempt an organisation from complying 
 (1) The Commission may, by notice in writing, exempt an organisation, a group of organisations, or a type of organisation that is seeking funding under a funding mechanism that provides for funding via plans from the requirement, in section 159T(1), to submit a proposed plan.
 (2) The Commission may not exercise the power in subsection (1) in relation to an institution.
 (3) The Commission may exempt an organisation, a group of organisations, or a type of organisation under subsection (1) for a specified period that the Commission considers appropriate.
+(4) If the Commission exempts an organisation under subsection (1), the Commission may fund that organisation under section 159ZC as if it were an organisation for which a funding mechanism provides for funding other than via plans.
 
 ### 159V Frequency of submitting proposed plans
 An organisation that is required to submit a proposed plan must submit a proposed plan to the Commission—
@@ -4304,12 +4347,16 @@ The Commission may permit more than 1 organisation to prepare and submit a combi
 (1) It is a condition of an organisation receiving funding under section 159YA that the organisation will supply to the Commission or Ministry, from time to time as required by the Commission or Ministry, and in a form specified by the Commission or Ministry, any financial, statistical, or other information that the Commission or Ministry requires the organisation to supply.
 (2) The Commission may give funding approval subject to conditions, but only if the conditions are—
   (a) conditions the Minister has determined the Commission must attach to funding under section 159L(3)﻿(d); or
-  (b) conditions that the Commission considers necessary to ensure that the specified outcomes in a plan that relate to tertiary education programmes and activities in relation to which funding is being given are being achieved or will be achieved.
+  (b) conditions that the Commission considers necessary to ensure that the specified outcomes in a plan that relate to tertiary education programmes and activities in relation to which funding is being given are being achieved or will be achieved; or
+  (c) conditions that the Commission considers reasonably necessary to enable the Commission to effectively monitor the performance of organisations and the tertiary education sector generally.
+(2A) If the Commission intends to give funding approval subject to a condition of the type described in subsection (2)﻿(c), the Commission must, before giving funding approval,—
+  (a) give the affected organisation at least 21 days’ notice of the proposed condition; and
+  (b) consider any submissions on the proposed condition made by the organisation.
 (3) The Commission may at any time (including during a funding period) amend any condition imposed under subsection (2).
 (4) The amendment to the condition takes effect when the organisation has been given reasonable notice of it.
 
 ### 159YD Accountability for funding received under section 159YA
-(1) An organisation (other than an institution) that receives funding under section 159YA must ensure that—
+(1) An organisation that receives funding under section 159YA must ensure that—
   (a) it keeps records, in a form consistent with that required by the Commission, for the period to which the funding relates, that fully and fairly show—
     (i) the transactions, assets, liabilities, and funds of the organisation that are or were affected by the funding; and
     (ii) whether any conditions on which the funding approval was given have been complied with; and
@@ -4331,7 +4378,7 @@ The Commission may permit more than 1 organisation to prepare and submit a combi
 
 ### 159YE Expiry of funding approval
 (1) Every plan that has funding approval must specify the date on which funding approval expires (the expiry date), which must be a date determined by the Commission that is no later than 3 years after the date on which the funding approval takes effect.
-(2) Funding approval expires on the expiry date, unless funding approval is earlier revoked under this Part.
+(2) Funding approval expires on the expiry date, unless funding approval is earlier revoked or withdrawn under this Part.
 (3) Despite subsection (2), if, on the expiry date, an organisation is discussing a proposed plan with the Commission or the proposed plan is awaiting funding approval under this Part, the funding approval for the existing plan continues in effect until the earlier of the following dates:
   (a) the date that is 6 months after the expiry date of the existing funding approval; or
   (b) the date that funding approval for the proposed plan comes into effect.
@@ -4343,7 +4390,7 @@ The effect of the expiry of funding approval is that—
 
 **Suspension or revocation of funding given under section 159YA**
 
-### 159YG Commission may suspend or revoke funding given under section 159YA
+### 159YG Commission may suspend, revoke, or withdraw funding given under section 159YA
 (1) The Commission may suspend or revoke some or all funding given under section 159YA if it is satisfied on reasonable grounds that—
   (a) an organisation has not complied, or is not complying, with a condition on which funding has been given under section 159YA; or
   (b) when measured against performance indicators, the organisation has not achieved, or is not achieving, an outcome anticipated in its plan for a tertiary education programme or activity in relation to which funding has been given under section 159YA; or
@@ -4358,6 +4405,8 @@ The effect of the expiry of funding approval is that—
 (5) A suspension must be for a period that the Commission considers reasonable, having considered—
   (a) the specific matters referred to in subsection (2)﻿(a); and
   (b) the action referred to in subsection (4)﻿(b).
+(6) The Commission may withdraw some or all funding given under section 159YA at the written request of the organisation to which the funding has been given.
+(7) If the Commission withdraws some or all funding under subsection (6), it must advise the organisation of the date on which the funding will be withdrawn.
 
 ### 159YH Extending suspension of funding
 (1) The date on which a suspension ends under section 159YG(4)﻿(a) may be extended by the Commission.
@@ -4368,11 +4417,11 @@ The effect of the expiry of funding approval is that—
   (a) the specific matters referred to in section 159YG(2)﻿(a); and
   (b) the action referred to in section 159YG(4)﻿(b).
 
-### 159YI Effect of suspending or revoking funding given under section 159YA
+### 159YI Effect of suspending, revoking, or withdrawing funding given under section 159YA
 (1) The effect of suspending funding given under section 159YA is that the Commission must cease payment, or cease any or all further payments, of funding given under section 159YA in respect of the plan or part of the plan in relation to which funding has been suspended.
-(2) The effect of revoking funding given under section 159YA is that—
+(2) The effect of revoking or withdrawing funding given under section 159YA is that—
   (a) the plan or part of the plan to which the funding relates is revoked; and
-  (b) the Commission must cease payment, or cease any or all further payments, of funding under section 159YA in respect of the plan or part of the plan in relation to which funding has been revoked.
+  (b) the Commission must cease payment, or cease any or all further payments, of funding under section 159YA in respect of the plan or part of the plan in relation to which funding has been revoked or withdrawn.
 
 ### 159YJ Review of decision by delegate to suspend or revoke funding given under section 159YA
 (1) Subsection (2) applies to an organisation in relation to which a person has exercised any of the following powers under a delegation from the Commission under section 73 of the Crown Entities Act 2004:
@@ -4387,7 +4436,11 @@ The effect of the expiry of funding approval is that—
 (1) In this section and sections 159YL to 159YN, significant amendment means an amendment to a plan that relates to—
   (a) a tertiary education programme or an activity in relation to which funding has been given under section 159YA; or
   (b) any of the performance indicators that an organisation uses to measure whether proposed outcomes for tertiary education programmes or activities in relation to which funding has been given under section 159YA are being or have been achieved.
-(2) An organisation may, at any time, ask the Commission to approve a significant amendment to, or the replacement of, a plan.
+(2) An organisation may, at any time, ask the Commission to approve a significant amendment to, or the replacement of, a plan if the organisation considers that the criteria for significant amendment to a plan or the criteria for replacement of a plan are satisfied.
+(2A) The Commission must—
+  (a) set the criteria for significant amendment to a plan; and
+  (b) set the criteria for replacement of a plan; and
+  (c) publish those criteria in the Gazette.
 (3) An organisation that proposes to make a significant amendment to, or to replace, a plan must consult with—
   (a) the stakeholders that the organisation considers ought to be consulted; and
   (b) any other person or group that the Commission stipulates.
@@ -4398,7 +4451,7 @@ The effect of the expiry of funding approval is that—
 (6) In applying the requirements in subsection (5) in order to determine whether or not to approve a significant amendment to, or replacement of, a plan, the Commission must take into account—
   (a) the extent of the significant amendment or replacement; and
   (b) the impact of the significant amendment or replacement on the needs of the stakeholders and any other persons consulted by the organisation under subsection (3).
-(7) The Commission may, at any time, require an organisation to review a plan with a view to amending or replacing it.
+(7) The Commission may, at any time, require an organisation to review a plan with a view to amending or replacing it if the Commission considers that the criteria for significant amendment to a plan or the criteria for replacement of a plan are satisfied.
 (8) Nothing in this section prohibits an organisation from making an amendment to a plan that is not a significant amendment.
 
 ### 159YL Effect of significant amendment or replacement of plan under section 159YK
@@ -4457,7 +4510,7 @@ A significant amendment made to a plan under section 159YM—
 (4) An amendment to a condition takes effect when the organisation has been given reasonable notice of it.
 
 ### 159ZE Accountability for funding received under section 159ZC
-(1) An organisation (other than an institution) that receives funding under section 159ZC must ensure that—
+(1) An organisation that receives funding under section 159ZC must ensure that—
   (a) it keeps records, in a form consistent with that required by the Commission, for the period to which the funding relates, that fully and fairly show—
     (i) the transactions, assets, liabilities, and funds of the organisation that are or were affected by the funding; and
     (ii) whether any conditions on which the grant was made have been complied with; and
@@ -4475,7 +4528,7 @@ A significant amendment made to a plan under section 159YM—
   (d) any other matters that the Commission considers relevant.
 (6) Section 203 sets out the accountability requirements for institutions.
 
-### 159ZF Commission may suspend or revoke funding given under section 159ZC
+### 159ZF Commission may suspend, revoke, or withdraw funding given under section 159ZC
 (1) The Commission may suspend or revoke payment, or any or all further payments, of any funding given to an organisation under section 159ZC if the Commission is satisfied on reasonable grounds that the organisation—
   (a) has not complied, or is not complying, with a condition on which the funding was given; or
   (b) is not providing, or has not provided, adequate and timely information required by the Commission or Ministry under section 159ZD.
@@ -4486,6 +4539,8 @@ A significant amendment made to a plan under section 159YM—
 (4) The Commission must specify the following matters if it decides to suspend funding under subsection (1):
   (a) the date on which the suspension will end and, as a consequence, the funding will be revoked; and
   (b) what action the organisation must take in order to have the suspension lifted and avoid funding being revoked.
+(5) The Commission may, at the written request of an organisation, withdraw some or all payment, or any or all further payments, of any funding given to the organisation under section 159ZC.
+(6) If the Commission withdraws funding under subsection (5), it must advise the organisation of the date on which the funding will be withdrawn.
 
 ### 159ZG Extending suspension of funding
 (1) The date on which a suspension ends under section 159ZF(4)﻿(a) may be extended by the Commission.
@@ -4594,23 +4649,22 @@ In this Part, unless the context otherwise requires,—
   (c) otherwise doing and suffering all that bodies corporate may do and suffer.
 (2) This section does not limit the generality of section 192(1).
 
-### 167 Affixing of council's common seal
-(1) The council of an institution may, in writing under the institution's common seal, authorise any member or members of the council, or any member or members of the staff of the institution, to execute documents, or documents of a specified class or description, or specified documents, on behalf of the institution.
-(2) Subject to subsection (6), an authority under subsection (1) may be given—
-  (a) unconditionally, or subject to any conditions the council thinks fit:
-  (b) to a specified member or members of the council or a specified member or members of the staff of the institution:
-  (c) to a member or members of the staff of the institution of a specified class or description:
-  (d) to the holder or holders for the time being of a specified office or offices of or in the institution:
-  (e) to the holder or holders for the time being of offices of a specified class or description of or in the institution.
-(3) The institution's common seal shall not be affixed to any document except—
-  (a) pursuant to a resolution of the council; or
-  (b) by virtue of, and in accordance with, an authority under subsection (1).
-(4) The affixing of the institution's common seal pursuant to a resolution of the council shall be countersigned—
-  (a) in the case of the affixing of the common seal to an award, by 1 member; or
-  (b) in any other case, by at least 2 members.
-(5) The affixing of the institution's common seal by virtue of an authority under subsection (1) shall be countersigned in accordance with the authority.
-(6) An authority under subsection (1) shall provide for the affixing of the institution's common seal to be countersigned by at least 2 people.
-(7) The affixing of the institution's common seal on a document is conclusive proof of the authority of the people who affixed it to do so.
+### 167 Common seal
+(1) An institution may have a common seal if its council adopts one by statute.
+(2) A council may, by statute,—
+  (a) specify the type or class of documents that may be executed by affixing the common seal to them; and
+  (b) specify the type or class of documents that may be executed only by affixing the common seal to them; and
+  (c) specify any member or members of the council, and any member or members of the staff of the institution, who may countersign documents (or a specified type or class of documents) to which the common seal is affixed.
+(3) The common seal of an institution must be judicially noticed in all courts and for all purposes.
+
+### 167A Method of contracting
+(1) An institution may enter into a contract or other enforceable obligation as provided in this section.
+(2) An obligation that, if entered into by an individual, is required to be entered into by deed may be entered into by the council in writing, signed under the name of the institution by 2 or more members of the council.
+(3) An obligation that, if entered into by an individual, is required to be entered into in writing may be entered into by the council in writing, signed by 1 person or more than 1 person acting under the institution’s express or implied authority.
+(4) An obligation that, if entered into by an individual, is not required to be entered into in writing may be entered into by the council in writing or orally by a person acting under the institution’s express or implied authority.
+(5) This section applies to a contract or other enforceable obligation—
+  (a) whether or not that obligation was entered into in New Zealand; and
+  (b) whether or not the law governing that obligation is the law of New Zealand.
 
 **Constitution of councils**
 
@@ -4749,7 +4803,7 @@ A person who is a member of the council of an institution may be appointed as a 
   (b) if the procedure is no longer available (or no longer applicable to the vacant position), the council must consider whether it is necessary to appoint another person under its constitution and, if so,—
     (i) determine the appropriate procedure for appointment of another person; and
     (ii) appoint another person using it.
-(2) If the office becomes vacant within 3 months before the end of the member's term of office, the Minister or council (as the case may be) may decide that the vacancy does not need to be filled under this section.
+(2) If the office becomes vacant within 6 months before the end of the member's term of office, the Minister or council (as the case may be) may decide that the vacancy does not need to be filled under this section.
 (3) Sections 173 and 174 apply to an appointment under this section.
 
 ### 176A Individual duties of members of councils
@@ -4835,6 +4889,10 @@ The Minister may remove a member of the council of an institution under section 
 (2) It is the duty of the chairperson of a council to convene such meetings as he or she thinks necessary for the efficient performance of the functions of the council.
 (3) If so requested by written notice by not fewer than 3 members of a council, the chairperson of the council shall convene a meeting.
 (4) If there is no chairperson of a council or for any reason the chairperson is not available, the deputy chairperson of the council has the powers and duties of the chairperson under subsections (1) to (3) and references in those subsections to the chairperson shall be construed as references to the deputy chairperson.
+(4A) Meetings may be held by means of audio, audio and visual, or electronic communication if—
+  (a) each member who wishes to participate in the meeting has access to the technology needed to participate in the meeting; and
+  (b) a quorum of members can simultaneously communicate with each other throughout the meeting.
+(4B) If a meeting is held in accordance with subsection (4A), each member who participates in the meeting by means of audio, audio and visual, or electronic communication is present at the meeting for the purposes of subsections (5) to (9).
 (5) No business shall be transacted at a meeting unless a majority of the members then holding office are present.
 (6) The chairperson shall preside at all meetings at which he or she is present.
 (7) If the chairperson is not present at a meeting but the deputy chairperson is present, the deputy chairperson shall preside.
@@ -5126,6 +5184,43 @@ Section 168(1) and (2) of the Crown Entities Act 2004 applies to a council of an
 (1) Any money or property that is gifted to an institution may be accepted or disclaimed by the council of the institution in accordance with section 167 of the Crown Entities Act 2004.
 (2) A limitation in this Act or the Crown Entities Act 2004 (such as a limitation on the form in which property may be held) does not apply during a period that is reasonable in the circumstances.
 
+### 201C Council may establish common fund
+(1) This section and sections 201D and 201E are for the avoidance of doubt.
+(2) The council of an institution may—
+  (a) establish a common fund; and
+  (b) subject to subsections (3) and (4), invest any trust funds in its possession, in whole or in part, in the common fund (whether the funds came into the council’s possession before or after this section came into force).
+(3) If the council has in its possession trust funds of a trust of which the council is a co-trustee, the council may only invest those trust funds in the common fund with the consent of all the other co-trustees.
+(4) The council may not invest trust funds in the common fund if this would be inconsistent with the terms of any trust instrument governing the investment of the trust funds.
+
+### 201D Investment of funds held in common fund
+(1) The council may invest funds that are held in a common fund only in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
+(2) Investments of funds held in a common fund must not be made on account of, and do not belong to, any particular trust, but the council must, at all times, maintain an account showing the entitlement of each trust in the common fund.
+(3) If trust funds are invested in a type or class of investment in which the common fund may be invested, the council may transfer that investment to the common fund and, if it does so,—
+  (a) the investment ceases, at the time of transfer, to belong to the trust that held the investment; and
+  (b) the council must give credit in the common fund to the trust for the fair market value of the investment at the time of transfer.
+(4) Any profit or loss upon the realisation of any investment in a common fund is to be credited or debited to the common fund.
+
+### 201E Income and capital of common fund
+(1) Each financial year, the council must—
+  (a) pay or allocate the income from the common fund to the trusts entitled to the amounts invested in the common fund—
+    (i) in proportion to the value of their respective interests in the common fund; and
+    (ii) at a uniform rate determined by the council; and
+  (b) hold the capital of the common fund on behalf of the trusts entitled to the amounts invested in the common fund in proportion to the value of their respective interests in the common fund; and
+  (c) hold any income that is not paid or allocated to trusts, and any capital that is not held on behalf of trusts, in a reserve fund separate from other trust funds.
+(2) The council may apply funds held in the reserve fund, including any income derived from investments of the reserve fund, for any of the following purposes:
+  (a) augmenting the capital of the common fund:
+  (b) reinstating any losses of capital in the common fund:
+  (c) increasing or supplementing the income paid or allocated to trusts that have interests in the common fund.
+(3) The council may withdraw any amount from the common fund to the credit of a trust that has an interest in the common fund—
+  (a) for the purpose of investing the amount on a separate account for the trust; or
+  (b) for any other purpose relating to the exercise and discharge of its duties, powers, authorities, and functions.
+(4) If any amount is withdrawn from the common fund to the credit of a trust that has an interest in the common fund,—
+  (a) that amount may, at the discretion of the council, be paid or provided in cash or rateably in investments, or partly in cash and partly rateably in investments; and
+  (b) as from the date of its withdrawal, the trust has no claim on the fund in respect of the amount, whether for interest or otherwise.
+(5) The council—
+  (a) may charge a reasonable fee, payable out of the income received by the common fund, for services provided by the council in relation to the administration or management of the common fund; and
+  (b) must publish the amount of any such fee, and the method by which the fee is calculated or applied (and any change to that method), in the annual report.
+
 ### 202 Application of money
 The money of an institution shall be applied only—
   (a) in payment or discharge of the expenses, charges, obligations or liabilities incurred or undertaken by or on behalf of the institution; or
@@ -5362,6 +5457,7 @@ The submission in respect of any land or interest in land of a claim under secti
     (ii) disadvantaged in terms of their ability to attend the institution; and
   (f) in the case of an institution that has a plan, a statement of service performance for that financial year reporting on the performance of the institution as compared with the proposed outcomes described in that plan.
 (2B) Section 156 of the Crown Entities Act 2004 applies to institutions and, for this purpose, is to be read as referring to a statement of service performance under subsection (2A)﻿(f).
+(2C) A statement of service performance under subsection (2A)﻿(f) must be prepared in accordance with generally accepted accounting practice, within the meaning of section 8 of the Financial Reporting Act 2013.
 (3) The Minister must present the report to the House of Representatives within 5 working days after receiving the report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
 (4) The first report by the council of an institution that is a body to which section 162(1) applied shall extend to operations during the part of the academic year before the council became the governing body of the institution.
 (5) In this section, parent Crown entity has the meaning set out in section 8 of the Crown Entities Act 2004.
@@ -5765,7 +5861,15 @@ The Registrar or other appropriate officer of an institution shall, if so requir
     (iii) the maximum amount that students may be charged for the student services that are to be made available (the student services fee):
     (iv) the procurement of student services:
     (v) the method for authorising expenditure on student services:
-  (d) requires the institution or institutions to include in the institution’s annual report (under section 220) a description of the services funded out of the student services fee and a statement of the fee income and expenditure for each type of student service.
+  (d) requires the institution or institutions to include the following information in the institution’s annual report (under section 220):
+    (i) a description of the services funded out of the student services fee:
+    (ii) a statement of the fee income and expenditure for each type of student service:
+    (iii) the student services fee expressed as an amount payable per student:
+    (iv) a statement describing how the institution has complied with any requirement to hold fees in a manner specified in a direction given under paragraph (b):
+  (e) requires the institution or institutions to publish information about the following matters on an Internet site maintained by the institution:
+    (i) the student services fee expressed as an amount payable per student:
+    (ii) the arrangements that the institution has established for decisions to be made jointly or in consultation with students or their representatives in accordance with paragraph (c):
+    (iii) how students can participate in the process of joint decision making or consultation mentioned in paragraph (c).
 (2) If the Minister lists under subsection (1)﻿(a) categories of student services that may be made available to students (listed categories),—
   (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
   (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
@@ -5896,6 +6000,12 @@ In this Part, unless the context otherwise requires,—
   - **senior manager** , in relation to a private training establishment, means—
     (a) the chief executive officer or person occupying an equivalent position; or
     (b) any member of staff in charge of academic issues, marketing, administration, finance, student fee trust funds, or student services.
+
+**Recognition of community tertiary education provider**
+
+### 232AA Minister may recognise community tertiary education provider
+(1) The Minister may, by notice in the Gazette, recognise a registered establishment as a community tertiary education provider.
+(2) The Minister must, by notice in the Gazette, specify the criteria for recognition of a registered establishment as a community tertiary education provider.
 
 **Programmes and training schemes in which international students enrolled**
 
@@ -6111,6 +6221,9 @@ Every private training establishment must—
 
 ### 235 Refund entitlements of domestic students
 (1) A domestic student who is enrolled at a private training establishment for all or part of a programme or training scheme that is of more than 3 months' duration and who withdraws from that programme or scheme within the refund period is entitled to a refund, without deduction, of so much of any payment, or of the sum of any payments, made by the student in respect of the programme or scheme, and, if withdrawal from the programme or scheme also constitutes complete withdrawal from the establishment, in respect of enrolment at the establishment, as exceeds $500 or 10% of the amount of that payment or of the sum of those payments, whichever is the lesser.
+(1A) A private training establishment must—
+  (a) allow every domestic student enrolled for a programme or training scheme that is of less than 3 months’ duration to withdraw from it within a period (being less than 7 days) specified by the Authority; and
+  (b) refund to every domestic student who so withdraws a minimum amount or proportion, specified by the Authority, of any payments made by the student to the establishment in respect of the programme or training scheme.
 (2) If the student withdraws from a programme or training scheme within the refund period, the independent trustee must refund all payments made to it by the private training establishment in respect of the programme or scheme—
   (a) to the trustee of the student's new education provider; or
   (b) if the fee has been paid for by student loan money, to the department defined in section 235F(1); or
@@ -6158,7 +6271,15 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
     (iii) the maximum amount that students may be charged for the student services that are to be made available (the student services fee):
     (iv) the procurement of student services:
     (v) the method for authorising expenditure on student services:
-  (d) requires the establishment or establishments to provide each year to students a written report describing the services that have been funded out of the student services fee and a statement of the fee income and expenditure on each type of student service.
+  (d) requires the establishment or establishments to provide each year to students a written report including the following information:
+    (i) a description of the services funded out of the student services fee:
+    (ii) a statement of the fee income and expenditure for each type of student service:
+    (iii) the student services fee expressed as an amount payable per student:
+    (iv) a statement describing how the establishment has complied with any requirement to hold fees in a manner specified in a direction given under paragraph (b):
+  (e) requires the establishment or establishments to publish information about the following matters on an Internet site maintained by the establishment:
+    (i) the student services fee expressed as an amount payable per student:
+    (ii) the arrangements that the establishment has established for decisions to be made jointly or in consultation with students or their representatives in accordance with paragraph (c):
+    (iii) how students can participate in the process of joint decision making or consultation mentioned in paragraph (c).
 (2) If the Minister lists under subsection (1)﻿(a) categories of student services that may be made available to students (listed categories),—
   (a) the types of student services described in subsection (1)﻿(c)﻿(i) must fall within the listed categories; and
   (b) the categories of student services described in subsection (1)﻿(c)﻿(ii) must be listed categories.
@@ -6394,19 +6515,19 @@ A provider must enrol a person as an international student if the person is not 
   (ba) the funding of the operation of the International Student Contract Dispute Resolution Scheme provided for by section 238J:
   (c) the general administration of the levy and associated purposes.
 (1A) Subsection (1B) applies if—
-  (a) an international student is or was enrolled with a private training establishment for a course of study or training; and
-  (b) at the time of the student's enrolment the private training establishment held a current registration under Part 18; and
-  (c) the private training establishment has not, cannot, or will not provide, in whole or in part, the course of study or training.
+  (a) an international student is or was enrolled with a private training establishment or a private school for a course of study or training; and
+  (b) at the time of the student's enrolment the private training establishment held a current registration under Part 18, or the private school held a current registration under section 35A; and
+  (c) the private training establishment or private school has not, cannot, or will not provide, in whole or in part, the course of study or training.
 (1B) If this subsection applies, the funds of the levy may be used for any of the following:
-  (a) to make payment to any person to ensure the reimbursement of the student, in whole or in part, for tuition fees or for any payment other than tuition fees made by or on behalf of that student to the private training establishment in respect of the student's course of study or training if, and to the extent that,—
-    (i) the private training establishment has not refunded the tuition fees or other payment; and
+  (a) to make payment to any person to ensure the reimbursement of the student, in whole or in part, for tuition fees or for any payment other than tuition fees made by or on behalf of that student to the private training establishment or private school in respect of the student's course of study or training if, and to the extent that,—
+    (i) the private training establishment or private school has not refunded the tuition fees or other payment; and
     (ii) the agency responsible for the administration of the levy approves the reimbursement of the student as necessary and appropriate in the circumstances:
-  (b) with the approval of the Minister, to reimburse the Crown for any sum provided by the Crown and paid to any person to ensure the reimbursement of the student, in whole or in part, for tuition fees or for any payment other than tuition fees made by or on behalf of that student to the private training establishment in respect of the student's course of study or training if, and to the extent that,—
-    (i) the private training establishment had not refunded the tuition fees or other payment; and
+  (b) with the approval of the Minister, to reimburse the Crown for any sum provided by the Crown and paid to any person to ensure the reimbursement of the student, in whole or in part, for tuition fees or for any payment other than tuition fees made by or on behalf of that student to the private training establishment or private school in respect of the student's course of study or training if, and to the extent that,—
+    (i) the private training establishment or private school had not refunded the tuition fees or other payment; and
     (ii) the agency responsible for the administration of the levy approved the reimbursement of the student as necessary and appropriate in the circumstances:
   (c) with the approval of the Minister, to reimburse, in whole or in part, the agency responsible for the administration of the levy, or any Crown entity, for—
     (i) costs incurred by that agency or Crown entity in placing the student with an alternative provider; or
-    (ii) other costs incurred by that agency or Crown entity as a direct result of the private training establishment not providing the course of study or training.
+    (ii) other costs incurred by that agency or Crown entity as a direct result of the private training establishment or private school not providing the course of study or training.
 (2) The funds of the levy must be kept in a separate bank account that is used only for the purposes of the levy.
 (3) As soon as practicable after 1 July in each year, the agency responsible for the administration of the levy must present to the Minister an annual report on the administration of the levy, which must include audited financial statements prepared in accordance with generally accepted accounting practice; and the Minister must present a copy of the report to the House of Representatives.
 (4) The amount of levy payable by a provider under regulations made under this section is a debt due to the Crown and may be recovered in any court of competent jurisdiction.
@@ -6816,19 +6937,25 @@ In this Part, unless the context otherwise requires,—
   (b) emphasises general principles and basic knowledge as the basis for self-directed work and learning.
 (4) The Authority must not withhold its consent to the use of any particular term or the granting of an award that, or whose name or description, includes any particular word, unless satisfied on reasonable grounds that it should do so.
 
-**Use of certain terms in name of registered establishment**
+**Use of certain terms in name or description of registered establishment or wananga**
 
-### 253C Minister may consent to registered establishments using certain terms in their names
-(1) In this section, institution means a college of education, a polytechnic, a specialist college, a university, or a wananga.
-(2) A registered establishment may apply to the Minister for consent to use the term university, college of education, polytechnic, or institute of technology to describe a registered establishment that is not an institution.
-(3) Before deciding whether to grant consent under subsection (2), the Minister must—
+### 253C Minister may consent to use of certain terms in name or description of registered establishment or wananga
+(1)
+(2) A registered establishment may apply to the Minister for consent to describe itself using the term university, college of education, polytechnic, or institute of technology.
+(2A) A wananga may apply to the Minister for consent to describe itself using the term university, college of education, polytechnic, or institute of technology.
+(3) Before deciding whether to grant consent under subsection (2) or (2A), the Minister must—
   (a) take into account the characteristics of institutions as described in section 162(4); and
-  (b) receive advice on the application from the Authority; and
+  (b) receive advice on the application from the Authority and from the Commission; and
   (c) be satisfied that consenting to the application is in the interests of the tertiary education system and the nation as a whole; and
-  (d) consult with the institutions, organisations representing institutions, and other relevant bodies that the Minister considers appropriate.
-(4) In deciding whether to grant consent under subsection (2) to the use of the term “institute of technology”, the relevant characteristics that the Minister must take into account are the characteristics of a polytechnic.
-(5) The Minister may audit any registered establishment that has been given consent to use one of the terms in subsection (2) for continuous compliance with the requirements for consent to use the term.
-(6) If the Minister is not satisfied that a registered establishment is continuing to comply with the requirements for consent to use the term for which consent has been given, the Minister may—
+  (d) consult with the institutions, organisations representing institutions, and other relevant bodies that the Minister considers appropriate; and
+  (e) in the case of a wananga, consult with such persons or bodies who are knowledgeable in āhuatanga Māori (Māori tradition) and tikanga Māori (Māori custom) within a kaupapa Māori pedagogy as the Minister considers appropriate.
+(4) In deciding whether to grant consent under subsection (2) or (2A) to the use of the term “institute of technology”, the relevant characteristics that the Minister must take into account are the characteristics of a polytechnic.
+(5) The Minister may grant consent under subsection (2) or (2A) subject to conditions that the Minister considers reasonably necessary to—
+  (a) ensure that students, employers, and members of the public are adequately informed of the legal status or characteristics of the registered establishment or wananga to which the consent is granted; and
+  (b) ensure adequate protection of the quality and reputation of the institutions that may use the term without applying to do so; and
+  (c) protect the interests of the tertiary education system and the nation as a whole.
+(5A) The Minister may, at any time, carry out a review of a registered establishment or wananga to assess whether it is continuing to comply with any conditions subject to which it was granted consent under subsection (2) or (2A).
+(6) If, having regard to a review carried out under subsection (5A), the Minister is not satisfied that a registered establishment or wananga is continuing to comply with the conditions subject to which it was granted consent under subsection (2) or (2A), the Minister may—
   (a) withdraw the consent; or
   (b) suspend the consent for a specified period, at the expiry of which the Minister must either lift the suspension or withdraw the consent.
 
@@ -7244,19 +7371,19 @@ The chief executive is responsible for—
 (1) A person commits an offence who—
   (a) uses the term university to describe an educational establishment or facility unless the educational establishment and facility—
     (i) is a university; or
-    (ii) is a registered establishment that has the Minister's consent under section 253C to use the term; or
+    (ii) is a registered establishment or wananga that has the Minister's consent under section 253C to use the term; or
     (iii) was a university but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a university as set out in section 162(4)﻿(a) and (b)﻿(iii):
   (b) uses the term college of education to describe an educational establishment or facility unless the educational establishment or facility—
     (i) is a college of education; or
-    (ii) is a registered establishment that has the Minister's consent under section 253C to use the term; or
+    (ii) is a registered establishment or wananga that has the Minister's consent under section 253C to use the term; or
     (iii) was a college of education but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a college of education as set out in section 162(4)﻿(b)﻿(i):
   (c) uses the term polytechnic to describe an educational establishment or facility unless the educational establishment or facility—
     (i) is a polytechnic or institute of technology; or
-    (ii) is a registered establishment that has the Minister's consent under section 253C to use the term; or
+    (ii) is a registered establishment or wananga that has the Minister's consent under section 253C to use the term; or
     (iii) was a polytechnic or institute of technology but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii):
   (d) uses the term institute of technology to describe an educational establishment or facility unless the educational establishment or facility—
     (i) is an institute of technology or a polytechnic; or
-    (ii) is a registered establishment that has the Minister's permission under section 253C to use the term; or
+    (ii) is a registered establishment or wananga that has the Minister's permission under section 253C to use the term; or
     (iii) was an institute of technology or a polytechnic but, despite being incorporated under section 164(4) into another institution, retains the characteristics of a polytechnic as set out in section 162(4)﻿(b)﻿(ii).
 (2) A person (other than a university) commits an offence who grants or purports to grant an award that is described as a degree, or the description of which includes the word bachelor, master, doctor, or postgraduate, unless—
   (a) the person has the consent of the Qualifications Authority; or
@@ -7295,10 +7422,12 @@ The chief executive is responsible for—
 ### 292C Offence to issue false qualifications and falsify records
 (1) A person commits an offence who knowingly or recklessly issues an award that falsely represents, expressly or by implication, that a person has achieved a qualification listed on the Qualifications Framework.
 (2) A person commits an offence who receives an award knowing that the award falsely represents, expressly or by implication, that he or she has achieved a qualification listed on the Qualifications Framework.
-(3) A person commits an offence—
-  (a) who enters or changes results on a student's record of achievement, knowing that the results or changes have the effect of falsifying the student's record:
-  (b) who, without reasonable excuse or lawful authority, causes entries or changes to be made on a student's record that have the effect of falsifying the student's record.
-(4) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
+(3) A person commits an offence if the person—
+  (a) enters or changes an educational outcome on a student’s record of achievement, knowing that or being reckless as to whether the entry or change has the effect of falsifying the student’s record; or
+  (b) fails to enter an educational outcome on a student’s record of achievement, knowing that or being reckless as to whether the omission has the effect of falsifying the student’s record; or
+  (c) without reasonable excuse or lawful authority, causes an entry or a change to be made on a student’s record of achievement that has the effect of falsifying the student’s record.
+(4) A person who commits an offence under subsection (2) is liable on conviction to a fine not exceeding $10,000.
+(5) A person who commits an offence under subsection (1) or (3) is liable on conviction to a fine not exceeding $50,000.
 
 ### 292D Offence to fail to comply with section 236A (student records)
 (1) A private training establishment commits an offence that fails, without reasonable excuse, to comply with the requirements of section 236A.
@@ -9525,6 +9654,29 @@ Careers New Zealand is dissolved.
 (1) This clause applies for the 2018 school year.
 (2) The Minister may, before 1 August 2017, prescribe the mid-term dates for 2018.
 (3) This clause overrides section 5B(3) and (4).
+
+### Part 5A — Provisions relating to Education (Tertiary Education and Other Matters) Amendment Act 2018
+
+### 11A Interpretation
+In this Part, commencement date means the date on which the Education (Tertiary Education and Other Matters) Amendment Act 2018 comes into force.
+
+### 11B Variation of determination of design of funding mechanisms (section 159OA)
+A variation of a determination under section 159OA may affect an organisation whose plan has been given funding approval, and may involve the attachment of new conditions to the funding approval, whether the funding approval was given before, on, or after the commencement date.
+
+### 11C Accountability for funding (sections 159YD and 159ZE)
+Sections 159YD and 159ZE as amended by the Education (Tertiary Education and Other Matters) Amendment Act 2018 apply in relation to funding received by an organisation after the commencement date.
+
+### 11D Casual vacancies (section 176)
+Section 176 as amended by the Education (Tertiary Education and Other Matters) Amendment Act 2018 applies in relation to any vacancy that arises after the commencement date.
+
+### 11E Annual report (section 220)
+The first statement of service performance to which section 220(2C) applies is the statement of service performance for the first financial year that begins after the commencement date.
+
+### 11F Ministerial direction relating to compulsory student services fees (sections 227A and 235D)
+Sections 227A and 235D as amended by the Education (Tertiary Education and Other Matters) Amendment Act 2018 apply in the first academic year that begins after the commencement date and all subsequent academic years.
+
+### 11G Refund entitlements of domestic students (section 235)
+Section 235(1A) applies in relation to domestic students who enrol for a programme or training scheme on or after the date that is 6 months after the commencement date.
 
 ## Schedule 2 — Administrative provisions applying to Board continued by section 37
 
