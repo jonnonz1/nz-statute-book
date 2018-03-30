@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2018-03-30_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -62,7 +62,6 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | Road boards | Counties Act 1956 (1956 No 64) (1957 Reprint, Vol 3, p 1) |
 | Secondary schools councils | Education Act 1964 (1964 No 135) |
 | Secondary schools governing bodies | Education Act 1914 (1914 No 56) (1931 Reprint, Vol 2, p 1007) and, in case of the secondary schools named in Schedule 9 of that Act, the several Acts constituting those schools |
-| Tertiary institutions | Education Act 1989 (1989 No 80) |
 | Town councils | Municipal Corporations Act 1954 (1954 No 76) |
 | United councils | Local Government Act 1974 (1974 No 66) |
 | Urban fire authorities | Fire Services Act 1949 (1949 No 18) (1957 Reprint, Vol 5, p 179) |
