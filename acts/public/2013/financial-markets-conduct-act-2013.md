@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-03-30_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -4200,23 +4200,35 @@ The purpose of a disclosure statement under section 423 is to provide certain in
 (3) The disclosure statement must comply with all requirements of the regulations relating to the form and presentation of the statement.
 (4) Subsection (2) does not apply to the minimum prescribed disclosure statement referred to in section 424(3)﻿(a).
 
-### 427 False or misleading statements and omissions
-(1) A person must not provide a disclosure statement to a person under section 423, or provide the service to a person who was required to be provided, or has been provided, with the disclosure statement (until subsection (5) applies), if—
-  (a) there is—
-    (i) a statement in the disclosure statement that is false or misleading or is likely to mislead; or
-    (ii) an omission from the disclosure statement of information that is required to be contained in the disclosure statement by the regulations; and
-  (b) the statement or omission is materially adverse from the point of view of the retail investor.
-(2) For the purposes of this section, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it.
-(3) Subsection (2) does not limit the meaning of a reference to a misleading statement.
-(4) This section does not limit sections 423 to 426.
-(5) The licensee or authorised body may provide the service to the person if a new disclosure statement is provided to the person that is not defective in terms of subsection (1)﻿(a) and (b).
-(6) See section 511 (offence to knowingly or recklessly contravene this section).
-
-### 428 Further prescribed information to be made available
+### 426A Further prescribed information to be made available
 (1) A licensee or an authorised body that provides the service must,—
   (a) at the request of a prescribed person or at the prescribed times or on the occurrence of the prescribed events, make available to the prescribed person the information that is required to be made available under this section by the regulations; and
   (b) at the prescribed times or on the occurrence of the prescribed events, make publicly available the information that is required to be made publicly available by the regulations.
 (2) The information must be made available in the prescribed manner.
+
+### 427 False or misleading statements and omissions
+(1) Subsections (2) to (5) apply if—
+  (a) there is—
+    (i) a statement in a disclosure statement that is false or misleading or is likely to mislead; or
+    (ii) an omission from a disclosure statement of information that is required to be contained in the disclosure statement by the regulations; and
+  (b) the statement or omission is materially adverse from the point of view of a retail investor.
+(2) The licensee or authorised body must not provide the disclosure statement to a person under section 423.
+(3) If the disclosure statement has already been provided to a person (A), the licensee or authorised body must not continue to provide the service to A—
+  (a) in the prescribed circumstances (if any); or
+  (b) if the licensee or authorised body fails to comply with any prescribed conditions.
+(4) If the licensee or authorised body continues to provide the service to A, the licensee or authorised body must provide to A a new disclosure statement that is not defective in terms of subsection (1)﻿(a) and (b).
+(5) The new disclosure statement under subsection (4) must be provided in the prescribed manner (if any).
+(6) A person must not make available to any person or the public any information under section 426A (the further disclosure) if—
+  (a) there is—
+    (i) a statement in the further disclosure that is false or misleading or is likely to mislead; or
+    (ii) an omission from the further disclosure of information that is required to be contained in the further disclosure by this Act or the regulations; and
+  (b) the statement or omission is materially adverse from the point of view of a retail investor.
+(7) See section 511 (offence to knowingly or recklessly contravene subsection (2) or (6)).
+
+### 428 Miscellaneous provisions relating to false or misleading statements and omissions
+(1) For the purposes of section 427, a statement about a future matter (including the doing of, or refusing to do, an act) must be taken to be misleading if the person making the statement does not have reasonable grounds for making it.
+(2) Subsection (1) does not limit the meaning of a reference to a misleading statement.
+(3) Section 427 does not limit sections 423 to 426A.
 
 ### Subpart 5 — Requirement for certain services to be provided under client agreements
 
@@ -4385,7 +4397,7 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
 (3) The provisions are the following:
   (a) section 388 (when provider of market services needs to be licensed):
   (b) section 391 (prohibitions on holding out):
-  (c) section 427 (false or misleading statements and omissions):
+  (c) section 427(2), (3), and (6) (false or misleading statements and omissions):
   (d) section 430 (need for client agreement):
   (e) section 431 (contents, form, and effect of client agreement):
   (f) section 445 (requirements for custodian):
@@ -4397,7 +4409,8 @@ Regulations made under this subpart may apply to a derivatives issuer (whether o
   (d) section 418 (approval, amendment, or rejection of action plan):
   (e) section 420 (directions):
   (f) section 423 (disclosure must be made to retail investor):
-  (g) section 428 (further prescribed information to be made available):
+  (g) section 426A (further prescribed information to be made available):
+  (ga) section 427(4) or (5) (failure to provide a new disclosure statement):
   (h) sections 433 to 435 (duties of DIMS licensee and of directors and senior managers of DIMS licensee):
   (i) section 437 (requirement for agreed investment authority):
   (j) section 438 (action that must be taken on limit breaks):
@@ -4997,13 +5010,13 @@ A civil liability order under section 497 may—
     (i) A's contravention was due to the act or default of another person, or to an accident or to some other cause beyond A's control; and
     (ii) A took reasonable precautions and exercised due diligence to avoid the contravention.
 (2) For the purposes of subsection (1)﻿(a) and (b), another person does not include a director, an employee, or an agent of A.
-(3) Subsection (1)﻿(b) does not apply to a contravention of section 82, 99, or 427 or clause 27 of Schedule 1 (but see the defences in sections 500 and 501).
+(3) Subsection (1)﻿(b) does not apply to a contravention of section 82, 99, or 427(2) or (6) or clause 27 of Schedule 1 (but see the defences in sections 500 and 501).
 
 ### 500 Disclosure defences for person in contravention
-(1) In any proceeding under this subpart against a person (A) for a contravention of section 82, 99, or 427 or clause 27 of Schedule 1 because of a statement that is false or misleading or that is likely to mislead, it is a defence if A proves that A—
+(1) In any proceeding under this subpart against a person (A) for a contravention of section 82, 99, or 427(2) or (6) or clause 27 of Schedule 1 because of a statement that is false or misleading or that is likely to mislead, it is a defence if A proves that A—
   (a) made all inquiries (if any) that were reasonable in the circumstances; and
   (b) after doing so, believed on reasonable grounds that the statement was not false or misleading.
-(2) In any proceeding under this subpart against a person (A) for a contravention of section 82, 99, or 427 or clause 27 of Schedule 1 because of an omission from a disclosure document or register entry in relation to a particular matter, it is a defence if A proves that A—
+(2) In any proceeding under this subpart against a person (A) for a contravention of section 82, 99, or 427(2) or (6) or clause 27 of Schedule 1 because of an omission from a disclosure document or register entry in relation to a particular matter, it is a defence if A proves that A—
   (a) made all inquiries (if any) that were reasonable in the circumstances; and
   (b) after doing so, believed on reasonable grounds that there was no omission from the disclosure document or register entry in relation to that matter.
 (3) In any proceeding under this subpart against a person (A) for a contravention of section 82 because of a circumstance referred to in section 82(1)﻿(a)﻿(iii), it is a defence if A proves that A was not aware of the matter.
@@ -5088,21 +5101,22 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
   (b) in any other case, to a fine not exceeding $5 million.
 
 ### 511 Offence of knowingly or recklessly contravening other provisions relating to defective disclosure
-(1) A person who contravenes section 99 or 427 or clause 27 of Schedule 1 commits an offence if the person—
-  (a) knows that, or is reckless as to whether, the statement referred to in section 99(1)﻿(a)﻿(i) or 427(1)﻿(a)﻿(i) or clause 27(1)﻿(a)﻿(i) of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
-  (b) knows that, or is reckless as to whether, there is an omission as referred to in section 99(1)﻿(a)﻿(ii) or 427(1)﻿(a)﻿(ii) or clause 27(1)﻿(a)﻿(ii) of Schedule 1 (as the case may be).
-(2) If an entity contravenes section 99 or 427 or clause 27 of Schedule 1, a director of the entity commits an offence if—
+(1) A person who contravenes section 99 or 427(2) or (6) or clause 27 of Schedule 1 commits an offence if the person—
+  (a) knows that, or is reckless as to whether, the statement referred to in section 99(1)﻿(a)﻿(i) or 427(1)﻿(a)﻿(i) or (6)﻿(a)﻿(i) or clause 27(1)﻿(a)﻿(i) of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
+  (b) knows that, or is reckless as to whether, there is an omission as referred to in section 99(1)﻿(a)﻿(ii) or 427(1)﻿(a)﻿(ii) or (6)﻿(a)﻿(ii) or clause 27(1)﻿(a)﻿(ii) of Schedule 1 (as the case may be).
+(2) If an entity contravenes section 99 or 427(2) or (6) or clause 27 of Schedule 1, a director of the entity commits an offence if—
   (a) the relevant act takes place with the director's authority, permission, or consent; and
   (b) the director—
-    (i) knows that, or is reckless as to whether, the statement referred to in section 99(1)﻿(a)﻿(i) or 427(1)﻿(a)﻿(i) or clause 27(1)﻿(a)﻿(i) of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
-    (ii) knows that, or is reckless as to whether, there is an omission as referred to in section 99(1)﻿(a)﻿(ii) or 427(1)﻿(a)﻿(ii) or clause 27(1)﻿(a)﻿(ii) of Schedule 1 (as the case may be).
+    (i) knows that, or is reckless as to whether, the statement referred to in section 99(1)﻿(a)﻿(i) or 427(1)﻿(a)﻿(i) or (6)﻿(a)﻿(i) or clause 27(1)﻿(a)﻿(i) of Schedule 1 (as the case may be) is false or misleading or is likely to mislead; or
+    (ii) knows that, or is reckless as to whether, there is an omission as referred to in section 99(1)﻿(a)﻿(ii) or 427(1)﻿(a)﻿(ii) or (6)﻿(a)﻿(ii) or clause 27(1)﻿(a)﻿(ii) of Schedule 1 (as the case may be).
 (3) A person who commits an offence under subsection (1) or (2) is liable on conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 5 years, a fine not exceeding $500,000, or both; and
   (b) in any other case, to a fine not exceeding $2.5 million.
 (4) In this section, relevant act means,—
   (a) in relation to section 99, the act of providing or making available the ongoing disclosure:
-  (b) in relation to section 427, the act of providing the disclosure statement to a person or supplying the service to a person who was required to be provided, or has been provided, with the disclosure statement:
-  (c) in relation to clause 27 of Schedule 1, the act of providing the disclosure document to a person.
+  (b) in relation to section 427(2), the act of providing the disclosure statement to a person:
+  (c) in relation to section 427(6), the act of providing or making available the further disclosure:
+  (d) in relation to clause 27 of Schedule 1, the act of providing the limited disclosure document to a person.
 
 ### 512 General offence for false or misleading statements
 (1) Every person commits an offence who, with respect to a document required by or for the purposes of this Act, makes, or authorises the making of, a statement in it that is false or misleading in a material particular knowing it to be false or misleading.
