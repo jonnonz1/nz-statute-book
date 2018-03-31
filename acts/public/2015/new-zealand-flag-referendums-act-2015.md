@@ -1,5 +1,5 @@
 # New Zealand Flag Referendums Act 2015
-_Consolidation as at 2015-09-25_
+_Consolidation as at 2018-03-31_
 
 ### 1 Title
 This Act is the New Zealand Flag Referendums Act 2015.
