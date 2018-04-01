@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2018-04-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -41,6 +41,9 @@ Every person exercising or performing a function, duty or power under this Act m
   - **Appeal Authority** or means the Social Security Appeal Authority established under section 12A; and includes any Special Social Security Appeal Authority established under section 12D
   - **applicant** , in relation to any benefit, means a person by whom or on whose behalf an application is made for the benefit; and, where the context so requires, includes a beneficiary
   - **application** means an application for a benefit
+  - **Area 1, Area 2, Area 3, and Area 4** —
+    (a) are defined in regulations made under section 61I for the purposes of Part 1K and Schedule 18 (accommodation supplement); but
+    (b) until the commencement of the first regulations made under that section, refer to the terms defined in clause 1 of Part 1 of Schedule 18
   - **average wage** means, at any time, the before tax average ordinary time weekly wage (all sectors, male and female combined) as specified in—
     (a) the latest Quarterly Employment Survey published by Statistics New Zealand; or
     (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph
@@ -1833,7 +1836,7 @@ Funeral grants shall not be payable under section 61DB or section 61DC or sectio
   (d) the deceased person, including a deceased child, was not ordinarily resident in New Zealand on the date of death.
 
 ### 61DB Payment of funeral grants where there is a surviving spouse or partner or children
-If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $2,030.91 to meet the deceased person's reasonable funeral expenses if—
+If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $2,058.52 to meet the deceased person's reasonable funeral expenses if—
   (a) a spouse or partner; or
   (b) a child or children whom he or she is liable in law to maintain; or
   (c) any other dependent child or dependent children (whether dependent on the deceased or any other person) aged 16 years or 17 years of whom the deceased person was the parent—
@@ -1843,10 +1846,10 @@ If a person, other than a child, dies and the deceased person is survived by—t
   (e) the annual income of any spouse or partner who survives the deceased is less than 52 times the appropriate amount in Part 2 of Schedule 31.
 
 ### 61DC Payment of funeral grants where there is no surviving spouse or partner or children
-If a person, other than a child, dies and section 61DB does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $2,030.91 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
+If a person, other than a child, dies and section 61DB does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $2,058.52 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
 
 ### 61DD Children's funeral grants
-If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $2,030.91 to meet the deceased child's reasonable funeral expenses if—
+If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $2,058.52 to meet the deceased child's reasonable funeral expenses if—
   (a) those funeral expenses cannot be paid from the aggregate of—
     (i) the deceased child's assessable estate before the payment of any other debts; and
     (ii) the combined assets of the parents, or any other person or persons, who were liable in law to maintain the deceased child on the date of death, other than non-assessable assets, in excess of the amount in clause 2 of Part 1 of Schedule 31; and
@@ -2055,14 +2058,9 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 (6) Section 61H(2) and (5) applies to every Order in Council made under subsection (2) as if that order were made under that section.
 (7)
 
-### 61I Areas for accommodation supplement purposes may be altered by Order in Council
-(1) The Governor-General may by Order in Council, amend the definitions of the terms Area 1, Area 2, and Area 3—
-  (a) by adding to any one of those definitions any urban area, urban zone, or area unit of New Zealand (as those terms were on 26 June 2017 defined by the Government Statistician) that is in Area 4; or
-  (b) by omitting any urban area, urban zone, or area unit of New Zealand from the definition of Area 2 or Area 3 and adding it to the definition of Area 1; or
-  (c) by omitting any urban area, urban zone, or area unit of New Zealand from the definition of Area 3 and adding it to the definition of Area 2.
-  (d)
+### 61I Regulations defining accommodation supplement areas
+(1) The Governor-General may, by Order in Council, make regulations that, for the purposes of Part 1K and Schedule 18, define Area 1, Area 2, Area 3, and Area 4 (see the definitions of those terms in section 3(1), and section 61IA).
 (2) Section 61H(2) and (5) applies, with any necessary modifications, to any Order in Council made under subsection (1) as if that order had been made under section 61H(1).
-(3) In this section Area 1, Area 2, Area 3, and Area 4 refer to the terms defined in clause 1 of Part 1 of Schedule 18.
 
 ### 61IA Orders are confirmable instruments
 (1) This section applies to an Order in Council made under section 61H, 61HA(2), or 61I(1) (including section 61H or 61HA(2) apart from, or with, clause 3(6) of Schedule 32).
@@ -5058,15 +5056,15 @@ The chief executive may assign a contracted service provider to a young person,�
 
 ## Schedule 3 — Rates of generally abolished former widows' benefits under section 21 as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
-| 1 | To a beneficiary with 1 or more dependent children | $329.57 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $334.05 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $221.27 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $224.28 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 3A — Rate of sole parent support
 
 ### 1
-To a beneficiary with 1 or more dependent children: $329.57 a week, subject to Income Test 1.
+To a beneficiary with 1 or more dependent children: $334.05 a week, subject to Income Test 1.
 
 ### 2
 For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children.
@@ -5078,31 +5076,31 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported child’s benefits
 
-| 1 | (a) | In respect of a child aged 14 years or over | $206.71 a week |
+| 1 | (a) | In respect of a child aged 14 years or over | $209.52 a week |
 | --- | --- | --- | --- |
-|  | (b) | In respect of a child aged over 10 years and under 14 years | $189.07 a week |
-|  | (c) | In respect of a child aged over 5 years and under 10 years | $171.35 a week |
-|  | (d) | In respect of a child aged under 5 years | $147.65 a week |
+|  | (b) | In respect of a child aged over 10 years and under 14 years | $191.64 a week |
+|  | (c) | In respect of a child aged over 5 years and under 10 years | $173.68 a week |
+|  | (d) | In respect of a child aged under 5 years | $149.66 a week |
 | 2 |  | The amount specified in clause 1 of this schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
 ## Schedule 6 — Rates of supported living payment benefits
 
-| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $214.88 a week, subject to Income Test 1 |
+| 1 | (a) | To a single beneficiary under the age of 18 years without dependent children | $217.80 a week, subject to Income Test 1 |
 | --- | --- | --- | --- |
-|  | (b) | To any other single beneficiary without dependent children | $265.54 a week, subject to Income Test 1 |
-|  | (c) | To a single beneficiary with 1 or more dependent children | $374.10 a week, subject to Income Test 1 |
-|  | (d) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit other than a veteran’s pension | $221.27 a week, increased by—i$25.28 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has not been granted a main benefit under this Act, the total rate to be subject to Income Test 2; orii$12.64 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has been granted a main benefit under this Act, the total rate to be subject to Income Test 2 |
-|  | (e) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran’s pension | $221.27 a week, increased by $25.28 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
-|  | (f) | To a beneficiary receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married, in a civil union, or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $221.27 a week, increased by $221.27 a week in respect of his or her spouse or partner and a further $25.28 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
-|  | (g) | To a beneficiary receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married, in a civil union, or in a de facto relationship and the beneficiary’s spouse or partner is not granted a benefit in his or her own right | $221.27 a week, increased by $25.28 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
+|  | (b) | To any other single beneficiary without dependent children | $269.15 a week, subject to Income Test 1 |
+|  | (c) | To a single beneficiary with 1 or more dependent children | $379.19 a week, subject to Income Test 1 |
+|  | (d) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit other than a veteran’s pension | $224.28 a week, increased by—i$25.62 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has not been granted a main benefit under this Act, the total rate to be subject to Income Test 2; orii$12.81 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has been granted a main benefit under this Act, the total rate to be subject to Income Test 2 |
+|  | (e) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran’s pension | $224.28 a week, increased by $25.62 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
+|  | (f) | To a beneficiary receiving a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness who is married, in a civil union, or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $224.28 a week, increased by $224.28 a week in respect of his or her spouse or partner and a further $25.62 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
+|  | (g) | To a beneficiary receiving a supported living payment under section 40D on the ground of caring for a patient requiring care, if the beneficiary is married, in a civil union, or in a de facto relationship and the beneficiary’s spouse or partner is not granted a benefit in his or her own right | $224.28 a week, increased by $25.62 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 1 |
 |  | (h) | [Repealed] |  |
 | provided that, in computing the income of any beneficiary receiving a supported living payment under section 40B for the purpose of this schedule, the chief executive shall— |  |  |  |
 |  | (a) | disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and |  |
 |  | (b) | disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case | $351.27 a week, increased by $44.27 a week if the beneficiary is a single person |
-| 3 |  | Despite clause 1(d), (e), and (g), the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable under this clause must not exceed—a$221.27 a week if the beneficiary and his or her spouse or partner have no dependent children; orb$246.55 a week if the beneficiary and his or her spouse have 1 or more dependent children. |  |
+| 2 |  | Maximum amount from all sources where subsidy paid on earnings of blind beneficiary, in every case | $354.28 a week, increased by $44.87 a week if the beneficiary is a single person |
+| 3 |  | Despite clause 1(d), (e), and (g), the rate of a supported living payment on the ground of caring for a patient requiring care under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable under this clause must not exceed—a$224.28 a week if the beneficiary and his or her spouse or partner have no dependent children; orb$249.90 a week if the beneficiary and his or her spouse have 1 or more dependent children. |  |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -5110,28 +5108,28 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 9 — Rates of jobseeker support
 
-| 1 | (aa) | To a single beneficiary under the age of 20 years who is— |  | $141.62 a week, subject to Income Test 3 |
+| 1 | (aa) | To a single beneficiary under the age of 20 years who is— |  | $143.55 a week, subject to Income Test 3 |
 | --- | --- | --- | --- | --- |
 |  |  | (i) | living with a parent (as that term is defined in section 3(1)); and |  |
 |  |  | (ii) | whose benefit commenced on or after 1 July 1998 |  |
-|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $177.03 a week, subject to Income Test 3 |
-|  | (ab) | To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support— |  | $221.27 a week, subject to Income Test 1 |
+|  | (a) | To any other single beneficiary under the age of 25 years without dependent children |  | $179.44 a week, subject to Income Test 3 |
+|  | (ab) | To any other single beneficiary without dependent children and who was on 15 July 2013 transferred to jobseeker support— |  | $224.28 a week, subject to Income Test 1 |
 |  |  | (i) | by clause 2(9) and (11) of Schedule 32; or |  |
 |  |  | (ii) | by clause 10(6) and (8) of Schedule 32 |  |
-|  | (b) | To any other single beneficiary without dependent children |  | $212.45 a week, subject to Income Test 3 |
-|  | (ba) | To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and see also the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) |  | $329.57 a week, subject to Income Test 1 |
-|  | (c) | To any other single beneficiary with 1 or more dependent children |  | $329.57 a week, subject to Income Test 1 |
-|  | (d) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit other than a veteran’s pension |  | $177.03 a week, increased by—i$25.28 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has not been granted a main benefit under this Act, the total rate to be subject to Income Test 4; orii$12.64 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has been granted a main benefit under this Act, the total rate to be subject to Income Test 4 |
-|  | (e) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran’s pension |  | $177.03 a week, increased by $25.28 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 3 |
-|  | (f) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right |  | $177.03 a week, increased by $177.03 a week in respect of his or her spouse or partner and a further $25.28 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 3 |
+|  | (b) | To any other single beneficiary without dependent children |  | $215.34 a week, subject to Income Test 3 |
+|  | (ba) | To any single beneficiary whose youngest dependent child is aged at least 14 years (including, without limitation, any such beneficiary who is a beneficiary of a kind specified in clause 5A(a), (b), or (c), and see also the chief executive's discretion (to disregard specified income used to meet the cost of childcare) under clause 5B) |  | $334.05 a week, subject to Income Test 1 |
+|  | (c) | To any other single beneficiary with 1 or more dependent children |  | $334.05 a week, subject to Income Test 1 |
+|  | (d) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit other than a veteran’s pension |  | $179.44 a week, increased by—i$25.62 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has not been granted a main benefit under this Act, the total rate to be subject to Income Test 4; orii$12.81 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children and the beneficiary’s spouse or partner has been granted a main benefit under this Act, the total rate to be subject to Income Test 4 |
+|  | (e) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a veteran’s pension |  | $179.44 a week, increased by $25.62 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 3 |
+|  | (f) | To a beneficiary who is married, in a civil union, or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right |  | $179.44 a week, increased by $179.44 a week in respect of his or her spouse or partner and a further $25.62 a week if the beneficiary and his or her spouse or partner have 1 or more dependent children, the total rate to be subject to Income Test 3 |
 |  | (g) | [Repealed] |  |  |
 |  | (h) | [Repealed] |  |  |
 |  | (i) | [Repealed] |  |  |
 |  | (j) | [Repealed] |  |  |
-| 2 | Maximum increase in respect of a housekeeper |  |  | $177.03 a week |
+| 2 | Maximum increase in respect of a housekeeper |  |  | $179.44 a week |
 | 3 | [Repealed] |  |  |  |
 | 4 | [Repealed] |  |  |  |
-| 5 | Special rate of benefit for persons to whom section 88M(4) applies |  |  | $177.03 a week, increased by $12.64 a week if the beneficiary has 1 or more dependent children, the total rate to be subject to Income Test 4 |
+| 5 | Special rate of benefit for persons to whom section 88M(4) applies |  |  | $179.44 a week, increased by $12.81 a week if the beneficiary has 1 or more dependent children, the total rate to be subject to Income Test 4 |
 | 5A | A single beneficiary whose youngest dependent child is aged at least 14 years, referred to in clause 1(ba), includes, without limitation, any such beneficiary who is— |  |  |  |
 |  | (a) | a beneficiary who (as a person with a dependent child aged under 14 years) was on 15 July 2013 transferred by clause 2(6) and (8) of Schedule 32 to sole parent support that after 14 July 2013 and under section 20H(1) and (2) expired, and was replaced with jobseeker support that commenced, on the date that the beneficiary's youngest dependent child turned 14 years old; or |  |  |
 |  | (b) | a beneficiary who (as a person without a dependent child aged under 14 years) was on 15 July 2013 transferred to jobseeker support by clause 2(9) and (11) of Schedule 32; or |  |  |
@@ -5159,9 +5157,9 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 16 — Rates of generally abolished former DPB for solo parents under section 27B as saved by clause 3 of Schedule 32 for reciprocity agreement applicants or recipients
 
-| 1 | To a beneficiary with 1 or more dependent children | $329.57 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $334.05 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $221.27 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $224.28 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 17 — Rates of domestic purposes benefits
@@ -5172,9 +5170,9 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ### 1
 For the purposes of this schedule,—
-- **Area 1** means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician): Central Auckland urban zoneNorthern Auckland urban zone
-- **Area 2** means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician): Algies Bay–Mahurangi area unitArrowtown urban areaAwhitu area unitBombay area unitBrightwater urban areaCape Rodney area unitClevedon area unitGlenbrook area unitGreat Barrier Island area unitHelensville urban areaHunua area unitIslands–Motutapu, Rangitoto, Rakino area unitKarekare area unitKaukapakapa area unitKawau area unitKingseat area unitLeigh area unitLittle Barrier Island area unitMangatawhiri area unitMaramarua area unitMatheson Bay area unitMeremere area unitMuriwai Beach area unitNelson urban areaOnewhero area unitOtaua area unitParakai area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouth Head area unitSouthern Auckland urban zoneTahekeroa area unitTauhoa–Puhoi area unitTauranga urban areaWaiheke Island urban areaWaiuku urban areaWakefield urban areaWanaka urban areaWarkworth urban areaWellington urban zoneWellsford urban areaWestern Auckland urban zone
-- **Area 3** means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician): Alexandra urban areaBlenheim urban areaCambridge urban zoneChristchurch urban areaCloustonville area unitCromwell urban areaDarfield urban areaDunedin urban areaFeilding urban areaHamilton urban zoneHanmer Springs urban areaHastings urban zoneKaitaia urban areaKapiti Island area unitKapiti urban areaKatikati Community urban areaKerikeri urban areaLeeston urban areaLincoln urban areaLower Hutt urban zoneMakara–Ohariu area unitMana Island area unitMangaroa area unitMatamata urban areaMaungakotukutuku area unitMotueka urban areaNabhra area unitNapier urban zoneNew Plymouth urban areaOpiki area unitOtaki urban areaPaekakariki Hill area unitPaihia urban areaPalmerston North urban areaPencarrow area unitPorirua urban zoneRaglan urban areaRangiora urban areaRolleston urban areaRotorua urban areaRussell urban areaTaipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTaupo urban areaTe Awamutu urban zoneTe Puke Community urban areaThames urban areaTokomaru area unitUpper Hutt urban zoneWaihi Beach urban areaWhakatane urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
+- **Area 1** means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician): Arrowtown urban areaBombay area unitCentral Auckland urban zoneClevedon area unitGlenbrook area unitHelensville South area unitHelensville urban areaHunua area unitKarekare area unitKaukapakapa area unitKaukapakapa Rural area unitKingseat area unitMahurangi area unit Muriwai Beach area unitMuriwai Valley area unitNorthern Auckland urban zoneParakai Urban area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouthern Auckland urban zoneTahekeroa area unitTauranga urban areaWaiheke Island urban areaWaitakere West area unitWaiuku urban areaWanaka urban areaWarkworth urban areaWestern Auckland urban zone
+- **Area 2** means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician): Amberley urban areaAshburton urban area Awhitu area unitBlenheim urban areaBrightwater urban areaCambridge urban zoneCape Rodney area unitCape Rodney South area unitChristchurch urban areaCromwell urban areaDarfield urban areaGreat Barrier Island area unitHamilton urban zoneHastings urban zoneIslands–Motutapu, Rangitoto, Rakino area unitKaiaua area unitKapiti urban areaKatikati Community urban areaKawakawa–Orere area unit Kawau area unitKerikeri urban areaLeeston urban areaLeigh area unitLincoln urban areaLittle Barrier Island area unitLower Hutt urban zoneMakara–Ohariu area unitMangatawhiri area unitMangawhai area unitMangawhai Heads urban areaMapua urban areaMaramarua area unitMatakana area unitMatamata urban areaMatheson Bay area unitMeremere area unitMoonshine Valley area unitMotueka urban areaNapier urban zoneNelson urban areaNew Plymouth urban areaNgunguru urban areaOmaha area unitOnewhero area unitOtaua area unitOxford urban areaPaparata area unitParakai Rural area unit Point Wells area unitPorirua urban zoneRaglan urban areaRakaia urban areaRangiora urban areaRapaura area unitRolleston urban areaSouth Head area unitTauhoa–Puhoi area unitTaupo urban areaTe Awamutu urban zoneTe Kauwhata urban areaTe Puke Community urban areaUpper Hutt urban zoneWaihi Beach urban areaWakefield urban areaWellington urban zoneWellsford urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
+- **Area 3** means the following parts of New Zealand (as on 26 June 2017 defined by the Government Statistician): Alexandra urban areaCarterton urban areaCloustonville area unitCoromandel urban areaDargaville urban areaDunedin urban areaEdgecumbe urban areaFeilding urban areaGeraldine urban areaGisborne urban areaGreymouth urban areaGreytown urban areaHanmer Springs area unitHawera urban areaHokitika urban areaHuntly urban areaInglewood urban area Kaikohe urban area Kaikoura urban area Kaitaia urban areaKapiti Island area unitKauwhata area unitKawakawa urban area Levin urban area Mana Island area unitMangaroa area unitMartinborough urban areaMasterton urban area Maungakotukutuku area unitMethven urban areaMorrinsville urban area Ngatea urban areaOamaru urban area Opiki area unitOtaki urban areaOtorohanga urban area Paekakariki Hill area unitPaeroa urban area Paihia urban areaPalmerston North urban areaPencarrow area unitPicton urban areaPleasant Point urban area Rotorua urban areaRussell area unitShannon urban area Taipa Bay–Mangonui urban areaTairua urban areaTakaka urban areaTe Aroha urban area Temuka urban area Thames urban areaTimaru urban area Tokomaru area unitTokorangi–Hiwinui area unitTwizel Community urban areaWaihi urban area Waikouaiti urban areaWaipawa urban area Waitara urban area Whakatane urban areaWinton urban area
 - **Area 4** means any part of New Zealand not included in Area 1, Area 2, or Area 3
 - **base rate** means, subject to clause 4A,—
   (a) in relation to a single beneficiary under the age of 25 years, the maximum weekly rate of a main benefit under this Act he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
@@ -5210,13 +5208,13 @@ In determining the base rate in relation to a person in respect of any period th
 
 ### Part 2 — Rates of accommodation supplement
 
-| 1 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4 |
+| 1 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$305 a week, if the applicant resides in Area 1:b$220 a week, if the applicant resides in Area 2:c$160 a week, if the applicant resides in Area 3:d$120 a week, if the applicant resides in Area 4 |
 | --- | --- | --- |
-| 2 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4 |
-| 3 | To any other person whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4 |
-| 4 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4 |
-| 5 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4 |
-| 6 | To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4 |
+| 2 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$235 a week, if the applicant resides in Area 1:b$155 a week, if the applicant resides in Area 2:c$105 a week, if the applicant resides in Area 3:d$80 a week, if the applicant resides in Area 4 |
+| 3 | To any other person whose accommodation costs are rent or payments for board and lodgings | 70% of the amount by which an applicant's weekly accommodation costs exceeds 25% of the base rate, but not more than—a$165 a week, if the applicant resides in Area 1:b$105 a week, if the applicant resides in Area 2:c$80 a week, if the applicant resides in Area 3:d$70 a week, if the applicant resides in Area 4 |
+| 4 | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$305 a week, if the applicant resides in Area 1:b$220 a week, if the applicant resides in Area 2:c$160 a week, if the applicant resides in Area 3:d$120 a week, if the applicant resides in Area 4 |
+| 5 | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$235 a week, if the applicant resides in Area 1:b$155 a week, if the applicant resides in Area 2:c$105 a week, if the applicant resides in Area 3:d$80 a week, if the applicant resides in Area 4 |
+| 6 | To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70% of the amount by which an applicant's weekly accommodation costs exceeds 30% of the base rate, but not more than—a$165 a week, if the applicant resides in Area 1:b$105 a week, if the applicant resides in Area 2:c$80 a week, if the applicant resides in Area 3:d$70 a week, if the applicant resides in Area 4 |
 
 ### Part 3 — Average regional rental
 
@@ -5224,10 +5222,10 @@ In determining the base rate in relation to a person in respect of any period th
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
-| 1 | Rate of child disability allowance | $47.00 a week |
+| 1 | Rate of child disability allowance | $47.64 a week |
 | --- | --- | --- |
-| 2 | Maximum rate of disability allowance under section 69C(1) | $62.37 a week |
-| 3 | Rate of special disability allowance under section 69C(5) | $38.90 a week |
+| 2 | Maximum rate of disability allowance under section 69C(1) | $63.22 a week |
+| 3 | Rate of special disability allowance under section 69C(5) | $39.43 a week |
 
 ## Schedule 20 — Rates of contributions by liable parents to cost of domestic purposes benefit
 
@@ -5235,7 +5233,7 @@ In determining the base rate in relation to a person in respect of any period th
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a main benefit under this Act | $43.93 a week |
+| 1 | To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a main benefit under this Act | $44.53 a week |
 | --- | --- | --- |
 | 2 | [Repealed] |  |
 
@@ -5249,11 +5247,11 @@ In determining the base rate in relation to a person in respect of any period th
 
 |  | $ |
 | --- | --- |
-| 1For a single young person without dependent children. | 177.03 a week subject to clause 10 |
-| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 166.90 a week subject to clause 10 |
-| 3For any other single young person with a dependent child or children. | 329.57 a week subject to clause 10 |
-| 4For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children. | 177.03 a week subject to clause 11 |
-| 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or dependent children | 177.03 a week, increased by—i25.28 a week if the young person’s spouse or partner is not receiving a young parent payment, the total rate to be subject to clause 11; orii12.64 a week if the young person’s spouse or partner is receiving a young parent payment, the total rate to be subject to clause 11 |
+| 1For a single young person without dependent children. | 179.44 a week subject to clause 10 |
+| 2For a single young person who—is aged 16 to 17 years; andis living with or being financially supported by a parent or guardian; andhas a dependent child or children. | 169.17 a week subject to clause 10 |
+| 3For any other single young person with a dependent child or children. | 334.05 a week subject to clause 10 |
+| 4For a young person who is married, in a civil union, or in a de facto relationship and is without dependent children. | 179.44 a week subject to clause 11 |
+| 5For a young person who is married, in a civil union, or in a de facto relationship and has a dependent child or dependent children | 179.44 a week, increased by—i25.62 a week if the young person’s spouse or partner is not receiving a young parent payment, the total rate to be subject to clause 11; orii12.81 a week if the young person’s spouse or partner is receiving a young parent payment, the total rate to be subject to clause 11 |
 
 |  | $ |
 | --- | --- |
@@ -5265,9 +5263,9 @@ In determining the base rate in relation to a person in respect of any period th
 | 8Budgeting incentive. | 10 a week |
 | 9Parenting education incentive. | 10 a week |
 
-| 10The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person’s weekly income that exceeds $214.30, but no amount of youth payment or young parent payment or incentive payment is payable if the young person’s weekly income exceeds $264.30. |
+| 10The applicable rate of youth payment or young parent payment in clause 1, 2, or 3 must be reduced by $1 for every $1 of the young person’s weekly income that exceeds $217.22, but no amount of youth payment or young parent payment or incentive payment is payable if the young person’s weekly income exceeds $267.22. |
 | --- |
-| 11The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and his or her spouse or partner that exceeds $214.30, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $314.30. |
+| 11The applicable rate of youth payment or young parent payment in clause 4 or 5 must be reduced by 50 cents for every $1 of the combined weekly income of the young person and his or her spouse or partner that exceeds $217.22, but no amount of youth payment or young parent payment or incentive payment is payable if that combined income exceeds $317.22. |
 | 12For the purposes of clause 10 or 11 and a rate of young parent payment, the chief executive may, in his or her discretion, disregard up to $20 a week of the personal earnings of the young person used to meet the costs of child care for any of the person’s dependent children. |
 
 ## Schedule 27 — Means assessment under Part 4
@@ -5406,27 +5404,27 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
-| 1 | For a single person without dependent children | $1,062.51 |
+| 1 | For a single person without dependent children | $1,076.96 |
 | --- | --- | --- |
-| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1,770.44 |
-| 3 | For a sole parent with 1 dependent child | $1,395.12 |
-| 4 | For any other sole parent | $1,498.64 |
+| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1,794.51 |
+| 3 | For a sole parent with 1 dependent child | $1,414.09 |
+| 4 | For any other sole parent | $1,519.01 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 5 | For a single person aged 16 or 17 years without dependent children | $485.32 |
-| 6 | For any other single person without dependent children | $557.78 |
-| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $810.15 |
-| 8 | For a sole parent with 1 dependent child | $676.84 |
-| 9 | For any other sole parent | $713.09 |
+| 5 | For a single person aged 16 or 17 years without dependent children | $491.92 |
+| 6 | For any other single person without dependent children | $565.36 |
+| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $821.16 |
+| 8 | For a sole parent with 1 dependent child | $686.04 |
+| 9 | For any other sole parent | $722.78 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 10 | For a single person aged 16 or 17 years without dependent children | $524.48 |
-| 11 | For any other single person without dependent children | $635.99 |
-| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $944.49 |
-| 13 | For a sole parent with 1 dependent child | $731.47 |
-| 14 | For any other sole parent | $770.66 |
+| 10 | For a single person aged 16 or 17 years without dependent children | $531.61 |
+| 11 | For any other single person without dependent children | $648.92 |
+| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $963.80 |
+| 13 | For a sole parent with 1 dependent child | $741.41 |
+| 14 | For any other sole parent | $781.14 |
 
 ## Schedule 32 — Validation, transitional, and savings provisions related to amendments to this Act
 
