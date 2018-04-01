@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2018-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -1611,7 +1611,7 @@ For the purposes of section 21A(b),—
   (d) the fringe benefit is, or is deemed to be, provided or granted by a registered person in the course of making exempt supplies.
 (3) Despite sections 9 and 21C, the supply of goods and services is treated as taking place at the time the fringe benefit is or is deemed to be provided or granted.
 (4) If sections DD 1 to DD 3 of the Income Tax Act 2007 apply to limit the deduction under that Act for expenditure or loss (including depreciation loss) that a registered person is allowed in the course of or furtherance of a taxable activity with respect to entertainment, as described by section DD 2 of that Act,—
-  (a) the registered person is treated as having supplied entertainment for a consideration in money equal to the amount of the deduction prevented by sections DD 1 and DD 2 of that Act; and
+  (a) the registered person is treated as having supplied entertainment with a value equal to the amount of the deduction prevented by sections DD 1 and DD 2 of that Act; and
   (b) unless subsection (4B) applies, the time of the supply is treated as being the earlier of—
     (i) the date on which the person furnishes a return of income under section 37 of the Tax Administration Act 1994 for the tax year for which the deduction is allowed; and
     (ii) the date by which the person must furnish a return of income under section 37 of the Tax Administration Act 1994 for the tax year for which the deduction is allowed.
