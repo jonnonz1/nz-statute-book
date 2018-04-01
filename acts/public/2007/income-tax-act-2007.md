@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2018-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -749,7 +749,7 @@ Formula
 Definition of items in formula
 (5) In the formula in subsection (4),—
   (a) untaxed reserves is the amount given by the formula in subsection (6):
-  (b) reserves imputation credit is the total amount given by the formula in subsection (7B), up to the maximum permitted ratio for the untaxed reserves under section OA 18 (Calculation of maximum permitted ratios) and is treated as an attached imputation credit included in the dividend calculated under this section.
+  (b) reserves imputation credit is the total amount given by the formula in subsection (7B), up to the maximum permitted ratio for the untaxed reserves under section OA 18 (Calculation of maximum permitted ratios) and is treated as an attached imputation credit included in the dividend calculated under this section:
   (c) effective interest is the person’s effective look-through interest for an LTC on the relevant day under subsection (1)﻿(a) or (b).
 Formula
 (6) For the purposes of subsection (5)﻿(a), the amount of untaxed reserves is calculated using the formula—dividends – assessable income – exit exemption.
@@ -2968,15 +2968,27 @@ In this subpart, and in sections CX 42 (Disposal of ownership interests in contr
   (b) references to the disposal of an asset apply equally to the disposal of part of an asset.
 
 ### CT 5 Petroleum mining operations outside New Zealand
-This subpart, and sections CX 42 (Disposal of ownership interests in controlled petroleum mining entities) and CX 43 (Farm-out arrangements for mining operations), apply, with any necessary modifications, to a petroleum miner who undertakes petroleum mining operations that are—
+This subpart, and sections CX 42 (Disposal of ownership interests in controlled petroleum mining entities) and CX 43 (Farm-out arrangements for mining operations), apply, with any necessary modifications, to a petroleum miner who undertakes petroleum mining operations that are, or decommissioning that is—
   (a) outside New Zealand and undertaken through a branch or a controlled foreign company; and
   (b) substantially the same as the petroleum mining activities governed by this subpart and sections CX 42 and CX 43.
 
+### CT 5B Resuming commercial production
+When this section applies
+(1) This section applies when a petroleum miner or a farm-in party undertakes commercial production in a permit area when a petroleum miner, or a farm-in party, has received a deduction under section EJ 13 (Permanently ceasing petroleum mining operations) for permanently ceasing petroleum mining operations in the permit area.
+Income
+(2) An amount described in subsection (3) is treated as income of the petroleum miner who, at any time after the petroleum mining operations have ceased under section EJ 13,—
+  (a) undertakes commercial production (the resumed commercial production) in the permit area:
+  (b) arranges for a farm-in party to undertake the resumed commercial production in the permit area.
+Amount treated as income
+(3) The amount referred to in subsection (2) that is treated as income is an amount that is equal to the amount of the deduction allowed under section EJ 13 to the extent to which it relates to a petroleum mining asset that is used or is to be used in the resumed commercial production.
+Allocation of income
+(4) The amount is allocated to the income year in which the resumed commercial production in the permit area begins.
+
 ### CT 6 Meaning of petroleum miner
 Meaning
-(1) Petroleum miner, for a permit area, means a person who undertakes petroleum mining operations in the permit area.
+(1) Petroleum miner, for a permit area, means a person who undertakes petroleum mining operations or decommissioning in the permit area.
 Exclusion
-(2) Petroleum miner does not include a person who undertakes petroleum mining operations for consideration that is not in the form of, or contingent on,—
+(2) Petroleum miner does not include a person who undertakes petroleum mining operations or decommissioning for consideration that is not in the form of, or contingent on,—
   (a) the production of petroleum from the permit area; or
   (b) profits from the production of petroleum from the permit area; or
   (c) an interest or a right to an interest in the petroleum permit.
@@ -2993,8 +3005,8 @@ Activities: inclusions
   (a) prospecting or exploring for petroleum:
   (b) developing a permit area for producing petroleum:
   (c) producing petroleum:
-  (d) processing, storing, or transmitting petroleum before its dispatch to a buyer, consumer, processor, refinery, or user:
-  (e) removal or restoration operations.
+  (d) processing, storing, or transmitting petroleum before its dispatch to a buyer, consumer, processor, refinery, or user.
+  (e)
 Activities: exclusions
 (3) The activities do not include further treatment to which all the following apply:
   (a) it occurs after the well stream has been separated and stabilised into crude oil, condensate, or natural gas; and
@@ -3021,7 +3033,7 @@ Activities: inclusions
   (a) developing a permit area for producing petroleum:
   (b) producing petroleum:
   (c) processing, storing, or transmitting petroleum before its dispatch to a buyer, consumer, processor, refinery, or user:
-  (d) removal or restoration operations.
+  (d) decommissioning.
 Activities: exclusions
 (4) The activities do not include further treatment to which all the following apply:
   (a) it occurs after the well stream has been separated and stabilised into crude oil, condensate, or natural gas; and
@@ -8777,7 +8789,8 @@ Deduction
 Timing of deduction
 (2) For an income year, an amount of the deduction is allocated to that year, as provided by—
   (a) section EJ 12 (Petroleum development expenditure: default allocation rule); or
-  (b) section EJ 12B (Petroleum development expenditure: reserve depletion method).
+  (b) section EJ 12B (Petroleum development expenditure: reserve depletion method); or
+  (c) section EJ 13 (Permanently ceasing petroleum mining operations).
 Relationship with section DZ 3
 (3) This section is overridden by section DZ 3 (Petroleum mining: development expenditure from 1 October 1990 to 15 December 1991).
 Link with subpart DA
@@ -8796,7 +8809,17 @@ When this section applies
   (b) the miner then uses the exploratory well for the commercial production of petroleum; and
   (c) the exploratory well expenditure is then treated, under section CT 3 (Exploratory well used for commercial production), as income of the miner.
 Treatment of expenditure
-(2) An amount equal to the amount that is treated as income is treated as petroleum development expenditure incurred by the petroleum miner in the income year in which commercial production from the well starts.
+(2) An amount equal to the amount that is treated as income is treated as petroleum development expenditure—
+  (a) incurred by the petroleum miner in the income year in which commercial production from the well starts; and
+  (b) allocated as provided by section DT 5(2).
+
+### DT 7B Resuming commercial production: petroleum development expenditure
+When this section applies
+(1) This section applies when a petroleum miner has had an amount of petroleum development expenditure treated as income under section CT 5B (Resuming commercial production).
+Amount of income treated as petroleum development expenditure
+(2) An amount equal to the amount that is treated as income under section CT 5B is treated as petroleum development expenditure—
+  (a) incurred by the petroleum miner in the income year referred to in section CT 5B; and
+  (b) allocated as provided by section DT 5(2).
 
 ### DT 8 Acquisition of certain petroleum mining assets
 When expenditure for petroleum mining assets incurred
@@ -8900,19 +8923,19 @@ When this section applies
 (1) This section applies to a person associated with a petroleum miner when—
   (a) the petroleum miner has some or all of an existing privilege; and
   (b) the associated person—
-    (i) undertakes petroleum mining operations in the licence area of the existing privilege; and
+    (i) undertakes petroleum mining operations or decommissioning in the licence area of the existing privilege; and
     (ii) does so under an arrangement for reward; and
-    (iii) when doing so is not a petroleum miner in relation to the petroleum mining operations.
+    (iii) when doing so is not a petroleum miner in relation to the petroleum mining operations or decommissioning.
 Deduction
-(2) The associated person is allowed a deduction for expenditure or loss that they incur in the petroleum mining operations described in subsection (1).
+(2) The associated person is allowed a deduction for expenditure or loss that they incur in the petroleum mining operations or decommissioning described in subsection (1).
 Amount of deduction
-(3) The amount of the deduction is limited to the extent of the amount of income that they derive from the petroleum mining operations.
+(3) The amount of the deduction is limited to the extent of the amount of income that they derive from the petroleum mining operations or decommissioning.
 Link with subpart DA
 (4) This section overrides the general permission.
 
-### DT 16 Removal or restoration operations
+### DT 16 Decommissioning
 Deduction
-(1) A petroleum miner is allowed a deduction for expenditure that they incur on removal or restoration operations.
+(1) A petroleum miner is allowed a deduction for expenditure that they incur on decommissioning.
 Timing of deduction
 (2) The deduction is allocated to the income year in which the expenditure is incurred.
 Relationship with section EA 2
@@ -8927,8 +8950,8 @@ Other assets
 (2) A deduction for expenditure incurred to acquire an asset of the kind described in section CT 7(1)﻿(b) or (c) (Meaning of petroleum mining asset) is attributable to—
   (a) the asset; and
   (b) the permit area to which the asset relates.
-Relationship with this subpart and sections GB 20 and IS 5
-(3) This section applies for the purposes of this subpart, sections GB 20 (Arrangements involving petroleum and mineral mining) and IS 5 (Petroleum miners’ tax losses), and section 91 of the Tax Administration Act 1994.
+Relationship between subpart and section GB 20
+(3) This section applies for the purposes of this subpart, sections GB 20 (Arrangements involving petroleum and mineral mining) and section 91 of the Tax Administration Act 1994.
 
 ### DT 18 Replacement permits
 In this subpart, a reference to a petroleum permit includes a reference to a replacement permit. All expenditure incurred, deductions allowed, and petroleum mining assets that are attributable to the petroleum permit are attributable to the replacement permit.
@@ -8939,7 +8962,7 @@ In this subpart, unless the context requires otherwise,—
   (b) references to the disposal of an asset apply equally to the disposal of part of an asset.
 
 ### DT 20 Petroleum mining operations outside New Zealand
-This subpart applies, with any necessary modifications, to a petroleum miner undertaking petroleum mining operations that are—
+This subpart applies, with any necessary modifications, to a petroleum miner undertaking petroleum mining operations that are or decommissioning that is—
   (a) outside New Zealand and undertaken through a branch or a controlled foreign company; and
   (b) substantially the same as the petroleum mining activities governed by this subpart.
 
@@ -13817,7 +13840,7 @@ When this section applies
 Default allocation rule
 (2) For the purposes of section DT 5(2)﻿(a) (Petroleum development expenditure), a deduction for the petroleum development expenditure is allocated in equal amounts over a period of 7 income years. The period of 7 years starts with the income year in which the expenditure is incurred.
 Relationship with other petroleum mining provisions
-(3) Sections EJ 13 to EJ 16 override subsection (2). Sections DT 7, DT 8, DT 10, DT 11, DT 16, and IS 5 (which relate to petroleum miners) override this section.
+(3) Sections EJ 13 to EJ 16 override subsection (2). Sections DT 7, DT 8, DT 10, DT 11, and DT 16 (which relate to petroleum miners) override this section.
 
 ### EJ 12B Petroleum development expenditure: reserve depletion method
 When this section applies
@@ -13839,19 +13862,27 @@ Reserve depletion for the year
 Probable reserves
 (8) Probable reserves is the amount, expressed in barrels of oil equivalent, of the reserves of petroleum for the petroleum mining development that are not yet proven but are estimated, at the beginning of the income year, to have a better than 50% chance of being technically and commercially producible.
 Relationship with other petroleum mining provisions
-(9) Sections EJ 13 to EJ 16 override subsection (3). Sections DT 7, DT 8, DT 10, DT 11, DT 16, and IS 5 (which relate to petroleum miners) override this section.
+(9) Sections EJ 13 to EJ 16 override subsection (3). Sections DT 7, DT 8, DT 10, DT 11, and DT 16 (which relate to petroleum miners) override this section.
 
-### EJ 13 Relinquishing petroleum mining permit
+### EJ 13 Permanently ceasing petroleum mining operations
 When this section applies
-(1) This section applies when a petroleum miner relinquishes a petroleum permit.
-Amount of deduction
-(2) The amount of the deduction that the miner is allowed on relinquishing the permit is the difference between—
-  (a) the amount of the deduction allowed under section DT 5 (Petroleum development expenditure) and attributable to—
+(1) This section applies when a petroleum miner and each farm-in party to a farm-out arrangement, if any, to which the petroleum miner is a party, permanently ceases petroleum mining operations—
+  (a) in a permit area for which the petroleum miner holds a petroleum permit; and
+  (b) for which petroleum development expenditure has been incurred.
+Amount of deduction for petroleum miner
+(2) The amount of the deduction that the petroleum miner is allowed is the difference between—
+  (a) the amount of the deduction allowed for the petroleum miner under section DT 5 (Petroleum development expenditure) and attributable to—
     (i) the permit; or
     (ii) an asset of the kind described in section CT 7(1)﻿(b) or (c) (Meaning of petroleum mining asset) held solely in connection with the permit; and
-  (b) any part of the deduction allocated to earlier income years under section EJ 12(2) or EJ 12B(3).
+  (b) any part of the deduction for the petroleum miner allocated to, or treated as allocated to, earlier income years under section EJ 12(2) or EJ 12B(3).
+Amount of deduction for farm-in party
+(3) The amount of the deduction that the farm-in party is allowed is the difference between—
+  (a) the amount of the deduction allowed for the farm-in party under section DT 14 (Farm-out arrangements) for petroleum development expenditure, and attributable to—
+    (i) the permit; or
+    (ii) an asset of the kind described in section CT 7(1)﻿(b) or (c) held solely in connection with the permit; and
+  (b) any part of the deduction for the farm-in party allocated to, or treated as allocated to, earlier income years under section EJ 12(2) or EJ 12B(3).
 Timing of deduction
-(3) The deduction is allocated to the income year in which the miner relinquishes the permit.
+(4) For the purposes of section DT 5(2)﻿(c) (Petroleum development expenditure), the deduction is allocated to the income year in which petroleum mining operations permanently cease.
 
 ### EJ 13B Dry well drilled
 When this section applies
@@ -13875,12 +13906,7 @@ Allocation
 (2) The part of the deduction described in subsection (1) is allocated to the income year.
 
 ### EJ 14 Spreading deduction backwards
-When this section applies
-(1) This section applies when a petroleum miner has a deduction whose amount has been reduced under section IS 5 (Petroleum miners’ tax losses).
-Spreading backwards
-(2) The petroleum miner may allocate the amount of the deduction to the tax year before that in which the net loss arises, or allocate parts of it to earlier tax years.
-Amending returns
-(3) The petroleum miner may amend their returns of income for the relevant tax years despite the operation of the time bar.
+[Repealed]
 
 ### EJ 15 Disposal of petroleum mining asset
 When this section applies
@@ -13911,9 +13937,9 @@ In sections EJ 12 to EJ 16, unless the context requires otherwise,—
   (b) references to the disposal of an asset apply equally to the disposal of part of an asset.
 
 ### EJ 18 Petroleum mining operations outside New Zealand
-Sections EJ 12 to EJ 17, EJ 19, and EJ 20 apply with any necessary modifications to a petroleum miner undertaking petroleum mining operations that are—
+Sections EJ 12 to EJ 17 and EJ 20 apply with any necessary modifications to a petroleum miner undertaking petroleum mining operations that are, or decommissioning that is,—
   (a) outside New Zealand and undertaken through a branch or a controlled foreign company; and
-  (b) substantially the same as the petroleum mining activities governed by sections EJ 12 to EJ 17, EJ 19, and EJ 20.
+  (b) substantially the same as the petroleum mining activities governed by sections EJ 12 to EJ 17 and EJ 20.
 
 **Definitions**
 
@@ -13928,7 +13954,7 @@ Activities: inclusions
   (a) developing a permit area for producing petroleum:
   (b) producing petroleum:
   (c) processing, storing, or transmitting petroleum before its dispatch to a buyer, consumer, processor, refinery, or user:
-  (d) removal or restoration operations.
+  (d) decommissioning.
 Activities: exclusions
 (3) The activities do not include further treatment to which all the following apply:
   (a) it occurs after the well stream has been separated and stabilised into crude oil, condensate, or natural gas; and
@@ -16530,7 +16556,7 @@ Provisions that do not apply
   (j) sections IA 2 to IA 9, subpart IC, and sections IP 3 to IP 7, IZ 4, and IZ 5 (which relate to the use of tax losses).
 Business treated as if carried on in New Zealand
 (14) The following provisions apply as if the CFC’s business activities were carried on in New Zealand:
-  (a) sections CT 1 to CT 3, CT 5 to CT 7, CX 42, CX 43, CZ 8, DT 1 to DT 15, DT 17 to DT 19, and IS 5 (which relate to petroleum mining):
+  (a) sections CT 1 to CT 3, CT 5 to CT 7, CX 42, CX 43, CZ 8, DT 1 to DT 15, and DT 17 to DT 19 (which relate to petroleum mining):
   (b) sections DO 4 to DO 7, DO 12, DP 1 to DP 3, DP 8, and DP 11 (which relate to farming, aquacultural, and forestry expenditure):
   (c) section EZ 16 (Amount of depreciation loss for plant or machinery additional to section EZ 15 amount):
   (d) the definitions in subpart YA (General definitions) that specifically apply for the purposes of those sections.
@@ -16575,7 +16601,7 @@ When subsection (26) does not apply
 Mineral mining activities
 (28) Sections CU 1 to CU 9, DU 1 to DU 12, IS 1, and IS 2 (which relate to mineral mining) apply, with any necessary modifications, if the CFC carries on activities outside New Zealand that are substantially the same as the mineral mining activities to which those sections apply.
 Petroleum mining activities
-(29) Sections CT 1 to CT 3, CT 5, CX 42, CX 43, CZ 8, DT 1 to DT 15, DT 17 to DT 19, and IS 5 (which relate to petroleum mining) apply, with any necessary modifications, if the CFC carries on petroleum mining activities outside New Zealand that are substantially the same as the petroleum mining activities to which those sections apply.
+(29) Sections CT 1 to CT 3, CT 5, CX 42, CX 43, CZ 8, DT 1 to DT 15, and DT 17 to DT 19 (which relate to petroleum mining) apply, with any necessary modifications, if the CFC carries on petroleum mining activities outside New Zealand that are substantially the same as the petroleum mining activities to which those sections apply.
 Finance leases and specified leases
 (30) A lease entered into by the CFC before the start of the first accounting period in which the CFC is a CFC is neither a finance lease (subject to the financial arrangements rules and sections FA 6 to FA 11, which relate to finance leases), nor a specified lease (subject to sections FZ 2 to FZ 4, which relate to leases).
 When subsection (30) does not apply
@@ -25879,6 +25905,17 @@ Settlors
 ### HD 13 Unit trusts
 A trustee of a unit trust is treated as an agent of the unit trust in relation to income derived by the unit trust.
 
+### HD 13B AIM companies
+When this section applies
+(1) This section applies when a company—
+  (a) uses the AIM provisional tax method; and
+  (b) makes a provision that relates to expenditure on employment income for a shareholder-employee of the company; and
+  (c) makes a payment of tax for the shareholder-employee.
+Agency
+(2) The company is treated as agent for the shareholder-employee for the purposes of the definition of residual income tax.
+Relationship with subject matter
+(3) Section HD 2 does not apply to the agency, unless the agency does not arise only under this section.
+
 ### HD 14 Companies issuing debentures
 Agency
 (1) A company is treated as an agent of a person if—
@@ -26695,12 +26732,15 @@ Australian managed investment trusts
 (2) A trust that is, for Australian tax purposes, a managed investment trust under the Income Tax Assessment Act 1997 (Australia) is a foreign PIE equivalent if it meets the requirement in subsection (1)﻿(a).
 
 ### HM 4 Who is an investor?
-An investor in a PIE or foreign PIE equivalent means—
+Meaning of investor
+(1) An investor in a PIE or foreign PIE equivalent means—
   (a) for an entity that is a company, a shareholder in a company:
   (b) for a life fund PIE, a person whose benefits under the relevant life insurance policy are directly linked to the value of investments held in the PIE:
   (c) for an entity that is not a company or a life fund PIE, a person who is entitled to a proportion of the funds available for distribution by the entity—
     (i) under the rules of the entity or terms of the trust under which the entity is established; and
     (ii) as if the entity were a company and the person were a shareholder in the company.
+Consequences of not providing tax file number
+(2) An investor in a multi-rate PIE who is required under section 28B of the Tax Administration Act 1994 to provide a tax file number to the PIE and fails to do so within the time limit set out in that section is treated as an investor whose interest has reached the exit level.
 
 ### HM 5 What is an investor class?
 Meaning of investor class
@@ -27608,7 +27648,12 @@ Notified foreign investors
 **Exit levels and periods**
 
 ### HM 62 Exit levels for investors
-An investor in a multi-rate PIE is treated as reaching the exit level when the PIE’s tax liability for the investor is equal to, or more than, the value of the investor interest of the investor in the PIE at the end of the exit period (the exit level).
+When tax liability and investor interests equal
+(1) An investor in a multi-rate PIE is treated as reaching the exit level when the PIE’s tax liability for the investor is equal to, or more than, the value of the investor interest of the investor in the PIE at the end of the exit period (the exit level).
+Consequences of not providing tax file number
+(2) An investor in a multi-rate PIE is treated as reaching the exit level when they fail to provide a tax file number to the PIE by the date set out in section 28B of the Tax Administration Act 1994.
+Treatment of investors when tax file numbers not provided
+(3) The account of an investor to whom subsection (2) applies is treated as closed on the date referred to in that subsection. The PIE must pay the amount that is the balance of the investor’s investment to the investor, and calculate and pay tax for the exiting investor for the exit period using the exit calculation option under section HM 42.
 
 ### HM 63 Exit periods
 When this section applies
@@ -28259,7 +28304,7 @@ Additional amounts
   (d) a company (company A) if an Australian ICA company has chosen under section OB 69(5) (Further income tax paid satisfying liability for income tax) to have a payment converted into a tax loss component of company A: the amount calculated under section OB 69(7) for the tax year:
   (e) a person who has an unused attributed controlled foreign company (CFC) net loss for the tax year: the amount referred to in section IQ 2(3) (Ring-fencing cap on attributed CFC net losses) for the tax year:
   (f) a person who has an unused foreign investment fund (FIF) net loss for the tax year: the amount referred to in section IQ 3(3) (Ring-fencing cap on FIF net losses) for the tax year:
-  (g) a person with a specified activity net loss for the tax year: the amount referred to in section IZ 1(1) (Use of specified activity net losses) for the tax year.
+  (g) a person with an unused specified activity net loss: the amount of the unused specified activity net loss to the extent to which the amount has not been subtracted under section IA 4(1)﻿(a) from net income for a tax year.
 Ring-fenced amounts
 (5) This section, and sections IA 3 and IA 4, do not apply to the amounts referred to in section IA 7, which are subject to particular rules in other Parts or subparts that limit the way in which a person may use them.
 Exclusion: net losses from schedular income
@@ -28296,9 +28341,13 @@ When tax loss cannot be used
 
 ### IA 4 Using loss balances carried forward to tax year
 Priority uses
-(1) A person’s loss balance carried forward under section IA 3(4) to a tax year, must—
+(1) A person’s loss balance carried forward under section IA 3(4) to a tax year, and a person’s unused specified activity net loss, must—
   (a) first, be subtracted from their net income, so far as it extends, for the tax year; and
-  (b) secondly, to the extent of a remaining loss balance carried forward under section IA 2(2), be included in their tax loss for the tax year.
+  (b) secondly, to the extent of a remaining loss balance carried forward under section IA 2(2), or the amount of unused specified activity net loss referred to in section IA 2(4)﻿(g), be included in their tax loss for the tax year.
+Unused specified activity net losses subtracted before loss balance
+(1B) In subsection (1)﻿(a), the unused specified activity net loss is subtracted from net income before the loss balance.
+Order for unused specified activity net losses
+(1C) In subsection (1)﻿(a), the unused specified activity net loss is subtracted in the order in which it arose. The order in which it arose is to be determined by applying section IA 9(4) to the unused specified activity net loss as if it were a tax loss component referred to in that section.
 Relationship with other provisions in this subpart
 (2) Sections IA 5 and IA 8 to IA 10 override this section.
 
@@ -28347,7 +28396,7 @@ FIF net losses
 Mining net losses
 (7) The general rules do not apply to a net loss of a mineral miner to the extent to which the net loss relates to a permit area. The provisions that deal with these net losses are sections IS 1 to IS 4 and IS 6 (which relate to mineral miner's tax losses).
 Petroleum net losses
-(8) The general rules do not apply to a petroleum mining company’s net loss to the extent to which the net loss relates to a permit area. The provisions that deal with this net loss are sections IS 5, IZ 2, and IZ 3 (which relate to petroleum mining companies’ use of loss balances).
+(8)
 Amounts remitted
 (9)
 Net losses of multi-rate PIEs
@@ -28374,6 +28423,8 @@ Ring-fenced tax losses
 (2) Ring-fenced tax losses must be used in the order in which they arose.
 Losses in same tax year: consolidated groups and amalgamated companies
 (3) For a consolidated group or on the amalgamation of companies, tax loss components that the consolidated group or the companies have for the same tax year must be used in the order decided, as applicable, by the consolidated group or the amalgamated company, who must also notify the Commissioner of the decision. Without notification, the amounts must be used on a pro rata basis.
+Order for tax loss component from unused specified activity net loss
+(4) For the purposes of subsection (1), the tax loss component under section IA 2(4)﻿(g) arose when the specified activity net loss, that is referred to in the definition of unused specified activity net loss and that makes up the tax loss component, arose.
 
 ### IA 10 Amended assessments
 When this section applies
@@ -29059,18 +29110,7 @@ Use against other income
 [Repealed]
 
 ### IS 5 Petroleum miners’ tax losses
-When this section applies
-(1) This section applies in a tax year in which a petroleum miner with a tax loss for the tax year—
-  (a) relinquishes a petroleum permit for which they have a deduction under section DT 5 (Petroleum development expenditure); or
-  (b) incurs expenditure on removal or restoration operations for which they have a deduction under section DT 16 (Removal or restoration operations).
-Net losses reduced
-(2) The petroleum miner's tax loss is reduced by the amount of the deduction, but only to the extent of the amount of the tax loss. For the reduction in their tax loss, the petroleum miner is allowed a deduction in an earlier tax year for an amount that is equal to the amount of the reduction. The deduction is allocated under section EJ 14 (Spreading deduction backwards).
-Petroleum mining activities outside New Zealand
-(3) This section applies to a petroleum miner who undertakes petroleum mining activities that are—
-  (a) outside New Zealand and undertaken through a branch or a controlled foreign company (CFC); and
-  (b) substantially the same as the petroleum mining activities governed by this Act.
-Using tax loss components
-(4) A shareholder company may use a tax loss component referred to in section IZ 2(2) (Petroleum mining companies: treatment of payments from shareholders) but only in the way described in section IZ 2(3) to (6).
+[Repealed]
 
 ### IS 6 When company stops being mineral miner
 For the purposes of sections IS 1 and IS 2, if a mineral miner whose loss balance is carried forward to a tax year stops being a mineral miner at or before the end of the tax year, the mineral miner is nevertheless treated for the tax year as if it had continued as a mineral miner.
@@ -29123,112 +29163,13 @@ Tax years and part-years
 ### Subpart IZ — Terminating provisions
 
 ### IZ 1 Use of specified activity net losses
-Limit on amount
-(1) A person’s specified activity net loss that is carried forward to a tax year and subtracted from the person’s net income for the tax year must be no more than the sum of the net income for the tax year from the conduct of the same specified activity that gave rise to the net loss and $10,000. If the person makes the net loss available to another person, the maximum amount that can be subtracted by the other person is $10,000.
-When person conducts 2 or more specified activities
-(2) For the purposes of subsection (1), if the specified activity net loss arises from the conduct of 2 or more specified activities—
-  (a) the amount subtracted from the net income for the tax year must be no more than the lesser of—
-    (i) the sum of the person’s specified activity net income from each of the specified activities; and
-    (ii) $10,000; and
-  (b) the person may choose by notice which amounts of net income from the specified activities to subtract from their net income.
-When 2 or more persons conduct specified activity
-(3) If 2 or more persons conduct a specified activity, this section applies as if every reference to—
-  (a) a person were a reference to each person; and
-  (b) an amount of specified activity net loss attributable to the conduct of the specified activity were a reference to the amount of each person’s share of the amount of any joint specified activity net loss for the tax year.
-Income from personal exertion and hardship
-(4) The Commissioner may determine that the limit under subsection (1) does not apply, and may increase the amount of specified activity net loss that may be subtracted from a person’s net income under that subsection if—
-  (a) the person is engaged mainly in conducting a specified activity as their livelihood, and they derive income from personal exertion that—
-    (i) is derived as a result of the conduct of the specified activity but is not income from the specified activity; and
-    (ii) is made for the purpose of enabling the person to meet expenditure essential for the maintenance of either them and their dependants or for the continuation of the specified activity; and
-  (b) the person, in the opinion of the Commissioner would suffer hardship from the application of subsections (1) to (3).
-Relationship with general loss rules
-(5) Subparts IA, IC, ID, IE, and IP (which relate to the general use of tax losses) apply to a specified net loss except to the extent to which subsections (1) to (3) override them.
-Established activities excluded
-(6) This section does not apply to a specified activity net loss that relates to an established activity.
-Related activities
-(7) A specified activity is related to another specified activity, and is treated as part of the other specified activity, if—
-  (a) it is usually conducted in association with and is complementary to the other specified activity that an existing farmer is already conducting; or
-  (b) it is conducted on land that an existing farmer has owned or held under lease, licence, or other agreement for 5 years before the activity is started and—
-    (i) the existing farmer is carrying on the other specified activity immediately before the related activity is started; or
-    (ii) the existing farmer elects by notice in their return of income for the tax year in which they start the activity to have the activity treated as related; or
-    (iii) the Commissioner determines the activity is related.
-Modification for specified activity
-(8) If this section would have a more favourable effect if the following words in paragraph (c)﻿(ii) of the definition of specified activity in section YA 1 (Definitions) were omitted, this section applies as if those words were omitted:not including crops for which the preparation of the land, the planting and cultivation of the tree or plant, and the harvesting of the crop are accomplished within 12 months
-When subsections (10) and (11) apply
-(9) Subsections (10) and (11) apply for the purposes of the definition of established activity in subsection (12) when—
-  (a) land is transferred under a settlement of relationship property; and
-  (b) the transferor conducted a specified activity on the land as at 1 October 1982, and the conduct of the activity constituted their livelihood or sole source of income; and
-  (c) the transferee conducts the same specified activity on the land.
-Treatment of transferee
-(10) The transferee is treated as continuing the specified activity, and that activity is treated as constituting their livelihood and sole source of income.
-Date of commencement
-(11) For the purposes of subsection (7), if the transferor was an existing farmer immediately before the date of transfer, the transferee is treated as having acquired the land on the date it was acquired by the transferor. However, if the transferee starts to conduct the same kind of specified activity on the land that the transferor conducted immediately before the date of transfer, the transferee is not treated as having acquired the land on that date.
-Some definitions
-(12) In this section,—
-  - **conduct** means carry on or engage in or hold an interest in a specified activity, whether or not jointly with another person
-  - **established activity** , for a person who is an existing farmer, means a specified activity, except an activity within the meaning of paragraph (j) of the definition of in section YA 1, that the person conducted on 11 October 1982, if the Commissioner considers the conduct of the specified activity constituted the livelihood of the person and their principal source of income
-  - **existing farmer** means a person to whom both the following apply:
-    (a) the person conducts in an income year 1 or more of the specified activities described in paragraphs (a) to (i) of the definition of specified activity; and
-    (b) the person’s livelihood and the person’s sole or principal source of income is constituted, throughout the conduct of the specified activity or the specified activities in the income year, by the conduct of the specified activity or the specified activities
-  - **income from personal exertion** means income of a kind referred to in sections CB 1 and CE 1 (which relate to amounts derived from business and in connection with employment), but does not include income from a business of renting, or lending money, or making financial investments
-  - **land** ,—
-    (a) includes a lease, or an interest under a lease, of a leased area as defined in the Marine Farming Act 1971; and
-    (b) includes a licence, or an interest under a licence, relating to a licensed area as defined in the Marine Farming Act 1971; and
-    (c) includes an improvement on or in relation to the leased area or the licensed area to which a lease or licence under the Marine Farming Act 1971 relates
-  - **related activity** , for a specified activity conducted by a person in a tax year, means another specified activity that is treated as a related activity under subsection (7), whether or not it is conducted on the same land as the specified activity
-  - **specified activity** means—
-    (a) the business of animal husbandry, including bee-keeping, the breeding of horses other than bloodstock, and poultry-keeping:
-    (b) otherwise deriving income from livestock including bees, horses other than bloodstock, and poultry:
-    (c) the business of growing trees or plants—
-      (i) for disposal as growing trees or plants; or
-      (ii) for the production of flowers; or
-      (iii) for the production of fruit other than grapes, seeds, vegetables, or other crops, not including crops for which the preparation of the land, the planting and cultivation of the tree or plant, and the harvesting of the crop are accomplished within 12 months:
-    (d) the business of viticulture:
-    (e) the business of freshwater fish farming:
-    (f) the business of mussel farming:
-    (g) the business of rock oyster farming:
-    (h) the business of scallop farming:
-    (i) the business of sea-case salmon farming:
-    (j) acquiring or holding of land with a view to deriving, from some or all of the land, rents or other revenues from a lease, licence, or other agreement relating to the land
-  - **specified activity net income** means, for a specified activity conducted by a person in a tax year, the result of subtracting from the sum of the income of the person allocated to that activity and the tax year the sum of the deductions of the person allocated to that activity and the tax year, if that result is a positive amount
-  - **specified activity net loss** means, for a specified activity conducted by a person in a tax year preceding the 1986–87 tax year in the case of an activity referred to in paragraphs (a) to (i) of the definition of specified activity in section YA 1, and the 1990–91 tax year in the case of an activity referred to in paragraph (j) of that definition, a loss from that specified activity referred to in section 188A of the Income Tax Act 1976.
+[Repealed]
 
 ### IZ 2 Petroleum mining companies: treatment of payments from shareholders
-When this section applies
-(1) This section applies if—
-  (a) a tax loss arises from the allowance to a petroleum mining company in the 1990–91 tax year, or earlier tax year, of a deduction or further deduction under sections 214B(6), (13)﻿(b), (14)﻿(b), and (18)﻿(c) of the Income Tax Act 1976 (or under section DZ 6(4) or (9)﻿(c) of the Income Tax Act 1994); and
-  (b) a payment has been made by a company, which is at the time of the payment a shareholder of the petroleum mining company, to the petroleum mining company an amount that was used for the purposes of petroleum development expenditure of the kind referred to in section DZ 6(4) for which the deduction or further deduction referred to in paragraph (a) is allowed.
-Shareholder companies’ tax loss components
-(2) The shareholder company has a tax loss component equal to the amount that bears to the tax loss the same proportion as the payment bears to the petroleum development expenditure. However, the amount of the tax loss component must be no more than the total amount paid.
-Elections by shareholder companies
-(3) For the purposes of subsection (2), the shareholder company must make an election by notice under section 214B(22)﻿(d) of the Income Tax Act 1976 or section DZ 6(12)﻿(d) of the Income Tax Act 1994.
-Treatment of tax losses
-(4) The tax loss may not be carried forward and used except to the extent to which the amount of the tax loss is more than the total of all amounts deducted under subsection (2) in the tax year in which the tax loss arises.
-Further deductions
-(5) Despite subsection (4), if the tax loss arises from the allowance of a further deduction under the second proviso to section 214B(6) of the Income Tax Act 1976 or under section DZ 6(4) of the Income Tax Act 1994, the tax loss is treated as a tax loss arising in the tax year which in section DZ 6(4) is referred to as the year of cessation.
-Relationship with section CV 1
-(6) Section CV 1 (Group companies) does not apply to—
-  (a) a tax loss referred to in this section except to the extent to which it is more than the total of all amounts deducted under subsection (2) in the tax year in which the tax loss arises; or
-  (b) a tax loss for the 1978–79 or earlier tax year.
+[Repealed]
 
 ### IZ 3 Petroleum mining companies: use of loss balances
-When this section applies
-(1) This section applies when—
-  (a) some or all of a loss balance of a petroleum mining company for the 1990–91 tax year or earlier tax year arises from the allowance of—
-    (i) a deduction of an amount of petroleum exploration expenditure that the company incurs on or before 30 September 1990 in exploring or searching for petroleum in an area that is or is subsequently comprised in an existing privilege that was a mining licence or in 2 or more such areas; or
-    (ii) a deduction of an amount for petroleum development expenditure that the company incurs before 30 September 1990; and
-  (b) at the start of a tax year following the tax year in which the tax loss arose, a loss balance relating to the permit area remains after taking into account any deductions that the petroleum mining company, or another company, has for the expenditure or any amounts the company has subtracted from its net income for earlier tax years; and
-  (c) the petroleum mining company was immediately before the commencement of section 214B of the Income Tax Act 1976 a company to which section 216 of that Act applied.
-Using loss balances
-(2) Despite section IA 5 (Restrictions on companies’ loss balances carried forward) or GB 3 (Arrangements for carrying forward loss balances: companies), the loss balance may be subtracted from the petroleum mining company’s net income for the tax year referred to in subsection (1)﻿(b) to the extent to which it is no more than the net income of the company for the tax year if the company’s only source of assessable income were from the relevant permit area.
-Loss balances carried forward
-(3) If, after applying subsection (2), the company has a loss balance remaining, the amount is carried forward to the next tax year and subsection (2) applies in that tax year, and so on.
-References in section
-(4) For the purposes of this section,—
-  (a) a reference in this section to expenditure in exploring or searching for petroleum in an area that is or is subsequently comprised in an existing privilege that was a mining licence is taken as including a reference to expenditure in exploring or searching for petroleum in an area that is outside but continuous or geologically contiguous with the area, being exploring or searching that was included, whether originally or additionally, in the programme of exploring or searching as a consequence of which application was made for the existing privilege:
-  (b) permit area means an area, and may include more than 1 area, of an existing privilege referred to paragraph (d) of the definition of existing privilege in section 2(1) of the Crown Minerals Act 1991.
-Relationship with section IZ 2
-(5) Section IZ 2 overrides this section.
+[Repealed]
 
 ### IZ 4 Tax losses for tax years before 1977–78 tax year
 A person’s loss balance for a tax year before the 1977–78 tax year is carried forward and may be used under section IA 4 (Using loss balances carried forward to tax year) if the person would have been entitled to have the tax loss carried forward for the purpose of assessing income tax under section 137 of the Land and Income Tax Act 1954 if the Income Tax Act 1976, the Income Tax Act 1994, the Income Tax Act 2004, and this Act had not been passed.
@@ -29324,6 +29265,7 @@ What this section applies to
   (g) section LS 2 (Tax credits for investors in multi-rate PIEs), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
   (h) section LS 3 (Tax credits for zero-rated investors), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
   (i) section LS 4 (Tax credits for certain exiting investors), and the person is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
+  (ib) subpart LT (Tax credits for petroleum miners):
   (j) section LU 1 (Tax credits for mineral miners).
 Use of credits
 (2) The Commissioner must—
@@ -30471,6 +30413,56 @@ Credit for PIE's other tax credits
 Timing
 (5) The investor has the tax credit for the tax year corresponding to the income year in which the PIE's tax year ends.
 
+### Subpart LT — Tax credits for petroleum miners
+
+### LT 1 Tax credits for petroleum miners
+When this section applies
+(1) This section applies for an income year if a petroleum miner or a farm-in party—
+  (a) has—
+    (i) been allocated under section EJ 13(4) (Permanently ceasing petroleum mining operations) a deduction for the income year:
+    (ii) incurred expenditure for which they are entitled to a deduction under section DT 16 (Decommissioning); and
+  (b) notifies the Commissioner before they file the return of income for the income year; and
+  (c) has a net loss for the tax year corresponding to the income year.
+Tax credits
+(2) The petroleum miner or farm-in party has a tax credit for the tax year corresponding to the income year for an amount calculated using the formula—amount of loss × tax rate.
+Definition of items in formula
+(3) In the formula,—
+  (a) amount of loss is the amount of the net loss described in subsection (1)﻿(c) to the extent to which the amount does not exceed the total of the amounts for the deductions referred to in subsection (1)﻿(a)﻿(i) and (ii):
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
+Maximum amounts
+(4) Despite subsection (2), the maximum amount of the credit must not be more than the lesser of—
+  (a) the result of the formula; and
+  (b) the amount of income tax paid by—
+    (i) for a petroleum miner, the petroleum miner and any consolidated group of which they are a member on net income derived for all earlier tax years, calculated on a year-by-year basis and aggregated:
+    (ii) for a farm-in party, the farm-in party and any consolidated group of which they are a member on net income derived for all earlier tax years, calculated on a year-by-year basis and aggregated.
+Consolidated groups
+(5) For the purposes of subsection (4)﻿(b), the amount of income tax paid by the consolidated group includes income tax paid on net income derived for tax years before the petroleum miner or farm-in party joined the group.
+Treatment of trustees
+(6) For the purposes of subsection (4), if the petroleum miner or farm-in party is a trustee of a trust, the amount of tax paid for each earlier tax year is determined—
+  (a) first, by reference to the amount of income tax paid under the obligations of a trustee under section HC 32 (Liability of trustee as agent); and
+  (b) secondly, by reference to the amount of tax paid on trustee income; and
+  (c) calculated on a year-by-year basis and aggregated.
+Calculations on year-by-year basis
+(7) In subsections (4)﻿(b) and (6)﻿(c) a reference to a calculation on a year-by-year basis refers to a calculation starting with the immediately preceding tax year and working backwards to earlier tax years until the amount of tax paid is equal to or more than the amount referred to in subsection (4)﻿(a).
+Treatment of tax losses
+(8) To the extent to which the petroleum miner or farm-in party has a tax credit under this section, the amount of the net loss giving rise to the credit does not form part of a tax loss component for the petroleum miner or farm-in party.
+Nature of tax credits
+(9) The tax credit is available for use under section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items).
+Relationship with other sections
+(10) Subsection (8) overrides section IA 2 (Tax losses).
+
+### LT 2 Petroleum mining operations outside New Zealand
+Section LT 1 applies with modifications
+(1) Section LT 1 applies as modified by this section to a petroleum miner undertaking petroleum mining operations or decommissioning outside New Zealand through a branch or a controlled foreign company in relation to those operations outside New Zealand.
+Net losses
+(2) The net loss referred to in section LT 1(1)﻿(c) for the petroleum miner is the net loss the petroleum miner would have if section DT 1A(4) (Ring-fenced allocations) did not apply.
+Maximum amounts
+(3) The maximum amount of the credit referred to in section LT 1(4) for the petroleum miner in relation to the petroleum mining operations or decommissioning outside New Zealand must not be more than the lesser of—
+  (a) the result of the formula in section LT 1(2); and
+  (b) the amount of income tax paid by the petroleum miner and any consolidated group of which the petroleum miner is a member on net income derived for all earlier tax years that relates to the petroleum mining operations or decommissioning outside New Zealand, calculated on a year-by-year basis and aggregated.
+Consolidated groups, trustees, calculations on year-by year basis
+(4) Section LT 1(5), (6), and (7) applies, with any necessary modifications, for the purposes of subsection (3).
+
 ### Subpart LU — Tax credits for mineral miners
 
 ### LU 1 Tax credits for mineral miners
@@ -31074,12 +31066,12 @@ Definition of items in formula
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
   (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
-    (i) $4,822, if the child is younger than 16:
-    (ii) $5,303, if the child is 16 or older:
+    (i) $5,614, if the child is younger than 16:
+    (ii) $5,734, if the child is 16 or older:
     (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
   (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
-    (i) $3,351, if the child is younger than 13:
-    (ii) $3,822, if the child is 13, 14, or 15:
+    (i) $4,397, if the child is younger than 13:
+    (ii) $4,514, if the child is 13, 14, or 15:
     (iii) $4,745, if the child is 16 or older:
     (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
     (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
@@ -31248,8 +31240,8 @@ Formula
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess:
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $41,116, 24.38 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $41,116, 24.38 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 70-day period crosses 2 tax years and parental tax credit paid in instalments
 (4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives instalments of the parental tax credit in a 70-day period that crosses 2 tax years, the formula is applied so that—
@@ -31305,7 +31297,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $23,816:
+  (a) prescribed amount is $26,156:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -31418,6 +31410,79 @@ Instalment shown in complete dollars
 ### MF 4E Calculation of instalments: 1 October 2010 to 31 March 2011
 [Repealed]
 
+### MF 4F Calculation of instalments: 1 April 2018 to 30 June 2018
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit for the abating WFF tax credit for the period starting on 1 April 2018 and finishing on 30 June 2018.
+Family tax credit formula: section MD 3
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the formula—prescribed amount × days ÷ 365.
+Definition of items in formula
+(3) The items in the formula in subsection (2) are defined in subsections (4) and (5).
+Prescribed amount
+(4) Prescribed amount is the sum of the following amounts:
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
+    (i) $4,822, if the child is younger than 16:
+    (ii) $5,303, if the child is 16 or older:
+    (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
+    (i) $3,351, if the child is younger than 13:
+    (ii) $3,822, if the child is 13, 14, or 15:
+    (iii) $4,745, if the child is 16 or older:
+    (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
+    (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
+Days
+(5) Days is the number of days in the entitlement period.
+When another person cares for dependent child
+(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
+Family credit abatement formula: section MD 13
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the formula—full-year abatement × days ÷ 365.
+Definition of items in formula
+(8) In the formula in subsection (7),—
+  (a) full-year abatement is,—
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,350, 22.5 cents for each complete dollar of the excess:
+  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14 (Person receiving protected family tax credit).
+When 70-day period includes 31 March
+(9) If a person who qualifies under section MC 2 receives instalments of the parental tax credit in a 70-day period that includes 31 March, the formula in subsection (7) is applied so that—
+  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
+  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
+Relationship with subject matter
+(10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+
+### MF 4G Calculation of instalments: 1 July 2018 to 31 March 2019
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit for the abating WFF tax credit for the period starting on 1 July 2018 and finishing on 31 March 2019.
+Family tax credit formula: section MD 3
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the formula—prescribed amount × days ÷ 365.
+Definition of items in formula
+(3) The items in the formula in subsection (2) are defined in subsections (4) and (5).
+Prescribed amount
+(4) Prescribed amount is the sum of the following amounts:
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
+    (i) $5,878, if the child is younger than 16:
+    (ii) $5,878, if the child is 16 or older:
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
+    (i) $4,745, if the child is younger than 13:
+    (ii) $4,745, if the child is 13, 14, or 15:
+    (iii) $4,745, if the child is 16 or older.
+Days
+(5) Days is the number of days in the entitlement period.
+When another person cares for dependent child
+(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
+Family credit abatement formula: section MD 13
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the formula—full-year abatement × days ÷ 365.
+Definition of items in formula
+(8) In the formula in subsection (7),—
+  (a) full-year abatement is,—
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $42,700, 25 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $42,700, 25 cents for each complete dollar of the excess:
+  (b) days is the number of days in the entitlement period, excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14 (Person receiving protected family tax credit).
+When 70-day period includes 31 March
+(9) If a person who qualifies under section MC 2 receives instalments of the parental tax credit in a 70-day period that includes 31 March, the formula in subsection (7) is applied so that—
+  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
+  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
+Relationship with subject matter
+(10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+
 ### MF 5 Recovery of overpaid tax credit
 When this section applies
 (1) This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
@@ -31449,7 +31514,7 @@ Underpayment
 What may be done by Order in Council
 (1) The Governor-General may, by Order in Council,—
   (a) increase the amounts in section MD 3(4)﻿(a)﻿(i) and (b)﻿(i) and (ii) (Calculation of family tax credit) by amounts that—
-    (i) correspond to the movement in the New Zealand Consumer Price Index that has not yet been taken into account by an increase:
+    (i) correspond to the movement in the New Zealand Consumers Price Index that has not yet been taken into account by an increase:
     (ii) are rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
   (ab) increase the amount in—
     (i) section MD 3(4)﻿(a)﻿(ii) to equal the corresponding amount in section MD 3(4)﻿(a)﻿(i), if the amount in section MD 3(4)﻿(a)﻿(i) would otherwise be the greater:
@@ -31462,15 +31527,12 @@ What may be done by Order in Council
 Order in Council under subsection (1)﻿(a): requirements
 (2) An Order in Council under subsection (1)﻿(a),—
   (a) in the case of the first Order in Council made under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2008 is 5% or more:
-  (b) in the case of a subsequent Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+  (b) in the case of the second Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 July 2018 is 5% or more:
+  (c) in the case of a subsequent Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 How movement in CPI determined
-(2B) For the purposes of subsections (1)﻿(a)﻿(i) and (2)﻿(a) and (b), a movement in the New Zealand Consumers Price Index over a period is determined by comparing the following numbers:
-  (a) the number that, when the period started, was the most recent quarterly index number of—
-    (i) the New Zealand Consumers Price Index all groups, if the period starts before 29 April 2010; and
-    (ii) the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products, if the period starts after 28 April 2010:
-  (b) the number that, when the period ended, was the most recent quarterly index number of—
-    (i) the New Zealand Consumers Price Index all groups, if the period ends before 29 April 2010; and
-    (ii) the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products, if the period ends after 28 April 2010.
+(2B) For the purposes of subsections (1)﻿(a)﻿(i) and (2)﻿(a), (b), and (c), a movement in the New Zealand Consumers Price Index over a period is determined by comparing the following numbers:
+  (a) the number that, when the period started, was the most recent quarterly index number of the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products:
+  (b) the number that, when the period ended, was the most recent quarterly index number of the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products.
 Order in Council under subsection (1)﻿(ab)
 (2C) An Order in Council must be made under subsection (1)﻿(ab) if an Order in Council under subsection (1)﻿(a) would otherwise result in—
   (a) the amount in section MD 3(4)﻿(a)﻿(i) exceeding the amount in section MD 3(4)﻿(a)﻿(ii):
@@ -32469,6 +32531,10 @@ Debit
   (c)
 Exclusion: FDPA companies
 (1B)
+Exclusion: refund after debit under section OB 41
+(1C) Despite subsection (1), an ICA company has an imputation debit for a refundable tax credit arising in a tax year after a debit arises under section OB 41, reduced by the lesser of—
+  (a) the debit under section OB 41:
+  (b) the amount by which the refundable tax credit exceeds the total credits to the company’s imputation credit account, for amounts satisfying the company’s income tax liability, during the period from the date of the debit to the date on which the credit balance is to be determined under sections RM 13 and RM 14 (which relate to limits on refunds for ICA companies).
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 9 (refund of tax credit).
 Debit date
@@ -34444,6 +34510,10 @@ Debit
   (c)
 Exclusion
 (1B)
+Exclusion: refund after debit under section OP 42
+(1C) Despite subsection (1), a consolidated imputation group has an imputation debit for a refundable tax credit arising for a group company in a tax year after a debit arises under section OP 42, reduced by the lesser of—
+  (a) the debit under section OP 42:
+  (b) the amount by which the refundable tax credit exceeds the total credits to the group’s imputation credit account, for amounts satisfying the group’s income tax liability, during the period from the date of the debit to the date on which the credit balance is to be determined under sections RM 13 and RM 14 (which relate to limits on refunds for ICA companies).
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 9 (refund of tax credit).
 Debit date
@@ -35219,7 +35289,7 @@ Linked to tax agent
 (4) For the purposes of subsection (2)﻿(a)﻿(i), a return of income is linked to a tax agent if the Commissioner has been notified that the return is to be filed by the tax agent who has an extension of time under section 37(4) of the Tax Administration Act 1994.
 
 ### RA 14 Payment dates for provisional tax
-A person must pay their provisional tax for a tax year under section RC 9 (Provisional tax payable in instalments) according to the relevant cycle of instalments set out in schedule 3, part A, columns A to F (Payment of provisional tax and terminal tax).
+A person must pay their provisional tax for a tax year under section RC 9 (Provisional tax payable in instalments) according to the relevant cycle of instalments set out in schedule 3, part A, columns A to F1 (Payment of provisional tax and terminal tax).
 
 ### RA 15 Payment dates for interim and other tax payments
 When this section applies
@@ -35381,7 +35451,7 @@ When this subpart applies
   (e) the payment of provisional tax in a transitional year:
   (f) the application of the rules relating to use of money interest in Part 7 of the Tax Administration Act 1994, and late payment penalties and shortfall penalties in Part 9 of that Act.
 Instalment dates
-(2) In this subpart, a reference to an instalment classified by the letters A to F is a reference to a date in the table in schedule 3, part A (Payment of provisional tax and terminal tax) on which an instalment of provisional tax is payable for an income year corresponding to a tax year.
+(2) In this subpart, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to a date in the table in schedule 3, part A (Payment of provisional tax and terminal tax) on which an instalment of provisional tax is payable for an income year corresponding to a tax year.
 
 ### RC 2 Provisional tax rules and their application
 Meaning
@@ -35431,6 +35501,20 @@ Relationships and modification of standard method
 (4) Subsections (5) to (7) override subsection (3). Sections RZ 3 (Standard method: 2010–11 to 2012–13 income years) and RZ 5D (Standard method or GST method: transition for Maori authorities) modify subsections (2) and (3).
 Estimation method
 (5) The person may estimate their provisional tax liability for the tax year under section RC 7.
+AIM method
+(5B) A person must use the AIM method under section RC 7B to determine their provisional tax liability for the tax year (the current tax year), other than a transitional year, if the person—
+  (a) has chosen to use the AIM method for the current tax year on or before the first instalment date for them under the AIM method, and the current tax year is not a transitional year; and
+  (b) has an AIM-capable accounting system that is up-to-date for relevant tax law for the corresponding income year and for determinations under section 91AAX of the Tax Administration Act 1994 for the corresponding income year; and
+  (c) has—
+    (i) annual gross income of $5,000,000 or less for the tax year before the current tax year:
+    (ii) annual gross income of $5,000,000 or less for the first tax year for which the person used the AIM method, and the Commissioner has approved under section 15Z of the Tax Administration Act 1994 the person’s continued use of an AIM-capable accounting system for tax years in which the person has annual gross income of more than $5,000,000:
+    (iii) a large business AIM-capable system; and
+  (d) has not been liable, in 1 of the last 4 tax years before the current tax year, for a shortfall penalty in relation to their use of the AIM method and an approved AIM provider’s AIM-capable accounting system; and
+  (e) has not returned tax liabilities using the AIM method with the sole purpose or effect of consistently, year-on-year, reducing their tax liabilities below the amounts of reasonably accurate assessments; and
+  (f) is not a member of a class of taxpayers that the Commissioner has determined, under section 91AAY of the Tax Administration Act 1994, must not use the AIM method; and
+  (g) for the current tax year, has not failed more than twice to give the Commissioner information in the prescribed form, as provided by section 45 of the Tax Administration Act 1994.
+AIM method: exception
+(5C) A person who does not meet the requirements of subsection (5B) can not use the AIM method for the current tax year. If they can not use the AIM method for the current year because part-way through the corresponding income year the person stops meeting the requirements of subsection (5B), the person is treated as using the estimation method for the whole of the current tax year.
 GST ratio method
 (6) A person who is eligible under section RC 16 and not excluded by section RC 17 may choose to use a goods and services tax (GST) ratio under section RC 8 to determine their provisional tax liability for the tax year.
 Commissioner’s determination
@@ -35473,6 +35557,26 @@ Changing calculation method from GST ratio
   (b) B, D, and F for other changes.
 Disaster relief
 (7)
+
+### RC 7B AIM method
+When this section applies
+(1) This section applies to—
+  (a) a person who meets the requirements of section RC 5(5B); and
+  (b) the calculation of the amount of provisional tax payable for a tax year, other than a transitional year, under the AIM method.
+AIM method
+(2) A person must use an AIM-capable accounting system for the calculation of provisional tax payable for a tax year.
+Meaning of AIM-capable accounting system
+(3) AIM-capable accounting system means a double-entry accounting system that is an approved AIM provider’s product, and uses a core software package from an approved AIM provider, if the system has the following features:
+  (a) a core software accounting package and connected packages that provide the ability to—
+    (i) generate and keep comprehensive financial accounts, including accounting income and expenditure, ledger accounts, trial balances, bank account reconciliations, and journals, on an on-demand basis, in accordance with good accounting and tax practice; and
+    (ii) calculate tax liabilities for the tax year using tax adjustments for the financial accounts, in accordance with a determination under section 91AAX of the Tax Administration Act 1994(a section 91AAX determination), and using tax rates under a section 91AAX determination; and
+    (iii) for amounts for which there is no tax adjustment under a section 91AAX determination, calculate tax liabilities for the tax year using tax rates under a section 91AAX determination, and using tax adjustments for the financial accounts that result in reasonably accurate assessments of tax liabilities for a person; and
+    (iv) recalculate all financial accounts and tax liabilities, if retrospective adjustments are required for the year to date; and
+    (v) produce reports and other information as required by the Commissioner, in formats prescribed by the Commissioner; and
+  (b) electronic communication facilities for—
+    (i) giving information in the form prescribed by the Commissioner; and
+    (ii) sending and receiving messages and notifications; and
+  (c) help documentation for end-users and their tax agents on the use of the package, with ongoing support provided by the approved AIM provider on the use of the package.
 
 ### RC 8 GST ratio method
 Using GST ratio
@@ -35536,12 +35640,18 @@ Exclusions
   (b) to a person with an initial provisional tax liability who—
     (i) pays GST on a 6-monthly basis; or
     (ii) pays GST on a monthly or 2-monthly basis, and starts a taxable activity within 30 days before the date of instalment B in their corresponding income year:
+  (bb) to a person that uses the AIM method for the tax year:
   (c) to a person liable to pay provisional tax who has not provided a return of income for the preceding tax year, and whose residual income tax for the tax year before the preceding tax year was $2,500 or less:
   (d) in a transitional year.
+AIM method
+(4B) A person liable to pay provisional tax who uses the AIM method for the current tax year must pay provisional tax—
+  (a) if the person is not registered for GST, or has a 6-month taxable period under section 15 of the Goods and Services Tax Act 1985, on the 6 instalment dates in the months set out in schedule 3, part A, columns A, B, C, D, E, and F for their balance date. The amount of each instalment is provided by section RC 10B; or
+  (b) if the person has a 2-month taxable period under section 15 of the Goods and Services Tax Act 1985, on the group of 6 instalment dates in the months set out in either schedule 3, part A, columns A, B, C, D, E, and F or in schedule 3, part A, columns A1, B1, C1, D1, E1, and F1 that corresponds to the due dates for their GST returns. The amount of each instalment is provided by section RC 10B; or
+  (c) if the person has a 1-month taxable period under section 15 of the Goods and Services Tax Act 1985, on the 12 instalment dates in the months set out in schedule 3, part A, columns A to F1 for their corresponding income year. The amount of each instalment is provided by section RC 10B.
 Provisional tax when GST paid on 6-monthly basis
 (5) A person liable to pay provisional tax who pays GST on a 6-monthly basis must pay provisional tax on the 2 interest instalment dates for the tax year in the months set out in schedule 3, part A, columns C and F for their corresponding income year. This subsection applies to a person with an initial provisional tax liability other than 1 who pays GST on a 6-monthly basis and starts a taxable activity within 30 days before the date of instalment C.
 Provisional tax determined using GST ratio
-(6) A person liable to pay provisional tax who uses a GST ratio to determine the amount of provisional tax payable for a tax year, must pay provisional tax on the 6 ratio instalment dates in the months set out in schedule 3, part A, columns A to F for their corresponding income year. The amount of each instalment is calculated under section RC 11.
+(6) A person liable to pay provisional tax who uses a GST ratio to determine the amount of provisional tax payable for a tax year, must pay provisional tax on the 6 ratio instalment dates in the months set out in schedule 3, part A, columns A, B, C, D, E, and F for their corresponding income year. The amount of each instalment is calculated under section RC 11.
 Changing calculation method
 (7) A person who is unable or who decides not to use a GST ratio, changing their calculation method under section RC 18, must pay the provisional tax payable for the tax year on the relevant instalment dates under the replacement method. The amount of each instalment is calculated under section RC 10.
 Changing cycle of taxable periods
@@ -35582,6 +35692,9 @@ Definition of items in formula
   (d) provisional tax is the amount of a person’s provisional tax liabilities for the tax year to date.
 Instalment amounts after change in balance date or taxable period
 (4) If a change occurs to the balance date or cycle of a person’s taxable periods, the calculation of the amount of an instalment is made under this section, applying the updated figures to the items in the formula.
+
+### RC 10B Calculating amount of instalment for periods using AIM method
+For a person who uses the AIM method, the amount of provisional tax payable on an instalment date for a tax year is the amount calculated using an AIM-capable accounting system for the 2-monthly or monthly period given by schedule 3, part AB (Payment of provisional tax and terminal tax) for the applicable instalment date.
 
 ### RC 11 Calculating amount of instalment using GST ratio
 Calculation
@@ -35806,7 +35919,7 @@ Final instalment
 What this section applies to
 (1) This section applies to a person liable to pay provisional tax using a GST ratio in relation to instalments of provisional tax payable in a transitional year.
 Adjustment if required
-(2) For a period or part period before the start of the new income year, the person must apply the GST ratio under section RC 11 on whichever dates of instalments A to F for their corresponding income year occur in the transitional year.
+(2) For a period or part period before the start of the new income year, the person must apply the GST ratio under section RC 11 on whichever dates of instalments A, B, C, D, E, and F for their corresponding income year occur in the transitional year.
 
 ### RC 25 Consequences of change in balance date
 Continuing frequency
@@ -35972,6 +36085,21 @@ Order
 (3) The Commissioner must credit the amount of the further income tax in payment successively of—
   (a) the instalment of provisional tax that is first payable after the date of payment of the further income tax; and
   (b) to the extent of the amount of further income tax, to later instalments in the order in which they are payable.
+
+### RC 35B Treatment of overpaid provisional tax instalments calculated using AIM method
+When this section applies
+(1) This section applies for the purposes of sections RC 5(5B), RC 7B, RC 9(4B), RC 10B, and RM 6B (Refunds for overpaid AIM method instalments) when—
+  (a) a company uses the AIM method to calculate and pay a provisional tax liability; and
+  (b) the amount of an instalment of provisional tax is overpaid.
+Overpaid amounts credited to shareholders
+(2) The company may ask the Commissioner to credit the overpaid amount to the account of a shareholder of the company, treating the amount as—
+  (a) an amount transferred for the purposes of Part 7 of the Tax Administration Act 1994 as provided by section 120LB of that Act:
+  (b) a refund of income tax paid to the company for the purposes of section OB 32 (ICA refund of income tax).
+Maximum amount
+(3) The amount that may be credited under subsection (2) must be no more than the least of the following:
+  (a) an amount chosen by the company; and
+  (b) the amount of the shareholder’s residual income tax for the relevant tax year less the amount of any tax credit that the shareholder has under section LB 2 (Tax credits for provisional tax payments) for the tax year, treating a negative amount as zero; and
+  (c) the amount of the company’s tax credit under section LB 2 for the relevant tax year less the amount of the company’s residual income tax for the tax year, treating a negative amount as zero.
 
 ### RC 36 Persons affected by adverse events
 [Repealed]
@@ -36190,14 +36318,12 @@ Meaning
     (i) as a bonus, gratuity, or share of profits; or
     (ii) as a redundancy payment; or
     (iii) when the person retires from employment; or
-    (iv) as a result of a retrospective increase in salary or wages, but only to the extent described in subsection (2); and
+    (iv) as a result of a retrospective increase in salary or wages, but only to the extent to which it accrues from the start of the increase until the start of the first pay period in which the increase is included in salary or wages; and
   (bb) includes a benefit under section CE 2(2) or (4) (Value and timing of benefits under share purchase agreements) in relation to which the employer has made an election under section RD 7B to withhold an amount of tax; and
   (c) includes an amount of income that a person derives under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements) if the income is derived in connection with an employment relationship between the person and the person who paid the amount; and
   (d) does not include a payment of exempt income.
 Limit on retrospective increase in salary or wages
-(2) A payment described in subsection (1)﻿(b)﻿(iv) is included in extra pay only to the extent to which,—
-  (a) it accrues from the start of the increase until the start of the first pay period in which the increase is included in salary or wages; and
-  (b) when a week ends with a Saturday, the total of the increase for the week, and of the salary or wages for the week excluding the increase, and of any other salary or wages that the person earns for the week, is more than $4.
+(2)
 Remedial payments for certain entitlements
 (3) A remedial payment made in relation to 1 or more of a person’s entitlements under the Holidays Act 2003, an employment agreement, or both, is treated as an extra pay if—
   (a) the payment is made to a person in connection with their employment; and
@@ -36286,6 +36412,9 @@ Commissioner prescribed tax rate and deduction amount
 Non-resident entertainer rate
 (5) Despite subsections (2), (3), and (4), the tax rate, if the payee is a non-resident entertainer, is 0.20.
 
+### RD 10C Calculating amounts of tax following changes to rates or thresholds
+When a change occurs to a rate or threshold in this Act or the Tax Administration Act 1994 affecting the amount of tax for a PAYE income payment, the calculation of the amount of tax must be made using the rate applying on the day on which the PAYE income payment is paid or is otherwise under this Act treated as paid.
+
 ### RD 11 Reduction in certain circumstances
 Special circumstances
 (1) Despite sections RD 2 to RD 10, the Commissioner may, in special circumstances, reduce the amount of tax for a PAYE income payment to an employee or a class of employees. The PAYE rules then apply as if amended.
@@ -36308,16 +36437,31 @@ When this section does not apply
 Treatment as 1 payment
 (3) The total amount of tax for all payments of salary or wages is the amount that would be required to be withheld if all the payments were treated as 1 payment made by 1 employer for the week.
 
-### RD 13 Advance payments of salary or wages
-When this section applies: increase in amount of tax
-(1) This section applies when—
-  (a) an employee receives from an employer a payment of salary or wages referred to in section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes); and
-  (b) the amount of tax under schedule 2 (Basic tax rates for PAYE income payments) for all or part of the payment is increased; and
-  (c) the payment is made before the date of the increase.
-When this section applies: becoming subject to PAYE rules
-(2) This section also applies when all or part of a payment of salary or wages becomes subject to the PAYE rules, but the payment is made before the date on which it becomes subject to the rules.
-Addition to amount of tax for next payment
-(3) The amount of the difference caused by the increase referred to in subsection (1)﻿(b) is added to the amount of tax for the next payment of salary or wages made by the employer to the employee.
+### RD 13 Advance payments
+When this section applies
+(1) This section applies when an employee receives from their employer—
+  (a) an advance payment of salary or wages referred to in section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes):
+  (b) an amount of holiday pay that is paid—
+    (i) in a lump sum before the employee takes their holiday; and
+    (ii) when the employee’s employment is continuing.
+Employers’ elections
+(2) The employer may choose to treat the amount as—
+  (a) an extra pay; or
+  (b) a lump sum paid and spread over the pay period or periods to which it relates.
+Choosing to treat amounts as lump sum payments
+(3) Subsections (4) and (5) apply when an employer chooses under subsection (2)﻿(b) to treat the amount as a lump sum.
+Calculating amounts of tax for lump sum payments
+(4) The amount of tax for the lump sum payment is determined by—
+  (a) apportioning the lump sum to the pay period or pay periods to which it relates based on the employee’s usual hours of work; and
+  (b) calculating the amount of tax for each portion of the lump sum, treating the portion as if it were the only payment of salary or wages paid by the employer to the employee for the particular pay period; and
+  (c) adding together the amounts of tax for each portion.
+Calculating amounts of tax for salary or wages
+(5) The amount of tax for a payment of salary or wages for a pay period referred to in subsection (4)﻿(a) that is made after the payment of the lump sum is found by—
+  (a) adding together—
+    (i) the amount of the payment of salary or wages for the pay period; and
+    (ii) the portion of the lump sum that relates to the pay period as determined under subsection (4)﻿(a); and
+  (b) calculating the amount of tax that must be withheld for the total amount referred to in paragraph (a), treating that amount as if it were a single payment of salary or wages paid by the employer to the employee for the pay period; and
+  (c) subtracting the amount of tax for the portion of the lump sum that relates to the pay period as described in subsection (4)﻿(b).
 
 ### RD 13B Adjustments for payroll donations
 When this section applies
@@ -36326,23 +36470,7 @@ Subtracting amount of tax credit
 (2) The employer or PAYE intermediary must subtract the amount of the tax credit from the amount of tax for the employee's PAYE income payment for the pay period and record the information in the relevant employer monthly schedule.
 
 ### RD 14 Changes to tax rates for salary or wages
-When subsection (2) applies
-(1) Subsection (2) applies when a change occurs to the amounts of tax for PAYE income payments set out in schedule 2 (Basic tax rates for PAYE income payments).
-Determining amount of tax
-(2) The amount of tax for a payment of salary or wages for the pay period in which the change occurs is determined as follows:
-  (a) for a pay period of 1 month or less, the amount of tax for the full payment for the pay period is the altered amount:
-  (b) for a pay period of more than 1 month, the amount of tax is determined on the basis set out in schedule 2, clause 2, by—
-    (i) determining the proportionate parts of the payment before and after the change; and
-    (ii) calculating each part of the relevant amount of tax; and
-    (iii) adding together the relevant amounts of tax.
-When subsection (4) applies
-(3) Subsection (4) applies for a week when—
-  (a) a change occurs to the amounts of tax for PAYE income payments set out in schedule 2; and
-  (b) an employee receives more than 1 payment of salary or wages for the week as described in section RD 12.
-Determining amount of tax
-(4) The total amount of tax for all payments of salary or wages for the week in which the change occurs is the amount determined under section RD 12.
-Later payment for earlier services
-(5) The amount of tax for a payment of salary or wages made after the date of the change for a pay period ending before the date in relation to services provided before the date must be calculated using the basic amounts of tax for PAYE income payments applicable in the pay period or week.
+[Repealed]
 
 ### RD 15 Payments of salary or wages in pay periods
 Payment for part of period
@@ -37123,6 +37251,11 @@ The amount of tax for an employer's superannuation cash contribution is—
   (b) 33% of the employer's superannuation cash contribution, if—
     (i) the contribution is made by a person for the benefit of 1 or more of their past employees:
     (ii) an employer chooses 33% and the contribution is to a defined benefit fund.
+
+### RD 67B Calculating amounts of tax following changes to rates or thresholds
+When a change occurs to a rate or threshold in this Act or the Tax Administration Act 1994 affecting the amount of tax for an employer’s superannuation cash contribution, the calculation of the amount of tax must be made using the rate applying on—
+  (a) the day on which the PAYE income payment to which the contribution relates is paid or is otherwise under this Act treated as paid; or
+  (b) for a contribution that is not tied to a particular PAYE income payment, the day on which the contribution is paid.
 
 ### RD 68 Choosing to have amount treated as salary or wages
 Amount treated as salary or wages
@@ -38310,6 +38443,16 @@ Threshold amount
 ### RM 6 Refunds after 4-year period ends
 [Repealed]
 
+### RM 6B Refunds for overpaid AIM method instalments
+Refund
+(1) The Commissioner must refund to a person the amount given by the formula in subsection (2), if the person uses the AIM method for a tax year and gives the Commissioner the required information in the form prescribed under section 45 of the Tax Administration Act 1994 (the form).
+Formula
+(2) For the purposes of subsection (1) the refund amount is—AIM payments year to date − AIM year to date.
+Definition of items in formula
+(3) In the formula,—
+  (a) AIM payments year to date means the amount of provisional tax paid by the person for the tax year on and before the last day of the instalment period that the form relates to:
+  (b) AIM year to date means the amount of provisional tax liability that the person would have if the AIM method was applied for the period starting at the beginning of the tax year and finishing on the last day of the instalment period that the form relates to.
+
 ### RM 7 Refunds to PAYE intermediaries
 When this section applies
 (1) This section applies when a PAYE intermediary pays to the Commissioner an amount of tax for a PAYE income payment for an employer—
@@ -38393,8 +38536,8 @@ Treatment of amount refunded or credited
 ### RM 13 Limits on refunds for ICA companies
 When this section applies
 (1) This section applies when an ICA company is entitled to—
-  (a) a refund of income tax under sections RM 2, RM 4, and RM 5; or
-  (b) transfer an amount under section RC 32 (Wholly-owned groups of companies).
+  (a) a refund of income tax under sections RM 2, RM 4, and RM 5, other than a refund of provisional tax paid under the AIM method; or
+  (b) transfer an amount under section RC 32 (Wholly-owned groups of companies), other than a transfer of provisional tax paid under the AIM method.
 Amount of refund or transfer limited
 (2) The amount of the refund or transfer must be no more than the credit balance of the ICA company in the imputation credit account at the latest of the following dates:
   (a) the last day of the tax year that has just ended:
@@ -38416,6 +38559,10 @@ Credit balance reduced
 (1) A credit balance is treated as reduced by the amount of a refund or transfer as described in sections RM 13 and RM 14 that is made earlier in the same tax year.
 Credit balance increased
 (2) A credit balance is treated as increased by an amount equal to a debit to the company’s imputation credit account under section OB 41 (ICA debit for loss of shareholder continuity) arising after a credit is made to the company’s imputation credit account for an amount that has satisfied the company’s income tax liability for the tax year and before the date on which the credit balance is to be determined under sections RM 13 and RM 14.
+Credit balance increased: refund after debit under section OB 41
+(3) For a company that has a refundable tax credit for a tax year after a debit to the company’s imputation credit account arises under section OB 41 (ICA debit for loss of shareholder continuity), a credit balance for the tax year is increased by an amount equal to the lesser of—
+  (a) the debit under section OB 41:
+  (b) the amount by which the refundable tax credit exceeds the total credits to the company’s imputation credit account, for amounts satisfying the company’s income tax liability, during the period from the date of the debit to the date on which the credit balance is to be determined under sections RM 13 and RM 14.
 
 ### RM 16 Treatment of amounts not refunded
 When this section applies
@@ -38690,7 +38837,7 @@ When section RP 11 applies, the PAYE intermediary assumes the obligations under 
 ### RP 17 Tax pooling intermediaries
 Meeting person A's obligations
 (1) A person (person A) may ask a person who maintains a tax pooling account to act as a tax pooling intermediary between person A and the Commissioner in using funds in the tax pooling account to meet an obligation of person A to pay—
-  (a) provisional tax:
+  (a) provisional tax other than under the AIM method:
   (b) terminal tax:
   (c) an increased amount of tax described in section RP 17B(3):
   (d) interest under Part 7 of the Tax Administration Act 1994 on an increased amount of tax described in section RP 17B(3).
@@ -38706,7 +38853,7 @@ Meaning
 (1) A tax pooling account means a trust account into which a tax pooling intermediary pays an amount that they receive from a person in their role as intermediary.
 Use of funds in tax pooling accounts
 (2) An amount held in a tax pooling account on behalf of a person may be refunded, transferred, sold, or used to satisfy a person’s liability for—
-  (a) provisional tax:
+  (a) provisional tax other than under the AIM method:
   (b) terminal tax:
   (c) an increased amount of tax described in subsection (3):
   (d) interest under Part 7 of the Tax Administration Act 1994 on an increased amount of tax described in subsection (3).
@@ -38730,7 +38877,7 @@ When original liability increased
     (iii) the Commissioner and the person enter the agreement on or after the date on which the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 receives the Royal assent:
   (c) does not include the amount of the previous assessment or the amount that was previously payable under paragraph (ab) or (ac), as applicable.
 Transfers for provisional tax or terminal tax
-(4) A person who chooses to use funds in a tax pooling account to satisfy an obligation for provisional tax or terminal tax for a tax year may ask the tax pooling intermediary to arrange the transfer of an amount to their tax account with the Commissioner as follows:
+(4) A person who chooses to use funds in a tax pooling account to satisfy an obligation for provisional tax other than under the AIM method or terminal tax for a tax year may ask the tax pooling intermediary to arrange the transfer of an amount to their tax account with the Commissioner as follows:
   (a) on or before the date that is 75 days after their terminal tax date for the tax year unless paragraph (b) or (c) applies:
   (b) on or before the date that is 76 days after their terminal tax date for the tax year if—
     (i) the person's balance date falls at the end of October, November, or December; and
@@ -38824,7 +38971,7 @@ Statement
 ### RP 19B Transfers for certain expected tax liabilities
 Who this section applies to
 (1) This section applies to a person who—
-  (a) expects to have an income tax or provisional tax liability for a tax year; and
+  (a) expects to have an income tax or provisional tax liability other than under the AIM method for a tax year; and
   (b) has acquired funds in a tax pooling account other than by depositing them on their own account; and
   (c) has not yet filed a return of income in relation to the liability for the tax year.
 Using funds
@@ -38832,7 +38979,7 @@ Using funds
 Requirements at time of making request
 (3) At the time of making the request, the person must—
   (a) for an income tax liability, have met all their return filing requirements for earlier tax years:
-  (b) for a provisional tax liability, have met all their obligations under the provisional tax rules for the tax year.
+  (b) for a provisional tax liability other than under the AIM method, have met all their obligations under the provisional tax rules for the tax year.
 Effective date of transfer
 (4) The effective date that the person nominates for the transfer of funds must correspond to the relevant instalment date set out in schedule 3, part A (Payment of provisional tax and terminal tax).
 Refunds
@@ -39116,6 +39263,7 @@ In this Act, unless the context requires otherwise,—
       (ii) obtain or supply services; and
     (b) does not include a forward contract, a futures contract, an option, or a specified option
   - **agricultural, horticultural, or viticultural company** means a company that carries on a business that comprises or includes performing any work or rendering a service set out in schedule 4, part C, clause 1(b) (Standard rates of tax for schedular payments)
+  - **AIM-capable accounting system** is defined in section RC 7B (AIM method)
   - **air transport from New Zealand** is defined in section CW 56(3) (Non-resident aircraft operators) for the purposes of that section
   - **aircraft engine** means—
     (a) for an aircraft that is not a helicopter, an engine used for the propulsion of the aircraft:
@@ -39204,6 +39352,7 @@ In this Act, unless the context requires otherwise,—
   - **annual taxing Act** means the provisions of any Act by which the rates of income tax are fixed for a tax year
   - **annual total deduction** is defined in section BC 3 (Annual total deduction)
   - **apply** , for a mode of communication, has the meaning set out in section 14C of the Tax Administration Act 1994
+  - **approved AIM provider** means a person that the Commissioner has approved as an approved AIM provider under section 15U of the Tax Administration Act 1994, if the approval has not been revoked under section 15V of that Act
   - **approved issuer** means a person for whom an approval under section 32M of the Tax Administration Act 1994 is in force
   - **arm's length amount** , for an arrangement that is a cross-border arrangement under section GC 6 (Purpose of rules and nature of arrangements) means an arm's length amount of consideration under section GC 13 (Calculation of arm's length amounts)
   - **arrangement** means an agreement, contract, plan, or understanding, whether enforceable or unenforceable, including all steps and transactions by which it is carried into effect
@@ -39490,7 +39639,7 @@ In this Act, unless the context requires otherwise,—
     (h) includes a friendly society:
     (i) includes a building society:
     (j) is further defined in section EX 30(7) (Direct income interests in FIFs) for the purposes of that section:
-    (k) is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section:
+    (k) is defined in section HD 15(9) (Asset stripping of companies) for the purposes of that section
   - **company dividend statement** means a statement required by section 67 of the Tax Administration Act 1994 to be completed and retained by a company for a dividend
   - **comparative value method** means the method of calculating FIF income or FIF loss in section EX 51 (Comparative value method)
   - **compensation**
@@ -39504,7 +39653,7 @@ In this Act, unless the context requires otherwise,—
   - **complying superannuation fund** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **complying trust** is defined in section HC 10 (Complying trusts)
   - **compulsory employer contribution** has the same meaning as in the KiwiSaver Act 2006
-  - **conduct** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
+  - **conduct**
   - **conduit company**
   - **consideration** —
     (aa) includes the amount owing under a stapled debt security when the security ceases to be a share, in section CD 43 (Available subscribed capital (ASC) amount):
@@ -39531,7 +39680,7 @@ In this Act, unless the context requires otherwise,—
   - **continuity provisions** means—
     (a) section GB 3 (Arrangements for carrying forward loss balances: companies); and
     (b) section GB 4 (Arrangements for grouping tax losses: companies); and
-    (bb) Section HA 6 (Corporate requirements); and
+    (bb) section HA 6 (Corporate requirements); and
     (c) sections IA 3 and IA 4 (which relate to the use of tax losses); and
     (d) section IA 5 (Restrictions on companies’ loss balances carried forward); and
     (e) section IC 1 (Company A making tax loss available to company B); and
@@ -39570,7 +39719,7 @@ In this Act, unless the context requires otherwise,—
   - **controlled petroleum mining holding company** means a company if—
     (a) 90% or more in value of its outstanding shares are held, directly or indirectly, by or for 5 or fewer persons; and
     (b) the total market value of the following shares and trust interests held by the company is at least 75% of the value of its assets minus its liabilities, as set out in the company’s audited financial statement or accounts prepared according to generally accepted accounting practice:
-      (i) shares in petroleum mining companies:
+      (i) shares in petroleum miners that are companies:
       (ii) shares in petroleum mining holding companies:
       (iii) trust interests in petroleum miners that are trusts:
       (iv) trust interests in petroleum mining holding trusts
@@ -39681,6 +39830,17 @@ In this Act, unless the context requires otherwise,—
   - **debenture holder** includes the owner of debenture stock
   - **debt security** is defined in section FA 2B(4) (Stapled debt securities)
   - **debt value** is defined in section DG 11(9) (Interest expenditure: close companies) for the purposes of subpart DG (Expenditure related to use of certain assets)
+  - **decommissioning** , for a petroleum miner or farm-in party, means—
+    (a) dismantling, demolishing, or removing petroleum mining assets other than those referred to in section CT 6B(2)﻿(a) (Meaning of petroleum mining operations):
+    (b) plugging and abandoning the following wells on a site, or former site, of petroleum mining operations:
+      (i) a well (a commercial well), including any associated processing facility connected to the well, used for the commercial production of petroleum:
+      (ii) an exploratory well that has been plugged and abandoned in a permit area together with a commercial well geologically contiguous with the exploratory well as part of an arrangement between the petroleum miner or farm-in party and another person who plugs and abandons wells in the permit area:
+      (iii) a well used for water injection, water disposal, gas reinjection, or gas disposal in the commercial production of petroleum:
+    (c) restoring a site, or former site, of petroleum mining operations other than a part of the site that has been used only for an activity referred to in section CT 6B(2)﻿(a):
+    (d) the ongoing monitoring of—
+      (i) a commercial well, exploratory well, or other well referred to in paragraph (b) that has been plugged and abandoned:
+      (ii) a site or former site referred to in paragraph (c) that has been restored:
+    (e) planning and managing an activity referred to in paragraphs (a) to (d)
   - **deductible foreign equity distribution** means a distribution by a foreign company to a company, in relation to a share in the foreign company,—
     (a) for which a deduction is allowed in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of the foreign company or on the income of a company in the same group as the foreign company:
     (b) sourced directly or indirectly out of an amount paid to the foreign company in relation to a financial arrangement or share by another company if—
@@ -39955,7 +40115,7 @@ In this Act, unless the context requires otherwise,—
       (i) salary or wages that the employer estimates will be derived by the employee in the tax year in which the contribution is paid; and
       (ii) the gross amount of employer’s superannuation contributions before ESCT is withheld that the employer estimates that they will pay on behalf of the employee in the tax year in which the contribution is paid
   - **ESCT rules** means the provisions listed in section RD 64 (ESCT rules and their application)
-  - **established activity** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
+  - **established activity**
   - **estate** in relation to land, in relation to land, , , , and similar terms—
     (a) mean an estate or interest in the land, whether legal or equitable, and whether vested or contingent, in possession, reversion, or remainder; and
     (b) include a right, whether direct or through a trustee or otherwise, to—
@@ -40027,7 +40187,7 @@ In this Act, unless the context requires otherwise,—
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
   - **exemption certificate** means a certificate provided by the Commissioner under section 24M of the Tax Administration Act 1994
   - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
-  - **existing farmer** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
+  - **existing farmer**
   - **existing privilege** is defined in section 2(1) of the Crown Minerals Act 1991, and includes mining privilege and mining licence under the Mining Act 1971 and prospecting licence or mining licence under the Petroleum Act 1937
   - **exit level** , for a multi-rate PIE, means the relationship of the entity’s tax liability to the value of the investor’s interest described in section HM 62 (Exit levels for investors)
   - **exit period** , for an investor in a multi-rate PIE, means a period set out in section HM 63 (Exit periods)
@@ -40067,6 +40227,7 @@ In this Act, unless the context requires otherwise,—
   - **family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **farmer** is defined in section EH 3(1)﻿(a) (Persons to whom main income equalisation scheme applies) for the purposes of the main income equalisation scheme
   - **farm-in expenditure** means expenditure that a farm-in party under a farm-out arrangement agrees that they will incur
+  - **farm-in party** , in relation to petroleum miner, means the person referred to in the definition of farm-out arrangement who has an arrangement as described in that definition with the petroleum miner
   - **farm-out arrangement** —
     (a) means an arrangement between a petroleum miner or a mineral miner (the farm-out party) and a person (the farm-in party) under which the farm-in party agrees that they will incur expenditure in doing work or paying for work done in or for the permit area of the farm-out party's petroleum permit, exploration permit, prospecting permit, or mining permit, as applicable, (the permit), after the arrangement is made and, in return, they—
       (i) acquire an interest in the farm-out party's permit:
@@ -40530,11 +40691,11 @@ In this Act, unless the context requires otherwise,—
       (iv) a self-employed person, as defined in section 6 of the Act, under the Accident Compensation Act 2001, for compensation paid under schedule 1, part 2, clause 32 of that Act:
     (c) in sections DA 2(4) and DE 1, includes—
       (i) salary or wages to which section RD 3B or RD 3C (which relate to income other than PAYE) applies:
-      (ii) income, other than from a PAYE income payment, to which section RD 3B or RD 3C applies
+      (ii) income, other than from a PAYE income payment, to which section RD 3B or RD 3C applies:
     (d) in section DA 2(4), includes excluded income derived by a person from employment
   - **income from forestry** is defined in section EH 34 (Meaning of income from forestry)
   - **income from mining**
-  - **income from personal exertion** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
+  - **income from personal exertion**
   - **income interest** ,—
     (a) for a foreign company, is defined in sections EX 8 to EX 13 (which relate to the calculation of a person’s income interest):
     (b) in subparts FE (Interest apportionment on thin capitalisation) and OE (Branch equivalent tax accounts (BETA)), and in the imputation rules, means an income interest of 10% or greater under the rules in sections EX 14 to EX 17 (which relate to the 10% threshold and variations in the income interest level)
@@ -40691,7 +40852,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes an option to acquire land or an estate or interest in land:
     (c) does not include a mortgage:
     (d) is defined in section CB 19(3) (Business exclusion from sections CB 6 to CB 11) for the purposes of that section:
-    (e) is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section:
+    (e)
     (f) in the definitions of permit area, petroleum mining asset, prospecting expenditure, and residual expenditure,—
       (i) means all land within the territorial limits of New Zealand; and
       (ii) includes land below the territorial sea of New Zealand or any other waters within the territorial limits of New Zealand; and
@@ -40719,6 +40880,7 @@ In this Act, unless the context requires otherwise,—
       (i) is resident in New Zealand:
       (ii) has a permanent establishment in New Zealand
   - **large budget screen production grant**
+  - **large business AIM-capable system** means an AIM-capable accounting system approved by the Commissioner under section 15Y of the Tax Administration Act 1994 for use by an approved class of taxpayers with annual gross income of more than $5,000,000
   - **late balance date** has the meaning given in section YE 1(7) (References to balance dates and years)
   - **lease** —
     (a) means a disposition that creates a leasehold estate:
@@ -41473,6 +41635,7 @@ In this Act, unless the context requires otherwise,—
     (b) does not include—
       (i) residual expenditure; or
       (ii) petroleum exploration expenditure; or
+      (iii) expenditure that relates to an amount for which a deduction is allowed under section DT 7B (Resuming commercial production: petroleum development expenditure), except as provided in that section
       (iii) other expenditure allowed as a deduction under any provision of this Act, other than a provision in subpart DT (Petroleum mining expenditure) or DZ (Terminating provisions), and allocated to the income year in which the expenditure is incurred
   - **petroleum exploration expenditure** —
     (a) means—
@@ -41484,7 +41647,7 @@ In this Act, unless the context requires otherwise,—
       (ii) expenditure that is required by section DT 6 (Expenditure on petroleum mining assets) to be treated as petroleum development expenditure
   - **petroleum miner** is defined in section CT 6 (Meaning of petroleum miner)
   - **petroleum mining asset** is defined in section CT 7 (Meaning of petroleum mining asset)
-  - **petroleum mining company** means a company to which sections IZ 2 and IZ 3 (which relate to companies engaged in exploring for, searching for, or mining petroleum) apply
+  - **petroleum mining company**
   - **petroleum mining development** is defined in section EJ 20 (Meaning of petroleum mining development) for the purposes of sections EJ 12 and EJ 12B (which relate to petroleum development expenditure)
   - **petroleum mining development expenditure** is defined in section DZ 3(4) (Petroleum mining: development expenditure from 1 October 1990 to 15 December 1991) for the purposes of that section
   - **petroleum mining operations** is defined in section CT 6B (Meaning of petroleum mining operations)
@@ -41813,13 +41976,7 @@ In this Act, unless the context requires otherwise,—
   - **redemption payment** means the amount by which a payment made on the redemption of a commercial bill by the person who issued it is more than the money lent to the person, , in this definition, having the meaning given to it by section 2 of the Bills of Exchange Act 1908
   - **reduced deficit debit**
   - **redundancy payment**
-  - **refundable tax credit** means—
-    (a) a tax credit under subpart LB (Tax credits for payments, deductions, and family payments):
-    (b)
-    (bb)
-    (c) a tax credit under subpart LO (Tax credits for Maori authority credits):
-    (d) a tax credit under sections LS 2, LS 3(2), and LS 4(2) (which relate to multi-rate PIEs and certain of their investors), if the person with the tax credit is not a natural person or is a natural person having the tax credit as a beneficiary of a trust:
-    (e) a tax credit under section LS 1 (Tax credits for multi-rate PIEs) to the extent to which it arises under section HM 53 or HM 55 (which relate to the use of tax credits other than foreign tax credits)
+  - **refundable tax credit** means a tax credit under a provision that is listed in section LA 6(1)﻿(a) to (j) (Remaining refundable credits: PAYE, RWT, and certain other items)
   - **registered as a charitable entity**
   - **registered bank** means a registered bank as defined in section 2 of the Reserve Bank of New Zealand Act 1989
   - **registered person** is defined in section 2 of the Goods and Services Tax Act 1985
@@ -41830,7 +41987,7 @@ In this Act, unless the context requires otherwise,—
     (b) a renewal of a reinsurance contract
   - **reinsurance grandparenting start day** is defined in section EZ 62 (Reinsurance transition: life financial reinsurance may be life reinsurance)
   - **reinvestment profit**
-  - **related activity** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
+  - **related activity**
   - **related by employment** is defined in section EY 11(14) (Superannuation schemes providing life insurance) for the purposes of that section
   - **related company** is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section
   - **related employer** is defined in section RD 51(6) (Calculation of all-inclusive pay) for the purposes of that section
@@ -41859,7 +42016,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EJ 4(6) (Expenditure incurred in acquiring film rights in feature films) for the purposes of that section:
     (b) is defined in section EJ 5(4) (Expenditure incurred in acquiring film rights in films other than feature films) for the purposes of that section:
     (c) is defined in section EJ 8(5) (Film production expenditure for films other than New Zealand films) for the purposes of that section
-  - **removal or restoration operations** , for a petroleum miner, means removing petroleum mining assets of the kind described in section CT 7(1)﻿(b) or (c) (Meaning of petroleum mining asset), or restoring the site of petroleum mining operations, because of the relinquishment of the petroleum permit relating to the assets or the operations
+  - **removal or restoration operations**
   - **rent** is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section
   - **repairs** , in sections CC 2 (Non-compliance with covenant for repair) and DB 21 (Amounts paid for non-compliance with covenant for repair), includes painting and general maintenance
   - **replaced area fraction** is defined in section DO 9 (Meaning of replaced area fraction and diminished value) for the purposes of sections DO 5 and DO 6 (which relate to horticultural plants)
@@ -42195,9 +42352,9 @@ In this Act, unless the context requires otherwise,—
   - **special excluded depreciable property** is defined in section EE 67 (Other definitions)
   - **special home ownership account**
   - **special rate** is defined in section EE 67 (Other definitions)
-  - **specified activity** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
-  - **specified activity net income** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
-  - **specified activity net loss** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
+  - **specified activity**
+  - **specified activity net income**
+  - **specified activity net loss**
   - **specified base cost for 1983 income year property** means the greater of—
     (a) the cost price or acquisition value of the property; and
     (b) the market value of the property on the last day of the 1982–83 income year
@@ -42540,6 +42697,9 @@ In this Act, unless the context requires otherwise,—
   - **unlisted trust** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **unlisted widely-held trust** means a widely-held trust the units or interests in which are not quoted on the official list of a recognised exchange
   - **unpriced aircraft engine** , for a person and an aircraft, means an aircraft engine that the person acquires with the aircraft and that does not have, for the person, a price identified separately from the rest of the aircraft
+  - **unused specified activity net loss** is the amount of specified activity net loss, under section IZ 1 as that section was immediately before its repeal by section 148 of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018, that—
+    (a) existed at the close of the 2017–18 income year; and
+    (b) had not been included in the tax loss for the 2017–18 tax year or for an earlier tax year
   - **unwind** is defined in section HR 10 (What happens when vehicle stops being financial institution special purpose vehicle?)
   - **valuation premiums** is defined in section EY 29(7) (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
   - **variable principal debt instrument** ,—
@@ -43851,20 +44011,36 @@ If an employee has notified their employer that the employee's tax code is SB un
 
 ## Schedule 3 — Payment of provisional tax and terminal tax
 
-| Month of balance date | A | B | C | D | E | F | G | H |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| October | 28 Jan | 28 Mar | 28 May | 28 Jul | 28 Sep | 28 Nov | Sep | Nov |
-| November | 28 Feb | 7 May | 28 Jun | 28 Aug | 28 Oct | 15 Jan | Oct | Dec |
-| December | 28 Mar | 28 May | 28 Jul | 28 Sep | 28 Nov | 28 Jan | Nov | Jan |
-| January | 7 May | 28 Jun | 28 Aug | 28 Oct | 15 Jan | 28 Feb | Dec | Feb |
-| February | 28 May | 28 Jul | 28 Sep | 28 Nov | 28 Jan | 28 Mar | Jan | Mar |
-| March | 28 Jun | 28 Aug | 28 Oct | 15 Jan | 28 Feb | 7 May | Feb | Apr |
-| April | 28 Jul | 28 Sep | 28 Nov | 28 Jan | 28 Mar | 28 May | Feb | Apr |
-| May | 28 Aug | 28 Oct | 15 Jan | 28 Feb | 7 May | 28 Jun | Feb | Apr |
-| June | 28 Sep | 28 Nov | 28 Jan | 28 Mar | 28 May | 28 Jul | Feb | Apr |
-| July | 28 Oct | 15 Jan | 28 Feb | 7 May | 28 Jun | 28 Aug | Feb | Apr |
-| August | 28 Nov | 28 Jan | 28 Mar | 28 May | 28 Jul | 28 Sep | Feb | Apr |
-| September | 15 Jan | 28 Feb | 7 May | 28 Jun | 28 Aug | 28 Oct | Feb | Apr |
+| Month of balance date | A | A1 | B | B1 | C | C1 | D | D1 | E | E1 | F | F1 | G | H |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| October | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | Sep | Nov |
+| November | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | Oct | Dec |
+| December | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | Nov | Jan |
+| January | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | Dec | Feb |
+| February | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | Jan | Mar |
+| March | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | Feb | Apr |
+| April | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | Feb | Apr |
+| May | 28 Aug | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | Feb | Apr |
+| June | 28 Sep | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | Feb | Apr |
+| July | 28 Oct | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | Feb | Apr |
+| August | 28 Nov | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | Feb | Apr |
+| September | 15 Jan | 28 Jan | 28 Feb | 28 Mar | 7 May | 28 May | 28 Jun | 28 Jul | 28 Aug | 28 Sep | 28 Oct | 28 Nov | Feb | Apr |
+
+| Instalment date | 6 instalments: 2-monthly period | 12 instalments: monthly period |
+| --- | --- | --- |
+| 15 Jan | Oct, Nov | Nov |
+| 28 Jan | Nov, Dec | Dec |
+| 28 Feb | Dec, Jan | Jan |
+| 28 Mar | Jan, Feb | Feb |
+| 7 May | Feb, Mar | Mar |
+| 28 May | Mar, Apr | Apr |
+| 28 Jun | Apr, May | May |
+| 28 Jul | May, Jun | Jun |
+| 28 Aug | Jun, Jul | Jul |
+| 28 Sep | Jul, Aug | Aug |
+| 28 Oct | Aug, Sep | Sep |
+| 28 Nov | Sep, Oct | Oct |
+| How to use this table:Find the applicable instalment date in the first column, and use the period for that instalment in the second column if section RC 9(4B)﻿(a) or (b) applies or use the period in the third column if section RC 9(4B)﻿(c) applies. |  |  |
 
 | Monthly and 2-monthly non-ratio and non-GST provisional taxpayers |
 | --- |
