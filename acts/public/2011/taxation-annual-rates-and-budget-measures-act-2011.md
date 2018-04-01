@@ -1,5 +1,5 @@
 # Taxation (Annual Rates and Budget Measures) Act 2011
-_Consolidation as at 2015-12-10_
+_Consolidation as at 2018-04-01_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates and Budget Measures) Act 2011.
@@ -7,9 +7,9 @@ This Act is the Taxation (Annual Rates and Budget Measures) Act 2011.
 ### 2 Commencement
 (1) This Act comes into force on the day on which it receives the Royal assent, except as provided in this section.
 (2) Section 5(1) comes into force on the 1 April that is the day of application required by section MF 7(3) of the Income Tax Act 2007 for the first Order in Council under section MF 7(1)﻿(a) and (2).
-(3) Sections 5(2) and 14B(1) come into force on the 1 April that is the day of application required by section MF 7(3) for the second Order in Council under section MF 7(1)﻿(a) and (2).
-(4) Sections 5(3) and 14B(2) come into force on the 1 April that is the day of application required by section MF 7(3) for the third Order in Council under section MF 7(1)﻿(a) and (2).
-(5) Sections 5(4) and 14B(3) come into force on the 1 April that is the day of application required by section MF 7(3) for the fourth Order in Council under section MF 7(1)﻿(a) and (2).
+(3)
+(4)
+(5)
 (6) Section 7 comes into force on 1 July 2011.
 (7) Sections 8, 9, 10, 11, 12, 13, and 14 come into force on 1 April 2012.
 
@@ -29,15 +29,9 @@ Sections 5 to 14B amend the Income Tax Act 2007.
 (1) In section MD 13(3)﻿(a),—
   (a) in subparagraph (i), $36,827, 20 cents is replaced by $36,350, 21.25 cents:
   (b) in subparagraph (ii), $36,827, 20 cents is replaced by $36,350, 21.25 cents.
-(2) In section MD 13(3)﻿(a),—
-  (a) in subparagraph (i), replace $36,350, 22.5 cents with $35,900, 23.75 cents:
-  (b) in subparagraph (ii), replace $36,350, 22.5 cents with $35,900, 23.75 cents.
-(3) In section MD 13(3)﻿(a),—
-  (a) in subparagraph (i), replace $35,900, 23.75 cents with $35,450, 25 cents:
-  (b) in subparagraph (ii), replace $35,900, 23.75 cents with $35,450, 25 cents.
-(4) In section MD 13(3)﻿(a),—
-  (a) in subparagraph (i), replace $35,450, 25 cents with $35,000, 25 cents:
-  (b) in subparagraph (ii), replace $35,450, 25 cents with $35,000, 25 cents.
+(2)
+(3)
+(4)
 
 ### 6 Orders in Council
 (1) In section MF 7(1)﻿(a), the words before the subparagraphs are replaced by increase the amounts in section MD 3(4)﻿(a)﻿(i) and (b)﻿(i) and (ii) (Calculation of family tax credit) by amounts that—.
@@ -96,9 +90,7 @@ In schedule 1, part D,—
   (d) clause 2 is repealed.
 
 ### 14B Schedule 31 amended
-(1) In Schedule 31, replace the first and second rows after the heading row with:The following table is small in size and has 2 columns. This table is an amendment to the table in Schedule 31 of the Income Tax Act 2007 and should be read with that table to provide understanding of the context.Amount does not exceed $35,900$35,900Amount exceeds $35,900 but does not exceed $36,500$36,500Amount exceeds $36,500 but does not exceed $38,000$38,000
-(2) In Schedule 31, replace the first and second rows after the heading row with:The following table is small in size and has 2 columns. This table is an amendment to the table in Schedule 31 of the Income Tax Act 2007 and should be read with that table to provide understanding of the context.Amount does not exceed $35,450$35,450Amount exceeds $35,450 but does not exceed $36,500$36,500
-(3) In Schedule 31, replace the first and second rows after the heading row with:The following table is small in size and has 2 columns. This table is an amendment to the table in Schedule 31 of the Income Tax Act 2007 and should be read with that table to provide understanding of the context.Amount does not exceed $35,000$35,000Amount exceeds $35,000 but does not exceed $36,500$36,500
+[Repealed]
 
 **Amendment to KiwiSaver Act 2006**
 
