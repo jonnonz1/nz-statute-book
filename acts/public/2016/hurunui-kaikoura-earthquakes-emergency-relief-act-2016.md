@@ -1,5 +1,5 @@
 # Hurunui/Kaikōura Earthquakes Emergency Relief Act 2016
-_Consolidation as at 2017-07-31_
+_Consolidation as at 2018-04-01_
 
 ### 1 Title
 This Act is the Hurunui/Kaikōura Earthquakes Emergency Relief Act 2016.
