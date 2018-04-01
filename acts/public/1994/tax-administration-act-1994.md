@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2018-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -364,6 +364,15 @@ _Consolidation as at 2018-03-29_
   - **special tax code certificate** means a special tax code certificate under section 24F(1B)﻿(b)
   - **special tax code notification** means a special tax code notification under section 24IB
   - **standard-cost household service** means a service that is a standard-cost household service under a determination that is made by the Commissioner under section 91AA
+  - **START tax type** means—
+    (a) GST:
+    (b) FBT:
+    (c) RWT:
+    (d) NRWT:
+    (e) approved issuer levy:
+    (f) RLWT:
+    (g) gaming-machine duty:
+    (h) income tax liability of portfolio investment entities to which section HM 42 or HM 43 of the Income Tax Act 2007 applies
   - **status ruling** means a ruling made under section 91GA
   - **student allowance** means an allowance paid under regulations made under section 303 of the Education Act 1989
   - **tax** —
@@ -453,6 +462,7 @@ _Consolidation as at 2018-03-29_
     (i) the attaching of a credit of tax, or the receipt of or lack of entitlement to receive a credit of tax:
     (j) the balance of a tax account or memorandum account of any type or description, or a debit or credit to such an account:
     (k) the estimation of the provisional tax payable:
+    (kb) the use of the AIM method for provisional tax and the software product of an approved AIM provider:
     (l) whether the taxpayer must request an income statement or respond to an income statement issued by the Commissioner:
     (m) the application of section 33AA:
     (n) a right to a tax credit:
@@ -899,6 +909,34 @@ A person who meets the requirements of section 15R may apply under section 15Q t
   (a) the Commissioner may require the winding up immediately or may set another date for the winding up:
   (b) the Commissioner must give 30 days’ notice to the intermediary of any intended action using subsection (2)﻿(d).
 (4) On the winding up of a tax pooling account, the Commissioner may refund the balance of the account to the former holder of the account, or may apply to a court for directions for the disposal of the balance of the account.
+
+### 15U Approval of approved AIM providers
+The Commissioner may approve a person as an approved AIM provider in relation to 1 or more of the person’s AIM-capable accounting systems (the products), if approving the person would not negatively affect the integrity of the tax system and the person makes a statutory declaration of the following matters and gives it to the Commissioner, namely a declaration:
+  (a) specifying the name of the products; and
+  (b) declaring that the person’s policy is to update the product regularly, to reflect changes in tax law or Commissioner’s requirements (for example: the software is updated to reflect a change in a determination by the Commissioner under section 91AAX); and
+  (c) declaring any other matters required by the Commissioner to be declared for the purposes of assuring the Commissioner that the person’s product accurately calculates and communicates, in accordance with the Commissioner’s requirements, tax liabilities that are reasonably accurate assessments of tax liabilities for the relevant accounting income and expenditure.
+
+### 15V Revocation of approval of AIM providers: Commissioner
+(1) The Commissioner’s approval of a person as an approved AIM provider under section 15U is revoked if—
+  (a) anything in their statutory declaration under section 15U is not true, or does not continue to be true after it is made; or
+  (b) revoking the approval positively affects the integrity of the tax system.
+(2) A revocation under subsection (1) does not take effect until the tax year after the tax year in which the Commissioner has notified the approved AIM provider of the revocation.
+(3) The Commissioner must consult the approved AIM provider before the approval is revoked.
+(4) The Commissioner may reverse a revocation before it takes effect, if the circumstances that gave rise to the revocation have been remedied by the approved AIM provider and there are no other circumstances requiring revocation under subsection (1).
+
+### 15W Revocation of approval of AIM providers: provider
+(1) The Commissioner’s approval of a person as an approved AIM provider under section 15U is revoked if the person notifies the Commissioner of the person’s choice to revoke the Commissioner’s approval.
+(2) A revocation under subsection (1) does not take effect until the tax year after the tax year in which the Commissioner has received notification of the revocation.
+(3) A person who has given notice under subsection (1) must immediately give notice of their choice to revoke to all end-users of the person’s products that will be affected by the revocation.
+
+### 15X Publication of approval, revocation, etc
+The Commissioner may publish a notice in a publication chosen by the Commissioner in relation to any matter in sections 15U, 15V, and 15W.
+
+### 15Y AIM method: approval of large business AIM-capable system
+For the purposes of section RC 5(5B)﻿(c)﻿(iii) and the definition of large business AIM-capable system in section YA 1 of the Income Tax Act 2007, the Commissioner may approve an AIM-capable accounting system for use by a class of taxpayers with annual gross income of more than $5,000,000, if the Commissioner decides that there is minimal risk that the approval will result in less net revenue collectable from the class of taxpayers over time.
+
+### 15Z AIM method: approval of person over $5,000,000
+For the purposes of section RC 5(5B)﻿(c)﻿(ii) of the Income Tax Act 2007, the Commissioner may approve a person’s continued use of an AIM-capable accounting system for tax years in which the person has annual gross income of more than $5,000,000, if the Commissioner decides that there is minimal risk that the approval will result in less net revenue collectable from the person over time.
 
 ### 15U Requirements for applications to establish tax pooling accounts
 [Repealed]
@@ -1610,8 +1648,13 @@ A person who receives a payment of resident passive income, that is interest, mu
   (a) the payment was not made by the payer in the course of, or furtherance of, a taxable activity:
   (b) section RE 10 of the Income Tax Act 2007 applies.
 
-### 28B Notification of investors’ tax rates
-A New Zealand resident who is an investor in a multi-rate PIE must notify the PIE of their tax file number within 1 month of the date of a request from the PIE for the number.
+### 28B Notification of investors’ tax file numbers
+(1) An investor in a multi-rate PIE must notify the PIE of their tax file number within 6 weeks of the date on which they become an investor in the PIE.
+(2) Subsection (1) does not apply to an investor who—
+  (a) is non-resident; and
+  (b) does not have a tax file number; and
+  (c) provides the equivalent of their tax file number for the country or territory where they reside for tax purposes, or a declaration if they are unable to provide this number.
+(3) Despite subsection (2), if an investor in a multi-rate PIE is a non-resident who becomes a resident, the investor must immediately notify the PIE that they have become resident. The 6-week period referred to in subsection (1) starts to run from the date of the notification of residency.
 
 ### 28C Person advising retirement savings scheme of retirement scheme prescribed rate
 A person who gives a notice that the retirement scheme prescribed rate for the person and an income year is less than 33% must include the person's tax file number in the notice.
@@ -2376,6 +2419,14 @@ A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives a
 (1) For the purposes of Schedule 4, Part H of the Income Tax Act 2007, the Commissioner may issue a natural product dealer certificate to a person who applies for the certificate.
 (2) The certificate may be issued for any period of time, and is revoked when a notice ordering revocation is received by the Commissioner, if the person revokes the certificate, or by the person, if the Commissioner revokes the certificate.
 
+### 45 AIM method information: taxpayers
+A person that uses the AIM method as described in section RC 5(5B) of the Income Tax Act 2007 must give to the Commissioner on or before an instalment date, information required by the Commissioner in relation to the instalment, the person’s use of the AIM method, and their use of an approved AIM provider’s AIM-capable accounting system, and any other information required by the Commissioner in the form prescribed by the Commissioner, even if the amount to pay for the instalment date is zero or a refund. The Commissioner may make a determination under section 91AAZ setting out information and form required or prescribed under this section.
+
+### 45B AIM method information: approved AIM providers
+(1) An approved AIM provider must give to the Commissioner information required by the Commissioner in relation to their AIM-capable accounting system products, end-user’s use of the products for a tax year, and any other matters relevant to the AIM method for the tax year, in the form prescribed by the Commissioner.
+(2) The Commissioner must not require taxpayer-specific information under this section.
+(3) The form must be given to the Commissioner within 6 months of the end of the tax year.
+
 ### 45 New Zealand superannuitant to estimate other income
 [Repealed]
 
@@ -2521,7 +2572,7 @@ A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives a
 (1) Subsection (1B) applies when a person in a year—
   (a) withholds, or is required by the NRWT rules to withhold, NRWT for non-resident passive income paid to or derived by any other person; or
   (b) pays to, or is required to pay to, the Commissioner under section RF 10 of the Income Tax Act 2007 NRWT for non-resident passive income that is a dividend.
-(1B) The person must prepare and provide to the Commissioner, no later than 31 May in the following year, in the form approved by the Commissioner,—
+(1B) The person must prepare and provide to the Commissioner, no later than 15 May in the following year, in the form approved by the Commissioner,—
   (a) an NRWT withholding certificate for all NRWT withheld or paid in relation to each recipient during the year; and
   (b) an annual reconciliation statement for all NRWT withheld or paid during the year.
 (2) Every NRWT withholding certificate shall include the following information:
@@ -2542,9 +2593,10 @@ A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives a
   (a) any NRWT withholding certificates required to be prepared by the company; and
   (b) an annual reconciliation statement.
 (4C) A company must furnish to the Commissioner the withholding certificates and annual reconciliation statement required under this section for a year—
-  (a) by not later than 31 May in the year following the year to which the certificates and statement relate, if paragraphs (b) and (c) do not apply; or
+  (a) by not later than 15 May in the year following the year to which the certificates and statement relate, if paragraphs (b) and (c) do not apply; or
   (b) before the date that is 40 working days after the end of the month referred to in subsection (4), if that subsection applies and paragraph (c) does not apply; or
   (c) before the date that is 3 months after the time of emigration, if the company is an emigrating company.
+(4D) Despite subsections (1B) and (4C)﻿(a), the information required to be provided for a royalty paid to a non-resident person must be provided by 31 May after the end of the tax year.
 (5) The Commissioner may vary any of the requirements of this section in relation to any person or class of persons in such cases and to such extent as the Commissioner thinks fit, and where the Commissioner does so this section shall apply as so varied.
 
 ### 50 Statement of payment of RWT
@@ -2555,7 +2607,7 @@ Every person who at any time is required to make a payment of RWT shall, at the 
   (a) interest; or
   (b) a dividend treated as interest; or
   (c) a dividend to which section RE 9(2) of the Income Tax Act 2007 applies.
-(1B) The person must provide to the Commissioner, in the form prescribed by the Commissioner, the information that the Commissioner may require in relation to the RWT.
+(1B) The person must provide to the Commissioner, in the form prescribed by the Commissioner, the information that the Commissioner may require in relation to the RWT by 15 May after the end of the tax year in which the amount is withheld.
 (2) The Commissioner may require the following information in relation to RWT withheld:
   (a) the full name, address and tax file number of the person (the payer); and
   (b) the full name and last known address of the recipient unless, after making reasonable inquiries, the payer is unable to obtain those details; and
@@ -2718,7 +2770,7 @@ Where any person at any time—that person shall, notwithstanding any other prov
   (a) the end of the month that follows the month in which the period ends:
   (b) 15 January after the end of the period, if the period ends in November.
 (7) For a tax year, the PIE must file a return in the prescribed form in relation to information prescribed by the Commissioner—
-  (a) by the 31 May after the end of the tax year if—
+  (a) by the 15 May after the end of the tax year if—
     (i) the PIE has a corresponding income year that does not end after the end of the tax year; and
     (ii) the PIE is not a superannuation fund or retirement savings scheme; and
     (iii) the PIE continues to meet the requirements for PIE status at the end of the corresponding income year; or
@@ -4685,6 +4737,35 @@ Within 30 days of issuing or revoking a determination under section 91AAF, the C
   (a) the determination:
   (b) details of a changed, extended, limited, suspended, or cancelled determination.
 
+**Determinations relating to AIM method**
+
+### 91AAX Accounting and rate determinations relating to AIM method
+(1) The Commissioner may determine, for the purposes of section RC 7B(3)﻿(a) of the Income Tax Act 2007, tax adjustments for accounting income and expenditure under the AIM method and tax rates for the calculation of tax liabilities under the AIM method.
+(2) In making a determination the Commissioner must have regard to—
+  (a) the accuracy of assessments of tax liabilities that would result from the use of the tax adjustments and tax rates:
+  (b) the compliance costs incurred by taxpayers:
+  (c) the resources available to approved AIM providers.
+(3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
+(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
+(5) All determinations under this section must be published within 30 days of the making of the determination, in a publication chosen by the Commissioner. The implementation date must not be retrospective.
+
+### 91AAY Class of taxpayers that must not use AIM method
+(1) The Commissioner may determine, for the purposes of section RC 5(5B)﻿(f) of the Income Tax Act 2007, that a class of taxpayers must not use the AIM method.
+(2) In making a determination the Commissioner must have regard to the risk that allowing the class of taxpayers to use the AIM method will result in less net revenue collectable from the class of taxpayers over time.
+(3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
+(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
+(5) All determinations under this section must be published within 30 days of the making of the determination, in a publication chosen by the Commissioner.
+
+### 91AAZ AIM method information
+(1) The Commissioner may determine, for the purposes of section 45, information and form required or prescribed under that section.
+(2) In making a determination the Commissioner must have regard to—
+  (a) the Commissioner’s information needs in the context of the duties and obligations in section 6A:
+  (b) the compliance costs incurred by taxpayers:
+  (c) the resources available to approved AIM providers.
+(3) A determination may set out the tax year or years for which it is to apply, or a date from which it is to apply (the implementation date).
+(4) A determination (a later determination) may provide for the extension, limitation, variation, cancellation, or revocation of an earlier determination. The Commissioner must give at least 120 days notice of the implementation date of that later determination, in a publication chosen by the Commissioner.
+(5) All determinations under this section must be published within 30 days of the making of the determination, in a publication chosen by the Commissioner. The implementation date must not be retrospective.
+
 ## Part 5A — Binding rulings
 
 ### 91A Purpose of this Part
@@ -5457,6 +5538,7 @@ An assessment made by the Commissioner is not invalidated—
   (a) the person defaults in furnishing the annual return of income required to be furnished for the immediately preceding tax year; or
   (b) the Commissioner is not satisfied with a return made by the person for any of the 2 immediately preceding tax years; or
   (c) the Commissioner has reason to believe that the person, although the person has not furnished a return, is a provisional taxpayer; or
+  (cb) the taxpayer is using the AIM method and the approved AIM provider’s product that they are using calculates tax liabilities that are not reasonably accurate assessments of tax liabilities for the relevant income and expenditure; or
   (d) the Commissioner considers that any estimate of residual income tax furnished by a taxpayer pursuant to section RC 7 of the Income Tax Act 2007 was not fair and reasonable—
     (i) at the time the estimate was furnished; or
     (ii) on any instalment date; or
@@ -5647,6 +5729,15 @@ The Governor-General may from time to time, by Order in Council,—
     (ii) if person A is a company, another person that is associated with person A under section YB 3 of the Income Tax Act 2007, treating section YB 3 as requiring 50% voting interests and market value interests instead of 25% and also ignoring section YB 3(3) and (4):
     (iii) if person A is not a company or is a company acting as a trustee, another person that is associated with person A, treating, for the purposes of the definition of associated, section YB 3 as requiring 50% voting interests and market value interests, instead of 25% and also ignoring section YB 3(3) and (4).
 
+### 120KBC Interest for AIM method provisional taxpayers
+(1) This section applies if, for a tax year,—
+  (a) a person is liable to pay provisional tax for the tax year and uses the AIM method described in section RC 5(5B) of the Income Tax Act 2007; and
+  (b) there is no provisional tax interest avoidance arrangement in relation to the person.
+(2) If the person pays the amount of all 6 or 12 instalments, as applicable, on the instalment dates for the tax year in accordance with sections RC 9 and RC 10B of the Income Tax Act 2007, then, despite section 120KB(2) of this Act,—
+  (a) the person’s residual income tax for the tax year is not due and payable as set out in section RC 9 of the Income Tax Act 2007; and
+  (b) the amount of their residual income tax minus the total amount paid in relation to the instalments for the tax year is due and payable in 1 instalment on their terminal tax date.
+(3) If the person fails to pay the amount of an instalment on the relevant instalment date for the tax year (a failed instalment) in accordance with sections RC 9 and RC 10B of the Income Tax Act 2007, then, despite section 120KB(2) of this Act, the person’s residual income tax for the tax year is not due and payable as set out in section RC 9 of the Income Tax Act 2007 for the instalment date.
+
 ### 120KC Residual income tax of new provisional taxpayer
 (1) In a tax year other than a transitional year, and for the purposes of this Part, a new provisional taxpayer's residual income tax is treated as due and payable—
   (a) in 3 equal instalments on the interest instalment dates B, D, and F for the taxpayer's corresponding income year, if section RC 9(9)﻿(a) of the Income Tax Act 2007 applies:
@@ -5654,7 +5745,7 @@ The Governor-General may from time to time, by Order in Council,—
     (i) D and F, if section RC 9(9)﻿(b)﻿(i) applies; or
     (ii) C and F, if section RC 9(9)﻿(b)﻿(ii) applies:
   (c) in 1 instalment on the interest instalment date F for the taxpayer's corresponding income year, if section RC 9(9)﻿(c) of that Act applies.
-(2) In this section, a reference to an instalment classified by the letters A to F is a reference to an instalment date in the table in Schedule 3, Part A of the Income Tax Act 2007 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
+(2) In this section, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to an instalment date in the table in Schedule 3, Part A of the Income Tax Act 2007 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
 ExampleSection 120KDMr Yellow, who has a March balance date, decides to change to a May balance date. The transitional year is 14 months long. He starts business on 31 July, estimating provisional tax at $15,000 for the income year. At the end of the year, Mr Yellow's residual income tax is $20,000. He is not subject to GST.Instalments in transitional year: 28th day of 5th, 9th, and 13th months after balance date, and final instalment on 28th day of month following final month in transitional year (s MB 20(2) and Schedule 13, Part B Income Tax Act 2004). But first business day falls within 30 days of the date that would be the first instalment, 28 August (s MB 20(4)﻿(a) of that Act), so no instalment is due. The April instalment only is due on 7 May.Amounts payable on the instalment dates are calculated under s MB 22 of that Act.Three interest start dates apply: 16 January, 8 May, and 29 June (s 120KD(2)).
 First instalment due 15 January: $15,000 × 4/14 = $4,285
 Second instalment due 7 May: $15,000 × 8/14 − $4,285 = $4,286
@@ -5665,6 +5756,7 @@ Final instalment 28 June on RIT: $20,000 − ($5,714 + $5,714) = $8,572interest 
 
 ### 120KD Provisional tax instalments in transitional years
 (1) For a transitional year to which Schedule 3, Part B of the Income Tax Act 2007 applies, the residual income tax of a provisional taxpayer, other than a person to whom section 120KE(1) or (3) applies, is due and payable as determined under sections RC 21 to RC 24 of the Income Tax Act 2007.
+(1B) This section does not apply to a person that section 120KBB applies to, unless the person is a new provisional taxpayer.
 (2) A provisional taxpayer in a transitional year is liable for use of money interest for unpaid tax in relation to the instalments of provisional tax payable in the months set out in Schedule 3, Part B of the Income Tax Act 2007. The date interest starts is the day after the day on which payment of the instalment is due under section RC 21 of that Act.
 (3) For the purposes of calculating the amount of interest due in relation to an instalment of provisional tax other than a final instalment, the amount of residual income tax payable on the instalment date is calculated using the formula—residual income tax × instalment period ÷ months in transitional year.
 (4) In the formula, the instalment period is either—
@@ -5681,6 +5773,7 @@ on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
   (a) they have paid all instalments under 1 of the standard methods described in section RC 5(2) or (3) of the Income Tax Act 2007 on or before the instalment dates for the tax year in accordance with sections RC 9 and RC 10 of that Act, or they have no obligation to pay provisional tax for the tax year under section RC 3(3) of that Act; and
   (b) their residual income tax is less than $60,000 for the tax year; and
   (c) they have not estimated their residual income tax under section RC 7 of the Income Tax Act 2007 for the tax year; and
+  (cb) they have not used the AIM method under section RC 7B of that Act in the tax year to determine the amount of provisional tax payable for the tax year; and
   (d) they have not used a GST ratio under section RC 8 of that Act in the tax year to determine the amount of provisional tax payable for the tax year; and
   (e) there is no provisional tax interest avoidance arrangement in relation to the person.
 (2) When subsection (1) applies, in relation to the payment of provisional tax under section RC 9(3) or (5), or RC 21 of the Income Tax Act 2007, the provisional taxpayer—
@@ -5701,12 +5794,22 @@ on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
 (7) For debit interest, the taxpayer is liable for use of money interest—
   (a) for the period of the tax year in which they use the GST ratio, from the later of the dates set out in subsection (6):
   (b) for the period of the tax year in which they estimate their provisional tax, from whichever dates of instalments B, D, and F for their corresponding income year occur 30 days after their last ratio instalment date.
-(8) In this section, a reference to an instalment classified by the letters A to F is a reference to a date in the table in Schedule 3, Part A of the Income Tax Act 2007 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
+(8) In this section, a reference to an instalment classified by the alphanumeric designations A to F1 is a reference to a date in the table in Schedule 3, Part A of the Income Tax Act 2007 on which an instalment of provisional tax is payable by a provisional taxpayer for an income year that corresponds to a tax year.
 
 ### 120L Meaning of unpaid tax and overpaid tax for provisional tax purposes
 (1) For the purposes of determining amounts of unpaid tax and overpaid tax in respect of instalment dates for a tax year, a taxpayer's residual income tax is to be calculated in accordance with the definition of that term in section 120KB(4).
 (2) If a taxpayer makes a payment and does not specify how the payment is to be applied, the Commissioner must apply the payment towards the provisional tax that is due on an instalment date to which the Commissioner considers the payment relates
 (3) If the taxpayer makes a payment and specifies that it is made to meet their provisional tax due on an instalment date, the Commissioner must apply the payment towards the provisional tax specified by the taxpayer.
+
+### 120LB Meaning of unpaid tax and overpaid tax for certain transferees under AIM method
+(1) This section applies for the purposes of section RC 35B of the Income Tax Act 2007 when a provisional taxpayer who uses the AIM method to calculate and pay a provisional tax liability asks the Commissioner to transfer an overpayment of provisional tax to a shareholder who is an employee of the taxpayer.
+(2) For the purposes of determining an amount of unpaid tax, overpaid tax, or interest under a provision of this Part—
+  (a) the total amount transferred to the person for the tax year under section RC 35B(2) is pro-rated against all their instalments for the tax year:
+  (b) for an amount of unpaid tax or overpaid tax for an instalment, the pro-rated amount referred to in paragraph (a) is subtracted from the underpaid amount or added to the overpaid amount, as applicable:
+  (c) to the extent to which paragraph (b) does not apply for the pro-rated amount, the amount is overpaid tax for the instalment.
+(3) Subsection (2) does not apply to a person to whom section 120KBB(2) applies. In these circumstances,—
+  (a) for an amount of unpaid tax or overpaid tax for the last instalment for the tax year, the total amount transferred to the person is subtracted from the underpaid amount or added to the overpaid amount, as applicable, under that section:
+  (b) to the extent to which paragraph (a) does not apply in relation to the total amount transferred, the amount is overpaid tax under section 120KBB(2) for the last instalment.
 
 ### 120M Where provisional tax paid by company does not count as overpaid tax
 No amount of tax paid by a company is to be treated as overpaid tax to the extent that—
@@ -5801,6 +5904,9 @@ If—the due date for the purpose of the definition of date interest starts for 
 ### 120V Interest on overpaid RWT
 If the Commissioner is required to make a refund of overpaid RWT under section RM 8 of the Income Tax Act 2007, no interest shall be payable by the Commissioner under section 120D(3) on the excess refunded.
 
+### 120VB Interest on overpaid AIM method provisional tax
+No interest shall be payable by the Commissioner under section 120D(3) on an amount of AIM method provisional tax described in section RM 6B(2) of the Income Tax Act 2007.
+
 ### 120VC Interest on some provisional tax
 No interest shall be payable by the Commissioner under section 120D(3) on an amount of provisional tax prior to the last instalment if section 120KBB applies for the provisional tax.
 
@@ -5809,7 +5915,7 @@ No interest shall be payable by the Commissioner under section 120D(3) on an amo
 (2) Subsection (1) applies if the relevant Commissioner's official opinion was given by the Commissioner on or after the day on which the Taxation (Annual Rates, Trans-Tasman Savings Portability, KiwiSaver, and Remedial Matters) Act 2010 receives the Royal assent.
 
 ### 120X Petroleum miners’ tax losses
-If a taxpayer allocates an amount to an earlier tax year under section EJ 14 of the Income Tax Act 2007, the amount allocated does not reduce the taxpayer’s tax payable for that year for the purpose of this Part.
+[Repealed]
 
 ### 121 Interest to be charged where residual income tax exceeds provisional tax
 [Repealed]
@@ -6415,7 +6521,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (b) where the taxpayer has no tax to pay in the return period, the rate of tax or lowest marginal rate of tax that would apply to the taxpayer during the return period, if the taxpayer had tax to pay.
 (12A) Where a life insurer derives policyholder income in a tax year and the life insurer's tax position in respect of the policyholder base income tax liability gives rise to a tax shortfall, the Commissioner shall not assess under sections 141A to 141EB a penalty on the proportion of the tax shortfall that is attributable to the life insurer's tax position in respect of the amount of underwriting income represented by underwriting result in the formula in section EY 43(1) of the Income Tax Act 2007.
 (13) In this section, tax does not include a civil penalty.
-(14) For the purposes of determining the amount of a tax shortfall in relation to an instalment date and a provisional taxpayer, the tax shortfall shall be the difference between—
+(14) For the purposes of determining the amount of a tax shortfall in relation to an instalment date and a provisional taxpayer other than a date and taxpayer using the AIM method, the tax shortfall shall be the difference between—
   (a) the lesser of—
     (i) the amount of provisional tax payable on the instalment date if an estimate had not applied at that instalment date; and
     (ii) the amount that would have been payable on that instalment date if the taxpayer's provisional tax payable for the tax year had been the taxpayer's residual income tax liability for the tax year; and
@@ -6453,6 +6559,10 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (d) the tax shortfall is due to an application of IFRSs which, if viewed objectively, passes the standard of being about as likely as not to represent acceptable accounting practice under IFRSs; and
   (e) the taxpayer has fully disclosed the IFRS-related tax position.
 (1D) A taxpayer does not take an unacceptable tax position to the extent to which they have taken their position because they have relied on a Commissioner's official opinion.
+(1E) A taxpayer does not take an unacceptable tax position merely by using the AIM method and an approved AIM provider’s AIM-capable accounting system.
+(1F) Subsection (1E) does not apply for a taxpayer that—
+  (a) is approved under section 45D:
+  (b) uses a large business AIM-capable system.
 (2) A taxpayer is liable to pay a shortfall penalty if the taxpayer takes an unacceptable tax position in relation to income tax as defined in section YA 1 of the Income Tax Act 2007, but ignoring the effect of section RA 2 of that Act, and the tax shortfall arising from the taxpayer's tax position is more than both—
   (a) $50,000:
   (b) 1% of the taxpayer's total tax figure for the relevant return period.
@@ -6742,6 +6852,7 @@ Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if
 (2) In subsection (1), annual tax return, employer monthly schedule, and reconciliation statement have the meanings given to them in section 139A.
 
 ### 142A New due date for payment of tax that is not a penalty
+(1A) This section applies for the transitional period described in subsection (10).
 (1) Subsection (2) applies for a transfer concession tax type if the Commissioner makes for a taxpayer, other than by an assessment (an electronic default assessment) made in the absence of a return and to which section 106(2) applies,—
   (a) an assessment (the new assessment) of tax for the taxpayer, if the taxpayer has not been assessed earlier for the tax, except by an electronic default assessment:
   (b) an amended assessment (the increased assessment)—
@@ -6782,6 +6893,28 @@ Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if
 (9) In this section,—
   (a) transfer concession tax type means a tax type for which the Commissioner decides it is appropriate to allow a concession from subsection (4), and the concession is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue Department software platforms:
   (b) tax does not include a civil penalty.
+(10) For the purposes of subsection (1), the transitional period is the period of co-existence of 2 Inland Revenue software platforms that starts on the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent and ends on the date by which the last Order in Council made under section 142AB(5) brings that section into force for a particular tax type.
+(11) Section 142AB overrides this section, but this section continues to apply for an amount of tax in relation to which an incremental late payment penalty is payable under section 139B.
+
+### 142AB New due date for new and increased assessments
+(1) This section applies, subject to the particular commencement dates for different tax types described in subsection (5), when the Commissioner makes either of the following assessments for a taxpayer, other than an assessment (a default assessment) made in the absence of a return and to which section 106(1) applies:
+  (a) an assessment (the new assessment) of tax for the taxpayer, if they have not been assessed earlier for the tax:
+  (b) an amended assessment (the increased assessment)—
+    (i) of an amount of tax that is more than the amount for which the taxpayer is liable immediately before the increased assessment; and
+    (ii) made less than 30 days before, or on or after, the due date for the tax for which the taxpayer is liable immediately before the increased assessment; and
+    (iii) that is not an increased assessment to a default assessment.
+(2) The Commissioner must—
+  (a) fix a date that is 30 or more days after the date of the notice of the assessment for the payment of—
+    (i) the tax under a new assessment:
+    (ii) the increase of tax under an increased assessment; and
+  (b) notify the taxpayer of the date in the notice of assessment.
+(3) Subsection (2) does not apply—
+  (a) to an amount of provisional tax that remains unpaid on an instalment date; or
+  (b) when the Commissioner has notified the taxpayer before the due date for the payment of the tax that subsection (2) will not apply to the tax as calculated by the taxpayer or to an amount of tax estimated by the taxpayer; or
+  (c) when the Commissioner considers that setting a new due date may prejudice the Commissioner’s ability to recover the tax or increased tax.
+(4) In this section, tax does not include a civil penalty.
+(5) This section comes into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different tax types and for different purposes. To the extent to which it is not previously brought into force, this section comes into force on 1 April 2023.
+(6) For a tax type in relation to which an order is made under subsection (5), this section applies to a new assessment for the tax type or an increased assessment for the tax type and section 142A does not apply for that tax type.
 
 ### 142B Due date for shortfall penalties
 (1) A shortfall penalty is due and payable—
@@ -7816,11 +7949,15 @@ An amount that is interest under section 120D, or a late payment penalty relatin
   (a) the Commissioner issues a statement of account to a taxpayer after the original due date for payment of tax to which the statement of account relates; and
   (b) the tax referred to in the statement of account, together with any interest payable under Part 7 in respect of the period before the date of the statement of account, is paid to the Commissioner on or before the 30th day after the date on which the statement of account is issued, or the due date of the tax, whichever occurs first,—
 (4B) Subsection (4C) applies, if—
-  (a) the Commissioner issues another statement of account (the second statement) to a taxpayer within 30 days of a statement described in subsection (4) (the first statement); and
-  (b) the first and second statements are for GST and penalties related to the GST; and
-  (c) the liability for GST is the same in the first and second statements; and
-  (d) the GST and related penalties in the second statement, together with any interest payable under Part 7 in relation to the period before the date of the first statement is paid to the Commissioner on or before the 30th day after the date on which the second statement of account is issued, or the due date of the tax, whichever occurs first.
-(4C) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the GST and related penalties for the period commencing on the day after the date on which the first statement is issued and ending with the day on which the payment described in subsection (4B)﻿(d) is made.
+  (a) the Commissioner issues another statement of account (the second statement) to a taxpayer within 30 days of a statement of account described in subsection (4) (the first statement); and
+  (b) the first and second statements are for a START tax type and any penalties related to the START tax type; and
+  (c) the START tax type and any related penalties in the first statement, together with any interest payable under Part 7 in relation to the period before the date of the first statement is paid to the Commissioner on or before the 30th day after the date on which the first statement is issued, or the due date of the tax, whichever occurs first.
+(4C) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the START tax type and related penalties for the period commencing on the day after the date on which the first statement is issued and ending with the day on which the payment described in subsection (4B)﻿(c) is made.
+(4D) Subsection (4E) applies, if—
+  (a) the Commissioner issues another notice of assessment (the second assessment) to a taxpayer within 30 days of a notice of assessment described in subsection (1) or (3) (the first assessment); and
+  (b) the first and second assessments are for a START tax type and any penalties related to the START tax type; and
+  (c) the START tax type and any related penalties in the second assessment, together with any interest payable under Part 7 in relation to the period before the date of the second assessment is paid to the Commissioner on or before the 30th day after the date on which the second assessment is issued, or the due date of the tax, whichever occurs first.
+(4E) The Commissioner shall cancel the taxpayer’s liability to pay interest under Part 7 in relation to the START tax type and related penalties for the period commencing on the day after the date on which the second assessment is issued and ending with the day on which the payment described in subsection (4D)﻿(c) is made.
 (5) If the Commissioner issues both a notice of assessment and a statement of account to a taxpayer and the 30th day referred to in subsection (3) occurs on or before the 30th day referred to in subsection (4), the Commissioner must cancel a taxpayer's liability to pay interest under Part 7 for the period starting on the day after the date on which the notice of assessment is issued and ending on the date on which payment is made if payment is made on or before the 30th day referred to in subsection (3).
 (6) For the purpose of subsection (5), a payment that is made is a payment of the tax assessed in the notice of assessment, together with any interest payable under Part 7 for the period before the date of the notice.
 
@@ -8384,6 +8521,26 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
     (i) includes the distribution of draft regulations and an explanation of the way in which the regulations would meet the requirements of paragraph (a) to persons or organisations that represent taxpayers that it is reasonable to consult with for the purposes of this section; and
     (ii) provides a period of consultation of at least 4 weeks.
 (6) This section and any unexpired regulations made under this section expire and are repealed on 31 December 2021.
+
+### 227C Transitional provision: voluntary application of employment income information provisions
+(1) This section applies for the purposes of this Act and the Income Tax Act 2007, when an employer or PAYE intermediary, other than an employer who provides their employment income information by non-electronic means, is required to provide an employer monthly schedule and a PAYE income payment form in the period that starts on 1 April 2018 and ends on 31 March 2019 (the transitional period).
+(2) Despite the commencement provisions in the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 (the amendment Act) relating to the provision of employment income information, the application of new thresholds, and the consequential amendments to the KiwiSaver Act 2006, the employer may choose to apply the provisions in the amendment Act for the transitional period, or a part of it, in place of the provisions in this Act and the Income Tax Act 2007 for the delivery of the employer monthly schedule and PAYE income payment form.
+(3) For the purposes of subsection (2), an employer who chooses to report their employment income information using the provisions of the amendment Act must also apply the other relevant provisions relating to the delivery of that information or to the interpretation of those provisions, whether or not the relevant provision is listed in subsection (8).
+(4) When an employer makes an election under subsection (2), they must include in their employment income information the required items relating to a benefit received by an employee or former employee under section CE 1(1)﻿(d) of the Income Tax Act 2007, applying the provisions of the amendment Act in relation to all benefits under employee share schemes, as defined in the amendment Act, received by employees or former employees on or after the date that is 20 days before the date of their election.
+(5) For the purposes of subsection (4), for an item relating to a benefit under an employee share scheme received by an employee in the part of the transitional period that falls before the date referred to in section 2(34) of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018, the ESS deferral date referred to in section CE 2(9) of the Income Tax Act 2007 is the 20th day after the employee receives the benefit.
+(6) For the purposes of the application of a late filing penalty under section 139A(6) to (8), the rules relating to further failures apply for the transitional period as if it were a continuation of the previous period or periods.
+(7) For the purposes of the correction of errors in employment income information that is provided in the transitional period, a regulation-making power is set out in section 46(8) and (9).
+(8) For the purposes of subsections (2) and (4), and despite the relevant commencement provisions in section 2,—
+  (a) sections 17(2) and (3)﻿(b), 20, 153, 158, 159, 191, 196, 203, 207 to 209, 239, 240, 243(20), (24), (26), (53), and (54), 261(2), (5), (13), and (26), 267, 272, 274 to 276, 279, 280, 303, 313, 315, 334, 352 to 357, 360, 363 to 367, 372(1)﻿(a) to (c), 374 to 380, 383 to 388, and 406 of the amendment Act are treated as having a commencement date of 1 April 2018 and as applying for, or in relation to, an employer from the date on which they choose to apply the relevant provisions:
+  (b) the due dates for employment income information under sections 23E to 23I do not apply in the transitional period for the purposes of determining a penalty under section 139A(6) to (8) or 142.
+(9) An employer who makes an election under subsection (2) may not revert to the provisions for the delivery of the employer monthly schedule and PAYE income payment form under this Act or the Income Tax Act 2007, and must continue to apply the provisions of the amendment Act for the remainder of the transitional period unless the employer and Commissioner agree otherwise. As a consequence, the early commencement and application dates set out in subsection (8) no longer apply.
+
+### 227D Transitional provision for certain filing requirements of employers
+(1) For the purposes of this Act and the Income Tax Act 2007, when an employer or PAYE intermediary is required to provide an employer monthly schedule and a PAYE income payment form relating to the last month of the transitional period referred to in section 227C(1), the usual rules apply for the delivery of the schedule and form despite the fact that the transitional period is expressed to end on 31 March 2019. This subsection does not apply in relation to an obligation referred to in subsection (3).
+(2) For the purposes of this Act and the Income Tax Act 2007, when an employer chooses to apply the provisions in the amendment Act for the transitional period under section 227C(2) in a month (the month of the election), they must provide an employer monthly schedule and a PAYE income payment form relating to the previous month by the due date in the month of the election.
+(3) For the purposes of this Act and the Income Tax Act 2007, in relation to a benefit received by an employee or former employee under an employee share scheme for the period that starts on 16 March 2019 and ends on 31 March 2019, an employer to whom section RD 4(1)﻿(b) of the Income Tax Act 2007 applies must—
+  (a) apply the provisions in the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 in relation to the tax treatment of the benefit; and
+  (b) provide their employment income information in relation to the benefit under the provisions in subpart 3C rather than including the information in the employer monthly schedule and PAYE income payment form.
 
 ### 228 Commissioner and department
 The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue is deemed to have been appointed Commissioner of Inland Revenue under section 6A.
