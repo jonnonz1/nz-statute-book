@@ -1,5 +1,5 @@
 # Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017
-_Consolidation as at 2017-02-21_
+_Consolidation as at 2018-04-01_
 
 ### 1 Title
 This Act is the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017.
@@ -391,15 +391,7 @@ After the schedule in the Tax Administration Act 1994, insert the schedule 2 set
 This subpart amends the Income Tax Act 2007.
 
 ### 32 Section LA 6 amended (Remaining refundable credits: PAYE, RWT, and certain other items)
-(1) After section LA 6(2)﻿(d), insert:
-  (db) fifth, if the person is a company and uses the AIM method for provisional tax, transfer a tax credit to a shareholder of the company of the amount described in subsection (2C). The amount transferred does not give rise to a tax credit, but is treated as a transferred amount for the shareholder for the purposes of Part 7 of the Tax Administration Act 1994, for the tax year that the tax credit relates to, as provided by section 120LB of that Act. The amount is also treated as a refund of income tax paid to the company for the purposes of section OB 32 (ICA refund of income tax):
-(2) In section LA 6(2)﻿(e), replace fifth with sixth.
-(3) Before section LA 6(3), insert:AIM method amount
-  (2C) The amount must not be more than the least of the following:
-    (a) the amount chosen by the company; and
-    (b) the shareholder’s residual income tax for the tax year, less the amount of the shareholder’s tax credit under section LB 2 for the tax year, treating a negative amount as zero; and
-    (c) the amount of the company’s tax credit under section LB 2 for the tax year less its residual income tax for the tax year, treating a negative amount as zero.
-(4) In section LA 6, in the list of defined terms insert company, income tax, residual income tax, and shareholder.
+[Repealed]
 
 ### 33 Section RA 14 amended (Payment dates for provisional tax)
 (1) In section RA 14, replace F with F1.
@@ -604,14 +596,7 @@ This subpart amends the Tax Administration Act 1994.
 (3) This section applies for the 2018–19 and later income years.
 
 ### 57 New section 120LB inserted (Meaning of unpaid tax and overpaid tax for tax credit transferees under AIM method)
-After section 120L, insert:Meaning of unpaid tax and overpaid tax for tax credit transferees under AIM method
-  (1) For the purposes of determining amounts of unpaid tax, overpaid tax, and interest under a provision of this Part in relation to an instalment date for a tax year, for a person that is a provisional taxpayer for the year,—
-    (a) the total amounts transferred to them for the year as a shareholder under section LA 6(2)﻿(db) of the Income Tax Act 2007 (the total transferred amounts), are pro-rated against all instalments for the year; and
-    (b) if there is an amount of overpaid or underpaid tax under a provision for the instalment, the pro-rated amount for the instalment is subtracted from the underpaid tax amount or added to the overpaid tax amount under the provision; and
-    (c) to the extent to which paragraph (b) does not apply for the pro-rated amount for the instalment, the amount is overpaid tax under the provision for an instalment.
-  (2) If section 120KBB(2) applies to the person, subsection (1) does not apply, and—
-    (a) if there is an amount of overpaid or underpaid tax under section 120KBB for the last instalment, the person’s total transferred amounts are subtracted from the underpaid tax amount or added to the overpaid amount under section 120KBB; and
-    (b) to the extent to which paragraph (a) does not apply for the total transferred amounts, the amounts are overpaid tax under section 120KBB(2) for the last instalment.
+[Repealed]
 
 ### 58 New section 120VB inserted (Interest on overpaid AIM method provisional tax)
 (1) After section 120V, insert:Interest on overpaid AIM method provisional tax
