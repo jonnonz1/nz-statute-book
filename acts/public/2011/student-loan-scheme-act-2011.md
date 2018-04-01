@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -112,7 +112,7 @@ The purposes of this Act are to—
     (c) any amount that must be paid by a borrower in accordance with a written notification under section 52:
     (d) end-of-year repayment obligation:
     (e) overseas-based repayment obligation
-  - **repayment percentage** means 10% or any other rate prescribed by regulations
+  - **repayment percentage** means 12% or any other rate prescribed by regulations
   - **return of income** means a return of income required under section 33 of the Tax Administration Act 1994
   - **salary or wage deduction** means—
     (a) a standard deduction:
@@ -550,13 +550,14 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (2) Each time the employer or PAYE intermediary pays an amount to the borrower that is salary or wages for a pay period, the employer or PAYE intermediary must make a deduction from that amount in accordance with section 37(1) or (2).
 
 ### 37 Deduction rates that apply to standard deductions from salary or wages
-(1) If the employer of a borrower has not been notified that a special deduction rate applies to the borrower, deductions must be made at the rate of 10 cents in each complete dollar from—
+(1) If the employer of a borrower has not been notified that a special deduction rate applies to the borrower, deductions must be made at the rate of 12 cents in each complete dollar from—
   (a) so much of the primary employment earnings paid to the borrower as exceeds the pay period repayment threshold; and
   (b) any secondary employment earnings paid to the borrower.
 (2) If the employer has been notified that a special deduction rate applies to the borrower, deductions must be made at the special deduction rate specified in the applicable special deduction rate certificate from—
   (a) the primary employment earnings paid to the borrower; and
   (b) any secondary employment earnings paid to the borrower.
 (3) If the repayment percentage is changed by regulations, the deduction rate in subsection (1) is changed accordingly.
+(3B) When a change occurs to a rate in this Act, or in regulations made under this Act, affecting the deduction from primary employment earnings paid to the borrower or secondary employment earnings paid to the borrower, the calculation of the amount of the deduction must be made at the rate applying on the day on which the employment earnings are paid to the borrower.
 (4) In this section, pay period repayment threshold means,—
   (a) if the salary or wages are paid weekly, an amount equal to one fifty-second of the annual repayment threshold; and
   (b) if the salary or wages are paid fortnightly, twice the amount specified in paragraph (a); and
@@ -998,7 +999,7 @@ A borrower must pay his or her terminal payment on or before the borrower's term
 ### 84 Due dates for payment of interim payments
 (1) A borrower must pay an interim payment for a tax year on or before each of the dates on which the borrower must pay his or her provisional tax for that tax year in accordance with the provisional tax rules.
 (2) However,—
-  (a) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is not a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
+  (a) if a borrower uses a GST ratio, or the AIM method provided in section RC 5(5B) of the Income Tax Act 2007, to determine his or her provisional tax for a tax year and that year is not a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are the dates in columns B, D, and F of the table in Part A of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date:
   (b) if a borrower uses a GST ratio to determine his or her provisional tax for a tax year and that year is a transitional year for the borrower, the due dates for the payment of the borrower's interim payments are every second date in the table headed GST ratio provisional taxpayers in Part B of Schedule 3 of the Income Tax Act 2007 that correspond to the month of the borrower's balance date, except that—
     (i) if the borrower has only 1 payment date, the borrower has only 1 due date; and
     (ii) if the borrower has an odd number of payment dates, then the last payment date does not apply to the borrower:
@@ -2488,19 +2489,7 @@ In this Part,—
   - **principal Act** means the Student Loan Scheme Act 2011.
 
 ### 17 Regulations for transitional purposes
-(1) In this clause, transition means the transition to the changes made by the amendment Act.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing transitional provisions for the purpose of facilitating or ensuring an orderly transition.
-(3) Regulations made under this clause may—
-  (a) provide that, subject to such conditions as may be specified in the regulations, 1 or more provisions (including definitions) of the amendment Act do not apply, or apply with modifications or additions:
-  (b) provide that, subject to such conditions as may be specified in the regulations, 1 or more provisions repealed, amended, or revoked by the amendment Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
-  (c) provide for any other matter necessary to facilitate or ensure an orderly transition.
-(4) The Minister must not recommend the making of regulations unless the Minister is satisfied that the regulations—
-  (a) are reasonably necessary for the purpose of facilitating or ensuring an orderly transition; and
-  (b) are consistent with the purposes of the principal Act.
-(5) Regulations made under this clause must include a date on which the regulations are revoked, and that date must be the earlier of—
-  (a) 3 years after the date on which they are made; and
-  (b) the close of 31 March 2018.
-(6) This clause is repealed on 1 April 2018.
+[Repealed]
 
 ### Part 3 — Transitional provision relating to Student Loan Scheme Amendment Act 2014
 
