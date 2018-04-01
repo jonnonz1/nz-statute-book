@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2017-12-05_
+_Consolidation as at 2018-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -771,6 +771,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
   (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.
 (2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, or 8% of their gross salary or wages by giving notice to their employer of the rate they choose.
 (3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives that notice.
+(3B) For a contribution rate under subsection (1)﻿(a), when a change occurs to a rate in this Act, or in regulations made under this Act, affecting the contribution that must be deducted from a payment of salary or wages, the calculation of the amount of the contribution must be made at the rate applying on the day on which the salary or wages are paid.
 (4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 3 months apart unless the employer agrees.
 
 ### 65 Contribution rates may be changed by Order in Council
@@ -803,7 +804,7 @@ The employer must make deductions of contributions from each payment of the empl
   (d) every reference to an amount required to be deducted under the PAYE rules were a reference to an amount required to be deducted under this Act.
 (2) Every employer and employee must comply with the requirements of the PAYE rules to the extent to which those rules apply under this section.
 (3) However, the following do not apply to any amount required to be deducted under this subpart:
-  (a) sections BC 1, LA 6, RA 2, RD 9, RD 10, RD 16, RD 17, and RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994; and
+  (a) sections BC 1, LA 6, RA 2, RD 9, RD 10, RD 10B, RD 13, RD 16, RD 17, and RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994; and
   (b) sections 139C, 140 to 140DB, 141FD, 141JA, 142E, 144, and 150B of the Tax Administration Act 1994.
 (4) Any deduction made under this subpart is not part of or included in any amount of tax withheld under the PAYE rules on account of income tax.
 (5) The deductions made under this subpart are in addition to any amounts of tax required to be withheld under the PAYE rules.
@@ -1064,11 +1065,8 @@ For the purposes of section 101A(1), the requirements are that the employee—
 (1) The amount of a compulsory employer contribution is a positive amount calculated using the following formula:(payment of gross salary or wages × CEC rate) − other contributions − hybrid schemes amount.
 (2) The items in the formula are defined in subsections (3) to (6).
 (3) Payment of gross salary or wages is the amount of a payment of gross salary or wages from which the employer deducts or is required to deduct an amount for the employee’s KiwiSaver scheme or complying superannuation fund.
-(4) CEC rate is, for the payment of gross salary or wages,—
-  (a) 1%, if the payment of gross salary or wages is made for a pay period that is in the year starting on 1 April 2008:
-  (b) 2%, if the payment of gross salary or wages is made for a pay period that starts on or before 31 March 2013, excluding a pay period to the extent to which paragraph (a) applies to it:
-  (c) 3%, if the payment of gross salary or wages is made for a pay period that is in a year starting on or after 1 April 2013, excluding a pay period that paragraph (b) applies to.
-  (d)
+(4) CEC rate is 3%.
+(4B) When a change occurs to the CEC rate affecting the amount of a compulsory employer contribution, the calculation of the amount of the contribution must be made at the rate applying on the day on which the salary or wages are paid.
 (5) Other contributions is the total of amounts that the employer pays or credits in relation to the employee for the period to which the payment of gross salary or wages relates, to the extent to which the amounts are—
   (a) employer contributions made in the absence of this section:
   (b) employer’s superannuation contributions made to, or amounts credited from within, (collectively, the contributions) a retirement scheme (the contributions scheme), and—
