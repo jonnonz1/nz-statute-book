@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2018-03-22_
+_Consolidation as at 2018-04-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -249,7 +249,7 @@ If a person who is absent from New Zealand would have become entitled to New Zea
 (5) Subsection (4) is for the avoidance of doubt.
 (6) The rates referred to in subsection (2) are,—
   (a) for a single person, a rate that is a proportion (calculated under section 26A(1)) of the amount stated in clause 1(b) of Schedule 1:
-  (b) for a person who is married or in a civil union or in a de facto relationship, a rate that is a proportion (calculated under subsection 26A(1)) of the amount stated in clause 1(c) of that schedule.
+  (b) for a person who is married or in a civil union or in a de facto relationship, a rate that is a proportion (calculated under section 26A(1)) of the amount stated in clause 1(c) of that schedule.
 (7) This section is subject to section 26B.
 
 ### 26A Calculation of amount of New Zealand superannuation payable overseas
@@ -764,14 +764,14 @@ Unless the context otherwise requires, any reference to the New Zealand Superann
 
 |  |  | $ |
 | --- | --- | --- |
-| 1 | (a)to a person at the single living alone rate | $450.10 a week |
-|  | (b)to a person at the single sharing accommodation rate | $413.60 a week |
-|  | (c)to a person who is married or in a civil union or in a de facto relationship | $340.80 a week |
+| 1 | (a)to a person at the single living alone rate | $463.04 a week |
+|  | (b)to a person at the single sharing accommodation rate | $425.55 a week |
+|  | (c)to a person who is married or in a civil union or in a de facto relationship | $350.76 a week |
 | 2Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
-|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $681.60 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
-|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $645.56 a week, subject to Income Test 3 |
-| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $43.93 a week |
-| 4Rate of special disability allowance under section 20 |  | An amount that, after deduction of any income tax, is equal to $38.90 per week |
+|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $701.52 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
+|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $664.68 a week, subject to Income Test 3 |
+| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $44.53 a week |
+| 4Rate of special disability allowance under section 20 |  | An amount that, after deduction of any income tax, is equal to $39.43 per week |
 
 ## Schedule 2 — Specified Pacific countries
 
