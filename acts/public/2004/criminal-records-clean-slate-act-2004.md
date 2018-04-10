@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-04-10_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -26,6 +26,7 @@ In this Act, unless the context otherwise requires,—
     (b) a community-based sentence as defined in section 2(1) of the Criminal Justice Act 1985; and
     (c) a sentence of a similar kind to those referred to in paragraphs (a) and (b) (including, without limitation, a sentence of community care, a sentence of probation, or a sentence of residential periodic detention) imposed under an earlier corresponding enactment
   - **conceal** means to protect the criminal record or information about the criminal record of an eligible individual from disclosure to a person, body, or agency (including, without limitation, a government department or law enforcement agency) for which there is no lawful authority under this Act to disclose the criminal record or any information about the criminal record
+  - **controlling public office** has the meaning given in section 4 of the Public Records Act 2005
   - **conviction** —
     (a) means a conviction entered by a court in New Zealand for an offence, including a conviction for a traffic offence; and
     (b) does not include a conviction entered by the Court Martial of New Zealand or a disciplinary officer under the Armed Forces Discipline Act 1971 or resulting from an appeal from a decision under that Act
@@ -36,7 +37,7 @@ In this Act, unless the context otherwise requires,—
       (iii) sentences imposed on him or her; and
       (iv) orders imposed on him or her as a result of a conviction; and
     (b) in relation to a request for disclosure or an obligation to conceal,—
-      (i) any official record (including, without limitation, an electronic record) that is kept by, or on behalf of, the Crown of—
+      (i) any public record (including, without limitation, an electronic public record) that is kept by, or on behalf of, the Crown of—
         (A) charges that result in conviction; and
         (B) convictions entered (including, without limitation, any item on a list of previous convictions); and
         (C) sentences imposed (including, without limitation, any item on a list of previous sentences); and
@@ -57,6 +58,7 @@ In this Act, unless the context otherwise requires,—
   - **non-custodial sentence** includes, but is not limited to, a community-based sentence, a sentence of home detention, a sentence of a fine or reparation, a suspended sentence of imprisonment, and a specified order
   - **prison officer** means a person who is an officer as defined in section 3(1) of the Corrections Act 2004
   - **probation officer** has the same meaning as in section 4(1) of the Sentencing Act 2002
+  - **public record** has the meaning given in section 4 of the Public Records Act 2005
   - **registrar** means a registrar of the District Court; and includes a deputy registrar of the District Court
   - **rehabilitation period** , in relation to an individual, means any period of not less than 7 consecutive years after the date on which the individual was last sentenced, or a specified order was last made, in which the individual has not been convicted of an offence
   - **security officer** has the same meaning as in section 3(1) of the Corrections Act 2004
@@ -212,24 +214,27 @@ This Act binds the Crown.
     (ii) while he or she is in New Zealand but relates to a matter dealt with by the law of a foreign country (for example, a question asked on an application form by the immigration or customs agency of a foreign country).
 (4) Subsections (1) and (2) are subject to the exceptions in section 19.
 
-**Effect of clean slate scheme on government departments and law enforcement agencies that hold or have access to criminal records**
+**Effect of clean slate scheme on controlling public offices that hold or have access to criminal records**
 
 ### 15 Responsibility of chief executives
-(1) Subsection (2) applies to the Secretary for Justice and every other chief executive of a government department or law enforcement agency that holds, or has access to, criminal records.
-(2) A chief executive to whom this subsection applies must take all reasonable steps (including, without limitation, the development of policies and procedures) to ensure the government department or law enforcement agency for which he or she is chief executive, and any employee or contractor of that government department or law enforcement agency—
+(1) Subsection (2) applies to the Secretary for Justice and every other chief executive of a controlling public office that holds, or has access to, criminal records.
+(2) A chief executive to whom this subsection applies must take all reasonable steps (including, without limitation, the development of policies and procedures) to ensure the office for which he or she is chief executive, and any employee or contractor of that office—
   (a) conceals the criminal records of eligible individuals when requests are made for their disclosure other than by the eligible individuals to whom the criminal records relate; and
   (b) does not use the criminal records of eligible individuals other than for a purpose authorised under this Act.
 (3) Subsection (2)﻿(a) is subject to the exceptions in section 19.
 
-### 16 Effect of clean slate scheme on government departments, law enforcement agencies, employees, and contractors
-(1) A government department or law enforcement agency, or an employee or contractor of a government department or law enforcement agency, that holds or has access to criminal records and that is responding to a request for the disclosure of an eligible individual's criminal record or any information about an eligible individual's criminal record (other than from the eligible individual to whom the request relates) must not disclose the criminal record of the eligible individual.
-(2) A government department or law enforcement agency, or an employee or contractor of a government department or law enforcement agency, that holds or has access to the criminal records of eligible individuals may not use those criminal records other than for a purpose authorised under this Act.
+### 16 Effect of clean slate scheme on controlling public offices, employees, and contractors
+(1) A controlling public office, or an employee or contractor of a controlling public office, that holds or has access to criminal records and that is responding to a request for the disclosure of an eligible individual's criminal record or any information about an eligible individual's criminal record (other than from the eligible individual to whom the request relates) must not disclose the criminal record of the eligible individual.
+(2) A controlling public office, or an employee or contractor of a controlling public office, that holds or has access to the criminal records of eligible individuals may not use those criminal records other than for a purpose authorised under this Act.
 (3) Subsection (1) is subject to the exceptions in section 19.
 
 **Offences**
 
 ### 17 Offence to unlawfully disclose information required to be concealed
-(1) A person commits an offence if the person has access to criminal records, and knowing that he or she does not have lawful authority under this Act, or being reckless as to whether or not he or she has lawful authority under this Act, discloses to any person, body, or agency the criminal record, or information about the criminal record, of an eligible individual that is required to be concealed.
+(1A) This section applies to a person who—
+  (a) is an officer, employee, or contractor of a controlling public office, government department, or law enforcement agency; and
+  (b) has access to criminal records that are held by, or accessible to, the office, department, or agency.
+(1) The person commits an offence if the person has access to criminal records, and knowing that he or she does not have lawful authority under this Act, or being reckless as to whether or not he or she has lawful authority under this Act, discloses to any person, body, or agency the criminal record, or information about the criminal record, of an eligible individual that is required to be concealed.
 (2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $20,000.
 
 ### 18 Offence to require or request that individual disregard scheme
@@ -242,7 +247,7 @@ This Act binds the Crown.
 
 ### 19 Exceptions to general effect of clean slate scheme
 (1) An eligible individual must state that he or she has a criminal record if subsection (3) applies.
-(2) A government department or law enforcement agency, or an employee or contractor of a government department or law enforcement agency, that holds or has access to criminal records may disclose the criminal record or information about the criminal record of an eligible individual if subsection (3) applies.
+(2) A controlling public office, or an employee or contractor of a controlling public office, that holds or has access to criminal records may disclose the criminal record or information about the criminal record of an eligible individual if subsection (3) applies.
 (3) This subsection applies if—
   (a) the eligible individual's criminal record or information about the eligible individual's criminal record is necessary for any of the following purposes:
     (i) the exercise of the prevention, detection, investigation, or prosecution functions of a law enforcement agency or an overseas agency or body whose functions correspond to those of a law enforcement agency; or
@@ -256,13 +261,13 @@ This Act binds the Crown.
     (iii) as a Police employee, prison officer, probation officer, or security officer; or
   (e) the eligible individual has made an application to act in a role predominantly involving the care and protection of, but not predominantly involving the delivery of education to, a child or young person (for example, a foster parent or a caregiver of children or young persons); or
   (f) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to an investigation under section 17 of the Oranga Tamariki Act 1989 of a report of ill-treatment or neglect of a child or young person or in relation to any procedure under Part 2 of that Act arising from an investigation of that kind (including, without limitation, holding a family group conference or the Family Court’s consideration of an application for a declaration that a child or young person is in need of care or protection); or
-  (g) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to the undertaking of research that requires access to criminal history information to be given to any employee or person contracted to a government department or law enforcement agency or to any person undertaking research approved by a government department or law enforcement agency.
+  (g) the eligible individual's criminal record or information about an eligible individual's criminal record is relevant to the undertaking of research that requires access to criminal history information to be given to any employee or person contracted to a controlling public office or to any person undertaking research approved by a controlling public office.
 
 **Limits on use of criminal records**
 
 ### 20 Limits on use of eligible individuals' criminal records
-(1) A person, body, or agency (including, without limitation, a government department or law enforcement agency) to whom the criminal record of an eligible individual, or information about the criminal record of an eligible individual, has been disclosed under section 19 must not use that criminal record or information about the criminal record for any purpose other than the purpose in relation to which it was disclosed to the person, body, or agency.
-(2) Any government department or law enforcement agency, or an employee or contractor of a government department or law enforcement agency, that holds or has access to the criminal records of eligible individuals (other than those that have been disclosed to it under section 19) must not use those records or any information about those records for any purpose other than for a purpose for which those records or that information may also be disclosed under section 19.
+(1) A person, body, or agency (including, without limitation, a controlling public office or government department or law enforcement agency) to whom the criminal record of an eligible individual, or information about the criminal record of an eligible individual, has been disclosed under section 19 must not use that criminal record or information about the criminal record for any purpose other than the purpose in relation to which it was disclosed to the person, body, or agency.
+(2) Any controlling public office or government department or law enforcement agency, or an employee or contractor of a controlling public office or government department or law enforcement agency, that holds or has access to the criminal records of eligible individuals (other than those that have been disclosed to it under section 19) must not use those records or any information about those records for any purpose other than for a purpose for which those records or that information may also be disclosed under section 19.
 
 **Relationship to other provisions**
 
@@ -287,8 +292,8 @@ This Act binds the Crown.
   (b) without limiting paragraph (a), make rules regulating the manner in which appeals may be brought to the High Court and Court of Appeal under section 12(1) or (2).
 (3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Court Act 2016 or the Senior Courts Act 2016 (whichever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
 
-### 23 Application of Legal Services Act 2000
-All proceedings under this Act are civil proceedings for the purposes of the Legal Services Act 2000.
+### 23 Application of Legal Services Act 2011
+All proceedings under this Act are civil proceedings for the purposes of the Legal Services Act 2011.
 
 **Transitional provision**
 
