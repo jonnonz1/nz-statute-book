@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2018-05-27_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -1036,6 +1036,12 @@ Convention on the Physical Protection of Nuclear Material, done at New York and 
 
 ### 10
 Convention for the Suppression of Acts of Nuclear Terrorism, adopted by the General Assembly of the United Nations at New York on 13 April 2005.
+
+### 11
+Protocol of 2005 to the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, done at London on 14 October 2005.
+
+### 12
+Protocol of 2005 to the Convention for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf, done at London on 14 October 2005.
 
 ## Schedule 4 — United Nations Security Council Resolution 1373 (2001)
 
