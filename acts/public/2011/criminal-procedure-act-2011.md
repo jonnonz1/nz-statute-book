@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-05-27_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -3717,8 +3717,13 @@ The enactments set out in Schedule 3 are amended in the manner set out in that s
 
 | Section | Offence |
 | --- | --- |
-| Section 4 | Crimes relating to ships |
-| Section 5 | Crimes relating to fixed platforms |
+| Section 4 | Offences relating to ships |
+| Section 4A | Further offences relating to ships |
+| Section 4B | Offences relating to transportation of weapons and nuclear material and equipment |
+| Section 4C | Offences relating to transportation of fugitives by ship |
+| Section 5 | Offences relating to fixed platforms |
+| Section 5A | Further offences relating to fixed platforms |
+| Section 6 | Offences relating to death and injury |
 
 | Section | Offence |
 | --- | --- |
