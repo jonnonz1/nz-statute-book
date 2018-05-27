@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2017-06-01_
+_Consolidation as at 2018-05-27_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -452,7 +452,7 @@ Assistance under this Part may be provided to a requesting country subject to su
 (4) Every person who is required, pursuant to section 31, to give evidence, or produce documents or other articles, for the purposes of any proceedings in a foreign country shall have the same privileges in relation to the answering of questions and the production of documents and things as if the proceedings were pending in a New Zealand court.
 
 ### 34 Certain persons entitled to appear and be legally represented at proceedings
-(1) The following persons may appear, and may be represented by counsel, at any hearing held under subsection (3) or subsection (4) of section 31:
+(1) The following persons may appear, and may be represented by counsel, at any hearing held under subsection (3) of section 31:
   (a) the person to whom the proceedings in the foreign country relate:
   (b) any other person giving evidence or producing documents or other articles at the hearing:
   (c) the relevant authority of the foreign country.
@@ -820,12 +820,18 @@ Where, pursuant to section 51, a foreign country requests the assistance of the 
 |  |  |  |  |  | 11The Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, done at Montreal on 24 February 1988 | An offence against the following section of the Aviation Crimes Act 1972: |  |
 |  |  |  |  |  |  | section | subject matter |
 |  |  |  |  |  |  | 5A | crimes relating to international airports |
-|  |  |  |  |  | 12The Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, done at Rome on 10 March 1988 | An offence against the following section of the Maritime Crimes Act 1999: |  |
+| 12The Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, done at Rome on 10 March 1988or12AThe Protocol of 2005 to the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation, done at London on 14 October 2005 |  |  |  |  |  | An offence against any of the following sections of the Maritime Crimes Act 1999: |  |
 |  |  |  |  |  |  | section | subject matter |
-|  |  |  |  |  |  | 4 | crimes relating to ships |
-|  |  |  |  |  | 13The Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf, done at Rome on 10 March 1988 | An offence against the following section of the Maritime Crimes Act 1999: |  |
+|  |  |  |  |  |  | 4 | offences relating to ships |
+| 4A |  | further offences relating to ships |  |  |  |  |  |
+| 4B |  | transportation of weapons and nuclear material and equipment by ship |  |  |  |  |  |
+| 4C |  | transportation of fugitives by ship |  |  |  |  |  |
+| 6 |  | causing death or injury in connection with offence against section 4, 4A, 4B, or 4C of that Act |  |  |  |  |  |
+| 13The Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf, done at Rome on 10 March 1988or13AThe Protocol of 2005 to the Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf, done at London on 14 October 2005 |  |  |  |  |  | An offence against any of the following sections of the Maritime Crimes Act 1999: |  |
 |  |  |  |  |  |  | section | subject matter |
-|  |  |  |  |  |  | 5 | crimes relating to fixed platforms |
+|  | 5 |  | offences relating to fixed platforms |  |  |  |  |
+| 5A |  | further offences relating to fixed platforms |  |  |  |  |  |
+| 6 |  | causing death or injury in connection with offence against section 5 or 5A of that Act |  |  |  |  |  |
 |  |  |  |  |  | 14The Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, done at Paris on 17 December 1997 | An offence against any of the following sections of the Crimes Act 1961: |  |
 |  |  |  |  |  |  | section | subject matter |
 |  |  |  |  |  |  | 105C | bribery of foreign public official |
