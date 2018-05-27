@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-05-27_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -737,7 +737,8 @@ The chief executive must approve a port facility security plan, or any amendment
   (a) section 50:
   (b) section 73:
   (c) section 45 of the Arms Act 1983 (which relates to unlawful carriage of firearms or explosives):
-  (d) section 4 of the Maritime Crimes Act 1999 (which relates to crimes relating to ships).
+  (d) any of sections 4, 4A, 4B, and 4C of the Maritime Crimes Act 1999 (which relate to offences relating to ships):
+  (e) section 6 of the Maritime Crimes Act 1999 (in relation to causing death or injury in connection with an offence against any of sections 4, 4A, 4B, and 4C of that Act).
 (2) A person may, in good faith, assist an authorised person in arresting any person if called upon to do so by that authorised person.
 (3) An authorised person who is not a constable must, as soon as practicable, deliver any person that he or she arrests to a constable.
 (4) An authorised person exercising the power of arrest under subsection (1) must—
