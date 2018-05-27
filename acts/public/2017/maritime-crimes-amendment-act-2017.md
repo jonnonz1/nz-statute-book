@@ -1,5 +1,5 @@
 # Maritime Crimes Amendment Act 2017
-_Consolidation as at 2017-12-20_
+_Consolidation as at 2018-05-27_
 
 ### 1 Title
 This Act is the Maritime Crimes Amendment Act 2017.
