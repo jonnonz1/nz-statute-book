@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2017-08-08_
+_Consolidation as at 2018-06-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -529,10 +529,12 @@ Every Civil Defence Emergency Management Group must prepare and approve a civil 
   (a) the local authorities that have united to establish the Civil Defence Emergency Management Group:
   (b) the hazards and risks to be managed by the Group:
   (c) the civil defence emergency management necessary to manage the hazards and risks described under paragraph (b):
+  (ca) the strategic planning for recovery from the hazards and risks referred to in paragraph (b):
   (d) the objectives of the plan and the relationship of each objective to the national civil defence emergency management strategy:
   (da) the area of the Group:
   (e) the apportionment between local authorities of liability for the provision of financial and other resources for the activities of the Group, and the basis for that apportionment:
   (f) the arrangements for declaring a state of emergency:
+  (fa) the arrangements for giving notice of a local transition period:
   (g) the arrangements for co-operation and co-ordination with other Groups:
   (h) the period for which the plan remains in force.
 (3) The Director must issue written guidelines in relation to the matters described in subsection (2).
