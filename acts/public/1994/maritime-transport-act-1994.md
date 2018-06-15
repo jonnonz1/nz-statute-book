@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-06-15_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -173,6 +173,9 @@ _Consolidation as at 2017-12-16_
 (2) The Governor-General may from time to time, by Order in Council, declare—
   (a) that any specified international convention relating to maritime transport, to which New Zealand is a party, shall be a convention for the purposes of this Part and Parts 2 to 15, or such of them (or their provisions) as may be specified in the order:
   (b) that any specified amendment to any such convention shall form part of that convention for any such purposes.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 3 Act to bind the Crown
 Except as provided in section 4, this Act shall bind the Crown.
@@ -1839,7 +1842,7 @@ The provisions of the LLMC Convention as amended by the LLMC Protocol have the f
 ### 86 Claims subject to limitation of liability
 (1)
 (2)
-(3) The limitation of liability under the LLMC Convention also—
+(3) The limitation of liability under the LLMC Convention (as amended by the LLMC Protocol)—
   (a)
   (b)
   (c) applies in respect of each distinct occasion, without regard to any liability arising on any other distinct occasion; and
@@ -1853,7 +1856,7 @@ The provisions of the LLMC Convention as amended by the LLMC Protocol have the f
 (2)
 (3)
 (4)
-(5) For the purposes of Articles 6 and 7 of the LLMC Convention,—
+(5) For the purposes of Articles 6 and 7 of the LLMC Convention (as amended by the LLMC Protocol),—
   (a)
   (b)
   (c) where the gross tonnage of a ship is unable to be ascertained,—
@@ -1869,7 +1872,7 @@ The provisions of the LLMC Convention as amended by the LLMC Protocol have the f
 
 ### 88 Units of account
 (1)
-(2) For the purposes of paragraph 1 of Article 8 of the LLMC Convention, a certificate given by or on behalf of the Secretary to the Treasury stating—shall, in any proceedings, be received in evidence and, in the absence of proof to the contrary, be sufficient evidence of the value of the New Zealand currency for the purposes of paragraph 1 of Article 8 of the LLMC Convention.
+(2) For the purposes of paragraph 1 of Article 8 of the LLMC Convention (as amended by the LLMC Protocol), a certificate given by or on behalf of the Secretary to the Treasury stating—shall, in any proceedings, be received in evidence and, in the absence of proof to the contrary, be sufficient evidence of the value of the New Zealand currency for the purposes of paragraph 1 of Article 8 of the LLMC Convention (as amended by the LLMC Protocol).
   (a) that a particular sum in New Zealand currency has been fixed as the equivalent of 1 special drawing right for a particular date; or
   (b) that no sum has been fixed for that date, and that a particular sum has been so fixed for the date most recently preceding a particular date,—
 
@@ -3931,7 +3934,7 @@ The Authority shall consult the Oil Pollution Advisory Committee before advising
 ## Part 25 — Civil liability for pollution of marine environment
 
 ### 342 Interpretation
-In this Part, unless the context otherwise requires,—
+(1) In this Part, unless the context otherwise requires,—
   - **bunker oil** means—
     (a) any hydrocarbon mineral oil used, or intended to be used, for the operation or propulsion of a ship; and
     (b) any residues of that oil
@@ -3945,9 +3948,7 @@ In this Part, unless the context otherwise requires,—
     (a) in the case of a registered CLC ship, the person registered as the owner of that ship; or
     (b) in the case of an unregistered CLC ship, the person who owns the ship; or
     (c) in the case of a CLC ship owned by a State and operated by a person registered as the ship’s operator, the person registered as its operator
-  - **CLC ship** means—if the ship is registered in, or (if unregistered) flying the flag of, a CLC State
-    (a) any ship carrying oil in bulk as cargo; or
-    (b) any ship on a voyage immediately following a voyage where that ship was carrying oil in bulk as cargo (unless it is proved that it has no residues of the carriage of oil in bulk aboard),—
+  - **CLC ship** has the same meaning as ship has in the Civil Liability Convention
   - **CLC State** means any State that is a party to the Civil Liability Convention
   - **harmful substance** means—
     (a) any substance specified as a harmful substance for the purposes of section 225 by the marine protection rules:
@@ -3971,6 +3972,7 @@ In this Part, unless the context otherwise requires,—
   - **tonnage** , in relation to any ship,—
     (a) has the meaning defined in any regulations or maritime rules made under this Act that apply to the ship, unless the term is defined differently for different purposes, or is not defined, by such regulations or rules:
     (b) where the tonnage cannot be ascertained under paragraph (a), means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969.
+(2) In the Civil Liability Convention, ship means any sea-going vessel and seaborne craft of any type whatsoever constructed or adapted for the carriage of oil in bulk as cargo, provided that a ship capable of carrying oil and other cargoes shall be regarded as a ship only when it is actually carrying oil in bulk as cargo and during any voyage following such carriage unless it is proved that it has no residues of such carriage of oil in bulk aboard.
 
 ### 343 Ownership of CLC Ship
 Notwithstanding any other provision of this Act, for the purposes of this Part, in respect of any discharge or escape of oil from a CLC ship, the owner of that ship shall be deemed to be the CLC owner of that ship at the time of an event giving rise to liability under this Part or (where such event consists of a series of occurrences) at the time of the first such occurrence, as the case may be.
@@ -4140,59 +4142,59 @@ The master of a ship must produce any certificate of insurance required by secti
 (1) Part 1 (except for section 6(3) and (4)) of the Reciprocal Enforcement of Judgments Act 1934 applies to a judgment given by a court in a country (other than Australia) in respect of which the CLC Convention is in force and to enforce a claim in respect of liability incurred under any provision corresponding to section 345 of this Act.
 (2) A judgment given by a court in Australia to enforce a claim in respect of liability incurred under Part II of the Protection of the Sea (Civil Liability) Act 1981 (Aust) (or any later Australian enactments corresponding to section 345 of this Act) must be treated as a registrable Australian judgment for the purposes of subpart 5 of Part 2 of the Trans-Tasman Proceedings Act 2010.
 
-## Part 26 — Compensation from International Oil Pollution Compensation Fund for pollution damage
+## Part 26 — Compensation from International Oil Pollution Compensation Fund and Supplementary Fund for pollution damage
 
 ### 370 Interpretation
 In this Part, unless the context otherwise requires,—
   - **Civil Liability Convention** has the meaning given to it by section 342
   - **CLC ship** has the meaning given to it by section 342
   - **CLC State** has the meaning given to it by section 342
-  - **Convention ship** means a ship registered in, or (if unregistered) flying the flag of, any State which is a party to the Fund Convention
+  - **fund** means the International Oil Pollution Fund or the Supplementary Fund (as the case may be)
   - **Fund Convention** means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1971; and includes any subsequent protocol or amendment to, or revision of, that convention accepted or ratified by New Zealand
-  - **International Oil Pollution Fund** or means the International Oil Pollution Compensation Fund established under Article 2 of the Fund Convention
+  - **International Oil Pollution Fund** means the International Oil Pollution Compensation Fund established under Article 2 of the Fund Convention
+  - **International Oil Pollution Supplementary Fund** or means the International Oil Pollution Compensation Supplementary Fund established under Article 2 of the Supplementary Fund Protocol
   - **oil** means any persistent hydrocarbon mineral oil
-  - **owner** , in relation to a CLC ship, means the CLC owner of that ship as defined in section 342
-  - **owner** , in relation to any convention ship, means,—
-    (a) in the case of a convention ship that is registered, the person registered as owner of that ship; or
-    (b) in the case of a convention ship that is not registered, the person who owns the ship; or
-    (c) in the case of a convention ship owned by a State which is operated by a person registered as the ship’s operator, the person registered as its operator
+  - **owner** , in relation to a CLC ship, has the same meaning as CLC owner in section 342
   - **pollution damage** has the meaning given to it by section 342
+  - **Supplementary Fund Protocol** means the Protocol of 2003 to the Fund Convention and includes any subsequent protocol or amendment to, or revision of, that protocol accepted or ratified by New Zealand
   - **tonnage** has the meaning given to it by section 342.
 
-**Compensation and indemnity from International Oil Pollution Fund**
+**Compensation and indemnity from International Oil Pollution Fund and Supplementary Fund**
 
-### 371 International Oil Pollution Fund to have legal personality
-The International Oil Pollution Fund shall be deemed for the purposes of New Zealand law to be a body corporate and to have and to be able to exercise all the rights, powers, and privileges, and to incur all the liabilities and obligations, of a natural person of full age and capacity.
+### 371 International Oil Pollution Fund and Supplementary Fund declared to be legal entities
+The International Oil Pollution Fund and the Supplementary Fund are legal entities and each fund has all the rights, powers, duties, and liabilities of a legal person.
 
-### 372 Compensation from International Oil Pollution Fund for certain pollution damage
-Subject to the provisions of this Part, the International Oil Pollution Fund shall pay compensation, up to a maximum amount determined under section 373, for pollution damage in New Zealand, the internal waters of New Zealand, or New Zealand marine waters, or the seabed below such waters caused by the discharge or escape of oil from a convention ship—
+### 372 Compensation from International Oil Pollution Fund and Supplementary Fund for certain pollution damage
+(1) Subject to the provisions of this Part, the International Oil Pollution Fund must pay compensation, up to a maximum amount determined under section 373(1), for pollution damage in New Zealand, the internal waters of New Zealand, or New Zealand marine waters, or the seabed below such waters caused by the discharge or escape of oil from a CLC ship—
   (a) if the owner of the ship is not liable for the pollution damage under Part 25; or
   (b) if, and to the extent that, the pollution damage exceeds the maximum amount of liability of the owner of the ship determined under section 347; or
   (c) if, and to the extent that, the pollution damage exceeds the maximum amount of liability of the owner of the ship determined under any convention (other than the Civil Liability Convention) which is in force between New Zealand and a State that is not a CLC State; or
   (d) if, and to the extent that, a person (after pursuing that person’s legal remedies against the owner of the ship), and any insurer of the owner, does not recover payment in full of any damages and costs awarded by a court under section 345 or section 366.
+(2) Subject to the provisions of this Part, the Supplementary Fund must pay compensation, up to a maximum amount determined under section 373(1A), for pollution damage if, and to the extent that, the maximum amount of compensation payable under subsection (1) is insufficient to compensate for the pollution damage.
 
-### 373 Maximum amount of liability of International Oil Pollution Fund
-(1) The maximum amount for which the International Oil Pollution Fund shall be liable for pollution damage under section 372 shall be fixed from time to time, by Order in Council, and, until such time as the maximum amount is so fixed, shall be,—
+### 373 Maximum amount of liability of International Oil Pollution Fund and Supplementary Fund
+(1) The maximum amount for which the International Oil Pollution Fund is liable for pollution damage under section 372(1) must be fixed by Order in Council and, until that maximum amount is fixed, is,—
   (a) where the pollution damage resulted from a natural phenomenon of an exceptional, inevitable, and irresistible character, the amount of 135 million units of account:
   (b) where no liability arises because of the provisions of section 348 giving effect to the Civil Liability Convention, the amount of 135 million units of account:
   (c) where liability has been incurred under section 345 by the owner of a CLC ship, 135 million units of account, less the amount of compensation actually paid by the owner, or the owner’s insurer, or by both pursuant to a direction of the court under section 351.
-(2) The maximum amount of liability fixed by this section shall apply to the total liability incurred on each distinct occasion, and shall so apply in respect of each distinct occasion without regard to any liability incurred on another occasion.
+(1A) The maximum amount for which the Supplementary Fund is liable for pollution damage under section 372(2) must be fixed by Order in Council and, until that maximum amount is fixed, is the amount of 750 million units of account less any amount paid by the International Oil Pollution Fund under section 372(1).
+(2) A maximum amount of liability fixed by this section applies to the total liability incurred on each distinct occasion, and applies in respect of each distinct occasion without regard to any liability incurred on another occasion.
 
 ### 374 International Oil Pollution Fund’s liability for compensation avoided or limited in certain cases
 (1) The provisions of this section apply only in respect of a CLC ship carrying persistent hydrocarbon mineral oil in bulk as cargo.
-(2) The International Oil Pollution Fund shall not be liable under section 372 to pay compensation for pollution damage in the following circumstances:
+(2) The International Oil Pollution Fund is not liable under section 372(1) to pay compensation for pollution damage in the following circumstances:
   (a) if it is proved that the pollution damage resulted from an act of war, hostilities, civil war, or insurrection, or was caused by oil which had been discharged from a warship, or from any other ship owned or operated by a State, and which at the time of the discharge was being used by the Government of that State for purposes other than commercial purposes:
   (b) if the person making the claim in respect of the pollution damage is unable to prove that the pollution damage was the result of the discharge of oil from 1 or more ships.
-(3) Where the International Oil Pollution Fund proves that the damages suffered by any person are a result in part of—the compensation recoverable from the International Oil Pollution Fund under section 372 shall be reduced to the extent that the court thinks just and equitable having regard to that person’s share in the responsibility for the damage suffered.
+(3) Where the International Oil Pollution Fund proves that the damages suffered by any person are a result in part of—the compensation recoverable from the International Oil Pollution Fund under section 372 is reduced to the extent that the court thinks just and equitable having regard to that person’s share in the responsibility for the damage suffered.
   (a) that person’s own negligence; or
   (b) any act or omission by that person done or omitted with intent to cause pollution damage,—
-(4) Nothing in subsection (3) shall apply to any claim against the International Oil Pollution Fund that relates to—
+(4) Nothing in subsection (3) applies to any claim against the International Oil Pollution Fund that relates to—
   (a) expenses reasonably incurred or sacrifices reasonably made by the owner of a ship voluntarily to prevent or reduce pollution damage; or
   (b) expenses relating to measures carried out by the owner of a ship pursuant to an instruction of the Director under Part 20.
 
 ### 375 Several claims for compensation from International Oil Pollution Fund
-(1) Subject to subsection (2), where liability to pay compensation is incurred under section 372 by the International Oil Pollution Fund in respect of several claims for pollution damage arising out of the same event, the court shall determine the amount of the International Oil Pollution Fund’s liability and apportion that amount rateably among the several claimants.
-(2) Where the amount of claims for compensation established under section 372 against the International Oil Pollution Fund exceeds the maximum amount determined under section 373, the court shall order the maximum amount available to be distributed in such a way that the ratio between any established claim and the amount recovered by a claimant from the owner of a CLC ship and the owner’s insurer, under section 345 or section 366, and from the International Oil Pollution Fund under section 372, is the same for all claimants.
+(1) Subject to subsection (2), where liability to pay compensation is incurred under section 372(1) by the International Oil Pollution Fund in respect of several claims for pollution damage arising out of the same event, the court must determine the amount of the International Oil Pollution Fund’s liability and apportion that amount rateably among the several claimants.
+(2) Where the amount of claims for compensation established under section 372(1) against the International Oil Pollution Fund exceeds the maximum amount determined under section 373(1), the court must order the maximum amount available to be distributed in such a way that the ratio between any established claim and the amount recovered by a claimant from the owner of a CLC ship and the owner’s insurer, under section 345 or section 366, and from the International Oil Pollution Fund under section 372(1), is the same for all claimants.
 
 ### 376 International Oil Pollution Fund to indemnify certain shipowners
 [Repealed]
@@ -4200,39 +4202,39 @@ Subject to the provisions of this Part, the International Oil Pollution Fund sha
 ### 377 International Oil Pollution Fund’s liability to indemnify limited or avoided in certain cases
 [Repealed]
 
-**Provisions in respect of proceedings against International Oil Pollution Fund**
+**Provisions in respect of proceedings against International Oil Pollution Fund or Supplementary Fund**
 
-### 378 Time for bringing proceedings against International Oil Pollution Fund
-(1) No action to enforce a claim against the International Oil Pollution Fund for compensation under section 372 shall be brought in any court, unless the proceedings are commenced, or a notice is served on the International Oil Pollution Fund in accordance with the provisions of section 380, not later than 3 years after the claim arose; and in any case no such action shall be brought later than 6 years after the occurrence of the event or, as the case may be, the first of the events giving rise to the claim.
+### 378 Time for bringing proceedings against International Oil Pollution Fund or Supplementary Fund
+(1) No action to enforce a claim against the International Oil Pollution Fund or the Supplementary Fund for compensation under section 372 may be brought in any court, unless the proceedings are commenced, or a notice is served on the fund in accordance with the provisions of section 380, not later than 3 years after the claim arose; and in any case no such action may be brought later than 6 years after the occurrence of the event or, as the case may be, the first of the events giving rise to the claim.
 (2)
 
-### 379 Jurisdiction of court in respect of claims against International Oil Pollution Fund
-(1) Subject to this section, no action may be brought in a court to enforce a claim against the International Oil Pollution Fund under section 372 in respect of pollution damage in or to the territory, territorial sea, or exclusive economic zone of a country other than New Zealand in respect of which the Civil Liability Convention is in force.
-(2) Where an action to enforce a claim for compensation for pollution damage under the Civil Liability Convention has been brought before a court in a State that is a party to that Convention but is not a party to the Fund Convention, an action by the claimant against the International Oil Pollution Fund for compensation under Article 4 of the Fund Convention may be brought before a court in New Zealand, and the provisions of this Part shall apply accordingly.
+### 379 Jurisdiction of court in respect of claims against International Oil Pollution Fund or Supplementary Fund
+(1) Subject to this section, no action may be brought in a court to enforce a claim against the International Oil Pollution Fund or the Supplementary Fund under section 372 in respect of pollution damage in or to the territory, territorial sea, or exclusive economic zone of a country other than New Zealand in respect of which the Civil Liability Convention is in force.
+(2) If an action to enforce a claim for compensation for pollution damage under the Civil Liability Convention has been brought before a court in a State that is a party to that convention but is not a party to the Fund Convention or the Supplementary Fund Protocol, an action by the claimant against the International Oil Pollution Fund for compensation under Article 4 of the Fund Convention (or against both that fund under Article 4 of the Fund Convention and the Supplementary Fund under Article 4 of the Supplementary Fund Protocol) may be brought before a court in New Zealand, and the provisions of this Part apply accordingly.
 
-### 380 Notice of proceedings against International Oil Pollution Fund
-Where proceedings are brought against the International Oil Pollution Fund under section 372, copies of the documents commencing the proceedings shall be sent to the Director by the Registrar of the court in which the documents are filed.
+### 380 Notice of proceedings against International Oil Pollution Fund or Supplementary Fund
+If proceedings are brought against the International Oil Pollution Fund or the Supplementary Fund under section 372, the Registrar of the court in which the documents commencing the proceedings are filed must send copies of those documents to the Director.
 
-### 381 Notice to and joining of International Oil Pollution Fund in certain proceedings
-(1) Where proceedings have been brought in a court against the owner of a CLC ship, or the owner’s insurer, to enforce a claim in respect of any liability incurred under section 372,—
-  (a) either party to the proceedings may serve a notice on the International Oil Pollution Fund or its representative in New Zealand:
-  (b) either party may join the International Oil Pollution Fund in the action:
-  (c) the International Oil Pollution Fund may apply to the court to be joined in the action.
-(2) A notice served on the International Oil Pollution Fund, or its representative, under subsection (1)﻿(a)—
-  (a) shall give sufficient details of the cause of action to allow the International Oil Pollution Fund to decide whether to apply to be joined in the action; and
-  (b) shall specify a period of 30 days, or such lesser period as the court may order, for the International Oil Pollution Fund to apply to be joined in the action.
-(3) Where the International Oil Pollution Fund applies to be joined under subsection (1)﻿(c) in any proceedings, the court shall join the International Oil Pollution Fund in those proceedings.
-(4) Where the International Oil Pollution Fund, or its representative, has been served with a notice under subsection (1)﻿(a) but the International Oil Pollution Fund has not been joined in the proceedings, the judgment of the court shall be final and binding on the International Oil Pollution Fund to the extent that the findings of the court may not be challenged by the International Oil Pollution Fund in any proceedings relating to the same cause of action.
+### 381 Notice to and joining of International Oil Pollution Fund and Supplementary Fund in certain proceedings
+(1) In proceedings brought in a court against the owner of a CLC ship, or the owner’s insurer, to enforce a claim in respect of any liability incurred under section 372,—
+  (a) either party to the proceedings may serve a notice on the International Oil Pollution Fund or on the Supplementary Fund; and
+  (b) either party may join the fund served in the action; and
+  (c) the fund served may apply to the court to be joined in the action.
+(2) A notice served under subsection (1)﻿(a) must—
+  (a) give sufficient details of the cause of action to allow the fund served to decide whether to apply to be joined in the action; and
+  (b) specify a period of 30 days, or a lesser period ordered by the court, for the fund served to apply to be joined in the action.
+(3) If the fund served applies to be joined in the action, the court must join the fund in the proceedings.
+(4) If a fund has been served under subsection (1)﻿(a) but has not been joined in the proceedings, the judgment of the court is final and binding on the fund to the extent that the fund may not challenge the findings of the court in any proceedings relating to the same cause of action.
 
-### 382 Reciprocal enforcement of judgments against International Oil Pollution Fund
-(1) Part 1 of the Reciprocal Enforcement of Judgments Act 1934 shall apply to any judgment given by a court against the International Oil Pollution Fund in a country in respect of which the Fund Convention is in force.
-(2) Subsections (3) and (4) of section 6 of the Reciprocal Enforcement of Judgments Act 1934 shall have no effect in the case of any such judgment.
-(3) Where a court in a country in respect of which the Fund Convention is in force has directed the distribution of the amounts available for distribution in accordance with the provisions of paragraph 5 of Article 4 of that Convention, then, for the purpose of enforcing the judgment of that court in New Zealand, the judgment to be enforced shall be the judgment of that court as modified by that direction as to distribution.
+### 382 Reciprocal enforcement of judgments against International Oil Pollution Fund or Supplementary Fund
+(1) Part 1 of the Reciprocal Enforcement of Judgments Act 1934 applies to any judgment given by a court against the International Oil Pollution Fund or the Supplementary Fund in a country in respect of which the Fund Convention or the Supplementary Fund Protocol (as the case may be) is in force.
+(2) Subsections (3) and (4) of section 6 of the Reciprocal Enforcement of Judgments Act 1934 have no effect in the case of any such judgment.
+(3) Where a court in a country in respect of which the Fund Convention or the Supplementary Fund Protocol is in force has directed the distribution of the amounts available for distribution in accordance with the provisions of paragraph 5 of Article 4 of that convention or paragraph 3 of Article 4 of that protocol (as the case may be), then, for the purpose of enforcing the judgment of that court in New Zealand, the judgment to be enforced is the judgment of that court as modified by that direction as to distribution.
 
-### 383 Rights of subrogation of International Oil Pollution Fund
-Where any person has received compensation from the International Oil Pollution Fund under section 372, then the International Oil Pollution Fund shall (up to the amount of compensation paid) be subrogated to the rights and remedies of that person against—
+### 383 Rights of subrogation of International Oil Pollution Fund or Supplementary Fund
+Where any person has received compensation from the International Oil Pollution Fund or the Supplementary Fund under section 372, the fund is (up to the amount of compensation paid) subrogated to the rights and remedies of that person against—
   (a) the owner of any CLC ship, or the owner’s insurer, in respect of the liability incurred by that owner or that owner’s insurer under section 345 or section 366:
-  (b) any other person in respect of the pollution damage for which compensation has been paid and the rights of the International Oil Pollution Fund against any person referred to in this paragraph shall be as favourable as any right or remedy that the insurer of any person referred to in paragraph (a) would have by way of subrogation.
+  (b) any other person in respect of the pollution damage for which compensation has been paid and the rights of the fund against any person referred to in this paragraph must be as favourable as any right or remedy that the insurer of any person referred to in paragraph (a) would have by way of subrogation.
 
 **Miscellaneous provisions relating to International Oil Pollution Fund**
 
@@ -4242,8 +4244,9 @@ Where any person has received compensation from the International Oil Pollution 
 **Levies on oil imports**
 
 ### 385 Levies on oil imports
-(1) For the purpose of complying with the requirements of Articles 10, 11, 12, 13, 14, and 15 of the Fund Convention, the Governor-General may from time to time, by Order in Council, impose a levy on oil carried by sea and landed from a ship in any port or oil transfer site in New Zealand (whether or not landed from a country outside New Zealand).
-(2) Without limiting anything in subsection (1), any such Order in Council may prescribe all or any of the following matters:
+(1) For the purpose of complying with the requirements of Articles 10, 12, 13, 14, and 15 of the Fund Convention, the Governor-General may, by Order in Council, impose a levy on oil carried by sea and landed from a ship in any port or oil transfer site in New Zealand (whether or not landed from a country outside New Zealand).
+(1A) For the purpose of complying with the requirements of Articles 10 to 15 of the Supplementary Fund Protocol, the Governor-General may, by Order in Council, impose a levy on oil carried by sea and landed from a ship in any port or oil transfer site in New Zealand (whether or not landed from a country outside New Zealand).
+(2) Without limiting anything in subsections (1) and (1A), an Order in Council under this section may prescribe all or any of the following matters:
   (a) the rate of the levy, and the basis on which it is to be assessed in any one calendar year, whether for that year or the preceding calendar year or for any other calendar year:
   (b) any additional rate of levy, and the basis on which it is to be assessed:
   (c) the persons liable to pay the levy, the due date for payment, and the persons to whom the levy is to be paid:
@@ -5284,6 +5287,19 @@ Notwithstanding anything in section 282,—
 (4) Where, before the repeal of the Marine Pollution Act 1974 by section 481, the Ministry or any officer of the Ministry commences an action under that Act or regulations made under that Act, the action may be continued, completed, and enforced after the repeal of that Act as if the Authority or the Director, as the case may require, had commenced it.
 (5) Where, before the repeal of the Shipping and Seamen Act 1952 by section 202, the Ministry or any officer of the Ministry had commenced an investigation under that Act or regulations made under that Act, the investigation may be continued and completed after the repeal of that Act as if the Director had commenced it.
 (6) References to the Maritime Safety Authority of New Zealand or the Director of Maritime Safety in any Act, regulation, rule, order, other enactment, agreement, deed, instrument, application, notice, or other document whatever in force at the commencement of this Act shall, unless the context otherwise requires, be read as references to the Authority continued by section 429 or the Director appointed or deemed to be appointed under section 439, as the case may require.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Maritime Transport Amendment Act 2017
+
+### 1 Interpretation
+In this Part, commencement date means the date on which Part 2 of the Maritime Transport Amendment Act 2017 comes into force under section 2(1) of that Act.
+
+### 2 Amendments apply to pollution damage occurring after commencement
+The amendments made by Part 2 of the Maritime Transport Amendment Act 2017 apply in relation to pollution damage only if that damage is caused by or results from an escape or a discharge of oil from a ship that occurs on or after the commencement date.
+
+### 3 References to Maritime Transport (Fund Convention) Levies Order 1996
+Every reference in any enactment or document to the Maritime Transport (Fund Convention) Levies Order 1996 must, unless the context otherwise requires, be read as a reference to the Maritime Transport (International Oil Pollution Compensation Levies) Order 1996.
 
 ## Schedule 1 — Provisions relating to Maritime New Zealand
 
