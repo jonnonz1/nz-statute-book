@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-04-01_
+_Consolidation as at 2018-06-22_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -8951,7 +8951,7 @@ Other assets
   (a) the asset; and
   (b) the permit area to which the asset relates.
 Relationship between subpart and section GB 20
-(3) This section applies for the purposes of this subpart, sections GB 20 (Arrangements involving petroleum and mineral mining) and section 91 of the Tax Administration Act 1994.
+(3) This section applies for the purposes of this subpart, section GB 20 (Arrangements involving petroleum and mineral mining), and section 91 of the Tax Administration Act 1994.
 
 ### DT 18 Replacement permits
 In this subpart, a reference to a petroleum permit includes a reference to a replacement permit. All expenditure incurred, deductions allowed, and petroleum mining assets that are attributable to the petroleum permit are attributable to the replacement permit.
@@ -41635,7 +41635,7 @@ In this Act, unless the context requires otherwise,—
     (b) does not include—
       (i) residual expenditure; or
       (ii) petroleum exploration expenditure; or
-      (iii) expenditure that relates to an amount for which a deduction is allowed under section DT 7B (Resuming commercial production: petroleum development expenditure), except as provided in that section
+      (iib) expenditure that relates to an amount for which a deduction is allowed under section DT 7B (Resuming commercial production: petroleum development expenditure), except as provided in that section
       (iii) other expenditure allowed as a deduction under any provision of this Act, other than a provision in subpart DT (Petroleum mining expenditure) or DZ (Terminating provisions), and allocated to the income year in which the expenditure is incurred
   - **petroleum exploration expenditure** —
     (a) means—
