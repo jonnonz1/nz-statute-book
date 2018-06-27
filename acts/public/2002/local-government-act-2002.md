@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-06-27_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -1727,6 +1727,7 @@ If a local authority carries out consultation in relation to an amendment to a l
   (g) development contributions:
   (h) financial contributions under the Resource Management Act 1991:
   (i) grants and subsidies:
+  (ia) regional fuel taxes under the Land Transport Management Act 2003:
   (j) any other source.
 (3) A policy adopted under section 102(1) must also show how the local authority has, in relation to the sources of funding identified in the policy, complied with section 101(3).
 (4) If a local authority amends its revenue and financing policy under section 93(4), only a significant amendment to the policy is required to be audited in accordance with sections 93D(4) and 94.
@@ -3016,7 +3017,8 @@ A territorial authority must supply all secretarial and administrative services 
     (ii) fees and charges:
     (iii) interest and dividends from investments:
     (iv) borrowings:
-    (v) proceeds from asset sales; or
+    (v) proceeds from asset sales:
+    (vi) regional fuel tax; or
   (b) a person required to make the development contribution is also a ratepayer in the territorial authority’s district or has paid or will pay fees or charges in respect of the facilities.
 (4) Despite subsection (1)﻿(ba), a territorial authority may require another development contribution to be made for the same purpose if the further development contribution is required to reflect an increase in the scale or intensity of the development since the original contribution was required.
 
@@ -6767,6 +6769,15 @@ An annual report must state, as at the end of the financial year,—
   (c) gives the reasons for any significant variation between the level of service achieved and the intended level of service.
 (2) Each local board must comment on the matters included in the annual report under subclause (1) in respect of its local board area, and the unitary authority must include those comments in the annual report.
 (3) In this clause, local activities or activities means the non-regulatory activities of the unitary authority in respect of which a local board is allocated decision-making responsibility under section 48L or under section 17 of the Local Government (Auckland Council) Act 2009.
+
+### 34B Additional information: RFT schemes
+(1) The regional council of an RFT region, in its annual report, must report on—
+  (a) the revenue from an RFT scheme paid to the council by the Agency; and
+  (b) how that revenue was applied by the council, including to which projects and for what purposes (for example, capital expenditures, debt repayment, operational expenditures); and
+  (c) progress with respect to the programme of capital projects supported by the RFT scheme.
+(2) In this clause,—
+  (a) regional council, RFT region, and RFT scheme have the same meanings as in section 65A of the Land Transport Management Act 2003; and
+  (b) Agency has the same meaning as in section 5(1) of that Act.
 
 ### 35 General
 An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide opportunities for Māori to contribute to the decision-making processes of the local authority.
