@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2018-06-18_
+_Consolidation as at 2018-06-27_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1003,6 +1003,7 @@ For the purposes of section RC 5(5B)﻿(c)﻿(ii) of the Income Tax Act 2007, th
 (1C) For the purpose of subsection (1B) and sections 143(2) and 143A(2)—
   (a) in determining whether a non-resident is controlled by a New Zealand resident, the New Zealand resident is treated as holding anything held by a person who is resident in New Zealand, or is a controlled foreign company, and is associated with the New Zealand resident; and
   (b) a law of a foreign country that relates to the secrecy of information must be ignored.
+(1CB) For the purpose of subsection (1) and sections 139AB, 143(2) and 143A(2), information or a document is treated as being in the knowledge, possession, or control of a member of a large multinational group in an income year, disregarding any law of a foreign country relating to the secrecy of information, if the information or document is relevant to the taxation of the large multinational group and is in the knowledge, possession, or control of the member or another member of the large multinational group.
 (1D) If information is required, or documents must be produced, the Commissioner may require that the information be furnished, or the documents be produced, to a particular office of the department.
 (2)
 (3) The Commissioner may, if the Commissioner considers it reasonable to do so, remove and retain any documents produced for inspection under this section for so long as is necessary for a full and complete inspection of those documents.
@@ -1225,6 +1226,25 @@ An information holder who is required to disclose information in relation to a p
     (c) a person in New Zealand who, in the opinion of the Commissioner, may in consequence of the expenditure or loss incurred by the taxpayer (whether or not in consequence of any other thing and whether or not as an immediate or eventual consequence) make a payment—
       (i) to a person outside New Zealand; or
       (ii) to a person of the kind first referred to in this paragraph.
+
+### 21BA Information required to be provided by large multinational group
+(1) This section applies if the Commissioner notifies a member of a large multinational group by a notice (the information demand) that the member is required under section 17 to provide information relating to the large multinational group or to a member of the large multinational group, and the member—
+  (a) fails to provide, by the date that is 3 months after the information demand (the demand date), a response to the information demand:
+  (b) provides, by the demand date, a response that the Commissioner considers to be misleading because it contains misleading information or omits relevant information:
+  (c) provides, by the demand date, a response that the Commissioner considers omits information, whether or not in the knowledge, possession, or control of the member, required by the information demand for the calculation of—
+    (i) an arm’s length amount for a cross-border transaction:
+    (ii) an amount of profit attributable to a permanent establishment in New Zealand of the member or another member of the large multinational group:
+  (d) provides, by the demand date, a response that the Commissioner considers does not fulfil the requirements of the information demand.
+(2) The Commissioner must notify the member by a further notice that if the member does not provide a satisfactory response to the information demand before the date (the information deadline) that is 1 month after the date of the further notice,—
+  (a) the Commissioner may rely on the information held by the Commissioner in exercising the Commissioner’s powers to prosecute, penalise, assess, or reassess the member or other members of the large multinational group for a tax year to which the information required by the information demand relates; and
+  (b) information required by the information demand and not provided to the Commissioner by the information deadline will not be allowed as evidence for use by the member or other member of the large multinational group in a dispute concerning an action of the Commissioner referred to in paragraph (a).
+(3) If a member of a large multinational group disputes a prosecution, imposition of a penalty, assessment, or reassessment, relating to a tax year, and information that is required by an information demand and relates to the tax year is not provided to the Commissioner before the information deadline, the information that is not the subject of a court order under subsection (4) is not—
+  (a) allowed as evidence for use by the member in a disputes procedure under Part 4A:
+  (b) admissible as evidence for the member in proceedings under Part 8 or Part 8A, or other proceedings.
+(4) A member of a large multinational group is allowed to use information in a way that would otherwise be prevented by subsection (3) if a court or Authority—
+  (a) determines that obtaining the information in response to the information demand would have required an investment by the member of time and resources that would have been unreasonable in relation to the relevance of the information to the tax issues involved; and
+  (b) determines that admission of the evidence is necessary to avoid manifest injustice to the member; and
+  (c) orders that the information be allowed or admissible as evidence in the proceedings.
 
 **Taxpayer's obligations to keep records**
 
@@ -3102,6 +3122,12 @@ A taxpayer who has a tax credit under section LB 3 or subparts LE or LO of the I
 
 ### 78F Time for providing information in relation to underlying foreign credits
 [Repealed]
+
+### 78G Country-by-country report from large multinational group
+(1) A large multinational group with an ultimate owner that is a New Zealand resident must provide to the Commissioner a report, for each period set by the Commissioner, that includes—
+  (a) the information described in the OECD transfer pricing guidelines, Chapter V, Annex III; and
+  (b) other information that is required by the Commissioner.
+(2) The report for a period must be provided to the Commissioner by the date that is 12 months after the end of the period.
 
 ### 79 Other annual returns
 In addition to the returns required by sections 33 and 41 to 44, every person, whether a taxpayer or not, shall make to the Commissioner such annual returns as may be prescribed for the purposes of this Act or the Income Tax Act 2007.
@@ -6348,6 +6374,12 @@ The purposes of this Part are—
 (3) Subsection (2) does not apply if the employer is authorised under section 36B(1) to furnish the employer monthly schedule in a format that is not prescribed.
 (4) The non-electronic filing penalty is the greater of $250 or $1 for each employee employed at any time during the month to which the employer monthly schedule relates.
 (5) For GST purposes, the non-electronic filing penalty is $250.
+
+### 139AB Penalty for member of large multinational group failing to provide information
+(1) A member of a large multinational group is liable to pay a penalty under this section if—
+  (a) the Commissioner requires the member under section 17 to provide information or a document that is treated under section 17(1CB) as being in the knowledge, possession, or control of the company; and
+  (b) the member fails to provide the information or document within the time allowed by the Commissioner.
+(2) The penalty under this section is the amount specified by the Commissioner, which must not exceed $100,000.
 
 ### 139B Late payment penalty
 (1) This section applies to a taxpayer if and to the extent to which the taxpayer does not pay by the default date an amount of tax (the unpaid tax), calculated by the taxpayer as payable or for which the taxpayer is assessed, and—
