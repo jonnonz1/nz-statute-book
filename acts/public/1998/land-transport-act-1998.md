@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2017-10-01_
+_Consolidation as at 2018-06-27_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4306,6 +4306,7 @@ The functions of the Minister under this Act are—
 (3) The Agency may, by warrant, appoint an employee of the Agency to be—
   (a) an enforcement officer for the purposes of—
     (i) any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)﻿(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139:
+    (ia) subpart 3 of Part 2 of the Land Transport Management Act 2003:
     (ii) Part 5 of the Land Transport Management Act 2003:
     (iii) any provision in the Land Transport Management Act 2003 relating to tolls; or
   (b) a dangerous goods enforcement officer.
