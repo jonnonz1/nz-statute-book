@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-06-22_
+_Consolidation as at 2018-06-27_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -249,7 +249,7 @@ Purposes
 Entry into force
 (3) An agreement to which subsection (1)﻿(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
 Overriding effect
-(4) Despite anything in this Act, except subsection (5) or (5B) or section BG 1 (Tax avoidance), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 1993, a double tax agreement has effect in relation to—
+(4) Despite anything in this Act, except subsection (5), or section RF 11C (Interest paid by non-resident companies to non-residents) or (5B) or section BG 1 (Tax avoidance), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 1993, a double tax agreement has effect in relation to—
   (a) income tax:
   (b) any other tax imposed by this Act:
   (c) the exchange of information that relates to a tax, as defined in paragraphs (a)﻿(i) to (v) of the definition of tax in section 3 of the Tax Administration Act 1994.
@@ -26104,6 +26104,11 @@ Treatment of persons acquiring goods
 Exemption
 (3) Person A is not liable as agent for the payment of income tax if the Commissioner is satisfied that in corresponding circumstances in a country or territory outside New Zealand, person B, if resident in New Zealand, would not be liable for income tax in that country or territory.
 
+### HD 30 Members of wholly-owned large multinational group
+A member of a wholly-owned large multinational group who is a New Zealand resident or has a permanent establishment in New Zealand is treated as an agent of a member of the large multinational group (the principal member) who is a non-resident in relation to unpaid tax of the principal member if—
+  (a) the principal member fails to pay the unpaid tax; and
+  (b) the Commissioner notifies the member that the member has the obligations of an agent for the principal member and the unpaid tax.
+
 ### Subpart HE — Mutual associations
 
 ### HE 1 Income and deductions of mutual associations
@@ -38027,6 +38032,14 @@ The rate of NRWT payable on a payment of non-resident passive income in the form
     (ii) the non-resident does not have a direct voting interest in the company of 10% or more and, in the absence of this section, the post-treaty tax rate for the dividend would be less than 15% if no imputation credits were attached to the payment:
   (b) to the extent to which the payment is not a fully-imputed dividend, the post-treaty tax rate for the dividend that, in the absence of this section, would apply if no imputation credits were attached to the payment.
 
+### RF 11C Interest paid by non-resident companies to non-residents
+When this section applies
+(1) This section applies in relation to an amount of non-resident passive income that consists of interest and is paid—
+  (a) by a company that is resident in a country or territory outside New Zealand for the purposes of a double tax agreement; and
+  (b) to a person that is resident in a country or territory outside New Zealand for the purposes of the double tax agreement.
+Application of double tax agreement and NRWT rules to amount
+(2) The double tax agreement and the NRWT rules apply to the amount as being interest, despite any provision in the double tax agreement that would otherwise require the amount to be treated as being a dividend.
+
 ### RF 12 Interest paid by approved issuers or transitional residents
 When this section applies
 (1) This section applies in relation to an amount of non-resident passive income that consists of—
@@ -40881,6 +40894,10 @@ In this Act, unless the context requires otherwise,—
       (ii) has a permanent establishment in New Zealand
   - **large budget screen production grant**
   - **large business AIM-capable system** means an AIM-capable accounting system approved by the Commissioner under section 15Y of the Tax Administration Act 1994 for use by an approved class of taxpayers with annual gross income of more than $5,000,000
+  - **large multinational group** , for an income year or a period set by the Commissioner under section 78G of the Tax Administration Act 1994, means a consolidated accounting group that, in the income year or period,—
+    (a) has a member resident in New Zealand or income with a source in New Zealand; and
+    (b) has a member resident in a country or territory other than New Zealand; and
+    (c) in the preceding income year or period, has annual consolidated group revenue equal to or exceeding the exemption threshold referred to in paragraph 5.53 of the OECD transfer pricing guidelines
   - **late balance date** has the meaning given in section YE 1(7) (References to balance dates and years)
   - **lease** —
     (a) means a disposition that creates a leasehold estate:
@@ -41211,7 +41228,7 @@ In this Act, unless the context requires otherwise,—
       (i) designed for the seating of 2 or more adult persons; and
       (ii) permanently affixed to the motor vehicle; and
       (iii) neither collapsible nor capable of being folded down
-  - **minimum family tax credit** is defined in section MA8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **minimum family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
   - **minimum market value interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
     (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
@@ -44670,6 +44687,47 @@ expenditure related to the acquisition of land
 | 12 | Management studies or efficiency surveys. |
 | 13 | Reproduction of a commercial product or process by a physical examination of an existing system or from plans, blueprints, detailed specifications, or publicly available information. |
 | 14 | Pre-production activities, such as a demonstration of commercial viability, tooling-up, and trial runs. |
+
+## Schedule 23 — Meaning of permanent establishment
+
+###  Permanent establishment
+(1) The term permanent establishment means a fixed place of business through which the business of a person or other entity (an enterprise) is wholly or partly carried on.
+(2) The term permanent establishment includes especially—
+  (a) a place of management; and
+  (b) a branch; and
+  (c) an office; and
+  (d) a factory; and
+  (e) a workshop; and
+  (f) a mine, an oil or gas well, a quarry or any other place of extraction of natural resources.
+(3) A building site, or a construction, installation or assembly project, or supervisory activities in connection with that building site or construction, installation or assembly project, constitutes a permanent establishment if it lasts more than 6 months.
+(4) An enterprise shall be deemed to have a permanent establishment in a country or territory (the State) and to carry on business through that permanent establishment if for more than 183 days in any 12-month period—
+  (a) it carries on activities in that State which consist of, or which are connected with, the exploration for or exploitation of natural resources, including standing timber, situated in that State; or
+  (b) it operates substantial equipment in that State.
+(5) Notwithstanding the provisions of clauses 1 and 2 where an enterprise of a State performs services in another State (the other State)—the activities carried on in that other State in performing these services shall be deemed to be carried on through a permanent establishment of the enterprise situated in that other State, unless these services are limited to those mentioned in clause 7 which, if performed through a fixed place of business, would not make this fixed place of business a permanent establishment under the provisions of that clause. For the purposes of this clause, services performed by an individual on behalf of one enterprise shall not be considered to be performed by another enterprise through that individual unless that other enterprise supervises, directs or controls the manner in which these services are performed by the individual.
+  (a) through an individual who is present in that other State for a period or periods exceeding in the aggregate 183 days in any 12-month period, and more than 50% of the gross revenues attributable to active business activities of the enterprise during this period or periods are derived from the services performed in that other State through that individual; or
+  (b) for a period or periods exceeding in the aggregate 183 days in any 12-month period, and these services are performed for the same project or for connected projects through 1 or more individuals who are present and performing such services in that other State—
+(6) For the sole purpose of determining whether the time period referred to in clauses 3, 4, and 5 has been exceeded,—These different periods of time shall be added to the period of time during which the first-mentioned enterprise has carried on the activities referred to in clause 3, 4, or 5.
+  (a) where an enterprise of a State carries on activities referred to in clause 3, 4, or 5 for a period of more than 30 days and these activities are carried on during periods of time that do not last more than the period stipulated in those clauses; and
+  (b) connected activities are carried on in that other State during different periods of time, each exceeding 30 days, by 1 or more enterprises closely related to the first-mentioned enterprise.
+(7) Notwithstanding the preceding provisions of this section, the term permanent establishment shall be deemed not to include—Provided that such activity, or in the case of subclause (f), the overall activity of the fixed place of business, is of a preparatory or auxiliary character.
+  (a) the use of facilities solely for the purpose of storage, display, or delivery of goods or merchandise belonging to the enterprise:
+  (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display, or delivery:
+  (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise:
+  (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise or of collecting information, for the enterprise:
+  (e) the maintenance of a fixed place of business solely for the purpose of carrying on, for the enterprise, any other activity:
+  (f) the maintenance of a fixed place of business solely for any combination of activities mentioned in subclauses (a) to (e)—
+(7.1) Clause 7 shall not apply to a fixed place of business that is used or maintained by an enterprise if the same enterprise or a closely related enterprise carries on business activities at the same place or at another place in the same State and—Provided that the business activities carried on by the 2 enterprises at the same place, or by the same enterprise or closely related enterprises at the 2 places, constitute complementary functions that are part of a cohesive business operation.
+  (a) that place or other place constitutes a permanent establishment for the enterprise or the closely related enterprise under the provisions of this Schedule; or
+  (b) the overall activity resulting from the combination of the activities carried on by the 2 enterprises at the same place, or by the same enterprise or closely related enterprises at the 2 places, is not of a preparatory or auxiliary character—
+(8) Notwithstanding the provisions of clauses 1 and 2 but subject to the provisions of clause 9, where a person is acting in a State on behalf of an enterprise and, in doing so,—that enterprise shall be deemed to have a permanent establishment in that State in respect of any activities which that person undertakes for the enterprise, unless the activities of such person are limited to those mentioned in clause 7 which, if exercised through a fixed place of business (other than a fixed place of business to which clause 7.1 would apply), would not make this fixed place of business a permanent establishment under the provisions of that subsection.
+  (a) habitually concludes contracts, or habitually plays the principal role leading to the conclusion of contracts that are routinely concluded without material modification by the enterprise, and these contracts are—
+    (i) in the name of the enterprise; or
+    (ii) for the transfer of the ownership of, or for the granting of the right to use, property owned by that enterprise or that the enterprise has the right to use; or
+    (iii) for the provision of services by that enterprise; or
+  (b) manufactures or processes in a State for the enterprise goods or merchandise belonging to the enterprise,—
+(9) Clause 8 shall not apply where the person acting in a State on behalf of an enterprise of the other State carries on business in the first-mentioned State as an independent agent and acts for the enterprise in the ordinary course of that business. Where, however, a person acts exclusively or almost exclusively on behalf of 1 or more enterprises to which it is closely related, that person shall not be considered to be an independent agent within the meaning of this clause with respect to any such enterprise.
+(10) The fact that a company which is a resident of a State controls or is controlled by a company which is a resident of the other State, or which carries on business in that other State (whether through a permanent establishment or otherwise), shall not of itself constitute either company a permanent establishment of the other.
+(11) For the purposes of this clause, a person or enterprise is closely related to an enterprise if, based on all the relevant facts and circumstances, 1 has control of the other or both are under the control of the same persons or enterprises. In any case, a person or enterprise shall be considered to be closely related to an enterprise if 1 possesses directly or indirectly more than 50% of the beneficial interest in the other (or, in the case of a company, more than 50% of the aggregate vote and value of the company’s shares or of the beneficial equity interest in the company) or if another person or enterprise possesses directly or indirectly more than 50% of the beneficial interest (or, in the case of a company, more than 50% of the aggregate vote and value of the company’s shares or of the beneficial equity interest in the company) in the person and the enterprise or in the 2 enterprises.
 
 ## Schedule 24 — International tax rules: grey list countries
 
