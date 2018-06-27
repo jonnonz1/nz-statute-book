@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2018-05-27_
+_Consolidation as at 2018-06-27_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -3708,6 +3708,7 @@ Until the commencement date (within the meaning of section 394 of the Criminal P
 |  | 119(1) and (2) | Enforcement officer may enter any premises if he or she is in fresh pursuit of driver suspected of committing certain offences against Land Transport Act 1998, or of driver who has failed to provide certain information | All (except subpart 3) |
 |  | 119(3) | Enforcement officer may enter premises without warrant, in exigent circumstances, to seize and impound vehicle liable to impoundment under various provisions of Land Transport Act 1998 | All (except subpart 3) |
 |  | 119(5) | Enforcement officer may obtain and execute warrant to enter premises and seize and impound vehicle liable to impoundment under various provisions of Land Transport Act 1998 | All |
+| Land Transport Management Act 2003 | 65ZH | Enforcement officer may obtain and execute warrant to search for evidence of offences against section 65ZI of Land Transport Management Act 2003 | All |
 | Local Government Act 2002 | 165 | Enforcement officer may obtain and execute warrant to enter private land involved in commission of offence and seize and impound property | All (except sections 118 and 119) |
 |  | 172 | Warranted enforcement officer may enter land for purpose of detecting breach of bylaw or commission of offence against Local Government Act 2002, if officer has reasonable grounds for suspecting such breach or offence has occurred, or is occurring, on the land (note: warrant must be obtained before this power can be exercised in respect of dwellinghouse) | All (except that sections 118 and 119 apply to constables only) |
 |  | 173(1) | Local authority, for purposes of doing anything it is authorised to do under Local Government Act 2002, may enter property without giving prior notice in certain circumstances involving sudden emergency or if there is danger to any works or to adjoining property | All (except subparts 2 and 3 and sections 118 and 119) |
