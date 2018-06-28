@@ -1,5 +1,5 @@
 # Antarctica (Environmental Protection) Act 1994
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-06-28_
 
 > An Act to provide for the comprehensive protection of the Antarctic environment and to recognise Antarctica as a natural reserve devoted to peace and science and to implement the Protocol on Environmental Protection to the Antarctic Treaty
 
