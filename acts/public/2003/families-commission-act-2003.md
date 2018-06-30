@@ -1,5 +1,5 @@
 # Families Commission Act 2003
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-06-30_
 
 ### 1 Title
 This Act is the Families Commission Act 2003.
