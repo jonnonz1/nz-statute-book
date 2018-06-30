@@ -1,5 +1,5 @@
 # Families Commission Amendment Act 2014
-_Consolidation as at 2014-03-25_
+_Consolidation as at 2018-06-30_
 
 ### 1 Title
 This Act is the Families Commission Amendment Act 2014.
@@ -29,7 +29,7 @@ Replace section 7 with:Commission's main functions
 ### 7 Section 8 amended (Commission's additional functions)
 (1) In the heading to section 8, replace additional functions with advocacy function.
 (2) In section 8, replace main function stated in section 7 with advocacy function.
-(3) After section 8(b), insert:.
+(3) After section 8(b), insert:
   (ba) to prepare and publish an annual Families Status Report that measures and monitors the well-being of New Zealand families:
 (4) In section 8, insert as subsections (2) and (3):
   (2) The advocacy function does not include acting as an advocate for the interests of a particular family or particular families in connection with a particular case or issue.
@@ -51,14 +51,14 @@ After section 8, insert: Commission's monitoring, evaluation, and research funct
 In section 13(1), replace powers and functions with advocacy function and associated powers.
 
 ### 10 Cross-heading above section 15 replaced
-Replace the cross-heading above section 15 with:Members of Commission.
+Replace the cross-heading above section 15 with:Members of Commission
 
 ### 11 Section 17 repealed (Commission is Crown entity)
 Repeal section 17.
 
 ### 12 Section 18 amended (Membership of Commission)
 (1) Repeal section 18(2) to (4).
-(2) In section 18(5)(b), replace Commissioners with members.
+(2) In section 18(5)﻿(b), replace Commissioners with members.
 
 ### 13 New sections 18A to 18C and cross-heading inserted
 After section 18, insert:Families CommissionerSocial Science Experts PanelSocial Science Experts PanelMembership of Social Science Experts Panel
