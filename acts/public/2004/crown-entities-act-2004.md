@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-06-30_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1936,7 +1936,6 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Accreditation Council |  |  |  |  |  |
 | Arts Council of New Zealand Toi Aotearoa |  |  |  |  | ✓ |
 | Broadcasting Commission |  |  |  |  |  |
-| Families Commission |  |  |  |  |  |
 | Government Superannuation Fund Authority | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Guardians of New Zealand Superannuation |  |  |  |  |  |
 | Heritage New Zealand Pouhere Taonga |  |  |  |  | ✓ |
