@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2018-03-02_
+_Consolidation as at 2018-07-01_
 
 > Title
 
@@ -22,6 +22,7 @@ _Consolidation as at 2018-03-02_
       (i) an orphan's benefit payable under section 28 of the Social Security Act 1964; or
       (ii) an unsupported child's benefit payable under section 29 of that Act; or
       (iii) a child disability allowance payable under section 39A of that Act; or
+      (iiia) a winter energy payment payable under Part 1KA of that Act; or
       (iv) temporary additional support under section 61G of that Act or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004; or
       (v) a disability allowance payable under section 69C of that Act
   - **constable** has the meaning given in section 4 of the Policing Act 2008
