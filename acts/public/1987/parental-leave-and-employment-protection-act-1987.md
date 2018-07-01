@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2017-12-05_
+_Consolidation as at 2018-07-01_
 
 > Title
 
@@ -11,7 +11,7 @@ _Consolidation as at 2017-12-05_
 The purpose of this Act is to—
   (a) set minimum entitlements with respect to parental leave for male and female employees; and
   (b) protect the rights of employees during pregnancy and parental leave; and
-  (c) entitle certain persons to up to 18 weeks of parental leave payments.
+  (c) entitle certain persons to up to 22 weeks of parental leave payments.
 
 ### 1B Outline
 (1) This section is a guide to the overall scheme and effect of this Act, but does not affect the interpretation or application of the other provisions of this Act.
@@ -21,19 +21,19 @@ The purpose of this Act is to—
 Primary carer entitlements
 (3) The person who is the child’s primary carer (see section 7) may be entitled to parental leave and parental leave payments as follows:
   (a) for an employee who meets the 6-month employment test (see section 2BA),—
-    (i) up to 18 weeks of primary carer leave (see Part 1); and
+    (i) up to 22 weeks of primary carer leave (see Part 1); and
     (ii) an extension to 26 weeks (see Part 3 (extended leave)), which may need to be shared with the person’s spouse or partner (see section 28); and
-    (iii) if the employee is eligible to receive parental leave payments (see section 71CA), up to 18 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A); and
+    (iii) if the employee is eligible to receive parental leave payments (see section 71CA), up to 22 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A); and
   (b) for an employee who meets the 12-month employment test (see section 2BA),—
-    (i) up to 18 weeks of primary carer leave (see Part 1); and
+    (i) up to 22 weeks of primary carer leave (see Part 1); and
     (ii) an extension to 52 weeks (see Part 3 (extended leave)), which may need to be shared with the person’s spouse or partner (see section 28); and
-    (iii) if the employee is eligible to receive parental leave payments (see section 71CA), up to 18 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A); and
+    (iii) if the employee is eligible to receive parental leave payments (see section 71CA), up to 22 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A); and
   (c) for an employee who does not meet the 6-month employment test but who meets the parental leave payment threshold test (see section 2BA(4)),—
     (i) if agreed to by the employee’s employer, a period of negotiated carer leave (see Part 3A); and
-    (ii) up to 18 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A); and
+    (ii) up to 22 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A); and
   (d) for a self-employed person,—
     (i) as much parental leave as the person wishes to take; and
-    (ii) if the person meets the parental leave payment threshold test (see section 2BA(4)), up to 18 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A).
+    (ii) if the person meets the parental leave payment threshold test (see section 2BA(4)), up to 22 weeks of parental leave payments and up to 13 weeks of preterm baby payments (see Part 7A).
 Spouse/partner entitlements
 (4) The spouse or partner of a child’s primary carer may, if he or she assumes responsibility for the care of the child, be entitled to partner’s leave as follows:
   (a) for an employee who meets the 6-month employment test (see section 2BA),—
@@ -231,11 +231,11 @@ An employee shall not be entitled to parental leave in respect of a child by vir
   (b) a period of leave in the nature of parental leave under any Act other than this Act or under any employment agreement.
 
 ### 9 Duration of primary carer leave
-(1) Primary carer leave must be taken in 1 continuous period not exceeding 18 weeks, subject to subsection (2).
-(2) If a female employee begins her primary carer leave—the female employee shall be entitled to take at least 12 weeks of her primary carer leave after the expected date of delivery and, if necessary for that purpose, to extend the duration of her primary carer leave.
+(1) Primary carer leave must be taken in 1 continuous period not exceeding 22 weeks, subject to subsection (2).
+(2) If a female employee begins her primary carer leave—the female employee shall be entitled to take at least 16 weeks of her primary carer leave after the expected date of delivery and, if necessary for that purpose, to extend the duration of her primary carer leave.
   (a) on a date specified, pursuant to section 13(1), in a certificate; or
   (b) on a date appointed, pursuant to section 14, by her employer,—
-(3) A period of primary carer leave in excess of 18 weeks taken by a female employee under subsection (2) is to be treated as primary carer leave for the purposes of this Act, but must not be taken into account in assessing under section 26 any period of extended leave to which the female employee or her spouse or partner may be entitled under this Act.
+(3) A period of primary carer leave in excess of 22 weeks taken by a female employee under subsection (2) is to be treated as primary carer leave for the purposes of this Act, but must not be taken into account in assessing under section 26 any period of extended leave to which the female employee or her spouse or partner may be entitled under this Act.
 
 ### 10 Date of commencement of primary carer leave
 Primary carer leave begins,—
@@ -349,7 +349,7 @@ Partner’s leave may, by agreement between the employee and his or her employer
   (a) 26 weeks, if both meet the 6-month employment test; or
   (b) 52 weeks, if both meet the 12-month employment test; or
   (c) 52 weeks, if one meets the 12-month employment test and the other meets the 6-month employment test (in which case the person who meets the 6-month employment test may not take more than 26 weeks of extended leave out of the combined total entitlement of 52 weeks).
-(3) If an employee takes primary carer leave in respect of a child, the period of extended leave to which the employee and his or her spouse or partner are entitled in respect of the child is the relevant period specified in subsection (1) or (2) reduced by the total period of primary carer leave taken, excluding any period of primary carer leave in excess of 18 weeks taken under section 9(2).
+(3) If an employee takes primary carer leave in respect of a child, the period of extended leave to which the employee and his or her spouse or partner are entitled in respect of the child is the relevant period specified in subsection (1) or (2) reduced by the total period of primary carer leave taken, excluding any period of primary carer leave in excess of 22 weeks taken under section 9(2).
 (4) If a female employee takes special leave under section 15, the period of extended leave to which that female employee or her spouse or partner is entitled in accordance with this Act is not reduced.
 (5) If an employee takes a period of partner’s leave, the period of extended leave to which the employee and his or her spouse or partner are entitled in accordance with this Act is not reduced.
 (6) The period of extended leave to which an employee and his or her spouse or partner are entitled is not increased by the number of hours worked by the employee or his or her spouse or partner on a keeping-in-touch day in accordance with section 71CE(2) or 71DB(2).
@@ -503,7 +503,7 @@ An employer must deal with a request for negotiated carer leave as soon as possi
     (ii) the employee's spouse or partner,—
   (d) contain an assurance by the employee that the aggregate periods of leave of the kinds specified in subsection (2) that are proposed to be taken in respect of the child by the employee and the employee’s spouse or partner will not exceed the maximum combined entitlements of the employee and the employee’s spouse or partner set out in section 26(2).
 (2) The kinds of leave referred to in subsection (1)﻿(d) are—
-  (a) all primary carer leave (other than primary carer leave in excess of 18 weeks taken under section 9(2)); and
+  (a) all primary carer leave (other than primary carer leave in excess of 22 weeks taken under section 9(2)); and
   (b) all extended leave under this Act; and
   (c) all leave (other than partner’s leave) to which the employee or the employee’s spouse or partner is entitled in respect of the child by or under any Act other than this Act or under any employment agreement.
 
@@ -619,7 +619,7 @@ Nothing in section 43(b)﻿(ii) shall—
 (2) If a female employee is on primary carer leave under section 8 in relation to a child to whom she gave birth, her employer may, in giving consent under subsection (1)﻿(e), make it conditional on the employee giving to the employer, before the employee ends her primary carer leave under subsection (1)﻿(f) or (g), a certificate from a medical practitioner to the effect that she is fit to return to work.
 (3) Subject to subsection (4), an employee who is on parental leave may, if the employer consents, extend the parental leave until a specified date which shall thereafter be the date on which the employee's parental leave will end.
 (4) Without limiting any right of an employee to take a period of leave otherwise than by virtue of this Act, and subject to section 9(2), nothing in subsection (3) of this section shall entitle an employee to extend any period of parental leave with the result that,—
-  (a) in the case of a period of primary carer leave, the period of primary carer leave exceeds 18 weeks:
+  (a) in the case of a period of primary carer leave, the period of primary carer leave exceeds 22 weeks:
   (b) in the case of a period of partner’s leave, the duration of partner’s leave exceeds—
     (i) 1 week if the employee meets the 6-month employment test:
     (ii) 2 weeks if the employee meets the 12-month employment test; or
@@ -846,7 +846,7 @@ Nothing in this Act shall limit the procedures by which State employees may enfo
 
 ### 71A Purpose
 The purpose of this Part is to entitle certain persons who become the primary carer in respect of a child, and who stop working or take a period of leave, to—
-  (a) up to 18 weeks of parental leave payments out of public money; and
+  (a) up to 22 weeks of parental leave payments out of public money; and
   (b) additional preterm baby payments out of public money if the child is born before the end of the 36th week of gestation.
 
 ### 71AB Application to members of Armed Forces
@@ -928,13 +928,13 @@ In this Part, a self-employed person is not to be treated as having returned to 
 **Keeping-in-touch days**
 
 ### 71CE Keeping-in-touch days
-(1) An employee is not to be treated as having returned to work because he or she performs 40 hours or fewer of paid work for his or her employer during the employee’s parental leave payment period, if that work is performed on keeping-in-touch days in accordance with subsection (2).
+(1) An employee is not to be treated as having returned to work because he or she performs 52 hours or fewer of paid work for his or her employer during the employee’s parental leave payment period, if that work is performed on keeping-in-touch days in accordance with subsection (2).
 (2) An employee may perform 1 or more hours of paid work for his or her employer on a keeping-in-touch day if—
   (a) both the employee and the employer consent to the employee performing work for the employer on that day; and
   (b) the day is not within 28 days after the date on which the child in respect of whom the employee took parental leave was born.
 (3) An employee is treated as having returned to work, and all parental leave payments received by the employee in respect of a period after the date on which the employee is treated as having returned to work are recoverable under section 71X as an overpayment, if the employee—
   (a) performs paid work for his or her employer within 28 days after the date of birth of the child; or
-  (b) performs more than a total of 40 hours of paid work for his or her employer during a period of paid parental leave.
+  (b) performs more than a total of 52 hours of paid work for his or her employer during a period of paid parental leave.
 (4) Subsections (2)﻿(b) and (3)﻿(a) do not apply to an employee if the parental leave payment the employee receives is in respect of a child born before the end of the 36th week of gestation.
 
 **Entitlement to parental leave payment**
@@ -1055,8 +1055,8 @@ A person is not entitled to a parental leave payment in respect of a child if—
 
 ### 71J Duration of parental leave payment
 (1) A parental leave payment is payable—
-  (a) for 1 continuous period not exceeding 18 weeks; or
-  (b) if part of the entitlement is transferred under section 71E, for 1 continuous period per person, so long as the 2 continuous periods do not together exceed 18 weeks.
+  (a) for 1 continuous period not exceeding 22 weeks; or
+  (b) if part of the entitlement is transferred under section 71E, for 1 continuous period per person, so long as the 2 continuous periods do not together exceed 22 weeks.
 (2) This section is subject to section 71DA(5)﻿(b) (which applies to a person who becomes entitled to a preterm baby payment while receiving a parental leave payment).
 
 ### 71K Start of parental leave payment
@@ -1074,7 +1074,7 @@ A person is not entitled to a parental leave payment in respect of a child if—
 
 ### 71L End of parental leave payment
 (1) A parental leave payment is payable to a person in respect of a child for a period that ends on the earlier of—
-  (a) 18 weeks after the date on which parental leave payments began in accordance with section 71K; or
+  (a) 22 weeks after the date on which parental leave payments began in accordance with section 71K; or
   (b) the date on which the person returns to work as an employee or a self-employed person; or
   (c) the date on which the person ceases to be the primary carer in respect of the child.
 (2) Subsection (1)﻿(c) does not apply, and parental leave payments continue to be payable until the earlier of the dates specified in subsection (1)﻿(a) and (b), if the person receiving the parental leave payments is the biological mother of the child to whom the payments relate and—
@@ -1089,16 +1089,16 @@ A person is not entitled to a parental leave payment in respect of a child if—
 
 ### 71M Amount of parental leave payment
 (1) The rate of parental leave payment payable to any eligible employee is the lesser of—
-  (a) $527.72 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $564.38 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the employee's ordinary weekly pay before the commencement of the parental leave payments; and
     (ii) 100% of the employee's average weekly income from work.
 (1A) The rate of parental leave payment payable to any eligible self-employed person is the lesser of—
-  (a) $527.72 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $564.38 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the self-employed person's average weekly income from work; and
     (ii) the minimum amount of parental leave payment for a self-employed person set under section 71N(4).
-(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $527.72 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
+(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $564.38 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
 (2)
 
 ### 71N Annual adjustment of parental leave payment rates
