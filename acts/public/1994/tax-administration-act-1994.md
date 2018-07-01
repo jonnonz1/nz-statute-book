@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2018-07-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -176,7 +176,8 @@ _Consolidation as at 2018-06-27_
   - **exempt person** is defined in section 53(1) for the purposes of that section and section 27(2)
   - **exploratory well** , in section 91(1)﻿(e), has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **exploratory well expenditure** , in section 91(1), has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **family notice of entitlement** , in relation to any person, means a notice issued by the Commissioner under section 80KD for the estimated entitlement of the person to a tax credit under the family scheme in subparts MA to MF and MZ of the Income Tax Act 2007
+  - **family notice of entitlement** , in relation to any person, means a notice issued by the Commissioner under section 80KD for the estimated entitlement of the person to a tax credit under the family scheme
+  - **family scheme** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **family trust** is defined in section 173M(5) for the purpose of that section
   - **FATCA agreement** means the Agreement between the Government of New Zealand and the Government of the United States of America to Improve International Tax Compliance and to Implement FATCA, commonly known as the intergovernmental agreement, which was brought into force for New Zealand by the Double Tax Agreements (United States of America—FATCA) Order 2014 (LI 2014/209), as amended from time to time
   - **first payment period** , in section 47 and 173, has the same meaning as in section YA 1 of the Income Tax Act 2007
@@ -1458,7 +1459,7 @@ An employee who wishes to have a tax code for their employment as a private dome
 (4) When an employee provides a special tax code certificate to their employer or the Commissioner provides a special tax code notification to the responsible department, the provisions of the certificate or notification override anything in this Act and the Income Tax Act 2007 other than—
   (a) the employee’s duties under sections RA 8, RA 10, and RD 4(2) of the Income Tax Act 2007; and
   (b) subsection (6) and sections 24G and 24H.
-(5) An employee’s entitlement under subparts MA to MF and MZ of the Income Tax Act 2007 is not taken into account in setting a special tax code.
+(5) An employee’s entitlement under the family scheme is not taken into account in setting a special tax code.
 (5B) This section does not apply to an employee who is a non-resident seasonal worker.
 (6) The Commissioner may cancel a special tax code at any time, and upon cancellation, the Commissioner must notify the cancellation to—
   (a) the employee, if the employee has been given a special tax code certificate under subsection (1B)﻿(b); or
@@ -2250,18 +2251,18 @@ An employer that is not required to furnish an employer monthly schedule electro
   (b) for the purposes of subsection (1)﻿(a), the return may be filed under an electronic signature if the requirements of section 13B are met.
 (3) A tax return that is subject to this section is treated as being furnished on the date it is received at an office of the department.
 
-### 41 Annual returns by persons who receive family assistance credit
-(1) If a person is eligible to receive a credit of tax under subparts MA to MF and MZ of the Income Tax Act 2007, the person must apply to the Commissioner for the credit of tax in the manner specified by the Commissioner.
+### 41 Annual returns by persons who receive credit under family scheme
+(1) If a person is eligible to receive a credit of tax under the family scheme, the person must apply to the Commissioner for the credit of tax in the manner specified by the Commissioner.
 (2) A person's application must be signed and provide the information the Commissioner requires.
 (3) Subsection (4) applies if, apart from this section, a person is not required to furnish a return of income for a tax year and—
-  (a) for the whole or part of the tax year the person is issued with a family notice of entitlement under subparts MA to MF and MZ of the Income Tax Act 2007; or
-  (b) after the end of the income year, the person applies to the Commissioner for a family assistance credit or a minimum family tax credit for that tax year.
+  (a) for the whole or part of the tax year the person is issued with a family notice of entitlement under the family scheme; or
+  (b) after the end of the income year, the person applies to the Commissioner for a tax credit under the family scheme for that tax year.
 (4) Whether or not the person derived income in the tax year, the person must furnish to the Commissioner a return for the tax year, in the form prescribed by the Commissioner, providing—
   (a) details of each family assistance credit paid to the person in the tax year; and
   (b) the information relevant to the calculation of the person's family scheme income for the tax year; and
   (c) other information required by the Commissioner.
 (5)
-(6) A person who is eligible for a tax credit under subparts MA to MF and MZ of the Income Tax Act 2007 in an income year, or would be eligible if their spouse, civil union partner, or de facto partner were not a transitional resident, and who would otherwise be a transitional resident in an income year may apply not to be a transitional resident under section HR 8(4) of that Act.
+(6) A person who is eligible for a tax credit under the family scheme in an income year, or would be eligible if their spouse, civil union partner, or de facto partner were not a transitional resident, and who would otherwise be a transitional resident in an income year may apply not to be a transitional resident under section HR 8(4) of that Act.
 (7) A notice of election under section HR 8(4) must be—
   (a) in a form acceptable to the Commissioner; and
   (b) be received by the Commissioner on or before the latest of the following:
@@ -3246,13 +3247,14 @@ A person who meets the requirements of section 33AA(1) may, at any time after th
 (1) An application referred to in section 80KA must—
   (a) be in a form prescribed by the Commissioner; and
   (b) be signed by the person and any other person who, at the time at which the application is made, expects to be, in the selected period, their spouse, civil union partner, or de facto partner; and
-  (c) give, for each person who signed the application (the signatory), a complete statement of—
+  (c) unless the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year, give for each person who signed the application (the signatory) a complete statement of—
     (i) the family scheme income that is expected to be attributable to the tax year; and
     (ii) the family scheme income that is expected to be attributable to the selected period; and
   (d) choose whether the instalments should be paid weekly or fortnightly; and
   (e) contain any other information required by the Commissioner; and
-  (f) be accompanied by the information described in subsection (2).
-(2) The application under subsection (1) must be accompanied by,—
+  (f) be accompanied by the information described in subsection (2), unless the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year; and
+  (g) be accompanied by the information described in subsection (2)﻿(c) and (d), if the only tax credit the person expects to be entitled to for the relevant tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year.
+(2) The information for the purposes of subsection (1)﻿(f) and (g) is—
   (a) for a signatory who expects to derive income from employment, evidence of the amount of income from employment derived by them in the period of 1 month immediately before the date on which the application is made:
   (b) for a signatory who expects to derive income from a business,—
     (i) a copy of the financial statements of the business for the tax year or corresponding income year immediately before the tax year that contains the selected period; or
@@ -3270,14 +3272,14 @@ A person who meets the requirements of section 33AA(1) may, at any time after th
   (b) the Commissioner has enough other evidence of the person’s entitlement.
 (2) The Commissioner must—
   (a) provide the person with a notice of entitlement; and
-  (b) pay to the person instalments of a tax credit under section MA 1 or, as applicable, sections MB 1 and ME 1 of the Income Tax Act 2007 for a period of 56 days.
+  (b) pay to the person instalments of a tax credit under the family scheme for a period of 56 days.
 (3) Subsection (4) applies when the person or their spouse, civil union partner, or de facto partner does not provide the tax file number of a child for whom an entitlement to a tax credit arises within the 56-day period.
 (4) The Commissioner must stop paying the tax credit for the child until the tax file number is provided.
 
 ### 80KD What Commissioner must do on receipt of application
 (1) This section applies when the Commissioner receives an application that complies with section 80KB.
 (2) The Commissioner must do the following:
-  (a) determine under sections MD 1, or MD 1 and ME 1 of the Income Tax Act 2007, as applicable, the estimated amount of tax credit to which the person would be entitled for the selected period; and
+  (a) determine under the family scheme, the estimated amount of tax credit to which the person would be entitled for the selected period; and
   (b) calculate under section MF 3 of that Act the amount that, if the Commissioner gave a person a notice of entitlement for the whole selected period, would be the interim instalment of the tax credit that would be set out in the notice; and
   (c) for all or some of the selected period, give the person a notice (the notice of entitlement) setting out—
     (i) the amount of the instalment of the tax credit to which the person is entitled; and
@@ -3342,9 +3344,13 @@ A notice of entitlement issued under section 80KD—
 (1) This section applies when the Commissioner thinks that the time taken to provide a notice of entitlement has been unduly delayed.
 (2) The Commissioner may pay the instalments of the tax credit that the Commissioner thinks should be paid, having regard to the circumstances of the case.
 
-### 80KK Payment by instalment of family tax credit (without abatement)
-(1) This section applies when the Commissioner considers, on the basis of information provided under an information sharing agreement referred to in section 81A by the chief executive, that a person is entitled to family tax credit.
-(2) In the period described in subsection (3), the Commissioner must pay to the person the family tax credit by instalment and without abatement.
+### 80KK Payment by instalment of family tax credit and Best Start tax credit (without abatement)
+(1) This section applies when the Commissioner considers, on the basis of information provided under an information sharing agreement referred to in section 81A by the chief executive, that a person is entitled to—
+  (a) the family tax credit:
+  (b) the Best Start tax credit.
+(2) In the period described in subsection (3), the Commissioner must pay to the person the following tax credits by instalment and without abatement:
+  (a) the family tax credit:
+  (b) the Best Start tax credit.
 (3) The period—
   (a) starts on the day following the day that the chief executive says is the last day that the person is entitled to—
     (i) an income-tested benefit, an orphan’s benefit, or an unsupported child’s benefit paid or payable under the Social Security Act 1964; or
@@ -3352,8 +3358,10 @@ A notice of entitlement issued under section 80KD—
   (b) ends on the earlier of—
     (i) the day before the first day stated in a notice of entitlement that is provided later:
     (ii) a period of not more than 56 days, starting on the first day referred to in paragraph (a).
-(4) Subsection (5) applies when the chief executive pays the family tax credit for part of the 56-day period referred to in subsection (3)﻿(b)﻿(ii).
-(5) The period referred to in subsection (3)﻿(b)﻿(ii) is reduced by the period for which the chief executive paid the family tax credit.
+(4) Subsection (5) applies when the chief executive pays the following tax credits for part of the 56-day period referred to in subsection (3)﻿(b)﻿(ii):
+  (a) the family tax credit:
+  (b) the Best Start tax credit.
+(5) The period referred to in subsection (3)﻿(b)﻿(ii) is reduced by the period for which the chief executive paid the family tax credit or the Best Start tax credit, as applicable.
 
 ### 80KL Payment of instalments into accounts
 (1) Unless the Commissioner in a particular case otherwise determines, it is a condition of the receipt of tax credits paid by instalments by the Commissioner that—
@@ -3389,20 +3397,23 @@ A notice of entitlement issued under section 80KD—
 (1) This section applies when—
   (a) in a tax year, the chief executive of the administering department pays to a person an income-tested benefit; and
   (b) the chief executive is satisfied that—
-    (i) the person is entitled to receive a WFF tax credit for which the amount of the family credit abatement is zero; or
-    (ii) the chief executive is authorised by an Order in Council made under section 225A to pay the person a WFF tax credit for which the family credit abatement is more than zero.
+    (i) the person is entitled to receive a WFF tax credit for which the amount of the family credit abatement or the Best Start credit abatement, as applicable, is zero; or
+    (ii) the chief executive is authorised by an Order in Council made under section 225A to pay the person a WFF tax credit for which the family credit abatement or the Best Start credit abatement, as applicable, is more than zero.
 (2) When paying the income-tested benefit, the chief executive must pay to the person the WFF tax credit that the chief executive considers that the person is entitled to at the time of the payment.
 
 ### 80KO Determining WFF tax credit
 In determining the amount of WFF tax credit that is payable under section 80KN, the chief executive must—
-  (a) use the method set out in section MF 3 of the Income Tax Act 2007, if required to calculate the amount of the family credit abatement; and
-  (b) take into account the rate of family tax credit and the family credit abatement given by sections MD 3 and MD 13 of that Act.
+  (a) use the method set out in section MF 3 of the Income Tax Act 2007, if required to calculate the amount of the family credit abatement or Best Start credit abatement; and
+  (b) take into account the rate of family tax credit and the family credit abatement given by sections MD 3 and MD 13 of that Act; and
+  (c) take into account the rate of Best Start tax credit and the Best Start credit abatement given by sections MG 2 and MG 3 of that Act.
 
 ### 80KP When entitlement to income-tested benefit ends
 (1) This section applies for the purposes of section 80KN when—
   (a) a person’s entitlement to an income-tested benefit ends; and
-  (b) they apply to the chief executive to have the payment of their family tax credit continued.
-(2) The chief executive must continue to pay the family tax credit to the person for a period determined by the chief executive in consultation with the Commissioner. The amount is determined as if the person were still being paid an income-tested benefit during this period.
+  (b) they apply to the chief executive to have the payment of their following tax credits continued:
+    (i) the family tax credit:
+    (ii) the Best Start tax credit.
+(2) The chief executive must continue to pay the family tax credit or the Best Start tax credit, as applicable, to the person for a period determined by the chief executive in consultation with the Commissioner. The amount is determined as if the person were still being paid an income-tested benefit during this period.
 
 ### 80KQ No authority to pay WFF tax credit
 (1) This section applies when the chief executive is not satisfied that they are authorised to pay the WFF tax credit to the person under the section.
@@ -3438,8 +3449,10 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
 ### 80KU Payment of tax credit taken over by Commissioner
 (1) This section applies when—
   (a) in a tax year, the chief executive stops paying a person an amount of tax credit with an income-tested benefit; and
-  (b) the person applies to the Commissioner for payment of WFF tax credit, family tax credit, or minimum family tax credit; and
-  (c) the Commissioner determines that the person is entitled to the tax credit under section MD 1 of the Income Tax Act 2007 for the period described in subsection (3).
+  (b) the person applies to the Commissioner for payment of WFF tax credit, family tax credit, minimum family tax credit, or Best Start tax credit; and
+  (c) the Commissioner determines that the person is entitled to the following tax credits for the period described in subsection (3):
+    (i) the tax credit under section MD 1 of the Income Tax Act 2007:
+    (ii) the tax credit under section MG 1 of that Act.
 (2) For the period described in subsection (3), the Commissioner may pay to the person the arrears of the tax credits, other than the in-work tax credit and the parental tax credit.
 (3) The period—
   (a) starts on the later of—
@@ -3448,7 +3461,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (b) ends on the day before the first day stated in a notice of entitlement that is later given to the person.
 
 ### 80KV Statement of family scheme income
-(1) This section applies for a notice of entitlement that the Commissioner has given to a person for a tax year.
+(1) This section applies for a notice of entitlement that the Commissioner has given to a person for a tax year, unless the only tax credit the person expects to be entitled to for the tax year is the Best Start tax credit and all dependent children will be less than 1 year old on the last day of the tax year.
 (2) The person must, in the time within which the person is required to file the person’s return of income for the tax year, give the Commissioner a complete statement of the person’s family scheme income for the tax year.
 (3) The person must include in the statement described in subsection (2) the family scheme income of the person’s spouse, civil union partner, or de facto partner, as applicable, unless that other person gives a statement of their own family scheme income under subsection (4).
 (4) The person’s spouse, civil union partner, or de facto partner, as applicable, may give a separate complete statement of their own family scheme income, in the time within which the person is required to file the person’s return of income.
@@ -3468,6 +3481,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (a) tax credit is the amount of the tax credit for the tax year calculated for the person under—
     (i) section MD 1 of the Income Tax Act 2007, if the person is entitled to a WFF tax credit:
     (ii) section ME 1 of that Act, if the person is entitled to the minimum family tax credit:
+    (iii) section MG 1 of that Act, if the person is entitled to the Best Start tax credit:
   (b) final instalment is the amount of the final instalment received by the person in the tax year:
   (c) parental tax credit is the amount of any parental tax credit that is included in the final instalment received by the person in the tax year.
 (5) Subsection (6) applies—
@@ -3478,6 +3492,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (a) tax credit is the amount of the tax credit for the tax year calculated for the person under—
     (i) section MD 1 of the Income Tax Act 2007, if the person is entitled to a WFF tax credit:
     (ii) section ME 1 of that Act, if the person is entitled to the minimum family tax credit:
+    (iii) section MG 1 of that Act, if the person is entitled to the Best Start tax credit:
   (b) parental tax credit is the total amount of parental tax credit to which the person is entitled for the tax year calculated under section MD 12 of the Income Tax Act 2007.
 
 ## Part 4 — Secrecy
@@ -3837,12 +3852,12 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
   - **parental leave** has the meaning in section 2 of the Parental Leave and Employment Protection Act 1987
   - **responsible department** means the department for the time being responsible for the administration of the Parental Leave and Employment Protection Act 1987.
 
-### 85I Use of Parental Leave and Employment Protection Act 1987 and parental tax credit information to determine entitlement
+### 85I Use of Parental Leave and Employment Protection Act 1987, Best Start tax credit, and parental tax credit information to determine entitlement
 (1) For the purpose of section 71G(1) of the Parental Leave and Employment Protection Act 1987, if the Commissioner as a delegate under section 71ZA of that Act receives an application for parental leave payments or preterm baby payments in relation to a child, the Commissioner may—
   (a) compare applicant information and information held by the Commissioner:
   (b) refuse the application for payment of parental leave or for preterm baby payments if a comparison under paragraph (a) indicates that the employee or his or her spouse has received a payment of parental tax credit in respect of the child.
 (2) The Commissioner may treat information obtained while acting as a delegate of the responsible department under section 71ZA of the Parental Leave and Employment Protection Act 1987 as information obtained for the purposes of administering the Inland Revenue Acts.
-(3) The Commissioner may refuse or recover a parental tax credit under section MD 11 of the Income Tax Act 2007 in respect of a child if a parental leave payment or preterm baby payment under Part 7A of the Parental Leave and Employment Protection Act 1987 is to be paid or has been paid to the applicant in respect of the child.
+(3) The Commissioner may refuse or recover a parental tax credit under section MD 11 of the Income Tax Act 2007 or a Best Start tax credit under section MG 1 of that Act, as applicable, in respect of a child if a parental leave payment or preterm baby payment under Part 7A of the Parental Leave and Employment Protection Act 1987 is to be paid or has been paid to the applicant in respect of the child.
 
 ### 85J Disclosure of information for administration of Australian wine producer rebate
 (1) The purpose of this section is to facilitate the exchange of information between the Commissioner and the Australian Taxation Office and the New Zealand Customs Service for the purpose of administering the entitlements of New Zealand resident wine producers to Australian wine producer rebates.
@@ -4059,7 +4074,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (l) the assessment results from an income statement under Part 3A; or
   (lba) the assessment is of a penalty under section 142H or 142I; or
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
-  (m) the assessment includes a calculation by the Commissioner of a tax credit identified in subparts MA to MF and MZ of the Income Tax Act 2007.
+  (m) the assessment includes a calculation by the Commissioner of a tax credit under the family scheme.
 
 ### 89D Taxpayers and others with standing may issue notices of proposed adjustment
 (1) If the Commissioner—the taxpayer may, subject to subsection (2), issue a notice of proposed adjustment in respect of the assessment except to the extent to which the assessment takes into account amounts arising under subpart HB of the Income Tax Act 2007.
@@ -6981,6 +6996,9 @@ Deferrable tax is due and payable on the day which is the 30th day after the las
 (1) A non-electronic filing penalty under section 139AA is due and payable on the 5th day of the month following the month in which the employer was required to furnish an employer monthly schedule in a prescribed electronic format.
 (2) For GST purposes, a non-electronic filing penalty is due and payable 30 days after the end of the month in which the registered person is required to provide the GST information to the Commissioner.
 
+### 142GB Due date for payment of penalty by member of large multinational group
+The due date for payment, by a member of a large multinational group, of a penalty under section 139AB is the date that the Commissioner specifies in the notice of assessment for the penalty, which must be 30 days or more after the date on which the notice of assessment is issued.
+
 ### 142H Failures of financial institutions to meet requirements under Part 11B and CRS applied standard
 (1) If a financial institution fails to meet a requirement under Part 11B and the CRS applied standard for financial accounts maintained by the financial institution, other than a requirement referred to in subsection (3), the financial institution is liable to pay a penalty of $300 for each failure to which subsection (2) does not apply and for which no penalty under subsection (5) is imposed.
 (2) A financial institution is not liable to pay a penalty under subsection (1) for a failure that—
@@ -8100,7 +8118,7 @@ The Governor-General may, by Order in Council, specify the date from which a typ
   (b)
   (c) by way of interest under this Act or the Income Tax Act 2007; or
   (d)
-  (e) by way of credits of tax under subparts MA to MF and MZ of the Income Tax Act 2007; or
+  (e) by way of credits of tax under the family scheme; or
   (f) in accordance with section RM 8 of that Act; or
   (g) in accordance with section RP 4 of that Act—
 (2) On the recovery under Part 10A of an amount of unpaid tax, the amount recovered may be paid to the government of the territory outside New Zealand out of a Crown Bank Account without further appropriation than this section.
