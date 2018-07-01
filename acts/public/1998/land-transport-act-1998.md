@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2018-07-01_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -19,8 +19,9 @@ _Consolidation as at 2018-06-27_
   - **alcohol interlock device** means a device that—
     (a) is a part of the starting system of a motor vehicle; and
     (b) uses breathalyser technology to determine whether the starting system should start the motor vehicle; and
-    (c) is, for the purposes of section 65A, approved by the Minister of Transport (after consulting the Science Minister) by notice in the Gazette
-  - **alcohol interlock licence** means a driver licence issued to a person who has been authorised to obtain an alcohol interlock licence by an order of a court made under section 65A(2)
+    (c) is, for the purposes of sections 65AB to 65AK, approved by the Minister of Transport (after consulting the Science Minister) by notice in the Gazette
+  - **alcohol interlock licence** means a driver licence issued to a person who has been authorised to obtain an alcohol interlock licence by an order of a court made under section 65AC
+  - **alcohol interlock sentence** has the meaning given in section 65AC
   - **alternative fuel system** means a fuel storage and conducting system that is used to provide liquid petroleum gas, compressed natural gas, or any other pressurised liquid or gaseous fuel (other than petrol or diesel) for the purpose of propulsion of a vehicle
   - **ambulance** means a motor vehicle designed and used principally for the carriage of sick or injured persons
   - **apparently younger than 20** has the same meaning as it has in section 71
@@ -51,6 +52,10 @@ _Consolidation as at 2018-06-27_
   - **certificate of loading** means a certificate of loading issued under the regulations or the rules
   - **Commissioner** means the Commissioner of Police
   - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice in the Gazette, to determine whether a person’s capacity to drive is impaired
+  - **concurrent offence** means an offence—
+    (a) that is not a qualifying offence; and
+    (b) that occurred as part of the same series of events as the facts that gave rise to the person’s conviction for a qualifying offence; and
+    (c) for which the offender may or must be disqualified from holding or obtaining a driver licence under this Act or under section 124 of the Sentencing Act 2002
   - **control** , in relation to a transport service, means direct or indirect control of the management of the whole or part of the transport service by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service that gives the person a significant influence on the operation of the whole or part of the service (whether or not other persons are also involved)
   - **court** means the District Court
   - **cruising** means driving repeatedly in the same direction over the same section of a road in a motor vehicle in a manner that—
@@ -205,6 +210,9 @@ _Consolidation as at 2018-06-27_
     (b) an offence in respect of the failure to comply with the directions given by a traffic signal or a traffic sign that is a variable traffic or lane control sign; or
     (c) any offence against regulations made under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 that is declared by regulations under this Act to be a moving vehicle offence for the purposes of this definition; or
     (d) a toll offence
+  - **non-serviced area** means an area that is identified on an Internet site maintained by or on behalf of the Agency and—
+    (a) is 70 km or more from an approved provider’s service centre or is on an island without an approved provider’s service centre; and
+    (b) is not able to be serviced by an approved provider via remote technology
   - **novice driver** has the meaning specified by the rules
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **offence against this Act** includes an offence against or prescribed by the regulations
@@ -303,6 +311,7 @@ _Consolidation as at 2018-06-27_
       (i) any controlled drug analogue (within the meaning of controlled drug analogue in section 2(1) of the Misuse of Drugs Act 1975); and
       (ii) any prescription medicine; but
     (c) excludes any substance, preparation, mixture, or article specified in paragraph (a) or (b)﻿(i) if it is excluded by regulations made under this Act
+  - **qualifying offence** is an offence described in section 65AB(1)
   - **rail operator** has the same meaning as in section 4(1) of the Railways Act 2005
   - **rail participant** has the same meaning as in section 4(1) of the Railways Act 2005
   - **rail vehicle** has the same meaning as in section 4(1) of the Railways Act 2005
@@ -447,7 +456,7 @@ _Consolidation as at 2018-06-27_
       (iii) administration or recording:
     (c) in any paid employment (other than paid leave or paid breaks of at least 30 minutes' duration), whether or not related to transport activities
   - **zero alcohol licence** means a licence that—
-    (a) is issued to a person who is authorised to obtain the licence by a court order made under section 65B(2); and
+    (a) is issued to a person who is authorised to obtain the licence by a court order referred to in section 65B(1); and
     (b) authorises the person to drive on the condition that neither the person’s breath nor the person’s blood contains alcohol.
 (1A) If a transport service includes the use of vehicles that are specified as exempt vehicles in the regulations or the rules, the operation of those vehicles is not to be treated as part of the operation of the service.
 (2) A notice or replacement notice given by any Minister in the Gazette for any purpose specified in subsection (1) or in section 75A(5), and a corresponding notice given under any former enactment and continued in force by this Act, is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and may be amended from time to time, or revoked or replaced, by the responsible Minister in the same manner.
@@ -1355,18 +1364,24 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (3) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
+(3A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
 (4) If a person is convicted of a third or subsequent offence against subsection (1) (whether or not of the same kind of offence as the previous offences),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
+(4A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (4)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or the Transport Act 1962 corresponding to an offence specified in subsection (1) is to be treated as a conviction for an offence specified in that subsection.
-(6) The imposition of a mandatory disqualification under this section is subject to section 81.
+(6) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 33 Contravention of section 5(2) or (3)
 (1) A person commits an offence if the person holds or applies for a driver licence while disqualified from doing so or while his or her driver licence is suspended.
+(1A) Subsection (1) does not apply in relation to—
+  (a) an application for an alcohol interlock licence made in accordance with an alcohol interlock sentence; or
+  (b) an application for a zero alcohol licence made in accordance with section 65B.
 (2) If a person is convicted of an offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
+(3) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 33A Offence to operate as driving instructor without authorisation
 (1) A person commits an offence if the person provides, or offers or agrees to provide, driving instruction in a motor vehicle for financial or commercial gain without an appropriate current driver licence authorising the person to operate as a driving instructor.
@@ -1389,7 +1404,8 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (2) If a person is convicted of an offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
+(3) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 36 Contravention of section 7 or section 22 involving injury
 (1) A person commits an offence if the person—
@@ -1399,7 +1415,8 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (2) If a person is convicted of an offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
+(3) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 36AA Contravention of section 7 by causing death of another person
 (1) A person commits an offence if the person—
@@ -1408,7 +1425,8 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (2) If a person is convicted of an offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 10 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
+(3) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 36A Contravention of section 22A
 (1) A person commits an offence if the person—
@@ -1420,12 +1438,14 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (2) A person who commits an offence against subsection (1)﻿(a) or (c) and by that act or omission causes an injury to another person—
   (a) is liable on conviction to imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
+(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
 (3) A person who commits an offence against subsection (1)﻿(a) or (c) and by the act or omission causes the death of another person—
   (a) is liable on conviction to imprisonment for a term not exceeding 10 years or a fine not exceeding $20,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(4) A person who commits an offence against subsection (1)﻿(a) or (c) but does not, by that act or omission, cause injury to, or the death of, another person is liable on conviction to the penalties set out in section 35(2), and section 35(2) and (3) apply as if the offence were an offence against section 35(1)﻿(a) (operating a motor vehicle recklessly on a road).
+(3A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
+(4) A person who commits an offence against subsection (1)﻿(a) or (c) but does not, by that act or omission, cause injury to, or the death of, another person is liable on conviction to the penalties set out in section 35(2), and section 35(2), (2A), and (3) apply as if the offence were an offence against section 35(1)﻿(a) (operating a motor vehicle recklessly on a road).
 (5) A person who commits an offence against subsection (1)﻿(b) is liable on conviction to a fine not exceeding $3,000.
-(6) The imposition of a mandatory disqualification under this section is subject to section 81.
+(6) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 36AB Contravention of sections 7 and 114
 [Repealed]
@@ -1453,7 +1473,8 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (2) If a person is convicted of an offence against subsection (1) or subsection (1A),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(2A) If an offence against subsection (1) or (1A) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
+(3) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 39 Aggravated careless use of vehicle causing injury or death
 (1) A person commits an offence if the person causes bodily injury to or the death of a person by carelessly using a motor vehicle while—
@@ -1462,7 +1483,8 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 (2) If a person is convicted of an offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 years or a fine not exceeding $10,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
+(3) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 **Offences relating to rules**
 
@@ -1596,12 +1618,12 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $5,000.
 
 ### 55A Offences concerning alcohol interlock devices
-(1) This section applies if a person tampers with, or attempts to tamper with, an alcohol interlock device, or uses an alcohol interlock device in contravention of an order made by a court under section 65A(2).
+(1) This section applies if a person tampers with, or attempts to tamper with, an alcohol interlock device, or uses an alcohol interlock device in contravention of an alcohol interlock sentence.
 (2) If this section applies,—
   (a) the person who holds the alcohol interlock licence to which the alcohol interlock device applies commits an offence; or
-  (b) the person who tampered with, or attempted to tamper with, the alcohol interlock device or used the alcohol interlock device in contravention of an order made under section 65A(2) commits an offence.
+  (b) the person who tampered with, or attempted to tamper with, the alcohol interlock device or used the alcohol interlock device in contravention of an alcohol interlock sentence commits an offence.
 (3) It is a defence to proceedings for an offence against subsection (2)﻿(a) if the person who holds an alcohol interlock licence establishes that the person—
-  (a) did not tamper with, or attempt to tamper with, the alcohol interlock device or use the alcohol interlock device in contravention of an order made under section 65A(2); and
+  (a) did not tamper with, or attempt to tamper with, the alcohol interlock device or use the alcohol interlock device in contravention of an alcohol interlock sentence; and
   (b) was not involved in the commission of the offence against subsection (2)﻿(b).
 (4) The maximum penalty on conviction for an offence against subsection (2)﻿(a) or (b) is a fine not exceeding $3,000.
 
@@ -1620,12 +1642,17 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person is convicted of a first or second offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
+(3A) The mandatory disqualification in subsection (3)﻿(b) does not apply if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
 (4) If a person is convicted of a third or subsequent offence against subsection (1) or subsection (2), or any of sections 57A(1), 58(1), 60(1), or 61(1) or (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(4A) Subsection (4)﻿(b) does not apply if an order is made under section 65.
+(4A) The mandatory disqualification in subsection (4)﻿(b) does not apply if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (4) is to be treated as a conviction for an offence specified in that subsection.
-(6) The imposition of a mandatory disqualification under this section is subject to section 81.
+(6) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 57 Contravention of specified breath or blood-alcohol limit by person younger than 20
 (1) A person younger than 20 commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 150 micrograms of alcohol per litre of breath.
@@ -1635,7 +1662,10 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person commits an offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
-(4) The imposition of a mandatory disqualification under this section is subject to section 81.
+(4) The mandatory disqualification in subsection (3)﻿(b) does not apply if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
+(5) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 57AA Contravention of specified breath or blood alcohol limit by holder of alcohol interlock licence or zero alcohol licence
 (1) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, contains alcohol but the proportion of alcohol does not exceed 250 micrograms of alcohol per litre of breath.
@@ -1643,12 +1673,18 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) If a person is convicted of an offence against subsection (1) or (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
+(3A) The mandatory disqualification in subsection (3)﻿(b) does not apply if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
 (4) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 250 micrograms of alcohol per litre of breath.
 (5) A person who holds an alcohol interlock licence or a zero alcohol licence commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, exceeds 50 milligrams of alcohol per 100 millilitres of blood.
 (6) If a person is convicted of an offence against subsection (4) or (5),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(7) The imposition of a mandatory disqualification under this section is subject to section 81.
+(7) The mandatory disqualification in subsection (6)﻿(b) does not apply if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
+(8) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 57A Driving while impaired and with blood that contains evidence of use of qualifying drug
 (1) A person who drives or attempts to drive a motor vehicle on a road commits an offence if—
@@ -1657,12 +1693,14 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
+(2A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
 (3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), 60(1), 61(1), and 61(2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
+(3A) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
 (4) Subsection (3)﻿(b) does not apply if an order is made under section 65.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
-(6) The imposition of a mandatory disqualification under this section is subject to section 81.
+(6) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 58 Contravention of section 12
 (1) A person commits an offence if the person drives or attempts to drive a motor vehicle on a road—
@@ -1672,12 +1710,19 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
+(2A) The mandatory disqualification in subsection (2)﻿(b) does not apply to an offence against subsection (1)﻿(a) that is a qualifying offence if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
+(2B) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
 (3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 60(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(3A) Subsection (3)﻿(b) does not apply if an order is made under section 65.
+(3A) The mandatory disqualification in subsection (3)﻿(b) does not apply to an offence against subsection (1)﻿(a) that is a qualifying offence if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
+(3B) If an offence against subsection (1) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b) does not apply and section 65AH(3)﻿(b) applies.
 (4) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
-(5) The imposition of a mandatory disqualification under this section is subject to section 81.
+(5) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 59 Failure or refusal to remain at specified place or to accompany enforcement officer
 (1) A person commits an offence if the person—
@@ -1700,16 +1745,21 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
+(2A) The mandatory disqualification in subsection (2)﻿(b) does not apply if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
 (3) If a person is convicted of a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 57A(1), 58(1), and 61(1) and (2) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions),—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
-(3A) Subsection (3)﻿(b) does not apply if an order is made under section 65.
+(3A) The mandatory disqualification in subsection (3)﻿(b) does not apply if—
+  (a) an order is made under section 65; or
+  (b) an alcohol interlock sentence is ordered under section 65AC(1).
 (3B) Subsection (3C) applies to a person who—
   (a) is required to permit a blood specimen to be taken under section 72(1)﻿(a), (b), or (e); and
   (b) when required, on a previous occasion, to permit a blood specimen to be taken under section 72(1)﻿(a), (b), or (e), was medically or physically unable to provide a blood specimen.
 (3C) A person described in subsection (3B) who is medically or physically unable to provide a blood specimen is presumed, in the absence of proof to the contrary, to have refused to permit a blood specimen to be taken.
 (4) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
-(5) The imposition of a mandatory disqualification under this section is subject to section 81.
+(5) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 61 Person in charge of motor vehicle causing injury or death
 (1) A person commits an offence if the person is in charge of a motor vehicle and causes bodily injury to or the death of a person while—
@@ -1730,8 +1780,10 @@ A court may impose a fine for an infringement offence, other than an overloading
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more in the case of a first or second offence against this section or section 56(1) or (2), 58(1), or 60(1).
 (3A) If a person is convicted of a third or subsequent offence against this section or section 56(1) or (2), or section 57A(1), or section 58(1), or section 60(1) (whether or not that offence is of the same kind as the person's first or second offence against any of those provisions), the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (3B) Subsection (3A) does not apply if an order is made under section 65.
+(3BA) If an alcohol interlock sentence is ordered under section 65AC(1) for an offence against subsection (1) or (2)﻿(a) that is a qualifying offence, then the mandatory disqualification in subsection (3)﻿(b), (3AA)﻿(b), or (3A) (whichever applies) is the period of disqualification for the purposes of section 65AE(d) (see section 65AD).
+(3BB) If an offence against subsection (2) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (3)﻿(b), (3AA)﻿(b), or (3A) (whichever applies) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
 (3C) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence specified in subsection (3A) is to be treated as a conviction for an offence specified in that subsection.
-(4) The imposition of a mandatory disqualification under this section is subject to section 81.
+(4) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 62 Causing injury or death in circumstances to which section 61 does not apply
 (1) A person commits an offence if the person causes bodily injury to or the death of a person by carelessly driving a motor vehicle (in a manner that is not an offence against section 61)—
@@ -1745,12 +1797,15 @@ A court may impose a fine for an infringement offence, other than an overloading
 (2) If a person commits an offence against subsection (1) or (1B),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 years or a fine not exceeding $10,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
+(3) Subsection (2)﻿(b) does not apply if an order is made under section 65.
+(4) If an alcohol interlock sentence is ordered under section 65AC(1) for an offence described in subsection (1)﻿(a) that is a qualifying offence, then the mandatory disqualification in subsection (2)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AD).
+(5) If an offence against subsection (1) or (1B) is a concurrent offence in relation to a qualifying offence for an alcohol interlock sentence, then the mandatory disqualification in subsection (2)﻿(b) is the period of disqualification for the purposes of section 65AE(d) (see section 65AH(3)﻿(a)).
+(6) The imposition of a mandatory disqualification under this section is subject to section 81 (which allows a court not to order disqualification for special reasons relating to the offence).
 
 ### 63 Further penalty in certain cases where person driving vehicle used in transport service
 (1) If a person is convicted of an offence against any of sections 56 to 62 that relates to the driving or attempted driving by that person of a vehicle being used in a transport service (other than a rental service), the court must, in addition to any other penalty the court may impose, disqualify that person from driving a vehicle being used in a transport service (other than a rental service) for such period exceeding 1 year but not more than 10 years as the court thinks fit.
 (2) This section does not limit the power of a court under any other provision of this Act to disqualify a person for a period exceeding 10 years.
-(3) This section overrides section 94 (which relates to community-based sentences).
+(3) This section overrides section 94 (which allows a court to substitute disqualification with a community-based sentence).
 
 **Defences**
 
@@ -1785,9 +1840,9 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) that there was or may have been an error in the result of the breath screening test or evidential breath test; or
   (b) that the occurrence or likely occurrence of any such error did not entitle or empower a person to request or require an evidential breath test or a blood test.
 
-**Repeat offences and certain first time offences**
+**Mandatory disqualification and assessment for repeat offences**
 
-### 65 Mandatory penalties for repeat offences involving use of alcohol or drugs
+### 65 Mandatory disqualification and assessment for repeat offences
 (1) This section applies to offences against any of sections 56 to 62.
 (2) A court must make an order requiring a person to attend an assessment centre and disqualifying the person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100 if—
   (a) the court convicts that person of a second or subsequent offence against any of sections 56 to 62; and
@@ -1797,43 +1852,114 @@ A court may impose a fine for an infringement offence, other than an overloading
     (i) the proportion of alcohol in the person's breath, as ascertained by an evidential breath test, exceeded 1 000 micrograms of alcohol per litre of breath; or
     (ii) the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen, exceeded 200 milligrams of alcohol per 100 millilitres of blood; or
   (b) an offence against section 59 or section 60 (which relate to failing to remain or to accompany or to permit a blood specimen to be taken for the purposes of the administration of breath tests and blood tests).
+(3A) The mandatory disqualification in subsection (2) is replaced by any alcohol interlock sentence ordered under section 65AC(1) (whether or not the alcohol interlock sentence is ordered at the same time as, or after, the order made under subsection (2)).
 (4) The court must make an order that requires a person to attend an assessment centre and that disqualifies that person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100 if—
   (a) the court convicts that person of a third or subsequent offence to which this section applies; and
   (b) the 2 or more previous offences were committed within 5 years of the date of the commission of the offence being dealt with by the court.
+(4A) The mandatory disqualification in subsection (4) is replaced by any alcohol interlock sentence ordered under section 65AC(1) (whether or not the alcohol interlock sentence is ordered at the same time as, or after, the order made under subsection (4)).
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence to which this section applies is to be treated as a conviction for an offence specified in subsection (1).
 
 ### 65A Alcohol interlock requirements for repeat offences or certain first time offences involving use of alcohol
-(1) This section applies if—
-  (a) a court convicts a person of an offence involving the use of alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2), and 62(1)﻿(a); and
-  (b) either—
-    (i) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court; or
-    (ii) the offence for which the person is convicted under paragraph (a) involves either or both of the following:
-      (A) the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, is 800 micrograms of alcohol per litre of breath or higher:
-      (B) the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, is 160 milligrams of alcohol per 100 millilitres of blood or higher.
-(2) If this section applies, the court must, if the court imposes a sentence for an alcohol interlock licence disqualification,—
-  (a) disqualify the person from holding any driver licence for a period of 3 months; and
-  (b) make an order that—
-    (i) authorises the person to apply for an alcohol interlock licence at the end of the 3-month disqualification period; and
-    (ii) requires the person, while holding an alcohol interlock licence, to—
-      (A) drive only a vehicle or vehicles to which an alcohol interlock device is fitted; and
-      (B) apply for a zero alcohol licence, which the Agency may issue only on successful completion of the criteria specified in subparagraph (iv); and
-    (iii) provides that the person may apply for any other driver licence (including, but not limited to, a limited licence) only if the person has obtained, and has satisfied the requirements of, the alcohol interlock licence; and
-    (iv) provides that the alcohol interlock device in the person's vehicle may be removed only if the person—
-      (A) has held the alcohol interlock licence for at least 12 months; and
-      (B) has not violated any of the requirements of the alcohol interlock licence during the 6-month period preceding the date on which the alcohol interlock device is removed, or has completed an assessment and has not violated any of the requirements of the alcohol interlock licence during the 3-month period preceding the date on which the alcohol interlock device is removed; and
-    (v) ends the person's disqualification under section 65, if the person was disqualified under section 65.
-(3) The imposition of a mandatory disqualification under this section is subject to section 81.
-(4) A person who is subject to an order under subsection (2) and does not apply for an interlock licence is to be treated as a person with a licence of no effect.
+[Repealed]
 
-### 65B Mandatory zero alcohol requirements for repeat offences involving use of alcohol
-(1) This section applies if—
-  (a) a court convicts a person of an offence against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2), and 62(1)﻿(a); and
-  (b) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court.
-(2) If this section applies, the court must make an order authorising the person to apply for a zero alcohol licence that has effect for a period of 3 years from the issue of the licence.
-(3) A person authorised under subsection (2) may apply for a zero alcohol licence,—
+**Mandatory alcohol interlock sentence for repeat offences and certain first offences**
+
+### 65AB Qualifying offences
+(1) Section 65AC applies if a court convicts a person of an offence in relation to alcohol against any of sections 56(1), 56(2), 57(1), 57(2), 57AA, 58(1)﻿(a), 60(1)﻿(a) to (c), 61(1), 61(2)﻿(a), and 62(1)﻿(a) and either—
+  (a) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court (whether or not section 65(2) or (4) also applies); or
+  (b) the offence for which the person is convicted involves either or both of the following:
+    (i) the proportion of alcohol in the person’s breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, is or exceeds 800 micrograms of alcohol per litre of breath:
+    (ii) the proportion of alcohol in the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or 73, is or exceeds 160 milligrams of alcohol per 100 millilitres of blood.
+(2) However, section 65AI applies instead of section 65AC if a person described in subsection (1)—
+  (a) has a medical condition (as certified by an appropriately qualified health practitioner) that renders him or her incapable of providing a valid breath sample to activate an alcohol interlock device; or
+  (b) usually lives in a non-serviced area and is not prepared to drive to a serviced area for an initial installation and any necessary service; or
+  (c) has never held a New Zealand licence; or
+  (d) holds a licence that has been revoked or is suspended (except one that is suspended under section 90, 95, or 95A); or
+  (e) is not likely, during the term of any alcohol interlock sentence that would otherwise apply, to—
+    (i) have lawful possession of a motor vehicle to the extent of being able to use it and fit it with an alcohol interlock device; or
+    (ii) have the type of possession described in subparagraph (i) of a motor vehicle that is technically able to be fitted with an alcohol interlock device.
+
+### 65AC Alcohol interlock sentence
+(1) If this section applies, the court must order an alcohol interlock sentence.
+(2) An alcohol interlock sentence—
+  (a) disqualifies the person from holding or obtaining a driver licence for the period required by section 65AE; and
+  (b) authorises the person to apply for an alcohol interlock licence at the end of that period; and
+  (c) disqualifies the person from holding or obtaining any licence except an alcohol interlock licence; and
+  (d) authorises the person, after complying with the alcohol interlock licence requirements, to apply to replace the alcohol interlock licence with a zero alcohol licence.
+(3) Subsection (1) applies unless for special reasons relating to the qualifying offence the court thinks fit to order otherwise and, if so,—
+  (a) section 94 may apply (and a reference to disqualification in section 94 must be treated as if it referred to an alcohol interlock sentence); but
+  (b) an alcohol interlock sentence may not otherwise be substituted by a community-based sentence.
+
+### 65AD Injury or death
+If a qualifying offence resulted in injury or death, the court must disqualify the person from holding or obtaining a driver licence for the period of disqualification that is appropriate under the provision relating to the qualifying offence.
+
+### 65AE Period of disqualification
+The period of disqualification for an alcohol interlock sentence is the greatest of the following periods:
+  (a) 28 days; and
+  (b) any period when the person’s licence is expired or suspended under section 90, 95, or 95A; and
+  (c) any period when the person is in prison (because of the qualifying offence or otherwise); and
+  (d) any period when the person is disqualified from holding or obtaining a driver licence, including—
+    (i) under section 65AD; or
+    (ii) under section 65AH(3); or
+    (iii) because of an existing disqualification (except a disqualification under section 65(2) or (4): see section 65(3A) and (4A)).
+
+### 65AF Alcohol interlock sentence disqualifies person from driving except under alcohol interlock licence
+A person who is subject to an alcohol interlock sentence and who does not apply for an alcohol interlock licence is disqualified from holding or obtaining a driver licence.
+
+### 65AG Alcohol interlock licence requirements
+(1) An alcohol interlock licence replaces any licence held by a person.
+(2) An alcohol interlock licence requires a person holding it to drive only a motor vehicle or vehicles to which an alcohol interlock device is fitted.
+(3) A person may apply under section 100A to replace an alcohol interlock licence with a zero alcohol licence if—
+  (a) every motor vehicle the person has driven for 12 months (or more) had an alcohol interlock device fitted and operating; and
+  (b) in relation to a person who is required to attend an assessment centre under section 65 (or any other section), the person has attended and been assessed as being a fit person to hold a driver licence; and
+  (c) during the previous 6 months, the person—
+    (i) has not attempted to drive while the person’s breath contained a proportion of alcohol above the level to which the device is set; and
+    (ii) has not committed a qualifying offence or an offence against section 55A; and
+    (iii) has complied with any relevant regulations made under this Act.
+(4) The 6-month period referred to in subsection (3)﻿(c) may be reduced to 3 months if the person has been assessed at an assessment centre (whether the attendance was voluntary or ordered by a court) as a fit person to hold a driver licence.
+
+### 65AH When court may take alcohol interlock sentence into account
+Fines, imprisonment, assessments, or community-based sentences
+(1) A court must order any fine, imprisonment, assessment, or community-based sentence that is appropriate for a qualifying offence or a concurrent offence regardless of the requirement to impose an alcohol interlock sentence.
+(2) However, the court may take into account the cost of an alcohol interlock sentence and may discount the amount of any fine.
+Disqualifications
+(3) For a concurrent offence,—Injury or deathNo injury or death
+  (a) that resulted in injury or death, the court must disqualify the person from holding or obtaining a driver licence for the period of disqualification that is appropriate under the provision relating to the concurrent offence:
+  (b) that did not result in injury or death, the court may, taking into account the alcohol interlock sentence that must be ordered for the qualifying offence under section 65AC, choose not to order any disqualification that might otherwise apply to the concurrent offence.
+
+### 65AI Exceptions: persons who are not to be given alcohol interlock sentence
+If this section applies because an exception described in section 65AB(2) applies to the person, a court must—
+  (a) disqualify the person from holding or obtaining a driver licence for the period that is appropriate under the provision relating to the qualifying offence; and
+  (b) order any fine, imprisonment, assessment, or community-based sentence that is appropriate for the qualifying offence; and
+  (c) if a disqualification is ordered, authorise the person to apply for a zero alcohol licence at the end of the period of disqualification.
+
+### 65AJ Effect of subsequent qualifying offences on alcohol interlock sentence
+(1) This section applies to a person with an alcohol interlock sentence who is convicted of a subsequent qualifying offence.
+(2) The court must replace the alcohol interlock sentence with a new alcohol interlock sentence under section 65AC unless—
+  (a) section 65AC(3) applies to the subsequent qualifying offence; or
+  (b) an exception described in section 65AB(2) now applies to the person (in which case, section 65AI applies).
+(3) Sections 65AC to 65AI apply to the new alcohol interlock sentence as if a reference to a qualifying offence in those sections were a reference to the subsequent qualifying offence.
+
+### 65AK Effect of other subsequent offences on alcohol interlock licence
+(1) This section applies to a person with an existing alcohol interlock licence—
+  (a) who is convicted of a subsequent offence that is not a qualifying offence; and
+  (b) who is disqualified under this Act or under section 124 of the Sentencing Act 2002 from holding or obtaining a driver licence for that subsequent offence.
+(2) In order to continue the existing alcohol interlock licence, the court must authorise the person to apply for a new alcohol interlock licence at the end of the disqualification referred to in subsection (1)﻿(b).
+(3) Sections 65AG, 65AJ, and this section continue to apply to the new alcohol interlock licence as if it were the previous alcohol interlock licence and the previous alcohol interlock licence had not been interrupted by the disqualification.
+(4) When the person applies under section 100A(1) in relation to the new alcohol interlock licence, the Agency must accept any compliance with the requirements of section 65AG in relation to the person’s previous alcohol interlock licence as compliance with the requirements of section 65AG in relation to the person’s new alcohol interlock licence.
+
+**Mandatory zero alcohol requirements for repeat offences**
+
+### 65B Mandatory zero alcohol requirements for repeat offences and certain first offences
+(1) This section applies if a court has authorised a person to apply for a zero alcohol licence under any of the following sections:
+  (a) section 65AC(2)﻿(d):
+  (b) section 65AI(c):
+  (c) section 100B(2)﻿(b).
+(2) A zero alcohol licence has effect for a period of 3 years from the date the licence is issued.
+(3) A person authorised under a section referred to in subsection (1) may apply for a zero alcohol licence,—
   (a) in the case of a person who is subject to 1 or more orders of disqualification, no earlier than the day after the end of the last period of disqualification to which the person is subject; or
-  (b) in the case of a person who is subject to an order made under section 65A(2)﻿(b), when the Agency makes an order under section 100A(1).
-(4) A person who is subject to an order under subsection (2) and does not apply for a zero alcohol licence is to be treated as a person with a licence of no effect under section 29(1).
+  (b) in the case of a person who is subject to an alcohol interlock sentence, when the Agency makes an order under section 100A(1).
+(4) A person who has been authorised to apply for a zero alcohol licence and who does not apply for a zero alcohol licence is disqualified from holding or obtaining a driver licence.
 
 **Name suppression**
 
@@ -2325,10 +2451,10 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 (1) If a person is convicted of an offence against this Act, and the court is satisfied that the offence relates to road safety, the court may order that the person be disqualified from holding or obtaining a driver licence for such period as the court thinks fit.
 (2) The power conferred by subsection (1) is in addition to, and does not limit, any other powers of the court.
 
-### 81 Provisions relating to mandatory disqualification
+### 81 Mandatory disqualification: court’s discretion if special reasons relating to offence
 (1) If any provision of this Act (other than section 63) requires a court to disqualify a person from holding or obtaining a driver licence or transport service licence for a period not less than the specified minimum period, the court must order that the person be disqualified accordingly unless for special reasons relating to the offence it thinks fit to order otherwise.
 (2) Nothing in any provision referred to in subsection (1) or in section 65 restricts any other duty or power of the court to disqualify a person from holding or obtaining a driver licence or transport service licence or to impose any other penalty.
-(3) This section is subject to section 94 (which relates to community-based sentences).
+(3) This section is subject to section 94 (which allows a court to substitute disqualification with a community-based sentence).
 
 ### 82 Effect of disqualification
 (1) If a person is disqualified from holding or obtaining a driver licence, the licence is suspended while the disqualification continues in force.
@@ -2382,13 +2508,14 @@ To avoid doubt, section 82A applies if a period of disqualification or suspensio
 (1) If—the court must order the person to be disqualified from holding or obtaining a driver licence for a period of 6 months, unless the court for special reasons relating to the offence thinks fit to order otherwise or the court makes an order under section 94.
   (a) a person is convicted of an offence that renders the person liable to be disqualified from holding or obtaining a driver licence; and
   (b) at the time of the commission of the offence, the person was already disqualified or was the holder of a limited licence issued under section 105 (or the corresponding provisions of a former enactment),—
+(1A) Subsection (1) does not apply if an alcohol interlock sentence is ordered under section 65AC(1).
 (2) Nothing in subsection (1) restricts the power of the court to impose any other penalty specified for the offence, and the imposition of a penalty under that subsection does not limit or affect any duty or power of the court to order a longer period of disqualification.
 
 ### 87 Particulars of certain court orders to be sent to Agency and offender
 (1) This section applies to the following orders:
   (a) an order disqualifying a person from holding or obtaining a driver licence:
-  (b) an order under section 65A(2)﻿(b)﻿(i) (authorising the person to apply for an alcohol interlock licence):
-  (c) an order under section 65B(2) (authorising the person to apply for a zero alcohol licence):
+  (b) an order under section 65AC (authorising the person to apply for an alcohol interlock licence):
+  (c) an order authorising the person to apply for a zero alcohol licence under section 65AC(2)﻿(d), 65AI(c), or 100B(2)﻿(b):
   (d) an order under section 99 (reducing a disqualification):
   (e) an order under section 105 (authorising the issue of a limited licence).
 (2) If a court makes an order to which this section applies, the Registrar of the court must notify the Agency and the offender in writing of the particulars of the order.
@@ -2624,6 +2751,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (c) the offender attends a suitable programme.
 (4) This section does not apply if—
   (a) section 63 or section 65 applies; or
+  (aa) an alcohol interlock sentence has been ordered under section 65AC(1); or
   (b) the offender is prohibited from applying for a limited licence under section 103(2)﻿(a), (b), or (d).
 
 **Mandatory suspension of driver licence**
@@ -2915,7 +3043,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b) otherwise, a further application in respect of the same order may not be considered until at least 3 months after the date of that refusal.
 (5) If the disqualification was ordered by the District Court, every application under this section concerning that disqualification must be made to a District Court Judge.
 (6) If a court makes an order under this section and the person to whom it applies is, before the end of the period for which the original order of disqualification was made, convicted of an offence for which the applicant is liable for disqualification, the court must, whether or not it imposes a penalty for that offence, order that the applicant be disqualified from holding or obtaining a driver licence for the balance of the disqualification period specified in the original order.
-(7) No application or order under this section may be made by or apply to a person who is subject to an order made under section 65 disqualifying the person from holding or obtaining a driver licence.
+(7) No application or order under this section may be made by or apply to a person who is subject to an alcohol interlock sentence or to an order made under section 65 disqualifying the person from holding or obtaining a driver licence.
 
 ### 99A Agency may approve programmes
 (1) The Agency may approve any programme for the purposes of sections 32 and 99.
@@ -2929,16 +3057,29 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (b)
 (2) If the Agency makes an order under subsection (1), every order made under section 65 that applies to the applicant concerned must be treated as having expired.
 (3) No order may be made under subsection (1) if the applicant concerned is subject to an order made under section 65 that has been in force less than 1 year and 1 day.
+(4) If the Agency decides not to remove the disqualification under subsection (1), the Agency must refer the applicant to the right of appeal under section 108.
 
-### 100A Agency to remove alcohol interlock requirements
-(1) If orders have been made under section 65A(2) in respect of a person (the applicant), the Agency must make an order removing the requirements imposed by those orders, if satisfied that the applicant is a fit person to hold a driver licence, having regard to—
-  (a) both of the following:
-    (i) a report from a medical practitioner attached to an assessment centre that is made available to the Agency by the applicant or the assessment centre; and
-    (ii) the applicant establishing to the satisfaction of the Agency that the applicant has complied with every requirement imposed by those orders, and by this Act or the rules or regulations made under this Act in relation to those orders, for a period of at least 3 months immediately before the applicant applied to have the requirements relating to the orders made under section 65A(2) removed; or
-  (b) the applicant establishing to the satisfaction of the Agency that the applicant has complied with every requirement imposed by those orders, and by this Act or the rules or regulations made under this Act in relation to those orders, for a period of at least 6 months immediately before the applicant applied to have the requirements relating to the orders made under section 65A(2) removed.
-(2) If the Agency makes an order under subsection (1), every order made under section 65A(2) that applies to the applicant concerned must be treated as having expired.
-(3) No order may be made under subsection (1) if the applicant’s alcohol interlock licence has been in force less than 12 months.
-(4) If the Agency decides not to remove the requirements imposed by the orders made under section 65A(2), the Agency must refer the applicant to the right of appeal under section 106.
+### 100A Agency may authorise removal of alcohol interlock device and certify that requirements of alcohol interlock sentence have been fulfilled
+(1) If satisfied that the holder of an alcohol interlock licence (the applicant) is a fit person to hold a driver licence and has complied with section 65AG, the Agency must—
+  (a) authorise the removal of the alcohol interlock device from every motor vehicle or vehicle the person drives; and
+  (b) certify that the requirements of the alcohol interlock sentence have been fulfilled.
+(2) If the Agency acts under subsection (1), every order made under section 65AC(1) that applies to the applicant must be treated as having expired.
+(3) If the Agency does not act under subsection (1), the Agency must refer the applicant to the right of appeal under section 108(1).
+
+### 100B Court may cancel alcohol interlock sentence and disqualify driver instead
+(1) A person may apply to a court seeking the cancellation of an alcohol interlock sentence if the person’s personal circumstances have changed significantly.
+(2) The court may cancel an alcohol interlock sentence, and if it does so, the court must—
+  (a) disqualify the person from holding or obtaining a driver licence for the period that is appropriate under the provision relating to the qualifying offence that would have applied under section 65AI if an exception described in section 65AB(2) had applied to the person; and
+  (b) authorise the person to apply for a zero alcohol licence at the end of the period of disqualification.
+(3) The court may set the length of the disqualification imposed under subsection (2)﻿(a) after having regard to—
+  (a) the length of time that has elapsed since the alcohol interlock sentence was imposed; and
+  (b) the person’s compliance with section 65AG.
+
+### 100C Court may impose alcohol interlock sentence if exception no longer applies
+(1) A person may apply to a court seeking an alcohol interlock sentence if—
+  (a) an exception described in section 65AB(2) applied to the person and therefore the person was disqualified from holding or obtaining a driver licence in accordance with section 65AI; but
+  (b) the exception no longer applies.
+(2) The court may cancel the person’s disqualification, and if it does so, the court must impose an alcohol interlock sentence.
 
 **Removal of licence suspension and return of impounded vehicles**
 
@@ -2996,8 +3137,8 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
     (iii) for an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
     (iv) for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in any of subparagraphs (i) to (iii)—
   (e) a person who—
-    (i) is subject to the requirements of an alcohol interlock licence; or
-    (ii) is subject to an order under section 65A but is yet to obtain an alcohol interlock licence:
+    (i) is subject to an alcohol interlock sentence under section 65AC; or
+    (ii) would have been subject to an alcohol interlock sentence but an exception described in section 65AB(2) applied:
   (f) a person in respect of whom a driver licence stop order is in effect.
 
 ### 104 Issue of limited licence to be delayed or prohibited in certain cases
@@ -3071,12 +3212,12 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 (5) If any such appeal to the High Court or Court of Appeal is allowed, whether in whole or in part, the Registrar of the High Court must notify the Agency of the result of the appeal.
 (6) In determining the period for which a person is disqualified from holding or obtaining a licence, any time during which the operation of the disqualification order is deferred under this section must be disregarded.
 
-### 108 Appeal against Agency’s refusal to remove disqualification
-(1) If an order has been made under section 65 and the person in respect of whom the order was made—that person may appeal to the District Court against the refusal of the Agency to make that order.
-  (a) has unsuccessfully applied to the Agency for an order under section 100; and
-  (b) considers that the Agency should have made an order under that section,—
+### 108 Appeal against Agency’s refusal to remove disqualification or replace alcohol interlock licence with zero alcohol licence
+(1) A person may appeal to the District Court against the refusal of the Agency to—
+  (a) remove a disqualification under section 100; or
+  (b) replace an alcohol interlock licence with a zero alcohol licence under section 100A.
 (2) In determining the appeal, the court may—
-  (a) direct the Agency to make an order under section 100; or
+  (a) direct the Agency to remove a disqualification or replace an alcohol interlock licence with a zero alcohol licence; or
   (b) dismiss the appeal.
 
 ### 109 Appeal against refusal of Agency to remove suspension of driver licence
@@ -5043,6 +5184,27 @@ All fees and charges (excluding applicable refunds and goods and services tax) i
 
 ### 1 Interpretation
 In this Part, amendment Act means the Land Transport Amendment Act 2017.
+
+**Alcohol interlock sentences**
+
+### 2 Pre-existing alcohol interlock orders, licences, and applications for alcohol interlock licences unaffected by subpart 1 of Part 1 of amendment Act
+Except as provided in clauses 3 and 4, subpart 1 of Part 1 of the amendment Act does not affect an alcohol interlock order made under section 65A(2) before that subpart came into force, and does not affect—
+  (a) the existing licensed status of a person who was issued with an alcohol interlock licence before that subpart came into force; or
+  (b) any application for an alcohol interlock licence made before that subpart came into force, and the application must be processed as if that subpart had not come into force; or
+  (c) the period of disqualification required by section 65A(2)﻿(a); or
+  (d) the requirement in section 65A(4) that a person who is subject to an order under section 65A(2) and who does not apply for an interlock licence is to be treated as a person with a licence of no effect.
+
+### 3 Pre-existing alcohol interlock order
+A person subject to an alcohol interlock order made under section 65A(2) before subpart 1 of Part 1 of the amendment Act came into force may apply for the order to be cancelled under section 100B as if the order were an alcohol interlock sentence ordered under that subpart.
+
+### 4 Effect of subsequent offence on pre-existing alcohol interlock licence
+(1) This clause applies to a person who has an alcohol interlock licence that was issued before subpart 1 of Part 1 of the amendment Act came into force and who commits a subsequent offence after that subpart came into force.
+(2) Sections 65AJ and 65AK apply to the person as if the person had an alcohol interlock licence issued under section 65AC.
+
+### 5 Existing zero alcohol licences and applications for zero alcohol licences unaffected by subpart 1 of Part 1 of amendment Act
+Subpart 1 of Part 1 of the amendment Act does not affect a zero alcohol licence order that was made under section 65B(2) before that subpart came into force, and does not affect—
+  (a) the existing licensed status of a person who was issued with a zero alcohol licence before that subpart came into force; or
+  (b) any application for a zero alcohol licence made before that subpart came into force, and the application must be processed as if that subpart had not come into force.
 
 **Heavy vehicles**
 
