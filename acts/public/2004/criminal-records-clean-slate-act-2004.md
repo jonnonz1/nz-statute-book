@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2018-04-10_
+_Consolidation as at 2018-07-01_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -146,7 +146,7 @@ This Act binds the Crown.
   (d) he or she has not been convicted of a specified offence; and
   (e) in the case of a court having imposed a sentence of a fine or reparation on the individual, the amount owing has been paid in full or has been deemed to have been remitted; and
   (f) in the case of a court having ordered the individual to pay costs or compensation under section 106, section 108, or section 110 of the Sentencing Act 2002 (or a corresponding provision of an earlier enactment), the amount owing has been paid in full or has been deemed to have been remitted; and
-  (g) no order has ever been made disqualifying him or her from holding or obtaining a driver licence under section 65 of the Land Transport Act 1998 or a driver's licence under section 30A of the Transport Act 1962.
+  (g) no order has ever been made about him or her under section 65 of the Land Transport Act 1998 or under section 30A of the Transport Act 1962.
 (2) An individual in relation to whom a disqualification order has been made under either of the sections referred to in subsection (1)﻿(g) does not become eligible to have the clean slate scheme apply to him or her as a consequence of the Director removing, or having removed, the disqualification under section 100 of the Land Transport Act 1998 or section 30C of the Transport Act 1962.
 
 ### 8 Effect of further conviction on eligibility
