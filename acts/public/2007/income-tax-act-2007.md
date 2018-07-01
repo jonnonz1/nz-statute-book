@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2018-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -249,7 +249,7 @@ Purposes
 Entry into force
 (3) An agreement to which subsection (1)﻿(a) and (b) apply comes into force as declared by the Governor-General by Order in Council and on the date determined under the agreement.
 Overriding effect
-(4) Despite anything in this Act, except subsection (5), or section RF 11C (Interest paid by non-resident companies to non-residents) or (5B) or section BG 1 (Tax avoidance), or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 1993, a double tax agreement has effect in relation to—
+(4) Despite anything in this Act, except subsection (5), or section RF 11C (Interest paid by non-resident companies to non-residents) or (5B) or section BG 1 or GB 54 (which relate to tax avoidance) or, or in any other Inland Revenue Act or the Official Information Act 1982 or the Privacy Act 1993, a double tax agreement has effect in relation to—
   (a) income tax:
   (b) any other tax imposed by this Act:
   (c) the exchange of information that relates to a tax, as defined in paragraphs (a)﻿(i) to (v) of the definition of tax in section 3 of the Tax Administration Act 1994.
@@ -2680,6 +2680,12 @@ When this section applies
 Income
 (2) The amount calculated under section FE 7(2) is treated as income of the reporting bank for the income year in which the measurement period falls.
 
+### CH 10B Interest apportionment: public project debt
+When this section applies
+(1) This section applies when an excess debt entity is required under section FE 7B (Interest on public project debt for certain excess debt entities) to apportion its interest expenditure arising from public project debt.
+Income
+(2) The amount calculated under section FE 7B(3) is income of the excess debt entity for the income year.
+
 **Expenditure other than for entities’ purposes**
 
 ### CH 11 Te Awa Tupua and Te Pou Tupua
@@ -2687,6 +2693,9 @@ When this section applies
 (1) This section applies when Te Pou Tupua, as defined in the Te Awa Tupua (Whanganui River Claims Settlement) Act 2017, incurs an amount of expenditure in an income year for a purpose outside the scope and effect of Part 2 of that Act.
 Income: amount of expenditure
 (2) Te Pou Tupua is treated as deriving income for the income year of an amount equal to the amount of the expenditure.
+
+### CH 12 Income from hybrid mismatch arrangement
+An amount is assessable income if it is treated as assessable income under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements).
 
 ### Subpart CO — Income from voluntary activities
 
@@ -4583,8 +4592,8 @@ Distributions
   (a) the trustee of the Niue International Trust Fund:
   (b) the trustee of the Tokelau International Trust Fund.
 
-### CW 59C Life reinsurance outside New Zealand
-An amount of life reinsurance claim derived by a life insurer is exempt income to the extent to which, for the relevant life reinsurance policy, deductions for premiums are denied under section DR 3 (Life reinsurance outside New Zealand).
+### CW 59C Life reinsurance claims from reinsurer outside New Zealand
+An amount of life reinsurance claim derived by a life insurer is exempt income to the extent to which, for the relevant life reinsurance policy, deductions for premiums are denied under section DR 3 (Life reinsurance premiums to reinsurer outside New Zealand).
 
 ### CW 60 Stake money
 Stake or prize money for a dog race, horse race, or trotting race is exempt income if—
@@ -5270,6 +5279,9 @@ Exit dividends
 Dividends after look-through
 (5) Dividends after look-through is the total dividends paid by the company after it ceases to be a look-through company and before it pays the dividend described in subsection (1) to the person.
 
+### CX 64 Income from financial instrument
+An amount is excluded income if it is treated as excluded income under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements).
+
 ### Subpart CZ — Terminating provisions
 
 ### CZ 1 Share purchase agreement income before 19 July 1968
@@ -5880,7 +5892,7 @@ Exclusion: exempt income
 (3) If a company (company A) derives exempt income or another company (company B) that is part of the same wholly-owned group of companies derives exempt income, subsection (1) applies to company A only if all the exempt income is 1 or more of the following:
   (a) dividends:
   (b) income exempted under section CW 58 (Disposal of companies’ own shares):
-  (bb) income exempted under section CW 59C (Life reinsurance outside New Zealand):
+  (bb) income exempted under section CW 59C (Life reinsurance claims from reinsurer outside New Zealand):
   (c) income exempted under section CW 60 (Stake money) and ancillary to the company’s business of breeding.
 Exclusion: non-resident company
 (4) If a company is a non-resident company, subsection (1) applies only to the extent to which the company incurs interest in the course of carrying on a business through a fixed establishment in New Zealand.
@@ -6758,6 +6770,14 @@ Commissioner’s approval
   (c) the approval is granted before the deduction is claimed.
 Link with subpart DA
 (3) This section overrides the general permission.
+
+### DB 57B Matching of deductions and income from multi-jurisdictional arrangements
+Deduction denied
+(1) An amount is not a deduction of a person if the deduction is denied under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements).
+Deduction
+(2) An amount treated as a deduction of a person under subpart FH is a deduction of the person.
+Link with subpart DA
+(3) Subsection (1) overrides, and subsection (2) supplements, the general permission. The general limitations still apply.
 
 ### DB 58 Adjustment for avoidance arrangements
 Deduction denied
@@ -8584,11 +8604,13 @@ No cross-deducting
 Link with subpart DA
 (3) Subsections (1) and (2) override the general permission.
 
-### DR 3 Life reinsurance outside New Zealand
-No deduction
-A life insurer is denied a deduction for life reinsurance premiums they incur if the relevant life reinsurance policy,—
+### DR 3 Life reinsurance premiums to reinsurer outside New Zealand
+No deduction for premiums under certain policies
+(1) A life insurer is denied a deduction for life reinsurance premiums they incur if the relevant life reinsurance policy,—
   (a) was not offered in New Zealand; and
   (b) was not entered into in New Zealand.
+No deduction for premiums to certain life reinsurers
+(2) A life insurer is denied a deduction for a life reinsurance premium incurred under a life reinsurance policy with a life reinsurer who is resident in a country or territory outside New Zealand if the life reinsurance premium is excluded from taxation by New Zealand under a double tax agreement between New Zealand and the country or territory.
 
 ### DR 4 Life insurers' claims
 No deduction on account of claims
@@ -16424,9 +16446,9 @@ Calculations for CFC
   (a) an excess debt outbound company; and
   (b) the only member of the CFC's New Zealand group.
 Formula for debt-asset ratio of CFC
-(4) The formula for the CFC's debt-asset ratio referred to in subsection (2)﻿(a) is—(total CFC’s debts − group funding) ÷ (total CFC’s assets − group funding).
+(4) The formula for the CFC's debt-asset ratio referred to in subsection (2)﻿(a) is—(total CFC’s debts − group funding) ÷ (total CFC’s assets − total CFC’s non-debt liabilities − group funding).
 Definition of items in formula
-(5) The items in the formula in subsection (4) are defined in subsections (6) to (8).
+(5) The items in the formula in subsection (4) are defined in subsections (6) to (8B).
 Total CFC's debts
 (6) Total CFC's debts is the total amount for the CFC and the accounting period, determined under generally accepted accounting practice, of the outstanding balances of—
   (a) financial arrangements entered by the CFC, each of which—
@@ -16442,6 +16464,8 @@ Group funding
     (ii) that produces for the CFC an amount that is included in the item arrangement under section EX 20B(4) or is a deductible foreign equity distribution or a distribution for fixed-rate foreign equity.
 Total CFC's assets
 (8) Total CFC's assets is the total value of the CFC's assets determined under generally accepted accounting practice.
+Total CFC’s non-debt liabilities
+(8B) Total CFC’s non-debt liabilities is the total value of the CFC’s non-debt liabilities determined under generally accepted accounting practice.
 Cost fraction for excessively debt funded CFC
 (9) For a CFC that is excessively debt funded, the item cost fraction for the purposes of this section is the amount calculated using the formula in subsection (10) and determining the debts and assets of a CFC under sections FE 8 to FE 11 as if the CFC were—
   (a) an excess debt outbound company; and
@@ -16469,9 +16493,9 @@ Members of CFC's group and calculations for group
     (iv) if the interest holder is a natural person, the person's worldwide group referred to in section FE 5(1C)﻿(a) to (c) (Thresholds for application of interest apportionment rules):
   (b) the debts and assets of the CFC's group are determined under sections FE 8 to FE 11 and FE 18 (Measurement of debts and assets of worldwide group) as if the interest holder, if a company, were an excess debt outbound company.
 Formula for CFC's group debt-asset ratio
-(3) The formula for the CFC's group debt-asset ratio is—total group debts ÷ total group assets.
+(3) The formula for the CFC's group debt-asset ratio is—total group debts ÷ (total group assets − total group non-debt liabilities).
 Definition of items in formula
-(4) The items in the formula in subsection (3) are defined in subsections (5) and (6).
+(4) The items in the formula in subsection (3) are defined in subsections (5), (6), and (6B).
 Total group debts
 (5) Total group debts is the total amount, consolidated under generally accepted accounting practice for the CFC's group and the accounting period, of the outstanding balances of—
   (a) financial arrangements entered by the group's members, each of which—
@@ -16481,6 +16505,8 @@ Total group debts
   (c) equity interests issued by a member of the group in relation to which the member makes deductible foreign equity distributions to a company that is a New Zealand resident, a CFC, or a FIF for which the interest holder uses the attributable FIF income method.
 Total group assets
 (6) Total group assets is the total value, consolidated under generally accepted accounting practice for the accounting period, of the assets of the CFC's group.
+Total group non-debt liabilities
+(6B) Total group non-debt liabilities is the total value of the group’s non-debt liabilities determined under generally accepted accounting practice.
 Formula for CFC's relative debt-asset ratio
 (7) The formula for the CFC's relative debt-asset ratio is—CFC’s debt-asset ratio ÷ group debt-asset ratio.
 Definition of items in formula
@@ -17249,7 +17275,7 @@ Use of 1 method
   (e) the fair dividend rate method; or
   (f) the cost method.
 Choosing method
-(2) The person must choose which calculation method applies by completing their return of income accordingly, but the choice is limited by sections EX 46, EX 47, EX 48, and EX 62.
+(2) The person must choose which calculation method applies by completing their return of income accordingly, but the choice is limited by sections EX 46, EX 47, EX 47B, EX 48, and EX 62.
 
 ### EX 45 Exclusion of amounts of death benefit
 No FIF income
@@ -17297,7 +17323,8 @@ Comparative value method: shares in foreign companies
     (iii) is, at all times in the income year, mainly for the benefit of a natural person for whom the gifting settlors of the trust have natural love and affection (or had natural love and affection when alive) or is mainly for the benefit of an organisation or trust with income that is exempt income under section CW 41 or CW 42 (which relate to the income of charities); and
     (iv) is not a superannuation scheme:
   (c)
-  (d) the share is a non-ordinary share described in subsection (10).
+  (d) the share is a non-ordinary share described in subsection (10):
+  (e) the person is the share user of the share under a returning share transfer to which section EX 47B applies.
 Fair dividend rate method: shares in foreign companies
 (7)
 Fair dividend rate method: exemption for shares in foreign companies
@@ -17322,6 +17349,10 @@ Certain non-ordinary shares
   (d) a share that involves an obligation—
     (i) of another person to provide to the investor, directly or indirectly through an arrangement, an amount that is more than the issue price of the share; and
     (ii) that is non-contingent or subject to a contingency that is sufficiently remote to be immaterial:
+  (db) an interest in a non-resident if—
+    (i) the non-resident is related to the person holding the interest, or the interest is or is part of a structured arrangement; and
+    (ii) the non-resident is not a foreign PIE equivalent; and
+    (iii) the non-resident is allowed a deduction against income or an equivalent tax relief, under the taxation law of a country or territory outside New Zealand, for the payment of a dividend arising from the interest:
   (e) a share of a kind that the Commissioner determines under section 91AAO of the Tax Administration Act 1994 to be an interest for which the fair dividend rate method is not available.
 Commissioner’s determination overriding subsection (10)﻿(a) to (d)
 (11) Subsection (10)﻿(a) to (d) does not apply to a share if the Commissioner determines under section 91AAO of the Tax Administration Act 1994 that the share is an interest for which the fair dividend rate method is available.
@@ -17336,6 +17367,13 @@ Meaning of gifting settlor
 A person must calculate FIF income or loss for an income year from an attributing interest that is a non-ordinary share described in section EX 46(10) using—
   (a) the comparative value method; or
   (b) the deemed rate of return method, if use of the comparative value method is not practical because the person cannot determine the market value of the attributing interest at the end of the income year.
+
+### EX 47B Method required for shares subject to certain returning share transfers
+A person must use the comparative value method to calculate FIF income or FIF loss for an income year from an attributing interest that is a share subject to a returning share transfer if—
+  (a) the person is the share user; and
+  (b) the share supplier is resident in a country or territory outside New Zealand (the foreign jurisdiction); and
+  (c) the person is related to the share supplier or the returning share transfer is or is part of a structured arrangement; and
+  (d) the taxation law of the foreign jurisdiction treats the share supplier as owning the shares subject to the returning share transfer.
 
 ### EX 48 Default calculation method
 When this section applies
@@ -17549,7 +17587,9 @@ LIFO for identifying attributing interests disposed of
 Treatment of transaction under section EX 63 or EX 67
 (14B) For the purposes of subsection (7), if the person is treated as disposing of or acquiring an attributing interest in an income year under section EX 63(5) or EX 67, the disposal or acquisition is ignored.
 Treatment of attributing interests subject to returning share transfer
-(14C) If an attributing interest in a FIF is an original share subject to a returning share transfer, for the purposes of a person using the fair dividend rate annual method to calculate FIF income, the attributing interest is treated as held by the share supplier.
+(14C) For a person using the fair dividend rate annual method to calculate FIF income for an attributing interest in a FIF that is an original share subject to a returning share transfer, the attributing interest is treated as being held by the share supplier, except if—
+  (a) the share user is related to the share supplier:
+  (b) the returning share transfer is or is part of a structured arrangement.
 Meaning of shareholding
 (15) In this section, shareholding means the number of shares or units in an attributing interest.
 
@@ -17616,7 +17656,9 @@ LIFO for identifying attributing interests disposed of
 Deemed transaction under section EX 67 ignored
 (16B) For the purposes of subsection (9), if the person is treated as disposing of or acquiring an attributing interest in an income year under section EX 67, the disposal or acquisition is ignored.
 Treatment of attributing interests subject to returning share transfer
-(16C) If an attributing interest in a FIF is an original share subject to a returning share transfer, for the purposes of a person using the fair dividend rate method to calculate FIF income, the attributing interest is treated as held by the share supplier.
+(16C) For a person using the fair dividend rate annual method to calculate FIF income for an attributing interest in a FIF that is an original share subject to a returning share transfer, the attributing interest is treated as being held by the share supplier, except if—
+  (a) the share user is related to the share supplier:
+  (b) the returning share transfer is or is part of a structured arrangement.
 Meaning of shareholding
 (17) In this section, shareholding means the number of shares or units in an attributing interest.
 
@@ -21518,18 +21560,51 @@ Definitions
 Types of ownership interest
 (2)
 
+### FE 4B Meaning of public project asset, public project debt, and public project participant debt
+Meaning of public project asset
+(1) Public project asset means an interest in an asset in New Zealand—
+  (a) arising from a project performed under a contract—
+    (i) with the Sovereign in right of New Zealand or a public authority; and
+    (ii) for which borrowing by the Crown or public authority is approved by the Minister of Finance under the Public Finance Act 1989 or the Crown Entities Act 2004; and
+    (iii) for a period of 10 years or more; and
+    (iv) requiring the persons performing the project to provide, upgrade, or create assets in New Zealand and to operate or maintain the assets in New Zealand; and
+    (v) requiring that, after completion of the contract, the assets be owned by the Sovereign in right of New Zealand or the public authority; and
+  (b) that each person performing the contract is not permitted under the terms of the contract to dispose of within 10 years from the beginning of the project, except to the Sovereign in right of New Zealand or a public authority, as provided by the contract, or to another person performing the project; and
+  (c) the income from which has a source in New Zealand for each person performing the contract.
+Meaning of public project debt
+(2) Public project debt, for an excess debt entity and a project, means a total amount of debt, each part of which is for a loan to the excess debt entity, that—
+  (a) is applied by the excess debt entity to—
+    (i) the project to give rise to public project assets or income derived from public project assets:
+    (ii) refinance a loan that has been applied in a way satisfying this paragraph; and
+  (b) does not provide funds, exceeding a minor or incidental amount, that the excess debt entity lends—
+    (i) to a person who is not an associated person performing the project; and
+    (ii) for a period that is not a delay in the application of the funds to the project; and
+  (c) gives rise to interest expenditure that the excess debt entity incurs in New Zealand.
+Meaning of public project participant debt
+(3) Public project participant debt, for an excess debt entity and a project, means an amount of a loan that is—
+  (a) public project debt for the project; and
+  (b) if the excess debt entity is the sole person performing the contract, is made or refinanced—
+    (i) by 1 of the persons (the owners) who holds ownership interests in the excess debt entity; and
+    (ii) under an arrangement between the owners with a purpose or effect that each owner provide funding in proportion to the ownership interest in the excess debt entity held by the owner; and
+  (c) if the excess debt entity is 1 of the persons performing the contract (the project participants), made or refinanced—
+    (i) by 1 of the project participants, or by a person associated with a project participant; and
+    (ii) under an arrangement between the project participants with a purpose or effect that each project participant, or a person associated with the project participant, provide funding in proportion to the interest in the project held by the project participant.
+
 ### FE 5 Thresholds for application of interest apportionment rules
 Threshold for excess debt entity
 (1) An excess debt entity must apportion its interest expenditure for an income year under section FE 6 if,—
-  (a) the excess debt entity is not a trustee and not an excess debt outbound company, or is a trustee who is not described in section FE 2(1)﻿(g), and—
+  (a) the excess debt entity is none of an excess debt outbound company, an excess debt entity with a worldwide group given by section FE 31D, and a trustee who is described in section FE 2(1)﻿(g), and—
     (i) the debt percentage of its New Zealand group for the income year is more than 60%; and
     (ii) for a company or a trustee, the debt percentage of its New Zealand group for the income year is more than 110% of the debt percentage of the worldwide group; or
+  (ab) the excess debt entity has a worldwide group given by section FE 31D, and—
+    (i) the debt percentage of its New Zealand group for the income year is more than 60%; and
+    (ii) the debt percentage of its New Zealand group for the income year is more than 100% of the debt percentage of the worldwide group; or
   (b) the excess debt entity is an excess debt outbound company, or is a trustee who is described in section FE 2(1)﻿(g), and—
     (i) the debt percentage of its New Zealand group for the income year is more than 75%; and
     (ii) for a company or a trustee, the debt percentage of its New Zealand group for the income year is more than 110% of the debt percentage of the worldwide group.
 Exceptions for excess debt outbound companies
 (1B) Despite subsection (1), an excess debt outbound company and a natural person or trustee who is described in section FE 2(1)﻿(g) do not have to apportion interest expenditure for an income year under section FE 6 if, for the income year,—
-  (a) the ratio of the total group assets measured under section FE 16 for its New Zealand group to the total group assets measured under section FE 18 for its worldwide group is 90% or greater:
+  (a) a ratio of 90% or greater is obtained by dividing the amount for its New Zealand group of the total group assets measured under section FE 16 and reduced by the total group non-debt liabilities, measured under section FE 16B, by the amount for its worldwide group of the total group assets measured under section FE 18 and reduced by the total group non-debt liabilities, measured under section FE 18:
   (ab) the company or person is eligible to choose, and chooses, under subsection (1BB) to use the threshold test in subsection (1D):
   (b)
 Eligibility for optional threshold, apportionment method
@@ -21537,7 +21612,7 @@ Eligibility for optional threshold, apportionment method
   (a) for each of the New Zealand group and the worldwide group, the amount (the adjusted net profit) given by subsection (1BC) is greater than zero; and
   (b) for the New Zealand group, the deductions for interest allowed to the group under sections DB 6 to DB 9 (which relate to deductions for interest) exceed the income of the group that is interest; and
   (c) for the worldwide group, treating the members as residents for the purposes of this paragraph, the deductions for interest allowed to the group under sections DB 6 to DB 9 exceed the income of the group that is interest; and
-  (d) for the worldwide group, the amount of the total group debt, calculated for the income year as if for the purposes of determining the group's debt percentage under section FE 12, is equal to or more than 75% of the amount of total group assets, not including goodwill; and
+  (d) for the worldwide group, the amount of the total group debt, calculated for the income year as if for the purposes of determining the group's debt percentage under section FE 12, is equal to or more than 75% of the amount of total group assets, not including goodwill and reduced by total group non-debt liabilities; and
   (e) for the worldwide group, the proportion of the total group debt, calculated as for paragraph (d), for which the lender is not associated with the group under subpart YB (Associated persons) is equal to or more than 80%.
 Formula for adjusted net profit
 (1BC) The adjusted net profit for a group is the amount calculated using the formula—net − attributed + net interest + depreciation + amortisation.
@@ -21551,7 +21626,7 @@ Definition of items in formula
   (d) depreciation is the depreciation for the group using generally accepted accounting practice:
   (e) amortisation is the amortisation for the group using generally accepted accounting practice.
 Natural persons' worldwide group total assets
-(1C) For the purposes of subsection (1B)﻿(a), the total group assets of a natural person's worldwide group under section FE 18 are measured on the basis that the natural person is an excess debt entity that has a worldwide group made up of—
+(1C) For the purposes of subsection (1B)﻿(a), the total group assets and total group non-debt liabilities of a natural person's worldwide group under section FE 18 are measured on the basis that the natural person is an excess debt entity that has a worldwide group made up of—
   (a) the natural person; and
   (b) the natural person's New Zealand group; and
   (c) all CFCs in which the natural person or a member of the natural person's New Zealand group has an income interest:
@@ -21582,22 +21657,25 @@ Equity threshold, net equity, group funding debt
   (a) for the banking group’s equity threshold, see section FE 19:
   (b) for the banking group’s New Zealand net equity, see section FE 21:
   (c) for the banking group’s funding debt, see section FE 23.
+Group acting in concert
+(6) A group of persons meets the requirements of this subsection if the members of the group act in concert and each is described in section FE 2(1)﻿(a) to (db).
 
 ### FE 6 Apportionment of interest by excess debt entity
 Who this section applies to
 (1) This section applies to an excess debt entity or a natural person if section FE 5 requires the entity or person to apportion their interest expenditure for an income year under this section. A natural person is treated as an excess debt entity for the purposes of this section other than in the item threshold amount.
 Formula
-(2) The excess debt entity is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving in the income year an amount of income calculated for the income year using the formula—(total deduction + FRD − adjust) × (total debt − concession) ÷ total debt× (group debt percentage − threshold amount) ÷ group debt percentage.
+(2) The excess debt entity is treated under section CH 9 (Interest apportionment: excess debt entity) as deriving in the income year an amount of income calculated for the income year using the formula—(total deduction − mismatch + FRD − adjust) × (total debt − concession) ÷ total debt× (group debt percentage − threshold amount) ÷ group debt percentage.
 Items in formula
 (3) In the formula,—
-  (a) total deduction is the whole amount of the excess debt entity’s deduction for interest allowed under any of sections DB 6 to DB 8 (which relate to deductions for interest expenditure) less—
+  (a) total deduction is the whole amount of the excess debt entity’s deduction for interest that would be allowed, in the absence of subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements), under any of sections DB 6 to DB 8 (which relate to deductions for interest expenditure) less—
     (i) the total amount allowed in relation to interest payable to a company that is a member of the entity’s New Zealand group under sections FE 3 and FE 28, but this does not include an amount referred to in subparagraph (ii); and
     (ii) the total amount allowed in relation to interest payable under a financial arrangement excluded from the total group debt of its New Zealand group under section FE 15:
+  (aba) mismatch is the total of amounts denied as deductions in the income year under section FH 3 (Payments under financial instruments producing deduction without income) as unrecognised amounts under section FH 3(2) and as interest under sections FH 7 and FH 11 (which provide for the matching of deductions and income from multi-jurisdictional arrangements):
   (ab) FRD is the total amount of dividends paid by the excess debt entity in relation to fixed-rate foreign equity or fixed-rate shares—
     (i) issued by the entity; and
     (ii) held by a person resident in New Zealand who is not a company that is a member of the entity's New Zealand group:
   (ac) adjust is—
-    (i) zero, if the excess debt entity is not an excess debt outbound company or a natural person or trustee described in section FE 2(1)﻿(g); or
+    (i) zero, if the excess debt entity is not an excess debt outbound company or a natural person or trustee described in section FE 2(1)﻿(g) and is a party to a financial arrangement that is removed under section FE 18(3B) from the measurement of total group debt for the excess debt entity; or
     (ii) the amount (the group finance cost) that is the total amount for the New Zealand group found by calculating for each member of the New Zealand group the total amount (the member finance cost) of the items total deduction and FRD for the member, if the group finance cost is $1,000,000 or less and subparagraph (i) does not apply; or
     (iii) the amount found by multiplying the amount by which $2,000,000 exceeds the group finance cost by the ratio obtained by dividing the member finance cost for the excess debt entity by the group finance cost, if the group finance cost is more than $1,000,000 and less than $2,000,000 and subparagraph (i) does not apply; or
     (iv) zero, if the group finance cost is $2,000,000 or more and subparagraph (i) does not apply:
@@ -21605,9 +21683,10 @@ Items in formula
   (c) concession is any reduction allowed under section FE 13 in the total group debt of the excess debt entity’s New Zealand group for the income year, averaged when section FE 8(1)﻿(a) or (b) applies:
   (d) group debt percentage is the debt percentage of the excess debt entity’s New Zealand group for the income year:
   (e) threshold amount is, as applicable,—
-    (i) if the excess debt entity is not a trustee and not an excess debt outbound company, or is a trustee who is not described in section FE 2(1)﻿(g), the greater of 60% and 110% of the debt percentage of their worldwide group:
+    (i) if the excess debt entity is none of an excess debt outbound company, an excess debt entity with a worldwide group given by section FE 31D, and a trustee who is described in section FE 2(1)﻿(g), the greater of 60% and 110% of the debt percentage of their worldwide group:
     (ii) if the person is a natural person who is not described in section FE 2(1)﻿(g), 60%:
     (iii) if the excess debt entity is an excess debt outbound company, or is a trustee who is described in section FE 2(1)﻿(g), the greater of 75% and 110% of the debt percentage of their worldwide group:
+    (iiib) if the excess debt entity has a worldwide group given by section FE 31D, the greater of 60% and 100% of the debt percentage of their worldwide group:
     (iv) if the person is a natural person who is described in section FE 2(1)﻿(g), 75%.
 Alternative calculation
 (4) If a company that is in the same wholly-owned group of companies as the excess debt entity has a deduction for interest under any of sections DB 6 to DB 8, the company may choose to be treated as deriving the income that the excess debt entity would otherwise, under subsection (2), be treated as deriving for the income year. The amount of income is not calculated using the formula in subsection (2) but is limited as set out in subsection (5).
@@ -21637,18 +21716,50 @@ Income
 Definition of items in formula
 (3) In the formula,—
   (a) amount below threshold is the amount by which the New Zealand net equity for the New Zealand banking group is less than the equity threshold under section FE 19:
-  (b) interest expenditure is the financial value for the New Zealand banking group of interest expenditure measured under generally accepted accounting practice that is incurred—
-    (i) by a member of the New Zealand banking group in the income year; and
-    (ii) other than in relation to a share that contributes to the item total interest in the formula in section FE 23, or is a deduction referred to in the definition of the item interest deductions in that section:
+  (b) interest expenditure is the financial value for the New Zealand banking group of interest expenditure measured under generally accepted accounting practice that is—
+    (i) incurred by a member of the New Zealand banking group in the income year; and
+    (ii) incurred other than in relation to a share that contributes to the item total interest in the formula in section FE 23, or is a deduction referred to in the definition of the item interest deductions in that section; and
+    (iii) not denied as a deduction under section FH 3 (Payments under financial instruments producing deduction without income) as an unrecognised amount under section FH 3(2) or under section FH 7 or FH 11 (which provide for the matching of deductions and income from multi-jurisdictional arrangements):
   (c) days in period is the number of days in the relevant measurement period:
   (d) group funding debt is the group funding debt for the New Zealand banking group for the corresponding tax year:
   (e) days in year is the number of days in the income year.
 Apportionment of income to part-years
 (4) If an amount of income described in subsection (2) must be apportioned under this Act to a part of an income year, the amount of income for a measurement period is attributed to the part of the income year in which the measurement period falls.
 
+### FE 7B Interest on public project debt for certain excess debt entities
+Who this section applies to
+(1) This section applies for a project to an excess debt entity that—
+  (a) is a person meeting the requirements of section FE 2(1)﻿(b), (c), (e), or (f); and
+  (b) has an amount of public project debt for the project; and
+  (c) elects to apply the section to the first calculation for the excess debt entity under this subpart that includes the public project debt for the project and to which the section may apply.
+Debt percentages for public project debt
+(2) Debt percentages relating to the excess debt entity and the public project debt are determined under this subpart as if—
+  (a) the excess debt entity has no debt other than the public project debt for the project, no assets other than the public project assets for the project and assets used in performing the project, and no non-debt liabilities other than non-debt liabilities that relate to the project; and
+  (b) the New Zealand group of the excess debt entity is the excess debt entity.
+Income
+(3) If the debt percentage of the excess debt entity’s New Zealand group exceeds the threshold debt percentage given by section FE 5(1), the excess debt entity is treated as deriving an amount of income under section CH 10B (Interest apportionment: public project debt) that is calculated, treating the value of a fraction with a zero denominator as being zero, using the formula—(unrestricted interest × unrestricted excess ÷ unrestricted debt) + (member interest × member excess ÷ member debt).
+Definition of items in formula
+(4) In the formula,—
+  (a) unrestricted interest is the amount of interest expenditure incurred by the excess debt entity from the amount of public project debt referred to in the item unrestricted debt:
+  (b) unrestricted excess is—
+    (i) zero, if the amount of public project debt that is not public project participant debt does not exceed the amount (the threshold debt amount) obtained by multiplying the value of the public project assets and assets used in performing the project by the threshold debt percentage given by section FE 5(1) for the excess debt entity’s New Zealand group:
+    (ii) the amount of the item unrestricted debt, if the amount of public project debt that is not public project participant debt and not included in the item unrestricted debt equals or exceeds the threshold debt amount:
+    (iii) the amount by which the amount of public project debt that is not public project participant debt exceeds the threshold debt amount, if subparagraphs (i) and (ii) do not apply:
+  (c) unrestricted debt is the amount of public project debt that is not public project participant debt and for which the creditor has security for repayment that is not restricted to the project:
+  (d) member interest is the amount of interest expenditure incurred by the excess debt entity from public project participant debt:
+  (e) member excess is—
+    (i) zero, if the amount of public project debt does not exceed the threshold debt amount:
+    (ii) the amount of public project participant debt, if the amount of public project debt that is not public project participant debt equals or exceeds the threshold debt amount:
+    (iii) the amount by which the amount of public project debt exceeds the threshold debt amount, if subparagraphs (i) and (ii) do not apply:
+  (f) member debt is the amount of public project participant debt.
+Public projects treated separately
+(5) This section applies separately to each project of an excess debt entity for which the excess debt entity has public project debt.
+Public project debt, interest, assets, and non-debt liabilities, excluded for other applications
+(6) Public project debt, interest on public project debt, public project assets and other assets, and non-debt liabilities, taken into account in the application of this section to an excess debt entity for a project are excluded from the debt, interest, assets, and non-debt liabilities, of the excess debt entity taken into account in the apportionment of interest expenditure for another project or under another section of this subpart.
+
 ### FE 8 Measurement dates
 Daily, 3-monthly, or annual basis for excess debt entity
-(1) An excess debt entity must measure the amount of total group debt and total group assets of its New Zealand group for an income year using 1 of the following methods:
+(1) An excess debt entity must measure the amount of total group debt, total group assets, and total group non-debt liabilities of its New Zealand group for an income year using 1 of the following methods:
   (a) the average amount at the end of each day of the income year; or
   (b) the average amount at the end of each 3-month period in the income year; or
   (c) the amount at the end of the income year.
@@ -21673,7 +21784,7 @@ Control threshold, enlarged New Zealand group
 ### FE 10 Currency
 Calculations
 (1) In this subpart, the following values must be calculated in New Zealand currency:
-  (a) an amount of total group debt and an amount of total group assets of a New Zealand group or of a worldwide group:
+  (a) an amount of total group debt, an amount of total group assets, and an amount of total group non-debt liabilities of a New Zealand group or of a worldwide group:
   (b) a financial arrangement or risk-weighted exposure.
 Currency conversions for excess debt entity
 (2) If the value referred to in subsection (1) is denominated in a foreign currency, an excess debt entity must convert the value to New Zealand currency at—
@@ -21682,10 +21793,11 @@ Currency conversions for excess debt entity
 Currency conversions for reporting bank
 (3) If the value referred to in subsection (1) is denominated in a foreign currency, a reporting bank must convert the value to New Zealand currency at the close of trading spot exchange rate for the foreign currency on the relevant measurement date under section FE 8.
 
-### FE 11 Temporary increases or decreases in value
-A temporary increase or decrease in a value applying in this subpart must be excluded from a calculation made under this subpart if—
-  (a) the increase or decrease has, or would have, a purpose or effect of defeating the intent and application of this subpart; or
-  (b) the change is produced by an arrangement that has an effect of defeating the intent and application of this subpart.
+### FE 11 Disregarded increases or decreases in value
+When this section applies
+(1) This section applies when the effect of an increase or decrease in a value on a calculation under this subpart (the affected calculation) is disregarded under section GB 51B (Increases or decreases in value).
+Increase or decrease excluded from calculation
+(2) The affected calculation is made excluding the effect of the increase or decrease.
 
 ### FE 12 Calculation of debt percentages
 Requirement for New Zealand group
@@ -21693,9 +21805,12 @@ Requirement for New Zealand group
 Requirement for worldwide group
 (2) If the debt percentage of the New Zealand group is, as applicable, more than 60% as described in section FE 5(1)﻿(a), or more than 75% as described in section FE 5(1)﻿(b), then the entity must calculate the debt percentage of their worldwide group under the rules set out in sections FE 17 and FE 18.
 Debt percentage of group
-(3) A debt percentage of a group is found by dividing the amount of total group debt by the amount of total group assets of the group for an income year or accounting year, as applicable. The amounts are calculated on a consolidated basis. Total group debt and total group assets for an income year or accounting year are defined in—
-  (a) sections FE 15 and FE 16 for a New Zealand group; and
-  (b) section FE 18 for a worldwide group.
+(3) A debt percentage of a group is the amount calculated, on a consolidated basis and for an income year or accounting year as applicable, using the formula—group debt ÷ (group assets − non-debt liabilities).
+Definition of items in formula
+(3B) In the formula,—
+  (a) group debt is the amount of the total group debt defined in section FE 15 for a New Zealand group and section FE 18 for a worldwide group:
+  (b) group assets is the amount of the total group assets defined in section FE 16 for a New Zealand group and section FE 18 for a worldwide group:
+  (c) non-debt liabilities is the amount of the total group non-debt liabilities defined in section FE 16B for a New Zealand group and section FE 18 for a worldwide group.
 Membership of company’s New Zealand group
 (4) For an excess debt entity that is a company, the New Zealand group is made up of all companies, traced tier by tier, that are identified as within the control threshold of the New Zealand parent, see section FE 27. Section FE 25 provides the process for determining who is a member of a group based on the identification of a New Zealand parent and the establishment of the control threshold.
 Membership of company’s worldwide group
@@ -21756,7 +21871,7 @@ When member not resident
   (a) carry on business in New Zealand through a fixed establishment in New Zealand:
   (b) derive income, other than non-resident passive income, that has a source in New Zealand and for which relief from New Zealand tax under a double tax agreement is unavailable.
 When entity is part of more than 1 group
-(3B) If an entity (the common member) is, under sections FE 3 and FE 26 to FE 29, a member or part of a member of different New Zealand groups, the debts and assets of the common member are included under this subpart in the total group debt and total group assets of not more than 1 New Zealand group and in no worldwide group other than the worldwide group determined using that New Zealand group.
+(3B) If an entity (the common member) is, under sections FE 3 and FE 26 to FE 29, a member or part of a member of different New Zealand groups, the liabilities and assets of the common member are included under this subpart in the total group debt, total group assets, and total group non-debt liabilities of not more than 1 New Zealand group and in no worldwide group other than the worldwide group determined using that New Zealand group.
 Determining New Zealand group for common member's debts and assets
 (3C) For the purposes of subsection (3B), the debts and assets of the common member referred to in subsection (3B) are included with the debts and assets of the other members of the New Zealand group—
   (a) given by section FE 26, in the absence of section FE 26(2)﻿(bb) and (bc), (3)﻿(d), (4D), and (6), for the common member; or
@@ -21764,7 +21879,7 @@ Determining New Zealand group for common member's debts and assets
 Determining worldwide group for common member's debts and assets
 (3D) For the purposes of subsection (3B), the debts and assets of the common member referred to in subsection (3B) are included with the debts and assets of the other members of the worldwide group given by sections FE 31 to FE 36B for the common member and the common member's New Zealand group under subsection (3C).
 Treatment of specified leases and particular interest expenditure
-(4) In this subpart, in the determination of total group debt and total group assets and the calculation of an amount for which a deduction is denied,—
+(4) In this subpart, in the determination of total group debt, total group assets, and total group non-debt liabilities and in the calculation of an amount for which a deduction is denied,—
   (a) a specified lease under section FZ 2 (Effect of specified lease on lessor and lessee) is treated as a financial arrangement that provides funds to the issuer; and
   (b) expenditure incurred by the lessee under a specified lease for which a deduction is allowed under section BD 2 (Deductions) is treated as an amount of interest to which any of sections DB 6 to DB 8 (which relate to deductions for interest expenditure) applies; and
   (c) interest that is allowed as a deduction under either of the following sections is treated as an amount of interest to which any of sections DB 6 to DB 8 applies, if not already allowed under those sections:
@@ -21776,7 +21891,8 @@ Meaning
 (1) In this subpart, for a New Zealand group, total group debt means the sum of the outstanding balances of—
   (a) financial arrangements entered into by a natural person, or an excess debt entity, or another member of the New Zealand group, if the financial arrangement—
     (i) provides funds to the natural person, the entity, or another member of the group; and
-    (ii) gives rise to an amount for which the natural person, the entity, or another member of the group, would have a deduction:
+    (ii) gives rise to an amount for which the natural person, the entity, or another member of the group, would have a deduction; and:
+    (iii) the deduction is not denied under section FH 3 (Payments under financial instruments producing deduction without income) as an unrecognised amount under section FH 3(2) or under section FH 7 or FH 11 (which provide for the matching of deductions and income from multi-jurisdictional arrangements):
   (b) fixed-rate foreign equity or fixed-rate shares that are—
     (i) issued by the entity or another member of the New Zealand group; and
     (ii) held by a person resident in New Zealand:
@@ -21797,6 +21913,10 @@ Meaning
   (c) market value, for trading stock that is valued at market value in calculating the person or entity’s income tax liability for the income year, or that of a member of the group; or
   (d) adjusted tax value of a personal property lease asset at the start of the income year, in the case of a specified lease or a finance lease that is not recognised as an asset under generally accepted accounting practice; or
   (e) if allowed under generally accepted accounting practice, a combination of the financial statement values and net current values.
+Determining net current value of asset
+(1BAA) For the purpose of subsection (1)﻿(b) and (e), a net current value of an asset must be determined by a valuation of the asset by—
+  (a) an independent person who is an expert in the valuation of such assets:
+  (b) an employee, or other person associated with the excess debt entity, with experience in the valuation of assets and using a methodology, assumptions, and data, approved by a person qualified to give a valuation of the asset under paragraph (a).
 Investments to which subsection (1B) applies
 (1BA) Subsection (1B) applies to an investment—
   (a) of a person (the relevant person) who is—
@@ -21828,6 +21948,24 @@ Exception: change equivalent to revaluation or arising from transaction with non
 Generally accepted accounting practice
 (2) The amount of total group assets must be calculated under generally accepted accounting practice, with the exception of the values referred to in subsection (1)﻿(c) or (d).
 
+### FE 16B Total group non-debt liabilities
+Meaning for New Zealand group
+(1) In this subpart, for a New Zealand group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of a natural person, or an excess debt entity, or another member of the New Zealand group, reduced by the total of liabilities shown in the financial statements, each of which is—
+  (a) included in the calculation of total group debt under section FE 15:
+  (b) under a financial arrangement, other than an agreement for the sale and purchase of property or services, entered into by a company that is a member of the group with a shareholder that is a member of the group, if the financial arrangement provides funds to the company and—
+    (i) the funding is provided under an arrangement between shareholders and the amount of the funds provided by each shareholder is proportional to the shareholding of each shareholder at the time:
+    (ii) the shareholder and associated persons hold 10% or more of the voting interests in the company:
+  (c) a share in a company that is a member of the group held by a shareholder, if—
+    (i) the share was issued as part of a share issue to shareholders and the number of shares issued to each shareholder was proportional to the shareholding of each shareholder at the time:
+    (ii) the shareholder and associated persons hold 10% or more of the voting interests in the company:
+  (d) a provision for dividends:
+  (e) a deferred liability of a person for tax if—
+    (i) the deferred liability arises from a difference between the value shown in the financial statements of the person for an asset and the amount of depreciation loss remaining available to the person for the asset; and
+    (ii) the deferred liability is for an amount of tax that would not arise if the asset were sold for the value shown in the financial statements; and
+    (iii) the value shown in the financial statements for the asset is calculated by reference to the amount that the person is allowed as a deduction or depreciation loss for the asset, or on the basis that the asset is non-depreciable or depreciable at a rate of zero.
+Meaning for worldwide group
+(2) In this subpart, for a worldwide group, total group non-debt liabilities for an income year means the total of the outstanding balances of liabilities shown in the financial statements of the worldwide group, reduced by the total of liabilities that are included in the total group debt and the total of liabilities under financial arrangements that are removed under section FE 18(3B) from the measurement of total group debt.
+
 **Debt percentage of worldwide group**
 
 ### FE 17 Consolidation of debts and assets
@@ -21837,11 +21975,11 @@ For an excess debt entity that is a company, the debt percentage of a worldwide 
 
 ### FE 18 Measurement of debts and assets of worldwide group
 Standards applying
-(1) The amount of total group debt and the amount of total group assets of the worldwide group of an excess debt entity is calculated—
+(1) The amount of total group debt, the amount of total group assets, and the amount of total group non-debt liabilities of the worldwide group of an excess debt entity are calculated—
   (a) using a standard that is equivalent to generally accepted accounting practice for consistent and non-distorting financial reporting; and
   (b) in accordance with the financial reporting standards of the country where the worldwide group’s consolidated financial accounts are prepared.
 Date of measurement
-(2) The amount of total group debt and the amount of total group assets of the worldwide group of an excess debt entity for an income year are measured using—
+(2) The amount of total group debt, the amount of total group assets, and the amount of total group non-debt liabilities of the worldwide group of an excess debt entity for an income year are measured using—
   (a) the average amount at the end of each day of the income year; or
   (b) the average amount at the end of each 3-month period in the income year; or
   (c) the amount as at the worldwide group’s balance date that immediately precedes the income year.
@@ -21858,8 +21996,12 @@ Financial arrangements removed from measurement of amounts
     (i) is a party to the financial arrangement:
     (ii) guarantees, or provides security for, the performance of obligations under the financial arrangement, if the worldwide group is given by section FE 3(1)﻿(d) or FE 31D:
     (iii) provides, or undertakes to provide, funds for the use of a person who agrees to provide funds under the financial arrangement; and
-  (c) the owner has direct ownership interests in a member of the group of 5% or more; and
+  (c) the owner—
+    (i) has direct ownership interests in a member of the group of 5% or more:
+    (ii) has made a settlement on a trust, having a trustee who is a member of the group, of 5% or more of the value of total settlements on the trust; and
   (d) the financial arrangement is not traded on an exchange that would be a recognised exchange if paragraphs (c) to (e) of the definition of recognised exchange referred to financial arrangements as well as to shares and options over shares.
+Apportioning residual debt and assets after reduction under section FE 13
+(3C) If the amounts of the total group debt and total group assets are reduced under section FE 13 for the New Zealand group and worldwide group of an excess debt entity, the parts of the reduced amounts that relate to financial arrangements with members of the excess debt entity’s groups and the parts that relate to financial arrangements with persons outside the excess debt entity’s groups are treated as being in the same proportion as the parts of the total group debt and total group assets would be in without the reduction.
 Commissioner’s estimate
 (4) If an excess debt entity is unable to calculate the debt percentage of their worldwide group for an income year, they may apply to the Commissioner to estimate the percentage under this subpart. The estimate is then treated as the percentage applying for the purposes of this subpart.
 Default percentage
@@ -21914,7 +22056,8 @@ Equity value
     (iv) that does not give rise to interest expenditure other than as a result of a fluctuation in the value of a currency of a country relative to the value of a currency of another country; and
     (v) whose value is not included under paragraph (a) or (b); and
     (vi) that does not relate to a supply of goods or services; and
-  (e) an instrument specified by the Governor-General by Order in Council under section FE 24 as included in equity value, but excluding an instrument specified under that section as not being an item of equity value.
+  (e) an instrument specified by the Governor-General by Order in Council under section FE 24 as included in equity value, but excluding an instrument specified under that section as not being an item of equity value; and
+  (f) the same proportion of the financial value of any arrangement not included in paragraphs (a) to (e) as the proportion of the total interest expenditure under the arrangement in the income year that is denied as a deduction in the income year under section FH 3 (Payments under financial instruments producing deduction without income) as an unrecognised amount under section FH 3(2) or under section FH 7 or FH 11 (which provide for the matching of deductions and income from multi-jurisdictional arrangements).
 Fixed-rate shares
 (4) Adjustment 1 is the financial value of fixed-rate foreign equities or fixed-rate shares that are—
   (a) issued by a member of the group on or after 1 January 2005, or before that date if the measurement period starts on or after 1 January 2010; and
@@ -21994,12 +22137,13 @@ Definition of items in formula
 
 ### FE 23 Banking group’s funding debt
 Formula
-(1) A reporting bank must calculate the funding debt of its New Zealand banking group for a tax year using the formula—(total interest + interest deductions − shares) ÷ days in quarter.
+(1) A reporting bank must calculate the funding debt of its New Zealand banking group for a tax year using the formula—(total interest + interest deductions − shares − mismatch) ÷ days in quarter.
 Definition of items in formula
 (2) In the formula,—
   (a) total interest is the financial value of the total interest-bearing debt for the group, measured on the last day of a quarter in the reporting bank’s corresponding income year:
   (b) interest deductions is the financial value not included in paragraph (a) of a financial arrangement in relation to which the group has a deduction for interest to which any of sections DB 6 to DB 8 (which relate to interest expenditure) applies, other than as a consequence of a fluctuation in the value of a currency of a country relative to the value of a currency of another country:
   (c) shares is the financial value of shares included in paragraph (a), measured on the last day of a quarter in the reporting bank’s corresponding income year:
+  (cb) mismatch is the same proportion of the financial value of a debt or financial arrangement included in paragraph (a) or (b) as the proportion of the total interest expenditure under the debt or financial arrangement in the income year that is denied as a deduction in the income year under section FH 3 (Payments under financial instruments producing deduction without income) as an unrecognised amount under section FH 3(2) or under section FH 7 or FH 11 (which provide for the matching of deductions and income from multi-jurisdictional arrangements):
   (d) days in quarter is the number of days in a quarter in the reporting bank’s corresponding income year.
 
 ### FE 24 Regulations
@@ -22433,6 +22577,414 @@ An amount recorded as an expense in relation to the notional loan in an income y
   (a) paid by the branch to the bank on the last day of the third month that follows the balance date of the branch; and
   (b) derived in the income year by the bank in relation to the notional loan.
 ExamplesForeign Bank Ltd borrows AU$10b outside New Zealand from a variety of lenders and incurs an interest expense of AU$400m. The New Zealand branch of Foreign Bank Ltd is allocated NZ$1b of funding from this pool. An interest expense of NZ$42m is calculated using transfer pricing principles and is recorded in the branch’s financial statements and deducted against the branch’s taxable income from lending to New Zealand residents. The branch does not claim a deduction for any portion of the $AU400m paid by the non-New Zealand part of Foreign Bank. However, Foreign Bank Ltd is treated as making a loan to the branch on which it receives an interest payment of NZ$42m.
+
+### Subpart FH — Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements
+
+### FH 1 Subpart implements OECD recommendations for domestic law
+Background, scheme, and effect of subpart
+(1) This section and section FH 2 are intended to be a guide to the background and general scheme and effect of this subpart.
+OECD recommendations
+(2) This subpart implements recommendations, for the domestic law of countries and territories, that are made by the OECD in the hybrid mismatch report and the branch mismatch report (the reports) and are intended to be implemented as rules neutralising certain mismatches—
+  (a) arising from arrangements called hybrid mismatch arrangements and branch mismatch arrangements in the reports; and
+  (b) between income assessed and deductions against income or equivalent tax relief allowed for parties to international transactions; and
+  (c) resulting from differences, between the taxation laws of different countries and territories having rights to tax the parties, in the classification of financial arrangements or the tax treatment of entities or branches.
+Recommendations for primary and defensive rules
+(3) If 2 rules are recommended by a report for a situation, the recommended rules are called primary and defensive by the report, which states that the defensive rule should not apply to the situation except if the country or territory in the position to apply the recommended primary rule has not implemented the recommendation.
+Implementation of individual recommendations
+(4) In this subpart,—
+  (a) section FH 3 implements the primary version of the rule for recommendation 1 of the hybrid mismatch report, called the hybrid financial instrument rule in the report:
+  (b) section FH 4 implements the defensive version of the rule for recommendation 1 of the hybrid mismatch report:
+  (c) section FH 5 implements the primary version of the rule for recommendation 3 of the hybrid mismatch report, called the disregarded hybrid payments rule in the report, and the rule for recommendation 3 of the branch mismatch report:
+  (d) section FH 6 implements the defensive version of the rule for recommendation 3 of the hybrid mismatch report, and a defensive version of the rule for recommendation 3 of the branch mismatch report:
+  (e) section FH 7 implements recommendation 4 of the hybrid mismatch report, called the reverse hybrid rule in the report, and recommendation 2 of the branch mismatch report:
+  (f) section FH 8 implements the primary version of the rule for recommendation 6 of the hybrid mismatch report, called the deductible hybrid payments rule in the report, and the rule for recommendation 4 of the branch mismatch report:
+  (g) section FH 9 implements the defensive version of the rule for recommendation 6 of the hybrid mismatch report, and a defensive version of the rule for recommendation 4 of the branch mismatch report:
+  (h) section FH 10 implements recommendation 7 of the hybrid mismatch report, called the dual-resident payer rule in the report:
+  (i) section FH 11 implements recommendation 8 of the hybrid mismatch report, called the imported mismatch rule in the report, and recommendation 5 of the branch mismatch report.
+Additional rules
+(5) In addition to the recommended rules,—
+  (a) section FH 12 provides for the setting off, against amounts called surplus assessable income, of amounts called mismatch amounts that arise under several of the sections and, until set off, represent deductions denied or assessable income derived:
+  (b) section FH 13 provides for an election, by a borrower under a financial arrangement to which the section applies, that the financial arrangement be treated as a share issued by the borrower to the lender:
+  (c) section FH 14 provides for an irrevocable election, by an owner of a hybrid entity, that the hybrid entity be treated as a company.
+Definitions
+(6) Section FH 15 contains definitions for the purpose of the Act of some terms used in the reports and of terms used in the Act that differ from terms used in the reports, including—
+  (a) deducting branch, which refers to the activities to which the recommendations of the branch mismatch report are intended to apply:
+  (b) mismatch amount, which is the amount of a hybrid mismatch or branch mismatch:
+  (c) mismatch situation, which is the situation giving rise to a hybrid mismatch or branch mismatch:
+  (d) surplus assessable income, which performs the same function as “dual inclusion income” but is defined in a different way.
+Variations of recommendations
+(7) Variations of the implementing provisions from details of the recommendations in the report are intended to assist in the implementation and application of the recommendations.
+
+### FH 2 Order of application of provisions
+Order of application for sections disallowing deductions
+(1) If more than 1 provision in this subpart may deny an amount of expenditure or loss as a deduction or identify the amount as a mismatch amount in a situation, the provisions are applied in the order given by the sections, which is—
+  (a) section FH 3:
+  (b) section FH 5:
+  (c) section FH 7:
+  (d) section FH 11:
+  (e) section FH 8:
+  (f) section FH 9:
+  (g) section FH 10.
+Order of application for sections treating receipts as assessable income
+(2) If more than 1 provision in this subpart may identify an amount received as a mismatch amount in a situation, the provisions are applied in the order given by the sections, which is—
+  (a) section FH 4:
+  (b) section FH 6.
+
+### FH 3 Payments under financial instruments producing deduction without income
+When this section applies
+(1) This section applies when a person (the payer) is a party to a financial instrument (the payment instrument) under which the person makes a payment and—
+  (a) the person incurs in an income year an amount that relates to the payment instrument and does not arise from a fluctuation in the value of a currency; and
+  (b) the amount of expenditure incurred in the income year (the incurred amount) relating to the payment instrument is allowed as a deduction for the payer in the absence of this section and sections FH 5 and FH 7 to FH 11; and
+  (c) the taxation law of a country or territory outside New Zealand (the payee jurisdiction) treats the payment, when made, as being received by a person or other entity (the payee) in the payee jurisdiction; and
+  (d) the payment instrument is or is part of a structured arrangement or the payer is related to the payee when the expenditure is incurred; and
+  (e) the tax treatment by the payee jurisdiction of the payment meets the requirements of subsection (2) or (3).
+Amount not recognised
+(2) The tax treatment of a payment under the payment instrument meets the requirements of this subsection if—
+  (a) no country or territory outside New Zealand recognises an amount of the payment (the unrecognised amount) as giving rise to ordinary income of the payee under subsection (9); and
+  (b) the unrecognised amount would be recognised by the tax law of the payee jurisdiction as giving rise to ordinary income of the payee under subsection (9) if the classification of the payment or payment instrument were varied and the payee had the usual tax status for a person or entity of the payee’s class.
+Delayed recognition of amount
+(3) The tax treatment of a payment under the payment instrument meets the requirements of this subsection if—
+  (a) an amount of the payment is recognised as giving rise to ordinary income of the payee under subsection (9); and
+  (b) the amount is recognised with a timing that does not meet the requirements of subsection (6); and
+  (c) the duration of the financial instrument, including extensions contemplated by the financial instrument, may be more than 3 years.
+Amount of deduction denied
+(4) The payer is denied a deduction for expenditure incurred under the financial instrument equal to the greater of zero and the amount calculated using the formula—incurred amount × (1 − payee tax ÷ ordinary tax).
+Definition of items in formula
+(5) In the formula in subsection (4),—
+  (a) incurred amount is the amount of the expenditure incurred by the payer relating to the payment instrument and the payee:
+  (b) payee tax is the total of amounts—
+    (i) calculated by multiplying the amount of the payment that is recognised by the payee jurisdiction as income arising from the payment received by the payee with a timing that meets the requirements of subsection (6) by the rate of tax imposed by the taxation law of the payee jurisdiction on the class of income that the payee is recognised as receiving:
+    (ii) of income tax imposed by a country or territory outside New Zealand on a person (the CFC payee) other than the payee, on an amount of income corresponding to attributed CFC income relating to the payment and attributed to the CFC payee with a timing that meets the requirements of subsection (6) plus the amount of any credit for withholding tax on the payment taken into account in determining the amount of income tax imposed:
+  (c) ordinary tax is the amount calculated by multiplying the amount of the income arising from the payment received by the payee by the rate of tax imposed by the taxation law of the payee jurisdiction on ordinary income under subsection (9) received by the payee.
+Timing of recognised income
+(6) The timing of the recognition by a tax jurisdiction of an amount meets the requirements of this subsection if the amount is, or is reasonably expected to be, recognised as being derived—
+  (a) over a period of time during which the amount can reasonably be treated as accruing:
+  (b) in an accounting period beginning within 24 months of the end of the income year to which a deduction of the payer for the incurred expenditure would be attributed.
+Effect of delayed recognition
+(7) If an amount of the payment for which a deduction has been denied under subsection (4) is recognised as income of the payee derived at a time not meeting the requirements of subsection (6), the payer is allowed a deduction, when the amount is recognised, equal to the denied deduction.
+Payer deriving income from financial instrument: excluded income
+(8) If a payer that derives income (the affected income) in an income year from a financial instrument would, as a consequence of unrecognised amounts under subsection (2) of payments, be denied by subsection (4) a deduction for a fraction (the affected fraction) of expenditure incurred by the payer in the income year under the financial instrument, an amount of the payer’s affected income, calculated by multiplying the affected income by the affected fraction, is excluded income of the payer.
+Ordinary income
+(9) An amount of income is ordinary income under this subsection for a country or territory and a person or entity if the income is—
+  (a) taxed by the country or territory at the full marginal rate of the person or other entity for the income from financial instruments; and
+  (b) not eligible for an exemption, exclusion, credit, or tax relief, under the laws of the country or territory, other than a credit or tax relief for a withholding tax or similar tax imposed on the amount of the income by the laws of another country or territory.
+
+### FH 4 Receipts under financial instruments producing deduction without income
+When this section applies
+(1) This section applies when a person (the payee) receives a payment under a financial instrument (the payment instrument) of an amount and—
+  (a) the payment would not give rise to assessable income of the payee in the absence of this section and section FH 6 or gives rise to assessable income of the payee that would not be allocated to a period meeting the requirements of subsection (7); and
+  (b) the taxation law of a country or territory outside New Zealand (the payer jurisdiction) treats the payment as being made under the payment instrument by a person or other entity (the payer); and
+  (c) the payer jurisdiction allows the payer or other person or entity to deduct the amount from income or allows an equivalent tax relief for the payment; and
+  (d) the payer jurisdiction does not have hybrid mismatch legislation corresponding to section FH 3 and applying to the payment; and
+  (e) the payment instrument is or is part of a structured arrangement or the payer is related to the payee when the expenditure is incurred; and
+  (f) the payment meets the requirements of subsection (2) or (3).
+Amount not recognised
+(2) A payment received by the payee meets the requirements of this subsection if—
+  (a) an amount of the payment does not give rise to assessable income of the payee; and
+  (b) the amount would give rise to assessable income of the payee if the classification of the payment or payment instrument were varied.
+Delayed recognition of amount
+(3) A payment received by the payee under a financial instrument meets the requirements of this subsection if—
+  (a) the payment gives rise to assessable income of the payee that, in the absence of this section, would be allocated to a period that does not meet the requirements of subsection (7); and
+  (b) the duration of the financial instrument, including extensions contemplated by the financial instrument, may be more than 3 years.
+Assessable income
+(4) The payee derives assessable income from the payment—
+  (a) equal to the amount that would be assessable income of the payee if the classification of the payment or payment instrument were varied, for a payment meeting the requirements of subsection (2):
+  (b) allocated under subsection (6).
+Imputation credit not included and not available
+(5) If the payment received by the payee is a replacement payment under a returning share transfer, the amount of an imputation credit attached to the replacement payment is not included in the assessable income under subsection (4) and is not available as a tax credit under section LE 1 (Tax credits for imputation credits).
+Timing of derivation under subsection (4)
+(6) The assessable income under subsection (4) is allocated to the income year in which—
+  (a) income from the payment would be derived if the classification of the payment or payment instrument were varied, for a payment meeting the requirements of subsection (2):
+  (b) the payment is received, for a payment meeting the requirements of subsection (3).
+Timing of recognised income
+(7) The period to which an amount of income is allocated meets the requirements of this subsection if the income is, or is reasonably expected to be, derived in an accounting period beginning within 24 months of the end of the accounting period to which a deduction or tax credit of the payer for the incurred expenditure is attributed.
+
+### FH 5 Payments by New Zealand resident or New Zealand deducting branch producing deduction without income
+When this section applies
+(1) This section applies when a person or entity (the payer) incurs an amount of expenditure in an income year relating to a payment to another person and meeting the requirements of subsection (2), or incurs in an income year a charge meeting the requirements of subsection (3), and—
+  (a) the payment or charge is not assessable income of the person who receives the payment or benefits from the charge; and
+  (b) the amount or charge would be allowed as a deduction in the income year for the payer in the absence of this section and sections FH 7 to FH 11; and
+  (c) the taxation law of a country or territory outside New Zealand (the payee jurisdiction)—
+    (i) treats the payment or charge as not being received by a person or entity in the payee jurisdiction, because of the tax status of the payer; and
+    (ii) would treat the payment or charge as being received by a person or other entity (the payee) in the payee jurisdiction, if the tax status of the payer were different; and
+  (d) no country or territory outside New Zealand and the payee jurisdiction imposes tax on the payment or charge under taxation law that includes rules corresponding to the CFC rules and recognises the payment as the equivalent of attributed CFC income of a person in the same control group as the payee.
+Expenditure relating to payment made under structured arrangement or to member of payer’s control group
+(2) Expenditure relating to a payment by a payer that is a New Zealand resident, or a New Zealand deducting branch of a non-resident, to a payee meets the requirement of this subsection if—
+  (a) the payee is a non-resident; and
+  (b) the payment is made under a structured arrangement or, when the expenditure is incurred, the payer is in a control group with the payee or is the same person as the payee.
+Charge by non-resident to New Zealand deducting branch
+(3) A charge of an amount meets the requirements of this subsection if the amount—
+  (a) is charged by a non-resident to a New Zealand deducting branch of the non-resident; and
+  (b) represents amounts, relating to the activities outside New Zealand of the non-resident, allocated to the deducting branch; and
+  (c) is not determined by reference to the amount of a payment by the non-resident, or a member of the same control group as the non-resident, to a person other than the non-resident and the members of the control group; and
+  (d) exceeds expenditure or loss, incurred by the non-resident or a member of the same control group as the non-resident, that—
+    (i) belongs to a category of expenditure or loss equivalent to the category to which the charge belongs; and
+    (ii) is the reference by which the amount of the charge is determined.
+Mismatch amount
+(4) The payer is denied a deduction for the expenditure or for the amount of the charge that exceeds the expenditure or loss referred to in subsection (3)﻿(d).
+Deductions denied for mismatch amounts until offset
+(5) The expenditure or loss for which a deduction is denied under subsection (4) is a mismatch amount from a mismatch situation until the mismatch amount is set off under section FH 12 against surplus assessable income under that section from the mismatch situation.
+
+### FH 6 Receipts from non-resident or foreign deducting branch producing deduction without income
+When this section applies
+(1) This section applies when a non-resident, or foreign deducting branch of a New Zealand resident, (the payer) is treated by the taxation law of a country or territory outside New Zealand (the payer jurisdiction) as making a payment in an income year to a person or other entity (the payee) in New Zealand and meeting the requirements of subsection (2), or incurring a charge in the income year meeting the requirements of subsection (3), and—
+  (a) the payment or charge would not give rise to assessable income of the payee in the income year in the absence of this section; and
+  (b) the payer jurisdiction allows the payer or other person or entity to deduct an amount of the payment or charge against income or allows an equivalent tax relief for the payment; and
+  (c) the payer jurisdiction does not have hybrid mismatch legislation corresponding to section FH 5 that applies to the payment or charge and to the payer at any time in the income year; and
+  (d) the payment or charge would give rise to assessable income of the payee in the income year if the payer and payee were persons and separate or if the tax status of the payer were different.
+Expenditure relating to payment made under structured arrangement or to member of payer’s control group
+(2) Expenditure relating to a payment by a payer that is not a New Zealand resident, or is a foreign deducting branch of a New Zealand resident, to a payee meets the requirement of this subsection if—
+  (a) the payee is a New Zealand resident; and
+  (b) the payment is made under a structured arrangement or, when the expenditure is incurred, the payer is in a control group with the payee or is the same person as the payee.
+Charge by New Zealand resident to a foreign deducting branch
+(3) For the purposes of subsection (1), the amount of a charge treated by the payer jurisdiction as being required by a New Zealand resident from a foreign deducting branch of the New Zealand resident is equal to the amount that—
+  (a) represents amounts, relating to the activities of the New Zealand resident in New Zealand, allocated to the deducting branch; and
+  (b) is not determined by reference to the amount of a payment by the New Zealand resident, or a member of the same control group as the New Zealand resident, to a person other than the New Zealand resident and the members of the control group; and
+  (c) exceeds expenditure or loss incurred by the New Zealand resident, or a member of the same control group as the New Zealand resident, that—
+    (i) belongs to a category of expenditure or loss equivalent to the category to which the charge belongs; and
+    (ii) is the reference by which the amount of the charge is determined.
+Assessable income
+(4) The payee derives assessable income from the payment or charge equal to the greater of zero and the amount that would be assessable income of the payee, if the payer and payee were persons and separate or if the tax status of the payer were different.
+Timing of derivation under subsection (4)
+(5) The assessable income under subsection (4) is allocated to the income year in which the payment would be derived if the payer and payee were persons and separate or if the tax status of the payer were different.
+Mismatch amounts
+(6) An amount that is treated as assessable income under subsection (4) for a payee and a tax year is a mismatch amount of the payee for the tax year and the mismatch situation until the mismatch amount is set off under section FH 12 against surplus assessable income under that section from the mismatch situation.
+New Zealand resident becoming affected
+(7) A mismatch amount under subsection (6) is not available to be carried forward beyond a time (the transition time) if the payer jurisdiction introduces from the transition time hybrid mismatch legislation corresponding to section FH 5 and applying to expenditure of the hybrid entity or foreign resident to which this section applies.
+
+### FH 7 Payments to person outside New Zealand producing deduction without income
+When this section applies
+(1) This section applies when a person (the payer) incurs an amount of expenditure (the incurred amount) in an income year relating to an amount of a payment to a person (the payee) that exists under the law of a country or territory outside New Zealand (the payee jurisdiction) and—
+  (a) the incurred amount would be allowed as a deduction for the payer in the absence of this section and sections FH 8 to FH 11; and
+  (b) under the taxation law of the payee jurisdiction, the amount is treated as being—
+    (i) received in a country or territory outside the payee jurisdiction:
+    (ii) income of a person who is in the same control group as the payer; and
+  (c) the payment is made under a structured arrangement or the payer is in the same control group as the payee when the expenditure is incurred; and
+  (d) under the taxation law of the countries and territories outside New Zealand, the amount received by the payee is not subject to taxation as income and is not recognised as CFC attributed income, or the equivalent of attributed CFC income, of a person in the same control group as the payee; and
+  (e) an equivalent payment by the payer would have been subject to taxation—
+    (i) as income of the payee, under the taxation law of the payee jurisdiction if the equivalent payment were treated as being received by the payee in the payee jurisdiction:
+    (ii) as income of a person who is in the same control group as the payer, under the taxation law of a country or territory, outside New Zealand and the payee jurisdiction, if the equivalent payment were treated as being received by the person in that country or territory.
+Amount of deduction denied
+(2) The payer is denied a deduction for the incurred amount and, if the payment is made under a financial instrument denominated in the currency of a country or territory other than New Zealand, for amounts arising from a fluctuation in the value of the currency in relation to New Zealand currency.
+
+### FH 8 Expenditure or loss through hybrid entity or foreign deducting branch producing double deduction without double income
+When this section applies
+(1) This section applies for a New Zealand resident and an income year when the New Zealand resident is related to a hybrid entity existing under the law of a country or territory outside New Zealand, or has a deducting branch in such a country or territory, and—
+  (a) the taxation law of the country or territory allows expenditure or loss of the hybrid entity, or of the New Zealand resident attributed to the deducting branch, in the income year to be set off against income of another person or entity; and
+  (b) the income of the other person or entity, other than from a source in New Zealand, is not assessable income.
+Deduction denied for expenditure or loss
+(2) The New Zealand resident is denied a deduction for the amount of expenditure or loss incurred for the income year that—
+  (a) is attributed to the hybrid entity or deducting branch; and
+  (b) would, in the absence of this section and sections FH 9 and FH 10, be allowed as a deduction in the income year corresponding to the tax year.
+Mismatch amounts
+(3) A deduction denied under subsection (2) is a mismatch amount from a mismatch situation until the mismatch amount is set off under section FH 12 against surplus assessable income under that section from the mismatch situation.
+New Zealand resident becoming affected
+(4) Subsection (5) applies to a person who is a New Zealand resident and becomes liable to be denied deductions under subsection (1) at a time (the transition time) when—
+  (a) in a period ending with the transition time (the unaffected period), the person is related to a hybrid entity, or has a deducting branch, that exists under the law of a country or territory outside New Zealand but the person is not liable to be denied deductions under subsections (1) and (2); and
+  (b) the taxation law of the country or territory allows expenditure or loss of the hybrid entity, or of the New Zealand resident attributed to the deducting branch, during the unaffected period to be set off against income that is not assessable income and arises at or after the transition time.
+Assessable income
+(5) The person derives, at the transition time, assessable income equal to the amount of net loss, calculated for the person and the hybrid entity or deducting branch and the unaffected period as if the person’s income from the hybrid entity or deducting branch were schedular income.
+Mismatch amounts
+(6) An amount that is treated as assessable income under subsection (5) for a person and a tax year is a mismatch amount of the person for the tax year and the mismatch situation until the mismatch amount is set off under section FH 12 against surplus assessable income under that section from the mismatch situation.
+
+### FH 9 Expenditure or loss of hybrid entity, or non-resident through deducting branch, producing double deduction without double income
+When this section applies
+(1) This section applies when a resident (the foreign resident) in a country or territory outside New Zealand (the foreign jurisdiction) is in the same control group as a hybrid entity resident in New Zealand, or has a deducting branch in New Zealand, if—
+  (a) expenditure or loss of the hybrid entity, or of the foreign resident attributed to the deducting branch, would be allowed as a deduction in an income year in the absence of this section and section FH 10; and
+  (b) the taxation law of a country or territory outside New Zealand allows expenditure of the hybrid entity or attributed to the deducting branch to be deducted in the income year against income of the foreign resident; and
+  (c) the foreign jurisdiction does not have hybrid mismatch legislation corresponding to section FH 8 and applying at any time in the income year to expenditure of the hybrid entity or foreign resident referred to in paragraph (b).
+Deductions denied
+(2) The hybrid entity or foreign resident is denied a deduction for the amount of expenditure or loss that—
+  (a) is incurred by the hybrid entity or attributed to the deducting branch in the income year corresponding to the tax year; and
+  (b) would, in the absence of this section, be allowed as a deduction.
+Mismatch amounts
+(3) The amount of a deduction denied under subsection (2) is a mismatch amount for the hybrid entity or foreign resident until the mismatch amount is set off under section FH 12 against surplus assessable income under that section for the hybrid entity or foreign resident.
+New Zealand resident becoming affected
+(4) A mismatch amount under subsection (3) is not available to be carried forward beyond a time (the transition time) if the foreign jurisdiction introduces from the transition time hybrid mismatch legislation corresponding to section FH 8 and applying to expenditure of the hybrid entity or foreign resident to which this section applies.
+
+### FH 10 Expenditure or loss of dual resident company producing double deduction without double income
+When this section applies
+(1) This section applies for a company that is a New Zealand resident (the dual resident) and under the taxation law of another country or territory outside New Zealand (the dual tax jurisdiction) is liable to income tax in the dual tax jurisdiction through domicile, residence, or place of incorporation.
+Deduction denied for expenditure
+(2) The dual resident is denied a deduction for the amount of expenditure that would, in the absence of this section, be allowed as a deduction in the income year.
+Mismatch amount
+(3) A deduction that is denied under subsection (2) is a mismatch amount from a mismatch situation until the mismatch amount is set off under section FH 12 against surplus assessable income under that section from the mismatch situation.
+
+### FH 11 Residents, or non-residents with deducting branches, having expenditure funding overseas hybrid mismatches
+When this section applies
+(1) This section applies for a New Zealand resident, or a non-resident with a deducting branch in New Zealand (the funder), and an income year when the funder makes a payment to a person in a country or territory outside New Zealand that does not have hybrid mismatch legislation corresponding to this subpart and—
+  (a) the payment provides funds, directly or indirectly, for a payment (the funded payment) from a person or other entity (the payer) in a country or territory outside New Zealand (the payer jurisdiction) to a person or other entity (the payee), in the same or another country or territory outside New Zealand (the payee jurisdiction); and
+  (b) the expenditure on the payment would be allowed as a deduction for the funder in the absence of this section and sections FH 8 to FH 10; and
+  (c) the payment is made under a structured arrangement giving rise to the hybrid mismatch referred to in paragraph (d) or the funder and the payer, when the expenditure is incurred, are members of a control group; and
+  (d) the funded payment gives rise to a hybrid mismatch; and
+  (e) the payer jurisdiction and the payee jurisdiction do not have hybrid mismatch legislation that counteracts the hybrid mismatch.
+Deduction denied for expenditure funding hybrid mismatch
+(2) The funder is denied a deduction in a tax year for an amount that is given by—
+  (a) subsection (3), if the payment is made under a structured arrangement giving rise to the hybrid mismatch; or
+  (b) subsection (4), if paragraph (a) does not apply.
+Amount denied for payment under structured arrangement
+(3) Under this subsection, the amount of the denial is the lesser of—
+  (a) the amount of the deduction that would be allowed for the payment in the absence of this section and sections FH 8 to FH 10:
+  (b) the amount of the funded payment that, if hybrid mismatch legislation were applied by the payer jurisdiction, would be disallowed as a deduction against income or equivalent tax relief.
+Amount denied for other payment
+(4) Under this subsection, the amount of the denial is the amount of the payment that can fairly and reasonably be treated as providing funds for the funded payment.
+Identifying resulting payment
+(5) The amount described in subsection (4) is determined consistently with the approach described in chapter 8 of the hybrid mismatch report.
+
+### FH 12 Offset of mismatch amounts against surplus assessable income
+When this section applies
+(1) This section applies when a person has a mismatch amount under sections FH 5, FH 6, and FH 8 to FH 10 from a mismatch situation for an income year.
+Offset against surplus assessable income
+(2) The total of mismatch amounts from the mismatch situation for the income year are set off against the person’s total surplus assessable income from the mismatch situation under subsection (3).
+Surplus assessable income
+(3) The person has an amount of surplus assessable income, for the mismatch situation and the income year, equal to the greater of zero and the amount calculated using the formula—earlier + assessable + exempt − unrecognised − protected − deductions + status.
+Definition of items in formula
+(4) In the formula,—
+  (a) earlier is the amount of surplus assessable income for the person from the mismatch situation carried forward to the tax year corresponding to the income year from earlier tax years:
+  (b) assessable is the amount of assessable income derived from the mismatch situation by the person in the income year:
+  (c) exempt is zero, except for a person that is a hybrid entity resident in New Zealand and owned by a non-resident, for which it is the amount of income of the hybrid entity that—
+    (i) is exempt income under section CW 10 (Dividend within New Zealand wholly-owned group); and
+    (ii) for an owner of the hybrid entity, is income subject to tax under the taxation law of another country or territory without a credit for tax, other than a withholding tax on the dividend, paid by the person paying the dividend:
+  (d) unrecognised is the amount of the assessable income of the person from the mismatch situation for the income year that is not subject to tax under the taxation law of the foreign jurisdiction because of the residence of another person, who is not another owner, or because of the source of the income:
+  (e) protected is the amount of taxable income for which the income tax liability of the person would equal foreign tax credits under subpart LJ (Tax credits for foreign income tax) allowed for the assessable income from the mismatch situation for the income year:
+  (f) deductions is the amount of deductions allowed for expenditure incurred by the person in the income year in deriving assessable income from the mismatch situation, not including expenditure giving rise to mismatch amounts:
+  (g) status is the amount of expenditure on a payment by the person to a payee in New Zealand that is a mismatch amount under section FH 9 and that is not allowed to be deducted against income by the tax law of a country or territory outside New Zealand because of the tax status of the person and the payee.
+Mismatch receipt set off against surplus assessable income from later tax year
+(5) If a mismatch amount from a mismatch situation for a person is set off under subsection (2) or (10) in the tax year corresponding to an income year against an amount of surplus assessable income of the person from the mismatch situation, the person has a deduction for the income year equal to the amount of the offset.
+Mismatch amounts carried forward
+(6) If a mismatch amount from a mismatch situation is not an offset in the tax year corresponding to an income year, the remaining amount is carried forward to the next tax year if it meets the requirements of subsection (8) for that tax year.
+Surplus assessable income carried forward
+(7) If an amount of surplus assessable income from a mismatch situation is not an offset under subsection (2) or (10) in an income year,—
+  (a) the amount is reduced by the amount of corresponding income, that is recognised and taxed as income arising from the mismatch situation by the taxation law of a foreign country or territory, for which the income tax liability of the person would equal credits, equivalent to foreign tax credits under subpart LJ, allowed by the foreign country or territory for the income from the mismatch situation for the income year; and
+  (b) the amount remaining is carried forward to the next income year if it meets the requirements of subsection (8) for that income year.
+Continuity requirement for carrying forward amounts
+(8) A mismatch amount, or surplus assessable income, from a mismatch situation may be carried forward to a tax year corresponding to an income year (the carry year) if, for the tax year in which the amount arises (the initial year) and the carry year, a tax loss of the person could be carried forward under Part I (Treatment of tax losses) from the initial year to the carry year in the absence of offsets.
+Mismatch amounts under section FH 8(3)
+(9) A mismatch amount under section FH 8(3) that is available to be carried forward from a tax year corresponding to an income year is included as a tax loss component of the New Zealand resident for the next tax year (the release year) if—
+  (a) the hybrid entity, or the New Zealand resident with the deducting branch to which the mismatch amount is attributed, ceases to exist before the end of the income year corresponding to the release year; and
+  (b) expenditure or loss of the hybrid entity, or of the New Zealand resident attributed to the deducting branch, has not been set off under the taxation law of a country or territory outside New Zealand against income, for the income year in which the mismatch amount arose or for a later income year, that is not assessable income of a person or entity.
+Offset of mismatch amount against surplus assessable income of group company
+(10) A company (the offset company) resident in New Zealand may set off in an income year a mismatch amount from a mismatch situation against surplus assessable income of another company (the group company) resident in New Zealand from another mismatch situation (the income situation) if—
+  (a) the companies are in the same wholly-owned group when the mismatch amount and the surplus assessable income arise; and
+  (b) the mismatch amount and the surplus assessable income are available after each of the companies has all offsets permitted for the income year of amounts arising from the mismatch situation in which the company is involved; and
+  (c) the offset would be permitted if the offset company were substituted for the group company in the income situation.
+
+### FH 13 Election by borrower under financial arrangement
+Who may make election
+(1) A person who is a borrower under a financial arrangement may make an election under this section if a payment by the person to the lender under the financial arrangement would be an unrecognised amount under section FH 3(2) and denied as a deduction under section FH 3.
+Treatment of financial arrangement after election
+(2) The result of an election by the person is that, while the person is eligible to make an election, the financial arrangement is, for all purposes of the Act, a share held by the lender in the person.
+Notification of election
+(3) The person must notify the Commissioner of the election, specifying the date on which the election is effective, which must be on or after the date of the notice.
+Transitional treatment of financial arrangement
+(4) On the date on which the election is effective, the person is treated as—
+  (a) paying the lender under the financial arrangement the amount owing under the loan (the repayment amount); and
+  (b) receiving the repayment amount, reduced by any withholding tax, from the lender as the subscription for a non-participating redeemable share.
+Expiry of election
+(5) When the person ceases to be eligible to make an election for the financial arrangement because a deduction would not be denied under section FH 3 for a payment of interest under the financial arrangement, the person is treated as—
+  (a) paying to the lender the amount owing under the loan as a payment for cancellation of a non-participating redeemable share; and
+  (b) receiving, as a loan under the financial arrangement, from the lender the amount referred to in paragraph (a), reduced by any withholding tax.
+NRWT rules
+(6) The NRWT rules apply to the amount of the payment under subsections (4)﻿(a) and (5)﻿(a).
+
+### FH 14 Irrevocable election by owner of hybrid entity
+Who may make election
+(1) A New Zealand resident (the owner) who has, or is a member of a wholly-owned group that has, all the ownership interests in a hybrid entity may make an election under this section if the hybrid entity—
+  (a) is treated by the taxation law of a country or territory outside New Zealand (the foreign jurisdiction) as being resident in the foreign jurisdiction; and
+  (b) is wholly owned by the owner or the owner’s wholly-owned group on the date on which the Taxation (Neutralising Base Erosion and Profit Shifting) Bill is introduced.
+Treatment of hybrid entity after election
+(2) The result of an election by the owner is that the hybrid entity is, for all purposes of the Act for the owner, a company immediately after the sale referred to in subsection (5)﻿(a)﻿(i).
+Notification of election
+(3) The owner must notify the Commissioner of the election before the due date for the return of income for the first income year in which the hybrid mismatch legislation applies to the owner.
+When election effective
+(4) The election is effective for the period consisting of the first income year in which the hybrid mismatch legislation applies to an owner and later income years.
+Transitional treatment of hybrid entity
+(5) For the period for which the election is effective, the hybrid entity is treated as—
+  (a) at the beginning of the period,—
+    (i) selling the undertaking of the hybrid entity at market value; and
+    (ii) buying the undertaking as a company (the new subsidiary), in which the owner has ownership interests, that is resident in the foreign jurisdiction; and
+  (b) during the period, making as a company each distribution to the owner.
+Total available subscribed capital
+(6) The total available subscribed capital of the new subsidiary is the amount by which the market value of the assets acquired by the new subsidiary exceeds the market value of the liabilities assumed by the new subsidiary.
+Election irrevocable
+(7) An election under this section for a hybrid entity is irrevocable.
+
+### FH 15 Definitions
+Definitions
+(1) In this Act,—
+  - **act together** , for 2 persons (the holders) that each have rights or interests (the rights and interests) in a person or other entity and for the ownership or control of the rights and interests, means—
+    (a) the holders are associated under section YB 4 (Two relatives):
+    (b) a holder typically acts in the way preferred by the other holder, because of the other holder’s preference:
+    (c) the holders have entered into an arrangement that has an effect on the value or control of the rights or interests that is more than incidental and does not arise from a restriction on the sale of the rights or interests:
+    (d) the actions of the holders relating to the interests are legally controlled, are typically controlled, or are expected to be controlled, by a third person or group of persons (the co-ordinator) that does not meet the requirements of subsection (2):
+    (e) the holders and a co-ordinator that does not meet the requirements of subsection (2) enter an arrangement affecting the ownership or control of the rights and interests and having an effect on the value or control of the rights and interests that is more than incidental:
+    (f) the holders agree with a co-ordinator that does not meet the requirements of subsection (2) that the co-ordinator can act on behalf of the holders in relation to the rights and interests
+  - **branch mismatch report** means the report OECD (2017), Neutralising the Effects of Branch Mismatch Arrangements, Action 2: Inclusive Framework on BEPS, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing, Paris
+  - **control group** means a group of persons in which, for each member and each other member,—
+    (a) the members are—
+      (i) consolidated, or required to be consolidated, for accounting purposes:
+      (ii) members of a group of companies for which an applicable financial reporting standard requires the preparation of group financial statements for an accounting period:
+    (b) the members are companies that are associated under section YB 2 (Two companies):
+    (c) 1 of the members is a company and the other person has, or is a member of a group of persons acting together that has,—
+      (i) a voting interest in the company of 50% or more, applying the general aggregation rule in section YB 3(3):
+      (ii) if a market value circumstance exists for the company, a market value interest in the company of 50% or more, applying the general aggregation rule in section YB 3(3):
+    (d) the members are associated under section YB 4 (Two relatives):
+    (e) the members are associated under sections YB 5 to YB 11 (which relate to a trustee or settlor of a trust):
+    (f) 1 of the members is a partnership, or is a limited partnership, and the other member,—
+      (i) if the partnership is a limited partnership, is a general partner or is a limited partner that has a partnership share of more than 50% in a right, obligation, or other property, status, or thing of the limited partnership, applying the general aggregation rule in section YB 12(3) (Partnership and partner):
+      (ii) if the partnership is not a limited partnership, is a partner that has a partnership share of more than 50% in a right, obligation, or other property, status, or thing of the partnership, applying the general aggregation rule in section YB 12(3):
+    (g) 1 of the members, or a group consisting of 1 of the members and persons that are related to or act together with that member, effectively controls the other member:
+    (h) a person or group of persons, together with persons who are related to or act together with the person or a person in the group, effectively controls each of the 2 members
+  - **deducting branch** , for a person, means a branch, permanent establishment, or other activity, of the person in a country or territory, such that expenditure or loss attributed by the person to the branch, permanent establishment, or activity is recognised by the tax law of the country or territory as giving rise to a deduction against income of the person or other tax relief
+  - **entity** means a person, or a relationship that is treated as a person by the tax law of a country or territory outside New Zealand
+  - **financial instrument** means—
+    (a) a financial arrangement:
+    (b) a share:
+    (c) an annuity:
+    (d) a farm-out arrangement:
+    (e) a share-lending arrangement:
+    (f) a loan in New Zealand currency described in section EW 5(10) (What is an excepted financial arrangement?)
+  - **hybrid entity** , for 2 countries or territories, means a person or other entity that is—
+    (a) recognised in 1 of the countries or territories (the resident jurisdiction) as being a resident of the resident jurisdiction and subject to taxation under the taxation law of the resident jurisdiction; and
+    (b) not recognised in the other country or territory (the overseas jurisdiction) as being a person, or other entity, subject to taxation under the taxation law of the overseas jurisdiction in relation to income with a source in the overseas jurisdiction
+  - **hybrid mismatch** , for a payment by a payer in a country or territory (the payer jurisdiction) to a payee in another country or territory (the payee jurisdiction), means a deduction for an amount of the payment if, in the absence of hybrid mismatch legislation,—
+    (a) under the taxation law of—
+      (i) the payer jurisdiction, the amount is taken into account as a deduction against income or equivalent tax relief in calculating the income of the payer subject to tax; and
+      (ii) the payee jurisdiction, the amount is not recognised as ordinary income of a person or other entity within a reasonable period of time:
+    (b) under the taxation law of—
+      (i) the payer jurisdiction, the amount is taken into account as a deduction against income or equivalent tax relief in calculating the income of the payer subject to tax; and
+      (ii) a jurisdiction other than the payer jurisdiction, the amount is taken into account as a deduction against income or equivalent tax relief in calculating the income of the payer subject to tax
+  - **hybrid mismatch legislation** means—
+    (a) this subpart:
+    (b) legislation of a country or territory outside New Zealand having an intended effect corresponding to the effect of a provision in this subpart
+  - **hybrid mismatch report** means the publication OECD (2015), Neutralising the Effects of Hybrid Mismatch Arrangements, Action 2 – 2015 Final Report, OECD/G20 Base Erosion and Profit Shifting Project, OECD Publishing, Paris
+  - **mismatch amount** means an amount, arising from a mismatch situation under a provision of this subpart, for which a deduction is allowed under section FH 12 when the amount is set off in a tax year against an amount of surplus assessable income
+  - **mismatch situation** means a situation in which differences between the taxation law of New Zealand and the taxation law of another country or territory in the tax treatment of entities or deducting branches give rise to adjustments to deductions or income under sections FH 5, FH 6, FH 8, FH 9, or FH 10
+  - **related** , for 2 persons, means a relationship under which—
+    (a) the 2 persons are companies—
+      (i) that are associated under section YB 2 (Two companies):
+      (ii) for which a group of persons exists whose total voting interests in each company, determined under section YB 2, are 25% or more:
+      (iii) if a market value circumstance exists for either company, for which a group of persons exists whose total market value interests in each company, determined under section YB 2, are 25% or more:
+    (b) 1 of the persons is a company and the other person is not a company and the 2 persons are associated under section YB 3 (Company and person other than company):
+    (c) the 2 persons are associated under section YB 4 (Two relatives):
+    (d) the 2 persons are associated under sections YB 5 to YB 11 (which relate to a trustee or settlor of a trust):
+    (e) 1 of the persons is a limited partnership and the other person is a general partner, or is a limited partner and the 2 persons are associated under section YB 12 (Partnership and partner):
+    (f) 1 of the persons is a partnership and the other person is a partner and the 2 persons would be associated under section YB 12(2) if the partnership were a limited partnership and the partner were a limited partner:
+    (g) 1 of the persons, or a group consisting of the person and persons who act together with the person, controls the other person:
+    (h) a person or group of persons, together with persons who are related to or act together with the person or a person in the group, controls each of the persons
+  - **structured arrangement** , for a person, means an arrangement to which the person or a member of the person’s control group is a party—
+    (a) for which—
+      (i) a transaction under or involving the arrangement has a price that assumes the existence of a hybrid mismatch:
+      (ii) the facts or circumstances indicate that the arrangement is intended to rely on or produce a hybrid mismatch; and
+    (b) under which the person, or a member of the person’s control group, can reasonably be expected to be aware of—
+      (i) a tax benefit for the person that arises from the hybrid mismatch:
+      (ii) the existence of the hybrid mismatch
+  - **surplus assessable income** means an amount, arising from a mismatch situation and determined under section FH 12, against which a mismatch amount from the mismatch situation may be set off under section FH 12.
+Exception to test for acting together
+(2) A co-ordinator meets the requirements of this subsection for rights or interests in a person or entity held separately by 2 holders if—
+  (a) the co-ordinator manages an investment fund through which 1 of the holders has the holder’s rights or interests in the person or entity; and
+  (b) the co-ordinator manages another investment fund through which the other holder has the holder’s rights or interests in the person or entity; and
+  (c) the 2 funds do not act together in relation to the rights and interests of the holders.
 
 ### Subpart FL — Emigration of resident companies
 
@@ -23422,6 +23974,26 @@ Form and timing of notice
   (a) in the form and by the means prescribed by the Commissioner; and
   (b) no later than the later of 30 November 2012 and the day by which the person is required to make a return of income for the corresponding tax year.
 
+### FZ 8 Transition period for amendments to interest apportionment rules
+What this section does
+(1) This section gives the effect, for an excess debt entity meeting the requirements of subsection (2), of the amendments (the affected amendments) to section FE 5 (Thresholds for application of interest apportionment rules) made by section 20(1), (2), and (6) of the Taxation (Neutralising Base Erosion and Profit Shifting) Act 2018 and to section FE 6 (Apportionment of interest by excess debt entity) made by section 21(5) and (6) of that Act.
+Requirements for section to apply
+(2) An excess debt entity meets the requirements of this subsection if, using the method of calculating debt percentages as amended by the provisions referred to in subsection (1),—
+  (a) the excess debt entity is a company described in section FE 2(1)﻿(cb) (When this subpart applies) or is controlled by a group of persons that act in concert and are each described in section FE 2(a) to (db); and
+  (b) the debt percentage of the excess debt entity’s New Zealand group is greater than 60% on the date given by subsection (5) (the transition date); and
+  (c) the debt percentage of the excess debt entity’s New Zealand group on the transition date is greater than 100% of the debt percentage of the excess debt entity’s worldwide group on the transition date.
+Transition period
+(3) For an excess debt entity meeting the requirements of subsection (2), the affected amendments apply as varied by subsection (4) for a period of 5 income years (the transition period) consisting of the first income year beginning on or after 1 July 2018 and the 4 following income years.
+Method and threshold values for calculations
+(4) For the period from the transition date to the end of the transition period, in determining whether the excess debt entity is required to apportion its interest expenditure under subpart FE (Interest apportionment on thin capitalisation) and in determining the apportionment of the excess debt entity’s interest expenditure under section FE 6,—
+  (a) the method of calculating debt percentages is applied as amended; and
+  (b) the threshold value for the debt percentage of the excess debt entity’s New Zealand group for the income year is 60%; and
+  (c) the threshold value for the ratio of the debt percentage of the excess debt entity’s New Zealand group for the income year to the debt percentage of the excess debt entity’s worldwide group is the lesser of 110% and the corresponding ratio calculated for the transition date.
+Transition date
+(5) For the purposes of this section, the transition date is whichever the excess debt entity elects, in a return of income for the first income year beginning on or after 1 July 2018, of—
+  (a) the date (the introduction date) on which the Taxation (Neutralising Base Erosion and Profit Shifting) Bill is introduced:
+  (b) the date that is the last measurement date under section FE 8 (Measurement dates) preceding the introduction date.
+
 ## Part G — Avoidance and non-market transactions
 
 ### Subpart GA — Avoidance: general
@@ -23503,7 +24075,7 @@ Possible examples
   (d) a back-to-back supply arrangement:
   (e) an income-sharing arrangement.
 Application of sections GC 7 to GC 10
-(3) Section GC 7, GC 8, GC 9, or GC 10, as applicable, applies to require the substitution of an arm’s length amount of consideration, despite section GC 6(2) and (3) (Purpose of rules and nature of arrangements).
+(3) Section GC 7, GC 8, GC 9, or GC 10, as applicable, applies to require the substitution of an arm’s length amount of consideration, despite section GC 6(2) and (3) (Purpose and application of rules and nature of arrangements).
 
 ### GB 3 Arrangements for carrying forward loss balances: companies
 When this section applies
@@ -24177,9 +24749,9 @@ Some definitions
 When this section applies
 (1) This section applies if both of the following paragraphs are met:
   (a) a person enters into an arrangement:
-  (b) a purpose of the arrangement is that subparts MA to MF and MZ (which relate to tax credits for families) has a more favourable effect than would otherwise have occurred.
+  (b) a purpose of the arrangement is that subparts MA to MG and MZ (which relate to tax credits for families) has a more favourable effect than would otherwise have occurred.
 Credit reduced
-(2) A tax credit under subparts MA to MF and MZ is reduced to the amount that the Commissioner considers would have arisen had the arrangement not occurred.
+(2) A tax credit under subparts MA to MG and MZ is reduced to the amount that the Commissioner considers would have arisen had the arrangement not occurred.
 
 ### GB 45 Arrangements involving money not at risk
 Application of section GB 46
@@ -24304,6 +24876,14 @@ When this section applies
 Arrangement disregarded
 (2) The effect of the arrangement on the proportionality between the level of an ownership interest in the company relating to the person and the company's debt relating to the person is disregarded for the purposes of subpart FE.
 
+### GB 51B Increases or decreases in value
+When this section applies
+(1) This section applies when there is an increase or decrease in a value that affects, or would affect, the result of a calculation (the affected calculation) under subpart FE (Interest apportionment on thin capitalisation) and the increase or decrease is—
+  (a) caused by an action or omission that has, or would have, a purpose or effect of defeating the intent and application of subpart FE:
+  (b) produced by an arrangement that has an effect of defeating the intent and application of subpart FE.
+Increase or decrease excluded from calculation
+(2) The effect on the affected calculation of the increase or decrease in the value is disregarded for the purposes of subpart FE.
+
 **Arrangements involving residential land**
 
 ### GB 52 Arrangements involving residential land: companies’ shares
@@ -24325,6 +24905,33 @@ When this section applies
   (c) the trust’s trust deed changes, a decision-maker under the trust deed changes, or an arrangement under the trust changes, with a purpose or effect of defeating the intent and application of section CB 6A (Disposal within 5 years: bright-line test for residential land).
 Market value disposal
 (2) The trustees are treated as disposing of the trust residential land affected by a change described in subsection (1)﻿(c) for an amount of consideration equal to the market value of the land at the time of the change.
+
+### GB 54 Arrangements involving establishments
+When this section applies
+(1) This section applies when—
+  (a) a non-resident makes, under an arrangement, a supply, as defined in section 5 of the Goods and Services Tax Act 1985, (the facilitated supply) that is of goods or services to—
+    (i) a person in New Zealand (the recipient); or
+    (ii) a person in New Zealand (the intermediary), who makes under the arrangement a supply of the goods or services to another person in New Zealand (the recipient) whose existence is known to the facilitator referred to in paragraph (b), at the time of the facilitated supply; and
+  (b) a person (the facilitator), who is not an intermediary for the facilitated supply, carries out in New Zealand under the arrangement an activity for the purpose of bringing about the facilitated supply to the recipient; and
+  (c) the facilitator—
+    (i) is associated with the non-resident or is an employee of the non-resident:
+    (ii) derives 80% or more of the facilitator’s assessable income in the income year of the activity, and in the previous income year, from services provided to the non-resident or to persons associated with the non-resident; and
+  (d) the activity is more than preparatory for or auxiliary to the facilitated supply; and
+  (e) income of the non-resident from the facilitated supply is not within the scope of a double tax agreement that—
+    (i) incorporates article 12(1) of the Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting:
+    (ii) includes a provision having a scope equal to or greater than the scope of the article referred to in subparagraph (i) and enters into force after 7 June 2017; and
+  (f) section YD 4B(3) (Meaning of permanent establishment) does not determine whether the non-resident has a permanent establishment in New Zealand; and
+  (g) income of the non-resident from the supply is not attributable, other than under this section, to a permanent establishment in New Zealand of the non-resident; and
+  (h) the arrangement has a purpose or effect of affecting the imposition on the non-resident of income tax, or of income tax and the income tax of a country or territory other than New Zealand, by directly or indirectly—
+    (i) altering the incidence of income tax:
+    (ii) relieving a person from liability to pay income tax or from a potential or prospective liability to future income tax:
+    (iii) avoiding, postponing, or reducing a liability to income tax or a potential or prospective liability to future income tax; and
+  (i) the purpose is more than merely incidental; and
+  (j) the non-resident, or a group of persons that include the non-resident, is a large multinational group.
+Activities attributed to permanent establishment
+(2) The non-resident is treated as having a permanent establishment in New Zealand—
+  (a) through which the non-resident makes the facilitated supply in the course of a business carried on in New Zealand; and
+  (b) to which activities of the facilitator referred to in subsection (1)﻿(b) are attributed.
 
 ### Subpart GC — Market value substituted
 
@@ -24420,13 +25027,19 @@ Some definitions
     (b) in the case of multiple lessors, including a partnership, any of the lessors, 1 or more relatives of any of the lessors, or a combination of them
   - **rent** includes a premium or other consideration for the lease.
 
-### GC 6 Purpose of rules and nature of arrangements
+### GC 6 Purpose and application of rules and nature of arrangements
 Purpose of rules
-(1) The purpose of this section and sections GC 7 to GC 14 is to substitute an arm’s length consideration in the calculation of a person’s net income if the person’s net income is reduced by the terms of a cross-border arrangement with an associated person for the acquisition or supply of goods, services, or anything else.
+(1) The purpose of this section and sections GC 7 to GC 14 is to substitute an arm’s length consideration in the calculation of a person’s net income if the person’s net income is reduced by the conditions of a cross-border arrangement—
+  (a) with an associated person or with a party to a financial arrangement that is a cross-border related borrowing of the person under subsection (3B); and
+  (b) for the acquisition or supply of goods, services, or anything else, or that includes a financial arrangement that is a cross-border related borrowing.
+Rules apply consistently with OECD transfer pricing guidelines
+(1B) This section and sections GC 7 to GC 14 apply consistently with the OECD transfer pricing guidelines.
 What is a transfer pricing arrangement?
 (2) An arrangement is a transfer pricing arrangement if—
   (a) the arrangement involves the supply and acquisition of goods, services, money, other intangible property, or anything else; and
-  (b) the supplier and acquirer are associated persons; and
+  (b) the arrangement—
+    (i) is between a supplier and acquirer who are associated persons or are a company and a person who is a member of a non-resident owning body that has an ownership interest in the company of 50% or more:
+    (ii) includes a financial arrangement that is a cross-border related borrowing; and
   (c) the arrangement is a cross-border arrangement under subsection (3).
 When arrangement is cross-border arrangement
 (3) An arrangement is a cross-border arrangement if the requirements of any of the following paragraphs is met:
@@ -24435,6 +25048,27 @@ When arrangement is cross-border arrangement
     (ii) the New Zealand resident has not entered into the arrangement for the purposes of a business carried on by the New Zealand resident outside New Zealand:
   (b) the supplier and acquirer are 2 New Zealand residents and either or both enter into the arrangement for the purposes of a business carried on by the person outside New Zealand:
   (c) the supplier and acquirer are 2 non-residents, unless each enters into the arrangement for the purposes of a business carried on by the person in New Zealand through a fixed establishment in New Zealand.
+When financial arrangement is cross-border related borrowing
+(3B) A financial arrangement is a cross-border related borrowing under this subsection if, under the financial arrangement,—
+  (a) a non-resident person (the lender) provides funds to another person (the borrower) when—
+    (i) the lender and borrower are associated persons:
+    (ii) a person or group of persons has a total ownership interest, determined under sections FE 38 to FE 41 (which give the measurement of ownership interests in companies), of 50% or more in each of the lender and borrower:
+    (iii) the funding is provided through an indirect associated funding arrangement described in subsection (3C):
+    (iv) the lender is a member of a non-resident owning body, or of a group of non-residents who act in concert and are each described in section FE 2(1)﻿(a) to (db) (When this subpart applies), and the members of the non-resident owning body or of the group have a total ownership interest, determined under sections FE 38 to FE 41, of 50% or more in the borrower; and
+  (b) expenditure arises for the borrower for which the borrower is allowed a deduction.
+When indirect associated funding arrangement exists
+(3C) An indirect associated funding arrangement exists under this subsection when,—
+  (a) under an arrangement, a non-resident person (the indirect lender) provides funds or pays money, directly or indirectly, to another person (the direct lender) who provides funds to a third person (the borrower)—
+    (i) in order for the funds to be provided to the borrower, or to reimburse the direct lender or compensate them, for providing the funds to the borrower; and
+    (ii) with the purpose or effect that this section and sections GC 6 to GC 14 and GC 16 to GC 19 do not apply to the arrangement; and
+  (b) the indirect lender is associated with the borrower, or a person or group of persons has a total ownership interest, determined under sections FE 38 to FE 41, of 50% or more in each of the indirect lender and borrower; and
+  (c) the direct lender is not associated with the borrower and is not described in subsection (3B)﻿(a)﻿(iv).
+Application of sections to cross-border related borrowing
+(3D) If a transfer pricing arrangement includes a financial arrangement that is a cross-border related borrowing, sections GC 7 to GC 14 are applied to the transfer pricing arrangement as if the adjustments required by sections GC 15 to GC 19 had been made to the credit rating of the borrower and the conditions of the financial arrangement.
+Certain preference shares excluded from calculation of ownership interest
+(3E) In calculating the ownership interests in a lender or borrower (the issuer) for the purposes of subsection (3B), a preference share is not included in the calculation if the preference share—
+  (a) is held by a person (the creditor) who is not associated with the issuer; and
+  (b) was issued to the creditor with the intention of satisfying or replacing debt provided by the creditor to the issuer in the ordinary course of business.
 Application of sections
 (4) Section GC 7, GC 8, GC 9, or GC 10 can apply to an arrangement under section GB 2 (Arrangements involving transfer pricing).
 
@@ -24504,27 +25138,38 @@ Substitution applying for other party
 An adjustment under any of sections GC 7 to GC 10 has no effect on an obligation of the taxpayer to withhold under Part R (General collection rules) in relation to the amount other than to the extent to which section GC 11(2) applies.
 
 ### GC 13 Calculation of arm’s length amounts
-Use of most reliable measure
-(1) An arm’s length amount of consideration must be determined by applying whichever 1 or a combination of the methods listed in subsection (2) produces the most reliable measure of the amount that completely independent parties would have agreed upon after real and fully adequate bargaining.
-Five available methods
-(2) The arm’s length amount of consideration must be calculated under any 1 or a combination of—
+Determining arm’s length amounts
+(1) An arm's length amount of consideration for a supply and acquisition under a transfer pricing arrangement must be determined by—
+  (a) identifying, as required by subsections (1B) and (1C), a transaction reproducing the supply and acquisition (the identified transaction) or the absence of such a transaction; and
+  (b) identifying the conditions (the arm’s length conditions) that independent parties after real and independent bargaining might be expected to agree upon for the identified transaction; and
+  (c) applying whichever 1 or a combination of the methods listed in subsection (2) produces the most reliable measure of the arm’s length amount of consideration (the arm’s length amount) that independent parties after real and independent bargaining would have agreed upon as the price for the identified transaction as part of the arm’s length conditions.
+Determination of identified transaction
+(1B) A transaction reproducing a supply and acquisition under a transfer pricing arrangement is determined by—
+  (a) accurately delineating the transfer pricing arrangement using the approach given in the OECD transfer pricing guidelines, chapter I, section D﻿.﻿1; and
+  (b) identifying a transaction of supply and acquisition under the transfer pricing arrangement as delineated under paragraph (a).
+No transaction or differing transaction
+(1C) If the requirements of the OECD transfer pricing guidelines, paragraph 1.122, are met, the approach described in the OECD transfer pricing guidelines, chapter I, section D﻿.﻿2 must be used to treat a transfer pricing arrangement involving a supply and acquisition as instead involving—
+  (a) no supply and acquisition; or
+  (b) an identified transaction that differs from the supply and acquisition under the accurately delineated transfer pricing arrangement.
+Available methods for calculating arm’s length amount
+(2) The arm’s length amount of consideration for a supply and acquisition under a transfer pricing arrangement is zero, if there is no supply and acquisition under subsection (1C)﻿(a), or is the amount calculated for the identified transaction under arm’s length conditions by performing a comparability analysis as required by the OECD transfer pricing guidelines, chapter III, using any 1 or a combination of—
   (a) the comparable uncontrolled price method:
   (b) the resale price method:
   (c) the cost plus method:
-  (d) the profit split method:
-  (e) the comparable profits methods.
+  (d) the transactional profit split method:
+  (e) the transactional net margin method.
 Criteria for choice and application of method
 (3) The choice and application of a method or methods must be made having regard to each of the following factors:
-  (a) the degree of comparability between the uncontrolled transactions used for comparison and the controlled transactions of the taxpayer:
+  (a) the degree of comparability between the transactions used for comparison and the transactions of the taxpayer under the transfer pricing arrangement:
   (b) the completeness and accuracy of the data relied on:
   (c) the reliability of all assumptions:
   (d) the sensitivity of a result to possible deficiencies in the data and assumptions.
 Initial determination by the taxpayer
-(4) The arm’s length amount of consideration is determined by the taxpayer under subsections (1) to (3), and the amount determined is the arm’s length amount for the purposes of sections GC 7 to GC 11, unless either—
-  (a) the Commissioner can demonstrate that another amount is a more reliable measure of the arm’s length amount; or
-  (b) the taxpayer has not co-operated with the Commissioner in the Commissioner’s administration of sections GC 6 to GC 14 in relation to the taxpayer, and the non-co-operation has materially affected the Commissioner in that administration.
+(4)
 Commissioner’s determination
-(5) If subsection (4)﻿(a) or (b) applies, the Commissioner determines the amount under subsections (1) to (3) for the purposes of sections GC 7 to GC 11.
+(5)
+Amendment of assessment
+(6) Despite the time bar, the Commissioner may amend an assessment for a tax year (the assessed year) in order to give effect to this section and to sections GC 6 to GC 12 and GC 14 to GC 19 at any time in the period of 7 tax years after the tax year (the return year) in which a return of income is made for the assessed year if, at any time in the period of 4 tax years after the return year, the Commissioner notifies the taxpayer that a tax audit or investigation has commenced and this subsection applies.
 
 ### GC 14 Definitions for sections GC 6 to GC 13
 In sections GC 6 to GC 13,—
@@ -24535,6 +25180,154 @@ In sections GC 6 to GC 13,—
   - **supply** —
     (a) includes making anything available; but
     (b) does not include the mere payment, and subsequent continuing making available, by a person to a company of consideration for the issue of a share, unless the share is a fixed-rate share.
+
+### GC 15 Aspects of loan adjusted for application of sections
+Adjustment of aspects of loan
+(1) If a transfer pricing arrangement includes a financial arrangement that is a cross-border related borrowing under which a non-resident (the lender) provides funds to a person (the borrower), sections GC 7 to GC 14 are applied to the transfer pricing arrangement as if—
+  (a) the borrower had the credit rating required by—
+    (i) section GC 16, if the borrower is not an insuring or lending person under subsection (2):
+    (ii) section GC 17, if the borrower is an insuring or lending person under subsection (2); and
+  (b) conditions of the cross-border related borrowing were disregarded, as required by section GC 18.
+Insuring or lending person
+(2) A borrower is an insuring or lending person under this subsection if the borrower is—
+  (a) a member of the New Zealand banking group of a registered bank for the purposes of subpart FE (Interest apportionment on thin capitalisation):
+  (b) a licensed insurer under the Insurance (Prudential Supervision) Act 2010 or an associated person under that Act of a licensed insurer:
+  (c) a non-bank deposit taker under the Non-bank Deposit Takers Act 2013 or an associated person or related person under that Act of a non-bank deposit taker:
+  (d) a member of a group of persons that has a main business activity of providing funds to persons who are not associated persons of the members of the group:
+  (e) a person that—
+    (i) is a member of a group of persons (the business group) that has a main business activity other than the main business activity of a group of persons referred to in paragraphs (a) to (d); and
+    (ii) has a main business activity of providing funds to persons who are not associated persons of the members of the business group.
+
+### GC 16 Credit rating of borrower: other than insuring or lending person
+Adjustment of long-term issuer credit rating
+(1) For the purposes of sections GC 7 to GC 14, a borrower that is not referred to as an insuring or lending person in section GC 15(2) has a long-term issuer credit rating for a loan given by this section.
+Borrowers with default credit rating
+(2) A borrower has for a loan the default credit rating given by subsection (8) if, on the most recent calculation date given for the loan by subsection (6), the borrower—
+  (a) does not elect to use a credit rating given by 1 of subsections (9) to (11) for the loan, in the first return of income that includes the loan; and
+  (b) is not required to use a credit rating given by subsection (9) or (10).
+Borrowers with restricted credit rating
+(3) A borrower has the restricted credit rating given by subsection (9) if the borrower, or a non-resident that controls the borrower and has no other business activity, is controlled by a group of persons (a co-ordinated group) that is a non-resident owning body or is a group of persons that act in concert and are each described in section FE 2(1)﻿(a) to (db) (When this subpart applies) and—
+  (a) on the most recent calculation date given for the loan by subsection (6) (the latest calculation date), the co-ordinated group does not include a person who has an ownership interest in the borrower, determined under sections FE 38 to FE 41 (which give the measurement of ownership interests in companies), of 50% or more; and
+  (b) the borrower has debt under cross-border related borrowings including the loan, of $10 million or more; and
+  (c) the borrower’s New Zealand group under subpart FE (Interest apportionment on thin capitalisation) has a debt percentage under section FE 12(3) (Calculation of debt percentages) of 40% or more, or, for each lender on the latest calculation date,—
+    (i) there is no ultimate owner having an ownership interest in the lender, determined under sections FE 38 to FE 41, of 50% or more that is resident in the same country or territory as the lender; and
+    (ii) under the tax law of the country or territory in which the lender is resident, income from the borrower’s cross-border related borrowings is, and would be for a company having the usual tax status of a company, subject to taxation at a rate of less than 15%; and
+  (d) the borrower does not elect to use the optional credit rating given by subsection (11) for the loan, in the first return of income that includes the loan.
+Borrowers with group credit rating
+(4) A borrower has the group credit rating given by subsection (10) if the borrower is not controlled by a co-ordinated group referred to in subsection (3) or, on the most recent calculation date given for the loan by subsection (6) (the latest calculation date), is controlled by a co-ordinated group that includes a person who has an ownership interest in the borrower, determined under sections FE 38 to FE 41, of 50% or more, and—
+  (a) the borrower has debt under cross-border related borrowings including the loan, of $10 million or more; and
+  (b) the borrower’s New Zealand group under subpart FE has a debt percentage under section FE 12(3) that is 40% or more and the borrower does not show that the debt percentage is less than 110% of the debt percentage of the borrower’s worldwide group under subpart FE, or, for each lender on the latest calculation date,—
+    (i) there is no ultimate owner having an ownership interest in the lender, determined under sections FE 38 to FE 41, of 50% or more that is resident in the same country or territory as the lender; and
+    (ii) under the tax law of the country or territory in which the lender is resident, income from the borrower’s cross-border related borrowings is, and would be for a company having the usual tax status of a company, subject to taxation at a rate of less than 15%; and
+  (c) the borrower does not elect to use the optional credit rating given by subsection (11), for the loan, in the first return of income that includes the loan.
+Borrowers with optional credit rating for some loans
+(5) A borrower has for a loan the optional credit rating given by subsection (11) if the borrower chooses to use the rate given by that subsection in the first return of income that includes the loan and uses the rate for an amount of related-party debt that is less than or equal to 4 times the total value of the long-term senior unsecured debt, that is not related-party debt, for which the borrower or a member of the borrower’s New Zealand group has the credit rating.
+Calculation dates for loan
+(6) A calculation date under subsections (2) to (4) for a borrower for a loan is a date—
+  (a) that is the day before the first income year of the borrower beginning on or after 1 July 2018, if the borrower enters the loan before that income year and does not use an earlier date under paragraph (d):
+  (b) that is the day on which the borrower enters the loan, if that day is on or after the beginning of the first income year of the borrower beginning on or after 1 July 2018:
+  (c) on or after the beginning of the first income year of the borrower beginning on or after 1 July 2018, on which the loan is renewed, extended, or renegotiated:
+  (d) that is the last day before 1 July 2018 on which the loan is entered, renewed, extended, or renegotiated, if the borrower treats the date as a calculation date in the return of income provided for the first income year beginning on or after 1 July 2018.
+Approximate calculation if calculation date not balance date
+(7) If a calculation date under subsection (6) is not a measurement date under section FE 8 (Measurement dates) for which the borrower measures the amounts of total group debt and total group assets, and follows a measurement date for which the borrower has made such measurements, the debt percentage may be calculated by making appropriate adjustments to the debt percentage calculated for the most recent measurement date.
+Default credit rating
+(8) The credit rating of a borrower under this subsection is the credit rating that the borrower has for long-term senior unsecured debt or, if the borrower does not have such a credit rating, the credit rating for long-term senior unsecured debt that the borrower would have under section GC 13 in the absence of this section and section GC 15.
+Restricted credit rating
+(9) The credit rating of a borrower under this subsection is the higher of—
+  (a) BBB−, or an equivalent rating, given for the borrower by a rating agency approved by the Reserve Bank of New Zealand under section 86 of the Non-bank Deposit Takers Act 2013:
+  (b) the credit rating that the borrower would have if the borrower’s New Zealand group under subpart FE had a debt percentage equal to the lesser of 40% and the debt percentage of the New Zealand group.
+Group credit rating
+(10) The credit rating of a borrower under this subsection is the higher of—
+  (a) the credit rating for long-term senior unsecured debt of the member, of the borrower’s worldwide group under subpart FE, that has the most such debt, reduced by,—
+    (i) if the member has a credit rating lower than BBB+, the division (the notch) that is the smallest division within the credit rating category or is the division between credit rating categories:
+    (ii) if the member has a credit rating of BBB+ or higher, 2 notches:
+  (b) the credit rating for long-term senior unsecured debt that the borrower would have under section GC 13 in the absence of this section and section GC 15.
+Optional credit rating
+(11) The credit rating of a borrower under this subsection is—
+  (a) the credit rating of the borrower, or a member of the borrower’s New Zealand group, for existing long-term senior unsecured debt that is not related-party debt, if the borrower or member has such a credit rating; or
+  (b) the credit rating corresponding to the rate of interest incurred by the borrower, or a member of the borrower’s New Zealand group, for existing long-term senior unsecured debt that is not related-party debt.
+
+### GC 17 Credit rating of borrower: insuring or lending person
+For the purposes of sections GC 7 to GC 14, a borrower that is referred to as an insuring or lending person in section GC 15(2) has a credit rating for a cross-border related borrowing that is equal to—
+  (a) the credit rating for long-term senior unsecured debt of the member of the borrower’s worldwide group, under subpart FE (Interest apportionment on thin capitalisation), having the greatest long-term senior unsecured debt, if the borrower has debt under cross-border related borrowings including the loan of $10 million or more on the most recent calculation date given for the loan by section GC 16(4); or
+  (b) the credit rating for long-term senior unsecured debt that the borrower would have under section GC 13 in the absence of this section and section GC 15, if the borrower has debt under cross-border related borrowings including the loan of less than $10 million on the most recent calculation date; or
+  (c) the optional credit rating given for the borrower by section GC 16(11), if the borrower chooses to use the rate given by that subsection and uses the rate for an amount of related-party debt that is less than or equal to 4 times the total value of the long-term senior unsecured debt, that is not related-party debt, for which the borrower or a member of the borrower’s New Zealand group has the credit rating.
+
+### GC 18 Loan features disregarded by rules for transfer pricing arrangements
+When this section applies
+(1) This section applies when sections GC 7 to GC 14 are applied to a borrower and a transfer pricing arrangement including a financial arrangement (the loan) that is a cross-border related borrowing, as referred to in section GC 15(1).
+General rule
+(2) A feature of the loan is disregarded, or adjusted as required by this section, for the purposes of applying sections GC 7 to GC 14 if—
+  (a) the borrower has debt under cross-border related borrowings, including the loan, of $10 million or more on the most recent calculation date given for the loan by section GC 16(4); and
+  (b) the feature may increase the rate of interest payable by the borrower under the loan and—
+    (i) is referred to in subsection (3); and
+    (ii) is not included in an exception under subsections (9) and (10).
+Loan features disregarded or adjusted if no exception
+(3) A feature of a financial arrangement that is a cross-border related borrowing may be disregarded or adjusted under this section if the feature—
+  (a) allows the reduction of a liability for interest or principal by a provision of value other than payment of an amount of money:
+  (b) allows a liability to pay interest to be deferred for a period of more than 12 months:
+  (c) provides for a change in the rate of interest payable that is contingent on an event within the control of the borrower or the lender:
+  (d) excludes the exercise of a lender’s usual rights to enforce the payment of interest or repayment of principal:
+  (e) provides that a liability to pay interest or repay principal is contingent on an event within the control of the borrower or the lender:
+  (f) provides that the term of the loan from when the financial arrangement is entered is more than 5 years:
+  (g) provides that the borrower’s obligations under the loan are subordinate to other financial arrangements of the borrower.
+Term of loan
+(4) A term of more than 5 years for a cross-border related borrowing may be adjusted under subsection (8) if the exception in subsection (10) does not apply.
+Quantities affecting adjustment to term
+(5) Whether an adjustment is required under subsection (8), and the amount of a required adjustment, is found for the date (the calculation date) on which the loan is entered or renewed or extended using—
+  (a) the figure (the threshold term) calculated using the formula in subsection (6) for financial arrangements having a term of more than 5 years—
+    (i) included in the total group debt of the borrower’s worldwide group under subpart FE (Interest apportionment on thin capitalisation); or
+    (ii) between members of the borrower’s New Zealand group under subpart FE and persons other than associated persons:
+  (b) the value of the financial arrangements used in calculating the threshold term, expressed as a fraction (the threshold fraction) of—
+    (i) the total group debt of the borrower’s worldwide group, if the threshold term is calculated under paragraph (a)﻿(i); or
+    (ii) the total value of loans to members of the borrower’s New Zealand group by persons other than associated persons, if the threshold term is calculated under paragraph (a)﻿(ii).
+Threshold term
+(6) The threshold term for the purposes of subsection (5)﻿(a) is the total of amounts, each of which is calculated using the formula—term × term debt ÷ long-term debt.
+Definition of items in formula
+(7) In the formula,—
+  (a) term is the period of the loan term, calculated from the most recent date on which each loan is entered or renewed or extended:
+  (b) term debt is the total value on the calculation date of the principal amounts of loans with the loan term:
+  (c) long-term debt is—
+    (i) the total group debt having a term of more than 5 years of the borrower’s worldwide group, if the threshold term is calculated for financial arrangements described in subsection (5)﻿(a)﻿(i); or
+    (ii) the total value of loans having a term of more than 5 years to members of the borrower’s New Zealand group by persons other than associated persons, if the threshold term is calculated for financial arrangements described in subsection (5)﻿(a)﻿(ii).
+Term of loan: adjustment
+(8) The term of a loan is adjusted to equal—
+  (a) the threshold term under subsection (5)﻿(a), if—
+    (i) the term of the loan exceeds the threshold term; and
+    (ii) the total value of loans to members of the borrower’s New Zealand group by associated persons and having a term of more than 5 years, expressed as a proportion of the total value of loans to members of the borrower’s New Zealand group by associated persons, does not exceed the threshold fraction under subsection (5)﻿(b); or
+  (b) 5 years, if when the loan is included, the total value of loans to members of the borrower’s New Zealand group by associated persons and having a term of more than 5 years,—
+    (i) expressed as a proportion of the total value of loans to members of the borrower’s New Zealand group by associated persons, exceeds the threshold fraction under subsection (5)﻿(b):
+    (ii) is more than 4 times the total value of financial arrangements with the feature that are included in total group debt of the borrower’s worldwide group, when the threshold fraction is determined under subsection (5)﻿(b)﻿(i):
+    (iii) is more than 4 times the total value of financial arrangements with the feature that are included in the debt that is financial arrangements between members of the borrower’s New Zealand group and persons other than associated persons, when the threshold fraction is determined under subsection (5)﻿(b)﻿(ii).
+Exceptions for features reflecting other borrowing
+(9) For a borrower that is not referred to as an insuring or lending person in section GC 15(2)﻿(a), (b), or (c) and a feature of a financial arrangement other than the term of a loan, the feature is not disregarded or adjusted if—
+  (a) the feature corresponds to a feature of financial arrangements with a total value that is a fraction (the feature fraction) of the total value of financial arrangements—
+    (i) included in the total group debt of the borrower’s worldwide group under subpart FE; or
+    (ii) between members of the borrower’s New Zealand group under subpart FE and persons other than associated persons; and
+  (b) the feature is included in financial arrangements, between members of the borrower’s New Zealand group under subpart FE and associated persons, having a total value when the loan is included that,—
+    (i) as a fraction of the total value of financial arrangements between the members of the borrower’s New Zealand group and associated persons, is less than or equal to the feature fraction; and
+    (ii) if the feature fraction is determined under paragraph (a)﻿(i), is less than or equal to 4 times the total value of financial arrangements with the feature that are included in total group debt of the borrower’s worldwide group; and
+    (iii) if the feature fraction is determined under paragraph (a)﻿(ii), is less than or equal to 4 times the total value of financial arrangements with the feature that are included in the debt that is financial arrangements between members of the borrower’s New Zealand group and persons other than associated persons.
+Exceptions for borrowing required for some insuring or lending persons
+(10) For a borrower that is referred to as an insuring or lending person in section GC 15(2)﻿(a), (b), or (c) or is associated with such a person, a feature of a financial arrangement is not disregarded or adjusted if,—
+  (a) for a borrower referred to in section GC 15(2)﻿(a), the feature reflects a requirement, applicable when the financial arrangement is entered, for an arrangement to be recognised by the Reserve Bank of New Zealand as regulatory capital for a member of the New Zealand banking group of a registered bank:
+  (b) for a borrower who is associated with a person (the banking associate) referred to in section GC 15(2)﻿(a),—
+    (i) the financial arrangement (the funding arrangement) is entered for the purpose of providing funds for a financial arrangement or excepted financial arrangement (the funded arrangement), to be entered by the banking associate to satisfy regulatory capital requirements; and
+    (ii) the features of the funding arrangement reflect the features of the funded arrangement; and
+    (iii) the feature reflects a feature of the funded arrangement that meets the requirements of paragraph (a):
+  (c) for a borrower referred to in section GC 15(2)﻿(b), the feature reflects solvency capital requirements that relate to features of loans and are imposed, when the financial arrangement is entered, on a licensed insurer as a condition of licence under the Insurance (Prudential Supervision) Act 2010:
+  (d) for a borrower who is associated with a person (the insuring associate) referred to in section GC 15(2)﻿(b),—
+    (i) the financial arrangement (the funding arrangement) is entered for the purpose of providing funds for a financial arrangement (the funded arrangement), to be entered by the insuring associate to satisfy solvency capital requirements; and
+    (ii) the features of the funding arrangement reflect the features of the funded arrangement; and
+    (iii) the feature reflects a feature of the funded arrangement that meets the requirements of paragraph (c):
+  (e) for a borrower referred to in section GC 15(2)﻿(c), the feature reflects minimum capital ratio requirements that relate to features of loans and are imposed, when the financial arrangement is entered, on a non-bank deposit taker by the non-bank deposit taker’s trust deed and regulations 8 and 10 of the Deposit Takers (Credit Ratings, Capital Ratios, and Related Party Exposures) Regulations 2010:
+  (f) for a borrower who is associated with a person (the deposit taker associate) referred to in section GC 15(2)﻿(c),—
+    (i) the financial arrangement (the funding arrangement) is entered for the purpose of providing funds for a financial arrangement (the funded arrangement), to be entered by the deposit taker associate to satisfy minimum capital ratio requirements; and
+    (ii) the features of the funding arrangement reflect the features of the funded arrangement; and
+    (iii) the feature reflects a feature of the funded arrangement that meets the requirements of paragraph (e).
+
+### GC 19 Sections GC 15 to GC 18 and financial arrangements entered before application period
+If a person enters a financial arrangement before the first income year of the person beginning on or after 1 July 2018, this subpart applies to the person and the financial arrangement for the income years beginning on or after 1 July 2018 as if the aspects of the financial arrangement were adjusted by sections GC 15 to GC 18 as at the date that is the last day before 1 July 2018 on which the loan is entered, renewed, extended, or renegotiated.
 
 ### Subpart GZ — Terminating provisions
 
@@ -27999,7 +28792,7 @@ Period of transitional residence
 Choosing not to be transitional resident
 (4) A person who would otherwise be a transitional resident in an income year may choose by notice to the Commissioner or by notice under subsection (5) not to be a transitional resident on and after a date nominated by the person, which may be on or after the start of the income year.
 Applying for tax credits
-(5) An application under section 41 of the Tax Administration Act 1994 by a person who is eligible to be a transitional resident for a tax credit under subparts MA to MF and MZ (which relate to tax credits for families) for an income year is treated for the period of the application as—
+(5) An application under section 41 of the Tax Administration Act 1994 by a person who is eligible to be a transitional resident for a tax credit under subparts MA to MG and MZ (which relate to tax credits for families) for an income year is treated for the period of the application as—
   (a) a notice of election under subsection (4) by the person if they have not made one; and
   (b) a notice of election under subsection (4) by a spouse, civil union partner, or de facto partner of the person.
 Election irrevocable
@@ -28309,7 +29102,8 @@ Additional amounts
   (d) a company (company A) if an Australian ICA company has chosen under section OB 69(5) (Further income tax paid satisfying liability for income tax) to have a payment converted into a tax loss component of company A: the amount calculated under section OB 69(7) for the tax year:
   (e) a person who has an unused attributed controlled foreign company (CFC) net loss for the tax year: the amount referred to in section IQ 2(3) (Ring-fencing cap on attributed CFC net losses) for the tax year:
   (f) a person who has an unused foreign investment fund (FIF) net loss for the tax year: the amount referred to in section IQ 3(3) (Ring-fencing cap on FIF net losses) for the tax year:
-  (g) a person with an unused specified activity net loss: the amount of the unused specified activity net loss to the extent to which the amount has not been subtracted under section IA 4(1)﻿(a) from net income for a tax year.
+  (g) a person with an unused specified activity net loss: the amount of the unused specified activity net loss to the extent to which the amount has not been subtracted under section IA 4(1)﻿(a) from net income for a tax year:
+  (h) a person who has a mismatch amount under section FH 8 (Expenditure or loss through hybrid entity or foreign deducting branch producing double deduction without double income) that is not set off under section FH 12 (Offset of mismatch amounts against surplus assessable income), the amount given by section FH 12(8) for the tax year.
 Ring-fenced amounts
 (5) This section, and sections IA 3 and IA 4, do not apply to the amounts referred to in section IA 7, which are subject to particular rules in other Parts or subparts that limit the way in which a person may use them.
 Exclusion: net losses from schedular income
@@ -29380,7 +30174,7 @@ Meaning of detached tax credit
 
 ### LB 4 Tax credits for families
 Tax credits under subparts MD and ME
-(1) A person has a tax credit for a tax year equal to the total amount of their tax credit under subpart MD (Abating WFF tax credits) and their minimum family tax credit under subpart ME (Minimum family tax credit) for the tax year.
+(1) A person has a tax credit for a tax year equal to the total amount of their tax credit under subpart MD (Abating WFF tax credits), their minimum family tax credit under subpart ME (Minimum family tax credit), and their Best Start tax credit under subpart MG (Best Start tax credit) for the tax year.
 Adjustments for credits used
 (2) The person's tax credit is adjusted if an instalment of the credit under subpart MF (Payment of credits) is used to satisfy an amount of tax for an earlier income year. The adjustment to the tax credit is equal to the total amount of instalments payable under section MF 1 (Application for payment of tax credit by instalment) that are recovered by the Commissioner under section MF 6 (Overpayment or underpayment of tax credit) as tax payable by the person.
 
@@ -29616,7 +30410,7 @@ Amount of credit
 Multi-rate PIEs and their investors
 (1B) An investor in a multi-rate PIE who has an imputation credit attributed for use under section HM 54 (Use of tax credits other than foreign tax credits by investors) has a tax credit for the tax year of an amount equal to the amount of the imputation credit.
 Exclusion
-(2) For a returning share transfer, a share user does not have a tax credit for an imputation credit attached to a dividend derived in a period in which they hold a share acquired under the transfer. However, a person providing a share under a returning share transfer is allowed a tax credit for the amount of an imputation credit recorded in the credit transfer notice, see section LE 7.
+(2) For a returning share transfer, a share user does not have a tax credit for an imputation credit attached to a dividend derived in a period in which they hold a share acquired under the transfer. However, a person providing a share under a returning share transfer is allowed a tax credit for the amount of an imputation credit recorded in the credit transfer notice, see section LE 7 except if the person is related to the share user or the returning share transfer is a structured arrangement, see section FH 4(5) (Receipts under financial instruments producing deduction without income).
 When amount altered
 (3) The amount of the person’s credit in subsection (1) may be reduced or increased if any of sections LE 4 to LE 10 apply.
 Portfolio tax rate entities and investors in entities
@@ -30576,7 +31370,7 @@ In sections LZ 6 and LZ 7, home vendor mortgage means a mortgage—
 
 ### MA 1 What this Part does
 This Part identifies the tax credits to which a natural person is entitled—
-  (a) under the family scheme for a tax year, see subparts MA to MF and MZ (which relate to working for families tax credits):
+  (a) under the family scheme for a tax year, see subparts MA to MG and MZ (which relate to working for families tax credits):
   (b) under the superannuation savings scheme for a year beginning on 1 July and ending on 30 June, see subpart MK (Tax credits for KiwiSaver schemes and complying superannuation funds):
   (bb) for R&D tax losses for an income year beginning on or after 1 April 2015, see subpart MX (Tax credits for R&D tax losses).
   (c)
@@ -30591,14 +31385,14 @@ A tax credit that a person has under this Part is excluded income of the person.
 If a calculation under this Part produces a result that is negative for the amount of a tax credit or the amount of a component of a credit, the amount of the credit or component is zero.
 
 ### MA 5 Advice from outside agencies
-In determining a person’s entitlement to a tax credit under subparts MB to MF and MZ, the Commissioner may obtain the advice of the chief executive or, as applicable, the General Manager of Veterans’ Affairs New Zealand appointed under section 200(1) of the Veterans' Support Act 2014.
+In determining a person’s entitlement to a tax credit under subparts MB to MG and MZ, the Commissioner may obtain the advice of the chief executive or, as applicable, the General Manager of Veterans’ Affairs New Zealand appointed under section 200(1) of the Veterans' Support Act 2014.
 
 ### MA 6 Avoidance arrangements
-Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MF and MZ.
+Section GB 44 (Arrangements involving tax credits for families) may apply to reduce a tax credit under subparts MB to MG and MZ.
 
 ### MA 7 Meaning of full-time earner for family scheme
 Weekly employment
-(1) In subparts MB to MF and MZ, a full-time earner means a person who, for a week,—
+(1) In subparts MB to MG and MZ, a full-time earner means a person who, for a week,—
   (a) is employed for 20 hours or more and does not have a spouse, civil union partner, or de facto partner during the week; or
   (b) has a spouse, civil union partner, or de facto partner (the partner) during the week, and either the person or the partner or both of them in total are employed for 30 hours or more.
 Modifications to weekly employment
@@ -30617,14 +31411,16 @@ Incapacity
     (iii) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54 or 55 of that Act.
 
 ### MA 8 Some definitions for family scheme
-In subparts MB to MF and MZ,—
+In subparts MB to MG and MZ,—
   - **abating WFF tax credit** means a tax credit under section MD 1 (Abating WFF tax credit)
+  - **Best Start credit abatement** means the component of the Best Start tax credit that is calculated using the formula in section MG 3 (Best Start credit abatement)
+  - **Best Start tax credit** means a tax credit under section MG 1 (Best Start tax credit entitlement)
   - **chief executive** means the chief executive of the department currently responsible for administering the Social Security Act 1964
   - **child tax credit** means the component of the WFF tax credit that is calculated using the formula in section MZ 2 (Calculation of child tax credit)
   - **family assistance credit**
   - **family credit abatement** means the component of the abating WFF tax credit that is calculated using the formula in section MD 13 (Calculation of family credit abatement)
   - **family plus**
-  - **family scheme** means all the entitlements and tax credits arising under subparts MB to MF and MZ
+  - **family scheme**
   - **family scheme income** means the amount, described in section MB 1 (Adjustments for calculation of family scheme income), based on a person's net income and adjusted as provided by subpart MB (Adjustment of net income for family scheme), on which an entitlement and a tax credit under the family scheme is based
   - **family support**
   - **family tax credit** means the component of the abating WFF tax credit calculated using the formula in section MD 3 (Calculation of family tax credit)
@@ -30645,7 +31441,10 @@ In subparts MB to MF and MZ,—
     (e) an accident compensation earnings-related payment, when the compensation relates to a day forming part of a continuous period of eligibility for the compensation and the day falls after the earlier of—
       (i) the day with the same date as the first day of the continuous period of eligibility for compensation and occurring in the third calendar month after that first day; and
       (ii) the last day of the third calendar month after the first day of the continuous period of eligibility for compensation
-  - **WFF tax credit** means a tax credit under either section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit).
+  - **WFF tax credit** means a tax credit under—
+    (a) section MD 1 (Abating WFF tax credit):
+    (b) section ME 1 (Minimum family tax credit):
+    (c) section MG 1 (Best Start tax credit entitlement)
 
 ### Subpart MB — Adjustment of net income for family scheme
 
@@ -30691,7 +31490,7 @@ Calculation of adjustment
 (1) If a person’s income is calculated for a period that is less or more than a year, their family scheme income must be adjusted by an amount calculated using the formula—person's family scheme income × 365 ÷ days.
 Definition of items in formula
 (2) In the formula,—
-  (a) person’s family scheme income is the person’s income calculated under subparts MB to MF and MZ:
+  (a) person’s family scheme income is the person’s income calculated under subparts MB to MG and MZ:
   (b) days is the total number of days in the period for which the income has been derived.
 
 ### MB 3 When person carries on 1 or more businesses or investment activities
@@ -30887,7 +31686,7 @@ Payments and benefits excluded from family scheme income
   (k) lump sum compensation under the Accident Compensation Act 2001:
   (kb) a payment of a foster care allowance under section 363 of the Oranga Tamariki Act 1989:
   (l) a monetary benefit under the Social Security Act 1964 that is exempt income:
-  (m) a pension or allowance under the Veterans' Support Act 2014 that is exempt income:
+  (m) a pension or allowance under the Veterans’ Support Act 2014 that is exempt income:
   (n) a payment that is exempt income under section CW 33(1)﻿(c), (e), or (f) (Allowances and benefits):
   (o) an amount that is declared not to be income for the purposes of the Social Security Act 1964 by a regulation under section 132 of that Act:
   (p) included in the family scheme income of the person under another section:
@@ -30911,11 +31710,13 @@ WFF tax credits
   (a) the family tax credit calculated under section MD 3 (Calculation of family tax credit):
   (b) the in-work tax credit, see sections MD 4 to MD 10 (which relate to the entitlement to and calculation of the in-work tax credit), or the child tax credit continued under section MZ 1 (Entitlement to child tax credit):
   (c) the parental tax credit, see sections MD 11 and MD 12 (which relate to the entitlement to and calculation of the parental tax credit):
-  (d) the minimum family tax credit, see section ME 1 (Minimum family tax credit).
+  (d) the minimum family tax credit, see section ME 1 (Minimum family tax credit):
+  (e) the Best Start tax credit, see section MG 1 (Best Start tax credit entitlement).
 Classification of credits
 (3) For the purposes of the calculation of an amount of a WFF tax credit, entitlements and tax credits under the family scheme are divided into—
   (a) abating WFF tax credits, made up of the family tax credit, in-work tax credit or child tax credit, and the parental tax credit:
-  (b) the minimum family tax credit.
+  (b) the minimum family tax credit:
+  (c) the Best Start tax credit.
 Classification of credits
 (4)
 
@@ -30937,18 +31738,22 @@ When person meets residence requirements
 (2) The person meets the residence requirements of subsection (1) if the person—
   (a) has been—
     (i) both a New Zealand resident and present in New Zealand for a continuous period of 12 months at any time; and
-    (ii) resident in New Zealand under section YD 1 (Residence of natural persons) on the days for which a tax credit arises under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit); and
+    (ii) resident in New Zealand under section YD 1 (Residence of natural persons) on the days for which a tax credit arises under section MD 1 (Abating WFF tax credit), ME 1 (Minimum family tax credit entitlement), or MG 1 (Best Start tax credit entitlement); and
   (b) is not a transitional resident and is not the spouse, civil union partner, or de facto partner of a transitional resident.
 When child meets residence requirements
 (3) The child meets the residence requirements of subsection (1) if the child is both a New Zealand resident and present in New Zealand for the entitlement period.
 
 ### MC 6 When person does not qualify
 Despite sections MC 3 to MC 5, a person does not qualify for—
-  (a) an abating WFF tax credit if, during the relationship period, they receive a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act:
+  (a) an abating WFF tax credit or a Best Start tax credit if, during the relationship period, they receive a parent's allowance continued by clause 3 of Schedule 1 of the Veterans' Support Act 2014 or a children's pension under section 72 or 75 of that Act:
   (b) an in-work tax credit, parental tax credit, or minimum family tax credit if, during the relationship period, they receive—
     (i) an income-tested benefit; or
     (ii)
-    (iii) a parent’s allowance or a children's pension.
+    (iii) a parent’s allowance or a children's pension:
+  (c) a Best Start tax credit, if they receive, in relation to a relevant dependent child,—
+    (i) a parental tax credit:
+    (ii) a parent’s allowance or a children’s pension:
+    (iii) a parental leave payment or preterm baby payment under Part 7A of the Parental Leave and Employment Protection Act 1987.
 
 ### MC 7 When spouse or partner entitled under family scheme
 When this section applies
@@ -30993,8 +31798,8 @@ General meaning
     (i) a body of persons, incorporated or otherwise:
     (ii) the spouse, civil union partner, or de facto partner of a person eligible to be a transitional resident who has not made an election under section HR 8(4) (Transitional residents):
     (iii) a person who is the proprietor of, or employed in, a residence established under the Oranga Tamariki Act 1989, or a residential disability care institution as defined in section 58(4) of the Health and Disability Services (Safety) Act 2001, or another institution in which a child is cared for.
-Meaning for abating WFF tax credit, family tax credit, child tax credit
-(2) For the purposes of sections MD 3 and MZ 1 (which relate to family tax credit and the child tax credit), a person is a principal caregiver of a dependent child if the person—
+Meaning for abating WFF tax credit, family tax credit, Best Start tax credit, child tax credit
+(2) For the purposes of sections MD 3, MG 1, and MZ 1 (which relate to certain tax credits for families), a person is a principal caregiver of a dependent child if the person—
   (a) lives apart from another person who qualifies under section MC 2 in relation to the dependent child; and
   (b) has the dependent child in their exclusive care for periods totalling at least one-third of—
     (i) a 4-month period:
@@ -31015,7 +31820,7 @@ Principal caregiver to notify Commissioner of change
 
 ### MC 11 Relationship periods and entitlement periods
 Meaning
-(1) In subparts MB to MF and MZ,—
+(1) In subparts MB to MG and MZ,—
   (a) a relationship period means an unbroken period in a tax year, whether the period consists of some or all of the days in the tax year:
   (b) an entitlement period, for a person, means a period that forms all or part of a relationship period during which the person meets the continuing requirements set out in section MC 8.
 When day included in more than 1 period
@@ -31175,6 +31980,7 @@ Order in Council increasing amount
 When this section applies
 (1) This section applies when—
   (a) a person qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) in relation to a dependent child; and
+  (ab) the dependent child is born before 1 July 2018, and, if the expected due date for the dependent child is on or after 1 July 2018, the person has elected in writing to apply this section; and
   (b) neither the person nor their spouse, civil union partner, or de facto partner receives—
     (i) a social assistance payment or has a suspended entitlement to an income-tested benefit at any time during the first 70 days after the date of the dependent child’s birth (the parental entitlement period); or
     (ii) a parental leave payment or preterm baby payment under Part 7A of the Parental Leave and Employment Protection Act 1987 at any time for the child.
@@ -31358,7 +32164,7 @@ Definition of items in formula
 ### MF 1 Application for payment of tax credit by instalment
 When this section applies
 (1) This section applies when—
-  (a) a person who is a principal caregiver expects to be entitled, throughout a selected period, to a tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit); and
+  (a) a person who is a principal caregiver expects to be entitled, throughout a selected period, to a WFF tax credit; and
   (b) section MF 2 does not apply to the person; and
   (c) the person wants the tax credit to be paid by instalment before the end of the tax year that contains the selected period.
 Application
@@ -31372,9 +32178,10 @@ When this section applies
   (a) a person—
     (i) expects that in a relationship period they will be entitled to receive an income-tested benefit; or
     (ii) applies under section 80KP of the Tax Administration Act 1994 to the chief executive for payment of a tax credit for a period after an income-tested benefit has ended; and
-  (b) the chief executive—
-    (i) is authorised by section 80KN of that Act to pay an abating WFF tax credit to the person; and
-    (ii) does not ask the Commissioner under section 80KQ of that Act to accept from the person an application for a notice of entitlement.
+  (b) the chief executive is authorised by section 80KN of that Act to pay to the person—
+    (i) an abating WFF tax credit:
+    (ii) a Best Start tax credit; and
+  (c) the chief executive does not ask the Commissioner under section 80KQ of that Act to accept from the person an application for a notice of entitlement.
 No entitlement
 (2) The person is not entitled to apply under section MF 1 for the payment of the tax credit by instalment for the relationship period, and section 80KN applies.
 
@@ -31394,14 +32201,19 @@ Definition of items in formula
   (b) days is the number of days in the calculation period.
 
 ### MF 4 Requirements for calculating instalment of tax credit
-How to calculate instalment
-(1) The Commissioner must calculate the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit) or, as applicable, sections MD 1 and ME 1 (Minimum family tax credit)—
-  (a) as if the calculation period referred to in section MF 3 were a relationship period; and
-  (b) using—
-    (i) a value for family scheme income as directed by section MF 3(2)﻿(c); and
-    (ii) the amounts of family tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, and minimum family tax credit set out in sections MD 3, MD 4, MD 11, MD 12, and ME 1 (which relate to credits).
+When this section applies
+(1) This section applies for an instalment by way of tax credit under—
+  (a) section MD 1 (Abating WFF tax credit):
+  (b) section ME 1 (Minimum family tax credit):
+  (c) section MG 1 (Best Start tax credit entitlement).
+How to calculate instalment: period
+(2) The Commissioner must calculate the amount of the instalment as if the calculation period referred to in section MF 3 were a relationship period.
+How to calculate instalment: amount
+(3) The Commissioner must calculate the amount of the instalment using—
+  (a) a value for family scheme income as directed by section MF 3(2)﻿(c); and
+  (b) the amounts of family tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, minimum family tax credit, Best Start tax credit, and Best Start credit abatement set out in sections MD 3, MD 4, MD 11, MD 12, MD 13, ME 1, MG 2, and MG 3.
 Instalment shown in complete dollars
-(2) An instalment of a tax credit under section MD 1 or, as applicable, sections MD 1 and ME 1, is to be shown in a notice of entitlement in complete dollars.
+(4) The instalment is to be shown in a notice of entitlement in complete dollars.
 
 ### MF 4B Calculation of instalments: 1 April 2008 to 30 September 2008
 [Repealed]
@@ -31528,14 +32340,22 @@ What may be done by Order in Council
   (c) increase the amount appearing as an item in the formula for the parental tax credit set out in section MD 12(3) (Calculation of parental tax credit):
   (cb) increase the amounts appearing as the amount of the threshold set out in section MD 13(3):
   (d) increase the amount appearing as an item in the formula for the minimum family tax credit in section ME 1(3) (Minimum family tax credit):
+  (db) change the amounts in section MG 2(2)﻿(a) (Best Start tax credit) by an amount that—
+    (i) corresponds to the movement in the New Zealand Consumers Price Index that has not yet been taken into account by an increase:
+    (ii) is rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
+  (dc) change the amounts in section MG 3(2)﻿(a) (Best Start tax credit abatement):
   (e) replace schedule 31 (Annualised equivalent amount for Part M).
 Order in Council under subsection (1)﻿(a): requirements
 (2) An Order in Council under subsection (1)﻿(a),—
   (a) in the case of the first Order in Council made under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2008 is 5% or more:
   (b) in the case of the second Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 July 2018 is 5% or more:
   (c) in the case of a subsequent Order in Council under subsection (1)﻿(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+Order in Council under subsection (1)﻿(db): requirements
+(2BA) An Order in Council under subsection (1)﻿(db),—
+  (a) in the case of the first Order in Council made under subsection (1)﻿(db), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 July 2018 is 5% or more:
+  (b) in the case of a subsequent Order in Council under subsection (1)﻿(db), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
 How movement in CPI determined
-(2B) For the purposes of subsections (1)﻿(a)﻿(i) and (2)﻿(a), (b), and (c), a movement in the New Zealand Consumers Price Index over a period is determined by comparing the following numbers:
+(2B) For the purposes of subsections (1)﻿(a)﻿(i) and (db)﻿(i), (2), and (2BA), a movement in the New Zealand Consumers Price Index over a period is determined by comparing the following numbers:
   (a) the number that, when the period started, was the most recent quarterly index number of the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products:
   (b) the number that, when the period ended, was the most recent quarterly index number of the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products.
 Order in Council under subsection (1)﻿(ab)
@@ -31550,6 +32370,62 @@ Timing of review
 (5) A review undertaken under subsection (4) must occur,—
   (a) in the case of the first review, not later than 30 June 2008; and
   (b) in the case of subsequent reviews, not later than 30 June in the third year after each preceding review.
+
+### Subpart MG — Best Start tax credit
+
+### MG 1 Best Start tax credit entitlement
+Best Start tax credit for dependent child
+(1) A person is entitled to a tax credit, the Best Start tax credit, for an entitlement period for a dependent child equal to an amount calculated using the formula in subsection (2), if—
+  (a) the person qualifies under section MC 2 (Who qualifies for entitlements under family scheme?); and
+  (b) the person is a principal caregiver for the dependent child during the entitlement period; and
+  (c) the dependent child is aged less than 3 years old; and
+  (d) the dependent child is born—
+    (i) on or after 1 July 2018; or
+    (ii) before 1 July 2018, but the expected due date for the child is on or after 1 July 2018.
+Best Start tax credit formula
+(2) The formula is—Best Start tax credit − credit abatement.
+Definition of items in formula
+(3) In the formula,—
+  (a) Best Start tax credit is the person’s Best Start tax credit for the entitlement period for the dependent child, calculated using the formula in section MG 2:
+  (b) credit abatement is the person’s Best Start credit abatement, calculated using the formula in section MG 3.
+Extra instalment
+(4) This section is overridden by section 80KW of the Tax Administration Act 1994.
+
+### MG 2 Best Start tax credit
+Best Start tax credit for dependent child
+(1) For the purposes of section MG 1(3)﻿(a), the person’s Best Start tax credit for the entitlement period for the dependent child is calculated using the formula—prescribed amount × days ÷ 365.
+Definition of items in formula
+(2) In the formula,—
+  (a) prescribed amount is, for the dependent child, $3,120:
+  (b) days is the number of days in the entitlement period.
+If dependent child dies during entitlement period
+(3) The person continues to be entitled to the Best Start tax credit for 4 weeks after the dependent child dies, if the person otherwise meets the requirements of section MG 1(1).
+Order in Council increasing amount
+(4) The amount in subsection (2)﻿(a) may be changed as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
+When another person cares for dependent child
+(5) A Best Start tax credit must be reduced in proportion to the time in the entitlement period that the dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
+
+### MG 3 Best Start credit abatement
+When this section applies
+(1) For the purposes of section MG 1(3)﻿(b) the person’s Best Start credit abatement for the entitlement period is calculated using the formula—full-year abatement × days ÷ 365.
+Definition of items in formula
+(2) In the formula,—
+  (a) full-year abatement is,—
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $79,000, 21 cents for each complete dollar of the excess:
+  (b) days is the number of days in the entitlement period excluding—
+    (i) the days on which the dependent child is less than 1 year old:
+    (ii) the days of any calendar months in which the person receives protected Best Start tax credit as described in section MG 4.
+Order in Council increasing amount
+(3) The amounts in subsection (2)﻿(a) may be changed as prescribed by the Governor-General by Order in Council under section MF 7 (Orders in Council).
+
+### MG 4 Person receiving protected Best Start tax credit
+Requirements
+(1) For the purposes of section MG 3(2)﻿(b)﻿(ii), a person who receives protected Best Start tax credit for a calendar month in an entitlement period, is a person who, in the calendar month,—
+  (a) has no spouse, civil union partner, or de facto partner, receives an income-tested benefit, and derives family scheme income that is less than the amount set out in section MG 3(2)﻿(a)﻿(i):
+  (b) has a spouse, civil union partner, or de facto partner, receives an income-tested benefit, and derives family scheme income that together with the family scheme income of their spouse, civil union partner, or de facto partner is less than the amount set out in section MG 3(2)﻿(a)﻿(ii).
+Annualised equivalent
+(2) Section MB 2 (Adjustment for period that is less or more than 1 year) applies to adjust the amount of family scheme income to provide an annualised equivalent.
 
 ### Subpart MK — Tax credits for KiwiSaver schemes and complying superannuation funds
 
@@ -37896,7 +38772,7 @@ Meaning of non-resident financial arrangement income
 Related-party de minimis
 (3) The de minimis applies when the total expenditure on all related-party debt incurred in the previous income year under the financial arrangements rules by the borrower, and all companies that are in the same group of companies as the borrower, is $40,000 or less.
 Deferral calculation
-(4) Subject to subsection (6), the deferral calculation referred to in subsection (2)﻿(b)﻿(ii) is the percentage calculated using the formula—accumulated payments ÷ accumulated accruals.
+(4) Subject to subsection (6), the deferral calculation referred to in subsection (2)﻿(b)﻿(ii) is the percentage calculated using the formula—accumulated payments ÷ (accumulated accruals − hybrid deductions).
 Definition of items in formula
 (5) In the formula,—
   (a) accumulated payments for the income year is the total interest paid in relation to the financial arrangement by the borrower for the period that—
@@ -37904,7 +38780,8 @@ Definition of items in formula
     (ii) ends on the NRFAI due date for the borrower’s income year:
   (b) accumulated accruals is an amount equal to the total expenditure that the borrower incurs under the arrangement when the arrangement is a related-party debt for the period that—
     (i) starts on the day on which the financial arrangement first meets the requirements for a related-party debt; and
-    (ii) ends on the last day of the income year before the income year referred to in paragraph (a)﻿(ii).
+    (ii) ends on the last day of the income year before the income year referred to in paragraph (a)﻿(ii):
+  (c) hybrid deductions is an amount equal to the part of the expenditure that the borrower incurs under the arrangement in the period given by paragraph (b) that has been denied as a deduction under subpart FH (Hybrid and branch mismatches of deductions and income from multi-jurisdictional arrangements) when the expenditure is incurred and is not allowed as a deduction under the subpart in that period, on the date referred to in paragraph (b)﻿(ii).
 When calculation treated as more than 90%
 (6) For the purposes of the calculation in subsection (4), the result of the formula is treated as more than 90% if—
   (a) the item accumulated accruals is zero:
@@ -38424,7 +39301,8 @@ Amount more than required
 (1) The Commissioner must refund an amount of tax that a person has paid if—
   (a) the amount is more than the tax required to be paid by the person under this Part; and
   (b) the Commissioner is satisfied, or receives notice, that the person is entitled to the refund before the end of—
-    (i) the 4-year period under section 108 of the Tax Administration Act 1994 for amendment of an assessment, if subparagraph (ii) does not apply; or
+    (i) the 4-year period under section 108 of the Tax Administration Act 1994 for amendment of an assessment, if subparagraphs (ib) and (ii) do not apply; or
+    (ib) the 7-year period under section GC 13(6) (Calculation of arm’s length amounts) for amendment of assessments, if that subsection applies; or
     (ii) the extended period allowed by the Commissioner under section 78B of that Act, if the Commissioner exercises the discretion under that section.
 Refundable credits
 (1B) An amount of tax under subsection (1) includes an amount of a refundable tax credit to which section LA 5(5) (Treatment of remaining credits) applies.
@@ -39200,7 +40078,7 @@ In this Act, unless the context requires otherwise,—
   - **1973 version provisions**
   - **1988 version provisions**
   - **1990 version provisions**
-  - **abating WFF tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **abating WFF tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **absentee** —
     (a) means a person other than a person who is resident in New Zealand during any part of the tax year:
     (b) is defined in section HD 18 (Agency in relation to absentees generally) for the purposes of subpart HD (Agents)
@@ -39249,6 +40127,7 @@ In this Act, unless the context requires otherwise,—
   - **acquisition** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6 to GC 13 (which relate to transfer pricing arrangements)
   - **acquisition price** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **active service area** is defined in section CW 24(2) (Deferred military pay for active service) for the purposes of that section
+  - **act together** is defined in section FH 15(1) (Definitions)
   - **actuarial reserves** is defined in section EZ 59 (Meaning of actuarial reserves)
   - **actuarially determined** , for an amount, means a requirement that is met when an actuary has calculated the amount using relevant actuarial standards and a proper and reasonable calculation methodology
   - **actuary** means a person who is—
@@ -39367,7 +40246,7 @@ In this Act, unless the context requires otherwise,—
   - **apply** , for a mode of communication, has the meaning set out in section 14C of the Tax Administration Act 1994
   - **approved AIM provider** means a person that the Commissioner has approved as an approved AIM provider under section 15U of the Tax Administration Act 1994, if the approval has not been revoked under section 15V of that Act
   - **approved issuer** means a person for whom an approval under section 32M of the Tax Administration Act 1994 is in force
-  - **arm's length amount** , for an arrangement that is a cross-border arrangement under section GC 6 (Purpose of rules and nature of arrangements) means an arm's length amount of consideration under section GC 13 (Calculation of arm's length amounts)
+  - **arm's length amount** , for an arrangement that is a cross-border arrangement under section GC 6 (Purpose and application of rules and nature of arrangements) means an arm's length amount of consideration under section GC 13 (Calculation of arm's length amounts)
   - **arrangement** means an agreement, contract, plan, or understanding, whether enforceable or unenforceable, including all steps and transactions by which it is carried into effect
   - **arrangement for assistance entered into by the government of New Zealand** is defined in section CW 22(3) (Amounts derived by overseas experts and trainees in New Zealand by government arrangement) for the purposes of that section
   - **arrangement property** is defined in section GB 45(3) (Arrangements involving money not at risk) for the purposes of that section
@@ -39449,6 +40328,8 @@ In this Act, unless the context requires otherwise,—
     (a) are actuarially determined; and
     (b) are made using professional judgement, training and experience; and
     (c) are not deliberately overstated or understated
+  - **Best Start credit abatement** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
+  - **Best Start tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **BETA** has the same meaning as
   - **BETA company**
   - **BETA person** means a person who chooses under sections OE 1(2) and OE 17 (which relate to persons with branch equivalent tax accounts) to become a BETA person
@@ -39475,6 +40356,7 @@ In this Act, unless the context requires otherwise,—
   - **branch equivalent tax account** means the account maintained by a BETA person under section OE 17(3) (Person choosing to become BETA person)
   - **branch equivalent tax credit** means a credit referred to in section OA 5(5) (Credits)
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
+  - **branch mismatch report** is defined in section FH 15(1) (Definitions)
   - **bribe** is defined in section DB 45(4) (Bribes) for the purposes of that section
   - **bright-line date** is defined in section CB 6A (Disposal within 5 years: bright-line test for residential land) for the purposes of that section, section CB 16A (Main home exclusion for disposal within 5 years), and section 54C of the Tax Administration Act 1994
   - **broodmare** means a broodmare that is bloodstock
@@ -39549,16 +40431,16 @@ In this Act, unless the context requires otherwise,—
       (i) the physical structure of the marae is situated on land that is a Maori reservation referred to in Te Ture Whenua Maori Act 1993 (the Maori Land Act 1993); and
       (ii) the funds of the marae are not used for a purpose other than the administration and maintenance of the land and of the physical structure of the marae, or are used for a purpose that is a charitable purpose
   - **charitable trust** is defined in section HC 13 (Charitable trusts) for the purposes of the trust rules
-  - **chief executive** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **chief executive** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **chief executive of the administering department** —
     (a) means the chief executive, appointed under the State Sector Act 1988, of the department responsible for administering the Social Security Act 1964; and
     (b) includes any person authorised to perform any of the functions of the chief executive
-  - **child** in subparts MA to MF and MZ (which relate to tax credits for families), and in the definition of , means a person who is not in a marriage, civil union, or de facto relationship, and who—
+  - **child** in subparts MA to MG and MZ (which relate to tax credits for families), and in the definition of , means a person who is not in a marriage, civil union, or de facto relationship, and who—
     (a) is aged 15 years or less; or
     (b) is aged 16 or 17 years and is not financially independent; or
     (c) is aged 18 years and is a person for whom a tax credit is allowed under section MD 1 (Abating WFF tax credit) or both sections MD 1 and ME 1 (Minimum family tax credit)
-  - **child tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
-  - **civil union partner** , in subparts MA to MF and MZ (which relate to tax credits for families) and in section LC 13 (Tax credits for independent earners) and in the definitions of , , and , does not include a separated person
+  - **child tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
+  - **civil union partner** , in subparts MA to MG and MZ (which relate to tax credits for families) and in section LC 13 (Tax credits for independent earners) and in the definitions of , , and , does not include a separated person
   - **claim** , in the life insurance rules, is defined in section EY 7 (Meaning of claim)
   - **claim of right** means a belief that an act is lawful, although the belief may be based on ignorance, or mistake, of—
     (a) fact; or
@@ -39718,6 +40600,7 @@ In this Act, unless the context requires otherwise,—
     (a) directly; or
     (b) indirectly by reimbursement through another person
   - **control**
+  - **control group** is defined in section FH 15(1) (Definitions)
   - **control interest** , for a foreign company, is defined in sections EX 2 (Four categories for calculating control interests) and EX 7 (Indirect control interests)
   - **control interest category** means 1 of the categories of control interest listed in section EX 2(2) (Four categories for calculating control interests)
   - **controlled foreign company** is defined in section EX 1 (Meaning of controlled foreign company)
@@ -39800,6 +40683,7 @@ In this Act, unless the context requires otherwise,—
       (viii) Watercare Services Limited and any subsidiaries it has: but
     (b) does not include Auckland Transport (as established by section 38 of the Local Government (Auckland Council) Act 2009) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004 or the New Zealand Local Government Funding Agency Limited
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
+  - **country-by-country report** is the report that must be provided to the Commissioner under section 78G of the Tax Administration Act 1994
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit account continuity provisions** means section OB 41 (ICA debit for loss of shareholder continuity)
   - **credit card repayment insurance** is defined in section EY 30 (Transitional adjustments: life risk)
@@ -39815,6 +40699,7 @@ In this Act, unless the context requires otherwise,—
   - **creditor workout** , in relation to a financial arrangement, means—
   (a) a compromise, as that term is defined in section 227 of the Companies Act 1993, in writing that, for the parties to the financial arrangement, is binding under Part 14, 15, or 15A of that Act, or is otherwise legally binding, to the extent to which the compromise does not cancel all of a debt:
   (b) a suspension in part of the repayment of any deposit, the payment of any debt, or the discharge of any obligation, under section 44 of the Corporations (Investigation and Management) Act 1989
+  - **cross-border related borrowing** is defined in section GC 6(3B) (Purpose and application of rules and nature of arrangements)
   - **Crown Research Institute** is defined in section 2 of the Crown Research Institutes Act 1992
   - **CTR**
   - **CTR account**
@@ -39855,10 +40740,10 @@ In this Act, unless the context requires otherwise,—
       (ii) a site or former site referred to in paragraph (c) that has been restored:
     (e) planning and managing an activity referred to in paragraphs (a) to (d)
   - **deductible foreign equity distribution** means a distribution by a foreign company to a company, in relation to a share in the foreign company,—
-    (a) for which a deduction is allowed in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of the foreign company or on the income of a company in the same group as the foreign company:
+    (a) for which a deduction against income or equivalent tax relief or tax benefit is allowed, or would be allowed in the absence of hybrid mismatch legislation, in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of the foreign company or on the income of a company in the same group as the foreign company:
     (b) sourced directly or indirectly out of an amount paid to the foreign company in relation to a financial arrangement or share by another company if—
       (i) the foreign company is not liable for income tax imposed by a country or territory other than New Zealand on the amount paid to the foreign company; and
-      (ii) the other company is allowed a deduction, in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of the other company, for the amount paid to the foreign company
+      (ii) the other company is allowed, or would be allowed in the absence of hybrid mismatch legislation, a deduction against income or equivalent tax relief or tax benefit, in the calculation of the income tax imposed by a country or territory other than New Zealand on the income of the other company, for the amount paid to the foreign company
   - **deductible output tax** , in sections DB 2 (Goods and services tax) and EE 54 (Cost: GST) the sum of the following amounts, as applicable:
     (a) an amount of output tax charged in relation to a supply of goods and services that the Goods and Services Tax Act 1985 treats a registered person as making under—
       (i) section 5(23) of that Act:
@@ -39868,6 +40753,7 @@ In this Act, unless the context requires otherwise,—
     (b) an amount that is the result of an apportionment of input tax made in relation to the supply under section 20(3C) to (3I) of that Act to the extent to which the person does not have a deduction from output tax for the full amount of input tax:
     (c) an amount of output tax accounted for in relation to the supply under section 20(3J) of that Act:
     (d) an amount of output tax that is the result of adjustment made in relation to the supply under sections 21 to 21H of that Act
+  - **deducting branch** is defined in section FH 15(1) (Definitions)
   - **deduction** , for a person, means a deduction of the person under section BD 2 (Deductions)
   - **deemed rate of return method** means the method of calculating FIF income or FIF loss in section EX 55 (Deemed rate of return method)
   - **deferred military pay** is defined in section CW 24(2) (Deferred military pay for active service) for the purposes of that section
@@ -39877,13 +40763,16 @@ In this Act, unless the context requires otherwise,—
       (i) whose care is primarily the responsibility of the person; and
       (ii) who is maintained as a member of that person's family; and
       (iii) who is financially dependent on that person:
-    (b) does not include a child in relation to whom—
+    (b) for the purposes of the child tax credit and WFF tax credits other than the Best Start tax credit, does not include a child in relation to whom—
       (i) a payment is made under section 363 of the Oranga Tamariki Act 1989:
       (ii) a benefit is being paid under section 28 or 29 of the Social Security Act 1964:
-    (c) despite paragraph (b)﻿(i), includes a child or a young person, as defined in section 2(1) of the Oranga Tamariki Act 1989,—
+    (c) despite paragraph (b)﻿(i), for the purposes of the child tax credit and WFF tax credits other than the Best Start tax credit, includes a child or a young person, as defined in section 2(1) of the Oranga Tamariki Act 1989,—
       (i) of whom the person is a parent within the meaning of that Act; and
       (ii) to whom section 361 of that Act applies; and
-      (iii) who, under section 362 of that Act, is placed in the charge of the person
+      (iii) who, under section 362 of that Act, is placed in the charge of the person:
+    (d) for the purposes of the Best Start tax credit, includes a child for whom a person receives—
+      (i) payments under section 363 of the Oranga Tamariki Act 1989:
+      (ii) a benefit paid under section 28 or 29 of the Social Security Act 1964
   - **deposit** —
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
     (b) is defined in section EH 62 (Other definitions) for the purposes of the adverse event income equalisation scheme:
@@ -40113,7 +41002,8 @@ In this Act, unless the context requires otherwise,—
   - **entering partner** —
     (a) means a person who acquires a partner’s interests in a partnership:
     (b) includes a person who is already a partner in the partnership when they acquire another partner’s interests
-  - **entitlement period** is defined in section MC 11(1) (Relationship periods and entitlement periods) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **entitlement period** is defined in section MC 11(1) (Relationship periods and entitlement periods) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
+  - **entity** is defined in section FH 15(1) (Definitions)
   - **environmental restoration account** is defined in section EK 23(3) (Other definitions) for the purposes of subpart EK (Environmental restoration accounts)
   - **equity instrument** is defined in section EW 15I(3) (Mandatory use of yield to maturity method for some arrangements) for the purposes of that section
   - **ESCT** —
@@ -40231,13 +41121,13 @@ In this Act, unless the context requires otherwise,—
   - **fair dividend rate periodic method** means the method of calculating FIF income or loss under section EX 53 (Fair dividend rate periodic method)
   - **fair value method** means a method under section EW 15D (IFRS financial reporting method) of calculating income or expenditure for an income year that takes into account movements in fair value as determined under IFRSs
   - **family assistance credit**
-  - **family credit abatement** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **family credit abatement** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **family member** means a family member as defined in section 5 of the Members of Parliament (Remuneration and Services) Act 2013
   - **family plus**
-  - **family scheme** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
-  - **family scheme income** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **family scheme** means all the entitlements and tax credits for families arising under subparts MA to MG and MZ
+  - **family scheme income** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **family support**
-  - **family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **farmer** is defined in section EH 3(1)﻿(a) (Persons to whom main income equalisation scheme applies) for the purposes of the main income equalisation scheme
   - **farm-in expenditure** means expenditure that a farm-in party under a farm-out arrangement agrees that they will incur
   - **farm-in party** , in relation to petroleum miner, means the person referred to in the definition of farm-out arrangement who has an arrangement as described in that definition with the petroleum miner
@@ -40344,6 +41234,7 @@ In this Act, unless the context requires otherwise,—
       (ii) operates in relation to the company's or trustees' issue of residential mortgage backed securities; and
     (e) has interests in financial arrangements only for the sole purpose of carrying out the company's or trustees' operations described in paragraph (d)﻿(i) or (ii); and
     (f) has financial statements that are prepared using IFRSs and are audited
+  - **financial instrument** is defined in section FH 15(1) (Definitions)
   - **financial liability** has the same meaning as in NZIAS 32
   - **financial risk** is defined in section EY 12 (Meaning of life reinsurance)
   - **financial statements** is defined in section 6 of the Financial Reporting Act 2013, but the references in that definition to an entity and to a reporting entity are to be read as references to a person
@@ -40508,7 +41399,7 @@ In this Act, unless the context requires otherwise,—
   - **fringe benefit tax** means fringe benefit tax payable under section RD 26 (Liability for FBT), and has the same meaning
   - **fringe benefit tax rules** means the provisions listed in section RD 25 (FBT rules and their application) and has the same meaning
   - **full reinsurance** is defined in section EY 12(2) (Meaning of life reinsurance)
-  - **full-time earner** is defined in section MA 7 (Meaning of full-time earner for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **full-time earner** is defined in section MA 7 (Meaning of full-time earner for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **fully credited** is defined in section CD 43(26) (Available subscribed capital (ASC) amount) for the purposes of that section
   - **fully credited for conduit tax relief**
   - **fully imputed** ,—
@@ -40548,7 +41439,7 @@ In this Act, unless the context requires otherwise,—
       (ii) carrying on a business for the purposes of deriving assessable income
   - **geothermal well** means a bore or well solely for the purpose of investigating or exploiting geothermal energy in New Zealand
   - **gifting settlor** is defined in section EX 46(12) (Limits on choice of calculation methods)
-  - **goods** , in subpart MX (Tax credits for R&D tax losses), in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), and EA 3 (Prepayments), and in the definitions of , , and , is defined in section 2 of the Goods and Services Tax Act 1985
+  - **goods** , in subpart MX (Tax credits for R&D tax losses), in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), EA 3 (Prepayments), GB 54 (Arrangements involving establishments), and YD 4B (Meaning of permanent establishment), and in the definitions of , , and , is defined in section 2 of the Goods and Services Tax Act 1985
   - **government screen production payment**
   - **government stock** is defined in section DZ 11(3) (Film reimbursement scheme on or before 30 June 2001) for the purposes of that section
   - **Government Superannuation Fund** means the fund established under the Government Superannuation Fund Act 1956
@@ -40664,6 +41555,8 @@ In this Act, unless the context requires otherwise,—
   - **household member**
   - **housekeeper**
   - **housekeeping payments**
+  - **hybrid mismatch legislation** is defined in section FH 15(1) (Definitions)
+  - **hybrid mismatch report** is defined in section FH 15(1) (Definitions)
   - **ICA** means imputation credit account
   - **ICA company** means a company that must establish and maintain an imputation credit account,—
     (a) as a New Zealand resident company, under section OB 1 (General rules for companies with imputation credit accounts):
@@ -40844,7 +41737,7 @@ In this Act, unless the context requires otherwise,—
     (a) for an investor in a portfolio investment entity, means an interest in the entity that gives the holder an entitlement to a distribution of proceeds from the entity's investments:
     (b) is defined in section EM 8 (Some definitions) for the purposes of subpart EM (Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests)
   - **in-work payment**
-  - **in-work tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **in-work tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **issue** ,—
     (a) for a financial arrangement, means the act of creating the financial arrangement:
     (b) is defined in section YZ 1 (Source rule for interest) for the purposes of that section
@@ -40971,7 +41864,7 @@ In this Act, unless the context requires otherwise,—
   - **life reinsurance policy** —
     (a) is defined in sections EY 13 (Meaning of life reinsurance policy) and EY 14 (Life insurance and life reinsurance: how sections relate); and
     (b) when referred to in relation to a life reinsurer, means a life reinsurance policy under which the life reinsurer is the reinsurer
-  - **life reinsurer** is defined in sections EY 12(4) (Meaning of life reinsurance) and EY 14 (Life insurance and life reinsurance: how sections relate)
+  - **life reinsurer** is defined in sections EY 12(5) (Meaning of life reinsurance) and EY 14 (Life insurance and life reinsurance: how sections relate)
   - **life risk** means an actuarially determined risk contingent on human life
   - **life risk component** —
     (a) means—
@@ -41228,7 +42121,7 @@ In this Act, unless the context requires otherwise,—
       (i) designed for the seating of 2 or more adult persons; and
       (ii) permanently affixed to the motor vehicle; and
       (iii) neither collapsible nor capable of being folded down
-  - **minimum family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **minimum family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **minimum market value interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
     (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
@@ -41256,6 +42149,8 @@ In this Act, unless the context requires otherwise,—
     (a) section CE 1E(6) (Exception: accommodation provided to ministers of religion) for the purposes of that section:
     (b) section CZ 33(8) (Transitional exception for accommodation provided to ministers of religion) for the purposes of that section
   - **minor** is defined in section HC 35(3) (Beneficiary income of minors) for the purposes of that section and sections HC 36, HC 37, LE 4, and LF 2 (which relate to beneficiary minors)
+  - **mismatch amount** is defined in section FH 15(1) (Definitions)
+  - **mismatch situation** is defined in section FH 15(1) (Definitions)
   - **mixed-ownership enterprise** means an entity specified in schedule 36, part B (Government enterprises)
   - **money** ,—
     (a) in section GB 48 (Defined terms for sections GB 45 and GB 46), in the financial arrangements rules, and in the definition of security payment, includes—
@@ -41313,7 +42208,7 @@ In this Act, unless the context requires otherwise,—
   - **net attributable CFC loss** , for a foreign company and for an accounting period, means the amount calculated for the accounting period under section EX 20C(1)﻿(b) (Net attributable CFC income or loss)
   - **net attributable FIF income** , for a FIF and for an accounting period, means an amount of zero or more calculated for the accounting period under section EX 50(3) (Attributable FIF income method)
   - **net attributable FIF loss** , for a FIF and for an accounting period, means an amount of less than zero calculated for the accounting period under section EX 50(3) (Attributable FIF income method)
-  - **net family scheme income** is defined in section ME 3 (Meaning of net family scheme income) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **net family scheme income** is defined in section ME 3 (Meaning of net family scheme income) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **net gambling proceeds** means net proceeds as defined in section 4 of the Gambling Act 2003
   - **net income** means net income for a tax year calculated under section BC 4 (Net income and net loss)
   - **net loss** means a net loss for a tax year calculated under section BC 4 (Net income and net loss) and reduced by the amount extinguished by the Commissioner under section MX 5 (Cancellation of R&D tax losses) and section 177C(5) of the Tax Administration Act 1994
@@ -41347,7 +42242,7 @@ In this Act, unless the context requires otherwise,—
     (a) means a person resident in New Zealand under—
       (i) section EY 49 (Non-resident life insurer becoming resident):
       (ii) sections YD 1 to YD 3 (which relate to residence):
-    (b) is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+    (b) is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **New Zealand superannuation** —
     (a) means New Zealand superannuation payable under Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; and
     (b) includes—
@@ -41479,6 +42374,7 @@ In this Act, unless the context requires otherwise,—
   - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, in effect under the Financial Reporting Act 2013 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 39** means New Zealand Equivalent to International Accounting Standard 39, in effect under the Financial Reporting Act 2013 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 41** is defined in section EB 6(3) (Cost) for the purposes of that section
+  - **OECD transfer pricing guidelines** means guidelines published by the Organisation for Economic Co-operation and Development as OECD 2017, OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2017, OECD Publishing, Paris
   - **offered or entered into in New Zealand** , for an insurance contract, a reinsurance contract, and a life insurance policy, means a contract or policy offered or entered into in New Zealand, whether or not—
     (a) the contract or policy is executed in New Zealand; or
     (b) the insurer under the contract or policy—
@@ -41557,7 +42453,7 @@ In this Act, unless the context requires otherwise,—
   - **owner's interests** means the relevant interests in rights and obligations and other property, status, and things that a person who has an effective look-through interest for a look-through company has as a result of applying section HB 1 (Look-through companies are transparent) or otherwise
   - **paid work**
   - **parental entitlement period** means the period of time described in section MD 11(1)﻿(b)﻿(i) (Entitlement to parental tax credit)
-  - **parental tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **parental tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **Part F activity** is defined in schedule 4, part F, clause 7 (Standard rates of tax for schedular payments)
   - **partial reinsurance** is defined in section EY 12(3) (Meaning of life reinsurance)
   - **participating share** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
@@ -41621,6 +42517,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section CW 16B(5) (Accommodation expenditure: out-of-town secondments and projects); and
     (b) is given an extended meaning in section CW 16D(4) (Accommodation expenditure: conferences and overnight stays) for the purposes of that section
   - **period of restriction**
+  - **permanent establishment** is defined in section YD 4B (Meaning of permanent establishment)
   - **permit** is defined in section 2 of the Crown Minerals Act 1991
   - **permit area** means an area of land, and may include more than 1 area, of, as applicable,—
     (a) a petroleum permit:
@@ -41888,6 +42785,7 @@ In this Act, unless the context requires otherwise,—
     (b) includes prospecting for petroleum by electrical, geochemical, gravimetric, magnetic, radioactive, seismic, or other geological methods; and
     (c) does not include residual expenditure
   - **prospecting permit** is defined in section 2 of the Crown Minerals Act 1991
+  - **protected Best Start tax credit** , for a person, means an amount of family scheme income derived in the way set out in section MG 4 (Person receiving protected Best Start tax credit)
   - **protected family support**
   - **protected family tax credit** , for a person, means an amount of family scheme income derived in the way set out in section MD 14 (Person receiving protected family tax credit)
   - **protective right** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
@@ -41903,6 +42801,9 @@ In this Act, unless the context requires otherwise,—
     (e) does not include a mixed-ownership enterprise
   - **public entertainer** is defined in section CW 19(3) (Amounts derived during short-term visits) for the purposes of that section
   - **public official**
+  - **public project asset** is defined in section FE 4B (Meaning of public project asset, public project debt, and public project participant debt)
+  - **public project debt** is defined in section FE 4B (Meaning of public project asset, public project debt, and public project participant debt)
+  - **public project participant debt** is defined in section FE 4B (Meaning of public project asset, public project debt, and public project participant debt)
   - **public unit trust** means—
     (a) a unit trust that has 100 or more unit holders, treating all associated persons as 1 person, who are—
       (i) unit trust managers who hold units in the ordinary course of their activities in relation to the unit trust; or
@@ -42004,16 +42905,19 @@ In this Act, unless the context requires otherwise,—
     (b) a renewal of a reinsurance contract
   - **reinsurance grandparenting start day** is defined in section EZ 62 (Reinsurance transition: life financial reinsurance may be life reinsurance)
   - **reinvestment profit**
+  - **related** is defined in section FH 15(1) (Definitions)
   - **related activity**
   - **related by employment** is defined in section EY 11(14) (Superannuation schemes providing life insurance) for the purposes of that section
   - **related company** is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section
   - **related employer** is defined in section RD 51(6) (Calculation of all-inclusive pay) for the purposes of that section
-  - **related-party debt** is defined in section RF 12H (Meaning of related-party debt) for the purposes of the NRWT rules
+  - **related-party debt** is defined in—
+    (a) section RF 12H (Meaning of related-party debt) for the purposes of the NRWT rules:
+    (b) section RF 12H(1), otherwise
   - **related person** is defined in section CZ 9B (Available capital distribution amount: 1988 to 2010) for the purposes of that section
   - **relationship agreement** , for a person, means—
     (a) an agreement for the purpose of Part 6 of the Property (Relationships) Act 1976 that is made on or after 28 July 1983 by the person with another person:
     (b) an order under section 25 of the Property (Relationships) Act 1976 that is made by a court on or after 28 July 1983 in relation to the person and another person
-  - **relationship period** is defined in section MC 11(1) (Relationship periods and entitlement periods) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **relationship period** is defined in section MC 11(1) (Relationship periods and entitlement periods) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **relative** ,—
     (a) for the purposes of only this Act, other than in section HC 36 (Trusts and minor beneficiary rule) and the definition of look-through company, means a person connected with another person by—
       (i) being within the second degree of blood relationship to the other:
@@ -42118,7 +43022,7 @@ In this Act, unless the context requires otherwise,—
   - **return of income** means a return of income required under section 33 of the Tax Administration Act 1994
   - **returning share transfer** means an arrangement—
     (a) under which—
-      (i) a share (the original share) listed on an official list of a recognised exchange is transferred from a share supplier to a share user; and
+      (i) a share (the original share) is transferred from a share supplier to a share user; and
       (ii) it is conditionally or unconditionally agreed that the share user or an associated person pays a replacement payment to the share supplier or an associated person, if a dividend is payable on the original share; and
       (iii) it is conditionally or unconditionally agreed that the original share or an identical share may be transferred from the share user to the share supplier or an associated person; and
     (b) that is not a warrant or instalment receipt
@@ -42213,10 +43117,10 @@ In this Act, unless the context requires otherwise,—
   - **self-remission** means, for a person,—
     (a) for the purposes of section EW 31(11) (Base price adjustment formula), a remission amount for a financial arrangement under which, and to the extent to which, because of the operation of section HB 1 or HG 2 (which relate to LTCs and partnerships), the person is also liable as debtor in their capacity of owner or partner
     (b)
-  - **separated person** , in subparts MA to MF and MZ (which relate to tax credits for families), and in the definitions of and , means a person who is separated and living apart from their spouse or civil union partner, whether under an agreement for separation, or under a court order, or otherwise
+  - **separated person** , in subparts MA to MG and MZ (which relate to tax credits for families), and in the definitions of and , means a person who is separated and living apart from their spouse or civil union partner, whether under an agreement for separation, or under a court order, or otherwise
   - **services** ,—
     (a) in sections CD 5 (What is a transfer of value?) and EA 3 (Prepayments), and subpart MX (Tax credits for R&D tax losses), means anything that is not goods, money, or a chose in action:
-    (b) in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), subpart MX, and in the definitions of R&D expenditure and R&D material, means anything that is not goods or money, as each of those terms is defined in section 2 of the Goods and Services Tax Act 1985
+    (b) in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), and GB 54 (Arrangements involving establishments), in subpart MX, in section YD 4B (Meaning of permanent establishment), and in the definitions of R&D expenditure and R&D material, means anything that is not goods or money, as each of those terms is defined in section 2 of the Goods and Services Tax Act 1985
   - **settlement** —
     (a) means—
       (i) an act or failure to act on the part of a person that has the effect of making the person a settlor; or
@@ -42347,7 +43251,7 @@ In this Act, unless the context requires otherwise,—
   - **small-business person** is defined in section RC 40 (Some definitions) for the purposes of subpart RC (Provisional tax)
   - **small partnership** means a partnership that is not a limited partnership and has 5 or less partners, none of whom are companies or partnerships
   - **small passenger service vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
-  - **social assistance payment** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
+  - **social assistance payment** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **social assistance suspensory loan** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **sound commercial reason** is defined in section EW 26(7) (Change of spreading method) for the purposes of that section.
   - **sound recording** is defined in the Copyright Act 1994
@@ -42407,7 +43311,7 @@ In this Act, unless the context requires otherwise,—
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
     (b) is defined in section EH 62 (Other definitions) for the purposes of the adverse event income equalisation scheme:
     (c) is defined in section EH 79 (Other definitions) for the purposes of the thinning operations income equalisation scheme
-  - **spouse** , in subparts MA to MF and MZ (which relate to tax credits for families), and in the definitions of , , and , does not include a separated person
+  - **spouse** , in subparts MA to MG and MZ (which relate to tax credits for families), and in the definitions of , , and , does not include a separated person
   - **spreading method** means a method listed in section EW 14(2) (What spreading methods do)
   - **stallion** means a stallion that is bloodstock
   - **standard accounting year** has the meaning given in section YE 1(4) (References to balance dates and years)
@@ -42432,6 +43336,7 @@ In this Act, unless the context requires otherwise,—
   - **statutory trustee company** means a trustee company defined in section 2 of the Trustee Companies Act 1967
   - **straight-line method** , for depreciation, is defined in section EE 67 (Other definitions)
   - **straight-line rate** is defined in section EE 67 (Other definitions)
+  - **structured arrangement** is defined in section FH 15(1) (Definitions)
   - **subsidised transport** means the provision of transport or an entitlement to transport to an employee by the employer, or by a company (the ) in the same group of companies as the employer, in a quarter, or an income year if section RD 60 (Close company option) applies, if—
     (a) the employer or group company carries on a business consisting of, or including, transporting the public for hire or reward; and
     (b) the employer or group company provides the transport or the entitlement to the employee in the course of transporting the public; and
@@ -42474,6 +43379,7 @@ In this Act, unless the context requires otherwise,—
   - **supplementary dividend holding company**
   - **supply** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6, GC 9 and GC 10 (which relate to transfer pricing arrangements)
   - **supporting asset base** is defined in section EY 17 (Policyholder base income: profit participation policies)
+  - **surplus assessable income** is defined in section FH 15(1) (Definitions)
   - **surrender** , for an emissions unit, means surrender as defined in section 4(1) of the Climate Change Response Act 2002
   - **surrender value** means the amount paid (the surrender amount) when a life insurance policy is cancelled before it reaches the maturity or expiry date contracted for under the policy, excluding an amount that is the repayment of unexpired premiums. There is no netting off against the surrender amount of unpaid premiums, outstanding loans, or interest balances (the debt obligations) owed by an insured unless the policy is terminated by the insurer and the debt obligations are greater than the surrender amount
   - **systematic, investigative, and experimental activities**
@@ -42621,6 +43527,7 @@ In this Act, unless the context requires otherwise,—
   - **Tokelau International Trust Fund** means the trust governed by the Deed concerning the Tokelau International Trust Fund dated 10 November 2004 and signed by Her Majesty the Queen in right of New Zealand and the Government of Tokelau
   - **total group assets** , for a New Zealand group, is defined in section FE 16 (Total group assets) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **total group debt** , for a New Zealand group, is defined in section FE 15 (Total group debt) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
+  - **total group non-debt liabilities** is defined in section FE 16B (Total group non-debt liabilities) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
   - **total tax credit** , for a person, means the total amount of their tax credits under Part L (Tax credits and other credits)
   - **total taxable supplies** is defined in section RC 8(8) (GST ratio method) for the purposes of that section and sections RC 11, RC 16, RC 19, and RC 31 (which relate to the calculation and payment of provisional tax using the GST ratio method)
   - **tracking account**
@@ -42652,7 +43559,7 @@ In this Act, unless the context requires otherwise,—
       (ii) if person B provides any money or money’s worth to person A as part of the arrangement described in subparagraph (i), the market value of what person A provides is more than the market value of what person B provides; and
     (c) includes the release of an obligation that person B has to pay money to person A, either by agreement or operation of law; and
     (d) transfers value has a corresponding meaning
-  - **transfer pricing arrangement** is defined in section GC 6(2) (Purpose of rules and nature of arrangements)
+  - **transfer pricing arrangement** is defined in section GC 6(2) (Purpose and application of rules and nature of arrangements)
   - **transferee** —
     (a) is defined in section DZ 5(6) (Farm-out arrangements for petroleum mining before 16 December 1991) for the purposes of that section:
     (b) in subpart FB (Transfers of relationship property), for property transferred under a relationship agreement, means the person to whom the property is transferred under the agreement
@@ -42735,6 +43642,7 @@ In this Act, unless the context requires otherwise,—
   - **WFF tax credit** means Working for Families tax credit and is defined in section MA 8 (Some definitions for family scheme)
   - **wholly-owned group** has the same meaning as
   - **wholly-owned group of companies** is defined in section IC 4(1) (Common ownership: wholly-owned groups of companies)
+  - **wholly-owned large multinational group** means a large multinational group for which a group of persons holds all the ownership interests in each member
   - **widely-held company** means, at any time, a company that, at the time,—
     (a) has no less than 25 shareholders (treating all associated shareholders as 1 person); and
     (b) is not a closely-held company
@@ -43580,8 +44488,26 @@ Non-resident life insurers: policies in New Zealand
 (17) Income of a non-resident life insurer calculated under section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) has a source in New Zealand.
 Income from New Zealand partnerships
 (17B) Income has a source in New Zealand if, treating all of the partners of a New Zealand partnership as resident in New Zealand, the income is treated as having a source in New Zealand under another provision of this section. The application of the other provisions of this section is unaffected if this subsection does not apply.
+Income through permanent establishment
+(17C) Income attributable to a permanent establishment in New Zealand of a non-resident has a source in New Zealand, except if—
+  (a) subsections (15) to (17) provide otherwise:
+  (b) the income is a dividend from a share in a foreign company that is not revenue account property.
+Income taxable under double tax agreement
+(17D) Income of a non-resident that may be taxed in New Zealand under a double tax agreement has a source in New Zealand, except if the income is a dividend from a share in a foreign company that is not revenue account property.
 Any other source in New Zealand
 (18) Income derived directly or indirectly from any other source in New Zealand has a source in New Zealand.
+
+### YD 4B Meaning of permanent establishment
+What this section does
+(1) This section gives the meaning of permanent establishment for a person or other enterprise (the enterprise) that makes in New Zealand a supply of goods or services.
+Double tax agreement with applicable definition
+(2) Permanent establishment, for an enterprise that is resident in a country or territory with which New Zealand has a double tax agreement that includes a definition of permanent establishment, has the meaning given by—
+  (a) the double tax agreement:
+  (b) section GB 54 (Arrangements involving establishments), if the enterprise meets the requirements of the section.
+No double tax agreement with applicable definition
+(3) Permanent establishment, for an enterprise that is resident in New Zealand or in a country or territory with which New Zealand does not have a double tax agreement that includes a definition of permanent establishment, has the meaning given by schedule 23 (Meaning of permanent establishment).
+Interpretation of schedule 23
+(4) Schedule 23 is treated as applying consistently with the guidance relevant to the schedule that is provided by the Commentary on Article 5 of the Model Tax Convention on Income and on Capital, in Model Tax Convention on Income and on Capital published by the Organisation for Economic Co-operation and Development, as amended at the beginning of the income year in which the enterprise makes the supply.
 
 ### YD 5 Apportionment of income derived partly in New Zealand
 When this section applies
@@ -43590,6 +44516,8 @@ When this section applies
   (b) a contract is made in New Zealand and is performed, in whole or in part, by a person outside New Zealand; or
   (c) a contract is made outside New Zealand and is performed, in whole or in part, by a person in New Zealand; or
   (d) interest or a redemption payment is derived from money lent outside New Zealand to a New Zealand resident (the borrower) for the purposes of a business they carry on outside New Zealand through a fixed establishment outside New Zealand and through which the borrower lends money to another New Zealand resident.
+Exception when permanent establishment
+(1BA) This section does not apply to business activities that a person carries on through a permanent establishment in New Zealand.
 Relationship with source rules
 (1B) This section does not apply to limit the effect of—
   (a) any of the source rules in section YD 4 other than those in section YD 4(2), (3), and (11)﻿(b)﻿(i); or
@@ -43618,6 +44546,12 @@ Definition of items in formula
   (b) total assets, for a business, means the value of all of the business’s assets as at—
     (i) the borrower’s balance date that immediately precedes the income year, if the borrower has a balance date before the start of the income year; or
     (ii) the end of the day before the date on which the interest or redemption payment is paid, if subparagraph (i) does not apply.
+
+### YD 5B Attribution of income and expenditure to permanent establishment in New Zealand
+When this section applies
+(1) This section applies when a person carries on business activities through a permanent establishment in New Zealand.
+Apportionment
+(2) The amounts of income and expenditure of the person that must be attributed to the permanent establishment are the amounts of income and expenditure that the permanent establishment might be expected to derive and incur if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the person.
 
 ### YD 6 Apportionment of income from sea transport
 When this section applies
@@ -44753,12 +45687,8 @@ expenditure related to the acquisition of land
 | Annual amount, calculated in accordance with section MF 3(2)﻿(a) | Annualised equivalent amount for section MF 3(2)﻿(b) |
 | --- | --- |
 |  | $ |
-| Amount does not exceed $36,350 | $36,350 |
-| Amount exceeds $36,350 but does not exceed $38,000 | 38,000 |
-| Amount exceeds $38,000 but does not exceed $39,500 | 39,500 |
-| Amount exceeds $39,500 but does not exceed $41,000 | 41,000 |
-| Amount exceeds $41,000 but does not exceed $42,500 | 42,500 |
-| Amount exceeds $42,500 but does not exceed $44,000 | 44,000 |
+| Amount does not exceed $42,700 | $42,700 |
+| Amount exceeds $42,700 but does not exceed $44,000 | 44,000 |
 | Amount exceeds $44,000 but does not exceed $45,500 | 45,500 |
 | Amount exceeds $45,500 but does not exceed $47,000 | 47,000 |
 | Amount exceeds $47,000 but does not exceed $48,500 | 48,500 |
