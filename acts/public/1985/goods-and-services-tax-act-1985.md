@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2018-07-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -145,6 +145,9 @@ _Consolidation as at 2018-06-27_
   - **percentage difference** is defined in section 21G(1)﻿(c) for the purposes of sections 20G and 21 to 21H
   - **percentage intended use** is defined in section 21G(1)﻿(b) for the purposes of sections 8(4B)﻿(b), 20(3H), 20(3JC), 20G, and 21 to 21H
   - **person** includes a company, an unincorporated body of persons, a public authority, and a local authority
+  - **Pharmac** is defined in section 25 for the purposes of that section
+  - **Pharmac agreement** is defined in section 25 for the purposes of that section
+  - **pharmaceutical** is defined in section 25 for the purposes of that section
   - **previous actual use** has the meaning given in section 21C(b)﻿(i)
   - **principal place of residence** , in the definition of means a place that a person occupies as their main residence for the period to which the agreement for the supply of accommodation relates
   - **prize competition** means a scheme or competition—
@@ -1749,10 +1752,11 @@ A registered person who receives a supply of services that is treated by section
     (ii) for which no election was subsequently made under section 24(5B); or
   (ab) section 11(1)﻿(mb) was incorrectly applied to the treatment of the supply, so that the supply was either zero-rated when it should not have been, or not zero-rated when it should have been; or
   (abb) section 11A(1)﻿(x) was incorrectly applied to the treatment of the supply, so that the supply was not zero-rated when it should have been, and the supplier did not subsequently make an election under section 24(5B); or
-  (b) the previously agreed consideration for that supply of goods and services has been altered, whether due to the offer of a discount or otherwise; or
+  (b) the previously agreed consideration for that supply of goods and services has been altered (except as provided in subsection (1B)), whether due to the offer of a discount or otherwise; or
   (c) the goods and services or part of those goods and services supplied have been returned to the supplier,—
   (d) provided a tax invoice in relation to that supply and as a result of any 1 or more of the above events, the amount shown thereon as tax charged on that supply is incorrect; or
   (e) furnished a return in relation to the taxable period for which output tax on that supply is attributable and, as a result of any 1 or more of the above events, has accounted for an incorrect amount of output tax on that supply.
+(1B) For the purposes of subsection (1)﻿(b), the previously agreed consideration for the supply of a pharmaceutical is not altered if part of the consideration for the supply has been rebated to Pharmac (acting on its own account or as an agent for a public authority) under a Pharmac agreement.
 (2) Where a supplier has accounted for an incorrect amount of output tax as specified in subsection (1)﻿(e), that supplier shall make an adjustment in calculating the tax payable by that supplier in the return for the taxable period during which it has become apparent that the output tax is incorrect, and if—
   (a) the output tax properly charged in relation to that supply exceeds the output tax actually accounted for by the supplier, the amount of that excess shall be deemed to be tax charged on a taxable supply made by that supplier and be attributable to the taxable period in which the adjustment is to be made, and not attributable to any prior taxable period:
   (b) the output tax actually accounted for exceeds the output tax properly charged in relation to that supply, that supplier shall make a deduction under section 20(3) of the amount of that excess.
@@ -1800,6 +1804,10 @@ A registered person who receives a supply of services that is treated by section
 (6) Where any amount of tax charged is required to be shown on any credit note or debit note, and that amount consists of any number of dollars and cents together with any fraction or part of a cent, that fraction or part of that cent,—
   (a) if less than or equal to half of that cent, may be disregarded for the purposes of this section:
   (b) if in excess of half of that cent, shall be deemed for the purposes of this section to be an amount equal to 1 cent.
+(7) In this section,—
+  - **Pharmac** means the Pharmaceutical Management Agency established by section 46 of the New Zealand Public Health and Disability Act 2000
+  - **Pharmac agreement** means an agreement to which Pharmac is a party and under which Pharmac agrees to list a pharmaceutical on the pharmaceutical schedule as defined in section 6 of the New Zealand Public Health and Disability Act 2000
+  - **pharmaceutical** means a pharmaceutical as defined in section 6 of the New Zealand Public Health and Disability Act 2000.
 
 ### 25AA Consequences of change in contract for imported services
 (1) Despite section 25, this section applies in relation to a supply of services by a non-resident that is treated by sections 5B and 8(4B) as being made in New Zealand by the recipient of the supply if—
