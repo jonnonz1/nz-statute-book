@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2018-07-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -1666,8 +1666,10 @@ In this schedule, unless the context otherwise requires,—
     (iii) a child disability allowance payable under section 39A of that Act; or
     (iv) an emergency benefit payable under section 61 of that Act; or
     (v) an accommodation supplement payable under section 61EA of that Act; or
-    (vi) a special benefit fixed under section 61G of that Act; or
+    (va) a winter energy payment payable under Part 1KA of that Act; or
+    (vi) temporary additional support payable under section 61G of that Act; or
     (vii) a disability allowance payable under section 69C of that Act; and
+  (ca) excludes a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004; and
   (d) excludes any payment payable under a welfare programme approved by the Minister under section 124(1)﻿(d) of the Social Security Act 1964; but
   (e) includes any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or Part 11A of the Income Tax Act 1976.
 (2) Subclause (1) is subject to clauses 4 and 5.
