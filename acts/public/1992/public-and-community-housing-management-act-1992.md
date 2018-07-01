@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-07-01_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -1987,7 +1987,7 @@ For the purposes of section 110(1)﻿(a), a person's weekly income includes—
 For the purposes of section 110(1)﻿(b), a person's weekly income does not include—
   (a) an amount or payment—
     (i) received as a benefit, allowance, or other payment under the Social Security Act 1964 not referred to in clause 9(a); or
-    (ii) received as a parental tax credit, child tax credit, or in-work tax credit under subparts MA to MF and MZ of the Income Tax Act 2007; or
+    (ii) received as a parental tax credit, child tax credit, in-work tax credit, or Best Start tax credit under subparts MA to MG and MZ of the Income Tax Act 2007; or
     (iii) of a kind stated in any of subparagraphs (ii) to (xv) of paragraph (f) of the definition of income in section 3(1) of the Social Security Act 1964; or
   (b) in the case of a person with a disability, the value of any regular disability support services supplied to the person; or
   (c) the value of any regular disability support services supplied to any dependent child of the person who—
