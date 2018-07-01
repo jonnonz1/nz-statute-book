@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2017-08-09_
+_Consolidation as at 2018-07-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -91,12 +91,8 @@ _Consolidation as at 2017-08-09_
   (i)
   (j) the New Zealand Racing Board established by section 7 of the Racing Act 2003:
   (k)
-  (l) a lawyer or an incorporated law firm, but only to the extent that the lawyer or incorporated law firm receives funds in the course of his, her, or its business—
-    (i) for the purposes of deposit or investment; or
-    (ii) for the purpose of settling real estate transactions:
-  (la) a conveyancing practitioner or incorporated conveyancing firm, but only to the extent that the conveyancing practitioner or incorporated conveyancing firm receives funds in the course of his, her, or its business—
-    (i) for the purposes of deposit or investment; or
-    (ii) for the purpose of settling real estate transactions:
+  (l)
+  (la)
   (m) an accountant, but only to the extent that the accountant receives funds in the course of that person's business for the purposes of deposit or investment.
 (2) A person shall not be regarded as a financial institution for the purposes of this Act merely because that person carries on business as a security technician, security consultant, confidential document destruction agent, or property guard within the meaning of the Private Security Personnel and Private Investigators Act 2010.
 
