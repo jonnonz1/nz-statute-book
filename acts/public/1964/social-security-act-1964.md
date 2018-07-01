@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2018-04-01_
+_Consolidation as at 2018-07-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -57,6 +57,7 @@ Every person exercising or performing a function, duty or power under this Act m
       (ii)
       (iia) an incentive payment, a youth payment, and a young parent payment:
       (iii) an accommodation supplement payable under section 61EA:
+      (iiia) a winter energy payment:
       (iv) a child disability allowance under section 39A:
       (iva) childcare assistance payable under section 61GA:
       (ivb) temporary additional support payable under section 61G:
@@ -100,7 +101,8 @@ Every person exercising or performing a function, duty or power under this Act m
       (ii) to whom section 361 of that Act applies; and
       (iii) who, under section 362 of that Act, is placed in the charge of the person:
     (d) for the purposes only of Schedules 3, 3A, 6, 9, 16, 17, 18, and 26, does not include a child in respect of whom an orphan's benefit or an unsupported child's benefit is being paid:
-    (e) does not include a child in respect of whom a young parent payment is being paid except in relation to that child's parent or step-parent
+    (e) does not include a child in respect of whom a young parent payment is being paid except in relation to that child's parent or step-parent:
+    (f) for the purposes of clause 1(a) and (b) of Schedule 18A (rates of winter energy payment), has the meaning given to it by clause 2 of Schedule 18A
   - **disability services** has the same meaning as disability support services in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **district health board** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
   - **document** means a document in any form; and includes—
@@ -180,7 +182,7 @@ Every person exercising or performing a function, duty or power under this Act m
         (B) to pay any essential costs arising as a consequence of the applicant's health or disability (being costs arising from the contingency in respect of which the payment was made) to the extent that assistance towards those costs is not available under this Act or any other Act:
       (xvi) any income-related rent within the meaning of the Housing Restructuring and Tenancy Matters Act 1992:
       (xvii) any specified item or amount of income, or income from a specified source, that is declared not to be income for the purposes of this Act by regulations made under section 132:
-      (xviii) any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976
+      (xviii) any tax credit or amount received under subparts MA to MG and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976
   - **income-related insurance payment** , in relation to a person, means a payment, or the value of any credit or service, that, in the opinion of the chief executive, having regard to the matters specified in subsection (4), is—
     (a) made or provided on the occurrence of a contingency under a contract of insurance or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate; and
     (b) made or provided to the person or to some other person on behalf of or for the benefit of the person or a member of his or her family; and
@@ -306,6 +308,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **temporary employment** means full employment for a period of less than 26 weeks
   - **union** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **veteran's pension** means a veteran's pension payable under Part 6 of the Veterans' Support Act 2014
+  - **winter energy payment** means a winter energy payment payable under Part 1KA
   - **work test** , in relation to a person, means the person's obligations under section 102A(1); and has a corresponding meaning
   - **work-test couple rate** —
     (a) means, in relation to jobseeker support, a rate in Schedule 9 that is payable to a person who is married or in a civil union or in a de facto relationship, other than a rate payable if the person's spouse or partner is entitled to a benefit in his or her own right:
@@ -394,7 +397,7 @@ Every person exercising or performing a function, duty or power under this Act m
 
 ### 3C Transitional and savings provisions relating to amendments to this Act
 (1) The transitional and savings provisions set out in Schedule 32, which relate to amendments to this Act that come into force on or after 1 July 2001, have effect for the purposes of this Act.
-(2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:The following table has 2 columns. Column 1 is headed Amendment Act or provisions of it. Column 2 is headed Schedule 32 Part.Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3Social Security Amendment Act (No 2) 2015Part 4Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016Part 5Families Package (Income Tax and Benefits) Act 2017, Part 2, subpart 3Part 6
+(2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:The following table has 2 columns. Column 1 is headed Amendment Act or provisions of it. Column 2 is headed Schedule 32 Part.Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3Social Security Amendment Act (No 2) 2015Part 4Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016Part 5Families Package (Income Tax and Benefits) Act 2017, Part 2, subpart 3Part 6Families Package (Income Tax and Benefits) Act 2017, Part 2, subpart 1Part 7
 
 ### 4 Social Security Department
 [Repealed]
@@ -1125,6 +1128,10 @@ A person who is a principal caregiver in respect of a dependent child shall be e
 
 ### 29A Rates of orphan's benefit and unsupported child's benefit
 The rate of the orphan's benefit and the rate of the unsupported child's benefit payable in respect of any orphan or unsupported child shall in each case be fixed by the chief executive, but shall not in any case exceed the appropriate rate specified in Schedule 4.
+
+### 29B Clothing allowance for orphans and unsupported children
+(1) This section applies if, under section 363 of the Oranga Tamariki Act 1989, the rates of payment to persons or organisations in whose charge a child or young person is placed under section 362 of that Act include a clothing allowance.
+(2) A person who receives an orphan’s or unsupported child’s benefit in respect of a child is entitled to receive a clothing allowance for that child in the same amount or at the same rate as the clothing allowance referred to in subsection (1).
 
 ### 30 Period for which orphan's benefit payable
 [Repealed]
@@ -1985,6 +1992,60 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 ### 61FD Rate of tenure protection allowance
 [Repealed]
 
+## Part 1KA — Winter energy payment
+
+### 61FE Winter energy payment: purpose
+The purpose of the winter energy payment is to provide targeted financial assistance to help certain people meet their household heating costs during the winter period.
+
+### 61FF Winter energy payment: interpretation
+In this Part and Schedule 18A, unless the context otherwise requires,—
+  - **qualifying benefit** means—
+    (a) a main benefit under this Act; or
+    (b) New Zealand superannuation; or
+    (c) veteran’s pension
+  - **relevant payment date** , for a person who is receiving a qualifying benefit (or a portion of it), either as the person granted that benefit or as the spouse or partner of that person, for 1 or more days during the winter period, means the date on which the person is paid a weekly or fortnightly instalment of the person’s qualifying benefit (or a portion of it) for those days
+  - **winter period** , for a calendar year, means the 22-week period starting on 1 May.
+
+### 61FG Winter energy payment: eligibility requirements
+(1) A person is entitled to a winter energy payment for 1 or more days during the winter period if, for those days,—
+  (a) the person is receiving a qualifying benefit (or a portion of it), either as the person granted that benefit or as the spouse or partner of that person; and
+  (b) the qualifying benefit (or a portion of it) is payable to the person; and
+  (c) the person is not disqualified under subsection (2).
+(2) However, the person is not entitled to a winter energy payment for 1 or more days during the winter period if, for those days,—
+  (a) the qualifying benefit is payable at a rate prescribed in respect of a person who is married or in a civil union or in a de facto relationship, and the chief executive has determined under subsection (3) that the person’s spouse or partner is entitled to a winter energy payment; or
+  (b) the rate of the person’s qualifying benefit is required by section 75(3) to be reduced to the rate payable to long-term hospital patients, and the payment has been reviewed under section 81(1) and terminated under section 81(5); or
+  (c) the person is receiving long-term residential care in a hospital or rest home, and that care is funded, in whole or in part, under the New Zealand Public Health and Disability Act 2000; or
+  (d) the person is receiving residential care services, and those services are funded, in whole or in part, under the New Zealand Public Health and Disability Act 2000; or
+  (e) the person has made, and not revoked, an election not to receive the payment (see section 61FH).
+(3) If the qualifying benefit is payable at a rate prescribed in respect of a person who is married or in a civil union or in a de facto relationship, the chief executive must determine which 1 of the spouses or partners is (as only 1 of them can be) entitled to a winter energy payment.
+
+### 61FH Winter energy payment: election not to receive
+(1) A person entitled to a winter energy payment may make an election not to receive the payment.
+(2) If the payment would be payable at a rate prescribed in respect of a person who is married or in a civil union or in a de facto relationship, the chief executive must be satisfied that the election has been made by both spouses or partners.
+(3) The election must be made, and may be revoked, in a form and manner approved by the chief executive.
+(4) Unless it is revoked, the election stops the person from being entitled to the payment for any days after the election is made.
+
+### 61FI Winter energy payment: instalments, rates, and payment
+(1) A winter energy payment is payable,—
+  (a) if the person’s qualifying benefit is a main benefit under this Act, in 22 weekly instalments; or
+  (b) if the person’s qualifying benefit is New Zealand superannuation or a veteran’s pension, in 11 fortnightly instalments.
+(2) The amount of an instalment is ascertained by dividing the appropriate rate per winter period set out in Schedule 18A,—
+  (a) for recipients of a main benefit under this Act, by 22; or
+  (b) for recipients of New Zealand superannuation or a veteran’s pension, by 11.
+(3) However, the amount ascertained under subsection (2) must be rounded up to the nearest whole cent, and then reduced to reflect any 1 or more days of the week or fortnight covered by the instalment that are days for which—
+  (a) the person is not entitled to the payment; or
+  (b) the payment is not payable (for example, under section 61FJ).
+(4) An instalment must be paid on the relevant payment date.
+(5) The winter energy payment must not be paid in advance.
+(6) This section overrides sections 11D, 80, and 82(1), (2), and (6).
+
+### 61FJ Winter energy payment: effect of absence of beneficiary from New Zealand
+(1) The winter energy payment is not payable for 1 or more days while a beneficiary is absent from New Zealand unless it is so payable under subsection (2).
+(2) The winter energy payment is payable to a beneficiary for 1 or more days during any 1 or more absences of the beneficiary from New Zealand so long as each such absence is equal to or shorter than 4 weeks during the winter period and—
+  (a) the payment would, but for those 1 or more absences, be payable to the beneficiary; and
+  (b) the chief executive is satisfied that the 1 or more absences do not affect the beneficiary’s eligibility for the payment under section 61FG.
+(3) Section 77 does not apply to the winter energy payment.
+
 ## Part 1L — Temporary additional support
 
 ### 61G Temporary additional support
@@ -2015,7 +2076,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   - **chargeable income** has the meaning prescribed in regulations made under section 132AB
   - **essential costs** means the sum of a person's allowable costs and standard costs
   - **standard costs** has the same meaning as in section 132AB(1)﻿(b)
-  - **tax credit** means a credit of tax or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994.
+  - **tax credit** means a credit of tax or amount received under subparts MA to MG and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994.
 
 ## Part 1M — Childcare assistance
 
@@ -2037,7 +2098,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   (b) amend the definitions, in section 3(1), of the terms Income Test 1, Income Test 2, Income Test 3, and Income Test 4; and
   (c)
   (ca) amend Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001; and
-  (d) amend Schedules 3, 3A, 16, and 31, and Schedules 4, 6, 9, 18, 19, 22, 23, 26, 27, and 28—
+  (d) amend Schedules 3, 3A, 16, and 31, and Schedules 4, 6, 9, 18, 18A, 19, 22, 23, 26, 27, and 28—
 (1A) An Order in Council made under subsection (1) may not increase the period of a benefit stand down for a given income.
 (2) Every Order in Council made under subsection (1) shall state the date from which it is to have effect (which may be a date before the date on which it was made) and shall apply to benefits, allowances, lump sum payments, subsidy rates, maximum amounts of supplements, asset limits, income exemptions, advances, cash assets tests, benefit stand down income test, and annual and weekly income tests payable or applicable in respect of the period commencing on the date from which it is to have effect and ending with the day before the date of its revocation by a subsequent Order in Council. In respect of lump sum payments on death, the Order in Council shall state that it applies in respect of persons who die on or after such date as may be specified in the Order in Council. Nothing in this subsection shall authorise any payment to be made before the order is made.
 (3)
@@ -2399,7 +2460,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
 
 ### 72 Limitation where applicant receiving another benefit or pension
 Notwithstanding anything to the contrary in this Act,—
-  (a) no person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA, 61G, 61GA, and 69C, and section 23 of the Social Security (Working for Families) Amendment Act 2004:
+  (a) no person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA, 61FG, 61G, 61GA, and 69C, and section 23 of the Social Security (Working for Families) Amendment Act 2004:
   (b) no person who is granted a pension or allowance under the Veterans' Support Act 2014 or in respect of whom such a pension or allowance is payable, other than—shall be granted any benefit:
     (i) a pension or allowance granted to that person by reason of his own disablement; or
     (ia) a pension or payment granted under Part 6 of that Act; or
@@ -2848,11 +2909,14 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
 (4) If, after reviewing under subsection (1) a benefit granted on a stated eligibility ground for that benefit, the chief executive considers that the beneficiary is more appropriately entitled to receive that benefit on another eligibility ground for that benefit, the chief executive may—
   (a) cancel that benefit on the stated eligibility ground; and
   (b) grant that benefit instead on the other eligibility ground commencing from the date of cancellation.
+(5) The chief executive may terminate a winter energy payment if satisfied, after reviewing the payment under subsection (1), that—
+  (a) the rate of the beneficiary’s qualifying benefit (under section 61FG(1)﻿(a)) is required by section 75(3) to be reduced to the rate payable to long-term hospital patients (even if a higher rate is paid under section 75(4)); and
+  (b) continuing the payment is not consistent with the purpose stated in section 61FE.
 
 ### 82 Payment of benefits
 (1) Every benefit shall be payable by instalments of such number of weeks' benefit on such day or date or such days or dates in the month as the chief executive from time to time determines.
 (2) The amount of a weekly instalment of a benefit that is payable at an annual rate shall be ascertained by dividing the annual rate by 52.
-(2A) The following benefits are paid in respect of a 7-day week: sole parent support, a youth payment, a young parent payment, a supported living payment, an emergency benefit, and jobseeker support.
+(2A) The following benefits are paid in respect of a 7-day week: sole parent support, a youth payment, a young parent payment, a supported living payment, an emergency benefit, jobseeker support, and a winter energy payment.
 (3) Except as otherwise provided in this Act, every instalment of a benefit shall be paid to or on account of the beneficiary personally:
   provided that for good cause the chief executive may, in the chief executive's discretion, direct that payment of the whole or any part of an instalment, or any number of instalments, be paid—
     (a) to or on account of some other person authorised by the beneficiary or, in the case of a beneficiary who lacks sufficient capacity in law, to any person appointed by the chief executive for the purpose of receiving it; or
@@ -5076,11 +5140,11 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported child’s benefits
 
-| 1 | (a) | In respect of a child aged 14 years or over | $209.52 a week |
+| 1 | (a) | In respect of a child aged 14 years or over | $229.83 a week |
 | --- | --- | --- | --- |
-|  | (b) | In respect of a child aged over 10 years and under 14 years | $191.64 a week |
-|  | (c) | In respect of a child aged over 5 years and under 10 years | $173.68 a week |
-|  | (d) | In respect of a child aged under 5 years | $149.66 a week |
+|  | (b) | In respect of a child aged over 10 years and under 14 years | $211.95 a week |
+|  | (c) | In respect of a child aged over 5 years and under 10 years | $193.99 a week |
+|  | (d) | In respect of a child aged under 5 years | $169.97 a week |
 | 2 |  | The amount specified in clause 1 of this schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50% of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
@@ -5220,6 +5284,22 @@ In determining the base rate in relation to a person in respect of any period th
 
 ### Part 4 — Maximum additional amount payable to a beneficiary resident in an institution or home
 
+## Schedule 18A — Rates of winter energy payment
+
+| 1 | The rates of winter energy payment are as follows: |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | (a) | to a person who is single and has no dependent children |  | $450 per winter period |
+|  | (b) | to a person who is single and has 1 or more dependent children |  | $700 per winter period |
+|  | (c) | to a person who is married, in a civil union, or in a de facto relationship, and who is the 1 spouse or partner who is entitled under section 61FG(3) |  | $700 per winter period |
+| 2 | For the purposes of clause 1(a) and (b), dependent child, in relation to a person, means any other person who— |  |  |  |
+|  | (a) | is a child— |  |  |
+|  |  | (i) | whose care is primarily the responsibility of the person; and |  |
+|  |  | (ii) | who is being maintained as a member of that person’s family; and |  |
+|  |  | (iii) | who is financially dependent on that person; and |  |
+|  | (b) | may be, but need not be, a child in respect of whom payments are being made under section 363 of the Oranga Tamariki Act 1989; and |  |  |
+|  | (c) | may be, but need not be, a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid; and |  |  |
+|  | (d) | is not a child in respect of whom a young parent payment is being paid in relation to a person who is not the child’s parent or step-parent. |  |  |
+
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
 | 1 | Rate of child disability allowance | $47.64 a week |
@@ -5274,11 +5354,11 @@ In determining the base rate in relation to a person in respect of any period th
 
 ### 1 Applicable asset thresholds
 (1) This clause specifies the applicable asset thresholds that apply annually for the year 1 July 2012 to 30 June 2013 and for all later years beginning on 1 July.
-(2) Threshold A is $224,654 and applies to every resident assessed as requiring care—
+(2) Threshold A is $227,125 and applies to every resident assessed as requiring care—
   (a) who has no spouse or partner; or
   (b) whose spouse or partner is also a resident assessed as requiring care; or
   (c) whose spouse or partner is not a resident assessed as requiring care but who has elected, under clause 2, to have Threshold A apply to him or her rather than Threshold B.
-(3) Threshold B is $123,025 and applies to every resident assessed as requiring care—
+(3) Threshold B is $124,379 and applies to every resident assessed as requiring care—
   (a) whose spouse or partner is not a resident assessed as requiring care; and
   (b) who has not elected, under clause 2, to have Threshold A apply to him or her.
 
@@ -5329,9 +5409,9 @@ For the purpose of a person's means assessment as to income under section 147,�
     (j) any amount paid by a funder in respect of the cost of contracted care services provided to the person or his or her spouse or partner:
     (k) any amount or type of income, or amount of a certain type of income, specified in regulations made under section 155
   - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or such other amount or amounts as may be prescribed by regulations made under section 155):
-    (a) $982, if the person is single; or
-    (b) $1,964, if the person's spouse or partner is a resident assessed as requiring care; or
-    (c) $2,946, if the person's spouse or partner is not a resident assessed as requiring care.
+    (a) $992, if the person is single; or
+    (b) $1,983, if the person's spouse or partner is a resident assessed as requiring care; or
+    (c) $2,975, if the person's spouse or partner is not a resident assessed as requiring care.
 
 ### 6 Annual income
 For the purposes of a means assessment as to income, a person's annual income is his or her estimated income (as defined in clause 5) for the period of 52 weeks commencing on the date of means assessment.
@@ -5828,6 +5908,26 @@ Nothing in section 74AA(1)﻿(c) (as replaced on 15 July 2013) applies on or aft
   (a) the amendments made by the Families Package (Income Tax and Benefits) Act 2017, on the day after the date on which that Act receives the Royal assent, to section 61I(1) (for example, the repeal of section 61I(1)﻿(d)) (the amendments); and
   (b) the Social Security (Budget 2017—Rates of, and Areas for, Accommodation Supplement) Order 2017 (the order).
 (2) Despite the amendments, the area alterations made by the order continue, and continue to commence as provided in clause 2 of the order.
+
+### Part 7 — Families Package (Income Tax and Benefits) Act 2017: winter energy payment
+
+### 29 Eligibility based on qualifying benefit
+(1) This clause applies to a person who, on or after 1 July 2018, is receiving a qualifying benefit (or a portion of it), either as the person granted that benefit or as the spouse or partner of that person.
+(2) Section 61FG(1)﻿(a) applies to the person regardless of whether—
+  (a) the person’s, or the person’s spouse’s or partner’s, entitlement to that benefit arose before, on, or after 1 July 2018:
+  (b) the person, or the person’s spouse or partner, was granted that benefit before, on, or after 1 July 2018:
+  (c) the person, or the person’s spouse or partner, started receiving that benefit (or a portion of it) before, on, or after 1 July 2018.
+
+### 30 Special winter period, instalments, and rates for 2018
+(1) For the purposes of Part 1KA and Schedule 18A, winter period, for the 2018 calendar year, means (despite section 61FF) the 13-week period starting on 1 July.
+(2) For the 2018 calendar year,—
+  (a) 22 weekly instalments in section 61FI(1)﻿(a) must be read as 13 weekly instalments; and
+  (b) 11 fortnightly instalments in section 61FI(1)﻿(b) must be read as 6 fortnightly instalments; and
+  (c) by 22 in section 61FI(2)﻿(a) must be read as by 13; and
+  (d) by 11 in section 61FI(2)﻿(b) must be read as by 6; and
+  (e) $450 per winter period in clause 1(a) of Schedule 18A must be read as $265.91 per winter period; and
+  (f) $700 per winter period in clause 1(b) and (c) of Schedule 18A must be read as $413.64 per winter period.
+(3) An order made under section 61H(1) may increase the rates per winter period (for the 2018 calendar year) set out in subclause (2)﻿(e) and (f).
 
 ### 1 Short Title
 This Act may be cited as the Social Security Amendment Act 1972, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
