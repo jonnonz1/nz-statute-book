@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2018-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2690,33 +2690,10 @@ If an enforcement officer believes on reasonable grounds that a person is commit
 **Powers relating to owners and occupiers of land**
 
 ### 183 Removal of fire hazards
-(1) A territorial authority may, by notice in writing, require the occupier or (if there is no occupier) the owner of land to cut down, eradicate, or remove any growth on the land or to remove or destroy any matter on the land if the growth or matter is likely to become a source of danger from fire in the opinion of—
-  (a) the chief executive officer of the territorial authority; or
-  (b) the Chief Fire Officer of the New Zealand Fire Service; or
-  (c) if the land is in a rural fire district under the Forest and Rural Fires Act 1977, a rural fire officer.
-(2) A resident of the district may, by notice in writing to a territorial authority, request the territorial authority to issue a notice under this section.
-(3) If the territorial authority has not, within 1 month after the notice, complied with the request, the resident may apply to the District Court for an order requiring the territorial authority to comply with the request.
-(4) On hearing the application, the court may order that the territorial authority comply with the request or cancel the request.
-(5) A territorial authority may, after oral notice from an authorised officer of the territorial authority to the occupier or (if there is no occupier) the owner, eradicate or remove growth or remove or destroy matter on land in its district if the growth or matter is an imminent danger to life, property, or any road.
-(6) The cost of work done under subsection (5) is a charge on the land.
-(7) The powers in this section—
-  (a) are in addition to any powers a territorial authority has under any other enactment; and
-  (b) may be exercised in accordance with any agreement or arrangement under section 14(2) of the Forest and Rural Fires Act 1977.
-(8) In this section,—
-  - **cut down** means cutting down and keeping cut down, or removing or controlling by chemical means, the stem and roots of a tree so as to prevent the tree from throwing out leaves, offshoots, or flowers
-  - **growth** means broom, gorse, scrub, weeds, undergrowth, dry grass, or other growth on land, whether or not it is standing or growing
-  - **matter** means accumulated refuse or flammable waste.
+[Repealed]
 
 ### 184 Rights and obligations if notice given under section 183(1)
-(1) This section applies if a notice is given under section 183(1).
-(2) The owner or occupier may, within 10 days after service of the notice, apply to the District Court for an order cancelling the notice.
-(3) On hearing the application, the District Court may confirm the notice or cancel the notice.
-(4) An owner or occupier, as the case may be, must comply with a notice within 1 month after—
-  (a) the notice is served on the owner or occupier; or
-  (b) if the owner or occupier applies to the District Court under subsection (2), the court confirms the order.
-(5) If the owner or occupier fails to comply with subsection (4), the territorial authority may enter the land and do the thing or things required by the notice.
-(6) The territorial authority may recover from the owner or occupier the cost of anything done under subsection (5).
-(7) The costs are a charge on the land.
+[Repealed]
 
 **Default by owner or occupier**
 
