@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2018-07-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -2768,7 +2768,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (h) section 103 (persons who may apply to court for limited licence):
   (i) section 104 (issue of limited licence to be delayed or prohibited in certain cases):
   (j) section 105 (court may make order authorising grant of limited licence):
-  (ja) section 65A(2) (court may authorise person to apply for an alcohol interlock licence):
+  (ja) section 65AC (court must impose alcohol interlock sentence):
   (k) section 107 (appeals against court orders relating to disqualification or grant of limited licence, and deferral of disqualification).
 
 **Confiscation of motor vehicles**
@@ -2821,7 +2821,9 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (b) within 4 years after the date of the commission of that offence, the person commits a subsequent offence against any of those provisions of the Land Transport Act 1998.
 (2) For the purpose of subsection (1), it does not matter whether or not the subsequent offence is of the same kind as the first offence, but it must be an offence that arises from a different incident from the one that gave rise to the first offence.
 (3) If the court by or before which the offender is convicted of the subsequent offence is satisfied that any motor vehicle owned by the offender or in which the offender has any interest was being driven by, or in the charge of, the offender at the material time, the court must order that the motor vehicle be confiscated.
-(4) Despite subsection (3), the court must not make an order under that subsection if it will result in extreme hardship to the offender or undue hardship to any other person.
+(4) Despite subsection (3), the court must not make an order under that subsection if—
+  (a) it will result in extreme hardship to the offender or undue hardship to any other person; or
+  (b) an interlock is or is to be fitted to the motor vehicle.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (1) must be treated as a conviction for an offence specified in that subsection.
 
 ### 129A Confiscation and destruction after third illegal street racing offence
