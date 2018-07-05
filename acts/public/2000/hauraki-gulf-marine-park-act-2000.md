@@ -1,5 +1,5 @@
 # Hauraki Gulf Marine Park Act 2000
-_Consolidation as at 2014-08-01_
+_Consolidation as at 2018-07-05_
 
 ## Preamble
 (1) The Hauraki Gulf has a quality and diversity of biology and landscape that makes it outstanding within New Zealand. The islands of the Gulf are valued as the habitats of plants and animals, once common, now rare, and are often the only places in the world where these species exist naturally:
@@ -42,7 +42,7 @@ In this Act, unless the context otherwise requires,—
     (a) land or foreshore for the time being held under the Conservation Act 1987 for conservation purposes; or
     (b) land in respect of which an interest is held under the Conservation Act 1987 for conservation purposes
   - **Conservation Board** means a Conservation Board established under section 6L of the Conservation Act 1987
-  - **constituent party** means any Minister or local authority who has the power under section 16(2) to appoint 1 or more representatives to the Forum; and includes any tangata whenua representatives appointed under section 16(2)(e)
+  - **constituent party** means any Minister or local authority who has the power under section 16(2) to appoint 1 or more representatives to the Forum; and includes any tangata whenua representatives appointed under section 16(2)﻿(e)
   - **Deed of Recognition** means a deed entered into in accordance with section 44
   - **economic activity** includes marine commerce
   - **environment** includes—
@@ -167,12 +167,12 @@ The Forum has the following purposes:
     (xii)
   (e) 6 representatives of the tangata whenua of the Hauraki Gulf and its islands appointed by the Minister, after consultation with the tangata whenua and the Minister of Maori Affairs.
   (f)
-(2A) The representatives appointed in accordance with subsection (2)(ca) must—
+(2A) The representatives appointed in accordance with subsection (2)﻿(ca) must—
   (a) be members of—
     (i) the Auckland Council; or
     (ii) a local board of the Auckland Council elected in accordance with the Local Electoral Act 2001; and
   (b) include 1 member of each of the Great Barrier Island and Waiheke Island local boards.
-(3) The representatives appointed in accordance with subsection (2)(d) or (5) must be members of the local authority elected in accordance with the Local Electoral Act 2001.
+(3) The representatives appointed in accordance with subsection (2)﻿(d) or (5) must be members of the local authority elected in accordance with the Local Electoral Act 2001.
 (4)
 (5) If two-thirds or more of the constituent parties agree, a local authority whose powers and functions may have an effect on the Hauraki Gulf, its islands, and catchments, and whose inclusion in the Forum will further the interests of the Forum and of the Hauraki Gulf may join the Forum as a constituent party and appoint a representative to the Forum.
 
@@ -209,7 +209,7 @@ The Forum has the following purposes:
 (3) Administrative and servicing costs are not payable by constituent parties who are tangata whenua representatives.
 
 ### 20 Costs of other activities
-(1) The Forum may undertake an activity under section 18(2)(e) if—
+(1) The Forum may undertake an activity under section 18(2)﻿(e) if—
   (a) a majority of the representatives agrees to undertake the activity; and
   (b) 1 or more of the constituent parties (other than tangata whenua representatives) agree in advance to pay the costs of the activity.
 (2) If the costs of an activity are not agreed in advance, the Forum must not proceed with the activity.
@@ -217,10 +217,10 @@ The Forum has the following purposes:
 (4) This section does not apply to the administrative and servicing functions in section 19.
 
 ### 21 Presentation of report
-The Forum must present a copy of each report prepared by it under section 17(1)(g) to the Minister.
+The Forum must present a copy of each report prepared by it under section 17(1)﻿(g) to the Minister.
 
 ### 22 Forum to be joint committee
-(1) Subject to section 28, the Forum is to be treated as a joint committee of the constituent local authorities appointed under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
+(1) Subject to section 28, the Forum is to be treated as a joint committee of the constituent local authorities appointed under clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 (2) Clauses 20, 22, 23, 24, 26, 28, 29, 30(2), and 30(4) to (10) of Schedule 7 of the Local Government Act 2002 apply with any necessary modifications to the Forum.
 (3) The Forum may appoint such subcommittees as it considers appropriate.
 
@@ -260,8 +260,8 @@ The Auckland Council must store the Forum's records and make them available when
 (1) The Minister must pay to tangata whenua representatives on the Forum, from any appropriation by Parliament for this purpose,—
   (a) remuneration by way of allowances, travelling allowances, and travelling expenses in accordance with the Fees and Travelling Allowances Act 1951; and
   (b) after agreement between the Minister and tangata whenua representatives, made before any costs are incurred, actual and reasonable communication costs and consultation costs incurred in the course of their work as tangata whenua representatives on the Forum.
-(2) If there is no agreement between the Minister and tangata whenua representatives under subsection (1)(b), the Minister may make such payment to tangata whenua representatives as the Minister considers appropriate in the circumstances.
-(3) The provisions of the Fees and Travelling Allowances Act 1951 apply to any payment made under subsection (1)(a).
+(2) If there is no agreement between the Minister and tangata whenua representatives under subsection (1)﻿(b), the Minister may make such payment to tangata whenua representatives as the Minister considers appropriate in the circumstances.
+(3) The provisions of the Fees and Travelling Allowances Act 1951 apply to any payment made under subsection (1)﻿(a).
 
 ### 30 Liability of representatives
 No representative on the Forum is personally liable for any liability of the Forum, or for any act done or omitted by the Forum, or by a representative in good faith in the exercise of the functions, duties, or powers of the Forum.
@@ -296,13 +296,13 @@ The purposes of the Hauraki Gulf Marine Park are—
 (3) The inclusion of seawater in the Hauraki Gulf Marine Park is to give effect to the purposes of the Park and does not—
   (a) give the Crown or any other person ownership of seawater; or
   (b) affect the responsibilities of a regional council in the coastal marine area.
-(4) Land to which subsection (2)(a) applies and which is used for the purposes of education, defence, police, or prisons is not a part of the Park unless the Minister responsible for that use of the land requests the Minister to include the land in the Park; and the Minister may do so by notice in the Gazette.
+(4) Land to which subsection (2)﻿(a) applies and which is used for the purposes of education, defence, police, or prisons is not a part of the Park unless the Minister responsible for that use of the land requests the Minister to include the land in the Park; and the Minister may do so by notice in the Gazette.
 (5) Despite subsection (4), the land described in Part 1 of Schedule 4 that, at the commencement of this section, is held as a reserve and is used for defence purposes—
   (a) must be held, and treated as classified, as an historic reserve under section 18 of the Reserves Act 1977; and
-  (b) must be treated as included in the Park under subsection (2)(a).
+  (b) must be treated as included in the Park under subsection (2)﻿(a).
 (6) If the land or any part of the land described in Part 2 of Schedule 4 that, at the commencement of this section, is held as a reserve and is used for defence purposes, is no longer required for defence purposes, the land—
   (a) must be held, and treated as classified as a recreation reserve under section 17 of the Reserves Act 1977; and
-  (b) must be treated as included in the Park under subsection (2)(a).
+  (b) must be treated as included in the Park under subsection (2)﻿(a).
 (7) Despite any provision of the Defence Act 1990 and subsection (6), the Minister of Defence may administer and manage the land or any part of the land in Part 2 of Schedule 4 jointly with the Commissioner or an administering body for the purposes of the Park as if it were a recreation reserve under section 17 of the Reserves Act 1977.
 (8) For the purposes of subsection (7), Commissioner has the same meaning as in section 2 of the Reserves Act 1977.
 
@@ -334,19 +334,19 @@ If, in the opinion of the Minister, the inclusion of a taiapure-local fishery or
   (b) limits the ability of the Minister or an administering body to acquire conservation areas, reserves, wildlife refuges, wildlife sanctuaries, or marine reserves within the Gulf or the Park:
   (c) changes the ownership or management of areas of land, foreshore, seabed, or the waters of the Gulf:
   (d) limits the powers and functions of a regional council in the coastal marine area.
-(3) Despite subsection (1), land included in the Park in accordance with section 33(2)(a), (b), (c), or (e) continues to be held, managed, or administered in accordance with the Conservation Act 1987, or any Act in Schedule 1 of that Act, if any of those Acts applies to that land.
+(3) Despite subsection (1), land included in the Park in accordance with section 33(2)﻿(a), (b), (c), or (e) continues to be held, managed, or administered in accordance with the Conservation Act 1987, or any Act in Schedule 1 of that Act, if any of those Acts applies to that land.
 
 **Removal of land, foreshore, seabed, waters, or fisheries from Park**
 
 ### 38 Removal of land from Park by Order in Council
-(1) The Governor-General may, by Order in Council, and acting on the recommendation of the Minister, remove any land in section 33(2)(a), (b), (c), and (e) from the Park.
+(1) The Governor-General may, by Order in Council, and acting on the recommendation of the Minister, remove any land in section 33(2)﻿(a), (b), (c), and (e) from the Park.
 (2) The Minister, before making a recommendation to the Governor-General under subsection (1), must be satisfied that the land no longer serves the purpose of the Park and have regard to the following matters:
   (a) the existing use of the land:
   (b) the purposes of the Act under which the land is held:
   (c) the status or classification of the land.
 
 ### 39 Removal of land with protected status from Park by change of status of land
-(1) Land, marine mammal sanctuaries, and marine reserves in section 33(2)(a), (b), and (c) may be removed from the Park by any of the following actions:
+(1) Land, marine mammal sanctuaries, and marine reserves in section 33(2)﻿(a), (b), and (c) may be removed from the Park by any of the following actions:
   (a) exchanging a conservation area under section 16A of the Conservation Act 1987:
   (b) disposing of a conservation area under section 26 of the Conservation Act 1987:
   (c) exchanging a reserve under section 15 of the Reserves Act 1977:
@@ -370,6 +370,16 @@ The Minister may, by notice in the Gazette, and after considering the purpose of
   (b) any taiapure-local fishery or mataitai reserve.
 (2) The Minister may remove the land, taiapure-local fishery, or mataitai reserve from the Park if the Minister considers that the inclusion of that land, taiapure-local fishery, or mataitai reserve in the Park is no longer serving the purpose of the Park.
 (3) The Minister must remove the land, a taiapure-local fishery, or a mataitai reserve from the Park within 20 working days (as defined in the Conservation Act 1987) of receipt of a notice requiring the removal of that land, taiapure-local fishery, or mataitai reserve from the Park, from the person whose consent was necessary for inclusion of that land, taiapure-local fishery, or mataitai reserve in the Park.
+
+### 41A Removal of land described in Schedule 5 from Park
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister of Conservation,—
+  (a) remove from the Park any land included in the Park by Schedule 5; and
+  (b) amend Schedule 5 accordingly.
+(2) The Minister, before making a recommendation to the Governor-General under subsection (1), must—
+  (a) be satisfied that the land no longer serves the purpose of the Park; and
+  (b) have regard to—
+    (i) the existing use of the land; and
+    (ii) the status or classification (if any) of the land.
 
 ### 42 Entries in register
 The Registrar-General of Land is authorised and directed to make such entry in the register and to do such other things as may be necessary to show the inclusion of land within the Park or the removal of land from the Park.
@@ -395,7 +405,7 @@ The Chief Surveyor is authorised and directed to do such things as may be necess
 Without limiting section 46, the only purpose of a Deed of Recognition is to identify opportunities for contribution by tangata whenua to the management of an area by the Crown or a local authority.
 
 ### 46 Effect of Deed of Recognition
-Except as provided in section 44(3)(d) and section 45, a Deed of Recognition—
+Except as provided in section 44(3)﻿(d) and section 45, a Deed of Recognition—
   (a) does not affect the exercise of any power or the carrying out of any function or duty by any person under any Act, regulation, or bylaw; and
   (b) must not be taken into account by any person in the exercise of any power or the carrying out of any function or duty under any Act, regulation, or bylaw by that person; and
   (c) does not permit any person, when considering any matter or making any decision or recommendation under any Act, regulation, or bylaw, to give any greater or lesser weight to a statement of relationship of tangata whenua with any area, as recorded in a Deed of Recognition, than that person would give under that Act, regulation, or bylaw if no Deed of Recognition existed recording that statement; and
