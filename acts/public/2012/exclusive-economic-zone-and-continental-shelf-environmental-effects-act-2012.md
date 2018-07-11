@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2017-06-01_
+_Consolidation as at 2018-07-11_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -346,7 +346,7 @@ In order to recognise and respect the Crown's responsibility to give effect to t
 (2) However, the EPA may not approve a form for a purpose if a form has been prescribed by regulations for the same purpose.
 
 ### 14 Restriction on ministerial direction to Environmental Protection Authority
-The Minister may not give a direction under section 103 of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Environmental Protection Authority under section 13(a) and (c), and Parts 3 and 4.
+The Minister may not give a direction under section 103 of the Crown Entities Act 2004 that relates to the exercise of any power, duty, or function of the Environmental Protection Authority under section 13(a) and (c), and Parts 3A and 4.
 
 ### 15 Powers of Environmental Protection Authority
 The Environmental Protection Authority has all the powers that are reasonably necessary to enable it to carry out its functions under this Act.
@@ -1033,6 +1033,16 @@ As soon as is reasonably practicable after the closing date for submissions, the
 (8) Schedule 4 applies to boards of inquiry and applications considered by a board of inquiry.
 (9) A member of a board of inquiry is not liable for anything the member does, or omits to do, in good faith in performing or exercising the functions, duties, and powers of the board.
 
+### 52A Cost recovery for boards of inquiry
+(1) The Minister may recover from an applicant the actual and reasonable costs incurred in relation to a board of inquiry appointed under section 52 or 99A.
+(2) The Minister must, upon request by an applicant, provide an estimate of the costs likely to be recovered under this section.
+(3) When recovering costs under this section, the Minister must have regard to the following criteria:
+  (a) the sole purpose is to recover the reasonable costs incurred in respect of the matter to which the costs relate:
+  (b) the extent to which any activity by the applicant reduces the costs to the Minister in carrying out any of the Minister’s functions, powers, or duties.
+(4) The costs referred to in subsection (1) are a debt due to the Crown that is recoverable by the EPA on behalf of the Crown in any court of competent jurisdiction.
+(5) The Minister may, in writing, delegate to the EPA his or her functions, powers, and duties under this section.
+(6) See sections 143 to 147 in relation to recovery of costs incurred by the EPA.
+
 **Provisions that apply to all applications**
 
 ### 53 Obligation to deal with application promptly
@@ -1603,7 +1613,7 @@ Sections 96 and 97 apply to the processing of a joint application for consent wh
   (b) the board of inquiry must apply sections 59 to 67 in making its decision on the application as if the board were a marine consent authority.
 (5) The provisions referred to in subsection (3)﻿(b) are—
   (a) section 149L (which deals with the conduct of the inquiry):
-  (b) section 149Q (which requires the board to produce a draft report) except subsections (2)﻿(e) and (f) and (3)﻿(b) and (c):
+  (b)
   (c) section 149R (which requires the board to produce a final report), but not subsections (3)﻿(e) and (f) and (4)﻿(b) and (c):
   (d) section 149RA(1) and (2) (which allows the board to make minor corrections to board decisions and resource consents):
   (da) section 149S (which allows the Minister to extend the time by which the board must report), but not subsection (4)﻿(b):
@@ -2765,6 +2775,13 @@ Replace section 7A with:Relationship with Resource Management Act 1991Relationsh
 (1) Section 38(3) does not apply in relation to an application made before the decommissioning regulations date.
 (2) Subpart 4 of Part 3A does not apply until the decommissioning regulations date.
 (3) In this clause, decommissioning regulations date means the date on which the first regulations made under section 29E come into force.
+
+### Part 2 — Provision relating to Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2018
+
+### 3 Boards of inquiry in process before commencement of section 52A
+Section 52A does not apply to a board of inquiry appointed in respect of an application for a section 20 activity if the application—
+  (a) was made before the date of commencement of the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Amendment Act 2018; and
+  (b) complied with section 38.
 
 ## Schedule 2 — Hearings of applications for marine consents for non-notified activities
 
