@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-08-01_
 
 > Title
 
@@ -1359,3 +1359,16 @@ This order comes into force on 1 April 2017.
 ### 4 Application of consequential changes to reference provisions
 (1) This clause applies in respect of all functions that are transferred from the Ministry of Social Development to the Ministry for Vulnerable Children, Oranga Tamariki.
 (2) Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning 1 April 2017 and ending on 31 March 2018, after the transfer of functions referred to in subclause (1).
+
+### 1 Title
+This order is the State Sector (Ministry of Housing and Urban Development) Order 2018.
+
+### 2 Commencement
+This order comes into force on 1 August 2018.
+
+### 4 Application of consequential changes to references provisions
+(1) This clause applies in respect of all functions that are transferred to the Ministry of Housing and Urban Development from—
+  (a) the Ministry of Business, Innovation, and Employment; and
+  (b) the Ministry of Social Development; and
+  (c) the Treasury.
+(2) Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning on 1 August 2018 and ending on 31 July 2019, after the transfer of functions referred to in subclause (1).
