@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-08-14_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -15,16 +15,18 @@ _Consolidation as at 2017-12-16_
   - **marriage** means the union of 2 people, regardless of their sex, sexual orientation, or gender identity
   - **marriage celebrant** means a person authorised to act as a marriage celebrant under this Act
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **minor** means a person under the age of 18 years
   - **New Zealand representative** means a person who is for the time being a head of mission or head of post (within the meaning of section 2 of the Foreign Affairs Act 1988) or a person assigned or reassigned to service overseas under section 6 of that Act
   - **service marriage** means a marriage solemnised outside New Zealand at a time when the person who solemnised it, and at least one party to it, is a member of a naval, military, or air force raised in New Zealand, and the person who solemnised it—
     (a) is both a chaplain and a marriage celebrant; or
     (b) in the case only of a marriage solemnised before 1 September 1995, is a person duly authorised to solemnise it.
 (2) In this Act, unless the context otherwise requires, the terms Registrar-General, Deputy Registrar-General, and Registrar have the meanings assigned to them by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
 
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 3 Application of Act
 (1) The provisions of this Act, so far as they relate to capacity to marry, shall apply to the marriage of any person domiciled in New Zealand at the time of the marriage, whether the marriage is solemnised in New Zealand or elsewhere.
-(2) The provisions of this Act, so far as they relate to the formalities of marriage, including the provisions relating to consents to the marriage of minors, shall apply to any marriage solemnised in New Zealand, and to any marriage solemnised under section 44, whether or not either of the parties to any such marriage is at the time of the marriage domiciled in New Zealand.
+(2) The provisions of this Act, so far as they relate to the formalities of marriage, including section 18 (marriage of persons 16 and 17 years of age), apply to any marriage solemnised in New Zealand, and to any marriage solemnised under section 44, whether or not either of the parties to any such marriage is at the time of the marriage domiciled in New Zealand.
 
 ### 4 Registrar-General and Deputy Registrar-General
 (1) The Registrar-General shall be charged with the general administration of this Act.
@@ -137,36 +139,52 @@ All marriages solemnised before the commencement of this Act that by virtue of s
 
 ### 17 Marriage of persons under 16 years of age
 (1) A marriage licence shall not be issued by any Registrar and no marriage shall be solemnised by any Registrar or marriage celebrant if either of the persons intending marriage is under the age of 16 years on the date of the notice of the intended marriage given under section 23.
-(2) No marriage shall be void by reason only of an infringement of the provisions of this section.
+(2)
 
-### 18 Consent to marriage of minors
-(1) If either of the parties to an intended marriage is a minor, the Registrar shall not issue a licence authorising the marriage or solemnise the marriage unless it has been consented to in accordance with this section.
-(2) Subject to the provisions of this section, consents to the marriage of a minor shall be obtained in accordance with the following provisions:
-  (a) if both the minor's parents are alive and living together, consents shall be obtained from both parents:
-  (b) if the minor's parents are living apart and he or she is living with one parent, consent shall be obtained from the parent with whom he or she is living:
-  (c) if the parents are living apart and the minor is not living with either, consent shall be obtained:
-    (i) from both parents in any case where they are, or have been, married to each other, unless the consent of one parent is dispensed with by a District Court Judge:
-    (ii) from the mother in any case where the parents have never been married:
-  (d) if one of the parents is dead and the parents had at any time been married to each other, consent shall be obtained from the surviving parent and any other person who is the legal guardian of the minor:
-  (e) if both parents are dead and they had at any time been married to each other, consent shall be obtained from any person who is the legal guardian of the minor:
-  (f) if the minor's parents had never been married to each other and one or both of them is dead, consent shall be obtained from the mother if she is alive and from any person who is the legal guardian of the minor if she is dead.
-(3) If any person is the guardian of a minor pursuant to section 5 of the Child Welfare Amendment Act 1948, consent shall be obtained from the guardian and no other consent shall be required.
-(4) Where a parent whose consent is required or is sufficient is deprived of the guardianship of a minor, the consent of the legal guardian shall be required or be sufficient, as the case may be, in place of the consent of that parent.
-(5) Consent shall not be required from any person who cannot be found or is, because of mental incapacity, unable to give consent and, unless the minor requests the consent, consent shall not be required from any person who is not resident in New Zealand.
-(6) Where there is no person whose consent to the marriage of a minor is required under the foregoing provisions of this section, consent to the marriage shall be obtained either from a relative who has been acting in the place of a parent or from a person who was a guardian of the minor immediately before the minor turned 18 years of age, or from a Family Court Judge.
-(7) No marriage shall be void by reason only of the absence of the consent of any person whose consent is required under this section.
+### 18 Marriage of persons 16 and 17 years of age
+(1) This section applies if, on the date on which notice of an intended marriage is given under section 23,—
+  (a) either party to the intended marriage is aged 16 or 17 years; or
+  (b) both parties to the intended marriage are aged 16 or 17 years.
+(2) If this section applies, a Registrar must not issue a marriage licence authorising the intended marriage, or solemnise the marriage, unless a Family Court Judge has, under this section, consented to the intended marriage.
+(3) A party to an intended marriage who is aged 16 or 17 years must apply to the Family Court for a Family Court Judge’s consent to the intended marriage, and a joint application may be made if both parties to the intended marriage are aged 16 or 17 years.
+(4) A Family Court Judge may, on receipt of an application made under subsection (3), consent to the intended marriage only if the Judge is satisfied that, for each party to the intended marriage aged 16 or 17 years,—
+  (a) the party has made the application voluntarily, free of undue influence or coercion; and
+  (b) the party understands the consequences of the application and wants the Judge to consent to the intended marriage; and
+  (c) the intended marriage is in the party’s interests.
+(5) In determining whether the intended marriage is in a party’s interests, the matters the Judge must take into account include, without limitation,—
+  (a) the age and maturity of the party; and
+  (b) the party’s views; and
+  (c) any views of the party’s parents and guardians that can reasonably be ascertained; and
+  (d) any other information available to the court relevant to the party’s application.
 
-### 19 Application to Family Court Judge where consent refused
-(1) Where any person whose consent is required to a marriage refuses to give his or her consent, a Family Court Judge may, on application in that behalf, consent to the marriage and that consent shall have the same effect as if it had been given by the person whose consent has been refused.
-(2) Where an application is made to a Family Court Judge for consent to a marriage, notice of the application shall be served on every person whose consent to the marriage is required under section 18:
-  provided that the Family Court Judge may in his discretion dispense with the serving of notice on any such person.
+### 19 Court may appoint lawyers in proceedings under section 18
+(1) In any proceedings under section 18, the Family Court Judge may appoint a lawyer to represent the applicant if the Judge is satisfied that the appointment is necessary or desirable.
+(2) In any proceedings under section 18, the Family Court Judge may (whether or not an appointment is made under subsection (1))—
+  (a) appoint a lawyer to assist the court; or
+  (b) direct a Registrar of the court to appoint a lawyer to assist the court.
+(3) The fees and expenses of a lawyer appointed under subsection (1) or (2) must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by a Registrar of the Family Court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(4) An invoice for fees and expenses rendered by a lawyer appointed under this section must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(5) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the invoice, the lawyer may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision, and the Judge may make any order varying or confirming the decision that the Judge considers fair and reasonable.
 
-### 20 General provisions relating to consents
-(1) Every consent under section 18 shall be in writing witnessed by some person who, if resident in New Zealand, shall add his or her occupation and address, and the consent shall be delivered to the Registrar to whom notice of the intended marriage is given.
-(2) Any consent given under section 18 may, by notice in writing signed by the person giving his or her consent, be withdrawn at any time before the Registrar issues the marriage licence or solemnises the marriage, as the case may be.
+### 20 Judge may obtain cultural report
+(1) In any proceedings under section 18, the Family Court Judge may obtain a written cultural report by—
+  (a) requesting a person whom the Judge considers qualified for the purpose to prepare one; or
+  (b) directing the Registrar to request a person whom the Registrar considers qualified for the purpose to prepare one.
+(2) The court may act under subsection (1) only if satisfied that—
+  (a) the information that the report will provide is essential for determining the application; and
+  (b) the report is the best source of the information, having regard to the quality, timeliness, and cost of other sources; and
+  (c) the proceedings will not be unduly delayed by the time taken to prepare the report; and
+  (d) any delay in the proceedings will not have an unacceptable effect on the applicant.
+(3) If the court is entitled by subsection (2) to act under subsection (1) and if the court knows the applicant’s wishes about the obtaining of a report or can speedily ascertain them, the court must have regard to the applicant’s wishes before deciding whether or not to act under subsection (1).
+(4) Fees for the preparation of reports obtained under this section, and reasonable expenses incurred, must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by a Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(5) In this section, cultural report means a report that is about the applicant and that covers an aspect or aspects of the applicant’s cultural background, including the applicant’s religious denomination and practice.
 
-### 21 Marriages without licence or marriage celebrant void
-If any persons knowingly and wilfully marry without a marriage licence where a marriage licence is required by this Act, or in the absence of a marriage celebrant or Registrar where the presence of a marriage celebrant or Registrar is required by this Act, the marriage shall be void.
+### 21 When marriage is or may be declared void
+The grounds on which a marriage is void ab initio are set out in section 31 of the Family Proceedings Act 1980.
 
 ### 22 Marriages not to be void because of defects in procedure
 (1) Except as provided in section 15 or in section 21, no marriage shall be deemed to be void by reason of any error or defect in the notice, declaration, or licence required before solemnisation, or in the registration of the marriage when solemnised where the identity of the parties is not questioned, or on account of any other infringement of the provisions of this Act.
@@ -381,7 +399,7 @@ All marriages (whether solemnised before or after the commencement of this Act) 
 (2A) The information in subsection (2) may be verified—
   (a) electronically in a manner specified by the Registrar-General (see also section 82A of the Births, Deaths, Marriages, and Relationships Registration Act 1995); or
   (b) by the person giving notice appearing personally before the Registrar and making a statutory declaration.
-(3) If the person giving notice is under the age of 20 years, the same consents shall be required as in the case of a marriage to be solemnised in New Zealand.
+(3) If the person giving notice is under the age of 20 years, the same consent shall be required as in the case of a marriage to be solemnised in New Zealand.
 (4) The provisions of section 25 relating to caveats shall apply in respect of intended marriages to which this section relates as they apply to marriages intended to be solemnised in New Zealand.
 (5) Subject to the provisions of subsections (2) to (4), the Registrar shall, after the expiry of 14 days from the date of giving notice, issue a certificate in the prescribed form that notice of the intended marriage has been given.
 
@@ -493,10 +511,8 @@ No prosecution under this Act shall be commenced after the expiration of 3 years
 (2) Information required by a form specified under subsection (1)﻿(a)﻿(ii) must be prescribed by regulations.
 
 ### 64A Rules of procedure
-(1) Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under sections 19 and 26.
-(2) The rules—
-  (a) are subject to section 19(2); and
-  (b) do not affect the practice and procedure of the District Court in proceedings under section 26.
+(1) Rules may be made under section 16A of the Family Court Act 1980 regulating the practice and procedure of the Family Court in proceedings under sections 18 and 26.
+(2) The rules do not affect the practice and procedure of the District Court in proceedings under section 26.
 
 ### 65 Regulations may prescribe fees
 [Repealed]
@@ -509,6 +525,18 @@ All fines recovered and all fees received by a Registrar or the Registrar-Genera
 (2) The enactments specified in Schedule 4 shall, at the commencement of this Act, cease to have effect as part of the law of New Zealand.
 (3) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
 (4) It is hereby declared that the provisions of sections 20 and 21 of the Acts Interpretation Act 1924 shall apply to the enactments to which subsection (2) applies as if those enactments were Acts of the General Assembly of New Zealand.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Minors (Court Consent to Relationships) Legislation Act 2018
+
+### 1 Interpretation
+In this Part,—
+  - **2018 Act** means the Minors (Court Consent to Relationships) Legislation Act 2018
+  - **commencement date** means the day on which the 2018 Act comes into force.
+
+### 2 Consents given under section 18 or 19 before commencement date
+Consents given under section 18 or 19 before the commencement date continue to have effect as if the 2018 Act had not been enacted.
 
 ## Schedule 1 — Religious bodies
 
