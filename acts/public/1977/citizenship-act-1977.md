@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-08-14_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -52,12 +52,10 @@ _Consolidation as at 2013-07-01_
 (3) References in this Act to the status or description of the father or mother of a person at the time of that person's birth shall, in relation to a person born after the death of his father or mother (as the case may require), be construed as referring to the status or description of the father or mother at the time of his or her death.
 (4) Where the relevant parent died before, and the person was born on or after, 1 January 1949, the status or description that would have been applicable to the parent had he or she died on or after 1 January 1949 shall be deemed to be the status or description applicable to him or her at the time of his or her death.
 (5) Where the relevant parent died before, and the birth occurs on or after, 1 January 1978, the status or description that would have been applicable to the parent had he or she died on or after that date shall be deemed to be the status or description applicable to him or her at the time of his or her death.
-(5A) In subsection 3(1)(a), de facto relationship has the same meaning as in section 2D of the Property (Relationships) Act 1976, except that—
-  (a) the reference to 18 years in subsection (1)(a) of that section is to be read as a reference to 16 years; and
-  (b) a person who has attained the age of 16 years but who is younger than 18 years may be treated as having a de facto relationship with another person only if—
-    (i) the person is under the guardianship of a court, and the court has on an application for the purpose consented to the relationship; or
-    (ii) in the case of a person not under the guardianship of a court, the person's parents and guardians have consented to the relationship.
-(6) In subsection (2)(ba), Contracting State has the same meaning as in the Adoption (Intercountry) Act 1997.
+(5A) In subsection (1)﻿(a), de facto relationship has the same meaning as in section 2D of the Property (Relationships) Act 1976, except that—
+  (a) the reference to 18 years in subsection (1)﻿(a) of that section is to be read as a reference to 16 years; and
+  (b) a person who has attained the age of 16 years but who is younger than 18 years may be treated as having a de facto relationship with another person only if the person has obtained consent for the relationship in accordance with section 46A of the Care of Children Act 2004.
+(6) In subsection (2)﻿(ba), Contracting State has the same meaning as in the Adoption (Intercountry) Act 1997.
 
 ### 4 Administration of Act
 Subject to the control of the Minister, the Secretary for Internal Affairs is responsible for the administration of this Act.
@@ -69,6 +67,9 @@ Subject to the control of the Minister, the Secretary for Internal Affairs is re
 (4) Any delegation under this section may be made to a specified officer or to officers of a specified class, or may be made to the holder for the time being of a specified office or class of office.
 (5) Any delegation under this section shall be revocable at will, and no such delegation shall prevent the exercise of any power or function by the Secretary.
 (6) Any such delegation shall, until revoked, continue in force according to its tenor, notwithstanding the fact that the Secretary by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of that Secretary.
+
+### 4B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 5 Act binds Crown
 This Act binds the Crown.
@@ -121,7 +122,7 @@ This Act binds the Crown.
   (b) is of full capacity; and
   (c) applies for citizenship in the prescribed manner; and
   (d) satisfies the Minister that he or she meets each of the requirements specified in subsection (2).
-(2) The requirements referred to in subsection (1)(d) are as follows:
+(2) The requirements referred to in subsection (1)﻿(d) are as follows:
   (a) that the applicant is entitled in terms of the Immigration Act 2009 to be in New Zealand indefinitely:
   (b) that the applicant was present in New Zealand—being days during which the applicant was entitled in terms of the Immigration Act 2009 to be in New Zealand indefinitely:
     (i) for a minimum of 1 350 days during the 5 years immediately preceding the date of the application; and
@@ -132,30 +133,30 @@ This Act binds the Crown.
   (f) that the applicant intends, if granted New Zealand citizenship, either—
     (i) to continue to reside in New Zealand; or
     (ii) to enter into or continue in Crown service under the New Zealand Government, or service under an international organisation of which the New Zealand Government is a member, or service in the employment of a person, company, society, or other body of persons resident or established in New Zealand.
-(3) For the purposes of subsection (2)(a), a person will not be treated as entitled to be in New Zealand indefinitely if—
+(3) For the purposes of subsection (2)﻿(a), a person will not be treated as entitled to be in New Zealand indefinitely if—
   (a) conditions have been imposed under the Immigration Act 2009 on the person’s entitlement to reside in New Zealand indefinitely; and
   (b) those conditions have not been met in full or cancelled at the time of the person's application for citizenship.
 (4) The Minister may, after consultation with the Minister of Immigration,—
-  (a) waive the requirement in subsection (2)(a) if satisfied that an applicant is entitled to reside indefinitely in the Cook Islands, Niue, or Tokelau:
-  (b) waive the requirement in subsection (2)(b) if satisfied that an applicant was present in the Cook Islands, Niue, or Tokelau—being days during which the applicant was entitled to reside indefinitely in the Cook Islands, Niue, or Tokelau.
+  (a) waive the requirement in subsection (2)﻿(a) if satisfied that an applicant is entitled to reside indefinitely in the Cook Islands, Niue, or Tokelau:
+  (b) waive the requirement in subsection (2)﻿(b) if satisfied that an applicant was present in the Cook Islands, Niue, or Tokelau—being days during which the applicant was entitled to reside indefinitely in the Cook Islands, Niue, or Tokelau.
     (i) for a minimum of 1 350 days during the 5 years immediately preceding the date of the application; and
     (ii) for at least 240 days in each of those 5 years,—
-(5) For the purposes of subsection (2)(b), the Minister may treat the applicant as having been in New Zealand for any period within the period of 5 years immediately preceding the date of application for citizenship during which—
+(5) For the purposes of subsection (2)﻿(b), the Minister may treat the applicant as having been in New Zealand for any period within the period of 5 years immediately preceding the date of application for citizenship during which—
   (a) the applicant was in Crown service under the New Zealand Government; or
   (b) the applicant was outside New Zealand because the applicant was accompanying his or her spouse or civil union or de facto partner who was a New Zealand citizen in Crown service under the New Zealand Government.
-(6) For the purposes of subsection (4)(b), the Minister may treat the applicant as having been present in the Cook Islands, Niue, or Tokelau for any period within the period of 5 years immediately preceding the date of the application for citizenship during which—
+(6) For the purposes of subsection (4)﻿(b), the Minister may treat the applicant as having been present in the Cook Islands, Niue, or Tokelau for any period within the period of 5 years immediately preceding the date of the application for citizenship during which—
   (a) the applicant served in the public service of the Government of the Cook Islands, Niue, or Tokelau; or
   (b) the applicant was outside New Zealand because the applicant was accompanying his or her spouse or civil union or de facto partner who was a New Zealand citizen serving in the public service of the Cook Islands, Niue, or Tokelau.
 (7) If the Minister is satisfied in a particular case that there are exceptional circumstances particular to the applicant that would justify such a course, the Minister may accept the presence by the applicant for a lesser number of days as being sufficient compliance with—
-  (a) the requirements of subsection (2)(b), so long as the applicant—
+  (a) the requirements of subsection (2)﻿(b), so long as the applicant—
     (i) was physically present in New Zealand for not less than 450 days during the 20-month period immediately preceding the date of the application for citizenship; and
     (ii) was entitled in terms of the Immigration Act 2009 to be in New Zealand indefinitely during each of those 450 days:
-  (b) the requirements of subsection (4)(b), so long as the applicant—
+  (b) the requirements of subsection (4)﻿(b), so long as the applicant—
     (i) was physically present in the Cook Islands, Niue, or Tokelau for not less than 450 days during the 20-month period immediately preceding the date of the application for citizenship; and
     (ii) was entitled to be in the Cook Islands, Niue, or Tokelau indefinitely during each of those 450 days.
-(8) The Minister may waive the requirement in subsection (2)(e) if satisfied in a particular case that, because of the applicant's age or standard of education, or for any other reason personal to the applicant, the applicant would suffer undue hardship if compliance with the requirement of that provision were insisted upon.
-(9) For the purposes of subsection (2)(f),—
-  (a) the intention referred to in subsection (2)(f)(i) must be a continuing intention throughout the period from the date of application for citizenship until the date that the applicant becomes a citizen under section 12:
+(8) The Minister may waive the requirement in subsection (2)﻿(e) if satisfied in a particular case that, because of the applicant's age or standard of education, or for any other reason personal to the applicant, the applicant would suffer undue hardship if compliance with the requirement of that provision were insisted upon.
+(9) For the purposes of subsection (2)﻿(f),—
+  (a) the intention referred to in subsection (2)﻿(f)﻿(i) must be a continuing intention throughout the period from the date of application for citizenship until the date that the applicant becomes a citizen under section 12:
   (b) the Minister may treat an applicant as intending to continue to reside in New Zealand if the applicant intends to accompany his or her New Zealand citizen spouse or civil union or de facto partner on Crown service for the New Zealand Government or public service for the Government of the Cook Islands, Niue, or Tokelau.
 
 ### 8A Grant of citizenship to spouse of New Zealand citizen
@@ -387,6 +388,18 @@ Nothing in this Act limits access to information that is recorded under this Act
 (2) The enactments specified in Schedule 3 are hereby consequentially amended in the manner indicated in that schedule.
 (3) The Citizenship Deprivation Rules 1949 are hereby consequentially revoked.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Minors (Court Consent to Relationships) Legislation Act 2018
+
+### 1 Interpretation
+In this Part,—
+  - **2018 Act** means the Minors (Court Consent to Relationships) Legislation Act 2018
+  - **commencement date** means the day on which the 2018 Act comes into force.
+
+### 2 Consents given under section 3(5A)﻿(b) before commencement date
+Consents given under section 3(5A)﻿(b)﻿(i) or (ii) before the commencement date continue to have effect as if the 2018 Act had not been enacted.
+
 ## Schedule 1 — Oath of allegiance
 
 ## Schedule 2 — Enactments consequentially repealed
@@ -416,10 +429,10 @@ This Act comes into force on the day after the date on which it receives the Roy
 ### 17 Transitional provisions in relation to applications for citizenship
 (1) Nothing in new sections 8, 9, 9A, and 9B of the principal Act applies in relation to any application for a grant of citizenship made before the date of commencement of this Act, and any such application must be determined in accordance with the former sections 8, 8A, and 9 of the principal Act.
 (2) An application for a grant of citizenship made during the 5-year period commencing with the date of commencement of this Act by a person of a kind described in subsection (3) must be determined in accordance with the new sections 8, 9, 9A, and 9B of the principal Act as if—
-  (a) subsections (2)(b), (4)(b) and (7) of the new section 8 (which set minimum presence requirements for the period of 5 years preceding the date of application for citizenship) did not apply; and
-  (b) there were substituted for those provisions subsections (2)(a), and (4) of the former section 8 (which set residence requirements for the period of 3 years preceding the date of application for citizenship) of the principal Act; and
-  (c) subsections (5) and (6) of the new section 8 applied for the purposes of the former section 8(2)(a) as if they referred to a period of 3 years rather than a period of 5 years; and
-  (d) for the purposes of the former section 8(2)(a) and (4), the time during which a person is ordinarily resident in New Zealand—
+  (a) subsections (2)﻿(b), (4)﻿(b) and (7) of the new section 8 (which set minimum presence requirements for the period of 5 years preceding the date of application for citizenship) did not apply; and
+  (b) there were substituted for those provisions subsections (2)﻿(a), and (4) of the former section 8 (which set residence requirements for the period of 3 years preceding the date of application for citizenship) of the principal Act; and
+  (c) subsections (5) and (6) of the new section 8 applied for the purposes of the former section 8(2)﻿(a) as if they referred to a period of 3 years rather than a period of 5 years; and
+  (d) for the purposes of the former section 8(2)﻿(a) and (4), the time during which a person is ordinarily resident in New Zealand—
     (i) includes time spent in New Zealand before the commencement of the Immigration Act 2009 while holding a valid immigration permit or being exempt from the requirement to hold a permit, and time spent in New Zealand after the commencement of that Act while holding a valid visa; but
     (ii) does not include any time during which the person was unlawfully in New Zealand.
 (3) Subsection (2) applies in respect of any person who—
