@@ -1,5 +1,5 @@
 # Oranga Tamariki Act 1989
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-08-14_
 
 > Title
 
@@ -1297,10 +1297,7 @@ Where—any of those guardians may apply to the court for its direction, and the
   (b) that decision or refusal of consent is in respect of an important matter,—
 (3) Where an application is made under this section in respect of a decision or refusal, the court may, if it thinks it reasonable in the circumstances to do so, review the decision or refusal and make such order in respect of that decision or refusal as it thinks fit.
 (4) Any consent given by the court pursuant to this section shall have the same effect as if it had been given by the guardian.
-(5) Nothing in this section limits or affects—
-  (a) the provisions of the Marriage Act 1955 with respect to consents for minors to marry:
-  (b) the provisions of the Civil Union Act 2004 with respect to consents for people under the age of 18 years to enter civil unions:
-  (c) the provisions of the Care of Children Act 2004 with respect to consents for people under the age of 18 years to become parties to de facto relationships.
+(5)
 
 ### 117 When guardianship orders to cease to have effect
 (1) Every guardianship order made under section 110 shall cease to have effect when—whichever occurs first.
