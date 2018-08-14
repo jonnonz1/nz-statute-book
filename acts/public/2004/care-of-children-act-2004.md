@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-08-14_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -163,6 +163,9 @@ In this Act, unless the context otherwise requires,—
 This Act applies to—
   (a) children living at the commencement of this Act (see section 2); and
   (b) children born after that time.
+
+### 11A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 12 Act binds the Crown
 This Act binds the Crown.
@@ -549,10 +552,16 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
 **Consent to certain decisions**
 
 ### 46A Consent for de facto relationship
-(1) A child aged 16 or 17 who wishes to obtain consent for his or her de facto relationship must obtain the express written consent of each of his or her guardians to living together as a couple with the other party to the relationship.
-(2) If the consent of a guardian cannot be obtained (whether because the guardian refuses to give consent, or cannot be found, or is unable to give consent as a result of incapacity), the child may apply to the court for consent.
-(3) A Family Court Judge may make an order giving consent for the de facto relationship of a child aged 16 or 17.
-(4) A consent given by a Family Court Judge under this section has the same effect as if it had been given by all of the child’s guardians.
+(1) A child aged 16 or 17 who wishes to obtain consent for his or her de facto relationship must make an application to the Family Court for the consent of a Family Court Judge.
+(2) A Family Court Judge may, on an application of a child made under subsection (1), consent to the de facto relationship only if the Judge is satisfied that—
+  (a) the child has made the application voluntarily, free of undue influence or coercion; and
+  (b) the child understands the consequences of the application and wants the Judge to consent to the de facto relationship; and
+  (c) the de facto relationship is in the child’s interests.
+(3) In determining whether the de facto relationship is in the child’s interests, the matters that the Judge must take into account include, without limitation,—
+  (a) the age and maturity of the child; and
+  (b) the child’s views; and
+  (c) any views of the child’s parents and guardians that can reasonably be ascertained; and
+  (d) any other information available to the court relevant to the child’s application.
 
 ### 46B Consent where child has no guardian
 (1) This section applies to a child who does not have a guardian because guardianship of the child has ended under section 28(1).
@@ -565,7 +574,7 @@ Sections 40(2) and 41(2) apply to an agreement even though some or all of the pa
 ### 46C Certain children may seek review of parent's or guardian's decision or refusal to give consent
 (1) A child of or over the age of 16 years who is affected by a decision or by a refusal of consent by a parent or guardian in an important matter may (unless the child is under the guardianship of the court) apply to a Family Court Judge, who may, if he or she thinks it reasonable in all the circumstances to do so, review the decision or refusal and make any order in respect of it that he or she thinks fit.
 (2) A consent given by a Family Court Judge under this section has the same effect as if it had been given by the parent or guardian.
-(3) This section does not apply where a parent or guardian refuses to give consent to a child's marriage, civil union, or entry into a de facto relationship. In those cases, sections 18 to 20 of the Marriage Act 1955, sections 19 and 20 of the Civil Union Act 2004, and section 46A of this Act, respectively, apply instead.
+(3)
 
 **Family dispute resolution**
 
@@ -1458,7 +1467,7 @@ In any proceedings under this Act (other than criminal proceedings), a court may
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
 (4) Where in any proceedings a lawyer has been appointed under section 7 or 130 and the fees and expenses relating to that appointment have been paid under subsection (1), the court must make an order under section 135A, unless the court declines to do so in accordance with that section.
 (5) However, no order under section 135A may be made—
-  (a) in any proceedings commenced by an application under section 105 or a request under section 111; or
+  (a) in any proceedings commenced by an application under section 46A or 105 or a request under section 111; or
   (b) against—
     (i) the Crown, whether acting through the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 or otherwise; or
     (ii) a person in whose custody the child concerned has been placed pursuant to an order made under the Oranga Tamariki Act 1989; or
@@ -1482,6 +1491,7 @@ Definitions
     (a) means—
       (i) an application for guardianship; or
       (ii) an application for a parenting order; or
+      (iia) an application under section 46A; or
       (iii) an application under section 105(1); but
     (b) does not include an application for an interim order about the role of providing day-to-day care for a child
   - **approval** means an approval under subsection (10)
@@ -1507,6 +1517,11 @@ Definitions
     (a) a critique of a psychological report; and
     (b) a report covering the same matters as those covered by a psychological report.
 Court's power to obtain cultural reports, medical reports, or psychiatric reports
+(1A) In proceedings relating to an application under section 46A, the court may obtain only a cultural report.
+(1B) In proceedings relating to any other application, the court may obtain any 1 or more of the following:
+  (a) a cultural report:
+  (b) a medical report:
+  (c) a psychiatric report.
 (2) To obtain a written cultural report, medical report, or psychiatric report, the court may—
   (a) request a person whom the court considers qualified for the purpose to prepare one; or
   (b) direct the Registrar to request a person whom the Registrar considers qualified for the purpose to prepare one.
@@ -1517,6 +1532,7 @@ Court's power to obtain cultural reports, medical reports, or psychiatric report
   (d) any delay in the proceedings will not have an unacceptable effect on the child.
 (4) If the court is entitled by subsection (3) to act under subsection (2) and if the court knows the parties' wishes about the obtaining of a report or can speedily ascertain them, the court must have regard to the parties' wishes before deciding whether or not to act under subsection (2).
 Court's power to obtain psychological reports
+(4A) In proceedings relating to an application, other than an application under section 46A, the court may obtain a psychological report.
 (5) To obtain a written psychological report,—
   (a) the court may—
     (i) request a psychologist whom the court considers qualified for the purpose to prepare one; or
@@ -1565,6 +1581,7 @@ Second opinions
   (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) Where in any proceedings a report requested under section 133 has been prepared and the fees and expenses relating to that report have been paid under subsection (1), the court must make an order under section 135A unless the court declines to do so in accordance with that section.
+(3) However, no order under section 135A may be made in any proceedings commenced by an application under section 46A.
 
 ### 135A Order requiring reimbursement of costs payments
 (1) An order referred to in section 131(4) or 135(2) must require the parties to reimburse to the Crown the prescribed proportion of the amount paid by the Crown,—
@@ -1836,6 +1853,18 @@ The repeal of the Guardianship Amendment Act 1991 by section 152 of this Act doe
 (6) If in any pending proceeding a referral to counselling was made either on the court's initiative (under section 45) or on the request of a party (under section 65) and that counselling was arranged or was in progress immediately before the date of commencement of this section,—
   (a) sections 66, 67, 69, and 138 continue to apply as if the Care of Children Amendment Act (No 2) 2013 had not been enacted; but
   (b) the counselling may not start or continue 4 months after the date of commencement of this section.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Minors (Court Consent to Relationships) Legislation Act 2018
+
+### 1 Interpretation
+In this Part,—
+  - **2018 Act** means the Minors (Court Consent to Relationships) Legislation Act 2018
+  - **commencement date** means the day on which the 2018 Act comes into force.
+
+### 2 Consents given under section 46A before commencement date
+Consents given under section 46A before the commencement date continue to have effect as if the 2018 Act had not been enacted.
 
 ## Schedule 1 — Convention on the Civil Aspects of International Child Abduction
 
