@@ -1,5 +1,5 @@
 # Civil Union Act 2004
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-08-14_
 
 ### 1 Title
 This Act is the Civil Union Act 2004.
@@ -37,6 +37,9 @@ In any other enactment, unless the context otherwise requires, a reference to a 
   (b) a relationship that is entered into overseas and—
     (i) is of a type identified by regulations made under section 35(1)﻿(a) as being a type of relationship that is recognised in New Zealand as a civil union; and
     (ii) is between 2 people who are at least 18 years old or, if either party is younger than 18, was entered into with the consent of that party's guardians.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -133,20 +136,46 @@ The purpose of section 18 is to allow couples who are married or in a civil unio
 **Consent for persons aged 16 or 17**
 
 ### 19 Consent to civil union of persons aged 16 or 17
-(1) A Registrar may not issue a licence in respect of a civil union, or solemnise a civil union, in which one of the parties is aged 16 or 17 unless the Registrar is satisfied that the consents required by this section have been obtained.
-(2) A person aged 16 or 17 who wishes to enter into a civil union must obtain the consent of each of his or her guardians to the proposed civil union.
-(3) However, the consent of a particular guardian is not required if the guardian cannot be found or is unable to give consent as a result of incapacity.
-(4) If, because of subsection (3), there is no guardian from whom consent can be sought, consent must be obtained either from a relative who has been acting in the place of a guardian or from a Family Court Judge.
-(5) Every consent under this section must—
-  (a) be in writing; and
-  (b) except in the case of a consent issued by a Family Court Judge, be witnessed by some person who must sign the consent and give his or her full name and address; and
-  (c) be delivered to the Registrar to whom notice of the intended civil union is given.
-(6) A consent may be withdrawn, in writing, at any time before the Registrar issues the licence or solemnises the civil union, as the case requires.
+(1) This section applies if, on the date on which notice of the intended union is given under section 11,—
+  (a) either party to the intended civil union is aged 16 or 17 years; or
+  (b) both parties to the intended civil union are aged 16 or 17 years.
+(2) If this section applies, a Registrar must not issue a licence authorising the intended civil union, or solemnise the civil union, unless a Family Court Judge has, under this section, consented to the intended civil union.
+(3) A party to an intended civil union who is aged 16 or 17 years must apply to the Family Court for a Family Court Judge’s consent to the intended civil union, and a joint application may be made if both parties to the intended civil union are aged 16 or 17 years.
+(4) A Family Court Judge may, on receipt of an application made under subsection (3), consent to the intended civil union only if the Judge is satisfied that, for each party to the intended civil union aged 16 or 17 years,—
+  (a) the party has made the application voluntarily, free of undue influence or coercion; and
+  (b) the party understands the consequences of the application and wants the Judge to consent to the intended civil union; and
+  (c) the intended civil union is in the party’s interests.
+(5) In determining whether the intended civil union is in a party’s interests, the matters the Judge must take into account include, without limitation,—
+  (a) the age and maturity of the party; and
+  (b) the party’s views; and
+  (c) any views of the party’s parents and guardians that can reasonably be ascertained; and
+  (d) any other information available to the court relevant to the party’s application.
 
-### 20 Application to Family Court Judge if consent refused
-(1) If a person whose consent to a civil union is required under section 19 refuses to give that consent, a Family Court Judge may, on application, consent to the civil union, and that consent has the same effect as if it had been given by the person who refused to give consent.
-(2) When an application is made to a Family Court Judge for consent to a civil union, notice of the application must be served on every person whose consent to the civil union is required under section 19.
-(3) Despite subsection (2), a Family Court Judge may, at his or her discretion, dispense with serving notice on a person whose consent to a civil union is required under section 19.
+### 20 Court may appoint lawyers in proceedings under section 19
+(1) In any proceedings under section 19, the Family Court Judge may appoint a lawyer to represent the applicant if the Judge is satisfied that the appointment is necessary or desirable.
+(2) In any proceedings under section 19, the Family Court Judge may (whether or not an appointment is made under subsection (1))—
+  (a) appoint a lawyer to assist the court; or
+  (b) direct a Registrar of the court to appoint a lawyer to assist the court.
+(3) The fees and expenses of a lawyer appointed under subsection (1) or (2) must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by a Registrar of the Family Court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(4) An invoice for fees and expenses rendered by a lawyer appointed under this section must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(5) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the invoice, the lawyer may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision, and the Judge may make any order varying or confirming the decision that the Judge considers fair and reasonable.
+
+### 20A Judge may obtain cultural report
+(1) In any proceedings under section 19, the Family Court Judge may obtain a written cultural report by—
+  (a) requesting a person whom the Judge considers qualified for the purpose to prepare one; or
+  (b) directing the Registrar to request a person whom the Registrar considers qualified for the purpose to prepare one.
+(2) The court may act under subsection (1) only if satisfied that—
+  (a) the information that the report will provide is essential for determining the application; and
+  (b) the report is the best source of the information, having regard to the quality, timeliness, and cost of other sources; and
+  (c) the proceedings will not be unduly delayed by the time taken to prepare the report; and
+  (d) any delay in the proceedings will not have an unacceptable effect on the applicant.
+(3) If the court is entitled by subsection (2) to act under subsection (1) and if the court knows the applicant’s wishes about the obtaining of a report or can speedily ascertain them, the court must have regard to the applicant’s wishes before deciding whether or not to act under subsection (1).
+(4) Fees for the preparation of reports obtained under this section, and reasonable expenses incurred, must—
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by a Registrar of the court; and
+  (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
+(5) In this section, cultural report means a report that is about the applicant and that covers an aspect or aspects of the applicant’s cultural background, including the applicant’s religious denomination and practice.
 
 **Notice of objection to civil union**
 
@@ -167,10 +196,8 @@ The purpose of section 18 is to allow couples who are married or in a civil unio
 
 ### 23 When civil union is or may be declared void
 (1) The grounds on which a civil union is void ab initio are set out in section 31 of the Family Proceedings Act 1980.
-(2) A civil union may also be declared to be void ab initio on the grounds that, at the time the civil union was solemnised,—
-  (a) one of the parties to it was under the age of 16; or
-  (b) one of the parties to it was aged 16 or 17 and the consents required under section 19 had not be given.
-(3) An application for a declaration under subsection (2) may be made under section 29 of the Family Proceedings Act 1980 as if the application were an application for an order declaring that the civil union was void ab initio on any of the grounds referred to in section 31 of that Act.
+(2)
+(3)
 
 ### 24 Effect of defects in formalities or procedures
 (1) A defect in compliance with the formalities or procedures required under this Act does not, in itself, render a civil union void.
@@ -281,10 +308,8 @@ A prosecution under this Act may not be commenced more than 3 years from the dat
   (e) requires that, during the relationship, the parties may not enter into that sort of relationship with anyone else, and may not marry anyone else.
 
 ### 36 Rules of procedure
-(1) Rules may be made under section 16A of the Family Court Act 1980 that regulate the practice and procedure of the Family Court in proceedings under sections 10, 20, and 22.
-(2) Rules made under the Family Court Act 1980—
-  (a) are subject to section 20(2) and (3); and
-  (b) do not affect the practice and procedure of the District Court in proceedings under section 22.
+(1) Rules may be made under section 16A of the Family Court Act 1980 that regulate the practice and procedure of the Family Court in proceedings under sections 10, 19, and 22.
+(2) Rules made under the Family Court Act 1980 do not affect the practice and procedure of the District Court in proceedings under section 22.
 
 ### 37 Appointment of civil union celebrants before section 26 comes into force
 (1) The Registrar-General may, before section 26 comes into force, receive applications from persons who wish to be appointed as civil union celebrants, and may appoint suitable persons under section 26(2).
@@ -322,6 +347,18 @@ Amendment(s) incorporated in the Act(s).
 
 ### 46 Consequential amendments to other enactments
 The enactments listed in Schedule 5 are consequentially amended in the manner indicated in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Minors (Court Consent to Relationships) Legislation Act 2018
+
+### 1 Interpretation
+In this Part,—
+  - **2018 Act** means the Minors (Court Consent to Relationships) Legislation Act 2018
+  - **commencement date** means the day on which the 2018 Act comes into force.
+
+### 2 Consents given under section 19 or 20 before commencement date
+Consents given under section 19 or 20 before the commencement date continue to have effect as if the 2018 Act had not been enacted.
 
 ## Schedule 1 — Exempt bodies
 
