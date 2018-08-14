@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-08-14_
 
 > Title
 
@@ -199,7 +199,9 @@ While any Family Court Rules are in force, all proceedings in the Family Court (
   (e) Domestic Violence Act 1995:
   (f) Family Proceedings Act 1980:
   (g) Property (Relationships) Act 1976:
-  (h) Protection of Personal and Property Rights Act 1988.
+  (h) Protection of Personal and Property Rights Act 1988:
+  (i) Civil Union Act 2004:
+  (j) Marriage Act 1955.
 (3) The courts referred to in subsection (1)﻿(b) are as follows:
   (a) the Family Court:
   (b) the District Court having concurrent jurisdiction with the Family Court:
@@ -300,14 +302,18 @@ Fees and expenses for lawyers for child and lawyers to assist court
     (iii) section 159 of the Oranga Tamariki Act 1989:
     (iv) section 81(1)﻿(b) of the Domestic Violence Act 1995:
     (v) section 162 of the Family Proceedings Act 1980:
-    (vi) section 37A of the Property (Relationships) Act 1976; or
+    (vi) section 37A of the Property (Relationships) Act 1976:
+    (vii) section 20(1) of the Civil Union Act 2004:
+    (viii) section 19(1) of the Marriage Act 1955; or
   (b) a lawyer appointed under any of the following provisions to assist the court:
     (i) section 130 of the Care of Children Act 2004:
     (ii) section 226A of the Child Support Act 1991:
     (iii) section 160 of the Oranga Tamariki Act 1989:
     (iv) section 81(1)﻿(a) of the Domestic Violence Act 1995:
     (v) section 162A of the Family Proceedings Act 1980:
-    (vi) section 65A of the Protection of Personal and Property Rights Act 1988.
+    (vi) section 65A of the Protection of Personal and Property Rights Act 1988:
+    (vii) section 20(2) of the Civil Union Act 2004:
+    (viii) section 19(2) of the Marriage Act 1955.
 (2) The Governor-General may, from time to time, by Order in Council, make regulations for determining—
   (a) the fees payable to a lawyer in respect of the lawyer's appointment:
   (b) the expenses payable to a lawyer in respect of the lawyer's appointment.
@@ -324,9 +330,12 @@ Fees and expenses for lawyers for child and lawyers to assist court
   (a) the types of expenses for which a lawyer may claim reimbursement:
   (b) the rate of reimbursement of those expenses:
   (c) the circumstances in which expenses may be reimbursed.
-Fees and expenses for report writers under Care of Children Act 2004
+Fees and expenses for report writers
 (6) In subsections (7) to (10), report writer means any of the following:
-  (a) a person who prepares a cultural report when requested to do so under section 133(2) of the Care of Children Act 2004:
+  (a) a person who prepares a cultural report when requested to do so under—
+    (i) section 133(2) of the Care of Children Act 2004:
+    (ii) section 20A of the Civil Union Act 2004:
+    (iii) section 20 of the Marriage Act 1955:
   (b) a person who prepares a medical report when requested to do so under section 133(2) of the Care of Children Act 2004:
   (c) a person who prepares a psychiatric report when requested to do so under section 133(2) of the Care of Children Act 2004:
   (d) a person who prepares a psychological report when requested to do so under section 133(5) of the Care of Children Act 2004.
