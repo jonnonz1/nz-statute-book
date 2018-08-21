@@ -1,5 +1,5 @@
 # Imprest Supply (First for 2018/19) Act 2018
-_Consolidation as at 2018-06-26_
+_Consolidation as at 2018-08-21_
 
 ### 1 Title
 This Act is the Imprest Supply (First for 2018/19) Act 2018.
