@@ -1,5 +1,5 @@
 # Appropriation (2016/17 Confirmation and Validation) Act 2018
-_Consolidation as at 2018-05-07_
+_Consolidation as at 2018-08-21_
 
 ### 1 Title
 This Act is the Appropriation (2016/17 Confirmation and Validation) Act 2018.
