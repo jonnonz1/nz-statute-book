@@ -1,5 +1,5 @@
 # National Animal Identification and Tracing Act 2012
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2018-08-23_
 
 ### 1 Title
 This Act is the National Animal Identification and Tracing Act 2012.
@@ -34,7 +34,7 @@ In this Act, unless the context otherwise requires,—
     (a) is attached or applied to, or implanted or located within, an animal; and
     (b) contains the animal identifier and other information
   - **animal identifier** means the unique identifier that applies to an individual NAIT animal or a single identifier that commonly applies to all NAIT animals within a herd, flock, or other grouping of animals and is unique to that grouping
-  - **animal movement** means the movement of 1 or more NAIT animals between 2 NAIT locations
+  - **animal movement** means the movement of 1 or more NAIT animals between 2 locations, either of which is, or both of which are, a NAIT location or other location
   - **animal movement declaration** means the declaration provided to the NAIT organisation by a PICA about an animal movement containing prescribed information
   - **biosecurity database** has the same meaning as in section 2(1) of the Biosecurity Act 1993
   - **body corporate** , except in Part 4, means a company whether incorporated in New Zealand or elsewhere
@@ -65,6 +65,7 @@ In this Act, unless the context otherwise requires,—
   - **NAIT scheme** means the overall scheme established under this Act to provide for and support the identification and tracing of NAIT animals
   - **non-core data** means information held by the NAIT organisation under an agreement made under section 41
   - **other identification system** means an animal identification system other than an animal identification system approved under the Biosecurity Act 1993 or Animal Products Act 1999
+  - **other location** means a place, other than a NAIT location, where 1 or more NAIT animals are kept or held
   - **personal information** has the same meaning as in section 2(1) of the Privacy Act 1993
   - **PICA** means a natural person in day-to-day charge of a NAIT animal
   - **PICA delegate** means a natural person—
@@ -421,7 +422,7 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
   (a) register as a PICA with the NAIT organisation; and
   (b) register with the NAIT organisation, as a NAIT location, any location where NAIT animals are to be kept or held; and
   (c) identify a NAIT animal with a NAIT device and register the animal with the NAIT organisation; and
-  (d) declare the movement of NAIT animals from 1 NAIT location to another; and
+  (d) declare the movement of NAIT animals from 1 NAIT location or other location to another; and
   (e) declare the death, loss, or intended export of NAIT animals; and
   (f) provide correct and up-to-date information to the NAIT organisation as required by or under this Act.
 (3) These obligations apply to every PICA—
@@ -485,12 +486,12 @@ An information provider may, on behalf of a PICA, perform 1 or more of the follo
 (1) A PICA must ensure that the NAIT animals in his or her charge are—
   (a) correctly fitted at all times with the NAIT device required for those animals in accordance with standards issued under section 14 or regulations made under this Act; and
   (b) registered with the NAIT organisation.
-(2) A PICA must not move NAIT animals from the NAIT location which that PICA controls unless those animals are fitted with the prescribed NAIT device.
+(2) A PICA must not move NAIT animals from the NAIT location or other location which that PICA controls unless those animals are fitted with the prescribed NAIT device.
 
 **Movement and compliance**
 
 ### 31 Obligation to declare movement of NAIT animals
-(1) Every PICA must declare every movement of NAIT animals between 2 NAIT locations to the NAIT organisation.
+(1) Every PICA must declare every animal movement to the NAIT organisation.
 (2) A declaration must be made both by—
   (a) the PICA at the location from which the animals are moved (point of origin); and
   (b) the PICA at the location to which they are moved (destination).
@@ -1071,7 +1072,9 @@ The enactments specified in Schedule 4 are amended in the manner shown in that s
   - **network operator** has the meaning given in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013
   - **Registrar** and mean the Registrar and Deputy Registrar of the District Court
   - **remote access search** means a search of a thing such as an Internet data storage facility that does not have a physical address that a person can enter and search
-  - **search power** , in relation to any provision in this schedule, means every search warrant issued under this Act
+  - **search power** , in relation to any provision in this schedule, means—
+    (a) every search warrant issued under this Act; and
+    (b) every power conferred by or under this Act to enter and inspect (without warrant) any place, vehicle, or other thing
   - **search warrant** means a search warrant within the meaning of clause 29(2).
 (2) For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer—
   (a) with or without access information; and
@@ -1387,7 +1390,7 @@ An application for a search warrant must contain or be accompanied by a statemen
   (b) for the purpose of planning to commit or committing an offence.
 
 ### 35 Form and content of search warrant
-(1) Every search warrant issued must be in the prescribed form.
+(1) Every search warrant issued must be in the prescribed form, if any.
 (2) Every search warrant issued must be directed to a NAIT officer who has authority to execute the warrant.
 (3) A search warrant may be—
   (a) executed by—
@@ -1860,9 +1863,9 @@ Every person commits an offence and is liable on conviction to imprisonment for 
 (1) Every person commits an offence who—
   (a) is, or has been determined to be, a PICA for a NAIT location by a NAIT officer; and
   (b) in breach of section 26 or 27, fails to register as a PICA in accordance with this Act.
-(2) A PICA for a NAIT location commits an offence who fails, unless an exemption applies,—
+(2) A PICA for a NAIT location or other location commits an offence who fails, unless an exemption applies,—
   (a) to register a NAIT animal at that location in accordance with this Act:
-  (b) to comply with section 31 in relation to a NAIT animal consigned for transport or droving from a NAIT location registered by the PICA:
+  (b) to comply with section 31 in relation to animal movements:
   (c) to comply with section 32 in relation to a NAIT animal that dies, is lost, or is exported live.
 (3) Every person who commits an offence against subclause (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $10,000:
@@ -2074,3 +2077,18 @@ If a body corporate is convicted of an offence against this Act, a director or m
 [Repealed]
 
 ## Schedule 4 — Enactments amended
+
+### 1 Title
+This Act is the National Animal Identification and Tracing Amendment Act 2018.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act
+This Act amends the National Animal Identification and Tracing Act 2012 (the principal Act).
+
+## Part 1 — Amendments to principal Act
+
+### 9 Review
+(1) The Minister must, 12 months after the commencement of this Act, initiate a review of the amendments set out in section 8.
+(2) The Minister must present a report on the review to the House of Representatives within 3 months of the initiation of the review under subsection (1).
