@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-09-05_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -752,6 +752,9 @@ The enactments specified in Schedule 2 are consequentially amended in the manner
 (1) This section applies to permissions granted under section 28Z(9) of the Fisheries Act 1983 or under section 57(3) of the Fisheries Act 1996, and conditions of those permissions, that are in effect immediately before the commencement of section 73 or that are granted after that commencement by virtue of section 77(2).
 (2) Those permissions and conditions must be treated as if they were consents granted and conditions applied under this Act.
 (3) However, regulation 14(2) of the Regulations, as in force immediately before the commencement of section 76, continues to apply to those permissions and conditions of those permissions.
+
+### 80 Transitional provision relating to clause 6 of Schedule 1AA (Exemption relating to dwellings in large apartment developments where sales of dwellings have begun before assent date)
+A person may apply for an exemption certificate, and the application may be dealt with, before the commencement of clause 6 of Schedule 1AA as if that clause and the relevant fee prescribed in the regulations were in force.
 
 ## Schedule 1 — Sensitive land
 
