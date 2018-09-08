@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2017-12-05_
+_Consolidation as at 2018-09-08_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1069,7 +1069,7 @@ An issuing officer (within the meaning of section 3 of the Search and Surveillan
   (c) any thing that there are reasonable grounds to believe is intended to be used for the purpose of committing an offence of that kind.
 
 ### 109A Search warrants from District Court Judges for offences against sections 126 and 131A
-(1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant if satisfied—
+(1) A District Court Judge may, on an application made in the manner provided in subpart 3 of Part 4 of the Search and Surveillance Act 2012, issue a search warrant if satisfied—
   (a) that there are reasonable grounds for believing that there is in or on any place or thing—
     (i) a publication that there are reasonable grounds to believe is being so dealt with as to constitute an offence against section 126 (offences involving knowledge in relation to restricted publications); or
     (ii) any thing that there are reasonable grounds to believe will be evidence of the commission of an offence against section 126; or
@@ -1082,7 +1082,7 @@ An issuing officer (within the meaning of section 3 of the Search and Surveillan
   (c) any other matter the Judge considers relevant.
 
 ### 109B Search warrants from Registrars, etc, for offences against section 126 or section 131A
-An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant if satisfied—
+A person who is authorised to act as an issuing officer under section 108 of the Search and Surveillance Act 2012 may, on an application made in the manner provided in subpart 3 of Part 4 of that Act, issue a search warrant if satisfied—
   (a) that, in the particular case,—
     (i) that all reasonable efforts have been made to obtain a warrant under section 109A; but
     (ii) that no District Court Judge is available to deal with an application under section 109A; and
