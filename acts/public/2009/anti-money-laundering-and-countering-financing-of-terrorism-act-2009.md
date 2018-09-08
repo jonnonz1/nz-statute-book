@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -983,6 +983,9 @@ Nothing in this subpart limits or affects any other enactment that requires any 
 (2) A reporting entity must designate an employee as an AML/CFT compliance officer to administer and maintain its AML/CFT programme.
 (3) In the case of a reporting entity that does not have employees, the reporting entity must appoint a person to act as its AML/CFT compliance officer.
 (4) The AML/CFT compliance officer must report to a senior manager of the reporting entity.
+(5) Despite subsections (2) to (4), if a reporting entity is a partnership,—
+  (a) the partnership may designate one of the partners as an AML/CFT compliance officer to administer and maintain its AML/CFT programme, irrespective of whether the partnership has or does not have employees; and
+  (b) the partner so designated must report to another partner designated for the purpose of receiving those reports by the partnership.
 
 ### 57 Minimum requirements for AML/CFT programmes
 (1) A reporting entity’s AML/CFT programme must be in writing and be based on the risk assessment undertaken in accordance with section 58 and include adequate and effective procedures, policies, and controls for—
@@ -1286,10 +1289,10 @@ The powers in sections 85 to 89 are in addition to, and do not derogate from, an
 (1) On the application of the relevant AML/CFT supervisor, the High Court may order a person to pay a pecuniary penalty to the Crown, or to any other person specified by the court, if the court is satisfied that that person has engaged in conduct that constituted a civil liability act.
 (2) For a civil liability act specified in section 78(b), (c), (d), or (g), the maximum amount of a pecuniary penalty under this Act is,—
   (a) in the case of an individual, $100,000; and
-  (b) in the case of a body corporate, $1 million.
+  (b) in the case of a body corporate or partnership, $1 million.
 (3) For a civil liability act specified in section 78(a), (da), (e), or (f), the maximum amount of a pecuniary penalty under this Act is,—
   (a) in the case of an individual, $200,000; and
-  (b) in the case of a body corporate, $2 million.
+  (b) in the case of a body corporate or partnership, $2 million.
 (4) In determining an appropriate pecuniary penalty, the court must have regard to all relevant matters, including—
   (a) the nature and extent of the civil liability act; and
   (b) the likelihood, nature, and extent of any damage to the integrity or reputation of New Zealand’s financial system because of the civil liability act; and
@@ -1368,7 +1371,7 @@ A reporting entity or person who commits an offence under any of sections 91 to 
   (a) in the case of an individual, either or both of the following:
     (i) a term of imprisonment of not more than 2 years:
     (ii) a fine of up to $300,000; and
-  (b) in the case of a body corporate, a fine of up to $5 million.
+  (b) in the case of a body corporate or partnership, a fine of up to $5 million.
 
 **Other offences relating to non-compliance with AML/CFT requirements**
 
@@ -1390,12 +1393,12 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (a) in the case of an individual, either or both of the following:
     (i) a term of imprisonment of not more than 2 years:
     (ii) a fine of up to $300,000; and
-  (b) in the case of a body corporate, a fine of up to $5 million.
+  (b) in the case of a body corporate or partnership, a fine of up to $5 million.
 (2) A person who commits an offence under either of sections 102 and 103 is liable, on conviction, to,—
   (a) in the case of an individual, either or both of the following:
     (i) a term of imprisonment of not more than 3 months:
     (ii) a fine of up to $10,000; and
-  (b) in the case of a body corporate, a fine of up to $50,000.
+  (b) in the case of a body corporate or partnership, a fine of up to $50,000.
 
 **Offences relating to cross-border transportation of cash**
 
@@ -1425,7 +1428,7 @@ A person who commits an offence under any of sections 106, 107, 108, 110, and 11
   (a) in the case of an individual, either or both of the following:
     (i) a term of imprisonment of not more than 3 months:
     (ii) a fine of up to $10,000; and
-  (b) in the case of a body corporate, a fine of up to $50,000.
+  (b) in the case of a body corporate or partnership, a fine of up to $50,000.
 
 ### 113 Chief executive of New Zealand Customs Service may deal with cash reporting offences
 (1) This section applies if, in any case to which section 106 or 107 applies, a person admits in writing that he or she has committed the offence and requests that the offence be dealt with summarily by the chief executive of the New Zealand Customs Service.
