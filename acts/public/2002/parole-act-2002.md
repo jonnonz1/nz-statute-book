@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -46,6 +46,7 @@ The purpose of this Act is to reform the law relating to the release from detent
   - **indeterminate sentence** means a sentence of imprisonment that is imprisonment for life or preventive detention
   - **intensive monitoring condition** means the special condition described in section 107IAC(2)
   - **interim recall order** means an interim recall order made under section 62
+  - **interim supervision order** means an order made under section 107FA
   - **key date** , in relation to a sentence of imprisonment, means the start date, sentence expiry date, and release date of the sentence
   - **long-term sentence** means a sentence of imprisonment that is—
     (a) a determinate sentence of more than 24 months imposed on or after the commencement date; or
@@ -1130,7 +1131,7 @@ Section 44 of the Policing Act 2008 applies to protect constables as if a warran
 
 ### 73 Arrest without warrant
 (1) Any constable may arrest, without a warrant, an offender whom the constable has reasonable grounds to believe is unlawfully at large.
-(2) Any constable or any probation officer may arrest, without a warrant, an offender whom the constable or officer has reasonable grounds to believe has breached any of his or her release condition or conditions of an extended supervision order.
+(2) Any constable or any probation officer may arrest, without a warrant, an offender whom the constable or officer has reasonable grounds to believe has breached any of his or her release condition or conditions of an extended supervision order or interim supervision order.
 
 ### 73A Power to enter premises to arrest
 (1) A constable may, at any time, for the purpose of arresting an offender named in a warrant issued under section 63(1) or section 66(3), enter any premises, by force if necessary, if he or she has reasonable cause to believe that the offender is in or on the premises.
@@ -1495,7 +1496,7 @@ This Part—
   (r) section 208 (abduction for purposes of marriage or sexual connection).
 (2A) In this Part, an offence against any of the following sections of the Crimes Act 1961 is a relevant violent offence:
   (a) section 172(1) (murder):
-  (b) section 173 (attempt to murder):
+  (b) section 173(attempt to murder):
   (c) section 174 (counselling or attempting to procure murder):
   (d) section 176 (accessory after the fact to murder):
   (e) section 177 (manslaughter):
@@ -1570,7 +1571,7 @@ In this Part, sentencing court, in relation to an offender, means the High Court
   (c) the offender who is the subject of the application fails to appear at the hearing of the application and is brought before the court under a warrant issued under section 107G(3):
   (d) an offender who is a person described in section 107C(1)﻿(b) arrives in New Zealand.
 (2) The sentencing court may, on application by the chief executive, order that, until the application for an extended supervision order is finally determined, the offender is subject to the supervision conditions specified in the order.
-(3) When the court makes an order under subsection (2) (an interim supervision order), it may impose any of the standard conditions that are (under section 107JA), or special conditions that may be (under section 107K), imposed under an extended supervision order.
+(3) When the court makes an interim supervision order, it may impose any of the standard conditions that are (under section 107JA), or special conditions that may be (under section 107K), imposed under an extended supervision order.
 (4) If, under an interim supervision order, the court imposes an intensive monitoring condition or residential restrictions, the period for which the interim supervision order is in force is not to be taken into account for the purpose of the limits specified in section 107K(3)﻿(b) and (ba).
 (5) The court may suspend an interim supervision order subject to any conditions that the court thinks fit.
 (6) An interim supervision order ceases to have effect when the application for an extended supervision order is finally determined or discontinued.
@@ -1875,8 +1876,8 @@ Section 67 (which provides for reviews of decisions by the Board) applies to dec
 
 **Miscellaneous provisions**
 
-### 107T Offence to breach extended supervision order
-An offender who is subject to an extended supervision order and who breaches, without reasonable excuse, any conditions attaching to that order commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years.
+### 107T Offence to breach extended supervision order or interim supervision order
+An offender who is subject to an extended supervision order or interim supervision order and who breaches, without reasonable excuse, any conditions attaching to that order commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### 107TA Offences related to drug or alcohol conditions
 (1) An offender who is subject to an extended supervision order with a drug or alcohol condition commits an offence if the offender—
@@ -1896,7 +1897,7 @@ An offender who is subject to an extended supervision order and who breaches, wi
 The Governor-General may from time to time, by Order in Council, make rules regulating the practice and procedure of courts in proceedings under section 107I, 107M, or 107RA.
 
 ### 107V Additional victim notification
-The chief executive must notify every victim of an offender who is subject to an extended supervision order if any of the following occurs:
+The chief executive must notify every victim of an offender who is subject to an extended supervision order or interim supervision order if any of the following occurs:
   (a) the offender is convicted of an offence against section 107T:
   (b) the offender's extended supervision order expires:
   (c) the offender dies.
