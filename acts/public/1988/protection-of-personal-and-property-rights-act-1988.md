@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-09-08_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -592,7 +592,7 @@ Except as provided in sections 54 and 55, nothing in this Act shall affect the l
 (5) Fees for professional services provided by lawyers appointed under this section, and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable out of public money appropriated by Parliament for the purpose.
-(6) An invoice rendered by a lawyer appointed under this section for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(6) An invoice for fees and expenses submitted for payment by a lawyer appointed under this section must be given to a Registrar of the court, and the Registrar processing the invoice may decide to adjust the amount of the invoice.
 (7) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the invoice, the lawyer may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may make such order varying or confirming the decision as the Judge considers fair and reasonable.
 (8) Notwithstanding subsection (5), the court shall have regard to the means of any party to the proceedings or the person in respect of whom the application is made, and shall, if it thinks proper, order any party or the person to refund to the Crown such amount as the court specifies in respect of any fees or expenses paid under that subsection; and the amount ordered to be refunded shall be a debt due to the Crown by that party or by that person and shall be recoverable accordingly in any court of competent jurisdiction.
 
@@ -603,9 +603,9 @@ In any proceedings under this Act, a court may—
 
 ### 65B Payment of lawyer appointed under section 65A
 (1) The fees and expenses of any lawyer appointed under section 65A must—
-  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+  (a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by a Registrar of the court; and
   (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
-(2) An invoice rendered by a lawyer appointed under section 65A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
+(2) An invoice for fees and expenses submitted for payment by a lawyer appointed under section 65A must be given to a Registrar of the court, and the Registrar processing the invoice may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.
 (4) Where the fees and expenses of a lawyer appointed under section 65A have been paid under subsection (1)﻿(b), the court may, if it thinks it appropriate, order a party to the proceedings to refund to the Crown an amount that the court specifies in respect of those fees and expenses, and the amount ordered to be refunded is a debt due to the Crown by that party and, in default of payment of that amount, payment may be enforced, by order of the District Court or the High Court, as the case may require, in the same manner as a judgment of that court.
 
