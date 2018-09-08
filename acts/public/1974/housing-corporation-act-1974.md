@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2016-02-25_
+_Consolidation as at 2018-09-08_
 
 > Title
 
@@ -30,7 +30,6 @@ In this Act, unless the context otherwise requires,—
   - **property** includes real or personal property, and any estate or interest in any real or personal property, and any debt, and any security and any thing in action, and any licence or authority, and any other right or interest
   - **security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
   - **solicitor** means a person who is duly enrolled as a barrister and solicitor under or by virtue of the Lawyers and Conveyancers Act 2006 and who holds a current practising certificate as a barrister and solicitor under that Act
-  - **State Services Commissioner** means the State Services Commissioner appointed under section 3 of the State Sector Act 1988
   - **statement of intent** means a statement of intent under section 139 of the Crown Entities Act 2004
   - **statement of performance expectations** means a statement of performance expectations under section 149C of the Crown Entities Act 2004
   - **subsidiary** , in relation to the Corporation, means a body that would under the Companies Act 1993 be a subsidiary of the Corporation if the Corporation were a company within the meaning of that Act
