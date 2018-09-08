@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -395,7 +395,7 @@ This Act binds the Crown.
 (2) Sections 9G and 9H apply, with any necessary modifications, to any amendment to, or replacement of, the Code.
 (3) However, in the case of a minor amendment that does not materially affect the Code, the Minister need not comply with section 9G(2)﻿(a) to (f).
 
-**Publication of standard form contract terms and disclosure of costs of borrowing**
+**Publication of standard form contract terms and costs of borrowing**
 
 ### 9J Publication of standard form contract terms
 (1) Every lender who, in relation to an agreement, uses standard form contract terms must ensure that those terms are publicly available in accordance with this section.
