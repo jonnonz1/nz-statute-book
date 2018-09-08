@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -726,6 +726,10 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
 (6) In this section, judicial officer means—
   (a) any judicial officer, if the defendant was released on bail by the District Court, a Registrar, or a Police employee in relation to a category 1, 2, or 3 offence and the Solicitor-General has not assumed responsibility for the proceedings in accordance with section 187 of the Criminal Procedure Act 2011:
   (b) a Judge, if any of the matters set out in paragraph (a) do not apply.
+
+### 39A Court must order bail money to be paid to the Crown unless justice, etc, requires money to be returned to surety
+(1) If a defendant’s failure to comply with a condition of bail has been entered in the court record under section 39(3), any money paid by a surety under a bail bond is forfeited.
+(2) The court must order money forfeited under a bail bond to be paid to the Crown, unless the court considers that equity and good conscience and the real merits and justice of the case require the money to be returned to the surety.
 
 ### Subpart Subpart 2 — Bail on deferment of sentence
 
