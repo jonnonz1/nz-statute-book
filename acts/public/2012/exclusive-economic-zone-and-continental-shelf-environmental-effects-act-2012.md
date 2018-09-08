@@ -1,5 +1,5 @@
 # Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012
-_Consolidation as at 2018-07-11_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
@@ -2568,7 +2568,8 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 **Transitional provisions relating to discharges and dumping**
 
 ### 164A Dumping permits issued under Maritime Transport Act 1994
-A permit issued before the commencement of this section by the Director of Maritime New Zealand under section 262 of the Maritime Transport Act 1994 must be treated as if it were a marine dumping consent granted under this Act on the same terms and conditions as apply to the permit.
+(1) A permit issued before the commencement of this section by the Director of Maritime New Zealand under section 262 of the Maritime Transport Act 1994 must be treated as if it were a marine dumping consent granted under this Act on the same terms and conditions as apply to the permit.
+(2) A reference in the permit to Maritime New Zealand, the Director of Maritime New Zealand, or the Director must be treated as if it were a reference to the Environmental Protection Authority.
 
 ### 164B Provisions of discharge management plans approved under Maritime Transport Act 1994 become marine discharge consents
 (1) This section applies to a discharge management plan for an offshore installation approved before the commencement of this section by the Director of Maritime New Zealand in accordance with rule 200.7 of Part 200 of the Marine Protection Rules.
