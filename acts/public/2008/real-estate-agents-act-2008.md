@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -86,7 +86,7 @@ This Act binds the Crown.
     (i) as a lawyer within the meaning of the Lawyers and Conveyancers Act 2006; or
     (ii) as a person acting under the supervision of a lawyer within the meaning of the Lawyers and Conveyancers Act 2006; or
     (iii) as a conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006; or
-    (iv) as a person acting under the supervision of a conveyancing practitioner within the meaning of the Lawyer and Conveyancers Act 2006; or
+    (iv) as a person acting under the supervision of a conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006; or
     (v) as an incorporated firm within the meaning of the Lawyers and Conveyancers Act 2006; and
   (d) is subject accordingly to the provisions of the Lawyers and Conveyancers Act 2006.
 
@@ -424,7 +424,8 @@ A licence may not be transferred and may not vest by operation of law in any per
 
 ### 49 Branch manager’s or salesperson’s licence
 ((1)) A branch manager's licence or a salesperson's licence authorises the licensee to carry out real estate agency work for or on behalf of an agent.
-(2) The licence also authorises the licensee to sell or to offer to sell, on behalf of the agent, any land by auction without having to be licensed under the Auctioneers Act 1928.
+(2) The licence also authorises the licensee to sell or to offer to sell, on behalf of the agent, any land by auction, and operates as an exemption from the requirement in the Auctioneers Act 2013 to be registered as an auctioneer.
+(3) However, every licensee who conducts an auction of land must comply with the rules about the conduct of auctions set out in sections 36Y to 36ZE (but not the rule in section 36ZF) of the Fair Trading Act 1986.
 
 ### 50 Salespersons must be supervised
 (1) A salesperson must, in carrying out any agency work, be properly supervised and managed by an agent or a branch manager.
