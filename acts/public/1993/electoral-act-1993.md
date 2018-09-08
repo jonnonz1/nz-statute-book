@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-09-08_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -4774,6 +4774,7 @@ At the same time as the court gives its certificate at the conclusion of the tri
 ### 250 Costs of petition
 (1) All costs of and incidental to the presentation of an election petition to which section 229(3) applies, and to the proceedings consequent thereon, except such as are by this Act otherwise provided for shall be defrayed by the parties to the petition in such manner and in such proportions as the High Court may determine; and, in particular, any costs which, in the opinion of the court, have been caused by vexatious conduct, unfounded allegations, or unfounded objections on the part either of the petitioner or of the respondent, and any needless expenses incurred or caused on the part of the petitioner or respondent, may be ordered to be defrayed by the parties by whom they were caused or incurred, whether those parties are or are not on the whole successful.
 (2) If a petitioner fails for 6 months after demand to pay to any person summoned as a witness on the petitioner’s behalf, or to the respondent, any sum certified to be due to that person for costs, and the failure is within 1 year after the demand proved to the satisfaction of the High Court, every person who has under this Act entered into a recognisance relating to the petition shall be held to have made default in the recognisance, and it shall be dealt with in the manner provided by section 21 of the Crown Proceedings Act 1950.
+(3) For the purposes of subsection (2), sections 21 and 23 and Schedule 3 of the Crown Proceedings Act 1950 continue to apply as if they had not been amended by Part 9 of the Statutes Amendment Act 2018.
 
 ### 251 Costs payable by persons proved guilty of corrupt or illegal practices
 (1) Where on the trial of an election petition to which section 229(3) applies it appears to the court that any person has been guilty of any corrupt or illegal practice, the court may, after giving that person an opportunity of making a statement to show why the order should not be made, order the whole or any part of the costs of or incidental to any proceedings before the court in relation to that offence or to that person to be paid by that person to such other person or persons as the court thinks fit.
