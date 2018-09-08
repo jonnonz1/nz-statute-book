@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1449,6 +1449,7 @@ The Board has all of the powers that are reasonably necessary or expedient to en
   (c) an addition or alteration to the register:
   (d) the issue of any certificate, or a copy of any certificate:
   (e) an application for an exemption under Part 1 or Part 2:
+  (ea) the notification, by a person who holds a current practising licence that authorises that person to supervise work done under section 19, 21, or 25, of the supervision of a person doing that work (if notification is required as part of the terms and conditions, imposed by notice published under section 30(1)﻿(c), that apply in respect of that licence):
   (f) the supply of a copy of any entry in the register:
   (g) inspection of the register, or of any other documents kept by the Board that are open for inspection:
   (h) the supply to any registered person of any documents, other than a certificate of registration or a licence, required by him or her for the purpose of seeking registration or a licence overseas:
