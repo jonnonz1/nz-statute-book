@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2018-09-08_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -4497,6 +4497,7 @@ If any person is convicted of an offence against this Act, the court shall, in i
 (4) No quota owned by Te Ohu Kai Moana Trustee Limited is associated quota for the purposes of this Act.
 (5) No quota owned by any person is associated quota merely because of any relationship between that person and Te Ohu Kai Moana Trustee Limited or any other person and Te Ohu Kai Moana Trustee Limited.
 (6) No quota owned by any bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as associated quota merely because the bank has in the ordinary course of its business as a financier become the owner of that quota.
+(7) No quota owned by any licensed NBDT (within the meaning of section 4(1) of the Non-bank Deposit Takers Act 2013) is to be regarded as associated quota merely because the licensed NBDT has in the ordinary course of its business as a financier become the owner of that quota.
 
 ### 255A Forfeiture for infringement offence
 (1) Subsection (2) applies if an infringement notice is issued to a person in respect of an infringement offence against this Act and any of the following occurs:
