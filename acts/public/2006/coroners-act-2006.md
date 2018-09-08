@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -186,10 +186,12 @@ In this Act, unless the context otherwise requires,—
 ### 10 Coroner defined
 (1) In this Act, coroner means a person appointed under section 103 and, except as provided in this section, includes—
   (a) the chief coroner; and
+  (ab) the deputy chief coroner; and
   (b) a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge; and
   (c) a relief coroner.
 (2) In the following sections, coroner does not include the chief coroner:
   (a) section 105(2) (appointment of chief coroner):
+  (ab) section 105A(1) (deputy chief coroner):
   (b) section 106 (acting chief coroner):
   (c)
   (d) sections 105(5) and 110(4) (resignation as chief coroner but not as coroner):
@@ -1141,14 +1143,15 @@ The chief coroner must, after consulting the Attorney-General, develop and publi
   (e) the aggregate number (for example, 13.5) must not exceed the maximum number of coroners that is for the time being permitted by subsection (1).
 
 ### 110 Salaries and allowances
-(1) There must be paid to coroners (including the chief coroner and any relief coroners), out of public money, without further authority than this section,—
+(1) There must be paid to coroners (including the chief coroner, the deputy chief coroner, and any relief coroners), out of public money, without further authority than this section,—
   (a) salaries at the rates from time to time determined by the Remuneration Authority; and
   (b) the allowances from time to time determined by the Remuneration Authority; and
   (c) the additional allowances (if any), being travelling allowances or incidental or minor allowances, from time to time determined by the Governor-General.
 (2) A coroner's salary must not be diminished during the continuance of the coroner's appointment.
 (3) The salary and allowances payable for a period during which a coroner acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances of a full-time equivalent position.
 (4) If the chief coroner ceases to hold that office but continues to hold office as a coroner, his or her salary and allowances may be reduced by the amount of any salary or allowances he or she received solely because of being the chief coroner.
-(5) For the purposes of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (3) or the payment of reduced salary and allowances under subsection (4) is not a diminution in salary.
+(4A) If the deputy chief coroner ceases to hold that office but continues to hold office as a coroner, his or her salary and allowances may be reduced by the amount of any salary or allowances he or she received solely because of being the deputy chief coroner.
+(5) For the purposes of subsection (2), the payment of salary and allowances on a pro-rata basis under subsection (3) or the payment of reduced salary and allowances under subsection (4) or (4A) is not a diminution in salary.
 (6) Nothing in this section applies to a person who (under section 22(a) of the District Court Act 2016) is a coroner by virtue of holding office as a District Court Judge.
 
 ### 111 When determination under section 110(1) comes into force
