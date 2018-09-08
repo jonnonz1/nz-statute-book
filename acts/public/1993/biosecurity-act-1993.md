@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-09-08_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -190,10 +190,13 @@ _Consolidation as at 2017-09-28_
     (a) any place approved as a transitional facility in accordance with section 39 for the purpose of inspection, storage, treatment, quarantine, holding, or destruction of uncleared goods; or
     (b) a part of a port declared to be a transitional facility in accordance with section 39
   - **unauthorised goods** means any goods that are—
-    (a) uncleared goods in a place that is not a transitional facility or a biosecurity control area (other than goods that, in accordance with the authority of an inspector, are—
-      (i) proceeding from a transitional facility or a biosecurity control area to a transitional facility, biosecurity control area, or a containment facility; or
+    (a) uncleared goods in a place that is not a transitional facility, biosecurity control area, or containment facility (other than goods that, in accordance with the authority of an inspector, are—
+      (i) proceeding from a transitional facility, biosecurity control area, or containment facility to a transitional facility, biosecurity control area, or containment facility; or
       (ii) being exported from New Zealand); or
-    (b) uncleared goods that are in a transitional facility or a biosecurity control area to which those goods proceeded, other than in accordance with the authority of an inspector, from some other transitional facility, or biosecurity control area, and have not later received the authority of an inspector to remain there; or
+    (b) uncleared goods that—
+      (i) are in a transitional facility, biosecurity control area, or containment facility; and
+      (ii) have proceeded there, other than in accordance with the authority of an inspector, from a transitional facility, biosecurity control area, or containment facility; and
+      (iii) have not received the authority of an inspector to remain there; or
     (c) goods which have been given a biosecurity clearance by an inspector following receipt by that inspector of false, incomplete, or misleading information concerning the goods; or
     (ca) goods that—
       (i) are subject to post-clearance requirements in an import health standard; and
@@ -278,7 +281,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 
 ### 7 Relationship with other enactments
 (1) Nothing in any enactment specified in this section affects the performance or exercise of any power, function, or duty conferred by Part 7.
-(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Conservation Act 1987, the Te Urewera Act 2014, the Trade in Endangered Species Act 1989, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
+(2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Fisheries Act 1996, the Conservation Act 1987, the Te Urewera Act 2014, the Trade in Endangered Species Act 1989, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
   (a) to the extent provided in subsections (1), (5), and (6), and sections 7A to 7D; and
   (b) to the extent that those enactments are expressly amended by section 168(1),—
 (3) This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 1996 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 1996 in relation to goods.
@@ -731,14 +734,29 @@ Amendment and revocation
   (a) proposed amendments to an import health standard:
   (b) a proposal to revoke an import health standard.
 (2) However, if a chief technical officer considers that the standard needs to be amended or revoked urgently or that a proposed amendment is minor, the officer is not required to comply with section 23(3).
-Suspension
+General suspension
 (3) Subsections (4) and (5) apply if a chief technical officer believes on reasonable grounds that circumstances or knowledge have changed in such a way as to cause the requirements in an import health standard to no longer enable the purposes of this Part to be achieved.
 (4) The officer may recommend to the Director-General the suspension of the standard.
 (5) After receiving the officer's recommendation, the Director-General may suspend the standard.
-Reinstatement
+Partial suspension
+(5A) Subsections (5B) to (5D) apply if a chief technical officer believes on reasonable grounds that circumstances or knowledge have changed in such a way as to cause the requirements in an import health standard to no longer enable the purposes of this Part to be achieved in relation to 1 or more goods covered by the standard.
+(5B) The officer may, in accordance with subsection (5D), recommend to the Director-General the suspension of the standard in relation to—
+  (a) goods of a specified class or description; or
+  (b) goods of a specified class or description imported from—
+    (i) a specified country or countries; or
+    (ii) countries of a specified class or description; or
+    (iii) a specified location or locations; or
+    (iv) all countries.
+(5C) After receiving the officer’s recommendation, the Director-General may suspend the standard in relation to those goods.
+(5D) The officer must not recommend the suspension of the standard in relation to all goods covered by the standard.
+Reinstatement after general suspension
 (6) Subsections (7) and (8) apply if a chief technical officer believes on reasonable grounds that circumstances or knowledge have changed in such a way as to cause the requirements in a suspended import health standard to again enable the purposes of this Part to be achieved.
 (7) The officer may recommend to the Director-General the reinstatement of the standard.
 (8) After receiving the officer's recommendation, the Director-General may reinstate the standard.
+Reinstatement after partial suspension
+(9) Subsections (10) and (11) apply if a chief technical officer believes on reasonable grounds that circumstances or knowledge have changed in such a way as to cause the requirements in an import health standard to again enable the purposes of this Part to be achieved in relation to 1 or more goods in respect of which the standard is suspended.
+(10) The officer may recommend to the Director-General the reinstatement of the standard in relation to those goods.
+(11) After receiving the officer’s recommendation, the Director-General may reinstate the standard in relation to those goods.
 
 ### 24C Publication
 (1) The Director-General must maintain a register of current import health standards.
@@ -869,9 +887,9 @@ An operator, or the person in charge, of a craft to which a craft risk managemen
 
 ### 25 Goods to be cleared for entry into New Zealand
 (1) No person may cause or permit any uncleared goods imported on any craft to leave that craft, except to proceed to a transitional facility or a biosecurity control area.
-(2) A person may cause or permit uncleared goods that are in a transitional facility or biosecurity control area to leave the facility or area only if subsection (3) or (4) applies.
-(3) Uncleared goods that are in a transitional facility or biosecurity control area may leave the facility or area to be exported from New Zealand, if an inspector authorises their export.
-(4) Uncleared goods that are in a transitional facility or biosecurity control area may leave the facility or area if an inspector authorises their movement to another transitional facility or biosecurity control area or a containment facility.
+(2) A person may cause or permit uncleared goods that are in a transitional facility, biosecurity control area, or containment facility to leave the facility or area only if subsection (3) or (4) applies.
+(3) Uncleared goods that are in a transitional facility, biosecurity control area, or containment facility may leave the facility or area to be exported from New Zealand, if an inspector authorises their export.
+(4) Uncleared goods that are in a transitional facility, biosecurity control area, or containment facility may leave the facility or area if an inspector authorises their movement to a transitional facility, biosecurity control area, or containment facility.
 (5) An authorisation may—
   (a) specify how the goods must be moved:
   (b) specify a time period within which the goods must be moved:
@@ -885,9 +903,9 @@ An operator, or the person in charge, of a craft to which a craft risk managemen
   (e) another person in possession of the goods at the same or a later time.
 (8) A person to whom an inspector gives an authorisation must—
   (a) act within its terms; and
-  (b) take all reasonable steps to communicate its terms to all other persons who come into possession or control of the goods before they are given a biosecurity clearance; and
+  (b) take all reasonable steps to communicate its terms to all other persons who come into possession or control of the uncleared goods to which the authorisation relates; and
   (c) take all other reasonable steps to ensure that other persons act within its terms.
-(9) A person who comes into possession or control of the goods before they are given a biosecurity clearance and has had the terms of the authorisation communicated under subsection (8)﻿(b) must act within the terms.
+(9) A person who comes into possession or control of the uncleared goods to which an authorisation relates and has had the terms of the authorisation communicated under subsection (8)﻿(b) must act within the terms.
 
 ### 26 Clearances by inspectors
 (1) An inspector must not give a clearance for the entry into New Zealand of goods contrary to section 27 but may give a clearance if satisfied as required by section 27.
@@ -1120,6 +1138,9 @@ Any person who moves risk goods within a biosecurity control area shall comply w
 (7) Before taking any action under this section, the Director-General must consult in accordance with section 37D.
 (8) Where approval is declined under this section, the Director-General must give reasons for his or her decision.
 (9) Where a decision under this section is made by a person acting under the delegated authority of the Director-General, the port operator is entitled to have the decision reviewed by the Director-General.
+(10) The Director-General—
+  (a) may, for the purpose of subsection (1), approve standards relating to the operation of arrangements, facilities, and systems at a port to be approved as a place of first arrival; and
+  (b) must, before approving the standard, consult the persons that the Director-General considers representative of the classes of persons likely to have an interest in a proposed standard.
 
 ### 37A Approval of arrival of craft at port not approved as place of first arrival
 (1) A person may request the Director-General's approval for the arrival of a craft at a port that is not approved under section 37 as a place of first arrival for—
@@ -1175,7 +1196,7 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
 (3) The Director-General must consider every application for approval of a place as a transitional facility made under subsection (2) and—the Director-General may approve the place as a transitional facility for the purpose specified in the approval.
   (a) if the application complies with the requirements of this Act; and
   (b) if the place meets the relevant standards approved under subsection (1),—
-(3A) The Director-General may approve the place as a transitional facility on conditions that the Director-General considers necessary or desirable.
+(3A) The Director-General may approve the place as a transitional facility or a containment facility on conditions that the Director-General considers necessary or desirable.
 (3B) The Director-General may amend conditions in an approval, remove conditions from an approval, or add conditions to an approval when he or she considers it necessary or desirable to do so.
 (4) A transitional facility approval given in accordance with this section must, where the approval specifies, expire at a time specified in the approval or upon the occurrence of an event specified in the approval.
 (5) A transitional facility approval given in accordance with this section may specify the uncleared goods that may be held in the facility.
@@ -3138,7 +3159,7 @@ The explanatory note of a readiness or response levy order made under section 10
 (5) A delegation under this section does not affect the performance or exercise of any function, power, or duty by the person on whom the function, power, or duty is conferred or imposed.
 
 ### 105A Call in of powers or functions
-(1) This section applies to the powers or functions in sections 19(2)﻿(a), 26, 32, 33, 43, 122, 125, and 130 that an inspector or authorised person may exercise or carry out.
+(1) This section applies to the powers or functions in sections 19(2)﻿(a), 25, 26, 27A, 32, 33, 43, 122, 125, and 130 that an inspector or authorised person may exercise or carry out.
 (2) A chief technical officer may decide that the power must be exercised or the function carried out by the chief technical officer instead of by the inspector or authorised person.
 (3) The chief technical officer may not make a decision under subsection (2) if—
   (a) the inspector or authorised person has already exercised the power or carried out the function; and
