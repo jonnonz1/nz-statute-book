@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -392,14 +392,16 @@ The outcomes mentioned in section 34(2)﻿(b) are as follows:
 (5) However, no such order or delivery affects the right of any persons entitled by law to possession of the property to recover the property.
 
 ### 41 Unclaimed property
-(1) Except as provided in subsections (4) and (5), property that has come into the possession of a Police employee as a consequence of being lost or found, and is not claimed after being held for 3 months or more, must, by the direction of the Commissioner, be sold by auction.
+(1) Except as provided in subsections (4) and (5), property that has come into the possession of a Police employee as a consequence of being lost or found, and is not claimed after being held for 6 weeks or more, may, by the direction of the Commissioner, be sold by auction.
 (2) The auction may be held—
   (a) at premises open to the public; or
   (b) through the Internet, using a website established by the Commissioner or through a website provided by any other operator of an on-line auction service authorised for the purpose by the Commissioner; or
   (c) in any other way the Commissioner considers will give the public a reasonable opportunity to bid for the property.
 (3) Property may not be sold under subsection (1) unless a notice of its proposed sale has earlier been published in a newspaper circulating in the district in which the sale is to be held, or on a website authorised for the purpose by the Commissioner.
 (4) Perishable property may be sold at any time and in any manner the Commissioner directs.
-(5) Property (whether perishable or not) that has no monetary value, or only negligible monetary value, may be destroyed.
+(5) The following types of property (whether perishable or not) may be destroyed or given away:
+  (a) property that has no monetary value or only negligible monetary value:
+  (b) property that it is not appropriate or practicable to sell.
 (6)
 
 ### 42 Unclaimed money, and proceeds of sale of unclaimed property
