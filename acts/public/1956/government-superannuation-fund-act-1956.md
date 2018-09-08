@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-09-08_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -2802,7 +2802,7 @@ Notwithstanding anything to the contrary in Part 2 or Part 3 of this Act or in s
   (a) cause the report to be published not later than 3 weeks after receiving it; and
   (b) arrange for the publication in the Gazette of a notice indicating that the report has been so published.
 
-### 95 Annual subsidies up to 1 July 1991 from Government and from funds or accounts out of which contributors' salaries are paid
+### 95 Annual subsidies from Government and from funds or accounts out of which contributors' salaries are paid
 (1) During each financial year the Minister of Finance shall pay into the Fund out of public money, without further appropriation than this Act, the amount by which the amounts of the benefits estimated to be payable out of the Fund during that year in respect of contributors who are—exceeds the sum of the proportion of those benefits certified by the Authority, after receiving advice from an actuary, as having been provided by the contributions paid in respect of those benefits and the amounts estimated to be paid into the Fund during that year under subsection (2).
   (a) employees or former employees of departments, Crown entities, or Offices of Parliament (as those terms are defined in the Public Finance Act 1989); or
   (b) employees or former employees of such other entities as the Minister may direct—
