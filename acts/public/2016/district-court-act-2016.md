@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -1722,8 +1722,8 @@ If a person expects to be sued by 2 or more persons making adverse claims to the
   (b) wilfully interrupts the proceedings of a court or otherwise misbehaves in court; or
   (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the hearing of any proceedings.
 (2) If this section applies,—
-  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of a Judge, take the person into custody and detain him or her until the rising of the court; and
-  (b) a Judge may, if he or she thinks fit, sentence the person to—
+  (a) any constable or officer of the court, with or without the assistance of any other person, may, by order of a judicial officer, take the person into custody and detain him or her until the rising of the court; and
+  (b) a judicial officer may, if he or she thinks fit, sentence the person to—
     (i) imprisonment for a period not exceeding 3 months; or
     (ii) a fine not exceeding $1,000 for each offence.
 (3) Nothing in this section limits or affects any power or authority of the court to punish any person for contempt of court in any case to which this section does not apply.
