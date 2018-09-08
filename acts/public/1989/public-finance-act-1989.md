@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-09-08_
 
 > Title
 
@@ -436,8 +436,8 @@ Except as otherwise provided by a resolution of the House of Representatives, th
 (2) End-of-year performance information on an appropriation must be provided,—
   (a) for a multi-category appropriation, by the appropriation administrator; and
   (b) for an appropriation described in subsection (3), by the appropriation Minister; and
-  (c) for any other appropriation, by a department, a departmental agency, an Office of Parliament, or a Crown entity.
-(3) Subsection (2)﻿(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a departmental agency, an Office of Parliament, or a Crown entity.
+  (c) for any other appropriation, by a department, a departmental agency, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
+(3) Subsection (2)﻿(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a departmental agency, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
 
 ### 15D Exemptions from end-of-year performance information requirements for certain categories of expenses and capital expenditure
 (1) The Minister may grant an exemption from the end-of-year performance information requirements in respect of an appropriation for departmental output expenses, or a category of departmental output expenses within a multi-category appropriation, if the Minister is satisfied that the appropriation or category relates exclusively to outputs supplied by a department to 1 or more other departments.
@@ -536,7 +536,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 **Reporting on appropriations: end-of-year performance information**
 
 ### 19A Provision of end-of-year performance information other than by Ministers
-(1) This section applies to the department, departmental agency, Office of Parliament, or Crown entity (performance reporter) most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year.
+(1) This section applies to the department, departmental agency, Office of Parliament, Crown entity, Schedule 4 organisation, or Schedule 4A company (performance reporter) most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year.
 (2) As soon as practicable after the end of each financial year, the performance reporter must prepare the information that is required by section 19C.
 (3) Not later than 15 working days after the performance reporter receives an audit report on the information under section 45D of this Act or section 156 of the Crown Entities Act 2004 (as applicable),—
   (a) the performance reporter must, unless the performance reporter is the appropriation administrator, provide the information and the audit report to the appropriation administrator; and
@@ -621,6 +621,9 @@ The Minister may, in addition to the information referred to in sections 15 to 1
   (c) the total amount appropriated for that financial year for all output expense appropriations in that Vote is unaltered.
 (2) A clause that confirms the making of an Order in Council under subsection (1) in a financial year must be included in an Appropriation Bill that applies to that financial year.
 (3) Subsection (2) does not limit the validity of an Order in Council made under subsection (1) or the validity of any transfer made under that Order in Council.
+(4) In this section, output expense appropriation means—
+  (a) an appropriation for 1 category of output expenses:
+  (b) a multi-category appropriation that includes only categories of output expenses.
 
 ### 26B Minister may approve expenses or capital expenditure to be incurred in excess of existing appropriation
 (1) This section applies if the Minister considers that the incurring of expenses or capital expenditure in the last 3 months of any financial year that is in excess, but within the scope, of an existing appropriation by or under an Act should be approved.
@@ -1236,6 +1239,7 @@ The chief executive of a department is responsible for—
   (a) an assessment of the departmental agency's operations; and
   (b) an assessment of the departmental agency's progress in relation to any of the host department's strategic intentions that are relevant to the departmental agency; and
   (c) information about the departmental agency's management of its organisational health and capability; and
+  (ca) a statement of responsibility that complies with section 45C; and
   (d) any other matters that relate to or affect the departmental agency's operations that the departmental agency is required, has undertaken, or wishes to report on in its annual report.
 (2) The annual report of a departmental agency must identify the departmental agency's host department.
 (3) The annual report must be dated and signed on behalf of the departmental agency by its chief executive.
