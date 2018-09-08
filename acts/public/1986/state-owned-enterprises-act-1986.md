@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2018-09-08_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -150,15 +150,26 @@ Nothing in this Act shall permit the Crown to act in a manner that is inconsiste
 (1) Within 2 months after the end of the first half of each financial year of a State enterprise, the board of the State enterprise shall deliver to the shareholding Ministers a report of its operations during that half-year.
 (2) Each report required by this section shall include the information required by the statement of corporate intent to be included therein.
 
+### 16A Information to be published by boards
+(1) The board of a State enterprise must publish the following documents on an Internet site maintained by or on behalf of the State enterprise:
+  (a) the completed statement of corporate intent of the State enterprise:
+  (b) the annual report and audited financial statements of the State enterprise:
+  (c) the auditor’s report on those financial statements:
+  (d) the half-yearly report:
+  (e) the rules of the State enterprise:
+  (f) any change to those rules:
+  (g) any notice making a modification to the statement of corporate intent of the State enterprise, and a document that consolidates all modifications into the statement of corporate intent.
+(2) Each document referred to in subsection (1)﻿(a) to (d) must be published as soon as practicable after the board delivers that document to the shareholding Ministers.
+(3) The rules of the State enterprise and any change to those rules must be published as soon as practicable after the date of those rules or that change or the date on which the State enterprise became a State enterprise, whichever is the later.
+(4) The documents referred to in subsection (1)﻿(g) must be published as soon as practicable after the board delivers to the shareholding Ministers the notice making the modification.
+
 ### 17 Information to be laid before House of Representatives
 (1) The responsible Minister for a State enterprise shall lay before the House of Representatives the rules of the State enterprise, and any change to those rules, within 12 sitting days after the date of those rules or that change or the date on which the State enterprise became such, whichever is the later.
 (2) Within 12 sitting days of receiving all the following documents in respect of a financial year of a State enterprise, the responsible Minister for the State enterprise shall lay the documents before the House of Representatives:
   (a) the statement of corporate intent of the State enterprise for that year and the succeeding 2 years; and
   (b) the annual report and audited financial statements of the State enterprise for the preceding financial year; and
   (c) the auditor's report on those financial statements.
-(2A) Where any documents (being documents prepared in respect of a financial year of a State enterprise) that are required by subsection (2) to be laid before the House of Representatives have not been so laid within 5 weeks of the responsible Minister's receiving all of them, the Minister shall—
-  (a) cause those of them referred to in paragraphs (b) and (c) of that subsection to be published not later than 5 weeks after that day; and
-  (b) arrange for the publication in the Gazette of a notice indicating that they have been published.
+(2A)
 (3) Where a statement of corporate intent for a State enterprise has been modified pursuant to section 14(5), the responsible Minister shall lay before the House of Representatives a copy of the notice making the modification within 12 sitting days after the date on which the Minister receives the notice.
 (4) Within 12 sitting days after a half-yearly report is given to a responsible Minister pursuant to section 16, the responsible Minister shall lay a copy of the report before the House of Representatives.
 
