@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-09-08_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -167,18 +167,16 @@ Subject to the provisions of this Act, all enactments and rules of court relatin
 (2) Every such judgment may be in form 2 of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
 
 ### 21 Recovery of debts due upon recognisance
-(1) Notwithstanding the foregoing provisions of this Act, where any person has entered into a recognisance to the Sovereign, and the recognisance is forfeited, and no other procedure is provided by any Act or rule of court for the estreat thereof, a Judge or District Court Judge of the court before which, or the Justice or Community Magistrate before whom, the same was forfeited may cause the recognisance to be estreated as hereinafter provided.
-(2) The Judge, District Court Judge, Justice, or Community Magistrate shall, by writing under his or her hand in form 3 of Schedule 3, or to the like effect, certify that the forfeiture has taken place, and shall deliver or send by post the said recognisance and writing to the Attorney-General, who, upon receipt thereof, shall cause a final judgment to be signed in the High Court for the amount of the recognisance, and a sum not exceeding $10 for costs.
-(3) Every such judgment may be in form 4 of Schedule 3, or to the like effect, and no appeal shall lie therefrom.
+[Repealed]
 
 ### 22 Barristers or solicitors may be appointed to act for Attorney-General in each district
-(1) The Governor-General may from time to time appoint for a district a person, being a barrister or solicitor of the High Court, to act in the district for which the person is appointed in the name and on behalf of the Attorney-General in all such matters as by sections 20 and 21 of this Act are to be done by the Attorney-General.
-(2) On any such appointment being made and published in the Gazette and while the appointment remains in force—
-  (a) all certificates under section 20 of fines imposed within the district for which the person is appointed shall be sent to him or her instead of to the Attorney-General, and he or she shall cause final judgment to be signed thereon in the form mentioned in that section:
-  (b) all recognisances forfeited within the district for which the person is appointed shall, together with the certificate mentioned in section 21, be sent to him or her, and he or she shall cause final judgment to be signed thereon on behalf of the Attorney-General in the form mentioned in that section.
+(1) The Governor-General may from time to time appoint for a district a person, being a barrister or solicitor of the High Court, to act in the district for which the person is appointed in the name and on behalf of the Attorney-General in all such matters as by section 20 of this Act are to be done by the Attorney-General.
+(2) On the appointment of a person being made and published in the Gazette, and while the appointment is in force,—
+  (a) certificates under section 20 of fines imposed within the person’s district must be sent to the person instead of to the Attorney-General; and
+  (b) the person must cause final judgment to be signed in accordance with section 20.
 
-### 23 Judgments for fines and on recognisances may be vacated by High Court
-Where final judgment has been signed under the provisions of section 20 or section 21, the High Court may order satisfaction to be entered upon the judgment, whether execution has been issued thereon or not:
+### 23 Judgments for fines may be vacated by High Court
+Where final judgment has been signed under the provisions of section 20, the High Court may order satisfaction to be entered upon the judgment, whether execution has been issued thereon or not:
   provided that such an order shall not be made except upon notice calling upon the Attorney-General to show cause; nor unless it is proved by affidavit to the satisfaction of the High Court either that the judgment has been satisfied, or that, according to equity and good conscience and the real merits and justice of the case, the defendant ought not to be required to satisfy the same.
 
 ## Part 3 — Execution
@@ -187,8 +185,8 @@ Where final judgment has been signed under the provisions of section 20 or secti
 (1) Except as provided in this section, no execution or attachment or process in the nature thereof shall be issued out of any court for enforcing satisfaction by the Crown, or by the Attorney-General, or any government department or officer of the Crown of any order made in any civil proceedings under this Act.
 (2) Where in any civil proceedings any order (whether for costs or otherwise) is made by the court in favour of any person against the Crown or the Attorney-General or any government department or officer of the Crown, and the person in whose favour the order is made so requests, the proper officer of the court shall issue to that person, without payment of any fee, a certificate in form 5 of Schedule 3 or to the like effect:
   provided that, if the order provides for the payment of money, the court by which the order is made or any court to which an appeal against the order lies may direct that, pending an appeal or otherwise, payment of the money so payable, or any part thereof, shall be suspended, and (if the certificate has not been issued) may order any such directions to be inserted therein.
-(3) On receipt of any such certificate the Governor-General, without further appropriation than this section, may cause to be paid to the person therein named the amount payable by the Crown under the order, together with any costs allowed him or her by the court and the interest, if any, lawfully due thereon, and may also perform or give effect to the terms of the order so far as it is to be satisfied by the Crown.
-(4) The Minister of Finance shall, forthwith after the end of each financial year, cause to be prepared, in such form as he or she approves or directs, a statement showing all amounts paid under this section without appropriation other than this section; and shall, as soon as practicable, cause the statement (duly audited by the Auditor-General) to be laid before Parliament.
+(3) On receipt of any such certificate the Governor-General may cause to be paid to the person therein named the amount payable by the Crown under the order, together with any costs allowed him or her by the court and the interest, if any, lawfully due thereon, and may also perform or give effect to the terms of the order so far as it is to be satisfied by the Crown.
+(4) A department that has paid money under this section must include in its annual financial statements a statement showing the total of all amounts paid under this section in the relevant financial year.
 
 ### 25 Execution by the Crown
 (1) Subject to the provisions of this Act and any other Act, any order made in favour of the Crown against any person in any civil proceedings may be enforced in the same manner as an order made between subjects is enforced, and not otherwise. This subsection shall apply both in relation to proceedings pending at the commencement of this Act and in relation to proceedings instituted thereafter.
@@ -226,17 +224,13 @@ Any person who has obtained an order for the payment of money may take proceedin
 
 **Supplemental**
 
-### 30 Rules of court
-(1) Any power to make, alter, or revoke rules touching or regulating the practice and procedure of any court shall include power to make, alter, or revoke rules for the purpose of giving effect to the provisions of this Act, and any such rules may contain provisions to have effect in relation to any proceedings by or against the Crown in substitution for or by way of addition to any of the provisions of the rules applying to proceedings between subjects.
-(2) Without prejudice to the generality of the foregoing provisions of this section, rules may be made with respect to the following matters:
-  (a) for providing for service outside New Zealand of process or notice thereof, in the case of proceedings by the Crown against persons, whether British subjects or not;
-  (b) for securing that where any civil proceedings are brought against the Crown in accordance with the provisions of this Act the plaintiff shall, before the Crown is required to take any steps in the proceedings, provide the Crown with such information as the Crown may reasonably require as to the circumstances in which it is alleged that the liability of the Crown has arisen and as to the departments and officers of the Crown concerned;
-  (c) for providing that in the case of proceedings against the Crown the plaintiff shall not enter judgment in default of appearance or pleading without the leave of the court to be obtained on an application of which notice has been given to the Crown;
-  (d) for excepting proceedings brought against the Crown from the operation of any rule of court providing for summary judgment without trial;
-  (e) for providing that a person shall not be entitled to avail himself or herself of any set-off or counterclaim in any proceedings by the Crown for the recovery of taxes, duties, or penalties, or to avail himself or herself in proceedings of any other nature by the Crown of any set-off or counterclaim arising out of a right or claim to repayment in respect of any taxes, duties, or penalties;
-  (f) for providing that a person shall not be entitled, without the leave of the court, to avail himself or herself of any set-off or counterclaim in any proceedings by the Crown if either the subject matter of the set-off or counterclaim does not relate to the government department or officer of the Crown in whose name the proceedings are brought, or the proceedings are brought in the name of the Attorney-General;
-  (g) for providing that the Crown, when sued in the name of a government department or of an officer of the Crown, shall not, without the leave of the court, be entitled to avail itself of any set-off or counterclaim if the subject matter thereof does not relate to that department or officer; and
-  (h) for providing that the Crown, when sued in the name of the Attorney-General, shall not be entitled to avail itself of any set-off or counterclaim without the leave of the court.
+### 30 Rules about the Crown’s participation in civil proceedings, etc
+A provision in another Act that empowers the making of rules about civil proceedings also empowers the making of rules for 1 or more of the following purposes:
+  (a) providing for the Crown’s participation in civil proceedings:
+  (b) in civil proceedings by the Crown for the recovery of taxes, duties, or penalties, providing that the defendant is not entitled to a set-off or counterclaim:
+  (c) in other civil proceedings by the Crown, providing that the defendant is not entitled to a set-off or counterclaim arising out of a right or claim to repayment in respect of any taxes, duties, or penalties:
+  (d) in civil proceedings by or against the Crown, providing that the defendant is not entitled, without the court’s leave, to a set-off or counterclaim if the subject matter of the set-off or counterclaim does not relate to the subject matter of the proceedings:
+  (e) providing that the Crown is not entitled to a set-off or counterclaim without the court’s leave.
 
 ### 31 General rules to apply in the absence of special rules
 Subject to the provisions of this Act and any other Act, and to any rules made pursuant to the last preceding section, the laws, statutes, and rules for the time being in force as to pleading, joinder of parties, third party procedure, evidence, hearing and trial, amendment, arbitration, special cases, the means of procuring and taking evidence, set-off, appeal, and all other laws, statutes, and rules for the time being available as between plaintiffs and defendants in personal actions between subjects, and the practice and course of procedure of the court in its legal and equitable jurisdiction respectively for the time being in reference to such suits and personal actions, shall, unless the court otherwise orders, be applicable and apply and extend to civil proceedings by or against the Crown.
