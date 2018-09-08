@@ -1,5 +1,5 @@
 # Te Rarawa Claims Settlement Act 2015
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Te Rarawa Claims Settlement Act 2015.
@@ -1730,12 +1730,7 @@ In this subpart,—
 
 ### 143 Appointment of Te Rarawa fisheries advisory committee
 (1) The Minister must, not later than the settlement date, appoint the trustees to be an advisory committee under section 21(1) of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995.
-(2) The purpose of the Te Rarawa fisheries advisory committee is to advise the Minister on the utilisation of fish, aquatic life, and seaweed managed under the Fisheries Act 1996, while also ensuring the sustainability of those resources in—
-  (a) the fisheries protocol area; and
-  (b) the fisheries protocol areas provided for by—
-    (i) section 128 of the Ngāti Kuri Claims Settlement Act 2015; and
-    (ii) section 130 of the Te Aupouri Claims Settlement Act 2015; and
-    (iii) section 125 of the NgāiTakoto Claims Settlement Act 2015.
+(2) The purpose of the Te Rarawa fisheries advisory committee is to advise the Minister on the utilisation of fish, aquatic life, and seaweed managed under the Fisheries Act 1996, while also ensuring the sustainability of those resources in the fisheries protocol area.
 (3) The Minister must consider any advice given by the Te Rarawa fisheries advisory committee.
 (4) In considering any advice, the Minister must recognise and provide for the customary, non-commercial interests of Te Rarawa.
 
@@ -1744,7 +1739,12 @@ In this subpart,—
 ### 144 Appointment of joint fisheries advisory committee
 (1) The Minister must, on the settlement date, appoint a joint fisheries advisory committee to be an advisory committee under section 21(1) of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995.
 (2) Each Te Hiku o Te Ika iwi governance entity must appoint 1 person to be a member of the committee.
-(3) The purpose of the joint fisheries advisory committee is to advise the Minister on the utilisation of fish, aquatic life, and seaweed managed under the Fisheries Act 1996, while also ensuring the sustainability of those resources in the fisheries protocol area.
+(3) The purpose of the joint fisheries advisory committee is to advise the Minister on the utilisation of fish, aquatic life, and seaweed managed under the Fisheries Act 1996, while also ensuring the sustainability of those resources in—
+  (a) the fisheries protocol area; and
+  (b) the fisheries protocol areas provided for by—
+    (i) section 128 of the Ngāti Kuri Claims Settlement Act 2015; and
+    (ii) section 130 of the Te Aupouri Claims Settlement Act 2015; and
+    (iii) section 125 of the NgāiTakoto Claims Settlement Act 2015.
 (4) The Minister must consider any advice given by the joint fisheries advisory committee.
 (5) In considering the advice from the joint fisheries advisory committee, the Minister must recognise and provide for the customary, non-commercial interests of Te Hiku o Te Ika iwi.
 (6) If a Te Hiku o Te Ika iwi does not enter into a fisheries protocol with the Minister, the relevant area for the purpose of advising the Minister under subsection (3) is deemed to be the waters adjacent, or otherwise relevant, to the area of interest of that iwi (including any relevant quota management area or fishery management area within the exclusive economic zone).
