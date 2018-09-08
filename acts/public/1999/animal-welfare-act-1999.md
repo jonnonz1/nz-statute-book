@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-09-08_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—(i)to recognise that animals are sentient:(ia)to require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -624,7 +624,11 @@ A person commits an offence who, without reasonable excuse and for the purpose o
 **Inspection of traps**
 
 ### 36 Obligations relating to traps
-(1) A person who, for the purpose of capturing alive a mammal, bird, reptile, or amphibian, sets a trap or causes a trap to be set must inspect that trap, or cause a competent person to inspect that trap, within 12 hours after sunrise on each day the trap remains set, beginning on the day immediately after the day on which the trap is set.
+(1) A person who, for the purpose of capturing alive a mammal, bird, reptile, or amphibian, sets a trap or causes a trap to be set must—
+  (a) manually inspect that trap, or cause a competent person to manually inspect that trap, within 12 hours after sunrise on each day the trap remains set, beginning on the day immediately after the day on which the trap is set; or
+  (b) manually inspect that trap, or cause a competent person to manually inspect that trap, within 24 hours after the capture of an animal in the trap, but this paragraph applies only if—
+    (i) the person monitors the trap with an electronic monitoring system (such as a system of capture sensors and a wireless communication network) that is maintained by the person and that is reliable; and
+    (ii) the monitoring system operates in such a way that it promptly communicates the fact that an animal has been captured in the trap and enables the person to meet the person’s obligations under subsection (2) within that 24-hour period.
 (2) A person who, for the purpose of capturing alive a mammal, bird, reptile, or amphibian, sets a trap or causes a trap to be set must—
   (a) remove, or cause to be removed, any live animal found in that trap; or
   (b) attend properly to the care of the animal or, without delay, kill the animal.
