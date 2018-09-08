@@ -1,5 +1,5 @@
 # Justices of the Peace Act 1957
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-09-08_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the appointment of Justices of the Peace
 
@@ -52,6 +52,7 @@ Every Justice appointed under section 3(1) continues in office until he or sheâ€
     (ii) had from time to time failed or refused to perform the functions of a Justice; or
   (c) retired or resigned while suspended from office; or
   (d) retired or resigned to avoid being removed or suspended from office, or otherwise disciplined.
+(2A) Despite subsection (2)ï»¿(a), the Secretary may, by notice in the Gazette, authorise a former Justice who retired or resigned before, on, or after the commencement of this subsection to use the designation JP (retired) if the Secretary thinks it appropriate in the circumstances.
 (3) No former Justice may use the designation JP (retired) unless the Secretary has published in the Gazette a notice authorising him or her to do so.
 (4) No person may use the designation JP (retired) or a similar designation unless he or she is a former Justice.
 (5) Subsection (1) applies to former Justices (appointed under section 3(1)) who retired or resigned before the commencement of the Justices of the Peace Amendment Act 2007.
