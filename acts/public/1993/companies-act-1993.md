@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-09-08_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -4986,7 +4986,7 @@ If a transaction or charge is set aside under section 294, the court may make 1 
 
 ### 303 Admissible claims
 (1) Subject to subsection (2), a debt or liability, present or future, certain or contingent, whether it is an ascertained debt or a liability for damages, may be admitted as a claim against a company in liquidation.
-(2) Fines, monetary penalties, and costs to which section 308 applies are not claims that may be admitted against a company in liquidation.
+(2) Fines, monetary penalties, sentences of reparation, orders, and costs to which section 308 applies are not claims that may be admitted against a company in liquidation.
 
 ### 304 Claims by unsecured creditors
 (1) A claim by an unsecured creditor against a company in liquidation must be made in the prescribed form and must—
@@ -5046,7 +5046,7 @@ If a transaction or charge is set aside under section 294, the court may make 1 
 
 ### 308 Fines and penalties
 Nothing in this Part limits or affects the recovery of—
-  (a) a fine imposed on a company, whether before or after the commencement of the liquidation of the company, for the commission of an offence; or
+  (a) a fine, monetary penalty, sentence of reparation, or other order for the payment of money imposed on a company, whether before or after the commencement of the liquidation of the company, for the commission of an offence; or
   (b) a monetary penalty payable to the Crown imposed on a company by a court, whether before or after the commencement of the liquidation of the company, for the breach of any enactment; or
   (c) costs ordered to be paid by the company in relation to proceedings for the offence or breach.
 
