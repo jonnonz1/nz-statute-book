@@ -1,5 +1,5 @@
 # International Finance Agreements Amendment Act 1966
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-09-08_
 
 > An Act to amend the International Finance Agreements Act 1961
 
@@ -18,7 +18,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 3 Provisions for giving effect to Asian Development Bank Agreement
 (1) The Reserve Bank of New Zealand is hereby designated as the depository in New Zealand for all the holdings of New Zealand currency and of other assets of the Asian Bank.
-(2) There shall be paid out of such account of the Public Account as the Minister may direct, without further appropriation than this section, all payments required to be made from time to time to the Asian Bank, under the provisions of the Asian Bank Agreement, by reason of New Zealand's membership of the Asian Bank.
+(2) There shall be paid out of public money, without further appropriation than this section, all payments required to be made from time to time to the Asian Bank, under the provisions of the Asian Bank Agreement, by reason of New Zealand's membership of the Asian Bank. Expenses or capital expenditure may be incurred without further appropriation than this section for the purpose of these payments (see sections 4 and 11 of the Public Finance Act 1989).
 (3) The Minister may from time to time borrow on the security of and charged upon the public revenues of New Zealand such sums of money as are required to be paid by the Government of New Zealand under subsection (2) of this section. The provisions of subsections (2) and (3) of section 6 of the principal Act shall extend and apply to all money borrowed under the authority of this subsection.
 (4) The Minister is hereby authorised to create and issue securities, notes, or obligations, which shall be non-negotiable, non-interest bearing, and payable on demand, to the Asian Bank in conformity with paragraph 3 of Article 6 of the Asian Bank Agreement.
 (5) Articles 49 to 56 and 58 of the Asian Bank Agreement (which relate to status, immunities, and privileges) shall have the force of law in New Zealand, Niue, and Tokelau.
@@ -26,7 +26,7 @@ In this Act, unless the context otherwise requires,—
 ### 4 Provisions for giving effect to International Development Association Agreement
 (1) The provisions of this section shall have effect in the event of the Government of New Zealand becoming a member of the Association.
 (2) The Reserve Bank of New Zealand is hereby designated as the depository in New Zealand for all the holdings of New Zealand currency and of other assets of the Association.
-(3) There shall be paid out of such account of the Crown Bank Account as the Minister may direct, without further appropriation than this section, all payments required to be made from time to time to the Association under the terms approved by the Association, in accordance with the Association Agreement, for the admission of the Government of New Zealand to membership, and under the provisions of the Association Agreement by reason of New Zealand's membership.
+(3) There shall be paid out of public money, without further appropriation than this section, all payments required to be made from time to time to the Association under the terms approved by the Association, in accordance with the Association Agreement, for the admission of the Government of New Zealand to membership, and under the provisions of the Association Agreement by reason of New Zealand's membership. Expenses or capital expenditure may be incurred without further appropriation than this section for the purpose of these payments (see sections 4 and 11 of the Public Finance Act 1989).
 (4) The Minister may from time to time borrow on the security of and charged upon the public revenues of New Zealand such sums of money as are required to be paid by the Government of New Zealand under subsection (3) of this section. The provisions of subsections (2) and (3) of section 6 of the principal Act shall extend and apply to all money borrowed under the authority of this subsection.
 (5) The Minister is hereby authorised to create and issue securities, notes, or obligations, which shall be non-negotiable, non-interest bearing, and payable on demand, to the Association in conformity with subsection (e) of Section 2 of Article II of the Association Agreement.
 (6) Sections 2 to 9 of Article VIII of the Association Agreement (which relate to status, immunities, and privileges) shall have the force of law in New Zealand, Niue, and Tokelau.
