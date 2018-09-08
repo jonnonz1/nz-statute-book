@@ -1,5 +1,5 @@
 # Auctioneers Act 2013
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-09-08_
 
 ### 1 Title
 This Act is the Auctioneers Act 2013.
@@ -30,7 +30,7 @@ This Act provides for the registration of auctioneers and for related matters, a
 ### 5 Registration of person carrying on business as auctioneer
 (1) A person must not carry on business as an auctioneer unless the person is registered under this Act as a registered auctioneer.
 (2) Subsection (1) is subject to the exceptions provided in—
-  (a) section 48 of the Real Estate Agents Act 2008; and
+  (a) sections 48 and 49 of the Real Estate Agents Act 2008; and
   (b) section 141 of the Motor Vehicle Sales Act 2003; and
   (c) any other enactment.
 (3) A person carries on business as an auctioneer if the person, in trade, charges a fee or commission for, or requires the payment of any part of the proceeds of, a sale by auction, other than as an employee or agent of a registered auctioneer.
