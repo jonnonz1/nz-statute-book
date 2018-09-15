@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2018-03-30_
+_Consolidation as at 2018-09-15_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -5570,23 +5570,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 (3) A provision prescribed for the purposes of subsection (1)﻿(m) may, without limitation, specify the duties of the licensee or authorised body under the client agreement (including to supplement, or to add to, any duties prescribed by this Act).
 
 ### 547 Transitionals, savings, and orderly implementation of Act and related enactments
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for any of the following purposes:
-  (a) providing that, subject to any conditions stated in the regulations, transitional or savings provisions prescribed by the regulations that relate to the implementation of the specified enactments (in addition to, or in substitution for, any other transitional provisions in the specified enactments) apply during the whole or any part of the transitional implementation period ending on the 5-year date:
-  (b) providing that, subject to any conditions stated in the regulations, specified provisions of the specified enactments (including definitions and any transitional provisions in the specified enactments), or provisions of other enactments amended, revoked, or repealed by the specified enactments, do not apply, or continue to apply or apply with modifications or additions, or both, during the whole or any part of the transitional implementation period ending on the 5-year date:
-  (c) prescribing circumstances for the purposes of clause 7(2)﻿(b) of Schedule 4.
-(2) The Minister must not recommend the making of regulations under this section unless the Minister is satisfied that the regulations—
-  (a) are necessary or desirable for the orderly implementation of the specified enactments; and
-  (b) are consistent with the purposes of the specified enactments.
-(3) This section is repealed on the close of the 5-year date.
-(4) Any regulations made under this section that are in force on the 5-year date are revoked on the close of that day.
-(5) Nothing in Schedule 4 limits this section.
-(6) In this section,—
-  - **5-year date** means the date that is 5 years after the date on which this section comes into force
-  - **specified enactments** means—
-    (a) this Act; and
-    (ab) the Financial Reporting Act 2013; and
-    (ac) the Financial Reporting (Amendments to Other Enactments) Act 2013; and
-    (b) the Financial Markets (Repeals and Amendments) Act 2013.
+[Repealed]
 
 ### 548 Other regulations
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Part 2 fair dealingDefinitionsExcluded circumstances relating to when directors are treated as having contravened provisionsSchedule 3 schemesRegistersGiving of information and other service requirementsEnforcementFees and chargesPrescribed mannerGeneral
