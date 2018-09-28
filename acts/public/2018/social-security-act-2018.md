@@ -121,7 +121,7 @@ The dictionary in Schedule 2 defines terms used in this Act.
 (5) A notification in the Gazette for the purpose of subsection (4)﻿(a)﻿(ii) does not have to include the text of the direction.
 
 ### 8 Determinations person is single or in de facto relationship
-(1) This section applies to a decision by MSD so far as the decision does all or any the following:
+(1) This section applies to a decision by MSD so far as the decision does all or any of the following:
   (a) determines (that is, grants, or refuses to grant, on any basis) an application for a benefit:
   (b) reviews (and suspends, cancels, or varies, from a date determined by MSD) a benefit already granted:
   (c) determines the rate of benefit (from a date, or dates, determined by MSD):
@@ -379,7 +379,7 @@ A person is entitled to the supported living payment if the person—
 A person (P) must not be granted a supported living payment if MSD is satisfied that P’s restricted capacity for work or total blindness was self-inflicted and brought about by P with a view to qualifying for a benefit.
 
 ### 37 Supported living payment: on ground of restricted work capacity or total blindness: medical examination
-(1) The section applies to a person (P) who is an applicant for, or who is receiving, a supported living payment on the ground of restricted work capacity or total blindness.
+(1) This section applies to a person (P) who is an applicant for, or who is receiving, a supported living payment on the ground of restricted work capacity or total blindness.
 (2) MSD may at any time require P to undergo an examination by a prescribed health practitioner.
 (3) The prescribed health practitioner must be agreed for the purpose between P and MSD or, failing agreement, must be nominated by MSD.
 (4) The prescribed health practitioner must prepare, and must send MSD a copy of, a report that indicates—
@@ -534,7 +534,7 @@ MSD may grant a youth payment to a young person (P) who meets all of the require
   (a) sole parent support; or
   (b) an emergency benefit; or
   (c) jobseeker support; or
-  (d) supported living payment on ground of caring for another person.
+  (d) supported living payment on the ground of caring for another person.
 
 ### 55 Youth payment: incentive payments
 (1) If a young person to whom a youth payment is payable meets the criteria prescribed for the purposes of this section by regulations made under section 418(1)﻿(c), the person is also entitled to be paid the appropriate incentive payment stated in subpart 3 of Part 6 of Schedule 4.
@@ -595,7 +595,7 @@ MSD may grant a young parent payment to a young person (P) who meets all of the 
   (a) sole parent support; or
   (b) an emergency benefit; or
   (c) jobseeker support; or
-  (d) a supported living payment on ground of caring for another person.
+  (d) a supported living payment on the ground of caring for another person.
 
 ### 62 Young parent payment: incentive payments
 (1) If a young person to whom a young parent payment is payable meets the criteria prescribed for the purposes of this section by regulations made under section 418(1)﻿(d), the person is also entitled to be paid the appropriate incentive payment stated in subpart 3 of Part 6 of Schedule 4.
@@ -966,7 +966,7 @@ In this subpart and in section 428,—
 (3) This section is subject to clause 21 (how costs, etc, for approved programme of special assistance may be affected by debt, or health or disability, insurance payment) of Schedule 3.
 
 ### 102 Special assistance: status of, and access to, notices
-(1) A notice given under section 99, 100, or 101,—
+(1) A notice given under section 99, 100, or 101—
   (a) must, as soon as practicable after it is given, be—
     (i) published on an Internet site administered by or on behalf of MSD; and
     (ii) notified in the Gazette; and
@@ -1224,7 +1224,7 @@ A beneficiary is subject to the obligations set out in sections 131 to 135 in re
   (b) is enrolled at and regularly attends a registered school (as defined in regulations made under section 430).
 (2) This section does not apply if A qualifies for an exemption from his or her work-test obligations on the active teaching out of school grounds specified by—
   (a) regulation 6(2)﻿(c) of the Social Security (Exemptions under Section 105) Regulations 1998 (as saved by clause 27 of Schedule 1); or
-  (b) any regulations made under section 431(e).
+  (b) any regulations made under section 431(1)﻿(e).
 
 ### 133 Attendance of dependent child aged 6 to 15 years at registered school
 (1) A person to whom this section applies must take all reasonable steps to ensure that each dependent child aged 6 to 15 years is enrolled at and regularly attends a registered school (as defined by regulations made under section 430).
@@ -1250,7 +1250,7 @@ A person to whom this section applies must, as required by MSD,—
   (a) approved early childhood education programme:
   (b) core check:
   (c) registered school.
-(2) Regulations made under section 430 that prescribe, for the purposes of sections 131(1)﻿(b) and 132(1)﻿(a)﻿(ii), the minimum extent of, or other required manner of, attending an approved early childhood education programme may, without limitation,—
+(2) Regulations made under section 430 that prescribe, for the purposes of sections 131(1)﻿(b) and 132(1)﻿(a), the minimum extent of, or other required manner of, attending an approved early childhood education programme may, without limitation,—
   (a) prescribe, for all or any approved early childhood programmes, target numbers of hours of attendance:
   (b) prescribe different minimum numbers of hours of attendance for all or any different approved early childhood programmes.
 
@@ -1354,7 +1354,7 @@ A compliant drug test is a drug test that complies with the requirements prescri
 MSD may, in accordance with regulations made under section 431, use the result of a drug test undertaken under section 147 and disclosed to MSD under section 149.
 
 ### 151 Costs of drug test
-(1) MSD may, in accordance with regulations made under section 431(c), reimburse a potential employer for the costs of a drug test undertaken by a person under section 147 requested by that employer.
+(1) MSD may, in accordance with regulations made under section 431(1)﻿(c), reimburse a potential employer for the costs of a drug test undertaken by a person under section 147 requested by that employer.
 (2) Subsection (1) does not apply to the costs of an evidential drug test if the person waives the right to the evidential drug test in the situation specified in section 149(1).
 
 ### 152 Definitions for drug-testing provisions
@@ -1658,7 +1658,7 @@ In sections 173 to 180,—
   (b) specify that the person to whom the notice is given must take all reasonable steps to obtain the overseas pension for his or her dependant; and
   (c) specify the period during which the person must take the necessary steps.
 
-### 176 Failure to comply with MSD’s notice given under section 178 or 179
+### 176 Failure to comply with MSD’s notice given under section 174 or 175
 (1) This section applies if a person to whom a notice has been given under section 174 or 175 fails to comply with that notice.
 (2) MSD may—
   (a) in the case of an applicant for a benefit, refuse to grant the benefit:
@@ -1780,7 +1780,7 @@ A person (P) is a person affected by the receipt of an overseas pension if P is 
     (ii) P’s spouse or partner:
     (iii) any dependant of P; or
   (b) P’s spouse or partner is entitled to receive or receives an overseas pension; or
-  (c) any of P’s dependant or dependants is entitled to receive or receives an overseas pension.
+  (c) any of P’s dependants is entitled to receive or receives an overseas pension.
 
 ### 189 Benefit of person affected is reduced by amount of overseas pension
 (1) The rate of the benefit or benefits that would otherwise be payable under the NZ benefits legislation to a person affected by the receipt of an overseas pension must be reduced by the amount of the overseas pension as determined by MSD under regulations made under section 434.
@@ -2153,7 +2153,7 @@ The basic rule applies to the following persons:
   (a) MSD must cancel the benefit (if granted); and
   (b) must not grant P the benefit in any other case; and
   (c) P is not entitled, during the 13-week period, to the cancelled benefit or a work-tested benefit.
-(2) However, under section 228 MSD may decide not to apply subsection (1).
+(2) However, under section 228, MSD may decide not to apply subsection (1).
 (3) Subsection (1) is subject to sections 246 to 248, 320, 323, and 324.
 
 ### 228 MSD’s options in case of misconduct
@@ -2432,7 +2432,7 @@ If it is impossible to remedy a failure to comply with a work-test obligation, a
 ### 263 How person recomplies after failure to comply with drug-testing obligation
 (1) In this section, drug test failure means a failure by a person (P) to comply with a drug-testing obligation.
 (2) In the case of a first drug test failure within a 12–month period, P recomplies if P undertakes, in a manner that is satisfactory to MSD, not to use any controlled drugs (except any particular controlled drugs that are lawfully prescribed, and only at the dosage that is lawfully prescribed, for P by a health practitioner).
-(3) In the case of a second drug test failure within a 12-month period of the first failure, P recomplies if P undertakes, in manner satisfactory to MSD, to undergo drug-testing in accordance with section 264.
+(3) In the case of a second drug test failure within a 12-month period of the first failure, P recomplies if P undertakes, in a manner satisfactory to MSD, to undergo drug testing in accordance with section 264.
 (4) MSD must take reasonable and appropriate steps to make a person who has given an undertaking under subsection (3) aware of the following matters:
   (a) the consequences of failing to comply with the undertaking; and
   (b) the location of an appropriate drug-testing provider; and
@@ -2834,7 +2834,7 @@ After the review, MSD may terminate a winter energy payment under section 75.
   (b) the date the application for the benefit was received.
 (2) This section is subject to—
   (a) section 302 (immediate provisional grant, and later backdating of other benefit); and
-  (b) sections 312 to 317 and 74 and 319 (which contain exceptions and special rules relating to commencement of benefits); and
+  (b) sections 74, 312 to 317, and 319 (which contain exceptions and special rules relating to commencement of benefits); and
   (c) Part 6 of the Veterans’ Support Act 2014; and
   (d) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001.
 
@@ -2865,7 +2865,7 @@ After the review, MSD may terminate a winter energy payment under section 75.
   (b) the date the application for it was received.
 
 ### 315 Exemptions from stand down, and when certain benefits commence
-A benefit of a kind specified in regulations made under section 440,—
+A benefit of a kind specified in regulations made under section 440—
   (a) is not subject to a stand down; and
   (b) commences as provided in those regulations.
 
@@ -2909,7 +2909,7 @@ A benefit of a kind specified in regulations made under section 440,—
 (2) Examples of erroneous action or inaction, for the purposes of subsection (1), include—
   (a) giving wrong advice:
   (b) failing or refusing to provide information, help, or some document or form.
-(3) In this section, action or inaction by MSD, includes action or inaction by a contracted service provider contracted under section 373(1)﻿(a) to provide services in relation to young people.
+(3) In this section, action or inaction by MSD includes action or inaction by a contracted service provider contracted under section 373(1)﻿(a) to provide services in relation to young people.
 
 ### 319 Commencement of winter energy payment
 The winter energy payment commences in accordance with section 74.
@@ -3468,7 +3468,7 @@ The following matters are to be at rates, and subject to conditions, determined 
     (ii) Part 6 of the Veterans’ Support Act 2014:
     (iii) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
   (c) revoke a previous order that applied in respect of, or in respect of an alteration to, a reciprocity agreement if the agreement or alteration is no longer in force or if, on the commencement of the order, the previous order is intended to be no longer in force.
-(3) The Governor-General may, by the same or a later Order in Council, specify the date on which an order made under subsection (2) is to come into force (which may be a date before, on, or after, the date on which the order is made under subsection (2)).
+(3) The Governor-General may, by the same or a later Order in Council, specify the date on which an order made under subsection (2) is to come into force (which may be a date before, on, or after the date on which the order is made under subsection (2)).
 (4) This section is subject to section 381.
 
 ### 381 Privacy report for orders adopting agreements with mutual assistance provisions
@@ -3655,7 +3655,7 @@ No decision can be appealed against under section 397, 398, or 399 unless the de
 (1) An applicant or beneficiary may appeal to the appeal authority against any decision or determination of MSD made in relation to the applicant or beneficiary under—
   (a) any provisions of (or of any regulations made for the purposes of any provisions of) Parts 1 to 6 and Schedules 1 to 5; or
   (b) a special assistance programme approved by the Minister under section 100 or 101; or
-  (c) any regulations in force under section 437 (regulations: issue and use of entitlement cards);
+  (c) any regulations in force under section 437 (regulations: issue and use of entitlement cards); or
   (d) any provisions of, or of regulations made under, the Residential Care and Disability Support Services Act 2018; or
   (e) Part 6 of the Veterans’ Support Act 2014, subject to section 175(2) of that Act; or
   (f) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
@@ -3874,7 +3874,7 @@ This Part contains provisions on the following matters:
 ### 418 Regulations: general
 Regulations for purposes of specified provisions
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of all or any of the following provisions:Part 2—AssistancePart 3—ObligationsPart 4—Factors affecting benefitsPart 5—Enforcement: sanctions and offencesPart 6—AdministrationSchedules
-  (a) sections 27, 28, 37, 41, 42, 80, 81, 88, 134, 164, 167, 379 (prescription, for provision’s purposes, of health practitioners acting within their scope of practice (see the definition in Schedule 2 of prescribed health practitioner)):
+  (a) sections 27, 28, 37, 41, 42, 80, 81, 88, 134, 164, 167, and 379 (prescription, for provision’s purposes, of health practitioners acting within their scope of practice (see the definition in Schedule 2 of prescribed health practitioner)):
   (b) section 35(2)﻿(a) (supported living payment: on ground of restricted work capacity or total blindness: when does person have restricted work capacity: period prescribed):
   (c) section 55(1) (youth payment: incentive payments):
   (d) section 62(1) (young parent payment: incentive payments):
@@ -3924,9 +3924,9 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (d) prescribe 1 or more base rates of accommodation supplement, and how each prescribed base rate is to be assessed:
   (e) provide for required income-based reductions to the assessed base rate amount of accommodation supplement (including any circumstances when specified income may be disregarded):
   (f) require MSD to round up (for example, to the nearest amount in complete single dollars, or in complete multiple dollar amounts) assessed amounts of accommodation supplement.
-(2) Regulations made under subsection (1)﻿(c) have effect in respect of any cash assets specified in the regulations on and after a date—
+(2) Regulations made under subsection (1)﻿(b) have effect in respect of any cash assets specified in the regulations on and after a date—
   (a) specified in the regulations; and
-  (b) earlier than, the same as, or later than, the date on which the regulations are made.
+  (b) earlier than, the same as, or later than the date on which the regulations are made.
 (3) For the purposes of regulations made under subsection (1)﻿(e), the following must be treated as $1 a week of income:
   (a) every $100 of cash assets over $5,400 held by—
     (i) a person who is in a relationship; or
@@ -3956,7 +3956,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
     (i) an employment-related activity arranged or approved by MSD; or
     (ii) an approved course of study; or
     (iii) an approved rehabilitation programme.
-(4) Regulations made under subsection (1)﻿(d) that narrow (including, without limitation, by exempting from) the kinds of income, benefits, credits, and receipts to be treated as income have effect in respect of any income, benefits, credits, and receipts specified in the regulations on and after a date that is—
+(4) Regulations made under subsection (2)﻿(d) that narrow (including, without limitation, by exempting from) the kinds of income, benefits, credits, and receipts to be treated as income have effect in respect of any income, benefits, credits, and receipts specified in the regulations on and after a date that is—
   (a) a date that is specified in the regulations; and
   (b) a date before, on, or after the date on which the regulations are made.
 
@@ -4005,7 +4005,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (g) prescribe the period or periods for which temporary additional support may be granted:
   (h) authorise the payment of temporary additional support in a lump sum up to a specified maximum amount in any prescribed circumstances.
 (3) For the purposes of any calculation made under subpart 16 of Part 2 or any regulations made under subsection (1), the allowable costs, cash assets, and chargeable income of an applicant include the allowable costs, cash assets, and chargeable income of the applicant’s spouse or partner.
-(4) Regulations made under subsection (1)﻿(f) that narrow (for example, exempt any specified item, amount, or kind, of cash assets from) the definition of cash assets have effect in respect of any cash assets specified in the regulations on and after a date that is—
+(4) Regulations made under subsection (2)﻿(f) that narrow (for example, exempt any specified item, amount, or kind, of cash assets from) the definition of cash assets have effect in respect of any cash assets specified in the regulations on and after a date that is—
   (a) a date that is specified in the regulations; and
   (b) a date before, on, or after the date on which the regulations are made.
 
@@ -4023,7 +4023,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 ### 430 Regulations: specific obligations: obligations in relation to dependent children: definitions and attendance
 (1) The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
   (a) defining (in full, or by reference to other enactments, and as contemplated by section 137(1)) the terms approved early childhood education programme, core check, and registered school, for the purposes of sections 131 to 134; and
-  (b) prescribing, for the purposes of sections 131(1)﻿(b), 132(1)﻿(a)﻿(ii), and 137(2), the minimum extent of, or other required manner of, attending an approved early childhood education programme.
+  (b) prescribing, for the purposes of sections 131(1)﻿(b), 132(1)﻿(a), and 137(2), the minimum extent of, or other required manner of, attending an approved early childhood education programme.
 (2) Regulations made under subsection (1)﻿(a) may, without limitation, define an approved early childhood education programme to be or include an early childhood education programme approved by MSD having regard to all relevant approval criteria (if any) prescribed by the Minister by a written notice.
 (3) A notice referred to in subsection (2)—
   (a) must, as soon as practicable after it is given, be—
@@ -4079,11 +4079,11 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 ### 433 Regulations: factors affecting benefits: insurance recovery
 (1) The Governor-General may, by Order in Council, make regulations for the purposes of section 186.
 (2) Regulations made under subsection (1) may (without limitation) do all or any of the following:
-  (a) provide the grant of a benefit or the rate of benefit is subject to repayment to MSD of all or part of an insurance payment of a kind or description, or that falls within a class or definition, prescribed by the regulations:
-  (b) provide the amount of an income-related insurance payment, a debt insurance payment, or a health or disability insurance payment must, to the extent that MSD determines, be treated as being reduced by the amount of any costs incurred—
+  (a) provide that the grant of a benefit or the rate of benefit is subject to repayment to MSD of all or part of an insurance payment of a kind or description, or that falls within a class or definition, prescribed by the regulations:
+  (b) provide that the amount of an income-related insurance payment, a debt insurance payment, or a health or disability insurance payment must, to the extent that MSD determines, be treated as being reduced by the amount of any costs incurred—
     (i) by an applicant for a benefit or a beneficiary; and
     (ii) to obtain the payment:
-  (c) provide a benefit, or part of a benefit, subject to repayment under the regulations,—
+  (c) provide that a benefit, or part of a benefit, subject to repayment under the regulations,—
     (i) constitutes a charge on the amount of the insurance payment paid to the recipient; and
     (ii) is a debt due to the Crown under regulations made under section 444; and
     (iii) is recoverable under regulations made under section 444.
@@ -4175,8 +4175,8 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (f) provide for all reasonable help in te reo Māori to be given by an employee of the State Services (as defined in section 2 of the State Sector Act 1988), without fee or other consideration, in connection with an application for a benefit, if—
     (i) the applicant is a Maori (within the meaning of section 4 of the Maori Land Act 1993), and asks for help of that kind; and
     (ii) the employee has the necessary knowledge of te reo Māori:
-  (g) provide an application need not refer to a particular kind of benefit:
-  (h) provide an application does not, by referring to a particular kind of benefit, prevent MSD from granting any other kind or kinds of benefit:
+  (g) provide that an application need not refer to a particular kind of benefit:
+  (h) provide that an application does not, by referring to a particular kind of benefit, prevent MSD from granting any other kind or kinds of benefit:
   (i) authorise MSD to require as supporting evidence, if MSD considers that the appropriate benefit for an applicant is a youth support payment, evidence of the applicant’s specified costs:
   (j) authorise MSD to waive a requirement to complete an application form or some or all of a requirement to provide supporting evidence:
   (k) provide for travelling expenses and allowances for any applicant or beneficiary who has to be absent from that person’s regular place of residence for a purpose approved by MSD (for example, to be medically examined by, or at the, direction of MSD):
@@ -4246,7 +4246,7 @@ The Governor-General may, by Order in Council, make regulations for the purposes
   (b) reinstate cancelled benefits:
   (c) grant benefits to or reinstate the benefits of, and for any time or times MSD thinks fit make payments under them to, people who were or are subject to non-entitlement periods:
   (d) cause benefits to be paid at a rate not higher than the maximum rate but higher than a lower rate to which people would otherwise be entitled (being a lower rate because of a reduction, variation, suspension, or direct deduction, or because of a sanction, penalty, or non-entitlement period, imposed on a spouse or partner):
-  (e) refrain from exercising a power, or from meeting a requirement in this Act, to cancel, suspend, vary, or cancel benefits or payments of benefits, in circumstances where the holders satisfy the normal criteria for, or the requirement in this Act applies and requires, cancellation, suspension, or variation of benefits or payments.
+  (e) refrain from exercising a power, or from meeting a requirement in this Act, to cancel, suspend, or vary benefits or payments of benefits, in circumstances where the holders satisfy the normal criteria for, or the requirement in this Act applies and requires, cancellation, suspension, or variation of benefits or payments.
 (2) Regulations made under this section override every provision of this Act to the contrary.
 
 ### 444 Regulations: debts and deductions
@@ -4276,10 +4276,10 @@ The Governor-General may, by Order in Council, make regulations for the purposes
 
 ### 445 Regulations: further provisions on deductions
 Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do all or any of the following:
-  (a) require a debtor’s payer to deduct the amount due (as a lump sum, or by instalments) from a sum that is or becomes payable by the payer to the debtor; and
+  (a) require a debtor’s payer to deduct the amount due (as a lump sum, or by instalments) from a sum that is or becomes payable by the payer to the debtor:
   (b) require the payer to pay to MSD by a time, or by any times, specified in the notice, the amount or amounts deducted:
   (c) provide for the contents, copies, and revocation of a deduction notice:
-  (d) require the payer, if requested, to issue the debtor a deductions statement:
+  (d) require the payer, if requested, to issue to the debtor a deductions statement:
   (e) provide that the debtor is, so far as amounts are deducted, discharged from debt:
   (f) provide, if the payer to whom the deduction notice is issued is a bank (as defined in the regulations), any money held by the bank to the credit of the debtor is deemed to be held in trust for the Crown, and recoverable from the bank as if it were money payable under a benefit to which the debtor was not entitled:
   (g) provide that neither the debtor, nor any other person concerned, has a claim against the payer making the deduction, or the Crown, in respect of the deduction:
@@ -4378,7 +4378,7 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
   (r) Schedule 1 (New Zealand superannuation entitlements) of the New Zealand Superannuation and Retirement Income Act 2001.
 (3) Subsection (1) applies to an item that—
   (a) is any benefit, allowance, lump sum payment, subsidy rate (see subsection (6)), maximum amount of any component, maximum amount of supplements, asset limit, income limit, income exemption, maximum amount of advance, cash assets test, the cash assets thresholds specified in section 423(3)﻿(a) and (b), benefit stand-down income test, or annual or weekly income test; and
-  (b) is not the rate of diminution of any benefit or allowance, or the period of a benefit stand-down for a given income.
+  (b) is not the rate of diminution of any benefit or allowance, or the period of a benefit stand down for a given income.
 (4) An Order made under subsection (1)—
   (a) must state the date on which it is to have effect (which may be a date before the date on which it was made); and
   (b) applies to lump sum payments on death in respect of persons who die on or after a date specified in the Order; and
@@ -4458,7 +4458,7 @@ In this schedule,—
   - **saved** , in relation to any arrangement, contract, decision, enactment, increase, instrument, period, reduction, or status (in each case, however described), means—
     (a) continued in force only if, and as, in force immediately before the changeover; and
     (b) continued in force under, and with all necessary modifications for, the enactment under which it is continued; and
-    (c) able to be amended, revoked, or replaced, under that enactment (or by any other enactment).
+    (c) able to be amended, revoked, or replaced under that enactment (or by any other enactment).
 
 **General provisions (Part 1)**
 
@@ -4479,7 +4479,7 @@ In this schedule,—
 ### 3 Determinations of conjugal status for benefit purposes
 (1) This clause applies to determinations—
   (a) made under section 63 of the Social Security Act 1964; and
-  (b) not made, or so far as they were not made, for the purposes of section 69FA or 132D, Part 4, or Schedule 27 or 30, of that Act (see clause 1 of Schedule 1 of the Residential Care and Disability Support Services Act 2018).
+  (b) not made, or so far as they were not made, for the purposes of section 69FA or 132D, Part 4, or Schedule 27 or 30 of that Act (see clause 1 of Schedule 1 of the Residential Care and Disability Support Services Act 2018).
 (2) The determinations specified in subclause (1) are saved as if made under section 8(2) or (4).
 (3) However, the determinations specified in subclause (1) that are made under section 63(b) of the Social Security Act 1964 continue under subclause (2) as if they were determinations made under section 8(4).
 
@@ -4592,7 +4592,7 @@ Regulations made under section 132AB of the Social Security Act 1964 are saved a
 
 ### 22 Attendance of dependent child at recognised early childhood education programme regulations
 (1) This clause applies to the Social Security (Social Obligations—Attendance at Recognised Early Childhood Education Programme) Regulations 2013 made under sections 60RA(3), 60RAB, and 132 of the Social Security Act 1964 for the purposes of section 60RA(3)﻿(a)﻿(ii) and (b)﻿(i) of that Act.
-(2) Those regulations are saved as if they were made under sections 137(2) and 430(1)﻿(b) for the purposes of sections 131(1)﻿(b) and 132(1)﻿(a)﻿(ii).
+(2) Those regulations are saved as if they were made under sections 137(2) and 430(1)﻿(b) for the purposes of sections 131(1)﻿(b) and 132(1)﻿(a).
 
 ### 23 Application of work-test obligations regulations
 (1) This clause applies to the Social Security (Application of Work Test Obligations) Regulations 2007 made under section 132 of the Social Security Act 1964 for the purposes of section 102(3)﻿(b) of that Act.
@@ -4600,7 +4600,7 @@ Regulations made under section 132AB of the Social Security Act 1964 are saved a
 
 ### 24 Maximum reimbursement amounts of costs of drug test regulations
 (1) This clause applies to the Social Security (Work Test Obligations—Drug Testing Obligations) Regulations 2013 made under section 132 (read in the light of section 102C(3) and (4)) of the Social Security Act 1964, so far as they prescribe maximum reimbursement amounts for the purposes of section 102C(3) of that Act.
-(2) Those regulations are saved as if they were made under section 431(c) for the purposes of section 151.
+(2) Those regulations are saved as if they were made under section 431(1)﻿(c) for the purposes of section 151.
 
 ### 25 Drug-testing obligation regulations
 Regulations made under section 132 (read in the light of sections 88A, 102C(3) and (4), and 116C(2)﻿(e)) of the Social Security Act 1964 are saved as if they were made under section 418(1)﻿(f), (g), and (h) for the purposes of the definitions in section 152 of evidential drug test, pass, and screening drug test.
@@ -4609,7 +4609,7 @@ Regulations made under section 132 (read in the light of sections 88A, 102C(3) a
 Regulations made under section 132F of the Social Security Act 1964 are saved as if they were made under section 429.
 
 ### 27 Obligations exemption regulations
-Regulations made under section 123D of the Social Security Act 1964 are saved as if they were made under section 431(e).
+Regulations made under section 123D of the Social Security Act 1964 are saved as if they were made under section 431(1)﻿(e).
 
 ### 28 Obligations of spouses or partners of specified beneficiaries: exception to section 166
 (1) This clause applies to a young person—
@@ -4670,7 +4670,7 @@ Approvals under section 116C(2)﻿(b)﻿(iii) of the Social Security Act 1964 ar
   (b) did not begin, before the changeover, and under section 81 of the Social Security Act 1964, a review of the benefit.
 (2) Reviews by the chief executive begun under section 81 of the Social Security Act 1964 (apart from, or with, section 124(2) and (2A) of that Act), and not withdrawn or completed at the changeover, may be continued or completed by MSD as if they were reviews under subpart 3 of Part 6 (review of entitlement to, or rate of, benefit granted).
 (3) Requirements made under section 81(1) of the Social Security Act 1964 to provide information, if not withdrawn and not met at the changeover, are saved as if they were requirements made under section 305(1) (information for review).
-(4) Suspensions, terminations, or variations of rate, of benefit, and effected under section 81(1) of the Social Security Act 1964 are saved as if they were equivalent suspensions, cancellations, or variations, effected under section 305(2) (information for review).
+(4) Suspensions, terminations, or variations of rate, of benefit, and effected under section 81(1) of the Social Security Act 1964 are saved as if they were equivalent suspensions, cancellations, or variations effected under section 305(2) (information for review).
 
 ### 38 Elections and stand-down periods
 Elections and stand-down periods under section 80BA of the Social Security Act 1964 are saved as if they were (as the case requires)—
@@ -5185,7 +5185,7 @@ The following table is small in size and has 2 columns. The columns have no head
 ### Part 3 — Supported living payment
 
 ###
-The following table is small in size and has 4 columns. The columns have no headings.1(a)To a single beneficiary under the age of 18 years without dependent children$217.80 a week, subject to Income Test 1(b)To any other single beneficiary without dependent children$269.15 a week, subject to Income Test 1(c)To a single beneficiary with 1 or more dependent children$379.19 a week, subject to Income Test 1(d)To a beneficiary who is in a relationship, whose spouse or partner is granted, in the spouse’s or partner’s own right, a main benefit under this Act (i)$224.28 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$237.09 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner have 1 or more dependent children (e)To a beneficiary who is in a relationship, whose spouse or partner is granted, in the spouse’s or partner’s own right, New Zealand superannuation(i)$224.28 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$249.90 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner have 1 or more dependent children (f)To a beneficiary who is in a relationship, whose spouse or partner is granted, in the spouse’s or partner’s own right, a veteran’s pension(i)$224.28 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$249.90 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner have 1 or more dependent children(g)To a beneficiary receiving a supported living payment under section 34 on the ground of restricted work capacity or total blindness who is in a relationship, whose spouse or partner is not granted, in the spouse’s or partner’s own right, a main benefit under this Act or New Zealand superannuation or a veteran’s pension(i)$448.56 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$474.18 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner have 1 or more dependent children(h)To a beneficiary receiving a supported living payment under section 40 on the ground of caring for another person, if the beneficiary is in a relationship, and the beneficiary’s spouse or partner is not granted, in the spouse’s or partner’s own right, a main benefit under this Act or New Zealand superannuation or a veteran’s pension(i)$224.28 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$249.90 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner have 1 or more dependent childrenHowever, in computing the income of any beneficiary receiving a supported living payment under section 34 for the purpose of this schedule, MSD must—(a)disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and(b)disregard all of the income of a totally blind beneficiary earned by the beneficiary’s own efforts.2Maximum amount from all sources where subsidy (that is to say, an additional allowance under clause 3) is paid on earnings of blind beneficiary, in every case$354.28 a week, increased by $44.87 a week if the beneficiary is a single person3A person (P) who receives a supported living payment in respect of P’s total blindness and who is employed, is entitled to an additional allowance (subsidy) equal to 25% of P’s average earnings for the year.4However, if payment of that additional allowance would result in the total amount P receives from all sources for P’s own use in any year, including the value of any benefits in kind, exceeding the appropriate amount specified in clause 2, the additional allowance—(a)must not be paid; or(b)must be paid at a reduced rate to avoid that result.5A beneficiary who is in a relationship is entitled to be paid at half the appropriate rate in clause 1(d), (e), (f), (g), or (h) and at half the abatement rate applying to that rate if the beneficiary—(a)has a psychiatric, intellectual, physical, or mental disability; and(b)is receiving long-term residential care in a hospital or rest home because of that disability; and(c)has not been means assessed under Part 6 of the Residential Care and Disability Support Services Act 2018.6A supported living payment payable to the spouse or partner of a person to whom clause 5 applies is payable at the appropriate rate specified in clause 1(b) or (c) if that spouse or partner is not receiving long-term residential care in a hospital or rest home.7Despite paragraphs (d), (e), (f), and (g) of clause 1, the rate of a supported living payment on the ground of caring for another person under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed—(a)$224.28 a week if the beneficiary and the spouse or partner of the beneficiary have no dependent children; or(b)$249.90 a week if the beneficiary and the spouse or partner of the beneficiary have 1 or more dependent children.8In this Part, dependent child (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid.
+The following table is small in size and has 4 columns. The columns have no headings.1(a)To a single beneficiary under the age of 18 years without dependent children$217.80 a week, subject to Income Test 1(b)To any other single beneficiary without dependent children$269.15 a week, subject to Income Test 1(c)To a single beneficiary with 1 or more dependent children$379.19 a week, subject to Income Test 1(d)To a beneficiary who is in a relationship, whose spouse or partner is granted, in the spouse’s or partner’s own right, a main benefit under this Act (i)$224.28 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$237.09 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner have 1 or more dependent children (e)To a beneficiary who is in a relationship, whose spouse or partner is granted, in the spouse’s or partner’s own right, New Zealand superannuation(i)$224.28 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$249.90 a week subject to Income Test 2 if the beneficiary and his or her spouse or partner have 1 or more dependent children (f)To a beneficiary who is in a relationship, whose spouse or partner is granted, in the spouse’s or partner’s own right, a veteran’s pension(i)$224.28 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$249.90 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner have 1 or more dependent children(g)To a beneficiary receiving a supported living payment under section 34 on the ground of restricted work capacity or total blindness who is in a relationship, whose spouse or partner is not granted, in the spouse’s or partner’s own right, a main benefit under this Act or New Zealand superannuation or a veteran’s pension(i)$448.56 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$474.18 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner have 1 or more dependent children(h)To a beneficiary receiving a supported living payment under section 40 on the ground of caring for another person, if the beneficiary is in a relationship, and the beneficiary’s spouse or partner is not granted, in the spouse’s or partner’s own right, a main benefit under this Act or New Zealand superannuation or a veteran’s pension(i)$224.28 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner do not have 1 or more dependent children; or(ii)$249.90 a week subject to Income Test 1 if the beneficiary and his or her spouse or partner have 1 or more dependent childrenHowever, in computing the income of any beneficiary receiving a supported living payment under section 34 for the purpose of this schedule, MSD must—(a)disregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; and(b)disregard all of the income of a totally blind beneficiary earned by the beneficiary’s own efforts.2Maximum amount from all sources where subsidy (that is to say, an additional allowance under clause 3) is paid on earnings of a blind beneficiary, in every case$354.28 a week, increased by $44.87 a week if the beneficiary is a single person3A person (P) who receives a supported living payment in respect of P’s total blindness and who is employed, is entitled to an additional allowance (subsidy) equal to 25% of P’s average earnings for the year.4However, if payment of that additional allowance would result in the total amount P receives from all sources for P’s own use in any year, including the value of any benefits in kind, exceeding the appropriate amount specified in clause 2, the additional allowance—(a)must not be paid; or(b)must be paid at a reduced rate to avoid that result.5A beneficiary who is in a relationship is entitled to be paid at half the appropriate rate in clause 1(d), (e), (f), (g), or (h) and at half the abatement rate applying to that rate if the beneficiary—(a)has a psychiatric, intellectual, physical, or mental disability; and(b)is receiving long-term residential care in a hospital or rest home because of that disability; and(c)has not been means assessed under Part 6 of the Residential Care and Disability Support Services Act 2018.6A supported living payment payable to the spouse or partner of a person to whom clause 5 applies is payable at the appropriate rate specified in clause 1(b) or (c) if that spouse or partner is not receiving long-term residential care in a hospital or rest home.7Despite paragraphs (d), (e), (f), and (g) of clause 1, the rate of a supported living payment on the ground of caring for another person under any of those paragraphs must not be less than the rates that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive the benefit on those grounds; but the rate of benefit payable by virtue of this clause must not exceed—(a)$224.28 a week if the beneficiary and the spouse or partner of the beneficiary have no dependent children; or(b)$249.90 a week if the beneficiary and the spouse or partner of the beneficiary have 1 or more dependent children.8In this Part, dependent child (as defined in Schedule 2) excludes a child in respect of whom an orphan’s benefit or an unsupported child’s benefit is being paid.
 
 ### Part 4 — Orphan’s benefit
 
@@ -5344,8 +5344,8 @@ The following table is small in size and has 3 columns. The columns have no head
 
 ### 3 Purposes
 Information may be obtained under clause 2 for all or any of the following purposes:
-  (a) determining whether a person who has made a claim for, is receiving, or has received, a benefit or payment under any of the following enactments or programmes is or was entitled to receive that benefit or that payment:
-    (i) this Act (for example, under a reciprocity agreement adopted by an order made under section 380); or
+  (a) determining whether a person who has made a claim for, is receiving, or has received a benefit or payment under any of the following enactments or programmes is or was entitled to receive that benefit or that payment:
+    (i) this Act (for example, under a reciprocity agreement adopted by an order made under section 380):
     (ii) Part 6 of the Veterans’ Support Act 2014:
     (iii) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001:
     (iv) a welfare programme approved by the Minister under section 101 of this Act:
