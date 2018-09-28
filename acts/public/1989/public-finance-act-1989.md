@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-09-28_
 
 > Title
 
@@ -2263,7 +2263,6 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |
 | Asia New Zealand Foundation |  |  |  |  |  |  |  |  |
 | Game Animal Council |  |  |  |  |  |  |  |  |
-| Leadership Development Centre Trust |  |  |  |  |  |  |  |  |
 | the Māori Trustee |  |  |  |  |  |  |  |  |
 | National Pacific Radio Trust |  |  |  |  |  |  |  |  |
 | New Zealand Fish and Game Council and Fish and Game Councils |  |  |  |  |  |  |  |  |
@@ -2283,7 +2282,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 |  | 161 | 162 | 163 | 164 | 165 |
 | City Rail Link Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Crown Asset Management Limited |  | ✓ | ✓ | ✓ |  |
-| Crown Fibre Holdings Limited |  |  |  |  |  |
+| Crown Infrastructure Partners Limited |  |  |  |  |  |
 | Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Ōtākaro Limited | ✓ | ✓ | ✓ | ✓ |  |
