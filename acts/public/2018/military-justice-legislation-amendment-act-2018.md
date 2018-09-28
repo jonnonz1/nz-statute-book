@@ -331,12 +331,12 @@ Insert the Schedule 1 set out in Schedule 3 of this Act as the first schedule to
 In this Part,—
   - **amendment Act** means Part 1 of the Military Justice Legislation Amendment Act 2018
   - **commencement** means the commencement of the amendment Act
-  - **other amendments** means the amendments made by sections 13 to 21 of the amendment Act
+  - **other amendments** means the amendments made by sections 12 to 20 of the amendment Act
   - **proceeding** means the disposal of a charge recorded under this Act, and includes any appeals
-  - **victims’ rights amendments** means the amendments made by sections 7 to 11 and 22 of the amendment Act.
+  - **victims’ rights amendments** means the amendments made by sections 6 to 10 and 21 of the amendment Act.
 
 ### 2 Burden of proof amendment
-(1) Despite its repeal by section 5 of the amendment Act, section 3(2) continues to apply in relation to a proceeding in which the accused has been arraigned in accordance with section 116 before commencement.
+(1) Despite its repeal by section 4 of the amendment Act, section 3(2) continues to apply in relation to a proceeding in which the accused has been arraigned in accordance with section 116 before commencement.
 (2) Despite subclause (1), if the accused in a proceeding described in that subclause is, after commencement, remanded for trial in the Court Martial, section 3(2) does not apply to the proceeding from the point at which the accused is remanded.
 
 ### 3 Victims’ rights amendments
@@ -361,10 +361,10 @@ In this Part,—
   - **victims’ rights amendments** has the meaning given in clause 1 of Schedule 1AA of the Armed Forces Discipline Act 1971.
 
 ### 2 Victims’ rights amendments
-The amendments made by section 32 of the amendment Act do not apply in relation to a proceeding to which the victims’ rights amendments do not apply in accordance with clause 3 of Schedule 1AA of the Armed Forces Discipline Act 1971.
+The amendments made by section 30 of the amendment Act do not apply in relation to a proceeding to which the victims’ rights amendments do not apply in accordance with clause 3 of Schedule 1AA of the Armed Forces Discipline Act 1971.
 
 ### 3 Other amendments
-The amendments made by sections 29 to 31 of the amendment Act do not apply in relation to a proceeding described in clause 4 of Schedule 1AA of the Armed Forces Discipline Act 1971.
+The amendments made by sections 27 to 29 of the amendment Act do not apply in relation to a proceeding described in clause 4 of Schedule 1AA of the Armed Forces Discipline Act 1971.
 
 ## Schedule 3 — New Schedule 1 inserted
 
@@ -378,4 +378,4 @@ In this Part,—
   - **proceeding** has the meaning given in clause 1 of Schedule 1AA of the Armed Forces Discipline Act 1971.
 
 ### 2 Application of amendments to proceedings
-The amendments made by sections 35 and 36 of the amendment Act do not apply in relation to a proceeding described in clause 4 of Schedule 1AA of the Armed Forces Discipline Act 1971.
+The amendments made by sections 34 and 35 of the amendment Act do not apply in relation to a proceeding described in clause 4 of Schedule 1AA of the Armed Forces Discipline Act 1971.
