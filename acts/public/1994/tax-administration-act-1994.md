@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-09-29_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -2475,9 +2475,9 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
     (iii) the employment of employees by any class or description of employer,—
   (c)
 (6B) For the purposes of subsection (1), other emoluments—
-  (a) includes a benefit that an employee receives under section CE 2(2) or (4) of the Income Tax Act 2007 in relation to which the employer has not made an election under section RD 7B of that Act to withhold an amount of income tax:
+  (a) includes a benefit that an employee receives under section CE 1(1)﻿(d) of the Income Tax Act 2007 in relation to which the employer has not made an election under section RD 7B of that Act to withhold an amount of income tax:
   (b) does not include—
-    (i) a benefit under a share purchase agreement received by a former employee:
+    (i) a benefit under a employee share scheme received by a former employee:
     (ii) a benefit arising under a share purchase scheme approved by the Commissioner on meeting the criteria set out in sections DC 13 and DC 14 of that Act.
 (7) In this section, employee includes any person who receives or is entitled to receive a payment that would, but for section RD 3B or RD 3C of the Income Tax Act 2007, be a PAYE income payment.
 (8) For the purposes of the new rules relating to the delivery of employment income information set out in section 200 of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018, the Governor-General may, by Order in Council, on the recommendation of the Minister of Revenue, make regulations providing—
