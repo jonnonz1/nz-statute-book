@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2017-12-21_
+_Consolidation as at 2018-09-29_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1319,7 +1319,7 @@ In this Part, unless the context otherwise requires,—
     (ia) WorkSafe New Zealand:
     (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section 238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 1964:
     (k) the Ministry of Education:
-    (l) the Education Council of Aotearoa New Zealand established under Part 32 of the Education Act 1989:
+    (l) the Teaching Council of Aotearoa New Zealand continued under Part 32 of the Education Act 1989:
     (m) the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
 
 ### 97A Relationship between Part 10 and other law relating to information disclosure
