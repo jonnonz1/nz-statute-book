@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-09-29_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1366,12 +1366,12 @@ When excess amount relevant
 ### CD 25 Treasury stock acquisitions
 Treasury stock generally
 (1) An amount paid by a company in acquiring any of its shares is not a dividend if—
-  (a) the acquisition is treated as not resulting in the cancellation of the share, under section 67A(1) of the Companies Act 1993 or section 24 of the Co-operative Companies Act 1996 (each of which relates to treasury stock); and
+  (a) the shares acquired by the company are held by the company in itself, including shares acquired by the company as the result of the application of section CE 6 (Trusts are nominees) and, in the case of shares acquired other than as the result of the application of section CE 6, section 67A(1) of the Companies Act 1993 or section 24 of the Co-operative Companies Act 1996 apply to provide that the shares are not deemed to be cancelled; and
   (b) the acquisition is not part of a pro rata cancellation or something that is in substance a pro rata cancellation.
 Reversion to on-market cancellation treatment
 (2) Subsections (4) to (6) apply in the case of an acquisition of a share to which subsection (1) or section CD 17(1) of the Income Tax Act 2004 or section CF 3(1)﻿(d) or (da) of the Income Tax Act 1994 applies if,—
   (a) before the first anniversary of the acquisition, the company cancels the share; or
-  (b) at the first anniversary, the company has failed to transfer a share of the same class in an arm’s length transfer, except if the company is established under New Zealand co-operative company legislation; or
+  (b) at the first anniversary, the company has failed to transfer a share of the same class in an arm’s length transfer and has failed to allocate a share or right to a share, of the same class to an employee share scheme beneficiary under an employee share scheme, except if the company is established under New Zealand co-operative company legislation; or
   (c) after the first anniversary, the company, which is established under New Zealand co-operative company legislation, cancels the share.
 Requirement for arm’s length transfers
 (3) When subsection (2)﻿(b) is applied,—
@@ -1387,6 +1387,8 @@ Imputation credit account debit
 (5) If subsection (2) applies, then, with effect from the date of the acquisition by the company, section OB 42 (ICA on-market cancellation) applies as if the original acquisition were an on-market cancellation but item ASC per share excess of the formula in section OB 42 were equal to only the excess of the amount received by the shareholder over the reduction described in subsection (4).
 Relief from imputation penalty tax
 (6) No imputation penalty tax is imposed under section 140B of the Tax Administration Act 1994 (nor any late payment penalty imposed under that Act in relation to the imputation penalty tax) if it would not have arisen had subsection (5) applied only with effect from the date of cancellation or first anniversary, depending on which first causes subsection (2) to apply.
+Employee share schemes
+(7) For the purposes of subsection (2), if the company has, before the first anniversary, allocated a share or right to a share to an employee share scheme beneficiary under an employee share scheme but subsequently the allocation is cancelled, the shares acquired under subsection (1) by the company are treated as acquired by the company on the date of cancellation for the amount the company paid for their acquisition under subsection (1).
 
 ### CD 26 Capital distributions on liquidation or emigration
 When this section applies
@@ -1728,6 +1730,33 @@ Subscriptions amount: debt forgiven within economic group
   (b) if the calculation company is not the debtor, the amount of debt multiplied by 1 of the following interests, determined before the application of section YC 4:
     (i) the calculation company’s voting interests in the creditor’s debtor; or
     (ii) the calculation company’s market value interest in the creditor’s debtor, if there is a market value circumstance.
+Subscriptions amount increase: employee share scheme
+(6E) Unless subsection (6F) applies, when the company is part of an employee share scheme, the subscriptions amount includes, in addition to any amount under subsection (2)﻿(b), the following amounts:
+  (a) if the company has a deduction under section DV 27(6) (Employee share schemes) (the employer company) for the employee share scheme and employee, then the subscriptions amount includes the positive amount calculated using the formula in subsection (6G), and the subscriptions amount is—
+    (i) for shares of the same class as the shares issued under the employee share scheme by the employer company; or
+    (ii) if the employer company does not issue shares under the employee share scheme, for shares of the class most similar to the shares issued under the employee share scheme:
+  (b) the subscriptions amount for shares of the same class as the shares issued by the company under the employee share scheme (the issuer company) includes the amount of the employer company’s deduction under section DV 27(6) for the employee share scheme and employee, if,—
+    (i) the issuer company is not the employer company; and
+    (ii) the company is a member of a wholly-owned group of companies of which the employer company is a member; and
+    (iii) before the application of section YC 4 (Look-through rule for corporate shareholders), no member of the wholly-owned group has a voting interest in the issuer company.
+Exception to subsection (6E) by election
+(6F) Subsection (6E) does not apply if—
+  (a) the shares issued under the employee share scheme are issued for market value or a reasonable estimate of market value; and
+  (b) the company elects to apply this subsection.
+Formula: employer companies
+(6G) For the purposes of subsection (6E)﻿(a), the amount is calculated using the formula—subscription amount − consideration paid.
+Definition of items in formula
+(6H) In the formula in subsection (6G),—
+  (a) subscription amount is the amount of the company’s deduction under section DV 27(6) for the employee share scheme and employee:
+  (b) consideration paid is the amount of consideration paid by the company to another company that is a member of the same wholly-owned group of companies (the payee company) for the issue of the shares to the employee under the employee share scheme.
+Employer companies’ negative amounts
+(6I) If the amount calculated using the formula in subsection (6G) is negative, then the absolute value of the amount is subtracted from the company’s subscriptions amount for the issue of shares of the class most similar to the shares issued under the employee share scheme.
+Formula: employer companies’ negative amounts
+(6J) If the amount calculated using the formula in subsection (6G) is negative, then a positive amount calculated using the formula in this subsection is a dividend paid by the company to the payee company—formula amount − ASC.
+Definition of items in formula
+(6K) In the formula in subsection (6J),—
+  (a) formula amount is the absolute value of the amount calculated using the formula in subsection (6G):
+  (b) ASC is the amount of available subscribed capital under this section, before the application of subsection (6I), for shares of the class most similar to the shares issued under the employee share scheme.
 Subscriptions amount: exclusions for bonus issues
 (7) The subscriptions amount does not include—
   (a) an amount for a bonus issue if none of subsection (6)﻿(a), (ab), or (b) applies:
@@ -1783,6 +1812,8 @@ Subscriptions amount: treasury stock disposals excluded
 (19) The subscriptions amount does not include the amount of consideration received by a company for disposing of a share if the disposal is taken into account under section CD 25 to determine that the amount paid by the company on a previous share acquisition is not subject to section CD 25(4) to (6).
 Subscriptions amount: superannuation fund’s interest in GIF
 (20) The subscriptions amount of a company that is a group investment fund includes the value of the interest of a superannuation fund in the group investment fund at the end of 31 March 1999.
+Subscriptions amount exclusion: employee share scheme
+(20B) The subscriptions amount does not include an amount of consideration that the company received for the issue of shares, if the payer of the consideration for the issue of shares is a member of the same wholly-owned group of companies as the company, and the company has, before the application of section YC 4 to the company, voting interests in the payer.
 1 July 1994 and subscriptions amount: foreign currency conversions
 (21) If an amount of consideration that a company receives for the issue of shares is payable in a foreign currency, the amount paid is treated, for the purposes of this section, as if it were converted into New Zealand currency at the calculation time.
 Returns amount: on-market cancellations by associate
@@ -1806,6 +1837,10 @@ Meaning of qualifying share premium
 (28) In this section, qualifying share premium means an amount of premium paid to a company for the issue of a share by the company if—
   (a) the amount was credited to a share premium account in the company’s books; and
   (b) the issue of shares was not in consideration for the acquisition, directly or indirectly, of shares in another company.
+Subscriptions amount decrease: employee share scheme
+(29) An amount equal to the amount of the company’s income under section CV 20 (Employee share schemes) or equal to the amount of income under section CV 20 for another company in the same wholly-owned group of companies, as the case may be, is subtracted from the subscriptions amount—
+  (a) for shares of the same class as the shares issued under the employee share scheme by the company; or
+  (b) if the company does not issue shares under the employee share scheme, for shares of the class most similar to the shares issued under the employee share scheme.
 
 ### CD 44 Available capital distribution amount
 Formula for calculating amount of available capital distribution
@@ -1963,7 +1998,7 @@ Income
   (b) expenditure on account of an employee that is expenditure on account of the person:
   ((bb)) the value of accommodation referred to in sections CE 1B to CE 1E:
   (c)
-  (d) a benefit received under a share purchase agreement:
+  (d) a benefit received under an employee share scheme:
   (e) directors’ fees:
   (f) compensation for loss of employment or service:
   (g) any other benefit in money.
@@ -2070,55 +2105,42 @@ Meaning of minister of religion
     (iii) whose accommodation is used as an integral part of performing their duties:
   (b) does not include a member of a religious society or order referred to in section CW 25 (Value of board for religious society members).
 
-### CE 2 Value and timing of benefits under share purchase agreements
-What this section does
-(1) This section determines the value of a benefit that an employee receives under a share purchase agreement and the allocation of the benefit to a particular income year. If restrictions apply to the disposal of shares received under a share purchase agreement, section CE 3 applies.
-If employees acquire shares
-(2) If an employee acquires shares under a share purchase agreement, the value of the benefit to the employee is the amount by which the value of the shares when they were acquired is more than the amount paid or payable for them. The employee receives the benefit in the income year in which they acquire the shares.
-If employees dispose of rights to non-associates
-(3) If an employee disposes of their rights under a share purchase agreement to a person who is not associated with them, the value of the benefit is the consideration for the disposal of the rights. The employee receives the benefit in the income year in which they dispose of the rights.
-If associates acquire shares
-(4) If, following 1 or more transactions between associated persons, an associated person acquires the shares under a share purchase agreement, the value of the benefit is the difference between the value of the shares on the date of acquisition by the associated person and the amount paid or payable for them. If the difference is negative, the value is zero. The employee receives the benefit in the income year in which the associated person acquires the shares.
-If associates dispose of rights to non-associates
-(5) If, following 1 or more transactions between associated persons, a person who is not an associated person acquires the rights under a share purchase agreement, the value of the benefit is the consideration paid for that disposal. The employee receives the benefit in the income year in which the last associated person disposes of the rights.
-If shares transferred when employees end employment or die
-(6) The value of the benefit is zero if a share purchase agreement provides unconditionally that, when the employee ends their employment or service or dies, the shares must be transferred to the employer or to the person from whom they were acquired, either without consideration or for a consideration no more than that paid by the employee.
-If benefits arise under approved schemes
-(7)
-Disposal of rights under share purchase option
-(8) For the purposes of subsection (3), a disposal of rights under a share purchase agreement includes the cancellation of a share option in return for a cash payment.
-Reduction of value of benefit in circumstances relating to non-resident
-(9) The value of a benefit arising from a period of employment is reduced, from the value that the benefit would have in the absence of this subsection,—value before reduction × period employed as non-resident ÷ period employed.
-  (a) if, when the employee acquires the shares under the share purchase agreement or disposes of the rights under the share purchase agreement, the employee is a transitional resident; and
-  (b) by an amount calculated using the formula—
-When subsection (11) applies
-(10) Subsection (11) applies when an employer to whom section RD 22(2B) (Returns for amounts of tax paid to Commissioner) and section 46(1) of the Tax Administration Act 1994 apply—
-  (a) has made an election under section RD 7B (Treatment of certain benefits under employee share agreements) to withhold and pay an amount of tax in relation to a benefit received by an employee under subsection (2) or (4); or
-  (b) is required to furnish an employer monthly schedule under section 46(6B) of that Act in relation to a benefit received by an employee under subsection (2) or (4).
+### CE 2 Benefits under employee share schemes
+Benefit
+(1) A person who is an employee share scheme beneficiary described in section CE 7(a)﻿(i) or (ii) receives a benefit for the purposes of section CE 1(1)﻿(d) in relation to shares or related rights under the employee share scheme equal to the positive amount calculated on the share scheme taxing date using the formula—share value − consideration paid + consideration received − previous income.
+Definition of items in formula
+(2) In the formula in subsection (1),—
+  (a) share value is the market value of the shares or related rights owned by an employee share scheme beneficiary on the share scheme taxing date, if the share scheme taxing date is not triggered by a transfer or cancellation of the shares or related rights:
+  (b) consideration paid is the amount of consideration paid or payable by an employee share scheme beneficiary in relation to the transfer of the shares or related rights under the employee share scheme:
+  (c) consideration received is the amount of consideration paid or payable to an employee share scheme beneficiary in relation to a transfer or cancellation of the shares or related rights under the employee share scheme, not including relevant shares or related rights under a replacement employee share scheme:
+  (d) previous income is the total amount of income under section CE 1(1)﻿(d) that the employee share scheme beneficiary has in relation to the shares or related rights before the date that is 6 months after the date of Royal assent for the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018.
+Negative amount: deduction
+(3) A negative amount calculated using the formula in subsection (1) is a deduction of the person.
+Positive and negative amount: cost of revenue account property
+(4) A positive or negative amount calculated using the formula in subsection (1) is added to the consideration paid by the person for acquiring the shares, for the purposes of section DB 23 (Cost of revenue account property).
+Apportionment
+(5) For the person’s benefit under subsection (1), the portion of that benefit calculated using the formula is treated as non-residents’ foreign-sourced income—benefit before reduction × offshore period ÷ earning period.
+Definition of items in formula
+(6) In the formula in subsection (5),—
+  (a) benefit before reduction is the amount of the benefit under subsection (1):
+  (b) offshore period is the number of days in the item earning period on which—
+    (i) the person is not resident in New Zealand; and
+    (ii) any services the person performs for the relevant employer give rise to an amount of income that is a foreign-sourced amount:
+  (c) earning period is the period ending with the vesting of shares or relevant rights in the employee share scheme beneficiary and starting with the earlier of—
+    (i) the first date used to measure the person’s right in relation to the vesting of shares or relevant rights:
+    (ii) the first date that the person has a right in relation to the vesting of shares or relevant rights.
+When subsection (8) applies
+(7) Subsection (8) applies when an employer to whom section RD 22(2B) (Returns for amounts of tax paid to Commissioner) and section 46(1) of the Tax Administration Act 1994 apply—
+  (a) has made an election under section RD 7B (Treatment of certain benefits under employee share schemes) to withhold and pay an amount of tax in relation to a benefit received by an employee share scheme beneficiary under this section; or
+  (b) is required to furnish an employer monthly schedule under section 46(6B) of the Tax Administration Act 1994 in relation to a benefit received by an employee share scheme beneficiary under this section.
 Deferral of income recognition
-(11) The employee is treated as deriving employment income in relation to the benefit in the PAYE income payment form period after the 1 in which they receive the benefit.
+(8) Despite section CE 1(1)﻿(d), the employee share scheme beneficiary is treated as deriving employment income in relation to the benefit in the PAYE income payment form period after the 1 in which they receive the benefit.
 
 ### CE 3 Restrictions on disposal of shares under share purchase agreements
-Effect of restrictions
-(1) When the benefit to an employee under a share purchase agreement is being valued, a restriction in the agreement on the disposal of the shares is taken into account only if the restriction is of a kind described in subsection (2) or (3).
-First restriction
-(2) The first restriction is one that applies for a period that ends—
-  (a) at least 8 years after the end of the tax year in which the employee receives the benefit; or
-  (b) with the date of the employee’s death.
-Second restriction
-(3) The second restriction is one that—
-  (a) applies for a period that ends—
-    (i) at least 8 years after the end of the tax year in which the employee receives the benefit; or
-    (ii) with the date of the employee’s death; and
-  (b) provides that an employee who ends their employment or service before the end of the period must unconditionally transfer some or all of the shares to the employer or to the person from whom the employee acquired them, either without consideration or for a consideration that is no more than that paid by the employee.
-Transfers of shares under relationship agreements
-(4) If a share purchase agreement does not restrict an employee from transferring the shares under a relationship agreement, but the disposal of the shares by the person to whom the shares are transferred is restricted for a period that ends at least 8 years after the end of the tax year in which the employee would otherwise have received the benefit or after the death of the employee, then the restriction is treated as applying to the employee.
+[Repealed]
 
 ### CE 4 Adjustments to value of benefits under share purchase agreements
-The Commissioner may at any time adjust the previously determined value of a benefit under a share purchase agreement if the value is reduced because—
-  (a) a restriction on disposal exists when the employee disposes of the shares that was not taken into account in valuing the benefit; or
-  (b) further consideration is required for the shares; or
-  (c) the shares are reacquired either without consideration or for a consideration no more than that paid by the employee.
+[Repealed]
 
 **Definitions**
 
@@ -2149,16 +2171,46 @@ Exclusions
   (i)
   (j) a premium for income protection insurance that an employer is liable to pay or make a contribution towards for the benefit of an employee.
 
-### CE 6 Meaning of share: when share acquired
-Meaning
-(1) In sections CE 2 to CE 4 and CE 7, share includes a convertible note.
-Use in sections CE 2 to CE 4 and CE 7
-(2) For the purposes of sections CE 2 to CE 4 and CE 7,—
-  (a) shares are treated as having been acquired on the date on which the right or option to acquire them is exercised; and
-  (b) if shares or rights are acquired or transferred under an agreement by a trustee for the benefit of an employee to whom section CE 2 applies, the employee is treated as having acquired or transferred the shares or rights.
+### CE 6 Trusts are nominees
+A trustee is treated as the nominee of a company (company A) to the extent to which the trustee’s activities relate to an employee share scheme and—
+  (a) shares or related rights in company A are issued or transferred under the scheme:
+  (b) shares or related rights are issued or transferred to company A’s employees, shareholder-employees, or associates of them, under the scheme.
 
-### CE 7 Meaning of share purchase agreement
-In sections CE 1 to CE 4, share purchase agreement means an agreement to dispose of or issue shares in a company to an employee that is entered into in connection with the employee’s employment or service, whether or not an employment relationship exists when the employee receives a benefit under the agreement.
+### CE 7 Meaning of employee share scheme
+Employee share scheme means—
+  (a) an arrangement with a purpose or effect of issuing or transferring shares in a company (company A) to a person—
+    (i) who will be, is, or has been an employee of company A or of another company that is a member of the same group of companies as company A, if the arrangement is connected to the person’s employment or service:
+    (ii) who will be, is, or has been a shareholder-employee in relation to company A or in relation to another company that is a member of the same group of companies as company A, if the arrangement is connected to the person’s employment or service:
+    (iii) who is an associate of a person described in subparagraph (i) or (ii) (person A), if the arrangement is connected to person A’s employment or service; but
+  (b) does not include an arrangement that—
+    (i) is an exempt ESS:
+    (ii) requires market value consideration to be paid by a person described in paragraph (a) for the transfer of shares in the company on the share scheme taxing date:
+    (iii) requires a person described in paragraph (a) to put shares, acquired by them for market value consideration, at risk, if the arrangement provides no protection against a fall in the value of the shares and none of the consideration for acquiring the shares is provided to the person under an agreement that it is used for acquiring the shares.
+
+### CE 7B Meaning of share scheme taxing date
+Meaning
+(1) Share scheme taxing date means, in relation to shares or related rights under an employee share scheme, the earlier of the following dates:
+  (a) the first date when the shares are held by or for the benefit of an employee share scheme beneficiary (beneficial ownership) and after which, under the provisions of the scheme,—
+    (i) there is no material risk that beneficial ownership may change or that a right or requirement in relation to the transfer or cancellation of the shares may operate; and
+    (ii) there is no benefit accruing to the employee share scheme beneficiary in relation to a fall in value of the shares; and
+    (iii) there is no material risk that there will be a change in the terms of the shares affecting the value of the shares:
+  (b) the date when the shares or related rights of an employee share scheme beneficiary are cancelled or are transferred to a person who is not associated with a beneficiary described in section CE 7(a)﻿(i) or (ii).
+Exclusions
+(2) For the purposes of applying subsection (1), the following requirements and rights are ignored:
+  (a) a right or requirement in relation to transfer by the employee share scheme beneficiary for market value consideration at the time of the transfer:
+  (b) a right or requirement that is not contemplated by the employee share scheme’s provisions:
+  (c) a right or requirement that, at the time it came into existence, had no material risk of operating or no material commercial significance:
+  (d) a right or requirement in relation to the transfer of shares, if the right or requirement is 1 that also applies to shares not under the employee share scheme.
+Example 1 – Simple vesting periodAcme Limited transfers shares worth $10,000 to a trustee on trust for an employee, Alice, of Acme Limited. Under the terms of the trust, Alice forfeits, for no consideration, any contingent interest or beneficial ownership in the shares if she leaves the employ of Acme Limited within 3 years of the transfer of the shares to the trustee. Alice stays for 3 years, and, under the terms of the trust, the shares are transferred absolutely to her on her 3rd anniversary of employment. It is a material risk, for the 3 years after the transfer to the trustee, that the terms of the trust will operate to forfeit any contingent interest or beneficial ownership in the shares. Consequently, the share scheme taxing date for Alice’s shares is her 3rd anniversary of employment.
+Example 2 – Vesting subject to misconductAcme Limited transfers shares worth $10,000 to a trustee on trust for an employee, Bob, of Acme Limited. Under the terms of the trust, Bob forfeits, for no consideration, any contingent interest or beneficial ownership in the shares if he leaves the employ of Acme Limited because he is dismissed for serious misconduct within 3 years of the transfer of the shares to the trustee. It is not a material risk that the terms of the trust will operate to forfeit any contingent interest or beneficial ownership in the shares. The risk that Bob will be dismissed for serious misconduct within 3 years is not material. Consequently, the share scheme taxing date for Bob’s shares is the date when the shares are transferred to the trustee.
+
+### CE 7C Meaning of employee share scheme beneficiary
+Employee share scheme beneficiary means, for an employee share scheme,—
+  (a) a person (person A) who is described in section CE 7(a):
+  (b) a person who is an associate of person A.
+
+### CE 7D Meaning of replacement employee share scheme
+Replacement employee share scheme means, for an employee share scheme (the old scheme), another employee share scheme to which members of the old scheme are transferred.
 
 ### CE 8 Attributed income from personal services
 When this section applies
@@ -2768,7 +2820,7 @@ General rule
     (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
-    (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemption for employee share purchase scheme of grey list company):
+    (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
     (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
     (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
@@ -3339,6 +3391,9 @@ Income
 (2) For the income year to which the LE 1(4B) income relates, the person derives an amount of income equal to the amount of the tax credit for the imputation credit under section LE 8B (Dividend from certain FIF interests) except if the LE 1(4B) income relates to FIF income or loss calculated under—
   (a) the comparative value method; or
   (b) the deemed rate of return method.
+
+### CV 20 Employee share schemes
+An amount of income that a person has under section DV 27(9) (Employee share schemes) is income of the person.
 
 ### Subpart CW — Exempt income
 
@@ -5284,8 +5339,15 @@ An amount is excluded income if it is treated as excluded income under subpart F
 
 ### Subpart CZ — Terminating provisions
 
-### CZ 1 Share purchase agreement income before 19 July 1968
-In sections CE 1 to CE 4 (which relate to employment income), share purchase agreement does not include any agreement entered into before 19 July 1968.
+### CZ 1 Grandparented shares under employee share schemes
+When this section applies
+(1) This section applies when, for shares under an employee share scheme,—
+  (a) the shares were granted or acquired under the employee share scheme before the date that is 6 months after the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent, and—
+    (i) the shares were granted or acquired for purposes not including the purpose of avoiding the future application of the employee share scheme provisions in that Act (the new ESS provisions); and
+    (ii) the share scheme taxing date for the shares is before 1 April 2022:
+  (b) the shares were granted or acquired under the employee share scheme before 12 May 2016.
+Grandparenting
+(2) The new ESS provisions do not apply for the shares. Instead, the provisions of this Act that would apply ignoring the enactment of the new ESS provisions apply for the shares.
 
 ### CZ 2 Mining company’s 1970–71 tax year
 [Repealed]
@@ -8038,7 +8100,7 @@ General rule
     (v) the exemption in section EX 35 (Exemption for interest in FIF resident in Australia):
     (vi) the 10-year exemption for a venture capital company emigrating to a grey list country in section EX 36 (Venture capital company emigrating to grey list country: 10-year exemption):
     (vii) the 10-year exemption for a grey list company owning a New Zealand venture capital company in section EX 37 (Grey list company owning New Zealand venture capital company: 10-year exemption):
-    (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemption for employee share purchase scheme of grey list company):
+    (viii) the exemption for an employee share purchase scheme of a grey list company in section EX 38 (Exemptions for employee share schemes):
     (ix) the terminating exemption for a grey list company with numerous New Zealand shareholders in section EX 39 (Terminating exemption for grey list company with numerous New Zealand shareholders):
     (x) the terminating exemption for a grey list company investing in Australasian equities in section EZ 32 (Terminating exemption for grey list FIF investing in Australasian listed equities):
     (xi) the foreign exchange control exemption in section EX 40 (Foreign exchange control exemption):
@@ -9568,6 +9630,34 @@ Allocation of deduction
 (2) The deduction is allocated to the income year in which the person incurs the expenditure of the R&D repayment tax.
 Link with subpart DA
 (3) This section overrides the general permission and the general limitations.
+
+### DV 27 Employee share schemes
+When this section applies
+(1) This section applies when a person is party to an employee share scheme.
+No deduction except as provided by this section
+(2) Except as provided by this section, the person is denied a deduction for an amount of expenditure or loss for an income year incurred in relation to the employee share scheme.
+Interest, establishment and management
+(3) Subsection (2) does not apply to an amount of expenditure or loss to the extent to which the amount relates to—
+  (a) a loan or interest:
+  (b) establishing or managing the employee share scheme.
+Deduction under section CE 2(3)
+(4) The person is allowed a deduction for the amount of the deduction they are allowed under section CE 2(3) (Benefits under employee share schemes) for the income year.
+Employment income
+(5) The person is allowed a deduction for an amount of expenditure or loss incurred on employment income other than under section CE 1(1)﻿(d) (Amounts derived in connection with employment).
+Deduction for benefit
+(6) If the person is the employing or contracting company for an employee share scheme beneficiary described in section CE 7(a)﻿(i) or (ii) (Meaning of employee share scheme) (the employee), the person has an amount of expenditure or loss calculated using the formula in subsection (7).
+Formula
+(7) For the purposes of subsection (6), the amount of the expenditure or loss is the positive amount calculated using the formula—employee amount − previous deductions.
+Definition of items in formula
+(8) In the formula,—
+  (a) employee amount is the amount for the employee calculated under the formula in section CE 2(1):
+  (b) previous deductions is the total amount of deductions that have been allowed to a party to the employee share scheme or an associate for expenditure or loss incurred—
+    (i) in relation to the employee amount; and
+    (ii) before the date that is 6 months after the date of Royal assent for the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018.
+Income
+(9) A negative amount calculated using the formula in subsection (7) is an amount of income of the person.
+Link with subpart DA
+(10) Subsection (4) supplements the general permission. Subsection (4) overrides the employment limitation.
 
 ### DV 28 Exempt employee share schemes
 When this section applies
@@ -17204,8 +17294,9 @@ A person's rights in a FIF in an income year are not an attributing interest if�
     (i) under a venture investment agreement; and
     (ii) at the same time and on the same terms as an acquisition of an interest in the FIF by the Venture Investment Fund or a company owned by the Venture Investment Fund.
 
-### EX 38 Exemption for employee share purchase scheme of grey list company
-A person’s rights in a FIF in an income year are not an attributing interest if—
+### EX 38 Exemptions for employee share schemes
+Grey list companies
+(1) A person’s rights in a FIF in an income year are not an attributing interest if—
   (a) the person is a natural person; and
   (b) the rights are a direct income interest; and
   (c) the FIF is a grey list company; and
@@ -17213,11 +17304,17 @@ A person’s rights in a FIF in an income year are not an attributing interest i
   (e) at the time the person acquires the shares, the FIF—
     (i) employs the person:
     (ii) owns, directly or indirectly, the person’s employer; and
-  (f) the person acquires the shares under a share purchase agreement; and
-  (g) the share purchase agreement includes a restriction on the disposal of the shares; and
+  (f) the person acquires the shares under a employee share scheme; and
+  (g) the employee share scheme includes a restriction on the disposal of the shares; and
   (h) at the beginning of the year, the period of the restriction—
     (i) has not expired:
     (ii) has expired for a period of less than 6 months.
+Share scheme taxing date
+(2) A person’s rights in a FIF in an income year are not an attributing interest to the extent to which—
+  (a) the rights are a direct income interest; and
+  (b) section EX 30(1)﻿(c) does not apply; and
+  (c) the person acquires the shares or related interests under an employee share scheme; and
+  (d) at the beginning of the year, the share scheme taxing date for the shares or related interests has not passed.
 
 ### EX 39 Terminating exemption for grey list company with numerous New Zealand shareholders
 [Repealed]
@@ -24858,6 +24955,12 @@ Arrangement treated as returning share transfer
   (a) the arrangement as a returning share transfer; and
   (b) a person affected by the arrangement as a share user or a share supplier, under the returning share transfer.
 
+### GB 49B Employee share schemes
+When this section applies
+(1) This section applies when a person enters into an arrangement and the purpose or effect of the arrangement is to defeat the intent and application of the definition of employee share scheme or the definition of share scheme taxing date in relation to an employee share scheme.
+Reconstruction
+(2) The Commissioner may classify the arrangement or set a share scheme taxing date as the Commissioner considers appropriate to counteract a tax advantage obtained by the person from or under the agreement.
+
 ### GB 50 Arrangements involving partners and owners
 When this section applies
 (1) This section applies when—
@@ -26409,9 +26512,7 @@ Trusts for retirement benefits for employees
   (a) the trust is established or created mainly to provide retirement benefits to natural persons; and
   (b) the trust is neither a foreign superannuation scheme nor a superannuation fund.
 Employee share purchase agreements
-(3B) Despite subsection (2), an employer is not a settlor for the purposes of the trust rules in relation to a payment made by them to the trustee of an employee share purchase agreement if—
-  (a) some or all of the payment is used by the trustee to acquire shares under the terms of the employee share purchase agreement; and
-  (b) an amount that is less than or equal to the payment used by the trustee would be income of an employee under section CE 1(1)﻿(d) (Amounts derived in connection with employment).
+(3B)
 Contributions to foreign superannuation scheme
 (3C) Despite subsection (2), a person who makes a contribution to a trust that is a foreign superannuation scheme is not a settlor of the trust.
 Indirect settlement
@@ -37173,7 +37274,7 @@ When this section applies
     (ii) a pension:
     (iii) a retiring or other allowance:
     (iv) an annuity; or
-  (d) a benefit under section CE 2(2) and (4) (Value and timing of benefits under share purchase agreements) in relation to which the employer has made an election under section RD 7B.
+  (d) a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B.
 Value or amount included in salary or wages
 (2) For the purposes of subsection (1)﻿(a) to (c), the value of the benefit or amount of the payment is treated as—
   (a) accruing from day to day; and
@@ -37181,8 +37282,8 @@ Value or amount included in salary or wages
 When non-cash benefit treated as paid
 (3) If the employee receives the benefit otherwise than in cash, the value is treated as paid—
   (a) for a benefit referred to in subsection (1)﻿(d),—
-    (i) for an employer described in section CE 2(10) (Value and timing of benefits under share purchase agreements), on the first day of the PAYE income payment form period in which the employee derives the benefit under section CE 2(11) (Value and timing of benefits under share purchase agreements); or
-    (ii) for employers not described in section CE 2(10), on the date the benefit vests in the employee:
+    (i) for an employer described in section CE 2(7) (Benefits under employee share schemes), on the first day of the PAYE income payment form period in which the employee derives the benefit under section CE 2(8); or
+    (ii) for employers not described in section CE 2(7), on the date the benefit vests in the employee:
   (ab)
   (b) for a benefit referred to in subsection (1)﻿(a) to (c) that constitutes the only salary or wages of the employee, on the last day of the pay period:
   (c) for a benefit that paragraphs (a) and (b) do not apply to, when the last amount of salary or wages for the pay period is paid.
@@ -37200,7 +37301,7 @@ Meaning
     (ii) as a redundancy payment; or
     (iii) when the person retires from employment; or
     (iv) as a result of a retrospective increase in salary or wages, but only to the extent to which it accrues from the start of the increase until the start of the first pay period in which the increase is included in salary or wages; and
-  (bb) includes a benefit under section CE 2(2) or (4) (Value and timing of benefits under share purchase agreements) in relation to which the employer has made an election under section RD 7B to withhold an amount of tax; and
+  (bb) includes a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B to withhold an amount of tax; and
   (c) includes an amount of income that a person derives under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements) if the income is derived in connection with an employment relationship between the person and the person who paid the amount; and
   (d) does not include a payment of exempt income.
 Limit on retrospective increase in salary or wages
@@ -37217,15 +37318,13 @@ Meaning of employment agreement
   (a) it includes an individual employment contract continued in force by section 242(1) of that Act; and
   (b) it excludes a contract for services described in paragraph (b) of the definition.
 
-### RD 7B Treatment of certain benefits under employee share agreements
+### RD 7B Treatment of certain benefits under employee share schemes
 When this section applies
-(1) This section applies, for an employee or a former employee, when—
-  (a) an employer has a share purchase agreement that applies for a class of their employees; and
-  (b) the employee who is a member of the class receives a benefit described in section CE 2(2) or (4) (Value and timing of benefits under share purchase agreements) in relation to the agreement.
+(1) This section applies for an employee or a former employee who receives a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to an employee share scheme.
 What this section does not apply to
-(2) This section does not apply to a benefit arising under a share purchase scheme approved by the Commissioner on meeting the criteria set out in sections DC 13 and DC 14 (which relate to loans to employees under share purchase schemes).
+(2)
 Withholding amounts of tax
-(3) The employer may choose, in relation to the share purchase agreement, to withhold and pay an amount of tax for the benefit. The employer makes the election by—
+(3) The employer may choose, in relation to the employee share scheme, to withhold and pay an amount of tax for the benefit. The employer makes the election by—
   (a) calculating the amount of tax that must be withheld and paying the amount to the Commissioner as described in section RD 4(1); and
   (b) including the amount of the benefit in their employer monthly schedule under section RD 22(1); and
   (c) making the disclosure referred to in paragraph (b) within the time required under section RD 6(3)﻿(a).
@@ -40837,7 +40936,7 @@ In this Act, unless the context requires otherwise,—
     (c) in sections CB 29 (Disposal of minerals) and DB 30 (Cost of certain minerals), includes—
       (i) to grant a licence or easement:
       (ii) to grant a right to take minerals from land:
-    (d) is defined in section CE 2 (Value and timing of benefits under share purchase agreements) for the purposes of that section:
+    (d)
     (e) in sections CT 1, DT 2 to DT 4, DT 8 to DT 11, DT 13, DT 19, DZ 6, EJ 15, EJ 16, EJ 17, EZ 3, and GB 20 (which relate to mining),—
       (i) means to sell or transfer an asset, voluntarily or involuntarily; and
       (ii) includes to lose or destroy an asset:
@@ -40935,6 +41034,8 @@ In this Act, unless the context requires otherwise,—
     (db) does not include an owner of a look-through company or a person who has a look-through interest for a look-through company, unless the owner or person is a working owner:
     (e) for an employer, means an employee of the employer
   - **employee share loan** is defined in section CX 35 (Meaning of employee share loan)
+  - **employee share scheme** is defined in section CE 7 (Meaning of employee share scheme)
+    - **employee share scheme beneficiary** is defined in section CE 7C (Meaning of employee share scheme beneficiary)
   - **employee’s superannuation accumulation** means the total superannuation contributions, together with any return on them, to which the complying fund rules apply, and are—
     (a) employer's superannuation cash contributions:
     (b) the amount of a tax credit under section MK 3 (Payment of tax credits) that is treated as a Crown contribution for an employee under section MK 5 (Crown contributions for members):
@@ -42748,7 +42849,7 @@ In this Act, unless the context requires otherwise,—
     (a) means a scheme comprising 1 or more steps undertaken by a company by which it—
       (i) notifies some or all of its shareholders that shares are to be issued on a particular date; and
       (ii) gives the notified shareholders an option to have some or all of the shares issued to them repurchased by the company:
-    (b) does not include an issue of shares under a share purchase agreement or a share purchase scheme
+    (b) does not include an issue of shares under a employee share scheme or a share purchase scheme
   - **profit participation policy** —
     (a) means a class of life insurance policy—
       (i) that has an asset base; and
@@ -42941,6 +43042,7 @@ In this Act, unless the context requires otherwise,—
   - **rent** is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section
   - **repairs** , in sections CC 2 (Non-compliance with covenant for repair) and DB 21 (Amounts paid for non-compliance with covenant for repair), includes painting and general maintenance
   - **replaced area fraction** is defined in section DO 9 (Meaning of replaced area fraction and diminished value) for the purposes of sections DO 5 and DO 6 (which relate to horticultural plants)
+  - **replacement employee share scheme** is defined in section CE 7D (Meaning of replacement employee share scheme)
   - **replacement ETS unit**
   - **replacement forest land emissions unit** means an emissions unit acquired by a person if—
     (a) the person has previously disposed of a post-1989 forest land emissions unit or forest sink emissions unit other than by—
@@ -43152,7 +43254,7 @@ In this Act, unless the context requires otherwise,—
       (ii) the interest does not result from an investment from a designated source; and
       (iii) the investor’s interest does not result from an investment made in the fund on or before 22 June 1983, including an amount treated as invested at that date as pre-1983 investments under section HR 3(8) (Definitions for section HR 2: group investment funds):
     (e) does not include a withdrawable share in a building society, except in the definitions of investment society dividend and withdrawable share:
-    (f) is further defined in section CE 6 (Meaning of share: when share acquired) for the purposes of sections CE 2 to CE 4 and CE 7 (which relate to share purchase agreements):
+    (f)
     (g) is further defined in section CW 26F (Meaning of share) for the purposes of section CW 26C (Meaning of exempt ESS)
   - **share-lending arrangement** means an arrangement, entered into on or after 1 July 2006, that is a returning share transfer, and—
     (a) the agreed term of the arrangement is 1 year or less; and
@@ -43168,9 +43270,10 @@ In this Act, unless the context requires otherwise,—
       (ii) by a share supplier or an associated person for the re-transfer of the original share or an identical share to them; and
     (b) is not a replacement payment
   - **share-lending right** means, for a share supplier under a share-lending arrangement, a conditional or unconditional right to acquire the original share or an identical share under the share-lending arrangement
-  - **share purchase agreement** is defined in sections CE 7 (Meaning of share purchase agreement) and CZ 1 (Share purchase agreement income before 19 July 1968) for the purposes of sections CE 1 to CE 4 (which relate to employment income), EX 38 (Exemption for employee share purchase scheme of grey list company), HC 27B(3B) (Who is a settlor?), and the definition of
+  - **share purchase agreement**
   - **share purchase scheme**
   - **share reorganisation** , in the FIF rules and for a person and an attributing interest in a FIF, means an action of the FIF that causes an increase or reduction, other than for consideration, of the attributing interests held by persons, including the person, who hold attributing interests in the FIF immediately before the action
+  - **share scheme taxing date** is defined in section CE 7B (Meaning of share scheme taxing date)
   - **share supplier** means a person, described as a share supplier, in the definition of , from whom a share user acquires an original share under a returning share transfer
   - **share user** means a person, described as a share user in the definition of , who acquires an original share under a returning share transfer
   - **shareholder** —
@@ -43194,12 +43297,9 @@ In this Act, unless the context requires otherwise,—
     (c) a variation in the capital of the company; or
     (d) the appointment of a director of the company
   - **shareholder dividend statement** means a statement required by section 29 of the Tax Administration Act 1994 to be given by a company to a shareholder to whom is paid a dividend referred to in that section
-  - **shareholder-employee** ,—
-    (a) in sections EA 4 (Deferred payment of employment income) and EI 9 (Matching rule for employment income of shareholder-employee), and in the FBT rules and section 177A of the Tax Administration Act 1994, means a person who receives or is entitled to receive—
-      (i) salary or wages to which section RD 3B or RD 3C (which relate to income other than PAYE) applies:
-      (ii) income, other than from a PAYE income payment, to which section RD 3B or RD 3C applies
-    (b)
-    (c)
+  - **shareholder-employee** means a person who receives or is entitled to receive—
+    (a) salary or wages to which section RD 3B or RD 3C (which relate to income other than PAYE) applies:
+    (b) income, other than from a PAYE income payment, to which section RD 3B or RD 3C applies
   - **shareholder FDP ratio**
   - **shareholder portion** is defined in section GB 52 (Arrangements involving residential land: companies’ shares) for the purposes of that section
   - **shareholding** is defined in—
@@ -45687,7 +45787,7 @@ expenditure related to the acquisition of land
 | Annual amount, calculated in accordance with section MF 3(2)﻿(a) | Annualised equivalent amount for section MF 3(2)﻿(b) |
 | --- | --- |
 |  | $ |
-| Amount does not exceed $42,700 | $42,700 |
+| Amount does not exceed $42,700 | 42,700 |
 | Amount exceeds $42,700 but does not exceed $44,000 | 44,000 |
 | Amount exceeds $44,000 but does not exceed $45,500 | 45,500 |
 | Amount exceeds $45,500 but does not exceed $47,000 | 47,000 |
