@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2018-08-01_
+_Consolidation as at 2018-09-29_
 
 > Title
 
@@ -974,7 +974,7 @@ Education service chief executives and employees are immune from liability in ci
 ### 77C Performance of teachers
 (1) The chief executive of the Ministry of Education may from time to time prescribe matters that are to be taken into account by employers in assessing the performance of teachers.
 (2) Before the chief executive of the Ministry of Education prescribes any matters under subsection (1), the chief executive of the Ministry shall consult with—
-  (a) the Education Council of Aotearoa New Zealand; and
+  (a) the Teaching Council of Aotearoa New Zealand; and
   (b) the chief executive of the Education Review Office; and
   (c) representatives of employers of teachers; and
   (d) the organisations of teachers that represent teachers who will be subject to the matters prescribed under this section.
