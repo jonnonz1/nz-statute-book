@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-09-29_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -93,6 +93,7 @@ Sections 8(3) to (7), 9, 21(1), 25(1) and (3), and 29 of the Remuneration Author
   (c) any other considerations that the Remuneration Authority may determine.
 (3) This section must be read in conjunction with section 16(2).
 (4) Expenses may be incurred, without further appropriation than this section, to meet the salaries and allowances determined under this section and payments under section 45(2) and (3).
+(5) The Remuneration Authority may not make a determination under this section in respect of the salaries and allowances to be paid to members of Parliament for the period from 1 July 2018 to 30 June 2019.
 
 ### 9 How salaries and allowances determined
 (1) The salaries and allowances under section 8 must be determined under section 12 of the Remuneration Authority Act 1977, and the relevant sections of that Act apply accordingly (see, for example, sections 16 and 17A to 19).
