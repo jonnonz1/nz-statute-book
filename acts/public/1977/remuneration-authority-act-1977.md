@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-09-29_
 
 > Title
 
@@ -92,6 +92,9 @@ There shall from time to time be appointed by the chief executive of the Departm
   (b) the contribution that the member must make to that retirement scheme in order to be entitled to any of the subsidy referred to in paragraph (a), expressed as a ratio of the subsidy to the member's contribution.
 (2AB) For the avoidance of doubt, the superannuation subsidy may only be paid in accordance with subsection (2A)﻿(a) if a member makes a contribution in the actual year to which the subsidy relates, and a member may not, in any year, make a lump sum payment of contributions in respect of past years and claim an entitlement to a subsidy in respect of the contributions paid in that year that relates to past years.
 (2B) For the avoidance of doubt, it is hereby declared that the Crown's liability to any retirement scheme to which a member referred to in subsection (1)﻿(ba) chooses to contribute shall be limited to payment of such subsidy as may be determined pursuant to subsection (2A).
+(2C) The Authority may not make a determination under subsection (1)﻿(b) or (ba) on or after the commencement of the Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2018 that changes—
+  (a) the maximum amount payable by way of superannuation subsidy in respect of a member of Parliament in the period from 1 July 2018 to 30 June 2019; or
+  (b) the contribution that the member must make to the retirement scheme in the period from 1 July 2018 to 30 June 2019 in order to be entitled to any of the subsidy.
 (2C)
 (3) Except as provided in this Act, where the remuneration due to any person is fixed under this Act, no amount in excess of the remuneration so fixed for the time being shall be granted to any person on account of that remuneration.
 
@@ -246,6 +249,7 @@ Before making a determination under section 12(1)﻿(a)﻿(i), the Authority mus
   (a) in the case of the salaries of members of Parliament, at intervals of not more than 12 months in respect of each period of 12 months ending on 30 June; and
   (b) in the case of the allowances of members of Parliament, at intervals of not more than 3 years; and
   (c) in any other case, at intervals of not more than 3 years.
+(6) Despite subsection (5), no determination may be issued in respect of the salaries or allowances of members of Parliament for the period from 1 July 2018 to 30 June 2019.
 
 ### 20 Interim adjustments
 [Repealed]
@@ -343,6 +347,11 @@ Clause 5 and Schedule 1 of the Parliamentary Salaries and Allowances Determinati
 (2) The determination must be made in accordance with this Act and the Members of Parliament (Remuneration and Services) Act 2013, as amended by the Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2015.
 (3) For the purposes of section 18B(2), the salary rates for the previous 12-month period (as defined in that section) are those in Schedule 1 of the Parliamentary Salaries and Allowances Determination 2013.
 (4) To avoid doubt, the determination required by subclause (1) may be made before or after 30 June 2015 and with effect for the period described in subclause (1), despite the expiry date specified in clause 2(1)﻿(b) and the requirement in section 19(2) that a determination must continue in force at least until the close of its expiry date.
+
+### Part 2 — Provisions relating to Remuneration Authority (Members of Parliament Remuneration) Amendment Act 2018
+
+### 5 Parliamentary Salaries and Allowances Determination 2017 has effect for period 1 July 2018 to 30 June 2019
+The Parliamentary Salaries and Allowances Determination 2017 continues to apply as if the expiry date specified in clause 3 of the determination were 30 June 2019.
 
 ## Schedule 1 — Corporations and bodies whose highest paid executive officers' remuneration is to be determined by Authority
 
