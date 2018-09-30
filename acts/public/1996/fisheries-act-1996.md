@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-09-30_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -6360,12 +6360,6 @@ All positions and directions described in this schedule are based on a geographi
 | CRA8 | 3 |
 | CRA9 | 3 |
 | CRA10 | 3 |
-| LFE11 | 2 |
-| LFE12 | 2 |
-| LFE13 | 2 |
-| LFE14 | 2 |
-| LFE15 | 2 |
-| LFE16 | 2 |
 | OYS7 | 3 |
 | PAU1 | 1 |
 | PAU2 | 1 |
@@ -6380,12 +6374,6 @@ All positions and directions described in this schedule are based on a geographi
 | PAU10 | 1 |
 | SCA1 | 3 |
 | SCA7 | 3 |
-| SFE11 | 2 |
-| SFE12 | 2 |
-| SFE13 | 2 |
-| SFE14 | 2 |
-| SFE15 | 2 |
-| SFE16 | 2 |
 
 | Stock | Minimumholding(oysters) |
 | --- | --- |
