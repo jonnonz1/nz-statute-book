@@ -1,5 +1,5 @@
 # Human Tissue Act 2008
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Human Tissue Act 2008.
@@ -65,7 +65,7 @@ In this Act, unless the context otherwise requires,—
   - **ethics committee** means an ethics committee—
     (a) established by, or appointed under, an enactment; or
     (b) approved by the Director-General
-  - **exportation** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **exportation** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **gamete** means—
     (a) an egg or a sperm, whether mature or not; or
     (b) any other cell (whether naturally occurring or artificially formed or modified) that—
@@ -83,7 +83,7 @@ In this Act, unless the context otherwise requires,—
       (i) spouse, civil union partner, or de facto partner of the individual:
       (ii) child, parent, guardian, grandparent, brother, or sister of the individual:
       (iii) stepchild, step-parent, stepbrother, or stepsister of the individual
-  - **importation** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **importation** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **informed consent** has the meaning given to it by section 9
   - **informed objection** has the meaning given to it by section 9
   - **inspector** , in relation to a school of anatomy, means a person appointed under section 80 to be an inspector of that school of anatomy
