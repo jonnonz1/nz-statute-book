@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -1379,11 +1379,11 @@ Every constable has all, and may exercise any, of the powers of an enforcement o
 ### 135 Interpretation
 In this subpart and section 204, unless the context otherwise requires,—
   - **accepted notice** means a notice given under section 137 that has been accepted by the chief executive under section 139
-  - **chief executive** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **chief executive** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **claimant** means a person who gives a notice under section 137
-  - **control of the Customs** has the same meaning as in section 20 of the Customs and Excise Act 1996
+  - **control of the Customs** is to be read in accordance with the definition of subject to the control of Customs in section 6 of the Customs and Excise Act 2018
   - **Customs** means the New Zealand Customs Service
-  - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **infringing sign** means a sign that is—
     (a) identical with a trade mark in respect of which a notice has been given under section 137 and is used on or in physical relation to goods that are identical with goods in respect of which the trade mark is registered; or
     (b) identical with such a trade mark and is used on or in physical relation to goods that are similar to goods in respect of which the trade mark is registered, if that use would be likely to deceive or confuse; or
@@ -1567,7 +1567,7 @@ The court may, on an application by any person, make an order that—
     (i) by delivering it to him or her in person; or
     (ii) by posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) by sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (iv) if the person is a registered user of a registered user system (within the meaning of section 322 of the Customs and Excise Act 2018), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the registered user system in relation to that person.
     (v) by emailing it to the person at an email address that is used by the person.
 (2A) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 (3) A Customs officer to whom a document is produced for inspection may do 1 or more of the following:
@@ -1585,7 +1585,7 @@ The court may, on an application by any person, make an order that—
     (i) by delivering it to him or her in person; or
     (ii) by posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) by sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (iv) if the person is a registered user of a registered user system (within the meaning of section 322 of the Customs and Excise Act 2018), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the registered user system in relation to that person.
     (v) by emailing it to the person at an email address that is used by the person.
 (3) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 
