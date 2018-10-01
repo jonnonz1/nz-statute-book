@@ -1,5 +1,5 @@
 # Cultural Property (Protection in Armed Conflict) Act 2012
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Cultural Property (Protection in Armed Conflict) Act 2012.
@@ -269,22 +269,23 @@ In this Part, unless the context otherwise requires,—
 (2) The forfeiture takes effect when the property is seized.
 (3) However, property is not liable to be seized or forfeited under this Part if it is imported into New Zealand before the commencement of this Part.
 
-### 20 Application of Customs and Excise Act 1996
-(1) The provisions of the Customs and Excise Act 1996 apply to smuggled property, or property suspected of being smuggled property, as they apply to goods forfeited, or goods suspected of being forfeited, under that Act.
+### 20 Application of Customs and Excise Act 2018
+(1) The provisions of the Customs and Excise Act 2018 apply to smuggled property, or property suspected of being smuggled property, as they apply to goods forfeited, or goods suspected of being forfeited, under that Act.
 (2) However, the following provisions of that Act do not apply to such property:
-  (a) section 229 (which relates to delivery of goods seized on deposit of value):
-  (b) sections 231(3)﻿(b), 233(1)﻿(c), 234, 235, and 235C(b)﻿(ii) (which relate to the grant of relief):
-  (c) section 236(2) to (4) (which relate to orders for the restoration of goods forfeited):
-  (d) section 237 (which relates to the disposal of forfeited goods).
-(3) Subsection (2) has effect whether or not the property is unlawfully imported, or unlawfully exported, within the meaning of the Customs and Excise Act 1996.
+  (a) section 182 (which relates to delivery of goods seized on deposit of value):
+  (b) section 186(b)﻿(ii) and clauses 1(3)﻿(b), 4(2)﻿(b), and 6 of Schedule 5 (which relate to the grant of relief):
+  (c) section 189 (which relates to the disposal of forfeited goods).
+(3) Subsection (2) has effect whether or not the property is unlawfully imported, or unlawfully exported, within the meaning of the Customs and Excise Act 2018.
 (4) The provisions applied by subsection (1) have effect subject to the following modifications:
-  (a) section 226 has effect as if—
-    (i) subsection (3) read Property liable to seizure by virtue of Part 3 of the Cultural Property (Protection in Armed Conflict) Act 2012 may be seized at any time after it becomes so liable.; and
-    (ii) subsection (4) were omitted:
-  (b) section 227(1) has effect as if for prescribed form there were substituted the form prescribed by regulations made under the Cultural Property (Protection in Armed Conflict) Act 2012:
-  (c) section 231(1) has effect as if for section 226 there were substituted Part 3 of the Cultural Property (Protection in Armed Conflict) Act 2012:
-  (d) section 236(1) has effect as if for the words from the beginning to that offence there were substituted The conviction of any person for an offence against section 17 of the Cultural Property (Protection in Armed Conflict) Act 2012.
-(5) The provisions of the Customs and Excise Act 1996 relating to the issue and execution of warrants (including emergency warrants) apply to property that is liable to seizure by virtue of subsection (1) as they apply to things that are liable to seizure under that Act.
+  (a) section 178 has effect as if—
+    (i) section 178(2) read “Property liable to seizure by virtue of Part 3 of the Cultural Property (Protection in Armed Conflict) Act 2012 may be seized at any time after it becomes so liable.”; and
+    (ii) section 178(3) were omitted:
+  (b) section 181(2)﻿(a) has effect as if the reference to the prescribed form were a reference to the form prescribed by regulations made under the Cultural Property (Protection in Armed Conflict) Act 2012:
+  (c) subsection (5) of this section applies instead of section 188.
+(5) On conviction of a person for an offence against section 17 of this Act, any of the following things that has been seized under the Customs and Excise Act 2018 is condemned to the Crown:
+  (a) the smuggled property in respect of which the offence was committed:
+  (b) any goods forfeited under section 176(3) or (4) of the Customs and Excise Act 2018.
+(6) The provisions of the Customs and Excise Act 2018 relating to the issue and execution of warrants apply to property that is liable to seizure by virtue of subsection (1) as they apply to things that are liable to seizure under that Act.
 
 ### 21 Police powers of entry and search
 (1) The power in subsection (2) is exercisable if an issuing officer is satisfied that there are reasonable grounds for believing that there is in or on a place or thing—
@@ -421,9 +422,9 @@ In this Part, unless the context otherwise requires,—
   (a) section 26(2); or
   (b) section 27.
 
-### 29 Seizure to be treated as seizure under Customs and Excise Act 1996
-(1) Any item seized in the execution of a search warrant is to be treated for the purposes of Part 14 of the Customs and Excise Act 1996 as having been seized under section 226 of that Act (as applied by this Act).
-(2) A notice provided under section 27 is to be treated for those purposes as having been given under section 227 of that Act.
+### 29 Seizure to be treated as seizure under Customs and Excise Act 2018
+(1) Any item seized in the execution of a search warrant is to be treated for the purposes of subpart 9 of Part 3 of the Customs and Excise Act 2018 as having been seized under section 178 of that Act (as applied by this Act).
+(2) A notice provided under section 27 is to be treated for those purposes as having been given under section 181 of that Act.
 
 ### 30 Relationship with other powers
 The powers in this Part to issue and execute a search warrant are in addition to any other powers of entry, search, or seizure that may exist apart from this Part.
@@ -442,7 +443,7 @@ The powers in this Part to issue and execute a search warrant are in addition to
 ### 32 Application for compensation
 (1) If smuggled property is forfeited, a good faith purchaser of the property may apply to a court of competent jurisdiction for an assessment of compensation.
 (2) The application must be made—
-  (a) within the period of 3 months beginning with the date on which notice of seizure is given (or treated as having been given) to the good faith purchaser under section 227 of the Customs and Excise Act 1996; or
+  (a) within the period of 3 months beginning with the date on which notice of seizure is given (or treated as having been given) to the good faith purchaser under section 181 of the Customs and Excise Act 2018; or
   (b) if the good faith purchaser does not receive notice under that section, within the period of 6 months beginning with the date of seizure; or
   (c) within such further time as the court may allow.
 (3) Notice of the application must be served on the Minister in accordance with rules of court.
