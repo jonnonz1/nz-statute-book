@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -2504,8 +2504,8 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (d) the prescribed Motorcycle Safety levy; and
   (e) premiums payable under Part 11 that relate to motor vehicle injuries.
 (3) The levy payable under subsection (2)﻿(c) is payable—
-  (a) on any fuel (or any category of fuel) specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) that is prescribed by regulations made under this Act; or
-  (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), on any motor spirit in respect of which excise duty or excise-equivalent duty is for the time being payable under the Customs and Excise Act 1996.
+  (a) on any fuel (or any category of fuel) specified in the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018) that is prescribed by regulations made under this Act; or
+  (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), on any motor spirit in respect of which excise duty or excise-equivalent duty is for the time being payable under the Customs and Excise Act 2018.
 (4)
 (5) The funds in the Motor Vehicle Account must be applied to meet the costs of—
   (a) entitlements in respect of persons who have cover for personal injury that is a motor vehicle injury; and
@@ -2527,7 +2527,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (3A) Subsection (3) does not limit or affect subsection (1).
 (4) The levy payable under section 213(2)﻿(c) is payable—
   (a) at the rate or rates per litre or other unit prescribed by regulations made under this Act; or
-  (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), at the rate of 5.08 cents per litre of motor spirit in respect of which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 1996.
+  (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), at the rate of 5.08 cents per litre of motor spirit in respect of which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 2018.
 (4A) In this section and in section 213, a reference to excise duty or excise-equivalent duty being payable includes a reference to excise duty or excise-equivalent duty being payable except that the rate of duty is zero.
 (4B) The levy must be paid to the New Zealand Customs Service—
   (a) by the person who would be liable to pay excise duty or excise-equivalent duty if any were payable; and
