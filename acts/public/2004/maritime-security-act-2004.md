@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2018-05-27_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -53,7 +53,7 @@ In this Act, unless the context otherwise requires,—
     (a) the Annex and Appendix to that Convention; and
     (b) all amendments of that Convention; and
     (c) all protocols to that Convention
-  - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **declaration of security** means an agreement between a ship and a port facility, or another ship, with which it interfaces that specifies the security measures each must implement
   - **Designated Authority** means the authority appointed under section 7
   - **high-speed craft** means a craft capable of a maximum speed in metres per second equal to or exceeding—3.70.1667where is the displacement corresponding to the design waterline (m3)
