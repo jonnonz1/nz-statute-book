@@ -1,5 +1,5 @@
 # Chemical Weapons (Prohibition) Act 1996
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2018-10-01_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction
 
@@ -41,7 +41,7 @@ This Act binds the Crown.
   (d) engages in any military preparations to use chemical weapons; or
   (e) assists, encourages, or induces, in any way, any person to engage in any activity prohibited to a State Party under the Convention,—
 (2) Nothing in subsection (1) applies in respect of any seizure of chemical weapons by the Crown under the authority of this or any other Act.
-(3) Nothing in subsection (1)(e) limits the provisions of Part 4 of the Crimes Act 1961.
+(3) Nothing in subsection (1)﻿(e) limits the provisions of Part 4 of the Crimes Act 1961.
 
 ### 7 Forfeiture of chemical weapons
 If any chemical weapon is developed, produced, otherwise acquired, stockpiled, retained, or transferred in contravention of section 6, the weapon—
@@ -61,8 +61,8 @@ Every person commits an offence who intentionally or recklessly uses riot contro
 (2) In determining whether or not to give consent, the Secretary shall be guided by the restrictions on transfer set out in Parts VI to VIII of the Verification Annex.
 (3) Every person commits an offence who imports or exports any chemical or precursor in contravention of subsection (1), and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
-### 11 Application of Customs and Excise Act 1996
-All the provisions of the Customs and Excise Act 1996 that apply with respect to prohibited imports and prohibited exports (except the penalty for an offence against section 209(1)(a) or (b) of that Act) shall extend and apply with respect to chemicals and precursors whose importation and exportation is prohibited by section 10 of this Act, in all respects as if the importation or exportation of the goods were prohibited under Part 5 of the Customs and Excise Act 1996.
+### 11 Application of Customs and Excise Act 2018
+All the provisions of the Customs and Excise Act 2018 that apply to prohibited imports and prohibited exports (except the penalty for an offence against section 388(1)﻿(a) or (b) of that Act) apply to chemicals and precursors whose importation and exportation is prohibited by section 10 of this Act as if the importation or exportation of the goods were prohibited under subpart 4 of Part 3 of the Customs and Excise Act 2018.
 
 ## Part 3 — Information and documents
 
@@ -79,7 +79,7 @@ All the provisions of the Customs and Excise Act 1996 that apply with respect to
   (b) keep records in relation to the chemicals and the facility, and the purpose to which the chemicals are put; and
   (c) prepare, from those records, periodic reports relating to the chemicals and the facility in a form approved by the Secretary; and
   (d) send those periodic reports to the Secretary at intervals specified by the Minister or by regulation.
-(2) The records and reports under subsection (1)(b) to (d) must be sufficient to satisfy the Minister that the Convention and the provisions of this Act and any regulations made under this Act are being complied with.
+(2) The records and reports under subsection (1)﻿(b) to (d) must be sufficient to satisfy the Minister that the Convention and the provisions of this Act and any regulations made under this Act are being complied with.
 (3) Every person who refuses or fails, without reasonable excuse, to comply with subsection (1) commits an offence, and is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
 ### 14 Secretary may seek information
@@ -281,7 +281,7 @@ Amendment(s) incorporated in the Act(s).
 | (16) | Methyldiethanolamine | (105–59–9) |
 | (17) | Triethanolamine | (102–71–6) |
 
-#### Schedule  — Annex on Implementation and Verification(Verification Annex)
+#### Schedule  — Annex on Implementation and Verification (Verification Annex)
 
 | Category 1: | Chemical weapons on the basis of Schedule 1 chemicals and their parts and components; |
 | --- | --- |
