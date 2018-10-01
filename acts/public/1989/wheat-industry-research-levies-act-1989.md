@@ -1,5 +1,5 @@
 # Wheat Industry Research Levies Act 1989
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to provide money for research into the growing of wheat and the manufacture of wheat into flour, bread, and other products by imposing levies on persons and organisations engaged in wheat growing, flourmilling, baking, and related industries
 
@@ -20,7 +20,7 @@ In this Act, unless the context otherwise requires,—
   - **Flourmillers Association** means the New Zealand Flourmillers Association Incorporated
   - **Flourmilling Industry Research Trust Account** means the account established pursuant to section 17(2)
   - **grain merchant** means a person whose business or part of whose business is the buying and selling of wheat and who purchases more than 30 tonnes of wheat in any year
-  - **importer** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **importer** has the meaning given to it by section 5(1) of the Customs and Excise Act 2018
   - **Industry Association** means—
     (a) United Wheatgrowers:
     (b) the Flourmillers Association:
