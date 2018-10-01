@@ -1,5 +1,5 @@
 # Ship Registration Act 1992
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to provide for the registration of ships in New Zealand and related matters
 
@@ -12,14 +12,14 @@ _Consolidation as at 2017-03-01_
 (1) In this Act, unless the context otherwise requires,—provided that, in the case of a ship not having a stern post or rudder stock, the after terminal point shall be taken to be the aftermost part of the transom or stern of the ship
   - **barge** means any barge, lighter, or like vessel that does not have any means of self-propulsion
   - **beneficial interests** includes interests arising under contract, and other equitable interests
-  - **certificate of clearance** means a certificate of clearance issued under the Customs and Excise Act 1996
+  - **certificate of clearance** means a certificate of clearance issued under the Customs and Excise Act 2018
   - **certificate of registration** means a certificate of registration granted under section 23(2); but does not include a provisional certificate of registration
   - **certificate of registry** means a certificate of registry granted under section 23(1); but does not include a provisional certificate of registry
   - **coastal waters** means—
     (a) all waters within the exclusive economic zone of New Zealand; and
     (b) the territorial sea of New Zealand; and
     (c) the internal waters of New Zealand
-  - **Customs officer** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the meaning given to it by section 5(1) of the Customs and Excise Act 2018
   - **demise charter** , in relation to a ship, means the demise, letting, hire, or delivery of the ship to the charterer, by virtue of which the charterer has whole possession and control of the ship, including the right to appoint its master and crew
   - **Deputy Registrar** means a Deputy Registrar of Ships appointed under section 62
   - **Director** means the person who is for the time being the Director of Maritime New Zealand under the Maritime Transport Act 1994
