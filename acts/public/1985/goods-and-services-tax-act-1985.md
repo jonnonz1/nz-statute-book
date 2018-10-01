@@ -1,12 +1,12 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
 ### 1 Short Title, etc
 (1) This Act may be cited as the Goods and Services Tax Act 1985.
 (2) This Act, other than section 12, is hereby declared to be one of the Inland Revenue Acts within the meaning of the Tax Administration Act 1994.
-(3) Section 12 shall be deemed to be part of the Customs and Excise Act 1996.
+(3) Section 12 shall be deemed to be part of the Customs and Excise Act 2018.
 
 ## Part 1 — Interpretation
 
@@ -324,12 +324,12 @@ _Consolidation as at 2018-07-01_
 ### 3A Meaning of input tax
 (1) Input tax, in relation to a registered person, means—
   (a) tax charged under section 8(1) on a supply of goods or services acquired by the person:
-  (b) tax levied under section 12(1) on goods entered for home consumption under the Customs and Excise Act 1996 by the person:
+  (b) tax levied under section 12(1) on goods entered for home consumption under the Customs and Excise Act 2018 by the person:
   (c) an amount determined under subsection (3) after applying subsection (2).
 (2) In the case of a supply by way of sale to a registered person of secondhand goods situated in New Zealand, the amount of input tax is determined under subsection (3) if—
   (a) the supply is not a taxable supply; and
   (b) the supply is not—
-    (i) a supply of goods previously supplied to a registered person who has entered them for home consumption under the Customs and Excise Act 1996, whether the person is registered at the time they enter the goods for home consumption or later; and
+    (i) a supply of goods previously supplied to a registered person who has entered them for home consumption under the Customs and Excise Act 2018, whether the person is registered at the time they enter the goods for home consumption or later; and
     (ii) a supply of goods made by a non-resident, whether or not they made the earlier supply referred to in subparagraph (i); and
   (c) the goods acquired by the person for making taxable supplies are either—
     (i) not charged with tax at the rate of 0% under section 11A(1)﻿(q) or (r); or
@@ -743,27 +743,27 @@ This Act shall bind the Crown.
 
 ### 11 Zero-rating of goods
 (1) A supply of goods that is chargeable with tax under section 8 must be charged at the rate of 0% in the following situations:
-  (a) the supplier has entered the goods for export under the Customs and Excise Act 1996 and the goods have been exported by the supplier; or
-  (b) the goods have been deemed to be entered for export under the Customs and Excise Act 1996 and the goods have been exported by the supplier; or
+  (a) the supplier has entered the goods for export under the Customs and Excise Act 2018 and the goods have been exported by the supplier; or
+  (b) the goods have been deemed to be entered for export under the Customs and Excise Act 2018 and the goods have been exported by the supplier; or
   (c) the supplier has satisfied the Commissioner that the goods have been exported by the supplier to a place outside New Zealand; or
-  (d) subject to subsection (4), the supplier will enter the goods for export under the Customs and Excise Act 1996 in the course of, or as a condition of, making the supply, and will export the goods; or
-  (e) subject to subsection (4), the goods will be deemed to be entered for export under the Customs and Excise Act 1996 and will be exported by the supplier in the course of, or as a condition of, making the supply; or
+  (d) subject to subsection (4), the supplier will enter the goods for export under the Customs and Excise Act 2018 in the course of, or as a condition of, making the supply, and will export the goods; or
+  (e) subject to subsection (4), the goods will be deemed to be entered for export under the Customs and Excise Act 2018 and will be exported by the supplier in the course of, or as a condition of, making the supply; or
   (eb) subject to subsection (4), the goods supplied—
     (i) are supplied to a recipient who is a non-resident; and
-    (ii) have been entered for export under the Customs and Excise Act 1996 by the supplier or will be entered for export by the supplier in the course of or as a condition of making the supply; and
+    (ii) have been entered for export under the Customs and Excise Act 2018 by the supplier or will be entered for export by the supplier in the course of or as a condition of making the supply; and
     (iii) are exported by the recipient; and
     (iv) are not intended by the recipient for later importation into New Zealand for use other than in making taxable supplies or exempt supplies, with the absence of such an intention being confirmed by the recipient in a document retained by the supplier; and
     (v) are not used or altered by the recipient before being exported, except to the extent necessary to prepare the goods for export; and
     (vi) leave New Zealand under an arrangement agreed by the supplier and the recipient at or before the time of the supply; and
     (vii) do not leave New Zealand in the possession of a passenger or crew member of an aircraft or ship; or
   (f) goods that would otherwise have been exported are destroyed, die or cease to exist in circumstances beyond the control of both the supplier and the recipient; or
-  (g) subject to subsection (6), the goods are supplied by a supplier who is licensed under section 12 of the Customs and Excise Act 1996, if—
+  (g) subject to subsection (6), the goods are supplied by a supplier who is licensed under section 59 of the Customs and Excise Act 2018, if—
     (i) the supplier has been licensed by the chief executive of the New Zealand Customs Service to operate a sealed bag system; and
     (ii) the goods are supplied in accordance with the sealed bag system; and
-    (iii) the goods are entered, or are deemed to be entered, for export under the Customs and Excise Act 1996; or
+    (iii) the goods are entered, or are deemed to be entered, for export under the Customs and Excise Act 2018; or
   (h) the goods and services are supplied—
-    (i) by a supplier who is licensed under section 12 of the Customs and Excise Act 1996; and
-    (ii) within an area licensed under section 12 of the Customs and Excise Act 1996 as a customs controlled area for the processing of persons arriving in or departing from New Zealand; and
+    (i) by a supplier who is licensed under section 59 of the Customs and Excise Act 2018; and
+    (ii) within an area licensed under section 59 of the Customs and Excise Act 2018 as a customs controlled area for the processing of persons arriving in or departing from New Zealand; and
     (iii) to either—
       (A) an inbound air traveller; or
       (B) an outbound air traveller who picks up the goods upon returning to New Zealand; or
@@ -774,13 +774,13 @@ This Act shall bind the Crown.
   (k) the goods have been supplied in the course of repairing, renovating, modifying or treating goods to which paragraph (i) or section 11A(1)﻿(h) or (i) applies and the goods supplied—
     (i) are wrought into, affixed to, attached to or otherwise form part of those other goods; or
     (ii) are consumable goods that become unusable or worthless as a direct result of being used in the repair, renovation, modification or treatment process; or
-  (ka) the goods are supplied for use on, or the use of, a pleasure craft, being a temporary import within the meaning of section 116 of the Customs and Excise Act 1996, that cause or enable the craft to sail, or that ensure the safety of passengers and crew on the craft; or
+  (ka) the goods are supplied for use on, or the use of, a pleasure craft, being a temporary import within the meaning of section 136 of the Customs and Excise Act 2018, that cause or enable the craft to sail, or that ensure the safety of passengers and crew on the craft; or
   (l) the goods supplied are consumable stores intended for use on—
     (i) an aircraft on a flight, or going, to a destination outside New Zealand; or
     (ii) a fishing ship outside, or going outside, New Zealand fisheries waters; or
     (iib) a ship, other than a pleasure craft, carrying consumable stores to a foreign-going ship or to a fishing ship that meets the requirements in subparagraph (ii); or
     (iii) a foreign-going ship; or
-    (iv) a pleasure craft that is a temporary import within the meaning of section 116 of the Customs and Excise Act 1996 going to a destination outside New Zealand fisheries waters; or
+    (iv) a pleasure craft that is a temporary import within the meaning of section 136 of the Customs and Excise Act 2018 going to a destination outside New Zealand fisheries waters; or
   (m) the supply to a registered person of a taxable activity, or part of a taxable activity, that is a going concern at the time of the supply, if—
     (i) the supplier and the recipient agree that the supply is the supply of a going concern, and their agreement is recorded in a document; and
     (ii) the supplier and the recipient intend that the supply is of a taxable activity, or part of a taxable activity, that is capable of being carried on as a going concern by the recipient; or
@@ -791,6 +791,7 @@ This Act shall bind the Crown.
   (o) the goods are supplied to or by the Crown as consideration for a supply—
     (i) for which there is no payment of a price; and
     (ii) that is chargeable at the rate of 0% under section 11A(1)﻿(s) or (t); or
+  (oa) the goods are goods referred to in section 137 of the Customs and Excise Act 2018; or
   (p) the goods are—
     (i) jigs, patterns, templates, dies, punches, and similar machine tools to be used in New Zealand solely to manufacture goods that will be for export from New Zealand; and
     (ii) supplied to a recipient who is a non-resident, and not a registered person.
@@ -860,7 +861,7 @@ This Act shall bind the Crown.
   (c) the services, including ancillary transport activities such as loading, unloading and handling, are the transport of goods from a place in New Zealand to another place in New Zealand to the extent that the services are supplied by the same supplier as part of the supply of services to which paragraph (a)﻿(ii) or (a)﻿(iii) applies; or
   (cb) the services, including ancillary activities such as loading, unloading, handling and storing, are the transport of household goods from a place in New Zealand to another place in New Zealand, if—
     (i) the services are supplied to a person who, at the time of the supply, is non-resident and outside New Zealand; and
-    (ii) the goods are entered for home consumption under the Customs and Excise Act 1996; and
+    (ii) the goods are entered for home consumption under the Customs and Excise Act 2018; and
     (iii) the arrangement for the supply of the services is made before the goods are entered; and
     (iv) the services are reasonably expected to be completed within the period of 28 days that begins on the date of entry of the goods; or
   (d) the services are the insuring, or the arranging of the insurance, or the arranging of the transport of passengers or goods to which any one of paragraphs (a) to (cb) applies; or
@@ -868,7 +869,7 @@ This Act shall bind the Crown.
   (f) the services are supplied directly in connection with moveable personal property, other than choses in action, situated outside New Zealand when the services are performed; or
   (g) the services are supplied to overseas postal organisations for the delivery in New Zealand of postal articles mailed outside New Zealand; or
   (h) the services are supplied directly in connection with goods supplied from outside New Zealand and whose destination is outside New Zealand, including stores for craft, only if the goods are not removed from the ship or aircraft in which they arrived while the ship or aircraft is in New Zealand; or
-  (i) the services are supplied directly in connection with goods referred to in section 116 of the Customs and Excise Act 1996; or
+  (i) the services are supplied directly in connection with goods referred to in section 136 of the Customs and Excise Act 2018 (including goods referred to in section 137 of that Act); or
   (ib) the services are supplied directly in connection with goods to which section 11(1)﻿(i) applies; or
   (j) the services—
     (i) are physically performed outside New Zealand; and
@@ -965,27 +966,29 @@ A supply of services that is chargeable with tax under section 8 must be charged
 
 ### 12 Imposition of goods and services tax on imports
 (1) Notwithstanding anything in this Act, a tax to be known as goods and services tax shall be levied, collected, and paid in accordance with the provisions of this section at the rate of 15% on the importation of goods (not being fine metal) into New Zealand, being goods that are—by reference to the value of the goods as determined under subsection (2).
-  (a) entered therein, or delivered, for home consumption under the Customs and Excise Act 1996; or
-  (b) entered for delivery to a manufacturing area licensed under section 12 of the Customs and Excise Act 1996; or
-  (c) before their entry, or delivery, for home consumption or, as the case may be, entry for delivery to a manufacturing area licensed under section 12 of the Customs and Excise Act 1996, dealt with in breach of any provision of the Customs and Excise Act 1996,—
-(1A) Goods and services tax is not payable under subsection (1) for any goods if the chief executive of the New Zealand Customs Service is satisfied that, at the time of importation or entry for home consumption under the Customs and Excise Act 1996,—
+  (a) entered therein, or delivered, for home consumption under the Customs and Excise Act 2018; or
+  (b) entered for delivery to a manufacturing area licensed under section 59 of the Customs and Excise Act 2018; or
+  (c) before their entry, or delivery, for home consumption or, as the case may be, entry for delivery to a manufacturing area licensed under section 59 of the Customs and Excise Act 2018, dealt with in breach of any provision of the Customs and Excise Act 2018,—
+(1A) Goods and services tax is not payable under subsection (1) for any goods if the chief executive of the New Zealand Customs Service is satisfied that, at the time of importation or entry for home consumption under the Customs and Excise Act 2018,—
   (a) the goods are intended solely for the use of an organisation, visiting force, expedition, or other body approved by the chief executive of the New Zealand Customs Service that may be established or temporarily based in New Zealand under an agreement or arrangement entered into by or on behalf of the Government of New Zealand with the Government of another State, the United Nations, or any other international organisation; or
   (b) the goods are intended solely for the use of a person temporarily resident in New Zealand for the purpose of serving as a member of any approved organisation, visiting force, expedition, or other body.
 (2) For the purposes of subsection (1), the value of goods imported into New Zealand shall be the sum of the following amounts (excluding any tax charged under this Act):
-  (a) the amount of the value of the goods determined in accordance with Schedule 2 of the Customs and Excise Act 1996 (whether or not duty is payable under that Act); and
-  (b) the amounts of duty (if any) and tax (if any) payable on those goods under the Customs and Excise Act 1996, but not including any tax levied or charged under this Act; and
+  (a) the amount of the value of the goods determined in accordance with Schedule 4 of the Customs and Excise Act 2018 (whether or not duty is payable under that Act); and
+  (b) the amounts of duty (if any) and tax (if any) payable on those goods under the Customs and Excise Act 2018, but not including any tax levied or charged under this Act; and
   (c) the amount paid or payable to transport the goods to New Zealand and to insure the goods for such transport, if not already included under paragraph (a); and
   (d) the amount of levy paid or payable on goods under the Climate Change Response Act 2002.
-(3) Subject to this section, tax levied under subsection (1) shall be collected and paid in accordance with the Customs and Excise Act 1996.
+(3) Subject to this section, tax levied under subsection (1) shall be collected and paid in accordance with the Customs and Excise Act 2018.
 (4) The following provisions shall apply to the collection, payment, and enforcement of goods and services tax levied under subsection (1):
-  (a) sections 2 and 3, Parts 1 and 2, Part 3 (except for section 38), Part 4, Part 5, Part 6, Part 7 (except for section 81), Part 8 (except for sections 107, 108, 109, 111, 112, 113, 114, 115, 117, 118), Parts 10, 11, 12, 13, 14, 15, 16, and 17 of the Customs and Excise Act 1996; and
-  (b) section 109 of the Customs and Excise Act 1996:
+  (a) the Customs and Excise Act 2018, except—
+    (i) the provisions referred to in paragraphs (b) to (d) of this subsection; and
+    (ii) sections 146, 153, and 404; and
+  (b) sections 151 and 152 of the Customs and Excise Act 2018:
     provided that this paragraph shall apply only in respect of goods that are imported by the same person as the person who exported them from New Zealand if, at the time of their export from New Zealand, those goods were not—
       (i) a supply of goods charged with tax at the rate of 0% pursuant to section 11; or
       (ii) a supply of goods, made before 1 October 1986, that would have been charged with tax at the rate of 0% pursuant to section 11 if the supply of those goods had taken place on 1 October 1986; and
-  (c) sections 111, 112, 113, 115, and 118 of the Customs and Excise Act 1996:
+  (c) sections 142 to 145, 149, 150, and 406 of the Customs and Excise Act 2018:
     provided that this paragraph shall not apply to any registered person in respect of goods imported for the purpose of carrying on that person's taxable activity if the person is entitled to make an input tax deduction under section 20(3) in respect of the goods; and
-  (d) section 117 of the Customs and Excise Act 1996, where—
+  (d) section 147 of the Customs and Excise Act 2018, where—
     (i) the specifications of the imported goods are not in accordance with the specifications of the goods ordered, or the imported goods are faulty; and
     (ii) the recipient is either not a registered person, or is a registered person but is not entitled to make an input tax deduction under section 20(3) in respect of the imported goods; and
     (iii) the person who imported the goods exports the goods—
@@ -995,7 +998,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
     (i) the goods are entitled to be entered under any of these reference numbers; or
     (ii) the goods are entitled to be entered duty free under Part 1 of the Tariff (as so defined), but would have been entitled to be entered under any of these reference numbers if the goods had been dutiable under Part 1 of the Tariff (as so defined).
   (f)
-(5) No liability to goods and services tax shall arise under any provision of the Customs and Excise Act 1996 by virtue of the operation of subsection (3) or subsection (4).
+(5) No liability to goods and services tax shall arise under any provision of the Customs and Excise Act 2018 by virtue of the operation of subsection (3) or subsection (4).
 (6) For the purposes of this section—
   (a) the terms fine metal, New Zealand, person, and registered person have the same meanings as defined in section 2:
   (b) the term taxable activity has the same meaning as defined in section 6.
@@ -1448,7 +1451,7 @@ A registered person must, at the end of an adjustment period,—
 (1) This section applies when—
   (a) before becoming a registered person, a person that is not a unit title body corporate acquires—
     (i) goods or services on which tax has been charged under section 8(1):
-    (ii) goods entered by them for home consumption under the Customs and Excise Act 1996 on which tax has been levied under section 12(1):
+    (ii) goods entered by them for home consumption under the Customs and Excise Act 2018 on which tax has been levied under section 12(1):
     (iii) secondhand goods—
       (A) that are supplied to the person by way of sale; and
       (B) that have always been situated in New Zealand or have had tax levied on them as described in subparagraph (ii); and
