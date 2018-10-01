@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -2512,12 +2512,12 @@ Every member of the Police has all, and may exercise any, of the powers of an en
 ### 135 Definitions
 In this Part, unless the context otherwise requires,—
   - **accepted notice** means a notice given under section 136(1) that has been accepted by the chief executive under section 136(3)
-  - **chief executive** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **chief executive** has the meaning given to it by section 5(1) of the Customs and Excise Act 2018
   - **claimant** means a person who gives a notice under section 136(1)
-  - **control of the Customs** has the meaning given to it by section 20 of the Customs and Excise Act 1996
+  - **control of the Customs** is to be read in accordance with the definition of subject to the control of Customs in section 6 of the Customs and Excise Act 2018
   - **court** means the High Court
   - **Customs** means the New Zealand Customs Service
-  - **Customs officer** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
   - **pirated copy** —
     (a) means any copy of a copyright work that is a literary, dramatic, musical, or artistic work or the typographical arrangement of a published edition or a sound recording or a film, where the copy is made—
       (i) directly or indirectly from the copyright work; and
@@ -2674,7 +2674,7 @@ If any pirated copies have been detained in the custody of the chief executive o
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (iv) if the person is a registered user of a registered user system (within the meaning of section 322 of the Customs and Excise Act 2018), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the registered user system in relation to that person.
     (v) emailing it to the person at an email address that is used by the person.
 (2A) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 (3) A Customs officer to whom a document is produced for inspection may do 1 or more of the following:
@@ -2692,7 +2692,7 @@ If any pirated copies have been detained in the custody of the chief executive o
     (i) delivering it to him or her in person; or
     (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
     (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-    (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+    (iv) if the person is a registered user of a registered user system (within the meaning of section 322 of the Customs and Excise Act 2018), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the registered user system in relation to that person.
     (v) emailing it to the person at an email address that is used by the person.
 (3) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.
 
