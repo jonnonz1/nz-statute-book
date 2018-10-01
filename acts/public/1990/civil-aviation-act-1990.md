@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-10-01_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -2871,7 +2871,7 @@ In this Part, the expression joint venture airport means an aerodrome or airport
 (1) Alcohol may be sold at any international airport to any passenger on an aircraft departing from or arriving in New Zealand if—
   (a) in the case of alcohol bought for consumption off the airport premises, the passenger is of or over the age stated in section 5 of the Sale and Supply of Alcohol Act 2012; and
   (b) in the case of alcohol bought for consumption on the airport premises, the passenger is of or over the age stated in section 5 of the Sale and Supply of Alcohol Act 2012.
-(2) Unless alcohol sold under the authority of subsection (1) has been entered by the passenger concerned for home consumption in accordance with the Customs and Excise Act 1996, a person must not deliver it by or on behalf of the buyer to any other person within New Zealand, or consume it within New Zealand.
+(2) Unless alcohol sold under the authority of subsection (1) has been entered by the passenger concerned for home consumption in accordance with the Customs and Excise Act 2018, a person must not deliver it by or on behalf of the buyer to any other person within New Zealand, or consume it within New Zealand.
 (3) The Governor-General may, from time to time, by Order in Council, make regulations for either or both of the following purposes:
   (a) prescribing the circumstances and conditions relating to the control of the sale of alcohol at international airports to passengers on aircraft departing from or arriving in New Zealand who are of or over the age referred to in subsection (1)﻿(a) or (b) (as the case requires):
   (b) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under this section, and prescribing fines, not exceeding $1,000, that may, on conviction, be imposed in respect of any such offence.
