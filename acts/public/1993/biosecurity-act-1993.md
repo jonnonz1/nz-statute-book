@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-10-01_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -284,7 +284,7 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 (2) Except—this Act must not be construed so as to affect or derogate in any way from the provisions of the Soil Conservation and Rivers Control Act 1941, the Forests Act 1949, the Wildlife Act 1953, the Health Act 1956, the Animal Welfare Act 1999, the Wild Animal Control Act 1977, the Reserves Act 1977, the National Parks Act 1980, the Fisheries Act 1983, the Fisheries Act 1996, the Conservation Act 1987, the Te Urewera Act 2014, the Trade in Endangered Species Act 1989, the Resource Management Act 1991, or the Exclusive Economic Zone and Continental Shelf (Environmental Effects) Act 2012.
   (a) to the extent provided in subsections (1), (5), and (6), and sections 7A to 7D; and
   (b) to the extent that those enactments are expressly amended by section 168(1),—
-(3) This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 1996 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 1996 in relation to goods.
+(3) This Act must not be construed so as to affect or derogate in any way from the provisions of the Customs and Excise Act 2018 and, in particular, the provisions of this Act do not affect the obligations of any person under the Customs and Excise Act 2018 in relation to goods.
 (4) The provisions of this Act in so far as they relate to risk goods must not be construed to take precedence over the powers provided under the Misuse of Drugs Act 1975 in relation to any controlled drug (as defined in section 2(1) of that Act).
 (5) The provisions of the Wild Animal Control Act 1977 and the Game Animal Council Act 2013 do not apply to prevent or inhibit the exercise of any powers under the Biosecurity Act 1993 on any land (other than land administered under the Acts listed in Schedule 1 of the Conservation Act 1987) when those powers are used in respect of—that may be transmitted by any animal to which the Wild Animal Control Act 1977 or Game Animal Council Act 2013 applies.
   (a) a pest; or
@@ -346,21 +346,21 @@ A provision in this Act that applies in the territorial sea must be interpreted 
 (1) This section applies to a requirement by or under an Act to supply to the Ministry any border information (as defined in section 41A(1)) if the Act is—
   (a) this Act; or
   (b) an Act that is specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
-(2) Any person who uses the JBMS (which, in this section, has the meaning given in section 131A of the Customs and Excise Act 1996) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H) must supply the information in a form and manner—
+(2) Any person who uses a JBMS (which, in this section, has the meaning given in section 302(4) of the Customs and Excise Act 2018) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H) must supply the information in a form and manner—
   (a) for complying with the requirement by using the JBMS; and
   (b) for the time being generally approved in writing,—
     (i) if the Act is this Act, by the Director-General; or
     (ii) if the Act is one specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1), under that Act (as modified by this section) by the chief executive of the department of State responsible for the Act's administration.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
+  (b) may be set out in rules under section 325 of the Customs and Excise Act 2018.
 
 ### 7F Duty to use JBMS to supply border information to Ministry
 (1) This section applies to a requirement by or under an Act to supply to the Ministry any border information (as defined in section 41A(1)) if the Act is—
   (a) this Act; or
   (b) an Act that is specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
-  (a) by using the JBMS (which, in this section, has the meaning given in section 131A of the Customs and Excise Act 1996); or
+  (a) by using a JBMS (which, in this section, has the meaning given in section 302(4) of the Customs and Excise Act 2018); or
   (b) by using another means for the time being generally or specifically approved in writing by—
     (i) the Director-General (as defined in section 2(1)), if the Act is this Act; or
     (ii) the chief executive of the department of State for the time being responsible for the Act's administration, if the Act is an Act that is specified by regulations under section 165A to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1).
@@ -583,8 +583,8 @@ Regulations may elaborate duties
 ### 17A Inward cargo report
 Craft and cargo to which section applies
 (1) This section applies to cargo (whether or not all or any of the cargo is goods that are, may be, or are not, risk goods) on a craft if the craft is—
-  (a) en route to, or has arrived in, New Zealand (as defined in section 2(1) of the Customs and Excise Act 1996), from a point outside New Zealand (as so defined); or
-  (b) carrying goods subject to the control of the Customs (as defined in section 20 of the Customs and Excise Act 1996) brought in that craft or any other craft from a point outside New Zealand (as defined in section 2(1) of the Customs and Excise Act 1996).
+  (a) en route to, or has arrived in, New Zealand (as defined in section 5(1) of the Customs and Excise Act 2018), from a point outside New Zealand (as so defined); or
+  (b) carrying goods subject to the control of Customs (as defined in section 6 of the Customs and Excise Act 2018) brought in that craft or any other craft from a point outside New Zealand (as defined in section 5(1) of the Customs and Excise Act 2018).
 Inward cargo report
 (2) Every person responsible for the carriage of the cargo on the craft must give to the Director-General, before the prescribed deadline, a report on the cargo, unless a particular person of that kind is exempted from doing so because—
   (a) that person has been advised by the Director-General that 1 or more other persons of that kind have already done so; or
@@ -1118,7 +1118,7 @@ Section 28 does not apply to organisms approved under the following sections of 
   (g) compliance by the person with all obligations imposed on him or her under the Act relating to his or her arrival in New Zealand.
 (3) An inspector may direct a person to comply with the person's duties under this section.
 Definition for this section
-(4) In this section, Act means the Customs and Excise Act 1996 or the Immigration Act 2009.
+(4) In this section, Act means the Customs and Excise Act 2018 or the Immigration Act 2009.
 
 ### 36 Movement of risk goods
 Any person who moves risk goods within a biosecurity control area shall comply with all reasonable directions given to that person by an inspector concerning the movement of those goods.
@@ -1217,7 +1217,7 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
   (c) an organisation of which the applicant is or was a director or manager.
 (3B) The matters are—
   (a) a serious or repeated failure to comply in the past with a duty imposed by this Act on a facility operator:
-  (b) a conviction for an offence against this Act, the Customs and Excise Act 1996, the Hazardous Substances and New Organisms Act 1996, or any other enactment that regulates the importation of goods:
+  (b) a conviction for an offence against this Act, the Customs and Excise Act 2018, the Hazardous Substances and New Organisms Act 1996, or any other enactment that regulates the importation of goods:
   (c) a conviction in New Zealand or another country for an offence relating to fraud or dishonesty:
   (d) a conviction in New Zealand or another country for an offence relating to a business of a kind that is regulated under this Act or any other enactment administered by the Ministry and involving—
     (i) management control in New Zealand or another country:
@@ -1317,7 +1317,7 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
   - **agency** includes a government department or Crown entity
   - **border information** —
     (a) means information—
-      (i) that is required to be supplied to the Ministry or the Customs by or under this Act or the Customs and Excise Act 1996, or both, for a border protection purpose; or
+      (i) that is required to be supplied to the Ministry or the Customs by or under this Act or the Customs and Excise Act 2018, or both, for a border protection purpose; or
       (ii) that is otherwise lawfully supplied or collected for a border protection purpose; and
     (b) includes, without limitation, information about—
       (i) goods, persons, or craft:
@@ -1328,18 +1328,11 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
     (a) a Ministry-related border management function:
     (b) a customs-related border management function
   - **chief executive** means the chief executive of the Customs
-  - **computer system** means the whole, or any part, of all or any of the 1 or more items described in the following paragraphs (each of which items includes all related input, output, processing, storage, software, or communication facilities, and stored data):
-    (a) a computer:
-    (b) 2 or more interconnected computers:
-    (c) any communication links between computers or to remote terminals or another device:
-    (d) 2 or more interconnected computers combined with any communication links between computers or to remote terminals or any other device
   - **Customs** —
     (a) means the New Zealand Customs Service; and
     (b) includes the chief executive and any Customs officer
-  - **customs-related border management function** means any function, duty, or power imposed or conferred on the Customs by or under the Customs and Excise Act 1996 that is necessary—
-    (a) to achieve the purpose of that Act; or
-    (b) for the administration of that Act
-  - **Joint Border Management System** or has the meaning given in section 131A of the Customs and Excise Act 1996
+  - **customs-related border management function** means any function, duty, or power imposed or conferred on Customs by or under the Customs and Excise Act 2018
+  - **Joint Border Management System** or has the meaning given in section 302(4) of the Customs and Excise Act 2018
   - **Ministry** includes—
     (a) the Director-General; and
     (b) any inspector appointed under section 103
@@ -1355,10 +1348,7 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
       (iv) the Animal Products Act 1999:
       (v) the Wine Act 2003:
       (vi) any other Act that is specified by the Governor-General, by Order in Council made under section 165A, to be an Act for the purposes of this definition.
-(2) For the purposes of the definition of computer system, a computer is interconnected with another computer if it can be lawfully used to provide access to that other computer—
-  (a) with or without access information; and
-  (b) whether or not either or both computers are currently turned on; and
-  (c) whether or not access is currently occurring.
+(2)
 
 **Interim arrangements for information sharing**
 
@@ -1389,20 +1379,20 @@ The Director-General must not take any action under sections 37, 37A, or 37B wit
 ### 41G Collection of border information
 (1) The Ministry may—
   (a) collect any border information:
-  (b) store any border information in the JBMS.
+  (b) store any border information in a JBMS.
 (2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 2 or 3 of the Privacy Act 1993.
 (3) The Minister may appoint any agency (in addition to, or instead, of the Customs) to exercise any of the powers conferred on the Ministry by subsection (1).
 
 ### 41H Requirement by or under this Act to supply border information is complied with if information is supplied to Customs or other agency
 (1) A person must be taken to have complied with a requirement by or under this Act to supply any border information to the Ministry if, instead of to the Ministry, the person supplies the border information to—
-  (a) the Customs, for the purposes of, and in accordance with, section 282J(1) of the Customs and Excise Act 1996:
-  (b) an agency appointed under section 41G(3), for the purposes of, and in accordance with, section 41G(1) of this Act or section 282J(1) of the Customs and Excise Act 1996.
+  (a) the Customs, for the purposes of, and in accordance with, section 302(1) of the Customs and Excise Act 2018:
+  (b) an agency appointed under section 41G(3), for the purposes of, and in accordance with, section 41G(1) of this Act or section 302(1) of the Customs and Excise Act 2018.
 (2) However, subsection (1) does not apply if the Director-General has given the person a written notice requiring the border information to be supplied to the Ministry instead of to the Customs or an agency appointed under section 41G(3).
 
 ### 41I Ministry may access border information
-(1) The Ministry may access any border information stored in the JBMS that is needed for, or relevant to, a Ministry-related border management function.
+(1) The Ministry may access any border information stored in a JBMS that is needed for, or relevant to, a Ministry-related border management function.
 (2) If the border information is personal information, subsection (1) applies despite anything in information privacy principle 10 of the Privacy Act 1993.
-(3) Subsections (1) and (2) apply to any border information stored in the JBMS, whether the border information was or is collected—
+(3) Subsections (1) and (2) apply to any border information stored in a JBMS, whether the border information was or is collected—
   (a) before, on, or after the commencement of this section; or
   (b) by an agency appointed under section 41G(3).
 (4) To avoid doubt, nothing in subsection (1) limits or prevents the Ministry from carrying out an analysis of any border information to which it has access under that subsection for the purpose of examining risk patterns or risk profiles in relation to any or all of the following:
@@ -3278,7 +3268,7 @@ An inspector who suspects on reasonable grounds that a person may be in possessi
     (ii) is liable to be arrested under a warrant issued by a court or a registrar; or
     (iii) is liable to be prosecuted for an offence punishable by imprisonment; or
     (iv) has contravened the Civil Aviation Act 1990; or
-    (v) has contravened the Customs and Excise Act 1996; or
+    (v) has contravened the Customs and Excise Act 2018; or
     (vi) has contravened the Human Assisted Reproductive Technology Act 2004; or
     (vii) has contravened the Immigration Act 2009; or
     (viii) has contravened the Misuse of Drugs Act 1975; or
@@ -3439,7 +3429,7 @@ Any person lawfully exercising a power under any of sections 109, 111, 113, 114,
   (a) section 98C of the Crimes Act 1961:
   (b) section 342 of the Immigration Act 2009:
   (c) section 29A, 30, or 31 of the Passports Act 1992:
-  (d) the Customs and Excise Act 1996:
+  (d) the Customs and Excise Act 2018:
   (e) sections 123 and 124 of the Films, Videos, and Publications Classification Act 1993:
   (f) section 232 or 233 of the Fisheries Act 1996:
   (g) section 37 or 43 of the Medicines Act 1981:
