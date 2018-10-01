@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act (No 2) 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 (1) This Act is the Customs and Excise Amendment Act (No 2) 2000.
@@ -25,7 +25,7 @@ Section 79(4) of the principal Act is amended by omitting the word subheadings w
 
 ### 5 Assessment of excise duty on beer or wine otherwise exempt
 Section 84 of the principal Act is amended by repealing subsections (1) and (2), and substituting the following subsections:
-  (1) If the Chief Executive has reasonable cause to suspect that any quantity of beer or wine that has been entered as exempt from excise duty under section 73(2) or (2A), as the case may be, has later been dealt with in any manner otherwise than in accordance with the provisions of section 73(2)(a) or (2A)(a), as the case may require, the Chief Executive may make an assessment of excise duty.
+  (1) If the Chief Executive has reasonable cause to suspect that any quantity of beer or wine that has been entered as exempt from excise duty under section 73(2) or (2A), as the case may be, has later been dealt with in any manner otherwise than in accordance with the provisions of section 73(2)﻿(a) or (2A)﻿(a), as the case may require, the Chief Executive may make an assessment of excise duty.
   (2) The duty assessed in accordance with this section is owed by—
     (a) the licensee of the manufacturing area in which the beer or the wine was manufactured; and
     (b) the individual who manufactured the beer or the wine.
