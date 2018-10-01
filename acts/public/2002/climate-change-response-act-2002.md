@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -219,7 +219,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **expire** or , in relation to a long-term certified emission reduction unit or a temporary certified emission reduction unit, means a unit that is no longer capable of being—
     (a) transferred to any account other than the general cancellation account; or
     (b) retired
-  - **export** has a corresponding meaning to exportation in section 2(1) of the Customs and Excise Act 1996
+  - **export** has a corresponding meaning to exportation in section 5(1) of the Customs and Excise Act 2018
   - **farm dairy** has the same meaning as in section 4(1) of the Animal Products Act 1999
   - **financial year** has the same meaning as in section 2(1) of the Public Finance Act 1989
   - **first commitment period** means the commitment period from 1 January 2008 to 31 December 2012 (inclusive)
@@ -239,8 +239,8 @@ In order to recognise and respect the Crown’s responsibility to give effect to
   - **greenhouse gas** means a gas listed in Annex A of the Protocol
   - **group** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **holding account** means an account in the Registry for the purpose of holding units that have not been retired, surrendered, converted, or cancelled
-  - **import** has a corresponding meaning to importation in section 2(1) of the Customs and Excise Act 1996
-  - **importer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **import** has a corresponding meaning to importation in section 5(1) of the Customs and Excise Act 2018
+  - **importer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **indigenous forest species** means a forest species that occurs naturally in New Zealand or has arrived in New Zealand without human assistance
   - **indirect greenhouse gas** —
     (a) means a gas that—
@@ -285,7 +285,6 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) all gaseous hydrocarbons produced from wells, including wet gas and residual gas remaining after the extraction of condensate from wet gas; and
     (b) liquid hydrocarbons, other than condensate, extracted from wet gas and sold as natural gas liquids, for example, liquid petroleum gas; and
     (c) coal seam gas
-  - **New Zealand Customs Service** and have the same meanings as in section 2(1) of the Customs and Excise Act 1996
   - **New Zealand unit** means a unit issued by the Registrar and designated as a New Zealand unit
   - **nominated entity** , in relation to a consolidated group, means an entity appointed under section 150(4)﻿(b) or 152(3)﻿(b) as the nominated entity of a consolidated group
   - **non-compliance cancellation account** means an account in the Registry for the purpose of holding any units on behalf of the Crown that are cancelled as a result of a determination that New Zealand is not in compliance with Article 3.1 of the Protocol
@@ -387,6 +386,7 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (a) for the purpose of replacing temporary certified emission reduction units, before they are due to expire, with assigned amount units, certified emission reduction units, emission reduction units, removal units, or temporary certified emission reduction units that are due to expire in a subsequent commitment period; and
     (b) that is limited to the relevant commitment period
   - **temporary certified emission reduction unit** means a unit derived from a clean development mechanism project issued by the CDM registry, and designated as a temporary certified emission reduction unit by the CDM registry
+  - **the Customs** has the same meaning as Customs in section 5(1) of the Customs and Excise Act 2018
   - **tree weed** means a tree that is defined or designated as—
     (a) a pest in a pest management strategy under the Biosecurity Act 1993; or
     (b) a tree weed in regulations made under this Act
@@ -4036,8 +4036,8 @@ The explanatory note of an Order in Council made under section 202(1) must indic
   (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
 
 ### 203 Treatment of obligation fuels
-(1) This section applies if, in breach of the Customs and Excise Act 1996, a participant fails to remove obligation fuel for home consumption.
-(2) If this section applies, the obligation fuel that was not removed for home consumption must, for the purposes of this Act, be treated as obligation fuel removed for home consumption under the Customs and Excise Act 1996.
+(1) This section applies if, in breach of the Customs and Excise Act 2018, a participant fails to remove obligation fuel for home consumption.
+(2) If this section applies, the obligation fuel that was not removed for home consumption must, for the purposes of this Act, be treated as obligation fuel removed for home consumption under the Customs and Excise Act 2018.
 
 ### Subpart 3 — Stationary energy sector
 
@@ -4285,8 +4285,8 @@ Section 30H(1) and (3) do not apply to any regulations that—
 
 ## Part 7 — Synthetic greenhouse gas levy
 
-### 226 Overview of functions and responsibilities of EPA and agencies under this Part, Customs and Excise Act 1996, and Land Transport Act 1998
-(1) This section is a guide to the functions and responsibilities of the EPA and the agencies in relation to the synthetic greenhouse gas levy, but it does not affect the interpretation or the application of the provisions of this Part, the Customs and Excise Act 1996, or the Land Transport Act 1998.
+### 226 Overview of functions and responsibilities of EPA and agencies under this Part, Customs and Excise Act 2018, and Land Transport Act 1998
+(1) This section is a guide to the functions and responsibilities of the EPA and the agencies in relation to the synthetic greenhouse gas levy, but it does not affect the interpretation or the application of the provisions of this Part, the Customs and Excise Act 2018, or the Land Transport Act 1998.
 (2) Under this Part,—
   (a) the functions of the EPA are to—
     (i) receive and collate information from the agencies under section 241; and
@@ -4295,7 +4295,7 @@ Section 30H(1) and (3) do not apply to any regulations that—
   (b) the function of the Registrar of Motor Vehicles is to receive payment of the motor vehicle levy under section 228; and
   (c) the function of the New Zealand Customs Service is to receive payment of the goods levy under section 229; and
   (d) it is a function of the EPA and the agencies to recover unpaid levies under section 230.
-(3) Under the Customs and Excise Act 1996, the function of the New Zealand Customs Service is to assess and collect the goods levy and, for this purpose,—
+(3) Under the Customs and Excise Act 2018, the function of the New Zealand Customs Service is to assess and collect the goods levy and, for this purpose,—
   (a) assess and collect the levy on goods as if the levy were a duty; and
   (b) recover unpaid levies as if they were unpaid duties.
 (4) Under the Land Transport Act 1998, the function of the Registrar of Motor Vehicles is to assess and collect the motor vehicle levy.
@@ -4322,26 +4322,23 @@ Section 30H(1) and (3) do not apply to any regulations that—
 (1) A levy that becomes payable is a debt due to the Crown.
 (2) The EPA may, on behalf of the Crown, recover the debt in a court of competent jurisdiction.
 (3) This section does not limit—
-  (a) the power of the Customs to recover an unpaid amount of goods levy as a debt under the Customs and Excise Act 1996; or
+  (a) the power of the Customs to recover an unpaid amount of goods levy as a debt under the Customs and Excise Act 2018; or
   (b) the power of the Registrar of Motor Vehicles to recover an unpaid amount of motor vehicle levy as a debt under the Land Transport Act 1998.
 
 ### 231 Penalties for failure to pay levy
-(1) If an importer fails to pay the levy by the date on which section 229 requires payment (the due date), the debt is increased by adding a penalty.
-(2) The penalty is to be calculated in accordance with section 87 of the Customs and Excise Act 1996 as if—
-  (a) a reference to a duty were a reference to a levy; and
-  (b) a reference to additional duty were a reference to a penalty.
+[Repealed]
 
-### 232 Application of provisions of Customs and Excise Act 1996
-(1) The provisions of the Customs and Excise Act 1996 that apply to the collection of duties apply, with all necessary modifications, to the collection of the goods levy under this Act as if the levy were a duty to which that Act applies.
+### 232 Application of provisions of Customs and Excise Act 2018
+(1) The provisions of the Customs and Excise Act 2018 that apply to the collection of duties (including, without limitation, subpart 8 of Part 3 of that Act) apply, with all necessary modifications, to the collection of the goods levy under this Act as if the levy were a duty to which that Act applies.
 (2) However,—
-  (a) section 103(3) of that Act applies as if the reference to dutiable goods were a reference to leviable goods:
-  (b) section 103(4) and (5) of that Act apply as if they did not refer to the owner of the goods or the licensee of a Customs controlled area.
-(3) Despite subsection (1), the following provisions of the Customs and Excise Act 1996 do not apply to the collection of the levy:
-  (a) section 104:
-  (b) section 108:
-  (c) section 112:
-  (d) section 114:
-  (e) section 117.
+  (a) section 138(2) of that Act applies as if the reference to dutiable goods were a reference to leviable goods:
+  (b) section 138(3) and (4) of that Act apply as if they did not refer to the owner of the goods or the licensee of a Customs controlled area.
+(3) Despite subsection (1), the following provisions of the Customs and Excise Act 2018 do not apply to the collection of the levy:
+  (a) section 139:
+  (b) section 144:
+  (c) section 146:
+  (d) section 147:
+  (e) section 153.
 
 **Calculation of levy**
 
@@ -4618,7 +4615,7 @@ The EPA may appoint 1 or more enforcement officers under section 93 to exercise 
   (d) knowingly provides altered, false, incomplete, or misleading information to the EPA, an enforcement officer, or any other person in respect of any matter in this Part; or
   (e) wilfully obstructs, hinders, resists, or deceives—
     (i) the EPA or an enforcement officer exercising a power conferred on that person under this Part; or
-    (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority in relation to a power conferred on that person under the Customs and Excise Act 1996 in relation to the goods levy; or
+    (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority in relation to a power conferred on that person under the Customs and Excise Act 2018 in relation to the goods levy; or
     (iii) the Registrar of Motor Vehicles in relation to a power conferred on him or her under the Land Transport Act 1998 in relation to the motor vehicle levy.
 (2) Every person who is convicted of an offence against subsection (1) is liable on conviction,—
   (a) in the case of an individual, to a fine not exceeding $25,000:
@@ -4634,7 +4631,7 @@ A person who knowingly contravenes section 256 commits an offence and is liable 
   (a) fails to comply with section 248(1) (requirement to collect data or other information and keep records); or
   (b) fails to provide information to—
     (i) the EPA, an enforcement officer, or any other person when required to do so under this Part; or
-    (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority when required to do so under the Customs and Excise Act 1996 in relation to the goods levy; or
+    (ii) the New Zealand Customs Service, a Customs officer, or a Customs Appeal Authority when required to do so under the Customs and Excise Act 2018 in relation to the goods levy; or
     (iii) the Registrar of Motor Vehicles when required to do so under the Land Transport Act 1998 in relation to the motor vehicle levy; or
   (c) provides altered, false, incomplete, or misleading information to the Minister or the EPA or any other person in respect of a matter in this Part.
 (2) Every person who is convicted of an offence against subsection (1) is liable on conviction to either or both of—
