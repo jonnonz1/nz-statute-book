@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -49,7 +49,7 @@ In this Act, unless the context otherwise requires,—
     (a) providing information to the chief executive under section 96; or
     (b) giving notice under section 97(2) of a decision made under section 97(1); or
     (c) giving notice under section 97A(3) of a decision made under section 97A(1)
-  - **arrival hall** means a place licensed under section 12 of the Customs and Excise Act 1996 for the processing of persons arriving in New Zealand
+  - **arrival hall** means a place licensed under section 59 of the Customs and Excise Act 2018 for the processing of persons arriving in New Zealand
   - **biometric information** , in relation to a person, means information that comprises—
     (a) 1 or more of the following kinds of personal information:
       (i) a photograph of all or any part of the person’s head and shoulders:
@@ -99,9 +99,9 @@ In this Act, unless the context otherwise requires,—
   - **crew** , in relation to a craft,—
     (a) means every person employed or engaged in working or providing a service in or on the craft; and
     (b) includes the person in charge of the craft
-  - **customs officer** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **customs officer** has the meaning given to it by section 5(1) of the Customs and Excise Act 2018
   - **Department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **departure hall** means a place licensed under section 12 of the Customs and Excise Act 1996 for the processing of persons departing from New Zealand
+  - **departure hall** means a place licensed under section 59 of the Customs and Excise Act 2018 for the processing of persons departing from New Zealand
   - **dependent child** , in relation to any person, means a child under 18 years of age who is not married or in a civil union and who is dependent on that person, whether or not the child is a child of that person
   - **deportation liability notice** means a notice that states the matters referred to in section 171, and, for the purposes of serving a notice, includes a copy of the notice
   - **deportation order** —
@@ -1409,7 +1409,7 @@ At any time before the transit period of a transit passenger expires, an immigra
   (b) on arrival of the craft at a place that is or contains an immigration control area,—
     (i) to produce for inspection such prescribed documents as an immigration officer may specify; and
     (ii) if applicable, to prevent, with such reasonable force as may be necessary, the disembarkation of any person from the craft otherwise than into an immigration control area:
-  (c) subject to section 25 of the Customs and Excise Act 1996, where the craft arrives, or is to arrive, in New Zealand elsewhere than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, to make appropriate arrangements for all persons on board the craft to report in the manner and within the time prescribed for the purposes of section 103(1)﻿(b):
+  (c) subject to sections 17(3) and 22 of the Customs and Excise Act 2018, where the craft arrives, or is to arrive, in New Zealand elsewhere than at a place that is or contains an immigration control area because of weather conditions or other unforeseen circumstances, to make appropriate arrangements for all persons on board the craft to report in the manner and within the time prescribed for the purposes of section 103(1)﻿(b):
   (d) if a stowaway has been found on the craft, to report that fact to an immigration officer as soon as practicable.
 (2) In addition to any obligations under section 102, the carrier, and the person in charge, of a craft that is en route to New Zealand or that berths, lands, or arrives in New Zealand from another country have the following responsibilities:
   (a) in the case of a craft that is not a commercial passenger aircraft on a scheduled international service, to supply on demand by an immigration officer a list giving such details as the officer may specify concerning every person (whether a member of the crew or a passenger) who has been on board the craft since its last port of call:
@@ -1486,7 +1486,7 @@ At any time before the transit period of a transit passenger expires, an immigra
   (a) must, if the person is a New Zealand citizen or holds a visa and has been granted entry permission, be inspected immediately and returned to the person as soon as the inspection is concluded; or
   (b) may, if the person does not hold a visa or has not been granted entry permission, be retained by the immigration officer, but must be returned to the person on the person’s departure from New Zealand.
 (4) In this section and section 106,—
-  - **customs airport** means an aerodrome designated as a customs airport under section 9 of the Customs and Excise Act 1996
+  - **customs airport** means an aerodrome designated as a customs airport under section 55 of the Customs and Excise Act 2018
   - **domestic passenger** —
     (a) means a passenger who has an entitlement to air travel for a domestic sector on either—
       (i) an aircraft that begins its journey outside New Zealand and, in the course of that journey, enters New Zealand and travels between at least 2 customs airports in New Zealand; or
@@ -2720,7 +2720,7 @@ The Tribunal must allow an appeal against liability for deportation on the facts
   (a) any part of the victim’s written submissions under section 173, whether or not that part was withheld by the Minister under section 173(4):
   (b) any part of the victim’s written submissions under this section.
 (6) Despite subsection (1), the Tribunal must not have regard to any part of the victim’s submissions that is withheld under subsection (5).
-(7) In this section, victim means a victim of an offence of a kind referred to in section 29 of the Victims’ Rights Act 2002.
+(7) In this section, victim means a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002.
 
 **Orders on determination of appeal**
 
@@ -3767,15 +3767,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
 (3) Nothing in subsection (2) applies to or affects any question of the liability of the Crown to the alleged defaulter.
 
 ### 297 Chief executive may supply information concerning specified fines defaulters to commercial carriers
-(1) This section applies to the chief executive of the Department if he or she is supplied with information about a specified fines defaulter (within the meaning of section 280F(3) of the Customs and Excise Act 1996) under section 280F(1) of that Act.
-(2) The chief executive of the Department may supply the information to a commercial carrier—
-  (a) in any form and by any method that the chief executive thinks appropriate; and
-  (b) in whole or in part, in the form of a code representing the information.
-(3) In this section,—
-  - **commercial carrier** means—
-    (a) the owner or operator of a craft that carries persons from New Zealand to a point outside New Zealand for commercial purposes; or
-    (b) the agent of a person described in paragraph (a)
-  - **specified fines defaulter** has the meaning given by section 280F of the Customs and Excise Act 1996.
+[Repealed]
 
 ### 298 Information matching to verify social security benefit matters
 (1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the Social Security Act 1964 (the responsible department) for the purposes of verifying—
@@ -4031,7 +4023,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
     (b) the Ministry of Justice:
     (c) the department of State responsible for the administration of the Biosecurity Act 1993:
     (d) the department of State responsible for the administration of the Corrections Act 2004:
-    (e) the department of State responsible for the administration of the Customs and Excise Act 1996.
+    (e) the department of State responsible for the administration of the Customs and Excise Act 2018.
 
 ### 303 Disclosure of information to enable specified agencies to check identity and character
 (1) The purpose of this section is to facilitate the disclosure of information by the Department to a specified agency to enable the specified agency to—
@@ -4085,7 +4077,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
     (b) the Ministry of Justice:
     (c) the department of State responsible for the administration of the Biosecurity Act 1993:
     (d) the department of State responsible for the administration of the Corrections Act 2004:
-    (e) the department of State responsible for the administration of the Customs and Excise Act 1996.
+    (e) the department of State responsible for the administration of the Customs and Excise Act 2018.
 
 ### 303A Disclosure of information to specified agencies for purposes of law enforcement, counter-terrorism, and security
 (1) The purpose of this section is to enable the disclosure of information by the Department to a specified agency to allow that agency a longer period of time to—
@@ -6108,7 +6100,7 @@ For the purposes of completing any matter to which this Part applies, an immigra
 
 ### 465 Exercise of certain powers by customs officers
 (1) Despite section 2(2) of this Act, a customs officer undertaking immigration duties may exercise the powers in sections 283, 284, and 285 of this Act on and from the date referred to in section 2(4) of this Act until the date those sections are brought into force, and sections 283, 284, and 285 of this Act apply accordingly, as if references to an immigration officer were references to a customs officer.
-(2) It is sufficient compliance with section 327(1)﻿(b) of this Act if the officer exercising powers in accordance with this section produces his or her identity card or other means of identification provided for in section 7 of the Customs and Excise Act 1996.
+(2) It is sufficient compliance with section 327(1)﻿(b) of this Act if the officer exercising powers in accordance with this section produces his or her identity card or other means of identification provided for in section 273 of the Customs and Excise Act 2018.
 
 ### 466 Exercise of certain powers by Police
 Despite section 2(2) of this Act, a constable may exercise the powers in sections 278 and 283 to 287 of this Act on and from the date referred to in section 2(4) of this Act, and this Act applies accordingly as if a reference to an immigration officer were a reference to a constable.
