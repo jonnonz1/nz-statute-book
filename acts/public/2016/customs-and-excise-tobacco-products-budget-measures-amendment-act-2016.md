@@ -1,5 +1,5 @@
 # Customs and Excise (Tobacco Products—Budget Measures) Amendment Act 2016
-_Consolidation as at 2017-05-29_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise (Tobacco Products—Budget Measures) Amendment Act 2016.
