@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2018-02-20_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -311,7 +311,7 @@ This Act binds the Crown.
 
 ### 28 Restriction on transfer of initial licences
 (1) The Board may not transfer, sub-license, or otherwise dispose of an initial licence in respect of a designated market to any other person.
-(2) In order to comply with the restriction on transfer in subsection (1) and for the purposes of the Customs and Excise Act 1996, the Board must own any dairy products which it exports to designated markets.
+(2) In order to comply with the restriction on transfer in subsection (1) and for the purposes of the Customs and Excise Act 2018, the Board must own any dairy products which it exports to designated markets.
 
 **Transferring export licences**
 
@@ -435,9 +435,9 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 
 **Enforcement**
 
-### 30 Customs and Excise Act 1996 to apply to prohibited exports
-(1) All the provisions of the Customs and Excise Act 1996, and any regulations made under that Act, that apply to prohibited exports apply to the export of any dairy products in contravention of this Act in all respects as if the export of those dairy products were prohibited under Part 5 of the Customs and Excise Act 1996.
-(2) The penalty for an offence against section 209(1)﻿(b) of the Customs and Excise Act 1996 is a fine not exceeding $200,000 if the offence is in respect of the export of any dairy products in contravention of this Act.
+### 30 Customs and Excise Act 2018 to apply to prohibited exports
+(1) All the provisions of the Customs and Excise Act 2018, and any regulations made under that Act, that apply to prohibited exports apply to the export of any dairy products in contravention of this Act as if the export of the dairy products were prohibited under subpart 4 of Part 3 of the Customs and Excise Act 2018.
+(2) The penalty for an offence against section 388(1)﻿(b) of the Customs and Excise Act 2018 is a fine not exceeding $200,000 if the offence is in respect of the export of any dairy products in contravention of this Act.
 
 ### 31 Offences
 (1) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $200,000 who exports a dairy product contrary to section 23.
@@ -450,7 +450,7 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
 
 ### 32 Strict liability
 (1) In any proceedings for an offence under section 31, it is not necessary for the prosecution to prove that the defendant intended to commit the offence.
-(2) This section does not limit section 239(4) of the Customs and Excise Act 1996 if proceedings are taken for an offence under that Act.
+(2) This section does not limit section 429(4) of the Customs and Excise Act 2018 if proceedings are taken for an offence under that Act.
 
 ### 33 Defence available
 (1) It is a defence in any proceedings for an offence under section 31 if the defendant proves that—
@@ -522,7 +522,7 @@ The Crown is not liable to any person for—
 (3) Every person commits an offence who fails, without reasonable excuse, to comply with a request under subsection (1) and is liable on conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to further fines not exceeding $10,000 for every day or part of a day during which the offence is continued.
 
 ### 42 Disclosure of information
-(1) The chief executive (or any officer of his or her Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Dairy Industry Act 1952 or the Customs and Excise Act 1996, disclose to each other, on request, information on exporters of dairy products and dairy products exported or proposed to be exported.
+(1) The chief executive (or any officer of his or her Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Dairy Industry Act 1952 or the Customs and Excise Act 2018, disclose to each other, on request, information on exporters of dairy products and dairy products exported or proposed to be exported.
 (2) Information obtained under subsection (1) must not be disclosed except—
   (a) to the persons authorised under that subsection; or
   (b) for the purpose of any proceedings that have been commenced or that are reasonably in contemplation and that are connected with a matter in relation to which those persons perform their duties.
