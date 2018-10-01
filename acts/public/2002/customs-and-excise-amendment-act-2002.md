@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 (1) This Act is the Customs and Excise Amendment Act 2002.
@@ -22,7 +22,7 @@ The purpose of this Act is—
 Schedule 3 of the principal Act is amended by revoking so much as relates to Excise item numbers 99.75.15C and 99.75.18H and Tariff items 2710.19.11 and 2710.19.29, and substituting the Excise item numbers and Tariff items and rates of duty specified in the Schedule.
 
 ### 5 Proportionate adjustment of rates in Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998
-(1) Regulation 3(2)(a) of the Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998 (SR 1998/94) is amended by omitting the expression 13.525 cents, and substituting the expression 17.725 cents.
+(1) Regulation 3(2)﻿(a) of the Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998 (SR 1998/94) is amended by omitting the expression 13.525 cents, and substituting the expression 17.725 cents.
 (2) Regulation 4(1) of the Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998 is amended by inserting, after paragraph (c), the following paragraph:.
   (ca) for search and rescue purposes in a dedicated rescue vessel; or
 (3) Regulation 5(a) of the Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998 is amended by omitting the expression 15.3 cents, and substituting the expression 19.941 cents.
