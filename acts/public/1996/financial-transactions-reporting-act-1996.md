@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -20,7 +20,6 @@ _Consolidation as at 2018-07-01_
       (iii) postal notes:
       (iv) money orders
   - **Commissioner** means the Commissioner of Police
-  - **control of the Customs** has the same meaning as it has in section 20 of the Customs and Excise Act 1996, except that, for the purposes of this Act, references in that section to goods shall be read as if they were references to cash
   - **conveyancing practitioner** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **document** has the same meaning as it has in section 2(1) of the Official Information Act 1982
   - **facility** , subject to any regulations made under this Act,—
@@ -89,11 +88,11 @@ _Consolidation as at 2018-07-01_
   (h)
   (ha)
   (i)
-  (j) the New Zealand Racing Board established by section 7 of the Racing Act 2003:
+  (j) the New Zealand Racing Board established by section 7 of the Racing Act 2003.
   (k)
   (l)
   (la)
-  (m) an accountant, but only to the extent that the accountant receives funds in the course of that person's business for the purposes of deposit or investment.
+  (m)
 (2) A person shall not be regarded as a financial institution for the purposes of this Act merely because that person carries on business as a security technician, security consultant, confidential document destruction agent, or property guard within the meaning of the Private Security Personnel and Private Investigators Act 2010.
 
 ### 4 Amounts not in New Zealand currency
