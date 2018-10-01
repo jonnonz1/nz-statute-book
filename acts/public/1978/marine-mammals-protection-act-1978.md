@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2018-10-01_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -146,7 +146,7 @@ In determining the maximum allowable level of fishing-related mortality for thre
   (b) take any marine mammal, whether alive or dead, in or from its natural habitat or in or from any other place—
 (1A) The Minister may from time to time, by notice in the Gazette, prescribe criteria and standards in respect of any kind of permit referred to in subsection (1); and the prescribed criteria and standards shall be deemed to form part of permits of that kind and shall be complied with accordingly.
 (2) Subject to section 5(3) and to any regulations made under section 28, no person shall import into New Zealand or export from New Zealand any marine mammal or marine mammal product except pursuant to a permit issued under this Act.
-(3) Nothing in subsection (2) shall apply with respect to any whale product the subject of an order made under section 54 or section 56 of the Customs and Excise Act 1996.
+(3) Nothing in subsection (2) shall apply with respect to any whale product the subject of an order made under section 96 of the Customs and Excise Act 2018.
 (4)
 (5) A permit shall not be required—
   (a) by any person who finds or collects bones, teeth, ivory, or ambergris that have already separated naturally from a marine mammal if that person, as soon as practicable, notifies the Director-General or an officer of the find, and gives details of the time, place, and circumstances under which the find was made:
