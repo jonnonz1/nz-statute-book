@@ -1,5 +1,5 @@
 # Postal Services Act 1998
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2018-10-01_
 
 > An Act to regulate the provision of postal services
 
@@ -91,7 +91,7 @@ This Act binds the Crown.
     (ii) the Protected Objects Act 1975:
     (iii) the Trade in Endangered Species Act 1989:
     (iv) the Biosecurity Act 1993:
-    (v) the Customs and Excise Act 1996,—
+    (v) the Customs and Excise Act 2018,—
 (2) Every postal article that is detained under subsection (1) may be opened and examined at a postal outlet by—and (except as provided in any other enactment) must not be opened or examined otherwise.
   (a) 2 or more persons specially authorised for the purpose by a postal operator; or
   (b) 1 such authorised person in the presence of—
@@ -147,7 +147,7 @@ No action lies against any person for any act done in good faith in pursuance or
   (b) where the postal article is believed to be in contravention, or to have been posted in contravention, of the Protected Objects Act 1975, the postal operator must deliver the postal article to the Secretary for Internal Affairs or to such other person as the Secretary for Internal Affairs directs, and the postal article must be dealt with in accordance with that Act:
   (c) where the postal article is believed to be in contravention, or to have been posted in contravention, of the Trade in Endangered Species Act 1989, the postal operator must deliver the postal article to the Director-General of Conservation or to such other person as the Director-General directs, and the postal article must be dealt with in accordance with that Act:
   (d) where the postal article is believed to be in contravention, or to have been posted in contravention, of the Biosecurity Act 1993, the postal operator must deliver the postal article to the chief executive of the department of State that is for the time being responsible for the administration of that Act or to such other person as that chief executive directs, and, in any such case, the provisions of that Act, so far as applicable and with all necessary modifications, apply as if the postal article were unauthorised goods that had been seized, pursuant to section 116 of that Act, on the date of that delivery:
-  (e) where the postal article is believed to be in contravention, or to have been posted in contravention, of the Customs and Excise Act 1996 or any Order in Council or regulation made under that Act, the postal operator must deliver the postal article to the chief executive of the New Zealand Customs Service or to such other person as the chief executive directs, and the postal article must be dealt with in accordance with that Act, order, or regulation:
+  (e) where the postal article is believed to be in contravention, or to have been posted in contravention, of the Customs and Excise Act 2018 or any Order in Council or regulation made under that Act, the postal operator must deliver the postal article to the chief executive of the New Zealand Customs Service or to such other person as the chief executive directs, and the postal article must be dealt with in accordance with that Act, order, or regulation:
   (f) where the postal article is believed to be in contravention, or to have been posted in contravention, of any other enactment (other than this Act),—
     (i) the postal operator must notify the appropriate authority or a constable, and must comply with any lawful direction given by that authority or constable with respect to the postal article; and
     (ii) in the meantime, the postal operator may continue to detain the postal article for not more than 2 working days.
