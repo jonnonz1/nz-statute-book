@@ -1,5 +1,5 @@
 # Imports and Exports (Restrictions) Act 1988
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-10-01_
 
 > Title
 
@@ -26,8 +26,8 @@ _Consolidation as at 2013-07-01_
   - **permit** means a permit to import or export goods provided for under section 3 or 3A
   - **prescribed** means prescribed by an Order in Council for the time being in force under section 3 or section 3A; and, in relation to forms, includes prescribed by the decision-maker
   - **register** means the Imports and Exports (Restrictions) Register required by section 3BD.
-(2) The terms chief executive, Customs controlled area, Customs place, exportation, and importation have the same meanings as in section 2(1) of the Customs and Excise Act 1996.
-(3) Sections 1 to 4, and Parts 1, 2, 3, 4, 10, 12 (except section 142), 13 (except sections 209 and 214), 14, 15, and 17 of the Customs and Excise Act 1996 apply to any goods, the importation or exportation of which is prohibited under this Act, in all respects as if the importation or exportation of the goods were prohibited, or were an offence, under the Customs and Excise Act 1996.
+(2) The terms chief executive, Customs controlled area, Customs place, exportation, and importation have the same meanings as in section 5(1) of the Customs and Excise Act 2018.
+(3) The Customs and Excise Act 2018 (except sections 374 and 388 to 391) applies to any goods the importation or exportation of which is prohibited under this Act as if the importation or exportation of the goods were prohibited, or were an offence, under the Customs and Excise Act 2018.
 (4)
 
 ### 2A Act binds the Crown
