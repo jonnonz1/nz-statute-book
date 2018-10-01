@@ -1,5 +1,5 @@
 # Heavy Engineering Research Levy Act 1978
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2018-10-01_
 
 > An Act to authorise the levying of persons engaged in heavy engineering manufacture and related industries to provide funds for research into heavy engineering
 
@@ -11,13 +11,13 @@ _Consolidation as at 2015-03-26_
 In this Act, unless the context otherwise requires,—
   - **Association** means the New Zealand Heavy Engineering Research Association (Incorporated)
   - **chief executive** means the chief executive of the Ministry (within the meaning of the Research, Science, and Technology Act 2010)
-  - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **Customs** or has the meaning given to Customs by section 5(1) of the Customs and Excise Act 2018
   - **fabricate** means to use any levied item to make machines, equipment, or structures in which the original form of the levied item is substantially modified; and has a corresponding meaning
   - **financial year** means the period of 12 months ending with 31 March in any year
   - **heavy engineering** means that branch of engineering—and which typically produces items of the kind described in Schedule 1
     (a) which characteristically but not exclusively uses as its raw material ferrous or non-ferrous metals in the form of plate having a thickness greater than 4.5 mm or in the form of angles, shapes, and sections exceeding 80 mm by 80 mm in cross-section; or
     (b) which is engaged in the machining of components or items large enough to require cranage to present or locate the workpiece to or in a machine tool being used in the fabrication of machines, equipment, or structures,—
-  - **importer** has the same meaning as in section 2 of the Customs and Excise Act 1996
+  - **importer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **levied items** means those goods specified and described in Schedule 2 or Schedule 3 and subjected to a research levy
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **produce** means to manufacture any levied item; and includes the making of any levied item in the form of sheet from coiled material
@@ -48,19 +48,19 @@ This Act shall bind the Crown.
 ### 6 Recovery and collection
 (1) All research levies imposed under this Act shall be recoverable in any court of competent jurisdiction as a debt due to the Association.
 (2) Research levies imposed on levied items produced within New Zealand shall be payable by the producer directly to the Association within such period after the items were produced as may be specified by the Association.
-(3) Research levies imposed on any levied item imported into New Zealand shall be payable on demand by the Customs in addition to duties (if any) payable to the Customs under any other enactment, and shall be payable as if the levies were duty under the Customs and Excise Act 1996.
+(3) Research levies imposed on any levied item imported into New Zealand shall be payable on demand by the Customs in addition to duties (if any) payable to the Customs under any other enactment, and shall be payable as if the levies were duty under the Customs and Excise Act 2018.
 
 ### 7 Association may require information and returns
 (1) The Association may require any person who produces within New Zealand any levied item to provide the Association with such information in writing or make such return relating to that person's manufacturing operations as may be necessary to enable the Association to assess the amount of levy due; and all such information or every such return may be verified by statutory declaration or by such other means as the Association thinks fit.
 (2) Subject to subsection (3), no person shall disclose otherwise than to the board of the Association, or any officer or employee of the Association, any information provided pursuant to subsection (1) without the consent of the producer from whom the information was obtained.
 (3) Subsection (2) shall not apply—
   (a) to the disclosure of information in the form of a summary of information which is so framed as not to enable particulars relating to any particular business to be ascertained from it; or
-  (b) to any disclosure of information made for the purpose of any legal proceedings pursuant to this Act or the Customs and Excise Act 1996, or for the purposes of any report of any such proceedings.
+  (b) to any disclosure of information made for the purpose of any legal proceedings pursuant to this Act or the Customs and Excise Act 2018, or for the purposes of any report of any such proceedings.
 (4) The provision of any information or the making of any return under this section shall not constitute a condition precedent to the right of the Association to assess, sue for, and recover any research levy payable under this Act.
 
 ### 8 Powers of Customs
-(1) The powers and authorities of the Customs under the Customs and Excise Act 1996 shall, with all necessary modifications, apply in the same manner to the collection of a research levy under this Act as they apply to the collection of duty under that Act.
-(2) Without limiting subsection (1) of this section and notwithstanding section 6(1) of this Act, sections 86 and 96 to 101 of the Customs and Excise Act 1996 shall apply in respect of any research levy required to be collected by the Customs as if it were duty to be collected under that Act.
+(1) The powers and authorities of the Customs under the Customs and Excise Act 2018 shall, with all necessary modifications, apply in the same manner to the collection of a research levy under this Act as they apply to the collection of duty under that Act.
+(2) Without limiting subsection (1) of this section and notwithstanding section 6(1) of this Act, sections 74, 100, 122, 123, 129 to 131, 133, and 134 of the Customs and Excise Act 2018 shall apply in respect of any research levy required to be collected by the Customs as if it were duty to be collected under that Act.
 
 ### 9 All research levies collected to be paid to Association
 Subject to section 10, all research levies received under this Act by the Customs shall be paid to the Association by the Customs.
