@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2018-09-29_
+_Consolidation as at 2018-10-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3558,7 +3558,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (fc) communicating to a person who is a member, employee, or agent, of the New Zealand Customs Service, information that—
     (i) the person is authorised by the New Zealand Customs Service to receive; and
     (ii) relates to a person who is liable to pay financial support under the Child Support Act 1991; and
-    (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
+    (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 307 and 313 of the Customs and Excise Act 2018:
   (g) communicating to an authorised person under section 207 of the Student Loan Scheme Act 2011 any information specified in subsection (1) of that section in accordance with subsection (1) of that section:
   (gb) communicating to the chief executive of the New Zealand Customs Service under section 208 of the Student Loan Scheme Act 2011 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section:
   (gba) communicating to a contact person (within the meaning of section 193A of the Student Loan Scheme Act 2011), for the purposes of a request under that section, any information required to be communicated by that section:
