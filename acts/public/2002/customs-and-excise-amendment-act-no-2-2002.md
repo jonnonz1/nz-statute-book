@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act (No 2) 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 (1) This Act is the Customs and Excise Amendment Act (No 2) 2002.
@@ -17,7 +17,7 @@ _Consolidation as at 2007-09-03_
 (2) Section 2(1) of the principal Act is amended by repealing the definition of importation, and substituting the following definition:
   - **importation** ,—
     (a) in relation to any goods, means the arrival of the goods in New Zealand in any manner, whether lawfully or unlawfully, from a point outside New Zealand; and
-    (b) in relation to electronic publications referred to in section 54(1)(aa), includes the arrival of the electronic publication in New Zealand by transmission by any means (other than by broadcasting) from a point outside New Zealand.
+    (b) in relation to electronic publications referred to in section 54(1)﻿(aa), includes the arrival of the electronic publication in New Zealand by transmission by any means (other than by broadcasting) from a point outside New Zealand.
 (3) Section 2(1) of the principal Act is amended by repealing the definition of manufacture, and substituting the following definition:
   - **manufacture** , in relation to goods specified in the Third Schedule, means,—
     (a) if the goods are tobacco, the process of cutting, pressing, grinding, crushing, or rubbing raw or leaf tobacco, or otherwise preparing raw or leaf tobacco or manufactured or partially manufactured tobacco, and of making cigarettes whether from duty-paid or from non-duty-paid tobacco, and of putting up for use or consumption scraps, waste, chippings, stems, or deposits of tobacco resulting from processing tobacco:
@@ -26,14 +26,14 @@ _Consolidation as at 2007-09-03_
       (i) any operation, or process, involved in the production of the goods; and
       (ii) any ancillary process (as defined in subsection (3)) that takes place on premises that are not licensed, or required to be licensed, under the Sale of Liquor Act 1989.
 (4) Section 2 of the principal Act is amended by adding the following subsection:
-  (3) For the purposes of paragraph (c)(ii) of the definition of manufacture in subsection (1), the term ancillary process, in relation to the manufacture of goods specified in the Third Schedule that are neither tobacco nor a fuel, means any 1 or more of the following processes:
+  (3) For the purposes of paragraph (c)﻿(ii) of the definition of manufacture in subsection (1), the term ancillary process, in relation to the manufacture of goods specified in the Third Schedule that are neither tobacco nor a fuel, means any 1 or more of the following processes:
     (a) filtering the goods, diluting the goods, or blending the goods with other goods (whether the other goods are the same as, similar to, or different from, the goods):
     (b) putting the goods for the first time into a container (for example, a bag, barrel, bottle, can, cask, drum, or keg) in which they might be presented, or from which they might be dispensed, for sale to the public or any member of the public:
     (c) labelling or marking, for the first time, containers filled with the goods.
 
 ### 4 New section 40A inserted
 The principal Act is amended by inserting, after section 40, the following section:Fees and charges relating to importation of goods
-  (1) Without limiting the power to make regulations under section 287, the Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the importation of goods.
+  (1) Without limiting the power to make regulations under section 287, the Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)﻿(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the importation of goods.
   (2) The provisions of Part VIII that relate to the collection and recovery of duty apply to fees and charges prescribed by regulations of the kind described in subsection (1), as if those fees and charges were a duty.
   (3) Before making a recommendation under subsection (1) in relation to any proposed regulations, the Minister must be satisfied that the persons that the Minister considers are representative of interests likely to be substantially affected by the proposed regulations have been consulted about the proposed regulations to the extent that is reasonably practicable having regard to the circumstances of the case.
   (4) For the purposes of subsection (3), the Minister may take into account any relevant consultation undertaken by or on behalf of the Minister before this section comes into force.
@@ -43,10 +43,10 @@ The principal Act is amended by inserting, after section 40, the following secti
 (1) Section 54(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
   (aa) any electronic publication that is objectionable within the meaning of the Films, Videos, and Publications Classification Act 1993; or.
 (2) Section 54 of the principal Act is amended by inserting, after subsection (1), the following subsection:
-  (1A) Electronic publications the importation of which is prohibited by subsection (1)(aa) must be treated as if they were goods for the purposes of this Act (except for section 12 of the Goods and Services Tax Act 1985 which is deemed by section 1(3) of that Act to be part of this Act).
+  (1A) Electronic publications the importation of which is prohibited by subsection (1)﻿(aa) must be treated as if they were goods for the purposes of this Act (except for section 12 of the Goods and Services Tax Act 1985 which is deemed by section 1(3) of that Act to be part of this Act).
 
 ### 6 Entry of excisable goods
-Section 70(1A)(b) of the principal Act is amended by omitting the word manufacturer, and substituting the word owner.
+Section 70(1A)﻿(b) of the principal Act is amended by omitting the word manufacturer, and substituting the word owner.
 
 ### 7 Regulations relating to entry of excisable goods
 Section 71(aa) of the principal Act is amended by omitting the word manufacturer, and substituting the word owner.
@@ -78,7 +78,7 @@ The principal Act is amended by repealing section 149, and substituting the foll
   (2) A preliminary search is a search that—
     (a) involves little or no physical contact between the person conducting the search and the person being searched; and
     (b) is conducted by using an aid or aids such as a dog, or a chemical substance, or a mechanical, electrical, x-ray, imaging, or electronic device, or other similar aid, but not by any more invasive means.
-  (3) If, after a preliminary search under subsection (1), a Customs officer or member of the police has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), sections 149B to 149D apply.
+  (3) If, after a preliminary search under subsection (1), a Customs officer or member of the police has reasonable cause to suspect that a person has hidden on or about his or her person any thing described in section 149B(1)﻿(a), (b), or (c), sections 149B to 149D apply.
   (1) A Customs officer or a member of the police may cause to be detained and searched a person to whom this subsection applies if the officer or member has reasonable cause to suspect that the person has hidden on or about his or her person—
     (a) any dutiable, uncustomed, prohibited, or forfeited goods; or
     (b) evidence relating to any such goods; or
@@ -87,28 +87,28 @@ The principal Act is amended by repealing section 149, and substituting the foll
     (a) either—
       (i) has, within the preceding 24 hours, arrived in New Zealand at a place other than a Customs place; or
       (ii) is about to depart from New Zealand from any place other than a Customs place; and
-    (b) has hidden on or about his or her person any thing described in subsection (1)(a), (b), or (c).
+    (b) has hidden on or about his or her person any thing described in subsection (1)﻿(a), (b), or (c).
   (3) A Customs officer or member of the police may also cause a person to be detained and searched if the officer or member has reasonable cause to believe that the person—
     (a) is not a person described in subsection (2) or section 149; and
     (b) is in a Customs place; and
-    (c) has hidden on or about his or her person any thing described in subsection (1)(a), (b), or (c).
+    (c) has hidden on or about his or her person any thing described in subsection (1)﻿(a), (b), or (c).
   (4) Reasonable force may be used if it is necessary for either or both of the following purposes:
     (a) to detain the person:
     (b) to search the person.
   (5) If a person is detained under subsection (1) or subsection (2) or subsection (3), and there is no suitable searcher available at the place where the search is to take place, the person detained may be taken to another place to be searched.
   (6) Any Customs officer or member of the police who searches a person under this section may require any person that the officer or member thinks necessary to assist him or her.
   (7) A search of a person may be conducted under this section whether or not that person has earlier been the subject of a preliminary search under section 149A.
-  (1) A Customs officer or member of the police may seize any thing found on or about a person when carrying out a search under section 149B(1), (2), or (3) that the officer or member has reasonable cause to suspect is a thing described in section 149B(1)(a), (b), or (c).
+  (1) A Customs officer or member of the police may seize any thing found on or about a person when carrying out a search under section 149B(1), (2), or (3) that the officer or member has reasonable cause to suspect is a thing described in section 149B(1)﻿(a), (b), or (c).
   (2) Reasonable force may be used if it is necessary to seize the thing.
   (1) A person detained under section 149B(1), (2), or (3) must be informed of his or her right to be taken, before being searched, before an officer nominated for that purpose by the Chief Executive, or before a Justice of the Peace or Community Magistrate (a reviewer).
   (2) If a person detained under section 149B(1), (2), or (3) asks to be taken before a reviewer, in accordance with subsection (1), the Customs officer, or member of the police, as the case may be, must immediately take the person before the reviewer.
   (3) The reviewer before whom the person is taken may,—
     (a) in the case of a person detained under section 149B(1),—
-      (i) if it appears to the reviewer that there is reasonable cause to suspect that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be searched; or
-      (ii) if it does not appear to the reviewer that there is reasonable cause to suspect that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be released; or
+      (i) if it appears to the reviewer that there is reasonable cause to suspect that the person has hidden on or about his or her person any thing described in section 149B(1)﻿(a), (b), or (c), direct that the person be searched; or
+      (ii) if it does not appear to the reviewer that there is reasonable cause to suspect that the person has hidden on or about his or her person any thing described in section 149B(1)﻿(a), (b), or (c), direct that the person be released; or
     (b) in the case of a person detained under section 149B(2) or (3),—
-      (i) if it appears to the reviewer that there is reasonable cause to believe that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be searched; or
-      (ii) if it does not appear to the reviewer that there is reasonable cause to believe that the person has hidden on or about his or her person any thing described in section 149B(1)(a), (b), or (c), direct that the person be released.
+      (i) if it appears to the reviewer that there is reasonable cause to believe that the person has hidden on or about his or her person any thing described in section 149B(1)﻿(a), (b), or (c), direct that the person be searched; or
+      (ii) if it does not appear to the reviewer that there is reasonable cause to believe that the person has hidden on or about his or her person any thing described in section 149B(1)﻿(a), (b), or (c), direct that the person be released.
 
 ### 12 New section 152 substituted
 The principal Act is amended by repealing section 152, and substituting the following section:Examination of goods no longer subject to control of Customs
@@ -153,12 +153,12 @@ Section 168 of the principal Act is amended by repealing subsections (3) and (4)
   (3A) A person who is at the place referred to in the warrant when the officer executing the warrant arrives at that place, or who arrives at that place while the officer is executing the warrant, must remain at that place until the earlier of the following events:
     (a) the search of that place is completed; or
     (b) the officer, being satisfied that the person is not connected with the thing referred to in the warrant, permits the person to leave.
-  (3B) A person who is being searched under subsection (3)(b) must remain at the place where he or she is being searched until the search is completed.
+  (3B) A person who is being searched under subsection (3)﻿(b) must remain at the place where he or she is being searched until the search is completed.
   (3C) A Customs officer or member of the police who has reasonable grounds to suspect that a person has refused or failed to comply with subsection (3A) or subsection (3B) may arrest that person without warrant under section 174(1).
-  (3D) No person may be detained under subsection (3)(a) or (b) for a period of time that is unreasonable.
+  (3D) No person may be detained under subsection (3)﻿(a) or (b) for a period of time that is unreasonable.
   (4) Reasonable force may be used if it is necessary for either or both of the following purposes:
-    (a) to detain a person under subsection (3)(a):
-    (b) to search a person under subsection (3)(b).
+    (a) to detain a person under subsection (3)﻿(a):
+    (b) to search a person under subsection (3)﻿(b).
 
 ### 16 Arrest of offenders
 Section 174(1) of the principal Act is amended by inserting, after the expression 176, the words or section 188A.
@@ -183,8 +183,8 @@ Section 187(1) of the principal Act is amended—
 ### 19 New section 188A inserted
 The principal Act is amended by inserting, after section 188, the following section:Failure or refusal to remain at place
   (1) A person commits an offence who—
-    (a) fails or refuses to remain at the place that is being searched under section 168(1)(a) until the earlier of the events specified in section 168(3A)(a) and (b); or
-    (b) fails or refuses to remain at the place where that person is being searched under section 168(3)(b) until that search is completed.
+    (a) fails or refuses to remain at the place that is being searched under section 168(1)﻿(a) until the earlier of the events specified in section 168(3A)﻿(a) and (b); or
+    (b) fails or refuses to remain at the place where that person is being searched under section 168(3)﻿(b) until that search is completed.
   (2) Every person who commits an offence against this section is liable on conviction to a term of imprisonment not exceeding 3 months, or to a fine not exceeding $1,000, or both.
 
 ### 20 New section 209A inserted
@@ -208,7 +208,7 @@ The principal Act is amended by repealing section 223, and substituting the foll
   (4) If the Chief Executive declines to exercise his or her power under subsection (2), the admission in writing made by the offender is not admissible as evidence in any prosecution for that offence.
 
 ### 22 Goods forfeited
-(1) Section 225(1)(l) of the principal Act is amended by omitting the expression section 2, and substituting the expression section 2(1).
+(1) Section 225(1)﻿(l) of the principal Act is amended by omitting the expression section 2, and substituting the expression section 2(1).
 (2) Section 225(1) of the principal Act is amended by inserting, after paragraph (l), the following paragraph:
   (la) goods exported, or in respect of which an attempt to export has been made, that have been acquired in New Zealand, whether by the exporter or some other person, by an act that amounts to a crime involving dishonesty within the meaning of section 2(1) of the Crimes Act 1961:.
 
@@ -223,7 +223,7 @@ The principal Act is amended by inserting, after section 234, the following sect
 Section 235(5) of the principal Act is amended by omitting the words the power to waive forfeiture exercisable under this section, and substituting the words any of the Minister's powers under this section, except this power of delegation.
 
 ### 26 Regulations
-Section 286(1)(o) of the principal Act is amended by inserting, after the words excise duty, the words or excise-equivalent duty.
+Section 286(1)﻿(o) of the principal Act is amended by inserting, after the words excise duty, the words or excise-equivalent duty.
 
 ### 27 Chief Executive may make rules for certain purposes
 Section 288(1) of the principal Act is amended by adding the following paragraph:
