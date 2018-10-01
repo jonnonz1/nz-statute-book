@@ -1,5 +1,5 @@
 # Pork Industry Board Act 1997
-_Consolidation as at 2015-03-26_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the Pork Industry Board Act 1982
 
@@ -159,13 +159,13 @@ Subject to section 5, in performing its functions, or preparing, reconsidering, 
 (2) The board of directors comprises—
   (a) 4 directors elected, in accordance with regulations made under this Act, by pig farmers; and
   (b) at least 1, but not more than 2, directors (being people who, in the Board's opinion, are qualified by relevant expertise to be directors) appointed by the Minister on the Board's recommendation.
-(3) Before making any recommendation for the purposes of subsection (2)(b), the Board must prepare a list of possible appointees, taking particular care to ensure that there are included suitable women available for appointment.
+(3) Before making any recommendation for the purposes of subsection (2)﻿(b), the Board must prepare a list of possible appointees, taking particular care to ensure that there are included suitable women available for appointment.
 (4) The Board must not recommend a person whose name is not on the list; and in making its recommendation must take account of the desirability of its appointed directors' having, collectively, the background, experience, and expertise likely to be most valuable to it (in the light of the background, experience, and expertise of its elected directors) in the performance of its functions.
-(5) The Minister must not appoint any person to be a director under subsection (2)(b) unless satisfied that the Board has complied with subsections (3) and (4) in recommending the person for appointment.
-(6) The Board, when making recommendations, and the Minister, when appointing directors, under subsection (2)(b) must take into account the desirability of staggering directors' terms of office so that a similar number of directors' terms will expire each year.
+(5) The Minister must not appoint any person to be a director under subsection (2)﻿(b) unless satisfied that the Board has complied with subsections (3) and (4) in recommending the person for appointment.
+(6) The Board, when making recommendations, and the Minister, when appointing directors, under subsection (2)﻿(b) must take into account the desirability of staggering directors' terms of office so that a similar number of directors' terms will expire each year.
 (7) Until the earlier of—Schedules 1 and 2 of the Pork Industry Board Act 1982 (as from time to time amended), notwithstanding their repeal by section 54, have effect as if the provisions of those schedules were regulations made under this Act, but as if every reference to a producer member were a reference to a director and every reference to a pork producer were a reference to a pig farmer.
   (a) the expiration of 1 year from the commencement of this section; or
-  (b) the making of regulations under section 50(1)(g),—
+  (b) the making of regulations under section 50(1)﻿(g),—
 
 ### 14 Application of Part 2 of Commerce Act 1986
 (1) Nothing in Part 2 of the Commerce Act 1986 applies in respect of any act, matter, or thing done—
@@ -200,7 +200,7 @@ The provisions in Schedule 2 apply to the Board and the board of directors.
   (b) enough time is allocated to the discussion to give pig farmers a reasonable opportunity to participate in and contribute to it; and
   (c) directors participate responsibly in the discussion and, in particular, respond helpfully to all reasonable questions and concerns raised by pig farmers about—
     (i) the statement itself; or
-    (ii) the Board's strategic intent in relation to any of the matters referred to in section 7(1)(a);or
+    (ii) the Board's strategic intent in relation to any of the matters referred to in section 7(1)﻿(a);or
     (iii) how and to what extent it intends to consult pig farmers on the Board's activities, and (to the extent, if any, that it intends to arrange for people to consult pig farmers on its behalf) how farmer concerns should be reported back to it by people consulting pig farmers on its behalf.
 (2) The Board must ensure that at every annual general meeting resolutions are considered and voted on in relation to each of the following matters:
   (a) whether to approve the Board's recommendation in respect of the appointment or reappointment of an auditor to audit the Board's financial statements for the current financial year:
@@ -211,7 +211,7 @@ The provisions in Schedule 2 apply to the Board and the board of directors.
   (c) if it has been resolved that pig farmers should be elected to represent other pig farmers in their regions at meetings of any kind held during the next financial year, whether (and if so to what extent) they will be entitled to have the expenses they incur in attending the meetings reimbursed by the Board:
   (d) where and when the next annual general meeting should be held:
   (e) such other matters as may be prescribed by regulations made under this Act.
-(3) Subject to section 30(4)(b), the Board may put before any annual general meeting resolutions to approve either or both of the following matters:
+(3) Subject to section 30(4)﻿(b), the Board may put before any annual general meeting resolutions to approve either or both of the following matters:
   (a) terms of reference for a proposed performance audit:
   (b) giving the Board authority to select and appoint a person to conduct it.
 (4) A resolution passed at an annual general meeting under subsection (2) (in respect of any matter referred to in any of paragraphs (a) to (c) of that subsection) is binding on the Board according to its tenor.
@@ -361,8 +361,8 @@ For auditing its financial statements, the Board must pay the person who audits 
   (a) must not determine terms of reference for a performance audit without obtaining the approval of an annual general meeting; and
   (b) must not seek that approval before making known to the annual general meeting the views expressed by the Minister under subsection (2).
 (5) Notwithstanding subsection (3), where—the Minister must, after consultation with the Board, prescribe the terms of reference for the audit by written notice to the Board.
-  (a) the Board has failed to comply with subsection (1) or subsection (4)(b) in relation to a performance audit; or
-  (b) the Board has failed to gain the approval referred to in subsection (4)(a) to any proposed terms of reference for a performance audit,—
+  (a) the Board has failed to comply with subsection (1) or subsection (4)﻿(b) in relation to a performance audit; or
+  (b) the Board has failed to gain the approval referred to in subsection (4)﻿(a) to any proposed terms of reference for a performance audit,—
 (6) If the Minister has, by written notice to the Board, prescribed the terms of reference for a performance audit,—
   (a) as soon as is practicable after doing so, the Minister must publish in the Gazette a notice that the Minister has done so; and
   (b) the Board must make a copy of the written notice available free to any pig farmer who asks for one.
@@ -398,7 +398,7 @@ The person appointed to conduct a performance audit must, in determining how eff
     (i) a written report on the conclusions reached and recommendations formulated as a result of conducting it; and
     (ii) a written summary of those conclusions and recommendations; and
   (b) give copies of the report and summary to the Minister and the Board.
-(2) If asked by a pig farmer to do so, the Board must without charge give the farmer a copy of the written summary prepared under subsection (1)(a)(ii) most recently given to it.
+(2) If asked by a pig farmer to do so, the Board must without charge give the farmer a copy of the written summary prepared under subsection (1)﻿(a)﻿(ii) most recently given to it.
 
 ### 34 Board to pay for performance audits
 For conducting a performance audit, the Board must pay the person who conducts it—
@@ -426,7 +426,7 @@ For conducting a performance audit, the Board must pay the person who conducts i
   (b) must be made to the Director-General within 10 days of the end of the period to which it relates; and
   (c) in the case of a rural slaughterhouse, must be made in respect of the quarterly periods ending with the last days of March, June, September, and December; and
   (d) in all other cases, must be made in respect of such periods as the Director-General for the time being specifies in that behalf by notice in the Gazette.
-(3) For the period before a notice under subsection (2)(d) takes effect, levy returns for licensed premises other than rural slaughterhouses must be made in respect of weekly periods.
+(3) For the period before a notice under subsection (2)﻿(d) takes effect, levy returns for licensed premises other than rural slaughterhouses must be made in respect of weekly periods.
 
 ### 37 Payment of levy
 (1) The Director-General must make to licensees of licensed premises a written demand of any amount of levy money payable under this Act.
@@ -441,11 +441,11 @@ For conducting a performance audit, the Board must pay the person who conducts i
   (b) with the approval of the Director-General, into an office of the Ministry specified by the Director-General.
 (5) An amount required by subsection (4) to be paid must be paid,—
   (a) if the licensee has not earlier under section 38 disputed the validity of the estimate concerned, within 18 days or any longer period the Board allows of the making of the demand:
-  (b) if the estimate concerned has been confirmed or substituted under section 38(3)(c), within 18 days or any longer period the Board allows of the giving of the notice confirming it or substituting it for another.
+  (b) if the estimate concerned has been confirmed or substituted under section 38(3)﻿(c), within 18 days or any longer period the Board allows of the giving of the notice confirming it or substituting it for another.
 (6) All levy money received by the Director-General must be accounted for in full to the Board, subject to section 17(2) and (3) of the Ministries of Agriculture and Forestry (Restructuring) Act 1997.
 
 ### 38 Licensee may dispute estimate
-(1) Within 10 days of the making of a demand under section 37(2) to the licensee of any licensed premises (other than a demand substituted for another under subsection (3)(c)(i) of this section), the licensee may dispute the estimated amount demanded, by written notice to the Board—
+(1) Within 10 days of the making of a demand under section 37(2) to the licensee of any licensed premises (other than a demand substituted for another under subsection (3)﻿(c)﻿(i) of this section), the licensee may dispute the estimated amount demanded, by written notice to the Board—
   (a) containing or accompanied by any written evidence or argument the licensee wishes to bring to the Board's attention; and
   (b) accompanied by a copy of the demand.
 (2) If the demand was made by the Director-General, the licensee must give the Director-General a copy of the notice and the material accompanying it.
@@ -550,7 +550,7 @@ A licensee of licensed premises who—may recover from the owner of the pig when
 (4) A notice may request information—
   (a) in relation to pigs, pork products, or co-products generally; or
   (b) in relation to pigs, pork products, or co-products of kinds specified in the request.
-(5) Instead of requesting any information under subsection (2), the Board may request it from the person holding office under the State Sector Act 1988 as the chief executive of the department of State referred to in section 5 of the Customs and Excise Act 1996; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
+(5) Instead of requesting any information under subsection (2), the Board may request it from the person holding office under the State Sector Act 1988 as the chief executive of the department of State referred to in section 268 of the Customs and Excise Act 2018; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
 (6) The Board—
   (a) must not publish or disclose to any person any information obtained under this section that enables the identity of the person to whom it relates to be identified, except—
     (i) for the purposes of the performance or exercise of any of the Board's functions or powers under this Act; or
@@ -567,7 +567,7 @@ A licensee of licensed premises who—may recover from the owner of the pig when
   (b) must not use any information obtained under this section in any way for gain or reward.
 
 ### 49 Offences and penalties
-(1) Every person who knowingly fails to comply with section 41(1)(b)(ii) commits an offence, and is liable on conviction—
+(1) Every person who knowingly fails to comply with section 41(1)﻿(b)﻿(ii) commits an offence, and is liable on conviction—
   (a) to a fine not exceeding $150,000, if the shortfall in the account exceeds $500,000:
   (b) to a fine not exceeding $80,000, if the shortfall in the account exceeds $100,000 but does not exceed $500,000:
   (c) to a fine not exceeding $30,000, if the shortfall in the account does not exceed $100,000.
@@ -617,7 +617,7 @@ A licensee of licensed premises who—may recover from the owner of the pig when
 (3) If any such notice is posted to any person by registered letter, it is deemed to have been given to the person when it would have been delivered in the ordinary course of post; and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
 
 ### 52 Transitional provisions relating to members of former Board
-(1) After the commencement of this Part, this Act applies to every person who immediately before that commencement was an elected member of the former Board as if the person were a director elected under section 13(2)(a); and, subject to this Act, every such person continues in office as a director,—
+(1) After the commencement of this Part, this Act applies to every person who immediately before that commencement was an elected member of the former Board as if the person were a director elected under section 13(2)﻿(a); and, subject to this Act, every such person continues in office as a director,—
   (a) in the case of a person who—until the close of 31 July 1998:
     (i) was elected to be a member in the 1995 triennial elections; or
     (ii) was elected under the former Act to fill a vacancy caused by the death, resignation, or removal from office of a member elected in the 1995 triennial elections or a successor to such a member,—
@@ -627,10 +627,10 @@ A licensee of licensed premises who—may recover from the owner of the pig when
   (c) in the case of a person who—until the close of 31 July 2000.
     (i) was elected to be a member in the 1997 triennial elections; or
     (ii) was elected under the former Act to fill a vacancy caused by the death, resignation, or removal from office of a member elected in the 1997 triennial elections or a successor to such a member,—
-(2) Notwithstanding anything in this Act, every person who immediately before the commencement of this Part was a member of the former Board appointed under any of paragraphs (b) to (d) of section 4(2) of the former Act is deemed to have become a director appointed under section 13(2)(b) on that commencement; and continues in office until the earliest of the following days:
+(2) Notwithstanding anything in this Act, every person who immediately before the commencement of this Part was a member of the former Board appointed under any of paragraphs (b) to (d) of section 4(2) of the former Act is deemed to have become a director appointed under section 13(2)﻿(b) on that commencement; and continues in office until the earliest of the following days:
   (a) the day on which that person dies, resigns, or is removed from office:
   (b) the day 6 months after that commencement:
-  (c) the day on which the first appointment of any director under section 13(2)(b) takes effect.
+  (c) the day on which the first appointment of any director under section 13(2)﻿(b) takes effect.
 
 ### 53 Transitional provisions relating to officers and employees of Board
 (1) Every person who immediately before the commencement of this section was an officer or employee of the former Board is deemed to become an officer or employee of the Board on that commencement.
@@ -763,8 +763,8 @@ The duties of the directors of the Board set out in this schedule are owed to th
 (3) If a director dies, or resigns, or is removed from office and the residue of the term of the vacating director—
   (a) does not exceed 12 months, the Minister may, on the recommendation of the board of directors, appoint a director for the residue of the term for which the vacating director was elected or appointed; or
   (b) exceeds 12 months, the vacancy must be filled,—
-    (i) where the vacating director was an elected director, by electing a director in the manner specified in section 13(2)(a); or
-    (ii) where the vacating director was an appointed director, by appointing a director in the manner specified in section 13(2)(b).
+    (i) where the vacating director was an elected director, by electing a director in the manner specified in section 13(2)﻿(a); or
+    (ii) where the vacating director was an appointed director, by appointing a director in the manner specified in section 13(2)﻿(b).
 (4) The powers of the Board or the board of directors are not affected by any vacancy in the board of directors.
 
 ### 3 Deputies of directors
