@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2018-06-15_
+_Consolidation as at 2018-10-01_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -302,7 +302,7 @@ Every person, other than a participant (within the meaning of section 17), who�
   (b) the Director is satisfied that the pleasure craft and its safety equipment are adequate for the voyage; and
   (c) the Director is satisfied that the pleasure craft is adequately crewed for the voyage; and
   (d) the pleasure craft and the master comply with any relevant maritime rules.
-(2) No pleasure craft shall be entitled to a certificate of clearance to depart from any port in New Zealand under the Customs and Excise Act 1996 unless subsection (1) has been satisfied.
+(2) No pleasure craft shall be entitled to a certificate of clearance to depart from any port in New Zealand under the Customs and Excise Act 2018 unless subsection (1) has been satisfied.
 
 **Duties in relation to crewing**
 
@@ -3913,7 +3913,7 @@ The Authority shall consult the Oil Pollution Advisory Committee before advising
 
 ### 338 Ships not entitled to certificate of clearance until levies paid
 (1) A receipt shall, if requested, be given to any person paying any oil pollution levy.
-(2) Where any levy is payable in respect of a contributing ship, the ship is not entitled to a certificate of clearance under section 34 of the Customs and Excise Act 1996 until payment is made or evidence of earlier payment of the levy is produced to the chief executive of the New Zealand Customs Service.
+(2) Where any levy is payable in respect of a contributing ship, the ship is not entitled to a certificate of clearance under section 37 of the Customs and Excise Act 2018 until payment is made or evidence of earlier payment of the levy is produced to the chief executive of the New Zealand Customs Service.
 (3) If the chief executive of the New Zealand Customs Service refuses to issue a certificate of clearance where evidence of payment of any levy payable in respect of the ship concerned is not produced, he or she must, upon request, provide reasons in writing for the decision.
 (4) Any person in respect of whom any decision is taken under this section may appeal against that decision to the District Court under section 424.
 
