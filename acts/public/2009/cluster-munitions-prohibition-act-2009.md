@@ -1,5 +1,5 @@
 # Cluster Munitions Prohibition Act 2009
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Cluster Munitions Prohibition Act 2009.
@@ -22,7 +22,7 @@ A person who is exercising a power or discretion under this Act must have regard
   - **chief executive** means the chief executive of the Ministry
   - **cluster munition** has the meaning given to it by section 6
   - **Convention** means the Convention on Cluster Munitions, done at Dublin on 30 May 2008 (a copy of the English text of which is set out in the Schedule); and includes any amendments to the Convention made in accordance with Article 13 of the Convention that are, or will become, binding on New Zealand from time to time
-  - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **dispenser** means a container that is designed to disperse or release explosive bomblets, and is affixed to an aircraft at the time of dispersal or release
   - **enforcement officer** has the same meaning as in section 2(1) of the Hazardous Substances and New Organisms Act 1996
   - **explosive bomblet** means a conventional munition—
@@ -149,10 +149,10 @@ The provisions of this subpart apply, with any necessary modifications, to explo
   (c) must be either—
     (i) authorised under section 15; or
     (ii) destroyed by an officer.
-(2) A cluster munition to be destroyed under subsection (1)(c)(ii) must be retained, pending destruction, as the Minister thinks fit.
+(2) A cluster munition to be destroyed under subsection (1)﻿(c)﻿(ii) must be retained, pending destruction, as the Minister thinks fit.
 
-### 14 Application of Customs and Excise Act 1996 to import and export of cluster munitions
-The provisions of the Customs and Excise Act 1996 that apply to prohibited imports and prohibited exports (except the penalty for an offence against section 209(1)(a) or (b) of that Act) apply to cluster munitions whose importation into and exportation from New Zealand is an offence against section 10(1) of this Act, as if that importation and exportation were prohibited under Part 5 of the Customs and Excise Act 1996.
+### 14 Application of Customs and Excise Act 2018 to import and export of cluster munitions
+The provisions of the Customs and Excise Act 2018 that apply to prohibited imports and prohibited exports (except the penalty for an offence against section 388(1)﻿(a) or (b) of that Act) apply to cluster munitions whose importation into and exportation from New Zealand is an offence against section 10(1) of this Act as if that importation and exportation were prohibited under subpart 4 of Part 3 of the Customs and Excise Act 2018.
 
 ### 15 Minister may authorise cluster munitions for certain purposes
 (1) For the purposes of developing, or training persons in, techniques of cluster munition detection, clearance, or destruction, the Minister may from time to time, by notice in writing, authorise cluster munitions to be used, acquired, possessed, retained, or transferred.
@@ -197,9 +197,9 @@ The purpose of this subpart is to ensure—
 
 ### 20 Consequential amendments to Arms Act 1983
 (1) This section amends the Arms Act 1983.
-(2) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:.
+(2) Section 2 is amended by inserting the following definition in its appropriate alphabetical order:
   - **cluster munition** has the meaning given to it by section 6 of the Cluster Munitions Prohibition Act 2009
-(3) Section 3(2)(a) is amended by inserting the following subparagraph after subparagraph (iv):.
+(3) Section 3(2)﻿(a) is amended by inserting the following subparagraph after subparagraph (iv):
   (iva) an officer as defined by section 7 of the Cluster Munitions Prohibition Act 2009; or
 (4) Section 5(3A) is amended by adding or cluster munitions.
 (5) Section 18(5) is amended by adding or a cluster munition.
