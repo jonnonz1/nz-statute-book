@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -44,7 +44,7 @@ In this Act, unless the context otherwise requires,—
     (a) means a person authorised in writing by the Director-General of Health to enter and inspect premises for the purposes of this Act; and
     (b) includes the Director-General of Health
   - **cloned embryo** means a human embryo that is a genetic copy (whether identical or not) of a living or dead human being, a still-born child, a human embryo, or a human foetus
-  - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **donated cell** means the whole or part of an in vitro human gamete or other in vitro human cell that is donated for reproductive purposes
   - **donated embryo** means an in vitro human embryo that is donated for reproductive purposes
   - **donor** means a person from whose cells a donated embryo is formed or from whose body a donated cell is derived; and,—
@@ -856,23 +856,23 @@ Subpart 6 of Part 4 of the Search and Surveillance Act 2012 applies to any prope
   (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the authorised person or the Commissioner of Police in retaining the item.
 
 ### 73 Detection of import and export offences
-(1) A Customs officer may detain any matter or item that he or she finds in the course of exercising any power of search or examination under the Customs and Excise Act 1996, if he or she believes on reasonable grounds that the matter or item is—
+(1) A Customs officer may detain any matter or item that he or she finds in the course of exercising any power of search or examination under the Customs and Excise Act 2018, if he or she believes on reasonable grounds that the matter or item is—
   (a) a gamete, an embryo, or a foetus, or being that is being imported or exported in contravention of section 8(2) or section 9(2); or
   (b) any equipment or device used in relation to that import or export.
 (2) If a Customs officer detains any matter or item under subsection (1), he or she must, as soon as practicable, deliver that matter or item into the custody of an authorised person.
 (3) Once a matter or item has been delivered under subsection (2),—
   (a) responsibility for that matter or item passes from the Customs officer to the authorised person; and
   (b) section 72 applies to that matter or item as if it had been seized under section 68(1)﻿(d).
-(4) The following sections of the Customs and Excise Act 1996 apply, with any necessary modifications, to any gamete, embryo, foetus, or being that is imported or exported in contravention of section 8(2) or section 9(2) as if the gamete, embryo, foetus, or being and any equipment or device used in relation to that import or export were a prohibited import or, as the case requires, a prohibited export within the meaning of that Act:
-  (a) section 145 (questioning persons about goods and debt):
-  (b) section 147 (evidence of identity and entitlement to travel):
-  (c) section 148 (detention of persons questioned about goods or debt):
-  (d) section 160 (requisition to produce documents):
-  (e) section 161 (further powers in relation to documents).
+(4) The following sections of the Customs and Excise Act 2018 apply, with any necessary modifications, to any gamete, embryo, foetus, or being that is imported or exported in contravention of section 8(2) or section 9(2) as if the gamete, embryo, foetus, or being and any equipment or device used in relation to that import or export were a prohibited import or, as the case requires, a prohibited export within the meaning of that Act:
+  (a) section 205 (questioning persons about goods and debt):
+  (b) section 201 (evidence of identity and entitlement to travel):
+  (c) section 206 (detention of persons questioned about goods or debt):
+  (d) section 251 (requisition to produce documents):
+  (e) section 252 (further powers in relation to documents).
 (5) If a Customs officer requests an authorised person to assist the Customs officer in the exercise of a power under this section or any of the sections applied by subsection (4), the authorised person may exercise the relevant power under the direction of the Customs officer.
 
 ### 74 Exclusion of liability of authorised persons, Customs officers, and assistants
-No authorised person, or a person requested to assist an authorised person, or a Customs officer who does, or omits to do, an act in pursuance of a function or power conferred on that person by this Act or by the Customs and Excise Act 1996 as applied by section 73 is under civil or criminal liability for that act or omission unless the person acts, or omits to act, in bad faith or without reasonable cause.
+No authorised person, or a person requested to assist an authorised person, or a Customs officer who does, or omits to do, an act in pursuance of a function or power conferred on that person by this Act or by the Customs and Excise Act 2018 as applied by section 73 is under civil or criminal liability for that act or omission unless the person acts, or omits to act, in bad faith or without reasonable cause.
 
 ### 75 Offences related to inspections and searches
 (1) Every person commits an offence who—
