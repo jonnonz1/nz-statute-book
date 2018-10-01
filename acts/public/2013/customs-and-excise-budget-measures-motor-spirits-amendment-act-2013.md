@@ -1,5 +1,5 @@
 # Customs and Excise (Budget Measures—Motor Spirits) Amendment Act 2013
-_Consolidation as at 2013-05-20_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise (Budget Measures—Motor Spirits) Amendment Act 2013.
