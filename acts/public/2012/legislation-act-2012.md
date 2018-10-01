@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -1119,12 +1119,10 @@ Every matter approved or prescribed under this Act that is required to be publis
 | Contract and Commercial Law Act 2017 | 239(2)—restriction: only if the order makes an addition to Schedule 5 |
 | Criminal Procedure Act 2011 | 387(1)﻿(i) |
 | Criminal Procedure Act 2011 | 387(1)﻿(j) |
-| Customs and Excise Act 1996 | 54(2) |
-| Customs and Excise Act 1996 | 56(2) |
-| Customs and Excise Act 1996 | 77(1) |
-| Customs and Excise Act 1996 | 79(1) |
-| Customs and Excise Act 1996 | 79A(1)—restriction: only if the order has the effect of increasing the rates of excise duty or excise-equivalent duty on motor spirits (as defined in section 79A(2)) |
-| Customs and Excise Act 1996 | 286A |
+| Customs and Excise Act 2018 | 96(1) |
+| Customs and Excise Act 2018 | Clause 20 of Schedule 3 |
+| Customs and Excise Act 2018 | Clause 21(1) of Schedule 3 |
+| Customs and Excise Act 2018 | Clause 23(1) of Schedule 3—restriction: only if the order increases a rate of duty |
 | Education Act 1989 | 2(4) |
 | Education Act 1989 | 159(4) |
 | Energy (Fuels, Levies, and References) Act 1989 | 33(1) |
