@@ -1,5 +1,5 @@
 # Ministries of Agriculture and Forestry (Restructuring) Act 1997
-_Consolidation as at 2014-01-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to provide for the merger of the Ministry of Agriculture and the Ministry of Forestry into the new Ministry of Agriculture and Forestry, and for related matters
 
@@ -70,7 +70,7 @@ The appointment of every statutory officer who is deemed by section 7 to have tr
   (c) the appointment is revoked.
 
 ### 11 Powers of certain inspectors, etc, under Customs Orders
-In addition to the powers and authorities exercisable by an inspector, chief technical officer, or deputy chief technical officer appointed under the Biosecurity Act 1993, every employee of the new Ministry who is appointed under that Act (whether before or after the commencement of this Act) has all such powers and authorities as may be reasonably necessary for the enforcement of any Order in Council made under section 48 of the Customs Act 1966 or section 54 of the Customs and Excise Act 1996 which prohibits the importation into New Zealand of goods that constitute risk goods within the meaning of the Biosecurity Act 1993.
+In addition to the powers and authorities exercisable by an inspector, chief technical officer, or deputy chief technical officer appointed under the Biosecurity Act 1993, every employee of the new Ministry who is appointed under that Act (whether before or after the commencement of this Act) has all such powers and authorities as may be reasonably necessary for the enforcement of any Order in Council made under section 96 of the Customs and Excise Act 2018 which prohibits the importation into New Zealand of goods that constitute risk goods within the meaning of the Biosecurity Act 1993.
 
 ### 12 Employees, etc, to act under direction of chief executive
 (1) All inspectors, registrars, officers, and employees of the new Ministry must act under the direction of the chief executive of the new Ministry in the exercise and performance of the powers and functions conferred or imposed on them by any enactment administered in the Ministry.
