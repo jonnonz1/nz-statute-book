@@ -1,5 +1,5 @@
 # Game Animal Council Act 2013
-_Consolidation as at 2015-07-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Game Animal Council Act 2013.
@@ -23,8 +23,8 @@ The purposes of this Act are—
   - **conservation board** means a conservation board established under section 6L of the Conservation Act 1987
   - **Council** means the Game Animal Council established under section 6
   - **Crown entity** means a Crown entity within the meaning of section 7 of the Crown Entities Act 2004
-  - **Customs** means the New Zealand Customs Service referred to in section 5 of the Customs and Excise Act 1996
-  - **Customs officer** means a person holding office as a Customs officer under the Customs and Excise Act 1996
+  - **Customs** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
+  - **Customs officer** means a person holding office as a Customs officer under the Customs and Excise Act 2018
   - **Director-General** means the Director-General of Conservation
   - **enforcement officer** means—
     (a) a constable; or
@@ -304,10 +304,10 @@ A person must not export a game trophy from New Zealand that is a souvenir of an
 ### 24 Customs officer may detain game trophies
 (1) A Customs officer may detain any goods that he or she has reasonable grounds to suspect is a game trophy whose exportation is prohibited by section 22.
 (2) The Customs officer may, in detaining the goods, use any reasonably necessary force.
-(3) A game trophy detained under subsection (1) cannot be seized or forfeited under Part 14 of the Customs and Excise Act 1996 until the close of the 20th working day after the detention.
+(3) A game trophy detained under subsection (1) cannot be seized or forfeited under subpart 9 of Part 3 of the Customs and Excise Act 2018 until the close of the 20th working day after the detention.
 (4) The chief executive of Customs may, at any time before the goods are forfeited, deliver the goods to the owner or other person from whom they were seized on production of proof of payment of prescribed game trophy levy.
 (5) Customs must transfer any condemned game trophy to the Council to be dealt with under section 25.
-(6) Section 237(2) of the Customs and Excise Act 1996 does not apply to game trophies.
+(6) Section 189(2) of the Customs and Excise Act 2018 does not apply to game trophies.
 
 ### 25 Disposal of condemned game trophies
 (1) The Council may destroy, sell, or otherwise dispose of any game trophy transferred under section 24(5).
