@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2018-03-02_
+_Consolidation as at 2018-10-01_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -239,12 +239,12 @@ Except where the context otherwise requires,—
 
 ### 6A Border information supplied using JBMS must be supplied in approved form and manner
 (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
-(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+(2) Any person who uses a JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
   (a) for complying with the requirement by using the JBMS; and
   (b) for the time being generally approved in writing by the Director-General.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
+  (b) may be set out in rules under section 325 of the Customs and Excise Act 2018.
 (4) In this section,—
   - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
   - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 4(1) of this Act.
@@ -252,7 +252,7 @@ Except where the context otherwise requires,—
 ### 6B Duty to use JBMS to supply border information
 (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
-  (a) by using the JBMS; or
+  (a) by using a JBMS; or
   (b) by using another means for the time being generally or specifically approved in writing by the Director-General.
 (3) In this section,—
   - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
@@ -2608,7 +2608,7 @@ In addition to all other powers conferred by the District Court Act 2016, the Go
     (viiia) the National Animal Identification and Tracing Act 2012:
     (viiib) the Hazardous Substances and New Organisms Act 1996:
     (ix) the Fisheries Act 1996 or the Fisheries Act 1983:
-    (x) the Customs and Excise Act 1996:
+    (x) the Customs and Excise Act 2018:
     (xi) the Agricultural Compounds and Veterinary Medicines Act 1997:
     (xia) the Animal Welfare Act 1999:
     (xib) the Dairy Industry Restructuring Act 2001:
