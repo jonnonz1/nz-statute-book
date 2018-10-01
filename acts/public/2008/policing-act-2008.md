@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -1201,7 +1201,7 @@ A Police employee warranted as a Police transport enforcement officer has the fo
 (c) the powers of a constable under section 32, 33, 35, and 36 of this Act:
 (d) the powers of a constable to execute any unexecuted process for the arrest of any person without having the process in his or her possession:
 (e) the powers of a constable under sections 12, 13, and 15 of the Aviation Crimes Act 1972:
-(f) the powers of a constable under sections 144, 148B, 149A, 149B, 149BA, 149C, 172(1), 226, and 280D of the Customs and Excise Act 1996:
+(f) the powers of a constable under sections 178, 210(2), 210(3), 211(2), 213, 214, 267(1), and 310 of the Customs and Excise Act 2018:
 (g) the powers of a constable under sections 46(2)–(5), 51(1), 52(1), 54(1) and (3), 55(1), 56(1), and 58(1) of the Maritime Security Act 2004.ExampleA Police employee working at a roadside drink driver or drug-affected driver screening operation.
 
 ## Schedule 2 — Procedure for compulsory final offer arbitration for constables
