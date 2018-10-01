@@ -1,5 +1,5 @@
 # Customs and Excise (Border Processing—Trade Single Window and Duties) Amendment Act 2014
-_Consolidation as at 2014-03-24_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise (Border Processing—Trade Single Window and Duties) Amendment Act 2014.
@@ -40,9 +40,9 @@ After section 3, insert:Transitional and savings provisions relating to amendmen
     (b) that affect other provisions of this Act (see section 306A).
 
 ### 6 Section 21 amended (Advice of arrival, etc)
-(1) Repeal section 21(1)(a)(v) and (vi).
+(1) Repeal section 21(1)﻿(a)﻿(v) and (vi).
 (2) Replace section 21(2) with:
-  (2) The information referred to in subsection (1)(a)—
+  (2) The information referred to in subsection (1)﻿(a)—
     (a) may be provided, on behalf of the person in charge of the craft, by—
       (i) the owner or operator of the craft referred to in subsection (1); or
       (ii) an agent of the owner or operator; and
@@ -104,7 +104,7 @@ After section 48, insert:Transhipments: international or domesticTranshipment re
     (c) be accompanied by such supporting documents (being documents each of which is genuine, not erroneous, and not misleading) as the chief executive may require.
   (4) Information supplied under this section is subject to, but this section does not limit, section 204A (offence relating to failing to update information supplied in advance).
   (5) The chief executive must as soon as is reasonably practicable agree to or decline each transhipment request made.
-  (6) A transhipment request agreed to by the chief executive authorises (under section 47(1)(a)) removal of the cargo from a Customs controlled area, for the transhipment purposes, and on the conditions (if any), the chief executive specifies when agreeing to the request.
+  (6) A transhipment request agreed to by the chief executive authorises (under section 47(1)﻿(a)) removal of the cargo from a Customs controlled area, for the transhipment purposes, and on the conditions (if any), the chief executive specifies when agreeing to the request.
   (7) However, a transhipment request agreed to by the chief executive does not limit or affect enactments in or under other Acts that apply to the cargo (for example, enactments in or under the Biosecurity Act 1993 on uncleared goods).
   (8) A person who is dissatisfied with a decision of the chief executive under subsection (4) may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
@@ -119,9 +119,9 @@ In section 79A(2), replace the definition of motor spirits with:
       (ii) Tariff items 2207.20.23, 2207.20.35, 2710.12.15, 2710.12.17, 2710.12.19, 2710.12.23, 2710.12.25, 2710.12.29, 2710.19.34, 2710.19.42, 3824.90.87, 3824.90.93, and 3826.00.20.
 
 ### 13 Section 81 amended (Power of Governor-General in Council to suspend, remit, refund, or create exemptions from excise duties and excise-equivalent duties on goods supplied to certain organisations and their members)
-(1) In section 81(1)(a), replace Minister with chief executive.
+(1) In section 81(1)﻿(a), replace Minister with chief executive.
 (2) After section 81(2), insert:
-  (3) An approval that was given by the Minister under subsection (1)(a) (as in force before the commencement of this subsection) and that was in force immediately before that commencement continues in force after that commencement as if it had been given (and may be amended, revoked, or revoked and replaced) by the chief executive under subsection (1)(a) (as in force after that commencement).
+  (3) An approval that was given by the Minister under subsection (1)﻿(a) (as in force before the commencement of this subsection) and that was in force immediately before that commencement continues in force after that commencement as if it had been given (and may be amended, revoked, or revoked and replaced) by the chief executive under subsection (1)﻿(a) (as in force after that commencement).
 (3) Subsection (4) amends the Excise and Excise-Equivalent Duties Exemption (Inter-Governmental Agreements) Order 1996.
 (4) In the Schedule,—
   (a) replace Schedule 3 of the Customs and Excise Act 1996 with the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996); and
@@ -141,9 +141,9 @@ Replace section 109 with:Reimportation of goods exported
 ### 15 Section 118 amended (Regulations may prescribe minimum duty collectable or refundable and minimum drawback allowable)
 (1) In the heading to section 118, replace minimum duty collectable or refundable with minimum duty collectable, value of goods below which duty need not be collected, minimum duty refundable,.
 (2) After section 118(a), insert:.
-  (ab) the value of goods below which duty need not be collected, how that value must be determined (despite anything to the contrary in this Act and, in particular, in the definition of Customs value or value in section 2(1), and in sections 60, 61, 63(6)(a), and 229(1)(a), and Schedule 2), and the circumstances in which that duty need not be collected; and
+  (ab) the value of goods below which duty need not be collected, how that value must be determined (despite anything to the contrary in this Act and, in particular, in the definition of Customs value or value in section 2(1), and in sections 60, 61, 63(6)﻿(a), and 229(1)﻿(a), and Schedule 2), and the circumstances in which that duty need not be collected; and
 (3) In section 118, insert as subsections (2) to (5):
-  (2) Regulations made under section 286 and prescribing all or any of the matters specified in subsection (1)(a) or (ab) of this section may be made only on the Minister's recommendation.
+  (2) Regulations made under section 286 and prescribing all or any of the matters specified in subsection (1)﻿(a) or (ab) of this section may be made only on the Minister's recommendation.
   (3) Before making a recommendation under subsection (2), the Minister must be satisfied that the persons that the Minister considers are representative of interests likely to be substantially affected by the proposed regulations have been consulted about the proposed regulations to the extent that is reasonably practicable having regard to the circumstances of the case.
   (4) For the purposes of subsection (3), the Minister may take into account any relevant consultation undertaken by or on behalf of the Minister before that subsection comes into force.
   (5) A failure to comply with subsection (3) does not affect the validity of any regulations of the kind described in subsection (2).
@@ -174,11 +174,11 @@ Replace Part 11 with:Joint Border Management System (JBMS)Joint Border Managemen
   (2) In determining whether the applicant entity (including every nominated representative, if any, of the entity) is fit and proper to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user, the chief executive may consider all relevant information available to the chief executive, and may take into account all or any of the following that apply to, or in respect of, the applicant entity (including every nominated representative, if any, of the entity):
     (a) a serious or repeated failure by or on behalf of the applicant entity to comply with requirements in or under this Act, the Biosecurity Act 1993, the Hazardous Substances and New Organisms Act 1996, or any other enactment that regulates the importation of goods (or with requirements in or under any corresponding overseas laws):
     (b) convictions for any border-related offence, dishonesty offence, or drugs offence (as those terms are defined by section 132B, or for any corresponding offence against overseas laws) entered against all or any individuals who are, or are representatives or other agents or employees of, or are concerned in the management of, the applicant entity:
-    (c) other relevant grounds (including, without limitation, all other relevant grounds prescribed) for considering that the applicant entity (or, as the case requires, a or the nominated representative of the entity) is (in any way, and to any extent) likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both (including, without limitation, the requirement to comply with conditions imposed under subsection (1)(a)).
-  (3) Conditions imposed under subsection (1)(a) may, without limitation, relate to the purposes for which, or otherwise to the extent to which, the applicant entity (including every nominated representative, if any, of the entity) can access, transmit information to, or receive information from, the JBMS.
+    (c) other relevant grounds (including, without limitation, all other relevant grounds prescribed) for considering that the applicant entity (or, as the case requires, a or the nominated representative of the entity) is (in any way, and to any extent) likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both (including, without limitation, the requirement to comply with conditions imposed under subsection (1)﻿(a)).
+  (3) Conditions imposed under subsection (1)﻿(a) may, without limitation, relate to the purposes for which, or otherwise to the extent to which, the applicant entity (including every nominated representative, if any, of the entity) can access, transmit information to, or receive information from, the JBMS.
   (4) The chief executive must give written notice of his or her decision to the applicant entity.
   (5) An applicant entity that is dissatisfied with a decision of the chief executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
-  (1) Border-related offence, in sections 132A(2)(b) and 135(1)(c), means an offence against this Act, or against an enactment in, or made under, any of the following enactments:
+  (1) Border-related offence, in sections 132A(2)﻿(b) and 135(1)﻿(c), means an offence against this Act, or against an enactment in, or made under, any of the following enactments:
     (a) Agricultural Compounds and Veterinary Medicines Act 1997:
     (b) Animal Products Act 1999:
     (c) Biosecurity Act 1993:
@@ -194,8 +194,8 @@ Replace Part 11 with:Joint Border Management System (JBMS)Joint Border Managemen
     (m) regulations under the United Nations Act 1946:
     (n) Wine Act 2003:
     (o) any other enactment involving the unlawful entry into, or unlawful removal from, New Zealand, of a person, matter, or thing.
-  (2) Dishonesty offence, in sections 132A(2)(b) and 135(1)(c), means an offence described in Part 10 of the Crimes Act 1961 except for an offence described in sections 267 to 271 of that Act.
-  (3) Drugs offence, in sections 132A(2)(b) and 135(1)(c), means an offence against an enactment in, or made under, the Misuse of Drugs Act 1975.
+  (2) Dishonesty offence, in sections 132A(2)﻿(b) and 135(1)﻿(c), means an offence described in Part 10 of the Crimes Act 1961 except for an offence described in sections 267 to 271 of that Act.
+  (3) Drugs offence, in sections 132A(2)﻿(b) and 135(1)﻿(c), means an offence against an enactment in, or made under, the Misuse of Drugs Act 1975.
   (1) An applicant entity that is registered as a JBMS user may be assigned by the chief executive a unique user identifier—
     (a) for use by the entity, or for use on its behalf by a or the nominated representative of it, in relation to the JBMS; and
     (b) in a form, or of a nature, that the chief executive determines.
@@ -223,16 +223,16 @@ Replace Part 11 with:Joint Border Management System (JBMS)Joint Border Managemen
     (b) for the time being generally approved in writing by the chief executive.
   (3) The approved form and manner referred to in subsection (2)—
     (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-    (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)(j).
+    (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j).
   (1) The chief executive may by written notice to a registered JBMS user (which must state grounds for the cancellation) cancel that registered JBMS user's registration if satisfied that the user (or, as the case requires, a or the nominated representative of the user)—
-    (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)(a) or 133(4); or
+    (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)﻿(a) or 133(4); or
     (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the applicable time frame specified in section 134A(3) and (4); or
     (c) has been convicted of any border-related offence, dishonesty offence, or drugs offence (as those terms are defined by section 132B); or
     (d) is, on 1 or more prescribed grounds, unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user.
   (2) The chief executive may (despite subsection (1)) by written notice to a registered JBMS user (which must state grounds for the suspension) suspend that registered JBMS user's registration until a date or event specified in the notice if satisfied that the registered JBMS user's registration should not be cancelled, but should instead be suspended until that date or event, because the user (or, as the case requires, a or the nominated representative of the user)—
-    (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)(a) or 133(4); or
+    (a) has failed to comply with a condition imposed by the chief executive under section 132A(1)﻿(a) or 133(4); or
     (b) has failed to comply with a condition imposed by the chief executive under section 134A(1) within the applicable time frame specified in section 134A(3) and (4).
-  (3) The date or event specified in the notice under subsection (2) may, but need not, be the date of the event that is or, as the case may be, the event that is, the user's (or, as the case requires, the nominated representative's) compliance with a condition imposed by the chief executive under section 132A(1)(a), 133(4), or 134A(1).
+  (3) The date or event specified in the notice under subsection (2) may, but need not, be the date of the event that is or, as the case may be, the event that is, the user's (or, as the case requires, the nominated representative's) compliance with a condition imposed by the chief executive under section 132A(1)﻿(a), 133(4), or 134A(1).
   (4) An entity dissatisfied with a decision of the chief executive under this section to cancel or suspend that entity's registration as a JBMS user may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
   (1) The Customs must keep a record of every transmission using the JBMS sent to, or received from, a registered JBMS user (including, without limitation, by way of a or the nominated representative of the user).
   (2) The record described in subsection (1) must be kept for—
@@ -241,13 +241,13 @@ Replace Part 11 with:Joint Border Management System (JBMS)Joint Border Managemen
 
 ### 17 Section 182 amended (Unauthorised access to or improper use of Customs computerised entry processing system)
 (1) In the heading to section 182, replace Customs computerised entry processing system with JBMS.
-(2) In section 182(1)(a), (b), and (c), replace any Customs computerised entry processing system with the JBMS.
-(3) In section 182(1)(b), replace such a computer system with the JBMS.
+(2) In section 182(1)﻿(a), (b), and (c), replace any Customs computerised entry processing system with the JBMS.
+(3) In section 182(1)﻿(b), replace such a computer system with the JBMS.
 
 ### 18 Section 183 amended (Interference with Customs computerised entry processing system)
 (1) In the heading to section 183, replace Customs computerised entry processing system with JBMS.
-(2) In section 183(1)(a) and (b), replace any Customs computerised entry processing system with the JBMS.
-(3) In section 183(1)(c),—
+(2) In section 183(1)﻿(a) and (b), replace any Customs computerised entry processing system with the JBMS.
+(3) In section 183(1)﻿(c),—
   (a) replace duplicate tape or disc or other medium with computer system; and
   (b) replace a Customs computerised entry processing system with the JBMS.
 
@@ -256,10 +256,10 @@ Replace Part 11 with:Joint Border Management System (JBMS)Joint Border Managemen
 (2) In section 184(2), replace Customs computerised entry processing system with JBMS.
 
 ### 20 Section 191 amended (Offences in relation to arrival of craft)
-(1) In section 191(1)(a), replace 21(1) with 21.
-(2) After section 191(1)(a)(iii), insert:.
-  (iiia) to ensure that information referred to in section 21(1)(a) is accompanied by the supporting documents required under section 21(2)(b); or
-  (iiib) to ensure that each supporting document that, as required under section 21(2)(b), accompanies information referred to in section 21(1)(a), is genuine, not erroneous in a material particular, and not misleading; or
+(1) In section 191(1)﻿(a), replace 21(1) with 21.
+(2) After section 191(1)﻿(a)﻿(iii), insert:.
+  (iiia) to ensure that information referred to in section 21(1)﻿(a) is accompanied by the supporting documents required under section 21(2)﻿(b); or
+  (iiib) to ensure that each supporting document that, as required under section 21(2)﻿(b), accompanies information referred to in section 21(1)﻿(a), is genuine, not erroneous in a material particular, and not misleading; or
 
 ### 21 New section 192A inserted (Offences in relation to inward cargo report)
 After section 192, insert:Offences in relation to inward cargo report
@@ -274,12 +274,12 @@ After section 192, insert:Offences in relation to inward cargo report
     (b) in the case of a body corporate, to a fine not exceeding $15,000.
 
 ### 22 Section 193 amended (Offences in relation to departure of craft)
-In section 193(1)(b)(i), replace outward reports with advance notices of departure.
+In section 193(1)﻿(b)﻿(i), replace outward reports with advance notices of departure.
 
 ### 23 Section 194 amended (Offences in relation to outward report)
 (1) In the heading to section 194, replace outward report with advance notice of departure.
-(2) In section 194(1)(a), replace outward report with advance notice of departure.
-(3) In section 194(1)(b), replace report with advance notice.
+(2) In section 194(1)﻿(a), replace outward report with advance notice of departure.
+(3) In section 194(1)﻿(b), replace report with advance notice.
 
 ### 24 New sections 194B and 194C inserted
 After section 194A, insert:Offences in relation to outward cargo reportOffences in relation to transhipment requests
@@ -295,7 +295,7 @@ After section 194A, insert:Offences in relation to outward cargo reportOffences 
   (1) A person who makes, or purports to make, a transhipment request, commits an offence if the person fails to comply with any 1 or more or all of the following requirements in section 48A:
     (a) to make the request to the chief executive before the prescribed deadline:
     (b) to ensure that the request contains such information relating to the cargo (being information that is genuine, not erroneous in a material particular, and not misleading) as may be prescribed:
-    (c) to ensure that each supporting document that, as required under section 48A(3)(c), accompanies a transhipment request is genuine, not erroneous, and not misleading.
+    (c) to ensure that each supporting document that, as required under section 48A(3)﻿(c), accompanies a transhipment request is genuine, not erroneous, and not misleading.
   (2) Every person who commits an offence against this section is liable on conviction,—
     (a) in the case of an individual, to a fine not exceeding $5,000:
     (b) in the case of a body corporate, to a fine not exceeding $15,000.
@@ -311,10 +311,10 @@ After section 204, insert:Offence relating to failure to update information supp
   (2) The person commits an offence if the person—
     (a) knows, or ought reasonably to know, that the information has become erroneous or misleading in a material particular; and
     (b) fails to take all reasonable steps to supply to the chief executive, the Customs, or a Customs officer, as soon as is reasonably practicable, replacement information that is not erroneous, or misleading in a material particular.
-  (3) Every person who commits an offence against subsection (2), and in doing so under subsection (2)(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (3) Every person who commits an offence against subsection (2), and in doing so under subsection (2)﻿(a) ought reasonably to have known that the information had become erroneous or misleading in a material particular, is liable on conviction,—
     (a) in the case of an individual, to a fine not exceeding $1,000; or
     (b) in the case of a body corporate, to a fine not exceeding $5,000.
-  (4) Every person who commits an offence against subsection (2), and in doing so under subsection (2)(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
+  (4) Every person who commits an offence against subsection (2), and in doing so under subsection (2)﻿(a) knew that the information had become erroneous or misleading in a material particular, is liable on conviction,—
     (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; or
     (b) in the case of a body corporate, to a fine not exceeding $50,000.
 
@@ -355,67 +355,67 @@ Before section 282J, insert:Application of sections 282J to 282L
   (3) On that date of expiry (as provided in section 282I(1)), sections 282E to 282I, and the cross-heading above section 282E, are repealed, and all orders (if any) under section 282I(2) are revoked.
 
 ### 31 Section 284 amended (Giving of notice)
-(1) In section 284(1)(g),—
+(1) In section 284(1)﻿(g),—
   (a) replace a Customs computerised entry processing system and uses the system with the JBMS and uses the JBMS; and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
-(2) In section 284(2)(f),—
+(2) In section 284(2)﻿(f),—
   (a) replace a Customs computerised entry processing system and uses the system with the JBMS and uses the JBMS; and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
-(3) In section 284(3)(e),—
+(3) In section 284(3)﻿(e),—
   (a) replace a Customs computerised entry processing system and uses the system with the JBMS and uses the JBMS; and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
-(4) In section 284(4)(d),—
+(4) In section 284(4)﻿(d),—
   (a) replace a Customs computerised entry processing system with the JBMS; and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
 
 ### 32 Section 285 amended (Additional provision relating to notices under this Act)
-In section 285(2)(f), replace the relevant Customs computerised entry processing system with the JBMS.
+In section 285(2)﻿(f), replace the relevant Customs computerised entry processing system with the JBMS.
 
 ### 33 Section 286 amended (Regulations)
-(1) Repeal section 286(1)(b) and (ba).
-(2) After section 286(1)(d), insert:.
+(1) Repeal section 286(1)﻿(b) and (ba).
+(2) After section 286(1)﻿(d), insert:.
   (da) prescribing the deadline before which inward cargo reports must (under section 21A(2)) be given to the Customs under this Act:
   (db) prescribing the deadline before which outward cargo reports must (under section 37A(2)) be given to the Customs under this Act:
-(3) In section 286(1)(e), after must, insert (under section 26(2)(a)).
-(4) In section 286(1)(ga), replace outward reports with advance notices of departure.
-(5) After section 286(1)(j), insert:.
+(3) In section 286(1)﻿(e), after must, insert (under section 26(2)﻿(a)).
+(4) In section 286(1)﻿(ga), replace outward reports with advance notices of departure.
+(5) After section 286(1)﻿(j), insert:.
   (ja) prescribing the deadline before which transhipment requests must (under section 48A(2)) be made to the Customs under this Act:
-(6) Replace section 286(1)(x), (xa), and (y) with:.
-  (ya) prescribing, for the purposes of section 132A(2)(c), 1 or more other relevant grounds for considering that an applicant entity is likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both:
-  (yb) prescribing, for the purposes of section 135(1)(d), 1 or more other grounds on which a registered JBMS user (or, as the case requires, a or the nominated representative of a registered JBMS user) may be considered unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user:
-  (yc) prescribing for the purposes of section 136(2)(b) a period other than that specified in section 136(2)(a) for which records of transmissions to or from the JBMS must be kept by the Customs:
+(6) Replace section 286(1)﻿(x), (xa), and (y) with:.
+  (ya) prescribing, for the purposes of section 132A(2)﻿(c), 1 or more other relevant grounds for considering that an applicant entity is likely to fail to comply with requirements in or under this Act, the Biosecurity Act 1993, or both:
+  (yb) prescribing, for the purposes of section 135(1)﻿(d), 1 or more other grounds on which a registered JBMS user (or, as the case requires, a or the nominated representative of a registered JBMS user) may be considered unfit to continue to be (or, as the case requires, to be a or the nominated representative of) a registered JBMS user:
+  (yc) prescribing for the purposes of section 136(2)﻿(b) a period other than that specified in section 136(2)﻿(a) for which records of transmissions to or from the JBMS must be kept by the Customs:
 
 ### 34 Section 286B amended (Regulations made under section 286A to be confirmed)
 (1) In section 286B(1), delete validated and.
 (2) In section 286B(2), delete validating and.
 
 ### 35 Section 288 amended (Chief executive may make rules for certain purposes)
-(1) Before section 288(1)(a), insert:.
+(1) Before section 288(1)﻿(a), insert:.
   (aaa) prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a Customs controlled area:
   (aab) prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a CASE:
-(2) In section 288(1)(a), replace outward reports with advance notices of departure.
-(3) After section 288(1)(a), insert:.
+(2) In section 288(1)﻿(a), replace outward reports with advance notices of departure.
+(3) After section 288(1)﻿(a), insert:.
   (aa) prescribing the form and manner in which an inward cargo report under section 21A must be given:
-(4) After section 288(1)(c), insert:.
+(4) After section 288(1)﻿(c), insert:.
   (ca) prescribing the form and manner in which an outward cargo report under section 37A must be given:
-(5) After section 288(1)(d), insert:.
+(5) After section 288(1)﻿(d), insert:.
   (da) prescribing the form and manner in which a transhipment request under section 48A must be made:
-(6) After section 288(1)(h), insert:.
+(6) After section 288(1)﻿(h), insert:.
   (ha) prescribing the form of application for registration as a JBMS user, and the information to be provided by the applicant:
-(7) After section 288(1)(i), insert:
+(7) After section 288(1)﻿(i), insert:
   (j) setting out, for the information of registered JBMS users, the form and manner for the time being generally approved in writing under a border management function Act (as defined in subsection (1A)) for complying with a requirement by or under that Act to supply any border information to the Customs or to the Ministry by using the JBMS.
 (8) After section 288(1), insert:
   (1A) Border management function Act, in this section, means an Act that is—
-    (a) this Act (see section 134B(3)(b) of this Act); or
-    (b) the Biosecurity Act 1993 (see section 7E(3)(b) of that Act); or
-    (c) an Act that is specified by regulations under section 165A of the Biosecurity Act 1993 to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1) of that Act (see section 7E(3)(b) of that Act); or
-    (d) the Agricultural Compounds and Veterinary Medicines Act 1997 (see section 4B(3)(b) of that Act); or
-    (e) the Animal Products Act 1999 (see section 6A(3)(b) of that Act); or
-    (f) the Food Act 1981 (see section 8AAA(3)(b) of that Act); or
-    (g) the Hazardous Substances and New Organisms Act 1996 (see section 97AA(3)(b) of that Act); or
-    (h) the Wine Act 2003 (see section 113A(3)(b) of that Act).
+    (a) this Act (see section 134B(3)﻿(b) of this Act); or
+    (b) the Biosecurity Act 1993 (see section 7E(3)﻿(b) of that Act); or
+    (c) an Act that is specified by regulations under section 165A of the Biosecurity Act 1993 to be an Act for the purposes of the definition of Ministry-related border management function in section 41A(1) of that Act (see section 7E(3)﻿(b) of that Act); or
+    (d) the Agricultural Compounds and Veterinary Medicines Act 1997 (see section 4B(3)﻿(b) of that Act); or
+    (e) the Animal Products Act 1999 (see section 6A(3)﻿(b) of that Act); or
+    (f) the Food Act 1981 (see section 8AAA(3)﻿(b) of that Act); or
+    (g) the Hazardous Substances and New Organisms Act 1996 (see section 97AA(3)﻿(b) of that Act); or
+    (h) the Wine Act 2003 (see section 113A(3)﻿(b) of that Act).
 (9) After section 288(2), insert:
-  (2A) No rule under subsection (1)(j) setting out the form and manner prescribed by or under a border management function Act (as defined in subsection (1A)) can be made unless that rule has been developed by following a process—
+  (2A) No rule under subsection (1)﻿(j) setting out the form and manner prescribed by or under a border management function Act (as defined in subsection (1A)) can be made unless that rule has been developed by following a process—
     (a) agreed in writing between the chief executive and the chief executive of the department of State for the time being responsible for that Act's administration; and
     (b) for the purpose of developing all, or any specified, proposed rules of that kind; and
     (c) promptly after it is agreed or amended, revoked, or revoked and replaced, notified via an Internet site that is, so far as practicable, publicly available free of charge.
@@ -429,16 +429,16 @@ After section 306, insert:Transitional and savings provisions relating to amendm
 Before Schedule 1, insert the Schedule 1AA set out in the Schedule of this Act.
 
 ### 38 Consequential amendments to other Acts
-(1) In the Copyright Act 1994, section 144A(2)(d)(iv),—
+(1) In the Copyright Act 1994, section 144A(2)﻿(d)﻿(iv),—
   (a) replace a Customs computerised entry processing system with the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996); and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
-(2) In the Copyright Act 1994, section 144B(2)(d)(iv),—
+(2) In the Copyright Act 1994, section 144B(2)﻿(d)﻿(iv),—
   (a) replace a Customs computerised entry processing system with the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996); and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
-(3) In the Trade Marks Act 2002, section 155B(2)(d)(iv),—
+(3) In the Trade Marks Act 2002, section 155B(2)﻿(d)﻿(iv),—
   (a) replace a Customs computerised entry processing system with the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996); and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
-(4) In the Trade Marks Act 2002, section 155C(2)(d)(iv),—
+(4) In the Trade Marks Act 2002, section 155C(2)﻿(d)﻿(iv),—
   (a) replace a Customs computerised entry processing system with the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996); and
   (b) replace the relevant Customs computerised entry processing system with the JBMS.
 
@@ -463,8 +463,8 @@ Changeover, in clauses 2 and 3, means the beginning of the day immediately after
 (2) An individual to whom subclause (1) applies—
   (a) has, after the changeover, deemed registration as a JBMS user under section 132 (as in force after the changeover); and
   (b) must as soon as practicable after the changeover be assigned a unique user identifier for use in relation to the JBMS under section 133 (as in force after the changeover).
-(3) The deemed registration under subclause (2)(a) is subject to conditions under sections 132A(1)(a), 133(4), and 134A(1) (as in force after the changeover) the same as the conditions (if any) to which the individual was, immediately before the changeover, subject under sections 132(2), 133, or 134A(1) (as in force before the changeover), and may be cancelled or suspended under section 135 (as in force on and after the changeover).
-(4) The conditions referred to in subclause (3) may be amended, revoked, or revoked and replaced under sections 132A(1)(a), 133(4), and 134A(1) (as in force after the changeover).
+(3) The deemed registration under subclause (2)﻿(a) is subject to conditions under sections 132A(1)﻿(a), 133(4), and 134A(1) (as in force after the changeover) the same as the conditions (if any) to which the individual was, immediately before the changeover, subject under sections 132(2), 133, or 134A(1) (as in force before the changeover), and may be cancelled or suspended under section 135 (as in force on and after the changeover).
+(4) The conditions referred to in subclause (3) may be amended, revoked, or revoked and replaced under sections 132A(1)﻿(a), 133(4), and 134A(1) (as in force after the changeover).
 
 ### 3 Applications to be registered user of Customs computerised entry processing system
 (1) This subclause applies to an application that is—
