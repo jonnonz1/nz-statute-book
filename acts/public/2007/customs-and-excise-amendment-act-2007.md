@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2007
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act 2007.
@@ -13,19 +13,19 @@ This Act amends the Customs and Excise Act 1996.
 ## Part 1 — Main amendments to principal Act
 
 ### 4 Interpretation
-(1) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:.
+(1) Section 2(1) is amended by inserting the following definition in its appropriate alphabetical order:
   - **dangerous item** means—
     (a) any firearm (as defined in section 11(2) of the Aviation Crimes Act 1972); or
     (b) any dangerous or offensive weapon or instrument of any kind whatsoever; or
     (c) any ammunition; or
     (d) any explosive substance or device, or any other injurious substance or device of any kind whatsoever that could be used to endanger a person's safety
-(2) The definition of exportation in section 2(1) is amended by omitting section 56(1)(a) and substituting section 56.
+(2) The definition of exportation in section 2(1) is amended by omitting section 56(1)﻿(a) and substituting section 56.
 (3) Paragraph (b) of the definition of New Zealand in section 2(1) is amended by inserting 143(1AA), after 140(1),.
 (4) The definition of prohibited exports in section 2(1) is amended by inserting or electronic publications after goods.
 
 ### 5 Inward report
 Section 26 is amended by adding the following subsection:
-  (3) The particulars and supporting documents referred to in subsection (2)(a) need not include information that has already been supplied to the Customs in any form and manner approved in writing by the Chief Executive under section 21(1)(a) or otherwise.
+  (3) The particulars and supporting documents referred to in subsection (2)﻿(a) need not include information that has already been supplied to the Customs in any form and manner approved in writing by the Chief Executive under section 21(1)﻿(a) or otherwise.
 
 ### 6 New heading and sections 32A to 32C inserted
 The following heading and sections are inserted after section 32:Further requirements relating to persons arriving in or departing from New ZealandUse of electronic communication devices prohibited in certain placesCompletion of processing under Immigration Act 1987 and Biosecurity Act 1993Cases requiring investigation for public health or law enforcement purposes
@@ -104,9 +104,9 @@ Section 34 is repealed and the following section substituted:Certificate of clea
 
 ### 8 Prohibited exports
 (1) Section 56(1) is amended by repealing paragraph (b) and substituting the following paragraphs:
-  (b) goods or electronic publications the exportation of which is prohibited by an order under subsection (2)(a) or (b); and
-  (c) goods or electronic publications the exportation of which the Secretary has determined is prohibited under an order under subsection (2)(c).
-(2) Section 56(1A) is amended by omitting subsection (1)(a) and substituting subsection (1).
+  (b) goods or electronic publications the exportation of which is prohibited by an order under subsection (2)﻿(a) or (b); and
+  (c) goods or electronic publications the exportation of which the Secretary has determined is prohibited under an order under subsection (2)﻿(c).
+(2) Section 56(1A) is amended by omitting subsection (1)﻿(a) and substituting subsection (1).
 (3) Section 56(2) is repealed and the following subsections are substituted:
   (2) If the Governor-General considers prohibition is necessary in the public interest, the Governor-General may by Order in Council prohibit the exportation from New Zealand of any or all of the following:
     (a) any specified—
@@ -128,19 +128,19 @@ Section 34 is repealed and the following section substituted:Certificate of clea
       (b) the development, production, or deployment of biological weapons (as defined in section 2 of the New Zealand Nuclear Free Zone, Disarmament, and Arms Control Act 1987) and their means of delivery:
       (c) the development, production, or deployment of chemical weapons (as defined in the Schedule of the Chemical Weapons (Prohibition) Act 1996) and their means of delivery:
       (d) military use or applications; or the development, production, or deployment of military goods or other goods that have a civilian use but that are intended for military use or that may have military applications.
-  (2B) An order under subsection (2)(c) must describe goods or electronic publications by reference only to uses that relate (directly or indirectly) to either or both of the following:
+  (2B) An order under subsection (2)﻿(c) must describe goods or electronic publications by reference only to uses that relate (directly or indirectly) to either or both of the following:
     (a) where contrary to New Zealand's interests, strategic uses:
     (b) terrorist acts (as defined in section 5 of the Terrorism Suppression Act 2002).
-  (2C) The Secretary may determine that any goods or electronic publications are goods or electronic publications described by an order under subsection (2)(c).
+  (2C) The Secretary may determine that any goods or electronic publications are goods or electronic publications described by an order under subsection (2)﻿(c).
   (2D) As soon as practicable after making a determination under subsection (2C), the Secretary must give notice in writing (which includes, without limitation, by facsimile or electronic means) of the determination to the Chief Executive and to each relevant exporter.
   (2E) The relevant exporter is deemed to have received the Secretary's notice under subsection (2D) in accordance with section 285.
-  (2F) If any person is aware or should reasonably be aware that any goods or electronic publications the person wishes to export are intended for or may have any of the uses described in an order made under subsection (2)(c), the person must, before exporting the goods or electronic publications, inform the Secretary.
-  (2G) The Secretary must maintain an up-to-date list of all goods, classes of goods, electronic publications, and classes of electronic publications that are prohibited under subsection (2)(a) and (b) because they have or may have a strategic use.
+  (2F) If any person is aware or should reasonably be aware that any goods or electronic publications the person wishes to export are intended for or may have any of the uses described in an order made under subsection (2)﻿(c), the person must, before exporting the goods or electronic publications, inform the Secretary.
+  (2G) The Secretary must maintain an up-to-date list of all goods, classes of goods, electronic publications, and classes of electronic publications that are prohibited under subsection (2)﻿(a) and (b) because they have or may have a strategic use.
   (2H) The Secretary must make the list maintained under subsection (2G) available by—
     (a) notifying the Chief Executive of it; and
     (b) publishing it on the Internet (at all reasonable times) on a website maintained by, or on behalf of, the Secretary.
   (2I) Any failure to publish a list under subsection (2H) does not invalidate the prohibition of goods or electronic publications mentioned in the list.
-(4) Section 56(3)(b) is amended by inserting or electronic publications after goods.
+(4) Section 56(3)﻿(b) is amended by inserting or electronic publications after goods.
 (5) Section 56(4) is amended by inserting or electronic publications after goods.
 
 ### 9 New section 65 substituted
@@ -157,8 +157,8 @@ Section 65 is repealed and the following section substituted:Regulations for det
       (iv) variations or conditions relating to the goods entering the commerce of another country.
 
 ### 10 Indexation of rates of excise duty and excise-equivalent duty on alcoholic beverages and tobacco products
-(1) Section 79(2)(b) is amended by omitting June and substituting July.
-(2) Section 79(2)(c) is amended by omitting December and substituting January.
+(1) Section 79(2)﻿(b) is amended by omitting June and substituting July.
+(2) Section 79(2)﻿(c) is amended by omitting December and substituting January.
 (3) Section 79(3) is amended by omitting 30th day of September in and substituting 30th day of September immediately before.
 
 ### 11 New section 83 substituted
@@ -271,18 +271,18 @@ Section 175A is repealed and the following sections are substituted:Seizure and 
       (i) section 130 of the Animal Products Act 1999:
       (ii) section 98C of the Crimes Act 1961:
       (iii) section 232 or 233 of the Fisheries Act 1996:
-      (iv) section 126(4) or 142(1)(d) of the Immigration Act 1987:
+      (iv) section 126(4) or 142(1)﻿(d) of the Immigration Act 1987:
       (v) section 37 or 43 of the Medicines Act 1981:
       (vi) section 29A, 30, or 31 of the Passports Act 1992.
   (2) A Customs officer who detains goods under subsection (1) must, as soon as practicable, deliver those goods into the custody of the appropriate person specified in subsection (4).
   (3) Once goods have been delivered to a person under subsection (2), responsibility for those goods passes to that person.
   (4) The appropriate person referred to in subsection (2) is—
-    (a) if the Customs officer believes that subsection (1)(b)(ii), (iv), or (vi) applies to the goods, a member of the police; and
+    (a) if the Customs officer believes that subsection (1)﻿(b)﻿(ii), (iv), or (vi) applies to the goods, a member of the police; and
     (b) if the Customs officer believes that another provision of subsection (1) applies to the goods, an appropriately authorised officer who holds office under the Act specified in that provision or is employed by the department of State that administers the Act.
   (5) Section 199 of the Summary Proceedings Act 1957 applies with any necessary modifications to goods detained under subsection (1).
 
 ### 17 Offences in relation to arrival of craft
-Section 191(1) is amended by repealing paragraph (a) and substituting the following paragraph:.
+Section 191(1) is amended by repealing paragraph (a) and substituting the following paragraph:
   (a) being the person in charge of any craft, fails to comply with any of the following requirements in section 21(1) (which relates to advice of arrival):
     (i) to give advance notice of any or all of the matters prescribed; or
     (ii) to give advance notice in the form and manner approved in writing by the Chief Executive; or
@@ -291,7 +291,7 @@ Section 191(1) is amended by repealing paragraph (a) and substituting the follow
     (v) to proceed as directed by a Customs officer:
 
 ### 18 Offences in relation to departure of craft
-Section 193(1) is amended by repealing paragraph (b) and substituting the following paragraph:.
+Section 193(1) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) being the person in charge of any craft,—
     (i) fails to comply with section 34(a) (which relates to outward reports); or
     (ii) refuses to answer any question put to that person by a Customs officer under section 34(b) or knowingly gives a false answer to the question; or
@@ -303,27 +303,27 @@ The following section is inserted after section 194:Failure to comply with requi
   (2) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
 
 ### 20 Offences in relation to importation or exportation of prohibited goods
-(1) Section 209(1) is amended by inserting the following paragraph after paragraph (c):.
-  (ca) fails, in breach of section 56(2F), to inform the Secretary of Foreign Affairs and Trade that any goods or electronic publications he or she wishes to export are intended for or may have any of the uses described in an order made under section 56(2)(c); or
+(1) Section 209(1) is amended by inserting the following paragraph after paragraph (c):
+  (ca) fails, in breach of section 56(2F), to inform the Secretary of Foreign Affairs and Trade that any goods or electronic publications he or she wishes to export are intended for or may have any of the uses described in an order made under section 56(2)﻿(c); or
 (2) Section 209(3) is amended by inserting (ca), after (b).
 (3) Section 209 is amended by inserting the following subsection after subsection (4):
-  (4A) However, it is a defence in a prosecution for an offence relating to an export of goods prohibited by or under section 56(1)(c) if the defendant proves that, through no fault of the relevant exporter, the relevant exporter did not actually receive the Secretary's notice of the prohibition sent under section 56(2D).
+  (4A) However, it is a defence in a prosecution for an offence relating to an export of goods prohibited by or under section 56(1)﻿(c) if the defendant proves that, through no fault of the relevant exporter, the relevant exporter did not actually receive the Secretary's notice of the prohibition sent under section 56(2D).
 
 ### 21 Goods forfeited
-(1) Section 225(1)(d) is amended by adding or section 149C(1A)(b).
-(2) Section 225(1)(da) is amended by adding or section 149C(1)(b).
+(1) Section 225(1)﻿(d) is amended by adding or section 149C(1A)﻿(b).
+(2) Section 225(1)﻿(da) is amended by adding or section 149C(1)﻿(b).
 
 ### 22 Supply of arrival and departure information for benefit purposes
 Section 280(1) is amended by adding the following paragraph:
   (c) an allowance established by regulations made under section 303 of the Education Act 1989.
 
 ### 23 Additional provision relating to notices under this Act
-(1) Section 285(2)(b) is amended by adding , except that a notice sent under section 56(2D) is deemed to have been received at the time it is sent.
-(2) Section 285(2)(c) is amended by adding , except that a notice sent under section 56(2D) is deemed to have been received at the time it is sent.
+(1) Section 285(2)﻿(b) is amended by adding , except that a notice sent under section 56(2D) is deemed to have been received at the time it is sent.
+(2) Section 285(2)﻿(c) is amended by adding , except that a notice sent under section 56(2D) is deemed to have been received at the time it is sent.
 (3) Section 285(3) is amended by adding or was not received at all.
 
 ### 24 Chief Executive may make rules for certain purposes
-(1) Section 288(1)(b) is repealed.
+(1) Section 288(1)﻿(b) is repealed.
 (2) Section 288(5) is amended by omitting or (h) and substituting (h), or (i).
 
 ## Part 2 — Consequential amendments to principal Act
@@ -354,7 +354,7 @@ Section 148 is amended by repealing subsection (2) and substituting the followin
 
 ### 30 Searching of persons for dangerous items
 (1) Section 149BA(2) is repealed.
-(2) Section 149BA(5)(a) is amended by omitting Comptroller of Customs and substituting Chief Executive.
+(2) Section 149BA(5)﻿(a) is amended by omitting Comptroller of Customs and substituting Chief Executive.
 
 ### 31 Obligations of persons arriving in or departing from New Zealand
 Section 180(1) is amended by omitting sections 27 to 32 of this Act and substituting sections 27 to 32C (other than section 32A).
@@ -366,7 +366,7 @@ The heading above section 191 is amended by adding and persons.
 Section 195 is amended by omitting sections 191 to 194 of this Act and substituting sections 191 to 194A.
 
 ### 34 Power of Chief Executive to deal with petty offences
-Section 223(1)(b) is amended by omitting and 186 and substituting , 186, and 194A.
+Section 223(1)﻿(b) is amended by omitting and 186 and substituting , 186, and 194A.
 
 ### 35 Schedule 1 amended
 Schedule 1 is amended by omitting Food Regulations 1984 and substituting Food (Safety) Regulations 2002.
