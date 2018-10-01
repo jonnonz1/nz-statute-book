@@ -1,5 +1,5 @@
 # Anti-Personnel Mines Prohibition Act 1998
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2018-10-01_
 
 > An Act to implement in the law of New Zealand the Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction
 
@@ -95,8 +95,8 @@ An anti-personnel mine in respect of which an offence against section 7(2) has b
     (i) authorised under section 11; or
     (ii) deactivated or destroyed by an officer and, pending deactivation or destruction, be retained as the Minister thinks fit.
 
-### 10 Application of Customs and Excise Act 1996
-All the provisions of the Customs and Excise Act 1996 that apply to prohibited imports and prohibited exports (except the penalty for an offence against section 209(1)(a) or (b) of that Act) apply to anti-personnel mines whose importation and exportation is prohibited by section 7(1)(d) of this Act, in all respects as if the importation and exportation of those mines were prohibited under Part 5 of the Customs and Excise Act 1996.
+### 10 Application of Customs and Excise Act 2018
+All the provisions of the Customs and Excise Act 2018 that apply to prohibited imports and prohibited exports (except the penalty for an offence against section 388(1)﻿(a) or (b) of that Act) apply to anti-personnel mines whose importation and exportation is prohibited by section 7(1)﻿(d) of this Act as if the importation and exportation of the mines were prohibited under subpart 4 of Part 3 of the Customs and Excise Act 2018.
 
 ### 11 Minister may authorise anti-personnel mines for certain purposes
 (1) For the purposes of developing, or training persons in, techniques of mine detection, mine clearance, mine deactivation, or mine destruction, the Minister may from time to time, by notice in writing, authorise anti-personnel mines to be used, developed, produced, otherwise acquired, possessed, retained, or transferred.
@@ -118,7 +118,7 @@ All the provisions of the Customs and Excise Act 1996 that apply to prohibited i
   (b) keep records in relation to the anti-personnel mine, and the purpose to which the anti-personnel mine is put; and
   (c) prepare, from those records, periodic reports relating to the anti-personnel mine in a form approved by the Secretary; and
   (d) send those periodic reports to the Secretary at intervals specified by the Minister or by regulations made under this Act.
-(2) The records and reports under subsection (1)(b) to (d) must be sufficient to enable the Minister to determine whether the Convention and the provisions of this Act and any regulations made under this Act are being complied with.
+(2) The records and reports under subsection (1)﻿(b) to (d) must be sufficient to enable the Minister to determine whether the Convention and the provisions of this Act and any regulations made under this Act are being complied with.
 (3) Every person who, without reasonable excuse, refuses or fails to comply with subsection (1) commits an offence.
 (4) Every person who commits an offence against subsection (3) is liable on conviction to imprisonment for a term not exceeding 1 year or a fine not exceeding $100,000.
 
@@ -161,7 +161,7 @@ A member of a fact-finding mission has the right, and every person must permit a
 
 ### 19 Officers who may accompany member of fact-finding mission
 (1) To facilitate a fact-finding mission, a member of a fact-finding mission may be accompanied by any officer.
-(2) Despite subsection (1), a person appointed by the Minister under section 4(2) may not accompany a member of a particular fact-finding mission unless that person is also appointed under section 4(2)(f) to accompany or assist that member.
+(2) Despite subsection (1), a person appointed by the Minister under section 4(2) may not accompany a member of a particular fact-finding mission unless that person is also appointed under section 4(2)﻿(f) to accompany or assist that member.
 
 **Directions**
 
@@ -184,7 +184,7 @@ The Minister may issue a certificate identifying any member of a fact-finding mi
   (a) may not be made unless the consent of a person in control of the place is not, or may not be, obtainable; and
   (b)
   (c) must include a copy of relevant provisions of the Convention and a copy of the documents (if any) authorising the fact-finding mission.
-(3) For the purposes of subsection (2)(a), consent means consent to a member of a fact-finding mission, and any officer who may accompany the member, entering the place to exercise any function contemplated, or any power provided for, in the Convention.
+(3) For the purposes of subsection (2)﻿(a), consent means consent to a member of a fact-finding mission, and any officer who may accompany the member, entering the place to exercise any function contemplated, or any power provided for, in the Convention.
 (4) The provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply.
 
 ### 23 Obligations of officers accompanying member of fact-finding mission
