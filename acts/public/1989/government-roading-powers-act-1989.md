@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2017-08-11_
+_Consolidation as at 2018-10-01_
 
 > Title
 
@@ -16,7 +16,7 @@ _Consolidation as at 2017-08-11_
   - **Commissioner** means the Commissioner of Police
   - **council-controlled organisation** means a council-controlled organisation within the meaning of the Local Government Act 2002
   - **Crown Bank Account** has the same meaning as in the Public Finance Act 1989
-  - **excise duty** means excise duty payable on motor spirits, compressed natural gas, and liquefied petroleum gas under the Customs and Excise Act 1996
+  - **excise duty** means excise duty payable on motor spirits, compressed natural gas, and liquefied petroleum gas under the Customs and Excise Act 2018
   - **financial year** , in relation to the Agency, means the period of 12 months commencing on 1 July in any year and ending with the close of 30 June in the next year
   - **land transport** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
