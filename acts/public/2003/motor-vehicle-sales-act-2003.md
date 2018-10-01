@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -124,7 +124,7 @@ This Act binds the Crown.
     (a) an offence against—
       (i) the Crimes Act 1961; or
       (ii) the Fair Trading Act 1986; or
-      (iii) the Customs and Excise Act 1996; or
+      (iii) the Customs and Excise Act 2018; or
       (iv) the Land Transport Act 1998:
     (b) an offence against this Act:
     (c) an offence punishable by a term of imprisonment
