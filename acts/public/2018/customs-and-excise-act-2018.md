@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -71,7 +71,7 @@ Part 3
   (h) interest and penalties for late or incorrect payments of duty, incorrect refunds of duty, and drawback incorrectly allowed (subpart 8):
   (i) the forfeiture, seizure, and condemnation of goods (subpart 9 (including Schedule 5)).
 Part 4
-(5) Part 4 sets out powers that are given to Customs, including the following:
+(5) Part 4 (including Schedule 5A) sets out powers that are given to Customs, including the following:
   (a) powers in relation to craft:
   (b) powers in relation to persons:
   (c) powers to enter certain places:
@@ -2380,7 +2380,8 @@ This subpart applies to all forfeitures that arise under this Act.
     (i) in New Zealand; and
     (ii) by an act that amounts to a crime involving dishonesty:
   (t) any goods, equipment, or apparatus used, or intended for use, in the manufacture of Part A goods in contravention of section 56(1)﻿(a):
-  (u) any goods manufactured wholly or partly using any goods, equipment, or apparatus referred to in paragraph (t).
+  (u) any goods manufactured wholly or partly using any goods, equipment, or apparatus referred to in paragraph (t):
+  (v) a ship treated as forfeited under clause 8(3) of Schedule 5A.
 (2) For the purposes of subsection (1)﻿(b) and (c), prohibited goods are treated as exported when they are placed in or on any craft for exportation.
 (3) If goods are forfeited, the following are also forfeited:
   (a) any case, covering, or other enclosure in or on which the goods are contained at the time of seizure, importation, or exportation (other than a cargo device):
@@ -2616,13 +2617,16 @@ A Customs officer boarding or searching any craft in New Zealand under section 1
     (ii) the craft has transported that person into New Zealand; and
     (iii) that transportation constituted an offence under section 98C(1) of the Crimes Act 1961.
 (2) A Customs officer—
-  (a) may—
-    (i) direct that the craft proceed to the nearest Customs place or to any other place that the officer considers appropriate; or
-    (ii) direct that the craft remain where it is; and
-  (b) may detain the craft for any time and for any purposes reasonably necessary to carry out an investigation into the commission of the offence concerned.
-(3) Subsection (4) applies if the person in charge of the craft attempts, or threatens, to cause the craft to depart, without a certificate of clearance, from the place—
-  (a) to which the craft is directed to proceed under subsection (2)﻿(a)﻿(i); or
-  (b) at which the craft is directed to remain under subsection (2)﻿(a)﻿(ii).
+  (a) may detain the craft at the place where it is:
+  (b) may also direct—
+    (i) that the craft proceed to the nearest Customs place or to any other place that the officer considers appropriate; and
+    (ii) that the craft’s detention continue during the craft’s journey to that place, and at that place once the craft arrives there.
+(2A) A power in subsection (2) is exercisable only if, and for so long as, a Customs officer is satisfied that the exercise of the power is reasonably necessary to carry out an investigation into the commission of the offence concerned.
+(2B) If a direction is given under subsection (2)﻿(b), a Customs officer may, for the purpose of implementing the direction, do any of the following:
+  (a) direct any person on the craft to take any specified action:
+  (b) take charge of the craft:
+  (c) arrange for the craft to be towed by another craft.
+(3) Subsection (4) applies if the person in charge of the craft attempts, or threatens, to cause the craft to depart, without a certificate of clearance, from a place where it is detained under subsection (2).
 (4) A Customs officer may detain the craft until a certificate of clearance is issued.
 
 ### 200 Offences in relation to detained craft
@@ -3539,6 +3543,14 @@ Liability
     (i) the commission of an offence under section 371, 388, 389, 390, or 391 in respect of the controlled item; or
     (ii) conduct that would, if done in New Zealand, be an offence under section 371, 388, 389, 390, or 391 in respect of the controlled item; or
     (iii) the design, manufacture, or adaption of goods to facilitate the commission of a crime involving dishonesty.
+
+**Drugs smuggling outside New Zealand, etc**
+
+### 267A Powers for dealing with drugs smuggling outside New Zealand, etc
+(1) Schedule 5A contains powers for dealing with drugs smuggling outside New Zealand, etc.
+(2) The purpose of Schedule 5A is to further New Zealand’s implementation of the following (which relate to the suppression of illicit traffic in narcotic drugs and psychotropic substances at sea):
+  (a) article 108 of the United Nations Convention on the Law of the Sea:
+  (b) article 17 of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances.
 
 ## Part 5 — Administrative provisions
 
@@ -6888,6 +6900,163 @@ The chief executive must dismiss an application for a review if the applicant do
 
 ### 9 Right of appeal to Customs Appeal Authority from decision on review
 A person who is dissatisfied with a decision of the chief executive on an application for a review may, within 20 working days after notice of the decision is given under clause 8, appeal to a Customs Appeal Authority against the decision (or any part of the decision).
+
+## Schedule 5A — Powers for dealing with drugs smuggling outside New Zealand, etc
+
+**Preliminary provisions**
+
+### 1 Definitions for schedule
+(1) In this schedule,—
+  - **controlled drug** has the meaning given to that term in section 2(1) of the Misuse of Drugs Act 1975
+  - **data** has the meaning given to that term in section 228(5) of this Act
+  - **drugs smuggler** means a person who—
+    (a) has committed, is committing, or is likely to commit a drugs smuggling offence; or
+    (b) has been, is, or is likely to be otherwise concerned in the commission of a drugs smuggling offence
+  - **drugs smuggling evidence** means any of the following:
+    (a) a controlled drug or precursor substance:
+    (b) any equipment or material that is capable of being used in, or for, the commission of an offence under section 6(1)﻿(b) of the Misuse of Drugs Act 1975:
+    (c) anything else that is evidence of 1 or more of the following:
+      (i) that a drugs smuggling offence has been, is being, or is likely to be committed:
+      (ii) that a ship is involved in drugs smuggling:
+      (iii) that a drugs smuggler is on a ship
+  - **drugs smuggling offence** means an offence—
+    (a) under section 6(2) or (2A) of the Misuse of Drugs Act 1975 in relation to a contravention of, or a conspiracy to contravene, section 6(1)﻿(a) of that Act; or
+    (b) under section 12AB(1) of the Misuse of Drugs Act 1975; or
+    (c) under section 12C of the Misuse of Drugs Act 1975 in relation to an act or omission that would be an offence—
+      (i) under section 6(2) or (2A) of the Misuse of Drugs Act 1975 in relation to a contravention of, or a conspiracy to contravene, section 6(1)﻿(a) of that Act; or
+      (ii) under section 12AB(1) of the Misuse of Drugs Act 1975; or
+    (d) under section 12E or 12F of the Misuse of Drugs Act 1975
+  - **electronic device** has the meaning given to that term in section 228(5) of this Act
+  - **exclusive economic zone** , in relation to New Zealand, has the meaning given to that term in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+  - **flag State** , in relation to a foreign ship, means—
+    (a) the State in which the ship is registered; or
+    (b) if the ship is unregistered, the State whose flag the ship is entitled to fly or whose marks of registry the ship is entitled to display
+  - **foreign ship** means a ship—
+    (a) that is not a New Zealand ship; and
+    (b) that—
+      (i) is registered in a State other than New Zealand; or
+      (ii) is entitled to fly the flag, or to display the marks of registry, of a State other than New Zealand
+  - **high seas** means all parts of the sea not included in—
+    (a) the internal waters, territorial sea, or exclusive economic zone of New Zealand or another State; or
+    (b) the archipelagic waters of an archipelagic State
+  - **New Zealand ship** means a ship that—
+    (a) is registered under the Ship Registration Act 1992; or
+    (b) is not registered under the Ship Registration Act 1992 but is required or entitled to be registered under that Act
+  - **precursor substance** has the meaning given to that term in section 2(1) of the Misuse of Drugs Act 1975
+  - **preliminary search** has the meaning given to that term in section 210(6) of this Act
+  - **relevant matter** , in relation to a ship, means a matter relating to 1 or more of the following:
+    (a) the ship itself (for example, its registration or technical specifications):
+    (b) past, current, or intended journeys of the ship:
+    (c) activities that have been, are being, or are intended to be carried out on or from the ship:
+    (d) goods that have been on, are on, or are intended to be brought onto the ship:
+    (e) persons who have been on, are on, or are expected to board the ship:
+    (f) without limiting paragraphs (a) to (e), any matter that is relevant to investigating 1 or more of the following:
+      (i) whether the ship has been, is, or will be involved in drugs smuggling:
+      (ii) whether drugs smugglers have been, are, or will be on the ship:
+      (iii) whether drugs smuggling evidence has been, is, or will be on the ship
+  - **rub-down search** has the meaning given to that term in section 3(1) of the Search and Surveillance Act 2012
+  - **travel document** means any document that is—
+    (a) a New Zealand travel document (as that term is defined in section 2 of the Passports Act 1992); or
+    (b) a passport (as that term is defined in section 2 of the Passports Act 1992) that has been issued by the Government of a State other than New Zealand; or
+    (c) a certificate of identity (as that term is defined in section 2 of the Passports Act 1992) that has been issued by the Government of a State other than New Zealand; or
+    (d) a refugee travel document that has been issued by the Government of a State other than New Zealand.
+(2) For the purposes of this schedule, a ship is involved in drugs smuggling if—
+  (a) a drugs smuggling offence has been, is being, or is likely to be committed on the ship; or
+  (b) the ship has been, is, or is likely to be otherwise involved in the commission, or in facilitating the commission, of a drugs smuggling offence.
+
+### 2 Ships to which schedule applies
+This schedule applies to any ship that is in any of the following:
+  (a) New Zealand’s exclusive economic zone:
+  (b) the high seas:
+  (c) the exclusive economic zone of another State.
+
+### 3 Application of schedule to foreign ships
+(1) In relation to a foreign ship, the powers under this schedule are exercisable—
+  (a) only if, and to the extent that, the flag State has consented to the exercise of the powers; and
+  (b) subject to any conditions that the flag State attaches to its consent.
+(2) Subclause (1) is subject to subclauses (3) and (4).
+(3) Subclause (4) applies if—
+  (a) a foreign ship is pursued out of New Zealand or the contiguous zone; and
+  (b) the pursuit is a hot pursuit in accordance with article 111 of the United Nations Convention on the Law of the Sea.
+(4) Consent is not required under subclause (1) for stopping the ship to end the pursuit or for the exercise of any powers following the end of the pursuit.
+
+### 4 Schedule does not affect other powers
+This schedule does not affect any other powers that are exercisable by any person outside New Zealand under any enactment or otherwise.
+
+**Powers**
+
+### 5 Investigatory powers
+(1) This clause applies in relation to a ship if a Customs officer has reasonable cause to suspect 1 or both of the following:
+  (a) that the ship is involved in drugs smuggling:
+  (b) that a person on the ship is a drugs smuggler.
+(2) A Customs officer may do any of the following:
+  (a) stop the ship:
+  (b) board the ship:
+  (c) search the ship, or any person on the ship, for drugs smuggling evidence:
+  (d) question any person on the ship about a relevant matter.
+(3) A Customs officer may also do any of the following:
+  (a) require any person on the ship to produce to a Customs officer, or otherwise to give a Customs officer access to, any document—
+    (i) that is a travel document relating to the person; or
+    (ii) that relates to a relevant matter and that is in the person’s possession or under the person’s control:
+  (b) inspect the document.
+(4) If a document is stored, or is accessible, on or from any electronic device on the ship, the power in subclause (3)﻿(a) includes (without limitation) the power to require the person to operate the device as is reasonably necessary.
+(5) If a Customs officer has reasonable cause to suspect that a person has refused or failed to comply with a requirement imposed under subclause (3)﻿(a), a Customs officer may search the ship or the person (or both) for the document.
+(6) The powers to search the ship under subclauses (2)﻿(c) and (5) include the power to search data in an electronic device on the ship as follows:
+  (a) an initial search may be carried out in accordance with the definition of that term in section 228(5) of this Act:
+  (b) if a Customs officer has (as a result of an initial search under paragraph (a) or otherwise) reasonable cause to believe that drugs smuggling evidence is in the electronic device, a full search may be carried out in accordance with the definition of that term in section 228(5) of this Act (reading the reference in paragraph (f) to evidence of relevant offending as a reference to drugs smuggling evidence):
+  (c) there is no power under paragraph (a) or (b) to search material (of any kind) that is accessible from the electronic device but is not stored on it:
+  (d) the powers under paragraphs (a) and (b) may be used for the purpose of determining whether drugs smuggling evidence is in the electronic device.
+(7) The powers to search a person under subclauses (2)﻿(c) and (5) are limited to conducting a preliminary search or a rub-down search, unless a Customs officer has (as a result of a preliminary search or a rub-down search of the person or otherwise) reasonable cause to believe that the person has drugs smuggling evidence or the document (as the case may be) on or about their body.
+
+### 6 Power of arrest
+(1) A Customs officer may, without warrant, arrest a person listed in subclause (2) if—
+  (a) both of the following apply:
+    (i) a Customs officer finds drugs smuggling evidence on a ship:
+    (ii) wholly or partly on the basis of that drugs smuggling evidence, a Customs officer has reasonable cause to believe that the person has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, a drugs smuggling offence; or
+  (b) both of the following apply:
+    (i) a Customs officer has reasonable cause to believe that drugs smuggling evidence has been on a ship:
+    (ii) wholly or partly on the basis of that belief, a Customs officer has reasonable cause to believe that the person has committed, is committing, or is attempting to commit, or is otherwise concerned in the commission of, a drugs smuggling offence.
+(2) The persons are as follows:
+  (a) a person on the ship:
+  (b) a person who has left the ship if the arresting officer is freshly pursuing the person.
+(3) Section 263(2) and (3) of this Act applies in relation to an arrest under subclause (1).
+
+### 7 Detention of ship
+(1) A power in subclause (2) is exercisable in relation to a ship only if, and for so long as, a Customs officer is satisfied that the exercise of the power is reasonably necessary to enable the other powers in this schedule to be exercised in relation to the ship.
+(2) A Customs officer—
+  (a) may detain the ship at the place where it is stopped under clause 5(2)﻿(a):
+  (b) may also direct—
+    (i) that the ship proceed to the nearest Customs place or to any other place (in New Zealand or elsewhere) that the officer considers appropriate; and
+    (ii) that the ship’s detention continue during the ship’s journey to that place, and at that place once the ship arrives there.
+(3) If a direction is given under subclause (2)﻿(b), a Customs officer may, for the purpose of implementing the direction, do any of the following:
+  (a) direct any person on the ship to take any specified action:
+  (b) take charge of the ship:
+  (c) arrange for the ship to be towed by another craft.
+
+### 8 Forfeiture
+(1) A Customs officer may treat as forfeited to the Crown any of the following goods that are seized in the exercise of a search power under this schedule:
+  (a) a controlled drug or precursor substance:
+  (b) any equipment or material that is capable of being used in, or for, the commission of an offence under section 6(1)﻿(b) of the Misuse of Drugs Act 1975.
+(2) If goods are treated as forfeited under subclause (1),—
+  (a) the goods are forfeited to the Crown; and
+  (b) subpart 9 of Part 3 of this Act does not apply, despite section 175; and
+  (c) a Customs officer may dispose of the goods as a Customs officer considers appropriate.
+(3) If a ship arrives in New Zealand under a direction given under clause 7(2)﻿(b), a Customs officer may, at any time when the ship is in New Zealand, treat the ship as forfeited to the Crown if 1 or both of the following apply:
+  (a) a drugs smuggling offence has been, or is being, committed on the ship:
+  (b) the ship has been, or is, otherwise involved in the commission, or in facilitating the commission, of a drugs smuggling offence.
+(4) subpart 9 of Part 3 of this Act applies if a ship is treated as forfeited under subclause (3).
+
+### 9 Supplementary provisions
+Communication with flag State
+(1) If a ship is a foreign ship, a Customs officer must not interfere with any attempt by the person in charge of the ship to communicate with the authorities of the flag State at any time while powers under this schedule are being exercised.
+Part 4 of Search and Surveillance Act 2012
+(2) Part 4 of the Search and Surveillance Act 2012, except subpart 3, applies in respect of the search powers in clause 5(2)﻿(c) and (5).
+(3) If a document that is produced to a Customs officer, or to which a Customs officer is given access, under clause 5(3)﻿(a) is drugs smuggling evidence, Part 4 of the Search and Surveillance Act 2012 applies to the document as if it had been found by the Customs officer during a search for the document to which that Part applied.
+(4) Despite subclauses (2) and (3), sections 125(4), 131(5)﻿(f), and 133, and subparts 6 and 8 of Part 4, of the Search and Surveillance Act 2012 do not apply to goods treated as forfeited under clause 8 or to any other forfeited goods.
+(5) Part 4 of the Search and Surveillance Act 2012, as applied by subclauses (2) and (3), applies subject to clause 5(6) and (7) and subclause (7).
+Use of force
+(6) A Customs officer may use reasonable force for the purpose of exercising a power under this schedule.
+(7) If the ship is a foreign ship, a Customs officer must not use force that exceeds the minimum degree of force that is necessary in the circumstances.
 
 ## Schedule 6 — Customs-approved secure exports schemes
 
