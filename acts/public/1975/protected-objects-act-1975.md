@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2018-10-01_
 
 > Title
 
@@ -27,7 +27,7 @@ The purpose of this Act is to provide for the better protection of certain objec
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **collector** means any person or body (whether incorporated or unincorporated), other than a licensed auctioneer, a licensed secondhand dealer, or a public museum, possessing 1 or more taonga tūturu
   - **comparable examples** excludes identical or similar objects that have unique associations with New Zealand activities, events, ideas, movements, objects, persons, or places of importance
-  - **craft** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **craft** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **expert examiner** includes a body corporate or an association of persons
   - **export** means—
     (a) placed on board any craft for transportation to a point outside New Zealand; or
@@ -140,7 +140,7 @@ This Act shall bind the Crown.
   (b) grant that application for permission to export—
     (i) unconditionally; or
     (ii) subject to any terms and conditions that the chief executive considers appropriate in the circumstances.
-(2) If the chief executive grants an application for permission to export, he or she must provide the applicant with written notice of the terms and conditions imposed under subsection (1)(b)(ii) (if any).
+(2) If the chief executive grants an application for permission to export, he or she must provide the applicant with written notice of the terms and conditions imposed under subsection (1)﻿(b)﻿(ii) (if any).
 
 ### 7A Chief executive may not grant applications for permission to export in certain circumstances
 (1) The chief executive may not grant an application for permission to export if the chief executive determines that the object—
@@ -156,7 +156,7 @@ This Act shall bind the Crown.
     (ii) important to New Zealand for its technical accomplishment or design, artistic excellence, or symbolic, commemorative, or research value; or
     (iii) part of a wider historical, scientific, or cultural collection or assemblage of importance to New Zealand; and
   (c) is of such significance to New Zealand or part of New Zealand that its export from New Zealand would substantially diminish New Zealand’s cultural heritage.
-(2) Despite subsection (1), and without limiting section 7(1)(b)(ii) or section 8(1), the chief executive may grant an application that meets the criteria specified in that subsection if the grant is subject to the condition that the object be returned to New Zealand by a specified date.
+(2) Despite subsection (1), and without limiting section 7(1)﻿(b)﻿(ii) or section 8(1), the chief executive may grant an application that meets the criteria specified in that subsection if the grant is subject to the condition that the object be returned to New Zealand by a specified date.
 (3) In making a determination under subsection (1), the chief executive must have regard to the advice of 2 or more expert examiners.
 
 **Expert examiners**
@@ -207,23 +207,26 @@ If permission is granted by the chief executive for the export of a protected Ne
 (1) Where the chief executive has refused his or her permission to the removal of any protected New Zealand object or has granted any such permission subject to terms and conditions, the applicant for the permission may appeal to the Minister on the grounds that, having regard to the provisions of this Act, the decision of the chief executive was not reasonably arrived at, and the Minister may, after seeking such advice (if any) as the Minister considers necessary, confirm, vary, or reverse the decision of the chief executive, and the decision of the Minister with regard to any such appeal shall be final.
 (2) Any appeal under this section shall be forwarded to the Minister within 28 days after the date when the decision of the chief executive is made known to the appellant.
 
-### 10 Application of Customs and Excise Act 1996
-(1) Subject to the provisions of this Act, any protected New Zealand object exported or attempted to be exported in breach of this Act shall be forfeited to the Crown and the provisions of the Customs and Excise Act 1996 (except sections 229, 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii), 236(2) to (4), and 237 of that Act) relating to forfeited goods shall apply to any such article in the same manner as they apply to goods forfeited under the Customs and Excise Act 1996.
-(1A) The powers conferred on Customs officers under the Customs and Excise Act 1996 (except sections 229, 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii), 236(2) to (4), and 237 of that Act) apply in relation to the export of a protected New Zealand object.
-(1B) The forfeiture of an object under subsection (1) is not dependent on the seizure of that object.
-(2) Where any protected New Zealand object is seized as forfeited to the Crown pursuant to this section, it shall be delivered to the chief executive and retained in safe custody in accordance with the chief executive’s directions:
-  provided that the chief executive may, at his or her discretion, direct that the protected New Zealand object be returned to the person who was the owner of the protected New Zealand object immediately before forfeiture subject to such conditions (if any) as the chief executive may think fit to impose.
-(3) Subject to the provisions of this Act,—
-  (a) the provisions of the Customs and Excise Act 1996 relating to unlawful imports (except sections 229, 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii), 236(2) to (4), and 237 of that Act) apply to an unlawfully exported protected foreign object; and
-  (b) that object is to be treated as a prohibited import under section 54 of that Act.
-(4) If the New Zealand Customs Service seizes an unlawfully exported protected foreign object or a stolen protected foreign object, that object must be—
+### 10 Application of Customs and Excise Act 2018
+(1) Subject to the provisions of this Act, any protected New Zealand object exported or attempted to be exported in breach of this Act is forfeited to the Crown and the provisions of the Customs Act (except for the excepted provisions) relating to forfeited goods apply to the object in the same manner as they apply to goods forfeited under the Customs Act.
+(2) The powers conferred on Customs officers under the Customs Act (except for the excepted provisions) apply in relation to the export of a protected New Zealand object.
+(3) The forfeiture of an object under subsection (1) is not dependent on the seizure of that object.
+(4) Where any protected New Zealand object is seized as forfeited to the Crown pursuant to this section, it must be delivered to the chief executive and retained in safe custody in accordance with the chief executive’s directions.
+(5) Despite subsection (4), the chief executive may, at his or her discretion, direct that the protected New Zealand object be returned to the person who was the owner of the protected New Zealand object immediately before forfeiture subject to any conditions that the chief executive may think fit to impose.
+(6) Subject to the provisions of this Act,—
+  (a) the provisions of the Customs Act relating to unlawful imports (except the excepted provisions) apply to an unlawfully exported protected foreign object; and
+  (b) that object is to be treated as a prohibited import under section 96 of that Act.
+(7) If the New Zealand Customs Service seizes an unlawfully exported protected foreign object or a stolen protected foreign object, that object must be—
   (a) transferred to the Ministry; and
-  (b) held by the Ministry, in accordance with the directions of the chief executive (if any), until any proceedings related to that object under this Act or the Customs and Excise Act 1996 are completed.
-(5) Despite anything in the Customs and Excise Act 1996 or any other enactment,—
-  (a) a prosecution for an offence under this Act or the Customs and Excise Act 1996 with respect to a protected New Zealand object—
-    (i) may be commenced at any time within 5 years from the date on which that offence was committed; but
-    (ii) may not be commenced after the expiration of 5 years from the date on which that offence was committed; and
-  (b) no Customs duties or taxes are payable in respect of a protected foreign object whose return is ordered by a court under section 10B or section 10E.
+  (b) held by the Ministry, in accordance with the directions of the chief executive (if any), until any proceedings related to that object under this Act or the Customs Act are completed.
+(8) Despite anything in the Customs Act or any other enactment,—
+  (a) a prosecution for an offence under this Act or the Customs Act with respect to a protected New Zealand object—
+    (i) may be commenced at any time within 5 years from the date on which the offence was committed; but
+    (ii) may not be commenced after the expiration of 5 years from the date on which the offence was committed; and
+  (b) no Customs duties or taxes are payable in respect of a protected foreign object whose return is ordered by a court under section 10B or 10E.
+(9) In this section,—
+  - **Customs Act** means the Customs and Excise Act 2018
+  - **excepted provisions** means sections 182, 186(b)﻿(ii), 188(2), and 189 and clauses 1(3)﻿(b), 4(2)﻿(b), and 6 of Schedule 5 of the Customs Act.
 
 **Unlawfully exported protected foreign objects**
 
@@ -267,7 +270,7 @@ A person may not import into New Zealand an unlawfully exported protected foreig
   (b) the relevant reciprocating State provides New Zealand with the documentation and other evidence to establish its claim for the recovery and return of that object to the chief executive.
 (2) If this section applies, the chief executive must,—
   (a) at the request of the relevant reciprocating State, ask the New Zealand Customs Service to—
-    (i) seize that object pursuant to its powers under the Customs and Excise Act 1996 (except sections 229, 235, 236(2) to (4), and 237 of that Act); and
+    (i) seize that object pursuant to its powers under the Customs and Excise Act 2018 (except sections 182, 188(2), and 189 and clause 6 of Schedule 5 of that Act); and
     (ii) transfer that object to the Ministry; and
   (b) if that object is seized, return that object to that State if that State pays—
     (i) just compensation to any person who—
@@ -282,14 +285,14 @@ A person may not import into New Zealand an unlawfully exported protected foreig
     (i) the location of that object; and
     (ii) the identity of the possessor of that object; and
   (b) 50 years of the date on which that object was stolen.
-(3) Subsection (2)(b) does not apply if—
+(3) Subsection (2)﻿(b) does not apply if—
   (a) that object—
     (i) forms an integral part of an identified monument or archaeological site in the relevant reciprocating State; or
     (ii) is part of a foreign public collection; or
   (b) that object—
     (i) was made by a member or members of a tribal or indigenous community for traditional or ritual use by that community; and
     (ii) is to be returned to that community.
-(4) Except as provided in section 10D(2)(b), no compensation is payable for the restitution of a stolen protected foreign object.
+(4) Except as provided in section 10D(2)﻿(b), no compensation is payable for the restitution of a stolen protected foreign object.
 (5) Despite anything in the Limitation Act 2010, any claim that the person who possesses the stolen protected foreign object may have against the person from whom that object was acquired may be brought within 2 years of the date on which the order for restitution was made.
 
 **Application**
@@ -300,7 +303,7 @@ A person may not import into New Zealand an unlawfully exported protected foreig
 (3) Sections 10A to 10C do not apply if—
   (a) the export of a protected foreign object is no longer unlawful in the relevant reciprocating State at the time that the object is imported into New Zealand or its return is requested; or
   (b) the protected foreign object was exported from the relevant reciprocating State during the lifetime of the person who created it or within a period of 50 years following the death of that person.
-(4) Despite subsection (3)(b), sections 10A to 10C apply if—
+(4) Despite subsection (3)﻿(b), sections 10A to 10C apply if—
   (a) a protected foreign object was made by a member or members of a tribal or indigenous community for traditional or ritual use; and
   (b) that object is to be returned to that community.
 (5) In any proceedings under sections 10B or 10E, or in support of any similar proceedings in a reciprocating State, the court may grant any interim relief that it considers appropriate.
@@ -342,7 +345,7 @@ If taonga tūturu are found in a part of the common marine and coastal area for 
   (f) to enforce the obligations of the trust (whether by way of an order or otherwise) against any person or persons appointed by the court as trustee or trustees:
   (g) to appoint a new trustee or trustees for any taonga tūturu held in trust, under the same conditions as laid down in section 222 of Te Ture Whenua Maori Act 1993.
 (2) The Maori Land Court shall have jurisdiction to make an order prohibiting any offering for sale, or parting with possession, of any taonga tūturu (whether or not a taonga tūturu to which section 11 applies) by any person if that taonga tūturu is in the power or possession of that person by way of gift according to Māori custom and usage.
-(3) The provisions of section 19(1)(b) of Te Ture Whenua Maori Act 1993 apply in respect of any matter in respect of which the Maori Land Court has jurisdiction under subsection (1) or subsection (2).
+(3) The provisions of section 19(1)﻿(b) of Te Ture Whenua Maori Act 1993 apply in respect of any matter in respect of which the Maori Land Court has jurisdiction under subsection (1) or subsection (2).
 (4) To avoid doubt, section 30 of Te Ture Whenua Maori Act 1993, and any other relevant provision in that Act, applies to any claim for ownership or any appeal lodged under this Act.
 
 ## Part 3 — Miscellaneous
