@@ -1,5 +1,5 @@
 # Statistics Act 1975
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the Statistics Act 1955; and to make provision for official statistics; for a department having the name Statistics New Zealand and the office of Government Statistician; and for the independence of the Statistician in the execution of his duties
 
@@ -338,7 +338,7 @@ Where necessary to determine precisely the specifications of goods the price or 
   (a) that person or the owner of that undertaking has consented to their publication in that manner, or has already permitted their publication in that manner; or
   (b) their publication in that manner could not reasonably have been foreseen by the Statistician or any employee of the department.
 (5) For the purposes of subsection (4), the Statistician shall make such office rules as he considers necessary.
-(6) Subsections (2) and (3) apply notwithstanding any provision contained in the Customs and Excise Act 1996, the Tax Administration Act 1994 or any other Act.
+(6) Subsections (2) and (3) apply notwithstanding any provision contained in the Customs and Excise Act 2018, the Tax Administration Act 1994 or any other Act.
 
 ### 37A Statistician authorised to disclose certain information
 Notwithstanding section 37, the Statistician may disclose the following information:
