@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2017-10-04_
+_Consolidation as at 2018-10-01_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -310,7 +310,7 @@ The Director-General may, after (if necessary) consultation with the appropriate
 (3) The production by an officer of—shall, until the contrary is proved, be sufficient authority for any such officer to do anything authorised by this Part.
   (a) a warrant issued under this section; or
   (b) due evidence of the appointment of the officer as an inspector under the Animals Act 1967, or the Ministry of Agriculture and Fisheries Act 1953, or the Plants Act 1970; or
-  (c) any evidence that the officer is a Customs officer appointed under the Customs and Excise Act 1996—
+  (c) any evidence that the officer is a Customs officer appointed under the Customs and Excise Act 2018—
 (4) Every person appointed under section 35(2) who ceases to hold office as an officer shall surrender to the Director-General the warrant issued to the person under subsection (1).
 (5) Every person commits an offence against this Act who fails to comply with subsection (4).
 
@@ -348,8 +348,8 @@ The Director-General may, after (if necessary) consultation with the appropriate
 (3) A search warrant is also required pursuant to subsection (2) in the case of entry to any other land or premises for the purpose of the exercise of the power under section 37(1)﻿(d).
 (4) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
 
-### 38A Application of Customs and Excise Act 1996
-Sections 149A, 149B, 149C(1) to (3), 160, and 161 of the Customs and Excise Act 1996 shall apply in relation to the importation or exportation of any endangered, threatened, or exploited species as if such endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
+### 38A Application of Customs and Excise Act 2018
+Sections 210, 211, 214, 251, and 252 of the Customs and Excise Act 2018 apply in relation to the importation or exportation of any endangered, threatened, or exploited species as if the endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
 
 ### 39 Seizure of endangered species traded in contravention of Act
 (1) Where an officer finds, in or on any ship or aircraft or at any port, aerodrome, transitional facility, or Customs controlled area, any specimen of an endangered, threatened, or exploited species that—that specimen shall be forfeit to the Crown, and shall be seized by the officer who shall dispose of it in accordance with section 42.
@@ -365,7 +365,7 @@ Sections 149A, 149B, 149C(1) to (3), 160, and 161 of the Customs and Excise Act 
   provided that the owner or the person entitled to the possession of the items seized under this subsection may apply to the District Court at any time for the return of those items, not being items that are required for evidential purposes in a hearing of any court, and the court may order the retention of those items or their return on such conditions as the court thinks fit.
 (5) No compensation shall be payable in respect of any specimen seized under subsection (1).
 (6) For the purposes of subsection (1),—
-  - **Customs controlled area** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
+  - **Customs controlled area** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
   - **transitional facility** has the meaning given to it in section 2(1) of the Biosecurity Act 1993.
 
 ### 39A Power to seize vehicles and containers
