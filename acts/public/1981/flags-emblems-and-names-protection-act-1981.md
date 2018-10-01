@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2018-10-01_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -56,7 +56,7 @@ Subject to section 8, nothing in this Part shall derogate from the use ascribed 
   (c) the Royal New Zealand Air Force Ensign, by Defence Council Orders issued under the Defence Act 1971.
 
 ### 7 Customs flag
-Nothing in this Part shall derogate from the use ascribed to the Customs flag by section 8 of the Customs and Excise Act 1996.
+Nothing in this Part shall derogate from the use ascribed to the Customs flag by section 274 of the Customs and Excise Act 2018.
 
 ### 8 Saving of Her Majesty’s powers to approve alteration of New Zealand Flag
 Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or authorise the approval of, the alteration of the New Zealand Flag for any official purposes by the placement thereon of any letter, emblem, or representation.
