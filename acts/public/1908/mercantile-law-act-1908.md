@@ -1,5 +1,5 @@
 # Mercantile Law Act 1908
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to trade and commerce
 
