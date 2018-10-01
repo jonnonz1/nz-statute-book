@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -220,7 +220,7 @@ Subject to sections 4, 6, and 7, the Corporation may regulate its own procedure 
 (2) The terms of any such contract of agency under this section shall be as agreed between the parties, or, in the absence of any special agreement, shall be in accordance with conditions published by the Corporation in the Gazette.
 
 ### 22 Power to retain goods received for conveyance if subject to unpaid Customs duties
-(1) When any goods have been received for conveyance upon a railway, and the consignee or owner has not complied with all the provisions of any law relating to the charge or collection of duties by the New Zealand Customs Service established by the Customs and Excise Act 1996, or has not paid all charges incurred by the Corporation on account of the goods that have accrued upon or prior to receipt of the goods by the Corporation, or if the goods are held awaiting the consignor's order to deliver, they may all be held and detained by the Corporation until all such provisions are complied with, and all such charges (if any) are paid, and the consignor's order to deliver (if necessary) is given.
+(1) When any goods have been received for conveyance upon a railway, and the consignee or owner has not complied with all the provisions of any law relating to the charge or collection of duties by the New Zealand Customs Service continued by the Customs and Excise Act 2018, or has not paid all charges incurred by the Corporation on account of the goods that have accrued upon or prior to receipt of the goods by the Corporation, or if the goods are held awaiting the consignor's order to deliver, they may all be held and detained by the Corporation until all such provisions are complied with, and all such charges (if any) are paid, and the consignor's order to deliver (if necessary) is given.
 (2) During the time the goods are so held and detained the Corporation shall be responsible only as a warehouseman in respect of any loss or damage that may occur thereto.
 (3) The powers by this section conferred upon the Corporation shall not affect the powers vested in it by section 20.
 
