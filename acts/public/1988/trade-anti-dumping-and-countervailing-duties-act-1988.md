@@ -1,5 +1,5 @@
 # Trade (Anti-dumping and Countervailing Duties) Act 1988
-_Consolidation as at 2017-11-29_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title and commencement
 (1) This Act is the Trade (Anti-dumping and Countervailing Duties) Act 1988.
@@ -67,11 +67,11 @@ The purpose of this Act is to enable New Zealand to apply anti-dumping and count
       (xiii) pavers or fencing:
       (xiv) curtains, blinds, or drapes
   - **chief executive** means the chief executive of the Ministry
-  - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **Customs** or has the meaning given to Customs by section 5(1) of the Customs and Excise Act 2018
   - **day** , except in sections 13A(1), 17, 17B(4), 17K(2), 17O(3) to (5), 17S(4), and 17W(4), means any day of the week other than a day in the period beginning with 25 December in any year and ending with 15 January in the following year
   - **dumping** , in relation to goods, means the situation where the export price of goods imported into New Zealand or intended to be imported into New Zealand is less than the normal value of the goods as determined in accordance with the provisions of this Act, and has a corresponding meaning
   - **emergency** has the meaning given to it in section 4 of the Civil Defence Emergency Management Act 2002
-  - **exporter** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
+  - **exporter** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
   - **foreign country** means any country other than New Zealand
   - **foreign Government** means—
     (a) the Government of a foreign country:
@@ -81,7 +81,7 @@ The purpose of this Act is to enable New Zealand to apply anti-dumping and count
   - **full review stage 1** means stage 1 of a full review as described in sections 17F and 17G
   - **full review stage 2** means stage 2 of a full review as described in sections 17H to 17J
   - **goods** means all kinds of movable personal property, including animals
-  - **importer** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
+  - **importer** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
   - **investigation step 1** means step 1 of an investigation as described in sections 10C to 10E
   - **investigation step 2** means step 2 of an investigation as described in sections 10F to 10H
   - **like goods** , in relation to any goods, means—
@@ -143,7 +143,7 @@ This Act binds the Crown.
 
 ### 3D Enforcement of Act
 (1) The enforcement and collection of duties payable under this Act shall be a function of the Customs.
-(2) Parts 2, 3, 4, 6 (except section 65), 8, 10, 11, 12 (except section 142), 13, 14, 15, 16, and 17 of the Customs and Excise Act 1996 shall apply to the enforcement, collection, and payment of duties payable under this Act.
+(2)
 
 ## Part 2 — Notice and access to information
 
@@ -511,12 +511,12 @@ Suspension and termination
 (9) If an investigation is terminated in accordance with subsection (1), notice of the termination shall be given.
 
 ### 16 Provisional measures
-(1) If, at any time after 60 days from the date on which an investigation has been started by the chief executive under section 10A (not being an investigation that has been terminated under section 11),—the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods shall be secured in accordance with sections 156 and 157 of the Customs and Excise Act 1996, except that the rate or amount of duty to be secured shall not exceed the difference between the export price of the goods and their normal value, or the amount of the subsidy, as the case may be.
+(1) If, at any time after 60 days from the date on which an investigation has been started by the chief executive under section 10A (not being an investigation that has been terminated under section 11),—the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods shall be secured in accordance with sections 240 and 241 of the Customs and Excise Act 2018, except that the rate or amount of duty to be secured shall not exceed the difference between the export price of the goods and their normal value, or the amount of the subsidy, as the case may be.
   (a) the Minister has reasonable cause to believe, in relation to the importation or intended importation of goods into New Zealand, that—
     (i) the goods are being dumped or subsidised; and
     (ii) by reason thereof material injury to an industry has been or is being caused or is threatened or the establishment of an industry has been or is being materially retarded; and
   (b) the Minister is satisfied that action under this section is necessary to prevent material injury being caused during the period of investigation,—
-(2) Notwithstanding subsection (1), at any time after the chief executive has started an investigation under section 11(3)﻿(b), the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods the subject of the investigation shall be secured in accordance with sections 156 and 157 of the Customs and Excise Act 1996.
+(2) Notwithstanding subsection (1), at any time after the chief executive has started an investigation under section 11(3)﻿(b), the Minister may, by notice, give a provisional direction that payment of duty in respect of the goods the subject of the investigation shall be secured in accordance with sections 240 and 241 of the Customs and Excise Act 2018.
 (3) A provisional direction given under subsection (1) or (2) ceases to have effect from—
   (a) the date of the determination made by the Minister under section 10H(1); or
   (b) if no determination has been, or will be, made under section 10H(1), the date of the determination made by the Minister under section 10D(1).
