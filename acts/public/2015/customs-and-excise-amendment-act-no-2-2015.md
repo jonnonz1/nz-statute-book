@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act (No 2) 2015
-_Consolidation as at 2015-11-06_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act (No 2) 2015.
