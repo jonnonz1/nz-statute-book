@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -92,6 +92,7 @@ _Consolidation as at 2017-03-01_
     (v) a person authorised by the Commissioner to provide training to members of the Police in the use of a restricted weapon that is a gas or some other disabling substance, or a device designed to discharge such a substance; or
     (vi) an employee of the body that, immediately before the commencement of the Arms Amendment Act 2000 was known as the Institute of Environmental Science and Research Ltd; or
     (vii) a person working in any forensic laboratory or facility that provides forensic services to the Police:
+  (ab) by a member of the New Zealand Defence Force or a member of the Police in the course of exercising any power or performing any function under the Customs and Excise Act 2018:
   (b) by any other person authorised pursuant to regulations made under this Act to carry or possess firearms, airguns, pistols, restricted weapons, ammunition, or explosives belonging to the Crown.
 (3) Nothing in this Act renders unlawful—
   (a) the importation by the Crown of firearms, airguns, pistols, restricted weapons, ammunition, or explosives; or
