@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -88,7 +88,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (iii) a junket organiser as defined in section 4(1) of the Gambling Act 2003:
       (iv) a person or class of persons declared by regulations to be a customer for the purposes of this Act; but
     (c) excludes a person or class of persons that is declared by regulations not to be a customer for the purposes of this Act
-  - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **designated business group** means a group of 2 or more persons in which—
     (a) each member of the group has elected, in writing, to be a member of the group and the election is in force; and
     (b) each election was made in accordance with regulations (if any); and
@@ -1435,42 +1435,32 @@ A person who commits an offence under any of sections 106, 107, 108, 110, and 11
 (2) If this section applies, the chief executive of the New Zealand Customs Service may, at any time before a charging document has been filed in respect of the offence, accept from that person a sum, not exceeding $500, that the chief executive of the New Zealand Customs Service thinks just in the circumstances of the case, in full satisfaction of any fine to which the person would otherwise be liable under section 112.
 (3) If the chief executive of the New Zealand Customs Service accepts any sum under this section, the offender is not liable to be prosecuted for the offence in respect of which the payment was made.
 
-**Relationship with Customs and Excise Act 1996**
+**Relationship with Customs and Excise Act 2018**
 
-### 114 Relationship with Customs and Excise Act 1996
-(1) Nothing in this Act limits or affects the Customs and Excise Act 1996.
-(2) The movement of cash in breach of any requirement of this Act or any regulations is, for the purposes of the Customs and Excise Act 1996, the importation or exportation of a prohibited good.
+### 114 Relationship with Customs and Excise Act 2018
+(1) Nothing in this Act limits or affects the Customs and Excise Act 2018.
+(2) The movement of cash in breach of any requirement of this Act or any regulations is, for the purposes of the Customs and Excise Act 2018, the importation or exportation of a prohibited good.
 (3) It is the duty of every Customs officer to prevent the movement of cash that is in breach of any requirement of this Act or any regulations.
-(4) For the purpose of carrying out the duty in subsection (3), a Customs officer may exercise his or her powers under the following sections of the Customs and Excise Act 1996 in relation to uncustomed or prohibited goods:
-  (a) section 145 (questioning persons about goods and debt):
-  (b) section 148 (detention of persons questioned about goods or debt):
-  (c) sections 149, 149A, 149B, and 149C(1) (which relate to search and seizure):
-  (d) sections 151 and 152 (which relate to examination of goods):
-  (e) section 161 (further powers in relation to documents):
-  (f) section 165 (copying of documents obtained during search):
-  (g) section 166 (retention of documents and goods obtained during search):
-  (h) sections 166A to 166F (which relate to seizure and detention of goods suspected to be tainted property):
-  (i) sections 167 to 172 (which relate to search warrants and use of aids by Customs officers).
+(4) For the purpose of carrying out the duty in subsection (3), a Customs officer may exercise his or her powers under the following sections of the Customs and Excise Act 2018 in relation to uncustomed or prohibited goods:
+  (a) section 205 (questioning persons about goods and debt):
+  (b) section 206 (detention of persons questioned about goods or debt and suspected to be involved in offences):
+  (c) sections 210, 211, and 214 (which relate to search and seizure):
+  (d) sections 225 and 226 (which relate to search warrants and use of aids by Customs officers):
+  (e) sections 227 and 237 (which relate to examination of goods):
+  (f) section 228 (which relates to search of data in electronic devices):
+  (g) section 252 (further powers in relation to documents):
+  (h) section 257 (copying of documents obtained during inspection):
+  (i) section 258 (retention of documents and goods obtained during inspection):
+  (j) sections 244 to 249 (which relate to seizure and detention of goods suspected to be tainted property).
 
-**Computer searches by Customs officer**
+**Stored value instrument searches by Customs officer**
 
-### 115 Duty of persons with knowledge of computer or computer network or other data storage devices to assist access to Customs officer
-(1) A Customs officer exercising a search or examination power under section 114(4) may require a specified person to provide access information and other information or assistance that is reasonable and necessary to allow the Customs officer to access data held in, or accessible from,—
-  (a) a computer:
-  (b) any other data storage device.
-(2) In this section,—
-  - **access information** includes access codes, passwords, encryption keys, and any related information that enables access to a computer or other data storage device
-  - **specified person** is a person who—
-    (a) is the owner or lessee of the computer or other data storage device, or is in possession or control of the computer or other data storage device, is an employee of any of the above, or is a service provider who provides service to the above and holds access information; and
-    (b) has relevant knowledge of—
-      (i) the computer or a computer network of which the computer or other data storage device forms a part; or
-      (ii) measures applied to protect data held in, or accessible from, the computer or other data storage device.
-(3) A specified person may not be required under subsection (1) to give any information tending to incriminate the person.
-(4) Subsection (3) does not prevent a Customs officer exercising a search power from requiring a specified person to provide information that—
-  (a) is reasonable and necessary to allow the person exercising the search power to access data held in, or accessible from, a computer or other storage device that contains or may contain information tending to incriminate the specified person; but
-  (b) does not itself tend to incriminate the specified person.
-(5) Subsection (3) does not prevent a Customs officer exercising a search power from requiring a specified person to provide assistance that is reasonable and necessary to allow the Customs officer exercising the search power to access data held in, or accessible from, a computer or other storage device that contains, or may contain, information tending to incriminate the specified person.
-(6) Subsections (1), (4), and (5) are subject to section 162 of the Customs and Excise Act 1996 (which relates to privilege and confidentiality).
+### 115 Duty to assist Customs officer to access stored value instruments
+(1) A Customs officer exercising a search power or an examination power under section 114(4) may require a specified person to provide access information and other information or assistance that is reasonable and necessary to allow the Customs officer to access data held in a stored value instrument.
+(2) In this case, section 130 of the Search and Surveillance Act 2012 (which requires persons with knowledge of a computer system or other data storage devices or an Internet site to assist access) applies in respect of the stored value instrument with necessary modifications.
+(3) In this section, stored value instrument—
+  (a) means a portable device (for example, a debit card) that contains monetary value that is not physical currency but that can be reloaded or redeemed for cash; and
+  (b) includes an instrument that is prescribed as a bearer-negotiable instrument under section 153(b).
 
 ### Subpart 4 — Search and seizure
 
@@ -1687,7 +1677,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
 (2) The enactments referred to in subsection (1) are—
   (a) the Charities Act 2005:
   (b) the Companies Act 1993:
-  (c) the Criminal Proceeds (Recovery) Act 2009:
+  (c) the Customs and Excise Act 2018:
   (d) the Customs and Excise Act 1996:
   (e) the Financial Advisers Act 2008:
   (f) the Financial Markets Authority Act 2011:
