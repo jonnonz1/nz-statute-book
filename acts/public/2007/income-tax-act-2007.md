@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-09-29_
+_Consolidation as at 2018-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -3980,7 +3980,7 @@ Meaning of non-resident entertainer
 Exempt income
 (1) Income that a non-resident crew member derives from performing services in New Zealand relating to a pleasure craft while it is in New Zealand is exempt income if—
   (a) the services are performed for a person who is not resident in New Zealand; and
-  (b) the pleasure craft is the subject of a security given under section 116 of the Customs and Excise Act 1996; and
+  (b) the pleasure craft is the subject of a security given under section 136 of the Customs and Excise Act 2018; and
   (c) the pleasure craft is not owned, wholly or partly or directly or indirectly, by—
     (i) a resident of New Zealand; or
     (ii) a controlled foreign company.
@@ -41754,7 +41754,7 @@ In this Act, unless the context requires otherwise,—
   - **Inland Revenue Acts** means the Acts listed in the schedule of the Tax Administration Act 1994
   - **input tax** —
     (a) is defined in section 3A of the Goods and Services Tax Act 1985; and
-    (b) includes, for a supply, GST levied on goods entered for home consumption under the Customs and Excise Act 1996
+    (b) includes, for a supply, GST levied on goods entered for home consumption under the Customs and Excise Act 2018
   - **instalment** , in sections FZ 2 to FZ 4 (which relate to specified leases), and in the definitions of and , means an amount payable by a lessee, under a lease, by way of—
     (a) repayment of some or all of a loan that a lessor is treated as having advanced under section FZ 2(2) (Effect of specified lease on lessor and lessee); or
     (b) payment of interest; or
