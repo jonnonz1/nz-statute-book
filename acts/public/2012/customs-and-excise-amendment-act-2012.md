@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2012
-_Consolidation as at 2012-04-05_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act 2012.
@@ -43,7 +43,7 @@ The following section is inserted after section 68B:Exemption for biofuel and bi
 (1) Section 69 is amended by adding the following paragraph:
   (c) biofuel is deemed to have been manufactured by a licensee of a manufacturing area when biofuel supplied by the licensee to a biofuel fuelling facility is blended at the biofuel fuelling facility.
 (2) Section 69 is amended by adding the following subsections as subsections (2), (3), and (4):
-  (2) A licensee of a manufacturing area who supplies biofuel under subsection (1)(c) will be liable for duty under this Act for the biofuel blend that results from blending at a biofuel fuelling facility the biofuel supplied by the licensee.
+  (2) A licensee of a manufacturing area who supplies biofuel under subsection (1)﻿(c) will be liable for duty under this Act for the biofuel blend that results from blending at a biofuel fuelling facility the biofuel supplied by the licensee.
   (3) The biofuel blend that results from blending at a biofuel fuelling facility under subsection (2) is, for the purposes of this Part, deemed to be removed for home consumption when the blending is undertaken.
   (4) In this section, biofuel fuelling facility—
     (a) means any installation, facility, or other place that—
@@ -53,7 +53,7 @@ The following section is inserted after section 68B:Exemption for biofuel and bi
     (c) does not include land to which an exemption under section 68C relates.
 
 ### 11 Excise duty on goods manufactured outside manufacturing area
-Section 74(2)(c) is amended by omitting or 68B and substituting , 68B, or 68C.
+Section 74(2)﻿(c) is amended by omitting or 68B and substituting , 68B, or 68C.
 
 ### 12 Keeping of business records
 Section 95 is amended by repealing subsection (1) and substituting the following subsection:
@@ -66,8 +66,8 @@ Section 95 is amended by repealing subsection (1) and substituting the following
 
 ### 13 Goods temporarily imported
 Section 116 is amended by inserting the following subsection after subsection (3):
-  (3A) For the purposes of subsection (3), the chief executive must determine the value for duty of goods that have been dealt with under any of subsection (2)(a) to (e) by using—
-    (a) the straight-line method of calculating an amount of depreciation loss described in section EE 12(2)(b) of the Income Tax Act 2007; and
+  (3A) For the purposes of subsection (3), the chief executive must determine the value for duty of goods that have been dealt with under any of subsection (2)﻿(a) to (e) by using—
+    (a) the straight-line method of calculating an amount of depreciation loss described in section EE 12(2)﻿(b) of the Income Tax Act 2007; and
     (b) the depreciation rate for that method determined by the Commissioner of Inland Revenue under section 91AAF or 91AAG of the Tax Administration Act 1994 or the rate specified in the table appended to the General Depreciation Rates published by the Commissioner of Inland Revenue; and
     (c) for duty calculation purposes, the depreciation rate applicable on the date the goods are imported.
 
@@ -112,7 +112,7 @@ Section 128 is repealed and the following sections are substituted:Definitions f
   (3) Within 20 working days after the date on which the penalty notice is issued by the chief executive under subsection (1) (the due date), the person to whom it was issued—
     (a) must pay the penalty:
     (b) may request the chief executive to review the decision to issue the notice.
-  (4) However, section 129(2) applies if the person to whom the penalty notice was issued requests the chief executive to review the decision to issue the notice under subsection (3)(b).
+  (4) However, section 129(2) applies if the person to whom the penalty notice was issued requests the chief executive to review the decision to issue the notice under subsection (3)﻿(b).
   (5) The amount of the penalty, including any additional penalty imposed under section 128C, constitutes a debt due to the Crown and is recoverable by the chief executive in a court of competent jurisdiction.
   (6) A person who pays the amount of the penalty, or for whom that amount is paid, is not liable to prosecution for an offence in relation to the error or omission and the goods in relation to which the error or omission occurred are not liable to seizure under this Act.
   (7) Subsection (6) does not apply to a prosecution or seizure in relation to goods that have been forfeited to the Crown because the importation or exportation of the goods is prohibited or unlawful.
@@ -130,8 +130,8 @@ Section 128 is repealed and the following sections are substituted:Definitions f
       (i) 20% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission occurred because the person did not take reasonable care; or
       (ii) 40% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission occurred because the person was grossly careless; or
       (iii) 100% of the excess drawback paid or claimed, if the chief executive is satisfied that the error or omission was made knowingly.
-  (4) If the goods referred to in section 128A(1) and entered under section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, the amount of the penalty must be calculated under subsection (2)(b) as if the duty liability had not changed.
-  (1) The additional penalties specified in subsection (2) are imposed (as the case may be) on a person to whom a penalty notice is issued under section 128A(1) if the penalty remains unpaid by the due date referred to in section 128A(3), unless the chief executive decides that the notice should not have been issued following a request for review under section 128A(3)(b).
+  (4) If the goods referred to in section 128A(1) and entered under section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, the amount of the penalty must be calculated under subsection (2)﻿(b) as if the duty liability had not changed.
+  (1) The additional penalties specified in subsection (2) are imposed (as the case may be) on a person to whom a penalty notice is issued under section 128A(1) if the penalty remains unpaid by the due date referred to in section 128A(3), unless the chief executive decides that the notice should not have been issued following a request for review under section 128A(3)﻿(b).
   (2) The additional penalties are—
     (a) 5% of the amount of the penalty unpaid by the due date; and
     (b) 2% of the amount of the penalty, including any additional penalty, unpaid at the end of the period of 1 month after the due date; and
@@ -141,7 +141,7 @@ Section 128 is repealed and the following sections are substituted:Definitions f
 
 ### 16 Obligation to pay penalty not suspended by appeal
 (1) The heading to section 129 is amended by inserting review or after by.
-(2) Section 129(1) is amended by omitting section 128 of this Act are not suspended and substituting section 128A are not suspended by any request for review under section 128A(3)(b) or.
+(2) Section 129(1) is amended by omitting section 128 of this Act are not suspended and substituting section 128A are not suspended by any request for review under section 128A(3)﻿(b) or.
 (3) Section 129(2) is amended—
   (a) by omitting if the appellant is successful in the appeal and substituting if the person who requested the review, or the appellant, is successful; and
   (b) by inserting the person or after refunded to.
@@ -161,10 +161,10 @@ The following section is inserted after section 149:Powers in relation to unauth
   (4) A Customs officer may use reasonable force, if necessary, when exercising any of the powers conferred by subsections (2) and (3).
 
 ### 19 Preliminary search of persons by use of aids
-Section 149A(2)(b) is amended by omitting dog and substituting Customs dog.
+Section 149A(2)﻿(b) is amended by omitting dog and substituting Customs dog.
 
 ### 20 Examination of goods subject to control of Customs
-Section 151(4)(b) is amended by omitting dog and substituting Customs dog.
+Section 151(4)﻿(b) is amended by omitting dog and substituting Customs dog.
 
 ### 21 Use of aids by Customs officer
 Section 172(1) is amended by omitting dog and substituting Customs dog.
@@ -191,8 +191,8 @@ The following section is inserted after section 177:Killing or injuring Customs 
     (b) a request that the offence be dealt with summarily by the chief executive; and
     (c) payment of an amount, not exceeding the limit specified in subsection (2B), that the chief executive thinks just in the circumstances of the case in full satisfaction of any fine or other penalty to which the person would otherwise be liable under this Act.
   (2A) For the purposes of subsection (2), the chief executive may indicate to the person at the time of the commission of the alleged offence or as soon as practicable after that whether the chief executive considers that the offence is an offence to which this section applies.
-  (2B) The amount referred to in subsection (2)(c) must not exceed one-third of the maximum total monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
-(2) Section 223(3) is amended by omitting any sum under subsection (2) and substituting payment of an amount under subsection (2)(c).
+  (2B) The amount referred to in subsection (2)﻿(c) must not exceed one-third of the maximum total monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
+(2) Section 223(3) is amended by omitting any sum under subsection (2) and substituting payment of an amount under subsection (2)﻿(c).
 
 ### 25 Application of Act to postal articles
 Section 276 is amended by adding the following subsection:
