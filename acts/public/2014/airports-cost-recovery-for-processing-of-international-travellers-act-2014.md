@@ -1,5 +1,5 @@
 # Airports (Cost Recovery for Processing of International Travellers) Act 2014
-_Consolidation as at 2014-02-14_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Airports (Cost Recovery for Processing of International Travellers) Act 2014.
@@ -19,9 +19,9 @@ The purpose of this Act is to enable the Crown to recover some of its costs incu
 In this Act, unless the context otherwise requires,—
   - **agency** means, in relation to the processing of travellers under—
   (a) the Biosecurity Act 1993, the Ministry for Primary Industries:
-  (b) the Customs and Excise Act 1996, Customs:
+  (b) the Customs and Excise Act 2018, Customs:
   (c) the Civil Aviation Act 1990, the Aviation Security Service
-  - **Aviation Security Service** means the Aviation Security Service established and continued by the Civil Aviation Authority under section 72B(2)(ca) of the Civil Aviation Act 1990
+  - **Aviation Security Service** means the Aviation Security Service established and continued by the Civil Aviation Authority under section 72B(2)﻿(ca) of the Civil Aviation Act 1990
   - **chief executive** means one of the following:
     (a) in relation to the Ministry for Primary Industries, the Director-General:
     (b) in relation to Customs, the Comptroller of Customs:
@@ -29,7 +29,7 @@ In this Act, unless the context otherwise requires,—
   - **cost recovery period** means—
     (a) a period prescribed as the cost recovery period under section 11 that begins as stated in section 6(2); or
     (b) if no period is prescribed, 3 years beginning as stated in section 6(2)
-  - **Customs** means the New Zealand Customs Service specified in section 5 of the Customs and Excise Act 1996
+  - **Customs** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
   - **Director-General** means the chief executive of the Ministry for Primary Industries
   - **due date** means the date that is 20 working days after the date on which the invoice requiring the payment of a prescribed charge would have been delivered in the ordinary course of the post or the date on which the invoice is actually received, whichever is later
   - **grace period** means—
@@ -46,7 +46,7 @@ In this Act, unless the context otherwise requires,—
     (b) the activities carried out at international airports by the Aviation Security Service under the Civil Aviation Act 1990 to—
       (i) screen the traveller and the traveller's baggage; and
       (ii) ensure the safety and security of the civil aviation system; or
-    (c) the activities carried out at international airports by Customs under the Customs and Excise Act 1996 to—
+    (c) the activities carried out at international airports by Customs under the Customs and Excise Act 2018 to—
       (i) determine the traveller's eligibility to enter or leave New Zealand; and
       (ii) establish whether goods in the traveller's possession are dutiable, prohibited imports or exports, or otherwise subject to the control of Customs
   - **scheduled international flight** means a flight that is—
@@ -70,7 +70,7 @@ This Act binds the Crown.
 (2) The cost recovery period in relation to an airport described in subsection (1)—
   (a) begins on the day that the airport begins operating as an international airport; and
   (b) begins again on the day that the airport resumes operating as an international airport (if applicable).
-(3) The grace period in relation to an airport described in subsection (1)(c) begins on the day following the day on which the international airport ceases operating as an international airport.
+(3) The grace period in relation to an airport described in subsection (1)﻿(c) begins on the day following the day on which the international airport ceases operating as an international airport.
 
 ### 7 Liability to pay for establishment of traveller processing capacity
 (1) The operator of an international airport to which this section applies must pay any prescribed charge relating to the costs incurred by an agency in establishing or re-establishing the capacity to process travellers at the airport, whether the costs are incurred before or after the airport begins or resumes operating as an international airport.
@@ -103,7 +103,7 @@ Despite sections 8 and 9, a prescribed charge for the processing of travellers b
   (f) a person in transit through New Zealand who—
     (i) does not leave the transit, arrival, or departure area of the airport; or
     (ii) leaves the transit, arrival, or departure area of the airport only because of an interruption to a flight caused by unserviceability of an aircraft or other essential facility or caused by any other delay beyond the control of the person or the airline concerned:
-  (g) any other person or class of persons that the Minister responsible for the administration of the Civil Aviation Act 1990 specifies by notice in the Gazette under regulation 20(2)(g) of the Civil Aviation Charges Regulations (No 2) 1991.
+  (g) any other person or class of persons that the Minister responsible for the administration of the Civil Aviation Act 1990 specifies by notice in the Gazette under regulation 20(2)﻿(g) of the Civil Aviation Charges Regulations (No 2) 1991.
 
 **Cost recovery**
 
