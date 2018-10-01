@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act (No 3) 2008
-_Consolidation as at 2009-09-24_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act (No 3) 2008.
@@ -20,19 +20,19 @@ Section 10 is amended by omitting section 12(4) and substituting sections 12(4) 
 ### 5 Craft arriving at place other than nominated Customs place
 Section 25 is amended by repealing subsection (1) and substituting the following subsections:
   (1) Nothing in section 24 applies to a craft—
-    (a) that is required or compelled to berth, land, anchor, or otherwise arrive at a place other than a Customs place, nominated in accordance with section 21(1)(a), if this arrival—
+    (a) that is required or compelled to berth, land, anchor, or otherwise arrive at a place other than a Customs place, nominated in accordance with section 21(1)﻿(a), if this arrival—
       (i) is required by any statutory or other requirement relating to navigation; or
       (ii) is compelled by accident, stress of weather, or other necessity; or
     (b) that is authorised to berth, land, anchor, or otherwise arrive at a place other than a Customs place by the Chief Executive.
-  (1A) An authorisation given under subsection (1)(b) may be granted subject to any conditions the Chief Executive considers appropriate (for example, conditions about the passengers and goods that may be carried on the craft).
-  (1B) The Chief Executive may not grant any authorisation under subsection (1)(b) without consulting the chief executive of—
+  (1A) An authorisation given under subsection (1)﻿(b) may be granted subject to any conditions the Chief Executive considers appropriate (for example, conditions about the passengers and goods that may be carried on the craft).
+  (1B) The Chief Executive may not grant any authorisation under subsection (1)﻿(b) without consulting the chief executive of—
     (a) the Ministry of Agriculture and Forestry; and
     (b) the Ministry of Health; and
     (c) the New Zealand Police; and
     (d) if the proposed authorisation relates to an aircraft, the Civil Aviation Authority; and
     (e) if the proposed authorisation relates to a ship, the authority known as Maritime New Zealand; and
-    (f) every other department of State whose operations may, in the Chief Executive’s opinion, be affected by the granting of an authorisation under subsection (1)(b).
-  (1C) If any craft berths, lands, anchors, or otherwise arrives at a place other than a Customs place by reason of an authorisation under subsection (1)(b),—
+    (f) every other department of State whose operations may, in the Chief Executive’s opinion, be affected by the granting of an authorisation under subsection (1)﻿(b).
+  (1C) If any craft berths, lands, anchors, or otherwise arrives at a place other than a Customs place by reason of an authorisation under subsection (1)﻿(b),—
     (a) the same powers may be exercised under this Act in relation to that craft as if it had arrived at a Customs place in accordance with Part 3, and the same obligations apply; and
     (b) the same powers may be exercised under this Act in relation to persons and goods on that craft as if those persons or goods were in a Customs controlled area, following arrival of the craft in accordance with Part 3, and the same obligations apply.
 
@@ -47,7 +47,7 @@ Section 37 is amended by repealing subsection (2) and substituting the following
       (ii) is compelled by accident, stress of weather, or other necessity; or
     (b) that is authorised to depart for a point outside New Zealand from a place in New Zealand other than a Customs place, by the Chief Executive.
   (3) The provisions of section 25(1A) to (1C) apply with any necessary modifications in respect of—
-    (a) any authorisation given by the Chief Executive under subsection (2)(b); and
+    (a) any authorisation given by the Chief Executive under subsection (2)﻿(b); and
     (b) any departure from a place in New Zealand (other than a Customs place) in reliance on such an authorisation.
 
 ### 8 New section 68A inserted
@@ -66,17 +66,17 @@ Section 74(2) is amended by adding ; or and also by adding the following paragra
   (c) that are manufactured in accordance with the conditions specified by section 68A.
 
 ### 10 Detention of persons committing or about to commit certain offences
-Section 148B(1) is amended by inserting or 191(1)(e) after section 180.
+Section 148B(1) is amended by inserting or 191(1)﻿(e) after section 180.
 
 ### 11 Offences in relation to manufacture, movement, and storage of goods
 (1) Section 200(2) is amended by inserting (other than an offence under paragraphs (b) to (d) involving goods that are tobacco) before is liable.
 (2) Section 200 is amended by inserting the following subsection after subsection (2):
-  (2A) Every person who commits an offence against subsection (1)(b), (c), or (d) involving goods that are tobacco is liable on conviction,—
+  (2A) Every person who commits an offence against subsection (1)﻿(b), (c), or (d) involving goods that are tobacco is liable on conviction,—
     (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $20,000, or to both; or
     (b) in the case of a body corporate, to a fine not exceeding $100,000.
 (3) Section 200(3) is amended by inserting (other than an offence relating to goods that are tobacco) before is liable.
 (4) Section 200 is amended by adding the following subsections:
-  (4) Every person who commits an offence against subsection (1)(e) involving goods that are tobacco is liable on conviction,—
+  (4) Every person who commits an offence against subsection (1)﻿(e) involving goods that are tobacco is liable on conviction,—
     (a) in the case of an individual, to a term of imprisonment not exceeding 6 months or to a fine not exceeding $20,000, or to both; or
     (b) in the case of a body corporate, to a fine not exceeding $100,000.
   (5) To avoid doubt, in this section, tobacco means all tobacco (as defined in section 2(1)), whether manufactured or not manufactured.
@@ -150,7 +150,7 @@ The heading above section 231 and sections 231 to 235 are repealed and the follo
     (e) the nature and extent of any loss or damage suffered by any person as a consequence of the seizure:
     (f) whether or not granting relief would undermine the purpose or objective of any import or export prohibition or restriction imposed by this Act:
     (g) the effect of any other action that has been taken or is proposed to be taken in respect of any offending related to the seizure.
-  (1) If the Chief Executive decides, under section 233(1)(c), to grant relief, the Chief Executive may do so by making any of the following determinations:
+  (1) If the Chief Executive decides, under section 233(1)﻿(c), to grant relief, the Chief Executive may do so by making any of the following determinations:
     (a) that the goods be given to the applicant or to another person who, but for the seizure, is entitled to their possession:
     (b) that the goods be sold and that 1 or more of the following persons be paid the part or parts of the proceeds that the Chief Executive specifies:
       (i) the applicant:
@@ -174,14 +174,14 @@ The heading above section 231 and sections 231 to 235 are repealed and the follo
   The goods that are the subject of an appeal under section 235B are condemned to the Crown if—
     (a) the appeal is discontinued; or
     (b) the decision of the Customs Appeal Authority on the appeal neither—
-      (i) disallows the seizure of the goods under section 233(1)(b) (as applied by section 255(1)); nor
-      (ii) grants relief under section 233(1)(c) (as applied by section 255(1)).
+      (i) disallows the seizure of the goods under section 233(1)﻿(b) (as applied by section 255(1)); nor
+      (ii) grants relief under section 233(1)﻿(c) (as applied by section 255(1)).
 
 ### 17 Regulations
 (1) Section 286(1) is amended by repealing paragraph (ga) and substituting the following paragraph:
   (ga) prescribing the time within which outward reports required by section 34 must be delivered to the Customs:
 (2) Section 286 is amended by inserting the following subsection after subsection (1):
-  (1A) Without limiting subsection (1)(a), any regulations made under that provision prescribing areas used for the manufacture or processing of goods (other than tobacco) that are exempted from the requirement of section 10 to be licensed as a Customs controlled area may impose conditions—
+  (1A) Without limiting subsection (1)﻿(a), any regulations made under that provision prescribing areas used for the manufacture or processing of goods (other than tobacco) that are exempted from the requirement of section 10 to be licensed as a Customs controlled area may impose conditions—
     (a) as to the nature of the goods being manufactured or processed:
     (b) as to the source of the product being manufactured or processed:
     (c) limiting the use that may be made of the goods (for example, permitting personal use only):
@@ -189,27 +189,27 @@ The heading above section 231 and sections 231 to 235 are repealed and the follo
     (e) limiting the quantity of goods that may be produced by any measure or other form of description.
 
 ### 18 Chief Executive may make rules for certain purposes
-Section 288(1)(a) is amended by inserting or outward reports after inward reports.
+Section 288(1)﻿(a) is amended by inserting or outward reports after inward reports.
 
 ## Part 2 — Consequential amendments and transitional provisions
 
 ### 19 Protected Objects Act 1975 amended
-Section 10(1), (1A), and (3) of the Protected Objects Act 1975 are amended by omitting 235 and substituting in each case 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii).
+Section 10(1), (1A), and (3) of the Protected Objects Act 1975 are amended by omitting 235 and substituting in each case 231(3)﻿(b), 233(1)﻿(c), 234, 235, 235C(b)﻿(ii).
 
 ### 20 Customs and Excise Regulations 1996 amended
 Regulation 7(a) of the Customs and Excise Regulations 1996 is revoked.
 
 ### 21 Misuse of Drugs (Prohibition of Cannabis Utensils and Methamphetamine Utensils) Notice 2003 amended
 The definition of prohibited goods power, function, or duty in clause 3 of the Misuse of Drugs (Prohibition of Cannabis Utensils and Methamphetamine Utensils) Notice 2003 is amended by revoking paragraph (a) and substituting the following paragraph:.
-  (a) the power under section 233(1)(c) of that Act to grant relief in respect of seized goods; and
+  (a) the power under section 233(1)﻿(c) of that Act to grant relief in respect of seized goods; and
 
 ### 22 United Nations (Iraq) Reconstruction Regulations 2003 amended
-Regulation 12(1) and (2) of the United Nations (Iraq) Reconstruction Regulations 2003 are amended by omitting 235 and substituting in each case 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii).
+Regulation 12(1) and (2) of the United Nations (Iraq) Reconstruction Regulations 2003 are amended by omitting 235 and substituting in each case 231(3)﻿(b), 233(1)﻿(c), 234, 235, 235C(b)﻿(ii).
 
 **Transitional provisions**
 
 ### 23 Transitional provision relating to exemption for tobacco manufactured for personal use
-Until the close of 30 June 2009, section 68A(2)(d) of the principal Act, as inserted by section 8 of this Act, must be read as if for any year ending with 30 June there were substituted the period commencing on 1 October 2008 and ending with the close of 30 June 2009.
+Until the close of 30 June 2009, section 68A(2)﻿(d) of the principal Act, as inserted by section 8 of this Act, must be read as if for any year ending with 30 June there were substituted the period commencing on 1 October 2008 and ending with the close of 30 June 2009.
 
 ### 24 Transitional provision relating to appeals against seizure
 Sections 231 to 235 of the principal Act, as in force before the commencement of section 16 of this Act, continue to apply in respect of goods seized, under section 226 of the principal Act, before the commencement of section 16 of this Act.
