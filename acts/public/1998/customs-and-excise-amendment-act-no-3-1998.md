@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act (No 3) 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 > An Act to amend the Customs and Excise Act 1996
 
