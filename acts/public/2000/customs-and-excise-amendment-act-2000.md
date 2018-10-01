@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 (1) This Act is the Customs and Excise Amendment Act 2000.
