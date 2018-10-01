@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2015
-_Consolidation as at 2015-05-27_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act 2015.
@@ -79,7 +79,7 @@ After section 288A, insert:Levies for recovering border processing costsLevies f
       (i) that are required to be kept under section 288C(2); and
       (ii) that are in that person’s possession or under that person’s control:
     (b) take copies of, or extracts from, those statements, accounts, and records.
-  (4) The persons referred to in subsection (3)⁠(a) are—
+  (4) The persons referred to in subsection (3)﻿(a) are—
     (a) the chief executive:
     (b) any person responsible for collecting the levy:
     (c) any employee or officer of a person in paragraph (a) or (b).
@@ -94,7 +94,7 @@ After section 288A, insert:Levies for recovering border processing costsLevies f
   (1) A person commits an offence against this Act who fails to keep or maintain statements, accounts, or records that are required to be kept or maintained under an order made under section 288B.
   (2) A person commits an offence against this Act who fails to make a return that the person is required to make by an order made under section 288B.
   (3) A person commits an offence against this Act who makes a return that the person is required to make by an order made under section 288B knowing that the return is false or misleading in a material particular.
-  (4) A person commits an offence against this Act who fails to comply with a requirement imposed under section 288G(3)⁠(a).
+  (4) A person commits an offence against this Act who fails to comply with a requirement imposed under section 288G(3)﻿(a).
   (5) Every person who commits an offence against subsection (1) is liable on conviction,—
     (a) in the case of an individual, to a fine not exceeding $5,000:
     (b) in the case of a body corporate, to a fine not exceeding $15,000.
