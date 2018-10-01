@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 (1) This Act is the Customs and Excise Amendment Act 2004.
@@ -35,7 +35,7 @@ _Consolidation as at 2007-09-03_
   - **Customs seal** , in relation to a package of goods to be exported, means a seal approved by the Chief Executive for application to the package, as soon as it is secured (and in accordance with a notice under section 53A)—
     (a) to show that, when it was secured, the package contained only the goods, and was secured in an approved way; and
     (b) to help to identify interference or tampering with the package after it is secured
-(3) The definition of New Zealand in section 2(1) of the principal Act is amended by omitting from paragraph (b)(iv) the expression section 226(2), and substituting the expression sections 166A and 226(2).
+(3) The definition of New Zealand in section 2(1) of the principal Act is amended by omitting from paragraph (b)﻿(iv) the expression section 226(2), and substituting the expression sections 166A and 226(2).
 
 ### 4 Part 2 heading amended
 The Part 2 heading of the principal Act is amended by omitting the words and Customs Controlled Areas, and substituting the words Customs controlled areas, and Customs-approved areas for storing exports.
@@ -52,7 +52,7 @@ The heading to section 18 of the principal Act is amended by adding the words in
 ### 8 New heading and sections 19A to 19H inserted
 The principal Act is amended by inserting, after section 19, the following heading and sections:Customs-approved areas for storing exports (CASEs)Purpose of sections 19B to 19HAreas that may be licensed as CASEsApplication for area to be licensed as CASELicences for CASEsAccess of Customs officers to CASEsExamination of goods to be exported and that have been brought to CASEDetaining and searching vehicles for goods to be exported and that have been brought to CASECustoms facilities in CASEs
   The purpose of sections 19B to 19H is to enable an area to be licensed as a CASE so that—
-    (a) goods to be exported are (under section 20(1)(b) and (c)), from the time they are brought to the area (whether or not the goods are later transported from that area to another area of any kind, and, if the goods are so transported, during the transportation) until they are exported to a point outside New Zealand, subject to the control of the Customs:
+    (a) goods to be exported are (under section 20(1)﻿(b) and (c)), from the time they are brought to the area (whether or not the goods are later transported from that area to another area of any kind, and, if the goods are so transported, during the transportation) until they are exported to a point outside New Zealand, subject to the control of the Customs:
     (b) the Customs may, as provided in section 19E, access the area under section 150:
     (c) the powers in section 151 (which include powers of examination) are available in respect of goods that are subject to the control of the Customs because they are goods—
       (i) to be exported; and
@@ -68,10 +68,10 @@ The principal Act is amended by inserting, after section 19, the following headi
     (b) must be made in such form, and contain such particulars, as may be prescribed.
   (2) The following sections apply to an application under this section as if it were an application for the area concerned to be licensed as a Customs controlled area:
     (a) section 11(2) and (3) (which relates to an application for a licence); and
-    (b) section 12 (except subsections (3)(c), (4), and (5)) (which relates to the grant or refusal of a licence).
+    (b) section 12 (except subsections (3)﻿(c), (4), and (5)) (which relates to the grant or refusal of a licence).
   (1) If a licence for a CASE is granted under section 12(1) (as applied by section 19C(2)) and is subject to terms, conditions, or restrictions, section 13 (variation or revocation of conditions) applies to those terms, conditions, or restrictions as if the licence were a licence for a Customs controlled area.
   (2) Section 14 (revocation or suspension of licence) applies to a licence for a CASE that is granted under section 12(1) (as applied by section 19C(2)) as if it were a licence for a Customs controlled area.
-  (3) However, for the purposes of subsection (2), section 14(1)(b) must be read as if for the words any of the purposes described in paragraphs (a) to (f) of section 10 of this Act for which the area is licensed there were substituted the words the purpose in section 19B (whether or not it is used for any other purpose).
+  (3) However, for the purposes of subsection (2), section 14(1)﻿(b) must be read as if for the words any of the purposes described in paragraphs (a) to (f) of section 10 of this Act for which the area is licensed there were substituted the words the purpose in section 19B (whether or not it is used for any other purpose).
   Section 150 applies to a CASE as if the area were a Customs controlled area; and section 173 applies accordingly.
   (1) The powers in section 151 are available in respect of goods that a Customs officer has reasonable cause to suspect are subject to the control of the Customs because they are goods—
     (a) to be exported; and
@@ -120,7 +120,7 @@ Section 34(a) of the principal Act is amended by inserting, after the word Custo
 
 ### 13 New section 34A inserted
 The principal Act is amended by inserting, after section 34, the following section:Fees and charges relating to granting certificate of clearance
-  (1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in granting a certificate of clearance (for example, the costs and expenses incurred by the Customs in determining whether a person in charge of a craft that is departing New Zealand has complied with the requirements stated or referred to in or imposed under section 34).
+  (1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)﻿(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in granting a certificate of clearance (for example, the costs and expenses incurred by the Customs in determining whether a person in charge of a craft that is departing New Zealand has complied with the requirements stated or referred to in or imposed under section 34).
   (2) No fees or charges prescribed by regulations of the kind described in subsection (1) may meet or assist in meeting costs or expenses that are—
     (a) incurred by the Customs in granting a certificate of clearance; and
     (b) related to clearance of passengers.
@@ -170,7 +170,7 @@ The principal Act is amended by inserting, after section 38, the following Part:
   (1) A person to whom this section applies must give the Customs access, on and after the date specified in the notice referred to in section 38C(b), to information—
     (a) that is of the kind specified in subsection (2); and
     (b) that the person holds (whether in New Zealand or overseas) or has access to about any border-crossing craft.
-  (2) The information referred to in subsection (1)(a) is information about the border-crossing craft, about what it is carrying or transporting, about its journey to or from New Zealand, and about its arrival at, or departure from, New Zealand, whether that journey or arrival or departure has occurred, is occurring, or will occur.
+  (2) The information referred to in subsection (1)﻿(a) is information about the border-crossing craft, about what it is carrying or transporting, about its journey to or from New Zealand, and about its arrival at, or departure from, New Zealand, whether that journey or arrival or departure has occurred, is occurring, or will occur.
   (3) That information may include, but is not limited to, the following information about the border-crossing craft:
     (a) if the craft is carrying or transporting goods,—
       (i) loading and discharge details:
@@ -184,7 +184,7 @@ The principal Act is amended by inserting, after section 38, the following Part:
   (1) A person to whom this section applies must give the Customs access, on and after the date specified in the notice referred to in section 38C(b), to information—
     (a) that is of the kind specified in subsection (2); and
     (b) that the person holds (whether in New Zealand or overseas) or has access to about any border-crossing person.
-  (2) The information referred to in subsection (1)(a) is information held by the person, or to which the person has access, for the purpose of facilitating the border-crossing person's travel to, or departure from, New Zealand, whether that travel or departure has occurred, is occurring, or will occur.
+  (2) The information referred to in subsection (1)﻿(a) is information held by the person, or to which the person has access, for the purpose of facilitating the border-crossing person's travel to, or departure from, New Zealand, whether that travel or departure has occurred, is occurring, or will occur.
   (3) That information may include, but is not limited to, the following information about the border-crossing person:—
     (a) the person's name, date of birth, place of birth, nationality, sex, and passport details:
     (b) the person's contact details (including telephone number, address, and email address):
@@ -224,7 +224,7 @@ The principal Act is amended by inserting, after section 38, the following Part:
   (3) In that situation, the Customs may without warrant—
     (a) search information about other travel to determine whether it includes information that relates to the person; and
     (b) view information in accordance with subsection (5).
-  (4) However, the search may be conducted only if it can be completed within 14 days after the arrival or departure to which the information about travel within the 28-day period relates (see section 38H(5)(a)).
+  (4) However, the search may be conducted only if it can be completed within 14 days after the arrival or departure to which the information about travel within the 28-day period relates (see section 38H(5)﻿(a)).
   (5) The Customs must not view information about other travel unless that information relates to the person and is found as a result of the search.
   (6) Powers under this section of viewing or searching are exercisable in a particular case even though, in the circumstances of that case, the purpose of the viewing or searching would not be, or would not be likely to be, frustrated if the viewing or searching were delayed until a warrant under section 38J could be obtained to authorise it.
   (1) This section applies to the following situation:—
@@ -242,20 +242,20 @@ The principal Act is amended by inserting, after section 38, the following Part:
   (4) On an application under subsection (2), a District Court Judge may grant a search and viewing warrant in the prescribed form, but only if he or she is satisfied that—
     (a) the reasonable grounds to suspect required by subsection (1) exist; and
     (b) the search criteria specified by the Customs are reasonably related to the information available to the Customs that gives rise to those reasonable grounds to suspect.
-  (5) The warrant is sufficient authority for the doing of the things specified in subsection (2)(a) and (b).
-  (6) In this section and section 38K, relevant offence means an offence described in section 38B(l)(b), or relevant to the purpose stated in section 38B(l) (except paragraph (b)).
+  (5) The warrant is sufficient authority for the doing of the things specified in subsection (2)﻿(a) and (b).
+  (6) In this section and section 38K, relevant offence means an offence described in section 38B(l)﻿(b), or relevant to the purpose stated in section 38B(l) (except paragraph (b)).
   (1) This section applies to the following situation:—
     (a) the situation specified in section 38J(l) applies:
     (b) the Chief Executive considers that, if he or she were to apply to a District Court Judge for a search and viewing warrant under section 38J, the District Court Judge would grant the warrant:
     (c) the Chief Executive also considers that delaying a search and any resulting viewing until a search and viewing warrant can be obtained under section 38J would create a real risk that—
-      (i) the countering of the risk or threat referred to in section 38J(1)(a)(i) would be frustrated; or (as the case requires)
+      (i) the countering of the risk or threat referred to in section 38J(1)﻿(a)﻿(i) would be frustrated; or (as the case requires)
       (ii) the prevention, detection, investigation, prosecution, or punishment of the relevant offence would be frustrated.
-  (2) In that situation, the Chief Executive may, with no further authority than this section, have the things specified in section 38J(2)(a) and (b) done as if the doing of those things were authorised by a search and viewing warrant under section 38J(4).
+  (2) In that situation, the Chief Executive may, with no further authority than this section, have the things specified in section 38J(2)﻿(a) and (b) done as if the doing of those things were authorised by a search and viewing warrant under section 38J(4).
   (3) However, if the Chief Executive acts under subsection (2), he or she must within 72 hours apply under section 38J(2) for a search and viewing warrant in relation to the matter.
   (1) This subsection applies to both of the following situations:
     (a) the 72-hour period referred to in section 38K(3) expires and the Chief Executive has not made the application required by that subsection:
     (b) the application required by section 38K(3) is made but, in response to it, either no warrant is granted under section 38J(4), or a warrant is granted under section 38J(4) authorising the doing of some only of the things done in reliance on section 38K(2).
-  (2) In a situation to which subsection (1) applies, things done in reliance on section 38K(2) must, to the extent that the doing of those things is not authorised by a warrant granted under section 38J(4), be treated for the purposes only of the countering of the risk or threat referred to in section 38J(1)(a)(i) or (as the case requires) of the prevention, detection, investigation, prosecution, or punishment of the relevant offence, as if they were done without the authority of section 38K or of a warrant granted under section 38J(4).
+  (2) In a situation to which subsection (1) applies, things done in reliance on section 38K(2) must, to the extent that the doing of those things is not authorised by a warrant granted under section 38J(4), be treated for the purposes only of the countering of the risk or threat referred to in section 38J(1)﻿(a)﻿(i) or (as the case requires) of the prevention, detection, investigation, prosecution, or punishment of the relevant offence, as if they were done without the authority of section 38K or of a warrant granted under section 38J(4).
   (3) In a situation to which subsection (1) applies,—
     (a) the Customs must destroy immediately information viewed by it in reliance on section 38K(2) and that is collected by it for a purpose specified in section 282A if the viewing of that information is not authorised by a warrant granted under section 38J(4); and
     (b) other persons or bodies must destroy immediately information viewed by the Customs in reliance on section 38K(2) and disclosed by it to the other persons or bodies for a purpose specified in section 282A(2) and collected by the other persons or bodies if the viewing of that information is not authorised by a warrant granted under section 38J(4).
@@ -272,11 +272,11 @@ The principal Act is amended by inserting, after section 38, the following Part:
   (9) If a request for the production of a document kept in safe custody under subsection (1) is made in the course of proceedings presided over by a District Court Judge and the request is opposed, the Judge must adjudicate upon the matter as if it had been referred to him or her under subsection (4).
   (10) If a request of that kind is made in the course of any other proceedings, the presiding judicial officer must promptly refer the matter to a District Court Judge for adjudication of the kind referred to in subsection (9).
   (11) Despite anything in this section, every District Court Judge or Judge of the High Court who is presiding over any proceedings in which the issue of a warrant under section 38J is in issue is entitled to inspect any relevant document held under subsection (1).
-  (1) Information falls within section 38M(7)(a) if it—
+  (1) Information falls within section 38M(7)﻿(a) if it—
     (a) might lead to the identification of, or provide details of, the source of the information, the nature, content, or scope of the information, or the nature or type of the assistance or operational methods available to the Customs; or
     (b) is about particular operations that have been undertaken, or are being or are proposed to be undertaken, in pursuance of any of the functions of the Customs; or
     (c) has been provided to the Customs by the government of another country or by an agency of a government of another country or by an international organisation, and is information that cannot be disclosed by the Customs because the government or agency or organisation by which the information has been provided will not consent to the disclosure.
-  (2) Disclosure of information falls within section 38M(7)(b) if the disclosure would be likely—
+  (2) Disclosure of information falls within section 38M(7)﻿(b) if the disclosure would be likely—
     (a) to prejudice the security or defence of New Zealand or the international relations of the Government of New Zealand; or
     (b) to prejudice the entrusting of information to the Government of New Zealand on a basis of confidence by the government of another country or any agency of such a government, or by any international organisation; or
     (c) to prejudice the maintenance of the law, including the prevention, investigation, and detection of offences, and the right to a fair trial; or
@@ -288,7 +288,7 @@ The principal Act is amended by inserting, after section 38, the following Part:
     (a) viewed under any of sections 38G to 38K; and
     (b) collected for a purpose specified in section 282A(2).
   (2) The Customs must, at least once every 6 months after this section comes into force, determine whether the retention of the information by the Customs continues to be necessary for that purpose and, if it is not, must dispose of the information promptly.
-  (3) This section does not limit section 38L(3)(a).
+  (3) This section does not limit section 38L(3)﻿(a).
   Neither the Crown nor the Chief Executive or a Customs officer or an authorised person is liable for anything done or omitted to be done or purporting to have been done by a person in the exercise of a power conferred by this Part unless the person has not acted in good faith or has acted without reasonable care.
   Nothing in this Part—
     (a) prevents a person concerned in the movement of goods, persons, or craft from giving Customs access to information otherwise than as required by or under this Part:
@@ -306,7 +306,7 @@ Section 50 of the principal Act is amended by inserting, before paragraph (a), t
 
 ### 18 New section 50A inserted
 The principal Act is amended by inserting, after section 50, the following section:Fees and charges relating to exportation of goods
-  (1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the exportation of goods.
+  (1) The Governor-General may, on the recommendation of the Minister, make regulations under section 287(1)﻿(a) prescribing fees or charges, or both, that are payable to the Customs to meet or assist in meeting costs and expenses incurred by the Customs in exercising functions or powers, or performing duties, or providing services, under this Act that relate to the exportation of goods.
   (2) The provisions of Part 8 that relate to the collection and recovery of duty apply to fees and charges prescribed by regulations of the kind described in subsection (1), as if those fees and charges were a duty.
   (3) Before making a recommendation under subsection (1) in relation to any proposed regulations, the Minister must be satisfied that the persons that the Minister considers are representative of interests likely to be substantially affected by the proposed regulations have been consulted about the proposed regulations to the extent that is reasonably practicable having regard to the circumstances of the case.
   (4) For the purposes of subsection (3), the Minister may take into account any relevant consultation undertaken by or on behalf of the Minister before this section comes into force.
@@ -371,7 +371,7 @@ The principal Act is amended by inserting, after section 53, the following headi
       (ii) in a Customs-approved secure package.
   (1) Goods to be exported under a Customs-approved secure exports scheme may be exported under drawback.
   (2) If goods to be exported under a Customs-approved secure exports scheme are exported under drawback, then all conditions (if any) as may be prescribed for allowing drawback of duty must be satisfied, even though satisfying those conditions may involve conveying or handling or storing the goods in a way not specified in the scheme.
-  (1) Nothing in this Act prevents a Customs seal from being applied to a Customs-approved secure package after an approved seal or markings of the kind referred to in section 53E(1)(b) have been applied to the package in accordance with the relevant Customs-approved secure exports scheme.
+  (1) Nothing in this Act prevents a Customs seal from being applied to a Customs-approved secure package after an approved seal or markings of the kind referred to in section 53E(1)﻿(b) have been applied to the package in accordance with the relevant Customs-approved secure exports scheme.
   (2) Goods to be exported under a Customs-approved secure exports scheme must not be regarded as no longer to be exported under the scheme just because 1 or more Customs seals have been applied to the Customs-approved secure package concerned.
   (1) This section applies to an exporter involved in the carriage, handling, transportation, or exportation of goods for export under 1 or more Customs-approved secure exports schemes.
   (2) Nothing in this Act prevents the exporter from being involved in the carrying, handling, transportation, or exportation of goods for export otherwise than under that scheme or those schemes.
@@ -420,8 +420,8 @@ Section 135 of the principal Act is amended by repealing subsection (1), and sub
     (d) is, on 1 or more prescribed grounds, unfit to continue to be a registered user.
 
 ### 24 Searching vehicles
-(1) Section 144(1)(a) of the principal Act is amended by omitting the word is in the first place where it occurs, and substituting the word are.
-(2) Section 144(2)(a) of the principal Act is amended by omitting the word is in the first place where it occurs, and substituting the word are.
+(1) Section 144(1)﻿(a) of the principal Act is amended by omitting the word is in the first place where it occurs, and substituting the word are.
+(2) Section 144(2)﻿(a) of the principal Act is amended by omitting the word is in the first place where it occurs, and substituting the word are.
 (3) Section 144 of the principal Act is amended by adding the following subsections:
   (3) A Customs officer who has reasonable cause to suspect that there are in or on a vehicle goods subject to the control of the Customs because they are goods to be exported and that have been brought to a CASE—
     (a) may stop the vehicle and search it; and
@@ -441,8 +441,8 @@ The principal Act is amended by inserting, after section 145, the following sect
       (ii) has not, or is suspected of having not, reported to a Customs officer or a police station on his or her arrival, contrary to section 27:
     (b) a person who is, or is suspected of, attempting to depart from New Zealand from a place other than from a Customs place, contrary to section 30.
   (2) This section and sections 147A and 148A do not apply,—
-    (a) in the case of a person referred to in subsection (1)(a), to a person whose actions are authorised by another section of this Act; and
-    (b) in the case of a person referred to in subsection (1)(b), to a person who is complying with an exemption prescribed by regulations made under this Act or whose actions are authorised by the Customs.
+    (a) in the case of a person referred to in subsection (1)﻿(a), to a person whose actions are authorised by another section of this Act; and
+    (b) in the case of a person referred to in subsection (1)﻿(b), to a person who is complying with an exemption prescribed by regulations made under this Act or whose actions are authorised by the Customs.
   (3) A Customs officer may question a person to whom this section applies as to any 1 or more of the following matters:—
     (a) the person's identity:
     (b) the person's residential address:
@@ -455,8 +455,8 @@ The principal Act is amended by inserting, after section 145, the following sect
     (g) any other person who is, or was, involved in the person's arrival, suspected arrival, departure, attempted departure, or suspected departure, whether or not the other person was on the craft—
     (i) from which the person disembarked or is suspected of disembarking; or
     (ii) on which the person attempted to depart, or is suspected of attempting to depart, from New Zealand.
-  (4) A question under subsection (3)(f) may, but need not, relate to the craft's voyage and any persons or goods carried by the craft.
-  (5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
+  (4) A question under subsection (3)﻿(f) may, but need not, relate to the craft's voyage and any persons or goods carried by the craft.
+  (5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)﻿(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
 
 ### 27 New section 146 substituted
 The principal Act is amended by repealing section 146, and substituting the following section:Questioning employees of airlines, shipping companies, owners or operators of certain vehicles, etc
@@ -465,17 +465,17 @@ The principal Act is amended by repealing section 146, and substituting the foll
     (b) a person employed by the licensee of a Customs controlled area licensed for—
       (i) the temporary holding of imported goods for the purposes of the examination of those goods under section 151 of this Act (including the holding of the goods while they are awaiting examination); or
       (ii) the processing of craft arriving in or departing from New Zealand or the loading or unloading of goods onto or from such craft:
-    (c) a person (not being a person described in paragraph (a) or (b)) who is in a Customs controlled area licensed for a purpose described in paragraph (b)(i) or (ii).
+    (c) a person (not being a person described in paragraph (a) or (b)) who is in a Customs controlled area licensed for a purpose described in paragraph (b)﻿(i) or (ii).
   (2) A Customs officer may question any or all of the following about any cargo destined to be exported from New Zealand:—
     (a) a person who is the owner or operator of a vehicle that a Customs officer has reasonable cause to suspect has in or on it, or has within the previous 72 hours had in or on it, goods subject to the control of the Customs and in a Customs-approved secure package or in a package to which a Customs seal has been applied:
     (b) a person who is the owner or occupier of premises that a Customs officer has reasonable cause to suspect have in or on them, or have within the previous 72 hours had in or on them, goods subject to the control of the Customs and in a Customs-approved secure package or in a package to which a Customs seal has been applied:
     (c) a person employed by a person described in paragraph (a) or paragraph (b).
   (3) A question under subsection (2) about cargo destined to be exported from New Zealand may relate to any or all of the following:—
-    (a) whether, and if so how, goods that are or were some or all of the cargo are or were packed in a package to which a Customs seal was applied or in a Customs-approved secure package to which a seal or marking of the kind referred to in section 53E(l)(b) was applied:
+    (a) whether, and if so how, goods that are or were some or all of the cargo are or were packed in a package to which a Customs seal was applied or in a Customs-approved secure package to which a seal or marking of the kind referred to in section 53E(l)﻿(b) was applied:
     (b) the transportation or storage of packages of the kind referred to in paragraph (a) at any time before they are or were exported:
     (c) tampering or interference with a package of the kind referred to in paragraph (a) or with a seal or marking of the kind referred to in that paragraph.
   (4) Subsection (3) does not limit subsection (2).
-  (5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
+  (5) Section 185(3) does not apply in respect of a question asked under this section (and so it is a reasonable excuse for the purposes of section 185(1)﻿(a) if a person fails or refuses to answer the question on the basis that the person's answer would incriminate or tend to incriminate the person).
   (6) Nothing in this section limits sections 145 and 145A.
 
 ### 28 New section 147A inserted
@@ -566,18 +566,18 @@ The principal Act is amended by inserting, after section 149B, the following sec
 ### 33 Seizure of items found
 Section 149C of the principal Act is amended by repealing subsection (1), and substituting the following subsections:
   (1) A Customs officer or member of the police may seize any thing found on or about a person when carrying out a search under section 149B(1), (2), or (3) that the Customs officer or member of the police has reasonable cause to suspect is—
-    (a) a thing described in section 149B(l)(a), (b), or (c); or
+    (a) a thing described in section 149B(l)﻿(a), (b), or (c); or
     (b) a dangerous item.
   (1A) A Customs officer or member of the police may seize any thing found on or about a person when carrying out a search under section 149BA that the Customs officer or member of the police has reasonable cause to suspect is—
     (a) a dangerous item; or
-    (b) a thing described in section 149B(l)(a), (b), or (c).
+    (b) a thing described in section 149B(l)﻿(a), (b), or (c).
 
 ### 34 Examination of goods subject to control of Customs
 (1) Section 151 of the principal Act is amended by repealing subsection (4), and substituting the following subsection:
   (4) The examination—
     (a) may include the physical or chemical testing of, or the drilling into, or the dismantling of, the goods; and
     (b) may be facilitated by any means whatever (for example, by a dog, a chemical substance, x-ray or imaging equipment, or some other mechanical, electrical, or electronic device).
-(2) Section 149A(2)(b) is consequentially amended by omitting the words or a mechanical, electrical, x-ray, imaging, or electronic device, and substituting the words or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
+(2) Section 149A(2)﻿(b) is consequentially amended by omitting the words or a mechanical, electrical, x-ray, imaging, or electronic device, and substituting the words or x-ray or imaging equipment, or some other mechanical, electrical, or electronic device.
 (3) Section 172(1) of the principal Act is consequentially amended by omitting the words or a, and substituting the words x-ray or imaging equipment, or some other.
 (4) Section 151 of the principal Act is amended by adding the following subsections:
   (7) A Customs officer must, subject to section 173, be allowed free access to all lands, buildings, and places, and to all goods in or on any lands, buildings, or places, for the purpose of exercising powers under this section in respect of goods that are, or are suspected to be,—
@@ -586,7 +586,7 @@ Section 149C of the principal Act is amended by repealing subsection (1), and su
   (8) Despite subsection (7), a Customs officer must not enter a private dwelling except with the consent of an occupier or owner of that dwelling or pursuant to a warrant issued under this Act.
 
 ### 35 New sections 166A to 166F inserted
-The principal Act is amended by inserting, after section 166, the following sections:Detention of goods suspected to be tainted propertyReturn of cash necessary to satisfy essential human needsFurther provisions about detention under section 166AReturn of goods detained under section 166AExtension of 7-day period in section 166D(1)(a)Custody of certain goods detained under section 166A
+The principal Act is amended by inserting, after section 166, the following sections:Detention of goods suspected to be tainted propertyReturn of cash necessary to satisfy essential human needsFurther provisions about detention under section 166AReturn of goods detained under section 166AExtension of 7-day period in section 166D(1)﻿(a)Custody of certain goods detained under section 166A
   A Customs officer or authorised person may, without warrant, seize and detain goods if—
     (a) the goods are in New Zealand and he or she is satisfied that they either—
       (i) are being, or are intended to be, exported from New Zealand; or
@@ -599,7 +599,7 @@ The principal Act is amended by inserting, after section 166, the following sect
     (a) of (or of a dependant of) an individual from whom the cash has been seized; and
     (b) arising on, or within 7 days after, the date on which detention would otherwise be effected.
   (2) Nothing in subsection (1) requires the Customs to return any cash that the Customs is satisfied is not necessary for the purpose specified in that subsection.
-  (3) If the 7-day period referred to in section 166D(1)(a) is extended under section 166E, subsection (1) of this section applies to the extension, and the reference in subsection (1)(b) of this section to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
+  (3) If the 7-day period referred to in section 166D(1)﻿(a) is extended under section 166E, subsection (1) of this section applies to the extension, and the reference in subsection (1)﻿(b) of this section to 7 days must be read as a reference to the number of days (not exceeding 21) of that 7-day period as extended.
   (1) Reasonable force may be used if it is necessary for any of the following purposes:—
     (a) to seize goods under section 166A:
     (b) to detain goods under section 166A.
@@ -622,7 +622,7 @@ The principal Act is amended by inserting, after section 166, the following sect
     (b) a foreign country makes a request to the Attorney-General under any of the following sections of the Mutual Assistance in Criminal Matters Act 1992:
       (i) section 55 (which relates to registration of foreign restraining orders):
       (ii) section 60 (which relates to the issue in New Zealand of a restraining order).
-  (1) The 7-day period in section 166D(1)(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that Court is satisfied—
+  (1) The 7-day period in section 166D(1)﻿(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that Court is satisfied—
     (a) that the good cause to suspect required by section 166A(c) exists; and
     (b) that the extension to be granted is necessary to enable investigations in or outside New Zealand in relation to the goods to be completed.
   (2) The application must be made in writing and served on the person from whom the goods were seized (if that person can be identified and located), and must include the following particulars:—
@@ -646,7 +646,7 @@ The principal Act is amended by inserting, after section 166, the following sect
 (2) Section 186(1) of the principal Act is amended by omitting the words of this Act, and substituting the words or section 147A.
 
 ### 37 Offences in relation to arrival of craft
-Section 191(1)(e) of the principal Act is amended by inserting, after the words any craft,, the words or being any other person (other than a Customs officer or authorised person),.
+Section 191(1)﻿(e) of the principal Act is amended by inserting, after the words any craft,, the words or being any other person (other than a Customs officer or authorised person),.
 
 ### 38 Offences in relation to manufacture, movement, and storage of goods
 Section 200(1) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraphs:.
@@ -676,10 +676,10 @@ The principal Act is amended by inserting, after section 210, the following sect
   (1) Every person commits an offence who, without lawful justification or reasonable excuse,—
     (a) applies a Customs seal to a package of goods otherwise than in accordance with the relevant notice of appointment under section 53A; or
     (b) alters, removes, damages, disposes of, or otherwise interferes with a Customs seal applied to a package of goods otherwise than in accordance with the relevant notice of appointment under section 53A; or
-    (c) applies an approved seal or markings of the kind referred to in section 53E(1)(b) to a Customs-approved secure package otherwise than in accordance with the relevant Customs-approved secure exports scheme.
+    (c) applies an approved seal or markings of the kind referred to in section 53E(1)﻿(b) to a Customs-approved secure package otherwise than in accordance with the relevant Customs-approved secure exports scheme.
   (2) This subsection applies to a package if the package is—
     (a) a package to which a Customs seal has been lawfully applied; or
-    (b) a Customs-approved secure package to which a seal or marking of the kind referred to in section 53E(1)(b) has been lawfully applied.
+    (b) a Customs-approved secure package to which a seal or marking of the kind referred to in section 53E(1)﻿(b) has been lawfully applied.
   (3) Every person commits an offence who, without lawful justification or reasonable excuse, tampers or interferes with a package to which subsection (2) applies by adding other goods to the goods in it when it was secured.
   (4) Every person who commits an offence against this section is liable on conviction to a fine not exceeding,—
     (a) in the case of an individual, $5,000:
@@ -695,7 +695,7 @@ The principal Act is amended by inserting, after section 215, the following sect
 ### 42 Goods forfeited
 Section 225 of the principal Act is amended by adding the following subsection:
   (6) Without limiting subsection (5), a craft is also forfeited to the Crown if—
-    (a) the craft is one in respect of which an offence under section 191(1)(a) or (d) is committed; and
+    (a) the craft is one in respect of which an offence under section 191(1)﻿(a) or (d) is committed; and
     (b) that offence was committed to facilitate non-compliance with a requirement in any of sections 27 to 29 by a person or persons who arrived in New Zealand having been brought (in that craft or in any other craft) from a point outside New Zealand.
 
 ### 43 New sections 281 to 282A substituted
@@ -711,10 +711,10 @@ The principal Act is amended by repealing sections 281 and 282, and substituting
   (2) The disclosure of information under subsection (1) must be—
     (a) in accordance with an agreement between the Chief Executive and the agency, body, or person concerned that complies with subsections (3) and (4); or
     (b) in accordance with subsection (8).
-  (3) The Chief Executive must not enter into an agreement for the purpose of subsection (2)(a) unless satisfied that it is justified to help prevent, identify, or respond to violations of New Zealand law or,—
+  (3) The Chief Executive must not enter into an agreement for the purpose of subsection (2)﻿(a) unless satisfied that it is justified to help prevent, identify, or respond to violations of New Zealand law or,—
     (a) in the case of an agreement with an international agency or body, to help prevent, identify, or respond to actions of a kind whose prevention or identification, or responding to which, is among the functions of the agency or body:
     (b) in any other case, to help prevent, identify, or respond to violations of the law of the State concerned.
-  (4) For the purposes of subsection (2)(a), an agreement—
+  (4) For the purposes of subsection (2)﻿(a), an agreement—
     (a) must be in writing; and
     (b) must state criteria for the disclosure of information under it; and
     (c) must state, in respect of information to be disclosed,—
@@ -730,9 +730,9 @@ The principal Act is amended by repealing sections 281 and 282, and substituting
     (a) must consult the Privacy Commissioner before entering into an agreement under this section, or varying such an agreement; and
     (b) if the Privacy Commissioner so requires, must undertake a review of the agreement under this section, and the arrangements for disclosure under it; and
     (c) as soon as practicable after conducting a review required to be undertaken under paragraph (b), must report the result to the Privacy Commissioner.
-  (6) The Privacy Commissioner must not require the Chief Executive to undertake a review of an agreement under subsection (5)(b) within 12 months of last doing so.
+  (6) The Privacy Commissioner must not require the Chief Executive to undertake a review of an agreement under subsection (5)﻿(b) within 12 months of last doing so.
   (7) This section does not limit the general powers. of the Chief Executive to enter into agreements not related to the disclosure of information with any overseas agency, body, or person.
-  (8) The Chief Executive may disclose information to an overseas agency, body, or person without a written agreement specified in subsection (2)(a) if—
+  (8) The Chief Executive may disclose information to an overseas agency, body, or person without a written agreement specified in subsection (2)﻿(a) if—
     (a) the functions of the agency, body, or person include the prevention, detection, investigation, prosecution, or punishment of customs offences of any kind or of other offences punishable by imprisonment; and
     (b) the information is disclosed subject to conditions stating—
       (i) the use that the agency, body, or person may make of it, and
@@ -780,7 +780,7 @@ The principal Act is amended by repealing sections 281 and 282, and substituting
     (b) the processing of international passengers at the border by public authorities; or
     (c) border security; or
     (d) the protection of the health and safety of members of the public.
-  (5) Nothing in this section limits section 38L(3)(a) or section 38O.
+  (5) Nothing in this section limits section 38L(3)﻿(a) or section 38O.
 
 ### 44 Regulations
 (1) Section 286(1) of the principal Act is amended by inserting, after paragraph (b), the following paragraph:.
@@ -793,7 +793,7 @@ The principal Act is amended by repealing sections 281 and 282, and substituting
 (4) Section 286(1) of the principal Act is amended by inserting, after paragraph (p), the following paragraph:.
   (pa) prescribing the form and manner in which the Customs must be given access to information under section 95A:
 (5) Section 286(1) of the principal Act is amended by inserting, after paragraph (x), the following paragraph:.
-  (xa) prescribing, for the purposes of section 135(1)(d), 1 or more other grounds on which a registered user may be considered unfit to continue to be a registered user.
+  (xa) prescribing, for the purposes of section 135(1)﻿(d), 1 or more other grounds on which a registered user may be considered unfit to continue to be a registered user.
 
 ### 45 Chief Executive may make rules for certain purposes
 Section 288(1) of the principal Act is amended—
@@ -809,12 +809,12 @@ The principal Act is amended by inserting, after section 288, the following sect
 
 ### 47 Amendments consequential on enactment of section 24 of Customs and Excise Amendment Act (No 2) 2002 and section 32 of this Act
 (1) The definition of New Zealand in section 2(1) of the principal Act is amended, as from the relevant time,—
-  (a) by omitting from paragraph (b)(ii) the expression 149(1)(a) and (b), and substituting the expression 149(a) and (b) ; and
-  (b) by omitting from paragraph (b)(iii) the expression 149(1)(c) and (3), and substituting the expression 149(a) and (b) and 149B(2).
+  (a) by omitting from paragraph (b)﻿(ii) the expression 149(1)﻿(a) and (b), and substituting the expression 149(a) and (b) ; and
+  (b) by omitting from paragraph (b)﻿(iii) the expression 149(1)﻿(c) and (3), and substituting the expression 149(a) and (b) and 149B(2).
 (2) Section 225(1) of the principal Act is amended, as from the relevant time, by omitting paragraph (d), and substituting the following paragraph:.
   (d) dutiable or prohibited goods found in the course of a search under section 144 or seized under section 149C(l):
 (3) Section 225(1) of the principal Act is amended by inserting, after paragraph (d), the following paragraph:.
-  (da) dangerous items seized under section 149C(1A)(a):
+  (da) dangerous items seized under section 149C(1A)﻿(a):
 (4) Each of the following sections is amended, as from the relevant time, by omitting the expression 149, and substituting the expression 149A, 149B, 149C(l) and (2), 149D,:
   (a) section 36 of the Misuse of Drugs Act 1975; and
   (b) section 38A of the Trade in Endangered Species Act 1989; and
