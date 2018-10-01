@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -44,7 +44,8 @@ _Consolidation as at 2017-12-01_
   - **Crown entity** —
     (a) has the same meaning as in section 7(1) of the Crown Entities Act 2004; and
     (b) includes an organisation named or described in Schedule 4, or a company named in Schedule 4A, of the Public Finance Act 1989
-  - **Customs officer** means any person holding office as a Customs officer appointed under the Customs and Excise Act 1996
+  - **Customs officer** means any person holding office as a Customs officer appointed under the Customs and Excise Act 2018
+  - **Customs place** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **department** has the same meaning as in section 2 of the State Sector Act 1988
   - **develop** ,—
     (a) in relation to organisms other than incidentally imported new organisms,—
@@ -97,7 +98,7 @@ _Consolidation as at 2017-12-01_
   - **explosive** means capable of sudden expansion owing to a release of internal energy; and includes the capability to generate—and has a corresponding meaning
     (a) deflagration; or
     (b) pyrotechnic effects,—
-  - **exportation** has the same meaning as in section 2(1) of the Customs and Excise Act 1996; and has a corresponding meaning
+  - **exportation** has the same meaning as in section 5(1) of the Customs and Excise Act 2018; and has a corresponding meaning
   - **exposure limit** means an environmental exposure limit or a tolerable exposure limit (as these terms are defined in section 77B(6))
   - **field test** means, in relation to an organism, the carrying on of trials on the effects of the organism under conditions similar to those of the environment into which the organism is likely to be released, but from which the organism, or any heritable material arising from it, could be retrieved or destroyed at the end of the trials
   - **firework** means an object containing small quantities of hazardous substances with explosive properties enclosed in a case of paper or similar material of such a strength, construction, and character that the ignition or explosion of one such firework will not cause the explosion en masse of similar fireworks kept or carried with it, and whose sole or principal effect is not percussive or vertical or horizontal flight
@@ -136,7 +137,7 @@ _Consolidation as at 2017-12-01_
     (d) directly or indirectly aids in managing any hazardous effect of a hazardous substance:
     (e) identifies and specifies the means of contacting any person knowledgeable in the management of the substance
   - **import** , in relation to new organisms, has the same meaning as in section 2(1) of the Biosecurity Act 1993
-  - **importation** , in relation to hazardous substances, has the same meaning as in section 2(1) of the Customs and Excise Act 1996; and , in relation to those substances, has a corresponding meaning
+  - **importation** , in relation to hazardous substances, has the same meaning as in section 5(1) of the Customs and Excise Act 2018; and , in relation to those substances, has a corresponding meaning
   - **incidentally imported new organism** means a new organism that is imported in or on goods, but is not—
     (a) an essential or constituent part of those goods:
     (b) imported in or on the goods with the intention of concealing the presence of the new organism:
@@ -1939,18 +1940,18 @@ If Parts 11 to 15 apply to a hazardous substance and a group standard is made un
 
 ### 97AA Border information supplied using JBMS must be supplied in approved form and manner
 (1) This section applies to a requirement by or under this Act to supply any border information to the Ministry (for example, to the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993 in enforcing this Act in respect of new organisms).
-(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+(2) Any person who uses a JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
   (a) for complying with the requirement by using the JBMS; and
   (b) for the time being generally approved in writing by the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
+  (b) may be set out in rules under section 325 of the Customs and Excise Act 2018.
 (4) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993.
 
 ### 97AB Duty to use JBMS to supply border information
 (1) This section applies to a requirement by or under this Act to supply any border information to the Ministry (for example, to the chief executive of the department of State responsible for the administration of the Biosecurity Act 1993 in enforcing this Act in respect of new organisms).
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
-  (a) by using the JBMS; or
+  (a) by using a JBMS; or
   (b) by using another means for the time being generally or specifically approved in writing by the responsible person.
 (3) Border information, JBMS, and Ministry have, in this section, the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993, and responsible person means, in this section, the person (whether described as the enforcement agency or otherwise) who under sections 97 to 97B of this Act is responsible for enforcement of the requirement.
 
@@ -2294,17 +2295,17 @@ Where any body corporate is convicted of an offence against this Act, every dire
 ### 120 Dealing with property seized by enforcement officers
 [Repealed]
 
-### 121 Application of Customs and Excise Act 1996 to hazardous substance imported in breach of this Act
-A hazardous substance that is being, or has been, imported in breach of this Act is a prohibited import under section 54 of the Customs and Excise Act 1996, and the provisions of that Act (including, for the avoidance of doubt, section 209 of that Act) apply accordingly.
+### 121 Application of Customs and Excise Act 2018 to hazardous substance imported in breach of this Act
+A hazardous substance that is being, or has been, imported in breach of this Act is a prohibited import under section 96 of the Customs and Excise Act 2018, and the provisions of that Act (including, for the avoidance of doubt, sections 388 and 389) apply accordingly.
 
 ### 122 Power to require hazardous substance to leave New Zealand
 (1) If a Customs officer has reasonable cause to believe that a hazardous substance is being, or has been, imported in breach of this Act, the Customs officer may,—
   (a) in the case of a hazardous substance that is being imported in breach of this Act, direct that the importer of the hazardous substance cause the hazardous substance to remain on the ship or aircraft and leave New Zealand at the importer's own cost and in accordance with the directions of the Customs officer; or
   (b) in the case of a hazardous substance that has been imported in breach of this Act and has been unloaded from a ship or aircraft, direct that the importer of the hazardous substance cause the hazardous substance to leave New Zealand at the importer's own cost and in accordance with the directions of the Customs officer.
-(2) Subsection (1)﻿(b) applies only to hazardous substances that are goods that are subject to the control of the Customs in accordance with section 20 of the Customs and Excise Act 1996.
+(2) Subsection (1)﻿(b) applies only to hazardous substances that are goods that are subject to the control of Customs in accordance with section 6 of the Customs and Excise Act 2018.
 (3) In this section,—
   - **cost** , in relation to a hazardous substance that has been imported in breach of this Act, includes the costs of handling, storing, and transporting the hazardous substance
-  - **importer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996.
+  - **importer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018.
 
 ### 123 Declaration that organism not genetically modified
 Any inspector (as defined in section 2(1) of the Biosecurity Act 1993) may require any person importing any organism to declare, by statutory declaration, that the organism is not a genetically modified organism.
@@ -2312,7 +2313,7 @@ Any inspector (as defined in section 2(1) of the Biosecurity Act 1993) may requi
 ### 124 Responsibilities of carrier and person in charge of any craft
 (1) For the purposes of this Act, the carrier and the person in charge of any craft that berths, lands, or otherwise arrives in New Zealand from another country, or that is to so berth, land, or arrive, shall—
   (a) ensure that any documentation, required by regulations or any EPA notice, in relation to all hazardous substances loaded onto that craft is available:
-  (b) on arrival of the craft at a port or airport of entry, produce for inspection such documentation as a Customs officer may lawfully specify.
+  (b) on arrival of the craft at a Customs place, produce for inspection such documentation as a Customs officer may lawfully specify.
 (2) The carrier and the person in charge of a craft leaving New Zealand shall—
   (a) provide transportation from New Zealand, at the cost in respects of the carrier, of any hazardous substance on board the craft, or any other craft operated by the carrier when it arrived in New Zealand, which was not accompanied by the documentation required by regulations or any EPA notice:
   (b) in respect of any hazardous substance for which the carrier is obliged to provide transportation or the cost of transportation under paragraph (a), to pay all the costs (if any) incurred by the Crown in holding that substance before the removal of that substance from New Zealand.
