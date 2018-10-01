@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -68,12 +68,12 @@ This section inserted s 34A of the principal Act.
   (a) Any originator of the communication and any person intended by the originator to receive it; and
   (b) A person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
 (3) For the purposes of section 12 of this Act,—
-  - **Craft** , , , and have the same meanings as in section 2(1) of the Customs and Excise Act 1996
+  - **Craft** , , , and have the same meanings as in section 5(1) of the Customs and Excise Act 2018
   - **Postal article**
   - **Proper officer of Customs**
 
 ### 11 Application of Part
-This Part of this Act shall apply notwithstanding anything in the Postal Services Act 1998 or the Customs and Excise Act 1996.
+This Part of this Act shall apply notwithstanding anything in the Postal Services Act 1998 or the Customs and Excise Act 2018.
 
 **Special powers of Police and Customs officers**
 
