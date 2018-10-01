@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -51,7 +51,7 @@ _Consolidation as at 2018-02-21_
     (b) any deodorant:
     (c) any insect repellant:
     (d) any dusting powder
-  - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **Customs** or has the meaning given to Customs in section 5(1) of the Customs and Excise Act 2018
   - **decision** includes requirement
   - **delegated prescriber** means a health practitioner to whom a delegated prescribing order has been issued
   - **delegated prescribing order** means a written instruction, issued in accordance with regulations by an authorised prescriber, authorising a health practitioner to prescribe prescription medicines
@@ -74,7 +74,7 @@ _Consolidation as at 2018-02-21_
     (b) a mixture comprising 2 or more such substances only; or
     (c) a mixture comprising 1 or more such substances with water or ethyl alcohol or any inert substance
   - **hospital** includes a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
-  - **importer** means any person by or for whom any goods are imported; and includes the consignee of any goods; and also includes any person who is or becomes—on or at any time after the importation of those goods and before they have ceased to be subject to the control of the Customs in accordance with the Customs and Excise Act 1996
+  - **importer** means any person by or for whom any goods are imported; and includes the consignee of any goods; and also includes any person who is or becomes—on or at any time after the importation of those goods and before they have ceased to be subject to the control of Customs in accordance with the Customs and Excise Act 2018
     (a) the owner of any goods; or
     (b) entitled to the possession of any goods; or
     (c) beneficially interested in any goods—
@@ -1158,7 +1158,7 @@ Without limiting any power to make regulations under this Act, nothing in sectio
 (7) The applicant shall serve notice of his application on the respondent on or before the date on which he files it in the court.
 (8) Except as modified by subsections (6) and (7), the rules of procedure for the time being in force under the District Court Act 2016 shall apply with respect to every application to the court under this section.
 (9) Every order made by the court under this section shall be final and binding on all parties.
-(10) Nothing in this section shall limit or affect the Customs and Excise Act 1996 or any other enactment.
+(10) Nothing in this section shall limit or affect the Customs and Excise Act 2018 or any other enactment.
 
 ### 66 Powers to require information
 (1) Without limiting section 63, where the Director-General or a Medical Officer of Health reasonably suspects that any person is in possession—in breach of this Act or of any regulations made under this Act, he may require that person to produce for his inspection, or to produce to any officer specially authorised by him for the purpose, any books, documents, or other records dealing with the importation, purchase, reception, manufacture, packing, storage, carriage, delivery, sale, or supply of any such medicine, medical device, substance, article, or material.
@@ -1220,10 +1220,10 @@ No prosecutor or witness in any prosecution under this Act shall be compelled to
     (i) seize and detain the goods; or
     (ii) order the goods returned by the importer to their place of origin, or some other place outside New Zealand, at the expense of the importer; or
     (iii) permit the goods to be released subject to such conditions as he may specify, including a condition that a new label be substituted for any label on each or any package comprising part of the consignment:
-  (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)﻿(iii) shall limit or affect the Customs and Excise Act 1996.
+  (g) nothing in paragraph (c) or paragraph (d) or paragraph (f)﻿(iii) shall limit or affect the Customs and Excise Act 2018.
 (2) Where an officer seizes any goods under this section, he shall serve notice of his action on the importer of the goods; and, if the goods are still under the control of the Customs, he shall also serve a copy of the notice on the Customs who shall ensure that the goods are not delivered from the control of the Customs without the written consent of the officer.
 (3) Where any goods are seized under this section, section 65 shall apply with all necessary modifications.
-(4) It shall be the duty of all officers of the Customs to assist in carrying out the provisions of this section, and to prevent the introduction into New Zealand of anything contrary to this Act; and for that purpose they may, in respect of anything so introduced or attempted to be introduced, exercise all the powers conferred by the Customs and Excise Act 1996 in the case of uncustomed or prohibited goods.
+(4) It shall be the duty of all officers of the Customs to assist in carrying out the provisions of this section, and to prevent the introduction into New Zealand of anything contrary to this Act; and for that purpose they may, in respect of anything so introduced or attempted to be introduced, exercise all the powers conferred by the Customs and Excise Act 2018 in the case of uncustomed or prohibited goods.
 
 ### 73 Certain matters presumed
 (1) In any prosecution for an offence against this Act or against any regulations made under this Act, it shall be presumed, until the contrary is proved, that the contents of a container conform with any purported description of the contents shown on any label attached to the container.
