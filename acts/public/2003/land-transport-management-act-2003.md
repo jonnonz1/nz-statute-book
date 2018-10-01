@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -66,8 +66,8 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **enforcement authority** , in relation to a toll road, means the public road controlling authority named in the relevant Order in Council made under section 46
   - **enforcement officer** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **event** includes a sporting, cultural, religious, or entertainment event, conference, meeting, convention, or exhibition
-  - **excise duty** means any excise duty payable on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 1996
-  - **excise-equivalent duty** means any excise-equivalent duty payable on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 1996
+  - **excise duty** means any excise duty payable on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 2018
+  - **excise-equivalent duty** means any excise-equivalent duty payable on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 2018
   - **excluded passenger service** means a service for the carriage of passengers for hire or reward, and that—
     (a) is contracted or funded by the Ministry of Education for the sole or primary purpose of transporting school children to and from school; or
     (b) is not available to the public generally, and is operated for the sole or primary purpose of transporting to or from a predetermined event all the passengers carried by the service; or
@@ -98,7 +98,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **minor and ancillary works** —
     (a) means works associated with a local road that are determined by the Agency to be minor and ancillary roading works; but
     (b) does not include in-house professional services or works associated with a State highway
-  - **motor spirits** does not include aviation spirits of a kind specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) as aviation fuel
+  - **motor spirits** does not include aviation spirits of a kind specified in the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018) as aviation fuel
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **national energy efficiency and conservation strategy** means a strategy issued under the Energy Efficiency and Conservation Act 2000
   - **national land transport fund** or means the fund established under section 10
@@ -198,7 +198,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
 ### 6 Meaning of land transport revenue
 In this Act, unless the context otherwise requires, land transport revenue means—
   (a) all road user charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) calculated in accordance with regulations made under section 85 of the Road User Charges Act 2012 and any assessments for unpaid road user charges under Part 3 of that Act:
-  (b) all excise duty and excise-equivalent duty on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 1996 (excluding applicable refunds or drawbacks of duties, and goods and services tax payable under the Goods and Services Tax Act 1985):
+  (b) all excise duty and excise-equivalent duty on motor spirits, compressed natural gas, or liquefied petroleum gas under the Customs and Excise Act 2018 (excluding applicable refunds or drawbacks of duties, and goods and services tax payable under the Goods and Services Tax Act 1985):
   (c) all fees and charges (excluding applicable refunds, and goods and services tax payable under the Goods and Services Tax Act 1985) identified, in regulations made for the purposes of Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17 of the Land Transport Act 1998, as land transport revenue for the purposes of this Act:
   (d) the amount of interest, calculated according to a formula determined by the Minister and the Minister of Finance, earned from the investment of cash held by the Crown from the revenues referred to in paragraphs (a) to (c):
   (e) all other public money that is required by any enactment to be treated as land transport revenue for the purposes of this Act.
