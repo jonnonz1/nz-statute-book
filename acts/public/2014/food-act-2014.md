@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2018-03-02_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -117,7 +117,7 @@ This Act binds the Crown.
     (a) means a place where a food safety officer has authorised any imported food to be held for the purpose of inspection, verification, storage, treatment, processing and handling, or destruction; and
     (b) includes—
       (i) a transitional facility or biosecurity control area within the meaning of the Biosecurity Act 1993; and
-      (ii) a Customs place or Customs controlled area within the meaning of the Customs and Excise Act 1996
+      (ii) a Customs place or Customs controlled area within the meaning of the Customs and Excise Act 2018
   - **automated electronic system** means a system that is the subject of an arrangement under section 374
   - **bulk cargo container** —
     (a) includes an article of transport equipment that is a lift van, movable tank, or other similar structure and that—
@@ -134,7 +134,7 @@ This Act binds the Crown.
     (b) identify any affected ingredient or food, and ensure its safety and suitability or manage its disposal; or
     (c) prevent recurrence of the loss of control
   - **Crown entity** has the meaning given to it by section 7(1) of the Crown Entities Act 2004
-  - **Customs** has the meaning given to the term the Customs by section 2(1) of the Customs and Excise Act 1996
+  - **Customs** has the meaning given to the term Customs by section 5(1) of the Customs and Excise Act 2018
   - **district** means a district of a territorial authority
   - **domestic food standard** has the meaning given to it by section 404
   - **entertainment** includes any social gathering, amusement, exhibition, performance, game, sport, or trial of skill
@@ -1507,12 +1507,12 @@ A surrender takes effect—
 
 ### 132 Border information supplied using JBMS must be supplied in approved form and manner
 (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
-(2) Any person who uses the JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
+(2) Any person who uses a JBMS (Joint Border Management System) to comply with the requirement (including, without limitation, by supplying the information to the Customs, or to an appointed agency, in accordance with section 41D or 41H of the Biosecurity Act 1993) must supply the information in a form and manner—
   (a) for complying with the requirement by using the JBMS; and
   (b) for the time being generally approved in writing by the chief executive.
 (3) The approved form and manner referred to in subsection (2)—
   (a) must be notified via an Internet site that is, so far as practicable, publicly available free of charge; and
-  (b) may be set out, for the information of registered JBMS users, in Customs rules under section 288(1)﻿(j) of the Customs and Excise Act 1996.
+  (b) may be set out in rules under section 325 of the Customs and Excise Act 2018.
 (4) In this section and section 133,—
   - **border information** and have the meanings given or referred to in section 41A(1) of the Biosecurity Act 1993
   - **Ministry** has the meaning given in section 41A(1) of the Biosecurity Act 1993 and also has the meaning given in section 8(1) of this Act.
@@ -1520,7 +1520,7 @@ A surrender takes effect—
 ### 133 Duty to use JBMS to supply border information
 (1) This section applies to a requirement by or under this Act to supply to the Ministry any border information.
 (2) After the commencement of this section, the only ways in which a person can comply with the requirement are—
-  (a) by using the JBMS; or
+  (a) by using a JBMS; or
   (b) by using another means for the time being generally or specifically approved in writing by the chief executive.
 
 ## Part 3A — Tracing, recall, and verification
@@ -2984,7 +2984,7 @@ The standard of proof for establishing a defence provided by this Part for an of
 (3) The production in evidence of the document is sufficient evidence, in the absence of evidence to the contrary, that the person completed, kept, or provided the document.
 
 ### 261 Evidence of testing
-(1) This section applies to evidence of a test under this Act or the Agricultural Compounds and Veterinary Medicines Act 1997, Animal Products Act 1999, Biosecurity Act 1993, Customs and Excise Act 1996, Fisheries Act 1996, Hazardous Substances and New Organisms Act 1996, Health Act 1956, or Wine Act 2003.
+(1) This section applies to evidence of a test under this Act or the Agricultural Compounds and Veterinary Medicines Act 1997, Animal Products Act 1999, Biosecurity Act 1993, Customs and Excise Act 2018, Fisheries Act 1996, Hazardous Substances and New Organisms Act 1996, Health Act 1956, or Wine Act 2003.
 (2) The evidence may be produced by way of—
   (a) a certificate given by an employee of a recognised agency; or
   (b) a certificate given by a recognised person; or
@@ -4370,7 +4370,7 @@ The chief executive must enter the outcome of each review of a decision describe
   (i) the Resource Management Act 1991; or
   (j) the Biosecurity Act 1993; or
   (k) the Consumer Guarantees Act 1993; or
-  (l) the Customs and Excise Act 1996; or
+  (l) the Customs and Excise Act 2018; or
   (m) the Fisheries Act 1996; or
   (n) the Hazardous Substances and New Organisms Act 1996; or
   (o) the Agricultural Compounds and Veterinary Medicines Act 1997; or
