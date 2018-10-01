@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -344,6 +344,118 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (5) Despite subsection (4), if a person is charged with an offence against this section, it is to be presumed, unless the person charged puts the matter at issue, that the doing or omission of the act to which the charge relates was an offence under the law of the place where the act was done or omitted.
 (6) Section 28A applies to proceedings for offences against this section.
 
+### 12D Drugs smuggling outside New Zealand, etc: application of sections 12E and 12F, supplementary provisions, and definitions
+Application of sections 12E and 12F
+(1) Sections 12E and 12F apply to any ship that is in any of the following:
+  (a) New Zealand’s exclusive economic zone:
+  (b) the high seas:
+  (c) the exclusive economic zone of another State.
+Supplementary provisions relating to offences under sections 12E and 12F
+(2) For the purposes of sections 12E(1)﻿(b) and (2)﻿(d) and 12F(1)﻿(b) and (2)﻿(d), in a case where it is another person who intends to import the controlled drugs or prohibited equipment or material into New Zealand, it does not matter if—
+  (a) the other person is not on a ship to which section 12E or 12F applies:
+  (b) D does not know the other person’s identity:
+  (c) D does not know of the other person’s intention to import the controlled drugs or prohibited equipment or material into New Zealand.
+(3) For the purposes of sections 12E(2)﻿(a) and 12F(2)﻿(a), it does not matter if D does not know the identity of the other ship.
+(4) For the purposes of sections 12E(3)﻿(b) and (4)﻿(a) and 12F(3)﻿(b) and (4)﻿(a), it does not matter if—
+  (a) the other person is not on a ship to which section 12E or 12F applies:
+  (b) D does not know the other person’s identity:
+  (c) D does not know of the exportation of, or of the other person’s intention to export, the controlled drugs or prohibited equipment or material from New Zealand.
+(5) For the purposes of sections 12E and 12F, it does not matter if any intended importation or exportation does not actually occur.
+(6) Section 28A applies to proceedings for an offence under section 12E or 12F.
+(7) Section 29C does not apply to an offence under section 12E or 12F.
+Definitions
+(8) In this section and sections 12E and 12F,—
+  - **exclusive economic zone** , in relation to New Zealand, has the meaning given to that term in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+  - **high seas** means all parts of the sea not included in—
+    (a) the internal waters, territorial sea, or exclusive economic zone of New Zealand or another State; or
+    (b) the archipelagic waters of an archipelagic State
+  - **prohibited equipment or material** means—
+    (a) a precursor substance; or
+    (b) any equipment or material, other than a precursor substance, that is capable of being used in, or for, the commission of an offence under section 6(1)﻿(b)
+  - **ship** has the meaning given to that term in section 5(1) of the Customs and Excise Act 2018.
+
+### 12E Drugs smuggling outside New Zealand, etc: controlled drugs
+Offences
+(1) A person (D) who is on a ship to which this section applies commits an offence if—
+  (a) there are controlled drugs on the ship and—
+    (i) the controlled drugs are in D’s possession; or
+    (ii) D is knowingly concerned in the transportation, holding, or handling of the controlled drugs on the ship; and
+  (b) D or another person intends to import those controlled drugs into New Zealand; and
+  (c) the importation would (if completed) be an offence under section 6(1)﻿(a).
+(2) A person (D) who is on a ship (D’s ship) to which this section applies commits an offence if—
+  (a) there are controlled drugs on another ship to which this section applies; and
+  (b) there is an arrangement for moving those controlled drugs onto D’s ship; and
+  (c) D knowingly—
+    (i) takes steps to implement, or to facilitate the implementation of, the arrangement; or
+    (ii) makes preparations for the arrival of those controlled drugs onto D’s ship; and
+  (d) D or another person intends to import those controlled drugs into New Zealand; and
+  (e) the importation would (if completed) be an offence under section 6(1)﻿(a).
+(3) A person (D) who is on a ship to which this section applies commits an offence if—
+  (a) there are controlled drugs on the ship and—
+    (i) the controlled drugs are in D’s possession; or
+    (ii) D is knowingly concerned in the transportation, holding, or handling of the controlled drugs on the ship; and
+  (b) another person exported those controlled drugs from New Zealand; and
+  (c) the exportation was an offence under section 6(1)﻿(a).
+(4) A person (D) who is on a ship (D’s ship) to which this section applies commits an offence if—
+  (a) another person intends to export, or has exported, controlled drugs from New Zealand; and
+  (b) the exportation would (if completed) be, or was, an offence under section 6(1)﻿(a); and
+  (c) there is an arrangement for moving those controlled drugs onto D’s ship; and
+  (d) D knowingly—
+    (i) takes steps to implement, or to facilitate the implementation of, the arrangement; or
+    (ii) makes preparations for the arrival of those controlled drugs onto D’s ship.
+Penalty
+(5) A person who commits an offence under this section is liable on conviction in accordance with section 6(2)﻿(a) to (c).
+Defence
+(6) It is a defence to a prosecution for an offence under subsection (1) or (3) if the person charged (D) proves,—
+  (a) as the case may be, that—
+    (i) D was in possession of the controlled drugs solely for the purpose of preventing their use or trafficking:
+    (ii) D was knowingly concerned in the transportation, holding, or handling of the controlled drugs solely for the purpose of preventing their use or trafficking; and
+  (b) that, as soon as possible after D became aware that the controlled drugs were on the ship,—
+    (i) D took all reasonable steps to inform the person in charge of the ship that the controlled drugs were on the ship; or
+    (ii) if D was the person in charge of the ship, D took all reasonable steps to inform at least 1 of the following that the controlled drugs were on the ship:
+      (A) a representative of the company operating the ship (other than a representative who was on the ship):
+      (B) an appropriate governmental authority at the port that, at the time D became aware that the controlled drugs were on the ship, was the next intended port of arrival for the ship.
+
+### 12F Drugs smuggling outside New Zealand, etc: prohibited equipment or material
+Offences
+(1) A person (D) who is on a ship to which this section applies commits an offence if—
+  (a) there is prohibited equipment or material on the ship and—
+    (i) the prohibited equipment or material is in D’s possession; or
+    (ii) D is knowingly concerned in the transportation, holding, or handling of the prohibited equipment or material on the ship; and
+  (b) D or another person intends to import that prohibited equipment or material into New Zealand; and
+  (c) D or the other person (as the case may be) knows that, if the importation is completed, that prohibited equipment or material will be used in New Zealand to commit an offence under section 6(1)﻿(b).
+(2) A person (D) who is on a ship (D’s ship) to which this section applies commits an offence if—
+  (a) there is prohibited equipment or material on another ship to which this section applies; and
+  (b) there is an arrangement for moving that prohibited equipment or material onto D’s ship; and
+  (c) D knowingly—
+    (i) takes steps to implement, or to facilitate the implementation of, the arrangement; or
+    (ii) makes preparations for the arrival of that prohibited equipment or material onto D’s ship; and
+  (d) D or another person intends to import that prohibited equipment or material into New Zealand; and
+  (e) D or the other person (as the case may be) knows that, if the importation is completed, that prohibited equipment or material will be used in New Zealand to commit an offence under section 6(1)﻿(b).
+(3) A person (D) who is on a ship to which this section applies commits an offence if—
+  (a) there is prohibited equipment or material on the ship and—
+    (i) the prohibited equipment or material is in D’s possession; or
+    (ii) D is knowingly concerned in the transportation, holding, or handling of the prohibited equipment or material on the ship; and
+  (b) another person exported that prohibited equipment or material from New Zealand knowing that it will be used to commit an offence under a provision of the law of the country to which it is being exported that corresponds to an offence under section 6(1)﻿(b).
+(4) A person (D) who is on a ship (D’s ship) to which this section applies commits an offence if—
+  (a) another person intends to export, or has exported, prohibited equipment or material from New Zealand knowing that it will be used to commit an offence under a provision of the law of the country to which it would be, or is being, exported that corresponds to an offence under section 6(1)﻿(b); and
+  (b) there is an arrangement for moving that prohibited equipment or material onto D’s ship; and
+  (c) D knowingly—
+    (i) takes steps to implement, or to facilitate the implementation of, the arrangement; or
+    (ii) makes preparations for the arrival of that prohibited equipment or material onto D’s ship.
+Penalty
+(5) A person who commits an offence under this section is liable on conviction to imprisonment for a term not exceeding 7 years.
+Defence
+(6) It is a defence to a prosecution for an offence under subsection (1) or (3) if the person charged (D) proves,—
+  (a) as the case may be, that—
+    (i) D was in possession of the prohibited equipment or material solely for the purpose of preventing its use or trafficking:
+    (ii) D was knowingly concerned in the transportation, holding, or handling of the prohibited equipment or material solely for the purpose of preventing its use or trafficking; and
+  (b) that, as soon as possible after D became aware that the prohibited equipment or material was on the ship,—
+    (i) D took all reasonable steps to inform the person in charge of the ship that the prohibited equipment or material was on the ship; or
+    (ii) if D was the person in charge of the ship, D took all reasonable steps to inform at least 1 of the following that the prohibited equipment or material was on the ship:
+      (A) a representative of the company operating the ship (other than a representative who was on the ship):
+      (B) an appropriate governmental authority at the port that, at the time D became aware that the prohibited equipment or material was on the ship, was the next intended port of arrival for the ship.
+
 ### 13 Miscellaneous offences
 (1) Every person commits an offence against this Act who—
   (a) has in that person’s possession any pipe or other utensil (not being a needle or syringe) for the purpose of the commission of an offence against this Act; or
@@ -548,13 +660,13 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (a) a charging document in respect of an offence against section 6, 9, or 10 of this Act may be filed at any time; and
   (b) the limitation period in respect of any other offence against this Act, or any regulations made under it, ends on the date that is 4 years after the date on which the offence was committed.
 
-### 28A Consent of Attorney-General required in proceedings under section 12C
-(1) No charging document may be filed for an offence against section 12C except with the consent of the Attorney-General.
-(2) A person who is alleged to have committed an offence against section 12C may be arrested, or a warrant for the arrest of the person may be issued and executed, and any such person may be remanded in custody or on bail, even if the Attorney-General’s consent to the filing of the charging document has not been obtained, but no further or other proceedings may be taken until that consent has been obtained.
+### 28A Consent of Attorney-General required in proceedings under section 12C, 12E, or 12F
+(1) No charging document may be filed for an offence against section 12C, 12E, or 12F except with the consent of the Attorney-General.
+(2) A person who is alleged to have committed an offence against section 12C, 12E, or 12F may be arrested, or a warrant for the arrest of the person may be issued and executed, and any such person may be remanded in custody or on bail, even if the Attorney-General’s consent to the filing of the charging document has not been obtained, but no further or other proceedings may be taken until that consent has been obtained.
 (3) The Attorney-General may, before deciding whether or not to give his or her consent under subsection (1), make such inquiries as he or she thinks fit.
 
 ### 29 Mistake as to nature of controlled drug or precursor substance
-Where, in any proceedings for an offence against any of the provisions of section 6 or section 7 or section 12A or section 12AB or section 12AC, it is necessary, if the defendant is to be convicted of the offence charged, for the prosecution to prove that some substance, preparation, mixture, or article involved in the alleged offence was the controlled drug or precursor substance which the prosecution alleges it to have been, and it is proved that the substance, preparation, mixture, or article was that controlled drug or precursor substance, the defendant shall not be acquitted of the offence charged by reason only of the fact that he did not know or may not have known that the substance, preparation, mixture, or article in question was the particular controlled drug or precursor substance alleged.
+Where, in any proceedings for an offence against any of the provisions of section 6 or section 7 or section 12A or section 12AB or section 12AC or section 12E or section 12F, it is necessary, if the defendant is to be convicted of the offence charged, for the prosecution to prove that some substance, preparation, mixture, or article involved in the alleged offence was the controlled drug or precursor substance which the prosecution alleges it to have been, and it is proved that the substance, preparation, mixture, or article was that controlled drug or precursor substance, the defendant shall not be acquitted of the offence charged by reason only of the fact that he did not know or may not have known that the substance, preparation, mixture, or article in question was the particular controlled drug or precursor substance alleged.
 
 ### 29A Issue of usable quantity
 (1) On the Judge-alone trial of any person charged with an offence against this Act in which it is alleged that the defendant had in his possession any controlled drug in contravention of this Act, it shall not be necessary for the prosecution to prove that the amount of the controlled drug in the defendant’s possession was of a usable quantity, unless the defendant puts the matter in issue.
@@ -642,7 +754,7 @@ A person who does any act in pursuance or intended pursuance of any of the funct
 (5) For the purposes of this section, country includes any territory for whose international relations the Government of a country is responsible and to which the extradition treaty and the Single Convention on Narcotic Drugs as amended by the Protocol amending that Convention or, as the case may be, the Convention on Psychotropic Substances, extends.
 
 ### 35A Further provision on crimes to be treated as included in extradition treaties
-(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act, every offence described in any of sections 6, 9, 12A, 12AB, 12B, and 12C (including attempting or conspiring to commit that offence, aiding, abetting, inciting, counselling, or procuring any person to commit that offence) and every offence described in section 10, if not already described in the treaty, is to be treated as being an offence described in any extradition treaty concluded before the commencement of this section and for the time being in force between New Zealand and any foreign country which is a party to the Vienna Convention.
+(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act, every offence described in any of sections 6, 9, 12A, 12AB, 12B, 12C, 12E, and 12F (including attempting or conspiring to commit that offence, aiding, abetting, inciting, counselling, or procuring any person to commit that offence) and every offence described in section 10, if not already described in the treaty, is to be treated as being an offence described in any extradition treaty concluded before the commencement of this section and for the time being in force between New Zealand and any foreign country which is a party to the Vienna Convention.
 (2) When subsection (1) requires any offence to be treated as being an offence described in an extradition treaty, a person whose surrender is sought under the Extradition Act 1999 in respect of an act or omission which amounts to that offence is liable to be surrendered in accordance with the provisions of that Act, whether the act or omission occurred before or after the date on which the offence became, by virtue of subsection (1), an offence described in the extradition treaty.
 (3) This section does not apply in respect of an act or omission that, had it occurred within the jurisdiction of New Zealand, would not at that time have constituted an offence under New Zealand law.
 (4) For the purposes of this section, foreign country includes any territory for whose international relations the Government of a foreign country is responsible and to which the extradition treaty and the Vienna Convention extend.
@@ -651,7 +763,7 @@ A person who does any act in pursuance or intended pursuance of any of the funct
 [Repealed]
 
 ### 35C Restrictions on surrender of offenders
-(1) Without limiting the grounds on which surrender must or may be refused under the Extradition Act 1999, but subject to subsection (2), no court in New Zealand may order the surrender, or the detention for the purposes of surrender, of a person to another country in respect of any act or omission that amounts to an offence described in any of sections 6, 9, 10, 12A, 12AB, 12B, and 12C if the Attorney-General certifies that the case is being or is about to be considered to determine whether or not proceedings should be brought in New Zealand against that person in respect of the act or omission.
+(1) Without limiting the grounds on which surrender must or may be refused under the Extradition Act 1999, but subject to subsection (2), no court in New Zealand may order the surrender, or the detention for the purposes of surrender, of a person to another country in respect of any act or omission that amounts to an offence described in any of sections 6, 9, 10, 12A, 12AB, 12B, 12C, 12E, and 12F if the Attorney-General certifies that the case is being or is about to be considered to determine whether or not proceedings should be brought in New Zealand against that person in respect of the act or omission.
 (2) If, in any case to which subsection (1) applies, it is subsequently determined that proceedings should not be brought in New Zealand against the person in respect of the act or omission, the Attorney-General must advise the court accordingly, and the court must proceed with the matter as if the Attorney-General’s certificate had never been given.
 
 ### 35D Evidence
@@ -662,8 +774,8 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
     (iii) the Vienna Convention; or
   (b) that the Government of any country is or is not, or was or was not, at any material time, responsible for the international relations of any territory,—
 
-### 36 Application of Customs and Excise Act 1996
-(1) Sections 137, 139, 140, 143 to 145, 148 to 149B, 149C(1) to (3), 151, 152, 161, 166A to 167, 225, and 226 of the Customs and Excise Act 1996 apply in relation to the controlled drugs and precursor substances referred to in subsection (2) as if they were prohibited imports or exports under that Act.
+### 36 Application of Customs and Excise Act 2018
+(1) Sections 176, 178, 191, 199, 205, 206, 210, 211, 212, 213, 214, 215, 220, 221, 224, 225, 227, 231, 237, 244, 245, 247, 248, 249, and 252 of the Customs and Excise Act 2018 apply in relation to the controlled drugs and precursor substances referred to in subsection (2) as if they were prohibited imports or exports under that Act.
 (2) The controlled drugs and precursor substances are—
   (a) any controlled drug, other than a controlled drug specified or described in Part 6 of Schedule 3; and
   (b) any precursor substance specified or described in Schedule 4.
