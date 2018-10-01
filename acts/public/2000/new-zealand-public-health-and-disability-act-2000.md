@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2016-04-30_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -1137,7 +1137,7 @@ Neither the Crown nor any publicly-owned health and disability organisation may 
   (b) exempting any person or class of persons from paying any levy that would otherwise be payable under this Act in any case where the cost of assessing or collecting the levy exceeds the amount payable by way of the levy:
   (c) amending or replacing the table in Schedule 4B, and amending, omitting, or reinserting the description of the method for determining variable rates.
 (6) Regulations under subsection (5)﻿(c) may be made only—
-  (a) for the purpose of aligning the rates for classes of alcohol under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996); and
+  (a) for the purpose of aligning the rates for classes of alcohol under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018); and
   (b) after consultation with the Minister of Customs.
 
 ## Part 7 — Transitional and consequential provisions
@@ -2213,19 +2213,19 @@ The following provisions apply when all or any part of a meeting of a committee 
 
 ### 5 Levies payable by importers and manufacturers of alcohol
 (1) In every financial year, a levy of the amount set by Order in Council made under clause 4 is payable by every person who—
-  (a) enters for home consumption (as that expression is used in the Customs and Excise Act 1996) any imported alcohol that contains more than 1.15% volume of alcohol; or
+  (a) enters for home consumption (as that expression is used in the Customs and Excise Act 2018) any imported alcohol that contains more than 1.15% volume of alcohol; or
   (b) manufactures in New Zealand any beer or spirits; or
   (c) sells any wine manufactured by that person in New Zealand.
-(2) No levy is payable under this Act in respect of any alcohol that is not subject to or is exempt from Customs duty under the Customs and Excise Act 1996.
-(3) If any person may be allowed, under the Customs and Excise Act 1996, any drawback in respect of any alcohol, that person may also be allowed a refund of any levy paid by that person under this Act in respect of that alcohol.
-(4) In this section, Customs duty has the meaning given to the term duty by section 2(1) of the Customs and Excise Act 1996.
+(2) No levy is payable under this Act in respect of any alcohol that is not subject to or is exempt from Customs duty under the Customs and Excise Act 2018.
+(3) If any person may be allowed, under the Customs and Excise Act 2018, any drawback in respect of any alcohol, that person may also be allowed a refund of any levy paid by that person under this Act in respect of that alcohol.
+(4) In this section, Customs duty has the meaning given to the term duty by section 5(1) of the Customs and Excise Act 2018.
 
 ### 6 Payment and collection of levies in respect of beer, wine, and spirits
-(1) All levies payable under this Act in respect of any beer, wine, or spirits are payable to the Customs in addition to any duty payable to the Customs in respect of the beer, wine, or spirits under the Customs and Excise Act 1996.
-(2) For the purposes of subclause (1), the levies are payable to the Customs at the same time as the excise duty or excise-equivalent duty is payable under the Customs and Excise Act 1996 in respect of the beer, wine, or spirits concerned.
+(1) All levies payable under this Act in respect of any beer, wine, or spirits are payable to the Customs in addition to any duty payable to the Customs in respect of the beer, wine, or spirits under the Customs and Excise Act 2018.
+(2) For the purposes of subclause (1), the levies are payable to the Customs at the same time as the excise duty or excise-equivalent duty is payable under the Customs and Excise Act 2018 in respect of the beer, wine, or spirits concerned.
 
 ### 7 Powers of the Customs
-The powers and authorities of the Customs under the Customs and Excise Act 1996, with any necessary modifications, apply in the same manner to the collection of a levy under this Act as they apply to the collection of duty under that Act.
+The powers and authorities of the Customs under the Customs and Excise Act 2018, with any necessary modifications, apply in the same manner to the collection of a levy under this Act as they apply to the collection of duty under that Act.
 
 ### 8 All levies collected to be paid to HPA
 (1) The Customs must pay to HPA all levies received under this Act by the Customs.
