@@ -1,5 +1,5 @@
 # Trade (Safeguard Measures) Act 2014
-_Consolidation as at 2017-11-29_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Trade (Safeguard Measures) Act 2014.
@@ -33,7 +33,7 @@ In this Act, unless the context otherwise requires,—
     (b) producers whose collective production constitutes a major proportion of the production in New Zealand of like goods or directly competitive goods
   - **extended safeguard duty** means a safeguard duty extended under section 23(2)﻿(a)
   - **extended safeguard measure** means a safeguard measure extended under section 23(2)
-  - **import** has the same meaning as importation in section 2(1) of the Customs and Excise Act 1996
+  - **import** has the same meaning as importation in section 5(1) of the Customs and Excise Act 2018
   - **increased imports** means increased imports of goods into New Zealand, whether it is an absolute increase or a relative increase as compared with the amount of like goods or directly competitive goods produced in New Zealand
   - **like goods** , in relation to imported goods, means—
     (a) goods that are like the imported goods in all respects; or
@@ -177,7 +177,7 @@ This Act binds the Crown.
 A safeguard measure is any of the following imposed on or in relation to imported goods following a safeguard investigation under this Act:
   (a) a safeguard duty:
   (b) a duty or a variation of any rate of duty under the Tariff Act 1988:
-  (c) a restriction on importing the goods under the Customs and Excise Act 1996 or the Imports and Exports (Restrictions) Act 1988.
+  (c) a restriction on importing the goods under the Customs and Excise Act 2018 or the Imports and Exports (Restrictions) Act 1988.
 
 ### 19 Imposition of safeguard measure
 (1) After receiving the chief executive’s report about a safeguard investigation, the Minister may take 1 or both of the actions set out in subsection (2) in relation to imported goods if the Minister is satisfied that—
