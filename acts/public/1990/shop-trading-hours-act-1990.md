@@ -1,5 +1,5 @@
 # Shop Trading Hours Act 1990
-_Consolidation as at 2016-08-30_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title and commencement
 (1) This Act is the Shop Trading Hours Act 1990.
@@ -53,7 +53,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (ii) the quantity of goods for sale is no greater than that sufficient to meet the demands of the people who live or are staying in the area where the shop is, and people (other than people travelling in order to buy goods at the shop) travelling through the area; or
   (b) a shop whose principal business is selling goods falling into one or other of the following categories:
     (i) goods intended to be bought as souvenirs:
-    (ii) duty free goods (that is to say goods sold from or through an export warehouse (within the meaning of section 2(1) of the Customs and Excise Act 1996) to people intending to take the goods out of New Zealand):
+    (ii) duty free goods (that is to say goods sold from or through an export warehouse or a duty-free store (as those terms are defined in section 5(1) of the Customs and Excise Act 2018) to people intending to take the goods out of New Zealand):
     (iii) prepared or cooked food ready to be eaten immediately in the form in which it is sold; or
   (c) a shop at any public passenger transport terminal, or at any station where public passenger transport services stop, whose principal business is selling goods falling into one or other of the following categories:
     (i) books, magazines, and newspapers:
