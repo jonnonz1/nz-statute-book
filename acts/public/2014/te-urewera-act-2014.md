@@ -1,5 +1,5 @@
 # Te Urewera Act 2014
-_Consolidation as at 2014-07-27_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Te Urewera Act 2014.
@@ -174,13 +174,13 @@ Te Urewera land must not be alienated, mortgaged, charged, or otherwise disposed
 
 ### 14 National Parks Act 1980 amended
 (1) This section amends the National Parks Act 1980.
-(2) Repeal section 6(1)(g) and (4).
+(2) Repeal section 6(1)﻿(g) and (4).
 
 ### 15 Public Finance Act 1989 amended
 (1) This section amends the Public Finance Act 1989.
-(2) In section 27(3), after paragraph (ba), insert:.
+(2) In section 27(3), after paragraph (ba), insert:
   (bb) all legal entities named or described in Schedule 6:
-(3) After Schedule 5, insert:s 27(3)Legal entities created by Treaty of Waitangi settlement ActsTe UreweraTe Urewera Act 2014
+(3) After Schedule 5, insert:s 27(3)Legal entities created by Treaty of Waitangi settlement ActsThe following table is small in size and has 2 columns, but no headings.Te UreweraTe Urewera Act 2014
 (4) The Public Finance Act 1989 is consequentially amended in the manner shown in Schedule 5.
 
 ## Part 2 — Governance and management of Te Urewera
@@ -270,7 +270,7 @@ The purposes of the Board are—
   (a) notify the other appointer of the proposed appointment; and
   (b) seek the views of the other appointer as to whether the proposed member meets the criteria of subsection (3); and
   (c) consider the views expressed by the other appointer.
-(5) Before appointments are made under subsection (1)(b) or (2)(b), the Minister must seek a recommendation from the New Zealand Conservation Authority in relation to 1 of the members to be appointed by the Ministers or Minister, as appropriate.
+(5) Before appointments are made under subsection (1)﻿(b) or (2)﻿(b), the Minister must seek a recommendation from the New Zealand Conservation Authority in relation to 1 of the members to be appointed by the Ministers or Minister, as appropriate.
 (6) Any recommendation received under subsection (5) must be considered by the Minister, but the Minister—
   (a) is not obliged to give effect to the recommendation; and
   (b) may consider a recommendation from any other person.
@@ -402,7 +402,7 @@ In relation to the Board's decisions, the chair's role includes—
   (b) initiate any other process or take any other action to assist the Board to make a decision.
 
 ### 35 Mediation
-If the chair initiates mediation under section 32(d)(i), the chair must notify the Board and the mediator of—
+If the chair initiates mediation under section 32(d)﻿(i), the chair must notify the Board and the mediator of—
   (a) the mediation process to be adopted; and
   (b) the time within which the mediation process must be undertaken.
 
@@ -459,7 +459,7 @@ The following Acts apply to the Board:
   (c) the Public Audit Act 2001.
 
 ### 43 Application of Resource Management Act 1991
-Despite section 40,—
+Despite section 41,—
   (a) work undertaken within Te Urewera by the Board, chief executive, or Director-General does not require a resource consent under section 9(3) of the Resource Management Act 1991 if that work—
     (i) is for the purpose of managing Te Urewera under this Act; and
     (ii) is consistent with this Act and the management plan; and
@@ -472,7 +472,7 @@ Despite section 40,—
 
 ### 44 Obligation on Board to prepare and approve management plan for Te Urewera
 (1) The Board must prepare and approve Te Urewera management plan in accordance with this subpart.
-(2) Public notice, as required by clause 19(1)(c) of Schedule 2, must be given not later than 1 year after the settlement date that a draft management plan is to be prepared.
+(2) Public notice, as required by clause 19(1)﻿(c) of Schedule 2, must be given not later than 1 year after the settlement date that a draft management plan is to be prepared.
 (3) Further provision is made for the preparation, notification, consideration, and approval of the management plan in Part 2 of Schedule 2.
 
 ### 45 Purpose of Te Urewera management plan
@@ -543,7 +543,7 @@ The purpose of Te Urewera management plan is—
 (2) Those functions, powers, and duties must be performed and exercised in accordance with—
   (a) this Act; and
   (b) the Conservation Act 1987.
-(3) Subsection (2)(b) does not limit subsection (2)(a).
+(3) Subsection (2)﻿(b) does not limit subsection (2)﻿(a).
 
 ### 53 Annual operational plan
 (1) Each year the chief executive and the Director-General must prepare an annual operational plan for the operational management of Te Urewera in the following year.
@@ -567,8 +567,8 @@ The purpose of Te Urewera management plan is—
   (h) identify priorities and actions for building Tūhoe capability to undertake operational management in Te Urewera; and
   (i) include any other information relevant to the operational management of Te Urewera.
 (3) The annual operational plan may refer to funding that extends over more than 1 year.
-(4) The nature and extent of funding referred to in subsection (2)(d) is solely at the discretion of the body or person providing that funding.
-(5) Implementation of the matters identified under subsection (2)(b), (c), and (e) is required only to the extent that funding and other resources make that practicable.
+(4) The nature and extent of funding referred to in subsection (2)﻿(d) is solely at the discretion of the body or person providing that funding.
+(5) Implementation of the matters identified under subsection (2)﻿(b), (c), and (e) is required only to the extent that funding and other resources make that practicable.
 
 ### 54 Kaimahi
 (1) The chief executive or the Director-General may appoint persons to act in an honorary capacity as kaimahi for the purposes of operational management in Te Urewera.
@@ -807,13 +807,13 @@ Every constable has the powers of a warranted officer for the purposes of compli
   (b) being the driver of a vehicle or the pilot of an aircraft or the person in charge of a boat that is illegally in Te Urewera or part of it, fails or refuses to remove that vehicle, aircraft, or boat when required to do so by a warranted officer:
   (c) without a concession or other right or authority, does or causes something to be done for which a concession or other right or authority is required by this Act:
   (d) unlawfully alters, obliterates, defaces, pulls up, removes, interferes with, or destroys boundary marks, or a stamp, mark, sign, poster, intentions book, concession, or right or authority issued by the Board, the chief executive, or the Director-General.
-(3) Every person commits an offence against this Act who uses, receives, sells, or otherwise disposes of an item specified in subsection (1)(d) or (h) knowing it to have been removed unlawfully from Te Urewera.
+(3) Every person commits an offence against this Act who uses, receives, sells, or otherwise disposes of an item specified in subsection (1)﻿(d) or (h) knowing it to have been removed unlawfully from Te Urewera.
 (4) Every person commits an offence against this Act who, without being authorised under this Act,—
   (a) is in possession of a chainsaw, firearm, trap, net, or other like object in Te Urewera; or
   (b) discharges a firearm in Te Urewera; or
   (c) from outside Te Urewera, shoots at an animal or other object or thing inside Te Urewera with a firearm.
 (5) If a person is found discharging a firearm in breach of subsection (4), clause 11(8) of Schedule 4 applies to that firearm as if it were illegally in the possession of that person in Te Urewera.
-(6) Every person commits an offence against this Act who breaches a bylaw made under section 70 and is liable on conviction to the penalty prescribed under section 70(1)(o).
+(6) Every person commits an offence against this Act who breaches a bylaw made under section 70 and is liable on conviction to the penalty prescribed under section 70(1)﻿(o).
 (7) In addition to any penalty for which the person may be liable, a person convicted of an offence under this section is liable to pay the cost of any loss or damage, or expenses caused by or arising from the action constituting the offence (which may include salaries, wages, and incidental expenses incurred in investigating the offence or in remedying the loss or damage caused by that action).
 (8) The proof of authorisation for the purposes of subsection (1) or (4) must be established by the person charged.
 (9) For the purpose of subsection (7), the cost or value must be assessed by a District Court Judge and is recoverable as if it were incurred as a fine.
@@ -828,9 +828,9 @@ Every person commits an offence against this Act who—
 ### 78 Penalties for specified offences
 (1) Every person who commits an offence against any of the provisions listed in subsection (2) is liable on conviction to the penalties prescribed in subsection (3).
 (2) The provisions are—
-  (a) section 76(1)(a) to (i) and (k):
-  (b) section 76(2)(a) and (b):
-  (c) section 76(4)(b) and (c):
+  (a) section 76(1)﻿(a) to (i) and (k):
+  (b) section 76(2)﻿(a) and (b):
+  (c) section 76(4)﻿(b) and (c):
   (d) section 77(a).
 (3) The penalties are,—
   (a) in the case of an individual, imprisonment for a term not exceeding 2 years or a fine not exceeding $100,000, or both:
@@ -892,7 +892,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (a) is the owner of a dog or person in charge of a dog and who allows the dog, contrary to section 84, to be in Te Urewera; or
   (b) is a person authorised by or under this Act to take a dog into Te Urewera, but fails to keep the dog under proper control; or
   (c) is the owner of a dog or person in charge of a dog, but fails to comply with any condition of a dog control permit.
-(2) Without limiting subsection (1)(b), for the purpose of this Act, a dog is not under proper control if it is found at large in Te Urewera.
+(2) Without limiting subsection (1)﻿(b), for the purpose of this Act, a dog is not under proper control if it is found at large in Te Urewera.
 
 **Fines payable to Board**
 
@@ -955,7 +955,7 @@ The computer freehold register for Te Urewera land does not adversely affect or 
   (a) in any case where the interest has been granted by or to the Crown, the Crown is deemed to have been replaced by the Board as the grantor or grantee; and
   (b) if the context requires, references to other enactments are to be read as references to this Act; and
   (c) references to Te Urewera National Park are to be read as references to Te Urewera.
-(4) Despite subsection (3)(a), a variation to, or renewal of, an interest relating to Tāwhiuau Maunga must have the written consent of the trustees of Te Rūnanga o Ngāti Manawa.
+(4) Despite subsection (3)﻿(a), a variation to, or renewal of, an interest relating to Tāwhiuau Maunga must have the written consent of the trustees of Te Rūnanga o Ngāti Manawa.
 (5) In this section, Tāwhiuau Maunga and trustees of Te Rūnanga o Ngāti Manawa have the meanings given in section 129.
 
 ### 93 Application of other enactments
@@ -986,7 +986,7 @@ The computer freehold register for Te Urewera land does not adversely affect or 
   (b) may be used, occupied, accessed, maintained, removed, or demolished by the chief executive or the Director-General in a manner that is consistent with—
     (i) the management plan; and
     (ii) the annual operational plan for Te Urewera.
-(2) Subsection (1)(b) applies only to the extent that the use, occupation, access, maintenance, removal, or demolition of the improvements is not inconsistent with—
+(2) Subsection (1)﻿(b) applies only to the extent that the use, occupation, access, maintenance, removal, or demolition of the improvements is not inconsistent with—
   (a) the terms of an existing interest (within the meaning of section 92(1)); or
   (b) any existing grant by the Crown to a third party for the use of the improvements.
 (3) Other improvements attached to the establishment land that are not governed by an existing interest (within the meaning of section 92(1)) are vested in—
@@ -1087,7 +1087,7 @@ In considering a proposal to add land to Te Urewera or to acquire an interest, t
   (b) the Board and the owner of the land have reached an agreement for the Board to acquire the land by sale and purchase or receive it as a gift.
 (2) If the private land that is the subject of a proposal is Māori freehold land,—
   (a) the agreement to add that land to Te Urewera must be treated as an alienation of the whole or part of a block for the purposes of Part 7 of Te Ture Whenua Maori Act 1993; and
-  (b) the agreement is conditional on the Minister making a recommendation under section 105(1)(a); and
+  (b) the agreement is conditional on the Minister making a recommendation under section 105(1)﻿(a); and
   (c) the requirements of Te Ture Whenua Maori Act 1993 for alienation of the whole or part of a block must be complied with.
 (3) The Board may, before making a proposal under subsection (1), request the chief executive and the Director-General to investigate the proposal and provide a report to the Board with recommended outcomes.
 (4) To avoid doubt, the Māori Land Court does not have jurisdiction to make a vesting order to add land to Te Urewera.
@@ -1186,7 +1186,7 @@ In considering a proposal to add land to Te Urewera or to acquire an interest, t
 (3) The provisions of Schedule 10 of the Local Government Act 1974 apply to the stopping of a road under this section, except as this section provides otherwise.
 (4) Despite section 100(2), sections 103 to 105 do not apply to land added to Te Urewera under this section.
 (5) The following provisions of the Local Government Act 1974 do not apply to the stopping of a road under this section:
-  (a) section 342(1)(a) (to the extent that it requires the prior consent of the Minister for Land Information to be obtained):
+  (a) section 342(1)﻿(a) (to the extent that it requires the prior consent of the Minister for Land Information to be obtained):
   (b) section 345 (which relates to the disposal of land not required for a road).
 
 ### 110 Registration of land added to Te Urewera if road stopped
@@ -1422,7 +1422,7 @@ The Ruakituri Wilderness Area established under the National Parks Act 1980 by n
     (i) any interests that are registered, notified, or notifiable, and are described in the application; and
     (ii) a notation that the land is subject to this Act; and
     (iii) for the purpose of section 91, a notation that the register is limited as to parcels.
-(2) The interests referred to in subsection (1)(b)(i) include the Te Urewera easements referred to in paragraphs (a) and (b) of the definition of Te Urewera easements in section 88.
+(2) The interests referred to in subsection (1)﻿(b)﻿(i) include the Te Urewera easements referred to in paragraphs (a) and (b) of the definition of Te Urewera easements in section 88.
 (3) The computer freehold register required by subsection (1) must be created not later than 24 months after the settlement date.
 (4) Subsection (1) applies despite the Land Transfer Act 1952 or any other enactment or rule of law.
 (5) For the purposes of any registration matter relating to a concession granted by the Board under section 62(1), the Registrar-General may only register the interest if the document presented for registration is accompanied by the written consent of the trustees of Te Rūnanga o Ngāti Manawa.
@@ -1681,7 +1681,7 @@ The Board may—
   (b) provide a copy of the draft management plan to—
     (i) the chair of Tūhoe Te Uru Taumatua and the chief executive; and
     (ii) the Minister and the Director-General; and
-    (iii) any person or organisation that provided comment in response to clause 19(1)(d); and
+    (iii) any person or organisation that provided comment in response to clause 19(1)﻿(d); and
     (iv) the New Zealand Conservation Authority; and
     (v) the relevant conservation boards; and
     (vi) the relevant local authorities; and
@@ -1709,24 +1709,24 @@ The Board may—
   (b) may amend the draft management plan as it considers appropriate.
 (3) The Board must provide the following to the chair of the trustees and the Minister:
   (a) the draft management plan; and
-  (b) the summary of submissions and statement referred to in clause 21(1)(c); and
+  (b) the summary of submissions and statement referred to in clause 21(1)﻿(c); and
   (c) any comments from the Authority; and
   (d) a statement as to how those comments have been dealt with.
 (4) The Board must request that the chair of the trustees and the Minister either—
   (a) recommend that the Board approve the draft management plan; or
   (b) advise the Board of any matters that either of them considers require further consideration or revision.
-(5) Both the chair of the trustees and the Minister must agree before a recommendation for approval may be given under subclause (4)(a).
-(6) If the chair of the trustees and the Minister do not agree, the matter on which they disagree must be put to the Board as advice under subclause (4)(b).
+(5) Both the chair of the trustees and the Minister must agree before a recommendation for approval may be given under subclause (4)﻿(a).
+(6) If the chair of the trustees and the Minister do not agree, the matter on which they disagree must be put to the Board as advice under subclause (4)﻿(b).
 (7) If advice is given under subclause (6), the Board—
   (a) must consider it; and
   (b) may, as the Board considers appropriate, amend the draft management plan in response to the advice; and
   (c) must provide the draft management plan to the chair of the trustees and the Minister—
     (i) with an explanation of how the advice has been dealt with; and
-    (ii) with a further request for a recommendation under subclause (4)(a).
-(8) Subclauses (4) to (7) apply to a request under subclause (7)(c)(ii).
+    (ii) with a further request for a recommendation under subclause (4)﻿(a).
+(8) Subclauses (4) to (7) apply to a request under subclause (7)﻿(c)﻿(ii).
 
 ### 23 Approval and notification of management plan
-(1) Following a recommendation from the chair of the trustees and the Minister under clause 22(4)(a), the Board—
+(1) Following a recommendation from the chair of the trustees and the Minister under clause 22(4)﻿(a), the Board—
   (a) may approve the management plan; and
   (b) must, at the same time as it approves a management plan, issue a report stating how it has considered and responded to submissions and comments on the draft management plan.
 (2) The Board must give public notice nationally of the approved management plan, in whatever manner it considers appropriate, stating the date on which the plan comes into force.
@@ -1744,7 +1744,7 @@ The Board may—
     (i) advise which parts of the draft plan are accepted; and
     (ii) refer those parts that are not accepted to the chief executive and the Director-General for further consideration; and
     (iii) meet with the chief executive and the Director-General to discuss the Board's decision:
-  (b) rejects the plan in its entirety, take the steps set out in paragraph (a)(i) to (iii).
+  (b) rejects the plan in its entirety, take the steps set out in paragraph (a)﻿(i) to (iii).
 (5) The Board, the chief executive, and the Director-General must, in good faith, seek to resolve any disagreement over the draft plan, with the intention to make the whole plan acceptable to the Board as soon as is reasonably possible.
 (6) From the commencement of the relevant year,—
   (a) the chief executive and the Director-General—
@@ -1836,7 +1836,7 @@ The Board may—
   (a) the protection of public safety; or
   (b) the protection of the physical security of the activity concerned; or
   (c) the competent operation of the activity concerned.
-(3) For the purposes of subclause (2)(c), the competent operation of an activity includes the necessity for the activity to achieve adequate investment and maintenance.
+(3) For the purposes of subclause (2)﻿(c), the competent operation of an activity includes the necessity for the activity to achieve adequate investment and maintenance.
 (4) The Board must not grant an easement over Te Urewera land in a case where a lease, licence, or permit may be granted if the Board considers that a lease, licence, or permit is more appropriate in the circumstances.
 (5) However, if the management plan does not make provision for a concession of the kind applied for, the Board may, after complying with clauses 11 to 14, grant the concession.
 
@@ -1980,7 +1980,7 @@ In granting a concession, the Board may impose any conditions the Board consider
   (b) the concessionaire does not apply for reconsideration under clause 26(b) before 1 of the following occurs:
     (i) the new concession document is signed by the parties:
     (ii) the specified deadline is reached.
-(2) The concessionaire may continue to operate under the existing concession until 1 of the events described in subclause (1)(b)(i) and (ii) occurs.
+(2) The concessionaire may continue to operate under the existing concession until 1 of the events described in subclause (1)﻿(b)﻿(i) and (ii) occurs.
 (3) Subclause (4) applies if—
   (a) the Board grants the new concession; and
   (b) the concessionaire applies for reconsideration under clause 26(b) before 1 of the following occurs:
@@ -2027,7 +2027,7 @@ In granting a concession, the Board may impose any conditions the Board consider
   (b) the applicant does not apply for reconsideration under clause 26(b) before 1 of the following occurs:
     (i) the concession document is signed by the parties:
     (ii) the specified deadline is reached.
-(2) The applicant's right to apply for reconsideration terminates when either of the conditions described in subclause (1)(b) occurs.
+(2) The applicant's right to apply for reconsideration terminates when either of the conditions described in subclause (1)﻿(b) occurs.
 (3) Subclause (4) applies if—
   (a) the Board grants a new concession; and
   (b) the applicant applies for reconsideration under clause 26(b) before 1 of the following occurs:
@@ -2215,10 +2215,10 @@ Before a warranted officer exercises a power under this Act, unless it is imprac
 (1) A warranted officer may seize an item found in the possession of any person if the warranted officer has reasonable cause to believe that the person, in obtaining possession of the item, committed an offence against this Act.
 (2) Despite subpart 6 of Part 4 of the Search and Surveillance Act 2012, subclauses (3) and (4) apply if proceedings are not taken in respect of an offence under subclause (1) within 6 months after that seizure, or if proceedings are taken within that period but the charge is dismissed.
 (3) The charge must be dealt with under the Wildlife Act 1953 if the item seized is, or is any part of, protected wildlife, the nest or egg of protected wildlife, or the body of protected wildlife.
-(4) If the item seized is a taonga tūturu, it must be delivered to the person who is entitled to its custody under section 11(4)(a)(i) of the Protected Objects Act 1975.
+(4) If the item seized is a taonga tūturu, it must be delivered to the person who is entitled to its custody under section 11(4)﻿(a)﻿(i) of the Protected Objects Act 1975.
 (5) If proceedings against the person from whom an item was seized are taken within 6 months of the seizure and the defendant is convicted of the offence relating to the seized item,—
   (a) the item is forfeited to the Crown and must be dealt with under the Wildlife Act 1953 if the item, or any part of it, is protected wildlife, the nest or egg of protected wildlife, the body of protected wildlife:
-  (b) if the item seized is a taonga tūturu, it must be delivered to the person who is entitled to its custody under section 11(4)(a)(i) of the Protected Objects Act 1975:
+  (b) if the item seized is a taonga tūturu, it must be delivered to the person who is entitled to its custody under section 11(4)﻿(a)﻿(i) of the Protected Objects Act 1975:
   (c) in the case of any other item, it is forfeited to the Board.
 (6) If proceedings are not taken against the person from whom an item was seized within 6 months of the seizure, the item seized must be returned to that person at the end of that period.
 (7) Buildings, signs, hoardings, fences, or any apparatus erected in Te Urewera without the written consent of the Board are forfeited to the Board.
@@ -2233,11 +2233,11 @@ Before a warranted officer exercises a power under this Act, unless it is imprac
   (b) inspect, seize, and detain specimens of any plant, animal, rock, mineral, soil, or protected New Zealand object on board the boat that the authorised officer has good cause to believe has been taken from Te Urewera; and
   (c) arrest without warrant any person that the authorised officer has reasonable cause to suspect has committed an offence.
 (2) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
-(3) Clause 11 applies to anything seized under subclause (1)(b) as if it had been seized under that clause.
+(3) Clause 11 applies to anything seized under subclause (1)﻿(b) as if it had been seized under that clause.
 (4) In this clause, authorised officer means—
   (a) the officer in command of a vessel of the New Zealand Naval Forces, and includes any person under the command of the officer and authorised by the officer to act in any particular case:
   (b) a warranted officer employed—
-    (i) by the Director-General under section 71(5)(a); or
+    (i) by the Director-General under section 71(5)﻿(a); or
     (ii) by the chief executive under that section, but only if the person is specifically authorised in writing by the Minister of Conservation to act under this clause:
   (c) a warranted officer appointed in accordance with section 59 of the Conservation Act 1987:
   (d) a constable:
@@ -2252,7 +2252,7 @@ Before a warranted officer exercises a power under this Act, unless it is imprac
   (a) give written notice that it has been seized to the reputed owner, agent, or person who ought to have charge of the animal; or
   (b) publish, once a week for 2 consecutive weeks in a newspaper circulating in the locality, a notice requiring the owner or reputed owner to remove the animal from Te Urewera or other place to which it may have been transferred, with a warning that unless the animal is removed within 14 days after the date of the first notice, it may be destroyed, sold, or otherwise disposed of.
 (4) If an animal to which subclause (3) applies is not removed within the stipulated period, the Board may authorise the chief executive or Director-General to destroy, sell, or otherwise dispose of it.
-(5) In addition to the penalty for which the person is liable, a person convicted of an offence against section 76(1)(a) is liable to pay—
+(5) In addition to the penalty for which the person is liable, a person convicted of an offence against section 76(1)﻿(a) is liable to pay—
   (a) any costs incurred by the chief executive or the Director-General in giving notice under subclause (3); and
   (b) the expenses of mustering, keeping, destroying, selling, or otherwise disposing of the animal in accordance with this clause; and
   (c) the cost of repairing or restoring any damage done to Te Urewera by the animal.
@@ -2285,7 +2285,7 @@ Before a warranted officer exercises a power under this Act, unless it is imprac
 ### Part 2 — Control of dogs
 
 ### 15 Requirements in relation to dog control permits
-(1) The Board, in exercising its powers under section 85(1) or (3)(b), must have regard to—
+(1) The Board, in exercising its powers under section 85(1) or (3)﻿(b), must have regard to—
   (a) any actual or potential risk to protected wildlife vulnerable to dogs that is on or in the vicinity of Te Urewera or any part of Te Urewera:
   (b) the purpose of this Act:
   (c) the Te Urewera management plan:
@@ -2308,7 +2308,7 @@ The Board may amend or revoke a dog control permit issued under section 85(1).
   (a) a Police employee within the meaning of section 4 of the Policing Act 2008:
   (b) a warranted officer:
   (c) an officer or employee of the chief executive or the Director-General:
-  (d) a Customs officer within the meaning of section 2(1) of the Customs and Excise Act 1996:
+  (d) a Customs officer within the meaning of section 5(1) of the Customs and Excise Act 2018:
   (e) a search and rescue person.
 (2) A blind or partly blind person who uses a guide dog may, without holding a dog control permit, take the guide dog into Te Urewera.
 (3) A person who uses a companion dog may, without holding a dog control permit, take the companion dog into Te Urewera.
@@ -2340,15 +2340,15 @@ The Board may amend or revoke a dog control permit issued under section 85(1).
   (a) cause the dog to be returned to its owner; or
   (b) hold the dog in a kennel under the custody of the chief executive or the Director-General; or
   (c) place the dog in the custody of a territorial authority to be impounded under section 69 of the Dog Control Act 1996.
-(2) If a dog is held by the chief executive or the Director-General under subclause (1)(b),—
+(2) If a dog is held by the chief executive or the Director-General under subclause (1)﻿(b),—
   (a) the chief executive or the Director-General may, in his or her discretion, return the dog to its owner subject to payment by the owner of any charges incurred, unless the chief executive or the Director-General, in his or her discretion, decides to waive or reduce the charges:
   (b) the chief executive or the Director-General, or an employee of the chief executive or the Director-General must, as soon as practicable after the dog has been seized,—
     (i) give written notice to the nearest territorial authority that the dog has been seized and who is holding it, including a description of the dog and any other means of identifying it:
     (ii) give written notice to the owner of the dog (if the owner of the dog is known or can reasonably be located) that the dog has been seized and that, unless the dog is claimed and any charges paid within 7 days of receiving the notice, the dog may be sold, destroyed, or otherwise disposed of as the chief executive or the Director-General thinks fit; and after the expiry of that period the chief executive or the Director-General may dispose of the dog:
   (c) the chief executive or the Director-General may, if the owner of the dog is not known and cannot be identified, sell, destroy, or otherwise dispose of the dog after the expiry of 7 days after the date of the seizure of the dog as he or she thinks fit.
 (3) The sale, destruction, or other disposal of a dog under these provisions does not relieve a former owner of the dog of the liability to pay any fees incurred for the seizure, sustenance, and holding of the dog.
-(4) No offence is committed against section 42 of the Dog Control Act 1996 if the chief executive or the Director-General holds or disposes of a dog under subclause (1)(b) in the case of a dog that ought to be, but is not, registered under that Act.
-(5) Except as provided in subclause (1)(c), nothing in section 69 of the Dog Control Act 1996 affects or limits the provisions of this clause.
+(4) No offence is committed against section 42 of the Dog Control Act 1996 if the chief executive or the Director-General holds or disposes of a dog under subclause (1)﻿(b) in the case of a dog that ought to be, but is not, registered under that Act.
+(5) Except as provided in subclause (1)﻿(c), nothing in section 69 of the Dog Control Act 1996 affects or limits the provisions of this clause.
 
 ### 20 Recovery of costs relating to dogs
 (1) The reasonable costs of seizing, holding, maintaining, or destroying a dog under this Act is a debt due by the owner of the dog to the chief executive or the Director-General, whoever incurred the costs, and may be recovered from the owner of the dog.
