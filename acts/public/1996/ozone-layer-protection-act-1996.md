@@ -1,5 +1,5 @@
 # Ozone Layer Protection Act 1996
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to help protect human health and the environment against adverse effects resulting or likely to result from human activities which modify or are likely to modify the ozone layer and to implement in New Zealand the Vienna Convention for the Protection of the Ozone Layer and the Montreal Protocol on Substances that Deplete the Ozone Layer
 
@@ -57,8 +57,8 @@ This Act applies to—as those terms are defined in this Act or in regulations m
 (4) It is unlawful to sell in New Zealand substances or goods the sale of which is prohibited by regulations made under Part 3.
 (5) It is unlawful to use any substances or goods in New Zealand if that use is prohibited by regulations made under Part 3.
 
-### 7 Customs and Excise Act 1996 to apply to prohibited exports
-All the provisions of the Customs and Excise Act 1996 that apply with respect to prohibited exports (except the penalty for an offence against section 209(1)(b) of that Act) shall apply with respect to the export of any substances and goods in contravention of this Act, in all respects as if the export of those substances and goods were prohibited under Part 5 of the Customs and Excise Act 1996.
+### 7 Customs and Excise Act 2018 to apply to prohibited exports
+All the provisions of the Customs and Excise Act 2018 that apply to prohibited exports (except the penalty for an offence against section 388(1)﻿(b) of that Act) apply to the export of any substances and goods in contravention of this Act as if the export of the substances and goods were prohibited under subpart 4 of Part 3 of the Customs and Excise Act 2018.
 
 **Exemptions**
 
@@ -274,7 +274,7 @@ The powers conferred by this Part may be exercised to the extent reasonably nece
 (10) No warrant issued under this section shall authorise any person executing it to enter or search any restricted area within a defence area unless that person has a security clearance approved by the person in charge of the area.
 
 ### 24 Seizure by Customs officers
-Any Customs officer who, in the course of exercising a power conferred on that officer under the Customs and Excise Act 1996, finds any substance or goods that he or she believes on reasonable grounds have been imported in contravention of this Act, may seize that substance or goods.
+Any Customs officer who, in the course of exercising a power conferred on that officer under the Customs and Excise Act 2018, finds any substance or goods that he or she believes on reasonable grounds have been imported in contravention of this Act, may seize that substance or goods.
 
 ### 25 Retention of property seized
 If any constable or officer seizes any substance or goods under this Act, subparts 1, 6, 7, 9, and 10 of Part 4 of the Search and Surveillance Act 2012 apply in respect of the seizure of that substance or those goods.
