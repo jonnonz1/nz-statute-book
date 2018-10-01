@@ -1,5 +1,5 @@
 # Health and Safety at Work Act 2015
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Health and Safety at Work Act 2015.
@@ -198,7 +198,7 @@ In this Act, unless the context otherwise requires,—
     (a) means a place occupied as a dwelling house; and
     (b) includes any garden, yard, garage, outhouse, or other appurtenance of a home
   - **homeworker** has the same meaning as in section 5 of the Employment Relations Act 2000
-  - **importation** has the same meaning as in section 2(1) of the Customs and Excise Act 1996, and has a corresponding meaning
+  - **importation** has the same meaning as in section 5(1) of the Customs and Excise Act 2018, and has a corresponding meaning
   - **improvement notice** means a notice issued under section 101
   - **inspector** means an inspector appointed under section 163
   - **issuing officer** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
