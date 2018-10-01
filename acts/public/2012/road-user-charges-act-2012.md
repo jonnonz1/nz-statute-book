@@ -1,5 +1,5 @@
 # Road User Charges Act 2012
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Road User Charges Act 2012.
@@ -91,13 +91,13 @@ The purpose of this Act is to—
   - **minimum reading** , in relation to a licence, means a figure specified on the licence as the minimum reading
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **motor spirits** has the same meaning as in section 79A of the Customs and Excise Act 1996
+  - **motor spirits** has the same meaning as in clause 23(3) of Schedule 3 of the Customs and Excise Act 2018
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **operate** and have the same meanings as in section 2(1) of the Land Transport Act 1998
   - **owner** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **permit** means a permit issued by a road controlling authority under section 5 of Part 1 of the VDAM Rule 2002 for a RUC vehicle that exceeds the mass limits prescribed in section 4 of that rule
   - **petrol** —
-    (a) means any motor spirits (including motor spirits blended with other fuels) or compressed natural gas or liquefied petroleum gas on which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 1996; but
+    (a) means any motor spirits (including motor spirits blended with other fuels) or compressed natural gas or liquefied petroleum gas on which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 2018; but
     (b) does not include diesel or electricity
   - **reading** , in relation to a distance recorder, means the reading of distance recorded on the distance recorder at any particular time
   - **records** , in relation to a RUC vehicle or RUC vehicles, means the following documents that relate to the use and maintenance of the vehicle or vehicles:
