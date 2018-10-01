@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2018-04-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -1980,7 +1980,7 @@ A loan contract entered into by a borrower (whether before or after the commence
 (1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the New Zealand Customs Service for the purpose of establishing an information-matching programme to assist the Commissioner to—
   (a) verify whether borrowers are New Zealand-based or overseas-based; and
   (b) verify whether borrowers are New Zealand residents; and
-  (c) locate, when they enter or leave New Zealand, borrowers who are in serious default (within the meaning of section 280G of the Customs and Excise Act 1996) in relation to student loans.
+  (c) locate, when they enter or leave New Zealand, borrowers who are in serious default (within the meaning of section 306 of the Customs and Excise Act 2018) in relation to student loans.
 (2) For the purpose of this section, the Commissioner may provide to the chief executive of the New Zealand Customs Service any of the following information that is held by the Inland Revenue Department:
   (a) a borrower's name or any other name by which a borrower is known:
   (b) a borrower's date of birth:
@@ -1992,7 +1992,7 @@ A loan contract entered into by a borrower (whether before or after the commence
 (4) Subsection (2) applies despite any obligation as to secrecy or other restriction imposed by any enactment or otherwise on the disclosure of information.
 
 ### 209 Power of Commissioner to access arrival or departure information
-In accordance with, and for the purpose set out in, section 280I of the Customs and Excise Act 1996, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
+In accordance with, and for the purpose set out in, section 312 of the Customs and Excise Act 2018, the Commissioner may access any information-recording system used by the New Zealand Customs Service to store arrival or departure information.
 
 ### 209A Disclosure of information to Australian Taxation Office in relation to borrowers who are, or may be, overseas-based
 (1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Australian Taxation Office for the purposes of assisting the Commissioner to—
