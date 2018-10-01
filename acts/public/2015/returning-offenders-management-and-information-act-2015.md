@@ -1,5 +1,5 @@
 # Returning Offenders (Management and Information) Act 2015
-_Consolidation as at 2017-05-15_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Returning Offenders (Management and Information) Act 2015.
@@ -19,7 +19,7 @@ The purpose of this Act is to obtain information from returning offenders and es
   - **Commissioner** means the Commissioner of Police
   - **constable** has the meaning given to it in section 4 of the Policing Act 2008
   - **court** means the District Court
-  - **Customs place** has the meaning given to it in section 9(1) of the Customs and Excise Act 1996
+  - **Customs place** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
   - **detain** , in relation to a person, includes to move the person to a Customs place, Police station, or any other place being used for Police purposes
   - **determination notice** means a notice served under section 19
   - **drug or alcohol condition** means a special condition under section 15(3)﻿(ba) of the Parole Act (as that provision is applied with all necessary modifications by sections 26(4), 27, and 34 of this Act)
