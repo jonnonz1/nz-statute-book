@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2018-05-27_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -627,7 +627,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 ### 47A Detention of goods suspected to be terrorist property
 (1) A Customs officer or authorised person may, without warrant, seize and detain goods if—
   (a) the goods came to his or her attention, or into his or her possession, during a search, inspection, audit, or examination under—
-    (i) the Customs and Excise Act 1996; or
+    (i) the Customs and Excise Act 2018; or
     (ia) subpart 6 of Part 2 and sections 114 and 115 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
     (ii) Part 5 of the Financial Transactions Reporting Act 1996 (which relates to reporting of imports and exports of cash); and
   (b) the goods are in New Zealand and he or she is satisfied that they either—
@@ -640,7 +640,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
     (i) that the goods are cash or cash equivalents owned or controlled, directly or indirectly, by an entity; and
     (ii) that the entity is an entity that carries out, or participates in the carrying out of, 1 or more terrorist acts.
 (2) In this section and sections 47B to 47G,—
-  - **authorised person** , , , or , , , and have the meanings given to them in section 2(1) of the Customs and Excise Act 1996
+  - **authorised person** , , , , , , and have the meanings given to them in section 5(1) of the Customs and Excise Act 2018
   - **cash equivalents** includes (without limitation) bearer bonds, gemstones, money orders, postal notes, precious metals, and travellers cheques.
 
 ### 47B Return of cash necessary to satisfy essential human needs
@@ -656,9 +656,9 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   (b) to detain goods under section 47A.
 (2) If the person from whom goods have been seized and detained under section 47A is identified but is not present when the seizure and detention occurs (for example, because the goods concerned are in mail or cargo or in unaccompanied baggage), the Customs must make all reasonable efforts to notify that person of the detention and seizure as soon as practicable.
 (3) Goods detained under section 47A must be taken to such place of security as a Customs officer or authorised person directs, and there detained, unless section 47F applies.
-(4) Section 175 of the Customs and Excise Act 1996 (which protects persons acting under authority of that Act) applies, with all necessary modifications, in relation to the exercise of a power under any of sections 47A to 47F of this Act.
+(4) Section 264 of the Customs and Excise Act 2018 (which protects persons acting under authority of that Act) applies, with all necessary modifications, in relation to the exercise of a power under any of sections 47A to 47F of this Act.
 (5) Nothing in section 47A limits or affects powers under the following Acts:
-  (a) Customs and Excise Act 1996:
+  (a) Customs and Excise Act 2018:
   (ab) Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
   (b) Financial Transactions Reporting Act 1996:
   (c) Mutual Assistance in Criminal Matters Act 1992:
