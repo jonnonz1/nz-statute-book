@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2008
-_Consolidation as at 2008-07-28_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act 2008.
