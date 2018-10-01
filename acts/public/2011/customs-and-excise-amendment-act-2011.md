@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2011
-_Consolidation as at 2012-02-13_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act 2011.
