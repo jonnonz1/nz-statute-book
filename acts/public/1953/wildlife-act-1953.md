@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -836,8 +836,8 @@ No member of the Board shall be personally liable for any default made by the Bo
   (b) in respect of an offence committed in relation to partially protected wildlife, is liable on conviction to the penalty set out in section 67C(1):
   (c) in any other case, is liable on conviction to the penalty set out in section 67F(3).
 
-### 56A Application of Customs and Excise Act 1996
-Sections 149A, 149B, 149C(1) to (3), 160, and 161 of the Customs and Excise Act 1996 apply in relation to the exportation of any absolutely protected or partially protected wildlife or any item of absolutely protected or partially protected wildlife as if that wildlife or item of wildlife were a prohibited export within the meaning of that Act.
+### 56A Application of Customs and Excise Act 2018
+Sections 210, 211, 214, 251, and 252 of the Customs and Excise Act 2018 apply in relation to the exportation of any absolutely protected or partially protected wildlife or any item of absolutely protected or partially protected wildlife as if that wildlife or item of wildlife were a prohibited export within the meaning of that Act.
 
 ### 57 Ownership of animals
 (1)
