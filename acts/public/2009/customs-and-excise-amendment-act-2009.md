@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2009
-_Consolidation as at 2009-12-07_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act 2009.
@@ -36,14 +36,14 @@ This Act amends the Customs and Excise Act 1996.
 (1) Section 49(1) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) before the prescribed deadline (if any) or any later deadline the chief executive may allow.
 (2) The Customs and Excise Regulations 1996 are consequentially amended by revoking regulation 28 and substituting the following regulation:Deadline prescribed for entry of goods for export
-  The deadline before which an entry of goods to which section 49(1) of the Act applies must be made (unless the chief executive under section 49(1)(b) of the Act allows the entry to be made before a later deadline) is 48 hours before the goods are shipped for export.
+  The deadline before which an entry of goods to which section 49(1) of the Act applies must be made (unless the chief executive under section 49(1)﻿(b) of the Act allows the entry to be made before a later deadline) is 48 hours before the goods are shipped for export.
 (3) Section 49 is amended by adding the following subsection:
   (6) Despite an entry being passed in accordance with subsection (5), the chief executive may revoke the goods' permission to export if the chief executive has reasonable cause to suspect the goods endanger, or threaten to endanger,—
     (a) border security; or
     (b) New Zealand's trade interests or international obligations; or
     (c) the life, health, or safety of a person or group of persons; or
     (d) the safety of the craft that will carry the goods, or of other goods to be carried on that craft.
-(4) Section 210(1)(a) is amended by omitting subsection (1) or subsection (5) and substituting subsection (1), (5), or (6).
+(4) Section 210(1)﻿(a) is amended by omitting subsection (1) or subsection (5) and substituting subsection (1), (5), or (6).
 
 **Exemption for alcohol manufactured for personal use**
 
@@ -51,7 +51,7 @@ This Act amends the Customs and Excise Act 1996.
 (1) The following section is inserted after section 68A:Exemption for alcohol manufactured for personal use
   Section 68 does not apply to the manufacture of beer, wine, or spirits in an individual's private house or dwelling place, but only if and as long as the beer, wine, or spirits are manufactured exclusively for the individual's personal use and not for sale or other disposition to any other person.
 (2) Section 10 is consequentially amended by omitting sections 12(4) and 68A and substituting sections 12(4), 68A, and 68B.
-(3) Section 74(2)(c) is consequentially amended by adding or 68B.
+(3) Section 74(2)﻿(c) is consequentially amended by adding or 68B.
 (4) The Customs and Excise Regulations 1996 are consequentially amended by revoking regulation 7.
 
 **Excise duty on certain goods manufactured outside manufacturing area**
@@ -97,7 +97,7 @@ The following sections are inserted after section 76B:Access to Excise and Excis
     (a) the Excise and Excise-equivalent Duties Table as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
     (b) the 2010 Excise and Excise-equivalent Duties Document; and
     (c) Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, or 79A on or after 1 January 2010.
-  (3) Every version of the Excise and Excise-equivalent Duties Table referred to in subsection (2)(a) and published or made available under subsection (1) must—
+  (3) Every version of the Excise and Excise-equivalent Duties Table referred to in subsection (2)﻿(a) and published or made available under subsection (1) must—
     (a) indicate that it is that Table as in force at the beginning of a stated date; and
     (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of that Table.
   (4) Nothing in section 76B or this section prevents the chief executive from ensuring that other information is published or made available with the Excise and Excise-equivalent Duties Table, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, that table.
@@ -233,7 +233,7 @@ Section 221 is repealed and the following section substituted:Laying of informat
     (a) the chief executive; or
     (b) any Customs officer nominated by the chief executive; or
     (c) any person who is not a Customs officer but is an agent or employee of the Customs nominated by the chief executive.
-  (2) Any Customs officer or agent or employee of the Customs purporting to act pursuant to a nomination of the chief executive under subsection (1)(b) or (c) is, in the absence of proof to the contrary, presumed to have been so nominated.
+  (2) Any Customs officer or agent or employee of the Customs purporting to act pursuant to a nomination of the chief executive under subsection (1)﻿(b) or (c) is, in the absence of proof to the contrary, presumed to have been so nominated.
   (3) An information under the Summary Proceedings Act 1957 for an offence against section 216 of this Act must be laid by the Registrar of a Customs Appeal Authority.
   (4) Any information for an offence against this Act may, despite anything to the contrary in the Summary Proceedings Act 1957, be laid at any time within 5 years after the date of the offence.
 
@@ -245,7 +245,7 @@ The following sections are inserted before section 275:Use of automated electron
     (a) make a decision; or
     (b) exercise a power, or comply with an obligation; or
     (c) do anything else related to making a decision, exercising a power, or complying with an obligation.
-  (2) An arrangement under subsection (1)(a) may (without limitation) involve use of an automated electronic system to make a decision by analysing the information (if any) about a person that is held by the chief executive, or to which the chief executive has access, using criteria predetermined by the chief executive.
+  (2) An arrangement under subsection (1)﻿(a) may (without limitation) involve use of an automated electronic system to make a decision by analysing the information (if any) about a person that is held by the chief executive, or to which the chief executive has access, using criteria predetermined by the chief executive.
   (3) The chief executive must not under subsection (1) arrange for use of an automated electronic system in relation to a decision, power, obligation, or related action unless satisfied that—
     (a) the system has the capacity with reasonable reliability to make the decision, exercise the power, comply with the obligation, or take the related action; and
     (b) there are also available for the person affected 1 or more alternative ways of making the decision, exercising the power, complying with the obligation, or taking the related action, and each of those alternative ways involves a person.
@@ -258,7 +258,7 @@ The following sections are inserted before section 275:Use of automated electron
     (a) Part 3 (arrival and departure of goods, persons, and craft):
     (b) Part 12 (powers of Customs officers):
     (c) Parts 13 to 15 and 17 (offences, forfeiture and seizure, evidence, and miscellaneous provisions):
-    (d) any other provisions of this Act (other than Part 3A) that are declared by regulations under section 286(1)(ii) to be for those purposes part of the designated border processing law.
+    (d) any other provisions of this Act (other than Part 3A) that are declared by regulations under section 286(1)﻿(ii) to be for those purposes part of the designated border processing law.
   (1) The chief executive must ensure that details of arrangements under section 274A(1), and variations, revocations, or revocations and replacements of details of that kind, are published promptly—
     (a) in the Gazette; and
     (b) (so far as practicable) on an Internet site that is maintained by, or on behalf of, the chief executive, and that is publicly available free of charge.
@@ -321,7 +321,7 @@ The principal Act is amended in the manner specified in Part 4 of Schedule 1.
   (a) revoking, inserting, or amending any heading, heading number, subheading, item, or item number or the title of any Part, section, chapter, or subchapter of the Tariff referred to in the Excise and Excise-equivalent Duties Table in any manner necessary to ensure that that Table conforms to the Tariff; or
   (b) revoking, suspending, or amending a provision of the notes forming part of the Excise and Excise-equivalent Duties Table, or by inserting a new provision in the notes, for the purpose of ensuring the proper operation of the Excise and Excise-equivalent Duties Table; or
   (c) revoking, suspending, inserting, or amending a statistical unit in the Excise and Excise-equivalent Duties Table.
-(2) Despite subsection (1)(c), the chief executive may, by notice in the Gazette, revoke, suspend, insert, or amend a statistical unit in the Excise and Excise-equivalent Duties Table.
+(2) Despite subsection (1)﻿(c), the chief executive may, by notice in the Gazette, revoke, suspend, insert, or amend a statistical unit in the Excise and Excise-equivalent Duties Table.
 (3) No amendment made pursuant to this section may alter the duties or exemptions from duty under this Act applicable to goods classified under an item or heading so amended.
 
 ## Schedule 2 — Consequential amendments to other enactments relating to Excise and Excise-equivalent Duties Table replacing Schedule 3 of Customs and Excise Act 1996
