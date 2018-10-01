@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -13,15 +13,15 @@ _Consolidation as at 2017-03-01_
   - **AANZFTA** means the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009
   - **ASEAN** means the Association of South East Asian Nations
   - **chief executive** , in any provision, means the chief executive of the department responsible for the administration of that provision
-  - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
-  - **Customs value** or , in relation to any goods, means the Customs value of those goods, determined in accordance with the provisions set out in Schedule 2 of the Customs and Excise Act 1996
+  - **Customs** or has the meaning given to Customs by section 5(1) of the Customs and Excise Act 2018
+  - **Customs value** or has the meaning given to Customs value by section 5(1) of the Customs and Excise Act 2018
   - **duty** means any duty imposed on goods under any of the provisions of this Act
   - **goods** means all kinds of movable personal property, including animals
-  - **imported** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **imported** has the meaning given to it by section 5(1) of the Customs and Excise Act 2018
   - **importer** means any person by or for whom any goods are imported; and includes the consignee of any goods and any person who is or becomes the owner of or entitled to the possession of or beneficially interested in any goods on or at any time after their importation and before they have ceased to be subject to the control of the Customs
   - **least developed country** means any country for the time being declared by Order in Council, under section 7A(1)﻿(c), to be a least developed country for the purposes of this Act
   - **less developed country** means any country for the time being declared by an Order in Council, under section 7A(1)﻿(d), to be a less developed country for the purposes of this Act
-  - **manufacturing area** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **manufacturing area** has the meaning given to it by section 5(1) of the Customs and Excise Act 2018
   - **Minister** , in any provision, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
   - **Normal Tariff** means the rates of duty and the exemptions from duty specified in the column headed Normal Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **preferential abbreviation** has the meaning given to it by section 7(3)
@@ -65,7 +65,7 @@ This Act binds the Crown.
 
 ### 4 Enforcement of Tariff
 (1) The enforcement and collection of duties payable under this Act shall be a function of Customs.
-(2) Part 2, Part 3, Part 4, Part 6, Part 8, Part 9, Part 10, Part 11, Part 12 (except section 142), Part 13, Part 14, Part 15, Part 16, and Part 17 of the Customs and Excise Act 1996 shall apply to the administration of the Tariff and the enforcement, collection, and payment of duties payable under this Act.
+(2)
 
 ### 5 Value of goods for the purpose of applying Tariff
 Except as otherwise expressly provided in this Act, the value of any imported goods for the purposes of applying the Tariff shall be the Customs value of the goods.
@@ -184,7 +184,7 @@ An amendment to, or replacement of, provisions incorporated under section 7C has
 (3) Every version of the Tariff referred to in subsection (2)﻿(a) and published or made available under subsection (1) must—
   (a) indicate that it is the Tariff as in force at the beginning of a stated date; and
   (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of the Tariff.
-(4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 1996):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
+(4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 2018):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
 
 ### 9C Application of Legislation Act 2012
 Orders in Council amending or modifying the Tariff made under section 9 or 10 on or after the date on which section 77(3) of the Legislation Act 2012 comes into force are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
@@ -367,8 +367,8 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 16B Regulations relating to goods temporarily imported and drawbacks of duty
 The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 116 of the Customs and Excise Act 1996 shall not be applied:
-  (b) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 117 of the Customs and Excise Act 1996 shall not be applied.
+  (a) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 136 of the Customs and Excise Act 2018 shall not be applied:
+  (b) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 147 of the Customs and Excise Act 2018 shall not be applied.
 
 ### 17 Transitional provisions
 (1) At any time after the date on which this Act receives the Governor-General's assent, the Governor-General may, by Order in Council, exercise in respect of the Tariff, with effect from the commencement of this Act, any of the powers to alter or modify the Tariff, and create exemptions in respect of any goods, conferred on the Governor-General by any provision of this Act for the purpose of giving effect to that provision, and for the purpose of bringing the Tariff into effective operation at the commencement of this Act.
