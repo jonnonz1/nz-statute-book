@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-10-01_
 
 > Title
 
@@ -51,6 +51,7 @@ _Consolidation as at 2018-07-01_
     (g) section 139 of the Land Transport Act 1998; or
     (h) section 260A of the Fisheries Act 1996; or
     (ha) section 105C of the Credit Contracts and Consumer Finance Act 2003; or
+    (hb) section 400 of the Customs and Excise Act 2018; or
     (i) section 162 of the Animal Welfare Act 1999; or
     (j) section 357 of the Gambling Act 2003; or
     (jaa) section 235A of the Employment Relations Act 2000; or
