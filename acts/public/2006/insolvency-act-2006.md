@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2018-09-30_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1937,12 +1937,12 @@ A person who obtained an order for costs against the bankrupt before adjudicatio
   (a) paid by the buyer to a seller on account of the purchase price of goods; or
   (b) to which the buyer is or becomes entitled to receive from a seller under section 36H of the Fair Trading Act 1986.
 (4) After paying the claims referred to in subsection (3), the Assignee must next pay the amount of any costs referred to in section 333(4)﻿(c).
-(5) After paying the claims referred to in subsection (4), the Assignee must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Collector of Customs, as the case may require, the amount of—
+(5) After paying the claims referred to in subsection (4), the Assignee must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Comptroller of Customs, as the case may require, the amount of—
   (a) tax payable by the bankrupt in the manner required by Part 3 of the Goods and Services Tax Act 1985; and
   (b) tax deductions made by the bankrupt under the PAYE rules of the Income Tax Act 2007; and
   (c) non-resident withholding tax deducted by the bankrupt under the NRWT rules of the Income Tax Act 2007; and
   (d) resident withholding tax deducted by the bankrupt under the RWT rules of the Income Tax Act 2007; and
-  (e) duty payable within the meaning of section 2(1) of the Customs and Excise Act 1996.
+  (e) duty payable within the meaning of section 5(1) of the Customs and Excise Act 2018.
 
 ### 275 Conditions to priority of payments to preferential creditors
 (1) The claims listed in each of subsections (2), (3), (4), and (5) of section 274—
