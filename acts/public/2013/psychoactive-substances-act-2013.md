@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -78,13 +78,13 @@ In this Act, unless the context otherwise requires,—
   - **Authority** means the Psychoactive Substances Regulatory Authority established by section 10
   - **code of manufacturing practice** or means a code of practice, relating to the manufacture of psychoactive substances, issued under section 29
   - **constable** has the same meaning as in section 4 of the Policing Act 2008
-  - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **district** , in relation to a territorial authority, has the same meaning as in section 5(1) of the Local Government Act 2002
   - **enforcement officer** means a person appointed by the Authority under section 76
   - **evidential material** has the same meaning as in section 3(1) of the Search and Surveillance Act 2012
   - **export certificate** means a certificate issued by the Authority under section 89
   - **hazardous substance** has the same meaning as in section 2(1) of the Hazardous Substances and New Organisms Act 1996
-  - **importation** and have the same meanings as in section 2(1) of the Customs and Excise Act 1996
+  - **importation** and have the same meanings as in section 5(1) of the Customs and Excise Act 2018
   - **individual** means a natural person, other than a deceased natural person
   - **Internet sale** , in relation to an approved product, means a sale (whether by retail or by wholesale) of the approved product pursuant to a contract that—
     (a) has been entered into using the Internet and is between—
@@ -1156,8 +1156,8 @@ The Governor-General may, by Order in Council, make regulations for 1 or more of
   (a) between the provisions of this Act and the provisions of the HSNO Act, the provisions of this Act prevail:
   (b) between the provisions of regulations made under this Act and the provisions of regulations made or EPA notices issued under the HSNO Act, the provisions of regulations made under this Act prevail.
 
-### 105 Application of Customs and Excise Act 1996
-The provisions of the Customs and Excise Act 1996, except section 209 of that Act, apply to a psychoactive substance that is not an approved product (or part of an approved product) as if it were prohibited goods under that Act, unless the person importing the psychoactive substance—
+### 105 Application of Customs and Excise Act 2018
+The provisions of the Customs and Excise Act 2018, except sections 388 and 389 of that Act, apply to a psychoactive substance that is not an approved product (or part of an approved product) as if it were prohibited goods under that Act, unless the person importing the psychoactive substance—
   (a) holds a licence to import psychoactive substances; and
   (b) has notified the Authority of the importation in accordance with section 17(1).
 
