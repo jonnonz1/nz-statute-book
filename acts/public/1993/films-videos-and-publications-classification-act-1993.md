@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1133,14 +1133,14 @@ An application under section 109 or section 109A or section 109B may be made by 
 ### 118 Disposal of things seized
 [Repealed]
 
-### 118A Application of Customs and Excise Act 1996
-(1) Sections 137, 139, 140, 143, 144, 148, 149B, 152, and 165 to 167 of the Customs and Excise Act 1996 apply to offences against this Act concerning the importation or exportation of objectionable publications to the same extent as those sections apply to offences against section 209 of the Customs and Excise Act 1996 concerning the importation or exportation of objectionable publications.
-(2) Section 161 of the Customs and Excise Act 1996 applies to an investigation of an offence against this Act concerning the importation or exportation of objectionable publications to the same extent as that section applies to an investigation of an offence against that Act; and section 162 of that Act applies accordingly.
-(3) A Customs officer may arrest a person without warrant in accordance with section 174(1) of the Customs and Excise Act 1996, as if the person were suspected of an offence against section 209 of that Act, if the Customs officer has reasonable cause to suspect that the person has committed an offence against section 124(1) involving—
+### 118A Application of Customs and Excise Act 2018
+(1) Sections 191, 199, 206, 210, 211, 224, 225, 231, 237, 244, 245, 247, 248, 249, 257, and 258 of the Customs and Excise Act 2018 apply to offences against this Act concerning the importation or exportation of objectionable publications to the same extent as those sections apply to offences against section 390 of the Customs and Excise Act 2018 concerning the importation or exportation of objectionable publications.
+(2) Section 252 of the Customs and Excise Act 2018 applies to an investigation of an offence against this Act concerning the importation or exportation of objectionable publications to the same extent as that section applies to an investigation of an offence against that Act; and section 254 of that Act applies accordingly.
+(3) A Customs officer may arrest a person without warrant in accordance with section 263(1) of the Customs and Excise Act 2018, as if the person were suspected of an offence against section 390 of that Act, if the Customs officer has reasonable cause to suspect that the person has committed an offence against section 124(1) involving—
   (a) the importation into New Zealand of an objectionable publication for the purposes of supply or distribution; or
   (b) the supply or distribution, by way of exportation from New Zealand, of an objectionable publication.
-(4) Section 174(3) and (4) of the Customs and Excise Act 1996 applies to an arrest by a Customs officer under subsection (3).
-(5) Nothing in this section limits the application of any provisions of the Customs and Excise Act 1996 that confer powers (for example, powers relating to prohibited goods).
+(4) Section 263(2) and (3) of the Customs and Excise Act 2018 applies to an arrest by a Customs officer under subsection (3).
+(5) Nothing in this section limits the application of any provisions of the Customs and Excise Act 2018 that confer powers (for example, powers relating to prohibited goods).
 
 ### 119 No action to lie
 No action shall lie against any person for any act done in good faith in pursuance or intended pursuance of any provision of this Part or of any warrant or order issued or made in pursuance or intended pursuance of any such provision.
@@ -1340,7 +1340,7 @@ A person may be convicted of exhibiting an objectionable publication if what is 
   (b) section 127(4); or
   (c) section 129(3); or
   (d) section 131A(1); or
-  (e) section 209(1A) of the Customs and Excise Act 1996.
+  (e) section 390 of the Customs and Excise Act 2018.
 (2) In sentencing or otherwise dealing with an offender for the offence, the court must take into account as an aggravating factor the extent to which any publication that was the subject of the offence is objectionable because it does any or all of the following:
   (a) promotes or supports, or tends to promote or support, the exploitation of children, or young persons, or both, for sexual purposes:
   (b) describes, depicts, or otherwise deals with sexual conduct with or by children, or young persons, or both:
@@ -1454,7 +1454,7 @@ No private prosecution (as defined in section 5 of the Criminal Procedure Act 20
     (b) section 127(4); or
     (c) section 129(3); or
     (d) section 131A(1); or
-    (e) section 209(1A) of the Customs and Excise Act 1996.
+    (e) section 390 of the Customs and Excise Act 2018.
 (2) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for a relevant offence that involves child pornography if the person to be charged—
   (a) has been found in New Zealand; and
   (b) has not been extradited on the grounds that he or she is a New Zealand citizen.
