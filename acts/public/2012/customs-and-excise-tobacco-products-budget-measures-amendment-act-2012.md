@@ -1,5 +1,5 @@
 # Customs and Excise (Tobacco Products—Budget Measures) Amendment Act 2012
-_Consolidation as at 2012-10-23_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise (Tobacco Products—Budget Measures) Amendment Act 2012.
