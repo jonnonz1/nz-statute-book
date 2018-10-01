@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2014-04-01_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -35,8 +35,8 @@ The purpose of this Act is—
     (a) means Meat and Wool New Zealand Limited; and
     (b) includes any organisation certified by the Minister under subsection (3) as a successor organisation to that company
   - **industry-selected director** means a director—
-    (a) nominated by the industry-good organisation under section 13(2)(a), (b), or (c); or
-    (b) nominated by the industry-good organisation under clause 2(4)(a) of Schedule 2; or
+    (a) nominated by the industry-good organisation under section 13(2)﻿(a), (b), or (c); or
+    (b) nominated by the industry-good organisation under clause 2(4)﻿(a) of Schedule 2; or
     (c) elected by livestock farmers or meat processors or exporters under regulations made under this Act; or
     (d) nominated or appointed under regulations made under this Act by a person other than the Minister
   - **kind** includes description
@@ -150,7 +150,7 @@ The Board may distribute any of its assets to livestock farmers (whether directl
   (d) comply with its reserves policy.
 (3) The Board may not allocate funds from its reserves to the industry-good organisation or any other person to undertake specific industry-good projects unless it has first consulted livestock farmers.
 (4) Subsection (3) does not prevent the Board from allocating, without prior consultation, funds from its reserves for the purpose of assisting the meat industry in responding to any major industry crisis.
-(5) Subsection (2)(b) does not require the Board to consult livestock farmers on its reserves policy at any time before the first annual general meeting of the Board following the commencement of this Act, but it must consult them on that policy at that meeting.
+(5) Subsection (2)﻿(b) does not require the Board to consult livestock farmers on its reserves policy at any time before the first annual general meeting of the Board following the commencement of this Act, but it must consult them on that policy at that meeting.
 
 ### 13 Governance of Board
 (1) The affairs of the Board are to be governed by, or under the supervision or direction of, the board of directors.
@@ -161,13 +161,13 @@ The Board may distribute any of its assets to livestock farmers (whether directl
     (ii) became directors of the organisation on the recommendation of another entity that represents meat processors and exporters; and
   (c) at the option of the industry-good organisation, 1 other director of the organisation nominated by the organisation; and
   (d) 2 directors appointed by the Minister, after consultation with the Board (or the former Board, in the case of the first appointments after the commencement of this Act) and taking into account the need for the Board to have expertise in relation to the international meat trade, quota management, and international trade relations.
-(3) The industry-good organisation must notify the Minister in writing of its nomination of directors under subsection (2)(a) to (c), and those directors are deemed to have been appointed as directors on the date of the notification.
+(3) The industry-good organisation must notify the Minister in writing of its nomination of directors under subsection (2)﻿(a) to (c), and those directors are deemed to have been appointed as directors on the date of the notification.
 (4) If the industry-good organisation ceases to exist, or if the Minister is satisfied, and certifies accordingly, that—then new directors of the Board must be appointed or elected in accordance with regulations made under this Act.
   (a) the organisation is no longer owned by a trust the beneficiaries of which consist of all livestock farmers (except any reasonably excluded for reasons of administrative cost); or
   (b) the majority of the organisation's directors are no longer elected by livestock farmers broadly in proportion to their share of the livestock farming industry; or
   (c) the industry-good organisation has been unable to collect levies, neither in relation to sheepmeat nor to beef, under the Commodity Levies Act 1990 for the entire immediately preceding year,—
 (5) The regulations must provide for a majority of the directors of the Board to be elected by livestock farmers. They may also specify—
-  (a) the procedures the Minister must follow before and consequent upon being satisfied of the matters specified in subsection (4)(a), (b), or (c):
+  (a) the procedures the Minister must follow before and consequent upon being satisfied of the matters specified in subsection (4)﻿(a), (b), or (c):
   (b) the number and type of directors to be elected or appointed to the Board:
   (c) the method of their election or appointment:
   (d) the term for which they hold office:
@@ -180,7 +180,7 @@ The Board may distribute any of its assets to livestock farmers (whether directl
     (i) the new directors appointed or elected in accordance with regulations made for the purposes of this section; or
     (ii) interim directors appointed by the Minister under paragraph (c); and
   (c) the Minister may if he or she thinks fit, after consultation with such organisations representing livestock farmers and organisations representing meat processors and exporters as the Minister considers appropriate, appoint interim directors to replace the existing directors nominated by the industry-good organisation, such directors to hold office until replaced by new directors appointed or elected in accordance with regulations made for the purposes of this section; and
-  (d) the existing directors appointed by the Minister under subsection (2)(d) continue in office until the new directors are appointed or elected.
+  (d) the existing directors appointed by the Minister under subsection (2)﻿(d) continue in office until the new directors are appointed or elected.
 
 ### 14 Application of Part 2 of Commerce Act 1986
 (1) Nothing in Part 2 of the Commerce Act 1986 applies in respect of any act, matter, or thing done—
@@ -311,7 +311,7 @@ Where the Board has an allocation mechanism in operation in relation to a quota 
   (a) does not limit or affect—
     (i) the ability of the Board to put into effect any element of it providing for the adjustment of amounts of access already allocated or set aside under it; or
     (ii) the ability of the Board to take action under section 34 in respect of it; and
-  (b) subject to paragraph (a)(i), does not revoke or otherwise affect any allocation already made or set aside under it; and
+  (b) subject to paragraph (a)﻿(i), does not revoke or otherwise affect any allocation already made or set aside under it; and
   (c) does not affect the enforcement of any breach of the allocation mechanism occurring before its revocation.
 
 ### 31 Notifications
@@ -372,11 +372,11 @@ Where the Board has an allocation mechanism in operation in relation to a quota 
     (i) being satisfied that the person has taken or is intending to take, an action of a kind specified in subsection (1); and
     (ii) intending to act; or
   (b) it is satisfied that there are good reasons for acting without consultation.
-(4) If the Board has taken action under subsection (2) without first consulting the person concerned and telling the person the reasons referred to in subsection (3)(a), it must, as soon as it practicably can after acting, give the person written notice of—
+(4) If the Board has taken action under subsection (2) without first consulting the person concerned and telling the person the reasons referred to in subsection (3)﻿(a), it must, as soon as it practicably can after acting, give the person written notice of—
   (a) those reasons; and
   (b) its reasons for acting without consultation; and
   (c) in the case only of the cancellation of quota certificates, the certificates cancelled.
-(5) In a case where subsection (1)(c) applies, any action taken by the Board under subsection (2) must be limited to such actions as are reasonably practicable to prevent the actions that the Board believes the person in question is intending to take.
+(5) In a case where subsection (1)﻿(c) applies, any action taken by the Board under subsection (2) must be limited to such actions as are reasonably practicable to prevent the actions that the Board believes the person in question is intending to take.
 (6) Nothing in section 25 limits or affects this section.
 
 ### 35 No liability for changes in access arrangements
@@ -454,7 +454,7 @@ Unless it is sooner revoked, a mechanism that immediately before the commencemen
   (d) examine, inquire about, and copy any documents or other records (including records held in electronic or other form), whether held by the Board or by or on behalf of any meat processor or exporter, relating to obligations and duties under this Act, and for this purpose may—
     (i) remove documents or records to another place for the purpose of copying them, for so long as is reasonably necessary to allow for their copying; and
     (ii) require a person who has control of or knowledge of the documents or records to reproduce or assist in reproducing in usable form information recorded or stored in a computer or other device or system.
-(3) Subsection (2)(d)(ii) does not override the privilege against self-incrimination.
+(3) Subsection (2)﻿(d)﻿(ii) does not override the privilege against self-incrimination.
 (4) An auditor must not under subsection (2) enter any place that is not a place of business without a warrant issued under subsection (5).
 (4A) The provisions of Part 4 of the Search and Surveillance Act 2012 (except subparts 2 and 3, sections 118 and 119, and subpart 8) apply to entry and inspection under subsection (2).
 (5) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on an application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of that Act, is satisfied that, as a consequence of the inspection under subsection (2) of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue a warrant authorising the person named in the warrant to enter and inspect the other place.
@@ -490,7 +490,7 @@ The quota compliance audit must be conducted in accordance with the terms of ref
   (a) remove any 1 or more directors from the Board; and
   (b) by written notice to the Board, remove or suspend the authority of the Board to issue quota certificates in relation to 1 or more quota markets.
 (4) A director removed from the Board under subsection (3) must be replaced in accordance with clause 2(3) or (4) (whichever is appropriate) of Schedule 2.
-(5) The Crown is not liable for any loss resulting from a removal or suspension under subsection (3)(b) of the Board's authority to issue quota certificates.
+(5) The Crown is not liable for any loss resulting from a removal or suspension under subsection (3)﻿(b) of the Board's authority to issue quota certificates.
 
 ### 47 Board to pay for quota compliance audits
 The Board must pay the person who conducts a quota compliance audit—
@@ -583,7 +583,7 @@ Subject to section 54, any person who, immediately before the commencement of th
 
 ### 61 Powers of inspection
 (1) An authorised person may exercise all or any of the powers specified in subsection (2) at any reasonable time (within or outside business hours) for the purpose of—
-  (a) ascertaining whether a person has taken or is intending to take an action of a kind described in section 34(1)(a) or (b); or
+  (a) ascertaining whether a person has taken or is intending to take an action of a kind described in section 34(1)﻿(a) or (b); or
   (b) obtaining evidence that a person has taken or is intending to take such an action.
 (2) The powers referred to in subsection (1) are the power to—
   (a) enter any place where—
@@ -593,14 +593,14 @@ Subject to section 54, any person who, immediately before the commencement of th
   (c) inspect any document there relating to any meat product:
   (d) take or make copies of, or extracts from, any document inspected under this subsection.
 (3) An authorised person must not under subsection (2) enter any place that is not a place of business without a warrant obtained under section 62.
-(4) For the purpose of the power conferred by subsection (2)(d), the person exercising the power may—
+(4) For the purpose of the power conferred by subsection (2)﻿(d), the person exercising the power may—
   (a) take possession of and remove any document from the place where it is held, for so long as is reasonably necessary to allow for it to be copied:
   (b) require any person to reproduce in usable form, or help reproduce in usable form, any information recorded or stored on a document electronically or by any other means.
-(5) Subsection (4)(b) does not override the privilege against self-incrimination.
+(5) Subsection (4)﻿(b) does not override the privilege against self-incrimination.
 
 ### 62 Warrant to inspect place other than place of business
 (1) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that there are reasonable grounds to believe that—may issue a warrant authorising the person named in the warrant to enter and inspect the place.
-  (a) a person has taken or is intending to take an action of a kind described in section 34(1)(a) or (b); and
+  (a) a person has taken or is intending to take an action of a kind described in section 34(1)﻿(a) or (b); and
   (b) there is or is likely to be in some place that is not a place of business any meat product, or any document relating to any meat product,—
 (2) An issuing officer (within the meaning of section 3 of the Search and Surveillance Act 2012) who, on application made in the manner provided for an application for a search warrant in subpart 3 of Part 4 of the Search and Surveillance Act 2012, is satisfied that, as a consequence of the inspection under section 61 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business any meat product, or any document relating to any meat product, may issue a warrant authorising the person named in the warrant to enter and inspect the other place.
 (3) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
@@ -625,8 +625,8 @@ Subject to section 54, any person who, immediately before the commencement of th
 (4) A notice may request information—
   (a) in relation to meat products generally; or
   (b) in relation to livestock or meat products of kinds specified in the request.
-(5) Instead of requesting any information under subsection (1), the Board may request it from the person holding office under the State Sector Act 1988 as the chief executive of the department of State referred to in section 5 of the Customs and Excise Act 1996; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
-(6) The Board may require information under this section, and use the information obtained, only for the purpose of carrying out its function described in section 8(1)(a).
+(5) Instead of requesting any information under subsection (1), the Board may request it from the person holding office under the State Sector Act 1988 as the chief executive of the department of State referred to in section 268 of the Customs and Excise Act 2018; and in that case (notwithstanding any enactment to the contrary) the chief executive may cause to be supplied to the Board such of that information as is available to the chief executive.
+(6) The Board may require information under this section, and use the information obtained, only for the purpose of carrying out its function described in section 8(1)﻿(a).
 (7) The Board—
   (a) must not publish or disclose to any person any information obtained under this section that enables the identity of the person to whom it relates to be identified, except—
     (i) for the purposes of the performance or exercise of any of the Board's functions, powers, or duties under this Act; or
@@ -650,7 +650,7 @@ No authorised person or person carrying out a quota compliance audit who does an
 ### 67 Export-related offences
 (1) Every person commits an offence, and is liable on conviction to a fine not exceeding $200,000, who—
   (a) exports any meat product contrary to section 28; or
-  (b) while the person's ability to export meat products of any kind to a market is suspended under section 34(2)(a), exports or attempts to export meat products of that kind to that market.
+  (b) while the person's ability to export meat products of any kind to a market is suspended under section 34(2)﻿(a), exports or attempts to export meat products of that kind to that market.
 (2) Every person commits an offence, and is liable on conviction to a fine not exceeding $15,000, who, without reasonable excuse exports any meat product at any time when the person is not registered as an exporter under this Act.
 
 ### 68 Information-related offences
@@ -676,9 +676,9 @@ No authorised person or person carrying out a quota compliance audit who does an
   (a) a fine not exceeding $20,000; and
   (b) a further fine not exceeding $1,000 for each day during which the offence continues.
 
-### 70 Customs and Excise Act 1996 to apply to prohibited exports
-(1) All the provisions of the Customs and Excise Act 1996, and any regulations made under that Act, that apply to prohibited exports apply to the export of any meat product in contravention of this Act in all respects as if the export of such meat products were prohibited under Part 5 of the Customs and Excise Act 1996.
-(2) The penalty for an offence against section 209(1)(b) of the Customs and Excise Act 1996 in respect of the export of any meat product in contravention of section 67(1) of this Act is—
+### 70 Customs and Excise Act 2018 to apply to prohibited exports
+(1) All the provisions of the Customs and Excise Act 2018, and any regulations made under that Act, that apply to prohibited exports apply to the export of any meat products in contravention of this Act as if the export of the meat products were prohibited under subpart 4 of Part 3 of the Customs and Excise Act 2018.
+(2) The penalty for an offence against section 388(1)﻿(b) of the Customs and Excise Act 2018 in respect of the export of any meat product in contravention of section 67(1) of this Act is—
   (a) in the case of an individual, a fine not exceeding $200,000:
   (b) in the case of a body corporate, the greater of—
     (i) a fine not exceeding $200,000; or
@@ -688,13 +688,13 @@ No authorised person or person carrying out a quota compliance audit who does an
 
 ### 71 Strict liability
 (1) In any proceedings for an offence under section 67(1), it is not necessary for the prosecution to prove that the defendant intended to commit the offence.
-(2) This section does not limit section 239(4) of the Customs and Excise Act 1996 if proceedings are taken for an offence under that Act.
+(2) This section does not limit section 429(4) of the Customs and Excise Act 2018 if proceedings are taken for an offence under that Act.
 
 ### 72 Defence available
 (1) It is a defence in any proceedings for an offence under section 67(1) if the defendant proves that—
   (a) the contravention was due to an event or cause beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage; and
   (b) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
+(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)﻿(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the prosecutor a notice in writing identifying the event or cause relied on by the defendant.
 
 ### 73 Liability of companies and persons for actions of agents or employees
 (1) Any act or omission on behalf of a person other than a body corporate by—is treated, for the purpose of proceedings for an offence against this Act, also as the act or omission of the first-mentioned person.
@@ -735,7 +735,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (2) Subsection (1) applies only to information that is in the Board’s possession or that the Board can obtain without unreasonable difficulty or expense.
 
 ### 78 Disclosure of information
-(1) The chief executive of the Ministry (or any officer of the Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Customs and Excise Act 1996, disclose to each other, on request, information on exporters of meat products exported or proposed to be exported.
+(1) The chief executive of the Ministry (or any officer of the Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Customs and Excise Act 2018, disclose to each other, on request, information on exporters of meat products exported or proposed to be exported.
 (2) Information obtained under subsection (1) must not be disclosed except—
   (a) to the persons authorised under that subsection; or
   (b) for the purpose of any proceedings that have been commenced or that are reasonably in contemplation and that are connected with a matter in relation to which those persons perform their duties.
@@ -748,11 +748,11 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (c) information of a statistical kind that relates directly to the production and consumption of meat in New Zealand and the export of meat from New Zealand:
   (d) information on the agricultural, trade, or economic policies, agricultural productions, consumption, and imports or exports of any country other than New Zealand.
 (2) Subsection (1) applies only to information that is in the Board’s possession.
-(3) Information of the kind referred to in subsection (1)(a) may be used only for the purpose of monitoring or auditing the industry-good organisation’s levy returns or receipts, and for no other purpose.
-(4) Information of the kinds referred to in subsection (1)(b) and (c) that is acquired by the Board after the commencement of this Act may be supplied to the industry-good organisation only if—except to the extent that the company or entity or group of companies or entities concerned has given its or their prior approval in writing to the supply of the information.
+(3) Information of the kind referred to in subsection (1)﻿(a) may be used only for the purpose of monitoring or auditing the industry-good organisation’s levy returns or receipts, and for no other purpose.
+(4) Information of the kinds referred to in subsection (1)﻿(b) and (c) that is acquired by the Board after the commencement of this Act may be supplied to the industry-good organisation only if—except to the extent that the company or entity or group of companies or entities concerned has given its or their prior approval in writing to the supply of the information.
   (a) the information would not allow the organisation to separately identify or deduce data specific to a particular company or other trading entity, or a particular group of associated companies or entities; or
   (b) information specific to a particular company or other trading entity, or a particular group of companies or entities, cannot be separately identified or deduced from the information requested;—
-(5) Information of the kinds referred to in subsection (1)(b) and (c) that was held by the Board at the commencement of this Act and that the Board has supplied to the industry-good organisation may be supplied by the industry-good organisation to any other person only in the manner and circumstances described in subsection (4)(a) and (b), except to the extent that the company or entity or group of companies or entities concerned has given its or their prior approval in writing to the supply of the information.
+(5) Information of the kinds referred to in subsection (1)﻿(b) and (c) that was held by the Board at the commencement of this Act and that the Board has supplied to the industry-good organisation may be supplied by the industry-good organisation to any other person only in the manner and circumstances described in subsection (4)﻿(a) and (b), except to the extent that the company or entity or group of companies or entities concerned has given its or their prior approval in writing to the supply of the information.
 (6) The information referred to in subsection (1) includes information of the relevant kind that is—
   (a) held by the Board at the commencement of this Act; or
   (b) subsequently acquired by the Board.
@@ -841,7 +841,7 @@ The Governor-General may by Order in Council make regulations for all or any of 
   (c) is not otherwise gross income of the trust for the purposes of the Income Tax Act 1994.
 (5) On and at all times before the date of commencement of this Act, Meat and Wool New Zealand Limited is treated as having existed as a member of—
   (a) the same wholly-owned group of companies that includes the former Board and any of its subsidiary companies, for the purposes of subpart IG of the Income Tax Act 1994; and
-  (b) the same group of companies that includes the former Board and any of its subsidiary companies, for the purposes of section IG 6(6)(b) of that Act.
+  (b) the same group of companies that includes the former Board and any of its subsidiary companies, for the purposes of section IG 6(6)﻿(b) of that Act.
 
 ### 86 Available subscribed capital
 (1) In the application of the definition of available subscribed capital in section OB 1 of the Income Tax Act 1994,—
@@ -853,7 +853,7 @@ The Governor-General may by Order in Council make regulations for all or any of 
 ### 87 Consolidation
 For the purposes of the Estate and Gift Duties Act 1968 and the Income Tax Act 1994,—
   (a) the Board, any subsidiary companies of the Board included in the same wholly-owned group of companies as the Board, and Meat and Wool New Zealand Limited are treated as members of the same consolidated group (within the meaning of the consolidation rules as defined in section OZ 1(1) of the Income Tax Act 1994); and
-  (b) if section 13(4)(a) or (b) applies, then the membership of the consolidated group formed under paragraph (a) of this section of both the Board and Meat and Wool New Zealand Limited ceases; and
+  (b) if section 13(4)﻿(a) or (b) applies, then the membership of the consolidated group formed under paragraph (a) of this section of both the Board and Meat and Wool New Zealand Limited ceases; and
   (c) at any time, any of the Board, any subsidiary company of the Board, and Meat and Wool New Zealand Limited may elect to cease membership of the consolidated group.
 
 ### 88 Goods and services tax
@@ -1003,7 +1003,7 @@ The duties of the directors of the Board set out in this schedule are owed to th
 (5) The powers of the Board or the board of directors are not affected by any vacancy in the board of directors (but subject to clause 5(3)).
 
 ### 3 Deputies of Minister-appointed directors
-(1) If satisfied that a director appointed under section 13(2)(d) is, because of illness, absence, or other sufficient cause, incapable of performing the duties of a director, the Minister may, after consulting the Board where practicable, appoint a deputy to act for the director during the director's incapacity.
+(1) If satisfied that a director appointed under section 13(2)﻿(d) is, because of illness, absence, or other sufficient cause, incapable of performing the duties of a director, the Minister may, after consulting the Board where practicable, appoint a deputy to act for the director during the director's incapacity.
 (2) A deputy appointed under this clause is deemed for all purposes to be a director.
 (3) No appointment of a deputy, no acts done by the deputy, and no acts done by the board of directors while any deputy is acting, may in any proceedings be questioned on the ground that the occasion for appointment had not arisen or had ceased.
 
@@ -1028,8 +1028,8 @@ The board of directors has all the powers necessary—
   (c) a resolution is assented to by a majority of the directors participating in the conference,—
 (9) Except as provided in this Act and any regulations made under it, the board of directors may regulate its procedure at meetings in any manner it thinks fit.
 (10) In this clause, farmer-selected director means a director—
-  (a) nominated by the industry-good organisation under section 13(2)(a); or
-  (b) nominated by the industry-good organisation under clause 2(4)(a), where the director concerned was elected by livestock farmers as a director of the industry-good organisation; or
+  (a) nominated by the industry-good organisation under section 13(2)﻿(a); or
+  (b) nominated by the industry-good organisation under clause 2(4)﻿(a), where the director concerned was elected by livestock farmers as a director of the industry-good organisation; or
   (c) elected by livestock farmers to represent them under regulations made under this Act.
 
 ### 6 Chairperson
@@ -1077,7 +1077,7 @@ The Board may, in any financial year, expend out of the funds of the Board for p
 
 ### 10 Remuneration of directors
 (1) Subject to subclauses (2) to (5), the Board must pay to each director the remuneration and benefits the Board from time to time determines.
-(2) The Board must pay to each director nominated or appointed by the Minister (whether under section 13(2)(d), section 13(6)(c), clause 2(3) or 3(1), or under regulations made under this Act) the remuneration and benefits that the Minister, after having regard to the Government's fees framework and to the level of remuneration and benefits paid to the industry-selected directors, from time to time determines and advises to the Board in writing.
+(2) The Board must pay to each director nominated or appointed by the Minister (whether under section 13(2)﻿(d), section 13(6)﻿(c), clause 2(3) or 3(1), or under regulations made under this Act) the remuneration and benefits that the Minister, after having regard to the Government's fees framework and to the level of remuneration and benefits paid to the industry-selected directors, from time to time determines and advises to the Board in writing.
 (3) During any financial year to which a resolution under section 59(2) (or, as the case requires, section 59(3)) applies, the Board must not pay to industry-selected directors (for services as a director) remuneration and benefits that are in the aggregate more than the maximum aggregate remuneration and benefits approved by the resolution.
 (4) During any financial year after the first year to which a resolution under section 59(2) applies (being a year to which neither a resolution under section 59(2) nor a resolution under section 59(3) applies), the Board must not pay to industry-selected directors (for services as a director) remuneration and benefits that are in the aggregate more than the maximum aggregate remuneration and benefits approved by the most recently passed resolution under section 59(2).
 (5) During any financial year before the first year to which a resolution under section 59(3) applies, the Board must not—
@@ -1086,8 +1086,8 @@ The Board may, in any financial year, expend out of the funds of the Board for p
 (6) In this clause and in section 59, benefit,—
   (a) in relation to any goods or service of a non-monetary nature provided to or for a director or put at a director's disposal, means the monetary value of those goods or that service; but
   (b) does not (except for the purposes of subclause (2) of this clause) include the monetary value of—
-    (i) any insurance of any kind in respect of any of the matters specified in clause 11(1)(a) and (b) provided or paid for the Board; or
-    (ii) any thing done or payment made by the Board in indemnifying a director in respect of any of the matters specified in clause 11(1)(a) and (b).
+    (i) any insurance of any kind in respect of any of the matters specified in clause 11(1)﻿(a) and (b) provided or paid for the Board; or
+    (ii) any thing done or payment made by the Board in indemnifying a director in respect of any of the matters specified in clause 11(1)﻿(a) and (b).
 
 ### 11 Restrictions on indemnity and insurance
 (1) Except as provided in clauses 12 to 14, the Board must not indemnify or agree to indemnify an official, or directly or indirectly effect insurance for an official, in respect of—
