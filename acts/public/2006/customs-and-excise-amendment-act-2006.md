@@ -1,5 +1,5 @@
 # Customs and Excise Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Amendment Act 2006.
