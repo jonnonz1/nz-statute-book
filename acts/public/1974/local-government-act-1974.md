@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2017-10-01_
+_Consolidation as at 2018-10-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -1813,7 +1813,7 @@ _Consolidation as at 2017-10-01_
   - **engine fuel** has the meaning given by section 1B of the Energy (Fuels, Levies, and References) Act 1989
   - **specified engine fuel** —
     (a) means,—
-      (i) if no Order in Council is in force under subparagraph (ii), engine fuel specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) as a type of—
+      (i) if no Order in Council is in force under subparagraph (ii), engine fuel specified in the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018) as a type of—
         (A) motor spirit; or
         (B) diesel (including blends of diesel and kerosene); or
         (C) biodiesel; or
@@ -1938,7 +1938,7 @@ For the purposes of this Act, section 159 of the Customs Act 1966, so far as it 
 
 ### 199A Order in Council prescribing local authorities fuel tax
 (1) The Governor-General may, by Order in Council,—
-  (a) specify the engine fuels set out in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) to be specified engine fuel for the purposes of this Act; and
+  (a) specify the engine fuels set out in the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018) to be specified engine fuel for the purposes of this Act; and
   (b) prescribe the scale rates for specified engine fuel.
 (2) The scale rates of the local authorities fuel tax prescribed by an Order in Council under subsection (1)﻿(b) may not exceed the rate of the local authorities fuel tax scale rates set out in Schedule 6 for any class of engine fuel—
   (a) for which the specified engine fuel is a functional substitute; or
