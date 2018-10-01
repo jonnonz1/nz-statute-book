@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-10-01_
 
 > Title
 
@@ -19,7 +19,7 @@ In this Act, unless the context otherwise requires,—
   - **distribution** includes sale
   - **EECA** means the Energy Efficiency and Conservation Authority established under section 20 of the Energy Efficiency and Conservation Act 2000
   - **energy** means work or heat that is or may be produced or derived from coal, electricity, gas, geothermal activity, petroleum, petroleum products, uranium, wind, biomass, sun, water, or any other fuel (including engine fuel) or any other source
-  - **engine fuel** means any gaseous or liquid fuel that can be used as a fuel for engines, and includes biofuel, diesel, petrol (which is called motor spirit in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996)), synthetic fuel, and blends of these
+  - **engine fuel** means any gaseous or liquid fuel that can be used as a fuel for engines, and includes biofuel, diesel, petrol (which is called motor spirit in the Excise and Excise-equivalent Duties Table (as defined in section 5(1) of the Customs and Excise Act 2018)), synthetic fuel, and blends of these
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Secretary** means the chief executive of the Ministry
@@ -146,7 +146,7 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 ### 24 Petroleum or engine fuel monitoring levy
 (1) A levy is payable at the rate prescribed under section 33 for each complete litre of petroleum or engine fuel of a type specified in regulations made under section 35(1)﻿(fa).
 (2) The levy must be paid to the New Zealand Customs Service—
-  (a) by the person who would be liable to pay any excise duty or excise-equivalent duty on the petroleum or engine fuel under the Customs and Excise Act 1996 if any were payable; and
+  (a) by the person who would be liable to pay any excise duty or excise-equivalent duty on the petroleum or engine fuel under the Customs and Excise Act 2018 if any were payable; and
   (b) when any excise duty or excise-equivalent duty would be paid if any were payable.
 (3) The New Zealand Customs Service must collect the levy on behalf of the Crown.
 (4) Section 28 (which provides a penalty for late payment of a levy) does not apply in respect of the levy.
