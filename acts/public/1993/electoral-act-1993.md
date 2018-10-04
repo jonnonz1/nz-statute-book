@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-10-04_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -790,6 +790,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
   (e) if he or she becomes a public servant; or
   (ea) if he or she is appointed as a Returning Officer, a Registrar of Electors, or a Deputy Registrar of Electors; or
   (f) if he or she resigns his or her seat by signing a written notice that is addressed and delivered to the Speaker; or
+  (fa) if, under section 55A, he or she ceases to be a parliamentary member of the political party for which he or she was elected; or
   (g) if on an election petition the High Court or Court of Appeal declares his or her election void; or
   (h) if he or she dies; or
   (i) if he or she becomes mentally disordered, as provided in section 56.
@@ -802,6 +803,52 @@ Despite section 55(1)﻿(b) and (c), the seat of a member of Parliament does not
     (i) country or place of birth; or
     (ii) descent; or
   (b) renewing a passport or travel document that was issued to him or her by a foreign State or Power before the member took office.
+
+### 55AAB Purpose of sections 55A to 55E
+The purpose of sections 55A to 55E is to—
+  (a) enhance public confidence in the integrity of the electoral system; and
+  (b) enhance the maintenance of the proportionality of political party representation in Parliament as determined by electors.
+
+### 55A Member of Parliament ceasing to be parliamentary member of political party
+(1) This section applies to every member of Parliament, except a member elected as an independent.
+(2) The seat of a member of Parliament to whom this section applies becomes vacant if the member of Parliament ceases to be a parliamentary member of the political party for which the member of Parliament was elected.
+(3) For the purposes of subsection (2), a member of Parliament ceases to be a parliamentary member of the political party for which the member of Parliament was elected only if—
+  (a) the member of Parliament delivers to the Speaker a written notice that complies with section 55B; or
+  (b) the parliamentary leader of the political party for which the member of Parliament was elected delivers to the Speaker a written notice that complies with section 55C.
+
+### 55B Notice from member of Parliament
+A written notice under section 55A(3)﻿(a) must—
+  (a) be signed by the member of Parliament by whom it is given; and
+  (b) be addressed to the Speaker; and
+  (c) notify the Speaker that the member of Parliament—
+    (i) has resigned from the parliamentary membership of the political party for which the member of Parliament was elected; or
+    (ii) wishes to be recognised for parliamentary purposes as either an independent member of Parliament or a member of another political party.
+
+### 55C Notice from parliamentary leader of political party
+A written notice under section 55A(3)﻿(b) must—
+  (a) be signed by the parliamentary leader of the political party for which the member of Parliament who is the subject of the notice was elected; and
+  (b) be addressed to the Speaker; and
+  (c) be accompanied by a statement that complies with section 55D.
+
+### 55D Form of statement to be made by parliamentary leader
+The statement referred to in section 55C(c) must be in writing and signed by the parliamentary leader concerned, and must—
+  (a) state that the parliamentary leader reasonably believes that the member of Parliament concerned has acted in a way that has distorted, and is likely to continue to distort, the proportionality of political party representation in Parliament as determined at the last general election; and
+  (b) state that the parliamentary leader has delivered to the member of Parliament concerned written notice—
+    (i) informing the member that the parliamentary leader considers that paragraph (a) applies to the member and the reasons for that opinion; and
+    (ii) advising the member that he or she has 21 working days from the date of receiving the notice to respond to the matters raised in the notice by notice in writing addressed to the parliamentary leader; and
+  (c) state that, after consideration of the conduct of the member and his or her response (if any) by the parliamentary members of the political party for which the member was elected, the parliamentary leader of that party confirms that at least two-thirds of the parliamentary members of that party agree that written notice should be given by the parliamentary leader under section 55A(3)﻿(b); and
+  (d) state either—
+    (i) that all other requirements imposed by the rules of the political party for which the member of Parliament was elected relating to the giving of a notice under section 55A(3)﻿(b) have been satisfied; or
+    (ii) that there are no other requirements imposed by the rules of the political party for which the member of Parliament was elected relating to the giving of a notice under section 55A(3)﻿(b) to be satisfied.
+
+### 55E Definitions
+For the purposes of sections 55A to 55D, unless the context otherwise requires,—
+  - **parliamentary leader** , in relation to a political party, means—
+    (a) the member of Parliament recognised for the time being as the parliamentary leader of the political party by the majority of parliamentary members of that party; or
+    (b) the member of Parliament for the time being acting as the parliamentary leader of that party
+  - **political party for which the member of Parliament was elected** means,—
+    (a) in the case of a member elected to represent an electoral district, the political party that nominated the member as a constituency candidate; and
+    (b) in the case of a member of Parliament elected from a party list submitted under section 127, or declared to be elected under section 137(4) to supply a vacancy, the political party on whose list the member’s name appeared.
 
 ### 55A Member ceasing to be parliamentary member of political party
 [Repealed]
@@ -2105,7 +2152,7 @@ Notwithstanding anything in section 129, no writ shall be issued for a by-electi
 [Repealed]
 
 ### 133 No writ to issue pending election petition
-If after a petition has been presented against the return of any member representing an electoral district his or her seat becomes vacant on any of the grounds mentioned in section 55, no writ to fill the vacancy shall be issued until after the petition has been disposed of, and not then if the court determines that that member was not duly elected or returned and that some other person was duly elected or returned.
+If after a petition has been presented against the return of any member representing an electoral district his or her seat becomes vacant on any of the grounds mentioned in section 55 or 55A, no writ to fill the vacancy shall be issued until after the petition has been disposed of, and not then if the court determines that that member was not duly elected or returned and that some other person was duly elected or returned.
 
 **Filling of vacancies in other seats**
 
