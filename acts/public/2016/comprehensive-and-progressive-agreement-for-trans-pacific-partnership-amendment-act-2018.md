@@ -1,5 +1,5 @@
 # Trans-Pacific Partnership Agreement Amendment Act 2016
-_Consolidation as at 2016-11-21_
+_Consolidation as at 2018-10-22_
 
 ### 1 Title
 This Act is the Trans-Pacific Partnership Agreement Amendment Act 2016.
@@ -894,8 +894,7 @@ In Schedule 2, insert in its appropriate alphabetical order:The following table 
 This Part amends the Overseas Investment Act 2005 (the principal Act).
 
 ### 67 New section 8A inserted (Transitional, savings, and related provisions)
-After section 8, insert:Transitional, savings, and related provisions
-  The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+[Repealed]
 
 ### 68 Section 13 amended (What are overseas investments in significant business assets)
 In section 13(1)﻿(a)﻿(ii), (b)﻿(ii), and (c), after $100 million, insert or an alternative monetary threshold that applies in accordance with regulations made under section 61A.
@@ -913,8 +912,8 @@ After section 61, insert:Regulations regarding alternative monetary thresholds f
   (3) The Minister must be satisfied, before making a recommendation under this section, that the regulations do not provide for an alternative monetary threshold that is higher than the amount provided for in the relevant international agreement referred to in subsection (1), but the text of the regulations may otherwise differ from the text of an agreement.
   (4) Regulations made under subsection (1) may incorporate by reference any provisions of an international agreement referred to in that subsection.
 
-### 70 New Schedule 1AA inserted
-Insert the Schedule 1AA set out in Schedule 3 of this Act as the first schedule to appear after the last section of the principal Act.
+### 70 Schedule 1AA amended
+In Schedule 1AA, after Part 1, insert the Part 2 set out in Schedule 3 of this Act.
 
 ## Part 7 — Amendments to Patents Act 2013
 
@@ -1245,17 +1244,15 @@ After regulation 8, insert:Labelling of grape ice wine for export following entr
 (2) Export licences in respect of the rights are to be allocated for the part of the quota year (despite clause 6 of Schedule 5B).
 (3) In this Act, references to an allocation period are to be read, in the case of those export licences, as references to the part of the quota year.
 
-## Schedule 3 — New Schedule 1AA of Overseas Investment Act 2005 inserted
+## Schedule 3 — Schedule 1AA of Overseas Investment Act 2005 amended
 
-### Schedule 1AA — Transitional, savings, and related provisions
+### Part 2 — Provisions relating to Trans-Pacific Partnership Agreement Amendment Act 2016
 
-#### Part 1 — Provisions relating to Trans-Pacific Partnership Agreement Amendment Act 2016
-
-### 1 Application
+### 11 Application
 The amendments to the Act made by the Trans-Pacific Partnership Agreement Amendment Act 2016, and the regulations made under section 61A, apply only to the acquisition of rights or interests in securities or of other property, or the establishment of any business, after the commencement of the Trans-Pacific Partnership Agreement Amendment Act 2016.
 
-### 2 No refunds
+### 12 No refunds
 No person is entitled to a refund of any fee or charge paid to the regulator for a matter under Schedule 2 of the Overseas Investment Regulations 2005 on the ground that regulations made under section 61A mean that the matter is no longer relevant (for example, that a consent that had been applied for is no longer required).
 
-### 3 Validation of exemptions for Australian investors
+### 13 Validation of exemptions for Australian investors
 Nothing in the Trans-Pacific Partnership Agreement Amendment Act 2016 affects the validity of the Overseas Investment (Australia) Amendment Regulations 2013, which are also declared to have been lawfully made and to be and always have been valid.
