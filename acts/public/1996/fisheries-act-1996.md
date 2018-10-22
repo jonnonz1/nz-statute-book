@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2018-09-30_
+_Consolidation as at 2018-10-22_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -1111,7 +1111,7 @@ The purpose of the overseas investment fishing provisions is to acknowledge that
   (b) when consent is required and the criteria for consent are stated in sections 57B to 57I:
   (c) the procedure for obtaining consent and imposing conditions of consent is set out in subpart 2 of Part 2 of the Overseas Investment Act 2005:
   (d) who administers those provisions is set out in section 57J of this Act and the role of the main regulator is set out in subpart 3 of Part 2 of the Overseas Investment Act 2005:
-  (e) the regulator's monitoring powers are set out in subpart 4 of Part 2 of the Overseas Investment Act 2005:
+  (e) the regulator's information-gathering powers are set out in subpart 4 of Part 2 of the Overseas Investment Act 2005:
   (f) enforcement matters, including offences, penalties, and the court's powers to make orders for effective enforcement, are set out in subpart 5 of Part 2 of the Overseas Investment Act 2005 and additional forfeiture and other remedies are set out in sections 57K to 58B of this Act:
   (g) regulations may be made under subpart 6 of Part 2 of the Overseas Investment Act 2005.
 (2) This section is a guide only to the general scheme and effect of those provisions.
