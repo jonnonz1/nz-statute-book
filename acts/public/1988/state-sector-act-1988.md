@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2018-09-29_
+_Consolidation as at 2018-10-24_
 
 > Title
 
@@ -46,7 +46,7 @@ In this Act, unless the context otherwise requires,—
     (a) service in the employment of—
       (i) any State school; or
       (ii) any integrated school within the meaning of Part 33 of the Education Act 1989; or
-      (iii) any tertiary institution (unless the institution is a sponsor within the meaning of section 2(1) of the Education Act 1989 and the employment relates to its functions as a sponsor under that Act or to a partnership school contract (as defined in Part 12A of that Act)); or
+      (iii) any tertiary institution; or
       (iv) any other educational institution for which a separate employer for the purposes of this Act is designated by any enactment or by the Minister:
     (b) service as a registered teacher in the employment of any free kindergarten association that controls a free kindergarten within the meaning of section 120 of the Education Act 1989:
     (c) service as a teacher in the employment of the Secretary under section 91N of the Education Act 1989
@@ -1278,19 +1278,6 @@ Every award and every agreement relating to the terms and conditions of employme
 ## Schedule 7 — Regulations and orders revoked
 
 ### 1 Title
-(1) This Act is the State Sector Amendment Act (No 2) 2004.
-(2) In this Act, the State Sector Act 1988 is called the principal Act.
-
-### 2 Commencement
-This Act comes into force on 25 January 2005.
-
-### 16 New sections 84 to 84B substituted
-(1) Amendment(s) incorporated in the Act(s).
-(2) The entitlement of an officer or employee in the State services under any superannuation arrangement that applies to that officer or employee at the commencement of this section is not affected by—
-  (a) the repeal of sections 84 to 84D of the principal Act by this section; or
-  (b) the amendments to Acts that are contained in Schedule 6 of the Crown Entities Act 2004.
-
-### 1 Title
 This order is the State Sector (Ministry for Primary Industries) Order 2012.
 
 ### 2 Commencement
@@ -1322,17 +1309,6 @@ Sections 30H and 30I of the State Sector Act 1988 apply to things coming into fo
 (3) The statements of intent for 2012–2015 for the former departments and ministries must be taken to be the Statement of Intent for 2012–2015 for the Ministry of Business, Innovation, and Employment.
 
 ### 1 Title
-This order is the State Sector (Establishment of Canterbury Earthquake Recovery Authority as Departmental Agency) Order 2014.
-
-### 2 Commencement
-This order comes into force on 1 February 2015.
-
-### 3 State Sector Act 1988 amended
-((1), (2)) Amendment(s) incorporated in the Act(s).
-(3) Sections 30E and 30F of the State Sector Act 1988 apply to the transfer of functions from the department Canterbury Earthquake Recovery Authority to the departmental agency Canterbury Earthquake Recovery Authority.
-(4) Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period beginning on 1 February 2015 and ending on 18 April 2016 after the transfer of functions referred to in subclause (3).
-
-### 1 Title
 This order is the State Sector (Ministry for Pacific Peoples) Order 2015.
 
 ### 2 Commencement
@@ -1349,16 +1325,6 @@ This order comes into force on 1 December 2015.
 
 ### 4 Application of consequential changes to reference provisions
 Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning 1 December 2015 and ending on 1 October 2016, after the name of the Ministry of Women’s Affairs is changed to the Ministry for Women.
-
-### 1 Title
-This order is the State Sector (Ministry for Vulnerable Children, Oranga Tamariki) Order 2016.
-
-### 2 Commencement
-This order comes into force on 1 April 2017.
-
-### 4 Application of consequential changes to reference provisions
-(1) This clause applies in respect of all functions that are transferred from the Ministry of Social Development to the Ministry for Vulnerable Children, Oranga Tamariki.
-(2) Sections 30H and 30I of the State Sector Act 1988 apply to enactments or other things coming into force, entered into, or created during the transitional period beginning 1 April 2017 and ending on 31 March 2018, after the transfer of functions referred to in subclause (1).
 
 ### 1 Title
 This order is the State Sector (Ministry of Housing and Urban Development) Order 2018.
