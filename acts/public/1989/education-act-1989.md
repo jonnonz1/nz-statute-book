@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-09-29_
+_Consolidation as at 2018-10-24_
 
 > An Act to reform the administration of education
 
@@ -74,16 +74,11 @@ _Consolidation as at 2018-09-29_
     (b) a composite school:
     (c) a school that is registered under section 35A, other than a school registered under that section only as a primary school:
     (d) a special school that is a relevant school within the meaning of section 246
-  - **partnership school contract** means a contract for the operation of a partnership school kura hourua entered into under section 158D and, in relation to a sponsor, means the partnership school contract to which the sponsor is a party
-  - **partnership school kura hourua** means a school in respect of which—
-    (a) the Minister has approved a sponsor under section 158B; and
-    (b) a partnership school contract is in force
-  - **primary partnership school kura hourua** means a partnership school kura hourua designated as a primary partnership school kura hourua by notice under section 158B
   - **primary school** has the same meaning as in section 145(1)
   - **principal** means the chief executive of a State school; and, in relation to a school, a person enrolled at the school, or the enrolment of a person at a school, means the principal of the school
   - **provider group** means a group of providers of secondary-tertiary programmes that is recognised by the Minister by notice in the Gazette under section 31B as a provider group
   - **registered establishment** has the same meaning as it has in section 159
-  - **registered school** means a school that is a State school, a State integrated school, a partnership school kura hourua, or a school registered under section 35A
+  - **registered school** means a school that is a State school, a State integrated school, or a school registered under section 35A
   - **review officer** has the same meaning as it has in section 323
   - **secondary component** , in relation to a secondary-tertiary programme, means the portion of the programme that consists of participation in secondary education, whether or not provided by the school in which the participating student is enrolled
   - **secondary school** has the same meaning as in section 145(1)
@@ -91,7 +86,6 @@ _Consolidation as at 2018-09-29_
   - **Secretary** means the chief executive of the Ministry
   - **serious criminal activity** means any offence involving fraud, violence, or harm to children, any sexual offence, or any crime involving dishonesty
   - **special education** means education or help from a special school, special class, special clinic, or special service
-  - **sponsor** means a body approved by the Minister under section 158B to operate a partnership school kura hourua
   - **State integrated school** means a school that—
     (a) provides education with a special character; and
     (b) has been established as a State integrated school under section 421
@@ -124,7 +118,7 @@ _Consolidation as at 2018-09-29_
 The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 3 Right to free primary and secondary education
-Except as provided in this Act, every person who is not an international student is entitled to free enrolment and free education at any State school or partnership school kura hourua during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
+Except as provided in this Act, every person who is not an international student is entitled to free enrolment and free education at any State school during the period beginning on the person's fifth birthday and ending on 1 January after the person's 19th birthday.
 
 ### 3A Restriction on attendance at certain schools
 [Repealed]
@@ -214,7 +208,7 @@ The Minister may, by notice in the Gazette, exempt international students of a p
 (3) A child under 5 who is enrolled under subsection (2) is entitled to free enrolment and free education in accordance with section 3.
 
 ### 5A Cohort entry policy
-(1) A State school, State integrated school, or partnership school kura hourua may adopt or revoke a cohort entry policy if the school consults and gives notice in accordance with section 5C.
+(1) A State school or State integrated school may adopt or revoke a cohort entry policy if the school consults and gives notice in accordance with section 5C.
 (2) A cohort entry policy must—
   (a) apply to all children aged 4 or 5 who have not previously enrolled in a registered school or an enrolling community of online learning; and
   (b) provide that a child may only be enrolled on a term start date determined in accordance with section 5B.
@@ -635,15 +629,13 @@ Sections 14 to 18AA (and any rules made under section 18AA) apply only in relati
 (1) If the Secretary is satisfied that the board of a State school has excluded a student who is younger than 16 from the school under section 15(1)﻿(c), and that the principal has not arranged for the student to attend another school, the Secretary must either,—
   (a) if satisfied that it is not inappropriate for the student to return to the school from which the student has been excluded, lift the exclusion; or
   (b) arrange for and, if necessary, direct the board of any other State school (that is not a State integrated school) to enrol the student at the other school; or
-  (ba) arrange for and, if necessary, direct the sponsor of a partnership school kura hourua to enrol the student at the partnership school kura hourua; or
+  (ba)
   (c) direct a parent of the student to enrol the student at a correspondence school.
 (2) The Secretary may not give a direction under subsection (1)﻿(b) or lift an exclusion under subsection (1)﻿(a) unless the Secretary has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
-(2A) The Secretary may not give a direction under subsection (1)﻿(ba) unless—
-  (a) the student's parents agree to the direction; and
-  (b) the Secretary has made all reasonable attempts to consult the student, the sponsor, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
+(2A)
 (3) If the board of the school from which the student has been excluded also controls another school, the Secretary (in exercising the power conferred by subsection (1)﻿(b)) may direct the board to enrol the student at that other school.
 (4) A board must comply with a direction under subsection (1)﻿(b), and the direction overrides the provisions of any enrolment scheme the school may have in place.
-(5) A sponsor must comply with a direction under subsection (1)﻿(ba), and the direction overrides any enrolment process the partnership school kura hourua may have in place.
+(5)
 
 ### 17 Board's powers when suspended student 16 or older
 (1) If a student who is 16 or older has been suspended from a State school, the board may—
@@ -677,16 +669,13 @@ If a student has been suspended, the student, the student's parents, and their r
 
 ### 17D Re-enrolment of excluded or expelled student
 (1) The board of a State school from which a student has ever been excluded or expelled (whether under section 15 or section 17) may refuse to enrol the student at the school (unless, in the case of an exclusion, the Secretary has lifted the exclusion under section 16(1)﻿(a)).
-(2) Subject to sections 16(1)﻿(b) and 158R(1)﻿(b), the board of a State school may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17) from another State school or a partnership school kura hourua.
+(2) Subject to sections 16(1)﻿(b) and 158R(1)﻿(b), the board of a State school may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17) from another State school.
 (3) The Secretary may, in the case of a student who has turned 16, direct the board of another State school (that is not a State integrated school) to enrol a student at the school if—
   (a) the student has been expelled from a State school under section 17; and
   (b) the Secretary has made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student's education or welfare.
-(3A) The Secretary may, in the case of a student who has turned 16, direct the sponsor of a partnership school kura hourua to enrol the student at the school if—
-  (a) the student has been expelled from a State school under section 17; and
-  (b) the student's parents agree to the enrolment; and
-  (c) the Secretary has made all reasonable attempts to consult the student, the sponsor, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
+(3A)
 (4) A board must comply with a direction under subsection (3), and the direction overrides the provisions of any enrolment scheme the school may have in place.
-(5) A sponsor must comply with a direction under subsection (3A), and the direction overrides any enrolment process the partnership school kura hourua may have in place.
+(5)
 
 ### 18 Notice requirements for stand-downs, suspensions, exclusions, and expulsions
 (1) Immediately after a student is stood-down under section 14, the principal must tell the Secretary and (except in the case of a student who has turned 20) a parent of the student—
@@ -811,7 +800,7 @@ For so long as a certificate under section 21 or section 22 continues in force�
 (1) Except as provided in this Act, every student of a registered school who fits into either or both of the following categories is required to attend the school whenever it is open:
   (a) a student who is required by section 20 to be enrolled at a registered school:
   (b) a student who is aged 4 or 5 and is enrolled at a registered school.
-(2) Every board and every sponsor of a partnership school kura hourua shall take all reasonable steps to ensure that students who are required by subsection (1) to attend the school whenever it is open do so.
+(2) Every board shall take all reasonable steps to ensure that students who are required by subsection (1) to attend the school whenever it is open do so.
 (3) For the purposes of this section, a student attends a school on any day if, on the day,—
   (a) it has been open for instruction for 4 hours or more; and
   (b) the student has been present for 4 hours or more when it was open for instruction.
@@ -821,7 +810,7 @@ For so long as a certificate under section 21 or section 22 continues in force�
 (4) Nothing in subsections (1) to (3) applies to a participating student who is enrolled at a registered school for the purposes of the secondary component of his or her secondary-tertiary programme, but he or she must attend the school for any portion of the programme as notified by the provider group or lead provider under section 31J.
 (5) Nothing in subsections (1) to (3) applies to an affected student.
 (6) An affected student must attend school for the whole of the time period (or periods) each day during which the student's timetable is running.
-(7) A board or a sponsor that is running a multiple timetable arrangement must take all reasonable steps to ensure that an affected student attends the school for the whole of the time period (or periods) each day during which the student's timetable is running.
+(7) A board that is running a multiple timetable arrangement must take all reasonable steps to ensure that an affected student attends the school for the whole of the time period (or periods) each day during which the student's timetable is running.
 (8) In this section,—
   - **affected student** means a student who is required to attend school in accordance with a multiple timetable arrangement
   - **multiple timetable arrangement** means an arrangement under which more than 1 timetable is run on the same day (whether consecutively or concurrently).
@@ -910,18 +899,18 @@ The principal of a State school—
 
 ### 31 Ensuring attendance of students
 (1) Any board may appoint any person to be an attendance officer for the schools or institutions it administers.
-(1A) A sponsor of a partnership school kura hourua may appoint any person to be an attendance officer for the school.
-(2) A person may be appointed an attendance officer by 2 or more boards or sponsors, or a board and a sponsor jointly.
+(1A)
+(2) A person may be appointed an attendance officer by 2 or more boards.
 (3) Every board shall, by any means it thinks appropriate, take all reasonable steps to ensure the attendance of students enrolled at its school or schools (or institution or institutions).
-(3A) Every sponsor must, by any means the sponsor thinks appropriate, take all reasonable steps to ensure the attendance of students enrolled at its school.
+(3A)
 (4) An attendance officer, on producing a distinctive badge or other evidence of appointment, or a constable may at any time detain any person who appears to have turned 5 and not to have turned 16, and who is not then at school, and question the person as to the person's name and address, the school (if any) at which the person is enrolled and its address, and the reason for the person's absence from school.
 (5) If not satisfied by the person's answers that the person has a good reason for not being at school, the attendance officer or constable—
   (a) may take the person to the person's home, or to the school at which the officer thinks the person is enrolled.
   (b)
 (6) A person who, after an attendance officer has produced evidence of appointment, obstructs or interferes with the officer in the exercise of powers under this section, commits an offence, and is liable on conviction to a fine not exceeding $1,000.
-(7) Any attendance officer, a sponsor, a principal, the Secretary, or any person appointed by a board, a sponsor, or the Secretary for the purpose may file charging documents, conduct prosecutions, and take any other proceedings, under this Part.
+(7) Any attendance officer, a principal, the Secretary, or any person appointed by a board or the Secretary for the purpose may file charging documents, conduct prosecutions, and take any other proceedings, under this Part.
 (8) A certificate sealed by a board showing that a person named in it is appointed for any purpose under this section is sufficient evidence of the matters specified in the certificate; and the authenticity of, and validity of the affixing of, a board's seal shall not in any proceedings under this Part be inquired into or disputed.
-(8A) A certificate signed on behalf of a sponsor showing that a person named in it is appointed for any purpose under this section is sufficient evidence of the matters specified in the certificate; and the authenticity or authority of any signature on behalf of a sponsor may not in any proceedings under this Part of this Act be inquired into or disputed.
+(8A)
 (9) This section applies to a participating student only in relation to any portion of his or her secondary-tertiary programme during which he or she is required to attend school, as notified by the provider group or lead provider under section 31J.
 (10) This section applies to an affected student (within the meaning of section 25(8)) only in relation to the time period (or periods) each day during which his or her timetable is running.
 
@@ -934,7 +923,7 @@ A secondary-tertiary programme means a full-time programme for a participating s
 (1) The Minister may, by notice in the Gazette, recognise as a provider group of secondary-tertiary programmes a group of organisations that consists of—
   (a) any 1 or more of the following:
     (i) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
-    (ia) a sponsor of a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
+    (ia)
     (ii) a body corporate that is the manager of a school registered under section 35A, other than a school registered under that section only as a primary school; and
   (b) any 1 or more of the following:
     (i) a government training establishment:
@@ -970,7 +959,7 @@ A secondary-tertiary programme means a full-time programme for a participating s
 ### 31F Recognition as lead provider of secondary-tertiary programme
 The Minister may, by notice in the Gazette, recognise as a lead provider of secondary-tertiary programmes any of the following:
   (a) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
-  (ab) a sponsor of a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
+  (ab)
   (b) a body corporate that is the manager of a school registered under section 35A, other than a school registered under that section only as a primary school:
   (c) a government training establishment:
   (d) an industry training organisation:
@@ -983,7 +972,7 @@ The Minister may, by notice in the Gazette, recognise as a lead provider of seco
   (b) in a form approved by the Secretary.
 (2) Any of the following may provide a secondary component or a tertiary component of a secondary-tertiary programme, after making an arrangement as specified in subsection (1) with the lead provider of the programme:
   (a) a board of a secondary school, a composite school, or a special school that is a relevant school within the meaning of section 246:
-  (ab) a sponsor of a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
+  (ab)
   (b) the managers of a school registered under section 35A, other than a school registered under that section only as a primary school:
   (c) a government training establishment:
   (d) an institution:
@@ -1006,7 +995,7 @@ The Minister may, by notice in the Gazette, recognise as a lead provider of seco
 (1) A student who is enrolled in any of the following may apply to a provider group or lead provider for his or her entry into a secondary-tertiary programme:
   (a) a secondary school:
   (b) a composite school:
-  (ba) a partnership school kura hourua, other than a partnership school kura hourua that is only a primary partnership school kura hourua:
+  (ba)
   (c) a school that is registered under section 35A, other than a school registered under that section only as a primary school:
   (d) a special school that is a relevant school within the meaning of section 246.
 (2) Approval for a student's entry into a secondary-tertiary programme is at the discretion of the provider group or lead provider.
@@ -1039,8 +1028,8 @@ In proceedings under this Part of this Act, the burden of proving any of the fol
   (b) the person's attendance at a school:
   (c) the person's exemption from enrolment or attendance at a school.
 
-### 35 Fines to be paid to board or sponsor (as applicable)
-Every fine recovered under this Part must be paid to the board or sponsor (as applicable) on whose behalf the proceedings concerned were commenced.
+### 35 Fines to be paid to board
+Every fine recovered under this Part must be paid to the board on whose behalf the proceedings concerned were commenced.
 
 **Registration of private schools**
 
@@ -1362,7 +1351,7 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
     (i) the areas of knowledge and understanding to be covered by students; and
     (ii) the skills to be developed by students; and
     (iii) desirable levels of knowledge, understanding, and skill, to be achieved by students,—
-  (ba) national standards, which are standards, in regard to matters such as literacy and numeracy, that are applicable to all students of a particular age or in a particular year of schooling:
+  (ba)
   (c) national administration guidelines, which are guidelines relating to school administration and which may (without limitation)—
     (i) set out statements of desirable codes or principles of conduct or administration for specified kinds or descriptions of person or body, including guidelines for the purpose of section 61:
     (ii) set out requirements relating to planning and reporting including—
@@ -1409,7 +1398,7 @@ In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
     (i) establishes for the relevant year the board's aims, directions, objectives, priorities, and targets relating to intended student outcomes, the school's performance, and use of resources; and
     (ii) sets targets for the key activities and achievement of objectives for the year.
 (4) A school charter must include the board's aims, objectives, directions, priorities, and targets in the following categories:
-  (a) student achievement, including the assessment of students against any national standard published under section 60A(1)﻿(ba):
+  (a) student achievement:
   (b) the board's activities aimed at meeting both general government policy objectives for all schools, being policy objectives set out or referred to in national education guidelines, and specific policy objectives applying to that school:
   (c) the management of the school's and board's capability, resources, assets, and liabilities, including its human resources, finances, property, and other ownership matters:
   (d) other matters of interest to the public that the Minister may determine.
@@ -1572,7 +1561,7 @@ Once a school charter or updated school charter takes effect, the board must mak
 (1) This section applies to the use of off-site locations by schools to provide education to 1 or more students on a long-term or full-time basis.
 (2) The Minister may, by written notice to the board of a school, approve the use of an off-site location by the school.
 (3) The Minister may issue a notice under subsection (2) only if he or she is satisfied that the board and the owner or occupier of the off-site location have both agreed to that use and the terms of that use.
-(4) Except as provided in subsection (2), a school must not—
+(4) Except as provided under this Act, a school must not—
   (a) use an off-site location; or
   (b) host an off-site location for another school.
 (5) In any case, following notice of approval being given and before any use is made of the off-site location, the board must enter into a written agreement with the Secretary that sets out—
@@ -1634,7 +1623,7 @@ The Chief Review Officer may review the performance of a community of learning u
 **Powers and functions of principals**
 
 ### 75A Appointment of principals
-(1) The powers conferred on a board by section 65 include the power to appoint a principal.
+(1) The powers conferred on a board by clause 6 of Schedule 6 include the power to appoint a principal.
 (2) Two or more boards may appoint 1 person to be the principal of 2 or more schools administered by the boards.
 (3) A combined board (as defined in section 92) may appoint 1 person to be the principal of 2 or more schools administered by the board.
 
@@ -1661,8 +1650,8 @@ The principal of a State school shall take all reasonable steps to ensure that�
   (c) specifying the form and content of enrolment records:
   (d) specifying exceptions to particular requirements of the rules.
 (4) A principal of a registered school must comply with rules for the time being in force under subsection (3).
-(5) In this section, principal, in relation to a partnership school kura hourua, means the person to whom the sponsor of the school has assigned the role of managing enrolment records.
-(6) In subsection (5), partnership school kura hourua and sponsor have the meanings given by section 2(1).
+(5)
+(6)
 
 **Regulations**
 
@@ -1677,7 +1666,7 @@ The principal of a State school shall take all reasonable steps to ensure that�
 ### 78A Powers of entry and inspection
 (1) Any person holding an authorisation under subsection (2) may, at any reasonable time,—
   (a) enter and inspect any registered school:
-  (b) inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the board, manager, or sponsor of the school:
+  (b) inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the board, or manager of the school:
   (c) remove any document described in paragraph (b), whether in its original form or as an electronic or paper copy.
 (1A) If any original documents are removed from a school under subsection (1)﻿(c), the person who removes the documents must—
   (a) leave at the school a list of the documents removed; and
@@ -1941,10 +1930,10 @@ Within 1 year of the date of a notice under any of sections 78J(1), 78K(1), 78L(
 
 ## Part 8 — Financial matters, assets, and property
 
-### 79 Grants for boards or sponsors
-(1) Subject to subsection (2), in each financial year, boards and sponsors must be paid, out of public money appropriated by Parliament for the purpose, such grants and supplementary grants, of such amounts, as the Minister determines.
-(2) In determining the amount of any grant, the Minister shall take no account of foreign students (other than students exempted under section 4A(1)) enrolled or likely to be enrolled at any school or institution administered by the board, or operated by the sponsor, concerned.
-(3) A supplementary grant is paid subject to the condition that it will be used for the purposes set out in the grant, and a board or sponsor that receives a supplementary grant must use it for those purposes only.
+### 79 Grants for boards
+(1) Subject to subsection (2), in each financial year, boards must be paid, out of public money appropriated by Parliament for the purpose, such grants and supplementary grants, of such amounts, as the Minister determines.
+(2) In determining the amount of any grant, the Minister shall take no account of foreign students (other than students exempted under section 4A(1)) enrolled or likely to be enrolled at any school or institution administered by the board concerned.
+(3) A supplementary grant is paid subject to the condition that it will be used for the purposes set out in the grant, and a board that receives a supplementary grant must use it for those purposes only.
 
 ### 80 No transfer between grants
 [Repealed]
@@ -2191,7 +2180,9 @@ In determining for the purposes of section 79 the amount of any grant payable to
   - **special institution** means an institution that is—
     (a) for the time being specified in Schedule 5; or
     (b) a correspondence school; or
-    (c) an institution (other than an institution that is part of a school) situated in a health camp, an institution under the control of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989, or a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001)
+    (c) an institution (other than an institution that is part of a school) situated within—
+      (i) an institution under the control of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989; or
+      (ii) a hospital care institution (within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001)
   - **State school** means an institution that is a primary school, a composite school, or a secondary school; and,—
     (a) in relation to a lone board that administers a school, means that school; and
     (b) in relation to a combined board that administers schools, means those schools or any of them; and
@@ -2955,13 +2946,13 @@ Every reference in any—to the school committee, committee of management, or bo
 (1) No person who—shall use force, by way of correction or punishment, towards any student or child enrolled at or attending the school, institution, or service.
   (a) is employed by a board (within the meaning of section 2(1)) at or in respect of a school or institution administered by the board; or
   (b) is employed by the managers of a school registered under section 35A at or in respect of the school; or
-  (ba) is employed by the sponsor of a partnership school kura hourua at or in respect of the school; or
+  (ba)
   (c) is employed at an early childhood service (as defined in section 309); or
   (d) owns, manages, or controls an early childhood service (as so defined),—
 (2) No person who is supervising or controlling—shall use force, by way of correction or punishment, towards the student or child.
   (a) on behalf of a board (within the meaning of section 2(1)) any student enrolled at or attending a school or institution administered by the board; or
   (b) on behalf of the managers of a school registered under section 35A any student enrolled at or attending the school; or
-  (ba) on behalf of a sponsor of a partnership school kura hourua any student enrolled at or attending the school; or
+  (ba)
   (c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,—
 
 ### 139AB No seclusion at or on behalf of registered school or early childhood service
@@ -2969,13 +2960,13 @@ Every reference in any—to the school committee, committee of management, or bo
 (2) This section applies to a teacher or any other person who is—
   (a) employed by a board; or
   (b) employed by the managers of a school registered under section 35A; or
-  (c) employed by the sponsor of a partnership school kura hourua; or
+  (c)
   (d) employed or engaged by the service provider of an early childhood service; or
   (e) providing education or care to children attending an early childhood service; or
   (f) supervising or controlling any student or child on behalf of—
     (i) a board; or
     (ii) the managers of a school registered under section 35A; or
-    (iii) the sponsor of a partnership school kura hourua; or
+    (iii)
     (iv) the service provider of an early childhood service.
 (3) In this section,—
   - **early childhood service** has the meaning given to it by section 309
@@ -2990,8 +2981,8 @@ Every reference in any—to the school committee, committee of management, or bo
   - **authorised staff member** means an employee of a registered school who is authorised by the employer to use physical restraint in accordance with this section
   - **employer** means—
     (a) a board:
-    (b) the managers of a school registered under section 35A:
-    (c) the sponsor of a partnership school kura hourua
+    (b) the managers of a school registered under section 35A
+    (c)
   - **physically restrain** , in relation to a student, means to use physical force to prevent, restrict, or subdue the movement of the student’s body or part of the student’s body
   - **teacher** means a person who holds a teaching position (as defined in section 348) at a registered school.
 
@@ -3164,9 +3155,9 @@ Nothing in section 139AAA or 139AAB limits or affects any power to search any lo
   (b) any contract, agreement, deed, instrument, application, licence, notice, or other document entered into, made, granted, given, or executed before that commencement,—
 
 ### 144A Secretary may require information for proper administration of Act
-(1) The Secretary may, by written notice to—require the board, sponsor, service provider, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the board, sponsor, service provider, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
+(1) The Secretary may, by written notice to—require the board, service provider, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the board, service provider, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
   (a) the board of any State school (within the meaning of section 2(1)); or
-  (ab) the sponsor of any partnership school kura hourua; or
+  (ab)
   (b) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup; or
   (c) the managers of any school registered under section 35A,—
 (1A) Information required by the Secretary under this section that identifies individuals may be used only for the following purposes:
@@ -3197,7 +3188,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
     (viii) providing for the suspension or cancellation of any licence:
     (ix) establishing a licensing body:
     (x) prescribing fees payable on application for, or renewal of, a licence, and for the return or refund of any fees in specified circumstances:
-  (f) establishing a complaints procedure relating to complaints by students, parents, boards, or sponsors about hostels:
+  (f) establishing a complaints procedure relating to complaints by students, parents, or boards about hostels:
   (g) providing for any other matters necessary or expedient for giving effect to the purpose described in section 144B.
 (2) Regulations made under subsection (1) may relate to all hostels, individual hostels, hostels of specified classes, or parts of hostels.
 
@@ -3268,6 +3259,7 @@ The purpose of this Part is to—
 (2) Every new school established under this section shall be established as a primary, intermediate, secondary, or composite school; and the notice establishing it shall specify which class of school it is.
 (3) A notice under subsection (1) establishing a new school may specify the class levels for which education may be given at the school and may provide for different class levels to be phased in over a specified period or periods.
 (4) A notice under subsection (1) establishing a new primary school may designate the school as a contributing school.
+(5) Despite section 98 or 98A, the Minister may approve an alternative constitution when establishing a school.
 
 ### 146A Single sex schools
 (1) Subject to section 157, the Minister may, by notice in the Gazette, declare any school to be a boys' school, a girls' school, or a co-educational school.
@@ -3442,12 +3434,16 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
     (iii) summarise any other special characteristics of the school:
   (b) for any other type of designated character school, describe the different character of the school (as defined in section 156(4)﻿(b)):
   (c) for any designated character school, state the constitution of the school’s board.
+(3A) The notice establishing a designated character school that is not a Kura Kaupapa Māori may also name a body that has a special affiliation with the school or has responsibility for the different character of the school.
 (4) The Minister may from time to time, after consultation with the board of a designated character school, by notice in the Gazette,—
   (a) for a Kura Kaupapa Māori,—
     (i) amend the name of the school (but not so as to omit the words Te Kura Kaupapa Māori o):
     (ii) amend the summary of special characteristics of the school:
-  (b) for any other type of designated character school, amend the description of the different character of the school:
+  (b) for any other type of designated character school,—
+    (i) amend the description of the different character of the school:
+    (ii) name a body that has a special affiliation with the school or has responsibility for the different character of the school:
   (c) for any designated character school, amend the statement of the constitution of the board.
+(5) The Minister must consult any body named under subsection (3A) or (4)﻿(b)﻿(ii) before amending the description of the school’s different character.
 
 ### 156A Minister may merge schools
 (1) Subject to sections 156B and 157, the Minister may, by notice in the Gazette, merge 1 or more State schools (merging schools) that are not State integrated schools with another State school (the continuing school) that is not a State integrated school, if the Minister is satisfied that—
@@ -3552,277 +3548,111 @@ The Minister may at any time appoint a person to—and in that case the Minister
   (d) considering any advice the person gives the Minister in that time.
 
 ### 158 Provision by one board of tuition for students enrolled at school administered by another
-(1) By agreement between the boards or sponsors concerned, students enrolled at a specified school may receive tuition at or from another specified school.
-(1A) Despite section 79, the board or sponsor of the specified school at which the students are enrolled may pay the board or sponsor of the specified school giving the tuition for that tuition.
+(1) By agreement between the boards concerned, students enrolled at a State school may receive tuition at or from another specified school.
+(1A) Despite section 79, the board of the State school at which the students are enrolled may pay the board of the State school giving the tuition for that tuition.
 (2) If satisfied that facilities at a State school were provided or constructed for the use of students enrolled at several State schools, the Minister may, by written notice to the school's board, require the board (in accordance with arrangements specified in the notice) to do either or both of the following:
   (a) allow the board of another State school to use the facilities for the tuition of students enrolled at the other school:
   (b) provide in or by means of those facilities tuition for students enrolled at another State school.
 (3) A notice under subsection (2) shall provide for the making of payments by the board of the school at which the students required to be provided with tuition are enrolled to the board of the school whose facilities are to be used; and payments shall, notwithstanding section 79, be made in accordance with the provisions of the notice.
-(3A) In subsections (1) and (1A), specified school means a State school or a partnership school kura hourua.
+(3A)
 (4)
 
 ## Part 12A — Partnership schools kura hourua
 
 ### 158A Interpretation
-In this Part, unless the context otherwise requires,—
-  - **body—**
-    (a) means a body corporate, corporation sole, or limited partnership; and
-    (b) includes an institution or a related entity (as defined in section 164A)
-  - **composite partnership school kura hourua** means a partnership school kura hourua designated as a composite partnership school kura hourua by notice under section 158B
-  - **institution** has the meaning given by section 159(1)
-  - **partnership school contract** has the meaning given by section 2(1)
-  - **primary partnership school kura hourua** has the meaning given by section 2(1)
-  - **secondary partnership school kura hourua** means a partnership school kura hourua designated as a secondary partnership school kura hourua by notice under section 158B
-  - **sponsor** has the meaning given by section 2(1).
+[Repealed]
 
 **Approval and operation of partnership schools kura hourua**
 
 ### 158B Minister may approve sponsors
-(1) The Minister may by notice in the Gazette approve a body to be a sponsor of a partnership school kura hourua.
-(2) The Minister has absolute discretion to refuse to approve a body to be a sponsor under subsection (1).
-(3) A notice under subsection (1) must include—
-  (a) the name of the sponsor; and
-  (b) the place where the school is to be located; and
-  (c) the name of the school; and
-  (d) whether the school is to be a primary, secondary, or composite partnership school kura hourua; and
-  (e) the class levels for which education may be given at the school; and
-  (f) any religious, philosophical, or other distinguishing characteristic of the school; and
-  (g) whether all or any (and if so, which) class levels of the school are to be single-sex.
-(4) A notice under subsection (1) may provide for different class levels to be phased in over a specified period or specified periods.
+[Repealed]
 
 ### 158C Minister must appoint advisory group
-(1) The Minister must appoint an advisory group, consisting of at least 5, but no more than 9, members, for the purpose of advising the Minister in relation to—
-  (a) the approval of sponsors under section 158B; and
-  (b) the educational performance of partnership schools kura hourua.
-(2) The members of the advisory group must be appointed by the Minister, on terms and conditions to be determined by the Minister, by written notice to each member.
-(3) The Minister may define and vary the terms of reference of the advisory group as the Minister thinks fit.
-(4) The advisory group must comply with any terms of reference determined by the Minister under subsection (3).
-(5) The advisory group may determine its own procedure.
-(6) Every member of an advisory group appointed under subsection (1) is entitled—
-  (a) to receive remuneration not within paragraph (b) for services as a member of the advisory group at a rate and of a kind determined by the Minister in accordance with the fees framework; and
-  (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her duties as a member of the advisory group.
-(7) For the purposes of subsection (6), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
+[Repealed]
 
 ### 158D Partnership school contracts
-(1) The Minister may from time to time, in the name and on behalf of the Crown, enter into a contract with a sponsor for the operation, by that sponsor, of a partnership school kura hourua.
-(2) A partnership school contract must be for a fixed term.
-(3) A partnership school contract must provide for—
-  (a) objectives and performance standards for the sponsor in relation to the operation of the school; and
-  (b) reporting requirements of the sponsor in relation to—
-    (i) the objectives and performance standards of the sponsor under the contract; and
-    (ii) any relevant national standards published under section 60A(1)﻿(ba); and
-  (c) the maximum roll of the school; and
-  (d) the number or percentage of teaching positions (within the meaning of section 120) that must be filled by people holding a practising certificate or limited authority to teach; and
-  (e) the curriculum to be taught at the school; and
-  (f) the qualifications to be offered by the school (if it is a secondary or composite partnership school kura hourua); and
-  (g) a procedure for the independent review of complaints against the school; and
-  (h) powers of intervention in the school by the Minister and the Secretary; and
-  (i) the termination of the contract for breach of contract; and
-  (j) the obligations of the sponsor, in the event of the termination or expiry of the contract, to co-operate with the Minister and to comply with any instructions issued by the Minister in order to ensure the orderly and efficient transfer of the operation of the school.
-(4) A partnership school contract may contain other provisions, as agreed between the Minister and the sponsor, that are not inconsistent with—
-  (a) this Act; or
-  (b) any regulations made under this Act.
+[Repealed]
 
 ### 158E Complaints
-(1) A person who refers a complaint about a sponsor to the Ombudsman may refer a complaint to a reviewer in respect of the same matter.
-(2) Subsection (1) applies—
-  (a) irrespective of whether or not the Ombudsman's investigation is complete at the time of the referral to the reviewer; and
-  (b) if that investigation is complete at the time of the referral to the reviewer, irrespective of the outcome of that investigation.
-(3) A person who refers a complaint to a reviewer about a matter that is within the jurisdiction of the Ombudsman may refer a complaint to the Ombudsman in respect of the same matter.
-(4) Subsection (3) applies—
-  (a) irrespective of whether or not the reviewer's investigation is complete at the time of the referral to the Ombudsman; and
-  (b) if that investigation is complete at the time of the referral to the Ombudsman, irrespective of the outcome of that investigation.
-(5) Subsection (3) is subject to section 17 of the Ombudsmen Act 1975.
-(6) In this section,—
-  - **Ombudsman** means an Ombudsman appointed under the Ombudsmen Act 1975
-  - **reviewer** means the person or body responsible under a partnership school contract for the independent review of complaints against a partnership school kura hourua.
+[Repealed]
 
 ### 158F Prohibitions on operation of partnership schools kura hourua
-(1) A body that is not approved to be a sponsor under section 158B may not operate or purport to operate a partnership school kura hourua.
-(2) A sponsor may not operate a partnership school kura hourua unless there is in place a partnership school contract between the Minister and the sponsor.
+[Repealed]
 
 ### 158G Sponsor's duties
-A sponsor of a partnership school kura hourua must—
-  (a) provide a safe physical and emotional environment for students; and
-  (b) ensure that the school delivers a curriculum that is in line with any foundation curriculum policy statements published under section 60A(1)﻿(aa); and
-  (ba) ensure that in the development and delivery of the curriculum, the school has regard to any statement of National Education and Learning Priorities issued by the Minister under section 1A.
-  (c) assign the functions of the principal under the sections specified in section 158U(1) to an appropriately qualified person or to appropriately qualified persons; and
-  (d) assign the role of supervising teaching practice to an appropriately qualified person; and
-  (e) at intervals specified in the partnership school contract, inform parents of—
-    (i) the progress of their children at the school; and
-    (ii) any barriers to progress.
+[Repealed]
 
 ### 158H Sponsor to control management of partnership school kura hourua
-(1) A sponsor of a partnership school kura hourua must perform the sponsor's functions and exercise the sponsor's powers in such a way as to ensure that every student at the school is able to attain his or her highest possible standard in educational achievement.
-(2) A sponsor of a partnership school kura hourua has complete discretion to control the management of the school as the sponsor thinks fit.
-(3) Subsection (2) is subject to any enactment, the general law of New Zealand, and the partnership school contract.
+[Repealed]
 
 ### 158I School rules
-(1) A sponsor of a partnership school kura hourua may make any rules the sponsor thinks necessary or desirable for the control and management of the school.
-(2) Subsection (1) is subject to any enactment, the general law of New Zealand, and the partnership school contract.
+[Repealed]
 
 ### 158J Sponsor's power to delegate
-(1) A sponsor may delegate any of the functions or powers of the sponsor under this Act, either generally or specifically, to any person or group of persons.
-(2) A delegation under this section must be in writing.
-(3) The sponsor must not delegate the general power of delegation.
-(4) The sponsor must not delegate the functions of the sponsor in sections 13 to 18 (as applied by section 158U, with the exception of sections 16 and 17D) and any rules made under section 18AA (as applied by section 158V) to the person to whom the sponsor has assigned the functions of the principal in those sections and rules.
-(5) A delegate to whom any functions or powers of a sponsor are delegated may,—
-  (a) unless the delegation provides otherwise, perform the function or exercise the power in the same manner, subject to the same restrictions, and with the same effect as if the delegate were the sponsor; and
-  (b) delegate the function or power only—
-    (i) with the prior written consent of the sponsor; and
-    (ii) subject to the same restrictions and with the same effect as if the subdelegate were the delegate.
-(6) A delegate who purports to perform a function or exercise a power under a delegation—
-  (a) is, in the absence of proof to the contrary, presumed to do so in accordance with the terms of that delegation; and
-  (b) must produce evidence of his or her authority to do so, if reasonably requested to do so.
-(7) No delegation in accordance with this Act—
-  (a) affects or prevents the performance of any function or the exercise of any power by the sponsor; or
-  (b) affects the responsibility of the sponsor for the actions of any delegate acting under the delegation; or
-  (c) is affected by any change in the constitution of the sponsor.
-(8) A delegation may be revoked at will by written notice to the delegate.
-(9) A delegation under subsection (5)﻿(b) may be revoked at will by written notice of the delegate to the subdelegate.
+[Repealed]
 
 ### 158K Annual financial statements of partnership schools kura hourua
-(1) On a date specified in the partnership school contract, a sponsor of a partnership school kura hourua must give to the Secretary annual financial statements relating to the school for the year ending on a date specified in the contract.
-(2) The financial statements must be prepared in accordance with the partnership school contract.
-(3) The financial statements must have been audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013).
+[Repealed]
 
 ### 158L Partnership school kura hourua may participate in school risk management scheme
-(1) A sponsor may, with the consent of the Secretary, participate in a school risk management scheme established under section 78D(2).
-(2) Sections 78D to 78G, any regulations made under section 78F, and any legal instrument by which a school risk management scheme is established apply to any sponsor that participates in the scheme as if it were a participating school board.
+[Repealed]
 
 ### 158M Intervention in partnership school kura hourua by Secretary
-(1) This section applies if the Secretary has reasonable grounds to believe—
-  (a) that—
-    (i) there exists in respect of a partnership school kura hourua an emergency affecting the education or welfare of its students; or
-    (ii) there is an imminent threat of such an emergency; and
-  (b) that the sponsor of the school is unwilling or unable to immediately deal with that emergency or, as the case requires, that threat to the satisfaction of the Secretary.
-(2) If this section applies, the Secretary may take over the management of the school from the sponsor for any period that the Secretary considers necessary in order to deal with the emergency or threatened emergency, and for that purpose the Secretary—
-  (a) has and may exercise and perform, in respect of the school, all of the powers and functions that would otherwise be exercisable or performed by the sponsor:
-  (b) has all other powers necessary or desirable.
-(3) If the Secretary takes over the management of a school under this section, the Secretary must immediately give written notice to the sponsor of that action, and of the reasons for that action.
-(4) This section applies despite anything in any partnership school contract, and nothing in this section limits or affects—
-  (a) any other right or remedy available to the Secretary or the Crown, whether under any partnership school contract or otherwise; or
-  (b) any liability of the sponsor under the partnership school contract or otherwise.
-(5) Neither the Secretary, nor the Crown, nor any other person acting by or under the authority of the Secretary is under any civil or criminal liability for anything the Secretary or any such person may do or fail to do in the course of the exercise or performance or intended exercise or performance of any powers or functions under this section, unless it is shown that the Secretary or that other person acted, or failed to act, in bad faith.
+[Repealed]
 
 **Enrolment in partnership schools kura hourua**
 
 ### 158N Enrolment in partnership schools kura hourua
-(1) If a partnership school kura hourua receives more applications than there are places at the school, the order of priority in which applicants are to be offered places at the school is as follows:
-  (a) first priority must be given to any applicant who is the sibling of a current student of the school:
-  (b) second priority must be given to any applicant who is the sibling of a former student of the school:
-  (c) third priority must be given to all other applicants.
-(2) If there are more applicants in any of the priority groups than there are places available, selection within the priority group must be by ballot.
-(3) If 2 or more siblings apply for places at the school at the same time, the applications of those siblings must be dealt with as a single application for the purposes of the ballot.
-(3A) A student who is enrolled in a partnership school kura hourua whose sponsor is an institution is not, by reason only of the student’s enrolment in the partnership school kura hourua, also enrolled in the institution.
-(4) In this section, sibling has the meaning given by section 11F(3).
+[Repealed]
 
 ### 158O Equal rights to primary and secondary education in partnership schools kura hourua
-(1) People who have special educational needs (whether because of disability or otherwise) have the same rights to enrol and receive education at partnership schools kura hourua as people who do not.
-(2) Nothing in subsection (1) affects or limits—
-  (a) those provisions of Part 2 and this Part that relate to the suspension, expulsion, and exclusion of students from partnership schools kura hourua; and
-  (b) section 158N (enrolment in partnership schools kura hourua).
+[Repealed]
 
 ### 158P Special education in partnership schools kura hourua
-Despite sections 5 and 6 (as applied by section 158U), if the Secretary and the person's parents agree,—
-  (a) a person with special educational needs who is under 21 and who turns 14 in any year may, in any later year, be or continue to be enrolled at a primary partnership school kura hourua, or in a class below form 3 at a composite partnership school kura hourua; and
-  (b) a person under 21 with special educational needs may be or continue to be enrolled at a secondary partnership school kura hourua, or in a class above form 2 at a composite partnership school kura hourua, who, in the opinion of the Secretary,—
-    (i) has not completed the work of form 2; and
-    (ii) has not completed work equivalent to the work of form 2; and
-  (c) a person under 21 with special educational needs may be or continue to be enrolled at a secondary partnership school kura hourua, or in a class above form 2 at a composite partnership school kura hourua, on or after 1 January after the person's 19th birthday.
+[Repealed]
 
 **Multiple timetable arrangements**
 
 ### 158Q Multiple timetable arrangements in partnership schools kura hourua
-(1) A sponsor may run a multiple timetable arrangement at a partnership school kura hourua for a specified period if the sponsor is satisfied that the arrangement is appropriate in the circumstances.
-(2) A sponsor must take all reasonable steps to notify every affected student and his or her parents in writing of—
-  (a) the multiple timetable arrangement; and
-  (b) the time periods for each day during which the affected student's timetable will run.
-(3) In this section, affected student and multiple timetable arrangement have the meanings given by section 25(8).
+[Repealed]
 
 **Exclusions**
 
 ### 158R Secretary's powers when student younger than 16 is excluded from partnership school kura hourua
-(1) If the Secretary is satisfied that the sponsor of a partnership school kura hourua has excluded a student who is younger than 16 from the school under section 15(1)﻿(c) (as applied by section 158U), and that no person to whom the sponsor has assigned the functions of the principal under section 15(5) (as so applied) has arranged for the student to attend another school, the Secretary must,—
-  (a) if satisfied that it is appropriate for the student to return to the school from which the student has been excluded, lift the exclusion; or
-  (b) arrange for and, if necessary, direct the board of a State school (that is not a State integrated school) to enrol the student at the State school; or
-  (c) arrange for and, if necessary, direct a sponsor of another partnership school kura hourua to enrol the student at the other school; or
-  (d) direct a parent of the student to enrol the student at a correspondence school.
-(2) The Secretary may not give a direction under subsection (1)﻿(b), or lift an exclusion under subsection (1)﻿(a), unless the Secretary has also made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
-(3) The Secretary may not give a direction under subsection (1)﻿(c) unless—
-  (a) the student's parents agree; and
-  (b) the Secretary has made all reasonable attempts to consult the student, the sponsor, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
-(4) If the sponsor of the school from which the student has been excluded is also the sponsor of another school, the Secretary (in exercising the power conferred by subsection (1)﻿(c)) may direct the sponsor to enrol the student at that other school.
-(5) A board must comply with a direction under subsection (1)﻿(b), and the direction overrides the provisions of any enrolment scheme the school may have in place.
-(6) A sponsor must comply with a direction under subsection (1)﻿(c), and the direction overrides the provisions of any enrolment scheme the school may have in place.
+[Repealed]
 
 ### 158S Re-enrolment by partnership school kura hourua of student excluded or expelled
-(1) The sponsor of a partnership school kura hourua from which a student has ever been excluded or expelled (whether under section 15 or 17 as applied by section 158U) may refuse to enrol the student at the school (unless, in the case of an exclusion, the Secretary has lifted the exclusion under section 158R(1)﻿(a)).
-(2) Subject to sections 16(1)﻿(ba) and 158R(1)﻿(c), the sponsor of a partnership school kura hourua may refuse to enrol a student who is for the time being excluded or expelled (whether under section 15 or 17 as applied by section 158U) from a State school or another partnership school kura hourua.
-(3) The Secretary may, in the case of a student who has turned 16, direct the sponsor of another partnership school kura hourua to enrol the student at the school if—
-  (a) the student has been expelled from a partnership school kura hourua under section 17 (as so applied); and
-  (b) the student's parents agree to the enrolment; and
-  (c) the Secretary has made all reasonable attempts to consult the student, the sponsor, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
-(4) The Secretary may, in the case of a student who has turned 16, direct the board of a State school to enrol the student at the school if—
-  (a) the student has been expelled from a partnership school kura hourua under section 17 (as so applied); and
-  (b) the Secretary has made all reasonable attempts to consult the student, the student's parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or be able to advise on or help with, the student's education or welfare.
+[Repealed]
 
 **Courses and visits**
 
 ### 158T Courses and visits outside partnership school kura hourua premises
-A sponsor of a partnership school kura hourua may authorise any students to do any of the following outside the school premises:
-  (a) undertake courses of education; or
-  (b) obtain work experience; or
-  (c) make visits.
+[Repealed]
 
 **Application of Act to partnership schools kura hourua**
 
 ### 158U Application of this Act to partnership schools kura hourua
-(1) Sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, 139AC to 139AE, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) apply to partnership schools kura hourua with any necessary modifications.
-(2) In their application to partnership schools kura hourua under subsection (1), sections 4 to 6, 13 to 15, 17 to 17C, 18 to 19, 25A (except subsection (1B)), 25AA, 25B, 27, 33, 78C to 78CD, 139AC to 139AE, and 139AAA to 139AAI (except section 139AAE(1)﻿(a)) must be read as if—
-  (a) any references to a State school were references to a partnership school kura hourua; and
-  (b) any references to a board or a board of a State school were references to a sponsor; and
-  (c) any references to a principal were references to the person or persons to whom a sponsor has assigned the function or functions of the principal under the section in question; and
-  (d) any references to a primary school were references to a primary partnership school kura hourua; and
-  (e) any references to a secondary school were references to a secondary partnership school kura hourua; and
-  (f) any references to a composite school were references to a composite partnership school kura hourua.
-(3) In its application to partnership schools kura hourua under subsection (1), section 17B must also be read as if the reference to a meeting of the board were a reference to a meeting with the sponsor.
-(4) In its application to partnership schools kura hourua under subsection (1), section 25AA must also be read as if references to the health curriculum were references to the health curriculum delivered by a partnership school kura hourua.
-(5) In their application to partnership schools kura hourua under subsection (1), sections 139AAA to 139AAI must also be read as if the definition of teacher in section 139AAA(9) were replaced with the following definition:
-  - **teacher** means—
-    (a) a person holding a teaching position (within the meaning of section 348) at a partnership school kura hourua; or
-    (b) a person to whom the sponsor of the partnership school kura hourua has assigned any of the functions of the principal.
+[Repealed]
 
 ### 158V Application of Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 to partnership schools kura hourua
-(1) The Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 (except rule 3) apply to partnership schools kura hourua with any necessary modifications.
-(2) In their application to partnership schools kura hourua under subsection (1), the Education (Stand-Down, Suspension, Exclusion, and Expulsion) Rules 1999 must be read as if—
-  (a) any references to a State school were references to a partnership school kura hourua; and
-  (b) any references to a board or a board of a State school were references to a sponsor; and
-  (c) any references to a principal were references to the person to whom a sponsor has assigned the function or functions of the principal under the rules.
+[Repealed]
 
 **Application of other Acts to partnership schools kura hourua**
 
 ### 158W Application of New Zealand Bill of Rights Act 1990 to partnership schools kura hourua
-Section 3(b) of the New Zealand Bill of Rights Act 1990 applies to the following persons when performing functions under this Act or in relation to a partnership school contract:
-  (a) a sponsor of a partnership school kura hourua:
-  (b) a person employed by a sponsor of a partnership school kura hourua in a position at the school:
-  (c) a person who works at a partnership school kura hourua under contract.
+[Repealed]
 
 ### 158X Application of Privacy Act 1993 to partnership schools kura hourua
-When performing functions under this Act or a partnership school contract, a sponsor of a partnership school kura hourua is to be treated as a public sector agency for the purposes of sections 35 and 36 of the Privacy Act 1993.
+[Repealed]
 
 ### 158Y Official Information Act 1982 not to apply to partnership schools kura hourua
-(1) The Official Information Act 1982 does not apply to a sponsor of a partnership school kura hourua when the sponsor is performing functions under this Act or a partnership school contract.
-(2) However, if the sponsor is an institution, the Official Information Act 1982 applies unless the institution is performing its functions as a sponsor under this Act or a partnership school contract.
+[Repealed]
 
 ### 158Z Application of State Sector Act 1988 to institutions sponsoring partnership schools kura hourua
-The State Sector Act 1988 does not apply to an institution that is a sponsor if the institution is performing its functions as a sponsor under this Act or a partnership school contract.
+[Repealed]
 
 ### 158ZA Application of Ombudsmen Act 1975 to institutions sponsoring partnership schools kura hourua
-(1) This section applies to an institution that is a sponsor if the institution is performing its functions as a sponsor under this Act or a partnership school contract.
-(2) For the purposes of the Ombudsmen Act 1975, the institution—
-  (a) is a sponsor; and
-  (b) is not an institution (see Ombudsmen Act 1975, Schedule 1, Part 2).
+[Repealed]
 
 ## Part 13 — General provisions relating to tertiary education
 
@@ -3893,6 +3723,10 @@ The State Sector Act 1988 does not apply to an institution that is a sponsor if 
   - **land** includes any legal or equitable estate or interest in, or right, power or privilege over, or in connection with, land
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
+  - **permanent member** , in relation to the teaching or general staff of an institution, means a member of the staff who—
+    (a) is employed, on either a full-time or part-time basis, for a period ending, unless sooner terminated, on his or her resignation or retirement; or
+    (b) has been employed, on either a full-time or part-time basis, whether under an employment agreement for a fixed term or otherwise, for at least 3 months; or
+    (c) has been employed, on either a full-time or part-time basis, whether under an employment agreement for a fixed term or otherwise, for less than 3 months and whose employment is, in the opinion of the chief executive of the institution, likely to continue for at least 3 months from the date of commencement of that employment
   - **personal property** includes money
   - **plan** means a plan in relation to which funding approval has been given
   - **polytechnic** means, subject to subsection (3),—
@@ -4715,7 +4549,22 @@ In this Part, unless the context otherwise requires,—
     (i) have relevant knowledge, skills, or experience; and
     (ii) are likely to be able to fulfil their individual duties to the council; and
     (iii) together with the other members of the council, are capable of undertaking its responsibilities, duties, and functions.
-(3) Subsections (1) and (2) do not apply to the membership of the council of a designated polytechnic (for which section 222AD provides).
+(2A) When appointing members of a council, the council must ensure that—
+  (a) at least—
+    (i) 1 member is a permanent member of the teaching or general staff of the institution that the permanent members of the teaching and general staff of the institution have elected to represent them; or
+    (ii) 1 member is a permanent member of the teaching staff of the institution that the permanent members of the teaching staff of the institution have elected to represent them and 1 member is a permanent member of the general staff of the institution that the permanent members of the general staff of the institution have elected to represent them; and
+  (b) at least 1 member is a student—
+    (i) who is enrolled in the institution; and
+    (ii) whom the students of the institution have elected to represent them.
+(2B) However, subsection (2A) does not apply to the membership of the council of a wānanga.
+(2C) An elected person specified in subsection (2A)—
+  (a) is to be treated as meeting any relevant knowledge, skills, or experience requirements; and
+  (b) must be appointed unless the person is ineligible for appointment under section 171A(1).
+(2D) An institution or its council may not specify who is eligible to stand for election as a representative of—
+  (a) the permanent members of the teaching or general staff of the institution; or
+  (b) the students of the institution.
+(2E) Before making an appointment under this section, the Minister must seek, and consider, nominations from the relevant council.
+(3) This section does not apply to the membership of the council of a designated polytechnic (for which section 222AD provides).
 
 ### 171C Statutes relating to appointment of members by councils of institutions
 (1) The council of an institution may make statutes relating to the appointment of members under section 171(1)﻿(b) (or, as the case requires, section 222AA(1)﻿(b)).
@@ -4990,7 +4839,7 @@ No member of the council of an institution is personally liable for any act done
 (2) None of the rights, powers, or privileges of an institution shall be exercised except for the purpose of performing—
   (a) functions characteristic of institutions of the class to which the institution belongs; or
   (aa) in the case of an institution that incorporates another institution or other institutions under section 164(4), functions characteristic of institutions of the class to which the incorporating institution belongs and functions characteristic of institutions of the class or classes to which the incorporated institution or institutions belong; or
-  (ab) in the case of an institution that is approved to be a sponsor of a partnership school kura hourua, functions characteristic of a body that is a sponsor (including entering into, and performing functions in relation to, a partnership school contract); or
+  (ab)
   (b) functions of a kind that, in the opinion of the institution's council,—
     (i) may conveniently, and without disadvantage to the performance of those characteristic functions, be performed in association with those functions; and
     (ii) are appropriate for institutions of the class to which the institution belongs or, in the case of an institution that incorporates another institution or other institutions under section 164(4), are appropriate for institutions of the classes represented in the institution.
@@ -5500,9 +5349,10 @@ The council of an institution shall ensure that copies of its annual report are 
 **Polytechnic councils**
 
 ### 222AA Constitution of polytechnic councils
-(1) The council of a designated polytechnic must comprise—
-  (a) 4 members appointed by the Minister:
-  (b) 4 members appointed by the council in accordance with its statutes.
+(1) The council of a designated polytechnic must have a total of 8, 9, or 10 members, as provided in its constitution, comprising—
+  (a) 4 members appointed by the Minister; and
+  (b) enough members appointed by the council by resolution, in accordance with its statutes, to bring the membership up to that total number.
+(1A) However, once the council of a designated polytechnic is established, it may, in accordance with its statutes, vary its size provided that the council has at least 8 members and no more than 10 members.
 (2) A person is not eligible for appointment or election as a member of the council of a designated polytechnic if—
   (a) he or she is subject to a property order under the Protection of Personal and Property Rights Act 1988; or
   (b) there has been made under that Act in respect of him or her a personal order that reflects adversely on his or her—
@@ -5529,9 +5379,23 @@ The council of an institution shall ensure that copies of its annual report are 
 (2) The Minister—
   (a) must have regard to the principles in subsection (1) when appointing members of the council of a designated polytechnic; but
   (b) must appoint people who (in the Minister's opinion) have enough experience of governance to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.
+(2A) Before making an appointment under this section, the Minister must seek, and consider, nominations from the relevant council.
 (3) The council of a designated polytechnic must appoint as members people who (in the council's opinion)—
   (a) have relevant knowledge, skills, or experience; and
   (b) are likely to be able to fulfil their individual duties as members of the council and the functions, duties, and responsibilities of the council.
+(4) When appointing members of a council, the council must ensure that—
+  (a) at least—
+    (i) 1 member is a permanent member of the teaching or general staff of the designated polytechnic that the permanent members of the teaching and general staff of the designated polytechnic have elected to represent them; or
+    (ii) 1 member is a permanent member of the teaching staff of the designated polytechnic that the permanent members of the teaching staff of the designated polytechnic have elected to represent them and 1 member is a permanent member of the general staff of the designated polytechnic that the permanent members of the general staff of the designated polytechnic have elected to represent them; and
+  (b) at least 1 member is a student—
+    (i) who is enrolled in the designated polytechnic; and
+    (ii) whom the students of the designated polytechnic have elected to represent them.
+(5) An elected person specified in subsection (4)—
+  (a) is to be treated as meeting any relevant knowledge, skills, or experience requirements; and
+  (b) must be appointed unless the person is ineligible for appointment under section 222AA(2).
+(6) A designated polytechnic or its council may not specify who is eligible to stand for election as a representative of—
+  (a) permanent members of the teaching or general staff of the designated polytechnic; or
+  (b) students of the designated polytechnic.
 
 ### 222AE Term of office
 [Repealed]
@@ -5594,7 +5458,7 @@ The Minister may remove a member of the council of a designated polytechnic unde
 (1) The Minister combines polytechnic councils by notice in the Gazette, stating—
   (a) a constitution for the resulting combined council; and
   (b) the day on which the combination takes effect.
-(2) The Minister must ensure that a combined council has an even balance between members appointed by the Minister and members appointed by the council.
+(2) The Minister must ensure that at least 50%, but no more than 60%, of the members of the combined council are members appointed by the council.
 
 ### 222AN Effect of combination
 (1) The combination of any polytechnic councils does not affect the individual status, identity, or character of the polytechnics concerned.
@@ -6644,7 +6508,7 @@ In this Part, unless the context otherwise requires,—
   - **relevant school** means—
     (a) a secondary school (as that term is defined in section 2(1)); or
     (b) a composite school (as that term is defined in section 2(1)); or
-    (ba) a partnership school kura hourua (as that term is defined in section 2(1)), other than a partnership school kura hourua that is only a primary partnership school kura hourua (as that term is defined in section 2(1)); or
+    (ba)
     (c) a school that is registered under section 35A, but does not include any school registered under that section only as a primary school (as that term is defined in section 2(1)); or
     (d) a special school (as that term is defined in section 2(2), except that a special school is not deemed to be a primary school for the purposes of this Part, despite the proviso to section 98(1) of the Education Act 1964)
   - **rules** means rules made under section 253.
@@ -7406,7 +7270,14 @@ The chief executive is responsible for—
   (i) a body has consent to assess against standards; or
   (j) a standard is on the Directory of Assessment Standards; or
   (k) the person is an agent of an institution (as that term is defined in section 249(1)) when the person is not.
-(2) A person who commits an offence against this section is liable on conviction to a fine not exceeding $10,000.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $10,000.
+(3) A person commits an offence who, without reasonable excuse, makes a false representation for the purpose of receiving, or continuing to receive, free tertiary education from a tertiary education organisation.
+(4) A person who commits an offence against subsection (3) is liable on conviction to a fine not exceeding $5,000.
+(5) For the purposes of subsection (3),—
+  - **free tertiary education** means any tuition or training—
+    (a) that a tertiary education organisation provides to, or arranges for, eligible students; and
+    (b) that has costs (which would otherwise be payable by those students) that are (in whole or in part) met by funds appropriated by Parliament
+  - **tertiary education organisation** has the same meaning as organisation in section 159B.
 
 ### 292B Liability of body corporate and directors in respect of false representations
 (1) If, in proceedings in respect of conduct engaged in by a body corporate, being conduct in relation to which section 292, 292A, 292C, 292D, 292E, 292F, or 292G applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, an employee, or an agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
@@ -7851,7 +7722,7 @@ In this Part, unless the context otherwise requires,—
   (c) residences (within the meaning of section 2(1) of the Oranga Tamariki Act 1989):
   (d) institutions under the control of the Ministry of Health or a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000:
   (e) hospital care institutions (within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001):
-  (f) children's health camps operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development:
+  (f) children’s health camps operated by an organisation funded by a state service to provide an education service to children attending health camps:
   (g) premises where all the children present are members of the same family in the care of a member of the family or members of the same family in the care of a caregiver who is not acting for gain or reward:
   (h) any premises, during any period of use for the education or care of children for any period not exceeding 4 hours a week in circumstances where the children's parents or caregivers are—
     (i) in close proximity to the children and are able to be contacted; and
@@ -8026,8 +7897,10 @@ The parent or guardian of a child has a right of entry to a licensed early child
 
 ### 319B Powers of entry and inspection without warrant
 (1) Any person holding an authorisation under subsection (3) may, for the purpose of ensuring that the provisions of this Act and any regulations made under this Act, or the conditions of any licence, certificate, or grant issued or made under any of those provisions, are being complied with, or for the purpose of conducting any audit, at any reasonable time, do all or any of the following:
-  (a) enter and inspect any premises that are or contain a licensed early childhood education and care centre or that are used to provide a licensed home-based education and care service or a licensed hospital-based education and care service, or that are used by a certificated playgroup:
-  (b) inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the licensed early childhood service or certificated playgroup:
+  (a) enter and inspect—
+    (i) any premises that are or contain a licensed early childhood education and care centre or that are used to provide a licensed home-based education and care service or a licensed hospital-based education and care service, or that are used by a certificated playgroup:
+    (ii) any offices of a service provider that are related to those premises:
+  (b) inspect, photocopy, print out, or copy onto a storage device any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the licensed early childhood service or certificated playgroup:
   (c) remove any document described in paragraph (b), whether in its original form or as an electronic or paper copy.
 (2) If any document is removed from premises under subsection (1)﻿(c), the person who removes it must—
   (a) leave at the premises a list of the documents removed; and
@@ -8459,7 +8332,7 @@ In this Part and Schedule 21, unless the context otherwise requires,—
   - **early childhood service** means a licensed early childhood service (as defined in section 309)
   - **employer** means any one of the following who employs, or intends to employ, 1 or more teachers or authorised persons in a teaching position:
     (a) the board of trustees of a State school:
-    (b) the sponsor of a partnership school kura hourua:
+    (b)
     (c) the managers of a school registered under section 35A:
     (d) the person or body that appoints staff at an early childhood education and care service:
     (e) the Secretary, in his or her capacity as an employer under section 91N
@@ -8471,11 +8344,10 @@ In this Part and Schedule 21, unless the context otherwise requires,—
   - **half-day** has the meaning given by section 60
   - **list of authorised people** means the list kept under section 371(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
-  - **partnership school kura hourua** has the meaning given by section 2(1)
   - **practising certificate** means a certificate issued under section 361(2) or (6)
   - **professional leader** means,—
-    (a) in the case of a school other than a partnership school kura hourua, the principal:
-    (b) in the case of a partnership school kura hourua, the person to whom the sponsor has assigned the role of supervising teaching practice:
+    (a) the principal:
+    (b)
     (c) in the case of an early childhood service, the professional leader of the service:
     (d) in the case of any other educational institution, the chief executive or person occupying an equivalent position
   - **register** means the register kept under section 359
@@ -8501,7 +8373,7 @@ In this Part and Schedule 21, unless the context otherwise requires,—
     (i) been authorised again; or
     (ii) been registered as a teacher; or
   (d) any person whose limited authority to teach is suspended under section 402 or 404(1)﻿(d).
-(2) No employer, other than a sponsor, may permanently appoint to any teaching position any person who does not hold a practising certificate.
+(2) No employer may permanently appoint to any teaching position any person who does not hold a practising certificate.
 
 ### 350 Restrictions on continued employment of teachers
 (1) An employer may not continue to employ in a teaching position—
@@ -8513,8 +8385,8 @@ In this Part and Schedule 21, unless the context otherwise requires,—
     (i) been authorised again; or
     (ii) been registered as a teacher; or
   (d) any person whose limited authority to teach is suspended under section 404(1)﻿(d).
-(2) No employer, other than a sponsor, may continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if that person is not under the general supervision of a person who holds a practising certificate.
-(3) No employer, other than a sponsor, may in any calendar year continue to employ in any teaching position a person who holds neither a practising certificate nor an authorisation, if the sum of the following periods is not less than the period specified in subsection (4):
+(2) No employer may continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if that person is not under the general supervision of a person who holds a practising certificate.
+(3) No employer may in any calendar year continue to employ in any teaching position a person who holds neither a practising certificate nor an authorisation, if the sum of the following periods is not less than the period specified in subsection (4):
   (a) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
   (b) any period or periods (of which the employer is aware) for which that person has already during that year been employed by any other employer in a teaching position or positions; and
   (c) any period or periods (of which the employer is aware) for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service.
@@ -8772,7 +8644,7 @@ If the management of any registered early childhood centre that is not an early 
   (g) being the employer of a person to whom section 351(1) applies, fails or refuses to ensure that the person does not carry out any of the duties of the teaching position in which he or she is employed; or
   (h) being the employer of a person to whom section 351(1) applies, fails or refuses to take all reasonably practicable steps to ensure that the person does not undertake any activities that might bring him or her into contact with students enrolled at the school or, as the case may be, children who attend the service; or
   (i) being a person to whom section 351(1) applies, carries out any of the duties of the teaching position in which he or she is employed; or
-  (j) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer (other than a sponsor) in a teaching position after the sum of the following periods is 20 half-days, or any greater number of half-days the Teaching Council has allowed that person (each being a half-day on which a school or an early childhood education and care service at which the person was then employed was open for instruction):
+  (j) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer in a teaching position after the sum of the following periods is 20 half-days, or any greater number of half-days the Teaching Council has allowed that person (each being a half-day on which a school or an early childhood education and care service at which the person was then employed was open for instruction):
     (i) the period or periods for which that person has already during that year been employed by the employer in a teaching position or teaching positions; and
     (ii) any period or periods for which that person has already during that year been employed by any other employer in a teaching position or teaching positions; and
     (iii) any period or periods for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service; or
@@ -8788,7 +8660,7 @@ This Part applies to any period of registration as a teacher under the Education
 ## Part 32 — Teaching Council
 
 ### 376 Purpose of Part
-The purpose of this Part is to establish an Teaching Council.
+The purpose of this Part is to establish a Teaching Council.
 
 ### 377 Purpose of Teaching Council
 The purpose of the Teaching Council is to ensure safe and high quality leadership, teaching, and learning for children and young people in early childhood, primary, secondary, and senior secondary schooling in English medium and Māori medium settings through raising the status of the profession.
@@ -8909,7 +8781,7 @@ The collective and individual duties of members of the Teaching Council are set 
 (5) The Teaching Council may also charge for any goods or services it provides in accordance with its functions.
 (6) The Teaching Council may, by written notice to a governing body, require the governing body to give the Teaching Council, within a time specified in the notice, any information specified in the notice, and the governing body must within that time give the Teaching Council in writing all information so required that is reasonably necessary or desirable for the Teaching Council to have for the proper administration of this Part and Part 31.
 (7) The Teaching Council has all other powers conferred by this Act or reasonably necessary to enable it to perform its functions.
-(8) For the purposes of subsection (6), governing body means the board of any State school or the sponsor of any partnership school kura hourua or a service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup or managers of any school registered under section 35A.
+(8) For the purposes of subsection (6), governing body means the board of any State school or a service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup or managers of any school registered under section 35A.
 
 ### 384 Ministerial powers
 (1) For the purpose of ascertaining whether the Teaching Council is complying, or has complied, with the provisions of this Part and Part 31, the Minister may commission an independent audit of the conduct of the Teaching Council’s functions.
@@ -9722,6 +9594,97 @@ Section 235(1A) applies in relation to domestic students who enrol for a program
   (b) the date that is 12 months after the commencement of this clause.
 (6) Section 380(5) (as in force immediately after the commencement of this clause) does not apply to the election of members under this clause.
 
+### Part 6 — Provisions relating to partnership schools kura hourua
+
+### 12 Transitional provision for existing partnership schools kura hourua
+(1) In respect of any partnership school kura hourua in existence immediately before the commencement of this clause, this Act applies as if sections 11, 22, and 24 of the Education Amendment Act 2018 had not come into force.
+(2) Despite subclause (1), section 158C does not apply.
+(3) This clause ceases to apply in respect of a partnership school kura hourua on the earlier of—
+  (a) the expiry of the partnership school contract for the school; and
+  (b) the termination of the partnership school contract for the school.
+
+### 13 Transitional arrangements for employees of specified partnership schools kura hourua
+(1) This clause applies to an employee—
+  (a) who is employed by a sponsor at a specified partnership school kura hourua that is or is to be replaced by a specified State school; and
+  (b) who applies in writing for an equivalent position at the specified State school.
+(2) The employee must be offered the equivalent position unless—
+  (a) another employee to whom this clause applies is appointed to that position; or
+  (b) the employee’s appointment would contravene section 349 or 350.
+(3) An employee appointed to an equivalent position is not entitled to receive any payment or other benefit on the ground that the position held by the employee in the specified partnership school kura hourua has ceased to exist.
+(4) This clause overrides anything to the contrary in—
+  (a) an employment agreement:
+  (b) Part 6A of the Employment Relations Act 2000:
+  (c) sections 77G and 77H of the State Sector Act 1988.
+(5) In this clause,—
+  - **equivalent position** means employment that, relative to the employee’s current position,—
+    (a) involves comparable duties and responsibilities; and
+    (b) is in the same general locality or a locality within reasonable commuting distance; and
+    (c) is on terms and conditions that are no less favourable than those applying to the employee immediately before the specified partnership school kura hourua is replaced by the specified State school; and
+    (d) is on terms that treat the period of service with the sponsor of the specified partnership school kura hourua (and every other period of service recognised for the purposes of the previous position as continuous service) as if it were continuous service with the education service (as that service is defined in section 2 of the State Sector Act 1988)
+  - **specified partnership school kura hourua** means a partnership school kura hourua specified by the Minister by notice in the Gazette under clause 14 as a partnership school kura hourua to which this clause applies
+  - **specified State school** means a State school (including a State integrated school) specified by the Minister by notice in the Gazette under clause 14 as a State school to which this clause applies.
+
+### 14 Minister may specify schools for purposes of clause 13
+The Minister may, by notice in the Gazette, specify—
+  (a) a partnership school kura hourua that is replaced by a State school as a partnership school kura hourua to which clause 13 applies; and
+  (b) the State school that replaces the partnership school kura hourua as a State school to which clause 13 applies.
+
+### Part 7 — Provisions relating to tertiary education institutions
+
+### 15 Interpretation
+(1) For the purposes of this Part, unless the context otherwise requires,—
+  - **council** means the council of an institution
+  - **transition period** , in relation to a council, means the period—
+    (a) commencing on the commencement of this Part; and
+    (b) ending on the close of the date that is 12 months after the commencement of this Part.
+(2) Terms defined in section 159(1) have the meanings given by that section.
+
+### 16 Appointing members to existing councils
+Despite the Education Amendment Act 2018, a council in existence immediately before the commencement of this clause is not required to comply with section 171B(2A), 222AA(1) (as amended), 222AD(4), and 222AM(2) until—
+  (a) the date that new members must be appointed in accordance with a new constitution (see clause 21(2)); or
+  (b) the date that new members must be appointed in accordance with a constitution amended under clause 17(3), if earlier.
+
+### 17 Existing councils to update constitutions
+(1) Every council must, if necessary to comply with section 171B(2A), 222AA(1)﻿(b), or 222AD(4),—
+  (a) prepare a new draft constitution for the council for its institution; and
+  (b) give a copy to the Minister.
+(2) The copy must be given to the Minister at least 2 months before the close of the transition period.
+(3) Alternatively, in the case of an institution that is not a designated polytechnic, the institution may have its constitution amended in accordance with section 170 so that it complies with section 171B(2A) and, in that case, clauses 18 to 24 do not apply.
+(4) The recommendation required by section 170(1) must be given to the Minister at least 2 months before the end of the transition period.
+
+### 18 Draft constitutions to be approved by Minister
+The Minister must, by notice in the Gazette setting out the draft constitution, establish it as a new constitution if—
+  (a) the council has given a copy to the Minister at least 2 months before the close of the transition period; and
+  (b) the Minister is satisfied that it complies with the requirements of this Act.
+
+### 19 Minister may establish new constitution if council does not act in time
+The Minister may, by notice in the Gazette setting out the constitution, establish a new constitution if the council has not given a copy of a new draft constitution to the Minister at least 2 months before the close of the transition period.
+
+### 20 When new constitution established and comes into effect
+The new constitution—
+  (a) is established when a notice under clause 18 or 19 is published in the Gazette; and
+  (b) comes into effect at the close of the transition period.
+
+### 21 New members to be appointed
+(1) A council must appoint new members if necessary to give effect to the new constitution.
+(2) The council must appoint the new members in accordance with the Act—
+  (a) as soon as practicable after the new constitution comes into effect; and
+  (b) no later than 6 months after the close of the transition period.
+
+### 22 Council continues to be same body and membership of council continues
+(1) A council constituted under a new constitution—
+  (a) is the same body as it was immediately before the close of the transition period; and
+  (b) continues to have the rights and obligations it had before the close of the transition period.
+(2) Members of the council appointed before the close of the transition period continue as members of the council after the close of the transition period, unless otherwise required by the new constitution.
+
+### 23 No compensation for loss of office
+Neither the Crown nor a council is liable to compensate a member of the council who ceases to hold office after the close of the transition period as a consequence of a new constitution taking effect.
+
+### 24 Temporary power of direction
+(1) During the transition period, the Minister may, by written notice to the chief executive of the institution concerned, give any directions the Minister thinks reasonably necessary to ensure that the council can deal effectively with business before it after the close of the transition period.
+(2) The council must comply with the directions.
+(3) The Minister must consult the council before giving the directions.
+
 ## Schedule 2 — Administrative provisions applying to Board continued by section 37
 
 ## Schedule 3 — Administrative provisions applying to Board continued by section 43
@@ -9755,7 +9718,7 @@ Section 235(1A) applies in relation to domestic students who enrol for a program
 | Section 159 | Application of acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions rules |
 | Sections 160 to 164 | Restrictions on acquisition of securities, borrowing, guarantees, indemnities, and derivative transactions |
 | Section 167 | Gifts |
-| Section 168(1) and (2), except that the reference to section 154 must be read as a reference to section 87(3) of the Education Act 1989 | Accounting records |
+| Section 168(1) and (2), except that the reference to section 154 must be read as a reference to regulations made under section 118A of the Education Act 1989 | Accounting records |
 | Section 173 | Regulations |
 | Section 176 | Application of provisions of the Public Finance Act 1989 |
 | Section 178 | Application of Archives Act 1957 |
