@@ -1,5 +1,5 @@
 # Education (Update) Amendment Act 2017
-_Consolidation as at 2017-05-15_
+_Consolidation as at 2018-10-24_
 
 ### 1 Title
 This Act is the Education (Update) Amendment Act 2017.
@@ -13,7 +13,7 @@ This Act is the Education (Update) Amendment Act 2017.
   (b) 31 December 2019.
 (5) Sections 39(4), 41(2) and (5), 43, 60, 68, 95, and 158(2) come into force on the earlier of—
   (a) a date appointed by the Governor-General by Order in Council; or
-  (b) 1 January 2019.
+  (b) 1 January 2020.
 (6) One or more orders may be made under subsections (4) and (5) bringing different provisions into force on different dates.
 (7) The rest of this Act comes into force on 19 May 2017.
 
@@ -470,11 +470,11 @@ In section 60B(2), definition of school community, paragraph (a), replace an int
 Replace sections 61 to 63B with:Teaching and learning programmesMonitoring of and reporting on student performanceSchool year, terms, and holidays, etc
   The board of a school must ensure that the school’s principal and staff develop and implement teaching and learning programmes that—
     (a) give effect to any foundation curriculum policy statements and national curriculum statements in force under section 60A; and
-    (b) give effect to any national standards in force under section 60A; and
+    (b)
     (c) give the school’s students access to a nationally and internationally recognised qualifications system.
   (1) The board of a school must ensure that the school’s principal and staff monitor and evaluate the performance of the school’s students.
   (2) Monitoring and evaluating must include, but is not limited to, monitoring and evaluating the performance of the students in relation to—
-    (a) any national standards in force under section 60A; and
+    (a) any foundation curriculum policy statements and national curriculum statements in force under section 60A; and
     (b) any qualification systems referred to in section 61(c) that are offered at the school.
   (3) The board must ensure that information about a student’s performance is given to the student’s parents in a timely manner and in a form that is readily understandable.
   (4) The board must report to the Secretary, to its school community, and to parents on the performance of the school’s students in accordance with any regulations made under section 118A.
@@ -682,9 +682,17 @@ Replace section 87 with:Statements of variance and annual reports
       (iv) a report, presented in the manner required by the Minister by notice in the Gazette, on the total remuneration (including benefits, any compensation, ex gratia payments, any other payments, and any other consideration paid or payable in the school principal’s capacity as an employee) paid to a principal of the school; and
       (v) the total value of any compensation or other benefits paid or payable to persons who ceased to be trustees, committee members, or employees during the financial year in relation to that cessation and the number of persons to whom all or part of that total was payable:
     (e) the statement of variance.
-  (3) In this section, statement of variance means a statement that details—
-    (a) any variance between the school’s performance and the achievement of the school’s objectives set out in its strategic plan and annual implementation plan; and
-    (b) any matters required by the regulations made under section 118A.
+  (3) In addition, a board that is a parent in a Crown entity group must, to the extent required to do so by generally accepted accounting practice, prepare consolidated financial statements in relation to the group for that financial year.
+  (4) The annual financial statements must be in the form (if any) determined by the Secretary after consultation with the Auditor-General.
+  (5) The annual financial statements must be accompanied by a statement of responsibility that complies with section 155 of the Crown Entities Act 2004 but that is signed by the chair of the board and principal instead of 2 members.
+  (6) The requirements of this section and section 87A as to annual financial statements also apply to a Crown entity subsidiary of a board as if the subsidiary were a board and with all necessary modifications.
+  (7) The rest of the amendments made to this section by Schedule 6 of the Crown Entities Act 2004 apply as provided in section 198 of that Act.
+  (8) In this section,—
+    - **statement of variance** means a statement that details—
+      (a) any variance between the school’s performance and the achievement of the school’s objectives set out in its strategic plan and annual implementation plan; and
+      (b) any matters required by regulations made under section 118A
+    - **trustee** and include a person who was a trustee or an employee at any time during the applicable financial year but who is no longer a trustee or an employee.
+  (9) However, in relation to a 2019 school charter, statement of variance means the statement referred to in section 87(2)﻿(e) immediately before the commencement of subsection (8).
 
 ### 69 New section 87AB inserted (Annual report to be made available)
 After section 87A, insert:Annual report to be made available
@@ -860,12 +868,13 @@ After section 118, insert:Regulations about planning, implementation, monitoring
   (2) Without limiting subsection (1), the regulations may make provision in relation to 1 or more of the following:
     (a) the form of plans:
     (b) matters that must be dealt with in plans:
-    (c) when plans must be prepared, submitted, or updated:
+    (c) when plans must be prepared or submitted:
     (d) requirements for consultation in the development and implementation of plans:
+    (da) requirements for how and when plans are amended or expire:
     (e) the information that must be included in a statement of variance under section 87(1)﻿(a):
     (f) the form of statements of variance:
     (g) the information that must be included in an annual report under section 87(2)﻿(a):
-    (h) the form of annual reports:
+    (h) the form and contents of annual reports, including financial statements:
     (i) the form of reports on the performance of a school’s students:
     (j) the information that must be included in reports on the performance of a school’s students:
     (k) any other matters contemplated by, or necessary for giving full effect to, any of the following provisions:
@@ -921,7 +930,7 @@ Repeal section 141.
 (1) Replace section 144A(1) with—
   (1AAA) The Secretary may, by written notice that complies with subsection (1AAB), require any of the following individuals or bodies to provide information:
     (a) the board of any State school (within the meaning of section 2(1)):
-    (b) the sponsor of any partnership school kura hourua:
+    (b)
     (c) a community of online learning:
     (d) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup:
     (e) the managers of any school registered under section 35A.
@@ -1573,13 +1582,17 @@ In the heading to Schedule 5A, replace s 65H with Schedule 6 cl 26.
 
 ### 158 Schedule 6 replaced
 (1) Replace Schedule 6 with the Schedule 6 set out in Schedule 2 of this Act.
-(2) In Schedule 6, after clause 6, insert:Strategic planning and reportingSchool strategic plan and annual implementation planPreparing draft strategic planSecretary to review and approve draft strategic planPreparing annual implementation planBoard to monitor performance against strategic planning documentsStrategic planning documents to be on Internet site
+(2) In Schedule 6, after clause 6, insert:Strategic planning and reportingSchool strategic plan and annual implementation planPreparing draft strategic planSecretary to review and approve draft strategic planAmending strategic planExpiry of strategic planPreparing annual implementation planAmending annual implementation planBoard to monitor performance against strategic planning documentsStrategic planning documents to be on Internet site
   (1) A board must have the following strategic planning documents for its school:
-    (a) a strategic plan for each 4-year period that sets out the board’s strategy for achieving (or making progress towards achieving) its objectives (as set out in clause 5) during that period; and
+    (a) a strategic plan, for each 3-year period or for a shorter period determined by the Secretary, that sets out the board’s strategy for achieving (or making progress towards achieving) its objectives (as set out in clause 5) during that period; and
     (b) an annual implementation plan for each year that sets out how the board intends to implement that strategy during the year.
   (2) A board must prepare its first strategic plan and annual implementation plan when required by regulations made under section 118A to do so.
+  (2A) If, at the commencement of this clause, a board has a charter in effect for the 2019 year, the charter will be treated as the board’s first strategic plan.
+  (2B) If a board’s strategic plan is its 2019 school charter, the statement of variance is not required to include a comparison with an annual implementation plan.
+  (2C) However, a board with a 2019 school charter as its strategic plan must continue to update the annually updated sections of its charter until its first annual implementation plan is required under regulations made under section 118A.
+  (2D) The annually updated sections of a 2019 school charter must be updated no later than a date fixed by the Secretary.
   (3) A board that has been accredited as a community of online learning must fulfil any requirements specified in regulations made under section 35ZN.
-  (1) A board must prepare a draft strategic plan for every 4-year period and submit it to the Secretary in accordance with regulations made under section 118A.
+  (1) A board must prepare a draft strategic plan for every 3-year period, or for a shorter period determined by the Secretary, and submit it to the Secretary in accordance with regulations made under section 118A.
   (2) The draft strategic plan must comply with any regulations made under section 118A relating to the form and content of strategic plans.
   (3) In preparing a draft strategic plan, the board must,—
     (a) consult—
@@ -1591,6 +1604,7 @@ In the heading to Schedule 5A, replace s 65H with Schedule 6 cl 26.
     (c) in the case of a State integrated school, ensure that the draft reflects the school’s special character; and
     (d) in the case of a designated character school, ensure that the draft reflects the school’s different character or, in the case of a Kura Kaupapa Māori, its special characteristics.
   (4) In preparing a draft strategic plan, the board may consult any person, group, or organisation that it considers ought to be consulted.
+  (5) This clause is subject to clause 7(2A).
   (1) On receiving a draft strategic plan, the Secretary must review it in accordance with regulations made under section 118A (the regulations).
   (2) After reviewing the draft strategic plan, the Secretary must—
     (a) confirm that it meets the requirements of this Act and the regulations by giving written notice to the board; or
@@ -1598,12 +1612,19 @@ In the heading to Schedule 5A, replace s 65H with Schedule 6 cl 26.
       (i) consider, or further consider, any matter and revise the plan in the light of that consideration; or
       (ii) revise the plan as directed by the Secretary.
   (3) If the draft strategic plan is returned to the board, the board must comply with the Secretary’s directions and then resubmit a revised plan.
-  (4) The Secretary must confirm a draft strategic plan unless satisfied that it does not meet the requirements of the Act and the regulations.
+  (4) The Secretary must, by giving written notice to the board, confirm a draft strategic plan unless satisfied that it does not meet the requirements of the Act and the regulations.
   (5) If a board fails to comply with the Secretary’s directions, or resubmits a revised draft strategic plan that still does not meet the requirements of the Act or the regulations, the Secretary may revise the plan and confirm it by giving written notice to the board.
+  (1) A board may amend its strategic plan, but if a proposed amendment is significant the board must obtain the Secretary’s approval of the amendment before amending the plan.
+  (2) Before approving an amendment, the Secretary may require the board to consult the school community, staff, students, or any other person or body the Secretary considers should be consulted.
+  (3) The Secretary may require a board to amend its strategic plan.
+  (1) A strategic plan expires 3 years after the plan takes effect.
+  (2) However, a 2019 school charter (which is a document that is to be treated as a board’s first strategic plan) expires when replaced by a strategic plan adopted in accordance with regulations made under section 118A.
+  (3) If there is no new plan to replace the expired plan, the expired plan will continue to apply for a period approved by the Secretary.
   (1) A board must prepare an annual implementation plan.
   (2) The plan must—
     (a) contain the information required by the regulations; and
     (b) be prepared in accordance with regulations made under section 118A.
+  A board may amend its annual implementation plan.
   (1) A board must monitor and evaluate its performance—
     (a) in achieving (or making progress towards achieving) its objectives in accordance with its strategic plan; and
     (b) in implementing its strategy in accordance with its annual implementation plan.
