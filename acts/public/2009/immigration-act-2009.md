@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-10-24_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -82,7 +82,7 @@ In this Act, unless the context otherwise requires,—
   - **commercial craft** means a craft that travels for a commercial purpose or as part of a commercial operation
   - **compulsion order** means an order made by a District Court Judge under section 290(1) requiring a person to allow the collection of specified biometric information from him or her
   - **compulsory education** means education that is—
-    (a) provided at any primary, intermediate, composite, secondary, or special school (within the meaning of the Education Act 1989), whether state, private, or integrated, or at a partnership school kura hourua (within the meaning of section 2(1) of that Act); and
+    (a) provided at any primary, intermediate, composite, secondary, or special school (within the meaning of the Education Act 1989), whether state, private, or integrated (within the meaning of section 2(1) of that Act); and
     (b) provided to a person at any time during the period beginning on the person’s fifth birthday and ending on 1 January following the person’s 19th birthday
   - **conditions** include conditions precedent as well as conditions subsequent (whether imposed by an immigration officer, the Minister, or the Tribunal)
   - **contact address** has the meaning given to it by section 387A
@@ -90,7 +90,7 @@ In this Act, unless the context otherwise requires,—
   - **counsel assisting the court** means a person appointed as counsel assisting the court under section 269
   - **course of study** —
     (a) means—
-      (i) any course of tuition or instruction for people entitled to free enrolment and education under section 3 of the Education Act 1989, conducted by any primary, intermediate, composite, secondary, or special school, whether state, private, or integrated, or by a partnership school kura hourua (within the meaning of section 2(1) of that Act); and
+      (i) any course of tuition or instruction for people entitled to free enrolment and education under section 3 of the Education Act 1989, conducted by any primary, intermediate, composite, secondary, or special school, whether state, private, or integrated (within the meaning of section 2(1) of that Act); and
       (ii) any other course of tuition or instruction conducted by any school, college, institute, university, or other body or person, and leading to any educational or vocational qualification the attainment of which by any person would be likely to enhance the employment prospects of that person, either generally or in respect of any particular profession or occupation; and
       (iii) in relation to any particular person, any other course of tuition or instruction if the undertaking of that course is the principal reason why that person wishes to be or is in New Zealand; but
     (b) does not include any course of tuition or instruction excluded, or excluded for a particular purpose, from this definition by immigration instructions
