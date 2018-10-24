@@ -1,5 +1,5 @@
 # Vulnerable Children Act 2014
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-10-24_
 
 ### 1 Title
 This Act is the Vulnerable Children Act 2014.
@@ -156,7 +156,7 @@ The purpose of this Part is to require child protection policies (that must cont
     (h) every other instrument for the time being prescribed under subsection (4)
   - **school board** means a board or body that is, or 1 or more managers who are,—
     (a) a board as defined in section 60, and for the purposes of Part 7 (control and management of State schools), of the Education Act 1989; or
-    (b) a sponsor of a partnership school kura hourua (as those terms are defined in section 2(1) of that Act); or
+    (b)
     (c) the manager or managers of a private school that is registered under section 35A of that Act.
 (2) The Governor-General may, by Order in Council, prescribe, for the purposes of paragraph (c)﻿(ii) of the definition of children's services in subsection (1), classes, descriptions, or kinds of services—
   (a) provided to adults living in households that include 1 or more children; and
