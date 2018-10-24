@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2018-10-24_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -65,7 +65,7 @@ _Consolidation as at 2017-06-03_
       (ii) the Judicial Complaints Lay Observer
   - **Ombudsmen** means the Ombudsmen holding office under the Ombudsmen Act 1975
   - **organisation** means—
-    (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service, mortality review committees, or sponsors (within the meaning of section 2(1) of the Education Act 1989) when performing functions as a sponsor under the Education Act 1989 or a partnership school contract (within the meaning of section 2(1) of the Education Act 1989)):
+    (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975 (other than the Parliamentary Service or mortality review committees):
     (b) an organisation named in Schedule 1 of this Act
   - **permanent resident of New Zealand** means a person who—
     (a) resides in New Zealand; and
