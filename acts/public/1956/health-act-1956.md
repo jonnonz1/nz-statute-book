@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2018-03-02_
+_Consolidation as at 2018-10-24_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -3285,10 +3285,9 @@ The Minister may apply to the High Court for a writ of mandamus to compel a loca
 ### 125 Medical examination of children
 (1) In this section—
   - **early childhood education and care centre** has the same meaning as in section 310(1) of the Education Act 1989
-  - **partnership school kura hourua** has the meaning given by section 2(1) of the Education Act 1989
   - **private school** means a school registered under section 186 of the Education Act 1964 and any premises, not being so registered and being neither an early childhood education and care centre nor a public school, which are or purport to be mainly for the care or training of children, whether for reward or not
   - **public school** means a school established under Part 3 of the Education Act 1964; and includes a kindergarten or other institution providing pre-school education recognised under regulations made pursuant to section 70 of that Act.
-(2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school, partnership school kura hourua, or early childhood education and care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
+(2) Any medical officer employed in the Ministry or other person authorised by the Minister to exercise the powers conferred by this section on an officer so authorised, or any nurse employed by the Royal New Zealand Society for the Health of Women and Children (Incorporated) engaged in work pursuant to a contract in that behalf between the said Society and the Minister, may at all reasonable times enter any public school or early childhood education and care centre and examine the children attending the school or centre, and may notify the parent or guardian of any such child, or any other person whom he reasonably believes to be concerned with the welfare of the child, of any condition which in his opinion is affecting the health or normal development of the child or of any disease or defect from which in his opinion the child may be suffering.
 (3) The powers conferred by subsection (2) may be exercised in respect of any private school, and in respect of the children attending there, if application in that behalf is made in writing to the medical officer of health by the controlling authority thereof. Any such application may be revoked in like manner at any time.
 
 ### 126 Infirm and neglected persons
