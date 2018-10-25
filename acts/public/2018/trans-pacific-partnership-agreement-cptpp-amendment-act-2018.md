@@ -210,6 +210,6 @@ Replace section 106 with:New regulation 8A inserted (Labelling of grape ice wine
 In Schedule 2, new Schedule 1, replace the Part 1 heading with:Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
 
 ### 26 Schedule 3 amended
-(1) In Schedule 3, new Schedule 1AA, replace the Part 1 heading with:Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
-(2) In Schedule 3, new Schedule 1AA, clause 1, replace Trans-Pacific Partnership Agreement Amendment Act 2016 with Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018 in each place.
-(3) In Schedule 3, new Schedule 1AA, clause 3, replace Trans-Pacific Partnership Agreement Amendment Act 2016 with Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
+(1) In Schedule 3, new Schedule 1AA, replace the Part 2 heading with:Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
+(2) In Schedule 3, new Schedule 1AA, clause 11, replace Trans-Pacific Partnership Agreement Amendment Act 2016 with Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018 in each place.
+(3) In Schedule 3, new Schedule 1AA, clause 13, replace Trans-Pacific Partnership Agreement Amendment Act 2016 with Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
