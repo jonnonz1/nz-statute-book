@@ -1,12 +1,16 @@
-# Trans-Pacific Partnership Agreement Amendment Act 2016
-_Consolidation as at 2018-10-22_
+# Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
+_Consolidation as at 2018-10-26_
 
 ### 1 Title
-This Act is the Trans-Pacific Partnership Agreement Amendment Act 2016.
+(1) This Act is the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
+(2) Every reference in any enactment and in any document to the Trans-Pacific Partnership Agreement Amendment Act 2016 must, unless the context otherwise requires, be read as a reference to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
 
 ### 2 Commencement
-(1) This Act comes into force on a date appointed by the Governor-General by Order in Council.
-(2) That date must be the date on which the Trans-Pacific Partnership Agreement, done at Auckland on 4 February 2016, enters into force for New Zealand.
+(1) This Act comes into force on a date appointed by the Governor-General by Order in Council on the recommendation of the Minister for Trade and Export Growth.
+(2) One or more orders may be made bringing different provisions into force on different dates and appointing different dates for different purposes.
+(3) However, the date appointed for the following provisions to come into force must not be earlier than the date on which the Trans-Pacific Partnership Agreement, done at Auckland on 4 February 2016, enters into force for New Zealand:
+  (a) sections 4 to 8, 28, 38, 39, 40(3) and (4), and 41 to 43 (which amend the Copyright Act 1994):
+  (b) sections 73 to 76 (which amend the Patents Act 2013).
 
 ## Part 1 — Amendments to Copyright Act 1994
 
@@ -54,8 +58,8 @@ Replace section 23(1) with:
 
 ### 9 Section 135 amended (Definitions)
 (1) In section 135, insert in their appropriate alphabetical order:
-  - **exporter** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
-  - **importer** has the meaning given to it in section 2(1) of the Customs and Excise Act 1996
+  - **exporter** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
+  - **importer** has the meaning given to it in section 5(1) of the Customs and Excise Act 2018
   - **specified item** means an item imported, or to be exported, other than for private and domestic use
 (2) In section 135, definition of pirated copy, replace paragraph (a)﻿(iii) with:
   (iii) in circumstances in which the making of the copy—
@@ -381,6 +385,54 @@ After section 201, insert:Evidence in proceedings
     (b) a person being entitled to exercise those rights.
   (2) A party to the proceedings may apply to the court to require a person whose evidence has been given by affidavit to attend the proceedings for the purposes of cross-examination; and the court may make an order accordingly.
 
+### 37A Section 226 amended (Definitions of TPM terms)
+(1) Replace the heading to section 226 with Interpretation for sections 226A to 226E.
+(2) In section 226, insert in their appropriate alphabetical order:
+  - **issuer of the TPM work** or means—
+    (a) a copyright owner of a TPM work that—
+      (i) issued a copy of the TPM work to the public; or
+      (ii) communicated the TPM work to the public; or
+    (b) a person that, under licence from the copyright owner,—
+      (i) issued a copy of the TPM work to the public; or
+      (ii) communicated the TPM work to the public
+  - **permitted act** means an act that—
+    (a) is permitted under Part 3 or otherwise does not infringe copyright in the TPM work; and
+    (b) does not infringe any specified performers’ rights in the TPM work
+  - **specified performers’ rights** means the rights conferred by section 172, or subpart 4 of Part 9, in respect of a recording that is a sound recording and a TPM work
+
+### 37B Section 226D amended (When rights of issuer of TPM work do not apply)
+In section 226D(2)﻿(a), replace a permitted act under Part 3 with a permitted act.
+
+### 37C Section 226E amended (User’s options if prevented from exercising permitted act by TPM)
+(1) In section 226E(1), replace a permitted act under Part 3 with a permitted act.
+(2) In section 226E(2), replace a permitted act under Part 3 with a permitted act.
+(3) In section 226E(2), replace copyright owner or the exclusive licensee with issuer of the TPM work in each place.
+(4) In section 226E(3), replace if that person with if that research is a permitted act and if that person.
+(5) In section 226E(3)﻿(b)﻿(i), replace copyright owner or exclusive licensee of the copyright to the use of with issuer of the TPM work to use.
+
+### 37D Section 226F replaced (Meaning of copyright management information)
+Replace section 226F with:Meaning of copyright management information
+  In sections 226G, 226H, and 226J, CMI or copyright management information means information attached to, or appearing in connection with communicating or making available, a copy of a copyright work that—
+    (a) identifies 1 or more of the following:
+      (i) the work:
+      (ii) the author of the work:
+      (iii) the copyright owner:
+      (iv) a performer:
+      (v) in the case of a film, the director of the film; or
+    (b) identifies or indicates some or all of the terms and conditions for using the work, or indicates that the use of the work is subject to terms and conditions; or
+    (c) is a number or code that represents any of the information referred to in paragraph (a) or (b).
+
+### 37E Section 226G amended (Interference with CMI prohibited)
+In section 226G(1), replace , or embodied in, with , or appearing in connection with communicating or making available,.
+
+### 37F Section 226H amended (Commercial dealing in work subject to CMI interference)
+In section 226H(1) and (2)﻿(c), replace , or embodied in, with , or appearing in connection with communicating or making available,.
+
+### 37G Section 226I amended (Contravention of section 226G or 226H)
+In section 226I, insert as subsections (2) and (3):
+  (2) If the copyright management information is or includes information that identifies an author, a director, or a performer (or is a number or code that represents information that identifies that person), the author, director, or performer (or a person entitled to exercise that person’s rights under Part 4 or 9) has the same rights and remedies in relation to a contravention of either of sections 226G and 226H as an author, a director, or a performer has in respect of an infringement of the rights conferred by Part 4 or 9.
+  (3) Subsection (2) does not limit subsection (1).
+
 ### 38 Section 226 replaced (Definitions of TPM terms)
 Replace section 226 with:Overview of provisions relating to technological protection measuresDefinitions of TPM terms
   (1) This section is intended only as a guide to the general scheme and effect of sections 226 to 226O (the TPM provisions).
@@ -678,10 +730,10 @@ In section 228(2)﻿(b), delete or section 132.
     (A) the end of the period of 70 years from the end of the calendar year in which the new copyright provisions come into force; or
     (B) if the work is first made available to the public (within the meaning of section 22(4)) during the period of 50 years from the end of the calendar year in which the new copyright provisions come into force, the end of the period of 70 years from the end of the calendar year in which the work is first made available to the public; and
 (8) In Schedule 1, clause 18(2)﻿(d), replace 50 with 70.
-(9) In Schedule 1, after clause 43, insert:Provisions relating to Trans-Pacific Partnership Agreement Amendment Act 2016CopyrightInterpretationDuration of copyright in works generallyDuration of copyright in certain worksExampleA literary work is created by person C on 1 May 1961, the work is published on 1 May 1968, and person C dies on 1 May 1970.Copyright in the work expires from the end of 31 December 2030 (that is, 60 years from the end of the calendar year in which the author dies) because—copyright exists in the work immediately before commencement; andcopyright in the work would, but for the TPP copyright duration provisions, have expired at the end of 31 December 2020 (that is, within 8 years of commencement); andthe duration of copyright in the work would, immediately before commencement, have been determined in accordance with section 22.Performers’ rightsInterpretationInterpretationApplicationApplicationDurationDuration of performers’ rights generallyDuration of certain performers’ rights
+(9) In Schedule 1, after clause 43, insert:Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018CopyrightInterpretationDuration of copyright in works generallyDuration of copyright in certain worksExampleA literary work is created by person C on 1 May 1961, the work is published on 1 May 1968, and person C dies on 1 May 1970.Copyright in the work expires from the end of 31 December 2030 (that is, 60 years from the end of the calendar year in which the author dies) because—copyright exists in the work immediately before commencement; andcopyright in the work would, but for the TPP copyright duration provisions, have expired at the end of 31 December 2020 (that is, within 8 years of commencement); andthe duration of copyright in the work would, immediately before commencement, have been determined in accordance with section 22.Performers’ rightsInterpretationInterpretationApplicationApplicationDurationDuration of performers’ rights generallyDuration of certain performers’ rights
   In this subpart, unless the context otherwise requires,—
     - **commencement** means the date on which the TPP copyright duration provisions come into force
-    - **TPP copyright duration provisions** means the provisions of Part 1 of the Trans-Pacific Partnership Agreement Amendment Act 2016.
+    - **TPP copyright duration provisions** means the provisions of Part 1 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
   (1) If copyright exists in a work immediately before commencement, the duration of copyright in the work is determined in accordance with this Act (as amended by the TPP copyright duration provisions).ExampleA literary work is created by person A on 1 February 1995, the work is published on 1 February 2000, and person A dies on 1 February 2010.Copyright in the work expires from the end of 31 December 2080 (that is, 70 years from the end of the calendar year in which the author dies). See section 22.
   (2) If copyright comes into existence in a work on or after commencement, the duration of copyright in the work is determined in accordance with this Act (as amended by the TPP copyright duration provisions).ExampleA sound recording is made on 1 June 2020 and is first made available to the public by an authorised act on 1 June 2025.Copyright in the work expires from the end of 31 December 2095 (that is, 70 years from the end of the calendar year in which the work is first made available to the public by an authorised act). See section 23.
   (3) If copyright has expired in a work before commencement, the provisions of this Act (as amended by the TPP copyright duration provisions) do not apply to revive copyright in the work.ExampleA literary work is created by person B on 1 September 1964, the work is published in October 1964, and person B dies in November 1964.Copyright in the work expires from the end of 31 December 2014 (that is, 50 years from the end of the calendar year in which the author dies). See section 22 as in force before commencement.
@@ -700,50 +752,36 @@ In section 228(2)﻿(b), delete or section 132.
     (c) section 28(2)﻿(b):
     (d) clause 17(2)﻿(d)﻿(ii) of this schedule.
   In this subpart, unless the context otherwise requires,—
-    - **commencement** means the date on which the TPP performers’ rights provisions come into force
+    - **commencement** means the date on which the WIPO performers’ rights provisions come into force
     - **performer’s rights** means the rights of a performer conferred by Part 9 of this Act
-    - **TPP performers’ rights provisions** means the provisions of Part 1 of the Trans-Pacific Partnership Agreement Amendment Act 2016.
-  (1) If a performance is given on or after commencement, Part 9 (as amended by the TPP performers’ rights provisions) applies to any act done on or after commencement in relation to that performance.
+    - **WIPO performers’ rights provisions** means the provisions of Part 1 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
+  (1) If a performance is given on or after commencement, Part 9 (as amended by the WIPO performers’ rights provisions) applies to any act done on or after commencement in relation to that performance.
   (2) If a performance is given before commencement, Part 9 (as in force immediately before commencement) continues to apply to any act done on or after commencement in relation to that performance.
   (3) Despite subclause (2), if Part 9 (as in force immediately before commencement) would not have applied to an act done, or a performance given, before commencement, subclause (2) and Part 9 do not apply to the act or the performance.
   (4) This clause is subject to clauses 49 and 50.
-  (1) If a performer’s rights exist immediately before commencement, the duration of the rights is determined in accordance with section 193 of this Act (as amended by the TPP performers’ rights provisions).
-  (2) If a performer’s rights come into existence on or after commencement, the duration of the rights is determined in accordance with section 193 of this Act (as amended by the TPP performers’ rights provisions).
-  (3) If a performer’s rights have expired before commencement, the TPP performers’ rights provisions do not apply to revive the rights.
+  (1) If a performer’s rights exist immediately before commencement, the duration of the rights is determined in accordance with section 193 of this Act (as amended by the WIPO performers’ rights provisions).
+  (2) If a performer’s rights come into existence on or after commencement, the duration of the rights is determined in accordance with section 193 of this Act (as amended by the WIPO performers’ rights provisions).
+  (3) If a performer’s rights have expired before commencement, the WIPO performers’ rights provisions do not apply to revive the rights.
   (4) Despite subclause (1), the duration of a performer’s rights is determined in accordance with clause 50 if—
     (a) the performer’s rights exist immediately before commencement; and
-    (b) the performer’s rights would, but for the TPP performers’ rights provisions, have expired within 8 years after commencement; and
+    (b) the performer’s rights would, but for the WIPO performers’ rights provisions, have expired within 8 years after commencement; and
     (c) the duration of the performer’s rights would, immediately before commencement, have been determined in accordance with section 193 (as in force immediately before commencement).
   (1) If the conditions of clause 49(4) are satisfied in relation to a performer’s rights, this clause determines the duration of the rights.
-  (2) The duration of the rights is determined in accordance with section 193 (as amended by the TPP performers’ rights provisions) except that each reference to 70 years in that section must be read as a reference to 60 years.
+  (2) The duration of the rights is determined in accordance with section 193 (as amended by the WIPO performers’ rights provisions) except that each reference to 70 years in that section must be read as a reference to 60 years.
 
 ## Part 2 — Amendments to Customs and Excise Act 1996
 
 ### 45 Principal Act
-This Part amends the Customs and Excise Act 1996 (the principal Act).
+[Repealed]
 
 ### 46 Section 119 amended (Application for Customs ruling)
-(1) After section 119(3), insert:
-  (3A) A person may apply to the chief executive for a Customs ruling on the application of any provision of Schedule 2 (which concerns the valuation of goods for the purposes of the Tariff) to a particular set of facts and circumstances.
-(2) In section 119(4), replace subsection (1) or subsection (3) with this section.
-(3) After section 119(4)﻿(b), insert:
-  (ba) in the case of an application under subsection (3A),—
-    (i) contain, or have attached, sufficient information to allow the chief executive to make a ruling, including information about—
-      (A) the nature and details of any transactions that are relevant to the application:
-      (B) the relationship of the parties to those transactions; and
-    (ii) specify the applicant’s opinion as to what the Customs ruling should be; and
-(4) Subsection (5) amends the Customs and Excise Regulations 1996.
-(5) After regulation 73(a), insert:
-  (ab) in the case of an application made under section 119(3A) of the Act, 150 days; and
+[Repealed]
 
 ### 47 Section 120 amended (Making of Customs ruling)
-(1) In section 120(1)﻿(b), after the application, insert ; or.
-(2) After section 120(1)﻿(b), insert:
-  (c) in the case of an application under section 119(3A), make a Customs ruling on the application of a provision of Schedule 2 in relation to the facts and circumstances specified in the application.
+[Repealed]
 
 ### 48 Section 122 amended (Effect of Customs ruling)
-After section 122(2), insert:
-  (3) Subject to section 125, if a Customs ruling is made under section 120(1)﻿(c) on the application of a provision of Schedule 2, the ruling is conclusive evidence for the purposes of this Act and, where applicable, the Tariff Act 1988 of the application of that provision to goods imported on the facts and in the circumstances specified in the ruling.
+[Repealed]
 
 ## Part 3 — Amendments to Dairy Industry Restructuring Act 2001
 
@@ -800,9 +838,11 @@ This Part amends the Hazardous Substances and New Organisms Act 1996 (the princi
 
 ### 58 Section 59 amended (Time limits and waivers)
 After section 59(5), insert:
-  (6) If the relevant TPP provision applies to an application to which subsection (1)﻿(c) applies, the Authority must act under subsection (5) to extend (or further extend) the time limit given by subsection (1)﻿(c) as the Authority considers appropriate to give effect to the relevant TPP provision.
+  (6) If the relevant CPTPP or TPP provision applies to an application to which subsection (1)﻿(c) applies, the Authority must act under subsection (5) to extend (or further extend) the time limit given by subsection (1)﻿(c) as the Authority considers appropriate to give effect to the relevant CPTPP or TPP provision.
   (7) An extension given for the purposes of subsection (6) applies for all submissions.
-  (8) In subsection (6), relevant TPP provision means Article 8.7.14 of the Trans-Pacific Partnership Agreement (done at Auckland on 4 February 2016) (technical barriers to trade: transparency: periods to comment on proposals).
+  (8) In subsection (6), relevant CPTPP or TPP provision means—
+    (a) Article 8.7.14 of the Trans-Pacific Partnership Agreement (done at Auckland on 4 February 2016) (technical barriers to trade: transparency: periods to comment on proposals):
+    (b) that provision as incorporated into the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018, by Article 1.1 of that agreement.
   (9) Subsection (4) does not apply where the Authority is acting under subsection (5) for the purposes of subsection (6).
 
 ## Part 5 — Amendments to Legislation Act 2012
@@ -823,16 +863,16 @@ After section 3(e), insert:
 (2) In section 13(2), replace Act with Part.
 
 ### 63 New Part 2A inserted
-After Part 2, insert:Publishing, for international transparency, of copies of and links to certain subordinate legislationPurpose, overview, and definitionsPurpose of this PartOverview of this PartInstrument, and other terms, definedDuty to publish and make available copies on administrator’s websiteAdministrator must ensure instrument is published and made availableDuty to ensure details are in or with copies as on administrator’s websiteAdministrator must ensure details are in or with instrumentLinks to be forwarded and made available on legislation websiteLinks to be forwarded as directedLinks forwarded must be published and made available
+After Part 2, insert:Publishing, for international transparency, of copies of and links to certain subordinate legislationPurpose, overview, and definitionsPurpose of this PartOverview of this PartInstrument, and other terms, definedDuty to publish and make available copies on maker’s websiteMaker must ensure instrument is published and made availableDuty to ensure details are in or with copies as on maker’s websiteMaker must ensure details are in or with instrumentLinks to be forwarded and made available on central websiteLinks to be forwarded as directedLinks forwarded and other instruments must be published and made available
   The purpose of this Part is to help New Zealand meet its international transparency obligations.
   (1) This Part applies to instruments if—
     (a) they are made under an enactment by a Minister of the Crown or a central government entity, and have a significant legislative effect; and
     (b) they are not published (under Part 2) as, or as if they were, legislative instruments; and
     (c) publication under this Part of copies of them, and links to them, would help New Zealand meet its international transparency obligations.
   (2) This Part—
-    (a) requires copies of the instruments to be published on the administrator’s website, if no other enactment requires that; and
+    (a) requires copies of the instruments to be published on the maker’s website, if no other enactment requires that; and
     (b) requires to be in or with the copies, as so published, all the details necessary or desirable for meeting all applicable international transparency obligations; and
-    (c) requires links to them, as so published, to be forwarded to the Chief Parliamentary Counsel, and published on the legislation website.
+    (c) requires links to them, as so published, to be forwarded to the Chief Parliamentary Counsel, and published on the central website.
   (3) This section is only a general guide to this Part.
   (1) Instrument, in this Part, means an instrument—
     (a) that is made under an enactment by a Minister of the Crown or a central government entity (even if the Minister or entity is performing a statutorily independent function); and
@@ -840,45 +880,49 @@ After Part 2, insert:Publishing, for international transparency, of copies of an
     (c) that is related to international transparency obligations (because the publishing under this Part of copies of and links to the instrument would help meet those obligations); and
     (d) that is not, and is not an instrument published (under section 14, or another enactment) as if it were, a legislative instrument.
   (2) In this Part, unless the context otherwise requires,—
-    - **administrator** , for an instrument, means the administrator of the empowering enactment
-    - **administrator’s website** , for an instrument, means an Internet site (other than the legislation website) maintained by or on behalf of the administrator
     - **central government entity** means any of the following (or a decision-making person or body in or related to, or acting through or for, any of the following):
       (a) a government department named in Schedule 1 of the State Sector Act 1988, including any departmental agency that, under section 27A and Schedule 1A of that Act, is part of that department:
       (b) a Crown entity (as defined in section 7(1) of the Crown Entities Act 2004, but excluding a school board of trustees and a tertiary education institution):
       (c) the Reserve Bank of New Zealand:
       (d) any other instrument of the Crown prescribed, for the purposes of this paragraph, by an order made under subsection (3)
+    - **central website** means an Internet site maintained by or on behalf of the New Zealand Government
     - **details** , for an instrument at any time, means all information necessary or desirable for meeting, for that instrument at that time, all applicable international transparency obligations
-    - **international transparency obligations** means obligations under paragraph 5 of Article 26.2 (publication) of Chapter 26 (transparency and anti-corruption) of the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016
-    - **legislation website** means the Internet site required by section 9
-    - **links** , for an instrument at any time, means all information necessary or desirable to enable a user at that time to access, using the legislation website, the instrument as published and made available on the administrator’s website
+    - **international transparency obligations** means obligations—
+      (a) under paragraph 5 of Article 26.2 (publication) of Chapter 26 (transparency and anti-corruption) of the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016; or
+      (b) under that provision as incorporated into the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018, by Article 1.1 of that agreement
+    - **links** , in relation to an instrument at any time, means all information necessary or desirable to enable a user at that time to access, using the central website, the instrument as published and made available on the maker’s website
+    - **maker** , in relation to an instrument, means the person empowered to make the instrument
+    - **maker’s website** , in relation to an instrument, means an Internet site (other than the central website) maintained by or on behalf of the maker
     - **published and made available** , for copies of or links to an instrument and an Internet site, means that the copies or links are published electronically on, and so far as practicable able to accessed at, or downloaded from, the site.
   (3) The Governor-General may, by Order in Council, prescribe any other instrument of the Crown for the purposes of paragraph (d) of the definition of central government entity in subsection (2).
   (1) This section applies to an instrument—
-    (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Trans-Pacific Partnership Agreement Amendment Act 2016; and
-    (b) unless an enactment other than this section requires a copy of the instrument to be published and made available on the administrator’s website.
-  (2) The administrator must ensure that a copy of the instrument is as soon as practicable published and made available on the administrator’s website.
+    (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018; and
+    (b) unless an enactment other than this section requires a copy of the instrument to be published and made available on the maker’s website.
+  (2) The maker must ensure that a copy of the instrument is as soon as practicable published and made available on the maker’s website.
   (1) This section applies to an instrument—
-    (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Trans-Pacific Partnership Agreement Amendment Act 2016; and
-    (b) a copy of which is published and made available on the administrator’s website.
-  (2) The administrator must ensure that the instrument’s details are in or with a copy of the instrument as published and made available on the administrator’s website.
-  (3) However, details of an instrument are taken to be in or with a copy of the instrument as published and made available on the administrator’s website if—
+    (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018; and
+    (b) a copy of which is published and made available on the maker’s website.
+  (2) The maker must ensure that the instrument’s details are in or with a copy of the instrument as published and made available on the maker’s website.
+  (3) However, details of an instrument are taken to be in or with a copy of the instrument as published and made available on the maker’s website if—
     (a) the instrument amends (without also replacing wholly) a principal instrument; and
     (b) the details relate to the amendments the instrument makes to the principal instrument; and
-    (c) the details are in or with a compilation of the principal instrument published and made available on the administrator’s website.
-  (4) The Chief Parliamentary Counsel must give all or any administrators, and ensure there is or are in force for all instruments, a direction or directions setting out, in general terms, the nature of their details.
+    (c) the details are in or with a compilation of the principal instrument published and made available on the maker’s website.
+  (4) The Chief Parliamentary Counsel must give all or any makers, and ensure there is or are in force for all instruments, a direction or directions setting out, in general terms, the nature of their details.
   (5) A direction given under this section—
-    (a) must as soon as practicable be published and made available on an Internet site maintained by or on behalf of the New Zealand Government:
+    (a) must as soon as practicable be published and made available on the central website:
     (b) is not a legislative instrument, or a disallowable instrument, for the purposes of this Act, and does not have to be presented to the House of Representatives under section 41.
-  (6) The administrator must, if required to do so by a document given by the Chief Parliamentary Counsel, republish a copy of the instrument promptly on the administrator’s website in a form that complies with this section.
+  (6) The maker must, if required to do so by a document given by the Chief Parliamentary Counsel, republish a copy of the instrument promptly on the maker’s website in a form that complies with this section.
   (1) This section applies to an instrument—
-    (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Trans-Pacific Partnership Agreement Amendment Act 2016; and
-    (b) a copy of which is published and made available on the administrator’s website.
-  (2) The administrator must forward the instrument’s links to the Chief Parliamentary Counsel, without delay and in line with all applicable directions given under this section.
-  (3) The Chief Parliamentary Counsel must give all or any administrators, and ensure there is or are in force for all instruments, a direction or directions setting out, in general terms, the nature of their links and the form and manner in which they are to be forwarded.
+    (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018; and
+    (b) a copy of which is published and made available on the maker’s website.
+  (2) The maker must forward the instrument’s links to the Chief Parliamentary Counsel, without delay and in line with all applicable directions given under this section.
+  (3) The Chief Parliamentary Counsel must give all or any makers, and ensure there is or are in force for all instruments, a direction or directions setting out, in general terms, the nature of their links and the form and manner in which they are to be forwarded.
   (4) A direction given under this section—
-    (a) must as soon as practicable be published and made available on an Internet site maintained by or on behalf of the New Zealand Government:
+    (a) must as soon as practicable be published and made available on the central website:
     (b) is not a legislative instrument, or a disallowable instrument, for the purposes of this Act, and does not have to be presented to the House of Representatives under section 41.
-  The Chief Parliamentary Counsel must ensure that links forwarded under section 36F are as soon as practicable published and made available on the legislation website.
+  The Chief Parliamentary Counsel must ensure that the following are as soon as practicable published and made available on the central website:
+    (a) links forwarded under section 36F:
+    (b) legislative instruments published under section 6 (including instruments published under section 14).
 
 ### 64 Section 59 amended (Functions of PCO)
 (1) After section 59(1)﻿(f), insert:
@@ -899,18 +943,24 @@ This Part amends the Overseas Investment Act 2005 (the principal Act).
 ### 68 Section 13 amended (What are overseas investments in significant business assets)
 In section 13(1)﻿(a)﻿(ii), (b)﻿(ii), and (c), after $100 million, insert or an alternative monetary threshold that applies in accordance with regulations made under section 61A.
 
+### 68A Section 61 amended (Regulations)
+In section 61(1)﻿(i) (as replaced by section 46(4) of the Overseas Investment Amendment Act 2018), replace either or both of overseas investments in sensitive land and overseas investments in significant business assets with overseas investments in sensitive land.
+
 ### 69 New section 61A inserted (Regulations regarding alternative monetary thresholds for overseas investments in significant business assets)
 After section 61, insert:Regulations regarding alternative monetary thresholds for overseas investments in significant business assets
   (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in order to implement obligations in all or any of the following international agreements in respect of certain overseas investments in New Zealand in significant business assets by certain investors:
+    (aaa) the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018:
     (a) the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016:
     (b) the Free Trade Agreement between New Zealand and the Republic of Korea done at Seoul on 23 March 2015:
     (c) the Agreement between New Zealand and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Cooperation done at Wellington on 10 July 2013:
     (d) the Protocol on Investment to the New Zealand–Australia Closer Economic Relations Trade Agreement done at Wellington on 16 February 2011:
     (e) the New Zealand–Hong Kong, China Closer Economic Partnership Agreement done at Hong Kong on 29 March 2010:
-    (f) the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
+    (f) the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008:
+    (g) the Trans-Pacific Strategic Economic Partnership Agreement, done at Wellington on 18 July 2005.
   (2) Regulations made under subsection (1) may provide for alternative monetary thresholds under section 13 that apply, on terms and conditions (if any), to 1 or more classes of transactions, persons, interests, rights, and assets.
   (3) The Minister must be satisfied, before making a recommendation under this section, that the regulations do not provide for an alternative monetary threshold that is higher than the amount provided for in the relevant international agreement referred to in subsection (1), but the text of the regulations may otherwise differ from the text of an agreement.
   (4) Regulations made under subsection (1) may incorporate by reference any provisions of an international agreement referred to in that subsection.
+  (5) Regulations made under subsection (1) may be made only to implement obligations in an international agreement that has entered into force for New Zealand.
 
 ### 70 Schedule 1AA amended
 In Schedule 1AA, after Part 1, insert the Part 2 set out in Schedule 3 of this Act.
@@ -1041,10 +1091,10 @@ After section 146, insert: Other instances of no infringement
   See also section 111I (exclusive rights of patentee are limited if extension granted on ground of unreasonable curtailment).
 
 ### 77 Schedule 1AA amended
-In Schedule 1AA, after Part 1 (as inserted by section 6 of the Patents (Trans-Tasman Patent Attorneys and Other Matters) Amendment Act 2016), insert:Transitional and savings provisions arising from Trans-Pacific Partnership Agreement Amendment Act 2016New 1-year grace period applies only to public disclosures that occur on or after commencementSections 111A and 111B apply only if patent date is on or after commencementSections 111C to 111G apply only if marketing approval application is made on or after commencement
-  Section 9(1)﻿(f) applies only to disclosures that occur on or after the commencement of section 72 of the Trans-Pacific Partnership Agreement Amendment Act 2016.
-  Sections 111A and 111B (extension of term if unreasonable delay in granting patent) apply only to a patent with a patent date that is on or after the commencement of section 75 of the Trans-Pacific Partnership Agreement Amendment Act 2016.
-  Sections 111C to 111G (extension of term if unreasonable curtailment of effective patent term as result of marketing approval process) apply only if the marketing approval application is made on or after the commencement of section 75 of the Trans-Pacific Partnership Agreement Amendment Act 2016.
+In Schedule 1AA, after Part 1 (as inserted by section 6 of the Patents (Trans-Tasman Patent Attorneys and Other Matters) Amendment Act 2016), insert:Transitional and savings provisions arising from Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018New 1-year grace period applies only to public disclosures that occur on or after commencementSections 111A and 111B apply only if patent date is on or after commencementSections 111C to 111G apply only if marketing approval application is made on or after commencement
+  Section 9(1)﻿(f) applies only to disclosures that occur on or after the commencement of section 72 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
+  Sections 111A and 111B (extension of term if unreasonable delay in granting patent) apply only to a patent with a patent date that is on or after the commencement of section 75 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
+  Sections 111C to 111G (extension of term if unreasonable curtailment of effective patent term as result of marketing approval process) apply only if the marketing approval application is made on or after the commencement of section 75 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
 
 ## Part 8 — Amendments to Tariff Act 1988
 
@@ -1053,6 +1103,8 @@ This Part amends the Tariff Act 1988 (the principal Act).
 
 ### 79 Section 2 amended (Interpretation)
 In section 2(1), insert in their appropriate alphabetical order:
+  - **CPTPP** means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018
+  - **specified CPTPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(baa) to be a specified CPTPP party for the purposes of this Act
   - **specified TPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(ba) to be a specified TPP party for the purposes of this Act
   - **TPP** means the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016
 
@@ -1063,13 +1115,15 @@ In section 2(1), insert in their appropriate alphabetical order:
 
 ### 81 Section 7A amended (Orders in Council about preferential countries)
 (1) After section 7A(1)﻿(b), insert:
+  (baa) declare a country that is a party to the CPTPP to be a specified CPTPP party for the purposes of this Act:
   (ba) declare a country that is a party to the TPP to be a specified TPP party for the purposes of this Act:
-(2) In section 7A(3), after specified TPA party, insert , a specified TPP party,.
+(2) In section 7A(3), after specified TPA party, insert , a specified CPTPP party, a specified TPP party,.
 
 ### 82 Section 15A amended (Interpretation)
 (1) In section 15A, definition of free trade agreement, replace paragraph (e) with:
   (e) the Republic of Korea FTA; or
-  (f) the TPP
+  (f) the CPTPP; or
+  (g) the TPP
 (2) In section 15A, insert in their appropriate alphabetical order:
   - **emergency action investigation** means an emergency action investigation started under section 15B(1A)
   - **emergency action measure** means an emergency action measure applied under section 15F
@@ -1078,7 +1132,7 @@ In section 2(1), insert in their appropriate alphabetical order:
 ### 83 Section 15B amended (Chief executive may undertake transitional safeguard investigation)
 (1) In the heading to section 15B, after safeguard, insert or emergency action.
 (2) After section 15B(1), insert:
-  (1A) The chief executive may undertake an emergency action investigation to ascertain whether textile or apparel goods that have been subject to tariff reduction or removal after the entry into force of the TPP—
+  (1A) The chief executive may undertake an emergency action investigation to ascertain whether textile or apparel goods that have been subject to tariff reduction or removal after the entry into force of the CPTPP or the TPP—
     (a) are being imported in increased quantities (in absolute terms or relative to the domestic market); and
     (b) are causing, or threatening to cause, serious damage to an industry producing a like or directly competitive good.
 (3) In section 15B(2),—
@@ -1115,7 +1169,7 @@ In section 2(1), insert in their appropriate alphabetical order:
   (aa) any emergency action measure is applied only to the extent necessary to prevent or remedy serious damage and facilitate adjustment; and
 (7) In section 15F(4)﻿(b) to (d), (5), and (6), after transitional safeguard, insert or emergency action.
 (8) After section 15F(6), insert:
-  (7) If the Minister applies an emergency action measure under this section, the chief executive must, in respect of each year or part of a year that the measure remains in force, provide a report to the affected TPP party on the action.
+  (7) If the Minister applies an emergency action measure under this section, the chief executive must, in respect of each year or part of a year that the measure remains in force, provide a report to the affected CPTPP or TPP party, as the case may be, on the action.
 
 ### 87 Section 15G amended (Extension of transitional safeguard measure)
 (1) In the heading to section 15G, after safeguard, insert or emergency action.
@@ -1123,7 +1177,7 @@ In section 2(1), insert in their appropriate alphabetical order:
 
 ### 88 Section 15H amended (Provisional transitional safeguard measure)
 After section 15H(7), insert:
-  (8) No provisional transitional safeguard measure may be applied under the TPP.
+  (8) No provisional transitional safeguard measure may be applied under the CPTPP or the TPP.
 
 ## Part 9 — Amendments to the Tariff
 
@@ -1131,10 +1185,12 @@ After section 15H(7), insert:
 This Part, in accordance with section 9F(1) of the Tariff Act 1988, amends the Tariff.
 
 ### 90 Tariff, note 2 amended
-In the notes to the Tariff, note 2, penultimate paragraph, after TPA, insert , TPP.
+(1) In the notes to the Tariff, note 2, penultimate paragraph, after TPA, insert , TPP.
+(2) In the notes to the Tariff, note 2, penultimate paragraph, after CN, insert , CPT.
 
 ### 91 Tariff, note 3 amended
-In the notes to the Tariff, note 3, after the item relating to a country that is a specified TPA party, insert:The following table is small in size and has 2 columns. This table amends note 3 of the Tariff and should be read with that table to provide understanding of the context.Country that is a specified TPP partyTPP
+(1) In the notes to the Tariff, note 3, after the item relating to a country that is a specified TPA party, insert:The following table is small in size and has 2 columns. This table amends note 3 of the Tariff and should be read with that table to provide understanding of the context.Country that is a specified TPP partyTPP
+(2) In the notes to the Tariff, note 3, after the item relating to China, insert:The following table is small in size and has 2 columns. This table amends note 3 of the Tariff and should be read with that table to provide understanding of the context.Country that is a specified CPTPP partyCPT
 
 ## Part 10 — Amendments to Trade Marks Act 2002
 
@@ -1222,10 +1278,10 @@ In section 157(1), replace sections 146 to 156 with sections 135A, 135B, and 146
 ### 105 Principal regulations
 This Part amends the Wine Regulations 2006 (the principal regulations).
 
-### 106 New regulation 8A inserted (Labelling of grape ice wine for export following entry into force of Trans-Pacific Partnership Agreement)
-After regulation 8, insert:Labelling of grape ice wine for export following entry into force of Trans-Pacific Partnership Agreement
-  (1) After the expiry of the TPP transitional period, no person may export grape wine that is labelled as Icewine, ice wine, ice-wine, or a similar variation of those terms unless the grape wine is made exclusively from grapes naturally frozen on the vine.
-  (2) In subclause (1), TPP transitional period means the period of 3 years beginning with the date on which section 106 of the Trans-Pacific Partnership Agreement Amendment Act 2016 (which inserts this regulation) comes into force.
+### 106 New regulation 8A inserted (Labelling of grape ice wine for export)
+After regulation 8, insert:Labelling of grape ice wine for export
+  (1) After the expiry of the transitional period, no person may export grape wine that is labelled as Icewine, ice wine, ice-wine, or a similar variation of those terms unless the grape wine is made exclusively from grapes naturally frozen on the vine.
+  (2) In subclause (1), transitional period means the period of 3 years beginning with the date on which section 106 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018 (which inserts this regulation) comes into force.
 
 ### 107 Regulation 18 amended (Offences)
 (1) In regulation 18(1), after 8(1),, insert 8A,.
@@ -1237,7 +1293,7 @@ After regulation 8, insert:Labelling of grape ice wine for export following entr
 
 ### Schedule 1 — Transitional, savings, and related provisions
 
-#### Part 1 — Provisions relating to Trans-Pacific Partnership Agreement Amendment Act 2016
+#### Part 1 — Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
 
 ### 1 Applying Article 2.30.2 of Trans-Pacific Partnership Agreement
 (1) This clause applies in relation to the first quota year for which US TPP rights are available if, in accordance with Article 2.30.2 of the Trans-Pacific Partnership Agreement (done at Auckland on 4 February 2016), the rights apply to part of the quota year only.
@@ -1246,13 +1302,13 @@ After regulation 8, insert:Labelling of grape ice wine for export following entr
 
 ## Schedule 3 — Schedule 1AA of Overseas Investment Act 2005 amended
 
-### Part 2 — Provisions relating to Trans-Pacific Partnership Agreement Amendment Act 2016
+### Part 2 — Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
 
 ### 11 Application
-The amendments to the Act made by the Trans-Pacific Partnership Agreement Amendment Act 2016, and the regulations made under section 61A, apply only to the acquisition of rights or interests in securities or of other property, or the establishment of any business, after the commencement of the Trans-Pacific Partnership Agreement Amendment Act 2016.
+The amendments to the Act made by the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018, and the regulations made under section 61A, apply only to the acquisition of rights or interests in securities or of other property, or the establishment of any business, after the commencement of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
 
 ### 12 No refunds
 No person is entitled to a refund of any fee or charge paid to the regulator for a matter under Schedule 2 of the Overseas Investment Regulations 2005 on the ground that regulations made under section 61A mean that the matter is no longer relevant (for example, that a consent that had been applied for is no longer required).
 
 ### 13 Validation of exemptions for Australian investors
-Nothing in the Trans-Pacific Partnership Agreement Amendment Act 2016 affects the validity of the Overseas Investment (Australia) Amendment Regulations 2013, which are also declared to have been lawfully made and to be and always have been valid.
+Nothing in the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018 affects the validity of the Overseas Investment (Australia) Amendment Regulations 2013, which are also declared to have been lawfully made and to be and always have been valid.
