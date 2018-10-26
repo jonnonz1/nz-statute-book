@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-10-26_
 
 > Title
 
@@ -34,7 +34,6 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **Commission** —
     (a) means the Commerce Commission established under Part 1; or
     (b) for the purposes of determining any matter or class of matter specified in a direction under section 16(1), means the Division of the Commission specified in the direction in accordance with section 16(5)
-  - **Commissioner** means a Commissioner appointed under section 74AA(1)
   - **court** means the High Court of New Zealand
   - **covenant** means a covenant (including a promise not under seal) annexed to or running with an estate or interest in land (whether at law or in equity and whether or not for the benefit of other land); and has a corresponding meaning
   - **credit instrument** means any agreement (whether in writing or not) acknowledging an obligation to pay a sum or sums of money on demand or at any future time or times
@@ -74,6 +73,10 @@ The purpose of this Act is to promote competition in markets for the long-term b
   - **price** , includes valuable consideration in any form, whether direct or indirect; and includes any consideration that in effect relates to the acquisition or supply of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
   - **price fixing** has the meaning given in section 30A(2)
   - **provision** , in relation to an understanding or arrangement, means any matter forming part of or relating to the understanding or arrangement
+  - **publicly available** , in relation to making a document or information available, means that—
+    (a) the document or information is available for inspection, free of charge, on an Internet site that is publicly accessible at all reasonable times; and
+    (b) a copy of the document or information is available for inspection at all reasonable times, free of charge, at the head office of the person that is required to make it publicly available or, if the person is the Minister, at the head office of the department responsible for the administration of this Act; and
+    (c) copies of the document may be purchased by any person at a reasonable price
   - **restricting output** has the meaning given in section 30A(3)
   - **services** includes any rights (including rights in relation to, and interests in, real or personal property), benefits, privileges, or facilities that are or are to be provided, granted, or conferred in trade; and, without limiting the generality of the foregoing, also includes the rights, benefits, privileges, or facilities that are or are to be provided, granted, or conferred under any of the following classes of contract:but does not include rights or benefits in the form of the supply of goods or the performance of work under a contract of service
     (a) a contract for, or in relation to,—
@@ -403,7 +406,7 @@ In this Act, in relation to a cartel provision,—
 
 ### 30C Cartel provisions generally unenforceable
 (1) No cartel provision is enforceable.
-(2) However, nothing in subsection (1) affects the enforceability of a cartel provision in any contract to which section 31, 32, 33, 44A(4) and (5), or 44B applies.
+(2) However, nothing in subsection (1) affects the enforceability of a cartel provision in any contract to which section 31, 32, 33, 44A(4) or (5), or 44B applies.
 
 ### 31 Exception for collaborative activity
 Exception for entering into cartel provision
@@ -415,7 +418,7 @@ Exceptions for giving effect to cartel provision
   (a) the person and 1 or more other parties to the contract, arrangement, or understanding that contains the provision are involved in a collaborative activity; and
   (b) the cartel provision is reasonably necessary for the purpose of the collaborative activity.
 (3) Nothing in section 30(b) applies to a person in relation to a cartel provision that constitutes a restraint of trade if—
-  (a) the person and 1 or more other parties to the contract, arrangement, or understanding were involved in a collaborative activity that has ended; and
+  (a) the person and 1 or more other parties to the contract, arrangement, or understanding that contains the provision were involved in a collaborative activity that has ended; and
   (b) the cartel provision was reasonably necessary for the purpose of the collaborative activity; and
   (c) the collaborative activity did not end because the lessening of competition between any 2 or more parties became its dominant purpose.
 Meaning of collaborative activity
@@ -653,6 +656,84 @@ Nothing in this Part applies—
 ### 51 Contracts subject to condition of clearance or authorisation
 [Repealed]
 
+## Part 3A — Competition studies
+
+### 48 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **competition report** means a report prepared by the Commission under section 51B
+  - **competition study** means a study of any factors that may affect competition for the supply or acquisition of goods or services
+  - **department** means a department of the public service specified in Schedule 1 of the State Sector Act 1988
+  - **organisation** means any of the following:
+    (a) an organisation named in Part 2 of Schedule 1 of the Ombudsmen Act 1975:
+    (b) an organisation named in Schedule 1 of the Official Information Act 1982:
+    (c) the Auditor-General.
+
+### 49 Functions of Commission under this Part
+The functions of the Commission under this Act include carrying out competition studies, and preparing competition reports, under this Part.
+
+### 50 Commission may carry out competition study
+(1) The Commission may carry out a competition study if the Commission considers it to be in the public interest to do so.
+(2) Before carrying out a competition study, the Commission must, by notice in the Gazette,—
+  (a) prescribe the terms of reference for the study; and
+  (b) specify the date by which the Commission will make the final competition report for the study publicly available.
+(3) A copy of the notice must be made publicly available.
+(4) The Commission may amend the notice in the manner set out in subsections (1) to (3).
+(5) The Commission may revoke the notice by further notice in the Gazette.
+
+### 51 Minister may require Commission to carry out competition study
+(1) The Minister may, by notice in the Gazette, require the Commission to carry out a competition study if the Minister considers it to be in the public interest to do so.
+(2) The notice must—
+  (a) prescribe the terms of reference for the study; and
+  (b) specify the date by which the Commission must make the final report for the study publicly available.
+(3) A copy of the notice must be made publicly available.
+(4) Before issuing the notice, the Minister must consult the Commission on a draft of the notice.
+(5) The Minister may amend the notice in the manner set out in subsections (1) to (4).
+(6) The Minister, having first consulted with the Commission, may revoke the notice by further notice in the Gazette.
+
+### 51A Competition study terms of reference
+(1) The terms of reference for a competition study must—
+  (a) specify the goods or services, or both, to which the study relates; and
+  (b) describe the scope of the study.
+(2) If the study is required by the Minister, the terms of reference may require the Commission to consult any of the following as part of the study:
+  (a) departments:
+  (b) organisations:
+  (c) persons:
+  (d) classes of persons.
+(3) If the Commission is carrying out the study on its own initiative, the terms of reference may name any of the following that it intends to consult as part of the study:
+  (a) departments:
+  (b) organisations:
+  (c) persons:
+  (d) classes of persons.
+(4) The Commission—
+  (a) must carry out the competition study in accordance with the terms of reference; and
+  (b) may exercise its discretion in relation to any ancillary matters that are related to, but not explicitly covered by, the terms of reference.
+
+### 51B Preparation of competition report
+(1) The Commission must prepare a competition report that records its findings from the competition study.
+(2) The Commission may make recommendations in the report but it is not required to do so.
+(3) The recommendations may, without limitation, include 1 or more of the following:
+  (a) changes to legislation or other instruments:
+  (b) changes to the policies or practices of central or local government:
+  (c) changes to the policies or practices of a person or an organisation responsible for the oversight or regulation of a specified industry:
+  (d) changes to the amount or type of information made available by a person or an organisation in relation to a specified industry:
+  (e) that a person or an organisation research or monitor a specified matter:
+  (f) that persons within a specified industry change their behaviour.
+
+### 51C Consultation on draft competition report
+(1) Before a competition report is finalised, the Commission must—
+  (a) make a draft report publicly available; and
+  (b) allow a reasonable time for comments on the draft.
+(2) In preparing its final report, the Commission must have regard to any comments received on the draft report within the time allowed.
+
+### 51D Publication and status of competition report
+(1) The Commission must—
+  (a) provide the final competition report to the Minister; and
+  (b) at least 5 working days later, make the final competition report publicly available.
+(2) To avoid doubt, a competition report is not a determination of the Commission.
+
+### 51E Minister must respond to competition report
+The Minister must respond to the final competition report within a reasonable time after the report is made publicly available.
+
 ## Part 4 — Regulated goods or services
 
 ### Subpart 1 — Preliminary provisions
@@ -690,15 +771,13 @@ In this Part, unless the context otherwise requires,—
   - **consumer** (other than in sections 54C, 54D, and 55A) means a person that consumes or acquires regulated goods or services
   - **information disclosure requirement** means a requirement that applies to a supplier of goods or services that are subject to information disclosure regulation, and is specified in a section 52P determination
   - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published by the Commission under section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
-  - **inquiry** means an inquiry by the Commission carried out in accordance with sections 52H to 52J
+  - **inquiry** means,—
+    (a) for the purposes of subpart 11, an inquiry by the Commission into the regulation of specified airport services that is carried out in accordance with sections 56F to 56H; and
+    (b) for all other purposes, an inquiry by the Commission that is carried out in accordance with sections 52H to 52J
   - **price** —
     (a) means any 1 or more of individual prices, aggregate prices, or revenues (whether in the form of specific numbers, or in the form of formulas by which specific numbers are derived); and
     (b) includes any related terms of payment
   - **pricing methodologies** means methodologies for setting the prices of individual goods or services, or classes of goods or services, and includes methodologies for setting different prices for different customer groups
-  - **publicly available** , in relation to making a document or information available, means that—
-    (a) the document or information is available for inspection, free of charge, on an Internet site that is publicly accessible at all reasonable times; and
-    (b) a copy of the document or information is available for inspection at all reasonable times, free of charge, at the head office of the person that is required to make it publicly available or, if the person is the Minister, at the head office of the department responsible for the administration of this Act; and
-    (c) copies of the document may be purchased by any person at a reasonable price
   - **publicly disclose** , in relation to information required to be disclosed under information disclosure regulation, means to disclose information to the public in the manner required by a section 52P determination
   - **regulated** means regulated under this Part
   - **regulated goods or services** means goods or services that are declared to be regulated—
@@ -845,7 +924,8 @@ In this Part, unless the context otherwise requires,—
 (1) The Commission must make determinations under this section specifying how the relevant forms of regulation apply to suppliers of regulated goods or services.
 (2) Determinations must be made,—
   (a) in the case of goods or services declared to be regulated by an Order in Council under section 52N, as soon as practicable after the Order in Council is made; and
-  (b) in the case of goods or services declared to be regulated under any of subparts 9 to 11, in accordance with sections 54I, 54J, 54K, 55E, and 56E.
+  (b) in the case of goods or services declared to be regulated under subparts 9 and 10, in accordance with sections 54I, 54J, 54K, and 55E; and
+  (c) in the case of regulation being imposed on specified airport services under section 56K, in accordance with section 56L.
 (3) Determinations must—
   (a) set out, for each type of regulation to which the goods or services are subject, the requirements that apply to each regulated supplier; and
   (b) set out any time frames (including the regulatory periods) that must be met or that apply; and
@@ -904,8 +984,8 @@ Every relevant input methodology relating to the supply of particular goods or s
 (3) Any methodologies referred to in subsection (1)﻿(a)﻿(iii) must not unduly deter investment by a supplier of regulated goods or services in the provision of other goods or services.
 
 ### 52U When input methodologies must be determined
-(1) The Commission must determine input methodologies for the goods or services regulated under subparts 9 to 11 no later than 30 June 2010.
-(2) The Minister may, on the written request of the Commission, extend the deadline referred to in subsection (1) once, by a period of up to 6 months, in which case notice of the extension must be given in the Gazette.
+(1)
+(2)
 (3) The Commission must determine input methodologies for any goods or services that are the subject of an inquiry as soon as practicable after the Commission is satisfied that the parts of the test for the regulation of goods or services set out in paragraphs (a) and (b) of section 52G(1) are satisfied.
 
 ### 52V Commission process for determining input methodologies
@@ -982,6 +1062,7 @@ The purpose of information disclosure regulation is to ensure that sufficient in
 (2) If a supplier of goods or services is subject to information disclosure regulation, the Commission—
   (a) may monitor and analyse all information disclosed in accordance with the information disclosure requirements; and
   (b) must, as soon as practicable after any information is publicly disclosed, publish a summary and analysis of that information for the purpose of promoting greater understanding of the performance of individual regulated suppliers, their relative performance, and the changes in performance over time.
+(3) To avoid doubt, the Commission may, as part of a summary and analysis, include an analysis of how effective the information disclosure requirements imposed on the goods or services are in promoting the purpose of this Part.
 
 ### 53C Section 52P determination to set out information disclosure requirements
 (1) A section 52P determination relating to goods or services that are subject to information disclosure regulation must—
@@ -1237,7 +1318,7 @@ The time frames specified in sections 53S and 53T may, with the agreement of the
 ### Subpart 8 — Miscellaneous provisions
 
 ### 53ZD Powers of Commission under this Part
-For the purpose of carrying out its functions and exercising its powers under this Part, the Commission may, in addition to exercising its powers under section 98, do any of the following:
+(1) For the purpose of carrying out its functions and exercising its powers under this Part, the Commission may, in addition to exercising its powers under section 98, do any of the following:
   (a) consult with any person the Commission considers may assist it:
   (b) investigate any of the following:
     (i) how effectively and efficiently any supplier of the goods or services is supplying the goods or services:
@@ -1251,6 +1332,7 @@ For the purpose of carrying out its functions and exercising its powers under th
     (i) produce or supply to the Commission documents and information in relation to the goods or services, or the prices or operations of the person in respect of the goods or services:
     (ii) to answer any questions about any matter that the Commission has reason to believe may be relevant to the investigation, audit, or inquiry:
   (f) by notice in writing, require any supplier of the goods or services, at the time and place specified in the notice, to produce or supply to the Commission an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to the matters in paragraph (b), (c), (d), or (e)﻿(i).
+(2) In subsection (1)﻿(e), inquiry also means an inquiry carried out in accordance with sections 56F to 56H.
 
 ### 53ZE Levies
 (1) Every supplier of regulated goods or services (or prescribed class of suppliers of regulated goods or services) must pay to the Minister the levy determined in accordance with regulations made under subsection (2).
@@ -1645,56 +1727,130 @@ Gas pipeline services are subject to default/customised price-quality regulation
 **Overview and interpretation**
 
 ### 56 Overview of subpart
-(1) This subpart provides—
-  (a) that specified airport services (at Auckland, Wellington, and Christchurch airports) are subject to information disclosure under this Part; and
-  (b) for the transition to the new regime provided for in this Part; and
-  (c) for a review of the new regime as soon as any new price is set in 2012 for specified airport services.
+(1) This subpart provides that—
+  (a) specified airport services are subject to information disclosure regulation under this Part; and
+  (b) negotiate/arbitrate regulation, default/customised price-quality regulation, or individual price-quality regulation may be imposed on specified airport services after an inquiry; and
+  (c) other services may be declared specified airport services by Order in Council.
 (2) This section is only a guide.
 
-### 56A Meaning of specified airport services
-(1) In this Part, unless the context otherwise requires, specified airport services means all of the services supplied by the companies referred to in subsection (2) in markets directly related to the following activities (whether for international and domestic flights):
+### 56A Interpretation
+(1) In this subpart,—
+  - **specified airport company** means—
+    (a) the company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport; and
+    (b) the company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport; and
+    (c) the airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport
+  - **specified airport services** means all of the services supplied by specified airport companies in markets directly related to the following activities (whether for international or domestic flights):
   (a) aircraft and freight activities:
   (b) airfield activities:
   (c) specified passenger terminal activities:
-  (d) any other services that are determined by the Governor-General, by Order in Council made on the recommendation of the Minister under subsection (4), to be specified airport services for the purposes of this Part.
-(2) The companies are—
-  (a) the company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
-  (b) the company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
-  (c) the airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport.
-(3) Terms used in subsection (1)﻿(a) to (c) have the same meanings as in section 2 of the Airport Authorities Act 1966.
-(4) The Minister may recommend that an Order in Council be made under subsection (1)﻿(d) only if the Minister is satisfied that—
-  (a) the Commission has made a recommendation to the same effect; and
-  (b) the services are supplied in a market where any or all of the companies referred to in subsection (2) have a substantial degree of market power; and
-  (c) the Commission has consulted (without necessarily holding an inquiry) with interested parties.
+  (d) any other services declared to be specified airport services by Order in Council made under section 56M.
+(2) In subsection (1), aircraft and freight activities, airfield activities, and specified passenger terminal activities have the same meanings as in section 2 of the Airport Authorities Act 1966.
 
-**Imposition of regulation under this Part**
+**Specified airport services regulated under this Part**
 
 ### 56B Specified airport services declared to be regulated
 Specified airport services are regulated under this Part.
 
-### 56C Specified airport services are subject to information disclosure regulation
+### 56C Specified airport services subject to information disclosure regulation
 Specified airport services are subject to information disclosure regulation under this Part.
 
-### 56D Duty to also disclose to Secretary of Transport
-Each supplier of specified airport services must supply to the Secretary of Transport a copy of any information disclosed under this Part, as soon as practicable after so disclosing it.
+### 56D Specified airport services subject to additional regulation if imposed by Order in Council
+In addition to information disclosure regulation, specified airport services are subject to the type of regulation (if any) imposed by Order in Council made under section 56K.
 
-### 56E Commission must make determination specifying how subpart applies
-The section 52P determinations that specify how information disclosure regulation applies to each supplier of specified airport services must be made no later than 1 July 2010 (or, if the deadline for determining input methodologies is extended under section 52U(2), no later than the day after the date to which that deadline is extended).
+**Duty to supply information to Secretary**
 
-**How information disclosure regulation applies**
+### 56E Duty to supply information to Secretary
+A specified airport company must, as soon as practicable after disclosing information under this Part, supply a copy of the information to the Secretary (as defined in section 2(1) of the Civil Aviation Act 1990).
 
-### 56F Transitional provision until Commission publishes information disclosure requirements
-(1) The Airport Authorities (Airport Companies Information Disclosure) Regulations 1999 continue to apply to each supplier of specified airport services in respect of every financial year that precedes the first financial year to which a determination made by the Commission under section 56E applies to that supplier.
-(2) After that, no regulations made under section 9A of the Airport Authorities Act 1966 apply to that supplier.
-(3) Each supplier of specified airport services must supply to the Commission a copy of any information disclosed under those regulations, as soon as practicable after so disclosing.
-(4) The Commission may monitor and analyse any information supplied to it under this section.
+**Commission inquiry into regulation of specified airport services**
 
-### 56G Transitional provision requiring review after new prices set
-(1) As soon as practicable after any new price for a specified airport service is set in or after 2012 by a supplier of the service, the Commission must—
-  (a) review the information that has been disclosed by suppliers of specified airport services under subpart 4; and
-  (b) consult (without necessarily holding an inquiry) with interested parties; and
-  (c) report to the Ministers of Commerce and Transport as to how effectively information disclosure regulation under this Part is promoting the purpose in section 52A in respect of the specified airport services.
-(2) To avoid doubt, subsection (1) applies regardless of whether or not any new price for a specified airport service is set before 2012.
+### 56F How inquiry triggered
+(1) The Commission—
+  (a) must hold an inquiry into the regulation of specified airport services if required to do so by the Minister; and
+  (b) may hold an inquiry on its own initiative.
+(2) Any requirement by the Minister must—
+  (a) be in writing; and
+  (b) specify the date by which the Commission must make a recommendation to the Minister under section 56H.
+
+### 56G Commission inquiry
+(1) In conducting an inquiry into the regulation of specified airport services, the Commission must consider—
+  (a) whether, in addition to information disclosure regulation, 1 of the following types of regulation should be imposed on the services:
+    (i) negotiate/arbitrate regulation:
+    (ii) default/customised price-quality regulation:
+    (iii) individual price-quality regulation; and
+  (b) if so, how that type of regulation should apply to specified airport companies.
+(2) As part of the inquiry, the Commission must—
+  (a) determine or amend (and then apply) input methodologies for the supply of the services, in accordance with subpart 3; and
+  (b) when considering whether a type of regulation might be imposed, assess the benefits of imposing different types of regulation in meeting the purpose of this Part against the costs of imposing those types of regulation.
+(3) The input methodologies must be determined or amended as soon as practicable after the inquiry is triggered.
+(4) During an inquiry, the Commission may have regard to any other matters it considers necessary or desirable for the purpose of the inquiry.
+(5) An inquiry under this section must follow the process set out in section 52J.
+
+### 56H Commission’s recommendations following inquiry
+(1) At the end of an inquiry, having considered the matters in section 56G, the Commission must make a recommendation to the Minister on whether 1 of the following should be imposed on specified airport services:
+  (a) negotiate/arbitrate regulation:
+  (b) default/customised price-quality regulation:
+  (c) individual price-quality regulation.
+(2) If the Commission recommends imposing a type of regulation specified in subsection (1), its recommendation must state the following:
+  (a) the type of regulation that is recommended:
+  (b) what input methodologies apply:
+  (c) if negotiate/arbitrate regulation is recommended, the material provisions of the negotiation process and arbitration process:
+  (d) if default/customised price-quality regulation is recommended, the default price path and quality standards:
+  (e) if individual price-quality regulation is recommended, the material provisions to apply.
+(3) The Minister must publish the Commission’s recommendation, and may do so in whatever way the Minister considers appropriate.
+(4) To avoid doubt, a recommendation by the Commission is not a determination of the Commission.
+
+**Order in Council imposing additional type of regulation**
+
+### 56I Minister must consider Commission’s recommendation
+(1) The Minister must consider any recommendation of the Commission made under section 56H.
+(2) When considering the recommendation, the Minister—
+  (a) must consult with the Minister of Transport; and
+  (b) may request further information or advice from the Commission.
+(3) If the Minister proposes a different type of regulation to the type that the Commission recommends, the Minister must request written advice from the Commission on what the material provisions of a section 52P determination would be likely to be under the Minister’s proposal.
+(4) Any request by the Minister under subsection (3), and the Commission’s advice on it, must be made publicly available.
+(5) If the Commission receives a request under subsection (3), it may, at its discretion,—
+  (a) consult with interested parties; or
+  (b) reopen its inquiry, in which case section 52J applies with all necessary modifications.
+
+### 56J Minister’s decision and recommendation
+(1) Having considered the Commission’s recommendation in accordance with section 56I and any written advice given following a request under section 56I(3), the Minister must—
+  (a) decide whether, in addition to information disclosure regulation, 1 of the following types of regulation should be imposed on specified airport services:
+    (i) negotiate/arbitrate regulation:
+    (ii) default/customised price-quality regulation:
+    (iii) individual price-quality regulation; and
+  (b) if so, make a recommendation to the Governor-General specifying the type of regulation that should be imposed.
+(2) The Minister’s decision may be the same as, or different from, the Commission’s recommendation under section 56H.
+(3) If the Minister’s decision is different from the Commission’s recommendation, the Minister must set out the reasons for the decision and make the decision, with the reasons, publicly available.
+
+### 56K Order in Council imposing additional type of regulation
+(1) The Governor-General may, on the recommendation of the Minister made under section 56J, make an Order in Council imposing 1 of the following types of regulation on specified airport services:
+  (a) negotiate/arbitrate regulation:
+  (b) default/customised price-quality regulation:
+  (c) individual price-quality regulation.
+(2) The order must include an expiry date (which must be no later than 20 years after the commencement date) at the close of which the order is revoked.
+(3) Despite subsection (2), the order may be earlier revoked in the manner in which it was made.
+(4) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 56L Commission determination about how regulation applies
+(1) As soon as practicable after an Order in Council is made under section 56K, the Commission must make a section 52P determination specifying how the type of regulation imposed by the order will apply to specified airport services.
+(2) The determination must not differ in any material respect from the recommendation under section 56H, or (if applicable) from any advice given to the Minister under section 56I(3).
+
+**Declaring services to be specified airport services**
+
+### 56M Order in Council declaring specified airport services
+(1) The Governor-General may, on the recommendation of the Minister, make an Order in Council declaring 1 or more services to be specified airport services for the purposes of this subpart.
+(2) Before recommending that an Order in Council be made, the Minister must be satisfied that—
+  (a) the Commission has made a recommendation to the same effect; and
+  (b) the Commission has consulted (without necessarily holding an inquiry) with interested parties.
+(3) Before making a recommendation under subsection (2)﻿(a), the Commission—
+  (a) must assess the benefits, in meeting the purpose of this Part, of declaring the services to be specified airport services against the costs of declaring the services to be specified airport services; and
+  (b) must be satisfied that the services are supplied in a market where 1 or more of the specified airport companies have a substantial degree of market power.
+
+**Subpart 2 not limited**
+
+### 56N Subpart 2 not limited
+This subpart does not limit subpart 2, which allows for regulation to be imposed on particular goods or services.
 
 ### 57 Commission process
 [Repealed]
@@ -2080,6 +2236,7 @@ Nothing in section 27, 47, or 47A applies to the acquisition of assets of a busi
 (1) In giving a clearance or granting an authorisation under section 66 or section 67, the Commission may accept a written undertaking given by or on behalf of the person who gave a notice under section 66(1) or section 67(1), as the case may be, to dispose of assets or shares specified in the undertaking.
 (2) The Commission shall not accept an undertaking in relation to the giving of a clearance or the granting of an authorisation under section 66 or section 67, other than an undertaking given under subsection (1).
 (3) An undertaking given to the Commission under subsection (1) is deemed to form part of the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates.
+(4) This section overrides section 74A.
 
 ### 69AB Authorisation or clearance void if undertaking contravened
 (1) If a person contravenes an undertaking accepted under section 69A, the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates is void and of no effect from the date it was given or granted.
@@ -2139,66 +2296,47 @@ Nothing in section 27, 47, or 47A applies to the acquisition of assets of a busi
 
 ## Part 6 — Enforcement, remedies, and appeals
 
-**Cease and desist orders**
+**Power to accept undertakings**
 
-### 74AA Cease and desist Commissioners
-(1) The Governor-General, on the recommendation of the Minister (which recommendation may be given only after consultation by the Minister with the Attorney-General), must appoint 2 persons as Commissioners for the sole purpose of hearing cease and desist applications in accordance with sections 74A to 74C.
-(2) The Minister may not recommend a person for appointment as a Commissioner unless that person—
-  (a) is a barrister or solicitor; and
-  (b) would qualify for appointment as a member of the Commission under section 9(4)﻿(a) of this Act and sections 29(2) and 30(2) of the Crown Entities Act 2004.
-(3) The notice of appointment must—
-  (a) state—
-    (i) the date on which the appointment takes effect; and
-    (ii) the term of appointment, which may be 5 years or any shorter period that is stated in the notice; and
-  (b) be published by the Minister in the Gazette as soon as practicable after being given.
-(4) Section 106 of this Act and sections 31, 32(2) to (4), 34, 35, 39 to 45, 47, 48, 62 to 68, 122 to 126 (as applied by section 106(3B) of this Act), and 188 to 190 of the Crown Entities Act 2004 apply to a Commissioner, with any necessary modification, as if he or she were a member of the Commission.
-(5) A Commissioner must act independently of the Commission in carrying out his or her functions under this Act.
-(6) The Commission must include in its annual report under section 150 of the Crown Entities Act 2004 the information in section 152(1)﻿(a) and (d) to (f) of that Act, in respect of each Commissioner.
+### 74AA Commission may accept undertakings
+[Repealed]
 
-### 74A Commissioner may make cease and desist orders
-(1) A Commissioner may make a cease and desist order, by consent or following a hearing held under section 74C, if the Commissioner is satisfied that—
-  (a) a prima facie case has been made out that a person has engaged in any conduct referred to in section 80(1) or section 83(1); and
-  (b) it is necessary to act urgently—
-    (i) to prevent a particular person or consumers from suffering serious loss or damage:
-    (ii) in the interests of the public.
-(2) Subject to subsection (3)﻿(a), the effect of a cease and desist order is to restrain conduct for any period and on any terms that are specified in the order.
-(3) A cease and desist order made under subsection (1)—
-  (a) may require a person to do something only if the Commissioner is satisfied that restraining the person from engaging in the conduct will not restore competition, or the potential for competition, in a market:
-  (b) must be in writing with the facts and reasons for it clearly set out:
-  (c) is deemed to be a determination of the Commission that is subject to appeal in accordance with sections 91 to 97.
+### 74A Commission may accept undertakings
+(1) The Commission may accept a written undertaking given by, or on behalf of, a person in connection with any matter relating to the enforcement of this Act.
+(2) The person may withdraw or vary the undertaking with the consent of the Commission.
+(3) See section 69A, which overrides this section in respect of undertakings relating to clearances or authorisations for business acquisitions.
 
-### 74B Investigation, notice, and opportunity to be heard
-A cease and desist order may be made under section 74A only if—
-  (a) an investigation has been conducted into the alleged contravention of this Act and a report has been submitted to the Commission recommending that a cease and desist order be sought; and
-  (b) the Commission agrees with the recommendation in the report and directs an employee of the Commission to make an application for a cease and desist order; and
-  (c) the person against whom an order is sought is served with notice in writing of the following matters:
-    (i) the nature of the alleged contravention:
-    (ii) the terms of the proposed order:
-    (iii) the reasons for the order; and
-  (d) the person against whom an order is sought has an opportunity to—
-    (i) access the relevant information held by the Commission:
-    (ii) make a written submission:
-    (iii) consent to the terms of the proposed order or have the matter determined by a Commissioner following a hearing.
+### 74B Matters included in undertakings
+(1) An undertaking under section 74A may, without limitation, include either or both of the following:
+  (a) an undertaking to pay compensation to any person or otherwise take action to avoid, remedy, or mitigate any actual or likely adverse effects arising from a contravention, or possible contravention, of this Act:
+  (b) an undertaking to pay to the Commission all or part of the Commission’s costs incurred in investigating, or bringing proceedings in relation to, a contravention, or possible contravention, of this Act.
+(2) However, the Commission may accept an undertaking relating to the enforcement of section 47 only if the undertaking is to dispose of assets or shares specified in the undertaking.
+(3) If the Commission accepts an undertaking that involves payment of compensation to any person, or payment of the Commission’s costs, the Commission must make the following information publicly available:
+  (a) the amount of the compensation, or of the Commission’s costs, that has been undertaken to be paid; and
+  (b) a brief description of the circumstances and nature of the contravention or possible contravention of this Act to which the undertaking relates.
+(4) In this section, a contravention means any of the following:
+  (a) an actual contravention:
+  (b) aiding, abetting, counselling, or procuring a contravention:
+  (c) inducing a contravention, whether by threats, promises, or otherwise:
+  (d) being in any way, directly or indirectly, knowingly concerned in, or party to, a contravention:
+  (e) conspiring with any other person in a contravention.
 
-### 74C Procedure at cease and desist hearing
-(1) At every hearing for a cease and desist order, the Commissioner presiding over the hearing—
-  (a) must provide for as little formality and technicality as the requirements of this Act and a proper consideration of the matter permits:
-  (b) must permit the Commission and the person against whom an order is sought to appear and give evidence, to be represented by counsel, to call witnesses, and to cross-examine witnesses:
-  (c) has the necessary incidental powers in relation to the hearing of evidence, including the power to exclude irrelevant or repetitive evidence and the powers set out in sections 99 and 100.
-(2) For the purposes of conducting a hearing for a cease and desist order, a Commissioner may exercise the powers in section 98 as if he or she were the Commission.
+### 74C Enforcement of undertakings
+(1) If the Commission considers that a person has breached an undertaking given under section 74A, the Commission may apply to the High Court for an order under subsection (2).
+(2) The court may make any 1 or more of the following orders if it is satisfied that the person has breached a term of the undertaking:
+  (a) an order directing the person to comply with the term:
+  (b) an order directing the person to pay to the Crown an amount not exceeding the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach:
+  (c) any order that the court thinks appropriate that directs the person to compensate any other person who has suffered loss or damage as a result of the breach:
+  (d) an order for any consequential relief that the court thinks appropriate.
 
 ### 74D Pecuniary penalties for contravention of cease and desist order
-(1) If the court is satisfied on the application of the Commission that a person has acted in contravention of an order made under section 74A, the court may order the person to pay to the Crown any pecuniary penalty that the court determines to be appropriate.
-(2) The amount of any pecuniary penalty must not exceed $500,000.
-(3)
-(4)
-(5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
+[Repealed]
 
 **Jurisdiction of courts**
 
 ### 75 Jurisdiction of High Court
-(1) In accordance with this Part, the High Court shall hear and determine the following matters:
-  (aa) applications for orders under section 74D:
+(1) In accordance with this Part, the High Court must hear and determine the following matters:
+  (aa) applications for orders under section 74C to enforce undertakings:
   (a) in the case of contraventions of Part 2,—
     (i) proceedings for the recovery of pecuniary penalties under section 80:
     (ii) applications for injunctions under section 81:
@@ -2220,8 +2358,8 @@ A cease and desist order may be made under section 74A only if—
   (i) applications for orders under section 85A or 85B.
 (2)
 
-### 76 Jurisdiction of District Courts
-In accordance with this Part, the District Court shall hear and determine proceedings for offences against sections 86B, 87B, 100, and 103.
+### 76 Jurisdiction of District Court
+In accordance with this Part, the District Court must hear and determine proceedings for offences against sections 86B, 87B, 100, and 103.
 
 ### 77 Additional lay members of High Court for purposes of appellate jurisdiction in respect of Commission determinations
 (1) This section applies for the purposes of the exercise by the court of its jurisdiction and powers under sections 91 to 97.
@@ -2540,8 +2678,8 @@ For the purposes of sections 85A and 85B, the court must not take into account a
 ### 87C Injunction and other orders relating to price-quality regulation
 (1) If the court is satisfied that goods or services that are subject to price-quality regulation are being supplied, or are likely to be supplied, in contravention of any price-quality requirement applying with respect to those goods or services, the court may do either or both of the following:
   (a) grant an injunction restraining any supplier of those goods or services from supplying them in contravention of the price-quality requirement:
-  (b) requiring the supplier to supply the goods or services in accordance with the price-quality requirement applying to them.
-(2) An application for an order under this section may be made by any person.
+  (b) make an order requiring the supplier to supply the goods or services in accordance with the price-quality requirement applying to them.
+(2) An application for an injunction or an order under this section may be made by any person.
 
 **Injunctions generally**
 
@@ -2614,7 +2752,7 @@ The following persons may exercise the right of appeal pursuant to section 91:
     (ii) any person whose assets, or the shares in which, are proposed to be acquired pursuant to the clearance:
   (d) in the case of an appeal against a determination made under section 52P, any supplier or consumer (as defined in section 52C) of goods or services to which the determination relates:
   (e)
-  (f) in the case of an appeal against a determination of a Commissioner under section 74A, any person against whom a cease and desist order was made.
+  (f)
 
 ### 93 Determination of appeals
 In determining an appeal under section 91(1), the court may do any of the following:
@@ -2834,6 +2972,7 @@ The Commission must not provide information to an overseas regulator that the Co
   (b) where that order was made in connection with any other investigation or inquiry conducted by the Commission, after the conclusion of that investigation or inquiry.
 (3) On the expiry of any order made under subsection (1), the provisions of the Official Information Act 1982 shall apply in respect of any information, document, or evidence that was the subject of that order.
 (4) Every person who, contrary to any order made by the Commission under subsection (1), publishes or communicates any information or document or evidence commits an offence and is liable, on conviction, to a fine not exceeding $4,000 in the case of a person not being a body corporate, and $12,000 in the case of a body corporate.
+(5) For the purposes of this section, an inquiry includes a competition study (as defined in section 48).
 
 ### 100A Commission may state case for opinion of High Court
 (1) The Commission may at any time state a case for the opinion of the court on any question of law arising in any matter before it.
@@ -3007,6 +3146,48 @@ Section 58A(1) and (2) applies to an authorisation that is given either before o
   (a) investigating an offence or a contravention to which this clause applies:
   (b) commencing or completing proceedings for an offence or a contravention to which this clause applies:
   (c) imposing a penalty, or making an order, in relation to an offence or a contravention to which this clause applies.
+
+### Part 2 — Provisions relating to Commerce Amendment Act 2018
+
+### 6 Interpretation
+(1) In this Part,—
+  - **Amendment Act 2018** means the Commerce Amendment Act 2018
+  - **commencement date** means the date on which section 12 of the Amendment Act 2018 comes into force
+  - **Commissioner** has the meaning given in former section 2(1)
+  - **outstanding application** means an application for a cease and desist order under former section 74B(b) that was—
+    (a) made by an employee of the Commission before the commencement date; but
+    (b) not determined by a Commissioner (either by making, or declining to make, an order) before the commencement date.
+(2) In this Part, a reference to a former section (for example, former section 74B(b)) is a reference to that section as in force immediately before the commencement date.
+
+**Cease and desist orders**
+
+### 7 Term of appointment of cease and desist Commissioners
+(1) If there are no outstanding applications, the Commissioners cease to hold office on the commencement date.
+(2) If there are 1 or more outstanding applications, the Commissioners continue in office under the notice of appointment made under former section 74AA.
+
+### 8 Applications for cease and desist orders made before commencement
+Former sections 74A to 74C remain in force for the purposes of allowing a Commissioner to consider and determine an outstanding application.
+
+### 9 Cease and desist orders continued
+(1) The following continue in force on and from the commencement date:
+  (a) cease and desist orders made before the commencement date:
+  (b) cease and desist orders made on or after the commencement date in accordance with clause 8.
+(2) Former section 74D continues to apply in relation to the orders described in subclause (1).
+(3) The High Court, on an application by the Commission or a person subject to a cease and desist order, may amend or revoke an order continued by subclause (1).
+
+### 10 Entitlement to appeal cease and desist order
+(1) Former section 92(f) remains in force for the purpose of allowing a person to appeal against a determination of a Commissioner under former section 74A.
+(2) Subclause (1) applies irrespective of whether the determination was made—
+  (a) before the commencement date; or
+  (b) in accordance with clause 8, on or after the commencement date.
+
+### 11 Court may not refer appeals back for reconsideration
+(1) This clause applies if—
+  (a) the Commissioners have ceased to hold office, either under clause 7(1) or because the term of appointment referred to in former section 74AA(3)﻿(a)﻿(ii) has expired; but
+  (b) an appeal against a determination of a Commissioner under former section 74A is being considered by the High Court.
+(2) The High Court—
+  (a) must determine the appeal under section 93; and
+  (b) despite section 94, must not refer any matter relating to the appeal back to the Commissioners to reconsider.
 
 ## Schedule 1 — Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
 
