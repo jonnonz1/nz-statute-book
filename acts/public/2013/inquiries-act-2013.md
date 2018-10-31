@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-10-31_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -424,7 +424,6 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 | Social Security Act 1964 | s 12M |
 | Soil Conservation and Rivers Control Act 1941 | s 33A |
 | Soil Conservation and Rivers Control Amendment Act 1946 | s 9 |
-| State Sector Act 1988 | ss 25, 26 |
 | Taupiri Drainage and River District Act 1929 | ss 3, 11 |
 | Taxation Review Authorities Act 1994 | s 15 |
 | Temporary Safeguard Authority Act 1987 | s 4 |
