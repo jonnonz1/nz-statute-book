@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-10-31_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -283,7 +283,7 @@ This Act binds the Crown.
   (e) section 78 (provisions in Schedule 5):
   (f) section 96 (acquisition of subsidiaries):
   (g) section 100 (acquisition of shares or other interests):
-  (h) sections 116 and 117 (employment of employees and chief executives):
+  (h) sections 116 and 117(2) to (3) (employment of employees and chief executives):
   (i) sections 120 to 126 (immunities, indemnities, and insurance):
   (j) section 161 (in relation to shares and interests covered by section 28):
   (k)
@@ -1827,7 +1827,7 @@ The following provisions apply when all or any part of a meeting of a board is r
   (a) exempt any DHB, or any DHB specified in the order, from the requirement to consult in subclause (2); or
   (b) revoke any order made under paragraph (a) in order to end an exemption from that requirement for the DHBs or DHB concerned.
 (4) In respect of any DHB, matters relating to decisions on individual employees (for example, relating to the appointment, promotion, demotion, transfer, personal grievances, disciplining, or cessation of employment, of an employee) are the independent responsibility of the individual for the time being acting as chief executive of that DHB, without any interference from the board of the DHB or from committees of the board (or from members of the board or of committees of the board).
-(5) This clause applies despite sections 25 and 117 of the Crown Entities Act 2004.
+(5) This clause applies despite sections 25 and 117(2) to (3) of the Crown Entities Act 2004, but section 117(1) of that Act applies to a chief executive of a DHB.
 (6) Despite section 116(2) of the Crown Entities Act 2004, the Governor-General may not make an Order in Council under section 116(1) of that Act in relation to a DHB.
 
 **Borrowing and investment**
@@ -2454,7 +2454,7 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
 (4) The Governor-General may, by Order in Council,—
   (a) exempt any organisation, or any organisation specified in the order, from the requirement to consult in subclause (3); or
   (b) revoke any order made under paragraph (a) in order to end an exemption from that requirement for the organisations or organisation concerned.
-(5) This clause applies despite section 117 of the Crown Entities Act 2004.
+(5) This clause applies despite section 117(2) to (3) of the Crown Entities Act 2004, but section 117(1) of that Act applies to a chief executive of an organisation.
 (6) Despite section 116(2) of the Crown Entities Act 2004, the Governor-General may not make an Order in Council under section 116(1) of that Act in relation to an organisation.
 
 **Borrowing and investment**
