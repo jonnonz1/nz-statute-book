@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2018-06-30_
+_Consolidation as at 2018-10-31_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -827,7 +827,10 @@ A Crown entity (the parent) must ensure, to the extent that it is reasonably abl
     (ii) in a manner consistent with the spirit of service to the public; and
     (iii) in collaboration with other public entities (within the meaning of that term in the Public Audit Act 2001) where practicable; and
   (b) pays remuneration to members of the subsidiary only at a rate and of a kind determined by the parent in accordance with the fees framework or after consulting with the responsible Minister; and
-  (c) complies with the requirements as to chief executives set out in section 117 in the same way as the parent must do (but for this purpose, references to the responsible Minister in section 117 must be read as references to the parent).
+  (c) complies with the requirements as to chief executives set out in section 117 in the same way as the parent must do.
+(1A) Subsection (1)﻿(c) does not apply to a statutory entity parent that is either of the following:
+  (a) a district health board:
+  (b) an organisation within the meaning of clause 1 of Schedule 6 of the New Zealand Public Health and Disability Act 2000.
 (2) The requirements of this section are additional to those in section 97.
 
 ### 99 Application to multi-parent subsidiaries
@@ -979,10 +982,19 @@ A direction under section 107 comes into force 15 sitting days after it is prese
 (4) This section does not limit section 117.
 
 ### 117 Employment of chief executive
-(1) A statutory entity must not agree to the terms and conditions of employment for a chief executive, or to an amendment of those terms and conditions, without—
-  (a) consulting the State Services Commissioner; and
-  (b) if the proposed terms and conditions or amendment do not comply with any guidance issued by the State Services Commissioner to 1 or more Crown entities, consulting the responsible Minister.
-(2) A statutory entity must have regard to any recommendations that the Commissioner and (if applicable) the responsible Minister makes to it within a reasonable time of being consulted.
+(1) A chief executive of a statutory entity is appointed for a term of not more than 5 years, but may be reappointed.
+(2) The terms and conditions of employment of a chief executive of a statutory entity appointed by its board must be determined by agreement between the board and the chief executive.
+(2A) However, the board must obtain the written consent of the State Services Commissioner before—
+  (a) finalising the terms and conditions; or
+  (b) amending any or all of the terms and conditions once they have been finalised.
+(2B) When considering the terms and conditions of a chief executive, the State Services Commissioner must have regard to the following (among any other relevant factors):
+  (a) the legal, commercial, and operational context of the entity:
+  (b) any information provided by the board, which might include, for example, the board’s advice about a person's knowledge, skills, experience, and performance:
+  (c) the public interest in prudent stewardship of public resources:
+  (d) Government expectations:
+  (e) relevant market information.
+(2C) The State Services Commissioner must provide reasons for refusing consent to any proposed terms and conditions.
+(2D) The State Services Commissioner must provide the boards of statutory entities with advice and guidance on the terms and conditions of employment of chief executives of entities.
 (3) A failure to comply with this section does not invalidate the acts of a chief executive of an entity.
 
 ### 118 Crown entity to be good employer
@@ -1871,6 +1883,8 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 
 ## Schedule 1AAA — Application, savings, and transitional provisions relating to amendments made to Act after 1 January 2013
 
+### Part 1 — Provisions relating to Crown Entities Amendment Act 2013
+
 ### 1 Interpretation
 In this schedule,—
   - **2013/14 financial year** , in relation to a Crown entity, means the entity's financial year that includes 30 June 2014
@@ -1896,6 +1910,15 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 ### 4 First statement of intent under new section 139(1) must relate to 2014/15 financial year and subsequent financial years
 (1) A Crown entity must provide to its responsible Minister, under new section 139(1) (as inserted by section 49 of the amendment Act), information on its strategic intentions for the 2014/15 financial year and at least the following 3 financial years.
 (2) A Crown entity must comply with subsection (1) not later than the day on which it provides, to its responsible Minister, its annual report for the 2013/14 financial year.
+
+### Part 2 — Provision relating to State Sector and Crown Entities Reform Act 2018
+
+### 5 Transitional provision relating to amended section 117
+(1) Section 117(1) (as inserted by the amendment Act) applies only to the appointment or reappointment of a chief executive that is made after that subsection comes into force.
+(2) Subsections (2) to (2C) of section 117 (as inserted by the amendment Act) apply—
+  (a) to the appointment or reappointment of any chief executive that is made after those subsections come into force; and
+  (b) to the amendment of any terms and conditions of a chief executive (whether appointed or reappointed before or after those subsections come into force) that is made after those subsections come into force.
+(3) In this clause, amendment Act means the State Sector and Crown Entities Reform Act 2018.
 
 ## Schedule 1 — Statutory entities
 
