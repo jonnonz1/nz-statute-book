@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2018-10-31_
 
 > Title
 
@@ -104,6 +104,9 @@ In this Act, unless the context otherwise requires,—
 (1) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
 (2) If an example and a provision to which it relates are inconsistent, the provision prevails.
 
+### 2B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ## Part 1 — State Services Commissioner
 
 ### 3 State Services Commissioner
@@ -159,6 +162,57 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
 (2) The agency to which the notice is given must comply with the notice, and must keep all records that are necessary to enable it to comply with the notice.
 (3) This section does not limit any Act that imposes a prohibition or restriction on the availability of any information.
 
+### 9A Application of Inquiries Act 2013
+(1) This section applies if the Commissioner—
+  (a) exercises a power to investigate or inquire into any matter in the course of performing his or her functions and duties under this Act or any other Act (whether acting under a requirement imposed by or under the relevant enactment or on his or her own initiative); and
+  (b) has certified, in accordance with section 9B, that he or she is satisfied that, in order to perform those functions and duties, it is reasonably necessary that the provisions specified in subsection (2) apply in relation to the investigation or inquiry.
+(2) The following provisions of the Inquiries Act 2013 apply in relation to an investigation or inquiry to which this section applies:
+  (a) section 10 (which relates to the duty of an inquiry to act independently, impartially, and fairly):
+  (b) section 14 (which relates to the regulation of inquiry procedure):
+  (c) section 15 (which relates to the power to impose restrictions on access to an inquiry):
+  (d) section 16 (which relates to the power to postpone or temporarily suspend an inquiry):
+  (e) section 17 (which relates to the designation of core participants of an inquiry):
+  (f) sections 19 to 22 (which relate to evidential matters):
+  (g) sections 23 to 26 (which relate to witnesses and immunities):
+  (h) section 29 (which relates to offences):
+  (i) section 30 (which relates to penalties for offences):
+  (j) section 31 (which relates to contempt proceedings):
+  (k) sections 32 and 33 (which relate to the application of the Official Information Act 1982 and the Public Records Act 2005):
+  (l) section 34 (which provides for questions of law to be referred to the High Court).
+(3) The provisions of the Inquiries Act 2013 applied by subsection (2) must be read—
+  (a) as if the Commissioner were an inquiry established under that Act and the relevant Minister referred to in section 11 were the appointing Minister; and
+  (b) as if the terms document, information, and officer of an inquiry had the same meanings as in section 4 of that Act; and
+  (c) with the other necessary modifications.
+(4) A delegation under section 21 of the Inquiries Act 2013 must be made in accordance with section 23 of this Act.
+(5) In exercising any powers of the Inquiries Act 2013 under this section, the Commissioner—
+  (a) has no power to determine the civil, criminal, or disciplinary liability of any person:
+  (b) may make—
+    (i) findings of fault:
+    (ii) recommendations that further steps be taken to determine the civil, criminal, or disciplinary liability of any person:
+    (iii) findings or recommendations for the improvement and benefits of the wider State services relevant to the findings of the investigation:
+  (c) may receive a report from any person, make a report to any person, or make any public report regarding the matters investigated.
+
+### 9B Commissioner’s certificate under section 9A(1)
+(1) A certificate made under section 9A(1) must—
+  (a) be in writing and signed by the Commissioner; and
+  (b) specify the person or persons who will be conducting the investigation or the inquiry; and
+  (c) summarise the subject matter of the investigation or the inquiry; and
+  (d) set out the reason or reasons why the Commissioner is satisfied that, in order to perform his or her functions and duties, it is reasonably necessary that the provisions specified in section 9A(2) apply in relation to the investigation or inquiry.
+(2) The Commissioner may not delegate the power to make a certificate under section 9A(1).
+(3) The Commission’s annual report, required by section 43 of the Public Finance Act 1989, must include—
+  (a) a statement as to the number of certificates made by the Commissioner under section 9A(1)﻿(b) during the year that is the subject of the report; and
+  (b) for each certificate, a summary description of the matter that was the subject of the investigation or inquiry.
+
+### 9C Information privacy principles 6 and 7 do not apply during inquiry or investigation in accordance with section 9A
+(1) Information privacy principles 6 and 7 do not apply in respect of personal information contained in evidence given or submissions made to an inquiry or investigation conducted in accordance with section 9A, until the Commissioner publishes a final report or otherwise concludes the inquiry or investigation.
+(2) In subsection (1), information privacy principle and personal information have the meanings given to them in section 2(1) of the Privacy Act 1993.
+
+### 9D Immunities and privileges of participants in inquiry or investigation in accordance with section 9A
+(1) Witnesses and other persons (other than counsel) participating in an inquiry or investigation conducted in accordance with section 9A have the same immunities and privileges as if they were appearing in civil proceedings, and subpart 8 of Part 2 of the Evidence Act 2006 applies to the inquiry or investigation, to the extent that it is relevant, as if the inquiry or investigation were a civil proceeding.
+(2) In addition to a Judge’s powers under the Evidence Act 2006 as provided in subsection (1), the Commissioner may make any order or direction that a Judge may make under section 52, 53, 69, or 70 of that Act.
+(3) An order or a direction made by the Commissioner under subsection (2) has effect as if it were an order or a direction of a Judge under the Evidence Act 2006.
+(4) Counsel appearing before an inquiry or investigation have the same immunities and privileges as they would have if appearing before a court.
+
 ### 10 Power to enter premises
 (1) For the purpose of carrying out the functions of the Commissioner, the Commissioner or any person specifically or generally authorised in writing in that behalf by the Commissioner, may from time to time—
   (a) enter the premises of any department; or
@@ -170,11 +224,13 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
   (c) a statement of the powers conferred on the authorised person by subsection (1).
 (3) The power to enter premises pursuant to subsection (1) shall be subject to the following conditions:
   (a) entry shall be made only by the Commissioner or by a person specifically or generally authorised in writing by the Commissioner:
+  (aa) entry shall be made only if the Commissioner has first obtained the agreement of the Minister:
   (b) reasonable notice of the intention to enter shall be given:
   (c) entry shall be made at reasonable times:
   (d) the person entering shall carry—
     (i) evidence of that person's identity; and
     (ii) either evidence that that person is the Commissioner or that person's written authorisation under subsection (1):
+    (iii) evidence of the agreement referred to in paragraph (aa):
   (e) the person entering shall, on first entering the premises, and, if requested, at any subsequent time, produce to a representative of the department the evidence referred to in paragraph (d).
 (4) Every person shall have the same privileges in relation to—under this section as witnesses have in courts of law.
   (a) the production of information, documents, and files; and
@@ -185,15 +241,15 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
   (a) the availability of any information; or
   (b) the production or examination of any information, documents, or files.
 
-### 11 Exercise of functions and powers in respect of other State services
-(1) The Prime Minister may from time to time direct the Commissioner in writing, to carry out, in respect of any part of the State services that does not form part of the Public Service, any of the functions and powers conferred on the Commissioner by any provision of sections 6 to 10.
-(2) Sections 6 to 10 shall apply, for the purposes of any direction under subsection (1), with all necessary modifications and as if the part of the State services to which the direction relates were a department.
-(3) The Commissioner shall comply with that direction and shall have all necessary powers to enable the Commissioner to do so.
-(4) The Commissioner may, if requested by the head of any part of the State services, and must, if requested by the Minister in charge of, or responsible for, any part of the State services, exercise in respect of that part of the State services any of the functions and powers that the Commissioner may exercise in respect of departments under any provision of sections 6 to 8.
-(5) Nothing in this section—
+### 11 Functions and powers can be exercised in relation to other State services
+(1) The Commissioner must, if directed in writing by the Prime Minister, perform or exercise in relation to any part of the State services that does not form part of the Public Service any of the functions and powers specified in the direction that the Commissioner has under sections 6 to 10.
+(2) The Commissioner may, in performing any function under section 6(h) or (i), 57(2) or (4), or 57A, exercise any of the powers in sections 7 to 10 in relation to an agency in the State services as if it were a department.
+(3) The Commissioner may, if requested by the head of any part of the State services, and must, if requested by the Minister in charge of, or responsible for, any part of the State services, perform or exercise any of the functions and powers that the Commissioner has under sections 6 to 10.
+(4) The Commissioner may, if requested by the head of any part of the State services that does not form part of the Public Service, or of any corporation listed in Schedule 1 of the State-Owned Enterprises Act 1986, provide assistance in respect of the conditions of employment of its employees.
+(5) For the purpose of this section, sections 6 to 10 apply as if the relevant part of the State services or agency were a department and with the other necessary modifications.
+(6) Nothing in this section—
   (a) limits or affects any provision of this or any other Act; or
-  (b) affects or prevents the exercise by any part of the State services that does not form part of the Public Service, or by any officer or employee of any such part of the State services, of any function or power conferred on or belonging to any such part of the State services or any such officer or employee.
-(6) The Commissioner may, if requested by the head of any part of the State services that does not form part of the Public Service, or of any corporation listed in Schedule 1 of the State-Owned Enterprises Act 1986, provide assistance in respect of the conditions of employment of its employees.
+  (b) affects or prevents the performance or exercise by any part of the State services that does not form part of the Public Service, or by any officer or employee of that part of the State services, of any function or power conferred on or belonging to that part of the State services or officer or employee.
 
 ### 12 Deputy State Services Commissioner
 (1) There shall be an officer to be called the Deputy State Services Commissioner, who shall be appointed by the Governor-General in Council on the recommendation of the Prime Minister.
@@ -265,6 +321,9 @@ The Commissioner may incorporate in his or her report under section 19 in respec
 
 ### 23 Delegation of functions or powers
 (1) The Commissioner may from time to time, either generally or particularly, delegate to any person or persons any of the functions or powers of the Commissioner under this Act or any other Act, including functions or powers delegated to the Commissioner under any Act.
+(1A) The power conferred by subsection (1) includes (without limitation) power to delegate to any person, either generally or particularly,—
+  (a) the conduct of any investigation or inquiry that the Commissioner is required or empowered to conduct under this Act or any other Act:
+  (b) all or any of the functions and powers that the Commissioner has under this Act or that other Act in relation to the investigation or inquiry.
 (2) Every delegation under this section shall be in writing.
 (3) No delegation under this section shall include—
   (a) the power to delegate under this section; or
@@ -283,11 +342,10 @@ The Commissioner may incorporate in his or her report under section 19 in respec
 (2) Any such delegation shall, until it is revoked, continue in force according to its tenor, notwithstanding that the Commissioner by whom it was made may have ceased to hold office and shall continue to have effect as if made by the successor in office of that Commissioner.
 
 ### 25 Power to summon witnesses
-(1) For the purposes of carrying out the duties and functions imposed on the Commissioner by this Act or any other Act, the Commissioner shall have the same powers and authority to summon witnesses and receive evidence as are conferred upon commissions of inquiry by the Commissions of Inquiry Act 1908, and the provisions of that Act, except sections 11 and 12 (which relate to costs), shall apply accordingly.
-(2) Any investigation or inquiry that the Commissioner is empowered to conduct under this Act or any other Act may be conducted by the Commissioner or by any person specifically appointed by the Commissioner to conduct the investigation or inquiry and to report thereon to the Commissioner; and, for the purposes of any such investigation or inquiry, the powers and authority conferred on the Commissioner by subsection (1) shall attach to and may be exercised by such other persons so appointed.
+[Repealed]
 
 ### 26 Fees and expenses in connection with investigation or inquiry
-Notwithstanding anything in the Commissions of Inquiry Act 1908, the Commissioner may authorise the payment, out of money appropriated by Parliament for the purpose, of fees and expenses incurred in connection with any such investigation or inquiry.
+[Repealed]
 
 ## Part 2 — The Public Service
 
@@ -666,23 +724,32 @@ The Commissioner has the following functions in relation to this subpart:
   (ba) companies named in Schedule 4A of the Public Finance Act 1989:
   (c) the Parliamentary Counsel Office:
   (d) the Parliamentary Service.
-(2) The Commissioner may set those minimum standards by issuing a code of conduct and applying it to any agency referred to in subsection (1), by written notice to the agency.
-(3) The Commissioner may apply a code to any agency or agencies referred to in subsection (1), or to any particular persons or groups of persons undertaking particular functions in such an agency or agencies, with any variations that the Commissioner thinks appropriate in light of the legal, commercial, or operational context of the agency or agencies or of the persons or groups of persons.
+(2) The Commissioner may set those minimum standards by issuing a code of conduct and applying it in accordance with subsection (3), by written notice to the agency or to those concerned.
+(3) The Commissioner may apply a code, with any variations that the Commissioner thinks appropriate in light of the legal, commercial, or operational context, to any of the following:
+  (a) any agency or agencies referred to in subsection (1):
+  (b) any particular persons or groups of persons in relation to an agency or agencies referred to in subsection (1) who—
+    (i) are undertaking particular functions, duties, or powers:
+    (ii) are the board:
+    (iii) are board members:
+    (iv) are office holders:
+    (v) are chief executives:
+    (vi) are employees:
+    (vii) are individuals working as contractors or secondees.
 (4) The Commissioner's functions include providing advice and guidance to the State services (except Crown Research Institutes and their subsidiaries) on matters, or at times, that affect the integrity and conduct of those within the State services (including, for example, on the interpretation of relevant standards and on the application of a code of conduct in specific cases).
 
 ### 57A Agencies must comply with minimum standards except in particular circumstances
-(1) An agency (including its employees and individuals working as contractors or secondees in relation to a function, duty, or power of the agency) must comply with any standards that apply to it under section 57.
+(1) Agencies, persons, and groups of persons must comply with any standards that apply to them under section 57(3).
 (2) However, an agency referred to in section 57(1)﻿(b) to (d) may derogate from a particular standard if the agency has—
   (a) obtained the prior written approval of its responsible Minister to the derogation; and
   (b) sent a copy of the approval to the Commissioner.
-(3) This section does not prevent an agency from applying additional or detailed standards that are consistent with the standards applied to the agency.
+(3) This section does not prevent an agency or a person or a group from applying additional or detailed standards that are consistent with the standards that apply under section 57(3).
+(4) Nothing in this section limits or affects any provision of this or any other Act.
 
 ### 57B Breaches of minimum standards
-The Commissioner may advise the responsible Minister if, in the opinion of the Commissioner, a serious breach of any minimum standard applied to an agency under section 57 has occurred, or is likely to occur.
+[Repealed]
 
 ### 57C Commissioner's powers when setting and enforcing minimum standards
-(1) The Commissioner may, when acting under sections 57 to 57B in respect of any agency referred to in section 57(1)﻿(b) to (d), exercise the powers in sections 7 to 9 that the Commissioner may exercise in respect of departments, including the powers in section 25.
-(2)
+[Repealed]
 
 ### 58 Equal employment opportunities
 (1) The Commissioner's functions include promoting, developing, and monitoring equal employment opportunities programmes and policies for the Public Service.
@@ -1054,7 +1121,7 @@ A Council may reappoint its existing chief executive for a further term without 
 ### 77ID Conditions of employment of chief executive
 (1) Every chief executive shall be appointed for a term of not more than 5 years.
 (2) Every chief executive shall be eligible for reappointment from time to time.
-(3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive shall be determined in each case by agreement between the Council of the institution and the chief executive, but the Council shall obtain the written concurrence of the State Services Commissioner to the conditions of employment before finalising the conditions of employment with the chief executive.
+(3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive shall be determined in each case by agreement between the Council of the institution and the chief executive, but the Council shall obtain the written concurrence of the State Services Commissioner to the conditions of employment before finalising the conditions of employment with the chief executive or amending any or all of the conditions once they have been finalised.
 
 ### 77IE Removal from office
 The Council, for just cause or excuse, may remove the chief executive from office.
@@ -1256,6 +1323,15 @@ Every award and every agreement relating to the terms and conditions of employme
 
 ### 112 Savings
 [Repealed]
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to State Sector and Crown Entities Reform Act 2018
+
+### 1 Transitional provision relating to investigations or inquiries
+(1) This clause applies to any investigation or inquiry begun by the Commissioner under this Act or any other Act, but not completed, before section 9A (as inserted by the amendment Act) comes into force.
+(2) The investigation or inquiry must be completed or otherwise dealt with as if the amendment Act had not been enacted.
+(3) In this clause, amendment Act means the State Sector and Crown Entities Reform Act 2018.
 
 ## Schedule 1 — Departments of the Public Service
 
