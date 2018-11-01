@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2018-11-01_
 
 > An Act to reform the administration of education
 
@@ -2049,7 +2049,7 @@ A board must ensure that its annual report is available to the public on an Inte
 
 ### 91A Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **application period** means the period commencing on the commencement of the Education Amendment Act 1992, and ending with 31 December 2018 (as from time to time extended under section 91M(1))
+  - **application period** means the period commencing on the commencement of the Education Amendment Act 1992, and ending with 31 December 2021 (as from time to time extended under section 91M(1))
   - **board** means a board of trustees constituted under Part 9; and, in relation to a school, means the school's board
   - **employment-based trainee teacher** means a person who is undertaking an initial teacher education programme that includes a period of employment by a board
   - **employment-based trainee teaching position** means a position established by the Secretary under section 91O(1)
