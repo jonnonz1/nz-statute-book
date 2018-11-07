@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-11-01_
+_Consolidation as at 2018-11-07_
 
 > An Act to reform the administration of education
 
@@ -10,10 +10,10 @@ _Consolidation as at 2018-11-01_
 ## Part 1AA — Early childhood and compulsory education: statement of National Education and Learning Priorities
 
 ### 1A Minister may issue statement of National Education and Learning Priorities
-(1) The Minister may, by notice in the Gazette, issue a statement of National Education and Learning Priorities for the early childhood and compulsory education sectors.
+(1) The Minister may, by notice in the Gazette, issue a statement of National Education and Learning Priorities for the early childhood and compulsory education sectors. The notice may contain the statement in full or describe the statement in general terms and indicate where the full text can be obtained.
 (2) A statement issued under this section—
   (a) must be consistent with the objectives set out in subsection (3); and
-  (b) may include statements of the diversity of education provision; and
+  (b)
   (c) must specify the date on which it comes into effect; and
   (d) remains in effect for a period of 5 years unless earlier withdrawn or replaced by notice in the Gazette; and
   (e) must be published on an Internet site maintained by the Ministry.
@@ -29,10 +29,24 @@ _Consolidation as at 2018-11-01_
     (ii) the diversity of society:
     (iii) cultural knowledge, identity, and the different official languages:
     (iv) the Treaty of Waitangi and te reo Māori.
-(4) Before issuing a statement under this section, the Minister must consult with those stakeholders in the early childhood and compulsory education sectors that he or she considers ought to be consulted.
+(4) Before issuing a statement under this section, the Minister must comply with subsection (4A) and consult with those stakeholders in the early childhood and compulsory education sectors that he or she considers ought to be consulted.
+(4A) The Minister must make reasonable efforts to consult—
+  (a) children and young people; and
+  (b) national bodies representing the interests of teachers; and
+  (c) national bodies representing the interests of principals; and
+  (d) national bodies representing the interests of governing bodies of schools; and
+  (e) national bodies representing the interests of early childhood services; and
+  (f) national bodies representing the interests of parents; and
+  (g) national bodies representing the interests of the disability community; and
+  (h) national bodies representing the interests of support staff in schools and early childhood services; and
+  (i) national bodies representing the interests of Māori education organisations; and
+  (j) national bodies representing the interests of Pacific education organisations; and
+  (k) national bodies representing the interests of proprietors of State integrated schools; and
+  (l) national bodies with a particular role in respect of the character of designated character schools.
 (5) Minor changes to a statement issued under this section—
-  (a) may be made without fulfilling the consultation requirements in subsection (4); and
+  (a) may be made without fulfilling the consultation requirements in subsections (4) and (4A); and
   (b) do not, for the purposes of subsection (2)﻿(d), constitute a withdrawal or replacement of the statement being changed.
+(5A) A minor change under subsection (5) is limited to a technical, short, and uncontroversial amendment that does not change or extend the policy of the statement of National Education and Learning Priorities.
 (6) A statement issued under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
 (7) Except as provided in subsection (2)﻿(a), the objectives in subsection (3) do not affect or limit the way in which any person is required to exercise a power or perform a function under a specified Part.
 (8) In this section, specified Parts means this Part, Parts 2 to 3A, Parts 7 to 9, Parts 11 to 12A, Part 26, and Part 33.
