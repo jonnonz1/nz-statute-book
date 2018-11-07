@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-11-07_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -72,7 +72,6 @@ _Consolidation as at 2018-07-01_
   - **dangerous goods** means goods declared by rules made under this Act to be dangerous goods
   - **dangerous goods enforcement officer** means a person appointed by warrant under section 208
   - **design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
-  - **doctor's surgery** means a medical practitioner's surgery or any other place where a medical examination or medical care or treatment is carried out or given
   - **drink** means alcoholic drink
   - **driver** , in relation to a vehicle, includes the rider of the motorcycle or moped or bicycle; and has a corresponding meaning
   - **driver licence** means a licence to drive that is issued or has effect under this Act; and includes an endorsement on a driver licence
@@ -167,12 +166,10 @@ _Consolidation as at 2018-07-01_
   - **local authority** means any regional council or territorial authority within the meaning of the Local Government Act 2002
   - **logbook** means a logbook that is in a form approved by the Agency in accordance with the rules, and includes any alternative means approved under section 30ZG
   - **mass** , in relation to a vehicle, means the quantity of material contained in or on that vehicle that, when subjected to acceleration due to gravity, will exert downwards on a level surface a force that can be measured as the weight of the vehicle
-  - **medical expenses** means the expenses incurred by a medical practitioner or medical officer in taking a blood specimen
+  - **medical centre** means any place where a medical examination or medical care or treatment is carried out or given
+  - **medical expenses** means the expenses incurred by a health practitioner or medical officer in taking a blood specimen
   - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
-  - **medical officer** means—
-    (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
-    (b) a nurse; or
-    (c) a medical laboratory technologist
+  - **medical officer** means a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member** means a person appointed as a member of the Agency
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the relevant Part or provision of this Act
@@ -217,7 +214,6 @@ _Consolidation as at 2018-07-01_
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **offence against this Act** includes an offence against or prescribed by the regulations
   - **operate** , in relation to a vehicle, means to drive or use the vehicle on a road, or to cause or permit the vehicle to be on a road or to be driven on a road, whether or not the person is present with the vehicle; and has a corresponding meaning
-  - **optometrist** means a health practitioner who is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry
   - **organised criminal activity** means an activity that—
     (a) involves 2 or more persons; and
     (b) has the acquisition of income or assets by means of a continuing course of criminal conduct as one of its objects
@@ -561,7 +557,7 @@ A person may not drive or attempt to drive a motor vehicle while under the influ
 (1AA) A person driving a motor vehicle that has a warning notice given under section 22AF attached to it must comply with that notice.
 (1) A person must comply with sections 68, 69, 70, 71A, 72, and 73 (which relate to the administration of breath screening tests, evidential breath tests, and blood tests).
 (2) A person must comply with all lawful requirements, directions, and requests made by an enforcement officer under any of sections 68, 69, 70, 71A, 72, and 73.
-(3) A person must comply with all lawful requirements and requests made by a medical practitioner or medical officer under section 72 or section 73 (which relate to the administration of blood tests).
+(3) A person must comply with all lawful requirements and requests made by a health practitioner or medical officer under section 72 or section 73 (which relate to the administration of blood tests).
 (4) A person may not—
   (a) remove, obscure, or render indistinguishable a notice affixed to a vehicle under section 115, unless current evidence of vehicle inspection has been obtained for the vehicle or (if the notice was given under section 96(1B)) the direction requiring the vehicle not to be driven on a road has been cancelled under section 102(3)﻿(b) or section 110(3)﻿(a)﻿(ii); or
   (b) drive a vehicle to which a notice given under section 115 applies until current evidence of vehicle inspection has been obtained for, and is displayed on, the vehicle.
@@ -601,14 +597,14 @@ Every person commits an offence who—
 ### 17 Distance recorders not to be altered
 A person may not, with intent to cause a false record of the distance travelled by a motor vehicle to be shown or recorded, make or cause to be made any alteration to the distance recorder or to the vehicle.
 
-### 18 Doctors and optometrists to give Agency medical reports of persons unfit to drive
-(1) This section applies if a medical practitioner or optometrist, who has attended or been consulted in respect of a driver licence holder, considers that—
+### 18 Health practitioners to give Agency medical reports of persons unfit to drive
+(1) This section applies if a health practitioner, who has attended or been consulted in respect of a driver licence holder, considers that—
   (a) the mental or physical condition of the licence holder is such that, in the interests of public safety, the licence holder—
     (i) should not be permitted to drive motor vehicles of a specified class or classes; or
     (ii) should only be permitted to drive motor vehicles subject to such limitations as may be warranted by the mental or physical condition of the licence holder; and
   (b) the licence holder is likely to drive a motor vehicle.
-(2) If this section applies, the medical practitioner or optometrist must as soon as practicable give the Agency written notice of the opinion under subsection (1)﻿(a) and the grounds on which it is based.
-(3) A medical practitioner or optometrist who gives a notice under subsection (2) in good faith is not liable to civil or professional liability because of any disclosure of personal medical information in that notice.
+(2) If this section applies, the health practitioner must as soon as practicable give the Agency written notice of the opinion under subsection (1)﻿(a) and the grounds on which it is based.
+(3) A health practitioner who gives a notice under subsection (2) in good faith is not liable to civil or professional liability because of any disclosure of personal medical information in that notice.
 (4)
 
 ### 19 Licences of certain persons subject to Mental Health (Compulsory Assessment and Treatment) Act 1992 to be suspended
@@ -1739,8 +1735,8 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 60 Failure or refusal to permit blood specimen to be taken or to undergo compulsory impairment test
 (1) A person commits an offence if the person—
   (a) fails or refuses to permit a blood specimen to be taken after having been required to do so under section 72 by an enforcement officer; or
-  (b) fails or refuses to permit a blood specimen to be taken without delay after having been requested to do so under section 72 by a medical practitioner or medical officer; or
-  (c) is a person from whom a medical practitioner or medical officer may take a blood specimen under section 73 and refuses or fails to permit such a person to take a blood specimen; or
+  (b) fails or refuses to permit a blood specimen to be taken without delay after having been requested to do so under section 72 by a health practitioner or medical officer; or
+  (c) is a person from whom a health practitioner or medical officer may take a blood specimen under section 73 and refuses or fails to permit such a person to take a blood specimen; or
   (d) fails or refuses to undergo a compulsory impairment test under section 71A.
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
@@ -1810,7 +1806,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 **Defences**
 
 ### 64 Defences
-(1) It is a defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) if the court is satisfied, on the evidence of a medical practitioner, that the taking of a blood specimen from the defendant would have been prejudicial to the defendant's health.
+(1) It is a defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) if the court is satisfied, on the evidence of a health practitioner, that the taking of a blood specimen from the defendant would have been prejudicial to the defendant's health.
 (1AA) Subsection (1) is subject to section 60(3B) and (3C).
 (1A) It is a defence to proceedings for an offence against section 57A(1) or 62(1B) if the court is satisfied that the person has consumed the relevant qualifying drug—
   (a) in accordance with—
@@ -1997,7 +1993,7 @@ If this section applies because an exception described in section 65AB(2) applie
   (c) if an accident has occurred involving a motor vehicle,—
     (i) the driver of the vehicle at the time of the accident; or
     (ii) if the enforcement officer is unable to ascertain who the driver of the motor vehicle was at the time of the accident, a person whom the officer has good cause to suspect was in the motor vehicle at the time of the accident.
-(2) An enforcement officer may not require a person who is in a hospital or doctor's surgery as a result of an accident involving a motor vehicle to undergo a breath screening test.
+(2) An enforcement officer may not require a person who is in a hospital or medical centre as a result of an accident involving a motor vehicle to undergo a breath screening test.
 (3) A person who has undergone a breath screening test under this section must remain at the place where the person underwent the test until after the result of the test is ascertained, and an enforcement officer may arrest the person without warrant if the person refuses or fails to remain at that place.
 (4) If an enforcement officer is entitled to require a person to undergo a breath screening test, the officer may also require that person to undergo a test using a passive breath-testing device, which test is one where the officer holds a passive breath-testing device near the person's mouth for the purpose of ascertaining whether or not there is any alcohol in the person's breath.
 (5) The use or non-use of a passive breath-testing device does not of itself affect the validity of a breath screening test.
@@ -2027,7 +2023,7 @@ If this section applies because an exception described in section 65AB(2) applie
   (b) if the person has accompanied an enforcement officer to a place under this section, remain at that place until the person is required either to undergo an evidential breath test or a blood test under this Act, or to accompany an enforcement officer to another place under this section:
   (c) if the person has undergone an evidential breath test under this section, remain at the place where the person underwent the test until after the result of the test is ascertained.
 (6) An enforcement officer may arrest without warrant a person who contravenes subsection (5).
-(7) An enforcement officer may not require a person who is in a hospital or doctor's surgery as a result of an accident involving a motor vehicle to undergo an evidential breath test.
+(7) An enforcement officer may not require a person who is in a hospital or medical centre as a result of an accident involving a motor vehicle to undergo an evidential breath test.
 
 ### 70 Person may be required to undergo further evidential breath test if initial test fails to produce result
 (1) If for any reason an evidential breath test carried out under section 69 by an enforcement officer fails to produce a result, the enforcement officer may, at his or her discretion, either require the person to undergo without delay a further evidential breath test or proceed as if section 72(1)﻿(c) applies.
@@ -2062,16 +2058,16 @@ If this section applies because an exception described in section 65AB(2) applie
 (4) An enforcement officer may arrest a person without warrant if the person refuses or fails to comply with subsection (2) or (3).
 (5) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68 or evidential breath tests under section 69 and regardless of the outcome of any such tests.
 
-### 72 Who must give blood specimen at places other than hospital or surgery
-(1) A person must permit a medical practitioner or medical officer to take a blood specimen from the person when required to do so by an enforcement officer if—
+### 72 Who must give blood specimen at places other than hospital or medical centre
+(1) A person must permit a health practitioner or medical officer to take a blood specimen from the person when required to do so by an enforcement officer if—
   (a) the person fails or refuses to undergo without delay an evidential breath test after having been required to do so by an enforcement officer under section 69; or
   (b) the person has undergone an evidential breath test under section 69(4), and—
     (i) it appears to the officer that the test is positive; and
     (ii) within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)﻿(a) (which sets out the conditions of the admissibility of the test), the person advises the officer that the person wishes to undergo a blood test; or
   (c) an evidential breath testing device is not readily available at the place to which the person has accompanied an enforcement officer under section 69 (whether or not at the time the requirement was made it was likely that the person could undergo an evidential breath test at that place) or to which the person has been taken under arrest (as the case may be), or for any reason an evidential breath test cannot then be carried out at that place; or
   (d) the officer has arrested the person under section 120(1) and has good cause to suspect that the person has committed an offence against any of sections 56 to 62, and either—
-    (i) a medical practitioner has examined the person and believes that the person may be under the influence of drink or a drug, or both; or
-    (ii) the person has refused to be examined by a medical practitioner for the purposes of this paragraph; or
+    (i) a health practitioner has examined the person and believes that the person may be under the influence of drink or a drug, or both; or
+    (ii) the person has refused to be examined by a health practitioner for the purposes of this paragraph; or
   (e) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
 (1AA) Subsection (1)﻿(b) does not apply in the case of a person (other than a person who is apparently younger than 20 or who holds an alcohol interlock licence or a zero alcohol licence) if the result of the evidential breath test under section 69(4) indicates that the proportion of alcohol in the person's breath exceeds 250 micrograms of alcohol per litre of breath but does not exceed 400 micrograms of alcohol per litre of breath.
 (1A) Subsection (1)﻿(e) only applies if an enforcement officer has good cause to suspect that the person has consumed a drug or drugs.
@@ -2079,33 +2075,33 @@ If this section applies because an exception described in section 65AB(2) applie
 (1C) An enforcement officer may exercise the powers in subsections (1) and (2) in addition to any breath screening tests under section 68 or evidential breath tests under section 69.
 (1D) An enforcement officer who advises a person of the matters specified in section 77(3)﻿(a) (which sets out the conditions of the admissibility of an evidential breath test) must also, without delay, advise the person that if the person elects to have a blood test the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of that blood test establishes that the person has committed an offence against this Act.
 (1E) An enforcement officer who requires a person to permit the taking of a blood specimen under subsection (1)﻿(c), (d), or (e) must advise the person that the person may be liable to pay a blood test fee and associated medical costs, whether or not the result of the blood test establishes that the person has committed an offence against this Act.
-(2) A person who has been required by an enforcement officer under subsection (1) to permit the taking of a blood specimen must, without delay after being requested to do so by a medical practitioner or medical officer, permit that practitioner or medical officer to take a blood specimen from that person.
-(3) If it is not practicable for a blood specimen to be taken from a person by a medical practitioner or medical officer at a place where the person has been required under this section to permit the taking of a blood specimen, the person must accompany an enforcement officer to any other place where it is likely that a blood specimen can be taken from the person by a medical practitioner or medical officer if the officer requires the person to do so.
+(2) A person who has been required by an enforcement officer under subsection (1) to permit the taking of a blood specimen must, without delay after being requested to do so by a health practitioner or medical officer, permit that practitioner or medical officer to take a blood specimen from that person.
+(3) If it is not practicable for a blood specimen to be taken from a person by a health practitioner or medical officer at a place where the person has been required under this section to permit the taking of a blood specimen, the person must accompany an enforcement officer to any other place where it is likely that a blood specimen can be taken from the person by a health practitioner or medical officer if the officer requires the person to do so.
 (4) If a blood specimen taken under this section is insufficient for the purposes of the relevant blood specimen collecting procedure,—
-  (a) the person from whom the specimen was taken must permit a medical practitioner or medical officer to take a further blood specimen immediately after being requested to do so by the medical practitioner or medical officer; and
+  (a) the person from whom the specimen was taken must permit a health practitioner or medical officer to take a further blood specimen immediately after being requested to do so by the health practitioner or medical officer; and
   (b) a further blood specimen so taken is to be treated as part of the original blood specimen taken from the person.
 (5) An enforcement officer may arrest a person without warrant if the person—
   (a) fails or refuses to accompany an enforcement officer to a place when required to do so under this section; or
-  (b) having accompanied an enforcement officer to a place under this section, fails or refuses to remain at that place until requested by a medical practitioner or medical officer to permit a blood specimen to be taken under this section.
+  (b) having accompanied an enforcement officer to a place under this section, fails or refuses to remain at that place until requested by a health practitioner or medical officer to permit a blood specimen to be taken under this section.
 
-### 73 Who must give blood specimen in hospital or surgery
-(1) A person who is under examination, care, or treatment in a hospital or doctor's surgery must permit a blood specimen to be taken from the person by—
-  (a) the medical practitioner who is in immediate charge of the examination, care, or treatment of the person; or
-  (b) another medical practitioner or a medical officer.
-(2) If a person under examination, care, or treatment in a hospital or doctor's surgery is unconscious, a blood specimen may be taken from the person under this section by—
-  (a) the medical practitioner who is in immediate charge of the examination, care, or treatment of the person; or
-  (b) another medical practitioner or a medical officer.
-(3) The medical practitioner who is in immediate charge of the examination, care, or treatment of the person in a hospital or doctor's surgery—whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
-  (a) may take a blood specimen or cause a blood specimen to be taken by another medical practitioner or a medical officer; and
-  (b) must either take a blood specimen or cause a blood specimen to be taken by another medical practitioner or a medical officer, if an enforcement officer requests him or her to do so,—
-(4) If the specimen originally taken is insufficient for the purposes of the relevant blood specimen collecting procedure, the medical practitioner who is in immediate charge of the examination, care, or treatment of the person may take or cause to be taken by another medical practitioner or a medical officer a further blood specimen (which further specimen is for the purposes of this Act to be treated as a part of the original blood specimen taken from the person), whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
-(5) Despite subsection (3), a blood specimen may be taken under any provision of this section only if the medical practitioner—
-  (a) has reasonable grounds to suspect that the person is in the hospital or doctor's surgery as a result of—
+### 73 Who must give blood specimen in hospital or medical centre
+(1) A person who is under examination, care, or treatment in a hospital or medical centre must permit a blood specimen to be taken from the person by—
+  (a) the health practitioner who is in immediate charge of the examination, care, or treatment of the person; or
+  (b) another health practitioner or a medical officer.
+(2) If a person under examination, care, or treatment in a hospital or medical centre is unconscious, a blood specimen may be taken from the person under this section by—
+  (a) the health practitioner who is in immediate charge of the examination, care, or treatment of the person; or
+  (b) another health practitioner or a medical officer.
+(3) The health practitioner who is in immediate charge of the examination, care, or treatment of the person in a hospital or medical centre—whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
+  (a) may take a blood specimen or cause a blood specimen to be taken by another health practitioner or a medical officer; and
+  (b) must either take a blood specimen or cause a blood specimen to be taken by another health practitioner or a medical officer, if an enforcement officer requests him or her to do so,—
+(4) If the specimen originally taken is insufficient for the purposes of the relevant blood specimen collecting procedure, the health practitioner who is in immediate charge of the examination, care, or treatment of the person may take or cause to be taken by another health practitioner or a medical officer a further blood specimen (which further specimen is for the purposes of this Act to be treated as a part of the original blood specimen taken from the person), whether or not the person has consented to the taking of the specimen and whether or not the person is capable of giving consent.
+(5) Despite subsection (3), a blood specimen may be taken under any provision of this section only if the health practitioner—
+  (a) has reasonable grounds to suspect that the person is in the hospital or medical centre as a result of—
     (i) an accident or incident involving a motor vehicle:
     (ii) an injury or a medical condition arising subsequent to an accident or incident involving a motor vehicle; and
   (b) has examined the person and is satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
   (c) tells the person (unless the person is unconscious) that the blood specimen is being or was taken under this section for evidential purposes.
-(6) If a blood specimen is taken under this section from a person who is unconscious, the medical practitioner or medical officer who took the specimen must notify the person in writing as soon as practicable that the specimen was taken under this section for evidential purposes.
+(6) If a blood specimen is taken under this section from a person who is unconscious, the health practitioner or medical officer who took the specimen must notify the person in writing as soon as practicable that the specimen was taken under this section for evidential purposes.
 (7) No civil or criminal proceedings may be taken against the Crown, a district health board, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved laboratory, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
 (8) Nothing in subsection (7) applies to any proceeding on the ground of any negligent act or omission in the taking of a blood specimen.
 
@@ -2116,7 +2112,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (1) A blood specimen taken under section 72 or 73 must be dealt with in accordance with the relevant blood specimen collecting procedure.
 (2)
 (3) In the case of a blood specimen taken under section 72, an enforcement officer must, within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post by registered post or cause to be posted by registered post, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure.
-(4) In the case of a blood specimen taken under section 73, the medical practitioner or medical officer by whom the specimen was taken must,—
+(4) In the case of a blood specimen taken under section 73, the health practitioner or medical officer by whom the specimen was taken must,—
   (a) within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted by registered post, the blood specimen to an approved laboratory for its analysis and custody in accordance with the relevant blood specimen collecting procedure; and
   (b) if, at the time the blood specimen is taken, there is more than 1 approved laboratory, give the Commissioner a written notification—
     (i) identifying the approved laboratory to whom the blood specimen was (or is being) delivered or posted; and
@@ -2141,7 +2137,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 
 ### 75 Certificates in blood-alcohol proceedings
 (1) Except as provided in section 79, production of a certificate to which this section applies in proceedings for an offence against this Part is sufficient evidence, in the absence of proof to the contrary, of such of the matters as are stated in the certificate and of the sufficiency of the authority and qualifications of the person by whom the certificate is made and, in the case of a certificate referred to in subsection (5), of the person who carried out the analysis.
-(2) This section applies to a certificate purporting to be signed by a medical practitioner or medical officer and certifying that—
+(2) This section applies to a certificate purporting to be signed by a health practitioner or medical officer and certifying that—
   (a) a specimen of venous blood was taken by the practitioner or medical officer in accordance with the blood specimen collecting procedure specified in the certificate from a person named in the certificate; and
   (b) for the purposes of the specified blood specimen collecting procedure,—
     (i) the specimen was sufficient; or
@@ -2149,17 +2145,17 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
   (c) in accordance with the specified blood specimen collecting procedure, the practitioner or medical officer kept the specimen in the appropriate container or containers (as applicable); and
   (d) each such container was received by the practitioner or medical officer in a sealed blood specimen collecting kit; and
   (e) the practitioner or medical officer handed each such container to an enforcement officer named in the certificate.
-(3) This section also applies to a certificate purporting to be signed by a medical practitioner and certifying that—
-  (a) the person named in the certificate was in a hospital or doctor's surgery; and
-  (b) the practitioner, being a medical practitioner in immediate charge of the examination, care, or treatment of that person, took a blood specimen or caused a blood specimen to be taken by any other medical practitioner or any medical officer from the person under section 73; and
-  (c) the practitioner has reasonable grounds to suspect that the person is in the hospital or doctor’s surgery as a result of—
+(3) This section also applies to a certificate purporting to be signed by a health practitioner and certifying that—
+  (a) the person named in the certificate was in a hospital or medical centre; and
+  (b) the practitioner, being a health practitioner in immediate charge of the examination, care, or treatment of that person, took a blood specimen or caused a blood specimen to be taken by any other health practitioner or any medical officer from the person under section 73; and
+  (c) the practitioner has reasonable grounds to suspect that the person is in the hospital or medical centre as a result of—
     (i) an accident or incident involving a motor vehicle:
     (ii) an injury or a medical condition arising subsequent to an accident or incident involving a motor vehicle; and
   (d) before taking the blood specimen or causing the blood specimen to be taken from the person, the practitioner examined the person and was satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
   (e) the practitioner either—
     (i) told the person that the blood specimen was being or had been taken under section 73 for evidential purposes; or
     (ii) if the person was unconscious when the specimen was taken, notified the person in writing as soon as practicable that the blood specimen was taken under section 73 for evidential purposes.
-(4) This section also applies to a certificate purporting to be signed by a medical practitioner or medical officer and certifying—
+(4) This section also applies to a certificate purporting to be signed by a health practitioner or medical officer and certifying—
   (a) all the matters referred to in paragraphs (a) to (d) of subsection (2); and
   (b) that the practitioner or medical officer sent or caused to be sent by registered post, personal delivery, or delivery by courier, on a specified date, the specimen to a specified approved laboratory in accordance with section 74; and
   (c) that, if at the time the blood specimen was taken more than 1 approved laboratory exists, the practitioner or medical officer has notified the Commissioner in writing of the approved laboratory to which the specimen was delivered or posted.
@@ -2188,7 +2184,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (1) In proceedings for an offence against this Act it is to be presumed, in the absence of proof to the contrary, that,—
   (a) if a certificate referred to in section 75 names a person having the same name, address, and occupation as the defendant as the person from whom the specimen of blood was taken, the specimen was taken from the defendant:
   (b) every approved analyst who signed a certificate referred to in section 75(5) was duly authorised to sign it:
-  (c) if the container in which a blood specimen (or part of a blood specimen) was placed was received by a medical practitioner or medical officer in a sealed blood specimen collecting kit, the container contained a substance (whether or not a combination or mixture of 2 or more substances) and that substance was a preservative and anti-coagulant.
+  (c) if the container in which a blood specimen (or part of a blood specimen) was placed was received by a health practitioner or medical officer in a sealed blood specimen collecting kit, the container contained a substance (whether or not a combination or mixture of 2 or more substances) and that substance was a preservative and anti-coagulant.
 (2) On the request of a person from whom a blood specimen has been taken under section 72 or section 73, or of the person's solicitor or counsel, copies of any certificates referred to in subsection (1) that relate to that blood specimen must be supplied by the prosecutor to the person making the request.
 
 ### 77 Presumptions relating to alcohol-testing
@@ -2216,7 +2212,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 If a certificate referred to in section 143 is produced in proceedings for an offence against this Part involving a person who is apparently younger than 20, it is to be presumed, in the absence of proof to the contrary, that the date stated in the certificate as being the date of birth of the person to whom the certificate relates is accurate.
 
 ### 79 Circumstances in which certificate not admissible in proceedings
-(1) No certificate referred to in subsection (2) or subsection (3) or subsection (4) of section 75 (which certificates relate to the taking of a blood specimen by a medical practitioner or medical officer) is admissible in evidence in proceedings for an offence against this Act if the court, on application made by the defendant not less than 14 days before the hearing, orders that the medical practitioner or medical officer who gave the certificate ought to appear as a witness at the hearing.
+(1) No certificate referred to in subsection (2) or subsection (3) or subsection (4) of section 75 (which certificates relate to the taking of a blood specimen by a health practitioner or medical officer) is admissible in evidence in proceedings for an offence against this Act if the court, on application made by the defendant not less than 14 days before the hearing, orders that the health practitioner or medical officer who gave the certificate ought to appear as a witness at the hearing.
 (2) No certificate referred to in section 75(5) (which certificate is given by an approved analyst and relates to the presence or proportion of alcohol, a drug, or both, found to be in a blood specimen) is admissible in evidence in proceedings for an offence against this Act if—but this subsection does not apply in respect of a specimen destroyed under the authority of section 74(8) before the date of the application.
   (a) application has been made in accordance with section 74 for the blood specimen to be sent to a private analyst; and
   (b) the specimen has not been sent to the private analyst in compliance with the application;—
@@ -3037,7 +3033,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
   (a) whether or not the opportunity to attend a programme approved under section 99A was reasonably available to the applicant; and
   (b) whether or not the applicant attended that approved programme; and
   (c) any report of a person conducting such an approved programme on the conduct of the applicant, and on the applicant's awareness of the responsibilities of drivers and suitability to hold or obtain a driver licence; and
-  (d) any report which relates to the medical condition of the applicant and which is from a medical practitioner attached to an assessment centre attended by the person other than under an order made under section 65.
+  (d) any report which relates to the medical condition of the applicant and which is from a health practitioner attached to an assessment centre attended by the person other than under an order made under section 65.
 (4) If an application under this section is refused,—
   (a) the court may accept a further application in respect of the same order if satisfied that the application is supported by relevant evidence that was not available when the previous application was heard; but
   (b) otherwise, a further application in respect of the same order may not be considered until at least 3 months after the date of that refusal.
@@ -3052,7 +3048,7 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 ### 100 Agency to remove certain disqualifications
 (1) If an order has been made under section 65 in respect of a person (the applicant), the Agency must make an order removing the disqualification of the applicant from holding or obtaining a driver licence, if satisfied that—
   (a) the applicant is a fit person to hold a driver licence, having regard to—
-    (i) a report which is from a medical practitioner attached to an assessment centre and which is made available to the Agency by the applicant or the assessment centre; and
+    (i) a report which is from a health practitioner attached to an assessment centre and which is made available to the Agency by the applicant or the assessment centre; and
     (ii) any other evidence submitted by the applicant or otherwise available to the Agency relating to the medical condition of the applicant.
   (b)
 (2) If the Agency makes an order under subsection (1), every order made under section 65 that applies to the applicant concerned must be treated as having expired.
@@ -4457,7 +4453,7 @@ The functions of the Minister under this Act are—
 (7) The Commissioner or the Agency (as the case may be) may at any time revoke an appointment made by the Commissioner or the Agency under this section.
 
 ### 209 Taking of blood specimens for statistical or research purposes
-(1) Despite anything in any Act or rule of law, a medical practitioner or medical officer employed by an approved health authority—
+(1) Despite anything in any Act or rule of law, a health practitioner or medical officer employed by an approved health authority—
   (a) may, with the general or special approval of that health authority, take for statistical or research purposes, whether in the hospital at which the practitioner or officer is employed or otherwise, a blood specimen from a person who the practitioner or officer believes is in the hospital at which the practitioner or officer is employed for examination, care, or treatment as a result of an accident involving a motor vehicle:
   (b) may, with the consent of a person from whom such a blood specimen may be taken under this subsection, take for such purposes a specimen of breath, saliva, urine, perspiration, or eye vapour from that person.
 (2) A blood, breath, saliva, urine, perspiration, or eye vapour specimen taken under this section must be labelled that it was taken for statistical or research purposes, and evidence as to the proportion of alcohol or of a drug found in that specimen is not admissible in any civil or criminal proceedings in any court or in proceedings before a person acting judicially.
