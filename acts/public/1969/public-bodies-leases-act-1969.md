@@ -1,5 +1,5 @@
 # Public Bodies Leases Act 1969
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the law relating to the powers of certain public bodies to lease land
 
@@ -32,7 +32,7 @@ In this Act, unless the context otherwise requires,—
 (2)
 
 ### 5 Leasing of land to Crown
-Notwithstanding anything in this Act or in any other Act, where any local authority or public body, whether or not it is a leasing authority under this Act, has power to lease any land, it may lease the land to Her Majesty the Queen or to any other local authority or public body by private contract for such term, at such rent, and subject to such conditions as it thinks fit.
+Notwithstanding anything in this Act or in any other Act, where any local authority or public body, whether or not it is a leasing authority under this Act, has power to lease any land, it may lease the land to the Sovereign or to any other local authority or public body by private contract for such term, at such rent, and subject to such conditions as it thinks fit.
 
 ## Part 1 — Leases of land other than farm land
 
@@ -171,7 +171,7 @@ A lease granted under this Act may contain such powers of re-entry and such cove
 (1A) Where the same person is the lessee under 2 or more leases of adjoining land, the leasing authority may—
   (a) accept, on such terms as it thinks fit, a surrender of those leases; and
   (b) without offering the same for public application and ballot or, as the case may be, for sale by public auction or public tender, grant to the former lessee a new lease of all the land comprised in the surrendered leases for the remainder of the term of the surrendered leases where they all have the same expiry date, or, where they do not all have the same expiry date, for a term expiring on a date fixed by the leasing authority, being not later than the latest expiry date under the surrendered leases, at a rent to be fixed by the leasing authority either before or after the surrender, and on any terms and conditions authorised by this Act.
-(1B) For the purposes of section 117 of the Land Transfer Act 1952, every new lease granted under subsection (1A) shall, in relation to each part of the land comprised therein that was subject to any such surrendered lease, be deemed to be in substitution for that surrendered lease.
+(1B) For the purposes of section 95 of the Land Transfer Act 2017, every new lease granted under subsection (1A) shall, in relation to each part of the land comprised therein that was subject to any such surrendered lease, be deemed to be in substitution for that surrendered lease.
 (2) In this section the term lease includes an agreement for a lease, and the term lessee has a corresponding meaning.
 (3) This section applies to leases existing at the commencement of this Act as well as to future leases, and applies to all leases granted by a leasing authority whether under this Act or in the exercise of any other power in that behalf.
 (4) No leasing authority which consists of a body of persons, whether incorporated or not, shall exercise any of the powers conferred by this section except pursuant to a resolution of the leasing authority.
@@ -240,9 +240,9 @@ Within 2 calendar months after the giving of that notice to the lessee, he shall
 ### 6
 If the lessee fails to give to the lessor within the time specified in clause 5 the notice referred to in that clause, he shall be deemed to have agreed to accept a renewal lease at the rent specified in the notice given to him by the lessor.
 
-| 7 | Where the valuation of the rent payable under a renewal lease is to be determined by arbitration, that valuation shall be made by 2 persons as arbitrators, each such person being reasonably believed by the party appointing him to be competent to make the valuation, one of whom shall be appointed by the lessor and the other by the lessee: |
-| --- | --- |
-|  | provided that where, in the opinion of the lessor, the annual rent payable under a renewal lease would not exceed $400, the lessor shall so advise the lessee and the lessee may agree to accept the renewal lease at such rent as may be agreed upon between the lessor and the lessee or, in default of agreement, as may be fixed by the valuation of one independent person to be appointed by agreement between the lessor and the lessee. In default of agreement on such appointment, the rent shall be fixed by arbitration in the manner provided for in the foregoing provisions of this clause. |
+### 7
+Where the valuation of the rent payable under a renewal lease is to be determined by arbitration, that valuation shall be made by 2 persons as arbitrators, each such person being reasonably believed by the party appointing him to be competent to make the valuation, one of whom shall be appointed by the lessor and the other by the lessee:
+provided that where, in the opinion of the lessor, the annual rent payable under a renewal lease would not exceed $400, the lessor shall so advise the lessee and the lessee may agree to accept the renewal lease at such rent as may be agreed upon between the lessor and the lessee or, in default of agreement, as may be fixed by the valuation of one independent person to be appointed by agreement between the lessor and the lessee. In default of agreement on such appointment, the rent shall be fixed by arbitration in the manner provided for in the foregoing provisions of this clause.
 
 ### 8
 The arbitrators, before commencing to make the said valuation, shall together appoint a third person, who shall be an umpire as between them.
