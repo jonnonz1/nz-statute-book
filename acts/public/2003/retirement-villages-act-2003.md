@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -159,8 +159,8 @@ If obligations are imposed on the operator of a retirement village by this Act,�
     (i) be complete, apart from personal information relating to particular residents or particular occupation right agreements; and
     (ii) disclose whether any holder of a security interest to whom section 12(1)﻿(b) applies has refused to consent to the registration of the village and the effect of that refusal; and
   (b) a full legal description of the part of the property, building, or premises comprising the retirement village, together with—
-    (i) copies of any certificates of title, plans, deeds, leases, or other documents evidencing that description, and identifying any computer registers on which the certificates of title are recorded; and
-    (ii) the address of the holder of any security interest registered against any of those certificates of title; and
+    (i) copies of any records of title, plans, deeds, leases, or other documents evidencing that description; and
+    (ii) the address of the holder of any security interest registered against any of those records of title; and
   (c) unless the operator of the retirement village is exempt, under section 41, from the requirement to appoint a statutory supervisor, the name of the statutory supervisor, a copy of the statutory supervisor's consent to act, and a copy of the deed of supervision; and
   (d) the form of the occupation right agreement; and
   (e) the prescribed fee for registration or an application for approval to pay the prescribed fee by arrangement; and
@@ -268,18 +268,18 @@ Every operator of a retirement village and the Registrar must comply with the ap
 
 **Memorials**
 
-### 21 Memorial on certificates of title of retirement villages
+### 21 Memorial on records of title of retirement villages
 (1) The Registrar must notify the Registrar-General of Land of the registration of a retirement village, and of any change to the property, building, or premises comprising the retirement village notified to the Registrar in accordance with section 13 or section 17.
-(2) The notification must contain a description of the land that comprises the retirement village and identifies the particular certificates of title or computer registers required to be noted under subsection (3), a copy of any written consent to registration of the village lodged with the Registrar under section 12(1)﻿(c), and the address of the holder of any security interest that is registered against the title.
-(3) The Registrar-General of Land must note on every certificate of title or computer register relating to a registered retirement village the words Subject to section 22 of the Retirement Villages Act 2003 (which provides priority for the rights of residents ahead of the rights of holders of security interests).
-(4) The Registrar-General of Land must, when the memorial referred to in subsection (3) is noted, give notice of the memorial to the holder of any security interest registered against the certificate of title.
+(2) The notification must contain a description of the land that comprises the retirement village and identifies the particular records of title required to be noted under subsection (3), a copy of any written consent to registration of the village lodged with the Registrar under section 12(1)﻿(c), and the address of the holder of any security interest that is registered against the title.
+(3) The Registrar-General of Land must note on every record of title relating to a registered retirement village the words Subject to section 22 of the Retirement Villages Act 2003 (which provides priority for the rights of residents ahead of the rights of holders of security interests).
+(4) The Registrar-General of Land must, when the memorial referred to in subsection (3) is noted, give notice of the memorial to the holder of any security interest registered against the record of title.
 
 ### 22 Effect of memorial
 (1) If a memorial is entered under section 21, then, unless all residents of the retirement village have received independent legal advice and at least 90% of those residents have consented in writing, the holder of a security interest or any receiver or liquidator or statutory manager of property comprising the retirement village or of any operator of the village must not exercise any right to—
   (a) dispose of the retirement village other than as a going concern; or
   (b) disclaim any occupation right agreement relating to the retirement village as onerous property under section 269 of the Companies Act 1993 or section 117 of the Insolvency Act 2006; or
   (c) evict any resident or exclude any resident from the use of any facilities or any part of the retirement village to which that resident is ordinarily entitled.
-(2) Subsection (1) applies whether or not the security interest is registered against the certificate of title.
+(2) Subsection (1) applies whether or not the security interest is registered against the record of title.
 (3) The holder of the security interest, or any receiver or liquidator or statutory manager of property comprising the retirement village or of an operator of the village, may apply to the High Court for an exemption from any requirement of subsection (1), and that exemption may be granted subject to any conditions that the court considers appropriate.
 (4) This section does not affect—
   (a) the exercise of any right conferred on any person under an occupation right agreement (including, without limitation, any right to specified services or any right conferred on the operator of a retirement village to terminate the occupation right of a resident or exclude a resident from the use of any facilities or part of the village, or to reduce or cancel services); or
@@ -294,8 +294,8 @@ Every operator of a retirement village and the Registrar must comply with the ap
 
 ### 23 Memorial and loss of registration
 (1) If the registration of a retirement village is cancelled under section 19 (but not if it is suspended under section 18), the Registrar must notify the Registrar-General of Land of that cancellation.
-(2) The notification must identify the particular certificates of title or computer registers to enable the Registrar-General of Land to act under subsection (3).
-(3) Upon receipt of a notice under subsection (1), the Registrar-General of Land must remove a memorial on a certificate of title entered under section 21.
+(2) The notification must identify the particular records of title to enable the Registrar-General of Land to act under subsection (3).
+(3) Upon receipt of a notice under subsection (1), the Registrar-General of Land must remove a memorial on a record of title entered under section 21.
 
 **Statutory supervisor to be asked to act as representative**
 
