@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to building societies
 
@@ -32,7 +32,7 @@ _Consolidation as at 2017-05-30_
   - **land** includes—
     (a) all estates or interests, whether freehold or chattel, in real property; and
     (b) a licensee's interest under—
-      (i) a licence to occupy (within the meaning of section 121A of the Land Transfer Act 1952); or
+      (i) a licence to occupy (within the meaning of section 122 of the Land Transfer Act 2017); or
       (ii) a deferred payment licence (within the meaning of section 2 of the Land Act 1948)
   - **liabilities** means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere)
   - **member** , in relation to a society, includes—
@@ -394,7 +394,7 @@ Any person under the age of 20 years may, if the rules do not otherwise provide,
 (2) A statement under subsection (1) shall be sent to every member qualified to vote on the special resolution to approve the union, or to effect the transfer of engagements, as the case may be, together with the notice of meeting required to be sent to each such member.
 (3) If the Registrar receives a notice of a union or transfer under section 32 or 33 and is satisfied that those sections and this section have been complied with, the Registrar must register the notice.
 (4) The registration by the Registrar of notice of the union or transfer shall operate, by virtue of this subsection and without further assurance, as an effectual transfer and assignment, as at the date of the registration, to the united society or, as the case may be, to the society to which the engagements are transferred, of the funds, property, and assets of the relevant society, or, as the case may be, of such part of those funds, property, and assets as are provided for by the resolution to approve the union or to effect the transfer, as the case may be.
-(5) Where by virtue of subsection (4) any land or interest in land becomes vested in the united society or, as the case may require, the society to which the engagements are transferred, the District Land Registrar, on the request of the said society and on payment of the appropriate fee, and on being satisfied, by statutory declaration or otherwise, of the title of the said society, shall make such entries in the register and on any outstanding documents of title and generally do such things as may be necessary to give effect to that subsection.
+(5) Where by virtue of subsection (4) any land or interest in land becomes vested in the united society or, as the case may require, the society to which the engagements are transferred, the Registrar-General of Land, on the request of the said society and on payment of the appropriate fee, and on being satisfied, by statutory declaration or otherwise, of the title of the said society, shall make such entries in the register and generally do such things as may be necessary to give effect to that subsection.
 (6) The union or transfer of engagements shall not affect the rights of any creditor of the relevant society.
 (7) A failure to comply with any of the provisions of subsections (1) and (2) shall not invalidate the union or transfer of engagements; but if the relevant society fails to comply with any of those provisions the society, and every officer of the society who is in default, shall be guilty of an offence against this Act.
 
@@ -1078,12 +1078,12 @@ For the purposes of the Acts of Parliament specified in the Schedule of the Tax 
   (b) all transactions entered into by, and acts of, the society before the conversion date shall be deemed to have been entered into by, or to be those of, the company and to have been entered into or performed by the company at the time when they were entered into or performed by the society.
 
 ### 113S Registers
-(1) No Registrar of Deeds or District Land Registrar or any other person charged with the keeping of any books or registers shall be obliged solely by reason of the foregoing provisions of this Part to change the name of a society to that of a company in those books or registers or in any document.
+(1) The Registrar-General of Land, the Registrar of Deeds, or any other person charged with the keeping of any books or registers is not obliged solely by reason of the foregoing provisions of this Part to change the name of a society to that of a company in those books or registers or in any document.
 (2) The presentation to any registrar or other person of any instrument, whether or not comprising an instrument of transfer by the company,—shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the company.
   (a) executed or purporting to be executed by the company; and
   (b) relating to any property held immediately before the conversion date by the society; and
   (c) containing a recital that that property has become vested in the company, by virtue of the provisions of this Part—
-(3) No fee shall be payable to any District Land Registrar under the Land Transfer Act 1952 or any regulations made under that Act for any act, matter, or thing in respect of which a fee is prescribed if the act or thing is done or the matter arises—
+(3) No fee shall be payable to the Registrar-General of Land under the Land Transfer Act 2017 or any regulations made under that Act for any act, matter, or thing in respect of which a fee is prescribed if the act or thing is done or the matter arises—
   (a) solely by reason of the change of name of a society to that of a company pursuant to this Part; and
   (b) other than at the request of the society or the company into which the society has become converted.
 
