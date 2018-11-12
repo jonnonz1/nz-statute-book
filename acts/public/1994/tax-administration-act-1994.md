@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3608,7 +3608,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (sc) communicating, for the purpose of section 85N, information relating to a taxpayer and reportable unpaid tax to an approved credit reporting agency:
   (t) communicating to any person who is an employee of the Treasury (as defined in section 2 of the Public Finance Act 1989), any information communicated to that person for the purposes of section LH 15 of the Income Tax Act 2007:
   (u) communicating to a person's fund provider under section 220B of the KiwiSaver Act 2006 any information specified in that section for the purposes set out in the section:
-  (v) communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 156J of the Land Transfer Act 1952 any information specified in subsection (1) of that section for the purpose set out in that subsection:
+  (v) communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 86 of the Land Transfer Act 2017 any information specified in subsection (1) of that section for the purpose set out in that subsection:
   (w) communicating to an officer, employee, or agent of Callaghan Innovation, information for the purpose of administering subpart MX of the Income Tax Act 2007:
   (x) communicating to an officer, employee, or agent of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Research, Science, and Technology Act 2010, information for the purpose of administering subpart MX of the Income Tax Act 2007:
   (y) communicating to a person who is an authorised officer of the department for the time being responsible for the New Zealand Business Number Act 2016 any information that is—
@@ -7512,10 +7512,10 @@ Every person who under this Act pays any tax for or on behalf of any other perso
 (6) Any charge created by this section which is registered against any property shall operate to secure any amount secured by any prior unregistered charge and unpaid at the time of the registration of the charge, and also to secure any amount secured by any charge coming into existence after the registration of the charge, to the intent that the registered charge shall operate to secure the total of all amounts for the time being owing by the employer under all charges created by this section.
 (7) If any amount constitutes by virtue of this section a charge on any property the High Court may make such order as it thinks fit, either for the sale of that property or any part of that property, or for the appointment of a receiver of the rents, profits, or income of that property, and for the payment of the amount of the charge and the costs of the Commissioner out of the proceeds of the sale or out of the rents, profits, or income.
 (8) Where any property has been sold under any such order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
-(9) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order, and in the case of land which is subject to the Land Transfer Act 1952 the purchaser's title to that land shall be registered accordingly.
+(9) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order, and in the case of land which is subject to the Land Transfer Act 2017 the purchaser's title to that land shall be registered accordingly.
 (10) This section shall apply subject to section 167.
 (11) In this section, registration Act, in relation to any property, includes—
-  (a) the Statutory Land Charges Registration Act 1928, in every case where the property is land or an interest in land (including a mortgage):
+  (a) subpart 5 of Part 3 of the Land Transfer Act 2017, in every case where the property is land or an interest in land (including a mortgage):
   (b) the Personal Property Securities Act 1999.
 
 ### 170 Recovery of RWT
