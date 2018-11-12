@@ -1,5 +1,5 @@
 # Ministry of Works and Development Abolition Act 1988
-_Consolidation as at 1992-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for matters consequential on the abolition of the Ministry of Works and Development
 
@@ -42,7 +42,7 @@ Where any provision is made in any contract entered into by or on behalf of the 
 
 ### 7 Savings as to various documents
 (1) Any lease, licence, statutory land charge, mortgage, debenture, instrument by way of security, deed of covenant, deed of encumbrance, easement, profit à prendre, or any other like interest howsoever held by the Minister of Works and Development (whether for and on behalf of the Crown or otherwise) shall forthwith upon the commencement of this Act vest in the Minister of Lands acting for and on behalf of the Crown, who may do all such things and matters in relation to the administration of such interests as may be necessary or expedient.
-(2) Any instrument relating to any interest referred to in subsection (1) may be acted upon by any District Land Registrar, Registrar of Companies, or Registrar of the High Court in relation to any variation, discharge, or other action upon request from the Minister of Lands acting for and on behalf of the Crown.
+(2) Any instrument relating to any interest referred to in subsection (1) may be acted upon by the Registrar-General of Land, any Registrar of Companies, or any Registrar of the High Court in relation to any variation, discharge, or other action upon request from the Minister of Lands acting for and on behalf of the Crown.
 
 ### 8 Amendments to local Acts
 The enactments specified in the Schedule are hereby amended in the manner indicated in that schedule.
