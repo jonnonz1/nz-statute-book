@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to trusts and trustees
 
@@ -189,7 +189,7 @@ Where—the security shall be deemed to be an investment that could properly be 
 
 ### 13P Release of part of security
 (1) Where any trust funds are invested and secured on any property, the trustee may release any part of the property from the security, whether part of the debt is repaid or not, if the unreleased part of the property would at the time be a proper security in all respects for the amount remaining unpaid.
-(2) Where trust funds are invested and secured on any land under the Land Transfer Act 1952, a subsequent purchaser of the released part of the property, or the District Land Registrar, shall not be concerned to inquire whether the requirements of subsection (1) were fulfilled.
+(2) Where trust funds are invested and secured on any land under the Land Transfer Act 2017, a subsequent purchaser of the released part of the property, or the Registrar-General of Land, shall not be concerned to inquire whether the requirements of subsection (1) were fulfilled.
 
 ### 13Q Power of court to set off gains and losses arising from investment
 (1) In considering any action for breach of trust arising in respect of or in relation to any investment by a trustee as a result of which any loss or losses have been, or are expected to be, sustained by the trust, the court may set off, as it thinks just, all or any part of the loss or losses resulting from that investment against all or any part of the gain or gains resulting from any other investment, whether in breach of trust or not.
@@ -298,7 +298,7 @@ A trustee may, if and as he thinks fit,—and for any of those purposes may ente
 
 ### 22 Protection of purchasers, etc, dealing with trustee
 (1) Where an instrument is made or executed in professed exercise of the power to sell, exchange, lease, or mortgage conferred by the instrument (if any) creating the trust or by this Act or any other Act, the title of the purchaser, transferee, lessee, or mortgagee shall not be impeachable except on the ground of fraud, or be affected on the ground that no case has arisen to authorise the sale, exchange, lease, or mortgage, or that the power was otherwise improperly or irregularly exercised; but any person damnified by an unauthorised or improper or irregular exercise of the power shall have his remedy in damages against the person exercising the power, and no purchaser, transferee, lessee, or mortgagee shall be concerned to see to the application of the money paid by him, or be responsible for the misapplication thereof.
-(2) Nothing in this section shall restrict the provisions of the Land Transfer Act 1952.
+(2) Nothing in this section shall restrict the provisions of the Land Transfer Act 2017.
 
 ### 23 Devolution of powers or trusts
 (1) Where a power or trust is given to or imposed on 2 or more trustees jointly, the same may be exercised or performed by the survivors or survivor of them for the time being.
@@ -584,7 +584,7 @@ Where any property is employed in an activity that the trustee is empowered or a
 
 ### 47 Vesting of trust property in new or continuing trustees
 (1) Where by a deed a new trustee is appointed to perform any trust, then—
-  (a) if the deed contains a declaration by the appointor to the effect that any estate or interest in any land that is subject to the trust and is not under the Land Transfer Act 1952 or excluded from the operation of this section by subsection (4) thereof or in any chattel so subject, or the right to recover or receive any debt or other thing in action so subject, shall vest in the persons who by virtue of the deed become or are the trustees for performing the trust, the deed shall operate, without any conveyance or assignment, to vest in those persons as joint tenants and for the purposes of the trust the estate or interest or right to which the declaration relates; and
+  (a) if the deed contains a declaration by the appointor to the effect that any estate or interest in any land that is subject to the trust and is not under the Land Transfer Act 2017 or excluded from the operation of this section by subsection (4) thereof or in any chattel so subject, or the right to recover or receive any debt or other thing in action so subject, shall vest in the persons who by virtue of the deed become or are the trustees for performing the trust, the deed shall operate, without any conveyance or assignment, to vest in those persons as joint tenants and for the purposes of the trust the estate or interest or right to which the declaration relates; and
   (b) if the deed is made after the commencement of this Act and does not contain such a declaration, the deed shall, subject to any express provision to the contrary therein contained, operate as if it had contained such a declaration by the appointor extending to all the estates, interests, and rights with respect to which a declaration could have been made.
 (2) Where by a deed a retiring trustee is discharged under the statutory power without a new trustee being appointed, then—
   (a) if the deed contains such a declaration as aforesaid by the retiring and continuing trustees, and by the other person (if any) empowered to appoint trustees, the deed shall, without any conveyance or assignment, operate to vest in the continuing trustees alone, as joint tenants, and for the purposes of the trust, the estate or interest or right to which the declaration relates; and
@@ -699,7 +699,7 @@ Where a judgment is given for the specific performance of a contract concerning 
 (1) A vesting order under any of the foregoing provisions shall, in the case of a vesting order consequential on the appointment of a trustee, have the same effect—and shall in every other case have the same effect as if the trustee or other person or description or class of persons to whose rights or supposed rights the said provisions respectively relate had been an ascertained and existing person of full age and full mental capacity and had executed a conveyance or release to the effect intended by the order.
   (a) as if the persons who before the appointment were the trustees, if any, had duly executed all proper conveyances of the land for such estate or interest as the court directs; or
   (b) if there is no such person or no such person of full age and full mental capacity, as if such person had existed and been of full age and full mental capacity and had duly executed all proper conveyances of the land for such estate or interest as the court directs;
-(2) This section shall, as regards land under the Land Transfer Act 1952, be read and construed subject to section 99 of that Act.
+(2) This section shall, as regards land under the Land Transfer Act 2017, be read and construed subject to section 89 of that Act.
 
 ### 58 Power to appoint person to convey
 In all cases where a vesting order can be made under any of the foregoing provisions, the court may, if it is more convenient, appoint a person to convey the land or any interest therein or release the contingent right, and a conveyance, or release by that person in conformity with the order shall have the same effect as an order under the appropriate provision.
