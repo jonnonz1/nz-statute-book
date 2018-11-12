@@ -1,5 +1,5 @@
 # Charitable Trusts Act 1957
-_Consolidation as at 2013-12-05_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to charitable trusts
 
@@ -26,7 +26,7 @@ This Act shall bind the Crown.
 ### 4 Evidence of appointment of trustees
 (1) For the purpose of preserving evidence of every appointment of new trustees to which section 3 applies and of the persons in whom any estate or interest in property from time to time becomes legally vested, every such appointment shall be made to appear by a memorandum under the hand of the chairman for the time being of the meeting at which the appointment was made, and shall be executed either in the presence of that meeting or at any time after that meeting, and attested by 2 or more witnesses.
 (2) Any such memorandum may be in the form or to the effect of Schedule 1, or as near thereto as circumstances will allow, and may be given and shall be received as evidence in all courts and proceedings in the same manner and on the like proof as deeds, and shall be evidence of the truth of the several matters therein stated.
-(3) Every memorandum made under this section of an appointment of new trustees shall, if it affects land under the Land Transfer Act 1952, be filed in a Land Registry Office; and, as regards land in any land registration district, the appointment shall not have any operative effect until after the filing in the Land Registry Office of that district of the memorandum or of a copy thereof certified by the District Land Registrar in whose office the memorandum has been filed.
+(3) Every memorandum made under this section of an appointment of new trustees must, if it affects land under the Land Transfer Act 2017, be lodged with the Registrar-General of Land; and, as regards that land, the appointment has no operative effect until the memorandum or a copy of it has been certified by the Registrar-General of Land.
 
 ### 5 Transfer of properties
 Where any property is vested in or held by any person in trust for or for the benefit (directly or indirectly) of any body or corporation, or for the maintenance and support of the officers or members of any body or corporation, whether or not the trust or purpose appears upon the face of the conveyance or other instrument under which the property is held and whether or not the trust is for any charitable purpose, it shall be lawful for the person to convey or transfer the property so held to such trustees as the body or corporation directs or appoints or (in the case of a corporation) to the corporation.
@@ -87,7 +87,7 @@ Every board shall have perpetual succession and a common seal, and (subject to t
 
 ### 14 Vesting of property
 (1) All property held by the trustees of any such trust or by any such society shall immediately upon incorporation of the trustees or society as a board vest without transfer, conveyance, or assignment in the board for the same purposes, with the same powers, and upon and subject to the same trusts, contracts, and equities as then affect the same.
-(2) Where any estate or interest in, or any mortgage or charge on, any land under the Land Transfer Act 1952 is vested in a board by virtue of this section, the District Land Registrar for the land registration district in which the land is situated shall, on receiving a written application under the common seal of the board, register the board as proprietor of that estate, interest, mortgage, or charge.
+(2) Where any estate or interest in, or any mortgage or charge on, any land under the Land Transfer Act 2017 is vested in a board by virtue of this section, the Registrar-General of Land shall, on receiving a written application under the common seal of the board, register the board as proprietor of that estate, interest, mortgage, or charge.
 
 ### 15 Name of board
 (1) No trustees or society shall be incorporated under a name which is identical with that of any other board, or of any company carrying on business in New Zealand (whether registered in New Zealand or not) or of any other body corporate established or registered in New Zealand under any Act, or which so nearly resembles that name as to be calculated to deceive, except where the other board, company, or body corporate, as the case may be, signifies its consent in such manner as the Registrar requires, and the Registrar is satisfied that registration of the board by that name will not be contrary to the public interest.
@@ -139,7 +139,7 @@ Nothing in this Act shall prevent any company, society, or corporation from bein
 
 ### 24 Voluntary liquidation of society as a board
 (1) In any case where a society is incorporated as a board, the board may be put into liquidation if at a general meeting of its members it passes a resolution appointing a liquidator, and the resolution is confirmed at a subsequent general meeting called for that purpose and held not sooner than the 28th day and not later than the 42nd day after the date on which the resolution to be confirmed was passed.
-(2) Subject to this Act and to any regulations made under this Act, Parts 16 and 17 of the Companies Act 1993, with such modifications as may be necessary, shall apply to the liquidation as if the resolution had been passed under section 241(2)(a) of that Act.
+(2) Subject to this Act and to any regulations made under this Act, Parts 16 and 17 of the Companies Act 1993, with such modifications as may be necessary, shall apply to the liquidation as if the resolution had been passed under section 241(2)﻿(a) of that Act.
 
 ### 25 Liquidation of a board by court
 (1) A board may be put into liquidation by the appointment by the court as liquidator of a named person or an Official Assignee for a named district if the court is satisfied that it is just and equitable that the board should be put into liquidation.
@@ -152,8 +152,8 @@ Nothing in this Act shall prevent any company, society, or corporation from bein
   (f) any other person who, in the opinion of the court, should make the application.
 (3) All costs incurred by the Attorney-General or the Registrar in making the application shall, unless the court otherwise orders, be a first charge on the assets of the board.
 (4) Subject to this Act and to any regulations made under this Act, Parts 16 and 17 of the Companies Act 1993 shall apply, with such modifications as may be necessary,—
-  (a) to the application for the appointment of a liquidator as if the application was an application under section 241(2)(c) of that Act; and
-  (b) to the liquidation as if the liquidator had been appointed under section 241(2)(c) of that Act.
+  (a) to the application for the appointment of a liquidator as if the application was an application under section 241(2)﻿(c) of that Act; and
+  (b) to the liquidation as if the liquidator had been appointed under section 241(2)﻿(c) of that Act.
 
 ### 26 Dissolution by Registrar
 (1) The Registrar may make a declaration (a declaration of dissolution) that a board is dissolved, if the Registrar is satisfied that the board—
