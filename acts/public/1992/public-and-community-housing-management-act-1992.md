@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -56,7 +56,6 @@ _Consolidation as at 2018-07-01_
     (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights whether enforceable by Act or rule of law belonging to the Corporation:
     (f) goodwill and any business undertaking of the Corporation
   - **Corporation liabilities** means liabilities of the Corporation
-  - **District Land Registrar** means a District Land Registrar appointed under the Land Transfer Act 1952; and includes a Registrar of Deeds
   - **HNZ** means the company
   - **HNZ housing** means premises (whether owned by the Crown, HNZ, or any other person) let or to be let by or on behalf of HNZ for occupation by any person as a place of residence
   - **income-related purpose** has the same meaning as in section 3(1) of the Social Security Act 1964
@@ -205,7 +204,7 @@ The shareholding Ministers and the company may agree pursuant to section 22 that
   (c) shall be regarded as placing the Crown, the company, the Corporation, or any other person in breach of any enactment or rule of law or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property or the disclosure of any information; or
   (d) shall release any surety from any obligation; or
   (e) shall invalidate or discharge any contract or security.
-(2) District Land Registrars and other persons charged with the keeping of books or registers are hereby authorised to make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any State housing assets or liabilities and Corporation assets or liabilities in the company under this Part.
+(2) The Registrar-General of Land or any other person charged with the keeping of books or registers is hereby authorised to make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any State housing assets or liabilities and Corporation assets or liabilities in the company under this Part.
 (3) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that land described in the certificate, or described in any document on which the certificate appears, is land vested in the company pursuant to this Part shall be sufficient evidence, in the absence of proof to the contrary, that the land was so vested.
 (4) Where State housing assets or liabilities or Corporation assets or liabilities vest in the company pursuant to this Part,—
   (a) the publication under the Acts and Regulations Publication Act 1989 or the Legislation Act 2012 of any Order in Council made under section 24 of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
@@ -233,17 +232,16 @@ The shareholding Ministers and the company may agree pursuant to section 22 that
 (5) Nothing in this Part or in any vesting of land in the company pursuant to this Part shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
 
 ### 28 Title to land vested in company
-(1) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee,—
-  (a) register the company as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the company pursuant to this Part; and
-  (b) register the company as the proprietor, in substitution for the Corporation, of the estate or the interest of the Corporation in land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the company pursuant to this Part; and
-  (c) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
+(1) The Registrar-General of Land must, on written application by any person authorised by either of the shareholding Ministers and on payment of any prescribed fee,—
+  (a) register the company as the owner, in substitution for the Crown, of the estate or the interest of the Crown in land that is incorporated in the register or otherwise registered and that is vested in the company pursuant to this Part; and
+  (b) register the company as the owner, in substitution for the Corporation, of the estate or the interest of the Corporation in land that is incorporated in the register or otherwise registered and that is vested in the company pursuant to this Part.
 (2) The powers conferred by subsection (1) may be exercised in respect of any estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or been determined.
-(3) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers, and on payment of the prescribed fee, issue a certificate of title for land, other than land that is registered under the Land Transfer Act 1952, that is vested in the company pursuant to this Part in form 1 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
-(4) A District Land Registrar shall, on written application by a person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a certificate of title for land that is subject to the Land Transfer Act 1952 but for which no certificate of title has been issued and that is vested in the company pursuant to this Part in form 2 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
-(5) Every application under subsection (1) or subsection (3) or subsection (4) shall—
-  (a) state that the land has been vested in the company under this Part; and
+(3) The Registrar-General of Land must, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a record of title for land, other than land that is registered under the Land Transfer Act 2017, that is vested in the company pursuant to this Part.
+(4) The Registrar-General of Land must, on written application by a person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a record of title for land that is subject to the Land Transfer Act 2017 but for which no record of title has been issued and that is vested in the company pursuant to this Part.
+(5) Every application under subsection (1) must—
+  (a) state that the land has been vested in the Corporation under this Act; and
   (b) contain a description of the land that is sufficient to identify it; and
-  (c) in the case of an application under subsection (3), be accompanied by a certificate by the Chief Surveyor for the district concerned as to the correctness of the description.
+  (c) in the case of land that has not previously been registered under the Land Transfer Act 2017, be accompanied by a certificate from the Surveyor-General in the form required by section 29(1).
 (6) Where land is vested in the company pursuant to this Part and at any time before 1 October 1991 (being the date of the coming into force of Part 10 of the Resource Management Act 1991), in relation to a proposed subdivision of the land, either the Crown or the Corporation held an approval under the Local Government Act 1974 (being an approval that expired before that date) or no approval under that Act or any other Act was required, as the case may be,—
   (a) any person authorised by either of the shareholding Ministers may, notwithstanding the Resource Management Act 1991, lodge for deposit by a District Land Registrar a survey plan in respect of the land and, in any such case, the District Land Registrar shall, notwithstanding that Act but subject to the provisions of any other applicable enactment,—
     (i) deposit any such plan; and
@@ -252,13 +250,13 @@ The shareholding Ministers and the company may agree pursuant to section 22 that
 (7) For the purposes of subsection (6), the expressions allotment, subdivision, and survey plan shall have the same meanings as in the Resource Management Act 1991.
 
 ### 29 Land certification
-(1) Before a District Land Registrar issues a certificate of title in respect of any land, other than land that is registered under the Land Transfer Act 1952, that is vested in the company pursuant to this Part, the District Land Registrar shall either receive under the hand of, or request from, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in a form substantially similar to the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
-(2) A certificate in accordance with subsection (1) shall be filed by the District Land Registrar in the land registry office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in it.
+(1) Before the Registrar-General of Land issues a record of title in respect of any land, other than land that is registered under the Land Transfer Act 2017, that is vested in the company pursuant to this Part, the Registrar-General of Land must either receive under the hand of, or request from, the chief executive within the meaning of section 4 of the Cadastral Survey Act 2002 or the Surveyor-General a certificate in a form substantially similar to the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the Registrar-General of Land considers appropriate.
+(2) A certificate referred to in subsection (1) must be recorded by the Registrar-General of Land in the register and is conclusive evidence to the Registrar-General of Land of the matters required to be stated in it.
 
 ### 30 Certification of easements
-(1) Where land is vested in the company pursuant to this Part subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under section 29(1) of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
-(2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
-(3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
+(1) Where land is vested in the company pursuant to this Part subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 2017, the chief executive within the meaning of section 4 of the Cadastral Survey Act 2002 or the Surveyor-General must include in the certificate given under section 29(1) of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching to it.
+(2) The Registrar-General of Land shall enter a memorial of the easement upon the relevant record of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
+(3) Where a memorial of an easement is entered upon the relevant record of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 2017.
 
 ### 31 Orders in Council relating to vesting of State housing assets and liabilities and Corporation assets and liabilities
 For the purpose of facilitating the vesting of State housing assets or liabilities and Corporation assets or liabilities in the company pursuant to this Part, the Governor-General may, from time to time, by Order in Council, do any one or more of the following:
@@ -299,9 +297,7 @@ Where, before the vesting of any land in the company pursuant to this Part, any 
 (3) Where land taken or acquired by the Crown under the Public Works Act 1981 before it was vested in the company pursuant to this Part is vested in the Crown pursuant to an Order in Council under this section, the provisions of that Act shall apply to the land as if the land continued to be land taken or acquired under that Act.
 
 ### 36 Title to land vested in the Crown
-(1) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee,—
-  (a) register the Crown as the proprietor, in substitution for the company, of the estate or interest of the company in any land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the Crown pursuant to an Order in Council made under section 35; and
-  (b) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
+(1) The Registrar-General of Land must, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee, register the Crown as the owner, in substitution for the company, of the estate or interest of the company in any land that is incorporated in the register or otherwise registered and that is vested in the Crown pursuant to an Order in Council made under section 35.
 (2) Every application under this section shall—
   (a) state that the land has been vested in the Crown under section 35; and
   (b) contain a description of the land that is sufficient to identify it.
@@ -1694,7 +1690,7 @@ The authority must, as soon as practicable after receiving an application for re
 The authority must establish and maintain a register of community housing providers that includes the following information about each registered provider:
   (a) the current (and any former) full name and address and incorporation details (if applicable) of the provider; and
   (b) the full names and addresses and appointment details of the current (and former) members of its governing body (if applicable); and
-  (c) the full details of any land in respect of which the provider is or was a registered proprietor, or over which it holds or has held a lease, tenancy agreement, or licence of more than 3 years' duration, or at which it provides or has provided community housing services to the public; and
+  (c) the full details of any land in respect of which the provider is or was a registered owner, or over which it holds or has held a lease, tenancy agreement, or licence of more than 3 years' duration, or at which it provides or has provided community housing services to the public; and
   (d) its registration details as a registered community housing provider; and
   (e) any prescribed information or documents.
 
