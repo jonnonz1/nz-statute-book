@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -946,7 +946,7 @@ A toll operator may deny a motor vehicle physical access to its toll road, or pa
 (8) For the purposes of this section, written agreement includes (but is not limited to) a written agreement that a private sector person has entered into with a road controlling authority to construct or operate a new road.
 
 ### 64 Registration of leases
-Despite anything in the Land Transfer Act 1952, if a lease under section 63 is in the form of a deed and the lease is granted over land for which no certificate of title or computer register has been issued or created under that Act or the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, the Minister may request the Registrar-General of Land to register the deed by constituting it as a computer interest register under section 9 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; and the Registrar-General of Land must register the deed accordingly.
+If a lease under section 63 is in the form of a deed and no record of title has been issued, the Minister may request the Registrar-General of Land to register the lease by issuing a record of title for it pursuant to section 12 of the Land Transfer Act 2017.
 
 **Enforcement of this Part and other land transport legislation**
 
