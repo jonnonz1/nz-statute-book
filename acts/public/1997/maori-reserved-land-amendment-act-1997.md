@@ -1,5 +1,5 @@
 # Maori Reserved Land Amendment Act 1997
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to amend the Maori Reserved Land Act 1955
 
@@ -96,13 +96,13 @@ Where land that is subject to a lease to which this Act applies, or a lessee's i
   (c) Proceedings under the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955 in respect of the estate of the testator or intestate,—
 (4) The High Court may make an order under subsection (2)﻿(b) on such terms and conditions as the High Court thinks fit.
 
-### 11 District Land Registrar to note certificate of title and lease
-(1) Subject to subsection (2), as soon as reasonably practicable after the commencement of this Act, the District Land Registrar must, in relation to every lease to which this Act applies, make all such entries in the register, and do all such other things as may be necessary to give effect to the provisions of this Act.
-(2) Subsection (1) applies only where a lease has a number or a certificate of title specified in respect of it in Schedule 3.
-(3) Where Schedule 3 is amended pursuant to section 29 to specify a number or certificate of title in respect of a lease to which this Act applies or to add the details (including the number or certificate of title) of a lease to which the principal Act applies, the District Land Registrar must (on being supplied with the Order in Council making the amendment, and without fee) note on the lease and the certificate of title that the lease is subject to this Act.
+### 11 Registrar-General of Land to note record of title and lease
+(1) Subject to subsection (2), as soon as reasonably practicable after the commencement of this Act, the Registrar-General of Land must, in relation to every lease to which this Act applies, make all such entries in the register, and do all such other things as may be necessary to give effect to the provisions of this Act.
+(2) Subsection (1) applies only where a lease has a number or a record of title specified in respect of it in Schedule 3.
+(3) Where Schedule 3 is amended pursuant to section 29 to specify a number or record of title in respect of a lease to which this Act applies or to add the details (including the number or record of title) of a lease to which the principal Act applies, the Registrar-General of Land must (on being supplied with the Order in Council making the amendment, and without fee) note on the lease and the record of title that the lease is subject to this Act.
 
-### 12 District Land Registrar not to register transfer in certain cases
-The District Land Registrar must not register a transfer of any land that is subject to a lease to which this Act applies or of the lessee's interest in a lease to which this Act applies unless—
+### 12 Registrar-General of Land not to register transfer in certain cases
+The Registrar-General of Land must not register a transfer of any land that is subject to a lease to which this Act applies or of the lessee's interest in a lease to which this Act applies unless—
   (a) The transfer is to the lessor or lessee; or
   (b) Where the transfer is to a third party, the lessor or lessee that is not a party to the transfer consents in writing to the transfer; or
   (c) The transfer is accompanied by a certificate from the solicitor acting for the transferor that the transfer does not contravene the provisions in Schedule 1.
@@ -121,7 +121,7 @@ The District Land Registrar must not register a transfer of any land that is sub
     (ii) In the change to a fair annual rent based on the unimproved value of the land; and
   (b) For the conditions imposed by this Act on the transfer by the lessor of the land subject to the lease.
 (3) The compensation payable to a lessor under subsection (1) or subsection (2) must be determined in accordance with Schedule 2.
-(4) In this section, the term lessor means, in relation to land under the Land Transfer Act 1952, the registered proprietor of the land.
+(4) In this section, the term lessor means, in relation to land under the Land Transfer Act 2017, the registered owner of the land.
 
 ### 14 Right of lessor to elect to have compensation determined by Land Valuation Tribunal
 (1) The chief executive of Te Puni Kokiri must, after the commencement of this Act, give to each lessor to whom this Act applies a notice specifying both—
@@ -142,7 +142,7 @@ The District Land Registrar must not register a transfer of any land that is sub
 (8) Where the lessor does not, within the period allowed by subsection (4), take either of the steps permitted by that subsection, the lessor is deemed to have given to the chief executive on the last day of that period a notice under subsection (4)﻿(a).
 (9) In this section,—
   - **Land Valuation Tribunal** has the meaning given to it by section 2 of the Land Valuation Proceedings Act 1948
-  - **Lessor** means, in relation to land under the Land Transfer Act 1952, the registered proprietor of the land.
+  - **Lessor** means, in relation to land under the Land Transfer Act 2017, the registered owner of the land.
 
 ### 15 Determination of compensation by Land Valuation Tribunal
 (1) Where a lessor files an application under section 14(4)﻿(b), the Land Valuation Tribunal has jurisdiction to determine, in accordance with this section, the amount to be paid to the lessor by the Crown as compensation—
@@ -154,7 +154,7 @@ The District Land Registrar must not register a transfer of any land that is sub
 (3) Every application made under section 14(4)﻿(b) must, subject to this section, be dealt with by the Land Valuation Tribunal in accordance with the provisions of the Land Valuation Proceedings Act 1948, which is to apply with all necessary modifications.
 (4) In this section,—
   - **Land Valuation Tribunal** has the meaning given to it by section 2 of the Land Valuation Proceedings Act 1948
-  - **Lessor** means, in relation to land under the Land Transfer Act 1952, the registered proprietor of the land.
+  - **Lessor** means, in relation to land under the Land Transfer Act 2017, the registered owner of the land.
 
 ### 16 Compensation payable to lessees
 (1) The person who, on the commencement of this Act, is the lessee of a lease to which this Act applies is entitled to compensation for—
@@ -167,8 +167,8 @@ The District Land Registrar must not register a transfer of any land that is sub
   (c) The conditions imposed by this Act on the assignment of the lessee's interest in the lease.
 (3) The compensation payable to a lessee under subsection (1) or subsection (2) must be determined in accordance with Schedule 2.
 (4) In this section, the term lessee means,—
-  (a) In relation to a lease registered under the Land Transfer Act 1952, the person registered as the lessee of the lease; and
-  (b) In relation to any other lease, the person entitled to be registered under the Land Transfer Act 1952 as the lessee of the land to which the lease relates.
+  (a) In relation to a lease registered under the Land Transfer Act 2017, the person registered as the lessee of the lease; and
+  (b) In relation to any other lease, the person entitled to be registered under the Land Transfer Act 2017 as the lessee of the land to which the lease relates.
 
 ### 17 Right of lessee to elect to have compensation determined by Land Valuation Tribunal
 [Repealed]
@@ -475,9 +475,9 @@ In this schedule, unless the context otherwise requires,—
   - **Current unimproved value** means the current unimproved value of the land that is subject to a lease to which this Act applies, being—
     (a) The current unimproved value of the land determined by the Valuer-General as at 31 December 1995; or
     (b) Where the rent payable under the lease has been reviewed, and the current unimproved value of the land has been determined for the purposes of the review, as at a date after 31 December 1995 and before 1 January 1998, the current unimproved value so determined, reduced by the land inflation rate applied on a monthly basis back to 31 December 1995:
-  - **Discount rate** means the monthly rate calculated in accordance with the following formula — _________________ — | / (9.8 x (1–TR) | | 12 / 1 + (___________) | –1 | \/ ( ) | — ( 100 ) — where
+  - **Discount rate** means the monthly rate calculated in accordance with the following formula— _________________ — | / (9.8 x (1–TR) | | 12 / 1 + (___________) | –1 | \/ ( ) | — ( 100 ) — where
     (TR) means the taxation rate:
-  - **Estimated unimproved value** , in relation to a month in the compensation period, means the value determined in accordance with the following formula ( _________) CUV x (12 / 1 + LIR ) n ( \/ ) where
+  - **Estimated unimproved value** , in relation to a month in the compensation period, means the value determined in accordance with the following formula( _________) CUV x (12 / 1 + LIR ) n ( \/ ) where
     (CUV) means the current unimproved value; and
     (LIR) means the land inflation rate; and
     (n) is the number of months since 31 December 1995 in respect of which the estimated unimproved value is being determined:
@@ -543,7 +543,7 @@ For each month in the compensation period, deduct from the estimated market rent
 For each month in the compensation period, multiply the result of the calculation under clause 8 by (1- TR). TR is the taxation rate in relation to lessors.
 
 ### 10
-Calculate the aggregate of the calculations made under clause 9 according to the following formula: 0 n – — \ (Clause 9) i \ ___________ / ( DR ) i / (1 + — —) — — ( 100) i = 0 where
+Calculate the aggregate of the calculations made under clause 9 according to the following formula:0 n – — \ (Clause 9) i \ ___________ / ( DR ) i / (1 + — —) — — ( 100) i = 0 where
   (DR) is the discount rate; and
   (Clause 9) represents the value of the cashflow calculations in clause 9 for each month of the compensation period; and
   (i) represents the applicable month in the compensation period from month 0 to month 599; and
@@ -564,7 +564,7 @@ For each month in the compensation period, deduct from the estimated market rent
 Except for urban residential leases, for each month in the compensation period, multiply the result of the calculation under clause 13 by (1-TR). TR is the taxation rate in relation to lessees of land that is not urban residential land.
 
 ### 15
-Calculate the aggregate of the calculations made under clause 13 or clause 14 (as appropriate) according to the following formula: n – — \ (Clause 13 or 14)i \ __________________ / ( DR )i / (1 + — — — ) — — ( 100 ) i = 0 where
+Calculate the aggregate of the calculations made under clause 13 or clause 14 (as appropriate) according to the following formula:n – — \ (Clause 13 or 14)i \ __________________ / ( DR )i / (1 + — — — ) — — ( 100 ) i = 0 where
   (DR) is the discount rate; and
   (Clause 13) represents the value of the cashflow calculations in clause 13 (in relation to urban residential leases) for each month of the compensation period; and
   (Clause 14) represents the value of the cashflow calculations in clause 14 (in relation to all leases that are not urban residential leases) for each month of the compensation period; and
