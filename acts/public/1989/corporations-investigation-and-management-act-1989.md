@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-11-12_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -586,10 +586,10 @@ Every person who commits an offence against this Act for which no penalty is pro
   (c) generally to all corporations and statutory managers to which this Act applies.
 
 ### 72 Proof of transactions
-(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a corporation subject to statutory management, or any shares in or property or assets of any body corporate incorporated pursuant to section 50(2)﻿(a),—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
+(1) The presentation to any Registrar of Deeds, or the Registrar-General of Land, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a corporation subject to statutory management, or any shares in or property or assets of any body corporate incorporated pursuant to section 50(2)﻿(a),—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
   (a) executed or purporting to be executed by or on behalf of that corporation or body corporate, as the case may be; and
   (b) containing a recital that the transfer or other disposition of the property or assets of the corporation or body corporate, as the case may be, is made pursuant to section 50—
-(2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a corporation subject to statutory management, or any body corporate formed and registered pursuant to section 50(2)﻿(a), as the case may be, has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
+(2) The presentation to any Registrar of Deeds, or the Registrar-General of Land, or any other person charged with the keeping of any books or registers, of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a corporation subject to statutory management, or any body corporate formed and registered pursuant to section 50(2)﻿(a), as the case may be, has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
 
 ### 73 Repeal of Companies Special Investigations Act 1958
 The Acts specified in the Schedule are hereby consequentially repealed.
