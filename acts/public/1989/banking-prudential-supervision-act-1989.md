@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -1636,7 +1636,7 @@ Subject to section 142, every statutory manager of a registered bank shall compl
 (2) Any property, rights or assets which are declared to vest pursuant to an order made under that section in the body corporate, being property, rights or assets subject to a security in favour of any other person, shall continue to be subject to that security.
 
 ### 125 Proof of vesting
-(1) No Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, shall be obliged solely by reason of section 123 to change the name of any body corporate or unincorporated body referred to in that section to that of any company formed and registered pursuant to that section in those books or registers or in any document.
+(1) Neither the Registrar of Deeds nor the Registrar-General of Land, or any other person charged with the keeping of any books or registers, shall be obliged solely by reason of section 123 to change the name of any body corporate or unincorporated body referred to in that section to that of any company formed and registered pursuant to that section in those books or registers or in any document.
 (2) The presentation to any Registrar or other person of any instrument, whether or not comprising an instrument of transfer, by the company—shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the company.
   (a) executed or purporting to be executed by the company; and
   (b) relating to any property held before the date specified in an Order in Council made pursuant to that section by that body corporate or unincorporated body; and
@@ -1715,10 +1715,10 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (7) In this section, account receivable, inventory, new value, purchase money security interest, proceeds, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 
 ### 135 Proof of transactions
-(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a registered bank or any shares in, or property or assets of, any company incorporated pursuant to section 132(2)﻿(a)—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
+(1) The presentation to any Registrar of Deeds, or the Registrar-General of Land, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a registered bank or any shares in, or property or assets of, any company incorporated pursuant to section 132(2)﻿(a)—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
   (a) executed or purporting to be executed by or on behalf of the registered bank or company; and
   (b) containing a recital that the transfer or other disposition of the property or assets of the registered bank, or the shares in, or property or assets of, the company, is made pursuant to section 132—
-(2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a registered bank or any company formed and registered pursuant to section 132(2)﻿(a) has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
+(2) The presentation to any Registrar of Deeds, or the Registrar-General of Land, or any other person charged with the keeping of any books or registers of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a registered bank or any company formed and registered pursuant to section 132(2)﻿(a) has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
 
 ### 136 Liquidation of registered banks
 (1) Subject to this Part, a statutory manager of a registered bank may, with the prior approval of the Bank,—
@@ -2119,7 +2119,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
   (f) section 89A (which relates to publishing a disclosure statement that includes information that is false or misleading):
   (g) section 89C(1)﻿(a) (which relates to failing to publish a disclosure statement that does not contain false or misleading information after being required to do so under section 83):
   (h) section 89C(1)﻿(b) (which relates to failing to publish a disclosure statement that contains information that was previously omitted after being required to do so under section 83):
-  (i) section 9C(1)﻿(c) (which relates to failing to take the corrective action specified by the Bank in a notice given under section 83 after being required to do so under that section):
+  (i) section 89C(1)﻿(c) (which relates to failing to take the corrective action specified by the Bank in a notice given under section 83 after being required to do so under that section):
   (j) section 95 (which relates to failing to supply a report required by the Bank):
   (k) section 95A (which relates to failing to forward a report prepared under section 95 as required by the Bank):
   (l) section 99(4) (which relates to failing to comply with a requirement from the Bank to supply information for the purposes of an inspection and to supplying information that is false or misleading in a material particular):
