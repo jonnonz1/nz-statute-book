@@ -1,5 +1,5 @@
 # Finance Act 1988
-_Consolidation as at 2013-12-16_
+_Consolidation as at 2018-11-12_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -105,7 +105,7 @@ On and after the appointed day—
 (2) In this section, document has the same meaning as in section 2(1) of the Evidence Amendment Act (No 2) 1980.
 
 ### 14 Registers
-(1) No Registrar of Deeds or District Land Registrar or any other person charged with the keeping of any books or registers shall be obliged solely by reason of the foregoing provisions of this Part to change the name of Trust Bank Wanganui to that of Trust Bank Eastern and Central in those books or registers or in any document.
+(1) The Registrar of Deeds, District Land Registrar, or any other person charged with the keeping of any books or registers is not obliged solely by reason of the foregoing provisions of this Part to change the name of Trust Bank Wanganui to that of Trust Bank Eastern and Central in those books or registers or in any document.
 (2) The presentation to any registrar or other person of any instrument, whether or not comprising an instrument of transfer, by Trust Bank Eastern and Central—shall, in the absence of evidence of the contrary, be sufficient proof that the property is vested in Trust Bank Eastern and Central.
   (a) executed or purporting to be executed by Trust Bank Eastern and Central; and
   (b) relating to any property held immediately before the appointed day by Trust Bank Wanganui; and
