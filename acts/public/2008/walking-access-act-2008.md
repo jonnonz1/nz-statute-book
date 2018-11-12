@@ -1,5 +1,5 @@
 # Walking Access Act 2008
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Walking Access Act 2008.
@@ -64,8 +64,8 @@ In this Act, unless the context otherwise requires,—
   - **public land** —
     (a) means any land that is not private land; but
     (b) does not include any road
-  - **register** has the same meaning as in section 2 of the Land Transfer Act 1952
-  - **Registrar-General** means the Registrar-General of Land appointed in accordance with section 4 of the Land Transfer Act 1952
+  - **register** means the register kept under section 9 of the Land Transfer Act 2017
+  - **Registrar-General** means the Registrar-General of Land appointed in accordance with section 231 of the Land Transfer Act 2017
   - **river** means a continuously or intermittently flowing body of fresh water, and includes a stream or modified watercourse
   - **road** —
     (a) means a formed or unformed road; but
@@ -237,7 +237,7 @@ If the Commission considers that all or part of any public land should be made a
   (b) if the Commission thinks it desirable in the circumstances, by any other method of giving public notice.
 
 ### 25 Registration of notice declaring walkway over public land
-(1) If public land that is declared to be a walkway is subject to the Land Transfer Act 1952, the Commission must lodge with the Registrar-General a copy of the Gazette notice referred to in section 24(1).
+(1) If public land that is declared to be a walkway is subject to the Land Transfer Act 2017, the Commission must lodge with the Registrar-General a copy of the Gazette notice referred to in section 24(1).
 (2) The Registrar-General must record the particulars of the Gazette notice in the register.
 
 **Establishment of walkways over private land**
@@ -261,10 +261,10 @@ If the Commission considers that all or part of any private land should be made 
 (1) Any private land that is to be declared a walkway must be defined on a plan.
 (2) The plan must define the land in accordance with rules made by the Surveyor-General under section 49 of the Cadastral Survey Act 2002, unless the Surveyor-General grants an exemption or specifies alternative requirements in accordance with section 47(5) of that Act.
 (3) The plan must be lodged with the chief executive and recorded in the cadastre.
-(4) To avoid doubt, this section and section 29 do not override the requirements under any other Act that apply to the transfer of the fee simple estate in, or the lease of, only part of the land held in a computer register.
+(4) To avoid doubt, this section and section 29 do not override the requirements under any other Act that apply to the transfer of the fee simple estate in, or the lease of, only part of the land held in a record of title.
 
 ### 29 Registration of easement, lease, or transfer
-(1) The Commission must lodge with the Registrar-General, in a form registrable under the Land Transfer Act 1952,—
+(1) The Commission must lodge with the Registrar-General, in a form registrable under the Land Transfer Act 2017,—
   (a) an easement or lease obtained under section 26; or
   (b) a transfer to the Commission of the fee simple estate in land purchased under section 26.
 (2) The Registrar-General must register the easement, lease, or transfer upon receiving it.
@@ -372,7 +372,7 @@ The Commission's powers in relation to walkways include the power to—
   (b) the period during which the walkway will be closed; and
   (c) that it is an offence to enter the walkway during the period of closure; and
   (d) the reason for the closure.
-(3) A closure is not invalid merely because a notice required under subsection (1)(b)—
+(3) A closure is not invalid merely because a notice required under subsection (1)﻿(b)—
   (a) was not published; or
   (b) was published late; or
   (c) did not contain the information required by subsection (2).
@@ -396,7 +396,7 @@ The Commission's powers in relation to walkways include the power to—
   (b) if the Commission thinks it desirable in the circumstances, by any other method of giving public notice.
 
 ### 41 Registration of notice revoking walkway
-(1) If a walkway is revoked under section 40 in respect of land that is subject to the Land Transfer Act 1952, the Commission must lodge with the Registrar-General a copy of the Gazette notice referred to in section 40(3).
+(1) If a walkway is revoked under section 40 in respect of land that is subject to the Land Transfer Act 2017, the Commission must lodge with the Registrar-General a copy of the Gazette notice referred to in section 40(3).
 (2) The Registrar-General must record the particulars of the Gazette notice in the register.
 
 ### 42 Surrender of easements and leases
@@ -561,7 +561,7 @@ If there is an inconsistency between an offence under this Act and an offence un
 (2) A person who commits an offence against section 56 is liable on conviction to a fine not exceeding $10,000.
 
 ### 60 Penalties for continuing offences
-A person who commits an offence against section 56(2)(b) is liable, in addition to the penalty for the offence, to a fine not exceeding $100 for each day or part of a day that the offence continues after he or she has been required to stop the offence.
+A person who commits an offence against section 56(2)﻿(b) is liable, in addition to the penalty for the offence, to a fine not exceeding $100 for each day or part of a day that the offence continues after he or she has been required to stop the offence.
 
 ### 61 Penalties for bodies corporate
 A body corporate that commits an offence against section 54 or 56 is liable on conviction to a fine not exceeding 5 times the maximum fine otherwise provided for the offence.
@@ -642,7 +642,7 @@ A court may sentence a person who commits an offence against section 54 or 56 to
 (1) Bylaws made under section 68 do not come into force until they have been—
   (a) approved by the Commission; and
   (b) published in the Gazette.
-(2) Publication under subsection (1)(b) is, in the absence of proof to the contrary, evidence that the bylaws have been properly made and approved under this Part.
+(2) Publication under subsection (1)﻿(b) is, in the absence of proof to the contrary, evidence that the bylaws have been properly made and approved under this Part.
 (3) Despite the requirement for approval and publication of a bylaw by the Commission under subsection (1), a controlling authority may, by resolution that is publicly notified, make minor changes to, or correct errors in, a bylaw, but only if the changes or corrections do not affect—
   (a) an existing right, interest, title, immunity, or duty of any person to whom the bylaw applies; or
   (b) an existing status or capacity of any person to whom the bylaw applies.
@@ -678,7 +678,7 @@ Section 157 of the Local Government Act 2002 does not apply to a bylaw made by a
 
 ### 74 Agreements made under New Zealand Walkways Act 1990
 (1) This section applies to all agreements—
-  (a) made under section 16(1)(a) of the New Zealand Walkways Act 1990; and
+  (a) made under section 16(1)﻿(a) of the New Zealand Walkways Act 1990; and
   (b) that were in existence immediately before the commencement of this Act.
 (2) The agreements referred to in subsection (1) are administered by the Minister of Conservation.
 
@@ -686,7 +686,7 @@ Section 157 of the Local Government Act 2002 does not apply to a bylaw made by a
 (1) All money received under section 18 of the New Zealand Walkways Act 1990 and held in the Department of Conservation Grants and Gifts Trust Account (a Trust Bank Account established under section 67 of the Public Finance Act 1989) immediately before the commencement of this Act—
   (a) vests in the Commission; and
   (b) must be applied for the purposes for which the money was granted or gifted.
-(2) The vesting referred to in subsection (1)(a) occurs on the commencement of this Act.
+(2) The vesting referred to in subsection (1)﻿(a) occurs on the commencement of this Act.
 
 ### 76 Liability of Commission
 (1) The Commission is not liable for acts or omissions of any person under the New Zealand Walkways Act 1990.
