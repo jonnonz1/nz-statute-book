@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2016-10-17_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -191,7 +191,7 @@ The High Court may award damages in addition to or in substitution for an injunc
   (b) reinstating a company to the Register of Companies:
   (c) any matter arising under the Insolvency Act 1967:
   (d) case management of proceedings under the Admiralty Act 1973:
-  (e) a proceeding in which relief is claimed solely under any of sections 140, 143, 144, 145, 145A, and 148 of the Land Transfer Act 1952 (which relate to caveats):
+  (e) a proceeding in which relief is claimed solely under any of sections 142, 143, 146, 177, 178, and 180 of the Land Transfer Act 2017 (which relate to caveats):
   (f) an assessment of damages where liability has been determined or the trial of a proceeding in which only the amount of a debt or damages is in dispute:
   (g) the entry of a judgment by consent or the making of an order by consent:
   (h) the making of an order (other than an arrest order or an order relating to an arrest order) that may be made under the High Court Rules against a judgment debtor who has been ordered to attend the court for an examination:
