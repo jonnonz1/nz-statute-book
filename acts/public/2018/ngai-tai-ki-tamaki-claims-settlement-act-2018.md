@@ -1,5 +1,5 @@
 # Ngāi Tai ki Tāmaki Claims Settlement Act 2018
-_Consolidation as at 2018-07-04_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Ngāi Tai ki Tāmaki Claims Settlement Act 2018.
@@ -227,13 +227,9 @@ It is the intention of Parliament that the provisions of this Act are interprete
 (2) In this Act,—
   (a) a reference to the vesting of a cultural redress property, or the vesting of the fee simple estate in a cultural redress property, includes the vesting of an undivided share of the fee simple estate in the property; and
   (b) a reference to the transfer of a transfer property, or the transfer of the fee simple estate in such property, includes the transfer of an undivided share of the fee simple estate in the property.
-(3) In this Act, unless the context otherwise requires, until the Land Transfer Act 1952 is repealed under the Land Transfer Act 2017,—
-  (a) a reference to the Land Transfer Act 2017 is a reference to the Land Transfer Act 1952:
-  (b) a reference to a record of title is a reference to a computer register or, if appropriate, to a computer freehold register, computer interest register, or certificate of title:
-  (c) a reference to an owner is a reference to a proprietor:
-  (d) a reference to a provision in the Land Transfer Act 2017 is a reference to the provision in the Land Transfer Act 1952 that is replaced by, or corresponds to, that provision in the Land Transfer Act 2017.
-(4) In subsection (3), the terms computer register, computer freehold register, and computer interest register have the meanings given to those terms in section 4 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
-(5) This subsection and subsections (3) and (4) are repealed on the date on which the Land Transfer Act 1952 is repealed.
+(3)
+(4)
+(5)
 
 ### 13 Meaning of Ngāi Tai ki Tāmaki
 (1) In this Act, Ngāi Tai ki Tāmaki—
