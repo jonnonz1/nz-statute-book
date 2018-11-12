@@ -1,5 +1,5 @@
 # Crown Pastoral Land Act 1998
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 > An Act—ato establish a system for reviewing the tenure of Crown land held under certain perpetually renewable leases; andbto establish a system for determining how Crown land formerly held under pastoral occupation licence, and certain other Crown land, should be dealt with; andcotherwise to provide for the administration of Crown pastoral land
 
@@ -413,7 +413,7 @@ If the lessee accepts, or fails to respond to, an initial assessment under secti
     (ii) must be used to calculate the rent for that pastoral lease under section 23B.
 (5) The expert determiner must notify the Commissioner and the lessee of the base carrying capacity or current carrying capacity of any pastoral lease that is agreed or determined under this Part.
 (6) If the Commissioner becomes aware of a base carrying capacity to which section 23E(a)﻿(i) applies or receives a notice referred to in subsection (5) in relation to the base carrying capacity of a pastoral lease, the Commissioner must as soon as practicable advise the Registrar-General of Land of the base carrying capacity of the pastoral lease.
-(7) If the Registrar-General of Land receives advice under subsection (6), the Registrar-General of Land must, on any relevant computer register, note a memorial that specifies the base carrying capacity of the pastoral lease.
+(7) If the Registrar-General of Land receives advice under subsection (6), the Registrar-General of Land must, on any relevant record of title, note a memorial that specifies the base carrying capacity of the pastoral lease.
 
 ### 23J Appeals on questions of law
 (1) If the Commissioner or a lessee of a pastoral lease is dissatisfied with any determination by an expert determiner of base carrying capacity or current carrying capacity as being erroneous in point of law, the Commissioner or lessee may appeal to the High Court on that question of law.
@@ -860,17 +860,17 @@ Without the prior written consent of the Minister of Conservation, a substantive
 (5) Subject to subsections (3) and (4), a holder's acceptance of a substantive proposal put to the holder under section 46 is irrevocable; and has effect as an irrevocable authority to and obligation on the Commissioner to take the appropriate actions required by this Part.
 
 ### 61 Notice of proposal may be registered against title to protect acceptance
-(1) If—the Commissioner must sign and forward to the appropriate District Land Registrar a written notice of the acceptance of the proposal, describing the proposal in general terms.
+(1) If—the Commissioner must sign and forward to the Registrar-General of Land a written notice of the acceptance of the proposal, describing the proposal in general terms.
   (a) any person has accepted a substantive proposal; and
   (b) that proposal relates to land held in fee simple, or land held under a lease registered under the Land Act 1948,—
-(2) The District Land Registrar must register the notice against every relevant instrument of title to the land or lease.
+(2) The Registrar-General of Land must register the notice against the record of title to the land or lease.
 (3) In the case of a notice relating to a lease, the validity of the notice is not affected by any misdescription of the land it relates to if it—
   (a) specifies the lease; and
   (b) contains (or has attached to it) an illustrative diagram of the land showing how it has been designated.
-(4) Every person who, after the notice has been registered, acquires an estate or interest in any land against whose instrument of title it has been registered is bound by the acceptance of the proposal to which it relates to the same extent as the person who accepted the proposal; and this Act has effect accordingly.
+(4) Every person who, after the notice has been registered, acquires an estate or interest in any land against whose record of title it has been registered is bound by the acceptance of the proposal to which it relates to the same extent as the person who accepted the proposal; and this Act has effect accordingly.
 (5) If a person acquires an estate or interest in any land—this Part has effect as if the entire proposal had been rejected.
   (a) after any person has accepted a proposal (put to that person under section 46) relating to the land; and
-  (b) before a notice registered under this section against the certificate of title to it was lodged for registration,—
+  (b) before a notice registered under this section against the record of title to it was lodged for registration,—
 
 ### 62 Final plan to be prepared
 (1) Once the acceptance of a substantive proposal takes effect, the Commissioner must give the Chief Surveyor written notice of its acceptance, attaching a copy of the proposal.
@@ -897,7 +897,7 @@ If (and only if) satisfied that—the Chief Surveyor must sign and date on both 
     (ii) the designations of those areas,—
 
 ### 64 Commissioner to register accepted proposals and approved plans
-On receiving an approved plan, the Commissioner must lodge it and a copy of the proposal to which it relates with the appropriate District Land Registrar, who must register them against every instrument of title to land to which they relate.
+On receiving an approved plan, the Commissioner must lodge it and a copy of the proposal to which it relates with the Registrar-General of Land, who must register them against every record of title to land to which they relate.
 
 ### 65 Effect of registration of approved plan in relation to land designated to be restored to Crown ownership
 (1) Land that an approved plan designates as land to be restored to Crown ownership vests in the Crown when the plan is registered,—
@@ -934,7 +934,7 @@ When land that an approved plan designates as land to be restored to Crown contr
 
 ### 69 Effect of registration of approved plan in relation to reviewable land designated to be disposed of
 (1) When an approved plan designating land as land to be disposed of to a specified person has been registered, the Commissioner must promptly, in accordance with the plan (but subject to Part 4A of the Conservation Act 1987), dispose of it under the Land Act 1948.
-(2) In complying with subsection (1), the Commissioner must act as if the reviewable instrument concerned were already surrendered (and the District Land Registrar must act likewise); but the instrument in fact continues in force until a certificate of title or registered lease is issued for the land concerned, and is then deemed to have been surrendered in respect of that land.
+(2) In complying with subsection (1), the Commissioner must act as if the reviewable instrument concerned were already surrendered (and the Registrar-General of Land must act likewise); but the instrument in fact continues in force until a record of title or registered lease is issued for the land concerned, and is then deemed to have been surrendered in respect of that land.
 (3) When an approved plan designating land as land that may be disposed of to any person has been registered,—
   (a) the instrument is deemed to have been surrendered in respect of the land; and
   (b) the Commissioner must try to dispose of the land under the Land Act 1948.
@@ -1170,8 +1170,8 @@ When an approved plan relating to land that a substantive proposal designates as
 
 ### 97 Sustainable management covenants
 (1) Despite any enactment or rule of law, there may be reserved over land disposed of under Part 2 or Part 3 a covenant in favour of the Commissioner providing for the management of the land, and the monitoring of activities undertaken on the land and their effects on the land.
-(2) A sustainable management covenant runs with the land over which it was reserved; and is an interest in land for the purposes of the Land Transfer Act 1952.
-(3) On application by the Commissioner, the District Land Registrar of the land registration district in which the land over which a sustainable management covenant has been reserved is situated must take all steps, and make all entries in the registers, necessary to give effect to the covenant's registration.
+(2) A sustainable management covenant runs with the land over which it was reserved; and is an interest in land for the purposes of the Land Transfer Act 2017.
+(3) On application by the Commissioner, the Registrar-General of Land must take all steps, and make all entries in the registers, necessary to give effect to the covenant's registration.
 (4) With the prior written consent of the regional or district council in which the land over which a sustainable management covenant has been reserved is situated, the Commissioner may transfer to the council the Commissioner's interest in the covenant.
 
 ### 98 Application of sections 25 and 84 to section 97
@@ -1179,7 +1179,7 @@ When an approved plan relating to land that a substantive proposal designates as
 (2) Section 84 applies to the exercise of the Commissioner's powers under section 97 in relation to the disposal of land under Part 3 as if section 97 were part of Part 3.
 
 ### 99 Commissioner to meet certain official costs
-The Commissioner must pay the appropriate costs of any action taken by a Chief Surveyor or District Land Registrar under Part 2 or Part 3.
+The Commissioner must pay the appropriate costs of any action taken by a Chief Surveyor or the Registrar-General of Land under Part 2 or Part 3.
 
 ### 100 Application of sections 17 and 18 of Land Act 1948
 Except as provided in section 89(2), neither section 17 nor section 18 of the Land Act 1948 applies to any decision made under Part 2, Part 3, or this Part.
