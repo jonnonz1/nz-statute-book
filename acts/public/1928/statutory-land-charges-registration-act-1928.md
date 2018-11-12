@@ -1,17 +1,17 @@
 # Statutory Land Charges Registration Act 1928
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for the registration of statutory charges on land
 
-### 1 Short Title
+### 1 Short title
 This Act may be cited as the Statutory Land Charges Registration Act 1928.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Land** has the same meaning as in the Land Transfer Act 1952 and includes a mining residence site
-  - **Mining residence site** means any residence site in respect of which there exists a licence granted under the Mining Act 1926 or under any former Mining Act; and includes any land in respect of which there exists a lease granted under section 45 or section 47 of the Mining Act 1926 or under the corresponding provisions of any former Mining Act
-  - **Purchaser** means any person (including a mortgagee or lessee) who, for valuable consideration, takes any interest in land or in a charge on land; and has a corresponding meaning
-  - **Registered** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means registered in the office of a Mining Registrar, and, in relation to any other land, means registered under the Land Transfer Act 1952 or under the Deeds Registration Act 1908; and and have meanings corresponding to the meaning of the term
+  - **land** has the same meaning as in the Land Transfer Act 1952 and includes a mining residence site
+  - **mining residence site** means any residence site in respect of which there exists a licence granted under the Mining Act 1926 or under any former Mining Act; and includes any land in respect of which there exists a lease granted under section 45 or section 47 of the Mining Act 1926 or under the corresponding provisions of any former Mining Act
+  - **purchaser** means any person (including a mortgagee or lessee) who, for valuable consideration, takes any interest in land or in a charge on land; and has a corresponding meaning
+  - **registered** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means registered in the office of a Mining Registrar, and, in relation to any other land, means registered under the Land Transfer Act 1952 or under the Deeds Registration Act 1908; and and have meanings corresponding to the meaning of the term
   - **Registrar** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means the Mining Registrar in whose office the licence or lease is registered; and, in relation to any other land, means the District Land Registrar or the Registrar of Deeds for the district in which the land is situated.
 
 ### 3 Exemptions from application of Act
@@ -19,8 +19,8 @@ In this Act, unless the context otherwise requires,—
 (2) Nothing in this Act shall apply to—
   (a)
   (b)
-  (c) Charges created by or arising under the provisions of section 2 of the Coal Mines Amendment Act 1927:
-  (d) Any charge against Maori land the title to which is not at the time of the creation of the charge on the register or the provisional register under the Land Transfer Act 1952.
+  (c) charges created by or arising under the provisions of section 2 of the Coal Mines Amendment Act 1927:
+  (d) any charge against Maori land the title to which is not at the time of the creation of the charge on the register or the provisional register under the Land Transfer Act 1952.
 (3) No rate assessed by any local authority or other body having rating powers shall be deemed to be a charge on land within the meaning or for the purposes of this Act.
 
 ### 4 Charges to which Act applies
@@ -28,14 +28,12 @@ In this Act, unless the context otherwise requires,—
 (2) The provisions of this Act shall apply notwithstanding anything to the contrary in any enactment under which a charge is created or arises.
 
 ### 5 Land charges to be registered
-(1) Every charge to which this Act applies shall so far as regards any land affected thereby be void as against a purchaser under any deed, contract, or instrument which, being executed after the creation of the charge, is duly registered before the registration of such charge:
-  Provided that any such charge that is in existence at the time of the passing of this Act shall not by virtue of this section be prejudicially affected by any purchase if such charge is registered on or before the 1st day of January 1930:
-  Provided further that any such charge created or arising after the passing of this Act and before the 1st day of January 1929, shall not by virtue of this section be prejudicially affected by any purchase if such charge is registered on or before the last-mentioned date.
+(1) Every charge to which this Act applies shall so far as regards any land affected thereby be void as against a purchaser under any deed, contract, or instrument which, being executed after the creation of the charge, is duly registered before the registration of such charge:provided that any such charge that is in existence at the time of the passing of this Act shall not by virtue of this section be prejudicially affected by any purchase if such charge is registered on or before 1 January 1930:provided further that any such charge created or arising after the passing of this Act and before 1 January 1929, shall not by virtue of this section be prejudicially affected by any purchase if such charge is registered on or before the last-mentioned date.
 (2) A contract relating to land the title to which is under the provisions of the Land Transfer Act 1952 shall for the purposes of this Act be deemed to be duly registered if a caveat protecting such contract shall have been duly entered upon the title and shall not have been removed therefrom.
 
 ### 6 Mode of effecting registration
-(1) Registration of charges may be effected under this Act by depositing with the Registrar a notice in the form No 1 in the Schedule hereto.
-(2) On receipt of a notice under the last preceding subsection . . . the Registrar shall register the charge.
+(1) Registration of charges may be effected under this Act by depositing with the Registrar a notice in the form No 1 in the Schedule.
+(2) On receipt of a notice under the last preceding subsection the Registrar shall register the charge.
 (3) Notice of a charge to be given under this section may be signed on behalf of any corporation entitled to the benefit of such charge by the chairman or the secretary, clerk, or other responsible officer of the governing body of such corporation.
 (4) The fee payable for the registration of the charge shall be deemed to be an addition to the amount of the charge, and shall be recoverable accordingly by the person paying the same from the person liable for the satisfaction of the charge.
 
@@ -47,7 +45,7 @@ In this Act, unless the context otherwise requires,—
 ### 8 Saving of existing provisions as to registration
 Where provision for the registration of any charge is made by the Act by virtue of which such charge is created or arises, or is made by any Act other than this Act, the provisions of such other Act as to registration, including any provisions thereof as to the payment of fees or as to exemption from the payment of fees, or as to the cancellation of registration, shall continue in force, and compliance therewith shall be deemed to be sufficient compliance with the provisions of this Act.
 
-### 9
+### 9 Instruments required for purposes of this Act not liable to stamp duty
 [Repealed]
 
 ### 10 Application to Crown
