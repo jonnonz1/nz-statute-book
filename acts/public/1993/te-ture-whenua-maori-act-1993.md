@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -53,7 +53,6 @@ In this Act, unless the context otherwise requires,—
   - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **court** means, as the case may require, the Maori Land Court or the Maori Appellate Court or both
   - **Crown land** means land that, in terms of Part 6, has the status of Crown land
-  - **District Land Registrar** means the District Land Registrar of the land registration district under the Land Transfer Act 1952 within which any land to be dealt with or affected is situated
   - **financial statements** ,—
     (a) in relation to a large Maori incorporation, has the same meaning as in section 6 of the Financial Reporting Act 2013; and
     (b) in the case of any other Maori incorporation, means financial statements that at least comply with the minimum requirements prescribed for companies under section 21C of the Tax Administration Act 1994 (regardless of whether the incorporation is exempt from those requirements)
@@ -843,8 +842,8 @@ There shall be paid to any additional member of the Maori Land Court or Maori Ap
 (1) Every order made by the Chief Judge under section 44 shall be signed by the Chief Judge and sealed with the seal of the Maori Land Court.
 (2) The Chief Judge may at any time cause duplicates of any order made by the Chief Judge or by any former Chief Judge, or by the Deputy Chief Judge or any former Deputy Chief Judge, under section 44 or the corresponding provisions of any former enactment, to be signed and sealed.
 (3) Every such duplicate shall have the word Duplicate written or stamped on it, and shall have the same evidentiary value as the order of which it is a duplicate.
-(4) All consequential amendments required to be made in any order, record, or document made, issued, or kept by the court, because of any order made by the Chief Judge under section 44, or made by the Maori Appellate Court on appeal from any such order, may be made by any Judge of the court; and where it becomes necessary to correct the Land Transfer Register, a copy of the order and a note of the consequential amendments made pursuant to this subsection shall be transmitted by the Registrar of the court to the District Land Registrar, who shall thereupon make all necessary amendments in the register of the title to the land affected.
-(5) No fee shall be payable under this Act or the Land Transfer Act 1952 in respect of the making of any necessary amendments in the register of the title to any land under subsection (4).
+(4) All consequential amendments required to be made in any order, record, or document made, issued, or kept by the court, because of any order made by the Chief Judge under section 44, or made by the Maori Appellate Court on appeal from any such order, may be made by any Judge of the court; and where it becomes necessary to correct the Land Transfer Register, a copy of the order and a note of the consequential amendments made pursuant to this subsection shall be transmitted by the Registrar of the court to the Registrar-General of Land, who shall thereupon make all necessary amendments in the register of the title to the land affected.
+(5) No fee shall be payable under this Act or the Land Transfer Act 2017 in respect of the making of any necessary amendments in the register of the title to any land under subsection (4).
 
 ### 48 Matters already finalised or pending
 (1) No order made by the Chief Judge under section 44, or made by the Appellate Court on appeal from any such order, shall take away or affect any right or interest acquired for value and in good faith under any instrument of alienation registered before the making of any such order.
@@ -1092,8 +1091,8 @@ Every order of the court affecting the title to Maori land or any interest in an
 (3) A charging order shall specify, in such manner as to identify it, the property on which the charge is imposed.
 (4) A charging order may at any time be varied or discharged by the court.
 (5) Nothing in section 123 of the Accident Compensation Act 2001 applies to any charge constituted under this section.
-(6) Where a charging order is made in respect of a registered estate or interest in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the Land Transfer Act 1952, or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
-(7) The Registrar to whom the duplicate or copy is delivered shall, without fee, record it in the register against the appropriate folium of the register book and against any relevant instrument of title, or record it and note its particulars on the filed copy of the mining privilege to which it relates, as the case may require.
+(6) Where a charging order is made in respect of a registered estate or interest in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the Registrar-General of Land if the title to the land is under the Land Transfer Act 2017, or to the Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the Registrar-General of Land.
+(7) The Registrar to whom the duplicate or copy is delivered shall, without fee, record it in the register against the appropriate record of title, or in the Deeds Register Office, or record it and note its particulars on the filed copy of the mining privilege to which it relates, as the case may require.
 (8) An order discharging or varying a charging order may be registered or recorded in the same manner as the charging order.
 
 ### 83 Appointment of receiver to enforce charges, etc
@@ -1107,7 +1106,7 @@ Every order of the court affecting the title to Maori land or any interest in an
 (4) Subject to subsection (5), a receiver appointed under this section shall have all such rights, powers, duties, and liabilities as may be expressly conferred or imposed on the receiver by the court, and such other incidental powers as may be reasonably necessary for the exercise of the powers so conferred.
 (5) No receiver appointed under this section shall have power to sell any Maori land, or to lease any such land otherwise than as provided in subsection (6).
 (6) Notwithstanding any of the provisions of this Act as to the alienation of Maori land, a receiver appointed under this section for the purpose of enforcing a charge may, in the receiver’s own name and with the leave of the court, grant leases of any land so charged, or licences to remove timber, flax, kauri gum, minerals, or other substances from the land, for any term not exceeding 21 years (including any term or terms of renewal), on such conditions and for such rent or other consideration as the receiver thinks fit.
-(7) Any lease or licence so granted in respect of land subject to the Land Transfer Act 1952 may be registered under that Act, and the District Land Registrar may register the same accordingly without requiring the production of any certificate of title.
+(7) Any lease or licence so granted in respect of land subject to the Land Transfer Act 2017 may be registered under that Act.
 (8) Where a receiver has performed the functions for which he or she was appointed, or where the court is satisfied for any other reason that the receiver should be discharged, the court may make an order for the discharge of the receiver, and may, if necessary, appoint some other person to be a receiver in place of the receiver so discharged.
 (9) Where the receiver applies for discharge, the receiver shall file final accounts with the application, and, except where the receiver is the Māori Trustee, shall pay into court any money held by the receiver in respect of the receivership.
 
@@ -1132,7 +1131,7 @@ On the application of an owner of Maori freehold land, the Registrar may by orde
 
 ### 88 Amendment or cancellation of orders not to affect acquired rights
 (1) Where, whether pursuant to any provision of section 86 or section 87 or otherwise, any order, warrant, record, or other document is amended or cancelled, the amendment or cancellation shall not take away or affect any right or interest acquired in good faith and for value before the making of the amendment or cancellation.
-(2) If any order or other document so amended or cancelled has previously been registered by a District Land Registrar, the order of amendment or cancellation shall be transmitted to that Registrar, who shall make all necessary consequential amendments in the registration of the title to any land affected by the amendment or cancellation.
+(2) If any order or other document so amended or cancelled has previously been registered by the Registrar-General of Land, the order of amendment or cancellation shall be transmitted to the Registrar-General of Land, who shall make all necessary consequential amendments in the registration of the title to any land affected by the amendment or cancellation.
 
 **Contempt of court**
 
@@ -1198,7 +1197,7 @@ The principal function of the Rules Committee shall be to review and keep under 
   (j) authorising a Registrar to hear and determine any uncontested proceedings, or to conduct and report upon any inquiry:
   (k) prescribing the class or classes of proceedings in which the jurisdiction and powers of the court may be exercised by a Registrar in accordance with section 39:
   (l) prescribing, according to the nature of the proceedings and the amount involved, the costs and charges to be paid by any party in any proceedings before the court to any other party, in addition to the money paid out of pocket:
-  (m) providing for the drawing up in writing, sealing, and signing of orders of the court, or the minuting and other evidencing of any such orders or class of order, and the issuing of duplicate orders for evidentiary and registration purposes; and prohibiting the formal issuing of any order until the time for appeal has expired and any conditions attached to the order have been fulfilled or security for the performance of any such conditions has been given to the satisfaction of the court, or until any necessary plan sufficient for the purposes of registration under the Land Transfer Act 1952 has been prepared:
+  (m) providing for the drawing up in writing, sealing, and signing of orders of the court, or the minuting and other evidencing of any such orders or class of order, and the issuing of duplicate orders for evidentiary and registration purposes; and prohibiting the formal issuing of any order until the time for appeal has expired and any conditions attached to the order have been fulfilled or security for the performance of any such conditions has been given to the satisfaction of the court, or until any necessary plan sufficient for the purposes of registration under the Land Transfer Act 2017 has been prepared:
   (n) prescribing the terms and conditions on which appeals to the Maori Appellate Court may be brought, prosecuted, or withdrawn:
   (o) requiring any appellant to give security for the costs of the appeal, and providing for the dismissal of an appeal by the Maori Land Court or by a Judge of that court on the ground of the failure of the appellant to conform to any such requirement, or to prosecute the appeal in accordance with the rules:
   (p) prescribing the classes of person before whom affidavits, declarations, or affirmations to be used in any proceedings before the court may be sworn or made within or outside New Zealand.
@@ -1400,7 +1399,7 @@ The High Court may, in respect of any estate of which a grant of administration 
 ### 112 Transmission of Maori land to administrator
 (1) On application by the administrator of any estate to which this Part applies, the Maori Land Court may make an order vesting any beneficial interest in Maori freehold land belonging to the estate in the administrator.
 (2) An application under subsection (1) may be dealt with by the court on such conditions as to notice as the court thinks fit, and the court may dispense with the appearance of any party.
-(3) An order made by the court under subsection (1) may be registered under the Land Transfer Act 1952.
+(3) An order made by the court under subsection (1) may be registered under the Land Transfer Act 2017.
 
 ### 113 Maori Land Court to determine beneficial entitlements to Maori land
 (1) On an application by the administrator or by any person interested or by the Registrar, the court shall determine the persons (in this section referred to as the beneficiaries) who are legally entitled to succeed to any beneficial freehold interest in Maori freehold land belonging to any estate to which this Part applies, and shall define the proportions of the several beneficiaries.
@@ -1507,23 +1506,23 @@ This Part applies to every order made by the Maori Land Court or the Maori Appel
   (b) an order amending or cancelling any order to which paragraph (a) applies.
 
 ### 123 Orders affecting title to Maori freehold land to be registered
-(1) Subject to subsection (7A), every order to which this Part applies shall, in accordance with the succeeding provisions of this Part, be registered against the title to that land under the Land Transfer Act 1952 or (as the case may require) the Deeds Registration Act 1908.
-(2) For the purposes of registration, the order shall be transmitted by the Registrar of the court to the District Land Registrar or (as the case may require) the Registrar of Deeds; and the District Land Registrar or the Registrar of Deeds shall, except as otherwise provided in this Act, register the same accordingly.
-(3) Notwithstanding anything in section 99 of the Land Transfer Act 1952, the production of the outstanding instrument of title shall not be necessary for the purposes of any such registration under that Act.
-(4) No fee shall be payable under this Act or the Land Transfer Act 1952 in respect of any order to which this Part applies.
-(5) Until registration has been effected, an order of the court in respect of land subject to the Land Transfer Act 1952 shall affect only the equitable title to the land.
-(6) Notwithstanding anything in this section or in the Land Transfer Act 1952, no separate certificate of title shall be issued under that Act in respect of any undivided interest in any Maori freehold land.
-(6A) Nothing in subsection (6) shall prevent the issue of a separate certificate of title in respect of any cross lease within the meaning of section 2 of the Resource Management Act 1991.
-(7) In the case of an aggregation order made under section 308, the District Land Registrar shall enter on each instrument of title affected by the order a memorial to the effect that alienation of the interests comprised in that instrument is restricted by section 148(4).
+(1) Subject to subsection (7A), every order to which this Part applies shall, in accordance with the succeeding provisions of this Part, be registered against the title to that land under the Land Transfer Act 2017 or (as the case may require) the Deeds Registration Act 1908.
+(2) For the purposes of registration, the order shall be transmitted by the Registrar of the court to the Registrar-General of Land or (as the case may require) the Registrar of Deeds; and the Registrar-General of Land or the Registrar of Deeds shall, except as otherwise provided in this Act, register the same accordingly.
+(3)
+(4) No fee shall be payable under this Act or the Land Transfer Act 2017 in respect of any order to which this Part applies.
+(5) Until registration has been effected, an order of the court in respect of land subject to the Land Transfer Act 2017 shall affect only the equitable title to the land.
+(6) Notwithstanding anything in this section or in the Land Transfer Act 2017, no separate record of title shall be issued under that Act in respect of any undivided interest in any Maori freehold land.
+(6A) Nothing in subsection (6) shall prevent the issue of a separate record of title in respect of any cross lease within the meaning of section 2 of the Resource Management Act 1991.
+(7) In the case of an aggregation order made under section 308, the Registrar-General of Land shall enter on each instrument of title affected by the order a memorial to the effect that alienation of the interests comprised in that instrument is restricted by section 148(4).
 (7A) Where an order to which this Part applies has not been registered in accordance with subsection (1), the registration of that order against the title to the land may, if its effect has been incorporated into a consolidated order, be effected by registering the consolidated order against the title to the land; and subsections (2) to (4) shall, with all necessary modifications, apply in relation to the registration of the consolidated order.
 (8) Nothing in this section shall limit or affect any special provisions made elsewhere in this Act or in any other Act for the registration of any such order.
 
 ### 124 Special provisions where insufficient survey plan
-(1) Where any order to which this Part applies is presented for registration under the Land Transfer Act 1952, the District Land Registrar shall, if the order is not supported by a plan defining the land affected by the order and sufficient for the purposes of the registration of that order under that Act, embody the order in the provisional register as a separate folium, and, subject to subsection (2), all the provisions of that Act relating to provisional registration shall thereupon apply accordingly.
-(2) Where any order to which this Part applies is, in accordance with subsection (1), embodied in the provisional register as a separate folium, any person in whom the beneficial ownership of land or any interest in land is vested by that order may, in accordance with section 167(5) of the Land Transfer Act 1952, and in accordance with the regulations in force in that behalf, deposit a plan in relation to the land or interest in land to which the order relates, which plan shall define the pieces of land affected.
+(1) If any order to which this Part applies is presented for registration under the Land Transfer Act 2017, the Registrar-General of Land must, if the order is not supported by a plan that defines the land affected by the order and that is sufficient for the purposes of the registration of that order under that Act, register the order by issuing a qualified record of title for the land.
+(2) If any order to which this Part applies is registered in accordance with subsection (1), any person in whom the beneficial ownership of land or any interest in land is vested by that order may, in accordance with section 224 of the Land Transfer Act 2017, deposit a plan in relation to the land or interest in land to which the order relates, which plan must define the pieces of land affected.
 
 ### 125 Alterations in registration of title
-If any order that is annulled or revoked or varied, or if any other order or any instrument affected by the annulment or variation, has been registered by the District Land Registrar in respect of the title to any land, the later order shall be transmitted to that Registrar for registration, and all necessary consequential amendments in the registration of any title shall be made by the Registrar accordingly.
+If any order that is annulled or revoked or varied, or if any other order or any instrument affected by the annulment or variation, has been registered by the Registrar-General of Land in respect of the title to any land, the later order shall be transmitted to the Registrar-General of Land for registration, and all necessary consequential amendments in the registration of any title shall be made by the Registrar-General of Land accordingly.
 
 ### 125A Alteration to land appellation
 (1) The court may, on application under subsection (2), make an order amending the name given to the whole or part of a block of Maori freehold land in—
@@ -1548,7 +1547,7 @@ If any order that is annulled or revoked or varied, or if any other order or any
   (c) payment of a fee (if any) prescribed, for registration or updating under paragraphs (a) and (b).
 
 ### 126 No registration without prior confirmation
-The District Land Registrar shall not register any instrument affecting Maori land (other than an instrument not required to be confirmed or an order of the court or of the Registrar) unless the instrument has been confirmed by the court, or the Registrar of the court has issued a certificate of confirmation in respect of the instrument, in accordance with the relevant provisions of Part 8.
+The Registrar-General of Land shall not register any instrument affecting Maori land (other than an instrument not required to be confirmed or an order of the court or of the Registrar) unless the instrument has been confirmed by the court, or the Registrar of the court has issued a certificate of confirmation in respect of the instrument, in accordance with the relevant provisions of Part 8.
 
 ### 127 Registrar of court to record ownership
 (1) The Registrar of the court shall establish and maintain a record (in subsections (2) and (4) referred to as an ownership list) of the legal and beneficial ownership of all Maori freehold land in the district and of any trusts affecting the land or any individual interest in the land.
@@ -1558,7 +1557,7 @@ The District Land Registrar shall not register any instrument affecting Maori la
 (5) Nothing in subsection (1) requires the Registrar to record the ownership of beneficial interests in land that, by virtue of this Act, remain vested in the several owners of that land despite the vesting of the legal estate in fee simple in that land in a Maori incorporation.
 
 ### 128 Court may issue declaratory consolidated order
-(1) This section applies to any case where any instrument of title (whether or not registered under the Land Transfer Act 1952) issued with respect to any Maori freehold land does not fully disclose the names of the several persons for the time being entitled to any estate or interest in that land and the several shares and interests to which they are so entitled as a result of changes of ownership effected or evidenced by subsequent orders of the court or of a Registrar, or certificates or other documents recorded in the records of the court or in the Land Transfer Office.
+(1) This section applies to any case where any instrument of title (whether or not registered under the Land Transfer Act 2017) issued with respect to any Maori freehold land does not fully disclose the names of the several persons for the time being entitled to any estate or interest in that land and the several shares and interests to which they are so entitled as a result of changes of ownership effected or evidenced by subsequent orders of the court or of a Registrar, or certificates or other documents recorded in the records of the court or in the Land Transfer Office.
 (2) In any case to which this section applies, the court may, in accordance with the provisions of this section, make a consolidated order declaring, as at the date of the order, the names of the persons who, by virtue of the instrument of title or the subsequent orders, certificates, or other documents referred to in subsection (1), are then entitled to any estate or interest in the land and the several shares and interests to which they are so entitled.
 (3) Where a beneficial owner named in the original instrument of title or in any subsequent order has died, whether before or after the commencement of this Act, and in respect of the beneficial interest of that owner a succession order has been made under any former Act or a vesting order has been made under section 136 of the Maori Affairs Act 1953 or under section 117 or section 118 of this Act, vesting the interest of the deceased owner in a trustee pursuant to the will of the deceased, the trustee shall be deemed to be the beneficial owner of that interest for the purposes of the consolidated order, and the existence of the trust shall be disclosed in the order by reference to the will of the deceased owner.
 (4) The consolidated order shall be made to incorporate the effect of any order affecting the ownership of any interest made by the court subsequent to the drawing up of the draft consolidated order.
@@ -1587,7 +1586,7 @@ No land shall acquire or lose the status of Maori customary land or of Maori fre
 
 ### 131 Court may determine status of land
 (1) The Maori Land Court shall have jurisdiction to determine and declare, by a status order, the particular status of any parcel of land, whether or not that matter may involve a question of law.
-(2) Without limiting the classes of person who may apply to the court for the exercise of its jurisdiction, the District Land Registrar for the Land District in which any land is situated may apply to the court for the exercise of its jurisdiction under this section in respect of that land.
+(2) Without limiting the classes of person who may apply to the court for the exercise of its jurisdiction, the Registrar-General of Land may apply to the court for the exercise of its jurisdiction under this section in respect of that land.
 (3) Nothing in subsection (1) shall limit or affect the jurisdiction of the High Court to determine any question relating to the particular status of any land.
 
 ### 132 Change from Maori customary land to Maori freehold land by vesting order
@@ -1602,7 +1601,7 @@ No land shall acquire or lose the status of Maori customary land or of Maori fre
 
 ### 133 Change from General land or General land owned by Maori to Maori freehold land by status order
 (1) The Maori Land Court shall have jurisdiction in accordance with the succeeding provisions of this section to make a status order declaring that any land shall cease to be General land or General land owned by Maori and shall become Maori freehold land.
-(2) Without limiting the classes of person who may apply to the court for the exercise of its jurisdiction, the District Land Registrar for the land district in which any land that is beneficially owned by more than 10 Maori is situated may apply to the court for the exercise of its jurisdiction under this section in respect of that land.
+(2) Without limiting the classes of person who may apply to the court for the exercise of its jurisdiction, the Registrar-General of Land may apply to the court for the exercise of its jurisdiction under this section in respect of any land that is beneficially owned by more than 10 Māori.
 (3) The court shall not make a status order under this section unless it is satisfied that—
   (a) the land is beneficially owned by 1 or more Maori; and
   (b) the owners have had adequate opportunity to consider the proposed change of status; and
@@ -1647,14 +1646,14 @@ No land shall acquire or lose the status of Maori customary land or of Maori fre
 The Maori Land Court may make a status order under section 135 where it is satisfied that—
   (a) the land is beneficially owned by not more than 10 persons as tenants in common; and
   (b) neither the land nor any interest is subject to any trust (other than a trust imposed by section 250(4)); and
-  (c) the title to the land is registered under the Land Transfer Act 1952 or is capable of being so registered; and
+  (c) the title to the land is registered under the Land Transfer Act 2017 or is capable of being so registered; and
   (d) the land can be managed or utilised more effectively as General land; and
   (e) the owners have had adequate opportunity to consider the proposed change of status and a sufficient proportion of the owners agree to it.
 
 ### 137 Power to change status of Maori land
 (1) The Maori Land Court may make a status order under section 135(1) where it is satisfied that—
   (a) the legal estate in fee simple in the land is vested in a Maori incorporation or the trustees of a trust constituted under Part 12; and
-  (b) the title to the land is registered under the Land Transfer Act 1952 or is capable of being so registered; and
+  (b) the title to the land is registered under the Land Transfer Act 2017 or is capable of being so registered; and
   (c) the alienation of the land is clearly desirable for the purpose of a rationalisation of the land base or of any commercial operation of the Maori incorporation in which or the trustees in whom the legal estate in fee simple in the land is vested; and
   (d) the rationalisation referred to in paragraph (c) will involve the acquisition of other land by the Maori incorporation in which or the trustees in whom the legal estate in fee simple in the land is vested; and
   (e) the quorum and voting requirements imposed by regulations made under this Act in relation to the resolution necessary to authorise the alienation referred to in paragraph (c) are impractical.
@@ -1670,13 +1669,13 @@ The Maori Land Court may make a status order under section 135 where it is satis
 Instead of making a vesting order under this Part, or in addition to any such order, the court may, if it thinks it necessary or convenient to do so, amend any existing instrument of title so as to include the land or any part of the land to which the application relates, and the land so included shall thereupon become subject to all reservations, trusts, rights, titles, interests, and encumbrances affecting the other land comprised in that instrument of title.
 
 ### 139 Registration of vesting orders where land formerly Maori customary land
-(1) The land to which any vesting order made under section 132 applies shall, on the making of the order, become subject to the Land Transfer Act 1952.
-(2) Every such order, when sealed, shall be transmitted to the District Land Registrar of the district in which the land is situated.
-(3) If the land is situated in 2 or more districts, duplicates or certified copies of the order shall be transmitted to the District Land Registrar of each such district, and shall be dealt with by each such Registrar, so far as the order relates to land in that Registrar’s district, in accordance with subsection (4).
-(4) On receipt of the order, the District Land Registrar shall embody the order as a folium in the provisional register, and all the provisions of the Land Transfer Act 1952 as to provisional registration shall, subject to this Act, apply accordingly.
+(1) The land to which any vesting order made under section 132 applies shall, on the making of the order, become subject to the Land Transfer Act 2017.
+(2) Every such order, when sealed, shall be transmitted to the Registrar-General of Land.
+(3)
+(4) On receipt of the order, the Registrar-General of Land must issue a qualified record of title for the land, and all the provisions of the Land Transfer Act 2017 as to qualified records of title, subject to this Act, apply accordingly.
 
 ### 140 Registration of other orders
-Every status order made under this Part, and every vesting order made under section 134, shall be registered under the Land Transfer Act 1952 in accordance with Part 5 of this Act.
+Every status order made under this Part, and every vesting order made under section 134, shall be registered under the Land Transfer Act 2017 in accordance with Part 5 of this Act.
 
 ### 141 Effect of vesting orders upon registration
 (1) Every vesting order made under this Part shall, upon registration, have the effect of—
@@ -1836,7 +1835,7 @@ A person with a life interest or a determinable life interest in Maori freehold 
 
 ### 156 Effect of confirmation
 (1) No instrument of alienation that is required to be confirmed under this Part shall have any force or effect until it is confirmed by the court under this Part.
-(2) Subject to subsection (3), on confirmation being granted, an instrument of alienation shall (if otherwise valid) take effect according to its terms, subject to the requirements (if any) of registration under the Land Transfer Act 1952, as from the date on which it would have taken effect had confirmation not been required.
+(2) Subject to subsection (3), on confirmation being granted, an instrument of alienation shall (if otherwise valid) take effect according to its terms, subject to the requirements (if any) of registration under the Land Transfer Act 2017, as from the date on which it would have taken effect had confirmation not been required.
 (3) The confirmation of a resolution of assembled owners shall not—
   (a) constitute a contract between the owners and any other persons; or
   (b) impose any obligations or confer any rights upon the owners, or upon an intending alienee or other person.
@@ -1846,8 +1845,8 @@ A person with a life interest or a determinable life interest in Maori freehold 
 (1) On the confirmation of any resolution of assembled owners for the alienation of any interest in Maori freehold land, the Māori Trustee or the court appointed agent shall become the agent of the owners to execute all instruments and to do on their behalf all such other things as may be necessary to give effect to the resolution.
 (2) Where the resolution relates to an alienation by way of lease with a right of renewal, nothing in this section shall authorise or require the Māori Trustee or the court appointed agent to execute any renewal of the lease otherwise than in accordance with section 196.
 (3) Every instrument of alienation executed by the Māori Trustee or the court appointed agent as the agent of the owners shall, without further confirmation under this Part, have the same force and effect, and may be registered in like manner, as if it had been lawfully executed by all of the owners or their trustees, and as if those owners or trustees had been fully competent to execute it.
-(4) The production of any certificate of title issued in respect of the land affected by the instrument of alienation shall not be necessary for the registration of that instrument.
-(5) Every instrument of alienation so executed by the Māori Trustee or the court appointed agent shall contain a statement or recital that the Māori Trustee or agent is duly authorised under this section to execute the instrument as the agent of the owners; and every such statement or recital shall be accepted by the District Land Registrar and by all courts as prima facie evidence of the facts so stated or recited.
+(4) The production of any record of title issued in respect of the land affected by the instrument of alienation shall not be necessary for the registration of that instrument.
+(5) Every instrument of alienation so executed by the Māori Trustee or the court appointed agent shall contain a statement or recital that the Māori Trustee or agent is duly authorised under this section to execute the instrument as the agent of the owners; and every such statement or recital shall be accepted by the Registrar-General of Land and by all courts as prima facie evidence of the facts so stated or recited.
 (6) The foregoing provisions of this section shall extend and apply with all necessary modifications to any case in which the land to be alienated is vested in the Māori Trustee otherwise than as administrator or executor.
 (7) The owners shall not be competent to revoke the authority of the Māori Trustee or the court appointed agent to act as their agent under this section.
 
@@ -2181,8 +2180,8 @@ The powers and duties conferred by sections 196 to 199 shall be exercised or per
 
 ### 200 Execution of instruments
 (1) Every instrument executed for the purposes of this Part by the Māori Trustee or the court appointed agent shall have the same force and effect, and may be registered in like manner, as if it had been lawfully executed by all the owners or their trustees, and as if those owners or trustees had been fully competent to execute it.
-(2) The production of any certificate of title issued in respect of the land affected by the instrument shall not be necessary for the registration of that instrument.
-(3) Every instrument so executed by the Māori Trustee or the court appointed agent shall contain a statement or recital that the Māori Trustee or the court appointed agent is duly authorised to execute the same as the agent of the owners under this Part, and every such statement or recital shall be accepted by the District Land Registrar and by all courts as prima facie evidence of the facts so stated or recited.
+(2)
+(3) Every instrument so executed by the Māori Trustee or the court appointed agent shall contain a statement or recital that the Māori Trustee or the court appointed agent is duly authorised to execute the same as the agent of the owners under this Part, and every such statement or recital shall be accepted by the Registrar-General of Land and by all courts as prima facie evidence of the facts so stated or recited.
 
 ### 201 Valuations for revision of rent
 (1) Where any lease of Maori freehold land or of General land owned by Maori contains a provision for the revision of the rent during the term of the lease or for a right of renewal for a further period of years and the basis for the computation of the revised rent or the rent for the renewed period is expressed to be a special Government valuation of the land comprised in the lease, the provisions of this section shall apply to the making of any such valuation.
@@ -2405,18 +2404,20 @@ In this Part, unless the context otherwise requires,—
 
 ### 219 Trust order
 (1) The court shall, by order, set out the terms of any trust constituted under this Part.
-(2) Notwithstanding anything in this Act or the Land Transfer Act 1952, no trust order made under this Part shall be capable of registration under that Act.
+(2) Notwithstanding anything in this Act or the Land Transfer Act 2017, no trust order made under this Part shall be capable of registration under that Act.
 
 ### 220 Vesting order
 (1) On constituting any trust under this Part, the court may, by order, vest the land and other assets in respect of which the trust is constituted in the responsible trustees or a custodian trustee upon and subject to the trusts declared by the court in a separate trust order.
 (2) The vesting order shall take effect according to its terms to vest the land or other assets in the person or persons named in the order, solely or as joint tenants, as the case may require, without any conveyance, transfer, or other instrument of assurance, together with all rights and remedies (if any) to which the owners were entitled in respect of the land immediately before the vesting but subject to any lease, licence, mortgage, charge, or other encumbrance to which the land or assets may be subject at the date of the making of the order, and the fact that the land or other assets is or are held by that person or those persons on trust shall be stated in the vesting order.
-(3) When a vesting order is made under this section in respect of any customary land, the land included in the order shall, on the making of the order, become subject to the Land Transfer Act 1952; and thereupon the provisions of section 139 of this Act shall apply as if the vesting order were made under section 132 of this Act.
+(3) When a vesting order is made under this section in respect of any customary land, the land included in the order shall, on the making of the order, become subject to the Land Transfer Act 2017; and thereupon the provisions of section 139 of this Act shall apply as if the vesting order were made under section 132 of this Act.
 (4) Where the court is satisfied, on the application of the person or persons in whom any land or other assets are vested by an order made under subsection (1), that the whole or part of that land or the whole or part of those assets is to be sold, the court may, if it thinks fit, by order revoke all or any of the trusts in respect of the land or assets to be sold.
-(5) The District Land Registrar shall make all such adjustments to the register or the provisional register as are necessary to give effect to any vesting order or order of revocation made by the court under this section, and shall mark the appropriate folium with a notation to the effect that the land is vested in the persons named as trustees or to the effect that the trust on which the land was vested in the persons named as trustees has been revoked.
+(5) The Registrar-General of Land must—
+  (a) adjust the register as necessary to give effect to any vesting order or order of revocation made by the court under this section; and
+  (b) note in the register that the land is vested in the persons named as trustees or that the trust on which the land was vested in the persons named as trustees has been revoked.
 
 ### 220A Registration of land in name of trust or tipuna
 (1) This section applies to land or an interest in land that constitutes the whole or part of the property of a trust.
-(2) The trustees of a trust may give a direction that land that is registered or registrable under the Land Transfer Act 1952—
+(2) The trustees of a trust may give a direction that land that is registered or registrable under the Land Transfer Act 2017—
   (a) be registered in the name of—
     (i) the trust applying to that land; or
     (ii) a tipuna; or
@@ -2428,7 +2429,7 @@ In this Part, unless the context otherwise requires,—
   (a) a direction in writing, addressed to the Registrar-General of Land, executed by the trustees, saying whether the direction is given under paragraph (a) or (b) of subsection (2); and
   (b) a certificate executed by the trustees identifying the beneficiaries of the trust; and
   (c) evidence of a resolution of beneficiaries approving the direction.
-(5) Subsections (2) and (3) apply despite anything in the Land Transfer Act 1952 or any other Act or rule of law.
+(5) Subsections (2) and (3) apply despite anything in the Land Transfer Act 2017 or any other Act or rule of law.
 (6) If the documents received under subsection (4) comply with that subsection, the Registrar must—
   (a) issue a certificate to the Registrar-General of Land confirming the direction; and
   (b) forward a copy of the direction and that certificate to the Registrar-General of Land.
@@ -2519,10 +2520,10 @@ Where any individual or body is appointed as a custodian trustee of a trust cons
 ### 227 Trustees may act by majority
 (1) Subject to any express provision in the trust order and except as provided in subsections (2) and (3), in any case where there are 3 or more responsible trustees of a trust constituted under this Part, a majority of the trustees shall have sufficient authority to exercise any powers conferred on the trustees.
 (1A)
-(2) Subject to subsection (3), every instrument to be registered under the Land Transfer Act 1952 shall be executed by all the trustees.
-(3) Where the court has, under section 237, made an order or given directions in relation to the execution of any instrument (including an instrument to be registered under the Land Transfer Act 1952) that instrument shall be executed in accordance with that order or those directions, as the case may require, and the Registrar shall send a copy of every such order and of all such directions to the District Land Registrar or the Registrar of Deeds for registration against the title to that land under the Land Transfer Act 1952 or (as the case may require) the Deeds Registration Act 1908.
-(4) The District Land Registrar or the Registrar of Deeds shall register the same accordingly.
-(5) Notwithstanding anything in section 99 of the Land Transfer Act 1952, the production of the outstanding instrument of title shall not be necessary for the purposes of any such registration under that Act.
+(2) Subject to subsection (3), every instrument to be registered under the Land Transfer Act 2017 shall be executed by all the trustees.
+(3) Where the court has, under section 237, made an order or given directions in relation to the execution of any instrument (including an instrument to be registered under the Land Transfer Act 2017) that instrument shall be executed in accordance with that order or those directions, as the case may require, and the Registrar shall send a copy of every such order and of all such directions to the Registrar-General of Land or the Registrar of Deeds for registration against the title to that land under the Land Transfer Act 2017 or (as the case may require) the Deeds Registration Act 1908.
+(4) The Registrar-General of Land or the Registrar of Deeds shall register the same accordingly.
+(5)
 (6) Where any trustee dissents in writing from the majority decision of the trustees before the decision is implemented, that trustee shall be absolved from any personal liability arising out of the implementation of that decision.
 
 ### 227A Interested trustees
@@ -2679,7 +2680,7 @@ In this Part, unless the context otherwise requires,—
 (4) From and after its constitution, every Maori incorporation shall hold the land and other assets vested in it on trust for the incorporated owners in proportion to their several interests in the land.
 (5) No Maori incorporation acting in accordance with its powers and in compliance with this Act or any other Act shall be in breach of trust.
 (6) Subject to any determination made in accordance with section 256 and to any order made in accordance with section 358, all land vested in an incorporation, whether by virtue of the order of incorporation or by virtue of section 357 or otherwise, shall, while so vested, continue to be or be deemed to be Maori freehold land.
-(7) The District Land Registrar shall cancel or amend any existing certificate of title that may be necessary to give effect to any order incorporating the owners of any land under this Part.
+(7) The Registrar-General of Land shall cancel or amend any existing record of title that may be necessary to give effect to any order incorporating the owners of any land under this Part.
 
 ### 251 Inclusion in incorporation of owners of additional Maori land
 (1) For the purpose of including in any Maori incorporation the owners of any Maori freehold land who have, in the manner prescribed by section 247(2), agreed to such inclusion, the court may make an order amending the subsisting order of incorporation.
@@ -2733,7 +2734,7 @@ The shareholders of a Maori incorporation may from time to time, at a general me
   (d) making such other provision in relation to the change in the status of the whole or any part of that land as the court thinks just.
 (4A) No restrictions on alienation imposed by any of the provisions of this Act shall apply in respect of any land acquired by the incorporation and retained by it as an investment pursuant to an order made under subsection (4).
 (4B) The Registrar of the Maori Land Court shall note the effect of every order on the records held in that court in relation to the incorporation of every Maori incorporation to which the order relates.
-(4C) The District Land Registrar is hereby authorised and directed to cancel or amend any existing certificate of title and to issue any new certificate of title that may be necessary to give effect to an order made under subsection (4).
+(4C) The Registrar-General of Land is hereby authorised and directed to cancel or amend any existing record of title and to issue any new record of title that may be necessary to give effect to an order made under subsection (4).
 (5) Where a Maori incorporation acquires any land out of the original land of the incorporation (whether in substitution or by way of exchange for any other land belonging to the incorporation or otherwise), the land so acquired shall, unless the court otherwise orders, form part of the corpus of the incorporation.
 
 ### 257 Allocation of land to shareholders
@@ -2851,7 +2852,7 @@ No shareholder in a Maori incorporation shall have any personal liability, wheth
 (1) A Maori incorporation shall be bound by every act of its committee of management, and no person dealing with the incorporation shall be concerned to inquire in relation to any such act whether the committee is authorised or restricted by any resolution of the shareholders, or as to the terms and conditions of any such resolution.
 (2) No act of a committee of management of a Maori incorporation, or of any member of the committee, shall be questioned or invalidated on the ground of any error or irregularity in the mode of election of any member of the committee, or on the ground of any vacancy in the membership of the committee.
 (3) No person lending money to a Maori incorporation shall be concerned to inquire as to the necessity for the loan or as to the application of the proceeds of it.
-(4) Where any instrument of alienation purporting to be executed on behalf of a Maori incorporation is presented for registration under the Land Transfer Act 1952, the Registrar shall not be concerned to inquire whether the alienation has been authorised by a resolution of the shareholders duly passed and confirmed by the court in accordance with this Act.
+(4) Where any instrument of alienation purporting to be executed on behalf of a Maori incorporation is presented for registration under the Land Transfer Act 2017, the Registrar shall not be concerned to inquire whether the alienation has been authorised by a resolution of the shareholders duly passed and confirmed by the court in accordance with this Act.
 
 ### 272 Qualification, disqualification, and removal of members
 (1) It shall not be necessary in the case of any person elected or appointed to a committee of management of a Maori incorporation that the person be a shareholder in the incorporation.
@@ -3142,7 +3143,7 @@ If, on the partition of any land, the share or interest of any person in the lan
 
 ### 295 Court may apportion rights and obligations
 (1) When a partition order is made, the court may, in that order or in any subsequent order made on the application of any person interested, or of its own motion, apportion or adjust, as between the several parcels into which the land has been partitioned, all rights, obligations, or liabilities arising from any lease, licence, mortgage, or charge to which the land is subject at the date of the partition.
-(2) Every such order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the Land Transfer Act 1952 accordingly.
+(2) Every such order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the Land Transfer Act 2017 accordingly.
 (3) Subject to subsection (4), the court may exercise its powers of apportionment or adjustment under this section in such manner as it thinks equitable.
 (4) In the exercise of its powers under this section with respect to any mortgage or lease, the court shall not make any apportionment or adjustment of rights, obligations, or liabilities without the consent of the mortgagee or lessee.
 
@@ -3166,21 +3167,21 @@ If, on the partition of any land, the share or interest of any person in the lan
 (2) No General land, other than General land owned by Maori, shall be dealt with under this section except with the consent in writing of the owner or owners and of every other person having a legal or equitable estate or interest in the land.
 (3) No Crown land shall be so dealt with without the consent of the Minister of the Crown having responsibility for the matter.
 (4) Where, by a partition order under this section, any General land is acquired by a Maori in severalty or in common with any other person or persons (whether or not Maori), it shall, unless otherwise specified in the order, become Maori freehold land.
-(5) For the purpose of giving effect to any order of partition under this section, the court may cancel or vary any existing partition order or other order, although that order has already been registered or provisionally registered under the Land Transfer Act 1952.
-(6) The provisions of section 88 shall apply with respect to the cancellation or variation of any partition order or other order under this section, and to any consequential amendments required to be made in the register by the District Land Registrar.
+(5) For the purpose of giving effect to any order of partition under this section, the court may cancel or vary any existing partition order or other order, although that order has already been registered under the Land Transfer Act 2017.
+(6) The provisions of section 88 shall apply with respect to the cancellation or variation of any partition order or other order under this section, and to any consequential amendments required to be made in the register by the Registrar-General of Land.
 
 ### 299 Registration of partition orders
-(1) When a partition order affects land that is subject to the Land Transfer Act 1952, the following provisions shall apply in respect of the registration of the order under that Act:
-  (a) the Registrar of the court shall forward the order to the District Land Registrar:
-  (b) if, when the order is received by the District Land Registrar, the title to the land so partitioned is already on the register as finally constituted under that Act, the order shall be registered against the title in accordance with that Act:
-  (c) if, when the order is received by the District Land Registrar, the title to the land partitioned is on the provisional register, the order may either be registered against the title in accordance with that Act or embodied in the provisional register as a separate folio of it; in which latter case—
-    (i) it shall be numbered accordingly, and when so numbered shall, as provided in section 50 of the Land Transfer Act 1952, be deemed duly registered; and
-    (ii) the original folium relating to the land partitioned shall thereupon be cancelled so far as it relates to the parcel or any parcel included in the partition order; and
-    (iii) all entries and memorials affecting the title to any such parcel shall be transferred to the folium so constituted:
-  (d) if, when the order is received by the District Land Registrar, the title to the land partitioned has not been registered either finally or provisionally, the partition order shall be embodied in the provisional register, and shall form a separate folium of it, and shall be numbered accordingly, and when so numbered shall be deemed duly registered:
-  (e) all the provisions of the Land Transfer Act 1952 as to provisional registration shall, subject to this Act and as far as they are applicable, apply to provisional registration under this section:
-  (f) the District Land Registrar may retain on the provisional register any title that has been entered on it under this section, so long as the number of owners exceeds 10.
-(2) The provisions of subsection (1) shall, as far as they are applicable and with any necessary modifications, extend and apply to any partition order that affects the legal title to any land that is not subject to the Land Transfer Act 1952.
+(1) When a partition order affects land that is subject to the Land Transfer Act 2017, the following provisions apply in respect of the registration of the order under that Act:
+  (a) the Registrar of the court must forward the order to the Registrar-General of Land:
+  (b) if, when the order is received by the Registrar-General of Land, there is an unqualified record of title to the land so partitioned, the order must be registered against the title in accordance with that Act:
+  (c) if, when the order is received by the Registrar-General of Land, the title to the land partitioned is in a qualified record of title, the Registrar-General of Land may either register the order against that qualified record of title in accordance with that Act or as a separate qualified record of title; in which latter case—
+    (i) the partition order is, as provided in section 17 of the Land Transfer Act 2017, duly registered; and
+    (ii) the original qualified record of title relating to the land partitioned must then be cancelled so far as it relates to the parcel or any parcel included in the partition order; and
+    (iii) all entries and memorials affecting the record of title to any such parcel must be transferred to the qualified record of title:
+  (d) if, when the order is received by the Registrar-General of Land, the title to the land partitioned has not been registered, the partition order must be registered as a qualified record of title:
+  (e) the provisions of the Land Transfer Act 2017 as to qualified records of title, subject to this Act and as far as they are applicable, apply to registration as a qualified record of title under this section:
+  (f) the Registrar-General of Land may continue under this section to record in a record of title that the title is qualified, so long as the number of owners exceeds 10.
+(2) The provisions of subsection (1) shall, as far as they are applicable and with any necessary modifications, extend and apply to any partition order that affects the legal title to any land that is not subject to the Land Transfer Act 2017.
 (3) For the purposes of subsection (1), a partition order shall be deemed to affect the legal title to land notwithstanding that any other person named in the order is so named as a trustee under the terms of a will.
 (4)
 
@@ -3235,7 +3236,7 @@ No partition of Maori land shall be effected (whether by the court under this Pa
 [Repealed]
 
 ### 306 Cancellation of partition orders
-(1) Subject to the provisions of this section, the court may at any time cancel, wholly or in part, any partition order made under this Act or under the corresponding provisions of any former Act, whether or not that order has been registered under the Land Transfer Act 1952.
+(1) Subject to the provisions of this section, the court may at any time cancel, wholly or in part, any partition order made under this Act or under the corresponding provisions of any former Act, whether or not that order has been registered under the Land Transfer Act 2017.
 (2) If the whole of the land comprised in the order has been acquired by the present owner or that owner’s predecessor in title by any alienation, the court shall not cancel an order under this section without the consent of the present owner.
 (3) Where the whole of the land comprised in any partition order is subject to any lease, licence, mortgage, charge, or other encumbrance, the order shall not be cancelled under this section without the consent of the lessee, licensee, mortgagee, or other person entitled to the benefit of the encumbrance, unless the court is satisfied that the rights and interests of that person would not be detrimentally affected by the cancellation of the order.
 (4) Upon the cancellation under this section of any partition order, the land comprised therein shall, to the extent of the cancellation, be held again under the former instrument of title as if no partition had taken place; and all orders of the court and all alienations affecting interests in the land made or affected since the date of the order cancelled shall be deemed to relate to the former title and the interests under it.
@@ -3247,9 +3248,9 @@ No partition of Maori land shall be effected (whether by the court under this Pa
 (1) Where the court is satisfied that any land to which this Part applies, and that comprises 2 or more areas held under separate titles, can be more conveniently worked or dealt with as if it were held in common ownership under 1 title, the court may cancel the several titles under which the land is held and make an amalgamation order substituting for those titles 1 title for the whole of the land.
 (2) An amalgamation order shall not be made in respect of any land that is for the time being subject to Part 2 of the Maori Affairs Restructuring Act 1989 without the consent of the chief executive.
 (3) Where the whole of the land comprised in any separate title is subject to any lease, licence, mortgage, charge, or other encumbrance, the court shall not make an amalgamation order without the consent of the lessee, licensee, mortgagee, or other person entitled to the benefit of the encumbrance, unless it is satisfied that the rights and interests of that person would not be detrimentally affected by the making of the order.
-(4) Where an order is made in respect of land subject to any lease, licence, mortgage, or other encumbrance, the court may make such order as it thinks proper for the apportionment or adjustment of the rights and obligations of any person under any such lease, licence, mortgage, or other encumbrance; and every order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the Land Transfer Act 1952 accordingly.
+(4) Where an order is made in respect of land subject to any lease, licence, mortgage, or other encumbrance, the court may make such order as it thinks proper for the apportionment or adjustment of the rights and obligations of any person under any such lease, licence, mortgage, or other encumbrance; and every order of apportionment or adjustment shall have effect according to its tenor in the same manner in all respects as if all necessary transfers, releases, covenants, and other dispositions or agreements had been duly made in that behalf by all persons concerned, and may be registered under the Land Transfer Act 2017 accordingly.
 (5) Notwithstanding anything to the contrary in section 41, an amalgamation order may be made to take effect on a date specified by the court, which may be a date earlier or later than the date of the minute of the order entered in the records of the court.
-(6) Subject to subsection (7), every amalgamation order shall, upon registration under the Land Transfer Act 1952, constitute the title to the land included in it, without any transfer or other instrument of assurance.
+(6) Subject to subsection (7), every amalgamation order shall, upon registration under the Land Transfer Act 2017, constitute the title to the land included in it, without any transfer or other instrument of assurance.
 (7) Where the land is vested in trust for the owners in the Māori Trustee or any other person, the order shall affect only the equitable estate of the beneficial owners.
 (8) An amalgamation order shall state upon its face the status of the land comprised in it as from the making of the order, in accordance with the following provisions:
   (a) if any part of the land was formerly Maori freehold land, the whole of the land comprised in the order shall be Maori freehold land:
@@ -3259,9 +3260,9 @@ No partition of Maori land shall be effected (whether by the court under this Pa
 
 ### 308 Aggregation orders
 (1) Where the court is satisfied that any 2 or more areas of land to which this Part applies could be more conveniently worked or dealt with if they were held in common ownership, but that there is no reason to cancel the existing titles, it may make an aggregation order vesting the areas of land in the aggregate of the owners of those areas.
-(2) Upon registration under the Land Transfer Act 1952, an aggregation order made under this section shall take effect according to its tenor to vest the land described in the order in the persons and in the shares named in the order.
+(2) Upon registration under the Land Transfer Act 2017, an aggregation order made under this section shall take effect according to its tenor to vest the land described in the order in the persons and in the shares named in the order.
 (3) Any Crown land that, pursuant to this section, is vested in any Maori shall thereupon become Maori freehold land and the aggregation order shall so state.
-(4) Subject to subsection (5), the court may at any time cancel any aggregation order made under this section or under the corresponding provisions of any former enactment, whether or not that order has been registered under the Land Transfer Act 1952; and, in every such case,—
+(4) Subject to subsection (5), the court may at any time cancel any aggregation order made under this section or under the corresponding provisions of any former enactment, whether or not that order has been registered under the Land Transfer Act 2017; and, in every such case,—
   (a) each area of the land comprised in the order shall be deemed to be held by those persons who held it at the time of the making of the order or by their successors in title, and in the same relative shares; and
   (b) section 306(5) shall apply, with any necessary modifications, as if the aggregation order were a partition order.
 (5) Despite subsection (4), but subject to subsections (6) and (7), the provisions of section 293 relating to the court’s power to award, in a partition order, compensation for improvements effected on the land to which the order relates apply, with any necessary modifications, to the cancellation of any aggregation order under this section.
@@ -3370,25 +3371,25 @@ No partition of Maori land shall be effected (whether by the court under this Pa
 (1) Where, pursuant to section 322, the court cancels an order for the laying out of any roadway for which a separate instrument of title exists, the court may cancel that instrument of title and may amend any other instrument of title so as to include in it the whole or any part of the land comprised in the roadway; and the land so included in any instrument of title shall thereupon vest in the owner or owners as if it had been originally included in it, and shall become subject to any reservations, trusts, rights, titles, interests, or encumbrances to which the land comprised in that instrument of title is then subject.
 (2) Where the land comprised in any roadway is not included in a separate instrument of title, the owners shall thereafter hold the land freed from its reservation as a roadway.
 (3) The foregoing provisions of this section as to the cancellation of orders shall, as far as they are applicable and with any necessary modifications, apply to the variation pursuant to section 322 of an order of the court as to roadways.
-(4) Any order made by the court under this section shall, upon production, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be; and the District Land Registrar is hereby authorised to make such amendments in any instrument of title as may be necessary to give effect to any order under this section.
+(4) Any order made by the court under this section shall, upon production, be registered by the Registrar-General of Land or the Registrar of Deeds, as the case may be; and the Registrar-General of Land is hereby authorised to make such amendments in any instrument of title as may be necessary to give effect to any order under this section.
 
 ### 324 Unused road or street over Maori land may be stopped by court
 (1) This section applies to roads that have previously been or that may hereafter be constituted over any Maori freehold land, irrespective of the terms or descriptions used or the procedure adopted when they were constituted as roads.
 (2) With the consent in writing of the Minister of Transport and of the authority having the control of the road under section 317 of the Local Government Act 1974, the court may make an order closing the road or any defined portion of it, and every such order shall have effect according to its tenor.
 (3) By the same or a subsequent order, the court, subject to such terms and conditions as it thinks proper with respect to payment or as to any other matter, may vest the land comprised in the road or portion of the road so closed in such person or persons as it may determine, or may amend any existing title to any Maori land so as to include in it the whole or any part of the road or portion of the road that has been closed.
 (4) The land so included in any instrument of title shall thereupon vest in the owner or owners as if it had been originally included in it, and shall become subject to any reservations, trusts, rights, titles, interests, or encumbrances to which the land comprised in that instrument of title is then subject.
-(5) Any order made under this section shall, upon production, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be, and where necessary the District Land Registrar shall amend any certificate of title so as to conform to the amendments made by the court under this section in any existing instrument of title.
+(5) Any order made under this section shall, upon production, be registered by the Registrar-General of Land or the Registrar of Deeds, as the case may be, and where necessary the Registrar-General of Land shall amend any record of title so as to conform to the amendments made by the court under this section in any existing instrument of title.
 
 ### 325 Court may make vesting orders for lands comprised in roads or streets stopped otherwise than under foregoing provisions
 (1) Where any road or portion of a road has previously been or is hereafter closed pursuant to any authority other than this Act or an Act repealed by this Act, the court may, on the application of the Minister of Transport, or of the territorial authority having control of the road at the time of closure, make a vesting order vesting the whole or any portion of the land comprised in the road or portion of the road that has been closed in the owner for the time being of any adjoining land that, when the road was constituted, was Maori freehold land or General land owned by Maori.
 (2) Any land vested pursuant to this section shall become subject to any reservations, trusts, rights, titles, interests, or encumbrances to which the land with which it is incorporated is then subject.
 (3) The provisions of subsection (1) shall extend to apply in any case where the road was laid out over Crown land, and the land adjoining the road or portion of the road that has been closed is Maori freehold land or General land owned by Maori.
-(4) By the same or a subsequent order, the court may amend any existing title to include in it the land comprised in the road or portion of the road that has been closed, and the District Land Registrar is hereby authorised to make all necessary entries or amendments in any certificate of title or register.
+(4) By the same or a subsequent order, the court may amend any existing title to include in it the land comprised in the road or portion of the road that has been closed, and the Registrar-General of Land is hereby authorised to make all necessary entries or amendments in any record of title.
 (5) Unless the court otherwise orders, any land that is vested in any Maori pursuant to this section shall thereupon become Maori freehold land.
 
 ### 326 Alienation of land to include alienation of interest in roadway giving access to that land
 (1) Where any roadway that is comprised in a separate instrument of title has, whether before or after the commencement of this Act, been laid out by the court over any Maori freehold land, the transfer by sale or otherwise of any land to which the roadway gives access shall, unless the instrument of alienation expressly provides to the contrary, be and be deemed to have been a transfer by the alienor to the alienee of the alienor’s interest (if any) in the roadway.
-(2) If any such instrument of title is registered under the Land Transfer Act 1952, the alienee may apply for registration under that Act of any interest to which the alienee has become entitled under this section, and the District Land Registrar may register the same accordingly.
+(2) If any such instrument of title is registered under the Land Transfer Act 2017, the alienee may apply for registration under that Act of any interest to which the alienee has become entitled under this section, and the Registrar-General of Land may register the same accordingly.
 (3) In any case to which subsection (1) does not apply, the alienee of any land to which any roadway gives access (whether or not a separate title exists in respect of the roadway) shall have the same rights of access and be subject to the same obligations as were enjoyed by or imposed on the alienor in respect of the roadway before the transfer.
 
 **Landlocked Maori land**
@@ -3433,7 +3434,7 @@ In this section and sections 326B, 326C, and 326D, unless the context otherwise 
   (c) the fencing of any land and the upkeep and maintenance of any fence; and
   (d) the upkeep and maintenance of any land over which an easement is to be granted; and
   (e) the powers of the court under Part 16 as to Maori land; and
-  (f) the carrying out of any survey that may be required by the Registrar-General of Land before the Registrar-General of Land will issue, in respect of any piece of land affected by the order, a certificate of title free of any limitations as to title or parcels within the meaning of Part 12 of the Land Transfer Act 1952; and
+  (f) the carrying out of any survey that may be required by the Registrar-General of Land before the Registrar-General of Land will issue, in respect of any piece of land affected by the order, a record of title that is not qualified under section 17 of the Land Transfer Act 2017; and
   (g) the time in which any work necessary to give effect to the order is to be carried out; and
   (h) the execution, stamping, and delivery of any instrument; and
   (i) such other matters as the court considers relevant.
@@ -3447,7 +3448,7 @@ In this section and sections 326B, 326C, and 326D, unless the context otherwise 
   (c) an order requiring the applicant to maintain the land, or meet other obligations affecting the land, failing which the principal order may be revoked.
 
 ### 326D Additional provisions relating to orders under sections 326B or 326C
-(1) Any order made under section 326B(5) must be registered as an instrument under the Land Transfer Act 1952, the Deeds Registration Act 1908, or the Crown Minerals Act 1991, as the case may require.
+(1) Any order made under section 326B(5) must be registered as an instrument under the Land Transfer Act 2017, the Deeds Registration Act 1908, or the Crown Minerals Act 1991, as the case may require.
 (2) This section and sections 326A to 326C bind the Crown.
 (3) The High Court, and not the Maori Appellate Court, has jurisdiction to hear and determine appeals from any order made under sections 326B or 326C that affects General land.
 (4) Every appeal to the High Court under subsection (3) is by way of rehearing.
@@ -3513,7 +3514,7 @@ The Governor-General may from time to time, by Order in Council, make such regul
 (1) The court, on application by any person acting on behalf of the Crown, may at any time make an order charging the land in respect of which any survey has been made under this Part with the costs incurred in respect of that survey.
 (2) Any charge under subsection (1) may be imposed on the land as a whole or may be apportioned between different parts of the land, as the court thinks fit, having regard to the relative values of those parts and to the relative benefits derived from the survey.
 (3) On or after any partition, exchange, alienation, or other disposition of the land so charged, the court may in like manner make a further order varying any former order and apportioning the charge in such manner as it thinks just, and any such subsequent order shall supersede all earlier charging orders so far as it is inconsistent with those earlier orders.
-(4) Every charging order under this section shall constitute a charge upon the land or upon the several parcels of the land, according to its tenor, and may be registered against the title to the land under the Land Transfer Act 1952.
+(4) Every charging order under this section shall constitute a charge upon the land or upon the several parcels of the land, according to its tenor, and may be registered against the title to the land under the Land Transfer Act 2017.
 (5) When any charge has been apportioned under this section, each part of that charge shall be deemed to constitute a separate charge.
 
 ### 334 Interest on survey charges
@@ -3607,7 +3608,7 @@ The Governor-General may from time to time, by Order in Council, make such regul
 ### 343 Maori land available in bankruptcy
 (1) On the application of the Official Assignee acting in respect of the estate of any person adjudged bankrupt after 1 April 1968, the court may make an order vesting in the Official Assignee the beneficial freehold interest of the bankrupt in Maori freehold land owned by the bankrupt whether solely or in severalty or jointly with any other person or persons.
 (2) Any application under this section shall be dealt with by the court without notification or appearance of any person, and, subject to the provisions of this section, the court shall make the order sought as a matter of course.
-(3) Any order made by the court pursuant to this section shall take effect and may be registered under the Land Transfer Act 1952.
+(3) Any order made by the court pursuant to this section shall take effect and may be registered under the Land Transfer Act 2017.
 (4) Notwithstanding any provision to the contrary in the Insolvency Act 2006, no beneficial freehold interests in Maori freehold land of a bankrupt shall vest or be deemed to have vested in the Official Assignee otherwise than by an order made pursuant to this section, and the Official Assignee shall have no power to disclaim any interest vested in the Official Assignee by such an order.
 (5) Notwithstanding the provisions of the Insolvency Act 2006, the Official Assignee shall not have power to sell any such beneficial freehold interest entered in Maori freehold land to any person other than a person to whom the bankrupt could have alienated it in accordance with the provisions of Part 7 of this Act.
 
@@ -3627,7 +3628,7 @@ The Governor-General may from time to time, by Order in Council, make such regul
 (5) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, any proceedings for an offence constituted by this section, or for the recovery of any penalty, fine, or forfeiture imposed thereunder, may be commenced at any time within 2 years after the commission of the offence.
 
 ### 347 Orders in Council and Proclamations affecting title to be registered
-Every Order in Council or Proclamation made under the authority of this Act and affecting the title to land that is subject to the Land Transfer Act 1952 shall, on deposit with the District Land Registrar of a copy of the Gazette containing the Order in Council or Proclamation, or a copy of the Order in Council or Proclamation certified under the hand of the chief executive, be registered by the District Land Registrar without fee against the title to that land.
+Every Order in Council or Proclamation made under the authority of this Act and affecting the title to land that is subject to the Land Transfer Act 2017 shall, on deposit with the Registrar-General of Land of a copy of the Gazette containing the Order in Council or Proclamation, or a copy of the Order in Council or Proclamation certified under the hand of the chief executive, be registered by the Registrar-General of Land without fee against the title to that land.
 
 **Transitional and consequential provisions**
 
