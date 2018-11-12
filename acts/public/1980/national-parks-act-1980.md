@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2017-03-21_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -827,7 +827,7 @@ A court may sentence any individual who commits an offence against this Act to a
   (a) executed or purporting to be executed on behalf of the Crown; and
   (b) relating to any property held immediately before the commencement of this section by the former Authority or any former board; and
   (c) containing a recital that the property has become vested in the Crown by virtue of the provisions of this section—
-(6) Except as provided in subsections (3) and (5), nothing in this section shall derogate from the provisions of the Land Transfer Act 1952.
+(6) Except as provided in subsections (3) and (5), nothing in this section shall derogate from the provisions of the Land Transfer Act 2017.
 
 ### 74 Director-General may execute documents on behalf of the Crown
 All documents that require to be executed for the purpose of this Act by or on behalf of Her Majesty or by or on behalf of the Minister may, unless otherwise provided by this Act, be executed by the Director-General, and if so executed shall be as valid and effectual as if executed by or on behalf of Her Majesty or by or on behalf of the Minister, as the case may be.
@@ -835,8 +835,8 @@ All documents that require to be executed for the purpose of this Act by or on b
 ### 75 Director-General may act in proceedings on behalf of the Crown
 All actions and proceedings by or on behalf of the Crown in connection with any breach of contract or any trespass or any damage accruing by reason of trespass or for the recovery of any rent, purchase money, or other money in respect of any national park or in respect of any damages or wrongs suffered by the Crown in respect of any national park may be commenced, prosecuted, and carried on by the Director-General on behalf of the Crown, and the Director-General may be plaintiff or defendant, as the case may require, in any such action or proceeding.
 
-### 76 Certificates of title in respect of national parks
-(1) The Registrar for the Land Registration District in which is situated any land forming part of any national park shall, on completion of such surveys (if any) as may be necessary, and on being requested in writing to do so by the Director-General, issue a certificate or certificates of title under the Land Transfer Act 1952 in the name of Her Majesty in respect of any such land.
+### 76 Records of title in respect of national parks
+(1) The Registrar-General of Land must, on completion of such surveys (if any) as may be necessary, and on being requested in writing to do so by the Director-General, issue a record or records of title under the Land Transfer Act 2017 in the name of Her Majesty in respect of any such land.
 (2) Subsection (1) shall not oblige any person to register any lease or licence granted under this Act.
 
 ### 77 Approval under this Act not to authorise actions in contravention of other Acts
