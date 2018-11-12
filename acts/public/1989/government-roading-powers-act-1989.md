@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -297,7 +297,6 @@ This Act shall bind the Crown.
 (1) In this Part,—
   - **Chief Surveyor** means the Chief Surveyor appointed for the land district in which is situated any land to be dealt with under this Act; and includes the Chief Surveyor's deputy
   - **Crown land** means all land included within that term in the Land Act 1948, except lands held or occupied by any person under the Crown on deferred payment, occupation with right of purchase, perpetual lease, lease in perpetuity, renewable lease, or under any other kind of lease or licence, or for any other estate or interest
-  - **District Land Registrar** means the District Land Registrar of the District within which any land to be dealt with or affected is situated; and includes the Registrar of Deeds of that district
   - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
   - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
   - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose
@@ -618,7 +617,7 @@ Every bylaw in force in respect of any State highway on the commencement of this
   (b) if any other Māori claims settlement Act requires consultation about the request, in accordance with that Act:
   (c) in any other case, every iwi or hapū that, in the opinion of the Agency, will or may be affected by the request.
 (3A) The Agency must be satisfied after such consultation that the request should be made.
-(4) The Minister shall cause a copy of every Order in Council made under subsection (1)﻿(b), and of every plan referred to in it, to be deposited in the office of the District Land Registrar; and on receipt of it the District Land Registrar shall note the Order in Council upon the appropriate folio of the proper register.
+(4) The Minister must cause a copy of every Order in Council made under subsection (1)﻿(b), and of every plan referred to in it, to be deposited in the office of the Registrar-General of Land; and on receipt of it the Registrar-General of Land must record the Order in Council against the relevant record of title.
 (5) Where any land affected by any Order in Council made under subsection (1)﻿(b) is Maori land, the Minister shall cause a copy of that order to be deposited in the office of the Registrar of the Maori Land Court who shall record it in the records of the court.
 (6) Every motorway declared as such by the Governor-General under section 138 of the Public Works Act 1981 and having that status under that Act immediately before the commencement of this Act is hereby deemed to have been declared to be a motorway under this Act.
 
@@ -793,15 +792,11 @@ Subject to the provisions of this Part, the provisions of this Act and of every 
     (iii) cancel the right to use any crossing place, whether authorised under section 90 or under this section or located by a specification under subparagraph (ii), if the parcel of land has reasonably practicable legal access to some other road or has another authorised crossing place:
     (iv) cancel or vary all or any of the conditions imposed under this section, or impose further conditions, or vary the location of any authorised crossing place:
   (b) construct any road or service lane that it may be expedient to construct to give access, whether additional or not, to any land adjoining or near the limited access road.
-(2) Any notice given by the Agency under this section may be registered by the Agency under the Land Transfer Act 1952 against every certificate of title, provisional register, or other instrument of title registered or lodged in the District Land Registrar's office that is affected by the notice by lodging with the District Land Registrar 2 copies of the notice.
-(3) Each copy of any notice given under this section shall identify the land to which it relates, including the certificate of title reference for the land affected by the notice.
-(4) On receipt of 2 copies of any notice issued under this section and the prescribed fee (if any), the District Land Registrar shall, if everything is in order,—
-  (a) sign and seal on both copies a statement of the time and date of receipt; and
-  (b) record and file one of the copies in his or her office, and endorse on both copies the record reference; and
-  (c) enter on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office that is affected by the notice, the fact of the notice; and
-  (d) return the remaining copy to the Agency.
-(5) The entry by the District Land Registrar on a certificate of title, provisional register, or other instrument of title registered or lodged in his or her office of the particulars of a notice is evidence of the existence of the notice but does not create any estate or interest under the Land Transfer Act 1952.
-(6) Any notice entered by the District Land Registrar under subsection (4)﻿(c) may be cancelled or varied upon production by the Agency of a notice of cancellation or notice of variation.
+(2) Any notice given by the Agency under this section may be registered by the Agency under the Land Transfer Act 2017 against every record of title affected by the notice by lodging the notice with the Registrar-General of Land.
+(3) Each copy of any notice given under this section shall identify the land to which it relates, including the record of title reference for the land affected by the notice.
+(4) On receipt of any notice issued under this section and the prescribed fee (if any), the Registrar-General of Land must, if everything is in order, note the notice on every relevant record of title.
+(5) The notation by the Registrar-General of Land on a record of title of the particulars of a notice is evidence of the existence of the notice but does not create any estate or interest under the Land Transfer Act 2017.
+(6) Any notice recorded by the Registrar-General of Land under subsection (4) may be cancelled or varied upon production by the Agency of a notice of cancellation or notice of variation.
 
 ### 92 Restricting movement to or from limited access road
 Without restricting any provision of any other Act, it is hereby declared that a person shall not drive or move any vehicle or animal, or permit any vehicle or animal to be driven or moved, on to or from any limited access road, except—
@@ -810,7 +805,7 @@ Without restricting any provision of any other Act, it is hereby declared that a
   (c) at a crossing place authorised and specified by the Agency and subject to such conditions as are for the time being imposed by the Agency in accordance with section 91.
 
 ### 93 Limited access road not a road for certain purposes
-(1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the Registrar-General of Lands by the Agency.
+(1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the Registrar-General of Land by the Agency.
 (2) Any person aggrieved at—may object in writing to the Environment Court within 30 days after being notified of such refusal or conditions.
   (a) the refusal of the Agency to issue a notice under subsection (1); or
   (b) any condition subject to which any such notice is issued—
@@ -825,18 +820,18 @@ The following provisions shall apply in respect of the declaration under section
     (iv) the boundaries of all other types (if any) of legal access (whether rights of way, roadlines, private roads, or any other types whatever) connecting the road or part to any other parcel of land:
     (v) the title references of every parcel of land to which subparagraph (iii) or subparagraph (iv) applies:
   (b) every such declaration shall indicate where the plan is held and may be inspected:
-  (c) the Agency shall cause to be forwarded to the District Land Registrar a copy of the declaration as gazetted, together with a certificate signed by a duly authorised officer of the Agency, setting out by sufficient descriptions and title references every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the District Land Registrar shall record it against the titles to all the parcels of land described in it:
+  (c) the Agency shall cause to be forwarded to the Registrar-General of Land a copy of the declaration as gazetted, together with a certificate signed by a duly authorised officer of the Agency, setting out by sufficient descriptions and title references every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the Registrar-General of Land shall record it against the titles to all the parcels of land described in it:
   (d) where any land affected by the declaration is Maori land the Agency shall cause to be deposited in the office of the Registrar of the Maori Land Court a copy of the declaration as gazetted, together with a certificate in the form and containing the details specified in paragraph (c), and the Registrar shall record the declaration and the certificate in the records of the court:
   (e) the Agency shall cause a copy of the declaration and plan to be sent to every territorial authority in whose district the limited access road or part is situated:
   (f) the Agency shall cause a copy of the declaration as published in the Gazette to be served on the owners and occupiers of all land which is affected by the declaration, so far as they can be ascertained.
 
-### 95 Certificate of land affected to be forwarded to District Land Registrar
-(1) Where any land is purchased, set apart, or otherwise acquired for, or declared to be, a limited access road under section 88(2), there shall be forwarded to the District Land Registrar a certificate by a duly authorised officer of the Agency that the land referred to in it by sufficient descriptions and title references comprises every parcel of land that is affected by that limited access road, either by reason of—and the District Land Registrar shall record the certificate against the titles so specified.
+### 95 Certificate of land affected to be forwarded to Registrar-General of Land
+(1) Where any land is purchased, set apart, or otherwise acquired for, or declared to be, a limited access road under section 88(2), there shall be forwarded to the Registrar-General of Land a certificate by a duly authorised officer of the Agency that the land referred to in it by sufficient descriptions and title references comprises every parcel of land that is affected by that limited access road, either by reason of—and the Registrar-General of Land shall record the certificate against the titles so specified.
   (a) the parcel of land adjoining the limited access road; or
   (b) the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road—
-(2) Where any land to which subsection (1) applies is Maori land then the provisions of that subsection shall apply, in addition, as if the District Land Registrar were the Registrar of the Maori Land Court, who shall record the certificate in the records of that court.
+(2) Where any land to which subsection (1) applies is Maori land then the provisions of that subsection shall apply, in addition, as if the Registrar-General of Land were the Registrar of the Maori Land Court, who shall record the certificate in the records of that court.
 (3) Where the Agency revokes the status of limited access road from any State highway or part, it shall cause a copy of the Gazette notice, together with a certificate signed by a duly authorised officer of the Agency setting out by sufficient descriptions and title references all parcels of land affected by the revocation, to be forwarded to—
-  (a) the District Land Registrar, who shall record the certificate against the titles to all the parcels of land so described; and
+  (a) the Registrar-General of Land, who shall record the certificate against the titles to all the parcels of land so described; and
   (b) the Registrar of the Maori Land Court, if any of the land affected is Maori land, who shall record the certificate in the records of the court; and
   (c) every territorial authority in whose district the State highway or part is situated; and
   (d) the owner and occupier of each parcel of land so described.
