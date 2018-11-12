@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -1913,7 +1913,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
     (a) a deferred payment disposition; or
     (b) a lease, where the occupier is also the lessor as owner or one of the lessors as one of the owners; or
     (ba) a licence to occupy, where the premises are a residential unit in a retirement village (as those terms are defined in the Retirement Villages Act 2003); or
-    (c) a licence to occupy under Part 7A of the Land Transfer Act 1952; or
+    (c) a licence to occupy under subpart 6 of Part 3 of the Land Transfer Act 2017; or
     (d) a deferred payment licence under the Land Act 1948—
   - **premises** , in relation to any person, means the place that he or she occupies as a home; and includes, in relation to a person who is a boarder or lodger, any room or other accommodation occupied as a home by that person
   - **service costs** , in relation to any premises,—
