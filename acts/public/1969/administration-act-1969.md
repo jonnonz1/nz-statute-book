@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
@@ -179,7 +179,7 @@ Every administration of a will or with a will annexed shall be evidence of that 
 ### 18 Certificates of administration
 (1) Subject to the provisions of subsection (2), at any time after the grant of the relevant administration the Registrar may, on the request of the administrator, issue under his or her hand and the seal of the court such number of certificates of administration, in the form set out in Schedule 1, as may be required.
 (2)
-(3) Every such certificate shall, in the absence of proof to the contrary, be sufficient evidence of the death and the date of death of the testator or intestate and of the grant of administration to the administrator for all purposes including registering the administrator as proprietor of any estate or interest in any land under the Land Transfer Act 1952, or of any mining privilege under the Mining Act 1926, or of any securities issued by or property in any bank or company or body or association. No District Land Registrar or Mining Registrar or bank or company or body or association to which any such certificate is produced shall be concerned to inquire concerning the trusts on which the administrator holds any such land or mining privilege or securities or property, or (except where a caveat has been lodged under the authority of the Land Transfer Act 1952) as to his or her authority to transfer or deal with the same.
+(3) Every such certificate shall, in the absence of proof to the contrary, be sufficient evidence of the death and the date of death of the testator or intestate and of the grant of administration to the administrator for all purposes including registering the administrator as proprietor of any estate or interest in any land under the Land Transfer Act 2017, or of any mining privilege under the Mining Act 1926, or of any securities issued by or property in any bank or company or body or association. The Registrar-General of Land, the Mining Registrar, or any bank, company, body, or association to which any such certificate is produced is not concerned to inquire concerning the trusts on which the administrator holds any such land or mining privilege or securities or property, or (except where a caveat has been lodged under the authority of the Land Transfer Act 2017) as to his or her authority to transfer or deal with the same.
 (4) The fee payable to the Registrar in respect of each such certificate shall be $30 or such other amount as may from time to time be prescribed by the Governor-General by Order in Council.
 
 ### 19 Proceedings where executor neglects to prove will
