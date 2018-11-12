@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -93,7 +93,6 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
     (a) all the land and associated fixtures that are part of the unit title development but are not contained in a principal unit, accessory unit, or future development unit; and
     (b) in the case of a subsidiary unit title development, means that part of the principal unit subdivided to create the subsidiary unit title development that is not contained in a principal unit, accessory unit, or future development unit
   - **complete unit plan** means a plan described in section 25(3)
-  - **computer register** has the meaning given to it by section 4 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; and includes a certificate of title
   - **control period** has the meaning given to it in section 6
   - **covenant** means a positive covenant or a restrictive covenant within the meaning of section 4 of the Property Law Act 2007
   - **department** , in relation to a Part or subpart of this Act, means the department of State that, with the authority of the Prime Minister, is responsible for the administration of that Part or subpart
@@ -106,14 +105,14 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
     (a) means a unit title development created by a subdivision of land where at least 1 of its principal units is subdivided to create a subsidiary unit title development; and
     (b) in relation to a particular subsidiary unit title development, means the head unit title development of the layered unit title development of which the subsidiary unit title development is a part
   - **infrastructure** includes pipes, wires, ducts, conduits, gutters, watercourses, cables, channels, flues, conducting, or transmission equipment necessary for the provision of water, sewerage, drainage, stormwater removal, gas, electricity, oil, shelter, protection from fire, security, rubbish collection, air, telephone connection, Internet access, radio reception, television reception, or any other services or utilities to or from a unit or to or from the common property
-  - **land** means land within the meaning of the Land Transfer Act 1952
+  - **land** means land within the meaning of the Land Transfer Act 2017
   - **layered unit title development** has the meaning given to it in section 19(1)
   - **long-term financial and maintenance planning regime** , in relation to a body corporate, means the body corporate’s funds and the body corporate’s long-term maintenance plan
   - **long-term maintenance plan** , in relation to a body corporate, means the body corporate’s plan as required to be established and maintained by section 116
   - **ordinary resolution** means a resolution passed in accordance with section 97(4)
   - **original owner** means the person who is entitled to exercise 100% of the votes of the body corporate for a unit title development when the plan for the unit title development is deposited
   - **owner** , in relation to any unit,—
-    (a) means the person or persons for the time being registered as proprietor of the stratum estate in the unit under the Land Transfer Act 1952; and
+    (a) means the person or persons for the time being registered as owner of the stratum estate in the unit under the Land Transfer Act 2017; and
     (b) in sections 105, 124, 126, 127, and 163, includes a person in actual occupation of a unit under a binding and unconditional agreement for sale and purchase
   - **ownership interest** , in relation to a particular unit, means the ownership interest assigned to that unit (see, for example, section 38)
   - **parent body corporate** means the body corporate of a parent unit title development
@@ -126,7 +125,7 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
   - **proposed unit development plan** means the plan described in section 25(1)
   - **redevelopment** has the meaning given to it in section 8
   - **registered valuer** means a registered valuer within the meaning of the Valuers Act 1948
-  - **Registrar** , in relation to any land, means the Registrar-General of Land as defined in the Land Transfer Act 1952
+  - **Registrar** , in relation to any land, means the Registrar-General of Land as defined in the Land Transfer Act 2017
   - **regulations** means regulations in force under this Act
   - **seller** has the meaning given to it in section 144
   - **service contract** means a contract between a body corporate and another person (the ) engaging the service contractor (other than as an employee of the body corporate) for a term of at least 1 year to supply services to the body corporate or to the unit owners
@@ -139,9 +138,9 @@ The purpose of this Act is to provide a legal framework for the ownership and ma
   - **subsidiary body corporate** means the body corporate of a subsidiary unit title development
   - **subsidiary unit title development** means a unit title development that is created by a subdivision of a principal unit in another unit title development
   - **supplementary record sheet** , in relation to any unit plan and body corporate, means the supplementary record sheet created by the Registrar under section 47 in relation to that unit plan and body corporate
-  - **to register** means to register under the Land Transfer Act 1952
+  - **to register** means to register under the Land Transfer Act 2017
   - **unit** , in relation to any land, means a part of the land consisting of a space of any shape situated below, on, or above the surface of the land, or partly in one such situation and partly in another or others, all the dimensions of which are limited, and that is designed for separate ownership
-  - **unit plan** means a plan that has been or is intended to be deposited under the Land Transfer Act 1952 in accordance with this Act, and includes—
+  - **unit plan** means a plan that has been or is intended to be deposited under the Land Transfer Act 2017 in accordance with this Act, and includes—
     (a) a proposed unit development plan:
     (b) a stage unit plan:
     (c) a complete unit plan:
@@ -249,19 +248,19 @@ Nothing in this Act restricts the Land Act 1948 or Te Ture Whenua Maori Act 1993
 ### Subpart 1 — Subdivision of land to create unit title development
 
 ### 16 Subdivision of land to create unit title development
-(1) The registered proprietor of a parcel of land of any of the following kinds may subdivide that land to create a unit title development:
-  (a) an estate in fee simple in a parcel of land under the Land Transfer Act 1952:
+(1) The registered owner of a parcel of land of any of the following kinds may subdivide that land to create a unit title development:
+  (a) an estate in fee simple in a parcel of land under the Land Transfer Act 2017:
   (b) an estate as lessee under a memorandum of lease registered under that Act in respect of a parcel of land:
   (c) an estate as lessee or licensee under a lease or licence from the Crown registered under that Act in respect of a parcel of land.
 (2) A parcel of land referred to in subsection (1) may be subdivided into—
   (a) 2 or more principal units; and
-  (b) the number of accessory units (if any) as the registered proprietor may wish; and
+  (b) the number of accessory units (if any) as the registered owner may wish; and
   (c) so much of the land as is not comprised in any unit (in this Act referred to as common property).
 (3) Nothing in this section permits the subdivision in accordance with this Act of a parcel of land that is subleasehold land.
 
 ### 17 Deposit of plan effects subdivision of land
-(1) The subdivision of land to provide for units is effected by the deposit under the Land Transfer Act 1952 of a plan specifying the units in their relation to a building or buildings (if any) already erected on the land.
-(2) An application to deposit the plan must be made in the prescribed form (if any) by the registered proprietor described in section 16(1).
+(1) The subdivision of land to provide for units is effected by the deposit under the Land Transfer Act 2017 of a plan specifying the units in their relation to a building or buildings (if any) already erected on the land.
+(2) An application to deposit the plan must be made in the prescribed form (if any) by the registered owner described in section 16(1).
 
 **Stratum estate created when unit plan deposited**
 
@@ -282,7 +281,7 @@ The deposit of a unit plan creates in each principal unit and each accessory uni
 
 ### 20 Subdivision of principal unit into subsidiary unit title development
 (1) The owner of a principal unit may subdivide the principal unit in accordance with this Act to create a subsidiary unit title development.
-(2) If a principal unit referred to in subsection (1) has an accessory unit and both units are included on the same computer register, both the principal unit and the whole accessory unit must be subdivided in accordance with this Act to create a single subsidiary unit title development.
+(2) If a principal unit referred to in subsection (1) has an accessory unit and both units are included on the same record of title, both the principal unit and the whole accessory unit must be subdivided in accordance with this Act to create a single subsidiary unit title development.
 (3) A principal unit referred to in subsection (1) may be subdivided into—
   (a) 2 or more principal units; and
   (b) the number of accessory units (if any) as the owner of the principal unit to be subdivided may wish; and
@@ -291,7 +290,7 @@ The deposit of a unit plan creates in each principal unit and each accessory uni
 (5) Sections 212 to 216 (which provide for an objection process) apply to a resolution under this section.
 
 ### 21 Deposit of plan effects subdivision of principal unit
-(1) The subdivision of a principal unit to create a subsidiary unit title development is effected by the deposit under the Land Transfer Act 1952 of a unit plan—
+(1) The subdivision of a principal unit to create a subsidiary unit title development is effected by the deposit under the Land Transfer Act 2017 of a unit plan—
   (a) identifying the principal unit to be subdivided; and
   (b) specifying the principal units, accessory units (if any), and common property making up the subsidiary unit title development in their relation to the building or buildings (if any) already erected on the principal unit to be subdivided; and
   (c) showing the relationship of the proposed subsidiary unit title development to each unit title development in a layered unit title development of which it would, after the subdivision, be a part.
@@ -318,11 +317,11 @@ The deposit of a unit plan creates in each principal unit and each accessory uni
 
 ### 24 Deposit of plans in stages to create unit title development
 (1) If land or a principal unit is to be subdivided in stages, this section and section 25 apply instead of sections 17(1) and 21(1)﻿(b).
-(2) Subdivision in stages is effected by the successive deposit under the Land Transfer Act 1952 of—
+(2) Subdivision in stages is effected by the successive deposit under the Land Transfer Act 2017 of—
   (a) a proposed unit development plan and a first stage unit plan together; and
   (b) 1 or more further stage unit plans (if any); and
   (c) a complete unit plan.
-(3) In the case of subdivision of land, the applications to deposit the plans must be made by the registered proprietor described in section 16(1) in the prescribed form (if any).
+(3) In the case of subdivision of land, the applications to deposit the plans must be made by the registered owner described in section 16(1) in the prescribed form (if any).
 (4) In the case of the subdivision of a principal unit to create a subsidiary unit title development, the applications to deposit the plans must be made by the owner of the principal unit to be subdivided in the prescribed form (if any).
 
 ### 25 Requirements for plans deposited in stages
@@ -391,9 +390,9 @@ For the purposes of section 35(b) and (c), it is sufficient if every building an
 
 ### 32 Restrictions on deposit of unit plans
 (1) A unit plan for the subdivision of land must not be deposited—
-  (a) while the computer register to any land to which it relates is limited in any manner referred to in Part 12 of the Land Transfer Act 1952:
-  (b) while the land to which it relates is held in more than 1 computer register created under the Land Transfer Act 1952:
-  (c) unless the land to which it relates is the whole of the land in a computer register created under the Land Transfer Act 1952:
+  (a) while the record of title to any land to which it relates is limited in any manner referred to in subpart 4 of Part 4 of the Land Transfer Act 2017, or is a qualified record of title under that Act:
+  (b) while the land to which it relates is held in more than 1 record of title created under the Land Transfer Act 2017:
+  (c) unless the land to which it relates is the whole of the land in a record of title created under the Land Transfer Act 2017:
   (d) unless the grantor of the lease or licence, if the land is held under a lease or licence, the registered owner of any mortgage, encumbrance, or charge affecting the land or any part of it, and every caveator whose caveat against the land was lodged with the Registrar before deposit of the plan, have consented in writing to its being deposited.
 (2) A unit plan for the subdivision of land or for the subdivision of a principal unit must not be deposited—
   (a) unless a certificate in the prescribed form has been given in writing by an authorised officer of the territorial authority in whose district the land is situated to the effect that—
@@ -406,7 +405,7 @@ For the purposes of section 35(b) and (c), it is sufficient if every building an
   (b)
 
 ### 33 Further provisions relating to restrictions on deposit of unit plans
-(1) Section 32(1)﻿(b) and (c) do not prevent the deposit of a plan in any case where 1 computer register may properly be created for the land to which the plan relates.
+(1) Section 32(1)﻿(b) and (c) do not prevent the deposit of a plan in any case where 1 record of title may properly be created for the land to which the plan relates.
 (2) A consent for the purposes of section 32(1)﻿(d) or (3)﻿(a) may be given by an agent duly authorised in writing by the grantor, owner, or caveator.
 (3) Approval in accordance with section 32(2)﻿(c) has effect to make the plan the property of the Crown.
 
@@ -496,31 +495,31 @@ No territorial authority, authorised officer of a territorial authority, member 
 (1) The body corporate must notify the Registrar in the prescribed form (if any) of any reassessment of the ownership interest or the utility interest under section 41.
 (2) The Registrar must record the new ownership interest or utility interest, or both, assigned to each unit.
 
-### Subpart 6 — Computer registers, etc
+### Subpart 6 — Records of title, etc
 
-### 43 Creation of computer registers where land subdivided to create unit title development
+### 43 Creation of records of title where land subdivided to create unit title development
 (1) On the deposit of a unit plan for the subdivision of land, the Registrar must—
-  (a) create a computer register in the name of the registered proprietor (and not the body corporate) of the base land, for the stratum estate in all of the units shown on the unit plan; and
-  (b) cancel the existing computer register for the base land; and
-  (c) in a case where the unit plan relates to an estate as lessee or licensee under a registered lease or licence of any land, note an appropriate memorial on the computer register for the leasehold or licence estate.
-(2) Despite subsection (1)﻿(a), the Registrar must, at the request of the registered proprietor, create a separate computer register for any principal unit or future development unit.
-(3) A computer register created under subsection (2) may also include 1 or more accessory units.
+  (a) create a record of title in the name of the registered owner (and not the body corporate) of the base land, for the stratum estate in all of the units shown on the unit plan; and
+  (b) cancel the existing record of title for the base land; and
+  (c) in a case where the unit plan relates to an estate as lessee or licensee under a registered lease or licence of any land, note an appropriate memorial on the record of title for the leasehold or licence estate.
+(2) Despite subsection (1)﻿(a), the Registrar must, at the request of the registered owner, create a separate record of title for any principal unit or future development unit.
+(3) A record of title created under subsection (2) may also include 1 or more accessory units.
 
-### 44 Creation of computer register where principal unit subdivided to create subsidiary unit title development
+### 44 Creation of record of title where principal unit subdivided to create subsidiary unit title development
 (1) On the deposit of a unit plan for the subdivision of a principal unit, the Registrar must—
-  (a) create a computer register in the name of the owner of the principal unit that has been subdivided for the stratum estate in all of the units in the subsidiary unit title development; and
-  (b) cancel the existing computer register for the principal unit.
-(2) Despite subsection (1)﻿(a), the Registrar must, at the request of the owner of the principal unit that has been subdivided, create a separate computer register for any principal unit in the subsidiary unit title development.
-(3) A computer register created under subsection (2) may include 1 or more accessory units.
+  (a) create a record of title in the name of the owner of the principal unit that has been subdivided for the stratum estate in all of the units in the subsidiary unit title development; and
+  (b) cancel the existing record of title for the principal unit.
+(2) Despite subsection (1)﻿(a), the Registrar must, at the request of the owner of the principal unit that has been subdivided, create a separate record of title for any principal unit in the subsidiary unit title development.
+(3) A record of title created under subsection (2) may include 1 or more accessory units.
 
-### 45 No computer registers for base land, subdivided principal unit, or component parts of stratum estate
-Despite section 95 of the Land Transfer Act 1952, no separate computer register may be created under that Act for—
+### 45 No records of title for base land, subdivided principal unit, or component parts of stratum estate
+Despite section 76 of the Land Transfer Act 2017, no separate record of title may be created under that Act for—
   (a) the fee simple estate or, as the case may be, the interest as lessee or licensee in the base land or any part of the base land; or
   (b) the stratum estate in a principal unit that has been subdivided to create a subsidiary unit title development; or
   (c) any component part of a stratum estate as described in sections 18 and 22(2).
 
-### 46 No computer register to be created for common property
-No computer register may be created in respect of common property.
+### 46 No record of title to be created for common property
+No record of title may be created in respect of common property.
 
 ### 47 Supplementary record sheets
 On the deposit of a unit plan under subpart 1 or 2, or section 24(2)﻿(a), the Registrar must set up a supplementary record sheet on which the Registrar must note—
@@ -536,9 +535,9 @@ On the deposit of a unit plan for the subdivision of a principal unit under subp
   (b)
 
 ### 49 New unit plans
-In any case where, under any of the provisions of section 30, 57, 59, or 68, a new unit plan is deposited under the Land Transfer Act 1952,—
+In any case where, under any of the provisions of section 30, 57, 59, or 68, a new unit plan is deposited under the Land Transfer Act 2017,—
   (a) the plan deposited must be noted so as to show clearly that it is in substitution for the earlier plan:
-  (b) where any unit is described in any computer register or in any other instrument in respect of any land, the reference must be read as a reference to the plan for the time being deposited in respect of that land.
+  (b) where any unit is described in any record of title or in any other instrument in respect of any land, the reference must be read as a reference to the plan for the time being deposited in respect of that land.
 
 ### Subpart 7 — General provisions relating to dealings with unit title developments
 
@@ -556,14 +555,14 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 
 ### 53 Independent dealings with accessory units restricted
 (1) Except where it is transferred to the owner of a principal unit shown on the same unit plan, no accessory unit or any interest in it may be sold, leased, mortgaged, or otherwise disposed of or dealt with except as part of a sale, lease, mortgage, disposition, or other dealing that includes a principal unit or a corresponding interest in a principal unit.
-(2) No computer register relating to an accessory unit may be created except as part of a computer register relating to a principal unit.
-(3) No principal unit that is for the time being included in the same computer register as an accessory unit (not being a computer register created under section 200(1)﻿(b)) and no interest in that principal unit may be sold, leased, mortgaged, or otherwise disposed of or dealt with except—
+(2) No record of title relating to an accessory unit may be created except as part of a record of title relating to a principal unit.
+(3) No principal unit that is for the time being included in the same record of title as an accessory unit (not being a record of title created under section 200(1)﻿(b)) and no interest in that principal unit may be sold, leased, mortgaged, or otherwise disposed of or dealt with except—
   (a) as part of a sale, lease, mortgage, disposition, or dealing that includes the accessory unit or a corresponding interest in the accessory unit, as the case may be; or
   (b) if there is a concurrent sale of the accessory unit in accordance with subsection (1).
-(4) If an accessory unit is being transferred independently of a principal unit to a person who is the owner of a principal unit shown on the same unit plan, the instrument of transfer in respect of the accessory unit must contain a request to the Registrar for the accessory unit to be included in the computer register for the principal unit.
+(4) If an accessory unit is being transferred independently of a principal unit to a person who is the owner of a principal unit shown on the same unit plan, the instrument of transfer in respect of the accessory unit must contain a request to the Registrar for the accessory unit to be included in the record of title for the principal unit.
 (5) On the registration of the instrument of transfer referred to in subsection (4), the accessory unit becomes subject to all mortgages and charges and other registered interests or caveats or notices of claim to which the principal unit is subject.
-(6) If an accessory unit is for the time being included in the same computer register as a principal unit, the accessory unit must not be transferred apart from the principal unit while it remains subject to any mortgage, charge, other registered interest or caveat or notice of claim entered on the register.
-(7) Despite anything to the contrary in the Land Transfer Act 1952, any purported sale, lease, mortgage, disposition, or dealing with any unit in contravention of subsection (1) or (3) is void.
+(6) If an accessory unit is for the time being included in the same record of title as a principal unit, the accessory unit must not be transferred apart from the principal unit while it remains subject to any mortgage, charge, other registered interest or caveat or notice of claim entered on the register.
+(7) Despite anything to the contrary in the Land Transfer Act 2017, any purported sale, lease, mortgage, disposition, or dealing with any unit in contravention of subsection (1) or (3) is void.
 (8) Nothing in subsection (7) affects the devolution of any unit on the death of the owner of the unit to the administrator of that owner.
 
 ### Subpart 8 — Ownership of, and dealings with, common property
@@ -576,8 +575,8 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 ### 55 Access lots
 (1) This section applies if—
   (a) the base land to which a unit plan relates has an access lot associated with it; and
-  (b) a share of the access lot is owned by the person who is, immediately before the unit plan is deposited, the registered proprietor of the base land.
-(2) On the deposit of the unit plan, the access lot, or share of the access lot, owned by the registered proprietor of the base land becomes part of the common property.
+  (b) a share of the access lot is owned by the person who is, immediately before the unit plan is deposited, the registered owner of the base land.
+(2) On the deposit of the unit plan, the access lot, or share of the access lot, owned by the registered owner of the base land becomes part of the common property.
 
 ### 56 Sale, lease, or licence of common property
 (1) The body corporate may, after a special resolution to do so, grant a lease or licence over the whole or any part of the common property.
@@ -595,14 +594,14 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 
 ### 57 Registration of transfers of common property
 (1) The instrument of transfer of the whole or any part or parts of the common property must, when lodged for registration, be accompanied by a new unit plan in substitution for the existing unit plan.
-(2) The requirements of subsection (1) are in addition to any plan that the Registrar may require to be deposited under section 167 of the Land Transfer Act 1952.
+(2) The requirements of subsection (1) are in addition to any plan that the Registrar may require to be deposited under section 224 of the Land Transfer Act 2017.
 (3) If a unit plan referred to in this section includes a stage unit plan,—
   (a) the reference to the unit plan includes both the stage unit plan and proposed unit development plan; and
   (b) both plans must be prepared, approved, and deposited in accordance with this section.
 (4) The new unit plan must show the effect of the transfer to the satisfaction of the Registrar.
 (5) The Registrar must register any transfer to which subsection (1) refers by—
   (a) noting a memorial of the transfer on the supplementary record sheet and any other appropriate record; and
-  (b) creating in the name of the transferee a computer register for the land transferred free from any incidental rights existing over the land under section 73.
+  (b) creating in the name of the transferee a record of title for the land transferred free from any incidental rights existing over the land under section 73.
 (6) Nothing in this section restricts section 47.
 
 ### 58 Additions to common property
@@ -624,7 +623,7 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 (3) The new unit plan must show the effect of the transfer to the satisfaction of the Registrar.
 (4) The registration of a transfer under this section has the effect of including the transferred land as part of the common property.
 (5) The Registrar must register any transfer to which subsection (1) refers by—
-  (a) entering a memorial of the transfer on the relevant computer register; and
+  (a) entering a memorial of the transfer on the relevant record of title; and
   (b) noting a memorial of the transfer on the supplementary record sheet.
 (6) The beneficial interest (under section 54(2)) in the land included as part of the common property pursuant to the transfer is deemed to be held by each unit owner—
   (a) subject to the same terms, conditions, liabilities, and interests as those on or subject to which the owner held the unit immediately before the registration of the transfer; and
@@ -637,12 +636,12 @@ A transfer, lease, mortgage, or settlement of a stratum estate in a unit has the
 
 ### 60 Existing easements and covenants affecting base land
 (1) The deposit of a unit plan has no effect on any easement or covenant to which the base land is subject or on any easement or covenant that is appurtenant to the base land.
-(2) Despite section 67 of the Land Transfer Act 1952, the Registrar must require any easements and covenants referred to in subsection (1) to be recorded (by diagram, words, or otherwise) on the supplementary record sheet, and must not note them on any computer register created under section 43.
+(2) The Registrar must require any easements and covenants referred to in subsection (1) to be recorded (by diagram, words, or otherwise) on the supplementary record sheet, and must not note them on any record of title created under section 43.
 (3) If there is a layered unit title development on the base land, the supplementary record sheet referred to in subsection (2) is that for the head unit title development and any subsidiary unit title development affected by the easement or covenant.
 
 ### 61 Dealings with easements and covenants existing before deposit of unit plan
 (1) The body corporate of a standard unit title development or the body corporate of a head unit title development may, after a special resolution to do so, vary, surrender, or assign any easement or vary or revoke any covenant to which section 60 applies.
-(2) For the purpose of sections 90 to 90F of the Land Transfer Act 1952, if the body corporate enters into an instrument described in subsection (1), the body corporate must be treated as the registered proprietor of the base land.
+(2) For the purpose of sections 73, 108 to 112, and 116 of the Land Transfer Act 2017, if the body corporate enters into an instrument described in subsection (1), the body corporate must be treated as the registered owner of the base land.
 
 **Creation of new easements and covenants**
 
@@ -717,8 +716,8 @@ The amendment to the unit plan required by section 65 must—
     (ii) stating that the amendment to the unit plan does not affect the ownership interest of any unit the boundary of which is not being adjusted.
 (2) The certificate referred to in subsection (1)﻿(a) may be relied on by the Registrar as sufficient evidence of the matters set out in it.
 (3) On the deposit of the amendment to the unit plan and the registration of any transfers or other instruments, the Registrar must—
-  (a) cancel the existing computer registers for the units affected by the amended boundaries; and
-  (b) create separate computer registers in accordance with the amendment to the unit plan for the units affected by the amended boundaries; and
+  (a) cancel the existing records of title for the units affected by the amended boundaries; and
+  (b) create separate records of title in accordance with the amendment to the unit plan for the units affected by the amended boundaries; and
   (c) enter a reference to the amended unit plan on the supplementary record sheet.
 
 **Redevelopment requiring new unit plan**
@@ -755,13 +754,13 @@ The amendment to the unit plan required by section 65 must—
 
 ### 71 Deposit of new plan for redevelopment
 On the deposit of the new unit plan and the registration of any necessary transfers or other instruments, the Registrar must—
-  (a) cancel the existing computer registers to the units affected by the redevelopment; and
-  (b) create separate computer registers in accordance with the new unit plan for the units affected by the redevelopment.
+  (a) cancel the existing records of title to the units affected by the redevelopment; and
+  (b) create separate records of title in accordance with the new unit plan for the units affected by the redevelopment.
 
 ### Subpart 11 — Miscellaneous provisions relating to creation of, and dealings with, unit title developments
 
-### 72 Application of Land Transfer Act 1952 to stratum estates
-Except as otherwise provided in this Act and subject to any necessary modifications, the provisions of the Land Transfer Act 1952 apply to every stratum estate in freehold and stratum estate in leasehold or licence and to every dealing with any instrument affecting any such estate.
+### 72 Application of Land Transfer Act 2017 to stratum estates
+Except as otherwise provided in this Act and subject to any necessary modifications, the provisions of the Land Transfer Act 2017 apply to every stratum estate in freehold and stratum estate in leasehold or licence and to every dealing with any instrument affecting any such estate.
 
 ### 73 Incidental rights
 (1) The common property and each unit on a unit plan has appurtenant to it the following rights over the land to the extent necessary for the reasonable use and enjoyment of the common property or unit:
@@ -1480,7 +1479,7 @@ The body corporate must hold a general meeting within 3 months from the date on 
 (1) Subject to this Part, on the deposit of a unit plan to which this Part applies and until the cancellation of the plan, the body corporate—
   (a) is entitled to sue and be sued as if it were the lessee under the lease and had all rights, powers, and privileges belonging or appertaining to the lessee under the lease; and
   (b) becomes subject to and liable for the same requirements and liabilities as those to which it would have been subject and liable if named in the lease originally as lessee of the base land.
-(2) Despite subsection (1), the body corporate is not entitled to call for the creation of a computer register in respect of the leasehold estate.
+(2) Despite subsection (1), the body corporate is not entitled to call for the creation of a record of title in respect of the leasehold estate.
 (3) No cause of action in respect of any breach by the lessor of any covenant, agreement, or stipulation expressed or implied in the lease and on the part of the lessor to be performed or observed lies at the suit of an owner of any unit or the registered owner of any estate or interest in any unit.
 (4) Subject to section 164, no cause of action in respect of any breach by the owner of any unit or the registered owner of any estate or interest in any unit of any covenant, agreement, or stipulation expressed or implied in the lease and on the lessee’s part to be performed or observed lies at the suit of the lessor.
 
@@ -1549,7 +1548,7 @@ Except as provided in sections 30(5)﻿(b) and 68(3), the lessor’s consent is 
 (4) The person or persons intending to lodge a certificate under subsection (3) must give 14 days’ notice in writing to the body corporate before lodging the certificate.
 (5) On receiving a certificate of expiry, if the Registrar is satisfied that the term of the lease or any extended or renewed term has expired, he or she must—
   (a) cancel the unit plan; and
-  (b) cancel the computer register for each of the units; and
+  (b) cancel the record of title for each of the units; and
   (c) enter a memorial to the effect that the lease has expired.
 (6) If the body corporate has applied to the court for any relief under section 264 of the Property Law Act 2007, it may serve a copy of the application on the Registrar.
 (7) If the Registrar is served with a copy of an application under subsection (6), the Registrar may not take any action referred to in subsection (5) unless or until the Registrar is satisfied that the application for relief has been withdrawn or refused.
@@ -1589,10 +1588,10 @@ Except as provided in sections 30(5)﻿(b) and 68(3), the lessor’s consent is 
   (e) any registered interest, and any caveat or notice of claim existing on a computer register for the stratum estate in leasehold in a unit, continues over the whole or part of the stratum estate in freehold in the unit.
 (5) On the deposit of any declaration under subsection (2)﻿(b) or (3)﻿(c), the Registrar, if satisfied that the stratum estates in leasehold in all of the units shown on the plan have merged under the provisions of this section with the reversionary estate in the base land, must—
   (a) note on the supplementary record sheet a memorial of the merger; and
-  (b) enter on the existing computer register for the base land a memorial of the merger; and
-  (c) cancel the existing computer register in respect of the stratum estate in leasehold in each of the units and create a computer register in respect of the stratum estate in freehold in each of the units to the person entitled to it in accordance with subsection (4)﻿(a) or (b); and
-  (d) in the case of any registered interest, caveat, or notice of claim existing on a computer register for the stratum estate in leasehold in a unit immediately before cancellation, enter that registered interest, caveat, or notice of claim on the new computer register for the stratum estate in freehold for that unit; and
-  (e) cancel the existing computer register for the base land.
+  (b) enter on the existing record of title for the base land a memorial of the merger; and
+  (c) cancel the existing record of title in respect of the stratum estate in leasehold in each of the units and create a record of title in respect of the stratum estate in freehold in each of the units to the person entitled to it in accordance with subsection (4)﻿(a) or (b); and
+  (d) in the case of any registered interest, caveat, or notice of claim existing on a record of title for the stratum estate in leasehold in a unit immediately before cancellation, enter that registered interest, caveat, or notice of claim on the new record of title for the stratum estate in freehold for that unit; and
+  (e) cancel the existing record of title for the base land.
 (6) The merger has no effect on any easement or covenant to which the base land is subject or on any easement or covenant that is appurtenant to the base land.
 (7) Sections 60 and 61 apply to any easements and covenants referred to in subsection (6) (with all necessary modifications).
 
@@ -1719,7 +1718,7 @@ The cancellation of a unit plan is effected when the Registrar has entered the c
   (a) the following estates are merged and vested in the persons who were the owners of the units immediately before the cancellation in shares proportional to what was, at that time, their ownership interest:
     (i) the fee simple estate, or (as the case may be) the estate as lessee or licensee, that was held by the subsidiary body corporate in that part of the principal unit that immediately before the cancellation comprised common property; and
     (ii) the fee simple estate, or (as the case may be) the estate as lessee or licensee, in that part of the principal unit that immediately before the cancellation comprised units:
-  (b) except as provided in paragraph (c), an easement or covenant of a kind referred to in section 62 continues and must be registered against the computer register of the principal unit:
+  (b) except as provided in paragraph (c), an easement or covenant of a kind referred to in section 62 continues and must be registered against the record of title of the principal unit:
   (c) every easement or covenant over any unit and every easement or covenant appurtenant to a unit is cancelled.
 (3) This section is subject to section 182.
 
@@ -1745,8 +1744,8 @@ The cancellation of a unit plan is effected when the Registrar has entered the c
 (2) If 2 or more persons were the owners of any unit in a subsidiary unit title development, whether as joint tenants or tenants in common, the share in the principal unit that vests in them under section 181 or 182, as between themselves, vests in them—
   (a) as joint tenants, if the unit of which they were the owners immediately before the cancellation was then vested in them as joint tenants:
   (b) as tenants in common in shares corresponding to the shares in which the unit of which they were the owners was vested in them immediately before the cancellation, if that unit was then vested in them as tenants in common.
-(3) If subsection (1) applies, the Registrar must create a computer register for the land in accordance with section 180(2) or 182.
-(4) If subsection (2) applies, the Registrar must create a computer register for the principal unit in accordance with section 181 or 182.
+(3) If subsection (1) applies, the Registrar must create a record of title for the land in accordance with section 180(2) or 182.
+(4) If subsection (2) applies, the Registrar must create a record of title for the principal unit in accordance with section 181 or 182.
 
 ### 185 Body corporate dissolved when unit plan cancelled
 (1) On the cancellation of a unit plan, the body corporate is dissolved.
@@ -1822,15 +1821,15 @@ For the purposes of sections 177 to 189, an owner of a future development unit i
 ### 191 Application and interpretation of this subpart
 (1) This Act applies, subject to this subpart, where an application to deposit a unit plan is contemplated in respect of an estate in land if—
   (a) that estate is held by—
-    (i) a registered proprietor that is a flat or office owning company within the meaning of Part 7A of the Land Transfer Act 1952; or
-    (ii) registered proprietors each of whom holds that estate with the other registered proprietors as tenant in common and also as the proprietor of a leasehold interest in part of the land under a lease made between all the registered proprietors at the date of the lease as lessors and the registered proprietor (or a person through whom the registered proprietor claims) as lessee; and
+    (i) a registered owner that is a flat or office owning company to which subpart 6 of Part 3 of the Land Transfer Act 2017 applies; or
+    (ii) registered owners each of whom holds that estate with the other registered owners as tenant in common and also as the owner of a leasehold interest in part of the land under a lease made between all the registered owners at the date of the lease as lessors and the registered owner (or a person through whom the registered owner claims) as lessee; and
   (b) the boundaries of the principal units (as they would be according to the unit plan if it were deposited) are exactly the same as the boundaries under—
     (i) the licences granted in connection with the ownership by the flat or office owning company; or
     (ii) the lease described in paragraph (a)﻿(ii).
 (2) In this subpart, unless the context otherwise requires,—
   - **company** means a company to which subsection (1)﻿(a)﻿(i) applies
   - **member** , in relation to a company incorporated under Part 2 of the Companies Act 1993, means a shareholder as defined in section 96 of that Act and, in relation to any other company, means a member of, or shareholder in, the company
-  - **owners** means a group of registered proprietors to whom subsection (1)﻿(a)﻿(ii) applies.
+  - **owners** means a group of registered owners to whom subsection (1)﻿(a)﻿(ii) applies.
 
 ### 192 Conversion to be preceded by resolution or High Court order
 Before an application is made in accordance with this subpart to deposit a unit plan,—
@@ -1855,8 +1854,8 @@ A resolution by 75% of the members of an existing company or the owners to subdi
   (a) a sealed copy of the order in any case where an order has been made; and
   (b) a list of the persons on whom notice has been served, together with advice of delivery or other evidence of proper service of the notice on all interested parties as the Registrar may require; and
   (c) a description of the land intended to be included in the scheme sufficient for the Registrar to identify it in the Registrar’s records.
-(3) The notice must state that it is the intention of at least 75% of the members of the company or the owners or the High Court has made an order under section 193 that all necessary steps be taken by the members of the company or the owners to subdivide the whole of its or their land in accordance with this Act unless, not later than 1 month after the date on which the notice is given to the Registrar, a caveat in the prescribed form is lodged, by any person claiming an estate or interest in the land or shares, with the Registrar under the Land Transfer Act 1952 forbidding the subdivision.
-(4) On receipt by the Registrar of notice of the resolution or order under this section, the Registrar must make an entry on each computer register in respect of the land concerned to the effect that the company or the owners have advertised an intention to subdivide the land in accordance with this Act.
+(3) The notice must state that it is the intention of at least 75% of the members of the company or the owners or the High Court has made an order under section 193 that all necessary steps be taken by the members of the company or the owners to subdivide the whole of its or their land in accordance with this Act unless, not later than 1 month after the date on which the notice is given to the Registrar, a caveat in the prescribed form is lodged, by any person claiming an estate or interest in the land or shares, with the Registrar under the Land Transfer Act 2017 forbidding the subdivision.
+(4) On receipt by the Registrar of notice of the resolution or order under this section, the Registrar must make an entry on each record of title in respect of the land concerned to the effect that the company or the owners have advertised an intention to subdivide the land in accordance with this Act.
 
 ### 196 Procedure where caveat lodged
 (1) If a caveat has been lodged under section 195(3) and the caveator has not consented to the deposit of a unit plan for the purposes of section 197(2), the company or any owner may serve notice on the caveator requiring the caveator, within 3 months from the date of the service of the notice, either to consent to the plan or to apply to the High Court for an order directing that the caveat not be removed.
@@ -1875,28 +1874,28 @@ A resolution by 75% of the members of an existing company or the owners to subdi
 (4) If any person whose consent is required to the deposit of the new unit plan is dead or cannot be found or refuses to consent or does not consent within a reasonable time or if for any reason it is impracticable to obtain the consent of that person, the High Court, on the application of any applicant under this subpart, may if it thinks fit consent on behalf of that person to the deposit of the plan.
 
 ### 198 Mortgages and charges to be discharged before deposit of unit plan
-(1) No unit plan may be deposited under this subpart while the land to which it relates or any part of that land is subject to any mortgage or charge unless the mortgage or charge relates to no land shown on the plan other than a proposed unit or units in respect of which (under section 43(2)) the Registrar has been requested at the time when the plan is deposited to create a separate computer register.
-(2) If a unit plan is deposited in accordance with subsection (1) while there is a mortgage or charge over the unit or units for which (under section 43(2)) the Registrar is requested to create a separate computer register, the deposit of the plan and the creation of the computer register does not affect the mortgage or charge; and if, on the creation of the separate computer register, the stratum estate in the unit or units is subject to the mortgage or charge, then the mortgage or charge must be notified on the computer register in a manner so as to preserve its priority.
+(1) No unit plan may be deposited under this subpart while the land to which it relates or any part of that land is subject to any mortgage or charge unless the mortgage or charge relates to no land shown on the plan other than a proposed unit or units in respect of which (under section 43(2)) the Registrar has been requested at the time when the plan is deposited to create a separate record of title.
+(2) If a unit plan is deposited in accordance with subsection (1) while there is a mortgage or charge over the unit or units for which (under section 43(2)) the Registrar is requested to create a separate record of title, the deposit of the plan and the creation of the record of title does not affect the mortgage or charge; and if, on the creation of the separate record of title, the stratum estate in the unit or units is subject to the mortgage or charge, then the mortgage or charge must be notified on the record of title in a manner so as to preserve its priority.
 
 ### 199 Effect of deposit of unit plan
 (1) On the deposit of a unit plan under this subpart, the stratum estate in each unit vests in the person who, immediately before the plan was deposited, was the holder of shares in the company entitling him or her to the exclusive occupation of that unit, or the lessee under a lease of that unit from the owners to himself or herself. The stratum estate may then devolve or be transferred, leased, mortgaged, settled, or otherwise dealt with as provided in this Act.
 (2) On the deposit by a company of a unit plan, the company, if it is a company within the meaning of section 2 of the Companies Act 1993, is deemed to have been removed from the New Zealand register and that Act ceases to apply to it.
 (3) On the deposit, whether by a company or by the owners, of a unit plan in accordance with this subpart,—
   (a) every certificate relating to shares in the company, and every copy of every registered or unregistered lease or licence granted by the company to one of its members or granted by the owners to one of them, is of no further effect:
-  (b) except as otherwise provided in this section, all property, rights, powers, claims, and remedies belonging to the company, or to the owners as registered proprietors of the base land, immediately before the deposit of the plan, vests in the proprietors in accordance with this Act:
-  (c) all existing liabilities of the company (except liability to its members in respect of share capital), or of the proprietors as registered proprietors of the base land, whether certain or contingent, must be transferred to and be borne by the body corporate:
+  (b) except as otherwise provided in this section, all property, rights, powers, claims, and remedies belonging to the company, or to the owners as registered owners of the base land, immediately before the deposit of the plan, vests in the registered owners in accordance with this Act:
+  (c) all existing liabilities of the company (except liability to its members in respect of share capital), or of the owners as registered owners of the base land, whether certain or contingent, must be transferred to and be borne by the body corporate:
   (d) except so far as they are altered or modified expressly or by necessary implication by reason of the deposit of the unit plan under this Act, the rights, interests, duties, obligations, and liabilities of the members of the company existing in relation to the company immediately before its dissolution continue in existence in relation to the body corporate and must not be otherwise affected or abated by the dissolution:
   (e) all acts, matters, and things of a continuing nature made, done, or commenced by or on behalf of the company and immediately before its dissolution of any force or effect or capable of acquiring any force or effect are deemed to have been done or commenced by or on behalf of the body corporate:
   (f) any reference to the company in any document or instrument must, if not inconsistent with the context or subject-matter, be read as a reference to the body corporate.
 (4) Nothing in subsection (3)﻿(c) affects a mortgage or charge to which section 198(2) relates.
 
-### 200 Creation of computer register in respect of units
+### 200 Creation of record of title in respect of units
 (1) On the deposit of the unit plan, the Registrar must—
-  (a) cancel the computer register to the base land; and
-  (b) create a computer register for the stratum estate to which the person who will be the owner of each principal unit is entitled in that unit and any accessory unit.
-(2) Every computer register created under subsection (1) is deemed to be a computer register created under the Land Transfer Act 1952 and, subject to the provisions of this Act, the provisions of that Act apply accordingly.
-(3) If the computer register created under subsection (1) relates to a unit in respect of which there was, before the plan was deposited, a registered lease or licence, the provisions of section 117(2) to (4) of the Land Transfer Act 1952 apply to the computer register for that unit as if it were a lease in substitution for a previously registered lease.
-(4) The provisions of section 7(2) and (3) of the Joint Family Homes Act 1964 apply in every case where a computer register is created under subsection (1) in respect of a unit that was settled as a joint family home immediately before the deposit of the new unit plan relating to that unit.
+  (a) cancel the record of title to the base land; and
+  (b) create a record of title for the stratum estate to which the person who will be the owner of each principal unit is entitled in that unit and any accessory unit.
+(2) Every record of title created under subsection (1) is deemed to be a record of title created under the Land Transfer Act 2017 and, subject to the provisions of this Act, the provisions of that Act apply accordingly.
+(3) If the record of title created under subsection (1) relates to a unit in respect of which there was, before the plan was deposited, a registered lease or licence, the provisions of section 95(3) to (5) of the Land Transfer Act 2017 apply to the record of title for that unit as if it were a lease in substitution for a previously registered lease.
+(4) The provisions of section 7(2) and (3) of the Joint Family Homes Act 1964 apply in every case where a record of title is created under subsection (1) in respect of a unit that was settled as a joint family home immediately before the deposit of the new unit plan relating to that unit.
 
 ## Part 5 — General provisions
 
@@ -2054,7 +2053,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (j) prescribing requirements of a long-term maintenance plan and matters to be included in that plan:
   (k) prescribing the form and content of disclosure statements required under this Act:
   (l) prescribing the form and content of certificates:
-  (m) prescribing for matters relating to the computer register and requirements for depositing unit plans and amendments to unit plans with the Registrar:
+  (m) prescribing for matters relating to the register and requirements for depositing unit plans and amendments to unit plans with the Registrar:
   (n) imposing fees and charges for anything authorised by this Act:
   (o) prescribing the rate of interest payable on money owing to a body corporate:
   (p) regulating the practice and conduct of business under this Act:
