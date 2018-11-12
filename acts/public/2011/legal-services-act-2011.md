@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -368,7 +368,7 @@ If the Commissioner has declined an application for legal aid under this Act, th
 (1) A grant of legal aid may be subject to a condition that the aided person must pay to the Commissioner an interim repayment of a specified amount determined in accordance with section 20.
 (2) Every grant of legal aid is subject to the condition that the aided person must pay to the Commissioner a repayment determined in accordance with section 21.
 (3) A grant of legal aid may be subject to the condition that the aided person must authorise a charge to be registered in favour of the Commissioner over specified property of the aided person as security for the interim repayment or the repayment, or both.
-(4) The Commissioner may lodge a caveat under section 137 of the Land Transfer Act 1952 on property over which a charge could be registered in favour of the Commissioner, regardless of whether the aided person has complied with any condition imposed under subsection (3).
+(4) The Commissioner may lodge a caveat under section 138 of the Land Transfer Act 2017 on property over which a charge could be registered in favour of the Commissioner, regardless of whether the aided person has complied with any condition imposed under subsection (3).
 (5) Subsection (1), the provisions of subsection (3) relating to a charge as security for payment of an interim repayment required by a condition referred to in subsection (1), and subsection (4)—
   (a) do not apply to the maximum grant under section 23(4) of legal aid in respect of victims' claims proceedings; but
   (b) apply to an amendment under section 28(4) of the maximum grant under section 23(4) of legal aid in respect of proceedings of that kind.
@@ -588,7 +588,7 @@ At any time, the total amount payable to the Commissioner by an aided person in 
 (2) Subsection (1) operates to create a charge even if the grant of legal aid in respect of the relevant proceedings has been withdrawn.
 (3) A charge created by this section on any damages or costs does not prevent a court from allowing these to be set off against other damages or costs in a case where a solicitor's lien for costs would not prevent it.
 (4) A charge created by this section may be registered,—
-  (a) in the case of land, against that land in accordance with the Statutory Land Charges Registration Act 1928; or
+  (a) in the case of land, against that land in accordance with subpart 5 of Part 3 of the Land Transfer Act 2017; or
   (b) in the case of any other property, against that property in accordance with the Chattels Transfer Act 1924, the Personal Property Securities Act 1999, or the Motor Vehicle Securities Act 1989, as appropriate.
 (5) Subsection (1) does not apply to property returned, transferred, or granted to an aided person as a result of proceedings before the Waitangi Tribunal.
 
