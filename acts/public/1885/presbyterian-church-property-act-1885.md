@@ -1,5 +1,5 @@
 # Presbyterian Church Property Act 1885
-_Consolidation as at 1996-04-24_
+_Consolidation as at 2018-11-12_
 
 > An Act to define the position of the Presbyterian Church of New Zealand, and to vest certain properties held for the purposes of or in connection with such Church in trustees, and to provide for the management of such properties.
 
@@ -70,8 +70,12 @@ Upon the incorporation of the trustees under this Act the following provisions s
 ### 16 Persons in whom property vested to convey same to trustees
 Every person or persons in whom any property may be in any manner vested upon trust for all or any of the purposes mentioned in the last-preceding section for any estate or interest of any kind, shall be and he or she or they are hereby required and empowered, upon the request of the trustees incorporated under this Act, in any case where such trustees may deem it necessary or expedient, to assign, convey, or otherwise transfer such property to the trustees for the purposes of this Act, and such first-mentioned person or persons, or his or her or their legal or personal representatives (as the case may require), may sign, execute, and do all such deeds, instruments, and acts as may be necessary for such purposes or any of them.
 
-### 17 Freehold property to be transferred to trustees
-Upon production to any District Land Registrar appointed for and acting in any district constituted under the Land Transfer Act 1870, or any other Act for the time being in force relating to land transfer, of any certificate or other instrument of title under the said Acts, or any of them, together with a statutory declaration by any 3 of the trustees incorporated under this Act, to the effect that the land mentioned or referred to in such certificate or instrument is held on behalf of such trustees, such Registrar shall cause such land to be transferred to or vested in the trustees in their corporate name.
+### 17 Transfer of freehold property to trustees
+(1) Upon receipt of a statutory declaration that complies with subsection (2), the Registrar-General of Land must transfer the land to which the statutory declaration relates to the trustees in their corporate name.
+(2) The statutory declaration must—
+  (a) be made by any 3 of the trustees incorporated under this Act; and
+  (b) relate to land described in a record of title; and
+  (c) state that the land referred to in paragraph (b) is held on behalf of the trustees.
 
 ### 18 On investment of property in trustees rights of original holders to cease
 When, under the provisions of this Act, any property shall become vested in the trustees, all the rights, powers, and liabilities of the person or persons in whom the same was theretofore vested shall cease and determine, and he or she or they shall henceforth be wholly released and discharged from the performance of the trusts or the exercise of the rights, powers, or duties previously exercisable, or that might have been performed by him or her or them:provided that nothing herein shall be deemed to prevent any such person from being called on to account for any moneys received or expended, or for the doing or non-performance of any act, matter, or thing in relation to his or her trust, prior to the vesting or transmission of such property under this Act.
