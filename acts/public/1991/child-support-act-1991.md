@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -2897,7 +2897,7 @@ Where a payer deducts an amount under this Part from any money payable to a liab
 (4) Despite section 23(b) of the Personal Property Securities Act 1999, if a charge affects property against which charges may be registered under a registration Act, the Commissioner may register the charge under the registration Act.
 (4B) The Commissioner is not required to pay a fee for the registration of a charge under a registration Act in reliance on this section.
 (5) For the purpose of this section, registration Act, in relation to any property, includes—
-  (a) the Statutory Land Charges Registration Act 1928 in every case where the property is land or an interest in land (including a mortgage):
+  (a) subpart 5 of Part 3 of the Land Transfer Act 2017 in every case where the property is land or an interest in land (including a mortgage):
   (b) the Personal Property Securities Act 1999.
 (6) Particulars recorded under subsection (4) are to operate and take priority according to the provisions of the applicable registration Act.
 (6B) If the registration under this section of a charge over property occurs after the registration of a mortgage over the same property and before an advance of money secured by the mortgage, the charge has priority over the mortgage in respect of that money.
@@ -2906,7 +2906,7 @@ Where a payer deducts an amount under this Part from any money payable to a liab
 (8) Any charge created by this section which is registered against any property shall operate to secure any amount secured by any prior unregistered charge and unpaid at the time of registration of the charge, and also to secure any amount secured by any charge coming into existence after the registration of the charge, so that the registered charge shall operate to secure the total of all amounts for the time being owing by the payer under all charges created by this section.
 (9) If any amount constitutes by virtue of this section a charge on any property, the Family Court or the District Court may make such order as it thinks fit, either for the sale of that property or of any part thereof, or for the appointment of a receiver of the rents, profits, or income thereof, and for the payment of the amount of the charge and the costs of the Commissioner out of the proceeds of the sale or out of the rents, profits, or income.
 (10) Where any property has been sold under any such order, the Family Court or, as the case may be, the District Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
-(11) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the Land Transfer Act 1952 the purchaser's title thereto shall be registered accordingly.
+(11) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the Land Transfer Act 2017 the purchaser's title thereto shall be registered accordingly.
 (12) This section shall apply subject to section 167.
 
 ### 170 Payers not to disclose information
@@ -3056,7 +3056,7 @@ Where—the Commissioner—
 (3) A charging order shall specify, in such a manner as to identify it, the property on which the charge is imposed.
 (4) A charging order may at any time be varied or discharged by the court.
 (5) Nothing in section 131 of the Workers' Compensation Act 1956 or in section 89 of the Accident Compensation Act 1982 shall apply to any charge constituted under this section.
-(6) Where a charging order is made in respect of the registered estate or interest of the respondent in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the appropriate District Land Registrar if the title to the land is under the Land Transfer Act 1952, or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the District Land Registrar in whose office the mining privilege is recorded.
+(6) Where a charging order is made in respect of the registered estate or interest of the respondent in any land, a duplicate or copy of the order under the seal of the court may be delivered for registration to the Registrar-General of Land if the title to the land is under the Land Transfer Act 2017, or to the appropriate Registrar of Deeds if the title to the land is not under that Act, or, in the case of a mining privilege within the meaning of the Mining Act 1971, may be delivered for recording to the Registrar-General of Land.
 (7) The Registrar to whom the duplicate or copy is delivered shall, without fee, record it in the register against the appropriate folium of the register book and against any relevant instrument or title, or record it and note its particulars on the filed copy of the mining privilege to which it relates, as the case may require.
 (8) An order discharging or varying a charging order may be registered or recorded in the same manner as the charging order.
 
@@ -3086,7 +3086,7 @@ The authority conferred on the court by section 184 to make a charging order sha
 (1) If any amount constitutes, by virtue of section 184, a charge on any property, the Family Court or the District Court may make such order as it thinks fit, either for the sale of that property or of any part thereof, or for the appointment of Public Trust or any other person to be the receiver of the whole or any part of that property, or of the rents, profits, or income of the property, or of any part of that property:
   provided that neither Public Trust nor any other person shall, unless that person consents, be appointed under this section as a receiver.
 (2) Where any property has been sold under any such order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
-(3) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the Land Transfer Act 1952 the purchaser's title thereto shall be registered accordingly.
+(3) Every such vesting order shall have the same effect as if all persons entitled to the property had been free from all disability and had duly executed all proper conveyances, transfers, and assignments of the property for such estate or interest as is specified in the order; and in the case of land which is subject to the Land Transfer Act 2017 the purchaser's title thereto shall be registered accordingly.
 (4) The court may, at any time after making a receiving order, vary or discharge the order.
 (5) A receiving order shall expire on the payment by the liable person of all arrears due under this Act, together with the payment by the liable person in advance of all money to become payable under this Act during the period of 6 months from the date of the cancellation of the receiving order.
 
