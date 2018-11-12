@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -2800,14 +2800,14 @@ On the date shown in a certificate of amalgamation,—
   (h) any provisions of the amalgamation proposal that provide for the conversion of shares or rights of shareholders in the amalgamating companies have effect according to their tenor.
 
 ### 225A Registers
-(1) Where an amalgamation becomes effective, no Registrar of Deeds or District Land Registrar or other person charged with the keeping of any books or registers shall be obliged, solely by reason of the amalgamation becoming effective, to change the name of an amalgamating company to that of an amalgamated company in those books or registers or in any documents.
+(1) Where an amalgamation becomes effective, the Registrar-General of Land, Registrar of Deeds, or other person charged with the keeping of any books or registers is not obliged, solely by reason of the amalgamation becoming effective, to change the name of an amalgamating company to that of an amalgamated company in those books or registers or in any documents.
 (2) The presentation to any Registrar or other person of any instrument (whether or not comprising an instrument of transfer) by the amalgamated company—shall, in the absence of evidence to the contrary, be sufficient evidence that the property has become the property of the amalgamated company.
   (a) executed or purporting to be executed by the amalgamated company; and
   (b) relating to any property held immediately before the amalgamation by an amalgamating company; and
   (c) stating that that property has become the property of the amalgamated company by virtue of this Part—
 (3) Without limiting subsection (1) or subsection (2), where any financial product issued by any person or any rights or interests in property of any person become, by virtue of this Part, the property of an amalgamated company, that person, on presentation of a certificate signed on behalf of the board of the amalgamated company, stating that that financial product or any such rights or interests have, by virtue of this Part, become the property of the amalgamated company, shall, notwithstanding any other enactment or rule of law or the provisions of any instrument, register the amalgamated company as the holder of that financial product or as the person entitled to such rights or interests, as the case may be.
 (4)
-(5) Except as provided in this section, nothing in this Part derogates from the provisions of the Land Transfer Act 1952.
+(5) Except as provided in this section, nothing in this Part derogates from the provisions of the Land Transfer Act 2017.
 
 ### 226 Powers of court in other cases
 (1) If the court is satisfied that giving effect to an amalgamation proposal would unfairly prejudice a shareholder or creditor of an amalgamating company or a person to whom an amalgamating company is under an obligation, it may, on the application, made at any time before the date on which the amalgamation becomes effective, of that person, make any order it thinks fit in relation to the proposal, and may, without limiting the generality of this subsection, make an order—
@@ -4893,7 +4893,7 @@ If a transaction or charge is set aside under section 294, the court may make 1 
   (a) A acted in good faith; and
   (b) a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that the company was, or would become, insolvent; and
   (c) A gave value for the property or altered A's position in the reasonably held belief that the transfer of the property to A was valid and would not be set aside.
-(4) Nothing in the Land Transfer Act 1952 restricts the operation of this section or sections 292 to 295.
+(4) Nothing in the Land Transfer Act 2017 restricts the operation of this section or sections 292 to 295.
 
 **Recovery in other cases**
 
@@ -4946,7 +4946,7 @@ If a transaction or charge is set aside under section 294, the court may make 1 
   (a) at the time of the purchase, the purchaser was not a person specified in any of paragraphs (a) to (d) of that subsection; and
   (b) the purchase was made in good faith and for valuable consideration.
 (3) The court may make such other orders as it thinks proper for the purpose of giving effect to an order under this section.
-(4) Nothing in the Land Transfer Act 1952 restricts the operation of this section.
+(4) Nothing in the Land Transfer Act 2017 restricts the operation of this section.
 (5) The provisions of section 7 apply with such modifications as may be necessary to determine control of a company.
 
 ### 300 Liability if proper accounting records not kept
@@ -5495,8 +5495,8 @@ The removal of a company from the New Zealand register does not affect the liabi
 ### 331 Vesting of property in company on restoration to register
 (1) Subject to this section, property of a company that is, at the time the company is restored to the New Zealand register, vested in the Crown pursuant to section 324, shall, on the restoration of the company to the New Zealand register, vest in the company as if the company had not been removed from the register.
 (2) Nothing in subsection (1) applies to any property vested in the Crown pursuant to section 324 if the court has made an order for the payment of compensation to any person pursuant to section 324(4)﻿(b) in respect of that property.
-(3) Nothing in subsection (1) applies to land or any estate or interest in land that has vested in the Crown pursuant to section 324 if transmission to the Crown of the land or that estate or interest in land has been registered under the Land Transfer Act 1952.
-(4) Where transmission to the Crown of land or any estate or interest in land that has vested in the Crown pursuant to section 324 has been registered under the Land Transfer Act 1952, the court may, on the application of the company, make an order—
+(3) Nothing in subsection (1) applies to land or any estate or interest in land that has vested in the Crown pursuant to section 324 if transmission to the Crown of the land or that estate or interest in land has been registered under the Land Transfer Act 2017.
+(4) Where transmission to the Crown of land or any estate or interest in land that has vested in the Crown pursuant to section 324 has been registered under the Land Transfer Act 2017, the court may, on the application of the company, make an order—
   (a) for the transfer of the land or the estate or interest to the company; or
   (b) for the payment by the Crown to the company of compensation—
     (i) of an amount not greater than the value of the land or the estate or interest as at the date of registration of the transmission; or
