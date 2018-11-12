@@ -784,7 +784,7 @@ If a protection order is made on an application without notice, the respondent m
   (b) apply under section 159 for the modification or discharge of the standard condition about weapons:
   (c) apply under section 108 for a variation or discharge of any special conditions of the protection order:
   (d) apply under section 109 for the protection order to be discharged:
-  (e) if a direction is made under section 188, in respect of the associated respondent, notify the court, under section 189, that the associated respondent objects to the direction.
+  (e) if a direction is made under section 188, in respect of the respondent, notify the court, under section 189, that the respondent objects to the direction.
 
 ### 78 Application without notice: associated respondent
 If a protection order is made on an application without notice and, under section 89, the court directs that the order applies against another person, that associated respondent may—
@@ -792,7 +792,7 @@ If a protection order is made on an application without notice and, under sectio
   (b) apply under section 160 for the modification or discharge of the standard condition about weapons, in so far as the standard condition relates to the associated respondent:
   (c) apply under section 108 for a variation or discharge of any special condition of the protection order, in so far as the special condition relates to the associated respondent:
   (d) apply under section 109 for the protection order to be discharged, in so far as the order relates to the associated respondent:
-  (e) if a direction is made under section 188, in respect of the respondent, notify the court, under section 189, that the respondent objects to the direction.
+  (e) if a direction is made under section 188, in respect of the associated respondent, notify the court, under section 189, that the associated respondent objects to the direction.
 
 **Making of protection orders**
 
