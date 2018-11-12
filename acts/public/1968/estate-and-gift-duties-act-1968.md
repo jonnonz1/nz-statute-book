@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -626,8 +626,8 @@ Section 47 shall, with all necessary modifications, apply for gift duty purposes
 (4)
 
 ### 87A Registration of charge for gift duty
-(1) If gift duty constitutes a charge on land or an interest in land that is subject to the Land Transfer Act 1952 or the Deeds Registration Act 1908 or a mining privilege, lease or licence under the Mining Act 1971, the Commissioner may register the charge by depositing a certificate under the Commissioner's hand setting out the description of the land, interest in land, mining privilege, lease or licence so charged, including a reference to any relevant certificate of title, with—
-  (a) in the case of land subject to the Land Transfer Act 1952 or a mining privilege, lease or licence that has been registered under the Land Transfer Act 1952 in accordance with the Mining Tenures Registration Act 1962, the District Land Registrar for the land registration district in which the land is situated:
+(1) If gift duty constitutes a charge on land or an interest in land that is subject to the Land Transfer Act 2017 or the Deeds Registration Act 1908 or a mining privilege, lease or licence under the Mining Act 1971, the Commissioner may register the charge by depositing a certificate under the Commissioner's hand setting out the description of the land, interest in land, mining privilege, lease or licence so charged, including a reference to any relevant record of title, with—
+  (a) in the case of land subject to the Land Transfer Act 2017 or a mining privilege, lease or licence that has been registered under the Land Transfer Act 2017 in accordance with the Mining Tenures Registration Act 1962, the Registrar-General of Land:
   (b) in the case of any other mining privilege, lease or licence, the Mining Registrar in whose office the mining privilege, lease or licence is registered:
   (c) in the case of land subject to the Deeds Registration Act 1908, the Registrar of Deeds for the district in which the land is situated.
 (2) If subsection (1) applies, the appropriate Registrar must, without payment of a fee, register the certificate against the title to the land, or privilege, lease or licence so charged.
@@ -641,7 +641,7 @@ Section 47 shall, with all necessary modifications, apply for gift duty purposes
   (c) the appointment of a receiver of the rents, profits or income from the property and the payment of the rents, profits or income to the Commissioner.
 (2) An order made under subsection (1) applies to the extent that it is necessary to meet the duty and the costs of the Commissioner.
 (3) If property has been sold under a High Court order, the High Court may, on the application of the purchaser or the Commissioner, make an order vesting the property in the purchaser.
-(4) A vesting order made by the High Court has the same effect as if all persons entitled to the property had been free from disability and had executed all proper conveyances, transfers and assignments of the property specified in the order and, in the case of land, an interest in land or a mining privilege, lease or licence under the Mining Act 1971, the purchaser's title must be registered under the Land Transfer Act 1952, the Deeds Registration Act 1908 or the Mining Act 1971 accordingly.
+(4) A vesting order made by the High Court has the same effect as if all persons entitled to the property had been free from disability and had executed all proper conveyances, transfers and assignments of the property specified in the order and, in the case of land, an interest in land or a mining privilege, lease or licence under the Mining Act 1971, the purchaser's title must be registered under the Land Transfer Act 2017, the Deeds Registration Act 1908 or the Mining Act 1971 accordingly.
 
 ### 88 Remission of penalty and interest on gift duty
 [Repealed]
