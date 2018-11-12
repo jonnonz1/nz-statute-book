@@ -1,5 +1,5 @@
 # Heritage New Zealand Pouhere Taonga Act 2014
-_Consolidation as at 2016-11-29_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Heritage New Zealand Pouhere Taonga Act 2014.
@@ -100,7 +100,7 @@ In this Act, unless the context otherwise requires,—
   - **recorded** , in relation to an archaeological site, means an archaeological site whose location is recorded on a database identified by Heritage New Zealand Pouhere Taonga as the national inventory of archaeological sites
   - **regional council** has the meaning given in section 5(1) of the Local Government Act 2002
   - **registered interest** —
-    (a) means an estate or interest in land registered under the Land Transfer Act 1952; and
+    (a) means an estate or interest in land registered under the Land Transfer Act 2017; and
     (b) includes a mortgage or charge registered under that Act
   - **scientific investigation** means a physically invasive investigation of any archaeological site undertaken for research purposes, so as to obtain information relating to the history of New Zealand
   - **site of interest to Māori** means an archaeological site or other place in which an iwi or a hapū has, or at any time has had, an interest
@@ -470,13 +470,13 @@ The acts and proceedings of the Council, or of any person acting as a member of 
 
 ### 41 Registrar-General of Land must register instruments
 (1) A heritage covenant—
-  (a) is an instrument that creates an interest in land within the meaning of section 62 of the Land Transfer Act 1952; and
+  (a) is an instrument that creates an interest in land within the meaning of section 51 of the Land Transfer Act 2017; and
   (b) may be registered accordingly; and
-  (c) when registered under the Land Transfer Act 1952,—
+  (c) when registered under the Land Transfer Act 2017,—
     (i) runs with the land; and
     (ii) binds all subsequent owners of the land.
-(2) If a heritage covenant applies to land that comprises part of the land in a certificate of title, the Registrar-General of Land may require the deposit of a plan in accordance with section 167 of the Land Transfer Act 1952.
-(3) If a provision of a heritage covenant registered under the Land Transfer Act 1952 is varied or cancelled by agreement under section 39(2)﻿(c), or has expired, the Registrar-General of Land must make an entry in the register noting that the heritage covenant has been varied or cancelled or has expired.
+(2) If a heritage covenant applies to land that comprises part of the land in a record of title, the Registrar-General of Land may require the deposit of a plan in accordance with section 224 of the Land Transfer Act 2017.
+(3) If a provision of a heritage covenant registered under the Land Transfer Act 2017 is varied or cancelled by agreement under section 39(2)﻿(c), or has expired, the Registrar-General of Land must make an entry in the register noting that the heritage covenant has been varied or cancelled or has expired.
 (4) As the case may require, the provisions of the covenant—
   (a) take effect as varied; or
   (b) cease to have effect.
