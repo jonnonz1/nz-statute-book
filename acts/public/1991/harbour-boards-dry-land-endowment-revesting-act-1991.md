@@ -1,5 +1,5 @@
 # Harbour Boards Dry Land Endowment Revesting Act 1991
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for certain endowments of dry harbour land to be revested in the Crown or reserved for certain purposes, and to amend certain enactments
 
@@ -76,22 +76,20 @@ All persons exercising functions and powers under this Act shall have regard to 
   (b) may, after giving reasonable notice to the controlling authority, remove the property.
 (5) Nothing in subsection (4) shall limit or affect any lease, licence, permit, consent, other authority, agreement, or right continued in force by subsection (1).
 
-### 8 Provisions relating to existing certificates of title
-(1) Every existing certificate of title in respect of any land revested in the Crown by an Order in Council made under section 4 that is not subject to any current registered lease or registered licence shall, on the request in writing of the Minister and without further authority than this subsection, be cancelled by the appropriate District Land Registrar.
-(2) Where the certificate of title for any such land is subject to such a lease or licence, the appropriate District Land Registrar shall, on the request in writing of the Minister and without further authority than this subsection, make any necessary endorsements on the certificate of title, and the certificate of title shall thereafter enure the name of Her Majesty the Queen in right of New Zealand for the purposes of this Act until the expiration or sooner determination of the lease or licence, and shall then be cancelled by the District Land Registrar.
-(3) Where the Minister makes any request under subsection (1) or subsection (2), the Minister shall also—
-  (a) produce the duplicate of the certificate of title concerned to the District Land Registrar for cancellation or endorsement, as the case may require; or
-  (b) certify that the duplicate is unavailable by reason of loss or damage.
+### 8 Provisions relating to existing records of title
+(1) Every existing record of title in respect of any land revested in the Crown by an Order in Council made under section 4 that is not subject to any current registered lease or registered licence shall, on the request in writing of the Minister and without further authority than this subsection, be cancelled by the Registrar-General of Land.
+(2) Where the record of title for any such land is subject to such a lease or licence, the Registrar-General of Land shall, on the request in writing of the Minister and without further authority than this subsection, make any necessary endorsements on the record of title, and the record of title shall thereafter enure the name of Her Majesty the Queen in right of New Zealand for the purposes of this Act until the expiration or sooner determination of the lease or licence, and shall then be cancelled by the Registrar-General of Land.
+(3)
 
-### 9 Minister may apply for new certificates of title
-(1) The Minister may cause a plan of survey of any land revested in the Crown by an Order in Council made under section 4 to be made by a licensed cadastral surveyor and approved by the Chief Surveyor, and lodge it for deposit at the office of the appropriate District Land Registrar.
-(2) On or after the deposit of a plan of survey approved by the Chief Surveyor, the District Land Registrar shall, notwithstanding anything in the Land Transfer Act 1952, issue to Her Majesty the Queen in right of New Zealand for the purposes of this Act a certificate of title under that Act in respect of the area to which the plan relates.
-(3) Where a new certificate of title is issued for the purposes of this Act, the District Land Registrar shall cancel any other certificate of title in respect of the land concerned or partially cancel that other certificate of title, as the case may require.
-(4) The District Land Registrar shall record against every such new certificate of title the order of priority of any registered leases or registered licences in respect of the land to which the certificate of title relates.
-(5) Nothing in this section shall prevent the Minister applying in accordance with the provisions of the Land Transfer Act 1952 for the issue of a new certificate of title in respect of any area revested in the Crown by any Order in Council made under section 4(1).
+### 9 Minister may apply for new records of title
+(1) The Minister may cause a plan of survey of any land revested in the Crown by an Order in Council made under section 4 to be made by a licensed cadastral surveyor and approved by the Chief Surveyor, and lodge it with the Registrar-General of Land.
+(2) On or after the deposit of a plan of survey approved by the Chief Surveyor, the Registrar-General of Land shall, notwithstanding anything in the Land Transfer Act 2017, issue to Her Majesty the Queen in right of New Zealand for the purposes of this Act a record of title under that Act in respect of the area to which the plan relates.
+(3) Where a new record of title is issued for the purposes of this Act, the Registrar-General of Land shall cancel any other record of title in respect of the land concerned or partially cancel that other record of title, as the case may require.
+(4) The Registrar-General of Land shall record against every such new record of title the order of priority of any registered leases or registered licences in respect of the land to which the record of title relates.
+(5) Nothing in this section shall prevent the Minister applying in accordance with the provisions of the Land Transfer Act 2017 for the issue of a new record of title in respect of any area revested in the Crown by any Order in Council made under section 4(1).
 
 ### 10 Other Acts affected
-The provisions of this Act shall have effect notwithstanding the provisions of the Land Transfer Act 1952 or any other enactment or rule of law relating to land.
+The provisions of this Act shall have effect notwithstanding the provisions of the Land Transfer Act 2017 or any other enactment or rule of law relating to land.
 
 ### 11 Act not to render Crown liable for civil wrong
 Nothing effected or authorised by or under this Act—
