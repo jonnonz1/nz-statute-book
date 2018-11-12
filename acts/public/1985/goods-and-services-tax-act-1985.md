@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -91,7 +91,7 @@ _Consolidation as at 2018-10-01_
       (i) an estate or interest in land:
       (ii) a right that gives rise to an interest in land:
       (iii) an option to acquire land or an estate or interest in land:
-      (iv) a share in the share capital of a flat-owning or office-owning company, as defined in section 121A of the Land Transfer Act 1952:
+      (iv) a share in the share capital of a flat or office owning company to which subpart 6 of Part 3 of the Land Transfer Act 2017 applies:
     (b) does not include—
       (i) a mortgage:
       (ii) a lease of a dwelling:
@@ -312,7 +312,7 @@ _Consolidation as at 2018-10-01_
 (3) Notwithstanding subsection (2), the terms debt security, equity security, and participatory security do not include any of the following:
   (a) a life insurance contract or any other contract of insurance:
   (b)
-  (c) a share in the share capital of a flat-owning or office-owning company (as defined in section 121A of the Land Transfer Act 1952):
+  (c) a share in the share capital of a flat or office owning company to which subpart 6 of Part 3 of the Land Transfer Act 2017 applies:
   (d) an interest in a retirement scheme.
 (3B) Despite subsection (2), a person who is a party to an arrangement that is a credit contract but is not a credit contract under section 7 of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as not being a credit contract in relation to the person.
 (3C) Despite subsection (2), a person who is a party to an arrangement that is not a credit contract but is a credit contract under section 7 of the Credit Contracts and Consumer Finance Act 2003 may elect that the arrangement be treated under this section as being a credit contract in relation to the person.
