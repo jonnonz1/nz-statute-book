@@ -1,5 +1,5 @@
 # Joint Family Homes Act 1964
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for joint family homes, and for an exemption from gift duty in respect thereof
 
@@ -12,16 +12,16 @@ In this Act, unless the context otherwise requires,—
   - **applicant** , in relation to any application to settle any land as a joint family home, includes the executor or administrator of a deceased applicant
   - **constitution** , in relation to a company within the meaning of section 2 of the Companies Act 1993, has the same meaning as in that section
   - **flat** means a part of a building that is used as a separate dwelling; but does not include any right, easement, or appurtenance which is held and enjoyed with the flat
-  - **flat-owning company** means a flat-owning company within the meaning of Part 7A of the Land Transfer Act 1952
+  - **flat-owning company** means a flat or office owning company to which subpart 6 of Part 3 of the Land Transfer Act 2017 applies
   - **husband and wife** , in relation to any settled property, means the husband and wife on whom the property is settled under this Act; and every reference in this Act to a husband and wife must be taken to include any 2 people (of any sex) who are married
   - **joint family home** means any land settled as a joint family home under this Act
-  - **land** means all estates and interests, whether freehold or chattel, in real property; and includes the licensee's interest under a licence (within the meaning of Part 7A of the Land Transfer Act 1952) to occupy a flat
+  - **land** means all estates and interests, whether freehold or chattel, in real property; and includes the licensee's interest under a licence (within the meaning of subpart 6 of Part 3 of the Land Transfer Act 2017) to occupy a flat
   - **mining residence site** means any residence site in respect of which there exists a licence granted under the Mining Act 1926 or under any former Mining Act; and includes—
     (a) any land in respect of which there exists a lease granted under section 45 or section 47 of the Mining Act 1926 or under the corresponding provisions of any former Mining Act, or renewed under section 2 of the Mining Amendment Act 1961; and
     (b) any new licence or lease issued under the Mining Tenures Registration Act 1962
   - **prescribed** means prescribed by this Act or by regulations made under this Act
-  - **registered proprietor** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means the person registered in the office of a Mining Registrar as the licensee or lessee of the site; and, in relation to any other land, means the person registered as proprietor of the land under the Land Transfer Act 1952, or the person entitled to the land under any instrument registered under the Deeds Registration Act 1908; and, in relation to any shares in a flat-owning company, means the person who is the registered holder of shares according to the company's share register
-  - **Registrar** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means the Mining Registrar in whose office the licence or lease is registered; and, in relation to any other land, means the District Land Registrar or the Registrar of Deeds for the district in which the land is situated
+  - **registered proprietor** , in relation to any mining residence site which is not registered under the Land Transfer Act 2017, means the person registered in the office of a Mining Registrar as the licensee or lessee of the site; and, in relation to any other land, means the registered owner under the Land Transfer Act 2017, or the person entitled to the land under any instrument registered under the Deeds Registration Act 1908; and, in relation to any shares in a flat-owning company, means the person who is the registered holder of shares according to the company's share register
+  - **Registrar** , in relation to any mining residence site which is not registered under the Land Transfer Act 1952, means the Mining Registrar in whose office the licence or lease is registered; and, in relation to any other land, means the Registrar-General of Land or the Registrar of Deeds
   - **relative shares** , in relation to any lease or licence granted in respect of a flat by a flat-owning company, means the shares the ownership of which, pursuant to the constitution of the company, entitles the lessee or licensee to the lease or licence
   - **settled** , in relation to any land or property, means that the land or property has become settled or is deemed to have become settled in accordance with the provisions of paragraph (a) of subsection (1) of section 9
   - **settlement** means a settlement under this Act
@@ -55,11 +55,11 @@ In this Act, unless the context otherwise requires,—
   (a) subject to any mortgage, charge, or encumbrance; or
   (b) a leasehold interest; or
   (c) held under agreement for sale or licence to occupy under Part 1 of the Housing Act 1955; or
-  (d) held under a licence within the meaning of Part 7A of the Land Transfer Act 1952; or
+  (d) held under a licence within the meaning of subpart 6 of Part 3 of the Land Transfer Act 2017; or
   (e) held under an agreement for sale under section 554 of the Local Government Act 1974; or
   (f) held under an agreement for sale under the Local Government Act 2002.
 (2) The person or persons who make any such application shall produce or cause to be produced to the Registrar:
-  (a) the certificate of title or other instrument of title in respect of all land being settled; and
+  (a) the record of title or other instrument of title in respect of all land being settled; and
   (b) the share certificates in respect of relative shares (if any).
 (3) Where an application has been made to the Registrar as aforesaid to register a settlement of any land under this Act, and the Registrar has any doubt as to whether the settlement should be registered, he may require the applicant or applicants to produce such further evidence in that connection as the Registrar may require, and may defer registering the settlement until sufficient evidence is produced to him to establish that the settlement should be registered.
 (4) Where the person or persons who are entitled to settle any land as a joint family home have signed an application to the Registrar in the prescribed form to settle the land as a joint family home while the husband and wife on whom the settlement is to be made are both living, and either the husband or the wife has thereafter died within 3 months after the date on which the application was signed and before the Registrar has accepted the application, the surviving husband or wife may, within 6 months after the date of the death of the other of them, take all steps necessary to secure the registration of the settlement of the land. In any such case, or where the husband or wife dies after the Registrar has accepted the application,—
@@ -80,7 +80,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 7 Registration
 (1) Where the Registrar is satisfied that the application has been duly made under this Act, and (in the case of any application in respect of which the Registrar has given notice as aforesaid) when the time limited for lodging a caveat against any such application has expired and all caveats lodged under section 6 have been withdrawn or removed, and (in the case of any application to which section 5(4) applies) the surviving husband or wife is still alive, the Registrar shall cause a memorandum to be entered on the respective instruments of title in the following manner:
-  (a) where the land being settled or any part of it is subject to the provisions of the Land Transfer Act 1952 or is a mining residence site, the Registrar shall cause to be entered and shall sign in his register, and on the duplicate grant, certificate of title, lease, licence, or other instrument of title, a memorandum to the effect that the said land or part is included in a settlement under this Act, which memorandum shall specify:
+  (a) where the land being settled or any part of it is subject to the provisions of the Land Transfer Act 2017 or is a mining residence site, the Registrar shall cause to be entered and shall sign in his register a memorandum to the effect that the said land or part is included in a settlement under this Act, which memorandum shall specify:
     (i) the husband and wife on whom the said land or part is settled; and
     (ii) the date on which the settlement takes effect:
   (b) where the land being settled or any part of it is subject to the provisions of the Deeds Registration Act 1908, the Registrar shall enter and sign a memorandum to the effect prescribed in paragraph (a) as the next entry in the Deeds Index relative to the land or part, as the case may be:
@@ -148,12 +148,10 @@ In this Act, unless the context otherwise requires,—
 (4) Where a notice is sent by post in the manner prescribed by paragraph (a) of subsection (3), it shall be deemed to have been given at the time at which the letter would have been delivered in the ordinary course of post.
 (5) Any owner of a joint family home to whom any such notice has been given may, within 28 days after the date of the service on that owner of the said notice, summon the Registrar to attend before the District Court to show cause why the settlement should be cancelled; and the court may make such order in the premises as it considers just.
 (6) The cancellation of any settlement under this Act shall be effected—
-  (a) in the case of any land which is subject to the Land Transfer Act 1952, by the Registrar causing a memorial of the cancellation to be entered in the register against the appropriate title:
+  (a) in the case of any land which is subject to the Land Transfer Act 2017, by the Registrar causing a memorial of the cancellation to be entered in the register against the appropriate title:
   (b) in the case of any land which is subject to the Deeds Registration Act 1908, by the Registrar causing an entry thereof to be made under the proper head or title in the index book in the Deeds Register Office:
   (c) in the case of a mining residence site, by the Registrar causing a memorial of the cancellation to be entered in the register against the record copy of the licence.
-(7) In any case where the land in respect of which a settlement is cancelled comprises a lease or licence from a flat-owning company,—
-  (a) upon the cancellation being effected in respect of the land in accordance with subsection (6), it shall be deemed to have been effected in respect of the relative shares:
-  (b) if the Registrar is able to obtain production of the share certificate in respect of the relative shares, he shall make an appropriate entry on the share certificate to evidence the cancellation of the settlement.
+(7) In any case where the land in respect of which a settlement is cancelled comprises a lease or licence from a flat owning company, upon the cancellation being effected in respect of the land in accordance with subsection (6), it is deemed to have been effected in respect of the relative shares.
 (8) Upon the cancellation as aforesaid of a settlement as to any property, that property shall cease to be settled under this Act.
 (9) Except as provided in section 11, the cancellation of a settlement as to any property shall not affect any estate or interest of any owner or other person in that property, or any mortgage, charge, or encumbrance over that property at the time of cancellation.
 
@@ -175,9 +173,7 @@ In this Act, unless the context otherwise requires,—
 ### 12 Cancellation of settlement as to shares
 (1) Upon the cancellation of a settlement as to any lease or licence granted by a flat-owning company, the following provisions shall apply:
   (a) the Registrar shall, in writing addressed to the secretary of the company concerned and sent to the registered office of the company, advise the company of the cancellation, of the numbers of the relative shares affected by the cancellation, and of the person or persons in whom the lease or licence has consequently vested under section 11, and shall request the company to register the said person or persons as the holder or holders of the shares in accordance with paragraph (b), no longer subject to the provisions of this Act:
-  (b) on receipt of any such written advice the company shall,—
-    (i) where any change in the name or names of the registered holder or holders of the relative shares is involved, register the person or persons named in the advice as the registered holder or holders of the shares, and issue a share certificate in his, her, or their name or names in respect of the shares:
-    (ii) cancel any endorsement that may have been made pursuant to section 8 on the office duplicate of the relative lease or licence, and any endorsement that the shares are held subject to this Act.
+  (b) on receipt of any such written advice the company must, where any change in the name or names of the registered holder or holders of the relative shares is involved, register the person or persons named in the advice as the registered holder or holders of the shares, and issue a share certificate in his, her, or their name or names in respect of the shares.
 (2) In a case where a company fails to comply with subsection (1),—
   (a) the company commits an offence and is liable on conviction to a fine not exceeding $1,000:
   (b) every director of the company commits an offence and is liable on conviction to a fine not exceeding $1,000, unless the director shows that—
