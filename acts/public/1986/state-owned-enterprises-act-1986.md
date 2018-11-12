@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-12_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -239,7 +239,7 @@ A failure by a State enterprise to comply with any provision contained in Part 1
 (10) Notwithstanding any other provision of this Act, where prior to the date on which this Act comes into force any Maori land was leased to the Crown under a lease administered by the Minister of Forests, the shareholding Ministers shall not, except with the consent of the lessor or where the lease so permits, transfer that leasehold interest to a State enterprise, but the shareholding Ministers may enter into an agreement with a State enterprise pursuant to subsection (1)﻿(b) to manage, on behalf of the Crown, its rights under that lease.
 
 ### 24 Provisions relating to transfer of land
-(1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 1952 that are to be transferred to a State enterprise pursuant to this Act shall—
+(1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 2017 that are to be transferred to a State enterprise pursuant to this Act shall—
   (a) be identified by an adequate legal description, or on plans lodged in the office of the Chief Surveyor for the land district in which the land is situated (being plans certified as correct for the purposes of this section by that Chief Surveyor); and
   (b) vest in the State enterprise—
     (i) pursuant to and on a date specified in an Order in Council made for the purposes of this section; or
@@ -253,31 +253,31 @@ A failure by a State enterprise to comply with any provision contained in Part 1
 (5) Nothing in this Act or in any transfer of land to a State enterprise pursuant to this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
 
 ### 25 Title to land
-(1) A District Land Registrar shall, on written application by any person authorised by a Minister and on payment of the prescribed fee,—
-  (a) register a State enterprise as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in any land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is transferred to the State enterprise pursuant to this Act; and
+(1) The Registrar-General of Land shall, on written application by any person authorised by a Minister and on payment of the prescribed fee,—
+  (a) register a State enterprise as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in any land that is registered under the Land Transfer Act 2017 and that is transferred to the State enterprise pursuant to this Act; and
   (b) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
 (1A) The powers conferred by subsection (1) may be exercised in respect of an estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or has been determined.
-(2) A District Land Registrar shall, on written application by any person authorised by a Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a State enterprise pursuant to section 24(1) of this Act in form 1 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
-(3) As soon as registration is accomplished in accordance with subsection (1) or a certificate of title is issued in accordance with subsection (2), the State enterprise shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seised of an estate in fee simple in possession in respect of that land.
+(2) The Registrar-General of Land must, on written application by any person authorised by a Minister and on payment of the prescribed fee, create a record of title for land vested in a State enterprise pursuant to section 24(1) of this Act.
+(3) As soon as registration is accomplished in accordance with subsection (1) or a record of title is issued in accordance with subsection (2), the State enterprise shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seised of an estate in fee simple in possession in respect of that land.
 (4) Applications in accordance with subsections (1) and (2) shall specify the name of the State enterprise and the date of the agreement, together with a description of the land sufficient to identify it and, in the case of applications under subsection (2), a certificate by the Chief Surveyor for the district concerned as to the correctness of such description.
 
 ### 26 Land certification
-(1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a State enterprise pursuant to section 24(1) of this Act, the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
-(2) Where any land that has been vested in a State enterprise pursuant to section 24(1) of this Act and for which no certificate of title has been issued in the name of that enterprise, is to be transferred to any other person, the District Land Registrar shall, before issuing a certificate of title, either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land and any other matters that the District Land Registrar considers appropriate.
-(3) A certificate in accordance with subsection (1) or subsection (2) shall be filed by the District Land Registrar in the Land Registry Office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated therein.
+(1) Before the Registrar-General of Land issues a record of title in respect of any land vested in a State enterprise pursuant to section 24(1) of this Act, the Registrar-General of Land shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the Registrar-General of Land considers appropriate.
+(2) Where any land that has been vested in a State enterprise pursuant to section 24(1) of this Act and for which no record of title has been issued in the name of that enterprise, is to be transferred to any other person, the Registrar-General of Land shall, before issuing a record of title, either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land and any other matters that the Registrar-General of Land considers appropriate.
+(3) A certificate in accordance with subsection (1) or subsection (2) shall be filed by the Registrar-General of Land and shall be conclusive evidence to the Registrar-General of Land of the matters required to be stated therein.
 
 ### 26A Certification of easements
-(1) Where land is vested in a State enterprise pursuant to section 24(1) of this Act subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under subsection (1) or subsection (2) of section 26 of this Act, as the case may be, a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
-(2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
-(3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
+(1) Where land is vested in a State enterprise pursuant to section 24(1) of this Act subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 2017, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under subsection (1) or subsection (2) of section 26 of this Act, as the case may be, a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
+(2) The Registrar-General of Land shall enter a memorial of the easement upon the relevant record of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
+(3) Where a memorial of an easement is entered upon the relevant record of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 2017.
 
 ### 27 Maori land claims
 The submission in respect of any land or interest in land of a claim under section 6 of the Treaty of Waitangi Act 1975 does not prevent the transfer of that land or of any interest in that land or of that interest in land—
   (a) by the Crown to a State enterprise; or
   (b) by a State enterprise to any other person.
 
-### 27A District Land Registrar to register necessary memorial
-(1) Where any land or interest in land is transferred to a State enterprise under section 23 or vested in a State enterprise by a notice in the Gazette under section 24 or by an Order in Council made under section 28, the District Land Registrar shall, without fee, note on the certificate of title the words Subject to section 27B of the State-Owned Enterprises Act 1986 (which provides for the resumption of land on the recommendation of the Waitangi Tribunal and which does not provide for third parties, such as the owner of the land, to be heard in relation to the making of any such recommendation).
+### 27A Registrar-General of Land to register necessary memorial
+(1) Where any land or interest in land is transferred to a State enterprise under section 23 or vested in a State enterprise by a notice in the Gazette under section 24 or by an Order in Council made under section 28, the Registrar-General of Land shall, without fee, note on the record of title the words Subject to section 27B of the State-Owned Enterprises Act 1986 (which provides for the resumption of land on the recommendation of the Waitangi Tribunal and which does not provide for third parties, such as the owner of the land, to be heard in relation to the making of any such recommendation).
 (2) Subsection (1) shall not apply in relation to any piece of land or interest in land that is excluded from section 27B by subsection (2) or subsection (3) of that section.
 
 ### 27B Resumption of land on recommendation of Waitangi Tribunal
@@ -289,7 +289,7 @@ The submission in respect of any land or interest in land of a claim under secti
 
 ### 27C Resumption of land to be effected under Public Works Act 1981
 (1) Where section 27B requires any land or interest in land to be resumed by the Crown, the Minister of Lands shall acquire that land or interest in land under Part 2 of the Public Works Act 1981 as if it were land or an interest in land required for both government work and a public work and Parts 2, 4, 5, 6, and 7 of that Act and Schedules 1, 3, 4, and 5 of that Act shall, subject to the modifications set out in Schedule 2A of this Act and to all other necessary modifications, apply accordingly.
-(2) The existence on the certificate of title to any land or interest in land acquired pursuant to subsection (1) of a memorial under section 27A of this Act shall not be taken into account in any assessment of compensation made under the Public Works Act 1981 in relation to the acquisition of that land or interest in land.
+(2) The existence on the record of title to any land or interest in land acquired pursuant to subsection (1) of a memorial under section 27A of this Act shall not be taken into account in any assessment of compensation made under the Public Works Act 1981 in relation to the acquisition of that land or interest in land.
 (3) The power conferred by this section does not include the power to acquire or take and to hold under section 28 of the Public Works Act 1981 any interest in land described in section 8A(6) of the Treaty of Waitangi Act 1975.
 
 ### 27D Resumption of wahi tapu
@@ -606,29 +606,6 @@ This Part and the Schedule shall be read together with and deemed part of the St
 (2) The rights conferred by sections 27 to 27D of the principal Act (as substituted by subsection (1)) are in substitution for the rights conferred by section 27 of the principal Act (as enacted in 1986) and no land or interest in land transferred to a State enterprise pursuant to this Act shall, after the commencement of this Act, be subject to paragraphs (b) and (c) of subsection (1) of the repealed section 27.
 
 ### 1 Short Title and commencement
-(1) This Act may be cited as the Finance Act (No 2) 1988.
-(2) Except as provided in section 6, this Act shall come into force on the date on which it receives the Royal assent.
-
-## Part 2 — Other substantive provisions
-
-### 6 Commencement
-(1) Subject to subsections (2) to (5), this Part shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made under this section bringing different provisions of this Part into force on different dates.
-(2) In the case of any provision of sections 8 to 11, a date may be appointed only where the Governor-General in Council is satisfied, at the time of the making of the Order in Council appointing the date for the coming into force of the provision, that at least 50% of the ordinary shares in the capital of Solid Energy New Zealand Limited are no longer held on behalf of Her Majesty the Queen.
-(3) In the case of any provision of sections 15 to 18, a date may be appointed only where the Governor-General in Council is satisfied, at the time of the making of the Order in Council appointing the date for the coming into force of the provision, that at least 50% of the ordinary shares in the capital of Government Property Services Limited are no longer held on behalf of Her Majesty the Queen.
-(4) In the case of any provision of sections 21 to 24, a date may be appointed only where the Governor-General in Council is satisfied, at the time of the making of the Order in Council appointing the date for the coming into force of the provision, that at least 50% of the ordinary shares in the capital of Crown Forestry Management Limited are no longer held on behalf of Her Majesty the Queen.
-(5) In the case of sections 25 and 26, a date may be appointed only where the Governor-General in Council is satisfied, at the time of the making of the Order in Council appointing the date for the coming into force of the section, that at least 50% of the ordinary shares in the capital of Air New Zealand Limited are no longer held on behalf of Her Majesty the Queen.
-
-**Government Property Services Limited**
-
-### 13 Amendment to State-Owned Enterprises Act 1986
-(1) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding the coming into force of subsection (1), sections 22 and 30 of the State-Owned Enterprises Act 1986 shall, so long as Ministers of the Crown continue to hold shares in Government Property Services Limited, continue to apply in relation to Government Property Services Limited as if it were a State enterprise and a company named in Schedule 2 of that Act.
-(3) Notwithstanding the coming into force of subsection (1) and whether or not all or any of the shares in Government Property Services Limited are held by Ministers of the Crown on behalf of the Crown, sections 23 to 29 of the State-Owned Enterprises Act 1986 and any Order in Council made at any time pursuant to any of those sections shall continue to apply after the coming into force of subsection (1) as if—
-  (a) Government Property Services Limited were a State enterprise named in Schedule 2 of that Act; and
-  (b) the Minister of Finance and the Minister for State-Owned Enterprises were the shareholding Ministers for Government Property Services Limited.
-(4) Each Minister of the Crown who holds shares in Government Property Services Limited on behalf of Her Majesty the Queen may exercise all or any of Her Majesty's rights and powers as the holder of those shares.
-
-### 1 Short Title and commencement
 (1) This Act may be cited as the Post Office Bank Amendment Act 1988, and shall be read together with and deemed part of the Post Office Bank Act 1987 (hereinafter referred to as the principal Act).
 (2) Subject to subsection (3), sections 2 to 6 shall come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made under this section bringing different provisions of those sections into force on different dates.
 (3) In the case of any provision of sections 3 to 6, a date may be appointed only where the Governor-General in Council is satisfied, at the time of the making of the Order in Council appointing the date for the coming into force of the provision, that at least 50% of the ordinary shares in the capital of Post Office Bank Limited are no longer held on behalf of Her Majesty the Queen.
@@ -694,34 +671,6 @@ This Act may be cited as the State-Owned Enterprises Amendment Act (No 3) 1990, 
     (ii) a purpose of exercising the power is or may be the obtaining of the benefits of sections 23 to 29 of that Act in relation to the transfer of Crown assets or liabilities to that company:
   (b) exercising, in relation to New Zealand Timberlands (Bay of Plenty) Limited, a power conferred by section 23 of that Act at or about the same time as shares in that company are transferred or disposed of.
 (2) This section shall be deemed to have come into force on 11 April 1990.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Finance Act 1991.
-(2) Except as provided in subsection (3), this Act shall come into force on the day on which it receives the Royal assent.
-(3) Sections 2 to 6, 10 to 13, 15 to 19, and 21 to 26 shall come into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
-(4) A date may be appointed pursuant to subsection (3) for bringing section 5 and section 6 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that at least 50% of the ordinary shares in Forestry Corporation of New Zealand Limited are no longer held by Ministers of the Crown on behalf of the Crown.
-(5)
-(6) A date may be appointed pursuant to subsection (3) for bringing section 11 and section 12 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that at least 50% of the ordinary shares in Government Supply Brokerage Corporation (N.Z.) Limited are no longer held by Ministers of the Crown on behalf of the Crown.
-(7) A date may be appointed pursuant to subsection (3) for bringing section 13 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that none of the ordinary shares in the capital of Government Supply Brokerage Corporation (N.Z.) Limited is held by Ministers of the Crown on behalf of the Crown.
-(8) A date may be appointed pursuant to subsection (3) for bringing section 18 and section 19 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that at least 50% of the ordinary shares in the capital of National Provident Management Company Limited are no longer held by Ministers of the Crown on behalf of the Crown.
-(9)
-(10) A date may be appointed pursuant to subsection (3) for bringing section 24 and section 25 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that at least 50% of the ordinary shares in Timberlands West Coast Limited are no longer held by Ministers of the Crown on behalf of the Crown.
-(11) A date may be appointed pursuant to subsection (3) for bringing section 26 into force only if the Governor-General is satisfied, at the time of the making of the Order in Council, that none of the ordinary shares in the capital of Timberlands West Coast Limited is held by Ministers of the Crown on behalf of the Crown.
-
-## Part 1 — State-owned enterprises
-
-**Timberlands West Coast Limited**
-
-### 23 Provision for Timberlands West Coast Limited to cease to be State enterprise
-(1) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding the coming into force of subsection (1), section 22 of the State-Owned Enterprises Act 1986 shall, so long as Ministers of the Crown continue to hold shares in Timberlands West Coast Limited (in this section called the Corporation), continue to apply in relation to the Corporation as if—
-  (a) the Corporation were a State enterprise; and
-  (b) the Minister of Finance and the Minister for State Owned Enterprises were the shareholding Ministers for the Corporation.
-(3) Amendment(s) incorporated in the Act(s).
-(4) Notwithstanding the coming into force of subsection (3) and whether or not all or any of the shares in the Corporation are held by Ministers of the Crown on behalf of the Crown, sections 23 to 30 of the State-Owned Enterprises Act 1986 and any Order in Council made at any time pursuant to any of those sections shall continue to apply after the coming into force of subsection (3) if—
-  (a) the Corporation were a State enterprise and a company named in Schedule 2 of that Act; and
-  (b) the Minister of Finance and the Minister for State Owned Enterprises were the shareholding Ministers for the Corporation.
-(5) Each Minister of the Crown who holds shares in the Corporation on behalf of Her Majesty the Queen may exercise all or any of Her Majesty's rights and powers as the holder of those shares.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the State-Owned Enterprises Amendment Act 1992, and shall be read together with and deemed part of the State-Owned Enterprises Act 1986 (hereinafter referred to as the principal Act).
@@ -823,5 +772,5 @@ This Act comes into force on 1 June 2002.
 (3) This subsection applies to the following references:
   (a) a reference to a survey plan:
   (b) a reference to a plan approved by a Chief Surveyor or the Surveyor-General:
-  (c) a reference to a plan deposited under the Land Transfer Act 1952:
-  (d) a reference to a plan to be noted, notified, registered, or recorded in the register under the Land Transfer Act 1952.
+  (c) a reference to a plan deposited under the Land Transfer Act 2017 or any enactment it replaced:
+  (d) a reference to a plan to be noted, notified, registered, or recorded in the register under the Land Transfer Act 2017 or any enactment it replaced.
