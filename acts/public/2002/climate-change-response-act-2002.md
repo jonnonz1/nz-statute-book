@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -340,10 +340,8 @@ In order to recognise and respect the Crown’s responsibility to give effect to
     (b) otherwise means registered in accordance with this Act
   - **registered forestry right** means a forestry right registered under the Forestry Rights Registration Act 1983
   - **registered lease** ,—
-    (a) in relation to a lease in respect of land registered under the Land Transfer Act 1952,—
-      (i) means a lease registered under that Act; and
-      (ii) includes a lease registered under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002:
-    (b) in relation to a lease in respect of land that is not registered under the Land Transfer Act 1952, means a lease registered under the Deeds Registration Act 1908
+    (a) in relation to a lease in respect of land registered under the Land Transfer Act 2017, means a lease registered under that Act:
+    (b) in relation to a lease in respect of land that is not registered under the Land Transfer Act 2017, means a lease registered under the Deeds Registration Act 1908
   - **Registrar** means the person appointed under section 11
   - **Registrar of Motor Vehicles** has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998
   - **Registry** means the Registry established in New Zealand for the purpose set out in section 10
@@ -3961,9 +3959,9 @@ If post-1989 forest land is affected by a natural event that permanently prevent
 ### 195 Notification of status of forest land
 (1) The EPA must, if required by regulations made under section 168, notify the following persons of the details of the land that the EPA is satisfied is pre-1990 forest land, pre-1990 offsetting forest land, or post-1989 forest land in respect of which a person has registered as a participant under section 57, or that the EPA has declared to be exempt land:
   (a) the Registrar of the Maori Land Court in whose jurisdiction the land is situated in relation to Maori land; and
-  (b) the Registrar-General of Land in relation to land registered or provisionally registered under the Land Transfer Act 1952; and
+  (b) the Registrar-General of Land in relation to land registered under the Land Transfer Act 2017; and
   (c) the Registrar of Deeds in relation to land that is registered under the Deeds Registration Act 1908.
-(2) On receipt of a notice under subsection (1), the Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must record the notice on the appropriate register under the Land Transfer Act 1952, record of the Maori Land Court, or deeds index under the Deeds Registration Act 1908.
+(2) On receipt of a notice under subsection (1), the Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must record the notice on the appropriate register under the Land Transfer Act 2017, record of the Maori Land Court, or deeds index under the Deeds Registration Act 1908.
 (3) The Registrar-General of Land or the Registrar of the Maori Land Court or the Registrar of Deeds must cancel any notices recorded under subsection (2) if required under regulations made under section 168.
 
 **Transitional provisions**
