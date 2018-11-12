@@ -1,5 +1,5 @@
 # Succession (Homicide) Act 2007
-_Consolidation as at 2007-10-18_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Succession (Homicide) Act 2007.
@@ -94,10 +94,10 @@ A killer is not entitled to apply under the Family Protection Act 1955 for provi
 When applying section 88(2) of the Property (Relationships) Act 1976, the court must treat the refusal of leave under that provision as causing a serious injustice if the refusal of leave would allow the killer to retain a more certain or more valuable interest in the property.
 
 ### 13 Caveat against dealing with land
-(1) If an interested person claims that an owner of an undivided estate or interest in land as a joint tenant with a victim is the killer of that victim, the interested person may lodge a caveat in accordance with section 137 of the Land Transfer Act 1952 in respect of that estate or interest.
+(1) If an interested person claims that an owner of an undivided estate or interest in land as a joint tenant with a victim is the killer of that victim, the interested person may lodge a caveat in accordance with section 138 of the Land Transfer Act 2017 in respect of that estate or interest.
 (2) For as long as a caveat under this section remains in force, the Registrar-General of Land must not register a transmission on survivorship to the alleged killer, or the alleged killer and any other joint tenant, of any estate or interest affected by the caveat.
-(3) The provisions of the Land Transfer Act 1952, other than section 141(1), apply to a caveat lodged under this section.
-(4) Section 141(2) and (3) of the Land Transfer Act 1952 apply, with any necessary modifications, in respect of a caveat lodged under this section.
+(3) The provisions of the Land Transfer Act 2017, other than section 140(1), apply to a caveat lodged under this section.
+(4) Sections 140(2) and (3) and 141 of the Land Transfer Act 2017 apply, with any necessary modifications, in respect of a caveat lodged under this section.
 
 ### 14 Evidential effect of conviction in New Zealand
 (1) The conviction in New Zealand of a person for the homicide of another person or a child that has not become a person is conclusive evidence for the purposes of this Act that the person is guilty of that homicide, unless that conviction has been quashed.
