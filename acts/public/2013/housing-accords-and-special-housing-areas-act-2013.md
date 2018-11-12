@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2017-08-25_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
@@ -489,7 +489,7 @@ Section 224 of the Resource Management Act 1991 applies to all survey plans that
 (1) Section 228 of the Resource Management Act 1991 applies to a survey plan described in subsection (2) that has been approved by an authorised agency under section 45 of this Act—
   (a) as if every reference to a territorial authority were a reference to the authorised agency; and
   (b) with all other necessary modifications.
-(2) The survey plan referred to in subsection (1) is a survey plan that relates to a subdivision for a qualifying development, by or on behalf of a Minister of the Crown, of land not subject to the Land Transfer Act 1952.
+(2) The survey plan referred to in subsection (1) is a survey plan that relates to a subdivision for a qualifying development, by or on behalf of a Minister of the Crown, of land not subject to the Land Transfer Act 2017.
 
 ### 48 Other provisions relating to survey plans
 (1) Sections 225, 226, 231, 232, 236, 237, 237A, and 240 to 243 of the Resource Management Act 1991 apply to the survey plans, covenants, and other matters referred to in subsection (2)—
