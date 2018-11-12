@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -155,7 +155,7 @@ The purposes of this Act are—
     (a) entered into by—
       (i) the existing consumer; or
       (ii) any person with a greater interest in the property than the consumer (such as the consumer's landlord); or
-      (iii) any body corporate under the Unit Titles Act 2010 or the registered proprietor of the land to which the unit plan relates; and
+      (iii) any body corporate under the Unit Titles Act 2010 or the registered owner of the land to which the unit plan relates; and
     (b) entered into by the electricity distributor or the electricity retailer; and
     (c) entered into before or after the date on which this provision comes into force.
 (4) The new definition of point of supply in subsection (3)—
