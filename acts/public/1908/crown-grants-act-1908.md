@@ -1,5 +1,5 @@
 # Crown Grants Act 1908
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to grants of land by the Crown
 
@@ -143,9 +143,9 @@ Where a dispute arises as to the person to whom any Crown grant of land ought to
 (2) Nothing in this section shall operate upon or affect the preparation and issue of Crown grants of land to derivative purchasers claiming under contracts with the New Zealand Company.
 
 ### 32 Delivery of grant to successor in title of grantee
-(1) In any case under the last preceding section, and in any case where the land comprised in any Crown grant has been transferred before the delivery of the grant, the Chief Surveyor or other person charged with the delivery of Crown grants may, at his discretion, transmit the grant to the District Land Registrar of the district, who shall ascertain the person to whom the grant should be delivered as representative of the grantee, and shall deliver the same to such person accordingly.
-(2) The District Land Registrar shall not be liable to any action or other proceeding for or in respect of the delivery of any such grant, if such delivery be made in the bona fide exercise or supposed exercise of his duty under this Act.
-(3) No certificate of title under the Land Transfer Act 1952 shall be issued in lieu of any such grant until all the fees on the grant have been paid.
+(1) In any case under the last preceding section, and in any case where the land comprised in any Crown grant has been transferred before the delivery of the grant, the Chief Surveyor or other person charged with the delivery of Crown grants may, at his discretion, transmit the grant to the Registrar-General of Land, who shall ascertain the person to whom the grant should be delivered as representative of the grantee, and shall deliver the same to such person accordingly.
+(2) The Registrar-General of Land shall not be liable to any action or other proceeding for or in respect of the delivery of any such grant, if such delivery be made in the bona fide exercise or supposed exercise of his duty under this Act.
+(3) No record of title under the Land Transfer Act 2017 shall be issued in lieu of any such grant until all the fees on the grant have been paid.
 
 ### 33 Entries by Registrar where grant cancelled
 (1) Where a grant has been cancelled under section 11 by reason of the name of any person not entitled to the land having been inserted therein by mistake, every entry in the books of a Registrar of Deeds relating to such land shall be cancelled by writing opposite thereto, or across the face thereof, a memorandum in the words Cancelled by authority of the Crown Grants Act 1908.
@@ -169,7 +169,7 @@ Where in any grant the ocean, sea, or any sound, bay, or creek, or any part ther
 Whenever in any Crown grant there has been or hereafter may be reserved rights at any time to take part of the land comprised therein for railways or other public works of any kind, the provisions of section 36 shall apply as if references in that section to roads were references to railways or those other public works, as the case may be:provided that, where before the commencement of this section any land was taken for railways or other public works after the period of 5 years from the issue of the grant, no compensation shall be claimed by or paid to the owner of the land.
 
 ### 36B Removal of lapsed reservations from title
-Where any reservation in any Crown grant to take part of the land for roads or railways or other public works of any kind lapses through effluxion of time, the District Land Registrar may enter a memorial in the register that the reservation has lapsed.
+Where any reservation in any Crown grant to take part of the land for roads or railways or other public works of any kind lapses through effluxion of time, the Registrar-General of Land may enter a memorial in the register that the reservation has lapsed.
 
 ### 37 Roadway to include railway
 Where, by express words in any grant, or by implication from the exercise of any power given by an Act of the Parliament of New Zealand, the right to take a road through the land granted is reserved to the Crown, that right shall be deemed to include the right to make a railway over and upon the reserved roadway.
