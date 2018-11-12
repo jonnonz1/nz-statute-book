@@ -1,5 +1,5 @@
 # Maori Affairs Restructuring Act 1989
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for the restructuring of the Department of Maori Affairs to form the Iwi Transition Agency, to abolish the Board of Maori Affairs and transfer its programmes to the General Manager of the Iwi Transition Agency, and to transfer the administration of the Maori Land Courts to the Department of Justice
 
@@ -61,7 +61,7 @@ This Act binds the Crown.
   (a) executed or purporting to be executed by the Iwi Transition Agency or by the General Manager of the Iwi Transition Agency; and
   (b) relating to any property held immediately before 1 October 1989 by the Department of Maori Affairs or (as the case may require) by the Board of Maori Affairs; and
   (c) containing a recital that the property has become vested in the Iwi Transition Agency or (as the case may require) in the General Manager of the Iwi Transition Agency,—
-(2) Except as provided in subsection (1), nothing in this Act shall derogate from the provisions of the Land Transfer Act 1952.
+(2) Except as provided in subsection (1), nothing in this Act shall derogate from the provisions of the Land Transfer Act 2017.
 
 ## Part 2 — Maori land development
 
@@ -99,14 +99,14 @@ While any land that is for the time being subject to this Part is not in the occ
 
 ### 20 Crown land may be made subject to this Part
 (1) With the consent of the Minister of Lands, granted upon such terms and conditions as that Minister thinks fit, the chief executive may declare any Crown land within the meaning of the Land Act 1948 to be subject to this Part.
-(2) Where pursuant to this section any Crown land has been declared to be subject to this Part, the District Land Registrar shall, at the request of the chief executive, issue in the name of Her Majesty a certificate of title for an estate in fee simple in the land.
+(2) Where pursuant to this section any Crown land has been declared to be subject to this Part, the Registrar-General of Land shall, at the request of the chief executive, issue in the name of Her Majesty a certificate of title for an estate in fee simple in the land.
 (3) Notwithstanding any Act or rule of law to the contrary, the fee simple estate in the land shall not be merged in any other interest possessed by Her Majesty, but shall enure as a separate estate available for the purposes of this Part.
 
 ### 21 Land subject to this Part may be excluded from Part
 The chief executive may at any time by notice in the Gazette declare that any land that is for the time being subject to this Part shall cease to be subject to it, and every such notice shall have effect according to its tenor.
 
 ### 22 Notices may be registered against title
-Any notice declaring any land to be subject to this Part, or declaring that any land has ceased to be subject to this Part, shall be registered by the District Land Registrar, without payment of any fee, against the title to the land affected by the notice, on receipt by the District Land Registrar of a copy of the Gazette in which the notice is published, or of a certified copy of the notice under the hand of the chief executive.
+Any notice declaring any land to be subject to this Part, or declaring that any land has ceased to be subject to this Part, shall be registered by the Registrar-General of Land, without payment of any fee, against the title to the land affected by the notice, on receipt by the Registrar-General of Land of a copy of the Gazette in which the notice is published, or of a certified copy of the notice under the hand of the chief executive.
 
 ### 23 Record of valuations to be kept
 (1) When any land is declared to be subject to this Part, the chief executive shall cause to be made a record of the state and condition of the land as at the date of the notice.
@@ -178,7 +178,7 @@ Any land that is subject to this Part may be used by the chief executive as a ba
 Every lease under this Part shall be granted to a Maori or to 2 or more Maori unless in the case of any particular area the chief executive is of the opinion that there is no Maori who, being ready and willing to become a lessee, is a fit and proper person to be a lessee of that land.
 
 ### 33 Leases may be registered against land without production of title
-Every lease granted under this Part in respect of land that is subject to the Land Transfer Act 1952 may be registered in the same manner as if it had been lawfully granted by the legal owner of the land demised, and for the purposes of registration it shall not be necessary to produce the certificate or certificates of title.
+Every lease granted under this Part in respect of land that is subject to the Land Transfer Act 2017 may be registered in the same manner as if it had been lawfully granted by the legal owner of the land demised.
 
 ### 34 Term of leases in respect of Maori land or land owned by Maori
 (1) Every lease granted under this Part in respect of Maori freehold land or of General land owned by Maori shall be for such term as the chief executive thinks fit, not exceeding in any case a term of 50 years (including any term or terms of renewal to which the lessee may be entitled).
@@ -248,7 +248,7 @@ Notwithstanding anything in the foregoing provisions of this Part or in any leas
 (2) The compensation payable to any such lessee shall, when it becomes due and payable, be paid by the Māori Trustee out of money invested for the purpose in accordance with this section.
 (3) If the money available for the payment of compensation exceeds the amount payable as compensation to the lessee, the Māori Trustee shall, in accordance with the directions of the chief executive, pay the surplus to the persons entitled to it.
 (4) If the money available is insufficient to pay the lessee the full amount of the compensation to which the lessee is entitled, the deficiency shall be paid as an advance out of public money appropriated by Parliament or money otherwise available for the purposes of this Part, and the land in respect of which any such advance is made shall be charged with the payment of the amount so advanced, together with interest at a rate to be fixed by the Minister of Finance. Where the land so charged is comprised in 2 or more separate titles, the court, on the application of the chief executive, shall apportion the charge between the lands comprised in the several titles or may exclude from the charge the area or areas comprised in any of those titles.
-(5) In respect of any charge imposed under this section, the chief executive may execute a memorial of charge against the land affected, and any such memorial of charge may be registered against the title to the land by the District Land Registrar or the Registrar of Deeds, as the case may be, of the land registration district in which the land is situated; and when so registered the memorial of charge shall have the same force and effect as if it were a valid mortgage to Her Majesty of all the land described in it to secure the repayment of the principal money and the payment of interest; and the power of sale and all other powers implied by the Property Law Act 2007 in mortgages over land shall be implied in the memorial.
+(5) In respect of any charge imposed under this section, the chief executive may execute a memorial of charge against the land affected, and any such memorial of charge may be registered against the title to the land by the Registrar-General of Land or the Registrar of Deeds, as the case may be; and when so registered the memorial of charge shall have the same force and effect as if it were a valid mortgage to Her Majesty of all the land described in it to secure the repayment of the principal money and the payment of interest; and the power of sale and all other powers implied by the Property Law Act 2007 in mortgages over land shall be implied in the memorial.
 (6) The principal money secured under any such memorial of charge shall be due upon a date to be specified in it in that behalf. Interest at the rate fixed in accordance with subsection (4) shall be payable on the dates to be specified in the memorial.
 
 ### 44 Compensation for improvements to lessees of Crown land
@@ -312,7 +312,7 @@ The rent received in respect of any Crown land that is subject to this Part shal
 
 ### 55 Variation and registration of charges
 (1) Subject to any regulations made for the purposes of this Part, the court may at any time, on the application of the chief executive but not otherwise, vary or revoke any order made under section 53 or section 54.
-(2) Any charge imposed in respect of any land by or pursuant to either of those sections may be registered under the Land Transfer Act 1952 or the Deeds Registration Act 1908, as the case may require.
+(2) Any charge imposed in respect of any land by or pursuant to either of those sections may be registered under the Land Transfer Act 2017 or the Deeds Registration Act 1908, as the case may require.
 (3) A certificate given on behalf of the chief executive that the amount secured by any such charge has been paid or otherwise satisfied in whole or in part shall be accepted as sufficient evidence of the satisfaction or discharge, and may be registered in the same manner as the charge.
 
 ### 56 Enforcement of charges
@@ -358,7 +358,7 @@ Without prejudice to any provision of this Part, the chief executive may from ti
 (1) For any of the purposes of this Part, the chief executive may purchase or otherwise acquire on behalf of the Crown any land or interest in land or the right to cut and remove trees or timber or to take any other substance from any land.
 (2) The chief executive may sell, lease, or otherwise dispose of any land, interest, or right acquired under this section, and may from time to time sell or otherwise dispose of any trees, timber, or other substance cut, removed, or taken pursuant to any right so acquired.
 (3) Where any land or interest in land has been acquired by the chief executive pursuant to this section, the estate or interest in the land so acquired shall not merge or be deemed to have merged in any other interest possessed by Her Majesty in that land, notwithstanding anything to the contrary in any other Act or in any rule of law, but shall enure as a separate estate or interest.
-(4) On the production of a certificate given by or on behalf of the chief executive that any land or interest in land has been acquired by the chief executive pursuant to this section, the District Land Registrar shall endorse on the certificate of title or other relevant instrument of title a memorial that the land has been acquired pursuant to this Part, and may, on production of a further certificate, cancel the memorial as to the whole or any part of that land or interest.
+(4) On the production of a certificate given by or on behalf of the chief executive that any land or interest in land has been acquired by the chief executive pursuant to this section, the Registrar-General of Land must record on the record of title a memorial that the land has been acquired pursuant to this Part, and may, on production of a further certificate, cancel the memorial as to the whole or any part of that land or interest.
 
 ### 63 Acquisition of land by chief executive for owners of scheme
 (1) The chief executive, in the name of the Crown, may purchase or otherwise acquire, for the purposes of this Part any land or interest in land on behalf of the owners of any Maori land or General land owned by Maori that is subject to this Part.
@@ -367,7 +367,7 @@ Without prejudice to any provision of this Part, the chief executive may from ti
 ### 64 Land may be vested in owners
 (1) On application by the chief executive, the court may make a vesting order vesting any land or interest in land acquired pursuant to section 63, in the persons on whose behalf it was acquired, subject to any lease, licence, mortgage, charge, or other encumbrance affecting it.
 (2) Instead of making a vesting order under this section, the court, if it thinks it convenient to do so, may amend any existing instrument of title so as to include the land to be vested. Any land included pursuant to this subsection in an existing instrument of title shall have the same status, as General land or Maori freehold land, as the land originally comprised in the instrument.
-(3) The District Land Registrar is hereby authorised to make all such alterations and amendments in the register and to issue such new certificates of title as may be necessary to give effect to any order made by the court under this section.
+(3) The Registrar-General of Land is hereby authorised to make all such alterations and amendments in the register and to issue such new records of title as may be necessary to give effect to any order made by the court under this section.
 (4) To facilitate the disposal of any land or interest in land acquired by the chief executive under section 62, the court shall have and, on the application of the chief executive, may exercise the jurisdiction given by the foregoing subsections of this section as if the land or interest had been acquired under section 63 on behalf of the persons in whom the land or interest is to be vested.
 
 ### 65 Chief executive may grant or acquire easements
@@ -496,22 +496,22 @@ Nothing in this Part shall prevent the chief executive from receiving, from the 
 [Repealed]
 
 ### 86A Provisional registration of mortgages to Crown or State Loan Department
-(1) This section shall apply in any case where a memorandum of mortgage to Her Majesty or to a State Loan Department affecting any area of Maori freehold land, or a memorandum of lease or other disposition of any such land, cannot be immediately registered under the Land Transfer Act 1952 by reason of the fact that any order of the court constituting the title to that land has not been so registered.
-(2) In any case to which this section applies, the Registrar of the court, on request made by or on behalf of the mortgagee, shall forward to the District Land Registrar of the district in which the land is situated a certificate under his or her hand setting forth with respect to the land the following particulars:
+(1) This section shall apply in any case where a memorandum of mortgage to Her Majesty or to a State Loan Department affecting any area of Maori freehold land, or a memorandum of lease or other disposition of any such land, cannot be immediately registered under the Land Transfer Act 2017 by reason of the fact that any order of the court constituting the title to that land has not been so registered.
+(2) In any case to which this section applies, the Registrar of the court, on request made by or on behalf of the mortgagee, shall forward to the Registrar-General of Land a certificate under his or her hand setting forth with respect to the land the following particulars:
   (a) the kind or order constituting the title to the land to which the mortgage relates:
   (b) the date of the order:
   (c) the description of the land as shown in the order:
   (d) the area or approximate area of the land as appearing in the order:
   (e) the name or names of the person entitled under the order, and, if more than 1, their several shares or interests in the land.
-(3) On receipt of any such certificate, the District Land Registrar shall proceed to register the same in accordance with the following provisions of this section.
-(4) If the title to the land affected by the order referred to in the certificate is registered or provisionally registered under the Land Transfer Act 1952, the District Land Registrar shall register the certificate against the title in the register or the provisional register, as the case may be.
-(5) If the title to the land is not so registered or provisionally registered, the District Land Registrar shall embody the certificate in the provisional register as a separate folium, and, except as otherwise provided in this section, all the provisions of the Land Transfer Act 1952 as to provisional registration shall apply accordingly.
+(3) On receipt of any such certificate, the Registrar-General of Land must register the certificate in accordance with the following provisions of this section.
+(4) If the title to the land affected by the order referred to in the certificate is registered under the Land Transfer Act 2017, the Registrar-General of Land must register the certificate against the record of title for the land.
+(5) If the title to the land is not registered under the Land Transfer Act 2017, the Registrar-General of Land must register the certificate by issuing a qualified record of title for the land.
 (6) On the registration of a certificate under this section, no instrument in respect of the land referred to in the certificate shall thereafter be registered except—
   (a) a mortgage or memorial of charge in favour of Her Majesty or of a State Loan Department; or
   (b) an order made by the court creating or evidencing a charge in favour of Her Majesty or of a State Loan Department; or
-  (c) an order of the court or other instrument (including a memorandum of lease) transferring, transmitting, or otherwise conferring title to or on any person who has executed any such mortgage or whose interest in the land is subject to any such charge; or
+  (c) an order of the court or other instrument (including a lease instrument) transferring, transmitting, or otherwise conferring title to or on any person who has executed any such mortgage or whose interest in the land is subject to any such charge; or
   (d) an instrument evidencing the discharge of any such mortgage or charge or any dealing with it.
-(7) On deposit for registration of the order of the court constituting the title to any land, the District Land Registrar shall cancel the registration of the certificate given by the Registrar of the court and, as the circumstances require, shall issue a certificate of title in respect of the land or register the order of the court in the provisional register, and in either case shall transfer to the appropriate folium of the register or provisional register all entries and memorials then appearing in the register or the provisional register in respect of land comprised in the order of the court.
+(7) On deposit for registration of the order of the court constituting the title to any land, the Registrar-General of Land must cancel the registration of the certificate given by the Registrar of the court and must issue a record of title (which may be a record of title qualified as described in section 17(1)﻿(a) of the Land Transfer Act 2017), and transfer to the record of title all entries and memorials then appearing in the register in respect of land comprised in the order of the court.
 (8) For the purposes of this section, the term State Loan Department means any of the following:
   (a) Public Trust:
   (b) Housing New Zealand Corporation:
