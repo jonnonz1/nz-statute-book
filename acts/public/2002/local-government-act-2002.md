@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -3170,7 +3170,7 @@ Until a development contribution required in relation to a development has been 
   (b) in the case of a development contribution required under section 198(1)﻿(b), withhold a code compliance certificate under section 95 of the Building Act 2004:
   (ba) in the case of a development contribution required under section 198(4A), withhold a certificate of acceptance under section 99 of the Building Act 2004:
   (c) in the case of a development contribution required under section 198(1)﻿(c), withhold a service connection to the development:
-  (d) in each case, register the development contribution under the Statutory Land Charges Registration Act 1928, as a charge on the title of the land in respect of which the development contribution was required.
+  (d) in each case, register the development contribution under subpart 5 of Part 3 of the Land Transfer Act 2017, as a charge on the title of the land in respect of which the development contribution was required.
 
 **Refund of development contributions**
 
@@ -3289,7 +3289,7 @@ If a party to proceedings under this subpart appeals to the High Court under Par
   (b) remove or alter the fence, structure, or vegetation, or arrange for its removal or alteration in accordance with the terms of the removal order; and
   (c) sell or otherwise dispose of structures or materials salvaged in complying with the order; and
   (d) after allowing for any money received under paragraph (c), recover the costs and expenses incurred in carrying out the terms of the removal order as a debt from the respondent.
-(3) Costs or expenses that remain unpaid under subsection (2)﻿(d) may be registered under the Statutory Land Charges Registration Act 1928 as a charge on a property in respect of which a removal order is made.
+(3) Costs or expenses that remain unpaid under subsection (2)﻿(d) may be registered under subpart 5 of Part 3 of the Land Transfer Act 2017 as a charge on a property in respect of which a removal order is made.
 (4) Section 40 of the Building Act 2004 does not apply to the removal or alteration of a fence, structure, or vegetation in accordance with this section.
 
 ### 221 Limits to power of entry to enforce compliance
@@ -6395,8 +6395,8 @@ A failure by a council-controlled organisation to comply with any provision of t
 (2) However, after the transfer, sections 40 and 41 of that Act apply to that land as if the council-controlled organisation were a local authority and the land had not been transferred under this Act.
 
 ### 3 Obligation to lodge caveat
-(1) The rights of persons from whom land was acquired and their successors to have land offered to them under section 40(2) of the Public Works Act 1981 are deemed interests in land for the purposes of section 137 of the Land Transfer Act 1952, and the local authority that transfers the land to a council-controlled organisation under this Act must lodge an appropriate caveat.
-(2) In stating the interest claimed by the caveator in a caveat lodged under subclause (1), it is sufficient, for the purposes of section 138 of the Land Transfer Act 1952, to refer to sections 40 to 42 of the Public Works Act 1981 and to this clause.
+(1) The rights of persons from whom land was acquired and their successors to have land offered to them under section 40(2) of the Public Works Act 1981 are deemed interests in land for the purposes of section 138 of the Land Transfer Act 2017, and the local authority that transfers the land to a council-controlled organisation under this Act must lodge an appropriate caveat.
+(2) In stating the interest claimed by the caveator in a caveat lodged under subclause (1), it is sufficient to refer to sections 40 to 42 of the Public Works Act 1981 and to this clause.
 
 ### 4 Transfer of liabilities in relation to undertakings
 (1) A local authority may transfer its liabilities in relation to an undertaking to a council-controlled organisation if the transfer is agreed to by—
