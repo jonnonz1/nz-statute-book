@@ -1,5 +1,5 @@
 # Land Drainage Act 1908
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the drainage of land
 
@@ -390,8 +390,8 @@ Any arrangement entered into by or on behalf of any adjoining owner under any di
 ### 70 Compensation to other persons interested
 Any person interested other than the adjoining owner shall be entitled to compensation for any injury he may sustain by the making of the proposed drains or improvements in drains, if the claim therefor is made within 12 months after completion of such drains or improvements in drains, the amount of such compensation to be determined, in case of dispute, in the manner in which disputed compensation for land is required to be determined by the Public Works Act 1981.
 
-### 71 Deed of assent to be filed in Registry Office
-The applicant shall deposit in the office of the Registrar of Deeds or District Land Registrar for the registration district wherein the land affected by such deed is situate the deed containing the assent of the adjoining owner to the proposed drains or improvements in drains, and the Registrar, on receipt of the deposit fees (if any), shall file the same in his office as a record of the proceedings between the parties.
+### 71 Deed of assent to be filed with Registrar-General of Land
+The applicant shall deposit in the office of the Registrar of Deeds or Registrar-General of Land the deed containing the assent of the adjoining owner to the proposed drains or improvements in drains, and the Registrar, on receipt of the deposit fees (if any), shall file the same in his office as a record of the proceedings between the parties.
 
 ### 72 Dissent of adjoining owner
 (1) The adjoining owner shall be deemed to have dissented from the application made to him if he fails to express his assent thereto within one month after the service of the application on him.
@@ -408,7 +408,7 @@ The applicant shall deposit in the office of the Registrar of Deeds or District 
 Where any compensation assessed under section 70 hereof or under the last preceding section is payable to any person under disability or incapacity, or not entitled to receive the same for his own benefit, such compensation shall be applied in the manner in which compensation awarded to parties having limited interests, or prevented from treating and not making title, may be applied under the Public Works Act 1981.
 
 ### 75 Duty of District Court Judge, etc
-The District Court Judge, sitting as aforesaid, in the event of his approving of a scheme of drainage as proposed by the applicant or as modified by the District Court Judge, shall cause a map thereof to be prepared, and it shall be the duty of the applicant to forward the same to the Registrar of Deeds or District Land Registrar for the registration district wherein the lands are situate, and such Registrar shall, upon payment of a fee of 10 shillings, file the same in his office as a record of the proceedings between the parties.
+The District Court Judge, sitting as aforesaid, in the event of his approving of a scheme of drainage as proposed by the applicant or as modified by the District Court Judge, shall cause a map thereof to be prepared, and it shall be the duty of the applicant to forward the same to the Registrar of Deeds or Registrar-General of Land, and such Registrar shall, upon payment of a fee of 10 shillings, file the same in his office as a record of the proceedings between the parties.
 
 ### 76 Power of applicant to clear drains
 (1) After drains have been opened or improvements in drains made under this Part of this Act, it shall be lawful for the applicant, and his successors in title for ever thereafter, from time to time, as it becomes necessary, to enter upon the lands through which such drains have been opened or improvements in drains made, for the purpose of clearing out, scouring, and otherwise maintaining the same in a due state of efficiency.
