@@ -1,5 +1,5 @@
 # Limitation Act 2010
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Limitation Act 2010.
@@ -202,9 +202,9 @@ In determining whether to make an order under section 17, the specified court or
 **Claims in respect of land**
 
 ### 19 How Act applies to land
-(1) This Act applies to land, including Crown land, land subject to the Land Transfer Act 1952, and land registered under the Deeds Registration Act 1908.
+(1) This Act applies to land, including Crown land, land subject to the Land Transfer Act 2017, and land registered under the Deeds Registration Act 1908.
 (2) However, no provision in Parts 2 and 3, except section 28, applies to Maori customary land.
-(3) In the event of any inconsistency between this Act and the Land Act 1948, the Land Transfer Act 1952 or, as the case may be, section 51 of the Public Works Act 1981, that Act or section prevails.
+(3) In the event of any inconsistency between this Act and the Land Act 1948, the Land Transfer Act 2017 or, as the case may be, section 51 of the Public Works Act 1981, that Act or section prevails.
 
 ### 20 Crown owned minerals unaffected
 Nothing in this Act affects any property or title in, right to, or ownership of, any Crown owned minerals (as defined in section 2(1) of the Crown Minerals Act 1991).
@@ -244,7 +244,7 @@ Nothing in this Act affects any property or title in, right to, or ownership of,
 
 ### 25 Restriction on redemption of mortgaged land
 (1) This section applies to a mortgage of land—
-  (a) only if none of that land is subject to the Land Transfer Act 1952; and
+  (a) only if none of that land is subject to the Land Transfer Act 2017; and
   (b) only if, and after, the mortgagee has been in possession of all or any of that land for 12 years.
 (2) After the mortgage has become one to which this section applies, no court or tribunal may grant relief in respect of a claim—
   (a) to redeem the land of which the mortgagee has been in possession for at least 12 years; and
