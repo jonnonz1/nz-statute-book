@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -45,7 +45,7 @@ _Consolidation as at 2018-10-24_
   - **notifiable disease** means any notifiable infectious disease, and any disease for the time being specified in Schedule 2
   - **notifiable infectious disease** means any infectious disease for the time being specified in Part 1 of Schedule 1
   - **offensive trade** means any trade, business, manufacture, or undertaking for the time being specified in Schedule 3
-  - **owner** , in relation to any land or premises, means the person for the time being entitled to receive the rent of the land or premises, whether on his own account or as the agent of or trustee for any other person, or who would be so entitled if the land or premises were let at a rent, and includes any person for the time being registered under the Land Transfer Act 1952 as the proprietor of the land or premises
+  - **owner** , in relation to any land or premises, means the person for the time being entitled to receive the rent of the land or premises, whether on his own account or as the agent of or trustee for any other person, or who would be so entitled if the land or premises were let at a rent, and includes any person for the time being registered under the Land Transfer Act 2017 as owner of the land or premises
   - **passenger** , in relation to a craft means any person in or on it who is not a member of its crew
   - **personal health** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **personal health services** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
@@ -527,7 +527,7 @@ Every person commits an offence against this Act who, being the owner or occupie
 (2) Notwithstanding any covenant or agreement to the contrary, any expenses incurred by any mortgagee pursuant to this section shall be recoverable by the mortgagee from the owner as a debt due to the mortgagee by the owner.
 (3) Without limiting subsection (2), on notice in writing to the mortgagor by the mortgagee, any such expenses incurred by the mortgagee shall be deemed to be added to the principal sum owing under the mortgage and to be secured thereby; and, if the mortgagor is not the owner, the amount so deemed to be added shall be recoverable by the mortgagor from the owner as a debt due to the mortgagor by the owner.
 (4) The exercise by a mortgagee of the powers conferred by this section shall not relieve any person from liability to any penalty for failure to comply with the requirements of any of the provisions of this Act specified in subsection (1).
-(5) In this section the term mortgagee, in relation to a dwellinghouse, means a mortgagee of the land under a mortgage that is registered under the Deeds Registration Act 1908 or the Land Transfer Act 1952, or in respect of which a caveat is lodged with the appropriate District Land Registrar; and includes the holder of any charge on the land that is duly registered pursuant to the Statutory Land Charges Registration Act 1928.
+(5) In this section the term mortgagee, in relation to a dwellinghouse, means a mortgagee of the land under a mortgage that is registered under the Deeds Registration Act 1908 or the Land Transfer Act 2017, or in respect of which a caveat is lodged with the Registrar-General of Land; and includes the holder of any charge on the land that is duly registered pursuant to subpart 5 of Part 3 of the Land Transfer Act 2017.
 
 ### 53B Provisions where owner is a trustee
 Where any owner who is a trustee is served with an order or a notice under any of sections 41, 42, 44, and 46, he may, notwithstanding anything to the contrary in the instrument (if any) creating the trust,—
@@ -3336,7 +3336,7 @@ For the purposes of this Act any medical officer of health, or any health protec
 Where by this Act any money is declared to be a charge on any land the following provisions shall apply:
   (a) if any question or dispute arises as to the fact or amount of the charge, or as to the land subject thereto, or as to the persons liable to pay the amount of the charge, it shall be determined by the District Court on the application of any interested party, and the court's decision shall be final:
   (b) subject to any decision of the court, a certificate under the hand of the medical officer of health or of the mayor, chairperson, or chief executive of the local authority is sufficient evidence of the amount of the charge, the land subject to the charge, and the persons liable to pay the amount of the charge:
-  (c) the charge may be registered under the provisions of the Statutory Land Charges Registration Act 1928:
+  (c) the charge may be registered under the provisions of subpart 5 of Part 3 of the Land Transfer Act 2017:
   (d) except as hereinafter provided, the charge shall, on registration, have priority over all existing or subsequent mortgages, charges, or encumbrances howsoever created. Notwithstanding anything to the contrary in any other Act, if any land subject to the charge is also subject to a charge created by that other Act, the charges shall rank equally with each other unless by virtue of that other Act the charge created thereby would be deferred to the charge created by this Act.
 
 ### 132A Bursaries
