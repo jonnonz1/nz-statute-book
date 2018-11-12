@@ -1,5 +1,5 @@
 # Crown Research Institutes Act 1992
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for the formation of Crown-owned companies to undertake scientific research and other related activities, and to provide for matters incidental thereto
 
@@ -11,7 +11,7 @@ _Consolidation as at 2014-12-01_
 In this Act, unless the context otherwise requires,—
   - **board** , in relation to a Crown Research Institute or a Crown entity subsidiary of a Crown Research Institute, has the same meaning as in section 127 of the Companies Act 1993
   - **constitution** , in relation to a Crown Research Institute, means the constitution of the Crown Research Institute under section 29 of the Companies Act 1993
-  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)﻿(c) of the Crown Entities Act 2004
   - **Crown Research Institute** means a company established as a Crown Research Institute under section 11
   - **financial statements** , in relation to a Crown Research Institute, means—
     (a) group financial statements within the meaning of section 7 of the Financial Reporting Act 2013 for the group comprising the Crown Research Institute and its Crown entity subsidiaries; or
@@ -53,7 +53,7 @@ The purpose of every Crown Research Institute is to undertake research.
 
 ### 6 Ministers and their role
 (1) The shareholding Ministers have the role in section 88 of the Crown Entities Act 2004.
-(1A) Section 88(1)(d) of the Crown Entities Act 2004 applies as if the reference to Part 4 were replaced by a reference to Part 3 of this Act.
+(1A) Section 88(1)﻿(d) of the Crown Entities Act 2004 applies as if the reference to Part 4 were replaced by a reference to Part 3 of this Act.
 (2) The shareholding Ministers shall exercise or perform the powers, duties, and functions conferred or imposed on them with respect to a Crown Research Institute in a manner that is consistent with the purpose of a Crown Research Institute (as expressed in section 4) and the principles of operation of a Crown Research Institute (as expressed in section 5).
 
 ### 7 Directors and their role
@@ -72,7 +72,7 @@ The purpose of every Crown Research Institute is to undertake research.
 (4A) Subsection (4) does not limit any provisions of the Crown Entities Act 2004 that apply to the board of a Crown Research Institute.
 (5) The directors of a Crown Research Institute shall exercise or perform the powers, duties, and functions conferred or imposed on them with respect to the Crown Research Institute in a manner that is consistent with the purpose of a Crown Research Institute (as expressed in section 4) and the principles of operation of a Crown Research Institute (as expressed in section 5), and in accordance with the Crown Research Institute's statement of corporate intent.
 (6) In exercising or performing the powers, duties, and functions conferred or imposed on them with respect to the Crown Research Institute, the directors of a Crown Research Institute must have regard to any direction given under section 107 of the Crown Entities Act 2004 that relates to Crown entity companies.
-(7) Sections 110 and 114(1)(b) of that Act do not apply in so far as they require a Crown Research Institute to give effect to the direction.
+(7) Sections 110 and 114(1)﻿(b) of that Act do not apply in so far as they require a Crown Research Institute to give effect to the direction.
 
 ### 8 Appointment of chief executives
 [Repealed]
@@ -163,13 +163,13 @@ In relation to the transfer, pursuant to this Act, of any land, or any interest 
   (b) audited financial statements for that financial year prepared in accordance with generally accepted accounting practice; and
   (c) the auditor's report on those financial statements; and
   (d) a statement of responsibility for the financial statements that, with any necessary modifications, complies with section 155 of the Crown Entities Act 2004.
-(2) Every report under subsection (1)(a) shall—
+(2) Every report under subsection (1)﻿(a) shall—
   (a) contain such information as is necessary to enable an informed assessment of the operations of the Crown Research Institute and its Crown entity subsidiaries, including a comparison of the performance of the Crown Research Institute and Crown entity subsidiaries with the relevant statement of corporate intent; and
   (b) state the dividend (if any) that could be paid to the Crown by the Crown Research Institute for the financial year to which the report relates; and
   (c) report on the extent of the Crown Research Institute's and each of its Crown entity subsidiaries' compliance with their obligation to be a good employer under section 118 of the Crown Entities Act 2004 (including their equal employment opportunities programmes) in that financial year; and
   (d) contain any direction given by the Minister in writing to the board of the Crown Research Institute under this Act during that financial year; and
   (e) include, in respect of the Crown Research Institute and each of its Crown entity subsidiaries, the information in section 152 of the Crown Entities Act 2004.
-(3) The shareholding Ministers may, if the Ministers are satisfied that it would be unduly onerous on a parent Crown Research Institute to comply with the requirement, grant an exemption from the requirement for a report under subsection (1)(a) to cover a multi-parent subsidiary, or contain any particular information in relation to a multi-parent subsidiary.
+(3) The shareholding Ministers may, if the Ministers are satisfied that it would be unduly onerous on a parent Crown Research Institute to comply with the requirement, grant an exemption from the requirement for a report under subsection (1)﻿(a) to cover a multi-parent subsidiary, or contain any particular information in relation to a multi-parent subsidiary.
 (4) An exemption under subsection (3) may be subject to any conditions the shareholding Ministers think fit (for example, the condition may be that the annual report of one of the parents must cover the multi-parent subsidiary).
 (5) Each Crown Research Institute must publish the documents required by subsection (1) as soon as practicable after it has been presented to the House of Representatives under section 19.
 
@@ -275,14 +275,14 @@ Nothing in this Act shall be construed as requiring the inclusion in any stateme
   (b) revoke any such term or condition and substitute another term or condition for it—
 
 ### 29 Provisions relating to transfer of land
-(1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 1952 that are to be transferred to a Crown Research Institute pursuant to this Act shall—
+(1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 2017 that are to be transferred to a Crown Research Institute pursuant to this Act shall—
   (a) be identified by an adequate legal description, or on plans lodged in the office of the Chief Surveyor for the land district in which the land is situated (being plans certified as correct for the purposes of this section by that Chief Surveyor); and
   (b) vest in the Crown Research Institute—
     (i) pursuant to and on a date specified in an Order in Council made for the purposes of this section; or
     (ii) pursuant to and on a date specified in a notice in the Gazette given for the purposes of this section by the shareholding Ministers or by a person authorised in writing by those Ministers.
-(2) Every notice given under subsection (1)(b)(ii) may be given on such terms and conditions as the shareholding Ministers or a person authorised in writing by those Ministers, as the case may be, thinks fit, and shall have effect according to its tenor.
-(3) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948 shall be transferred to a Crown Research Institute pursuant to section 24(1)(a) of this Act.
-(4) Subject to subsection (5), but notwithstanding any other provision of this Act, no land for the time being held, managed, or administered under the Conservation Act 1987 or under any enactment specified in Schedule 1 of that Act shall be transferred to a Crown Research Institute pursuant to section 24(1)(a) of this Act.
+(2) Every notice given under subsection (1)﻿(b)﻿(ii) may be given on such terms and conditions as the shareholding Ministers or a person authorised in writing by those Ministers, as the case may be, thinks fit, and shall have effect according to its tenor.
+(3) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948 shall be transferred to a Crown Research Institute pursuant to section 24(1)﻿(a) of this Act.
+(4) Subject to subsection (5), but notwithstanding any other provision of this Act, no land for the time being held, managed, or administered under the Conservation Act 1987 or under any enactment specified in Schedule 1 of that Act shall be transferred to a Crown Research Institute pursuant to section 24(1)﻿(a) of this Act.
 (5) Nothing in subsection (4) prevents the granting, to a Crown Research Institute, of a licence to occupy any land to which that subsection applies if the Minister of Conservation consents to the granting of that licence.
 (6) All land that is subject to the Land Act 1948 or the Forests Act 1949 and that is transferred to a Crown Research Institute pursuant to this Act shall cease to be subject to the Land Act 1948 or the Forests Act 1949, as the case may be, from the date of that transfer, unless otherwise expressly provided by this Act or any other Act.
 (7) Nothing in this Act or in any transfer of land to a Crown Research Institute pursuant to this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
@@ -298,9 +298,9 @@ Nothing in this Act shall be construed as requiring the inclusion in any stateme
 (4) For the purposes of subsection (3), the term working day has the same meaning as it has in section 2 of the Public Works Act 1981.
 
 ### 31 Obligation to lodge caveat
-(1) Where, before 30 June 1994, land or an interest in land is transferred to a Crown Research Institute pursuant to this Act or by another Crown Research Institute, the Crown or, as the case may be, the Crown Research Institute transferring the land or interest shall, for the purpose of protecting the rights of persons from whom that land or interest was acquired and their successors to have that land or interest offered to them under section 40(2) of the Public Works Act 1981, lodge an appropriate caveat under the Land Transfer Act 1952, and this section shall be sufficient authority for the lodging of such a caveat.
-(2) For the purposes of this section, the rights of persons from whom land or an interest in land was acquired and their successors to have that land or interest offered to them under section 40(2) of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of section 137 of the Land Transfer Act 1952.
-(3) In stating, in a caveat lodged pursuant to subsection (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of section 138 of the Land Transfer Act 1952, to refer to sections 40 to 42 of the Public Works Act 1981 and this section.
+(1) Where, before 30 June 1994, land or an interest in land is transferred to a Crown Research Institute pursuant to this Act or by another Crown Research Institute, the Crown or, as the case may be, the Crown Research Institute transferring the land or interest shall, for the purpose of protecting the rights of persons from whom that land or interest was acquired and their successors to have that land or interest offered to them under section 40(2) of the Public Works Act 1981, lodge an appropriate caveat under the Land Transfer Act 2017, and this section shall be sufficient authority for the lodging of such a caveat.
+(2) For the purposes of this section, the rights of persons from whom land or an interest in land was acquired and their successors to have that land or interest offered to them under section 40(2) of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of section 138 of the Land Transfer Act 2017.
+(3) In stating, in a caveat lodged pursuant to subsection (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of the Land Transfer Act 2017, to refer to sections 40 to 42 of the Public Works Act 1981 and this section.
 
 ### 32 Transfer of land not to constitute a subdivision or development
 Nothing in section 11 or Part 10 of the Resource Management Act 1991 applies to the transfer of land or an interest in land to a Crown Research Institute—where that transfer occurs not later than 30 June 1994.
@@ -314,22 +314,22 @@ The provisions of Part 2 of the Land Settlement Promotion and Land Acquisition A
 [Repealed]
 
 ### 35 Title to land
-(1) A District Land Registrar shall, on written application by any person authorised by a shareholding Minister and on payment of the prescribed fee,—
-  (a) register a Crown Research Institute as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in any land that is incorporated in the register or otherwise registered in the Land Registry Office of the land registration district concerned and that is transferred to the Crown Research Institute pursuant to this Act; and
+(1) The Registrar-General of Land shall, on written application by any person authorised by a shareholding Minister and on payment of the prescribed fee,—
+  (a) register a Crown Research Institute as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in any land for which a record of title has been issued and that is transferred to the Crown Research Institute pursuant to this Act; and
   (b) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
 (2) The powers conferred by subsection (1) may be exercised in respect of an estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or has been determined.
-(3) A District Land Registrar shall, on written application by any person authorised by a shareholding Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a Crown Research Institute pursuant to section 29(1) of this Act in form 1 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
-(4) As soon as registration is accomplished in accordance with subsection (1) or a certificate of title is issued in accordance with subsection (3), the Crown Research Institute shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seized of an estate in fee simple in possession in respect of that land.
+(3) The Registrar-General of Land must, on written application by any person authorised by a shareholding Minister and on payment of the prescribed fee, issue a record of title for land vested in a Crown Research Institute pursuant to section 29(1) of this Act.
+(4) As soon as registration is accomplished in accordance with subsection (1) or a record of title is issued in accordance with subsection (3), the Crown Research Institute shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seized of an estate in fee simple in possession in respect of that land.
 (5) Applications in accordance with subsections (1) and (3) shall specify the name of the Crown Research Institute and the date of the agreement, together with a description of the land sufficient to identify it and, in the case of applications under subsection (3), a certificate by the Chief Surveyor for the district concerned as to the correctness of such description.
 
 ### 36 Land certification
-(1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a Crown Research Institute pursuant to section 29(1), the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
-(2) A certificate in accordance with subsection (1) shall be filed by the District Land Registrar in the Land Registry Office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in that certificate.
+(1) Before the Registrar-General of Land issues a record of title in respect of any land vested in a Crown Research Institute pursuant to section 29(1), the Registrar-General of Land must either receive or request from the Surveyor-General a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the Registrar-General of Land considers appropriate.
+(2) The certificate referred to in subsection (1) must be accepted by the Registrar-General of Land.
 
 ### 37 Certification of easements
-(1) Where land is vested in a Crown Research Institute pursuant to section 29(1) subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under section 36(1) of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
-(2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
-(3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
+(1) Where land is vested in a Crown Research Institute pursuant to section 29(1), subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Chief Executive of Land Information New Zealand or the Surveyor-General must include in the certificate given under section 36(1) of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching to it.
+(2) The Registrar-General of Land must register the easement on the relevant record of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
+(3) If an easement is registered under subsection (2), it must be treated for all purposes, including all subsequent dealings, as if it had been created under the Land Transfer Act 2017.
 
 ### 38 Orders in Council relating to transfer of assets and liabilities
 (1) For the purpose of facilitating the transfer of assets and liabilities to a Crown Research Institute pursuant to this Act, the Governor-General may from time to time, by Order in Council, do any 1 or more of the following:
@@ -379,7 +379,7 @@ A failure by a Crown Research Institute to comply with any provision contained i
 (5) Section 115 of the Crown Entities Act 2004 does not apply to a direction given under this section.
 
 ### 44 Compensation may be paid to Crown Research Institutes
-(1) Where any direction is given pursuant to section 15(1)(c) or section 43(2) in relation to a Crown Research Institute, the Crown may, in the Crown's absolute discretion, pay to the Crown Research Institute such amount as it thinks fit for the purpose of compensating the Crown Research Institute for anything the Crown Research Institute is or might be or has been required to do to comply with the direction.
+(1) Where any direction is given pursuant to section 15(1)﻿(c) or section 43(2) in relation to a Crown Research Institute, the Crown may, in the Crown's absolute discretion, pay to the Crown Research Institute such amount as it thinks fit for the purpose of compensating the Crown Research Institute for anything the Crown Research Institute is or might be or has been required to do to comply with the direction.
 (2) Any money required for the purposes of this section shall be paid out of money appropriated by Parliament for the purpose.
 
 ### 45 Archives Act 1957 to apply
