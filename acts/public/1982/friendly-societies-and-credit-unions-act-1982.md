@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -259,14 +259,14 @@ Every registered society or branch shall deliver to any person on request, on pa
 (5) Two or more trustees may concurrently delegate their duties under this section.
 (6) A trustee of a registered society or branch shall remain answerable for all acts and omissions of his delegate within the scope of the delegation as if they were the acts or omissions of the trustee, and the delegate shall be subject to the provisions of this Act so far as it relates to the performance of the duties delegated in the same manner as if he were the trustee.
 
-### 32 Notice to District Land Registrar of names of trustees
-(1) Every registered society or branch shall forward to any District Land Registrar, as and when required by him, a notice setting forth the names of the trustees in whom the property of the society or branch is vested, and also a copy of the rules of the society or branch.
+### 32 Notice to Registrar-General of Land of names of trustees
+(1) Every registered society or branch shall forward to the Registrar-General of Land, as and when required by him, a notice setting forth the names of the trustees in whom the property of the society or branch is vested, and also a copy of the rules of the society or branch.
 (2) Every such notice shall be accompanied by a statutory declaration made by one of the trustees of the society or branch, stating that the declarant is one of the trustees in whom the property of the society or branch is vested, and verifying the statements contained in the notice.
 
 ### 33 Dealing with land under Land Transfer Act
-(1) Land under the Land Transfer Act 1952 may be transferred, leased, or mortgaged to the registered society or branch by memorandum of transfer, lease, or mortgage made to the trustees (denoted by their official titles and not by their own proper names) in whom the property of the society or branch, or any part of that property, is for the time being vested; and such trustees for the time being shall be deemed to be the registered proprietors of the land so transferred, or of such lease or mortgage.
-(2) Where any instrument affecting the land included in any such transfer, lease, or mortgage is presented to the District Land Registrar for registration, he shall register the same if it purports to be executed by the persons in whom the property thereby affected appears to him to have been vested at the time of the execution of the instrument or by a majority of those persons in any case where the rules of the society or branch authorise the execution of such an instrument by a majority of those persons.
-(3) Notwithstanding subsection (2), any discharge of a mortgage vested in a society or branch of land under the Land Transfer Act 1952 or any alteration in the terms of any such mortgage (or any variation of priority in relation to any such mortgage) shall be registered by the District Land Registrar if it appears to him to be executed by a majority of the trustees for the time being of the society or branch, as the case may require.
+(1) Land under the Land Transfer Act 2017 may be transferred, leased, or mortgaged to the registered society or branch by memorandum of transfer, lease, or mortgage made to the trustees (denoted by their official titles and not by their own proper names) in whom the property of the society or branch, or any part of that property, is for the time being vested; and such trustees for the time being shall be deemed to be the registered owners of the land so transferred, or of such lease or mortgage.
+(2) Where any instrument affecting the land included in any such transfer, lease, or mortgage is presented to the Registrar-General of Land for registration, he shall register the same if it purports to be executed by the persons in whom the property thereby affected appears to him to have been vested at the time of the execution of the instrument or by a majority of those persons in any case where the rules of the society or branch authorise the execution of such an instrument by a majority of those persons.
+(3) Notwithstanding subsection (2), any discharge of a mortgage vested in a society or branch of land under the Land Transfer Act 2017 or any alteration in the terms of any such mortgage (or any variation of priority in relation to any such mortgage) shall be registered by the Registrar-General of Land if it appears to him to be executed by a majority of the trustees for the time being of the society or branch, as the case may require.
 (4) No person claiming under any such instrument so registered shall be affected by notice, actual or constructive, that the property of the society or branch was not vested in the persons executing the same, or that the instrument was executed in contravention of the rules of the society or branch.
 
 ### 34 Officers required to give security
@@ -419,7 +419,7 @@ A registered society or branch may (if its rules so provide) out of any surplus 
   (f) establish and conduct retirement villages and day care centres for persons who are aged, sick, or infirm.
 (2) A registered society or branch may (if its rules so provide) enter into any arrangement by which it may purchase, build, take on lease, or otherwise provide, and equip, furnish, alter, and maintain such building or part of a building as is sufficient for the purpose of conducting its business therein.
 (3) No purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the trustees, and the receipt of the trustees shall be a discharge for all money arising from or in connection with the sale, exchange, mortgage, or lease.
-(4) Subject, in the case of an instrument affecting land under the Land Transfer Act 1952, to the provisions of section 33, every document to be executed by a registered society or branch in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the society or branch is vested.
+(4) Subject, in the case of an instrument affecting land under the Land Transfer Act 2017, to the provisions of section 33, every document to be executed by a registered society or branch in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the society or branch is vested.
 
 ### 58 Public Trust or trustee company may hold securities and invest funds for societies
 (1) Notwithstanding section 29, any part of the funds of a registered society or of any branch of such a society, and any stocks, shares, or securities held by or on behalf of such a society or branch, may be transferred to Public Trust or a trustee company if—
@@ -953,8 +953,8 @@ A credit union may make loans to members for such purposes and upon such securit
   (a) section 29(4) (which relates to the denoting of trustees by their official titles); and
   (b) section 30 (which relates to trustees under a disability); and
   (c) section 31 (which relates to the delegation of duties by a trustee); and
-  (d) section 32 (which requires a District Land Registrar to be advised of the names of trustees); and
-  (e) section 33 (which relates to dealing with land under the Land Transfer Act 1952).
+  (d) section 32 (which requires the Registrar-General of Land to be advised of the names of trustees); and
+  (e) section 33 (which relates to dealing with land under the Land Transfer Act 2017).
 
 ### 113 Credit union may hold land
 (1) A credit union may, in the name of its trustees, if authorised by and in accordance with its rules and trust deed, purchase, hold, take on lease, or otherwise provide—
@@ -966,7 +966,7 @@ A credit union may make loans to members for such purposes and upon such securit
 (5)
 (6)
 (7) No purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the trustees, and the receipt of the trustees shall be a discharge for all money arising from or in connection with the sale, exchange, mortgage, or lease.
-(8) Subject, in the case of an instrument affecting land under the Land Transfer Act 1952, to the provisions of section 33 (as applied by section 112(3)﻿(e)), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
+(8) Subject, in the case of an instrument affecting land under the Land Transfer Act 2017, to the provisions of section 33 (as applied by section 112(3)﻿(e)), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
 
 ### 114 Officers of credit union to give security
 (1) Before taking upon himself the execution of his office, every officer of a credit union having the receipt or charge of money shall, notwithstanding any rule of the credit union to the contrary, give security in accordance with subsection (2) for his rendering a just and true account of all sums of money received and paid by him on account of the credit union at such times as its rules appoint, or as the credit union or its trustees or committee require him to do, and for the payment by him of all sums due from him to the credit union.
