@@ -1,5 +1,5 @@
 # National Provident Fund Restructuring Act 1990
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for—athe continuation of the National Provident Fund Board as the Board of Trustees of the National Provident Fund; andbthe restructuring of the National Provident Fund and its superannuation schemes and investment arrangements; andcother incidental matters; anddthe repeal of the National Provident Fund Act 1950
 
@@ -22,8 +22,8 @@ In this Act, unless the context otherwise requires,—
     (b) whose contributions are made solely for the purpose of subsidising the contributions of a natural person or obtaining a benefit for a natural person; and
     (c) who does not, as a result of those contributions, personally become eligible to receive a benefit
   - **Crown** means Her Majesty the Queen in right of New Zealand
-  - **DBP annuitants scheme** means the scheme to be established under section 41(2)(a)
-  - **DBP contributors scheme** means the scheme to be established under section 41(2)(b)
+  - **DBP annuitants scheme** means the scheme to be established under section 41(2)﻿(a)
+  - **DBP contributors scheme** means the scheme to be established under section 41(2)﻿(b)
   - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **dedicated reserves** means the amounts (other than amounts that are free reserves) that are shown in the records of the Board as at the beginning of the transfer day as being reserves attributable to a particular scheme or schemes
   - **defined benefit scheme** means any existing scheme that is referred to in Part 3 of Schedule 1 and, in relation to any period of time on and after the transfer day, means the DBP annuitants scheme and the DBP contributors scheme
@@ -68,7 +68,7 @@ In this Act, unless the context otherwise requires,—
     (b) for any other purpose, the market value calculated according to the same criteria as those applied by the Board in the preparation of the most recent annual reports for the existing schemes, or such other criteria as may be agreed between the Minister and the Board at the time that the calculation is made
   - **member** , in relation to a scheme, means a natural person who has been admitted to membership of the scheme and who is, or may become, entitled to benefits under the scheme
   - **Minister** means the Minister of Finance
-  - **NPF group company** means any company that, at any time before the date on which this Act receives the Royal assent, was a subsidiary of the Board within the meaning of section 158 of the Companies Act 1955, or would have been so if subsection (3)(a) of that section did not apply
+  - **NPF group company** means any company that, at any time before the date on which this Act receives the Royal assent, was a subsidiary of the Board within the meaning of section 158 of the Companies Act 1955, or would have been so if subsection (3)﻿(a) of that section did not apply
   - **old public scheme** means any of the following schemes:
     (a) the Level Premium Scheme; or
     (b) the Annual Single Premium Scheme; or
@@ -76,7 +76,7 @@ In this Act, unless the context otherwise requires,—
     (d) the Staff Pension Scheme; or
     (e) the National Superannuation Scheme for Farm Workers
   - **participatory security** has the same meaning as in section 2 of the Securities Act 1978
-  - **pool** , in relation to the global asset trust or a GAT subsidiary which is a unit trust, means a pool of property and liabilities forming, subject to section 25(1)(b), a separate and distinct fund of the global asset trust or unit trust
+  - **pool** , in relation to the global asset trust or a GAT subsidiary which is a unit trust, means a pool of property and liabilities forming, subject to section 25(1)﻿(b), a separate and distinct fund of the global asset trust or unit trust
   - **property** means property of every kind, whether tangible or intangible, real or personal, corporeal or incorporeal, and includes, without limiting the generality of the foregoing,—
     (a) units in the global asset trust and any GAT subsidiary which is a unit trust:
     (b) choses in action and money:
@@ -257,7 +257,7 @@ Nothing effected or authorised by any Part of this Act—
   (a) shall have the Board as its trustee; and
   (b) shall be deemed, on the transfer day, to have issued participatory securities to the Board as trustee of each of the existing schemes.
 (2) The trust deed for the global asset trust shall be in a form approved by the Minister.
-(3) The participatory securities referred to in subsection (1)(b)—
+(3) The participatory securities referred to in subsection (1)﻿(b)—
   (a) shall be of such class and number as is determined in accordance with the proposal; and
   (b) shall be deemed to be participatory securities for the purpose of section 3 of the Goods and Services Tax Act 1985; and
   (c) to avoid doubt, are managed investment products on and after the global asset trust is treated as a registered scheme under section 59A.
@@ -267,7 +267,7 @@ Nothing effected or authorised by any Part of this Act—
   (a) be treated as a registered scheme under section 59A; and
   (b) for the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes or provides for the collection of a tax, duty, levy, or other charge, be one superannuation scheme notwithstanding that it may have separate pools and different classes of units; and
   (c) be deemed to be a superannuation scheme for the purposes of section EW 5(14) or paragraph (b) of the definition of excepted financial arrangement in section EZ 48 of the Income Tax Act 2007.
-(2) Nothing in subsection (1)(b) shall limit section 73.
+(2) Nothing in subsection (1)﻿(b) shall limit section 73.
 
 ### 26 Interim management of global asset trust
 (1) The Crown (acting through the National Provident Fund Department) shall be deemed to have been appointed by the Board as manager of all of the administration of the global asset trust, and of the investment of each of the pools of the global asset trust, for the period commencing on the transfer day and ending with the day that is 3 months after the day on which either the Crown or the Board gives written notice to the other of termination of such management, or 31 March 1992, whichever is the earlier.
@@ -280,7 +280,7 @@ Nothing effected or authorised by any Part of this Act—
 (2) The trust deed for any such GAT subsidiary shall be in a form approved by the Minister.
 (3) Every GAT subsidiary shall be deemed, on the transfer day, to have issued equity securities, debt securities, or participatory securities, or any combination of any of those types of securities, to the Board as trustee of the global asset trust as specified, and on the terms set out, in the proposal.
 (4) Any participatory securities referred to in subsection (3) shall be deemed to be participatory securities for the purposes of section 3 of the Goods and Services Tax Act 1985.
-(5) Nothing in section 60(1)(b) or section 60(2) of the Companies Act 1955 shall apply in respect of any issue of equity securities to which this section applies.
+(5) Nothing in section 60(1)﻿(b) or section 60(2) of the Companies Act 1955 shall apply in respect of any issue of equity securities to which this section applies.
 
 ### 28 Status of GAT subsidiaries
 (1) Any GAT subsidiary may, in accordance with the proposal, be either a company incorporated under the Companies Act 1955 or a unit trust.
@@ -311,7 +311,7 @@ Where any property forming part of any pool or trust fund includes unclaimed mon
 **Miscellaneous provisions**
 
 ### 33 Registers
-(1) No Registrar of Deeds or District Land Registrar or any other person charged with the keeping of any books or registers shall be obliged solely by reason of the foregoing provisions of this Act to change the name of the Board from National Provident Fund Board to the Board of Trustees of the National Provident Fund in those books or registers or in any document.
+(1) No Registrar of Deeds or Registrar-General of Land or any other person charged with the keeping of any books or registers shall be obliged solely by reason of the foregoing provisions of this Act to change the name of the Board from National Provident Fund Board to the Board of Trustees of the National Provident Fund in those books or registers or in any document.
 (2) The presentation to any registrar or other person of any instrument, whether or not comprising an instrument of transfer, executed or purporting to be executed by the Board or a GAT subsidiary and relating to any property held immediately before the transfer day by the Board and—
   (a) in the case of an instrument executed by the Board, containing a recital that the name of the Board has been changed from the National Provident Fund Board to the Board of Trustees of the National Provident Fund by virtue of the provisions of this Act shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the Board:
   (b) in the case of an instrument executed by a GAT subsidiary, containing a recital that the property is vested in the GAT subsidiary by virtue of the provisions of this Act shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the GAT subsidiary.
@@ -508,7 +508,7 @@ The Board may, in incorporating the existing terms and conditions of a scheme in
   (b) for the purpose of calculating the property of the scheme, no account is to be taken of any property that represents unclaimed money or of any contingent or prospective rights to require corporate contributors or other persons to make future contributions to the scheme; and
   (c) the transfer of property is to be fair and equitable to all members and other beneficiaries of the existing schemes affected, after taking into account the interests of any corporate contributor to those schemes and the Crown as guarantor of any liabilities of those schemes.
 (3) No such provision in a trust deed shall limit any right contained in the existing terms and conditions of the scheme to transfer to any other superannuation scheme.
-(4) For the purposes of subsection (2)(a), reserves means amounts that are shown in the accounts of the Board as being reserves attributable to a particular scheme whether or not forming part of any reserve account of the scheme.
+(4) For the purposes of subsection (2)﻿(a), reserves means amounts that are shown in the accounts of the Board as being reserves attributable to a particular scheme whether or not forming part of any reserve account of the scheme.
 (5) This section is subject to section 42.
 
 ### 51 Management of existing schemes
@@ -540,7 +540,7 @@ Notwithstanding any other Act, any trust deed prepared in respect of an existing
 (1) Any trust deed prepared in respect of an existing scheme may contain a provision—
   (a) entitling the Minister or a proportion of the members or other beneficiaries of the scheme to determine that the scheme be totally or partially wound up, and authorising the Minister or any other person to determine the manner of such winding up:
   (b) restricting or prohibiting the winding up of the scheme.
-(2) Every provision under subsection (1)(a) shall provide for the distribution of the property of the scheme on a winding up.
+(2) Every provision under subsection (1)﻿(a) shall provide for the distribution of the property of the scheme on a winding up.
 
 ### 57 Consequences of executing trust deed in respect of existing scheme
 (1) Where a trust deed is executed in respect of an existing scheme,—
@@ -572,7 +572,7 @@ Notwithstanding any other Act, any trust deed prepared in respect of an existing
   (c) the Board is the manager of the scheme for the purposes of that Act; and
   (d) the following provisions of Part 4 of that Act, but no other provisions of that Part, apply in respect of the scheme:
     (i) section 133, but only in respect of the requirement under section 127 that its governing document comply with the provisions of sections 135 to 137 that apply to it:
-    (ii) sections 135 (other than subsection (1)(a), (d), (g), (j), and (k)) to 141 (governing documents), except that the documents referred to in section 141 must be lodged with the FMA rather than the Registrar:
+    (ii) sections 135 (other than subsection (1)﻿(a), (d), (g), (j), and (k)) to 141 (governing documents), except that the documents referred to in section 141 must be lodged with the FMA rather than the Registrar:
     (iii) sections 142 to 147, and 151 (manager functions and duties), but subject to paragraphs (e) and (f):
     (iv) section 169 (actuarial examinations):
     (v) section 171 (limits on reversion of scheme property in certain schemes to non-scheme participant contributor):
@@ -581,7 +581,7 @@ Notwithstanding any other Act, any trust deed prepared in respect of an existing
     (viii) sections 205, 206, and 212 to 214 (intervention in debt securities offered under regulated offer or registered schemes):
     (ix) subpart 4 (registers and keeping copies of documents):
     (x) section 228, in respect of the provisions of Part 4 that apply to it; and
-  (e) the duty on the manager under section 143(1)(b) of that Act applies only after taking account of the Crown's interest as guarantor of the benefits and liabilities under the existing scheme and investment arrangements; and
+  (e) the duty on the manager under section 143(1)﻿(b) of that Act applies only after taking account of the Crown's interest as guarantor of the benefits and liabilities under the existing scheme and investment arrangements; and
   (f) the duty under section 144 of that Act is subject to section 53 of this Act.
 (2) On and after the effective date for an existing scheme, every reference in the trust deed of the scheme to—
   (a) participatory securities must be read as a reference to managed investment products; and
@@ -684,7 +684,7 @@ Where contributions are made by a government department on behalf of the employe
 
 ### 72 Crown payments to meet deficiencies
 (1) Where any deficiency in the accounts of any superannuation scheme established pursuant to section 38A(6) of the National Provident Fund Act 1950 arises from the application of paragraph (b) of that subsection in respect of persons who were contributing employees (within the meaning of that subsection) before the transfer day, the Minister shall, at the request of the Board, without further appropriation than this section, pay to the Board as trustee of the existing scheme concerned, by way of subsidy out of public money, such amount as may be required to meet the deficiency.
-(2) Where any deficiency arises under any agreement entered into before the transfer day which implements the provisions of section 60(4)(d) of the National Provident Fund Act 1950, the Minister shall, at the request of the Board, without further appropriation than this section, pay to the Board as trustee of the existing scheme concerned, by way of subsidy out of public money, such amount as may be required to meet the deficiency.
+(2) Where any deficiency arises under any agreement entered into before the transfer day which implements the provisions of section 60(4)﻿(d) of the National Provident Fund Act 1950, the Minister shall, at the request of the Board, without further appropriation than this section, pay to the Board as trustee of the existing scheme concerned, by way of subsidy out of public money, such amount as may be required to meet the deficiency.
 (3) The annual report sent to the Minister pursuant to section 67 in respect of each financial year shall state the amounts paid during that year pursuant to this section.
 
 ### 72A No Crown subsidy
@@ -870,7 +870,7 @@ There shall be paid to or in respect of the members of the Board out of such of 
 (2) Upon a winding up of the DBP annuitants scheme, the Crown shall pay into that scheme the amount necessary to increase the market value of the property of that scheme to the value it would have had if—such assessment to be made by an actuary appointed by the Board and approved by the Crown.
   (a) property had been allocated to that scheme by the proposal in accordance with clause 4(10) of Schedule 2 but without the deduction of the amount of $230 million (or such other amount as may have been agreed between the Crown and the Board for the purposes of that subclause); and
   (b) the investment of the property of the scheme had been appropriate to its liabilities; and
-  (c) subparagraphs (ii) and (iii) of clause 2(1)(a) applied,—
+  (c) subparagraphs (ii) and (iii) of clause 2(1)﻿(a) applied,—
 
 ### 2 Changes in benefits and transfer values
 (1) To the extent that the terms of the DBP annuitants scheme and DBP contributors scheme may permit improvements or other changes in benefits (including in each case increases to benefits of either or both such schemes but not including transfers to other superannuation schemes) then, without limiting considerations other than the financial position that may be taken into account, any person (including the Board and the Crown) shall either—
@@ -881,13 +881,13 @@ There shall be paid to or in respect of the members of the Board out of such of 
     (iv) the investment of the property of those schemes had been appropriate to their liabilities; and
     (v) all powers, directions, actions, and obligations had been exercised, made, taken, or complied with as if subparagraphs (i) to (iv) had applied; or
   (b) take into account only the financial position of the DBP contributors scheme.
-(2) In the event that a change in benefits is implemented under subclause (1)(a), there shall be a transfer between the DBP contributors scheme and the DBP annuitants scheme of such property as is necessary to ensure that the resulting financial position of each scheme is fair and equitable to the members and other beneficiaries of the scheme, the corporate contributors, and the Crown as guarantor.
-(3) In the event that a change in benefits under the DBP annuitants scheme is implemented under subclause (1)(b), there shall be a transfer from the DBP contributors scheme to the DBP annuitants scheme of property having a market value equal to the consequential increase in the actuarial liability of the DBP annuitants scheme.
+(2) In the event that a change in benefits is implemented under subclause (1)﻿(a), there shall be a transfer between the DBP contributors scheme and the DBP annuitants scheme of such property as is necessary to ensure that the resulting financial position of each scheme is fair and equitable to the members and other beneficiaries of the scheme, the corporate contributors, and the Crown as guarantor.
+(3) In the event that a change in benefits under the DBP annuitants scheme is implemented under subclause (1)﻿(b), there shall be a transfer from the DBP contributors scheme to the DBP annuitants scheme of property having a market value equal to the consequential increase in the actuarial liability of the DBP annuitants scheme.
 (4) Any person (including the Board and the Crown) considering, determining, or directing a change in benefits in terms of subclause (1)—
   (a) shall, in deciding which of the paragraphs (a) and (b) of subclause (1) to apply, take into account the position which is most favourable to members and other beneficiaries of the DBP contributors scheme and DBP annuitants scheme; and
   (b) shall regard as the paramount objective the need to ensure that members and other beneficiaries of the DBP annuitants scheme are not in any way disadvantaged by the implementation of any settlement of claims in relation to any NPF group company; and
   (c) shall have regard to the practice of not improving benefits from a superannuation scheme unless there is an actuarial surplus in that scheme.
-(5) To the extent that the terms of the DBP contributors scheme and DBP annuitants scheme provide for the payment of any amounts on transfer of a member or other beneficiary to another superannuation scheme (transfer values) then, without limiting any existing rights of any members or other beneficiaries or the considerations other than the financial position that may be taken into account, any person (including the Board and the Crown) considering, determining, or directing any matter in respect of transfer values shall take into account the combined financial position of the DBP annuitants scheme and DBP contributors scheme as if subparagraphs (i) to (v) of subclause (1)(a) applied.
+(5) To the extent that the terms of the DBP contributors scheme and DBP annuitants scheme provide for the payment of any amounts on transfer of a member or other beneficiary to another superannuation scheme (transfer values) then, without limiting any existing rights of any members or other beneficiaries or the considerations other than the financial position that may be taken into account, any person (including the Board and the Crown) considering, determining, or directing any matter in respect of transfer values shall take into account the combined financial position of the DBP annuitants scheme and DBP contributors scheme as if subparagraphs (i) to (v) of subclause (1)﻿(a) applied.
 (6) Following the payment of any transfer values determined in accordance with subclause (5), there shall be a transfer between the DBP contributors scheme and DBP annuitants scheme of such property as is necessary to ensure that the resulting financial position of each scheme is fair and equitable to the members and other beneficiaries of the scheme, the corporate contributors, and the Crown as guarantor.
 (7) Any person (including the Board and the Crown) considering, determining, or directing any matter in respect of transfer values in terms of subclause (5) shall have as an objective the need to ensure that members and other beneficiaries of the DBP contributors scheme and DBP annuitants scheme are not in any way—
   (a) affected by the division resulting in those schemes; or
@@ -957,7 +957,7 @@ Where the Board has prepared and executed a trust deed for an old public scheme 
 
 ### 7 Consequences of executing trust deed in respect of existing scheme
 (1) Amendment(s) incorporated in the Act(s).
-(2) Nothing in section 57(1)(c) of the principal Act (as substituted by subsection (1)) shall limit or affect any judgment, order, or determination of a court in proceedings commenced on or before 31 March 1993.
+(2) Nothing in section 57(1)﻿(c) of the principal Act (as substituted by subsection (1)) shall limit or affect any judgment, order, or determination of a court in proceedings commenced on or before 31 March 1993.
 (3) Amendment(s) incorporated in the Act(s).
 
 ### 8 Provisions relating to Lump Sum Cash Accumulation Scheme
@@ -1020,7 +1020,7 @@ Where the Board has prepared and executed a trust deed for an old public scheme 
   (c) to transfer missing persons in the scheme (and property of the scheme allocated to those persons) to any other existing scheme without the need to obtain consents from members or beneficiaries or any other person.
 (2) In this section and section 11, missing person means any member or beneficiary of an existing scheme from or in respect of whom no contributions are being received, and for whom the Board has no current address.
 (3) The expenses that may be deducted under an amendment to a trust deed made under this section are a reasonable amount to cover the costs incurred by the Board in endeavouring to locate the missing person, and confirming and satisfying the liability of the scheme to the person.
-(4) For the purposes of subsection (1)(b)(i), and except as otherwise approved in writing by the Minister, a share in the scheme is to be calculated as—
+(4) For the purposes of subsection (1)﻿(b)﻿(i), and except as otherwise approved in writing by the Minister, a share in the scheme is to be calculated as—
   (a) the value of the liabilities (as determined by the appointed actuary) of the scheme to those persons:
   (b) plus, in the case of a scheme with positive reserves or an actuarial surplus, an equitable share of the reserves or surplus (as determined by the Board after receiving advice from the appointed actuary):
   (c) less, in the case of a scheme with negative reserves or an actuarial deficit, an equitable share of the reserves or deficit (as determined by the Board after receiving advice from the appointed actuary).
@@ -1042,7 +1042,7 @@ Where the Board has prepared and executed a trust deed for an old public scheme 
 (1) The Board may amend the trust deed for a defined contribution scheme to—
   (a) remove the Board's obligation to apply on a per annum basis the minimum earnings rate that is required to be credited to a member's account and that is specified in the trust deed; and
   (b) replace that obligation with an obligation to the effect that the average per annum earnings rate credited to a member's account over the specified period is no less than that minimum earnings rate.
-(2) In subsection (1)(b), specified period means the period from a date determined by the Board (not being earlier than the date of commencement of this Act) to the date of determination of the member's total credit for the purpose of paying 1 or more of the benefits payable under the scheme.
+(2) In subsection (1)﻿(b), specified period means the period from a date determined by the Board (not being earlier than the date of commencement of this Act) to the date of determination of the member's total credit for the purpose of paying 1 or more of the benefits payable under the scheme.
 (3) This section is subject to section 26 (approval of the Minister).
 
 **Charging of fees for additional administration**
@@ -1140,7 +1140,7 @@ The provisions set out in Schedule 1 apply to a new pension scheme.
 ### 23 Implementation of proposal
 (1) The Board must arrange for the implementation of an amalgamation proposal, or of an amendment of a proposal, as soon as practicable after the proposal or amendment has been approved by a notice in the Gazette.
 (2) Any documents executed, and all other arrangements made, for the purpose of implementing an amalgamation proposal, become effective as at the appointed day for that proposal.
-(3) Any documents executed, and all other arrangements made, for the purpose of implementing an amendment to an amalgamation proposal become effective as at the day stated under section 22(4)(b).
+(3) Any documents executed, and all other arrangements made, for the purpose of implementing an amendment to an amalgamation proposal become effective as at the day stated under section 22(4)﻿(b).
 
 ### 24 Effect of implementation of amalgamation proposal
 The provisions set out in Schedule 2 apply to the implementation of an amalgamation proposal.
@@ -1166,7 +1166,7 @@ The provisions set out in Schedule 2 apply to the implementation of an amalgamat
   (a) the Board has supplied to the Minister a certificate stating that, in its opinion, and where appropriate after taking into account the advice of the appointed actuary, the terms of the amendment, deed, or proposal are fair and equitable to the members and beneficiaries of the relevant scheme or schemes taken as a whole; and
   (b) the Minister is satisfied that the terms of the amendment, deed, or proposal are fair and equitable to the members and beneficiaries of the relevant scheme or schemes taken as a whole; and
   (c) the Minister is satisfied that the requirements of the section or sections under which the amendment, deed, or proposal is being made have been complied with.
-(4) The fair and equitable requirement in subsection (3)(a) and (b) is subject to the provisions of the relevant section or sections under which the amendment, deed, or proposal is made.
+(4) The fair and equitable requirement in subsection (3)﻿(a) and (b) is subject to the provisions of the relevant section or sections under which the amendment, deed, or proposal is made.
 (5) The Minister must not approve an amendment to an amalgamation proposal made after the appointed day unless the Minister is satisfied that the amendment is necessary for the purpose of correcting an error in the amalgamation proposal as approved under section 21 or is of a purely technical nature.
 
 **Miscellaneous provisions**
