@@ -1,5 +1,5 @@
 # Land Transfer Amendment Act 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 (1) This Act is the Land Transfer Amendment Act 2005.
@@ -19,9 +19,9 @@ Section 41 of the principal Act is amended by adding the following subsection:
 Section 47 is amended by omitting from subsection (1), and also from subsection (2), the word transfer wherever it appears, and substituting in each case the word registry.
 
 ### 6 Transfers and creation of easements, etc, by registered proprietor
-(1) Section 90(1)(b) of the principal Act is amended by inserting, after the word creation, the words or surrender.
-(2) Section 90(2)(a) of the principal Act is amended by omitting the words or created, and substituting the words , created, or surrendered.
-(3) Section 90(3)(b) of the principal Act is amended by inserting, after the word created, the words or surrendered,.
+(1) Section 90(1)﻿(b) of the principal Act is amended by inserting, after the word creation, the words or surrender.
+(2) Section 90(2)﻿(a) of the principal Act is amended by omitting the words or created, and substituting the words , created, or surrendered.
+(3) Section 90(3)﻿(b) of the principal Act is amended by inserting, after the word created, the words or surrendered,.
 
 ### 7 General provisions relating to easements
 (1) Section 90E(1) of the principal Act is amended by omitting the words created or varied under any of sections 90A, 90B, or 90C, and substituting the words created under any of sections 90, 90A, or 90B, or varied under section 90C,.
