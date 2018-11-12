@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -65,7 +65,7 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to any other year, the funding impact statement included, under clause 20 of Schedule 10 of the Local Government Act 2002, in the annual plan adopted for that year under section 95 of that Act
   - **general rate** means a rate set under section 13
   - **land** means all land, tenements, and hereditaments, whether corporeal or incorporeal, in New Zealand, and all chattel or other interests in the land, and all trees growing or standing on the land
-  - **land transfer register** means the register kept under section 33 of the Land Transfer Act 1952
+  - **land transfer register** means the register kept under section 9 of the Land Transfer Act 2017
   - **land value** has the meaning set out in section 2(1) of the Rating Valuations Act 1998
   - **local authority** means a territorial authority or a regional council
   - **long-term plan** means a long-term plan under section 93 of the Local Government Act 2002
@@ -133,7 +133,7 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
 (1) The name of the following persons must be entered in the rating information database and district valuation roll as the ratepayer in respect of a rating unit:
   (a) the owner of the rating unit; or
   (b) the lessee of the rating unit under a lease that—
-    (i) is registered, after the commencement of this section, under section 115 of the Land Transfer Act 1952; and
+    (i) is registered, after the commencement of this section, under section 91 of the Land Transfer Act 2017; and
     (ii) is for a term (including renewals) of not less than 10 years; and
     (iii) provides that the lessee must be entered in the rating information database and the district valuation roll as the ratepayer in respect of the unit.
 (2) The name of a person who is a lessee of a rating unit must be entered in the rating information database and district valuation roll as the ratepayer in respect of the unit if—
@@ -143,11 +143,11 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
     (ii) remains in force; and
     (iii) either—
       (A) precludes the renegotiation of rent or any other payments that would allow the owner to be reimbursed if the owner were directly liable to pay the rates due on the unit; or
-      (B) is a lease registered under section 115 of the Land Transfer Act 1952.
+      (B) is a lease registered under section 91 of the Land Transfer Act 2017.
 (3) Subsection (1) is subject to subsection (2).
 (4) For the purposes of subsection (2), it is sufficient evidence, unless the contrary is proved, that the person referred to in that subsection must be named in the rating information database and the district valuation roll if,—
   (a) in the case of a lease under subsection (2)﻿(b)﻿(iii)﻿(A), the owner has provided a statutory declaration to the local authority that those provisions apply:
-  (b) in the case of a lease under subsection (2)﻿(b)﻿(iii)﻿(B), the owner has provided a certified copy of the certificate of title in relation to the unit that shows the lease has been registered.
+  (b) in the case of a lease under subsection (2)﻿(b)﻿(iii)﻿(B), the owner has provided a certified copy of the record of title in relation to the unit that shows the lease has been registered.
 (5) For the purposes of subsection (2)﻿(b)﻿(ii), a lease must be treated as remaining in force if the lessee has exercised a right to renew the lease on the same terms and conditions.
 (6) In this section, lessee includes a person to whom the lessee transfers or assigns the lessee’s interest in the lease.
 
@@ -390,8 +390,8 @@ In sections 31 to 36, relevant local authority means—
 (4) If a solicitor or other authorised agent acted on behalf of the owner under subsection (1) or the person registering the instrument under subsection (3), the solicitor or agent must give the notice concerned.
 
 ### 32 Notification of surrender or termination of lease or licence
-(1) The owner of a rating unit who has made a statutory declaration under section 11(4)﻿(a), or provided a certified copy of the certificate of title under section 11(4)﻿(b) must notify the local authority if—
-  (a) the lease or licence in relation to which the declaration has been made, or certificate of title applies, has been surrendered or terminated; or
+(1) The owner of a rating unit who has made a statutory declaration under section 11(4)﻿(a), or provided a certified copy of the record of title under section 11(4)﻿(b) must notify the local authority if—
+  (a) the lease or licence in relation to which the declaration has been made, or record of title applies, has been surrendered or terminated; or
   (b) an opportunity to renegotiate the rent or other payments has occurred.
 (2) A person who is a ratepayer under section 11(2) may notify the local authority (by means of a statutory declaration) of the matters set out in subsection (1).
 (3) Notice given under subsection (1) or subsection (2) is, unless the contrary is proved, sufficient evidence that the owner of the rating unit must be named as the ratepayer for that unit in the rating information database and the district valuation roll.
@@ -863,7 +863,7 @@ If the District Court is satisfied that section 77 has been complied with, it ma
 (3) If the proceeds of a sale or lease of abandoned land under section 79 are not sufficient to meet the rates, interest, costs, and expenses, the local authority may write off the deficiency.
 
 ### 83 Registration of instruments
-An instrument executed under section 73 or section 80 may be registered without the duplicate certificate of title or other document of title being produced if the Registrar of the High Court, the Registrar of the District Court, or the local authority, as the case may be, cannot produce the certificate or document of title.
+An instrument executed under section 73 or 80 may be registered under the Land Transfer Act 2017.
 
 **Crown land**
 
@@ -925,7 +925,7 @@ The local authority must record the remitted rates—
   (a) be signed by the chief executive officer of the local authority; and
   (b) identify the notice of charge to which it relates.
 (6) For the purposes of subsection (3)﻿(b)﻿(ii), the land comprising a rating unit is sufficiently identified—
-  (a) in the case of land for which there is a certificate of title (as defined in section 5A of the Rating Valuations Act 1998) or an instrument (as defined in section 5C(7) of the Rating Valuations Act 1998), by reference to the certificate of title or instrument; and
+  (a) in the case of land for which there is a record of title (as defined in section 5A of the Rating Valuations Act 1998) or an instrument (as defined in section 5C(7) of the Rating Valuations Act 1998), by reference to the record of title or instrument; and
   (b) in any other case, by a description adequate for the purposes of this section which may include a plan.
 (7) For the purposes of this section, Registrar means the Registrar-General of Land.
 
