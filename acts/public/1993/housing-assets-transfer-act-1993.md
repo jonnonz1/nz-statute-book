@@ -1,5 +1,5 @@
 # Housing Assets Transfer Act 1993
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for the transfer of certain mortgages, land, and housing-related assets of the Crown to Housing New Zealand Corporation and to provide for related matters
 
@@ -28,7 +28,7 @@ The Ministers shall, before exercising the powers conferred on them by this Act 
 
 ### 5 Corporation may act as agent in management of certain housing assets
 (1) The Corporation may act as agent for the Crown in the management of any housing assets referred to in paragraph (a) or paragraph (b) or paragraph (c) of section 2 on such terms and conditions and for such remuneration as may be agreed in writing from time to time between the Ministers and the Corporation and, for that purpose, may exercise the powers and functions conferred on the Crown or any other person by the Maori Housing Act 1935 and the Maori Housing Amendment Act 1938.
-(2) A copy of any instrument of appointment under this section may be lodged with a District Land Registrar or Chief Surveyor and shall, for the purposes of the Land Transfer Act 1952, be conclusive evidence of the authority of the Corporation to exercise those powers and functions.
+(2) A copy of any instrument of appointment under this section may be lodged with the Registrar-General of Land or Surveyor-General and shall, for the purposes of the Land Transfer Act 2017, be conclusive evidence of the authority of the Corporation to exercise those powers and functions.
 (3) Without limiting subsection (1), the Corporation may execute on behalf of the Crown a transfer to any purchaser of the estate or interest of the Crown in any land that has been sold to that purchaser pursuant to the Maori Housing Amendment Act 1938.
 
 ### 6 Transfer of housing assets to Corporation
@@ -37,7 +37,7 @@ The Ministers shall, before exercising the powers conferred on them by this Act 
   (a) contain a description of each housing asset either individually or as a group or class; and
   (b) be signed by the Ministers; and
   (c) be laid before the House of Representatives by the responsible Minister within 12 sitting days of its being signed.
-(3) For the purposes of subsection (2)(a), a group or class of housing assets includes a group or class of such assets other than any particular asset or assets.
+(3) For the purposes of subsection (2)﻿(a), a group or class of housing assets includes a group or class of such assets other than any particular asset or assets.
 (4) The Governor-General may, at any time or times, by Order in Council, vest in the Corporation on a date specified in the order the housing assets specified in the order, being assets set out in a list prepared under subsection (1) and which is referred to in the order.
 (5) Every Order in Council under this section shall specify the consideration payable or to be provided by the Corporation for the vesting of the housing assets.
 
@@ -48,7 +48,7 @@ The Ministers shall, before exercising the powers conferred on them by this Act 
   (c) shall be regarded as placing the Crown, the Corporation, or any other person in breach of any enactment or rule of law or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property or the disclosure of any information; or
   (d) shall release any surety from any obligation; or
   (e) shall invalidate or discharge any contract or security.
-(2) District Land Registrars and other persons charged with the keeping of books or registers shall make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any housing assets in the Corporation under this Act.
+(2) The Registrar-General of Land and all other persons charged with the keeping of books or registers shall make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any housing assets in the Corporation under this Act.
 (3) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that land described in the certificate, or described in any document on which the certificate appears, is land vested in the Corporation pursuant to this Act, shall be sufficient evidence, in the absence of proof to the contrary, that the land was so vested.
 (4) The vesting of housing assets pursuant to this Act shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the Land Act 1948, the Local Government Act 2002, the Reserves Act 1977, the Public Works Act 1981, the Resource Management Act 1991, or any other enactment relating to land.
 (5) Where, by virtue of this Act, any land vests in the Corporation, the land shall vest in the Corporation for an estate in fee simple subject to and together with all agreements for sale, licences, leases, agreements to lease, and mortgages thereof, and to all trusts, reservations, encumbrances, and interests existing in respect of any part of that land immediately before the land vests in the Corporation.
@@ -56,33 +56,29 @@ The Ministers shall, before exercising the powers conferred on them by this Act 
 (7) All housing assets that are subject to the Maori Housing Act 1935 or the Maori Housing Amendment Act 1938 or the Housing Act 1955 and that are vested in the Corporation pursuant to this Act shall cease to be subject to those Acts unless otherwise expressly provided by this Act or any other Act.
 
 ### 8 Title to housing assets vested in Corporation
-(1) A District Land Registrar shall, on written application by any person authorised by either of the Ministers and on payment of any prescribed fee,—
-  (a) register the Corporation as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in land that is incorporated in the register or otherwise registered in the land registration district concerned and that is vested in the Corporation pursuant to this Act; and
-  (b) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
-(2) A District Land Registrar shall, on written application by any person authorised by either of the Ministers and on payment of any prescribed fee, issue a certificate of title for land, other than land that is registered under the Land Transfer Act 1952, that is vested in the Corporation pursuant to this Act in form 1 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
-(3) A District Land Registrar shall, on written application by a person authorised by either of the Ministers and on payment of any prescribed fee, issue a certificate of title for land that is subject to the Land Transfer Act 1952 but for which no certificate of title has been issued and that is vested in the Corporation pursuant to this Act in form 2 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
-(4) Every application under subsection (1) or subsection (2) or subsection (3) shall—
+(1) The Registrar-General of Land must, on written application by any person authorised by either of the Ministers and on payment of any prescribed fee, register the Corporation as the owner, in substitution for the Crown, of the estate or the interest of the Crown in—
+  (a) land, other than land that is registered under the Land Transfer Act 2017, that is vested in the Corporation pursuant to this Act; or
+  (b) land that is subject to the Land Transfer Act 2017 but for which no record of title has been issued and that is vested in the Corporation pursuant to this Act.
+(2) Every application under subsection (1) must—
   (a) state that the land has been vested in the Corporation under this Act; and
   (b) contain a description of the land that is sufficient to identify it; and
-  (c) in the case of any application under subsection (2), be accompanied by a certificate by the Chief Surveyor for the district concerned as to the correctness of the description.
-(5) A District Land Registrar shall, on written application by any person authorised by either of the Ministers and on payment of any prescribed fee,—
-  (a) register the Corporation as proprietor, in substitution for the Crown, of the estate or interest of the Crown as mortgagee under any mortgage of land that is registered in the land registration district concerned and that is vested in the Corporation pursuant to this Act; and
-  (b) make such entries in the register and on any outstanding documents of title as are necessary for that purpose.
-(6) Any other person charged with the keeping of any books or registers shall, on written application by any person authorised by either of the Ministers and on payment of any prescribed fee,—
-  (a) register the Corporation, in substitution for the Crown, as the mortgagee under any mortgage of land or as the holder of any other security, not being a mortgage or security registered under the Land Transfer Act 1952, that is vested in the Corporation pursuant to this Act; and
-  (b) make such entries in those books or registers as may be necessary for that purpose.
-(7) Every application under subsection (5) or subsection (6) shall—
+  (c) in the case of land that has not previously been registered under the Land Transfer Act 2017, be accompanied by a certificate from the Surveyor-General in the form required by section 9(1).
+(3) The Registrar-General of Land must, on written application by any person authorised by either of the Ministers and on payment of any prescribed fee, register the Corporation as owner, in substitution for the Crown, of the estate or interest of the Crown as mortgagee under any mortgage of land that is vested in the Corporation pursuant to this Act.
+(4) Any other person charged with the keeping of any books or registers must, on written application by any person authorised by either of the Ministers and on payment of any prescribed fee,—
+  (a) register the Corporation, in substitution for the Crown, as the mortgagee under any mortgage of land or as the holder of any other security, not being a mortgage or security registered under the Land Transfer Act 2017, that is vested in the Corporation pursuant to this Act; and
+  (b) make any entries in those books or registers necessary for that purpose.
+(5) Every application under subsection (3) or (4) must—
   (a) state that the mortgage or security has been vested in the Corporation under this Act; and
   (b) contain a description of the mortgage or security that is sufficient to identify it.
 
 ### 9 Land certification
-(1) Before a District Land Registrar issues a certificate of title in respect of any land, other than land that is registered under the Land Transfer Act 1952, that is vested in the Corporation pursuant to this Act, the District Land Registrar shall either receive under the hand of, or request from, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in a form substantially similar to the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts and reservations affecting it, and any other matters that the District Land Registrar considers appropriate.
-(2) A certificate in accordance with subsection (1) shall be filed by the District Land Registrar in the land registry office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in it.
+(1) Before the Registrar-General of Land issues a record of title in respect of any land, other than land that is registered under the Land Transfer Act 2017, that is vested in the Corporation pursuant to this Act, the Registrar-General of Land must either receive under the hand of, or request from, the chief executive within the meaning of section 4 of the Cadastral Survey Act 2002 or the Surveyor-General a certificate in a form substantially similar to the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts and reservations affecting it, and any other matters that the Registrar-General of Land considers appropriate.
+(2) A certificate in accordance with subsection (1) must be recorded by the Registrar-General of Land in the register and is conclusive evidence to the Registrar-General of Land of the matters required to be stated in it.
 
 ### 10 Certification of easements
-(1) Where land is vested in the Corporation pursuant to this Act subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under section 9(1) a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
-(2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
-(3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
+(1) Where land is vested in the Corporation pursuant to this Act subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 2017, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under section 9(1) a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
+(2) The Registrar-General of Land shall enter a memorial of the easement upon the relevant record of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
+(3) Where a memorial of an easement is entered upon the relevant record of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 2017.
 
 ### 11 Application of other Acts
 The enactments specified in the Schedule shall, with all necessary modifications, continue to apply in relation to housing assets vested in the Corporation under this Act and all agreements for sale, licences, leases, or agreements to lease to which any such assets are subject whether or not those assets remain vested in the Corporation.
