@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -32,7 +32,7 @@ This Act is the Real Estate Agents Act 2008.
   - **Disciplinary Tribunal** or means the Disciplinary Tribunal established under section 100
   - **expenses** means any sum or reimbursement for expenses or charges incurred in connection with services provided by an agent in the capacity of agent
   - **former licensee** means a person who was, but is no longer, a licensee, and includes a person who was a real estate agent, branch manager, or salesperson under the Real Estate Agents Act 1976
-  - **land** includes all estates and interests, whether freehold or chattel, in real property, and includes any building and any part of a building, and any licence that is registrable under the Land Transfer Act 1952, and any occupation right agreement within the meaning of the Retirement Villages Act 2003; and, in relation to any transaction relating to land that also relates to any goods, chattels, or other property, also includes those goods or chattels and that other property
+  - **land** includes all estates and interests, whether freehold or chattel, in real property, and includes any building and any part of a building, and any licence that is registrable under the Land Transfer Act 2017, and any occupation right agreement within the meaning of the Retirement Villages Act 2003; and, in relation to any transaction relating to land that also relates to any goods, chattels, or other property, also includes those goods or chattels and that other property
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **licence** means a licence granted under this Act to act as an agent, branch manager, or salesperson
   - **licensee** means an agent, a branch manager, or a salesperson
@@ -58,10 +58,10 @@ This Act is the Real Estate Agents Act 2008.
   - **transaction** means any 1 or more of the following:
     (a) the sale, purchase, or other disposal or acquisition of a freehold estate or interest in land:
     (b) the grant, sale, purchase, or other disposal or acquisition of a leasehold estate or interest in land (other than a tenancy to which the Residential Tenancies Act 1986 applies):
-    (c) the grant, sale, purchase, or other disposal or acquisition of a licence that is registrable under the Land Transfer Act 1952:
+    (c) the grant, sale, purchase, or other disposal or acquisition of a licence that is registrable under the Land Transfer Act 2017:
     (d) the grant, sale, purchase, or other disposal or acquisition of an occupation right agreement within the meaning of the Retirement Villages Act 2003:
     (e) the sale, purchase, or other disposal or acquisition of any business (either with or without any interest in land).
-(2) To avoid doubt, the sale, purchase, or other disposal or acquisition of shares comes within the definition of transaction in subsection (1) if, and only if, the shares entitle the holder to a licence that is registrable under Part 7A of the Land Transfer Act 1952.
+(2) To avoid doubt, the sale, purchase, or other disposal or acquisition of shares comes within the definition of transaction in subsection (1) if, and only if, the shares entitle the holder to a licence that is registrable under subpart 6 of Part 3 of the Land Transfer Act 2017.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
