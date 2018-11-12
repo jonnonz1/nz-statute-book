@@ -1,5 +1,5 @@
 # Maori Reserved Land Act 1955
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the law relating to the administration of the lands comprised in Maori reserves, West Coast settlement reserves, and Maori townships, and to make provision in respect of certain other lands administered by the Māori Trustee
 
@@ -40,8 +40,8 @@ _Consolidation as at 2009-07-01_
 (2) Subject to the provisions of this Act, each Maori reserve referred to in the first column of Schedule 1 shall be held and administered by the Māori Trustee in accordance with the trusts prescribed in the third column of that schedule applying to that reserve.
 
 ### 6 Registration of Māori Trustee's title
-(1) It shall be the duty of the District Land Registrar, upon receiving a certificate by the Māori Trustee to the effect that the land to which the certificate relates is reserved land, to issue to the Māori Trustee 1 or more certificates of title in respect of that land, or to make all such entries in the register as may be necessary for the purpose of registering the title of the Māori Trustee to any reserved land.
-(2) Upon a request made to him in writing by the Māori Trustee, the District Land Registrar shall, without the payment of any fee, endorse on the certificate of title to any reserved land a memorial to the effect that the land comprised therein is reserved land and is subject to the provisions of this Act.
+(1) It shall be the duty of the Registrar-General of Land, upon receiving a certificate by the Māori Trustee to the effect that the land to which the certificate relates is reserved land, to issue to the Māori Trustee 1 or more records of title in respect of that land, or to make all such entries in the register as may be necessary for the purpose of registering the title of the Māori Trustee to any reserved land.
+(2) Upon a request made to him in writing by the Māori Trustee, the Registrar-General of Land shall, without the payment of any fee, endorse on the record of title to any reserved land a memorial to the effect that the land comprised therein is reserved land and is subject to the provisions of this Act.
 
 ### 7 Status of reserved land
 All reserved land shall, while it remains vested in the Māori Trustee, be deemed to be Maori freehold land.
@@ -108,12 +108,12 @@ All reserved land shall, while it remains vested in the Māori Trustee, be deeme
 ### 13 Court may partition reserved land
 (1) Notwithstanding anything contained in Maori Affairs Act 1953, the court shall have jurisdiction, on the application of the Māori Trustee, to partition any reserved land among the beneficial owners thereof.
 (2) Subject to the provisions of subsection (3), every such partition made by the court shall affect only the equitable estate of the beneficial owners.
-(3) Where the land comprised in a partition order is not subject to a lease renewable in perpetuity, or, if being so subject, the lease is held by a person in whose favour the partition order has been made, the District Land Registrar, on the application of the Māori Trustee, may register the order against any existing certificate of title and may issue a new certificate of title, subject to all registered encumbrances, liens, and interests, in the name of the person specified in the partition order. The land comprised in the new certificate of title shall, on the issue of the certificate, cease to be subject to this Act.
+(3) Where the land comprised in a partition order is not subject to a lease renewable in perpetuity, or, if being so subject, the lease is held by a person in whose favour the partition order has been made, the Registrar-General of Land, on the application of the Māori Trustee, may register the order against any existing record of title and may issue a new record of title, subject to all registered encumbrances, liens, and interests, in the name of the person specified in the partition order. The land comprised in the new record of title shall, on the issue of the certificate, cease to be subject to this Act.
 
 ### 14 Court may vest reserved land in beneficial owners
 (1) On application made to it by the Māori Trustee, the court may make an order vesting in the beneficial owners thereof any reserved land which, in the opinion of the Māori Trustee, is no longer required to be administered by him under this Act.
 (2) On the making of any order under this section, the land affected by the order shall cease to be subject to this Act (except Part 1 of the Maori Reserved Land Amendment Act 1997), but no order made by the court under this section shall affect any valid lease, mortgage, charge, or other encumbrance to which the land is subject on the date of the making of the order, or the right of any person to enforce any valid contract made in respect of the land before that date.
-(3) The District Land Registrar is hereby authorized and directed to make all such alterations and amendments in the register and to issue such new certificates of title as may be necessary to give effect to any order made by the court under this section.
+(3) The Registrar-General of Land is hereby authorized and directed to make all such alterations and amendments in the register and to issue such new records of title as may be necessary to give effect to any order made by the court under this section.
 (4) The rights, duties, and obligations of the Māori Trustee under any leases granted or administered by him pursuant to this Act shall, upon the vesting by an order under this section of the land comprised in any such lease, be exercisable by and enforceable against the legal owner or owners for the time being of the land, and all the provisions of the lease and any provisions of this Act incorporated in the lease, either directly or by reference, and relating to the service of notices and the making of applications and the like, upon, to, or by the Māori Trustee shall be read accordingly.
 (5) Notwithstanding the foregoing provisions of this section, the court, if it thinks fit, instead of vesting land in the beneficial owners, may make an order in terms of section 438 of the Maori Affairs Act 1953 vesting the land in a trustee or trustees (including, if the court thinks fit, a Maori Trust Board under the Maori Trust Boards Act 1955) upon the trusts declared in a separate order pursuant to that section.
 
@@ -451,16 +451,14 @@ Subject to the provisions of section 71, the expenses incurred in relation to th
 In the exercise of his powers of leasing under this Act the Māori Trustee may comprise in the same lease 2 or more parcels of land held by him in trust for different owners, and in any such case the rent and other moneys receivable by the Māori Trustee in respect of that lease shall be from time to time apportioned by the Māori Trustee between those owners in such manner as he deems just and equitable.
 
 ### 78 Registration of leases
-(1) Upon the production of any lease of any reserved land, duly executed by the lessee and the Māori Trustee, and the payment of the appropriate fee, the District Land Registrar shall register the same, and shall, in his discretion, either:
-  (a) embody the lease in the register as a folium thereof; or
-  (b) issue a certificate of title under section 66 of the Land Transfer Act 1952, for the lessee's estate or interest.
-(2) Upon the registration of any such lease the estate or interest of the lessee shall be deemed to be land subject to the provisions of the Land Transfer Act 1952.
-(3) Before registering any lease under this section the District Land Registrar may require a plan of the land to be deposited in the Land Registry Office in accordance with the provisions of section 167 of the Land Transfer Act 1952.
-(4) Any lease granted by the Māori Trustee in respect of any reserved land which is in substitution for a prior lease of the land or is a renewal of any lease shall be deemed to be subject to all existing encumbrances, liens, and interests (if any) registered against that prior lease or the lease to be renewed, and, notwithstanding anything contained in the Land Transfer Act 1952, the District Land Registrar shall register against the substituted lease or the certificate of title for the leasehold interest, as the case may be, all such encumbrances, liens, and interests accordingly in order of their registered priority.
+(1) Upon the production of any lease of any reserved land, duly executed by the lessee and the Māori Trustee, and the payment of the appropriate fee, the Registrar-General of Land must issue a record of title for that leasehold estate.
+(2) Upon the registration of any such lease the estate or interest of the lessee shall be deemed to be land subject to the provisions of the Land Transfer Act 2017.
+(3) Before registering any lease under this section the Registrar-General of Land may require the deposit of a plan of the land in accordance with section 224 of the Land Transfer Act 2017.
+(4) Any lease granted by the Māori Trustee in respect of any reserved land which is in substitution for a prior lease of the land or is a renewal of any lease shall be deemed to be subject to all existing encumbrances, liens, and interests (if any) registered against that prior lease or the lease to be renewed, and, notwithstanding anything contained in the Land Transfer Act 2017, the Registrar-General of Land must register against the record of title for the leasehold estate all such encumbrances, liens, and interests accordingly in order of their registered priority.
 
 ### 79 Adjoining areas may be incorporated in existing lease
 (1) Where the lessee of any area of reserved land and the Māori Trustee have agreed that any other area of reserved land should be incorporated in the lease, the Māori Trustee may execute a certificate setting forth particulars of the area of the land to be incorporated in the lease, the increase in rent, and other particulars appropriate to the circumstances, and shall endorse thereon a plan of the area to be incorporated in the lease.
-(2) Any such certificate shall have effect as if it were a memorandum of variation under section 116 of the Land Transfer Act 1952, and the provisions of that section shall, with the necessary modifications, extend and apply to any such certificate accordingly.
+(2) Any such certificate shall have effect as if it were a lease variation instrument under section 92 of the Land Transfer Act 2017, and the provisions of that section shall, with the necessary modifications, extend and apply to any such certificate accordingly.
 (3) The powers conferred by this section shall not be exercised in respect of a lease which is subject to a mortgage except with the consent of the mortgagee.
 
 ### 80 Implied covenants in leases of reserved land
@@ -509,7 +507,7 @@ In respect of the lease of any reserved land which immediately before the commen
 (4) Where the court makes an order under this section in respect of any land it may, by the same or a subsequent order, vest the land in the person or persons found by the court to be entitled thereto, for a legal estate in fee simple, and, if more than 1, as tenants in common in the relative shares or interests determined by the court.
 (5) The provisions of this section shall, as far as they are applicable, apply with respect to any township land which, if it were not township land would be customary land, and for the purposes of this section the court may exercise in respect of any such land the powers and jurisdiction conferred upon it by the Maori Affairs Act 1953 in respect of customary land.
 (6) No order made by the court under this section shall affect any valid lease, mortgage, charge, or other encumbrance to which the land is subject at the date of the making of the order, or the right of any person to enforce any valid contract made with respect to the land before that date.
-(7) The District Land Registrar is hereby authorized and directed to make all such alterations and amendments in the register, and to issue such new certificates of title, as may be necessary to give effect to any order made by the court pursuant to the provisions of this section.
+(7) The Registrar-General of Land is hereby authorized and directed to make all such alterations and amendments in the register, and to issue such new records of title, as may be necessary to give effect to any order made by the court pursuant to the provisions of this section.
 
 **Miscellaneous**
 
