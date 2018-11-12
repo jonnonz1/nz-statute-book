@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2017-10-18_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -302,7 +302,7 @@ Compliance with this Act or the regulations does not remove the need to comply w
 **Minerals owned by the Crown**
 
 ### 10 Petroleum, gold, silver, and uranium
-Notwithstanding anything to the contrary in any Act or in any Crown grant, certificate of title, lease, or other instrument of title, all petroleum, gold, silver, and uranium existing in its natural condition in land (whether or not the land has been alienated from the Crown) shall be the property of the Crown.
+Notwithstanding anything to the contrary in any Act or in any Crown grant, record of title, lease, or other instrument of title, all petroleum, gold, silver, and uranium existing in its natural condition in land (whether or not the land has been alienated from the Crown) shall be the property of the Crown.
 
 ### 11 Minerals reserved to Crown
 (1) Every alienation of land from the Crown made on or after the commencement of this Act (whether by way of sale, lease, or otherwise) shall be deemed to be made subject to a reservation in favour of the Crown of every mineral existing in its natural condition in the land.
@@ -1253,38 +1253,35 @@ No person entitled to exercise a right of access by virtue of an access arrangem
 [Repealed]
 
 ### 83 Notation of access rights on land titles
-(1) On entering into an access arrangement that is of more than 6 months’ duration from its date of commencement, the permit holder or applicant for a permit who entered into the arrangement shall forthwith lodge with the Registrar-General of Land 3 copies of a notice of the particulars of the arrangement with a copy of the arrangement attached, and any fee prescribed by regulations under the Land Transfer Act 1952.
-(2) A copy of an arrangement attached to a notice under subsection (1) may have excluded from it any monetary sums paid or agreed to be paid under it.
-(3) On receipt of copies of a notice under subsection (1) and of the prescribed fee, the Registrar-General of Land shall, if everything is in order,—
-  (a) sign and seal on all copies a statement of the time and date of receipt; and
-  (b) record and file 1 of the copies in his or her office, and endorse on all copies the record reference; and
-  (c) enter on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office in respect of land to which the arrangement relates, the particulars of the arrangement, including the record reference.
+(1) On entering into an access arrangement that is of more than 6 months’ duration from its date of commencement, the permit holder or applicant for a permit who entered into the arrangement must as soon as practicable lodge with the Registrar-General of Land a notice of the particulars of the arrangement with a copy of the arrangement attached, and any fee prescribed by regulations under the Land Transfer Act 2017.
+(2) A copy of an arrangement lodged under subsection (1) may have excluded from it any monetary sums paid or agreed to be paid under it.
+(3) On receipt of a notice under subsection (1) and of the prescribed fee, the Registrar-General of Land must, if everything is in order, note the notice by recording it on the relevant record of title.
 
 ### 84 Entry of permit and access particulars acts as notice only
-(1) The entry by the Registrar-General of Land on a certificate of title, provisional register, or other instrument of title registered or lodged in his or her office of the particulars of a permit or access arrangement, shall operate only as notice of the existence of the permit or access arrangement and shall not create any estate or interest under the Land Transfer Act 1952.
+(1) The notation on a record of title by the Registrar-General of Land of the particulars of a permit or access arrangement operates only as notice of the existence of the permit or access arrangement and does not create any estate or interest under the Land Transfer Act 2017.
 (2) This section does not apply to particulars of a permit granted after 21 August 2003.
 
-### 85 Land Transfer Act 1952 not to limit or affect rights under permits or rights of access
-(1) Nothing in the Land Transfer Act 1952 shall be construed to in any way limit or affect any right, title, or interest held under a permit that has been recorded by the Registrar-General of Land under section 81 or in any way limit or affect any access arrangement which has been recorded by a District Land Registrar under section 83.
+### 85 Land Transfer Act 2017 not to limit or affect rights under permits or rights of access
+(1) Nothing in the Land Transfer Act 2017 shall be construed to in any way limit or affect any right, title, or interest held under a permit that has been recorded by the Registrar-General of Land under section 81 or in any way limit or affect any access arrangement which has been recorded by the Registrar-General of Land under section 83.
 (2) This section does not apply to particulars of a permit granted after 21 August 2003.
 
 ### 86 Notation of mineral ownership on land titles
-(1) Any person may apply to the Registrar-General of Land to have entered on any certificate of title, provisional register, or other instrument of title registered or lodged in the office of the Registrar-General of Land for an estate in fee simple, the particulars of the ownership of all or any of the minerals in the land to which the estate in fee simple relates.
-(2) Every application under subsection (1) shall be in the form prescribed under the Land Transfer Act 1952 and shall be lodged with the Registrar-General of Land together with any fee prescribed by regulations under the Land Transfer Act 1952.
-(3) On the lodging with the Registrar-General of Land of—the Registrar-General of Land shall ensure, to the extent he or she is able, that the particulars of the ownership of the minerals in the land concerned are entered on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office for an estate in fee simple in that land.
+(1) Any person may apply to the Registrar-General of Land to have entered on any record of title registered or lodged in the office of the Registrar-General of Land for an estate in fee simple, the particulars of the ownership of all or any of the minerals in the land to which the estate in fee simple relates.
+(2) Every application under subsection (1) shall be in the form prescribed under the Land Transfer Act 2017 and shall be lodged with the Registrar-General of Land together with any fee prescribed by regulations under the Land Transfer Act 2017.
+(3) On the lodging with the Registrar-General of Land of—the Registrar-General of Land shall ensure, to the extent he or she is able, that the particulars of the ownership of the minerals in the land concerned are entered on every record of title for an estate in fee simple in that land.
   (a) an application under subsection (1); or
   (b)
   (c) an instrument evidencing a transfer of or dealing with the ownership of a mineral; or
   (d) an instrument having the effect of alienating land from the Crown,—
-(4) Where the Registrar-General of Land considers that he or she does not have available to him or her sufficient information on the ownership of the minerals in any land to carry out his or her duty under subsection (3), he or she may require the deposit of such plans or the supply of such information as he or she considers reasonably necessary, together with such further fees as may be prescribed by regulations under the Land Transfer Act 1952. Unless the Registrar-General of Land otherwise directs in any particular case, such plans or information shall not be accepted by the Registrar-General of Land until they have been certified as correct by the Surveyor-General.
-(5) For the purposes of this section, the Registrar-General of Land may require the production by the registered proprietor of the outstanding duplicate of any certificate of title or other instrument of title to be noted with the particulars of mineral ownership. The costs of any such production shall be met by the person lodging the application or instrument.
+(4) Where the Registrar-General of Land considers that he or she does not have available to him or her sufficient information on the ownership of the minerals in any land to carry out his or her duty under subsection (3), he or she may require the deposit of such plans or the supply of such information as he or she considers reasonably necessary, together with such further fees as may be prescribed by regulations under the Land Transfer Act 2017. Unless the Registrar-General of Land otherwise directs in any particular case, such plans or information shall not be accepted by the Registrar-General of Land until they have been certified as correct by the Surveyor-General.
+(5)
 
 ### 87 Certified copies of documents to be evidence
-(1) The Registrar-General of Land shall, on payment of any fee prescribed by regulations under the Land Transfer Act 1952, provide to any person so applying a certified copy of any document that has been lodged with and recorded by the Registrar-General of Land under this Part.
+(1) The Registrar-General of Land shall, on payment of any fee prescribed by regulations under the Land Transfer Act 2017, provide to any person so applying a certified copy of any document that has been lodged with and recorded by the Registrar-General of Land under this Part.
 (2) Any such certified copy that is signed by the Registrar-General of Land and sealed with his or her seal shall be received in evidence for all purposes for which the document might be put in evidence.
 
 ### 88 Recorded documents to be open for search
-Any person may, for the purpose of inspection, have access to any document recorded by the Registrar-General of Land under this Part on payment of the fee and during the hours and on the days prescribed by regulations under the Land Transfer Act 1952.
+[Repealed]
 
 ### 89 Revision of records
 (1) On the receipt by the Registrar-General of Land of any notice of revocation of or surrender of a permit, the Registrar-General of Land shall, without payment of a fee, sign and seal on the notice a statement of the time and date of receipt, note the particulars on his or her record copy of the permit affected, and attach the notice to that record copy.
