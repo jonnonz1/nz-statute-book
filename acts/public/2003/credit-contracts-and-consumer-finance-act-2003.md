@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -1120,12 +1120,12 @@ Sections 32 to 35 apply to disclosure under this subpart.
 (2) The transferee must not transfer the estate in the land to a person other than the occupier or otherwise deal with the land without obtaining the leave of the High Court.
 (3) The High Court may grant leave only if it is satisfied that the non-compliance has not materially prejudiced the interests of the occupier.
 (4) The High Court may grant leave subject to any terms and conditions that the court thinks fit.
-(5) Subsection (2) does not affect the rights under sections 62 to 64, 75, 182, and 183 of the Land Transfer Act 1952 of a person who derives an estate or interest in the land from the transferee.
+(5) Subsection (2) does not affect the rights under sections 24, 44, 51, and 52 of the Land Transfer Act 2017 of a person who derives an estate or interest in the land from the transferee.
 
 ### 76 Interest of occupier is caveatable interest
-(1) The occupier under a buy-back transaction is to be treated as being entitled to, or to be beneficially interested in, the land for the purposes of section 137(1)﻿(a) of the Land Transfer Act 1952.
+(1) The occupier under a buy-back transaction is to be treated as being entitled to, or to be beneficially interested in, the land for the purposes of section 138(1)﻿(a) of the Land Transfer Act 2017.
 (2) A term of a buy-back transaction is entirely of no effect if it—
-  (a) prohibits the occupier from lodging with the Registrar (within the meaning of the Land Transfer Act 1952) a caveat against dealings in the land; or
+  (a) prohibits the occupier from lodging with the Registrar (within the meaning of the Land Transfer Act 2017) a caveat against dealings in the land; or
   (b) otherwise restricts the ability of the occupier to lodge with the Registrar a caveat against dealings in the land.
 
 ### 77 Variation disclosure of buy-back transactions
