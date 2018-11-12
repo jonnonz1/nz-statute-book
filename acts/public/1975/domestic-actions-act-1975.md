@@ -1,5 +1,5 @@
 # Domestic Actions Act 1975
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to abolish the actions for damages for adultery, for enticement of a spouse, for harbouring of a spouse or child, and for enticement or seduction of a child, and for breach of promise of marriage, and to provide for the settlement of property disputes arising out of the termination of agreements to marry
 
@@ -79,8 +79,8 @@ Rules regulating the practice and procedure of the courts in proceedings under t
 
 ### 10 Other procedural matters
 (1) On any application made under section 8, such notice as the court directs shall be given to every person having or appearing to have an interest in the property in question, and any such person shall be entitled to appear and be heard in the matter as a party to the application.
-(2) An order made by the court pursuant to section 8 that a sum of money be paid to any person shall take effect as a judgment of the court in favour of that person for that sum and shall be enforceable accordingly, and a sum of money ordered to be paid in respect of any estate or interest in land shall also constitute a charge against that estate or interest, and may be registered under the provisions of the Statutory Land Charges Registration Act 1928.
-(3) Where any order made pursuant to section 8 affects the ownership of any estate or interest in land which is registered in the office of the Registrar or the Registrar of Deeds, a copy of the order sealed with the seal of the court shall, upon application by any party to the application and upon payment of the prescribed fee (if any), be registered by the Registrar or the Registrar of Deeds, as the case may require, and shall thereupon have effect according to its tenor.
+(2) An order made by the court pursuant to section 8 that a sum of money be paid to any person shall take effect as a judgment of the court in favour of that person for that sum and shall be enforceable accordingly, and a sum of money ordered to be paid in respect of any estate or interest in land shall also constitute a charge against that estate or interest, and may be registered under subpart 5 of Part 3 of the Land Transfer Act 2017.
+(3) Where any order made pursuant to section 8 affects the ownership of any estate or interest in land which is registered in the office of the Registrar-General of Land or the Registrar of Deeds, a copy of the order sealed with the seal of the court shall, upon application by any party to the application and upon payment of the prescribed fee (if any), be registered by the Registrar-General of Land or the Registrar of Deeds, as the case may require, and shall thereupon have effect according to its tenor.
 (4) Without limiting the provisions of subsection (2), where under any order made pursuant to section 8 a person is or may be liable to pay a sum of money to another person, the court may direct that it be paid either in 1 sum or in instalments and either with or without security and otherwise in such manner and subject to such conditions as the court thinks fit.
 
 ### 11 Rights of mortgagee, etc, not affected
