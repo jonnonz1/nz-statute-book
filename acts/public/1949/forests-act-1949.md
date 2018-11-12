@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2016-01-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -504,21 +504,21 @@ Where the Secretary—the beech coupe size provisions in a sustainable forest ma
 (1) The provisions of Schedule 2 shall apply in relation to sustainable forest management plans.
 (2) Where satisfied that compliance by an owner with any provision of a sustainable forest management plan is unreasonable or impractical, the Secretary may, after consultation with the Director-General of Conservation and also with the chief executive of the Ministry of Maori Development if the land concerned includes any Maori land, exempt the owner from compliance with that provision on such conditions as he or she thinks fit.
 
-### 67K Sustainable forest management plan to be recorded against certificate of title
-(1) Every owner of land specified in a sustainable forest management plan shall, as soon as practicable after the plan has been approved, request the appropriate District Land Registrar to record the plan in accordance with this section.
-(2) The District Land Registrar for the land registration district in which the land concerned is situated shall, at the request of the owner, enter in the appropriate folium of the register relating to the land a notification of the plan.
-(3) Where no certificate of title for the land has been issued, the District Land Registrar shall constitute a notification of the plan a separate folium of the register.
-(4) No sustainable forest management plan shall be received for notification as a separate folium of the register unless there is endorsed thereon a certificate by a licensed cadastral surveyor to the effect that the land specified in that plan is within the boundaries of a parcel of land identified on a plan lodged in the office of the Chief Surveyor or District Land Registrar for the district in which the land is situated.
+### 67K Sustainable forest management plan to be recorded against record of title
+(1) Every owner of land specified in a sustainable forest management plan shall, as soon as practicable after the plan has been approved, request the Registrar-General of Land to record the plan in accordance with this section.
+(2) The Registrar-General of Land must, at the request of the owner, note the plan in the register.
+(3) If no record of title for the land has been issued, the Registrar-General of Land must create a record of title for the plan.
+(4) No sustainable forest management plan may be received for the issue of a record of title under subsection (3) unless it has endorsed on it a certificate by a licensed cadastral surveyor certifying that the land specified in that plan is within the boundaries of a parcel of land identified on a plan lodged with the Surveyor-General or the Registrar-General of Land.
 (5) Where the land concerned is Maori land (as defined in section 4 of Te Ture Whenua Maori Act 1993) and that land is not within the boundaries of a parcel of land identified on a plan lodged in terms of subsection (4), the owner shall request the appropriate District Registrar of the Maori Land Court to enter on the memorial schedule of the Title Binder relating to the land a notification of the sustainable forest management plan; and the Registrar shall make the entry on that schedule accordingly and that entry shall be sufficient compliance with the requirements of this section.
-(6) Notwithstanding any rule of law or equity to the contrary, every sustainable forest management plan shall run with and bind the land specified in the plan and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 1952.
-(7) Where any of the land to which the plan relates comprises part of land in a certificate or instrument of title, the owner may, instead of complying with section 167 of the Land Transfer Act 1952, indicate the boundaries of the land by reference to a diagram or an aerial photograph.
-(8) No action shall lie against the Crown under Part 11 of the Land Transfer Act 1952 in respect of any such boundary not defined in accordance with the said section 167.
-(9) The owner may at any time, in accordance with section 167(5) of the Land Transfer Act 1952 and in accordance with the regulations for the time being in force in that behalf, deposit a plan which shall—
+(6) Notwithstanding any rule of law or equity to the contrary, every sustainable forest management plan shall run with and bind the land specified in the plan and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 2017.
+(7) Where any of the land to which the plan relates comprises part of land in a record or instrument of title, the owner may, instead of complying with section 224 of the Land Transfer Act 2017, indicate the boundaries of the land by reference to a diagram or an aerial photograph.
+(8) No action shall lie against the Crown under subpart 3 of Part 2 of the Land Transfer Act 2017 in respect of any such boundary not defined in accordance with section 224 of that Act.
+(9) The owner may at any time, in accordance with section 224 of the Land Transfer Act 2017 and in accordance with the regulations for the time being in force in that behalf, deposit a plan which shall—
   (a) define such area or areas as may be mutually agreed upon by the Secretary and the owner; and
   (b) for all purposes supersede the diagram or aerial photograph or relevant part of the diagram or aerial photograph; and
   (c) when deposited, be deemed to be incorporated in the interest in land comprising the plan.
-(10) On the deposit of such plan, the District Land Registrar shall, if necessary, amend the description of the parcels included in the plan and shall endorse on any relevant certificate of title, lease, licence, or profit a memorial to the effect that the boundaries or such of the boundaries as are defined, have been surveyed.
-(11) Where—the Secretary may issue a certificate to the appropriate District Land Registrar or District Registrar of the Maori Land Court, as the case may require, stating the effect of the agreement or amendment or renewal; and, upon receipt of the certificate, the appropriate District Land Registrar or District Registrar shall—
+(10) On the deposit of such plan, the Registrar-General of Land shall, if necessary, amend the description of the parcels included in the plan and shall endorse on any relevant record of title, lease, licence, or profit a memorial to the effect that the boundaries or such of the boundaries as are defined, have been surveyed.
+(11) Where—the Secretary may issue a certificate to the Registrar-General of Land or the appropriate District Registrar of the Maori Land Court, as the case may require, stating the effect of the agreement or amendment or renewal; and, upon receipt of the certificate, the Registrar-General of Land or the appropriate District Registrar must—
   (a) the Secretary and an owner agree to vary or cancel any notification of a plan under this section; or
   (b) pursuant to section 67I, the Secretary (with or without the agreement of the owner) amends or renews a sustainable forest management plan,—
   (c) record the certificate in accordance with this section as if it were a plan; and
@@ -705,31 +705,33 @@ A landowner intending to enter into, vary, or cancel a forest sink covenant must
 Nothing in sections 316 to 318 of the Property Law Act 2007 applies to any forest sink covenant entered into in accordance with this Act.
 
 ### 67ZD Registrar-General of Land to register forest sink covenants
-(1) A landowner who has entered into a forest sink covenant must, within 180 days of that covenant being agreed, submit that covenant to the Registrar-General of Land for registration under the Land Transfer Act 1952.
-(2) If a forest sink covenant relates to land for which no computer freehold register has been created, the Registrar-General of Land must create a computer interest register for the covenant if—
-  (a) there is endorsed on the register a certificate by a licensed cadastral surveyor to the effect that the land to which the covenant relates is within the boundaries of an identified parcel of land; and
-  (b) the Registrar-General of Land is satisfied that the certificate is correct.
+(1) A landowner who has entered into a forest sink covenant must, within 180 days of that covenant being agreed, submit that covenant to the Registrar-General of Land for registration under the Land Transfer Act 2017.
+(2) If a forest sink covenant relates to land for which no record of title has been created, the Registrar-General of Land must—
+  (a) create a record of title for the covenant if—
+    (i) a licensed cadastral surveyor has certified that the land to which the covenant relates is within the boundaries of an identified parcel of land; and
+    (ii) the Registrar-General of Land is satisfied that the certificate is correct; and
+  (b) record the certificate of the licensed cadastral surveyor on the record of title issued for the covenant.
 (3) If a forest sink covenant relates to Maori land (within the meaning of section 4 of Te Ture Whenua Maori Act 1993) for which no computer freehold register or provisional register has been created, the Registrar of the Maori Land Court must enter on the memorial schedule of the Title Binder relating to the Maori land a notification of the forest sink covenant.
-(4) If, in respect of a forest sink covenant, the Registrar-General of Land receives a submission under subsection (1) or a notice from the Minister under section 67ZG, the Registrar-General of Land must enter in the computer register for the district in which the affected land is located notification of—
+(4) If, in respect of a forest sink covenant, the Registrar-General of Land receives a submission under subsection (1) or a notice from the Minister under section 67ZG, the Registrar-General of Land must enter in the record of title notification of—
   (a) that forest sink covenant; or
   (b) the variation, cancellation, or termination of that forest sink covenant.
-(5) For the purposes of the Land Transfer Act 1952, a forest sink covenant, or an agreement to vary a forest sink covenant, is an instrument that—
+(5) For the purposes of the Land Transfer Act 2017, a forest sink covenant, or an agreement to vary a forest sink covenant, is an instrument that—
   (a) may be registered; and
   (b) if registered, creates an interest in land that runs with that land.
-(6) If a forest sink covenant is registered under the Land Transfer Act 1952, and any provision of that covenant has terminated, or has been varied or cancelled by an agreement,—
-  (a) the Registrar-General of Land must, if satisfied that the provision has terminated, or has been varied or cancelled, make an entry in the computer register noting that the provision has terminated, or has been varied or cancelled; and
+(6) If a forest sink covenant is registered under the Land Transfer Act 2017, and any provision of that covenant has terminated, or has been varied or cancelled by an agreement,—
+  (a) the Registrar-General of Land must, if satisfied that the provision has terminated, or has been varied or cancelled, make an entry on the record of title noting that the provision has terminated, or has been varied or cancelled; and
   (b) the forest sink covenant takes effect as varied or ceases to have effect (as the case may be).
 (7) The landowner must provide the Registrar-General of Land with—
   (a) a diagram or an aerial photo that shows the boundaries of the land to which the forest sink covenant applies; and
-  (b) if required by the Registrar-General of Land, a deposit plan.
-(8) A landowner subject to a registered forest sink covenant may, at any time, deposit a plan in accordance with section 167(5) of the Land Transfer Act 1952 and any relevant regulations that,—
+  (b) if required by the Registrar-General of Land, a plan capable of deposit under section 224 of the Land Transfer Act 2017.
+(8) A landowner subject to a registered forest sink covenant may, at any time, deposit a plan in accordance with section 224 of the Land Transfer Act 2017 and any relevant regulations that,—
   (a) with the agreement of the Minister, redefines the boundaries of the land subject to the covenant; and
   (b) supercedes any previously submitted diagram or aerial photograph, or any part of any previously submitted diagram or aerial photograph.
-(9) If a plan is deposited under section 167 of the Land Transfer Act 1952 with respect to a forest sink covenant, the Registrar-General of Land must, if necessary, endorse, on any relevant computer register, a memorial that indicates that the boundaries of the land subject to the covenant, as defined, have been surveyed.
+(9) If a plan is deposited under section 224 of the Land Transfer Act 2017 with respect to a forest sink covenant, the Registrar-General of Land must, if necessary, endorse, on any relevant record of title, a memorial that indicates that the boundaries of the land subject to the covenant, as defined, have been surveyed.
 (10) A forest sink covenant may not be treated as a subdivision of land for the purposes of the Resource Management Act 1991.
 
 ### 67ZE The Crown may register charges with respect to land subject to forest sink covenants in certain circumstances
-(1) The Minister may register a charge under the Statutory Land Charges Registration Act 1928 against land subject to a forest sink covenant if—
+(1) The Minister may register a charge under subpart 5 of Part 3 of the Land Transfer Act 2017 against land subject to a forest sink covenant if—
   (a) liabilities are owed to the Crown by an owner of a landholding arising from the emission of greenhouse gases in relation to the forest sink on that land:
   (b) penalties are imposed for breaches by an owner of a landholding of the harvesting restrictions in relation to the forest sink on that land:
   (c) costs are incurred by the Crown in—
@@ -740,7 +742,7 @@ Nothing in sections 316 to 318 of the Property Law Act 2007 applies to any fores
   (a) 10% of the debt (or that part of the debt that remained unpaid after the expiry of the time provided for the debt's payment); and
   (b) for every complete period of 12 months after that expiry during which the debt or any part of it (including any deemed increase calculated under this subsection) has remained unpaid, 10% of the debt or that part of the debt.
 (3) If the owner of a landholding pays the statutory debt (including any deemed increase) or the Crown releases the owner of the landholding from the obligation to pay the debt, the Minister must release the relevant charge on the land (if any).
-(4) For the purposes of this section, a charge that is registered by the Minister under the Statutory Land Charges Registration Act 1928 against land subject to a forest sink covenant—
+(4) For the purposes of this section, a charge that is registered by the Minister under subpart 5 of Part 3 of the Land Transfer Act 2017 against land subject to a forest sink covenant—
   (a) has priority over any subsequently registered mortgages, charges, and encumbrances with respect to that land; but
   (b) does not have priority over any prior registered mortgages, charges, and encumbrances with respect to that land.
 
