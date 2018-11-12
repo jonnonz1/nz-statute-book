@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -696,7 +696,7 @@ If the Assignee is replaced, the property and powers vested in the former Assign
 Property held by the bankrupt in trust for another person does not vest in the Assignee.
 
 ### 105 Effect of other laws
-(1) Nothing in the Land Transfer Act 1952 restricts the operation of sections 101 to 104.
+(1) Nothing in the Land Transfer Act 2017 restricts the operation of sections 101 to 104.
 (2) Sections 101 to 104 do not affect the operation of any other law that prevents any property from vesting in the Assignee.
 
 ### 106 Court may order that money due to bankrupt is assigned to Assignee
@@ -819,9 +819,9 @@ The Assignee loses the right to disclaim if—
   (b) is subject to a mortgage or a charge; and
   (c) is not disclaimed by the Assignee.
 (2) The Assignee must—
-  (a) register, under the Land Transfer Act 1952, the transmission of the interest in the land to the Assignee; or
+  (a) register, under the Land Transfer Act 2017, the transmission of the interest in the land to the Assignee; or
   (b) give notice to the mortgagee or other person entitled under the charge that the Assignee cannot, or does not intend to, register transmission of the interest in the land.
-(3) Notice under subsection (2)﻿(b) is notice that the interest has vested in the Assignee, and the mortgagee or person entitled under the charge is, in the event of entering into possession or selling, liable to account to the Assignee as if the Assignee were the registered proprietor of the interest.
+(3) Notice under subsection (2)﻿(b) is notice that the interest has vested in the Assignee, and the mortgagee or person entitled under the charge is, in the event of entering into possession or selling, liable to account to the Assignee as if the Assignee were the registered owner of the interest.
 
 ### 123 Assignee cannot claim interest in land if bankrupt remains in possession until discharge
 (1) The Assignee cannot, after the bankrupt's discharge, claim an interest in land to which section 122(1) applies and for which the Assignee has not registered a transmission if the bankrupt—
@@ -1450,8 +1450,8 @@ The court must not make an order under section 207 against a person (A) if A pro
 ### 209 Recovery by appointee
 The provisions of sections 206 to 208 apply to the recovery of property or its value by an appointee under Part 6 as if each reference to the Assignee were a reference to the appointee acting under Part 6.
 
-### 210 Land Transfer Act 1952 does not limit sections 206 to 209
-The Land Transfer Act 1952 does not limit sections 206 to 209.
+### 210 Land Transfer Act 2017 does not limit sections 206 to 209
+The Land Transfer Act 2017 does not limit sections 206 to 209.
 
 **Transactions at undervalue**
 
@@ -1499,8 +1499,8 @@ The Assignee must use the money repaid under section 213 by the recipient of a c
   (b) secondly, if there is a surplus after the creditors have been paid in full, the Assignee must pay as much of the surplus to the recipient of the property to which the bankrupt has contributed as was repaid under section 213 (Step 2); and
   (c) thirdly, the Assignee must not pay anything to the bankrupt before the Assignee has taken Step 1 and Step 2.
 
-### 216 Land Transfer Act 1952 does not limit sections 213 to 215
-The Land Transfer Act 1952 does not limit sections 213 to 215.
+### 216 Land Transfer Act 2017 does not limit sections 213 to 215
+The Land Transfer Act 2017 does not limit sections 213 to 215.
 
 ### Subpart 8 — Role and powers of Assignee
 
@@ -2261,7 +2261,7 @@ If the court has refused a bankrupt a discharge or discharged the bankrupt but s
 ### 318 Effect of deed
 When the court has confirmed the deed and annulled the adjudication,—
   (a) the deed binds all the creditors in all respects as if they had each executed the deed; and
-  (b) subject to the provisions of the Land Transfer Act 1952, the bankrupt's property to which the deed relates vests and must be dealt with as provided in the deed.
+  (b) subject to the provisions of the Land Transfer Act 2017, the bankrupt's property to which the deed relates vests and must be dealt with as provided in the deed.
 
 ### 319 Bankrupt remains liable for unpaid balances of certain debts
 (1) A bankrupt who makes a composition with his or her creditors remains liable for the unpaid balance of a debt if—
