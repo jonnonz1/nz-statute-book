@@ -1,5 +1,5 @@
 # Land Transfer Amendment Act (No 2) 1982
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-12_
 
 > An Act to amend the Land Transfer Act 1952 to provide compensation for persons suffering loss from reliance on official search copies, and to authorise the preparation of fresh duplicate grants or certificates of title where the originals have been lost
 
