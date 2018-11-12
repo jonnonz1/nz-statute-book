@@ -1,5 +1,5 @@
 # Public Trust Act 2001
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Public Trust Act 2001.
@@ -28,7 +28,7 @@ In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of Public Trust
   - **common fund** means the common fund constituted under section 48
   - **court** , in relation to any matter, means a court having jurisdiction in that matter; and includes a Judge of that court
-  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)(c) of the Crown Entities Act 2004
+  - **Crown entity subsidiary** has the same meaning as in the second column of section 7(1)﻿(c) of the Crown Entities Act 2004
   - **estate** means any property administered or held, managed, or controlled by Public Trust, whether as administrator or other trustee or as guardian, committee, manager, liquidator, receiver, agent, or attorney, or in any other capacity
   - **estate money** means money forming part of an estate
   - **fiduciary** means an administrator, trustee, guardian, committee, manager, liquidator, receiver, agent, or attorney, or a fiduciary in any other capacity
@@ -103,8 +103,8 @@ In this Act, unless the context otherwise requires,—
   (b) carry out, perform, or otherwise fulfill functions conferred on Public Trust by this Act or any other Act; and
   (c) carry out, perform, or otherwise fulfill other functions requested by the Minister, acting in agreement with the Minister of Finance, and agreed to by Public Trust; and
   (d) develop, promote, conduct, or otherwise participate in such other business as Public Trust determines with the approval of the Minister, acting in agreement with the Minister of Finance.
-(1A) For the avoidance of doubt, a request under section 8(1)(c) is not a direction by the Minister for the purposes of section 112 of the Crown Entities Act 2004.
-(2) Any request by the Minister and agreement by Public Trust under subsection (1)(c), and any determination of Public Trust and approval of the Minister under subsection (1)(d), must be in writing.
+(1A) For the avoidance of doubt, a request under section 8(1)﻿(c) is not a direction by the Minister for the purposes of section 112 of the Crown Entities Act 2004.
+(2) Any request by the Minister and agreement by Public Trust under subsection (1)﻿(c), and any determination of Public Trust and approval of the Minister under subsection (1)﻿(d), must be in writing.
 (3) As soon as practicable after any such request or determination is made and is agreed or approved, the Minister must—
   (a) publish a copy of the request or determination in the Gazette; and
   (b) present a copy of it to the House of Representatives.
@@ -319,7 +319,7 @@ Public Trust is to invest all capital money and estate money held by it in 1 or 
   (c) Public Trust places or retains an amount in a separate bank account operated in connection with an estate in accordance with section 36(2).
 (2) The common fund is to be invested in the manner provided by section 49.
 (3) Investments made from the common fund are not made on account of, and do not belong to, any particular estate.
-(4) For the purposes of subsection (1)(a), a power or direction to invest money in 1 or some only of any specified investments or classes of investments is not to be treated as an express prohibition against investment in the common fund, unless there is an express direction to the contrary.
+(4) For the purposes of subsection (1)﻿(a), a power or direction to invest money in 1 or some only of any specified investments or classes of investments is not to be treated as an express prohibition against investment in the common fund, unless there is an express direction to the contrary.
 (5) Nothing in this section prevents Public Trust from applying money belonging to an estate constituting part of the common fund for any purpose involved in the exercise of any power or authority conferred on Public Trust by or under—
   (a) this or any other enactment; or
   (b) any will, deed, court order, or other instrument.
@@ -384,7 +384,7 @@ All land that constitutes an investment of the common fund, together with its bu
   (a) the money advanced and any interest payable on that money is, by force of this Act and without any instrument of assignment, to be treated as a first charge on the share against which the advance is made; and
   (b) the money advanced, together with all interest, costs, charges, and expenses due in relation to the advance, is, in the absence of express agreement, repayable on demand, and may be recovered from the person in any court of competent jurisdiction; and
   (c) Public Trust may at any time, without notice, sell, mortgage, charge, or otherwise deal with the share against which the advances are made, for the purpose of obtaining repayment of the money advanced and all associated interest, costs, charges, and expenses that have accrued.
-(5) If a person is beneficially entitled to a share in more than 1 estate administered by Public Trust, Public Trust may exercise the powers conferred by subsection (4)(b) in respect of the person's share or interest in all or any of the estates.
+(5) If a person is beneficially entitled to a share in more than 1 estate administered by Public Trust, Public Trust may exercise the powers conferred by subsection (4)﻿(b) in respect of the person's share or interest in all or any of the estates.
 (6) A certificate by Public Trust as to the following matters is sufficient evidence of the facts stated until the contrary is proved:
   (a) the person to whom the advances were made under this section:
   (b) the amount owing for advances and interest on any specified date:
@@ -459,7 +459,7 @@ Public Trust must, in respect of every group investment fund,—
     (i) on the day the determination is made; or
     (ii) if there is no such quotation on that day, at any time in the preceding 7 days; or
   (b) the market value of the security at the day of the determination as determined by a person authorised to undertake trading activities on the stock exchange.
-(3) In the case of securities valued under subsection (2)(a) that have a fixed or optional maturity date and a fixed annual interest or dividend payment, Public Trust must determine the capital value of the security by making such adjustment as it thinks proper in respect of accrued interest.
+(3) In the case of securities valued under subsection (2)﻿(a) that have a fixed or optional maturity date and a fixed annual interest or dividend payment, Public Trust must determine the capital value of the security by making such adjustment as it thinks proper in respect of accrued interest.
 (4) Subsection (1) is subject to section 67, in a case where a group investment fund's investments consist principally of investments in real property.
 (5) In this section, stock exchange has the same meaning as in section 2(1) of the Companies Act 1993.
 
@@ -650,7 +650,7 @@ If the consent of any person is required for the appointment of an administrator
 (3) The trustee giving the written direction to Public Trust must—
   (a) certify it as correct; and
   (b) where applicable, furnish along with it a true copy of the will or trust instrument affecting the legacy or share.
-(4) Public Trust must act in accordance with the trusts in the will or instrument (if any) referred to in subsection (3)(b), but—
+(4) Public Trust must act in accordance with the trusts in the will or instrument (if any) referred to in subsection (3)﻿(b), but—
   (a) is not under any obligation to inquire into the accuracy of the trustee's certificate; and
   (b) does not incur any liability through acting upon any declaration contained in the certified written direction.
 (5) A certified written direction made in accordance with this section vests in Public Trust all the powers of the trustee in respect of the legacy or share, whether conferred by will, trust instrument, or statute, or in any other manner.
@@ -861,12 +861,12 @@ On application by Public Trust, the court may make an order vesting in Public Tr
 (2) Nothing in subsection (1)—
   (a) limits or affects the generality of sections 104 and 110; or
   (b) affects the liability of the occupier to the owner of the land.
-(3) Public Trust may transfer land it manages under this Part to the person equitably entitled to it, if it is satisfied that the registered proprietor of the land has—
+(3) Public Trust may transfer land it manages under this Part to the person equitably entitled to it, if it is satisfied that the registered owner of the land has—
   (a) sold the land; and
   (b) received payment of all amounts to which he or she is entitled on sale.
 (4) In the case of a transfer under subsection (3),—
   (a) Public Trust may, before the transfer, require the payment of an appropriate fee, plus charges and expenses incurred or payable by Public Trust:
-  (b) the transfer may be made without requiring any payment on behalf of the registered proprietor:
+  (b) the transfer may be made without requiring any payment on behalf of the registered owner:
   (c) the transfer does not affect the rights that any other person may have in respect of the land.
 
 ### 106 Property to be held for owner
@@ -885,7 +885,7 @@ Where Public Trust—the property, money, damages, or profits are, after payment
 (2) The termination of Public Trust's management of any property under this Part does not affect—
   (a) any charge acquired by Public Trust under this Part; or
   (b) the validity of any act or thing done by Public Trust while it was manager of the property.
-(3) Unless Public Trust consents, the court may not make an order under subsection (1)(a) until Public Trust has been paid—
+(3) Unless Public Trust consents, the court may not make an order under subsection (1)﻿(a) until Public Trust has been paid—
   (a) all amounts to which it is entitled under this Part in respect of all expenditure, fees, costs, commission, charges, interest, and expenses incurred by or payable to Public Trust as manager of the property; and
   (b) all costs incurred by Public Trust of and incidental to the application for the order.
 (4) Upon Public Trust ceasing to be manager of any property that remains in its name or possession, Public Trust may transfer or deliver the property to the person entitled to it.
@@ -1113,11 +1113,11 @@ The fact that Public Trust is the person, or one of the persons, dealt with in a
   (a) transfer, assign, convey, mortgage, or lease the estate, share, or interest, or any part of it, to itself in another capacity:
   (b) grant easements in respect of the estate, share, or interest to itself in another capacity:
   (c) enter into covenants and agreements in respect of any such transaction with itself in the one capacity so as to bind itself in the other capacity.
-(2) The covenants and agreements referred to in subsection (1)(c) are binding upon or (as the case may be) operative in favour of an assignee from Public Trust taking from it in the relevant capacity.
-(3) Upon any transfer, assignment, conveyance, mortgage, lease, or grant of easement referred to in subsection (1) being presented in proper order for registration under the Land Transfer Act 1952, the District Land Registrar must register it in accordance with that Act, even though the transfer, assignment, conveyance, mortgage, lease, or grant may—
+(2) The covenants and agreements referred to in subsection (1)﻿(c) are binding upon or (as the case may be) operative in favour of an assignee from Public Trust taking from it in the relevant capacity.
+(3) Upon any transfer, assignment, conveyance, mortgage, lease, or grant of easement referred to in subsection (1) being presented in proper order for registration under the Land Transfer Act 2017, the Registrar-General of Land must register it in accordance with that Act, even though the transfer, assignment, conveyance, mortgage, lease, or grant may—
   (a) contain notice of or evidence a trust in respect of the estate, share, or interest affected; or
   (b) contain notice of or evidence the fact that Public Trust takes the transfer, assignment, conveyance, mortgage, lease, or grant in the capacity of a trustee.
-(4) Once any such transfer, assignment, conveyance, mortgage, lease, or grant has been registered under the Land Transfer Act 1952 or the Deeds Registration Act 1908, no person subsequently dealing with the relevant estate, share, or interest—
+(4) Once any such transfer, assignment, conveyance, mortgage, lease, or grant has been registered under the Land Transfer Act 2017 or the Deeds Registration Act 1908, no person subsequently dealing with the relevant estate, share, or interest—
   (a) is affected by any notice of trust contained in or evidenced by the transfer, assignment, conveyance, mortgage, lease, or grant; or
   (b) is concerned to see or inquire whether Public Trust had authority to enter into the transaction.
 
@@ -1172,7 +1172,7 @@ If the office solicitor acts for both parties in a conveyancing transaction betw
   (a) certifies that Public Trust is authorised to act as trustee, guardian, manager, agent, attorney, liquidator, committee, receiver, or in any other capacity in the particular case; and
   (b) states the manner in which and time at which it became so authorised to act—
 (3) A certificate under this section is sufficient for the purpose of registering Public Trust as proprietor of—
-  (a) an estate or interest in land under the Land Transfer Act 1952; or
+  (a) an estate or interest in land under the Land Transfer Act 2017; or
   (b) a mining privilege under the Mining Act 1971; or
   (c) any shares, stock, or property in any bank, company, body, or association.
 (4) No bank, company, body, association, or person to which a certificate under this section is produced is concerned to inquire concerning the trusts on which Public Trust holds the land, mining privilege, shares, stocks, or property, or as to Public Trust's authority to transfer or deal with it.
@@ -1195,7 +1195,7 @@ If the office solicitor acts for both parties in a conveyancing transaction betw
 
 ### 147 Regulations
 (1) The Governor-General may by Order in Council make regulations prescribing—
-  (a) amounts for the purposes of sections 86(3), 93(1)(b) and (7), 94(1)(c) and (5), 101(1), 126, and 127(1):
+  (a) amounts for the purposes of sections 86(3), 93(1)﻿(b) and (7), 94(1)﻿(c) and (5), 101(1), 126, and 127(1):
   (b) the form of the declaration of fidelity and secrecy for the purposes of section 34:
   (c) for the purposes of any initial disclosure or ongoing disclosure of expenses and management fees in relation to a group investment fund required by sections 70 and 71,—
     (i) the persons to whom the disclosures must be made; and
@@ -1205,7 +1205,7 @@ If the office solicitor acts for both parties in a conveyancing transaction betw
     (i) the filing of an election under Part 6:
     (ii) certifying as a correct copy under the seal of the court a copy of an election under Part 6:
   (e) such other matters as may be contemplated by or necessary or desirable for the purposes of this Act.
-(2) Regulations made under subsection (1)(c) may—
+(2) Regulations made under subsection (1)﻿(c) may—
   (a) prescribe different disclosure requirements for different classes of investment or fund or investor:
   (b) dispense with disclosure requirements in appropriate cases, whether because of the temporary nature of an investment or for other good reason, and specify conditions to which any dispensation from disclosure requirements may be subject:
   (c) specify the consequences of any failure to disclose or late disclosure (which may include a prohibition on the charging or reimbursing of any fees or expenses until disclosure is made):
@@ -1352,7 +1352,7 @@ A transferred employee is not entitled to receive any payment or any other benef
   (a) Enemy Property Regulations 1954 (SR 1954/32):
   (b) Public Trust Office Regulations 1958 (SR 1958/66):
   (c) Public Trust Office (Investments) Order 1969 (SR 1969/122).
-(2) Despite subsection (1)(b), regulations 4 and 8 and Schedule 1 of the Public Trust Office Regulations 1958 continue to have effect, until revoked by regulations made under this Act, as if—
+(2) Despite subsection (1)﻿(b), regulations 4 and 8 and Schedule 1 of the Public Trust Office Regulations 1958 continue to have effect, until revoked by regulations made under this Act, as if—
   (a) references in those provisions to the Public Trustee, the Public Trust Office, and the Public Trust Investment Board were references to Public Trust; and
   (b) references to provisions of the Public Trust Act 1957 were references to the equivalent provisions of this Act.
 
@@ -1366,7 +1366,7 @@ A transferred employee is not entitled to receive any payment or any other benef
 (1) This section applies in respect of funds (existing funds) invested in a group investment fund before the date on which regulations prescribing initial disclosure requirements for funds invested in a group investment fund (the disclosure regulations) come into force.
 (2) Nothing in section 70 prevents any reimbursement of expenses in respect of existing funds before initial disclosure has been made, except to the extent otherwise provided in the disclosure regulations.
 (3) Public Trust may not, however, charge, demand, receive, or retain any management fees under section 71 in respect of any existing funds until it has made initial disclosure of the fees in accordance with the disclosure regulations, except in circumstances where—
-  (a) section 71(2)(b) applies (investment statement under the Securities Act 1978); or
+  (a) section 71(2)﻿(b) applies (investment statement under the Securities Act 1978); or
   (b) the disclosure regulations dispense with the requirement for initial disclosure of management fees.
 (4) The making of initial disclosure in respect of any existing funds does not authorise the charging of a management fee in relation to services rendered in respect of those existing funds during any period prior to the date of the initial disclosure, except as otherwise provided in the disclosure regulations.
 
