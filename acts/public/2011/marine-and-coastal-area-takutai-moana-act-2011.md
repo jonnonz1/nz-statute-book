@@ -1,5 +1,5 @@
 # Marine and Coastal Area (Takutai Moana) Act 2011
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-11-12_
 
 ## Preamble
 (1) In June 2003, the Court of Appeal held in Attorney-General v Ngāti Apa [2003] 3 NZLR 643 that the Māori Land Court had jurisdiction to determine claims of customary ownership to areas of the foreshore and seabed. The Foreshore and Seabed Act 2004 (the 2004 Act) was enacted partly in response to the Court of Appeal’s decision:
@@ -188,7 +188,7 @@ To avoid doubt, this Act does not affect—
   - **regional council** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **regional document** has the meaning given in section 92
   - **register** means the marine and coastal area register that must be kept by the chief executive in accordance with subpart 3 of Part 4
-  - **Registrar** means the Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952
+  - **Registrar** means the Registrar-General of Land appointed in accordance with section 231 of the Land Transfer Act 2017
   - **resource consent** has the meaning given in section 2(1) of the Resource Management Act 1991
   - **responsible Minister** means the Minister of the Crown who, with the authority of the Prime Minister, is for the time being responsible for the administration of any provision in this Act
   - **RMA permission right** means the right held by a customary marine title group under a customary marine title order or agreement as provided for in sections 66 to 68
@@ -201,7 +201,7 @@ To avoid doubt, this Act does not affect—
   - **specified freehold land** means any land that, immediately before the commencement of this Act, is—
     (a) Maori freehold land within the meaning of section 4 of Te Ture Whenua Maori Act 1993; or
     (b) set apart as a Maori reservation under Te Ture Whenua Maori Act 1993; or
-    (c) registered under the Land Transfer Act 1952 and in which a person other than the Crown or a local authority has an estate in fee simple that is registered under that Act; or
+    (c) registered under the Land Transfer Act 2017 and in which a person other than the Crown or a local authority has an estate in fee simple that is registered under that Act; or
     (d) subject to the Deeds Registration Act 1908 and in which a person other than the Crown or a local authority has an estate in fee simple under an instrument that is registered under that Act
   - **structure** —
     (a) has the meaning given in section 2(1) of the Resource Management Act 1991; and
@@ -333,21 +333,21 @@ Nothing in this Act limits or affects—
 (6) The Crown may grant a renewal or extension of a proprietary interest only if the interest contains a right of renewal or extension.
 (7) This section overrides section 11.
 
-### 22 Provisions relating to computer freehold registers wholly in common marine and coastal area
-(1) The Registrar must, at the request of the Minister of Conservation and without further authority than this section, cancel the whole of any computer freehold register that comprises land that is wholly within the common marine and coastal area.
-(2) Immediately upon the cancellation under subsection (1) of a computer freehold register that is subject to a current registered interest or current registered notification, the Registrar must, without further authority than this section,—
-  (a) issue a computer interest register under section 9 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for that registered interest or notification; and
-  (b) record on that computer interest register that the land to which the registered interest or notification relates is located in the common marine and coastal area.
-(3) When the interest or notification for which a computer interest register has been issued in accordance with subsection (2)﻿(a) expires or is extinguished or is otherwise determined, the Registrar must, at the request of the Minister of Conservation and without further authority than this section, cancel the computer interest register.
+### 22 Provisions relating to records of title wholly in common marine and coastal area
+(1) The Registrar must, at the request of the Minister of Conservation and without further authority than this section, cancel the whole of any record of title that comprises land that is wholly within the common marine and coastal area.
+(2) Immediately upon the cancellation under subsection (1) of a record of title that is subject to a current registered interest or current registered notification, the Registrar must, without further authority than this section,—
+  (a) issue a record of title for that registered interest or notification; and
+  (b) record on that record of title that the land to which the registered interest or notification relates is located in the common marine and coastal area.
+(3) When the interest or notification for which a record of title has been issued in accordance with subsection (2)﻿(a) expires or is extinguished or is otherwise determined, the Registrar must, at the request of the Minister of Conservation and without further authority than this section, cancel the record of title.
 
-### 23 Provisions relating to computer freehold register to land in common marine and coastal area and land above line of mean high-water springs
-(1) If any computer freehold register comprises any land that is part of the common marine and coastal area as well as any adjacent land (the adjacent land) above the line of mean high-water springs, either the Minister of Conservation or the owner of the adjacent land may apply to the Registrar for the issue of a computer freehold register for the adjacent land.
-(2) On presentation of the application, the Registrar, on payment of the appropriate fee, must, despite anything in the Land Transfer Act 1952,—
-  (a) cancel the computer freehold register that comprises the land within the common marine and coastal area and the adjacent land; and
-  (b) issue a computer freehold register under section 7 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in the name of the owner of the adjacent land for the adjacent land; and
-  (c) note any current registered interest or current registered notification that relates to the adjacent land against that computer freehold register in the order in which it appears on the computer freehold register cancelled under paragraph (a); and
-  (d) issue a computer interest register under section 9 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 for any registered interest or current registered notification that relates to land within the common marine and coastal area that was part of the computer freehold register cancelled under paragraph (a).
-(3) The Registrar may require the deposit of any survey plan necessary for the issue of a computer freehold register under subsection (2)﻿(b).
+### 23 Provisions relating to record of title to land in common marine and coastal area and land above line of mean high-water springs
+(1) If any record of title comprises any land that is part of the common marine and coastal area as well as any adjacent land (the adjacent land) above the line of mean high-water springs, either the Minister of Conservation or the owner of the adjacent land may apply to the Registrar for the issue of a record of title for the adjacent land.
+(2) On presentation of the application, the Registrar, on payment of the appropriate fee, must, despite anything in the Land Transfer Act 2017,—
+  (a) cancel the record of title that comprises the land within the common marine and coastal area and the adjacent land; and
+  (b) issue a record of title in the name of the owner of the adjacent land for the adjacent land; and
+  (c) note any current registered interest or current registered notification that relates to the adjacent land against that record of title in the order in which it appears on the record of title cancelled under paragraph (a); and
+  (d) issue a record of title for any registered interest or current registered notification that relates to land within the common marine and coastal area that was part of the record of title cancelled under paragraph (a).
+(3) The Registrar may require the deposit of any survey plan necessary for the issue of a record of title under subsection (2)﻿(b).
 (4) To avoid doubt, no action taken under this section is subject to Part 10 of the Resource Management Act 1991.
 
 ### 24 Exclusion of interests in marine and coastal area founded on adverse possession or prescriptive title
@@ -525,11 +525,11 @@ Nothing in this Act limits or affects—
   (a) state the name of the applicant in whom the interest is vested and describe the position and extent of the reclaimed land; and
   (b) describe the interest vested; and
   (c) describe any encumbrances or restrictions imposed on the interest, including any restrictions that apply under section 44; and
-  (d) where the interest vested is a freehold interest and in any other case where the Minister considers it appropriate, be sent by the Minister to the Registrar, with a request that a computer register be issued accordingly; and
+  (d) where the interest vested is a freehold interest and in any other case where the Minister considers it appropriate, be sent by the Minister to the Registrar, with a request that a record of title be issued accordingly; and
   (e) where the Registrar receives a request under paragraph (d), be registered by the Registrar after receipt from the Minister.
 (3) The Registrar must, in accordance with a request made under subsection (2)﻿(d),—
-  (a) issue a computer register under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in respect of the interest in the land vested by the Gazette notice; and
-  (b) record on that computer register—
+  (a) issue a record of title in respect of the interest in the land vested by the Gazette notice; and
+  (b) record on that record of title—
     (i) that the land is reclaimed land subject to subpart 3 of Part 2 of the Marine and Coastal Area (Takutai Moana) Act 2011; and
     (ii) where the interest vested is a freehold interest, that the disposition of the freehold interest in that land is restricted by that subpart.
 
@@ -578,14 +578,14 @@ Nothing in this Act limits or affects—
   (a) state the name of the customary marine title group, and describe the position and extent of the reclaimed land; and
   (b) describe the interest vested; and
   (c) describe any encumbrances or restrictions imposed on the interest; and
-  (d) where the interest vested is a freehold interest and in any other case where the Minister considers it appropriate, be sent by the Minister to the Registrar, with a request that a computer register be issued accordingly; and
+  (d) where the interest vested is a freehold interest and in any other case where the Minister considers it appropriate, be sent by the Minister to the Registrar, with a request that a record of title be issued accordingly; and
   (e) where the Registrar receives a request under paragraph (d), be registered by the Registrar after receipt from the Minister.
-(7) The Registrar must, in accordance with a request made under subsection (6)﻿(d), issue a computer register under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002 in respect of the interest in the land vested by the Gazette notice.
+(7) The Registrar must, in accordance with a request made under subsection (6)﻿(d), issue a record of title in respect of the interest in the land vested by the Gazette notice.
 
 **Rights of first refusal**
 
 ### 44 Restrictions on disposition of freehold interest
-(1) For as long as a computer register issued for reclaimed land subject to this subpart contains a record made under section 39(3)﻿(b), the freehold interest in the land may not be disposed of otherwise than in accordance with section 45, but if that record is removed (in accordance with subsection (6) of this section) following a disposition in accordance with section 45, the freehold interest may be disposed of in any lawful way.
+(1) For as long as a record of title issued for reclaimed land subject to this subpart contains a record made under section 39(3)﻿(b), the freehold interest in the land may not be disposed of otherwise than in accordance with section 45, but if that record is removed (in accordance with subsection (6) of this section) following a disposition in accordance with section 45, the freehold interest may be disposed of in any lawful way.
 (2) However, the restriction in subsection (1) does not apply to a disposition that—
   (a) is made by a company to another company if both companies are—
     (i) members of the same group (within the meaning of section 5 of the Financial Reporting Act 2013); or
@@ -594,9 +594,9 @@ Nothing in this Act limits or affects—
 (3) The Minister may, at the request of the proprietor of the freehold interest and on payment of any fees payable under regulations made under this Act, sign a certificate stating that the freehold interest in reclaimed land has been disposed of in accordance with section 45 or that the disposition is permitted by subsection (2).
 (4) A certificate signed under subsection (3) is conclusive evidence of the matter stated in the certificate.
 (5) A transfer instrument purporting to effect a disposition to which subsection (1) applies—
-  (a) may not be presented for registration under the Land Transfer Act 1952 unless the Minister has signed a certificate in respect of the disposition under subsection (3); and
+  (a) may not be presented for registration under the Land Transfer Act 2017 unless the Minister has signed a certificate in respect of the disposition under subsection (3); and
   (b) must, on being presented for registration under that Act, be accompanied by that certificate.
-(6) If the certificate presented under subsection (5)﻿(b) states that the freehold interest in reclaimed land has been disposed of in accordance with section 45, the Registrar must on registration of the transfer instrument remove from the computer register the record made under section 39(3)﻿(b).
+(6) If the certificate presented under subsection (5)﻿(b) states that the freehold interest in reclaimed land has been disposed of in accordance with section 45, the Registrar must on registration of the transfer instrument remove from the record of title the record made under section 39(3)﻿(b).
 
 ### 45 Offers to Minister, iwi or hapū, or public
 (1) In order to dispose of a freehold interest in reclaimed land (the freehold interest) in compliance with this section, the proprietor of the freehold interest must dispose of the freehold interest in accordance with a written notice that is in effect at the time of the disposition and is given under whichever of subsection (2), (4), or (6) is applicable.
