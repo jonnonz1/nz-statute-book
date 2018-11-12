@@ -1,5 +1,5 @@
 # New Zealand Railways Staff Welfare Society Dissolution Act 1999
-_Consolidation as at 1999-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to—adissolve the New Zealand Railways Staff Welfare Society; andbtransfer its assets and liabilities to a charitable trust; andcprovide for incidental matters
 
@@ -38,7 +38,7 @@ On and from the commencement day,—
 (4) In this section, Chairman means the person who held office as the Chairman of the Welfare Board immediately before the commencement day.
 
 ### 6 Registers
-(1) A Registrar of Deeds, District Land Registrar, or any other person charged with keeping books or registers is not required to change the name of the society to that of the charitable trust in the books, registers, or a document solely by reason of the provisions of this Act.
+(1) A Registrar of Deeds, the Registrar-General of Land, or any other person charged with keeping books or registers is not required to change the name of the society to that of the charitable trust in the books, registers, or a document solely by reason of the provisions of this Act.
 (2) The presentation to a registrar or other person of an instrument, whether it is an instrument of transfer or not, by the charitable trust is, in the absence of evidence to the contrary, sufficient proof that the property is vested in the charitable trust if the instrument—
   (a) is executed, or purports to be executed, by the charitable trust; and
   (b) relates to property held by the society immediately before the commencement day; and
