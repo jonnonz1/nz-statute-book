@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide greater protection from domestic violence
 
@@ -27,7 +27,7 @@ In this Act, unless the context otherwise requires,—
   - **domestic relationship** means one of the relationships set out in section 4(1)
   - **domestic violence** has the meaning set out in section 3
   - **dwellinghouse** includes—
-    (a) any flat or town house, whether or not occupied pursuant to a licence to occupy within the meaning of section 121A of the Land Transfer Act 1952:
+    (a) any flat or town house, whether or not occupied pursuant to a licence to occupy within the meaning of section 122 of the Land Transfer Act 2017:
     (b) any mobile home, caravan, or other means of shelter placed or erected upon any land and intended for occupation on that land
   - **encourage** includes to incite, counsel, or procure
   - **family member** , in relation to a person, means—
