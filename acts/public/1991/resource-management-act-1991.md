@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2018-09-14_
+_Consolidation as at 2018-11-12_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -80,7 +80,7 @@ _Consolidation as at 2018-09-14_
   - **combined document** means any instrument for which section 80 makes provision
   - **commercial fishing** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **common marine and coastal area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
-  - **company lease** means a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land—and includes a licence within the meaning of section 121A of the Land Transfer Act 1952
+  - **company lease** means a lease or licence or other right of occupation of any building or part of any building on, or to be erected on, any land—and includes a licence within the meaning of section 122 of the Land Transfer Act 2017
     (a) that is granted by a company owning an estate or interest in the land; and
     (b) that is held by a person by virtue of being a shareholder in the company,—
   - **completion certificate** means a certificate issued under section 222
@@ -326,8 +326,8 @@ _Consolidation as at 2018-09-14_
   - **submission** means a written or electronic submission
   - **survey plan** has the meaning set out in the following paragraphs, in which has the same meaning as in section 4 of the Cadastral Survey Act 2002:
     (a) survey plan means—
-      (i) a cadastral survey dataset of subdivision of land, or a building or part of a building, prepared in a form suitable for deposit under the Land Transfer Act 1952; and
-      (ii) a cadastral survey dataset of a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 1952:
+      (i) a cadastral survey dataset of subdivision of land, or a building or part of a building, prepared in a form suitable for deposit under the Land Transfer Act 2017; and
+      (ii) a cadastral survey dataset of a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017:
     (b) survey plan includes—
       (i) a unit plan; and
       (ii) a cadastral survey dataset to give effect to the grant of a cross lease or company lease
@@ -3885,9 +3885,9 @@ If a national environmental standard is made to control the effects on climate c
 
 ### 109 Special provisions in respect of bonds or covenants
 (1) Every bond given under section 108A in respect of a land use consent or subdivision consent, and any other bond to which this subsection is applied as a condition of the consent, and every covenant given under section 108(2)﻿(d),—
-  (a) shall be deemed to be an instrument creating an interest in the land within the meaning of section 62 of the Land Transfer Act 1952, and may be registered accordingly; and
-  (b) when registered under the Land Transfer Act 1952, shall be a covenant running with the land and shall, notwithstanding anything to the contrary in section 105 of the Land Transfer Act 1952, bind all subsequent owners of the land.
-(2) Where any such bond or covenant has been registered under the Land Transfer Act 1952 and that bond or covenant is varied, cancelled, or expires, the Registrar-General of Land shall make an appropriate entry in the register and on any relevant instrument of title noting that the bond or covenant has been varied or cancelled or has expired, and the bond or covenant shall take effect as so varied or cease to have any effect, as the case may be.
+  (a) shall be deemed to be an instrument creating an interest in the land within the meaning of section 51 of the Land Transfer Act 2017, and may be registered accordingly; and
+  (b) when registered under the Land Transfer Act 2017, shall be a covenant running with the land and shall, notwithstanding anything to the contrary in section 103 of the Land Transfer Act 2017, bind all subsequent owners of the land.
+(2) Where any such bond or covenant has been registered under the Land Transfer Act 2017 and that bond or covenant is varied, cancelled, or expires, the Registrar-General of Land shall make an appropriate entry in the register and on any relevant instrument of title noting that the bond or covenant has been varied or cancelled or has expired, and the bond or covenant shall take effect as so varied or cease to have any effect, as the case may be.
 (3) Where any bond has been given in respect of the completion of any work, or for the purposes of ascertaining whether the work has been completed to the satisfaction of the consent authority, the consent authority may from time to time, under section 171 of the Local Government Act 2002, enter on the land where the work is required to be, or is being, or has been, carried out.
 (4) Where the holder fails, within the period prescribed by the resource consent (or within such further period as the consent authority may allow), to complete, to the satisfaction of the consent authority, any work in respect of which any bond is given (including completion of any interim monitoring required)—
   (a) the consent authority may enter on the land and complete the work and recover the cost thereof from the holder out of any money or securities deposited with the consent authority or money paid by a guarantor, so far as the money or securities will extend; and
@@ -7225,23 +7225,23 @@ If a special tribunal reports under section 208, or the Environment Court recomm
 ### 218 Meaning of subdivision of land
 (1) In this Act, the term subdivision of land means—and the term subdivide land has a corresponding meaning.
   (a) the division of an allotment—
-    (i) by an application to the Registrar-General of Land for the issue of a separate certificate of title for any part of the allotment; or
+    (i) by an application to the Registrar-General of Land for the issue of a separate record of title for any part of the allotment; or
     (ii) by the disposition by way of sale or offer for sale of the fee simple to part of the allotment; or
     (iii) by a lease of part of the allotment which, including renewals, is or could be for a term of more than 35 years; or
     (iv) by the grant of a company lease or cross lease in respect of any part of the allotment; or
-    (v) by the deposit of a unit plan, or an application to the Registrar-General of Land for the issue of a separate certificate of title for any part of a unit on a unit plan; or
-  (b) an application to the Registrar-General of Land for the issue of a separate certificate of title in circumstances where the issue of that certificate of title is prohibited by section 226,—
+    (v) by the deposit of a unit plan, or an application to the Registrar-General of Land for the issue of a separate record of title for any part of a unit on a unit plan; or
+  (b) an application to the Registrar-General of Land for the issue of a separate record of title in circumstances where the issue of that record of title is prohibited by section 226,—
 (2) In this Act, the term allotment means—
-  (a) any parcel of land under the Land Transfer Act 1952 that is a continuous area and whose boundaries are shown separately on a survey plan, whether or not—
+  (a) any parcel of land under the Land Transfer Act 2017 that is a continuous area and whose boundaries are shown separately on a survey plan, whether or not—
     (i) the subdivision shown on the survey plan has been allowed, or subdivision approval has been granted, under another Act; or
     (ii) a subdivision consent for the subdivision shown on the survey plan has been granted under this Act; or
   (b) any parcel of land or building or part of a building that is shown or identified separately—
     (i) on a survey plan; or
-    (ii) on a licence within the meaning of Part 7A of the Land Transfer Act 1952; or
+    (ii) on a licence within the meaning of subpart 6 of Part 3 of the Land Transfer Act 2017; or
   (c) any unit on a unit plan; or
-  (d) any parcel of land not subject to the Land Transfer Act 1952.
+  (d) any parcel of land not subject to the Land Transfer Act 2017.
 (3) For the purposes of subsection (2), an allotment that is—shall be deemed to be a continuous area of land notwithstanding that part of it is physically separated from any other part by a road or in any other manner whatsoever, unless the division of the allotment into such parts has been allowed by a subdivision consent granted under this Act or by a subdivisional approval under any former enactment relating to the subdivision of land.
-  (a) subject to the Land Transfer Act 1952 and is comprised in 1 certificate of title or for which 1 certificate of title could be issued under that Act; or
+  (a) subject to the Land Transfer Act 2017 and is comprised in 1 record of title or for which 1 record of title could be issued under that Act; or
   (b) not subject to that Act and was acquired by its owner under 1 instrument of conveyance—
 (4) For the purposes of subsection (2), the balance of any land from which any allotment is being or has been subdivided is deemed to be an allotment.
 
@@ -7265,7 +7265,7 @@ If a special tribunal reports under section 208, or the Environment Court recomm
   (f) a condition requiring that any easements be duly granted or reserved:
   (g) a condition requiring that any existing easements in respect of which the land is the dominant tenement and which the territorial authority considers to be redundant, be extinguished, or be extinguished in relation to any specified allotment or allotments.
 (2) For the purposes of subsection (1)﻿(b)—
-  (a) where any condition requires land to be amalgamated, the territorial authority shall, subject to subsection (3), specify (as part of that condition) that such land be held in 1 certificate of title or be subject to a covenant entered into between the owner of the land and the territorial authority that any specified part or parts of the land shall not, without the consent of the territorial authority, be transferred, leased, or otherwise disposed of except in conjunction with other land; and
+  (a) where any condition requires land to be amalgamated, the territorial authority shall, subject to subsection (3), specify (as part of that condition) that such land be held in 1 record of title or be subject to a covenant entered into between the owner of the land and the territorial authority that any specified part or parts of the land shall not, without the consent of the territorial authority, be transferred, leased, or otherwise disposed of except in conjunction with other land; and
   (b) land shall be regarded as adjoining other land notwithstanding that it is separated from the other land only by a road, railway, drain, water race, river, or stream.
 (3) Before deciding to grant a subdivision consent on a condition described in subsection (1)﻿(b), the territorial authority shall consult with the Registrar-General of Land as to the practicality of that condition. If the Registrar-General of Land advises the territorial authority that it is not practical to impose a particular condition, the territorial authority shall not grant a subdivision consent subject to that condition, but may if it thinks fit grant a subdivision consent subject to such other conditions under subsection (1)﻿(b) which the Registrar-General of Land advises are practical in the circumstances.
 
@@ -7277,9 +7277,9 @@ If a special tribunal reports under section 208, or the Environment Court recomm
   (b) the territorial authority may review any condition specified in a consent notice and vary or cancel the condition.
 (3A) Sections 88 to 121 and 127(4) to 132 apply, with all necessary modifications, in relation to an application made or review conducted under subsection (3).
 (4) Every consent notice shall be deemed—
-  (a) to be an instrument creating an interest in the land within the meaning of section 62 of the Land Transfer Act 1952, and may be registered accordingly; and
-  (b) to be a covenant running with the land when registered under the Land Transfer Act 1952, and shall, notwithstanding anything to the contrary in section 105 of the Land Transfer Act 1952, bind all subsequent owners of the land.
-(5) Where a consent notice has been registered under the Land Transfer Act 1952 and any condition in that notice has been varied or cancelled after an application or review under subsection (3) or has expired, the Registrar-General of Land shall, if he or she is satisfied that any condition in that notice has been so varied or cancelled or has expired, make an entry in the register and on any relevant instrument of title noting that the consent notice has been varied or cancelled or has expired, and the condition in the consent notice shall take effect as so varied or cease to have any effect, as the case may be.
+  (a) to be an instrument creating an interest in the land within the meaning of section 51 of the Land Transfer Act 2017, and may be registered accordingly; and
+  (b) to be a covenant running with the land when registered under the Land Transfer Act 2017, and shall, notwithstanding anything to the contrary in section 103 of the Land Transfer Act 2017, bind all subsequent owners of the land.
+(5) Where a consent notice has been registered under the Land Transfer Act 2017 and any condition in that notice has been varied or cancelled after an application or review under subsection (3) or has expired, the Registrar-General of Land shall, if he or she is satisfied that any condition in that notice has been so varied or cancelled or has expired, make an entry in the register and on any relevant instrument of title noting that the consent notice has been varied or cancelled or has expired, and the condition in the consent notice shall take effect as so varied or cease to have any effect, as the case may be.
 
 ### 222 Completion certificates
 (1) Where under this Part, compliance with a condition of a subdivision consent is dependent on the completion by the owner of any work required by the territorial authority or on the making of a financial contribution (as defined in section 108(9)), the territorial authority may, for the purposes of section 224, issue a certificate to the effect that the owner has entered into a bond binding the owner to carry out and complete the work or make the financial contribution (as the case may be) to the satisfaction of the territorial authority within such period as the territorial authority may specify.
@@ -7313,7 +7313,7 @@ If a special tribunal reports under section 208, or the Environment Court recomm
 No survey plan shall be deposited for the purposes of section 11(1)﻿(a)﻿(i) or (iii) unless—
   (a)
   (b) where land shown on the survey plan will vest in the Crown or a territorial authority, there is endorsed on the survey plan or deposited with the Registrar-General of Land, written consent to the subdivision given by—
-    (i) in the case of land subject to the Land Transfer Act 1952, every registered proprietor of an interest, including any encumbrance, in the land; or
+    (i) in the case of land subject to the Land Transfer Act 2017, every registered owner of an interest, including any encumbrance, in the land; or
     (ii) in the case of land not subject to that Act, every person having an interest, including any encumbrance, in the land that is evidenced by an instrument registered under the Deeds Registration Act 1908; and
   (c) there is lodged with the Registrar-General of Land a certificate signed by the chief executive or other authorised officer of the territorial authority stating that it has approved the survey plan under section 223 (which approval states the date of the approval), and all or any of the conditions of the subdivision consent have been complied with to the satisfaction of the territorial authority and that in respect of such conditions that have not been complied with—
     (i) a completion certificate has been issued in relation to such of the conditions to which section 222 applies:
@@ -7326,52 +7326,52 @@ No survey plan shall be deposited for the purposes of section 11(1)﻿(a)﻿(i) 
   (h) less than 3 years has elapsed since the territorial authority approved the plan under section 223.
 
 ### 225 Agreement to sell land or building before deposit of plan
-(1) Any agreement to sell any land or any building or part of any building that constitutes a subdivision and is made before the appropriate survey plan is approved under section 223, shall be deemed to be made subject to a condition that the survey plan will be deposited under the Land Transfer Act 1952 or in the Deeds Register Office, as the case may be; and no such agreement is illegal or void by reason that it was entered into before the survey plan was deposited.
+(1) Any agreement to sell any land or any building or part of any building that constitutes a subdivision and is made before the appropriate survey plan is approved under section 223, shall be deemed to be made subject to a condition that the survey plan will be deposited under the Land Transfer Act 2017 or in the Deeds Register Office, as the case may be; and no such agreement is illegal or void by reason that it was entered into before the survey plan was deposited.
 (2) Subject to subsection (1), any agreement to sell any allotment in a proposed subdivision made before the appropriate survey plan is approved under section 223 shall be deemed to be made subject to the following conditions:
   (a) that the purchaser may, by notice in writing to the vendor, cancel the agreement at any time before the end of 14 days after the date of the making of the agreement:
   (b) that the purchaser may, at any time after the expiration of 2 years after the date of granting of the resource consent or 1 year after the date of the agreement, whichever is the later, by notice in writing to the vendor, rescind the contract if the vendor has not made reasonable progress towards submitting a survey plan to the territorial authority for its approval or has not deposited the survey plan within a reasonable time after the date of its approval.
 (3) An agreement may be rescinded under subsection (2) notwithstanding that the parties cannot be restored to the position that they were in immediately before the agreement was made, and in any such case the rights and obligations of each party shall, in the absence of agreement between the parties, be as determined by a court of competent jurisdiction.
 
 ### 226 Restrictions upon issue of certificates of title for subdivision
-(1) The Registrar-General of Land shall not issue a certificate of title for any land that is shown as a separate allotment on a survey plan (being a certificate issued to give effect to the subdivision shown on that survey plan), unless he or she is satisfied, after due inquiry, that—
+(1) The Registrar-General of Land shall not issue a record of title for any land that is shown as a separate allotment on a survey plan (being a record of title issued to give effect to the subdivision shown on that survey plan), unless he or she is satisfied, after due inquiry, that—
   (a) the plan has been deposited in accordance with section 224 or has been approved by the Chief Surveyor for the purposes of section 228 and the provisions of section 228(2) have been complied with; or
   (b) the plan has been deposited in accordance with section 306 of the Local Government Act 1974 or was a Crown plan to which section 306(7) of the Local Government Act 1974 applied; or
   (ba) the plan has been approved under Part 25 of the Municipal Corporations Act 1954; or
   (bb) the plan has been approved under Part 2 of the Counties Amendment Act 1961; or
-  (bc) the plan did not require the approval of the Council under Part 2 of the Counties Amendment Act 1961 and was deposited under the Land Transfer Act 1952 after the said Part 2 came into force; or
+  (bc) the plan did not require the approval of the Council under Part 2 of the Counties Amendment Act 1961 and was deposited under the Land Transfer Act 2017 after the said Part 2 came into force; or
   (c) the plan has been deposited in accordance with the Unit Titles Act 2010; or
-  (d) the certificate of title is issued to enable effect to be given to any agreement for sale and purchase or agreement to lease or other contract to create an interest in land or a building or part of a building made before the commencement of this Act; or
+  (d) the record of title is issued to enable effect to be given to any agreement for sale and purchase or agreement to lease or other contract to create an interest in land or a building or part of a building made before the commencement of this Act; or
   (e) the territorial authority has given a certificate signed by the principal administrative officer or other authorised officer to the effect—
     (i) that there is no district plan for the area to which the survey plan relates, and that the allotment is in accordance with the requirements and provisions of the proposed district plan; or
     (ii) that the allotment is in accordance with the requirements and provisions of the district plan and the proposed district plan (if any) for the area to which the survey plan relates; or
     (iii) that the allotment is in accordance with a permission or permissions granted under Part 2 or Part 4 of the Town and Country Planning Act 1977.
-(2) Nothing in section 11 shall apply to the issue of a certificate of title pursuant to subsection (1).
+(2) Nothing in section 11 shall apply to the issue of a record of title pursuant to subsection (1).
 
 ### 226A Savings in respect of cross leases, company leases, and retirement village leases
 (1) Nothing in section 11 or this Part shall apply—
-  (a) to the registration of a memorandum of cross lease or company lease, in renewal or in substitution for a cross lease or company lease, and the issue of a certificate of title therefor in respect of a building or part of a building shown on a plan—
+  (a) to the registration of a memorandum of cross lease or company lease, in renewal or in substitution for a cross lease or company lease, and the issue of a record of title therefor in respect of a building or part of a building shown on a plan—
     (i) deposited or lodged in the land registry office for cross lease or company lease purposes before the commencement of this Act; or
     (ii) to which paragraph (b) or paragraph (c) of section 408(1) applies; or
   (b) to the registration of a lease of a residence within retirement village premises shown on a plan deposited before the commencement of this Act or the issue of a certificate of title therefor; or
   (c) to the renewal or substitution of a company lease in respect of a building or part of a building if the original company lease was in existence before the commencement of this Act (whether or not the renewal or substitution is part of the original company lease or a subsequent company lease).
-(2) The Registrar-General of Land shall not register a lease or issue a certificate of title for a residence within retirement village premises, in respect of a plan deposited before the commencement of this Act, unless a certificate is endorsed on the memorandum of lease, and signed by the lessor or by a Solicitor of the High Court, that subsection (1)﻿(b) applies.
+(2) The Registrar-General of Land shall not register a lease or issue a record of title for a residence within retirement village premises, in respect of a plan deposited before the commencement of this Act, unless a certificate is endorsed on the lease instrument, and signed by the lessor or by a Solicitor of the High Court, that subsection (1)﻿(b) applies.
 (3) For the purposes of this section, retirement village premises means premises (including any land and associated buildings) within a complex of premises for occupation as residences predominantly by persons who are retired and any spouses or partners of such persons.
 
 ### 227 Cancellation of prior approvals
 (1) Where—the approval given to the first-mentioned survey plan on or before the date of deposit of the second-mentioned survey plan shall, except as to conditions to which sections 221, and 243 or the equivalent provisions of any former enactment apply,—
-  (a) before or after the date of commencement of this Act, a survey plan has been deposited under the Land Transfer Act 1952 or under any other authority or in the Deeds Register Office; and
+  (a) before or after the date of commencement of this Act, a survey plan has been deposited under the Land Transfer Act 2017 or under any other authority or in the Deeds Register Office; and
   (b) a survey plan of the same land is deposited in accordance with section 224,—
   (c) be deemed to be cancelled; or
   (d) where the land in the second-mentioned survey plan is part only of the land in the first-mentioned survey plan, be deemed to be cancelled so far as it relates to the land in the second-mentioned survey plan.
 (2) Subsection (1) does not apply to the deposit of a unit plan, or to a survey plan which gives effect to the grant of a lease to which section 218(1)﻿(a)﻿(iii) applies, or a cross lease or company lease.
 
 ### 228 Subdivision by the Crown
-(1) Where a survey plan of a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 1952 has been approved by a territorial authority under section 223,—
+(1) Where a survey plan of a subdivision by or on behalf of a Minister of the Crown of land not subject to the Land Transfer Act 2017 has been approved by a territorial authority under section 223,—
   (a) subject to subsection (2), the approval by the Chief Surveyor of the land district in which the land is situated of the survey plan of the subdivision has legal effect as if it were the deposit of a survey plan in accordance with section 224; and
-  (b) the land is then deemed to be subject to the Land Transfer Act 1952 and, subject to subsection (2), a certificate of title for the land may be issued by the Registrar-General of Land in the name of Her Majesty the Queen at the request of—as if section 16 of the Land Transfer Act 1952 applied.
+  (b) the land is then deemed to be subject to the Land Transfer Act 2017 and, subject to subsection (2), a record of title for the land may be issued by the Registrar-General of Land in the name of Her Majesty the Queen at the request of—
     (i) the Director-General of Conservation if the land is a conservation area within the meaning of the Conservation Act 1987, or a reserve under the Reserves Act 1977, or a national park under the National Parks Act 1980, or a wildlife sanctuary or wildlife refuge under the Wildlife Act 1953; or
-    (ii) the Surveyor-General or other officer authorised in writing by the Surveyor-General in every other case—
-(2) Section 224 shall apply, with all necessary modifications, to a survey plan to which this section applies and the Registrar-General of Land shall not issue a certificate of title for any land that is shown as a separate allotment on a survey plan approved by a Chief Surveyor unless section 224 is complied with.
+    (ii) the Surveyor-General or other officer authorised in writing by the Surveyor-General in every other case.
+(2) Section 224 shall apply, with all necessary modifications, to a survey plan to which this section applies and the Registrar-General of Land shall not issue a record of title for any land that is shown as a separate allotment on a survey plan approved by a Chief Surveyor unless section 224 is complied with.
 
 **Esplanade reserves**
 
@@ -7406,7 +7406,7 @@ An esplanade reserve or an esplanade strip has 1 or more of the following purpos
   (a) be in accordance with Schedule 10; and
   (b) be in the prescribed form; and
   (c) be created in favour of the territorial authority; and
-  (d) create an interest in land, and may be registered under the Land Transfer Act 1952; and
+  (d) create an interest in land, and may be registered under the Land Transfer Act 2017; and
   (e) when registered with the Registrar-General of Land, run with and bind the land that is subject to the instrument; and
   (f) bind every mortgagee or other person having an interest in the land, without that person's consent.
 (3) Where an esplanade strip is created, that strip may be closed to public entry under section 237C.
@@ -7429,7 +7429,7 @@ An esplanade reserve or an esplanade strip has 1 or more of the following purpos
 (5) Any person having an interest in land affected by the new esplanade strip created under subsection (1) shall be bound by the instrument applying to that strip.
 
 ### 234 Variation or cancellation of esplanade strips
-(1) The registered proprietor of any land subject to an esplanade strip may apply to the territorial authority to vary or cancel the instrument creating the strip.
+(1) The registered owner of any land subject to an esplanade strip may apply to the territorial authority to vary or cancel the instrument creating the strip.
 (2) The application shall include—
   (a) a description of the strip and its location; and
   (b) an assessment of the effects of varying or cancelling the strip.
@@ -7446,7 +7446,7 @@ An esplanade reserve or an esplanade strip has 1 or more of the following purpos
 (8) The Registrar-General of Land shall make an appropriate entry in the register and on the instrument noting that the instrument has been varied or cancelled, and the instrument shall take effect as so varied or cease to have any effect, as the case may be.
 
 ### 235 Creation of esplanade strips by agreement
-(1) An esplanade strip may at any time be created for any of the purposes specified in section 229 by agreement between the registered proprietor of any land and the local authority, and the provisions of sections 229, 232, 233, 234, 237(2), and 237C shall apply, with all necessary modifications.
+(1) An esplanade strip may at any time be created for any of the purposes specified in section 229 by agreement between the registered owner of any land and the local authority, and the provisions of sections 229, 232, 233, 234, 237(2), and 237C shall apply, with all necessary modifications.
 (2) No instrument for an esplanade strip by agreement may be registered with the Registrar-General of Land unless every person having a registered interest in the land has endorsed his or her consent on the instrument.
 
 ### 236 Where land previously set aside or reserved
@@ -7463,13 +7463,13 @@ Where—then, notwithstanding that any land of the kind referred to in paragraph
 
 ### 237 Approval of survey plans where esplanade reserve or esplanade strips required
 (1) Subject to subsection (3), the territorial authority shall not approve a survey plan unless any esplanade reserve or esplanade strip required under this Part is shown on the survey plan.
-(2) Notwithstanding anything in the Land Transfer Act 1952, an esplanade strip shall not be required to be surveyed, but where an esplanade strip is shown on the survey plan, it shall be clearly identified in such manner as the Chief Surveyor considers appropriate.
+(2) Notwithstanding anything in the Land Transfer Act 2017, an esplanade strip shall not be required to be surveyed, but where an esplanade strip is shown on the survey plan, it shall be clearly identified in such manner as the Chief Surveyor considers appropriate.
 (3) Where—the territorial authority, after consultation with the Registrar-General of Land, shall not approve the primary survey plan until a separate survey plan showing the esplanade reserve or esplanade strip has been prepared and submitted to the territorial authority for approval under this section.
   (a) an esplanade reserve or esplanade strip is required under this Part in respect of a subdivision which is to be effected by the grant of a cross lease or company lease or by the deposit of a unit plan; and
   (b) it is not practical to show the esplanade reserve or esplanade strip on the survey plan submitted for approval under section 223 (in this section referred to as the primary survey plan)—
 (4) Where the territorial authority approves a separate survey plan under subsection (3)—
   (a) a memorandum to that effect shall be endorsed on the primary survey plan and the separate survey plan; and
-  (b) the Registrar-General of Land shall not deposit the primary survey plan and (in respect of a subdivision by the Crown) the Registrar-General of Land shall not issue a certificate of title for any separate allotment on the primary survey plan approved by the Chief Surveyor for the purposes of section 228, unless the separate survey plan on which the esplanade reserve or esplanade strip is shown is deposited prior to, or at the same time as, the primary survey plan.
+  (b) the Registrar-General of Land shall not deposit the primary survey plan and (in respect of a subdivision by the Crown) the Registrar-General of Land shall not issue a record of title for any separate allotment on the primary survey plan approved by the Chief Surveyor for the purposes of section 228, unless the separate survey plan on which the esplanade reserve or esplanade strip is shown is deposited prior to, or at the same time as, the primary survey plan.
 (5) Subject to this section, nothing in section 11 or this Part applies to a separate survey plan approved by a territorial authority under this section.
 
 ### 237A Vesting of land in common marine and coastal area or bed of lake or river
@@ -7481,9 +7481,9 @@ Where—then, notwithstanding that any land of the kind referred to in paragraph
 (2) Any requirement to vest the bed under subsection (1)﻿(a)﻿(i) shall be subject to any rule in a district plan or any resource consent which provides otherwise.
 
 ### 237B Access strips
-(1) A local authority may agree with the registered proprietor of any land to acquire an easement over the land, and may agree upon the conditions upon which such an easement may be enjoyed.
+(1) A local authority may agree with the registered owner of any land to acquire an easement over the land, and may agree upon the conditions upon which such an easement may be enjoyed.
 (2) Any such easement shall—
-  (a) be executed by the local authority and the registered proprietor; and
+  (a) be executed by the local authority and the registered owner; and
   (b) be in the prescribed form; and
   (c) contain the relevant provisions in accordance with Schedule 10.
 (3) When deciding which matters shall be provided for in the easement, the parties shall consider—
@@ -7499,7 +7499,7 @@ Where—then, notwithstanding that any land of the kind referred to in paragraph
 (5) Any such easement shall take effect when registered at the office of the Registrar-General of Land.
 (6) An access strip may be closed to public entry under section 237C.
 (7) No easement for an access strip may be registered with the Registrar-General of Land unless every person having a registered interest in the land has endorsed his or her consent on the easement.
-(8) The registered proprietor and the local authority may, by agreement, vary or cancel the easement if the matters in subsection (4) and any change in circumstances have been taken into account; and in any such case the provisions of section 234(7) and (8) shall apply, with all necessary modifications.
+(8) The registered owner and the local authority may, by agreement, vary or cancel the easement if the matters in subsection (4) and any change in circumstances have been taken into account; and in any such case the provisions of section 234(7) and (8) shall apply, with all necessary modifications.
 
 ### 237C Closure of strips to public
 (1) An esplanade strip or access strip may be closed to the public for the times and periods specified in the instrument or easement under Schedule 10, or by the local authority during periods of emergency or public risk likely to cause loss of life, injury, or serious damage to property.
@@ -7514,10 +7514,10 @@ Where—then, notwithstanding that any land of the kind referred to in paragraph
 
 ### 237E Compensation for taking of esplanade reserves or strips on allotments of less than 4 hectares
 (1) Where an allotment of less than 4 hectares is created when land is subdivided, no compensation for esplanade reserves or esplanade strips shall be payable for any area of land within 20 metres from the mark of mean high water springs of the sea or from the bank of any river or from the margin of any lake, as the case may be.
-(2) Where an esplanade reserve or esplanade strip of a width greater than 20 metres is required to be set aside on an allotment of less than 4 hectares created when land is subdivided, the territorial authority shall pay compensation for the area of the esplanade reserve or esplanade strip above 20 metres, to the registered proprietor of that allotment, unless the registered proprietor agrees otherwise.
+(2) Where an esplanade reserve or esplanade strip of a width greater than 20 metres is required to be set aside on an allotment of less than 4 hectares created when land is subdivided, the territorial authority shall pay compensation for the area of the esplanade reserve or esplanade strip above 20 metres, to the registered owner of that allotment, unless the registered owner agrees otherwise.
 
 ### 237F Compensation for taking of esplanade reserves or strips on allotments of 4 hectares or more
-Where any esplanade reserve or esplanade strip of any width is required to be set aside or created on an allotment of 4 hectares or more created when land is subdivided, the territorial authority shall pay to the registered proprietor of that allotment compensation for any esplanade reserve or any interest in land taken for any esplanade strip, unless the registered proprietor agrees otherwise.
+Where any esplanade reserve or esplanade strip of any width is required to be set aside or created on an allotment of 4 hectares or more created when land is subdivided, the territorial authority shall pay to the registered owner of that allotment compensation for any esplanade reserve or any interest in land taken for any esplanade strip, unless the registered owner agrees otherwise.
 
 ### 237G Compensation
 (1) This section applies if—
@@ -7527,12 +7527,12 @@ Where any esplanade reserve or esplanade strip of any width is required to be se
   (b) land that is within the coastal marine area—
     (i) becomes part of the common marine and coastal area in accordance with section 237A(1)﻿(b); and
     (ii) adjoins, or would adjoin if it were not for an esplanade reserve, any allotment of 4 hectares or more created when land is subdivided.
-(2) In the case of land referred to in subsection (1)﻿(a), the Crown or territorial authority, as the case may be, must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
-(3) In the case of land referred to in subsection (1)﻿(b), the Crown must pay compensation to the registered proprietor of that land, unless the registered proprietor agrees otherwise.
+(2) In the case of land referred to in subsection (1)﻿(a), the Crown or territorial authority, as the case may be, must pay compensation to the registered owner of that land, unless the registered owner agrees otherwise.
+(3) In the case of land referred to in subsection (1)﻿(b), the Crown must pay compensation to the registered owner of that land, unless the registered owner agrees otherwise.
 
 ### 237H Valuation
-(1) If the territorial authority or Crown, as the case may be, and the registered proprietor cannot agree as to the amount of compensation, including any additional survey costs, payable under section 237E, section 237F, or section 237G, the amount shall be determined by a registered valuer agreed on by the parties (or, failing agreement, nominated by the President of the New Zealand Institute of Valuers), who shall provide a copy of the determination to all parties.
-(2) The territorial authority or Crown, as the case may be, or the registered proprietor who is dissatisfied with the determination under subsection (1) may, within 20 working days after service of the determination, object to the determination to the registered valuer in writing, stating the grounds of objection.
+(1) If the territorial authority or Crown, as the case may be, and the registered owner cannot agree as to the amount of compensation, including any additional survey costs, payable under section 237E, section 237F, or section 237G, the amount shall be determined by a registered valuer agreed on by the parties (or, failing agreement, nominated by the President of the New Zealand Institute of Valuers), who shall provide a copy of the determination to all parties.
+(2) The territorial authority or Crown, as the case may be, or the registered owner who is dissatisfied with the determination under subsection (1) may, within 20 working days after service of the determination, object to the determination to the registered valuer in writing, stating the grounds of objection.
 (3) Sections 34, 35, 36, and 38 of the Rating Valuations Act 1998 (and any regulations made under that Act relating to reviews and objections), as far as they are applicable and with all necessary modifications, are to apply to the objection as if—
   (a) the registered valuer had been appointed by a territorial authority to review the objection; and
   (b) the review had been made under section 34 of that Act; and
@@ -7549,7 +7549,7 @@ Where any esplanade reserve or esplanade strip of any width is required to be se
   (b) in the case of a Government road declared as such under any Act, in the Crown:
   (c) in the case of a State highway, in the Crown or the territorial authority, as the case may be:
   (d) in the case of any other road, in the territorial authority.
-(2) This section has effect notwithstanding section 168 of the Land Transfer Act 1952 (which relates to the dedication of roads for public purposes).
+(2)
 
 ### 239 Vesting of reserves or other land
 (1) When the Registrar-General of Land deposits a survey plan, or a Chief Surveyor approves a survey plan to which section 228 applies,—
@@ -7567,10 +7567,10 @@ Where any esplanade reserve or esplanade strip of any width is required to be se
   (a) shall not approve the survey plan unless the owner has entered into such a covenant; and
   (b) when the covenant has been entered into, shall endorse on the survey plan a certificate to this effect.
 (2) Where a survey plan is endorsed with a certificate of the kind referred to in subsection (1)﻿(b),—unless the covenant referred to in the certificate has been lodged for registration.
-  (a) the Registrar-General of Land shall not deposit the survey plan under the Land Transfer Act 1952, and (in respect of a subdivision by the Crown) shall not issue a certificate of title for any separate allotment on a survey plan approved by the Chief Surveyor for the purposes of section 228; and
+  (a) the Registrar-General of Land shall not deposit the survey plan under the Land Transfer Act 2017, and (in respect of a subdivision by the Crown) shall not issue a record of title for any separate allotment on a survey plan approved by the Chief Surveyor for the purposes of section 228; and
   (b) the Registrar-General of Land shall not deposit the survey plan in the Deeds Register Office,—
 (3) Every covenant referred to in subsection (1) shall be in writing, be signed by the owner, be signed by the chief executive or other authorised officer of the territorial authority, and be deemed—
-  (a) to be an instrument capable of registration under the Land Transfer Act 1952 and, when so registered, to create in favour of the territorial authority an interest in the land in respect of which it is registered, within the meaning of section 62 of that Act; and
+  (a) to be an instrument capable of registration under the Land Transfer Act 2017 and, when so registered, to create in favour of the territorial authority an interest in the land in respect of which it is registered, within the meaning of section 51 of that Act; and
   (b) to run with the land and bind subsequent owners.
 (4) The territorial authority may at any time, whether before or after the survey plan has been deposited in the Land Registry Office or the Deeds Register Office, cancel, in whole or in part, any covenant imposed under this section or under the corresponding provision of any former enactment.
 (5) When a territorial authority cancels a covenant in whole or in part, then—
@@ -7578,32 +7578,32 @@ Where any esplanade reserve or esplanade strip of any width is required to be se
   (b) where the survey plan has been approved by the Chief Surveyor or deposited, the territorial authority must forward to the Registrar-General of Land a certificate signed by the chief executive or other authorised officer of the territorial authority to the effect that the covenant has been cancelled in whole or in part, and the Registrar-General of Land must note the records accordingly.
 
 ### 241 Amalgamation of allotments
-(1) Where a subdivision consent includes a condition under section 220(1)﻿(b) which requires, in accordance with section 220(2)﻿(a), that land be held in a particular certificate of title,—until he or she is satisfied that the condition has been complied with as fully as may be possible in the office of the Registrar-General.
+(1) Where a subdivision consent includes a condition under section 220(1)﻿(b) which requires, in accordance with section 220(2)﻿(a), that land be held in a particular record of title,—until he or she is satisfied that the condition has been complied with as fully as may be possible in the office of the Registrar-General.
   (a) the condition shall be endorsed on the survey plan; and
-  (b) the Registrar-General of Land shall not deposit the survey plan under the Land Transfer Act 1952 or in the Deeds Register Office, as the case may be; and
-  (c) in respect of a subdivision of the Crown, the Registrar-General of Land shall not issue a certificate of title for any separate allotment on a survey plan approved by the Chief Surveyor for the purposes of section 228,—
+  (b) the Registrar-General of Land shall not deposit the survey plan under the Land Transfer Act 2017 or in the Deeds Register Office, as the case may be; and
+  (c) in respect of a subdivision of the Crown, the Registrar-General of Land shall not issue a record of title for any separate allotment on a survey plan approved by the Chief Surveyor for the purposes of section 228,—
 (2) When a condition of the kind referred to in subsection (1), or a similar condition under the corresponding provision of any previous enactment, has been complied with,—
-  (a) the separate parcels of land included in the certificate of title in accordance with the condition shall not be capable of being disposed of individually, or of again being held under separate certificates of title, except with the approval of the territorial authority; and
-  (b) on the issue of the certificate of title, the Registrar-General of Land shall enter on the certificate of title a memorandum that the land is subject to this section.
+  (a) the separate parcels of land included in the record of title in accordance with the condition shall not be capable of being disposed of individually, or of again being held under separate records of title, except with the approval of the territorial authority; and
+  (b) on the issue of the record of title, the Registrar-General of Land shall enter on the record of title a memorandum that the land is subject to this section.
 (3) The territorial authority may at any time, whether before or after the survey plan has been deposited in the Land Registry Office or the Deeds Register Office, cancel, in whole or in part, any condition described in subsection (2).
 (4) When a territorial authority cancels a condition in whole or in part, then—
   (a) where the survey plan has not been approved by the Chief Surveyor, a memorandum of the cancellation shall be endorsed on the survey plan:
   (b) where the survey plan has been approved by the Chief Surveyor or deposited, the territorial authority must forward to the Registrar-General of Land a certificate signed by the chief executive or other authorised officer of the territorial authority to the effect that the condition has been cancelled in whole or in part, and the Registrar-General of Land must note the records accordingly.
 
 ### 242 Prior registered instruments protected
-(1) Where—the specified land shall be deemed to be and always to have been part of the other land that is subject to that instrument, and all rights and obligations in respect of, and encumbrances on, that other land shall be deemed also to be rights and obligations in respect of, or encumbrances on, the specified land; and the Registrar-General of Land shall enter upon all relevant certificates of title a memorandum to the effect that the land therein is subject to this subsection.
+(1) Where—the specified land shall be deemed to be and always to have been part of the other land that is subject to that instrument, and all rights and obligations in respect of, and encumbrances on, that other land shall be deemed also to be rights and obligations in respect of, or encumbrances on, the specified land; and the Registrar-General of Land shall enter upon all relevant records of title a memorandum to the effect that the land therein is subject to this subsection.
   (a) for the purpose of complying with a condition of a kind referred to in section 220(1)﻿(b),—
     (i) a covenant is registered in accordance with section 240, to the effect that specified land shall not, without the approval of the territorial authority, be transferred, leased, or otherwise disposed of except in conjunction with other land; or
-    (ii) specified land is amalgamated in 1 certificate of title with any other land in accordance with section 241; and
+    (ii) specified land is amalgamated in 1 record of title with any other land in accordance with section 241; and
   (b) that other land is already subject to a registered instrument under which a power to sell, a right of renewal, or a right or obligation to purchase is lawfully conferred or imposed; and
   (c) that power, right, or obligation becomes exercisable but is not able to be exercised or fully exercised because of section 240(2) or section 241(2)—
-(2) Where any instrument to which subsection (1) applies is a mortgage, charge, or lien, it shall be deemed to have priority over any mortgage, charge, or lien against the specified land which is registered subsequent to the issue of the certificate of title pursuant to section 241 or the registration of the covenant entered into pursuant to section 240, as the case may be; and the Registrar-General of Land shall enter upon all relevant certificates of title a memorandum to the effect that the land therein is subject to this subsection.
-(3) Where a memorandum has been entered on a certificate of title under this section, and the Registrar-General of Land then receives notification pursuant to section 240(5) or section 241(4), the Registrar-General of Land shall note the memorandum accordingly.
+(2) Where any instrument to which subsection (1) applies is a mortgage, charge, or lien, it shall be deemed to have priority over any mortgage, charge, or lien against the specified land which is registered subsequent to the issue of the record of title pursuant to section 241 or the registration of the covenant entered into pursuant to section 240, as the case may be; and the Registrar-General of Land shall enter upon all relevant records of title a memorandum to the effect that the land therein is subject to this subsection.
+(3) Where a memorandum has been entered on a record of title under this section, and the Registrar-General of Land then receives notification pursuant to section 240(5) or section 241(4), the Registrar-General of Land shall note the memorandum accordingly.
 
 **Conditions as to easements**
 
 ### 243 Survey plan approved subject to grant or reservation of easements
-Where a subdivision consent is granted or any certificate of title is issued subject to a condition that any specified easements be granted or reserved, the following provisions apply:
+Where a subdivision consent is granted or any record of title is issued subject to a condition that any specified easements be granted or reserved, the following provisions apply:
   (a) no such easement shall—except with the written consent of the territorial authority:
     (i) be surrendered by the owner of the dominant tenement; or
     (ii) in the case of an easement in gross, be surrendered by the grantee of the easement; or
@@ -7611,10 +7611,10 @@ Where a subdivision consent is granted or any certificate of title is issued sub
     (iv) be varied—
   (b) the territorial authority shall not approve the survey plan unless there is endorsed on the survey plan a memorandum showing, with respect to each such easement, which is the dominant tenement and which is the servient tenement or, in the case of an easement in gross, the name of the proposed grantee and which is the servient tenement:
   (c) the Registrar-General of Land shall refuse to register any instrument of transfer or conveyance or lease or other disposition of any allotment shown on the survey plan, unless the Registrar is satisfied that all easements so specified which are appurtenant to that allotment or to which that allotment is subject have been duly granted or reserved or will by the registration of that instrument be granted or reserved:
-  (d) the Registrar-General of Land shall endorse on the instrument by which the easement is granted or reserved, and also on any relevant certificates of title, a memorial that the easement is subject to the provisions of this section:
+  (d) the Registrar-General of Land must endorse on any relevant records of title, a memorial that the easement is subject to the provisions of this section:
   (e) the territorial authority may at any time, whether before or after the survey plan has been deposited in the Land Registry Office or the Deeds Register Office, revoke the condition in whole or part:
   (f) when a territorial authority cancels a condition in whole or in part, then—
-    (i) where the survey plan has not been approved by the Chief Surveyor, a memorandum of the cancellation shall be endorsed on the survey plan:
+    (i) where the survey plan has not been approved by the Surveyor-General, a memorandum of the cancellation must be endorsed on the survey plan or notice of the cancellation must be forwarded by that authority to the Surveyor-General, who must update his or her records accordingly:
     (ii) where the survey plan has been approved by the Chief Surveyor or deposited, the territorial authority must forward to the Registrar-General of Land a certificate signed by the chief executive or other authorised officer of the territorial authority to the effect that the condition has been cancelled in whole or in part, and the Registrar-General of Land must note the records accordingly.
 
 **Company leases and cross leases**
@@ -7644,11 +7644,11 @@ Where a subdivision consent is granted or any certificate of title is issued sub
 (6) After signing the certificate referred to in subsection (5)﻿(b), the consent authority shall forward a copy of that certificate to the relevant territorial authority.
 
 ### 246 Restrictions on deposit of plan of survey for reclamation
-(1) The holder of every resource consent granted for a reclamation shall take all steps necessary to ensure that the plan of survey is deposited under the Land Transfer Act 1952 or with the Registrar-General of Land as soon as reasonably practicable after the date the plan of survey is approved by the relevant consent authority under section 245.
-(2) No plan of survey of a reclamation shall be deposited under the Land Transfer Act 1952 or with the Registrar-General of Land unless—
+(1) The holder of every resource consent granted for a reclamation shall take all steps necessary to ensure that the plan of survey is deposited under the Land Transfer Act 2017 or with the Registrar-General of Land as soon as reasonably practicable after the date the plan of survey is approved by the relevant consent authority under section 245.
+(2) No plan of survey of a reclamation shall be deposited under the Land Transfer Act 2017 or with the Registrar-General of Land unless—
   (a) within the preceding 3 years the relevant consent authority has approved the plan of survey under section 245; and
   (b) there is lodged with the Registrar-General of Land a copy of the certificate issued under section 245(5)﻿(b).
-(3) On the deposit of a plan of survey under the Land Transfer Act 1952 or by the Registrar-General of Land, the land shown on that plan as esplanade reserve shall be deemed to be set apart and vested in the Crown as local purpose reserve within the meaning of section 23 of the Reserves Act 1977 for the purposes described in section 229 of this Act.
+(3) On the deposit of a plan of survey under the Land Transfer Act 2017 or by the Registrar-General of Land, the land shown on that plan as esplanade reserve shall be deemed to be set apart and vested in the Crown as local purpose reserve within the meaning of section 23 of the Reserves Act 1977 for the purposes described in section 229 of this Act.
 (4) Subsection (3) shall apply notwithstanding section 167 of the Land Act 1948.
 
 ## Part 11 — Environment Court
@@ -8440,7 +8440,7 @@ After hearing the applicant, and any person served with notice of the applicatio
   (a) comply with the order on behalf of the person who fails to comply with the order, and for this purpose, enter upon any land or enter any structure (with a constable if the structure is a dwellinghouse); and
   (b) sell or otherwise dispose of any structure or materials salvaged in complying with the order; and
   (c) after allowing for any moneys received under paragraph (b), if any, recover the costs and expenses of doing so as a debt due from that person.
-(3) Any costs or expenses which remain unpaid under subsection (2)﻿(c) may be registered under the Statutory Land Charges Registration Act 1928 as a charge on any land in respect of which an enforcement order is made.
+(3) Any costs or expenses which remain unpaid under subsection (2)﻿(c) may be registered under subpart 5 of Part 3 of the Land Transfer Act 2017 as a charge on any land in respect of which an enforcement order is made.
 (4) Failure to comply with an enforcement order is an offence under section 338.
 
 ### 316 Application for enforcement order
@@ -8996,9 +8996,9 @@ Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices u
   (a) shall state the name of the person or local authority in whom or which the right, title, or interest is vested, and accurately describe the position and extent of the reclaimed land; and
   (ab) must describe the right, title, or interest vested; and
   (b) shall refer to any encumbrances or restrictions imposed on the applicant's right, title, or interest in the land; and
-  (c) shall be sent by the relevant Minister to the Registrar-General of Land, with a request that a certificate of title be issued accordingly; and
+  (c) shall be sent by the relevant Minister to the Registrar-General of Land, with a request that a record of title be issued accordingly; and
   (d) shall be registered, without fee, by the Registrar-General of Land as soon as practicable after receipt from the Minister.
-(5) The Registrar-General of Land shall, in accordance with a request made under subsection (4)﻿(c), issue an appropriate certificate of title in respect of the right, title, or interest in the land vested by the Gazette notice.
+(5) The Registrar-General of Land shall, in accordance with a request made under subsection (4)﻿(c), issue an appropriate record of title in respect of the right, title, or interest in the land vested by the Gazette notice.
 (6) For the purposes of this section, references to land that forms part of a riverbed or lakebed include land which was part of that bed before it was reclaimed.
 
 ### 355AA Effect of Foreshore and Seabed Act 2004 on vesting of reclamations
@@ -9922,9 +9922,9 @@ Where an application for approval of a scheme plan of subdivision has been made 
 
 ### 408 Existing approvals for unit plans, cross lease plans, and company lease plans
 (1) Nothing in section 11 or Part 10 shall apply—
-  (a) to the deposit of a unit plan, or to the issue of a certificate of title for any unit on such a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 32(2)﻿(a) of the Unit Titles Act 2010:
-  (b) to the deposit of a plan to give effect to the registration of a cross lease, or to the issue of a certificate of title for a cross lease in respect of a building or part of a building shown on a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 314 of the Local Government Act 1974:
-  (c) to the deposit of a plan to give effect to the grant of a company lease, or to the registration or issue of a certificate of title for a company lease in respect of a building or part of a building shown on a plan, where the plan is approved by the Chief Surveyor before the date of commencement of this Act.
+  (a) to the deposit of a unit plan, or to the issue of a record of title for any unit on such a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 32(2)﻿(a) of the Unit Titles Act 2010:
+  (b) to the deposit of a plan to give effect to the registration of a cross lease, or to the issue of a record of title for a cross lease in respect of a building or part of a building shown on a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 314 of the Local Government Act 1974:
+  (c) to the deposit of a plan to give effect to the grant of a company lease, or to the registration or issue of a record of title for a company lease in respect of a building or part of a building shown on a plan, where the plan is approved by the Chief Surveyor before the date of commencement of this Act.
 (2) Nothing in section 224(f) shall apply to any subdivision of land for which a subdivision consent was granted on or after 1 October 1991 and on or before 30 June 1992.
 
 ### 409 Financial contributions for developments
@@ -10033,19 +10033,19 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
 ### 417 Permits over land other than that of holders to be produced in Land Transfer Office
 (1) Where, immediately before the date of commencement of this Act, a mining privilege that is deemed to be a permit under section 413(1)﻿(e) conferred on its holder rights over land in respect of which the holder is not the owner, then the holder of the deemed permit—
   (a) may continue to exercise those rights, and the provisions of this section shall apply accordingly; and
-  (b) may, at any time, obtain from the relevant regional council, for the purpose of registration against any certificate of title, lease, licence to occupy, or provisional register registered under the Land Transfer Act 1952, a certificate specifying the rights which the holder of that permit has in respect of that land by virtue of paragraph (a).
+  (b) may, at any time, obtain from the relevant regional council, for the purpose of registration against any record of title under the Land Transfer Act 2017, a certificate specifying the rights that the holder of that permit has in respect of that land by virtue of paragraph (a).
 (2) Every such certificate shall be in writing and—
   (a) have affixed to it the common seal of the consent authority; and
   (b) specify the rights which the holder of the permit has by virtue of subsection (1)﻿(a) and the parcel or parcels of land affected (including the file reference); and
   (c) have endorsed on the certificate or refer to a diagram or plan attached to the certificate (which need not be a survey plan), showing the course of any race and, as the case may be, the site of any dam and the boundaries of any part of the land which the permit specifies as being affected except that, where it is not practicable to show the true course or site or part of the land, it shall be indicated as nearly as possible, and, until the contrary is proved, the course or site or part of the land so indicated shall be deemed to be the true course, site, or boundaries, as the case may be.
-(3) No action shall lie against the Crown under Part 11 of the Land Transfer Act 1952 by reason of any certificate registered under this section not indicating the true course of any race, the site of any dam, or boundary of any part of the land.
+(3) No action shall lie against the Crown under subpart 3 of Part 2 of the Land Transfer Act 2017 by reason of any certificate registered under this section not indicating the true course of any race, the site of any dam, or boundary of any part of the land.
 (4) Every such certificate shall be deemed—
-  (a) to be an instrument capable of registration under the Land Transfer Act 1952 and, when so registered, to create in favour of the permit holder an interest in the land in respect of which it is registered, within the meaning of section 62 of that Act; and
-  (b) when so registered, to be binding on any registered proprietor of an estate in fee simple or leasehold or on any registered licensee, and on any subsequent mortgagee of any land, or of any interest in any land, affected by the certificate notwithstanding the expiration, lapsing, cancellation, surrender, suspension, or transfer of the deemed permit to which it relates.
-(5) Without limiting subsection (1), any certificate registered under this section may be transferred by the holder of the deemed permit, or any permit issued in substitution for it, to the person to whom such permit is transferred, by means of a memorandum of transfer to be registered under the provisions of the Land Transfer Act 1952.
-(6) Where any certificate is produced to the Registrar-General of Land under this section, the Registrar-General of Land shall enter on every certificate of title, lease, licence to occupy, provisional register, or other instrument of title registered or filed in the Registrar-General of Land's office and relating to that land, the particulars of the deemed permit, including the file reference.
-(7) Nothing in the Land Transfer Act 1952 shall limit or affect any right, title, or interest held under a deemed permit over land of which the holder of the permit is not the owner before the certificate has been registered and particulars have been entered by the Registrar-General of Land on the instrument of title affected in accordance with subsection (6).
-(8) If the land affected by subsection (1) or any part of it is not subject to the Land Transfer Act 1952, and dealings with the land or part not so subject are not registerable under the Deeds Registration Act 1908, the person in whose favour the right continues may at any time obtain from the relevant regional council a certificate in terms of subsections (1) and (2), and may lodge a true copy of the certificate in the office of the Chief Surveyor; and the Chief Surveyor shall note the existence of the certificate on the proper plans and records of the land district.
+  (a) to be an instrument capable of registration under the Land Transfer Act 2017 and, when so registered, to create in favour of the permit holder an interest in the land in respect of which it is registered, within the meaning of section 51 of that Act; and
+  (b) when so registered, to be binding on any registered owner of an estate in fee simple or leasehold or on any registered licensee, and on any subsequent mortgagee of any land, or of any interest in any land, affected by the certificate notwithstanding the expiration, lapsing, cancellation, surrender, suspension, or transfer of the deemed permit to which it relates.
+(5) Without limiting subsection (1), any certificate registered under this section may be transferred by the holder of the deemed permit, or any permit issued in substitution for it, to the person to whom such permit is transferred, by means of a transfer instrument to be registered under the provisions of the Land Transfer Act 2017.
+(6) Where any certificate is produced to the Registrar-General of Land under this section, the Registrar-General of Land shall enter on every record of title, lease, licence to occupy, provisional register, or other instrument of title registered or filed in the Registrar-General of Land's office and relating to that land, the particulars of the deemed permit, including the file reference.
+(7) Nothing in the Land Transfer Act 2017 shall limit or affect any right, title, or interest held under a deemed permit over land of which the holder of the permit is not the owner before the certificate has been registered and particulars have been entered by the Registrar-General of Land on the instrument of title affected in accordance with subsection (6).
+(8) If the land affected by subsection (1) or any part of it is not subject to the Land Transfer Act 2017, and dealings with the land or part not so subject are not registerable under the Deeds Registration Act 1908, the person in whose favour the right continues may at any time obtain from the relevant regional council a certificate in terms of subsections (1) and (2), and may lodge a true copy of the certificate in the office of the Chief Surveyor; and the Chief Surveyor shall note the existence of the certificate on the proper plans and records of the land district.
 
 **Existing uses**
 
