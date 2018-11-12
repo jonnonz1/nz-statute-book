@@ -1,5 +1,5 @@
 # Treaty of Waitangi Act 1975
-_Consolidation as at 2018-09-14_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for the observance, and confirmation, of the principles of the Treaty of Waitangi by establishing a Tribunal to make recommendations on claims relating to the practical application of the Treaty and to determine whether certain matters are inconsistent with the principles of the Treaty
 
@@ -221,12 +221,12 @@ The appointment of a Judge as Chairperson, the deputy of the Chairperson, or as 
 (1) The Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall, on receiving in respect of any land or interest in land a recommendation under—issue a certificate to the effect that the land or interest in land is no longer subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
   (a) section 8A(2)﻿(a) or section 8A(2)﻿(b) or section 8A(2)﻿(c); or
   (b) section 8D(1),—
-(2) Where the land or the land in which the interest in land exists is subject to the Land Transfer Act 1952, the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged with the District Land Registrar of the land registration district within which the land is situated.
-(3) The District Land Registrar shall, without fee,—
-  (a) register the certificate against the certificate of title to the land or interest in land; and
+(2) Where the land or the land in which the interest in land exists is subject to the Land Transfer Act 2017, the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged with the Registrar-General of Land.
+(3) The Registrar-General of Land shall, without fee,—
+  (a) register the certificate against the record of title to the land or interest in land; and
   (b) take all steps necessary to discharge or cancel any memorials or entries showing that the land or interest in land is subject to resumption under section 27B of the State-Owned Enterprises Act 1986 or section 212 of the Education Act 1989.
 (4) Where—the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged in the office of the Surveyor-General, and the Surveyor-General shall note the certificate upon the proper plans and records of the district affected.
-  (a) the land or the land in which the interest in land exists is not subject to the Land Transfer Act 1952; and
+  (a) the land or the land in which the interest in land exists is not subject to the Land Transfer Act 2017; and
   (b) instruments relating to the land or the interest in land are not registrable under the Deeds Registration Act 1908,—
 
 ### 8F Directions as to service
@@ -324,10 +324,10 @@ For the purposes of sections 8HB to 8HI, the expressions Crown forestry assets, 
 
 ### 8HF Issue of certificate on recommendation of Tribunal
 (1) The Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall, on receiving in respect of any licensed land a recommendation under section 8HB or section 8HE, issue a certificate to the effect that the land is not liable to be returned to Maori ownership.
-(2) Where the licensed land is subject to the Land Transfer Act 1952 or where the Crown forestry licence is registered pursuant to section 30 of the Crown Forest Assets Act 1989, the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged with the District Land Registrar of the land registration district within which the land is situated.
-(3) The District Land Registrar shall, without fee, register the certificate against the certificate of title to the land or endorse a memorial on the copy of the Crown forestry licence, as the case may be.
+(2) Where the licensed land is subject to the Land Transfer Act 2017 or where the Crown forestry licence is registered pursuant to section 30 of the Crown Forest Assets Act 1989, the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged with the Registrar-General of Land.
+(3) The Registrar-General of Land shall, without fee, register the certificate against the record of title to the land or endorse a memorial on the copy of the Crown forestry licence, as the case may be.
 (4) Where—the Minister within the meaning of section 4 of the Cadastral Survey Act 2002 shall cause a copy of the certificate to be lodged in the office of the Surveyor-General for the district in which the land is situated, and the Surveyor-General shall note the certificate on the plans and records relating to the land.
-  (a) the land is not subject to the Land Transfer Act 1952; and
+  (a) the land is not subject to the Land Transfer Act 2017; and
   (b) a copy of the Crown forestry licence has not been registered pursuant to section 30 of the Crown Forest Assets Act 1989; and
   (c) instruments relating to the land are not registrable under the Deeds Registration Act 1908,—
 
