@@ -1,5 +1,5 @@
 # Rating Valuations Act 1998
-_Consolidation as at 2013-08-05_
+_Consolidation as at 2018-11-12_
 
 > An Act to—aprovide for the Valuer-General to be a statutory officer within Land Information New Zealand; andbintroduce contestability to the rating valuations market by assigning to the Valuer-General a regulatory rather than a participatory role in the preparation of district valuation rolls; andcrepeal the Valuation of Land Act 1951 and generally restate the law relating to the valuation of land for rating purposes
 
@@ -100,19 +100,19 @@ In this Act, unless the context otherwise requires,—
 (5) The Gazette notice must specify where copies of the rules may be inspected and obtained.
 (6) Rules made under this section are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
-### 5A Meaning of certificate of title
-In sections 5B and 5C, certificate of title means a certificate of title—
-  (a) issued under the Land Transfer Act 1952 for an estate in fee simple; or
+### 5A Meaning of record of title
+In sections 5B and 5C, record of title means a record of title—
+  (a) issued under the Land Transfer Act 2017 for an estate in fee simple; or
   (b) issued under the Unit Titles Act 2010 for a stratum estate; or
-  (c) issued under the Land Transfer Act 1952 for both—
+  (c) issued under the Land Transfer Act 2017 for both—
     (i) an undivided share in an estate in fee simple; and
     (ii) an estate in leasehold of a building or part of a building on, or to be erected on, land comprised in the estate in fee simple under subparagraph (i).
 
-### 5B What constitutes rating unit if there is certificate of title
-(1) For land for which there is a certificate of title, the land comprised in the certificate of title constitutes a rating unit.
+### 5B What constitutes rating unit if there is record of title
+(1) For land for which there is a record of title, the land comprised in the record of title constitutes a rating unit.
 (2) However, the Valuer-General may make rules under section 5(1)﻿(c) for the purposes of determining whether particular land comprised in the following constitutes a rating unit:
-  (a) 2 or more certificates of title:
-  (b) part of a certificate of title.
+  (a) 2 or more records of title:
+  (b) part of a record of title.
 (3) The Valuer-General may make rules—
   (a) under subsection (2)﻿(a) only for land—
     (i) that is owned by the same person or persons; and
@@ -121,21 +121,21 @@ In sections 5B and 5C, certificate of title means a certificate of title—
   (b) under subsection (2)﻿(b) only for land—
     (i) that is—
       (A) owned by the Crown; or
-      (B) surveyed and subject to a separate lease registered under section 115 of the Land Transfer Act 1952; or
+      (B) surveyed and subject to a separate lease registered under section 91 of the Land Transfer Act 2017; or
       (C) Māori freehold land subject to an occupation order made by the Māori Land Court under section 328 of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
-    (ii) that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a separate certificate of title.
+    (ii) that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a separate record of title.
 (4) If land in a rating unit is in 2 or more districts, the part in each district constitutes a separate rating unit.
 
-### 5C What constitutes rating unit if there is no certificate of title
-(1) For land for which there is no certificate of title, what constitutes a rating unit must be determined in accordance with the following principles:
-  (a) for land owned by the Crown, a rating unit is the land that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a certificate of title:
+### 5C What constitutes rating unit if there is no record of title
+(1) For land for which there is no record of title, what constitutes a rating unit must be determined in accordance with the following principles:
+  (a) for land owned by the Crown, a rating unit is the land that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a record of title:
   (b) for land not owned by the Crown, a rating unit is,—
     (i) if an instrument exists, the land described in the instrument; or
     (ii) if an instrument does not exist, the land that it would be appropriate, in the opinion of the Valuer-General, to sell or transfer as a separate property.
 (2) The Valuer-General must make rules under section 5(1)﻿(c) for the purposes of determining whether particular land, for which there is no certificate of title, constitutes a rating unit.
 (3) The rules must be consistent with the principles in subsection (1).
 (4) Despite subsection (3), the rules may include rules for the purposes of determining whether particular land in subsection (1) comprised in the following constitutes a rating unit:
-  (a) 2 or more pieces of land (which may include 1 or more pieces of land comprised in a certificate of title):
+  (a) 2 or more pieces of land (which may include 1 or more pieces of land comprised in a record of title):
   (b) part of a piece of land.
 (5) The Valuer-General may make rules—
   (a) under subsection (4)﻿(a) only for land—
@@ -146,7 +146,7 @@ In sections 5B and 5C, certificate of title means a certificate of title—
     (i) that is—
       (A) owned by the Crown; or
       (B) Māori freehold land subject to an occupation order made by the Māori Land Court under section 328 of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
-    (ii) that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a separate certificate of title.
+    (ii) that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a separate record of title.
 (6) If land in a rating unit is in 2 or more districts, the part in each district constitutes a separate rating unit.
 (7) In this section, instrument—
   (a) means an instrument under which ownership of the land is registered or recorded; and
