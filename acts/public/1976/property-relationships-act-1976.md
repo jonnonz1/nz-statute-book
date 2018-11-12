@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -147,7 +147,7 @@ In this Act, unless the context otherwise requires,—
   - **de facto partner** has the meaning given to it by section 2C; and includes a former de facto partner
   - **de facto relationship** has the meaning given to it by section 2D
   - **distribution** , in relation to an estate, has the meaning given to it by section 46 of the Administration Act 1969
-  - **dwellinghouse** includes a flat or town house, whether or not occupied under a licence to occupy within the meaning of section 121A of the Land Transfer Act 1952
+  - **dwellinghouse** includes a flat or town house, whether or not occupied under a licence to occupy within the meaning of section 122 of the Land Transfer Act 2017
   - **family chattels** —
     (a) means chattels of the following kind that either or both of the spouses or partners own:
       (i) household furniture:
@@ -168,7 +168,7 @@ In this Act, unless the context otherwise requires,—
   - **homestead** —
     (a) means a family home where the dwellinghouse that comprises the family residence is situated on an unsubdivided part of land that is not used wholly or principally for the purposes of the household; but
     (b) does not include a family home that is occupied—
-      (i) pursuant to a licence to occupy within the meaning of section 121A of the Land Transfer Act 1952; or
+      (i) pursuant to a licence to occupy within the meaning of section 122 of the Land Transfer Act 2017; or
       (ii) because of the ownership of a specified share of any estate or interest in the land on which the dwellinghouse that comprises the family residence is situated and by reason of reciprocal agreements with the owners of the other shares; or
       (iii) in the case of a flat or town house that is part of a block of flats or town houses or is one of a number of flats or town houses situated on the same piece of land, under a lease or other arrangement that entitles the occupants of the flat or town house to exclusive possession of it
   - **joint family home** means land settled as a joint family home under the Joint Family Homes Act 1964
@@ -1130,24 +1130,24 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
 **Registration of orders**
 
 ### 41 Registration of orders
-(1) Where an order made under this Act relates to any estate or interest in land, a copy of the order sealed with the seal of the court shall, upon application by either of the parties and upon payment of the prescribed fee, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be, or by the Mining Registrar in any case where the order relates to land comprised in a licence within the meaning of the Mining Tenures Registration Act 1962 that has not been registered under the Land Transfer Act 1952.
+(1) Where an order made under this Act relates to any estate or interest in land, a copy of the order sealed with the seal of the court shall, upon application by either of the parties and upon payment of the prescribed fee, be registered by the Registrar-General of Land or the Registrar of Deeds, as the case may be, or by the Mining Registrar in any case where the order relates to land comprised in a licence within the meaning of the Mining Tenures Registration Act 1962 that has not been registered under the Land Transfer Act 2017.
 (2) For the purposes of this section an order to which this section applies shall cease to have effect where—
   (a) the order is discharged or cancelled by the court under section 33(2); or
   (b) the person in whose favour and the person against whom the order is made so agree in writing and the agreement is signed and witnessed in accordance with section 21F(2), (4), and (5); or
   (c) the period for which the order was made has expired; or
   (d) the court so directs in any other case.
-(3) Where the District Land Registrar or the Registrar of Deeds or the Mining Registrar, as the case may be, is satisfied that an order registered under subsection (1) has ceased to have effect, he or she shall, on application in that behalf, endorse the register accordingly.
+(3) Where the Registrar-General of Land or the Registrar of Deeds or the Mining Registrar, as the case may be, is satisfied that an order registered under subsection (1) has ceased to have effect, he or she shall, on application in that behalf, endorse the register accordingly.
 (4) Where an order made under any of the provisions of this Act relates to any stocks, shares or other company securities, or to any other property the title to which passes upon or is evidenced by registration, the foregoing provisions of this section shall apply with all necessary modifications to such stocks, shares, securities or other property as if they were estates or interests in land.
 
 **Protection of spouses' or partners' rights**
 
 ### 42 Notice of interest against title
-(1) A claim to an interest, pursuant to this Act, in any land subject to the Land Transfer Act 1952 shall be deemed to be a registrable interest for the purposes of that Act.
-(2) Notice of a claim under subsection (1) shall be effected by lodging a duly completed notice in the prescribed form with the District Land Registrar.
-(3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 137 of the Land Transfer Act 1952 and the provisions of that Act, except subsections (3) and (4) of section 141, shall apply subject to the following modifications:
-  (a) any application under section 143 or section 145 or section 145A of that Act in respect of any notice under this section may be made to the Family Court or the District Court or the High Court; and
-  (b) an order under section 148 of that Act authorising the receipt of a second notice under this section may be made by the Family Court or the District Court or the High Court.
-(4) In the case of land that is not subject to the Land Transfer Act 1952, notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
+(1) A claim to an interest, pursuant to this Act, in any land subject to the Land Transfer Act 2017 shall be deemed to be a registrable interest for the purposes of that Act.
+(2) Notice of a claim under subsection (1) shall be effected by lodging a duly completed notice in the prescribed form with the Registrar-General of Land.
+(3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 138 of the Land Transfer Act 2017 and the provisions of that Act, except section 141, shall apply subject to the following modifications:
+  (a) any application under section 142 or 143 of that Act in respect of any notice under this section may be made to the Family Court or the District Court or the High Court; and
+  (b) an order under section 146 of that Act authorising the receipt of a second notice under this section may be made by the Family Court or the District Court or the High Court.
+(4) In the case of land that is not subject to the Land Transfer Act 2017, notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
 (5) A notice under subsection (2) or subsection (4) may be registered notwithstanding that no proceedings under this Act are pending or in contemplation, and notwithstanding that there is no dispute between the parties.
 
 ### 43 Dispositions may be restrained
