@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -64,9 +64,9 @@ In this Act, unless the context otherwise requires,—
       (ii) the grant of a mortgage or charge over any interest in land; or
       (iii) the creation of a trust affecting any real property or any interest in land; and
     (c) includes any legal services that are incidental to, or ancillary to, any work of a kind described in paragraph (a) or paragraph (b); and
-    (d) includes, in particular, the presenting of any instrument for registration under the Land Transfer Act 1952 or the Deeds Registration Act 1908 and the carrying out of any other work required by either of those Acts to be performed by, or on behalf of, persons seeking to effect registration of instruments; but
+    (d) includes, in particular, the presenting of any instrument for registration under the Land Transfer Act 2017 or the Deeds Registration Act 1908 and the carrying out of any other work required by either of those Acts to be performed by, or on behalf of, persons seeking to effect registration of instruments; but
     (e) does not include the legal work involved in the preparation or drafting of a will; and
-    (f) despite paragraph (d), does not include the work (not being legal work) involved in an agent of a practitioner or incorporated firm presenting an instrument for registration under the Land Transfer Act 1952 or the Deeds Registration Act 1908
+    (f) despite paragraph (d), does not include the work (not being legal work) involved in an agent of a practitioner or incorporated firm presenting an instrument for registration under the Land Transfer Act 2017 or the Deeds Registration Act 1908
   - **conveyancing practitioner** means a person who holds a current practising certificate issued by the New Zealand Society of Conveyancers
   - **Conveyancing Practitioners' Fidelity Fund** means the fund established, pursuant to section 310, by practice rules made by the New Zealand Society of Conveyancers
   - **Conveyancing Practitioners Standards Committee** means a Conveyancing Practitioners Standards Committee established pursuant to section 127
@@ -1815,7 +1815,7 @@ A Standards Committee that receives a report from an investigator may, in its di
   (e) the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers, as the case may require:
   (f) a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013):
   (g) any Police employee or member of the Serious Fraud Office acting in the performance of his or her duty:
-  (h) the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment:
+  (h) the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 2017 or any other enactment:
   (i) any client of the practitioner or former practitioner to whom, or of the incorporated firm or former incorporated firm to which, the report relates.
 
 ### 151 Evidence
@@ -1918,7 +1918,7 @@ If, under section 154(a), a Standards Committee lays before the Disciplinary Tri
 (3) If the person who is the subject of the determination is a provider under the Legal Services Act 2011, the Standards Committee must provide a written notice of the determination to the Secretary for Justice.
 
 ### 159 Power to notify Registrar-General of Land
-(1) If a Standards Committee makes a determination of the kind described in section 152(2)﻿(a) or (b), that Standards Committee may give written notice of the making of the determination to the Registrar-General of Land if the Standards Committee considers that the giving of notice of the making of that determination to the Registrar-General is or may be relevant to the discharge by the Registrar-General of his or her duties under the Land Transfer Act 1952 or any other enactment.
+(1) If a Standards Committee makes a determination of the kind described in section 152(2)﻿(a) or (b), that Standards Committee may give written notice of the making of the determination to the Registrar-General of Land if the Standards Committee considers that the giving of notice of the making of that determination to the Registrar-General is or may be relevant to the discharge by the Registrar-General of his or her duties under the Land Transfer Act 2017 or any other enactment.
 (2) If the determination is of the kind described in section 152(2)﻿(a), the notice must—
   (a) state the determination; and
   (b) contain a copy of the charge laid before the New Zealand Disciplinary Tribunal in accordance with section 154.
@@ -2058,7 +2058,7 @@ A Standards Committee that exercises in respect of any practitioner or former pr
   (c) may refer transactions to other practitioners for completion if circumstances, such as a client not being available or a client being incapable by reason of incapacity from giving instructions, so require.
 
 ### 178 Power to notify Registrar-General of Land
-A Standards Committee that exercises in respect of any practitioner or former practitioner or any related person or entity any power under section 164 or section 169 may give written notice to the Registrar-General of Land of the actions taken by the Standards Committee and of the circumstances that have occasioned the intervention in the practice of the practitioner or former practitioner if the Standards Committee considers that the giving of notice of that intervention or of those circumstances or of both to the Registrar-General of Land is or may be relevant to the discharge by the Registrar-General of his or her duties under the Land Transfer Act 1952 or any other enactment.
+A Standards Committee that exercises in respect of any practitioner or former practitioner or any related person or entity any power under section 164 or section 169 may give written notice to the Registrar-General of Land of the actions taken by the Standards Committee and of the circumstances that have occasioned the intervention in the practice of the practitioner or former practitioner if the Standards Committee considers that the giving of notice of that intervention or of those circumstances or of both to the Registrar-General of Land is or may be relevant to the discharge by the Registrar-General of his or her duties under the Land Transfer Act 2017 or any other enactment.
 
 ### 179 Notification of practitioner or former practitioner, partner, employer, or director
 (1) A Standards Committee must, on receiving any money or any records or documents or postal articles or email communications under any provision of sections 164, 169, 170, and 172, forthwith serve a notice on—
@@ -2153,7 +2153,7 @@ Every counsel appearing before a Standards Committee has the same privileges and
   (f) to any person who—
     (i) holds office under section 109 as a person appointed to examine the accounts of lawyers or firms of lawyers or incorporated law firms or as a person appointed to examine the accounts of conveyancing practitioners or firms of conveyancing practitioners or incorporated conveyancing firms; and
     (ii) is acting in the performance of his or her duty under section 109; or
-  (g) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment; or
+  (g) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 2017 or any other enactment; or
   (h) in evidence in any court.
 
 ### 189 Enforcement of orders
@@ -4038,7 +4038,7 @@ A person appointed under section 109 must not communicate any matter that may co
   (e) in evidence in proceedings before a Standards Committee or the Disciplinary Tribunal; or
   (f) to the Legal Complaints Review Officer; or
   (g) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty; or
-  (h) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment; or
+  (h) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 2017 or any other enactment; or
   (i) in evidence in any court.
 
 ### 5 Restrictions on publication by New Zealand Law Society and New Zealand Society of Conveyancers
@@ -4052,7 +4052,7 @@ Where the New Zealand Law Society or the New Zealand Society of Conveyancers rec
   (c) to any auditor of the trust account of the lawyer or conveyancing practitioner or firm or practice:
   (d) to the Council of the New Zealand Institute of Chartered Accountants or to the governing body of any other accredited body (which in this schedule has the same meaning as in section 6(1) of the Auditor Regulation Act 2011):
   (e) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty:
-  (f) to the Registrar-General of Land if the society considers that the communication of the contents of the report, or of part of the contents of the report, to the Registrar-General of Land is relevant to the discharge by the Registrar-General of Land of his or her duties under the Land Transfer Act 1952 or any other enactment.
+  (f) to the Registrar-General of Land if the society considers that the communication of the contents of the report, or of part of the contents of the report, to the Registrar-General of Land is relevant to the discharge by the Registrar-General of Land of his or her duties under the Land Transfer Act 2017 or any other enactment.
 
 ### 7 Power to give information to client
 Nothing in this schedule prevents the New Zealand Law Society or the New Zealand Society of Conveyancers, in its discretion, from giving to any client of a lawyer or firm of lawyers or of an incorporated law firm or of a conveyancing practitioner or firm of conveyancing practitioners or of an incorporated conveyancing firm any information disclosed in a report made to the society by a person appointed under section 109 so far as that report relates to the client's affairs and is required by that client.
@@ -4130,7 +4130,7 @@ Every counsel appearing before the Legal Complaints Review Officer has the same 
     (iii) the Disciplinary Tribunal; or
     (iv) the Disciplinary Tribunal of the New Zealand Institute of Chartered Accountants or a disciplinary tribunal, committee, or other body of any other accredited body (within the meaning of section 6(1) of the Auditor Regulation Act 2011); or
   (c) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty; or
-  (d) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment; or
+  (d) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 2017 or any other enactment; or
   (e) in evidence in any court.
 
 ### 11 Legal Complaints Review Officer not personally liable
