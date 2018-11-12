@@ -1,5 +1,5 @@
 # Land Transfer Amendment Act 2015
-_Consolidation as at 2015-09-22_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Land Transfer Amendment Act 2015.
