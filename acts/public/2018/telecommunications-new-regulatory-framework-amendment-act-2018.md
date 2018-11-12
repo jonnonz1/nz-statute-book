@@ -990,7 +990,7 @@ Replace section 156T with:Process to apply before Part may be commenced
     (d) the Commission has reported to the Minister under section 246(5)﻿(c) that, in relation to an industry dispute resolution scheme (as defined in Part 7),—
       (i) the scheme fails to achieve the purpose set out in section 247; or
       (ii) the scheme provider fails to achieve the purpose set out in section 248.
-  (2) The Minister may not recommend the making of an Order in Council under subsection (1)﻿(a) to (c) unless the Minister is satisfied that appropriate consultation has been carried out in accordance with section 156ZJ.
+  (2) The Minister may not recommend the making of an Order in Council under subsection (1) unless the Minister is satisfied that appropriate consultation has been carried out in accordance with section 156ZJ.
 
 ### 34 Section 156UA amended (Appointment of consumer complaints system)
 Replace section 156UA(2) with:
