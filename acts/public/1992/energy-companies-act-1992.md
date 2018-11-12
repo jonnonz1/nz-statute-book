@@ -1,5 +1,5 @@
 # Energy Companies Act 1992
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2018-11-12_
 
 > An Act—ato provide for the formation of energy companies, the vesting in such companies of the undertakings of Electric Power Boards and the electricity and gas undertakings of local authorities, and for the dissolution of Electric Power Boards; andbto repeal the Electric Power Boards Act 1925, the Auckland Electric Power Board Act 1978, and the Waikato Electricity Authority Act 1988
 
@@ -59,7 +59,7 @@ _Consolidation as at 2014-12-01_
     (b) any judgment, order, or process of a court
   - **instrument by way of security** has the meaning assigned to it in section 2 of the Chattels Transfer Act 1924
   - **interim trustee** , in relation to a Board, means a person who holds office pursuant to section 4 or section 8 in respect of that Board
-  - **land** has the meaning assigned to it in section 2 of the Land Transfer Act 1952
+  - **land** has the meaning assigned to it in section 5(1) of the Land Transfer Act 2017
   - **liabilities** means liabilities, debts, charges, duties, and obligations of every description (whether present or future, actual or contingent, and whether payable or to be observed or performed in New Zealand or elsewhere)
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
@@ -218,7 +218,7 @@ Subject to section 16, a Board may, out of its funds, pay the reasonable costs a
 Notwithstanding anything in section 18, an establishment plan prepared by an establishing authority that is a local authority may provide for the transfer of the energy undertaking of that authority to 1 or more energy companies, and the provisions of this Act shall apply accordingly with all necessary modifications.
 
 ### 21 Establishment plan may provide for use of existing company
-An establishment plan prepared by an establishing authority may provide for the energy undertaking of a Board, or the whole or part of the energy undertaking of a local authority, to be transferred to a company other than a company that is to be formed and registered by that establishing authority pursuant to section 32, and in any such case subsection (2) of section 18 shall apply as if for paragraph (f) of that subsection there were substituted the following paragraphs:.
+An establishment plan prepared by an establishing authority may provide for the energy undertaking of a Board, or the whole or part of the energy undertaking of a local authority, to be transferred to a company other than a company that is to be formed and registered by that establishing authority pursuant to section 32, and in any such case subsection (2) of section 18 shall apply as if for paragraph (f) of that subsection there were substituted the following paragraphs:
   (f) except where section 42(1) will apply in respect of the relevant energy company, contain, in draft form, a statement of corporate intent for that energy company; and
   (fa) specify the amendments (if any) that are intended to be made to the memorandum of association and articles of association of the relevant energy company; and
 
@@ -493,7 +493,7 @@ Notwithstanding any other provision of this Act,—
 (2) In this section, document has the same meaning as in section 2(1) of the Evidence Amendment Act (No 2) 1980.
 
 ### 53 Registers
-(1) No Registrar of Deeds or District Land Registrar or any other person charged with the keeping of any books or registers shall be obliged solely by reason of the provisions of this Act to change the name of a Board to that of its successor company in those books or registers or in any document.
+(1) The Registrar of Deeds, the District Land Registrar, or any other person charged with the keeping of any books or registers is not obliged solely by reason of the provisions of this Act to change the name of a Board to that of its successor company in those books or registers or in any document.
 (2) The presentation to any registrar or other person of any instrument, whether or not comprising an instrument of transfer, by a Board's successor company,—shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the company.
   (a) executed or purporting to be executed by the company; and
   (b) relating to any property held immediately before the appointed day in relation to the Board by that Board; and
