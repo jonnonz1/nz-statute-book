@@ -1,5 +1,5 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
@@ -240,15 +240,15 @@ In addition to all other conditions imposed by this Act or by regulations made u
   (b) the insurance of any residential building, residential land, or personal property under section 22 shall, except as otherwise provided in the contract of insurance under that section, be subject to the conditions set out in Schedule 3.
 
 ### 28 Certificates of certain events to be registered against land
-(1) If—the Commission shall forward a certificate to that effect to the appropriate District Land Registrar who shall, without fee, register it against the title to the land on which the residential building is or was situated or the residential land, as the case may be.
+(1) If—the Commission shall forward a certificate to that effect to the Registrar-General of Land who shall, without fee, register it against the title to the land on which the residential building is or was situated or the residential land, as the case may be.
   (a) the insurance of any residential building or residential land is cancelled under clause 4 of Schedule 3; or
   (b) the Commission issues a limitation of liability notice under subclause (1) or subclause (2) of clause 5 of Schedule 3 in respect of any residential building or residential land—
 (2) Every such certificate shall set out—
   (a) the description of the land; and
   (b) a statement of the provisions of subsection (4).
-(3) The validity of a certificate under this section shall not be affected by any misdescription in it of the land concerned, if sufficient information appears on the face of the certificate for the District Land Registrar to identify the land.
+(3) The validity of a certificate under this section shall not be affected by any misdescription in it of the land concerned, if sufficient information appears on the face of the certificate for the Registrar-General of Land to identify the land.
 (4) The Commission shall, on written application by any person affected by any action of the Commission referred to in subsection (1), supply to that person reasons in writing for that action.
-(5) If the Commission is satisfied, pursuant to clause 4(3) or clause 5(5) of Schedule 3, that a certificate given under this section is no longer applicable to any land against which the certificate is registered, the Commission shall give notice of discharge of the certificate to the District Land Registrar, and the District Land Registrar shall, without fee, note the discharge against the title to the land.
+(5) If the Commission is satisfied, pursuant to clause 4(3) or clause 5(5) of Schedule 3, that a certificate given under this section is no longer applicable to any land against which the certificate is registered, the Commission shall give notice of discharge of the certificate to the Registrar-General of Land, and the Registrar-General of Land shall, without fee, note the discharge against the title to the land.
 (6) Every certificate or notice of discharge under this section shall be signed by the Commission or by some person authorised by the Commission for that purpose.
 
 ### 29 Settlement of claims
@@ -518,7 +518,7 @@ The Commission may decline (or meet part only of) a claim made under any insuran
   (c) in the case of any property of a kind referred to in—the property was not constructed in accordance with standards considered appropriate for that property at the time of construction, and the failure to meet those standards has caused or exacerbated the natural disaster damage; or
     (i) paragraph (c) or paragraph (d) of the definition of the term residential building in section 2(1); or
     (ii) paragraph (d) or paragraph (e) of the definition of the term residential land in section 2(1)—
-  (d) the certificate of title for the land comprising the property, or on which the property is situated, contains an entry under section 36(2) of the Building Act 1991 or an entry under section 74 of the Building Act 2004; or
+  (d) the record of title for the land comprising the property, or on which the property is situated, contains an entry under section 36(2) of the Building Act 1991 or an entry under section 74 of the Building Act 2004; or
   (e) there is or has been on the part of the insured person (whether to the Commission or its agents or to the insurance company concerned)—
     (i) any wilful and material misdescription of any of the property, or of any building or land in or on which the property is situated; or
     (ii) any misrepresentation as to any matter material for the purpose of estimating the value of the property; or
