@@ -1,5 +1,5 @@
 # Health Sector (Transfers) Act 1993
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -142,7 +142,7 @@ This Act binds the Crown.
   (d) shall release any surety from any obligation:
   (e) shall invalidate or discharge any agreement or security.
 (2) Where an asset or liability of a transferor is transferred from a transferor to a transferee under this Act,—
-  (a) where the transfer is registrable (other than under the Land Transfer Act 1952), the person responsible for keeping the register shall register the transfer forthwith after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister of Health:
+  (a) where the transfer is registrable (other than under the Land Transfer Act 2017), the person responsible for keeping the register shall register the transfer forthwith after written notice of the transfer is received by him or her from any person authorised for this purpose by the Minister of Health:
   (b) the laying before the House of Representatives of any agreement or proposal relating to the transfer shall be deemed to be notice of the transfer, and any third party shall with effect from the commencement of the transfer date (or such other time as is specified in the agreement, proposal, or Order in Council) deal with the transferee in place of the transferor:
   (c) subject to subsection (3), where the Crown is not the transferor, without limiting the liability of the transferee, the Crown shall be liable to any third party as if the asset or liability were that of the Crown but shall be indemnified by the transferee in respect of any liability to any third party:
   (d) subject to subsection (3), where the Crown is the transferor, without limiting the liability of the transferee, the Crown shall remain liable to any third party as if the asset or liability had not been transferred but shall be indemnified by the transferee in respect of any liability to any third party:
@@ -277,12 +277,12 @@ Nothing in sections 11A to 11E limits the application of—
     (i) the operation of section 95 of the New Zealand Public Health and Disability Act 2000; or
     (ii) a transfer under this Act; or
   (c) is land being transferred to or vested in the Crown.
-(3) Despite subsection (1), the Registrar-General of Land is not obliged to take any action under section 24D of the Conservation Act 1987 upon the registration of any disposition by a transferee of any land under the Land Transfer Act 1952 unless a certificate complying with subsection (4) is lodged with the instrument by which the disposition is being effected.
+(3) Despite subsection (1), the Registrar-General of Land is not obliged to take any action under section 24D of the Conservation Act 1987 upon the registration of any disposition by a transferee of any land under the Land Transfer Act 2017 unless a certificate complying with subsection (4) is lodged with the instrument by which the disposition is being effected.
 (4) The certificate required by subsection (3) must—
   (a) be signed by the chief executive of the transferee by which the disposition is being effected; and
   (b) certify that the disposition is one to which Part 4A of the Conservation Act 1987 applies; and
   (c) state the action that the Registrar-General of Land is required to take under section 24D of the Conservation Act 1987 upon the registration of that disposition; and
-  (d) specify the certificate of title upon which the Registrar-General of Land is to record the statements required by section 24D of the Conservation Act 1987.
+  (d) specify the record of title upon which the Registrar-General of Land is to record the statements required by section 24D of the Conservation Act 1987.
 (5) Nothing in this section limits the provisions of clause 6 of Schedule 1.
 
 **Transfer of employees**
@@ -304,7 +304,7 @@ Nothing in sections 11A to 11E limits the application of—
   (a) the entitlement of that employee to receive or to retain any payment or other benefit from the transferor or from any other person by reason of so ceasing shall be determined in accordance with a scale fixed by the Minister; and
   (b) if such a payment or other benefit has been paid to or for the benefit of the employee, the employee shall repay all or such part of the payment or other benefit in accordance with a scale fixed by the Minister.
 (3) In fixing a scale for the purposes of subsection (2), the Minister shall have regard to the period that has elapsed between the employee ceasing to be employed by the transferor and becoming an employee of a transferee.
-(4) Every amount payable by an employee under subsection (2)(b) shall constitute a debt due from the employee to the person who paid it (or, if that person was an area health board, to the Crown Health Financing Agency) and may be recovered accordingly.
+(4) Every amount payable by an employee under subsection (2)﻿(b) shall constitute a debt due from the employee to the person who paid it (or, if that person was an area health board, to the Crown Health Financing Agency) and may be recovered accordingly.
 (5) The Minister may vary a scale in respect of a particular employee where the Minister is satisfied that—
   (a) undue hardship to the employee would otherwise result; or
   (b) it is reasonable to do so having regard to the extent to which the employee's terms and conditions of employment with the transferee differ from those with the transferor.
@@ -363,7 +363,7 @@ Where—the transferee shall on and from that date be obliged to contribute to t
   (a) prescribing the maximum amounts that persons or classes of persons specified in the regulations may charge in respect of any health services or disability services specified in the regulations for which payments are made by purchasers, being maternity, immunisation, diagnostic, pharmaceutical, or other services for which the amounts that could be charged were limited by any Act or regulations on the day before the day on which this section comes into force:
   (b) defining classes of services or persons for the purposes of any regulations made under this section, which classes may be defined by reference to such criteria, circumstances, or matters as are specified in the regulations, including, but not by way of limitation, the income of the persons:
   (c) prescribing transitional and savings provisions relating to the coming into force of section 24; and, without limiting the generality of paragraphs (a) and (b) of this subsection, any such regulations may provide that, together with such amendments or additions (if any) as are specified in the regulations, specified provisions of this Act shall not apply during a specified transitional period, or specified provisions of Part 2 of the Social Security Act 1964, or of the enactments specified in Part 3 or Part 4 of Schedule 5 of this Act shall continue to apply, in respect of any specified persons or class of persons.
-(2) Before making any recommendation that regulations be made under subsection (1)(a), the Minister shall consult as to the principal contents of the proposed regulations with such persons, or representatives of the persons or classes of persons to be specified in the regulations, as the Minister thinks fit.
+(2) Before making any recommendation that regulations be made under subsection (1)﻿(a), the Minister shall consult as to the principal contents of the proposed regulations with such persons, or representatives of the persons or classes of persons to be specified in the regulations, as the Minister thinks fit.
 
 **Amendments to Disabled Persons Community Welfare Act 1975**
 
@@ -437,9 +437,9 @@ Assets that have been fixed to, or placed under or over, any land may be transfe
 (6) An agreement under subclause (5), in relation to any public work land with a person who is entitled, or may become entitled, to receive an offer under section 40(2) of the Public Works Act 1981 in respect of that land, extinguishes the person's entitlement or prospective entitlement under that section in respect of the land.
 
 ### 4 Obligation to lodge caveat
-(1) Where land or an interest in land is transferred to a transferee under this Act or by another transferee, the transferee shall, for the purpose of protecting the rights of persons to have that land or interest offered to them under section 40(2) of the Public Works Act 1981, lodge an appropriate caveat under the Land Transfer Act 1952, and this clause shall be sufficient authority for the lodging of such a caveat.
-(2) For the purposes of this clause, the rights of persons to have land or an interest in land offered to them under section 40(2) of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of section 137 of the Land Transfer Act 1952.
-(3) In stating, in a caveat lodged under subclause (1), the interest claimed by the caveator, it shall be sufficient, for the purposes of section 138 of the Land Transfer Act 1952, to refer to sections 40 to 42 of the Public Works Act 1981 and to this clause.
+(1) Where land or an interest in land is transferred to a transferee under this Act or by another transferee, the transferee shall, for the purpose of protecting the rights of persons to have that land or interest offered to them under section 40(2) of the Public Works Act 1981, lodge an appropriate caveat under the Land Transfer Act 2017, and this clause shall be sufficient authority for the lodging of such a caveat.
+(2) For the purposes of this clause, the rights of persons to have land or an interest in land offered to them under section 40(2) of the Public Works Act 1981 shall be deemed to be interests in land for the purposes of section 138 of the Land Transfer Act 2017.
+(3) In stating, in a caveat lodged under subclause (1), the interest claimed by the caveator, it shall be sufficient to refer to sections 40 to 42 of the Public Works Act 1981 and to this clause.
 
 ### 5 Transfer of land not to constitute a subdivision or development
 Nothing in section 11 or Part 10 of the Resource Management Act 1991 or section 348 of the Local Government Act 1974 applies to the transfer of land or an interest in land to a transferee under this Act or by another transferee.
@@ -454,32 +454,32 @@ The provisions of Part 2 of the Land Settlement Promotion and Land Acquisition A
 Where any land is transferred to a transferee under this Act, the use of that land which is established at the date of the transfer shall be deemed to be a permitted activity under the Resource Management Act 1991 until the next completion of the review of the district plan or appropriate part of the district plan, and thereafter the status of that use shall be as provided from time to time in or under the district plan.
 
 ### 9 Title to land
-(1) The District Land Registrar shall, on written application by any person authorised by the Minister and on payment of the prescribed fee,—
-  (a) register a transferee as the proprietor, in substitution for the transferor, of the estate or the interest of the transferor, in any land which is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and which is transferred to the transferee under this Act; and
-  (b) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this clause.
+(1) The Registrar-General of Land must, on written application by any person authorised by the Minister and on payment of the prescribed fee,—
+  (a) register a transferee as the owner, in substitution for the transferor, of the estate or interest of the transferor, in any land for which a record of title has been issued and that is transferred to the transferee under this Act; and
+  (b) make such entries against that record of title and do anything else that may be necessary to give effect to this clause.
 (2) The powers conferred by subclause (1) may be exercised in respect of an estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or has been determined.
-(3) A District Land Registrar shall, on written application by any person authorised by the Minister and on payment of the prescribed fee, issue a certificate of title for land vested in a transferee in accordance with clause 10(1) of this schedule in form 1 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
-(4) As soon as registration is accomplished in accordance with subclause (1) or a certificate of title is issued in accordance with subclause (3), the transferee shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seized of an estate in fee simple in possession in respect of that land.
+(3) The Registrar-General of Land must, on written application by any person authorised by the Minister and on payment of the prescribed fee, issue a record of title for land vested in a transferee in accordance with clause 10(1) of this schedule.
+(4) As soon as registration is accomplished in accordance with subclause (1) or a record of title is issued in accordance with subclause (3), the transferee shall, except where the interest acquired is either an easement in gross or an estate as lessee or mortgagee, be deemed to be seised of an estate in fee simple in possession in respect of that land.
 (5) Applications in accordance with subclauses (1) and (3) shall specify the name of the transferee and the date of the agreement, together with a description of the land sufficient to identify it and, in the case of applications under subclause (3), a certificate by the Chief Surveyor for the district concerned as to the correctness of such description.
 
 ### 10 Transfer of Crown land
-(1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 1952 that are to be vested in a transferee pursuant to this Act shall—
+(1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 2017 that are to be vested in a transferee pursuant to this Act shall—
   (a) be identified by an adequate legal description, or on plans lodged in the office of the Chief Surveyor for the land district in which the land is situated (being plans certified as correct for the purposes of this clause by that Chief Surveyor); and
   (b) as so identified, vest in the transferee—
     (i) in accordance with a proposal approved by, and on a date specified in, an Order in Council made under section 5 of this Act; or
     (ii) pursuant to, and on a date specified in, an Order in Council made for the purposes of this clause; or
     (iii) pursuant to, and on a date specified in, a notice in the Gazette given for the purposes of this clause by the Minister or by a person authorised in writing by the Minister.
-(2) Every notice given under subclause (1)(b)(iii) may be given on such terms and conditions as the Minister or a person authorised in writing by the Minister, as the case may be, thinks fit, and shall have effect according to its tenor.
+(2) Every notice given under subclause (1)﻿(b)﻿(iii) may be given on such terms and conditions as the Minister or a person authorised in writing by the Minister, as the case may be, thinks fit, and shall have effect according to its tenor.
 (3) Nothing in this Act or in any transfer of land to a transferee under this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
 
 ### 11 Land certification
-(1) Before a District Land Registrar issues a certificate of title in respect of any land vested in a transferee under clause 10 of this schedule, the District Land Registrar shall either receive under the hand of or request from the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
-(2) A certificate in accordance with subclause (1) shall be filed by the District Land Registrar in the Land Registry Office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in that certificate.
+(1) Before the Registrar-General of Land issues a record of title in respect of any land vested in a transferee under clause 10, the Registrar-General of Land must receive from the chief executive as defined in section 4 of the Cadastral Survey Act 2002 or the Surveyor-General a certificate in the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the Registrar-General of Land considers appropriate.
+(2) A certificate received in accordance with subclause (1) must be filed by the Registrar-General of Land and is conclusive evidence to the Registrar-General of Land of the matters required to be stated in that certificate.
 
 ### 12 Certification of easements
-(1) Where land is vested in a transferee under clause 10 of this schedule subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under clause 11(1) of this schedule a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
-(2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
-(3) Where a memorial of an easement is entered upon the relevant certificate of title under subclause (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
+(1) Where land is vested in a transferee under clause 10 of this schedule subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 2017, the Surveyor-General must include in the certificate given under clause 11(1) of this schedule a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
+(2) The Registrar-General of Land shall enter a memorial of the easement upon the relevant record of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
+(3) Where a memorial of an easement is entered upon the relevant record of title under subclause (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 2017.
 
 ### 13 Orders in Council relating to transfer of assets and liabilities
 (1) For the purpose of facilitating the transfer of assets and liabilities to a transferee under this Act, the Governor-General may from time to time, by Order in Council (whether made under this clause or section 5 or otherwise), do any 1 or more of the following:
@@ -501,7 +501,7 @@ Where any land is transferred to a transferee under this Act, the use of that la
 (1) Any agreement entered into under section 4 of this Act, or proposal approved under section 5 of this Act, may—
   (a) authorise either or both of the transferring Ministers to take any action, or make any decision, specified in the agreement or proposal; and
   (b) authorise each transferring Minister to appoint any person to act as the transferring Minister's agent for all or any matters described in the agreement or proposal where either or both of the transferring Ministers are authorised to take any action or make any decision.
-(2) The actions or decisions of any person appointed in accordance with subclause (1)(b) shall be as binding as if they had been taken or made by the transferring Minister who appointed the person.
+(2) The actions or decisions of any person appointed in accordance with subclause (1)﻿(b) shall be as binding as if they had been taken or made by the transferring Minister who appointed the person.
 
 ## Schedule 2 — Amendments to Disabled Persons Community Welfare Act 1975
 
@@ -521,7 +521,7 @@ Where any land is transferred to a transferee under this Act, the use of that la
 
 ### 13 Validation of use of public work land for purposes not related to health
 In any case where, before the commencement of this section, any public work land (within the meaning of clause 3 of Schedule 1 of the principal Act) has, with the consent of a transferee (within the meaning of that Act) been used by a person other than such a transferee for purposes other than health-related purposes, that use of that land is deemed to have been made as if—
-  (a) clause 3(2)(c) of that schedule (as enacted by section 12) had been in force at the time of the use; and
+  (a) clause 3(2)﻿(c) of that schedule (as enacted by section 12) had been in force at the time of the use; and
   (b) the Minister had consented, under that clause, to that use.
 
 ### 14 Orders in Council transferring assets or liabilities in December 2000
