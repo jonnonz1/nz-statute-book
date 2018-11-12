@@ -1,5 +1,5 @@
 # Crown Forest Assets Act 1989
-_Consolidation as at 1998-10-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to provide for—athe management of the Crown's forest assets:bthe transfer of those assets while at the same time protecting the claims of Maori under the Treaty of Waitangi Act 1975:cin the case of successful claims by Maori under that Act, the transfer of Crown forest land to Maori ownership and for payment by the Crown to Maori of compensation:dother incidental matters
 
@@ -53,13 +53,13 @@ All Crown forest land, irrespective of its status before the commencement of thi
 (3) Section 176 of the Land Act 1948 shall apply to Crown forest land that is not subject to a Crown forestry licence.
 (4) Nothing in section 6 of the Coal Mines Act 1979 applies in respect of Crown forest land.
 
-### 6 Certificates of title for Crown forest land
-(1) Notwithstanding the provisions of any other Act, a District Land Registrar shall, on written application by any person authorised by a responsible Minister and without further authority than this section, in respect of any Crown forest land that is already incorporated in the register or otherwise registered in the land registry office of the land registration district concerned, make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to record that the estate or interest of the Crown in the land is held under this Act.
-(2) A District Land Registrar shall, subject to the deposit of any plans which may be required, on written application by any person authorised by a responsible Minister, issue a certificate of title for the fee simple estate in Crown forest land in form No 2 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate. Every such certificate of title shall record that the estate or interest of the Crown is held under this Act.
+### 6 Records of title for Crown forest land
+(1) Notwithstanding the provisions of any other Act, the Registrar-General of Land shall, on written application by any person authorised by a responsible Minister and without further authority than this section, in respect of any Crown forest land that is already incorporated in the register or otherwise registered, make such entries in the register and generally do all such things as may be necessary to record that the estate or interest of the Crown in the land is held under this Act.
+(2) The Registrar-General of Land shall, subject to the deposit of any plans which may be required, on written application by any person authorised by a responsible Minister, issue a record of title for the fee simple estate in Crown forest land, amended as appropriate. Every such record of title shall record that the estate or interest of the Crown is held under this Act.
 
 ### 7 Certification of Crown forest land
 (1) Every application under section 6 shall be accompanied by a certificate from the Chief Surveyor for the district concerned that the land is Crown forest land and containing particulars of every Crown forestry licence relating to that land.
-(2) A certificate obtained under subsection (1) shall be conclusive evidence to the District Land Registrar that the land is Crown forest land and is subject to the Crown forestry licence referred to in the certificate.
+(2) A certificate obtained under subsection (1) shall be conclusive evidence to the Registrar-General of Land that the land is Crown forest land and is subject to the Crown forestry licence referred to in the certificate.
 
 ### 8 Easements, leases, exchanges, etc
 The responsible Ministers may, on behalf of the Crown, for the purpose of managing Crown forest land, or Crown forestry assets, or Crown forestry licences, and in accordance with good business practice, do any 1 or more of the following:for such consideration, and on such terms and conditions, as the responsible Ministers may approve.
@@ -69,16 +69,16 @@ The responsible Ministers may, on behalf of the Crown, for the purpose of managi
   (d) transfer the fee simple, or transfer or grant any other estate or interest, in any Crown forest land in exchange for the fee simple or any other estate or interest in any adjoining land—
 
 ### 8A Registration of easements
-(1) Notwithstanding anything in the Land Transfer Act 1952, where an easement is granted or reserved over or in favour of Crown forest land for which no certificate of title has been issued, a District Land Registrar shall, on written application by either of the responsible Ministers, register the instrument granting or reserving the easement by constituting it a folium of the register.
-(2) Before a District Land Registrar registers the instrument, the Chief Surveyor for the land district in which the Crown forest land is situated must issue a certificate as to the correctness of the description of the land contained in the instrument or endorse on the instrument a certificate to that effect.
-(3) A certificate in accordance with subsection (2) shall be conclusive evidence to the District Land Registrar of the matters required to be stated therein.
-(4) Where an instrument granting or reserving an easement over or in favour of Crown forest land is constituted a folium of the register, the easement shall be treated for all purposes, including all subsequent dealings, as if it had been created under the Land Transfer Act 1952.
-(5) Where an instrument granting or reserving an easement over or in favour of Crown forest land is constituted a folium of the register and the land is registered under the Land Transfer Act 1952, before issuing a certificate of title under that Act in respect of the land, the District Land Registrar shall make all entries necessary to record the registration of the easement.
+(1) Despite anything in the Land Transfer Act 2017, where an easement is granted or reserved over or in favour of Crown forest land for which no record of title has been issued, the Registrar-General of Land must, on written application by either of the responsible Ministers, register the instrument granting or reserving the easement by creating a record of title for the easement.
+(2) Before the Registrar-General of Land registers the instrument, the Chief Surveyor for the land district in which the Crown forest land is situated must issue a certificate as to the correctness of the description of the land contained in the instrument or endorse on the instrument a certificate to that effect.
+(3) A certificate in accordance with subsection (2) shall be conclusive evidence to the Registrar-General of Land of the matters required to be stated therein.
+(4) Where an instrument granting or reserving an easement over or in favour of Crown forest land is registered, the easement shall be treated for all purposes, including all subsequent dealings, as if it had been created under the Land Transfer Act 2017.
+(5) Where an instrument granting or reserving an easement over or in favour of Crown forest land has been registered under subsection (1) and the land is later registered under the Land Transfer Act 2017, the Registrar-General of Land must make all entries necessary to record the registration of the easement on the record of title for the land.
 
 ### 9 Appointment of manager
 (1) The responsible Ministers may, on behalf of the Crown, in writing, appoint Crown Forestry Management Limited or any other person to act on behalf of the Crown to manage any Crown forest land, Crown forestry assets, or Crown forestry licences, with or without consideration, and on such terms and conditions as the responsible Ministers may agree with the appointee.
 (2) The responsible Ministers may, on behalf of the Crown, in writing, appoint Crown Forestry Management Limited or any other person to act on behalf of the Crown to manage any contract, not being a contract that is a Crown forestry asset within the meaning of that term in section 2, for the supply of timber from Crown forest land whether entered into before or after the commencement of this Act. The appointment may be with or without consideration and may be on such terms and conditions as the responsible Ministers may agree with the appointee.
-(3) A copy of any instrument under this section may be lodged with a District Land Registrar or Chief Surveyor and shall, for the purposes of the Land Transfer Act 1952, be conclusive evidence of the authority of the person named in the instrument to exercise the powers conferred by it.
+(3) A copy of any instrument under this section may be lodged with the Registrar-General of Land or Surveyor-General and shall, for the purposes of the Land Transfer Act 2017, be conclusive evidence of the authority of the person named in the instrument to exercise the powers conferred by it.
 (4) Where Crown Forestry Management Limited or any other person is appointed to manage any contract pursuant to subsection (1) or subsection (2), every reference in any such contract to the Minister of Forests, the New Zealand Forest Service, the Director-General of Forests, a conservator, or a forestry officer, shall be read as a reference to the manager appointed under this section.
 
 ### 10 Delegation
@@ -88,7 +88,7 @@ The responsible Ministers may, on behalf of the Crown, for the purpose of managi
 (4) Every person purporting to act under any delegation under this section shall, in the absence of evidence to the contrary, be presumed to be acting in accordance with the terms of that delegation.
 (5) Any such delegation may at any time be revoked by the responsible Ministers in whole or in part, but that revocation shall not affect anything done before the revocation.
 (6) No delegation shall prevent the exercise by the responsible Ministers of any of the functions, duties, and powers conferred by this Act.
-(7) A copy of any instrument of delegation or instrument of appointment under this section may be lodged with a District Land Registrar or Chief Surveyor and shall, for the purposes of the Land Transfer Act 1952, be conclusive evidence of the authority of the person named in the instrument to exercise the powers delegated or conferred, as the case may be.
+(7) A copy of any instrument of delegation or instrument of appointment under this section may be lodged with the Registrar-General of Land or Surveyor-General and shall, for the purposes of the Land Transfer Act 2017, be conclusive evidence of the authority of the person named in the instrument to exercise the powers delegated or conferred, as the case may be.
 
 ## Part 2 — Crown forestry assets and Crown forestry licences
 
@@ -125,7 +125,7 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
 (1) For the purposes of this section termination period means the period of 35 years at the end of which a Crown forestry licence terminates in relation to the licensed land or any part of it.
 (2) Subject to this section, every Crown forestry licence that relates to Crown forest land that is situated in a district specified in Schedule 3, or on which a forest specified in that schedule is located, shall comprise, as an initial fixed term, the term set out opposite that district or forest, as the case may be, in that schedule, and shall then run from year to year by way of automatic extension.
 (3) Subject to this section, every other Crown forestry licence shall run from year to year by way of automatic extension.
-(4) Every Crown forestry licence shall provide that if a recommendation is made under section 8HB(1)(a) of the Treaty of Waitangi Act 1975 that becomes a final recommendation under that Act for the return of the licensed land, or any part of it, to Maori—
+(4) Every Crown forestry licence shall provide that if a recommendation is made under section 8HB(1)﻿(a) of the Treaty of Waitangi Act 1975 that becomes a final recommendation under that Act for the return of the licensed land, or any part of it, to Maori—
   (a) the responsible Ministers shall give notice to the licensee that the recommendation has become a final recommendation:
   (b) notice shall be given to the licensee terminating the licence, or terminating the licence in so far as it relates to part of the licensed land, as the case may be,—
     (i) if the notice is given during the initial fixed term, at the expiration of a period of 35 years commencing on 30 September next after the end of that term; or
@@ -135,7 +135,7 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
     (ii) the licensee shall exercise those rights in accordance with accepted forestry business practice; and
     (iii) the licensee shall, during the termination period, from time to time in accordance with the licence, give notice to the licensor of those parts of that land, including buildings and other fixed structures, roads, tracks, and access ways, that are no longer required by the licensee for exercising the licensee's rights under the licence during that period; and
     (iv) the licensor shall take possession of any land referred to in subparagraph (iii) notified as being no longer required, and the licence shall cease to apply to that land except for provisions that relate to the rights and obligations of the parties during the balance of the termination period.
-(5) Every Crown forestry licence shall provide that if a recommendation is made under section 8HB(1)(b) or section 8HB(1)(c) or section 8HE of the Treaty of Waitangi Act 1975 that the licensed land, or part of it, not be liable to be returned to Maori ownership,—
+(5) Every Crown forestry licence shall provide that if a recommendation is made under section 8HB(1)﻿(b) or section 8HB(1)﻿(c) or section 8HE of the Treaty of Waitangi Act 1975 that the licensed land, or part of it, not be liable to be returned to Maori ownership,—
   (a) the licence shall, as regards the licensed land or any part of it to which the recommendation relates, be deemed to have been granted for an initial fixed term of 35 years whether or not the licence comprised an initial fixed term in accordance with subsection (2) and whether or not the licence has been in force for the whole or part of that term:
   (b) notice may be given to the licensee terminating the licence—
     (i) if the notice is given during the initial fixed term, at the expiration of a period of 35 years commencing on 30 September next after the end of that term; or
@@ -158,11 +158,11 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
 (6) The terms and conditions of every protective covenant for forest research areas shall be determined by the responsible Ministers in consultation with the Minister of Forestry.
 
 ### 19 Registration of protective covenants
-(1) The terms of every protective covenant shall be incorporated in a certificate which shall be signed by a responsible Minister and shall be registered with the District Land Registrar of the district in which the licensed land is situated.
+(1) The terms of every protective covenant shall be incorporated in a certificate which shall be signed by a responsible Minister and shall be registered with the Registrar-General of Land.
 (2) On registration of the certificate,—
-  (a) the Registrar shall enter particulars of that certificate and of every protective covenant on the register and on all relevant instruments of title; and
-  (b) where no certificate of title for the land has been issued, the Registrar shall constitute the certificate a separate folium of the register.
-(3) No protective covenant shall be registered under this section unless the certificate incorporating the protective covenant is accompanied by a certificate from the Chief Surveyor of the land district in which the licensed land is situated that the covenant is correctly described and relates to the licensed land and containing such other matters as the District Land Registrar requires.
+  (a) the Registrar-General of Land must enter particulars of that certificate and of every protective covenant on the relevant records of title; and
+  (b) if no record of title has been issued for the land, the Registrar-General of Land must issue a record of title for the certificate.
+(3) No protective covenant shall be registered under this section unless the certificate incorporating the protective covenant is accompanied by a certificate from the Chief Surveyor of the land district in which the licensed land is situated that the covenant is correctly described and relates to the licensed land and containing such other matters as the Registrar-General of Land requires.
 
 ### 20 Enforcement of protective covenants
 (1) The Minister of Conservation may, in relation to any protective covenant of the kind referred to in any of paragraphs (a) to (d) of subsection (1) of section 18, take any necessary proceedings—
@@ -171,12 +171,12 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
 (2) Before instituting any proceedings the Minister of Conservation shall consult with the responsible Ministers and any other Minister of the Crown having an interest in the matter.
 
 ### 21 Variation and cancellation of protective covenants
-(1) Subject to section 22, any term or condition of a protective covenant may be varied, or added to, or omitted, by a memorandum signed by a responsible Minister and registered with the District Land Registrar of the district in which the licensed land is situated.
-(2) Subject to section 22, a protective covenant may be cancelled by a memorandum signed by a responsible Minister and registered with the District Land Registrar of the district in which the land is situated.
+(1) Subject to section 22, any term or condition of a protective covenant may be varied, or added to, or omitted, by a memorandum signed by a responsible Minister and registered with the Registrar-General of Land.
+(2) Subject to section 22, a protective covenant may be cancelled by a memorandum signed by a responsible Minister and registered with the Registrar-General of Land.
 (3) The memorandum shall be registered in the same manner as a certificate under section 19.
-(4) On the registration of the memorandum of variation or cancellation, as the case may be, the District Land Registrar shall,—
-  (a) notify particulars of the variation or the cancellation of the covenant, as the case may be, on the register and on any relevant instruments of title; and
-  (b) if no certificate of title has been issued for the land, notify particulars of the variation of the covenant on the folium of the register constituted by the certificate incorporating the terms of the covenant under section 19, or cancel that certificate as a folium of the register, as the case may be.
+(4) On the registration of the memorandum of variation or cancellation, as the case may be, the Registrar-General of Land shall,—
+  (a) notify particulars of the variation or the cancellation of the covenant, as the case may be, on the register and on any relevant records of title; and
+  (b) if no record of title has been issued for the land, record particulars of the variation of the covenant on the record of title issued for the covenant certificate under section 19(2)﻿(b).
 
 ### 22 Consultation before protective covenant varied or cancelled
 (1) A responsible Minister shall not deliver a memorandum under section 21 for registration unless—
@@ -202,21 +202,21 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
 (3) Such public access rights shall be determined by the responsible Ministers in consultation with the Minister of Conservation, the Minister for the Environment, and any other persons or Maori who, or organisations that, in the opinion of the responsible Ministers, have an interest, or represent persons or Maori having an interest, in the proposed access rights.
 
 ### 25 Registration of public access easements
-(1) The terms of every public access easement shall be incorporated in an easement certificate which shall be signed by a responsible Minister and registered with the District Land Registrar of the district in which the licensed land is situated.
-(2) On registration of the easement certificate—
-  (a) the District Land Registrar shall enter particulars of that certificate and of the easements on the register and on all relevant instruments of title; and
-  (b) where no certificate of title for the land has been issued, the District Land Registrar shall constitute the certificate a separate folium of the register.
-(3) No easement certificate shall be registered under this section unless it is accompanied by a certificate from the Chief Surveyor of the district in which the licensed land is situated that the easement is correctly described and containing such other matters as the District Land Registrar requires.
-(4) Nothing in section 90D of the Land Transfer Act 1952 applies to a public access easement.
+(1) The terms of every public access easement shall be incorporated in an easement certificate which shall be signed by a responsible Minister and registered with the Registrar-General of Land.
+(2) On registration of the easement certificate,—
+  (a) the Registrar-General of Land must enter particulars of that certificate and of the easements on the register and on all relevant records of title; and
+  (b) if no record of title has been issued for the land, the Registrar-General of Land must issue a record of title for the easement.
+(3) No easement certificate shall be registered under this section unless it is accompanied by a certificate from the Chief Surveyor of the district in which the licensed land is situated that the easement is correctly described and containing such other matters as the Registrar-General of Land requires.
+(4) Nothing in section 111 of the Land Transfer Act 2017 applies to a public access easement.
 
 ### 26 Variation and cancellation of easements
-(1) Subject to section 27, any term, or covenant, or condition of any public access easement may be varied, or added to, or omitted, by a memorandum signed by a responsible Minister and registered with the District Land Registrar of the district in which the licensed land is situated.
-(2) Subject to section 27, a public access easement may be cancelled by a memorandum signed by a responsible Minister and registered with the District Land Registrar of the district in which the licensed land is situated.
+(1) Subject to section 27, any term, or covenant, or condition of any public access easement may be varied, or added to, or omitted, by a memorandum signed by a responsible Minister and registered with the Registrar-General of Land.
+(2) Subject to section 27, a public access easement may be cancelled by a memorandum signed by a responsible Minister and registered with the Registrar-General of Land.
 (3) The memorandum shall be registered in the same manner as an easement certificate under section 25.
-(4) On the registration of a memorandum of variation or cancellation, as the case may be, the Registrar shall—
-  (a) notify particulars of the variation or the cancellation of the easement, as the case may be, on the register and on any relevant instruments of title; and
-  (b) if no certificate of title for the land has been issued, shall notify particulars of the variation of the easement on the folium of the register constituted by the easement certificate or cancel that certificate as a folium of the register, as the case may be.
-(5) Nothing in section 90E of the Land Transfer Act 1952 applies to a public access easement.
+(4) On the registration of a memorandum of variation or cancellation, as the case may be, the Registrar-General of Land must—
+  (a) notify particulars of the variation or the cancellation of the easement, as the case may be, on the register and on any relevant records of title; and
+  (b) if no record of title has been issued for the land, record particulars of the variation of the easement on the record of title for the easement issued under section 25(2)﻿(b).
+(5) Nothing in section 112 of the Land Transfer Act 2017 applies to a public access easement.
 
 ### 27 Consultation before public access easement varied or cancelled
 (1) A responsible Minister shall not deliver a memorandum under section 26 for registration unless—
@@ -253,26 +253,24 @@ A Crown forestry licence does not transfer to, or confer on, the licensee an est
 **Registration of licences**
 
 ### 30 Registration of Crown forestry licences
-(1) Notwithstanding anything in the Land Transfer Act 1952, a Crown forestry licence may be registered under that Act and the same registration fee shall be payable on any such licence as on a memorandum of lease.
-(2) If the licensed land is not subject to the Land Transfer Act 1952 the Crown forestry licence shall, subject to this section, be registered under that Act by constituting it a folium of the register.
-(3) Any such licence may describe the land comprised in it by reference to a diagram or an aerial photograph or in any other way; and, where a copy of that diagram or photograph is deposited in the Land Registry Office of the district where the land is situated or the diagram or photograph is endorsed on or attached to the licence, the District Land Registrar for that district shall, subject to subsection (4), on receipt of the licence in triplicate, register the licence even though a plan of the land has not been deposited in accordance with section 167 of the Land Transfer Act 1952.
-(4) No Crown forestry licence shall be registered under this section unless the applicant for registration lodges with the District Land Registrar a certificate from the Chief Surveyor for the district in which the licensed land is situated that the licensed land is Crown forest land.
-(5) Where a plan of the licensed land has not been deposited in accordance with section 167 of the Land Transfer Act 1952, the District Land Registrar shall—and every registered licence that is so endorsed shall have the same effect as if it were registered against a certificate of title limited as to parcels under Part 12 of the Land Transfer Act 1952.
-  (a) where the licensed land is subject to the Land Transfer Act 1952, endorse on the instrument of title as part of the memorial relating to the registration of the licence the words Limited as to parcels, and endorse on the registered copy and on the outstanding copies of the licence the words Limited as to parcels; and
-  (b) where the licensed land is not subject to the Land Transfer Act 1952, after constituting the licence a folium of the register, endorse on it the words Limited as to parcels,—
-(6) Where a plan is deposited as required by the District Land Registrar under section 167 of the Land Transfer Act 1952 in respect of the land comprised in a licence which is limited as to parcels, the District Land Registrar shall, if necessary, without payment of any further fee,—
-  (a) where the land is subject to the Land Transfer Act 1952, endorse the instrument of title and the registered copy and the outstanding copies of the licence to show that the land to which the licence relates is no longer limited as to parcels; and
-  (b) where the licence has been constituted a folium of the register, correct the description of the land by making an appropriate endorsement on the folium of the register constituted by the licence and endorse that folium to show that the licence is no longer limited as to parcels.
-(7) Where any Crown forest land that is subject to a Crown forestry licence that constitutes a folium of the register is registered under the Land Transfer Act 1952, the District Land Registrar, before issuing a certificate of title under that Act in respect of the land, shall make all entries necessary to record the registration of the licence and every existing registered encumbrance, lien, and interest registered against it in the order of their registered priority.
+(1) Notwithstanding anything in the Land Transfer Act 2017, a Crown forestry licence may be registered under that Act and the same registration fee shall be payable on any such licence as on a memorandum of lease.
+(2) If the licensed land is not subject to the Land Transfer Act 2017 the Crown forestry licence shall, subject to this section, be registered under that Act by creating a record of title for the licence.
+(3) Any such licence may describe the land comprised in it by reference to a diagram or an aerial photograph or in any other way; and, where a copy of that diagram or photograph is lodged with the Registrar-General of Land or the diagram or photograph is endorsed on or attached to the licence, the Registrar-General of Land must, subject to subsection (4), on receipt of the licence, register the licence even though a plan of the land has not been deposited in accordance with section 224 of the Land Transfer Act 2017.
+(4) No Crown forestry licence shall be registered under this section unless the applicant for registration lodges with the Registrar-General of Land a certificate from the Surveyor-General that the licensed land is Crown forest land.
+(5) If a plan of the licensed land has not been deposited in accordance with section 224 of the Land Transfer Act 2017, the Registrar-General of Land must, in accordance with section 17 of that Act,—
+  (a) if the licensed land is subject to the Land Transfer Act 2017, record on the record of title for the licensed land that the title is qualified as described in section 17(1)﻿(a) of that Act; or
+  (b) if the licensed land is not subject to the Land Transfer Act 2017, record on the record of title for the licence that the title is qualified as described in section 17(1)﻿(a) of that Act.
+(6)
+(7)
 
 ### 31 Registration of transfers and other dealings
 (1) Where a Crown forestry licence has been registered under section 30, every transfer, mortgage, transmission, and other disposition of the licence may be registered in the same manner, subject to any modifications prescribed by any regulations made under section 32, as a similar transfer, mortgage, transmission, or disposition of a registered lease.
 (2) The same fee shall be payable on the registration of any transfer, mortgage, transmission, or other disposition of the licence, as on the registration of a similar transfer, mortgage, transmission, or other disposition of a registered lease.
-(3) The covenants, conditions, and restrictions contained or implied in a Crown forestry licence registered under section 30 may, to the extent permitted by the licence, from time to time, be varied by a memorandum of variation signed by the parties for the time being and registered in a form approved by the District Land Registrar. The same registration fee shall be payable on any such memorandum of variation as on a memorandum of extension of a lease. If the licence is at the time of registration of the memorandum of variation subject to a mortgage, then the memorandum shall not be binding on the mortgagee unless the mortgagee has consented to it in writing on the memorandum.
-(4) Where a Crown forestry licence which has been registered under section 30 is rescinded or surrendered, the owner of the land subject to the licence may send a notice of rescission or surrender to the District Land Registrar, who, without further notice or inquiry and without fee, shall enter a memorial of the rescission or surrender on the register.
+(3) The covenants, conditions, and restrictions contained or implied in a Crown forestry licence registered under section 30 may, to the extent permitted by the licence, from time to time, be varied by a memorandum of variation signed by the parties for the time being and registered in a form approved by the Registrar-General of Land. The same registration fee shall be payable on any such memorandum of variation as on a memorandum of extension of a lease. If the licence is at the time of registration of the memorandum of variation subject to a mortgage, then the memorandum shall not be binding on the mortgagee unless the mortgagee has consented to it in writing on the memorandum.
+(4) Where a Crown forestry licence which has been registered under section 30 is rescinded or surrendered, the owner of the land subject to the licence may send a notice of rescission or surrender to the Registrar-General of Land, who, without further notice or inquiry and without fee, shall enter a memorial of the rescission or surrender on the register.
 
 ### 32 Regulations
-The Governor-General may, from time to time, by Order in Council, make regulations prescribing such matters as are necessary or expedient for regulating the registration of Crown forestry licences under the Land Transfer Act 1952.
+The Governor-General may, from time to time, by Order in Council, make regulations prescribing such matters as are necessary or expedient for regulating the registration of Crown forestry licences under the Land Transfer Act 2017.
 
 ### 33 Application of other Acts
 (1) None of the following constitutes a subdivision of land for the purposes of Part 10 of the Resource Management Act 1991—
@@ -280,7 +278,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (b) the termination of a Crown forestry licence or the termination of a Crown forestry licence in respect of part of the licensed land:
   (c) the surrender or rescission of a Crown forestry licence:
   (d) the transfer of any Crown forestry asset.
-(2) The taking of possession of any land pursuant to section 17(4)(c)(iv) is not a subdivision of land for the purposes of Part 10 of the Resource Management Act 1991.
+(2) The taking of possession of any land pursuant to section 17(4)﻿(c)﻿(iv) is not a subdivision of land for the purposes of Part 10 of the Resource Management Act 1991.
 (3) A right of access granted or reserved by, or created as ancillary to, a Crown forestry licence shall be deemed not to be the grant of a right of way under section 348 of the Local Government Act 1974.
 (4) Nothing in sections 40 to 42 of the Public Works Act 1981 applies to the grant of any Crown forestry licence or the transfer of any Crown forestry asset under this Act.
 
@@ -293,7 +291,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 
 ### 35 Restrictions on sale of Crown forest land
 (1) The Crown shall not sell or otherwise dispose of any Crown forest land that is subject to a Crown forestry licence except in accordance with section 8.
-(2) The Crown shall not sell, assign, or otherwise dispose of, or deal with, any rights or interests in any Crown forestry licence unless the Waitangi Tribunal has made, in relation to the licensed land, a recommendation under section 8HB(1)(b) or section 8HB(1)(c) or section 8HE of the Treaty of Waitangi Act 1975.
+(2) The Crown shall not sell, assign, or otherwise dispose of, or deal with, any rights or interests in any Crown forestry licence unless the Waitangi Tribunal has made, in relation to the licensed land, a recommendation under section 8HB(1)﻿(b) or section 8HB(1)﻿(c) or section 8HE of the Treaty of Waitangi Act 1975.
 
 ### 36 Return of Crown forest land to Maori ownership and payment of compensation
 (1) Where any interim recommendation of the Waitangi Tribunal under the Treaty of Waitangi Act 1975 becomes a final recommendation under that Act and is a recommendation for the return to Maori ownership of any licensed land, the Crown shall—
@@ -303,7 +301,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 (3) Any money required to be paid as compensation pursuant to this section may be paid without further appropriation than this section.
 
 ### 37 Recommendation by Waitangi Tribunal that Crown forest land not liable to return to Maori ownership
-(1) Where the Waitangi Tribunal makes a recommendation in relation to Crown forest land under section 8HB(1)(b) or section 8HB(1)(c) or section 8HE of the Treaty of Waitangi Act 1975 no person shall be entitled to make any claim under section 6 of that Act in respect of the return of that land.
+(1) Where the Waitangi Tribunal makes a recommendation in relation to Crown forest land under section 8HB(1)﻿(b) or section 8HB(1)﻿(c) or section 8HE of the Treaty of Waitangi Act 1975 no person shall be entitled to make any claim under section 6 of that Act in respect of the return of that land.
 (2) The responsible Ministers may, by notice in the Gazette, declare that Crown forest land to which subsection (1) applies, and which is not licensed land, shall cease to be Crown forest land and on the publication of the notice the land shall be Crown land subject to the Land Act 1948.
 
 ## Part 4 — Amendments to Treaty of Waitangi Act 1975
