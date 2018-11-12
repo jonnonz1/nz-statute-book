@@ -1,5 +1,5 @@
 # Deeds Registration Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-12_
 
 > An Act to consolidate certain enactments of the General Assembly relating to the registration of deeds affecting land
 
@@ -10,12 +10,12 @@ _Consolidation as at 2007-09-03_
   (b) All matters and proceedings commenced under any such enactment, and pending or in progress on the coming into operation of this Act, may be continued, completed, and enforced under this Act.
 
 ### 2 Instruments excepted from Act
-This Act does not apply to land subject to the provisions of the Land Transfer Act 1952, or of any Act heretofore in force for like purposes, or to any certificate of title for land now or hereafter issued under any such Act in lieu of a Crown grant for such land, or to any other instrument within the meaning of any such Act affecting such land.
+This Act does not apply to land subject to the provisions of the Land Transfer Act 2017, or of any Act heretofore in force for like purposes, or to any record of title for land now or hereafter issued under any such Act in lieu of a Crown grant for such land, or to any other instrument within the meaning of any such Act affecting such land.
 
 ### 3 Interpretation
 In this Act, if not inconsistent with the context,—
   - **Instrument** includes any grant of land by the Crown, deed, contract, will, codicil, exemplification or certified copy of will, probate, testamentary order, certificate, notice, memorial, map, plan, or other document of any kind affecting land and authorised by this or any other Act to be registered under this Act or any other Act heretofore in force for like purposes
-  - **Land** includes every estate or interest in land over which the Maori title is extinguished, except land under the Land Transfer Act 1952
+  - **Land** includes every estate or interest in land over which the Maori title is extinguished, except land under the Land Transfer Act 2017
   - **Registration district** or means a district constituted under this Act.
 
 ### 4 Registration districts
@@ -29,8 +29,8 @@ In this Act, if not inconsistent with the context,—
 (2) A Deeds Register Office may be the office for more than 1 district.
 
 ### 6 Registrar of Deeds
-(1) The Registrar-General of Land appointed under section 4 of the Land Transfer Act 1952 is the Registrar for every Deeds Register Office.
-(2) The Registrar may delegate any of the Registrar's powers and duties under this Act in accordance with section 5 of the Land Transfer Act 1952.
+(1) The Registrar-General of Land appointed in accordance with section 231 of the Land Transfer Act 2017 is the Registrar for every Deeds Register Office.
+(2) The Registrar may delegate any of the Registrar's powers and duties under this Act in accordance with section 233 of the Land Transfer Act 2017.
 
 ### 7 Registrars to give security
 Where the fidelity of the Registrar is not guaranteed under any Act for the time being in force relating to the Civil Service of New Zealand, the Registrar shall give security for the due execution of the duties of his office in such manner and to such amount as the Governor-General thinks fit.
