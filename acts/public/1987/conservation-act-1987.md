@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-11-12_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -479,7 +479,7 @@ The Boards shall be serviced by the Department in such manner as the Minister ma
 (6) Upon the transfer of any stewardship area or any part of any stewardship area under this section, that land shall cease to be subject to this Act.
 (7) Nothing in section 26 or section 49 shall apply to the exchange of land under this section.
 (7A) Nothing in section 40 of the Public Works Act 1981 applies to the exchange of land under this section.
-(8) District Land Registrars are hereby authorised and directed to make such entries in registers and do all such other things as may be necessary to give effect to exchanges authorised under this section.
+(8) The Registrar-General of Land is hereby authorised and directed to make such entries in registers and do all such other things as may be necessary to give effect to exchanges authorised under this section.
 
 ### 17 Access to conservation areas
 (1) Except as provided by or under this section, Part 3B, or section 38(1), the entry to and use of conservation areas by the public shall be free of charge.
@@ -995,10 +995,10 @@ Meaning of specified deadline
   (b) the end of any time limit for the relevant applicant to apply for reconsideration under section 17ZJ that is prescribed by regulations made under section 48AA, including any extension of the time limit.
 
 ### 17ZA Registration of easements
-(1) For the purpose of granting any easement over any conservation area, the Minister is hereby deemed to be the registered proprietor of that conservation area.
-(2) Notwithstanding anything in the Land Transfer Act 1952, where the instrument of easement under section 17Z is a deed and the easement is granted or reserved over land for which no certificate of title has been issued under that Act, the Minister may request the District Land Registrar to register the deed under that Act by constituting it a folium in the register book; and the District Land Registrar shall register the deed accordingly.
-(3) Where the Minister has granted or reserved any easement over any conservation area that is subject to a lease or licence that is registered under the Land Transfer Act 1952, and the lessee or licensee or other person entitled for the time being to the custody of the lease or licence neglects or refuses to produce the outstanding copy to the appropriate District Land Registrar to permit registration of the easement, the Minister may, on being satisfied that the neglect or refusal is not justified, request the District Land Registrar to register the easement without production of the outstanding copy; and the District Land Registrar shall register the easement accordingly.
-(4) Nothing in subsection (3) affects or restricts the power of a District Land Registrar under sections 211 and 212 of the Land Transfer Act 1952 to require the production of the outstanding copy of a lease or licence.
+(1) For the purpose of granting any easement over any conservation area, the Minister is hereby deemed to be the registered owner of that conservation area.
+(2)
+(3)
+(4)
 
 ### 17ZB Accounts
 (1) The Minister may, to assist himself or herself in verifying any rent, fees, or royalties, or amount of any compensation or bond, require any body or person who has been granted a concession under this Part in respect of any activity to provide a complete statement of audited financial accounts and any other relevant information for that part of the activity that is carried out under the concession on or in any conservation area.
@@ -1014,9 +1014,9 @@ Meaning of specified deadline
   (a) the variation is the result of a review provided for in the concession document; or
   (b) the variation is necessary to deal with significant adverse effects of the activity that were not reasonably foreseeable at the time the concession was granted; or
   (c) the variation is necessary because the information made available to the Minister by the concessionaire for the purposes of the concessionaire's application contained inaccuracies that materially influenced the decision to grant a concession and the effects of the activity permitted by the concession require more appropriate conditions;—
-(4) Subject to subsection (5), a memorandum of any variation or extension shall be executed by the Minister and by the concessionaire and, if it relates to a lease or licence or easement registered with the District Land Registrar, shall be registered with the District Land Registrar who shall enter an appropriate memorial on the register book copy of the lease or licence or easement and on the outstanding copy thereof.
-(5) Notwithstanding anything to the contrary in section 66 of the Land Transfer Act 1952, a memorial of variation of any lease in respect of which a certificate of title has been issued under that section shall be entered on all relevant instruments and on that certificate of title, which shall have full validity, subject to that variation.
-(6) If the interest of the concessionaire is at the time of registration of the memorandum of variation or extension subject to a mortgage, the memorandum shall not be binding on the mortgagee unless the mortgagee has consented to the variation or extension in writing in the memorandum.
+(4) An instrument of any variation or extension must be executed by the Minister and by the concessionaire and, if it relates to a lease or licence or easement registered under the Land Transfer Act 2017, must be registered under that Act.
+(5) If the instrument of variation or extension relates to a lease for which a record of title has been issued, the memorandum must be noted on the record of title.
+(6) If the interest of the concessionaire is at the time of registration of the instrument of variation or extension subject to a mortgage, the instrument shall not be binding on the mortgagee unless the mortgagee has consented to the variation or extension in writing in the instrument.
 
 ### 17ZD Failure to execute or exercise concession document
 (1) If any applicant for a concession who has been granted a concession fails to sign the applicant's concession document within 1 month after being required by written notice to do so, the Minister may cancel the grant of the concession to that person.
@@ -1243,10 +1243,10 @@ Subject to this Act and any other Act, all marginal strips shall be held under t
   (c) for public recreational use of the marginal strips and adjacent watercourses or bodies of water.
 
 ### 24D Reservation of marginal strips to be recorded
-(1) Upon the registration of any disposition by the Crown of any land under the Land Transfer Act 1952, the District Land Registrar of the land registration district affected shall, without fee, record on the certificate of title for that land a statement to the effect that the land to which the certificate of title relates is subject to this Part.
-(1A) Upon being notified of any reduction in the width of any marginal strip under section 24A or any increase in the width of any marginal strip under section 24AA or any exemption under section 24B, where there is a certificate of title for the land under the Land Transfer Act 1952, the District Land Registrar shall, without fee, record the reduction or increase or exemption on the certificate of title.
-(2) Upon being notified of any disposition by the Crown of any land not registered under the Land Transfer Act 1952, the Chief Surveyor shall, without fee, record on the proper plans and records of the land registration district affected a statement to the effect that the land so transferred is subject to this Part.
-(2A) Upon being notified of any reduction in the width of any marginal strip under section 24A or any increase in the width of any marginal strip under section 24AA or any exemption under section 24B, where the land is not registered under the Land Transfer Act 1952, the Chief Surveyor shall, without fee, record the reduction or increase or exemption on the proper plans and records.
+(1) Upon the registration of any disposition by the Crown of any land under the Land Transfer Act 2017, the Registrar-General of Land must, without fee, record on the record of title for that land a statement to the effect that the land to which the record of title relates is subject to this Part.
+(1A) Upon being notified of any reduction in the width of any marginal strip under section 24A or any increase in the width of any marginal strip under section 24AA or any exemption under section 24B, where there is a record of title for the land under the Land Transfer Act 2017, the Registrar-General of Land must, without fee, record the reduction or increase or exemption on the record of title.
+(2) Upon being notified of any disposition by the Crown of any land not registered under the Land Transfer Act 2017, the Chief Surveyor shall, without fee, record on the proper plans and records of the land registration district affected a statement to the effect that the land so transferred is subject to this Part.
+(2A) Upon being notified of any reduction in the width of any marginal strip under section 24A or any increase in the width of any marginal strip under section 24AA or any exemption under section 24B, where the land is not registered under the Land Transfer Act 2017, the Chief Surveyor shall, without fee, record the reduction or increase or exemption on the proper plans and records.
 (3) The Chief Surveyor shall, without fee, in the manner the Chief Surveyor considers most appropriate, cause the proper plans of every land registration district to show the marginal strips (including details of the reduction in the width of any marginal strip under section 24A or the increase in the width of any marginal strip under section 24AA) within that district.
 (4) All land that is subject to this Part shall remain subject to this Part and the statements specified in subsections (1) and (2) shall continue to be recorded on the certificates of title for that land and on all subsequent certificates of title for that land and on all the proper plans and records of the land registration district affected, as the case may be, notwithstanding—
   (a) any subsequent subdivision of that land; or
@@ -1255,7 +1255,7 @@ Subject to this Act and any other Act, all marginal strips shall be held under t
 (6) The land comprised in any certificate of title that bears a statement recorded in compliance with subsection (1)—
   (a) shall be deemed to be all the land described in that certificate of title, with the exception of any portion that is deemed to be reserved as marginal strip under this Part; and
   (b) may be defined for the purposes of the issue of a certificate of title as if this Part had not been passed.
-(7) Notwithstanding anything in the Land Transfer Act 1952, land reserved as marginal strip under section 24 shall not be required to be surveyed for the purposes of that Act.
+(7) Notwithstanding anything in the Land Transfer Act 2017, land reserved as marginal strip under section 24 shall not be required to be surveyed for the purposes of that Act.
 
 ### 24E Exchange of marginal strips
 (1) The Minister may, by notice in the Gazette, authorise the exchange of any marginal strip for another strip of land.
@@ -1263,7 +1263,7 @@ Subject to this Act and any other Act, all marginal strips shall be held under t
 (3) The land taken by the Crown in exchange for any marginal strip shall be deemed to be reserved as marginal strip.
 (4) The Minister may authorise the payment or receipt by the Crown of money by way of equality of exchange in any case under this section; and all money so received shall be paid into the Department of Conservation Grants and Gifts Trust Account, and shall be applied, without further appropriation than this section, for the purposes of this Act.
 (5) The Minister or the Director-General may, on behalf of the Crown, do all such things as may be necessary to effect any exchange authorised under this section.
-(6) District Land Registrars are hereby authorised and directed to make such entries in registers and do all such other things as may be necessary to give effect to exchanges authorised under this section.
+(6) The Registrar-General of Land is hereby authorised and directed to make such entries in registers and do all such other things as may be necessary to give effect to exchanges authorised under this section.
 
 ### 24F Right of Crown to half of bed of river adjoining former land of the Crown
 Notwithstanding any other enactment or rule of law, where the Crown owns part of the bed of a non-navigable river or stream adjoining any land (being a bed of not less than 3 metres in width) and disposes of that land, that part of the bed of that river or stream shall remain owned by the Crown.
@@ -1329,7 +1329,7 @@ Notwithstanding any other enactment or rule of law, where the Crown owns part of
   (a) the land is reasonably required for the purposes of altering the route of the railway line; and
   (b) the value in terms of the purposes specified in section 24C of the land adjacent to the railway line will not be diminished any more than is reasonably necessary for the purposes of the proposed alterations to the railway line.
 (5) In giving an approval under subsection (3)﻿(b) the Minister may impose such conditions as he or she thinks fit in connection with the construction of the proposed alterations to the railway line.
-(6) Where, in relation to land of the kind referred to in subsection (3)﻿(b), a statement that the land is subject to this Part has, in accordance with section 24D, been recorded on the certificate of title to the land or on the proper plans and records of the land registration district affected, the District Land Registrar of the land registration district affected or the Chief Surveyor, as the case may be, shall make such alterations to any existing certificates of title for that land or to the plans and records of the land registration district, as the case may be, as shall be necessary for the purpose of recording the fact that the land is no longer subject to this Part.
+(6) Where, in relation to land of the kind referred to in subsection (3)﻿(b), a statement that the land is subject to this Part has, in accordance with section 24D, been recorded on the record of title to the land or on the proper plans and records of the land registration district affected, the Registrar-General of Land or the Chief Surveyor, as the case may be, shall make such alterations to any existing records of title for that land or to the plans and records of the land registration district, as the case may be, as shall be necessary for the purpose of recording the fact that the land is no longer subject to this Part.
 (7) Where, in relation to any land of the kind referred to in subsection (3),—the land shall immediately become subject to this Part and the provisions of section 24D shall apply with such modifications as shall be necessary and as if—
   (a) the railway line is removed permanently; or
   (b) the railway line ceases to be operated by a railway operator; or
@@ -1356,8 +1356,8 @@ Every stewardship area shall so be managed that its natural and historic resourc
 (5) As soon as is practicable after disposing of any land or interest in land, the Minister shall publish in the Gazette a notice—
   (a) describing the area concerned; and
   (b) specifying the interest and the revenue (or, where the interest was disposed of by way of exchange or part exchange, the consideration) received for it.
-(6) Any disposal under this section may be effected by transfer under the Land Transfer Act 1952.
-(7) A District Land Registrar shall accept any such transfer as conclusive evidence that the land or interest concerned is no longer required for conservation purposes.
+(6) Any disposal under this section may be effected by transfer under the Land Transfer Act 2017.
+(7) The Registrar-General of Land shall accept any such transfer as conclusive evidence that the land or interest concerned is no longer required for conservation purposes.
 (8) Nothing in this section shall affect any application for or grant of any concession under Part 3B over a stewardship area or an interest in a stewardship area.
 
 ## Part 5A — Sports Fish and Game Councils
@@ -2025,10 +2025,10 @@ No warranted officer shall be liable for any loss or damage caused to the owner 
 ### 27 Covenants
 (1) Notwithstanding any enactment or rule of law,—
   (a) there may be granted or reserved over any land any covenant for conservation purposes in favour of the Minister; and
-  (b) every such covenant shall run with and bind the land that is subject to the burden of the covenant, and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 1952.
-(2) Subject to subsection (3), where a covenant is granted or reserved under this section, the District Land Registrar of the land registration district affected, on the application of the Director-General, shall, without fee, enter in the appropriate registers a notification that the land affected by the covenant is subject to the burden of the covenant.
-(3) Where the burden of a covenant under this section applies to land comprising part of the land in a certificate or instrument of title, a District Land Registrar shall not enter in any register a notification of the covenant unless—
-  (a) the land to which the covenant relates is defined on an existing plan approved under the Land Transfer Act 1952 or a new plan approved under that Act; or
+  (b) every such covenant shall run with and bind the land that is subject to the burden of the covenant, and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 2017.
+(2) Subject to subsection (3), where a covenant is granted or reserved under this section, the Registrar-General of Land, on the application of the Director-General, shall, without fee, enter in the appropriate registers a notification that the land affected by the covenant is subject to the burden of the covenant.
+(3) Where the burden of a covenant under this section applies to land comprising part of the land in a record of title, the Registrar-General of Land shall not enter in any register a notification of the covenant unless—
+  (a) the land to which the covenant relates is defined on an existing plan approved under the Land Transfer Act 2017 or a new plan approved under that Act; or
   (b) the document incorporating the covenant is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the covenant is adequately described and properly defined—
     (i) for the nature of the covenant; and
     (ii) in relation to existing surveys made in accordance with regulations for the time being in force for the purpose; and
@@ -2041,13 +2041,13 @@ No warranted officer shall be liable for any loss or damage caused to the owner 
     (ii) the spiritual and cultural values which Maori associate with the land,—
   (b) a Nga Whenua Rahui kawenata under this section may be in perpetuity or for any specific term or may be in perpetuity subject to a condition that at agreed intervals of not less than 25 years the parties to the Nga Whenua Rahui kawenata shall review the objectives, conditions, and continuance of the Nga Whenua Rahui kawenata; and on such review the parties may mutually agree that the Nga Whenua Rahui kawenata shall be terminated, or the owner or lessee may terminate the Nga Whenua Rahui kawenata on giving such notice (being not less than 6 months) as may be agreed. The Crown shall have regard to the manawhenua of the owner or lessee in any such review:
   (c) while any Nga Whenua Rahui kawenata under this section remains in force, sections 36 to 43 and 43C to 47, as far as they are applicable and with the necessary modifications, but subject to the terms of the Nga Whenua Rahui kawenata, shall apply to the land affected thereby in all respects as if it were a conservation area, notwithstanding that the land or the interest of the lessee may be sold or otherwise disposed of:
-  (d) every such Nga Whenua Rahui kawenata shall run with and bind the land that is subject to the burden of the Nga Whenua Rahui kawenata, and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 1952:
-  (e) where a Nga Whenua Rahui kawenata is entered into under this section, the District Land Registrar of the land registration district affected, on the application of the Director-General, shall, without fee, enter in the appropriate folio of the register relating to the land that is subject to the burden of the Nga Whenua Rahui kawenata a notification thereof:
+  (d) every such Nga Whenua Rahui kawenata shall run with and bind the land that is subject to the burden of the Nga Whenua Rahui kawenata, and shall be deemed to be an interest in land for the purposes of the Land Transfer Act 2017:
+  (e) where a Nga Whenua Rahui kawenata is entered into under this section, the Registrar-General of Land, on the application of the Director-General, shall, without fee, enter on the appropriate record of title relating to the land that is subject to the burden of the Nga Whenua Rahui kawenata a notification thereof:
   (f) subject to section 33, any money payable as consideration for a Nga Whenua Rahui kawenata shall be paid out of money appropriated by Parliament.
 (2) In the case of a Crown lease other than a lease administered by the Department of Conservation, the consent of the Minister of Lands shall be required before a Nga Whenua Rahui kawenata is entered into, and that Minister may give consent subject to the inclusion of any condition in the Nga Whenua Rahui kawenata or conditions, and may agree to a reduction in rent if, having regard to the basis for fixing the rent, it appears fair and equitable to do so.
 (3) In the case of a Crown lease administered by the Department of Conservation, the Minister may agree to a reduction in rent if, having regard to the basis for fixing the rent, it appears fair and equitable to do so.
-(4) Where the burden of a Nga Whenua Rahui kawenata under this section applies to land comprising part of the land in a certificate or instrument of title, a District Land Registrar shall not enter in any register a notification of the Nga Whenua Rahui kawenata unless—
-  (a) the land to which the Nga Whenua Rahui kawenata relates is defined on an existing plan approved under the Land Transfer Act 1952 or a new plan approved under that Act; or
+(4) Where the burden of a Nga Whenua Rahui kawenata under this section applies to land comprising part of the land in a record of title, the Registrar-General of Land shall not enter in any register a notification of the Nga Whenua Rahui kawenata unless—
+  (a) the land to which the Nga Whenua Rahui kawenata relates is defined on an existing plan approved under the Land Transfer Act 2017 or a new plan approved under that Act; or
   (b) the document incorporating the Nga Whenua Rahui kawenata is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the Nga Whenua Rahui kawenata is adequately described and properly defined—
     (i) for the nature of the Nga Whenua Rahui kawenata; and
     (ii) in relation to existing surveys made in accordance with regulations for the time being in force for the purpose; and
@@ -2366,7 +2366,7 @@ A court may sentence any individual who commits an offence against this Act to a
 (3) The Director-General shall determine the procedure at any hearing under this section.
 
 ### 50 Changes of status of land to be noted
-(1) Where a notice is published in the Gazette under this Act changing the status of any land or notifying the disposal of any interest in a stewardship area, the District Land Registrar or Chief Surveyor, as the case requires, shall register a copy of it against the appropriate title or record.
+(1) Where a notice is published in the Gazette under this Act changing the status of any land or notifying the disposal of any interest in a stewardship area, the Registrar-General of Land or Chief Surveyor, as the case requires, shall register a copy of it against the appropriate title or record.
 (2) After disposing of or transferring any land or interest in land under section 60(2) or section 64A, the Director-General shall give the appropriate Chief Surveyor written notice of the disposal or transfer.
 
 ### 50A Errors of description in notices may be corrected
@@ -2544,12 +2544,10 @@ Where—section 60B shall have effect as if the beneficiary had made the latter 
 ### 60E Payments
 All money paid to the Director-General under section 60B or under any arrangement under section 60D shall be deemed to have been paid under this Act.
 
-### 60F Certificate of title in respect of conservation areas
-(1) The District Land Registrar for the land registration district in which is situated any land for the time being held under this Act for conservation purposes or for the purposes of the Department shall, on the written request of the Director-General,—
-  (a) issue a certificate or certificates of title under the Land Transfer Act 1952 (in the name of Her Majesty the Queen for conservation purposes or for the purposes of the Department) in respect of any of the land; and
-  (b) issue a duplicate to the Director-General.
-(2) For the purposes only of the Land Transfer Act 1952, a request under subsection (1) is conclusive evidence that the land to which it relates is held under this Act for conservation purposes or, as the case requires, for the purposes of the Department.
-(3) If the survey of any land is inadequate for the issue of a certificate of title under subsection (1), the District Land Registrar may require the Director-General to deposit in the Land Registry Office concerned such other plan as the District Land Registrar, after consultation with the Chief Surveyor under the Cadastral Survey Act 2002 for the land district in which the land is situated, thinks sufficient to define the land in relation to existing surveys made in accordance with the regulations to which section 167 of the Land Transfer Act 1952 refers.
+### 60F Record of title in respect of conservation areas
+(1) On the written request of the Director-General in respect of any of the land for the time being held under this Act for conservation purposes or for the purposes of the Department, the Registrar-General of Land must issue a record or records of title under the Land Transfer Act 2017 (in the name of Her Majesty the Queen for conservation purposes or for the purposes of the Department).
+(2) For the purposes only of the Land Transfer Act 2017, a request under subsection (1) is conclusive evidence that the land to which it relates is held under this Act for conservation purposes or, as the case requires, for the purposes of the Department.
+(3) If the survey of any land is inadequate for the issue of a record of title under subsection (1), the Registrar-General of Land may require the Director-General to deposit such other plan as the Registrar-General of Land, after consultation with the Surveyor-General, thinks sufficient to comply with section 224 of the Land Transfer Act 2017.
 
 ## Part 8 — Transitional, consequential amendments, and savings
 
@@ -2620,8 +2618,8 @@ All money paid to the Director-General under section 60B or under any arrangemen
   (a) that person may, subject to the provisions of the lease or licence under which the right is conferred, exercise that right at any time during the currency of the lease or licence:
   (b) the exercise of that right shall not constitute a disposition for the purposes of section 16 or Part 4A.
 (4A) Where a lessee or licensee of any land vested in Landcorp Farming Limited, being land that was acquired from the Crown, exercises under that person's lease or licence a right to acquire the freehold title for that land, the exercise of that right shall not constitute a disposition for the purposes of section 16 or Part 4A.
-(5) Where the freehold title of any land referred to in subsection (4A) is transferred to the lessee or licensee of the land pursuant to the exercise of a right to acquire that title, the District Land Registrar or the Chief Surveyor shall, without fee,—
-  (a) remove from the certificate of title, or proper plans and records, of the land any record or notation made in accordance with subsection (1) or subsection (2) of section 24D; and
+(5) Where the freehold title of any land referred to in subsection (4A) is transferred to the lessee or licensee of the land pursuant to the exercise of a right to acquire that title, the Registrar-General of Land or the Chief Surveyor shall, without fee,—
+  (a) remove from the record of title, or proper plans and records, of the land any record or notation made in accordance with subsection (1) or subsection (2) of section 24D; and
   (b) remove from any such proper plans any reference to the marginal strip formerly reserved in respect of the land.
 
 ### 64A Agreed exchanges to proceed
