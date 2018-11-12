@@ -1,5 +1,5 @@
 # Queen Elizabeth the Second National Trust Act 1977
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to commemorate the Silver Jubilee of Her Majesty Queen Elizabeth the Second by establishing a national trust to encourage and promote the provision, protection, and enhancement of open space for the benefit and enjoyment of the people of New Zealand
 
@@ -36,15 +36,15 @@ In this Act, unless the context otherwise requires,—
 (1) There shall be a board of the directors of the Trust consisting of the following persons:
   (a) a chairperson and 3 directors, who shall each be appointed by the Minister in accordance with subsections (2) and (3):
   (b) 2 directors elected by the members of the Trust in accordance with its rules.
-(2) Subject to subsection (3), the appointments to be made by the Minister under subsection (1)(a) shall be made—
+(2) Subject to subsection (3), the appointments to be made by the Minister under subsection (1)﻿(a) shall be made—
   (a) following a public invitation that calls for nominations from interested agencies and organisations; and
   (b) having due regard to—
     (i) environmental and conservation values; and
     (ii) the interests of rural land owners; and
     (iii) the interests of the Maori community.
-(3) Before making any appointment under subsection (1)(a), the Minister—
-  (a) shall consult the Minister of Agriculture and Federated Farmers of New Zealand (Incorporated) on the interests referred to in subsection (2)(b)(ii); and
-  (b) shall consult the Minister of Maori Affairs on the interests referred to in subsection (2)(b)(iii).
+(3) Before making any appointment under subsection (1)﻿(a), the Minister—
+  (a) shall consult the Minister of Agriculture and Federated Farmers of New Zealand (Incorporated) on the interests referred to in subsection (2)﻿(b)﻿(ii); and
+  (b) shall consult the Minister of Maori Affairs on the interests referred to in subsection (2)﻿(b)﻿(iii).
 (4) The board shall have the executive control and management of the affairs of the Trust, and shall exercise and perform the functions, powers, and duties of the Trust in its behalf, and shall be responsible for its effective and efficient administration.
 (5) The powers of the board shall not be affected by any vacancy in its membership.
 
@@ -67,9 +67,9 @@ In this Act, unless the context otherwise requires,—
   (b) meets the requirements of the board in relation to benefactors, honorary life members, or covenant life members—
 
 ### 6 Terms of office of directors
-(1) The directors appointed under section 4(1)(a) shall hold office for a term of 3 years or such lesser term as the Minister shall specify in the notice of appointment, and, subject to subsection (4) of this section, may from time to time be reappointed.
-(2) The directors elected under section 4(1)(b) shall hold office for a term of 3 years and, subject to subsection (4) of this section and to any rules of the Trust, may from time to time be re-elected.
-(3) Subject in the case of any director elected under section 4(1)(b) to any rules of the Trust, every director holding office at the commencement of this section is hereby deemed to have been appointed for a term of 3 years commencing on the date of his appointment or election.
+(1) The directors appointed under section 4(1)﻿(a) shall hold office for a term of 3 years or such lesser term as the Minister shall specify in the notice of appointment, and, subject to subsection (4) of this section, may from time to time be reappointed.
+(2) The directors elected under section 4(1)﻿(b) shall hold office for a term of 3 years and, subject to subsection (4) of this section and to any rules of the Trust, may from time to time be re-elected.
+(3) Subject in the case of any director elected under section 4(1)﻿(b) to any rules of the Trust, every director holding office at the commencement of this section is hereby deemed to have been appointed for a term of 3 years commencing on the date of his appointment or election.
 (4) No person, whether appointed or elected as a director, shall be eligible to be a director for more than 9 years in total, and any director who holds office for 9 years shall be deemed to have resigned his office on the day on which the ninth year of service is completed.
 (5) For the purposes of subsection (4), any time spent as a director before the commencement of this section shall be counted in calculating the total period for which any director has held office.
 (6) Unless he sooner dies or vacates his office under section 7, every director shall continue in office until his successor comes into office, notwithstanding that the term for which he was appointed has expired or his eligibility to remain a director has ceased.
@@ -139,14 +139,14 @@ No director, or member of the Trust, or member of any committee, shall be person
   (c) regulating the terms and conditions of employment of persons under section 18(6):
   (d) prescribing the conditions on which the Trust will make grants under this Act, and the manner in which applications for grants shall be made:
   (e) regulating the manner in which the Trust Fund shall be dealt with:
-  (f) subject to subsections (4) and (5), prescribing the method of election of the directors specified in section 4(1)(b), and the form and manner of keeping an electoral roll of members for that purpose, and providing for matters incidental thereto:
+  (f) subject to subsections (4) and (5), prescribing the method of election of the directors specified in section 4(1)﻿(b), and the form and manner of keeping an electoral roll of members for that purpose, and providing for matters incidental thereto:
   (g) providing for such other matters as may be necessary or expedient for the carrying out of the functions of the Trust.
-(2) Rules made for any purpose specified in subsection (1)(f) may limit the right of junior members, or of family members who are under the age for the time being specified by the board in respect of junior membership, to vote in any election.
+(2) Rules made for any purpose specified in subsection (1)﻿(f) may limit the right of junior members, or of family members who are under the age for the time being specified by the board in respect of junior membership, to vote in any election.
 (3) Notice in writing of every proposed resolution to make rules under this section or for the amendment or revocation of any rule so made, (including a copy of the proposed rules, amendment, or revocation) shall be given to every director for the time being in New Zealand, not less than 21 days before the meeting at which the proposal is to be moved, but an inadvertent failure to comply with this subsection shall not invalidate the making, amendment, or revocation of any rule at that meeting.
-(4) Notwithstanding that subsection (1) confers a discretionary power on the board to make rules, the following provisions shall apply in respect of the election of the directors specified in section 4(1)(b):
+(4) Notwithstanding that subsection (1) confers a discretionary power on the board to make rules, the following provisions shall apply in respect of the election of the directors specified in section 4(1)﻿(b):
   (a) the board may not make rules under this section for the election of such directors before the expiration of the period of 1 year following the commencement of this Act, but shall make such rules as soon as practicable after the expiration of that period:
   (b) no rules made for the election of such directors shall come into force unless they have been approved by the Minister.
-(5) No person shall be capable of being elected as a director specified in section 4(1)(b) unless he is—
+(5) No person shall be capable of being elected as a director specified in section 4(1)﻿(b) unless he is—
   (a) a member of the Trust; or
   (b) an officer of a corporate member of the Trust.
 
@@ -173,8 +173,8 @@ No director, or member of the Trust, or member of any committee, shall be person
   (b) such other officers and employees of the Trust as may be necessary for the administration of its affairs.
 (2) The chief executive officer shall be the chief administrative officer of the Trust and, subject to the other provisions of this Act, shall be responsible to the board for the efficient and economical administration of the affairs of the Trust.
 (3) Any office held by any person appointed under subsection (1) may be held in conjunction with any office held in the Public Service.
-(4) Any person appointed under subsection (1)(a) shall be employed on such terms and conditions of employment as the board from time to time determines in agreement with the State Services Commission.
-(5) The persons appointed under subsection (1)(b) shall be employed on such terms and conditions of employment as the board from time to time determines after consultation with the State Services Commission.
+(4) Any person appointed under subsection (1)﻿(a) shall be employed on such terms and conditions of employment as the board from time to time determines in agreement with the State Services Commission.
+(5) The persons appointed under subsection (1)﻿(b) shall be employed on such terms and conditions of employment as the board from time to time determines after consultation with the State Services Commission.
 (6) Subject to the rules of the Trust, the board may from time to time enter into contracts with persons, on such terms and conditions as it thinks fit, to provide such services or perform such work for the Trust as the board may require.
 (7) Subject to the rules of the Trust, the persons engaged on contract under subsection (6) shall be paid such remuneration as the board may determine.
 (8) Except as otherwise provided in this Act, nothing in the State Sector Act 1988 shall apply in relation to any officer or employee of the board, or to any person engaged on contract under subsection (6).
@@ -219,9 +219,9 @@ No person, by reason only of his being a director, or a member of the Trust, or 
 (3) In the case of a Crown lease, the consent of the person or authority charged with the administration of the land shall be required to the execution of the covenant; and that person or authority may consent subject to the inclusion of any conditions in the open space covenant, and may agree to a reduction in rent if, having regard to the basis for fixing the rent, it appears fair and equitable to do so.
 (4) The effect of an open space covenant shall be to require the land to which it applies to be maintained as open space in accordance with the terms of the covenant and, subject always to those terms, in accordance with the other provisions of this Act relating to land to which open space covenants apply.
 (5) An open space covenant may be executed to have effect in perpetuity or for a specified term, according to the nature of the interest in land to which it applies and the terms and conditions of the agreement between the Trust and the owner.
-(6) Notwithstanding any rule of law or equity to the contrary, every open space covenant shall run with and bind the land that is subject to the burden of the covenant, and shall be deemed to be an interest in the land for the purposes of the Land Transfer Act 1952.
-(7) The District Land Registrar for the land registration district in which the land is situated shall on the application of the board enter in the appropriate folium of the register relating to the land that is subject to the burden of the covenant a notification of the covenant.
-(8) Where the burden of the covenant applies to land comprising part of the land in a certificate or instrument of title, the District Land Registrar may require the deposit of a plan in accordance with section 167 of the Land Transfer Act 1952; or, in lieu of such a plan, the District Land Registrar may accept a document incorporating the covenant, so long as the document is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the covenant is adequately described and properly defined—
+(6) Notwithstanding any rule of law or equity to the contrary, every open space covenant shall run with and bind the land that is subject to the burden of the covenant, and shall be deemed to be an interest in the land for the purposes of the Land Transfer Act 2017.
+(7) On application by the board, the Registrar-General of Land must note the covenant on the register.
+(8) Where the burden of the covenant applies to land comprising part of the land in a record or other instrument of title, the Registrar-General of Land may require the deposit of a plan in accordance with section 224 of the Land Transfer Act 2017; or, in lieu of such a plan, the Registrar-General of Land may accept a document incorporating the covenant, so long as the document is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the covenant is adequately described and properly defined—
   (a) for the nature of the covenant; and
   (b) in relation to existing surveys made in accordance with regulations for the time being in force for the purpose; and
   (c) in accordance with standards agreed from time to time by the board and either the Surveyor-General or the Chief Surveyor, as the case may be.
@@ -232,8 +232,8 @@ No person, by reason only of his being a director, or a member of the Trust, or 
   (b) correct any error of description in the covenant (whether with respect to the boundaries of an area of land or otherwise).
 (2) Notwithstanding section 9(10), the board shall not enter into any memorandum of variation under this section unless all of the members of the board agree to the proposed variation.
 (3) Any consent required by section 22 to the execution of an open space covenant shall also be required in the case of any variation of that covenant under this section.
-(4) On application by the board, the District Land Registrar for the land registration district concerned shall enter in the appropriate folium of the register relating to the land that is subject to the burden of the covenant a notification of a memorandum of variation executed under this section.
-(5) Where the variation of a covenant alters the area of the land to which the covenant relates and that land comprises part of the land in a certificate or instrument of title, the District Land Registrar may require the deposit of a plan in accordance with section 167 of the Land Transfer Act 1952; or, in lieu of such a plan the District Land Registrar may accept a document incorporating the variation, so long as the document is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the variation is adequately described and properly defined—
+(4) On application by the board, the Registrar-General of Land must note the variation instrument executed under this section on the register.
+(5) Where the variation of a covenant alters the area of the land to which the covenant relates and that land comprises part of the land in a record or other instrument of title, the Registrar-General of Land may require the deposit of a plan in accordance with section 224 of the Land Transfer Act 2017; or, in lieu of such a plan the Registrar-General of Land may accept a document incorporating the variation, so long as the document is accompanied by a certificate given by the Surveyor-General, or the Chief Surveyor of the land district in which the land is situated, to the effect that the variation is adequately described and properly defined—
   (a) for the nature of the covenant; and
   (b) in relation to existing surveys made in accordance with regulations for the time being in force for the purpose; and
   (c) in accordance with standards agreed from time to time by the board and either the Surveyor-General or the Chief Surveyor, as the case may be.
