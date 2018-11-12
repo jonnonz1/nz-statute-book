@@ -1,10 +1,10 @@
 # Land Transfer (Hawke's Bay) Act 1931
-_Consolidation as at 2005-05-17_
+_Consolidation as at 2018-11-12_
 
 > An Act to authorise the making of a new land transfer register for the Land Registration District of Hawke's Bay (in replacement of the land transfer register destroyed by fire following the Hawke's Bay earthquake of 3 February 1931) and for matters incidental thereto
 
 ### 1 Short Title and commencement
-(1) This Act may be cited as the Land Transfer (Hawke's Bay) Act 1931, and is part of the Land Transfer Act 1952 (the principal Act).
+(1) This Act may be cited as the Land Transfer (Hawke's Bay) Act 1931, and is part of the Land Transfer Act 2017 (the principal Act).
 (2) This Act shall be deemed to have come into force on 4 February 1931.
 
 ### 2 Interpretation
@@ -15,7 +15,7 @@ In this Act, if not inconsistent with the context,—
   - **District** means the Land Registration District of Hawke's Bay
   - **new register** means the register for the district made under the authority of this Act, and includes a provisional register
   - **old register** means the register for the district in existence immediately prior to 3 February 1931, and includes the provisional register
-  - **Registrar** means the Registrar-General
+  - **Registrar** means the Registrar-General of Land
   - **transfer** The expressions , , and mean respectively memorandum of transfer, memorandum of mortgage, and memorandum of lease
   - **the Hawke's Bay earthquake** or means the earthquake that occurred in Hawke's Bay on 3 February 1931, and includes all fires consequent thereon or incidental thereto
   - **the said date** means 3 February 1931.
