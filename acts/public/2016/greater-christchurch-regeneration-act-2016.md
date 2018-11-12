@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -720,17 +720,17 @@ A Gazette notice given under section 71 is a disallowable instrument, but not a 
 ### 75 New surveys
 (1) This section applies if—
   (a) the chief executive approves a cadastral survey dataset or directs the Surveyor-General to approve a survey plan under section 74(1); or
-  (b) in any other case, there is a legal requirement to notify any adjoining owners that a cadastral survey dataset is to be deposited under section 167 of the Land Transfer Act 1952.
+  (b) in any other case, there is a legal requirement to notify any adjoining owners that a cadastral survey dataset is to be deposited under the Land Transfer Act 2017.
 (2) The chief executive may direct the Registrar-General of Land to seek the consent of the adjoining owners to the new survey definition.
-(3) If the adjoining owners give their consent, the Registrar-General of Land may deposit the cadastral survey dataset or survey plan and issue new computer registers accordingly.
-(4) If an adjoining owner fails to respond within 10 working days (or any further period allowed by the chief executive) after the date of service of the request for consent or refuses to consent, the chief executive may direct the Registrar-General of Land to issue a new computer register limited as to parcels upon deposit of the cadastral survey dataset or survey plan.
-(5) Section 167(3) of the Land Transfer Act 1952 (application of the provisions of Part 12 of that Act relating to computer registers that are limited as to parcels) applies to any computer register issued and limited as to parcels in accordance with a direction under subsection (4).
-(6) The chief executive may direct the Registrar-General of Land to disapply the application of section 205(4) of the Land Transfer Act 1952 in respect of any computer register issued and limited as to parcels in accordance with subsection (4), and the Registrar-General of Land must remove the limitation as to parcels from the relevant computer register.
-(7) Subsection (6) is subject to any relevant determination by a court under subpart 4.
+(3) If the adjoining owners give their consent, the Registrar-General of Land may deposit the cadastral survey dataset or survey plan and issue new records of title accordingly.
+(4) If an adjoining owner fails to respond within 10 working days (or any further period allowed by the chief executive) after the date of service of the request for consent or refuses to consent, the chief executive may direct the Registrar-General of Land, upon deposit of the cadastral survey dataset or survey plan, to issue a record of title qualified as described in section 17(1)﻿(a) of the Land Transfer Act 2017.
+(5) The chief executive may direct the Registrar-General of Land to disapply the application of section 207 of the Land Transfer Act 2017 in respect of any qualified record of title issued in accordance with subsection (4), and the Registrar-General of Land must remove the qualification as to title.
+(6) Subsection (5) is subject to any relevant determination by a court under subpart 4.
+(7)
 
 ### 76 Disputes
-(1) If an adjoining owner wishes to dispute a survey definition determined under section 75, the dispute must be heard and determined in accordance with section 119 and treated as an appeal against a direction under section 75(6).
-(2) Any dispute against the lodgement of a caveat under section 205(4) of the Land Transfer Act 1952 against a computer register that is issued limited as to parcels in accordance with a direction under section 75(4) must be heard and determined in accordance with section 119 and treated as an appeal.
+(1) If an adjoining owner wishes to dispute a survey definition determined under section 75, the dispute must be heard and determined in accordance with section 119 and treated as an appeal against a direction under section 75(5).
+(2) Any dispute against the lodgement of a caveat under section 207 of the Land Transfer Act 2017 against a qualified record of title issued in accordance with a direction under section 75(4) must be heard and determined in accordance with section 119 and treated as an appeal.
 
 **Building works, etc**
 
@@ -753,8 +753,8 @@ A Gazette notice given under section 71 is a disallowable instrument, but not a 
   (b) the date when the work will begin, or is expected to begin if it is not possible to specify a definite date.
 (3) If it is necessary for the land or buildings, or both, to be vacated either wholly or partly to enable the works to be carried out, the notice under this section must also direct the owner or occupier to leave the land or buildings, as the case may be, for a specified period, or from a specified date until further notice.
 (4) If practicable, a copy of the notice must be given to—
-  (a) every person who has an interest in the land on which the works are situated that is registered under the Land Transfer Act 1952; and
-  (b) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952.
+  (a) every person who has an interest in the land on which the works are situated that is registered under the Land Transfer Act 2017; and
+  (b) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 138 of the Land Transfer Act 2017.
 (5) A notice under this section is sufficiently served if it is delivered personally to the person or sent to the person at the person's usual or last known place of residence or business.
 (6) If a notice or other document is to be served on a body (whether incorporated or not), service on an officer of the body in accordance with subsection (5) is taken to be service on the body.
 (7) A notice or other document sent by post to a person in accordance with subsection (5) or (6) must be treated as having been received by that person on the fourth day after it was posted.
@@ -912,11 +912,11 @@ On the date specified in the Gazette notice under section 98,—
 The Minister may publish the information required by sections 96 and 98 relating to the same piece of land in a single Gazette notice.
 
 ### 101 Notice to be registered
-(1) The Minister may lodge a Gazette notice under section 96 or 98 with the Registrar-General of Land, who must register it without fee against the appropriate computer register or computer registers.
+(1) The Minister may lodge a Gazette notice under section 96 or 98 with the Registrar-General of Land, who must register it without fee against the appropriate record of title or records of title.
 (2) The Registrar-General of Land may require the deposit of a survey plan of any piece of land being amalgamated.
 (3) The Registrar-General of Land may do all things that may be necessary to give effect to the notice, including—
-  (a) cancelling any computer register:
-  (b) issuing 1 or more computer registers:
+  (a) cancelling any record of title:
+  (b) issuing 1 or more records of title:
   (c) removing any estate, interest, status, restriction, charge, or other encumbrance.
 
 **Compulsory acquisition of land**
@@ -933,8 +933,8 @@ The Minister may exercise the power under sections 103 to 106 only if, in additi
   (a) a general description of the land required to be taken (including the name of and number in the road or some other readily identifiable description of the place where the land is situated); and
   (b) a description of the purpose for which the land is to be used.
 (2) The Minister must serve on the owner of, and persons with a registered interest in, the land a notice of intention to take the land in the form set out in Schedule 4, unless it is impracticable to do so.
-(3) The Minister must lodge a copy of the Gazette notice published under subsection (1) with the Registrar-General of Land, who must register it without fee against the computer register affected.
-(4) Any notice under this section may be withdrawn by the Minister, and, if it is withdrawn, a notice to that effect must be lodged with the Registrar-General of Land, who must register it without fee against the computer register to the land.
+(3) The Minister must lodge a copy of the Gazette notice published under subsection (1) with the Registrar-General of Land, who must register it without fee against the record of title affected.
+(4) Any notice under this section may be withdrawn by the Minister, and, if it is withdrawn, a notice to that effect must be lodged with the Registrar-General of Land, who must register it without fee against the record of title to the land.
 (5) To avoid doubt, there is no right of objection to a notice of intention to take land.
 (6) A notice of intention to take land under this section ceases to have effect 3 years after the date of the publication of that notice in the Gazette unless, on or before the expiration of that period,—
   (a) a Proclamation taking the land has been published in the Gazette; or
@@ -953,10 +953,10 @@ The Minister may exercise the power under sections 103 to 106 only if, in additi
   (b) the insurer of any building or other property on the land.
 
 ### 105 Proclamation to be registered
-(1) The Minister must lodge every Proclamation with the Registrar-General of Land, who must register it without fee against the computer register to the land.
-(2) If the land is not subject to the Land Transfer Act 1952, the Registrar-General of Land must enter the Proclamation in the index book of the Deeds Register Office and upon such registration the land becomes subject to the Land Transfer Act 1952.
+(1) The Minister must lodge every Proclamation with the Registrar-General of Land, who must register it without fee against the record of title to the land.
+(2) If the land is not subject to the Land Transfer Act 2017, the Registrar-General of Land must enter the Proclamation in the index book of the Deeds Register Office and upon such registration the land becomes subject to the Land Transfer Act 2017.
 (3) An error in any Proclamation does not of itself prevent registration in respect of titles to land validly affected.
-(4) If land is not subject to the Land Transfer Act 1952 and dealings with it are not registrable under the Deeds Registration Act 1908, the Proclamation must be lodged with the Surveyor-General to be recorded in the cadastre.
+(4) If land is not subject to the Land Transfer Act 2017 and dealings with it are not registrable under the Deeds Registration Act 1908, the Proclamation must be lodged with the Surveyor-General to be recorded in the cadastre.
 (5) To avoid doubt, the registration of a Proclamation does not result in the cancellation of the title affected.
 
 ### 106 Vacant possession
