@@ -1,5 +1,5 @@
 # Ngāti Pūkenga Claims Settlement Act 2017
-_Consolidation as at 2017-08-14_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Ngāti Pūkenga Claims Settlement Act 2017.
@@ -181,11 +181,8 @@ It is the intention of Parliament that the provisions of this Act are interprete
     (b) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday:
     (c) a day in the period commencing with 25 December in any year and ending with the close of 15 January in the following year:
     (d) the days observed as the anniversaries of the provinces of Auckland and Wellington.
-(2) In this Act, unless the context otherwise requires, until the Land Transfer Act 1952 is repealed by the Land Transfer Act 2017,—
-  (a) a reference to the Land Transfer Act 2017 is a reference to the Land Transfer Act 1952:
-  (b) a reference to a record of title is a reference to a computer register or, as appropriate, to a computer freehold register, computer interest register, or certificate of title:
-  (c) a reference to a provision of the Land Transfer Act 2017 is a reference to the provision of the Land Transfer Act 1952 that is replaced by, or corresponds to, that provision of the Land Transfer Act 2017.
-(3) This subsection and subsection (2) are repealed on the date on which the Land Transfer Act 1952 is repealed.
+(2)
+(3)
 
 ### 12 Meaning of Ngāti Pūkenga
 (1) In this Act, Ngāti Pūkenga—
