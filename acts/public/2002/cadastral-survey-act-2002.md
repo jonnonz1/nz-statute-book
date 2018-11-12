@@ -1,5 +1,5 @@
 # Cadastral Survey Act 2002
-_Consolidation as at 2016-08-30_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Cadastral Survey Act 2002.
@@ -415,7 +415,7 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
 (1) A cadastral survey must be conducted by a cadastral surveyor or a person acting under the direction of a cadastral surveyor.
 (2) In conducting a cadastral survey, a cadastral surveyor or a person acting under his or her direction must comply with this Part and any regulations, standards, and rules made under it.
 (3) A cadastral surveyor is responsible for a cadastral survey conducted by a person acting under his or her direction.
-(4) Subsection (2) applies subject to subsection (5) and section 167 of the Land Transfer Act 1952.
+(4) Subsection (2) applies subject to subsection (5) and section 224 of the Land Transfer Act 2017.
 (5) If the Surveyor-General considers in a particular case that compliance with the requirements of any standards or rules under this Part is impractical or unreasonable, the Surveyor-General may—
   (a) grant an exemption from the requirements; or
   (b) specify alternative requirements.
@@ -466,10 +466,10 @@ Complaints, investigations, hearings, proceedings, and other matters begun but n
 Section 50 expires at the end of 12 months after the commencement of this Act.
 
 ### 52 Correction of errors in survey
-(1) If an error is found in a cadastral survey dataset affecting any title under the Land Transfer Act 1952 or any title or tenure under any other Act, the Surveyor-General may, in writing, require the cadastral surveyor responsible for the error to undertake, or arrange to be undertaken, the work necessary to correct the error within a time that the Surveyor-General considers reasonable.
+(1) If an error is found in a cadastral survey dataset affecting any title under the Land Transfer Act 2017 or any title or tenure under any other Act, the Surveyor-General may, in writing, require the cadastral surveyor responsible for the error to undertake, or arrange to be undertaken, the work necessary to correct the error within a time that the Surveyor-General considers reasonable.
 (2) Subsection (1) does not limit—
   (a) the powers granted in sections 7 and 46 of the Crown Grants Act 1908:
-  (b) the powers of the Registrar under sections 80 and 81 of the Land Transfer Act 1952, or the provisions of section 170 of that Act:
+  (b) the powers of the Registrar under section 21 of the Land Transfer Act 2017, or the provisions of section 226 of that Act:
   (c) the powers of any court under any enactment.
 (3) In subsection (1), cadastral surveyor includes a former licensed cadastral surveyor and a person who was a registered surveyor under the Survey Act 1986.
 
@@ -607,8 +607,8 @@ A certificate given by or on behalf of the Board to the effect that a person was
 (3) This subsection applies to the following references:
   (a) a reference to a survey plan:
   (b) a reference to a plan approved by a chief surveyor or the Surveyor-General:
-  (c) a reference to a plan deposited under the Land Transfer Act 1952:
-  (d) a reference to a plan to be noted, notified, registered, or recorded in the register under the Land Transfer Act 1952.
+  (c) a reference to a plan deposited under the Land Transfer Act 2017 or any enactment it replaced:
+  (d) a reference to a plan to be noted, notified, registered, or recorded in the register under the Land Transfer Act 2017 or any enactment it replaced.
 
 ## Schedule 1 — Further provisions applying to Board
 
