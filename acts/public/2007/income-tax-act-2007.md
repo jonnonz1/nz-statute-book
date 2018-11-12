@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2018-11-12_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -320,14 +320,14 @@ An amount that a person derives from disposing of personal property is income of
 Disposal within 5 years
 (1) An amount that a person derives from disposing of residential land is income of the person, if the bright-line date for the residential land is within 5 years of—
   (a) the date on which the instrument to transfer the land to the person was registered—
-    (i) under the Land Transfer Act 1952; or
-    (ii) under foreign laws of a similar nature to the Land Transfer Act 1952, if the land is outside New Zealand; or
+    (i) under the Land Transfer Act 2017; or
+    (ii) under foreign laws of a similar nature to the Land Transfer Act 2017, if the land is outside New Zealand; or
   (b) their date of acquisition of the land, if an instrument to transfer the land to the person is not registered on or before the bright-line date.
 Subdivision
 (2) Despite subsection (1), an amount that a person derives from disposing of residential land that results from the person subdividing other land (the undivided land) is income of the person if the bright-line date for the residential land is within 5 years of—
   (a) the date on which the instrument to transfer the undivided land to the person was registered—
-    (i) under the Land Transfer Act 1952; or
-    (ii) under foreign laws of a similar nature to the Land Transfer Act 1952, if the land is outside New Zealand; or
+    (i) under the Land Transfer Act 2017; or
+    (ii) under foreign laws of a similar nature to the Land Transfer Act 2017, if the land is outside New Zealand; or
   (b) their date of acquisition of the undivided land, if the land is not registered as described in paragraph (a) at the bright-line date.
 Leases with perpetual right of renewal
 (3) Despite subsection (1), an amount that a person derives from disposing of a freehold estate in residential land, acquired as the owner of a leasehold estate with a perpetual right of renewal, is income if the bright-line date for the freehold estate is within 5 years of the grant of the leasehold estate.
@@ -646,7 +646,7 @@ When this section applies
 Exclusions
 (2) This section does not apply when the standing timber is of 1 of the following kinds:
   (a) trees that are ornamental or incidental, as evidenced by a certificate given under section 44C of the Tax Administration Act 1994; or
-  (b) trees in a crop subject to a forestry right, as defined in section 2 of the Forestry Rights Registration Act 1983, registered under the Land Transfer Act 1952; or
+  (b) trees in a crop subject to a forestry right, as defined in section 2 of the Forestry Rights Registration Act 1983, registered under the Land Transfer Act 2017; or
   (c) trees subject to a right to take a benefit (in the form of a profit a prendre) granted before 1 January 1984.
 Income
 (3) The amount that the person derives from disposing of the standing timber is income of the person.
@@ -7749,8 +7749,8 @@ Asset value for land, including improvements to land
     (i) its most recent capital value or annual value as set by the relevant local authority; or
     (ii) its cost on acquisition or, if the transaction involves an associated person, its market value:
   (b) if the land or improvement to land is a leasehold estate in land, the market value of the leasehold estate which the person may establish by a valuation that is or has been made by a registered valuer no more than 3 years before the end of the income year:
-  (c) if different activities are carried out on the land on a single certificate of title within the meaning of the Land Transfer Act 1952, the value applying under paragraph (a) or (b), as applicable, adjusted as follows:
-    (i) by multiplying the value by the percentage that the area of land that is the portion of the land used in relation to the asset to which this subpart applies bears to the total land area described in the certificate of title:
+  (c) if different activities are carried out on the land on a single record of title within the meaning of the Land Transfer Act 2017, the value applying under paragraph (a) or (b), as applicable, adjusted as follows:
+    (i) by multiplying the value by the percentage that the area of land that is the portion of the land used in relation to the asset to which this subpart applies bears to the total land area described in the record of title:
     (ii) by a valuation that is or has been made by a registered valuer no more than 3 years before the end of the income year, of the portion of land used in relation to the asset to which this subpart applies.
 Meaning of debt value
 (9) For the purposes of this subpart, debt value—
@@ -7886,8 +7886,8 @@ Amount for land, including improvements to land
     (i) its most recent capital value or annual value as set by the relevant local authority; or
     (ii) its cost on acquisition or, if the transaction involves an associated person, its market value:
   (b) if the land or improvement to land is a leasehold estate in land, the market value of the leasehold estate which the person may establish by a valuation that is or has been made by a registered valuer no more than 3 years before the end of the income year:
-  (c) if different activities are carried out on the land on a single certificate of title within the meaning of the Land Transfer Act 1952, the value applying under paragraph (a) or (b), as applicable, adjusted as follows:
-    (i) by multiplying the value by the percentage that the area of land that is the portion of the land used in relation to the asset to which this subpart applies bears to the total land area described in the certificate of title:
+  (c) if different activities are carried out on the land on a single record of title within the meaning of the Land Transfer Act 2017, the value applying under paragraph (a) or (b), as applicable, adjusted as follows:
+    (i) by multiplying the value by the percentage that the area of land that is the portion of the land used in relation to the asset to which this subpart applies bears to the total land area described in the record of title:
     (ii) by a valuation that is or has been made by a registered valuer no more than 3 years before the end of the income year, of the portion of land used in relation to the asset to which this subpart applies.
 Quarantined amount
 (2) The amount of the person's excess expenditure for the income year is calculated using the formula—expenditure − asset income.
@@ -10554,7 +10554,7 @@ Disposals of timber
   (a) including the creation or grant of a right to take timber:
   (b) including a disposal of land with standing timber except to the extent to which the timber is any of the following:
     (i) trees that are ornamental or incidental, as evidenced by a certificate given under section 44C of the Tax Administration Act 1994; or
-    (ii) timber subject to a forestry right, as defined in section 2 of the Forestry Rights Registration Act 1983, registered under the Land Transfer Act 1952; or
+    (ii) timber subject to a forestry right, as defined in section 2 of the Forestry Rights Registration Act 1983, registered under the Land Transfer Act 2017; or
     (iii) timber subject to a profit a prendre granted before 1 January 1984.
 Transfers under settlement of relationship property
 (5) A disposal under this section includes a transfer under a settlement of relationship property.
@@ -41123,7 +41123,7 @@ In this Act, unless the context requires otherwise,—
   - **estate** in relation to land, in relation to land, , , , and similar terms—
     (a) mean an estate or interest in the land, whether legal or equitable, and whether vested or contingent, in possession, reversion, or remainder; and
     (b) include a right, whether direct or through a trustee or otherwise, to—
-      (i) the possession of the land (for example: a licence to occupy, as that term is defined in section 121A(1) of the Land Transfer Act 1952):
+      (i) the possession of the land (for example: a licence to occupy, as that term is defined in section 122 of the Land Transfer Act 2017):
       (ii) the receipt of the rents or profits from the land:
       (iii) the proceeds of the disposal of the land; and
     (c) do not include a mortgage
