@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2017-12-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -420,7 +420,7 @@ In this Act, building does not include—
     (i) approved by way of a subdivision consent granted under the Resource Management Act 1991; or
     (ii) allowed or granted under any other Act; and
   (c) that is—
-    (i) subject to the Land Transfer Act 1952 and comprised in 1 certificate of title or for which 1 certificate of title could be issued under that Act; or
+    (i) subject to the Land Transfer Act 2017 and comprised in 1 record of title or for which 1 record of title could be issued under that Act; or
     (ii) not subject to that Act and was acquired by its owner under 1 instrument of conveyance.
 (2) For the purposes of subsection (1), an allotment is taken—
   (a) to be a continuous area of land even if part of it is physically separated from any other part by a road or in any other manner, unless the division of the allotment into those parts has been allowed by a subdivision consent granted under the Resource Management Act 1991 or a subdivision approval under any former enactment relating to the subdivision of land:
@@ -1242,21 +1242,21 @@ Despite section 71, a building consent authority that is a territorial authority
 ### 74 Steps after notification
 (1) On receiving a notification under section 73,—
   (a) the Surveyor-General or the Registrar of the Maori Land Court, as the case may be, must enter in his or her records the particulars of the notification together with a copy of any project information memorandum that accompanied the notification:
-  (b) the Registrar-General of Land must record, as an entry on the certificate of title to the land on which the building work is carried out,—
+  (b) the Registrar-General of Land must record, as an entry on the record of title to the land on which the building work is carried out,—
     (i) that a building consent has been granted under section 72; and
     (ii) particulars that identify the natural hazard concerned.
-(2) If an entry has been recorded on a duplicate of the certificate of title referred to in subsection (1)﻿(b) under section 641A of the Local Government Act 1974 or section 36 of the former Act, the Registrar-General of Land does not need to record another entry on the duplicate.
+(2) If an entry has been recorded on a duplicate of the record of title referred to in subsection (1)﻿(b) under section 641A of the Local Government Act 1974 or section 36 of the former Act, the Registrar-General of Land does not need to record another entry on the duplicate.
 (3) Subsection (4) applies if a building consent authority determines that any of the following entries is no longer required:
   (a) an entry referred to in subsection (1)﻿(b):
   (b) an entry under section 641A of the Local Government Act 1974:
   (c) an entry under section 36 of the former Act.
-(4) The building consent authority must notify the Surveyor-General, the Registrar of the Maori Land Court, or the Registrar-General of Land, as the case may be, who must amend his or her records or remove the entry from the certificate of title.
+(4) The building consent authority must notify the Surveyor-General, the Registrar of the Maori Land Court, or the Registrar-General of Land, as the case may be, who must amend his or her records or remove the entry from the record of title.
 
 **Limitations and restrictions on building consents: Construction of building on 2 or more allotments**
 
 ### 75 Construction of building on 2 or more allotments
 (1) This section applies if—
-  (a) an application for a project information memorandum or for a building consent relates to the construction of a building on land that is comprised, or partly comprised, of 2 or more allotments of 1 or more existing subdivisions (whether comprised in the same certificate of title or not); and
+  (a) an application for a project information memorandum or for a building consent relates to the construction of a building on land that is comprised, or partly comprised, of 2 or more allotments of 1 or more existing subdivisions (whether comprised in the same record of title or not); and
   (b) those allotments are held by the owner in fee simple.
 (2) The territorial authority must issue a certificate that states that, as a condition of the grant of a building consent for the building work to which the application relates, 1 or more of those allotments specified by the territorial authority (the specified allotments) must not be transferred or leased except in conjunction with any specified other or others of those allotments.
 
@@ -1275,33 +1275,33 @@ Despite section 71, a building consent authority that is a territorial authority
 (4) The territorial authority must lodge a copy of the certificate with the Registrar-General of Land.
 (5) The building consent authority must note, on the building consent, the condition imposed in the certificate.
 
-### 78 Registrar-General of Land must record entry on certificate of title when certificate is lodged under section 77
-(1) If a certificate referred to in section 77(1) is lodged with the Registrar-General of Land, he or she must record, as an entry on each certificate of title for the specified allotments, that the certificate of title is subject to the condition referred to in that certificate.
-(2) The Registrar-General of Land does not need to record the entry on the duplicate of the certificates of title.
+### 78 Registrar-General of Land must record entry on record of title when certificate is lodged under section 77
+(1) If a certificate referred to in section 77(1) is lodged with the Registrar-General of Land, he or she must record, as an entry on each record of title for the specified allotments, that the record of title is subject to the condition referred to in that certificate.
+(2)
 (3) Subsection (1) is subject to section 82.
 
-### 79 Effect of entry recorded on certificate of title
-If an entry referred to in section 78(1) is recorded on the certificates of title for the specified allotments, none of those allotments may be transferred or leased except in conjunction with the specified other or others of those allotments.
+### 79 Effect of entry recorded on record of title
+If an entry referred to in section 78(1) is recorded on the records of title for the specified allotments, none of those allotments may be transferred or leased except in conjunction with the specified other or others of those allotments.
 
-### 80 Certificates of title for 2 or more allotments subject to registered instrument
+### 80 Records of title for 2 or more allotments subject to registered instrument
 (1) This section applies if—
-  (a) an entry referred to in section 78(1) is made on 2 or more certificates of title; and
-  (b) any of the land less than the whole of the land comprised in all those certificates of title is, at the time the entry is recorded, independently subject to a registered instrument under which a power to sell, a right of renewal, or a right or obligation to purchase is lawfully conferred or imposed; and
+  (a) an entry referred to in section 78(1) is made on 2 or more records of title; and
+  (b) any of the land less than the whole of the land comprised in all those records of title is, at the time the entry is recorded, independently subject to a registered instrument under which a power to sell, a right of renewal, or a right or obligation to purchase is lawfully conferred or imposed; and
   (c) that power, right, or obligation referred to in paragraph (b) becomes exercisable but is not able to be exercised or fully exercised because of section 79.
-(2) The whole of the land comprised in all those certificates of title is taken to be subject to the registered instrument and all the powers, rights, and obligations under the instrument, as if the instrument had been registered against the land at the time the entry is recorded.
+(2) The whole of the land comprised in all those records of title is taken to be subject to the registered instrument and all the powers, rights, and obligations under the instrument, as if the instrument had been registered against the land at the time the entry is recorded.
 
-### 81 Mortgage, charge, or lien has priority over registered instrument
+### 81 Mortgage or charge has priority over registered instrument
 (1) This section applies if—
-  (a) the registered instrument referred to in section 80(2) is a mortgage, charge, or lien; and
-  (b) any of the land to which that mortgage, charge, or lien is extended is already subject to a registered mortgage, charge, or lien.
-(2) The registered mortgage, charge, or lien has priority over any mortgage, charge, or lien extended over land under section 80(2).
-(3) If a registered mortgage, charge, or lien is extended over the land comprised in a certificate of title by section 80, it has priority over any mortgage, charge, or lien against the land that is registered after the entry is recorded against the certificate of title to that land under that section.
+  (a) the registered instrument referred to in section 80(2) is a mortgage or charge; and
+  (b) any of the land to which that mortgage or charge is extended is already subject to a registered mortgage or charge.
+(2) The registered mortgage or charge has priority over any mortgage or charge extended over land under section 80(2).
+(3) If a registered mortgage or charge is extended over the land comprised in a record of title by section 80, it has priority over any mortgage or charge against the land that is registered after the entry is recorded against the record of title to that land under that section.
 
 ### 82 Registrar-General of Land may require preparation of plan
-(1) If a certificate referred to in section 77 is lodged with the Registrar-General of Land, but the Registrar-General is satisfied that it is not practicable or desirable to record the entry on the certificates of title specified in section 78, the Registrar-General may require that—
-  (a) a plan be deposited under the Land Transfer Act 1952; and
-  (b) 1 or more certificates of title under that Act be issued for the land in terms of the plan.
-(2) In subsection (1), plan means a plan prepared in accordance with section 167 of the Land Transfer Act 1952 that amalgamates all the allotments—
+(1) If a certificate referred to in section 77 is lodged with the Registrar-General of Land, but the Registrar-General is satisfied that it is not practicable or desirable to record the entry on the records of title specified in section 78, the Registrar-General may require that—
+  (a) a plan be deposited under the Land Transfer Act 2017; and
+  (b) 1 or more records of title under that Act be issued for the land in terms of the plan.
+(2) In subsection (1), plan means a plan prepared in accordance with section 224 of the Land Transfer Act 2017 that amalgamates all the allotments—
   (a) into 1 allotment; or
   (b) if the circumstances render it expedient or desirable, into 2 or more allotments.
 
@@ -1319,13 +1319,10 @@ If an entry referred to in section 78(1) is recorded on the certificates of titl
     (ii) signed by the owner; and
   (b) the certificate must be lodged with the Registrar-General of Land.
 (4) If a certificate referred to in subsection (3)﻿(b) is lodged with the Registrar-General of Land, he or she must record an appropriate entry on—
-  (a) the certificate of title for each allotment or part of the allotment; and
-  (b) any mortgage, charge, or lien whose application was extended to additional land under section 80.
-(5) If subsection (4)﻿(b) applies, any mortgage, charge, or lien whose application was extended to additional land under section 80 ceases to apply to that additional land.
-(6) The Registrar-General of Land does not need to record the entry on the duplicate certificate of title unless that duplicate has had an entry recorded on it under—
-  (a) section 78; or
-  (b) section 643 of the Local Government Act 1974; or
-  (c) the corresponding provisions of any previous enactment.
+  (a) the record of title for each allotment or part of the allotment; and
+  (b) any mortgage or charge whose application was extended to additional land under section 80.
+(5) If subsection (4)﻿(b) applies, any mortgage or charge whose application was extended to additional land under section 80 ceases to apply to that additional land.
+(6)
 (7) Subsections (2) and (3) apply, with any necessary modifications, to any request by an owner of land if the requirements of section 643(1) to (6) of the Local Government Act 1974 or any previous enactment or sections 75 to 81 were applied in error.
 
 ### Subpart 4 — Requirements for building work
@@ -1876,8 +1873,8 @@ A building is insanitary for the purposes of this Act if the building—
 (2) A copy of the notice must be given to—
   (a) the owner of the building; and
   (b) an occupier of the building; and
-  (c) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
-  (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
+  (c) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 2017; and
+  (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 138 of the Land Transfer Act 2017; and
   (e) every statutory authority that has exercised a statutory power to classify or register, for any purpose, the building or the land on which the building is situated; and
   (f) Heritage New Zealand Pouhere Taonga, if the building is a heritage building.
 (3) However, the notice, if fixed on the building, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
@@ -2155,8 +2152,8 @@ This subpart does not apply to—
     (ii) that the earthquake rating of the building or part has not been determined.
 (5) The territorial authority must give a copy of the notice to—
   (a) the owner of the building or the part of the building; and
-  (b) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
-  (c) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
+  (b) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 2017; and
+  (c) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 138 of the Land Transfer Act 2017; and
   (d) every statutory authority that has exercised a statutory power to classify or register, for any purpose, the building or the land on which the building is situated; and
   (e) Heritage New Zealand Pouhere Taonga, if the building is a heritage building.
 (6) However, the notice is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (5).
@@ -2632,8 +2629,8 @@ The owner of a dam who has reasonable grounds for believing that the dam is, or 
 (2) A copy of the notice must be given to—
   (a) the owner of the dam; and
   (b) an occupier of the dam; and
-  (c) every person who has an interest in the land on which the dam is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
-  (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
+  (c) every person who has an interest in the land on which the dam is situated under a mortgage or other encumbrance registered under the Land Transfer Act 2017; and
+  (d) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 138 of the Land Transfer Act 2017; and
   (e) every statutory authority that has exercised a statutory power to classify or register, for any purpose, the dam or the land on which the dam is situated; and
   (f) Heritage New Zealand Pouhere Taonga, if the dam is a heritage dam.
 (3) However, the notice, if fixed on the dam, is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (2).
@@ -5119,7 +5116,7 @@ Any civil proceedings against a building consent authority in respect of the per
 (2) Subsection (3) applies if—
   (a) a building consent has been issued under section 72; and
   (b) the building consent authority has given a notification under section 73; and
-  (c) the building consent authority has not given a notification under section 74(4) that it has determined that the entry made on the certificate of title of the land is no longer required; and
+  (c) the building consent authority has not given a notification under section 74(4) that it has determined that the entry made on the record of title of the land is no longer required; and
   (d) the building to which the building consent relates suffers damage arising directly or indirectly from a natural hazard.
 (3) The persons specified in subsection (4) are not liable in any civil proceedings brought by any person who has an interest in the building referred to in subsection (2) on the grounds that the building consent authority issued a building consent for the building in the knowledge that the building for which the consent was issued, or the land on which the building was situated, was, or was likely to be, subject to damage arising, directly or indirectly, from a natural hazard.
 (4) The persons are—
