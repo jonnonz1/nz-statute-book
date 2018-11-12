@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -49,11 +49,11 @@ In this Act, unless the context otherwise requires,—
 Except as provided in section 6, nothing in this Act shall affect any covenant, contract, or agreement made between landlord and tenant, or between any adjoining occupiers, or between any other persons, relating to work on a fence or to the question of whether or not any such work should be undertaken; but no such covenant, contract, or agreement shall create an interest in land.
 
 ### 5 Fencing covenants and agreements registrable
-(1) Fencing covenants and fencing agreements relating to land subject to the Land Transfer Act 1952 may be registered under that Act against the title to that land.
+(1) Fencing covenants and fencing agreements relating to land subject to the Land Transfer Act 2017 may be registered under that Act against the title to that land.
 (2) Subject to section 6, the burden of any fencing covenant or fencing agreement that is registered against the title to the land to which it relates shall run with the land, whether or not assigns are named in the covenant or agreement.
 
 ### 6 Registration of fencing covenants to expire after 12 years
-(1) Where a fencing covenant is registered under the Land Transfer Act 1952 after the commencement of this Act, or where a covenant, agreement, or proviso (being a fencing covenant within the meaning of this Act) was registered under the Land Transfer Act 1952 before the commencement of this Act by virtue of section 7 of the Fencing Act 1908, the registration of the covenant, agreement, or proviso shall expire after the expiration of 12 years from the date of the registration or the date of the commencement of this Act, whichever is the later.
+(1) Where a fencing covenant is registered under the Land Transfer Act 2017 after the commencement of this Act, or where a covenant, agreement, or proviso (being a fencing covenant within the meaning of this Act) was registered under the Land Transfer Act 1952 before the commencement of this Act by virtue of section 7 of the Fencing Act 1908, the registration of the covenant, agreement, or proviso shall expire after the expiration of 12 years from the date of the registration or the date of the commencement of this Act, whichever is the later.
 (2) Nothing in subsection (1) applies in respect of a fencing covenant that protects a local authority from liability to contribute towards any work on a fence between a public reserve vested in or administered by that local authority and any adjoining land.
 
 ### 7 Creation of fencing covenants
