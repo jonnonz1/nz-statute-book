@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -579,8 +579,8 @@ An application for a profit forfeiture order must—
 (3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 60 Civil forfeiture order relating to land
-(1) Nothing in section 50 or 55 affects the operation of section 99 of the Land Transfer Act 1952 in relation to a civil forfeiture order made in respect of an estate or interest in land under that Act.
-(2) If the High Court makes a civil forfeiture order in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the Land Transfer Act 1952 or the Deeds Registration Act 1908, as the case may require.
+(1) Nothing in section 50 or 55 affects the operation of section 89 of the Land Transfer Act 2017 in relation to a civil forfeiture order made in respect of an estate or interest in land under that Act.
+(2) If the High Court makes a civil forfeiture order in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the Land Transfer Act 2017 or the Deeds Registration Act 1908, as the case may require.
 
 **Relief from civil forfeiture order for persons other than respondent**
 
@@ -655,8 +655,8 @@ A High Court that grants relief from a civil forfeiture order under section 66 o
 (3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 72 Instrument forfeiture order relating to land
-(1) Nothing in section 70 affects the operation of section 99 of the Land Transfer Act 1952 in relation to an instrument forfeiture order made in respect of an estate or interest under that Act.
-(2) If a court makes an instrument forfeiture order in respect of an estate or interest in land, the order must be transmitted by the registrar of the court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the Land Transfer Act 1952 or the Deeds Registration Act 1908, as the case may require.
+(1) Nothing in section 70 affects the operation of section 89 of the Land Transfer Act 2017 in relation to an instrument forfeiture order made in respect of an estate or interest under that Act.
+(2) If a court makes an instrument forfeiture order in respect of an estate or interest in land, the order must be transmitted by the registrar of the court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the Land Transfer Act 2017 or the Deeds Registration Act 1908, as the case may require.
 
 **Disposal of forfeited property under instrument forfeiture order in certain circumstances**
 
@@ -1313,8 +1313,8 @@ The effect of registering a foreign forfeiture order in New Zealand under sectio
 (3) Part 4 of the Search and Surveillance Act 2012 (except subpart 6), so far as applicable and with all necessary modifications, applies in relation to a warrant issued under subsection (2) as if it were a warrant issued under section 101 to a member of the police.
 
 ### 147 Registering foreign forfeiture order relating to land
-(1) Nothing in section 144 affects the operation of section 99 of the Land Transfer Act 1952 in respect of an estate or interest in land under that Act.
-(2) If the High Court registers a foreign forfeiture order in New Zealand in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the Land Transfer Act 1952 or the Deeds Registration Act 1908, as the case may require.
+(1) Nothing in section 144 affects the operation of section 89 of the Land Transfer Act 2017 in respect of an estate or interest in land under that Act.
+(2) If the High Court registers a foreign forfeiture order in New Zealand in respect of an estate or interest in land, the order must be transmitted by the Registrar of the Court to the Registrar-General of Land or the Registrar of Deeds, as the case may be, for the purposes of registration under the Land Transfer Act 2017 or the Deeds Registration Act 1908, as the case may require.
 
 **Relief from foreign forfeiture order registered in New Zealand**
 
