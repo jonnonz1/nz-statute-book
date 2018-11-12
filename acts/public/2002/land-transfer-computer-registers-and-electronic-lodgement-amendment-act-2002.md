@@ -1,5 +1,5 @@
 # Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
-_Consolidation as at 2015-10-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 (1) This Act is the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
