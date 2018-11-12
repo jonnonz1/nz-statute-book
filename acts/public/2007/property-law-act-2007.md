@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -43,7 +43,6 @@ In this Act, unless the context otherwise requires,—
     (b) a person who can prove a debt under the Insolvency Act 2006
   - **current mortgagor** , in relation to mortgaged property, means a mortgagor who is currently the owner of the property
   - **debenture** , except in the term mortgage debenture, means a secured or unsecured debenture
-  - **deed** , in relation to land under the Land Transfer Act 1952, includes an instrument having the effect of a deed under that Act
   - **default** means—
     (a) a failure—
       (i) to pay on the due date any amounts secured by an instrument; or
@@ -68,15 +67,15 @@ In this Act, unless the context otherwise requires,—
   - **instrument** —
     (a) means any use of words, figures, or symbols (for example, an agreement, contract, deed, grant, or memorandum, or some other document that is certified, executed, or otherwise approved by or on behalf of a party or parties, or a judgment, order, or process of a court) that—
       (i) creates, evidences, modifies, or extinguishes legal or equitable rights, interests, or liabilities (without being lodged, filed, or registered under an enactment, or after being so lodged, filed, or registered, or both); and
-      (ii) is in a visible and tangible form and medium (for example, in handwriting, print, or both), or is in an electronic form in accordance with Part 4 of the Contract and Commercial Law Act 2017 or the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002; and
-    (b) includes any instrument as defined in section 2 of the Land Transfer Act 1952; and
+      (ii) is in a visible and tangible form and medium (for example, in handwriting, print, or both), or is in an electronic form in accordance with Part 4 of the Contract and Commercial Law Act 2017 or the Land Transfer Act 2017; and
+    (b)
     (c) includes any covenant expressed or implied (under this or any other enactment) in, and any variation of, any instrument as defined in paragraph (a) or (b); but
     (d) does not include an enactment (though it may be in a form prescribed by one, or have covenants or terms implied in it under one, or both)
   - **inventory** has the same meaning as in the Personal Property Securities Act 1999
   - **joint tenants** , in Part 4, includes tenants in common
   - **land** includes all estates and interests, whether freehold or chattel, in real property
-  - **land not under the Land Transfer Act 1952** means land other than land referred to in section 10 of that Act
-  - **land under the Land Transfer Act 1952** means all land referred to in section 10 of that Act
+  - **land not under the Land Transfer Act 2017** means land other than land referred to in section 4 of that Act
+  - **land under the Land Transfer Act 2017** means all land referred to in section 4 of that Act
   - **lease** means a lease of property, whether registered or unregistered, and includes a short-term lease and an agreement to lease
   - **lessee** means a person who enters into a lease as lessee, and includes a person who has accepted a transfer or assignment of a lease
   - **lessor** —
@@ -115,7 +114,7 @@ In this Act, unless the context otherwise requires,—
   - **owner** ,—
     (a) in subparts 4 and 5 of Part 5 and in Part 6, in relation to land, means—
       (i) the holder of an estate in fee simple or a life interest in the land; or
-      (ii) the holder of a licence to occupy the land within the meaning of section 121A of the Land Transfer Act 1952; or
+      (ii) the holder of a licence to occupy the land within the meaning of section 122 of the Land Transfer Act 2017; or
       (iii) the holder of a deferred payment licence under section 65 of the Land Act 1948; and
     (b) in relation to a public reserve, includes the local authority, trustees, or persons having control of the reserve
   - **periodical payment** —
@@ -123,8 +122,10 @@ In this Act, unless the context otherwise requires,—
       (i) is payable by a person to another person (whether or not in respect of a fixed or ascertainable period); and
       (ii) is in the nature of income (and not in the nature of an instalment of a purchase price, repayment of capital, or capital gain) in the hands of the recipient; but
     (b) does not include an annual sum payable to a person entitled to it under a policy of assurance of any description
-  - **person bound** means, in relation to an easement, a positive covenant, or a restrictive covenant burdening land, an owner or occupier of the land against whom the easement or covenant is enforceable
-  - **person entitled** means, in relation to an easement, a positive covenant, or a restrictive covenant benefiting land, an owner or occupier of the land who is entitled to enforce the easement or covenant
+  - **person bound** means, in relation to an easement, a positive covenant, a restrictive covenant, or a covenant in gross (as defined by section 307A) burdening land, an owner or occupier of the land against whom the easement or covenant is enforceable
+  - **person entitled** means,—
+    (a) in relation to an easement, a positive covenant, or a restrictive covenant benefiting land, an owner or occupier of the land who is entitled to enforce the easement or covenant:
+    (b) in relation to a covenant in gross (as defined by section 307A), a person who benefits from and is entitled to enforce the covenant
   - **person entitled to redeem** , in relation to mortgaged property,—
     (a) means a person with an interest in the mortgaged property and entitled to redeem it; and
     (b) includes the current mortgagor, any former mortgagor, and any covenantor
@@ -133,7 +134,7 @@ In this Act, unless the context otherwise requires,—
     (a) means everything that is capable of being owned, whether it is real or personal property, and whether it is tangible or intangible property; and
     (b) includes any estate or interest in property; and
     (c) in subpart 6 of Part 6, has the extended meaning given to that term in section 345(2)
-  - **proprietor** , in sections 298 and 315 and in relation to an access lot, means a registered proprietor of—
+  - **proprietor** , in sections 298 and 315 and in relation to an access lot, means a registered owner of—
     (a) 1 or more undivided shares in the access lot; and
     (b) 1 or more of the allotments served by the access lot
   - **Public Trust** has the same meaning as in the Public Trust Act 2001
@@ -145,10 +146,8 @@ In this Act, unless the context otherwise requires,—
     (b) does not include a mortgagee in possession or the agent of a mortgagee in possession
   - **redeem** , in relation to mortgaged property, includes the right to have the property discharged from a mortgage over the property
   - **registered** ,—
-    (a) in relation to an instrument concerning land under the Land Transfer Act 1952,—
-      (i) means registered under that Act; and
-      (ii) includes registered under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002:
-    (b) in relation to an instrument concerning land that is not under the Land Transfer Act 1952, means registered under the Deeds Registration Act 1908:
+    (a) in relation to an instrument concerning land under the Land Transfer Act 2017, means land registered under that Act:
+    (b) in relation to an instrument concerning land that is not under the Land Transfer Act 2017, means registered under the Deeds Registration Act 1908:
     (c) in relation to an instrument concerning a ship, means—
       (i) registered in the New Zealand Register of Ships established under the Ship Registration Act 1992; or
       (ii) recorded in a financing statement registered in the personal property securities register kept under the Personal Property Securities Act 1999; or
@@ -184,7 +183,7 @@ In this Act, unless the context otherwise requires,—
   - **vehicular right of way** means an easement—
     (a) entitling the owner or occupier of the land benefited by the easement to pass with vehicles over the land burdened by the easement; and
     (b) created by—
-      (i) an instrument registered under the Land Transfer Act 1952; or
+      (i) an instrument registered under the Land Transfer Act 2017; or
       (ii) a contract or arrangement that is otherwise enforceable at law or in equity against the person bound
   - **vendor mortgagee** means a mortgagee who applies to the Registrar under section 188 to conduct the sale of mortgaged land
   - **working day** means a day of the week other than—
@@ -195,7 +194,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 5 Meaning of certain references
 (1) For the purposes of this Act, a person who acquires, claims, or derives title to property through another person includes a person—
-  (a) to whom an estate or interest in land passes under section 41 of the Land Transfer Act 1952; and
+  (a) to whom an estate or interest in land passes under section 24 of the Land Transfer Act 2017; and
   (b) who succeeds to the estate or interest in the land previously held by the other person, either directly or after the estate or interest has passed to 1 or more intermediate successors.
 (2) For the purposes of this Act, a will comes into operation on the death of the person who made the will.
 (3) For the purposes of this Act, an obligation that is not made in writing comes into operation at the time at which the obligation is entered into.
@@ -217,9 +216,7 @@ This Act binds the Crown.
     (ii) coming into operation before, on, or after 1 January 2008.
 (3) This Act does not apply to Māori customary land within the meaning of Te Ture Whenua Maori Act 1993.
 (4) If a provision of this Act is inconsistent with a provision in another enactment, the provision in the other enactment prevails.
-(5) Without limiting subsection (4), this Act applies subject to—
-  (a) the Land Transfer Act 1952; and
-  (b) the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
+(5) Without limiting subsection (4), this Act applies subject to the Land Transfer Act 2017.
 (6) This section applies subject to any other provision of this Act or of another enactment providing otherwise.
 
 ### 8A Act subject to application of Cape Town Convention and Aircraft Protocol
@@ -510,13 +507,13 @@ A term has no effect if it—
   (a) the vendor has paid all rent due under the lease and has performed and observed all covenants and conditions of the lease; and
   (b) if the sale is of an interest under a sublease, all rent due under every superior lease has been paid and all covenants and conditions of every superior lease have been performed and observed.
 
-### 41 Vendor must ensure register not limited as to title (whether or not register is also limited as to parcels)
-(1) This section applies to an agreement for the sale and purchase of land comprised in a register that—
+### 41 Vendor must ensure record of title not limited or qualified as to title (whether or not also limited or qualified as to parcels)
+(1) This section applies to an agreement for the sale and purchase of land comprised in a register or record of title that—
   (a) was created before the making of the agreement; and
-  (b) is limited as to title under Part 12 of the Land Transfer Act 1952 (whether or not the register is also limited as to description of parcels under section 191 of that Act).
+  (b) is limited as to title under subpart 4 of Part 4 of the Land Transfer Act 2017 or is qualified as to title under section 17 of that Act, whether or not it is also limited as to parcels under subpart 4 of Part 4 of that Act or qualified as described in section 17(1)﻿(a) of that Act.
 (2) The vendor must, before the time of settlement, and unless the agreement provides otherwise,—
-  (a) do all acts (for example, prove all matters and comply with all requisitions by the Registrar-General) necessary to cause the register to cease to be limited as to title (whether or not the register remains limited as to description of parcels); and
-  (b) meet the expenses of complying with paragraph (a), including payment of any fee prescribed under the Land Transfer Act 1952.
+  (a) do all acts (for example, prove all matters and comply with all requisitions by the Registrar-General) necessary to cause the record of title for the land to cease to be limited or qualified as to title (whether or not it remains limited as to parcels or qualified as described in section 17(1)﻿(a) of the Land Transfer Act 2017); and
+  (b) meet the expenses of complying with paragraph (a), including payment of any fee prescribed under the Land Transfer Act 2017.
 
 **Miscellaneous provisions**
 
@@ -532,7 +529,7 @@ A term has no effect if it—
 ### 44 Certain instruments authorise payment to practitioner instead of party for whom practitioner acts
 (1) This subsection applies to an electronic instrument—
   (a) prepared for registration after payment of money or the giving of other consideration for a contract; and
-  (b) that contains a certification that complies with section 164A(3) of the Land Transfer Act 1952; but
+  (b) that contains a certification that complies with section 27 of the Land Transfer Act 2017; but
   (c) only if that certification is given by a practitioner acting for the party who, under that contract, is entitled to give a receipt for the payment of that money or the giving of that other consideration.
 (2) On the production, through an electronic workspace facility, of an electronic instrument to which subsection (1) applies, the person liable under the contract to pay or give the money or other consideration may, without further authority than the instrument, pay or give the money or other consideration to the practitioner who gave the certification.
 (3) This subsection applies to a paper instrument—
@@ -540,11 +537,10 @@ A term has no effect if it—
   (b) only if that instrument or receipt is signed by a person entitled to give a receipt for the payment of that money or the giving of that other consideration.
 (4) On the production by a practitioner of an instrument to which subsection (3) applies, the person liable to pay the money or give the other consideration referred to in the receipt may, without further authority than the instrument, pay or give to the practitioner that money or consideration.
 (5) In this section,—
-  - **electronic instrument** and have the same meanings as in section 4 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
-  - **paper instrument** has the same meaning as in section 2 of the Land Transfer Act 1952
-  - **practitioner** means—
-    (a) a practitioner as defined in section 6 of the Lawyers and Conveyancers Act 2006; or
-    (b) a landbroker licensed by the Registrar-General under section 229 of the Land Transfer Act 1952.
+  - **electronic instrument** means an electronic instrument (as defined by section 5(1) of the Land Transfer Act 2017) that relates to the transfer of, or other dealing with, land or that evidences title to land
+  - **electronic workspace facility** has the meaning given to it in section 5(1) of the Land Transfer Act 2017
+  - **paper instrument** means a paper instrument (as defined by section 5(1) of the Land Transfer Act 2017) that relates to the transfer of, or other dealing with, land or that evidences title to land
+  - **practitioner** means a practitioner as defined in section 6 of the Lawyers and Conveyancers Act 2006.
 
 ### Subpart 4 — Apportionment of periodical payments between vendors and purchasers
 
@@ -687,7 +683,7 @@ A co-surety, co-contractor, or co-debtor is not entitled to recover from any oth
 ### Subpart 7 — Abolition and modification of common law rules relating to property
 
 ### 57 Feudal incidents of estate in fee simple abolished
-(1) A Crown grant of land, or a certificate of title or computer register having the force and effect of a Crown grant of land, whether issued before, on, or after 1 January 2008, for an estate in fee simple confers on the person named in the Crown grant or the certificate of title or computer register a right of freehold tenure (free and common socage) without any incident of tenure for the benefit of the Crown.
+(1) A Crown grant of land, or a record of title having the force and effect of a Crown grant of land, whether issued before, on, or after 1 January 2008, for an estate in fee simple confers on the person named in the Crown grant or the record of title a right of freehold tenure (free and common socage) without any incident of tenure for the benefit of the Crown.
 (2) An estate in fee simple is transferable, and has always been transferable, without the permission of the Crown or the need to make any payment to the Crown.
 (3) An instrument purporting to create, transfer, or assign an estate in fee simple in any land subject to the reservation to the person executing the instrument of an estate in fee simple (subinfeudation) continues to create, transfer, or assign an estate in fee simple without any such reservation.
 
@@ -709,7 +705,7 @@ A co-surety, co-contractor, or co-debtor is not entitled to recover from any oth
 ### 60 Doctrine of interesse termini abolished
 (1) The legal doctrine of interesse termini is abolished.
 (2) A lessee acquires an estate in the land at the time fixed for the commencement of the lease, whether or not the lessee enters into possession of the land at that time.
-(3) Subsection (2) applies subject to section 41 of the Land Transfer Act 1952.
+(3) Subsection (2) applies subject to sections 24 and 36 of the Land Transfer Act 2017.
 (4) Subsection (3) does not limit section 8.
 
 ### 61 Life estate in leasehold estate
@@ -881,7 +877,7 @@ A mortgage over land is not created by the deposit of the instruments of title r
   (a) is endorsed on, or attached to, the mortgage instrument, or the existence of which is recorded on or with the mortgage instrument; and
   (b) is executed by the mortgagee in the same manner as a deed is required to be executed; and
   (c) states that the mortgagee discharges the property from the mortgage wholly or in part, or words to that effect.
-(2) A mortgage over land under the Land Transfer Act 1952 may also be wholly or partially discharged by a mortgage discharge instrument that is registered under that Act.
+(2) A mortgage over land under the Land Transfer Act 2017 may also be wholly or partially discharged by a mortgage discharge instrument that is registered under that Act.
 (3) A mortgage discharge instrument that is duly executed under subsection (1) or registered under subsection (2)—
   (a) operates as if it were a deed; and
   (b) transfers or releases to the current mortgagor the interest of the mortgagee in the mortgaged property to the extent specified in the instrument.
@@ -891,7 +887,7 @@ A mortgage over land is not created by the deposit of the instruments of title r
   (a) is endorsed on, or attached to, the mortgage instrument, or the existence of which is recorded on or with the mortgage instrument; and
   (b) is executed by the mortgagee in the same manner as a deed is required to be executed; and
   (c) states that the mortgagee assigns to the assignee all the amounts and all the benefits of any other obligations secured by the mortgage, and all rights, powers, and remedies of the mortgagee under the mortgage, and the whole of the mortgagee’s interest in the mortgaged property, or words to that effect.
-(2) The interest of a mortgagee under a mortgage over land under the Land Transfer Act 1952 may also be assigned by a transfer instrument that is registered under that Act.
+(2) The interest of a mortgagee under a mortgage over land under the Land Transfer Act 2017 may also be assigned by a transfer instrument that is registered under that Act.
 (3) An instrument that is duly executed under subsection (1) or registered under subsection (2) operates as if it were a deed and transfers to the assignee—
   (a) the debt; and
   (b) the benefits of any other obligations secured by the mortgage; and
@@ -922,7 +918,7 @@ A mortgage over land is not created by the deposit of the instruments of title r
 (5) For the purposes of subsections (1) to (4), a mortgage variation instrument must—
   (a) be endorsed on, or attached to, the mortgage instrument, or have its existence recorded on or with the mortgage instrument; and
   (b) be executed in the same manner as a deed is required to be executed.
-(6) A mortgage over land under the Land Transfer Act 1952 may also be varied by a mortgage variation instrument that is registered under that Act.
+(6) A mortgage over land under the Land Transfer Act 2017 may also be varied by a mortgage variation instrument that is registered under that Act.
 
 ### 86 Effect of mortgage variation instrument
 A mortgage variation instrument that is duly executed under section 85(1) to (5) or registered under section 85(6)—
@@ -999,7 +995,7 @@ In sections 91 and 92—
 ### 95 Covenants implied in mortgages over land
 (1) Every mortgage over land contains the implied covenants, conditions, and powers set out in Part 1 of Schedule 2 to the extent that they are relevant in the circumstances.
 (2) Subsection (1) applies unless a contrary intention is expressed (whether in the mortgage or otherwise) in accordance with section 279(2).
-(3) Every registered mortgage over land under the Land Transfer Act 1952 that comes into operation before 1 January 2008 contains an implied power of the mortgagee, upon the mortgagor’s default, to enter into possession of the mortgaged land.
+(3) Every registered mortgage over land under the Land Transfer Act 2017 that comes into operation before 1 January 2008 contains an implied power of the mortgagee, upon the mortgagor’s default, to enter into possession of the mortgaged land.
 (4) The power under subsection (3) may be exercised only—
   (a) after the expiry of the period specified in the notice required by section 119 or with the leave of a court granted under section 126; and
   (b) in accordance with subpart 6.
@@ -1082,7 +1078,7 @@ A term has no effect if it—
   (c) on the mortgagee under any other mortgage, and the holder of any other encumbrance, over the mortgaged property (whether or not it has priority over the mortgage in question) if that mortgage or other encumbrance—
     (i) is registered; or
     (ii) is unregistered, but the person applying to the court under this section has actual notice of it; and
-  (d) in the case of mortgaged land, on any person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it; and
+  (d) in the case of mortgaged land, on any person who has lodged a caveat under section 138 of the Land Transfer Act 2017, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it; and
   (e) on every person, except the applicant, who would have been entitled to apply to the court under subsection (1).
 
 ### 108 Court may make order directing sale of mortgaged property
@@ -1115,7 +1111,7 @@ A court may, in a circumstance referred to in section 109(1), make—
 
 ### 111 Certificates and orders operate as discharge of mortgage
 (1) A certificate by the Registrar that the amount ordered to be paid into court under section 110 was so paid, or a sealed copy of an order of a court declaring that all amounts secured by the mortgage have been paid in full, has effect as if it were a duly executed mortgage discharge instrument under section 83.
-(2) If the mortgage referred to in subsection (1) is over land and is registered under the Land Transfer Act 1952,—
+(2) If the mortgage referred to in subsection (1) is over land and is registered under the Land Transfer Act 2017,—
   (a) the Registrar-General must, on the registration of the certificate or order referred to in subsection (1), make an entry in the register relating to the certificate or order; and
   (b) when an entry is made in the register under paragraph (a), the mortgage is discharged.
 (3) If the mortgage referred to in subsection (1) is over a ship and is registered under the Ship Registration Act 1992,—
@@ -1215,7 +1211,7 @@ Any rule of law entitling a mortgagee to foreclose the equity of redemption in m
   (c) any mortgagee under a subsequent mortgage, and any holder of any other subsequent encumbrance, over the mortgaged land if—
     (i) the subsequent mortgage or other subsequent encumbrance is registered; or
     (ii) the subsequent mortgage or other subsequent encumbrance is unregistered, but either the mortgagee or receiver has actual notice of it; and
-  (d) any person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
+  (d) any person who has lodged a caveat under section 138 of the Land Transfer Act 2017, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
 (2) A failure to comply with this section does not prevent—
   (a) any amounts secured by the mortgage from becoming payable; or
   (b) the exercise of the mortgagee’s power to enter into possession of the mortgaged land; or
@@ -1424,7 +1420,7 @@ A term has no effect if it—
 
 ### 146 Registrar-General or other person need not inquire whether occasion has arisen authorising mortgagee to enter into lease
 (1) The Registrar-General or any other person need not inquire whether or not an occasion has arisen authorising a mortgagee to enter into a lease of land in accordance with sections 142 to 145.
-(2) No action lies under section 172 of the Land Transfer Act 1952 for any loss, damage, or deprivation caused by the improper exercise by a mortgagee of a power conferred by sections 142 to 145.
+(2) No action lies under section 58 or 59 of the Land Transfer Act 2017 for any loss, damage, or deprivation caused by the improper exercise by a mortgagee of a power conferred by sections 142 to 145.
 
 ### 147 Mortgagee in possession of land may exercise powers under lease
 (1) A mortgagee in possession of mortgaged land that is subject to a lease may do the following as though the mortgagee were for the time being entitled to the reversion of the land:
@@ -1546,7 +1542,7 @@ A mortgagee in possession of mortgaged land is liable in damages to the followin
     (i) every former mortgagor:
     (ii) every covenantor:
     (iii) every mortgagee under a subsequent mortgage, and every holder of any other subsequent encumbrance, over the mortgaged land or goods:
-    (iv) every person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it; and
+    (iv) every person who has lodged a caveat under section 138 of the Land Transfer Act 2017, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it; and
   (c) must, if the current mortgagor is a body corporate registered under an enactment, send a copy of the public notice to the Registrar within 5 working days after the date of entry into possession.
 (2) A notice given under subsection (1) must include—
   (a) the mortgagee’s full name:
@@ -1628,7 +1624,7 @@ The Registrar may, on the application of a mortgagee or other person who is requ
     (i) every former mortgagor:
     (ii) every covenantor:
     (iii) every mortgagee under a subsequent mortgage, and every holder of any other subsequent encumbrance, over the mortgaged land or goods:
-    (iv) every person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
+    (iv) every person who has lodged a caveat under section 138 of the Land Transfer Act 2017, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the mortgaged land or any part of it.
 (2) A mortgagee or other person required to prepare a report under section 162 or 163 must, within 15 working days after receiving a written request for a copy of the report from any of the following persons, and on payment of the reasonable costs of making and sending the copy, send a copy of the report to the person requesting it:
   (a) a creditor of the mortgagor:
   (b) if the current mortgagor is a body corporate, a director of the body corporate:
@@ -1754,8 +1750,8 @@ If a person became a mortgagee in possession of mortgaged property before 1 Janu
   (a) the mortgagee has all the rights and powers in relation to the purchaser that the current mortgagor would have had as vendor of the property; and
   (b) the mortgagee may execute all assurances and do all other things necessary to effect the transfer or assignment of the property; and
   (c) the mortgagee must account for the proceeds of the sale as though the property had been sold by the mortgagee.
-(3) The mortgagee’s powers under subsection (2)﻿(b) include, in the case of a mortgage over land under the Land Transfer Act 1952, the power to do either or both of the following as if the land had been sold by the mortgagee:
-  (a) execute a transfer instrument that may be registered under section 105 of that Act:
+(3) The mortgagee’s powers under subsection (2)﻿(b) include, in the case of a mortgage over land under the Land Transfer Act 2017, the power to do either or both of the following as if the land had been sold by the mortgagee:
+  (a) execute a transfer instrument that may be registered under section 103 of that Act:
   (b) register a transfer instrument under that Act.
 (4) The adoption of an agreement for the sale and purchase of property by a mortgagee does not affect any liability in respect of the agreement of the current mortgagor, or any former mortgagor, who entered into or is otherwise bound by the agreement.
 
@@ -1782,8 +1778,8 @@ A mortgagee’s or receiver’s power to sell mortgaged land, or to sell mines o
 (1) On the sale of mortgaged property by a mortgagee,—
   (a) the mortgagee’s written receipt is a sufficient discharge to the purchaser for payment of the purchase money or other consideration; and
   (b) the mortgagee may execute all assurances and do all other things necessary to transfer or assign the property to the purchaser.
-(2) The mortgagee’s powers under subsection (1)﻿(b) include, in the case of a mortgage over land under the Land Transfer Act 1952, the power to do either or both of the following:
-  (a) execute a transfer instrument that may be registered under section 105 of that Act:
+(2) The mortgagee’s powers under subsection (1)﻿(b) include, in the case of a mortgage over land under the Land Transfer Act 2017, the power to do either or both of the following:
+  (a) execute a transfer instrument that may be registered under section 103 of that Act:
   (b) register a transfer instrument under that Act.
 (3) However, if the mortgagee is the purchaser, the transfer or assignment must be executed or registered by the Registrar under section 196 or in accordance with an order of a court made under section 200.
 (4) A transfer instrument or other instrument executed or registered by the mortgagee under subsection (1) or (2) transfers or assigns the property to which it relates to the transferee or assignee—
@@ -1875,7 +1871,7 @@ The Registrar may, in accordance with sections 188 to 198, conduct the sale by p
     (iv) the mortgagee under any other mortgage or encumbrance over the land proposed to be sold (whether or not it has priority over the vendor mortgagee’s mortgage), if that other mortgage or encumbrance—
       (A) is registered; or
       (B) is unregistered but the vendor mortgagee has actual notice of it:
-    (v) any person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
+    (v) any person who has lodged a caveat under section 138 of the Land Transfer Act 2017, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
 
 ### 189 Vendor mortgagee must nominate discharge sum
 (1) In an application for a sale under section 187, the vendor mortgagee must nominate, for the land proposed to be sold, a sum upon payment of which the vendor mortgagee will become bound to discharge the mortgage over the land.
@@ -1961,7 +1957,7 @@ The Registrar may, at any time before the sale, consent to the correction of any
 (2) Subsection (1) is, in the case of an executed transfer instrument, subject to the need for its registration.
 
 ### 198 Registration of transfer instrument
-(1) A transfer instrument for land under the Land Transfer Act 1952, executed under section 196, may be registered.
+(1) A transfer instrument for land under the Land Transfer Act 2017, executed under section 196, may be registered.
 (2) The Registrar-General must, on the registration of a transfer instrument executed under section 196 or on a transfer instrument being otherwise registered under that section, make any entry in the register that is necessary to show that every registered mortgage or encumbrance over the land referred to in section 197(1)﻿(a) has been discharged.
 (3) Subsection (2) is subject to section 197(1)﻿(b).
 
@@ -2002,7 +1998,7 @@ An application under section 200 must, unless the court orders otherwise, be ser
   (d) on the mortgagee under any other mortgage, and on the holder of any other encumbrance, over the mortgaged property (whether or not the mortgage or encumbrance has priority over the mortgagee’s mortgage) if—
     (i) the mortgage or encumbrance is registered; or
     (ii) the mortgage or encumbrance is unregistered, but the mortgagee applying to the court under section 200 has actual notice of it; and
-  (e) in the case of mortgaged land, on any person who has lodged a caveat under section 137 of the Land Transfer Act 1952, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
+  (e) in the case of mortgaged land, on any person who has lodged a caveat under section 138 of the Land Transfer Act 2017, or a notice under section 42 of the Property (Relationships) Act 1976 having the effect of a caveat, against the title to the land or any part of it.
 
 ### 202 Miscellaneous matters concerning orders under section 200
 (1) An order under section 200 may be made on any conditions the court thinks fit, including the deposit in court of a reasonable sum fixed by the court to meet the expenses of the sale or to secure the performance of any other condition of the order.
@@ -2071,7 +2067,7 @@ A short-term lease may be made orally or in writing.
 
 ### 209 Short-term lease: effect
 (1) A lessee who occupies land under a short-term lease has a legal interest in the land.
-(2) However, subsection (1) is subject to the Land Transfer Act 1952.
+(2) However, subsection (1) is subject to the Land Transfer Act 2017.
 (3) The legal interest in the land of a lessee under a short-term lease who has given valuable consideration has priority in relation to any unregistered interest in the land—
   (a) that was created before the lessee entered into occupation of the land if—
     (i) the lessee entered into occupation of the land in good faith and without actual notice of the unregistered interest; and
@@ -2095,7 +2091,7 @@ If section 210(1)﻿(b) applies, all the obligations of the lessee under the lea
 (3) Subsection (2) does not apply to a lease that provides for its termination on, or for notice of its termination to be given on or before, a date that—
   (a) is fixed in the lease; and
   (b) is later than the tenth anniversary date.
-(4) A lease that is valid only because of the application of this section cannot be registered under the Land Transfer Act 1952 but is to be treated for all purposes as creating an equitable estate in the land.
+(4) A lease that is valid only because of the application of this section cannot be registered under the Land Transfer Act 2017 but is to be treated for all purposes as creating an equitable estate in the land.
 
 ### 213 Lessee remaining in possession without consent of lessor, or lessor accepting rent, after termination of lease
 (1) A lessee who remains in possession of the land without the lessor’s consent after the lease has been terminated or the term of the lease has expired is subject to all the obligations of the lessee under the lease until the time that the lessee ceases to be in possession of the land.
@@ -2116,7 +2112,7 @@ If section 210(1)﻿(b) applies, all the obligations of the lessee under the lea
 (2) A sublease to which this section applies does not, unless a contrary intention appears, operate as an assignment of the superior lease to the sublessee.
 (3) If the term of a sublease to which this section applies will expire later than the expiry of the term of the superior lease,—
   (a) the term of the sublease is reduced and will expire at the same time as the term of the superior lease; and
-  (b) the sublease cannot be registered under the Land Transfer Act 1952 but is to be treated for all purposes as creating an equitable estate in the land.
+  (b) the sublease cannot be registered under the Land Transfer Act 2017 but is to be treated for all purposes as creating an equitable estate in the land.
 (4) Subsection (3) does not affect any remedy that the sublessee may have for the reduction, in accordance with that subsection, of the term of the sublease.
 (5) If the term of the superior lease is extended or renewed, the term of the sublease is extended and will expire at the earlier of the time that—
   (a) the term of the extended or renewed superior lease is expressed to expire; or
@@ -2130,7 +2126,7 @@ If section 210(1)﻿(b) applies, all the obligations of the lessee under the lea
 (2) A sublease in respect of lease A continues in force as though it had been entered into in respect of lease B and all the rights and obligations under the sublease, including those that relate to any period before the surrender of lease A, continue to be enforceable.
 (3) However, subsection (2) does not apply to any obligation under the sublease that, because lease B has been entered into, is more onerous than it would have been had lease A not been surrendered.
 (4) For the purposes of this section, a sublease in respect of lease A includes any sublease entered into by a person deriving title through the lessee under lease A.
-(5) For the purposes of section 117 of the Land Transfer Act 1952, a sublease in respect of lease A is an interest to which lease B is deemed to be subject.
+(5) For the purposes of section 95 of the Land Transfer Act 2017, a sublease in respect of lease A is an interest to which lease B is deemed to be subject.
 
 ### Subpart 3 — Covenants, conditions, and powers implied in leases
 
@@ -2484,13 +2480,13 @@ An acknowledgement by a lessee that a person who is not entitled to the reversio
 
 ### 257 Effect of order granting relief against cancellation of lease
 (1) An order of a court granting relief against the cancellation, or proposed cancellation, of a lease may be registered as an instrument under—
-  (a) the Land Transfer Act 1952; or
+  (a) the Land Transfer Act 2017; or
   (b) the Deeds Registration Act 1908.
 (2) On and after the making of the order,—
   (a) the lessee and any sublessee continue to hold the land under the terms of the lease, without any need for a new lease or sublease to be entered into; and
   (b) any right or interest deriving from any sublease is reinstated.
-(3) Subsection (2) is subject to subsection (4), but otherwise applies despite anything to the contrary in section 121 of the Land Transfer Act 1952.
-(4) If the Registrar-General has, under section 121 of the Land Transfer Act 1952, notified the re-entry of the lessor on the register, subsection (2) has effect only from the time at which the order granting relief is registered.
+(3) Subsection (2) is subject to subsection (4), but otherwise applies despite anything to the contrary in section 98 of the Land Transfer Act 2017.
+(4) If the Registrar-General has, under section 98 of the Land Transfer Act 2017, noted the re-entry of the lessor on the register, subsection (2) has effect only from the time at which the order granting relief is registered.
 
 ### 258 Protection of sublessee on cancellation of superior lease
 (1) If a lessor exercises, or is proposing to exercise, a right to cancel a lease because of a breach by the lessee of a covenant or condition of the lease, any interested person may apply to a court for relief in—
@@ -2825,14 +2821,14 @@ In sections 293 to 296, easement includes a profit à prendre or other incorpore
   (a) the instrument, contract, or arrangement creating the vehicular right of way; or
   (b) the express terms of any other instrument; or
   (c) a written memorandum executed, as the instrument creating the vehicular right of way was required to be executed, by the parties to that instrument; or
-  (d) an easement instrument registered under section 90A of the Land Transfer Act 1952; or
-  (e) an easement variation instrument registered under section 90C of the Land Transfer Act 1952.
+  (d) an easement instrument registered under section 108 of the Land Transfer Act 2017; or
+  (e) an easement variation instrument registered under section 112 of the Land Transfer Act 2017.
 (3) As between a person (person A) entitled to enforce those implied covenants and a person (person B) bound by them, a provision to which this subsection applies must be taken as negativing, varying, or extending any of those implied covenants only so long as the provision remains enforceable by person A against person B.
 (4) Subsection (3) applies to a provision of an instrument, contract, or arrangement coming into operation before 6 November 1986 (which is the date on which section 126B of the Property Law Act 1952 was substituted by section 4 of the Property Law Amendment Act 1986).
 (5) The provisions of this section are in addition to, and not in derogation of, the provisions of—
-  (a) section 90D of the Land Transfer Act 1952; and
+  (a) section 111 of the Land Transfer Act 2017; and
   (b) section 27(3) of the Housing Act 1955.
-(6) Rights and powers implied under section 90D of the Land Transfer Act 1952 prevail if, and to the extent that, they are inconsistent with any covenants implied by this section.
+(6) Rights and powers implied under section 111 of the Land Transfer Act 2017 prevail if, and to the extent that, they are inconsistent with any covenants implied by this section.
 (7) Subsection (6) does not limit section 8.
 
 **Access lots**
@@ -2850,10 +2846,10 @@ In sections 293 to 296, easement includes a profit à prendre or other incorpore
   (a) granted by an easement and in a way that complies with the 3 conditions in subsections (2) to (4); or
   (b) the right is granted by an easement of the kind, or is a right of the kind, specified in subsection (5).
 (2) The first condition is that the easement is granted on or after 24 November 1927 (which is the date on which the Property Law Amendment Act 1927 came into force).
-(3) The second condition is that the easement is granted by deed, or by an instrument registrable under the Land Transfer Act 1915 or the Land Transfer Act 1952.
+(3) The second condition is that the easement is granted by deed, or by an instrument registrable under the Land Transfer Act 1915, the Land Transfer Act 1952, or the Land Transfer Act 2017.
 (4) The third condition is that the deed or instrument referred to in subsection (3)—
   (a) accurately defines the area on and over the burdened land in respect of which the right to access of light or air is intended to be provided; and
-  (b) if it is an instrument registrable under the Land Transfer Act 1915 or the Land Transfer Act 1952, is duly registered under the relevant Act within 12 months after the date on which it is executed by the grantor.
+  (b) if it is an instrument registrable under the Land Transfer Act 1915, the Land Transfer Act 1952, or the Land Transfer Act 2017, is duly registered under the relevant Act within 12 months after the date on which it is executed by the grantor.
 (5) This section does not limit or affect easements or rights of access to or use of light or air existing or acquired, by prescription or otherwise, before 27 July 1894 (which is the date on which the Light and Air Act 1894 came into force).
 (6) In this section and section 300, a reference to light or air includes a reference to both.
 
@@ -2863,6 +2859,8 @@ In sections 293 to 296, easement includes a profit à prendre or other incorpore
 (3) A right conferred by the easement in respect of the defined area is not infringed by the erection on the burdened land of buildings of any height if no part of any building erected on that land encroaches on that area.
 
 ### Subpart 4 — Covenants: operation
+
+**Positive and restrictive covenants (benefiting land)**
 
 ### 301 Construction of covenants relating to land: benefits
 (1) This section applies to a covenant benefiting land of the covenantee, whether expressed in an instrument or implied by this Act or any other enactment in an instrument, and whether a positive covenant or a restrictive covenant.
@@ -2894,40 +2892,93 @@ In sections 293 to 296, easement includes a profit à prendre or other incorpore
 (5) This section overrides any other rule of law or equity, but is subject to sections 304 to 306.
 
 ### 304 Whether, and to what extent, administrator bound by covenant to which section 303 applies
-(1) This section applies to an administrator of the estate of a person who was bound, at the time of that person’s death, by a positive covenant to which section 303 applies.
+(1) This section applies to an administrator of the estate of a person who was bound, at the time of that person’s death, by a covenant to which section 303 applies.
 (2) The administrator is bound by the covenant—
   (a) only if assets of the estate are available in the administrator’s hands for meeting the obligations under the covenant; and
   (b) if so, only to the extent that they are so available.
 
 ### 305 How rights under covenant to which section 303 applies rank in relation to other unregistered interests
 (1) The rights under a covenant to which section 303 applies rank, in relation to all other unregistered interests affecting the same land, as if the covenant were an equitable and not a legal interest.
-(2) The ranking, under subsection (1), of rights under a covenant is subject to the effect of the notification of the covenant, under section 307, in the register (as defined in section 2 of the Land Transfer Act 1952).
+(2) The ranking, under subsection (1), of rights under a covenant is subject to the effect of the notation of the covenant, under section 307, in the register kept under section 9 of the Land Transfer Act 2017.
 
 ### 306 Certain duties under, and law on, restrictive covenants not limited or affected by section 303
-Section 303 does not limit or affect the following:
+Sections 303 and 307C do not limit or affect the following:
   (a) the duty owed by a person holding an interest in land (other than the occupier of the land) to observe the terms of any restrictive covenant burdening the land:
   (b) the law relating to restrictive covenants in gross.
 
-### 307 Notification of covenants
+### 307 Notation of covenants
 (1) This section applies to a covenant that—
   (a) is a positive covenant or a restrictive covenant; and
-  (b) burdens land under the Land Transfer Act 1952; and
+  (b) burdens land under the Land Transfer Act 2017; and
   (c) benefits other land (whether under that Act or not); and
   (d) is expressed in an instrument coming into operation on or after the relevant date.
 (2) Relevant date, in subsection (1)﻿(d), means,—
   (a) for a restrictive covenant, 1 January 1953 (which is the date on which the Property Law Act 1952 came into force); and
   (b) for a positive covenant, 1 January 1987 (which is the application date specified in section 64A(6) of the Property Law Act 1952, as inserted by section 3 of the Property Law Amendment Act 1986).
-(3) The Registrar-General may enter in the register (as defined in section 2 of the Land Transfer Act 1952) relating to the burdened land, the benefited land, or both, a notification of all or any of the following:
+(3) The Registrar-General may note on the record of title created under section 12 of the Land Transfer Act 2017 for the burdened land, the benefited land, or both, a notation of all or any of the following:
   (a) a covenant to which this section applies:
-  (b) an instrument purporting to affect the operation of a covenant notified under paragraph (a):
-  (c) a modification or revocation of a covenant notified under paragraph (a).
-(4) A covenant notified under subsection (3) is an interest notified on the register relating to the burdened land for the purposes of section 62 of the Land Transfer Act 1952.
-(5) Notification of a covenant under subsection (3) makes the covenant an interest of the kind specified in subsection (4), but does not in any other way give the covenant any greater operation than it would otherwise have.
-(6) Covenant, in subsections (4) and (5), includes an instrument purporting to modify the operation, and a modification or revocation, of a covenant notified under subsection (3)﻿(a).
+  (b) an instrument purporting to affect the operation of a covenant noted under paragraph (a):
+  (c) a modification or revocation of a covenant noted under paragraph (a).
+(4) A covenant noted under subsection (3) is an interest noted on the register relating to the burdened land to which section 52(1)﻿(b) of the Land Transfer Act 2017 applies.
+(5) Notation of a covenant under subsection (3) makes the covenant an interest of the kind specified in subsection (4), but does not in any other way give the covenant any greater operation than it would otherwise have.
+(6) Covenant, in subsections (4) and (5), includes an instrument purporting to modify the operation, and a modification or revocation, of a covenant noted under subsection (3)﻿(a).
+
+**Covenants in gross**
+
+### 307A Covenants in gross
+In sections 307B to 307F and 318A to 318E, covenant in gross means a covenant that—
+  (a) is expressed in an instrument coming into operation on or after the commencement of this section; and
+  (b) requires the covenantor to do something, or to refrain from doing something, in relation to the covenantor’s land; and
+  (c) benefits another person, but is not attached to other land.
+
+### 307B Construction of covenant in gross
+(1) A covenant in gross is enforceable by—
+  (a) the covenantee; and
+  (b) persons claiming through the covenantee.
+(2) A covenant in gross binds—
+  (a) the covenantor; and
+  (b) the covenantor’s successors in title; and
+  (c) persons claiming through the covenantor or the covenantor’s successors in title.
+(3) Subsections (1) and (2) are subject to any contrary intention that appears in the instrument in which the covenant is expressed.
+(4) For the purposes of this section,—
+  (a) the covenantor’s successors in title include an occupier for the time being of the burdened land:
+  (b) a covenant in gross that requires the covenantor to refrain from doing something may relate to a subject matter not in existence when the covenant is made.
+
+### 307C Legal effect of covenant in gross
+(1) A covenant in gross is binding in equity on—
+  (a) every person who becomes the owner of the burdened land,—
+    (i) whether by acquisition from the covenantor or from any of the covenantor's successors in title; and
+    (ii) whether or not for valuable consideration; and
+    (iii) whether by operation of law or in any other manner; and
+  (b) every person who is for the time being the occupier of the burdened land.
+(2) A covenant in gross ceases to be binding on a person referred to in subsection (1) when that person ceases to be the owner or occupier of the burdened land, but without prejudice to that person's liability for breach of the covenant arising before that person ceased to be the owner or occupier of the land.
+(3) Subsections (1) and (2) are subject to any contrary intention that appears in the instrument in which the covenant is expressed.
+(4) The benefit of a covenant in gross is capable of being assigned.
+(5) This section overrides any other rule of law or equity, but is subject to sections 307D and 307E.
+
+### 307D Whether, and to what extent, administrator bound by covenant in gross
+(1) This section applies to an administrator of the estate of a person who was bound, at the time of that person's death, by a covenant in gross.
+(2) The administrator is bound by the covenant—
+  (a) only if assets of the estate are available in the administrator's hand for meeting the obligations under the covenant; and
+  (b) if so, only to the extent that they are so available.
+
+### 307E How rights under covenant in gross rank in relation to other unregistered interests
+(1) The rights under a covenant in gross rank, in relation to all other unregistered interests affecting the same land, as if the covenant were an equitable and not a legal interest.
+(2) The ranking, under subsection (1), of rights under a covenant in gross is subject to the effect of the notation of the covenant, under section 307F, in the register kept under section 9 of the Land Transfer Act 2017.
+
+### 307F Notation of covenants in gross
+(1) This section applies to a covenant in gross that burdens land under the Land Transfer Act 2017.
+(2) The Registrar may note on the record of title created under section 12 of the Land Transfer Act 2017 for the land burdened by a covenant in gross all or any of the following:
+  (a) a covenant to which this section applies:
+  (b) an instrument purporting to affect the operation of a covenant noted under paragraph (a):
+  (c) a modification or revocation of a covenant noted under paragraph (a).
+(3) A covenant noted under subsection (2) is an interest noted on the register to which section 52(1)﻿(b) of the Land Transfer Act 2017 applies.
+(4) Notation of a covenant under subsection (2) makes the covenant an interest of the kind specified in subsection (3), but does not in any other way give the covenant any greater operation than it would otherwise have.
+(5) Covenant, in subsections (3) and (4), includes an instrument purporting to modify the operation, and a modification or revocation, of a covenant noted under subsection (2)﻿(a).
 
 ### Subpart 5 — Easements, covenants, and access lots: enforcement, modification, and extinguishment
 
-**Enforcement of covenants by giving notice of work required**
+**Enforcement of covenants benefiting land by giving notice of work required**
 
 ### 308 Person entitled may give notice of work required
 (1) This section applies to a positive covenant benefiting land, and to the people who, in relation to that positive covenant, are the person entitled and the person bound.
@@ -2964,7 +3015,7 @@ Every notice served under section 308 must—
 (2) After the question of undertaking and contributing to the cost of the proposed work is settled (whether by agreement or by order of a court), any owner or occupier for the time being of the benefited land may proceed with the proposed work and recover from the person on whom the notice was served under section 308 the share of the cost of the work that that person agreed or was ordered by the court to contribute, even if that person has ceased to be an owner or occupier of the burdened land.
 (3) No settlement referred to in this section binds an owner or occupier for the time being of the burdened or the benefited land who was not a party to the settlement, whether or not that person became, or ceased to be, an owner or occupier of that land before, on, or after the date of the settlement.
 
-**Enforcement, modification, and extinguishment of easements, covenants, and access lots by order of court**
+**Enforcement, modification, and extinguishment of easements, covenants benefiting land, and access lots by order of court**
 
 ### 313 Court may enforce easements and positive or restrictive covenants
 (1) In determining a question or dispute concerning the existence or effect of an easement, positive covenant, or restrictive covenant, a court may make an order, on any conditions the court thinks fit, concerning all or any of the following matters:
@@ -3003,17 +3054,63 @@ Sections 313, 314, and 316 to 318 apply, subject to the following modifications,
   (c) every person entitled who is of full age and capacity—
     (i) has agreed that the easement or covenant should be modified or extinguished (wholly or in part); or
     (ii) may reasonably be considered, by his or her or its acts or omissions, to have abandoned, or waived the right to, the easement or covenant, wholly or in part; or
-  (d) the proposed modification or extinguishment will not substantially injure any person entitled.
+  (d) the proposed modification or extinguishment will not substantially injure any person entitled; or
+  (e) in the case of a covenant, the covenant is contrary to public policy or to any enactment or rule of law; or
+  (f) in the case of a covenant, for any other reason it is just and equitable to modify or extinguish the covenant, wholly or partly.
 (2) An order under this section modifying or extinguishing the easement or covenant may require any person who made an application for the order to pay to any person specified in the order reasonable compensation as determined by the court.
 
 ### 318 Registration and recording of orders under section 317
-(1) The Registrar-General must enter in the register (as defined in section 2 of the Land Transfer Act 1952) relating to the burdened land or the benefited land or both all amendments or entries necessary to give effect to an order under section 317 in respect of—
-  (a) an easement or covenant registered under the Land Transfer Act 1952; or
-  (b) a covenant notified under section 307 of this Act.
+(1) The Registrar-General must enter on the record of title for the burdened land or the benefited land or both all amendments or entries necessary to give effect to an order under section 317 in respect of—
+  (a) an easement or covenant registered under the Land Transfer Act 2017; or
+  (b) a covenant noted under section 307 of this Act.
 (2) Those amendments and entries are, when so entered, binding on every person who is, or who later becomes, a person entitled, whether or not that person—
   (a) was of full age and capacity at the time of the making of the order; or
   (b) was a party to the proceeding.
-(3) If an order is made under section 317 in respect of an easement or covenant that is not an easement or covenant referred to in subsection (1)﻿(a) or (b), a court may, on an application for the purpose and by a written direction, require a memorandum of the order to be recorded on any instruments of title or register relating to the burdened or the benefited land.
+(3) If an order is made under section 317 in respect of an easement or covenant that is not an easement or covenant referred to in subsection (1)﻿(a) or (b), a court may, on an application for the purpose and by a written direction, require the order to be recorded on any instruments of title or register relating to the burdened or the benefited land.
+(4) Every person to whom a written direction under subsection (3) is addressed must comply with that direction.
+
+**Enforcement, modification, and extinguishment of covenants in gross**
+
+### 318A Application of sections 308 to 312 to positive covenants in gross
+(1) Sections 308 to 312 apply, with any necessary modifications, to a positive covenant in gross as if it were a covenant to which those sections apply.
+(2) In this section, positive covenant in gross means a covenant in gross that requires the covenantor to do something in relation to the covenantor’s land.
+
+### 318B Application of section 313 to covenants in gross
+Section 313 applies, with any necessary modifications, to a covenant in gross as if it were a covenant to which that section applies.
+
+### 318C Application for order under section 318D
+(1) A person bound by a covenant in gross may apply to a court for an order under section 318D modifying or extinguishing the covenant.
+(2) The application may be made in a proceeding brought by that person for the purpose or in a proceeding brought by any person in relation to, or in relation to land burdened by, that covenant.
+(3) The application must be served on—
+  (a) the territorial authority in accordance with relevant rules of court, unless the court directs otherwise on an application for the purpose; and
+  (b) any other persons, and in any manner, the court directs on an application for the purpose.
+
+### 318D Court may modify or extinguish covenant in gross
+(1) On an application (made and served in accordance with section 318C) for an order under this section, a court may, by order, modify or extinguish (wholly or partly) the covenant to which the application relates if satisfied that—
+  (a) the covenant ought to be modified or extinguished (wholly or partly) because of a change since its creation in all or any of the following:
+    (i) the nature or extent of the use being made of the burdened land:
+    (ii) the character of the neighbourhood:
+    (iii) any other circumstances the court considers relevant; or
+  (b) after reasonable inquiries have been made, the covenantee cannot be found; or
+  (c) the continuation of the covenant in its existing form would impede the reasonable use of the burdened land in a different way, or to a different extent, from that which could reasonably have been foreseen by the original covenantor and covenantee at the time of its creation; or
+  (d) every person entitled who is of full age and capacity—
+    (i) has agreed that the covenant should be modified or extinguished (wholly or partly); or
+    (ii) may reasonably be considered, by act or omission, to have abandoned, or waived the right to, the covenant, wholly or partly; or
+  (e) the proposed modification or extinguishment will not substantially injure any person entitled; or
+  (f) the covenant is contrary to public policy or to any enactment or rule of law; or
+  (g) for any other reason, it is just and equitable to modify or extinguish the covenant, wholly or partly.
+(2) An order under this section modifying or extinguishing the covenant may require the applicant for the order to pay to any other person specified in the order reasonable compensation as determined by the court.
+(3) Nothing in this section limits or affects the operation of any other enactment or rule of law under which a covenant in gross may be—
+  (a) declared void or voidable; or
+  (b) set aside, cancelled, or extinguished; or
+  (c) modified or varied.
+
+### 318E Registration and recording of orders under section 318D
+(1) If an order is made under section 318D in respect of a covenant in gross that is noted (in accordance with section 307F) on the record of title for the land burdened by the covenant, the Registrar must enter on the record of title all amendments or entries necessary to give effect to the order.
+(2) The amendments and entries are, when entered, binding on every person who is, or who later becomes, a person entitled, whether or not that person—
+  (a) was of full age and capacity at the time the order was made; or
+  (b) was a party to the proceeding.
+(3) If an order is made under section 318D in respect of a covenant in gross to which subsection (1) does not apply, a court may, on an application for the purpose and by a written direction, require the order to be noted on any instruments of title or register relating to the burdened land.
 (4) Every person to whom a written direction under subsection (3) is addressed must comply with that direction.
 
 ## Part 6 — Special powers of court
@@ -3118,7 +3215,7 @@ In this subpart,—
 (4) Part 10 of the Resource Management Act 1991 does not apply to a transfer or other disposition of land giving effect to an order of the court under subsection (1).
 (5) Section 348 of the Local Government Act 1974 does not apply to any easement granted in an order of the court under subsection (1).
 (6) An order under subsection (1) may be registered as an instrument under, as the case requires,—
-  (a) the Land Transfer Act 1952; or
+  (a) the Land Transfer Act 2017; or
   (b) the Deeds Registration Act 1908; or
   (c) the Crown Minerals Act 1991.
 
@@ -3180,7 +3277,7 @@ In determining an application for an order under section 328, the court must hav
 (3) Part 10 of the Resource Management Act 1991 does not apply to a transfer, exchange, or other disposition of land giving effect to an order of the court under section 328.
 (4) Section 348 of the Local Government Act 1974 does not apply to any easement granted in an order of the court under section 328.
 (5) An order made under section 328 may be registered as an instrument under, as the case requires,—
-  (a) the Land Transfer Act 1952; or
+  (a) the Land Transfer Act 2017; or
   (b) the Deeds Registration Act 1908; or
   (c) the Crown Minerals Act 1991.
 
@@ -3277,7 +3374,7 @@ This subpart applies to—
   (b) for the division of the property in kind among the co-owners; or
   (c) requiring 1 or more co-owners to purchase the share in the property of 1 or more other co-owners at a fair and reasonable price.
 (2) An order under subsection (1) (and any related order under subsection (4)) may be made—
-  (a) despite anything to the contrary in the Land Transfer Act 1952; but
+  (a) despite anything to the contrary in the Land Transfer Act 2017; but
   (b) only if it does not contravene section 340(1); and
   (c) only on an application made and served in the manner required by or under section 341; and
   (d) only after having regard to the matters specified in section 342.
@@ -3285,7 +3382,7 @@ This subpart applies to—
 (4) A court making an order under subsection (1) may, in addition, make a further order specified in section 343.
 (5) Unless the court orders otherwise, every co-owner of the property (whether a party to the proceeding or not) is bound by an order under subsection (1) (and by any related order under subsection (4)).
 (6) An order under subsection (1)﻿(b) (and any related order under subsection (4)) may be registered as an instrument under—
-  (a) the Land Transfer Act 1952; or
+  (a) the Land Transfer Act 2017; or
   (b) the Deeds Registration Act 1908; or
   (c) the Crown Minerals Act 1991.
 
@@ -3403,17 +3500,17 @@ The purpose of this subpart is to enable a court to order that property acquired
   (b) proofs of debt; and
   (c) the distribution of assets available to the trustee; and
   (d) any other relevant matters.
-(4) This section overrides the Land Transfer Act 1952.
+(4) This section overrides the Land Transfer Act 2017.
 
 ## Part 7 — Miscellaneous provisions
 
-**Land not owned by the Crown and not under Land Transfer Act 1952**
+**Land not owned by the Crown and not under Land Transfer Act 2017**
 
 ### 351 Application of Schedule 6
 Schedule 6 applies only to—
   (a) land that is—
     (i) not owned by the Crown; and
-    (ii) not under the Land Transfer Act 1952; and
+    (ii) not under the Land Transfer Act 2017; and
   (b) instruments relating to land to which paragraph (a) applies.
 
 **Service of notices and other documents**
@@ -3720,7 +3817,7 @@ If the mortgagor fails to pay any amounts secured by the mortgage on the due dat
     (v) the formation of access ways and rights of way:
     (vi) the creation of easements:
     (vii) the execution of any bonds, covenants, or consent notices:
-  (c) to survey the mortgaged land and deposit a plan of subdivision under the Land Transfer Act 1952.
+  (c) to survey the mortgaged land and deposit a plan of subdivision under the Land Transfer Act 2017.
 (3) The mortgagor irrevocably appoints the mortgagee as the attorney of the mortgagor to execute documents and do things that may be reasonably necessary or incidental to the exercise of the powers conferred by subclauses (1) and (2).
 (4) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys, and the mortgagor agrees to ratify and confirm anything that the mortgagee or a substitute attorney lawfully does or causes to be done under this clause.
 
@@ -3768,7 +3865,7 @@ If the mortgagor fails to pay any amounts secured by the mortgage on the due dat
   (c) execute a new mortgage over any new or renewed lease or reversion in substitution for this mortgage on terms, covenants, and conditions as like or similar to those of the present mortgage as the circumstances will permit:
   (d) enforce the rights of the mortgagor to any compensation, damages, or other amounts for any cause, including compensation for the value of improvements and buildings that is or may be payable if any person other than the mortgagor becomes the purchaser at auction of any right to a lease of the land, or otherwise:
   (e) receive the compensation, damages, or other amounts referred to in paragraph (d) on behalf of the mortgagor:
-  (f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of a request to the Registrar-General under section 117 or 118A of the Land Transfer Act 1952).
+  (f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of an application to the Registrar-General under section 95 or 96 of the Land Transfer Act 2017).
 (6) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys.
 (7) The mortgagor agrees to ratify and confirm anything that the mortgagee or a substitute attorney lawfully does or causes to be done under this clause.
 
@@ -3785,7 +3882,7 @@ The mortgagee will, on payment by the mortgagor of all amounts and the performan
   (b) while the mortgagor is failing to perform or observe any covenant expressed or implied in the mortgage; or
   (c) for the purpose of any dealing concerning the land referred to in clause 11(1)﻿(c) or (i) of these covenants to which the mortgagee has not consented; or
   (d) until the proper and reasonable costs of their production have first been paid to the mortgagee.
-(2) Subclause (1) does not apply if the mortgagee is required to produce the certificate of title or other instruments of title to the mortgaged land or the mortgage by a notice issued by the Registrar-General under section 211 of the Land Transfer Act 1952.
+(2)
 
 ### 20 Mortgagor’s liability for costs
 (1) The mortgagor will pay all costs and expenses of and incidental to the arranging and preparation of the mortgage and any variation or discharge of the mortgage or any transfer of the mortgage or the mortgaged land instead of a discharge.
@@ -4044,7 +4141,7 @@ The owners and occupiers of the land for the benefit of which, and the land over
 (2) Person A has the right, after the completion of the work, to have the land restored as far as possible to its former condition (except for the existence of the driveway).
 (3) That right of person A is subject to person B’s right, in accordance with clause 2(d), to receive a reasonable contribution towards the cost of the work.
 
-## Schedule 6 — Provisions applying to land not owned by the Crown and not under Land Transfer Act 1952
+## Schedule 6 — Provisions applying to land not owned by the Crown and not under Land Transfer Act 2017
 
 ### 1 Certain dealings in land not valid unless made by deed
 (1) No partition, exchange, lease, assignment, or surrender of land is valid unless it is made by deed.
