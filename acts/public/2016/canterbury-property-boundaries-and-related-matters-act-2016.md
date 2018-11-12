@@ -1,5 +1,5 @@
 # Canterbury Property Boundaries and Related Matters Act 2016
-_Consolidation as at 2016-08-29_
+_Consolidation as at 2018-11-12_
 
 ### 1 Title
 This Act is the Canterbury Property Boundaries and Related Matters Act 2016.
@@ -57,9 +57,10 @@ Sections 8 and 9 apply to all boundaries that determine the spatial extent of la
 (2) However, this Act does not remove any conflict between the following boundaries (a boundary conflict):
   (a) the boundaries determined by an approved interim survey; and
   (b) any boundaries as redefined by section 8 or as determined by another approved interim survey.
-(3) Subsection (1) does not prevent a boundary conflict from being resolved, and a boundary conflict between the boundaries that define land for the purposes of registration under the Land Transfer Act 1952 (meaning the boundaries shown on a plan deposited under section 167 of that Act or otherwise incorporated in the register kept under that Act) is to be treated as an error for the purposes of—
-  (a) section 81 of that Act, which gives the Registrar-General of Land a power to correct a computer register:
-  (b) section 172 of that Act, which gives a person who sustains certain losses a right to sue the Crown for damages.
+(3) Subsection (1) does not prevent a boundary conflict from being resolved, and a boundary conflict between the boundaries that define land for the purposes of registration under the Land Transfer Act 2017 is to be treated as an error or unlawful alteration to the register for the purposes of—
+  (a) section 21 of that Act, which gives the Registrar-General of Land a power to alter the register; and
+  (b) sections 58 and 59 of that Act, which give a person who sustains certain losses a right to claim compensation from the Crown.
+(4) For the purpose of subsection (3), boundaries that define land for the purposes of registration under the Land Transfer Act 2017 means the boundaries shown on a plan deposited under section 224 of that Act or otherwise incorporated in the register kept under that Act.
 
 ### 10 Boundary adjustment that follows moved boundaries is not subdivision
 A boundary adjustment that removes a boundary conflict referred to in section 9 by adjusting the boundary to comply with section 8 is not a subdivision of land for the purposes of section 11 or Part 10 of the Resource Management Act 1991.
