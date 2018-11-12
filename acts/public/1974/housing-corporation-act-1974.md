@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-12_
 
 > Title
 
@@ -233,7 +233,7 @@ Sections 20 to 20B apply to Crown entity subsidiaries of the Corporation as if e
 (2) In this section—
   - **Corporation** includes a transferee or assignee from the Corporation
   - **mortgage** includes a charge
-  - **registered** means registered under the Land Transfer Act 1952.
+  - **registered** means registered under the Land Transfer Act 2017.
 
 ### 27 Special provisions as to mortgages of leasehold interests in Crown land or certain classes of Maori land
 (1) This section applies to any mortgage under which the Corporation is the mortgagee for the time being and which is a mortgage of the mortgagor's interest in—
@@ -368,7 +368,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) every director of the State Advances Corporation shall retire from office; and
   (b) all real and personal property that immediately before the commencement of this Act was vested in the State Advances Corporation shall, without conveyance, transfer, or assignment, vest in the Corporation for the estate and interest of the State Advances Corporation of New Zealand, subject to all liabilities, charges, obligations, and trusts affecting the property; and
   (c) all the contracts, debts, and liabilities of the State Advances Corporation immediately before the commencement of this Act (including every guarantee and indemnity continuing to have effect, immediately before the commencement of this Act, under subsection (3) of section 2 of the State Advances Corporation Amendment Act 1970) shall become the contracts, debts, and liabilities of the Corporation.
-(3) A District Land Registrar shall, on written application by the Corporation, register it as the proprietor of any estate or interest that is registered in his land registration district under the Land Transfer Act 1952 and is vested in the Corporation by this section.
+(3) The Registrar-General of Land must, on written application by the Corporation, register it as the owner of any estate or interest that is registered under the Land Transfer Act 2017 and is vested in the Corporation by this section.
 (4) In the financial year ending with 31 March 1975, the Corporation and the State Advances Corporation of New Zealand shall be deemed to be the same body corporate for the purposes of sections 41 and 42, so that one set of accounts and one general report may be prepared, delivered to the Minister, and laid before Parliament by the Corporation, for that financial year.
 
 ### 49A References to Housing Corporation of New Zealand
