@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-12_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1846,8 +1846,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Industrial and Provident Societies Act 1908 | Section 3D |
 | Insolvency Act 2006 | Sections 62, 354, and 368 |
 | Insurance (Prudential Supervision) Act 2010 | Section 226 |
-| Land Transfer Act 1952 | Sections 33 and 50 |
-| Land Transfer Regulations 2002 | Regulation 31 |
+| Land Transfer Act 2017 | Section 9 |
 | Land Transport Act 1998 | Sections 199 and 234 |
 | Limited Partnerships Act 2008 | Section 54 |
 | Local Electoral Act 2001 | Sections 38 and 109 |
