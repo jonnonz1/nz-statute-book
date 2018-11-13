@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-13_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -2425,7 +2425,7 @@ This subpart has effect without prejudice to the application, in relation to any
     (b) a person who possesses the bill as a result of the completion (by delivery of the bill) of an endorsement of the bill or, in the case of a bearer bill, as a result of any other transfer of the bill:
     (c) a person who possesses the bill as a result of a transaction under which the person would have become a holder under paragraph (a) or (b) had the transaction not been effected at a time when possession of the bill no longer gave a right (as against the carrier) to possession of the goods to which the bill relates
   - **information technology** includes any computer or other technology by means of which information or other matter may be recorded in electronic form or communicated by means of an electronic communication (where and have the same meanings as in section 209)
-  - **network** has the same meaning as in section 5 of the Telecommunications Act 2001
+  - **network** has the same meaning as in section 3 of the Telecommunications (Interception Capability and Security) Act 2013
   - **received for shipment bill of lading** has the meaning set out in section 324.
 (3) For the purposes of this subpart,—
   (a) a person must be regarded as having become the lawful holder of a bill of lading if the person has become the holder of the bill in good faith:
