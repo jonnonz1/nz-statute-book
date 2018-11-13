@@ -1,5 +1,5 @@
 # Telecommunications Amendment Act (No 2) 2006
-_Consolidation as at 2011-07-01_
+_Consolidation as at 2018-11-13_
 
 ### 1 Title
 This Act is the Telecommunications Amendment Act (No 2) 2006.
@@ -14,17 +14,17 @@ This Act amends the Telecommunications Act 2001.
 ## Part 1 — Amendments to principal Act
 
 ### 4 Overview
-(1) Section 4(c)(ii) is amended by inserting prepared by the Commission on its own initiative or after (Schedule 2).
+(1) Section 4(c)﻿(ii) is amended by inserting prepared by the Commission on its own initiative or after (Schedule 2).
 (2) Section 4(e) is amended by omitting Schedule 3, and substituting Schedules 3 and 3A.
-(3) Section 4 is amended by inserting the following paragraphs after paragraph (e):.
+(3) Section 4 is amended by inserting the following paragraphs after paragraph (e):
   (ea) provisions requiring the operational separation of Telecom are set out in Part 2A; and
   (eb) provisions about the preparation and disclosure of information are set out in Part 2B; and
-(4) Section 4 is amended by inserting, after paragraph (g):.
+(4) Section 4 is amended by inserting, after paragraph (g):
   (ga) enforcement provisions are set out in Part 4A; and
   (gb) provisions facilitating the establishment of 1 or more complaints systems for the purpose of addressing complaints by consumers against service providers are set out in Part 4B; and
 
 ### 5 Interpretation
-(1) Section 5 is amended by repealing the definition of access provider and substituting the following definition:.
+(1) Section 5 is amended by repealing the definition of access provider and substituting the following definition:
   - **access provider** —
     (a) means, in relation to a designated service or specified service, the person named or described in Part 2, or Part 3, of Schedule 1 as the access provider for the designated service or specified service; and
     (b) means, in relation to a service that is supplied under a registered undertaking, the person that provided the undertaking under Schedule 3A
@@ -32,27 +32,27 @@ This Act amends the Telecommunications Act 2001.
   - **access seeker** —
     (a) means, in relation to a designated service or specified service, the person named or described in Part 2, or Part 3, of Schedule 1 as the access seeker for the designated service or specified service; and
     (b) means, in relation to a service that is supplied under a registered undertaking, a service provider who seeks access to the service and who complies with any conditions set out in the registered undertaking for eligibility as an access seeker
-(3) Section 5 is amended by repealing the definition of financial year and substituting the following definition:.
+(3) Section 5 is amended by repealing the definition of financial year and substituting the following definition:
   - **financial year** , in relation to a TSO provider, means a period of 12 months beginning on 1 July in any year and ending on 30 June in the following year during some or all of which a TSO provider supplies services under a TSO instrument
 (4) The definition of liable person in section 5 is amended by omitting TSP and substituting TSO provider.
-(5) Section 5 is amended by inserting the following definition in its appropriate alphabetical order:.
+(5) Section 5 is amended by inserting the following definition in its appropriate alphabetical order:
   - **liable person's TSO-qualified revenue** means the amount of revenue that, during the financial year, each liable person receives for supplying all or any of the following
     (a) telecommunications services by means of its PSTN:
     (b) telecommunications services by means that rely primarily on the existence of its PSTN or any other PSTN:
     (c) directory services in respect of PSTN numbers
 (6) The definition of local loop network in section 5 is repealed.
-(7) Section 5 is amended by repealing the definition of party or parties and substituting the following definition:.
+(7) Section 5 is amended by repealing the definition of party or parties and substituting the following definition:
   - **party or parties means** ,—
     (a) for a determination made under section 27 or a residual terms determination made under section 30ZB, the access seeker and the access provider of the service; and
     (b) for a standard terms determination made under section 30M, a designated multinetwork service determination made under section 39, or an approved code under Schedule 2, all access seekers and all access providers of the service (whether they became an access seeker or an access provider before or after the determination was made or the code was approved); and
     (c) for a registered undertaking under Schedule 3A, the access provider of the service and the Commission
-(8) Section 5 is amended by inserting the following definition in its appropriate alphabetical order:.
+(8) Section 5 is amended by inserting the following definition in its appropriate alphabetical order:
   - **registered undertaking** has the meaning set out in clause 1 of Schedule 3A
 (9) The definition of specified amount in section 5 is amended by omitting section 70(5) and substituting section 71A.
 (10) Section 5 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **TSO cost allocation determination** means a determination prepared by the Commission in accordance with sections 87 to 91
   - **TSO cost calculation determination** means a determination prepared by the Commission in accordance with sections 92 to 93E
-(11) Section 5 is amended by repealing the definition of TSP or telecommunications service provider and inserting the following definitions in their appropriate alphabetical order:.
+(11) Section 5 is amended by repealing the definition of TSP or telecommunications service provider and inserting the following definitions in their appropriate alphabetical order:
   - **TSO provider or telecommunications service obligation provider** means a provider of a telecommunications service under a TSO instrument
   - **TSO provider's TSO-qualified revenue** means the amount of revenue that, during the financial year, each TSO provider receives for supplying all or any of the following
     (a) telecommunications services by means of its PSTN:
@@ -66,12 +66,12 @@ Section 7 is amended by repealing subsection (1) and substituting the following 
     (b) services supplied under a registered undertaking.
 
 ### 7 New section 9A inserted
-The following section is inserted after section 9:Functions of Commission in relation to sector monitoring and information dissemination1986 No 5 s 25; 1986 No 121 s 6.
+The following section is inserted after section 9:Functions of Commission in relation to sector monitoring and information dissemination1986 No 5 s 25; 1986 No 121 s 6
   (1) In addition to the other functions conferred on the Commission by this Act, the Commission—
     (a) must monitor competition in telecommunications markets and the performance and development of telecommunications markets; and
     (b) may conduct inquiries, reviews, and studies (including international benchmarking) into any matter relating to the telecommunications industry or the long-term benefit of end-users of telecommunications services within New Zealand; and
     (c) must make available reports, summaries, and information about the things referred to in paragraphs (a) and (b).
-  (2) The function in subsection (1)(c) does not require the Commission to release all documents that the Commission produces or acquires under this section.
+  (2) The function in subsection (1)﻿(c) does not require the Commission to release all documents that the Commission produces or acquires under this section.
 
 ### 8 Commission and Minister must consider purpose set out in section 18 and additional matters
 (1) Section 19 is amended by omitting Schedules 1 to 3 and substituting Schedules 1, 3, and 3A.
@@ -87,11 +87,11 @@ The following section is inserted after section 19:Commission to have regard to 
 
 ### 10 When application may not be made
 (1) Section 22(a) and (b) are repealed.
-(2) Section 22 is amended by inserting the following paragraph after paragraph (c):.
+(2) Section 22 is amended by inserting the following paragraph after paragraph (c):
   (ca) the standard terms development process for the service is proceeding or a standard terms determination for the service is in force; or
 (3) Section 22 is amended by adding the following subsections as subsections (2) to (4):
-  (2) However, subsection (1)(ca) does not prevent a person from applying for a residual terms determination under section 30V.
-  (3) The Commission may investigate whether subsection (1)(d) applies either at the time—
+  (2) However, subsection (1)﻿(ca) does not prevent a person from applying for a residual terms determination under section 30V.
+  (3) The Commission may investigate whether subsection (1)﻿(d) applies either at the time—
     (a) it receives an application made under section 20; or
     (b) it prepares a determination under section 27.
   (4) However, if the Commission is satisfied, at any time, that the applicable conditions in relation to the service have not been met, the Commission must discontinue—
@@ -152,9 +152,9 @@ The following subpart is inserted after section 30:Standard terms determinations
   (1) After giving public notice under section 30D and conducting a scoping workshop under section 30E, the Commission must—
     (a) give written notice to 1 or more access providers of the designated access service or specified service requiring them to submit to the Commission, by the date specified in the notice, a standard terms proposal that complies with section 30G; and
     (b) give public notice of that requirement.
-  (2) The Commission may include in the written notice under subsection (1)(a) any additional requirements that it thinks fit to specify, having regard to any relevant matters (for example, the terms and conditions of any commercial agreement or regulated terms for any service in New Zealand or overseas).
-  (3) An access provider of the designated access service or specified service to whom written notice is given under subsection (1)(a) must comply with the requirement or requirements contained in that notice.
-  (4) The written notice under subsection (1)(a) must be accompanied by a copy of—
+  (2) The Commission may include in the written notice under subsection (1)﻿(a) any additional requirements that it thinks fit to specify, having regard to any relevant matters (for example, the terms and conditions of any commercial agreement or regulated terms for any service in New Zealand or overseas).
+  (3) An access provider of the designated access service or specified service to whom written notice is given under subsection (1)﻿(a) must comply with the requirement or requirements contained in that notice.
+  (4) The written notice under subsection (1)﻿(a) must be accompanied by a copy of—
     (a) section 30G; and
     (b) any additional requirements that the Commission specifies under subsection (2).
   (1) A standard terms proposal must—
@@ -166,7 +166,7 @@ The following subpart is inserted after section 30:Standard terms determinations
     (d) be consistent with the description of the service in Part 2 or Part 3 of Schedule 1, as the case may be; and
     (e) be consistent with the applicable access principles and any limits on those applicable access principles; and
     (f) comply with any additional requirements that the Commission has specified under section 30F(2).
-  (2) The terms referred to in subsection (1)(a)—
+  (2) The terms referred to in subsection (1)﻿(a)—
     (a) must include the price payable for the supply of the service if that price has been determined in accordance with the applicable initial pricing principle or the applicable final pricing principle in a previous determination made under section 27; or
     (b) must not include that price if that is not the case.
   (3) The Commission may refuse to consider a standard terms proposal that—
@@ -175,7 +175,7 @@ The following subpart is inserted after section 30:Standard terms determinations
   (1) If an access provider of a designated access service or specified service fails to submit, in response to a notice under section 30F, a standard terms proposal that complies with section 30G, the Commission may—
     (a) give written notice to another access provider, or an access seeker of the service requesting that access provider or, as the case may be, that access seeker to submit to the Commission, by a further date specified in the notice, a standard terms proposal that complies with section 30G:
     (b) prepare a draft standard terms determination under section 30K even though it has not received a standard terms proposal from an access provider or an access seeker of the service.
-  (2) The written notice under subsection (1)(a) must be accompanied by a copy of—
+  (2) The written notice under subsection (1)﻿(a) must be accompanied by a copy of—
     (a) section 30G; and
     (b) any additional requirements that the Commission specifies under section 30F(2).
   As soon as practicable after receiving a standard terms proposal that complies with section 30G, the Commission must make reasonable efforts to do the following things:
@@ -203,7 +203,7 @@ The following subpart is inserted after section 30:Standard terms determinations
       (iii) if the price or prices referred to in subparagraph (i) or (ii) are higher than the existing price charged by the relevant access provider to the majority of its access seekers for the service, that existing price; or
     (c) if neither paragraph (a) nor paragraph (b) applies, the price or prices determined by the Commission in accordance with the applicable initial pricing principle.
   If the Commission considers that persons other than the parties to the determination have a material interest in a standard terms determination, the Commission must, before preparing the standard terms determination under section 30M, either consult those persons or hold conferences in relation to the matter.
-  As soon as practicable after completing any consultation or conferences under section 30L, or if there is no consultation or there are no conferences, after the closing date for submissions under section 30K(1)(e), the Commission must—
+  As soon as practicable after completing any consultation or conferences under section 30L, or if there is no consultation or there are no conferences, after the closing date for submissions under section 30K(1)﻿(e), the Commission must—
     (a) prepare a standard terms determination; and
     (b) provide a copy of the standard terms determination to all parties to the determination; and
     (c) give public notice of the standard terms determination.
@@ -212,7 +212,7 @@ The following subpart is inserted after section 30:Standard terms determinations
       (i) terms of general application to all the services to which the standard terms determination relates; and
       (ii) a separate schedule for each of those services that includes terms of specific application to that service; or
     (b) a separate standard terms determination for each designated access service or specified service.
-  (2) Instead of preparing a standard terms determination in each case, the Commission may also comply with section 30M(a) by adding a separate schedule that contains terms of specific application to a particular designated access service or specified service to an existing standard terms determination of the kind referred to in subsection (1)(a).
+  (2) Instead of preparing a standard terms determination in each case, the Commission may also comply with section 30M(a) by adding a separate schedule that contains terms of specific application to a particular designated access service or specified service to an existing standard terms determination of the kind referred to in subsection (1)﻿(a).
   (1) A standard terms determination must—
     (a) specify sufficient terms to allow, without the need for the access seeker to enter into an agreement with the access provider, the designated access service or specified service to be made available within the time frames specified under paragraph (b); and
     (b) state the time frames within which the access provider must make the service available to—
@@ -283,7 +283,7 @@ The following subpart is inserted after section 30:Standard terms determinations
     (c) that person has previously applied for a residual terms determination for the service and it is less than 18 months since the date on which that determination was made; or
     (d) it is less than 18 months since the date on which the access provider began to supply the service on the terms specified in the standard terms determination in accordance with a request made by the access seeker under section 30S(1); or
     (e) the applicable conditions in relation to the service (if any) have not been met.
-  (2) However, subsection (1)(d) does not prevent an access seeker from applying for a residual terms determination at any time before the access provider begins to supply the service on the terms specified in a standard terms determination in accordance with a request made by the access seeker under section 30S(1).
+  (2) However, subsection (1)﻿(d) does not prevent an access seeker from applying for a residual terms determination at any time before the access provider begins to supply the service on the terms specified in a standard terms determination in accordance with a request made by the access seeker under section 30S(1).
   An application made under section 30V must—
     (a) be in writing; and
     (b) be given in the prescribed manner, if any; and
@@ -298,7 +298,7 @@ The following subpart is inserted after section 30:Standard terms determinations
     (b) give written notice of its decision to the parties:
     (c) give public notice of its decision:
     (d) request the parties to the residual terms determination to make submissions on the matter by written notice to the Commission not later than 10 working days after receipt of the notice of decision from the Commission.
-  (2) Subsection (1)(d) applies only if the Commission has decided under subsection (1)(a) to investigate the matter.
+  (2) Subsection (1)﻿(d) applies only if the Commission has decided under subsection (1)﻿(a) to investigate the matter.
   If the Commission considers that persons other than the parties to the determination have a material interest in the residual terms determination, the Commission may either consult those persons or hold conferences in relation to the matter.
   After investigating the matter, the Commission must—
     (a) prepare a residual terms determination; and
@@ -336,7 +336,7 @@ Section 35 is amended by omitting application and substituting matter.
 ### 17 Application
 (1) Section 42 is amended by inserting or section 30M after section 27 wherever it appears.
 (2) Section 42 is amended by inserting, after subsection (1), the following subsection:
-  (1A) However, subsection (1) does not apply in relation to a determination made under section 30M if the price to be paid for the service was included in that determination under section 30P(1)(a).
+  (1A) However, subsection (1) does not apply in relation to a determination made under section 30M if the price to be paid for the service was included in that determination under section 30P(1)﻿(a).
 
 ### 18 Requirements for application
 Section 43 is amended by repealing paragraph (b) and substituting the following paragraph:
@@ -350,18 +350,18 @@ Section 44(b) is amended by omitting party to the determination and substituting
 ### 20 Access provider to calculate price on request
 (1) Section 45(1) is amended by omitting the access provider and substituting an access provider.
 (2) Section 45(2) is amended by omitting the access provider where it first appears and substituting an access provider.
-(3) Section 45(2)(a) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
+(3) Section 45(2)﻿(a) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) any regulations that relate to the applicable final pricing principle or, if there are no regulations, any requirements of the Commission.
 
 ### 21 Section 46 repealed
 Section 46 is repealed.
 
 ### 22 Matters to be included in draft determination
-Section 49(a) is amended by repealing subparagraph (ii) and substituting the following subparagraph:.
+Section 49(a) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) any regulations that relate to the applicable final pricing principle or, if there are no regulations, any requirements of the Commission; and
 
 ### 23 Matters to be included in determination
-Section 52(a) is amended by repealing subparagraph (ii) and substituting the following subparagraph:.
+Section 52(a) is amended by repealing subparagraph (ii) and substituting the following subparagraph:
   (ii) any regulations that relate to the applicable final pricing principle or, if there are no regulations, any requirements of the Commission; and
 
 ### 24 Applicant may withdraw
@@ -375,10 +375,10 @@ Section 55 is amended by adding the following subsection as subsection (2):
     (c) by a combination of the ways referred to in paragraphs (a) and (b).
 
 ### 26 Clarification of determination
-Section 58(1)(b) is repealed.
+Section 58(1)﻿(b) is repealed.
 
 ### 27 Reconsideration of determination
-Section 59(1)(b) is repealed.
+Section 59(1)﻿(b) is repealed.
 
 ### 28 Section 61 repealed
 Section 61 is repealed.
@@ -405,7 +405,7 @@ Section 68 is repealed and the following sections are substituted:Minister's rec
   (2) However, Schedule 3A does not limit Schedule 3.
 
 ### 32 New Parts 2A and 2B inserted
-The following Parts are inserted after Part 2:Operational separation of TelecomPreliminary provisionsPurposesOverviewInterpretationRequirements for separation planMain requirements for separation planMeaning of equivalenceMinister must determine further requirements for separation planHow Ministerial determination of further requirements may be madeProcess for settling separation planPreparation of draft separation planMinister must invite public comments on draft separation planAmendment of separation plan after public commentsMinister may approve, or decline to approve, separation plan2001 No 51 ss 55, 56; 2003 No 40 ss 31, 32Minister may amend separation plan to give better effect to this Part2001 No 51 s 57; 2003 No 40 s 33Failure to submit separation plan2001 No 51 s 58; 2003 No 40 s 34Implementation of separation planImplementation of separation planTelecom must publish separation planEmployees2001 No 51 s 61Statutory provisions for enforcement of separation planEnforcement and remedies under Part 4APower of Court to grant relief in respect of separation undertakingsInterrelationship of remediesVariation of separation planVariation of separation planVariation by agreementVariation by MinisterVariation by TelecomCommission may request variationInformation disclosure requirementsPurpose1986 No 5 s 57T(1)Parameters of PartInterpretation1986 No 5 s 57T(6)Accounting separation of Telecom1986 No 5 s 57T(2), (3)Information disclosure by all access providers1986 No 5 s 57T(2), (3)Miscellaneous provisions relating to Commission's information disclosure requirements1986 No 5 s 57T(8)Publication of Commission's information disclosure requirements1986 No 5 s 57T(4)Information to be supplied to Commission1986 No 5 s 57UCommission to publish summaries1986 No 5 s 57VReasonable charge may be imposed for providing copies of statements1986 No 5 s 57W.
+The following Parts are inserted after Part 2:Operational separation of TelecomPreliminary provisionsPurposesOverviewInterpretationRequirements for separation planMain requirements for separation planMeaning of equivalenceMinister must determine further requirements for separation planHow Ministerial determination of further requirements may be madeProcess for settling separation planPreparation of draft separation planMinister must invite public comments on draft separation planAmendment of separation plan after public commentsMinister may approve, or decline to approve, separation plan2001 No 51 ss 55, 56; 2003 No 40 ss 31, 32Minister may amend separation plan to give better effect to this Part2001 No 51 s 57; 2003 No 40 s 33Failure to submit separation plan2001 No 51 s 58; 2003 No 40 s 34Implementation of separation planImplementation of separation planTelecom must publish separation planEmployees2001 No 51 s 61Statutory provisions for enforcement of separation planEnforcement and remedies under Part 4APower of Court to grant relief in respect of separation undertakingsInterrelationship of remediesVariation of separation planVariation of separation planVariation by agreementVariation by MinisterVariation by TelecomCommission may request variationInformation disclosure requirementsPurpose1986 No 5 s 57T(1)Parameters of PartInterpretation1986 No 5 s 57T(6)Accounting separation of Telecom1986 No 5 s 57T(2), (3)Information disclosure by all access providers1986 No 5 s 57T(2), (3)Miscellaneous provisions relating to Commission's information disclosure requirements1986 No 5 s 57T(8)Publication of Commission's information disclosure requirements1986 No 5 s 57T(4)Information to be supplied to Commission1986 No 5 s 57UCommission to publish summaries1986 No 5 s 57VReasonable charge may be imposed for providing copies of statements1986 No 5 s 57W
   The purposes of this Part are—
     (a) to promote competition in telecommunications markets for the long-term benefit of end-users of telecommunications services in New Zealand; and
     (b) to require transparency, non-discrimination, and equivalence of supply in relation to certain telecommunications services; and
@@ -444,13 +444,13 @@ The following Parts are inserted after Part 2:Operational separation of TelecomP
   (2) The separation plan must specify a separation day or a method of determining the separation day.
   (3) Each separation plan given to the Minister by Telecom under any provision of this Part must be accompanied by a certificate signed by at least 2 directors of Telecom certifying that the directors are satisfied that the plan complies with this Part and any Minister's determination.
   (4) This Part does not require separation undertakings to be given in respect of services other than relevant services.
-  Section 69D(1)(f) requires equivalence of supply of wholesale telecommunications services and access to Telecom's network so that third party access seekers are treated in the same or an equivalent way to Telecom's own business operations, including in relation to pricing, procedures, operational support, supply of information, and other relevant matters.
+  Section 69D(1)﻿(f) requires equivalence of supply of wholesale telecommunications services and access to Telecom's network so that third party access seekers are treated in the same or an equivalent way to Telecom's own business operations, including in relation to pricing, procedures, operational support, supply of information, and other relevant matters.
   (1) The Minister must determine further requirements with which the separation plan must comply.
   (2) These further requirements may include—
     (a) the objectives and outcomes that the separation undertakings are required to give effect to; and
     (b) the telecommunications services, or types of telecommunications services, to which equivalence and the other requirements in section 69D are to apply, and how they are to apply; and
     (c) the matters that must be addressed in the separation undertakings, and the minimum requirements for those undertakings.
-  (3) In specifying the relevant services under subsection (2)(b), the Minister is not required to list individual named services and may instead—
+  (3) In specifying the relevant services under subsection (2)﻿(b), the Minister is not required to list individual named services and may instead—
     (a) provide a general description of the type or class of service, for example, all broadband services:
     (b) provide a general description of the parts of the Telecom network that are used to deliver the service, for example, the fixed PSTN:
     (c) specify that all or any services that may from time to time be listed in Schedule 1 are relevant services:
@@ -477,9 +477,9 @@ The following Parts are inserted after Part 2:Operational separation of TelecomP
     (b) stating that a copy of the draft is available on Telecom's Internet website and the Ministry's Internet website throughout the period of 20 working days after the publishing of the notice; and
     (c) inviting persons to give written comments about the draft plan to the Minister by a specified date, which must be 20 working days after the publishing of the notice.
   (2) Telecom and the Ministry must publish the draft plan in accordance with the notice.
-  (1) The Minister must, as soon as practicable after the date specified in section 69I(1)(c), give Telecom a copy of all written comments that the Minister receives under that section.
+  (1) The Minister must, as soon as practicable after the date specified in section 69I(1)﻿(c), give Telecom a copy of all written comments that the Minister receives under that section.
   (2) Telecom must, in consultation with the Minister, prepare an amended separation plan.
-  (3) Telecom must, not later than 15 working days after the date specified in section 69I(1)(c) (or a later date that the Minister may allow), give to the Minister—
+  (3) Telecom must, not later than 15 working days after the date specified in section 69I(1)﻿(c) (or a later date that the Minister may allow), give to the Minister—
     (a) an amended separation plan; and
     (b) a summary of how (if at all) the draft separation plan was amended as a result of the public comments.
   (1) The Minister must, as soon as practicable after receiving the amended separation plan under section 69J(3), by notice in writing to Telecom,—
@@ -489,14 +489,14 @@ The following Parts are inserted after Part 2:Operational separation of TelecomP
     (a) the Minister must indicate the parts of the separation plan that require amendment; and
     (b) the Minister must direct Telecom to prepare and submit a further amended separation plan; and
     (c) Telecom must, in consultation with the Minister, prepare a further amended separation plan and give it to the Minister not later than 15 working days after the date on which approval was declined (or a later date that the Minister may allow).
-  (1) As soon as practicable after receiving an amended separation plan under section 69K(2)(c), the Minister must—
+  (1) As soon as practicable after receiving an amended separation plan under section 69K(2)﻿(c), the Minister must—
     (a) approve the plan; or
     (b) make any amendments to the plan that the Minister considers would be desirable to give better effect to the purposes of this Part or any requirements under this Part, and approve the plan (as amended).
   (2) Before making amendments to a separation plan, the Minister must advise Telecom of the Minister's intention to do so and must give Telecom a reasonable opportunity to make submissions on the matter.
   (3) The Minister must give notice in writing to Telecom of the approval of the plan, accompanied by a copy of the plan as approved.
   (1) The Minister must arrange for a separation plan to be prepared, and the Minister has all the powers necessary for that purpose, if Telecom does not give to the Minister—
     (a) a draft separation plan within the time specified in section 69H(2); or
-    (b) an amended separation plan within the time specified in section 69J(3) or 69K(2)(c).
+    (b) an amended separation plan within the time specified in section 69J(3) or 69K(2)﻿(c).
   (2) This Part applies to a separation plan prepared under subsection (1) with necessary modifications.
   (3) The Minister and the Ministry are entitled to be reimbursed by Telecom for the costs and expenses that they incur in taking action under subsection (1).
   On and from the separation day identified in the separation plan approved by the Minister under any provision of this Part, the separation undertakings identified in that plan take effect as, or as if they were, a deed that is—
@@ -599,12 +599,12 @@ The following Parts are inserted after Part 2:Operational separation of TelecomP
     (i) provide for transitional provisions:
     (j) make requirements from time to time (for example, more than once a year):
     (k) make requirements in respect of all or part of the relevant business.
-  (2) Subsection (1)(j) does not limit section 16 of the Interpretation Act 1999.
+  (2) Subsection (1)﻿(j) does not limit section 16 of the Interpretation Act 1999.
   The Commission must give public notice of requirements made under this Part.
   (1) Every person who is required under this Part to disclose information must supply to the Commission—
     (a) a copy of all information disclosed under this Part, which must be supplied within 5 working days after the information is first disclosed under this Part; and
     (b) any further statements, reports, agreements, particulars, and other information requested in writing by the Commission for the purpose of monitoring the person's compliance with the requirements made under this Part.
-  (2) Every person to whom a request is made under subsection (1)(b) must comply with that request within the period specified by the Commission.
+  (2) Every person to whom a request is made under subsection (1)﻿(b) must comply with that request within the period specified by the Commission.
   (3) The Commission may require all or any statements, reports, agreements, particulars, and other information supplied under subsection (1) to be either or both—
     (a) audited:
     (b) verified by statutory declaration by the persons and in the form required by the Commission.
@@ -618,7 +618,7 @@ The following Parts are inserted after Part 2:Operational separation of TelecomP
 Section 70(5) is repealed.
 
 ### 34 New section 71A inserted
-The following section is inserted after section 71:TSO instrument or deemed TSO instrument may specify total amount payable by all liable persons.
+The following section is inserted after section 71:TSO instrument or deemed TSO instrument may specify total amount payable by all liable persons
   A TSO instrument or a deemed TSO instrument may specify the total amount payable by all liable persons and the TSO provider under the instrument for each financial year of the TSO provider (the specified amount)
 
 ### 35 Compliance with TSO instrument
@@ -632,7 +632,7 @@ Section 79 is repealed and the following section substituted:When 2 or more bodi
     (c) all of them are associates of each other; or
     (d) 1 of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
     (e) a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
-  (2) For the purposes of subsection (1)(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
+  (2) For the purposes of subsection (1)﻿(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
   (3) A body corporate is not able to exert a substantial degree of influence over another body corporate for the purposes of subsection (2) just because—
     (a) those bodies corporate are in competition in the same market; or
     (b) 1 of them supplies goods or services to the other.
@@ -647,8 +647,8 @@ The heading Requirement to produce certain information is inserted above section
 ### 39 Liable persons and TSP must produce certain information to Commission
 (1) The heading to section 81 is amended by omitting TSP and substituting TSO provider.
 (2) Section 81 is amended by—
-  (a) omitting section 88(a)(ii) and (b)(i) and substituting section 88(1)(a) and (b); and
-  (b) omitting section 92(a)(ii) and (b)(i) and substituting section 91(1)(a) and (b); and
+  (a) omitting section 88(a)﻿(ii) and (b)﻿(i) and substituting section 88(1)﻿(a) and (b); and
+  (b) omitting section 92(a)﻿(ii) and (b)﻿(i) and substituting section 91(1)﻿(a) and (b); and
   (c) omitting TSP wherever it appears and substituting in each case TSO provider.
 
 ### 40 Section 82 repealed
@@ -665,8 +665,8 @@ Section 83 is amended by omitting TSP wherever it appears and substituting in ea
 ### 43 Considerations for determining which revenue basis to use
 (1) Section 85(1) is amended by—
   (a) omitting a draft determination referred to in section 88 and a final determination referred to in section 92 and substituting a draft determination referred to in section 88 and a final determination referred to in section 91; and
-  (b) omitting section 88(a)(ii) or (b)(i) or section 92(a)(ii) or (b)(i) wherever it appears and substituting in each case section 88(1)(a) or (b) or section 91(1)(a) or (b).
-(2) Section 85(4)(b) is amended by omitting TSP and substituting TSO provider.
+  (b) omitting section 88(a)﻿(ii) or (b)﻿(i) or section 92(a)﻿(ii) or (b)﻿(i) wherever it appears and substituting in each case section 88(1)﻿(a) or (b) or section 91(1)﻿(a) or (b).
+(2) Section 85(4)﻿(b) is amended by omitting TSP and substituting TSO provider.
 
 ### 44 New headings and sections 86 to 93F substituted
 The heading above section 86 and sections 86 to 93 are repealed and the following headings and sections substituted:General provision relating to TSO cost allocation determination and TSO cost calculation determinationCommission may determine priority between preparation of TSO cost allocation determination and TSO cost calculation determinationTSO cost allocation determinationCommission to prepare draft TSO cost allocation determinationMatters to be included in draft TSO cost allocation determinationConferences on draft TSO cost allocation determinationCommission to prepare final TSO cost allocation determinationMatters to be included in final TSO cost allocation determinationTSO cost calculation determinationCommission to prepare draft TSO cost calculation determinationRequirements for draft TSO cost calculation determinationMatters to be included in draft TSO cost calculation determinationConferences on draft TSO cost calculation determinationCommission to prepare final TSO cost calculation determinationRequirements for final TSO cost calculation determinationMatters to be included in final TSO cost calculation determinationCalculation of amount payable by liable personCalculation of amount payable by liable person
@@ -684,7 +684,7 @@ The heading above section 86 and sections 86 to 93 are repealed and the followin
     (e) the revenue amounts that will be used for the purposes of calculating, under section 93F, the amount payable by each liable person in relation to each TSO instrument; and
     (f) the methodology applied by the Commission in making the determination; and
     (g) the reasons for the determination.
-  (2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)(c) (for example, a net-revenue basis).
+  (2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)﻿(c) (for example, a net-revenue basis).
   The Commission may—
     (a) hold conferences in relation to a draft ISO cost allocation determination; and
     (b) invite to those conferences any person who has a material interest in a matter to be determined.
@@ -699,7 +699,7 @@ The heading above section 86 and sections 86 to 93 are repealed and the followin
     (d) if a weighted revenue basis has been used for any amount of revenue, the particulars of the weighting attached to that amount of revenue; and
     (e) the revenue amounts that have been used for the purposes of calculating, under section 93F, the amount payable by each liable person in relation to each TSO instrument; and
     (f) the percentage of the net cost under section 93E(a) or, as the case may be, the specified amount to be paid by each liable person in relation to the TSO instrument to the TSO provider in respect of the financial year calculated in accordance with section 93F.
-  (2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)(c) (for example, a net-revenue basis).
+  (2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)﻿(c) (for example, a net-revenue basis).
   The Commission must make reasonable efforts to do the following things not later than 120 working days after the end of each financial year of a TSO provider under a TSO instrument:
     (a) prepare a draft TSO cost calculation determination:
     (b) give public notice of that draft determination:
@@ -736,9 +736,9 @@ The heading above section 86 and sections 86 to 93 are repealed and the followin
   The amount payable by a liable person in relation to a TSO instrument that must be contained in the Commission's final TSO cost calculation determination made under section 93C is,—
     (a) for a TSO instrument that contains a specified amount, the amount calculated using the following formula:
     (b) for a TSO instrument that does not contain a specified amount, the amount calculated using the following formula:where—
-      (a) is the amount of the liable person's TSO-qualified revenue that is referred to in section 91(1)(b) (excluding any part of that revenue that was received for performing any obligation under a TSO instrument that contains a specified amount)
-      (b) is the amount of the TSO provider's TSO-qualified revenue referred to in section 91(1)(a) (excluding any part of that revenue that was received for performing any obligation under a TSO instrument that contains a specified amount)
-      (c) is the sum of the amounts of each liable person's TSO-qualified revenue referred to in section 91(1)(b)
+      (a) is the amount of the liable person's TSO-qualified revenue that is referred to in section 91(1)﻿(b) (excluding any part of that revenue that was received for performing any obligation under a TSO instrument that contains a specified amount)
+      (b) is the amount of the TSO provider's TSO-qualified revenue referred to in section 91(1)﻿(a) (excluding any part of that revenue that was received for performing any obligation under a TSO instrument that contains a specified amount)
+      (c) is the sum of the amounts of each liable person's TSO-qualified revenue referred to in section 91(1)﻿(b)
       (d) is the specified amount
       (e) is the amount of the reduction (if any) referred to in section 93E(c)
       (f) is the net cost referred to in section 93E(a).
@@ -759,10 +759,10 @@ Section 98(a) is amended by omitting TSP and substituting TSO provider.
 
 ### 49 Right of appeal to High Court
 (1) Section 100(1) is amended by omitting TSP wherever it appears and substituting in each case TSO provider.
-(2) Section 100(1)(a) is amended by omitting section 92(a)(i) and substituting section 93E(a).
-(3) Section 100(1)(b) is amended by omitting section 92(a)(ii) and substituting section 91(1)(a).
-(4) Section 100(1)(c) is amended by omitting section 92(b)(i) and substituting section 91(1)(b).
-(5) Section 100(1)(d) is amended by omitting section 92(b)(ii) and substituting section 93E(c).
+(2) Section 100(1)﻿(a) is amended by omitting section 92(a)﻿(i) and substituting section 93E(a).
+(3) Section 100(1)﻿(b) is amended by omitting section 92(a)﻿(ii) and substituting section 91(1)﻿(a).
+(4) Section 100(1)﻿(c) is amended by omitting section 92(b)﻿(i) and substituting section 91(1)﻿(b).
+(5) Section 100(1)﻿(d) is amended by omitting section 92(b)﻿(ii) and substituting section 93E(c).
 
 ### 50 New sections 100A to 100C inserted
 The following sections are inserted after section 100:Procedure for determinationsCommission must include information about deemed TSO instrument in TSO cost calculation determinationsDuties of Commission in complying with section 100B
@@ -788,7 +788,7 @@ The following sections are inserted after section 100:Procedure for determinatio
       (i) the person who supplied it has advised is confidential; or
       (ii) may reasonably be regarded as confidential; and
     (c) the inclusion of that information does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
-  (2) However, if the Commission considers that compliance with subsection (1)(a) will, or is likely to, prejudice compliance with subsection (1)(b) or (c), the Commission—
+  (2) However, if the Commission considers that compliance with subsection (1)﻿(a) will, or is likely to, prejudice compliance with subsection (1)﻿(b) or (c), the Commission—
     (a) may aggregate the information before it is included under section 100B; and
     (b) may do so in any manner that it thinks fit.
 
@@ -798,8 +798,8 @@ The following sections are inserted after section 100:Procedure for determinatio
     (i) calculating the net cost under section 83:
     (ii) preparing a draft determination of the net cost referred to in section 93E:
     (iii) determining the net cost referred to in section 93E:
-    (iv) preparing a draft determination of the amount of revenue referred to in section 88(1)(a) or (b):
-    (v) determining the amount of revenue referred to in section 91(1)(a) or (b).
+    (iv) preparing a draft determination of the amount of revenue referred to in section 88(1)﻿(a) or (b):
+    (v) determining the amount of revenue referred to in section 91(1)﻿(a) or (b).
 (2) Section 101(2) is amended by omitting TSP and substituting TSO provider.
 
 ### 52 Persons declared to be network operators
@@ -810,7 +810,7 @@ Section 102 is amended by repealing subsection (3) and substituting the followin
     (c) all of them are associates of each other; or
     (d) 1 of them owns or controls shares that in the aggregate carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of the others; or
     (e) a third person owns or controls shares in each of them that carry the right to exercise or control the exercise of 20% or more of the voting power at meetings of each of them.
-  (4) For the purposes of subsection (3)(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
+  (4) For the purposes of subsection (3)﻿(c), a body corporate is an associate of another if that body corporate is able, whether directly or indirectly, to exert a substantial degree of influence over the activities of the other.
   (5) A body corporate is not able to exert a substantial degree of influence over another body corporate for the purposes of subsection (4) just because—
     (a) those bodies corporate are in competition in the same market; or
     (b) 1 of them supplies goods or services to the other.
@@ -823,7 +823,7 @@ The following heading and section are inserted after section 111:Information req
   (2) In this section, major supplier—
     (a) means Telecom; and
     (b) includes a person who is declared by the Governor-General, by Order in Council made on the recommendation of the Minister, to be a major supplier for the purposes of this section.
-  (3) The Minister must not make a recommendation under subsection (2)(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
+  (3) The Minister must not make a recommendation under subsection (2)﻿(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
 
 ### 54 New Parts 4A and 4B inserted
 The following Parts are inserted after Part 4:EnforcementEnforcement of statutory and regulatory provisionsPreliminaryApplication of section 156BEnforcement actions that Commission may takeMatters that Commission must take into account in deciding what enforcement action to takeCivil infringement noticeCivil infringement noticeObjection to civil infringement noticeCommission must consider objectionEffect of withdrawal of civil infringement noticeConsequence of not paying pecuniary penalty specified in civil infringement noticeRight to appealDecision on appealCommission may publish information about issue of civil infringement noticePecuniary penaltyPecuniary penaltyFurther penalty may be imposed for continuing breachEnforcement of determinations, approved codes, and registered undertakingsInterpretationComplaints of breach of enforceable matterEnforcement by High CourtRemedies for breach of enforceable matterLimit on amount of pecuniary penaltyConsumer complaintsPreliminaryCommencement of this PartProcess to apply before Part may be commencedPurpose of this PartAppointment of consumer complaints systemInterpretationPower to exempt service providers from application of consumer complaints systemObjectives of consumer complaints systemRequirements for consumer complaints systemObligation to publish rulesDuty to notify change to rulesMinister's consideration of change of rulesConsumer complaints adjudicatorAppointment of consumer complaints adjudicatorQualification for appointment as consumer complaints adjudicatorRevocation of appointmentFunctions and duties of consumer complaints adjudicatorPowers of consumer complaints adjudicator in relation to complaintsConsumer complaints adjudicator may seek agreed settlement or order compensationRight of appealConsumer complaints levyPurpose of subpartConsumer complaints levyLate payment of consumer complaints levyMiscellaneousConsultation requirements for making Order in Council or regulation under this Part
@@ -833,8 +833,8 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
     (c) knowingly submits a standard terms proposal that fails to comply with section 30G:
     (d) fails, without reasonable excuse, to comply with a notice under section 45 or a notice requirement (if any) set out in subpart 1 of Part 2 of Schedule 1 in respect of the applicable final pricing principle:
     (e) fails, without reasonable excuse, to provide to the Commission not later than the time specified by it—
-      (i) the statement referred to in section 45(2)(b)(i):
-      (ii) all the information referred to in section 45(2)(b) (ii):
+      (i) the statement referred to in section 45(2)﻿(b)﻿(i):
+      (ii) all the information referred to in section 45(2)﻿(b) (ii):
     (f) knowingly provides false or misleading information or documents under section 45 or under the notice requirement (if any) set out in subpart 1 of Part 2 of Schedule 1 in respect of the applicable final pricing principle:
     (g) fails, without reasonable excuse, to comply with an information disclosure requirement made under section 69ZB(7), 69ZC(4), or 69ZF(2):
     (h) knowingly provides false or misleading information or documents under Part 2B:
@@ -874,25 +874,25 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
     (a) consider every objection made in accordance with section 156E; and
     (b) decide whether to refuse or accept an objection within 10 working days after the date on which the objection is made; and
     (c) promptly give written notice of its decision and the reasons for its decision to the person who made the objection.
-  (2) If the Commission refuses the objection, the notice under subsection (1)(c) must also contain the following particulars:
+  (2) If the Commission refuses the objection, the notice under subsection (1)﻿(c) must also contain the following particulars:
     (a) the address at which the pecuniary penalty may be paid or an explanation of how payment of the pecuniary penalty is to be made, or both:
     (b) a time within which the pecuniary penalty must be paid:
     (c) a statement of what may happen if the person does not pay the pecuniary penalty by that time:
     (d) a statement of the person's right to appeal, under section 156I, against the Commission's decision to refuse the objection.
-  (3) If the Commission accepts the objection, the notice under subsection (1)(c) must also contain a statement that the civil infringement notice has been withdrawn.
+  (3) If the Commission accepts the objection, the notice under subsection (1)﻿(c) must also contain a statement that the civil infringement notice has been withdrawn.
   (1) A person who has been served with a civil infringement notice is discharged from any liability for a breach specified in the notice if the Commission withdraws the notice—
     (a) on its own initiative; or
     (b) in accordance with section 156F(3).
   (2) The Commission must refund the pecuniary penalty specified in a civil infringement notice if the notice is withdrawn after the penalty was paid.
   (1) The consequence specified in subsection (2) applies if a person—
     (a) is served with a civil infringement notice; and
-    (b) fails to pay the whole, or any part, of the pecuniary penalty on or before the later of the time specified in that notice or in the notice under section 156F(1)(c).
+    (b) fails to pay the whole, or any part, of the pecuniary penalty on or before the later of the time specified in that notice or in the notice under section 156F(1)﻿(c).
   (2) The consequence is that the Commission may recover from the person, as a debt due to the Commission, in a District Court,—
     (a) the unpaid portion of the pecuniary penalty; and
     (b) the actual and reasonable costs of recovery awarded against the person by that Court.
   (3) In any proceedings for the recovery of a debt under this section, the District Court must not enter judgment in favour of the Commission unless it is satisfied that the circumstances referred to in subsection (1) exist.
   (1) A person may appeal to a District Court if the person is dissatisfied with a decision of the Commission to refuse the person's objection to a civil infringement notice.
-  (2) An appeal under subsection (1) must be brought within 20 working days after the date on which the notice under section 156F(1)(c) is given.
+  (2) An appeal under subsection (1) must be brought within 20 working days after the date on which the notice under section 156F(1)﻿(c) is given.
   (3) An appeal under subsection (1) does not operate as a stay of the civil infringement notice.
   (1) A District Court must determine an appeal under section 156I by dismissing or allowing the appeal.
   (2) If the District Court dismisses an appeal, the dismissal must be taken to be an order for the payment of the pecuniary penalty specified in the civil infringement notice to which the decision under appeal relates.
@@ -915,7 +915,7 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
     (b) the person has committed a breach of any of the provisions set out in section 156A.
   (2) In determining an appropriate penalty to be imposed under this section, the High Court must have regard to all relevant matters, including the nature and extent of any commercial gain.
   (3) The amount of ally pecuniary penalty for each act or omission must not exceed—
-    (a) $10 million for a breach referred to in subsection (1)(a); and
+    (a) $10 million for a breach referred to in subsection (1)﻿(a); and
     (b) $1 million for a breach referred to in section 156A(g) in relation to the accounting separation requirements in section 69ZB; and
     (c) $300,000 in any other case.
   (4) The standard of proof in proceedings under this section is the standard of proof that applies in civil proceedings.
@@ -923,7 +923,7 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
   (6) If conduct by a person constitutes a breach of 2 or more provisions referred to in subsection (1), proceedings may be commenced under this section against that person in relation to the breach of any 1 or more of those provisions.
   (7) However, no person is liable to more than 1 pecuniary penalty under this section for the same conduct.
   (1) In addition to a pecuniary penalty imposed under section 156L, the High Court may, for a continuing breach of any of the provisions referred to in section 156L(1), impose for each day or part of a day during which the breach continues a further penalty of—
-    (a) $500,000 for a breach referred to in section 156L(1)(a); and
+    (a) $500,000 for a breach referred to in section 156L(1)﻿(a); and
     (b) $50,000 for a breach referred to in section 156A(g) in relation to an information disclosure requirement made under section 69ZB(7), 69ZC(4), or 69ZF(2); and
     (c) $10,000 for any other case.
   (2) To avoid doubt, any further penalty under subsection (1) may be imposed only in respect of the period that—
@@ -945,13 +945,13 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
     (b) whether to take either or both of the following actions:
       (i) to amend the enforceable matter for the purpose of making a clarification (if the complaint relates, or appears to relate, to a dispute over the interpretation of the terms or conditions of the enforceable matter and the dispute has not previously been submitted to any dispute resolution procedure that is included in the enforceable matter):
       (ii) to take, or join another party in taking, enforcement action for the enforceable matter in the High Court under section 156P.
-  (3) In deciding whether to take the action referred to in subsection (2)(b)(i), the Commission must consult with interested parties.
-  (4) In deciding whether to take the action referred to in subsection (2)(b)(ii), the Commission—
+  (3) In deciding whether to take the action referred to in subsection (2)﻿(b)﻿(i), the Commission must consult with interested parties.
+  (4) In deciding whether to take the action referred to in subsection (2)﻿(b)﻿(ii), the Commission—
     (a) must consider the purpose set out in section 18; and
     (b) may consider the financial means of the complainant.
-  (5) For the purposes of subsection (2)(b)(i), section 58 applies to the enforceable matter with any necessary modifications.
+  (5) For the purposes of subsection (2)﻿(b)﻿(i), section 58 applies to the enforceable matter with any necessary modifications.
   (6) The Commission must promptly give written notice to the complainant of the Commission's decision on the complaint.
-  (7) Subsection (2)(b)(i) does not apply in the case of a separation undertaking under Part 2A.
+  (7) Subsection (2)﻿(b)﻿(i) does not apply in the case of a separation undertaking under Part 2A.
   (1) An enforceable matter may be enforced by a party or the Commission, or both, filing it in the prescribed form in the Wellington Registry of the High Court.
   (2) The Commission may,—
     (a) for a breach of a determination made under section 27 or a standard terms determination made under section 30M, enforce the enforceable matter only if it has received a complaint of the breach under section 156O; and
@@ -968,13 +968,14 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
   The amount of any pecuniary penalty imposed under section 156Q(2) must not exceed the value of any commercial gain resulting from the breach of the enforceable matter, less the amount of any compensatory damages that the Court decides to award against the person who has committed the breach.
   (1) This Part comes into force on a date to be appointed by the Governor-General, by Order in Council, made on the recommendation of the Minister in accordance with section 156T.
   (2) For the purposes of subsection (1), 1 or more Orders in Council may be made appointing different dates for different provisions or for different purposes.
-  (1) The Minister may recommend the making of an Order in Council under section 156S(1) only if the Minister is satisfied, at the time of making the recommendation, that—
-    (a) a reasonable period of time has elapsed since the commencement of the Telecommunications Amendment Act 2006 to enable the telecommunications industry to establish its own complaints resolution system; and
-    (b) any of the following applies:
-      (i) no industry-based complaints resolution system has been established during that period; or
-      (ii) an industry-based complaints resolution system has been established during that period, but in the Minister's opinion it has failed to achieve the purpose of this Part set out in section 156U and the objectives of a consumer complaints system set out in section 156X; or
-      (iii) the provisions are necessary to implement Government policy.
-  (2) The Minister may not recommend the making of an Order in Council under section 156S(1) unless the Minister is satisfied that appropriate consultation has been carried out in accordance with section 156ZJ.
+  (1) The Minister may recommend the making of an Order in Council under section 156S(1) only if the Minister is satisfied, at the time of making the recommendation, that any of the following applies:
+    (a) no industry-based complaints resolution system has been established:
+    (b) an industry-based complaints resolution system has been established, but in the Minister's opinion it has failed to achieve the purpose of this Part set out in section 156U and the objectives of a consumer complaints system set out in section 156X:
+    (c) the provisions being brought into force by the Order in Council are necessary to implement Government policy:
+    (d) the Commission has reported to the Minister under section 246(5)﻿(c) that, in relation to an industry dispute resolution scheme (as defined in Part 7),—
+      (i) the scheme fails to achieve the purpose set out in section 247; or
+      (ii) the scheme provider fails to achieve the purpose set out in section 248.
+  (2) The Minister may not recommend the making of an Order in Council under subsection (1)﻿(a) to (c) unless the Minister is satisfied that appropriate consultation has been carried out in accordance with section 156ZJ.
   (1) The purpose of this Part is to facilitate the resolution of complaints by consumers against service providers.
   (2) To that end, this Part—
     (a) facilitates the establishment of 1 or more consumer complaints systems; and
@@ -984,7 +985,9 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
     (a) appoint a system to be a consumer complaints system under this Part (with or without conditions) for a term specified by the Minister; and
     (b) set rules for the system; and
     (c) set rules about the funding of the system.
-  (2) To avoid doubt, this Part does not preclude the existence of 1 or more industry-based complaints resolution systems in addition to 1 or more systems appointed under this Part.
+  (2) To avoid doubt, this Part does not preclude—
+    (a) the existence of 1 or more industry-based complaints resolution systems in addition to 1 or more systems appointed under this Part; and
+    (b) the dispute resolution scheme provider for a Commission RSQ code being the person responsible for a consumer complaints system.
   In this Part, unless the context otherwise requires,—
     - **applicable service provider** means a service provider to whom a consumer complaints system applies
     - **consumer** means a person who is an end-user of a telecommunications service, and includes an owner or occupier for the purposes of complaints under subpart 3 of Part 4
@@ -1015,6 +1018,7 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
   (3) Any codes of practice must be available for inspection by the public, free of charge,—
     (a) at the system's head office (during ordinary office hours); and
     (b) on an Internet site in an electronic form that is publicly available at all reasonable times.
+  (4) To avoid doubt, a consumer complaints system may resolve complaints by consumers against service providers in relation to a Commission RSQ code.
   The person responsible for an appointed consumer complaints system must make copies of the rules about the system available for inspection by the public, free of charge,—
     (a) at the system's head office (during ordinary office hours); and
     (b) on an Internet site in an electronic form that is publicly available (at all reasonable times).
@@ -1022,7 +1026,7 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
   (1) After receiving a notification under section 156YB, the Minister may notify the person responsible for a system that the Minister—
     (a) approves the change; or
     (b) considers the proposed change is not adequate and does not comply with the principles listed in section 156X(2).
-  (2) If subsection (1)(b) applies, the rule change must not be made.
+  (2) If subsection (1)﻿(b) applies, the rule change must not be made.
   (3) If the Minister does not notify the person responsible for the system in accordance with subsection (1) within 45 working days of the notification of the change of rules, the change is treated as having been approved by the Minister.
   (1) The Minister may, by notice in the Gazette, appoint a person or an entity as a consumer complaints adjudicator for a term, not exceeding 2 years, that the Minister may specify.
   (2) A notice under this section must state—
@@ -1068,7 +1072,7 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
     (b) order the applicable service provider concerned to do either or both of the following:
       (i) pay compensation to the complainant:
       (ii) take any remedial action that the adjudicator thinks fit.
-  (2) Any compensation ordered to be paid under subsection (1)(b)(i) must not exceed $12,000.
+  (2) Any compensation ordered to be paid under subsection (1)﻿(b)﻿(i) must not exceed $12,000.
   (1) A complainant or an applicable service provider may appeal to a District Court if the complainant or applicable service provider is dissatisfied with the consumer complaints adjudicator's final determination of a complaint.
   (1A) For the avoidance of doubt, an appeal under subsection (1) cannot be made by either party after a binding settlement has been agreed to.
   (2) An appeal under subsection (1) must be brought within 20 working days after the date of the final determination.
@@ -1106,9 +1110,9 @@ The following Parts are inserted after Part 4:EnforcementEnforcement of statutor
   (4) A failure to comply with this section does not affect the validity of any Order in Council or regulations made.
 
 ### 55 Regulations
-(1) Section 157 is amended by inserting the following paragraphs after paragraph (c):.
+(1) Section 157 is amended by inserting the following paragraphs after paragraph (c):
   (ca) prescribing the form in which a civil infringement notice must be served under section 156D:
-  (cb) prescribing the amount of the pecuniary penalty that must be specified in a civil infringement notice under section 156D(2)(b) (which may not exceed $2,000):
+  (cb) prescribing the amount of the pecuniary penalty that must be specified in a civil infringement notice under section 156D(2)﻿(b) (which may not exceed $2,000):
   (cc) prescribing the time within and the manner in which a written objection to a civil infringement notice must be made under section 156E and the information to be included in that written objection:
   (cd) prescribing any other information that a notice published by the Commission under section 156K may contain:
   (ce) prescribing the procedures or minimum standards to be followed by a consumer complaints adjudicator in dealing with complaints under a consumer complaints system:
@@ -1137,15 +1141,15 @@ The Telecommunications (Fixed Public Data Network) Order 2004 is revoked.
 
 ### 61 Amendments to Telecommunications Operators (Commerce Commission Costs) Levy Regulations 2002
 (1) This section amends the Telecommunications Operators (Commerce Commission Costs) Levy Regulations 2002.
-(2) Regulation 4 is amended by revoking the definition of final TSO revenues and substituting the following definition:.
+(2) Regulation 4 is amended by revoking the definition of final TSO revenues and substituting the following definition:
   - **final TSO revenues** means the total of—
     (a) all TSO providers' TSO-qualified revenues; and
     (b) all liable persons' TSO-qualified revenues
-(3) Regulation 4 is amended by revoking the definition of revenue amount and substituting the following definition:.
+(3) Regulation 4 is amended by revoking the definition of revenue amount and substituting the following definition:
   - **revenue amount** , in relation to a telecommunications operator, means—
     (a) the amount of the TSO provider's TSO-qualified revenue; or
     (b) as the case may be, the amount of a liable person's TSO-qualified revenue
-(4) Regulation 9(2)(c) is amended by revoking subparagraph (i) and substituting the following subparagraph:.
+(4) Regulation 9(2)﻿(c) is amended by revoking subparagraph (i) and substituting the following subparagraph:
   (i) any costs of the Commission in relation to a determination or application for a determination that are met by the parties to the determination under section 55 of the Act; and.
 
 **Transitional provisions**
@@ -1157,7 +1161,7 @@ The Telecommunications (Fixed Public Data Network) Order 2004 is revoked.
 (2) The Commission may continue and complete the matter in accordance with—
   (a) subpart 2 of Part 2 of the principal Act (as if this Act had not been enacted); or
   (b) subpart 2A of Part 2 of the principal Act (as inserted by this Act) as if the determination under section 27 were a standard terms determination.
-(3) For the purposes of subsection (2)(b), the provisions of subpart 2A of Part 2 of the principal Act (as inserted by this Act) apply with any necessary modifications.
+(3) For the purposes of subsection (2)﻿(b), the provisions of subpart 2A of Part 2 of the principal Act (as inserted by this Act) apply with any necessary modifications.
 
 ### 63 Transitional provision for TSO determinations
 Despite the amendments made by this Act to the principal Act, the principal Act continues to apply as if those amendments had not been made in respect of any TSO determinations that were commenced, but not completed, before the commencement of this Act.
@@ -1370,11 +1374,11 @@ Despite clauses 9 and 10, the Con-mission must refuse to approve a draft code if
   (b) the Commission must, at the end of that period,—
     (i) prepare a draft report stating that the period has expired and setting out any amendments it wishes to make to the recommendation; or
     (ii) prepare a final report that includes a recommendation that the Minister should accept an undertaking under Schedule 3A and deliver that report to the Minister.
-(2) If subclause (1)(b)(i) applies, the Commission must also—
+(2) If subclause (1)﻿(b)﻿(i) applies, the Commission must also—
   (a) give public notice of the draft report; and
   (b) include in the public notice the closing date for submissions, which must not be later than 20 working days after the date of giving public notice; and
   (c) prepare, as soon as is reasonably practicable after the closing date for submissions, a final report to the Minister that contains the matters set out in the draft report and summarises, and makes recommendations on, the submissions received on the draft report.
-(3) Clause 6 again applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
+(3) Clause 6 again applies to the report referred to in subclause (1)﻿(b)﻿(ii) or (2)﻿(c), as the case may be.
 
 ### 12A Minister may request clarification of final report
 (1) After receiving a final report under clause 11, the Minister may request that the Commission—
@@ -1404,11 +1408,11 @@ Despite clauses 9 and 10, the Con-mission must refuse to approve a draft code if
   (b) the Commission must, at the end of that period,—
     (i) prepare a draft report stating that the period has expired and setting out any amendments it wishes to make to the recommendation; or
     (ii) prepare a final report that includes a recommendation that the Minister should accept an undertaking under Schedule 3A and deliver that report to the Minister.
-(2) If subclause (1)(b)(i) applies, the Commission must also—
+(2) If subclause (1)﻿(b)﻿(i) applies, the Commission must also—
   (a) give public notice of the draft report; and
   (b) include in the public notice the closing date for submissions, which must not be later than 20 working days after the date of giving public notice; and
   (c) prepare, as soon as is reasonably practicable after the closing date for submissions, a final report to the Minister that contains the matters set out in the draft report and summarises, and makes recommendations on, the submissions received on the draft report.
-(3) Clause 6 applies to the report referred to in subclause (1)(b)(ii) or (2)(c), as the case may be.
+(3) Clause 6 applies to the report referred to in subclause (1)﻿(b)﻿(ii) or (2)﻿(c), as the case may be.
 
 ## Schedule 4 — New Schedule 3A inserted
 
@@ -1421,9 +1425,9 @@ In this schedule, unless the context otherwise requires,—
     (b) includes the Commission's recommendation on—
       (i) a proposed regulatory change:
       (ii) as the case may be, an undertaking
-  - **proposed addition** has the meaning set out in clause 8(1)(b) of Schedule 3
+  - **proposed addition** has the meaning set out in clause 8(1)﻿(b) of Schedule 3
   - **proposed alteration** has the meaning set out in clause 1(1) of Schedule 3
-  - **proposed omission** has the meaning set out in clause 8(1)(a) of Schedule 3
+  - **proposed omission** has the meaning set out in clause 8(1)﻿(a) of Schedule 3
   - **proposed regulatory change** means—
     (a) a proposed alteration; or
     (b) as the case may be,—
@@ -1478,7 +1482,7 @@ If the Minister accepts the Commission's recommendation that the Minister should
 (1) The registration of an undertaking is effective for—
   (a) a period of 5 years from the date of registration; and
   (b) any further period that the Commission and the relevant access provider may agree.
-(2) The Commission must consult with every person who has a material interest in the matter before agreeing to a further period under subclause (1)(b).
+(2) The Commission must consult with every person who has a material interest in the matter before agreeing to a further period under subclause (1)﻿(b).
 (3) Despite subclause (1), the Commission may make a recommendation in the final report to the Minister that, having regard to the matters specified in subclause (4), the registration of an undertaking should expire earlier than the 5-year period referred to in subclause (1).
 (4) The matters are—
   (a) the reasonable needs of potential access seekers; and
@@ -1548,5 +1552,5 @@ An application under clause 13 must—
   (a) give public notice of the application; and
   (b) invite persons who have a material interest in the proposed regulatory change to make written submissions on the application by the closing date specified in the public notice; and
   (c) consider those submissions.
-(2) The closing date for submissions must not be earlier than 10 working days after the date on which public notice is given under subclause (1)(a).
+(2) The closing date for submissions must not be earlier than 10 working days after the date on which public notice is given under subclause (1)﻿(a).
 (3) Before determining the application, the commission must give the access provider who made the application a reasonable opportunity to amend it in light of any submissions received by the Commission under this clause.
