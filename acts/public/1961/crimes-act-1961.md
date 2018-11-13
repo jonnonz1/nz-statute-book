@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-11-13_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -2047,7 +2047,7 @@ Everyone is liable to imprisonment for a term not exceeding 3 years who intentio
   (c) storage of the recording electronically in a way that is accessible by any other person or persons.
 (4) In subsection (3), unless the context otherwise requires,—
   - **courier** means a person carrying on business as a courier
-  - **network operator** has the same meaning as in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013
+  - **network operator** has the same meaning as in section 3 of the Telecommunications (Interception Capability and Security) Act 2013
   - **postal operator** has the same meaning as in section 2(1) of the Postal Services Act 1998
   - **public data network** has the same meaning as in section 5 of the Telecommunications Act 2001
   - **service provider** —
