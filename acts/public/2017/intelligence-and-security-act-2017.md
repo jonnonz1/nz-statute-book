@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2018-11-13_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1494,7 +1494,7 @@ In this subpart, unless the context otherwise requires,—
         (D) credit card number details:
         (E) IP addresses:
         (F) billing information and records:
-        (G) call associated data (within the meaning of section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013):
+        (G) call associated data (within the meaning of section 3 of the Telecommunications (Interception Capability and Security) Act 2013):
         (H) device-related information:
         (I) details of mobile data usage:
         (J) information on linked accounts:
@@ -1519,8 +1519,8 @@ In this subpart, unless the context otherwise requires,—
         (D) the content of any other communications or files held by the financial service provider in providing any service to a customer (for example, cloud storage servers or insurance)
   - **business records direction** means a direction issued under section 150
   - **financial service provider** has the meaning given to it by section 4 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008
-  - **telecommunication** has the meaning given to it by section 5 of the Telecommunications Act 2001
-  - **telecommunications network operator** means a network operator as defined in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013.
+  - **telecommunication** has the meaning given to it by section 3 of the Telecommunications (Interception Capability and Security) Act 2013
+  - **telecommunications network operator** means a network operator as defined in section 3 of the Telecommunications (Interception Capability and Security) Act 2013.
 
 **Approval to obtain business records**
 
