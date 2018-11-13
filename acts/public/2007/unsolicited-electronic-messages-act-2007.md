@@ -1,5 +1,5 @@
 # Unsolicited Electronic Messages Act 2007
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-13_
 
 ### 1 Title
 This Act is the Unsolicited Electronic Messages Act 2007.
@@ -82,7 +82,7 @@ The purposes of this Act are to—
   - **send** includes an attempt to send
   - **service provider** means a provider of a telecommunications service
   - **services** has the same meaning as in section 2(1) of the Consumer Guarantees Act 1993
-  - **telecommunication** has the same meaning as in section 5 of the Telecommunications Act 2001
+  - **telecommunication** has the same meaning as in section 3 of the Telecommunications (Interception Capability and Security) Act 2013
   - **telecommunications service** means any goods, services, equipment, and facilities that enable or facilitate telecommunication
   - **unsolicited commercial electronic message** means a commercial electronic message that the recipient has not consented to receiving.
 (2) For the purposes of this Act, an electronic message has a New Zealand link if 1 or more of the following applies:
