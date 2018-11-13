@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2017-08-18_
+_Consolidation as at 2018-11-13_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -25,7 +25,7 @@ In this Act,—
   (d) provisions concerning determinations by the Commission in respect of those regulated telecommunications services are set out in subparts 2 to 5 of Part 2; and
   (e) provisions about altering regulated telecommunications services are set out in subpart 6 of Part 2 and Schedules 3 and 3A; and
   (ea) provisions concerning the structural separation of Telecom are set out in Part 2A; and
-  (eb) provisions about the preparation and disclosure of information are set out in Part 2B; and
+  (eb)
   (f) provisions about the supply of certain telecommunications services under TSO instruments, the enforcement of those instruments, and contributions payable by certain telecommunications service providers to the suppliers of those telecommunications services are set out in Part 3; and
   (g) provisions from Parts 1 and 1A of the 1987 Act about the following matters are set out in Part 4:
     (i) network operators and connection to, and misuse of, a network (subpart 1):
@@ -42,27 +42,44 @@ In this Act, unless the context otherwise requires,—
   - **1987 Act** means the Telecommunications Act 1987
   - **access provider** —
     (a) means, in relation to a designated service or specified service, the person named or described in Part 2, or Part 3, of Schedule 1 as the access provider for the designated service or specified service; and
-    (b) means, in relation to a service that is supplied under a registered undertaking, the person that provided the undertaking under Schedule 3A
+    (b) means, in relation to a service that is supplied under a registered undertaking, the person that provided the undertaking under Schedule 3A; and
+    (c) means, in relation to a fibre fixed line access service, the regulated fibre service provider who provides the service
   - **access seeker** —
     (a) means, in relation to a designated service or specified service, the person named or described in Part 2, or Part 3, of Schedule 1 as the access seeker for the designated service or specified service; and
-    (b) means, in relation to a service that is supplied under a registered undertaking, a service provider who seeks access to the service and who complies with any conditions set out in the registered undertaking for eligibility as an access seeker
+    (b) means, in relation to a service that is supplied under a registered undertaking, a service provider who seeks access to the service and who complies with any conditions set out in the registered undertaking for eligibility as an access seeker; and
+    (c) means, in section 155ZZD, a person who seeks access to a fibre optic cable that must be provided on an open access basis under that section; and
+    (d) means, in relation to a fibre fixed line access service, a person who seeks access to the service from the regulated fibre service provider
+  - **annual CPI adjustment** means, in relation to a price, an annual adjustment to the price that is equal to any percentage movement in the CPI as measured between—
+    (a) the CPI for the quarter that ended most recently before the price adjustment; and
+    (b) the CPI for the equivalent quarter in the preceding year
   - **applicable access principles** , in relation to a designated access service or specified service, means the access principles described in subpart 1 of Part 2, or Part 3, of Schedule 1 as the access principles for the designated access service or specified service
   - **applicable conditions** , in relation to a designated service or specified service, means the conditions set out in Part 2, or Part 3, of Schedule 1 as the conditions for the designated service or specified service
   - **applicable final pricing principle** , in relation to a designated access service, means the final pricing principle described in subpart 1 of Part 2 of Schedule 1 as the final pricing principle for the designated access service
   - **applicable initial pricing principle** , in relation to a designated access service, means the initial pricing principle described in subpart 1 of Part 2 of Schedule 1 as the initial pricing principle for the designated access service
+  - **appropriation period** means, in relation to a cost,—
+    (a) a financial year; or
+    (b) if the cost will be incurred under the authority of a multi-year appropriation or of a multi-year appropriation proposed in any Estimates, the financial years to which the multi-year appropriation applies
   - **approved code** —
     (a) means a telecommunications access code that has been approved by the Commission under clause 9 or clause 10 of Schedule 2; and
     (b) includes any amendment to an approved code that has been approved under either of those clauses
   - **auditor's report** has the meaning set out in section 83(b)
   - **broadcasting** has the same meaning as in section 2(1) of the Broadcasting Act 1989
-  - **chief executive** means the chief executive of the Ministry of Economic Development
   - **Commission** means the Commerce Commission established by section 8 of the Commerce Act 1986
+  - **Commission 111 contact code** means a code made by the Commission under section 238
+  - **Commission code** means either of the following:
+    (a) a Commission 111 contact code:
+    (b) a Commission retail service quality code
+  - **Commission retail service quality code** or means a retail service quality code made by the Commission under Part 7
   - **computer record** has the meaning set out in section 116(2)
+  - **copper fixed line access services** means the following (as they are described in subpart 1 of Part 2 of Schedule 1):
+    (a) Chorus’s unbundled bitstream access:
+    (b) Chorus’s unbundled copper low frequency service
   - **CPI** means the Consumers Price Index (All Groups) published by Statistics New Zealand
   - **deemed TSO instrument** has the meaning set out in section 71
   - **designated access service** means a service described in subpart 1 of Part 2 of Schedule 1
   - **designated multinetwork service** means a service described in subpart 2 of Part 2 of Schedule 1
   - **designated service** means a designated access service or designated multinetwork service
+  - **document** , except in section 69XQ, has the same meaning as in section 2(1) of the Commerce Act 1986
   - **draft code** —
     (a) means a draft telecommunications access code prepared by the Forum under clause 1 of Schedule 2; and
     (b) includes a proposed amendment to, or proposed revocation of, an approved code
@@ -70,6 +87,9 @@ In this Act, unless the context otherwise requires,—
     (a) registered with the Commission for the purpose of voting on a draft code under clause 4 of Schedule 2; and
     (b) a member of the Forum
   - **end-user** , in relation to a telecommunications service, means a person who is the ultimate recipient of that service or of another service whose provision is dependent on that service
+  - **Estimates** means—
+    (a) Estimates as defined in section 2(1) of the Public Finance Act 1989; and
+    (b) Supplementary Estimates as defined in section 2(1) of that Act
   - **existing lines** —
     (a) means any lines constructed by Telecom or any of its former subsidiaries before 1 April 1989; and
     (b) includes any lines that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 April 1989
@@ -77,10 +97,18 @@ In this Act, unless the context otherwise requires,—
     (a) means a Telecom residential line (other than a party line or a second line) that was an active connection on 20 December 2001; and
     (b) to avoid doubt, includes any such line that has been replaced or altered since 20 December 2001
   - **existing works** —
-    (a) means any works relating to the provision of telecommunications under the Post Office Act 1959 (or any former Act) that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 January 1988; and
-    (b) includes, for the purposes of subpart 2 of Part 4, any works relating to any conveyance that constitutes broadcasting under the Post Office Act 1959 (or any former Act) that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 January 1988; but
+    (a) means any works relating to the provision of telecommunications under the Post Office Act 1959 (or any former Act) that were wholly or partly in existence, or for which work on the construction, erection, or laying commenced, before 1 January 1988; but
+    (b)
     (c) does not include any works that, after that date, have been altered or moved or added to in a way that substantially alters their character or location, as the case may be; and
     (d) in subpart 4 of Part 4, has the same meaning as in section 155ZS
+  - **fibre fixed line access service** —
+    (a) means a telecommunications service that enables access to, and interconnection with, a regulated fibre service provider’s fibre network; but
+    (b) does not include the following:
+      (i) a telecommunications service provided by a regulated fibre service provider (F) if the ultimate recipient of the service is F or a related party of F (as if the test for related parties were the same as the test in section 69U, applied with any necessary modifications):
+      (ii) a telecommunications service provided, in any part other than a part located within an end-user’s premises or building, over a copper line:
+      (iii) a telecommunications service used exclusively in connection with a service described in paragraph (ii)
+  - **fibre handover point** means the external network-to-network interface (or equivalent facility) located at the specified point of interconnection for the relevant end-user’s premises, building, or other access point that enables access to, and interconnection with, a regulated fibre service provider’s fibre network
+  - **fibre network** means a network structure used to deliver telecommunications services over fibre media that connects the user-network interface (or equivalent facility) of an end-user’s premises, building, or other access point to a regulated fibre service provider’s fibre handover point
   - **fibre-to-the-premises access network** has the meaning set out in section 156AB
   - **financial year** means a period of 12 months beginning on 1 July in any year and ending on 30 June in the following year
   - **fixed PDN** —
@@ -91,6 +119,10 @@ In this Act, unless the context otherwise requires,—
     (b) includes those local switches or equivalent facilities
   - **fixed radio station** means radio apparatus comprising transmitters or receivers, or a combination of transmitters and receivers, installed at a fixed location, for the purposes of carrying on a radiocommunications service
   - **Forum** means the Telecommunications Industry Forum, which is a group that consists of at least 75% of all persons who are, for the time being, registered with the Commission for the purpose of voting on a draft code under clause 4 of Schedule 2
+  - **implementation date** means the later of—
+    (a) 1 January 2020; and
+    (b) any date specified by the Minister in accordance with clause 9 of Part 2 of Schedule 1AA
+  - **industry retail service quality code** or means a retail service quality code made by the Forum
   - **liability allocation determination** means a determination of the Commission prepared in accordance with section 87(1)﻿(a)
   - **liable person** means a person who provides a telecommunications service in New Zealand by means of some component of a PTN that is operated by the person
   - **line** —
@@ -101,6 +133,7 @@ In this Act, unless the context otherwise requires,—
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the Ministry responsible for administering this Act
+  - **multi-year appropriation** means an appropriation authorised to apply for more than 1 financial year (see section 10 of the Public Finance Act 1989)
   - **net cost** ,—
     (a) in relation to an instrument that is declared to be a TSO instrument under section 70, means the unavoidable net incremental cost to an efficient service provider of providing the service required by the TSO instrument to commercially non-viable end-users; and
     (b) in relation to a deemed TSO instrument that requires the supply of a service to end-users, means the unavoidable net incremental cost to an efficient service provider of providing the service required by the TSO instrument to all end-users connected to existing residential lines; and
@@ -111,7 +144,7 @@ In this Act, unless the context otherwise requires,—
     (a) section 105 to be a network operator for the purposes of this Act or any provision of this Act; or
     (b) section 2A of the 1987 Act (as it read immediately before the commencement of this Act) to be a network operator for the purposes of that Act or any provision of that Act
   - **party** or means,—
-    (a) for a determination made under section 27 or a residual terms determination made under section 30ZB, the access seeker and the access provider of the service; and
+    (a) for a determination made under section 27, the access seeker and the access provider of the service; and
     (b) for a standard terms determination made under section 30M, a designated multinetwork service determination made under section 39, or an approved code under Schedule 2, all access seekers and all access providers of the service (whether they became an access seeker or an access provider before or after the determination was made or the code was approved); and
     (c) for a registered undertaking under Schedule 3A, the access provider of the service and the Commission
   - **PDN** or means a data network used, or intended for use, in whole or in part, by the public
@@ -129,26 +162,40 @@ In this Act, unless the context otherwise requires,—
       (ii) a PDN
   - **public notice** has the meaning set out in section 6
   - **qualified auditor** means a person who is qualified for appointment as an auditor in accordance with any prescribed requirements or, if there are no prescribed requirements, any requirements of the Commission
-  - **qualified revenue** means the revenue (as determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to the liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount):
+  - **qualified revenue** means the revenue (as determined in accordance with any specifications set by the Commission) that a liable person receives during a financial year for supplying either or both of the following (excluding any amount paid to the liable person by the Crown as compensation for the cost of complying with a TSO instrument that contains a specified amount and excluding any amount under section 85A):
     (a) telecommunications services by means of its PTN:
     (b) telecommunications services by means that rely primarily on the existence of its PTN or any other PTN
   - **radio frequency** means electromagnetic waves of frequencies between 9 kilohertz and 3 000 gigahertz, propagated in space without artificial guide
   - **registered undertaking** has the meaning set out in clause 1 of Schedule 3A
+  - **regulated fibre service provider** means a person who is prescribed in regulations made under section 226 as being subject to 1 or both of the following:
+    (a) information disclosure regulation:
+    (b) price-quality regulation
+  - **retail service quality** , in relation to a telecommunications service, means the quality of retail service provided to an end-user of the service, including in relation to the following:
+    (a) customer service and fault service levels:
+    (b) installation issues:
+    (c) contract issues:
+    (d) product disclosure:
+    (e) billing:
+    (f) the switching process and related information:
+    (g) service performance, speed, and availability
+  - **retail service quality code** means a code of conduct relating to retail service quality that applies to the provision of 1 or more types of telecommunications service
   - **road** includes—
     (a) a street and any other place to which the public have access, whether as of right or not; and
     (b) land that is vested in a local authority for the purpose of a road as shown on a deposited survey plan; and
     (c) all bridges, culverts, ferries, and fords that form part of any road, street, or any other place referred to in paragraph (a) or paragraph (b)
   - **service provider** , except in subpart 3 of Part 4 and Part 4AA, means a provider of a telecommunications service
+  - **Spark** —
+    (a) means Spark New Zealand Limited (the company previously known, before 8 August 2014, as Telecom); and
+    (b) includes any of its subsidiaries
   - **specified amount** has the meaning set out in section 71A
+  - **specified fibre area** means an area that has been declared by the Commission, under section 69AB, to be a specified fibre area
+  - **specified point of interconnection** means a point of interconnection prescribed under section 231
   - **specified service** means a service described in Part 3 of Schedule 1
   - **subsidiary** has the same meaning as in sections 5 and 6 of the Companies Act 1993
   - **Telecom** —
     (a) means Telecom Corporation of New Zealand Limited; and
     (b) includes any of its subsidiaries
-  - **telecommunication** —
-    (a) means the conveyance by electromagnetic means from one device to another of any encrypted or non-encrypted sign, signal, impulse, writing, image, sound, instruction, information, or intelligence of any nature, whether for the information of any person using the device or not; and
-    (b) for the purposes of subpart 2 of Part 4, includes any conveyance that constitutes broadcasting; but
-    (c) for all other purposes, does not include any conveyance that constitutes broadcasting
+  - **telecommunication** means the conveyance by electromagnetic means from one device to another of any encrypted or non-encrypted sign, signal, impulse, writing, image, sound, instruction, information, or intelligence of any nature, whether for the information of any person using the device or not
   - **telecommunication link** means any line, radio frequency, or other medium used for telecommunication
   - **telecommunications access code** has the meaning set out in section 7(1)
   - **Telecommunications Commissioner** means the Telecommunications Commissioner appointed under section 9(3)
@@ -162,6 +209,11 @@ In this Act, unless the context otherwise requires,—
     (a) an instrument that is declared to be a TSO instrument under section 70:
     (b) a deemed TSO instrument
   - **TSO provider** or means a provider of a telecommunications service under a TSO instrument
+  - **UFB initiative** —
+    (a) means the competitive tender programme, known as the Ultra-fast Broadband Initiative, to develop fibre-to-the-premises broadband networks connecting 75% of New Zealand households, with the support of $1.5 billion of Crown investment funding; and
+    (b) includes—
+      (i) the extension to that programme known as UFB 2, to develop fibre-to-the-premises networks connecting at least 80% of New Zealand households (which, to avoid doubt, includes the extension to UFB 2 known as UFB 2+); and
+      (ii) any other extension to the programme
   - **wireless works** means any works relating to the provision of any wireless or mobile telecommunications services
   - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
@@ -175,10 +227,14 @@ In this Act, unless the context otherwise requires,—
     (b) a fixed radio station.
 
 ### 6 Public notice
-(1) Subject to subsection (2), if, under this Act, the Commission is required to give public notice of any matter, the Commission must—
-  (a) publish a notice of the matter, or cause a notice of the matter to be published, in the Gazette; and
-  (b) at all reasonable times, make the matter available for inspection on the Commission's website in an electronic form that is publicly accessible.
-(2) If the Commission is required to give public notice of any matter under this Act, nothing in this Act requires the Commission to include in that public notice any information that would, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the person who supplied, or who is the subject of, the information.
+(1) If, under this Act, the Commission is required to give public notice of a matter, the Commission must—
+  (a) notify the matter in the Gazette; and
+  (b) at all reasonable times, ensure that the full text of the matter is available on an Internet site maintained by or on behalf of the Commission.
+(2) A notification of a matter for the purpose of subsection (1)﻿(a) must include—
+  (a) the text of the matter; or
+  (b) a summary of the text and a description of where the full text may be viewed on the Internet (for example, an Internet link).
+(3) If a provision of this Act refers to the date on which public notice of a matter is given, the relevant date is the date of its notification in the Gazette.
+(4) Despite subsections (1) and (2), nothing in this Act requires the Commission to include in a public notice any information that would, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the person who supplied, or who is the subject of, the information.
 
 ### 7 Telecommunications access codes
 (1) In this Act, telecommunications access code means an access code for 1 or more—
@@ -209,8 +265,11 @@ This Act binds the Crown.
 (1) In addition to the other functions conferred on the Commission by this Act, the Commission—
   (a) must monitor competition in telecommunications markets and the performance and development of telecommunications markets; and
   (b) may conduct inquiries, reviews, and studies (including international benchmarking) into any matter relating to the telecommunications industry or the long-term benefit of end-users of telecommunications services within New Zealand; and
-  (c) must make available reports, summaries, and information about the things referred to in paragraphs (a) and (b).
-(2) The function in subsection (1)﻿(c) does not require the Commission to release all documents that the Commission produces or acquires under this section.
+  (c) must monitor compliance with the Commission 111 contact code; and
+  (d) must make available reports, summaries, and information about the things referred to in paragraphs (a) to (c); and
+  (e) must monitor retail service quality in relation to telecommunications services; and
+  (f) must make available reports, summaries, and information about retail service quality in a way that informs consumer choice.
+(2) The functions in subsection (1)﻿(d) and (f) do not require the Commission to release all documents that the Commission produces or acquires under this section or section 10A.
 
 ### 10 Performance of Commission's functions
 (1) Subject to subsection (2) and sections 15 and 17,—
@@ -219,49 +278,60 @@ This Act binds the Crown.
     (ii) make every pricing review determination under section 51; and
     (iii) make every liability allocation determination under section 87; and
     (iv) make every TSO cost calculation determination under section 94J; and
+    (v) make every determination in respect of fibre fixed line access services under Part 6; and
   (ab) the determinations referred to in paragraph (a) must, if the Telecommunications Commissioner and the other members of the Commission are not unanimous in their view, be made in accordance with the majority view; and
   (b) the Telecommunications Commissioner must report to the Minister about every proposed alteration to Schedule 1 in any of the ways set out in sections 66 and 67 following consideration by the Telecommunications Commissioner and no fewer than 2 other members of the Commission in accordance with clause 4 of Schedule 3, and—
     (i) the recommendation included in the final report to the Minister must be supported by the majority of the Telecommunications Commissioner and the other members of the Commission; and
     (ii) the final report must include the majority view and any dissenting views; and
   (c) every function of the Commission under this Act (other than any of the functions set out in paragraphs (a) and (b)) must be performed—
     (i) by the Telecommunications Commissioner alone; or
-    (ii) if the Telecommunications Commissioner requests the chairperson of the Commission to make 2 other members of the Commission available for the performance of a particular function and the chairperson agrees to that request, by the Telecommunications Commissioner and 2 other members of the Commission.
+    (ii) if the Telecommunications Commissioner requests the chairperson of the Commission to make 2 or more other members of the Commission available for the performance of a particular function and the chairperson agrees to that request, by the Telecommunications Commissioner and those other members of the Commission.
 (2) If there is no Telecommunications Commissioner or if the Telecommunications Commissioner is for any reason unable to perform the functions of the Commission that would otherwise have been performed by him or her under this Act,—
   (a) those functions must be performed by the chairperson of the Commission; and
   (b) every reference in this Act to the Telecommunications Commissioner must, unless the context otherwise requires, be read as a reference to the chairperson of the Commission.
 (3) The chairperson of the Commission is responsible for determining which members of the Commission, other than the Telecommunications Commissioner, must perform the functions referred to in subsection (1).
 (4) The quorum requirements in section 15(4) of the Commerce Act 1986 do not apply if the Telecommunications Commissioner is performing functions alone under section 10(1)﻿(c)﻿(i).
 
+### 10A Power to require supply of information to support functions of monitoring and reporting on retail service quality
+For the purpose of carrying out its functions under section 9A(1)﻿(e) and (f), the Commission may, in addition to exercising any of its other powers under this Act, by notice in writing, require any provider of telecommunications services to—
+  (a) prepare and produce forecasts, forward plans, historical information, or other information; and
+  (b) apply any methodology or format specified by the Commission in the preparation of forecasts, forward plans, historical information, or other information.
+
 **Levy**
 
 ### 11 Levy
-(1) Every service provider, or class of service providers, specified in regulations made under subsection (3) must pay to the Minister, in each financial year or part financial year (as the case may require), a levy of an amount stated in, or calculated or set or reset in accordance with, those regulations for, or in connection with,—
+(1) Every service provider, or class of service providers, specified in regulations made under subsection (3) must pay to the Minister, in each appropriation period or part appropriation period (as the case may require), a levy of an amount stated in, or calculated or set or reset in accordance with, those regulations for, or in connection with,—
   (a) the performance of the Commission's functions and duties under this Act; and
   (b) the exercise of the Commission's powers under this Act.
-(2) Subsection (1) applies irrespective of the fact that the regulations are made and come into effect after the date on which the financial year or part financial year commences.
+(2) Subsection (1) applies irrespective of the fact that the regulations are made and come into effect after the date on which the appropriation period or part appropriation period commences.
 (3) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) specifying the amounts of levies payable under this section:
   (b) providing for the method by which those levies will be calculated:
   (c) specifying the criteria and other requirements by and against which those levies will be set or reset:
-  (d) specifying the financial year or part financial year to which those levies apply:
+  (d) specifying the appropriation period or part appropriation period to which those levies apply:
   (e) providing for the payment and collection of those levies:
   (f) exempting any service provider or class of service providers from paying levies under this section:
   (g) providing for waivers or refunds of the whole or any part of any levy paid by any service provider or class of service providers under this section.
 
-### 12 Levy for first financial year or part financial year
-(1) Every service provider, or class of service providers, specified in regulations made under subsection (3) must pay to the Minister, for the first financial year or part financial year (as the case may require), a levy of an amount stated in, or calculated or set or reset in accordance with, those regulations for, or in connection with,—
-  (a) the preparation of the performance of, and the performance of, the Commission's functions and duties under this Act; and
-  (b) the preparation of the exercise of, and the exercise of, the Commission's powers under this Act.
-(2) The levy for the first financial year or part financial year may include the costs incurred from 30 June 2001 by the Commission for, or in connection with, the matters set out in subsection (1)﻿(a) or (b).
-(3) Subsections (1) and (2) apply irrespective of the fact that the regulations are made and come into effect after the date on which the first financial year or part financial year commences.
+### 12 Levy for appropriation period beginning 1 July 2018
+(1)
+(2)
+(3)
+(3A) Every service provider, or class of service providers, specified in regulations made under subsection (4) must pay to the Minister, for the appropriation period beginning on 1 July 2018, a levy of an amount stated in, or calculated or set or reset in accordance with, those regulations for, or in connection with,—
+  (a) the preparation of the performance of, and the performance of, the Commission’s functions and duties under Parts 2AA, 6, and 7; and
+  (b) the preparation of the exercise of, and the exercise of, the Commission’s powers under Parts 2AA, 6, and 7.
+(3B) Subsection (3A) applies irrespective of whether that subsection, and the regulations made under subsection (4), come into effect before, on, or after 1 July 2018.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
   (a) specifying the amount of levy payable under this section:
   (b) providing for the method by which the levy will be calculated:
   (c) specifying the criteria and other requirements by and against which the levy will be set or reset:
-  (d) specifying the first financial year or part financial year to which the levy applies:
+  (d) specifying the first appropriation period or part appropriation period to which the levy applies:
   (e) providing for the payment and collection of the levy:
   (f) exempting any service provider or class of service providers from paying the levy under this section:
   (g) providing for waivers or refunds of the whole or any part of any levy paid by any service provider or class of service providers under this section.
+(5) The Minister must not recommend that regulations be made under this section unless the Minister is satisfied that the levy will not require a service provider, or a class of service providers, to pay a levy in respect of the same period under both this section and section 11 for, or in connection with,—
+  (a) the performance of the Commission’s functions and duties under Parts 2AA, 6, and 7; or
+  (b) the exercise of the Commission’s powers under Parts 2AA, 6, and 7.
 
 ### 13 Minister must consult before making recommendation under section 11(3) or section 12(4)
 The Minister must not make any recommendation under section 11(3) or section 12(4) without first consulting those persons and organisations that the Minister considers appropriate having regard to the subject matter of the proposed regulations.
@@ -274,7 +344,7 @@ The Minister must not make any recommendation under section 11(3) or section 12(
 **Application of Commerce Act 1986**
 
 ### 15 Application of Commerce Act 1986 and Crown Entities Act 2004
-The following provisions of the Commerce Act 1986 apply with any necessary modifications:
+((1)) The following provisions of the Commerce Act 1986 apply with any necessary modifications:
   (a)
   (b) section 13 (termination of appointment of members):
   (c)
@@ -295,6 +365,14 @@ The following provisions of the Commerce Act 1986 apply with any necessary modif
   (o) section 106 (proceedings privileged):
   (p) section 106A (judicial notice):
   (q) section 109 (Commission may prescribe forms).
+(2) The following provisions of the Commerce Act 1986 apply, with any necessary modifications, as specified in Part 6 of this Act:
+  (a) section 77 (additional lay members of High Court for purposes of appellate jurisdiction in respect of Commission determinations):
+  (b) sections 79A and 79B:
+  (c) sections 88, 88A, and 90:
+  (d) sections 93 to 97:
+  (e) Schedule 5.
+(3) Sections 88 and 88A of the Commerce Act 1986 apply, with any necessary modifications, as specified in section 156MD.
+(4) For the purposes of subsection (1)﻿(l), the necessary modifications referred to in that subsection include (without limitation) treating a notice under any of sections 10A, 187(1)﻿(c), 193, and 221 of this Act as a notice referred to in section 103(1)﻿(a) of the Commerce Act 1986.
 
 ### 16 Application of section 98A of Commerce Act 1986
 A search warrant may be issued under section 98A(2) of the Commerce Act 1986, and powers may be exercised under that warrant, only for the purposes of—
@@ -318,13 +396,13 @@ If there is a Telecommunications Commissioner, the Telecommunications Commission
 (4) Subsection (3) is for the avoidance of doubt.
 
 ### 19 Commission and Minister must consider purpose set out in section 18 and additional matters
-If the Commission or the Minister (as the case may be) is required under this Part or any of Schedules 1, 3, and 3A to make a recommendation, determination, or a decision, the Commission or the Minister must—
+If the Commission or the Minister (as the case may be) is required under this Part, Part 2AA, or any of Schedules 1, 3, and 3A to make a recommendation, determination, or a decision, the Commission or the Minister must—
   (a) consider the purpose set out in section 18; and
   (b) if applicable, consider the additional matters set out in Schedule 1 regarding the application of section 18; and
   (c) make the recommendation, determination, or decision that the Commission or Minister considers best gives, or is likely to best give, effect to the purpose set out in section 18.
 
 ### 19A Commission to have regard to economic policies of Government
-(1) In the exercise of its powers under Schedule 3, the Commission must have regard to any economic policies of the Government that are transmitted, in writing, to the Commission by the Minister.
+(1) In the exercise of its powers under Part 6 and Schedule 3, the Commission must have regard to any economic policies of the Government that are transmitted, in writing, to the Commission by the Minister.
 (2) The Minister must, as soon as practicable after transmitting a statement of economic policy of the Government to the Commission under subsection (1),—
   (a) arrange for a copy of that statement to be published in the Gazette; and
   (b) present a copy of that statement to the House of Representatives.
@@ -350,7 +428,7 @@ An application by an access seeker or an access provider of a designated access 
   (c) that person has not made reasonable attempts to negotiate the terms of supply of the service with the person who would otherwise be a party to the determination; or
   (ca) the standard terms development process for the service is proceeding or a standard terms determination for the service is in force; or
   (d) the applicable conditions in relation to the service (if any) have not been met.
-(2) However, subsection (1)﻿(ca) does not prevent a person from applying for a residual terms determination under section 30V.
+(2)
 (3) The Commission may investigate whether subsection (1)﻿(d) applies either at the time—
   (a) it receives an application made under section 20; or
   (b) it prepares a determination under section 27.
@@ -446,8 +524,8 @@ A determination must, in the opinion of the Commission,—
   (a) provides a process for the development of standard terms for the supply of the service (sections 30C to 30J):
   (b) provides for the Commission to make, and review, a standard terms determination (sections 30K to 30R):
   (c) specifies how a standard terms determination is to apply (section 30S):
-  (d) clarifies the interface between a determination made under section 27 and a standard terms determination (section 30T):
-  (e) provides a mechanism that allows parties to a standard terms determination to apply for a residual terms determination if they wish to adjust, as between themselves, the application of terms specified in the standard terms determination (sections 30U to 30ZD).
+  (d) clarifies the interface between a determination made under section 27 and a standard terms determination (section 30T).
+  (e)
 (3) This section is intended only as a guide to the general scheme and effect of this subpart.
 
 ### 30B Interpretation
@@ -584,7 +662,7 @@ If the Commission considers that persons other than the parties to the determina
   (b) the consequences of a breach of the determination (including provision for set-off or withholding rights, or liquidated damages):
   (c) suspension and termination of the service:
   (d) procedures for, or restrictions on, assignment of the service.
-(3) The Commission must identify which of the terms (if any) specified in a standard terms determination are allowed to be varied, on an application made under section 30V by a party to that determination, under a residual terms determination.
+(3)
 
 ### 30P Additional matters to be included in standard terms determination for designated access service
 (1) In addition to the matters set out in section 30O, a standard terms determination for a designated access service must also include,—
@@ -605,8 +683,8 @@ A standard terms determination must not include an expiry date for the determina
 (1) The Commission may, on its own initiative, commence a review, at any time, of all or any of the terms specified in a standard terms determination.
 (2) The Commission may replace a standard terms determination or vary, add, or delete any of its terms, if it considers it necessary to do so after conducting a review.
 (3) In exercising the power conferred by subsection (2), the Commission may specify how and when a replacement standard terms determination, or a variation, addition, or deletion of terms specified in the determination, takes effect in relation to—
-  (a) the initial standard terms determination:
-  (b) any relevant residual terms determination.
+  (a) the initial standard terms determination.
+  (b)
 (4) The Commission may conduct a review in the manner, and within the time, that it thinks fit.
 (5) The Commission must—
   (a) consult all parties to the determination on the review; and
@@ -623,8 +701,8 @@ A standard terms determination must not include an expiry date for the determina
 (2) However, subsection (1) does not apply if,—
   (a) after the date on which the standard terms determination for the service was made, the access seeker and the access provider entered into an agreement for the supply of the service; and
   (b) it is less than 18 months since the date on which that agreement came into force.
-(3) In complying with a request from an access seeker under subsection (1), the access provider must, if the Commission has made a residual terms determination for the service under section 30ZB in relation to that access seeker and that access provider, supply the service to that access seeker on the terms specified in that determination, as well as on the terms specified in the standard terms determination.
-(4) However, if there is any inconsistency between the terms specified in a residual terms determination in relation to that access seeker and that access provider and the terms specified in a standard terms determination, the terms specified in the residual terms determination prevail.
+(3)
+(4)
 
 ### 30T Effect of standard terms determination on determination made under section 27
 (1) This section applies if—
@@ -637,76 +715,34 @@ A standard terms determination must not include an expiry date for the determina
 **Residual terms determination**
 
 ### 30U Purpose of residual terms determination
-(1) The purpose of a residual terms determination is to allow the Commission, on the application of a party to a standard terms determination, to adjust the terms for the supply of a designated access service or specified service that are specified in the standard terms determination.
-(2) To that end, a residual terms determination may—
-  (a) address matters that were not addressed in the standard terms determination; and
-  (b) vary any terms in the standard terms determination that the Commission has identified under section 30O(3) as being allowed to be varied.
+[Repealed]
 
 ### 30V Application for residual terms determination
-(1) An access seeker of a designated access service or specified service who is a party to a standard terms determination may apply to the Commission for a residual terms determination of any terms on which the service must be supplied.
-(2) If an access seeker applies for a residual terms determination under subsection (1), the access provider of the service may also apply to the Commission for a residual terms determination of any terms on which the access provider considers the service must be supplied.
-(3) To avoid doubt, an application under this section—
-  (a) may only be made if the Commission has made a standard terms determination for the service; and
-  (b) may seek either or both of the following:
-    (i) a determination of matters that were not addressed in the standard terms determination:
-    (ii) a variation of any terms in the standard terms determination that the Commission has identified under section 30O(3) as being allowed to be varied.
+[Repealed]
 
 ### 30W When application may not be made
-(1) Despite section 30V, no person may apply for a residual terms determination if—
-  (a) all of the following apply:
-    (i) the persons who would otherwise be parties to the determination have an agreement for the supply of the service; and
-    (ii) that agreement was entered into after the date on which the relevant standard terms determination was made; and
-    (iii) it is less than 18 months since the date on which that agreement came into force; or
-  (b) that person has not made reasonable attempts to negotiate the terms that are sought in the application for the residual terms determination with the person who would otherwise be a party to that determination; or
-  (c) that person has previously applied for a residual terms determination for the service and it is less than 18 months since the date on which that determination was made; or
-  (d) it is less than 18 months since the date on which the access provider began to supply the service on the terms specified in the standard terms determination in accordance with a request made by the access seeker under section 30S(1); or
-  (e) the applicable conditions in relation to the service (if any) have not been met.
-(2) However, subsection (1)﻿(d) does not prevent an access seeker from applying for a residual terms determination at any time before the access provider begins to supply the service on the terms specified in a standard terms determination in accordance with a request made by the access seeker under section 30S(1).
+[Repealed]
 
 ### 30X Requirements for application
-An application made under section 30V must—
-  (a) be in writing; and
-  (b) be given in the prescribed manner, if any; and
-  (c) contain the prescribed information, if any; and
-  (d) be accompanied by the prescribed fee, if any.
+[Repealed]
 
 ### 30Y Commission must notify parties
-On receiving an application made in accordance with section 30X, the Commission must—
-  (a) notify the parties to the determination in writing that the application has been received; and
-  (b) provide a copy of the application to the other party to the determination; and
-  (c) request the parties to the determination to comment on the matter by written notice to the Commission not later than 10 working days after receipt of the notice from the Commission.
+[Repealed]
 
 ### 30Z Commission must decide whether to investigate
-(1) The Commission must make reasonable efforts to do the following things not later than 10 working days after the date by which the parties may comment on the application:
-  (a) decide whether or not to investigate the matter:
-  (b) give written notice of its decision to the parties:
-  (c) give public notice of its decision:
-  (d) request the parties to the residual terms determination to make submissions on the matter by written notice to the Commission not later than 10 working days after receipt of the notice of decision from the Commission.
-(2) Subsection (1)﻿(d) applies only if the Commission has decided under subsection (1)﻿(a) to investigate the matter.
+[Repealed]
 
 ### 30ZA Consultation or conferences
-If the Commission considers that persons other than the parties to the determination have a material interest in the residual terms determination, the Commission may either consult those persons or hold conferences in relation to the matter.
+[Repealed]
 
 ### 30ZB Preparation of residual terms determination
-After investigating the matter, the Commission must—
-  (a) prepare a residual terms determination; and
-  (b) give a copy of the determination to the parties to the determination; and
-  (c) give public notice of the determination.
+[Repealed]
 
 ### 30ZC Requirements for residual terms determination
-A residual terms determination must, in the opinion of the Commission,—
-  (a) be made in accordance with—
-    (i) the applicable access principles and any limits on those applicable access principles; and
-    (ii) any regulations made in respect of the applicable access principles and any limits on those applicable access principles; and
-  (b) comply with any relevant approved codes.
+[Repealed]
 
 ### 30ZD Matters to be included in residual terms determination
-A residual terms determination must include—
-  (a) the terms on which the service must be supplied; and
-  (b) the reasons for the determination; and
-  (c) the terms and conditions (if any) on which the determination is made; and
-  (d) the actions (if any) that a party to the determination must take or refrain from taking; and
-  (e) the expiry date of the determination.
+[Repealed]
 
 ### Subpart 3 — Determinations for designated multinetwork services
 
@@ -994,7 +1030,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
       (A) the applicable access principles; and
       (B) the limits (if any) on the applicable access principles; and
     (v) in the case of a service being added to subpart 1 of Part 2 of Schedule 1,—
-      (A) the applicable initial pricing principle; and
+      (A) any applicable initial pricing principle; and
       (B) the applicable final pricing principle; and
       (C) any requirement referred to in section 45 for the applicable final pricing principle; and
       (D) any additional matters that must be considered regarding the application of section 18:
@@ -1006,7 +1042,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
     (iv) the description of access providers:
     (v) the description of the applicable access principles:
     (vi) the description of the limits (if any) on the applicable access principles:
-    (vii) the applicable initial pricing principle and the applicable final pricing principle:
+    (vii) any applicable initial pricing principle and the applicable final pricing principle:
     (viii) any requirement referred to in section 45 for the applicable final pricing principle:
     (ix) any additional matters that must be considered regarding the application of section 18.
 
@@ -1036,6 +1072,110 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (f) providing requirements relating to the information that must be provided to the Commission in relation to all or any of the matters referred to in paragraphs (a) to (e):
   (g) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
 (2) The Minister must not make a recommendation under subsection (1) unless the Commission has recommended the making of the regulations.
+
+## Part 2AA — Deregulating copper fixed line access services
+
+### Subpart 1 — Purpose
+
+### 69AA Purpose
+The purpose of this Part is to—
+  (a) deregulate copper fixed line access services in areas where fibre fixed line access services are available; and
+  (b) provide protections for end-users of copper fixed line access services and certain other designated services in deregulated areas; and
+  (c) provide for the Commission to investigate whether the regulation of copper fixed line access services and certain other designated services should be altered.
+
+### Subpart 2 — Deregulating copper fixed line access services
+
+### 69AB Specified fibre areas
+(1) The Commission must, before 1 January 2020 and at least annually thereafter, carry out an assessment to determine the geographic areas in which a specified fibre service is available to end-users.
+(2) The Commission must, by public notice, declare an area to be a specified fibre area if the Commission determines in an assessment under subsection (1) that a specified fibre service is available to end-users in the area.
+(3) A notice under this section must specify the date on and after which the area is to be a specified fibre area, and that date must not be before 1 January 2020.
+(4) A notice under this section may describe an area by any means, including (without limitation)—
+  (a) by use of a map; and
+  (b) by a narrative description of the area.
+(5) The Commission must maintain a record of all specified fibre areas that is available, at all reasonable times, for inspection on the Commission’s Internet site in an electronic form that is publicly accessible.
+(6) In this section, specified fibre service means either of the following:
+  (a) a fibre fixed line access service:
+  (b) a telecommunications service provided by a regulated fibre service provider (F) over fibre media where the ultimate recipient of the service is F or a related party of F (as if the test for related parties were the same as the test in section 69U, applied with any necessary modifications).
+
+### 69AC Withdrawal of copper fixed line access services
+(1) This section applies if—
+  (a) Chorus is required by a standard terms determination made under section 30M to supply a copper fixed line access service to an access seeker; and
+  (b) Chorus started supplying the service at a time when the end-user’s building (or, where relevant, the building’s distribution frame) was not located in a specified fibre area; and
+  (c) as a result of a notice under section 69AB,—
+    (i) the end-user’s building (or, where relevant, the building’s distribution frame) becomes located in a specified fibre area; and
+    (ii) the service ceases to be a designated access service in the specified fibre area on and after the date specified in the notice.
+(2) Chorus may stop supplying the service referred to in subsection (1) only if—
+  (a) a copper withdrawal code has been approved and Chorus complies with the requirements of the code in relation to stopping the supply of the service; or
+  (b) the end-user chooses to have the service disconnected (other than a temporary disconnection).
+(3) To avoid doubt, Chorus is not required to—
+  (a) supply a service that ceases to be a designated access service in relation to a new end-user; or
+  (b) resupply a service that Chorus has stopped supplying in accordance with subsection (2).
+
+### 69AD Withdrawal of certain designated access services
+(1) This section applies if—
+  (a) Chorus is required by a standard terms determination made under section 30M to supply a relevant service to an access seeker; and
+  (b) Chorus started supplying the service at a time when the service was a designated access service; and
+  (c) as a result of section 13 of the Telecommunications (New Regulatory Framework) Amendment Act 2018, the service ceases to be a designated access service on and after 1 January 2020.
+(2) Chorus may stop supplying the service only if—
+  (a) a copper withdrawal code has been approved and Chorus complies with the requirements of the code in relation to stopping the supply of the service; or
+  (b) the end-user chooses to have the service disconnected (other than a temporary disconnection).
+(3) To avoid doubt, Chorus is not required to—
+  (a) supply a service that ceases to be a designated access service in relation to a new end-user; or
+  (b) resupply a service that Chorus has stopped supplying in accordance with subsection (2).
+(4) In this section, relevant service means either of the following:
+  (a) Chorus’s unbundled copper local loop network:
+  (b) Chorus’s unbundled copper local loop network backhaul (distribution cabinet to telephone exchange).
+
+### 69AE Application of certain TSO instruments in specified fibre areas
+Despite anything in this Act, the following TSO instruments cease to apply in relation to an area that becomes a specified fibre area:
+  (a) Telecommunications Service Obligations (TSO) Deed for Local Residential Telephone Service (except to the extent that it relates to 111 call services):
+  (b) Telecommunications Service Obligations (TSO) Deed for TSO Network Service.
+
+### 69AF Copper withdrawal code
+(1) In this Part, copper withdrawal code means the code approved under Schedule 2A.
+(2) Schedule 2A sets out the provisions that apply to the copper withdrawal code.
+
+### Subpart 3 — Price regulated copper services
+
+### 69AG Continued application of certain standard terms determinations
+(1) Subsection (2) applies to a standard terms determination made under section 30M that, immediately before 1 January 2020, applies to 1 or more of the following services:
+  (a) Chorus’s unbundled bitstream access backhaul:
+  (b) Chorus’s unbundled copper local loop network co-location:
+  (c) Chorus’s unbundled copper local loop network backhaul (telephone exchange to interconnect point).
+(2) Despite anything in this Act, during the period starting on 1 January 2020 and ending on the close of the day immediately before the copper review date for the relevant service,—
+  (a) the determination continues to apply to the relevant service; and
+  (b) sections 30R and 59 do not apply in respect of the determination.
+(3) For the purposes of subsection (2)﻿(a),—
+  (a) the prices that apply are the year 5 prices specified in the determination; and
+  (b) those prices increase or decrease (as appropriate) by an annual CPI adjustment on 16 December in each year (starting on 16 December 2020).
+(4) Subsection (5) applies to a standard terms determination made under section 30M that, immediately before 16 December 2019, applies to 1 or both of the following services:
+  (a) Chorus’s unbundled bitstream access:
+  (b) Chorus’s unbundled copper low frequency service.
+(5) Despite anything in this Act, during the period starting on 16 December 2019 and ending on the close of the day immediately before the copper review date for the relevant service,—
+  (a) the determination continues to apply to the relevant service; and
+  (b) sections 30R and 59 do not apply in respect of the determination.
+(6) For the purposes of subsection (5)﻿(a),—
+  (a) the prices that apply are the year 5 prices specified in the determination; and
+  (b) those prices increase or decrease (as appropriate) by an annual CPI adjustment on 16 December in each year (starting on 16 December 2020).
+(7) On and after the copper review date for a service referred to in subsection (1) or (4),—
+  (a) the standard terms determination for the service continues to apply; and
+  (b) Part 2 (including sections 30R and 59) applies in respect of the determination; and
+  (c) unless the maximum prices in the determination are amended in accordance with Part 2, the maximum prices under the determination are those that applied immediately before the copper review date.
+(8) In this section, copper review date for a service means the date on which the Commission completes, in relation to the service,—
+  (a) the investigation referred to in section 69AH(1)﻿(a); or
+  (b) any other investigation under Schedule 3 that starts on or after 1 January 2020.
+
+### Subpart 4 — Investigation
+
+### 69AH Schedule 3 modified for investigation of certain copper services
+(1) Despite clause 1 of Schedule 3, the Commission must—
+  (a) complete, by no later than 31 December 2025, an investigation under Part 1 of Schedule 3 into whether Schedule 1 should be altered in any of the ways set out in section 66 or 67 in respect of the regulation of the following:
+    (i) copper fixed line access services:
+    (ii) Chorus’s unbundled bitstream access backhaul:
+    (iii) Chorus’s unbundled copper local loop network co-location:
+    (iv) Chorus’s unbundled copper local loop network backhaul (telephone exchange to interconnect point); or
+  (b) provide, within a reasonable time after 31 December 2025, written reasons why there were not reasonable grounds for starting such an investigation.
+(2) An investigation referred to in subsection (1)﻿(a) must be completed in accordance withPart 1 of Schedule 3, except that the 240-working-days deadline referred to in clause 4(1) of Schedule 3 does not apply to the investigation.
 
 ## Part 2A — Structural separation of Telecom
 
@@ -1074,7 +1214,7 @@ In this subpart, unless the context otherwise requires,—
   - **arm's-length** has the meaning set out in section 69D
   - **executed** , in relation to a sharing arrangement or a material amendment to a sharing arrangement, means signed under the name of the relevant company by a person acting under the company's authority
   - **sharing arrangement** —
-    (a) means an arrangement, agreement, contract, or understanding between Telecom and Chorus for the purpose of providing either or both with access to, or continued use of, a system, asset, or service that is owned or controlled by Telecom at the close of the day before separation day; and
+    (a) means an arrangement, agreement, contract, or understanding between Spark and Chorus for the purpose of providing either or both with access to, or continued use of, a system, asset, or service that is owned or controlled by Telecom at the close of the day before separation day; and
     (b) includes an arrangement, agreement, contract, or understanding of the kind described in paragraph (a) that is conducted with or through a third party; but
     (c) does not include any of the following, or anything that is wholly in accordance with the following:
       (i) the regulated terms of supply of a designated service or a specified service; or
@@ -1083,7 +1223,7 @@ In this subpart, unless the context otherwise requires,—
       (iv) a deemed TSO instrument; or
       (v) an undertaking approved in accordance with subpart 4 of this Part (undertakings by Chorus); or
       (vi) an arrangement that is exempted under section 69N; or
-      (vii) an arrangement that relates to ensuring compliance by Telecom, Chorus, or both with—
+      (vii) an arrangement that relates to ensuring compliance by Spark, Chorus, or both with—
         (A) the duties imposed by the Telecommunications (Interception Capability and Security) Act 2013 on a network operator (within the meaning of that Act); or
         (B) duties or requirements imposed by any other Act, interception warrant, or other lawful authority that relate to the interception of communications.
 
@@ -1097,14 +1237,14 @@ Without limiting the ordinary meaning of the expression, arm's-length includes h
 
 ### 69E Requirements for sharing arrangements
 (1) Every sharing arrangement must—
-  (a) be recorded in writing and be executed by Telecom and Chorus; and
-  (b) be on arm's-length terms between Telecom and Chorus; and
+  (a) be recorded in writing and be executed by Spark and Chorus; and
+  (b) be on arm's-length terms between Spark and Chorus; and
   (c) be unlikely to harm competition in any telecommunications market; and
   (d) ensure the protection of confidential commercial information or customer confidential information.
-(2) Telecom and Chorus must not enter into a sharing arrangement unless the arrangement meets the requirements in subsection (1).
+(2) Spark and Chorus must not enter into a sharing arrangement unless the arrangement meets the requirements in subsection (1).
 
 ### 69F Commission must be notified of proposed and final sharing arrangements
-(1) Telecom and Chorus must,—
+(1) Spark and Chorus must,—
   (a) not later than 10 working days after separation day, provide a copy of all sharing arrangements executed before separation day to the Commission; and
   (b) if a sharing arrangement is entered into after separation day,—
     (i) not later than 10 working days before the sharing arrangement is executed, notify the Commission of their intention to enter into the sharing arrangement and provide a copy of the proposed arrangement to the Commission; and
@@ -1113,13 +1253,13 @@ Without limiting the ordinary meaning of the expression, arm's-length includes h
 (3) See sections 156L(3) and 156M for the maximum penalty of $1 million (and $50,000 per day) for breach of this section.
 
 ### 69G Obligation to collect and retain information for monitoring purposes
-Telecom and Chorus must each collect and retain information relating to the operation and performance of a sharing arrangement for the purpose of enabling the Commission to monitor compliance with this subpart.
+Spark and Chorus must each collect and retain information relating to the operation and performance of a sharing arrangement for the purpose of enabling the Commission to monitor compliance with this subpart.
 
 ### 69H Commission's monitoring, investigation, and enforcement powers
-(1) The Commission may, by notice in writing, require Telecom and Chorus to prepare and disclose information consisting of, or about, the following:
+(1) The Commission may, by notice in writing, require Spark and Chorus to prepare and disclose information consisting of, or about, the following:
   (a) the terms, execution, or performance of a sharing arrangement:
   (b) any report, agreement, or other information relating to the sharing arrangement that the Commission considers necessary for the purpose of monitoring compliance with this subpart.
-(2) Telecom and Chorus must prepare and disclose the information required within the period specified in the notice.
+(2) Spark and Chorus must prepare and disclose the information required within the period specified in the notice.
 (3) A notice under this section may require either or both of the following:
   (a) that all or any of the information be audited by a qualified auditor and that the auditor provide a report directly to the Commission on the matters that the Commission specifies as those that must be addressed in that report:
   (b) that all or any of the information be verified by statutory declaration in the form and by the persons required by the Commission.
@@ -1128,7 +1268,7 @@ Telecom and Chorus must each collect and retain information relating to the oper
 (6) See sections 156L(3) and 156M for the maximum penalty of $1 million (and $50,000 per day) for breach of this section.
 
 ### 69I Commission may give non-compliance notice
-(1) This section applies if the Commission considers that Telecom and Chorus are parties to a sharing arrangement that contravenes section 69E (a non-compliance).
+(1) This section applies if the Commission considers that Spark and Chorus are parties to a sharing arrangement that contravenes section 69E (a non-compliance).
 (2) The Commission may give written notice to each party (a non-compliance notice) setting out—
   (a) the nature of the non-compliance; and
   (b) the 10-day time limit for responses in section 69J; and
@@ -1150,7 +1290,7 @@ Telecom and Chorus must each collect and retain information relating to the oper
 ### 69K Commission may decide on appropriate enforcement action if non-compliance persists
 (1) This section applies if the Commission considers that a non-compliance has not been rectified within 40 working days after the date of a non-compliance notice given under section 69I.
 (2) The Commission may, at any time, do all or any of the following:
-  (a) direct Telecom and Chorus to amend the sharing arrangement in order to rectify the non-compliance within 10 working days of the direction (an amendment direction):
+  (a) direct Spark and Chorus to amend the sharing arrangement in order to rectify the non-compliance within 10 working days of the direction (an amendment direction):
   (b) apply for an injunction under section 69M in respect of the non-compliance or a failure to comply with an amendment direction:
   (c) seek a pecuniary penalty under Part 4A in respect of the non-compliance or a failure to comply with an amendment direction.
 (3) The Commission must give written notice of each decision to each party affected by the decision.
@@ -1160,8 +1300,8 @@ Telecom and Chorus must each collect and retain information relating to the oper
 (2) See sections 156L(3) and 156M for the maximum penalty of $10 million (and $500,000 per day) for breach of this section.
 
 ### 69M Injunction may be granted by High Court
-(1) If the High Court is satisfied that a non-compliance has not been rectified within 40 working days after the date of a non-compliance notice under section 69I, the court may, on the application of the Commission, grant an injunction restraining Telecom and Chorus from further performing the sharing arrangement or engaging in any conduct for the purpose of giving effect to that arrangement.
-(2) If the High Court is satisfied that there has been a failure to comply with a direction of the Commission given under section 69K(2)﻿(a), the court may, on the application of the Commission, grant an injunction requiring Telecom and Chorus to comply with the direction of the Commission.
+(1) If the High Court is satisfied that a non-compliance has not been rectified within 40 working days after the date of a non-compliance notice under section 69I, the court may, on the application of the Commission, grant an injunction restraining Spark and Chorus from further performing the sharing arrangement or engaging in any conduct for the purpose of giving effect to that arrangement.
+(2) If the High Court is satisfied that there has been a failure to comply with a direction of the Commission given under section 69K(2)﻿(a), the court may, on the application of the Commission, grant an injunction requiring Spark and Chorus to comply with the direction of the Commission.
 (3) In any proceeding under this section, the Commission, on the order of the court, may obtain discovery and administer interrogatories.
 (4) The court may at any time rescind or vary an order made under this section.
 
@@ -1174,7 +1314,7 @@ Telecom and Chorus must each collect and retain information relating to the oper
 (4) The Minister may grant the exemption on any terms and conditions that the Minister thinks fit.
 (5) The Minister may, in like manner, vary or revoke such an exemption.
 (6) An exemption under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(7) Telecom and Chorus must ensure that all exemptions granted under this section are available at all reasonable times, free of charge, on the Internet sites maintained by or on behalf of Telecom and Chorus.
+(7) Spark and Chorus must ensure that all exemptions granted under this section are available at all reasonable times, free of charge, on the Internet sites maintained by or on behalf of Spark and Chorus.
 
 ### Subpart 3 — Line of business restrictions
 
@@ -1219,6 +1359,27 @@ Telecom and Chorus must each collect and retain information relating to the oper
 (3) However, this section does not prevent the resale of PSTN-based services for the purposes of acting as a channel to market for Telecom.
 (4) See sections 156L(3) and 156M for the maximum penalty of $10 million (and $500,000 per day) for breach of this section.
 
+### 69SA Exemptions from sections 69R and 69S
+(1) The Commission may, on the terms and conditions (if any) that it thinks fit, grant an exemption from compliance with—
+  (a) any prohibition referred to in section 69R that is included in an undertaking referred to in that section; or
+  (b) any provision or provisions of section 69S.
+(2) An exemption may be granted in whole or in part (for example, there could be a complete exemption from a prohibition or provision or an exemption that applies only to 1 or more particular services).
+(3) The Commission must not grant an exemption unless—
+  (a) it is satisfied that the exemption is consistent with the purpose set out in section 69A; and
+  (b) it has had regard to whether the exemption will harm, or is likely to harm, competition in any telecommunications market; and
+  (c) it has consulted the persons or organisations that appear to the Commission to be representative of the interests of those persons likely to be substantially affected by the exemption.
+(4) This section applies on and after the implementation date.
+(5) Section 69SB applies to exemptions granted under this section.
+
+### 69SB Other provisions relating to exemptions
+(1) An exemption is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(2) The Commission must give public notice of the exemption as soon as practicable after the exemption is granted.
+(3) The Commission’s reasons for granting an exemption (including why it is appropriate) must be published together with the exemption.
+(4) The breach of a term or condition of an exemption is,—
+  (a) in the case of an exemption under section 69SA(1)﻿(a), a breach of the undertaking required under section 69R:
+  (b) in the case of an exemption under section 69SA(1)﻿(b), a breach of section 69S.
+(5) The Commission may vary or revoke an exemption in the same way as it may grant the exemption (with the provisions of section 69SA and this section applying with all necessary modifications).
+
 ### 69T Enforcement of breaches of sections 69O and 69S
 Sections 69V (injunctions) and 156B (enforcement actions) apply to Chorus, and any related party of Chorus, that, without reasonable excuse, participates in the supply of a telecommunications service in breach of sections 69O and 69S.
 
@@ -1234,7 +1395,7 @@ Sections 69V (injunctions) and 156B (enforcement actions) apply to Chorus, and a
   (b) a person is not able to exert a substantial degree of influence over another person merely because—
     (i) those persons are in competition in the same market; or
     (ii) one of them supplies goods or services to the other.
-(3) Any sharing of assets, services, and systems between Chorus and Telecom must be disregarded for the purposes of applying subsection (1) to the extent that it is provided for in a sharing arrangement of which a copy has been provided to the Commission under section 69F(1)﻿(a) or (b)﻿(ii).
+(3) Any sharing of assets, services, and systems between Chorus and Spark must be disregarded for the purposes of applying subsection (1) to the extent that it is provided for in a sharing arrangement of which a copy has been provided to the Commission under section 69F(1)﻿(a) or (b)﻿(ii).
 (4) Without limiting section 69O, Chorus is deemed to participate in the supply of a telecommunications service if a related party of Chorus participates in the supply of the telecommunications service.
 (5) The order of responsibility for remedying breaches is, to the extent practical, that the breach must be remedied first by the party whose activity resulted in the breach.
 
@@ -1266,7 +1427,7 @@ In this subpart, unless the context otherwise requires,—
     (d) Chorus's digital subscriber line access multiplexer (or equivalent facility)
   - **local access and calling service** means the designated access service described in subpart 1 of Part 2 of Schedule 1 as local access and calling service offered by means of a fixed telecommunications network
   - **non-discrimination** , in relation to the supply of a relevant service, means that Chorus must not treat access seekers differently or, where Chorus supplies itself with a relevant service, must not treat itself differently from other access seekers, except to the extent that a particular difference in treatment is objectively justifiable and does not harm, and is unlikely to harm, competition in any telecommunications market
-  - **relevant regulated services** means the following designated access services:
+  - **relevant regulated services** means the following designated access services except if those services are services in relation to which the end-user’s building (or, where relevant, the building’s distribution frame) is located in a specified fibre area:
     (a) Chorus's unbundled copper local loop network service:
     (b) Chorus's unbundled copper local loop network co-location service:
     (c) Chorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange):
@@ -1275,7 +1436,9 @@ In this subpart, unless the context otherwise requires,—
     (a) means—
       (i) wholesale telecommunications services that are provided using, or that provide access to the unbundled elements of, the legacy access network; and
       (ii) the designated access service described in subpart 1 of Part 2 of Schedule 1 as Chorus's unbundled bitstream access backhaul; but
-    (b) does not include any services that are agreed by the Commission in writing to be legacy input services, being inputs to services that are no longer offered to end-users other than customers who were end-users before separation day
+    (b) does not include—
+      (i) any services that are agreed by the Commission in writing to be legacy input services, being inputs to services that are no longer offered to end-users other than customers who were end-users before separation day; or
+      (ii) any services in relation to which the end-user’s building (or, where relevant, the building’s distribution frame) is located in a specified fibre area
   - **UBA service** means the designated access service described in subpart 1 of Part 2 of Schedule 1 as unbundled bitstream access service.
 
 ### 69XB Requirements for undertakings by Chorus relating to supply of certain wholesale telecommunications services
@@ -1361,7 +1524,7 @@ Section 156AO applies with necessary modifications to undertakings under this su
 (1) This section applies to any restrictive covenant that is registered in favour of land—
   (a) of which Telecom was a registered proprietor immediately before separation day; and
   (b) that is transferred from Telecom to Chorus on separation day.
-(2) Despite the transfer of land to Chorus, Telecom is entitled to enforce the covenant against the persons bound by the covenant as if Telecom were an owner or occupier of the land.
+(2) Despite the transfer of land to Chorus, Spark is entitled to enforce the covenant against the persons bound by the covenant as if Spark were an owner or occupier of the land.
 (3) This section does not limit the rights to enforce the covenant of Chorus, Chorus’s successors in title, and persons claiming through Chorus or Chorus’s successors in title.
 (4) The Registrar-General may enter in the register relating to the burdened land, the benefited land, or both, a notification of the effect of this section as if it were an instrument.
 
@@ -1504,77 +1667,34 @@ For the purposes of the Income Tax Act 2007, for expenditure that a Telecom comp
 ## Part 2B — Information disclosure requirements
 
 ### 69Y Purpose
-The purpose of this Part is to promote competition in telecommunications markets for the long-term benefit of end-users of telecommunications services in New Zealand by requiring that reliable and timely information prescribed by the Commission is made publicly available—
-  (a) by Telecom, so that a wide range of people are informed about the operation and behaviour of Telecom's network, wholesale, and retail business activities and services; and
-  (b) by access providers, including Telecom, so that a wide range of people are informed about the operation and behaviour of prescribed businesses that provide prescribed services, in order to monitor and facilitate compliance with prescribed applicable access principles.
+[Repealed]
 
 ### 69Z Parameters of Part
-The Commission's requirements under this Part must be reasonable, having regard to the purpose of this Part, the confidentiality of the information in question, and the time required to prepare the information.
+[Repealed]
 
 ### 69ZA Interpretation
-In this Part, unless the context otherwise requires,—
-  - **disclose** means to publish or make publicly available or otherwise supply, as may be required by the Commission
-  - **information** and includes any statements, certificates, or other information required to be disclosed under this Act
-  - **prescribed** means prescribed by the Commission.
+[Repealed]
 
 ### 69ZB Accounting separation of Telecom
 [Repealed]
 
 ### 69ZC Information disclosure by all access providers
-(1) This section applies—
-  (a) to any access provider in relation to any part of its business that provides prescribed designated or specified services; and
-  (b) for the purpose of enabling monitoring of, and facilitating compliance with, prescribed applicable access principles—
-    (i) that are incorporated in any determination, approved code, or registered undertaking; and
-    (ii) with which the access provider is required to comply.
-(2) The Commission—
-  (a) may require the access provider to prepare and disclose information about the operation and behaviour of that part of its business; and
-  (b) may require the access provider to adopt, in the preparation or compilation of that information, any methodology that is required by the Commission.
-(3) The Commission may require the access provider to prepare and disclose information consisting of, or about, the following things, as part of the information required under this section,—
-  (a) contracts:
-  (b) prices, terms, and conditions of supply of prescribed services:
-  (c) transactions with related parties (as if the test for related parties were the same as the test in section 79):
-  (d) performance measures and statistics (for example, response times, technical performance, and service quality details):
-  (e) plans and forecasts:
-  (f) network capacity information:
-  (g) policies and methodologies in these or other areas.
-(4) Access providers must prepare and disclose any information required under this section in accordance with the Commission's requirements.
-(5) Subsection (3) does not limit subsection (2).
+[Repealed]
 
 ### 69ZD Miscellaneous provisions relating to Commission's information disclosure requirements
-(1) The Commission may, in making requirements under section 69ZC—
-  (a) prescribe the form and manner in which information must be disclosed:
-  (b) specify a time or date, or times or dates, as at which information must be disclosed:
-  (c) require the disclosure of assumptions made in the preparation of the information:
-  (d) require the audit of disclosed information:
-  (e) require disclosed information, or information from which disclosed information is derived (in whole or in part), to be certified, in the prescribed form and manner by persons belonging to any specified class of persons:
-  (f) set rules about when and for how long information must be disclosed:
-  (g) require the retention of data on which disclosed information is based and associated documentation:
-  (h) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any person or class of persons from all or any of the requirements:
-  (i) provide for transitional provisions:
-  (j) make requirements from time to time (for example, more than once a year):
-  (k) make requirements in respect of all or part of the relevant business.
-(2) Subsection (1)﻿(j) does not limit section 16 of the Interpretation Act 1999.
+[Repealed]
 
 ### 69ZE Publication of Commission's information disclosure requirements
-The Commission must give public notice of requirements made under this Part.
+[Repealed]
 
 ### 69ZF Information to be supplied to Commission
-(1) Every person who is required under this Part to disclose information must supply to the Commission—
-  (a) a copy of all information disclosed under this Part, which must be supplied within 5 working days after the information is first disclosed under this Part; and
-  (b) any further statements, reports, agreements, particulars, and other information requested in writing by the Commission for the purpose of monitoring the person's compliance with the requirements made under this Part.
-(2) Every person to whom a request is made under subsection (1)﻿(b) must comply with that request within the period specified by the Commission.
-(3) The Commission may require all or any statements, reports, agreements, particulars, and other information supplied under subsection (1) to be either or both—
-  (a) audited:
-  (b) verified by statutory declaration by the persons and in the form required by the Commission.
+[Repealed]
 
 ### 69ZG Commission to publish summaries
-The Commission must, as soon as practicable after the Commission is supplied with information under section 69ZF, publish a summary and analysis of the disclosed information for the purpose of promoting greater understanding of—
-  (a) the operation and behaviour of the relevant prescribed businesses of Telecom and access providers; and
-  (b) the changes in operation and behaviour over time.
+[Repealed]
 
 ### 69ZH Reasonable charge may be imposed for providing copies of statements
-(1) Any person who is required under this Part to provide copies of information, on request, to the public may charge for providing those copies.
-(2) A charge must be no more than is reasonably required to recover the costs of providing those copies.
+[Repealed]
 
 ## Part 3 — Telecommunications service obligations
 
@@ -1723,6 +1843,12 @@ Not later than 60 working days before the end of each financial year (financial 
   (c) the methodology applied by the Commission in preparing the determination; and
   (d) the reasons for the determination.
 (2) To avoid doubt, the Commission may determine what revenue basis to use for the purposes of subsection (1)﻿(a) (for example, a net revenue basis).
+
+### 85A Certain revenue from broadcasting services must be excluded from qualified revenue
+(1) For the purposes of this subpart, the amount of a liable person’s qualified revenue must exclude the following amounts (as determined in accordance with any specifications set by the Commission):
+  (a) any amount of revenue that is received by a liable person in relation to a broadcasting service that is supplied to end-users free of charge (for example, revenue derived from a free-to-air radio or television service):
+  (b) any amount of revenue that is received before 1 July 2020 by a liable person in relation to any other broadcasting service.
+(2) The specifications set by the Commission may (without limitation) provide for the apportionment of any amount of revenue if the amount is received in connection with a service referred to in subsection (1) and 1 or more other services.
 
 **General provision relating to TSO cost allocation determination and TSO cost calculation determination**
 
@@ -2043,26 +2169,7 @@ For a determination made under this Part, the Commission—
 (4) In this section, maximum telecommunications revenue threshold means the amount calculated in accordance with the following formula:The following table is small and contains a formula.a× cbwhere—ais the CPI index number for the last quarter before the Minister's recommendation would be madebis the CPI index number for the last quarter before the date of commencement of the Telecommunications (TSO, Broadband, and Other Matters) Amendment Act 2011cis $10 million.
 
 ### 101A Review of local service TSO arrangements
-(1) The chief executive of the Ministry must,—
-  (a) at the start of 2013, commence a review of the deemed TSO instruments and the provisions of this Act that implement those deeds (including the provisions that relate to funding) (collectively, the deemed TSO arrangements), including consideration of the following:
-    (i) the operation of the deemed TSO arrangements:
-    (ii) changes in the telecommunications sector that have arisen from investments in, and the roll-out of, new and enhanced telecommunications infrastructure and facilities and the impact of those changes on the deemed TSO arrangements:
-    (iii) the continued need for, and relevance of, the deemed TSO arrangements:
-    (iv) the practicality of adopting universal, rather than provider-specific, arrangements for provision of the services and achievement of the outcomes covered by the deemed TSO arrangements:
-    (v) the impact of the funding arrangements for deemed TSO instruments and the calculation of costs in relation to deemed TSO instruments on TSO providers, market competition, and the development generally of the telecommunications industry:
-    (vi) alternative arrangements for achieving the purpose set out in section 70(1), including—
-      (A) the potential for adopting a contestable TSO model for deemed TSO arrangements and the costs and benefits of those alternatives in comparison with the deemed TSO arrangements; and
-      (B) alternative approaches for the funding of deemed TSO instruments and the calculation of costs in relation to deemed TSO instruments, including the costs and benefits of those alternative approaches in comparison with the deemed TSO funding arrangements:
-    (vii) related regulatory issues; and
-  (b) report to the Minister on its findings not later than the end of 2013.
-(2) In carrying out the review, the chief executive of the Ministry must consult with interested parties, including the Commission, industry participants, consumers, and Māori.
-(3) In conducting the review and reporting to the Minister, the chief executive of the Ministry must take the following into account:
-  (a) the long-term interests of end-users of telecommunications services:
-  (b) the long-term interests of those end-users in respect of whom the provision of services covered by the deemed TSO arrangements is commercially non-viable:
-  (c) the legitimate business interests of TSO providers:
-  (d) the ability for providers of TSO services to receive a reasonable return on the incremental capital employed in providing the services required under deemed TSO instruments:
-  (e) the impact on the incentives and capabilities of TSO providers and other telecommunications service providers to invest in new and improved telecommunications facilities and services:
-  (f) the effects on competition in telecommunications services markets in New Zealand.
+[Repealed]
 
 ## Part 4 — Networks
 
@@ -2071,7 +2178,7 @@ For a determination made under this Part, the Commission—
 **Declarations of network operator status**
 
 ### 102 Persons declared to be network operators
-(1) The purpose of this section and sections 103 to 105 is to facilitate entry into, and competition in, telecommunications markets and broadcasting markets.
+(1) The purpose of this section and sections 103 to 105 is to facilitate entry into, and competition in, telecommunications markets.
 (2) A person may apply to the Minister to be declared a network operator for the purposes of this Act or any provisions of this Act.
 (3) For the purposes of this section and sections 103 to 105, any 2 or more bodies corporate must be treated as 1 person if—
   (a) one of them is a body corporate of which the others are subsidiaries; or
@@ -2086,15 +2193,15 @@ For a determination made under this Part, the Commission—
 
 ### 103 Ministerial requirements for declaration
 The Minister must declare an applicant to be a network operator for the purposes of this Act or any provisions of this Act if the Minister is satisfied that a declaration is necessary to enable the applicant to commence or carry on a business providing—
-  (a) facilities for telecommunication between 10 or more other persons that enable at least 10 of those persons to communicate with each other; or
+  (a) facilities for telecommunication (other than facilities used exclusively for broadcasting) between 10 or more other persons that enable at least 10 of those persons to communicate with each other; or
   (b) facilities for broadcasting to 500 or more other persons that enable programmes to be transmitted along a line or lines to each of those persons.
 
 ### 104 When declaration must be revoked
 The Minister must revoke a declaration if the Minister is satisfied that a network operator has ceased to provide the facilities listed in section 103.
 
 ### 105 Declaration made or revoked by notice in Gazette
-(1) A declaration is made by notice in the Gazette, except that Chorus and Telecom are declared to be network operators by this Act.
-(1A) A declaration may be revoked by notice in the Gazette (including the declarations relating to Chorus and Telecom).
+(1) A declaration is made by notice in the Gazette, except that Chorus and Spark are declared to be network operators by this Act.
+(1A) A declaration may be revoked by notice in the Gazette (including the declarations relating to Chorus and Spark).
 (2) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Connection to network**
@@ -2111,7 +2218,7 @@ The Minister must revoke a declaration if the Minister is satisfied that a netwo
 (1) An operator must not agree to the connection of a telephone analyser to a network that is owned or operated by an operator unless the connection is for 1 or more of the following purposes:
   (a) to enable a person to whom the operator provides telecommunications services to obtain call associated data that relates to telecommunications between the person and other persons:
   (b) to maintain the network:
-  (c) to detect, investigate, or prosecute any offence against section 112 or section 113.
+  (c) to detect, investigate, or prosecute any offence against section 112.
 (2) In subsection (1), telephone analyser and call associated data have the same meanings as in section 2(1) of the Telecommunications (Residual Provisions) Act 1987.
 
 ### 108 When operator must not refuse to agree to connection to network
@@ -2150,7 +2257,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (a) the procedures that apply to interconnection with a PTN owned or operated by that supplier; and
   (b) all the applicable terms and conditions of supply for interconnection with that PTN.
 (2) In this section, major supplier—
-  (a) means Telecom; and
+  (a) means Spark; and
   (b) includes a person who is declared by the Governor-General, by Order in Council made on the recommendation of the Minister, to be a major supplier for the purposes of this section.
 (3) The Minister must not make a recommendation under subsection (2)﻿(b) unless the Minister is satisfied that the proposed order to which the recommendation relates is necessary to facilitate New Zealand's compliance with its international obligations.
 
@@ -2164,10 +2271,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (3) Every person who commits an offence against subsection (1) or subsection (2) is liable on conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 
 ### 113 Indecent telephone calls for pecuniary gain
-(1) Every person commits an offence against this Act who, in using a telephone device, uses or causes to be used indecent or obscene language, or makes or causes to be made a suggestion of an indecent or obscene nature, for the purpose of obtaining commercial gain.
-(2) Every person who commits an offence against subsection (1) is liable, on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $2,000:
-  (b) in the case of a body corporate, to a fine not exceeding $5,000.
+[Repealed]
 
 ### 114 Interception of telecommunications for authorised purposes
 [Repealed]
@@ -2432,7 +2536,7 @@ A network operator, in maintaining, repairing, altering, or removing a line that
 
 ### 153 Charging for access to road reserve
 (1) Despite anything in this Act or in any other enactment, no local authority or other person who has jurisdiction over any road may require the payment, by or on behalf of a network operator, of any amount of or in the nature of rent in respect of any line, wireless works, or other works constructed in, on, along, over, across, or under that road.
-(2) Nothing in subsection (1) applies in respect of any rate or charge levied under the Rating Powers Act 1988.
+(2) Nothing in subsection (1) applies in respect of any rate or charge levied under the Local Government (Rating) Act 2002.
 
 ### 154 Compensation
 (1) Every person whose property is damaged as a result of the exercise of any of the powers under this subpart is entitled to compensation.
@@ -2506,7 +2610,6 @@ The purpose of this subpart is to enable more people and businesses to obtain th
   - **prescribed** means prescribed by regulations made under section 155ZO or clause 16 of Schedule 3C
   - **prescribed other technology** means technology prescribed under section 155ZO(1)﻿(b)
   - **property** means real property in respect of which more than 1 person has a legal right
-  - **UFB initiative** has the same meaning as in section 156AB
   - **unit owner** includes a person who is a shareholder in a flat or office owning company (within the meaning of Part 7A of the Land Transfer Act 1952) and who has a licence to occupy or use a specified residential flat or office forming part of a building under a licence from the company
   - **unit title development** has the same meaning as in section 5(1) of the Unit Titles Act 2010.
 (2) In this subpart, unless the context otherwise requires, a reference to a person who places an order for an FTTP service to be installed is a reference to the owner of the property (or, in the case of a body corporate administered property, the unit owner) to which the order relates, regardless of whether the owner places the order himself or herself or authorises another person (for example, a tenant) to place the order as agent on the owner’s behalf.
@@ -3071,11 +3174,6 @@ In this Part, unless the context otherwise requires,—
   - **Rural Broadband Initiative** means the programme to develop enhanced broadband infrastructure in non-urban areas of New Zealand with the support of Crown grant funding
   - **service provider** means a provider of a relevant service
   - **UFB 2** has the same meaning as in paragraph (b)﻿(i) of the definition of UFB initiative
-  - **UFB initiative** —
-    (a) means the competitive tender programme, known as the Ultra-fast Broadband Initiative, to develop fibre-to-the-premises broadband networks connecting 75% of New Zealand households, with the support of $1.5 billion of Crown investment funding; and
-    (b) includes—
-      (i) the extension to that programme known as UFB 2, to develop fibre-to-the-premises networks connecting at least 80% of New Zealand households; and
-      (ii) any other extension to that programme
   - **UFB partner** means a successful tenderer in the UFB initiative
   - **undertaking** means an undertaking under this Part.
 
@@ -3116,7 +3214,7 @@ The purposes of this subpart are to—
     (c) in relation to UFB 1 LFCs that win contracts for UFB 2,—
       (i) 1 January 2020 for the UFB 1 part of the relevant network; and
       (ii) 1 January 2026 for the UFB 2 part of the relevant network
-  - **UFB 1** has the same meaning as in paragraph (a) of the definition of UFB initiative in section 156AB.
+  - **UFB 1** has the same meaning as in paragraph (a) of the definition of UFB initiative.
 
 ### 156AE Minister may determine further requirements for undertakings
 (1) The Minister may determine further requirements with which an undertaking must comply.
@@ -3191,6 +3289,12 @@ On and from the date that the Minister's approval of an undertaking is notified 
 The Commission may amend an undertaking to clarify it if—
   (a) the Commission, on the application of the LFC who gave the undertaking, considers that the undertaking requires clarification; and
   (b) the clarification is not material.
+
+### 156ANA Amendment or consolidation of undertaking
+(1) The Minister may approve 1 or both of the following:
+  (a) an amendment to an undertaking, if the amendment is necessary or desirable for the purpose of making the undertaking consistent with this Act:
+  (b) the consolidation of 2 or more undertakings.
+(2) Sections 156AI to 156AK apply, with any necessary modifications, to an amendment or a consolidation as if it were an undertaking.
 
 ### 156AO Termination of undertaking
 (1) An undertaking may be terminated by mutual agreement between the LFC and the Minister.
@@ -3287,28 +3391,19 @@ In this subpart, unless the context otherwise requires,—
 (4) Subsection (3) does not limit the further matters that may be included in an undertaking.
 
 ### 156AZ Application of provisions in subpart 1
-Sections 156AH to 156AN, 156AO, and 156AQ to 156AS, with all necessary modifications, apply to an undertaking under this subpart as if every reference in those sections to an LFC were a reference to a service provider.
+Sections 156AH to 156AO and 156AQ to 156AS, with all necessary modifications, apply to an undertaking under this subpart as if every reference in those sections to an LFC were a reference to a service provider.
 
 ### Subpart 5 — Commerce Act 1986 authorisations in respect of Rural Broadband Initiative
 
 ### 156AZA Restrictive trade practices authorisations in respect of Telecom and Vodafone participation in Rural Broadband Initiative
-(1) The following are authorised:
-  (a) the joint Telecom–Vodafone proposal made on 12 November 2010 in response to the Rural Broadband Initiative request for proposals issued on 26 August 2010; and
-  (b) any contract that is entered into between the Crown and Telecom, or the Crown and Vodafone, to provide funding to Telecom or Vodafone in accordance with the Rural Broadband Initiative.
-(2) In this section, unless the context otherwise requires,—
-  - **Vodafone** means Vodafone New Zealand Limited and its subsidiaries.
-(3) The authorisations apply to any contract, arrangement, or understanding that is entered into before the date on which this section comes into force as if the authorisation were in force at the time of entry.
-(4) The authorisations do not apply to a contract, arrangement, or understanding that is entered into later than 6 months after the date on which this section comes into force.
-(5) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 58(1), (2), (5), and (6) of the Commerce Act 1986.
-(6) Sections 65 and 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
-(7) The effect of the authorisations is the same as that stated in section 58A(1) and (2) of the Commerce Act 1986.
+[Repealed]
 
 ### Subpart 6 — Commerce Act 1986 authorisations in respect of Ultra-fast Broadband Initiative
 
 ### 156AZB Interpretation for this subpart
 In this subpart, unless the context otherwise requires,—
   - **fibre optic network assets** means ducting, fibre optic cabling, and related electronic equipment, together with other related equipment, that is used in connection with telecommunication over a fibre-based network
-  - **Telecom** includes Chorus and a successor to Telecom or Chorus
+  - **Telecom** includes Chorus, Spark, and a successor to Chorus or Spark
   - **telecommunications network company** means a company that owns or operates a network.
 
 ### 156AZC Restrictive trade practices authorisations in respect of participation in Ultra-fast Broadband Initiative
@@ -3316,10 +3411,10 @@ In this subpart, unless the context otherwise requires,—
   (a) any contract, arrangement, or understanding between the Crown and Telecom that is necessary to give effect to the selection of Telecom as a UFB partner in a particular region or regions; and
   (b) any contract, arrangement, or understanding that is part of the arrangement with the Crown under the UFB initiative in a particular region or regions, under which Telecom or a UFB partner transfers fibre optic network assets to a local fibre company owned partially by the Crown.
 (2) The authorisations—
-  (a) apply to any contract, arrangement, or understanding that is entered into before the date on which this section comes into force as if the authorisations were in force at the time of entry; but
+  (a) apply to any contract, arrangement, or understanding that is entered into before the date that is 2 years after this section comes into force as if the authorisations were in force at the time of entry; but
   (b) do not apply to any contract, arrangement, or understanding that is entered into more than 2 years after the date on which this section comes into force.
 (2A) Despite subsection (2), the authorisations—
-  (a) apply to any contract, arrangement, or understanding that is entered into in respect of UFB 2 before the date on which this subsection comes into force, as if the authorisation were in force at the time of the entry; but
+  (a) apply to any contract, arrangement, or understanding that is entered into in respect of UFB 2 before the date that is 2 years after this subsection comes into force, as if the authorisation were in force at the time of the entry; but
   (b) do not apply to any contract arrangement or understanding in respect of UFB 2 that is entered into more than 2 years after the date on which this subsection comes into force.
 (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 58(1), (2), (5), and (6) of the Commerce Act 1986.
 (4) Sections 65 and 91 to 97 of the Commerce Act 1986 do not apply to the authorisations.
@@ -3332,7 +3427,7 @@ In this subpart, unless the context otherwise requires,—
   (c) any acquisition by the Crown of shares in, or assets of, Telecom pursuant to the selection of Telecom as a UFB partner in a particular region or regions.
 (2) The authorisations do not apply to any acquisition that is made more than 2 years after the date on which this section comes into force, except an acquisition under UFB 2.
 (2A) The authorisations—
-  (a) apply to any acquisition under UFB 2 that is made before the date on which this subsection comes into force, as if the authorisation were in force at the time the acquisition was made; but
+  (a) apply to any acquisition under UFB 2 that is made before the date that is 2 years after this subsection comes into force, as if the authorisation were in force at the time the acquisition was made; but
   (b) do not apply to any acquisition under UFB 2 that is made more than 2 years after the date on which this subsection comes into force.
 (3) The authorisations must be treated as if they were authorisations granted by the Commerce Commission under section 67(3)﻿(b) of the Commerce Act 1986 on the date on which this section comes into force.
 (3A) However, if the authorisations are for any acquisitions under UFB 2, the authorisations must be treated as if they were authorisations granted by the Commission under section 67(3)﻿(b) of the Commerce Act 1986 on the date on which this subsection comes into force.
@@ -3376,8 +3471,8 @@ In this subpart, unless the context otherwise requires,—
   (f) knowingly provides false or misleading information or documents under section 45 or under the notice requirement (if any) set out in subpart 1 of Part 2 of Schedule 1 in respect of the applicable final pricing principle:
   (fa) fails, without reasonable excuse, to comply with section 69F:
   (fb) fails, without reasonable excuse, to comply with a notice under section 69H:
-  (g) fails, without reasonable excuse, to comply with an information disclosure requirement made under section 69ZC(4), 69ZF(2), or 156AU:
-  (h) knowingly provides false or misleading information or documents under Part 2B:
+  (g) fails, without reasonable excuse, to comply with an information disclosure requirement made under section 156AU:
+  (h)
   (i) fails, without reasonable excuse, to provide to the Commission, not later than the time specified by it, the information or documents referred to in section 81(2):
   (ia) knowingly provides or signs a false or misleading certificate under section 81:
   (ib) knowingly provides false or misleading information or documents under section 81:
@@ -3393,16 +3488,32 @@ In this subpart, unless the context otherwise requires,—
   (ld) knowingly provides false or misleading information or documents under section 100BA:
   (m) fails, without reasonable excuse, to comply with section 111A:
   (ma) fails, without reasonable excuse, to comply with section 156AK:
-  (n) fails, without reasonable excuse, to comply with any regulations made under section 157(ch) in relation to emergency call services.
+  (n) fails, without reasonable excuse, to comply with any regulations made under section 157(ch) in relation to emergency call services:
+  (o) fails, without reasonable excuse, to comply with a Commission RSQ code:
+  (p) fails, without reasonable excuse, to comply with the Commission 111 contact code:
+  (q) fails, without reasonable excuse, to comply with the copper withdrawal code.
 (2) Section 156B also applies as provided in—
   (a) section 69L:
   (b) section 69T.
 
 ### 156B Enforcement actions that Commission may take
-(1) The Commission may take either of the following actions against a person to whom this section applies:
+(1) The Commission may take 1 of the following actions against a person to whom this section applies:
   (a) serve a civil infringement notice on the person under section 156D; or
-  (b) apply to the High Court for an order, under section 156L, requiring the person to pay a pecuniary penalty to the Crown.
+  (b) apply to the High Court for an order, under section 156L, requiring the person to pay a pecuniary penalty to the Crown; or
+  (c) in relation to a person who commits a breach referred to in section 156A(1)﻿(o), (p), or (q), accept an undertaking under section 156CA.
+(1A) The Commission may, in addition to or instead of taking action under subsection (1), take 1 or both of the following actions against a person who commits a breach referred to in section 156A(1)﻿(o):
+  (a) apply to the High Court for an order under section 156MA:
+  (b) apply to the High Court for an order under section 156MB.
+(1B) The Commission may, in addition to or instead of taking action under subsection (1), take 1 or both of the following actions against a person who commits a breach referred to in section 156A(1)﻿(q):
+  (a) apply to the High Court for an order under section 156MC:
+  (b) apply to the High Court for an order under section 156MD.
 (2) This section does not limit any power conferred on the Commission by or under section 15 or any other enactment.
+
+### 156BA Enforcement actions that end-user may take
+(1) If a person commits a breach referred to in section 156A(1)﻿(q), an end-user (as referred to in clause 1 of Schedule 2A) may take 1 or both of the following actions against the person:
+  (a) apply to the High Court for an order under section 156MC:
+  (b) apply to the High Court for an order under section 156MD.
+(2) An end-user may take the action referred to in subsection (1) whether or not the Commission has taken action against the person under section 156B in respect of the breach.
 
 ### 156C Matters that Commission must take into account in deciding what enforcement action to take
 In making a decision about what action to take under section 156B, the Commission must take into account the following matters:
@@ -3412,6 +3523,23 @@ In making a decision about what action to take under section 156B, the Commissio
   (d) the culpability of the person who is alleged to have committed the breach:
   (e) the nature and extent of any commercial gain resulting from the alleged breach:
   (f) the nature and extent of any loss or damage suffered by any person as a result of the alleged breach.
+
+**Enforceable undertakings in relation to Commission RSQ code or copper withdrawal code**
+
+### 156CA Commission may accept undertakings
+(1) The Commission may accept a written undertaking given by, or on behalf of, a person in connection with any matter relating to the enforcement of a Commission RSQ code or the copper withdrawal code.
+(2) The person may withdraw or vary the undertaking with the consent of the Commission.
+
+### 156CB Enforcement of undertakings
+(1) If the Commission considers that a person who has given an undertaking under section 156CA has, without reasonable excuse, breached a term of that undertaking, the Commission may apply to the High Court for an order under subsection (2).
+(2) The High Court may make any of the following orders if it is satisfied that the person has, without reasonable excuse, breached a term of the undertaking:
+  (a) an order directing the person to comply with the term:
+  (b) an order directing the person to pay to the Crown—
+    (i) an amount not exceeding the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach; or
+    (ii) any pecuniary penalty that the court determines to be appropriate (up to the maximum amount specified in section 156L(3)﻿(c)):
+  (c) any order that the court thinks appropriate directing the person to compensate any other person who has suffered loss or damage as a result of the breach:
+  (d) an order for any consequential relief that the court thinks appropriate.
+(3) Section 156L(4) to (7) applies with any necessary modifications in respect of proceedings under this section.
 
 **Civil infringement notice**
 
@@ -3516,11 +3644,49 @@ In making a decision about what action to take under section 156B, the Commissio
   (aa) $500,000 for a breach referred to in section 69L; and
   (ab) $500,000 for a breach referred to in section 69T; and
   (ac) $50,000 for a breach referred to in section 156A(fa) or (fb); and
-  (b) $50,000 for a breach referred to in section 156A(g) in relation to an information disclosure requirement made under section 69ZC(4) or 69ZF(2); and
+  (b)
   (c) $10,000 for any other case.
 (2) To avoid doubt, any further penalty under subsection (1) may be imposed only in respect of the period that—
   (a) begins on the day on which the pecuniary penalty was imposed under section 156L; and
   (b) ends on the day on which the breach is remedied.
+
+**Additional remedies in relation to breach of Commission RSQ code**
+
+### 156MA Order to disclose information or publish advertisement
+(1) The High Court may make 1 or both of the following orders if the High Court is satisfied, on the application of the Commission, that a person has committed a breach referred to in section 156A(1)﻿(o):
+  (a) an order requiring that person, or any other person involved in the breach, to disclose to the public, or to a particular person or class of persons, the information or class of information that is specified in the order, being information that is in the possession of the person to whom the order is directed or to which that person has access:
+  (b) an order requiring that person, or any other person involved in the breach, to publish corrective statements the terms of which are specified in, or are to be determined in accordance with, the order.
+(2) The information must be disclosed or published—
+  (a) in the manner and at the times that are specified in the order; and
+  (b) at the person’s own expense.
+(3) The High Court may hear and determine an application in conjunction with any other proceedings under this Part.
+
+### 156MB Other orders for breach of Commission code
+(1) The High Court may make 1 or more of the following orders if the High Court is satisfied, on the application of the Commission, that a person (person X) has committed a breach referred to in section 156A(1)﻿(o) or (p):
+  (a) an order directing person X to refund money or return property to any other person:
+  (b) an order directing person X to pay to any other person the amount of any loss or damage caused to that other person by the conduct of person X:
+  (c) an order directing person X, at person X’s own expense, to supply a service to any other person:
+  (d) an order declaring all or part of a contract made between person X and any other person, or a collateral arrangement relating to such a contract,—
+    (i) to be void; and
+    (ii) if the court thinks fit, to have been void at all times on and after a date specified in the order, which may be before the date on which the order is made:
+  (e) an order in respect of a contract made between person X and any other person, or a collateral arrangement relating to such a contract,—
+    (i) varying the contract or the arrangement in the manner specified in the order; and
+    (ii) if the court thinks fit, declaring the varied contract or arrangement to have had effect on and after a date specified in the order, which may be before the date on which the order is made.
+(2) The High Court may hear and determine an application under subsection (1) in conjunction with any other proceedings under this Part.
+
+**Additional remedies in relation to breach of copper withdrawal code**
+
+### 156MC Other orders for breach of copper withdrawal code
+(1) The High Court may make 1 or both of the following orders if the High Court is satisfied, on the application of the Commission or an end-user, that a person has committed a breach referred to in section 156A(1)﻿(q):
+  (a) an order directing the person to pay to an end-user the amount of any loss or damage caused to the end-user by the conduct of the person:
+  (b) an order directing the person, at the person’s own expense, to supply a service to an end-user.
+(2) The High Court may hear and determine an application under subsection (1) in conjunction with any other proceedings under this Part.
+(3) An order under subsection (1)﻿(b) must not be inconsistent with a restriction that applies under subpart 3 of Part 2A.
+
+### 156MD Injunctions for breach of copper withdrawal code
+(1) If the High Court is satisfied, on the application of the Commission or an end-user, that a person has committed a breach referred to in section 156A(1)﻿(q), the court may grant an injunction restraining the person from engaging in conduct that constitutes or would constitute a breach of the copper withdrawal code.
+(2) The High Court may hear and determine an application under subsection (1) in conjunction with any other proceedings under this Part.
+(3) Sections 88 and 88A of the Commerce Act 1986 apply with any necessary modifications in relation to an injunction granted under this section.
 
 ### Subpart 2 — Enforcement of determinations, approved codes, and undertakings
 
@@ -3529,7 +3695,7 @@ In sections 156O to 156R,—
   - **enforceable matter** means any of the following:
     (a) a determination made under section 27:
     (b) a standard terms determination made under section 30M:
-    (c) a residual terms determination made under section 30ZB:
+    (c)
     (d) a designated multinetwork service determination made under section 39:
     (e) an undertaking under Part 2A:
     (ea) an undertaking under Part 4AA:
@@ -3580,30 +3746,7 @@ The amount of any pecuniary penalty imposed under section 156Q(2) must not excee
 ## Part 5 — Miscellaneous
 
 ### 157AA Minister must review regulatory framework
-(1) The Minister must, not later than 30 September 2016, commence a review of the policy framework for regulating telecommunications services in New Zealand, taking account of the market structure and technology developments and competitive conditions in the telecommunications industry at the time of the review, including the impact of fibre, copper, wireless, and other telecommunications network investment.
-(2) The review must—
-  (a) consider whether the existing regulatory framework under the Telecommunications Act 2001 is the most effective means to—
-    (i) promote competition for the long-term benefit of end-users; and
-    (ii) promote the legitimate commercial interests of access providers and access seekers; and
-    (iii) encourage efficient investment for the long-term benefit of end-users, by—
-      (A) providing investors with an expectation of a reasonable return on their investment; and
-      (B) providing sufficient regulatory stability, transparency, and certainty to enable businesses to make long-term investments; and
-    (iv) support innovation in telecommunications markets, or deregulation where sufficient competition exists; and
-  (b) assess whether alternative regulatory frameworks, including (without limitation) generic price control, would be a preferable and more effective means of achieving these outcomes.
-(3) In carrying out the review, the Minister must—
-  (a) consult with interested parties, including the Commission, industry participants, consumers, and Māori; and
-  (b) take into account—
-    (i) the extent of network coverage of services provided on fibre, copper, wireless, and other telecommunications networks; and
-    (ii) the level of investment in fibre, copper, wireless, and other telecommunications networks, and the ability of access providers to recover that investment within a reasonable period; and
-    (iii) the ability of access providers to achieve, within a reasonable period, reasonable rates of return on their investment in telecommunications networks that adequately reflect the risks assumed by those access providers when the relevant investments were made; and
-    (iv) the level of competition in relevant telecommunications markets; and
-    (v) the effects of the regulatory framework under this Act on investment in fibre, copper, wireless, and other telecommunications networks, and on outcomes for end-users; and
-    (vi) the sustainability of the regulatory framework under this Act, given developments in technology and convergence of traditional telecommunications markets; and
-    (vii) the importance of any regulatory intervention being proportionate, having regard to the problems being addressed, the size of the relevant market, and the number and size of the potentially regulated entities; and
-    (viii) developments in wireless solutions and whether they should be part of any telecommunications regulation; and
-    (ix) experience in comparable jurisdictions and economic relations with Australia, weighed against what is appropriate for New Zealand conditions and the make-up and history of New Zealand's telecommunications markets; and
-    (x) any other matters that the Minister considers relevant.
-(4) The Minister must use his or her best endeavours to ensure that the review is completed no later than 31 March 2019.
+[Repealed]
 
 ### 157 Regulations
 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
@@ -3618,27 +3761,958 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (cf) specifying the time frames within which the procedures or minimum standards prescribed under paragraph (ce) must be followed:
   (cg) prescribing requirements and other matters concerning the operation and administration of a consumer complaints system:
   (ch) setting out minimum requirements for emergency call services and specifying which persons are subject to those requirements:
+  (ci) prescribing matters for the purposes of the copper withdrawal code:
   (d) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 158 Enactments amended
-The enactments specified in Schedule 4 are amended in the manner indicated in that schedule.
+[Repealed]
 
 ### 159 Certain provisions in 1987 Act repealed
-((1), (2)) Amendment(s) incorporated in the Act(s).
-((3)) After the commencement of this Act, the 1987 Act is called the Telecommunications (Residual Provisions) Act 1987.
-((4)) Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 160 Transitional provision for declarations made under section 2A of 1987 Act
 (1) Despite the repeal of section 2A of the 1987 Act by section 159, every declaration made under section 2A of the 1987 Act and in force immediately before the commencement of this Act continues in force and has full effect until the declaration is revoked,—
   (a) in the case of a declaration made by Order in Council, by the Governor-General by Order in Council made on the recommendation of the Minister; or
   (b) in the case of a declaration made by the Minister, by the Minister by notice in the Gazette.
 (2) The Minister must make a recommendation under subsection (1)﻿(a) or revoke a declaration under subsection (1)﻿(b) (as the case may be) if the Minister is satisfied that the network operator has ceased to provide—
-  (a) facilities for telecommunication between 10 or more other persons that enable at least 10 of those persons to communicate with each other; or
+  (a) facilities for telecommunication (other than facilities used exclusively for broadcasting) between 10 or more other persons that enable at least 10 of those persons to communicate with each other; or
   (b) facilities for broadcasting to 500 or more other persons that enable programmes to be transmitted along a line or lines to each of those persons.
 (3) A notice in the Gazette under subsection (1)﻿(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 161 Transitional provision relating to repeal of section 5C of 1987 Act
-Despite any enactment or rule of law, any requirements under Part 2 or regulation 7 of the Telecommunications (Information Disclosure) Regulations 1999 (SR 1999/383) with which Telecom had to comply before the repeal of section 5C of the 1987 Act cease to have effect as if those regulations had not been made.
+[Repealed]
+
+## Part 6 — Fibre fixed line access services
+
+### Subpart 1 — General
+
+### 162 Purpose
+The purpose of this Part is to promote the long-term benefit of end-users in markets for fibre fixed line access services by promoting outcomes that are consistent with outcomes produced in workably competitive markets so that regulated fibre service providers—
+  (a) have incentives to innovate and to invest, including in replacement, upgraded, and new assets; and
+  (b) have incentives to improve efficiency and supply fibre fixed line access services of a quality that reflects end-user demands; and
+  (c) allow end-users to share the benefits of efficiency gains in the supply of fibre fixed line access services, including through lower prices; and
+  (d) are limited in their ability to extract excessive profits.
+
+### 163 Overview
+(1) In this Part,—
+  (a) subpart 1 contains general provisions and defines terms used in this Part:
+  (b) subpart 2 sets out the different types of regulation that apply under this Part and provides for the Commission to make determinations specifying how each type of regulation applies to regulated fibre service providers:
+  (c) subpart 3 relates to input methodologies and provides for the Commission to determine input methodologies applying to the regulation of fibre fixed line access services:
+  (d) subpart 4 relates to information disclosure regulation and provides that certain regulated fibre service providers are required to disclose information in accordance with requirements determined by the Commission:
+  (e) subpart 5 relates to price-quality regulation and provides that certain regulated fibre service providers are required to apply the price-quality paths determined by the Commission:
+  (f) subpart 6 contains provisions relating to the duration of regulatory periods:
+  (g) subpart 7 relates to the Commission carrying out reviews related to the regulatory framework for fibre fixed line access services:
+  (h) subpart 8 contains enforcement provisions and miscellaneous provisions relating to the powers of the Commission, incorporation of material by reference, and the disclosure of commercially sensitive information:
+  (i) subpart 9 contains appeal rights:
+  (j) subpart 10 contains order-making and regulation-making powers related to this Part.
+(2) This section is intended only as a guide to the general scheme and effect of this Part.
+
+### 164 Interpretation
+(1) In this Part, unless the context otherwise requires,—
+  - **anchor service** means a fibre fixed line access service declared in regulations made under section 227 to be an anchor service
+  - **claw-back** has the meaning set out in section 165
+  - **contract price** , in relation to a service, means the maximum price that may be charged for providing the service in accordance with the contracts between Crown Infrastructure Partners Limited and UFB partners that were entered into as part of the UFB initiative
+  - **Crown financing** means debt or equity financing provided by, or on behalf of, the Crown to a regulated fibre service provider (or a related party) in connection with the deployment of assets under the UFB initiative
+  - **direct fibre access service** means a fibre fixed line access service declared in regulations made under section 228 to be a direct fibre access service
+  - **first regulatory period** has the meaning set out in section 207
+  - **information disclosure requirement** means a requirement that—
+    (a) applies to a regulated fibre service provider who is prescribed in regulations made under section 226 as being subject to information disclosure regulation; and
+    (b) is specified in a section 170 determination
+  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 176 and that is published by the Commission under section 180
+  - **point-to-multipoint layer 1 service** has the meaning given in section 156AB
+  - **price** —
+    (a) means 1 or more of individual prices, aggregate prices, or revenues (whether in the form of specific numbers, or in the form of formulas by which specific numbers are derived); and
+    (b) includes any related terms of payment
+  - **publicly disclose** , in relation to information required to be disclosed under information disclosure regulation, means to disclose information to the public in the manner required by a section 170 determination
+  - **quality dimensions** means measures of the quality of fibre fixed line access services, and may include (without limitation) responsiveness to access seekers and end-users
+  - **section 170 determination** means a determination made by the Commission under section 170 that sets out how information disclosure regulation or price-quality regulation applies to a regulated fibre service provider
+  - **UFB partner** has the meaning set out in section 156AB
+  - **unbundled fibre service** means a point-to-multipoint layer 1 service declared in regulations made under section 229 to be an unbundled fibre service.
+(2) In this Part, the test for related parties is the same as the test in section 69U, applied with any necessary modifications.
+
+### 165 Meaning and application of claw-back
+(1) A reference to the Commission applying claw-back is a reference to the Commission doing either of the following:
+  (a) requiring a regulated fibre service provider to lower its prices on a temporary basis in order to allow end-users to be compensated for some or all of any over-recovery that occurred under the prices previously charged by the regulated fibre service provider:
+  (b) allowing a regulated fibre service provider to recover some or all of any shortfall in its revenues that occurred under the prices previously charged by the regulated fibre service provider.
+(2) If the Commission requires a regulated fibre service provider to lower its prices, it must also require that the lowering of prices must be spread over time in order to minimise undue financial hardship to the regulated fibre service provider.
+(3) If the Commission allows a regulated fibre service provider to recover any shortfall, it must require that any recovery must be spread over time in order to minimise price shocks to end-users.
+
+### 166 Matters to be considered by Commission and Minister
+(1) This section applies if the Commission or the Minister is required under this Part to make a recommendation, determination, or decision.
+(2) The Commission or Minister must make the recommendation, determination, or decision that the Commission or Minister considers best gives, or is likely to best give, effect—
+  (a) to the purpose in section 162; and
+  (b) to the extent that the Commission or Minister considers it relevant, to the promotion of workable competition in telecommunications markets for the long-term benefit of end-users of telecommunications services.
+
+### Subpart 2 — Regulating fibre fixed line access services
+
+### 167 Regulation of fibre fixed line access services
+(1) Fibre fixed line access services are regulated as provided for by this Part.
+(2) A regulated fibre service provider must comply with—
+  (a) the requirements of this Part that apply to the regulated fibre service provider; and
+  (b) every section 170 determination that applies to the regulated fibre service provider.
+(3) The following apply in relation to a regulated fibre service provider on and after the date on which the provider is obliged to comply with this Part or (as the case requires) with a section 170 determination:
+  (a) sections 212 to 218; and
+  (b) sections 88, 88A, and 90 of the Commerce Act 1986 (applied with any necessary modifications).
+(4) The Commission may exercise any of its powers under this Act for the purpose of monitoring compliance by regulated fibre service providers with regulation under this Part.
+
+### 168 Information disclosure regulation
+Fibre fixed line access services supplied by a regulated fibre service provider who is prescribed in regulations made under section 226 as being subject to information disclosure regulation are subject to information disclosure regulation under this Part (see subpart 4).
+
+### 169 Price-quality regulation
+Fibre fixed line access services supplied by a regulated fibre service provider who is prescribed in regulations made under section 226 as being subject to price-quality regulation are subject to price-quality regulation under this Part (see subpart 5).
+
+### 170 Determinations by Commission under this section
+(1) The Commission must make determinations under this section specifying how 1 or both of the following apply to regulated fibre service providers:
+  (a) information disclosure regulation:
+  (b) price-quality regulation.
+(2) Determinations must—
+  (a) set out, for each type of regulation, the requirements that apply to each regulated fibre service provider; and
+  (b) set out any time frames (including the regulatory periods) that must be complied with or that apply; and
+  (c) specify the input methodologies that apply; and
+  (d) be consistent with this Part.
+(3) It is not necessary for a single determination to address all matters relating to fibre fixed line access services, or to a regulated fibre service provider, and different parts of any determination may come into effect at different times.
+(4) A determination made under this section may require a regulated fibre service provider to comply with the requirements set out in any other determination that has been made under this section in respect of fibre fixed line access services.
+(5) The Commission must, as soon as practicable after making a determination under this section,—
+  (a) give a copy of the determination to each regulated fibre service provider to whom the determination relates; and
+  (b) give public notice of the determination.
+(6) A determination under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+
+### 171 Determinations must reflect actual costs of Crown financing
+(1) This section applies if a section 170 determination sets maximum revenues that may be recovered by, or the maximum price or prices that may be charged by, a regulated fibre service provider.
+(2) The Commission must ensure that the maximum revenues, or the maximum price or prices, reflect, in respect of any Crown financing, the actual financing costs incurred by the provider (or a related party) in the regulatory period to which the determination applies.
+
+### 172 When Commission must make initial section 170 determinations
+(1) The Commission must, after the date on which the relevant input methodologies are determined under section 178 but before the implementation date, make determinations under section 170 specifying—
+  (a) how price-quality regulation applies to regulated fibre service providers during the first regulatory period; and
+  (b) how information disclosure regulation applies to regulated fibre service providers from the start of the first regulatory period.
+(2) A section 170 determination relating to information disclosure regulation may last for more than 1 regulatory period and remains in force until it is revoked.
+
+### 173 Amendment of section 170 determination
+(1) A section 170 determination may be amended in a material way only after the Commission has consulted with interested parties, but may be amended in a non-material way without prior consultation.
+(2) An amendment forms part of the determination it amends.
+(3) An amendment comes into force on the date specified in the amendment, which must be a date on or after the date on which public notice is given under subsection (4)﻿(b).
+(4) The Commission must, as soon as practicable after making an amendment,—
+  (a) give a copy of the amendment to each provider to whom the determination relates; and
+  (b) give public notice of the determination, as amended by the amendment.
+
+### Subpart 3 — Input methodologies
+
+**Input methodologies**
+
+### 174 Purpose of input methodologies
+The purpose of input methodologies is to promote certainty for regulated fibre service providers, access seekers, and end-users in relation to the rules, requirements, and processes applying to the regulation, or proposed regulation, of fibre fixed line access services under this Part.
+
+### 175 How input methodologies apply
+A relevant input methodology relating to the supply of fibre fixed line access services must be applied—
+  (a) by each relevant regulated fibre service provider in accordance with the relevant section 170 determination; and
+  (b) by the Commission in recommending, deciding, or determining—
+    (i) how regulation under this Part should apply to fibre fixed line access services; or
+    (ii) the prices or quality standards applying to fibre fixed line access services.
+
+### 176 Matters covered by input methodologies
+(1) The input methodologies relating to fibre fixed line access services must include, to the extent applicable to the type of regulation under consideration,—
+  (a) methodologies for evaluating or determining the following matters in respect of the supply of the fibre fixed line access services:
+    (i) cost of capital:
+    (ii) valuation of assets, including depreciation, and treatment of revaluations:
+    (iii) allocation of common costs (for example, between activities, businesses, access seekers, regulated services, or geographic areas):
+    (iv) treatment of taxation; and
+  (b) quality dimensions; and
+  (c) regulatory processes and rules, such as—
+    (i) the specification and definition of prices, including identifying any costs that can be passed through to prices (which may not include the legal costs of any appeals against input methodology determinations under this Part); and
+    (ii) identifying circumstances in which a price-quality path may be reconsidered within a regulatory period; and
+  (d) methodologies for capital expenditure projects, including the following:
+    (i) requirements that must be met by the regulated fibre service provider, including the scope and specificity of information required, the extent of independent verification and audit, and the extent of consultation and agreement with other parties (including access seekers or end-users); and
+    (ii) the criteria the Commission will use to evaluate capital expenditure proposals; and
+    (iii) time frames and processes for evaluating capital expenditure proposals, including what happens if the Commission does not comply with those time frames.
+(2) Every input methodology must, as far as is reasonably practicable,—
+  (a) set out the matters listed in subsection (1) in sufficient detail so that each affected regulated fibre service provider is reasonably able to estimate the material effects of the methodology on the provider; and
+  (b) set out how the Commission intends to apply the input methodology to fibre fixed line access services; and
+  (c) be consistent with the other input methodologies that relate to fibre fixed line access services.
+(3) Any methodologies referred to in subsection (1)﻿(a)﻿(ii) that relate to establishing the initial value of fibre assets (as defined in section 177) must be determined in accordance with section 177.
+
+### 177 Initial value of fibre assets
+(1) The initial value of a fibre asset is calculated by—
+  (a) taking the cost—
+    (i) incurred by a regulated fibre service provider in constructing or acquiring the fibre asset, net of specified capital contributions; or
+    (ii) if the fibre asset was owned by Chorus before 1 December 2011, recorded by Chorus for the fibre asset in its published general purpose financial statements as of 1 December 2011; and
+  (b) adjusting that cost for accumulated depreciation and impairment losses (if any) recognised by the regulated fibre service provider (ignoring any accounting adjustment for Crown financing), as at the implementation date, under generally accepted accounting practice in New Zealand.
+(2) Each regulated fibre service provider is treated, as at the implementation date, as owning a fibre asset with an initial value equal to the financial losses, as determined by the Commission, incurred by the provider in providing fibre fixed line access services under the UFB initiative for the period starting on 1 December 2011 and ending on the close of the day immediately before the implementation date.
+(3) In determining the financial losses under subsection (2), the Commission—
+  (a) must take into account any accumulated unrecovered returns on investments made by the provider under the UFB initiative; and
+  (b) in respect of any Crown financing provided in connection with those investments, must refer to the actual financing costs incurred by the provider (or a related party).
+(4) It is not the intention of subsections (2) and (3) that regulated fibre service providers should be protected from all risk of not fully recovering those financial losses through prices over time.
+(5) To avoid doubt, the initial value of a fibre asset determined under this section includes the costs incurred by the provider in relation to the asset—
+  (a) as a direct result of meeting specific requirements of the UFB initiative; and
+  (b) for both standard connections and non-standard connections.
+(6) In this section,—
+  - **accumulated unrecovered returns** means the sum (adjusted to reflect the present value, as calculated in the manner that the Commission thinks fit, at the implementation date) of the unrecovered returns on investments for each financial year, or part financial year, that starts on or after 1 December 2011 and ends before the close of the day immediately before the implementation date
+  - **fibre asset** means an asset that is—
+    (a) constructed or acquired by a regulated fibre service provider; and
+    (b) employed in the provision of fibre fixed line access services (whether or not the asset is also employed in the provision of other services)
+  - **specified capital contribution** —
+    (a) means a capital contribution received by a regulated fibre service provider from 1 or more of the following:
+      (i) an access seeker:
+      (ii) an end-user:
+      (iii) any other person, as determined by the Commission; but
+    (b) does not include any Crown financing
+  - **standard connection** and have the meanings set out in section 155ZU.
+
+### 178 When input methodologies must be determined
+(1) The Commission must, not later than the implementation date, determine the input methodologies referred to in section 176 for fibre fixed line access services.
+(2) The Commission may, at any time after the implementation date, determine further input methodologies for fibre fixed line access services.
+
+### 179 Commission process for determining input methodologies
+(1) When the Commission begins work on an input methodology, it must give public notice of its intention to do so that—
+  (a) outlines the process that will be followed; and
+  (b) sets out the proposed time frames.
+(2) During the course of its work on an input methodology, the Commission—
+  (a) must give public notice of the draft methodology; and
+  (b) must give interested persons a reasonable opportunity to give their views on that draft methodology; and
+  (c) may hold 1 or more conferences; and
+  (d) must have regard to any views received from interested persons within any time frames set.
+(3) Any work done or action taken (including any consultation) by the Commission on input methodologies before this section commences may be taken into account as part of the work required to be done by the Commission to comply with the requirements of subsections (1) and (2).
+
+### 180 Publication of input methodologies
+(1) The Commission must give public notice of every input methodology, and every amendment to an input methodology,—
+  (a) within 10 working days after the Commission determines the input methodology or amendment; and
+  (b) if the input methodology or amendment is determined by the High Court on appeal, within 10 working days after the Commission receives a copy of the decision of the High Court.
+(2) For the purposes of the public notice given under section 6, the full text of the matter must include the reasons for determining the methodology.
+(3) An input methodology or amendment is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+
+### 181 Changes to input methodologies
+(1) If the Commission proposes to amend an input methodology to make a material change, section 179 applies as if the amendment were a new input methodology.
+(2) The Commission may amend an input methodology to make a non-material change without complying with section 179.
+(3) If the Commission proposes to revoke an input methodology, the Commission—
+  (a) must give public notice of its intention to do so that—
+    (i) outlines the process that will be followed; and
+    (ii) sets out the proposed time frames; and
+  (b) must give interested persons a reasonable opportunity to give their views on the proposed revocation; and
+  (c) may hold 1 or more conferences; and
+  (d) must have regard to any views received from interested persons within any time frames set.
+(4) The Commission must give public notice of the revocation of an input methodology within 10 working days after the input methodology is revoked.
+
+### 182 Review and date of publication of input methodologies
+(1) The Commission must review each input methodology no later than 7 years after its date of publication and, after that, at intervals of no more than 7 years.
+(2) The date of publication of an input methodology is—
+  (a) the date on which public notice of the methodology is given under section 180(1)﻿(a); or
+  (b) if a later public notice is given under section 180(1)﻿(b), the date of that notice.
+(3) Section 179 applies, with any necessary modifications, as if the review were a new input methodology.
+(4) Section 180 (or, if relevant, section 181(4)) applies if, after a review, an input methodology is replaced, amended, or revoked.
+
+**Appeals against input methodology determinations**
+
+### 183 Appeals against input methodology determinations
+(1) Any person who gave views on an input methodology determination to the Commission as part of the process under section 179, and who, in the opinion of the High Court, has a significant interest in the matter, may appeal to the High Court against the determination.
+(2) In this section and section 184, input methodology determination means any of the following:
+  (a) the initial determination of an input methodology:
+  (b) any determination by the Commission that amends or revokes the input methodology:
+  (c) any determination by the Commission of an input methodology after a review of the input methodology.
+(3) In determining an appeal against an input methodology determination, the court may do any of the following:
+  (a) decline the appeal and confirm the input methodology, or the revocation of the input methodology, set out in the determination:
+  (b) allow the appeal by—
+    (i) amending the input methodology; or
+    (ii) revoking the input methodology and substituting a new one; or
+    (iii) referring the input methodology determination back to the Commission with directions as to the particular matters that require amendment; or
+    (iv) if the revocation of an input methodology is not confirmed, confirming that the input methodology still applies.
+(4) The court may exercise its powers under subsection (3)﻿(b) only if it is satisfied that the amended, substituted, or confirmed input methodology is (or will be, in the case of subsection (3)﻿(b)﻿(iii)) materially better in—
+  (a) meeting the purpose of this Part or the purpose in section 174, or both; and
+  (b) to the extent that the court considers it relevant, promoting workable competition in telecommunications markets for the long-term benefit of end-users of telecommunications services.
+(5) If the court allows an appeal, the Commission may seek clarification from the court on any matter for the purpose of implementing the court’s decision.
+(6) There is a right of appeal under section 97 of the Commerce Act 1986 to the Court of Appeal from any decision or order of the High Court under this section on a point of law only.
+
+### 184 Process for appeals
+(1) An appeal under section 183(1) must be brought within 20 working days after the date on which public notice of the input methodology is given.
+(2) The appeal must be by way of rehearing and must be conducted solely on the basis of the documentary information and views that were before the Commission when it made its determination, and no party may introduce any new material during the appeal.
+(3) The High Court must sit with 2 lay members (unless the court considers that only 1 is required).
+(4) Each of the lay members must have relevant experience and be appointed from the pool of people appointed under section 77 of the Commerce Act 1986 to be members of the court for the purpose of hearing the appeal.
+(5) Section 77 of the Commerce Act 1986 applies, and section 77(14) of that Act is not limited by subsection (3) of this section.
+
+### 185 Input methodology applies pending outcome of appeal
+(1) The High Court may not stay the application of section 175 with respect to any input methodology until any appeal against it is finally determined.
+(2) Section 175 continues to apply with respect to every input methodology until any appeal against the input methodology is finally determined.
+
+### Subpart 4 — Information disclosure regulation
+
+### 186 Purpose of information disclosure regulation
+The purpose of information disclosure regulation is to ensure that sufficient information is readily available to interested persons to assess whether the purpose of this Part is being met.
+
+### 187 Effect of being subject to information disclosure regulation
+(1) A regulated fibre service provider who is subject to information disclosure regulation must—
+  (a) publicly disclose information in accordance with the information disclosure requirements set out in the relevant section 170 determination; and
+  (b) supply to the Commission a copy of all information disclosed in accordance with the section 170 determination, within 5 working days after the information is first made available to the public; and
+  (c) supply to the Commission, in accordance with a written notice by the Commission, any further statements, reports, agreements, particulars, or other information required for the purpose of monitoring the regulated fibre service provider’s compliance with the section 170 determination.
+(2) If a regulated fibre service provider is subject to information disclosure regulation, the Commission—
+  (a) may monitor and analyse all information disclosed in accordance with the information disclosure requirements; and
+  (b) must, as soon as practicable after any information is publicly disclosed, publish (on an Internet site maintained by or on behalf of the Commission) a summary and an analysis of that information for the purpose of promoting greater understanding of the performance of individual regulated fibre service providers, their relative performance, changes in their performance over time, and their ability to extract excessive profits.
+(3) To avoid doubt, the Commission may, as part of a summary and an analysis, include an analysis of how effective the information disclosure requirements imposed on the regulated fibre service providers are in promoting the purpose in section 162.
+(4) In complying with subsection (2)﻿(b), the Commission must ensure that satisfactory provision exists to protect the confidentiality of any information that may reasonably be regarded as confidential or commercially sensitive.
+
+### 188 Section 170 determination to set out information disclosure requirements
+(1) A section 170 determination relating to fibre fixed line access services that are subject to information disclosure regulation must specify the following:
+  (a) the regulated fibre service providers to which it applies:
+  (b) the information to be disclosed:
+  (c) the manner in which the information is to be disclosed:
+  (d) the form of disclosure:
+  (e) when, and for how long, information must be disclosed:
+  (f) the input methodologies that apply:
+  (g) any other methodologies that are required in the preparation or compilation of the information.
+(2) Information required to be disclosed may include (without limitation) 1 or more of the following:
+  (a) financial statements (including projected financial statements):
+  (b) asset values and valuation reports:
+  (c) prices, terms and conditions relating to prices, and pricing methodologies:
+  (d) contracts:
+  (e) transactions with related parties:
+  (f) financial and non-financial performance measures:
+  (g) plans and forecasts, including (without limitation) plans and forecasts about demand, investments, prices, revenues, quality and service levels, capacity and spare capacity, and efficiency improvements:
+  (h) asset management plans:
+  (i) quality performance measures and statistics:
+  (j) assumptions, policies, and methodologies used or applied in these or other areas:
+  (k) consolidated information that includes information about unregulated services, in which case section 189 applies:
+  (l) information related to 1 or more parts of a fibre network.
+(3) The section 170 determination may do 1 or more of the following:
+  (a) require disclosed information, or information from which disclosed information is derived (in whole or in part), to be verified by statutory declaration:
+  (b) require independent audits of disclosed information:
+  (c) require the retention of data on which disclosed information is based, and associated documentation:
+  (d) exempt any person or class of persons, or provide for exemptions, from any requirements of the determination, and provide for the revocation of exemptions:
+  (e) provide for transitional provisions:
+  (f) impose any other requirements that the Commission considers necessary or desirable to promote the purpose of information disclosure regulation.
+(4) The section 170 determination may not require a regulated fibre service provider to publicly disclose any provision of an existing contract that, immediately before the fibre fixed line access services became subject to information disclosure regulation, was not required by or under any other enactment to be publicly disclosed.
+
+### 189 Consolidated information may also be required
+(1) The purpose of this section is to enable the Commission to monitor compliance with information disclosure regulation applying to fibre fixed line access services.
+(2) A section 170 determination may require information referred to in subsection (3) to be disclosed only to the extent required to enable the purpose in subsection (1) to be met.
+(3) If a regulated fibre service provider provides services that are not subject to regulation under this Part (other services), the provider may be required to disclose—
+  (a) consolidated financial statements, and any other information referred to in section 188, for all businesses (including those related to the supply of other services) undertaken by that provider; and
+  (b) consolidated financial statements, and any other information referred to in section 188, for the supply of all other services in aggregate; and
+  (c) reconciliation of information provided under paragraphs (a) and (b) with information disclosed in accordance with information disclosure requirements applying to the fibre fixed line access services; and
+  (d) reconciliation of information disclosed under Part 4 of the Commerce Act 1986 with information disclosed in accordance with information disclosure requirements applying to the fibre fixed line access services.
+(4) If a regulated fibre service provider supplies goods or services that are regulated under Part 4 of the Commerce Act 1986, the Commission may require the provider to provide consolidated information and performance measures relating to all, or any combination of, those goods or services and the services regulated under this Part.
+
+### 190 Charge for providing copies to public
+(1) A person who is required, by a section 170 determination, to provide copies of statements and information to the public on request may charge for providing those copies.
+(2) The charge must be no more than is reasonably required to recover the costs of providing those copies.
+
+### 191 Limited exception to obligation to apply input methodologies
+(1) Despite section 175, a regulated fibre service provider who is subject only to information disclosure regulation does not have to apply input methodologies for evaluating or determining the cost of capital.
+(2) However, to avoid doubt, subsection (1) does not affect anything else in this subpart, and in particular does not affect—
+  (a) section 187(2) (which means the Commission may use the input methodologies referred to in subsection (1) to monitor and analyse information); or
+  (b) section 188(2) (which means that a regulated fibre service provider may still be required to disclose information about the methodologies for evaluation or determining the cost of capital that it does in fact use).
+
+### Subpart 5 — Price-quality regulation
+
+### 192 Purpose of price-quality regulation
+The purpose of price-quality regulation is to regulate the price and quality of fibre fixed line access services provided by regulated fibre service providers.
+
+### 193 Effect of being subject to price-quality regulation
+(1) A regulated fibre service provider who is subject to price-quality regulation in respect of fibre fixed line access services must—
+  (a) apply the price-quality paths set by the Commission in a section 170 determination in respect of those services; and
+  (b) comply with sections 198 to 201.
+(2) For the purpose of monitoring compliance with this section, the Commission may, in addition to exercising its powers under section 98 of the Commerce Act 1986, issue a written notice to a regulated fibre service provider requiring it to provide any or all of the following:
+  (a) a written statement that states whether the provider has complied with the price-quality paths applying to that provider:
+  (b) a report on the written statement referred to in paragraph (a) that is signed by an auditor in accordance with any form specified by the Commission:
+  (c) sufficient information to enable the Commission to properly determine whether a price-quality path has been complied with:
+  (d) a certificate, in the form specified by the Commission and signed by at least 1 director of the provider, confirming the truth and accuracy of any information provided under this section.
+
+### 194 Section 170 determination to set out price-quality path requirements
+(1) A section 170 determination relating to fibre fixed line access services that are subject to price-quality regulation must specify the price-quality paths that apply to a regulated fibre service provider.
+(2) A price-quality path must specify the following:
+  (a) the regulatory period to which it applies:
+  (b) in relation to prices, 1 or both of the following:
+    (i) the maximum price or prices that may be charged by a regulated fibre service provider:
+    (ii) the maximum revenues that may be recovered by a regulated fibre service provider:
+  (c) the quality standards that must be met by a regulated fibre service provider:
+  (d) the date or dates on which the price-quality path (or any part of it) takes effect:
+  (e) the date or dates by which compliance must be demonstrated in accordance with section 193(2).
+(3) A price-quality path may include incentives for a regulated fibre service provider to maintain or improve its quality of supply, and those incentives may include (without limitation) any of the following:
+  (a) penalties by way of a reduction in the provider’s maximum prices or revenues based on whether, or by what amount, the provider fails to meet the required quality standards:
+  (b) rewards by way of an increase in the provider’s maximum prices or revenues based on whether, or by what amount, the provider meets or exceeds the required quality standards:
+  (c) compensation schemes that set minimum standards of performance and require the provider to pay prescribed amounts of compensation if it fails to meet those standards:
+  (d) reporting requirements, including special reporting requirements in asset management plans, if the provider fails to meet the quality standards.
+(4) Quality standards may, subject to any relevant input methodologies, be prescribed in any way the Commission considers appropriate (such as targets, bands, or formulas).
+(5) A price-quality path does not apply to a regulated fibre service provider until the date specified in the relevant section 170 determination.
+
+### 195 Maximum revenues specified in initial price-quality paths
+(1) Despite section 194(2)﻿(b), the Commission must, in the price-quality paths for each regulatory period that starts before the reset date,—
+  (a) specify the maximum revenues that may be recovered by a regulated fibre service provider; and
+  (b) not specify the maximum price or prices that may be charged by a regulated fibre service provider.
+(2) In this section and section 196, reset date means the date declared, in an order made under section 225, to be the reset date.
+
+### 196 Wash-up mechanism for maximum revenues specified in initial price-quality paths
+(1) This section applies when the Commission specifies, in the price-quality paths for each regulatory period that starts before the reset date (except the first regulatory period), the maximum revenues that may be recovered by a regulated fibre service.
+(2) The Commission must, in calculating the maximum revenues, apply a wash-up mechanism that provides for any over-recovery or under-recovery of revenue by the regulated fibre service provider during the previous regulatory period to be applied in a manner that is equivalent in present value terms (as calculated in the manner that the Commission thinks fit) over 1 or more future regulatory periods.
+(3) To avoid doubt, the Commission may, but is not required to, apply the wash-up mechanism referred to in subsection (2) in a price-quality path for a regulatory period that starts on or after the reset date.
+
+### 197 Smoothing revenues and prices
+(1) This section applies when the Commission specifies maximum prices or maximum revenues for the purpose of section 194(2)﻿(b).
+(2) The Commission must calculate the maximum price or revenue in a manner that is equivalent in present value terms (as calculated in the manner that the Commission thinks fit) over 2 or more regulatory periods (for example, by altering depreciation) if, in the Commission’s opinion, it is necessary or desirable to do so to minimise any undue financial hardship to a regulated fibre service provider or to minimise price shocks to end-users.
+
+### 198 Anchor services
+(1) A regulated fibre service provider who is subject to price-quality regulation must provide an anchor service if an anchor service has been declared.
+(2) The service must be provided—
+  (a) in accordance with any prescribed description of the service; and
+  (b) in accordance with any prescribed conditions; and
+  (c) during any prescribed period for the service; and
+  (d) at a price that is no greater than any prescribed maximum price.
+
+### 199 Direct fibre access services
+(1) A regulated fibre service provider who is subject to price-quality regulation must provide a direct fibre access service if a direct fibre access service has been declared.
+(2) The service must be provided—
+  (a) in accordance with any prescribed description of the service; and
+  (b) in accordance with any prescribed conditions; and
+  (c) during any prescribed period for the service; and
+  (d) at a price that is no greater than any prescribed maximum price.
+
+### 200 Unbundled fibre services
+(1) A regulated fibre service provider who is subject to price-quality regulation must provide an unbundled fibre service if an unbundled fibre service has been declared.
+(2) The service must be provided—
+  (a) in accordance with any prescribed description of the service; and
+  (b) in accordance with any prescribed conditions; and
+  (c) during any prescribed period for the service; and
+  (d) at a price that is no greater than any prescribed maximum price.
+
+### 201 Geographically consistent pricing
+A regulated fibre service provider who is subject to price-quality regulation must, regardless of the geographic location of the access seeker or end-user, charge the same price for providing fibre fixed line access services that are, in all material respects, the same.
+
+### 202 Exceptions from section 201 for trials
+(1) Nothing in section 201 applies in relation to a trial of a fibre fixed line access service.
+(2) The provision of a service is a trial if the service—
+  (a) is offered by the provider for no more than 1 year; and
+  (b) is provided under an agreement with end-users that clearly states the end date for the service; and
+  (c) is provided to no more than 1,000 end-users over the whole period in which it is offered.
+
+### 203 Making new section 170 determination
+(1) Before the end of each regulatory period, the Commission must make a new section 170 determination specifying the price-quality paths that will apply for the following regulatory period.
+(2) In making a new section 170 determination, the Commission must consult with interested parties in relation to the requirements listed in section 194.
+
+### 204 What happens to price-quality path if input methodologies change
+(1) A price-quality path may not be reopened within a regulatory period on the grounds of a change in an input methodology, except as provided in subsection (2).
+(2) A price-quality path must be reopened by the Commission, and a new price-quality path made by amending the relevant section 170 determination in accordance with section 173, if—
+  (a) an input methodology changes as a result of an appeal under section 183; and
+  (b) had the changed methodology applied at the time the price-quality path was set, it would have resulted in a materially different path being set.
+(3) When making a new price-quality path under subsection (2), the Commission must apply claw-back.
+
+### 205 Application of Commerce Act 1986
+Part 2 of the Commerce Act 1986 does not apply in respect of—
+  (a) a price for a fibre fixed line access service provided by a regulated fibre service provider if—
+    (i) that service is subject to a prescribed maximum price under this Part (whether in this Part, in regulations made under this Part, or in a section 170 determination); and
+    (ii) the price is the same as the prescribed maximum price; and
+  (b) any matter necessary for giving effect to the prescribed maximum price referred to in paragraph (a).
+
+### 206 Modification of undertakings under section 156AD
+(1) A regulated service provider is not required to achieve price equivalence in relation to the supply of an unbundled layer 1 service to the extent that the service is an input to a relevant service.
+(2) This section applies—
+  (a) on and after the implementation date; and
+  (b) despite any undertaking entered into by a regulated fibre service provider in accordance with section 156AD(2)﻿(c).
+(3) In this section,—
+  - **layer 1 service** has the meaning set out in section 156AB
+  - **price equivalence** means equivalence (as defined in section 156AB) in relation to pricing
+  - **relevant service** means a service that is subject to a prescribed maximum price under this Part (whether in this Part, in regulations made under this Part, or in a section 170 determination) that is not a cost-based price.
+
+### Subpart 6 — Regulatory periods
+
+### 207 Regulatory periods
+(1) The first regulatory period starts on the implementation date and lasts for a period of 3 years.
+(2) The duration of subsequent regulatory periods must be determined by the Commission and must be between 3 and 5 years.
+(3) The Commission must notify the duration of each new regulatory period in a section 170 determination.
+
+### Subpart 7 — Reviews
+
+### 208 Anchor services review
+(1) The Commission may, before the start of each regulatory period (including the first regulatory period), review whether, and how effectively, an anchor service meets the purpose of anchor services in subsection (7).
+(2) A review must consider the following in respect of an anchor service:
+  (a) any prescribed description of the service:
+  (b) any prescribed conditions that apply to the service:
+  (c) any prescribed period for the service:
+  (d) any prescribed maximum price for the service.
+(3) The Commission must give interested persons a reasonable opportunity to give their views on the matters subject to review and the Commission must have regard to any views received.
+(4) The Commission must make a recommendation to the Minister after a review for the purposes of section 227.
+(5) The Commission must not recommend a change to the description of an anchor service unless the service (with the amended description) meets the purpose in subsection (7).
+(6) The Commission must not recommend a change to the prescribed maximum price of an anchor service unless,—
+  (a) if the recommendation is made before the start of the first regulatory period, the recommended maximum price is based on the contract price for the service immediately before the implementation date, with an annual CPI adjustment mechanism; and
+  (b) if the recommendation is made after the start of the first regulatory period, the recommended maximum price is a cost-based price.
+(7) The purpose of anchor services is—
+  (a) to ensure that baseband equivalent voice and basic broadband services are available to end-users at reasonable prices; and
+  (b) to act as an appropriate constraint on the price and quality of other fibre fixed line access services.
+
+### 209 Price-quality review
+(1) The Commission may, on or after the date that is 3 years after the implementation date and at intervals of no less than 5 years thereafter, review how effectively the regulatory provisions in sections 195, 199, and 200 meet the purpose in section 162.
+(2) A review must consider 1 or more of the following:
+  (a) whether price-quality paths should, with effect from the start of a future regulatory period, continue to be required to specify the maximum revenues that may be recovered by a regulated fibre service provider (see sections 195 and 196):
+  (b) whether any of the matters prescribed under section 228(2) should be amended and, if so, how they should be prescribed instead (if at all):
+  (c) whether a point-to-multipoint layer 1 service supplied to end-users’ premises or buildings should be declared under section 229(1) to be an unbundled fibre service and, if so, how the matters set out in section 229(2) should be prescribed (if at all):
+  (d) whether any of the matters prescribed under section 229(2) should be amended, and, if so, how they should be prescribed instead (if at all).
+(3) The Commission must give interested persons a reasonable opportunity to give their views on the matters subject to review and the Commission must have regard to any views received.
+(4) The Commission must make a recommendation to the Minister following a review for the purposes of section 225, 228, or 229 (as appropriate).
+(5) The Commission must not recommend a prescribed maximum price for an unbundled fibre service or a direct fibre access service unless the maximum price is a cost-based price.
+
+### 210 Deregulation review
+(1) The Commission may, at any time after the implementation date, review how 1 or more fibre fixed line access services are regulated under this Part if the Commission has reasonable grounds to consider that those services—
+  (a) should no longer be regulated under this Part; or
+  (b) should no longer be subject to price-quality regulation under this Part.
+(2) For the purposes of subsection (1), the Commission may, without limitation, describe a service under review with reference to any 1 or more of the following:
+  (a) the geographic area in which the service is supplied:
+  (b) the service’s end-users:
+  (c) the service providers who seek access to the service:
+  (d) the technical specifications of the service:
+  (e) any other circumstances in which the service is supplied.
+(3) The Commission must, before the start of each regulatory period (except the first regulatory period), consider whether there are reasonable grounds to start a review.
+(4) A review may consider the following:
+  (a) whether competition to 1 or more fibre fixed line access services has increased or decreased in a relevant market:
+  (b) the impact of any increase or decrease on the ability of regulated fibre service providers to exercise substantial market power:
+  (c) whether the purpose of this Part would be better met if 1 or more fibre fixed line access services—
+    (i) were no longer regulated under this Part; or
+    (ii) were no longer subject to price-quality regulation under this Part.
+(5) The Commission must give interested persons a reasonable opportunity to give their views on the matters subject to review and the Commission must have regard to any views received.
+(6) The Commission must make a recommendation to the Minister after a review.
+
+### 211 Application of Schedule 3
+Despite clause 1 of Schedule 3, the Commission must not commence an investigation under Schedule 3 in relation to fibre fixed line access services.
+
+### Subpart 8 — Enforcement and miscellaneous provisions
+
+### 212 Pecuniary penalty for contravening information disclosure requirement
+(1) The High Court may, on application by the Commission, order any person to pay a pecuniary penalty to the Crown if the court is satisfied that the person—
+  (a) has contravened any information disclosure requirement (as defined in section 164(1)); or
+  (b) has attempted to contravene any such requirement; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene any such requirement; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene any such requirement; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of any such requirement; or
+  (f) has conspired with any other person to contravene any such requirement.
+(2) In subsection (1) and section 214, a reference to contravening an information disclosure requirement includes all or any of the following:
+  (a) failing to disclose information required to be disclosed:
+  (b) failing to disclose information in the form or within the time required:
+  (c) disclosing information that is false or misleading under an information disclosure requirement.
+(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in the case of a body corporate.
+(4) In determining the amount of pecuniary penalty, the court must have regard to all relevant matters, including—
+  (a) the nature and extent of the contravention; and
+  (b) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence); and
+  (c) whether the person has previously been found by the court in proceedings under this Part to have engaged in similar conduct.
+(5) A regulated fibre service provider may not be liable to more than 1 pecuniary penalty in respect of the same conduct.
+(6) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
+
+### 213 Order requiring information disclosure requirement to be complied with
+(1) The High Court may, on application by the Commission, order a regulated fibre service provider to comply with an information disclosure requirement that applies to the provider.
+(2) An order under this section must specify the date by which, or period within which, the provider must comply with the requirement.
+
+### 214 Offences relating to information disclosure regulation
+(1) A person commits an offence if—
+  (a) the person, knowing that particular fibre fixed line access services are subject to information disclosure regulation, intentionally contravenes any information disclosure requirement relating to those services; or
+  (b) the person is subject to an order under section 213 and fails to comply with the order by the date, or within the period, specified.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+
+### 215 Pecuniary penalty for contravening price-quality requirements
+(1) The High Court may, on application by the Commission, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person—
+  (a) has contravened any price-quality requirement applying to fibre fixed line access services; or
+  (b) has attempted to contravene any such requirement; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene any such requirement; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene any such requirement; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of any such requirement; or
+  (f) has conspired with any other person to contravene any such requirement.
+(2) In subsection (1) and sections 216 to 218, a reference to contravening a price-quality requirement—
+  (a) refers to a requirement imposed—
+    (i) by a determination made under section 170 in relation to fibre fixed line services that are subject to price-quality regulation imposed under Part 6; or
+    (ii) by section 193(1)﻿(b); and
+  (b) includes 1 or more of the following:
+    (i) failing to comply with a requirement for prices, whether by charging a price for a service that is higher than the maximum price permitted, or by receiving more revenue than is permitted, or in any other way:
+    (ii) failing to comply with any quality standards required under the price-quality regulation:
+    (iii) failing to comply with any requirement in sections 198 to 201.
+(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in the case of a body corporate.
+(4) In setting the amount of pecuniary penalty, the court must take into account all of the following matters:
+  (a) the nature and extent of the contravention:
+  (b) the nature and extent of any loss or damage suffered by any person as a result of the contravention:
+  (c) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence):
+  (d) whether or not the person has previously been found by the court in proceedings under this Part to have engaged in similar conduct.
+(5) A regulated fibre service provider may not be liable to more than 1 pecuniary penalty in respect of the same conduct.
+(6) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
+
+### 216 Compensation for contravention of price-quality requirement
+(1) If the High Court orders a person to pay a pecuniary penalty under section 215 in respect of the contravention of a price-quality requirement, the court may, in addition, order the person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (an aggrieved person).
+(2) An application for an order under this section may be made by the Commission or any aggrieved person.
+(3) The application must be made within 1 year of the date of the pecuniary penalty order.
+(4) The court may make an order under this section whether or not any aggrieved person is party to the proceedings.
+(5) In proceedings under this section, the court may make such orders as to cost as it thinks fit.
+
+### 217 Offence relating to price-quality regulation
+(1) A person commits an offence if—
+  (a) the person, knowing that particular fibre fixed line access services are subject to price-quality regulation, intentionally contravenes a price-quality requirement in respect of the services; or
+  (b) the person is subject to an order under section 218(1)﻿(b) and fails to comply with the order.
+(2) A person who commits an offence under subsection (1) is liable on conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+
+### 218 Injunction and other orders relating to price-quality regulation
+(1) If the High Court is satisfied that fibre fixed line access services that are subject to price-quality regulation are being provided, or are likely to be provided, in contravention of any price-quality requirement applying with respect to those services, the court may do 1 or both of the following:
+  (a) grant an injunction restraining any provider of those services from providing them in contravention of the price-quality requirement:
+  (b) make an order requiring the provider to provide the services in accordance with the price-quality requirement applying to them.
+(2) An application for an injunction or order under this section may be made by any person.
+
+### 219 Proceedings for pecuniary penalties
+The following sections of the Commerce Act 1986 apply in relation to proceedings for pecuniary penalties under this Part:
+  (a) section 79A:
+  (b) section 79B (except that the relevant offences are those in sections 214 and 217 of this Act).
+
+### 220 Evidence not otherwise admissible
+In the exercise of its jurisdiction under this Part, except in respect of criminal proceedings and proceedings for pecuniary penalties, the High Court may receive in evidence any statement, document, or information that would not be otherwise admissible but that may in its opinion assist it to deal effectively with the matter.
+
+### 221 Powers of Commission under this Part
+(1) For the purpose of carrying out its functions and exercising its powers under this Part, the Commission may, in addition to exercising its powers under this Act and section 98 of the Commerce Act 1986, do any of the following:
+  (a) consult any person the Commission considers may assist it:
+  (b) investigate any of the following:
+    (i) how effectively and efficiently a regulated fibre service provider is providing fibre fixed line access services:
+    (ii) how any formula, methodology, or price-quality path being considered by the Commission may be applied, or how any formula, methodology, or price-quality provision determined or authorised by the Commission has been applied, in considering proposed prices, revenue, or quality standards:
+    (iii) how any conditions relating to the quality of fibre fixed line access services may be, or are being, fulfilled:
+  (c) examine, consider, or investigate any activity, cost, revenue, transfer, asset valuation, circumstance, or event that is occurring or that has occurred during the previous 7 years:
+  (d) use any information previously disclosed to the Commission under this Act or the Commerce Act 1986:
+  (e) by notice in writing, require any regulated fibre service provider—
+    (i) to prepare and produce forecasts, forward plans, or other information; and
+    (ii) to apply any methodology specified by the Commission in the preparation of forecasts, forward plans, or other information:
+  (f) by notice in writing, require any specified person who the Commission has reason to believe may have information or documents relevant to the investigation, audit, or inquiry, at the time and place specified in the notice, to do 1 or both of the following:
+    (i) produce or supply to the Commission documents and information in relation to the fibre fixed line access services, or the prices or operations of the person in respect of the services:
+    (ii) answer any questions about any matter that the Commission has reason to believe may be relevant to the investigation, audit, or inquiry:
+  (g) by notice in writing, require any regulated fibre service provider, at the time and place specified in the notice, to produce or supply to the Commission an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to the matters in paragraph (b), (c), (e), or (f)﻿(i).
+(2) In this section, specified person means any of the following:
+  (a) a regulated fibre service provider:
+  (b) a person who used to be a regulated fibre service provider:
+  (c) a retail service provider:
+  (d) an agency associated with the supply of fibre fixed line access services.
+
+### 222 Power to exempt disclosure of commercially sensitive information
+(1) The Commission may, on application, exempt any person, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information available to the public as part of the requirements of information disclosure regulation or price-quality regulation.
+(2) The Commission may grant the exemption on any terms and conditions that it thinks fit.
+(3) The Commission must give public notice of the exemption.
+(4) The exemption takes effect from the date specified in the exemption (which must not be earlier than the date on which public notice is given).
+(5) The Commission’s reasons for granting an exemption (including why it is appropriate) must be published together with the exemption.
+(6) The Commission must keep a list of all current exemptions made by it under this section and must make the list available—
+  (a) for public inspection free of charge during normal office hours of the Commission at the offices of the Commission; and
+  (b) on an Internet site maintained by or on behalf of the Commission.
+(7) The Commission may vary or revoke an exemption in the same way as it may grant the exemption, and this section applies with all necessary modifications.
+(8) The breach of a term or condition of an exemption is a breach of the obligation to which the exemption relates.
+(9) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+### 223 Material may be incorporated by reference
+Schedule 5 of the Commerce Act 1986 applies with any necessary modifications if the Commission wishes to incorporate material by reference in 1 or both of the following:
+  (a) a section 170 determination:
+  (b) an input methodology.
+
+### Subpart 9 — Appeals from Commission determinations
+
+### 224 Appeals in relation to Commission determinations
+(1) A regulated fibre service provider or any other person may appeal to the High Court under this subsection against any determination of the Commission under this Part, other than the following:
+  (a) a section 170 determination, or any part of a section 170 determination, that sets out how information disclosure regulation applies to a regulated fibre service provider:
+  (b) an input methodology determination under subpart 3 (for which a separate appeal right is given under that subpart).
+(2) An appeal against a section 170 determination under subsection (1) may not include an appeal against all or part of an input methodology, whether on a point of law or any other ground.
+(3) A person may appeal to the High Court under this subsection on a question of law against any determination of the Commission under this Part (including a determination referred to in subsection (1)), except if the person has appealed, or is able to appeal, on the question of law against the determination under section 183.
+(4) An appeal under this section must be made by giving notice of appeal within 20 working days after the date of the determination appealed against or within such further time as the court may allow.
+(5) Sections 77 and 93 to 97 of the Commerce Act 1986 apply with any necessary modifications in respect of an appeal under this section.
+(6) To avoid doubt, a recommendation to the Minister by the Commission is not a determination for the purposes of this section.
+
+### Subpart 10 — Orders and regulations
+
+### 225 Order for reset date
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare a date to be the reset date for the purpose of sections 195 and 196.
+(2) The power to make an order made under this section may be exercised only once.
+(3) The Minister must not recommend that an order be made under this section unless the Commission has, after a review under section 209, recommended that the order be made.
+
+### 226 Persons subject to regulation under Part 6
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing a person who provides fibre fixed line access services as being subject to 1 or both of the following:
+  (a) information disclosure regulation:
+  (b) price-quality regulation.
+(2) Regulations made under this section must—
+  (a) state the name of the person; and
+  (b) describe the services in respect of which the person is subject to information disclosure regulation, price-quality regulation, or both.
+(3) For the purposes of subsection (2)﻿(b), the regulations may, without limitation other than subsection (4)﻿(b), describe a service with reference to any 1 or more of the following:
+  (a) the geographic area in which the service is supplied:
+  (b) the service’s end-users:
+  (c) the service providers who seek access to the service:
+  (d) the technical specifications of the service:
+  (e) any other circumstances in which the service is supplied.
+(4) The Minister must not recommend that regulations be made under this section unless—
+  (a) the Commission has consulted with interested persons; and
+  (b) the Commission has recommended to the Minister that the regulations be made.
+(5) Subsection (4) applies unless the Minister is recommending regulations to which either or both of the following apply:
+  (a) the regulations have no more than a minor effect:
+  (b) the regulations correct errors or make similar technical amendments.
+(6) The Minister must not recommend that regulations be made to prescribe a person as being subject to information disclosure regulation, price-quality regulation, or both unless the Commission has advised that it is satisfied that the person provides fibre fixed line access services in a market where the person can exercise a substantial degree of market power.
+(7) If, in accordance with regulations made under this section, a person is subject to information disclosure regulation or price-quality regulation (or both) in respect of 1 or more fibre fixed line access services, the regulations apply to any subsidiary of, or successor to, the person in respect of those services.
+(8) For the purposes of subsection (4)﻿(a), the Commission has consulted with interested persons if it has complied with section 210(5) in relation to the proposed change to be implemented through the regulations.
+(9) In this section, a reference to a person who provides fibre fixed line access services includes a person who provides services that would be fibre fixed line access services if the person was already subject to information disclosure regulation or price-quality regulation under this Part.
+
+### 227 Anchor services
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring a fibre fixed line access service to be an anchor service.
+(2) The regulations may, in relation to the service, prescribe all or any of the following:
+  (a) a description of the service; and
+  (b) any conditions; and
+  (c) the period during which a regulated fibre service provider who is subject to price-quality regulation must provide the service; and
+  (d) the maximum price that a regulated fibre service provider who is subject to price-quality regulation may charge for providing the service.
+(3) For the purposes of subsection (2)﻿(a), the regulations may, without limitation other than subsection (4), describe a service with reference to any 1 or more of the following:
+  (a) the geographic area in which the service must be supplied:
+  (b) the service’s end-users:
+  (c) the service providers who seek access to the service:
+  (d) the technical specifications of the service:
+  (e) any other circumstances in which the service must be supplied.
+(4) The Minister must not recommend that regulations be made under this section unless the Commission has, after a review under section 208, recommended that the regulations be made.
+(5) Subsection (4) applies unless the Minister is recommending regulations to which either or both of the following apply:
+  (a) the regulations have no more than a minor effect:
+  (b) the regulations correct errors or make similar technical amendments.
+(6) See clause 14 of Schedule 1AA for requirements relating to the first regulations made under this section.
+
+### 228 Direct fibre access services
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring a fibre fixed line access service to be a direct fibre access service.
+(2) The regulations may, in relation to a direct fibre access service, prescribe all or any of the following:
+  (a) a description of the service; and
+  (b) any conditions; and
+  (c) the period during which a regulated fibre service provider who is subject to price-quality regulation must provide the service; and
+  (d) the maximum price that a regulated fibre service provider who is subject to price-quality regulation may charge for providing the service.
+(3) For the purposes of subsection (2)﻿(a), the regulations may, without limitation other than subsection (4), describe a service with reference to any 1 or more of the following:
+  (a) the geographic area in which the service must be supplied:
+  (b) the service’s end-users:
+  (c) the service providers who seek access to the service:
+  (d) the technical specifications of the service:
+  (e) any other circumstances in which the service must be supplied.
+(4) The Minister must not recommend that regulations be made under this section unless the Commission has, after a review under section 209, recommended that the regulations be made.
+(5) Subsection (4) applies unless the Minister is recommending regulations to which 1 or more of the following apply:
+  (a) the regulations have no more than a minor effect:
+  (b) the regulations correct errors or make similar technical amendments:
+  (c) the regulations are allowed under subsection (6).
+(6) If a review has not been carried out under section 209, the Minister may recommend that regulations be made under subsection (2)﻿)d) if the Minister is satisfied that the regulations will prescribe a maximum price by reference to the contract price of the service immediately before the implementation date, with an annual CPI adjustment mechanism.
+(7) See clause 15 of Schedule 1AA for requirements relating to the first regulations made under this section.
+
+### 229 Unbundled fibre services
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring a point-to-multipoint layer 1 service supplied to end-users’ premises or buildings to be an unbundled fibre service.
+(2) The regulations may, in relation to an unbundled fibre service, prescribe all or any of the following:
+  (a) a description of the service:
+  (b) any conditions:
+  (c) the period during which the service must be provided:
+  (d) the maximum price that may be charged for the service, which must be a cost-based price.
+(3) For the purposes of subsection (2)﻿(a), the regulations may, without limitation other than subsection (4), describe a service with reference to any 1 or more of the following:
+  (a) the geographic area in which the service must be supplied:
+  (b) the service’s end-users:
+  (c) the service providers who seek access to the service:
+  (d) the technical specifications of the service:
+  (e) any other circumstances in which the service must be supplied.
+(4) The Minister must not recommend that regulations be made under this section unless the Commission has, after a review under section 209, recommended that the regulations be made.
+(5) Subsection (4) applies unless the Minister is recommending regulations to which either or both of the following apply:
+  (a) the regulations have no more than a minor effect:
+  (b) the regulations correct errors or make similar technical amendments.
+(6) Despite subsection (1), the Minister must not recommend that a service be declared, before 1 January 2026, to be an unbundled fibre service if the service is provided over a fibre network developed as part of UFB 2 (as defined in section 156AB).
+(7) See clause 16 of Schedule 1AA for requirements relating to the first regulations made under this section.
+
+### 230 Regulations under sections 228 and 229 may modify undertaking under section 156AD
+(1) This section applies if the Governor-General makes regulations under section 228 or 229.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make further regulations to discharge an LFC from its obligation to supply a service under an undertaking entered into in accordance with section 156AD.
+(3) For the purposes of subsection (2), the regulations may describe the service with reference to any 1 or more of the following:
+  (a) the geographic area in which the service is supplied:
+  (b) the service’s end-users:
+  (c) the service providers who seek access to the service:
+  (d) the technical specifications of the service:
+  (e) any other circumstances in which the service is supplied.
+(4) In this section, LFC has the meaning given in section 156AB.
+
+### 231 Specified points of interconnection
+(1) The Commission may, by public notice, prescribe points of interconnection for the purposes of establishing fibre handover points.
+(2) The notice may prescribe a point of interconnection by reference to 1 or more of the following:
+  (a) a regulated fibre service provider’s network:
+  (b) a geographical location:
+  (c) the UFB initiative.
+(3) The Commission may amend or revoke a notice in the manner in which it was made.
+(4) However, the Commission must not amend a specified point of interconnection unless the amendment—
+  (a) is for an appropriate technical purpose; and
+  (b) is consistent with the purpose in section 162.
+(5) The first notice made under this section—
+  (a) must prescribe points of interconnection based on the points of interconnection that apply as at the close of 31 December 2019 under the UFB initiative; and
+  (b) may prescribe additional points of interconnection.
+(6) A notice under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+## Part 7 — Consumer matters
+
+### 232 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **consumer** means, in relation to a telecommunications service, the end-user of the service
+  - **industry dispute resolution scheme** —
+    (a) means—
+      (i) the Telecommunications Dispute Resolution scheme established by the Forum; and
+      (ii) any other dispute resolution scheme that has been set up by the telecommunications industry and deals with consumer complaints; but
+    (b) excludes a dispute resolution scheme as defined in clause 2 of Schedule 3C
+  - **scheme member** means a member of an industry dispute resolution scheme
+  - **scheme provider** means the person responsible for an industry dispute resolution scheme.
+
+**Retail service quality codes**
+
+### 233 Purpose of retail service quality code
+The purpose of a retail service quality code is to improve retail service quality to reflect the demands of end-users of telecommunications services.
+
+### 234 Commission may issue guidelines
+The Commission may issue guidelines to the telecommunications industry on any matters relating to retail service quality codes, including advice on what matters are appropriately dealt with by retail service quality codes.
+
+### 235 Commission review of industry retail service quality codes
+(1) The Commission may, at any time, review an industry retail service quality code.
+(2) The Commission may require the following persons to provide the Commission with any information relevant to the industry retail service quality code under review:
+  (a) the Forum:
+  (b) service providers to whom the code applies.
+(3) After each review, the Commission must—
+  (a) advise the Forum, the dispute resolution provider for the code (if any), and the Minister of any recommendations for improving the code and of any recommendations for creating a new code; and
+  (b) advise the Minister of whether any previous recommendations have been implemented; and
+  (c) advise the Minister of whether, in the Commission’s opinion,—
+    (i) the code fails to achieve the purpose set out in section 233; or
+    (ii) a Commission RSQ code would better achieve the purpose set out in section 233.
+
+### 236 Commission retail service quality code
+(1) The Commission may make a retail service quality code in relation to the provision of 1 or more types of telecommunications service only if—
+  (a) no industry retail service quality code has been made in relation to the service; or
+  (b) an industry retail service quality code has been made in relation to the service, but in the Commission’s opinion—
+    (i) the code fails to achieve the purpose set out in section 233; or
+    (ii) a Commission RSQ code would better achieve the purpose set out in section 233.
+(2) If the Commission intends to make a Commission RSQ code, the Commission must, before making the code, provide a report to the Minister containing the reasons for making the code and the provision of this section that applies.
+
+### 237 Contents of Commission retail service quality code
+(1) A Commission RSQ code must—
+  (a) specify which telecommunications services it applies to; and
+  (b) specify which telecommunications service providers it applies to; and
+  (c) promote the purpose set out in section 233.
+(2) A Commission retail service quality code may—
+  (a) impose binding obligations on telecommunications service providers that provide retail telecommunications services covered by the code; and
+  (b) contain any other provisions that are necessary or desirable.
+
+**Commission 111 contact code**
+
+### 238 Commission 111 contact code
+(1) The Commission must make a code for the purpose of ensuring that vulnerable consumers, or persons on their behalf, have reasonable access to an appropriate means to contact the 111 emergency service in the event of a power failure.
+(2) The code must be made before the implementation date.
+(3) The code must—
+  (a) specify which telecommunications services it applies to; and
+  (b) require the providers of those services to inform consumers about the options available for vulnerable consumers; and
+  (c) prescribe a process (or processes) for a consumer of those services, or a person on their behalf, to demonstrate that they—
+    (i) are a vulnerable consumer; or
+    (ii) will become a vulnerable consumer; and
+  (d) require the providers of those services to supply vulnerable consumers, at no cost to the consumers, with an appropriate means for contacting the 111 emergency service that can be operated for the minimum period in the event of a power failure; and
+  (e) specify the minimum period for the purposes of paragraph (d).
+(4) The code may do 1 or more of the following:
+  (a) specify classes of people that must be considered vulnerable consumers:
+  (b) specify appropriate means for vulnerable consumers, or persons on their behalf, to contact emergency services:
+  (c) contain any other provisions that are necessary or desirable to achieve the purpose in subsection (1).
+(5) In this section,—
+  - **minimum period** means the minimum period specified under subsection (3)﻿(e)
+  - **specified telecommunications service** means a telecommunications service specified in the Commission 111 contact code as a service to which the code applies
+  - **vulnerable consumer** means a consumer of a specified telecommunications service who—
+    (a) is at particular risk of requiring the 111 emergency service (for example, due to a known medical condition); and
+    (b) does not have a means for contacting the 111 emergency service that can be operated for the minimum period in the event of a power failure.
+
+**Process for making Commission codes**
+
+### 239 Process for making or amending Commission code
+(1) In order to make a Commission code, the Commission must—
+  (a) give public notice of the process that will be followed to make the code; and
+  (b) consult with interested persons; and
+  (c) give public notice of a draft code.
+(2) If the code is a Commission 111 contact code, interested persons includes the following:
+  (a) the New Zealand Police:
+  (b) Fire and Emergency New Zealand:
+  (c) the Director of Civil Defence Emergency Management:
+  (d) every provider of an initial call answering point for the 111 emergency service.
+(3) A person is entitled to make submissions to the Commission not later than 30 working days after the date on which public notice of the draft code is given.
+(4) The Commission may make the code only if the Commission is satisfied that the draft code meets all the requirements set out in this Part.
+(5) The Commission may amend or revoke a code if the Commission considers that the code no longer meets all the requirements set out in this Part.
+(6) The same procedure that applies to making a code in subsections (1) to (4) must be followed to make an amendment or a revocation, with any necessary modifications.
+(7) The Commission must give public notice of every code that is made and every amendment or revocation of those codes.
+
+**Dispute resolution schemes**
+
+### 240 Dispute resolution scheme
+(1) The dispute resolution scheme for all Commission codes is—
+  (a) an industry dispute resolution scheme; or
+  (b) if Part 4B comes into force in accordance with section 156S, a consumer complaints system—
+    (i) that is appointed under that Part; and
+    (ii) that the Minister declares under this section to be the dispute resolution scheme for Commission codes.
+(2) A scheme provider for an industry dispute resolution scheme must, on request by the Minister or the Commission, provide information on matters relating to any information or reports relevant to the administration of a Commission code.
+(3) Sections 241 to 245 apply unless Part 4B comes into force.
+
+### 241 Disputes may be referred to industry dispute resolution scheme
+(1) A dispute between a consumer and a telecommunications service provider about their rights and obligations under a Commission code may be referred to an industry dispute resolution scheme by any of the parties to the dispute.
+(2) Disputes that may, depending on the relevant Commission code, be referred to an industry dispute resolution scheme include disputes about the following:
+  (a) installation times:
+  (b) how consumer complaints are handled:
+  (c) other matters provided for in the code or by the industry dispute resolution scheme.
+
+### 242 Determinations binding on scheme members and certain other parties
+(1) This section applies if a dispute is referred to an industry dispute resolution scheme and a determination is made on the dispute under the rules of the scheme.
+(2) The determination is binding on each party to the dispute who is a scheme member (except to the extent that it may be modified by the District Court under section 245(3)), and the scheme member has no right of appeal against the determination.
+(3) The determination is binding on each party to the dispute who is not a scheme member, except if one of those parties lodges an appeal against the determination under section 243 and the court modifies or reverses the determination.
+
+### 243 Appeals against determinations
+(1) A consumer or any other party to the dispute who is not a scheme member may, within the time allowed under section 244(1), appeal to the District Court against a determination.
+(2) The court may confirm, modify, or reverse the determination appealed against.
+(3) The decision of the court on the appeal is binding on all persons named as parties in the determination, and there is no right of appeal against the court’s decision.
+
+### 244 Procedure on appeal
+(1) An appeal under section 243 must be brought and determined in accordance with the rules of court, except that—
+  (a) an appeal must be brought within 5 working days after the determination appealed against is notified to the party wanting to lodge the appeal, or any further time the court allows on an application made before or after that period ends; and
+  (b) the industry dispute resolution scheme, as the maker of the determination appealed against, is not entitled to be represented at the hearing of the appeal; and
+  (c) the court on appeal may not refer the determination back to the industry dispute resolution scheme for any purpose.
+(2) The court may hear all evidence provided and representations made by or on behalf of any party to the appeal that the court considers relevant to the appeal, whether or not the evidence would otherwise be admissible in a court.
+
+### 245 Compliance with rules, binding settlements, and determinations
+(1) Members of an industry dispute resolution scheme and each party to a dispute that is referred to the scheme must comply with the rules of the scheme.
+(2) On an application of the scheme provider for an industry dispute resolution scheme, the District Court may require a scheme member or other person who is a party to a dispute to do any of the following:
+  (a) comply with the rules of the scheme:
+  (b) comply with the terms of a binding settlement or determination made under the rules of the scheme.
+(3) If the District Court is satisfied that the terms of a binding settlement or determination are manifestly unreasonable, the court’s order under subsection (2)﻿(b) may modify the terms of the binding settlement or determination, but only to the extent that the modification results in a binding settlement or determination that could have been made under the industry dispute resolution scheme.
+(4) If an order requiring a scheme member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by the District Court for the payment of a sum of money.
+(5) A reference in this section to a scheme member includes a reference to a person who was a member of the industry dispute resolution scheme at the relevant time but is no longer a member at the time of the application or order.
+
+**Commission review of industry dispute resolution schemes**
+
+### 246 Commission review of industry dispute resolution schemes
+(1) The Commission must review each industry dispute resolution scheme at least once every 3 years.
+(2) As part of a review of a scheme, the Commission may, without limitation, consider the following:
+  (a) the purpose of the scheme:
+  (b) the scheme provider:
+  (c) the dispute resolution provider for the scheme:
+  (d) the effectiveness of the scheme in resolving complaints by consumers against service providers:
+  (e) the adequacy of the scheme rules:
+  (f) whether the scheme rules comply with the following principles:
+    (i) accessibility:
+    (ii) independence:
+    (iii) fairness:
+    (iv) accountability:
+    (v) efficiency:
+    (vi) effectiveness:
+  (g) whether any recommendations for improving the scheme made under subsection (4) have been implemented:
+  (h) the purpose of the dispute resolution provider for the scheme:
+  (i) the procedures that are used for receiving, investigating, and resolving complaints:
+  (j) how promptly complaints are dealt with.
+(3) The Commission may require the following persons to provide the Commission with any information relevant to the matters included in subsection (2):
+  (a) the dispute resolution provider for the scheme:
+  (b) the scheme provider:
+  (c) a scheme member.
+(4) After each review, the Commission must provide a report to the scheme provider on any recommendations for improving the scheme and when the recommendations should be implemented.
+(5) If the Commission considers that any recommendations made under subsection (4) have not been implemented satisfactorily, the Commission must provide a report to the Minister on—
+  (a) the recommendations for improving the scheme made under subsection (4); and
+  (b) whether those recommendations have been implemented; and
+  (c) whether, in the Commission’s opinion,—
+    (i) the scheme fails to achieve the purpose set out in section 247; or
+    (ii) the dispute resolution provider for the scheme fails to achieve the purpose set out in section 248.
+(6) If the Commission proposes to report, under subsection (5)﻿(c), that a scheme fails to achieve the purpose set out in section 247 or that the dispute resolution provider for the scheme fails to achieve the purpose in section 248, the Commission must give the following persons 20 working days to make submissions on a draft report:
+  (a) the dispute resolution provider for the scheme:
+  (b) the scheme provider:
+  (c) a scheme member.
+
+### 247 Purpose of dispute resolution scheme
+The purpose of a dispute resolution scheme is to ensure that, if a consumer has a dispute with a service provider in relation to a Commission code or an industry retail service quality code, the consumer has access to a dispute resolution scheme for resolving that dispute in accordance with the principles set out in section 246(2)﻿(f).
+
+### 248 Purpose of dispute resolution provider
+The purpose of a dispute resolution provider, in relation to a dispute resolution scheme for a Commission code or an industry retail service quality code, is—
+  (a) to operate the scheme; and
+  (b) to administer the relevant code; and
+  (c) to manage consumer complaints relating to the code; and
+  (d) to investigate disputes relating to the code; and
+  (e) to promote awareness of the scheme and the code; and
+  (f) to monitor compliance with the scheme and the code; and
+  (g) to enforce the provisions of the scheme and the code.
+
+### 249 Interrelationship of remedies
+(1) Nothing in this Part limits or affects any right, duty, liability, or remedy that exists or is available apart from this Part.
+(2) Any right of action or other remedy available under, or in connection with, this Part may be taken, proceeded with, or heard in conjunction with any other action or remedy available under this Act or otherwise.
+(3) However, in determining whether to order a person to pay a penalty, compensation, or damages, the court must have regard to—
+  (a) whether that person has already been ordered to pay a penalty, compensation, or damages for the same matter; and
+  (b) if so, the amount and effect of that first order.
 
 ## Schedule 1AA — Transitional, savings, and related matters
 
@@ -3688,6 +4762,71 @@ If the consent process has not begun as at the commencement date, then, despite 
   (c) consulting industry bodies and other persons that the Minister considers would be likely to be substantially affected by a potential approval:
   (d) approving a scheme as the approved scheme.
 (2) The action taken is deemed to have been taken by the Minister under, and for the purposes of, clauses 3 to 5 of Schedule 3C of the principal Act and bringing the amendment Act into operation.
+
+### Part 2 — Provisions relating to Telecommunications (New Regulatory Framework) Amendment Act 2018
+
+### 7 Interpretation
+In this Part,—
+  - **LFC** has the meaning set out in section 156AB
+  - **UFB contract** means a contract between Crown Infrastructure Partners Limited and a UFB partner that was entered into as part of the UFB initiative
+  - **UFB partner** has the meaning set out in section 156AB.
+
+### 8 Public notice
+(1) A notice given, or purportedly given, by the Commission in accordance with former section 6 must be treated as having been properly given in accordance with that section.
+(2) Former section 6 continues to apply, and section 6 does not apply, in relation to a notice given, or purportedly given, in accordance with former section 6.
+(3) In this clause, former section 6 means section 6 as in force immediately before the commencement of section 5 of the Telecommunications (New Regulatory Framework) Amendment Act 2018.
+
+### 9 Implementation date
+(1) The Minister may, at any time before the implementation date, defer the implementation date by up to 2 years if the Commission makes a written request for a deferral.
+(2) However, the Minister may defer the implementation date only once.
+(3) The Minister must notify a deferral, and specify the new implementation date, in the Gazette.
+(4) Subclause (5) applies if the implementation date is deferred.
+(5) During the period starting on 1 December 2019 and ending on the close of the day immediately before the new implementation date, each specified contract continues in force to the extent that it relates to any of the following:
+  (a) services that Crown Infrastructure Partners Limited and a UFB partner or an LFC agreed would be offered and provided to access seekers by that UFB partner or LFC:
+  (b) pricing of those services, including terms relating to maximum prices (but see subclause (6)):
+  (c) service levels for those services, including service default payments and the measurement and calculation of service levels:
+  (d) reporting obligations of a UFB partner or an LFC that relate to the matters specified in paragraphs (a) to (c).
+(6) A UFB partner or an LFC may, on 1 July of each year (starting on 1 July 2020), apply an annual CPI adjustment to a maximum price continued by subclause (5)﻿(b).
+(7) In this clause,—
+  - **access seeker** means a person who seeks access to a wholesale telecommunications service that is provided using, or that provides access to unbundled elements of, a fibre network
+  - **maximum price** means the maximum price a UFB partner or an LFC is able, under the terms of a specified contract, to charge for providing a service
+  - **specified contract** means a contract or deed (as in force immediately before 1 December 2019 and as amended from time to time) between Crown Infrastructure Partners Limited and a UFB partner or an LFC that was entered into as part of the UFB initiative.
+
+### 10 Information disclosure under subpart 3 of Part 4AA
+(1) An LFC is not required to comply with any information disclosure requirements under subpart 3 of Part 4AA in respect of any period during which the LFC is also subject to information disclosure regulation under Part 6.
+(2) However, an LFC must continue to prepare and disclose information in accordance with section 156AU in respect of any disclosure period for the LFC that starts before the implementation date but ends on or after the implementation date.
+(3) In this clause, disclosure period means the period of time, set by the Commission under section 156AU, in respect of which the LFC is required to disclose information under subpart 3 of Part 4AA.
+
+### 11 Application of requirement for geographically consistent pricing under section 201
+(1) This clause applies if a price for a fibre fixed line access service was agreed under a contract entered into before the commencement date.
+(2) For the period to which the price, or the price as adjusted under the contract, applies,—
+  (a) section 201 does not apply in relation to the price or adjusted price; and
+  (b) the price set out in the contract, with any adjustments permitted by the contract, continues to apply.
+(3) This clause ceases to apply on the date that is 3 years after the commencement date.
+(4) In this clause,—
+  - **commencement date** means the date on which section 201 comes into force
+  - **the contract** means the contract as at the commencement date.
+
+### 12 Anchor services review before first regulatory period
+(1) Despite section 208(2)﻿(c), if the Commission starts a review under section 208 before the start of the first regulatory period, the review must not consider the prescribed period for an anchor service.
+(2) If the Commission starts a review under section 208 before the start of the first regulatory period, the Commission must not recommend prescribing a description of the service that is, or conditions of the service that are, materially different from the terms set out in a UFB contract.
+
+### 13 Procedural requirements for regulations made under section 226 before first regulatory period
+Section 226(4) and (6) does not apply in relation to any regulations made under section 226(1) that come into force before the start of the first regulatory period.
+
+### 14 Requirements for initial regulations made under section 227 (anchor services)
+(1) This clause applies in relation to the first regulations made under section 227.
+(2) Despite section 227(4), the Minister may recommend that regulations be made under section 227 even though the Commission has not carried out a review under section 208 or recommended that the regulations be made.
+(3) However, the Minister must not recommend that regulations be made to prescribe a description of the service that is, or conditions of the service that are, materially different from the terms set out in a UFB contract.
+(4) The Minister must not recommend the making of regulations under section 227(2)﻿(d) unless the Minister is satisfied that the regulations will prescribe a maximum price that is based on the maximum price that may be charged for providing the service under a UFB contract, with an annual CPI adjustment mechanism.
+
+### 15 Requirements for initial regulations made under section 228 (direct fibre access services)
+(1) This clause applies in relation to the first regulations made under section 228.
+(2) Despite section 228(4), the Minister may recommend that regulations be made under section 228 even though the Commission has not carried out a review under section 209 or recommended that the regulations be made.
+(3) However, the Minister must not recommend that regulations be made to prescribe a description of the service that is, or conditions of the service that are, materially different from the terms set out in a UFB contract.
+
+### 16 Procedural requirements for initial regulations made under section 229 (unbundled fibre services)
+Section 229(4) does not apply in relation to the first regulations made under section 229.
 
 ## Schedule 1 — Designated services and specified services
 
@@ -3775,54 +4914,51 @@ The following standard access principles apply to designated access services and
 | Requirement referred to in section 45 for final pricing principle: | If TSLRIC is the final pricing principle, the Commission must, by notice in writing, require the access provider to calculate the price payable for the service in accordance with TSLRIC and any regulations relating to that principle not later than the time specified in the notice |
 | Additional matters that must be considered regarding application of section 18: | In applying the initial pricing principle and final pricing principle, the Commission must consider—aincentives to terminate dial-up Internet traffic and other similar one-way traffic streams must be efficient; andbthe effect of any obligation under the TSO instrument to provide price-capped unlimited calls |
 | Retail services offered by means of a fixed telecommunications network |  |
-| Description of service applicable before the expiry of 3 years from separation day: | A retail service that satisfies both of the following:aany of the following:ia non-price-capped local access and calling service; oriia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to the service described in subparagraph (i) (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriiia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) or (ii) above or a price-capped residential local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission |
-| Description of service applicable after the expiry of 3 years from separation day: | A retail service that satisfies both of the following:aeither of the following:ia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to a local access and calling service (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) above or a local access and calling service; andba retail service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Telecom faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission |
-| Access provider: | Telecom |
+| Description of service: | A retail service that satisfies both of the following:aeither of the following:ia non-price-capped retail service (and its associated functions) supplying an access and calling service in a different form to a local access and calling service (and including, for the avoidance of doubt, a service supplying ISDN digital access, or Centrex-based access or facsimile); oriia value-added non-price-capped retail service that is supplied in conjunction with a service described in subparagraph (i) above or a local access and calling service; andba retail service offered by Spark to end-users by means of a fixed telecommunications network in the following markets:iall markets in which Spark faces limited, or is likely to face lessened, competition for that service:iiall, some, or no markets in which Spark does not face limited, or is not likely to face lessened, competition for that service as determined by the Commission |
+| Access provider: | Spark |
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 |
-| Initial pricing principle: | Either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service |
-| Final pricing principle: | Either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service |
+| Initial pricing principle: | Either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Spark in markets in which Spark faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Spark in markets in which Spark does not face limited, or lessened, competition for that service |
+| Final pricing principle: | Either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Spark in markets in which Spark faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail minus a discount comprising actual costs saved, in the case of a service offered by Spark in markets in which Spark does not face limited, or lessened, competition for that service |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Local access and calling service offered by means of fixed telecommunications network |  |
-| Description of service applicable before the expiry of 3 years from separation day: | A price-capped residential local access and calling service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for price-capped residential local access and calling service as determined by the Commission |
-| Description of service applicable after the expiry of 3 years from separation day: | A local access and calling service offered by Telecom to end-users by means of a fixed telecommunications network in the following markets:aall markets in which Telecom faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Telecom does not face limited, or is not likely to face lessened, competition for the service as determined by the Commission |
-| Conditions applicable before the expiry of 3 years from separation day: | That either—aTelecom faces limited, or is likely to face lessened, competition in a market for a price-capped residential local access and calling service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition for a price-capped residential local access and calling service offered by Telecom to end-users, and the Commission has decided to require a local access and calling service to be wholesaled |
-| Conditions applicable after the expiry of 3 years from separation day: | That either—aTelecom faces limited, or is likely to face lessened, competition in a market for a local access and calling service offered by Telecom to end-users; orbTelecom does not face limited, or is not likely to face lessened, competition for a local access and calling service offered by Telecom to end-users, and the Commission has decided to require a local access and calling service to be wholesaled |
-| Access provider: | Telecom |
+| Description of service: | A local access and calling service offered by Spark to end-users by means of a fixed telecommunications network in the following markets:aall markets in which Spark faces limited, or is likely to face lessened, competition for the service:ball, some, or no markets in which Spark does not face limited, or is not likely to face lessened, competition for the service as determined by the Commission |
+| Conditions: | That either—aSpark faces limited, or is likely to face lessened, competition in a market for a local access and calling service offered by Spark to end-users; orbSpark does not face limited, or is not likely to face lessened, competition for a local access and calling service offered by Spark to end-users, and the Commission has decided to require a local access and calling service to be wholesaled |
+| Access provider: | Spark |
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles | The limits set out in clause 6 |
-| Initial pricing principle applicable before the expiry of 3 years from separation day | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2% |
-| Initial pricing principle applicable after the expiry of 3 years from separation day: | For a price-capped residential local access and calling service, either—aTelecom’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2%; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
-|  | For a non-price-capped local access and calling service, either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
-| Final pricing principle applicable before the expiry of 3 years from separation day | Telecom's standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved |
-| Final pricing principle applicable after the expiry of 3 years from separation day: | For a price-capped local access and calling service, either—aTelecom’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency serviceFor a non-price-capped local access and calling service, either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail price minus a discount comprising actual costs saved, in the case of a service offered by Telecom in markets in which Telecom does not face limited, or is not likely to face lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
+| Initial pricing principle applicable before 16 December 2019: | For a price-capped residential local access and calling service, either—aSpark’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2%; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
+|  | For a non-price-capped local access and calling service, either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Spark in markets in which Spark faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Spark in markets in which Spark does not face limited, or lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
+| Initial pricing principle applicable on and after 16 December 2019 | For a price-capped residential local access and calling service, either—aSpark’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus 2%; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus $31.68, with an annual CPI adjustment applied on 16 December in each yearFor a non-price-capped local access and calling service, either—aretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of these services, in the case of a service offered by Spark in markets in which Spark faces limited, or is likely to face lessened, competition for that service; orbretail price less a discount benchmarked against discounts in comparable countries that apply retail price minus actual costs saved pricing in respect of these services, in the case of a service offered by Spark in markets in which Spark does not face limited, or lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus $31.68, with an annual CPI adjustment applied on 16 December in each year; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus $31.68, with an annual CPI adjustment applied on 16 December in each year |
+| Final pricing principle applicable before 16 December 2019: | For a price-capped local access and calling service, either—aSpark’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency serviceFor a non-price-capped local access and calling service, either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Spark in markets in which Spark faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail price minus a discount comprising actual costs saved, in the case of a service offered by Spark in markets in which Spark does not face limited, or is not likely to face lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus the price for Chorus’s full unbundled copper local loop network plus the relevant price (if any) in either paragraph (b) of the initial pricing principle or paragraph (b) of the final pricing principle for Chorus's unbundled copper low frequency service |
+| Final pricing principle applicable on and after 16 December 2019 | For a price-capped residential local access and calling service, either—aSpark’s standard price for its price-capped residential local access and calling service offered to end-users by means of a fixed telecommunications network in the relevant market, minus actual costs saved; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus $31.68, with an annual CPI adjustment applied on 16 December in each yearFor a non-price-capped local access and calling service, either—aaverage or best retail price minus a discount comprising avoided costs saved pricing, in the case of a service offered by Spark in markets in which Spark faces limited, or is likely to face lessened, competition for that service; orbaverage or best retail price minus a discount comprising actual costs saved, in the case of a service offered by Spark in markets in which Spark does not face limited, or is not likely to face lessened, competition for that service; orcif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (a) minus $31.68, with an annual CPI adjustment applied on 16 December in each year; ordif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the price in paragraph (b) minus $31.68, with an annual CPI adjustment applied on 16 December in each year |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Retail services offered by means of a fixed telecommunications network as part of bundle of retail services |  |
-| Description of service: | A retail service that—ais, or has previously been, offered separately by Telecom to end-users by means of a fixed telecommunications network; andbis offered by Telecom to end-users as part of a bundle of retail services—iin markets in which Telecom faces limited, or is likely to face lessened, competition for that service; andiiif the effect of the bundled price is likely to significantly reduce the ability of an efficient rival to contest the market |
+| Description of service: | A retail service that—ais, or has previously been, offered separately by Spark to end-users by means of a fixed telecommunications network; andbis offered by Spark to end-users as part of a bundle of retail services—iin markets in which Spark faces limited, or is likely to face lessened, competition for that service; andiiif the effect of the bundled price is likely to significantly reduce the ability of an efficient rival to contest the market |
 | Conditions: | Nil |
-| Access provider: | Telecom |
+| Access provider: | Spark |
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 |
-| Initial pricing principle: | The wholesale price for the retail service is—ain the case of Telecom's price-capped residential access and calling service, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis a 2% discountcis the wholesale pricebin the case of any other telecommunications service offered by Telecom in a bundle of retail services by means of its fixed telecommunications network, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount (as a percentage) off the imputed retail price for the service. The discount must be benchmarked against discounts applied to comparable retail services in comparable countries that apply retail price minus avoided costs saved or equivalent pricingcis the wholesale price |
-| Final pricing principle: | The wholesale price for the retail service is the amount calculated using the following formula:a − b = cwhere—ais the imputed retail price for the service. The imputed retail price must—abe based on the observed discount of the bundle relative to the total price of the services offered separately; andbtake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount off the imputed retail price for the service. The discount must be determined by using,—ain the case of a non price-capped service offered by Telecom in markets in which Telecom faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of Telecom's price-capped residential access and calling service in which Telecom faces limited, or is likely to face lessened, competition for that service, actual costs saved pricingcis the wholesale price |
+| Initial pricing principle: | The wholesale price for the retail service is—ain the case of Spark’s price-capped residential access and calling service, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis a 2% discountcis the wholesale pricebin the case of any other telecommunications service offered by Spark in a bundle of retail services by means of its fixed telecommunications network, the amount calculated using the following formula:where—ais the imputed retail price for the service. The imputed retail price must—ibe based on the observed discount of the bundle relative to the total price of the services offered separately; andiitake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount (as a percentage) off the imputed retail price for the service. The discount must be benchmarked against discounts applied to comparable retail services in comparable countries that apply retail price minus avoided costs saved or equivalent pricingcis the wholesale price |
+| Final pricing principle: | The wholesale price for the retail service is the amount calculated using the following formula:a − b = cwhere—ais the imputed retail price for the service. The imputed retail price must—abe based on the observed discount of the bundle relative to the total price of the services offered separately; andbtake into account any price difference that arises from the lower cost of providing the services as a bundle, the lower cost of quantity supply, any difference in the cost of providing the services between different markets, and from any other difference in costbis the discount off the imputed retail price for the service. The discount must be determined by using,—ain the case of a non price-capped service offered by Spark in markets in which Spark faces limited, or is likely to face lessened, competition for that service, avoided costs saved pricing; orbin the case of Spark’s price-capped residential access and calling service in which Spark faces limited, or is likely to face lessened, competition for that service, actual costs saved pricingcis the wholesale price |
 | Requirement referred to in section 45 for final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Chorus's unbundled bitstream access |  |
 | Description of service: | A digital subscriber line enabled service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, that part of a fixed PDN that connects the end-user’s building (or, where relevant, the building’s distribution frame) to a first data switch (or equivalent facility), other than a digital subscriber line access multiplexer (DSLAM)To avoid doubt, unless otherwise requested by the access seeker, the supply of this service must not be conditional on a requirement that the access seeker, end-users, or any other person must purchase any other service from the access provider |
-| Conditions: | That either—aChorus faces limited, or is likely to face lessened, competition in a relevant market; orbChorus does not face limited, or is not likely to face lessened, competition in a relevant market, and the Commission has decided to require Chorus’s unbundled bitstream access to be wholesaled in that market |
+| Conditions: | The end-user’s building (or, where relevant, the building’s distribution frame) is not located in a specified fibre area, and either—aChorus faces limited, or is likely to face lessened, competition in a relevant market; orbChorus does not face limited, or is not likely to face lessened, competition in a relevant market, and the Commission has decided to require Chorus’s unbundled bitstream access to be wholesaled in that market |
 | Access provider: | Chorus |
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 and the additional limit that Chorus is only required to provide access to the trunk side of the first data switch or equivalent facility (for which purpose a DSLAM is not an equivalent facility) |
-| Initial pricing principle applicable before the expiry of 3 years from separation day: | Retail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount benchmarked against discounts in comparable countries that apply retail price minus avoided costs saved pricing in respect of the servicePlus, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by benchmarking against comparable countries (unless the Commission considers that the price already takes into account all of the relevant costs) |
-| Initial pricing principle applicable after the expiry of 3 years from separation day: | The price for the designated access service entitled Chorus's unbundled copper local loop network plus benchmarking additional costs incurred in providing the unbundled bitstream access service against prices in comparable countries that use a forward-looking cost-based pricing method |
-| Final pricing principle applicable before the expiry of 3 years from separation day: | Either—aretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising avoided costs saved, in a case where Chorus faces limited, or is likely to face lessened, competition in a relevant market; orbretail price (as imputed by the Commission, having regard to the price of any other digital subscriber line enabled service, including the imputed price of any such service offered as part of a bundle of retail services) minus a discount comprising actual costs saved, in a case where Chorus does not face limited, or lessened, competition in a relevant marketPlus, in either case, if no person is also purchasing a local access and calling service from Telecom in relation to the relevant subscriber line, all or any of the costs of Chorus's local loop network that would usually be recovered by Telecom from an end-user of its local access and calling service, as determined by identifying the relevant costs (unless the Commission considers that the price already takes into account all of the relevant costs) |
-| Final pricing principle applicable after the expiry of 3 years from separation day: | The price for Chorus’s unbundled copper local loop network plus TSLRIC of additional costs incurred in providing the unbundled bitstream access service |
+| Initial pricing principle applicable before 16 December 2019: | The price for the designated access service entitled Chorus's unbundled copper local loop network plus benchmarking additional costs incurred in providing the unbundled bitstream access service against prices in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle applicable before 16 December 2019: | The price for Chorus’s unbundled copper local loop network plus TSLRIC of additional costs incurred in providing the unbundled bitstream access service |
+| Initial pricing principle applicable on and after 16 December 2019 | The year 5 prices specified in Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled bitstream access service, with an annual CPI adjustment applied on 16 December in each year |
+| Final pricing principle applicable on and after 16 December 2019 | The year 5 prices specified in Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled bitstream access service, with an annual CPI adjustment applied on 16 December in each year |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | The Commission must consider relativity between this service and Chorus’s unbundled copper local loop network service (to the extent that terms and conditions have been determined for that service) |
 | Chorus's unbundled bitstream access backhaul |  |
@@ -3832,15 +4968,17 @@ The following standard access principles apply to designated access services and
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
-| Final pricing principle: | TSLRIC |
+| Initial pricing principle applicable before 1 January 2020: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle applicable before 1 January 2020: | TSLRIC |
+| Initial pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled bitstream access backhaul service, with an annual CPI adjustment applied on 1 January in each year |
+| Final pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled bitstream access backhaul service, with an annual CPI adjustment applied on 1 January in each year |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Chorus's unbundled copper local loop network |  |
 | Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, Chorus's copper local loop network (including any relevant line in Chorus's local telephone exchange or distribution cabinet) |
 | Conditions: | Nil |
 | Access provider: | Chorus |
-| Access seeker: | A service provider who seeks access to the service, except, until 3 years after separation day, Telecom |
+| Access seeker: | A service provider who seeks access to the service, except, until 3 years after separation day, Spark |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 |
 | Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
@@ -3854,8 +4992,10 @@ The following standard access principles apply to designated access services and
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 and the additional limit of the interests of other service providers who are co-located in the relevant facilities |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
-| Final pricing principle: | TSLRIC |
+| Initial pricing principle applicable before 1 January 2020: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle applicable before 1 January 2020: | TSLRIC |
+| Initial pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper local loop network co-location service, with an annual CPI adjustment applied on 1 January in each year |
+| Final pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper local loop network co-location service, with an annual CPI adjustment applied on 1 January in each year |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Chorus's unbundled copper local loop network backhaul (distribution cabinet to telephone exchange) |  |
@@ -3876,19 +5016,23 @@ The following standard access principles apply to designated access services and
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 |
-| Initial pricing principle: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
-| Final pricing principle: | TSLRIC |
+| Initial pricing principle applicable before 1 January 2020: | Benchmarking against prices for similar services in comparable countries that use a forward-looking cost-based pricing method |
+| Final pricing principle applicable before 1 January 2020: | TSLRIC |
+| Initial pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, with an annual CPI adjustment applied on 1 January in each year |
+| Final pricing principle applicable on and after 1 January 2020 | The prices that applied as at 1 January 2020 under Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper local loop network backhaul (telephone exchange to interconnect point) service, with an annual CPI adjustment applied on 1 January in each year |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Chorus's unbundled copper low frequency service |  |
 | Description of service: | A service (and its associated functions, including the associated functions of operational support systems) that enables access to, and interconnection with, the low frequency (being the frequency band between 300 and 3400 Hz) in Chorus’s copper local loop network (including any relevant line in Chorus's local telephone exchange or distribution cabinet) that connects the end-user's building (or, where relevant, the building’s distribution frame) to the handover point in Chorus’s local telephone exchange |
-| Conditions | Chorus's unbundled copper low frequency service is only available where Chorus's local loop that connects the end-user's building (or, where relevant, the building's distribution frame) to the handover point in Chorus's local telephone exchange remains in placeTo avoid doubt, there is no obligation on Chorus that Chorus's copper network that connects a cabinet (or equivalent facility) and Chorus's local telephone exchange remain in place or be maintained if that part of Chorus's copper network is only being used to provide Chorus's unbundled copper low frequency services |
+| Conditions | Chorus’s unbundled copper low frequency service is only available where—aChorus’s local loop that connects the end-user’s building (or, where relevant, the building’s distribution frame) to the handover point in Chorus’s local telephone exchange remains in place; andbthe end-user’s building (or, where relevant, the building’s distribution frame) is not located in a specified fibre areaTo avoid doubt, there is no obligation on Chorus that Chorus’s copper network that connects a cabinet (or equivalent facility) and Chorus’s local telephone exchange remain in place or be maintained if that part of Chorus’s copper network is only being used to provide Chorus’s unbundled copper low frequency services |
 | Access provider: | Chorus |
 | Access seeker: | A service provider who seeks access to the service |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 |
-| Initial pricing principle: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the cost of any additional elements of Chorus’s local loop network that are not recovered in the price for Chorus’s unbundled bitstream access service |
-| Final pricing principle: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the TSLRIC of any additional elements of Chorus’s local loop network that are not recovered by the price for Chorus’s unbundled bitstream access service |
+| Initial pricing principle applicable before 16 December 2019: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the cost of any additional elements of Chorus’s local loop network that are not recovered in the price for Chorus’s unbundled bitstream access service |
+| Final pricing principle applicable before 16 December 2019: | Either—athe geographically averaged price for Chorus’s full unbundled copper local loop network; orbif a person is also purchasing Chorus’s unbundled bitstream access service in relation to the relevant subscriber line, the TSLRIC of any additional elements of Chorus’s local loop network that are not recovered by the price for Chorus’s unbundled bitstream access service |
+| Initial pricing principle applicable on and after 16 December 2019 | The year 5 prices specified in Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper low frequency service, with an annual CPI adjustment applied on 16 December in each year |
+| Final pricing principle applicable on and after 16 December 2019 | The year 5 prices specified in Schedule 2 of the Commission’s standard terms determination for Chorus’s unbundled copper low frequency service, with an annual CPI adjustment applied on 16 December in each year |
 | Requirement referred to in section 45 or final pricing principle: | Nil |
 | Additional matters that must be considered regarding application of section 18: | Nil |
 | Mobile termination access services (MTAS) |  |
@@ -3926,7 +5070,7 @@ The following standard access principles apply to designated access services and
 | Description of service: | A service (and its associated functions) that enables transmission of cellular mobile traffic by means of the access provider's cellular mobile telephone network between (but not including) the cellular mobile device of the access seeker's end-user and the access seeker's handover point (or equivalent facility) and that enables an end-user who subscribes to an access seeker's cellular mobile service to use services (except value-added services) within the area where the access provider has a cellular mobile telephone network, but which is outside the coverage area of the access seeker's cellular mobile telephone network |
 | Conditions: | All of the following:athe access seeker must have rolled out a cellular mobile telephone network that—icomprises at least 100 cellsites (each of which provides wide area coverage and delivers cellular mobile services to both outdoor and indoor areas and where service in areas of coverage of that cellsite will be lost if the cellsite is switched off); oriicovers at least 10% of the New Zealand population:bthe cellular mobile telephone networks of the access seeker and the access provider must be technically compatible and be able to interconnect with each other:cthe Commission must have approved a plan for the access seeker. That plan must include—ithe establishment of roll-out milestones to be met by the access seeker to continue to access the national roaming service; andiiprovision for roll-out of a cellular mobile telephone network that provides cellular mobile services to at least 65% of the New Zealand population:dthe Commission must be satisfied that the access seeker has the capability to comply with the agreed network roll-out plan:ethe services (other than value-added services) for which transmission is sought must each be offered by the access provider to its end-users and be generally available to the access seeker's end-users from the access seeker's own cellular mobile telephone network (that is, the effect of roaming must be to increase the coverage area for the access seeker's end-users) |
 | Access provider: | A cellular mobile telephone network operator who operates a cellular mobile telephone network |
-| Access seeker: | A cellular mobile telephone network operator (except Telecom or Vodafone New Zealand Limited or their successors or subsidiaries) that holds sufficient radio spectrum rights to enable that operator to roll out a cellular mobile telephone network that provides cellular mobile services to at least 65% of the New Zealand population |
+| Access seeker: | A cellular mobile telephone network operator (except Spark or Vodafone New Zealand Limited or their successors or subsidiaries) that holds sufficient radio spectrum rights to enable that operator to roll out a cellular mobile telephone network that provides cellular mobile services to at least 65% of the New Zealand population |
 | Access principles: | The standard access principles set out in clause 5 |
 | Limits on access principles: | The limits set out in clause 6 and additional limits, which must be set by taking the following matters into account:awhether the access provider has, for each relevant cellsite within an area, sufficient available capacity to provide the service, taking into account its reasonable anticipated requirements for capacity at that cellsite:ball legal requirements and all existing contractual obligations that the access provider has with third parties:cthe requirement on the access provider to provide the service to the access seeker will cease on the earlier of—iany failure by the access seeker to comply with the agreed network roll-out plan, as determined by the Commission; oriiany other events specified by the Commission in its determination |
 | Additional matters that must be considered regarding application of section 18: | The Commission must establish roll-out milestones and roll-out thresholds that ensure that the access seeker has strong incentives to roll out its cellular mobile telephone network in an efficient and timely manner |
@@ -4084,6 +5228,58 @@ The Commission must give public notice of—
 (2) This clause does not limit clause 1.
 (3) For the purposes of this clause, the provisions of Part 1 of this schedule, so far as they are applicable and with any necessary modifications, apply to a code prepared by the Commission as if it were a code prepared by the Forum under that Part.
 
+## Schedule 2A — Copper withdrawal code
+
+### 1 Copper withdrawal code
+(1) The Commission, or the Forum if requested to do so by the Commission, must prepare a code to be known as the copper withdrawal code, setting out minimum consumer protection requirements for end-users of the following:
+  (a) copper fixed line access services in areas that are, or will become, specified fibre areas:
+  (b) Chorus’s unbundled copper local loop network:
+  (c) Chorus’s unbundled copper local loop network backhaul (distribution cabinet to telephone exchange).
+(2) The code must be prepared before the implementation date.
+(3) The minimum requirements that the code must include are that, before Chorus is permitted to stop supplying a copper service under section 69AC or 69AD,—
+  (a) the end-user in relation to the service must be able to—
+    (i) access a fibre service; and
+    (ii) have a connection to the fibre service installed—
+      (A) within a reasonable time frame; and
+      (B) whether the connection is standard or non-standard, at no cost to the end-user; and
+  (b) Chorus must give the end-user, the access seeker, and the relevant fibre service provider reasonable notice of the proposed withdrawal of the copper service; and
+  (c) the functionality provided by the services that are to be withdrawn must, apart from legacy services, be available to the end-user over a fibre service; and
+  (d) Chorus must provide the end-user with information about—
+    (i) the withdrawal of the copper services; and
+    (ii) the need to make alternative arrangements, such as battery backup, to maintain the fibre service in the event of a power failure; and
+  (e) Chorus must, if it is reasonably practicable to do so, provide the end-user with information about the fibre services available to the end-user; and
+  (f) if an anchor service is declared under section 227, the anchor service (or a commercial equivalent) must be available at the end-user’s premises; and
+  (g) a Commission 111 contact code must be in force; and
+  (h) any other prescribed matters must be complied with.
+(4) The code may contain any other provisions that the Commission or the Forum (as appropriate) considers are necessary or desirable.
+(5) In this clause,—
+  - **anchor service** has the meaning set out in section 164(1)
+  - **fibre service** means—
+    (a) a fibre fixed line access service; or
+    (b) a telecommunications service provided over a fibre-to-the-premises access network
+  - **legacy service** means the services (if any) specified in the copper withdrawal code as legacy services
+  - **standard connection** and have the meanings set out in section 155ZU.
+
+### 2 Consultation process on code
+(1) The Commission or the Forum (as appropriate) must—
+  (a) notify the process that will be followed to make the code; and
+  (b) consult with interested persons; and
+  (c) give public notice of a draft code.
+(2) A person is entitled to make submissions to the Commission or the Forum (as appropriate) before the date that is 30 working days after the date on which public notice of the draft code is given (the due date).
+(3) The Commission or the Forum (as appropriate) must have regard to any submissions received before the due date.
+
+### 3 Commission’s discretion to approve draft code
+The Commission may approve a draft code if the Commission is satisfied that the draft code meets all the requirements set out in this Act.
+
+### 4 Amendment of approved code initiated by Commission
+(1) The Commission may prepare an amendment to the approved code or revoke the approved code if the Commission considers that the approved code no longer meets all the requirements set out in this Act.
+(2) The same procedure that applies to making a code in clauses 2 and 3 must be followed to make an amendment or a revocation.
+
+### 5 Public notice of approved code
+The Commission must give public notice of—
+  (a) the approved code; and
+  (b) every amendment or revocation of the approved code.
+
 ## Schedule 3 — Procedure for altering regulated services
 
 ### Part 1 — Procedure for designated services or specified services (except specified services that are to become designated services)
@@ -4092,10 +5288,15 @@ The Commission must give public notice of—
 (1) The Commission may, on its own initiative or if requested to do so in writing by the Minister, commence an investigation into whether or not Schedule 1 should be altered in any of the ways set out in section 66 or 67 (the proposed alteration) if the Commission is satisfied that there are reasonable grounds for an investigation into the matter.
 (2) If an investigation has been requested by the Minister and the requirements set out in subclause (1) have been met, the Commission must commence the investigation not later than 10 working days after receiving the Minister's written request.
 (3) Despite subclause (1), the Commission must consider, at intervals of not more than 5 years after the date on which a designated service or specified service came into force, whether there are reasonable grounds for commencing an investigation into whether the service should be omitted from Schedule 1 under section 66(b).
-(4) The Commission must not consider the matter under subclause (3) earlier than 12 months before the end of each 5-year interval referred to in that subclause.
+(4)
 (5) If the Commission decides that there are reasonable grounds for commencing an investigation into whether a designated service or specified service should be omitted from Schedule 1 under section 66(b), the Commission must commence the investigation not later than 15 working days after making that decision.
 (6) The Commission must give public notice of the commencement of an investigation under this clause.
-(7) This clause is subject to section 156AP.
+(7) This clause is subject to sections 69AH, 156AP, and 211.
+(8) Subclause (3) does not apply in relation to the following:
+  (a) copper fixed line access services:
+  (b) Chorus’s unbundled copper local loop network co-location:
+  (c) Chorus’s unbundled copper local loop network backhaul (telephone exchange to interconnect point):
+  (d) Chorus’s unbundled bitstream access backhaul.
 
 ### 2 Draft report
 (1) After public notice of the investigation has been given, the Commission must—
@@ -4109,14 +5310,14 @@ The Commission must give public notice of—
   (b) identify any recommendations that the Commission considers to be sufficiently related to each other that they ought to be considered together.
 
 ### 3 Conferences or public hearing
-(1) The Commission must make reasonable efforts to do either of the following things not later than 10 working days after the closing date for submissions:
+(1) The Commission may do either of the following things not later than 10 working days after the closing date for submissions:
   (a) hold conferences in relation to the proposed alteration:
   (b) hold a public hearing in relation to the proposed alteration if the Commission is satisfied that it is in the public interest to do so.
 (2) The Commission may invite a person who has a material interest in the proposed alteration to attend a conference held under subclause (1).
-(3) Despite subclause (1), the Commission may dispense with holding conferences or a public hearing if the alteration is of a kind listed in section 66(c) or section 67.
+(3)
 
 ### 4 Final report of recommendation of Commission
-(1) The Commission must make reasonable efforts to do the following things not later than 120 working days after the date of giving public notice under clause 1(6):
+(1) The Commission must do the following things not later than 240 working days after the date of giving public notice under clause 1(6):
   (a) prepare a final report regarding the proposed alteration:
   (b) deliver the report to the Minister.
 (2) In preparing the final report, the Commission must consider—
@@ -4130,10 +5331,11 @@ The Commission must give public notice of—
   (c) the reasons for the Commission's recommendation; and
   (d) the majority view and any dissenting views of the members of the Commission regarding the recommendation.
 (4) The Commission may, if it thinks fit, identify any recommendations included in the final report that it considers to be sufficiently related to each other that they ought to be considered together by the Minister.
+(4A) A failure by the Commission to comply with subclause (1) does not invalidate a final report prepared by the Commission.
 (5) This clause is subject to section 156AP.
 
 ### 5 Commission must give written reasons for not meeting time limit
-If, despite making reasonable efforts, the Commission is unable to do all of the things set out in clause 4(1) within the time limit specified in that subclause, the Commission must give to the Minister written reasons for not meeting that time limit.
+[Repealed]
 
 ### 5A Minister may request clarification of final report
 (1) After receiving a final report under clause 4, the Minister may request that the Commission—
@@ -4156,8 +5358,8 @@ If, despite making reasonable efforts, the Commission is unable to do all of the
 
 ### 7 Deferral of Minister's decision
 (1) If the Minister accepts the Commission's recommendation that the Minister's decision be deferred for any period that the Commission thinks fit,—
-  (a) the Minister must refer the recommendation back to the Commission for a report at the end of the period on whether the recommendation should be amended; and
-  (b) the Commission must, at the end of that period,—
+  (a) the Minister must refer the recommendation back to the Commission for a report after the end of the period on whether the recommendation should be amended; and
+  (b) the Commission must, after the end of that period,—
     (i) prepare a draft report stating that the period has expired and setting out any amendments it wishes to make to the recommendation; or
     (ii) prepare a final report that includes a recommendation that the Minister should accept an undertaking under Schedule 3A and deliver that report to the Minister.
 (2) If subclause (1)﻿(b)﻿(i) applies, the Commission must also—
@@ -4186,13 +5388,13 @@ If, despite making reasonable efforts, the Commission is unable to do all of the
 (2) The draft report must include the detail of the proposed omission and addition.
 
 ### 10 Conferences or public hearing
-(1) The Commission must make reasonable efforts to do either of the following things not later than 10 working days after the closing date for submissions:
+(1) The Commission may do either of the following things not later than 10 working days after the closing date for submissions:
   (a) hold conferences in relation to the proposed omission and addition:
   (b) hold a public hearing in relation to the proposed omission and addition if the Commission is satisfied that it is in the public interest to do so.
 (2) The Commission may invite a person who has a material interest in the proposed omission and addition to attend a conference held under subclause (1).
 
 ### 11 Final report of recommendation of Commission
-(1) The Commission must make reasonable efforts to do the following things not later than 60 working days after the date of giving public notice under clause 8(4):
+(1) The Commission must do the following things not later than 120 working days after the date of giving public notice under clause 8(4):
   (a) prepare a final report regarding the proposed omission and addition:
   (b) deliver the report to the Minister.
 (2) In preparing the final report, the Commission must consider—
@@ -4206,9 +5408,10 @@ If, despite making reasonable efforts, the Commission is unable to do all of the
   (c) the reasons for the Commission's recommendation; and
   (d) the views of 2 members of the Commission (other than the Telecommunications Commissioner) regarding the recommendation.
 (4) The Commission may, if it thinks fit, identify any recommendations included in the final report that it considers to be sufficiently related to each other that they ought to be considered together by the Minister.
+(5) A failure by the Commission to comply with subclause (1) does not invalidate a final report prepared by the Commission.
 
 ### 12 Commission must give written reasons for not meeting time limit
-If, despite making reasonable efforts, the Commission is unable to do all of the things set out in clause 11(1) within the time limit specified in that subclause, the Commission must give to the Minister written reasons for not meeting that time limit.
+[Repealed]
 
 ### 12A Minister may request clarification of final report
 (1) After receiving a final report under clause 11, the Minister may request that the Commission—
@@ -4302,7 +5505,7 @@ The Commission must not make a recommendation under clause 3(2) unless the Commi
   (c) specify the date by which those terms or conditions must be complied with by the relevant access provider; and
   (d) specify a mechanism for the resolution by the Commission or a suitably qualified and experienced independent person of any issues or disputes that arise after the undertaking is registered; and
   (e) provide for any other prescribed matters.
-(2) An undertaking must not be amended after the Commission has made a recommendation under clause 3(2) in respect of that undertaking.
+(2) An undertaking must not be amended.
 
 ### 6 Commission must register undertaking if Minister accepts Commission's recommendation
 If the Minister accepts the Commission's recommendation that the Minister should accept an undertaking, the Commission must—
@@ -4373,6 +5576,7 @@ The register must, in relation to every registered undertaking, contain all of t
 (2) The Commission must deal with the application—
   (a) in accordance with clauses 15(2) and 16:
   (b) in the prescribed manner, if any.
+(3) An access provider must not make more than 1 application in relation to a proposed regulatory change.
 
 ### 14 Requirements for application
 An application under clause 13 must—
@@ -4393,7 +5597,7 @@ An application under clause 13 must—
   (b) invite persons who have a material interest in the proposed regulatory change to make written submissions on the application by the closing date specified in the public notice; and
   (c) consider those submissions.
 (2) The closing date for submissions must not be earlier than 10 working days after the date on which public notice is given under subclause (1)﻿(a).
-(3) Before determining the application, the Commission must give the access provider who made the application a reasonable opportunity to amend it in light of any submissions received by the Commission under this clause.
+(3)
 
 ## Schedule 3B — Annual telecommunications development levy
 
