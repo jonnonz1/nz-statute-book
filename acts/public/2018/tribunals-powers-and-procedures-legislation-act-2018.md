@@ -5,7 +5,7 @@ _Consolidation as at 2018-11-13_
 This Act is the Tribunals Powers and Procedures Legislation Act 2018.
 
 ### 2 Commencement
-(1) Sections 6, 7, 11, 20, 28(2), 24(7), (12), and (18), 27, 32, 33(1), 35 to 39, 40(2) to (5), 41, 44, 45, 47, 52 to 55, 56, 57, 62, 70, 77, 89(6), 95, 106(2) and (6), 109, 114(5) and (11), 119, 121(5), 125, 128, 135(4), 138, 140, 149, 152(6), 171(2), (4), (9), and (13), 178, 181(1), 182(1), 183(1), 187(2), 188, 191(1), 195(2), 197 to 199, 204(2), 206, 207(2), 208, 209(2), 219, 233(2), 243, 248, 254(6), 258, 262, 266, 272, 273, 276(1) and (4), 277, 279 to 283, 288, 289, 299, 307(2), 309(10), 321, 324, 325, 328, 332, 337(4), 340(1), 340(2), and 340(3) come into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates for different purposes.
+(1) Sections 6, 7, 11, 20, 24(7), (12), and (18), 27, 32, 33(1), 35 to 39, 40(2) to (5), 41, 44, 45, 47, 52 to 55, 56, 57, 62, 70, 77, 89(6), 95, 106(2) and (6), 109, 114(5) and (11), 119, 121(5), 125, 128, 135(4), 138, 140, 149, 152(6), 171(2), (4), (9), and (13), 178, 181(1), 182(1), 183(1), 187(2), 188, 191(1), 195(2), 197 to 199, 204(2), 206, 207(2), 208, 209(2), 219, 233(2), 243, 248, 254(6), 258, 262, 266, 272, 273, 276(1) and (4), 277, 279 to 283, 288, 289, 299, 307(2), 309(10), 321, 324, 325, 328, 332, 337(4), 340(1), 340(2), and 340(3) come into force on a date appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates for different purposes.
 (2) Any provision specified in subsection (1) that has not earlier been brought into force comes into force on 1 July 2020.
 (3) Sections 305, 306, 307(1), 308, and 309(1) to (9), (11), and (12) come into force on 26 November 2018.
 (4) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
@@ -2408,7 +2408,7 @@ After section 25, insert:Contempt of AuthorityPractice notes
   (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of an Authority, officers of an Authority, and parties before an Authority.
 
 ### 321 New section 25C inserted (Online publication of information about procedures, time frames, and progress of decisions)
-After section 25C, insert:Online publication of information about procedures, time frames, and progress of decisions
+After section 25B, insert:Online publication of information about procedures, time frames, and progress of decisions
   The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
     (a) information about the purpose of the Authorities and how to commence a proceeding:
     (b) any requirements that must be met to bring a proceeding:
