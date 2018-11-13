@@ -1,5 +1,5 @@
 # Telecommunications (Interception Capability and Security) Act 2013
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-11-13_
 
 ### 1 Title
 This Act is the Telecommunications (Interception Capability and Security) Act 2013.
@@ -62,6 +62,7 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   - **Minister responsible for the Government Communications Security Bureau** means the Minister who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Government Communications Security Bureau
   - **Minister of Trade** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for trade
   - **national security** , in relation to New Zealand, includes its economic well-being
+  - **network** means a system comprising telecommunication links to permit telecommunication
   - **network operations centre** means any part of an organisation or a network that is responsible for controlling the operation, performance, or security of a public telecommunications network (whether or not any of those activities are outsourced)
   - **network operator** means—
     (a) a person who owns, controls, or operates a public telecommunications network; or
@@ -110,13 +111,19 @@ This Act is the Telecommunications (Interception Capability and Security) Act 20
   - **surveillance agency** means—
     (a) a law enforcement agency; or
     (b) an intelligence and security agency
+  - **telecommunication** —
+    (a) means the conveyance by electromagnetic means from one device to another of any encrypted or non-encrypted sign, signal, impulse, writing, image, sound, instruction, information, or intelligence of any nature, whether for the information of any person using the device or not; but
+    (b) does not include any conveyance that constitutes broadcasting (within the meaning of section 2(1) of the Broadcasting Act 1989)
   - **telecommunication device** —
     (a) means any terminal device capable of being used for transmitting or receiving a telecommunication over a network; and
     (b) includes a telephone device
+  - **telecommunication link** means any line, radio frequency, or other medium used for telecommunication
+  - **telecommunications service** means any goods, services, equipment, and facilities that enable or facilitate telecommunication
+  - **telephone device** means any terminal device capable of being used for transmitting or receiving any communications over a network designed for the transmission of voice frequency communication
   - **wholesale network service** means a service, other than an infrastructure-level service or a purely resold telecommunications service, that—
     (a) is provided by a network operator (network operator A) only to 1 or more other network operators; and
     (b) is provided exclusively over 1 or more networks that are owned, controlled, or operated by network operator A.
-(2) In this Act, unless the context otherwise requires, network, telecommunication, telecommunication link, telecommunications service, and telephone device have the meanings given to them by section 5 of the Telecommunications Act 2001.
+(2)
 
 ### 4 Act binds the Crown
 This Act binds the Crown.
