@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-13_
 
 > Title
 
@@ -129,6 +129,7 @@ Schedule 1 contains savings and transitional provisions that affect other provis
     (b) a person in actual occupation of the land by virtue of being the holder of an existing privilege (other than an authorisation granted under Part 2 of the Petroleum Act 1937); and
     (c) a controlling authority in respect of the land
   - **offshore** means anywhere that is the seaward side of the mean high-water mark
+  - **onshore Taranaki region** means the Taranaki Region as constituted by clause 4 of the Local Government (Taranaki Region) Reorganisation Order 1989, but excludes any part of that region that is offshore
   - **owner** means—
     (a) in relation to Crown land, the appropriate Minister within the meaning of subsection (2); and
     (b) in relation to land other than Crown land, the person or persons who hold the fee simple title to the land; and includes, except for the purposes of sections 8 and 49 to 52, the person or persons (other than the Crown) who owns or own the minerals in the land
@@ -404,7 +405,12 @@ The Minister must—
 (3) The purpose of a mining permit is to authorise the permit holder to mine for minerals as specified in the permit.
 
 ### 23A Application for permits
-Any person or persons may apply to the chief executive for a permit in respect of a mineral in land, whether or not there is a minerals programme for the mineral.
+(1) Any person or persons may apply to the chief executive for a permit in respect of a mineral in land, whether or not there is a minerals programme for the mineral.
+(2) However,—
+  (a) a person may not apply under this section for an exploration permit for petroleum (but see section 24(1) and (5A)):
+  (b) a person may apply under this section for a prospecting permit for petroleum, or a mining permit for petroleum, in respect of any land in the onshore Taranaki region only:
+  (c) the chief executive must not accept an application for a permit for petroleum in respect of any land outside the onshore Taranaki region:
+  (d) this subsection applies despite anything to the contrary in this Act (including sections 1A, 25(1)﻿(b)﻿(i), and 32).
 
 ### 24 Allocation by public tender
 (1) Unless a minerals programme expressly provides otherwise, the Minister may, from time to time, by notice in such publications as the Minister considers appropriate, offer permits for allocation by public tender.
@@ -419,6 +425,11 @@ Any person or persons may apply to the chief executive for a permit in respect o
 (4) The Minister may amend or revoke a notice before the time by which tenders must be received expires.
 (4A) To avoid doubt, tenders must be assessed by the Minister in accordance with this section and the criteria in section 29A or in section 29B, as the case may be.
 (5) The Minister may decline to grant any permit pursuant to a tender.
+(5A) The following provisions apply to offers of permits for petroleum under subsection (1):
+  (a) an offer may be made in respect of any land in the onshore Taranaki region only:
+  (b) the Minister must not accept a tender for a permit for petroleum in respect of any land outside the onshore Taranaki region:
+  (c) a person may submit a tender for a permit for petroleum only in accordance with an offer (if any) made in accordance with this section:
+  (d) this subsection applies despite anything to the contrary in this Act (including section 1A).
 (6) A permit granted pursuant to a tender shall be subject to the relevant conditions specified in the notice, unless otherwise agreed with the applicant.
 
 ### 25 Grant of permit
@@ -432,6 +443,7 @@ Any person or persons may apply to the chief executive for a permit in respect o
     (ii) by means of a particular method; or
     (iii) if the mineral occurs in a particular state, place, phase, or stratum.
 (2) However, the Minister is not obliged to grant a permit to any person or persons unless expressly required to do so under section 32.
+(2A) The Minister must not grant a permit for petroleum in respect of any land outside the onshore Taranaki region (despite anything to the contrary in this Act (including section 1A)).
 (3) Each permit granted by the Minister must specify—
   (a) the minerals and land to which the permit applies; and
   (b) the conditions on which the permit is granted; and
@@ -681,6 +693,7 @@ The Minister may—
   (b) extend the land to which the permit relates:
   (c) change the minerals to which the permit relates:
   (d) extend the duration of the permit.
+(2A) However, the land to which a permit for petroleum relates cannot be extended to include any land outside the onshore Taranaki region.
 (3) An application under subsection (1)﻿(b) to extend the duration of an exploration permit for petroleum may only be made as provided by section 35A.
 (4) An application under subsection (1)﻿(b) to extend the duration of a mining permit in accordance with this section, or to extend the duration of an exploration permit under section 35A, must be received by the Minister not later than 6 months before the expiry of the permit.
 (4A) However, if the Minister is satisfied that there are compelling reasons why a permit holder could not comply with subsection (4), the Minister may receive an application by a later date agreed by the Minister.
@@ -936,6 +949,14 @@ No right reserved to the Crown, by virtue of any enactment, to enter any land fo
 ### 50 Entry on special classes of land for minimum impact activity
 (1) No person may, without the consent of the owner or occupier of the land, enter land of a class to which any of paragraphs (a) to (g) of section 55(2) relate for the purpose of carrying out a minimum impact activity.
 (2) This section does not apply in the case of entry onto land that is in the common marine and coastal area.
+
+### 50A Restricted access to Taranaki conservation land
+(1) No permit holder (or employee, agent, or contractor of a permit holder) may enter Taranaki conservation land for a purpose in connection with a permit for petroleum other than as set out in sections 49 and 50 (carrying out a minimum impact activity).
+(2) Subsection (1) applies despite anything to the contrary in this Act (including sections 1A and 53 to 80).
+(3) However, this section does not prevent prospecting, exploration, or mining carried out below the surface of Taranaki conservation land in accordance with section 57.
+(4) In this section, Taranaki conservation land means land in the onshore Taranaki region that is held or managed—
+  (a) under the Conservation Act 1987; or
+  (b) under an Act listed in Schedule 1 of that Act.
 
 ### 51 Entry on Maori land for minimum impact activity
 (1) Where a permit holder or any person authorised under section 49, as the case may be, seeks to enter any Maori land for the purpose of carrying out any minimum impact activity, the permit holder or that person, shall, in addition to complying with section 49 and before any such entry is made—
@@ -2095,6 +2116,56 @@ This subpart applies to existing privileges in replacement of all provisions con
 (2) The notice must be treated as if it were a notice made—
   (a) on the date of the commencement of the Amendment Act; and
   (b) under and compliant with new section 28A.
+
+### Part 2 — Provisions relating to Crown Minerals (Petroleum) Amendment Act 2018
+
+### 22 Interpretation
+In Part 2 of this schedule,—
+  - **Amendment Act** means the Crown Minerals (Petroleum) Amendment Act 2018
+  - **application** means—
+    (a) an application for a permit for petroleum lodged by a person under section 23A:
+    (b) a tender for a permit for petroleum submitted in response to a public tender process under section 24
+  - **existing permit** means a permit for petroleum that exists immediately before the commencement of the Amendment Act.
+
+#### Subpart 1 — Existing permits, subsequent permits, and existing applications for permits for petroleum
+
+### 23 Existing permits unaffected
+(1) This Act (including sections 32, 36, 39, and 40) continues to apply to existing permits as if the Amendment Act had not been enacted.
+(2) Existing permits (including any conditions to which the permits are subject immediately before the commencement of the Amendment Act) continue to have effect according to their terms (unless and until those conditions are amended, or those terms are changed, in accordance with this Act as if the Amendment Act had not been enacted).
+
+### 24 Applications for subsequent permits unaffected
+(1) This Act (including sections 23A, 25, and 32) applies to the following applications for a subsequent permit as if the Amendment Act had not been enacted:
+  (a) an application for a subsequent permit for petroleum in exchange for an existing permit:
+  (b) an application for a subsequent permit for petroleum in exchange for a subsequent permit referred to in paragraph (a).
+(2) Subclause (1) applies to applications for a subsequent permit lodged before or after the commencement of the Amendment Act.
+(3) Clause 26 does not apply to those applications.
+
+### 25 Subsequent permits unaffected
+(1) This Act (including sections 32, 36, 39, and 40) applies to the following subsequent permits as if the Amendment Act had not been enacted:
+  (a) a subsequent permit for petroleum that is granted in exchange for an existing permit:
+  (b) a subsequent permit for petroleum that is granted in exchange for a subsequent permit referred to in paragraph (a).
+(2) Subclause (1) applies to subsequent permits granted before or after the commencement of the Amendment Act.
+
+### 26 Existing applications for permits for petroleum determined in accordance with Act as amended
+(1) Any application that was lodged or submitted, but not determined, before the commencement of the Amendment Act—
+  (a) is treated as having been withdrawn; and
+  (b) is treated as having been re-lodged or re-submitted (but only if, and to the extent that, the application is in respect of land in the onshore Taranaki region) immediately after the commencement of the Amendment Act; and
+  (c) must be determined in accordance with this Act as in force immediately after the commencement of the Amendment Act.
+(2) Subclause (1) applies despite anything to the contrary in this Act.
+
+#### Subpart 2 — Other matters unaffected
+
+### 27 Existing privileges unaffected
+(1) The Amendment Act does not affect existing privileges (see section 2).
+(2) This Act continues to have effect for the purpose of subclause (1) as if it had not been amended by the Amendment Act.
+
+### 28 Specified proceedings unaffected
+The proceedings in the High Court between Greymouth Gas Turangi Limited and the Minister of Energy and Resources (CIV 2018-485-237) may be continued, heard, and determined, or settled, as if the Amendment Act (other than this clause) had not been enacted.
+
+#### Subpart 3 — Changes to minerals programme
+
+### 29 Changes to minerals programme
+Nothing in sections 17 and 18 applies to a change to a minerals programme if the change inserts information into the programme to explain the effect of the amendments made to this Act by the Amendment Act.
 
 ## Schedule 2 — Regulations revoked
 
