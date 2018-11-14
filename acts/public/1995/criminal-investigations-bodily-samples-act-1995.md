@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-14_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -254,7 +254,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 **Obtaining bodily sample by court order from persons 17 and over**
 
 ### 13 Application for order authorising taking of bodily sample
-(1) An application may be made in accordance with this section to a District Court Judge for an order requiring a suspect who is of or over the age of 17 years to give a bodily sample in any case where—
+(1) An application may be made in accordance with this section to a District Court Judge or a High Court Judge for an order requiring a suspect who is of or over the age of 17 years to give a bodily sample in any case where—
   (a) there is good cause to suspect that the suspect has committed an imprisonable offence or offence against any of the provisions listed in Part 3 of the Schedule; and
   (b) the suspect has refused to consent to the taking of a bodily sample in response to a suspect request made in respect of that offence, or a related offence.
 (2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing and on oath, and shall set out the following particulars:
@@ -268,13 +268,13 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
 
 ### 14 Prohibition against publication of name of respondent
 (1) Where an application is made under section 13, no person shall publish, in any report or account relating to any proceedings on that application, the name of the respondent, or any name or particulars likely to lead to the identification of the respondent, unless—
-  (a) a District Court Judge, by order, permits such publication; or
+  (a) a District Court Judge or a High Court Judge, by order, permits such publication; or
   (b) subject to subsection (2), at the time of the publication of the report or account, the respondent is charged with the offence to which the application relates, or a related offence.
 (2) Nothing in subsection (1)﻿(b) applies where there is in force in respect of the respondent, in relation to the offence to which the application relates or a related offence, any order of any court the effect of which is to prohibit the publication of any name or particulars likely to lead to the identification of the respondent.
 (3) Nothing in this section shall be construed to limit or restrict the provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to any judicial proceedings.
 
 ### 15 Information may be withheld from respondent
-(1) Where an application is made under section 13, a District Court Judge may, on the ex parte application of the applicant, order that any information included in the application made under section 13 shall not be disclosed to the respondent, and that information is not required to be included in the notice given to the respondent pursuant to subsection (3)﻿(a) of that section.
+(1) Where an application is made under section 13, a District Court Judge or a High Court Judge may, on the ex parte application of the applicant, order that any information included in the application made under section 13 shall not be disclosed to the respondent, and that information is not required to be included in the notice given to the respondent pursuant to subsection (3)﻿(a) of that section.
 (2) On the hearing of any application made under section 13, the Judge may, on the application of the applicant, order that any evidence to be tendered on behalf of the applicant may be tendered in writing, and shall not be disclosed to the respondent. An application for such an order shall be heard in the absence of the respondent.
 (3) A Judge may not make an order under subsection (1) or subsection (2) in relation to any information or evidence unless the Judge is satisfied—
   (a) that the disclosure of that information or evidence to the respondent would be likely—
@@ -289,7 +289,7 @@ For the purposes of sections 13, 16, 18, and 23, on the expiry of the period of 
   (b) the publication of reports or particulars relating to any such proceedings.
 
 ### 16 Judge may authorise bodily sample to be taken
-(1) On the hearing of an application for a suspect compulsion order, a District Court Judge may make an order requiring the respondent to give a bodily sample if the Judge is satisfied that—
+(1) On the hearing of an application for a suspect compulsion order, a District Court Judge or a High Court Judge may make an order requiring the respondent to give a bodily sample if the Judge is satisfied that—
   (a) there is good cause to suspect that the respondent (being a person who is of or over the age of 17 years) has committed the offence to which the application relates; and
   (b) material reasonably believed to be from, or genetically traceable to, the body of a person who committed the offence has been found or is available—
     (i) at the scene of the offence; or
@@ -1395,7 +1395,7 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
   (b) a related relevant offence, if the bodily sample was taken under section 24K.
 
 ### 61 Extension of period for which sample may be retained
-(1) On application in accordance with this section, a District Court Judge may,—
+(1) On application in accordance with this section, a District Court Judge or High Court Judge may,—
   (a) in respect of a bodily sample taken under Part 2 and related records as described in section 60(1)﻿(b) and (c), extend the period specified in section 60(1)﻿(d); or
   (b) in respect of records as described in section 60A(1)﻿(b) and (c), extend the period specified in section 60A(3)﻿(a).
 (1A) In this section, the period in section 60(1)﻿(d) or, as the case may be, section 60A(3)﻿(a) is referred to as the relevant period.
@@ -1403,7 +1403,7 @@ If any bodily sample taken pursuant to this Act is analysed on behalf of any con
   (a) may be made only by a constable who is of or above the level of position of inspector; and
   (b) may be made at any time before the relevant period (or any current extension of the relevant period granted pursuant to this section) has expired; and
   (c) shall be made ex parte.
-(3) An extension or, as the case requires, a further extension of the relevant period may be granted under this section only if the District Court Judge is satisfied—
+(3) An extension or, as the case requires, a further extension of the relevant period may be granted under this section only if the District Court Judge or High Court Judge is satisfied—
   (a) that the person from whom the bodily sample was taken has not been charged with the triggering offence, or a related offence; and
   (b) either of the circumstances mentioned in subsection (3A) exists.
 (3A) The circumstances referred to in subsection (3) are—
