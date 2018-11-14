@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2017-06-01_
+_Consolidation as at 2018-11-14_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -524,7 +524,7 @@ This Part applies to—
     (iii) sections 38 to 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) The District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
 (3) Despite section 168 of the Criminal Procedure Act 2011, and section 27(2) of the Bail Act 2000, a decision under this Part to remand a person in custody or on bail may be made only by a Judge.
-(4) Sections 167 to 169 of the Criminal Procedure Act 2011 and sections 28, 30 to 33, 35, 37 to 39, 44, 45, and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under any of sections 46, 53, or 54.
+(4) Sections 167 to 169 of the Criminal Procedure Act 2011 and sections 28, 30 to 33, 35, 37 to 39, 41 to 43 and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under any of sections 46, 53, or 54.
 
 ### 44 Procedure following arrest
 (1) A person arrested on a warrant endorsed under section 41 or on a provisional arrest warrant must, unless sooner discharged, be brought before a court as soon as possible.
