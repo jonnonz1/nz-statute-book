@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-14_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -38,6 +38,9 @@ This Act shall bind the Crown.
 
 ### 4 Legal capacity of persons subject to orders under this Act
 Except as provided by or under this Act or any other enactment, the rights, privileges, powers, capacities, duties, and liabilities of any person subject to an order under this Act whether in a personal, official, representative, or fiduciary capacity, shall, for all the purposes of the law of New Zealand (whether substantive, procedural, evidential, or otherwise), be the same as those of any other person.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 1 — Personal rights
 
@@ -118,7 +121,8 @@ The primary objectives of a court on an application for the exercise of its juri
   (b) that the proposed appointee will act in the best interests of the person in respect of whom the application is made; and
   (c) that there is unlikely to be any conflict between the interests of the proposed appointee and those of the person in respect of whom the application is made; and
   (d) the proposed appointee consents to the appointment.
-(6) The court shall not appoint more than 1 welfare guardian for any person unless, in the exceptional circumstances of the case, the court is satisfied that it would be in the interests of that person to do so.
+(6) The court must not appoint more than 1 welfare guardian for any person unless the court is satisfied that it would be in the best interests of the person to do so.
+(6A) If the court appoints more than 1 welfare guardian for the same person, those welfare guardians must regularly consult each other.
 (7) So far as is practicable in the circumstances, a court shall ascertain the wishes of the person in respect of whom the application is made when determining whom to appoint as welfare guardian under this section.
 (8) In any order under this section, the court shall specify a date, being not later than 3 years after the date of the order, by which the welfare guardian is required to apply to the court for a review of the order.
 
@@ -396,7 +400,7 @@ Where a property order is made in respect of any person subject to a personal or
 
 ### 45 Statements required
 (1) For the purposes of this section the term year, in relation to a manager, means a period of 12 months commencing with the date on which his or her managership begins or with an anniversary of that date.
-(2) Every manager shall prepare a statement, in the prescribed form and containing the prescribed particulars, and file it in a court together with 2 copies, as follows:
+(2) Every manager shall prepare a statement, in the prescribed form and containing the prescribed particulars, and file it in a court together with 2 copies (or together with only 1 copy if, under section 46(1), it is not necessary to send a copy to the person for whom the manager is acting because the court has previously dispensed with service under section 63(2)), as follows:
   (a) within 3 months after the date of the commencement of his or her managership, a statement of the property, as at that date, of the person for whom the manager is acting:
   (b) within 30 days after the expiry of each year during which his or her managership continues, a statement relating to the property, as at the expiry of that year, of the person for whom the manager is acting and to the management of that property by the manager during that year:
   (c) within 30 days after the date on which the manager ceases in accordance with section 52 to hold office as manager, a statement relating to the property, as at that date, of the person for whom the manager was acting and to the management of that property by the manager during the period commencing with the expiry of the last complete year of his or her managership and ending with that date.
@@ -405,7 +409,7 @@ Where a property order is made in respect of any person subject to a personal or
 (4) Every manager commits an offence and is liable on conviction to a fine not exceeding $1,000 who fails to file a statement when required to do so by subsection (2).
 
 ### 46 Statement to be examined by or on behalf of Public Trust
-(1) Where any statement is filed in a court under section 45 by any manager who is not a trustee corporation, the Registrar of the court shall forthwith transmit 1 copy of the statement to Public Trust, and send the other copy to the person for whom the manager is acting.
+(1) Where any statement is filed in a court under section 45 by any manager who is not a trustee corporation, the Registrar of the court shall forthwith transmit 1 copy of the statement to Public Trust, and (except where the court has previously dispensed with service under section 63(2)) send 1 copy to the person for whom the manager is acting.
 (2) Public Trust, or a qualified auditor appointed by Public Trust for the purposes of this section, shall examine a statement transmitted to Public Trust under subsection (1), and shall prepare a report as to whether the statement is correct and, if not, in what respects it is deficient.
 (3) A report under subsection (2) shall be filed with the court, and a copy of the report shall be given to the manager who filed the statement.
 (4) Public Trust, or a qualified auditor appointed by Public Trust for the purposes of this section, shall have a right of access to the books, accounts, vouchers, securities, or other documents of the manager or in the manager's custody or under the manager's control, and to any securities and documents of title held by the manager on account of the person for whom he or she is acting as manager, and may require from the manager such information and explanation as may be necessary.
@@ -419,7 +423,7 @@ Where a property order is made in respect of any person subject to a personal or
 Any person may, by leave of the court or of the Registrar, inspect or make a copy of the whole or any part of any statement or report filed in a court under section 45 or section 46.
 
 ### 48 Enforcement of manager's duty to prepare and file statements
-(1) Where a manager fails to file a statement in a court when required to do so by section 45(2), the Registrar of the court shall draw the matter to the attention of a Judge, who may make an order directing the manager to remedy the default within such time as may be specified in the order.
+(1) Where a manager fails to file a statement in a court when required to do so by section 45(2), the Registrar of the court shall draw the matter to the attention of a Judge, who must, unless the Judge considers it inappropriate to do so, make an order directing the manager to remedy the default within such time as may be specified in the order.
 (2) An order made under subsection (1) may provide that all costs of and incidental to the application shall be borne by the manager.
 (3) Nothing in this section shall limit or affect section 45(4).
 
@@ -665,7 +669,9 @@ The Family Court Judge who presides over a pre-hearing conference shall be entit
 
 ### 74 Attendance of person in respect of whom application is made
 (1) The person in respect of whom an application for the exercise of the court's jurisdiction under this Act is made shall be present throughout the hearing unless excused or excluded by the court under subsection (2) or subsection (3).
-(2) The court may excuse the person if it is satisfied that the person wholly lacks the capacity to understand the nature and purpose of the proceedings, or that attendance or continued attendance is likely to cause that person serious mental, emotional, or physical harm.
+(2) The court may excuse the person if it is satisfied that—
+  (a) the person wholly lacks the capacity to understand the nature and purpose of the proceedings; or
+  (b) attendance or continued attendance is likely to cause the person serious mental, emotional, or physical harm.
 (3) The court may exclude the person if it is satisfied that the person is causing such a disturbance that it is not practicable to continue with the hearing in the presence of that person.
 (4) The court may exercise its discretion to excuse or exclude the person at any stage of the hearing.
 (5) The person shall be present while the court makes any order upon the application unless—
@@ -774,12 +780,13 @@ A party to an appeal under section 83 may, with the leave of the Court of Appeal
   (b) discharge or decline to discharge the order; or
   (c) extend the order for a further period; or
   (d) make any order, whether in addition to or instead of the order under review, that it could have made on the original application.
+(5A) The power to vary an order under subsection (5)﻿(a) or to make an order under subsection (5)﻿(d) includes the power to substitute a new welfare guardian in place of the welfare guardian named in the original or any subsequent order.
 (6) On any application to which subsection (2) applies, the court shall not make any order that would extend the effect of the original order beyond the date on which it would otherwise expire unless the court is satisfied, having regard to the relevant provisions of Part 1, that the order continues to be necessary in the interests of the person in respect of whom it was made.
 (7) If the court does make an order that extends the effect of the original order beyond the date on which it would otherwise have expired, the following provisions shall apply:
-  (a) in the case of an order made under section 11, the court shall specify a date, being not later than 3 years after the date of the new order, by which the person appointed to administer the property is to apply to the court for a further review of the original order:
-  (b) in the case of an order made under section 12, the court shall specify a date, being not later than 3 years after the date of the new order, by which the welfare guardian is to apply to the court for a further review of the original order:
+  (a) in the case of an order made under section 11, the court shall specify a date, being 5 years, or if the court considers it appropriate, a lesser period after the date of the new order, by which the person appointed to administer the property is to apply to the court for a further review of the original order:
+  (b) in the case of an order made under section 12, the court shall specify a date, being 5 years, or if the court considers it appropriate, a lesser period after the date of the new order, by which the welfare guardian is to apply to the court for a further review of the original order:
   (c) in any other case, the court may specify a date by which the original order is to be further reviewed by the court and, if it does so, the court shall also specify the person or persons who is or are to be responsible for applying to the court for a further review of the original order before the specified date.
-(8) Notwithstanding anything in paragraph (a) or paragraph (b) of subsection (7), the court may specify a date, for a further review of the original order, later than 3 years but not later than 5 years after the date of the new order if it is satisfied, in the exceptional circumstances of the case, that an earlier review is not necessary in the interests of the person to whom the order relates.
+(8)
 
 ### 87 Review of property orders
 (1) Where a trustee corporation—the trustee corporation shall, in accordance with subsection (1A), file in the court the reports specified in subsection (1B).
@@ -821,9 +828,9 @@ A party to an appeal under section 83 may, with the leave of the Court of Appeal
   (c) extend the order; or
   (d) make any order, whether in addition to or instead of the order under review.
 (7) On any application to which subsection (3) applies, the court shall not make any order that would extend the original order beyond the date on which it would otherwise expire unless the court is satisfied, having regard to the relevant provisions of Part 3, that the order continues to be necessary in the interests of the person in respect of whom it was made.
-(8) If the court does make an order that extends the effect of the original order beyond the date on which it would otherwise have expired, the court shall specify a date, being not later than 3 years after the date of the new order, by which the manager is to apply to the court for a further review of the original order.
-(9) Notwithstanding anything in subsection (8), the court may specify a date, for a further review of the original order, later than 3 years but not later than 5 years after the date of the new order if it is satisfied, in the exceptional circumstances of the case, that an earlier review is not necessary in the interests of the person to whom the order relates.
-(10) No order to which subsection (8) or subsection (9) applies shall automatically expire by reason only of the fact that the date specified for the first review or any further review has been reached.
+(8) If the court does make an order that extends the effect of the original order beyond the date on which it would otherwise have expired, the court shall specify a date, being 5 years or, if the court considers it appropriate, a lesser period after the date of the new order, by which the manager is to apply to the court for a further review of the original order.
+(9)
+(10) No order to which subsection (8) applies shall automatically expire by reason only of the fact that the date specified for the first review or any further review has been reached.
 
 ### 88 Procedure on review
 On any application for the review of any personal order or property order, the provisions of sections 63 to 65A and 74 to 81, so far as they are applicable and with any necessary modifications, shall apply.
@@ -1328,6 +1335,27 @@ The enactments specified in Schedule 4 are hereby repealed.
 (10) For the purposes of section 45(2)﻿(b),—
   (a) a person who was the manager of the estate of a protected person under the Aged and Infirm Persons Protection Act 1912 and who is deemed by subsection (3) to be a manager appointed under this Act shall be deemed to have been so appointed on the expiry of the period referred to in subsection (7); and
   (b) a person who was the manager of the estate of a protected patient under Part 7 of the Mental Health Act 1969 and who is deemed by subsection (3) to be a manager appointed under this Act shall be deemed to have been so appointed on the expiry of the period referred to in subsection (8).
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### 1 Appointment of welfare guardian or guardians
+Section 12(6) (as substituted by section 153 of subpart 10 of Part 4 of the Courts Matters Act 2018 (the 2018 Act)) applies in relation to—
+  (a) all appointments of 1 or more welfare guardians or the renewal of any such appointments, that occurs on or after the commencement of section 12(6); and
+  (b) any application for the appointment of 1 or more welfare guardians that has been filed but not determined before the commencement of section 12(6).
+
+### 2 Statements by managers
+Sections 45(2) and 46(1) (as amended by sections 154 and 155 of the 2018 Act) apply in relation to—
+  (a) any orders made on or after the commencement of sections 154 and 155 of the 2018 Act; and
+  (b) any application made for an order that has been filed but not determined, before the commencement of sections 154 and 155 of that Act.
+
+### 3 Manager’s duty to prepare and file statements
+Section 48(1) (as amended by section 156 of the 2018 Act) applies, on and after the commencement of section 156 of the 2018 Act, in respect of the enforcement of a manager’s duty to prepare and file statements and any related order or application for an order in existence on the commencement of section 156 of that Act.
+
+### 4 Personal order and property order
+(1) Sections 86 and 87 (as amended by sections 158 and 159 of the 2018 Act) apply, on and after the commencement of sections 158 and 159 of that Act, in relation to—
+  (a) personal orders and property orders in force on the commencement of sections 158 and 159 and personal orders and property orders made after that commencement:
+  (b) applications for a personal order or a property order which have been made but not determined on that commencement date.
+(2) However, if on the commencement of sections 158 and 159 of the 2018 Act, a personal order or a property order has been in force for 3 or more years but less than 5 years, the review required by section 86 or 87 must take place in accordance with the directions of the Judge who set the review period.
 
 ## Schedule 1 — Powers of managers
 
