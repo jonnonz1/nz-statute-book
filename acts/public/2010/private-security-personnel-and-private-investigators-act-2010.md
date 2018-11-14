@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -28,12 +28,13 @@ In this Act, unless the context otherwise requires,—
   - **Crown** has the meaning given to it in section 2(1) of the Public Finance Act 1989
   - **debt-collecting agency** means a person, or an association of persons whether incorporated or unincorporated, who, for valuable consideration, recovers or attempts to recover for a person any money owing to that person by another person
   - **licence** means a licence issued under section 34
-  - **Licensing Authority** or means the Private Security Personnel Licensing Authority appointed under section 87; and includes a Deputy Private Security Personnel Licensing Authority appointed under section 91
+  - **Licensing Authority** or means a Private Security Personnel Licensing Authority appointed under section 87 and includes a Deputy Private Security Personnel Licensing Authority appointed under section 91, and the terms , , and have corresponding meanings
   - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
-  - **misconduct** , for the purposes of sections 73, 74, 80, and 83, means conduct by a licensee or certificate holder that a reasonable person would consider to be disgraceful or conduct that contravenes this Act or any regulations made under this Act
+  - **misconduct** , for the purposes of sections 73, 74, 80, and 83, means conduct by a licensee or certificate holder that a reasonable person would consider to be disgraceful, wilful, or reckless or conduct that contravenes this Act or any regulations made under this Act
   - **offence of dishonesty** means—
     (a) a crime described in any of sections 104, 105B, 108 to 117, and 217 to 266 of the Crimes Act 1961; and
-    (b) any offence described in sections 15 to 20 of the Summary Offences Act 1981
+    (b) any offence described in sections 15 to 20 of the Summary Offences Act 1981; and
+    (c) any offence described in section 127 of the Social Security Act 1964
   - **offence of violence** means an offence under—
     (a) any of sections 128B to 149A, 158 to 181, 188 to 204, 208, 209, and 216B to 216D of the Crimes Act 1961; or
     (b) any of sections 3, 5, 5A, 6 to 6B, 7, 9, 10, 14, or 21 of the Summary Offences Act 1981
@@ -57,11 +58,15 @@ In this Act, unless the context otherwise requires,—
   - **repossession employee** has the meaning given to it in section 16A
   - **responsible department** means the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **responsible employee** means any or all of the classes of employee defined in sections 13 to 19
-  - **responsible Minister** means the Minister of the Crown who is responsible for the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authority
+  - **responsible Minister** means the Minister of the Crown who is responsible for the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authorities
   - **security consultant** has the meaning given to in section 7
   - **security consultant employee** has the meaning given to it in section 15
   - **security technician** has the meaning given to it in section 6
   - **security technician employee** has the meaning given to it in section 14.
+  - **unsatisfactory conduct** , in relation to a licensee or certificate holder and for the purposes of sections 73 and 74, means—
+    (a) conduct that falls short of the standard that a reasonable member of the public is entitled to expect from a reasonably competent licensee or certificate holder; or
+    (b) conduct that is incompetent or negligent; or
+    (c) conduct that would reasonably be regarded by private security personnel or private investigators of good standing as being unacceptable.
 
 ### 5 Meaning of private investigator
 (1) In this Act, private investigator means a person who, for valuable consideration, either by himself or herself or in partnership with any other person, carries on a business seeking or obtaining for any person or supplying to any person any information described in subsection (2).
@@ -230,10 +235,10 @@ Nothing in this Act—
 **Applying for licence**
 
 ### 24 Application for licence: individual applicant
-(1) An application by an individual for a licence must be made to the Licensing Authority in the manner prescribed by regulations made under this Act and must—
+(1) An application by an individual for a licence must be made to a Licensing Authority in the manner prescribed by regulations made under this Act and must—
   (a) be in the prescribed form; and
   (b) be accompanied by a photograph of the applicant, authenticated in accordance with any prescribed requirements; and
-  (c) be accompanied by the prescribed fee.
+  (c) be accompanied by the prescribed fee (if any).
 (2) The application must specify—
   (a) the full name, residential address, occupation, and date of birth of the applicant; and
   (b) the full address of every place of business from which the applicant proposes to carry on the business or businesses to which the application relates; and
@@ -247,10 +252,10 @@ Nothing in this Act—
 (3) An application may also state an address, other than the residential address of the applicant, at which documents relating to the application may be served on the applicant.
 
 ### 25 Application for licence: company applicant
-(1) An application by a company for a licence must be made to the Licensing Authority in the manner prescribed by regulations made under this Act and must—
+(1) An application by a company for a licence must be made to a Licensing Authority in the manner prescribed by regulations made under this Act and must—
   (a) be in the prescribed form; and
   (b) specify the names of the officers of the company and be accompanied by a statement by each of those officers as to whether any ground of disqualification applies to him or her and, if so, which ground; and
-  (c) be accompanied by the prescribed fee.
+  (c) be accompanied by the prescribed fee (if any).
 (2) The application must specify—
   (a) the full name, residential address, occupation, and date of birth of every officer of the company; and
   (b) the full address of every place of business from which the company proposes to carry on the business or businesses to which the application relates; and
@@ -263,56 +268,56 @@ Nothing in this Act—
   (i) any other prescribed information.
 
 ### 26 Licensing Authority may make inquiries and request report
-(1) On receipt of an application under section 24 or 25, the Licensing Authority—
+(1) On receipt of an application under section 24 or 25, a Licensing Authority—
   (a) may make whatever inquiries it considers necessary in order to determine whether or not the application should be granted; and
   (b) without limiting paragraph (a), may provide a copy of the application to the chief investigator of the Complaints, Investigation, and Prosecution Unit and request the chief investigator to cause a report on the application to be prepared by the unit for the Licensing Authority.
 (2) For the purpose of preparing a report under subsection (1)﻿(b) the chief investigator of the Complaints, Investigation, and Prosecution Unit and any person authorised by the chief investigator may make whatever inquiries he or she considers necessary in order to verify the information contained in the application.
 
 ### 27 Notice of application for licence
-(1) The Licensing Authority must serve on the Police a notice of every application for a licence and the information contained in it.
+(1) A Licensing Authority must serve on the Police a notice of every application for a licence and the information contained in it.
 (2) Every applicant for a licence must publish a notice of the applicant's intention to make the application in the prescribed form (if any) and in the prescribed manner.
-(3) The application must not be heard before the expiry of 1 month after subsections (1) and (2) have been complied with.
+(3) The application must not be heard before the expiry of 20 working days after subsections (1) and (2) have been complied with.
 
 **Objections**
 
 ### 28 Objections by Police to application for licence
-(1) The Police may, within 1 month after the notice of the application has been served on them under section 27(1), file with the Licensing Authority a notice of objection to the grant of the application.
+(1) The Police may, within 20 working days after the notice of the application has been served on them under section 27(1), file a notice of objection to the grant of the application.
 (2) The notice must state the grounds of the objection.
-(3) The Licensing Authority must serve a copy of the notice of objection on the applicant within 7 days after it is filed with the Licensing Authority.
+(3) A Licensing Authority must serve a copy of the notice of objection on the applicant within 5 working days after it is filed.
 
 ### 29 Objections by other persons
-(1) Any person other than a constable may, within 1 month after the first date of publication of a notice under section 27(2) in respect of an application for a licence, file with the Licensing Authority a notice of objection to the grant of the application.
+(1) Any person other than a constable may, within 20 working days after the first date of publication of a notice under section 27(2) in respect of an application for a licence, file a notice of objection to the grant of the application.
 (2) No objection may be made under this section except on one of the following grounds:
   (a) that the applicant is disqualified on 1 or more grounds in section 62 or 63, as the case may be; or
   (b) that there are other reasons relating to the applicant's character, circumstances, or background why the applicant is unsuitable to carry on the class or classes of private security business to which the application relates.
 (3) The grounds of objection specified in subsection (2) may relate either to the application as a whole or to any particular class or classes of private security business that the applicant proposes to carry on.
 (4) The notice must state the grounds of the objection.
-(5) The Licensing Authority must serve a copy of the notice of objection on the applicant within 7 days after it is filed with the Licensing Authority.
+(5) A Licensing Authority must serve a copy of the notice of objection on the applicant within 5 working days after it is filed with the Licensing Authority.
 
 **Hearing of application**
 
 ### 30 Application determined on papers
-(1) The Licensing Authority must determine an application on the papers if no notices of objection to the grant of the application have been filed with the Licensing Authority in accordance with section 28 or 29.
-(2) If 1 or more notices of objection to the grant of an application have been filed with the Licensing Authority in accordance with section 28 or 29,—
+(1) A Licensing Authority must determine an application on the papers if no notices of objection to the grant of the application have been filed with the Licensing Authority in accordance with section 28 or 29.
+(2) If 1 or more notices of objection to the grant of an application have been filed with a Licensing Authority in accordance with section 28 or 29,—
   (a) the Licensing Authority must determine the application on the papers unless it thinks an oral hearing is required; and
   (b) if determining the application on the papers, the Licensing Authority may request that the applicant file a written response to any notice of objection within a period of time specified by the Authority.
-(3) The Licensing Authority may refuse an application without holding an oral hearing in accordance with section 31 if the Licensing Authority is unable to verify information provided in the application.
+(3) A Licensing Authority may refuse an application without holding an oral hearing in accordance with section 31 if the Licensing Authority is unable to verify information provided in the application.
 
 ### 31 Application determined by oral hearing
-(1) If the Licensing Authority is to hold an oral hearing of an application for a licence, the Licensing Authority must fix a time and place for the hearing, and must give not less than 10 working days' notice of the hearing to—
+(1) If a Licensing Authority is to hold an oral hearing of an application for a licence, the Authority must fix a time and place for the hearing, and must give not less than 10 working days' notice of the hearing to—
   (a) the applicant; and
   (b) any person who has filed a notice of objection in accordance with section 28 or 29; and
-  (c) if the Licensing Authority received a report on the application from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit.
-(2) If the Licensing Authority received a report requested under section 26(1)﻿(b) and suspects on the basis of that report that there may be grounds for refusing the application, the Licensing Authority must, not later than 10 working days before the date of the hearing, provide the applicant with a statement of the reasons for this.
-(3) At the hearing, the applicant, every objector, and, if the Licensing Authority received a report on the application from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit or a person authorised by the chief investigator—
+  (c) if it receives a report on the application from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit.
+(2) If a Licensing Authority receives a report requested under section 26(1)﻿(b) and suspects on the basis of that report that there may be grounds for refusing the application, the Authority must, not later than 10 working days before the date of the hearing, provide the applicant with a statement of the reasons for that suspicion.
+(3) At the hearing, the applicant, every objector, and, if a Licensing Authority received a report on the application from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit or a person authorised by the chief investigator—
   (a) is entitled to appear, be heard, call evidence, and cross-examine and re-examine witnesses; and
   (b) may conduct his or her case personally or may be represented by counsel.
-(4) The Licensing Authority may from time to time adjourn the hearing to a time and place fixed by it.
+(4) A Licensing Authority may from time to time adjourn the hearing to a time and place fixed by it.
 
 **Decision on application**
 
 ### 32 Consideration of application relating to more than 1 class of business
-If an application relates to more than 1 class of private security business the Licensing Authority—
+If an application relates to more than 1 class of private security business a Licensing Authority—
   (a) must assess the application in respect of each class of business to which it relates; and
   (b) may, under section 33,—
     (i) grant the application in respect of all those classes of business; or
@@ -320,24 +325,24 @@ If an application relates to more than 1 class of private security business the 
     (iii) refuse the application entirely.
 
 ### 33 Decision on application for licence
-(1) The Licensing Authority may grant an application only if—
+(1) A Licensing Authority may grant an application only if—
   (a) in the case of an applicant who is an individual, the applicant is of or over the age of 18 years; and
   (b) in the case of an applicant that is a company, each officer of the company is of or over the age of 18 years; and
   (c) the requirements of section 24 or 25, as the case may be, are satisfied.
-(2) Subsection (3) applies if the Licensing Authority is satisfied that no grounds of disqualification under section 62 or 63, as the case may be, apply to the applicant.
-(3) The Licensing Authority must grant the application in respect of a particular class of business to which it relates unless the Licensing Authority is satisfied, based on any other evidence provided to the Authority relating to the character, circumstances, or background of the applicant, that the person is not suitable to carry on that class of business.
-(4) Subsection (5) applies if the Licensing Authority is satisfied that 1 or more grounds of disqualification under section 62 or 63, as the case may be, apply to the applicant.
-(5) The Licensing Authority may grant the application in respect of a class of business to which it relates if, and only if, the Licensing Authority is satisfied that the person is suitable to carry on that class of business taking into account—
+(2) Subsection (3) applies if a Licensing Authority is satisfied that no grounds of disqualification under section 62 or 63, as the case may be, apply to the applicant.
+(3) A Licensing Authority must grant the application in respect of a particular class of business to which it relates unless the Licensing Authority is satisfied, based on any other evidence provided to the Authority relating to the character, circumstances, or background of the applicant, that the person is not suitable to carry on that class of business.
+(4) Subsection (5) applies if a Licensing Authority is satisfied that 1 or more grounds of disqualification under section 62 or 63, as the case may be, apply to the applicant.
+(5) A Licensing Authority may grant the application in respect of a class of business to which it relates if, and only if, the Licensing Authority is satisfied that the person is suitable to carry on that class of business taking into account—
   (a) the grounds on which the applicant is disqualified under section 62 or 63, as the case may be, and the way in which that influences the suitability of the applicant; and
   (b) any other evidence provided to the Authority relating to the character, circumstances, or background of the applicant.
 (6) Subsections (3) and (5) are subject to subsection (1).
-(7) The Licensing Authority may impose conditions on the carrying on by the licensee of any business in respect of which the licence is issued.
-(8) The Licensing Authority must give written notice to the applicant and any person who filed an objection when it grants or refuses to grant an application and give reasons for the grant or refusal of the application.
+(7) A Licensing Authority may impose conditions on the carrying on by the licensee of any business in respect of which the licence is issued.
+(8) A Licensing Authority must give written notice to the applicant and any person who filed an objection when it grants or refuses to grant an application and give reasons for the grant or refusal of the application.
 
 **Issue, duration, etc, of licence**
 
 ### 34 Issue of licence
-(1) If the Licensing Authority grants an application in whole or in part under section 33, the Licensing Authority must issue a licence in the prescribed form specifying—
+(1) If a Licensing Authority grants an application in whole or in part under section 33, the Licensing Authority must issue a licence in the prescribed form specifying—
   (a) the class or, if more than 1, each class of business in respect of which the Authority has granted the application; and
   (b) the registered office or the principal place of business, as the case may be, of the applicant; and
   (c) the places from which the applicant is authorised to carry on each class of business to which the licence relates; and
@@ -345,7 +350,7 @@ If an application relates to more than 1 class of private security business the 
 (2) A licence issued to an individual must contain a photograph of the licensee.
 
 ### 35 Effect of licence
-(1) Subject to this Act and to any conditions imposed by the Authority, a licence authorises the licensee to carry on the class or classes of private security business for which the licence is issued, on his or her own account during the currency of the licence.
+(1) Subject to this Act and to any conditions imposed by an Authority, a licence authorises the licensee to carry on the class or classes of private security business for which the licence is issued, on his or her own account during the currency of the licence.
 (2) The licensee may carry on that class or those classes of business either by himself or herself or in partnership with any other person or persons who are the holders of licences that include that same authority.
 (3) A licence does not authorise a licensee to carry on the business to which the licence relates from any place of business that is not specified in the licence.
 
@@ -355,7 +360,7 @@ If an application relates to more than 1 class of private security business the 
 (3) Despite subsection (1), if an application for renewal of a licence is made before the expiry of the licence, the licence continues in force until the application for renewal is determined.
 
 ### 37 Licensing Authority to notify Commissioner of Police when licence issued
-The Licensing Authority must, after issuing a licence, notify the Commissioner of Police in writing of—
+A Licensing Authority must, after issuing a licence, notify the Commissioner of Police in writing of—
   (a) the full name and (if the licensee is an individual) residential address of the licensee; and
   (b) the nature and number of the licence; and
   (c) the date on which it was issued; and
@@ -373,30 +378,30 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 **General provisions, amendments, renewals, etc**
 
 ### 39 Name under which licensee may carry on business
-(1) Unless another name has been approved in writing by the Licensing Authority, no licensee who is an individual may carry on the business to which the licence relates under any name that is not—
+(1) Unless another name has been approved in writing by a Licensing Authority, no licensee who is an individual may carry on the business to which the licence relates under any name that is not—
   (a) his or her own name; or
   (b) in the case of a firm, the name of one of the partners.
-(2) An applicant for a licence, or a licensee, may at any time apply in writing to the Licensing Authority to approve a name under subsection (1).
-(3) The Licensing Authority must not approve a name under subsection (1) if it considers that the name so nearly resembles the name of any other person, firm, or company carrying on a class or classes of private security business as to be likely to deceive, or that the name is that of any other person, firm, or company—
+(2) An applicant for a licence, or a licensee, may at any time apply in writing to a Licensing Authority to approve a name under subsection (1).
+(3) A Licensing Authority must not approve a name under subsection (1) if it considers that the name so nearly resembles the name of any other person, firm, or company carrying on a class or classes of private security business as to be likely to deceive, or that the name is that of any other person, firm, or company—
   (a) whose licence has been suspended or cancelled under section 76 or 78; or
   (b) whose application for a licence has at any time been refused under this Act and who has not subsequently obtained a licence.
 (4) No licensee that is a company may carry on the business to which the licence relates under any name other than the name by which the company is registered or incorporated.
 (5) Every licensee who contravenes subsection (1) or (4) commits an offence against this Act.
 
 ### 40 Persons not to act as officers of licensed company without consent of Licensing Authority
-(1) In the case of a licensee that is a company, unless with the prior approval of the Licensing Authority, no person who is not an officer of the company at the time when the application for the licence is granted may subsequently act as an officer of the company.
-(2) A licensee may at any time apply in writing to the Licensing Authority for approval of any person under subsection (1).
+(1) In the case of a licensee that is a company, unless with the prior approval of a Licensing Authority, no person who is not an officer of the company at the time when the application for the licence is granted may subsequently act as an officer of the company.
+(2) A licensee may at any time apply in writing to a Licensing Authority for approval of any person under subsection (1).
 (3) An application for approval of any person must be in the prescribed form and accompanied by the prescribed fee (if any).
-(4) The Licensing Authority must not give its approval under subsection (1) in respect of a person unless the Licensing Authority is satisfied that—
+(4) A Licensing Authority must not give its approval under subsection (1) in respect of a person unless the Licensing Authority is satisfied that—
   (a) the officer is of or over the age of 18 years; and
   (b) no ground of disqualification under section 62 applies to the officer or, if 1 or more grounds do apply, that this does not make the company unsuitable to hold the licence.
 (5) Every person who contravenes subsection (1) commits an offence and is liable on conviction to a fine not exceeding $20,000.
 (6) Every licensee who, being a company, employs any person or permits any person to act as an officer of the company in contravention of subsection (1), commits an offence and is liable on conviction to a fine not exceeding $20,000.
 
 ### 41 Amendment of licence
-(1) If the Licensing Authority has under section 34 issued a licence that is limited in its effect to any particular class or classes of private security business, the licensee may at any time during the currency of the licence apply to the Licensing Authority to amend the licence by adding or removing any class or classes of private security business.
+(1) If a Licensing Authority has under section 34 issued a licence that is limited in its effect to any particular class or classes of private security business, the licensee may at any time during the currency of the licence apply to the Licensing Authority to amend the licence by adding or removing any class or classes of private security business.
 (2) Sections 24 to 34, 37, 62, and 63 apply with any necessary modifications.
-(3) If the Licensing Authority grants an application to add, or remove, a class or classes of private security business to, or from, the licence, the Licensing Authority must, on payment of the prescribed fee (if any), issue to the applicant an amended licence specifying the class or classes of private security business that the licensee may carry on.
+(3) If a Licensing Authority grants an application to add, or remove, a class or classes of private security business to, or from, the licence, the Licensing Authority must, on payment of the prescribed fee (if any), issue to the applicant an amended licence specifying the class or classes of private security business that the licensee may carry on.
 
 ### 42 Renewal of licence
 (1) A licence may be renewed.
@@ -404,13 +409,13 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 (3) A renewed licence is to be treated for all purposes as a new licence issued under section 34.
 
 ### 43 Annual return updating licence and certificate of approval information
-(1) At 12-monthly intervals after the date of issue of a licence, the licensee must send to the Licensing Authority a return advising—
+(1) At 12-monthly intervals after the date of issue of a licence, the licensee must send to a Licensing Authority a return advising—
   (a) whether there has been any change to the details included in the licensee's application for a licence; and
   (b) in respect of each person (if any) who is employed or engaged by the licensee and who is a certificate holder, whether there has been any change to the details that were included in the application for the certificate holder's certificate of approval of which the licensee is aware, or ought reasonably to be aware.
 (2) The return must be accompanied by the prescribed fee (if any).
-(3) On receiving a return under subsection (1), the Licensing Authority must, if there has been a change to the details recorded on the licence issued to the licensee, or on a certificate of approval issued to a person employed or engaged by the licensee, issue an amended licence or certificate of approval, as the case may be.
+(3) On receiving a return under subsection (1), a Licensing Authority must, if there has been a change to the details recorded on the licence issued to the licensee, or on a certificate of approval issued to a person employed or engaged by the licensee, issue an amended licence or certificate of approval, as the case may be.
 (4) The amended licence or certificate of approval is not a new or renewed licence or certificate of approval.
-(5) If an amended licence or certificate of approval is issued, the licensee or certificate holder, as the case may be, must, within 7 days of receiving the amended licence or certificate, return the old licence or certificate of approval to the Licensing Authority.
+(5) If an amended licence or certificate of approval is issued, the licensee or certificate holder, as the case may be, must, within 5 working days of receiving the amended licence or certificate, return the old licence or certificate of approval to a Licensing Authority.
 (6) If a licensee fails to comply with subsection (1) or (2) the licence issued to the licensee is automatically suspended from the date of the non-compliance until the requirements of subsection (1) or (2), as the case may be, are satisfied.
 (7) A person commits an offence who fails without reasonable excuse to comply with subsection (5).
 
@@ -444,10 +449,10 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 **Applying for certificate of approval**
 
 ### 46 Application for certificate of approval
-(1) An application for a certificate of approval must be made to the Licensing Authority in the manner prescribed by regulations made under this Act and must—
+(1) An application for a certificate of approval must be made to a Licensing Authority in the manner prescribed by regulations made under this Act and must—
   (a) be in the prescribed form; and
   (b) be accompanied by a photograph of the applicant, authenticated in accordance with any prescribed requirements; and
-  (c) be accompanied by the prescribed fee.
+  (c) be accompanied by the prescribed fee (if any).
 (2) The application must specify—
   (a) the applicant's full name, residential address, occupation, and date of birth; and
   (b) the particular class or classes of responsible employee in relation to which a certificate of approval is sought by the applicant; and
@@ -459,33 +464,33 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
   (f) any other prescribed information.
 
 ### 47 Licensing Authority may make inquiries and request report
-(1) On receipt of an application, the Licensing Authority—
+(1) On receipt of an application, a Licensing Authority—
   (a) may make whatever inquiries it considers necessary in order to determine whether or not the application should be granted; and
   (b) without limiting paragraph (a), may provide a copy of the application to the chief investigator of the Complaints, Investigation, and Prosecution Unit and request the chief investigator to cause a report on the application to be prepared by the unit for the Licensing Authority.
 (2) For the purpose of preparing a report under subsection (1)﻿(b) the chief investigator of the Complaints, Investigation, and Prosecution Unit and any person authorised by the chief investigator may make whatever inquiries he or she considers necessary in order to verify the information contained in the application.
 
 ### 48 Notice of application for certificate of approval
-(1) The Licensing Authority must serve on the Police a notice of every application for a certificate of approval and the information contained in it.
-(2) The application must not be heard before the expiry of 7 days after subsection (1) has been complied with.
+(1) A Licensing Authority must serve on the Police a notice of every application for a certificate of approval and the information contained in it.
+(2) The application must not be heard before the expiry of 5 working days after subsection (1) has been complied with.
 
 **Objections**
 
 ### 49 Objections by Police to application for certificate of approval
-(1) The Police may file with the Licensing Authority a notice of objection to the grant of an application for a certificate of approval within 7 days after notice of the application is served on them.
+(1) The Police may file a notice of objection to the grant of an application for a certificate of approval within 5 working days after notice of the application is served on them.
 (2) The notice must state the grounds of the objection.
-(3) The Licensing Authority must serve a copy of the notice of objection on the applicant within 7 days after it is filed with the Licensing Authority.
+(3) A Licensing Authority must serve a copy of the notice of objection on the applicant within 5 working days after it is filed.
 
 **Hearing of application**
 
 ### 50 Application determined on papers
-(1) The Licensing Authority must determine an application on the papers if no notice of objection to the grant of the application has been filed with the Licensing Authority in accordance with section 49.
-(2) If a notice of objection to the grant of an application has been filed with the Licensing Authority in accordance with section 49,—
+(1) A Licensing Authority must determine an application on the papers if no notice of objection to the grant of the application has been filed with the Licensing Authority in accordance with section 49.
+(2) If a notice of objection to the grant of an application has been filed with a Licensing Authority in accordance with section 49,—
   (a) the Licensing Authority must determine the application on the papers unless it thinks an oral hearing is required; and
   (b) if determining the application on the papers, the Licensing Authority may request that the applicant file a written response to the objection within a period of time specified by the Authority.
-(3) The Licensing Authority may refuse an application without holding a hearing in accordance with section 51 if the Licensing Authority is unable to verify information provided in the application.
+(3) A Licensing Authority may refuse an application without holding a hearing in accordance with section 51 if the Licensing Authority is unable to verify information provided in the application.
 
 ### 51 Application determined by oral hearing
-(1) If the Licensing Authority is to hold an oral hearing of an application for a certificate of approval, the Licensing Authority must fix a time and place for the hearing, and must give not less than 10 working days' notice of the hearing to—
+(1) If a Licensing Authority is to hold an oral hearing of an application for a certificate of approval, the Licensing Authority must fix a time and place for the hearing, and must give not less than 10 working days' notice of the hearing to—
   (a) the applicant; and
   (b) if the Police have filed a notice of objection, the Police; and
   (c) if the Licensing Authority has received a report on the application from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit.
@@ -494,7 +499,7 @@ The Licensing Authority must, after issuing a licence, notify the Commissioner o
 **Decision on application**
 
 ### 52 Consideration of application relating to more than 1 class of responsible employee
-If an application relates to more than 1 class of responsible employee, the Licensing Authority—
+If an application relates to more than 1 class of responsible employee, a Licensing Authority—
   (a) must assess the application in respect of each class of responsible employee to which it relates; and
   (b) may, under section 53,—
     (i) grant the application in respect of all those classes of responsible employee; or
@@ -502,32 +507,32 @@ If an application relates to more than 1 class of responsible employee, the Lice
     (iii) refuse the application entirely.
 
 ### 53 Decision on application for certificate of approval
-(1) The Licensing Authority may grant an application only if—
+(1) A Licensing Authority may grant an application only if—
   (a) in the case of an applicant applying for a certificate as a responsible employee of a class in section 13, 14, 16A, 17, 18, or 19, the applicant is of or over the age of 18 years; and
   (b) the requirements of section 46 are satisfied.
-(2) Subsection (3) applies if the Licensing Authority is satisfied that no grounds of disqualification under section 62 apply to the applicant.
-(3) The Licensing Authority must grant the application in respect of a particular class of responsible employee to which it relates unless the Licensing Authority is satisfied, based on any other evidence provided to the Authority relating to the character, circumstances, or background of the applicant, that the person is not suitable to be a responsible employee of that class.
-(4) Subsection (5) applies if the Licensing Authority is satisfied that 1 or more grounds of disqualification under section 62 apply to the applicant.
-(5) The Licensing Authority may grant the application in respect of a class of responsible employee to which it relates if, and only if, the Licensing Authority is satisfied that the person is suitable to be a responsible employee of that class taking into account—
+(2) Subsection (3) applies if a Licensing Authority is satisfied that no grounds of disqualification under section 62 apply to the applicant.
+(3) A Licensing Authority must grant the application in respect of a particular class of responsible employee to which it relates unless the Licensing Authority is satisfied, based on any other evidence provided to the Authority relating to the character, circumstances, or background of the applicant, that the person is not suitable to be a responsible employee of that class.
+(4) Subsection (5) applies if a Licensing Authority is satisfied that 1 or more grounds of disqualification under section 62 apply to the applicant.
+(5) A Licensing Authority may grant the application in respect of a class of responsible employee to which it relates if, and only if, the Licensing Authority is satisfied that the person is suitable to be a responsible employee of that class taking into account—
   (a) the grounds on which the applicant is disqualified under section 62 and the way in which that influences the suitability of the applicant; and
   (b) any other evidence provided to the Authority relating to the character, circumstances, or background of the applicant.
 (6) Subsections (3) and (5) are subject to subsection (1).
-(7) The Licensing Authority may impose conditions on the performance by the certificate holder of duties as a responsible employee of any particular class in respect of which the certificate is issued.
-(8) The Licensing Authority must give written notice to the applicant and the Police (if an objection was filed) when it grants or refuses to grant an application, and give reasons for the grant or refusal of the application.
+(7) A Licensing Authority may impose conditions on the performance by the certificate holder of duties as a responsible employee of any particular class in respect of which the certificate is issued.
+(8) A Licensing Authority must give written notice to the applicant and the Police (if an objection was filed) when it grants or refuses to grant an application, and give reasons for the grant or refusal of the application.
 
 **Issue, duration, etc, of certificate of approval**
 
 ### 54 Issue of certificate of approval
-(1) If the Licensing Authority grants an application in whole or in part under section 53, the Licensing Authority must issue a certificate of approval in the prescribed form specifying—
+(1) If a Licensing Authority grants an application in whole or in part under section 53, the Licensing Authority must issue a certificate of approval in the prescribed form specifying—
   (a) the class or, if more than 1, each class of responsible employee in respect of which the Authority has granted the application; and
   (b) any other prescribed matter.
 (2) A certificate of approval must contain a photograph of the certificate holder.
 
 ### 55 Effect of certificate of approval
-(1) Subject to this Act and to any conditions imposed by the Authority, a certificate of approval authorises the holder to work during the currency of the certificate—
+(1) Subject to this Act and to any conditions imposed by an Authority, a certificate of approval authorises the holder to work during the currency of the certificate—
   (a) as a responsible employee of any licensee carrying on the business to which the certificate of approval relates; or
   (b) in the case of a crowd controller employee or a repossession employee, as a responsible employee of any person.
-(2) Subject to this Act, to the Credit Contracts and Consumer Finance Act 2003, and to any conditions imposed by the Authority, a certificate of approval that is held by a creditor referred to in section 16A(b) authorises the creditor to carry out a repossession of consumer goods himself or herself.
+(2) Subject to this Act, to the Credit Contracts and Consumer Finance Act 2003, and to any conditions imposed by an Authority, a certificate of approval that is held by a creditor referred to in section 16A(b) authorises the creditor to carry out a repossession of consumer goods himself or herself.
 
 ### 56 Duration of certificate of approval
 (1) Unless cancelled earlier, a certificate of approval expires 5 years from its date of issue.
@@ -535,15 +540,15 @@ If an application relates to more than 1 class of responsible employee, the Lice
 (3) Despite subsection (1), if an application for renewal of a certificate of approval is made before the expiry of the certificate of approval, the certificate of approval continues in force until the application for renewal is determined.
 
 ### 57 Licensing Authority to notify Commissioner of Police when certificate of approval issued
-The Licensing Authority must, after issuing a certificate of approval, notify the Commissioner of Police in writing of—
+A Licensing Authority must, after issuing a certificate of approval, notify the Commissioner of Police in writing of—
   (a) the full name and residential address of the certificate holder; and
   (b) the nature and number of the certificate of approval; and
   (c) the date on which it was issued.
 
 ### 58 Amendment of certificate of approval
-(1) If the Licensing Authority has under section 54 issued a certificate of approval that is limited in its effect to any particular class or classes of responsible employee, the certificate holder may at any time during the currency of the certificate of approval apply to the Licensing Authority to amend the certificate of approval by adding or removing any class or classes of responsible employee.
+(1) If a Licensing Authority has under section 54 issued a certificate of approval that is limited in its effect to any particular class or classes of responsible employee, the certificate holder may at any time during the currency of the certificate of approval apply to the Licensing Authority to amend the certificate of approval by adding or removing any class or classes of responsible employee.
 (2) Sections 46 to 54, 57, and 62 apply with any necessary modifications.
-(3) If the Licensing Authority grants an application to add, or remove, a class or classes of responsible employee to, or from, the certificate of approval, the Licensing Authority must, on payment of the prescribed fee (if any), issue to the applicant an amended certificate of approval specifying the class or classes of responsible employee in respect of which the holder may carry out work.
+(3) If a Licensing Authority grants an application to add, or remove, a class or classes of responsible employee to, or from, the certificate of approval, the Licensing Authority must, on payment of the prescribed fee (if any), issue to the applicant an amended certificate of approval specifying the class or classes of responsible employee in respect of which the holder may carry out work.
 
 ### 59 Renewal of certificate of approval
 (1) A certificate of approval may be renewed.
@@ -554,13 +559,13 @@ The Licensing Authority must, after issuing a certificate of approval, notify th
 
 ### 60 Temporary certificates of approval
 (1) A person who has applied for a certificate of approval under section 46 may also apply in writing for a temporary certificate of approval.
-(2) The Licensing Authority may issue a temporary certificate of approval at any time after receiving a correct application for a certificate of approval under section 46 if,—
+(2) A Licensing Authority may issue a temporary certificate of approval at any time after receiving a correct application for a certificate of approval under section 46 if,—
   (a) in the case of an applicant applying for a certificate as a responsible employee of a class in section 13, 14, 16A, 17, 18, or 19, the applicant is of or over the age of 18 years; and
   (b) the prescribed fee (if any) is paid; and
   (c) except as provided for in subsection (3)﻿(b), the application does not disclose any ground on which the applicant is disqualified under section 62; and
   (d) there is no reason to believe that the application contains statements that are incorrect; and
   (e) in the opinion of the Licensing Authority there are no other reasons disclosed by the application why the applicant may be unsuitable to be a responsible employee of the class or classes to which the application relates.
-(3) The Licensing Authority may issue a temporary certificate of approval under this section even if—
+(3) A Licensing Authority may issue a temporary certificate of approval under this section even if—
   (a) the time for the Police to file an objection under section 49 has not expired; or
   (b) the applicant has not met the requirements prescribed in regulations made under section 114(1)﻿(h).
 (4) A temporary certificate of approval issued under subsection (2) gives the holder all the rights and duties of a certificate of approval issued under section 54 to be a responsible employee of the class or classes to which the application relates.
@@ -576,12 +581,12 @@ The Licensing Authority must, after issuing a certificate of approval, notify th
     (ii) is satisfied on reasonable grounds that the person has applied for an appropriate certificate of approval and that the information provided in the application indicates that no ground of disqualification under section 62 exists; and
     (iii) is to the best of his or her knowledge satisfied that the person is not currently charged with an offence that, if it resulted in conviction, would be a ground of disqualification under section 62; and
     (iv) has no reason to believe that any statement in the application is incorrect; and
-    (v) notifies the Licensing Authority in the prescribed manner before employing or engaging the person, or permitting the person to act, as a responsible employee; and
+    (v) notifies a Licensing Authority in the prescribed manner before employing or engaging the person, or permitting the person to act, as a responsible employee; and
     (vi) complies with any requirements prescribed in regulations made under this Act relating to the making of emergency appointments under this section.
-(2) Except with the prior approval of the Licensing Authority, a person (Y) must not in reliance on this section employ or engage a person, or permit a person to act, as a responsible employee, or continue to do so, if Y—
+(2) Except with the prior approval of a Licensing Authority, a person (Y) must not in reliance on this section employ or engage a person, or permit a person to act, as a responsible employee, or continue to do so, if Y—
   (a) has already employed, engaged, or permitted the person to act as a responsible employee in reliance on this section for a continuous period of 2 weeks; or
   (b) has already employed, engaged, or permitted the person to act as a responsible employee in reliance on this section on an occasion more than 2 weeks previously.
-(3) If under subsection (1) a person (Y) employs or engages a person, or permits a person to act, as a responsible employee, Y must immediately stop the person from undertaking any work for which the person would be required to hold a certificate of approval if Y is instructed by the Licensing Authority to do so by service of a notice in writing.
+(3) If under subsection (1) a person (Y) employs or engages a person, or permits a person to act, as a responsible employee, Y must immediately stop the person from undertaking any work for which the person would be required to hold a certificate of approval if Y is instructed by a Licensing Authority to do so by service of a notice in writing.
 
 ### Subpart 3 — Grounds of disqualification
 
@@ -630,9 +635,9 @@ The grounds of disqualification for an individual applicant for a licence, or an
 
 ### 64 Waiver of ground of disqualification while licence or certificate of approval in force
 (1) This section applies if, while a licence or certificate of approval is in force, an event occurs that means that 1 or more grounds of disqualification apply to the licensee or certificate holder under section 62 or 63, as the case may be.
-(2) The licensee or certificate holder may apply in writing to the Licensing Authority for a waiver of the disqualification.
+(2) The licensee or certificate holder may apply in writing to a Licensing Authority for a waiver of the disqualification.
 (3) The application must be accompanied by the prescribed fee, if any.
-(4) The Licensing Authority may waive the disqualification if the Authority is satisfied that the licensee or certificate holder is, despite the disqualification, suitable to be a licensee or certificate holder, as the case may be, in relation to the class or classes of business or work to which the licence or certificate relates.
+(4) A Licensing Authority may waive the disqualification if the Authority is satisfied that the licensee or certificate holder is, despite the disqualification, suitable to be a licensee or certificate holder, as the case may be, in relation to the class or classes of business or work to which the licence or certificate relates.
 (5) A waiver of disqualification under this section expires on the expiry of the licence or certificate of approval in respect of which it was granted.
 (6) If a waiver of disqualification has been granted under this section, no complaint may be made under Part 4 against the licensee or certificate holder on the grounds that he or she is disqualified in the respect covered by the waiver.
 
@@ -640,7 +645,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
 
 ### 65 Production of licence
 (1) A licensee must produce his or her licence on demand to—
-  (a) the Licensing Authority; or
+  (a) a Licensing Authority; or
   (b) any constable; or
   (c) a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit; or
   (d) any person with whom the licensee is dealing when carrying on or attempting to carry on any private security business to which the licence relates.
@@ -649,7 +654,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
 
 ### 66 Production of certificate of approval
 (1) A certificate holder must produce his or her certificate of approval on demand to—
-  (a) the Licensing Authority; or
+  (a) a Licensing Authority; or
   (b) any constable; or
   (c) a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit; or
   (d) any person with whom the certificate holder is dealing in the course of performing his or her duties as a responsible employee.
@@ -657,8 +662,8 @@ The grounds of disqualification for an individual applicant for a licence, or an
 (3) A certificate holder who knowingly contravenes subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 67 Requirement to wear identification badge
-(1) An individual who is the holder of a licence to carry on any of the classes of private security business described in sections 6 to 11 must wear an identification badge issued by the Authority at all times during the course of carrying on or attempting to carry on that business.
-(2) The holder of a certificate of approval as a responsible employee of any kind described in sections 14 to 19 must wear an identification badge issued by the Authority at all times during the course of performing his or her duties as a responsible employee.
+(1) An individual who is the holder of a licence to carry on any of the classes of private security business described in sections 6 to 11 must wear an identification badge issued by an Authority at all times during the course of carrying on or attempting to carry on that business.
+(2) The holder of a certificate of approval as a responsible employee of any kind described in sections 14 to 19 must wear an identification badge issued by an Authority at all times during the course of performing his or her duties as a responsible employee.
 (3) The identification badge must be worn in a position that is readily visible.
 (4) Despite subsections (1) and (2), no licensee or certificate holder is required to wear an identification badge if the licensee or certificate holder reasonably believes that wearing it would threaten his or her safety or the safety of any person.
 (5) A licensee or certificate holder who intentionally contravenes this section commits an offence and is liable on conviction to a fine not exceeding $2,000.
@@ -685,7 +690,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
 (3) A licensee or certificate holder or person who employs or engages any repossession employee or crowd controller employee commits an offence and is liable on conviction to a fine not exceeding $2,000 if the licensee or certificate holder or person fails without reasonable excuse to comply with subsection (1).
 
 ### 71 Updating certificate information
-(1) A certificate holder must advise the Licensing Authority—
+(1) A certificate holder must advise a Licensing Authority—
   (a) of any change to the certificate holder's name or residential address; or
   (b) if, subsequent to the application for a certificate of approval, any of the grounds of disqualification described in section 62 apply to him or her.
 (2) A certificate holder commits an offence if he or she fails without reasonable excuse to comply with subsection (1).
@@ -706,7 +711,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
 **Complaints**
 
 ### 73 Complaint against licensee
-(1) A constable may at any time file a written complaint with the Licensing Authority against a licensee.
+(1) A constable may at any time file a written complaint with a Licensing Authority against a licensee.
 (2) A person other than a constable may at any time, with the leave of the Authority, file a written complaint with the Authority against a licensee.
 (3) The Authority must refuse leave under subsection (2) unless the Authority is satisfied that the complainant has an interest, greater than that of the public generally, in the subject matter of the complaint, and that the complaint is made in good faith and is not frivolous or vexatious.
 (4) No complaint may be made under this section except on 1 or more of the following grounds:
@@ -716,10 +721,10 @@ A licensee or certificate holder or person who employs or engages any repossessi
   (d) that the licensee or, if the licensee is a company, any officer of the company, has been guilty of misconduct or gross negligence in the course of the business to which the licence relates:
   (e) that a false statement was made in the application for the licence.
 (5) The complaint must specify the grounds on which it is made.
-(6) The complainant must, within 7 days after filing the complaint with the Licensing Authority, serve a copy of the complaint on the licensee.
+(6) The complainant must, within 7 days after filing the complaint with a Licensing Authority, serve a copy of the complaint on the licensee.
 
 ### 74 Complaint against certificate holder
-(1) A constable may at any time file a written complaint with the Licensing Authority against a certificate holder.
+(1) A constable may at any time file a written complaint with a Licensing Authority against a certificate holder.
 (2) A person other than a constable may at any time, with the leave of the Authority, file a written complaint with the Authority against a certificate holder.
 (3) The Authority must refuse leave under subsection (2) unless the Authority is satisfied that the complainant has an interest, greater than that of the public generally, in the subject matter of the complaint, and that the complaint is made in good faith and is not frivolous or vexatious.
 (4) No complaint may be made under this section except on 1 or more of the following grounds:
@@ -729,60 +734,82 @@ A licensee or certificate holder or person who employs or engages any repossessi
   (d) that the certificate holder has been guilty of misconduct or gross negligence in the course of being a responsible employee:
   (e) that a false statement was made in the application for the certificate of approval.
 (5) The complaint must specify the grounds on which it is made.
-(6) The complainant must, within 7 days after filing the complaint with the Licensing Authority, serve a copy of the complaint on the certificate holder.
+(6) The complainant must, within 7 days after filing the complaint with a Licensing Authority, serve a copy of the complaint on the certificate holder.
 
 ### 75 Licensing Authority may refer matter to Police or to Complaints, Investigation, and Prosecution Unit
-(1) On receipt of a complaint from a person under section 73(2) or 74(2), the Licensing Authority may—
+(1) On receipt of a complaint from a person under section 73(2) or 74(2), a Licensing Authority may—
   (a) send a copy of the complaint to the Commissioner of Police and request the Commissioner to cause a report on the complaint to be prepared by the Police for the Licensing Authority; or
   (b) send a copy of the complaint to the person in charge of the Complaints, Investigation, and Prosecution Unit and request the chief investigator to cause a report on the complaint to be prepared for the Licensing Authority.
-(2) In any other case where the Licensing Authority suspects on reasonable grounds that there may be any grounds for complaint against a licensee or certificate holder, the Licensing Authority may—
-  (a) refer the matter to the Commissioner of Police and request the Commissioner to investigate it with a view to deciding whether a complaint against the licensee or certificate holder should be filed under section 73(1) or 74(1); or
-  (b) refer the matter to the chief investigator of the Complaints, Investigation, and Prosecution Unit and request the chief investigator to cause a report on the matter to be prepared by the unit for the Licensing Authority.
+(2) In any other case where a Licensing Authority suspects on reasonable grounds that there may be any grounds for complaint against a licensee or certificate holder, the Authority may—
+  (a) send a copy of the complaint to the Commissioner of Police and request the Commissioner to cause a report on the complaint to be prepared by the Police for the Authority; or
+  (b) send a copy of the complaint to the person in charge of the Complaints, Investigation, and Prosecution Unit and request the chief investigator to cause a report on the complaint to be prepared for the Authority.
 
 ### 76 Suspension of licence or certificate of approval pending determination of complaint
-(1) The Licensing Authority may make an order suspending a licence or certificate if a complaint has been filed against the holder of it under section 73 or 74 and the Licensing Authority is satisfied that it is necessary or desirable to do so having regard to—
+(1) A Licensing Authority may make an order suspending a licence or certificate if a complaint has been filed against the holder of it under section 73 or 74 and the Licensing Authority is satisfied that it is necessary or desirable to do so having regard to—
   (a) the interests of the public; and
   (b) the possibility of further loss or damage occurring if the Licensing Authority does not make an order under this section.
 (2) A licence or certificate may be suspended either in whole or in part in respect of 1 or more classes (of business or responsible employee) for which it was granted.
-(3) The Licensing Authority is not obliged to give notice to the licensee or certificate holder that it intends to make an order of suspension under this section.
-(4) The Licensing Authority must notify the licensee or certificate holder in writing of any order of suspension made by it under this section and of its reasons for making the order.
-(5) As soon as practicable after the notification under subsection (4), the Licensing Authority must give the licensee or certificate holder an opportunity to make representations to the Licensing Authority for the revocation of the order.
+(3) A Licensing Authority is not obliged to give notice to the licensee or certificate holder that it intends to make an order of suspension under this section.
+(4) A Licensing Authority must notify the licensee or certificate holder in writing of any order of suspension made by it under this section and of its reasons for making the order.
+(5) As soon as practicable after the notification under subsection (4), a Licensing Authority must give the licensee or certificate holder an opportunity to make representations to the Authority for the revocation of the order.
 (6) If an order of suspension is made under this section, the order—
   (a) comes into force when the licensee or certificate holder is notified of the order in accordance with subsection (4); and
-  (b) lasts until the complaint is heard and determined by the Licensing Authority in accordance with this Part.
+  (b) lasts until the complaint is heard and determined by a Licensing Authority in accordance with this Part.
 (7) During the period that a licence is suspended—
   (a) the licence has no effect and must not be renewed; and
   (b) no new licence may be issued authorising the licensee to carry on the class of business, or (if more than 1) any 1 or more of the classes of business, to which the suspended licence relates.
 (8) During the period that a certificate of approval is suspended—
   (a) the certificate has no effect and must not be renewed; and
   (b) no new certificate may be issued authorising the holder to be a responsible employee of any class, or (if more than 1) any 1 or more of the classes of responsible employee, to which the suspended certificate relates.
-(9) The Licensing Authority may at any time, on its own motion or on the application of the licensee or the certificate holder, revoke an order of suspension made under this section.
+(9) A Licensing Authority may at any time, on its own motion or on the application of the licensee or the certificate holder, revoke an order of suspension made under this section.
 
 **Disciplinary hearing**
 
 ### 77 Hearing
-(1) The Licensing Authority—
+(1) A Licensing Authority—
   (a) must hold a hearing if a complaint has been filed with the Licensing Authority against a licensee under section 73 or certificate holder under section 74, and the Licensing Authority is satisfied that the requirements of the relevant section have been complied with; and
   (b) may on its own motion hold a hearing if it has received a report requested under section 75(2) and suspects on reasonable grounds that there may be grounds of the kind in section 73(4) for disciplinary action against a licensee or grounds of the kind in section 74(4) for disciplinary action against a certificate holder.
-(2) The Licensing Authority must fix a time and place for the hearing.
-(3) The Licensing Authority must give not less than 10 working days' notice of the hearing—
+(2) A Licensing Authority must fix a time and place for the hearing.
+(3) A Licensing Authority must give not less than 10 working days' notice of the hearing—
   (a) to the licensee or certificate holder; and
   (b) to the complainant (if any); and
   (c) if the Licensing Authority wishes the Police to attend, to the Commissioner of Police; and
   (d) if the Licensing Authority received a report from the Complaints, Investigation, and Prosecution Unit, the chief investigator of the unit.
-(4) If the Licensing Authority is holding a hearing under subsection (1)﻿(b), the Licensing Authority must, not later than 10 working days before the date of the hearing, provide the licensee or certificate holder with a statement of the reasons for this.
+(4) If a Licensing Authority is holding a hearing under subsection (1)﻿(b), the Licensing Authority must, not later than 10 working days before the date of the hearing, provide the licensee or certificate holder with a statement of the reasons for this.
 (5) At the hearing, the following persons are entitled to appear, be heard, call evidence, and to cross-examine and re-examine witnesses:
   (a) the complainant (if any); and
   (b) the licensee or certificate holder; and
   (c) the Commissioner of Police or any other constable on the Commissioner's behalf; and
   (d) the chief investigator of the Complaints, Investigation, and Prosecution Unit or any other person authorised by the chief investigator.
 (6) Any party at the hearing may conduct his or her case personally or may be represented by counsel.
-(7) The Licensing Authority may from time to time adjourn the hearing to a future time and place fixed by it.
+(7) A Licensing Authority may from time to time adjourn the hearing to a future time and place fixed by it.
+(8) Despite anything in this Act to the contrary, a Licensing Authority may determine a complaint on the papers if he or she considers it appropriate.
+(9) Before doing so, he or she must give the parties a reasonable opportunity to comment on whether the complaint should be dealt with in that manner.
 
-**Powers of Authority: Licensees**
+### 77A Procedure
+(1) A Licensing Authority may regulate his or her procedures as he or she sees fit, subject to—
+  (a) this Act and any regulations made under it; and
+  (b) any practice notes issued under section 96A.
+(2) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if a Licensing Authority considers it appropriate and the necessary facilities are available.
+
+### 77B Suppression orders
+(1) A Licensing Authority may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be subject to any conditions that a Licensing Authority considers appropriate.
+(3) A person who breaches an order made under this section is liable on conviction to a fine not exceeding $3,000.
+
+### 77C Contempt of Licensing Authority
+(1) A person commits an offence if the person—
+  (a) wilfully insults or obstructs a Licensing Authority, a witness, or an officer of an Authority during a sitting of an Authority or while an Authority, a witness, or an officer is going to, or returning from, a sitting of an Authority; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of an Authority; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of an Authority; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of an Authority in the course of the hearing of any proceedings.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
+(3) A Licensing Authority may order the exclusion from a sitting of that Authority of any person whose behaviour, in the opinion of the Authority, constitutes an offence against subsection (1), whether or not the person is charged with the offence; and any officer of the Authority or constable may take any steps that are reasonably necessary to enforce the exclusion.
+
+**Powers of Authorities: Licensees**
 
 ### 78 Disciplinary powers of Licensing Authority in respect of licensee
-(1) If, after a hearing in accordance with section 77, the Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)﻿(b), as the case may be, have been proved, the Licensing Authority—
+(1) If, after a hearing in accordance with section 77, a Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)﻿(b), as the case may be, have been proved, the Licensing Authority—
   (a) must cancel the licence if section 79 applies:
   (b) may cancel the licence if section 80 applies:
   (c) may, in addition to cancellation under paragraph (a), or in addition to or instead of cancellation under paragraph (b), do all or any of the following things that may be appropriate:
@@ -794,27 +821,27 @@ A licensee or certificate holder or person who employs or engages any repossessi
     (vi) fine the licensee any amount not exceeding $2,000:
     (vii) reprimand the licensee:
     (viii) if the Licensing Authority is satisfied in the case of a licensee that is a company that the grounds for disciplinary action relate to any conduct or omission by a particular officer of the company, make an order directing the licensee to terminate the employment of that officer within the time the Licensing Authority specifies in the order.
-(2) If, after the hearing, the Licensing Authority is not satisfied that the grounds for disciplinary action have been proved, the Authority must dismiss the matter.
+(2) If, after the hearing, a Licensing Authority is not satisfied that the grounds for disciplinary action have been proved, the Authority must dismiss the matter.
 (3) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
 (4) While any order of suspension of a licence made under this section continues in force,—
   (a) the licence has no effect and must not be renewed; and
   (b) no new licence may be issued authorising the licensee to carry on the class of private security business, or (if more than 1) any 1 or more of the classes of private security business, to which the suspended licence relates.
-(5) A fine imposed by the Licensing Authority on a licensee under subsection (1) is a debt due by the licensee to the Crown, and is recoverable in any court of competent jurisdiction.
-(6) The Licensing Authority must as soon as practicable give notice in writing of the decision made by the Authority under this section, and of any penalty imposed, to—
+(5) A fine imposed by a Licensing Authority on a licensee under subsection (1) is a debt due by the licensee to the Crown, and is recoverable in any court of competent jurisdiction.
+(6) A Licensing Authority must as soon as practicable give notice in writing of the decision made by the Authority under this section, and of any penalty imposed, to—
   (a) the licensee; and
   (b) the Commissioner of Police; and
   (c) any complainant; and
   (d) the chief investigator of the Complaints, Investigation, and Prosecution Unit.
-(7) If the Licensing Authority makes an order under subsection (1)﻿(c)﻿(viii), it must as soon as practicable also give notice in writing of the order to the officer to whom it relates.
+(7) If a Licensing Authority makes an order under subsection (1)﻿(c)﻿(viii), it must as soon as practicable also give notice in writing of the order to the officer to whom it relates.
 
 ### 79 Mandatory grounds for cancellation of licence
 (1) This section applies (and, under section 78, cancellation of the licence is mandatory) if—
-  (a) the Licensing Authority is satisfied that 1 or more grounds for disqualification under section 62 or 63, as the case may be, now apply to the licensee and the Licensing Authority is satisfied that, because of this, the licensee is not suitable to hold a licence; or
-  (b) the Licensing Authority is satisfied that the licence was issued by mistake or by reason of fraud on the part of the applicant for the licence.
+  (a) a Licensing Authority is satisfied that 1 or more grounds for disqualification under section 62 or 63 apply to the licensee and the Authority is satisfied that, because of this, the licensee is not suitable to hold a licence; or
+  (b) a Licensing Authority is satisfied that the licence was issued by mistake or by reason of fraud on the part of the applicant for the licence.
 (2) Subsection (3) applies if—
   (a) the licensee is a company; and
-  (b) the reason that the Licensing Authority is satisfied that the licensee is unsuitable to be a licensee under subsection (1)﻿(a) is because an officer of the company is disqualified under section 62.
-(3) The Licensing Authority must not cancel the company's licence if—
+  (b) the reason that a Licensing Authority is satisfied that the licensee is unsuitable to be a licensee under subsection (1)﻿(a) is because an officer of the company is disqualified under section 62.
+(3) A Licensing Authority must not cancel the company's licence if—
   (a) the person became an officer of the company after the company obtained its licence; and
   (b) within 2 weeks of the person becoming an officer of the company, the company applied to the Licensing Authority under section 40(2) for the approval of the officer; and
   (c) either—
@@ -822,7 +849,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
     (ii) the Licensing Authority has advised the company, in writing, that it refuses to approve the officer but less than 2 weeks has elapsed since the advice was sent.
 
 ### 80 Discretionary grounds for cancellation of licence
-(1) This section applies (and, under section 78, the Authority may cancel the licence) if—
+(1) This section applies (and, under section 78, an Authority may cancel the licence) if—
   (a) a person specified in subsection (2) has breached a condition of the licence imposed under section 33(7):
   (b) a person specified in subsection (2) has been convicted of an offence under any of the provisions specified in Schedule 1:
   (c) a person specified in subsection (2) in the course of carrying on the business to which the licence relates uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the Dog Control Act 1996:
@@ -839,10 +866,10 @@ A licensee or certificate holder or person who employs or engages any repossessi
   (a) the licensee; and
   (b) in the case of a licensee that is a company, any officer of the company.
 
-**Powers of Authority: Certificate holders**
+**Powers of Authorities: Certificate holders**
 
 ### 81 Disciplinary powers of Licensing Authority in respect of holder of certificate of approval
-(1) If, after a hearing in accordance with section 77, the Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)﻿(b), as the case may be, have been proved, the Licensing Authority—
+(1) If, after a hearing in accordance with section 77, a Licensing Authority is satisfied that the grounds for disciplinary action in the complaint or under section 77(1)﻿(b), as the case may be, have been proved, the Licensing Authority—
   (a) must cancel the certificate of approval if section 82 applies:
   (b) may cancel the certificate of approval if section 83 applies:
   (c) may, in addition to cancellation under paragraph (a), or in addition to or instead of cancellation under paragraph (b), do all or any of the following things that may be appropriate:
@@ -853,13 +880,13 @@ A licensee or certificate holder or person who employs or engages any repossessi
     (v) bar the certificate holder from applying for a licence or certificate of approval for a period that the Licensing Authority specifies in the order or until certain conditions are met:
     (vi) fine the certificate holder any amount not exceeding $2,000:
     (vii) reprimand the certificate holder.
-(2) If, after a hearing, the Licensing Authority is not satisfied that the grounds for disciplinary action have been proved, the Authority must dismiss the matter.
+(2) If, after a hearing, a Licensing Authority is not satisfied that the grounds for disciplinary action have been proved, the Authority must dismiss the matter.
 (3) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
 (4) While any order of suspension of a certificate of approval made under this section continues in force,—
   (a) the certificate of approval ceases to have effect and must not be renewed; and
   (b) no new licence in respect of the business or (if more than 1) any 1 or more of the businesses to which the certificate relates or new certificate of approval of the same type may be issued to the holder.
-(5) A fine imposed by the Licensing Authority on a certificate holder under this section is a debt due by the holder to the Crown, and is recoverable in any court of competent jurisdiction.
-(6) The Licensing Authority must as soon as practicable give notice in writing of the decision made by the Authority under this section, and of any penalty imposed by the Authority to—
+(5) A fine imposed by a Licensing Authority on a certificate holder under this section is a debt due by the holder to the Crown, and is recoverable in any court of competent jurisdiction.
+(6) A Licensing Authority must as soon as practicable give notice in writing of the decision made by the Authority under this section, and of any penalty imposed by the Authority to—
   (a) the certificate holder; and
   (b) the person by whom he or she is for the time being employed; and
   (c) the Commissioner of Police; and
@@ -869,10 +896,10 @@ A licensee or certificate holder or person who employs or engages any repossessi
 ### 82 Mandatory grounds for cancellation of certificate of approval
 This section applies (and, under section 81, cancellation of the certificate of approval is mandatory) if—
   (a) the Licensing Authority is satisfied that 1 or more grounds of disqualification under section 62 now apply to the certificate holder and the Licensing Authority is satisfied that, because of this, the certificate holder is not suitable to hold a certificate; or
-  (b) the Licensing Authority is satisfied that the certificate was issued by mistake or by reason of fraud on the part of the applicant for the certificate.
+  (b) a Licensing Authority is satisfied that the certificate was issued by mistake or by reason of fraud on the part of the applicant for the certificate.
 
 ### 83 Discretionary grounds for cancellation of certificate
-This section applies (and, under section 81, the Authority may cancel the licence) if—
+This section applies (and, under section 81, an Authority may cancel the certificate of approval) if—
   (a) the certificate holder has breached a condition of the certificate of approval imposed under section 53(7):
   (b) the certificate holder has been convicted of an offence under any of the provisions specified in Schedule 1:
   (c) the certificate holder, in the course of carrying on the business to which the certificate relates, uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the Dog Control Act 1996:
@@ -890,65 +917,91 @@ This section applies (and, under section 81, the Authority may cancel the licenc
 For the purposes of any proceedings under this Part, a certificate containing the substance of the conviction of any person of any offence purporting to be signed by the Registrar of the Court by which the person was convicted is sufficient evidence of that conviction without proof of the signature or official character of the person appearing to have signed the certificate.
 
 ### 85 Cancelled and suspended licences and certificates of approval must be returned to Licensing Authority
-(1) A person whose licence or certificate of approval is cancelled or suspended under this Part must return it to the Licensing Authority within 7 days after being notified of the cancellation or suspension.
+(1) A person whose licence or certificate of approval is cancelled or suspended under this Part must return it to a Licensing Authority within 5 working days after being notified of the cancellation or suspension.
 (2) A person commits an offence if he or she fails without reasonable excuse to comply with subsection (1).
 
 ### 86 Penalties for offences not affected
 Nothing in this Part limits the jurisdiction of any court, or limits or affects any other provisions in this Act relating to the punishment of offences.
 
-## Part 5 — Licensing Authority and Complaints, Investigation, and Prosecution Unit
+## Part 5 — Licensing Authorities and Complaints, Investigation, and Prosecution Unit
 
-**Licensing Authority**
+**Licensing Authorities**
 
 ### 87 Private Security Personnel Licensing Authority
-(1) The Governor-General may, by warrant, on the recommendation of the responsible Minister, appoint a person to be the Private Security Personnel Licensing Authority.
+(1) The Governor-General may, by warrant, on the recommendation of the responsible Minister, appoint 1 or more persons to be Private Security Personnel Licensing Authorities, and may give the Authorities distinctive designations and change any designation.
 (2) Subject to section 89(2), the office of Licensing Authority may be held concurrently with any other office.
 
-### 88 Functions of Authority
-The functions of the Authority are—
+### 88 Functions of Authorities
+The functions of the Authorities are—
   (a) to discharge its functions under Part 2 in relation to consideration of applications for licences and certificates of approval and the issue of licences and certificates of approval:
   (b) to exercise its powers under Part 4 in relation to the discipline of licensees and certificate holders:
   (c) to discharge its functions under sections 97 to 99 in relation to the keeping of registers of licensees and certificate holders.
 
-### 89 Qualifications of Licensing Authority
-(1) No person may hold office as Licensing Authority unless he or she is a barrister or solicitor of the High Court of not less than 5 years' standing.
-(2) No public servant may hold office as the Licensing Authority.
+### 88A Orderly and efficient operation
+(1) A Licensing Authority is responsible for making any arrangements that are practicable to ensure that he or she and any Deputy Licensing Authority performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+(2) If more than 1 Authority is appointed, they must act together in making those arrangements for any Deputy Licensing Authority.
 
-### 90 Term of office of Licensing Authority
-(1) The Licensing Authority—
-  (a) must be appointed for a term of 3 years; and
+### 89 Qualifications of Licensing Authorities
+(1) No person may hold office as a Licensing Authority unless he or she is a barrister or solicitor of the High Court of not less than 5 years' standing.
+(2) No public servant may hold office as a Licensing Authority.
+
+### 90 Term of office of Licensing Authorities
+(1) A Licensing Authority—
+  (a) must be appointed for a term of up to 5 years; and
   (b) may from time to time be reappointed.
-(2) The Licensing Authority may at any time resign from office by notice in writing to the responsible Minister.
-(3) The Governor-General may, on the recommendation of the responsible Minister, at any time remove the Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed is not entitled to compensation.
+(2) A Licensing Authority may at any time resign from office by notice in writing to the responsible Minister.
+(3) The Governor-General may, on the recommendation of the responsible Minister, at any time remove a Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed is not entitled to compensation.
+(4) A Licensing Authority continues in office despite the expiry of his or her term of office until—
+  (a) the Authority is reappointed; or
+  (b) the Authority’s successor is appointed; or
+  (c) the Authority is notified that a replacement Licensing Authority will not be appointed; or
+  (d) the Authority vacates or is removed from office.
+(5) A Licensing Authority who continues in office for any period under subsection (4), unless he or she was removed from office, may act as a Licensing Authority during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by him or her before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(6) A Licensing Authority who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
-### 91 Deputy Private Security Personnel Licensing Authority
+### 91 Deputy Private Security Personnel Licensing Authorities
 (1) The Governor-General may, by warrant, on the recommendation of the responsible Minister, appoint 1 or more Deputy Private Security Personnel Licensing Authorities if the Minister is satisfied that—
-  (a) the Licensing Authority is unable, because of absence (whether by reason of leave, ill health, or any other reason), to exercise his or her functions of office; or
-  (b) the amount of work to be done by the Licensing Authority is more than can reasonably be done by 1 person at that time.
-(2) No person who is incapable of holding office as Licensing Authority may be appointed to be a Deputy Licensing Authority.
-(3) A Deputy Licensing Authority must be appointed for a fixed term as determined by the responsible Minister.
-(4) A Deputy Licensing Authority has all the powers, duties, and functions of the Licensing Authority, subject to the control of the Licensing Authority.
-(5) The Governor-General may, on the recommendation of the Responsible Minister at any time remove a Deputy Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed is not entitled to compensation.
-(6) The fact that a Deputy Licensing Authority exercises the powers, duties, and functions of the Licensing Authority is conclusive evidence of his or her authority to do so.
-(7) No appointment of a deputy under this section, and no act done by him or her when acting as Licensing Authority, may be questioned in any proceedings on the grounds that the occasion for the appointment had not arisen or had ceased.
+  (a) 1 or more of the Licensing Authorities are unable, because of absence (for any reason) of 1 or more of them, to perform the functions of office; or
+  (b) the amount of work to be done by the Licensing Authorities is more than can be reasonably done by the existing Licensing Authorities at that time.
+(2) No person who is incapable of holding office as a Licensing Authority may be appointed to be a Deputy Licensing Authority.
+(3) A Deputy Licensing Authority must be appointed for a fixed term as determined by the responsible Minister and may be reappointed for further fixed terms.
+(3A) A Deputy Licensing Authority may at any time resign from office by notice in writing to the responsible Minister.
+(3B) The Governor-General may, on the recommendation of the responsible Minister, at any time remove a Deputy Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed is not entitled to compensation.
+(3C) A Deputy Licensing Authority continues in office despite the expiry of his or her term of office until—
+  (a) he or she is reappointed; or
+  (b) his or her successor is appointed; or
+  (c) he or she is notified that a replacement Licensing Authority will not be appointed; or
+  (d) he or she vacates or is removed from office.
+(3D) A Deputy Licensing Authority who continues in office for any period under subsection (3C), unless he or she was removed from office, may act as a Deputy Licensing Authority during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by him or her before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(3E) A Deputy Licensing Authority who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
+(4) A Deputy Licensing Authority has all the powers, duties, and functions of a Licensing Authority, subject to the control of a Licensing Authority.
+(5)
+(6) The fact that a Deputy Licensing Authority exercises the powers, duties, and functions of a Licensing Authority is conclusive evidence of his or her authority to do so.
+(7) No appointment of a deputy under this section, and no act done by him or her when acting as a Licensing Authority, may be questioned in any proceedings on the grounds that the occasion for the appointment had not arisen or had ceased.
 
 ### 92 Remuneration, and status under certain Acts
-(1) The Licensing Authority and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if the Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
+(1) A Licensing Authority and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if each Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
 (2) For the purposes of the State Sector Act 1988 and the Government Superannuation Fund Act 1956, a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
 
 ### 93 Licensing Authority to be Commission of Inquiry for certain purposes
-(1) Where under this Act the Licensing Authority has the function of hearing or determining any matter, the Licensing Authority has the same powers as are conferred on a Commission of Inquiry by sections 4, 4B, 4C, 4D, 10, and 11 of the Commissions of Inquiry Act 1908 in respect of an inquiry under that Act.
+(1) Where under this Act a Licensing Authority has the function of hearing or determining any matter, that Authority has the same powers as are conferred on a Commission of Inquiry by sections 19, 20, 23, 27, 28, and 34 of the Inquiries Act 2013 in respect of an inquiry under that Act.
 (2) Subject to the other provisions of this Act, the provisions of the Commissions of Inquiry Act 1908 referred to in subsection (1) and sections 5, 6, 7, 9, 12, and 14 of that Act apply.
-(3) At the hearing of any matter under any of sections 31, 41, 42, 51, 58, and 59, the Licensing Authority may receive as evidence any statement, document, information, or matter that in his or her opinion may assist him or her to deal with the matter, whether or not it would be otherwise admissible in a court of law.
+(3) At the hearing of any matter under any of sections 31, 41, 42, 51, 58, and 59, a Licensing Authority may receive as evidence any statement, document, information, or matter that in his or her opinion may assist him or her to deal with the matter, whether or not it would be otherwise admissible in a court of law.
 
-### 94 Protection of Licensing Authority and Deputy Licensing Authorities
-Neither the Licensing Authority nor any Deputy Licensing Authority is personally liable for any act done or omission made by him or her while acting in good faith while performing or exercising his or her functions, powers, and duties under this Act.
+### 94 Protection of Licensing Authorities and Deputy Licensing Authorities
+Neither a Licensing Authority nor any Deputy Licensing Authority is personally liable for any act done or omission made by him or her while acting in good faith while performing or exercising his or her functions, powers, and duties under this Act.
 
 ### 95 Administrative and secretarial services
-The chief executive of the responsible department must provide for the Licensing Authority and any Deputy Licensing Authorities the administrative and secretarial services that may be necessary to enable those persons to exercise their functions and powers, and perform their duties, under this Act.
+The chief executive of the responsible department must provide for the Licensing Authorities and any Deputy Licensing Authorities the administrative and secretarial services that may be necessary to enable those persons to exercise their functions and powers, and perform their duties, under this Act.
 
 ### 96 Delegations
-(1) The Licensing Authority may, in writing, delegate to any person—
+(1) A Licensing Authority may, in writing, delegate to any person—
   (a) the power under section 30 to grant an application for a licence without holding an oral hearing, if no notices of objection have been filed:
   (b) the power under section 38 to issue a temporary certificate of approval:
   (c) the power of the Licensing Authority under section 43:
@@ -958,13 +1011,17 @@ The chief executive of the responsible department must provide for the Licensing
 (2) Subject to any general or special directions given or conditions attached to a delegation, the person to whom a delegation is made under this section must perform and may exercise the power or functions in the same manner and with the same effect as if they had been conferred on that person directly by this section and not by delegation.
 (3) A person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 (4) A delegation may be to a specified person or to persons of a specified class, or may be made to the holder or holders for the time being of a specified office or specified classes of offices.
-(5) A delegation is revocable in writing at will, and a delegation does not prevent the exercise of any function, duty, or power by the Licensing Authority.
+(5) A delegation is revocable in writing at will, and a delegation does not prevent the exercise of any function, duty, or power by a Licensing Authority.
 (6) A delegation continues in force according to its tenor until revoked, even if the Licensing Authority who made it has ceased to hold office.
+
+### 96A Practice notes
+(1) All Licensing Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of a Deputy Licensing Authority, officers of a Licensing Authority, and parties before a Licensing Authority.
 
 **Registers**
 
 ### 97 Registers
-(1) The Licensing Authority must establish and maintain the following registers:
+(1) All Licensing Authorities acting together must establish and maintain the following registers:
   (a) a register of licensees:
   (b) a register of certificate holders.
 (2) The register of licensees must show in relation to each licensee—
@@ -982,18 +1039,18 @@ The chief executive of the responsible department must provide for the Licensing
   (d) every date on which the certificate of approval was renewed; and
   (e) details, including dates, of any suspension or cancellation of the certificate of approval; and
   (f) any other prescribed information.
-(4) The Licensing Authority must determine the form of the registers, and may amend the form from time to time as he or she considers necessary, providing that the content of the registers is as required by subsections (2) and (3).
+(4) All Licensing Authorities acting together must determine the form of the registers, and may amend the form from time to time as he or she considers necessary, providing that the content of the registers is as required by subsections (2) and (3).
 
 ### 98 Inspection of registers
-(1) The Licensing Authority must take all reasonable steps to ensure—
+(1) All Licensing Authorities acting together must take all reasonable steps to ensure—
   (a) that the information contained in the registers is available to members of the public to view at all reasonable times; and
   (b) that members of the public may copy or purchase all, or any part of, the information contained in the registers at no more than a reasonable cost.
 (2) Despite subsection (1),—
   (a) no residential address recorded under section 97(2)﻿(a) or (3)﻿(a) may be made available to the public for inspection; and
   (b) no copy of a register or part of a register provided to a member of the public may contain a residential address recorded under section 97(2)﻿(a) or (3)﻿(a).
 
-### 99 Statement by Licensing Authority as to contents of register
-A written statement of either of the following kinds signed by the Licensing Authority is, in any judicial proceedings, sufficient evidence, until the contrary is proved, of the matters referred to in the statement:
+### 99 Statement by Licensing Authorities as to contents of register
+A written statement of either of the following kinds signed by a Licensing Authority is, in any judicial proceedings, sufficient evidence, until the contrary is proved, of the matters referred to in the statement:
   (a) a statement to the effect that any specified person is or is not the holder of a licence or certificate of approval, or was or was not the holder of a licence or certificate of approval at any particular time or during any period specified in the statement; or
   (b) a statement as to any entry in a register.
 
@@ -1008,7 +1065,7 @@ A written statement of either of the following kinds signed by the Licensing Aut
 The functions of the Complaints, Investigation, and Prosecution Unit are—
   (a) to prepare reports on applications for licences and certificates of approval when requested under Part 2:
   (b) to take part in oral hearings of applications for licences and certificates of approval as provided for in Part 2:
-  (c) to prepare reports on complaints against licensees and certificate holders and matters referred by the Authority when requested under Part 4:
+  (c) to prepare reports on complaints against licensees and certificate holders and matters referred by an Authority when requested under Part 4:
   (d) to take part in disciplinary hearings as provided for in Part 4:
   (e) to institute prosecutions for contraventions of this Act, and regulations made under this Act, in the cases that the chief investigator of the unit considers appropriate.
 
@@ -1017,16 +1074,16 @@ The functions of the Complaints, Investigation, and Prosecution Unit are—
 **General provisions**
 
 ### 102 Appeals to District Court
-(1) The following persons have a right of appeal to the District Court against a decision of the Licensing Authority under this Act:
+(1) The following persons have a right of appeal to the District Court against a decision of a Licensing Authority under this Act:
   (a) if an application is refused (whether in whole or in part), the applicant; and
-  (b) if an applicant is dissatisfied with a condition imposed by the Authority under section 33(7) or 53(7), the applicant; and
+  (b) if an applicant is dissatisfied with a condition imposed by an Authority under section 33(7) or 53(7), the applicant; and
   (c) if an application is granted (in whole or in part), a person who objected to the granting of the application; and
   (d) if a licence is suspended or cancelled, the licensee; and
   (e) if a certificate of approval is suspended or cancelled, the person whose certificate of approval is suspended or cancelled; and
   (f) if the employment of an officer of a company that is a licensee is terminated, the officer; and
   (g) if a licensee or person holding a certificate of approval is fined, the licensee or person; and
   (h) if there was a complaint made by a constable under Part 4 but the licence or certificate of approval in relation to which the complaint was made was not suspended or cancelled, the Commissioner of Police.
-(2) An appeal under this section must be brought within 28 days after the date on which the appellant was notified in writing by the Licensing Authority of the decision appealed against, or within any further period that the court may allow.
+(2) An appeal under this section must be brought within 20 working days after the date on which the appellant was notified in writing by a Licensing Authority of the decision appealed against, or within any further period that the court may allow.
 (3) The appeal—
   (a) must be made by way of originating application in accordance with the District Court Rules 2014; and
   (b) must be filed in the office of the District Court nearest to the registered office of the licensee (if a company) or principal place of business of the licensee (if not a company), or to the place of employment or engagement of the certificate holder, as the case may require.
@@ -1034,7 +1091,7 @@ The functions of the Complaints, Investigation, and Prosecution Unit are—
   (a) confirm, vary, or reverse the decision appealed against; or
   (b) in the case of an order suspending a licence or certificate of approval, vary the period of the suspension; or
   (c) refer the matter back to the Licensing Authority with directions to him or her to reconsider the whole or any specified part of the matter.
-(5) Subject to any order of the court, every decision of the Licensing Authority against which an appeal is made continues in force and has effect according to its tenor pending the determination of the appeal.
+(5) Subject to any order of the court, every decision of a Licensing Authority against which an appeal is made continues in force and has effect according to its tenor pending the determination of the appeal.
 
 ### 103 Appeals to High Court on questions of law only
 If a party to proceedings before the District Court under section 102 is dissatisfied with any determination of the court as being erroneous in point of law, the party may, with the leave of the High Court, appeal to the High Court on a question of law only.
@@ -1052,7 +1109,7 @@ If a party to proceedings before the District Court under section 102 is dissati
 
 ### 105 Providing false information
 A person commits an offence, and is liable on conviction to a fine not exceeding $20,000, who—
-  (a) is required by or under this Act to provide information to the Licensing Authority, a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit, or a constable; and
+  (a) is required by or under this Act to provide information to a Licensing Authority, a person authorised by the chief investigator of the Complaints, Investigation, and Prosecution Unit, or a constable; and
   (b) gives false information knowing that it is false or being reckless as to whether it is false.
 
 ### 106 Liability of officers of company for offences
@@ -1088,21 +1145,21 @@ A person who commits an offence under this Act, or against any regulations made 
 (3) Every person who contravenes subsection (2) commits an offence against this Act.
 
 ### 111 Lost licences and certificates of approval
-If the Licensing Authority is satisfied that a holder of a licence or certificate of approval has lost his or her licence or certificate of approval the Licensing Authority may issue to the holder a substitute license or certificate of approval—
+If a Licensing Authority is satisfied that a holder of a licence or certificate of approval has lost his or her licence or certificate of approval, the Authority may issue to the holder a substitute licence or certificate of approval—
   (a) on payment of the prescribed fee (if any); and
-  (b) on receipt of a photograph of the holder that, in the opinion of the Licensing Authority, complies with the requirements (if any) of any regulations made under this Act.
+  (b) on receipt of a photograph of the holder that, in the opinion of the Authority, complies with the requirements (if any) of any regulations made under this Act.
 
 ### 112 Voluntary surrender of licence or certificate of approval
-(1) A holder of a licence or certificate of approval may at any time surrender his or her licence or certificate of approval by delivering it with a notice in writing to that effect to the Licensing Authority.
-(2) On receipt of the documents by the Licensing Authority, the licence or certificate of approval ceases to have effect.
-(3) If a holder of a licence or certificate of approval gives a notice under subsection (1) to the Licensing Authority, he or she must also, within 7 days, serve a copy of the notice on the Commissioner of Police.
+(1) A holder of a licence or certificate of approval may at any time surrender his or her licence or certificate of approval by delivering it with a notice in writing to that effect to a Licensing Authority.
+(2) On receipt of the documents by a Licensing Authority, the licence or certificate of approval ceases to have effect.
+(3) If a holder of a licence or certificate of approval gives a notice under subsection (1) to a Licensing Authority, he or she must also, within 5 working days, serve a copy of the notice on the Commissioner of Police.
 (4) The surrender of a licence or certificate of approval under subsection (1) does not affect the liability of the holder—
   (a) to pay any fees or other money payable in accordance with the provisions of this Act on or before the date on which the licence or certificate of approval would expire if it had not been surrendered; or
   (b) to perform any duty or obligation that he or she was required to perform on or before the date specified in paragraph (a); or
   (c) for any act done or default or omission made before the date of surrender.
 
 ### 113 Change of place of business
-(1) A licensee may at any time apply in writing to the Licensing Authority to amend his or her licence by—
+(1) A licensee may at any time apply in writing to a Licensing Authority to amend his or her licence by—
   (a) changing the registered office of the licensee; or
   (b) specifying any additional place from which the licensee may carry on the business or businesses to which the licence relates; or
   (c) deleting any place of business specified in the licence.
@@ -1111,17 +1168,17 @@ If the Licensing Authority is satisfied that a holder of a licence or certificat
 
 ### 114 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing forms to be used for the purposes of this Act:
+  (a)
   (b) prescribing the matters for which fees are payable under this Act and the amount of those fees:
   (c) providing for the exemption from fees, in whole or in part:
-  (d) prescribing the circumstances in which the Licensing Authority may waive or refund a prescribed fee in a particular case:
+  (d) prescribing the circumstances in which a Licensing Authority may waive or refund a prescribed fee in a particular case:
   (e) prescribing the manner in which applications under sections 24, 25, and 46 are to be made:
   (f) prescribing information required to be supplied with an application for a licence or certificate, which may include information to establish the applicant's identity or, in the case of a company applicant, the identity of an officer of the company:
   (g) requiring an individual to whom a licence or certificate is issued to collect the licence or certificate in person, or provide evidence of his or her identity when collecting the issued licence; or both:
   (h) prescribing the competency, knowledge, and skills required by applicants for licences and certificates of approval, applicants for renewal of licences and certificates of approval, and licensees and certificate holders, including, without limitation, by—
     (i) requiring that a particular course of study or training has been successfully completed:
     (ii) requiring a person to have met a specified standard or other measure of competency, knowledge, and skills:
-  (i) prescribe the organisation or organisations that may provide the courses of study or training referred to in paragraph (h)﻿(i) and provide for the monitoring of those organisations by the Licensing Authority:
+  (i) prescribe the organisation or organisations that may provide the courses of study or training referred to in paragraph (h)﻿(i) and provide for the monitoring of those organisations by a Licensing Authority:
   (j) prescribing requirements and other matters relating to the making of emergency appointments under section 61:
   (k) requiring records or other documents to be kept by any class or classes of licensees, certificate holders, or persons other than licensees who employ or engage repossession employees or crowd controller employees under the Act:
   (l) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section or section 115, and prescribing the amount of any fine that may be imposed in respect of such offence, being an amount not exceeding $2,000 and, where the offence is a continuing one, a further amount not exceeding $20 for every day during which the offence has continued:
@@ -1132,6 +1189,13 @@ If the Licensing Authority is satisfied that a holder of a licence or certificat
     (ii) different types of work within a class of private security business or class of responsible employees:
   (b) exempt certain persons or classes of persons from all or part of the prescribed requirements:
   (c) without limiting paragraph (b), provide that a standard or other measure of competency, knowledge, and skills met within a certain period before a specified date be accepted as meeting the requirements prescribed under subsection (1)﻿(h)﻿(ii).
+
+### 114A Chief executive may approve forms
+(1) The chief executive may approve and issue forms that the chief executive considers necessary for the purposes of this Act, not being forms required to be prescribed by regulations or rules made under this Act.
+(2) Without limiting subsection (1),—
+  (a) more than 1 form may be approved and issued in relation to the same matter; and
+  (b) a form may be described by any name that the chief executive considers appropriate, even if the form relates to a matter that is described by a different name under this Act, so long as the form refers to the appropriate provision of this Act.
+(3) Every document purporting to be a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive otherwise certifies.
 
 ### 115 Codes of conduct
 (1) The Governor-General may, from time to time, by Order in Council made on the recommendation of the Minister, make regulations prescribing codes of conduct for licensees or certificate holders.
@@ -1154,7 +1218,7 @@ If the Licensing Authority is satisfied that a holder of a licence or certificat
 (5) Where under this Act any notice or other document is to be given to or served on the Police, it may be given to or served on the senior member, for the time being, of the police in the district or place of residence of the applicant, or holder of the licence or certificate of approval, to whom the notice or other document relates.
 
 ### 117 Photographs
-If under this Act any photograph is to be submitted to the Licensing Authority, the Licensing Authority may require that the photograph comply with the requirements of any regulations made under this Act.
+If under this Act any photograph is to be submitted to a Licensing Authority, the Authority may require that the photograph comply with the requirements of any regulations made under this Act.
 
 ### 118 Civil remedies not affected
 Nothing in this Act affects any civil remedy that any person may have against a holder of a licence or certificate of approval in respect of any matter.
