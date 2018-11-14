@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -3725,6 +3725,7 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
   (a) prescribing rules for the conduct of reviews:
   (b) prescribing rules for the lodging of notices in the District Court relating to appeals:
   (c) prescribing the form of a notice of appeal:
+  (ca) prescribing a fee that must accompany a notice of appeal:
   (d) defining specified registry for the purposes of sending or filing notices of appeal:
   (e) prescribing rules for the conduct of appeals:
   (f) prescribing a scale of costs for the purposes of section 148.
