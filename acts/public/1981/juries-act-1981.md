@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -9,8 +9,11 @@ _Consolidation as at 2017-03-01_
 (3) Sections 5 to 10, 12, 35, and 36 shall come into force for the purposes of the constitution of jury districts and the preparation of new jury lists, but only for those purposes, on 1 January 1982.
 
 ### 2 Interpretation
-In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—
   - **chief executive** means the chief executive of the Ministry of Justice
+  - **co-extensive jury districts** means 2 jury districts that comprise the same area and that are—
+    (a) a High Court Jury District constituted under section 5(1):
+    (b) a District Court Jury District constituted under section 5(2)
   - **disability** includes visual or aural impairment
   - **Electoral Commission** means the Electoral Commission established by section 4B of the Electoral Act 1993
   - **intellectual disability** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
@@ -37,6 +40,7 @@ In this Act, unless the context otherwise requires,—
   - **traffic officer** means an enforcement officer under the Land Transport Act 1998
   - **trial** includes, in civil cases, an inquiry or assessment of damages
   - **view** means a visual inspection by jurors of any place or premises, a view of which is considered by the court to be proper or necessary for the better understanding of the evidence that may be given at the trial before the jurors, or material to the proper determination of the question in dispute.
+(2) For the purpose of issuing a summons under section 13 or for any applications made under any or all of sections 14A, 14AB, 14B, 14C, 15, 15A, and 29A, any requirement that the applications be made by writing or in the form of a document is satisfied by an electronic communication that, subject to any rules made under section 35, is in a form acceptable to the Registrar.
 
 ### 3 Act binds Crown
 This Act binds the Crown.
@@ -54,10 +58,14 @@ Except as expressly provided in this Act, the provisions of this Act apply to al
 (4) If, by virtue of subsection (3), a place would be in 2 or more jury districts (both or all of which are High Court jury districts, or both or all of which are District Court jury districts), the boundaries of each of those districts must be declared by the Governor-General, by notice in the Gazette given on the advice of the Minister of the Crown who is responsible for the Ministry of Justice, in such a way as to ensure that—
   (a) no place is included in 2 or more jury districts; and
   (b) no place included in a jury district for a court town is more than 45 km by the most practicable route from the courthouse in that town.
-(5) In considering what advice he should give for the purposes of subsection (4) in respect of any place to which that subsection applies, the Minister of the Crown who is responsible for the Ministry of Justice shall have regard to—
+(5) In considering what advice he or she should give for the purposes of subsection (4) in respect of any place to which that subsection applies, the Minister of the Crown who is responsible for the Ministry of Justice shall have regard to—
   (a) the convenience of the residents in getting to and from a court for jury service; and
   (b) the principle in criminal cases that, so far as practicable, the jury should be drawn from the community in which the alleged offence occurred; and
   (c) the desirability of ensuring that, so far as practicable, the number of persons on the respective jury lists for different districts is roughly equal.
+(6) If jury districts for the relevant High Court and District Court Registries are co-extensive jury districts, the same jury list can be used—
+  (a) to compile jury lists for trials in both the High Court and the District Court held within the jury district; and
+  (b) to create a jury panel and to summon and empanel jurors; and
+  (c) for any related purpose.
 
 **Jury service**
 
@@ -207,7 +215,7 @@ A jury list remains current until it is replaced by a new list provided by the E
 (4) Fees for professional services provided, and reasonable expenses incurred, by the barrister or solicitor in performing that function—
   (a) must, after a bill for them is submitted, be determined by the Registrar in accordance with any currently in force relevant general directions under subsection (5); and
   (b) are payable out of public money appropriated by Parliament for the purpose.
-(5) The chief executive may from time to time give written general directions as to how the Registrar must determine under subsection (4)﻿(a) the fees and expenses.
+(5) The chief executive may from time to time give written general directions (including in electronic form) as to how the Registrar must determine under subsection (4)﻿(a) the fees and expenses.
 (6) The general directions are in force until revoked or revoked and replaced in writing, and may (without limitation) require the Registrar, unless satisfied in a particular case that a specified exception applies, to determine the fees and expenses using specified, or specified ranges of, rates or amounts.
 (7) The ranges, rates, or amounts may differ according to—
   (a) the time spent and the complexity of the proceedings:
@@ -221,11 +229,12 @@ A jury list remains current until it is replaced by a new list provided by the E
   (b) is specified by the Registrar but lasts for at least 1 month; and
   (c) the person has indicated would be a more convenient period for the commencement of any jury service of that person that may result from the person having been summoned to attend as a juror.
 (2) However, the Registrar may exercise that power—
-  (a) only in respect of a summons that is not a replacement summons under section 14C(1)﻿(d); and
+  (a) only in respect of a summons that is not a replacement summons under section 14C(1)﻿(c); and
   (b) only once for each summons of that kind; and
   (c) only if satisfied, on a written application for the purpose made by or on behalf of that person, that, because of 1 or more matters specified in subsection (3), attendance on that occasion would cause or result in undue hardship or serious inconvenience to that person, any other person, or the general public.
 (3) The matters referred to in subsection (2)﻿(c) (and in section 15(1A)﻿(a) and (c)) are—
   (a) the nature of that person's occupation or business, or of any special and pressing commitment arising in the course of that person's occupation or business:
+  (aa) that the person has difficulties in understanding or communicating in the English language, so that they are not capable of acting effectively as a juror:
   (b) that person's disability:
   (c) that person's state of health, or family commitments, or other personal circumstances.
 
@@ -238,7 +247,7 @@ A jury list remains current until it is replaced by a new list provided by the E
   (c) if a later panel is compiled under section 13(1) because jury trials are to be held in the court and that later panel is so compiled at a time that enables the person to be summoned for jury service at a time within the period specified for the person under section 14B(1)﻿(b), ensure the person's details are included, in accordance with the jury rules, in that later panel and promptly issue under section 13(1), and on the basis of that later panel, a replacement summons that states a time within that period; and
   (d) if satisfied that no jury trials are to be held in the court during the period specified for the person under section 14B(1)﻿(b) and therefore that it is unnecessary to compile under section 13(1) a later panel at a time that would enable the person to be summoned to attend for jury service at a time within that period, promptly serve on the person, in accordance with the jury rules, written notice that the person is no longer liable to serve as a juror as a result of the summons in relation to which the application under section 14B was made.
 (2) If the Registrar declines an application under section 14B, the applicant may, in accordance with the jury rules, appeal against that decision to the court before which the applicant is summoned to appear.
-(3) The acceptance of an application under section 14B in respect of a summons does not prevent an application under section 15, 15A, or 16 in respect of a replacement summons under subsection (1)﻿(d) of this section.
+(3) The acceptance of an application under section 14B in respect of a summons does not prevent an application under section 15, 15A, or 16 in respect of a replacement summons under subsection (1)﻿(c) of this section.
 (4) The Registrar may, if the Registrar thinks fit, treat an application under section 14B as if it were an application for excusal under section 15(1) and, if the Registrar does so, the application must be determined accordingly.
 
 ### 14D Deferral of, or excusal from, jury service of person subject to home detention for less than 3 months
@@ -284,9 +293,9 @@ A jury list remains current until it is replaced by a new list provided by the E
   (a) permit the person to defer jury service under section 14B:
   (b) excuse the person from attending as a juror (whether on that occasion, or in any court on any occasion) under section 15 or 15A.
 
-### 16AA Judge may discharge summons of person with disability or language difficulty
-(1) On application in accordance with subsection (3), or on his or her own motion, a Judge may discharge the summons of a person if the Judge is satisfied that, because of disability or difficulties in understanding or communicating in the English language, the person is not capable of acting effectively as a juror.
-(2) A discharge may apply to the whole period for which the person is summoned, or to a particular proceeding.
+### 16AA Judge may cancel summons of person with disability or language difficulty
+(1) On application in accordance with subsection (3), or on his or her own motion, a Judge may cancel the summons of a person if the Judge is satisfied that, because of disability or difficulties in understanding or communicating in the English language, the person is not capable of acting effectively as a juror.
+(2) A cancellation may apply to the whole period for which the person is summoned, or to a particular proceeding.
 (3) An application under this section must be made—
   (a) before the jury is constituted; and
   (b) by the Registrar, or by a member of the court registry staff who is involved in, or responsible for, the administration of juries.
