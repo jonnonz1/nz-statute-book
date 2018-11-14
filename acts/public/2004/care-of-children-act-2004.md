@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -589,7 +589,7 @@ In sections 46E and 46F, family dispute resolution, family dispute resolution fo
   (a) is in response to an application that another party to the proceedings has made for an order under section 46R or 48; or
   (b) is without notice; or
   (c) is for a consent order; or
-  (d) seeks the enforcement of an existing order; or
+  (d)
   (e) relates to a child who is the subject of proceedings already begun under Part 2 of the Oranga Tamariki Act 1989; or
   (f) is accompanied by an affidavit that provides evidence of either of the following matters:
     (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
@@ -708,13 +708,19 @@ The purpose of a settlement conference is to enable a Family Court Judge to—
 (1) This section applies to—
   (a) an application for a parenting order under section 48:
   (b) an application to vary a parenting order under section 56.
-(2) The application must include a statement made by or on behalf of the applicant for the order—
-  (a) that the applicant has undertaken a parenting information programme within the preceding 2 years; or
-  (b) that the applicant is not required to undertake a parenting information programme because—
+(2) The application must include—
+  (a) a statement, made by or on behalf of the applicant for the order, that the applicant has undertaken a parenting information programme within the preceding 2 years; and
+  (b) evidence in support of that statement.
+(3) However, subsection (2) does not apply to an application that—
+  (a) is made in response to an application that another party to the proceedings has made for an order under section 48 or 56; or
+  (b) is made without notice; or
+  (c) is for a consent order; or
+  (d) relates to a child who is the subject of proceedings already begun under Part 2 of the Oranga Tamariki Act 1989; or
+  (e) is brought by a person, who is not the parent or guardian of the child, and is brought by that person in response to the chief executive of Oranga Tamariki—Ministry for Children exercising a power or carrying out a function in relation to that child under Part 2 or 4 of the Oranga Tamariki Act 1989; or
+  (f) is accompanied by an affidavit providing evidence that—
     (i) the applicant is unable to participate effectively in a parenting information programme; or
-    (ii) the applicant is making the application without notice.
-(3) Evidence in support of a statement made under subsection (2)﻿(a) or (b)﻿(i) must be included in the application.
-(4) A Registrar may refuse to accept an application if the Registrar considers that the evidence provided does not adequately support the statement.
+    (ii) at least 1 of the parties to the proceedings, or a child of one of the parties, has been subject to domestic violence by one of the other parties to the application.
+(4) A Registrar may refuse to accept an application if the Registrar considers that the evidence provided under subsection (2)﻿(b) or (3)﻿(f) is insufficient.
 
 ### 48 Parenting orders
 (1) On an application made to it for the purpose by an eligible person, the court may make a parenting order determining the time or times when specified persons have the role of providing day-to-day care for, or may have contact with, the child.
@@ -743,7 +749,13 @@ The purpose of a settlement conference is to enable a Family Court Judge to—
   (a) an interim parenting order is made; and
   (b) the parents of the child in respect of whom the interim parenting order is made are parties to the order; and
   (c) under the interim parenting order, one of the parents has neither the role of providing day-to-day care for nor contact with the child.
-(2) If this section applies, the court must, as soon as practicable, assign a hearing date that is not more than 3 months after the date of the interim parenting order, and at the hearing on that date the court may replace the interim order with—
+(2) If the interim order was made on an application without notice, the parent who has neither the role of providing day-to-day care for nor contact with the child may give notice to the court that he or she wishes to be heard and, if he or she does so, the Registrar of the court must assign a hearing date that is—
+  (a) as soon as practicable; and
+  (b) not more than 42 days after the notice is received, unless there are special circumstances.
+(3) In any other case, the court must assign a hearing date that is—
+  (a) as soon as practicable; and
+  (b) not more than 3 months after the date on which the interim parenting order was made.
+(4) At the hearing on the date assigned under subsection (2) or (3), the court may replace the interim order with—
   (a) a further interim order; or
   (b) a final parenting order.
 
@@ -1559,9 +1571,15 @@ Second opinions
 (10) The approval of the court must be obtained before a second opinion may be prepared and presented.
 (11) The court may give approval only if there are exceptional circumstances.
 (12) A party who obtains the approval of the court for the preparation and presentation of a second opinion is liable for the costs of that opinion.
-(13) If the court gives approval, it may permit disclosure of the materials to the psychologist preparing the second opinion.
+(13) If the court gives approval, it may permit disclosure of the materials to the psychologist preparing the second opinion subject to any terms and conditions that the court considers appropriate.
 (14) If the court declines to give approval to a party, or if a party does not seek approval, the court may permit disclosure of the materials to a psychologist who is employed by the party and who is not the report writer.
-(15) The court may permit disclosure under subsection (14) only if the court is satisfied that the psychologist requires the materials to assist the party to prepare the party's cross-examination.
+(15) The court may—
+  (a) permit disclosure, under subsection (14), of the psychological report prepared by the report writer only if the court is satisfied that the psychologist requires the report to assist the party to prepare the party’s cross-examination; and
+  (b) permit disclosure, under subsection (14), of the report writer’s notes and other materials that the report writer used in preparing the psychological report only if the court is satisfied that—
+    (i) the psychologist requires those notes and other materials to assist the party to prepare the party’s cross-examination; and
+    (ii) the notes and other materials to be released comprise information solely about the party who is seeking their release; and
+    (iii) there are exceptional circumstances; and
+  (c) if the court permits disclosure under paragraph (a) or (b), the disclosure is subject to any terms and conditions that the court considers appropriate.
 
 ### 134 Distribution, etc, of reports under sections 132 and 133
 (1) The Registrar of the court must copy a report under section 132 or section 133 (the report)—
