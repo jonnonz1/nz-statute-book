@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-14_
 
 > An Act to reform the administration of education
 
@@ -7480,8 +7480,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 ### 302 Interpretation
 In this Part of this Act, unless the context otherwise requires,—
   - **allowance** includes award, bursary, grant, and scholarship
-  - **Authority** means the Student Allowance Appeal Authority established by section 304(1)
-  - **member** means the person who for the time being is the Authority
+  - **Authority** means a Student Allowance Appeal Authority appointed under section 304(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Secretary** means the chief executive of the Ministry
@@ -7517,17 +7516,40 @@ In this Part of this Act, unless the context otherwise requires,—
 (5) Until regulations under this section set out the value of allowances established by the regulations, the allowances have the annual or other value prescribed by the Minister by notice in the Gazette.
 (6)
 
-### 304 Student Allowance Appeal Authority
-(1) There is hereby established the Student Allowance Appeal Authority.
-(2) Subject to subsection (3), the Authority shall comprise 1 person, who shall be appointed by the Minister for a term of 3 years from the date of appointment, but shall be eligible for reappointment.
-(2A) Despite the expiry of the member's term of office, the member may remain in office until he or she is reappointed or a successor is appointed.
-(3) The member may at any time be removed from office by the Minister by notice in the Gazette for inability to adequately perform the duties of office, bankruptcy, neglect of duty, or misconduct, proved to the Minister's satisfaction, and may at any time resign office by written notice to the Minister.
-(4) The Authority is a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
-(5) The member is entitled to receive—
-  (a) remuneration by way of fees, salary, or allowances, for the member's services as the Authority:
-  (b) payment of travelling allowances or expenses in respect of time spent travelling as, or in connection with the member's function as, the Authority.
-(6) The Authority's function is to hear and determine appeals made to it in accordance with this section.
-(7) The Authority is the body formerly known as the Tertiary Assistance Grants Appeal Authority.
+### 304 Student Allowance Appeal Authorities
+(1) The Minister may appoint 1 or more Student Allowance Appeal Authorities and may give the Authorities distinctive designations and from time to time change any designation.
+(2) The function of an Authority is to hear appeals in accordance with section 305.
+(3) An Authority comprises a person appointed by the Minister for a term of up to 5 years from the date of his or her appointment, and any person may be reappointed.
+(4) An Authority continues in office despite the expiry of his or her term of office until—
+  (a) the Authority is reappointed; or
+  (b) the Authority’s successor is appointed; or
+  (c) the Authority is notified that a replacement Authority will not be appointed; or
+  (d) the Authority vacates or is removed from office.
+(5) An Authority who continues in office for any period under subsection (4), unless he or she was removed from office, may act as an Authority during that period for the purpose of—
+  (a) completing any appeal partly or wholly heard by the Authority before the expiry of the person’s term of office:
+  (b) hearing any other appeal.
+(6) An Authority who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any appeal that is partly or wholly heard.
+
+### 304A Other provisions relating to Student Allowance Appeal Authorities
+(1) Any person who is an Authority may, at any time,—
+  (a) be removed from office by the Minister by notice in the Gazette for inability to adequately perform the duties of office, bankruptcy, neglect of duty, or misconduct, proved to the Minister’s satisfaction; and
+  (b) resign his or her office by written notice to the Minister.
+(2) An Authority is a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(3) A person is entitled to receive—
+  (a) remuneration by way of fees, salary, or allowances, for his or her services as an Authority:
+  (b) payment of travelling allowances or expenses in respect of time spent travelling, or in connection with the person’s function, as an Authority.
+(4) An Authority is not personally liable for any act done or omitted to be done by him or her in good faith in the performance or exercise, or intended performance or exercise, of his or her functions, duties, or powers under this Act.
+
+### 304B Appointment of temporary acting Authority
+(1) If an Authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if an Authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Minister may appoint a suitable person as an acting Authority for the period or purpose stated in the appointment.
+(2) No person may be appointed as an acting Authority unless he or she is eligible for appointment as an Authority.
+(3) An acting Authority is, while acting in the position, to be treated as an Authority.
+(4) No appointment of an acting Authority and no act done by an acting Authority may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
+### 304C Orderly and efficient operation
+An Authority is responsible for making any arrangements that are practicable to ensure that he or she performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
 
 ### 305 Appeals
 (1) This subsection applies to every decision under this Act (being a decision that the person or body making it had power to make in some other way)—
@@ -7542,21 +7564,35 @@ In this Part of this Act, unless the context otherwise requires,—
   (a) confirm it; or
   (b) substitute for it any other decision that the person or body that made it might have made.
 (2A) An application for a review under subsection (2) must be brought within 3 months after the person receives notification of the decision, or (if the Secretary considers there is good reason for the delay) within such further period as the Secretary may allow on application made either before or after the expiration of that period of 3 months.
-(3) Where any person is aggrieved by—the person may appeal against the decision; and in that case the Authority shall consider the appeal and, in the light of all the circumstances it considers relevant, shall either—and the confirmation or decision shall have effect as if it were the decision of the Secretary.
+(3) Where any person is aggrieved by—the person may appeal against the decision; and in that case an Authority shall consider the appeal and, in the light of all the circumstances it considers relevant, shall either—and the confirmation or decision shall have effect as if it were the decision of the Secretary.
   (a) the decision by the Secretary under subsection (2)﻿(a) to confirm any decision relating to the person; or
   (b) any decision relating to the person substituted by the Secretary under subsection (2)﻿(b) for any other decision; or
   (c) any decision relating to the person made by the Secretary (other than by an employee of the Ministry under delegation) to which subsection (1) applies—
   (d) confirm the decision; or
   (e) substitute for it any other decision that the Secretary might have made,—
-(4) Every decision of the Authority shall be accompanied by written reasons for it.
-(5) When substituting for any decision of the Secretary any other decision that the Secretary might have made, the Authority may (if it thinks that in all the circumstances to do so would be appropriate) require the Secretary to pay a sum fixed by the Authority, being all or part of the costs incurred by the Authority in hearing the appeal; and in that case the Secretary shall cause that sum to be paid to the chief executive of the Ministry of Justice.
+(3A) An Authority may strike out, in whole or in part, an appeal if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(4) Every decision of an Authority shall be accompanied by written reasons for it.
+(5) When substituting for any decision of the Secretary any other decision that the Secretary might have made, an Authority may (if it thinks that in all the circumstances to do so would be appropriate) require the Secretary to pay a sum fixed by the Authority, being all or part of the costs incurred by the Authority in hearing the appeal; and in that case the Secretary shall cause that sum to be paid to the chief executive of the Ministry of Justice.
+(6) An Authority may order that any part of the evidence given or the name of any witness not be published.
+(7) An order may be made subject to any conditions that the Tribunal considers appropriate.
+(8) A person who breaches an order made under subsection (6) is liable on conviction to a fine not exceeding $3,000.
 
 ### 306 Procedures to be prescribed
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing how—
-  (a) appeals are to be made to the Authority; and
-  (b) the Authority is to deal with appeals and conduct its proceedings.
-(2) Subject to subsection (1), the Authority shall conduct its proceedings as it thinks fit.
-(3) The Ministry of Justice shall provide for the Authority all administrative and secretarial services necessary to enable it to perform its functions.
+  (a) appeals are to be made to an Authority; and
+  (b) an Authority is to deal with appeals and conduct its proceedings.
+(2) An Authority may regulate his or her procedures as he or she thinks fit, subject to—
+  (a) this Act and any regulations made under it; and
+  (b) any practice notes issued under section 306AA.
+(3) The Ministry of Justice shall provide for all the Authorities all administrative and secretarial services necessary to enable them to perform their functions.
+
+### 306AA Practice notes
+(1) All Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of an Authority, officers of an Authority, and parties before an Authority.
 
 ### 306A Disclosure of enrolment information by secondary schools
 The provisions of section 226A apply to any secondary school as if such a school were an institution within the meaning of that section.
