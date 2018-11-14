@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -386,6 +386,11 @@ The functions of the Tribunal are—
     (i) a decision of the Registrar to cancel the licence of an immigration adviser under section 27; or
     (ii) a determination by the Registrar to reject a complaint under section 45(1)﻿(b) or (c) as not disclosing a ground of complaint, or as being trivial or inconsequential.
 
+### 41A Orderly and efficient operation
+The chair of the Tribunal is responsible for making such arrangements as are practicable to ensure that he or she and each member performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+
 ### 42 Services for Tribunal
 The Ministry of Justice must furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
 
@@ -446,7 +451,7 @@ The provisions of the Schedule have effect in relation to the Tribunal and its p
 
 ### 49 Proceedings before Tribunal
 (1) The Tribunal may regulate its procedures as it thinks fit.
-(2) Subsection (1) is subject to this Act and any regulations made under this Act.
+(2) Subsection (1) is subject to this Act, any regulations made under this Act, and any practice notes issued under clause 12 of the Schedule.
 (3) Matters or complaints must be heard on the papers.
 (4) Despite subsection (3), the Tribunal may, if it thinks fit in its absolute discretion,—
   (a) request further information from any person in relation to a complaint or matter:
@@ -457,6 +462,10 @@ After hearing a complaint, the Tribunal may—
   (a) determine to dismiss the complaint:
   (b) uphold the complaint but determine to take no further action:
   (c) uphold the complaint and impose on the licensed immigration adviser or former licensed immigration adviser any 1 or more of the sanctions set out in section 51.
+
+### 50A Suppression orders
+(1) The Tribunal may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be made subject to any conditions that the Tribunal considers appropriate.
 
 ### 51 Disciplinary sanctions
 (1) The sanctions that the Tribunal may impose are—
@@ -655,6 +664,29 @@ No person may, under section 57, enter or be in any dwellinghouse unless he or s
 ### 70 Offence to fail to notify change in circumstances
 (1) A person commits an offence who, without reasonable excuse, fails to notify the Authority of any change of circumstances as required by section 26.
 (2) A person convicted of an offence under subsection (1) is liable to a fine not exceeding $10,000.
+
+### 70A Offence of breaching suppression order
+A person who breaches an order made under section 50A is liable on conviction to a fine not exceeding $3,000.
+
+### 70B Offence to fail to comply with summons
+(1) A person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to it any books, papers, documents, records, or things, without sufficient cause,—
+  (a) fails to attend in accordance with the summons; or
+  (b) refuses to be sworn or to give evidence, or having been sworn refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the subject of the inquiry; or
+  (c) fails to produce any such paper, document, record, or thing.
+(2) A person commits an offence if the person—
+  (a) wilfully obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things; or
+  (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under clause 6(3) of the Schedule.
+(3) A person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
+(4) No person summoned to attend the inquiry may be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed in accordance with clause 7 of the Schedule.
+
+### 70C Contempt of Tribunal
+(1) A person commits an offence if the person—
+  (a) wilfully insults or obstructs the Tribunal or any member of it, a witness, or an officer of the Tribunal during a sitting of the Tribunal or while a member, a witness, or an officer is going to, or returning from, a sitting of the Tribunal; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of the Tribunal; or
+  (c) wilfully interrupts, or otherwise misbehaves, at a sitting of the Tribunal; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of the Tribunal in the course of the hearing of any proceedings.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
+(3) The Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the opinion of the Tribunal, constitutes an offence against subsection (1), whether or not the person is charged with the offence; and any officer of the Tribunal or a constable may take any steps that are reasonably necessary to enforce the exclusion.
 
 ### 71 Reparation
 In addition to any penalty imposed on a person convicted under any of sections 63, 67, and 68, the court may require payment of reparation to a victim in accordance with section 12 and Part 2 of the Sentencing Act 2002.
@@ -867,7 +899,7 @@ The chief executive of the department of State that has, with the authority of t
     (ii) left at the person's usual or last known place of residence or business in New Zealand; or
     (iii) posted in a letter addressed to the person at the person's place of residence or business in New Zealand.
 (2) A notice or document that is sent to a person at a fax number or an email address must be treated as received by that person not later than 2 days after the date on which it is sent.
-(3) A notice or document that is posted to a person must be treated as received by that person not later than 7 days after the date on which it is posted.
+(3) A notice or document that is posted to a person must be treated as received by that person not later than 9 days after the date on which it is posted.
 (4) However, a notice or document must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
 
 ### 94 Regulations
@@ -899,17 +931,27 @@ Part 1 of Schedule 2 of the Privacy Act 1993 is amended by inserting the followi
 Each member of the Tribunal must, before entering on the performance of his or her functions as a member of the Tribunal, swear or affirm before a Judge of the High Court that he or she will faithfully and impartially perform his or her duties as a member of the Tribunal.
 
 ### 2 Term of office
-(1) Every member of the Tribunal is to be appointed for a term not exceeding 3 years.
+(1) Every member of the Tribunal is to be appointed for a term of up to 5 years.
 (2) A member of the Tribunal is eligible for reappointment from time to time.
 (3) Where the term of office of a member of the Tribunal has expired, that member, unless he or she sooner dies or vacates office under clause 3, continues to hold office, by virtue of the appointment for the term that has expired, until—
   (a) that member is reappointed; or
   (b) a successor to that member is appointed; or
   (c) that member is informed in writing by the Minister of Justice, acting in consultation with the Minister, that he or she is not to be reappointed and is not to hold office until a successor is appointed.
+(4) A member who continues in office for any period under subclause (3) may act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(5) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 3 Vacation of office
 (1) A member of the Tribunal may at any time be removed from office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 (2) A member of the Tribunal is deemed to have vacated his or her office if he or she is, under the Insolvency Act 1967, adjudged bankrupt.
 (3) A member of the Tribunal may at any time resign his or her office by giving notice in writing to that effect to the Minister.
+
+### 3A Appointment of temporary acting chair or member
+(1) If the chair or a member of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chair or a member considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister of Justice acting in consultation with the Minister, may appoint a suitable person as the acting chair or an acting member for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting chair or an acting member unless he or she is eligible for appointment to the relevant position.
+(3) The acting chair or acting member is, while acting in the position, to be treated as the chair or a member of the Tribunal.
+(4) No appointment of an acting chair or acting member, no act done by an acting chair or acting member, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
 ### 4 Remuneration
 The chair and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if the chair or any other member were a member of a statutory board within the meaning of that Act.
@@ -918,17 +960,24 @@ The chair and other members of the Tribunal are to be paid, out of public money,
 No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the State Sector Act 1988.
 
 ### 6 Witness summons
-(1) For the purposes of any matter before the Tribunal, the Tribunal may, of its own volition, issue a summons to any person requiring that person to attend before the Authority and give evidence.
+(1) For the purposes of any matter before the Tribunal, the Tribunal may, on its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the Tribunal and give evidence.
 (2) The summons must be in the prescribed form, and may require the person to produce before the Tribunal any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the matter.
-(3) The power to issue a summons under this clause may be exercised by the Tribunal or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal.
+(3) The power to issue a summons under this clause may be exercised by the Tribunal or the chair of the Tribunal or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or the chair of the Tribunal.
 
 ### 7 Witnesses' expenses
 (1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) The Tribunal may disallow the whole or any part of any sum payable under subclause (1).
 
-### 8 Power to take evidence on oath
-(1) The Tribunal may take evidence on oath and, for that purpose, the Tribunal or any other person acting under the express or implied direction of the Tribunal may administer the oath.
-(2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+### 8 Power to take evidence
+(1) The Tribunal may take evidence on oath or affirmation and, for that purpose, the Tribunal or any other person acting under the express or implied direction of the Tribunal may administer the oath or affirmation.
+(2) The Tribunal may require that any documents or information be verified by oath, affirmation, statutory declaration, affidavit, or another means.
+(3) On any charge of perjury, it is sufficient to prove that the oath or affirmation was administered, or the documents or information were verified, in accordance with this clause.
+
+### 8A Use of electronic facilities to hear matters
+The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tribunal or the chair of the Tribunal considers it appropriate and the necessary facilities are available.
+
+### 8B Decisions to be in writing and state reasons
+Every decision of the Tribunal must be in writing and must state the reasons for the decision.
 
 ### 9 Protection and privileges of witnesses
 Every person has the same privileges in relation to—as witnesses have in a court of law.
@@ -938,9 +987,13 @@ Every person has the same privileges in relation to—as witnesses have in a cou
 
 ### 10 Tribunal and members, etc, not personally liable
 Neither the Tribunal, nor any member, officer, or agent of the Tribunal, is under any criminal or civil liability in respect of—unless the Tribunal or person has acted in bad faith.
-  (a) any act done or omitted to be done in the course of performing or exercising any of their functions, duties, or powers under this Act or any rules made under this Act; or
-  (b) any words spoken or written at, for the purposes of, the hearing or any inquiry or other proceedings under this Act or any rules made under this Act; or
-  (c) anything contained in any notice given under this Act or any rules made under this Act,—
+  (a) any act done or omitted to be done in the course of performing or exercising any of their functions, duties, or powers under this Act or any regulations made under this Act; or
+  (b) any words spoken or written at, for the purposes of, the hearing or any inquiry or other proceedings under this Act or any regulations made under this Act; or
+  (c) anything contained in any notice given under this Act or any regulations made under this Act,—
 
 ### 11 Tribunal to have seal
 The Tribunal must have a seal, which must be judicially noticed in all courts and for all purposes.
+
+### 12 Practice notes
+(1) The chair of the Tribunal may issue practice notes as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of members of the Tribunal, officers of the Tribunal, and parties before the Tribunal.
