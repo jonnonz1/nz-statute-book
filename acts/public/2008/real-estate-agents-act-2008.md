@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -217,7 +217,7 @@ The Minister must, in deciding whether to approve any practice rules, have regar
 (6) If any fee is payable to the Authority under this Act, the Registrar may decline to do any act, or to permit any act to be done, or to receive any document in respect of which that fee is payable, until the fee is paid.
 
 ### 24 Payment of fees, levies, and fines
-(1) All fees and levies required to be paid under this Act are payable to the Registrar or the Authority.
+(1) All fees and levies required to be paid under this Act are payable to the Registrar or the Authority, except fees paid under regulations made under section 156(1)﻿(g), which must be paid to the Ministry of Justice.
 (2) All fines imposed on a person by a Complaints Assessment Committee or by the Disciplinary Tribunal are payable to the Registrar.
 
 **Powers of intervention**
@@ -625,7 +625,14 @@ For the purposes of this Act, a licensee is guilty of misconduct if the licensee
 
 ### 74 Complaints about licensees
 (1) Any person may, in accordance with regulations made under this Act, complain in writing to the Authority about the conduct of a licensee.
-(2) When the Authority receives a complaint under this section, the Authority must refer the complaint to a Committee and notify the person complained about of the reference.
+(2) When the Authority receives a complaint under this section, the Authority must—
+  (a) refer the complaint to the Registrar of the register of licensees, who must consider whether to deal with the complaint under subsection (3); and
+  (b) if the Registrar decides not to deal with the complaint under that subsection, refer the complaint to a Committee for determination and notify the person complained about of the reference.
+(3) The Registrar may determine that—
+  (a) the complaint discloses only an inconsequential matter, and for that reason need not be pursued:
+  (b) the complaint is frivolous or vexatious or not made in good faith, and for that reason need not be pursued:
+  (c) the complaint should be referred to another agency, and refer it accordingly:
+  (d) the complaint has been resolved to the complainant’s satisfaction and no further action is needed.
 
 **Complaints Assessment Committees**
 
@@ -668,7 +675,7 @@ The functions of each Committee are—
 (2) The Committee may—
   (a) determine that the complaint alleges neither unsatisfactory conduct nor misconduct and dismiss it accordingly:
   (b) determine that the complaint discloses only an inconsequential matter, and for this reason need not be pursued:
-  (c) determine that the complaint is frivolous or vexatious and not made in good faith, and for this reason need not be pursued:
+  (c) determine that the complaint is frivolous or vexatious or not made in good faith, and for this reason need not be pursued:
   (d) determine that the complaint should be referred to another agency, and refer it accordingly:
   (e) determine to inquire into the complaint.
 
@@ -770,7 +777,7 @@ If, under section 91(a), a Committee lays before the Disciplinary Tribunal a cha
     (i) to rectify, at his or her or its own expense, any error or omission; or
     (ii) where it is not practicable to rectify the error or omission, to take steps to provide, at his or her or its own expense, relief, in whole or in part, from the consequences of the error or omission:
   (g) order the licensee to pay to the Authority a fine not exceeding $10,000 in the case of an individual or $20,000 in the case of a company:
-  (h) order the licensee, or the agent for whom the person complained about works, to make his or her business available for inspection or take advice in relation to management from persons specified in the order:
+  (h) order the licensee, or the agent for whom the person complained about works, to make his or her or its business available for inspection or take advice in relation to management from persons specified in the order:
   (i) order the licensee to pay the complainant any costs or expenses incurred in respect of the inquiry, investigation, or hearing by the Committee.
 (2) An order under this section may be made on and subject to any terms and conditions that the Committee thinks fit.
 
@@ -808,15 +815,15 @@ If money payable by a person under an order by a Committee or by the Disciplinar
 ### 100 Real Estate Agents Disciplinary Tribunal established
 (1) This section establishes a body to be known as the Real Estate Agents Disciplinary Tribunal.
 (2) The Tribunal consists of—
-  (a) a person to act as chair of the Tribunal, who must be a barrister or solicitor with not less than 7 years’ legal experience; and
-  (b) up to 5 other members, at least one of whom must be a licensee.
+  (a) a person to act as chairperson of the Tribunal, who must be a barrister or solicitor with not less than 7 years’ legal experience; and
+  (b) at least 3 other members, at least one of whom must be a licensee.
 (3) The members of the Tribunal are appointed by the Minister.
 (4) The Minister must consult with REINZ when making the first appointment of a licensee under subsection (2)﻿(b).
 (5) The Minister must designate one of the members referred to in subsection (2)﻿(b) as the deputy chairperson of the Tribunal.
 
 ### 101 Constitution of Tribunal for hearings
 For the purposes of each hearing, the Tribunal consists of—
-  (a) the chairperson of the Tribunal or, if the chairperson is absent from duty for any reason, a member designated by the Minister to be the deputy chairperson; and
+  (a) the chairperson of the Tribunal, or, if he or she is absent from duty for any reason, the deputy chairperson of the Tribunal; and
   (b) 2 other members.
 
 ### 102 Functions of Tribunal
@@ -824,7 +831,8 @@ The functions of the Tribunal are—
   (a) to hear and determine any application made by a Complaints Assessment Committee for the suspension of the licence of a licensee pending the determination of a charge that the Committee has laid against the licensee:
   (b) to hear and determine any charge against a licensee brought by the Committee:
   (c) to hear any appeal under section 111 against a determination by the Committee (including a determination to take no action):
-  (d) to conduct any review, under section 112, of a decision of the Registrar.
+  (d) to conduct any review, under section 112, of a decision of the Registrar:
+  (e) any other functions conferred by this Act.
 
 ### 103 Services for Tribunal
 The Ministry of Justice must furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
@@ -834,19 +842,24 @@ The provisions of Schedule 1 have effect in relation to the Tribunal and its pro
 
 ### 105 Proceeding before Tribunal
 (1) The Tribunal may regulate its procedures as it thinks fit.
-(2) Subsection (1) is subject to the rules of natural justice and to this Act and any regulations made under this Act.
+(2) Subsection (1) is subject to the rules of natural justice, this Act, any regulations made under this Act, and any practice notes issued under section 115A.
 
 ### 106 Representation before Disciplinary Tribunal
 (1) Every person whose rights may be affected by a proceeding of the Disciplinary Tribunal (other than a review under section 112) is entitled to appear and be heard at the hearing of that proceeding and to be represented by counsel or otherwise.
 (2) A charge made by the Committee against a licensee is, at the hearing, to be prosecuted by the Committee, which, for that purpose, may be represented by counsel or otherwise.
 
-### 107 Hearings to be in public
+### 107 Hearings
 (1) Every hearing of the Disciplinary Tribunal must be held in public.
 (2) Subsection (1)—
   (a) does not apply to reviews under section 112; and
   (b) is subject to subsections (3) and (4) and to section 108.
 (3) If the Disciplinary Tribunal is of the opinion that it is proper to do so, having regard to the interest of any person (including (without limitation) the privacy of the complainant (if any)) and to the public interest, it may hold a hearing or part of a hearing in private.
 (4) The Disciplinary Tribunal may, in any case, deliberate in private on its decision or on any question arising in the course of a hearing.
+(5) The hearing of a matter, or any part of it, may be conducted by telephone, audiovisual link, or other remote access facility if the chairperson or the Tribunal considers it appropriate and the necessary facilities are available.
+
+### 107A Hearing on papers
+(1) Despite anything in this Act to the contrary, the Disciplinary Tribunal may determine a proceeding on the papers if the Tribunal considers it appropriate.
+(2) Before doing so, the Tribunal must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
 
 ### 108 Restrictions on publication
 (1) If the Disciplinary Tribunal is of the opinion that it is proper to do so, having regard to the interest of any person (including (without limitation) the privacy of the complainant (if any)) and to the public interest, it may make 1 or more of the following orders:
@@ -855,13 +868,25 @@ The provisions of Schedule 1 have effect in relation to the Tribunal and its pro
   (c) an order prohibiting the publication of the name or any particulars of the affairs of the person charged or any other person.
 (2) Unless it is reversed or modified in respect of its currency by the High Court on appeal under section 116, an order made under subsection (1) continues in force as specified in the order, or, if no time is specified, until the Disciplinary Tribunal, in its discretion, revokes it on the application of any party to the proceedings in which the order was made or of any other person.
 (3) Subsection (1)﻿(c) does not apply to any communications between the Disciplinary Tribunal and the Authority.
+(4) A person who breaches an order made under this section is liable on conviction to a fine not exceeding $3,000.
 
 ### 109 Evidence
-(1) Subject to section 105, the Disciplinary Tribunal may receive as evidence any statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matters before it, whether or not that statement, document, information, or matter would be admissible in a court of law.
+(1) Subject to section 105, the Disciplinary Tribunal may receive as evidence any statement, document, information, or thing that may, in its opinion, assist it to deal effectively with the matters before it, whether or not that statement, document, information, or thing would be admissible in a court of law.
 (2) The Disciplinary Tribunal may take evidence on oath and, for that purpose, any member of the Disciplinary Tribunal may administer an oath.
 (3) The Disciplinary Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath.
 (4) Subject to subsections (1) to (3), the Evidence Act 2006 applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a court within the meaning of that Act.
 (5) A hearing before the Disciplinary Tribunal is a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
+
+### 109A Disciplinary Tribunal may strike out, determine, or adjourn proceeding
+(1) The Disciplinary Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, the Disciplinary Tribunal may,—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 110 Determination of charges and orders that may be made if charge proved
 (1) If the Disciplinary Tribunal, after hearing any charge against a licensee, is satisfied that it has been proved on the balance of probabilities that the licensee has been guilty of misconduct, it may, if it thinks fit, make 1 or more of the orders specified in subsection (2).
@@ -876,10 +901,21 @@ The provisions of Schedule 1 have effect in relation to the Tribunal and its pro
 (3) The making of an order under this section for the payment of compensation to any person does not affect the right (if any) of that person to recover damages in respect of the same loss, but any sum ordered to be paid under this section, and the effect of any order made under this section for the reduction, cancellation, or refund of fees, must be taken into account in assessing any such damages.
 (4) If the Disciplinary Tribunal, after hearing any charge against a licensee, is satisfied that the licensee, although not guilty of misconduct, has engaged in unsatisfactory conduct, the Tribunal may make any of the orders that a Complaints Assessment Committee may make under section 93.
 
+### 110A Costs
+(1) In any proceedings under this Act, the Disciplinary Tribunal may make any award as to costs that it thinks fit, whether or not it grants any other remedy.
+(2) Without limiting the matters that the Disciplinary Tribunal may consider in determining whether to make an award of costs under this section, the Disciplinary Tribunal may take into account whether, and to what extent, any party to the proceedings—
+  (a) has participated in good faith in the proceedings:
+  (b) has facilitated or obstructed the process of information gathering by the Disciplinary Tribunal:
+  (c) has acted in a manner that facilitated the resolution of the issues that were the subject of the proceedings.
+(3) If a party fails to prosecute any proceedings at the time fixed for a hearing or to give adequate notice of the abandonment of any proceedings, the Disciplinary Tribunal, if it considers it proper to do so, may order the party in default to pay costs to the Crown in a sum that it considers reasonable.
+(4) A person to whom costs are awarded under this section, but who has not been paid in full, may file a copy of the order in the District Court, where it may be enforced for so much of the amount that is still owing as if it were a judgment of the District Court.
+
 ### 111 Appeal to Tribunal against determination by Committee
-(1) A person affected by a determination of a Committee may appeal to the Tribunal against a determination of the Committee within 20 working days after the date of the notice given under section 81 or 94.
+(1) A person affected by a determination of a Committee may appeal to the Disciplinary Tribunal against the determination within 20 working days after the day on which notice of the relevant decision was given under section 81 or 94, except that no appeal may be made against a determination under section 89(2)﻿(a) that a complaint or an allegation be considered by the Disciplinary Tribunal.
+(1A) The Disciplinary Tribunal may accept a late appeal no later than 60 working days after the day on which notice was given to the appellant if it is satisfied that exceptional circumstances prevented the appeal from being made in time.
 (2) The appeal is by way of written notice to the Tribunal of the appellant's intention to appeal, accompanied by—
   (a) a copy of the notice given to the person under section 81 or 94; and
+  (ab) the prescribed fee, if any; and
   (b) any other information that the appellant wishes the Tribunal to consider in relation to the appeal.
 (3) The appeal is by way of rehearing.
 (4) After considering the appeal, the Tribunal may confirm, reverse, or modify the determination of the Committee.
@@ -889,6 +925,7 @@ The provisions of Schedule 1 have effect in relation to the Tribunal and its pro
 (1) An applicant may apply to the Tribunal against a determination of the Registrar that adversely affects the applicant within 20 working days after the date the applicant is notified of the determination.
 (2) The application must be made by way of written notice to the Tribunal of the applicant’s intention to apply, accompanied by—
   (a) a copy of the notification; and
+  (ab) the prescribed fee, if any; and
   (b) any other information that the applicant wishes the Tribunal to consider in relation to the appeal.
 (3) The review must be conducted on the papers unless the applicant requests to be heard in his or her application.
 (4) After conducting the review, the Tribunal may confirm, reverse, or modify the decision of the Registrar.
@@ -916,10 +953,18 @@ Any order made by the Tribunal under section 110 may be enforced in all respects
   (a) include in the notice the grounds for the decision, the date on which the suspension takes effect, and the period or duration of the suspension; and
   (b) specify in the notice the right of the licensee to appeal to the High Court under section 116.
 
+### 115A Practice notes
+(1) The chairperson of the Disciplinary Tribunal may issue practice notes as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of the members of the Disciplinary Tribunal, officers of the Disciplinary Tribunal, and parties before the Tribunal.
+
 **Appeals against decisions of Tribunal**
 
 ### 116 Right of appeal
 A person who is affected by a decision of the Tribunal may appeal to the High Court against the decision.
+
+### 116A Time for appeal to High Court
+(1) An appeal to the High Court must, subject to subsection (2), be made in the prescribed manner to the court within 20 working days after the day on which notice of the relevant decision is given to the appellant.
+(2) The court may accept a late appeal no later than 60 working days after the day on which notice was given to the appellant if the court is satisfied that exceptional circumstances prevented the appeal from being made in time.
 
 ### 117 High Court may make interim order
 (1) At any time before the final determination of an appeal, the High Court may make an interim order allowing an appellant who is a licensee to carry out real estate agency work until the close of the day on which the High Court finally determines the appeal.
@@ -939,6 +984,11 @@ A person who is affected by a decision of the Tribunal may appeal to the High Co
 (1) If dissatisfied with a decision of the High Court on the ground that it is erroneous in law, a party to an appeal under this Part may appeal to the Court of Appeal on a question of law only.
 (2) The appeal must be heard and determined in accordance with the rules of court.
 (3) The decision of the Court of Appeal on any appeal under this section is final.
+
+### 120A Time for appeal to Court of Appeal
+(1) An appeal to the Court of Appeal must, subject to subsection (2), be made in the prescribed manner to the court within 20 working days after the day on which notice of the relevant decision is given to the appellant.
+(2) The court may accept a late appeal no later than 60 working days after the day on which notice was given to the appellant if the court is satisfied that exceptional circumstances prevented the appeal from being made in time.
+(3) In deciding whether to accept a late appeal, the court must have regard to whether the appellant made a late appeal against the original decision, and the appellant’s reasons for that late appeal.
 
 ## Part 5 — Duties relating to real estate agency work
 
@@ -1186,6 +1236,28 @@ A person commits an offence who, without reasonable excuse,—
   (a) resists, obstructs, deceives, or attempts to deceive any person who is exercising or attempting to exercise any power or perform any function under this Act; or
   (b) gives to any person who is exercising or attempting to exercise any power or perform any function under this Act any particulars knowing those particulars are false or misleading in any material respect.
 
+**Offences relating to witness summonses and contempt of Tribunal**
+
+### 153A Offence to fail to comply with summons
+(1) A person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to it any document, information, or thing, without sufficient cause—
+  (a) fails to attend in accordance with the summons; or
+  (b) refuses to be sworn or to give evidence, or having been sworn refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer; or
+  (c) fails to produce any such document, information, or thing.
+(2) A person commits an offence who—
+  (a) wilfully obstructs or hinders the Tribunal or any member of it in any inspection or examination of any document, information, or thing; or
+  (b) without sufficient cause, fails to comply with any requirement of the Tribunal.
+(3) A person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
+(4) No person summoned to attend the hearing may be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed in accordance with clause 7 of Schedule 1.
+
+### 153B Contempt of Tribunal
+(1) A person commits an offence who—
+  (a) wilfully insults or obstructs the Tribunal or any member of it, a witness, or an officer of the Tribunal during a sitting of the Tribunal or while a member, a witness, or an officer is going to, or returning from, a sitting of the Tribunal; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of the Tribunal; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of the Tribunal; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of the Tribunal in the course of the hearing of any proceedings.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
+(3) The Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the opinion of the Tribunal, constitutes an offence against subsection (1), whether or not the person is charged with the offence; and any officer of the Tribunal or constable may take any steps that are reasonably necessary to enforce the exclusion.
+
 ### Subpart 2 — Service
 
 ### 154 Service of notice and documents
@@ -1193,6 +1265,7 @@ A person commits an offence who, without reasonable excuse,—
   (a) it is delivered to that person; or
   (b) it is left at that person’s usual or last known place of abode or business or at an address specified for that purpose in any document received from that person; or
   (c) it is posted in a letter addressed to that person by name at that place of abode or business or address; or
+  (ca) it is transmitted to an electronic address or a fax number provided by the person; or
   (d) it is sent in the prescribed manner (if any).
 (2) Any notice or other document required or authorised by this Act to be given to or served on the Authority is sufficiently given or served if—
   (a) it is delivered to the Registrar; or
@@ -1200,7 +1273,11 @@ A person commits an offence who, without reasonable excuse,—
   (c) it is posted in a letter addressed to the Authority at the office of the Authority; or
   (d) it is sent in the prescribed manner (if any).
 (3) Any notice or other document required or authorised by this Act to be given or served on a business partnership is taken to be given or served on the partnership if, in accordance with subsection (1), it is given or served on any one of the partners.
-(4) If any notice or other document is sent by post, it is, unless the contrary is shown, treated to have been given or served on the addressee at the time when the letter would have been delivered in the ordinary course of the post, and, in proving service of the notice, it is sufficient to prove that the letter was properly addressed and posted.
+(4) If any notice or other document is sent by post, it is, unless the contrary is shown, treated to have been served 5 working days after it was posted, and, in proving service of the notice, it is sufficient to prove that the letter was properly addressed and posted.
+(4A) If a notice or any other communication is served in electronic form under subsection (1)﻿(ca), then, unless the contrary is shown,—
+  (a) the notice or any other communication is served at the time the electronic communication containing the notice or communication first enters an information system outside the control of its originator; and
+  (b) in proving service, it is sufficient to prove that the electronic communication was properly addressed and sent.
+(4B) In this section, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
 (5) This section does not apply to notices or other documents served or given in any proceedings in any court.
 
 ### Subpart 3 — Civil remedies
@@ -1219,7 +1296,7 @@ A person commits an offence who, without reasonable excuse,—
   (d) prescribing search criteria for the register:
   (e) prescribing changes of circumstance that must be notified to the Registrar:
   (f) prescribing the manner and form in which complaints may be made to the Authority about licensees or former licensees:
-  (g) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Disciplinary Tribunal:
+  (g) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Disciplinary Tribunal, or prescribing any fees in relation to the functions of the Disciplinary Tribunal:
   (h) prescribing for the appointment of auditors, auditing requirements, and conferring such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of carrying out an audit:
   (i) prescribing the form in which a client’s consent must be given for the purposes of section 134:
   (j)
@@ -1339,28 +1416,38 @@ The enactments listed in Schedule 2 are amended in the manner set out in that sc
 Each member of the Tribunal must, before entering on the performance of his or her functions as a member of the Tribunal, swear or affirm before a Judge of the High Court that he or she will faithfully and impartially perform his or her duties as a member of the Tribunal.
 
 ### 2 Term of office
-(1) Every member of the Tribunal is to be appointed for a term not exceeding 3 years.
+(1) Every member of the Tribunal is to be appointed for a term of up to 5 years.
 (2) A member of the Tribunal is eligible for reappointment from time to time.
 (3) Where the term of office of a member of the Tribunal has expired, that member, unless he or she sooner dies or vacates office under clause 3, continues to hold office, by virtue of the appointment for the term that has expired, until—
   (a) that member is reappointed; or
   (b) a successor to that member is appointed; or
   (c) that member is informed in writing by the Minister that he or she is not to be reappointed and is not to hold office until a successor is appointed.
+(4) A member of the Tribunal who continues in office for any period under subclause (3) may act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(5) A member of the Tribunal who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 3 Vacation of office
 (1) A member of the Tribunal may at any time be removed from office by the Governor-General for incapacity affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 (2) A member of the Tribunal is deemed to have vacated his or her office if he or she is adjudged bankrupt under the Insolvency Act 2006.
 (3) A member of the Tribunal may at any time resign his or her office by giving notice in writing to the Minister.
 
+### 3A Appointment of temporary acting chairperson, deputy chairperson, or member
+(1) If the chairperson, the deputy chairperson, or a member of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chairperson, the deputy chairperson, or a member considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Minister may appoint a suitable person as the acting chairperson, the acting deputy chairperson, or an acting member for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting chairperson, the acting deputy chairperson, or an acting member unless he or she is eligible for appointment to the relevant position.
+(3) The acting chairperson, the acting deputy chairperson, or an acting member is, while acting in that position, to be treated as the chairperson, the deputy chairperson, or a member of the Tribunal.
+(4) No appointment of an acting chairperson, acting deputy chairperson, or acting member, no act done by an acting chairperson, acting deputy chairperson, or acting member, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
 ### 4 Remuneration
-The chair and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if the chair or any other member were a member of a statutory board within the meaning of that Act.
+The chairperson and other members of the Tribunal are to be paid, out of public money, remuneration by way of fees, salary, or allowances and travelling allowances in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if the chairperson or any other member were a member of a statutory board within the meaning of that Act.
 
 ### 5 Members of Tribunal
 No person holding office as a member of the Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the State Sector Act 1988.
 
 ### 6 Witness summons
-(1) For the purposes of any matter before the Tribunal, the Tribunal may, of its own initiative, issue a summons to any person requiring that person to attend before the Tribunal and give evidence.
-(2) The summons must be in the prescribed form, and may require the person to produce before the Tribunal any books, papers, documents, records, or things in that person’s possession or under that person’s control in any way relating to the matter.
-(3) The power to issue a summons under this clause may be exercised by the Tribunal or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal.
+(1) For the purposes of any matter before the Tribunal, the Tribunal may, of its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the Tribunal and give evidence.
+(2) The summons must be in the prescribed form, and may require the person to produce before the Tribunal any document, information, or thing in that person’s possession or under that person’s control in any way relating to the matter.
+(3) The power to issue a witness summons may be exercised by the Tribunal, the chairperson, or the deputy chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal, the chairperson, or the deputy chairperson.
 
 ### 7 Witnesses’ expenses
 (1) Every person attending the Tribunal on a summons, and every other person giving evidence before the Tribunal, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses’ fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
@@ -1374,7 +1461,7 @@ No person holding office as a member of the Tribunal is deemed by reason of his 
 Every person has the same privileges and immunities as witnesses have in a court of law in relation to—
   (a) the giving of information to the Tribunal; and
   (b) the giving of evidence to, or the answering of questions put by, the Tribunal; and
-  (c) the production of papers, documents, records, or things to the Tribunal.
+  (c) the production of any document, information, or thing to the Tribunal.
 
 ### 10 Privileges and immunities of counsel
 Every counsel appearing before the Tribunal has the same privileges and immunities as counsel in a court of law.
