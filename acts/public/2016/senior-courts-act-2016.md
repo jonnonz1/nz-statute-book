@@ -1,5 +1,5 @@
 # Senior Courts Act 2016
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Senior Courts Act 2016.
@@ -403,7 +403,7 @@ A witness is not required to attend the hearing of a civil proceeding in the Hig
   (a) any contested application for leave to appeal:
   (b) any contested application for an extension of time to appeal:
   (c) any other contested application or matter (other than an appeal) that effectively determines or disposes of the substantive proceeding.
-(3) A single Judge of the Court of Appeal may act as the court to determine any uncontested application of the kind referred to in subsection (2) or other uncontested matter in the court (other than an appeal).
+(3) Any other application to or matter in the Court of Appeal (other than an appeal) may be heard and determined by a single Judge of the Court of Appeal.
 (4) If a single Judge acting under subsection (3) determines not to grant an application or not to resolve a matter in favour of a party, the party may apply to have the Judge’s determination reviewed by 2 or more Judges of the Court of Appeal.
 (5) The Judges who determine an application under subsection (4) may confirm, modify, or reverse the single Judge’s determination.
 (6) A single Judge of the Court of Appeal may—
