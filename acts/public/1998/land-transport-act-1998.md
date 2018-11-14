@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2018-11-07_
+_Consolidation as at 2018-11-14_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -1337,14 +1337,16 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 
 **Offences relating to driver licensing**
 
-### 31 Contravention of sections 5(1)﻿(a), 5(1)﻿(b), 5(4), 30(2), 30(3), or 30(4A)
+### 31 Contravention of section 5(1)﻿(a) or (b) or (4) or 30(2), (3), (3A), (4A), or (4B)
 (1) A person commits an offence if the person—
   (a) drives a motor vehicle on a road—
     (i) with an expired driver licence; or
     (ii) without an appropriate driver licence; or
   (b) drives a motor vehicle contrary to the conditions of his or her driver licence; or
   (c) is the driver of a motor vehicle and fails to produce his or her driver licence for inspection without delay after being required to do so by an enforcement officer; or
-  (d) fails to return his or her driver licence to the Agency, a person appointed by the Agency, or a constable when required to do so by subsection (2) or subsection (3) or subsection (4A) of section 30.
+  (d) fails to surrender or return his or her driver licence to—
+    (i) the Agency, a person appointed by the Agency, a court, a constable, or an enforcement officer when required to do so by section 30(2), (3), (3A), or (4A):
+    (ii) an employee or agent of the Ministry of Justice, or an enforcement officer, when required to do so by section 30(4B)﻿(b).
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $1,000.
 
 ### 32 Contravention of section 5(1)﻿(c)
@@ -2632,15 +2634,19 @@ In this section and in sections 91C to 91H, unless the context otherwise require
     (b) any offence against any regulation, rule, or bylaw made under any other Act if the offence relates to the use of motor vehicles or parking places or transport stations
   - **warning notice** means a notice served under section 91D.
 
-### 91B Ways in which warning notice or driver licence stop order must be served
-(1) A warning notice or a driver licence stop order must be served on a defendant in 1 of the following ways:
+### 91B Ways in which warning notice or driver licence stop order or details of related fines must be served
+(1) A warning notice or a driver licence stop order, or notice of details of the fines to which that order relates, must be served on a defendant in 1 of the following ways:
   (a) by an employee or agent of the Ministry of Justice or an enforcement officer delivering it to the defendant personally or bringing it to the defendant's notice if the defendant refuses to accept it:
   (b) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at his or her place of residence, with another person who appears to be of or over the age of 14 years:
   (c) by an employee or agent of the Ministry of Justice or an enforcement officer leaving it for the defendant, at the defendant’s place of business or place of work, with another person:
   (d) by the chief executive of the Ministry of Justice sending it to the defendant by prepaid post addressed to the defendant at the defendant's last known place of residence or business or place of work:
   (e) if the defendant has a known electronic address, by the chief executive of the Ministry of Justice sending it to the defendant at that address in electronic form.
-(2) An endorsement on a copy of a warning notice or a driver licence stop order, or, where applicable, on a printout that records an electronic document, stating the fact, mode, date and time of service and purporting to be signed by an employee or agent of the Ministry of Justice or by an enforcement officer is, in the absence of evidence to the contrary, sufficient proof of service of the notice or order.
-(3) If a warning notice or driver licence stop order is served in the way described in subsection (1)﻿(d), then, unless the contrary is shown, the notice or order is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
+(2) An endorsement on a copy of a warning notice or a driver licence stop order, or notice of details of the fines to which that order relates, or, where applicable, on a printout that records an electronic document, stating the fact, mode, date and time of service and purporting to be signed by an employee or agent of the Ministry of Justice or by an enforcement officer is, in the absence of evidence to the contrary, sufficient proof of service of the notice or order.
+(3) If a warning notice or driver licence stop order, or notice of details of the fines to which that order relates, is served in the way described in subsection (1)﻿(d), then, unless the contrary is shown, the notice or order is served when it would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the letter concerned was properly addressed and posted.
+(4) If a warning notice or driver licence stop order, or notice of details of the fines to which that order relates, is served in electronic form under subsection (1)﻿(e), then, unless the contrary is shown,—
+  (a) the notice or order, or notice of details, is served at the time the electronic communication containing the notice or order, or notice of details, first enters an information system outside the control of its originator; and
+  (b) in proving service, it is sufficient to prove that the electronic communication was properly addressed and sent.
+(5) In this section, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
 
 ### 91C Liability to driver licence stop order
 A defendant who is obliged to pay a traffic fine is liable to the imposition of a driver licence stop order if—
@@ -2658,12 +2664,13 @@ A defendant who is obliged to pay a traffic fine is liable to the imposition of 
 ### 91E Imposition of driver licence stop order
 (1) If, following the expiry of the period of 14 days after service of the notice sent to a defendant under section 91D, the defendant continues to be liable to a driver licence stop order because of the traffic fine described in that notice, the chief executive of the Ministry of Justice may impose a driver licence stop order on the defendant and issue it for service.
 (2) The chief executive of the Ministry of Justice may, on 1 or more occasions, reissue a driver licence stop order that has previously been issued or reissued for service but that is not yet in effect.
-(3) An order imposed under subsection (1) must be in a form approved by the chief executive of the Ministry of Justice and must state—
+(2A) An enforcement officer may also impose an order and issue it for service in the circumstances described in subsection (1) (whether or not the person has received the order from the chief executive of the Ministry of Justice).
+(3) An order imposed under subsection (1) or (2A) must be in a form approved by the chief executive of the Ministry of Justice and must state—
   (a) the name of the defendant; and
-  (b) the traffic fine in respect of which the order is imposed and the amount owing on that fine; and
+  (b) that the notice of details of the traffic fine in respect of which the order is imposed and the amount owing on that fine will be served on the defendant either at the same time as the order is served or as soon as practicable after the order is served; and
   (c) that the order will stay in effect until the defendant's obligation to pay the traffic fine is discharged by payment in full or remission in full, or until it is resolved; and
   (d) that, immediately after the order takes effect, any driver licence held by the defendant, including any limited licence issued under section 105, is suspended until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
-  (e) that if the order is served personally by an employee or agent of the Ministry of Justice or by an enforcement officer, the defendant must surrender any driver licence held by the defendant to that employee or agent or to that enforcement officer; and
+  (e) that if the order is served personally by an employee or agent of the Ministry of Justice or by an enforcement officer (including at the roadside), the defendant must surrender any driver licence held by the defendant to that employee, agent, or enforcement officer; and
   (f) that if the order is served, but is not served personally, the defendant must post or deliver any driver licence held by the defendant to an employee or agent of the Ministry of Justice at an office of that Ministry or at the District Court; and
   (g) if the defendant does not hold a current driver licence when the order takes effect, that—
     (i) the defendant is disqualified from holding or obtaining a driver licence (including any limited licence) until the driver licence stop order is cancelled in accordance with section 91G or terminated in accordance with section 91H; and
