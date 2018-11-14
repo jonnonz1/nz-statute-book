@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -30,6 +30,9 @@ Except where there is express provision to the contrary,—For example, a refere
   (a) a reference in this Act to a particular Part or section is to be construed as a reference to a Part or section of this Act; and
   (b) a reference in this Act to some other particular element is to be construed as a reference to that element in its immediate context.
 
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in the Schedule have effect according to their terms.
+
 ## Part 2 — Taxation Review Authorities
 
 ### 5 Establishment of Taxation Review Authorities
@@ -39,14 +42,27 @@ Except where there is express provision to the contrary,—For example, a refere
 (4) Every Authority shall be appointed by the Governor-General on the recommendation of the Minister of Justice.
 (5) No person shall be deemed to be employed in the service of Her Majesty for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of the person being an Authority.
 
+### 5A Appointment of temporary acting Authority
+(1) If an Authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if an Authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister of Justice, may appoint a suitable person as an acting Authority for the period or purpose stated in the appointment.
+(2) No person may be appointed as an acting Authority unless he or she is eligible for appointment as an Authority.
+(3) An acting Authority is, while acting in that position, to be treated as an Authority.
+(4) No appointment of an acting Authority and no act done by an acting Authority may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
 ### 6 Term of office of an Authority
-(1) Except as otherwise provided in this Act, every person appointed as an Authority shall be appointed for such term, not exceeding 7 years, as the Governor-General thinks fit, and may from time to time be reappointed.
-(2) Notwithstanding that the term of office of a person appointed as an Authority has expired, that person shall, unless sooner vacating office under subsection (3), continue to hold office until the person’s successor comes into office.
+(1) Except as otherwise provided in this Act, every person appointed as an Authority must be appointed for a term of up to 5 years, as the Governor-General thinks fit, and may from time to time be reappointed.
+(2)
 (3) Any person appointed as an Authority may at any time be suspended or removed from office by the Governor-General for engaging in any occupation for reward outside the duties of that office, or for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Governor-General, or may at any time resign that office by writing addressed to the Minister of Justice:
   provided that, where the terms of appointment of any person appointed as an Authority permit the person to engage in any occupation for reward outside the duties of the person’s office, the person shall not be liable to be suspended or removed from office under this subsection by reason of the person so engaging in any occupation for reward so permitted.
-(4) Notwithstanding that the term of office of a person appointed as an Authority has expired or that the person has resigned that office, the person shall be deemed to continue to be an Authority for the purpose of—
-  (a) deciding any objection or challenge that was wholly heard before the expiration of the person’s term of office or before the person’s resignation took effect:
-  (b) stating any case on appeal to the High Court from a decision given while the person was an Authority or while the person was deemed to continue to be an Authority under paragraph (a) where the objection giving rise to the Authority’s decision was lodged before 1 October 1996 in accordance with the requirements of the relevant tax laws prevailing at the time the objection was lodged.
+(4) An Authority continues in office despite the expiry of his or her term of office until—
+  (a) the Authority is reappointed; or
+  (b) the Authority’s successor is appointed; or
+  (c) the Authority is notified that a replacement Authority will not be appointed; or
+  (d) the Authority vacates or is removed from office.
+(5) An Authority who continues in office for any period under subsection (4), unless he or she was removed from office, may act as an Authority during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Authority before the expiry of his or her term of office:
+  (b) hearing any other proceedings:
+  (c) stating a case for the High Court from a decision given by the Authority.
+(6) An Authority who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 7 Oath to be taken by an Authority
 Before entering upon the exercise of the duties of his or her office, every person appointed as an Authority shall take and subscribe an oath before a Judge of the High Court that the person will faithfully and impartially perform the duties of that office.
@@ -79,6 +95,12 @@ Every Authority established under section 5 has a general jurisdiction—
     (i) that this Act and the Tax Administration Act 1994 authorise the Authority to hear and determine; and
     (ii)
 
+### 13AB Orderly and efficient operation
+(1) An Authority is responsible for making any arrangements that are practicable to ensure that he or she performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+(2) The Ministry of Justice must provide the resources and administrative support necessary to enable the Authorities to perform their functions.
+
 ### 13B Small claims jurisdiction of Authorities
 [Repealed]
 
@@ -92,7 +114,7 @@ Every Authority shall have a seal which shall be judicially noticed in all court
 ## Part 3 — Proceedings before Authorities
 
 ### 16 Hearing of proceedings
-(1) The procedure for the institution, hearing, and determination of any proceedings before an Authority shall, subject to the provisions of the Act authorising the hearing and determination of the objection or challenge by an Authority, be in accordance with the provisions of this Act and with any regulations relating to those proceedings, and, subject to those provisions, an Authority may determine the Authority’s own procedure.
+(1) The procedure for the institution, hearing, and determination of any proceedings before an Authority shall, subject to the provisions of the Act authorising the hearing and determination of the objection or challenge by an Authority, be in accordance with the provisions of this Act and with any regulations relating to those proceedings, and, subject to those provisions and any practice notes issued under section 25B, an Authority may determine the Authority’s own procedure.
 (2) For the purpose of hearing and determining any objection or challenge, an Authority shall have all the powers, duties, functions, and discretions of the Commissioner in making the determination.
 (3) In respect of any proceedings before an Authority—
   (a) the objector or disputant and the Commissioner shall each be entitled to appear personally or be represented by a barrister or solicitor of the High Court or by any other person:
@@ -131,13 +153,31 @@ On the hearing and determination of any objection, the objector shall be limited
   (c) where it is the objector or challenger who fails to appear or be represented, dismiss the objection or challenge.
 (2) Where under this section an Authority determines or dismisses an objection or challenge in the absence of any party, the Authority on the application of that party may, if the Authority thinks fit, grant a rehearing of the objection or challenge or, as the case may be, again set down the dismissed objection or challenge for a hearing. When such a rehearing is granted or new hearing set down, the determination of the Authority made on the initial hearing, or its dismissal of the objection or challenge, shall immediately cease to have effect.
 
+### 20A Hearing on papers
+(1) Despite anything in this Act to the contrary, an Authority may determine a proceeding on the papers if he or she considers it appropriate.
+(2) Before doing so, the Authority must give the parties an opportunity to comment on whether the proceeding should be dealt with in that manner.
+
+### 20B Use of electronic facilities to hear matters
+The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if an Authority considers it appropriate and the necessary facilities are available.
+
 ### 21 Authority may dismiss frivolous or vexatious proceedings
 An Authority may at any time dismiss any objection or challenge, if the Authority is satisfied that the objection or challenge is frivolous or vexatious or is made solely for the purpose of delay.
+
+### 21A Authority may strike out, determine, or adjourn proceeding
+(1) An Authority may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, an Authority may,—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 22 Power to order costs in certain cases
 (1) Where—the Authority may order the Commissioner or the objector or a disputant, as the case may require, to pay to the Crown such sum in respect of the costs of the Authority as the Authority considers reasonable.
   (a) the Commissioner or an objector or a disputant fails to appear at the time fixed for any hearing of an objection or challenge before an Authority, or fails to give adequate notice of the abandonment or settlement of the objection or challenge; or
-  (b) an Authority dismisses an objection or challenge under section 21 as being frivolous or vexatious or made solely for the purpose of delay,—
+  (b) an Authority strikes out a proceeding under sections 21 and 21A,—
 (2) An order by an Authority under this section shall be subject to appeal under section 26 as if—and the provisions of sections 25 to 29 shall apply accordingly with any necessary modifications.
   (a) the order were a determination of the Authority on an objection or challenge, or a part of any determination of the Authority on the objection or challenge in respect of which the costs were ordered; and
   (b) the amount of costs ordered were an amount of tax or duty,—
@@ -158,8 +198,21 @@ Proceedings before an Authority shall not abate by reason of the death of the ob
 (5) The High Court or the Court of Appeal, as the case may be, shall hear and determine the question, and shall remit the case with its opinion to the Authority.
 
 ### 25 Decision of an Authority
-(1) On the determination of an objection or challenge, an Authority acting in its general jurisdiction shall give its decision in writing.
+(1) On the determination of an objection or challenge, an Authority acting in its general jurisdiction must give its decision in writing and state the reasons for the decision.
 (2) On the request of the objector, the disputant, or the Commissioner made at the hearing or at the time the decision is given, an Authority acting in its general jurisdiction shall state in writing its findings of fact and any reasons in law for the decision.
+
+### 25A Contempt of Authority
+(1) A person commits an offence if the person—
+  (a) wilfully insults or obstructs an Authority or any witness or officer of an Authority during a sitting of an Authority or while an Authority, a witness, or an officer is going to, or returning from, a sitting of an Authority; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of an Authority; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of an Authority; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of an Authority in the course of the hearing of any proceedings.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
+(3) An Authority may order the exclusion from a sitting of that Authority of any person whose behaviour, in the opinion of the Authority, constitutes an offence against subsection (1), whether or not the person is charged with the offence, and any officer of the Authority or constable may take any steps that are reasonably necessary to enforce the exclusion.
+
+### 25B Practice notes
+(1) All Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of an Authority, officers of an Authority, and parties before an Authority.
 
 ## Part 4 — Appeals
 
@@ -212,3 +265,11 @@ The decision of the High Court on any case on appeal under section 26 or section
 (2) Any person holding office immediately before the commencement of this Act as an Authority established under section 23 of the Inland Revenue Department Act 1974 shall continue in office as if, at the time of that person’s appointment, that person had been appointed as an Authority established under this Act.
 (3) Any person appointed as a Registrar, Deputy Registrar, clerk, or other officer of an Authority under section 29 of the Inland Revenue Department Act 1974 shall continue as such as if, at the time of that person’s appointment, that person had been appointed to the relevant position under section 5 of this Act.
 (4) Every reference to a Board of Review in any Act, regulation, or other enactment shall, unless the context otherwise requires, be read as a reference to a Taxation Review Authority.
+
+## Schedule  — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Tribunals Powers and Procedures Legislation Act 2018
+
+### 1 Authorities appointed for more than 5 years continue in office
+(1) A person who holds the position of Taxation Review Authority immediately before the commencement date and has been appointed for a term of more than 5 years continues in office for the balance of his or her term, despite section 313 of the Tribunals Powers and Procedures Legislation Act 2018, and may be reappointed if he or she qualifies for reappointment, under the principal Act.
+(2) In this clause, commencement date means the date on which section 313 of the Tribunals Powers and Procedures Legislation Act 2018 comes into force.
