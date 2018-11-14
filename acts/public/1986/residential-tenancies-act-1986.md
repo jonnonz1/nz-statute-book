@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2017-12-05_
+_Consolidation as at 2018-11-14_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -1387,8 +1387,15 @@ A boarding house tenancy terminates 48 hours after the death of a sole tenant un
   (a) a practising certificate as a barrister or solicitor, or as both a barrister and solicitor, of the High Court of New Zealand; or
   (b) an equivalent qualification issued or recognised by the appropriate authority in any Commonwealth country, or in any other common law country or state.
 
+### 67A Appointment of temporary acting Principal Tenancy Adjudicator, Deputy Principal Tenancy Adjudicator, or Tenancy Adjudicator
+(1) If the Principal Tenancy Adjudicator, the Deputy Principal Tenancy Adjudicator, or a Tenancy Adjudicator becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the Principal Tenancy Adjudicator, the Deputy Principal Tenancy Adjudicator, or a Tenancy Adjudicator considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the joint recommendation of the Minister and the Minister of Justice, may appoint a suitable person as the acting Principal Tenancy Adjudicator, the acting Deputy Principal Tenancy Adjudicator, or an acting Tenancy Adjudicator for the period or purpose stated in the appointment.
+(2) No person may be appointed as an acting Principal Tenancy Adjudicator, acting Deputy Principal Tenancy Adjudicator, or acting Tenancy Adjudicator unless he or she is eligible for appointment to the relevant position.
+(3) An acting Principal Tenancy Adjudicator, acting Deputy Principal Tenancy Adjudicator, or acting Tenancy Adjudicator is, while acting in that position, to be treated as the Principal Tenancy Adjudicator, the Deputy Principal Tenancy Adjudicator, or a Tenancy Adjudicator.
+(4) No appointment of an acting Principal Tenancy Adjudicator, acting Deputy Principal Tenancy Adjudicator, or acting Tenancy Adjudicator, no act done by an acting Principal Tenancy Adjudicator, acting Deputy Principal Tenancy Adjudicator, or acting Tenancy Adjudicator, and no act done by the Tenancy Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
 ### 68 Term of office of Tenancy Adjudicators
-(1) Every Tenancy Adjudicator shall be appointed for a term not exceeding 3 years commencing on the date of the appointment or on such other date as may be specified in the instrument of appointment.
+(1) Every Tenancy Adjudicator must be appointed for a term of up to 5 years commencing on the date of the appointment or on such other date as may be specified in the instrument of appointment.
+(1A) A person appointed under subsection (1) may be reappointed.
 (2)
 (3) Any Tenancy Adjudicator may at any time be removed from office by the Governor-General for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 (4) Any Tenancy Adjudicator may at any time resign by writing addressed to the Minister of Justice.
@@ -1396,7 +1403,11 @@ A boarding house tenancy terminates 48 hours after the death of a sole tenant un
   (a) that person is reappointed; or
   (b) a successor to that person is appointed; or
   (c) that person is informed in writing by the Minister of Justice and the Minister that that person is not to be reappointed and that a successor to that person is not to be appointed.
-(6) Every person who was a Tenancy Adjudicator shall, notwithstanding the expiry of that Tenancy Adjudicator's term of office or that Tenancy Adjudicator's retirement or resignation from office, be deemed to continue to be a Tenancy Adjudicator for the purpose of finally disposing of any matter that was still before the Tribunal on the date of expiry of the term of office, or the effective date of the retirement or the resignation, of that Tenancy Adjudicator.
+(6) A Tenancy Adjudicator who continues in office for any period under subsection (5) may act as an Adjudicator during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(7) A Tenancy Adjudicator who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
+(8) In this section, Tenancy Adjudicator includes the Principal Tenancy Adjudicator and the Deputy Principal Tenancy Adjudicator.
 
 ### 69 Remuneration of Tenancy Adjudicators
 (1) There shall be paid to the Principal Tenancy Adjudicator and the Deputy Principal Tenancy Adjudicator remuneration by way of salary, fees, or otherwise, and allowances and expenses, at such rate as the Remuneration Authority may from time to time determine in accordance with the Remuneration Authority Act 1977.
@@ -1636,13 +1647,15 @@ If a dispute or part of a dispute raises a question as to the landlord’s condu
   (a) shall report accordingly to the chief executive who shall refer the application to the appropriate Registrar for determination by the Tribunal; and
   (b) shall, wherever practicable, after consultation with the chief executive and the appropriate Registrar, inform the parties of the date on which the Tribunal is likely to be able to hear the matter.
 (4) In any case to which subsection (3)﻿(a) applies, the Tenancy Mediator may include in the Tenancy Mediator’s report to the chief executive any statement of facts agreed to by the parties, a summary of the points settled in mediation and those still requiring determination by the Tribunal, and any comments that the Tenancy Mediator may wish to make on the conduct of the parties so far as that may be relevant to the question of costs before the Tribunal in accordance with section 102(2)﻿(c), but shall in all respects strictly observe the provisions of sections 89 and 90.
-(5) The chief executive and the chief executive of the Ministry of Justice must make arrangements under which an order made by a Tenancy Mediator to give effect to an agreed settlement will be referred to a Tenancy Adjudicator for sealing on an application made by the Tenancy Mediator or a party—
+(5) The chief executive and the chief executive of the Ministry of Justice must make arrangements under which an order made by a Tenancy Mediator to give effect to an agreed settlement will be referred to a Tenancy Adjudicator or Registrar for sealing on an application made by the Tenancy Mediator or a party—
   (a) to the appropriate Registrar; or
   (b) by any electronic means (for example, through an Internet site) approved by the chief executive and the chief executive of the Ministry of Justice (if the arrangements allow applications to be made by electronic means).
-(5A) The Tenancy Adjudicator must seal a copy of the order, unless subsection (6) applies.
+(5A) The Tenancy Adjudicator or Registrar must seal a copy of the order, unless subsection (6) or (6A) applies.
 (6) Where that Tenancy Adjudicator believes that the order made by the Tenancy Mediator is outside the powers of the Tenancy Mediator to make, the Tenancy Adjudicator shall, instead of sealing the copy of the order,—
   (a) decline to seal the order, and direct the chief executive to refer the matter to a Tenancy Mediator for further consideration in accordance with any directions given by the Tenancy Adjudicator; or
   (b) direct that the matter be reconsidered and determined by the Tribunal.
+(6A) Where a Registrar to whom an order has been referred for sealing considers that the order is outside the powers of the Tenancy Mediator to make, the Registrar must, instead of sealing the copy of the order, decline to seal the order and refer the order to a Tenancy Adjudicator for consideration.
+(6B) If an order is referred to a Tenancy Adjudicator under subsection (6A), he or she must treat the order as if it had been referred directly to him or her under subsection (5).
 (7) Where any copy of an order made by a Tenancy Mediator is sealed under this section, it shall have effect as an order of the Tribunal, and shall be enforceable accordingly.
 (8) If a Tenancy Mediator makes an order under section 78(1)﻿(d) to give effect to an agreed settlement, section 78(2AB) to (2AD) apply to the order, subject to the following modifications:
   (a) section 78(2AB) and (2AD) must be read as if—
@@ -1728,6 +1741,13 @@ Stage 2
 (1) Where notice of a hearing has been given to a party in accordance with section 91 and that party does not attend at the hearing, the Tribunal may hear and determine, or dismiss or adjourn, the matter in the absence of that party.
 (2) Where subsection (1) applies and neither the applicant nor the other party attends the hearing, the Tribunal may determine the matter only if it is satisfied that it has before it all the written information that it needs to make a proper determination.
 
+### 92A Tribunal may strike out proceeding
+The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+
 ### 93 Right of audience
 (1) At any hearing before the Tribunal, every party shall be entitled to attend and be heard, to call evidence, and to examine, cross-examine, and re-examine witnesses.
 (2) Except as provided in the succeeding provisions of this section, no party shall be entitled to be represented at the hearing by counsel or by a representative, except where—
@@ -1779,8 +1799,9 @@ Stage 2
   (a) extend any time limit; or
   (b) if it is satisfied that the other party will not be prejudiced thereby, waive compliance by the applicant with any other procedural requirement,—
 (3) The Tribunal may extend any such time limit notwithstanding that the application for the extension is not made until after the expiration of the time appointed or fixed.
+(3A) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tenancy Adjudicator conducting the hearing considers it appropriate and the necessary facilities are available.
 (4) Except as expressly provided in this Act or in any regulations made under this Act, the Tribunal may regulate its own procedure in such manner as it thinks fit.
-(5) Subject to the provisions of this Act and of any regulations made under this Act, and to any directions of the Principal Tenancy Adjudicator, the Tenancy Adjudicator who is sitting in any particular case, or, where 2 or more Tenancy Adjudicators are sitting, the Tenancy Adjudicator who is presiding, may give all such directions and do all such things as are necessary or desirable for the expeditious and just hearing and determination of the case.
+(5) Subject to the provisions of this Act and of any regulations made under this Act, and to any directions of the Principal Tenancy Adjudicator under section 115, the Tenancy Adjudicator who is sitting in any particular case, or, where 2 or more Tenancy Adjudicators are sitting, the Tenancy Adjudicator who is presiding, may give all such directions and do all such things as are necessary or desirable for the expeditious and just hearing and determination of the case.
 
 ### 97 Evidence
 (1) The Tribunal shall not have the power to administer an oath but may require a person giving evidence at a hearing to make a statement promising to tell the truth.
@@ -1863,8 +1884,8 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 **Enforcement and offences**
 
 ### 106 Enforcement of possession orders
-(1) Every possession order shall, on being filed in the appropriate office of the District Court, have effect as if it were a warrant for the recovery of the premises issued by the Registrar of the court under the District Court Act 2016.
-(2) Where any such order is filed in the District Court, section 139(1) of the District Court Act 2016 applies as if the reference to a District Court Judge were a reference to a Tenancy Adjudicator.
+(1) Every possession order shall, on being filed in the appropriate office of the District Court, have effect as if it were a warrant for the recovery of land issued by the Registrar of the court under the District Court Act 2016.
+(2) Where any such order is filed in the District Court, section 138(1) of the District Court Act 2016 applies as if the reference to a District Court Judge were a reference to a Tenancy Adjudicator.
 
 ### 107 Enforcement of orders other than possession orders and work orders
 (1) Every order made by the Tribunal other than a possession order or a work order shall be deemed to be an order of the District Court, and, subject to this section, may be enforced accordingly.
@@ -1928,10 +1949,13 @@ The Tribunal may state a case for the opinion of the High Court on any question 
 ### 111 Giving false evidence
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years who, after promising to tell the truth pursuant to section 97(2), makes any assertion as to a matter of fact, opinion, belief, or knowledge knowing that assertion to be false and intending thereby to mislead the Tribunal.
 
+### 111A Offence of breaching suppression order
+A person who breaches an order made under section 95(3) is liable on conviction to a fine not exceeding $3,000.
+
 ### 112 Contempt
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who—
-  (a) wilfully assaults, insults, or obstructs a Tenancy Adjudicator, or any witness or any officer of the Tribunal during a sitting of the Tribunal or while a Tenancy Adjudicator, a witness, or an officer of the Tribunal is going to, or returning from, a sitting of the Tribunal; or
-  (b) wilfully assaults, insults, or obstructs any person in attendance at a sitting of the Tribunal; or
+  (a) wilfully insults, or obstructs a Tenancy Adjudicator, or any witness or any officer of the Tribunal during a sitting of the Tribunal or while a Tenancy Adjudicator, a witness, or an officer of the Tribunal is going to, or returning from, a sitting of the Tribunal; or
+  (b) wilfully insults, or obstructs any person in attendance at a sitting of the Tribunal; or
   (c) wilfully interrupts, or otherwise misbehaves at, a sitting of a Tribunal; or
   (d) wilfully and without lawful excuse disobeys any order or direction of the Tribunal (other than an order mentioned in section 78 or section 108(2)) in the course of any hearing of any proceedings.
 (2) A Tenancy Adjudicator may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the opinion of the Tenancy Adjudicator, constitutes an offence against subsection (1), whether or not such person is charged with the offence; and any Registrar, or other officer under a Registrar's control, or constable may take such steps as are reasonably necessary to enforce such exclusion.
