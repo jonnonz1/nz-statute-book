@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -2820,7 +2820,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
   (c) a representative of the United Nations High Commissioner for Refugees, to serve as an ex officio member in relation to matters relating to refugees:
   (d) a District Court Judge seconded to the Tribunal under section 240 to exercise the jurisdiction of the Tribunal in relation to proceedings involving classified information.
 (2) The chair of the Tribunal is appointed by the Governor-General on the advice of the Attorney-General, given after consultation with the Minister of Justice and the Minister.
-(3) The members of the Tribunal are appointed by the Governor-General on the recommendation of the Minister of Justice made in consultation with the Minister.
+(3) The other members of the Tribunal are appointed by the Governor-General on the recommendation of the Minister of Justice made in consultation with the Minister.
 (4) None of the following persons may be appointed as a member of the Tribunal:
   (a) an immigration officer; or
   (b) a refugee and protection officer; or
@@ -2828,6 +2828,14 @@ If the Tribunal decides that an appeal against liability for deportation should 
     (i) an immigration officer; or
     (ii) a refugee and protection officer; or
     (iii) an immigration officer, a visa officer, or a refugee status officer under the former Act.
+
+### 219A Appointment of temporary acting chair or member of Tribunal
+(1) If the chair or another member of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if another member appointed under section 219(1)﻿(b) considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General,—
+  (a) on the recommendation of the Attorney-General, after consultation with the Minister of Justice and the Minister, may appoint a suitable person as the acting chair for the period or purpose stated in the appointment:
+  (b) on the recommendation of the Minister of Justice, after consultation with the Minister, may appoint a suitable person as an acting member for the period or purpose stated in the appointment.
+(2) No person may be appointed as an acting chair or acting member unless he or she is eligible for appointment to the relevant position.
+(3) An acting chair or other member, while acting in that position, is to be treated as the chair or other member.
+(4) No appointment of an acting chair or other member, no act done by an acting chair or other member, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
 ### 220 Role of chair of Tribunal
 (1) In addition to deciding appeals and matters in the Tribunal, the chair of the Tribunal is responsible for—
@@ -2837,7 +2845,7 @@ If the Tribunal decides that an appeal against liability for deportation should 
   (b) directing the education, training, and professional development of members of the Tribunal; and
   (c) dealing with complaints made about members of the Tribunal.
 (2) Without limiting subsection (1), the chair of the Tribunal may—
-  (a) issue practice notes (not inconsistent with this Act or any regulations made under it) for the purposes of regulating the practice and procedure of the Tribunal:
+  (a) issue practice notes (not inconsistent with this Act or any regulations made under it) for the purposes of regulating the practice and procedure of the Tribunal and for the guidance of other members of the Tribunal, officers of the Tribunal, and parties before the Tribunal:
   (b) develop a code of conduct for members of the Tribunal:
   (c) require particular members of the Tribunal to determine particular appeals.
 
@@ -2876,6 +2884,17 @@ If the Tribunal decides that an appeal against liability for deportation should 
 
 ### 224 Tribunal may dismiss frivolous or vexatious appeal
 The Tribunal may at any time dismiss an appeal that it is satisfied is frivolous or vexatious.
+
+### 224AA Tribunal may strike out, determine, or adjourn appeal
+(1) The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, the Tribunal may,—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 224A Annual report on performance of Tribunal's functions
 (1) The chair of the Tribunal must, in each year, provide a report to the Minister of Justice, the Minister of Immigration, and the Minister for Courts on the performance of the Tribunal's functions under this Act in respect of the financial year ending in that year.
@@ -4914,7 +4933,8 @@ Every person commits an offence against this Act who, not being an immigration o
 (2) Every person commits an offence who—
   (a) intentionally obstructs or hinders the Tribunal or any member of it or any authorised person in any inspection or examination of papers, documents, records, or things under clause 10(1)﻿(a) of Schedule 2; or
   (b) without sufficient cause, fails to comply with any requirement of the Tribunal or any authorised person made under clause 10(1)﻿(b) or (c) of Schedule 2; or
-  (c) without sufficient cause, acts in contravention of or fails to comply with any order made by the Tribunal under clause 10(3) of Schedule 2 or any term or condition of the order.
+  (c) without sufficient cause, contravenes or fails to comply with any order made by the Tribunal under clause 10(3) of Schedule 2 or any term or condition of the order; or
+  (d) breaches an order made under clause 18(4) of Schedule 2.
 (3) No person summoned to attend before the Tribunal may be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which the person was required to attend, there was made to the person a payment or tender of the amount determined under clause 16 of Schedule 2.
 
 ### 354 Failure to maintain confidentiality in relation to refugee or protection matters
@@ -4929,6 +4949,7 @@ Every person commits an offence who, without reasonable excuse,—
 (2) A person convicted of an offence against section 343(1)﻿(b) or (c)﻿(i) is liable to imprisonment for a term not exceeding 7 years, a fine not exceeding $100,000, or both, for each person in respect of whom the offence was committed.
 (3) A person convicted of an offence against section 342(1)﻿(c), 343(1)﻿(d), 344(c) or (d), or 354 is liable to imprisonment for a term not exceeding 3 months, a fine not exceeding $10,000, or both.
 (4) A person convicted of an offence against section 346 is liable to imprisonment for a term not exceeding 12 months, a fine not exceeding $15,000, or both.
+(4A) A person convicted of an offence against section 353(2)﻿(d) is liable to a fine not exceeding $3,000.
 (5) A person convicted of an offence against this Act, or against any regulations made under this Act, for which no specific penalty is provided in the Act or regulations is liable to a fine not exceeding $5,000.
 (6) Where any person is convicted of an offence against section 343(1)﻿(d) in respect of any person who is or was unlawfully in New Zealand, the court may, instead of or in addition to any other sentence that it may impose in respect of the offence, order that the offender pay the whole or any specified portion of the costs incurred or likely to be incurred in deporting the person in relation to whom the offence was committed.
 (7) For the purposes of subsection (6), the costs incurred or likely to be incurred in deporting a person include—
@@ -6221,7 +6242,15 @@ The definition of fine in section 141AD is amended by adding the following parag
 (2) A member of the Tribunal may be reappointed.
 (3) Any member of the Tribunal who is not a District Court Judge may at any time be removed from office by the Governor-General for disability affecting the performance of his or her duties, bankruptcy, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 (4) A member of the Tribunal may at any time resign the office by notice in writing to the Governor-General.
-(5) Despite the expiry of the term of office of a member of the Tribunal, or the member’s resignation, the member is deemed to continue as a member of the Tribunal for the purpose of deciding any matter that was wholly heard before the expiry of the term of office or before the resignation took effect.
+(5) A member of the Tribunal continues in office despite the expiry of his or her term of office until—
+  (a) the member is reappointed; or
+  (b) a successor to the member is appointed; or
+  (c) the member is notified that a replacement member will not be appointed; or
+  (d) the member vacates or is removed from office.
+(6) A member who continues in office for any period under subclause (5), unless he or she was removed from office, may act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(7) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 2 Oath of office
 Each member of the Tribunal must, before entering on the performance of any of his or her functions under this Act, swear or affirm before a Judge of the High Court that he or she will faithfully and impartially perform his or her duties as a member of the Tribunal.
@@ -6268,7 +6297,7 @@ No member of the Tribunal is personally liable for any act done or omitted to be
 
 ### 11 Power to summon witnesses
 (1) For the purposes of its proceedings, the Tribunal may of its own motion, or on application, issue in writing a summons in the prescribed form requiring any person to attend at the time and place specified in the summons and to give evidence, and to produce any papers, documents, records, or things in that person’s possession or under that person’s control that are relevant to the subject of the proceedings.
-(2) For the purposes of this Act, the power to issue summonses, or to do any other act preliminary or incidental to the hearing of any matter by the Tribunal, may be exercised by the Tribunal, or by an officer of the Tribunal purporting to act by direction or with the authority of the Tribunal.
+(2) For the purposes of this Act, the power to issue summonses, or to do any other act preliminary or incidental to the hearing of any matter by the Tribunal, may be exercised by the Tribunal, by the chair or deputy chair of the Tribunal, or by an officer of the Tribunal purporting to act by direction or with the authority of the Tribunal or the chair or deputy chair of the Tribunal.
 (3) If a summons is issued by the Tribunal in respect of a person detained in custody, the manager or other person in charge of the relevant prison or other premises, or the other person having custody of the detained person, must produce or allow the production of the person as directed in the summons.
 (4) This clause is subject to section 35(3).
 
@@ -6311,8 +6340,11 @@ Any document relating to proceedings before the Tribunal may be served outside N
 (4) The Tribunal may make an order prohibiting the publication of any evidence received by it, or any report or description of the proceedings or of any part of the proceedings, in respect of any appeal or matter before the Tribunal.
 (5) This clause is subject to section 259.
 
+### 18A Use of electronic facilities to hear matters
+The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tribunal or the chair of the Tribunal considers it appropriate and the necessary facilities are available.
+
 ### 19 Publication of decisions
-(1) Subject to subclauses (2) and (4), the Tribunal must publish its decisions.
+(1) Subject to subclauses (2) and (4) and clause 18(4), the Tribunal must publish its decisions.
 (2) Any publication for research purposes by the Tribunal of a decision made by it in relation to refugee or protection appeals or matters, other than publication to persons described in subclause (3), must be edited in a way so as to remove—
   (a) the name of the appellant or affected person; and
   (b) any particulars likely to lead to the identification of the appellant or affected person.
