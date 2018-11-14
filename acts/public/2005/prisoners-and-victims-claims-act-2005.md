@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -379,7 +379,7 @@ In sections 22 and 28, sending date, in relation to a notice required by section
   (d) posted in a letter addressed to the person at the person’s usual or last known place of residence or business.
 (2) If the person is absent from New Zealand, the notice or other document may be served on or given to the person’s agent in New Zealand.
 (3) If the person is deceased, the notice or other document may be served on or given to the person’s personal representatives.
-(4) A notice or other document sent to a person by post must, unless the contrary is shown, be treated as having been delivered to the person on the seventh day after the day on which it was posted; and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
+(4) A notice or other document sent to a person by post must, unless the contrary is shown, be treated as having been served 5 working days after it was posted; and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
 (5) Despite anything in subsections (1) to (4), a Tribunal may in any circumstances make an order directing the manner in which a notice or other document is to be served or given, or dispensing with the service or giving of the notice or document.
 
 **Procedure for making and determination of victims’ claims**
@@ -535,7 +535,7 @@ For the purposes of dealing with the matters before it, a Tribunal has the power
 ### 43 Contravention of orders or directions under section 41
 (1) Every person commits an offence who breaches an order or direction made or given under section 41(1)﻿(a) or (b) or (c) or (d) or evades or attempts to evade the order or direction.
 (2) Every person who commits an offence against subsection (1) is liable on conviction,—
-  (a) in the case of an individual, to a fine not exceeding $1,000:
+  (a) in the case of an individual, to a fine not exceeding $3,000:
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
 
 ### 44 Availability of documents filed in connection with claims
@@ -544,7 +544,7 @@ For the purposes of dealing with the matters before it, a Tribunal has the power
 (3) Nothing in this section applies to a document or record to which section 31(3) or section 36 applies.
 
 ### 45 Other aspects of procedure
-Subject to sections 28 to 44, 46, 59, and 60, the Tribunal may regulate the procedure for determining victims’ claims in any manner it thinks fit.
+Subject to sections 28 to 44, 46, 59, and 60, and any practice notes issued under section 60A, the Tribunal may regulate the procedure for determining victims’ claims in any manner it thinks fit.
 
 ### 46 Tribunal to determine group of claims received
 (1) The Tribunal must determine together as a group victims’ claims (including related questions as to interest and costs) filed under section 28 in response to—
@@ -669,6 +669,11 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 (3) The Chief District Court Judge may at any time add or remove a Judge from the panel.
 (4) The function of a Tribunal is to determine, in accordance with this subpart, victims’ claims filed under this subpart.
 
+### 58A Orderly and efficient operation
+A Tribunal is responsible for making any arrangements that are practicable to ensure that he or she performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+
 ### 59 Evidence
 A Tribunal may receive as evidence any statement, document, information, or matter that, in the Tribunal’s opinion, may help the Tribunal to determine a victim’s claim, whether or not it would be admissible in a court of law.
 
@@ -678,6 +683,10 @@ A Tribunal may receive as evidence any statement, document, information, or matt
   (b) the accused or the offender; and
   (c) the Secretary.
 (2) This section does not limit a Tribunal’s duty under section 46 to record in a single written order its determination of a group of victims’ claims filed under section 28.
+
+### 60A Practice notes
+(1) The Chief District Court Judge may issue practice notes as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of the Tribunals, officers of Tribunals, and parties before Tribunals.
 
 ### 61 Proceedings of Tribunal not invalid for want of form
 Proceedings before a Tribunal must not be held invalid for want of form.
