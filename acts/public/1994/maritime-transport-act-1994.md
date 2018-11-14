@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-14_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -1492,12 +1492,10 @@ For the purposes of granting or renewing maritime documents in respect of person
 (2A) Before the expiry of the 14-day period referred to in subsection (2), the Director may—
   (a) lift the suspension, with or without conditions, or extend the period of the suspension by a specified further period:
   (b) allow the person to return to work, subject to any conditions imposed by the Director, during the suspension or specified further period of suspension.
-(2B) If the Director proposes to suspend any person under subsection (1), the Director must give the person notice in accordance with section 51, which applies as if—
-  (a) the proposed suspension were a proposed adverse decision under this Act; and
-  (b) the reference to the person's right of appeal under section 424 were a reference to the person's right of appeal to the Maritime Appeal Authority continued by section 82.
+(2B) If the Director proposes to suspend a person, the Director must give the person notice under section 51, which applies as if the proposed suspension were a proposed adverse decision under that section.
 (3) The Director may suspend a person under this section for any period the Director thinks fit and may impose such conditions on that person's return to work as the Director thinks fit.
 (4) The Director shall maintain a list of persons suspended under this section, and employers of seafarers or potential employers of seafarers may ask the Director to ascertain whether a particular person is a suspended person and the Director shall advise that employer or potential employer accordingly.
-(5) Any person in respect of whom any decision is taken under this section may appeal against that decision to the Maritime Appeal Authority continued by section 82.
+(5) A person who is the subject of a decision under this section may appeal the decision to the District Court under section 424.
 
 ### 53 Suspended persons not to work or be employed
 (1) No person shall employ or engage on board a New Zealand ship, or any ship involved in coastal shipping under section 198, a person who has been suspended under section 52.
@@ -1812,12 +1810,11 @@ Where a court makes an order under section 73 or section 77, the Registrar of th
 **Maritime Appeal Authority**
 
 ### 82 Continuation of Maritime Appeal Authority
-(1) There shall continue to be an authority called the Maritime Appeal Authority.
-(2) The person appointed as the Maritime Appeal Authority under the Shipping and Seamen Act 1952 is hereby appointed as the first Maritime Appeal Authority under this Act.
-(3) Every subsequent Maritime Appeal Authority shall be appointed by the Minister after consultation with the Minister of Justice.
-(4) The functions of the Maritime Appeal Authority shall be to consider and determine applications made to the Authority pursuant to section 52.
-(5) In making its determinations the Maritime Appeal Authority shall have regard to the potential effect on the risk to maritime safety of the suspended person being employed as a seafarer.
-(6) The provisions of Schedule 2 shall apply in relation to the office of the Maritime Appeal Authority.
+[Repealed]
+
+### 82A Maritime Appeal Authority disestablished
+(1) The Maritime Appeal Authority is disestablished.
+(2) No compensation is payable to a person who ceases to hold office as a result of the Maritime Appeal Authority being disestablished.
 
 ## Part 7 — Limitation of liability for maritime claims
 
@@ -2353,7 +2350,7 @@ Every person on whom any duty is imposed by this Act—the means required by the
     (ii) distress and safety radio services:
     (iii) marine safety information:
     (iv) other services related to the safety of shipping:
-  (b) any services provided, or any regulatory services or activities undertaken, by the Authority, the Director, the Maritime Appeal Authority, or the Crown in the performance or exercise of functions, duties, or powers under this Act.
+  (b) any services provided, or any regulatory services or activities undertaken, by the Authority, the Director, or the Crown in the performance or exercise of functions, duties, or powers under this Act.
 (3) Any such regulations may—whether or not persons levied use, or the ship in respect of which the levy arises uses, any such services.
   (a) specify the persons by whom the levies are payable including (without limitation) all or any of the master, owner, charterer, person responsible for the management of the ship, or any agent of any of those persons who by law or by contract is liable to pay any other charge on account of the ship:
   (b) prescribe different levies for different classes of ship based on length, tonnage, equipment available for use on board the ship, or such other criteria as may be specified in the regulations:
@@ -2574,7 +2571,7 @@ The Director may, if he or she thinks fit, and subject to such conditions as he 
   (a) the Marine Council:
   (b) the Marine Advisory Committee:
   (c) the Mercantile Marine Office:
-  (d) every other body established by or under the Shipping and Seamen Act 1952 other than the Maritime Appeal Authority.
+  (d) every other body established by or under the Shipping and Seamen Act 1952, including the Maritime Appeal Authority (which is disestablished under section 82A).
 (2) Every member of a body abolished by subsection (1) shall vacate office on the commencement of this Act, and shall not be entitled to any compensation in respect of such loss of office.
 
 ## Part 16 — Carriage of goods by sea
@@ -4734,13 +4731,14 @@ Notwithstanding any other enactment, where a person is convicted of an offence a
   (b) either—
     (i) confirm, reverse, or modify the decision appealed against, and make such orders and give such directions to the Authority, the Director, or the harbourmaster, as the case may require, as may be necessary to give effect to the court’s decision; or
     (ii) refer the matter back to the Authority, the Director, or the harbourmaster, as the case may require, with directions to reconsider the whole or any specified part of the matter.
+(2A) When deciding an appeal under section 52, the District Court must have regard to the potential effect on the risk to maritime safety of the suspended person being employed as a seafarer.
 (3) Any appeal under this section shall be by way of rehearing.
 (4) Subject to this section, every such appeal shall be made and determined in accordance with the District Court Act 2016 and the rules of court made under that Act.
 (5) Subject to section 427, the decision of the District Court shall be final.
 
 ### 426 Decision of Director or harbourmaster to continue in force pending appeal
-(1) Every decision of the Director or the harbourmaster that is appealed against under section 52 or section 424 shall continue in force pending the determination of the appeal, and no person shall be excused from complying with any of the provisions of the Act or the decision on the ground that any appeal is pending.
-(2) Notwithstanding that any appeal under section 52 or section 424 may have been determined in favour of the appellant, the Director may, subject to the same right of appeal, refuse to grant, revoke, suspend, disqualify, or otherwise deal with in accordance with the provisions of this Act any maritime document or marine protection document or any permit, any person to which or to whom the appeal related, or any maritime document or marine protection document or any permit or approval granted or restored in compliance with the decision of the District Court on the appeal, on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
+(1) Every decision of the Director or the harbourmaster that is appealed against under section 424 shall continue in force pending the determination of the appeal, and no person shall be excused from complying with any of the provisions of the Act or the decision on the ground that any appeal is pending.
+(2) Notwithstanding that any appeal under section 424 may have been determined in favour of the appellant, the Director may, subject to the same right of appeal, refuse to grant, revoke, suspend, disqualify, or otherwise deal with in accordance with the provisions of this Act any maritime document or marine protection document or any permit, any person to which or to whom the appeal related, or any maritime document or marine protection document or any permit or approval granted or restored in compliance with the decision of the District Court on the appeal, on any sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
 
 ### 427 Appeal to High Court on question of law
 (1) Every party to an appeal under section 424 may appeal to the High Court on a question of law.
@@ -4932,7 +4930,7 @@ Subject to this Act, the Authority shall, in the course of performing its functi
 ### 445 Regulations for fees and charges
 (1) Without limiting the power to make regulations conferred by any other section of this Act, but subject to the provisions of this Act, the Governor-General may from time to time make regulations prescribing, or providing for the fixing of, fees or charges, or both, for the following purposes:
   (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under this Act:
-  (b) to meet, or assist in meeting, the costs and expenses incurred by the Authority, the Director, the Maritime Appeal Authority, or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under this Act:
+  (b) to meet, or assist in meeting, the costs and expenses incurred by the Authority, the Director, or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under this Act:
   (c) to meet, or assist in meeting, the costs and expenses incurred by the Authority, the Director, or the Crown in providing goods, services, facilities, or works for maritime purposes or for the purposes of protecting the marine environment.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, ships, offshore installations, pipelines, maritime products, marine protection products, or any other property or item, or on the basis of different times of use, or on any other differential basis.
 (3) Any regulation made under subsection (1) may—
@@ -5465,64 +5463,61 @@ In making any payment under clause 44, the Director must have regard to the fees
 ## Schedule 2 — Provisions applying in respect of Maritime Appeal Authority
 
 ### 1
-The person appointed as the Maritime Appeal Authority shall be a barrister or solicitor of not less than 7 years’ practice of the High Court, whether that person holds or has held any judicial office.
+[Repealed]
 
 ### 2
-The Minister may appoint a person, being a person qualified for appointment as the Maritime Appeal Authority, to be a deputy for, and to act in the absence from whatever cause of, the Maritime Appeal Authority.
+[Repealed]
 
 ### 3
-The person appointed as the Maritime Appeal Authority shall be appointed for a term of 3 years, but may from time to time be reappointed.
+[Repealed]
 
 ### 4
-The person appointed as the Maritime Appeal Authority shall cease to hold office if that person—and, if by reason of disability that person becomes incapable of performing the functions of the office, that person may be removed from office by the Minister.
-(a) is adjudged bankrupt; or
-(b) is convicted of any offence punishable by imprisonment,—
-(c)
+[Repealed]
 
 ### 4A
-For the purposes of clause 4, disability has the meaning given by section 21(1)﻿(h) of the Human Rights Act 1993.
+[Repealed]
 
 ### 5
-The person appointed as the Maritime Appeal Authority may at any time resign by notice in writing to the Minister.
+[Repealed]
 
 ### 6
-Any deputy of the Maritime Appeal Authority shall hold office during the pleasure of the Minister.
+[Repealed]
 
 ### 7
-Meetings of the Maritime Appeal Authority shall be held at such times and places as the Authority considers necessary.
+[Repealed]
 
 ### 8
-The Maritime Appeal Authority may receive as evidence any statement, document, information, or matter that may, in the opinion of the Authority, assist the Authority to deal effectually with the application being considered, whether or not the evidence would be otherwise admissible in a court of law.
+[Repealed]
 
 ### 9
-Subject to clause 8, the Evidence Act 2006 shall apply to the Maritime Appeal Authority, and to all applications before the Authority, in the same manner as if the Maritime Appeal Authority were a court within the meaning of that Act.
+[Repealed]
 
 ### 10
-The Maritime Appeal Authority shall, within the scope of the Authority’s jurisdiction, be deemed to be a commission of inquiry under the Commissions of Inquiry Act 1908; and, subject to the provisions of this Act, all the provisions of that Act, except sections 2 and 4A, shall apply accordingly.
+[Repealed]
 
 ### 11
-Every application to the Maritime Appeal Authority shall be considered at such place and at such time as the Authority considers convenient having regard to the nature of the matters to be decided, and may be adjourned from time to time and place to place.
+[Repealed]
 
 ### 12
-The applicant shall be entitled to appear before the Maritime Appeal Authority in support of the application or be represented by counsel or a solicitor or an agent.
+[Repealed]
 
 ### 13
-Except as otherwise provided by this clause, the Maritime Appeal Authority may determine the Authority’s own procedure, but shall follow the rules of natural justice.
+[Repealed]
 
 ### 14
-Every application heard by the Maritime Appeal Authority shall be determined by the decision in writing of the Maritime Appeal Authority alone, and shall be final.
+[Repealed]
 
 ### 15
-Every application to the Maritime Appeal Authority shall be in writing specifying the grounds thereof, and shall be lodged with the Director, who shall forthwith refer it to the Maritime Appeal Authority.
+[Repealed]
 
 ### 16
-The Maritime Appeal Authority is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
+[Repealed]
 
 ### 17
-There shall be paid to the Maritime Appeal Authority by Maritime New Zealand remuneration by way of fees or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
+[Repealed]
 
 ### 18
-Notwithstanding clause 16, any money received under that clause by the Maritime Appeal Authority who is an employee of the Public Service shall be subject to the provisions of the State Sector Act 1988.
+[Repealed]
 
 ## Schedule 3 — Enactments repealed
 
