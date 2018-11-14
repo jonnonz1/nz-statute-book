@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -6120,6 +6120,12 @@ If an instrument specified in Part 4 of Schedule 9 is amended or revoked on or b
 (4) An order cannot be made under this clause after the expiry of the 36-month period that starts with the specified date.
 (5) An order made under this clause is revoked at the close of that 36-month period.
 
+### Part 2 — Provisions relating to Tribunals Powers and Procedures Legislation Act 2018
+
+### 38 Authorities appointed for more than 5 years continue in office
+(1) A person who holds the position of Customs Appeal Authority immediately before the commencement date and has been appointed for a term of more than 5 years continues in office for the balance of his or her term despite section 24(1) of the Tribunals Powers and Procedures Legislation Act 2018 and may be reappointed, if he or she qualifies for reappointment under the principal Act.
+(2) In this clause, commencement date means the date on which section 24(1) of the Tribunals Powers and Procedures Legislation Act 2018 comes into force.
+
 ## Schedule 2 — Application of Act to Defence Force
 
 ### 1 Requirements relating to arrival and departure of craft and persons
@@ -7199,11 +7205,17 @@ A person who is dissatisfied with a determination of an application by the chief
 ### Part 1 — Appointments and administrative matters
 
 ### 1 Term of office of Authority
-(1) Every person appointed as a Customs Appeal Authority (an Authority) must be appointed for a term, not exceeding 7 years, that the Governor-General thinks fit, and may be reappointed.
+(1) Every person appointed as a Customs Appeal Authority (an Authority) must be appointed for a term of up to 5 years that the Governor-General thinks fit, and may be reappointed.
 (2) A person appointed as an Authority may at any time resign his or her office by writing addressed to the Minister of Customs and the Minister of Justice.
-(3) Despite the expiry of the term of office of a person appointed as an Authority or the resignation of the person from his or her office, he or she is treated as continuing to be an Authority for the purpose of deciding any appeal that was wholly heard before—
-  (a) the expiry of his or her term of office; or
-  (b) if he or she resigns, the date of his or her resignation.
+(3) An Authority continues in office despite the expiry of his or her term of office until—
+  (a) the Authority is reappointed; or
+  (b) the Authority’s successor is appointed; or
+  (c) the Authority is notified that a replacement Authority will not be appointed; or
+  (d) the Authority vacates or is suspended or removed from office.
+(4) An Authority who continues in office for any period under subclause (3), unless he or she was suspended or removed from office, may act as an Authority during that period for the purpose of—
+  (a) completing any appeal partly or wholly heard by the Authority before the expiry of his or her term of office:
+  (b) hearing any other appeal.
+(5) An Authority who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was suspended or removed from office), may continue in office for the purpose of completing any appeal that is partly or wholly heard.
 
 ### 2 Suspension or removal
 (1) The Governor-General may suspend or remove from office a person appointed as an Authority for any of the following reasons:
@@ -7220,12 +7232,14 @@ Before entering upon the performance of the duties of his or her office, every p
 ### 4 Remuneration and travelling expenses
 There must be paid out of money appropriated by Parliament for the purpose to any person appointed as an Authority remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if that person were a statutory Board within the meaning of that Act.
 
-### 5 Sickness or incapacity
-(1) In the event of the sickness or other incapacity of a person appointed as an Authority, the Minister of Customs and the Minister of Justice may jointly appoint any person who is qualified to be appointed as an Authority to act in the place of that person during the incapacity.
-(2) Any person appointed under subclause (1) has authority to act on behalf of the Authority and, while acting as an Authority, is treated as being an Authority.
+### 5 Appointment of temporary acting Authority
+(1) If an Authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if an Authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the joint recommendation of the Minister and the Minister of Justice, may appoint a suitable person as an acting Authority for the period or purpose stated in the appointment.
+(2) No person may be appointed as an acting Authority unless he or she is eligible for appointment as an Authority.
+(3) An acting Authority is, while acting in the position, to be treated as an Authority.
+(4) No appointment of an acting Authority and no act done by an acting Authority may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
 ### 6 Validity of appointment not to be questioned in proceedings
-No appointment of a person under clause 5(1), and no act done by any person because of that appointment, may in any proceedings be questioned on the ground that the occasion of the appointment had not arisen or had ceased.
+[Repealed]
 
 ### 7 Authority not personally liable
 No person appointed as an Authority and no person appointed under clause 5(1) is personally liable for any act done or omitted to be done by him or her in good faith in pursuance or intended pursuance of his or her powers and authorities under this Act.
@@ -7237,12 +7251,20 @@ No person appointed as an Authority and no person appointed under clause 5(1) is
 ### 9 Seal
 Every Authority must have a seal that must be judicially noted in all courts.
 
+### 9A Orderly and efficient operation
+(1) An Authority is responsible for making any arrangements that are practicable to ensure that he or she performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+(2) The Ministry of Justice must provide the resources and administrative support necessary to enable each Authority to perform its functions.
+
 ### Part 2 — Appeals and cases stated
 
 **Appeals to Authority**
 
 ### 10 Procedure
-(1) An Authority may determine its own procedure, subject to this schedule and any regulations made for the purposes of subclause (2).
+(1) An Authority may regulate his or her procedures as he or she sees fit, subject to—
+  (a) this Act and any regulations; and
+  (b) any practice notes issued under clause 30A.
 (2) Regulations may prescribe any procedure to be followed by an Authority.
 
 ### 11 Commencement of proceedings
@@ -7285,10 +7307,12 @@ Proceedings before an Authority must be commenced by the lodging of an applicati
 (1) At the hearing of an appeal before an Authority, the appellant and the chief executive—
   (a) may call evidence; and
   (b) must be given an opportunity to be heard either in person or by a person authorised by the appellant or the chief executive, as the case may be, for that purpose whether or not that person is a lawyer.
-(2) If the appellant or the chief executive, or both, fail to appear before an Authority at the time and place appointed, the Authority may nevertheless, on proof of service of the notice of the hearing, proceed to determine the appeal.
+(1A) The hearing of an appeal or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if an Authority considers it appropriate and the necessary facilities are available.
+(2)
 (3) The hearing of an appeal before an Authority must be in public.
 (4) Despite subclause (3), if the Authority considers that it is proper to do so, having regard to the interests of any party and to the public interest, it may hold a hearing or any part of a hearing in private.
 (5) The Authority may order that any part of any evidence given or the name of any witness not be published, and any such order may be subject to any conditions that the Authority thinks fit.
+(6) A person who breaches an order made under clause 18(5) is liable on conviction to a fine not exceeding $3,000.
 
 ### 19 Authority may decide appeal without oral hearing if both parties consent
 (1) Despite clauses 16 and 18, an Authority may, if the Authority thinks fit and if both parties consent, decide an appeal without holding an oral hearing.
@@ -7310,18 +7334,19 @@ For the purpose of dealing with the matters before it, an Authority may on the A
   (b) in the order, impose any terms and conditions that it thinks fit in respect of the supply, and the use that is to be made, of the information, particulars, or copy.
 
 ### 23 Power to summon witnesses
-For the purpose of dealing with the matters before it, an Authority may on its own motion, or on application, issue in writing a summons requiring any person—
+(1) For the purpose of dealing with the matters before it, an Authority may on its own motion, or on application, issue in writing a summons requiring any person—
   (a) to attend at the time and place specified in the summons and to give evidence; and
   (b) to produce any papers, documents, records, or things in that person’s possession or under that person’s control that are relevant to the matters before the Authority.
+(2) The power to issue a witness summons may be exercised by an Authority or any officer of an Authority purporting to act by the direction or with the authority of that Authority.
 
 ### 24 Service of summons
-(1) A summons issued to a witness under clause 23 may be served—
-  (a) by delivering it to the person summoned; or
-  (b) by posting it by letter addressed to the person summoned at that person’s usual place of residence or business.
+(1) A witness summons may be served by—
+  (a) delivering the summons personally to the witness or, if he or she refuses to accept it, bringing it to his or her attention; or
+  (b) delivering the summons to the witness at his or her usual place of residence or business by any form of prepaid delivery service that requires an acknowledgement of receipt of delivery from the witness.
 (2) The summons must,—
   (a) if it is served under subclause (1)﻿(a), be served at least 24 hours before the attendance of the witness is required:
   (b) if it is served under subclause (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by letter, it is treated for the purposes of subclause (2)﻿(b) as having been served on the fourth day after the date of posting.
+(3) If the summons is posted by letter, it is treated for the purposes of subclause (2)﻿(b) as having been served on the fourth working day after the date of posting.
 
 ### 25 Protection of persons appearing
 (1) Every person has the same privileges in relation to the giving of information to an Authority, the answering of questions put by an Authority, and the production of papers, documents, records, and things to an Authority as witnesses have in courts of law.
@@ -7337,9 +7362,21 @@ For the purpose of dealing with the matters before it, an Authority may on its o
   (a) order a party to pay to the other party any costs and expenses (including witnesses’ expenses) that the Authority considers reasonable; and
   (b) apportion those costs and expenses between the parties or any of them in any manner the Authority thinks fit.
 (2) If, through failure to prosecute any proceedings at the time fixed for a hearing or to give adequate notice of the abandonment of any proceedings, an Authority considers it proper to do so, the Authority may order the party in default to pay to the Crown any sum for costs that it considers reasonable.
+(3) If costs are awarded to a party or the Crown but have not been paid in full, the party or the Crown may file a copy of the order in the District Court, where it may be enforced for the amount that is still owing as if it were a judgment of the District Court.
 
 ### 28 Authority may dismiss frivolous or vexatious appeal
 An Authority may at any time dismiss an appeal if it is satisfied that the appeal is frivolous or vexatious.
+
+### 28A Authority may strike out, determine, or adjourn proceeding
+(1) An Authority may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, an Authority may—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 29 Witnesses’ allowances
 (1) Every witness attending a hearing to give evidence as a consequence of a summons is entitled to be paid witnesses’ fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
@@ -7353,6 +7390,10 @@ An Authority may at any time dismiss an appeal if it is satisfied that the appea
   (b) must, on applying for the issue of a witness summons, deposit with the Authority any amount that the Authority thinks sufficient.
 (2) The amounts of a witness’s fees, allowances, and travelling expenses must be paid out of the sum deposited under subclause (1)﻿(b).
 (3) Where the Authority has of its own motion issued the witness summons, the Authority may direct that the amount of those fees, allowances, and travelling expenses be paid by the Crown.
+
+### 30A Practice notes
+(1) All the Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of each Authority, officers of an Authority, and parties before an Authority.
 
 **Appeals to High Court**
 
