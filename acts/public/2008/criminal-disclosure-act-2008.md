@@ -1,5 +1,5 @@
 # Criminal Disclosure Act 2008
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Criminal Disclosure Act 2008.
@@ -81,9 +81,13 @@ For the purposes of this Act, criminal proceedings are commenced at the earliest
 ### 10 Service
 (1) Information required to be disclosed to, and any notice or application required to be given to or served on, any person under this Act may be given to or served on the person—
   (a) by personal delivery to that person or, if the person refuses to accept the document or notice, by bringing the document or notice to that person's attention; or
-  (b) by post or facsimile addressed to that person, or by electronic means, at an address nominated by the person or, if no such address has been nominated, at the person's last known postal address or place of residence or business.
+  (b) by post addressed to that person, or by electronic means, at an address nominated by the person or, if no such address has been nominated, at the person's last known postal address or place of residence or business.
 (2) Information required to be disclosed to, and any notice or application required to be given to or served on, a defendant under this Act may, if the defendant is represented by counsel, be given by any of the methods described in subsection (1) to the defendant's counsel.
-(3) If information or a notice or application is posted to any person (whether physically or by electronic means), it will be treated as having been received by that person not later than 3 working days after the date on which it was posted, unless the person proves that, otherwise than through fault on the person's part, it was not so received.
+(3) Unless a person proves that, otherwise than through fault on the person’s part, it was not received, if information, a notice, or an application is sent—
+  (a) by post, it will be treated as having been received by the person 5 working days after the day it is posted:
+  (b) electronically, to a valid address,—
+    (i) on a working day on or before 5 pm, it will be treated as having been received on that working day:
+    (ii) after 5 pm on a working day or at any time on a non-working day, it will be treated as having been received on the next working day.
 (4) Information required to be disclosed under this Act may be disclosed in whatever form (including electronically) that the person disclosing the information holds it in at the time the obligation to disclose arises and that is readily accessible to the defendant.
 
 ### 11 Exercise of defendant's rights and duties by defendant's counsel
@@ -375,6 +379,9 @@ If a defendant makes an application in accordance with section 24, the court may
     (i) the High Court; or
     (ii) the District Court in a proceeding for a category 3 offence after the defendant elected a jury trial:
   (b) may, in any other case, be made to the High Court with the leave of that court.
+(3A) For the purposes of subsection (3), if a defendant elected a jury trial but subsequently withdrew his or her election before trial,—
+  (a) the defendant must be treated as if he or she had not elected a jury trial; but
+  (b) any appeal commenced before the date on which the defendant withdrew his or her election must be determined by the appeal court that had jurisdiction to determine the appeal at the time it was commenced.
 (4) Subpart 2 of Part 6 of the Criminal Procedure Act 2011 applies to an appeal under this section with any necessary modifications.
 (5) Despite subpart 2 of Part 6 of the Criminal Procedure Act 2011,—
   (a) a notice of application for leave to appeal to the High Court must be filed within 3 working days after the date of the decision to which the appeal relates:
