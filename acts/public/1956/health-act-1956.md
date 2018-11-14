@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-14_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -543,7 +543,7 @@ A local authority may make advances to any owner upon whom an order or notice is
 
 ### 54 Restrictions on carrying on offensive trade
 (1) No person shall establish any offensive trade within the district of any local authority, or erect or extend any premises for the purposes of or in connection with any offensive trade, except with the prior consent in writing of the local authority and of the medical officer of health and subject to such conditions as the local authority or the medical officer of health may impose. For the purposes of this subsection a person who recommences an offensive trade in any premises after not less than 2 years' disuse of those premises for the purposes of any such trade shall be deemed to establish an offensive trade.
-(2) Where any local authority consents to the establishment of any offensive trade under this section, and the premises or proposed premises on which the offensive trade is to be carried on are or will be situated within 8 kilometres of any part of the boundary of the district of any other local authority, the consenting local authority shall forthwith give notice in writing to that other local authority of the fact that the consent has been given. In any such case, the consent shall not take effect until after the expiry of 3 months from the date of the notice or, if within that period that other local authority gives notice of appeal under section 55, until the appeal is heard and the consent is confirmed by the Board of Appeal:
+(2) Where any local authority consents to the establishment of any offensive trade under this section, and the premises or proposed premises on which the offensive trade is to be carried on are or will be situated within 8 kilometres of any part of the boundary of the district of any other local authority, the consenting local authority shall forthwith give notice in writing to that other local authority of the fact that the consent has been given. In any such case, the consent shall not take effect until after the expiry of 3 months from the date of the notice or, if within that period that other local authority gives notice of appeal under section 55, until the appeal is heard and the consent is confirmed by the District Court:
   provided that if within the said period of 3 months that other local authority notifies the consenting local authority that it does not intend to appeal against the consent, the consent shall thereupon take effect.
 (3) No person shall carry on any offensive trade except on premises for the time being registered by the local authority in accordance with regulations made under this Act.
 (4) No person shall carry on any offensive trade established in contravention of subsection (1), or carry on any offensive trade in any premises erected or extended in contravention of that subsection.
@@ -551,9 +551,13 @@ A local authority may make advances to any owner upon whom an order or notice is
 (6) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
 (7) Nothing in this section relating to local authorities (including consents and registration) shall apply to any offensive trade where a resource consent for that activity has been granted under the Resource Management Act 1991.
 
-### 55 Appeal against decision of local authority or medical officer of health
-(1) Any person who is aggrieved by the refusal of any local authority or of the medical officer of health to consent to the establishment of any offensive trade or to the erection or extension of any premises, or by the refusal of any local authority to register or renew the registration of any premises, under section 54, may, within 3 months after being notified of the refusal, give notice of appeal, in writing, to the Minister, who shall take all steps necessary to constitute a board of appeal under section 124, and the provisions of that section shall apply accordingly. One of the assessors under that section shall be appointed on the recommendation of the local authority or, as the case may require, the Director-General, and the other on the recommendation of the appellant.
-(2) Where any local authority consents to the establishment of any offensive trade under section 54, and the premises or proposed premises on which the offensive trade is to be carried on are or will be situated within 8 kilometres of any part of the boundary of the district of any other local authority, that other local authority may, within 3 months after the date of the notice given to it under subsection (2) of that section, give notice of appeal, in writing, to the Minister, who shall take all steps necessary to constitute a board of appeal under section 124, and the provisions of that section shall apply accordingly. One of the assessors under that section shall be appointed on the recommendation of the consenting local authority and the other on the recommendation of the appellant.
+### 55 Appeal against decision refusing consent for offensive trade or refusing registration of premises for offensive trade
+(1) This section applies if—
+  (a) consent to establish, or to erect or extend premises for, an offensive trade under section 54(1) is refused by a local authority or the medical officer of health; or
+  (b) a local authority refuses to register or renew the registration of premises for an offensive trade under section 54(5).
+(2) A person who is refused consent, or registration or renewal of registration, may appeal to the District Court.
+(3) If a local authority consents to the establishment of an offensive trade that will be located within 8 kilometres of the boundary of the district of any other local authority, that other local authority may appeal the decision to the District Court.
+(4) An appeal under this section must be brought within 3 months after the date on which the person or the other local authority is notified of the decision.
 
 ### 56 Local authority to notify medical officer of health of registered chemical works
 [Repealed]
@@ -572,8 +576,12 @@ A local authority may make advances to any owner upon whom an order or notice is
 (4) Every person who acts in contravention of or fails to comply in any respect with any provision of this section or any condition prescribed under this section commits an offence and is liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day on which the offence has continued.
 (5) For the purposes of this section, the expression stock saleyard means any premises used or intended to be used as a saleyard for cattle, horses, sheep, swine, or goats.
 
-### 59 Appeal against decision of local authority or medical officer of health
-Any person who is aggrieved by the refusal of any local authority or of the medical officer of health to consent to the establishment or extension of any stock saleyard, or by the refusal of any local authority to register or renew the registration of any premises, under section 58 may, within 3 months after being notified of the refusal, give notice of appeal, in writing, to the Minister, who shall take all steps necessary to constitute a board of appeal under section 124, and the provisions of that section shall apply accordingly. One of the assessors under that section shall be appointed on the recommendation of the local authority or, as the case may require, the Director-General, and the other on the recommendation of the appellant.
+### 59 Appeal against decision refusing consent for stock saleyard or refusing registration of premises for stock saleyard
+(1) This section applies if—
+  (a) consent to establish or extend a stock saleyard under section 58(1) is refused by a local authority or the medical officer of health; or
+  (b) registration or renewal of registration of premises for a stock saleyard under section 58(3) is refused by a local authority.
+(2) A person who is refused consent, or registration or renewal of registration, may appeal to the District Court.
+(3) An appeal under this section must be brought within 3 months after the date on which the person is notified of the decision.
 
 **Pollution of watercourses, etc**
 
@@ -3271,16 +3279,7 @@ Regulations made under this Act may provide for all or any of the following matt
 The Minister may apply to the High Court for a writ of mandamus to compel a local authority to perform any duty that the local authority has failed to perform under this Act.
 
 ### 124 Constitution and powers of boards of appeal
-(1) Every board of appeal under this Act shall consist of a District Court Judge, who shall be the chairman of the board, and 2 assessors.
-(2) Subject to the provisions of this Act, the assessors shall be appointed by the Minister.
-(3) No member or officer of any local authority or of the Ministry shall be appointed to be an assessor.
-(4) The board of appeal may allow or dismiss any appeal wholly or in part, and may make such modifications in any requisition, determination, decision, or condition appealed against as it thinks fit, and may make or impose any new determination, decision, or condition in substitution for or in addition to the one appealed against.
-(5) The decision of not less than 2 members of the board of appeal (including the chairman) shall be the decision of that board, and that decision shall be final.
-(6) The board of appeal shall, within the scope of its jurisdiction, be deemed to be a commission under the Commissions of Inquiry Act 1908, and, subject to the provisions of this Act, all the provisions of that Act shall apply accordingly.
-(7) The chairman of the board of appeal may exercise the powers of the board in respect of summoning witnesses, and may do any other act preliminary or incidental to the hearing or consideration of any matter by the board.
-(8) The board of appeal may regulate its own procedure:
-  provided that no meeting of the board shall be held unless all the members of the board are present.
-(9) There shall be paid to the assessors out of money appropriated by Parliament for the purpose remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the assessors were members of a statutory board within the meaning of that Act.
+[Repealed]
 
 ### 125 Medical examination of children
 (1) In this section—
