@@ -1,7 +1,7 @@
 # Courts Security Act 1999
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-14_
 
-> An Act to provide for—athe security of courts; andbthe safety of the public and others who access and use the courts
+> An Act to provide for—athe security of courts and tribunals; andbthe safety of the public and others who access and use courts and tribunals; and(c)the promotion of the orderly operation of courts and tribunals
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Courts Security Act 1999.
@@ -25,24 +25,8 @@ In this Act, unless the context otherwise requires,—
     (b) the number of a section of this Act; or
     (c) the words used in this Act to describe a power or duty of a court security officer
   - **Judge** means—
-    (a) the Chief Justice of New Zealand:
-    (aa) any other Judge of the Supreme Court:
-    (b) the President of the Court of Appeal:
-    (c) any other Judge of the Court of Appeal:
-    (d) any other Judge of the High Court:
-    (e) the Chief District Court Judge:
-    (f) the Principal Family Court Judge:
-    (g) the Principal Youth Court Judge:
-    (h) the Principal Environment Judge:
-    (i) any other District Court Judge (including a Family Court Judge, a Youth Court Judge, an Environment Judge, and an alternate Environment Judge):
-    (j) the Chief Judge of the Maori Land Court:
-    (k) the Deputy Chief Judge of the Maori Land Court:
-    (l) any other Judge of the Maori Land Court:
-    (m) any Judge of the Court Martial Appeal Court:
-    (n) any Associate Judge of the High Court:
-    (o) any member of the Waitangi Tribunal:
-    (p) any Environment Commissioner:
-    (q) any officer, specified in regulations made under section 36, who presides over a body declared to be a body to which this Act applies by regulations made under section 36
+    (a) a Judge, including an Associate Judge, or member of any court or tribunal specified in section 3:
+    (b) a person who presides over, or is a member of, a body for the time being declared by regulations to be a court or tribunal for the purposes of this Act
   - **Minister** means the Minister of the Crown who is for the time being responsible for the administration of this Act, under the authority of any warrant or with the authority of the Prime Minister
   - **Police officer** means a constable
   - **presiding judicial officer** means any of the following persons who is presiding over proceedings:
@@ -52,14 +36,23 @@ In this Act, unless the context otherwise requires,—
     (d) a registrar or deputy registrar of a court:
     (e) a coroner:
     (f) the Principal Disputes Referee, or a referee, holding office under the Disputes Tribunal Act 1988:
-    (g) the Principal Tenancy Adjudicator, or a tenancy adjudicator, holding office under the Residential Tenancies Act 1986
+    (g) the Principal Tenancy Adjudicator, or a tenancy adjudicator, holding office under the Residential Tenancies Act 1986:
+    (h) a member of a body described in section 3(5)﻿(l)
   - **scanner search** means a search of a person or of property by means of equipment that does not require the touching of the person or the property
   - **specified offence** —
-    (a) means an offence under any of—
-      (i) sections 87, 121, 167 to 177, 188 to 194, 196 to 199, 202A, 202C, 305, or 306 of the Crimes Act 1961; or
-      (ii) sections 9, 13, or 13A of the Summary Offences Act 1981; or
-      (iii) section 45 of the Arms Act 1983; and
-    (b) includes an attempt to commit an offence specified in paragraph (a).
+    (a) means—
+      (i) an offence under any of—
+        (A) sections 87, 121, 167, 168, 171 to 177, 188 to 194, 196 to 199, 202A, 202C, and 306 of the Crimes Act 1961; and
+        (B) sections 3, 9, 11, 11A, 11B, 13, and 13A of the Summary Offences Act 1981; and
+        (C) sections 45 and 46 of the Arms Act 1983; and
+        (D) sections 7 and 13 of the Misuse of Drugs Act 1975; and
+      (ii) any other offence committed within a court that a court security officer believes on reasonable grounds—
+        (A) threatens the safety or security of another person or that person’s property; or
+        (B) may cause serious damage to the court; and
+    (b) includes an attempt to commit an offence specified in paragraph (a)
+  - **tribunal** means a body that—
+    (a) exercises judicial or quasi-judicial functions; and
+    (b) is, for the time being, designated by regulations as a tribunal for the purposes of this Act.
 
 ### 3 Meaning of court and courtroom
 (1) Court means—
@@ -67,17 +60,21 @@ In this Act, unless the context otherwise requires,—
   (b) each area described in subsection (4).
 (2) In this Act, courtroom means the place in which proceedings before a body listed in subsection (5) are heard, subject to the following:
   (a) if the place is usually a place in which such proceedings are heard, it is a courtroom whether or not such proceedings are being heard:
-  (b) if the place is not usually a place in which such proceedings are heard, it is a courtroom only on a day when such proceedings are scheduled to be heard, before the proceedings are heard and while they are being heard.
+  (b) if the place is not usually a place in which such proceedings are heard, it is a courtroom only on a day when such proceedings are scheduled to be heard, before the proceedings are heard, while they are being heard, and shortly after they finish being heard.
 (3) For the purposes of subsection (1)﻿(a), the area is—
   (a) each courtroom of each of the bodies listed in subsection (5); and
   (b) if the courtroom is located in a building,—
     (i) that part of the building associated with the servicing of the courtroom, including, for example, a foyer or a waiting area; and
+    (ia) every other part of the building (including any cells) that is being used for services relating to the court; and
     (ii) the grounds immediately adjacent to the building and either belonging to the building or servicing the building; and
+    (iia) if the building is adjacent to a road, any footpath or other area between the building and the road; and
     (iii) any car parking area in the building or in the grounds.
 (4) For the purposes of subsection (1)﻿(b), the area is—
-  (a) each set of Judge's chambers of each of the bodies listed in subsection (5)﻿(a) to (h); and
+  (a) each set of Judge's chambers of each of the bodies listed in subsection (5)﻿(aa) to (h); and
   (b) that part of the building in which each set of Judge's chambers is located that is associated with the servicing of the Judge's chambers, including, for example, a foyer or a waiting area; and
+  (ba) any other part of the building (including any cells) that is used for services relating to judicial or quasi-judicial functions; and
   (c) the grounds immediately adjacent to the building and either belonging to the building or servicing the building; and
+  (ca) if the building is adjacent to a road, any footpath or other area between the building and the road; and
   (d) any car parking area in the building or in the grounds.
 (5) The bodies are—
   (aa) the Supreme Court:
@@ -89,13 +86,14 @@ In this Act, unless the context otherwise requires,—
     (ii) the Family Court:
     (iii) the Youth Court:
   (e) the Environment Court:
+  (ea) the Employment Court:
   (f) the Maori Appellate Court:
   (g) the Maori Land Court:
   (h) the Court Martial Appeal Court:
   (i) the Waitangi Tribunal:
   (j) the Tenancy Tribunal:
   (k) a coroner:
-  (l) every court or tribunal declared by regulations made under section 36 to be a body to which this Act applies:
+  (l) every court, tribunal, and other constituted dispute-resolution body that conducts proceedings in a building that also accommodates a court or tribunal listed in this subsection or is designated by regulations as a court or tribunal to which this Act applies:
   (m) every place described in regulations made under section 36, and declared by the regulations to be a body to which this Act applies, for the period specified in the regulations.
 
 **Provision of court security officers**
@@ -198,6 +196,13 @@ The chief executive may agree to an extension of the term of a court security co
 (4) This subsection applies if the court security officer has no reasonable grounds to believe that the person may recently have committed a specified offence in the court or in an area immediately adjacent to it or may be about to commit such an offence. The court security officer may deny entry to, or remove, the person.
 (5) This subsection applies if the court security officer has reasonable grounds to believe that the person may recently have committed a specified offence in the court or in an area immediately adjacent to it or may be about to commit such an offence. The court security officer may exercise the powers in section 20.
 (6) Sections 24 to 29 set out limits on the powers in this section.
+(7) This section is subject to section 15A.
+
+### 15A Removal or disposal of alcohol
+(1) A court security officer may—
+  (a) require a person who brings alcohol into a court to remove it from the court:
+  (b) seize and dispose of the alcohol if the person who is required to remove it refuses or fails to do so promptly.
+(2) Sections 24 to 29 set out limits on the powers in subsection (1).
 
 ### 16 Power to seize detected items
 (1) This section applies if—
@@ -215,6 +220,9 @@ The chief executive may agree to an extension of the term of a court security co
 (2) A court security officer may ask the person to leave the item with a court security officer to be returned when the person leaves the court.
 (3) A court security officer may exercise the power in subsection (2) immediately after the item is handed over, but no later.
 (4) A court security officer may deny entry to, or remove, a person who does not comply with a request under subsection (2).
+(4A) If a person has left an item with a court security officer in compliance with a request under subsection (2),—
+  (a) the person may claim the item when leaving the court or at any time within 10 working days of leaving the item; and
+  (b) a court security officer may dispose of the item if it has not been claimed within 10 working days.
 (5) Sections 24 to 29 set out limits on the powers in this section.
 
 ### 18 Duty of court security officer relating to taking of items into temporary custody
@@ -366,17 +374,17 @@ A court security officer who exercises any of the powers or duties in sections 1
 Every Police officer has and may exercise all or any of the powers and duties given to a court security officer by this Act.
 
 ### 35 Powers of other persons not affected
-(1) The powers in this Act are in addition to, and do not derogate from, any other powers given to or possessed by any court, judge, or person relating to—
+(1) The powers in this Act are in addition to, and do not derogate from, any other powers given to or possessed by any court, Judge or other presiding judicial officer, or person relating to—
   (a) the conduct of proceedings in a courtroom or the regulation of the conduct of persons in a courtroom; or
   (b) the maintenance of security elsewhere in a court.
-(2) Nothing in this Act affects any other power of a court or tribunal in relation to contempt of court or of a tribunal or any other similar power.
+(2) Nothing in this Act affects any other power of a court in relation to contempt of court or any other similar power.
 
 **Regulations**
 
 ### 36 Regulations
 The Governor-General may, from time to time, by Order in Council, make regulations—
   (a) declaring a specified court or tribunal to be a body to which this Act applies:
-  (b) specifying the title of the officer who presides over a body declared under paragraph (a) to be a body to which this Act applies:
+  (b)
   (c) declaring any place described in the regulations to be a body to which this Act applies, either generally or for a specified period:
   (d) defining precisely the boundaries of a body to which this Act applies:
-  (e) prescribing individual persons, or classes of persons, to whom sections 12 to 23 do not apply.
+  (e)
