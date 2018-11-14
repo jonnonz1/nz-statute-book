@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -407,7 +407,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 (2) In accordance with section 355 of the Criminal Procedure Act 2011, the District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
 (3) Despite section 168(1) and (2) of the Criminal Procedure Act 2011, a decision to remand a person in custody or on bail may be made only by a Judge.
 (4)
-(5) Section 169 of the Criminal Procedure Act 2011 and sections 27, 30 to 33, 35, 37 to 39, 44, 45, and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under section 46 or section 49.
+(5) Section 169 of the Criminal Procedure Act 2011 and sections 27, 30 to 33, 35, 37 to 39, 41 to 43 and 52 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under section 46 or section 49.
 (6) To avoid doubt, if an application is made for the variation of conditions of bail of a person who is detained under section 46 or section 49, the procedure in section 40(1) and (2) applies.
 
 ### 42 Detention in place other than prison
