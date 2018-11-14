@@ -1,5 +1,5 @@
 # Victims' Orders Against Violent Offenders Act 2014
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Victims' Orders Against Violent Offenders Act 2014.
@@ -241,6 +241,41 @@ If, pursuant to section 19, the offender notifies the court that he or she wishe
 (3) An offender or associate who is convicted of an offence against this section is liable to—
   (a) imprisonment for a term not exceeding 2 years; or
   (b) a fine not exceeding $5,000.
+
+**Power to clear court and restrict publication of proceedings**
+
+### 24A Power to clear court and restrict publication of proceedings
+(1) If, in any proceedings under this Act, the court is of the opinion that it is desirable to do so, after having regard to the interests of any person (including, without limitation, the privacy of the applicant) and to the public interest, the court may make 1 or more of the following orders:
+  (a) an order forbidding publication of any report or account of the whole or any part of—
+    (i) the evidence adduced:
+    (ii) the submissions made:
+  (b) an order forbidding the publication of—
+    (i) the name of any person, or any name or particulars likely to lead to the identification of that person:
+    (ii) the affairs of any person:
+  (c) an order excluding all or any persons other than the parties to the proceedings, any lawyer engaged in the proceedings, and any officer of the court from the whole or any part of the proceedings.
+(2) The court may make an order under this section on its own motion or on the application of any party to the proceedings.
+(3) Every application to the court for an order under this section may be heard in open court or in chambers.
+(4) An order made under subsection (1)﻿(a) or (b)—
+  (a) may be made for a limited period or permanently; and
+  (b) if it is made for a limited period, may be renewed for a further period or periods by the court under section 24B; and
+  (c) if it is made permanently, may be reviewed by the court at any time under section 24B.
+(5) Nothing in this section limits or restricts any other power of the court—
+  (a) to prohibit or restrict the publication of reports or particulars relating to proceedings; or
+  (b) to hear proceedings in private or to exclude any person from the court.
+
+### 24B Application for renewal or review of order made under section 24A
+(1) If the court makes an order under section 24A(1)﻿(a) or (b), any person may at any time apply to the court—
+  (a) for a renewal of the order, if the order was made for a limited time:
+  (b) for a review of the order, if the order was made permanently.
+(2) An application may be made under subsection (1) by any person who was a party to the proceedings in which the order was made or by any other person.
+(3) After considering an application under this section, the court may renew, revoke, vary, or continue the order as it thinks fit.
+
+### 24C Contravention of orders made under section 24A
+(1) A person commits an offence if the person breaches any order made under section 24A(1)﻿(a) or (b) or evades or attempts to evade any such order.
+(2) A person who commits an offence against subsection (1) is liable on conviction,—
+  (a) in the case of an individual, to a fine not exceeding $1,000:
+  (b) in the case of a body corporate, to a fine not exceeding $5,000.
+(3) The breach of any order made under section 24A(1)﻿(c), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
 
 **Miscellaneous matters**
 
