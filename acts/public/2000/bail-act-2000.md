@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -307,7 +307,7 @@ A court may, having regard to the interests of the defendant or any other person
 [Repealed]
 
 ### 26 Breach of condition of Police bail
-Sections 39, 51, and 52 apply, with any necessary modifications, to a defendant who has been released on Police bail granted under section 21 and who fails to comply with any condition of that bail.
+Sections 39 and 54A apply, with any necessary modifications, to a defendant who has been released on Police bail granted under section 21 and who fails to comply with any condition of that bail.
 
 ## Part 3 — Court bail
 
@@ -602,44 +602,30 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
 ### 32 Warrant of deliverance
 [Repealed]
 
-### 33 Variation of conditions of bail in District Court
-(1) If the proceeding for the offence with which the defendant has been charged is in the District Court, the court may,—
-  (a) on the application of the defendant or the prosecutor, make an order varying or revoking any condition of bail or substituting any other condition of bail; and
+### 33 Variation of conditions of bail
+(1) The court for the time being having jurisdiction in the proceeding for an offence with which a defendant has been charged may,—
+  (a) on the application of the defendant or the prosecutor, make an order varying or revoking any condition of bail or substituting or imposing any other condition of bail; and
   (b) on the application of an EM assessor, make an order varying the EM address.
-(1A) However, in the case of the variation of an EM condition, the court may only make the following orders under subsection (1)﻿(a) in relation to that EM condition:
+(2) However, in the case of the variation of an EM condition, the only orders the court may make under subsection (1)﻿(a) in relation to that EM condition are—
   (a) an order authorising absence from the EM address:
   (b) an order varying or revoking any existing authorisation of absence from the EM address:
   (c) an order varying the EM address.
-(1B) If the court makes an order under subsection (1) in relation to an EM condition, sections 30A to 30S apply to the extent necessary and with the necessary modifications.
-(2) If the proceedings for the offence with which the defendant is charged are transferred to the High Court, any application for an order varying or revoking any condition of bail or substituting or imposing any other condition of bail must be made to the court to which the proceedings have been transferred.
-(3) A Registrar may exercise the power conferred by subsection (1) to make an order if the prosecutor agrees.
-(4) If a court or Registrar has, in granting bail to any defendant, imposed the condition that the defendant report to the Police at such time or times and at such place or places as the court or Registrar orders, any Registrar may, on the application of the defendant, make an order varying the time or times or the place or places at which the defendant is required to so report.
-(5) If the District Court or a Registrar varies or revokes any condition of bail or substitutes or imposes any other condition of bail under subsection (1), the following provisions apply:
-  (a) if the defendant is present at the court, the Registrar must—
-    (i) as soon as is reasonably practicable prepare a new notice of bail setting out the conditions of bail as amended (if any); and
-    (ii) be satisfied that the defendant understands the conditions of bail; and
-    (iii) require the defendant to authenticate the notice of bail:
-  (b) if the defendant is not present at the court, the Registrar must send written notice to the defendant requiring the defendant to attend at a specified time and place for the execution of a fresh notice of bail containing the conditions as amended (if any).
-(6) If, in any case to which subsection (5) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to authenticate a fresh notice of bail, the Registrar or a District Court Judge may issue a warrant for the arrest of the defendant.
+(3) If the court makes an order under subsection (1) in relation to an EM condition, sections 30A to 30S apply to the extent necessary and with the necessary modifications.
+(4) No application may be made under subsection (1) or (6) in respect of a bail bond that has been entered in any case where sureties are required, unless the sureties to the bail bond have consented to the making of the application.
+(5) A Registrar may exercise the power conferred by subsection (1) to make an order if—
+  (a) the court for the time being having jurisdiction in the proceeding for an offence is the District Court; and
+  (b) the prosecutor agrees.
+(6) If a court or Registrar has, in granting bail to any defendant, imposed the condition that the defendant report to the Police at such time or times and at such place or places as the court or Registrar orders, a Registrar may, on the application of the defendant, make an order varying the time or times or the place or places at which the defendant is required to so report.
 
-### 34 Variation of conditions of bail in High Court, Court of Appeal, or Supreme Court
-(1) Subject to subsection (3), if a defendant is granted bail in any proceeding to which section 33(1) does not apply, a High Court Judge may,—
-  (a) on the application of the prosecutor or the defendant, make an order varying or revoking any condition of bail or substituting or imposing any other condition of bail; and
-  (b) on the application of an EM assessor, make an order varying the EM address.
-(1A) However, in the case of the variation of an EM condition, a High Court Judge may only make the following orders under subsection (1)﻿(a) in relation to that EM condition:
-  (a) an order authorising absence from the EM address:
-  (b) an order varying or revoking any existing authorisation of absence from the EM address:
-  (c) an order varying the EM address.
-(1B) If a High Court Judge makes an order under subsection (1), in relation to an EM condition, sections 30A to 30S apply to the extent necessary and with the necessary modifications.
-(2) Subject to subsection (3), if a court or Registrar has, in granting bail to a defendant, imposed the condition that the defendant report to the Police at such times and at such place or places as the court or Registrar orders, any Registrar may, on the application of the defendant, make an order varying the time or times or the place or places at which the defendant is required to report.
-(3) No application may be made under subsection (1) or (2) in respect of a bail bond that has been entered into in any case where sureties are required, unless the sureties to the bail bond have consented to the making of the application.
-(4) If a court varies or revokes any condition of bail or substitutes or imposes any other condition of bail under subsection (1), the following provisions apply:
-  (a) if the defendant is present at the court, the Registrar must—
-    (i) as soon as is reasonably practicable prepare a new bail bond setting out the conditions of bail as amended (if any); and
-    (ii) satisfy himself or herself that the defendant granted bail understands the conditions of bail; and
-    (iii) require the defendant to authenticate the bail bond:
-  (b) if the defendant is not present at the court, the Registrar of the court that varied or revoked or substituted or imposed the condition must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh bail bond containing the conditions as amended (if any).
-(5) If, in any case to which subsection (4) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a Judge, who may issue a warrant for the arrest of the defendant.
+### 34 Consequences of variation of conditions of bail
+(1) If a court or Registrar varies or revokes any condition of bail or substitutes or imposes any other condition of bail under section 33(1), the following provisions apply:
+  (a) if the defendant is present at the court, a Registrar must,—
+    (i) as soon as is reasonably practicable, prepare a new notice of bail or bail bond (whichever is applicable) setting out the conditions of bail as amended (if any); and
+    (ii) be satisfied that the defendant understands the conditions of bail; and
+    (iii) require the defendant to authenticate the notice of bail or bail bond:
+  (b) if the defendant is not present at the court, a Registrar must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh notice of bail or bail bond that contains the conditions as amended (if any).
+(2) If, in any case to which subsection (1) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to authenticate a fresh notice of bail or bail bond, the Registrar of the office of the court at the place where the condition of bail was varied or revoked or substituted or imposed must refer the matter to a Judge, who may issue a warrant for the arrest of the defendant.
+(3) A Registrar may exercise the power under subsection (2) to issue a warrant to arrest the defendant if the court for the time being having jurisdiction in the proceeding for an offence is the District Court.
 
 ### 34A Surrender of defendant on bail with EM condition
 (1) A defendant on bail with an EM condition—
@@ -741,150 +727,92 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
     (i) go to and remain at the home detention residence (as defined in section 4 of that Act) at the expiry of the period of deferral specified by the court, unless absent in accordance with section 80C(3)﻿(a) or (b) of that Act; and
     (ii) advise a probation officer as soon as possible of any change in circumstances affecting the availability or suitability of the home detention residence; or
   (b) if the sentence is deferred under section 100 of the Sentencing Act 2002, surrender himself or herself to the prison manager of the prison concerned at the expiry of the period of deferral specified by the court.
-(4) The provisions of sections 30 to 39, and 44 to 52, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail.
-(5) If any decision is made by the District Court under section 33(1) (as applied by subsection (4)) in respect of an offender, the provisions of section 44(3) to (6) and section 45, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
-(6) If any decision is made by the High Court under section 34(1) (as applied by subsection (4)) in respect of an offender, the provisions of sections 47 and 48, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
+(4) The provisions of sections 30 to 39, and 41 to 44, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant who had been granted bail.
+(5) If any decision is made by the District Court or the High Court under section 33(1) (as applied by subsection (4)) in respect of an offender, the provisions of sections 41 to 43, as far as they are applicable and with all necessary modifications, apply as if the offender were a defendant granted bail.
+(6)
 
 ### Subpart Subpart 3 — Appeals on question of bail
 
 **Appeals from decisions of Justices or Community Magistrates**
 
-### 41 Appeals from decisions of Justices or Community Magistrates relating to bail
-(1) If a Justice or Justices or a Community Magistrate or Community Magistrates refuse to grant bail to a defendant (whether before or after conviction), the defendant may appeal to the District Court presided over by a District Court Judge against that refusal.
-(2) If a Justice or Justices or a Community Magistrate or Community Magistrates grant bail to a defendant (whether before or after conviction), the prosecutor may appeal to the District Court presided over by a District Court Judge against that decision.
-(3) Subsection (4) applies if, in respect of any grant of bail to a defendant (whether before or after conviction),—
-  (a) a Justice or Justices or a Community Magistrate or Community Magistrates have imposed any condition of bail, or have refused to impose any condition of bail, or any particular condition of bail; or
-  (b) a Justice or Justices or a Community Magistrate or Community Magistrates have, on an application made under section 33(1), made an order varying or revoking any condition of bail or substituting or imposing any other condition of bail, or refused to make such an order.
-(4) The defendant or the prosecutor may appeal to the District Court presided over by a District Court Judge against the imposition of that condition of bail or, as the case may be, against that refusal or against the decision in respect of that application.
-(5) For the purposes of an appeal under this section, the failure of a Justice or Justices or a Community Magistrate or Community Magistrates to impose any condition of bail, or any particular condition of bail, on any occasion on which the condition could lawfully have been imposed is deemed to be a refusal to impose the condition.
-(6) No person may seek bail in the High Court under that court's inherent jurisdiction—
-  (a) who has been refused bail by a Justice or Justices or a Community Magistrate or Community Magistrates; or
-  (b) in respect of whom a Justice or Justices or a Community Magistrate or Community Magistrates have imposed any condition of bail or refused to impose any condition of bail, or any particular condition of bail.
-(7) An appeal under this section is by way of rehearing.
+### 41 Interpretation
+In this subpart, unless the context otherwise requires, appeal court means,—
+  (a) if a decision of a Justice or Justices or a Community Magistrate or Community Magistrates is appealed against, the District Court presided over by a District Court Judge:
+  (b) if a decision of a District Court Judge is appealed against, the High Court:
+  (c) if a decision of the High Court is appealed against, the Court of Appeal:
+  (d) if a decision of the Court of Appeal is appealed against, the Supreme Court.
 
-### 42 Procedure relating to appeal under section 41
-(1) Sections 273 to 275 and subpart 12 of Part 6 of the Criminal Procedure Act 2011 apply to an appeal under section 41 as if the appeal were a first appeal against a decision on a costs order.
-(2) Despite any other enactment or rule of law, on the hearing of the appeal it is not necessary to produce—
-  (a) any note or transcript of the evidence adduced to the District Court; or
+### 42 Appeal against decision relating to bail
+(1) If a court refuses to grant bail to a defendant (whether before or after conviction and whether under any enactment or rule of law or otherwise), the defendant may appeal to the appeal court against that decision.
+(2) If a court grants bail to a defendant (whether before or after conviction and whether under any enactment or rule of law or otherwise), the prosecutor may appeal to the appeal court against that decision.
+(3) If a court imposes, or refuses to impose, any condition of bail, or makes or refuses to make an order under section 33 varying or revoking any condition of bail or substituting or imposing any other condition of bail, the defendant or the prosecutor may appeal to the appeal court against that decision.
+(4) For the purposes of an appeal under this section, the failure to impose a condition of bail on any occasion on which the condition could lawfully be imposed is deemed to be a refusal to impose the condition.
+(5) No person may seek bail in the High Court under that court’s inherent jurisdiction if the person has a right of appeal to a District Court Judge under this section.
+(6) An appeal under this section is by way of rehearing.
+
+### 43 Procedure relating to appeal under section 42
+(1) Sections 273 to 275 and subpart 12 of Part 6 of the Criminal Procedure Act 2011 apply to an appeal under section 42 as if the appeal were a first appeal against a decision on a costs order, except that the notice of appeal must be filed within 20 working days after the date of the decision appealed against.
+(2) Despite any other enactment or rule of law, on the hearing of the appeal under section 42, it is not necessary for either party to produce—
+  (a) any note or transcript of the evidence adduced to the court appealed from; or
   (b) any note of the reasons for the decision appealed against; or
   (c) any copy of any note or transcript referred to in paragraph (a) or (b).
-(3) Every decision of the District Court presided over by a District Court Judge on an appeal under section 41 is final.
-(4) No decision appealed against under section 41 is suspended merely because notice of that appeal has been given.
-(5) An appeal under section 41 that is not heard before the date on which the decision appealed against ceases to have any effect—
+(3) Every decision of the appeal court on an appeal under section 42 is final.
+(4) No decision appealed against under section 42 is suspended merely because notice of that appeal has been given.
+(5) An appeal under section 42 that is not heard before the date on which the decision appealed against ceases to have any effect—
   (a) lapses on that date; and
-  (b) is deemed to have been abandoned.
-(6) If, in the case of an appeal under section 41(2), the defendant does not appear at the hearing of the appeal, the District Court presided over by a District Court Judge may, if it thinks fit, issue a warrant for the arrest of the defendant.
-
-### 43 Execution of decision of District Court on appeal relating to bail
-(1) If, on an appeal under section 41, the District Court presided over by a District Court Judge determines that bail should not be granted or, as the case may be, should not be continued, a warrant for the detention of the defendant in custody must be issued out of the District Court.
-(2) The person who executes the warrant must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
-(3) If, on an appeal in respect of any condition of bail, the District Court presided over by a District Court Judge varies or revokes any condition of bail or substitutes or imposes any other condition of bail, the following provisions apply:
-  (a) if the defendant is present at the District Court, the Registrar of the office of the court at the place where the appeal was determined must,—
-    (i) as soon as is reasonably practicable, prepare a new notice of bail setting out the conditions of bail as amended (if any); and
-    (ii) satisfy himself or herself that the defendant understands the conditions of bail; and
-    (iii) require the defendant to authenticate the notice of bail:
-  (b) if the defendant is not present at the District Court, the Registrar of the office of the District Court at the place where the appeal was determined must send written notice to the defendant requiring him or her to attend at a specified time and place for the execution of a fresh notice of bail containing the conditions (if any) required to give effect to the decision on the appeal.
-(4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the office of the District Court at the place where the appeal was determined appealed from must refer the matter to a District Court Judge, who may issue a warrant for the arrest of the defendant.
+  (b) is deemed to be abandoned.
+(6) If the defendant does not appear at the hearing of the appeal under section 42(2), a Judge of the appeal court may, if he or she thinks fit, issue a warrant for the arrest of the defendant.
 
 **Appeals from decisions of District Court Judges**
 
-### 44 Appeal from decision of District Court Judge relating to bail
-(1) If a District Court Judge refuses to grant bail to a defendant (whether before or after conviction), the defendant may appeal to the High Court against that refusal.
-(2) If a District Court Judge grants bail to a defendant (whether before or after conviction), the prosecutor may appeal to the High Court against that decision.
-(3) Subsection (4) applies if, in respect of any grant of bail to a defendant (whether before or after conviction),—
-  (a) a District Court Judge has imposed any condition of bail, or has refused to impose any condition of bail, or any particular condition of bail; or
-  (b) a District Court Judge has, on an application made under section 33(1), made an order varying or revoking any condition of bail or substituting or imposing any other condition of bail, or refused to make such an order.
-(4) The defendant or the prosecutor may appeal to the High Court against the imposition of that condition of bail or, as the case may be, against that refusal or against the decision in respect of that application.
-(5) For the purposes of an appeal under this section, the failure of a District Court Judge to impose any condition of bail, or any particular condition of bail, on any occasion on which the condition could lawfully have been imposed is deemed to be a refusal to impose the condition.
-(6) An appeal under this section is by way of rehearing.
+### 44 Execution of decision of appeal court on appeal relating to bail under section 42
+(1) If, on an appeal under section 42, the appeal court determines that bail should not be granted or, as the case may be, should not be continued, a warrant for the detention of the defendant in custody must be issued by a Judge of the appeal court.
+(2) The person who executes a warrant issued under subsection (1) must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
+(3) If, on an appeal under section 42 against a refusal to grant bail, bail is granted,—
+  (a) the appeal court must order that the defendant be released on bail; and
+  (b) sections 30 and 31 apply.
+(4) If, on an appeal under section 42 in respect of any condition of bail, the appeal court varies or revokes any condition of bail or substitutes or imposes any other condition of bail, the following provisions apply:
+  (a) if the defendant is present at the appeal court, a Registrar must,—
+    (i) as soon as is reasonably practicable, prepare a new notice of bail or bail bond (whichever is applicable) setting out the conditions of bail as amended (if any); and
+    (ii) be satisfied that the defendant understands the conditions of bail; and
+    (iii) require the defendant to authenticate the notice of bail or bail bond:
+  (b) if the defendant is not present at the appeal court, a Registrar of the court appealed from must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh notice of bail or bail bond that contains the conditions as amended (if any) required to give effect to the decision on the appeal.
+(5) If, in any case to which subsection (4) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to authenticate a fresh notice of bail or bail bond, a Judge of the court appealed from may issue a warrant for the arrest of the defendant.
 
 ### 45 Procedure relating to appeal under section 44
-(1) Sections 273 to 275 and subpart 12 of Part 6 of the Criminal Procedure Act 2011 apply to an appeal under section 44 as if the appeal were a first appeal against a decision on a costs order.
-(2) Despite any other enactment or rule of law, on the hearing of an appeal under section 44 it is not necessary to produce—
-  (a) any note or transcript of the evidence adduced to the District Court; or
-  (b) any note of the reasons for the decision appealed against; or
-  (c) any copy of any note or transcript referred to in paragraph (a) or (b).
-(3) Every decision of the High Court on an appeal under section 44 is final.
-(4) No decision appealed against under section 44 is suspended merely because notice of that appeal has been given.
-(5) An appeal under section 44 that is not heard before the date on which the decision appealed against ceases to have any effect—
-  (a) lapses on that date; and
-  (b) is deemed to have been abandoned.
-(6) If, in the case of an appeal under section 44(2), the defendant does not appear at the hearing of the appeal, the High Court may, if it thinks fit, issue a warrant for the arrest of the defendant.
+[Repealed]
 
 ### 46 Execution of decision of High Court on appeal relating to bail
-(1) If, on an appeal under section 44, the High Court determines that bail should not be granted or, as the case may be, should not be continued, a warrant for the detention of the defendant in custody must be issued out of the High Court.
-(2) The person who executes the warrant must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
-(3) If, on an appeal in respect of any condition of bail, the High Court varies or revokes any condition of bail or substitutes or imposes any other condition of bail, the following provisions apply:
-  (a) if the defendant is present at the High Court, the Registrar of the High Court must—
-    (i) as soon as is reasonably practicable, prepare a new notice of bail setting out the conditions of bail as amended (if any); and
-    (ii) satisfy himself or herself that the defendant understands the conditions of bail; and
-    (iii) require the defendant to authenticate the notice of bail:
-  (b) if the defendant is not present at the High Court, the Registrar of the office of the District Court at the place where the decision appealed from was made must send written notice to the defendant requiring him or her to attend at a specified time and place for the execution of a fresh notice of bail containing the conditions (if any) required to give effect to the High Court's decision.
-(4) If, in any case to which subsection (3) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh notice of bail, the Registrar of the office of the District Court at the place where the decision appealed from was made must refer the matter to a District Court Judge who may issue a warrant for the arrest of the defendant.
+[Repealed]
 
 **Appeals from decisions of High Court**
 
 ### 47 Appeal from decision of High Court relating to bail
-(1) Subject to subsection (4), this section applies to any decision made (whether under any enactment or rule of law or otherwise) by a High Court Judge to—
-  (a) grant or refuse bail to a defendant; or
-  (b) impose or substitute or revoke or vary any condition of bail; or
-  (c) refuse to impose any condition of bail or any particular condition of bail; or
-  (d) refuse to vary or revoke any condition of bail.
-(2) Either the prosecutor or the defendant may appeal to the Court of Appeal against any decision to which this section applies.
-(3) For the purposes of an appeal under this section, the failure of a High Court Judge to impose any condition of bail, or any particular condition of bail, on any occasion on which the condition could lawfully have been imposed is deemed to be a refusal to impose the condition.
-(4) Nothing in this section applies in respect of any decision made by a High Court Judge if that decision was made on appeal from any decision of the District Court.
+[Repealed]
 
 ### 48 Procedure relating to appeal under section 47
-(1) A defendant wishing to appeal under section 47 must file notice of appeal with the Registrar of the Court of Appeal within 20 working days after the date of the decision to be appealed against.
-(2) An appeal under section 47 that is not heard before the date on which the decision appealed against ceases to have any effect—
-  (a) lapses on that date; and
-  (b) is deemed to have been abandoned.
-(3) No decision of a High Court Judge appealed against under section 47 is suspended merely because notice of that appeal has been given.
-(4) No decision of a High Court Judge appealed against under section 47 is suspended merely because the defendant has applied for or been given leave to appeal to the Supreme Court against a decision of the Court of Appeal on the appeal under section 47.
-(5) On an appeal under section 47 the Court of Appeal may confirm the decision appealed against, or vary it, or set it aside and make such other order as the Court of Appeal thinks ought to have been made in the first place.
+[Repealed]
 
 ### 49 Execution of decision of Court of Appeal on appeal relating to bail
-(1) If, on an appeal under section 47 against a refusal to grant bail to a defendant, the Court of Appeal determines that bail should be granted, the Court of Appeal must order that the defendant be released on bail, subject to such conditions as the Court of Appeal thinks fit.
-(2) If, on an appeal under section 47 in respect of any condition of bail, the Court of Appeal revokes or amends a condition of bail or substitutes or imposes any other condition, the Registrar of the court whose decision was appealed against must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh bail bond containing the conditions (if any) required to give effect to the Court of Appeal's decision.
-(3) If, in any case to which subsection (2) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a High Court Judge who may issue a warrant for the arrest of the defendant.
-(4) If, on an appeal under section 47 against a grant of bail, the Court of Appeal determines that bail not be granted or, as the case may be, not be continued, a warrant for the detention in custody of the defendant must be issued out of the Court of Appeal.
-(5) The person who executes the warrant under subsection (4) must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
-(6) A defendant to whom subsection (4) applies and who is not in custody may be arrested without warrant by any constable or any officer of a prison.
+[Repealed]
 
 **Appeals from decisions of Court of Appeal on appeal**
 
 ### 50 Execution of decision of Supreme Court on appeal relating to bail
-(1) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 47 against a refusal to grant bail to a defendant, the Supreme Court determines that bail should be granted, the Supreme Court must order that the defendant be released on bail, subject to any conditions the Supreme Court thinks fit.
-(2) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 47 in respect of any condition of bail, the Supreme Court revokes or amends a condition of bail or substitutes or imposes any other condition, the Registrar of the Court whose decision was appealed against must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh bail bond containing the conditions (if any) required to give effect to the Supreme Court's decision.
-(3) If, in any case to which subsection (2) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a High Court Judge who may issue a warrant for the arrest of the defendant.
-(4) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 47 against a refusal to grant bail to a defendant, the Supreme Court determines that bail not be granted or, as the case may be, not be continued, a warrant for the detention in custody of the defendant must be issued out of the Supreme Court.
-(5) The person who executes the warrant under subsection (4) must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
-(6) A defendant to whom subsection (4) applies who is not in custody may be arrested without warrant by any constable or any officer of a prison.
+[Repealed]
 
 **Appeal against entry of non-performance of condition of bail**
 
 ### 51 Appeal against entry by Justice or Community Magistrate of non-performance of condition of bail in court record
-(1) If a Justice or Justices or a Community Magistrate or Community Magistrates direct under section 39 that the non-performance of a bail condition be entered into the court record, the defendant may, within 20 working days of the direction being made, appeal the direction to the District Court presided over by a District Court Judge.
-(2) After considering an appeal under subsection (1), the District Court Judge may order that—
-  (a) the direction stand; or
-  (b) the direction be amended; or
-  (c) the direction be revoked.
-(3) There is no further right of appeal against a direction to enter the non-performance of a condition of bail in the court record than that given by this section.
-(4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
+[Repealed]
 
 ### 52 Appeal against entry by District Court Judge or High Court Judge of non-performance of condition of bail in court record
-(1) If a District Court Judge or High Court Judge directs under section 39 that the non-performance of a bail condition be entered in the court record, the defendant may, within 20 working days of the direction being made, appeal the direction to the High Court or the Court of Appeal, as the case may require.
-(2) After considering an appeal under subsection (1), the High Court or the Court of Appeal may order that—
-  (a) the direction stand; or
-  (b) the direction be amended; or
-  (c) the direction be revoked.
-(3) There is no further right of appeal against a direction to enter the non-performance of a condition of bail in the court record than that given by this section.
-(4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
+[Repealed]
 
 **Issue of warrant for detention in custody**
 
 ### 52A Period for which warrant for detention in custody may be issued
-(1) This section applies to a warrant issued under section 43(1), 46(1), 49(4), or 50(4).
+(1) This section applies to a warrant issued under section 44(1).
 (2) A warrant to which this section applies must be issued for whichever of the following applies:
   (a) for the period of adjournment:
   (b) pending and during the defendant's trial:
@@ -909,30 +837,35 @@ A defendant commits an offence and is liable on conviction to imprisonment for a
   (b) an appellant is not deemed to be subject to a sentence of home detention only under the conviction to which the appeal relates if a direction has been given under section 80B of the Sentencing Act 2002 that another sentence of home detention is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence was imposed.
 (7) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
 
-### 54 Granting of bail to appellant in custody or on home detention pending appeal to High Court
-(1) This section applies if an appellant—
-  (a) is appealing his or her conviction or sentence, or both, to the High Court; and
-  (b) is—
-    (i) in custody; or
-    (ii) in a home detention residence subject to a sentence of home detention.
+### 54 Granting of bail to appellant in custody or on home detention pending appeal to High Court, Court of Appeal, or Supreme Court
+(1) This section applies if a person—
+  (a) is in custody under a conviction or is subject to a sentence of home detention; and
+  (b) is appealing against the conviction or sentence, or both, to the High Court, Court of Appeal, or Supreme Court (as the case requires).
 (2) If the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates, the appellant is bailable at any time before the hearing of the appeal—
-  (a) at the discretion of the District Court Judge who presided over the District Court whose determination is appealed against; or
-  (b) if that District Court Judge is not available, at the discretion of some other District Court Judge.
-(3) Subject to the provisions of section 31 (as applied by subsection (4)), if an appellant is granted bail, the appellant must be released on condition that the appellant attend personally at the High Court on the day on which the appeal is to be heard and on any day to which the hearing may from time to time be adjourned.
-(4) If an appellant is granted bail under this section, the provisions of sections 30 to 33, 35 to 39, and 52, as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
-(5) If an appellant is granted or refused bail under this section, or any decision is made under section 33(1) (as applied by subsection (4)) in respect of any appellant, the provisions of sections 44 and 45, as far as they are applicable and with all necessary modifications, apply as if the appellant were a defendant who had been granted or, as the case may be, refused bail.
+  (a) at the discretion of the Judge who presided over the court whose determination is appealed against (if applicable); or
+  (b) if that Judge is not available,—
+    (i) if the decision was made by a District Court Judge, at the discretion of another District Court Judge; or
+    (ii) if the decision was made by a High Court Judge, at the discretion of another High Court Judge; or
+  (c) at the discretion of the Court of Appeal or Supreme Court (in the case of an appeal to the Court of Appeal or to the Supreme Court).
+(3) Subject to the provisions of section 31 (as applied by subsection (4)), if an appellant is granted bail pending the determination of an appeal by the High Court, the appellant must be released on condition that the appellant attend personally at the High Court on the day on which the appeal is to be heard and on any day to which the hearing may from time to time be adjourned.
+(4) If an appellant is granted bail under this section, the provisions of sections 30 to 33, 35 to 39, and 54A, as far as they are applicable and with any necessary modifications, apply as if the appellant were a defendant remanded in custody who had been granted bail.
+(5) If an appellant is granted or refused bail under this section, or if any decision is made under section 33(1) (as applied by subsection (4)) in respect of any appellant, the provisions of sections 42 and 43, as far as they are applicable and with all necessary modifications, apply as if the appellant were a defendant who had been granted or, as the case may be, refused bail.
 (6) Section 53(6) applies for the purposes of this section.
-(7) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
+(7) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person’s conviction, this section applies to the convicted person as it does to the appellant.
 
-### 55 Granting of bail to appellant in custody or on home detention pending appeal to Court of Appeal or Supreme Court
-(1) This section applies if an appellant—
-  (a) is appealing his or her conviction or sentence, or both, to the Court of Appeal or the Supreme Court; and
-  (b) is—
-    (i) in custody; or
-    (ii) in a home detention residence subject to a sentence of home detention.
-(2) The Court of Appeal or the Supreme Court (as the case may be) or the Judge who presided at the trial in the court below may, if it or the Judge thinks fit, on the application of an appellant and on such terms and subject to such conditions as the court or Judge thinks fit, grant bail to the appellant pending the determination of the appeal, if the appellant is in custody, or is subject to a sentence of home detention, only under the conviction to which the appeal relates.
-(3) If an appeal is filed on a question of law under subpart 8 of Part 6 of the Criminal Procedure Act 2011 and the appeal relates to a person's conviction, this section applies to the convicted person as it does to the appellant.
-(4) Section 53(6) applies for the purposes of this section.
+### 54A Appeal against entry by court of non-performance of condition of bail in court record
+(1) If a court directs, under section 39, that the non-performance of a bail condition be entered into the court record, the defendant may, within 20 working days of the direction being made, appeal against the direction to the appeal court.
+(2) After considering an appeal under subsection (1), the appeal court Judge may order that—
+  (a) the direction stand; or
+  (b) the direction be amended; or
+  (c) the direction be revoked.
+(3) There is no further right of appeal against a direction to enter the non-performance of a condition of bail in the court record than that given by this section.
+(4) No direction appealed against under this section is suspended merely because notice of that appeal has been given.
+
+### 55 When person is in custody or on home detention for purposes of section 54
+For the purposes of section 54,—
+  (a) an appellant is not deemed to be in custody only under the conviction to which the appeal relates if a direction has been given under section 83 of the Sentencing Act 2002 that another sentence or term of imprisonment (a cumulative sentence) is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence or term was imposed; and
+  (b) an appellant is not deemed to be subject to a sentence of home detention only under the conviction to which the appeal relates if a direction has been given under section 80B of the Sentencing Act 2002 that another sentence of home detention is to follow the sentence imposed on that conviction, and the appellant has not appealed against the conviction in respect of which that other sentence was imposed.
 
 ### 56 Appeals on questions of law
 If under section 302(2) of the Criminal Procedure Act 2011 the District Court or the High Court has decided to postpone sentencing a person or deferred the commencement of any sentence imposed, the court may, in accordance with the applicable provisions of this Act and the Criminal Procedure Act 2011,—
@@ -949,6 +882,7 @@ If under section 302(2) of the Criminal Procedure Act 2011 the District Court or
 
 ### 58 Time on bail pending appeal not to be taken as time served
 (1) Section 95 of the Parole Act 2002 applies if an appellant is released on bail pending an appeal.
+(1A) For the purposes of section 343(b) of the Criminal Procedure Act 2011, a sentence of home detention is suspended if an appellant is released on bail and continues to be suspended while the defendant is on bail.
 (2) For the purpose of calculating how much time an offender who is subject to a sentence of home detention has served, time ceases to run on the sentence during any period in which the offender is released on bail pending an appeal.
 
 ### 59 Surrender of appellant released on bail from sentence of imprisonment
