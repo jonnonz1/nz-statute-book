@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -1635,7 +1635,7 @@ When an offender performs any service or does any work or attends any course or 
 (2) For the purposes of any appeal or application for leave to appeal against the substituted sentence, a sentence substituted for a sentence imposed on the conviction of the offender on a charge is deemed to be a sentence imposed on the conviction of the offender on that charge.
 
 ### 80MA Registrar must notify controlling officer and offender of resumption of sentence
-If the outcome of an offender's appeal against a sentence of home detention is unsuccessful and the offender has been granted bail under section 53, 54, or 55 of the Bail Act 2000, the Registrar of the appeal court must—
+If the outcome of an offender's appeal against a sentence of home detention is unsuccessful and the offender has been granted bail under section 53, or 54 of the Bail Act 2000, the Registrar of the appeal court must—
   (a) notify the controlling officer (within the meaning of section 27 of the Corrections Act 2004) of the probation area in which the sentence is to be served of the date on which the sentence is to resume; and
   (b) notify the offender of that date if he or she is not present in court at the time the appeal is disposed of.
 
@@ -1883,7 +1883,7 @@ No period during which a sentence of home detention is suspended under section 8
     (i) a sentence of home detention imposed before or after that commencement; or
     (ii) the conviction on which that sentence is based; or
     (iii) both; and
-  (b) the offender has been granted bail under section 53, 54, or 55 of the Bail Act 2000; and
+  (b) the offender has been granted bail under section 53, or 54 of the Bail Act 2000; and
   (c) the outcome of the appeal is that—
     (i) the appeal is dismissed; or
     (ii) the appeal is deemed pursuant to rules of court to be dismissed; or
@@ -3017,7 +3017,7 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
 (3) Subject to subsection (4), the proceeds of the sale must be applied in the following manner and order of priority:
   (a) if the motor vehicle has been impounded under the Land Transport Act 1998, in paying any impoundment costs:
   (b) in payment of the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale):
-  (c) if 1 or more security agreements have been brought to the notice of the Registrar before the proceeds of sale are fully applied, and have been established to the Registrar's satisfaction, in payment to each secured party of the amount to which the secured party would, but for the extinguishment of the security interest concerned, have been entitled under that agreement:
+  (c) if 1 or more security agreements have been brought to the notice of the Registrar before the proceeds of sale are fully applied, and have been established to the Registrar's satisfaction, in payment to each secured party of the amount to which the secured party would, but for the extinguishment of the security interest concerned, have been entitled under that agreement (and which has not already been recovered):
   (d) in payment of any sentence or order of reparation payable by the offender:
   (e) in payment of any levy payable by the offender under section 105B of this Act:
   (f) in payment of any fine or court costs payable by the offender:
@@ -3120,7 +3120,8 @@ If, under section 129A or 136(4), the court orders a motor vehicle to be confisc
   (a) account to the Registrar for the proceeds of the sale:
   (b) pay into court the proceeds of the sale, less—
     (i) any costs paid under section 141A; and
-    (ii) the amount of the costs and expenses of, and incidental to, the sale.
+    (ii) the amount of the costs and expenses of, and incidental to, the sale; and
+    (iii) the amount to which the secured party would, but for the extinguishment of the security interest concerned, have been entitled under the relevant security agreement (and that has not already been recovered).
 (2) The Registrar must then apply the balance remaining in accordance with section 137(3)﻿(c) to (g) and (3A) with all necessary modifications.
 
 ### 141C Failure by secured party to sell or account for proceeds
