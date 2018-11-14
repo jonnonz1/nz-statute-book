@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
   - **authorised identification** means a form of identification specified in Schedule 2 (as from time to time amended by regulations made under this Act)
   - **buyback contract** means a contract under which a seller sells goods to a buyer on condition that the seller can repurchase the goods at some future date, but at a price greater than the buyer paid for them
   - **certificate** means a certificate of approval issued under section 28
-  - **certified copy** means a copy, certified by the Licensing Authority, of a licence
+  - **certified copy** means a copy, certified by a Licensing Authority, of a licence
   - **contact address** means, in relation to a person, the person’s postal address and also, if the person’s residential address is different from the postal address, the person’s residential address
   - **dispose of** , in relation to goods, includes—
     (a) passing possession of the goods to another person, whether by sale or otherwise; and
@@ -32,7 +32,7 @@ In this Act, unless the context otherwise requires,—
   - **licensed secondhand dealer and pawnbroker** means the holder of a current licence; and—
     (a) licensed secondhand dealer means a secondhand dealer who holds a current licence; and
     (b) licensed pawnbroker means a pawnbroker who holds a current licence
-  - **Licensing Authority** means the Licensing Authority of secondhand dealers and pawnbrokers appointed under section 70; and includes a Deputy Licensing Authority
+  - **Licensing Authority** or means a Licensing Authority of secondhand dealers and pawnbrokers appointed under section 70 and includes a Deputy Licensing Authority appointed under section 71, and the terms , , and have corresponding meanings
   - **pawnbroker** means a person—
     (a) who, in expectation of profit, gain, or reward, lends money on the security of goods of which the person takes possession, but not ownership; and
     (b) who is not a secondhand dealer or the employee of a secondhand dealer and pawnbroker
@@ -43,7 +43,7 @@ In this Act, unless the context otherwise requires,—
   - **promoter** means a person who carries on a business of letting or otherwise providing space to stallholders for the purpose of running a market or fair at which any of the stalls are or may be used for the purpose of secondhand dealing
   - **public auction** means an auction conducted by a registered auctioneer in the course of the registered auctioneer's business
   - **registered auctioneer** means a person who is registered as an auctioneer under the Auctioneers Act 2013
-  - **responsible Minister** means the Minister of the Crown who is responsible for the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authority
+  - **responsible Minister** means the Minister of the Crown who is responsible for the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authorities
   - **scrap metal** does not include copper in any form, but includes—
     (a) old metal, broken metal, partly manufactured metal goods, defaced or old metal goods, and metal residues from manufacturing processes; and
     (b) items that—
@@ -99,8 +99,8 @@ This Act binds the Crown.
 (1) An applicant for a licence must be either an individual or a company.
 (2) Every application must be—
   (a) in a form approved by the Licensing Authority; and
-  (b) supported by a statutory declaration; and
-  (c) accompanied by the prescribed fee.
+  (b)
+  (c) accompanied by any prescribed fee.
 (3) An application by an individual must be accompanied by 2 photographs of the applicant, authenticated in the prescribed manner, and must include the following information:
   (a) the applicant’s full name, residential address, and date of birth:
   (b) the name under which the applicant engages in business:
@@ -116,14 +116,14 @@ This Act binds the Crown.
   (e) any other prescribed matters.
 
 ### 9 Issue of licence: individual applicant
-(1) The Licensing Authority must issue a licence to an applicant who is an individual if—
+(1) A Licensing Authority must issue a licence to an applicant who is an individual if—
   (a) the applicant holds, or is eligible to hold, a certificate (see section 28(1)); and
   (b) the application complies with the requirements of section 8(2).
 (2) If an applicant does not hold a certificate, sections 24 to 27 apply as if the applicant were an applicant for a certificate.
 (3) A licence issued to an individual must contain a photograph of the licence holder.
 
 ### 10 Issue of licence: company applicant
-(1) The Licensing Authority must issue a licence to an applicant that is a company if—
+(1) A Licensing Authority must issue a licence to an applicant that is a company if—
   (a) the company is not disqualified under subsection (3) from holding a licence; and
   (b) either—
     (i) every person concerned in the management of the company is eligible to hold a certificate in his or her own right (see section 28(1)); or
@@ -133,13 +133,13 @@ This Act binds the Crown.
 (3) A company is disqualified from holding a licence if it—
   (a) has been convicted within the past 5 years of a specified offence; or
   (b) has had a licence cancelled within the past 5 years.
-(4) For the purpose of checking whether or not a company is disqualified from holding a licence, the Licensing Authority may seek information about the company’s criminal convictions.
+(4) For the purpose of checking whether or not a company is disqualified from holding a licence, a Licensing Authority may seek information about the company’s criminal convictions.
 
 ### 11 Refusal to issue licence
-If the Licensing Authority declines an application, he or she must immediately notify the applicant in writing, and give reasons for the refusal.
+If a Licensing Authority declines an application, he or she must immediately notify the applicant in writing, and give reasons for the refusal.
 
 ### 12 Certified copies of licence
-(1) When the Licensing Authority issues a licence, he or she must also issue as many certified copies of the licence as may be necessary to enable the licence holder to comply with section 36(2).
+(1) When a Licensing Authority issues a licence, he or she must also issue as many certified copies of the licence as may be necessary to enable the licence holder to comply with section 36(2).
 (2) A certified copy need not be in the same form as a licence.
 
 ### 13 Effect of licence
@@ -160,34 +160,34 @@ If the Licensing Authority declines an application, he or she must immediately n
 (3) Despite subsection (1), if an application for renewal of a licence is made before the expiry of the licence, the licence continues in force until the application for renewal is determined.
 (4) Sections 8 to 12 apply to an application for renewal of a licence as if the application were an application for a licence.
 (5) A renewed licence is to be treated for all purposes as a new licence issued under section 9 or section 10, as applicable.
-(6) A licence holder may, at any time, return his or her licence to the Licensing Authority, in which case the licence expires on the date on which the licence (and all certified copies) are received by the Licensing Authority.
+(6) A licence holder may, at any time, return his or her licence to a Licensing Authority, in which case the licence expires on the date on which the licence (and all certified copies) are received by the Licensing Authority.
 
 ### 16 Cancellation of licences
-(1) The Licensing Authority must cancel a licence,—
+(1) A Licensing Authority must cancel a licence,—
   (a) in the case of a licence held by an individual, if the licence holder ceases to be eligible to hold a certificate; or
   (b) in the case of a licence held by a company,—
     (i) if any person concerned in the management of the company is not eligible, or ceases to be eligible, to hold a certificate; or
     (ii) if the company is disqualified (under section 10(3)) from holding a licence; or
   (c) in either case, if the Licensing Authority is satisfied that the licence was issued by fraud or mistake.
-(2) The Licensing Authority must cancel a licence held by a company if the company is convicted of an offence (other than an offence punishable by no more than a fine not exceeding $2,000) under this Act, unless the Licensing Authority is satisfied that there are special reasons why the company’s licence should not be cancelled.
-(3) The Licensing Authority may not cancel a company’s licence under subsection (1)﻿(b)﻿(i) if—
+(2) A Licensing Authority must cancel a licence held by a company if the company is convicted of an offence (other than an offence punishable by no more than a fine not exceeding $2,000) under this Act, unless the Licensing Authority is satisfied that there are special reasons why the company’s licence should not be cancelled.
+(3) A Licensing Authority may not cancel a company’s licence under subsection (1)﻿(b)﻿(i) if—
   (a) the person concerned in the management of a company has joined the company since it obtained its licence; and
   (b) within 2 weeks of the person joining, the company has applied to the Licensing Authority to check that the person is eligible to be issued with a certificate; and
   (c) either—
     (i) the Licensing Authority, has not yet determined whether or not the person is eligible to hold a certificate; or
     (ii) the Licensing Authority has advised the company, in writing, that the person is not eligible to hold a certificate, but less than 2 weeks has elapsed since the advice was sent.
 (4) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
-(5) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to the Licensing Authority immediately upon cancellation of the licence.
+(5) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to a Licensing Authority immediately upon cancellation of the licence.
 
 ### 17 Updating licence information
-(1) If any of the details that were included on the licence application change (for example, new places of business are added or a person concerned in the management of the company leaves), the licence holder must immediately advise the Licensing Authority of the change.
-(2) On receiving advice under subsection (1), the Licensing Authority must, if those details are reflected on the licence that has been issued, issue an amended licence (and certified copies, if applicable). An amended licence is not a new or renewed licence.
-(3) If an amended licence is issued, the licence holder must immediately return the old licence and any old certified copies of the licence to the Licensing Authority.
+(1) If any of the details that were included on the licence application change (for example, new places of business are added or a person concerned in the management of the company leaves), the licence holder must immediately advise a Licensing Authority of the change.
+(2) On receiving advice under subsection (1), a Licensing Authority must, if those details are reflected on the licence that has been issued, issue an amended licence (and certified copies, if applicable). An amended licence is not a new or renewed licence.
+(3) If an amended licence is issued, the licence holder must immediately return the old licence and any old certified copies of the licence to a Licensing Authority.
 (4) A licensed secondhand dealer and pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
 
 ### 18 Licences not transferable, except to temporary licence holder
 (1) A licence is not transferable, except in the situation described in subsection (2).
-(2) The Licensing Authority may transfer a licence to a temporary licence holder for a period of not more than 6 months if the temporary licence holder is—
+(2) A Licensing Authority may transfer a licence to a temporary licence holder for a period of not more than 6 months if the temporary licence holder is—
   (a) the personal representative of a deceased licence holder; or
   (b) the assignee in bankruptcy of a licence holder; or
   (c) the manager, as defined in section 2 of the Protection of Personal and Property Rights Act 1988, of a licence holder.
@@ -227,7 +227,7 @@ If the Licensing Authority declines an application, he or she must immediately n
   (a) the applicant’s full name and date of birth:
   (b) the applicant’s contact address and prescribed contact details:
   (c) any other prescribed information.
-(3) On receipt of an application, the Licensing Authority may make whatever inquiries he or she considers necessary in order to determine whether or not the applicant is disqualified from holding a certificate.
+(3) On receipt of an application, a Licensing Authority may make whatever inquiries he or she considers necessary in order to determine whether or not the applicant is disqualified from holding a certificate.
 
 ### 22 Disqualification from holding certificate
 A person is disqualified from holding a certificate if he or she—
@@ -241,24 +241,24 @@ A person is disqualified from holding a certificate if he or she—
   (h) is, or was at the relevant time, a person concerned in the management of a company that has had a licence cancelled within the past 5 years.
 
 ### 23 Waiver of disqualification
-(1) The Licensing Authority may waive disqualification under section 22 if—
+(1) A Licensing Authority may waive disqualification under section 22 if—
   (a) the disqualified person applies in writing to the Licensing Authority for a waiver; and
   (b) any prescribed fee is paid; and
   (c) the disqualification is on 1 or more of the grounds set out in section 22(b) to (h); and
   (d) the Licensing Authority is satisfied, on the basis of the written material before him or her, that there are special reasons why the person should not be disqualified from holding a certificate.
 (2) A person who wishes to seek a waiver of disqualification may do so only in connection with an application for a certificate or licence, or an application for renewal of a certificate or licence, or in connection with the cancellation or suspension of a certificate or the cancellation of a licence.
 (3) A waiver expires on the expiry of any certificate or licence to which it relates.
-(4) The Licensing Authority may, at any time, cancel a waiver, by notice in writing (with reasons) to the person concerned, if satisfied on reasonable grounds that the waiver should no longer apply.
+(4) A Licensing Authority may, at any time, cancel a waiver, by notice in writing (with reasons) to the person concerned, if satisfied on reasonable grounds that the waiver should no longer apply.
 
 ### 24 Checks on applicants
-(1) Within 3 weeks of receiving an application for a certificate, the Licensing Authority must obtain a report on the applicant showing—
+(1) Within 3 weeks of receiving an application for a certificate, a Licensing Authority must obtain a report on the applicant showing—
   (a) whether the applicant has been convicted of a specified offence within the past 5 years; and
   (b) whether the applicant has been convicted of an offence under this Act, the Pawnbrokers Act 1908, or the Secondhand Dealers Act 1963 within the past 5 years; and
   (c) whether the applicant has been subject to a sentence of imprisonment at any time within the past 5 years.
-(2) On receipt of an application for a certificate, the Licensing Authority must send a copy of the application to—
+(2) On receipt of an application for a certificate, a Licensing Authority must send a copy of the application to—
   (a) the Commissioner of Police; and
   (b) the person providing the report under subsection (1) (unless the person is the Commissioner of Police).
-(3) When the Licensing Authority receives the report provided under subsection (1), he or she must send a copy of the report to—
+(3) When a Licensing Authority receives the report provided under subsection (1), he or she must send a copy of the report to—
   (a) the applicant; and
   (b) the Commissioner of Police, if he or she did not provide that report.
 
@@ -267,41 +267,41 @@ A person is disqualified from holding a certificate if he or she—
 (2) Any objection under subsection (1) (a Police objection) must set out the reasons for it and be made—
   (a) within 3 weeks of receiving a copy of the application, if the report under section 24(1) is provided by the Commissioner of Police; or
   (b) within 3 weeks of receiving a copy of the report under section 24(1), if that report is not provided by the Commissioner of Police.
-(3) The Commissioner of Police must send a copy of the Police objection, if any, to the applicant at the same time that it is sent to the Licensing Authority.
+(3) The Commissioner of Police must send a copy of the Police objection, if any, to the applicant at the same time that it is sent to a Licensing Authority.
 
 ### 26 What happens if Police object to applicant
 (1) An applicant who receives a copy of a Police objection may—
-  (a) request a hearing in person before the Licensing Authority on whether to dismiss or uphold the objection, in which case the request must be—
+  (a) request a hearing in person before a Licensing Authority on whether to dismiss or uphold the objection, in which case the request must be—
     (i) in writing and accompanied by the prescribed fee (if any); and
     (ii) received by the Licensing Authority within 3 weeks of the date on which the notice of objection was sent; or
   (b) make written submissions to the Licensing Authority, in which case the submissions must be received by the Licensing Authority within 3 weeks of the date on which the notice of objection was sent.
 (2) If an applicant requests a hearing in person,—
-  (a) if the applicant is also disqualified from holding a certificate, the Licensing Authority may not hold a hearing on the Police objection until after he or she has made a decision under section 23 on whether to waive the disqualification; and
-  (b) if the applicant is not disqualified from holding a certificate, the Licensing Authority must arrange a time and place for the hearing under section 27 and give the Commissioner of Police and the applicant at least 14 days’ written notice of it.
+  (a) if the applicant is also disqualified from holding a certificate, a Licensing Authority may not hold a hearing on the Police objection until after he or she has made a decision under section 23 on whether to waive the disqualification; and
+  (b) if the applicant is not disqualified from holding a certificate, a Licensing Authority must arrange a time and place for the hearing under section 27 and give the Commissioner of Police and the applicant at least 14 days’ written notice of it.
 (3) If an applicant sends written submissions to the Licensing Authority, or if the Licensing Authority has not heard from the applicant within 3 weeks of the date on which the notice of objection was sent, the Licensing Authority must, on the basis of the written material before him or her, determine whether to uphold or dismiss the Police objection.
 
 ### 27 Hearing into Police objection
-(1) For the purpose of conducting a hearing into a Police objection, sections 4 to 12 of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if the Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
-(2) Without limiting subsection (1), at a hearing before the Licensing Authority,—
+(1) For the purpose of conducting a hearing into a Police objection, sections 4 to 12 of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if a Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
+(2) Without limiting subsection (1), at a hearing before a Licensing Authority,—
   (a) the Commissioner of Police may be represented by any constable or by counsel; and
   (b) the applicant may appear in person or be represented by counsel, or both.
-(3) At the conclusion of the hearing, the Licensing Authority must determine whether to uphold or dismiss the Police objection.
+(3) At the conclusion of the hearing, a Licensing Authority must determine whether to uphold or dismiss the Police objection.
 
 ### 28 Eligibility for, and issue of, certificate
 (1) A person is eligible to hold a certificate if—
   (a) the person is not disqualified under section 22 from holding a certificate or, if disqualified, the disqualification has been waived under section 23; and
-  (b) either no Police objection has been raised under section 25 in relation to the person, or, if an objection has been raised, the Licensing Authority has dismissed the objection under section 26(3) or section 27(3).
-(2) The Licensing Authority must issue a certificate to an applicant if—
+  (b) either no Police objection has been raised under section 25 in relation to the person, or, if an objection has been raised, a Licensing Authority has dismissed the objection under section 26(3) or section 27(3).
+(2) A Licensing Authority must issue a certificate to an applicant if—
   (a) the applicant is eligible to be issued with a certificate; and
   (b) the application complies with the requirements in section 21(1).
-(3) If the Licensing Authority refuses an application, he or she must notify the applicant in writing, and give reasons for the refusal.
+(3) If a Licensing Authority refuses an application, he or she must notify the applicant in writing, and give reasons for the refusal.
 
 ### 29 Complaints by Police about certificate holders, licence holders, and persons concerned in management of company
-(1) The Commissioner of Police may, at any time, make a complaint to the Licensing Authority about—
+(1) The Commissioner of Police may, at any time, make a complaint to a Licensing Authority about—
   (a) a certificate holder; or
   (b) a licence holder; or
   (c) a person who is concerned in the management of a company that is a licence holder.
-(2) The Licensing Authority must send a copy of any complaint received to the person concerned, and sections 26 and 27 apply as if the complaint were a Police objection made under section 25.
+(2) A Licensing Authority must send a copy of any complaint received to the person concerned, and sections 26 and 27 apply as if the complaint were a Police objection made under section 25.
 (3) If the Licensing Authority upholds the complaint, he or she must,—
   (a) in the case of a certificate holder, cancel the certificate:
   (b) in the case of a licence holder, cancel the licence:
@@ -315,18 +315,18 @@ A person is disqualified from holding a certificate if he or she—
 (3) Despite subsection (1), if an application for renewal of a certificate is made before the expiry of the certificate, the certificate continues in force until the application for renewal is determined.
 (4) Sections 21 to 28 apply to an application for renewal of a certificate as if the application were an application for a certificate.
 (5) A renewed certificate is to be treated for all purposes as a new certificate issued under section 28.
-(6) A certificate holder may, at any time, return his or her certificate to the Licensing Authority, in which case the certificate expires on the date it is received by the Licensing Authority.
+(6) A certificate holder may, at any time, return his or her certificate to a Licensing Authority, in which case the certificate expires on the date it is received by the Licensing Authority.
 
 ### 31 Cancellation and suspension of certificates
-(1) The Licensing Authority may cancel or suspend a person’s certificate if—
+(1) A Licensing Authority may cancel or suspend a person’s certificate if—
   (a) the Licensing Authority upholds a Police complaint made under section 29; or
   (b) the Licensing Authority is satisfied that the person is disqualified from holding a certificate and—
     (i) the person has not sought a waiver of disqualification under section 23; or
     (ii) the Licensing Authority has refused an application by the person for a waiver of disqualification under section 23; or
   (c) the Licensing Authority is satisfied that the certificate was obtained by fraud or mistake.
 (2) A cancellation or suspension must be in writing, with reasons, and must state the date on which the cancellation or suspension takes effect.
-(3) If the Licensing Authority suspends a certificate, the suspension must be for a fixed period of not more than 3 months, and at the end of that period the Licensing Authority must either lift the suspension or cancel the certificate.
-(4) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled certificate to the Licensing Authority immediately upon cancellation of the certificate.
+(3) If a Licensing Authority suspends a certificate, the suspension must be for a fixed period of not more than 3 months, and at the end of that period the Licensing Authority must either lift the suspension or cancel the certificate.
+(4) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled certificate to a Licensing Authority immediately upon cancellation of the certificate.
 
 **Obligations of certificate holders**
 
@@ -336,23 +336,23 @@ A person is disqualified from holding a certificate if he or she—
 (3) Section 83 applies to a charge under subsection (2).
 
 ### 33 Updating certificate information
-(1) If any of the details that were included on the certificate application change (for example, the certificate holder’s contact address), the certificate holder must advise the Licensing Authority of the change.
-(2) On receiving advice under subsection (1), the Licensing Authority must, if those details are reflected on the certificate that has been issued, issue an amended certificate. An amended certificate is not a new or renewed certificate.
-(3) If an amended certificate is issued, the certificate holder must immediately return the old certificate to the Licensing Authority.
+(1) If any of the details that were included on the certificate application change (for example, the certificate holder’s contact address), the certificate holder must advise a Licensing Authority of the change.
+(2) On receiving advice under subsection (1), a Licensing Authority must, if those details are reflected on the certificate that has been issued, issue an amended certificate. An amended certificate is not a new or renewed certificate.
+(3) If an amended certificate is issued, the certificate holder must immediately return the old certificate to a Licensing Authority.
 (4) A certificate holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
 
 **Appeals**
 
 ### 34 Appeals against decision of Licensing Authority
-(1) An applicant for a licence or a certificate may appeal to the District Court against a decision by the Licensing Authority relating to the applicant’s application.
-(2) The holder of a licence or certificate may appeal to the District Court against a decision by the Licensing Authority relating to the renewal, cancellation, or suspension of the holder’s licence or certificate.
-(3) To avoid doubt, there is no appeal under this section against a decision of the Licensing Authority relating to waiver of disqualification.
-(4) An appeal under this section must be brought within 20 days of the date of the decision appealed against, or within any longer period that the District Court, on application made before or after the expiration of that period, allows.
+(1) An applicant for a licence or a certificate may appeal to the District Court against a decision by a Licensing Authority relating to the applicant’s application.
+(2) The holder of a licence or certificate may appeal to the District Court against a decision by a Licensing Authority relating to the renewal, cancellation, or suspension of the holder’s licence or certificate.
+(3) To avoid doubt, there is no appeal under this section against a decision of a Licensing Authority relating to waiver of disqualification.
+(4) An appeal under this section must be brought within 16 working days of the date of the decision appealed against, or within any longer period that the District Court, on application made before or after the expiration of that period, allows.
 
 ### 35 Determination of appeal
-(1) In determining an appeal, the District Court may confirm or reverse the decision of the Licensing Authority.
+(1) In determining an appeal, the District Court may confirm or reverse the decision of a Licensing Authority.
 (2) The District Court’s decision in the determination of an appeal is final.
-(3) To avoid doubt, nothing in this section or section 34 affects the right of any person to apply, in accordance with law, for judicial review of a decision of the Licensing Authority.
+(3) To avoid doubt, nothing in this section or section 34 affects the right of any person to apply, in accordance with law, for judicial review of a decision of a Licensing Authority.
 
 ## Part 3 — Obligations of licence holders, promoters, and Internet auction providers
 
@@ -397,12 +397,12 @@ A person is disqualified from holding a certificate if he or she—
 ### 39 Obligation to report and hold stolen goods
 (1) A licence holder who has possession of, or who is offered for sale or pawn, any goods that he or she knows or suspects are stolen goods must—
   (a) report the goods to a constable as soon as practicable; and
-  (b) if he or she has possession of the goods, hold them for 14 days from the date of the report to the constable.
+  (b) if he or she has possession of the goods, hold them for 10 working days from the date of the report to the constable.
 (2) If a constable gives a licence holder a notice that specified goods are, or are alleged to be, stolen goods, the licence holder must—
   (a) immediately notify a constable if any of the specified goods are offered to the licence holder for sale or pawn; and
   (b) check whether he or she already has possession of any of the specified goods and, if so, must comply with subsection (1)﻿(a) and (b).
 (3) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)﻿(a) or (b) or subsection (2)﻿(a) or (b).
-(4) A licence holder may dispose of goods that he or she has reported to the Police under this section after holding them for at least 14 days unless, before the expiry of the 14 days, the Police issue a hold notice under section 40 with respect to the goods.
+(4) A licence holder may dispose of goods that he or she has reported to the Police under this section after holding them for at least 10 working days unless, before the expiry of the 10 working days, the Police issue a hold notice under section 40 with respect to the goods.
 (5) Subsection (4) does not override section 60.
 
 ### 40 Police may issue hold notice
@@ -488,10 +488,10 @@ A person is disqualified from holding a certificate if he or she—
 ### 46 Secondhand dealers not to enter into buyback contracts
 No licensed secondhand dealer may enter into a buyback contract as a buyer while apparently acting in the course of business as a secondhand dealer.
 
-### 47 Articles to be kept for 14 days
-(1) Every article acquired by a licensed secondhand dealer in the course of his or her secondhand dealing business must be retained by the secondhand dealer in an unaltered state for 14 days from the date of the transaction.
-(2) Every article acquired by a licensed secondhand dealer in the course of his or her secondhand dealing business must be stored, for the first 14 days after the transaction, in a place at which it can be reasonably conveniently inspected by a constable if the constable asks to inspect it.
-(3) Despite subsection (1), articles need not be retained for 14 days if—
+### 47 Articles to be kept for 10 working days
+(1) Every article acquired by a licensed secondhand dealer in the course of his or her secondhand dealing business must be retained by the secondhand dealer in an unaltered state for 10 working days from the date of the transaction.
+(2) Every article acquired by a licensed secondhand dealer in the course of his or her secondhand dealing business must be stored, for the first 10 working days after the transaction, in a place at which it can be reasonably conveniently inspected by a constable if the constable asks to inspect it.
+(3) Despite subsection (1), articles need not be retained for 10 working days if—
   (a) the article was acquired by the licensed secondhand dealer from a licensed secondhand dealer and pawnbroker; or
   (b) the article is returned to the person from whom the licensed secondhand dealer acquired it; or
   (c) the article is being sold by the licensed secondhand dealer as agent for the owner, and the licensed secondhand dealer notes on his or her dealers record—
@@ -717,46 +717,75 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (c) fails to provide access by a constable to his or her Internet auction providers record in accordance with subsection (4) when required to do so.
 (6) Section 83 applies to a charge under subsection (5)﻿(c).
 
-## Part 4 — Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous provisions
+## Part 4 — Licensing Authorities of secondhand dealers and pawnbrokers, and miscellaneous provisions
 
-**Licensing Authority and Deputy Licensing Authority**
+**Licensing Authorities and Deputy Licensing Authorities**
 
-### 70 Appointment of Licensing Authority
-(1) The Minister of Justice must, with the concurrence of the responsible Minister, appoint a Licensing Authority.
-(2) The Licensing Authority—
-  (a) must be appointed for a fixed term of 3 years or less; and
-  (b) may be reappointed any number of times; and
-  (c) remains in office, despite the expiry of his or her term of office, until a successor is appointed.
-(3) The Licensing Authority may resign from office by notice in writing to the Minister of Justice.
-(4) The Minister of Justice may, at any time, remove the Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed from office is not entitled to compensation.
+### 70 Appointment of Licensing Authorities
+(1) The Minister of Justice must, with the concurrence of the responsible Minister, appoint 1 or more persons to be Licensing Authorities, and may give the Authorities distinctive designations and from time to time change any designation.
+(2) A Licensing Authority—
+  (a) must be appointed for a term of up to 5 years; and
+  (b) may be reappointed for further terms of up to 5 years; and
+  (c) remains in office, despite the expiry of his or her term of office, until a successor is appointed or he or she is advised that a replacement Authority will not be appointed.
+(3) A Licensing Authority may resign from office by notice in writing to the Minister of Justice.
+(4) The Minister of Justice may, at any time, remove a Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed from office is not entitled to compensation.
+(5) A Licensing Authority who continues in office for any period under subsection (2)﻿(c) may act as an Authority during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Authority before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(6) A Licensing Authority who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 71 Deputy Licensing Authorities
 (1) The Minister of Justice may, by notice in the Gazette, appoint up to 2 Deputy Licensing Authorities if the Minister is satisfied that—
-  (a) the Licensing Authority is unable, because of absence (whether by reason of leave, ill-health, or any other reason), to exercise his or her functions of office; or
-  (b) the amount of work to be done by the Licensing Authority is more than can reasonably be done by 1 person at that time.
-(2) A Deputy Licensing Authority’s term of office expires on the date specified in the appointment notice in the Gazette or, if no such date is specified, on the date specified by the Minister of Justice in a subsequent notice in the Gazette.
-(3) A Deputy Licensing Authority has and may exercise the powers (including the powers listed in section 76(1)), duties, and functions of the Licensing Authority, subject to the control of the Licensing Authority.
-(4) The fact that a Deputy Licensing Authority exercises the powers, duties, and functions of the Licensing Authority is conclusive evidence of his or her authority to do so.
+  (a) 1 or more of the Licensing Authorities are unable, because of the absence (for any reason) of 1 or more of them, to perform the functions of office; or
+  (b) the amount of work to be done by the Licensing Authorities is more than can be reasonably done by the existing Authorities at that time.
+(2)
+(2A) A Deputy Licensing Authority—
+  (a) must be appointed for a term of up to 5 years; and
+  (b) may be reappointed for further terms of up to 5 years; and
+  (c) remains in office, despite the expiry of his or her term of office, until a successor is appointed or he or she is advised that a replacement Deputy Licensing Authority will not be appointed.
+(2B) A Deputy Licensing Authority may resign from office by notice in writing to the Minister of Justice.
+(2C) The Minister of Justice may, at any time, remove a Deputy Licensing Authority for inability to perform the functions of office, bankruptcy, neglect of duty, or misconduct, and the person removed from office is not entitled to compensation.
+(2D) A Deputy Licensing Authority who continues in office for any period under subsection (2A)﻿(c) may act as an Authority during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Authority before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(2E) A Deputy Licensing Authority who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
+(3) A Deputy Licensing Authority has and may exercise the powers (including the powers listed in section 76(1)), duties, and functions of a Licensing Authority, subject to the control of a Licensing Authority.
+(4) The fact that a Deputy Licensing Authority exercises the powers, duties, and functions of a Licensing Authority is conclusive evidence of his or her authority to do so.
 (5) No appointment of a Deputy Licensing Authority, and no act done by him or her when acting as a Deputy Licensing Authority, may be called into question in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
 ### 72 Remuneration, and status under certain Acts
-(1) The Licensing Authority and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if the Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
+(1) All Licensing Authorities and any Deputy Licensing Authority must be paid fees and expenses in accordance with the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies, as if each Licensing Authority were the chairperson of a statutory body and any Deputy Licensing Authority were a member of that body.
 (2) For the purposes of the State Sector Act 1988 and the Government Superannuation Fund Act 1956, a Licensing Authority or Deputy Licensing Authority is not, by reason merely of that appointment, employed in the service of the Crown.
 
 ### 73 Immunity
-Neither the Licensing Authority nor any Deputy Licensing Authority is personally liable for any act done or omission made while acting in good faith while performing or intending to perform his or her functions under this Act.
+Neither a Licensing Authority nor any Deputy Licensing Authority is personally liable for any act done or omission made while acting in good faith while performing or intending to perform his or her functions under this Act.
 
-### 74 Functions of Licensing Authority
-The functions of the Licensing Authority are—
-  (a) to carry out the functions of the Licensing Authority under Part 2 relating to licences and certificates; and
+### 74 Functions of Licensing Authorities
+The functions of the Licensing Authorities are—
+  (a) to carry out the functions of the Licensing Authorities under Part 2 relating to licences and certificates; and
   (b) to establish and maintain the public registers described in section 78; and
   (c) to perform all other functions required by this Act.
 
-### 75 Administrative support for Licensing Authority
-The responsible Minister must ensure that the department that is authorised by the Prime Minister to provide administrative support to the Licensing Authority provides that support in a manner that enables the Licensing Authority to exercise his or her powers, duties, and functions efficiently and effectively.
+### 74A Orderly and efficient operation
+(1) A Licensing Authority is responsible for making such arrangements as are practicable to ensure that he or she and any Deputy Licensing Authority performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+(2) If more than 1 Licensing Authority is appointed, they must act together in making those arrangements for any Deputy Licensing Authority.
+
+### 74B Contempt of Licensing Authority
+(1) A person commits an offence if the person—
+  (a) wilfully insults or obstructs a Licensing Authority or any witness or officer of a Licensing Authority during a sitting of a Licensing Authority or while a Licensing Authority, a witness, or an officer is going to, or returning from, a sitting of a Licensing Authority; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of a Licensing Authority; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of a Licensing Authority; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of a Licensing Authority in the course of the hearing of any proceedings.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
+(3) A Licensing Authority may order the exclusion from a sitting of that Authority of any person whose behaviour, in the opinion of the Licensing Authority, constitutes an offence against subsection (1), whether or not the person is charged with the offence, and any officer of a Licensing Authority or constable may take any steps that are reasonably necessary to enforce the exclusion.
+
+### 75 Administrative support for Licensing Authorities
+The responsible Minister must ensure that the department that is authorised to provide administrative support to the Licensing Authorities provides that support in a manner that enables each Authority to exercise or perform his or her powers, duties, and functions efficiently and effectively.
 
 ### 76 Delegations
-(1) The Licensing Authority may, in writing, delegate to any person any function, duty, or power under this Act, except the following:
+(1) A Licensing Authority may, in writing, delegate to any person any function, duty, or power under this Act, except the following:
   (a) the power to conduct hearings into Police objections and Police complaints:
   (b) the power to waive a disqualification from holding a certificate:
   (c) the power to cancel a licence, and the power to cancel or suspend a certificate:
@@ -765,21 +794,37 @@ The responsible Minister must ensure that the department that is authorised by t
 (2) Subject to any general or special directions given or conditions attached to a delegation, the person to whom the function, duty, or power is delegated must perform and may exercise those functions, duties, and powers in the same manner and with the same effect as if they had been conferred on that person directly by this section and not by delegation.
 (3) A person purporting to act under a delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 (4) A delegation may be made to a specified person or to persons of a specified class, or may be made to the holder or holders for the time being of a specified office or specified classes of offices.
-(5) A delegation is revocable in writing at will, and a delegation does not prevent the exercise of any function, duty, or power by the Licensing Authority.
-(6) A delegation continues in force according to its tenor until revoked, even if the Licensing Authority who made it has ceased to hold office.
+(5) A delegation is revocable in writing at will, and a delegation does not prevent the exercise of any function, duty, or power by a Licensing Authority.
+(6) A delegation continues in force according to its tenor until revoked, even if a Licensing Authority who made it has ceased to hold office.
+
+### 76A Procedure
+(1) A Licensing Authority may regulate his or her procedures as he or she sees fit, subject to this Act, any regulations made under it, and any practice notes issued under section 77A.
+(2) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if a Licensing Authority considers it appropriate and the necessary facilities are available.
+
+### 76B Hearing on papers
+(1) Despite anything in this Act to the contrary, a Licensing Authority may determine a proceeding on the papers if he or she considers it appropriate.
+(2) Before doing so, the Licensing Authority must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+
+### 76C Suppression orders
+(1) A Licensing Authority may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be subject to any conditions that the Licensing Authority considers appropriate.
+(3) A person who breaches an order made under this section is liable on conviction to a fine not exceeding $3,000.
 
 ### 77 Annual report
-(1) Within 3 months after the end of every financial year, the Licensing Authority must prepare and send to the Minister of Justice a report on the activities of the Licensing Authority during the previous financial year that contains the prescribed matters.
+(1) Within 3 months after the end of every financial year, all Licensing Authorities acting together must prepare and send to the Minister of Justice a report on the activities of the Authorities during the previous financial year that contains the prescribed matters.
 (2) The Minister of Justice must present a copy of the report to the House of Representatives within 20 sitting days after the date on which the Minister receives it.
-(3) If the date of commencement of this Act is within 3 months before the end of a financial year, the first report of the Licensing Authority must be for the first full financial year of operation and include information relating to the previous year’s operation.
+
+### 77A Practice notes
+(1) All Licensing Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of a Deputy Licensing Authority, officers of a Licensing Authority, and parties before a Licensing Authority.
 
 **Registers**
 
-### 78 Public registers of licence holders and of certificate holders
-(1) The Licensing Authority must establish, and must maintain with up-to-date information, the following 2 registers as public registers:
+### 78 Public registers of licence holders and certificate holders
+(1) The Licensing Authorities acting together must establish, and must maintain with up-to-date information, the following 2 registers as public registers:
   (a) a licence holders register:
   (b) a certificate holders register.
-(2) The Licensing Authority must determine the form of the registers, and may amend the form from time to time as he or she considers necessary, providing that the content of the registers is as set out in sections 79 and 80.
+(2) The Licensing Authorities acting together must determine the form of the registers, and may amend the form from time to time as they consider necessary, providing that the content of the registers is as set out in sections 79 and 80.
 
 ### 79 Content of licence holders register
 The licence holders register must contain the following information in relation to each licensed secondhand dealer and pawnbroker:
@@ -790,7 +835,7 @@ The licence holders register must contain the following information in relation 
   (e) in the case of a licence holder who is an individual, whether the person is in partnership and, if so, the name of every partner:
   (f) in the case of a licence holder that is a company, the name of every person concerned in the management of the company:
   (g) the street address of every place of business used by the licence holder:
-  (h) the licence holder’s email address, but only if the licence holder supplies that information and agrees to the Licensing Authority including it in the register.
+  (h) the licence holder’s email address, but only if the licence holder supplies that information and agrees to a Licensing Authority including it in the register.
 
 ### 80 Content of certificate holders register
 (1) The certificate holders register must contain the following information in relation to each certificate holder:
@@ -800,12 +845,12 @@ The licence holders register must contain the following information in relation 
 (2) The register must also show whether a certificate is suspended.
 
 ### 81 Public access to public registers
-The Licensing Authority must take all reasonable steps to ensure—
+All Licensing Authorities acting together must take all reasonable steps to ensure—
   (a) that the information contained in the public registers is available to members of the public to view at all reasonable times; and
   (b) that members of the public may copy or purchase all, or any part of, the information contained in the public registers at no more than a reasonable cost.
 
-### 82 Police access to other information held by Licensing Authority
-If a constable seeks any of the following information from the Licensing Authority, the Licensing Authority must supply it to the constable as soon as practicable:
+### 82 Police access to other information held by Licensing Authorities
+If a constable seeks any of the following information from any Licensing Authority, the relevant Licensing Authority must supply it to the constable as soon as practicable:
   (a) any information contained in an application for a licence or a certificate:
   (b) any information relating to changes to information provided by licence holders or certificate holders:
   (c) information relating to the cancellation of any licence or to the cancellation or suspension of any certificate.
@@ -829,8 +874,9 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (c) authorising ways of verifying identity, or providing for exemptions from the requirement to verify identity, that are additional to those provided for in sections 43, 52, and 68(3):
   (d) prescribing the procedure for, and making other provisions relating to, the conduct of public auctions for the purposes of this Act:
   (e) prescribing a class or classes of secondhand dealers who are not engaged in business as secondhand dealers for the purposes of this Act:
-  (f) prescribing fees for the purposes of this Act:
-  (g) prescribing the size or form of photographs that are required to accompany applications, and prescribing the manner in which they are to be authenticated:
+  (f) prescribing the matters for which fees are payable under this Act and the amount of those fees:
+  (fa) providing for the exemption from fees, in whole or in part:
+  (g) prescribing the size or form of the photograph that is required to accompany an application, and prescribing the manner in which it is to be authenticated:
   (h) prescribing alternative places in which, or arrangements under which, employee records, dealers records, pawnbrokers records, promoters records, and Internet auction providers records may be kept:
   (i) prescribing, with respect to dealers records, pawnbrokers records, promoters records, and Internet auction providers records (or any of those records), any or all of the following:
     (i) the form in which the records must be kept:
@@ -846,7 +892,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (o) prescribing the requirements that must be satisfied by an Internet auction website if—
     (a) under section 43(3)﻿(b), the requirement to verify the identity of sellers is not to apply when goods are purchased through that Internet auction website; and
     (b) pawnbrokers are to be permitted under section 63(2)﻿(b) to dispose of goods through that Internet auction website:
-  (p) prescribing the matters to be included in the annual report of the Licensing Authority:
+  (p) prescribing the matters to be included in the annual report of the Licensing Authorities:
   (q) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 **Transitional provisions**
