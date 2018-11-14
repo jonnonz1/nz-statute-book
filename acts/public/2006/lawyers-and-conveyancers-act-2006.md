@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -2063,15 +2063,15 @@ A Standards Committee that exercises in respect of any practitioner or former pr
 ### 179 Notification of practitioner or former practitioner, partner, employer, or director
 (1) A Standards Committee must, on receiving any money or any records or documents or postal articles or email communications under any provision of sections 164, 169, 170, and 172, forthwith serve a notice on—
   (a) the practitioner or former practitioner or related person or entity concerned; and
-  (b) if the practitioner or former practitioner concerned is a partner in a firm of practitioners, on each partner in the firm; and
+  (b) if the practitioner or former practitioner concerned is a partner in a firm of practitioners, each partner in the firm; and
   (c) if the practitioner or former practitioner concerned is or was an employee, his or her employer; and
   (d) if the practitioner or former practitioner concerned is, or has been, providing regulated services to the public in his or her capacity as a shareholder or director of a body corporate, every director of that body corporate.
 (2) The notice must set out,—
   (a) in relation to any money received, the amount of that money and the date of receipt; or
   (b) in relation to any records, documents, postal articles, and emails received, both particulars of each item and the date of receipt of each item.
-(3) The notice—
-  (a) may be served personally on the practitioner, former practitioner, related person or entity, partner, employer, or director; or
-  (b) may be sent to the practitioner, former practitioner, related person or entity, partner, employer, or director by registered letter addressed to the practitioner's, former practitioner's, related person's or entity's, partner's, employer's, or director's last known place of business or residence.
+(3) The notice may be served by—
+  (a) delivering it personally to the practitioner, former practitioner, related person or entity, partner, employer, or director or, if he or she refuses to accept it, bringing it to his or her attention; or
+  (b) delivering it to any of those persons at his or her usual place of residence or business by any form of prepaid delivery service that requires an acknowledgement of receipt of delivery from the person named in the notice.
 
 ### 180 Application to High Court by practitioner, former practitioner, related person or entity, partner, employer, or director
 (1) If a notice of the kind referred to in section 179 is served on, or posted to, any person, that person may, within 14 days after the date when the notice was so served or posted, apply to the High Court—
@@ -2092,7 +2092,9 @@ A Standards Committee that exercises in respect of any practitioner or former pr
 (2) No money may be applied under subsection (1) until a notice giving particulars of the expenses claimed has been served on—
   (a) the practitioner or former practitioner or his or her personal representatives; or
   (b) the incorporated firm or former incorporated firm.
-(3) A notice under subsection (2)﻿(a) may be served personally on the practitioner or former practitioner or any such representative, or may be forwarded to the practitioner or former practitioner or any such representative by registered letter addressed to his or her last known place of business or residence.
+(3) The notice may be served on a practitioner or former practitioner or his or her representative by—
+  (a) delivering it personally to the practitioner or former practitioner or, if he or she refuses to accept it, bringing it to his or her attention; or
+  (b) delivering it to any of those persons at his or her usual place of residence or business by any form of prepaid delivery service that requires an acknowledgement of receipt of delivery from the person named in the notice.
 (4) A notice under subsection (2)﻿(b) may be served on the incorporated firm or former incorporated firm in accordance with section 387(1) of the Companies Act 1993.
 (5) Within 14 days after a notice has been served or posted in accordance with subsection (3) or subsection (4), the practitioner or former practitioner or his or her personal representatives or the incorporated firm or former incorporated firm may apply to the High Court for a review of the expenses claimed; and on hearing any such application the High Court may make such order as it thinks fit.
 
@@ -2183,6 +2185,11 @@ The functions of the Legal Complaints Review Officer are—
     (i) complaints; or
     (ii) such issues relating to complaints as the Legal Complaints Review Officer specifies:
   (c) to provide advice to the New Zealand Law Society and the New Zealand Society of Conveyancers and the Minister on any issue that the Legal Complaints Review Officer identifies in the course of carrying out reviews (being an issue that relates to the manner in which complaints are received and dealt with under this Act or any rules made under this Act).
+
+### 192A Orderly and efficient operation
+The Legal Complaints Review Officer is responsible for making such arrangements as are practicable to ensure that he or she and any Deputy Legal Complaints Review Officer performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
 
 ### 193 Right of review
 A person who is specified in any provision of sections 194 to 197 as a person who may apply under this section for a review may apply to the Legal Complaints Review Officer for that review.
@@ -2282,19 +2289,42 @@ The Legal Complaints Review Officer may—
     (ii) any aspect of the manner in which a complaint was handled or investigated:
   (d) exercise, for the purpose of any inquiry or investigation conducted under paragraph (c), all the powers of a Standards Committee or an investigator.
 
-### 205 Power to decline to make further inquiry or investigation
-The Legal Complaints Review Officer may, in conducting a review of a determination made in relation to a complaint or matter, decline to make any further inquiry or any further investigation into the complaint or matter or any reinvestigation of the complaint or matter.
+### 205 Legal Complaints Review Officer may strike out, determine, or adjourn application for review
+(1) The Legal Complaints Review Officer may strike out, in whole or in part, an application for review if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of an application for review, the Legal Complaints Review Officer may,—
+  (a) if the party is required to be present, strike out the application; or
+  (b) determine the application in the absence of the party; or
+  (c) adjourn the hearing.
 
 **Procedure**
 
 ### 206 Proceedings of Legal Complaints Review Officer
 (1) Every review conducted by the Legal Complaints Review Officer under this Act must be conducted in private.
-(2) If—the Legal Complaints Review Officer may conduct the review on the basis of such information, records, reports, or documents as are available to the Legal Complaints Review Officer (including any obtained by the Legal Complaints Review Officer as a result of a request made under section 204(b)).
-  (a) it appears to the Legal Complaints Review Officer that a review can be adequately determined in the absence of the parties, their representatives, and witnesses; and
-  (b) the parties consent to the review being determined in the absence of the parties, their representatives, and witnesses,—
+(2) Despite anything in this Act to the contrary, if it appears to the Legal Complaints Review Officer that a review can be adequately determined on the papers, he or she may, without the consent of the parties, do so on the basis of the information available, including any information obtained under section 204(b).
+(2A) Before doing so, he or she must give the parties a reasonable opportunity to comment on whether the review should be dealt with in that manner.
+(2B) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Legal Complaints Review Officer considers it appropriate and the necessary facilities are available.
 (3) Subject to subsection (2) and to sections 205, 207, and 208, the Legal Complaints Review Officer must perform his or her functions and duties and exercise his or her powers in a way that is consistent with the rules of natural justice.
-(4) The Legal Complaints Review Officer may, subject to subsection (3), direct such publication of his or her decisions as he or she considers necessary or desirable in the public interest.
-(5) Subject to this Act and to any rules made under this Act, the Legal Complaints Review Officer may regulate his or her procedure in such manner as he or she thinks fit.
+(3A) The Legal Complaints Review Officer’s powers to determine a review are not affected by the failure of any party to—
+  (a) make a submission or comment within the time allowed; or
+  (b) give specified information within the time allowed; or
+  (c) attend, or participate in, a hearing called by the Legal Complaints Review Officer; or
+  (d) do any other thing the Legal Complaints Review Officer asks for or directs.
+(3B) If any failure of the kind referred to in subsection (3A) occurs in review proceedings, the Legal Complaints Review Officer may—
+  (a) draw from the failure any reasonable inferences he or she thinks fit; and
+  (b) determine the review concerned on the basis of the information available to him or her or strike out the application for review under section 205; and
+  (c) give any weight he or she thinks fit to information—
+    (i) that he or she asked for, or directed to be provided; but
+    (ii) that was provided later than requested or directed.
+(4) The Legal Complaints Review Officer may, subject to subsection (3) and section 206A, direct such publication of his or her decisions as he or she considers necessary or desirable in the public interest.
+(5) Subject to this Act, any rules made under this Act, and any practice notes issued under section 215A, the Legal Complaints Review Officer may regulate his or her procedure in such manner as he or she thinks fit.
+
+### 206A Suppression orders
+(1) The Legal Complaints Review Officer may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be made subject to any conditions that the Legal Complaints Review Officer considers appropriate.
 
 ### 207 Evidence
 (1) In relation to any review of a determination of a Standards Committee, the Legal Complaints Review Officer may, on his or her own initiative, seek and receive such evidence and make such investigations and inquiries as he or she thinks fit.
@@ -2362,12 +2392,18 @@ The Legal Complaints Review Officer may, in conducting a review of a determinati
 ### 214 Adverse comment
 The Legal Complaints Review Officer may not, in any decision, direction, or order made under section 211 or in any report made under section 213, make any comment that is adverse to any person unless that person has been given a reasonable opportunity to be heard.
 
-### 215 Enforcement of orders for costs or expenses
-(1) For the purpose of enforcing any order of the Legal Complaints Review Officer for the payment of costs or expenses or both, a duplicate of the order may be filed by the person to whom the costs or expenses or both are payable in the office of the court named in the order and thereupon becomes enforceable in all respects as a final judgment of that court in its civil jurisdiction.
-(2) In every case where an order for costs or expenses or both is made by the Legal Complaints Review Officer, the order must name the court in which the order may, if necessary, be enforced.
-(3) The court so named must,—
-  (a) where the amount recoverable under the order does not exceed $12,000, be the District Court; and
-  (b) in every other case, be the High Court.
+### 215 Enforcement of orders for payment of money
+(1) For the purpose of enforcing any order of the Legal Complaints Review Officer for the payment of money (whether compensation, the refund of a fee, a fine, or costs or expenses), a duplicate of the order may be filed by the person to whom the money (whether compensation, the refund of a fee, a fine, or costs or expenses) are payable in the office of the court named in the order and thereupon becomes enforceable in all respects as a final judgment of that court in its civil jurisdiction.
+(2) In every case where an order for money (whether compensation, the refund of a fee, a fine, or costs or expenses) is made by the Legal Complaints Review Officer, the order must name the court in which the order may, if necessary, be enforced.
+(3) The court so named must be—
+  (a) the District Court, if the amount recoverable does not exceed $350,000 or any higher amount from time to time specified in section 74 of the District Court Act 2016 as the upper limit of the general civil jurisdiction of the District Court; or
+  (b) in every other case, the High Court.
+
+**Practice notes, procedural information, and publication of decisions**
+
+### 215A Practice notes
+(1) The Legal Complaints Review Officer may issue practice notes as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of Deputy Legal Complaints Review Officers, persons making complaints, persons who are the subject of complaints, and parties before the Legal Complaints Review Officer.
 
 **Cost recovery**
 
@@ -2517,6 +2553,16 @@ The Disciplinary Tribunal consists of—
 (2) The members appointed under section 228(d) are to be appointed by the Council of the New Zealand Law Society.
 (3) The members appointed under section 228(e) are to be appointed by the Council of the New Zealand Society of Conveyancers.
 
+### 233A Appointment of temporary acting member
+(1) If a member of the Disciplinary Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if a member considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person as an acting member for the period or purpose stated in the appointment.
+(2) The Minister must not make a recommendation under subsection (1) unless the Minister has consulted—
+  (a) the chairperson of the Disciplinary Tribunal; and
+  (b) the New Zealand Law Society; and
+  (c) the New Zealand Society of Conveyancers.
+(3) No person may be appointed as an acting member unless he or she is eligible for appointment as a member.
+(4) An acting member is, while acting in the position, to be treated as a member of the Tribunal.
+(5) No appointment of an acting member, no act done by an acting member, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
 ### 234 Constitution for proceedings
 (1) For the purposes of proceedings before the Disciplinary Tribunal or a division of the Disciplinary Tribunal, the Disciplinary Tribunal or division consists of—
   (a) a chairperson, being,—
@@ -2562,6 +2608,10 @@ The Disciplinary Tribunal must, in performing and exercising its functions and p
 (2) If the Disciplinary Tribunal is of the opinion that it is proper to do so, having regard to the interest of any person (including (without limitation) the privacy of the complainant (if any)) and to the public interest, it may hold a hearing or part of a hearing in private.
 (3) The Disciplinary Tribunal may, in any case, deliberate in private as to its decision or as to any question arising in the course of a hearing.
 
+### 238A Hearing on papers
+(1) Despite anything in this Act to the contrary, the Disciplinary Tribunal may determine a proceeding on the papers if the Tribunal considers it appropriate.
+(2) Before doing so, the Tribunal must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+
 ### 239 Evidence
 (1) Subject to section 236, the Disciplinary Tribunal may receive as evidence any statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matters before it, whether or not that statement, document, information, or matter would be admissible in a court of law.
 (2) The Disciplinary Tribunal may take evidence on oath, and, for that purpose, any member of the Disciplinary Tribunal may administer an oath.
@@ -2588,6 +2638,17 @@ The Disciplinary Tribunal must, in performing and exercising its functions and p
     (viii) the Disciplinary Tribunal:
   (b) the publication pursuant to section 256 of a notice in the Gazette.
 (4) For the purposes of exercising the Disciplinary Tribunal's powers under subsections (1)﻿(c) and (2) to make or revoke, before the start of the hearing of the charge, an order prohibiting the publication of the name or any particulars of the affairs of the person charged or any other person, the quorum at any sitting of the Disciplinary Tribunal or a division of the Disciplinary Tribunal is, despite section 235(1), the 3-member quorum specified in section 235(5).
+
+### 240A Disciplinary Tribunal may strike out, determine, or adjourn proceeding
+(1) The Disciplinary Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, the Disciplinary Tribunal may,—
+  (a) if the party is required to attend, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 241 Charges that may be brought before Disciplinary Tribunal
 If the Disciplinary Tribunal, after hearing any charge against a person who is a practitioner or former practitioner or an employee or former employee of a practitioner or incorporated firm, is satisfied that it has been proved on the balance of probabilities that the person—it may, if it thinks fit, make any 1 or more of the orders authorised by section 242.
@@ -2687,12 +2748,16 @@ If the Disciplinary Tribunal, after hearing any charge against a person who is a
 (3) In particular, without finding the person charged to be guilty, the Disciplinary Tribunal may, if it considers that the proceedings were justified and that it is just to do so, order that person to pay to the New Zealand Law Society or the New Zealand Society of Conveyancers such sums as the Disciplinary Tribunal thinks fit in respect of the expenses of and incidental to the proceedings and any investigation of that person's conduct or of that person's affairs or trust account carried out by, or on behalf of, a Standards Committee or the Legal Complaints Review Officer.
 (4) In this section, expenses includes not only out-of-pocket expenses but also such amounts in respect of salaries of staff and overhead expenses incurred by either the New Zealand Law Society or the New Zealand Society of Conveyancers as the Disciplinary Tribunal considers properly attributable to an investigation.
 
+### 249A Practice notes
+(1) The chairperson of the Disciplinary Tribunal may issue practice notes as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of other members of the Disciplinary Tribunal, officers of the Disciplinary Tribunal, and parties before the Disciplinary Tribunal.
+
 ### 250 Rules of procedure
 The Disciplinary Tribunal may, from time to time, make rules, not inconsistent with this Act, in respect of the making, hearing, and determination of applications, inquiries, appeals, and other proceedings before it.
 
 ### 251 Contempt of Disciplinary Tribunal
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who—
-  (a) assaults, threatens, intimidates, or wilfully insults any person, being a member of the Disciplinary Tribunal, an officer of the Disciplinary Tribunal, or any witness, during that person's sitting or attendance in the Disciplinary Tribunal, or in going to or returning from the Disciplinary Tribunal; or
+  (a) threatens, intimidates, or wilfully insults any person, being a member of the Disciplinary Tribunal, an officer of the Disciplinary Tribunal, or any witness, during that person's sitting or attendance in the Disciplinary Tribunal, or in going to or returning from the Disciplinary Tribunal; or
   (b) wilfully interrupts or obstructs the proceedings of the Disciplinary Tribunal or otherwise misbehaves in the Disciplinary Tribunal; or
   (c) wilfully and without lawful excuse disobeys any order or direction of the Disciplinary Tribunal in the course of the hearing of any proceedings.
 (2) A member of the Disciplinary Tribunal may order the exclusion from a sitting of the Disciplinary Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not that person is charged with the offence; and any constable may take such steps as are reasonably necessary to enforce such an exclusion.
@@ -2778,8 +2843,9 @@ Except as provided by this Act or by rules made under this Act, the Disciplinary
 ### 258 Enforcement of orders of Disciplinary Tribunal
 (1) Where the Disciplinary Tribunal, acting in accordance with this Act or any rules made under this Act, makes an order or otherwise exercises any power in respect of any person who is or was a practitioner, that order or other exercise of any power has effect whether or not that person remains a practitioner.
 (2) If the Disciplinary Tribunal, acting in accordance with this Act or any rules made under this Act, orders any person who is or was a practitioner or an incorporated firm or an employee of a practitioner or an incorporated firm to pay a fine, expenses, or other monetary amount to the New Zealand Law Society or the New Zealand Society of Conveyancers, that amount is recoverable from that person by the society to which it is ordered to be paid as a debt due to that society, whether or not that person remains a practitioner or an incorporated firm or an employee of a practitioner or an incorporated firm.
-(3) If the Disciplinary Tribunal makes an order under this Part, not being an order to which section 255 applies, the order may be filed in an office of the High Court.
-(4) On the filing of the order it takes effect as if it were an order of the High Court to the like effect made within its jurisdiction.
+(2A) If the Disciplinary Tribunal, acting in accordance with this Act or any rules made under this Act, orders the New Zealand Law Society or the New Zealand Society of Conveyancers or any person to pay a fine, expenses, or other monetary amount to any other person, that amount is recoverable in any court of competent jurisdiction from that society or person by that other person as a debt due to that person.
+(3) If the Disciplinary Tribunal makes an order under this Part, not being an order to which section 255 applies, the order may be filed in an office of the High Court or, in the case of an order to pay any amount referred to in subsection (2) or (2A), in the office of any court of competent jurisdiction.
+(4) On the filing of the order it takes effect as if it were an order of the court in which it was filed to the like effect made within its jurisdiction.
 
 ### 259 Annual report
 (1) The chairperson of the Disciplinary Tribunal must, in each year, furnish to the Minister and the New Zealand Law Society and the New Zealand Society of Conveyancers a report on the performance of his or her functions under this Act.
@@ -2805,6 +2871,9 @@ The provisions of Schedule 4 have effect in relation to the Disciplinary Tribuna
 (1) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives any Standards Committee, investigator, or other person in the execution of any powers conferred on that Standards Committee, investigator, or other person by section 147 or section 164 or section 169 or section 170 or section 172 or section 173.
 (2) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives the Legal Complaints Review Officer, or any person to whom any of the functions and powers of the Legal Complaints Review Officer have been delegated under this Act, in the performance of any of the functions, or the exercise of any of the powers, conferred on the Legal Complaints Review Officer or any such delegate by this Act.
 (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $25,000.
+
+### 262A Offence of breaching suppression order
+A person who breaches an order made under section 206A is liable on conviction to a fine not exceeding $3,000.
 
 ### 263 Publication
 (1) Every person commits an offence who, without lawful excuse, acts in contravention of any order made by the Disciplinary Tribunal under any of paragraphs (a) to (c) of section 240(1).
@@ -4064,11 +4133,15 @@ Nothing in this schedule prevents the New Zealand Law Society or the New Zealand
 ## Schedule 3 — Provisions applying in relation to Legal Complaints Review Officer
 
 ### 1 Term of office of Legal Complaints Review Officer
-(1) Every person appointed as the Legal Complaints Review Officer is to be appointed for a term of 3 years, and may be reappointed for one further term of 3 years.
+(1) A person appointed as the Legal Complaints Review Officer must be appointed for a term of up to 5 years and may be reappointed.
 (2) Every person appointed as the Legal Complaints Review Officer, unless he or she sooner vacates office under clause 2, is to continue to hold office, despite the expiry of that person's term of appointment, until—
   (a) the person's reappointment as the Legal Complaints Review Officer; or
   (b) the appointment of a successor; or
   (c) the person is informed in writing by the Minister that the person is not to be reappointed and is not to hold office until a successor is appointed.
+(3) A person who continues in office for any period under subclause (2) may act as the Legal Complaints Review Officer during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by him or her before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(4) A person who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 2 Vacation of office
 (1) The person appointed as the Legal Complaints Review Officer may, at any time, be removed from office by the Minister for inability to perform the functions of the office, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
@@ -4076,7 +4149,7 @@ Nothing in this schedule prevents the New Zealand Law Society or the New Zealand
 (3) The person appointed as the Legal Complaints Review Officer may, at any time, resign his or her office by giving notice in writing to that effect to the Minister.
 
 ### 3 Deputy Legal Complaints Review Officers
-(1) There may, from time to time, be appointed 2 deputies to the person appointed as the Legal Complaints Review Officer.
+(1) Deputies to the person appointed as the Legal Complaints Review Officer may be appointed from time to time.
 (2) Subject to the control of the Legal Complaints Review Officer, a Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer under this Act (including the power of delegation conferred by clause 6).
 (3) Each Deputy Legal Complaints Review Officer is to be appointed in the same manner as the Legal Complaints Review Officer, and sections 190 and 191 and clauses 1 and 2 apply to a Deputy Legal Complaints Review Officer in the same manner as they apply to the Legal Complaints Review Officer.
 (4) On the occurrence from any cause of a vacancy in the office of the Legal Complaints Review Officer, and in the case of the absence from duty of the person appointed as the Legal Complaints Review Officer (from whatever cause arising), and for so long as any such vacancy or absence continues, each Deputy Legal Complaints Review Officer has and may exercise and perform all the powers, duties, and functions of the Legal Complaints Review Officer.
@@ -4145,12 +4218,16 @@ A person who is the Legal Complaints Review Officer or a Deputy Legal Complaints
 Each member of the Disciplinary Tribunal must, before entering on the performance of his or her functions as a member of the Disciplinary Tribunal, swear or affirm before a Judge of the High Court that the member of the Disciplinary Tribunal will faithfully and impartially perform his or her duties as a member of the Disciplinary Tribunal.
 
 ### 2 Term of office
-(1) Every member of the Disciplinary Tribunal is to be appointed for a term not exceeding 3 years.
+(1) Every member of the Disciplinary Tribunal is to be appointed for a term of up to 5 years.
 (2) A member of the Disciplinary Tribunal is eligible for reappointment from time to time.
 (3) Where the term of office of a member of the Disciplinary Tribunal has expired, that member, unless he or she sooner dies or vacates office under clause 3, continues to hold office, by virtue of the appointment for the term that has expired, until—
   (a) that member is reappointed; or
   (b) a successor to that member is appointed; or
   (c) that member is informed in writing by the Minister or the council that appointed that member that he or she is not to be reappointed and is not to hold office until a successor is appointed.
+(4) A member who continues in office for any period under subclause (3) may act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(5) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 3 Vacation of office
 (1) A member of the Disciplinary Tribunal who holds office under section 228(a) or (b) or (c) and who was, in accordance with section 230(2) or section 233(1) appointed by the Governor-General, may, at any time, be removed from office by the Governor-General for inability to perform the functions of the office, neglect of duty, or misconduct proved to the satisfaction of the Governor-General.
@@ -4171,18 +4248,18 @@ The chairperson of the Disciplinary Tribunal, the deputy chairperson of the Disc
 No person holding office as the chairperson or deputy chairperson of the Disciplinary Tribunal or as a lay member of the Disciplinary Tribunal is deemed by reason of his or her holding of that office to be employed in the Government service for the purposes of the Government Superannuation Fund Act 1956 or in the State services for the purposes of the State Sector Act 1988.
 
 ### 6 Power to summon witnesses
-(1) A District Court Judge may, on the application of a party to proceedings before the Disciplinary Tribunal, give a certificate authorising the Disciplinary Tribunal to issue a summons under this section.
-(2) A District Court Judge may not give a certificate under subclause (1) unless satisfied that—
-  (a) the evidence of the witness is or may be material to the hearing of the matter before the Disciplinary Tribunal; and
-  (b) it is necessary or desirable that the summons be issued to compel the attendance of the witness at the hearing.
-(3) The Disciplinary Tribunal must, on production of a certificate referred to in subclause (1), issue a summons in writing, signed by a member of the Disciplinary Tribunal, requiring a person specified in the summons to attend a hearing of the Disciplinary Tribunal at the time and place specified in the summons and do all or any of the following at the hearing:
-  (a) give evidence:
-  (b) give evidence under oath:
-  (c) produce documents, things, or information or any specified documents, things, or information in the possession or control of that person that are relevant to the hearing.
-(4) The Disciplinary Tribunal may require that any documents or information produced under this section be verified by oath, statutory declaration, or otherwise.
-(5) The Disciplinary Tribunal may—
-  (a) require that copies of any documents or information produced under this clause must also be provided to any person appearing at the hearing; and
-  (b) impose any terms and conditions in respect of the provision of copies of any documents or information to a person appearing at the hearing and the use that may be made of them.
+(1) For the purposes of its proceedings, the Disciplinary Tribunal may, on its own initiative or at the request of a party, issue in writing a summons requiring any person—
+  (a) to attend at the time and place specified in the summons and to give evidence; and
+  (b) to produce any papers, documents, records, or things in that person's possession or under that person's control that are relevant to the proceedings.
+(2) The Tribunal may require a person producing any of the things listed in subclause (1)﻿(b) to do so under oath or affirmation, by statutory declaration, or by other means.
+(3) The power to issue a witness summons may be exercised by the Tribunal, the chairperson, the deputy chairperson, the chairperson of a division, or any officer of the Tribunal purporting to act at the direction or with the authority of the Tribunal or any of those persons.
+(4) The Tribunal may—
+  (a) require a copy of anything that is produced to be provided to any person appearing at the hearing; and
+  (b) impose any terms and conditions on the provision of copies and the use that can be made of them.
+(5) For the purposes of subclause (1), writing includes—
+  (a) the recording of words in a permanent and legible form; and
+  (b) the recording of words by electronic means that can be retrieved and read; and
+  (c) the display of words by any form of electronic or other means of communication that is subsequently recorded by electronic means and that can, by any means, be retrieved and read.
 
 ### 7 Service of summons
 (1) A summons issued under clause 6 may be served—
@@ -4214,6 +4291,12 @@ Neither the Disciplinary Tribunal, nor any member, officer, agent, or employee o
   (a) any act done or omitted to be done in the course of performing or exercising any of their functions, duties, or powers under this Act or any rules made under this Act; or
   (b) any words spoken or written at, or for the purposes of, the hearing of any inquiry or other proceedings under this Act or any rules made under this Act; or
   (c) anything contained in any notice given under this Act or any rules made under this Act,—
+
+### 12 Decisions to be in writing and state reasons
+(1) Every decision of the Disciplinary Tribunal must be in writing and must state the reasons for the decision.
+(2) Despite subclause (1), the Tribunal—
+  (a) may give interim decisions on matters requiring urgent decisions, without stating the reasons for the decision; but
+  (b) must subsequently set out the reasons for the decision in a written decision.
 
 ## Schedule 5 — Provisions applying in relation to New Zealand Council of Legal Education
 
