@@ -1,5 +1,5 @@
 # Weathertight Homes Resolution Services Act 2006
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Weathertight Homes Resolution Services Act 2006.
@@ -1054,6 +1054,13 @@ The duties, functions, and powers of the tribunal are performed and exercised by
 (4) One member must be appointed by the Governor-General as the chair of the tribunal.
 (5) The provisions of Part 1 of Schedule 3 apply to members.
 
+### 103A Appointment of temporary acting chair or member
+(1) If the chair or a member of the tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chair or a member considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister of Justice made after consultation with the Minister, may appoint a suitable person as an acting chair or acting member for the period or purpose stated in the appointment.
+(2) Before making a recommendation, the Minister of Justice must consult with the Minister.
+(3) No person may be appointed as an acting chair or acting member unless he or she is eligible for appointment to the relevant position.
+(4) An acting chair or acting member is, while acting in the position, to be treated as the chair or a member of the tribunal.
+(5) No appointment of an acting chair or acting member, no act done by an acting chair or acting member, and no act done by the tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
 ### 104 Conflicts of interest
 (1) A member who, in performing and exercising the duties, functions, and powers of the tribunal, has a conflict of interest, must—
   (a) disclose it to the parties to the adjudication proceedings concerned; and
@@ -1072,6 +1079,11 @@ A member may not be required to give evidence in any civil proceedings on anythi
     (ii) provide their services in the manner, and at the time and place, that are most likely to resolve the claim in question; or
     (iii) provide their services in all of the ways described in this paragraph.
 (3) Subsection (2) does not limit subsection (1).
+
+### 106A Orderly and efficient operation
+The chair of the tribunal is responsible for making such arrangements as are practicable to ensure that he or she and each member performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
 
 ### 107 Chair may delegate duties
 (1) The chair may delegate to another member all or any of the chair's duties under the following sections:
@@ -1107,8 +1119,22 @@ A member may not be required to give evidence in any civil proceedings on anythi
 
 **Tribunal's powers, etc, relating to adjudication proceedings**
 
+### 109AA Procedure
+The tribunal may regulate its procedures as it sees fit, subject to this Act and any regulations made under it and any practice directions made under section 114.
+
 ### 109 Termination of proceedings by tribunal
 The tribunal must terminate adjudication proceedings if it considers, on reasonable grounds, that they should not have been commenced, or should not be continued, in terms of section 60(5) or 61(1).
+
+### 109A Tribunal may strike out, determine, or adjourn proceeding
+(1) The tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, the tribunal may,—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 110 Consolidation of adjudication proceedings
 If 2 or more adjudication proceedings are pending, the tribunal may, with the written consent of all of the parties to them, determine them at the same time.
@@ -1138,29 +1164,38 @@ If 2 or more adjudication proceedings are pending, the tribunal may, with the wr
 (2) The High Court must give the tribunal its opinion on the question; and the tribunal must then continue the adjudication in accordance with the opinion.
 
 ### 114 Practice directions
-The chair may issue practice directions, not inconsistent with this Act, relating to the making of applications to the tribunal or the hearing and determination of adjudication proceedings by the tribunal.
+For the purpose of guiding the members and officers of the tribunal, and parties before the tribunal, the chair may issue practice directions, not inconsistent with this Act, relating to the making of applications to the tribunal or the hearing and determination of adjudication proceedings by the tribunal.
 
 **Offences, and contempt of tribunal**
 
 ### 115 Offences
 Every person commits an offence, and is liable on conviction to a fine not exceeding $2,000, who—
-  (a) assaults, threatens, or intimidates, or intentionally insults, the tribunal or any member, or any officer of the tribunal, during a sitting of the tribunal, or in going to, or returning from, any sitting; or
+  (a) threatens, or intimidates, or intentionally insults, the tribunal or any member, or any witness or officer of the tribunal, during a sitting of the tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the tribunal or otherwise misbehaves while the tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of the tribunal in the course of any proceedings before the tribunal; or
   (d) fails or refuses to comply with a witness summons issued by the tribunal.
 
+### 115A Offence of breaching suppression order
+A person who breaches an order made under section 69(3) or clause 14 of Schedule 3 is liable on conviction to a fine not exceeding $3,000.
+
 ### 116 Person in contempt of tribunal may be excluded from proceedings
-(1) The tribunal may order the exclusion from a sitting of the tribunal of any person whose behaviour, in the tribunal's opinion, constitutes an offence against paragraph (a), (b), or (c) of section 115; and any member of the police may take any steps reasonably necessary to enforce the person's exclusion.
+(1) The tribunal may order the exclusion from a sitting of the tribunal of any person whose behaviour, in the tribunal's opinion, constitutes an offence against paragraph (a), (b), or (c) of section 115; and any member of the police or an officer of the tribunal may take any steps reasonably necessary to enforce the person's exclusion.
 (2) Subsection (1) applies whether or not the person whose exclusion is ordered is charged with the offence.
 
 ### Subpart 9 — Miscellaneous provisions
 
 ### 117 Service of notices
-Any notice or any other document required to be served on, or given to, any person under this Act, or under any regulation made under this Act, is sufficiently served or given if—
+(1) Any notice or any other document required to be served on, or given to, any person under this Act, or under any regulation made under this Act, is sufficiently served or given if—
   (a) the notice or document is delivered to that person; or
   (b) the notice or document is left at that person's usual or last known place of residence or business in New Zealand; or
   (c) the notice or document is posted in a letter addressed to the person at that person's usual or last known place of residence or business in New Zealand; or
+  (ca) the notice or document is sent electronically; or
   (d) the notice or document is sent in any manner approved for the purpose by the chair.
+(2) The notice or other document is treated as having been served, under subsection (1)﻿(c), 5 working days after it was posted if it is proved that it was addressed to the recipient at the recipient’s address for service and dispatched by post.
+(3) If a notice or any other document is served in electronic form under subsection (1)﻿(ca), then, unless the contrary is shown,—
+  (a) the notice or other document is served at the time the electronic communication containing the notice or document first enters an information system outside the control of its originator; and
+  (b) in proving service, it is sufficient to prove that the electronic communication was properly addressed and sent.
+(4) In this section, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
 
 ### 118 Mediator or tribunal may decline to deal with claim
 (1) A mediator or the tribunal may decline to deal with a claim if, in the opinion of the mediator or the tribunal,—
@@ -1754,9 +1789,18 @@ In section 166, affected claimant means a person to whom the following circumsta
 
 ### 2 Term of office
 (1) Except as otherwise provided in this schedule, a member—
-  (a) holds office for a term not exceeding 3 years; and
+  (a) holds office for a term of up to 5 years; and
   (b) may be reappointed.
 (2) A member's term of office referred to in subclause (1)﻿(a) must be stated in the notice of appointment.
+(3) A member continues in office despite the expiry of his or her term of office until—
+  (a) the member is reappointed; or
+  (b) the member’s successor is appointed; or
+  (c) the member is notified that a replacement member will not be appointed; or
+  (d) the member vacates or is removed from office.
+(4) A member who continues in office for any period under subclause (3), unless he or she was removed from office, may act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(5) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 3 Oath of office
 Each member must, before entering on the exercise of any of his or her functions under this Act, swear or affirm before a Judge of the High Court that he or she will faithfully and impartially perform his or her duties as a member.
@@ -1782,7 +1826,8 @@ A member may at any time resign from office by written notice given to the Minis
 Any party to an adjudication may give and call evidence.
 
 ### 9 Witness summons
-(1) For the purposes of any adjudication, the tribunal may, on the application of any party to the adjudication, or of the tribunal's own volition, issue a summons to any person requiring that person to attend the adjudication and give evidence at the hearing of those proceedings.
+(1) For the purposes of any matter before the tribunal, the tribunal may, on its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the tribunal and give evidence.
+(1A) The power to issue a witness summons may be exercised by the tribunal or the chair, or by any officer of the tribunal purporting to act by the direction or with the authority of the tribunal or the chair.
 (2) No summons under subclause (1) may be issued to a member.
 (3) The summons must be in a form (if any) approved for the purpose by the chair, and may require the person to produce before the tribunal any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the adjudication.
 
@@ -1792,9 +1837,10 @@ Any party to an adjudication may give and call evidence.
 (3) On each occasion on which the tribunal issues a summons under clause 9, the tribunal must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
 (4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the tribunal, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
 
-### 11 Power to take evidence on oath
-(1) The tribunal may take evidence on oath, and for that purpose any member, or any other person acting under the express or implied direction of the tribunal, may administer an oath.
-(2) On any charge of perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+### 11 Power to take evidence on oath or by other means
+(1) The tribunal may take evidence on oath or affirmation and, for that purpose, the tribunal or any other person acting under the express or implied direction of the tribunal may administer the oath.
+(2) The tribunal may require that any documents or information be verified by oath or affirmation, statutory declaration, affidavit, or another means.
+(3) On any charge of perjury, it is sufficient to prove that the oath or affirmation was administered, or the documents or information were verified, in accordance with this clause.
 
 ### 12 Party competent as witness
 Any party to proceedings before the tribunal is competent to give evidence in those proceedings and may be compelled to give evidence as a witness.
