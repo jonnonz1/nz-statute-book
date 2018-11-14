@@ -1,5 +1,5 @@
 # Courts (Remote Participation) Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Courts (Remote Participation) Act 2010.
@@ -77,13 +77,16 @@ A judicial officer or Registrar must also consider, when he or she is required t
   (a) be made in accordance with the criteria in section 5; and
   (b) take into account whether or not the parties consent to the use of AVL for the appearance of the participant.
 
-### 8 Use of audio-visual links in criminal procedural matters
+### 8 Use of audio-visual links in criminal procedural or sentencing matters
 (1) AVL must be used for the appearance of a participant in a criminal procedural matter if AVL is available and the participant is in custody, unless a judicial officer or a Registrar determines that the use of AVL is contrary to the interests of justice.
+(1A) AVL may be used for the appearance of a participant in a criminal procedural matter—
+  (a) if AVL is available; and
+  (b) unless a judicial officer or a Registrar determines that the use of AVL is contrary to the interests of justice.
 (2) AVL may be used for the appearance of a participant in a sentencing matter if—
   (a) AVL is available; and
   (b) the participant is in custody; and
   (c) a judicial officer determines that the use of AVL is not contrary to the interests of justice.
-(3) Before making a determination under subsection (1) or (2), the judicial officer or Registrar (as the case may be) must take into account the criteria specified in sections 5 and 6.
+(3) Before making a determination under subsection (1), (1A), or (2), the judicial officer or Registrar (as the case may be) must take into account the criteria specified in sections 5 and 6.
 (4) To avoid doubt, a motion to determine whether AVL is contrary to the interests of justice may be made by the participant or the judicial officer or Registrar (as the case may be).
 
 ### 9 Use of audio-visual links in criminal substantive matters
