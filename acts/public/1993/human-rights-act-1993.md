@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2018-11-14_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1044,15 +1044,15 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
 (5) Any award of costs made in favour of a person in proceedings for which representation is provided for that person by the Director must be paid to the Office of Human Rights Proceedings.
 (6) Nothing in this Act limits or affects the entitlement to legal aid (if any) of a party in respect of proceedings or intended proceedings (whether or not representation for the party in the proceedings may, or is to be, is being, or has been, provided in accordance with a decision of the Director under section 90(1)﻿(a) or (c)).
 
-### 92D Tribunal may refer complaint back to Commission, or adjourn proceedings to seek resolution by settlement
-(1) When proceedings under section 92B are brought, the Tribunal—
+### 92D Tribunal or Chairperson or Deputy Chairperson may refer complaint back to Commission, or adjourn proceedings to seek resolution by settlement
+(1) When proceedings under section 92B are brought, the Tribunal or the Chairperson or a Deputy Chairperson—
   (a) must (whether through a member or officer) first consider whether an attempt has been made to resolve the complaint (whether through mediation or otherwise); and
-  (b) must refer the complaint under section 76(2)﻿(a) to which the proceedings relate back to the Commission unless the Tribunal is satisfied that attempts at resolution, or further attempts at resolution, of the complaint by the parties and the Commission—
+  (b) must refer the complaint under section 76(2)﻿(a) to which the proceedings relate back to the Commission unless the Tribunal or the Chairperson or a Deputy Chairperson is satisfied that attempts at resolution, or further attempts at resolution, of the complaint by the parties and the Commission—
     (i) will not contribute constructively to resolving the complaint; or
     (ii) will not, in the circumstances, be in the public interest; or
     (iii) will undermine the urgent or interim nature of the proceedings.
-(2) The Tribunal may, at any time before, during, or after the hearing of proceedings, refer a complaint under section 76(2)﻿(a) back to the Commission if it appears to the Tribunal, from what is known to it about the complaint, that the complaint may yet be able to be resolved by the parties and the Commission (for example, by mediation).
-(3) The Tribunal may, instead of exercising the power conferred by subsection (2), adjourn any proceedings relating to a complaint under section 76(2)﻿(a) for a specified period if it appears to the Tribunal, from what is known about the complaint, that the complaint may yet be able to be resolved by the parties.
+(2) The Tribunal or the Chairperson or a Deputy Chairperson may, at any time before, during, or after the hearing of proceedings, refer a complaint under section 76(2)﻿(a) back to the Commission if it appears to the Tribunal or the Chairperson or a Deputy Chairperson, from what is known to it about the complaint, that the complaint may yet be able to be resolved by the parties and the Commission (for example, by mediation).
+(3) The Tribunal or the Chairperson or a Deputy Chairperson may, instead of exercising the power conferred by subsection (2), adjourn any proceedings relating to a complaint under section 76(2)﻿(a) for a specified period if it appears to the Tribunal or the Chairperson or a Deputy Chairperson, from what is known about the complaint, that the complaint may yet be able to be resolved by the parties.
 
 ### 92E Civil proceedings arising from inquiry by Commission
 (1) If the Commission considers that an inquiry by it under section 5(2)﻿(h) has disclosed or may have disclosed a breach of a kind referred to in any of paragraphs (a) to (c), it may bring civil proceedings before the Tribunal,—
@@ -1233,7 +1233,7 @@ The functions of the Tribunal shall be—
   (b) to exercise and perform such other functions, powers, and duties as are conferred or imposed on it by or under this Act or any other enactment.
 
 ### 95 Power to make interim order
-(1) In respect of any matter in which the Tribunal has jurisdiction under this Act to make any final determination, the Chairperson of the Tribunal shall have power to make an interim order if he or she is satisfied that it is necessary in the interests of justice to make the order to preserve the position of the parties pending a final determination of the proceedings.
+(1) In respect of any matter in which the Tribunal has jurisdiction under this Act to make any final determination, the Chairperson or a Deputy Chairperson of the Tribunal shall have power to make an interim order if he or she is satisfied that it is necessary in the interests of justice to make the order to preserve the position of the parties pending a final determination of the proceedings.
 (2) An application for an interim order may be made,—
   (a) in the case of proceedings under section 92B(1), (2), (3), or (4), by the person or body bringing the proceedings; and
   (b) in the case of proceedings under section 92E, by the Commission.
@@ -1254,34 +1254,41 @@ Where an interim order has been made, the defendant may, with the leave of the T
 
 ### 98 Membership of Tribunal
 The Tribunal shall consist of—
-  (a) a Chairperson; and
+  (a) the Chairperson or a Deputy Chairperson or, if section 103B applies, the Chairperson and a Deputy Chairperson; and
   (b) 2 other persons appointed by the Chairperson for the purposes of each hearing from a panel maintained by the Minister under section 101.
 
-### 99 Chairpersons of Tribunal
-(1) Every Chairperson of the Tribunal shall be appointed by the Governor-General on the recommendation of the Minister.
-(2) Where the Governor-General on the recommendation of the Minister considers it necessary, the Governor-General may appoint 2 persons to the office of Chairperson of the Tribunal.
-(3) Where there are 2 Chairpersons of the Tribunal, each Chairperson shall exercise principally those parts of the Tribunal's jurisdiction that are specified from time to time in his or her warrant of appointment but nothing shall prevent each Chairperson from exercising any other part of the Tribunal's jurisdiction.
-(4) Where a second Chairperson of the Tribunal is appointed, a new warrant of appointment may be issued to the existing Chairperson specifying the parts of the Tribunal's jurisdiction that the existing Chairperson is principally to exercise.
-(5) In this Part, a reference to the Chairperson or the Chairperson of the Tribunal shall be read as a reference to either Chairperson where there are 2 Chairpersons of the Tribunal.
+### 99 Chairperson of Tribunal
+The Chairperson of the Tribunal must be appointed by the Governor-General, on the recommendation of the Minister.
 
-### 99A Criteria and requirement for appointment of Chairpersons
-(1) In recommending a person for appointment as a Chairperson of the Tribunal, the Minister must have regard not only to the matters stated in section 101(2) but also to the person's—
+### 99AA Deputy Chairpersons of Tribunal
+One or more Deputy Chairpersons of the Tribunal may be appointed by the Governor-General, on the recommendation of the Minister.
+
+### 99A Criteria and requirement for appointment of Chairperson and Deputy Chairperson
+(1) In recommending a person for appointment as the Chairperson or a Deputy Chairperson of the Tribunal, the Minister must have regard not only to the matters stated in section 101(2) but also to the person's—
   (a) experience in dispute resolution:
-  (b) experience as a Chairperson and in other leadership roles:
-  (c) ability to perform the functions of a Chairperson of the Tribunal.
-(2) Every person appointed as a Chairperson of the Tribunal must be a barrister or solicitor of the High Court of not less than 5 years' practice.
+  (b) experience as a Chairperson or a Deputy Chairperson and in other leadership roles:
+  (c) ability to perform the functions of the Chairperson or a Deputy Chairperson of the Tribunal.
+(2) Every person appointed as the Chairperson or a Deputy Chairperson of the Tribunal must be a barrister or solicitor of the High Court of not less than 5 years' practice.
 
 ### 100 Appointment and term of office
 (1)
-(2) Except as otherwise provided in section 103, every person appointed as a Chairperson of the Tribunal shall hold office for such term, not exceeding 5 years, as the Governor-General on the recommendation of the Minister shall specify in the instrument appointing that Chairperson.
-(3) Any person appointed as a Chairperson may hold that office concurrently with any other office held by him or her and may from time to time be reappointed.
-(4) Where the term for which a Chairperson has been appointed expires, that Chairperson, unless sooner vacating or removed from office under section 103, shall continue to hold office, by virtue of the appointment for the term that has expired, until—
-  (a) that Chairperson is reappointed; or
-  (b) a successor to that Chairperson is appointed; or
-  (c) that Chairperson is informed in writing by the Minister that that Chairperson is not to be reappointed and that a successor to that Chairperson is not to be appointed.
+(2) Except as otherwise provided in section 103, every person appointed as the Chairperson or a Deputy Chairperson of the Tribunal shall hold office for such term, not exceeding 5 years, as the Governor-General on the recommendation of the Minister shall specify in the instrument appointing the Chairperson or Deputy Chairperson.
+(3) Any person appointed as the Chairperson or a Deputy Chairperson may hold that office concurrently with any other office held by him or her and may from time to time be reappointed.
+(4) Where the term for which the Chairperson or a Deputy Chairperson expires, the Chairperson or that Deputy Chairperson, unless sooner vacating or removed from office under section 103, continues to hold office, by virtue of the appointment for the term that has expired until—
+  (a) the Chairperson or that Deputy Chairperson is reappointed; or
+  (b) a successor to the Chairperson or that Deputy Chairperson is appointed; or
+  (c) in the case of a Deputy Chairperson, that Deputy Chairperson is informed in writing by the Minister that the Deputy Chairperson is not to be reappointed and that a successor to that Deputy Chairperson is not to be appointed.
+(5) The Chairperson or a Deputy Chairperson who continues in office for any period under subsection (4) may act as the Chairperson or a Deputy Chairperson during and after that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the Chairperson or the Deputy Chairperson ceased to hold office under subsection (4):
+  (b) hearing any other proceedings commenced before the Chairperson or the Deputy Chairperson ceased to hold office under subsection (4).
+(6) The Chairperson or a Deputy Chairperson who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 101 Panel
-(1) The Minister shall maintain a panel of not more than 20 persons who may be appointed pursuant to section 98.
+(1) The Minister must maintain a panel of any number of persons that may be required to ensure—
+  (a) the efficient and expeditious exercise of the jurisdiction of the Tribunal throughout New Zealand; and
+  (b) the performance of other functions under this Act or any other enactment requiring the participation of members of the panel.
+(1A) The Minister must specify a period of up to 5 years for which a person is approved as a member of the panel.
+(1B) The Minister may approve the inclusion of a person on the panel for further periods of up to 5 years.
 (2) In considering the suitability of persons for inclusion on the panel, the Minister must have regard to the need for persons included on the panel to have between them knowledge of, or experience in,—
   (a) different aspects of matters likely to come before the Tribunal:
   (b) New Zealand law, or the law of another country, or international law, on human rights:
@@ -1292,29 +1299,68 @@ The Tribunal shall consist of—
 (3) The name of a person shall be removed from the panel if—
   (a) the person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
   (b) the Minister directs that the name of the person be removed from the panel for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
-  (c) a period of 5 years has elapsed since the date on which the Minister last approved the entry of the person's name; or
+  (c) a period of up to 5 years has elapsed since the date on which the Minister last approved the entry of the person's name; or
   (d) the person requests by writing addressed to the Minister that his or her name be removed.
-(4) Where subsection (3)﻿(c) or subsection (3)﻿(d) applies, the name of the person shall not be removed from the panel until any hearings in respect of which that person was appointed to the Tribunal have concluded.
+(4) If subsection (3)﻿(c) or (d) applies, or the period for which a person is approved as a member of the panel expires, the person may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
-### 102 Deputy Chairperson
-(1) In any case in which a Chairperson of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if a Chairperson deems it not proper or desirable that he or she should adjudicate on any specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person to be the deputy of that Chairperson to act for that Chairperson for the period or purpose stated in the appointment.
-(2) No person shall be appointed as a Deputy Chairperson unless he or she is eligible for appointment as a Chairperson.
-(3) Every Deputy Chairperson appointed under this section shall, while acting for a Chairperson, be deemed to be a Chairperson of the Tribunal.
-(4) No appointment of a Deputy Chairperson, and no act done by a Deputy Chairperson as such, and no act done by the Tribunal while he or she is acting as such, shall in any proceedings be questioned on the ground that the occasion for the appointment had not arisen or had ceased.
+### 101A Functions, duties, and powers of Deputy Chairpersons
+Subject to any directions issued by the Chairperson, a Deputy Chairperson of the Tribunal has all the functions, duties, and powers of the Chairperson.
 
-### 103 Vacation of office by Chairperson and Deputy Chairperson
-(1) A Chairperson and any Deputy Chairperson of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
-(2) A Chairperson and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
-(3) A Chairperson and any Deputy Chairperson of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
+### 101B Delegation by Chairperson of Tribunal
+(1) The Chairperson of the Tribunal may delegate any of the Chairperson’s functions, duties, and powers to a member of the panel who—
+  (a) the Chairperson is satisfied has the necessary capability, skills, and experience to perform or exercise those functions, duties, and powers; and
+  (b) satisfies the criteria set out in section 99A for appointment as the Chairperson.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) must be to a named person; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the Chairperson.
+(3) A person to whom any functions, duties, or powers are delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 119 for work undertaken in that capacity.
+
+### 101C References to Chairpersons include deputies and delegates and temporary acting Chairperson
+Unless the context otherwise requires, a reference in this Act or regulations made under this Act to the Chairperson includes—
+  (a) a Deputy Chairperson appointed under section 99AA; or
+  (b) a person to whom the functions, powers, and duties of the Chairperson are delegated under section 101B; or
+  (c) a temporary acting Chairperson appointed under section 102.
+
+### 102 Appointment of temporary acting Chairperson
+(1) If the Chairperson of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the Chairperson considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person as the acting Chairperson for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting Chairperson unless he or she is eligible for appointment as the Chairperson.
+(3) The acting Chairperson is, while acting in the position, to be treated as the Chairperson of the Tribunal.
+(4) No appointment of the acting Chairperson, no act done by the acting Chairperson, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
+### 103 Vacation of office by Chairperson, temporary acting Chairperson, and Deputy Chairperson
+(1) The Chairperson, a temporary acting Chairperson, and any Deputy Chairperson of the Tribunal may at any time resign his or her office by delivering a notice in writing to that effect to the Minister.
+(2) The Chairperson, a temporary acting Chairperson, and any Deputy Chairperson of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
+(3) The Chairperson, a temporary acting Chairperson, and any Deputy Chairperson of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
+
+### 103A Orderly and efficient operation
+The Chairperson of the Tribunal is responsible for making such arrangements as are practicable to ensure that, in relation to the work of the Tribunal, the Chairperson, each Deputy Chairperson and each member of the panel performs their functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act or any other enactment.
+
+### 103B Powers of Chairperson to direct constitution of Tribunal
+(1) The Chairperson of the Tribunal may direct, for the purposes of any particular proceedings, that the Tribunal be constituted by—
+  (a) the Chairperson; and
+  (b) a Deputy Chairperson; and
+  (c) two panel members.
+(2) The Chairperson of the Tribunal may give a direction under subsection (1) if he or she is satisfied that—
+  (a) the proceedings are unusually complex or difficult; or
+  (b) it is desirable for training purposes that the Tribunal be constituted in this way.
 
 **Procedure of Tribunal**
 
 ### 104 Sittings of Tribunal
-(1) Sittings of the Tribunal shall be held at such times and places as the Tribunal or Chairperson from time to time appoints.
-(2) Any sitting may be adjourned from time to time and from place to place by the Tribunal or a Chairperson or by the Secretary to the Tribunal.
+(1) Sittings of the Tribunal shall be held at such times and places as the Tribunal, the Chairperson, or a Deputy Chairperson from time to time appoints.
+(2) Any sitting may be adjourned from time to time and from place to place by the Tribunal or the Chairperson or a Deputy Chairperson or by the Secretary to the Tribunal.
 (3) No sitting of the Tribunal shall take place unless all the members are present, but the decision of a majority of the members shall be the decision of the Tribunal.
-(4) A Chairperson shall preside at all sittings of the Tribunal.
-(5) Subject to the provisions of this Act and of any regulations made under this Act, the Tribunal may regulate its procedure in such manner as the Tribunal thinks fit and may prescribe or approve forms for the purposes of this Act.
+(4) The Chairperson or a Deputy Chairperson shall preside at all sittings of the Tribunal.
+(4A) Despite anything in this Act to the contrary, the Tribunal or the Chairperson or a Deputy Chairperson may determine a proceeding on the papers if the Tribunal or the Chairperson or a Deputy Chairperson considers it appropriate.
+(4B) Before doing so, the Tribunal or the Chairperson or a Deputy Chairperson must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+(4C) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tribunal or the Chairperson or a Deputy Chairperson considers it appropriate and the necessary facilities are available.
+(5) The Tribunal may regulate its procedure as it thinks fit, subject to this Act and any regulations made under it, and any practice notes issued under section 121A.
 
 ### 105 Substantial merits
 (1) The Tribunal must act according to the substantial merits of the case, without regard to technicalities.
@@ -1364,16 +1410,16 @@ The Tribunal must notify the Attorney-General promptly of the bringing of procee
   (c) the papers, documents, records, or things which that person is required to bring and produce to the Tribunal; and
   (d) the entitlement to be tendered or paid a sum in respect of allowances and travelling expenses; and
   (e) the penalty for failing to attend.
-(3) The power to issue a witness summons may be exercised by the Tribunal or a Chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or a Chairperson.
+(3) The power to issue a witness summons may be exercised by the Tribunal or the Chairperson or a Deputy Chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or the Chairperson or a Deputy Chairperson.
 
 ### 110 Service of summons
-(1) A witness summons may be served—
-  (a) by delivering it personally to the person summoned; or
-  (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
+(1) A witness summons may be served by—
+  (a) delivering the summons personally to the witness or, if he or she refuses to accept it, bringing it to his or her attention; or
+  (b) delivering the summons to the witness at his or her usual place of residence by any form of prepaid delivery service that requires an acknowledgement of receipt of delivery from the witness.
 (2) The summons shall,—
   (a) where it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required; or
-  (b) where it is served under subsection (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)﻿(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (b) where it is served under subsection (1)﻿(b), be served at least 8 working days before the date on which the attendance of the witness is required.
+(3)
 
 ### 111 Witnesses' allowances
 (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
@@ -1396,14 +1442,25 @@ Witnesses and counsel appearing before the Tribunal shall have the same privileg
 (3) No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 111.
 
 ### 114 Power to commit for contempt
-(1) If any person—any officer of the Tribunal, with or without the assistance of any constable or other person, may, in accordance with any order given by a member of the Tribunal, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Tribunal, and the Chairperson may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
-  (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
+(1) If any person—any officer of the Tribunal, with or without the assistance of any constable or other person, may, in accordance with any order given by a member of the Tribunal, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Tribunal, and the Chairperson or a Deputy Chairperson may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
+  (a) threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,—
 (2) A warrant under subsection (1) may be filed in the District Court and shall then be enforceable as an order made by that court.
 
 ### 115 Tribunal may dismiss trivial, etc, proceedings
 The Tribunal may at any time dismiss any proceedings brought under section 92B or section 92E if it is satisfied that they are trivial, frivolous, or vexatious or are not brought in good faith.
+
+### 115A Tribunal may strike out, determine, or adjourn proceedings
+(1) The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, the Tribunal may,—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 116 Reasons to be given
 (1) This section applies to the following decisions of the Tribunal:
@@ -1439,6 +1496,10 @@ No member of the Tribunal shall be personally liable for any act done or omitted
   (c) an interim order under section 95.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $5,000 who contravenes or refuses to comply with any other order of the Tribunal made under section 92I or an interim order of the Tribunal made under section 95.
 
+### 121A Practice notes
+(1) The Chairperson of the Tribunal may issue practice notes as he or she considers appropriate.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of the other members of the Tribunal, officers of the Tribunal, and parties before the Tribunal.
+
 ### 122 Stating case for High Court
 (1) The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the proceedings or of its own motion, state a case for the opinion of the High Court on any question of law arising in any proceedings before the Tribunal.
 (1A) If, in any proceedings before the Tribunal, the validity of any regulation is questioned, the Tribunal must, unless it considers that there is no arguable case in support of the contention that the regulation is invalid, either—
@@ -1469,7 +1530,7 @@ No member of the Tribunal shall be personally liable for any act done or omitted
   (b) a party to the proceedings may, under section 124, appeal to the Court of Appeal against the determination of the High Court on a question of law arising in the proceedings.
 
 ### 123 Appeals to High Court
-(1) Where any party is dissatisfied with any interim order made by the Chairperson under section 95, that party may appeal to the High Court against the whole or part of that order.
+(1) Where any party is dissatisfied with any interim order made by the Chairperson or a Deputy Chairperson under section 95, that party may appeal to the High Court against the whole or part of that order.
 (2) A party to a proceeding under section 92B or section 92E may appeal to the High Court against all or any part of a decision of the Tribunal—
   (a) dismissing the proceeding; or
   (b) granting 1 or more of the remedies described in section 92I; or
@@ -1480,7 +1541,7 @@ No member of the Tribunal shall be personally liable for any act done or omitted
   (a) a party to the proceeding expressly applies to the Tribunal for the remedy in relation to a particular enactment; and
   (b) the Tribunal does not grant the remedy in relation to that enactment.
 (3) Where any party is dissatisfied with any decision of the Tribunal making a declaration under section 97, that party may appeal to the High Court against the whole or any part of that decision.
-(4) Every appeal under this section shall be made by giving notice of appeal within 30 days after the date of the giving by the Tribunal in writing of the decision to which the appeal relates.
+(4) Every appeal under this section shall be made by giving notice of appeal within 22 working days after the date of the giving by the Tribunal in writing of the decision to which the appeal relates.
 (5) In determining any appeal under this section the High Court shall have the powers conferred on the Tribunal by sections 105 and 106, and those sections shall apply accordingly with such modifications as are necessary.
 (6) In its determination of any appeal, the court may—
   (a) confirm, modify, or reverse the order or decision appealed against, or any part of that order or decision:
@@ -1492,8 +1553,8 @@ No member of the Tribunal shall be personally liable for any act done or omitted
 ### 124 Appeal to Court of Appeal on a question of law
 (1) Any party to any proceedings before the High Court under this Act may, with the leave of the High Court, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in those proceedings:
   provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
-(2) A party desiring to appeal to the Court of Appeal under this section shall, within 21 days after the determination of the High Court, or within such further time as that court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that court, and the High Court may grant leave accordingly if in the opinion of that court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
-(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 21 days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that court, for special leave to appeal to that court, and the Court of Appeal may grant leave accordingly if, in the opinion of that court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(2) A party desiring to appeal to the Court of Appeal under this section shall, within 15 working days after the determination of the High Court, or within such further time as that court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that court, and the High Court may grant leave accordingly if in the opinion of that court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 15 working days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that court, for special leave to appeal to that court, and the Court of Appeal may grant leave accordingly if, in the opinion of that court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 (4) On any appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
 (5) The same judgment must be entered in the High Court, and the same execution and other consequences and proceedings must follow on it, as if the decision of the Court of Appeal on an appeal under this section had been given in the High Court.
 (6) The decision of the Court of Appeal on any application to that court for leave to appeal shall be final.
@@ -1777,7 +1838,7 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
 
 ## Schedule 1AA — Transitional, savings, and related provisions
 
-**Human Rights Amendment Act 2016: transitional provisions**
+### Part 1 — Provision relating to Human Rights Amendment Act 2016
 
 ### 1 Human Rights Amendment Act 2016: transitional provisions
 (1) The provisions in subclauses (2) to (5) are transitional provisions for the Human Rights Amendment Act 2016 (the Amendment Act).
@@ -1789,6 +1850,14 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
   (a) does not apply to the exercise of the power to appoint the first person to lead the work of the Commission in the priority area of disability rights; but
   (b) does apply to any reappointment of the first person appointed, or any extension of his or her appointment.
 (5) A reference in any instrument, document, or notice to the Equal Employment Opportunities Commissioner or the Race Relations Commissioner must be read as a reference, respectively, to the person leading the work of the Commission in the priority area of equal employment opportunities (including pay equity) or the person leading the work of the Commission in the priority area of race relations, as the case may be.
+
+### Part 2 — Provision relating to Tribunals Powers and Procedures Legislation Act 2018
+
+### 2 Chairpersons of Human Rights Review Tribunal
+(1) A person who holds the office of Chairperson immediately before the commencement date continues in office for the balance of his or her term, despite sections 81 and 83 of the Tribunals Powers and Procedures Legislation Act 2018, even if the consequence is that the Tribunal continues to have 2 Chairpersons until (at the latest) 31 December 2019.
+(2) Each of those Chairpersons may, in consultation with the other Chairperson, exercise the powers of the Chairperson of the Tribunal under the Human Rights Act 1993, as amended by subpart 7 of Part 1 of the Tribunals Powers and Procedures Legislation Act 2018.
+(3) While 2 Chairpersons are appointed, they must act together in issuing practice notes under section 121A.
+(4) For the purpose of this clause, commencement date means the date on which section 83 of the Tribunals Powers and Procedures Legislation Act 2018 comes into force.
 
 ## Schedule 1 — Administrative provisions applying in respect of Commission
 
