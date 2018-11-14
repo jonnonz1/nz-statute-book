@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2017-07-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -1655,6 +1655,17 @@ A person who is in doubt as to the appropriate licensing committee to apply to m
   (b) any number of other members.
 (2) No person is employed in the service of Her Majesty for the purposes of the State Sector Act 1988 by virtue only of appointment to the licensing authority.
 
+### 179A Appointment of temporary acting chairperson, deputy chairperson, or member
+(1) If the chairperson, a deputy chairperson, or a member of the licensing authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chairperson, a deputy chairperson, or a member of the licensing authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person as the acting chairperson, an acting deputy chairperson, or an acting member for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting chairperson, an acting deputy chairperson, or an acting member unless he or she is eligible for appointment to the relevant position.
+(3) An acting chairperson, acting deputy chairperson, or acting member is, while acting in the position, to be treated as the chairperson, a deputy chairperson, or a member of the licensing authority.
+(4) No appointment of an acting chairperson, acting deputy chairperson, or acting member, no act done by an acting chairperson, acting deputy chairperson, or acting member, and no act done by the licensing authority may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
+### 179B Orderly and efficient operation
+The chairperson of the licensing authority is responsible for making any arrangements that are practicable to ensure that he or she and each member perform their functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+
 ### 180 Chairperson and deputy chairperson
 (1) As the office becomes vacant, a member of the licensing authority who is a District Court Judge must be appointed chairperson of the authority.
 (2) Every other member of the licensing authority who is a District Court Judge must be appointed a deputy chairperson of the authority.
@@ -1664,9 +1675,16 @@ A person who is in doubt as to the appropriate licensing committee to apply to m
 (6) No acts done by a deputy chairperson serving as acting chairperson in the chairperson's absence, and no acts done by the licensing authority while a deputy chairperson is so serving, can in any proceedings be questioned on the ground that the occasion for his or her so serving had not arisen or had ceased.
 
 ### 181 Term of office of members
-(1) A member of the licensing authority holds office for a term, stated when the member is appointed, of up to 5 years.
-(2) But unless he or she sooner resigns or is removed from office, the chairperson of the licensing authority continues in office as a member until another member is appointed chairperson.
-(3) A member may be reappointed.
+(1) A member of the licensing authority holds office for a term, stated when the member is appointed, of up to 5 years and may be reappointed for further terms of up to 5 years.
+(2) A member continues in office despite the expiry of his or her term of office until—
+  (a) the member is reappointed; or
+  (b) the member’s successor is appointed; or
+  (c) the member is notified that a replacement member will not be appointed; or
+  (d) the member vacates or is removed from office.
+(3) A member who continues in office for any period under subsection (2), unless he or she was removed from office, may act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the licensing authority before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(4) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 182 Resignation or removal from office
 (1) A member of the licensing authority may resign from office at any time by written notice to the Minister.
@@ -1813,6 +1831,7 @@ For the purposes of this Act, the chief executive of the territorial authority i
   (a) the applicant; and
   (b) each objector; and
   (c) the constable, the inspector, and the Medical Officer of Health, to whom a copy of the application has been sent in accordance with this Act.
+(5) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the licensing authority or the chairperson considers it appropriate and the necessary facilities are available.
 
 ### 203 Proceedings of licensing authority and licensing committees
 (1) Whenever the licensing authority meets for the purpose of hearing any appeal, or the authority or any licensing committee meets for the purposes of exercising or performing any power or function that it is required by this Act to exercise or perform at a public hearing, the meeting must, except in a case to which section 202(1) applies and subject to the provisions of subsections (3) and (4), be held in public.
@@ -1900,6 +1919,15 @@ Where any person has neglected or omitted to do any act or thing in the precise 
 (4) The licensing authority must take all reasonably practicable steps to ensure that copies of its decisions are publicly available.
 (5) Every territorial authority must take all reasonably practicable steps to ensure that copies of all the decisions of its licensing committees are publicly available.
 (6) A decision takes effect on the date stated in the decision (or, if no date is stated, on the date the decision is given).
+
+### 211A Contempt of licensing authority
+(1) A person commits an offence if the person—
+  (a) wilfully insults or obstructs the licensing authority or any member of it, a witness, or an officer of the licensing authority during a sitting of the licensing authority or while a member, a witness, or an officer is going to, or returning from, a sitting of the licensing authority; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of the licensing authority; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of the licensing authority; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of the licensing authority in the course of the hearing of any proceedings.
+(2) A person who commits an offence against subsection (1) is liable on conviction to a fine not exceeding $1,000.
+(3) The licensing authority may order the exclusion from a sitting of the licensing authority of any person whose behaviour, in the opinion of the licensing authority, constitutes an offence against subsection (1), whether or not the person is charged with the offence; and any officer of the licensing authority or constable may take any steps that are reasonably necessary to enforce the exclusion.
 
 ### Subpart 7 — Management of licensed premises
 
