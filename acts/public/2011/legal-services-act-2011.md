@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -867,7 +867,7 @@ The provisions of section 115 apply to a deduction notice given to a third party
 
 ### 53 Application for review
 (1) An application for review must, subject to subsection (2), be made in the prescribed manner to the chairperson of the Tribunal within 20 working days after the date on which notice of the relevant decision is given to the applicant.
-(2) The chairperson of the Tribunal may accept a late application no later than 3 months after the date on which notice of the relevant decision was given to the applicant if the chairperson is satisfied that exceptional circumstances prevented the application from being made within 20 working days after the date on which notice was given.
+(2) The chairperson of the Tribunal may accept a late application no later than 60 working days after the date on which notice of the relevant decision was given to the applicant if the chairperson is satisfied that exceptional circumstances prevented the application from being made within 20 working days after the date on which notice was given.
 (3) In deciding whether to accept a late application for review under subsection (2), the chairperson must have regard to whether the applicant made a late application for reconsideration of the original decision, and the applicant’s reasons for that late application.
 
 ### 54 Powers and duties of chairperson of Tribunal on receipt of application for review
@@ -894,8 +894,13 @@ On receipt of an application for review, the chairperson of the Tribunal—
   (a) the Tribunal must give reasons for the direction and may set out the matters that the Commissioner must take into account when reconsidering the decision; and
   (b) the Commissioner must reconsider the decision, taking into account the reasons for the direction and any matters set out by the Tribunal.
 
+### 57A Suppression orders
+(1) The Tribunal may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be made subject to any conditions that the Tribunal considers appropriate.
+
 ### 58 Chairperson may direct publication of Tribunal decisions
-The chairperson of the Tribunal may direct such publication of decisions of the Tribunal as the chairperson considers necessary or desirable in the public interest.
+(1) The chairperson of the Tribunal may direct such publication of decisions of the Tribunal as the chairperson considers necessary or desirable in the public interest.
+(2) Subsection (1) is subject to section 57A.
 
 **Appeals and references on question of law**
 
@@ -933,7 +938,7 @@ The functions of the Tribunal are to—
 (1) The primary function of the chairperson is to ensure that the Tribunal performs its functions in accordance with this Act in an efficient and effective manner.
 (2) The chairperson has all the powers necessary in order to perform his or her functions, including the power to—
   (a) make the arrangements necessary to ensure each member of the Tribunal is able to perform his or her functions as a member of the Tribunal:
-  (b) issue practice notes (not inconsistent with this Act or the regulations) for regulating the practice and procedure of the Tribunal:
+  (b) issue practice notes (not inconsistent with this Act or the regulations) for regulating the practice and procedure of the Tribunal and for the guidance of members of the Tribunal, officers of the Tribunal, and parties before the Tribunal:
   (c) develop a code of conduct for members of the Tribunal:
   (d) require particular members of the Tribunal to determine particular reviews.
 
@@ -947,6 +952,12 @@ The functions of the Tribunal are to—
 (3) A person to whom any functions, duties, or powers are delegated may perform and exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
 (4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
 (5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with clause 4 of Schedule 3 for work undertaken in that capacity.
+
+### 66A Appointment of temporary acting chairperson or member
+(1) If the chairperson or a member of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chairperson or a member considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person as the acting chairperson or an acting member for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting chairperson or an acting member unless he or she is eligible for appointment to the relevant position.
+(3) The acting chairperson or an acting member is, while acting in the position, to be treated as the chairperson or a member of the Tribunal.
+(4) No appointment of an acting chairperson or acting member, no act done by an acting chairperson or acting member, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
 ### 67 Further provisions that apply to Tribunal in Schedule 3
 Part 1 of Schedule 3 contains further provisions that apply to the Tribunal.
@@ -1109,16 +1120,27 @@ A person may not apply for judicial review of any decision made under this subpa
 (1) The function of the Review Authority is to review decisions of the Secretary set out in section 82(1).
 (2) The Review Authority may review a decision of the Secretary only on the application of a person in respect of whom the decision is made.
 
+### 85A Review Authority may strike out review
+The Review Authority may strike out, in whole or in part, a review if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+
 ### 86 Decisions of Review Authority
 (1) The Review Authority may determine a review by confirming, modifying, or reversing the decision under review.
 (2) The Review Authority must provide reasons for its decision.
 (3) The Review Authority's decision is binding on the Secretary and the person to whom the decision applies.
 
+### 86A Suppression orders
+(1) The Review Authority may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be made subject to any conditions that the Review Authority considers appropriate.
+
 ### 87 Further provisions in Schedule 3
 Part 3 of Schedule 3 contains further provisions that apply to the Review Authority.
 
 ### 87A Deputy Review Authority
-(1) A Deputy Review Authority appointed under section 84(2) has the functions, powers, duties, and immunities of the Review Authority and every reference to the Review Authority in sections 85 to 87 and in Part 3 of Schedule 3 is taken to include a reference to a Deputy Review Authority.
+(1) A Deputy Review Authority appointed under section 84(2) has the functions, powers, duties, and immunities of the Review Authority (except the function of issuing practice notes under section 87D), and every reference to the Review Authority in sections 85 to 87 and in Part 3 of Schedule 3 is taken to include a reference to a Deputy Review Authority.
 (2) This section is subject to section 87B.
 
 ### 87B Scope of functions of Deputy Review Authority
@@ -1137,6 +1159,18 @@ Part 3 of Schedule 3 contains further provisions that apply to the Review Author
   (a) that Deputy Review Authority is the nominated deputy; or
   (b) the decision has been, or is part of a class of decision that has been, assigned to that Deputy Review Authority under subsection (1)﻿(c).
 (5) The fact that a Deputy Review Authority purports to exercise or perform, or to have exercised or performed, any function, duty, or power under this section or under an assignment under subsection (1)﻿(c) or under a nomination under subsection (2) is, in the absence of proof to the contrary, sufficient evidence of the person’s authority to do so.
+
+### 87C Appointment of temporary acting Review Authority or Deputy Review Authority
+(1) If the Review Authority or a Deputy Review Authority becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the Review Authority or a Deputy Review Authority considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Minister may appoint a suitable person as the acting Review Authority or an acting Deputy Review Authority for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting Review Authority or an acting Deputy Review Authority unless he or she is eligible for appointment to the relevant position.
+(3) The acting Review Authority or an acting Deputy Review Authority is, while acting in the position, to be treated as the Review Authority or a Deputy Review Authority.
+(4) No appointment of an acting Review Authority or acting Deputy Review Authority and no act done by an acting Review Authority or acting Deputy Review Authority may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
+**Practice notes, procedural information, and publication of decisions**
+
+### 87D Practice notes
+(1) The Review Authority may issue practice notes as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of a Deputy Review Authority, officers of the Authority, and parties before the Authority.
 
 **Quality assurance checks**
 
@@ -1350,6 +1384,9 @@ Except as otherwise authorised by the Secretary, providers must pay all disburse
 ### 112 Offence in relation to applications for approval
 Every provider commits an offence, and is liable on conviction to a fine not exceeding $5,000, who makes a false or misleading representation in relation to any application for, or that relates to an approval to provide, legal aid services or specified legal services.
 
+### 112A Offence of breaching suppression order
+A person who breaches an order made under section 57A or 86A is liable on conviction to a fine not exceeding $3,000.
+
 ### 113 Offences in relation to examination and audit
 Every provider or former provider commits an offence and is liable on conviction to a fine not exceeding $5,000 who, having received a notice under section 92(3), fails to comply with section 92(1) to such a degree that the auditors conducting the examination or audit to which the notice relates are unable to satisfactorily conclude the examination or audit.
 
@@ -1437,9 +1474,14 @@ Regulations providing for transitional or savings provisions
 (1) Any notice or other communication required to be given to any person under this Act or the regulations may be given by delivering it to that person, and may be delivered—
   (a) personally; or
   (b) by leaving it at that person's usual or last known place of residence or business in New Zealand; or
-  (c) by posting it in a letter addressed to the person at his or her usual or last known place of residence or business in New Zealand.
+  (c) by posting it in a letter addressed to the person at his or her usual or last known place of residence or business in New Zealand; or
+  (d) by sending it to that person electronically.
 (2) If a notice or any other communication is sent to a person by post, then, in the absence of proof to the contrary, the notice or other communication is deemed to have been given to that person when the letter would have been delivered in the ordinary course of post.
 (3) In proving delivery, it is sufficient to prove that the letter was properly addressed and posted.
+(4) If a notice or any other communication is served in electronic form under subsection (1)﻿(d), then, unless the contrary is shown,—
+  (a) the notice or other communication is served at the time the electronic communication containing the notice or communication first enters an information system outside the control of its originator; and
+  (b) in proving service, it is sufficient to prove that the electronic communication was properly addressed and sent.
+(5) In this section, information system means a system for producing, sending, receiving, storing, displaying, or otherwise processing electronic communications.
 
 **Effect of rights conferred by this Act**
 
@@ -1727,18 +1769,22 @@ If an applicant for legal aid is concerned in the matter only in a representativ
 ### Part 1 — Further provisions that apply to Legal Aid Tribunal
 
 ### 1 Term of appointment and reappointment of members
-(1) The term of office of a member of the Tribunal must not exceed 3 years.
+(1) The term of office of a member of the Tribunal must not exceed 5 years.
 (2) A member of the Tribunal may be reappointed.
 
 ### 2 Oath of office
 Before performing his or her functions as a member of the Tribunal, each member of the Tribunal must swear or affirm before a Judge of the High Court that the member will faithfully and impartially perform his or her duties as a member of the Tribunal.
 
 ### 3 Continuation of term of office
-A member continues in office despite the expiry of his or her term of office until—
+(1) A member continues in office despite the expiry of his or her term of office until—
   (a) the member is reappointed; or
   (b) the member’s successor is appointed; or
   (c) the Governor-General informs the member by written notice (with a copy to the chairperson) that the member is not to be reappointed and no successor is to be appointed at that time; or
   (d) the member vacates office under clause 7.
+(2) A member who continues in office for any period under subclause (1) may (unless he or she is removed from office) act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(3) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 4 Remuneration of members of Tribunal
 (1) The members of the Tribunal are entitled—
@@ -1805,8 +1851,17 @@ The Ministry must provide the administrative support necessary to enable a commi
 ### Part 3 — Further provisions that apply to the Review Authority
 
 ### 18 Term of office and reappointment
-(1) The term of office of the Review Authority must not exceed 3 years.
+(1) The term of office of the Review Authority must not exceed 5 years.
 (2) The Review Authority may be reappointed.
+(3) The Review Authority continues in office despite the expiry of his or her term of office until—
+  (a) the Review Authority is reappointed; or
+  (b) the Review Authority’s successor is appointed; or
+  (c) the Review Authority is notified that a replacement Review Authority will not be appointed; or
+  (d) the Review Authority vacates or is removed from office.
+(4) A person who continues in office for any period under subclause (3), unless he or she was removed from office, may act as the Review Authority during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by them before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(5) A person who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 19 Independence of Review Authority
 (1) The Review Authority must perform his or her functions independently of the Minister.
@@ -1833,10 +1888,13 @@ Civil proceedings may not be brought against any person who supplies information
 (3) The Review Authority ceases to hold office if he or she is adjudged bankrupt under the Insolvency Act 2006.
 
 ### 25 Procedure
-The procedures of the Review Authority must be conducted in the manner set out in regulations.
+The Review Authority may regulate his or her procedure as he or she thinks fit, subject to this Act, any regulations made under it, and any practice notes issued under section 87D.
 
-### 26 Administrative support
-The Ministry must provide the administrative support necessary to enable the Review Authority to perform its functions.
+### 26 Orderly and efficient operation
+(1) The Review Authority is responsible for making any arrangements that are practicable to ensure that he or she and any Deputy Authorities, perform their functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+(2) The Ministry of Justice must provide the resources and administrative support necessary to enable the Review Authority to perform his or her functions.
 
 ## Schedule 4 — Consequential amendments
 
