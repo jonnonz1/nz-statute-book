@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -130,13 +130,13 @@ In this Act, unless the context otherwise requires,—
   - **category 1 offence** means—
     (a) an offence that is not punishable by a term of imprisonment, other than—
       (i) an infringement offence; or
-      (ii) an offence described in paragraph (b) or (c) of the definition of a category 2 offence; or
+      (ii) an offence described in paragraph (b) of the definition of a category 2 offence; or
       (iii) an offence described in paragraph (b) of the definition of a category 3 offence; or
     (b) an infringement offence, if proceedings in relation to that offence are commenced by filing a charging document under section 14, not by the issuing of an infringement notice
   - **category 2 offence** means—
     (a) an offence punishable by a term of imprisonment of less than 2 years; or
-    (b) an offence that, if committed by a body corporate, is punishable by only a fine, but that would be punishable by a term of imprisonment of less than 2 years if committed by an individual; or
-    (c) an offence punishable by a community-based sentence and not punishable by a term of imprisonment
+    (b) an offence that, if committed by a body corporate, is punishable by only a fine, but that would be punishable by a term of imprisonment of less than 2 years if committed by an individual
+    (c)
   - **category 3 offence** means an offence, other than an offence listed in Schedule 1,—
     (a) that is punishable by imprisonment for life or by imprisonment for 2 years or more; or
     (b) that, if committed by a body corporate, is punishable by only a fine, but that would be punishable by imprisonment for life or by imprisonment for 2 years or more if committed by an individual
@@ -359,6 +359,12 @@ If the Registrar accepts a charging document for filing under section 26 or the 
 (1) This section applies if a charging document has been filed and a summons has been issued under section 28, 29, or 33 that has not been served on the defendant.
 (2) If the summons relates to a category 1 offence, a District Court Judge may issue a warrant to arrest the defendant and bring him or her before the District Court if the Judge is satisfied that reasonable efforts have been made to serve the summons on the defendant.
 (3) If the summons relates to a category 2, 3, or 4 offence, a judicial officer or Registrar may issue a warrant to arrest the defendant and bring him or her before the District Court if the judicial officer or Registrar is satisfied that reasonable efforts have been made to serve the summons on the defendant.
+
+### 34A When warrant may be issued irrespective of whether summons has been issued or served
+(1) This section applies if a charging document has been filed for a category 2, 3, or 4 offence, whether or not a summons has been issued or served.
+(2) A judicial officer or Registrar may issue a warrant to arrest the defendant and bring him or her before the District Court if the judicial officer or Registrar is satisfied that—
+  (a) a warrant is necessary to compel the attendance of the defendant (for example, because the location of the defendant is unknown); or
+  (b) having regard to the gravity of the alleged offence and the circumstances of the case, a warrant is desirable to compel the attendance of the defendant.
 
 ### Subpart 3 — Court dealing with proceeding before trial or transfer for trial
 
@@ -1131,6 +1137,10 @@ On a charge of murder, the jury—
   (c) the prosecutor attends the hearing, but the defendant does not.
 (2) The court may proceed with the hearing in the absence of the defendant.
 (3) If the court proceeds with a trial in the absence of the defendant, it must proceed as if the defendant had entered a plea of not guilty.
+(4) Despite subsection (2), a court may not impose a community-based sentence on a defendant in the defendant’s absence.
+(5) If the defendant pleads, or is found, guilty and the court has reason to believe that a community-based sentence may be imposed on the defendant, the court may—
+  (a) issue a summons to bring the defendant before the court; or
+  (b) issue a warrant to arrest the defendant to bring him or her before the court.
 
 ### 120 Non-attendance of defendant charged with offence in category 2, 3, or 4: before plea is entered
 (1) This section applies to any hearing if—
@@ -1183,7 +1193,7 @@ On a charge of murder, the jury—
   (b) all provisions that relate to the conduct of the proceedings continue to apply, with any necessary modifications; and
   (c) if the offence charged is a category 1 offence, evidence of a fact or opinion that would be admissible if given by oral evidence, is also admissible if given by way of an affidavit or a formal statement; and
   (d) the charge against the defendant may be proceeded with up to and including,—
-    (i) in the case of a category 1 offence, sentencing; or
+    (i) in the case of a category 1 offence, sentencing (unless section 119(4) or (5) applies); or
     (ii) in any other case, delivery of the decision or verdict of the Judge or jury.
 (3) If a person is found guilty in his or her absence at a hearing at which the defendant is required by section 118 to be present, the court may—
   (a) direct that a notice be served on the defendant advising the defendant—
@@ -1346,7 +1356,8 @@ If a retrial or rehearing is ordered under section 125 or 126,—
   (b) if 1 charge is to be tried in the High Court, all charges must be tried in the High Court.
 (2) If in accordance with section 138 the charges against a defendant are to be heard with charges against 1 or more other defendants, unless there are exceptional circumstances that make separate trials necessary in the interests of justice, then,—
   (a) if 1 defendant elects to be tried by a jury on 1 charge, all charges against all the defendants must be tried by a jury; and
-  (b) if 1 charge is to be tried in the High Court, all charges against all defendants must be tried in the High Court.
+  (b) if 1 charge is to be tried in the High Court, all charges against all defendants must be tried in the High Court; and
+  (c) if the charges against more than 1 defendant are tried by a jury, for the purposes of this Act, each defendant must be treated as if he or she had elected trial by jury.
 
 ### 140 Procedure if charges to be heard together include new charges
 (1) This section applies if—
@@ -1571,13 +1582,21 @@ An order for a retrial under section 151 or 154 may be granted subject to—
 (4) Before entry onto the premises, the constable must—
   (a) announce his or her intention to enter the premises; and
   (b) identify himself or herself.
-(5) Before or on entry onto the premises, the constable must—
-  (a) give the occupier of the premises a copy of the warrant; and
-  (b) produce to the occupier of the premises evidence of his or her identity (which may include details of a unique identifier instead of a name).
-(6) For the purposes of subsection (5), the following persons must not be treated as the occupier of the premises:
-  (a) any person who is under the age of 14 years:
-  (b) any person who the constable has reasonable grounds to believe is not the occupier of the premises.
-(7) The constable is not required to comply with subsection (4) or (5) if he or she has reasonable grounds to believe that compliance with subsection (4) or (5) would endanger the safety of any person or prejudice the successful exercise of the entry and execution of the warrant.
+(5) Before or on entry into the premises, the constable must—
+  (a) give or show the occupier of the premises a copy of the warrant; and
+  (b) identify himself or herself by name or by a unique identifier; and
+  (c) if not in Police uniform, produce evidence of his or her identity.
+(6) If the occupier of the premises is not present at any time during the entry, or no person is in charge of the premises during the entry, the constable carrying out the entry must, unless to do so would prejudice an ongoing investigation,—
+  (a) on completion of the entry, leave a copy of the notice referred to in subsection (6A) and a copy of the arrest warrant (if applicable) in a prominent position at the premises; or
+  (b) if that is not reasonably practicable, provide a copy of the notice referred to in subsection (6A) and a copy of the arrest warrant (if applicable) to the occupier of the premises no later than 7 days after the exercise of the power.
+(6A) The notice required by subsection (6) is a written notice containing the following particulars:
+  (a) the date and time of the commencement and completion of the entry:
+  (b) the name or unique identifier of the person who had overall responsibility for the entry:
+  (c) the address of the office to which inquiries should be made.
+(6B) For the purposes of this section, the following persons may not be treated as the occupier of the premises:
+  (a) any person who is under 14 years of age:
+  (b) any person who the constable executing the warrant has reasonable grounds to believe is not the occupier of the premises.
+(7) The constable is not required to comply with subsection (4), (5), or (6) if he or she has reasonable grounds to believe that compliance with subsection (4), (5), or (6) would endanger the safety of any person or prejudice the successful exercise of the entry and execution of the warrant.
 (8) The constable may use reasonable force in order to effect entry into the premises if subsection (7) applies or if, following a request, the person present refuses entry or does not allow entry within a reasonable time.
 
 ### 163 Withdrawal of warrant
@@ -2140,12 +2159,15 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
   (b) making an order under section 157 (to transfer proceeding to court at another place).
 
 ### 219 First appeal courts
-The first appeal court for an appeal under this subpart is—
+(1) The first appeal court for an appeal under this subpart is—
   (a) the District Court presided over by a District Court Judge, if the appeal is against a decision of the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
   (b) the High Court, if the appeal is against a decision of the District Court presided over by a District Court Judge, other than a decision—
     (i) made in proceedings for a category 3 offence after the defendant elected a jury trial; or
     (ii) made in proceedings for a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
+(2) For the purposes of subsection (1), if a defendant elected a jury trial but subsequently withdrew his or her election before trial,—
+  (a) the defendant must be treated as if he or she had not elected a jury trial; but
+  (b) any appeal commenced before the date on which the defendant withdrew his or her election must be determined by the appeal court that had jurisdiction to determine the appeal at the time it was commenced.
 
 ### 220 How to commence first appeal
 (1) A defendant or prosecutor commences a first appeal under this subpart by filing in the first appeal court a notice of application for leave to appeal to that court.
@@ -2207,12 +2229,13 @@ Every determination of a second appeal under this subpart by the High Court is f
 (2) An appeal against a finding that the convicted person is guilty of a contempt of court must be brought under subpart 5.
 
 ### 230 First appeal courts
-The first appeal court for an appeal under this subpart is—
+(1) The first appeal court for an appeal under this subpart is—
   (a) the District Court presided over by a District Court Judge, if the appeal is against a conviction entered by the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
   (b) the High Court, if the appeal is against a conviction entered by the District Court presided over by a District Court Judge, other than a conviction for—
     (i) a category 3 offence after the convicted person elected a jury trial; or
     (ii) a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
+(2) For the purposes of subsection (1), if a convicted person elected a jury trial but subsequently withdrew his or her election before trial, the convicted person must be treated as if he or she had not elected a jury trial.
 
 ### 231 How to commence first appeal
 (1) A convicted person commences a first appeal under this subpart by filing in the first appeal court—
@@ -2327,7 +2350,7 @@ The fact that a defendant has received a sentence indication does not affect the
 (3) However, if the defendant is the Crown Law Office, the appeal may be brought only with the consent of the Attorney-General and any decision to give consent must be given personally by the Attorney-General.
 
 ### 247 First appeal courts
-The first appeal court for an appeal under this subpart is—
+(1) The first appeal court for an appeal under this subpart is—
   (a) the District Court presided over by a District Court Judge, if the appeal is against a sentence imposed by the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
   (b) the High Court, if the appeal is against a sentence imposed by the District Court presided over by a District Court Judge and if—
     (i) the sentence was for a category 1 or 2 offence; or
@@ -2337,6 +2360,7 @@ The first appeal court for an appeal under this subpart is—
     (ii) the convicted person pleaded guilty to the offence before the trial; and
     (iii) the sentence appealed against is not a sentence of imprisonment exceeding 5 years; or
   (d) either the Court of Appeal or the Supreme Court, in any other case.
+(2) For the purposes of subsection (1), if a convicted person elected a jury trial but subsequently withdrew his or her election before trial, the convicted person must be treated as if he or she had not elected a jury trial.
 
 ### 248 How to commence first appeal
 (1) A convicted person or prosecutor commences a first appeal under this subpart by filing in the first appeal court—
@@ -2502,12 +2526,15 @@ In this subpart, costs order means an order for the payment of costs under secti
 A person affected by a decision to make or refuse to make a costs order may appeal under this subpart against the decision to the first appeal court.
 
 ### 272 First appeal courts
-The first appeal court for an appeal under this subpart is—
+(1) The first appeal court for an appeal under this subpart is—
   (a) the District Court presided over by a District Court Judge, if the appeal is against a decision of the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
   (b) the High Court, if the appeal is against a decision of the District Court presided over by a District Court Judge other than a decision—
     (i) made in proceedings for a category 3 offence after the defendant elected a jury trial; or
     (ii) made in proceedings for a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
+(2) For the purposes of subsection (1), if a defendant elected a jury trial but subsequently withdrew his or her election before trial,—
+  (a) the defendant must be treated as if he or she had not elected a jury trial; but
+  (b) any appeal commenced before the date on which the defendant withdrew his or her election must be determined by the appeal court that had jurisdiction to determine the appeal at the time it was commenced.
 
 ### 273 How to commence first appeal
 (1) A person commences a first appeal under this subpart by filing in the first appeal court—
@@ -2663,12 +2690,15 @@ Every determination of a second appeal under this subpart by the High Court is f
   (b) arose before the trial and has already been decided under subpart 2.
 
 ### 297 First appeal courts
-The first appeal court for an appeal under this subpart is—
+(1) The first appeal court for an appeal under this subpart is—
   (a) the District Court presided over by a District Court Judge, if the appeal is against a ruling by the District Court presided over by 1 or more Community Magistrates or 1 or more Justices of the Peace; or
   (b) the High Court, if the appeal is against a ruling by the District Court presided over by a District Court Judge, other than a ruling—
-    (i) made in proceedings for a category 3 offence after the person charged elected a jury trial; or
+    (i) made in proceedings for a category 3 offence after the defendant elected a jury trial; or
     (ii) made in proceedings for a category 4 offence; or
   (c) either the Court of Appeal or the Supreme Court, in any other case.
+(2) For the purposes of subsection (1), if a defendant elected a jury trial but subsequently withdrew his or her election before trial,—
+  (a) the defendant must be treated as if he or she had not elected a jury trial; but
+  (b) any appeal commenced before the date on which the defendant withdrew his or her election must be determined by the appeal court that had jurisdiction to determine the appeal at the time it was commenced.
 
 ### 298 How to commence first appeal
 (1) A defendant or prosecutor commences a first appeal under this subpart by filing a notice of application for leave to appeal in the first appeal court.
@@ -3154,10 +3184,10 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
 (2) The District Court presided over by 1 or more Community Magistrates does not have any jurisdiction in respect of a category 1 offence that is a continuing offence.
 (3) Nothing in section 357 or 358 limits this section.
 
-### 357 Jurisdiction of Community Magistrates to impose sentence in respect of certain category 2 offences
-(1) This section applies to any category 2 offence (not being a continuing offence) in respect of which—
-  (a) the maximum term of imprisonment that can be imposed does not exceed 3 months:
-  (b) the sentence that can be imposed relates to an offence punishable by a community-based sentence and not punishable by a term of imprisonment.
+### 357 Jurisdiction of Community Magistrates to impose sentence in respect of certain category 1 and 2 offences
+(1) This section applies to—
+  (a) any category 1 offence in respect of which the maximum penalty that can be imposed is a community-based sentence and not a term of imprisonment; and
+  (b) any category 2 offence in respect of which the maximum term of imprisonment that can be imposed does not exceed 3 months.
 (2) If a person who is charged with an offence to which this section applies pleads guilty to that offence, the District Court presided over by 1 or more Community Magistrates may, in accordance with the Sentencing Act 2002, do 1 or more of the following acts:
   (a) impose, under section 32 of that Act, a sentence of reparation on the offender:
   (b) subject to section 40(3) of that Act, sentence the offender to pay a fine:
@@ -3178,6 +3208,7 @@ An appellant who has paid a fine or other monetary amount in accordance with a s
   (o) make, under section 131(3)﻿(a) of that Act, an order that sets aside the disposition by the offender of a motor vehicle or of an interest in a motor vehicle.
 (3) The District Court presided over by 1 or more Community Magistrates may not impose on any person for any offence a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002).
 (4) The District Court presided over by 1 or more Community Magistrates does not have any jurisdiction to impose a sentence under this section in respect of a category 1 or 2 offence that is a continuing offence.
+(5) Nothing in this section applies when the District Court presided over by 1 or more Community Magistrates is exercising jurisdiction in accordance with section 356.
 
 ### 358 Power to impose penalties provided for in Land Transport Act 1998
 (1) If a person who is charged with an offence to which section 357 applies pleads guilty to that offence, the District Court presided over by 1 or more Community Magistrates—
@@ -3567,12 +3598,16 @@ Any warrant of appointment held under section 28B of the District Courts Act 194
   (a) the manner of doing anything required to be done under this Act, the rules, or the regulations; or
   (b) the time within which any thing required to be done under this Act, the rules, or the regulations is to be done.
 
-### 400 Defendants and proceedings to be tried together
-(1) This section applies if proceedings were commenced (in any of the ways described in section 397(3)) against a defendant for an offence before the commencement date, and on or after the commencement date—
-  (a) a charging document is filed against the defendant for an offence arising from the same transaction, or set of circumstances, or incident, or series of incidents, as the offence for which proceedings were commenced before the commencement date; or
-  (b) a charging document is filed against another person charging him or her with an offence arising from the same transaction, or set of circumstances, or incident, or series of incidents, specified in the information laid against the defendant, and the prosecutor wishes the charges against both defendants to be heard together.
-(2) The proceedings against the defendant or defendants must be conducted in accordance with the law as it was before the commencement date as if any charging document filed under this Act were an information laid and filed under the Summary Proceedings Act 1957.
-(3) The prosecutor must give a notice to the court and the defendant or defendants stating whether the charging document referred to in subsection (2) is to be treated as an information in form 1 of Schedule 2 of the Summary Proceedings Act 1957 or an information in form 2 of Schedule 2 of that Act.
+### 400 When defendants or proceedings to be heard together under same procedural law
+(1) This section applies if—
+  (a) proceedings were commenced (in any of the ways described in section 397(3)) before 1 July 2013 against a defendant for an offence; and
+  (b) the proceedings have not been finally determined; and
+  (c) the proceedings are not proceedings to which section 399 applies; and
+  (d) on or after 1 July 2013,—
+    (i) a charging document is filed against the defendant for an offence arising from the same transaction, set of circumstances, incident, or series of incidents as the offence for which proceedings were commenced before 1 July 2013; or
+    (ii) a charging document is filed against another person charging him or her with an offence arising from the same transaction, set of circumstances, incident, or series of incidents specified in the information laid against the defendant, and the prosecutor wishes the charges against both defendants to be heard together.
+(2) The proceedings against the defendant or defendants must be conducted in accordance with the law as it was before 1 July 2013 as if any charging document filed under the Act were an information laid and filed under the Summary Proceedings Act 1957.
+(3) The prosecutor must give a notice to the court and the defendant or defendants that states whether the charging document referred to in subsection (2) is to be treated as an information in form 1 of Schedule 2 of the Summary Proceedings Act 1957 (as it read before its repeal) or an information in form 2 of Schedule 2 of that Act (as it read before its repeal).
 
 ### 401 No proceeding invalid if wrongly conducted in accordance with old law
 No proceeding is invalid only because it was conducted under the law as it was before the commencement date when it ought, in accordance with any provision of this subpart, to have been conducted in accordance with the law as it is after the commencement date.
@@ -3587,7 +3622,7 @@ Section 164 applies to a warrant of a kind referred to in that section whether t
 If, in any proceeding to which section 397 applies, a person is convicted and sentenced to home detention and on or after the date that this section comes into force either party appeals a determination to which the sentence relates, section 397(2) has effect subject to the following:
   (a) the sentence of home detention is not suspended just because a notice of appeal or application for leave to appeal has been given unless the appeal court expressly directs that the sentence be suspended; and
   (b) section 399 of the Crimes Act 1961 and section 124 of the Summary Proceedings Act 1957 (as each of those provisions read before the commencement date) do not apply; and
-  (c) the person sentenced to home detention may apply for bail and the provisions of the Bail Act 2000 (as those provisions read before the commencement date) apply except that sections 54, 55, 58 and 59A of the Bail Act (as those provisions read at the time of the appeal) apply with any necessary modifications.
+  (c) the person sentenced to home detention may apply for bail and the provisions of the Bail Act 2000 (as those provisions read before the commencement date) apply except that sections 14, 53, 54, 55, 58, and 60 of that Act (as those provisions read at the time of the appeal) apply with any necessary modifications.
 
 ### 404 Transitional provision regarding correction of erroneous sentence
 (1) Sections 180 to 182 apply to a sentence imposed or an order made before, on, or after the commencement date.
