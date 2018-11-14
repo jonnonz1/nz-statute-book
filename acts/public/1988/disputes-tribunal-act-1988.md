@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -11,22 +11,29 @@ The purpose of this Act is to consolidate and amend the Small Claims Tribunals A
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **applicant** means a person who lodges a claim with the Tribunal or who claims relief in any proceedings transferred to the Tribunal under section 24(3) or (4) or section 37; and includes any person who becomes a party to proceedings on any claim in the capacity of an applicant
+  - **authenticated** , in relation to an acknowledgement under section 28 or section 29, means—
+    (a) that the acknowledgement is signed and dated; or
+    (b) if the acknowledgement is in electronic form, that it, by the use of any electronic means, adequately identifies the person responsible for its content and the date of authentication
+  - **chief executive** means the chief executive of the Ministry of Justice
   - **claim** means a cause of action in respect of which—
-    (a) the Tribunal has jurisdiction under sections 10 to 13; and
+    (a) the Tribunal has jurisdiction under sections 10 to 11; and
     (b) proceedings have been—
       (i) commenced in the Tribunal under section 24(1); or
       (ii) transferred to the Tribunal under section 24(3) or (4) or section 37
   - **intellectual property** means any property right constituted by the Patents Act 2013, the Designs Act 1953, the Trade Marks Act 2002, the Copyright Act 1994, or the Plant Variety Rights Act 1987
   - **Investigator** means a person appointed under section 41(1) to inquire into, and report to the Tribunal upon, any matter of fact
+  - **lodge** , except for the purposes of sections 50 and 51, in relation to a document, means to lodge or file the document in, or to send it by post or electronically to, any office of the Disputes Tribunal together with the filing fee (if any) that is payable, and , , and have corresponding meanings
   - **Minister** means the Minister of Justice
-  - **no claims bonus** means a reduction in any premium payable by an insured under a contract of insurance, being a reduction that is made if the insured does not make a claim, or more than a certain number of claims, under that contract, or does not make a claim, or more than a certain number of claims, of a particular kind under that contract
   - **prescribed** means prescribed by rules made under this Act
   - **Principal Disputes Referee** means a person holding office as such under section 6A
   - **Referee** means a person holding office as such under section 7
-  - **Registrar** means a Registrar of the District Court; and includes any Deputy Registrar of that court
+  - **Registrar** means—
+    (a) the person appointed under section 4B(1) as the Disputes Tribunal Registrar; or
+    (b) a Registrar or Deputy Registrar of the District Court performing functions under this Act
   - **respondent** means any person against whom a claim is made, and any person who becomes a party to the proceedings on that claim in the capacity of a respondent
   - **Tribunal** means the Disputes Tribunal established as a division of the District Court under section 4
-  - **work order** means an order to make good a defect in any property, or a deficiency in the performance of services, by doing such work or attending to such matters (including the replacement of any property) as may be specified in the order.
+  - **work order** means an order to make good a defect in any property, or a deficiency in the performance of services, by doing such work or attending to such matters (including the replacement of any property) as may be specified in the order
+  - **writing** , except for the purposes of sections 6A, 6B, 6D, 7, and 40, includes writing in an electronic form, and has a corresponding meaning.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -42,13 +49,24 @@ The Minister may from time to time, by notice in the Gazette,—
   (a) establish such offices of the Tribunal as that Minister thinks fit; and
   (b) disestablish an office of the Tribunal and direct how the records of that office must be dealt with.
 
+### 4B Registry of Disputes Tribunal
+(1) The chief executive may establish a Registry for the Disputes Tribunal and may appoint a person to be the Disputes Tribunal Registrar.
+(2) The office of Disputes Tribunal Registrar may be held in conjunction with any other office in the public service.
+(3) The functions of the Disputes Tribunal Registrar are—
+  (a) to ensure the orderly and efficient administration of the Registry; and
+  (b) to give directions or advice, as appropriate, to Registry staff to enhance the consistency of the Registry’s performance.
+(4) The Ministry of Justice must provide the resources and administrative support necessary to enable the Disputes Tribunal to perform its functions.
+
 ### 5 Exercise of Tribunal's jurisdiction
 (1) The jurisdiction of the Tribunal shall be exercised by a Referee holding office under section 7.
 (2) If the Referee hearing any proceedings in respect of a claim dies, or becomes incapacitated, or is for any other reason unable or unavailable to complete the hearing or dispose of the proceedings, they shall be heard afresh by another Referee, unless the parties agree that the proceedings be disposed of in another way.
 
-### 6 Rostering and training of Referees
-(1) Subject to any directions given under subsection (2), a Registrar must determine the days, times, and places of the regular sessions of the Tribunal.
-(2) The Chief District Court Judge is responsible for the rostering and training of Referees and may, after consultation with the Principal Disputes Referee, give such directions as he or she considers necessary for the purpose.
+### 6 Sittings of Tribunal and rostering and training of Referees
+(1) A Registrar must schedule the days, times, and places for the regular sittings of the Tribunal and, when doing so, must implement any directions given under subsection (2).
+(2) The Principal Disputes Referee is responsible for the rostering and training of Referees and may give any directions he or she considers necessary for these purposes. Before giving any direction, the Principal Disputes Referee must consult the Chief District Court Judge.
+(3) If for any reason the office of Principal Disputes Referee is vacant, or if for any reason the Principal Disputes Referee is unable to perform his or her functions under subsection (2), the Chief District Court Judge must—
+  (a) assess and fulfil the training needs of Referees; and
+  (b) roster Referees.
 
 ### 6A Appointment of Principal Disputes Referee
 (1) The Governor-General may, from time to time, by warrant under his or her hand and on the advice of the Minister of Justice, appoint a Principal Disputes Referee.
@@ -56,11 +74,11 @@ The Minister may from time to time, by notice in the Gazette,—
   (a) holds a Bachelor of Laws from a university in New Zealand or a qualification that the Minister considers is equivalent to such a Bachelor of Laws; and
   (b) is capable, because of the person's personal attributes, knowledge, and experience, of performing the functions of a Referee and the functions of the Principal Disputes Referee set out in section 6C.
 (3) The criteria and procedures for appointment may be further prescribed by rules made under section 60; but the failure to make any such rules does not preclude the appointment or reappointment of a person as Principal Disputes Referee.
-(4) Subject to subsection (5), every person appointed as Principal Disputes Referee holds office for a term of 5 years.
+(4) Subject to subsection (5), every person appointed as Principal Disputes Referee holds office for a term of up to 5 years and, subject to subsection (2), may from time to time be reappointed.
 (5) A Principal Disputes Referee may at any time be removed from office by the Governor-General for disability affecting the performance of duty, bankruptcy, neglect of duty, or inability, or misconduct, proved to the satisfaction of the Governor-General, or may at any time resign the office of Principal Disputes Referee by notice in writing addressed to the Minister.
 (6) Unless the person sooner vacates the office under subsection (5), a Principal Disputes Referee continues in office until—
   (a) that Principal Disputes Referee's successor comes into office; or
-  (b) the chief executive of the Ministry of Justice notifies the Principal Disputes Referee that no successor to that Principal Disputes Referee is to be appointed.
+  (b) the chief executive notifies the Principal Disputes Referee that no successor to that Principal Disputes Referee is to be appointed.
 
 ### 6B Acting Principal Disputes Referee
 (1) Whenever, by reason of illness, absence from New Zealand, or any other cause, the Principal Disputes Referee is prevented from exercising the functions and powers of his or her office, the Governor-General may, by writing under his or her hand, appoint any other Referee to act as Principal Disputes Referee until the Principal Disputes Referee resumes his or her duties.
@@ -68,7 +86,10 @@ The Minister may from time to time, by notice in the Gazette,—
 
 ### 6C Functions and powers of Principal Disputes Referee
 (1) The functions of the Principal Disputes Referee are—
-  (a) to undertake appropriate measures to ensure that the integrity of the office of Referee is maintained and that Referees operate effectively and efficiently:
+  (a) to undertake appropriate measures to ensure that the integrity of the office of Referee under this Act is maintained:
+  (ab) to make any arrangements that are practicable to ensure that the Principal Disputes Referee and each Referee perform their functions—
+    (i) in an orderly and efficient manner; and
+    (ii) in a way that achieves the purposes of this Act:
   (b) to oversee and maintain the integrity of the selection process for Referees:
   (c) to oversee the administrative performance of the Tribunal and of Referees:
   (d) to give legal advice to Referees, as appropriate, to enhance the consistency of decision making:
@@ -76,6 +97,7 @@ The Minister may from time to time, by notice in the Gazette,—
   (f) to advise the Chief District Court Judge on the rostering of Referees:
   (g) to liaise, where appropriate, with interested persons on matters affecting the Referees or Tribunal proceedings:
   (h) to liaise, where appropriate, with Referees:
+  (ha) to issue practice notes as he or she thinks fit, but that are not inconsistent with this Act or any regulations made under it; for the guidance of other Disputes Tribunal Referees, officers of the Tribunal, and parties before the Tribunal:
   (i) to carry out such other functions as are conferred on the Principal Disputes Referee by rules made under section 60.
 (2) Without limiting the generality of subsection (1), the Principal Disputes Referee may sit as a Referee and exercise the jurisdiction conferred on a Referee by this Act.
 (3) The Principal Disputes Referee also has such other powers as are necessary or expedient to enable the Principal Disputes Referee to perform his or her functions and duties.
@@ -92,16 +114,20 @@ The Minister may from time to time, by notice in the Gazette,—
   (b) engage in any other employment or calling—
 (6) Notwithstanding anything in subsection (3), every Referee shall, unless that Referee sooner vacates office under subsection (4), continue in office until—
   (a) that Referee's successor comes into office; or
-  (b) the chief executive of the responsible department notifies that Referee that no successor to that Referee is to be appointed.
+  (b) the chief executive notifies that Referee that no successor to that Referee is to be appointed.
+(7) A Referee who continues in office for any period under subsection (6), unless he or she was removed from office, may act as a Referee during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Referee before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(8) A Referee who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 8 Selection of candidates for appointment or reappointment as Referees
-(1) Where it is proposed to make an appointment or reappointment under section 7, the chief executive of the responsible department shall—
-  (a) by notice publicised in the area served or to be served by the Tribunal in respect of which the appointment or reappointment is proposed to be made, invite members of the public to submit to the chief executive of the responsible department the names of any persons whom they consider would be suitable for appointment as Referees; and
+(1) Where it is proposed to make an appointment or reappointment under section 7, the chief executive shall—
+  (a) by notice publicised in the area served or to be served by the Tribunal in respect of which the appointment or reappointment is proposed to be made, invite members of the public to submit to the chief executive the names of any persons whom they consider would be suitable for appointment as Referees; and
   (b) appoint an assessment panel for the purpose of assessing the candidates for appointment or reappointment as Referees.
 (2) Every assessment panel appointed under subsection (1)﻿(b) shall consist of—
-  (a) a Registrar; and
-  (b) a Referee; and
-  (c) not more than 2 other persons, who shall be appointed to the panel by the chief executive of the responsible department by reason of their expertise, training, and experience.
+  (a) the Disputes Tribunal Registrar or a Registrar of the District Court; and
+  (b) the Principal Disputes Referee or a Referee nominated by him or her; and
+  (c) not more than 2 other persons, who shall be appointed to the panel by the chief executive by reason of their expertise, training, and experience.
 (3) Every assessment panel appointed under subsection (1)﻿(b) shall, in accordance with the criteria and procedures prescribed in rules made under this Act, assess the candidates for the appointment or reappointment in respect of which that panel was appointed, and shall—
   (a) advise the Minister of the name of the person that it recommends for appointment or reappointment as a Referee; or
   (b) advise the Minister that it makes no recommendation for appointment or reappointment in that particular case.
@@ -135,9 +161,9 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
 
 ### 11 Further limitations on jurisdiction
 (1) A debt or liquidated demand may be the subject of a declaration under section 10(1)﻿(b), but, subject to subsection (2) of this section, a claim for a debt or liquidated demand is not within the jurisdiction conferred by section 10(1)﻿(a) unless—
-  (a) the applicant satisfies the Registrar, before the claim is lodged in the Tribunal, that the claim, or a part of the claim, is in dispute; or
+  (a) the applicant satisfies a Registrar, before the claim is lodged in the Tribunal, that the claim, or a part of the claim, is in dispute; or
   (b) the applicant either—that the claim is in the nature of a counterclaim by a respondent against an applicant; or
-    (i) satisfies the Registrar before the claim is lodged in the Tribunal; or
+    (i) satisfies a Registrar before the claim is lodged in the Tribunal; or
     (ii) not having lodged or attempted to lodge the claim pursuant to subparagraph (i), satisfies the Tribunal at a hearing—
   (c) the claim is transferred to the Tribunal pursuant to section 37.
 (2) Notwithstanding subsection (1), the Tribunal may,—
@@ -223,7 +249,16 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
   (d) the Tribunal may make a work order against any party to the proceedings:
   (e) where it appears to the Tribunal that an agreement between the parties, or any term of any such agreement, is harsh or unconscionable, or that any power conferred by an agreement between them has been exercised in a harsh or unconscionable manner, the Tribunal may make an order varying the agreement, or setting it aside (either wholly or in part):
   (f) where it appears to the Tribunal that an agreement between the parties has been induced by fraud, misrepresentation, or mistake, or any writing purporting to express the agreement between the parties does not accord with their true agreement, the Tribunal may make an order varying, or setting aside, the agreement or the writing (either wholly or in part):
-  (g) the Tribunal may make an order dismissing the claim.
+  (g) the Tribunal may make an order dismissing the claim:
+  (h) the Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+    (i) discloses no reasonable cause of action; or
+    (ii) is likely to cause prejudice or delay; or
+    (iii) is frivolous or vexatious; or
+    (iv) is otherwise an abuse of process:
+  (i) if a party is neither present nor represented at the hearing of a proceeding, the Tribunal may,—
+    (i) if the party is required to be present, strike out the proceeding; or
+    (ii) determine the proceeding in the absence of the party; or
+    (iii) adjourn the hearing.
 (1A) The Tribunal may record in an order made under subsection (1)﻿(a) (a money order) that the parties have agreed to enforce the payment of the amount specified in that order by way of an attachment order made under the District Court Act 2016 if—
   (a) the money order was made at a hearing at which both parties were present; and
   (b) the party ordered to pay money consented to the payment of the money being enforced by way of an attachment order; and
@@ -260,18 +295,16 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 (4) The monetary restrictions provided for by section 10(1A) and (3), section 13(2), and subsections (4) to (7) of section 19 do not apply in respect of any interest claimed, payable, or ordered to be paid under this section.
 (5)
 
+### 20A Suppression orders
+(1) The Tribunal may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be made subject to any conditions that the Tribunal considers appropriate.
+(3) A person who breaches an order made under this section is liable on conviction to a fine not exceeding $3,000.
+
 ### 21 Reasons for decisions
-(1) The Tribunal shall in all proceedings give its reasons for its final decision in the proceedings.
-(2) The Tribunal shall give its reasons for its final decision—
-  (a) orally, at the conclusion of the hearing; or
-  (b) in writing, as soon as practicable after the conclusion of the hearing.
-(3) Where the Tribunal gives its reasons for its final decision orally, the Tribunal may of its own motion, and shall if any party to the proceedings so requests, record those reasons in writing.
-(4) A request made by a party under subsection (3),—
-  (a) if made at the conclusion of the hearing, may be made orally:
-  (b) if made after the conclusion of the hearing, shall be made—
-    (i) in writing; and
-    (ii) within 28 days of the conclusion of the hearing, or within such further time as a District Court Judge may, on application, allow.
-(5) Where, pursuant to subsection (2) or subsection (3), the Tribunal gives its reasons for its final decision in writing, every party to the proceedings shall, on request, be entitled to a copy of those reasons.
+(1) A Referee must give reasons for his or her final decision in every proceeding.
+(2) If a final decision is given orally at the end of a hearing, that decision must be recorded in writing and the reasons for that decision must be included in the written decision.
+(3) The Tribunal must provide a copy of a final decision, including the written record of an oral decision, to the parties.
+(4) In this section, final decision means a decision that determines, or substantially determines, the outcome of any proceeding.
 
 ### 22 Orders and approved settlements to be recorded in writing
 (1) The Tribunal shall make or cause to be made a written record of the terms of—
@@ -279,7 +312,7 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
   (b) every order made by it under section 18(8) or section 34(1) or section 46(2) or section 47(3)﻿(b):
   (c) every variation of a term of an agreed settlement under section 47(3)﻿(a).
 (2) The Tribunal shall, at the conclusion of the hearing, provide every party to the proceedings who is present at the hearing with a copy of every record made under subsection (1) in those proceedings.
-(3) The Registrar shall send a copy of every record made under subsection (1) in any proceedings to every party to those proceedings who is not present at the hearing.
+(3) A Registrar shall send a copy of every record made under subsection (1) in any proceedings to every party to those proceedings who is not present at the hearing.
 
 ### 23 Decisions of Tribunal to be final
 Every agreed settlement approved by the Tribunal under section 18(3), and every order made by the Tribunal under section 18(8) or section 46(2) or section 47(3)﻿(b), and every variation of a term of an agreed settlement under section 47(3)﻿(a), shall be final and binding on all parties to the proceedings in which that settlement is approved or the order or variation is made, as the case may require, and, except as provided in section 50, no appeal shall lie in respect of any such order or variation or approved settlement.
@@ -292,10 +325,10 @@ Every agreed settlement approved by the Tribunal under section 18(3), and every 
 (1) Proceedings shall be commenced by the lodging of a claim in the prescribed form, together with the prescribed fee, with the appropriate office of the Tribunal.
 (2) Subject to subsections (3) and (4), the appropriate office of the Tribunal for the purpose of subsection (1) is that which is nearest by the most practicable route to the place where the applicant resides.
 (3) Where a claim is lodged with an office of the Tribunal, or transferred to that office under section 37, and the Tribunal is satisfied that the claim can be more conveniently or fairly heard in some other office of the Tribunal, the Tribunal may order that the proceedings be transferred to that other office.
-(4) Where a claim is lodged with an office of the Tribunal, or transferred to that office under section 37, the Registrar may, on the application of any party, if all the parties to the claim consent, order that the proceedings be transferred to another office of the Tribunal.
+(4) Where a claim is lodged with an office of the Tribunal, or transferred to that office under section 37, a Registrar may, on the application of any party, if all the parties to the claim consent, order that the proceedings be transferred to another office of the Tribunal.
 
 ### 25 Notice of claim and of hearing
-(1) When a claim is lodged in accordance with section 24, the Registrar shall—
+(1) When a claim is lodged in accordance with section 24, a Registrar shall—
   (a) fix a time and place of hearing and give notice of those details in the prescribed form to the applicant; and
   (b) as soon as is reasonably practicable, give notice of the claim and of the time and place of hearing in the prescribed form to—
     (i) the respondent; and
@@ -326,19 +359,19 @@ Every agreed settlement approved by the Tribunal under section 18(3), and every 
 
 ### 28 Claims for relief where applicant insured
 (1) This section applies to any claim for relief made by an applicant who has been, or is entitled to be, or seeks to be, indemnified (whether in whole or in part) by an insurer (in this section and in sections 29 to 34 referred to as the applicant's insurer) for any loss caused by or arising out of the act, omission, or event on which the claim is based.
-(2) Where, in any proceedings lodged in the Tribunal, or transferred to the Tribunal under section 24(3) or (4) or section 37, the applicant makes a claim for relief to which this section applies, the applicant shall, at the time when the claim is lodged, or, in the case of a claim that is transferred to the Tribunal, as soon as practicable after the claim is transferred, notify the Registrar of the name and address of the applicant's insurer.
+(2) Where, in any proceedings lodged in the Tribunal, or transferred to the Tribunal under section 24(3) or (4) or section 37, the applicant makes a claim for relief to which this section applies, the applicant shall, at the time when the claim is lodged, or, in the case of a claim that is transferred to the Tribunal, as soon as practicable after the claim is transferred, notify a Registrar of the name and address of the applicant's insurer.
 (3) Subject to sections 25(4) and 29(3), where, in any proceedings before the Tribunal, a Registrar receives notice of the name and address of the applicant's insurer under subsection (2), the Registrar shall give notice of the proceedings to that insurer in accordance with section 25(1)﻿(b)﻿(ii).
 (4) Where, pursuant to subsection (3), an insurer receives notice of any proceedings before the Tribunal, that insurer shall be deemed, for the purposes of this Act, to be a party to those proceedings.
 (5) Where—the Tribunal or a Registrar shall, on the application of the applicant's insurer, order that that insurer be joined as a party to the proceedings.
   (a) any claim for relief to which this section applies is made in any proceedings before the Tribunal; and
   (b) the applicant's insurer has not received notice of those proceedings pursuant to subsection (3); and
-  (c) an acknowledgement signed by the applicant and the applicant's insurer has not been lodged with the Tribunal pursuant to section 29(1),—
+  (c) an acknowledgement signed or authenticated by the applicant and the applicant's insurer has not been lodged with the Tribunal pursuant to section 29(1),—
 
 ### 29 Insurer may waive notice of proceedings
 (1) Where, in any proceedings lodged in the Tribunal, or transferred to the Tribunal under section 24(3) or (4) or section 37, the applicant makes a claim for relief to which section 28 applies, the applicant may, at the time when the claim is lodged, or, in the case of a claim that is transferred to the Tribunal, as soon as practicable after the claim is transferred, lodge with the Tribunal an acknowledgement from the applicant's insurer that that insurer does not require notice of the proceedings under section 25.
 (2) Every acknowledgement lodged under subsection (1) shall be in the prescribed form, and shall be signed by the applicant and by the applicant's insurer.
 (3) Where, in any proceedings before the Tribunal, an acknowledgement from the applicant's insurer is lodged pursuant to subsection (1),—
-  (a) notwithstanding anything in section 28(3), the Registrar shall not be required to give notice of those proceedings to that insurer; and
+  (a) notwithstanding anything in section 28(3), a Registrar shall not be required to give notice of those proceedings to that insurer; and
   (b) that insurer shall be deemed, for the purposes of this Act, to be a party to those proceedings.
 
 ### 30 Insurer may abandon rights of subrogation
@@ -349,7 +382,7 @@ Every agreed settlement approved by the Tribunal under section 18(3), and every 
     (i) the applicant, so far as the applicant might otherwise be liable to the applicant's insurer for that amount; and
     (ii) any other person who is a party to that agreed settlement, or against whom the claim and the subsequent order are made, as the case may require.
 
-### 31 Applicant to control conduct of case where insurer a party
+### 31 Applicant entitled to control conduct of case
 Where, in any proceedings before the Tribunal, a claim for relief to which section 28 applies is made, the applicant shall, subject to section 27 and sections 32 to 34, be entitled to control the conduct of the applicant's case, notwithstanding that the applicant's insurer becomes a party to those proceedings pursuant to section 28(4) or (5) or section 29(3).
 
 ### 32 Insurer may prove amount of loss
@@ -392,8 +425,8 @@ Notwithstanding anything in section 31, where, in any proceedings before the Tri
 (1) This section applies to any claim lodged in the Tribunal, or transferred to the Tribunal under section 24(3) or (4) or section 37, that is against a respondent who, if the claim were successful, might be entitled to be indemnified (in whole or in part) in respect of that claim by any insurer (in this section referred to as the respondent's insurer).
 (2) Where any respondent receives notice of a claim to which this section applies, the respondent shall, as soon as practicable after receiving such notice, notify the respondent's insurer of that claim.
 (3) At the commencement of a hearing of a claim, the Tribunal shall ascertain whether the claim is a claim to which this section applies, and if so, whether the respondent has notified the respondent's insurer of that claim.
-(4) Where, pursuant to subsection (3), the Tribunal ascertains that the respondent has not notified the respondent's insurer of the claim, the Tribunal may adjourn the proceedings, and upon such adjournment the Registrar shall forthwith notify the respondent's insurer of the claim.
-(5) Where a claim is made in the course of any proceedings before the Tribunal, the Tribunal shall ascertain whether the claim is a claim to which this section applies, and if so, may adjourn the proceedings, and upon such adjournment the Registrar shall notify the respondent's insurer of that claim.
+(4) Where, pursuant to subsection (3), the Tribunal ascertains that the respondent has not notified the respondent's insurer of the claim, the Tribunal may adjourn the proceedings, and upon such adjournment a Registrar shall forthwith notify the respondent's insurer of the claim.
+(5) Where a claim is made in the course of any proceedings before the Tribunal, the Tribunal shall ascertain whether the claim is a claim to which this section applies, and if so, may adjourn the proceedings, and upon such adjournment a Registrar shall notify the respondent's insurer of that claim.
 (6) Where a claim to which this section applies is made in any proceedings before the Tribunal, the Tribunal or a Registrar shall, on the application of any insurer who is entitled, under this section, to be notified of that claim, order that the insurer be joined as a party to those proceedings.
 
 **Transfer of proceedings**
@@ -416,23 +449,28 @@ Notwithstanding anything in section 31, where, in any proceedings before the Tri
 
 ### 38 Right to appear at hearings
 (1) At the hearing of a claim every party shall be entitled to attend and be heard.
-(2) Subject to subsection (3), no party shall be entitled to be represented at a hearing by a representative unless it appears to the Tribunal to be proper in all the circumstances to so allow, and the Tribunal approves such representative.
+(2) Subject to subsections (3) and (3A), no party shall be entitled to be represented at a hearing by a representative unless it appears to the Tribunal to be proper in all the circumstances to so allow, and the Tribunal approves such representative.
 (3) The following parties may be represented by a representative who is approved by the Tribunal:
   (a) the Crown, if the representative is an officer or employee of the Crown:
-  (b) a corporation or an unincorporated body of persons, if the representative is an officer or employee or a member of the corporation or body or holds a majority interest in it:
+  (b) a corporation or an unincorporated body of persons, if the representative is an officer or employee or a member of the corporation or body or holds directly or indirectly, at least a 50% interest in it:
   (c) a person jointly liable or entitled with another or others, if the representative is one of the persons jointly liable or entitled or, in the case of a partnership, is an employee of those persons:
   (d) a minor, or other person under disability:
   (e) any other person, if the Tribunal is satisfied that for sufficient cause that person is unable to appear in person or is unable to present his or her case adequately.
+(3A) If an insurer is a party, it may, subject to subsection (3B), be represented by any agent who—
+  (a) has been engaged by the insurer solely or principally as an underwriter or to administer insurance claims; and
+  (b) is authorised for the purpose by the insurer; and
+  (c) is approved by the Tribunal.
+(3B) For the purposes of subsection (3A), if the agent approved by the Tribunal is not an individual (for example a body corporate), an employee, officer, or member of the agent may carry out the duties of the agent under that subsection, but only if the individual concerned is also approved by the Tribunal.
 (4) Where a representative of a party is proposed for the Tribunal's approval, the Tribunal shall satisfy itself that the person proposed has sufficient knowledge of the case and sufficient authority to bind the party.
 (5) The Tribunal may permit any person nominated by a party to be present at the hearing and to assist the party in the presentation of his or her case if it appears to the Tribunal to be proper in all the circumstances to so permit, and the Tribunal approves such person.
 (6) No person approved by the Tribunal under subsection (5) shall be entitled to be heard at the hearing, and the Tribunal may exclude any such person from the hearing at any time.
 (7) The Tribunal shall not—any person who is, or has been, enrolled as a barrister and solicitor, or who, in the opinion of the Tribunal, is, or has been, regularly engaged in advocacy work before other tribunals; but this prohibition does not apply where—
   (a) appoint under section 27(2)﻿(a); or
-  (b) approve as a representative under subsection (2) or subsection (3); or
+  (b) approve as a representative under subsections (2), (3), or (3A); or
   (c) approve under subsection (5)—
-  (d) the person proposed for approval under subsection (3) is a person or one of the persons jointly liable or entitled with another or others; or
-  (e) the party seeking to be represented is a company and the person proposed for approval under subsection (3) is the majority shareholder of the company.
-(8) Where the Tribunal appoints any person under section 27(2)﻿(a) or approves any person under subsection (2) or subsection (3) or subsection (5) of this section, the Tribunal may impose in respect of any such appointment or approval such conditions as it considers necessary to ensure that any other party to the proceedings is not substantially disadvantaged by that appointment or approval.
+  (d) the person proposed for approval under subsection (3) or (3A) is a person or one of the persons jointly liable or entitled with another or others; or
+  (e) the party seeking to be represented is a company and the person proposed for approval under subsection (3) or (3A) is the majority shareholder of the company.
+(8) Where the Tribunal appoints any person under section 27(2)﻿(a) or approves any person under subsection (2), (3), (3A), or (5) of this section, the Tribunal may impose in respect of any such appointment or approval such conditions as it considers necessary to ensure that any other party to the proceedings is not substantially disadvantaged by that appointment or approval.
 
 ### 39 Proceedings to be held in private
 (1) All proceedings before the Tribunal shall be held in private.
@@ -448,13 +486,16 @@ Notwithstanding anything in section 31, where, in any proceedings before the Tri
 ### 41 Investigator may be appointed
 (1) The Tribunal may, if it thinks fit, appoint a person to inquire into, and report to it upon, any matter of fact having a bearing on any proceedings and may give such directions as to the nature, scope, and conduct of the inquiry as it thinks fit.
 (2) Where, in any proceedings before the Tribunal, a person is appointed under subsection (1) to report to the Tribunal on any matter,—
-  (a) the Registrar shall ensure that a copy of the report is made available to every party to those proceedings as soon as practicable after it is presented to the Tribunal; and
+  (a) a Registrar shall ensure that a copy of the report is made available to every party to those proceedings as soon as practicable after it is presented to the Tribunal; and
   (b) the hearing of those proceedings shall not begin or, as the case may require, resume until at least 10 days have elapsed after the date on which the report is made available to the parties.
-(3) A person appointed under subsection (1) shall be paid, out of money appropriated by Parliament for the purpose, such fees and expenses as are fixed by the Registrar.
+(3) A person appointed under subsection (1) shall be paid, out of money appropriated by Parliament for the purpose, such fees and expenses as are fixed by a Registrar.
 
 ### 42 Tribunal may act on evidence available
 (1) Where the case of any party is not presented to the Tribunal, after reasonable opportunity has been given to that party to do so, the issues in dispute in the proceedings may be resolved by the Tribunal, or relief in respect of an undisputed claim may be granted by it, on such evidence or information as is before it, including evidence or information obtained pursuant to section 40(2).
 (2) An order made by the Tribunal in the circumstances described in subsection (1) shall not be challenged on the ground that the case of the party was not presented to the Tribunal, but the party may apply for a rehearing under section 49 on the ground that there was sufficient reason for that party's failure to present that party's case.
+
+### 42A Use of electronic facilities to hear matters
+The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Referee conducting the hearing of the matter, considers it appropriate and the necessary facilities are available.
 
 ### 43 Costs
 (1) Except as provided in this section, costs shall not be awarded against a party to any proceedings before the Tribunal.
@@ -472,16 +513,16 @@ Notwithstanding anything in section 31, where, in any proceedings before the Tri
   (e) any solicitor's costs incurred by the latter party in respect of the preparation of the documents necessary for the filing of those proceedings, which costs shall not exceed the amount prescribed in relation to that matter under rules made under the District Court Act 2016.
 
 ### 44 Procedure where no provision made
-Subject to this Act and to any rules made under this Act, the Tribunal shall adopt such procedure as it thinks best suited to the ends of justice.
+Subject to this Act and to any rules made under this Act and any practice notes issued under section 6C(1)﻿(ha), the Tribunal shall adopt such procedure as it thinks best suited to the ends of justice.
 
 **Enforcement of orders**
 
 ### 45 Enforcement of orders except work orders
 (1) Every order made by the Tribunal requiring a party to pay money or deliver specific property to another party is taken to be an order of the District Court and, subject to this section, may be enforced accordingly.
-(2) Where application is made to the District Court for the issue of any process to enforce an order provided for by section 19(3) (requiring a party to pay money to another as an alternative to compliance with a work order), the Registrar shall give notice of the application to the party against whom enforcement is sought.
+(2) Where application is made to the District Court for the issue of any process to enforce an order provided for by section 19(3) (requiring a party to pay money to another as an alternative to compliance with a work order), a Registrar shall give notice of the application to the party against whom enforcement is sought.
 (3) If that party does not file in the court, within the period prescribed for so doing, a notice of objection in the prescribed form, the order may, after the expiry of that period, be enforced pursuant to subsection (1).
 (4) The notice referred to in subsection (3) may only be given on the ground that it is the belief of the party that the order of the Tribunal has been fully complied with and that that party therefore disputes the entitlement of the applicant to enforce it.
-(5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed time, the Registrar shall refer the matter to the Tribunal to be heard and determined under section 46(2).
+(5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed time, a Registrar shall refer the matter to the Tribunal to be heard and determined under section 46(2).
 
 ### 46 Enforcement of work orders
 (1) Where—the party in whose favour the work order was made may, instead of applying to the District Court for the issue of a process for enforcement pursuant to section 45(1), lodge in the Tribunal a request in the prescribed form that the work order be enforced.
@@ -515,7 +556,7 @@ Notwithstanding section 219 of the District Court Act 2016, no filing fee shall 
   (c) where an agreed settlement has been approved by the Tribunal under section 18(3) and, after the hearing, a party to the settlement discovers facts directly relevant to the dispute that could not, with reasonable diligence, have been obtained before the hearing and that, if known at the time, would have had a bearing on whether that party agreed to the settlement.
 (3) Every application for a rehearing shall be made within 28 days after the Tribunal's order (or, in the case of an agreed settlement, the Tribunal's approval of the settlement or the variation of a term of that settlement under section 47(3)﻿(a), as the case may require) or within such further time as the Tribunal may, on application, allow, and shall be served upon the other parties to the proceedings.
 (4) Upon a rehearing being granted,—
-  (a) the Registrar shall notify all parties to the proceedings of the making of the order and of the time and place appointed for the rehearing; and
+  (a) a Registrar shall notify all parties to the proceedings of the making of the order and of the time and place appointed for the rehearing; and
   (b) the order or approval or variation made or given by the Tribunal upon the first hearing shall cease to have effect.
 (5) Notwithstanding subsection (4)﻿(b), if the party on whose application a rehearing is ordered does not appear at the time and place for the rehearing or at any time and place to which the rehearing is adjourned, the Tribunal may, without rehearing or further rehearing the claim, direct that the original order or approval or variation, as the case may be, be restored to full force and effect.
 (6) This Act shall apply to a rehearing in all respects as it applies to an original hearing.
@@ -528,16 +569,16 @@ Notwithstanding section 219 of the District Court Act 2016, no filing fee shall 
   (a) the Referee fails to have regard to any provision of any enactment that is brought to the attention of the Referee at the hearing; and
   (b) as a result of that failure, the result of the proceedings is unfair to the appellant.
 (3) An appeal shall be brought by a party by the filing of a notice of appeal, in the prescribed form, in the District Court within 28 days of the making or giving of the order or approval or variation appealed against, or within such further time as a District Court Judge may, on application, allow.
-(4) As soon as practicable after such notice of appeal has been filed, the Registrar shall lodge a copy of the notice in the Tribunal's records relating to the proceedings.
-(5) The Registrar shall fix the time and place for the hearing of the appeal and shall notify the appellant.
-(6) A copy of every notice of appeal together with a notice of the time and place for hearing the appeal shall be served by the Registrar on every other party to the proceedings before the Tribunal, and each such party may appear and be heard.
+(4) As soon as practicable after such notice of appeal has been filed, a Registrar shall lodge a copy of the notice in the Tribunal's records relating to the proceedings.
+(5) A Registrar shall fix the time and place for the hearing of the appeal and shall notify the appellant.
+(6) A copy of every notice of appeal together with a notice of the time and place for hearing the appeal shall be served by a Registrar on every other party to the proceedings before the Tribunal, and each such party may appear and be heard.
 (7) The filing of a notice of appeal against an order or the approval of an agreed settlement or the variation of a term of an agreed settlement shall operate as a stay of any process for the enforcement of that order or that settlement or that variation, as the case may require, but the Tribunal may at any time, on the application of a party to the proceedings, order that any process may be resumed or commenced or, the process having been resumed or commenced, order that it be further stayed.
 
 ### 51 Referee or Investigator to furnish report
-(1) Within 28 days after the notice of appeal has been lodged in the Tribunal's records under section 50(4), the Referee who heard the proceedings and, where applicable, the Investigator, shall furnish to the Registrar a report on the manner in which the proceedings were, or where applicable the inquiry was, conducted and the reasons therefor.
+(1) Within 28 days after the notice of appeal has been lodged in the Tribunal's records under section 50(4), the Referee who heard the proceedings and, where applicable, the Investigator, shall furnish to a Registrar a report on the manner in which the proceedings were, or where applicable the inquiry was, conducted and the reasons therefor.
 (2) A Referee shall keep a record of the proceedings of the Tribunal sufficient to enable that Referee, if required, to furnish a report under subsection (1), and an Investigator shall do likewise in relation to an inquiry conducted by that Investigator.
-(3) Where, for any reason, the Referee who heard the proceedings or, where applicable, the Investigator, is unavailable to furnish the report, the report shall be compiled by the Registrar from such information as that Registrar is able to collect from the records of the Tribunal or otherwise.
-(4) The Registrar shall ensure that a copy of the report furnished or compiled under subsection (1) or subsection (3) is made available to the appellant, and to every other party to the proceedings, a reasonable time before the hearing of the appeal.
+(3) Where, for any reason, the Referee who heard the proceedings or, where applicable, the Investigator, is unavailable to furnish the report, the report shall be compiled by a Registrar from such information as that Registrar is able to collect from the records of the Tribunal or otherwise.
+(4) A Registrar shall ensure that a copy of the report furnished or compiled under subsection (1) or subsection (3) is made available to the appellant, and to every other party to the proceedings, a reasonable time before the hearing of the appeal.
 
 ### 52 Right of audience
 For the avoidance of doubt, it is hereby declared that section 107 of the District Court Act 2016 shall apply in respect of the hearing of every appeal under section 50.
@@ -546,6 +587,7 @@ For the avoidance of doubt, it is hereby declared that section 107 of the Distri
 (1) On the hearing of the appeal a District Court Judge may—
   (a) quash the order or the approval or the variation, as the case may be, and order a rehearing of the claim in the Tribunal on such terms as the Judge thinks fit; or
   (b) quash the order or the approval or the variation, as the case may be, and transfer the proceedings to the District Court for hearing; or
+  (ba) vary the order, the approval, or the variation, as the case may be; or
   (c) dismiss the appeal.
 (2) In ordering a rehearing under subsection (1)﻿(a), the Judge may give to the Tribunal such directions as the Judge thinks fit as to the conduct of the rehearing.
 (3) An appeal under this section shall be heard by a District Court Judge in chambers and, subject to this Act and to any rules made under this Act, the procedure at any such hearing shall be such as the Judge may determine.
@@ -560,14 +602,21 @@ A Registrar shall ensure that assistance is reasonably available, either from th
 
 ### 56 Contempt of Tribunal
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
-  (a) wilfully assaults, insults, or obstructs a Referee, or any witness or any officer of the Tribunal during a sitting of the Tribunal or while a Referee, a witness, or an officer is going to, or returning from, a sitting of the Tribunal; or
-  (b) wilfully assaults, insults, or obstructs any person in attendance at a sitting of the Tribunal; or
+  (a) wilfully insults or obstructs a Referee, or any witness or any officer of the Tribunal during a sitting of the Tribunal or while a Referee, a witness, or an officer is going to, or returning from, a sitting of the Tribunal; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of the Tribunal; or
   (c) wilfully interrupts, or otherwise misbehaves at, a sitting of the Tribunal; or
   (d) wilfully and without lawful excuse disobeys any order or direction of the Tribunal (other than an order mentioned in section 18(3) or section 18(8) or section 46(2) or section 47(3)﻿(b)) in the course of the hearing of any proceedings.
 (2) A Referee may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the opinion of the Referee, constitutes an offence against subsection (1), whether or not such person is charged with the offence; and any Registrar, or officer under a Registrar's control, or constable may take such steps as are reasonably necessary to enforce such exclusion.
 
+### 56A Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive:
+  (a) information about the purpose of the Tribunal and how to commence a claim:
+  (b) any requirements that must be met for a claim:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
 ### 57 Publication of orders
-The Registrar shall cause to be published, in such manner as the Minister from time to time directs, such particulars relating to proceedings in the Tribunal as the Minister specifies in the direction.
+(1) A Registrar shall cause to be published, in such manner as the Minister from time to time directs, such particulars relating to proceedings in the Tribunal as the Minister specifies in the direction.
+(2) Subsection (1) is subject to section 20A.
 
 ### 58 Protection of Referees, Investigators, etc
 (1) A Referee, in the performance of his or her duties under this Act, shall have and enjoy the same protection as a Justice of the Peace acting in his or her criminal jurisdiction has and enjoys under sections 4A to 4F of the Justices of the Peace Act 1957.
