@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-14_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -3349,19 +3349,26 @@ Where any body corporate is convicted of an offence against section 198 or secti
 The Tribunal constituted by section 30 of the Copyright Act 1962 and known as the Copyright Tribunal shall continue in being.
 
 ### 206 Membership of Tribunal
-(1) The Tribunal consists of a chairperson and at least 2, but not more than 5, other persons.
+(1) The Tribunal consists of a chairperson and at least 2 other persons.
 (2) The chairperson of the Tribunal—
   (a) shall be appointed as chairperson by the Governor-General on the recommendation of the Minister made after consultation with the Minister of Justice; and
   (b) shall be a barrister or solicitor of the High Court of not less than 7 years' practice, whether or not the barrister or solicitor holds or has held judicial office.
 (3) The other persons shall be appointed as members of the Tribunal by the Governor-General on the recommendation of the Minister.
 (4) No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 by virtue merely of his or her appointment to the Tribunal.
+(5) For the purposes of this Part, except for the reference in subsection (3), a reference to a member or members includes the chairperson.
 
 ### 207 Term of office of members of Tribunal
 (1) Every member of the Tribunal shall hold office for a term not exceeding 5 years.
 (2) Any member of the Tribunal may hold that office concurrently with any other office held by him or her and may from time to time be reappointed.
-(3) Where the term for which a member was appointed expires, that member, unless sooner vacating or removed from office under section 208, shall continue to hold office, by virtue of the appointment for the term that has expired, until—
-  (a) that member is reappointed; or
-  (b) a successor to that member is appointed.
+(3) A member of the Tribunal continues in office despite the expiry of his or her term of office until—
+  (a) the member is reappointed; or
+  (b) the member’s successor is appointed; or
+  (c) the member is notified that a replacement member will not be appointed; or
+  (d) the member vacates or is removed from office.
+(3A) A member who continues in office for any period under subsection (3), unless he or she was removed from office, may act as a member during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Tribunal before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(3B) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 (4) The powers of the Tribunal shall not be affected by any vacancy in its membership.
 
 ### 208 Vacation of office
@@ -3369,13 +3376,11 @@ The Tribunal constituted by section 30 of the Copyright Act 1962 and known as th
 (2) Any member of the Tribunal shall be deemed to have vacated his or her office if he or she dies or is, under the Insolvency Act 2006, adjudged bankrupt.
 (3) Any member of the Tribunal may at any time be removed from office by the Governor-General for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Governor-General.
 
-### 209 Deputies of members
-(1) Where any member of the Tribunal—the Governor-General, on the recommendation of the Minister, may appoint a person to act as the deputy of the member for the period or purpose stated in the appointment.
-  (a) becomes incapable of acting by reason of illness, absence, or other sufficient cause; or
-  (b) deems it not proper or desirable that he or she should act in any particular proceedings,—
-(2) No person shall be appointed as a deputy of the chairperson unless he or she is eligible for appointment as chairperson.
-(3) Any deputy shall, while acting as such, be deemed to be a member of the Tribunal, and the deputy of the chairperson shall have all the powers of the chairperson.
-(4) No appointment of a deputy, and no acts done by a deputy as such, and no acts done by the Tribunal while any deputy is acting as such, shall in any proceedings be questioned on the ground that the occasion for the appointment had not arisen or had ceased.
+### 209 Appointment of temporary acting chairperson or members
+(1) If the chairperson or a member of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chairperson or a member considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister, made, in the case of an acting chairperson, after consultation with the Minister of Justice, may appoint a suitable person as the acting chairperson or an acting member for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting chairperson or an acting member unless he or she is eligible for appointment to the relevant position.
+(3) The acting chairperson or acting member is, while acting in the position, to be treated as the chairperson or a member of the Tribunal.
+(4) No appointment of an acting chairperson or acting member, no act done by an acting chairperson or acting member, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
 ### 210 Remuneration and travelling allowances
 (1) The Tribunal is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
@@ -3386,6 +3391,12 @@ The Tribunal constituted by section 30 of the Copyright Act 1962 and known as th
 ### 211 Jurisdiction of Tribunal
 The Tribunal shall have such functions as are conferred on it by this Act or any other enactment.
 
+### 211A Orderly and efficient operation
+(1) The chairperson of the Tribunal is responsible for making such arrangements as are practicable to ensure that he or she and each member performs his or her functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
+(2) The Ministry of Justice must provide the resources and administrative support necessary to enable the Tribunal to perform its functions.
+
 ### 212 Parties to proceedings
 (1) The operator of the licensing scheme or the proposed licensing scheme shall be a party to any proceedings under section 149 or section 150 or section 151 or section 153 or section 154 or section 157 or section 158 or section 159.
 (2) The Tribunal may direct that an organisation or person be added as a party to any proceedings before the Tribunal under this Act where the Tribunal is satisfied that the organisation or person has a substantial interest in the matter in dispute and either—
@@ -3393,7 +3404,7 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
   (b) the Tribunal of its own motion considers it desirable.
 (3) The Attorney-General, if in his or her opinion the public interest is or may be involved, may, on giving such notice to other parties as the Tribunal may direct, appear and be heard, or present submissions in writing on any proceedings before the Tribunal.
 
-### 213 Sittings of Tribunal
+### 213 Hearing
 (1) The Tribunal shall fix a time and place for the hearing of proceedings and shall cause notice to be given to the parties of the time and place so fixed.
 (2) No sitting of the Tribunal shall take place, except for the purposes of interlocutory or other ancillary matters, unless at least 3 members are present.
 (3) Every sitting of the Tribunal shall be held in such place as the Tribunal deems convenient.
@@ -3401,13 +3412,28 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 (5) The Tribunal may make an order prohibiting the publication of any report or description of the proceedings or of any part of the proceedings.
 (6) Every person commits an offence and is liable on conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (5).
 (7) Any sitting of the Tribunal may be adjourned from time to time and from place to place.
+(8) Despite anything in this Act to the contrary and except as provided in section 122L, the Tribunal may determine a proceeding on the papers if the Tribunal considers it appropriate.
+(9) Before doing so, the Tribunal must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+(10) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the chairperson or the Tribunal considers it appropriate and the necessary facilities are available.
 
 ### 214 Procedure of Tribunal
 (1) Any party to proceedings before the Tribunal may appear personally or by the party's barrister, solicitor, or agent.
 (2) The Tribunal may appoint a barrister or solicitor to appear and be heard in proceedings as counsel assisting the Tribunal.
 (3) The decision of the majority of members shall be the decision of the Tribunal.
+(3A) If the members are equally divided in opinion, the decision of the chairperson is the decision of the Tribunal.
 (4) Every decision of the Tribunal shall be in writing and shall state the reasons for the decision.
-(5) Except as otherwise provided in this Part, the Tribunal shall determine its own procedure.
+(5) The Tribunal may regulate its procedures as it sees fit, subject to this Act, any regulations made under it, and any practice notes issued under section 224A.
+
+### 214A Tribunal may strike out, determine, or adjourn proceeding
+(1) The Tribunal may strike out, in whole or in part, a proceeding if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, the Tribunal may,—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
 
 ### 215 Evidence in proceedings before Tribunal
 (1) The Tribunal may receive as evidence any statement, document, information, or matter that may in its opinion assist it to deal effectively with the matters before it, whether or not the same would be admissible in a court of law.
@@ -3427,7 +3453,7 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 
 ### 217 Service of summons
 (1) A witness summons may be served—
-  (a) by delivering it personally to the person summoned; or
+  (a) by delivering the summons personally to the person summoned, or if he or she refuses to accept it, by bringing it to his or her attention; or
   (b) by sending it to the person summoned, at that person’s usual place of residence, by a service that records delivery; or
   (c) by emailing it to the person summoned at an email address that is used by that person.
 (2) The summons shall,—
@@ -3448,6 +3474,7 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 ### 219 Privileges and immunities
 (1) Witnesses appearing before the Tribunal shall have the same privileges and immunities as witnesses have in proceedings in the District Court.
 (2) Counsel and agents appearing before the Tribunal shall have the same privileges and immunities as counsel have in proceedings in the District Court.
+(3) The Tribunal, the chairperson, and the members are not personally liable for any act done or omitted to be done by the Tribunal, the chairperson, or any member in good faith in the performance or exercise, or intended performance or exercise, of their functions, duties, or powers under this Act.
 
 ### 220 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,—
@@ -3459,10 +3486,10 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 
 ### 221 Contempt of Tribunal
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who—
-  (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
+  (a) threatens, intimidates, or intentionally insults the Tribunal or any member of it, a special adviser to the Tribunal, a witness before the Tribunal, or an officer of the Tribunal during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
-(2) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not such person is charged with the offence; and any constable may take such steps as are reasonably necessary to enforce such an exclusion.
+(2) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subsection (1), whether or not such person is charged with the offence; and any constable or any officer of the Tribunal may take such steps as are reasonably necessary to enforce such an exclusion.
 
 ### 222 Costs
 (1) The Tribunal, in any proceedings before it under this Act, may make such order as to costs as it thinks fit.
@@ -3484,6 +3511,12 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 ### 224 Appeal on question of law
 (1) Where any party to any proceedings before the Tribunal under this Act is dissatisfied with any determination of the Tribunal as being erroneous in point of law, that party may appeal to the High Court on that question of law.
 (2) Every appeal under this section shall be dealt with in accordance with rules of court.
+
+**Practice notes, procedural information, and publication of decisions**
+
+### 224A Practice notes
+(1) The chairperson of the Tribunal may issue practice notes for any type of proceedings dealt with by the Tribunal as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of other members of the Tribunal, officers of the Tribunal, and parties before the Tribunal.
 
 ## Part 11 — Miscellaneous provisions
 
@@ -3716,6 +3749,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
     (iii) any film or specified class or classes of films,—
   (p) regulating the making, importation, sale, hire, or use of decoding equipment:
   (q) prescribing offences in respect of the contravention of or non-compliance with any provision of any regulations made under paragraph (p), and prescribing fines, not exceeding $5,000, that may, on conviction, be imposed in respect of any such offences:
+  (qa) prescribing fees in relation to licensing scheme disputes before the Tribunal:
   (r) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 
 **Transitional provisions and savings**
