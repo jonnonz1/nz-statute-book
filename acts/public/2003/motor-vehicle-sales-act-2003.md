@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-14_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -909,16 +909,26 @@ A search of the list for personal information that has not been carried out in a
 ### 84 Term of office of adjudicators
 (1) Except as provided in section 85, every adjudicator—
   (a) must hold office for a term not exceeding 5 years; and
-  (b) may be reappointed for 1 further term not exceeding 5 years.
+  (b) may be reappointed.
 (2) Unless an adjudicator sooner vacates office under section 85, every adjudicator whose term of office has expired must continue to hold office until—
   (a) he or she is reappointed; or
   (b) a successor is appointed; or
   (c) he or she is informed in writing by the Minister that he or she is not to be reappointed.
+(3) An adjudicator who continues in office for any period under subsection (2) may act as an adjudicator during that period for the purpose of—
+  (a) completing any proceedings partly or wholly heard by the Disputes Tribunal on which he or she sat before the expiry of his or her term of office:
+  (b) hearing any other proceedings.
+(4) An adjudicator who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 ### 85 Vacation of office
 (1) An adjudicator is to be taken to have vacated office if he or she dies or is adjudged bankrupt under the Insolvency Act 2006.
 (2) An adjudicator may, at any time, be removed from office by the Minister for inability to perform the duties of office, neglect of duty, or misconduct proved to the satisfaction of that Minister.
 (3) An adjudicator may, at any time, resign his or her office by giving written notice to that effect to the Minister.
+
+### 85A Appointment of temporary acting adjudicator
+(1) If an adjudicator of a Disputes Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if an adjudicator considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the joint recommendation of the Minister and the Minister of Justice, may appoint a suitable person as an acting adjudicator for the period or purpose stated in the appointment.
+(2) No person may be appointed as an acting adjudicator unless he or she is eligible for appointment as an adjudicator.
+(3) An acting adjudicator is, while acting in the position, to be treated as the adjudicator of the relevant Disputes Tribunal.
+(4) No appointment of an acting adjudicator, no act done by an acting adjudicator, and no act done by a Disputes Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
 ### 86 Remuneration and allowances of adjudicators
 (1) An adjudicator is entitled to receive, out of public money appropriated by Parliament for the purpose, the remuneration that the Remuneration Authority determines in accordance with the Remuneration Authority Act 1977.
@@ -937,19 +947,19 @@ A search of the list for personal information that has not been carried out in a
 **Panel**
 
 ### 88 Panel of persons who may be appointed as assessors
-(1) The Minister must maintain a panel of persons who may be appointed as assessors under section 82(3)﻿(b).
+(1) The Minister must maintain a panel of any number of persons that may be required to ensure the efficient and expeditious exercise of the jurisdiction of the Disputes Tribunals throughout New Zealand.
+(1A) The Minister must specify a period of up to 5 years for which a person is approved as a member of the panel.
+(1B) The Minister may approve the inclusion of a person on the panel for further periods of up to 5 years.
 (2) In considering the suitability of any person for inclusion on the panel, the Minister must have regard to—
   (a) the person's personal attributes, qualifications, and skills; and
   (b) the need for persons included on the panel to have between them knowledge of, or experience in, the different aspects of matters likely to come before the Disputes Tribunal.
-(3) The name of a person—
-  (a) must be included on the panel for a period of 5 years; and
-  (b) subject to the approval of the Minister, may be retained on the panel for 1 further period of 5 years.
+(3)
 (4) However, the name of a person must be removed from the panel if—
   (a) the person dies or is adjudged bankrupt under the Insolvency Act 2006; or
   (b) the Minister directs that the name of the person be removed from the panel for inability to perform the duties of an assessor; or
   (c) the period during which the person's name may be included on the panel has expired; or
   (d) the person requests by writing addressed to the Minister that the person's name be removed.
-(5) If subsection (4)﻿(c) or (d) applies, the name of the person must not be removed from the panel until any hearings in respect of which that person was appointed to the Disputes Tribunal have concluded.
+(5) If subsection (4)﻿(c) or (d) applies, the person may continue in office for the purpose of completing any proceedings that are partly or wholly heard.
 
 **Jurisdiction**
 
@@ -959,7 +969,7 @@ A search of the list for personal information that has not been carried out in a
     (i) the Fair Trading Act 1986:
     (ii) the Consumer Guarantees Act 1993:
     (iii) subpart 3 of Part 2 or Part 3 of the Contract and Commercial Law Act 2017; and
-  (b) make any order that a court or a Disputes Tribunal constituted under the Disputes Tribunals Act 1988 may make under,—
+  (b) make any order that a court or the Disputes Tribunal constituted under the Disputes Tribunals Act 1988 may make under,—
     (i)
     (ii) in the case of proceedings under the Fair Trading Act 1986, section 43(2) of that Act; or
     (iii) in the case of proceedings under the Consumer Guarantees Act 1993, section 39 or 47 of that Act; or
@@ -997,7 +1007,7 @@ To avoid doubt, nothing in this Act prevents the parties to a contract for the s
 **Notice of decisions**
 
 ### 94 Decisions to be publicly available
-(1) Every decision of the Disputes Tribunal on an application or claim must be made publicly available as soon as practicable after the last date on which any appeal against the decision may be lodged.
+(1) Subject to clause 13A in Schedule 1, every decision of the Disputes Tribunal on an application or claim must be made publicly available as soon as practicable after the last date on which any appeal against the decision may be lodged.
 (2) The ways in which decisions are made publicly available must include making a copy of the decision available, free of charge, on an Internet site that is publicly accessible at all reasonable times.
 (3) If a decision is appealed, a statement to the effect that the decision has been appealed must be included with the copy of the decision that is made publicly available.
 
@@ -1095,6 +1105,21 @@ A person who fails to comply with section 14(1) must be taken to have contravene
 (1) A person commits an offence if the person intentionally resists, obstructs, or delays any person executing, or assisting in the execution of, a search warrant.
 (2) The penalty for an offence against this section is set out in section 116.
 
+**Offences relating to Disputes Tribunals**
+
+### 110A Offence in relation to suppression orders
+(1) A person commits an offence if the person breaches an order made under clause 13A of Schedule 1.
+(2) The penalty for an offence under this section is set out in section 116A.
+
+### 110B Contempt of Tribunal
+(1) A person commits an offence if the person—
+  (a) wilfully insults, or obstructs a Disputes Tribunal, an adjudicator, an assessor, a witness, or an officer of a Tribunal during a sitting of a Tribunal or while an adjudicator, an assessor, a witness, or an officer is going to, or returning from, a sitting of a Tribunal; or
+  (b) wilfully insults, or obstructs any person in attendance at a sitting of a Tribunal; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of a Tribunal; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of a Tribunal in the course of the hearing of any proceedings.
+(2) The penalty for an offence under this section is set out in section 116A.
+(3) A Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the opinion of the Tribunal, constitutes an offence against subsection (1), whether or not the person is charged with the offence, and any officer of the Tribunal or constable may take any steps that are reasonably necessary to enforce the exclusion.
+
 **Proceedings for offences generally**
 
 ### 111 Proceedings for offences generally
@@ -1141,6 +1166,10 @@ All infringement fees are payable to the Registrar, and the Registrar must pay a
   (h) section 109(1)﻿(b) (which relates to failing to comply with any requirement made by the Registrar, or a person authorised by the Registrar, during an inspection):
   (i) section 109(1)﻿(c) (which relates to giving false or misleading information to the Registrar, or any person authorised by the Registrar, during an inspection):
   (j) section 110 (which relates to resisting or obstructing any person executing, or assisting in the execution of, a search warrant).
+
+### 116A Penalties for offences relating to Disputes Tribunals
+(1) A person convicted of an offence against section 110A is liable to a fine not exceeding $3,000.
+(2) A person convicted of an offence against section 110B or clause 9H of Schedule 1 is liable to a fine not exceeding $1,000.
 
 ### 117 Penalties for offences under sections 98, 103, and 104
 (1) A person convicted of an offence under any of the provisions listed in subsection (2) is liable,—
@@ -1475,11 +1504,16 @@ The purpose of section 159 is to ensure that the Institute is able to carry out 
 **General**
 
 ### 1 Procedure generally
-Except as otherwise provided in this Act and subject to the rules of natural justice, the procedure of a Disputes Tribunal is to be the procedure that the adjudicator thinks fit.
+Except as otherwise provided in this Act and subject to the rules of natural justice and any practice notes issued under clause 17, the procedure of a Disputes Tribunal is to be the procedure that the adjudicator thinks fit.
 
 ### 2 Sittings of Disputes Tribunal
 (1) Sittings of a Disputes Tribunal must be held at the times and places that the adjudicator appoints.
 (2) A sitting of a Disputes Tribunal may be adjourned, from time to time and from place to place, by the adjudicator.
+
+### 2A Orderly and efficient operation
+An adjudicator is responsible for making any arrangements that are practicable to ensure that the Disputes Tribunal on which he or she sits performs its functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
 
 ### 3 Administrative support for Disputes Tribunals
 (1) The Chief Executive of the Ministry of Justice must—
@@ -1526,8 +1560,9 @@ Proceedings before the Disputes Tribunal must be commenced by the filing of an a
 **Hearings**
 
 ### 8 Manner in which Disputes Tribunal conducts hearings
-(1) Every hearing of a Disputes Tribunal must be conducted in private and with as little formality as the requirements of this Act and the proper consideration of the matters before the Disputes Tribunal permit.
-(2) The Disputes Tribunal may accept any relevant evidence or information, whether or not that evidence or information would normally be admissible in a court of law.
+(1) Every hearing of a Disputes Tribunal must, unless a Disputes Tribunal orders otherwise, be conducted in public and with as little formality as the requirements of this Act and the proper consideration of the matters before the Disputes Tribunal permit.
+(1A) A Disputes Tribunal may order that a hearing be conducted in private if the relevant adjudicator is of the opinion that it is proper to do so, having regard to the interests of any party and to the public interest.
+(2) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the relevant adjudicator considers it appropriate and the necessary facilities are available.
 
 ### 9 Right to appear at hearings
 (1) At any hearing of an application or claim before a Disputes Tribunal, any party to the proceedings is entitled to attend and be heard.
@@ -1546,6 +1581,56 @@ Proceedings before the Disputes Tribunal must be commenced by the filing of an a
 (6) Subclause (5) does not apply if—
   (a) the person proposed for approval is a person or one of the persons jointly liable or entitled with another; or
   (b) the party seeking to be represented is a company and the person proposed for approval is the majority shareholder of the company.
+
+### 9A Hearing on papers
+(1) Despite anything in this Act to the contrary, a Disputes Tribunal may determine a proceeding on the papers if the relevant adjudicator considers it appropriate.
+(2) Before doing so, the Tribunal must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+
+### 9B Disputes Tribunal may strike out, determine, or adjourn proceeding
+(1) A Disputes Tribunal may strike out, in whole or in part, a proceeding if the relevant adjudicator is satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of a proceeding, a Disputes Tribunal may,—
+  (a) if the party is required to be present, strike out the proceeding; or
+  (b) determine the proceeding in the absence of the party; or
+  (c) adjourn the hearing.
+
+### 9C Evidence
+(1) A Disputes Tribunal may take evidence on oath or affirmation and, for that purpose, the Tribunal or any other person acting under the express or implied direction of the Tribunal may administer the oath or affirmation.
+(2) A Disputes Tribunal may require that any documents or information be verified by oath or affirmation, statutory declaration, affidavit, or another means.
+(3) A Disputes Tribunal may, on its own initiative, seek and receive any other evidence and make any other investigations and inquiries that it thinks fit.
+(4) All evidence and information received or ascertained must be disclosed to every party, and every party must be given a reasonable opportunity to comment on it.
+(5) A Disputes Tribunal may receive and take into account any relevant evidence or information, whether or not that evidence or information would normally be admissible in a court of law.
+(6) On any charge of perjury, it is sufficient to prove that the oath or affirmation was administered, or the documents or information were verified, in accordance with this clause.
+
+### 9E Service of summons
+(1) Every summons issued under clause 9D must be served on the person to whom it is directed, either by personally delivering it to that person or, if that person refuses to accept it, by bringing it to that person’s attention, within a reasonable time before the time specified in the summons for that person’s attendance.
+(2) There must be paid or tendered to the witness at the time of service of the summons, or at any other reasonable time before the time at which the witness’s attendance is required, the sum that the Registrar estimates to be payable to the witness under clause 9G for allowances and travelling expenses (but not for fees).
+(3) A witness is not obliged to comply with a summons issued under clause 9D unless the sum specified in subclause (2) is paid or tendered to the witness in accordance with that subclause.
+
+### 9F Obligation on witness to attend extends to adjourned proceedings
+(1) The obligation on a witness summoned under clause 9D to attend any proceedings extends to any time and place to which the proceedings are adjourned, but only if clause 9E(2) has first been complied with in respect of each subsequent attendance.
+(2) A Disputes Tribunal or an adjudicator may excuse a witness from any further attendance.
+
+### 9G Witnesses’ expenses
+(1) Every person who attends before a Disputes Tribunal for the purpose of giving evidence in any proceedings is entitled to receive any fees, allowances, and travelling expenses that the Tribunal directs, in accordance with the scale set out in the Schedule of the Witnesses and Interpreters Fees Regulations 1974.
+(2) The fees, allowances, and travelling expenses are payable by the party on whose behalf the person attends, unless in any particular case a Disputes Tribunal orders them to be paid out of money appropriated by Parliament for those purposes.
+
+### 9H Failure to give evidence
+(1) A person commits an offence if the person—
+  (a) has been served with a summons issued under clause 9D; and
+  (b) has been paid or tendered witness expenses in accordance with clause 9G; and
+  (c) fails without sufficient cause to comply with the directions of the summons or with the requirements of clause 9F in respect of the summons.
+(2) A person commits an offence if the person—
+  (a) is present at any proceedings before a Disputes Tribunal (whether or not as a result of the service of any summons on that person); and
+  (b) is required to give evidence in the proceedings; and
+  (c) refuses—
+    (i) to be sworn; or
+    (ii) to give evidence in the proceedings.
+(3) The penalty for an offence against this clause is set out in section 116A.
+(4) The payment of a fine does not release a person from any liability under any other action for failing to comply with the directions of a summons issued under clause 9D.
 
 ### 10 Duties of assessor
 (1) The duties of an assessor are to—
@@ -1573,6 +1658,10 @@ The Ministry of Justice must pay assessors the remuneration and allowances deter
 (2) Every decision of a Disputes Tribunal must—
   (a) be given in writing; and
   (b) contain the reasons for the decision.
+
+### 13A Suppression orders
+(1) A Disputes Tribunal may order that any part of any evidence given or the name of any witness not be published.
+(2) An order may be made subject to any conditions that the adjudicator considers appropriate.
 
 ### 14 Disputes Tribunal may award costs in certain circumstances
 (1) The Disputes Tribunal may award costs to or against a party to any proceedings before it only if,—
@@ -1607,5 +1696,11 @@ The Ministry of Justice must pay assessors the remuneration and allowances deter
   (b) as a result of that failure, the result of the proceedings is unfair to the appellant.
 (5) The District Court's decision given under this clause is final.
 (6) To avoid doubt, nothing in this clause affects the right of any person to apply, in accordance with law, for judicial review.
+
+**Practice notes, procedural information, and publication of decisions**
+
+### 17 Practice notes
+(1) All adjudicators acting together may issue practice notes, to apply to all Disputes Tribunals, as they think fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of the Tribunals, officers of the Tribunals, and parties before the Tribunals.
 
 ## Schedule 2 — Enactments amended
