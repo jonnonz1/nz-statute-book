@@ -1,5 +1,5 @@
 # Social Security (Working for Families) Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 (1) This Act is the Social Security (Working for Families) Amendment Act 2004.
@@ -21,7 +21,7 @@ The purpose of this Act is to—
   (d) make related amendments to the Social Security Act 1964.
 
 ### 4 Interpretation
-The definition of income in section 3(1) of the principal Act is amended by adding to paragraph (f), the following subparagraph:.
+The definition of income in section 3(1) of the principal Act is amended by adding to paragraph (f), the following subparagraph:
   (xviii) any tax credit or amount received under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or under Part 11A of the Income Tax Act 1976
 
 ### 5 New section 44A inserted
@@ -30,19 +30,19 @@ The definition of income in section 3(1) of the principal Act is amended by addi
   (2) This section applies to a person who—
     (a) is receiving an invalid's benefit granted on the ground of permanent and severe restriction of capacity for work; and
     (b) with the agreement of the chief executive, is undertaking open employment for a period agreed with the chief executive to establish whether he or she can sustain such employment.
-  (3) The period of open employment agreed with the chief executive under subsection (2)(b) must not exceed 26 weeks but the anticipated duration of that employment may be for a longer period than the agreed period.
+  (3) The period of open employment agreed with the chief executive under subsection (2)﻿(b) must not exceed 26 weeks but the anticipated duration of that employment may be for a longer period than the agreed period.
   (4) A person to whom subsection (2) applies does not lose his or her entitlement to an invalid's benefit by reason only of working 15 or more hours a week in open employment during the agreed period.
 (2) Section 40 of the principal Act is consequentially amended by inserting, after subsection (3), the following subsection:
   (3A) Subsection (3) is subject to section 44A.
 
 ### 6 Payment of funeral grants where there is surviving spouse or children
 Section 61DB of the principal Act is amended—
-  (a) by omitting from paragraph (d)(ii) the words the value of an amount equivalent to 400 percent of the maximum weekly rate of invalid's benefit which a married couple is entitled to receive, and substituting the words the amount in clause 2 of Part 1 of Schedule 31 ; and
+  (a) by omitting from paragraph (d)﻿(ii) the words the value of an amount equivalent to 400 percent of the maximum weekly rate of invalid's benefit which a married couple is entitled to receive, and substituting the words the amount in clause 2 of Part 1 of Schedule 31 ; and
   (b) by omitting from paragraph (e) the words would not be sufficient to disentitle a person in receipt of that income from receiving an invalid's benefit, and substituting the words is less than 52 times the appropriate amount in Part 2 of Schedule 31.
 
 ### 7 Children's funeral grants
 Section 61DD of the principal Act is amended—
-  (a) by omitting from paragraph (a)(ii) the words the value of an amount equivalent to 400 percent of the maximum weekly rate of invalid's benefit which a married couple is entitled to receive, and substituting the words the amount in clause 2 of Part 1 of Schedule 31 ; and
+  (a) by omitting from paragraph (a)﻿(ii) the words the value of an amount equivalent to 400 percent of the maximum weekly rate of invalid's benefit which a married couple is entitled to receive, and substituting the words the amount in clause 2 of Part 1 of Schedule 31 ; and
   (b) by omitting from paragraph (b) the words would not be sufficient to disentitle a person in receipt of that income from receiving an invalid's benefit, and substituting the words is less than 52 times the appropriate amount in Part 2 of Schedule 31.
 
 ### 8 New section 61DH inserted
@@ -82,7 +82,7 @@ The principal Act is amended by repealing section 61G and the heading immediatel
     - **cash assets** has the meaning prescribed in regulations made under section 132AB
     - **chargeable income** has the meaning prescribed in regulations made under section 132AB
     - **essential costs** means the sum of a person's allowable costs and standard costs
-    - **standard costs** has the same meaning as in section 132AB(1)(b)
+    - **standard costs** has the same meaning as in section 132AB(1)﻿(b)
     - **tax credit** means a credit of tax or amount received under subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994.
 
 ### 11 New heading and new section 61GA inserted
@@ -92,7 +92,7 @@ The principal Act is amended by repealing section 61G and the heading immediatel
   (3) Childcare assistance granted to an applicant, in accordance with this section and regulations made under section 132AC, must be granted—
     (a) in the prescribed amount; and
     (b) for the prescribed period.
-(2) The definition of benefit in section 3(1) of the principal Act is consequentially amended by inserting, after paragraph (b)(iv), the following subparagraph:.
+(2) The definition of benefit in section 3(1) of the principal Act is consequentially amended by inserting, after paragraph (b)﻿(iv), the following subparagraph:
   (iva) childcare assistance payable under section 61GA:
 
 ### 12 Rates of benefits, etc, may be increased by Order in Council
@@ -111,16 +111,16 @@ Section 61H(1) of the principal Act is amended by—
   (3) In this section Area 1, Area 2, Area 3, and Area 4 refer to the terms defined in clause 1 of Part 1 of the Schedule 18.
 
 ### 14 Disability allowance
-Section 69C(1)(c) of the principal Act is amended by omitting the words is such that the income less 7.47% of that income would not prevent the payment of an invalid's benefit, and substituting the words is less than the appropriate amount in Part 3 of Schedule 31.
+Section 69C(1)﻿(c) of the principal Act is amended by omitting the words is such that the income less 7.47% of that income would not prevent the payment of an invalid's benefit, and substituting the words is less than the appropriate amount in Part 3 of Schedule 31.
 
 ### 15 Commencement of benefits
-Section 80(5) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:.
+Section 80(5) of the principal Act is amended by inserting, after paragraph (c), the following paragraph:
   (ca) the benefit is an invalid's benefit, and the applicant—
     (i) is sick or is suffering from an injury or disability from accident or congenital defect; and
     (ii) has applied for an invalid's benefit on the grounds of that sickness, injury, or disability on a prior occasion; or
 
 ### 16 Money payable out of Crown Bank Account
-(1) Section 124(1)(a) of the principal Act is amended by omitting the words Part 1 or Part 2 of.
+(1) Section 124(1)﻿(a) of the principal Act is amended by omitting the words Part 1 or Part 2 of.
 (2) Section 124(1A) of the principal Act is amended by omitting the words Part 1 of in both places where they appear.
 
 ### 17 New section 132AB inserted
@@ -202,12 +202,12 @@ The enactments set out in Schedule 3 are amended in the manner set out in that s
 (2) The following provisions continue to apply to a person referred to in subsection (1) and the person's spouse until the earlier of the dates referred to in paragraphs (a) and (b) of that subsection:
   (a) the former section 61G:
   (b) any direction given under section 5 relating to the former section 61G (being a direction in force immediately before the commencement of this section).
-(3) To avoid doubt, the Minister may from time to time, under section 5, amend or revoke any direction referred to in subsection (2)(b).
+(3) To avoid doubt, the Minister may from time to time, under section 5, amend or revoke any direction referred to in subsection (2)﻿(b).
 (4) While the former section 61G continues to apply to a person, the person and his or her spouse may not apply for or be granted, temporary additional support under section 61G of the principal Act.
 (5) In this section, former section 61G, means section 61G of the principal Act as it read immediately before the commencement of this section.
 
 ### 24 Savings in respect of income assessments
-For the purpose of determining the validity of any income assessment, the principal Act must be read as if the definition of income in section 3(1) of the principal Act at all material times contained paragraph (f)(xviii) (as inserted by section 4 of this Act).
+For the purpose of determining the validity of any income assessment, the principal Act must be read as if the definition of income in section 3(1) of the principal Act at all material times contained paragraph (f)﻿(xviii) (as inserted by section 4 of this Act).
 
 ### 25 Transitional arrangements for financially disadvantaged persons
 (1) The purpose of this section is to enable. the making of regulations authorising the provision of financial assistance to any persons who are financially disadvantaged as a consequence of the net effects of the amendments made by this Act, the Taxation (Working for Families) Act 2004, and any related regulations or other instruments.
