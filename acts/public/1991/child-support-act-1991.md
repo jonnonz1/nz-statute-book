@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 > Title
 
@@ -46,8 +46,8 @@ _Consolidation as at 2018-11-12_
   - **financially independent** , in relation to a person, means—
     (a) in full employment; or
     (b) in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998; or
-    (c) in receipt of payments under a government-assisted scheme which the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 considers to be analogous to a benefit payable under the Social Security Act 1964; or
-    (d) in receipt of a benefit (as defined in section 3 of the Social Security Act 1964) payable under that Act
+    (c) in receipt of payments under a government-assisted scheme which the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 considers to be analogous to a benefit payable under the Social Security Act 2018; or
+    (d) in receipt of a main benefit under this Act (as that expression is defined in Schedule 2 of the Social Security Act 2018) and that is payable under the Social Security Act 2018
   - **formula assessment** means an assessment made by the Commissioner in accordance with Parts 1 and 2
   - **full employment** , in relation to any person, means—
     (a) employment under a contract of service or apprenticeship which requires the person to work, whether on time or piece rates, not less than an average of 30 hours per week; or
@@ -88,16 +88,14 @@ _Consolidation as at 2018-11-12_
   - **receiving carer** means—
     (a) a carer of a qualifying child who the Commissioner determines under section 17 is a receiving carer of the child; or
     (b) a person who is entitled to receive child support under section 58(1) or 68(1)
-  - **social security benefit** means—and means a person who is in receipt of one of those benefits
-    (a) sole parent support granted under section 20D of the Social Security Act 1964:
-    (b) an unsupported child's benefit granted under section 29 of the Social Security Act 1964:
-    (c) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made after 24 July 1990,—
-      (i)
-      (ii) a supported living payment granted under section 40B on the ground of sickness, injury, disability, or total blindness of that Act:
-      (iii) subject to subsection (1A), jobseeker support:
-      (iv)
-      (v) young parent payment:
-    (d) where the person is a sole parent within the meaning of the Social Security Act 1964 and the application for the benefit was made on or after 1 August 1991, an emergency benefit granted under section 61 of that Act,—
+  - **social security benefit** means—
+    (a) sole parent support under section 29 of the Social Security Act 2018:
+    (b) an unsupported child’s benefit under section 46 of that Act:
+    (c) any of the following benefits under that Act, but only if granted to a sole parent (within the meaning of that Act):
+      (i) a supported living payment under section 34 on the ground of restricted work capacity or total blindness:
+      (ii) jobseeker support (other than jobseeker support under section 25(3) or (4) of that Act):
+      (iii) young parent payment:
+    (d) an emergency benefit under section 63 of that Act, but only if granted to a sole parent (within the meaning of that Act)
   - **source deduction payment** means a PAYE income payment (as defined in section RD 3 of the Income Tax Act 2007)
   - **step-parent** , in relation to any child, means, in applying any provision of this Act relating to the liability of a person to pay child support, any person who has been declared to be a step-parent of the child by the Family Court under section 99
   - **tax year** has the meaning in section YA 1 of the Income Tax Act 2007
@@ -109,7 +107,7 @@ _Consolidation as at 2018-11-12_
   - **withholding income** means—
     (a) income from employment that has a New Zealand source that is subject to the PAYE rules (as defined in section YA 1 of the Income Tax Act 2007):
     (b) interest or a dividend that has a New Zealand source that is subject to the RWT rules (as defined in section YA 1 of the Income Tax Act 2007).
-(1A) The reference to jobseeker support in paragraph (c)﻿(iii) of the definition of social security benefit in subsection (1) does not include jobseeker support granted under section 88C(2) or (3) of the Social Security Act 1964.
+(1A)
 (2) Unless otherwise specified, the application of any provision of this Act to a person, assessment, payment, or other matter shall be determined in respect of each day in a child support year, and any assessment or other calculation shall be made on the basis of the circumstances existing in relation to that day.
 (3) For the purposes of this Act, a tax year corresponds with a child support year if,—
   (a) in relation to a person whose income is assessed under the Tax Administration Act 1994, the tax year ends on the last day of the child support year:
@@ -222,7 +220,7 @@ The objects of this Act are—
     (i) any formula assessment applying at that time ceases to apply; and
     (ii) the election under section 70 is deemed to be revoked (despite section 70(4)) on the following day.
 (5) If the person is in receipt of an unsupported child's benefit in respect of 1 or more children, but is not in receipt of any other social security benefit, subsection (2) applies only in relation to the child or children in respect of whom the unsupported child's benefit is paid.
-(5B) A social security beneficiary is not required to apply for a formula assessment in relation to a parent of the child if the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 is satisfied that—
+(5B) A social security beneficiary is not required to apply for a formula assessment in relation to a parent of the child if the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 is satisfied that—
   (a) there is insufficient evidence available to establish who in law that parent is:
   (b) if the beneficiary made an application for a formula assessment of child support or took steps to make an application for a formula assessment of child support in relation to that parent, there would be a risk of violence—
     (i) to the beneficiary:
@@ -231,11 +229,11 @@ The objects of this Act are—
   (c) that parent died before the application for social security benefit was made:
   (d) the child was conceived as a result of incest or sexual violation:
   (e) the beneficiary cannot make an application for a formula assessment of child support in relation to that parent because of a compelling circumstance, other than a circumstance mentioned elsewhere in this subsection.
-(6) Unless subsection (6B) applies, a social security beneficiary who does not comply with their obligations under this section, and who is described in section 70A(1)﻿(a) and (b) of the Social Security Act 1964, is liable to have their rate of benefit reduced under that section.
-(6B) A social security beneficiary who does not apply for a formula assessment of child support in relation to a parent of a qualifying child when required by this section, and who is described in section 70A(1)﻿(a) and (b) of the Social Security Act 1964, is not liable to have their rate of benefit reduced under that section if the chief executive of the department for the time being responsible for the administration of that Act is satisfied that the beneficiary is taking active steps to identify who in law that parent is.
-(7) In order to ensure the enforcement of section 70A of the Social Security Act 1964, the Commissioner may notify the chief executive of the department responsible for the administration of that Act if any social security beneficiary who is described in section 70A(1)﻿(a) and (b) of that Act fails to comply with his or her obligations under this section, or if his or her application for a formula assessment is not properly completed.
+(6) Unless subsection (6B) applies, a social security beneficiary who does not comply with their obligations under this section, and who is described in section 192(1)﻿(a) and (b) of the Social Security Act 2018, is liable to have their rate of benefit reduced under that section.
+(6B) A social security beneficiary who does not apply for a formula assessment of child support in relation to a parent of a qualifying child when required by this section, and who is described in section 192(1)﻿(a) and (b) of the Social Security Act 2018, is not liable to have their rate of benefit reduced under that section if the chief executive of the department for the time being responsible for the administration of that Act is satisfied that the beneficiary is taking active steps to identify who in law that parent is.
+(7) In order to ensure the enforcement of section 192 of the Social Security Act 2018, the Commissioner may notify the chief executive of the department responsible for the administration of that Act if any social security beneficiary who is described in section 192(1)﻿(a) and (b) of that Act fails to comply with his or her obligations under this section, or if his or her application for a formula assessment is not properly completed.
 (8) In this section,—
-  - **sole parent** has the same meaning as in section 3 of the Social Security Act 1964
+  - **sole parent** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **violence** has the same meaning as in section 3 of the Domestic Violence Act 1995.
 
 ### 10 Form of application
@@ -498,10 +496,9 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
   (a) increased by the total amount of income tax deductions that would be required to make the rate a gross, rather than a net, rate (as determined in accordance with section RD 11(3) of the Income Tax Act 2007); and
   (b) annualised.
 (2) The amount of living allowance is as follows:
-  (a) for every person other than a person identified in paragraph (b), the rate set out in clause 1 of Schedule 3A of the Social Security Act 1964 (ignoring the reference to Income Test 1):
-  (b) for a person granted a supported living payment under section 40B or 40D of the Social Security Act 1964 who is, for the purposes of that benefit, a single beneficiary with 1 or more dependent children, the rate set out in clause 1(c) of Schedule 6 of that Act (ignoring the reference to Income Test 1).
-  (c)
-(3) The version of the appropriate schedule of the Social Security Act 1964 that applies in a child support year is the version in force on 1 January in the immediately preceding child support year.
+  (a) for a person not identified in paragraph (b), the rate set out in clause 1 of Part 2 of Schedule 4 of the Social Security Act 2018 (ignoring the reference to Income Test 1):
+  (b) for a person granted a supported living payment under subpart 4 of Part 2 of the Social Security Act 2018, the rate set out in clause 1(c) of Part 3 of Schedule 4 of that Act (ignoring the reference to Income Test 1).
+(3) The version of the appropriate schedule of the Social Security Act 2018 that applies in a child support year is the version in force on 1 January in the immediately preceding child support year.
 (4) The Commissioner must ensure that notice of the applicable living allowances under this section that apply to the current and (if applicable) the previous child support year is available at all reasonable times on an Internet site maintained by or on behalf of the Inland Revenue Department.
 
 ### 35B Dependent child allowance
@@ -1154,7 +1151,7 @@ In this Part, unless the context otherwise requires,—
   - **relevant minimum annual rate of financial support** means, in relation to a child support year,—
     (a) for an exemption from child support payable under a formula assessment or under an order under section 109, the minimum annual rate for that year under section 72(1)﻿(a):
     (b) for an exemption from any other child support payable under this Act or from domestic maintenance, $520
-  - **social security benefit** means any benefit within the meaning of the Social Security Act 1964.
+  - **social security benefit** means any benefit as defined in Schedule 2 of the Social Security Act 2018.
 
 ### Subpart 2 — Exemptions for hospital patients, prisoners, and persons under 16 years
 
@@ -1164,7 +1161,7 @@ In this Part, unless the context otherwise requires,—
 (1) A liable person is eligible for an exemption from the payment of financial support for the whole, or part, of a long-term period of hospitalisation of that person if—
   (a) the person's income for that whole period, or that part, will be or was nil, or will be or was calculated only from income consisting solely of—
     (i) income from investments; or
-    (ii) a social security benefit payable to the person at the rate specified in Schedule 22 of the Social Security Act 1964; and
+    (ii) a social security benefit payable to the person at the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 as payable to long-term hospital patients; and
   (b) the person's income from investments (if any) during that whole period, or that part, did not or will not—
     (i) exceed an average amount per week in that whole period, or that part, that is equal to the relevant minimum annual rate of financial support, divided by 52; and
     (ii) if that whole period, or that part, is 1 or more full child support years in duration, exceed, in a child support year in that whole period or that part, the relevant minimum annual rate of financial support; and
@@ -1202,14 +1199,14 @@ In this Part, unless the context otherwise requires,—
 ### 89F Exemption does not apply at any time during child support year if income criteria not met at any time during relevant period
 (1) An exemption under this subpart does not apply at any time during the whole of a child support year if,—
   (a) at any time during the relevant period,—
-    (i) in the case of an exemption under section 89C, the person receives any income (subject to section 89C(1A)) other than from investments or a social security benefit payable at the rate specified in Schedule 22 of the Social Security Act 1964; or
+    (i) in the case of an exemption under section 89C, the person receives any income (subject to section 89C(1A)) other than from investments or a social security benefit payable at the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 as payable to long-term hospital patients; or
     (ii) in the case of an exemption under section 89D or 89E, the person receives any income (subject to sections 89C(1A) and 89D(1A)) other than from investments, or employment under section 66 of the Corrections Act 2004; or
   (b) the person receives income from investments during the relevant period that—
     (i) exceeds, if the relevant period is less than a full child support year in duration, an average amount per week in the relevant period that is equal to the relevant minimum annual rate of financial support, divided by 52; or
     (ii) exceeds, if the relevant period is a full child support year in duration, the relevant minimum annual rate of financial support.
 (2) However, in the case of an exemption under section 89C, if a liable person is receiving a higher rate benefit at the start of that person's hospitalisation, that benefit does not prevent the exemption from applying after the person stops receiving that benefit for the whole or a part of the rest of the child support year in which that person became a hospital patient.
 (3) For the purposes of this section,—
-  - **higher rate benefit** means a social security benefit payable at a rate higher than the rate specified in Schedule 22 of the Social Security Act 1964
+  - **higher rate benefit** means a social security benefit payable at a rate higher than the rate specified in Part 12 of Schedule 4 of the Social Security Act 2018 as payable to long-term hospital patients
   - **relevant period** , in relation to a child support year,—
     (a) in the case of an exemption under section 89C, means the period of hospitalisation that is in the child support year and during which the person would, but for an exemption under this subpart, be liable to pay financial support; and
     (b) in the case of an exemption under section 89D, means the period of imprisonment that is in the child support year and during which the person would, but for an exemption under this subpart, be liable to pay financial support; and
@@ -2216,7 +2213,7 @@ Where a court is considering an appeal under this Act against the disallowance b
 (1) Notwithstanding any rule of law to the contrary, in any proceeding under this Act a person—shall be a compellable witness for the Commissioner against the person who, in relation to that eligible applicant, is the liable parent, and for the liable parent against the Commissioner.
   (a) who is a parent or carer of a qualifying child; and
   (b) who is in receipt of a social security benefit at any time during any period to which the proceeding relates,—
-(2) A person who fails to comply with this section, and who is described in section 70A(1)﻿(a) and (b) of the Social Security Act 1964, is liable to have their rate of benefit reduced under that section.
+(2) A person who fails to comply with this section, and who is described in section 192(1)﻿(a) and (b) of the Social Security Act 2018, is liable to have their rate of benefit reduced under that section.
 
 ### 123 Conduct of proceedings
 (1) The business of courts and of Judges shall, so far as is consistent with the due despatch of business, be arranged in such a manner as may be necessary for the separating of the hearing of proceedings under this Act from other business.
@@ -2270,7 +2267,7 @@ Where any person makes default in any payment of financial support under this Ac
     (ii) if the Commissioner considers automatic deduction inappropriate in the person’s case, by another payment method acceptable to the Commissioner.
 
 ### 131 Social security beneficiaries to pay financial support by automatic deduction
-Where any person who is required to pay financial support under this Act is in receipt of any benefit under the Social Security Act 1964 or under the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the Veterans' Support Act 2014, or the New Zealand Superannuation and Retirement Income Act 2001,—
+Where any person who is required to pay financial support under this Act is in receipt of any benefit under the Social Security Act 2018, or Part 6 of the Veterans' Support Act 2014, or the New Zealand Superannuation and Retirement Income Act 2001,—
   (a) section 129 of this Act shall not apply; and
   (b) payments of financial support shall be payable by way of automatic deduction under Part 10 of this Act from any instalment of any benefit to which the person is or may become entitled under that Act.
 
@@ -3535,7 +3532,7 @@ Every question of fact arising in any proceeding under this Act (not being crimi
   (b) the communication, to the person who, in relation to any liable person and to any financial support payable by the liable person under this Act, is the payee, of such information as the Commissioner considers desirable for the purpose of informing that person of the amount of any such financial support that is in arrear and unpaid by the liable person and the enforcement actions that have been taken or are proposed for the purpose of securing payment of that amount:
   (ba) the communication from time to time, to the person who, in relation to any liable person and to any financial support payable by the liable person under this Act, is the payee, of such information as the Commissioner considers desirable for the purpose of informing that person, in relation to any period, of the amount of any such financial support that has been paid by the liable person for or during that period, and the date or dates on which the payment or payments have been made:
   (c)
-  (d) the communication, to the General Manager of Veterans’ Affairs New Zealand or any member of the Defence Force authorised in that behalf, of information relating to the amount of financial support paid by the Commissioner pursuant to Part 9 of this Act to any person whose income is required to be determined for the purposes of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or Part 6 of the Veterans’ Support Act 2014:
+  (d) the communication, to the General Manager of Veterans’ Affairs New Zealand or any member of the Defence Force authorised in that behalf, of information relating to the amount of financial support paid by the Commissioner pursuant to Part 9 of this Act to any person whose income is required to be determined for the purposes of the Social Security Act 2018 or Part 6 of the Veterans’ Support Act 2014:
   (db) the communication, to the Chief Executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
   (dc) the communication, to the Commissioner of Police or any Police employee authorised in that behalf, of information for the purpose of carrying into effect subpart 4 of Part 5A:
   (e) the communication, to the Chief Executive of the Ministry of Justice or any officer of the Ministry of Justice authorised in that behalf, of information for the purposes of—
@@ -3694,7 +3691,7 @@ Notwithstanding section 241 of this Act, nothing in section 89 of the Accident C
   (b) shall continue in full force and effect until whichever is the earliest of the following dates:and thereupon, at the close of that date, shall cease to remain in force or shall cease to be registered or confirmed under the Family Proceedings Act 1980, as the case may be.
     (i) the date on which child support under a formula assessment commences to be payable, in accordance with this Act, to the person entitled to receive payments under the order or agreement, by the person liable to make those payments; or
     (ii) in a case where a voluntary agreement made in relation to the child between the parties to the order or agreement is accepted by the Commissioner, the date on which that voluntary agreement first applies in accordance with section 59; or
-    (iii) the date on which a benefit is granted under the Social Security Act 1964 or Part 6 of the Veterans' Support Act 2014 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 or the New Zealand Superannuation and Retirement Income Act 2001 to the person who is entitled to receive payments under the order or agreement; or
+    (iii) the date on which a benefit is granted under the Social Security Act 2018 or Part 6 of the Veterans’ Support Act 2014 or the New Zealand Superannuation and Retirement Income Act 2001 to the person who is entitled to receive payments under the order or agreement; or
     (iv) the date that the order or agreement would have expired if this Act had not been passed,—
 
 ### 264 Enforcement of Department of Social Welfare administered child maintenance orders and agreements
