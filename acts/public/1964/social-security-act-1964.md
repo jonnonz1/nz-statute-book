@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -2282,42 +2282,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 [Repealed]
 
 ### 69FA Financial means assessments for home-based disability support services
-(1) In this section and in Schedule 30,—
-  - **cash assets** has the same meaning as in section 61E; but does not include any assets or any amount of cash assets excluded by regulations made under section 132D
-  - **health practitioner** —
-    (a) has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003; and
-    (b) includes—
-      (i) a former health practitioner within the meaning of that section; and
-      (ii) a person who is receiving training or gaining experience under the supervision of a health practitioner
-  - **home-based disability support services** means disability services supplied to a person, being services in relation to the person's domestic affairs (other than medical services, personal care services, attendant care services, and relief care services) that support and allow the person to remain in his or her home and are of a kind that are funded under the New Zealand Public Health and Disability Act 2000
-  - **income** has the same meaning as in section 3(1); but includes—but does not include any amount specified in regulations made under section 132D
-    (a) any benefit or allowance received under or pursuant to—
-      (i) this Act or the New Zealand Superannuation and Retirement Income Act 2001; or
-      (ii) the Veterans' Support Act 2014 (other than a disablement pension under Part 3 of that Act); and
-    (b) the gross amount of any payment received in consideration of providing board and lodgings to any person in excess of 2—
-  - **medical services** means services supplied to a person by a health practitioner relating to the treatment or relief of the person's disability condition or the rehabilitation of the person from that condition.
-(2) This section applies to any person who has been assessed by a district health board as requiring home-based disability support services and who—
-  (a) is not a child; and
-  (b) is not entitled to be the holder of a community services card issued pursuant to the Health Entitlement Cards Regulations 1993 (SR 1993/169).
-(3) The chief executive may, from time to time, on application by or on behalf of any person to whom this section applies, assess in accordance with Schedule 30 the weekly amount that person is required to pay toward the cost of the home-based disability support services supplied to that person, and that person is required to pay the amount so assessed in accordance with the assessment.
-(4) For the purposes of Schedule 30,—
-  (a) the following is to be treated as $1 per week of income:
-    (i) every $100 of cash assets over $5,400 held by a person who is married or in a civil union or in a de facto relationship:
-    (ii) every $100 of cash assets over $5,400 held by a single person who has a dependent child or children:
-    (iii) every $100 of cash assets over $2,700 held by any other person; and
-  (b) the income of a person who is married or in a civil union or in a de facto relationship includes the income of his or her spouse or partner.
-(5) In any case where the chief executive is satisfied that a person to whom this section applies, or that person's spouse or partner, has not realised any assets available for that person's personal use, the chief executive may treat any such assets as being cash assets for the purposes of subsection (4).
-(6) Every assessment made by the chief executive under subsection (3) must state—and the chief executive must supply a copy of that assessment to that person, and may supply the details specified in paragraphs (a) and (b) to the applicable district health board.
-  (a) the date of the assessment; and
-  (b) the amount that the person has been assessed as being required to pay toward the cost of the home-based disability support services supplied to that person—
-(7) The chief executive must from time to time review any assessment under this section, and may revise that assessment if—
-  (a) the chief executive is satisfied the assessment is in error; or
-  (b) the person to whom the assessment relates or his or her spouse or partner fails to provide any relevant information requested or to answer any relevant question; or
-  (c) after reviewing the assessment, the chief executive is satisfied that, owing to a change in circumstances of that person or his or her spouse or partner, the assessment is no longer an accurate reflection of that person's ability to pay for his or her home-based disability support services, to take effect from such date as the chief executive determines, being a date on or after the date on which the change may reasonably be held to have occurred.
-(8) In any case where the chief executive is satisfied that any person—or that person's spouse or partner has directly or indirectly deprived himself or herself of any income or assets, the chief executive, in the chief executive's discretion, may assess or, as the case may be, revise the assessment of the person's ability to pay for that person's home-based disability support services as if that deprivation had not occurred.
-  (a) who has applied for an assessment under this section; or
-  (b) whose ability to pay for home-based disability support services has been assessed under this section—
-(9) Every person whose ability to pay for home-based disability support services has been assessed under this section must forthwith advise the department of any change in the circumstances of that person or his or her spouse or partner that affects that person's ability to pay for his or her home-based disability support services.
+[Repealed]
 
 ## Part 1P — Administration: overseas pensions, other conditions of benefits, reviews, and payments, debts, and deductions
 
@@ -4372,9 +4337,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) the arrangements are taken to be modified to the extent necessary to give effect to the regulations.
 
 ### 132D Regulations exempting income and assets from assessment of financial means of people requiring certain disability services
-Without limiting the general power to make regulations conferred by section 132, the Governor-General may from time to time, by Order in Council, make regulations—
-  (a) defining terms to be excluded as cash assets for the purpose of section 69FA; and
-  (b) specifying that certain amounts of cash assets or income are not to be included within the financial means assessment of a person under that section.
+[Repealed]
 
 ### 132E Regulations relating to work capacity assessment
 [Repealed]
@@ -4498,248 +4461,81 @@ Without limiting the general power to make regulations conferred by section 132,
 ## Part 4 — Long-term residential care in hospital or rest home
 
 ### 136AA Purpose of this Part
-The purpose of this Part is to—
-  (a) specify the circumstances in which certain older persons are required to pay for their own long-term residential care; and
-  (b) specify the circumstances in which a funder must contribute toward the cost of those persons' long-term residential care; and
-  (c) provide for those persons to apply for a means assessment to determine if, and how much, a funder must contribute toward the cost of their long-term residential care; and
-  (d) provide that those persons are not required to pay more than the maximum contribution (which amount is specified by Gazette notice) for their long-term residential care, if that care is provided by a provider who has a contract with a funder to provide long-term residential care to older persons.
+[Repealed]
 
 ### 136AB Overview of this Part
-(1) This Part sets out the regime for determining liability in respect of the cost of providing long-term residential care to an eligible person who—
-  (a) has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely; and
-  (b) receives that care in a hospital or rest home that is a hospital or rest home funded under the New Zealand Public Health and Disability Act 2000 to provide such care.
-(2) This Part provides—
-  (a) for the needs assessment of an eligible person to determine whether the person requires long-term residential care in a hospital or rest home indefinitely; and
-  (b) for the means assessment of an eligible person who has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely to determine the amount that the person is liable to pay for the cost of his or her care; and
-  (c) for a maximum contribution, which is the most that an eligible person who has been needs assessed as requiring long-term residential care indefinitely may be required to pay for the cost of his or her assessed care needs provided in a hospital or rest home that has a contract with a funder to provide long-term residential care to eligible persons; and
-  (d) for determination of the extent to which a funder is liable to pay the cost of the long-term residential care provided to an eligible person who has been needs assessed as requiring long-term residential care indefinitely.
-(3) This section is by way of explanation only. If a provision of this or any other Act is inconsistent with this section, the other provision prevails.
+[Repealed]
 
 ### 136 Interpretation
-In this Part, unless the context otherwise requires,—
-  - **applicable asset threshold** is the value of assets that is applied to determine whether a resident assessed as requiring care must use his or her assets to pay the cost of contracted care services provided to the person; and the applicable asset thresholds are set out in Part 1 of Schedule 27
-  - **contracted care provider** means a provider that—
-    (a) has a service agreement; or
-    (b) accepts payment under a section 88 notice
-  - **contracted care services** means services that are—
-    (a) provided by a contracted care provider; and
-    (b) provided to an eligible person who has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely; and
-    (c) in relation to a particular person, the services necessary to meet the person's assessed long-term residential care needs
-  - **cost of contracted care services** means, in relation to a resident assessed as requiring care, the amount that—
-    (a) is the cost of the contracted care services provided by a contracted care provider to meet the resident's assessed long-term residential care needs; and
-    (b) is specified in the service agreement or section 88 notice that applies to the contracted care provider as the price payable for those services, whether or not the services provided to the resident are wholly or partly funded under that agreement or notice
-  - **date of means assessment** has the meaning given in section 145
-  - **DHB** means a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
-  - **elderly victim of crime** means a resident assessed as requiring care who is assessed, in accordance with regulations made under section 155, as being an elderly victim of crime for the purposes of this Part
-  - **eligible person** means a person who—
-    (a) is either—
-      (i) aged 65 or over; or
-      (ii) aged between 50 and 64, and is single and has no dependent children; and
-    (b) is eligible for publicly funded health and disability services under an Eligibility Direction issued under section 32, or continued under section 112, of the New Zealand Public Health and Disability Act 2000
-  - **exempt person** means a resident assessed as requiring care who belongs to a class of exempt persons, as those classes are defined in regulations made under section 155
-  - **funder** means an entity responsible under the New Zealand Public Health and Disability Act 2000 for paying, in accordance with this Part, some or all of the cost of contracted care services provided to a resident assessed as requiring care
-  - **maximum contribution** , in relation to a resident assessed as requiring care who is residing in a particular region, means the weekly amount, inclusive of goods and services tax, that is set by notice in the Gazette under section 152 as the maximum contribution applying to that region, and is the maximum that any resident assessed as requiring care may be required to pay for contracted care services provided in that region
-  - **needs assessment** means an assessment, carried out under section 137, that assesses whether an eligible person requires long-term residential care in a hospital or rest home indefinitely
-  - **personal allowance** means an amount of benefit, specified in regulations made under section 155, that a person is not required to contribute to the cost of contracted care services provided to the person
-  - **provider** means a person who provides long-term residential care in a hospital or rest home; and, in relation to a resident assessed as requiring care, means the person providing that care to the resident
-  - **region** means any geographical area defined by the Director-General of Health as being a region for the purpose of identifying maximum contributions (such as, for example, a District Health Board area, or a district of a territorial authority)
-  - **resident assessed as requiring care** means an eligible person who—
-    (a) has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely; and
-    (b) is receiving contracted care services from a provider irrespective of whether a funder has any liability to pay for any of the cost of his or her care
-  - **section 88 notice** means a notice given under section 88 of the New Zealand Public Health and Disability Act 2000 in respect of the provision of long-term residential care to eligible persons
-  - **service agreement** means a service agreement entered into between a funder and provider under section 25 of the New Zealand Public Health and Disability Act 2000 in respect of the provision of long-term residential care to eligible persons.
+[Repealed]
 
 **Needs assessment**
 
 ### 137 Needs assessment
-(1) A DHB may conduct a needs assessment of an eligible person at any time.
-(2) An eligible person may apply at any time to a DHB for a needs assessment.
-(3) A needs assessment of an eligible person must ascertain whether the person requires long-term residential care in a hospital or rest home indefinitely.
-(4) A DHB that receives a request under subsection (2) must arrange for a needs assessment to be conducted as soon as practicable.
-(5) The date of a person's needs assessment is the date shown as such on the assessment.
-(6) A copy of the assessment must be provided to—
-  (a) the person to whom it applies; and
-  (b) the provider (if any) who is currently providing long-term residential care to the person.
-(7) For the purposes of a needs assessment (and, in particular, consent to a needs assessment), the Code of Health and Disability Services Consumers' Rights (made under section 74 of the Health and Disability Commissioner Act 1994) applies as if—
-  (a) the needs assessment were a service; and
-  (b) the person assessed were a consumer of that service; and
-  (c) the DHB or its delegate were a provider of that service.
+[Repealed]
 
 ### 138 Effect of being assessed as requiring long-term residential care in hospital or rest home indefinitely
-(1) An eligible person who has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely—
-  (a) receives contracted care services if he or she is receiving long-term residential care from a contracted care provider, irrespective of whether a funder has any liability to pay for any of the cost of his or her care; and
-  (b) is, or becomes, a resident assessed as requiring care as soon as he or she receives contracted care services and sections 139 to 142 therefore apply; and
-  (c) is entitled, under section 144, to apply for a means assessment in accordance with Schedule 27.
-(2) When a person is notified of the results of a needs assessment, the DHB must advise the person to whom it relates—
-  (a) of the amount of the maximum contribution; and
-  (b) of the person's and the funder's respective liabilities under sections 139 to 142; and
-  (c) about how to apply for a means assessment.
+[Repealed]
 
 **Liability to pay**
 
 ### 139 Personal obligation to pay for care
-(1) The following people are liable to pay the cost of long-term residential care provided to them in a hospital or rest home:
-  (a) a resident assessed as requiring care; and
-  (b) any other eligible person receiving long-term residential care from a provider.
-(2) The most that a resident assessed as requiring care may be required to pay towards the cost of contracted care services provided to him or her is the maximum contribution.
-(3) The amount that a resident assessed as requiring care is liable to pay under subsection (1) is reduced by whatever a funder must pay in respect of the resident under any of sections 140, 141, or 142.
-(4) Nothing in this section affects the liability of a resident assessed as requiring care to pay, under an agreement between the resident and a provider, for any services provided to the resident that are not contracted care services.
+[Repealed]
 
 ### 140 Funder's liability in respect of persons whose assets are above applicable asset threshold or who have not been means assessed
-(1) This section applies to—
-  (a) a resident assessed as requiring care who has been means assessed and found to have assets above the applicable asset threshold; and
-  (b) a resident assessed as requiring care who has not been means assessed, or for whom the result of a means assessment is not yet known.
-(2) If the cost of contracted care services provided to a person to whom this section applies exceeds the maximum contribution, the funder must pay the difference between the maximum contribution and the cost of contracted care services provided to the person.
-(3) The funder's liability under subsection (2) arises on the later of—
-  (a) the date on which the person is needs assessed as requiring long-term residential care in a hospital or rest home indefinitely; or
-  (b) the date on which the person commences receiving contracted care services from a provider.
+[Repealed]
 
 ### 141 Funder's liability in respect of persons whose assets are equal to or below applicable asset threshold
-(1) This section applies to a resident assessed as requiring care who—
-  (a) has been means assessed as to assets under Part 2 of Schedule 27 and been found to have assets equal to or less than the applicable asset threshold; and
-  (b) has had a contribution determined following a means assessment as to income under Part 3 of Schedule 27.
-(2) In the case of a person to whom this section applies, the funder must pay the difference between the cost of contracted care services provided to the person and the person's contribution determined following a means assessment as to income.
-(3) The funder's liability under subsection (2) arises on the date on which the person's assets are equal to or less than the applicable asset threshold, except as provided in subsection (4).
-(4) If the person's assets are equal to or less than the applicable asset threshold more than 90 days before the date of means assessment that establishes that fact, the funder's liability arises on the date that is 90 days before the date of means assessment.
+[Repealed]
 
 ### 142 Funder's liability in respect of exempt persons and elderly victims of crime
-(1) In the case of an exempt person, the funder must pay the amount determined in accordance with the following formula:p = c − (b − a)where—pis the amount the funder must paycis the cost of contracted care services provided to the exempt personbis the amount of any benefit received by the exempt personais the personal allowance.
-(1A) By way of explanation, the effect of subsection (1) is that the funder pays the cost of contracted care services provided to an exempt person, but the exempt person contributes the amount of any benefit that he or she receives, less the amount of the personal allowance.
-(2) In the case of an elderly victim of crime, the funder must pay the full cost of contracted care services provided to the person.
-(3) The funder's liability under subsection (1) or subsection (2) arises—
-  (a) on the date on which the person, being a resident assessed as requiring care, is confirmed under regulations made under section 155 as being an exempt person or elderly victim of crime, as the case requires; or
-  (b) in the case of a person to whom section 10 of the Social Security (Long-term Residential Care) Amendment Act 2004 applies, on the date on which this section comes into force.
+[Repealed]
 
 ### 143 Residents assessed as requiring care aged 50 to 64 not required to pay out of assets
-(1) This section applies to every resident assessed as requiring care who is aged 50 to 64 years, is single, and has no dependent children.
-(2) Every person to whom this section applies must be treated for the purposes of Part 4 as if the person were a resident assessed as requiring care who has been means assessed and found to have assets equal to or less than the applicable asset threshold.
-(3) By way of explanation, the effect of subsection (2) is that a person to whom this section applies—
-  (a) may not be means tested as to assets, and, if the person has already been means tested as to assets, the result of that test is to be disregarded; and
-  (b) is not required to pay for contracted care services out of assets, but is required to pay only the contribution (as determined by a means test as to income under Part 3 of Schedule 27) towards the cost of those services.
+[Repealed]
 
 **Means assessment**
 
 ### 144 Application for means assessment
-(1) An eligible person who has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely may apply at any time for a means assessment.
-(2) An application for a means assessment must be made on a form provided for the purpose by the chief executive.
-(3) The chief executive must arrange for a means assessment to be conducted as soon as practicable after receiving an application.
+[Repealed]
 
 ### 145 Date of means assessment
-In this Part, date of means assessment means,—
-  (a) in the case of a first means assessment conducted under this Part, the date on which the application for the means assessment is received:
-  (b) in the case of a review of a means assessment for which the person has applied under section 150(1)﻿(a), the date on which the application for the review is received:
-  (c) in the case of a review under section 150(1)﻿(b), the date of means assessment that applied to the earlier, apparently mistaken, means assessment:
-  (d) in the case of a review under section 150(1)﻿(c), the date, determined by the chief executive, on which the person's circumstances changed:
-  (e) in the case of a review under section 150(2), the date on which the chief executive initiated the review:
-  (f) in the case of a review under section 150(2A)—
-    (i) conducted by the chief executive in the event of a general adjustment of rates of benefits or allowances, the date of that general adjustment; or
-    (ii) conducted as a result of advice received by the department under section 149(1), the date on which that advice was received; or
-    (iii) conducted by the chief executive in any other case, the date on which the chief executive initiated the review.
+[Repealed]
 
 ### 146 Means assessment as to assets
-(1) The first stage of a means assessment is a means assessment as to assets, conducted under Part 2 of Schedule 27.
-(2) The means assessment as to assets must assess the value of the non-exempt assets of the person as at the date of means assessment and must determine whether those assets are above, equal to, or less than the applicable asset threshold.
-(3) By way of explanation, if a person's assets are assessed as being above the applicable asset threshold, the person must (in accordance with section 139) pay the cost of contracted care services up to the maximum contribution, but if the cost of contracted care services exceeds that amount then the additional costs will be paid by the funder in accordance with section 140.
+[Repealed]
 
 ### 147 Means assessment as to income
-(1) The second stage of a means assessment is a means assessment as to income, conducted under Part 3 of Schedule 27.
-(2) A means assessment as to income must be conducted if the person's assets, as assessed by a means assessment as to assets, are equal to or less than the applicable asset threshold.
-(3) The means assessment as to income must assess the annual income of the person as at the date of means assessment and must determine a weekly contribution, up to the maximum contribution, that the person must pay from income towards the cost of contracted care services provided to the person.
-(4) A means assessment as to income must also determine—
-  (a) whether the assets of the person became equal to or less than the applicable asset threshold more than 90 days before the date of means assessment; or
-  (b) the date, being a date during the 90 days before the date of means assessment, on which the person's assets became equal to or less than the applicable asset threshold.
-(5) The purpose of subsection (4) is to determine when the funder's liability arises under section 141.
+[Repealed]
 
 ### 147A Deprivation of assets and income
-(1) If the chief executive is satisfied that a person who has applied for a means assessment, or the spouse or partner of that person, has directly or indirectly deprived himself or herself of any income or property (other than an exempt asset), the chief executive may in his or her discretion conduct the means assessment as if the deprivation had not occurred.
-(2) If the chief executive is satisfied that a person who has been means assessed, or the spouse or partner of that person, has directly or indirectly deprived himself or herself of any income or property (other than an exempt asset), the chief executive may in his or her discretion include that income or property in a review of the person's means assessment under section 150 as at the date of means assessment as if the deprivation had not occurred.
+[Repealed]
 
 ### 148 Notice of means assessment (including reviews)
-(1) Every means assessment (including a reviewed means assessment), whether it relates only to assets or to both assets and income, must be in writing and a copy must be provided to the person to whom it relates.
-(2) The provider, the funder, and the Ministry of Health must be advised, with respect to every person who is means assessed or whose means assessment is reviewed, whether the person has assets above the applicable threshold or, if the person's assets are equal to or less than the applicable threshold, what the person's weekly contribution from income is assessed as being.
+[Repealed]
 
 ### 149 Obligation to advise change of circumstances and right to apply for review
-(1) Every person listed in subsection (2) is obliged to advise the department of any change in the financial or other circumstances of a person who has been means assessed, or of that person's spouse or partner, if the person—
-  (a) knows or ought to know of the change of circumstances; and
-  (b) knows or ought to know that the change might mean that the means assessment is no longer accurate.
-(1A) However, subsection (1) does not apply if—
-  (a) a funder has no liability under section 140 or section 142 in respect of the cost of contracted care services provided to the person who has been means assessed; or
-  (b) the person who has been means assessed has been found to have assets equal to or less than the applicable asset threshold and the change relates to the value of that person's assets, or to the value of the assets of that person's spouse or partner.
-(2) The people with the obligation under subsection (1) are as follows:
-  (a) the person who has been means assessed:
-  (b) the spouse or partner of the person who has been means assessed:
-  (c) the holder of an enduring power of attorney (given in accordance with Part 9 of the Protection of Personal and Property Rights Act 1988) who acts under the enduring power of attorney in relation to the property of the means tested person or the spouse or partner:
-  (d) the provider who provides services to the person who has been means assessed.
-(3) Every funder is obliged to take all practicable steps to ensure that every resident assessed as requiring care—
-  (a) is advised of the right, under section 150(1)﻿(a), to apply for a review of the person's means assessment; and
-  (b) is notified whenever a change is made to the tests used in means assessments (such as an increase to applicable asset thresholds, or a change to the personal allowance) that might mean that, if the person's means assessment were reviewed, the result would be different from the result of the person's latest means assessment.
+[Repealed]
 
 ### 150 Review of means assessment
-(1) The chief executive must review a person's means assessment in each of the following circumstances:
-  (a) the person applies for a review on a form provided for the purpose by the chief executive:
-  (b) the chief executive has reason to believe that there was a mistake in the earlier assessment, whether as a result of wrong information being supplied or otherwise:
-  (c) in the case of a person who has a spouse or partner, the circumstances of the person have changed as a result of—
-    (i) the spouse or partner becoming a resident assessed as requiring care; or
-    (ii) the death of the spouse or partner; or
-    (iii) the chief executive determining under section 63 that the conjugal status of the person's spouse or partner has changed for the purpose of this Part.
-(2) In the case only of a person who has been means assessed and been found to have assets above the applicable threshold, the chief executive may review the person's means assessment at any time if the chief executive considers that the person's assets have fallen, or are about to fall, to a level where they are equal to or less than the applicable asset threshold.
-(2A) In the case only of a person who has been means assessed and been found to have assets equal to or less than the applicable asset threshold, the chief executive—
-  (a) may review the person's means assessment annually; and
-  (b) may, if the chief executive considers that the person's annual income has changed or is about to change, review the person's means assessment at any time.
-(3) Nothing in subsection (2) or subsection (2A) obliges the chief executive to conduct a review of a means assessment following a change in the tests used in means assessments (such as an increase to applicable asset thresholds or a change to the personal allowance) unless the person to whom the means assessment relates applies for a review under subsection (1)﻿(a).
-(4) A review must review the person's means assessment as to assets and, if necessary, the person's means assessment as to income unless subsection (4A) applies.
-(4A) A review must review the person's means assessment as to income only (and not the person's means assessment as to assets) if the review is conducted under—
-  (a) subsection (1)﻿(a) and the person has been means assessed and found to have assets equal to or less than the applicable asset threshold; or
-  (b) subsection (2A).
-(4B) A review under this section is conducted as at the date of means assessment.
-(5) Section 147(4) applies if a review under this section determines that, as at the date of means assessment, the assets of the person were equal to or less than the applicable asset threshold.
+[Repealed]
 
 ### 151 Conjugal status for purpose of means assessment
-The chief executive cannot under section 63 determine that, for the purposes of this Part, a person is single by reason only that the person or his or her spouse or partner—
-  (a) is a resident assessed as requiring care; or
-  (b) has become unable to affirm his or her marriage or civil union.
+[Repealed]
 
 **Miscellaneous**
 
 ### 152 Maximum contributions set by Gazette notice
-(1) The Director-General of Health must, by notice in the Gazette, set the maximum contribution that applies in each region.
-(2) By way of explanation, the amount of the maximum contribution set for a region is the amount agreed at a national level between funder representatives and provider representatives as being the amount that funders in that region are to pay to providers in that region for providing rest-home-level care services.
-(3) However, if the amount identified under subsection (2) for a region is less than $636, the maximum contribution for that region must be set at $636.
+[Repealed]
 
 ### 153 Residential care loan scheme
-A person who has been means assessed as to assets may apply for a loan under the residential care loan scheme operated by the Ministry of Health if—
-  (a) the person's assets are above the applicable asset threshold; and
-  (b) the person meets the criteria for eligibility for the residential care loan scheme as notified by the Director-General of Health in the Gazette.
+[Repealed]
 
 ### 154 Clothing allowance
-(1) Regulations may be made under section 155 that provide for payment of a clothing allowance to either or both of the following class of person:
-  (a) residents assessed as requiring care who have been means assessed and found to have assets equal to or less than the applicable asset threshold:
-  (b) residents assessed as requiring care who have entered into a loan agreement with the Crown under the residential care loan scheme.
-(2) The amount of the clothing allowance must be set by regulations made under section 155.
+[Repealed]
 
 ### 155 Regulations relating to this Part
-(1) The Governor-General may, by Order in Council, make regulations for all or any of the following matters:
-  (a)
-  (b) identifying a class or classes of exempt persons:
-  (c) prescribing how a person is to be assessed as being, or no longer being, an elderly victim of crime:
-  (d) providing, in accordance with section 154, for payment of a clothing allowance, and setting the amount of any clothing allowance payable:
-  (e) prescribing, for the purpose of section 147A, rules relating to deprivation of property, income, or both, and the circumstances in which those rules apply:
-  (f) prescribing the gifting period and the allowable gifts, or the value of any allowable gifts, for the purpose of Part 2 of Schedule 27:
-  (g) amending the maximum value of pre-paid funerals for the purposes of paragraph (d) of the definition of exempt assets in Part 2 of Schedule 27:
-  (h) prescribing assets, or an amount of assets, that are exempt assets for the purpose of paragraph (f) of the definition of exempt assets in Part 2 of Schedule 27:
-  (i) increasing the applicable asset thresholds and the income-from-assets exemption in accordance with subsection (2):
-  (j) prescribing an amount or type of income, or an amount of a certain type of income, that is not to be included in a means assessment as to income, as provided for in paragraph (k) of the definition of income in Part 3 of Schedule 27:
-  (k) prescribing the amount of personal allowance:
-  (l) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
-(2) The applicable asset thresholds set out in Part 1 of Schedule 27 must be increased on 1 July 2013, and on every following 1 July, and the income-from-assets exemption (as defined in Part 3 of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the all groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 31 March.
-(2A) The adjustments (by any percentage movement in the All Groups index number of the New Zealand Consumers Price Index) required under subsection (2) as at 1 July in any year from 2011 to 2021 (inclusive) insofar as they are required for the income-from-assets exemption (but not insofar as they are required for the applicable asset thresholds) must, despite that subsection, be calculated,—
-  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using, for those quarters, the All Groups index numbers of the New Zealand Consumers Price Index published by Statistics New Zealand; and
-  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using, for those quarters, the All Groups excluding cigarettes and other tobacco products index numbers of the New Zealand Consumers Price Index published by Statistics New Zealand.
-(3) If the adjusted amount of an applicable asset threshold or, as the case requires, of income-from-assets exemption is not a whole number of dollars—
-  (a) it must be rounded up to the nearest whole number of dollars; but
-  (b) the adjustment made in the following year must be based on the applicable asset threshold or the income-from-assets exemption as it was before it was rounded up.
-(4) The Director-General of Health must, as soon as practicable after 1 July in each year, give notice in the Gazette of the current amount of the income-from-assets exemption.
-(5) This section does not limit any other power given in this Act to make regulations.
+[Repealed]
 
 ## Part 5 — Financial support for young people
 
@@ -5350,78 +5146,6 @@ In determining the base rate in relation to a person in respect of any period th
 
 ## Schedule 27 — Means assessment under Part 4
 
-### Part 1 — Applicable asset thresholds
-
-### 1 Applicable asset thresholds
-(1) This clause specifies the applicable asset thresholds that apply annually for the year 1 July 2012 to 30 June 2013 and for all later years beginning on 1 July.
-(2) Threshold A is $227,125 and applies to every resident assessed as requiring care—
-  (a) who has no spouse or partner; or
-  (b) whose spouse or partner is also a resident assessed as requiring care; or
-  (c) whose spouse or partner is not a resident assessed as requiring care but who has elected, under clause 2, to have Threshold A apply to him or her rather than Threshold B.
-(3) Threshold B is $124,379 and applies to every resident assessed as requiring care—
-  (a) whose spouse or partner is not a resident assessed as requiring care; and
-  (b) who has not elected, under clause 2, to have Threshold A apply to him or her.
-
-### 2 Certain residents may elect which threshold to apply
-(1) A resident assessed as requiring care whose spouse or partner is not a resident assessed as requiring care may elect to have Threshold A in clause 1 apply to him or her instead of having Threshold B in clause 1 apply.
-(2) A resident's election before 1 July 2012 and under this clause (as in force before 1 July 2012) to have Column A of the table in clause 1 (as in force before 1 July 2012) apply to him or her is, after 30 June 2012, treated as an election to have Threshold A in clause 1 apply to him or her.
-
-### 3 Explanation of election
-The effect of making an election under clause 2 is that the person's applicable asset threshold will increase, but the value of any interest in the residential dwelling and the car of the person's spouse or partner will be included in the calculation of the person's assets (see paragraphs (a) and (b) of the definition of exempt assets in Part 2).
-
-### Part 2 — Means assessment as to assets
-
-### 4 Definitions
-For the purpose of a means assessment as to assets conducted under section 146,—
-  - **assets** , in relation to the person being means assessed, means the assets of the person and his or her spouse or partner (if any) that are capable of being realised by the person or his or her spouse or partner; and includes—
-    (a) the value of any right, under a contract or arrangement with any person, to be paid or repaid money on termination of a licence to occupy part of any property, building, or premises, adjusted to take into account any conditions or restrictions on that right:
-    (b) the value of assets that have been gifted by the person, the person's spouse or partner, or both during the prescribed gifting period immediately before the date of means assessment; but does not include any allowable gifts, or the value of any allowable gifts, prescribed by regulations made under section 155
-    (c)
-  - **exempt assets** , in relation to the person being means tested, means—
-    (a) any interest in a residential dwelling that is the principal residence of the person's spouse or partner or a dependent child of the person; but this exemption does not apply to a person who has made an election under clause 2:
-    (b) any interest in 1 car or similar vehicle that is for the personal use of the person's spouse or partner; but this exemption does not apply to a person who has made an election under clause 2:
-    (c) the value of any ex gratia payment by the Government of New Zealand or the Government of any other country to the person because the person or his or her spouse or partner was a prisoner of war or civilian internee of Japan during the Second World War:
-    (d) the value of any pre-paid funeral of the person or of the person's spouse or partner, up to a value of $10,000 (or such other amount as may be prescribed by regulations made under section 155) for each:
-    (e) a lump sum paid to the person under Schedule 1 of the Accident Compensation Act 2001, or a lump sum payment of an independence allowance under Part 13 of the Accident Insurance Act 1998 or Part 4 of Schedule 1 of that Act; but this exemption applies only in the first 12 months after the payment is made:
-    (ea) any contributions to, or any member's interest in, any KiwiSaver scheme that is registered under subpart 2 of Part 4 of the Financial Markets Conduct Act 2013, except the following:
-      (i) money withdrawn from such a scheme:
-      (ii) money that the member is entitled to withdraw from the scheme under clause 4(3) of the KiwiSaver scheme rules under the KiwiSaver Act 2006:
-      (iii) money that the member has applied to withdraw and that would be a permitted withdrawal under those rules:
-    (f) any assets, or amount of assets, of the person or his or her spouse or partner declared by regulations made under section 155 to be exempt assets.
-
-### Part 3 — Means assessment relating to income
-
-### 5 Definitions
-For the purpose of a person's means assessment as to income under section 147,—
-  - **income** means the following, and in every case is the income after deduction of income tax:but does not include the following:
-    (a) the income of the person or his or her spouse or partner that is within the meaning given in section 3(1):
-    (b) any benefit received by the person:
-    (c) 50% of any amount received by the person or by his or her spouse or partner by way of a pension that—
-      (i) is from any superannuation scheme, whether or not that scheme is constituted in New Zealand; and
-      (ii) is not New Zealand superannuation; and
-      (iii) is not an overseas pension:
-    (d) 50% of any amount received by the person or by his or her spouse or partner under an annuity paid in respect of a policy of life insurance (whether or not issued in New Zealand):
-    (e)
-    (f) the income of the person's spouse or partner that is earned by the personal effort of the spouse or partner:
-    (g) any amount of income received by the spouse or partner that is within paragraph (d) of the definition of income in section 3:
-    (h) any clothing allowance payable to the person under regulations made under section 155:
-    (i) the income-from-assets exemption of the person:
-    (j) any amount paid by a funder in respect of the cost of contracted care services provided to the person or his or her spouse or partner:
-    (k) any amount or type of income, or amount of a certain type of income, specified in regulations made under section 155
-  - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or such other amount or amounts as may be prescribed by regulations made under section 155):
-    (a) $992, if the person is single; or
-    (b) $1,983, if the person's spouse or partner is a resident assessed as requiring care; or
-    (c) $2,975, if the person's spouse or partner is not a resident assessed as requiring care.
-
-### 6 Annual income
-For the purposes of a means assessment as to income, a person's annual income is his or her estimated income (as defined in clause 5) for the period of 52 weeks commencing on the date of means assessment.
-
-### 7 Weekly income
-A person's weekly income is the person's annual income divided by 52.
-
-### 8 Weekly contribution
-The weekly contribution payable by a person whose income is assessed is the person's weekly income less the personal allowance (as defined in section 136).
-
 ## Schedule 28 — Period of benefit stand down
 
 | 1 | For a person who is married or in a civil union or in a de facto relationship— |  |  |
@@ -5452,35 +5176,6 @@ The weekly contribution payable by a person whose income is assessed is the pers
 ## Schedule 29 — Powers, functions, and discretions of the Director-General that may be delegated to the chief executive of the Department of Labour
 
 ## Schedule 30 — Method of calculating ability to make payments towards costs of home-based disability support services under section 69FA
-
-### 1
-In this schedule, specified outgoings, in relation to any person, means the annual total of—
-((a)) the maximum rate for the time being of a supported living payment that would be payable to the person if he or she was qualified to receive such a benefit:
-((b)) an amount of $10 per week (for the purpose of paying costs incidental to the provision of home help):
-((c)) the following employment-related expenses of the person and his or her spouse or partner, calculated on an annual basis:
-  ((i)) fees or subscriptions payable on an annual or regular basis to any union:
-  ((ii)) contributions to any superannuation scheme:
-  ((iii)) contributions to any employee welfare fund:
-  ((iv)) any other essential costs of that employment (not including travel to and from work) to the extent that they are not reimbursed by the employer:
-((d)) the person's accommodation costs (within the meaning of section 61E):
-((e)) the person's telephone rental (being the standard line charge and base user charge including hire of a basic telephone applicable to a person living in the place where the person lives), calculated on an annual basis:
-((f)) the cost of the person's ongoing and regular medical and pharmaceutical expenses, calculated on an annual basis:
-((g)) the cost of the person's regular essential expenses (being expenses other than the cost of food, clothing, travel, running a motor vehicle, life insurance, house and contents insurance, hire purchase, entertainment, and personal savings), calculated on an annual basis.
-
-### 2
-The chief executive must calculate the amount of the person's annual income and specified outgoings, and must deduct the amount of the specified outgoings from the annual income.
-
-### 3
-If the result of the calculation specified in clause 2 is $0 or less than $0, the chief executive must assess the amount the person is required to contribute towards the cost of the home-based disability support services supplied to that person as $0.
-
-### 4
-If the result of the calculation specified in clause 2 is greater than $0 but less than the total cost of the home-based disability support services supplied to the person, the chief executive must assess that result as the amount the person is required to contribute towards the cost of those services.
-
-### 5
-If the result of the calculation specified in clause 2 is equal to or greater than the total cost of the home-based disability support services supplied to the person, the chief executive must assess the amount the person is required to contribute towards the cost of those services as the total cost of those services.
-
-### 6
-The chief executive must convert an assessment made under clauses 3 to 5 to a weekly amount.
 
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
