@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -408,7 +408,7 @@ _Consolidation as at 2018-11-12_
     (i) any suspensory loan or advance, when that loan or advance becomes non-repayable by reason of its conditions for non-repayment being satisfied; and
     (ii) any payment in the nature of a grant or subsidy of a kind that is declared by the Governor-General by Order in Council to be a taxable grant or subsidy for the purposes of subsection (6D), being a payment that, but for such declaration, would be excluded from this definition by virtue of paragraph (b)﻿(ii):
   (b) does not include—
-    (i) any payment of a benefit paid under the Social Security Act 1964; or
+    (i) any payment of a benefit paid under the Social Security Act 2018; or
     (ii) subject to paragraph (a)﻿(ii), any other payment made to a person where the payment is for the personal use and benefit of the person or, as the case may be, a relative (as defined in paragraphs (c) and (d) of the definition of that term in section YA 1 of the Income Tax Act 2007) of the person; or
     (iii) any payment of a kind that is declared by the Governor-General by Order in Council not to be a taxable grant or subsidy for the purposes of subsection (6D).
 (6F) For the purposes of this Act, the amount payable by the Crown or the agency under the Housing Restructuring and Tenancy Matters Act 1992 under a reimbursement agreement or a tailored agreement under that Act for the provision of accommodation in social housing is treated as consideration for the supply of accommodation in a dwelling by way of hire.
