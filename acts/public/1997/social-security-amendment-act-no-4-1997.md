@@ -1,5 +1,5 @@
 # Social Security Amendment Act (No 4) 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964
 
@@ -18,7 +18,7 @@ _Consolidation as at 2007-09-03_
 
 ### 4 Power to obtain information
 (1) This subsection amended section 11(1) of the principal Act.
-(2) This subsection inserted s 11(2)(da) of the principal Act.
+(2) This subsection inserted s 11(2)﻿(da) of the principal Act.
 (3) This subsection amended s 11(3) of the principal Act.
 (4) This subsection substituted s 11(4) of the principal Act.
 (5) This subsection amended s 11(6) of the principal Act.
@@ -31,16 +31,16 @@ This section inserted ss 11B and 11C of the principal Act.
 (1) This subsection substituted s 12J(1) of the principal Act.
 (2)
   (a) This paragraph amended s 12J(2) of the principal Act.
-  (b) This paragraph amended s 12J(2)(c) of the principal Act.
-  (c) This paragraph inserted s 12J(2)(d) and (e) of the principal Act.
+  (b) This paragraph amended s 12J(2)﻿(c) of the principal Act.
+  (c) This paragraph inserted s 12J(2)﻿(d) and (e) of the principal Act.
 (3) Section 12J of the principal Act is amended by repealing subsection (3).
 (4) The following enactments are repealed:
   (a) Section 3 of the Social Security Amendment Act 1976:
   (b) Section 7 of the Social Security Amendment Act 1987:
-  (c) Sections 14(4) and 38(1)(a) of the Social Welfare (Transitional Provisions) Act 1990:
+  (c) Sections 14(4) and 38(1)﻿(a) of the Social Welfare (Transitional Provisions) Act 1990:
   (d) Section 5 of the Social Security Amendment Act (No 5) 1991:
   (e) Section 4(1) of the Social Security Amendment Act (No 3) 1993:
-  (f) So much of the Schedule of the Social Security Amendment Act (No 3) 1996 as relates to section 12J(1)(b) of the principal Act.
+  (f) So much of the Schedule of the Social Security Amendment Act (No 3) 1996 as relates to section 12J(1)﻿(b) of the principal Act.
 
 ### 7 Procedure on appeal
 (1) This subsection substituted s 12K(1) of the principal Act, and inserted s 12K(1A) to (1C).
@@ -49,7 +49,7 @@ This section inserted ss 11B and 11C of the principal Act.
 (4) Section 10(3) of the Finance Act 1987 is consequentially repealed.
 
 ### 8 Effect of deduction notices
-This section amended s 27Z(2A) of the principal Act (as saved by section 256(1)(a) of the Child Support Act 1991).
+This section amended s 27Z(2A) of the principal Act (as saved by section 256(1)﻿(a) of the Child Support Act 1991).
 
 ### 9 Rates of invalids' benefits
 (1) This subsection inserted s 42(2) of the principal Act.
@@ -57,9 +57,9 @@ This section amended s 27Z(2A) of the principal Act (as saved by section 256(1)(
 
 ### 10 Right of appeal on medical grounds
 (1) Section 53A(1) of the principal Act (as inserted by section 13 of the Social Security Amendment Act 1986) is amended—
-  (a) This paragraph inserted s 53A(1)(ba) of the principal Act.
-  (b) This paragraph amended s 53A(1)(d) of the principal Act.
-  (c) This paragraph inserted s 53A(1)(e) of the principal Act.
+  (a) This paragraph inserted s 53A(1)﻿(ba) of the principal Act.
+  (b) This paragraph amended s 53A(1)﻿(d) of the principal Act.
+  (c) This paragraph inserted s 53A(1)﻿(e) of the principal Act.
   (d) This paragraph amended s 53A(1) of the principal Act.
   (e) This paragraph amended s 53A(1) of the principal Act.
 (2) This subsection inserted s 53A(3) of the principal Act.
@@ -154,8 +154,8 @@ This section amended s 60C(1) of the principal Act.
 
 ### 14 Accommodation supplement
 (1)
-  (a) This paragraph amended s 61EA(4)(d) of the principal Act.
-  (b) This paragraph inserted s 61EA(4)(e) of the principal Act.
+  (a) This paragraph amended s 61EA(4)﻿(d) of the principal Act.
+  (b) This paragraph inserted s 61EA(4)﻿(e) of the principal Act.
 (2) This section is deemed to have come into force on 1 July 1995.
 
 ### 15 Special benefit
@@ -170,7 +170,7 @@ This section amended s 63 of the principal Act.
 (2) This subsection substituted s 68A(8) of the principal Act.
 
 ### 18 Disability allowance
-(1) This subsection amended s 69C(1)(c) of the principal Act.
+(1) This subsection amended s 69C(1)﻿(c) of the principal Act.
 (2) This subsection substituted s 69C(2) of the principal Act, and inserted s 69C(2A) and (2B).
 (3) This subsection inserted s 69C(6) to (8) of the principal Act.
 (4) Section 7(1) of the Social Security Amendment Act 1994 is consequentially repealed.
@@ -198,13 +198,13 @@ This section inserted s 69FA of the principal Act.
 (3) Section 86A(1A) of the principal Act (as inserted by subsection (2)) applies to all debts to the Crown recoverable under the principal Act, whether or not the Limitation Act 1950 prevented recovery of the debt by civil action in a court of law before the coming into force of this section.
 
 ### 24 Money payable out of Crown Bank Account
-(1) This subsection substituted s 124(1)(d) of the principal Act.
+(1) This subsection substituted s 124(1)﻿(d) of the principal Act.
 (2) This subsection inserted s 124(1B) of the principal Act.
 (3) The following enactments are consequentially repealed:
   (a) Section 18(2) of the Department of Social Welfare Act 1971:
   (b) Section 24 of the Social Security Amendment Act 1975:
   (c) Section 34(1) of the Social Security Amendment Act 1976.
-(4) It is declared that the Minister of Social Welfare or, as the case may require, the Minister of Social Security has always had the power under section 124(1)(d) of the principal Act to establish and approve any welfare programme for special assistance for the purposes of that section; and every such welfare programme that has at any time been so approved, and any payments or grants of special assistance and actions taken under it, are confirmed and declared to be and always to have been valid.
+(4) It is declared that the Minister of Social Welfare or, as the case may require, the Minister of Social Security has always had the power under section 124(1)﻿(d) of the principal Act to establish and approve any welfare programme for special assistance for the purposes of that section; and every such welfare programme that has at any time been so approved, and any payments or grants of special assistance and actions taken under it, are confirmed and declared to be and always to have been valid.
 
 ### 25 Certain grounds of discrimination in Human Rights Act 1993 not to apply
 This section inserted s 126B of the principal Act.
@@ -224,9 +224,9 @@ This section inserted Schedule 30 of the principal Act.
 
 ### 30 Consequential amendments
 (1) The Schedule of the Social Security Amendment Act (No 3) 1997 is amended by—
-  (a) Omitting, from the item relating to section 69C(1)(a), the expression section 60F(1)(c)(i), and substituting the expression section 60F(6):
-  (b) Omitting, from the item relating to section 71A, the expression section 60F(1)(c)(i), and substituting the expression section 60F(6):
-  (c) Omitting, from the item relating to section 72(b), the expression section 60F(1)(c)(i), and substituting the expression section 60F(6).
+  (a) Omitting, from the item relating to section 69C(1)﻿(a), the expression section 60F(1)﻿(c)﻿(i), and substituting the expression section 60F(6):
+  (b) Omitting, from the item relating to section 71A, the expression section 60F(1)﻿(c)﻿(i), and substituting the expression section 60F(6):
+  (c) Omitting, from the item relating to section 72(b), the expression section 60F(1)﻿(c)﻿(i), and substituting the expression section 60F(6).
 (2) This section comes into force on 1 January 1998.
 
 ## Schedule Schedule — New Schedule 30 of principal Act
