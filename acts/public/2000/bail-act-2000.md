@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -498,8 +498,8 @@ A court that grants bail with an EM condition may postpone the commencement of t
 ### 30Q Defendant on bail with EM condition not in custody
 A defendant on bail with an EM condition is not in custody.
 
-### 30R Bail with EM condition does not affect entitlements under Social Security Act 1964
-The fact that a defendant is on bail with an EM condition does not, of itself, affect any entitlement the defendant may have under the Social Security Act 1964.
+### 30R Bail with EM condition does not affect entitlements under Social Security Act 2018
+The fact that a defendant is on bail with an EM condition does not, of itself, affect any entitlement the defendant may have under the Social Security Act 2018.
 
 ### 30S Subsequent application for bail with EM condition
 Nothing in this Act prevents a defendant, who has previously applied for bail without an EM condition and been refused, from subsequently applying for bail with an EM condition on the same charges.
