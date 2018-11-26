@@ -1,5 +1,5 @@
 # Social Welfare (Transitional Provisions) Amendment Act 2013
-_Consolidation as at 2013-12-04_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Welfare (Transitional Provisions) Amendment Act 2013.
@@ -16,7 +16,7 @@ This Act amends the Social Welfare (Transitional Provisions) Act 1990 (the princ
 (1) After the commencement of this Act,—
   (a) the principal Act is called the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990; and
   (b) every reference to the principal Act in any enactment, or in any document, in force on that commencement must, unless the context otherwise requires, be read as a reference to the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
-(2) Subsection (1)(b)—
+(2) Subsection (1)﻿(b)—
   (a) does not apply to a reference to a principal Act provision that was repealed before that commencement; and
   (b) is subject to the other provisions of this Act.
 
@@ -41,12 +41,12 @@ Repeal the cross-heading above section 19.
 (1) This section amends the Child Support Act 1991.
 (2) In the following provisions, replace (Transitional Provisions) with (Reciprocity Agreements, and New Zealand Artificial Limb Service):
   (a) section 131:
-  (b) section 240(2)(d):
-  (c) section 263(2)(b)(iii).
+  (b) section 240(2)﻿(d):
+  (c) section 263(2)﻿(b)﻿(iii).
 
 ### 10 Child Support Amendment Act 2013 amended consequentially
 (1) This section amends the Child Support Amendment Act 2013.
-(2) In section 38, new section 129(4)(c), replace (Transitional Provisions) with (Reciprocity Agreements, and New Zealand Artificial Limb Service).
+(2) In section 38, new section 129(4)﻿(c), replace (Transitional Provisions) with (Reciprocity Agreements, and New Zealand Artificial Limb Service).
 
 ### 11 Customs and Excise Act 1996 amended consequentially
 (1) This section amends the Customs and Excise Act 1996.
@@ -57,7 +57,7 @@ Repeal the cross-heading above section 19.
 ### 12 Income Tax Act 2007 amended consequentially
 (1) This section amends the Income Tax Act 2007.
 (2) In the following provisions, replace (Transitional Provisions) with (Reciprocity Agreements, and New Zealand Artificial Limb Service):
-  (a) section CW 28(2)(a)(ii):
+  (a) section CW 28(2)﻿(a)﻿(ii):
   (b) section YA 1, definition of portable New Zealand superannuation, paragraph (c):
   (c) section YA 1, definition of portable veteran's pension, paragraph (c).
 (3) In section YA 1, definition of living alone payment, repeal paragraph (b).
@@ -68,8 +68,8 @@ Repeal the cross-heading above section 19.
   (a) section 5(1), definition of New Zealand superannuation, paragraph (b):
   (b) section 19(10):
   (c) section 21:
-  (d) section 26(1)(a):
-  (e) section 30(1)(b).
+  (d) section 26(1)﻿(a):
+  (e) section 30(1)﻿(b).
 
 ### 14 Public Bodies Contracts Act 1959 amended consequentially
 (1) This section amends the Public Bodies Contracts Act 1959.
@@ -78,22 +78,22 @@ Repeal the cross-heading above section 19.
 ### 15 Social Security Act 1964 amended consequentially
 (1) This section amends the Social Security Act 1964.
 (2) In section 3(1), definition of benefit, paragraph (a), before ; and, insert (including, without limitation, any such benefit payable under this Act by virtue of an agreement or convention given effect in relation to New Zealand by an order under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990).
-(3) In section 3(1), definition of benefit, paragraph (b)(i), after 1954, insert (including, without limitation, any New Zealand superannuation, or veteran's pension, payable under that Act by virtue of an agreement or convention given effect in relation to New Zealand by an order under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990).
+(3) In section 3(1), definition of benefit, paragraph (b)﻿(i), after 1954, insert (including, without limitation, any New Zealand superannuation, or veteran's pension, payable under that Act by virtue of an agreement or convention given effect in relation to New Zealand by an order under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990).
 (4) In the following provisions, replace (Transitional Provisions) with (Reciprocity Agreements, and New Zealand Artificial Limb Service) in each place:
   (a) section 5(1):
-  (b) section 10A(1)(b):
-  (c) section 11(2)(f):
+  (b) section 10A(1)﻿(b):
+  (c) section 11(2)﻿(f):
   (d) section 11D(9):
-  (e) section 12J(1A)(a):
-  (f) section 60GAE(1A)(a):
-  (g) section 74AA(1A)(a):
-  (h) section 77(1)(b):
+  (e) section 12J(1A)﻿(a):
+  (f) section 60GAE(1A)﻿(a):
+  (g) section 74AA(1A)﻿(a):
+  (h) section 77(1)﻿(b):
   (i) Schedule 32, clause 13(a).
 (5) In the following provisions, delete or the Social Welfare (Transitional Provisions) Act 1990:
-  (a) section 3(1), definition of income, paragraph (f)(i):
+  (a) section 3(1), definition of income, paragraph (f)﻿(i):
   (b) section 3(3):
-  (c) section 69FA(1), definition of income, paragraph (a)(i):
-  (d) section 70(3)(a) and (b) and (4):
+  (c) section 69FA(1), definition of income, paragraph (a)﻿(i):
+  (d) section 70(3)﻿(a) and (b) and (4):
   (e) section 71(1):
   (f) section 74(1):
   (g) section 74A(5):
@@ -101,11 +101,11 @@ Repeal the cross-heading above section 19.
   (i) section 85A(f):
   (j) section 127(a).
 (6) In the following provisions, delete the Social Welfare (Transitional Provisions) Act 1990 or:
-  (a) section 11(2)(a):
+  (a) section 11(2)﻿(a):
   (b) section 64(1) and (2A):
   (c) section 86(2).
-(7) In section 12J(1)(c), delete Part 1 of the Social Welfare (Transitional Provisions) Act 1990 or.
-(8) Repeal section 61H(1)(c).
+(7) In section 12J(1)﻿(c), delete Part 1 of the Social Welfare (Transitional Provisions) Act 1990 or.
+(8) Repeal section 61H(1)﻿(c).
 (9) In the following provisions, delete or under the Social Welfare (Transitional Provisions) Act 1990 in each place:
   (a) section 69G(1), (2), and (3):
   (b) section 69H(1) and (3):
@@ -115,17 +115,17 @@ Repeal the cross-heading above section 19.
 ### 16 Tax Administration Act 1994 amended consequentially
 (1) This section amends the Tax Administration Act 1994.
 (2) In the following provisions, replace (Transitional Provisions) with (Reciprocity Agreements, and New Zealand Artificial Limb Service):
-  (a) section 85B(4)(a) and (b):
+  (a) section 85B(4)﻿(a) and (b):
   (b) section 85B(7), definition of social security agreement, paragraph (a).
 
 ### 17 War Pensions Act 1954 amended consequentially
 (1) This section amends the War Pensions Act 1954.
 (2) In the following provisions, replace (Transitional Provisions) with (Reciprocity Agreements, and New Zealand Artificial Limb Service):
   (a) section 68(3):
-  (b) section 69(1)(b):
+  (b) section 69(1)﻿(b):
   (c) section 74E:
-  (d) section 74J(1)(a):
-  (e) section 74N(1)(b).
+  (d) section 74J(1)﻿(a):
+  (e) section 74N(1)﻿(b).
 
 **New Zealand Artificial Limb Board renamed**
 
@@ -134,8 +134,8 @@ In the Part 3 heading, replace Board with Service.
 
 ### 19 Section 42 amended (Interpretation)
 (1) In section 42, definition of Board, replace constituted by section 43 with established on 1 April 1990 by section 43(1).
-(2) In section 42, insert in its appropriate alphabetical order:.
-  - **Service** means the Board as renamed by section 43(1A)(a)
+(2) In section 42, insert in its appropriate alphabetical order:
+  - **Service** means the Board as renamed by section 43(1A)﻿(a)
 
 ### 20 Section 43 amended (New Zealand Artificial Limb Board)
 (1) In the heading to section 43, replace Board with Service.
@@ -152,8 +152,8 @@ In section 44, replace Board with Service.
 ### 22 Section 46 amended (Membership of Board)
 (1) In the heading to section 46, replace Board with Service.
 (2) In section 46(1), replace Board shall consist with Service consists.
-(3) In section 46(1)(e), replace Area with District.
-(4) In section 46(1)(f), replace the Board with a majority of the current members of the Service.
+(3) In section 46(1)﻿(e), replace Area with District.
+(4) In section 46(1)﻿(f), replace the Board with a majority of the current members of the Service.
 (5) In section 46(2), replace Members of the Board with Members of the Service.
 
 ### 23 Section 48 amended (Review of operation of Board)
@@ -161,8 +161,8 @@ In section 44, replace Board with Service.
 (2) In section 48,—
   (a) replace the date of commencement of this Act with 1 April 1990; and
   (b) replace Board shall with Service must.
-(3) In section 48(a) and (b)(i), replace Board with Service.
-(4) In section 48(a)(i), replace the date of the commencement of this Act with 1 April 1990.
+(3) In section 48(a) and (b)﻿(i), replace Board with Service.
+(4) In section 48(a)﻿(i), replace the date of the commencement of this Act with 1 April 1990.
 
 ### 24 Section 49 amended (Further provisions applying to Board)
 (1) In the heading to section 49, replace Board with Service.
