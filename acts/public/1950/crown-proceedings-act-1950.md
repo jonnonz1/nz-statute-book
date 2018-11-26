@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -253,7 +253,7 @@ Amendment(s) incorporated in the Act(s).
   (b) authorise proceedings to be taken against the Crown under or in accordance with this Act in respect of any alleged liability of the Crown arising otherwise than in respect of the Sovereign's Government in New Zealand, or affect proceedings against the Crown in respect of any such alleged liability as aforesaid; or
   (c) affect any proceedings by the Crown otherwise than in right of the Sovereign's Government in New Zealand; or
   (d) subject the Crown to any greater liabilities in respect of the acts or omissions of any independent contractor employed by the Crown than those to which the Crown would be subject in respect of the acts or omissions if the Crown were a private person; or
-  (e) subject the Crown to any liability in respect of the acts or omissions of any medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or any other person while any such person is rendering any professional or other service or supplying any medicine, drug, appliance, or material in respect of any benefit provided in accordance with Part 2 of the Social Security Act 1964, unless the medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or other person is acting as a servant of the Crown at the time of the act or omission; or
+  (e) subject the Crown to any liability in respect of the acts or omissions of any medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or any other person while any such person is rendering any professional or other service or supplying any medicine, drug, appliance, or material in respect of any benefit provided under the Social Security Act 2018, unless the medical practitioner, pharmaceutical chemist, midwife, obstetric nurse, dentist, or other person is acting as a servant of the Crown at the time of the act or omission; or
   (f) subject the Crown, in its capacity as a highway authority, to any greater liability than that to which a local authority is subject in that capacity; or
   (g) interfere with or affect any Act that now is or hereafter may be in force whereby the Crown, or any of its officers and servants, is exempt from liability for anything done under the Act or affect any power, authority, or liability vested in or imposed upon the Crown or any of its officers or servants under any such Act; or
   (h) affect any right of the Crown to control or otherwise intervene in proceedings affecting the Crown's rights, property, or profits; or
