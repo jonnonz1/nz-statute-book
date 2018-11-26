@@ -1,5 +1,5 @@
 # Social Welfare (Transitional Provisions) Amendment Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Welfare (Transitional Provisions) Act 1990
 
