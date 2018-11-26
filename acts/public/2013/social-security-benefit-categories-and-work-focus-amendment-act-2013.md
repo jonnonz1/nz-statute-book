@@ -1,5 +1,5 @@
 # Social Security (Benefit Categories and Work Focus) Amendment Act 2013
-_Consolidation as at 2013-04-16_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Benefit Categories and Work Focus) Amendment Act 2013.
@@ -65,12 +65,12 @@ After section 3 (but before the section 3C inserted by section 139 of this Act),
 
 ### 8 Section 5 amended (Chief executive to comply with directions)
 (1) After section 5(2), insert:
-  (3) A direction given under this section for the purposes of all or any of sections 60RAB(1)(b), 125AA(5), and 132AD(4)(c) (other than a direction of that kind that relates exclusively to an individual)—
+  (3) A direction given under this section for the purposes of all or any of sections 60RAB(1)﻿(b), 125AA(5), and 132AD(4)﻿(c) (other than a direction of that kind that relates exclusively to an individual)—
     (a) is a regulation for the purposes of the Regulations (Disallowance) Act 1989; but
     (b) is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 (2) Subsection (3) takes effect on the repeal of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
 (3) Replace section 5(3) (as inserted, on 15 July 2013, by subsection (1)) with:
-  (3) A direction given under this section for the purposes of all or any of sections 60RAB(1)(b), 125AA(5), and 132AD(4)(c) (other than a direction of that kind that relates exclusively to an individual)—
+  (3) A direction given under this section for the purposes of all or any of sections 60RAB(1)﻿(b), 125AA(5), and 132AD(4)﻿(c) (other than a direction of that kind that relates exclusively to an individual)—
     (a) is not a legislative instrument for the purposes of the Legislation Act 2012; but
     (b) is a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives in accordance with section 41 of that Act.
 
@@ -92,10 +92,10 @@ After section 11D, insert:Pre-benefit activities: requirementsPre-benefit activi
       (i) jobseeker support; or
       (ii) a supported living payment on the ground of sickness, injury, disability, or total blindness; or
       (iii) an emergency benefit.
-  (2) The chief executive may (for the purpose stated in section 1A(a)(ii)) require a person to whom this section applies (unless the chief executive has determined that the person has not the capacity to seek, undertake, and be available for part-time work) to do any or all of the following:
+  (2) The chief executive may (for the purpose stated in section 1A(a)﻿(ii)) require a person to whom this section applies (unless the chief executive has determined that the person has not the capacity to seek, undertake, and be available for part-time work) to do any or all of the following:
     (a) undertake 1 or more stated pre-benefit activities:
-    (b) at any time before the benefit to which subsection (1)(a) or (b) applies commences, attend and participate in any interview for an opportunity of suitable employment to which the person is referred by the chief executive:
-    (c) at any time before the benefit to which subsection (1)(a) or (b) applies commences, accept any offer of suitable employment (whether or not the offer results from an interview of the kind described in paragraph (b)).
+    (b) at any time before the benefit to which subsection (1)﻿(a) or (b) applies commences, attend and participate in any interview for an opportunity of suitable employment to which the person is referred by the chief executive:
+    (c) at any time before the benefit to which subsection (1)﻿(a) or (b) applies commences, accept any offer of suitable employment (whether or not the offer results from an interview of the kind described in paragraph (b)).
   (3) Pre-benefit activity, in this section and sections 11F to 11H, means an activity that is not an activity in the community (as defined in section 3(1)), but is all or any of the following:
     (a) attending and participating in an employment related seminar provided by the department or by any other person approved by the chief executive for the purpose:
     (b) attending and participating in employment related training approved by the chief executive for the purpose:
@@ -103,34 +103,34 @@ After section 11D, insert:Pre-benefit activities: requirementsPre-benefit activi
     (d) completing any self-assessment or planning required by the chief executive:
     (e) any other activity stated in regulations under section 132J.
   (4) Suitable employment, for the purposes of subsection (2),—
-    (a) in relation to a person who has a dependent child aged under 14 years, and to whom this section applies by virtue of subsection (1)(a)(ii) or (b), means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
+    (a) in relation to a person who has a dependent child aged under 14 years, and to whom this section applies by virtue of subsection (1)﻿(a)﻿(ii) or (b), means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
     (b) in relation to a person for whom the chief executive considers that the appropriate financial assistance under this Act would be jobseeker support on the ground of sickness, injury, or disability, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
     (c) in relation to any other person, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a work-tested beneficiary.
-  (5) A requirement under subsection (2) may be oral or written and, in the case only of a requirement under subsection (2)(a), may be revoked orally or in writing in accordance with subsection (7).
-  (6) A pre-benefit activity stated under subsection (2)(a) must be available for the person to undertake not later than 10 working days after the date of first contact.
-  (7) The chief executive may revoke a requirement that the person undertake a pre-benefit activity under subsection (2)(a) if, and only if, the chief executive considers the requirement is no longer reasonable.
+  (5) A requirement under subsection (2) may be oral or written and, in the case only of a requirement under subsection (2)﻿(a), may be revoked orally or in writing in accordance with subsection (7).
+  (6) A pre-benefit activity stated under subsection (2)﻿(a) must be available for the person to undertake not later than 10 working days after the date of first contact.
+  (7) The chief executive may revoke a requirement that the person undertake a pre-benefit activity under subsection (2)﻿(a) if, and only if, the chief executive considers the requirement is no longer reasonable.
   The chief executive must take reasonable and appropriate steps to make every person on whom any requirements are placed under section 11E(2) aware of the following:
     (a) the person's obligations in relation to the requirements; and
     (b) the consequences of failure to comply with the requirements; and
     (c) when a requirement is to be, or has been, revoked, and when the revocation takes, or took, effect.
   (1) In this section,—
-    - **applicant** means a person to whom section 11E(1)(a) applies
-    - **specified benefit** means the benefit to which section 11E(1)(a) applies.
+    - **applicant** means a person to whom section 11E(1)﻿(a) applies
+    - **specified benefit** means the benefit to which section 11E(1)﻿(a) applies.
   (2) The chief executive is not required to investigate under section 12 a claim for the specified benefit made by the applicant unless satisfied that the applicant has undertaken any required pre-benefit activities.
   (3) Subsection (2) applies whether or not the applicant has completed the form of application for the specified benefit.
   (4) If the applicant fails to undertake any required pre-benefit activities within 20 working days after the date of first contact, any application for the specified benefit the applicant has made lapses.
   (5) Subsection (4) overrides section 11D(7).
-  (6) This subsection applies to an applicant if the chief executive considers that the applicant has, without a good and sufficient reason, failed to comply with a requirement under section 11E(2)(b) or (c).
+  (6) This subsection applies to an applicant if the chief executive considers that the applicant has, without a good and sufficient reason, failed to comply with a requirement under section 11E(2)﻿(b) or (c).
   (7) If subsection (6) applies to an applicant, the chief executive must, as the case requires,—
     (a) refuse to grant the applicant the specified benefit; or
     (b) terminate any grant of the specified benefit already made to the applicant.
   (1) In this section,—
-    - **applicant** means a person who contacts the department in accordance with section 11E(1)(b)
-    - **applicant's spouse or partner** means an applicant's spouse or partner to whom section 11E(1)(b) applies
-    - **specified benefit** means the benefit to which section 11E(1)(b) applies.
+    - **applicant** means a person who contacts the department in accordance with section 11E(1)﻿(b)
+    - **applicant's spouse or partner** means an applicant's spouse or partner to whom section 11E(1)﻿(b) applies
+    - **specified benefit** means the benefit to which section 11E(1)﻿(b) applies.
   (2) This subsection applies to an applicant's spouse or partner if the chief executive considers that the applicant's spouse or partner—
     (a) has failed to undertake a required pre-benefit activity within 20 working days after the date of the applicant's first contact; or
-    (b) has failed without a good and sufficient reason to comply with a requirement under section 11E(2)(b) or (c).
+    (b) has failed without a good and sufficient reason to comply with a requirement under section 11E(2)﻿(b) or (c).
   (3) If subsection (2) applies to an applicant's spouse or partner, the applicant receives the following (if all or any of them is granted) at the following rate or rates only:
     (a) the specified benefit—half of the rate of that benefit payable to a beneficiary who is married or in a civil union or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right:
     (b) the accommodation supplement, temporary additional support, or both (if any), to which the applicant and the applicant's spouse or partner would apart from this subsection be entitled—half of the otherwise applicable rate or rates.
@@ -140,7 +140,7 @@ After section 11D, insert:Pre-benefit activities: requirementsPre-benefit activi
 
 ### 11 Section 12J amended (Rights of appeal)
 Before section 12J(1A), insert:
-  (1AB) No appeal lies under subsection (1)(a) against a decision under section 116C(2)(a) against which an appeal lies under section 10B(1)(g) to the medical board.
+  (1AB) No appeal lies under subsection (1)﻿(a) against a decision under section 116C(2)﻿(a) against which an appeal lies under section 10B(1)﻿(g) to the medical board.
 
 **Sole parent support**
 
@@ -221,9 +221,9 @@ Repeal sections 27G and 27H.
 (3) In section 39F(1),—
   (a) replace invalid's benefit with supported living payment; and
   (b) replace people who— with people because they are people who fall within any 1 of the following 3 categories:.
-(4) In section 39F(1)(a), before have,, insert people who, and replace ; or with :.
-(5) In section 39F(1)(b), before are, insert people who, and replace . with :.
-(6) After section 39F(1)(b), insert:
+(4) In section 39F(1)﻿(a), before have,, insert people who, and replace ; or with :.
+(5) In section 39F(1)﻿(b), before are, insert people who, and replace . with :.
+(6) After section 39F(1)﻿(b), insert:
   (c) people who are required to give full-time care and attention at home to some other person (other than their spouse or partner) who is a patient requiring care.
 (7) Replace section 39F(2) with:
   (2) The purpose in subsection (1) is to be considered in the context of—
@@ -234,9 +234,9 @@ Repeal sections 27G and 27H.
 (1) Section 40 is renumbered as section 40B.
 (2) Replace the heading to section 40 with Supported living payment: on ground of sickness, injury, disability, or total blindness: eligibility and ineligibility.
 (3) In section 40(1), replace who is aged 16 years or more is eligible for an invalid's benefit if the chief executive is satisfied that— with is entitled to the supported living payment under this section if he or she satisfies the criteria in subsections (1A) and (1B), and—.
-(4) Repeal section 40(1)(aa).
-(5) In section 40(1)(b), after disability, insert arising (in either case).
-(6) In section 40(1)(b), replace congenital defect with existing from birth.
+(4) Repeal section 40(1)﻿(aa).
+(5) In section 40(1)﻿(b), after disability, insert arising (in either case).
+(6) In section 40(1)﻿(b), replace congenital defect with existing from birth.
 (7) After section 40(1), insert:
   (1A) An applicant for the supported living payment under this section must be aged at least 16 years.
   (1B) An applicant for the supported living payment under this section must meet the residential requirements in section 74AA.
@@ -263,11 +263,11 @@ After section 40 (as renumbered by section 16(1)), insert:Supported living payme
   (4) A benefit granted under this section may, in the chief executive's discretion, be continued for a period not exceeding 28 days even though the patient was not during that period in the full-time care of the beneficiary.
   (1) Every application for a supported living payment on the ground of care at home for a patient requiring care must be supported by the certificate of a medical practitioner certifying—
     (a) that the patient requires the applicant's full-time care and attention; and
-    (b) that, but for that care and attention, the patient would have to receive care that is, or that is equivalent to, care of a kind specified in section 40D(1)(a) or (b).
+    (b) that, but for that care and attention, the patient would have to receive care that is, or that is equivalent to, care of a kind specified in section 40D(1)﻿(a) or (b).
   (2) The chief executive may, in the chief executive's discretion, require that the patient be examined by a medical practitioner to be nominated for the purpose by the chief executive.
-  (3) A medical practitioner nominated under subsection (2) must determine whether the patient would, but for the applicant's full-time care and attention, have to receive care that is, or is equivalent to, care of a kind specified in section 40D(1)(a) or (b).
+  (3) A medical practitioner nominated under subsection (2) must determine whether the patient would, but for the applicant's full-time care and attention, have to receive care that is, or is equivalent to, care of a kind specified in section 40D(1)﻿(a) or (b).
   A person who is granted a supported living payment on the ground of sickness, injury, disability, or total blindness, must,—
-    (a) if section 60Q(1)(bb) applies to the person, comply with any requirements under section 60Q(3); and
+    (a) if section 60Q(1)﻿(bb) applies to the person, comply with any requirements under section 60Q(3); and
     (b) if he or she is a person to whom section 60RA applies, comply with the person's social obligations under section 60RA(3).
   (1) This section applies to the spouse or partner of a person granted a supported living payment on the ground of sickness, injury, disability, or total blindness.
   (2) A person to whom this section applies—
@@ -275,7 +275,7 @@ After section 40 (as renumbered by section 16(1)), insert:Supported living payme
     (b) if he or she is a person to whom section 60RA applies, must comply with the person's social obligations under section 60RA(3); and
     (c) if he or she is a work-tested spouse or partner, must comply with the work test.
   A person who is granted a supported living payment on the ground of care at home for a patient requiring care, must,—
-    (a) if section 60Q(1)(bc) applies to the person, comply with any requirements under section 60Q(3); and
+    (a) if section 60Q(1)﻿(bc) applies to the person, comply with any requirements under section 60Q(3); and
     (b) if he or she is a person to whom section 60RA applies, comply with the person's social obligations under section 60RA(3).
   A person must comply with the person's social obligations under section 60RA(3) if the person—
     (a) is a person with 1 or more dependent children; and
@@ -303,7 +303,7 @@ Replace sections 44 and 44A with:Supported living payment: on ground of sickness
   (2) This section applies to a person who—
     (a) is receiving a supported living payment granted on the ground of permanent and severe restriction of capacity for work; but
     (b) is with the chief executive's agreement undertaking open employment for a period agreed with the chief executive in order to establish whether the person can sustain open employment.
-  (3) The period of open employment agreed with the chief executive under subsection (2)(b) must not exceed 26 weeks (even if that employment is, or is expected to be, for a period that is longer than the agreed period).
+  (3) The period of open employment agreed with the chief executive under subsection (2)﻿(b) must not exceed 26 weeks (even if that employment is, or is expected to be, for a period that is longer than the agreed period).
   (4) A person to whom subsection (2) applies does not lose his or her entitlement to a supported living payment by reason only of working 15 or more hours a week in open employment during the agreed period.
 
 **Sickness benefit abolished**
@@ -318,9 +318,9 @@ Repeal sections 54, 54A, 54B, 54D, 54DA, 54E, and 54F and the cross-heading abov
   (1A) Subsection (1) does not apply to a person at a time when—
     (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in an agreement or convention with the government of another country set out in a schedule to the order have force and effect so far as they relate to New Zealand; and
     (b) he or she is ordinarily resident in that country.
-(2) In section 60GAE(2) (as so inserted), after section 60Q(1), insert or for the purposes of section 20D(1)(c) (which relates to eligibility for sole parent support).
+(2) In section 60GAE(2) (as so inserted), after section 60Q(1), insert or for the purposes of section 20D(1)﻿(c) (which relates to eligibility for sole parent support).
 (3) After section 60GAE(3) (as so inserted), insert:
-  (3A) In applying subsection (2) to a beneficiary of a kind specified in 1 of the following paragraphs for the purposes only of section 20D(1)(c) (which relates to eligibility for sole parent support), An additional dependent child aged 1 or over must be read as An additional dependent child at all times after that child is born:
+  (3A) In applying subsection (2) to a beneficiary of a kind specified in 1 of the following paragraphs for the purposes only of section 20D(1)﻿(c) (which relates to eligibility for sole parent support), An additional dependent child aged 1 or over must be read as An additional dependent child at all times after that child is born:
     (a) a beneficiary transferred to jobseeker support by clause 2(11) of Schedule 32:
     (b) a beneficiary whose sole parent support under section 20D expired on the date that the beneficiary's youngest dependent child turned 14 years old, and has been replaced with jobseeker support, under section 20H.
 
@@ -350,18 +350,18 @@ Repeal section 60HA.
 **Certain obligations may be placed on beneficiaries and their spouses and partners**
 
 ### 25 Section 60Q amended (Certain obligations may be placed on beneficiaries and their spouses and partners)
-(1) Before section 60Q(1)(c) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012), insert:.
+(1) Before section 60Q(1)﻿(c) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012), insert:.
   (ba) is a sole parent with a dependent child under the age of 1 year, and is a recipient of a benefit under section 88B (jobseeker support) instead of a benefit under section 20D (sole parent support) solely because that child is an additional dependent child (within the meaning of section 60GAE(1)); or
   (bb) is the recipient of a benefit under section 40B (supported living payment on the ground of sickness, injury, disability, or total blindness) if the chief executive is satisfied that the person has the capacity to comply with obligations under subsection (3); or
   (bc) is the recipient of a benefit under section 40D (supported living payment on the ground of caring for patient requiring care) if the chief executive is satisfied that the person has the capacity to comply with requirements under subsection (3); or
 (2) After section 60Q(1) (as so replaced), insert:
   (1A) This section also applies (despite subsection (1)) to a person who—
-    (a) is a work-tested beneficiary (other than one to whom subsection (1)(ba) applies); and
+    (a) is a work-tested beneficiary (other than one to whom subsection (1)﻿(ba) applies); and
     (b) has been granted under section 88I a deferral of the person's work test obligations.
-  (1B) The chief executive may require a recipient of a benefit under section 40B or 40D to attend and participate in an interview with an officer of the department, or other person on behalf of the chief executive, for the purpose of helping the chief executive to determine under subsection (1)(bb) or (bc) whether the recipient has the capacity to comply with obligations under subsection (3).
-(3) In section 60Q(2) (as so replaced), after A person to whom this section applies, insert (other than a person to whom subsection (1)(bb) or (bc) applies).
-(4) In section 60Q(3) (as so replaced), after a person to whom this section applies, insert (including, without limitation, a person to whom subsection (1)(bb) or (bc) applies).
-(5) After section 60Q(3)(a) (as so replaced), insert:.
+  (1B) The chief executive may require a recipient of a benefit under section 40B or 40D to attend and participate in an interview with an officer of the department, or other person on behalf of the chief executive, for the purpose of helping the chief executive to determine under subsection (1)﻿(bb) or (bc) whether the recipient has the capacity to comply with obligations under subsection (3).
+(3) In section 60Q(2) (as so replaced), after A person to whom this section applies, insert (other than a person to whom subsection (1)﻿(bb) or (bc) applies).
+(4) In section 60Q(3) (as so replaced), after a person to whom this section applies, insert (including, without limitation, a person to whom subsection (1)﻿(bb) or (bc) applies).
+(5) After section 60Q(3)﻿(a) (as so replaced), insert:.
   (aa) to attend and participate in an interview (other than one for the purpose specified in subsection (1B)) with an officer of the department or other person on behalf of the chief executive:
   (ab) to report to the department or to any other person acting on behalf of the chief executive on the person's compliance with the person's obligations under this section as often as, and in the manner that, the chief executive reasonably requires:
 
@@ -373,7 +373,7 @@ After section 60R (as replaced on 15 October 2012 by section 40 of the Social Se
     (a) is a person with 1 or more dependent children; and
     (b) is the person granted a benefit that is jobseeker support, sole parent support, a supported living payment, or an emergency benefit, or is the spouse or partner of (whether or not receiving all or any of the benefit instead of, or as well as) that person; and
     (c) is not a young person on whom obligations are placed under section 171(1) or (2).
-  (2) A dependent child (as defined in section 3(1)) of a person granted a benefit described in subsection (1)(b) is (despite section 3) for the purposes of this section and of all related provisions in this Act (for example, for the purposes of section 60RC) also a dependent child of that person’s spouse or partner (if any).
+  (2) A dependent child (as defined in section 3(1)) of a person granted a benefit described in subsection (1)﻿(b) is (despite section 3) for the purposes of this section and of all related provisions in this Act (for example, for the purposes of section 60RC) also a dependent child of that person’s spouse or partner (if any).
   (3) A person to whom this section applies has the following social obligations:
     (a) to take all reasonable steps to ensure that every dependent child aged 3 years or more but less than 5 years and who is not enrolled at and regularly attending a registered school (as defined in section 2(1) of the Education Act 1989) is—
       (i) enrolled in a recognised early childhood education programme (as defined in section 60RAB(1)); and
@@ -394,13 +394,13 @@ After section 60R (as replaced on 15 October 2012 by section 40 of the Social Se
     (a) an approved early childhood education programme (as defined for the purposes of section 60RA(3) in regulations made under section 132AC); or
     (b) an early childhood education programme approved by the chief executive having regard to all relevant approval criteria (if any) prescribed for the purposes of this paragraph in any general or special directions given to the chief executive in writing by the Minister under section 5; or
     (c) a programme of early childhood education provided by a school that is currently designated under section 152(1) of the Education Act 1989 as a correspondence school.
-  (2) The active teaching out of school grounds mentioned in section 60RA(3)(b) on which a person to whom section 60RA applies would qualify for an exemption from some or all of the person's work test obligations in respect of a dependent child (aged 5 years or more but less than 6 years) of the person, are the grounds specified in—
-    (a) regulation 6(2)(c) of the Social Security (Exemptions under Section 105) Regulations 1998; or
+  (2) The active teaching out of school grounds mentioned in section 60RA(3)﻿(b) on which a person to whom section 60RA applies would qualify for an exemption from some or all of the person's work test obligations in respect of a dependent child (aged 5 years or more but less than 6 years) of the person, are the grounds specified in—
+    (a) regulation 6(2)﻿(c) of the Social Security (Exemptions under Section 105) Regulations 1998; or
     (b) an enactment that, with or without modification, replaces, or that corresponds to, that enactment.
-  (3) Regulations made under section 132 that prescribe, for the purposes of section 60RA(3)(a)(ii) and (b)(i), the minimum extent of, or other required manner of, attending a recognised early childhood education programme may, without limitation,—
+  (3) Regulations made under section 132 that prescribe, for the purposes of section 60RA(3)﻿(a)﻿(ii) and (b)﻿(i), the minimum extent of, or other required manner of, attending a recognised early childhood education programme may, without limitation,—
     (a) prescribe, for all or any recognised early childhood programmes, target numbers of hours of attendance:
     (b) prescribe different minimum numbers of hours of attendance for all or any different recognised early childhood programmes.
-  (4) Core check, for a child and a programme to which section 60RA(3)(e) applies, means a check—
+  (4) Core check, for a child and a programme to which section 60RA(3)﻿(e) applies, means a check—
     (a) of the child's health and well-being; and
     (b) done under, and identified in contract or funding arrangements as an essential part of, the programme; and
     (c) funded, directly or indirectly, through Vote Health.
@@ -408,7 +408,7 @@ After section 60R (as replaced on 15 October 2012 by section 40 of the Social Se
     (a) the beneficiary's social obligations under section 60RA(3); and
     (b) the consequences of failure to comply with them.
   (1) A beneficiary who fails without good and sufficient reason to comply with a social obligation is, except as provided in subsections (2) and (3), subject to the sanctions in section 117.
-  (2) A beneficiary's failure to comply with the social obligation in section 60RA(3)(c) (which relates to specified dependent children being enrolled at and regularly attending a registered school) cannot be the subject of sanctions under section 117 if that failure is the subject of a prosecution commenced against the beneficiary, and not withdrawn before it is finally determined, for an offence against—
+  (2) A beneficiary's failure to comply with the social obligation in section 60RA(3)﻿(c) (which relates to specified dependent children being enrolled at and regularly attending a registered school) cannot be the subject of sanctions under section 117 if that failure is the subject of a prosecution commenced against the beneficiary, and not withdrawn before it is finally determined, for an offence against—
     (a) section 24(1) of the Education Act 1989 (failure to enrol); or (as the case requires)
     (b) section 29(1) of the Education Act 1989 (irregular attendance).
   (3) Before giving the beneficiary a notice under section 113, and imposing a sanction under section 117, for a beneficiary's failure to comply with a social obligation under section 60RA(3), the chief executive must first be satisfied that, on at least 3 previous occasions, the department has had communication (of any kind, and in any manner) with the beneficiary in respect of the beneficiary's compliance with, or an actual or potential failure of the beneficiary to comply with, any social obligation of the beneficiary.
@@ -441,7 +441,7 @@ After section 61, insert:Social obligations of person granted emergency benefit
     (c) is not a young person on whom obligations are placed under section 171(1) or (2).
 
 ### 29 Section 61A amended (Obligations of spouse or partner of person granted emergency benefit)
-(1) In section 61A(1A)(a), replace aged 6 with aged 5.
+(1) In section 61A(1A)﻿(a), replace aged 6 with aged 5.
 (2) After section 61A(2), insert:
   (3) A person must comply with the person's social obligations under section 60RA(3) if the person—
     (a) is a person with 1 or more dependent children; and
@@ -462,11 +462,11 @@ After section 61, insert:Social obligations of person granted emergency benefit
   (7B) If subsection (7A) applies to a person,—
     (a) the person must, for every supply of the goods or services after a nomination given to the person by the chief executive has come into force and while it remains in force, purchase the goods or services from a preferred supplier specified in that nomination and at the price determined by the contract under section 125AA with that supplier; and
     (b) the chief executive must, despite subsections (1) to (7), pay all, or the specified part, of the disability allowance that is granted in respect of the supply of the goods or services to that supplier in consideration of the supply of the goods or services to the person or the person's family member.
-  (7BA) A nomination under subsection (7B)(a)—
+  (7BA) A nomination under subsection (7B)﻿(a)—
     (a) may be given orally or in writing (but, if given orally, must as soon as practicable be confirmed in writing); and
     (b) may from time to time be amended, revoked, or revoked and replaced by the chief executive, to recognise changes in preferred suppliers or preferred supply contracts ending without also being replaced.
   (7BB) However, if the person’s net total benefit payments due to be paid on a pay day (after deducting any redirection under section 82(3) or reduction or deduction required to be made from the person’s benefit payments for another purpose (for example, under an attachment order or a deduction notice)) are less than the amount required to pay the preferred supplier on that pay day, the chief executive—
-    (a) is not required by subsection (7B)(b) to pay to the preferred supplier on that pay day all, or the specified part, of the person’s disability allowance due on that pay day; but
+    (a) is not required by subsection (7B)﻿(b) to pay to the preferred supplier on that pay day all, or the specified part, of the person’s disability allowance due on that pay day; but
     (b) may pay the amount due to the preferred supplier on 1 or more later pay days from amounts of disability allowance or other benefit payments due to the person on those 1 or more later pay days.
   (7BC) Non-payment, or deferred payment, under subsection (7BB) does not reduce any amounts due to the preferred supplier from the person under, or make the chief executive or the Crown liable for breaching, the person's contract of purchase.
   (7C) However, if the disability allowance granted to the person to whom subsection (7A) applies is granted at the maximum appropriate rate specified in Schedule 19, the chief executive may, in the chief executive's discretion, determine in writing that, despite subsection (7B),—
@@ -478,13 +478,13 @@ After section 61, insert:Social obligations of person granted emergency benefit
 **Residential requirements for certain benefits: people ordinarily resident overseas**
 
 ### 31 Section 74AA amended (Residential requirements for certain benefits)
-(1) Replace section 74AA(1)(c) with:
+(1) Replace section 74AA(1)﻿(c) with:
   (c) except in the case of a person who is recognised as a refugee or a protected person in New Zealand under the Immigration Act 2009, has resided continuously in New Zealand for a period of at least 2 years at any one time,—
     (i) if subsection (1A) applies to the person,—
       (A) before he or she applies for the benefit; or
       (B) before a decision on his or her claim for the benefit is made under section 12; and
     (ii) in any other case, after the day on which paragraph (a) first applied to him or her.
-(2) In section 74AA(1A), replace Subsection (1) does with Subsection (1)(a) and (b) do.
+(2) In section 74AA(1A), replace Subsection (1) does with Subsection (1)﻿(a) and (b) do.
 
 **Effect on benefit of warrant to arrest beneficiary**
 
@@ -514,7 +514,7 @@ After section 75A, insert:Effect on benefit of warrant to arrest beneficiary
   (6) The benefit of a beneficiary to whom subsection (5) applies is not payable until the chief executive is satisfied (based on information provided by the beneficiary, otherwise available to the chief executive, or both) of 1 of the following:
     (a) that the beneficiary is not the person to whom the warrant applies; or
     (b) that the warrant has been resolved.
-  (7) Despite subsections (1)(c) and (3) to (6), the chief executive may suspend immediately the benefit of a beneficiary to whom subsection (1)(a) and (b) apply if satisfied that—
+  (7) Despite subsections (1)﻿(c) and (3) to (6), the chief executive may suspend immediately the benefit of a beneficiary to whom subsection (1)﻿(a) and (b) apply if satisfied that—
     (a) the department has received from the New Zealand Police a written request to suspend the beneficiary's benefit on the ground that the Commissioner of Police on reasonable grounds considers the beneficiary to be a risk to public safety; and
     (b) that request is signed by the Commissioner of Police or a constable who is of or above the level of position of inspector.
   (8) As soon as is reasonably practicable after a suspension under subsection (7) of the benefit of a beneficiary, the chief executive must give the beneficiary a notice (to be delivered in accordance with section 86J) that—
@@ -524,7 +524,7 @@ After section 75A, insert:Effect on benefit of warrant to arrest beneficiary
     (a) section 80C (effect of work test on entitlement to supplementary benefits and on spouses or partners):
     (b) section 120 (modified effect in some cases of sanctions on rate of benefit for people married or in civil union or de facto relationship):
     (c) section 121 (effect of sanctions on benefit of sole parent).
-  (10) However, section 120(1) (which protects a spouse or partner), but no other provision of section 120, ceases to apply under subsection (9)(b) to the benefit at the close of the 28th day after the date on which it becomes not payable under subsection (6) or, as the case requires, is suspended under subsection (7).
+  (10) However, section 120(1) (which protects a spouse or partner), but no other provision of section 120, ceases to apply under subsection (9)﻿(b) to the benefit at the close of the 28th day after the date on which it becomes not payable under subsection (6) or, as the case requires, is suspended under subsection (7).
 
 **When beneficiaries can be paid benefit while overseas, and suspensions of benefits based on discrepancies arising from departure information**
 
@@ -540,7 +540,7 @@ After section 75A, insert:Effect on benefit of warrant to arrest beneficiary
     (a) the benefit is not a benefit of a kind specified in subsection (2A); and
     (b) the benefit would, but for those 1 or more absences, be payable to the beneficiary; and
     (c) the chief executive is satisfied that the 1 or more absences do not affect the beneficiary's eligibility for the benefit.
-  (2A) The kinds of benefits referred to in subsections (2)(a) and (3)(a) are—
+  (2A) The kinds of benefits referred to in subsections (2)﻿(a) and (3)﻿(a) are—
     (a) sole parent support for a work-tested beneficiary:
     (ab) supported living payment on the ground of sickness, injury, disability, or total blindness, under section 40B, for a work-tested spouse or partner:
     (b) jobseeker support (other than jobseeker support for a spouse or partner who is not a work-tested spouse or partner):
@@ -577,12 +577,12 @@ After section 77, insert:Effect of absence of beneficiary from New Zealand: depa
 **Removing exemptions from jobseeker support benefit stand down period while person in approved training**
 
 ### 36 Section 80 amended (Commencement of benefits)
-In section 80(5)(a), replace an unemployment benefit, a youth payment, with a youth payment.
+In section 80(5)﻿(a), replace an unemployment benefit, a youth payment, with a youth payment.
 
 **Backdating benefits in specified circumstances**
 
 ### 37 Section 80BA amended (Calculation of stand down)
-Replace section 80BA(4)(b) with:
+Replace section 80BA(4)﻿(b) with:
   (b) a benefit commences on the day on which the stand down period ends if the application for the benefit is received within 28 days after the date on which the person becomes entitled to the benefit, and the benefit is—
     (i) sole parent support; or
     (ii) a supported living payment; or
@@ -619,13 +619,13 @@ After section 80BD, insert:Expiry and re-grant of specified benefitsRequirements
     (a) is suspended because the beneficiary is undertaking temporary employment; or
     (b) is not for the time being payable under this Act (for example, under section 76 or 77); or
     (c) is suspended under any provision of this Act other than section 117.
-  (4) However, if at any time before the expiry date for that benefit any of the circumstances described in subsection (3) no longer exist, then the chief executive must, as soon as practicable, take reasonable steps to advise the beneficiary of the matters set out in subsection (2)(a) to (c).
+  (4) However, if at any time before the expiry date for that benefit any of the circumstances described in subsection (3) no longer exist, then the chief executive must, as soon as practicable, take reasonable steps to advise the beneficiary of the matters set out in subsection (2)﻿(a) to (c).
   (5) In this section and section 80BF,—
     - **expiry date** , in relation to a specified benefit, means the expiry date prescribed for that specified benefit by regulations under section 132M
     - **specified benefit** means a benefit that is—
       (a) jobseeker support; or
-      (b) sole parent support, supported living payment, or emergency benefit, unless that benefit is for the time being declared not to be a specified benefit for the purposes of this section and section 80BF by regulations under section 132M(1)(a).
-  (6) Regulations under section 132M(1)(a) that declare a benefit referred to in subsection (5)(b) of this section not to be a specified benefit for the purposes of this section and section 80BF may, without limitation, declare not to be a specified benefit for those purposes either or both of the following:
+      (b) sole parent support, supported living payment, or emergency benefit, unless that benefit is for the time being declared not to be a specified benefit for the purposes of this section and section 80BF by regulations under section 132M(1)﻿(a).
+  (6) Regulations under section 132M(1)﻿(a) that declare a benefit referred to in subsection (5)﻿(b) of this section not to be a specified benefit for the purposes of this section and section 80BF may, without limitation, declare not to be a specified benefit for those purposes either or both of the following:
     (a) that benefit as granted on only 1 or more specified available eligibility grounds:
     (b) that benefit as granted to only 1 or more specified categories, classes, or kinds of beneficiaries.
   (7) However, a specified benefit that expires under this section in the week that is, or is the week immediately before, the week that includes 26 December in a year must (despite section 80BD(1) and the rest of this section) continue to be paid until the first Monday after 2 January in the immediately following year.
@@ -635,7 +635,7 @@ After section 80BD, insert:Expiry and re-grant of specified benefitsRequirements
       (i) a reapplication form (provided by the chief executive for the purpose) completed by or on behalf of the beneficiary and his or her spouse or partner (if any) to the chief executive's satisfaction; and
       (ii) any supporting evidence reasonably required by the chief executive; and
     (b) the beneficiary and the beneficiary's work-tested spouse or partner (if any) have participated, to the satisfaction of the chief executive, in a comprehensive work assessment of a kind specified by the chief executive.
-  (2) Subsection (1)(b) is subject to subsection (8).
+  (2) Subsection (1)﻿(b) is subject to subsection (8).
   (3) If, in relation to a person, the requirements of subsection (1) are completed on or before the expiry date (as defined in section 80BE(5)) for the person's specified benefit,—
     (a) the chief executive must re-grant the person's specified benefit if the chief executive is satisfied that the person meets or continues to meet the eligibility criteria for that benefit; and
     (b) if re-granted, that benefit commences on that expiry date.
@@ -651,7 +651,7 @@ After section 80BD, insert:Expiry and re-grant of specified benefitsRequirements
   (7) The specified benefit must not be re-granted under this section to a person, and any reapplication form received from or on behalf of that person must be treated as an application form for the purposes of section 11D(2), if the requirements of subsection (1)—
     (a) are not completed within 20 working days after the expiry date for the person's specified benefit; or
     (b) were completed within that time but after that expiry date, and the chief executive is satisfied that there were no exceptional circumstances that prevented those requirements from being completed on or before that expiry date.
-  (8) For the purposes of this section, a failure of a beneficiary's work-tested spouse or partner to participate in a comprehensive work assessment in accordance with subsection (1)(b)—
+  (8) For the purposes of this section, a failure of a beneficiary's work-tested spouse or partner to participate in a comprehensive work assessment in accordance with subsection (1)﻿(b)—
     (a) must not be treated as a failure to complete the requirements of subsection (1); but
     (b) must be treated as a failure by that spouse or partner to comply with his or her work test obligations.
 
@@ -714,7 +714,7 @@ In section 88A, insert in their appropriate alphabetical order:.
 **Jobseeker support (including deferral of work test obligations on ground of sickness, injury, or disability)**
 
 ### 43 Sections 89 to 99AB and cross-heading above section 89 replaced
-Replace sections 89 to 99AB and the cross-heading above section 89 with:Jobseeker supportJobseeker support: standard eligibility requirementsJobseeker support: grounds of hardshipJobseeker support: ineligibilityJobseeker support: on ground of sickness, injury, or disability: medical examinationJobseeker support: obligations on beneficiariesJobseeker support: obligations of spouse or partner of person granted itJobseeker support: application for deferral of work test obligationsJobseeker support: chief executive's powers and duties to defer work test obligationsJobseeker support: effect of deferralJobseeker support: deferred or exempted people must notify change of circumstances Jobseeker support: paymentJobseeker support: rates
+Replace sections 89 to 99AB and the cross-heading above section 89 with:Jobseeker supportJobseeker support: standard eligibility requirementsJobseeker support: grounds of hardshipJobseeker support: ineligibilityJobseeker support: on ground of sickness, injury, or disability: medical examinationJobseeker support: obligations on beneficiariesJobseeker support: obligations of spouse or partner of person granted itJobseeker support: application for deferral of work test obligationsJobseeker support: chief executive's powers and duties to defer work test obligationsJobseeker support: effect of deferralJobseeker support: deferred or exempted people must notify change of circumstancesJobseeker support: paymentJobseeker support: rates
   (1) A person is entitled to jobseeker support if he or she satisfies the criteria in subsections (2), (3), and (4), and—
     (a) is not in full-time employment, but—
       (i) is seeking it; and
@@ -732,8 +732,8 @@ Replace sections 89 to 99AB and the cross-heading above section 89 with:Jobseeke
     (a) no income; or
     (b) an income of less than the amount that would fully abate that benefit.
   (5) Nothing in subsection (4) affects the entitlement of a person to receive jobseeker support if, during a temporary period, the person has income sufficient to fully abate that benefit but the person otherwise fulfils the conditions of entitlement to that benefit.
-  (6) Nothing in subsection (1)(a) or (4) affects the entitlement of a person receiving jobseeker support at the rate in clause 1(ab) or (ba) of Schedule 9 to receive jobseeker support if, during a temporary period, the person engages in full-time employment, and the income from that employment and the person's other income when calculated over a 52-week period under section 64(2A) is less than the amount that would fully abate the benefit.
-  (7) A sick or injured person (A) may treat as a loss of A's earnings for the purposes of subsection (1)(d) a payment A makes to any other person (B) who acts as A's substitute during A's sickness or injury.
+  (6) Nothing in subsection (1)﻿(a) or (4) affects the entitlement of a person receiving jobseeker support at the rate in clause 1(ab) or (ba) of Schedule 9 to receive jobseeker support if, during a temporary period, the person engages in full-time employment, and the income from that employment and the person's other income when calculated over a 52-week period under section 64(2A) is less than the amount that would fully abate the benefit.
+  (7) A sick or injured person (A) may treat as a loss of A's earnings for the purposes of subsection (1)﻿(d) a payment A makes to any other person (B) who acts as A's substitute during A's sickness or injury.
   (1) The chief executive may grant jobseeker support under section 88B to a person who meets the criteria in section 88B(1) and (2) but who does not meet the other criteria in section 88B if—
     (a) the person is suffering hardship; and
     (b) the person is not qualified to receive any other benefit; and
@@ -828,7 +828,7 @@ Before the heading above section 101, insert:Work ability assessmentChief execut
     (b) a supported living payment (except as provided in subsection (2)); or
     (c) an emergency benefit; or
     (d) jobseeker support.
-  (2) Subsection (1)(b) does not apply to a person receiving a supported living payment on the ground of sickness, injury, or disability if, in the chief executive’s opinion,—
+  (2) Subsection (1)﻿(b) does not apply to a person receiving a supported living payment on the ground of sickness, injury, or disability if, in the chief executive’s opinion,—
     (a) the person is terminally ill; or
     (b) the person has little or no capacity for work, and the person's condition is deteriorating or not likely to improve.
   (3) The chief executive may at any time require a person to whom subsection (1) applies to attend and participate in a work ability assessment made to determine, or help to determine, all or any of the following matters:
@@ -837,8 +837,8 @@ Before the heading above section 101, insert:Work ability assessmentChief execut
     (c) if the person is in receipt of jobseeker support granted on the ground of sickness, injury, or disability, whether the person has for the purposes of section 88F(2) the capacity to seek, undertake, and be available for part-time work:
     (d) whether the person is entitled on an application under section 105 on the ground of limited capacity to meet those obligations to an exemption from work test obligations or work preparation obligations under section 60Q:
     (e) whether the person, being a person who is subject to work test obligations or work preparation obligations under section 60Q, has the capacity to meet those obligations:
-    (f) what is suitable employment for the person for the purposes of section 102A(1)(a), (b), or (c):
-    (g) what are suitable activities for the person for the purposes of section 60Q(3) or 102A(1)(f):
+    (f) what is suitable employment for the person for the purposes of section 102A(1)﻿(a), (b), or (c):
+    (g) what are suitable activities for the person for the purposes of section 60Q(3) or 102A(1)﻿(f):
     (h) what assistance and supports the person needs to obtain employment.
   (4) An assessment under subsection (3) must be undertaken in accordance with a procedure determined by the chief executive.
   (5) After an assessment under subsection (3) is made, the chief executive may determine the matter or matters in subsection (3) for which that assessment was made—
@@ -855,24 +855,24 @@ Before the heading above section 101, insert:Work ability assessmentChief execut
 
 ### 45 Section 102A amended (Work test obligations)
 After section 102A(1), insert:
-  (1A) The drug testing obligations under section 102B(1) are included in, and form part of, each of the work test obligations under subsection (1)(a), (c), and (f)(ii) and (iv) (each of which obligations is extended, and not limited, by this subsection).
+  (1A) The drug testing obligations under section 102B(1) are included in, and form part of, each of the work test obligations under subsection (1)﻿(a), (c), and (f)﻿(ii) and (iv) (each of which obligations is extended, and not limited, by this subsection).
 
 ### 46 New sections 102B to 102E inserted
 After section 102A, insert:Work test obligations: drug testing obligationsWork test obligations: drug testing obligations on referral to opportunity of suitable employmentWork test obligations: drug testing obligations: challenging sanction based solely on failing screening drug testWork test obligations: drug testing obligations: use and communication of drug test results
   (1) The drug testing obligations referred to in section 102A(1A) are to undertake, and to pass, a drug test that a potential employer or a training provider requests candidates for employment or training to undertake, and to pass, by a specified time, and that is recognised by this Act because it is a drug test—
     (a) of a kind described in subsection (2); and
     (b) requested, and undertaken, lawfully (in particular, for a lawful health or safety purpose, or other lawful purpose), even though the employer or provider is not authorised or required by or under this Act to compel the candidate to undertake it.
-  (2) A drug test is of a kind described in this subsection for the purposes of subsection (1)(a) if the drug test is—
+  (2) A drug test is of a kind described in this subsection for the purposes of subsection (1)﻿(a) if the drug test is—
     (a) a screening drug test of the candidate undertaken without any associated later evidential drug test of the candidate; or
     (b) an evidential drug test of the candidate if he or she has failed any associated prior screening drug test under paragraph (a); or
     (c) an evidential drug test of the candidate undertaken without any associated prior screening drug test of the candidate.
-  (3) A drug test undertaken by a candidate for employment or training on a request by the potential employer or training provider is for the purposes of subsection (1)(b) presumed to be requested, and undertaken, lawfully, unless the contrary is proved.
+  (3) A drug test undertaken by a candidate for employment or training on a request by the potential employer or training provider is for the purposes of subsection (1)﻿(b) presumed to be requested, and undertaken, lawfully, unless the contrary is proved.
   (4) A candidate for employment or training is taken for the purposes of this Act to have failed an evidential drug test requested by a potential employer or a training provider if the candidate—
     (a) fails an associated prior screening drug test requested by the employer or provider; and
     (b) waives (in any manner) the evidential drug test.
   (5) For the purposes of subsection (1), the chief executive may, in the absence of evidence available to the chief executive and to the contrary effect, act on information given by the potential employer or training provider to the effect that a candidate has failed a screening drug test, an evidential drug test, or both.
   (1) This section applies to a work-tested beneficiary who has a work test obligation,—
-    (a) under section 102A(1)(c), to attend and participate in an interview for any opportunity of suitable employment to which the beneficiary is referred by the chief executive; and
+    (a) under section 102A(1)﻿(c), to attend and participate in an interview for any opportunity of suitable employment to which the beneficiary is referred by the chief executive; and
     (b) that, under section 102A(1A), includes the drug testing obligations under section 102B(1).
   (2) The employer providing the opportunity of suitable employment may, or may authorise the appropriate drug testing provider to, provide to the department (with or without the beneficiary's consent) the results of a screening drug test, an evidential drug test, or both if—
     (a) that employer has (in accordance with section 102B(1) to (3)) requested the beneficiary to undergo, and to pass, by a specified time, a screening drug test, an evidential drug test, or both; and
@@ -893,18 +893,18 @@ After section 102A, insert:Work test obligations: drug testing obligationsWork t
   (2) The beneficiary may dispute the sanction to be imposed under section 117 by making to the department a request that the sample taken from the beneficiary for the screening drug test be subjected to an evidential drug test.
   (3) A request under subsection (2) must be made by the beneficiary in writing in a form approved by the chief executive, and must be made—
     (a) after the beneficiary is given under section 113 a written notice relating to the sanction to be imposed; and
-    (b) after the beneficiary disputes the reduction, suspension, or cancellation (within the period for that purpose, of 5 working days from the giving of that written notice, that section 113(2)(e) requires to be stated in that written notice); and
+    (b) after the beneficiary disputes the reduction, suspension, or cancellation (within the period for that purpose, of 5 working days from the giving of that written notice, that section 113(2)﻿(e) requires to be stated in that written notice); and
     (c) within a period that starts when the beneficiary disputes the reduction, suspension, or cancellation, and is a reasonable period specified by the department for the purpose.
   (4) A request under subsection (2) must include the beneficiary's consent to the department contacting the employer or training provider and a drug testing provider to arrange for the evidential drug test of the sample, and must authorise the drug testing provider that does the evidential drug test of the sample to provide to the department the results of that evidential drug test.
   (5) The department may proceed to impose the appropriate sanction as if the beneficiary had not disputed the sanction if—
     (a) a request under subsection (2) does not include the consent and authorisation required by subsection (4); and
-    (b) that consent and authorisation is not provided in the period specified under subsection (3)(c).
+    (b) that consent and authorisation is not provided in the period specified under subsection (3)﻿(c).
   (6) If a request under subsection (2) is made to the department and includes the consent and authorisation required by subsection (4), then until the department is advised of the results of an evidential drug test of the beneficiary arranged by the department in accordance with the request,—
     (a) any sanction imposed under section 117, and based on the beneficiary's having failed the associated prior screening drug test, is suspended:
     (b) any failure for the purposes of sections 119 and 122(2), and based on the beneficiary's having failed the associated prior screening drug test, is suspended:
     (c) the beneficiary is not liable under section 102C(6) for the actual and reasonable costs (if any) reimbursed to the employer under section 102C(3) of the beneficiary's associated prior screening drug test.
   (7) The actual and reasonable costs incurred by a drug testing provider in doing an evidential drug test arranged by the department in accordance with a request under subsection (2) are payable by the department.
-  (8) If the beneficiary fails an evidential drug test arranged by the department in accordance with a request under subsection (2), that failure is for the purposes of section 116B(1)(e) treated as a new failure of the beneficiary’s work test and drug test obligations.
+  (8) If the beneficiary fails an evidential drug test arranged by the department in accordance with a request under subsection (2), that failure is for the purposes of section 116B(1)﻿(e) treated as a new failure of the beneficiary’s work test and drug test obligations.
   (9) If the beneficiary fails an evidential drug test arranged by the department in accordance with a request under subsection (2), the following are a debt due to the Crown from the beneficiary for the purpose of section 85A(e):
     (a) the actual and reasonable costs incurred by a drug testing provider in doing that evidential drug test:
     (b) the actual and reasonable costs (if any) reimbursed to the employer under section 102C(3) of the beneficiary's associated prior screening drug test.
@@ -923,18 +923,18 @@ After section 113(2), insert:
 ### 48 Sections 115 and 116A replaced
 Replace sections 115 and 116A (section 116A having been inserted on 15 October 2012 by section 43 of the Social Security (Youth Support and Work Focus) Amendment Act 2012) with:Failures to comply with obligationsGood and sufficient reasons for specified failures to comply
   (1) The sanctions stated in section 117 must be imposed on a person when any of the following paragraphs applies to the person:Obligations related to contracted service providersSocial obligations of certain beneficiaries with dependent childrenObligations related to work preparation or to work ability assessmentWork test obligations (including drug testing obligations) and work-tested beneficiariesInterview obligation of beneficiary exempted from work test
-    (a) the chief executive considers that the person has, without a good and sufficient reason, failed to comply with an obligation under section 60GAG(1) to comply with a requirement under section 60GAG(1)(a) to (d); or
+    (a) the chief executive considers that the person has, without a good and sufficient reason, failed to comply with an obligation under section 60GAG(1) to comply with a requirement under section 60GAG(1)﻿(a) to (d); or
     (b) the chief executive considers that the person has, without a good and sufficient reason, failed to comply with a social obligation that the person has under section 60RA(3), and that the person's failure to comply with that social obligation is a failure in respect of which section 60RC(3) permits the chief executive to impose a sanction under section 117; or
     (c) the chief executive considers that the person has, without a good and sufficient reason, failed to comply with a general obligation under section 60Q(2) or an obligation under section 60Q(2) to comply with a requirement under section 60Q(3); or
     (d) the chief executive considers that the person has, without a good and sufficient reason, failed to undergo an assessment that the person is required to undergo under section 100B; or
-    (e) the person is a work-tested beneficiary, and the chief executive considers that the person has, without a good and sufficient reason, failed to comply with any of the work test obligations as set out in section 102A (including, without limitation, any drug testing obligations under section 102B(1) that, under section 102A(1A), are included in, and form part of, a work test obligation under section 102A(1)(a), (c), or (f)(ii) or (iv)); or
+    (e) the person is a work-tested beneficiary, and the chief executive considers that the person has, without a good and sufficient reason, failed to comply with any of the work test obligations as set out in section 102A (including, without limitation, any drug testing obligations under section 102B(1) that, under section 102A(1A), are included in, and form part of, a work test obligation under section 102A(1)﻿(a), (c), or (f)﻿(ii) or (iv)); or
     (f) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person fails, without good and sufficient reason, to apply for suitable employment that requires candidates to undertake drug tests; or
     (g) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a full-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, part-time work or employment averaging less than 15 hours a week; or
     (h) the person is required by this paragraph to be treated as a person to whom paragraph (e) applies because the person is a part-time work-tested beneficiary who leaves, without good and sufficient reason, or is dismissed for misconduct from, employment averaging less than 15 hours a week; or
     (i) the person is a beneficiary granted an exemption from the work test, and the chief executive considers that the person has, without a good and sufficient reason, failed to attend an interview as required under section 105(5).
-  (2) Section 60H(6) and (7) (which relate to dealing with voluntary unemployment or loss of employment through misconduct, etc) apply with all necessary modifications to a person to whom subsection (1)(g) or (h) of this section applies.
-  (3) A work-tested beneficiary who indicates that he or she would fail a drug test that an employer would require for an opportunity of suitable employment is for the purposes of subsection (1)(f) taken to be a person who fails, without good and sufficient reason, to apply for suitable employment that requires candidates to undertake drug tests (and therefore to be a person required by subsection (1)(f) to be treated as a person to whom subsection (1)(e) applies).
-  (4) Subsection (3) does not limit the generality of subsections (1)(e) and (f).
+  (2) Section 60H(6) and (7) (which relate to dealing with voluntary unemployment or loss of employment through misconduct, etc) apply with all necessary modifications to a person to whom subsection (1)﻿(g) or (h) of this section applies.
+  (3) A work-tested beneficiary who indicates that he or she would fail a drug test that an employer would require for an opportunity of suitable employment is for the purposes of subsection (1)﻿(f) taken to be a person who fails, without good and sufficient reason, to apply for suitable employment that requires candidates to undertake drug tests (and therefore to be a person required by subsection (1)﻿(f) to be treated as a person to whom subsection (1)﻿(e) applies).
+  (4) Subsection (3) does not limit the generality of subsections (1)﻿(e) and (f).
   (1) A beneficiary has for the purposes of section 116B a good and sufficient reason for not undertaking or completing an activity if—
     (a) doing so was dependent upon the provision by the department of any assistance specified by the department; and
     (b) that assistance was either not supplied, or not supplied to the extent, or in the manner, specified by the department.
@@ -947,7 +947,7 @@ Replace sections 115 and 116A (section 116A having been inserted on 15 October 2
     (c) that the person should be treated as one to whom paragraph (b) applies because he or she is awaiting assessment for, or an opportunity to undertake, treatment of the kind specified in paragraph (b); or
     (d) that, insofar as the person is using a particular controlled drug of a kind the presence of which in the person's body can be or may be detected by an evidential drug test, that particular controlled drug has been lawfully prescribed, and the person is using only the dosage of that particular controlled drug lawfully prescribed, for the person by a health practitioner; or
     (e) that the person falls within, or the person's circumstances fall within, another ground or other grounds specified for the purposes of this paragraph by regulations made under section 132.
-  (3) A beneficiary who has 1 or more dependent children has for the purposes of section 116B a good and sufficient reason for not participating in or completing any activity required under section 102A(1)(f) if the activity involves participation during hours when it would be unreasonable to expect any dependent child of the person to be without that person's supervision.
+  (3) A beneficiary who has 1 or more dependent children has for the purposes of section 116B a good and sufficient reason for not participating in or completing any activity required under section 102A(1)﻿(f) if the activity involves participation during hours when it would be unreasonable to expect any dependent child of the person to be without that person's supervision.
   (4) This section does not limit the generality of section 116B.
 
 ### 49 Section 117 amended (Sanctions that may be imposed for failures)
@@ -957,21 +957,21 @@ Replace sections 115 and 116A (section 116A having been inserted on 15 October 2
     (b) the beneficiary must be sanctioned on that basis of that 1 failure (as a first, second, or third failure).
 (2) After section 117(1), insert:
   (1A) Subsection (1) is subject to subsections (1B) and (1C).
-  (1B) Cancellation under subsection (1)(c) of the person's benefit (unless it is not a main benefit under this Act) is the sanction that the chief executive must apply if any failure referred to in subsection (1) is a failure under section 116B(1)(e) to comply with the obligation in section 102A(1)(b) (the work test obligation to accept any offer of suitable employment).
-  (1C) Subsection (1B) applies whether the failure under section 116B(1)(e) and that is mentioned in subsection (1B) is for the purposes of subsection (1) a first, a second, or a third failure.
+  (1B) Cancellation under subsection (1)﻿(c) of the person's benefit (unless it is not a main benefit under this Act) is the sanction that the chief executive must apply if any failure referred to in subsection (1) is a failure under section 116B(1)﻿(e) to comply with the obligation in section 102A(1)﻿(b) (the work test obligation to accept any offer of suitable employment).
+  (1C) Subsection (1B) applies whether the failure under section 116B(1)﻿(e) and that is mentioned in subsection (1B) is for the purposes of subsection (1) a first, a second, or a third failure.
 
 ### 50 Section 119 amended (Calculation of failure rate)
-(1) In section 119(1)(a), replace while the same benefit has been continuously paid in respect of the beneficiary with during a period of continuous payment in respect of the beneficiary of the same benefit or of 2 or more different benefits.
-(2) In section 119(1)(ab), delete work-tested in each place.
-(3) Replace section 119(1)(b) with:
+(1) In section 119(1)﻿(a), replace while the same benefit has been continuously paid in respect of the beneficiary with during a period of continuous payment in respect of the beneficiary of the same benefit or of 2 or more different benefits.
+(2) In section 119(1)﻿(ab), delete work-tested in each place.
+(3) Replace section 119(1)﻿(b) with:
   (b) must not count a failure if—
     (i) it is not a failure of a kind to which section 117 applies under section 116B(1); or
     (ii) it occurred more than 12 months before the failure for which the calculation is made if, during that period, that beneficiary has not incurred a failure of a kind in section 116B(1) to which section 117 applies.
 (4) Before section 119(2) (and after the section 119(1A) inserted by section 61(15) of this Act), insert:
-  (1B) For the purposes of subsection (1)(a), 2 or more different benefits paid to a beneficiary do not give rise to a period of continuous payment in respect of the beneficiary of those 2 or more different benefits if—
+  (1B) For the purposes of subsection (1)﻿(a), 2 or more different benefits paid to a beneficiary do not give rise to a period of continuous payment in respect of the beneficiary of those 2 or more different benefits if—
     (a) one of those 2 or more different benefits is a youth payment or a young parent payment; and
     (b) the other of, or (as the case may be) the rest of, those 2 or more different benefits is any 1 or more or all of sole parent support, supported living payment, jobseeker support, and emergency benefit.
-  (1C) Subsection (1B) does not limit or affect subsection (1)(a) applying (under section 176(2)) with all necessary modifications to the imposition of sanctions under sections 173 and 174 in respect of failures—
+  (1C) Subsection (1B) does not limit or affect subsection (1)﻿(a) applying (under section 176(2)) with all necessary modifications to the imposition of sanctions under sections 173 and 174 in respect of failures—
     (a) by a young person receiving a youth payment or a young parent payment; and
     (b) that are failures, without good and sufficient reason, to comply with an obligation placed on him or her by section 170; and
     (c) during a period of continuous payment in respect of the young person of the same benefit (being a youth payment or a young parent payment) or of 2 or more different benefits (being a youth payment and a young parent payment, in whatever sequence paid).
@@ -984,47 +984,47 @@ Replace sections 115 and 116A (section 116A having been inserted on 15 October 2
 Replace section 122 with:Meaning of recompliance
   (1) A person recomplies (for the purpose of section 117) in relation to a failure (or, as the case may be, to 2 or more failures) under section 116B and that has (or have) been included in a notice given to the person under section 113 (the relevant failure or failures) if the person remedies the relevant failure (or, if the person has failed to comply with 2 or more obligations of a kind referred to in section 116B(1), the person remedies all the relevant failures) included in the notice.
   (2) Despite subsection (1), a person who is a work-tested beneficiary recomplies (for the purpose of section 117) in relation to each relevant failure it is not possible to remedy if the person undertakes to the chief executive's satisfaction an activity that is the same as, or substantially similar to, the activity that the person failed to comply with under the applicable work test obligation.
-  (3) Despite subsection (1), a person recomplies (for the purpose of section 117) in relation to a relevant failure under section 116B(1)(e) to comply with any drug testing obligations under section 102B(1) if,—
+  (3) Despite subsection (1), a person recomplies (for the purpose of section 117) in relation to a relevant failure under section 116B(1)﻿(e) to comply with any drug testing obligations under section 102B(1) if,—
     (a) in the case of a first failure of that kind in a 12-month period, the person undertakes in a manner that is satisfactory to the chief executive that the person will not use controlled drugs (except any use of a particular controlled drug that is lawfully prescribed, and only the dosage of that particular controlled drug that is lawfully prescribed, for the person by a health practitioner):
     (b) in the case of a second failure of that kind in a 12-month period, the person undertakes in a manner that is satisfactory to the chief executive to do both of the following:
-      (i) to pass a drug test of the kind stated in section 122A(2)(a) or (b), and to do so within 25 working days after the date of the person's undertaking; and
+      (i) to pass a drug test of the kind stated in section 122A(2)﻿(a) or (b), and to do so within 25 working days after the date of the person's undertaking; and
       (ii) to provide evidence that satisfies the chief executive that the person has passed a drug test of that kind, and to do so within 30 working days after the date of the person's undertaking.
   (4) The calculation of the number of failures for the purposes of subsection (3) is independent and separate from, and therefore does not affect, the calculation (in accordance with section 119) of the number of failures for the purposes of section 117.
-  (5) The department must take reasonable and appropriate steps to make a person who has given an undertaking in accordance with subsection (3)(b) aware of the following matters:
+  (5) The department must take reasonable and appropriate steps to make a person who has given an undertaking in accordance with subsection (3)﻿(b) aware of the following matters:
     (a) the consequences of failing to comply with the undertaking; and
-    (b) the location of a drug testing provider that the person can use to undertake a drug test of the kind stated in section 122A(2)(a) or (b); and
-    (c) that the actual and reasonable costs charged by the provider for performing, on one occasion only within the period, a drug test of the kind stated in section 122A(2)(a) or (b) are paid by the department, but are also recoverable from the person as a debt due to the Crown for the purposes of section 85A(e).
+    (b) the location of a drug testing provider that the person can use to undertake a drug test of the kind stated in section 122A(2)﻿(a) or (b); and
+    (c) that the actual and reasonable costs charged by the provider for performing, on one occasion only within the period, a drug test of the kind stated in section 122A(2)﻿(a) or (b) are paid by the department, but are also recoverable from the person as a debt due to the Crown for the purposes of section 85A(e).
 
 ### 52 New section 122A inserted (Recomplying after second failure to comply with drug testing obligations)
 After section 122, insert:Recomplying after second failure to comply with drug testing obligations
-  (1) This section applies to a work-tested beneficiary who has undertaken under section 122(3)(b) to do both of the following:
-    (a) to pass a drug test of the kind stated in subsection (2)(a) or (b) of this section, and to do so within the 25-working-day period in section 122(3)(b)(i) (the testing period); and
-    (b) to provide evidence that satisfies the chief executive that the person has passed a drug test of that kind, and to do so within the 30-working-day period in section 122(3)(b)(ii) (the results period).
+  (1) This section applies to a work-tested beneficiary who has undertaken under section 122(3)﻿(b) to do both of the following:
+    (a) to pass a drug test of the kind stated in subsection (2)﻿(a) or (b) of this section, and to do so within the 25-working-day period in section 122(3)﻿(b)﻿(i) (the testing period); and
+    (b) to provide evidence that satisfies the chief executive that the person has passed a drug test of that kind, and to do so within the 30-working-day period in section 122(3)﻿(b)﻿(ii) (the results period).
   (2) The beneficiary must at a time that is within the testing period attend at the location of a drug testing provider for the purpose of undertaking a drug test that is—
     (a) a screening drug test of the beneficiary and, if the beneficiary fails that screening drug test, an evidential drug test of the beneficiary; or
     (b) an evidential drug test of the beneficiary undertaken without any associated prior screening drug test of the beneficiary.
-  (3) The actual and reasonable costs charged by the provider for performing, on 1 occasion only within the testing period, a drug test in accordance with subsection (2)(a) or (b) are—
+  (3) The actual and reasonable costs charged by the provider for performing, on 1 occasion only within the testing period, a drug test in accordance with subsection (2)﻿(a) or (b) are—
     (a) payable by the department; but also
     (b) a debt due to the Crown from the beneficiary for the purpose of section 85A(e).
   (4) A beneficiary who fails a screening drug test or an evidential drug test or both performed within the testing period may (in order to try to comply with the beneficiary's undertaking despite that failure) undertake, at the beneficiary's expense, further drug testing within the testing period.
-  (5) A beneficiary who does not pass a drug test of the kind stated in subsection (2)(a) or (b) within the testing period must for the purpose of section 117(1)(c) be treated as a person who has failed a third time within a 12-month period to comply with any drug testing obligations in section 102B(1).
+  (5) A beneficiary who does not pass a drug test of the kind stated in subsection (2)﻿(a) or (b) within the testing period must for the purpose of section 117(1)﻿(c) be treated as a person who has failed a third time within a 12-month period to comply with any drug testing obligations in section 102B(1).
 
 **Special assistance under welfare programme: use of preferred supplier**
 
 ### 53 Section 124 amended (Money payable out of Crown Bank Account)
 After section 124(1B), insert:
-  (1BA) This subsection applies to an applicant for special assistance under a welfare programme approved by the Minister under subsection (1)(d) if—
+  (1BA) This subsection applies to an applicant for special assistance under a welfare programme approved by the Minister under subsection (1)﻿(d) if—
     (a) any special assistance under the programme relates to the supply of any goods or services to the applicant or a member of the applicant's family; and
     (b) the goods or services are of a class, description, or kind supplied by a preferred supplier (being a preferred supplier to, or in respect of, the area in which the applicant resides) under a contract entered into with the chief executive under section 125AA.
-  (1BB) If subsection (1BA) applies to an applicant for special assistance under a welfare programme approved by the Minister under subsection (1)(d), the applicant must purchase the goods or services from a preferred supplier nominated by the chief executive at the price determined by the contract under section 125AA with that supplier, and—
-    (a) the amount of the special assistance granted under subsection (1)(d) for purchasing those goods or services is the lesser of—
+  (1BB) If subsection (1BA) applies to an applicant for special assistance under a welfare programme approved by the Minister under subsection (1)﻿(d), the applicant must purchase the goods or services from a preferred supplier nominated by the chief executive at the price determined by the contract under section 125AA with that supplier, and—
+    (a) the amount of the special assistance granted under subsection (1)﻿(d) for purchasing those goods or services is the lesser of—
       (i) the price so determined; and
       (ii) the maximum amount for purchasing those goods or services available under the welfare programme concerned; and
     (b) the chief executive must pay that special assistance to that supplier in consideration of the supply of the goods or services to the applicant or the applicant's family member.
   (1BBA) A nomination under subsection (1BB) of a preferred supplier—
     (a) may be given orally or in writing (but, if given orally, must as soon as practicable be confirmed in writing); and
     (b) may from time to time be amended, revoked, or revoked and replaced by the chief executive, to recognise changes in preferred suppliers or preferred supply contracts ending without also being replaced.
-  (1BC) No appeal under this Act lies against any chief executive's decision under subsection (1BB)(b).
+  (1BC) No appeal under this Act lies against any chief executive's decision under subsection (1BB)﻿(b).
   (1BD) Subsections (1BA) to (1BC) are subject to (preferred supplier transitional provisions) directions under section 125AA(5).
 
 **Preferred suppliers of goods or services for beneficiaries or others**
@@ -1036,7 +1036,7 @@ After section 124, insert:Preferred suppliers of goods or services for beneficia
     (a) to meet additional expenses arising from a disability by way of a disability allowance, under section 69C(7B):
     (b) to satisfy the immediate needs of a beneficiary by way of an advance payment of a benefit under section 82(6) and (6A):
     (c) for supply of goods or services to a beneficiary by way of a redirection of some of the beneficiary's benefit payments, under section 82(6G):
-    (d) to meet particular needs of a person by way of special assistance under a welfare programme under section 124(1)(d), under section 124(1BB).
+    (d) to meet particular needs of a person by way of special assistance under a welfare programme under section 124(1)﻿(d), under section 124(1BB).
   (3) The chief executive may from time to time, on behalf of the Crown, enter into a contract with any person, body, or organisation (a preferred supplier) for the supply of specified goods or services (as defined in subsection (1))—
     (a) by the preferred supplier; and
     (b) for purchase by beneficiaries, other persons identified by the department, or both.
@@ -1051,15 +1051,15 @@ After section 124, insert:Preferred suppliers of goods or services for beneficia
 **Contracts with administration service providers**
 
 ### 55 Section 125A amended (Chief executive may contract with service providers)
-(1) In section 125A(1)(a), after that, insert , in relation to young persons,.
-(2) After section 125A(1)(a), insert:.
+(1) In section 125A(1)﻿(a), after that, insert , in relation to young persons,.
+(2) After section 125A(1)﻿(a), insert:.
   (ab) that, in relation to persons other than young persons, are services in relation to all or any of Parts 1 to 1P and 2; and
-(3) In section 125A(2)(b), replace young persons with persons to whom the services relate.
+(3) In section 125A(2)﻿(b), replace young persons with persons to whom the services relate.
 (4) Repeal section 125(3).
 
 ### 56 Section 125C amended (Release of personal information to and by contracted service provider)
-(1) In section 125C(1)(a), delete young.
-(2) In section 125C(1)(b), replace Part 5 and section 123E(a) with the provisions specified in section 125A(1)(a) or, as the case requires, 125A(1)(ab).
+(1) In section 125C(1)﻿(a), delete young.
+(2) In section 125C(1)﻿(b), replace Part 5 and section 123E(a) with the provisions specified in section 125A(1)﻿(a) or, as the case requires, 125A(1)﻿(ab).
 (3) In section 125C(2), delete young in each place.
 
 **Effect on benefit of warrant to arrest beneficiary: information matching**
@@ -1084,13 +1084,13 @@ After section 132AC, insert:Regulations on use of disability allowance to fund s
     (a) specify classes, descriptions, or kinds of expenses that must not be funded by way of a disability allowance:
     (b) specify classes, descriptions, or kinds of expenses that may be funded by way of a disability allowance only to an extent specified in the regulations, or only subject to compliance with conditions specified in the regulations, or both:
     (c) provide for transitional and savings provisions relating to use of a disability allowance to fund specified expenses.
-  (3) Any such regulations that do what is stated in subsection (2)(b) may specify the maximum extent to which expenses may be funded by way of a disability allowance in ways that are or include using all or any of the following:
+  (3) Any such regulations that do what is stated in subsection (2)﻿(b) may specify the maximum extent to which expenses may be funded by way of a disability allowance in ways that are or include using all or any of the following:
     (a) maximum funded proportions of all or any of the expenses concerned:
     (b) maximum funded amounts for all or any specified expenses, specified periods, or both:
     (c) maximum numbers, frequencies, or both, of grants for all or any specified expenses.
-  (4) Transitional or savings provisions under subsection (2)(c) may, without limitation, provide for all or any of the following:
+  (4) Transitional or savings provisions under subsection (2)﻿(c) may, without limitation, provide for all or any of the following:
     (a) separate transitional or savings provisions for all or any specified people to or on account of whom a disability allowance is payable immediately before the commencement of this section:
-    (b) separate transitional or savings provisions for all or any specified expenses to which the regulations apply (when they, or any regulations amending them or made under subsection (2)(c), come into force):
+    (b) separate transitional or savings provisions for all or any specified expenses to which the regulations apply (when they, or any regulations amending them or made under subsection (2)﻿(c), come into force):
     (c) specified transitional or savings provisions to have effect at a time, or on the occurrence of an event (for example, at the end of any existing contractual arrangements), specified in any general or special directions given to the chief executive in writing by the Minister under section 5.
 
 **Effect on benefit of warrant to arrest beneficiary, and expiry and re-grant of specified benefits**
@@ -1098,15 +1098,15 @@ After section 132AC, insert:Regulations on use of disability allowance to fund s
 ### 59 New sections 132L and 132M inserted
 After section 132K, insert:Regulations relating to effect on benefit of warrant to arrest beneficiaryRegulations relating to expiry and re-grant of specified benefits
   (1) The Governor-General may by Order in Council make regulations for the purpose of section 75B (which relates to the effect on a benefit of a warrant to arrest a beneficiary), including, without limitation,—
-    (a) provisions prescribing classes, descriptions, or kinds of offences excluded from the operation of section 75B(1)(a):
-    (b) provisions prescribing for the purposes of section 75B(2)(a)(iii) or, as the case requires, section 75B(2)(b)(ii), classes, descriptions, or kinds of beneficiary excluded from the operation of all of the provisions of section 75B, and who are therefore excluded beneficiaries for the purposes of section 75B(3) to (6) or, as the case requires, section 75B(7) and (8):
+    (a) provisions prescribing classes, descriptions, or kinds of offences excluded from the operation of section 75B(1)﻿(a):
+    (b) provisions prescribing for the purposes of section 75B(2)﻿(a)﻿(iii) or, as the case requires, section 75B(2)﻿(b)﻿(ii), classes, descriptions, or kinds of beneficiary excluded from the operation of all of the provisions of section 75B, and who are therefore excluded beneficiaries for the purposes of section 75B(3) to (6) or, as the case requires, section 75B(7) and (8):
     (c) provisions for any other matters contemplated by section 75B, necessary for its administration, or necessary for giving it full effect.
   (2) Nothing in this section limits section 132.
   (1) The Governor-General may by Order in Council make regulations for the purpose of sections 80BE and 80BF (which relate to expiry and re-grant of specified benefits), including, without limitation, provisions that—
-    (a) declare a benefit that is sole parent support, supported living payment, or emergency benefit (including, without limitation, that benefit as granted in either or both of the ways specified in section 80BE(6)(a) and (b)) not to be a specified benefit for the purposes of sections 80BE and 80BF:
+    (a) declare a benefit that is sole parent support, supported living payment, or emergency benefit (including, without limitation, that benefit as granted in either or both of the ways specified in section 80BE(6)﻿(a) and (b)) not to be a specified benefit for the purposes of sections 80BE and 80BF:
     (b) prescribe the expiry date or expiry dates for every benefit that is a specified benefit for the purposes of sections 80BE and 80BF:
     (c) specify circumstances in which the chief executive may under section 80BE(8) consider an exemption from expiry under section 80BE.
-  (2) Regulations under subsection (1)(b) may, without limitation, prescribe the same expiry date, or 2 or more different expiry dates, for all or any combination of the following:
+  (2) Regulations under subsection (1)﻿(b) may, without limitation, prescribe the same expiry date, or 2 or more different expiry dates, for all or any combination of the following:
     (a) each specified benefit for the purposes of sections 80BE and 80BF:
     (b) each specified benefit for the purposes of sections 80BE and 80BF insofar as that benefit is granted on each of 2 or more different specified eligibility grounds:
     (c) each specified benefit for the purposes of sections 80BE and 80BF insofar as that benefit is (on all, or any specified, eligibility grounds) granted to a specified category, class, or kind of applicants, recipients, or beneficiaries.
@@ -1127,7 +1127,7 @@ After section 132K, insert:Regulations relating to effect on benefit of warrant 
 ### 61 Amendments to make clearer references to main benefits
 (1) In section 3(1), definition of financially independent, paragraph (c), replace a benefit with a main benefit under this Act.
 (2) In section 3(1), definition of financially independent, paragraph (d), replace a benefit with a main benefit.
-(3) In section 61(1)(b), replace any benefit with a main benefit under this Act, New Zealand superannuation, or a veteran's pension.
+(3) In section 61(1)﻿(b), replace any benefit with a main benefit under this Act, New Zealand superannuation, or a veteran's pension.
 (4) In section 75(2),—
   (a) replace Notwithstanding anything to the contrary in this Act or in the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954, if with If; and
   (b) replace a benefit (other than an unsupported child's benefit or an orphan's benefit) with a main benefit under this Act; and
@@ -1135,23 +1135,23 @@ After section 132K, insert:Regulations relating to effect on benefit of warrant 
 (5) In section 75(3), delete (other than a person in receipt of, or entitled to receive, a veteran's pension or a person who is a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142).
 (6) In section 75(5), replace any benefit with a main benefit under this Act.
 (7) Repeal section 75(8).
-(8) In section 117(1)(a)(i), after the person's benefit, insert (unless it is not a main benefit under this Act).
-(9) In section 117(1)(a)(ii), after the person's benefit, insert (unless it is not a main benefit under this Act).
-(10) In section 117(1)(b), after the person's benefit, insert (unless it is not a main benefit under this Act).
-(11) In section 117(1)(c), replace benefit with person's benefit (unless it is not a main benefit under this Act).
+(8) In section 117(1)﻿(a)﻿(i), after the person's benefit, insert (unless it is not a main benefit under this Act).
+(9) In section 117(1)﻿(a)﻿(ii), after the person's benefit, insert (unless it is not a main benefit under this Act).
+(10) In section 117(1)﻿(b), after the person's benefit, insert (unless it is not a main benefit under this Act).
+(11) In section 117(1)﻿(c), replace benefit with person's benefit (unless it is not a main benefit under this Act).
 (12) In section 117(2), replace whose benefit with whose main benefit under this Act.
-(13) In section 117(2)(a), replace benefit with main benefit under this Act.
-(14) In section 117(2)(b), replace a benefit with a main benefit under this Act.
+(13) In section 117(2)﻿(a), replace benefit with main benefit under this Act.
+(14) In section 117(2)﻿(b), replace a benefit with a main benefit under this Act.
 (15) After section 119(1), insert:
-  (1A) Subsections (1)(a) and (ab) and (3) apply only to 1 or more main benefits under this Act.
+  (1A) Subsections (1)﻿(a) and (ab) and (3) apply only to 1 or more main benefits under this Act.
 (16) In section 121, replace a benefit with a main benefit under this Act.
-(17) In section 123(1)(a), replace a benefit with a main benefit under this Act.
+(17) In section 123(1)﻿(a), replace a benefit with a main benefit under this Act.
 (18) In section 123(3), replace a benefit with a main benefit under this Act.
 (19) In section 123A(1), replace a benefit with a main benefit under this Act.
-(20) In section 123B(2)(b), replace a benefit with a main benefit under this Act.
+(20) In section 123B(2)﻿(b), replace a benefit with a main benefit under this Act.
 (21) In section 123B(3), replace a benefit with a main benefit under this Act in each place.
-(22) In sections 173(2)(a) and 174(2)(a), replace any benefit with a main benefit under this Act.
-(23) In sections 173(2)(b) and 174(2)(b), replace a benefit with a main benefit under this Act.
+(22) In sections 173(2)﻿(a) and 174(2)﻿(a), replace any benefit with a main benefit under this Act.
+(23) In sections 173(2)﻿(b) and 174(2)﻿(b), replace a benefit with a main benefit under this Act.
 (24) In Schedule 18, Part 1, clause 1, definition of base rate, paragraphs (a), (b), (c), and (da), replace “of benefit” with “of a main benefit under this Act”.
 (25) In Schedule 18, Part 1, clause 1, definition of base rate, paragraph (d), replace “of benefit” with “of a main benefit under this Act” in each place.
 (26) In Schedule 22, clause 1, replace a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) with a main benefit under this Act.
@@ -1176,16 +1176,16 @@ The principal Act is amended in the manner indicated in Part 1 of Schedule 2.
 **Consequential amendments: work-test couple rate**
 
 ### 64 Consequential amendments to principal Act
-(1) In section 3(1), definition of work-tested spouse or partner, paragraph (b)(i), replace married with couple.
-(2) In section 3(1), definition of work-tested spouse or partner, paragraph (b)(ii)(A), replace work-tested married with work-test couple.
+(1) In section 3(1), definition of work-tested spouse or partner, paragraph (b)﻿(i), replace married with couple.
+(2) In section 3(1), definition of work-tested spouse or partner, paragraph (b)﻿(ii)﻿(A), replace work-tested married with work-test couple.
 (3) In section 3(5), replace married with couple.
-(4) In section 60H(2)(b), replace married with couple.
-(5) In section 61A(1)(a) and (1A), replace married with couple.
+(4) In section 60H(2)﻿(b), replace married with couple.
+(5) In section 61A(1)﻿(a) and (1A), replace married with couple.
 (6) In section 120(1), (1A), and (2), replace married with couple.
 
 ### 65 Consequential amendments to other enactments
 (1) In the Accident Compensation Act 2001, section 252(5), replace married with couple.
-(2) In the Child Support Act 1991, section 30(3) and (4)(a), replace married with couple.
+(2) In the Child Support Act 1991, section 30(3) and (4)﻿(a), replace married with couple.
 (3) In the Child Support Act 1991, section 30(5), definition of gross married rate of invalid's benefit, replace married with couple.
 (4) In the Child Support Act 1991, section 30(5), definition of gross married rate of unemployment benefit, replace married with couple.
 
@@ -1212,8 +1212,8 @@ In section 132J(1), replace section 96A with sections 11E, 11G, and 11H.
 
 ### 70 Section 3 amended (Interpretation)
 (1) In section 3(1), definition of income-tested benefit, repeal paragraph (j).
-(2) In section 3(1), definition of part-time work-tested beneficiary, repeal paragraph (a)(iii).
-(3) In section 3(1), definition of work-tested beneficiary (as replaced on 15 October 2012 by section 33(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012), repeal paragraph (b)(iii).
+(2) In section 3(1), definition of part-time work-tested beneficiary, repeal paragraph (a)﻿(iii).
+(3) In section 3(1), definition of work-tested beneficiary (as replaced on 15 October 2012 by section 33(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012), repeal paragraph (b)﻿(iii).
 (4) In section 3(1), definition of work-tested benefit (as so replaced), paragraph (a),—
   (a) replace a work-tested domestic purposes beneficiary, with a work-tested sole parent support beneficiary,; and
   (b) delete or a work-tested widow's beneficiary,.
@@ -1227,19 +1227,19 @@ In section 132J(1), replace section 96A with sections 11E, 11G, and 11H.
 (9) In section 3(1), repeal the definition of work-tested widow's beneficiary (as inserted on 15 October 2012 by section 33(5) of the Social Security (Youth Support and Work Focus) Amendment Act 2012).
 
 ### 71 Section 60GAE amended (Beneficiaries having additional dependent child: general)
-(1) In section 60GAE(1)(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012), delete a widow's benefit,.
+(1) In section 60GAE(1)﻿(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012), delete a widow's benefit,.
 (2) In section 60GAE(2) (as so inserted), replace work-tested domestic purposes beneficiary, with work-tested sole parent support beneficiary, and.
 (3) In section 60GAE(2) (as so inserted), delete , and work-tested widow's beneficiary.
 
 ### 72 Section 60Q amended (Certain obligations may be placed on beneficiaries and their spouses and partners)
-(1) In section 60Q(1)(a) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012), replace a benefit under section 21 (the widow's benefit) with a benefit under section 20D (sole parent support).
-(2) Repeal section 60Q(1)(b) (as so replaced).
+(1) In section 60Q(1)﻿(a) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012), replace a benefit under section 21 (the widow's benefit) with a benefit under section 20D (sole parent support).
+(2) Repeal section 60Q(1)﻿(b) (as so replaced).
 
 ### 73 Section 61 amended (Chief executive may grant emergency benefit in cases of hardship)
 In section 61(1), first and second provisos, replace a domestic purposes benefit, a widow's benefit, with sole parent support, in each place.
 
 ### 74 Section 70A amended (Rates of benefits for sole parents may be reduced)
-Replace section 70A(1)(b)(i) and (ii) with:.
+Replace section 70A(1)﻿(b)﻿(i) and (ii) with:.
   (i) sole parent support under section 20D; or
 
 ### 75 Section 74AA amended (Residential requirements for certain benefits)
@@ -1255,11 +1255,11 @@ In section 80B, definition of income, insert in its appropriate alphabetical ord
 In section 82(2A), delete , and a widow's benefit.
 
 ### 78 Section 162 amended (Youth payment: continuation after age 18)
-Replace section 162(2)(a) and (b) with:.
+Replace section 162(2)﻿(a) and (b) with:.
   (a) sole parent support:
 
 ### 79 Section 168 amended (Young parent payment: continuation after age 19)
-Replace section 168(2)(a) and (b) with:.
+Replace section 168(2)﻿(a) and (b) with:.
   (a) sole parent support:
 
 ### 80 Schedule 3 amended
@@ -1269,7 +1269,7 @@ Replace section 168(2)(a) and (b) with:.
 ### 81 New Schedule 3A inserted
 (1) After Schedule 3, insert the Schedule 3A set out in Schedule 1 of this Act.
 (2) In section 3(1), definition of dependent child, paragraph (d), after 3, insert 3A,.
-(3) In section 61H(1)(d), after 3, insert 3A,.
+(3) In section 61H(1)﻿(d), after 3, insert 3A,.
 (4) In section 61HA(2), after 3, insert 3A,.
 
 ### 82 Schedule 10 amended
@@ -1286,19 +1286,19 @@ In Schedule 18, Part 1, clause 3, replace a widow's benefit or a domestic purpos
 ### 85 Other consequential amendments to principal Act
 (1) In the following provisions, replace a domestic purposes benefit with sole parent support:
   (a) section 3(1), definition of income-tested benefit, paragraph (b):
-  (b) section 60GAE(1)(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
-  (c) section 80(5)(b):
+  (b) section 60GAE(1)﻿(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
+  (c) section 80(5)﻿(b):
   (d) section 82(2A).
 (2) In the following provisions, replace domestic purposes beneficiary with sole parent support beneficiary:
-  (a) section 3(1), definition of part-time work-tested beneficiary, paragraph (a)(ii):
+  (a) section 3(1), definition of part-time work-tested beneficiary, paragraph (a)﻿(ii):
   (b) section 3(1), definition of work-tested benefit, paragraph (c).
-(3) In section 3(1), definition of work-tested beneficiary (as replaced on 15 October 2012 by section 33(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012), paragraph (b)(ii), replace domestic purposes beneficiary; or with sole parent support beneficiary.
+(3) In section 3(1), definition of work-tested beneficiary (as replaced on 15 October 2012 by section 33(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012), paragraph (b)﻿(ii), replace domestic purposes beneficiary; or with sole parent support beneficiary.
 (4) In the following provisions, replace a widow's benefit, a domestic purposes benefit, with sole parent support,:
   (a) section 61E(1), definition of beneficiary, paragraph (a):
   (b) section 66(1):
-  (c) section 69C(1)(a):
-  (d) section 80(2)(b).
-(5) In section 80(14)(a), replace a widow's benefit, a domestic purposes benefit, with sole parent support,.
+  (c) section 69C(1)﻿(a):
+  (d) section 80(2)﻿(b).
+(5) In section 80(14)﻿(a), replace a widow's benefit, a domestic purposes benefit, with sole parent support,.
 
 ### 86 Consequential amendments to other enactments
 The enactments specified in Schedule 3 are amended in the manner indicated in that schedule.
@@ -1306,8 +1306,8 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 **Consequential amendments: supported living payment benefit**
 
 ### 87 Section 3(1) amended (Interpretation)
-(1) In section 3(1), definition of work-test married rate, paragraph (b)(ii), replace 42(2) with 40I(5).
-(2) In section 3(1), definition of work-tested spouse or partner, paragraph (b)(iii)(C), replace 42(2) with 40I(5).
+(1) In section 3(1), definition of work-test married rate, paragraph (b)﻿(ii), replace 42(2) with 40I(5).
+(2) In section 3(1), definition of work-tested spouse or partner, paragraph (b)﻿(iii)﻿(C), replace 42(2) with 40I(5).
 
 ### 88 Section 39A amended (Child disability allowance)
 In section 39A(1), replace 39F with 39E.
@@ -1316,11 +1316,11 @@ In section 39A(1), replace 39F with 39E.
 In section 43, replace section 42 with section 40I.
 
 ### 90 Section 70A amended (Rates of benefits for sole parents may be reduced)
-Replace section 70A(1)(b)(iii) with:.
+Replace section 70A(1)﻿(b)﻿(iii) with:.
   (iii) a supported living payment on the ground of sickness, injury, disability, or total blindness, under section 40B; or
 
 ### 91 Section 80 amended (Commencement of benefits)
-In section 80(5)(ca)(i), replace congenital defect with existing from birth.
+In section 80(5)﻿(ca)﻿(i), replace congenital defect with existing from birth.
 
 ### 92 Section 80B amended (Interpretation)
 In section 80B, definition of income, insert in its appropriate alphabetical order:.
@@ -1340,7 +1340,7 @@ In section 80B, definition of income, insert in its appropriate alphabetical ord
 
 ### 95 Schedule 17 repealed
 (1) Repeal Schedule 17.
-(2) In section 61H(1)(d), replace 17 to with 18,.
+(2) In section 61H(1)﻿(d), replace 17 to with 18,.
 (3) In section 61HA(2), delete 17,.
 
 ### 96 Other consequential amendments to principal Act
@@ -1348,25 +1348,25 @@ In section 80B, definition of income, insert in its appropriate alphabetical ord
   (a) section 3(1), definition of income-tested benefit, paragraph (e):
   (b) section 3(1), definition of work-test married rate, paragraph (b):
   (c) section 3(1), definition of work-tested benefit (as replaced on 15 October 2012 by section 33(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012), paragraph (b):
-  (d) section 3(1), definition of work-tested spouse or partner, paragraph (b)(i) and (iii)(C):
+  (d) section 3(1), definition of work-tested spouse or partner, paragraph (b)﻿(i) and (iii)﻿(C):
   (e) section 43 (as section 43 is renumbered as section 40J by section 19(1) of this Act):
-  (f) section 60GAE(1)(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
-  (g) section 60Q(1)(c)(i) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
+  (f) section 60GAE(1)﻿(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
+  (g) section 60Q(1)﻿(c)﻿(i) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
   (h) section 61(1), first and second provisos:
   (i) section 61E(1), definition of beneficiary, paragraph (a):
   (j) section 66(1):
-  (k) section 69C(1)(a):
+  (k) section 69C(1)﻿(a):
   (l) section 74AA(2):
-  (m) section 77(4)(b):
-  (n) section 80(2)(b), (5)(b), and (14)(b):
+  (m) section 77(4)﻿(b):
+  (n) section 80(2)﻿(b), (5)﻿(b), and (14)﻿(b):
   (o) section 82(2A):
   (p) Schedule 30, clause 1, paragraph (a).
 (2) In the following provisions, replace “an invalid's benefit” with “a supported living payment on the ground of sickness, injury, disability, or total blindness”:
-  (a) section 12J(2)(a):
-  (b) section 69C(5)(a):
+  (a) section 12J(2)﻿(a):
+  (b) section 69C(5)﻿(a):
   (c) section 72(b), proviso that begins “provided further that”:
-  (d) section 80(5)(ca) (except section 80(5)(ca)(ii)).
-(3) In section 80(5)(ca)(ii), replace on the grounds, with or a supported living payment (in either case) on the ground.
+  (d) section 80(5)﻿(ca) (except section 80(5)﻿(ca)﻿(ii)).
+(3) In section 80(5)﻿(ca)﻿(ii), replace on the grounds, with or a supported living payment (in either case) on the ground.
 
 ### 97 Consequential amendments to other enactments
 The enactments specified in Schedule 4 are amended in the manner indicated in that schedule.
@@ -1377,10 +1377,10 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
 (1) In section 3(1), repeal the definition of work preparation exercise.
 (2) In section 105(1), delete or from complying with section 60HA.
 (3) In the heading to section 123, delete section 60HA or.
-(4) In section 123(1)(b)(ia), delete a request under section 60HA or.
-(5) In section 123(1)(b)(ii), delete or an exemption from complying with section 60HA.
-(6) In section 123B(5)(a), delete a request under section 60HA or.
-(7) In section 123B(5)(b), delete section 60HA or.
+(4) In section 123(1)﻿(b)﻿(ia), delete a request under section 60HA or.
+(5) In section 123(1)﻿(b)﻿(ii), delete or an exemption from complying with section 60HA.
+(6) In section 123B(5)﻿(a), delete a request under section 60HA or.
+(7) In section 123B(5)﻿(b), delete section 60HA or.
 (8) In section 123D(a), delete or the obligation to comply with section 60HA.
 (9) In the Social Security (Exemptions under Section 105) Regulations 1998, revoke regulation 3.
 
@@ -1393,18 +1393,18 @@ The enactments specified in Schedule 4 are amended in the manner indicated in th
 (3) In section 3(1), definition of work-tested beneficiary (as replaced on 15 October 2012 by section 33(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012), replace paragraph (a) with:.
   (a) who is granted jobseeker support (other than jobseeker support on the ground of sickness, injury, or disability); or
   (aa) who is granted jobseeker support on the ground of sickness, injury, or disability, and who, under section 88F(4), must comply with the work test; or
-(4) In section 3(1), definition of work-tested beneficiary (as so replaced), repeal paragraph (b)(iv).
+(4) In section 3(1), definition of work-tested beneficiary (as so replaced), repeal paragraph (b)﻿(iv).
 (5) In section 3(1), definition of work-tested benefit (as so replaced), paragraph (a), replace , a work-tested sickness beneficiary, with or a beneficiary receiving jobseeker support on the ground of sickness, injury, or disability who is not, under section 88F(4), required to comply with the work test,.
 (6) In section 3(1), definition of work-tested benefit (as so replaced), paragraph (b), replace a sickness benefit, an emergency benefit, and with an emergency benefit and.
 (7) In section 3(1), definition of work-tested benefit (as so replaced), repeal paragraph (d).
 (8) In section 3(1), repeal the definition of work-tested sickness beneficiary.
-(9) In section 3(1), definition of work-tested spouse or partner, paragraph (b)(i), delete , a sickness benefit,.
+(9) In section 3(1), definition of work-tested spouse or partner, paragraph (b)﻿(i), delete , a sickness benefit,.
 
 ### 100 Section 12J amended (Rights of appeal)
-In section 12J(2)(e), replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
+In section 12J(2)﻿(e), replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
 
 ### 101 Section 60H amended (Voluntary unemployment or loss of employment through misconduct, etc)
-Replace section 60H(2)(ab) with:.
+Replace section 60H(2)﻿(ab) with:.
   (ab) a person who is an applicant for jobseeker support on the ground of sickness, injury, or disability if, on the grant of that benefit, the chief executive would be able to determine, under section 88F(2), that the person has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work (as defined in section 3(1)); or
 
 ### 102 Section 61 amended (Chief executive may grant emergency benefit in cases of hardship)
@@ -1414,15 +1414,15 @@ In section 61(1A), delete a sickness benefit under section 54A or.
 In section 66(1), replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
 
 ### 104 Section 70A amended (Rates of benefits for sole parents may be reduced)
-Repeal section 70A(1)(b)(iv).
+Repeal section 70A(1)﻿(b)﻿(iv).
 
 ### 105 Section 72 amended (Limitation where applicant receiving another benefit or war pension)
 In section 72(b), second proviso, replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
 
 ### 106 Section 80 amended (Commencement of benefits)
-(1) In section 80(5)(c), replace the benefit is a sickness benefit with the benefit is jobseeker support on the ground of sickness, injury, or disability.
-(2) In section 80(5)(c)(ii), after a community wage, insert or jobseeker support (in either case).
-(3) In section 80(14)(a), replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
+(1) In section 80(5)﻿(c), replace the benefit is a sickness benefit with the benefit is jobseeker support on the ground of sickness, injury, or disability.
+(2) In section 80(5)﻿(c)﻿(ii), after a community wage, insert or jobseeker support (in either case).
+(3) In section 80(14)﻿(a), replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
 
 ### 107 Section 102 amended (Application of work test)
 Replace section 102(1) with:
@@ -1434,10 +1434,10 @@ Replace section 102(1) with:
 In section 157, definition of specified beneficiary, paragraph (b), delete sickness benefit,.
 
 ### 109 Section 162 amended (Youth payment: continuation after age 18)
-Repeal section 162(2)(c).
+Repeal section 162(2)﻿(c).
 
 ### 110 Section 168 amended (Young parent payment: continuation after age 19)
-Repeal section 168(2)(c).
+Repeal section 168(2)﻿(c).
 
 ### 111 Schedule 9 amended
 In the Schedule 9 heading, delete and sickness benefits.
@@ -1450,14 +1450,14 @@ In Schedule 10, item relating to the maximum rate, replace a sickness benefit wi
   (a) section 3(1), definition of work-test married rate, paragraph (a):
   (b) section 61(1), first and second provisos:
   (c) section 61E(1), definition of beneficiary, paragraph (a):
-  (d) section 69C(1)(a) and (5)(a).
+  (d) section 69C(1)﻿(a) and (5)﻿(a).
 (2) In the following provisions, delete a sickness benefit,:
-  (a) section 60GAE(1)(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
-  (b) section 60Q(1)(c)(i) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
+  (a) section 60GAE(1)﻿(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
+  (b) section 60Q(1)﻿(c)﻿(i) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
   (c) section 74AA(2):
-  (d) section 80(5)(b):
+  (d) section 80(5)﻿(b):
   (e) section 82(2A).
-(3) In section 80(2)(b), replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
+(3) In section 80(2)﻿(b), replace a sickness benefit with jobseeker support on the ground of sickness, injury, or disability.
 
 ### 114 Consequential amendments to other enactments
 The enactments specified in Schedule 5 are amended in the manner indicated in that schedule.
@@ -1466,18 +1466,18 @@ The enactments specified in Schedule 5 are amended in the manner indicated in th
 
 ### 115 Section 123 amended (Effect of ceasing to be subject to obligation to comply with section 60HA or work test or section 170 or 171)
 (1) In the heading to section 123, after 171, insert , social obligation, or work preparation obligation.
-(2) In section 123(1)(a), after suspended, insert or reduced.
-(3) In section 123(2)(a), after suspension, insert or reduction.
+(2) In section 123(1)﻿(a), after suspended, insert or reduced.
+(3) In section 123(2)﻿(a), after suspension, insert or reduction.
 (4) After section 123(3), insert:
-  (3A) A sanction imposed on a person under section 117 (as applied by sections 60RC(1) and 116B(1)(b)) in respect of a social obligation that the person had under section 60RA(3) ceases to apply to the person on the person ceasing to have that social obligation under section 60RA(3).
-  (3B) A sanction imposed on a person under section 117 (as applied by section 116B(1)(c)) in respect of either a general obligation of the person under section 60Q(2), or an obligation of the person under section 60Q(2) or (3) to comply with a requirement under section 60Q(3), ceases to apply to the person on the person ceasing to have that obligation.
+  (3A) A sanction imposed on a person under section 117 (as applied by sections 60RC(1) and 116B(1)﻿(b)) in respect of a social obligation that the person had under section 60RA(3) ceases to apply to the person on the person ceasing to have that social obligation under section 60RA(3).
+  (3B) A sanction imposed on a person under section 117 (as applied by section 116B(1)﻿(c)) in respect of either a general obligation of the person under section 60Q(2), or an obligation of the person under section 60Q(2) or (3) to comply with a requirement under section 60Q(3), ceases to apply to the person on the person ceasing to have that obligation.
 
 ### 116 Section 132AC amended (Regulations relating to childcare assistance)
 After section 132AC(1), insert:
-  (5) Regulations under this section that define the term approved early childhood education programme for the purposes of all or specified provisions of those regulations also define that term for the purposes of sections 60RA(3) and 170(2)(c).
+  (5) Regulations under this section that define the term approved early childhood education programme for the purposes of all or specified provisions of those regulations also define that term for the purposes of sections 60RA(3) and 170(2)﻿(c).
 
 ### 117 Section 170 amended (Youth support payments: obligations)
-In section 170(2)(c), replace in regulations under this Act with for the purposes of this paragraph in regulations under section 132AC.
+In section 170(2)﻿(c), replace in regulations under this Act with for the purposes of this paragraph in regulations under section 132AC.
 
 **Consequential amendments: expiry and re-grant of specified benefits**
 
@@ -1525,22 +1525,22 @@ In section 105(5A), replace granted an exemption with who is, or is deemed to be
   (a) section 3(1), definition of income-tested benefit, paragraph (a):
   (b) section 3(1), definition of work-test married rate, paragraph (a):
   (c) section 3(1), definition of work-tested benefit (as replaced on 15 October 2012 by section 33(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012), paragraph (a):
-  (d) section 3(1), definition of work-tested spouse or partner, paragraph (b)(i):
-  (e) section 60GAE(1)(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
-  (f) section 60Q(1)(c)(i) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
+  (d) section 3(1), definition of work-tested spouse or partner, paragraph (b)﻿(i):
+  (e) section 60GAE(1)﻿(a) (as inserted on 15 October 2012 by section 39 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
+  (f) section 60Q(1)﻿(c)﻿(i) (as replaced on 15 October 2012 by section 40 of the Social Security (Youth Support and Work Focus) Amendment Act 2012):
   (g) section 61(1), first and second provisos:
   (h) section 61(1A):
   (i) section 61E(1), definition of beneficiary, paragraph (a):
-  (j) section 69C(1)(a) and (5)(a):
-  (k) section 70A(1)(b)(v):
+  (j) section 69C(1)﻿(a) and (5)﻿(a):
+  (k) section 70A(1)﻿(b)﻿(v):
   (l) section 74AA(2):
-  (m) section 80(5)(b):
-  (n) section 162(2)(e):
-  (o) section 168(2)(e):
+  (m) section 80(5)﻿(b):
+  (n) section 162(2)﻿(e):
+  (o) section 168(2)﻿(e):
   (p) Schedule 18, Part 1, clause 2(b).
 (2) In the following provisions, replace unemployment benefit with jobseeker support in each place:
   (a) section 157, definition of specified beneficiary, paragraph (b):
-  (b) Schedule 18, Part 1, clause 1, definition of base rate, paragraphs (e)(i), (f), (g)(i) and (iii).
+  (b) Schedule 18, Part 1, clause 1, definition of base rate, paragraphs (e)﻿(i), (f), (g)﻿(i) and (iii).
 
 ### 129 Consequential amendments to other enactments
 The enactments specified in Schedule 6 are amended in the manner indicated in that schedule.
@@ -1553,9 +1553,9 @@ In section 11D(6), after section 81(3), insert and (4).
 **Consequential amendments: sanctions**
 
 ### 131 Section 102A amended (Work test obligations)
-(1) In section 102A(1)(g), replace requires; and with requires.
-(2) Repeal section 102A(1)(h).
-(3) In section 102A(3), delete (whether or not it is included in a job seeker agreement that continues to apply to him or her under subsection (1)(h)).
+(1) In section 102A(1)﻿(g), replace requires; and with requires.
+(2) Repeal section 102A(1)﻿(h).
+(3) In section 102A(3), delete (whether or not it is included in a job seeker agreement that continues to apply to him or her under subsection (1)﻿(h)).
 (4) Repeal section 102A(4).
 
 ### 132 Section 117 amended (Sanctions that may be imposed for failures)
@@ -1568,7 +1568,7 @@ In section 119(2), replace section 115 or section 116A with section 116B.
 In section 122, replace section 115, or section 116A with section 116B.
 
 ### 135 Section 171 amended (Obligations of spouses and partners of specified beneficiaries)
-In section 171(3)(b), replace section 116A with section 116B.
+In section 171(3)﻿(b), replace section 116A with section 116B.
 
 **Effect on benefit of warrant to arrest beneficiary: information matching**
 
@@ -1624,8 +1624,8 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
 (1) Any applicant or beneficiary affected may appeal to the Board against a decision of the chief executive that is—
   (a) a decision that a claim for a child disability allowance is declined, or that any such allowance is cancelled, in either case on the ground that the child is not a child with a serious disability (within the meaning of section 39A(1) and (2)); or
   (b) a decision that a claim for a supported living payment on the ground of sickness, injury, disability, or total blindness is declined, or that any such benefit is cancelled, in either case on medical grounds; or
-  (c) a decision under section 60Q(1)(bb) that a person in receipt of a supported living payment on the ground of sickness, injury, disability, or total blindness has the capacity to comply with obligations under section 60Q(3); or
-  (d) a decision under section 60Q(1)(bc) that a person in receipt of a supported living payment on the ground of caring for a patient requiring care has the capacity to comply with obligations under section 60Q(3); or
+  (c) a decision under section 60Q(1)﻿(bb) that a person in receipt of a supported living payment on the ground of sickness, injury, disability, or total blindness has the capacity to comply with obligations under section 60Q(3); or
+  (d) a decision under section 60Q(1)﻿(bc) that a person in receipt of a supported living payment on the ground of caring for a patient requiring care has the capacity to comply with obligations under section 60Q(3); or
   (e) a decision that a claim for jobseeker support on the ground of sickness, injury, or disability is declined on medical grounds or on grounds relating to a person's capacity for work, or that a person's jobseeker support on the ground of sickness, injury, or disability is cancelled on medical grounds or on grounds relating to the person's capacity for work; or
   (f) a determination under section 88F(2) that a jobseeker support beneficiary on the ground of sickness, injury, or disability has, while receiving that benefit, the capacity to seek, undertake, and be available for part-time work, and so is required to comply with the work test on and after a date specified in a notice under section 88F(4); or
   (g) a confirmation, amendment, revocation, or replacement under section 88F(6) of a determination, and that results in a determination of the kind specified in paragraph (f) of this subsection; or
@@ -1638,7 +1638,7 @@ For the purposes of clause 1, the chief executive may, in his or her discretion,
     (ii) a determination whether the person assessed, being a person in receipt of jobseeker support (other than jobseeker support granted on the ground of sickness, injury, or disability), is entitled on an application under section 88H, or under section 88I(4), to deferral of work test obligations under section 88I:
     (iii) a determination whether the person assessed, being a person in receipt of jobseeker support on the ground of sickness, injury, or disability, has for the purposes of section 88F(2) the capacity to seek, undertake, and be available for part-time work:
     (iv) a determination whether the person assessed, being a person who is subject to work test obligations or work preparation obligations under section 60Q, has the capacity to meet those obligations; or
-  (k) a decision under section 116C(2)(a) to the effect that a beneficiary does not have a good and sufficient reason, on the ground that the beneficiary is addicted to, or dependent on, controlled drugs, for either or both:
+  (k) a decision under section 116C(2)﻿(a) to the effect that a beneficiary does not have a good and sufficient reason, on the ground that the beneficiary is addicted to, or dependent on, controlled drugs, for either or both:
     (i) not complying with a drug testing obligation under section 102B(1):
     (ii) failing to apply for suitable employment that requires candidates to undertake drug tests; or
   (l) a decision to decline a claim for a veteran's pension under section 70 of the War Pensions Act 1954, or to cancel any such pension, in either case on the ground of the applicant's or beneficiary's mental or physical infirmity.
@@ -1763,8 +1763,8 @@ Applications made, but not determined, before 15 July 2013, or made after 14 Jul
   (a) an application for a domestic purposes benefit under section 27B or for a widow's benefit under section 21, and that is made, but is not decided or determined by the chief executive, before 15 July 2013; or
   (b) an application for a domestic purposes benefit under section 27B or for a widow's benefit under section 21, and that is made after 14 July 2013 but before 15 August 2013.
 (3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit,—
-  (a) he or she must be treated as a person to whom subclause (6)(a) applies if, at the close of 14 July 2013, he or she was a person with a dependent child aged under 14 years; and
-  (b) he or she must be treated as a person to whom subclause (9)(a) applies if, at the close of 14 July 2013, he or she was a person without a dependent child aged under 14 years; but
+  (a) he or she must be treated as a person to whom subclause (6)﻿(a) applies if, at the close of 14 July 2013, he or she was a person with a dependent child aged under 14 years; and
+  (b) he or she must be treated as a person to whom subclause (9)﻿(a) applies if, at the close of 14 July 2013, he or she was a person without a dependent child aged under 14 years; but
   (c) he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
 (4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may be treated,—
   (a) if made in respect of a person with a dependent child aged under 14 years, as an application for sole parent support; and
@@ -1774,28 +1774,28 @@ Transfer to sole parent support of beneficiaries with dependent child aged under
 (6) This subclause applies to a person with a dependent child aged under 14 years who, immediately before 15 July 2013,—
   (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27B or a widow's benefit under section 21; or
   (b) had been granted a domestic purposes benefit under section 27B, or a widow's benefit under section 21, that was subject to a stand down period under sections 80 to 80BA.
-(7) Subclause (6) applies to a person even if the benefit in subclause (6)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no sole parent support to which the person is transferred by subclause (8) commences until the suspension or reduction would have ended, or the benefit in subclause (6)(a) or (b) would otherwise have become payable again.
+(7) Subclause (6) applies to a person even if the benefit in subclause (6)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no sole parent support to which the person is transferred by subclause (8) commences until the suspension or reduction would have ended, or the benefit in subclause (6)﻿(a) or (b) would otherwise have become payable again.
 (8) A person to whom subclause (6) applies is, subject to subclauses (7) and (13) to (18) and to a review under section 81, entitled to sole parent support at the appropriate rate in Schedule 3A (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
-  (a) on 15 July 2013, if subclause (6)(a) applies to the person; or
-  (b) at the end of the stand down period referred to in subclause (6)(b).
+  (a) on 15 July 2013, if subclause (6)﻿(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (6)﻿(b).
 Transfer to jobseeker support of beneficiaries without dependent child aged under 14 years
 (9) This subclause applies to a person without a dependent child aged under 14 years who, immediately before 15 July 2013,—
   (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27B or a widow's benefit under section 21; or
   (b) had been granted a domestic purposes benefit under section 27B, or a widow's benefit under section 21, that was subject to a stand down period under sections 80 to 80BA.
-(10) Subclause (9) applies to a person even if the benefit in subclause (9)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (11) commences until the suspension or reduction would have ended, or the benefit in subclause (9)(a) or (b) would otherwise have become payable again.
+(10) Subclause (9) applies to a person even if the benefit in subclause (9)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (11) commences until the suspension or reduction would have ended, or the benefit in subclause (9)﻿(a) or (b) would otherwise have become payable again.
 (11) A person to whom subclause (9) applies is, subject to subclauses (10) and (12) to (18) and to a review under section 81, entitled to jobseeker support at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
-  (a) on 15 July 2013, if subclause (9)(a) applies to the person; or
-  (b) at the end of the stand down period referred to in subclause (9)(b).
+  (a) on 15 July 2013, if subclause (9)﻿(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (9)﻿(b).
 Savings relating to transfer to sole parent or jobseeker support
-(12) If a person to whom subclause (9) applies is, immediately before 15 July 2013 and under section 80BD(6), continuing to receive a domestic purposes benefit under section 27B or a widow's benefit under section 21(1)(a) for 8 weeks after the person stops caring for the child because of a sudden change of circumstances beyond the person's control,—
-  (a) the person is after transferring to jobseeker support not entitled to the rate of jobseeker support in clause 1(ab) of Schedule 9 unless immediately before 15 July 2013 he or she would have been entitled to a domestic purposes benefit for women alone under section 27C, or to a widow's benefit on a ground specified in section 21(1)(b), (c), or (d); and
+(12) If a person to whom subclause (9) applies is, immediately before 15 July 2013 and under section 80BD(6), continuing to receive a domestic purposes benefit under section 27B or a widow's benefit under section 21(1)﻿(a) for 8 weeks after the person stops caring for the child because of a sudden change of circumstances beyond the person's control,—
+  (a) the person is after transferring to jobseeker support not entitled to the rate of jobseeker support in clause 1(ab) of Schedule 9 unless immediately before 15 July 2013 he or she would have been entitled to a domestic purposes benefit for women alone under section 27C, or to a widow's benefit on a ground specified in section 21(1)﻿(b), (c), or (d); and
   (b) the person’s jobseeker support commences at the end of that 8-week period.
 (13) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (9) applies is entitled under subclause (11) is the 12-month anniversary of the date on which the person's domestic purposes benefit under section 27B, or widow's benefit under section 21, commenced or, as the case may be, last commenced.
-(14) Obligations under sections 60Q(2), 102, and 102A, and exemptions from the work test under section 105 (other than any exemption that, under regulations made under section 123D(a), is not available to a person receiving jobseeker support), that immediately before 15 July 2013 apply to a person to whom subclause (6)(a) or (9)(a) applies continue after 14 July 2013 in respect of sole parent support or jobseeker support to which the person is entitled under subclause (8) or (11).
-(15) A person to whom subclause (6) applies who at the close of 14 July 2013 is subject to an exemption under section 105 from some or all of his or her work test obligations on the ground in regulation 6(2)(d) or (e) of the Social Security (Exemptions under Section 105) Regulations 1998 is deemed to have all of his or her work test obligations deferred under section 88I for a period that is the same as the period for which the exemption was granted under section 105.
-(16) Failures under section 115 or 116A by a person to whom subclause (6)(a) or (9)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of sole parent support or jobseeker support to which the person is entitled under subclause (8) or (11).
-(17) A person whose domestic purposes benefit under section 27B, or widow's benefit under section 21, was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive sole parent support or jobseeker support for 13 weeks from the date of cancellation.
-(18) Subclause (17) does not limit section 117(2)(a).
+(14) Obligations under sections 60Q(2), 102, and 102A, and exemptions from the work test under section 105 (other than any exemption that, under regulations made under section 123D(a), is not available to a person receiving jobseeker support), that immediately before 15 July 2013 apply to a person to whom subclause (6)﻿(a) or (9)﻿(a) applies continue after 14 July 2013 in respect of sole parent support or jobseeker support to which the person is entitled under subclause (8) or (11).
+(15) A person to whom subclause (6) applies who at the close of 14 July 2013 is subject to an exemption under section 105 from some or all of his or her work test obligations on the ground in regulation 6(2)﻿(d) or (e) of the Social Security (Exemptions under Section 105) Regulations 1998 is deemed to have all of his or her work test obligations deferred under section 88I for a period that is the same as the period for which the exemption was granted under section 105.
+(16) Failures under section 115 or 116A by a person to whom subclause (6)﻿(a) or (9)﻿(a) applies, and sanctions for those failures under section 117(1)﻿(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of sole parent support or jobseeker support to which the person is entitled under subclause (8) or (11).
+(17) A person whose domestic purposes benefit under section 27B, or widow's benefit under section 21, was cancelled before 15 July 2013 under section 117(1)﻿(c) is not entitled to receive sole parent support or jobseeker support for 13 weeks from the date of cancellation.
+(18) Subclause (17) does not limit section 117(2)﻿(a).
 Clause does not apply to reciprocity agreement applicants or recipients
 (19) Subclauses (2) to (18) do not apply to a person to whom clause 3(1) or (3) applies.
 
@@ -1803,17 +1803,17 @@ Clause does not apply to reciprocity agreement applicants or recipients
 Reciprocity agreement applicants may be granted former benefit as if it had not been abolished
 (1) This subclause applies to a widow or widower who, immediately before 15 July 2013, was ordinarily resident in New Zealand or an overseas country, and had made an application pursuant to an agreement or convention given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Transitional Provisions) Act 1990 for, and had entitlement to, but had not yet in response to the application been granted,—
   (a) a widow's benefit under section 21; or
-  (b) a domestic purposes benefit under section 27B for an applicant as defined in section 27B(1)(f).
-(2) A widow or widower to whom subclause (1) applies may be granted the benefit in subclause (1)(a) or (b) (as the case requires) as if that benefit had not been abolished and as if the provisions on that benefit had not been repealed, and if granted to the widow or widower that benefit commences as it would have done had those provisions not been repealed, and continues so long as—
+  (b) a domestic purposes benefit under section 27B for an applicant as defined in section 27B(1)﻿(f).
+(2) A widow or widower to whom subclause (1) applies may be granted the benefit in subclause (1)﻿(a) or (b) (as the case requires) as if that benefit had not been abolished and as if the provisions on that benefit had not been repealed, and if granted to the widow or widower that benefit commences as it would have done had those provisions not been repealed, and continues so long as—
   (a) the widow or widower continues to meet the conditions of entitlement to that benefit in those provisions; and
   (b) the agreement or convention, or any replacement agreement or convention, continues in force in relation to New Zealand; and
   (c) the widow or widower continues to be ordinarily resident in New Zealand or the overseas country to which that agreement or convention applies.
 Reciprocity agreement recipients' entitlement continues as if former benefits not abolished
 (3) This subclause applies to a person who, immediately before 15 July 2013, was ordinarily resident in an overseas country, and was receiving, or granted and entitled to receive, pursuant to an agreement or convention given effect in relation to New Zealand by an Order in Council made pursuant to section 19 of the Social Welfare (Transitional Provisions) Act 1990,—
   (a) a widow's benefit under section 21; or
-  (b) a domestic purposes benefit under section 27B for an applicant as defined in section 27B(1)(f).
-(4) Subclause (3) applies to a person even if the benefit in subclause (3)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no benefit of the person that is continued by subclause (5) commences until the suspension or reduction would have ended, or the benefit in subclause (3)(a) or (b) would otherwise have become payable again.
-(5) A person to whom subclause (3) applies is, subject to subclause (4) and to a review under section 81, entitled to the benefit in subclause (3)(a) or (b) (as the case requires) as if that benefit had not been abolished and as if the provisions on that benefit had not been repealed, and that benefit continues so long as—
+  (b) a domestic purposes benefit under section 27B for an applicant as defined in section 27B(1)﻿(f).
+(4) Subclause (3) applies to a person even if the benefit in subclause (3)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no benefit of the person that is continued by subclause (5) commences until the suspension or reduction would have ended, or the benefit in subclause (3)﻿(a) or (b) would otherwise have become payable again.
+(5) A person to whom subclause (3) applies is, subject to subclause (4) and to a review under section 81, entitled to the benefit in subclause (3)﻿(a) or (b) (as the case requires) as if that benefit had not been abolished and as if the provisions on that benefit had not been repealed, and that benefit continues so long as—
   (a) the person continues to meet the conditions of entitlement to that benefit in those provisions; and
   (b) the agreement or convention, or any replacement agreement or convention, continues in force in relation to New Zealand; and
   (c) the person continues to be ordinarily resident in New Zealand or the overseas country to which that agreement or convention applies.
@@ -1829,33 +1829,33 @@ Applications made, but not determined, before 15 July 2013, or made after 14 Jul
 (2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the invalids' benefit, an application that is either—
   (a) an application for an invalid's benefit, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
   (b) an application for an invalid's benefit, and that is made after 14 July 2013 but before 15 August 2013.
-(3) If it is determined under subclause (2) that the applicant had an entitlement to the invalids' benefit before it was renamed, he or she must be treated as a person to whom subclause (8)(a) applies, but he or she must be granted the invalids' benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the invalids' benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the invalids' benefit would have.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the invalids' benefit before it was renamed, he or she must be treated as a person to whom subclause (8)﻿(a) applies, but he or she must be granted the invalids' benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the invalids' benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the invalids' benefit would have.
 (4) If it is determined under subclause (2) that the applicant had no entitlement to the invalids' benefit before it was renamed, the applicant's application may (without limiting section 11D(4)) be treated as an application for a supported living payment under section 40B on the ground of sickness, injury, disability, or total blindness.
 (5) An application for a domestic purposes benefit under section 27G made, but not decided or determined by the chief executive, before 15 July 2013, must after 14 July 2013 be determined under this subclause in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit.
-(6) If it is determined under subclause (5) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (15)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(6) If it is determined under subclause (5) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (15)﻿(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
 (7) If it is determined under subclause (5) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for a supported living payment under section 40D on the ground of caring for a patient requiring care.
 Transfer from invalid's benefit to supported living payment under section 40B
 (8) This subclause applies to a person who, immediately before 15 July 2013,—
   (a) was receiving, or had been granted and was entitled to receive, an invalid's benefit; or
   (b) had been granted an invalid's benefit that was subject to a stand down period under sections 80 to 80BA.
-(9) Subclause (8) applies to a person even if the benefit in subclause (8)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (10) commences until the suspension or reduction would have ended, or the benefit in subclause (8)(a) or (b) would otherwise have become payable again.
+(9) Subclause (8) applies to a person even if the benefit in subclause (8)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (10) commences until the suspension or reduction would have ended, or the benefit in subclause (8)﻿(a) or (b) would otherwise have become payable again.
 (10) A person to whom subclause (8) applies is, subject to subclauses (9) and (11) to (14) and to a review under section 81, entitled to a supported living payment under section 40B at the appropriate rate in Schedule 6 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
-  (a) on 15 July 2013, if subclause (8)(a) applies to the person; or
-  (b) at the end of the stand down period referred to in subclause (8)(b).
+  (a) on 15 July 2013, if subclause (8)﻿(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (8)﻿(b).
 Transitional and savings provisions related to transfer to supported living payment under section 40B
-(11) Obligations under section 60Q(2), and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to the spouse or partner (if any) of a person to whom subclause (8)(a) applies continue after 14 July 2013 in respect of a supported living payment under section 40B to which the person is entitled under subclause (10).
-(12) Failures under section 116A by the spouse or partner (if any) of a person to whom subclause (8)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of a supported living payment under section 40B to which the person is entitled under subclause (10).
-(13) A person whose invalid's benefit was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive a supported living payment under section 40B for 13 weeks from the date of cancellation.
-(14) Subclause (13) does not limit section 117(2)(a).
+(11) Obligations under section 60Q(2), and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to the spouse or partner (if any) of a person to whom subclause (8)﻿(a) applies continue after 14 July 2013 in respect of a supported living payment under section 40B to which the person is entitled under subclause (10).
+(12) Failures under section 116A by the spouse or partner (if any) of a person to whom subclause (8)﻿(a) applies, and sanctions for those failures under section 117(1)﻿(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of a supported living payment under section 40B to which the person is entitled under subclause (10).
+(13) A person whose invalid's benefit was cancelled before 15 July 2013 under section 117(1)﻿(c) is not entitled to receive a supported living payment under section 40B for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)﻿(a).
 Transfer from DPB for care of sick or infirm to supported living payment under section 40D
 (15) This subclause applies to a person who, immediately before 15 July 2013,—
   (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27G; or
   (b) had been granted a domestic purposes benefit under section 27G that was subject to a stand down period under sections 80 to 80BA.
-(16) Subclause (15)(a) applies, without limitation, to a domestic purposes benefit under section 27G that the person is entitled to continue to receive under the savings provision that is section 30(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012.
-(17) Subclause (15) applies to a person even if the benefit in subclause (15)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (18) commences until the suspension or reduction would have ended, or the benefit in subclause (15)(a) or (b) would otherwise have become payable again.
+(16) Subclause (15)﻿(a) applies, without limitation, to a domestic purposes benefit under section 27G that the person is entitled to continue to receive under the savings provision that is section 30(2) of the Social Security (Youth Support and Work Focus) Amendment Act 2012.
+(17) Subclause (15) applies to a person even if the benefit in subclause (15)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no supported living payment to which the person is transferred by subclause (18) commences until the suspension or reduction would have ended, or the benefit in subclause (15)﻿(a) or (b) would otherwise have become payable again.
 (18) A person to whom subclause (15) applies is, subject to subclauses (17) and (19) and to a review under section 81, entitled to a supported living payment under section 40D at the appropriate rate in Schedule 6 as if the person had applied for it, and commencing—
-  (a) on 15 July 2013, if subclause (15)(a) applies to the person; or
-  (b) at the end of the stand down period referred to in subclause (15)(b).
+  (a) on 15 July 2013, if subclause (15)﻿(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (15)﻿(b).
 Transitional and savings provisions related to transfer to supported living payment under section 40D
 (19) The following so far as they relate to a person to whom subclause (15) applies cease to exist on 15 July 2013, but the person may if considered to have the capacity to do so be required to comply with section 60Q(3):
   (a) requests under section 60HA made before 15 July 2013:
@@ -1865,7 +1865,7 @@ Transitional and savings provisions related to transfer to supported living paym
 
 ### 5 Social Security (Supported Living Payments Benefit) Regulations 1998
 The Social Security (Supported Living Payments Benefit) Regulations 1998, as renamed and amended on 15 July 2013 by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013, after 14 July 2014—
-  (a) must be treated as if they set out a period for the purposes of section 40B(2)(a); and
+  (a) must be treated as if they set out a period for the purposes of section 40B(2)﻿(a); and
   (b) may be further amended, revoked, or revoked and replaced, accordingly.
 
 ### 6 Transfer to emergency benefit of certain people 65 years old or older
@@ -1878,24 +1878,24 @@ Applications made, but not determined, before 15 July 2013, or made after 14 Jul
 (2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit, an application that is either—
   (a) an application for the unemployment benefit, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
   (b) an application for the unemployment benefit, and that is made after 14 July 2013 but before 15 August 2013.
-(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (6)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (6)﻿(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
 (4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for jobseeker support.
 (5) Requirements or consequences of failures that apply to the applicant under section 96A at the close of 14 July 2013 continue to apply to the applicant after 14 July 2013 as if they could be, and had been, imposed under sections 11E to 11G in respect of an application that under subclause (4) is treated as an application for jobseeker support.
 Transfer from unemployment benefit to jobseeker support
 (6) This subclause applies to a person who, immediately before 15 July 2013,—
   (a) was receiving, or had been granted and was entitled to receive, an unemployment benefit; or
   (b) had been granted an unemployment benefit that was subject to a stand down period under sections 80 to 80BA.
-(7) Subclause (6) applies to a person even if the benefit in subclause (6)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (8) commences until the suspension or reduction would have ended, or the benefit in subclause (6)(a) or (b) would otherwise have become payable again.
+(7) Subclause (6) applies to a person even if the benefit in subclause (6)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (8) commences until the suspension or reduction would have ended, or the benefit in subclause (6)﻿(a) or (b) would otherwise have become payable again.
 (8) A person to whom subclause (6) applies is, subject to subclauses (7) and (9) to (14) and to a review under section 81, entitled to jobseeker support at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
-  (a) on 15 July 2013, if subclause (6)(a) applies to the person; or
-  (b) at the end of the stand down period referred to in subclause (6)(b).
+  (a) on 15 July 2013, if subclause (6)﻿(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (6)﻿(b).
 Savings relating to transfer to jobseeker support
 (9) A notice given to a person under section 99AA(2) before 15 July 2013, and stating that the person's entitlement to the unemployment benefit will cease unless the person reapplies for that benefit and it is re-granted, continues in force after 14 July 2013 as if given under section 80BE(2) in respect of the jobseeker support to which the person is entitled under subclause (8).
 (10) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (6) of this clause applies is entitled under subclause (8) of this clause is the 12-month anniversary of the date on which the person's unemployment benefit commenced or, as the case may be, last commenced.
-(11) Obligations under sections 60Q(2), 97(1) and (2)(b), 102, and 102A, and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to a person to whom subclause (6)(a) applies or to his or her spouse or partner (if any) continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (8).
-(12) Failures under section 115 or 116A by a person to whom subclause (6)(a) applies or by his or her spouse or partner (if any), and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (8).
-(13) A person whose unemployment benefit was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
-(14) Subclause (13) does not limit section 117(2)(a).
+(11) Obligations under sections 60Q(2), 97(1) and (2)﻿(b), 102, and 102A, and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to a person to whom subclause (6)﻿(a) applies or to his or her spouse or partner (if any) continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (8).
+(12) Failures under section 115 or 116A by a person to whom subclause (6)﻿(a) applies or by his or her spouse or partner (if any), and sanctions for those failures under section 117(1)﻿(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (8).
+(13) A person whose unemployment benefit was cancelled before 15 July 2013 under section 117(1)﻿(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)﻿(a).
 
 ### 8 Transfer from sickness benefit to jobseeker support on 15 July 2013
 Sickness benefit abolished
@@ -1904,28 +1904,28 @@ Applications made, but not determined, before 15 July 2013, or made after 14 Jul
 (2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit, an application that is either—
   (a) an application for a sickness benefit, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
   (b) an application for a sickness benefit, and that is made after 14 July 2013 but before 15 August 2013.
-(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (5)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (5)﻿(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
 (4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for jobseeker support on the ground of sickness, injury, or disability.
 Transfer from sickness benefit to jobseeker support
 (5) This subclause applies to a person who, immediately before 15 July 2013,—
   (a) was receiving, or had been granted and was entitled to receive, a sickness benefit under section 54 or 54A; or
   (b) had been granted a sickness benefit that was subject to a stand down period under sections 80 to 80BA.
-(6) Subclause (5) applies to a person even if the benefit in subclause (5)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (7) commences until the suspension or reduction would have ended, or the benefit in subclause (5)(a) or (b) would otherwise have become payable again.
+(6) Subclause (5) applies to a person even if the benefit in subclause (5)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (7) commences until the suspension or reduction would have ended, or the benefit in subclause (5)﻿(a) or (b) would otherwise have become payable again.
 (7) A person to whom subclause (5) applies is, subject to subclauses (6) and (8) to (14) and to a review under section 81, entitled to jobseeker support on the ground of sickness, injury, or disability at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
-  (a) on 15 July 2013, if subclause (5)(a) applies to the person; or
-  (b) at the end of the stand down period referred to in subclause (5)(b).
+  (a) on 15 July 2013, if subclause (5)﻿(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (5)﻿(b).
 Savings relating to transfer to jobseeker support
 (8) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (5) applies is entitled under subclause (5) is the 12-month anniversary of the date on which the person's sickness benefit commenced or, as the case may be, last commenced.
-(9) Obligations under sections 54(7), 54E, 60Q(2), 102, and 102A, and exemptions from the work test under section 105 (other than any exemption that, under regulations made under section 123D(a), is not available to a person receiving jobseeker support), that immediately before 15 July 2013 apply to a person to whom subclause (5)(a) applies or to his or her spouse or partner (if any) continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (7).
+(9) Obligations under sections 54(7), 54E, 60Q(2), 102, and 102A, and exemptions from the work test under section 105 (other than any exemption that, under regulations made under section 123D(a), is not available to a person receiving jobseeker support), that immediately before 15 July 2013 apply to a person to whom subclause (5)﻿(a) applies or to his or her spouse or partner (if any) continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (7).
 (10) A determination, and a requirement to comply with the work test, that are made under section 54DA(1) in respect of a person to whom subclause (5) applies are, after 14 July 2013, deemed to be a determination under section 88F(2) and notice under section 88F(4) in respect of that person.
 (11) A person to whom subclause (5) applies, and in respect of whom no determination and requirement under section 54DA(1) have been made before 15 July 2013, is deemed to have been granted on 15 July 2013 a deferral under section 88I(2) of all his or her work test obligations for the rest of the period (which the chief executive must identify by reference to the medical evidence supplied to the chief executive before 15 July 2013) of the beneficiary’s limited capacity to engage in full-time employment because of sickness, injury, or disability.
-(12) Failures under section 115 or 116A by a person to whom subclause (5)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (7).
-(13) A person whose sickness benefit was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
-(14) Subclause (13) does not limit section 117(2)(a).
+(12) Failures under section 115 or 116A by a person to whom subclause (5)﻿(a) applies, and sanctions for those failures under section 117(1)﻿(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (7).
+(13) A person whose sickness benefit was cancelled before 15 July 2013 under section 117(1)﻿(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)﻿(a).
 
 ### 9 Social Security (Jobseeker Support—Medical Examinations) Regulations 2010
 The Social Security (Jobseeker Support—Medical Examinations) Regulations 2010, as renamed and amended on 15 July 2013 by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013, after 14 July 2013—
-  (a) must be treated as if they specify a kind of health practitioner for the purposes of section 88E(2)(d); and
+  (a) must be treated as if they specify a kind of health practitioner for the purposes of section 88E(2)﻿(d); and
   (b) may be further amended, revoked, or revoked and replaced, accordingly.
 
 ### 10 Transfer from DPBs for women alone to jobseeker support on 15 July 2013
@@ -1935,24 +1935,24 @@ Applications made, but not determined, before 15 July 2013, or made after 14 Jul
 (2) The chief executive must after 14 July 2013 determine under this subclause, in accordance with the applicant's entitlement immediately before 15 July 2013 to the abolished benefit, an application that is either—
   (a) an application for a domestic purposes benefit under section 27C, and that is made, but not decided or determined by the chief executive, before 15 July 2013; or
   (b) an application for a domestic purposes benefit under section 27C, and that is made after 14 July 2013 but before 15 August 2013.
-(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (6)(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
+(3) If it is determined under subclause (2) that the applicant had an entitlement to the abolished benefit, he or she must be treated as a person to whom subclause (6)﻿(a) applies, but he or she must be granted the abolished benefit in respect of a period before 15 July 2013 for which he or she had entitlement to the abolished benefit unless (because of a stand down or otherwise) it would not have commenced until after 14 July 2013, and no new benefit to which he or she is transferred by this clause commences before the abolished benefit would have.
 (4) If it is determined under subclause (2) that the applicant had no entitlement to the abolished benefit, the applicant's application may (without limiting section 11D(4)) be treated as an application for jobseeker support.
 (5) Requirements or consequences of failures that apply to the applicant under section 27CA at the close of 14 July 2013 continue to apply to the applicant after 14 July 2013 as if they could be, and had been, imposed under sections 11E to 11G in respect of an application that under subclause (4) is treated as an application for jobseeker support.
 Transfer from DPBs for women alone to jobseeker support
 (6) This subclause applies to a person who, immediately before 15 July 2013,—
   (a) was receiving, or had been granted and was entitled to receive, a domestic purposes benefit under section 27C; or
   (b) had been granted a domestic purposes benefit under section 27C that was subject to a stand down period under sections 80 to 80BA.
-(7) Subclause (6) applies to a person even if the benefit in subclause (6)(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (8) commences until the reduction or suspension would have ended, or the benefit in subclause (6)(a) or (b) would otherwise have become payable again.
+(7) Subclause (6) applies to a person even if the benefit in subclause (6)﻿(a) or (b) was, immediately before 15 July 2013, 100% reduced or suspended under section 117 or another provision of this Act, but in that case no jobseeker support to which the person is transferred by subclause (8) commences until the reduction or suspension would have ended, or the benefit in subclause (6)﻿(a) or (b) would otherwise have become payable again.
 (8) A person to whom subclause (6) applies is, subject to subclauses (7) and (9) to (14) and to a review under section 81, entitled to jobseeker support at the appropriate rate in Schedule 9 (until that benefit ends or expires, or is for any reason cancelled or terminated) as if the person had applied for it, and commencing—
-  (a) on 15 July 2013, if subclause (6)(a) applies to the person; or
-  (b) at the end of the stand down period referred to in subclause (6)(b).
+  (a) on 15 July 2013, if subclause (6)﻿(a) applies to the person; or
+  (b) at the end of the stand down period referred to in subclause (6)﻿(b).
 Savings relating to transfer to jobseeker support
 (9) Despite section 80BE(5), the expiry date of jobseeker support to which a person to whom subclause (6) applies is entitled under subclause (8) is the 12-month anniversary of the date on which the person's domestic purposes benefit under section 27C commenced or, as the case may be, last commenced.
-(10) Obligations under sections 102 and 102A, and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to a person to whom subclause (6)(a) applies continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (8).
-(11) A person to whom subclause (6) applies who at the close of 14 July 2013 is subject to an exemption under section 105 from some or all of his or her work test obligations on the ground in regulation 6(2)(d) or (e) of the Social Security (Exemptions under Section 105) Regulations 1998 is deemed to have all of his or her work test obligations deferred under section 88I for a period that is the same as the period for which the exemption was granted under section 105.
-(12) Failures under section 115 by a person to whom subclause (6)(a) applies, and sanctions for those failures under section 117(1)(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (8).
-(13) A person whose domestic purposes benefit under section 27C was cancelled before 15 July 2013 under section 117(1)(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
-(14) Subclause (13) does not limit section 117(2)(a).
+(10) Obligations under sections 102 and 102A, and exemptions from the work test under section 105, that immediately before 15 July 2013 apply to a person to whom subclause (6)﻿(a) applies continue after 14 July 2013 in respect of jobseeker support to which the person is entitled under subclause (8).
+(11) A person to whom subclause (6) applies who at the close of 14 July 2013 is subject to an exemption under section 105 from some or all of his or her work test obligations on the ground in regulation 6(2)﻿(d) or (e) of the Social Security (Exemptions under Section 105) Regulations 1998 is deemed to have all of his or her work test obligations deferred under section 88I for a period that is the same as the period for which the exemption was granted under section 105.
+(12) Failures under section 115 by a person to whom subclause (6)﻿(a) applies, and sanctions for those failures under section 117(1)﻿(a) or (b), continue after 14 July 2013 and are failures or sanctions in respect of jobseeker support to which the person is entitled under subclause (8).
+(13) A person whose domestic purposes benefit under section 27C was cancelled before 15 July 2013 under section 117(1)﻿(c) is not entitled to receive jobseeker support for 13 weeks from the date of cancellation.
+(14) Subclause (13) does not limit section 117(2)﻿(a).
 
 ### 11 Appeals, and appeal boards, under section 53A
 Appeals made, but not decided, before 15 July 2013
@@ -1989,12 +1989,12 @@ Boards appointed under section 53A
     (ii) the time when the person’s jobseeker support ends:
     (iii) the time when the person ceases to be a full-time student (as defined in section 3(1)):
     (iv) the time when the person's exception and exemption under this clause end under subclause (7).
-(6) Despite subclause (5)(b), the chief executive may, in his or her discretion, decide that the period referred to in subclause (4) does not end at the time specified in subclause (5)(b)(ii) or (iii).
-(7) The exception and exemption under subclause (4)(a) and (b) of a person to whom subclause (1) or (2) applies end under this subclause if the chief executive is satisfied at a time before 15 July 2015 that the amount of work (if any) passed by the person in any period (for example, a semester) in a course in which the person was enrolled was equivalent to half of, or less than half of, a full-time course.
+(6) Despite subclause (5)﻿(b), the chief executive may, in his or her discretion, decide that the period referred to in subclause (4) does not end at the time specified in subclause (5)﻿(b)﻿(ii) or (iii).
+(7) The exception and exemption under subclause (4)﻿(a) and (b) of a person to whom subclause (1) or (2) applies end under this subclause if the chief executive is satisfied at a time before 15 July 2015 that the amount of work (if any) passed by the person in any period (for example, a semester) in a course in which the person was enrolled was equivalent to half of, or less than half of, a full-time course.
 (8) Full-time course, in subclause (7), has the same meaning as in regulation 2(1) of the Student Allowances Regulations 1998.
 
-### 13 Residential requirements: overseas residents' entitlements under reciprocity agreements unaffected by section 74AA(1)(c)
-Nothing in section 74AA(1)(c) (as replaced on 15 July 2013) applies on or after 15 July 2013 to a benefit granted to a person pursuant to an agreement or convention with the government of another country and at a time before 15 July 2013 when—
+### 13 Residential requirements: overseas residents' entitlements under reciprocity agreements unaffected by section 74AA(1)﻿(c)
+Nothing in section 74AA(1)﻿(c) (as replaced on 15 July 2013) applies on or after 15 July 2013 to a benefit granted to a person pursuant to an agreement or convention with the government of another country and at a time before 15 July 2013 when—
   (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in the agreement or convention set out in a schedule of the order had force and effect so far as they relate to New Zealand; and
   (b) the person is ordinarily resident in that country.
 
@@ -2006,12 +2006,12 @@ Nothing in section 74AA(1)(c) (as replaced on 15 July 2013) applies on or after 
 
 ### 15 Saving of failures and sanctions not saved by other clauses
 (1) This clause applies to a person's failure before 15 July 2013 if it is—
-  (a) a failure under section 115(1)(a) (to comply with work test obligations in sections 102 and 102A); or
-  (b) a failure under section 115(1)(b) (for a beneficiary granted an exemption from the work test, to attend an interview as required under section 105(5)); or
+  (a) a failure under section 115(1)﻿(a) (to comply with work test obligations in sections 102 and 102A); or
+  (b) a failure under section 115(1)﻿(b) (for a beneficiary granted an exemption from the work test, to attend an interview as required under section 105(5)); or
   (c) a failure before 20 August 2012 under section 115A (to comply with independent youth benefits obligations under section 60GAB); or
   (d) a failure under section 116A (to comply with work preparation obligations under section 60Q(2) (as replaced on 15 October 2012)); or
-  (e) a failure that, under section 171(3)(a), is a failure to comply with the work test for the purposes of section 117 because it is a failure by a young person (as defined in section 157) who is the spouse or partner of a specified beneficiary (as so defined) to comply with obligations placed on that young person under section 171; or
-  (f) a failure that, under section 171(3)(b), is a failure to comply with section 60Q(2) (as replaced on 15 October 2012) for the purposes of section 116A because it is a failure by a young person (as defined in section 157) who is the spouse or partner of a specified beneficiary (as so defined) to comply with obligations placed on that young person under section 171.
+  (e) a failure that, under section 171(3)﻿(a), is a failure to comply with the work test for the purposes of section 117 because it is a failure by a young person (as defined in section 157) who is the spouse or partner of a specified beneficiary (as so defined) to comply with obligations placed on that young person under section 171; or
+  (f) a failure that, under section 171(3)﻿(b), is a failure to comply with section 60Q(2) (as replaced on 15 October 2012) for the purposes of section 116A because it is a failure by a young person (as defined in section 157) who is the spouse or partner of a specified beneficiary (as so defined) to comply with obligations placed on that young person under section 171.
 (2) The failure and any related sanction under section 117 before 15 July 2013 both continue to count for determining the number of failures of the person, and every appropriate related sanction under section 117, after 14 July 2013.
 (3) This clause does not limit any other provisions of this schedule that save or transfer obligations, failures, or sanctions that applied to a person immediately before 15 July 2013.
 
@@ -2027,10 +2027,10 @@ Nothing in section 74AA(1)(c) (as replaced on 15 July 2013) applies on or after 
   (a) facilitating or ensuring the orderliness of the transition to the amendments made to this Act by the Social Security (Benefit Categories and Work Focus) Amendment Act 2013:
   (b) ensuring that existing rights or obligations continue as part of, or despite, that transition.
 (2) The Minister must not recommend the making of regulations under subclause (1) unless satisfied that those regulations—
-  (a) are reasonably necessary for either or both of the purposes in subclause (1)(a) and (b); and
+  (a) are reasonably necessary for either or both of the purposes in subclause (1)﻿(a) and (b); and
   (b) are consistent with the purposes of this Act.
 (3) The transitional provisions or savings provisions prescribed by regulations under subclause (1) may be provisions in addition to or instead of clauses 2 to 16, and may—
   (a) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions (including definitions) of those amendments to this Act do not apply, or apply with modifications or additions:
   (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments to this Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
-  (c) provide for any other matter necessary for either or both of the purposes in subclause (1)(a) and (b).
+  (c) provide for any other matter necessary for either or both of the purposes in subclause (1)﻿(a) and (b).
 (4) No regulations made under this clause may be made, or continue in force, after the close of 14 July 2016.
