@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -1256,8 +1256,8 @@ For the purpose of calculating how much time an offender has served on a sentenc
 ### 69L When sentence ends on non-release day
 If the last day of an offender's sentence of community detention falls on a non-release day, the offender ceases to be subject to the sentence on the nearest preceding day that is not a non-release day.
 
-### 69M Community detention does not affect entitlements under Social Security Act 1964
-The fact that a person is serving a sentence of community detention does not, of itself, affect any entitlement the person may have under the Social Security Act 1964.
+### 69M Community detention does not affect entitlements under Social Security Act 2018
+The fact that a person is serving a sentence of community detention does not, of itself, affect any entitlement the person may have under the Social Security Act 2018.
 
 **Offences related to community-based sentences**
 
@@ -1821,8 +1821,8 @@ For the purpose of calculating how much time an offender who is subject to a sen
 ### 80ZD Offender must be given copy of new or amended order
 If an offender's detention conditions or post-detention conditions are varied or discharged, the offender must be given a copy of the new or amended order that shows the conditions as varied or discharged, and the provisions of this section and section 80ZC apply.
 
-### 80ZE Home detention does not affect entitlements under Social Security Act 1964
-The fact that a person is serving a sentence of home detention does not, of itself, affect any entitlement the person may have under the Social Security Act 1964.
+### 80ZE Home detention does not affect entitlements under Social Security Act 2018
+The fact that a person is serving a sentence of home detention does not, of itself, affect any entitlement the person may have under the Social Security Act 2018.
 
 ### 80ZF Application of Accident Compensation Act 2001 to persons serving home detention sentence
 When an offender performs any service or does any work or attends any assessment, course, or programme for the purposes of a home detention sentence, the following provisions apply:
