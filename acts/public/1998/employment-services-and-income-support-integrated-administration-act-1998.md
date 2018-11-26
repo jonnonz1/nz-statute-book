@@ -1,5 +1,5 @@
 # Employment Services and Income Support (Integrated Administration) Act 1998
-_Consolidation as at 1999-10-01_
+_Consolidation as at 2018-11-26_
 
 > An Act—ato provide for the integration of employment services and income support services; andbto facilitate the transfer of the administration of the Social Security Act 1964 and of functions under certain other enactments; andcto amend related enactments and to provide for related matters
 
@@ -48,7 +48,7 @@ No employee of the Department of Social Welfare or the Department of Labour who 
 (4) If, before the commencement of this Act, any person has applied under section 10A of the Social Security Act 1964 for a review of any decision made under that Act or the Social Welfare (Transitional Provisions) Act 1990,—
   (a) the review may be continued and completed as if the chief executive of the responsible department were a party to the review, and the chief executive is bound by the decision made on the review; and
   (b) if a Benefits Review Committee had not been constituted for the review before the commencement of this Act, the Committee is to consist of—
-    (i) 1 person referred to in section 10A(3)(a) of the Social Security Act 1964; and
+    (i) 1 person referred to in section 10A(3)﻿(a) of the Social Security Act 1964; and
     (ii) 2 officers of the responsible department who are appointed by the chief executive.
 (5) If, before the commencement of this Act, any person has—the appeal may be continued and completed as if the chief executive of the responsible department were a party to the appeal instead of the Director-General of Social Welfare, and (subject to section 12Q or section 12R of the Social Security Act 1964) the chief executive is bound by the decision made on the appeal.
   (a) exercised a right of appeal under section 12J or section 53A of the Social Security Act 1964; or
@@ -69,7 +69,7 @@ All names, brands, stamps, logos, emblems, marks, forms, and other representatio
 
 ### 9 Saving of certain appointments
 Nothing in this Act affects the appointment of any person as—
-  (a) a community representative on a Benefits Review Committee under section 10A(3)(a) of the Social Security Act 1964; or
+  (a) a community representative on a Benefits Review Committee under section 10A(3)﻿(a) of the Social Security Act 1964; or
   (b) a member of a medical appeal board under section 53A of the Social Security Act 1964; or
   (c) the medical member of the War Pensions Advisory Board under section 5A of the War Pensions Act 1954 or a deputy member under section 5E of that Act; or
   (d) a member of the War Pensions Appeal Board under section 8 of the War Pensions Act 1954 or a deputy member under section 10 of that Act; or
