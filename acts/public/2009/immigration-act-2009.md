@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -3789,7 +3789,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
 [Repealed]
 
 ### 298 Information matching to verify social security benefit matters
-(1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the Social Security Act 1964 (the responsible department) for the purposes of verifying—
+(1) The purpose of this section is to facilitate the disclosure of information between the Department and the department of State for the time being responsible for the administration of the Social Security Act 2018 (the responsible department) for the purposes of verifying—
   (a) the entitlement or eligibility of any person to or for any benefit; or
   (b) the amount of any benefit to which any person is or was entitled or for which any person is or was eligible.
 (2) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, make arrangements between them in writing for the disclosure of information under this section and, in accordance with those arrangements, the chief executive of the responsible department may supply to the chief executive of the Department identifying information about any person who has applied to receive, is receiving, or has received a benefit.
@@ -3827,9 +3827,10 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (c) the method by which information may be supplied.
 (7) In this section,—
   - **authorised officer** means an officer, employee, or agent of the responsible department who is authorised by the chief executive of that department to receive information from the chief executive of the Department in accordance with this section
-  - **benefit** has the same meaning as in section 3(1) of the Social Security Act 1964 but includes—
-    (a) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act; and
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) of that Act
+  - **benefit** means any of the following:
+    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
+    (b) a funeral grant lump sum payable under section 90 of that Act:
+    (c) any special assistance payable under a programme approved under section 100 or 101 of that Act
   - **identifying information** , in relation to a person, includes—
     (a) the person's full name and gender:
     (b) any aliases known to the responsible department to be used by the person:
@@ -3837,7 +3838,7 @@ For the purposes of this Act, a constable has all the powers of an immigration o
     (d) the person's address.
 
 ### 299 Information matching to recover costs of visa holder's social security benefit from sponsor
-(1) The purpose of this section is to facilitate the disclosure of information between the department of State for the time being responsible for the administration of the Social Security Act 1964 (the responsible department) and the Department for the purpose of enabling the Department to recover from a sponsor (as defined in section 48 of this Act) the costs of any benefit paid to a person that are recoverable under an undertaking given by the sponsor under that section in accordance with section 55.
+(1) The purpose of this section is to facilitate the disclosure of information between the department of State for the time being responsible for the administration of the Social Security Act 2018 (the responsible department) and the Department for the purpose of enabling the Department to recover from a sponsor (as defined in section 48 of this Act) the costs of any benefit paid to a person that are recoverable under an undertaking given by the sponsor under that section in accordance with section 55.
 (2) The chief executive of the Department and the chief executive of the responsible department may, for the purposes of this section, make arrangements between them in writing for the disclosure of information under this section and, in accordance with those arrangements, the chief executive of the Department may supply to the chief executive of the responsible department identifying information about any person in respect of whom an undertaking relating to the payment of a benefit has been given under section 48 of this Act.
 (3) The chief executive of the responsible department may—
   (a) compare any information he or she receives under subsection (2) with any information held by the responsible department that relates to the person; and
@@ -3857,9 +3858,10 @@ For the purposes of this Act, a constable has all the powers of an immigration o
   (c) the method by which information may be supplied.
 (6) In this section,—
   - **authorised officer** means an officer, employee, or agent of the Department who is authorised by the chief executive of the Department to receive information from the chief executive of the responsible department in accordance with this section
-  - **benefit** has the same meaning as in section 3(1) of the Social Security Act 1964 but includes—
-    (a) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act; and
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) of that Act
+  - **benefit** means any of the following:
+    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
+    (b) a funeral grant lump sum payable under section 90 of that Act:
+    (c) any special assistance payable under a programme approved under section 100 or 101 of that Act
   - **identifying information** , in relation to a person, includes—
     (a) the person's full name and gender:
     (b) any aliases known to the Department to be used by the person:
