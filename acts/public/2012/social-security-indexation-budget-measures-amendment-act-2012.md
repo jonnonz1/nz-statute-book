@@ -1,5 +1,5 @@
 # Social Security (Indexation—Budget Measures) Amendment Act 2012
-_Consolidation as at 2012-10-23_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Indexation—Budget Measures) Amendment Act 2012.
