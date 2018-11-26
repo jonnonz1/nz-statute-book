@@ -1,5 +1,5 @@
 # Family Proceedings Act 1980
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 > An Act to revise the law relating to matrimonial and domestic proceedings
 
@@ -41,11 +41,10 @@ In this Act, unless the context otherwise requires,—
   - **DNA profile** , in relation to a person (), means information derived from an analysis of a sample of genetic material obtained from person A, being information—
     (a) that is clearly identifiable as relating to person A; and
     (b) that is able to be compared with information obtained from an analysis (using the same technique) of another sample of genetic material obtained from another person (person B) for the purpose of determining, with reasonable certainty, whether or not the relationship of natural parent and child exists between person A and person B
-  - **domestic benefit** —
-    (a) means—
-      (i) a benefit granted under section 27B or section 27C of the Social Security Act 1964; or
-      (ii) a benefit which is granted under section 61 of the Social Security Act 1964 and which corresponds to a benefit granted under section 27B or section 27C of that Act; and
-    (b) includes a benefit described in paragraph (a)﻿(i) or (ii) as increased by a child supplement under section 61A of the Social Security Act 1964
+  - **domestic benefit** means a benefit that is—
+    (a) sole parent support granted under the Social Security Act 2018; or
+    (b) jobseeker support granted under the Social Security Act 2018; or
+    (c) an emergency benefit granted under that Act, and that corresponds to a benefit in paragraph (a) or (b)
   - **Family Court** means the division of the District Court known, in accordance with section 4 of the Family Court Act 1980, as the Family Court
   - **Family Court Judge** means a Family Court Judge appointed under section 5 of the Family Court Act 1980; and includes the Principal Family Court Judge
   - **interim order** , in relation to maintenance, means an order made under section 82
@@ -677,7 +676,7 @@ Every application under section 79 shall be heard and determined in the Family C
 **Miscellaneous provisions as to maintenance**
 
 ### 91 Reports as to maintenance
-(1) In any proceedings under this Act relating to maintenance, the court may request any officer of the department for the time being responsible for the administration of the Social Security Act 1964 to submit to the court a report in writing on the means, earning capacity, and economic circumstances of a party to the proceedings, and on any matter relevant thereto.
+(1) In any proceedings under this Act relating to maintenance, the court may request any officer of the department for the time being responsible for the administration of the Social Security Act 2018 to submit to the court a report in writing on the means, earning capacity, and economic circumstances of a party to the proceedings, and on any matter relevant thereto.
 (2) The officer shall report accordingly.
 (3) The Registrar of the court shall give a copy of the report to every barrister or solicitor appearing for a party in the proceedings or, in the case of a party who is not represented by a barrister or solicitor, to the party.
 (4) Any party may tender evidence on any matter referred to in the report.
@@ -757,8 +756,13 @@ Where any person by whom maintenance is payable under 2 or more maintenance orde
 ### 101A Deductions from benefits
 [Repealed]
 
-### 101B Power to issue deduction notices under Social Security Act 1964
-Without limiting section 101 or section 110 (as saved by section 259(1) of the Child Support Act 1991), where any payment under a maintenance order is in arrear and unpaid, the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may issue a deduction notice under section 86A of the Social Security Act 1964 to any person (other than the employer of the person against whom the order was made in the capacity of the employer of that person) as if the payment in arrear and unpaid were a debt due to the Crown under that Act.
+### 101B Power to issue deduction notices under Social Security Act 2018
+(1) This section applies to a payment—
+  (a) under a maintenance order; and
+  (b) that is in arrear and unpaid.
+(2) The chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 may issue a deduction notice under regulations made under section 444 of that Act to a person as if the payment in arrear and unpaid were a debt due to the Crown under that Act.
+(3) However, the deduction notice cannot be issued to the employer of, acting in the capacity of the employer of, the person against whom the order was made.
+(4) This section does not limit section 101 or section 110 (as saved by section 259(1) of the Child Support Act 1991).
 
 ### 102 Bankruptcy
 [Repealed]
