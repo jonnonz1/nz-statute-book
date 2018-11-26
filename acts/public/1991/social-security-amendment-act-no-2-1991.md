@@ -1,5 +1,5 @@
 # Social Security Amendment Act (No 2) 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964
 
@@ -15,7 +15,7 @@ _Consolidation as at 2007-09-03_
 
 ### 4 Domestic purposes benefits for sole parents
 (1) This subsection substituted a new paragraph for para (a) of s 27B(2) of the principal Act.
-(2) Notwithstanding the provisions of section 27B(2)(a) of the principal Act (as substituted by subsection (1) of this section), a person who is under the age of 18 years but who would otherwise be entitled to receive a domestic purposes benefit, shall be entitled to receive a domestic purposes benefit if he or she was a sole parent in receipt of a benefit immediately before the commencement of this section.
+(2) Notwithstanding the provisions of section 27B(2)﻿(a) of the principal Act (as substituted by subsection (1) of this section), a person who is under the age of 18 years but who would otherwise be entitled to receive a domestic purposes benefit, shall be entitled to receive a domestic purposes benefit if he or she was a sole parent in receipt of a benefit immediately before the commencement of this section.
 
 ### 5
 [Repealed]
