@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -1201,14 +1201,14 @@ In sections 155 to 161, unless the context otherwise requires,—
   - **employer** , in relation to a judgment debtor, includes—
     (a) a person by whom a retiring allowance or pension or other payment of a similar nature is payable to the judgment debtor:
     (b) the Accident Compensation Corporation in respect of weekly compensation payable to the judgment debtor under the Accident Compensation Act 2001:
-    (c) the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 in respect of a benefit payable to the judgment debtor
+    (c) the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 in respect of a benefit payable to the judgment debtor
   - **salary or wages** includes—
     (a) a retiring allowance or other payment of a similar nature:
     (b) a bonus or an incentive payment:
     (c) a payment of commission:
     (d) a payment in consideration of work performed under a contract for services:
     (e) all payments of weekly compensation made under the Accident Compensation Act 2001 by the Accident Compensation Corporation:
-    (f) a benefit within the meaning of the Social Security Act 1964.
+    (f) a benefit as defined in Schedule 2 of the Social Security Act 2018.
 
 ### 155 Attachment orders
 (1) The court may make an attachment order to enforce a judgment or an order for the payment of money—
@@ -1238,10 +1238,10 @@ An attachment order must be in a form approved by the chief executive and must s
   (c) is subject to any charge created by an attachment order under the Family Proceedings Act 1980 or the Summary Proceedings Act 1957 and to any item referred to in subsection (5)﻿(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
   (d) prevails over and has priority to any assignment or charge created by the judgment debtor (whether before or after the making of the attachment order under this Act) so that the attachment order has the same effect as if no such assignment or charge had been made or created by the judgment debtor.
 (3) Despite subsections (1) and (2), no attachment order is to operate so that, when its effect is considered either alone or with the effect of any item referred to in subsection (5), the net amount paid to a judgment debtor for an earnings period is below the protected earnings rate for the earnings period and, where necessary, the amount to be deducted from the judgment debtor's salary or wages for the earnings period is treated as being reduced or cancelled accordingly.
-(4) Nothing in section 84 of the Social Security Act 1964 applies to an attachment order.
+(4) Nothing in sections 293 and 417 (benefits to be inalienable) of the Social Security Act 2018 applies to an attachment order.
 (5) The items are—
-  (a) a deduction notice under the Child Support Act 1991, the Family Proceedings Act 1980, the Social Security Act 1964, or the Tax Administration Act 1994:
-  (b) a deduction for the recovery of payments under section 86 of the Social Security Act 1964:
+  (a) a deduction notice under the Child Support Act 1991, the Family Proceedings Act 1980, the Social Security Act 2018, or the Tax Administration Act 1994:
+  (b) a deduction under regulations made under section 444 of the Social Security Act 2018:
   (c) a charge created by an attachment order under this or any other Act.
 (6) In this section,—
   - **net earnings** , in relation to an earnings period, means the balance left after deducting from the judgment debtor's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if the salary or wages are the only salary or wages paid to the judgment debtor by the employer for the earnings period
@@ -1281,7 +1281,7 @@ An employer commits an offence, and is liable on conviction to a fine not exceed
     (e) includes a person to whom any retiring allowance or pension or other payment of a similar nature is payable out of the Government Superannuation Fund or the National Provident Fund.
 (2) Sections 155 to 159 and 161 bind the Crown to the extent of and subject to subsections (3) and (4).
 (3) If the judgment debtor is a servant of the Crown, an attachment order may be made against the Crown as employer.
-(4) Where the judgment debtor is entitled to a benefit within the meaning of the Social Security Act 1964, an attachment order may be made against the chief executive of the department for the time being responsible for the administration of that Act, and—
+(4) Where the judgment debtor is entitled to a benefit as defined in Schedule 2 of the Social Security Act 2018, an attachment order may be made against the chief executive of the department for the time being responsible for the administration of that Act, and—
   (a) service of the order must be effected—
     (i) by leaving a copy of the order at, or sending a copy of the order by post to, either the district office of the department nearest to the judgment debtor's place of residence or an address notified by the chief executive of the department to the chief executive; or
     (ii) by sending the order by email or other electronic means to an email address notified by the chief executive of the department to the chief executive of the Ministry of Justice; and
