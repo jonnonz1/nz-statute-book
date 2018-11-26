@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -495,9 +495,9 @@ An instrument that determines or alters the temporal application of rights or ob
 (2) A confirmable instrument is an annual confirmable instrument for the purposes of this Act if all or a portion of the instrument is made under all or any of the following sections:
   (a) section 15(2) of the New Zealand Superannuation and Retirement Income Act 2001:
   (b) section 30(2) of the New Zealand Superannuation and Retirement Income Act 2001:
-  (c) section 61H(1) (apart from, or with, clause 3(6) of Schedule 32) of the Social Security Act 1964:
-  (d) section 61HA(2) (apart from, or with, clause 3(6) of Schedule 32) of the Social Security Act 1964:
-  (e) section 61I(1) of the Social Security Act 1964:
+  (c) section 423(1)﻿(c) of the Social Security Act 2018:
+  (d) section 452(1) (apart from, or with, clause 55(6) of Schedule 1) of the Social Security Act 2018:
+  (e)
   (f) section 190(2) of the Veterans’ Support Act 2014.
 
 ### 47C Instruments revoked unless confirmed
@@ -1148,9 +1148,8 @@ Every matter approved or prescribed under this Act that is required to be publis
 | Primary Products Marketing Act 1953 | 3(1) |
 | Reserve Bank of New Zealand Act 1989 | 152 and 173—restriction: only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5 |
 | Road User Charges Act 2012 | 85(1) |
-| Social Security Act 1964 | 61H(1) (apart from, or with, cl 3(6) of Schedule 32) |
-| Social Security Act 1964 | 61HA(2) (apart from, or with, cl 3(6) of Schedule 32) |
-| Social Security Act 1964 | 61I(1) |
+| Social Security Act 2018 | 423(1)﻿(c) |
+| Social Security Act 2018 | 452(1) (apart from, or with, cl 55(6) of Schedule 1) |
 | Tariff Act 1988 | 9 |
 | Tax Administration Act 1994 | 225B(1)﻿(a) |
 | Tax Administration Act 1994 | 225B(1)﻿(b) |
