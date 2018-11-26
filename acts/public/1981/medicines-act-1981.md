@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -686,7 +686,7 @@ Notwithstanding sections 17 and 20 to 24 or anything in any licence, but subject
 (5) Nothing in section 24 prevents—
   (a) a pharmacist employed in a hospital in the course of that pharmacist's employment as a pharmacist in that hospital, selling a medicine imported by the Crown under subsection (1) or supplying it by way of gift or loan or sample or in any other way:
   (b) any other pharmacist, in any pharmacy, selling a medicine imported by the Crown under subsection (1), or supplying it by way of gift or loan or sample or in any other way.
-(6) Nothing in subsection (5) affects a duty or obligation imposed on a pharmacist in relation to the sale, supply, or dispensing of a medicine under the Social Security Act 1964.
+(6)
 (7) The powers conferred by this section to do anything in respect of a medicine include the power to do likewise in respect of any advertising material, container, label, labelling material, or package (as those terms are defined in section 2), or a data sheet or other written or printed material, relating to that medicine.
 (8) In this section the term sell includes the matters specified in paragraphs (a) to (c) of the definition of that term in section 2.
 
