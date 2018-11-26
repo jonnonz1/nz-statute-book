@@ -1,5 +1,5 @@
 # Inquiries Act 2013
-_Consolidation as at 2018-10-31_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Inquiries Act 2013.
@@ -371,7 +371,7 @@ Sections 2 and 15 of the Commissions of Inquiry Act 1908 are repealed.
 (1) This Act does not apply to a Royal commission that has not completed its functions and obligations before the commencement of this Act.
 (2) The Commissions of Inquiry Act 1908 continues to apply to—
   (a) any commission of inquiry or Royal commission appointed under that Act that has not completed its functions and obligations before the commencement of this Act; and
-  (b) any entity that is or may be established under an enactment enacted before the commencement of this Act, including those listed in Schedule 1, and that derives powers from the Commissions of Inquiry Act 1908.
+  (b) any entity that is or may be established under an enactment that is, or that (with or without modification) corresponds to or replaces, an enactment enacted before the commencement of this Act, including those listed in Schedule 1, and that derives powers from the Commissions of Inquiry Act 1908.
 
 ### 39 Consequential amendments to other Acts
 The Acts specified in Schedule 2 are amended in the manner indicated in that schedule.
@@ -421,7 +421,7 @@ The Acts specified in Schedule 2 are amended in the manner indicated in that sch
 | Sale of Liquor Act 1989 | s 110 |
 | Secondhand Dealers and Pawnbrokers Act 2004 | s 27 |
 | Shipping Act 1987 | s 5 |
-| Social Security Act 1964 | s 12M |
+| Social Security Act 2018 | Schedule 8, clause 12 |
 | Soil Conservation and Rivers Control Act 1941 | s 33A |
 | Soil Conservation and Rivers Control Amendment Act 1946 | s 9 |
 | Taupiri Drainage and River District Act 1929 | ss 3, 11 |
