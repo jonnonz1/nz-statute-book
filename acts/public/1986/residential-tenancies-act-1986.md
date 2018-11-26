@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -479,15 +479,15 @@ The chief executive must make any payments of a bond under section 22, 22A, or 2
   (d) the location of the premises to which the bond relates.
 (3) To avoid doubt, this section applies to all bond money held by the chief executive, whenever it is received.
 
-### 22E Social Welfare may disclose address information for bond refund purposes
+### 22E MSD may disclose address information for bond refund purposes
 (1) In this section, unless the context otherwise requires,—
   - **address information** , in relation to a person, means the last known address and (if available) the telephone number of the person
-  - **Social Welfare** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964.
-(2) The purpose of this section is to facilitate the disclosure of address information by Social Welfare to the department to enable the chief executive to locate persons who are entitled to bonds to which section 22D(1) applies and that the chief executive continues to hold despite previous attempts to refund them.
-(3) If the chief executive is satisfied that reasonable steps have been taken, under section 22D, to refund a bond but that those steps have not been successful, the chief executive may, for the purposes of this section, request Social Welfare, in accordance with arrangements made with the chief executive of Social Welfare,—
-  (a) to ascertain whether Social Welfare holds any address information about any person entitled to the bond who is named in the request; and
+  - **MSD** means the department of State that, with the Prime Minister’s authority, is for the time being responsible for the administration of the Social Security Act 2018.
+(2) The purpose of this section is to facilitate the disclosure of address information by MSD to the department to enable the chief executive to locate persons who are entitled to bonds to which section 22D(1) applies and that the chief executive continues to hold despite previous attempts to refund them.
+(3) If the chief executive is satisfied that reasonable steps have been taken, under section 22D, to refund a bond but that those steps have not been successful, the chief executive may, for the purposes of this section, request MSD, in accordance with arrangements made with the chief executive of MSD,—
+  (a) to ascertain whether MSD holds any address information about any person entitled to the bond who is named in the request; and
   (b) if that is the case, to supply that information to the department.
-(4) On receipt of a request made under subsection (3), Social Welfare may supply the information requested to any officer or employee of the department who is authorised to receive that information.
+(4) On receipt of a request made under subsection (3), MSD may supply the information requested to any officer or employee of the department who is authorised to receive that information.
 
 ### 23 Rent in advance
 (1) A landlord shall not require the payment of any rent—
@@ -595,7 +595,7 @@ The Tribunal may, on application by the landlord, make an order increasing the r
 (4) Nothing in subsection (1) shall apply—
   (a) to any rent paid out of a bank account in the name of the tenant by automatic payment through the bank or by way of a non-negotiable personal cheque or other similar non-negotiable instrument drawn on that account; or
   (b) to any rent paid by the tenant into any account nominated by the landlord and operated by the landlord exclusively in respect of the tenancy, or exclusively in respect of the tenancy and any other tenancies of the landlord; or
-  (c) to any rent paid by way of deduction from the tenant's pay, or from any benefit to which the tenant is entitled under the Social Security Act 1964, and paid into a bank account nominated by the landlord.
+  (c) to any rent paid by way of deduction from the tenant's pay, or from any benefit to which the tenant is entitled under the Social Security Act 2018, and paid into a bank account nominated by the landlord.
 (5) Failure to give a receipt or written statement in accordance with this section is hereby declared to be an unlawful act.
 
 ### 30 Landlord to keep records
