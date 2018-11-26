@@ -1,5 +1,5 @@
 # Social Security Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 (1) This Act is the Social Security Amendment Act 2001.
@@ -22,14 +22,14 @@ The purpose of this Act is to amend the Social Security Act 1964 to—
 
 ### 4 Sections 47 to 51 and heading repealed
 (1) The principal Act is amended by repealing sections 47 to 51 (which relate to work capacity assessment), and the heading immediately above section 47.
-(2) The principal Act is consequentially amended by repealing sections 12J(3), 53A(1)(bb), and 132E.
+(2) The principal Act is consequentially amended by repealing sections 12J(3), 53A(1)﻿(bb), and 132E.
 (3) The Social Security Amendment Act 1998 is consequentially amended by repealing sections 15(1), 16(1) and (4), and 17.
 
 ## Part 1 — Amendments to principal Act coming into force on 1 April 2001
 
 ### 5 General specification of organised activities
-(1) Section 110(3)(f) of the principal Act is amended by omitting the words (including community work).
-(2) Section 110(3) is amended by inserting, after paragraph (h), the following paragraph:.
+(1) Section 110(3)﻿(f) of the principal Act is amended by omitting the words (including community work).
+(2) Section 110(3) is amended by inserting, after paragraph (h), the following paragraph:
   (ha) participation in a recognised community activity, which is participation in either of the following:
     (i) activity in the community, which is an activity associated with a community project under the supervision of a sponsor who is contracted by the chief executive to provide that activity:
     (ii) voluntary work, which is work undertaken for no remuneration (other than any reimbursement of direct expenses) for a non-profit community organisation or other person, and that is of benefit to the community; but does not include activities in the community, or work undertaken as part of a work experience or work exploration activity:
@@ -62,11 +62,11 @@ Section 118 of the principal Act is amended by inserting, after subsection (1), 
 ## Part 2 — Further amendments to principal Act coming into force on 1 April 2001
 
 ### 11 Rates of benefits, etc, may be increased by Order in Council
-Section 61H(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:.
-  (aa) amend section 69C(1)(c); and
+Section 61H(1) of the principal Act is amended by inserting, after paragraph (a), the following paragraph:
+  (aa) amend section 69C(1)﻿(c); and
 
 ### 12 Disability allowance
-Section 69C(1)(c) of the principal Act is amended by—
+Section 69C(1)﻿(c) of the principal Act is amended by—
   (a) omitting the word it, and substituting the words the income less 4.25% of that income:
   (b) omitting the words any one of the benefits referred to in paragraph (a) of this subsection, and substituting the words an invalid's benefit.
 
@@ -77,13 +77,13 @@ Section 69C(1)(c) of the principal Act is amended by—
 ### 13 Interpretation
 (1) Section 3(1) of the principal Act is amended by omitting from paragraph (a) of the definition of benefit the words of this Act, and substituting the words or Part 2.
 (2) Section 3(1) of the principal Act is amended by repealing paragraph (aa) of the definition of benefit.
-(3) Section 3(1) of the principal Act is amended by repealing paragraph (a) of the definition of income-tested benefit, and substituting the following paragraphs:.
+(3) Section 3(1) of the principal Act is amended by repealing paragraph (a) of the definition of income-tested benefit, and substituting the following paragraphs:
   (a) an unemployment benefit:
   (aa) a sickness benefit:
 (4) Section 3(1) of the principal Act is amended by omitting from paragraph (a) of the definition of work-test married rate the words a community wage, and substituting the words an unemployment benefit or a sickness benefit.
-(5) Section 3(1) of the principal Act is amended by repealing paragraph (a) of the definition of work-tested beneficiary, and substituting the following paragraph:.
+(5) Section 3(1) of the principal Act is amended by repealing paragraph (a) of the definition of work-tested beneficiary, and substituting the following paragraph:
   (a) a person granted an unemployment benefit; or
-(6) Section 3(1) of the principal Act is amended by repealing paragraph (a) of the definition of work-tested benefit, and substituting the following paragraph:.
+(6) Section 3(1) of the principal Act is amended by repealing paragraph (a) of the definition of work-tested benefit, and substituting the following paragraph:
   (a) an unemployment benefit; or
 (7) Section 3(1) of the principal Act is amended by inserting in paragraph (e) of the definition of work-tested benefit, after the word includes, the words a sickness benefit,.
 (8) Section 3(1) of the principal Act is amended by omitting from paragraph (c) of the definition of work-tested spouse the words a community wage earner, or a person granted, and substituting the words a person granted an unemployment benefit, a sickness benefit, or.
@@ -104,7 +104,7 @@ The principal Act is amended by inserting, after the heading Sickness Benefits (
     (a) No income; or
     (b) an income of less than the amount that would fully abate the benefit.
   (5) Nothing in subsection (4) affects the entitlement of a person to receive a sickness benefit if, during a temporary period, the person has income sufficient to fully abate the benefit but otherwise fulfils the conditions of entitlement to the benefit.
-  (6) For the purposes of subsection (1)(b), any payment made by a person to any other person who acts as his or her substitute during a period of sickness or injury may be treated as a loss of earnings by the first-mentioned person.
+  (6) For the purposes of subsection (1)﻿(b), any payment made by a person to any other person who acts as his or her substitute during a period of sickness or injury may be treated as a loss of earnings by the first-mentioned person.
   (1) The chief executive may grant a sickness benefit under section 54 to a person who meets the criteria in subsections (1) and (2) of that section, but who does not meet the other criteria set out in that section, if—
     (a) the person is suffering hardship; and
     (b) the person is not qualified to receive any other benefit; and
@@ -155,44 +155,44 @@ The principal Act is amended by inserting, after the heading Sickness Benefits (
 
 ### 15 Consequential amendments relating to sickness benefit
 (1) The principal Act is consequentially amended by omitting from each of the following provisions the words community wage on the grounds of sickness, injury, or disability, and substituting in each case the words sickness benefit:
-  (a) section 12J(2)(e):
-  (b) section 53A(1)(ba):
+  (a) section 12J(2)﻿(e):
+  (b) section 53A(1)﻿(ba):
   (c) section 66(1):
   (d) the second proviso to section 72(b).
-(2) Section 53A(1)(ba) of the principal Act is amended by omitting the words person's community wage, and substituting the words person's sickness benefit.
+(2) Section 53A(1)﻿(ba) of the principal Act is amended by omitting the words person's community wage, and substituting the words person's sickness benefit.
 (3) The principal Act is consequentially amended by omitting from each of the following sections the words a community wage wherever they appear, and substituting in each case the words an unemployment benefit or a sickness benefit:
   (a) section 61(1):
   (b) section 61E(1):
-  (c) section 69C(1)(a) and (5)(a):
+  (c) section 69C(1)﻿(a) and (5)﻿(a):
   (d) section 77(2) and (3):
   (e) section 80BD(3).
 (4) Section 60FD of the principal Act is consequentially amended by omitting the words Sections 92(1) to (3) and 97(3), and substituting the expression Section 54B(1) to (3).
 (5) Section 60FD of the principal Act is consequentially amended by omitting the words community wage, and substituting the words sickness benefit.
-(6) Section 60H(1) of the principal Act is consequentially amended by repealing paragraph (c) of the definition of employment, and substituting the following paragraph:.
+(6) Section 60H(1) of the principal Act is consequentially amended by repealing paragraph (c) of the definition of employment, and substituting the following paragraph:
   (c) in the case of any other work-tested beneficiary, full-time employment
 (7) Section 61(1A) of the principal Act is consequentially amended by omitting the words a community wage under section 89, and substituting the words a sickness benefit under section 54A or an unemployment benefit under section 90.
-(8) Section 70A(1)(b) of the principal Act is amended by repealing subparagraph (iv), and substituting the following subparagraphs:.
+(8) Section 70A(1)﻿(b) of the principal Act is amended by repealing subparagraph (iv), and substituting the following subparagraphs:
   (iv) a sickness benefit; or
   (v) an unemployment benefit; or
-(9) Section 80B of the principal Act is consequentially amended by repealing subparagraph (iv) of paragraph (a) of the definition of income, and substituting the following subparagraphs:.
+(9) Section 80B of the principal Act is consequentially amended by repealing subparagraph (iv) of paragraph (a) of the definition of income, and substituting the following subparagraphs:
   (iv) a community wage paid before 1 July 2001:
   (v) a sickness benefit:
   (vi) an unemployment benefit:
 (10) The principal Act is consequentially amended by omitting from each of the following provisions the words community wage granted on the grounds of sickness, injury, or disability, and substituting in each case the words sickness benefit:
-  (a) section 80(5)(c):
-  (b) section 80(14)(a):
-  (c) section 80BA(4)(b)(i).
+  (a) section 80(5)﻿(c):
+  (b) section 80(14)﻿(a):
+  (c) section 80BA(4)﻿(b)﻿(i).
 
 ### 16 Independent youth benefits: unmarried person
-Section 60F(3)(a) of the principal Act is amended by omitting the words employees organisation, and substituting the word union.
+Section 60F(3)﻿(a) of the principal Act is amended by omitting the words employees organisation, and substituting the word union.
 
 **Clarifying references to chief executive**
 
 ### 17 Independent youth benefits: unmarried persons
-Section 60FA(3)(b) of the principal Act is amended by inserting, after the words chief executive, the words of the Department of Child, Youth and Family Services.
+Section 60FA(3)﻿(b) of the principal Act is amended by inserting, after the words chief executive, the words of the Department of Child, Youth and Family Services.
 
 ### 18 Independent youth benefits: persons enrolled in full-time course of secondary instruction
-Section 60FC(3)(b) of the principal Act is amended by inserting, after the words chief executive, the words of the Department of Child, Youth and Family Services.
+Section 60FC(3)﻿(b) of the principal Act is amended by inserting, after the words chief executive, the words of the Department of Child, Youth and Family Services.
 
 **Re-establishment of unemployment benefit**
 
@@ -210,7 +210,7 @@ Sections 87 and 88 and the heading to Part 2 of the principal Act are repealed, 
 
 ### 20 Community wage: standard eligibility requirements
 (1) Section 89(1) of the principal Act is amended by repealing paragraphs (b) and (c).
-(2) Section 89(4)(b) of the principal Act is amended by omitting the words community wage under the appropriate income test referred to in the Ninth Schedule, and inserting the word benefit.
+(2) Section 89(4)﻿(b) of the principal Act is amended by omitting the words community wage under the appropriate income test referred to in the Ninth Schedule, and inserting the word benefit.
 (3) Section 89(5) of the principal Act is amended by—
   (a) omitting the words the community wage, and substituting the words the benefit:
   (b) omitting the words the wage, and substituting the words the benefit.
@@ -223,14 +223,14 @@ Sections 87 and 88 and the heading to Part 2 of the principal Act are repealed, 
 (2) Section 90 of the principal Act is amended by omitting the words a community wage wherever they appear, and substituting in each case the words an unemployment benefit.
 (3) Section 90 of the principal Act is amended by adding the following subsection:
   (3) Despite section 91, the chief executive may, during the period between the end of 1 academic year and the start of the next, grant an unemployment benefit under section 89 to a full-time student who is aged 16 or 17 if the chief executive is satisfied that—
-    (a) section 60FA(1)(b) applies to the student; or
+    (a) section 60FA(1)﻿(b) applies to the student; or
     (b) the student is married.
 (4) The heading to section 90 of the principal Act is amended by omitting the words Community wage, and substituting the words Unemployment benefit.
 
 ### 22 Community wage: ineligibility
-(1) Section 91(1)(a) of the principal Act is amended by inserting, after the expression 90(2), the expression or (3).
+(1) Section 91(1)﻿(a) of the principal Act is amended by inserting, after the expression 90(2), the expression or (3).
 (2) Section 91(1) of the principal Act is amended by omitting the words a community wage, and substituting the words an unemployment benefit.
-(3) Section 91(1)(b) of the principal Act is amended by omitting the words employees organisation, and substituting the word union.
+(3) Section 91(1)﻿(b) of the principal Act is amended by omitting the words employees organisation, and substituting the word union.
 (4) Section 91(2) of the principal Act is repealed.
 (5) The heading to section 91 of the principal Act is amended by omitting the words Community wage, and substituting the words Unemployment benefit.
 
@@ -266,7 +266,7 @@ The principal Act is amended by repealing section 98, and substituting the follo
 (4) Section 99(4) of the principal Act is consequentially amended by—
   (a) omitting the words a community wage, and substituting the words an unemployment benefit:
   (b) omitting the words community wage, and substituting the words unemployment benefit.
-(5) Section 99(4)(b) of the principal Act is amended by omitting the words employees organisation (as defined in section 91(2)), and substituting the word union.
+(5) Section 99(4)﻿(b) of the principal Act is amended by omitting the words employees organisation (as defined in section 91(2)), and substituting the word union.
 (6) The heading to section 99 of the principal Act is amended by omitting the words Community wage, and substituting the words Unemployment benefit.
 
 ### 27 New section 99A inserted
@@ -307,8 +307,8 @@ The principal Act is amended by repealing section 102, and substituting the foll
       (i) to undertake the job-search activities set out in the agreement; and
       (ii) to undertake and complete any job seeker development activity or recognised community activity set out in the agreement (subject to the chief executive taking reasonable steps to arrange for the beneficiary to undertake the activity); and
       (iii) to undertake and complete any other activities set out in the agreement.
-  (3) The failure by a beneficiary to undertake or complete a recognised community activity, as set out in his or her job seeker agreement, is not a failure to comply with a work test obligation for the purpose of section 115(1)(a).
-  (4) The employment referred to in subsection (2)(a) is,—
+  (3) The failure by a beneficiary to undertake or complete a recognised community activity, as set out in his or her job seeker agreement, is not a failure to comply with a work test obligation for the purpose of section 115(1)﻿(a).
+  (4) The employment referred to in subsection (2)﻿(a) is,—
     (a) for a part-time work-tested beneficiary, part-time work:
     (b) for any other work-tested beneficiary, full-time employment.
   (5) The work test does not apply to a work-tested beneficiary if the chief executive is satisfied that the beneficiary is undertaking employment of the kind required to satisfy the work test for that beneficiary.
@@ -345,13 +345,13 @@ The principal Act is amended by inserting, after section 105, the following head
   (3) A signed job seeker agreement does not create or imply an employment relationship between the chief executive and the beneficiary, nor does it create rights or obligations that are enforceable in any court or tribunal.
   (4) Nothing in subsection (3) affects section 10A, or sections 12J to 12R.
   (1) A job seeker agreement should be developed through a process of negotiation between the beneficiary and the chief executive in which the parties aim to promptly conclude and sign an agreement acceptable to both of them.
-  (2) If, despite reasonable efforts by the chief executive, the beneficiary does not co-operate in the prompt development of a job seeker agreement, or does not sign it within a reasonable period once it is satisfactory to the chief executive, the chief executive may conclude that the beneficiary has failed his or her work test obligations under section 102(2)(e).
+  (2) If, despite reasonable efforts by the chief executive, the beneficiary does not co-operate in the prompt development of a job seeker agreement, or does not sign it within a reasonable period once it is satisfactory to the chief executive, the chief executive may conclude that the beneficiary has failed his or her work test obligations under section 102(2)﻿(e).
   (3) At any time after a job seeker agreement is signed, a beneficiary may ask for a review of the agreement; but, until a review is complete, the beneficiary must comply with the job seeker agreement in its current form.
   (4) When a beneficiary asks for a review of his or her job seeker agreement, the chief executive must review it as soon as practicable and may, by agreement with the beneficiary, amend the job seeker agreement.
   (5) The chief executive may at any time review a beneficiary's job seeker agreement, and may then,—
     (a) by agreement with the beneficiary, amend the agreement; or
     (b) require the beneficiary to co-operate in the development of a replacement job seeker agreement to the satisfaction of the chief executive, and then to sign the new agreement.
-  (6) An agreement entered into under subsection (5)(b) replaces any earlier agreement and is for all purposes to be treated as an agreement entered into under subsection (1).
+  (6) An agreement entered into under subsection (5)﻿(b) replaces any earlier agreement and is for all purposes to be treated as an agreement entered into under subsection (1).
   The chief executive must take reasonable and appropriate steps to make every work-tested beneficiary aware, before he or she signs a job seeker agreement, of—
     (a) his or her obligations arising from payment of a work-tested benefit; and
     (b) the import and consequences of signing a job seeker agreement; and
@@ -379,7 +379,7 @@ The principal Act is amended by repealing sections 110 to 112, and the heading i
   (4) The chief executive must specify any conditions that apply to an activity that he or she defines as a job seeker development activity.
   (5) The chief executive must define a range of job seeker development activities, and may define different job seeker development activities for different geographical locations.
   (6) The chief executive's discretion to define job seeker development activities is subject to any direction by the Minister.
-  (1) If, following a requirement under section 102(2)(f), a beneficiary has included 1 or more job seeker development activities from the list in his or her job seeker agreement, then the chief executive must take reasonable steps to arrange for the beneficiary to undertake those activities.
+  (1) If, following a requirement under section 102(2)﻿(f), a beneficiary has included 1 or more job seeker development activities from the list in his or her job seeker agreement, then the chief executive must take reasonable steps to arrange for the beneficiary to undertake those activities.
   (2) If a beneficiary's job seeker agreement includes any other job seeker development activity, then the chief executive may take reasonable steps to arrange for the beneficiary to undertake that activity, but only if the chief executive considers the activity—
     (a) is suitable for the circumstances of the beneficiary; and
     (b) is likely to improve his or her employment prospects.
@@ -408,7 +408,7 @@ The principal Act is amended by repealing sections 115 to 118, and substituting 
     (a) for a first failure, suspension of the person's benefit until the person recomplies:
     (b) for a second failure (being a failure that occurs after the person has recomplied following a first failure), suspension of the person's benefit until the person recomplies:
     (c) for a third failure (being a failure that occurs after the person has recomplied following a second failure), cancellation of the benefit.
-  (2) A person whose benefit is cancelled under subsection (1)(c)—
+  (2) A person whose benefit is cancelled under subsection (1)﻿(c)—
     (a) is not entitled to receive any benefit for 13 weeks from the date of cancellation; and
     (b) if the person wishes to again become entitled to a benefit, must apply for the benefit and establish his or her eligibility for it.
   (3) Subsection (2) is subject to sections 120 and 121, and to sections 123 to 123B.
@@ -427,9 +427,9 @@ The principal Act is amended by repealing section 122, and substituting the foll
 
 ### 39 Effect of ceasing to be subject to obligation to comply with section 60HA or work test
 (1) Section 123(1) of the principal Act is consequentially amended by omitting from paragraph (a) the expression section 115 or section 116, and substituting the expression section 117.
-(2) Section 123(1)(b) of the principal Act is amended by inserting, after subparagraph (i), the following subparagraph:.
+(2) Section 123(1)﻿(b) of the principal Act is amended by inserting, after subparagraph (i), the following subparagraph:
   (ia) ceases to be a beneficiary who is required to comply with a request under section 60HA (other than because of the imposition of that suspension or 13-week period); or.
-(3) Section 123(1)(b)(ii) of the principal Act is amended by adding the words or an exemption from complying with section 60HA.
+(3) Section 123(1)﻿(b)﻿(ii) of the principal Act is amended by adding the words or an exemption from complying with section 60HA.
 
 ### 40 Effect of employment on non-entitlement period
 (1) Section 123A(1) of the principal Act is amended by omitting the expression section 115 or section 116, and substituting the expression section 117.
@@ -446,7 +446,7 @@ The principal Act is amended by repealing sections 123B and 123C, and substituti
   (2) If a person to whom this section applies participates satisfactorily in the approved activity or activities for a continuous period of 6 weeks,—
     (a) the remainder of the period of non-entitlement lapses; and
     (b) if the person wishes to again become entitled to a benefit, the person must apply for the benefit and establish his or her eligibility for it.
-  (3) Despite subsection (2)(b), if the person applies for a benefit, the chief executive must grant the person a benefit during the person's satisfactory participation in the approved activity or activities.
+  (3) Despite subsection (2)﻿(b), if the person applies for a benefit, the chief executive must grant the person a benefit during the person's satisfactory participation in the approved activity or activities.
   (4) ) Payment of a benefit granted under subsection (3) is subject to the condition that the person is liable to repay the whole of any amount paid during the non-entitlement period if he or she fails to complete a continuous period of 6 weeks of satisfactory participation in an approved activity or activities, or fails to continue satisfactory participation until the end of the non-entitlement period (whichever is earlier).
   (5) No obligation to repay under subsection (4) arises if the reason for the person's failure is that he or she—
     (a) ceases to be a work-tested beneficiary or a beneficiary required to comply with a request under section 60HA; or
@@ -463,9 +463,9 @@ Section 123D of the principal Act is amended by repealing paragraphs (b) and (c)
 ### 43 Consequential amendments relating to changes to Part 2 of principal Act
 (1) Section 12J(4) of the principal Act is consequentially amended by omitting the words which relates to the general specification of organised activities, and substituting the words defining job seeker development activities.
 (2) Section 80 of the principal Act is amended by—
-  (a) omitting from subsection (5)(a) the words a community wage, and substituting the words an unemployment benefit:
+  (a) omitting from subsection (5)﻿(a) the words a community wage, and substituting the words an unemployment benefit:
   (b) repealing subsections (6) and (7):
-  (c) inserting in subsection (8)(b), after the words was cancelled, the words or suspended.
+  (c) inserting in subsection (8)﻿(b), after the words was cancelled, the words or suspended.
 (3) Section 80C(1) of the principal Act is amended by repealing paragraph (c), and substituting the following paragraph:
   (c) the person is subject to a sanction of suspension of 100% of a benefit under section 117.
 (4) Section 113 of the principal Act is consequentially amended by—
