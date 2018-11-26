@@ -1,5 +1,5 @@
 # Social Security Amendment Act 2015
-_Consolidation as at 2015-04-09_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security Amendment Act 2015.
@@ -15,7 +15,7 @@ This Act amends the Social Security Act 1964.
 ### 4 Accommodation supplement
 (1) Section 61EA(4) is amended by inserting the following paragraph after paragraph (a):
   (ab) would be eligible to receive a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998, if he or she were to apply for the grant; or
-(2) Section 61EA(4)(b) is amended by inserting or spouse or partner, were the person to apply for the grant after parents.
+(2) Section 61EA(4)﻿(b) is amended by inserting or spouse or partner, were the person to apply for the grant after parents.
 
 ### 5 Deduction of weekly compensation from income-tested benefits
 Section 71A is amended by repealing subsection (3) and substituting the following subsection:
@@ -48,7 +48,7 @@ Section 79 is repealed and the following section substituted:Persons who have ha
 The proviso to item 1 of Schedule 6 is amended by inserting “receiving a supported living payment under section 40B” after “any beneficiary”.
 
 ### 9 Schedule 18 amended
-Part 1 of Schedule 18 is amended by inserting the following subparagraph after clause 2(b)(i):
+Part 1 of Schedule 18 is amended by inserting the following subparagraph after clause 2(b)﻿(i):
   (ia) in the case of a sole parent, at the appropriate maximum rate in item 1(ba) or (c) of Schedule 9 as if Income Test 3 applied to that rate instead of Income Test 1; or
 
 ## Part 2 — Validation, savings, and consequential amendments
@@ -77,7 +77,7 @@ Part 1 of Schedule 18 is amended by inserting the following subparagraph after c
   (b) does not affect the rights of any person who made an application to which paragraph (a) applies, or was a party to an appeal or other proceedings to which paragraph (a) applies, under—
     (i) any decision, or any judgment of a court, in relation to that application or appeal or those proceedings, as the case may be; or
     (ii) any decision or judgment given on appeal from that decision or judgment.
-(3) Subsection (1)(a) or (2)(a) applies in respect of each of the following:
+(3) Subsection (1)﻿(a) or (2)﻿(a) applies in respect of each of the following:
   (a) an application for review under section 10A of the principal Act:
   (b) an appeal under section 12J, 12Q, or 12R of the principal Act:
   (c) any other proceedings.
