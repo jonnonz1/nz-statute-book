@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -641,7 +641,7 @@ Schedule 1 contains transitional provisions relating to veterans who are receivi
   (c) either—
     (i) participating in a rehabilitation plan; or
     (ii) through no fault of the veteran, unable to participate in a rehabilitation plan in relation to the veteran's service-related injury or illness; and
-  (d) not receiving any benefit under the Social Security Act 1964.
+  (d) not receiving any benefit under the Social Security Act 2018.
 (2) If a veteran is resident overseas, the veteran is responsible for paying the costs of assessing whether the veteran is unable to work full-time.
 (3) In this subpart, unable to work means unable to work as a consequence of injury or illness from whatever cause.
 
@@ -654,7 +654,9 @@ Schedule 1 contains transitional provisions relating to veterans who are receivi
 
 ### 61 Rate of weekly income compensation
 (1) Weekly income compensation is payable at the rate that is 80% of the average wage.
-(2) In subsection (1), average wage means the average wage, as at 1 April each year, within the meaning of the Social Security Act 1964.
+(2) Average wage, in subsection (1), means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 April each year, as specified in—
+  (a) the latest Quarterly Employment Survey published by Statistics New Zealand; or
+  (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph.
 
 ### 62 Entitlement to weekly income compensation ceases if veteran able to work full-time
 (1) This section applies to a veteran who is under the New Zealand superannuation qualification age and is receiving weekly income compensation.
@@ -1434,7 +1436,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
     (ii) weekly compensation under Part 4:
     (iii) veteran's pension under Part 6 of this Act or Part 6 of the War Pensions Act 1954:
     (iv) New Zealand Superannuation:
-    (v) a supported living payment under the Social Security Act 1964; and
+    (v) a supported living payment under the Social Security Act 2018; and
   (b) the veteran leaves a surviving spouse or partner, or a child or children, or dependants, who will, in the opinion of VANZ be entitled to—
     (i) a pension under section 66, 72, or 76; or
     (ii) a survivor's grant under clause 53 of Schedule 2 or weekly compensation under clause 54 or 58 of Schedule 2.
@@ -1489,8 +1491,8 @@ A veteran with total lower body mobility impairment or with severe lower body mo
       (ii) any benefit of a kind referred to in section CE 1(1)﻿(d) of the Income Tax Act 2007; and
       (iii) in the case of a person who, in the relevant period, has been provided, in respect of any office or position held by the person, with board or lodging (or the use of a house or quarters) or has been paid an allowance instead of being provided with board or lodging (or with the use of a house or quarters), the value of those benefits (and the value of the benefits is to be determined, in the case of a dispute, by VANZ); but
     (c) does not include any employer’s superannuation contribution (within the meaning of section YA 1 of the Income Tax Act 2007)
-  - **full-time employment** has the same meaning as in section 3(1) of the Social Security Act 1964
-  - **income** has the same meaning as in section 3(1) of the Social Security Act 1964
+  - **full-time employment** has the same meaning as in Schedule 2 of the Social Security Act 2018
+  - **income** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **Income Test 3** means that the applicable rate of veterans’ pension must be reduced by 70 cents for every $1 of the combined income of the person receiving a veteran’s pension and his or her spouse or partner that is in excess of $100 per week
   - **living alone** , in relation to a single person, has the meaning given to it by section 159
   - **New Zealand superannuation** means New Zealand superannuation paid or payable under the New Zealand Superannuation and Retirement Income Act 2001
@@ -1509,7 +1511,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   - **spouse** means the husband or wife of an applicant or person receiving a veteran’s pension, as the case may require.
 (2) Unless the context otherwise requires,—
   (a) any word or expression used in this Part but not defined in this Part has the same meaning as it has in section 7 of this Act; and
-  (b) any word or expression used in this Part but not defined in this Part or in section 7 of this Act has the meaning given to it in section 3(1) of the Social Security Act 1964.
+  (b) any word or expression used in this Part but not defined in this Part or in section 7 of this Act has the meaning given to it in Schedule 2 of the Social Security Act 2018.
 
 ### 159 Meaning of living alone
 (1) A single person (person A) is living alone only if he or she meets the 2 conditions specified in subsections (2) and (3).
@@ -1517,7 +1519,7 @@ A veteran with total lower body mobility impairment or with severe lower body mo
 (3) The second condition is that person A does not share that residence with any person 18 years old or older, except a person to whom subsection (4) or (5) applies.
 (4) This subsection applies to person A's dependent child—
   (a) who—
-    (i) is 18 years old (despite the definition of child in section 3(1) of the Social Security Act 1964); and
+    (i) is 18 years old (despite the definition of child in Schedule 2 of the Social Security Act 2018); and
     (ii) is not financially independent; and
     (iii) is attending a school or a tertiary educational establishment; but
   (b) only until the close of 31 December in the year in which the child turns 18 years old.
@@ -1533,9 +1535,9 @@ A veteran with total lower body mobility impairment or with severe lower body mo
   - **territorial sea of New Zealand** and have the same meanings as in the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977.
 
 ### 160 Delegation of general manager's functions, duties, and powers under this Part
-(1) The general manager may, either generally or particularly, delegate to the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 any of the general manager’s functions, duties, and powers under—
+(1) The general manager may, either generally or particularly, delegate to the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 any of the general manager’s functions, duties, and powers under—
   (a) this Part; and
-  (b) any provision in the Social Security Act 1964 or the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 that relates to the veteran's pension.
+  (b) any provision in the Social Security Act 2018 that relates to the veteran's pension.
 (2) Subsection (1) applies to any of the functions, duties, and powers that are the general manager's functions, duties, and powers in accordance with section 201.
 (3) Sections 41 and 42 of the State Sector Act 1988 apply to a delegation under subsection (1) as if the delegation were made under section 41 of that Act.
 
@@ -1693,12 +1695,12 @@ A veteran’s pension commences on the later of—
 
 ### 173 Entitlement to veteran's pension for spouses or partners of persons in long-term residential care in hospital or rest home
 (1) This section applies to any person—
-  (a) who is not in long-term residential care but whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of section 136 of the Social Security Act 1964); and
+  (a) who is not in long-term residential care but whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of section 5 of the Residential Care and Disability Support Services Act 2018); and
   (b) who is receiving a veteran’s pension, or whose spouse or partner is receiving a veteran’s pension.
 (2) A person to whom this section applies is entitled to a veteran's pension at—
   (a) the single living alone rate, if the person is living alone; or
   (b) the single sharing accommodation rate, if the person is not living alone.
-(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse or partner under Part 4 of the Social Security Act 1964.
+(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse or partner under the Residential Care and Disability Support Services Act 2018.
 
 **Lump sum payment on death**
 
@@ -1728,14 +1730,16 @@ A veteran’s pension commences on the later of—
 **Review of decision relating to veteran's pension**
 
 ### 175 Review of decision relating to veteran's pension
-(1) Subject to subsection (2), any person affected by a decision of VANZ under this Part may appeal the decision to the Social Security Appeal Authority in accordance with section 12J of the Social Security Act 1964 or, if the decision was made on medical grounds, to a Board appointed under section 10B(3) of that Act.
+(1) A person affected by a decision of VANZ under this Part may (subject to subsection (2)) appeal the decision—
+  (a) to the social security appeal authority, in accordance with section 397(1)﻿(e) of the Social Security Act 2018; or
+  (b) if the decision was made on medical grounds, to a board appointed under Schedule 9 of that Act.
 (2) A person may not appeal to the Social Security Appeal Authority a decision to decline entitlement to a veteran's pension on the basis that the service on which a claim to entitlement is based is not qualifying operational service.
 (3) A person affected by a decision described in subsection (2) may apply for a review of the decision in accordance with subpart 2 of Part 7.
 
 **Payment overseas of veteran's pension**
 
 ### 176 Effect of absence from New Zealand on veteran’s pension
-A person is not entitled to a veteran’s pension while that person is absent from New Zealand, except as provided in sections 177 to 196 or in any agreement or convention adopted under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
+A person is not entitled to a veteran’s pension while that person is absent from New Zealand, except as provided in sections 177 to 196 or in any reciprocity agreement adopted under section 380 of the Social Security Act 2018.
 
 ### 177 First 26 weeks of certain temporary absences
 A veteran’s pension that would otherwise be payable to a person (other than a person who is receiving a veteran's pension overseas under section 181) is payable in respect of the first 26 weeks of any absence from New Zealand if—
@@ -1759,7 +1763,7 @@ If a person who is absent from New Zealand would have become entitled to a veter
 
 ### 181 Payment overseas of veteran's pension
 Section 182—
-  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, that relates to the veteran's pension; and
+  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocity agreement in force under section 380 of the Social Security Act 2018, that relates to the veteran's pension; and
   (b) applies to a person if he or she has left New Zealand at a time when he or she—
     (i) was intending to reside for a period longer than 26 weeks in a country (or 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 190(1)); or
     (ii) was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.
@@ -1804,8 +1808,8 @@ The proportion referred to in section 183(1) is to be calculated by—
   (b) any period of absence from New Zealand—
     (i) while the person was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or
     (ii) while the person's spouse or partner was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was treated under section 79(3)﻿(a) of the Social Security Act 1964 as being resident and present in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)﻿(a) of the Social Security Act 1964 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)﻿(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
+  (c) any period of absence from New Zealand while the person was treated under section 16(5) of, and regulations made under section 421 of, the Social Security Act 2018, as being resident and present in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 16(5) of, and regulations made under section 421 of, the Social Security Act 2018, as being resident and present in New Zealand, the person was also (by virtue of those provisions of, or of those regulations made under, the Social Security Act 2018) treated as being resident and present in New Zealand.
 (2) Subsection (1) applies to a period of absence only if VANZ is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
 (3) Subsection (1)﻿(b) applies to a period of absence only if VANZ is satisfied that the person concerned either was born in New Zealand or—
   (a) in the case of a person to whom subsection (1)﻿(b)﻿(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
@@ -1828,23 +1832,27 @@ A person is not entitled to be paid a veteran's pension under section 182 unless
 ### 188 Date of commencement of payment overseas
 (1) The date of commencement of payment overseas of a veteran’s pension under section 182 is the first pay day after the date of the applicant’s departure from New Zealand.
 (2) However, in the case of an application under section 187, the date of commencement is the first pay day after the date on which the application was received by VANZ.
-(3) Subsection (2) is subject to section 80AA of the Social Security Act 1964.
+(3) Subsection (2) is subject to section 317 of the Social Security Act 2018.
 
 ### 189 Relationship with other benefit provisions
-(1) A person who is receiving a veteran’s pension overseas under section 182 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)﻿(d) of that Act.
-(2) Despite the provisions of section 80BD of the Social Security Act 1964, when a person who receives a veteran’s pension overseas under section 182 dies, the pension terminates on a date to be determined by VANZ, being a date not more than 4 weeks after the person's date of death.
-(3) Except as otherwise provided in this section, the Social Security Act 1964 (other than sections 69G to 70, 74(1)﻿(a), 75 to 77, and 82(7)) applies to veterans’ pensions being paid overseas under section 182.
+(1) A person who is receiving a veteran’s pension overseas under section 182 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 2018 or under a programme approved under section 100 or 101 of that Act.
+(2) When a person who receives a veteran’s pension overseas under section 182 dies, the pension terminates (despite sections 325 to 330 of the Social Security Act 2018) on a date—
+  (a) to be determined by VANZ; and
+  (b) that must be not more than 4 weeks after the person’s date of death.
+(3) The Social Security Act 2018 applies to veterans’ pensions being paid overseas under section 182, but—
+  (a) sections 111, 114, 173 to 196, 204, and 206 to 219 of that Act do not apply to those pensions; and
+  (b) the rest of that Act applies to those pensions except as provided in this section.
 
 ### 190 Specified Pacific country
 (1) In sections 191 to 195, specified Pacific country means a country or territory—
   (a) that is listed in Schedule 3; and
-  (b) that is not a country with which New Zealand has a reciprocal agreement in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 relating to the portability of the veteran’s pension.
+  (b) that is not a country with which New Zealand has a reciprocity agreement in force under section 380 of the Social Security Act 2018 relating to the portability of the veteran’s pension.
 (2) The Governor-General may, by Order in Council, amend Schedule 3 by—
   (a) inserting the name of any Pacific country or territory; or
   (b) replacing the former name of a country or territory with its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of the veteran’s pension under section 191 payable on or after the date on which the order takes effect.
-(5) Section 61H(5) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
+(5)
 
 ### 190A Orders are confirmable instruments
 The explanatory note of an Order in Council made under section 190(2) must indicate that—
@@ -1869,7 +1877,7 @@ The explanatory note of an Order in Council made under section 190(2) must indic
   (b) who is resident in the Cook Islands, Niue, or Tokelau on the date of the application; and
   (c) who, before he or she left New Zealand to reside in one of the countries or in the territory specified in paragraph (b), met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c) of the New Zealand Superannuation and Retirement Income Act 2001; and
   (d) who is resident in a specified Pacific country when each payment of the veteran’s pension is due to be paid to him or her.
-(5) If subsection (4) applies, an application to be paid a veteran’s pension in a specified Pacific country must be made in addition to an application to be paid a veteran’s pension under section 11D of the Social Security Act 1964.
+(5) If subsection (4) applies, an application to be paid a veteran’s pension in a specified Pacific country must be made in addition to an application to be paid a veteran’s pension under section 297 (and regulations made under section 438) of the Social Security Act 2018.
 (6) The applications referred to in subsection (5) may be made together or separately, and may be made—
   (a) before an applicant meets the age qualification for New Zealand superannuation in section 7 of the New Zealand Superannuation and Retirement Income Act 2001, in anticipation of becoming entitled to be paid a veteran’s pension on reaching the qualifying age; or
   (b) when or after the applicant meets the age qualification.
@@ -1884,7 +1892,7 @@ The explanatory note of an Order in Council made under section 190(2) must indic
 (2) For the purposes of this section, the base rate is,—
   (a) in the case of a single person, the single sharing accommodation rate (subject to abatement under section 171 if that section applies to the person); and
   (b) in the case of a person who is married or in a civil union or in a de facto relationship, the relationship rate (subject to abatement under section 171(2) if that section applies to the person).
-(3) However, if section 70 of the Social Security Act 1964 applies, that amount must be reduced by the amount deducted in accordance with that section.
+(3) However, if sections 187 to 191 of the Social Security Act 2018 applies, that amount must be reduced by the amount deducted in accordance with that section.
 
 ### 193 Commencement and termination of payments
 (1) The commencement date of payment of a pension paid under section 191 is,—
@@ -1896,14 +1904,17 @@ The explanatory note of an Order in Council made under section 190(2) must indic
 (2) When a person being paid a pension under section 191 dies, the pension terminates on a date to be determined by VANZ, being a date not more than 4 weeks after the person's date of death.
 
 ### 194 Effect on other benefits
-A person who is receiving a veteran's pension overseas under section 191 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)﻿(d) of that Act.
+A person who is receiving a veteran's pension overseas under section 191 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 2018 or under a programme approved under section 100 or 101 of that Act.
 
-### 195 Application of this Act and Social Security Act 1964
+### 195 Application of this Act and Social Security Act 2018
 (1) Sections 176 to 189 do not apply in respect of a veteran’s pension being paid in a specified Pacific country under section 191.
-(2) The Social Security Act 1964 (other than sections 74(1)﻿(a), 75, 75A, 76, 77, and 80) applies to a veteran’s pension being paid in a specified Pacific country under section 191.
+(2) The Social Security Act 2018 (other than sections 204, 206 to 208, 217 to 219, 311, and 313 to 315) applies to a veteran’s pension being paid in a specified Pacific country under section 191.
 
 ### 196 Certain former economic pensioners may be paid up to the full rate of veteran's pension overseas
-Despite sections 74(1)﻿(a) and 77 of the Social Security Act 1964 and sections 181 to 189 of this Act, if, immediately before 1 April 1990, a person residing outside New Zealand was being paid an economic pension under the War Pensions Act 1954 as it was immediately before that date, VANZ may pay the full rate, or any lesser percentage of the full rate (being not less than 50%), of a veteran’s pension to that person while he or she remains a resident outside New Zealand.
+(1) If, immediately before 1 April 1990, a person residing outside New Zealand was being paid an economic pension under the War Pensions Act 1954 as it was immediately before that date, VANZ may pay the full rate, or any lesser percentage of the full rate (being not less than 50%), of a veteran’s pension to that person while he or she remains a resident outside New Zealand.
+(2) This section applies despite—
+  (a) sections 181 to 189; and
+  (b) sections 204 and 219 of the Social Security Act 2018.
 
 ## Part 7 — Administration
 
@@ -2011,7 +2022,7 @@ Every function, duty, and power of VANZ under this Act is a function, duty, or p
   (b) sections 4 and 5 of the Maori Housing Act 1935; or
   (c) sections 154 to 161 of the District Court Act 2016; or
   (d) sections 87(2)﻿(b), 88AE(1)﻿(a), 103, 104, and 105 to 106B of the Summary Proceedings Act 1957; or
-  (e) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or sections 71 and 86A of the Social Security Act 1964; or
+  (e) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or regulations made under section 444 of the Social Security Act 2018; or
   (f) sections 105, 110, 118, and 121 of the Family Proceedings Act 1980 (as saved by section 259(1) of the Child Support Act 1991); or
   (g) the Child Support Act 1991; or
   (h) subparts 1, 2, and 5 of Part 2 or section 193 of the Student Loan Scheme Act 2011; or
@@ -3098,7 +3109,9 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 
 ### 25 Minimum weekly compensation
 (1) Despite the other provisions of this Part, the weekly compensation payable under this Part must not be less than 80% of the average wage.
-(2) In subclause (1), average wage means the average wage, as at 1 July each year, within the meaning of the Social Security Act 1964.
+(2) Average wage, in subclause (1), means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 July each year, as specified in—
+  (a) the latest Quarterly Employment Survey published by Statistics New Zealand; or
+  (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph.
 
 **VANZ to pay weekly compensation from first day of incapacity**
 
@@ -3249,7 +3262,9 @@ If VANZ is determining earnings under this Part in relation to a self-employed p
 (3) However, the veteran is entitled to weekly compensation at a rate that is not less than 80% of the average wage if the amount calculated under subclause (2) is less than 80% of the average wage.
 (4) Subclause (5) applies to a veteran who had no pre-injury or pre-illness earnings within 12 months of the start of the service-related injury or illness.
 (5) A veteran to whom this subclause applies is entitled to weekly compensation at a rate that is not less than 80% of the average wage.
-(6) In this clause, average wage means the average wage, as at 1 July each year, within the meaning of the Social Security Act 1964.
+(6) Average wage, in this clause, means the before tax average ordinary time weekly wage (all sectors, male and female combined) as at 1 July each year, as specified in—
+  (a) the latest Quarterly Employment Survey published by Statistics New Zealand; or
+  (b) if the survey referred to in paragraph (a) ceases to be published, a survey certified by the Government Statistician as an equivalent survey to the survey referred to in that paragraph.
 
 **Veteran no longer an employee**
 
