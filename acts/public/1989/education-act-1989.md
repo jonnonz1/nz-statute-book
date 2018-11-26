@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 > An Act to reform the administration of education
 
@@ -5671,9 +5671,9 @@ The Registrar or other appropriate officer of an institution shall, if so requir
 ### 226A Disclosure of enrolment information by institutions
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations made under section 303, or identified by Gazette notice under section 307AB
-  - **benefit** means jobseeker support under the Social Security Act 1964
+  - **benefit** means jobseeker support under the Social Security Act 2018
   - **chief executive** means the chief executive of the department
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018 and for the administration of Part 25
   - **specified period** means any period specified in a notice under subsection (3)
   - **student loan** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
   - **student loan scheme** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011.
@@ -5701,7 +5701,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
   (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the determination or provision of an allowance or a benefit.
 (7) As soon as possible after the time or times specified in a requirement under subsection (3), an institution must supply the information required to the chief executive or any employee or agent of the department authorised by the chief executive to receive such information.
 (8) Information supplied by an institution under subsection (7) must be in a form previously agreed between the institution and the chief executive under the Privacy Act 1993 (or, where they are unable to agree, in a form settled by the Privacy Commissioner appointed under the Privacy Act 1993), and may include coded information.
-(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a tertiary institution, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
+(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a tertiary institution, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 2018.
 
 ### 226B Offences concerning information requests
 (1) Any institution that intentionally fails or refuses to comply with section 226A(7) commits an offence and is liable on conviction to the penalty specified in subsection (2).
@@ -6185,9 +6185,9 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
 ### 235F Disclosure of enrolment information by private training establishments
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations made under section 303, or identified by Gazette notice under section 307AB
-  - **benefit** means jobseeker support under the Social Security Act 1964
+  - **benefit** means jobseeker support under the Social Security Act 2018
   - **chief executive** means the chief executive of the department
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25 of this Act
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018 and for the administration of Part 25 of this Act
   - **specified period** means any period specified in a notice under subsection (3)
   - **student loan** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011
   - **student loan scheme** has the same meaning as in section 4(1) of the Student Loan Scheme Act 2011.
@@ -6215,7 +6215,7 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
   (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the provision or determination of a benefit or allowance.
 (7) As soon as possible after the time or times specified in a requirement under subsection (3), a private training establishment must supply the information required to the chief executive or any employee or agent of the department authorised by the chief executive to receive such information.
 (8) Information supplied by a private training establishment under subsection (7) must be in a form previously agreed between the private training establishment and the chief executive under the Privacy Act 1993 (or, where they are unable to agree, in a form settled by the Privacy Commissioner appointed under the Privacy Act 1993), and may include coded information.
-(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in section 226A of this Act, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a private training establishment, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
+(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in section 226A of this Act, the Commissioner, before seeking a report on any of the matters in section 104(2)﻿(a), (d), or (e) from a private training establishment, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 2018.
 
 ### 236 Offences concerning information requests
 (1) A private training establishment that intentionally fails or refuses to comply with section 235F(7) commits an offence and is liable on conviction to the penalty specified in subsection (3).
@@ -6242,7 +6242,7 @@ Any fees paid by or on behalf of any student who withdraws from a programme or t
     (i) the Authority:
     (ii) Immigration New Zealand:
     (iii) the administrator of the code (within the meaning of Part 18A):
-    (iv) the department for the time being responsible for the administration of the Social Security Act 1964 and for the administration of Part 25 of this Act:
+    (iv) the department for the time being responsible for the administration of the Social Security Act 2018 and for the administration of Part 25 of this Act:
     (v) Public Trust, if it is approved as an independent trustee for the private training establishment.
 (2) If a private training establishment closes, the establishment must, in respect of each student, forward his or her records kept under this section to the student's new education provider, or to the student if there is no new education provider.
 
@@ -7663,16 +7663,17 @@ The provisions of section 226A apply to any secondary school as if such a school
 (1) The Minister may, by notice in the Gazette, declare that any allowance to which section 307AB applies is a bonded scholarship.
 (2) The effect of declaring an allowance to be a bonded scholarship is that, under section 7 of the Student Loan Scheme Act 2011, the Student Loan Scheme Act 2011 applies to enable the recovery of money in accordance with the terms of the scholarship.
 
-### 307A Use of student allowance information for purposes of Social Security Act 1964
+### 307A Use of student allowance information for purposes of Social Security Act 2018
 (1) In this section, unless the context otherwise requires,—
   - **allowance** means an allowance established by regulations under section 303 or identified by Gazette notice under section 307AB
   - **allowance information** means any information held by the Ministry about a person who has applied for or has been granted an allowance
   - **beneficiary** means any person who is receiving, or has received, any benefit; and includes an applicant for a benefit
   - **beneficiary information** means information held by the department about a beneficiary
-  - **benefit** has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
-    (a) a lump sum payable under section 61DB or section 61DC or section 61DD of that Act:
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) or (da)of that Act
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
+  - **benefit** means any of the following:
+    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
+    (b) a funeral grant lump sum payable under section 90 of that Act:
+    (c) any special assistance payable under a programme approved under section 100 or 101 of that Act
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007.
 (2) During any period in which the Ministry and the department are the same department,—in respect of the payment to that person of an allowance or benefit, or the payment to that person of an allowance or benefit at a rate, to which he or she was not entitled.
   (a) allowance information, beneficiary information, and student loan information may be held on the same system or systems within that department:
@@ -7696,14 +7697,14 @@ The provisions of section 226A apply to any secondary school as if such a school
 (2) The Secretary is entitled to recover the amount of the debt—
   (a) in the case of an allowance debt, by deduction from—
     (i) any allowance; or
-    (ii) any benefit under the Social Security Act 1964 to which that person may become subsequently entitled; or
+    (ii) any benefit under the Social Security Act 2018 to which that person may become subsequently entitled; or
   (aa) in the case of a student loan debt, by deduction from—
     (i) any allowance (including any case where the living costs have already been paid under the loan for the period to which the debt relates); or
-    (ii) any benefit under the Social Security Act 1964 to which that person may become subsequently entitled; or
-  (ab) in the case of a debt described in section 85A of the Social Security Act 1964, by deduction from any allowance; or
+    (ii) any benefit under the Social Security Act 2018 to which that person may become subsequently entitled; or
+  (ab) in the case of a debt described in regulations made under section 444 of the Social Security Act 2018, by deduction from any allowance; or
   (b) at the suit of the Secretary; or
-  (c) by deduction notice under section 86A of the Social Security Act 1964.
-(3) For the purposes of subsection (2)﻿(c), sections 86A and 86B to 86J of the Social Security Act 1964 apply with any necessary modifications.
+  (c) by deduction notice under regulations made under section 444 of the Social Security Act 2018.
+(3) For the purposes of subsection (2)﻿(c), regulations made under section 444 of the Social Security Act 2018 apply with any necessary modifications.
 
 ### 307C Ministry may carry out information matching of student loan information
 [Repealed]
