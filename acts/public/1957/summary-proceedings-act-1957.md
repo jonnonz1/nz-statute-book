@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 > Title
 
@@ -17,14 +17,15 @@ _Consolidation as at 2018-11-14_
       (iii) a building society within the meaning of the Building Societies Act 1965; but
     (b) does not include the Reserve Bank of New Zealand established under the Reserve Bank of New Zealand Act 1989 (except in relation to an account maintained by that bank for an employee of the bank)
   - **benefit** —
-    (a) means a benefit within the meaning of Part 1 of the Social Security Act 1964; but
+    (a) means a benefit as defined in Schedule 2 of the Social Security Act 2018; but
     (b) does not include—
-      (i) an orphan's benefit payable under section 28 of the Social Security Act 1964; or
-      (ii) an unsupported child's benefit payable under section 29 of that Act; or
-      (iii) a child disability allowance payable under section 39A of that Act; or
-      (iiia) a winter energy payment payable under Part 1KA of that Act; or
-      (iv) temporary additional support under section 61G of that Act or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004; or
-      (v) a disability allowance payable under section 69C of that Act
+      (i) an orphan’s benefit under section 43 of the Social Security Act 2018; or
+      (ii) an unsupported child’s benefit under section 46 of that Act; or
+      (iii) a winter energy payment under section 72 of that Act; or
+      (iv) a child disability allowance payable under section 78 of the Social Security Act 2018; or
+      (v) a disability allowance payable under section 85 of the Social Security Act 2018; or
+      (vi) a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004 (as that section is saved by clause 19 of Schedule 1 of the Social Security Act 2018); or
+      (vii) temporary additional support under section 96 of the Social Security Act 2018
   - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **conviction** includes an order; and has a corresponding meaning
   - **court** means the District Court constituted under the District Court Act 2016
@@ -1004,7 +1005,7 @@ The Crown is not liable to any person for any error, omission, or delay in apply
 (6) The powers conferred by this section may not be exercised by a Registrar who is a constable.
 
 ### 87AA Power to obtain information in respect of beneficiaries
-(1) If—the Registrar may require the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 (the chief executive) to provide the Registrar with the information specified in subsection (2) that is known to the chief executive.
+(1) If—the Registrar may require the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 (the chief executive) to provide the Registrar with the information specified in subsection (2) that is known to the chief executive.
   (a) the Registrar is—
     (i) considering whether to make an attachment order under section 87(2)﻿(b) in respect of salary or wages payable or to become payable to a defendant; or
     (ia) considering whether an arrangement extending the time to pay a fine or an attachment order is to be varied, suspended, or cancelled under section 86A or 86D; or
@@ -1014,11 +1015,11 @@ The Crown is not liable to any person for any error, omission, or delay in apply
 (2) The information referred to in subsection (1) is—
   (a) the amount of any benefit that is paid to the defendant:
   (b) the amount of any attachment order or deduction notice that applies to the defendant and is made or given or issued under any of the following Acts:
-    (i) the Social Security Act 1964:
+    (i) the Social Security Act 2018:
     (ii) the Family Proceedings Act 1980:
     (iii) the Child Support Act 1991:
     (iv) the Tax Administration Act 1994:
-  (c) any amount that is being recovered from the defendant under section 86 of the Social Security Act 1964:
+  (c) any amount that is being recovered from the defendant under regulations made under section 444 of the Social Security Act 2018:
   (d) the composition of the defendant's family, including the number of family members who are dependent on the defendant:
   (e) the residential address and all telephone numbers of the defendant:
   (f) the type of any benefit that is paid to the defendant:
@@ -1068,11 +1069,11 @@ The Crown is not liable to any person for any error, omission, or delay in apply
 (4) Every bank to which a deduction notice is issued must, on request, give the defendant a statement in writing of any amount deducted, and of the purpose for which the deduction was made.
 (5) If any question arises in any case as to the priority to be accorded to deduction notices issued under this section, the following have priority over those deduction notices:
   (a) 1 or more attachment orders or deduction notices made or given or issued under any of the following Acts:
-    (i) the Social Security Act 1964:
+    (i) the Social Security Act 2018:
     (ii) the Family Proceedings Act 1980:
     (iii) the Child Support Act 1991:
     (iv) the Tax Administration Act 1994:
-  (b) the recovery of payments under section 86 of the Social Security Act 1964.
+  (b) the recovery of payments under regulations made under section 444 of the Social Security Act 2018.
 (6) Every deduction notice is subject to section 87I.
 
 ### 87C Revocation of deduction notices
@@ -1791,8 +1792,8 @@ No Registrar and no bailiff, constable or other officer shall be personally liab
 (3) Every attachment order applies for a fixed period stated in the order, and must not apply for a period of more than 5 years after the date on which the order is made by the Registrar or the chief executive.
 (4) Despite subsections (1) and (2), no attachment order is to operate so that, when its effect is considered either alone or with the effect of any item specified in subsection (5), the net amount paid to a defendant for an earnings period is below the protected earnings rate for the earnings period; and, where necessary, the amount to be deducted from the defendant's salary or wages for the earnings period is treated as being reduced or cancelled accordingly.
 (5) The items referred to in subsection (4) are—
-  (a) a deduction notice or an attachment order under the Child Support Act 1991, the Family Proceedings Act 1980, the Social Security Act 1964, or the Tax Administration Act 1994:
-  (b) a deduction for the recovery of payments under section 86 of the Social Security Act 1964.
+  (a) a deduction notice or an attachment order under the Child Support Act 1991, the Family Proceedings Act 1980, the Social Security Act 2018, or the Tax Administration Act 1994:
+  (b) a deduction for the recovery of payments under regulations made under section 444 of the Social Security Act 2018.
 (6) If any question arises in any case as to the priority to be accorded to an attachment order made under this Act, each of the items specified in subsection (5) has priority over that attachment order.
 (7) In this section,—
   - **net earnings** , in relation to an earnings period, means the balance left after deducting from the defendant's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if the salary or wages were the only salary or wages paid to the defendant by the employer for the earnings period
