@@ -1,5 +1,5 @@
 # Social Welfare (Transitional Provisions) Amendment Act (No 2) 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Welfare (Transitional Provisions) Act 1990 and to provide, in accordance with an Accord on Retirement Income Policies entered into on the 25th day of August 1993 by the Alliance, Labour, and National Parliamentary Parties,—aFor adjustments to the level of New Zealand superannuation (formerly known as national superannuation) to be made within a range of levels:bFor transitional provisions relating to the raising of the age of eligibility for New Zealand superannuation
 
@@ -27,8 +27,8 @@ _Consolidation as at 2007-09-03_
 The following enactments are hereby consequentially repealed:
   (a) Section 15(1) of the Department of Social Welfare Act 1971:
   (b) Section 2 of the Social Security Amendment Act 1984:
-  (c) Section 2(3)(a) of the Social Security Amendment Act 1987:
-  (d) Subsections (7) and (10)(a) of section 14 of the Social Welfare (Transitional Provisions) Act 1990:
+  (c) Section 2(3)﻿(a) of the Social Security Amendment Act 1987:
+  (d) Subsections (7) and (10)﻿(a) of section 14 of the Social Welfare (Transitional Provisions) Act 1990:
   (e) Section 24(2) of the Social Security Amendment Act 1991:
   (f) Paragraphs (c) and (d) of section 5(3) and subsections (1) to (3) of section 12 of the Social Security Amendment Act (No 3) 1993.
 
