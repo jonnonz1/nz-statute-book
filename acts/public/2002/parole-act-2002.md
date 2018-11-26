@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -661,8 +661,8 @@ The Board may impose residential restrictions only if satisfied on reasonable gr
 ### 37 Expiry and revocation of direction for home detention
 [Repealed]
 
-### 38 Residential restrictions do not affect entitlements under Social Security Act 1964
-The fact that a person is subject to residential restrictions does not, of itself, affect any entitlement the person may have under the Social Security Act 1964.
+### 38 Residential restrictions do not affect entitlements under Social Security Act 2018
+The fact that a person is subject to residential restrictions does not, of itself, affect any entitlement the person may have under the Social Security Act 2018.
 
 ### 39 When detention conditions suspended or cancelled
 [Repealed]
