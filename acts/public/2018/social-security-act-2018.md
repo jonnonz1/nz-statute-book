@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2018-09-28_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -1723,16 +1723,18 @@ In sections 177 to 179, rate, in relation to an overseas pension, means the rate
   (f) compensation or damages:
   (g) the grant of a veteran’s entitlement:
   (h) a personal benefit excluding a benefit on behalf of a spouse or partner:
-  (i) a family protection claim:
-  (j) refugee or protected person status:
-  (k) hospitalisation:
-  (l) alcohol and drug treatment:
-  (m) the issue of a warrant for a beneficiary’s arrest:
-  (n) custody in prison or on remand:
-  (o) absence from New Zealand:
-  (p) an additional dependent child:
-  (q) voluntary unemployment or loss of employment through misconduct, etc:
-  (r) a non-entitlement period, stand down, or 100% suspension of benefit.
+  (i) a maintenance claim:
+  (j) a family protection claim:
+  (k) not being ordinarily resident in New Zealand:
+  (l) refugee or protected person status:
+  (m) hospitalisation:
+  (n) alcohol and drug treatment:
+  (o) the issue of a warrant for a beneficiary’s arrest:
+  (p) custody in prison or on remand:
+  (q) absence from New Zealand:
+  (r) an additional dependent child:
+  (s) voluntary unemployment or loss of employment through misconduct, etc:
+  (t) a non-entitlement period, stand down, or 100% suspension of benefit.
 
 ### Subpart 2 — Factors affecting benefits
 
@@ -3692,9 +3694,9 @@ An applicant or beneficiary or other person may appeal to the appeal authority a
   (c) that, for the purposes of the personal representative’s right of appeal under this row, includes the decision that B was paid an amount in excess of the amount to which B was by law entitled
 (2) A reference in this section to a decision to recover an amount from a person or estate includes (without limitation, and except as expressly provided in this section) all related decisions on all or any of the temporary deferral, rate, or method or methods, of debt recovery from the person or estate.
 
-### 400 Appeal must be begun within 3 months of notification or further allowed period
+### 400 Appeal must be begun within 60 working days of notification or further allowed period
 (1) An appeal under section 397, 398, or 399 must be begun within—
-  (a) 3 months after the date on which the appellant receives notification of—
+  (a) 60 working days after the date on which the appellant receives notification of—
     (i) the confirmation or variation (if the appeal is against a decision specified in section 395(a)); or
     (ii) the decision (if the appeal is against a decision specified in section 395(b)); or
   (b) a further period the appeal authority has under this section allowed.
@@ -3703,8 +3705,8 @@ An applicant or beneficiary or other person may appeal to the appeal authority a
   (b) notice of the decision is given to the appellant in a way prescribed by those regulations; and
   (c) the notice is (in the absence of evidence to the contrary) taken to have been received by the appellant as provided by those regulations.
 (3) The appeal authority may allow a further period within which the appeal must be begun if—
-  (a) the appeal is not to be, or has not been, begun within that 3-month period; and
-  (b) an application is made to it, before or after the end of that 3-month period, to allow a further period; and
+  (a) the appeal is not to be, or has not been, begun within the period of 60 working days; and
+  (b) an application is made to it, before or after the end of the period of 60 working days, to allow a further period; and
   (c) the appeal authority considers there is good and sufficient reason for the delay.
 
 **Appeal authority**
@@ -3725,7 +3727,7 @@ This Act does not affect appeals under other enactments to the appeal authority 
 ### 403 How to begin, and procedure and powers for, appeal to authority
 The authority’s procedure, and the authority’s powers to deal with (for example, confirm, vary, revoke, or refer back to MSD for reconsideration) the decision appealed, on an appeal under this Act, are—
   (a) as provided by this Act (and especially by sections 395 to 404 and Schedule 8) and regulations made under section 451; and
-  (b) for matters not provided for by this Act or those regulations, as the authority may determine.
+  (b) for matters not provided for by this Act or those regulations, or practice notes issued under clause 10D of Schedule 8, as the authority may determine.
 
 ### 404 Notice, and carrying into effect, of decision
 (1) On the determination of an appeal, the authority’s Secretary must send to the chief executive and to the appellant a memorandum of—
@@ -3747,21 +3749,21 @@ A party to a proceeding before the authority may appeal to the High Court, by wa
 
 ### 406 Appeal must be begun, and case stated lodged, within time prescribed or allowed
 (1) An appellant must begin an appeal within—
-  (a) 14 days after the date of the determination; or
+  (a) 10 working days after the date of the determination; or
   (b) a further period the High Court, or a High Court Judge, has under subsection (4) allowed.
 (2) The appellant’s case stated must be lodged within—
-  (a) 14 days after the date on which the appeal is begun; or
-  (b) a further period the authority’s chairperson has under subsection (3) allowed; or
+  (a) 10 working days after the date on which the appeal is begun; or
+  (b) a further period the authority’s chairperson or deputy chairperson has under subsection (3) allowed; or
   (c) a further period the High Court, or a High Court Judge, has under subsection (4) allowed.
-(3) The authority’s chairperson may allow a further period within which the appellant’s case stated must be lodged if—
-  (a) the appellant’s case stated is not to be, or has not been, lodged within that 14-day period; and
-  (b) the chairperson is asked, before or after the end of that 14-day period, to allow a further period; and
-  (c) the chairperson considers there is good and sufficient reason for the delay.
+(3) The authority’s chairperson or deputy chairperson may allow a further period within which the appellant’s case stated must be lodged if—
+  (a) the appellant’s case stated is not to be, or has not been, lodged within the period of 10 working days; and
+  (b) the chairperson or deputy chairperson is asked, before or after the end of the period of 10 working days, to allow a further period; and
+  (c) the chairperson or deputy chairperson considers there is good and sufficient reason for the delay.
 (4) The High Court or a High Court Judge may allow a period further to one prescribed or allowed under subsection (1)﻿(a) or (b) or subsection (2)﻿(a), (b), or (c) if—
   (a) the appellant’s appeal or case stated is not to be, or has not been, begun or lodged within that prescribed or allowed period; and
   (b) the appellant makes an application to the court or Judge, before or after the end of that prescribed or allowed period, to allow a further period; and
   (c) the court or Judge considers there is good and sufficient reason for the delay.
-(5) The authority’s chairperson may certify that an appeal has not been prosecuted by an appellant if the appellant’s case stated has not been lodged within the period prescribed, or within a further period allowed, under subsection (2)﻿(a), (b), or (c).
+(5) The authority’s chairperson or deputy chairperson may certify that an appeal has not been prosecuted by an appellant if the appellant’s case stated has not been lodged within the period prescribed, or within a further period allowed, under subsection (2)﻿(a), (b), or (c).
 
 ### 407 How to begin, and procedure for, appeal to High Court
 (1) Regulations made under section 451 provide for—
@@ -4373,7 +4375,7 @@ Regulations for the purposes of section 444(2)﻿(g) may (without limitation) do
   (m) Part 10 of Schedule 4 (rates of generally abolished former widows' benefits under section 21 of the Social Security Act 1964 as saved by clause 55 of Schedule 1 for reciprocity agreement applicants or recipients):
   (n) Part 11 of Schedule 4 (rates of generally abolished former DPB for solo parents under section 27B of the Social Security Act 1964 as saved by clause 55 of Schedule 1 for reciprocity agreement applicants or recipients):
   (o) Part 12 of Schedule 4 (rates of benefits payable to long-term hospital patients):
-  (p) Parts 1 and 2 of Schedule 5 (asset and income limits that may be applied to certain assistance):
+  (p) Schedule 5 (asset and income limits that may be applied to certain assistance):
   (q) Schedule 2 (means assessment for long-term residential care) of the Residential Care and Disability Support Services Act 2018:
   (r) Schedule 1 (New Zealand superannuation entitlements) of the New Zealand Superannuation and Retirement Income Act 2001.
 (3) Subsection (1) applies to an item that—
@@ -4810,7 +4812,7 @@ Reciprocity agreement recipients' entitlement continues as if former benefits no
   (b) the agreement or convention, or any replacement agreement or convention, continues in force in relation to New Zealand; and
   (c) the person continues to be ordinarily resident in New Zealand or the overseas country to which that agreement or convention applies.
 Alteration, and annual CPI adjustment, of rates of saved former benefits
-(6) Sections 452 and 453 authorise amendments and require adjustments to Parts 11 and 12 of Schedule 4.
+(6) Sections 452 and 453 authorise amendments and require adjustments to Parts 10 and 11 of Schedule 4.
 
 ### 56 Entitlement cards regulations
 Regulations made under section 132A of the Social Security Act 1964 are saved as if they were made under section 437.
@@ -5612,14 +5614,24 @@ An MSD employee cannot act as a member of the committee if that employee was inv
 
 ### 1 Social Security Appeal Authority
 (1) This clause establishes the Social Security Appeal Authority.
-(2) The authority consists of 3 persons appointed by the Governor-General on the recommendation of the Minister given after consultation with the Minister of Justice.
-(3) One of the members must be appointed as the authority’s chairperson.
+(2) The authority consists of at least 4 persons appointed by the Governor-General on the recommendation of the Minister given after consultation with the Minister of Justice.
+(3) One of the members must be appointed as the authority’s chairperson and another member as the authority’s deputy chairperson.
+(4) The deputy chairperson, when acting as the chairperson, has the same responsibilities as the chairperson.
+(5) The chairperson may delegate a responsibility or function of the chairperson to the deputy chairperson.
 
 ### 2 Term of office of members
 (1) Every member (except so far as this Act provides otherwise)—
-  (a) holds office for a term not exceeding 3 years; and
+  (a) holds office for a term of up to 5 years; and
   (b) may be reappointed.
-(2) Every member continues in office (despite any contrary provisions of this Act) until that member’s successor comes into office, unless that member vacates office earlier under clause 3.
+(2) A member continues in office despite the expiry of his or her term of office until—
+  (a) the member is reappointed; or
+  (b) the member’s successor is appointed; or
+  (c) the member is notified that a replacement member will not be appointed; or
+  (d) the member vacates or is removed from office.
+(3) A member who continues in office for any period under subclause (2), unless he or she was removed from office, may act as a member during that period for the purpose of—
+  (a) completing any appeal partly or wholly heard by the authority before the expiry of the member’s term of office:
+  (b) hearing any other appeal.
+(4) A member who has resigned, or whose successor is appointed or who will not be replaced (unless he or she was removed from office), may continue in office for the purpose of completing any appeal that is partly or wholly heard.
 
 ### 3 Extraordinary vacancies
 (1) A member may at any time be removed from office by the Governor-General for all or any of the following, proved to the Governor-General’s satisfaction:
@@ -5641,12 +5653,16 @@ An MSD employee cannot act as a member of the committee if that employee was inv
 (4) One member must be appointed as the authority’s chairperson.
 (5) Every member continues in office (despite any contrary provisions of this Act) until that member’s successor comes into office, unless that member vacates office earlier under clause 3 (which applies with all necessary modifications).
 
-### 5 Deputies of members
-(1) The Governor-General may, on the recommendation of the Minister given after consultation with the Minister of Justice, appoint some other person qualified for appointment to act in the place of a member (the chairperson or another member) who is (because of illness, absence, or any other cause) unable to perform the functions of the office.
-(2) Each person so appointed as deputy is, while the inability continues, taken for all purposes to be the chairperson or other member.
-(3) No appointment of a deputy, and no acts done by a deputy acting as chairperson or by the authority, while the deputy is acting as such, can in any proceedings be questioned on the ground that the occasion for the appointment had not arisen or had ceased.
-(4) The Governor-General may, on the recommendation of the Minister given after consultation with the Minister of Justice, appoint some other person qualified for appointment to be deputy chairperson, to act as chairperson from time to time as required.
-(5) Subclause (4) overrides subclauses (1) to (3).
+### 5 Appointment of temporary acting chairperson, deputy chairperson, or member
+(1) If the chairperson, the deputy chairperson, or a member becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if the chairperson, the deputy chairperson, or a member considers it is not proper or not desirable that he or she should adjudicate on a specified matter, the Governor-General, on the recommendation of the Minister after consultation with the Minister of Justice, may appoint a suitable person as the acting chairperson, the acting deputy chairperson, or an acting member for the period or purpose stated in the appointment.
+(2) No person may be appointed as the acting chairperson, the acting deputy chairperson, or an acting member unless he or she is eligible for appointment to the relevant position.
+(3) The acting chairperson, acting deputy chairperson, or acting member is, while acting in that position, to be treated as the chairperson, deputy chairperson, or member of the authority.
+(4) No appointment of an acting chairperson, acting deputy chairperson, or acting member, no act done by an acting chairperson, acting deputy chairperson, or acting member, and no act done by the authority may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
+
+### 5A Orderly and efficient operation
+The chairperson of the authority is responsible for making any arrangements as are practicable to ensure that he or she and each member perform their functions—
+  (a) in an orderly and efficient manner; and
+  (b) in a way that achieves the purposes of this Act.
 
 ### 6 Remuneration and travelling and other expenses
 (1) The authority is, for the purposes of the fees framework, a statutory body in which the Crown has an interest.
@@ -5667,9 +5683,9 @@ The chief executive of the Ministry of Justice must—
 
 ### 9 Sittings: location, quorum, and authority’s decision
 (1) Each sitting of the authority is to be held in the place it considers convenient having regard to the nature of the matters to be decided.
-(2) The presence of the chairperson and 1 other member is necessary to constitute a sitting of the authority.
+(2) The presence of the chairperson or deputy chairperson and 1 other member is necessary to constitute a sitting of the authority.
 (3) The decision of a majority of the members present at a sitting of the authority is the decision of the authority.
-(4) If those members are equally divided in opinion, the chairperson’s decision is the decision of the authority.
+(4) If those members are equally divided in opinion, the chairperson’s or deputy chairperson’s decision is the decision of the authority.
 
 ### 10 Sittings: in private or public
 (1) Every sitting of the authority is to be held in private.
@@ -5678,15 +5694,46 @@ The chief executive of the Ministry of Justice must—
   (a) the interests of the parties to the appeal; and
   (b) the interests of all other persons concerned.
 
+### 10A Hearing on papers
+(1) Despite anything in this Act to the contrary, the authority may determine an appeal on the papers if the authority considers it appropriate.
+(2) Before doing so, the authority must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
+
+### 10B Use of electronic facilities to hear matters
+The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the authority or the chairperson or deputy chairperson considers it appropriate and the necessary facilities are available.
+
+### 10C Authority may strike out, determine, or adjourn appeal
+(1) The authority may strike out, in whole or in part, an appeal if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+(2) If a party is neither present nor represented at the hearing of an appeal, the authority may,—
+  (a) if the party is required to be present, strike out the appeal; or
+  (b) determine the appeal in the absence of the party; or
+  (c) adjourn the hearing.
+
+### 10D Practice notes
+(1) The authority’s chairperson may issue practice notes as he or she thinks fit.
+(2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of other members of the authority, officers of the authority, and parties before the authority.
+
 ### 11 Publication of proceedings
 (1) No person may publish without the authority’s authorisation all or a part of any proceedings before the authority.
 (2) The authority’s authorisation is not given unless it makes (under this subclause, on an application for the purpose, or on in its own initiative) an order for that purpose.
 (3) Every person who contravenes subclause (1) commits an offence.
-(4) Every person who commits an offence against subclause (3) is liable on conviction to a fine not exceeding $100.
+(4) Every person who commits an offence against subclause (3) is liable on conviction to a fine not exceeding $3,000.
 
 ### 12 Authority has powers under Commissions of Inquiry Act 1908
 (1) The Authority is, within the scope of its jurisdiction, deemed to be a commission of inquiry under the Commissions of Inquiry Act 1908.
 (2) The provisions of that Act, except sections 2, 10, 11, and 12, apply accordingly, subject to the provisions of this Act.
+
+### 13 Contempt of authority
+(1) A person commits an offence if the person—
+  (a) wilfully insults or obstructs the authority or any member of it, a witness, or an officer of the authority during a sitting of the authority or while a member, a witness, or an officer is going to, or returning from, a sitting of the authority; or
+  (b) wilfully insults or obstructs any person in attendance at a sitting of the authority; or
+  (c) wilfully interrupts, or otherwise misbehaves at, a sitting of the authority; or
+  (d) wilfully and without lawful excuse disobeys any order or direction of the authority in the course of the hearing of any appeal.
+(2) A person who commits an offence against subclause (1) is liable on conviction to a fine not exceeding $1,000.
+(3) The authority may order the exclusion from a sitting of the authority of any person whose behaviour, in the opinion of the authority, constitutes an offence against subclause (1), whether or not the person is charged with the offence; and any officer of the authority or constable may take any steps that are reasonably necessary to enforce the exclusion.
 
 ## Schedule 9 — Medical board
 
@@ -5789,8 +5836,8 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 88D(a) | Section 26(a) (jobseeker support: ineligibility) is extended to include a reference to the deferral of work-test obligations in certain circumstances. (See also section 2(6)﻿(e) and clause 71 of Schedule 1, which re-enact an amendment equivalent to the latent amendment in section 15 of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016.) |
 | 102C(3)–(5) | Section 151(2) ensures the cost of an evidential drug test will be unable to be reimbursed to employers when the incurring of that cost was unnecessary because the person who failed a screening test waived the right to the evidential drug test. |
 | 120, 121 | Sections 247(2) and 248(2) vary ordinary sanctions rules by giving 50% protection (the reduction, suspension, cancellation, or non-entitlement period applies to only half the applicable rate of main benefit before any abatement on account of income) to people with dependent children, or sole parents, subject to a 13-week non-entitlement period under sections 225 and 227. |
-| 125F(1) and (2)﻿(a) | Clause 16(1) and (2)﻿(a) of Schedule 6 (which relates to information disclosure for services to young people not in education or training) is extended to add an additional purpose to the list of purposes for which the chief executive of the Ministry of Education may provide specified information to MSD: assessing young people’s risk of long-term welfare dependency. (See also section 2(6)﻿(e) and clauses 75(1) and 76 of Schedule 1, which re-enact amendments equivalent to the latent amendments in section 18(2) and (3) of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016.) |
-| 171A | Section 165 is about a young person aged 18 or 19 years who is receiving jobseeker support in the young person’s own right and who is at significant risk of long-term welfare dependency. Section 168 is about a young person aged 18 or 19 years who is receiving jobseeker support as the spouse or partner of a person granted that benefit, or who is a work-tested spouse or partner of a specified beneficiary, and who is at significant risk of long-term welfare dependency. Sections 165 and 168 commence on a date appointed under section 2(6)﻿(a). They re-enact the latent section 171A to be inserted by section 32 of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016. (See also sections 2(6)﻿(b) to (e), 155, and 431 and clauses 72 to 74 and 75(1), (3), and (4) of Schedule 1, and sections 5(3), 16, 33, 43(2), and 45 to 47 of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016.) |
+| 125F(1) and (2)﻿(a) | Clause 16(1) and (2)﻿(a) of Schedule 6 (which relates to information disclosure for services to young people not in education or training) is extended to add an additional purpose to the list of purposes for which the chief executive of the Ministry of Education may provide specified information to MSD: assessing young people’s risk of long-term welfare dependency. (See also section 2(6)﻿(e) and clauses 75(2) and 76 of Schedule 1, which re-enact amendments equivalent to the latent amendments in section 18(2) and (3) of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016.) |
+| 171A | Section 165 is about a young person aged 18 or 19 years who is receiving jobseeker support in the young person’s own right and who is at significant risk of long-term welfare dependency. Section 168 is about a young person aged 18 or 19 years who is receiving jobseeker support as the spouse or partner of a person granted that benefit, or who is a work-tested spouse or partner of a specified beneficiary, and who is at significant risk of long-term welfare dependency. Sections 165 and 168 commence on a date appointed under section 2(6)﻿(a). They re-enact the latent section 171A to be inserted by section 32 of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016. (See also sections 2(6)﻿(b) to (e), 155, and 431 and clauses 72 to 74 and 75(1), (2), and (3) of Schedule 1, and sections 5(3), 16, 33, 43(2), and 45 to 47 of the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016.) |
 | Schedule 9, clauses 1(ba) and (c), 5A | A person to whom section 30(1)﻿(e) (which relates to having lost the regular support of a spouse or partner who is subject to a sentence of imprisonment, etc) applies is treated as a single beneficiary for the purposes of clauses 1(e) and (f) and 6 of Part 1 (jobseeker support) of Schedule 4 (rates of benefits) (see also clause 8 of Schedule 1). |
 
 | Old law | New law—identified change related to regulations |
@@ -5991,7 +6038,7 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 80 | 311, 313, 314, 315 |
 | 80AA | 317, 318 |
 | 80A | 113 |
-| 80B | 6, Schedule 2 |
+| 80B | 315, 316, 440 |
 | 80BA | 6, 316, Schedule 2 |
 | 80BB | 440 |
 | 80BC | 440 |
@@ -6214,7 +6261,7 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 3 | 1A |
 | 4 | 1B |
 | 5 | New |
-| 6, Schedule 2 | 3(1), (5), 10B(5), 11(8), 11G(1), 11H(1), 20A, 39A(1), 60H(1), 60RAB(1) and (4), 61D(1), 61E, 68A(8), 80B, 88A, 126A(1), 157 |
+| 6, Schedule 2 | 3(1), (5), 10B(5), 11(8), 11G(1), 11H(1), 20A, 39A(1), 60H(1), 60RAB(1) and (4), 61D(1), 61E, 68A(8), 88A, 126A(1), 157 |
 | 7 | 5 |
 | 8 | 63 |
 | 9 | New |
@@ -6508,7 +6555,7 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 293 | 84(2) |
 | 294 | 129 |
 | 295 | 128 |
-| Part 7 (administration) |  |
+| Part 6 (administration) |  |
 | 296 | New |
 | 297 | 11D |
 | 298 | 12(1), (1A) |
@@ -6528,8 +6575,8 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 312 | 80D |
 | 313 | 80(2), (3) |
 | 314 | 80(4) |
-| 315 | 80(5), (8), (10), (13), (14) |
-| 316 | 80BA(1), (2), (3), (4), (5) |
+| 315 | 80(5), (8), (10), (13), (14), 80B |
+| 316 | 80B, 80BA(1), (2), (3), (4), (5) |
 | 317 | 80AA(1), (4), (5), (6), 125G(1) |
 | 318 | 80AA(2), (3), 125G(1) |
 | 319 | 61FI |
@@ -6603,7 +6650,7 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 387 | 132, SR 2007/229 r 9 |
 | 388 | 84A |
 | 389 | 61C |
-| Part 8 (reviews and appeals) |  |
+| Part 7 (reviews and appeals) |  |
 | 390 | New |
 | 391 | 10A(1), (1A) |
 | 392 | 10A(1B), 12K(11) |
@@ -6630,7 +6677,7 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 413 | 10B(4) |
 | 414 | 10B(2) |
 | 415 | 10B(3) |
-| Part 9 (other provisions) |  |
+| Part 8 (other provisions) |  |
 | 416 | New |
 | 417 | 84(1) |
 | 418 | 132 |
@@ -6655,7 +6702,7 @@ A person being paid a benefit under section 31 is not entitled to receive any as
 | 437 | 132A |
 | 438 | 11D, SR 2007/229 r 4 |
 | 439 | 68A(6), (7), (8) |
-| 440 | 80(5), (8), (10), (13), (14), 80BB, Schedule 28 |
+| 440 | 80(5), (8), (10), (13), (14), 80B, 80BB, Schedule 28 |
 | 441 | 132M |
 | 442 | 61CC(2), 82(3), (5), (6A), (6AA), (6AB), (6AC), (6F), (6G), 83, 132, SR 2007/229 r 5 |
 | 443 | 3(1), 61CB |
