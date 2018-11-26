@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2018-04-01_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -25,7 +25,7 @@ The purpose of this Act is—
   - **New Zealand superannuation** means the entitlements under Part 1, including both the standard and non-standard entitlements
   - **single living alone rate** means the rate of New Zealand superannuation specified in clause 1(a) of Schedule 1 that is payable to a single person who is living alone
   - **single sharing accommodation rate** means the rate of New Zealand superannuation specified in clause 1(b) of Schedule 1 that is payable to a single person who is not living alone.
-(2) In this Act, unless the context otherwise requires, any expression used in Part 1 or Schedule 1 but not defined in this Act has the same meaning as it has in the Social Security Act 1964.
+(2) In this Act, unless the context otherwise requires, any expression used in Part 1 or Schedule 1 but not defined in this Act has the same meaning as it has in the Social Security Act 2018 or the Residential Care and Disability Support Services Act 2018.
 
 ### 4A Meaning of living alone
 (1) A single person (person A) is living alone only if he or she meets the 2 conditions specified in subsections (2) and (3).
@@ -33,7 +33,7 @@ The purpose of this Act is—
 (3) The second condition is that person A does not share that residence with any person 18 years old or older, except a person to whom subsection (4) or (5) applies.
 (4) This subsection applies to person A's dependent child—
   (a) who—
-    (i) is 18 years old (despite the definition of child in section 3(1) of the Social Security Act 1964); and
+    (i) is 18 years old (despite the definition of child in Schedule 2 of the Social Security Act 2018); and
     (ii) is not financially independent; and
     (iii) is attending a school or a tertiary educational establishment; but
   (b) only until the close of 31 December in the year in which the child turns 18 years old.
@@ -64,7 +64,7 @@ The purpose of this Act is—
   - **net cost** is the cost of New Zealand superannuation entitlements net of any amount of tax deducted or withheld, or required to be deducted or withheld under the PAYE rules in the Income Tax Act 2007
   - **New Zealand superannuation** —
     (a) means the entitlements to New Zealand superannuation under Part 1, including both the standard and non-standard entitlements; and
-    (b) includes, for the avoidance of doubt in Part 2 and Schedule 3, entitlements to New Zealand superannuation under Part 1 as modified under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 (adoption of reciprocity agreement with other countries)
+    (b) includes, for the avoidance of doubt in Part 2 and Schedule 3, entitlements to New Zealand superannuation under Part 1 as modified under section 380 (orders adopting reciprocity agreements) of the Social Security Act 2018
   - **required annual capital contribution** has the same meaning as in section 43
   - **subsidiary** —
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
@@ -87,7 +87,7 @@ This Act binds the Crown.
 ### 7 Age qualification for New Zealand superannuation
 (1) Every person is entitled to receive New Zealand superannuation who attains the age of 65 years.
 (2) However, a person is not entitled to receive New Zealand superannuation in respect of any period for which he or she has made an election under any of clause 52 or clause 68 or clause 72 of Schedule 1 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 to be entitled to weekly compensation under that Act rather than to New Zealand superannuation.
-(3) Subsection (1) applies subject to the provisions of this Part and of the Social Security Act 1964.
+(3) Subsection (1) applies subject to the provisions of this Part and of the Social Security Act 2018 or the Residential Care and Disability Support Services Act 2018.
 
 ### 8 Residential qualification for New Zealand superannuation
 No person is entitled to New Zealand superannuation unless the person—
@@ -112,7 +112,7 @@ No person is entitled to New Zealand superannuation unless the person—
 
 ### 11 Commencement of New Zealand superannuation
 (1) New Zealand superannuation commences on the date on which the applicant becomes entitled to receive it or the date on which the application for it is received by the department, whichever is the later date.
-(2) This section is subject to section 80AA of the Social Security Act 1964.
+(2) This section is subject to section 317 of the Social Security Act 2018.
 
 ### 12 Standard rates of New Zealand superannuation
 (1) The rate of New Zealand superannuation payable to any person is the appropriate rate stated in clause 1 or clause 2 of Schedule 1.
@@ -144,7 +144,7 @@ No person is entitled to New Zealand superannuation unless the person—
   (a) so that the weekly amounts referred to in section 16 are set in accordance with that section; and
   (b) so that the rate of New Zealand superannuation stated in paragraph (b) of clause 2 of Schedule 1 preserves its proportional relationship (after the deduction of standard tax) to the rates stated in paragraphs (a), (b), and (c) of clause 1 of that schedule.
 (4) An adjustment under this section must not reduce the weekly amounts payable under this section.
-(5) Section 61H(5) of the Social Security Act 1964 applies to every Order in Council made under subsection (2) as if that Order in Council were made under that section.
+(5) Every Order in Council made under subsection (2) has the force of law as if it was enacted by this Act.
 (6) Every Order in Council made under subsection (2) comes into force or is considered to come into force on 1 April of the calendar year in which it is made, and applies to New Zealand superannuation payable on and after that date.
 
 ### 15A Orders are confirmable instruments
@@ -163,14 +163,14 @@ The explanatory note of an Order in Council made under section 15(2) must indica
 **Non-standard New Zealand superannuation entitlements**
 
 ### 17 Entitlement to benefits for spouses or partners of persons in long-term residential care in hospital or rest home
-(1) This section applies to any person who is not in long-term residential care and whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (within the meaning of section 136 of the Social Security Act 1964).
+(1) This section applies to any person who is not in long-term residential care and whose spouse or partner is in long-term residential care in a hospital or rest home, whether or not the spouse or partner is a resident assessed as requiring care (as defined in section 5 of the Residential Care and Disability Support Services Act 2018).
 (2) Every person to whom this section applies is entitled to receive—
   (a) New Zealand superannuation at the appropriate rate payable to a person who is single, in any case where that person is entitled to receive New Zealand superannuation in his or her own right; or
   (b) New Zealand superannuation at the appropriate rate payable to a person who is single, in any case where—
     (i) that person is not entitled to New Zealand superannuation in his or her own right; but
     (ii) his or her spouse or partner is entitled to New Zealand superannuation and was entitled to make and had made an election under section 6(2) or section 11(2) of the Social Welfare (Transitional Provisions) Act 1990 before 1 October 1991; or
-  (c) an emergency benefit under section 61 of the Social Security Act 1964 at the appropriate rate of a supported living payment payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
-(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under Part 4 of that Act.
+  (c) an emergency benefit under section 63 of the Social Security Act 2018 at the appropriate rate of a supported living payment payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
+(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under the Residential Care and Disability Support Services Act 2018.
 
 ### 18 Single living alone rate for spouses or partners of persons in long-term residential care in hospital or rest home
 However, every person to whom section 17(2)﻿(a) or (b) applies is entitled to receive New Zealand superannuation at the single living alone rate if the person is living alone.
@@ -180,7 +180,7 @@ However, every person to whom section 17(2)﻿(a) or (b) applies is entitled to 
 (2) This section applies to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, and a single person who receives New Zealand superannuation, or who becomes entitled to receive New Zealand superannuation.
 (3) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for a period of 13 weeks or less is not affected.
 (4) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for more than 13 weeks is, on and after the commencement of the 14th week of hospitalisation, the rate stated in clause 3 of Schedule 1.
-(5) Subsection (4) does not apply to a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964) who is a patient in a hospital and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142 of that Act.
+(5) Subsection (4) does not apply to a resident assessed as requiring care (as defined in section 5 of the Residential Care and Disability Support Services Act 2018) who is a patient in a hospital and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in section 11 of that Act) under section 18, 22(2), 26, 54, or 55 of that Act.
 (6) However, the chief executive may, at the chief executive’s discretion,—
   (a) pay to any patient to whom subsection (4) applies a higher rate than the rate stated in clause 3 of Schedule 1 after having regard to the patient’s personal financial circumstances.
   (b)
@@ -189,22 +189,22 @@ However, every person to whom section 17(2)﻿(a) or (b) applies is entitled to 
   (b) the maximum rate of New Zealand superannuation payable to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving New Zealand superannuation.
 (8) In any case where the rate of New Zealand superannuation has been reduced in accordance with this section and the superannuitant in hospital is absent from the hospital for not more than 28 days, the rate of New Zealand superannuation payable on return to hospital must be determined as if that absence has not occurred.
 (9) This section does not entitle a single person or a couple who are married or in a civil union or in a de facto relationship to receive a greater amount of New Zealand superannuation, as a result of hospitalisation, than would otherwise have been payable.
-(10) This section applies despite anything to the contrary in the Social Security Act 1964 or in the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
+(10) This section applies despite anything to the contrary in the Social Security Act 2018 or in the Residential Care and Disability Support Services Act 2018.
 
 ### 20 Special disability allowance
 (1) This section applies if—
   (a) a person receives New Zealand superannuation; and
   (b) the person's spouse or partner is either—
     (i) a patient in a hospital (as defined in section 19(1)) who is in receipt of a reduced benefit under section 19(4) or (6); or
-    (ii) a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964), and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or 142 of that Act.
+    (ii) a resident assessed as requiring care (as defined in section 5 of the Residential Care and Disability Support Services Act 2018), and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in section 11 of that Act) under section 18, 22(2), 26, 54, or 55 of that Act.
   (c)
 (2) The chief executive must grant a special disability allowance at the rate stated in clause 4 of Schedule 1, for the purpose of defraying expenses arising from the spouse’s or partner’s hospitalisation.
-(3) This section applies despite anything in section 69C of the Social Security Act 1964 but subject to section 68A of that Act.
+(3) This section applies despite anything in subpart 14 of Part 2 of the Social Security Act 2018 (disability allowance) but subject to sections 186 and 310 and clause 19 of Schedule 3 of that Act (which relate to insurance payments).
 
 **Payment overseas of New Zealand superannuation**
 
 ### 21 Effect of absence from New Zealand on New Zealand superannuation
-A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in sections 22 to 35 or in any agreement or convention adopted under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
+A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in sections 22 to 35 or in any reciprocity agreement adopted under section 380 of the Social Security Act 2018.
 
 ### 22 First 26 weeks of certain temporary absences
 New Zealand superannuation that would otherwise be payable to a person (other than a person who is receiving New Zealand superannuation overseas under section 26) is payable in respect of the first 26 weeks of any absence from New Zealand if—
@@ -228,7 +228,7 @@ If a person who is absent from New Zealand would have become entitled to New Zea
 
 ### 26 Payment overseas of New Zealand superannuation
 (1) This subsection—
-  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, that relates to New Zealand superannuation; and
+  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocity agreement in force under section 380 of the Social Security Act 2018, that relates to New Zealand superannuation; and
   (b) applies to a person if he or she has left New Zealand at a time when he or she was—
     (i) intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 30(1)); or
     (ii) intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.
@@ -263,8 +263,8 @@ If a person who is absent from New Zealand would have become entitled to New Zea
   (b) any period of absence from New Zealand—
     (i) while the person was engaged in missionary work as a member of, or on behalf of, any religious body; or
     (ii) while the person's spouse or partner was engaged in missionary work as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
-  (c) any period of absence from New Zealand while the person was treated under section 79(3)﻿(a) of the Social Security Act 1964 as being resident and present in New Zealand; or
-  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)﻿(a) of the Social Security Act 1964 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)﻿(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
+  (c) any period of absence from New Zealand while the person was treated under section 79(3)﻿(a) of the Social Security Act 1964 or regulations made under section 421 of the Social Security Act 2018 as being resident and present in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person treated under section 79(3)﻿(a) of the Social Security Act 1964 or regulations made under section 421 of the Social Security Act 2018 as being resident and present in New Zealand, the person was also (by virtue of section 79(3)﻿(b) of the Social Security Act 1964) treated as being resident and present in New Zealand.
 (3) Subsection (2) applies to a period of absence only if the chief executive is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
 (4) Subsection (2)﻿(b) applies to a period of absence only if the chief executive is satisfied that the person concerned either was born in New Zealand or—
   (a) in the case of a person to whom subsection (2)﻿(b)﻿(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
@@ -287,26 +287,30 @@ A person is not entitled to be paid New Zealand superannuation under section 26 
 ### 28 Date of commencement of payment overseas
 (1) The date of commencement of payment overseas of New Zealand superannuation under section 26 is the first pay day after the date of the applicant’s departure from New Zealand.
 (2) However, in the case of an application under section 27, the date of commencement is the first pay day after the date on which the application was received by the department.
-(3) Subsection (2) is subject to section 80AA of the Social Security Act 1964.
+(3) Subsection (2) is subject to section 317 of the Social Security Act 2018.
 
 ### 29 Relationship with other benefit provisions
 (1)
-(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)﻿(d) of that Act.
-(3) Despite the provisions of section 80 of the Social Security Act 1964, on the death of a person who receives New Zealand superannuation overseas under section 26, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.
+(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any assistance under the Social Security Act 2018 or under a programme approved under section 100 or 101 of that Act.
+(3) When a person who receives New Zealand superannuation overseas under section 26 dies, the benefit terminates (despite sections 325 to 330 of the Social Security Act 2018) on a date—
+  (a) to be determined by the chief executive; and
+  (b) that must be not more than 4 weeks after the person’s date of death.
 (4)
-(4A) Except as provided in this section, the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)﻿(a), 75, 75A, 76, 77, and 82(7)) applies to New Zealand superannuation being paid under section 26.
+(4A) The Social Security Act 2018 applies to New Zealand superannuation being paid under section 26, but—
+  (a) sections 111, 114, 173 to 196, 204, and 206 to 219 of that Act do not apply to that New Zealand superannuation; and
+  (b) the rest of that Act applies to that New Zealand superannuation except as provided in this section.
 (5)
 
 ### 30 Specified Pacific country
 (1) In sections 31 to 35, specified Pacific country means a country or territory—
   (a) that is listed in Schedule 2; and
-  (b) that is not a country with which New Zealand has a reciprocal agreement in force under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, which relates to the portability of New Zealand superannuation.
+  (b) that is not a country with which New Zealand has a reciprocity agreement in force under section 380 of the Social Security Act 2018, which relates to the portability of New Zealand superannuation.
 (2) The Governor-General may from time to time, by Order in Council, amend Schedule 2 by—
   (a) adding the name of any Pacific country or territory; or
   (b) omitting the former name of a country or territory and substituting its new name.
 (3) The Order in Council must state the date on which it takes effect, which may be a date before the date on which it is made.
 (4) The Order in Council applies to payments of New Zealand superannuation under section 31 payable on or after the date on which the order takes effect.
-(5) Section 61H(5) of the Social Security Act 1964 applies to every Order in Council made under subsection (2)﻿(a) as if it had been made under that section.
+(5) Every Order in Council made under subsection (2)﻿(a) has the force of law as if it was enacted by this Act.
 
 ### 30A Orders are confirmable instruments
 The explanatory note of an Order in Council made under section 30(2) must indicate that—
@@ -333,7 +337,7 @@ The explanatory note of an Order in Council made under section 30(2) must indica
   (b) who is resident in the Cook Islands, Niue, or Tokelau on the date of the application; and
   (c) who, before he or she left New Zealand to reside in one of the countries or in the territory specified in paragraph (b), met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c); and
   (d) who is resident in a specified Pacific country when each payment of New Zealand superannuation is due to be paid to him or her.
-(5) If subsection (4) applies, an application to be paid New Zealand superannuation in a specified Pacific country must be made in addition to an application to be paid New Zealand superannuation under section 11D of the Social Security Act 1964.
+(5) If subsection (4) applies, an application to be paid New Zealand superannuation in a specified Pacific country must be made in addition to an application to be paid New Zealand superannuation under section 297 (and regulations made under section 438) of the Social Security Act 2018.
 (6) The applications referred to in subsection (5) may be made together or separately, and may be made—
   (a) before an applicant meets the age qualification for New Zealand superannuation in section 7, in anticipation of becoming entitled to be paid that benefit on reaching the qualifying age; or
   (b) when or after the applicant meets the age qualification.
@@ -348,7 +352,7 @@ The explanatory note of an Order in Council made under section 30(2) must indica
 (2) For the purposes of this section, the base rate is,—
   (a) in the case of a single person, the amount stated in clause (1)﻿(b) of Schedule 1; and
   (b) in the case of a person who is married or in a civil union or in a de facto relationship, the amount stated in clause (1)﻿(c) of that schedule.
-(3) However, if section 70 of the Social Security Act 1964 applies, that amount must be reduced by the amount deducted in accordance with that section.
+(3) However, if sections 187 to 191 of the Social Security Act 2018 apply, that amount must be reduced by the amount deducted in accordance with those sections.
 
 ### 33 Commencement and termination of payments
 (1) The commencement date of payment of a benefit under section 31 is the first pay day after the date of the person’s departure from New Zealand, unless subsection (1A) applies.
@@ -358,13 +362,11 @@ The explanatory note of an Order in Council made under section 30(2) must indica
 (2) When a person being paid a benefit under section 31 dies, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.
 
 ### 34 Effect on other benefits
-A person being paid a benefit under section 31 is not entitled to receive—
-  (a) any supplementary or special benefit, temporary additional support, lump sum payment, payment under a welfare programme approved under section 124(1)﻿(d) of the Social Security Act 1964, or any other assistance under that Act.
-  (b)
+A person being paid a benefit under section 31 is not entitled to receive any assistance under the Social Security Act 2018 or under a programme approved under section 100 or 101 of that Act.
 
-### 35 Application of this Act and Social Security Act 1964
+### 35 Application of this Act and Social Security Act 2018
 (1) Sections 22 to 29 do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under section 31.
-(2) The Social Security Act 1964 (except sections 74(a), 75, 75A, 76, 77, and 80) applies to New Zealand superannuation being paid in a specified Pacific country under section 31.
+(2) The Social Security Act 2018 (except sections 204, 206 to 208, 217 to 219, 311, and 313 to 315) applies to New Zealand superannuation being paid in a specified Pacific country under section 31.
 
 ## Part 2 — New Zealand Superannuation Fund
 
