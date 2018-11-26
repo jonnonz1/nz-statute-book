@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4161,10 +4161,10 @@ Exempt income
   (e) an overseas pension.
 Meaning of overseas pension
 (2) In this section, overseas pension means—
-  (a) an overseas pension, to the extent of sums subtracted under section 70 of the Social Security Act 1964, by the department currently responsible for administering that Act, from—
-    (i) a monetary benefit paid under that Act; or
-    (ii) a monetary benefit, other than New Zealand superannuation or a veteran’s pension, paid under the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
-  (b) an overseas pension to the extent to which it is subject to an arrangement under section 70(3) of the Social Security Act 1964.
+  (a) an overseas pension, to the extent of amounts deducted under section 189 of the Social Security Act 2018, by the department currently responsible for administering that Act, from—
+    (i) a monetary benefit paid under that Act (other than section 380, which relates to reciprocity agreements with other countries); or
+    (ii) a monetary benefit, other than New Zealand superannuation or a veteran’s pension, paid under section 380 of that Act:
+  (b) an overseas pension to the extent to which it is subject to an arrangement under section 190 of the Social Security Act 2018.
 
 ### CW 28B Foreign superannuation withdrawal in initial period of residency
 A foreign superannuation withdrawal is exempt income of a person if the person—
@@ -4211,7 +4211,7 @@ The following are exempt income:
 ### CW 33 Allowances and benefits
 Exempt income
 (1) The following are exempt income:
-  (a) a monetary benefit under the Social Security Act 1964, except an income-tested benefit:
+  (a) a monetary benefit under the Social Security Act 2018, except an income-tested benefit:
   (b) a payment under Part 5 or 13 of the Accident Insurance Act 1998, or under Part 11 of the Accident Compensation Act 2001, of any of the following kinds:
     (i) a payment to an insured person for treatment or rehabilitation:
     (ii) an independence allowance:
@@ -4219,7 +4219,7 @@ Exempt income
     (iv) a survivor’s grant:
     (v) a childcare payment:
   (ba) a payment under section 363 of the Oranga Tamariki Act 1989:
-  (c) a participation allowance under regulations made under the Social Security Act 1964:
+  (c) a participation allowance under regulations made under section 429 of the Social Security Act 2018:
   (d) a disabled workshop payment:
   (e) an amount derived by a trustee of a trust created for the benefit of persons harmed by thalidomide, or a distribution to a beneficiary from the trust:
   (f) an amount derived by a trustee of the New Zealand Agent Orange Trust that represents the settlement fund and income attributable to the fund, or a distribution to a beneficiary from the trust.
@@ -26667,7 +26667,7 @@ Exclusions
     (ii) from a testamentary trust described in section HC 37:
     (iii) from a Maori authority:
     (iv) directly from a group investment fund:
-    (v) by a person for whom a child disability allowance is paid under the Social Security Act 1964.
+    (v) by a person for whom a child disability allowance is paid under the Social Security Act 2018.
 Relationship with other provisions
 (5) This section overrides sections HC 5, HC 18 to HC 20, HC 22, HC 23, and HC 32.
 
@@ -31516,7 +31516,7 @@ In subparts MB to MG and MZ,—
   - **abating WFF tax credit** means a tax credit under section MD 1 (Abating WFF tax credit)
   - **Best Start credit abatement** means the component of the Best Start tax credit that is calculated using the formula in section MG 3 (Best Start credit abatement)
   - **Best Start tax credit** means a tax credit under section MG 1 (Best Start tax credit entitlement)
-  - **chief executive** means the chief executive of the department currently responsible for administering the Social Security Act 1964
+  - **chief executive** means the chief executive of the department currently responsible for administering the Social Security Act 2018
   - **child tax credit** means the component of the WFF tax credit that is calculated using the formula in section MZ 2 (Calculation of child tax credit)
   - **family assistance credit**
   - **family credit abatement** means the component of the abating WFF tax credit that is calculated using the formula in section MD 13 (Calculation of family credit abatement)
@@ -31786,10 +31786,10 @@ Payments and benefits excluded from family scheme income
   (j) compensation for a loss other than a loss of income:
   (k) lump sum compensation under the Accident Compensation Act 2001:
   (kb) a payment of a foster care allowance under section 363 of the Oranga Tamariki Act 1989:
-  (l) a monetary benefit under the Social Security Act 1964 that is exempt income:
+  (l) a monetary benefit under the Social Security Act 2018 that is exempt income:
   (m) a pension or allowance under the Veterans’ Support Act 2014 that is exempt income:
   (n) a payment that is exempt income under section CW 33(1)﻿(c), (e), or (f) (Allowances and benefits):
-  (o) an amount that is declared not to be income for the purposes of the Social Security Act 1964 by a regulation under section 132 of that Act:
+  (o) an amount that is declared not to be income for the purposes of the Social Security Act 2018 by regulations made under section 422 of that Act:
   (p) included in the family scheme income of the person under another section:
   (q) expressly excluded from the family scheme income of the person under another section:
   (r) a payment—
@@ -32006,7 +32006,7 @@ The first requirement for an entitlement to an in-work tax credit is that the pe
 When child financially dependent
 (1) The second requirement for an entitlement to an in-work tax credit is that the person referred to in section MD 4 is the principal caregiver for a child who is financially dependent on them.
 Inclusions
-(2) A child for whom payments are made under section 363 of the Oranga Tamariki Act 1989, or a child for whom a benefit is paid under section 28 or 29 of the Social Security Act 1964, is treated as financially dependent on the person.
+(2) A child for whom payments are made under section 363 of the Oranga Tamariki Act 1989, or a child for whom an orphan’s benefit or an unsupported child’s benefit is paid under section 43 or 46 of the Social Security Act 2018, is treated as financially dependent on the person.
 Relationship with section MC 8
 (3) Subsection (2) overrides section MC 8 (Continuing requirements).
 
@@ -32466,7 +32466,7 @@ Order in Council under subsection (1)﻿(ab)
 Timing of Order in Council
 (3) An Order in Council made under this section must be made no later than 1 December in each year and must apply from 1 April following that date.
 Review of in-work tax credit and parental tax credit
-(4) The Minister responsible for the Inland Revenue Department, in consultation with the Minister responsible for the department currently responsible for administering the Social Security Act 1964, must cause a review to be undertaken of the amounts of the in-work tax credit and the parental tax credit allowable under subparts MB to MF and MZ.
+(4) The Minister responsible for the Inland Revenue Department, in consultation with the Minister responsible for the department currently responsible for administering the Social Security Act 2018, must cause a review to be undertaken of the amounts of the in-work tax credit and the parental tax credit allowable under subparts MB to MF and MZ.
 Timing of review
 (5) A review undertaken under subsection (4) must occur,—
   (a) in the case of the first review, not later than 30 June 2008; and
@@ -40532,7 +40532,7 @@ In this Act, unless the context requires otherwise,—
   - **charitable trust** is defined in section HC 13 (Charitable trusts) for the purposes of the trust rules
   - **chief executive** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **chief executive of the administering department** —
-    (a) means the chief executive, appointed under the State Sector Act 1988, of the department responsible for administering the Social Security Act 1964; and
+    (a) means the chief executive, appointed under the State Sector Act 1988, of the department responsible for administering the Social Security Act 2018; and
     (b) includes any person authorised to perform any of the functions of the chief executive
   - **child** in subparts MA to MG and MZ (which relate to tax credits for families), and in the definition of , means a person who is not in a marriage, civil union, or de facto relationship, and who—
     (a) is aged 15 years or less; or
@@ -40864,7 +40864,7 @@ In this Act, unless the context requires otherwise,—
       (iii) who is financially dependent on that person:
     (b) for the purposes of the child tax credit and WFF tax credits other than the Best Start tax credit, does not include a child in relation to whom—
       (i) a payment is made under section 363 of the Oranga Tamariki Act 1989:
-      (ii) a benefit is being paid under section 28 or 29 of the Social Security Act 1964:
+      (ii) an orphan’s benefit or unsupported child’s benefit is being paid under section 43 or 46 of the Social Security Act 2018:
     (c) despite paragraph (b)﻿(i), for the purposes of the child tax credit and WFF tax credits other than the Best Start tax credit, includes a child or a young person, as defined in section 2(1) of the Oranga Tamariki Act 1989,—
       (i) of whom the person is a parent within the meaning of that Act; and
       (ii) to whom section 361 of that Act applies; and
@@ -41346,8 +41346,8 @@ In this Act, unless the context requires otherwise,—
       (ii) as the self-employment of a person in a business, manufacture, profession, trade, or undertaking carried on for pecuniary profit for not less than an average of 30 hours each week; or
       (iii) for any number of hours that is regarded as full-time employment for the purpose of an agreement, award, or contract relating to the employment; or
     (b) in receipt of a basic grant or an independent circumstances grant under the Student Allowances Regulations 1998 (SR 1998/277) or any regulations in substitution for those regulations; or
-    (c) in receipt of payments under a Government-assisted scheme that the chief executive of the administering department considers analogous to a benefit payable under any of Parts 1A to 1P of the Social Security Act 1964; or
-    (d) in receipt of a benefit, as defined in section 3 of the Social Security Act 1964
+    (c) receiving payments under a Government-assisted scheme that the chief executive of the administering department considers analogous to a benefit payable under the Social Security Act 2018 (as the term benefit is defined in Schedule 2 of that Act); or
+    (d) receiving a benefit as defined in Schedule 2 of the Social Security Act 2018
   - **first business day** , in relation to provisional tax, means—
     (a) the first day in an income year on which a person with a provisional tax liability derives income or incurs expenditure as a result of carrying on a taxable activity, if the person is not a natural person; and
     (b) the day following the last day in an income year on which a person with a provisional tax liability derived income from employment, if the person is a natural person
@@ -41716,16 +41716,13 @@ In this Act, unless the context requires otherwise,—
   - **income year** means,—
     (a) for a person who has elected, under section 38 of the Tax Administration Act 1994 and with the Commissioner’s consent, to have a period not ending on 31 March, the elected period (which may be less than a year in some cases):
     (b) for any other person, the tax year
-  - **income-tested benefit** means any of the following benefits paid or payable under the Social Security Act 1964:
-    (a) sole parent support:
-    (b) emergency benefit:
-    (c)
-    (d) supported living payment:
-    (e)
-    (f) jobseeker support:
-    (g)
-    (h) young parent payment:
-    (i) youth payment
+  - **income-tested benefit** means any of the following benefits paid or payable under the Social Security Act 2018:
+    (a) jobseeker support:
+    (b) sole parent support:
+    (c) supported living payment:
+    (d) youth payment:
+    (e) young parent payment:
+    (f) emergency benefit
   - **increase in savings**
   - **independent living** means occupancy of a place under an arrangement that—
     (a) does not have a level of compulsory care:
@@ -42352,7 +42349,7 @@ In this Act, unless the context requires otherwise,—
       (iii)
     (c) does not include—
       (i) portable New Zealand superannuation; or
-      (ii) a supplement or benefit paid or payable under any of sections 61DB, 61DC, 61DD, 61DE, 61EA, 61G, and 69C of the Social Security Act 1964
+      (ii) a supplement or benefit paid or payable under any of sections 65 (accommodation supplement), 85 (disability allowance), 90 (funeral grants, see also regulations made under section 427), and 96 (temporary additional support) of the Social Security Act 2018
   - **New Zealand superannuitant** , for a tax year,—
     (a) means a person who receives New Zealand superannuation in the tax year; and
     (b) does not include a person who receives New Zealand superannuation at a rate specified in—
@@ -42719,11 +42716,11 @@ In this Act, unless the context requires otherwise,—
   - **portable New Zealand superannuation** means New Zealand superannuation paid or payable overseas under—
     (a) section 26(2)﻿(a) of the New Zealand Superannuation and Retirement Income Act 2001, or under section 26(2)﻿(b) where the superannuitant is residing in a country to which section 26(1)﻿(a) of that Act applies; or
     (b) section 31 of the New Zealand Superannuation and Retirement Income Act 2001; or
-    (c) section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
+    (c) section 380 (orders adopting reciprocity agreements) of the Social Security Act 2018
   - **portable veteran’s pension** means a veteran's pension paid or payable overseas under—
     (a) section 182(1)﻿(a) of the Veterans' Support Act 2014, or under section 182(1)﻿(b) where the pensioner is residing in a country to which section 181(a) of that Act applies; or
     (b) section 191 of the Veterans' Support Act 2014; or
-    (c) section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
+    (c) section 380 (orders adopting reciprocity agreements) of the Social Security Act 2018
   - **portfolio allocation period**
   - **portfolio calculation period**
   - **portfolio class fraction**
