@@ -1,5 +1,5 @@
 # Maori Trust Boards Act 1955
-_Consolidation as at 2015-12-17_
+_Consolidation as at 2018-11-26_
 
 > An Act to make better provision for the administration of certain Maori Trust Boards
 
@@ -379,7 +379,7 @@ Nothing in the Maori Affairs Act 1953 shall prevent the alienation, assignment, 
 (2) Each Board may pay to its members remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951 and the provisions of that Act shall apply accordingly.
 
 ### 41A Payments to Maori Trust Boards by Crown not to constitute income for taxation purposes
-(1) No money paid to a Maori Trust Board from public money pursuant to any provision contained in Part 1, and no money so paid under the corresponding provisions of any Act repealed by this Act, shall, for the purposes of the Income Tax Act 2007, or the Social Security Act 1964, or any other enactment, be deemed to be income of that Board.
+(1) No money paid to a Maori Trust Board from public money pursuant to any provision contained in Part 1, and no money so paid under the corresponding provisions of any Act repealed by this Act, shall, for the purposes of the Income Tax Act 2007, or the Social Security Act 2018, or any other enactment, be deemed to be income of that Board.
 (2) The provisions of subsection (1) shall apply to all money paid or payable to the Tuwharetoa Maori Trust Board pursuant to section 10.
 
 ## Part 3 — Elections
