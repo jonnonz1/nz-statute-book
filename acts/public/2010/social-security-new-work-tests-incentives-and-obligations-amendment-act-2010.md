@@ -1,5 +1,5 @@
 # Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010
-_Consolidation as at 2010-08-25_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (New Work Tests, Incentives, and Obligations) Amendment Act 2010.
