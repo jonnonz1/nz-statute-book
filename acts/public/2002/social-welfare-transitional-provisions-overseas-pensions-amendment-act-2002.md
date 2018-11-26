@@ -1,5 +1,5 @@
 # Social Welfare (Transitional Provisions—Overseas Pensions) Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 (1) This Act is the Social Welfare (Transitional Provisions—Overseas Pensions) Amendment Act 2002.
@@ -24,27 +24,27 @@ The purpose of this Act is—
 Section 19A of the principal Act is amended by omitting from subsections (3) and (4) the word contains, and substituting in each case the words is subject to.
 
 ### 5 Terms and conditions for recovery of social security debts
-(1) Section 19B(1)(a) of the principal Act is amended by repealing subparagraph (ii), and substituting the following subparagraph:.
+(1) Section 19B(1)﻿(a) of the principal Act is amended by repealing subparagraph (ii), and substituting the following subparagraph:
   (ii) in respect of which any right of review or appeal of the determination of the debt, under the law under which the debt was determined (other than a right of judicial review or complaint under laws relating to administrative decisions generally, or under human rights laws),—
     (A) has been exhausted or has expired; or
     (B) if there is no time limit for the exercise of any such right, has not been exercised, or has been exercised and the review or appeal has been finally determined; and
-(2) Section 19B(1) of the principal Act is amended by inserting, after paragraph (f), the following paragraph:.
+(2) Section 19B(1) of the principal Act is amended by inserting, after paragraph (f), the following paragraph:
   (fa) if a party gives assistance in respect of any social security debt for which there is no time limit for exercising any right of review or appeal of the determination of the debt under the law under which the debt was determined, or for which there is a time limit but a right of review or appeal may be exercised after its expiry in the discretion of the court or tribunal or body or person concerned, or in the discretion of any other person,—
     (i) the requesting institution must immediately advise the requested institution if any such right is exercised; and
     (ii) the requested institution must defer recovery of the debt until notified by the requesting institution that the review or appeal is finally determined:
 (3) Section 19B of the principal Act is amended by inserting, after subsection (1), the following subsection:
-  (1A) For the purposes of subsection (1)(a)(ii), a right of review or appeal under the law under which a debt was determined has expired—
+  (1A) For the purposes of subsection (1)﻿(a)﻿(ii), a right of review or appeal under the law under which a debt was determined has expired—
     (a) if the right has not been exercised within the time limit provided for its exercise; and
     (b) irrespective of whether the court or tribunal or body or person that would have jurisdiction in respect of the review or appeal, or any other person, retains a discretion (however expressed in that law) to allow the right of review or appeal to be exercised after that time.
 
 ### 6 Terms and conditions for exchange of information for social security purposes
-Section 19C(1) of the principal Act is amended by omitting paragraph (b), and substituting the following paragraph:.
+Section 19C(1) of the principal Act is amended by omitting paragraph (b), and substituting the following paragraph:
   (b) the requested institution of a party may supply to the requesting institution any information about the person to whom the request relates that it holds or is lawfully able to obtain:
 
 ### 7 Actions by chief executive under mutual assistance provisions
 (1) Section 19D of the principal Act is amended by inserting, after subsection (4), the following subsections:
   (4A) Subsection (4B) applies if—
-    (a) an agreement contains a provision of the kind referred to in section 19A(2)(b); and
+    (a) an agreement contains a provision of the kind referred to in section 19A(2)﻿(b); and
     (b) the social security purposes concerned are wholly or principally the administration of the agreement itself; and
     (c) the parties to the agreement are likely to frequently exchange information about individuals for the purposes of granting or paying benefits under the agreement, calculating the rates of benefits payable under the agreement, or calculating the rates of other benefits that are affected by the rates of benefits payable under the agreement.
   (4B) If this subsection applies, if any information received from the competent institution of the other country under the provision contains identifying information about any individual (including the unique identifier assigned to that individual by that institution) who has applied for a benefit payable under the agreement in either country and produces a discrepancy with information already held about that person by the chief executive, and the chief executive has not previously given notice under this subsection, the chief executive must give that individual written notice—
@@ -55,9 +55,9 @@ Section 19C(1) of the principal Act is amended by omitting paragraph (b), and su
     (e) specifying the kinds of actions that the chief executive may take as a result of information about that individual received at any subsequent time from the other country under the agreement; and
     (f) specifying the likely consequences of those actions for any benefit payable to that individual under the agreement or otherwise; and
     (g) stating that the individual has 5 working days from the receipt of the notice to show cause why the chief executive should not take the action referred to in paragraph (a) or actions of the kinds referred to in paragraph (e).
-  (4C) Despite subsections (3)(c) to (e) and (6), if subsection (4B) applies, after the expiration of the 5 working days referred to in subsection (4B)(g), the chief executive is not obliged to comply with subsection (3)(c) and (d) in respect of any information that is—
+  (4C) Despite subsections (3)﻿(c) to (e) and (6), if subsection (4B) applies, after the expiration of the 5 working days referred to in subsection (4B)﻿(g), the chief executive is not obliged to comply with subsection (3)﻿(c) and (d) in respect of any information that is—
     (a) subsequently received from the other country under the provision; and
-    (b) received for a purpose set out in subsection (4A)(c); and
+    (b) received for a purpose set out in subsection (4A)﻿(c); and
     (c) matched against information held by the chief executive using the unique identifiers assigned to the individual concerned by the competent institutions of both countries.
 (2) Section 19D(5) of the principal Act is amended by adding the words or subsection (4B).
 
@@ -70,12 +70,12 @@ The Customs and Excise Act 1996 (1996 No 27) is amended by inserting, after sect
     - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
     - **identifying information** means personal information that identifies an individual, which may include the individual's passport number
     - **social security agreement** means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
-  (1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in section 19A(2)(b) of the Social Welfare (Transitional Provisions) Act 1990, to enable compliance with that agreement.
+  (1) The purpose of this section is to facilitate the exchange of information between the Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in section 19A(2)﻿(b) of the Social Welfare (Transitional Provisions) Act 1990, to enable compliance with that agreement.
   (2) For the purpose of this section, the chief executive of the department may supply to the chief executive of Customs—
     (a) any identifying information supplied to the department by the Government of that country; and
     (b) any identifying information obtained by the department about a person who has applied for a benefit to which that social security agreement applies.
   (3) If, in relation to any person, identifying information is supplied in accordance with subsection (2), the chief executive of the Customs may compare that information with any arrival and departure information held by the Customs that relates to that person.
-  (4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under section 19C(1)(d) of the Social Welfare (Transitional Provisions) Act 1990:
+  (4) If the Customs has arrival or departure information relating to a person, the chief executive of the Customs may, for the purpose of this section, supply to an authorised officer any of the following information held by the Customs if that information is of a type specified in an agreement made under section 19C(1)﻿(d) of the Social Welfare (Transitional Provisions) Act 1990:
     (a) the person's full name:
     (b) the person's date of birth:
     (c) the person's sex:
