@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -147,7 +147,7 @@ Without limiting section 145 of the Local Government Act 2002, a territorial aut
 **Protections for persons refusing to work as sex workers**
 
 ### 18 Refusal to work as sex worker does not affect entitlements
-(1) A person's benefit, or entitlement to a benefit, under the Social Security Act 1964 may not be cancelled or affected in any other way by his or her refusal to work, or to continue to work, as a sex worker (and, in this case, that work is not suitable employment for that person under that Act).
+(1) A person's benefit, or entitlement to a benefit, under the Social Security Act 2018 may not be cancelled or affected in any other way by his or her refusal to work, or to continue to work, as a sex worker (and, in this case, that work is not suitable employment for that person under that Act).
 (2) A person's entitlements under the Injury Prevention, Rehabilitation, and Compensation Act 2001 may not be lost or affected in any other way by his or her being capable of working as a sex worker if he or she refuses to do, or to continue to do, that kind of work.
 (3) In this section, refusal means a refusal to do this kind of work in general, rather than a refusal of a particular job or at a particular time.
 
