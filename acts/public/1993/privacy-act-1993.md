@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1291,7 +1291,7 @@ In this Part, unless the context otherwise requires,—
   - **information matching provision** means any provision specified in the second column of Schedule 3 as an information matching provision of an enactment specified in the first column of that schedule
   - **information matching rules** means the rules for the time being set out in Schedule 4
   - **monetary payment** includes—
-    (a) a benefit within the meaning of section 3(1) of the Social Security Act 1964:
+    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
     (b) a lump sum payable under section 61DB or section 61DC or section 61DD of that Act:
     (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) or (da) of that Act:
     (d) any monetary entitlement payable under Part 4, Part 10, or Part 11 of the Accident Compensation Act 2001
@@ -1306,7 +1306,7 @@ In this Part, unless the context otherwise requires,—
     (c) the Ministry of Justice:
     (d) the Department of Corrections:
     (e) the Ministry of Business, Innovation, and Employment:
-    (f) the department for the time being responsible for the administration of the Social Security Act 1964:
+    (f) the department for the time being responsible for the administration of the Social Security Act 2018:
     (fa) the Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by section 3(1) of the Housing Corporation Act 1974:
     (g) the Inland Revenue Department:
     (ga) the Ministry of Transport:
@@ -1317,7 +1317,7 @@ In this Part, unless the context otherwise requires,—
     (ha) the Registrar of Motor Vehicle Traders:
     (i) the Regulator, as defined in the Accident Insurance Act 1998:
     (ia) WorkSafe New Zealand:
-    (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section 238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 1964:
+    (j) any tertiary institution, secondary school, or private training establishment (as those terms are defined in the Education Act 1989) to which section 226A or section 238B of that Act applies, as from time to time notified to the Commissioner by the department for the time being responsible for the administration of the Social Security Act 2018:
     (k) the Ministry of Education:
     (l) the Teaching Council of Aotearoa New Zealand continued under Part 32 of the Education Act 1989:
     (m) the agency or agencies appointed under section 100 of the Housing Restructuring and Tenancy Matters Act 1992.
@@ -1375,7 +1375,7 @@ Where a specified agency derives or receives information produced by an authoris
     (i) specifying particulars of the discrepancy and of the adverse action that it proposes to take; and
     (ii) stating that the individual has 5 working days from the receipt of the notice in which to show cause why the action should not be taken; and
   (b) until the expiration of those 5 working days.
-(1A) Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the Social Security Act 1964 from immediately suspending sole parent support, the supported living payment, an emergency benefit, jobseeker support, a young parent payment, or a youth payment, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to section 308 of the Customs and Excise Act 2018, and where, before or immediately after the decision to suspend, the department gives the individual written notice—and the adverse action shall not be taken until the expiration of those 5 working days.
+(1A) Nothing in subsection (1) shall prevent the department for the time being responsible for the administration of the Social Security Act 2018 from immediately suspending sole parent support, the supported living payment, an emergency benefit, jobseeker support, a young parent payment, or a youth payment, paid to an individual where the discrepancy arises in respect of departure information supplied to that department pursuant to section 308 of the Customs and Excise Act 2018, and where, before or immediately after the decision to suspend, the department gives the individual written notice—and the adverse action shall not be taken until the expiration of those 5 working days.
   (a) specifying particulars of the discrepancy and the suspension of benefit, and any other adverse action the department proposes to take; and
   (b) stating that the individual has 5 working days from the receipt of the notice to show cause why the benefit ought not to have been suspended or why the adverse action should not be taken, or both—
 (1B)
@@ -1899,7 +1899,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Housing Restructuring and Tenancy Matters Act 1992 | Section 68 |
 | Immigration Act 2009 | Sections 294, 295, 298, 299, and 300 |
 | Motor Vehicle Sales Act 2003 | Sections 120 to 123 |
-| Social Security Act 1964 | Sections 126A, 126AB, and 126AC |
+| Social Security Act 2018 | Clauses 13 to 15 of Schedule 6 |
 | Social Welfare (Transitional Provisions) Act 1990 | Section 19D(3)﻿(b) |
 | Student Loan Scheme Act 2011 | Section 208 |
 | Tax Administration Act 1994 | Sections 46A, 82, 85A, 85B, 85E, and 85H |
