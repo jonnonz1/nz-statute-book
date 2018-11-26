@@ -1,5 +1,5 @@
 # Social Security Amendment Act (No 2) 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An act to amend the Social Security Act 1964
 
@@ -26,15 +26,15 @@ This section amended s 61FD of the principal Act.
 This section substituted s 72(a) of the principal Act.
 
 ### 8 Commencement of benefits
-(1) This subsection substituted s 80(4)(a) and (b) of the principal Act.
+(1) This subsection substituted s 80(4)﻿(a) and (b) of the principal Act.
 (2) This subsection amended s 80(5) of the principal Act.
 (3) This subsection amended s 80(8) of the principal Act.
 
 ### 9 Calculation of stand down
-(1) This subsection amended s 80BA(3)(b) of the principal Act.
+(1) This subsection amended s 80BA(3)﻿(b) of the principal Act.
 (2)
-  (a) This paragraph amended s 80BA(4)(a)(i) and (ii) of the principal Act.
-  (b) This paragraph amended s 80BA(4)(b) of the principal Act.
+  (a) This paragraph amended s 80BA(4)﻿(a)﻿(i) and (ii) of the principal Act.
+  (b) This paragraph amended s 80BA(4)﻿(b) of the principal Act.
 
 ### 10 Consequential repeals
 The following enactments are consequentially repealed:
