@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -38,7 +38,7 @@ The purposes of this Act are to—
   - **charity** —
     (a) means, for the purposes of section 25(1)﻿(b), an entity that is listed as a charity at the relevant time; and
     (b) includes that entity’s international, national, and regional branches, offices, sections, organisations, affiliates, members, associations, and programmes at that relevant time
-  - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
+  - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 2018
   - **Commissioner** means the Commissioner of Inland Revenue as defined in section 3(1) of the Tax Administration Act 1994
   - **Commissioner deduction** means a deduction from a borrower's salary or wages in accordance with section 38
   - **consolidated loan balance** means the total amount incurred by a borrower and outstanding under the student loan scheme and this Act, consisting of—
@@ -57,7 +57,7 @@ The purposes of this Act are to—
   - **interim payment** means the amount that a borrower is obliged to pay towards the next tax year's end-of-year repayment obligation in accordance with section 82 or 83 and section 84 or 85
   - **late notification penalty** means a penalty imposed under section 155
   - **late payment interest** means interest that a borrower is liable to pay under section 139(1)
-  - **lender** means the Crown acting by and through the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
+  - **lender** means the Crown acting by and through the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 2018
   - **list** means, in relation to an entity, to include the entity as a charity in the list kept under section 27A
   - **loan advance** means all—
     (a) money that is advanced by the loan manager to a borrower under the student loan scheme; and
@@ -598,7 +598,7 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (4) In this section,—
   - **equivalent gross amount** means the sum of—
     (a) the amount of an income-tested benefit; and
-    (b) any amount that was paid to the Commissioner in accordance with section 83A of the Social Security Act 1964 for income tax payable on that income-tested benefit
+    (b) any amount that was paid to the Commissioner in accordance with sections 349, 350, 351, and 352 of the Social Security Act 2018 for income tax payable on that income-tested benefit
   - **income-tested benefit** means an income-tested benefit as defined in section YA 1 of the Income Tax Act 2007.
 
 **Unused repayment threshold may be allocated to secondary employment earnings**
@@ -1974,7 +1974,7 @@ A loan contract entered into by a borrower (whether before or after the commence
     (c) the chief executive, or an officer of the specified department who is authorised by the chief executive to disclose and receive information under this section; or
     (d) the Secretary of Education, or an officer of the Ministry of Education who is authorised by the Secretary of Education to disclose and receive information under this section; or
     (e) the loan manager, or an employee of the loan manager who is authorised by the chief executive to disclose and receive information under this section
-  - **specified department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964.
+  - **specified department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 2018.
 
 ### 208 Disclosure of information between Inland Revenue Department and New Zealand Customs Service for information-matching purposes
 (1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the New Zealand Customs Service for the purpose of establishing an information-matching programme to assist the Commissioner to—
