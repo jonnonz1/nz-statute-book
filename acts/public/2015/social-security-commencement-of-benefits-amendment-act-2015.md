@@ -1,5 +1,5 @@
 # Social Security (Commencement of Benefits) Amendment Act 2015
-_Consolidation as at 2015-11-23_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Commencement of Benefits) Amendment Act 2015.
