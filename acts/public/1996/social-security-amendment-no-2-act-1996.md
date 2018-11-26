@@ -1,5 +1,5 @@
 # Social Security Amendment (No 2) Act 1996
-_Consolidation as at 1998-01-01_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964
 
