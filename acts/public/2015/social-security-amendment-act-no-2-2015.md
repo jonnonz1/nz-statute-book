@@ -1,5 +1,5 @@
 # Social Security Amendment Act (No 2) 2015
-_Consolidation as at 2015-12-09_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security Amendment Act (No 2) 2015.
