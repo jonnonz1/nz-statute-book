@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1450,7 +1450,7 @@ An employee who wishes to have a tax code for their employment as a private dome
   (b) their other employment income from 1 or more employers.
 (1) After an application is received under subsection (1A), the Commissioner may issue a special tax code for an employee, whether because the employee has 2 or more employments, or is entitled to have a net loss carried forward, or wishes to have a reduction applying to the amount of tax withheld, or for another reason.
 (1B) When a special tax code is issued for an employee under subsection (1), the Commissioner must—
-  (a) notify the department that is for the time being responsible for administration of the Social Security Act 1964 (the responsible department) under section 24IB, if the employee asks under subsection (1AB)﻿(a) for the special tax code to apply to their New Zealand superannuation income or veteran’s pension income; or
+  (a) notify the department that is for the time being responsible for administration of the Social Security Act 2018 (the responsible department) under section 24IB, if the employee asks under subsection (1AB)﻿(a) for the special tax code to apply to their New Zealand superannuation income or veteran’s pension income; or
   (b) give the employee a special tax code certificate that includes the information required under section 24F(2) and (3), if the employee asks under subsection (1AB)﻿(b) for the special tax code to apply to their other employment income from 1 or more employers.
 (2) The special tax code may—
   (a) set out a tax code to apply to a payment of salary or wages to an employee by 1 or more of their employers for a period referred to in the certificate or notification:
@@ -1497,7 +1497,7 @@ An employee who wishes to have a tax code for their employment as a private dome
 (1) This section applies when—
   (a) an employee asks under section 24F(1AB)﻿(a) for a special tax code to apply to their New Zealand Superannuation income or veteran’s pension income; and
   (b) the Commissioner issues a special tax code for the employee under section 24F(1).
-(2) The Commissioner must provide as soon as practicable a special tax code notification that includes the information required under section 24F(2) and (3) to an officer, employee, or agent of the department that is for the time being responsible for administration of the Social Security Act 1964 (the responsible department) whom the chief executive of the department authorises to receive the information.
+(2) The Commissioner must provide as soon as practicable a special tax code notification that includes the information required under section 24F(2) and (3) to an officer, employee, or agent of the department that is for the time being responsible for administration of the Social Security Act 2018 (the responsible department) whom the chief executive of the department authorises to receive the information.
 (3) Subject to section 24F(4), the responsible department must apply the special tax code notification in relation to a PAYE income payment of New Zealand superannuation income or veteran’s pension (a payment) made to the employee after the date the notification is provided to the responsible department.
 (4) If the special tax code notification is provided to the responsible department after the next payment has been calculated, the department must use the notification in relation to a payment that follows the next payment.
 
@@ -3353,7 +3353,7 @@ A notice of entitlement issued under section 80KD—
   (b) the Best Start tax credit.
 (3) The period—
   (a) starts on the day following the day that the chief executive says is the last day that the person is entitled to—
-    (i) an income-tested benefit, an orphan’s benefit, or an unsupported child’s benefit paid or payable under the Social Security Act 1964; or
+    (i) an income-tested benefit, an orphan’s benefit, or an unsupported child’s benefit paid or payable under the Social Security Act 1964 or the Social Security Act 2018; or
     (ii) a WFF tax credit paid under section 80KN; and
   (b) ends on the earlier of—
     (i) the day before the first day stated in a notice of entitlement that is provided later:
@@ -3767,24 +3767,24 @@ Despite any other enactment in the Inland Revenue Acts, the Commissioner may sup
       (ii) the name, address, and telephone number of the employer of the fines defaulter.
 
 ### 85B Disclosure of information for purposes of mutual assistance provision contained in social security agreement
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the Social Security Act 1964 for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement.
-(2) For the purpose of this section, any authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964 may from time to time supply to the Commissioner any personal information supplied to that department by the Government of that country.
+(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the department for the time being responsible for the administration of the Social Security Act 2018 for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement.
+(2) For the purpose of this section, any authorised officer of the department for the time being responsible for the administration of the Social Security Act 2018 may from time to time supply to the Commissioner any personal information supplied to that department by the Government of that country.
 (3) Where, in relation to any person, personal information is supplied in accordance with subsection (2) to the Commissioner, the Commissioner may compare that information with any information held by the Commissioner which relates to the person.
 (4) For the purpose of this section, where the Commissioner has information relating to the person, the Commissioner may supply to an authorised officer—
-  (a) any of the following information held by the Commissioner if that information is of a type specified in the agreement made under section 19C(1)﻿(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990:
+  (a) any of the following information held by the Commissioner if that information is of a type specified in the agreement made under regulations made under section 450 of the Social Security Act 2018:
     (i) the street address of the person; and
     (ii) the name and street address of the last known employer of the person; and
     (iii) where the result of a comparison carried out under subsection (3) indicates that the person is receiving, or has, during the previous tax year, received, any income from any source, the details of that income; and
     (iv) where the Commissioner knows the names and dates of birth of any dependent children of the person, those names and dates; and
   (b) any other information held by the Commissioner that is of a type specified in the agreement made under section 19C(1)﻿(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
-(5) Where the Commissioner has supplied information under subsection (4) to an authorised officer of the department for the time being responsible for the administration of the Social Security Act 1964, the department may supply that information to the competent institution of the Government of the other country in accordance with the mutual assistance provision of the social security agreement.
+(5) Where the Commissioner has supplied information under subsection (4) to an authorised officer of the department for the time being responsible for the administration of the Social Security Act 2018, the department may supply that information to the competent institution of the Government of the other country in accordance with the mutual assistance provision of the social security agreement.
 (6) The provisions of this section apply despite any other provision of this Act.
 (7) In this section, unless the context otherwise requires,—
-  - **authorised officer** means any officer, employee, or agent of the department for the time being responsible for the administration of the Social Security Act 1964 who is authorised by the chief executive of that department to supply information or receive information from the Commissioner under this section
+  - **authorised officer** means any officer, employee, or agent of the department for the time being responsible for the administration of the Social Security Act 2018 who is authorised by the chief executive of that department to supply information or receive information from the Commissioner under this section
   - **personal information** means information that identifies an individual, which may include the individual's tax file number
-  - **social security agreement** means an agreement or Convention or alteration to an agreement or Convention—
-    (a) in respect of which an Order in Council has been made under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990; and
-    (b) that contains a mutual assistance provision of a kind referred to in section 19A(2)﻿(b) of that Act.
+  - **social security agreement** means an agreement (for example, a Convention), or an alteration to an agreement,—
+    (a) in respect of which an Order in Council has been made under section 380 (orders adopting reciprocity agreements) of the Social Security Act 2018; and
+    (b) that contains a mutual assistance provision for the Governments of New Zealand and the other country to supply each other with information for social security purposes.
 
 ### 85C Use and supply of information supplied for purposes of section 85B
 Where information is supplied to the Commissioner under section 85B(2), the Commissioner—
@@ -3792,7 +3792,7 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
     (i) the purposes set out in subsections (3) and (4) of that section:
     (ii) making an assessment of the amount of tax due by any person:
     (iii) detecting tax fraud or tax evasion:
-  (b) may not supply that information to any other country without the prior notified consent of the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 and subject to such conditions as that chief executive sets.
+  (b) may not supply that information to any other country without the prior notified consent of the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 and subject to such conditions as that chief executive sets.
 
 ### 85D Ministry of Education to provide information as to study status of student loan borrowers
 [Repealed]
