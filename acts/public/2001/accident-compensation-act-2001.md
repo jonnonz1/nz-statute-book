@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -1619,7 +1619,7 @@ If the Corporation determines under section 107 that a claimant has vocational i
   (c) sections 4 and 5 of the Maori Housing Act 1935; or
   (d) sections 154 to 161 of the District Court Act 2016; or
   (e) sections 87(2)﻿(b), 88AE(1)﻿(a), 103, 104, 105, 106, 106A, and 106B of the Summary Proceedings Act 1957; or
-  (f) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or sections 71 and 86A of the Social Security Act 1964; or
+  (f) section 27Y of the Social Security Act 1964 (as saved by section 256(1) of the Child Support Act 1991) or regulations made under section 444 of the Social Security Act 2018; or
   (g) sections 105, 110, 118, and 121 of the Family Proceedings Act 1980 (as saved by section 259(1) of the Child Support Act 1991); or
   (h) the Child Support Act 1991; or
   (i) subparts 1, 2, and 5 of Part 2 or section 193 of the Student Loan Scheme Act 2011; or
@@ -2871,11 +2871,11 @@ If any person (with the consent of the Commissioner) changes the date of the ann
 
 ### 252 Relationship with social security benefits: reimbursement by Corporation
 (1) This section applies if a person—
-  (a) receives a payment of an income-tested benefit under the Social Security Act 1964 in respect of a period; and
+  (a) receives a payment of a specified benefit as defined in section 198(3) of the Social Security Act 2018 in respect of a period; and
   (b) establishes a claim to an entitlement from the Corporation in respect of all or part of the same period.
 (2) An excess benefit payment is regarded as having been paid in respect of that entitlement.
 (3) An excess benefit payment is the part of the benefit payment (up to the amount of the entitlement) that is in excess of the amount of benefit properly payable, having regard to the entitlement under this Act.
-(4) The Corporation must refund the excess benefit payment to the department responsible for the administration of the Social Security Act 1964—
+(4) The Corporation must refund the excess benefit payment to the department responsible for the administration of the Social Security Act 2018—
   (a) if the Corporation knows that this section applies; or
   (b) if requested to do so by that department.
 (5) For the purposes of this section, an excess benefit payment includes a payment of any part of a couple rate of benefit that is paid to the spouse or partner of the person who established the claim to the benefit.
@@ -2884,9 +2884,9 @@ If any person (with the consent of the Commissioner) changes the date of the ann
 ### 253 Relationship with social security benefits: reimbursement to Corporation
 (1) This section applies if a person—
   (a) receives a payment from the Corporation in respect of an entitlement that is subsequently determined to have been incorrectly paid under this Act (including a payment under section 131) or any former Act in respect of a period; and
-  (b) establishes a claim to an income-tested benefit under the Social Security Act 1964 in respect of all or part of the same period.
+  (b) establishes a claim to a specified benefit as defined in section 198(3) of the Social Security Act 2018 in respect of all or part of the same period.
 (2) The payment from the Corporation that has been incorrectly paid (up to the amount of benefit payable during that period) is regarded as having been paid in respect of that benefit.
-(3) The department responsible for the administration of the Social Security Act 1964 must refund to the Corporation the amount so regarded as a payment of benefit—
+(3) The department responsible for the administration of the Social Security Act 2018 must refund to the Corporation the amount so regarded as a payment of benefit—
   (a) if that department knows that this section applies; or
   (b) if requested to do so by the Corporation.
 (4) The rest of the payment is a debt due to the Corporation from the person to whom the payment was made, which may be recovered by the Corporation in accordance with this Act.
@@ -3163,7 +3163,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 
 ### 280 Disclosure of information to Corporation
 (1) In this section, unless the context otherwise requires, payment means any payment under this Act; and includes any provisions in respect of rehabilitation.
-(2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, health and safety regulators, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the Social Security Act 1964, the Ministry of Health, any funder, and any district health board (in this section each called the Department) to the Corporation for the purpose of verifying—
+(2) The purpose of this section is to facilitate the disclosure of information by the Ministry of Business, Innovation, and Employment, health and safety regulators, the Department of Corrections, the New Zealand Customs Service, the department for the time being responsible for the administration of the Social Security Act 2018, the Ministry of Health, any funder, and any district health board (in this section each called the Department) to the Corporation for the purpose of verifying—
   (a) the entitlement or eligibility of any person to or for any payment; or
   (b) the amount of any payment to which any person is or was entitled or for which any person is or was eligible.
 (3) For the purpose of this section, the Corporation may from time to time, in accordance with arrangements made between the Corporation and the Department concerned, request the Department to supply, in respect of persons who are receiving, have received, or have applied to receive any payment—
@@ -3174,19 +3174,20 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 (5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the Department concerned.
 
 ### 281 Disclosure of information by Corporation for benefit and benefit debt recovery purposes
-(1) In this section, unless the context otherwise requires, benefit has the same meaning as in section 3(1) of the Social Security Act 1964; and includes—
-  (a) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act:
-  (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) or (da) of that Act.
-  (c) an allowance established by regulations made under section 303 of the Education Act 1989.
-(2) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department for the time being responsible for the administration of the Social Security Act 1964 for all or any of the following purposes:
+(1) In this section, unless the context otherwise requires, benefit means any of the following:
+  (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
+  (b) a funeral grant lump sum payable under section 90 of that Act:
+  (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
+  (d) an allowance established by regulations made under section 303 of the Education Act 1989.
+(2) The purpose of this section is to facilitate the disclosure of information by the Corporation to the department for the time being responsible for the administration of the Social Security Act 2018 for all or any of the following purposes:
   (a) to verify the entitlement or eligibility of any person to or for any benefit:
   (b) to verify the amount of any benefit to which a person is or was entitled or for which a person is or was eligible:
   (c) to enable the recovery of any debt due to the Crown in respect of any benefit.
-(3) For the purpose of this section, the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may from time to time, in accordance with arrangements made from time to time between that chief executive and the Corporation, request the Corporation to supply, in respect of persons who are receiving compensation based on weekly earnings,—
+(3) For the purpose of this section, the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 may from time to time, in accordance with arrangements made from time to time between that chief executive and the Corporation, request the Corporation to supply, in respect of persons who are receiving compensation based on weekly earnings,—
   (a) such biographical information as is sufficient to identify those persons, including their addresses; and
   (b) such details of the entitlement of those persons to receive compensation based on weekly earnings as are necessary for the purposes of this section.
-(4) On receipt of a request made under subsection (3), the Corporation may supply the information requested to any officer or employee or agent of the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 who is authorised in that behalf by that chief executive.
-(5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964.
+(4) On receipt of a request made under subsection (3), the Corporation may supply the information requested to any officer or employee or agent of the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 who is authorised in that behalf by that chief executive.
+(5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the Corporation and the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018.
 
 ### 282 Disclosure of information by Corporation for health purposes
 (1) The purpose of this section is to facilitate the disclosure of information between the Corporation and the Ministry of Health and district health boards for the purposes specified in subsection (2).
@@ -5029,11 +5030,11 @@ If the Corporation is determining earnings under this Part in relation to a self
 (3) The minimum weekly earnings are—
   (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
     (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-    (ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the Social Security Act 1964; or
+    (ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the Social Security Act 2018; or
     (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
   (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of—
     (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-    (ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the Social Security Act 1964; or
+    (ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the Social Security Act 2018; or
     (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
 (4)
 (5)
