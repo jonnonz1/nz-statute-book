@@ -1,7 +1,7 @@
 # Commissions of Inquiry Act 1908
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-26_
 
-> An Act to consolidate certain enactments of the Parliament of New Zealand relating to commissions of inquiry appointed by the Governor-General in Council or by the Governor-General
+> An Act to consolidate certain enactments of the General Assembly relating to commissions of inquiry appointed by the Governor in Council or by the Governor
 
 ### 1 Short Title and savings
 (1) The Short Title of this Act is the Commissions of Inquiry Act 1908.
@@ -22,20 +22,20 @@ In this Act, unless the context otherwise requires, document means a document in
 
 ### 2A Application of this Act and relationship to Inquiries Act 2013
 This Act applies to—
-  (a) any entity that is or may be established under an enactment enacted before the commencement of the Inquiries Act 2013 (including those listed in Schedule 1 of that Act), and that derives powers from this Act; and
+  (a) any entity that is or may be established under an enactment that is, or that (with or without modification) corresponds to or replaces, an enactment enacted before the commencement of the Inquiries Act 2013 (including those listed in Schedule 1 of that Act), and that derives powers from this Act; and
   (b) any commission of inquiry or Royal commission appointed under this Act that has not completed its functions and obligations before the commencement of the Inquiries Act 2013.
 
 ### 3 Members of Commissions protected
-So long as any member of any such Commission acts bona fide in the discharge of his duties, no action shall lie against him for anything he may report or say in the course of the inquiry.
+So long as any member of any such Commission acts bona fide in the discharge of his or her duties, no action shall lie against him or her for anything he or she may report or say in the course of the inquiry.
 
 ### 4 Commissioners' powers
-(1) For the purposes of the inquiry, every such Commission shall have the powers of the District Court, in the exercise of its civil jurisdiction, in respect of citing parties and conducting and maintaining order at the inquiry.
+(1) For the purposes of the inquiry, every such Commission shall have the powers of the District Court, in the exercise of its civil jurisdiction, in respect of citing parties, and conducting and maintaining order at the inquiry.
 (2)
 
 ### 4A Persons entitled to be heard
-(1) Any person shall, if he is a party to the inquiry or satisfies the Commission that he has an interest in the inquiry apart from any interest in common with the public, be entitled to appear and be heard at the inquiry.
-(2) Any person who satisfies the Commission that any evidence given before it may adversely affect his interests shall be given an opportunity during the inquiry to be heard in respect of the matter to which the evidence relates.
-(3) Every person entitled, or given an opportunity, to be heard under this section may appear in person or by his counsel or agent.
+(1) Any person shall, if he or she is a party to the inquiry or satisfies the Commission that he or she has an interest in the inquiry apart from any interest in common with the public, be entitled to appear and be heard at the inquiry.
+(2) Any person who satisfies the Commission that any evidence given before it may adversely affect his or her interests shall be given an opportunity during the inquiry to be heard in respect of the matter to which the evidence relates.
+(3) Every person entitled, or given an opportunity, to be heard under this section may appear in person or by his or her counsel or agent.
 
 ### 4B Evidence
 (1) The Commission may receive as evidence any statement, document, information, or matter that in its opinion may assist it to deal effectively with the subject of the inquiry, whether or not it would be admissible in a Court of law.
@@ -70,8 +70,8 @@ Every witness giving evidence, and every counsel or agent or other person appear
 ### 7 Witnesses' allowances
 (1) Every witness attending the inquiry to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations shall apply accordingly.
 (2) On each occasion on which the Commission issues a summons under section 4D, the Commission, or the person exercising the power of the Commission under subsection (2) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
-(3) The amount fixed under subsection (2) of this section shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Commission or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
-(4) The whole or part of any amount fixed under subsection (2) of this section may, with the consent of the witness, be paid or tendered in the form of vouchers or tickets.
+(3) The amount fixed under subsection (2) shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Commission or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
+(4) The whole or part of any amount fixed under subsection (2) may, with the consent of the witness, be paid or tendered in the form of vouchers or tickets.
 
 ### 8 Payment of witnesses' allowances
 (1) Where the Commission has obtained the authority in writing of the Minister of Internal Affairs for summoning any witness, the amounts of the witness's fees, allowances, and travelling expenses shall, if certified by the Chairman of the Commission, be paid by the Minister of Finance out of the Consolidated Account.
@@ -92,10 +92,10 @@ Every witness giving evidence, and every counsel or agent or other person appear
 (3) Every person who commits an offence against this section is liable on conviction to a fine not exceeding $1,000.
 (4) No person summoned to attend the inquiry shall be convicted of an offence against subsection (1) unless at the time of the service of the summons, or at some other reasonable time before the date on which that person was required to attend, there was made to that person a payment or tender of the amount fixed under section 7(2).
 
-### 10 Reference of point of law to High Court
-(1) The Commission may refer any disputed point of law arising in the course of an inquiry to the High Court for decision, and for this purpose may either conclude the inquiry subject to such decision or may at any stage of the inquiry adjourn it until after such decision has been given.
+### 10 Reference of point of law to Supreme Court
+(1) The Commission may refer any disputed point of law arising in the course of an inquiry to the Supreme Court for decision, and for this purpose may either conclude the inquiry subject to such decision or may at any stage of the inquiry adjourn it until after such decision has been given.
 (2) The question shall be in the form of a special case to be drawn up by the parties (if any) to the inquiry, and, if the parties do not agree, or if there are no parties, to be settled by the Commission.
-(3) The decision of the High Court shall be final and binding upon all parties to the inquiry and upon the Commission.
+(3) The decision of the Supreme Court shall be final and binding upon all parties to the inquiry and upon the Commission.
 
 ### 11 Power to award costs
 The Commission, upon the hearing of an inquiry, may order that the whole or any portion of the costs of the inquiry or of any party thereto shall be paid by any of the parties to the inquiry, or by all or any of the persons who have procured the inquiry to be held:provided that no such order shall be made against any person who has not been cited as a party or authorised by the Commission, pursuant to section 4A, to appear and be heard at the inquiry or summoned to attend and give evidence at the inquiry.
@@ -104,8 +104,8 @@ The Commission, upon the hearing of an inquiry, may order that the whole or any 
 (1) For the purpose of enforcing any order of the Commission for the payment of costs, a duplicate of such order may be filed by the person to whom the costs are payable in the office of the Court named in the order, and shall thereupon be enforceable in all respects as a final judgment of that Court in its civil jurisdiction.
 (2) In every case where an order for costs is made, the order shall name the Court in which the order may, if necessary, be enforced.
 (3) The Court so named shall, where the amount recoverable under the order—
-  (a) exceeds 100 pounds, be the High Court; and
-  (b) does not exceed 100 pounds, be the District Court.
+  (a) exceeds £100, be the Supreme Court; and
+  (b) does not exceed £100, be the Magistrate’s Court.
 
 ### 13 Powers of Judges and former Judges when Commissioners
 (1) In every case where, under this Act, or any other Act or the Letters Patent constituting the office of the Governor-General, the Governor-General or the Governor-General in Council appoints 1 or more Judges of the High Court or former Judges of the High Court to be members of a Commission for the purpose of holding an inquiry, every such Judge or retired Judge, and the Commission of which he or she is a member, shall, for the purposes of such inquiry, have the same powers, privileges, and immunities as are possessed by a Judge of the High Court in the exercise of his or her civil jurisdiction under the Senior Courts Act 2016.
