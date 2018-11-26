@@ -1,5 +1,5 @@
 # Social Security (Long-term Residential Care—Budget Measures) Amendment Act 2012
-_Consolidation as at 2012-05-29_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Long-term Residential Care—Budget Measures) Amendment Act 2012.
@@ -18,11 +18,11 @@ This Act amends the Social Security Act 1964 (the principal Act).
 (3) The principal Act as amended by this Part on 1 July 2012 applies in respect of residents assessed as requiring care before, on, or after 1 July 2012.
 
 ### 5 Section 155 amended (Regulations relating to this Part)
-(1) In section 155(1)(i), after increasing, insert the applicable asset thresholds and.
+(1) In section 155(1)﻿(i), after increasing, insert the applicable asset thresholds and.
 (2) In section 155(2), before income-from-assets exemption, insert applicable asset thresholds set out in Part 1 of Schedule 27 must be increased on 1 July 2013, and on every following 1 July, and the.
 (3) In section 155(2A), before must, insert insofar as they are required for the income-from-assets exemption (but not insofar as they are required for the applicable asset thresholds).
 (4) In section 155(3), after the adjusted amount of, insert an applicable asset threshold or, as the case requires, of.
-(5) In section 155(3)(b), after based on the, insert applicable asset threshold or the.
+(5) In section 155(3)﻿(b), after based on the, insert applicable asset threshold or the.
 
 ## Part 2 — Applicable asset thresholds: General
 
