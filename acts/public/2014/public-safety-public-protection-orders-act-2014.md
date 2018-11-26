@@ -1,5 +1,5 @@
 # Public Safety (Public Protection Orders) Act 2014
-_Consolidation as at 2017-05-15_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Public Safety (Public Protection Orders) Act 2014.
@@ -351,8 +351,8 @@ A resident is entitled to be informed about rules, guidelines or instructions, e
 A resident is entitled to be dealt with in a manner that respects the resident's cultural and ethnic identity, language, and religious or ethical beliefs.
 
 ### 39 Right to benefits
-(1) A resident is not disentitled from obtaining a benefit within the meaning of the Social Security Act 1964.
-(2) For the purpose of calculating such benefit, the resident is taken to be a patient in a hospital (within the meaning of section 75(1) of the Social Security Act 1964 or section 19(1) of the New Zealand Superannuation and Retirement Income Act 2001, as the case requires) for more than 13 weeks.
+(1) A resident is not disentitled from obtaining a benefit (as defined in Schedule 2 of the Social Security Act 2018).
+(2) For the purpose of calculating the benefit, the resident is taken to be a patient in a hospital (within the meaning of, as the case requires, sections 206 and 207 and Schedule 2 of that Act, or section 19(1) of the New Zealand Superannuation and Retirement Income Act 2001) for more than 13 weeks.
 
 ### 40 Receipts for residents to be paid into trust accounts
 (1) All money earned by a resident or due to the resident as a benefit must be paid into a trust account operated by the residence manager for the resident.
