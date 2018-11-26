@@ -1,5 +1,5 @@
 # Social Security Amendment Act 2007
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security Amendment Act 2007.
@@ -59,7 +59,7 @@ Section 60FA(2) is amended by inserting the following paragraph after paragraph 
 
 ### 9 Limitation in certain other cases
 Section 74 is amended by inserting the following subsection after subsection (1):
-  (1A) Subsection (1)(d) is subject to any rules prescribed by rules under section 132I.
+  (1A) Subsection (1)﻿(d) is subject to any rules prescribed by rules under section 132I.
 
 ### 10 New section 74AA inserted
 (1) The following section is inserted after section 74:Residential requirements for certain benefits
@@ -78,7 +78,7 @@ Section 74 is amended by inserting the following subsection after subsection (1)
     (a) the benefit is a work-tested benefit (other than an independent youth benefit granted to a person undertaking employment-related training) and the applicant is not subject to a non-entitlement period; or
     (b) the benefit is a widow's benefit, a domestic purposes benefit, a sickness benefit, or an invalid's benefit.
 (2) Section 80(3) is amended by omitting unless subsection (11) applies.
-(3) Section 80(5)(b) is amended by inserting , an independent youth benefit, an invalid's benefit, a sickness benefit, or an unemployment benefit after purposes benefit.
+(3) Section 80(5)﻿(b) is amended by inserting , an independent youth benefit, an invalid's benefit, a sickness benefit, or an unemployment benefit after purposes benefit.
 (4) Subsections (9), (11), and (12) of section 80 are repealed.
 
 ### 12 New section 80AA inserted
@@ -146,10 +146,10 @@ The following sections are inserted after section 132G:Rules providing for deter
       (i) distributions from a company:
       (ii) retained profits of a company:
     (i) the treatment of loss attributing qualifying companies (within the meaning of the Income Tax Act 2004).
-  (3) Subsection (2)(d) applies to businesses and trades however they are carried on.
+  (3) Subsection (2)﻿(d) applies to businesses and trades however they are carried on.
   (4) Subsection (3) does not limit or affect the generality of subsection (1).
   (5) This section does not limit or affect the generality of section 132.
-  (1) The Governor-General may, by Order in Council, for the purposes of section 74(1)(d) make rules—
+  (1) The Governor-General may, by Order in Council, for the purposes of section 74(1)﻿(d) make rules—
     (a) relating to the deprivation of property, income, or both; and
     (b) prescribing the circumstances in which the rules apply.
   (2) This section does not limit or affect the generality of section 132.
@@ -231,8 +231,8 @@ The following section is inserted after section 11C:Application process for bene
   (2) The requirement referred to in subsection (1) is that the department has received—
     (a) an application form (provided by the chief executive for the purpose) completed by or on behalf of the applicant and his or her spouse or partner (if any) to the chief executive's satisfaction; and
     (b) any supporting evidence (for example, a medical certificate) reasonably required by the chief executive.
-  (3) The form referred to in subsection (2)(a) does not have to refer to a benefit of any particular kind.
-  (4) The receipt by the department of a completed application form relating to a benefit of one kind is sufficient compliance with subsection (2)(a) to enable the granting of a benefit of another kind.
+  (3) The form referred to in subsection (2)﻿(a) does not have to refer to a benefit of any particular kind.
+  (4) The receipt by the department of a completed application form relating to a benefit of one kind is sufficient compliance with subsection (2)﻿(a) to enable the granting of a benefit of another kind.
   (5) The chief executive—
     (a) may waive all or part of a requirement to provide information under this section if satisfied that the department—
       (i) already holds the information concerned; or
@@ -292,7 +292,7 @@ Section 54E is repealed and the following section is substituted:Obligations of 
   The chief executive must take reasonable and appropriate steps to make every person granted an independent youth benefit aware, as soon as is practicable after the benefit is granted, of—
     (a) his or her obligations under section 60GAB; and
     (b) the consequences of failure to comply with the obligations and, in particular, the sanctions that may be imposed under section 115A.
-(2) Section 60F(3)(c) is consequentially repealed.
+(2) Section 60F(3)﻿(c) is consequentially repealed.
 (3) Sections 77(2) and (3) are consequentially amended by omitting an independent youth benefit, or invalid's benefit, for a work-tested beneficiary and substituting or an invalid's benefit, for a work-tested beneficiary, or an independent youth benefit.
 
 ### 29 Purpose of sections 60Q to 60Z
@@ -315,7 +315,7 @@ Section 54E is repealed and the following section is substituted:Obligations of 
   (3A) A person—
     (a) cannot be required to include in his or her personal development and employment plan provisions relating to his or her undertaking activity in the community; and
     (b) cannot be required under subsection (1) to undertake activity in the community (whether or not it is included in his or her personal development and employment plan).
-  (3B) Subsection (3A)(a) does not prevent the inclusion in a person's personal development and employment plan of provisions relating to his or her undertaking activity in the community.
+  (3B) Subsection (3A)﻿(a) does not prevent the inclusion in a person's personal development and employment plan of provisions relating to his or her undertaking activity in the community.
 (3) Section 60Q(6) is repealed and the following subsections are substituted:
   (6) This section applies to every person (other than a person for the time being exempted under subsection (7)) who—
     (a) is the recipient of—
@@ -367,7 +367,7 @@ Section 77(4) is amended by repealing paragraph (b) and substituting the followi
     (ii) the person could not obtain the training in New Zealand during the period or periods of absence.
 
 ### 36 Commencement of benefits
-Section 80(2)(a) is amended by—
+Section 80(2)﻿(a) is amended by—
   (a) inserting or an independent youth benefit after work-tested benefit; and
   (b) inserting or who is enrolled in a course of secondary instruction after training.
 
@@ -379,12 +379,12 @@ Section 80BD is amended by repealing subsection (6) and substituting the followi
 ### 38 New sections 96A and 96B inserted
 The following sections are inserted before section 97:Unemployment benefit: pre-benefit activitiesDepartment must explain obligations in relation to pre-benefit activities
   (1) This section applies to a person who contacts the department requesting financial assistance on or after the commencement of this section.
-  (2) If the chief executive considers that the appropriate financial assistance for the person would be an unemployment benefit, the chief executive may (for the purpose stated in section 1A(a)(ii)) require him or her to do any or all of the following:
+  (2) If the chief executive considers that the appropriate financial assistance for the person would be an unemployment benefit, the chief executive may (for the purpose stated in section 1A(a)﻿(ii)) require him or her to do any or all of the following:
     (a) undertake one or more stated pre-benefit activities:
     (b) at any time before an unemployment benefit commences, attend and participate in any interview for an opportunity of suitable employment to which the person is referred by the chief executive:
     (c) at any time before an unemployment benefit commences, accept any offer of suitable employment (whether or not the offer results from an interview of the kind described in paragraph (b)).
   (3) A requirement under subsection (2) may be oral or written.
-  (4) A pre-benefit activity stated under subsection (2)(a) must be available for the person to undertake not later than 10 working days after the date of first contact.
+  (4) A pre-benefit activity stated under subsection (2)﻿(a) must be available for the person to undertake not later than 10 working days after the date of first contact.
   (5) The chief executive is not required to investigate the person's claim for an unemployment benefit under section 12 unless satisfied that the person has undertaken any required pre-benefit activities.
   (6) Subsection (5) applies whether or not the person has completed the form of application for an unemployment benefit.
   (7) If the person fails to undertake any required pre-benefit activities within 20 working days after the date of first contact, any application for an unemployment benefit the person has made lapses.
@@ -395,8 +395,8 @@ The following sections are inserted before section 97:Unemployment benefit: pre-
     (b) terminate any grant of unemployment benefit already made to the person.
   (11) This subsection applies to a person if—
     (a) his or her application for an unemployment benefit has lapsed under subsection (7); or
-    (b) he or she has been refused an unemployment benefit under subsection (10)(a); or
-    (c) his or her grant of unemployment benefit has been terminated under subsection (10)(b).
+    (b) he or she has been refused an unemployment benefit under subsection (10)﻿(a); or
+    (c) his or her grant of unemployment benefit has been terminated under subsection (10)﻿(b).
   (12) A person to whom subsection (11) applies cannot become entitled to an unemployment benefit without applying for it again and establishing his or her eligibility to receive it.
   (13) In this section, pre-benefit activity—
     (a) means any of the following:
@@ -432,10 +432,10 @@ Section 97(2) is repealed and the following subsection is substituted:
   (2A) A person—
     (a) cannot be required to include in his or her job seeker agreement provisions relating to his or her undertaking activity in the community; and
     (b) cannot be required under subsection (1) to undertake activity in the community (whether or not it is included in his or her job seeker agreement).
-  (2B) Subsection (2)(h) applies whether or not a beneficiary is subject to a sanction for failing to comply with the work test.
+  (2B) Subsection (2)﻿(h) applies whether or not a beneficiary is subject to a sanction for failing to comply with the work test.
   (2C) This subsection applies to a work-tested beneficiary who—
-    (a) has not been required to co-operate in developing a job-seeker agreement in accordance with subsection (2)(e); or
-    (b) has not signed, or has failed or refused to co-operate in developing or signing, a job-seeker agreement in accordance with subsection (2)(e).
+    (a) has not been required to co-operate in developing a job-seeker agreement in accordance with subsection (2)﻿(e); or
+    (b) has not signed, or has failed or refused to co-operate in developing or signing, a job-seeker agreement in accordance with subsection (2)﻿(e).
 (3) Section 102(3) is amended by inserting or activity in the community after activity.
 (4) Section 102(6) is repealed and the following subsection is substituted:
   (6) A work test obligation set out in subsection (2) does not apply on any day unless—
@@ -464,7 +464,7 @@ Section 120 is repealed and the following section is substituted:Modified effect
   (2) If the suspension or cancellation under section 117 of a benefit payable at a work-test married rate results from the failure of both work-tested spouses or partners in respect of whom the benefit is paid to comply with work-test obligations, and they have one or more dependent children,—
     (a) the suspension or cancellation applies to only half the applicable rate of the benefit before any abatement on account of income; and
     (b) the spouses or partners are entitled to receive half that rate (and the appropriate Income Test applies to that rate).
-  (3) Section (2)(b) is subject to section 83.
+  (3) Section (2)﻿(b) is subject to section 83.
 
 ### 44 New section 132J inserted
 The following section is inserted before section 133:Regulations stating pre-benefit activities
