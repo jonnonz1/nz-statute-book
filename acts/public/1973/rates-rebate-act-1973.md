@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-11-26_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -16,7 +16,7 @@ _Consolidation as at 2018-07-01_
       (ii) who is being maintained as a member of the ratepayer's family; and
       (iii) who is financially dependent on the ratepayer or his or her spouse or partner; and
       (iv) who is not a person in respect of whom payments were being made under section 363 of the Oranga Tamariki Act 1989; or
-    (b) a relative of the ratepayer (other than a child to whom paragraph (a) applies or the spouse or partner of the ratepayer) by blood, marriage, by or through a civil union or de facto relationship, or by adoption who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable and who, at the commencement of that year, receives a social security benefit under the Social Security Act 1964
+    (b) a relative of the ratepayer (other than a child to whom paragraph (a) applies or the spouse or partner of the ratepayer) by blood, marriage, by or through a civil union or de facto relationship, or by adoption who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable and who, at the commencement of that year, receives a social security benefit under the Social Security Act 2018
   - **income** , in relation to any ratepayer and to any preceding tax year,—
     (a) includes all money received by the ratepayer from any source for the use or advantage of the ratepayer; and
     (b) includes all money received by the spouse or partner of the ratepayer from any source (being a spouse or partner who is ordinarily resident on the property in respect of which a rebate of rates is applied for under this Act) for the use or advantage of the spouse or partner of the ratepayer; and
@@ -24,11 +24,11 @@ _Consolidation as at 2018-07-01_
     (d) does not include—
       (i) any capital money received from any source:
       (ii) any war widows' pensions or war disablement pension:
-      (iii) any pension or periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) that the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 determines is analogous to a payment described in subparagraph (ii):
+      (iii) any pension or periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) that the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 determines is analogous to a payment described in subparagraph (ii):
       (iv) any money received as a grant to meet funeral expenses:
       (v) any money paid in respect of any military decoration and received by the recipient of such decoration:
       (vi) any family tax credit payable under the Income Tax Act 2007:
-      (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the Social Security Act 1964 or a veteran's pension under Part 6 of the Veterans' Support Act 2014 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
+      (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the Social Security Act 2018 or a veteran's pension under Part 6 of the Veterans' Support Act 2014 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **operator** has the same meaning as in section 5 of the Retirement Villages Act 2003
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
