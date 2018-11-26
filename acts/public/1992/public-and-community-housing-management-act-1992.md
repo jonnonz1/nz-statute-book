@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-11-26_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -13,7 +13,7 @@ _Consolidation as at 2018-11-12_
 (1) In this Act, unless the context otherwise requires,—
   - **additional resident** , in relation to any social housing, means a person who—
     (a) is aged 16 years or over; and
-    (b) is financially independent (within the meaning of section 3(1) of the Social Security Act 1964); and
+    (b) is financially independent (as defined in Schedule 2 of the Social Security Act 2018); and
     (c) resides or is to reside in the housing; but
     (d) is not an applicable person
   - **agency** means the social housing agency or agencies appointed under section 100
@@ -58,7 +58,7 @@ _Consolidation as at 2018-11-12_
   - **Corporation liabilities** means liabilities of the Corporation
   - **HNZ** means the company
   - **HNZ housing** means premises (whether owned by the Crown, HNZ, or any other person) let or to be let by or on behalf of HNZ for occupation by any person as a place of residence
-  - **income-related purpose** has the same meaning as in section 3(1) of the Social Security Act 1964
+  - **income-related purpose** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **income-related rent** ,—
     (a) in relation to a tenant of HNZ housing, means a rent that the agency has—
       (i) calculated for the tenant under the calculation mechanism or Schedule 3; and
@@ -506,14 +506,14 @@ The enactments specified in Schedule 1 are hereby amended in the manner indicate
 
 ### 66 Interpretation
 In this Part, unless the context otherwise requires,—
-  - **benefit** means—
-    (a) a benefit as defined in section 3(1) of the Social Security Act 1964; or
-    (b) a lump sum payable under any of sections 61DB, 61DC, and 61DD of that Act; or
-    (c) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) of that Act; or
+  - **benefit** means any of the following:
+    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
+    (b) a funeral grant lump sum payable under section 90 of that Act:
+    (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
     (d) an allowance established by regulations made under section 303 of the Education Act 1989
   - **Corporation** , despite section 2(1), includes the company
   - **Corporation housing** means premises (whether owned by the Crown, the Corporation, or any other person) let or to be let by or on behalf of the Corporation for occupation by any person as a place of residence
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (A), a person—
     (a) who is A's civil union partner or de facto partner; and
     (b) who is not, in the Corporation's opinion, living apart from A.
@@ -898,7 +898,7 @@ Nothing in this Act requires a registered community housing provider to provide 
 ### 99 Interpretation of terms used in this Part
 In this Part, unless the context otherwise requires,—
   - **appeal body** means the body specified in regulations made under section 136(1) to whom appeals under section 133 may be made
-  - **Ministry** means the department for the time being responsible for the administration of the Social Security Act 1964
+  - **Ministry** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **prescribed** means for the time being—
     (a) prescribed by the calculation mechanism for the purposes of the provision; or
     (b) calculated under a means prescribed by the calculation mechanism for the purposes of the provision.
@@ -1012,7 +1012,7 @@ The functions of the agency include the following:
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under those subparts; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (3) A rent calculated by reference to benefit levels is the sum of—
-  (a) the prescribed proportion of the rate (before abatement) stated in paragraphs (a) to (f) of clause 1 of Schedule 9 of the Social Security Act 1964 that would be appropriate if the tenant were a beneficiary; and
+  (a) the prescribed proportion of the rate (before reduction on account of income) of jobseeker support stated in clause 1(a) to (f) of Part 1 of Schedule 4 of the Social Security Act 2018 that would be appropriate if the tenant were a beneficiary; and
   (b) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
     (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under those subparts; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
@@ -1084,7 +1084,7 @@ For the purposes of section 108, a person's weekly income is the person's estima
     (iii) the number of dependent children of the tenant concerned:
     (iv) the number of dependent children of the applicable persons concerned:
     (v) the number of people living or intended to live in the housing concerned:
-  (c) prescribe a threshold (or a means for calculating a threshold) for the purposes of any provision by reference to the rate of a benefit within the meaning of section 3(1) of the Social Security Act 1964, or the rates of 2 or more such benefits.
+  (c) prescribe a threshold (or a means for calculating a threshold) for the purposes of any provision by reference to the rate of a benefit as defined in Schedule 2 of the Social Security Act 2018, or the rates of 2 or more such benefits.
 (3) A means for calculating may comprise any number of mechanisms and parameters.
 (4) Subsection (2) does not limit subsection (1).
 (5) Nothing in this section affects the application of the New Zealand Bill of Rights Act 1990.
@@ -1231,8 +1231,8 @@ For the purpose of any investigation conducted under section 119, 120, or 121, t
 
 ### 126 Powers of agency to use information
 If the agency is the Ministry, the agency may, despite any other enactment,—
-  (a) use information obtained under this Part and Schedule 4 to perform its functions, duties, and powers under the Social Security Act 1964; and
-  (b) use information obtained under the Social Security Act 1964 to perform its functions, duties, and powers under this Part.
+  (a) use information obtained under this Part and Schedule 4 to perform its functions, duties, and powers under the Social Security Act 2018; and
+  (b) use information obtained under the Social Security Act 2018 to perform its functions, duties, and powers under this Part.
 
 ### 127 Recovery where rate of rent too low
 (1) Subsection (2) applies to a tenant of social housing and a period of time if, at any later time, the agency—
@@ -1247,7 +1247,7 @@ If the agency is the Ministry, the agency may, despite any other enactment,—
 
 ### 128 Recovery of debt where agency is Ministry
 For the purpose of section 74(3), 94(2), or 127(2), if the agency is the Ministry,—
-  (a) the agency must treat the debt as if it were a debt due to the Crown under section 85A of the Social Security Act 1964, with any necessary modification; and
+  (a) the agency must treat the debt as if it were a debt due to the Crown under regulations made under section 444 of the Social Security Act 2018, with any necessary modification; and
   (b) to avoid doubt, the agency may recover that debt in accordance with that Act from any tenant or former tenant of social housing.
 
 **Allocation of social housing**
@@ -1337,7 +1337,7 @@ If the agency is not the Ministry and regulations under section 136(1)﻿(a) est
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) for the purposes of section 133,—
     (i) establishing a body to dispose of appeals under that section, prescribing how its members are to be appointed, and prescribing how it is to hear and dispose of appeals; or
-    (ii) providing that such appeals are to be made to the Social Security Appeal Authority established by the Social Security Act 1964 as if they were appeals against decisions or determinations under that Act, and providing that sections 12J to 12N, section 12OA, and sections 12P to 12S of that Act apply, with or without modification, to the hearing and disposal of appeals; or
+    (ii) providing that such appeals are to be made to the social security appeal authority established by or under section 401 and Schedule 8 of the Social Security Act 2018 as if they were appeals against decisions or determinations under that Act, and providing that sections 395 to 410, regulations made under section 451, and Schedule 8 of that Act apply, with or without modification, to the hearing and disposal of appeals; or
     (iii) providing, if the agency is not the Ministry, that such appeals are to be made to the District Court, and providing that the District Court Act 2016 and the rules of the District Court apply, with or without modification, to the hearing and disposal of appeals; or
   (b) providing for any other matters contemplated by the provisions of this Part (other than sections 107 to 113), necessary for their administration, or necessary for giving them full effect.
 (2) Any body established under subsection (1)﻿(a)﻿(i) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951, and every member of it is entitled to—
@@ -1550,7 +1550,7 @@ In any case where a third party deducts, under a deduction notice, any money pay
 
 ### 157 Responsible department may verify entitlement
 For the purposes of section 156 and Schedule 3,—
-  (a) the agency may, with the consent of the applicable persons concerned, give the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964 details of—
+  (a) the agency may, with the consent of the applicable persons concerned, give the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 2018 details of—
     (i) those persons' assessable incomes and the components of those incomes, and their cash assets, as supplied—
       (A) to the company under section 43(1); or
       (B) to the agency for the purpose of section 104(1); and
@@ -1940,7 +1940,7 @@ The proportion of 25% is prescribed for the purposes of section 107(2)﻿(a).
 
 ### 2 Thresholds
 The following thresholds are prescribed for the purposes of paragraphs (a) and (b) of section 107(2):
-  (a) in the case of a sole tenant who has no spouse or partner and no dependent children (within the meaning of section 3(1) of the Social Security Act 1964), is the rate stated in clause 1(a) of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax; and
+  (a) in the case of a sole tenant who has no spouse or partner and no dependent children (as defined in Schedule 2 of the Social Security Act 2018), is the rate stated in clause 1(a) of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax; and
   (b) in every other case, is the rate stated in clause 1(c) of Schedule 1 of the New Zealand Superannuation and Retirement Income Act 2001, after deduction of standard tax, multiplied by 2.
 
 ### 3 Proportion of income above threshold
@@ -1973,6 +1973,7 @@ For the purposes of section 109(2),—
 ### 9 Certain payments to be income
 For the purposes of section 110(1)﻿(a), a person's weekly income includes—
   (a) the appropriate weekly proportion of every amount or payment received as—
+    (ia) a specified benefit (as defined in section 198(3) of the Social Security Act 2018) other than an orphan’s benefit or an unsupported child’s benefit; or
     (i) an income-tested benefit (within the meaning of section 3(1) of the Social Security Act 1964) other than an orphan's benefit or an unsupported child's benefit; or
     (ii) New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension under Part 6 of the Veterans' Support Act 2014; or
     (iii) a study grant; and
@@ -1982,9 +1983,9 @@ For the purposes of section 110(1)﻿(a), a person's weekly income includes—
 ### 10 Certain payments not to be income
 For the purposes of section 110(1)﻿(b), a person's weekly income does not include—
   (a) an amount or payment—
-    (i) received as a benefit, allowance, or other payment under the Social Security Act 1964 not referred to in clause 9(a); or
+    (i) received as a benefit, allowance, or other payment under the Social Security Act 2018 not referred to in clause 9(a); or
     (ii) received as a parental tax credit, child tax credit, in-work tax credit, or Best Start tax credit under subparts MA to MG and MZ of the Income Tax Act 2007; or
-    (iii) of a kind stated in any of subparagraphs (ii) to (xv) of paragraph (f) of the definition of income in section 3(1) of the Social Security Act 1964; or
+    (iii) of a kind stated in any of clauses 8(b) to (j) and 9 of Schedule 3, and regulations made under section 422, of the Social Security Act 2018; or
   (b) in the case of a person with a disability, the value of any regular disability support services supplied to the person; or
   (c) the value of any regular disability support services supplied to any dependent child of the person who—
     (i) is residing in the social housing concerned; and
@@ -1992,8 +1993,8 @@ For the purposes of section 110(1)﻿(b), a person's weekly income does not incl
 
 ### 11 Assessable assets
 (1) For the purposes of section 111(2), assessable assets,—
-  (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $5,400:
-  (b) in any other case, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $2,700.
+  (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (as defined in section 68 of the Social Security Act 2018) in excess of $5,400:
+  (b) in any other case, means any cash assets (as defined in section 68 of the Social Security Act 2018) in excess of $2,700.
 (2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under Schedule 1 of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)﻿(a) or (b) is considered to be increased by the amount of that payment.
 
 **Period for estimating income**
@@ -2011,9 +2012,9 @@ In this schedule, unless the context otherwise requires,—
     (c) either was, or had a spouse or partner who was, aged 55 or more
   - **accommodation assistance** , in relation to any HNZ housing, means accommodation benefit, accommodation supplement, tenure protection allowance, or special transfer allowance, payable in respect of that housing
   - **accommodation benefit** means an accommodation benefit under regulation 9 of the Student Allowances Regulations 1998
-  - **accommodation supplement** means an accommodation supplement under section 61EA of the Social Security Act 1964
+  - **accommodation supplement** means an accommodation supplement under section 65 of the Social Security Act 2018
   - **affected tenant** means a tenant of HNZ housing to whom this schedule (by virtue of section 156(1)) applies
-  - **special transfer allowance** means an amount payable by way of special assistance under the special transfer allowance programme approved under section 124(1)﻿(d) of the Social Security Act 1964
+  - **special transfer allowance** means an amount payable by way of special assistance under the special transfer allowance programme approved under section 124(1)﻿(d) of the Social Security Act 1964 (as that programme is saved by section 11 and clause 21 of Schedule 1 of the Social Security Act 2018)
   - **tenure protection allowance** means the tenure protection allowance formerly payable under the sections 61FC and 61FD of the Social Security Act 1964.
 
 ### 2 Saving in respect of tenure protection allowance and special transfer allowance
@@ -2126,7 +2127,7 @@ The definition of income in section 3(1) of the Social Security Act 1964, as it 
 
 ### 11 Pre-transfer debt if agency is Ministry
 (1) This clause applies only if the agency is the Ministry.
-(2) The agency must comply with section 128, and may exercise its powers under section 85A of the Social Security Act 1964, in respect of pre-transfer debt.
+(2) The agency must comply with section 128, and may exercise or perform its duties, functions, or powers under regulations made under section 444 of the Social Security Act 2018, in respect of pre-transfer debt.
 
 ### 12 Agency may use Part 9 powers in respect of offending and other matters before transfer date
 (1) The agency may exercise its powers or perform its functions conferred by or under Part 9—
