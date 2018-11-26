@@ -1,5 +1,5 @@
 # Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990
-_Consolidation as at 2014-12-07_
+_Consolidation as at 2018-11-26_
 
 > Title
 
@@ -343,68 +343,34 @@ If any officer of the Department has, at any time before the commencement of thi
 ## Part 3 — New Zealand Artificial Limb Service
 
 ### 42 Interpretation
-In this Part and in Schedule 3, unless the context otherwise requires,—
-  - **Board** means the New Zealand Artificial Limb Board established on 1 April 1990 by section 43(1)
-  - **existing body** means the body known as the Artificial Limb Board (also known as the New Zealand Artificial Limbs Board), being the body that the Rehabilitation Board, purporting to act pursuant to section 13 of the Rehabilitation Act 1941, purported to establish pursuant to an instrument of delegation made pursuant to a resolution of the Rehabilitation Board dated 5 March 1970
-  - **Service** means the Board as renamed by section 43(1A)﻿(a)
-  - **undertaking** means all property, contracts, engagements, rights, authorities, and liabilities that purport to be property, contracts, engagements, rights, authorities, and liabilities of the existing body, including any grants, subsidies, donations, and gifts.
+[Repealed]
 
 ### 43 New Zealand Artificial Limb Service
-(1) This subsection on 1 April 1990 established a Board called the New Zealand Artificial Limb Board.
-(1A) After the commencement of the Social Welfare (Transitional Provisions) Amendment Act 2013,—
-  (a) the Board is renamed, and is to be known as, the New Zealand Artificial Limb Service; and
-  (b) a reference to the Board in an agreement, or in any other document, in force immediately before that commencement must be read as a reference to the Service.
-(2) The Service is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
-(3) The Crown Entities Act 2004 applies to the Service except to the extent that this Act expressly provides otherwise.
+[Repealed]
 
 ### 44 Functions
-The functions of the Service are—
-  (a) to manufacture, import, export, market, distribute, supply, fit, repair, and maintain artificial limbs and similar devices:
-  (b) to provide rehabilitative and other services to persons in connection with artificial limbs and similar devices:
-  (c) to carry out research and development in relation to artificial limbs and similar devices:
-  (d) to advise the Minister on matters relating to artificial limbs and similar devices.
+[Repealed]
 
 ### 45 Powers of Board
 [Repealed]
 
 ### 46 Membership of Service
-(1) The Service consists of 6 members appointed under section 28(1)﻿(a) of the Crown Entities Act 2004, including—
-  (a)
-  (b) 1 member to be appointed by the Minister to represent the interests of war amputees:
-  (c) 1 member to be appointed by the Minister on the nomination of the Amputees Federation of New Zealand:
-  (d) 1 member to be appointed by the Minister on the nomination of the New Zealand Orthopaedic Association:
-  (e) 1 member to be appointed by the Minister to represent District Health Boards, which member shall be appointed on the nomination of the Minister of Health:
-  (f) 1 member to be appointed by the Minister on the nomination of a majority of the current members of the Service.
-(2) Members of the Service are the board for the purposes of the Crown Entities Act 2004.
+[Repealed]
 
 ### 47 Board to comply with Government policy
 [Repealed]
 
 ### 48 Review of operation of Service
-As soon as practicable after the expiry of the period of 3 years beginning on 1 April 1990, and then at intervals of not more than 5 years, the Service must—
-  (a) review the operation of the Service since—
-    (i) 1 April 1990 (in the case of the first review carried out under this paragraph); or
-    (ii) the date of the last review carried out under this paragraph (in the case of every subsequent review); and
-  (b) consider—
-    (i) whether the Service should be retained or abolished; and
-    (ii) whether any amendments to this Part are necessary or desirable; and
-  (c) report its findings to the Minister.
+[Repealed]
 
 ### 49 Further provisions applying to Service
-The provisions set out in Schedule 3 apply in respect of the Service.
+[Repealed]
 
 ### 50 Contracts of Board
 [Repealed]
 
 ### 51 Transitional provisions applying to Board
-(1) On the commencement of this Act,—
-  (a) the undertaking of the existing body shall vest in the Board; and
-  (b) all money that is purportedly payable to the existing body shall become payable to the Board.
-(2) On the commencement of this Act, every person who purports to be an employee of the existing body shall become an employee of the Board but, for the purposes of every enactment, award, determination, contract, and agreement relating to the employment of each such employee, the contract of employment that that employee purports to have with the existing body shall be deemed to have been unbroken and the period of service with the existing body shall be deemed to have been a period of service with the Board.
-(3) The terms and conditions of employment of each employee to whom subsection (2) applies shall, until varied, be identical with the terms and conditions that purport to be the terms and conditions of that employee's purported employment with the existing body immediately before the commencement of this Act.
-(4) No such employee shall be entitled to receive any payment or other benefit by reason only of that employee ceasing by virtue of this Act to be an employee of the existing body.
-(5) Any person who, immediately before the commencement of this Act, purported to hold office as a member of the existing body shall, on the commencement of this Act, be deemed to have been appointed under section 46 as a member of the Board for a term of 5 years, and the provisions of this Act shall apply accordingly.
-(6) Every agreement, contract, deed, instrument, undertaking, or notice entered into, executed, or given by the existing body, and every action taken by the existing body, before the commencement of this Act, to the extent that it would have been valid if entered into, executed, given, or taken by the Board after the commencement of this Act, is hereby validated and declared to have been lawfully entered into, executed, given, or taken.
+[Repealed]
 
 ## Schedule 1 — Rates of New Zealand superannuation and veterans' pensions
 
@@ -431,11 +397,7 @@ The provisions set out in Schedule 3 apply in respect of the Service.
 [Repealed]
 
 ### 7 Appointment of deputies
-(1) The Minister may appoint any person to be the deputy of any appointed member of the Service.
-(2) No person shall be appointed under subclause (1) as the deputy of any appointed member of the Service unless that person is eligible to be appointed as an appointed member of the Service.
-(3)
-(4) Any person who is appointed under this clause as the deputy of any member of the Service may attend any meeting of the Service in the place of the person whose deputy that person is.
-(5)
+[Repealed]
 
 ### 8 Voting at meetings
 [Repealed]
@@ -462,7 +424,7 @@ The provisions set out in Schedule 3 apply in respect of the Service.
 [Repealed]
 
 ### 16 Superannuation or retiring allowances
-For the purpose of providing a superannuation fund or retiring allowance for any of the officers or employees of the Service, sums by way of subsidy may from time to time be paid into any scheme under the National Provident Fund Act 1950 containing provision for employer subsidy or into any other employer-subsidised scheme approved by the Minister of Finance for the purposes of this clause.
+[Repealed]
 
 ### 17 Application of certain Acts to members and employees
 [Repealed]
@@ -480,7 +442,7 @@ For the purpose of providing a superannuation fund or retiring allowance for any
 [Repealed]
 
 ### 22 Exemption from income tax
-The income of the Service is exempt from income tax.
+[Repealed]
 
 ### 23 Annual report
 [Repealed]
