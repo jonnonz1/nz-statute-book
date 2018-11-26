@@ -1,5 +1,5 @@
 # Social Security Amendment Act (No 2) 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 (1) This Act is the Social Security Amendment Act (No 2) 2001.
@@ -19,8 +19,8 @@ Section 74A of the principal Act is amended by repealing subsection (2), and sub
     (b) a person, other than a person who is already in receipt of a benefit applied for before the commencement of this subsection that is being paid at the rate for a married person, who applies for a benefit on or after that date, and who is married to a person who is—
       (i) unlawfully resident or present in New Zealand; or
       (ii) lawfully resident or present in New Zealand, but only by virtue of one of the permits listed in paragraph (b) of subsection (1).
-  (4) Despite subsection (3)(b)(ii), subsection (2) does not apply to a person described in any of paragraphs (c), (d), or (e) of subsection (1).
+  (4) Despite subsection (3)﻿(b)﻿(ii), subsection (2) does not apply to a person described in any of paragraphs (c), (d), or (e) of subsection (1).
   (5) Subsection (2) applies despite anything in this Act or the Social Welfare (Transitional Provisions) Act 1990.
 
 ### 4 Commencement of benefits
-Section 80(2)(b) of the principal Act is amended by inserting, after the word Act,, the words a sickness benefit,.
+Section 80(2)﻿(b) of the principal Act is amended by inserting, after the word Act,, the words a sickness benefit,.
