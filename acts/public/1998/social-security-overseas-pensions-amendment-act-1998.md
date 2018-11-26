@@ -1,5 +1,5 @@
 # Social Security (Overseas Pensions) Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964 to make further provision concerning arrangements between the Director-General and overseas pensioners relating to the payment of overseas pensions
 
