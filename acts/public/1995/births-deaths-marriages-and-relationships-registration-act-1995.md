@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2018-01-31_
+_Consolidation as at 2018-11-26_
 
 > Title
 
@@ -1069,9 +1069,9 @@ In sections 74 to 75G,—
   (h) the New Zealand Transport Agency.
 
 ### 78B Information matching to trace unregistered births
-(1) The purpose of this section is to authorise the Registrar-General to obtain information from the department for the time being responsible for the administration of the Social Security Act 1964 (the department) in order to assist in locating and contacting the mothers of children whose births are unregistered so that their births may be registered.
+(1) The purpose of this section is to authorise the Registrar-General to obtain information from the department for the time being responsible for the administration of the Social Security Act 2018 (the department) in order to assist in locating and contacting the mothers of children whose births are unregistered so that their births may be registered.
 (2) The Registrar-General may request the department to supply the postal address and residential address (if different from the postal address) of a person—
-  (a) in respect of whom that information is held for the purposes of the Social Security Act 1964; and
+  (a) in respect of whom that information is held for the purposes of the Social Security Act 2018; and
   (b) who the Registrar-General has grounds to believe may be the mother of a child whose birth is unregistered.
 (3) No request may be made unless—
   (a) there is an agreement between the department and the Registrar-General in accordance with section 99 of the Privacy Act 1993; and
