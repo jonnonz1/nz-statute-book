@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -372,7 +372,7 @@ Section 20L applies only for the purposes of—
   (j) political opinion, which includes the lack of a particular political opinion or any political opinion:
   (k) employment status, which means—
     (i) being unemployed; or
-    (ii) being a recipient of a benefit under the Social Security Act 1964 or an entitlement under the Accident Compensation Act 2001:
+    (ii) being a recipient of a benefit as defined in Schedule 2 of the Social Security Act 2018 or an entitlement under the Accident Compensation Act 2001:
   (l) family status, which means—
     (i) having the responsibility for part-time care or full-time care of children or other dependants; or
     (ii) having no responsibility for the care of children or other dependants; or
