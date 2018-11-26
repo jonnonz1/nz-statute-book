@@ -1,5 +1,5 @@
 # Compensation for Live Organ Donors Act 2016
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Compensation for Live Organ Donors Act 2016.
@@ -61,7 +61,7 @@ This Act binds the Crown.
   (a) sets out the criteria that the prospective donor of a qualifying organ must meet in order to be a qualifying donor; and
   (b) gives qualifying donors an entitlement to compensation for earnings forgone while they recuperate from their donor surgery; and
   (c) gives the Director-General a discretion, in limited circumstances, to compensate qualifying donors for earnings forgone in the lead-up to their donor surgery.
-(3) Subpart 2 provides for donors of qualifying organs who are beneficiaries to be exempted from certain obligations under the Social Security Act 1964 while they recuperate from their donor surgery.
+(3) Subpart 2 provides for donors of qualifying organs who are beneficiaries to be exempted from certain obligations under the Social Security Act 2018 while they recuperate from their donor surgery.
 (4) This section is intended only as a guide to the general scheme and effect of this Part.
 
 ### Subpart 1 — Earnings compensation for qualifying donors: entitlement and discretionary earnings compensation
@@ -108,19 +108,19 @@ For earnings compensation payable under section 12, the Director-General must—
   (a) set the rate of compensation in accordance with Schedule 2; and
   (b) make the payment no later than 30 days after the end of the payment period.
 
-### Subpart 2 — Exemptions under Social Security Act 1964 for donors who are beneficiaries
+### Subpart 2 — Exemptions under Social Security Act 2018 for donors who are beneficiaries
 
-### 14 Donors of qualifying organs exempt from certain obligations under Social Security Act 1964 while recuperating
+### 14 Donors of qualifying organs exempt from certain obligations under Social Security Act 2018 while recuperating
 (1) This section applies to a person (whether or not a qualifying donor) who—
   (a) has donor surgery; and
-  (b) is a beneficiary who is subject to work test obligations or obligations under section 60Q, 170, or 171 of the Social Security Act 1964.
-(2) The person must be treated as having an exemption from the obligations under section 105(2) of that Act for a period that starts on the date of the donor surgery and ends immediately before the end date set by the chief executive.
-(3) The chief executive must set as the end date the date on which the chief executive considers the donor will have recuperated sufficiently to safely comply with the relevant obligations (but the date must be no later than 12 weeks after the date of the donor surgery).
-(4) Section 105(3) to (7) of the Social Security Act 1964 applies to the exemption with the necessary modifications.
-(5) In this section, beneficiary, chief executive, and work test obligations have the meanings given by section 3(1) of the Social Security Act 1964.
+  (b) is a beneficiary who is subject to work-preparation obligations, work-test obligations, or obligations under section 162, 164, 166, or 167 of the Social Security Act 2018.
+(2) The person must be treated as having an exemption from the obligations under section 158 of that Act for a period that starts on the date of the donor surgery and ends immediately before the end date set by MSD.
+(3) MSD must set as the end date the date on which MSD considers the donor will have recuperated sufficiently to safely comply with the relevant obligations (but the date must be no later than 12 weeks after the date of the donor surgery).
+(4) Sections 158(2), (3), and (4) and 160 of the Social Security Act 2018 apply to the exemption with the necessary modifications.
+(5) In this section, beneficiary, MSD, work-preparation obligations, and work-test obligations have the meanings given by Schedule 2 of the Social Security Act 2018.
 
 ### 15 Appeal to medical board
-A person to whom section 14 applies may appeal against a decision under that section as if it were a decision described in section 10B(1) of the Social Security Act 1964 (which relates to rights of appeal to the medical board appointed under that Act).
+A person to whom section 14 applies may appeal against a decision under that section as if it were a decision described in section 411 of the Social Security Act 2018 (which relates to rights of appeal to the medical board appointed under that Act).
 
 ## Part 3 — Administration and other matters
 
@@ -280,7 +280,7 @@ This Act applies with the following modifications to a person who has donor surg
 **Application of section 14**
 
 ### 4 Section 14 applies only if donor surgery on or after commencement
-Section 14 (donors of qualifying organs exempt from certain obligations under Social Security Act 1964 while recuperating) applies only to a person who has donor surgery on or after the commencement of this Act.
+Section 14 (donors of qualifying organs exempt from certain obligations under Social Security Act 2018 while recuperating) applies only to a person who has donor surgery on or after the commencement of this Act.
 
 **References to District Court**
 
