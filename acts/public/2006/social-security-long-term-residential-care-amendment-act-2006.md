@@ -1,5 +1,5 @@
 # Social Security (Long-term Residential Care) Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Long-term Residential Care) Amendment Act 2006.
@@ -24,8 +24,8 @@ This Act amends the Social Security Act 1964.
   (2C) For the avoidance of doubt, nothing in paragraph (b) of subsection (2B) prevents the payment of a disability allowance to a person to whom that paragraph applies for expenses that are not costs of residential care services supplied to that person.
 (2) Any money received by a person by way of a disability allowance must be repaid as a debt due to the Crown if the disability allowance was granted in respect of an application that—
   (a) was made after 14 June 2006; and
-  (b) was made in respect of expenses referred to in section 69C(2B)(a) of the principal Act (as inserted by this section).
-(3) If, on an application made between 18 May 2006 and 18 May 2007, a disability allowance is granted to or on account of a person referred to in section 69C(2B)(b) of the principal Act (as inserted by this section) for expenses that are not costs of residential care services supplied to that person, then, despite section 80(1) of the principal Act, the disability allowance commences on the later of—
+  (b) was made in respect of expenses referred to in section 69C(2B)﻿(a) of the principal Act (as inserted by this section).
+(3) If, on an application made between 18 May 2006 and 18 May 2007, a disability allowance is granted to or on account of a person referred to in section 69C(2B)﻿(b) of the principal Act (as inserted by this section) for expenses that are not costs of residential care services supplied to that person, then, despite section 80(1) of the principal Act, the disability allowance commences on the later of—
   (a) the date the person became entitled to receive it; or
   (b) 18 May 2006.
 
@@ -49,7 +49,7 @@ The following sections are inserted immediately before section 136:Purpose of th
   (3) This section is by way of explanation only. If a provision of this or any other Act is inconsistent with this section, the other provision prevails.
 
 ### 6 Interpretation
-(1) Section 136 is amended by repealing the definitions of contracted care services and cost of contracted care services and substituting the following definitions:.
+(1) Section 136 is amended by repealing the definitions of contracted care services and cost of contracted care services and substituting the following definitions:
   - **contracted care services** means services that are—
     (a) provided by a contracted care provider; and
     (b) provided to an eligible person who has been needs assessed as requiring long-term residential care in a hospital or rest home indefinitely; and
@@ -123,7 +123,7 @@ Section 149 is amended by inserting the following section after subsection (1):
 (3) Section 150 is amended by repealing subsection (4) and substituting the following subsections:
   (4) A review must review the person's means assessment as to assets and, if necessary, the person's means assessment as to income unless subsection (4A) applies.
   (4A) A review must review the person's means assessment as to income only (and not the person's means assessment as to assets) if the review is conducted under—
-    (a) subsection (1)(a) and the person has been means assessed and found to have assets equal to or less than the applicable asset threshold; or
+    (a) subsection (1)﻿(a) and the person has been means assessed and found to have assets equal to or less than the applicable asset threshold; or
     (b) subsection (2A).
   (4B) A review under this section is conducted as at the date of means assessment.
 
@@ -132,14 +132,14 @@ Section 152 is amended by repealing subsection (2) and substituting the followin
   (2) By way of explanation, the amount of the maximum contribution set for a region is the amount agreed at a national level between funder representatives and provider representatives as being the amount that funders in that region are to pay to providers in that region for providing rest-home-level care services.
 
 ### 18 Regulations relating to this Part
-(1) Section 155(1)(e) is amended by omitting means assessment and substituting section 147A.
-(2) Section 155(1)(k) is amended by omitting , as defined in Part 3 of Schedule 27.
+(1) Section 155(1)﻿(e) is amended by omitting means assessment and substituting section 147A.
+(2) Section 155(1)﻿(k) is amended by omitting , as defined in Part 3 of Schedule 27.
 (3) Section 155(2) is amended by omitting 2006, and substituting 2007.
 
 ### Subpart 3 — Other amendments
 
 ### 19 Amendment to Schedule 27
-(1) Clause 5 of Schedule 27 is amended by repealing the definition of income-from-assets exemption and substituting the following definition:.
+(1) Clause 5 of Schedule 27 is amended by repealing the definition of income-from-assets exemption and substituting the following definition:
   - **income-from-assets exemption** means the amount of income derived from assets each year not exceeding the following (or such other amount or amounts as may be prescribed by regulations made under section 155)
     (a) $805, if the person is single; or
     (b) $1,610, if the person's spouse or partner is a resident assessed as requiring care; or
