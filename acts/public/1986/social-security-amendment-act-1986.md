@@ -1,5 +1,5 @@
 # Social Security Amendment Act 1986
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964
 
@@ -86,7 +86,7 @@ _Consolidation as at 2007-09-03_
   (b) This paragraph repealed Schedule 21 to the principal Act.
   (c) Section 9 of the Social Security Amendment Act 1984:
   (d) Section 21 of the Social Security Amendment Act (No 2) 1985:
-  (e) This paragraph repealed s 124(1)(aa) of the principal Act.
+  (e) This paragraph repealed s 124(1)﻿(aa) of the principal Act.
   (f) Sections 10 and 12 of, and the Schedule to, the Social Security Amendment Act 1984.
 (2) Notwithstanding the provisions of subsection (1) of this section, the discontinuance of family care grants shall not affect, reduce, or extinguish any entitlement under the principal Act to a family care grant in respect of any period before the 1st day of October 1986, and any application for a family care grant under Part 1A of the principal Act received by the Commission in respect of any period before the 1st day of October 1986 shall be dealt with and determined as if subsection (1) of this section had not been enacted.
 
