@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2018-06-01_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -1212,7 +1212,7 @@ A person who commits an offence against this Act is liable on conviction,—
     (iv) any person acting under the authority of the Civil Defence Emergency Management Group, the Group Controller, or a Group Recovery Manager appointed by the Group.
 (6) If there is any dispute as to the entitlement of any person to compensation under this section, or as to the amount of the compensation, or as to the liability of the Crown or any Civil Defence Emergency Management Group to pay the compensation, the matter may be determined by a court of competent jurisdiction.
 (7) A payment of compensation by the Crown under this section must be made out of public money appropriated by Parliament for the purpose.
-(8) Despite anything to the contrary in the Social Security Act 1964, nothing in this section may be construed as to in any way limit or affect the entitlement of any person to any benefit under that Act.
+(8) Despite anything to the contrary in the Social Security Act 2018, nothing in this section may be construed as to in any way limit or affect the entitlement of any person to any benefit under that Act.
 
 ### 109 Compensation for other matters
 (1) This section does not apply if section 107 or section 108 applies.
