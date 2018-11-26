@@ -1,5 +1,5 @@
 # Social Security Amendment Act (No 3) 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964
 
@@ -69,7 +69,7 @@ This Act may be cited as the Social Security Amendment Act (No 3) 1993, and shal
 ### 15 Financial means assessment of people requiring residential care disability services
 (1) This subsection inserted sections 69E and 69F in the principal Act.
 (2) Any agreement the Director-General entered into with a person that—shall be deemed to remain in force and to be an agreement to repay any amount of the cost of the residential care disability services paid under the Health and Disability Services Act 1993 or the New Zealand Public Health and Disability Act 2000 in respect of that person after that date; and references in that agreement to that welfare programme shall be deemed to include any amounts so paid under the Health and Disability Services Act 1993 or the New Zealand Public Health and Disability Act 2000.
-  (a) Required that person to repay, as a loan, any amount of rest home subsidy that was paid in respect of that person under the rest home subsidy welfare programme approved by the Minister under section 124(1)(d) of the principal Act; and
+  (a) Required that person to repay, as a loan, any amount of rest home subsidy that was paid in respect of that person under the rest home subsidy welfare programme approved by the Minister under section 124(1)﻿(d) of the principal Act; and
   (b) Was in force immediately before the 1st day of July 1993—
 
 ### 16
