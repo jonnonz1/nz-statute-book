@@ -1,5 +1,5 @@
 # Family Benefits (Home Ownership) Act 1964
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend the law relating to the making of advances for housing purposes against the capitalised value of family benefits
 
@@ -15,7 +15,7 @@ This Act may be cited as the Family Benefits (Home Ownership) Act 1964.
   - **charge holder** means the person in whose favour a charge is taken under section 13
   - **chief executive** means the chief executive of the department
   - **child** includes a stepchild in any case where the beneficiary is a step-parent of the child in respect of whom the family benefit was payable; and has a corresponding meaning
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **dwelling** includes all necessary outbuildings and appurtenances in connection with a dwelling
   - **family benefit** means the benefit of that name that was, until 31 March 1991, payable under the Social Security Act 1964 in respect of a child under 16 years of age
   - **land** includes any estate or interest, whether freehold or chattel, in real property
@@ -82,7 +82,7 @@ Subject to the provisions of this Act, and notwithstanding anything in the Socia
 
 ### 9 Declarations
 Any declaration required to be made for the purpose of this Act may be made before—
-  (a) any person authorised to take a declaration under regulations made pursuant to section 132 of the Social Security Act 1964; or
+  (a)
   (b) any person authorised to take a statutory declaration; or
   (c) in a case of a declaration by a Maori, any of the aforesaid persons or any officer of the permanent staff of Te Puni Kōkiri.
 
@@ -140,7 +140,7 @@ Subject to the limits specified in section 6, an advance for any housing purpose
 ### 16 Death of both parents of child
 Where an advance is made in respect of a family benefit, and—the advance, to the extent to which it was made in respect of the family benefit payable in respect of that child, shall, if the chief executive so determines, be deemed to have been repaid on the date of the commencement of that orphan's benefit or an unsupported child's benefit.
   (a) the beneficiary and the spouse (if any) of the beneficiary at the date of the advance both die before the child in respect of whom the benefit was payable attains the age in respect of which the capitalised value of the benefit was calculated for the purposes of the advance, and before the occurrence of any event by reason of which the unpaid balance of the advance, or any part thereof, has become repayable; and
-  (b) after the death of the survivor of the beneficiary and the spouse of the beneficiary, or, as the case may be, after the death of the beneficiary, an orphan's benefit or an unsupported child's benefit is granted under the Social Security Act 1964 in respect of that child,—
+  (b) after the death of the survivor of the beneficiary and the spouse of the beneficiary, or, as the case may be, after the death of the beneficiary, an orphan's benefit or an unsupported child's benefit is granted under the Social Security Act 2018 in respect of that child,—
 
 ### 17 Resumption of payment of benefit
 [Repealed]
@@ -175,7 +175,7 @@ For the purposes of this Act, the amount of the unpaid balance of an advance sha
 (2) In all other cases the chief executive, in his or her discretion, may determine the rate of interest (if any) payable on the unpaid balance of the advance, but in no case shall that rate be higher than 5 pounds per cent per annum.
 
 ### 22 Recovery of unpaid balance
-The unpaid balance of an advance that has become repayable pursuant to this Act and any interest thereon may be recovered as a debt due to the Crown at the suit of the chief executive, or the chief executive, or the Commission may make any necessary adjustments in any instalments of the benefit or any other benefit under the Social Security Act 1964 payable or thereafter becoming payable to the beneficiary or to the spouse of the beneficiary.
+The unpaid balance of an advance that has become repayable pursuant to this Act and any interest thereon may be recovered as a debt due to the Crown at the suit of the chief executive, or the chief executive, or the Commission may make any necessary adjustments in any instalments of the benefit or any other benefit under the Social Security Act 2018 payable or thereafter becoming payable to the beneficiary or to the spouse of the beneficiary.
 
 **Miscellaneous provisions**
 
