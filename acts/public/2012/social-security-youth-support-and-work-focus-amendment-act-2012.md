@@ -1,5 +1,5 @@
 # Social Security (Youth Support and Work Focus) Amendment Act 2012
-_Consolidation as at 2012-07-26_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Youth Support and Work Focus) Amendment Act 2012.
@@ -20,7 +20,7 @@ This Act amends the Social Security Act 1964 (the principal Act).
 (2) In section 1A(d), after this Act, insert , and, in the case of young persons, seeking or receiving financial support under this Act, educational, budget management, and (where appropriate) parenting requirements.
 
 ### 5 Section 3 amended (Interpretation)
-(1) In section 3(1), definition of benefit, after paragraph (b)(ii), insert:.
+(1) In section 3(1), definition of benefit, after paragraph (b)﻿(ii), insert:.
   (iia) an incentive payment, a youth payment, and a young parent payment:
 (2) In section 3(1), insert in their appropriate alphabetical order:.
   - **contracted service provider** has the meaning given by section 125A(1)
@@ -49,18 +49,18 @@ This Act amends the Social Security Act 1964 (the principal Act).
 
 ### 6 Section 11D amended (Application process for benefits)
 In section 11D, after subsection (3), insert:
-  (3A) If the chief executive considers that the appropriate benefit for an applicant is a youth support payment, he or she may require as supporting evidence under subsection (2)(b) evidence of the applicant's accommodation costs and service costs (within the meaning of section 157), debts, and other liabilities.
-  (3B) Subsection (3A) does not limit the generality of subsection (2)(b).
+  (3A) If the chief executive considers that the appropriate benefit for an applicant is a youth support payment, he or she may require as supporting evidence under subsection (2)﻿(b) evidence of the applicant's accommodation costs and service costs (within the meaning of section 157), debts, and other liabilities.
+  (3B) Subsection (3A) does not limit the generality of subsection (2)﻿(b).
 
 ### 7 Section 12J amended (Right of appeal)
 (1) In the heading to section 12J, replace Right with Rights.
-(2) In section 12J(1)(a), replace or Part 4 with Part 4, or Part 5.
+(2) In section 12J(1)﻿(a), replace or Part 4 with Part 4, or Part 5.
 
 ### 8 Section 21 amended (Widows' benefits)
-In section 21(1)(a), after who, insert is aged 19 years or over and.
+In section 21(1)﻿(a), after who, insert is aged 19 years or over and.
 
 ### 9 Section 27B amended (Domestic purposes benefits for solo parents)
-Replace section 27B(2)(a) with:.
+Replace section 27B(2)﻿(a) with:.
   (a) the applicant is aged 19 years or over; and
 
 ### 10 Section 27G amended (Domestic purposes benefits for care at home of the sick or infirm)
@@ -131,7 +131,7 @@ After section 123E (as inserted by section 19 of this Act), insert:Chief executi
     (b) consider all submissions received within a reasonable time of being invited.
   (2) The Privacy Commissioner—
     (a) must consider the privacy implications of the proposed agreement; and
-    (b) may make any submissions under subsection (1)(a)(i) that he or she thinks fit.
+    (b) may make any submissions under subsection (1)﻿(a)﻿(i) that he or she thinks fit.
   (1) Promptly after an agreement under section 123F(1) has been in effect for 3 years, the chief executive must conduct a review of its operation.
   (2) In conducting the review, the chief executive must consult—
     (a) the chief executive of the Ministry of Education (as the other party to the agreement); and
@@ -141,7 +141,7 @@ After section 123E (as inserted by section 19 of this Act), insert:Chief executi
     (a) whether (and if so, to what extent) the agreement is operating—
       (i) in a way that is unusual; or
       (ii) otherwise than was expected by the parties when they entered into it; or
-      (iii) otherwise than was expected by the Privacy Commissioner when he or she was consulted on it under section 123G(1)(a)(i); and
+      (iii) otherwise than was expected by the Privacy Commissioner when he or she was consulted on it under section 123G(1)﻿(a)﻿(i); and
     (b) the extent to which the agreement is facilitating the provision of services of a kind described in section 123E(a); and
     (c) the extent to which the agreement is impinging on the privacy of individuals; and
     (d) whether (and if so, to what extent) the benefits of sharing information under the agreement justify the costs of sharing it; and
@@ -264,10 +264,10 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
         (A) NCEA level 2; or
         (B) an equivalent qualification (in the opinion of the chief executive); or
         (C) a higher qualification; or
-      (ii) would be so available but for circumstances that would qualify the young person for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)(a); and
+      (ii) would be so available but for circumstances that would qualify the young person for an exemption under section 105 from the obligation to undertake education or training or work-based learning in section 170(1)﻿(a); and
     (d) meets the residential requirements set out in section 74AA; and
     (e) has no income or an income of less than the amount that would fully abate the youth payment.
-  (3) Nothing in subsection (2)(e) affects the entitlement of a young person to receive a youth payment if, during a temporary period, the person has income sufficient to abate the payment fully but the person otherwise fulfils the conditions of entitlement to the payment.
+  (3) Nothing in subsection (2)﻿(e) affects the entitlement of a young person to receive a youth payment if, during a temporary period, the person has income sufficient to abate the payment fully but the person otherwise fulfils the conditions of entitlement to the payment.
   (1) A single person is entitled to a youth payment if—
     (a) section 158(2) applies to him or her; and
     (b) the chief executive is satisfied that the young person is in exceptional circumstances.
@@ -297,7 +297,7 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
       (ii) in any other case, the earlier of—
         (A) the close of the calendar year in which the young person turned 18; and
         (B) the close of the day the course ends.
-  (2) While a youth payment continues by virtue of subsection (1)(a), the young person concerned is not eligible to be granted any of the following benefits:
+  (2) While a youth payment continues by virtue of subsection (1)﻿(a), the young person concerned is not eligible to be granted any of the following benefits:
     (a) a widow’s benefit:
     (b) a domestic purposes benefit:
     (c) a sickness benefit:
@@ -316,12 +316,12 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
         (B) an equivalent qualification (in the opinion of the chief executive); or
         (C) a higher qualification; or
       (ii) would be so available but for circumstances—
-        (A) under which the obligation to undertake education or training or work-based learning in section 170(1)(a) would not, under section 170(3), apply to the young person; or
+        (A) under which the obligation to undertake education or training or work-based learning in section 170(1)﻿(a) would not, under section 170(3), apply to the young person; or
         (B) that would qualify the young person for an exemption under section 105 from that obligation; and
     (d) meets the residential requirements set out in section 74AA; and
     (e) has no income or an income of less than the amount that would fully abate the young parent payment.
-  (3) Nothing in subsection (2)(e) affects the entitlement of a young person to receive a young parent payment if, during a temporary period, the person has income sufficient to fully abate the payment but the person otherwise fulfils the conditions of entitlement to the payment.
-  (4) For the purposes of subsection (2)(b), a dependent child of a young person who is married, in a civil union, or in a de facto relationship must also be treated as a dependent child of the young person’s spouse or partner.
+  (3) Nothing in subsection (2)﻿(e) affects the entitlement of a young person to receive a young parent payment if, during a temporary period, the person has income sufficient to fully abate the payment but the person otherwise fulfils the conditions of entitlement to the payment.
+  (4) For the purposes of subsection (2)﻿(b), a dependent child of a young person who is married, in a civil union, or in a de facto relationship must also be treated as a dependent child of the young person’s spouse or partner.
   (1) A young person is entitled to receive a young parent payment if—
     (a) section 164(2) applies to him or her; and
     (b) subsection (2) or subsection (3) or subsection (4) applies to him or her.
@@ -334,7 +334,7 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
     (b) he or she is living with or being financially supported by a parent or guardian; and
     (c) the family scheme income (within the meaning of the Income Tax Act 2007) of the parent or guardian concerned and the spouse or partner (if any) of the parent or guardian concerned is less than the amount that would, in accordance with sections MD 1 and MD 13 of that Act, fully abate the amount of the parent or guardian concerned's family tax credit entitlement under that Act.
   (4) This subsection applies to a single young person who is aged 18 years.
-  (5) For the purposes of the calculation required by subsection (3)(c), if the parent or guardian with whom the young person concerned is living or by whom he or she is being supported has no family tax credit entitlement because that parent or guardian has no dependent children (within the meaning of section YA 1 of the Income Tax Act 2007), that parent or guardian's family tax credit entitlement must be calculated as if the young person and his or her dependent child or children were dependent children (within the meaning of that section) of that parent or guardian.
+  (5) For the purposes of the calculation required by subsection (3)﻿(c), if the parent or guardian with whom the young person concerned is living or by whom he or she is being supported has no family tax credit entitlement because that parent or guardian has no dependent children (within the meaning of section YA 1 of the Income Tax Act 2007), that parent or guardian's family tax credit entitlement must be calculated as if the young person and his or her dependent child or children were dependent children (within the meaning of that section) of that parent or guardian.
   (6) Nothing in this section entitles a parent or guardian to whom subsection (5) applies to a family tax credit.
   A young person is entitled to receive a young parent payment if section 164(2) applies to him or her, and—
     (a) he or she is not married, or in a civil union or de facto relationship, but has been married or in a civil union or de facto relationship; or
@@ -350,7 +350,7 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
       (ii) in any other case, the earlier of—
         (A) the close of the calendar year in which the young person turned 19; and
         (B) the close of the day the course ends.
-  (2) While a young parent payment continues by virtue of subsection (1)(a), the young person concerned is not eligible to be granted the following benefits:
+  (2) While a young parent payment continues by virtue of subsection (1)﻿(a), the young person concerned is not eligible to be granted the following benefits:
     (a) a widow’s benefit:
     (b) a domestic purposes benefit:
     (c) a sickness benefit:
@@ -381,7 +381,7 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
       (ii) any similar programme established in its place:
     (c) to ensure the child’s attendance at an approved early childhood education programme (as defined in regulations under this Act) or other suitable childcare while the young person is in education, training, work-based learning, or part-time work.
   (3) Except as provided in subsection (4), the obligations in subsections (1) and (2) apply to a young person receiving a youth support payment from the time that it is first paid to the young person.
-  (4) Where a young person receiving a young parent payment is the principal caregiver of his or her youngest dependent child and the child is aged under 12 months, the obligation in subsection (1)(a) begins to apply (in relation to the young person) only on the earlier of the following days:
+  (4) Where a young person receiving a young parent payment is the principal caregiver of his or her youngest dependent child and the child is aged under 12 months, the obligation in subsection (1)﻿(a) begins to apply (in relation to the young person) only on the earlier of the following days:
     (a) the first day on which—
       (i) the child is at least 6 months old; and
       (ii) a suitable place is available for the young person in a teen parent unit; and
@@ -389,14 +389,14 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
     (b) the day on which the child becomes 12 months old.
   (5) A failure without good and sufficient reason to comply with obligations under this section is subject to sanctions, as provided in sections 173 and 174.
   (1) A young person who is aged 16 or 17 years and is without dependent children and is the spouse, or civil union or de facto partner, of a specified beneficiary—
-    (a) is subject to the obligations set out in section 170(1)(a) and (b), (d) to (f), and (g)(i) as if he or she were receiving a youth payment; and
+    (a) is subject to the obligations set out in section 170(1)﻿(a) and (b), (d) to (f), and (g)﻿(i) as if he or she were receiving a youth payment; and
     (b) is not subject to the work test or to employment plan obligations under section 60Q.
   (2) A young person who is aged 16 to 18 years, has a dependent child or children, and is the spouse, or civil union or de facto partner, of a specified beneficiary—
-    (a) is subject to the obligations set out in section 170(1)(a) to (f) and (g)(i), and 170(2) as if he or she were receiving a young parent payment; and
+    (a) is subject to the obligations set out in section 170(1)﻿(a) to (f) and (g)﻿(i), and 170(2) as if he or she were receiving a young parent payment; and
     (b) is not subject to the work test or to employment plan obligations under section 60Q.
   (3) A failure without good and sufficient reason to comply with any of the obligations placed on a young person under this section,—
-    (a) for a young person who would, but for subsection (1)(b) or (2)(b), be subject to the work test, is a failure to comply with the work test for the purposes of section 117; and
-    (b) for a person who would, but for subsection (1)(b) or (2)(b), be subject to employment plan obligations under section 60Q, is a failure to comply with section 60Q(1) for the purposes of section 60U.
+    (a) for a young person who would, but for subsection (1)﻿(b) or (2)﻿(b), be subject to the work test, is a failure to comply with the work test for the purposes of section 117; and
+    (b) for a person who would, but for subsection (1)﻿(b) or (2)﻿(b), be subject to employment plan obligations under section 60Q, is a failure to comply with section 60Q(1) for the purposes of section 60U.
   The chief executive must take reasonable and appropriate steps to make every young person who is subject to obligations under section 170 or 171 aware of—
     (a) those obligations; and
     (b) the consequences of failure to comply with them and (in particular) the sanctions that may be imposed under this Act for failing to comply with them.
@@ -405,11 +405,11 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
       (i) suspend the in-hand allowance and any incentive payments until the young person satisfies the obligation (or, if he or she has failed to comply with 2 or more obligations, until he or she satisfies all of them); and
       (ii) if the young person has not satisfied the obligation (or, if he or she has failed to comply with 2 or more obligations, if he or she has not satisfied all of them) within 4 weeks after the date on which the suspension took effect, suspend the whole of the youth payment and any incentive payments until the young person satisfies the obligation or obligations; and
     (b) for a third failure, cancel the youth payment and any incentive payments.
-  (2) A person whose benefit is cancelled under subsection (1)(b)—
+  (2) A person whose benefit is cancelled under subsection (1)﻿(b)—
     (a) is not entitled to be granted any benefit for 13 weeks from the date of the cancellation; and
     (b) if he or she wishes to become entitled to a benefit again, must apply for it and establish his or her eligibility for it.
   (3) Subsection (2) is subject to sections 123 to 123B.
-  (4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)(b) of that section referred to the following activities (rather than those to which it in fact refers):
+  (4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)﻿(b) of that section referred to the following activities (rather than those to which it in fact refers):
     (a) if the young person concerned is not already in part-time work, participation in part-time work or work experience:
     (b) participation in recognised community activities (as defined in section 88A):
     (c) participation in any other activity that the chief executive considers will enhance skills or improve motivation.
@@ -419,11 +419,11 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
     (b) for a third failure,—
       (i) cancel the young person’s young parent payment; and
       (ii) cancel any incentive payments.
-  (2) A person whose benefit is cancelled under subsection (1)(b)—
+  (2) A person whose benefit is cancelled under subsection (1)﻿(b)—
     (a) is not entitled to be granted any benefit for 13 weeks from the date of the cancellation; and
     (b) if he or she wishes to become entitled to a benefit again, must apply for it and establish his or her eligibility for it.
   (3) Subsection (2) is subject to sections 123 to 123B and section 177.
-  (4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)(b) of that section referred to the following activities (rather than those to which it in fact refers):
+  (4) For the purposes of subsection (3), a 6-week approved activity is completed in accordance with section 123B if it is completed in such a way that its completion would be in accordance with section 123B if subsection (1)﻿(b) of that section referred to the following activities (rather than those to which it in fact refers):
     (a) if the young person concerned is not already in part-time work, participation in part-time work or work experience:
     (b) participation in recognised community activities (as defined in section 88A):
     (c) participation in any other activity that the chief executive considers will enhance skills or improve motivation.
@@ -451,13 +451,13 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
   (3) In sections 173 and 174,—
     - **second failure** means a failure that occurs after the young person concerned has satisfied the obligation to which a first failure related; and
     - **third failure** means a failure that occurs after the young person concerned has satisfied the obligation to which a second failure related.
-  (4) If a young person whose youth support payment has been cancelled under section 173(1)(b) or 174(1)(b) is again granted a youth support payment,—
+  (4) If a young person whose youth support payment has been cancelled under section 173(1)﻿(b) or 174(1)﻿(b) is again granted a youth support payment,—
     (a) except as provided in paragraph (b), any incentive payments that were payable to the young person before the cancellation must be paid with the youth payment or young parent payment; but
-    (b) if the failure that led to the cancellation was a failure to comply with section 170(1)(a), an education incentive payment is payable only if the young person again meets the conditions of entitlement to that payment set out in regulations under this Act.
-  (1) If under section 174(1)(b)(i) a young person's entitlement to a young parent payment is cancelled,—
+    (b) if the failure that led to the cancellation was a failure to comply with section 170(1)﻿(a), an education incentive payment is payable only if the young person again meets the conditions of entitlement to that payment set out in regulations under this Act.
+  (1) If under section 174(1)﻿(b)﻿(i) a young person's entitlement to a young parent payment is cancelled,—
     (a) the person is entitled during the period of cancellation to receive half of that base rate of young parent payment and only half the abatement rate in clause 10 or 11 of Schedule 26 (as the case requires) applies to that rate; but
     (b) during the period of cancellation, no incentive payments are payable.
-  (2) While subsection (1)(b) applies to a young person, the amounts payable must be paid to him or her or on his or her account personally.
+  (2) While subsection (1)﻿(b) applies to a young person, the amounts payable must be paid to him or her or on his or her account personally.
   (1) The chief executive may cancel an incentive payment if satisfied that the young person concerned has intentionally acted in a way inconsistent with the purpose for which it was granted.
   (2) The cancellation makes the young person ineligible for the incentive payment again until the chief executive decides that it may be re-granted.
   (1) Except as provided in this section and section 177(2), no payment under a youth support payment can be paid to or on account of the young person concerned personally.
@@ -469,10 +469,10 @@ After section 155, insert:Financial support for young peoplePurposeInterpretatio
       (ii) any WFF tax credit payable to a young person by the chief executive:
       (iii) the amount of any child disability allowance or disability allowance to which a young person is entitled:
       (iv) any other benefit or payment under this Act to which a young person is entitled specified for the purposes of this paragraph by the regulations; but
-    (b) if no manner is for the time being stated for a benefit or payment of a kind referred to in paragraph (a)(i) to (iv), it must be paid to or on account of the young person entitled to it in accordance with section 82(3).
+    (b) if no manner is for the time being stated for a benefit or payment of a kind referred to in paragraph (a)﻿(i) to (iv), it must be paid to or on account of the young person entitled to it in accordance with section 82(3).
   (5) A manner stated under subsection (4) may include crediting an amount to a payment card, voucher, or device, that enables a young person to obtain goods or services from a particular supplier and enables the supplier to obtain payment from the department for the goods or services.
   (6) Subsection (5) does not limit the generality of subsection (4).
-  (7) If the chief executive considers that the young person has met the criteria stated for the purposes of this section in regulations under this Act for managing his or her own payments, the chief executive may pay the whole or any part of the payments referred to in subsection (4)(a) to or on account of the young person personally until a sanction is imposed on the young person under section 173 or 174.
+  (7) If the chief executive considers that the young person has met the criteria stated for the purposes of this section in regulations under this Act for managing his or her own payments, the chief executive may pay the whole or any part of the payments referred to in subsection (4)﻿(a) to or on account of the young person personally until a sanction is imposed on the young person under section 173 or 174.
   (8) No appeal under this Act lies against a determination by the chief executive under regulations made under this Act for the purposes of this section.
   (9) This section overrides section 82(1) to (3).
   (10) Subsection (4) overrides section 80KS of the Tax Administration Act 1994.
@@ -618,7 +618,7 @@ After section 21, insert:Widows' benefits: pre-benefit activities
   (2) Section 96A(2) to (13) applies to a person to whom subsection (1) applies, but as if every reference to an unemployment benefit were a reference to a widow's benefit.
 
 ### 36 Section 27B amended (Domestic purposes benefits for solo parents)
-Replace section 27B(2A)(a) with:.
+Replace section 27B(2A)﻿(a) with:.
   (a) comply with all obligations arising under section 60Q; or
 
 ### 37 Section 27C amended (Domestic purposes benefits for women alone)
@@ -682,7 +682,7 @@ Replace sections 60O to 60Z with:Purposes of section 60QCertain obligations may 
   (1) This section applies to a person if—
     (a) he or she contacts the department requesting financial assistance after the commencement of this section; and
     (b) the chief executive considers that the appropriate financial assistance for him or her would be an unemployment benefit.
-(2) In section 96A(2), replace If the chief executive considers that the appropriate financial assistance for the person would be an unemployment benefit, the chief executive may (for the purpose stated in section 1A(a)(ii)) require him or her with The chief executive may (for the purpose stated in section 1A(a)(ii)) require a person to whom this section applies.
+(2) In section 96A(2), replace If the chief executive considers that the appropriate financial assistance for the person would be an unemployment benefit, the chief executive may (for the purpose stated in section 1A(a)﻿(ii)) require him or her with The chief executive may (for the purpose stated in section 1A(a)﻿(ii)) require a person to whom this section applies.
 (3) Insert after section 96A(2):
   (2A) For the purposes of subsection (2), suitable employment,—
     (a) in relation to a person who has a dependent child aged under 14 years, and to whom this section applies by virtue of section 21A or 27CA, means employment that would be suitable employment within the meaning of section 3(1) if he or she were a part-time work-tested beneficiary:
@@ -708,8 +708,8 @@ Insert before a person in section 122(1) or section 116A.
 ## Part 4 — Consequential provisions taking effect on 15 October 2012
 
 ### 47 Section 171 amended (Obligations of spouses and partners of specified beneficiaries)
-(1) Delete from subsections (1)(b), (2)(b), and (3)(b) of section 171 as inserted by section 24 of this Act) employment plan.
-(2) In section 171(3)(b) replace section 60Q(1) for the purposes of 60U with section 60Q(2) for the purposes of section 116A.
+(1) Delete from subsections (1)﻿(b), (2)﻿(b), and (3)﻿(b) of section 171 as inserted by section 24 of this Act) employment plan.
+(2) In section 171(3)﻿(b) replace section 60Q(1) for the purposes of 60U with section 60Q(2) for the purposes of section 116A.
 
 ### 48 Section 123D amended (Regulations)
 In section 123D(a), after work test obligations, insert , or obligations under section 60Q,.
