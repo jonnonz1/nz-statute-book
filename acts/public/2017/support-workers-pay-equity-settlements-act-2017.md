@@ -1,5 +1,5 @@
 # Care and Support Workers (Pay Equity) Settlement Act 2017
-_Consolidation as at 2017-06-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Care and Support Workers (Pay Equity) Settlement Act 2017.
@@ -31,7 +31,7 @@ In this Act, unless the context otherwise requires,—
         (A) assisting the person to continue to live in the person’s home or in the community (such as personal care and household management services); or
         (B) assisting a person who has a disability to work in the community; or
         (C) supporting the person’s rehabilitation from an injury covered by the Accident Compensation Act 2001 and to achieve and sustain the person’s maximum level of participation in everyday life; and
-      (ii) long-term residential care in a hospital or a rest home that is assessed as required under section 137 of the Social Security Act 1964; but
+      (ii) long-term residential care in a hospital or a rest home that is assessed as required under section 137 of the Social Security Act 1964 or sections 27 to 29 of the Residential Care and Disability Support Services Act 2018; but
     (b) does not include mental health services
   - **care and support worker** —
     (a) means a person—
