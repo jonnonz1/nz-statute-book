@@ -1,5 +1,5 @@
 # Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016
-_Consolidation as at 2016-10-25_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Extension of Young Persons Services and Remedial Matters) Amendment Act 2016.
