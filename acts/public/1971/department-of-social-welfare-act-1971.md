@@ -1,5 +1,5 @@
 # Department of Social Welfare Act 1971
-_Consolidation as at 1999-10-01_
+_Consolidation as at 2018-11-26_
 
 > An Act to establish a Department of Social Welfare to provide for the development and administration of effective social welfare policies and social welfare services for New Zealand and to promote co-operation in and the co-ordination of social welfare activities
 
