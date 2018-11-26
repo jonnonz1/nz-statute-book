@@ -1,5 +1,5 @@
 # Disabled Persons Community Welfare Act 1975
-_Consolidation as at 2010-03-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to make better provision for financial and other assistance in respect of the disabled, and for the support of voluntary organisations and private organisations concerned with providing facilities for the community welfare, sheltered employment, training, and day care of disabled persons
 
@@ -17,7 +17,7 @@ In this Act, unless the context otherwise requires,—
   - **day care** means the care of a disabled person for a period during the day under adequate supervision in an occupational centre
   - **Director-General** ,—
     (a) in, or in relation to, Parts 2 and 2A, means the Director-General of Health:
-    (b) in, or in relation to, Parts 3 and 4, means the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964:
+    (b) in, or in relation to, Parts 3 and 4, means the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018:
     (c) otherwise, as appropriate, means that Director-General, or that chief executive, or both
   - **disability services** has the same meaning as disability support services has in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **disabled person** means any person who suffers from physical or mental disablement to such a degree that he is seriously limited in the extent to which he can engage in the activities, pursuits, and processes of everyday life
@@ -26,23 +26,23 @@ In this Act, unless the context otherwise requires,—
     (a) includes any institution, cottage home, family home, group home or hostel, or other premises which are not administered by the Crown and which are intended to accommodate or provide for 5 or more disabled persons; but
     (b) does not include a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 or a hospital or institution specifically exempted by the Minister from the application of this Act
   - **lease** includes a licence; and has a corresponding meaning
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** , in relation to any provisions of this Act, means, subject to any enactment, the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of those provisions
   - **occupational centre** means a place where a disabled person who has a seriously limited or no capacity for work, can take part in appropriate activities under supervision
-  - **partner** has the same meaning as in the Social Security Act 1964
-  - **residential care services** has the same meaning as in section 3(1) of the Social Security Act 1964
+  - **partner** has the same meaning as in the Social Security Act 2018
+  - **residential care services** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **review officer** means a person appointed under section 25D(1)
   - **service agreement** has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
   - **sheltered employment** means employment for disabled persons in suitable occupations under conditions less stringent than those found in normal work situations
   - **sheltered workshop** means a place where sheltered employment is available, being a place owned or controlled by an organisation approved by the Minister of Labour under section 2 of the Disabled Persons Employment Promotion Act 1960 in which disabled persons are engaged in sheltered employment
-  - **spouse** has the same meaning as in the Social Security Act 1964
+  - **spouse** has the same meaning as in the Social Security Act 2018
   - **training** , in relation to a disabled person, means the training of the person to enable him to undertake suitable work, whether full-time or part-time
   - **work experience** , in relation to a disabled person, means the opportunity for that person to experience and adjust to the ordinary requirements of work situations, including the physical and psychological demands of work of various kinds.
 
 ### 3 Administration
 (1) This Act is administered as follows:
   (a) Parts 2 and 2A are administered in the Ministry of Health:
-  (b) the rest of this Act is administered in the department for the time being responsible for the administration of the Social Security Act 1964.
+  (b) the rest of this Act is administered in the department for the time being responsible for the administration of the Social Security Act 2018.
 (2) The Director-General, under the general direction and control of the Minister—
   (a) carries out the administration of provisions of this Act; and
   (b) exercises all the powers conferred on the Director-General by this Act.
@@ -163,7 +163,7 @@ In the exercise of his or her powers of discretion under this Act, the Director-
 (1) This Part applies to a person who—
   (a) has an intellectual, physical, psychiatric, or sensory disability; and
   (b) because of that disability, enters residential care of a kind that is funded under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000; and
-  (c) is not a resident assessed as requiring care, as that term is defined in section 136 of the Social Security Act 1964.
+  (c) is not a resident assessed as requiring care, as that term is defined in section 5 of the Residential Care and Disability Support Services Act 2018.
 (2) A person to whom this Part applies has a right to a review of—
   (a) the adequacy of any disability services needs assessment provided in respect of that person under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000; or
   (b) whether or not the person's disability services needs, as assessed by a disability services needs assessment provided in respect of that person under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000, are appropriately met by—
@@ -270,7 +270,7 @@ An application for a review may be made by—
     (ii) that employer; and
     (iii) such union registered under the Employment Relations Act 2000 as the Director-General may specify.
   (i)
-(4) In determining the extent of any financial assistance for disabled persons under subsection (3), the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 may have regard to any assistance provided under the Accident Compensation Act 2001 or from any other source.
+(4) In determining the extent of any financial assistance for disabled persons under subsection (3), the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 may have regard to any assistance provided under the Accident Compensation Act 2001 or from any other source.
 
 ### 27 Financial assistance to approved agencies
 (1) Subject to any general or special directions that he may give, the Director-General may from time to time grant financial assistance towards:
@@ -314,7 +314,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (c) prescribing the terms and conditions under which special arrangements may be made under section 26(2):
   (d)
   (e)
-  (f) prescribing the conditions under which the staff of voluntary or charitable organisations may be regarded as authorised for the purposes of section 27(1)(a):
+  (f) prescribing the conditions under which the staff of voluntary or charitable organisations may be regarded as authorised for the purposes of section 27(1)﻿(a):
   (g) providing for the release of medical or other information necessary for the Director-General to carry out his functions under this Act:
   (h) prescribing the maximum rates of rehabilitation allowances:
   (i) prescribing fees for the registration of homes under section 18:
