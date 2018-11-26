@@ -1,12 +1,12 @@
 # Social Security Amendment Act 1991
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Social Security Amendment Act 1991, and shall be read together with and deemed part of the Social Security Act 1964 (hereinafter referred to as the principal Act).
 (2) Sections 2(3), 12 to 17, 25, 29, 32, 34, and 40(2) of this Act shall come into force on the 1st day of March 1991.
-(3) Section 40(1)(a) of this Act shall come into force on the 2nd day of March 1991.
+(3) Section 40(1)﻿(a) of this Act shall come into force on the 2nd day of March 1991.
 (4) Except as provided in subsections (2) and (3) of this section, this Act shall come into force on the 1st day of April 1991.
 
 ### 2 Interpretation
@@ -102,7 +102,7 @@ This section inserted section 63A of the principal Act.
 (2)
 (3) The following enactments are hereby consequentially repealed:
   (a) Section 34 of, and Schedule 7 to, the Finance Act 1989:
-  (b) Section 14(7)(b) and (8) of the Social Welfare (Transitional Provisions) Act 1990:
+  (b) Section 14(7)﻿(b) and (8) of the Social Welfare (Transitional Provisions) Act 1990:
   (c) Section 23(2) of the Social Security Amendment Act (No 2) 1990.
 (4) Notwithstanding the provisions of this section, every person who, on the 31st day of March 1991, was properly in receipt of a telephone-service-rental allowance under section 69A of the principal Act shall be deemed to continue to be entitled to receive that allowance until the close of the first pay day occurring, in relation to that person, on or after the 1st day of April 1991.
 
