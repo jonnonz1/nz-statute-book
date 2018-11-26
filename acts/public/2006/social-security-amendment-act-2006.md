@@ -1,5 +1,5 @@
 # Social Security Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security Amendment Act 2006.
@@ -67,7 +67,7 @@ The following heading and sections are inserted after section 61CA:EpidemicsPaym
 ### 6 Money payable out of Crown Bank Account
 Section 124(2) is repealed and the following subsections are substituted:
   (1C) There must from time to time be paid out of the Crown Bank Account, without further appropriation than this subsection, all money necessary for granting special assistance under section 61CF.
-  (2) This subsection applies to a payment made to a person out of the Crown Bank Account by way of special assistance pursuant to subsection (1)(d) or subsection (1C) if—
+  (2) This subsection applies to a payment made to a person out of the Crown Bank Account by way of special assistance pursuant to subsection (1)﻿(d) or subsection (1C) if—
     (a) either—
       (i) it was obtained by fraud; or
       (ii) the spouse or partner of the person made a false statement to or otherwise misled an officer engaged in the administration of Part 1, in relation to his or her income or other personal circumstances; and
