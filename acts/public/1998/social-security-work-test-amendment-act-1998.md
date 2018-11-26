@@ -1,5 +1,5 @@
 # Social Security (Work Test) Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act—aTo amend the Social Security Act 1964 to provide a new work-test framework, and a sanctions regime, for all work-tested beneficiaries; andbTo provide for related matters
 
@@ -27,7 +27,7 @@ This section inserted s 12J(4) of the principal Act.
 This section substituted s 60HA(2) of the principal Act.
 
 ### 6 Effect of work test on entitlement to supplementary benefits and on spouses
-This section substituted s 80C(1)(c) of the principal Act.
+This section substituted s 80C(1)﻿(c) of the principal Act.
 
 ### 7 New heading and sections inserted
 This section inserted ss 101 to 123D, and the previous heading of the principal Act.
