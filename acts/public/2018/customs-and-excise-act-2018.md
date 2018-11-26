@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -4065,11 +4065,12 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
   (b) the form in which information may be supplied; and
   (c) the method by which information may be supplied.
 (6) In this section,—
-  - **benefit** has the meaning given to that term in section 3(1) of the Social Security Act 1964, and includes—
-    (a) a lump sum payable under section 61DB, 61DC, or 61DD of that Act:
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) of that Act:
-    (c) an allowance established by regulations made under section 303 of the Education Act 1989
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
+  - **benefit** means any of the following:
+    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
+    (b) a funeral grant lump sum payable under section 90 of that Act:
+    (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
+    (d) an allowance established by regulations made under section 303 of the Education Act 1989
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **specified person** —
     (a) means a person—
       (i) who has applied for a benefit:
@@ -4081,19 +4082,19 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
       (ii) complete documentation on departure from New Zealand under section 119(1)﻿(c) of that Act.
 
 ### 309 Information matching for purposes of mutual assistance provision contained in social security agreement
-(1) The purpose of this section is to facilitate the exchange of information between Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision of the kind referred to in section 19A(2)﻿(b) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990, to enable compliance with that agreement.
+(1) The purpose of this section is to facilitate the exchange of information between Customs and the department for the purpose of giving assistance to the Government of a country with which New Zealand has a social security agreement that contains a mutual assistance provision under the Social Security Act 2018 for the Governments of New Zealand and the other country to supply each other with information for social security purposes, to enable compliance with that agreement.
 (2) For the purpose of this section, the chief executive of the department may supply to the chief executive of Customs—
   (a) any identifying information supplied to the department by the Government of that country; and
   (b) any identifying information obtained by the department about a person who has applied for a benefit to which that social security agreement applies.
 (3) If, in relation to any person, identifying information is supplied in accordance with subsection (2), the chief executive of Customs may compare that information with any arrival and departure information held by Customs that relates to that person.
-(4) If Customs has information relating to the person, the chief executive of Customs may, for the purpose of this section, supply to the chief executive of the department any arrival and departure information relating to that person that is held by Customs if that information is of a type specified in an agreement made under section 19C(1)﻿(d) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
+(4) If Customs has information relating to the person, the chief executive of Customs may, for the purpose of this section, supply to the chief executive of the department any arrival and departure information relating to that person that is held by Customs if that information is of a type specified in an agreement made under regulations made under section 450 of the Social Security Act 2018.
 (5) If the chief executive of Customs has supplied information under subsection (4), the department may supply that information to the competent institution of the Government of the other country in accordance with the mutual assistance provision of the social security agreement.
 (6) If information is supplied to the chief executive of Customs under subsection (2), the chief executive—
   (a) may use that information for the purposes set out in subsections (3) and (4):
   (b) may not supply that information to any other country without the prior written consent of the chief executive of the department, and that supply or consent may be subject to any conditions that the chief executive of the department considers appropriate to impose.
 (7) In this section,—
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
-  - **social security agreement** means an agreement or convention, or alteration to an agreement or convention, in respect of which an Order in Council has been made under section 19 of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
+  - **social security agreement** means an agreement (for example, a Convention), or an alteration to an agreement, in respect of which an Order in Council has been made under section 380 (orders adopting reciprocity agreements) of the Social Security Act 2018.
 
 ### 310 Information matching for purpose of fines enforcement
 (1) The purpose of this section is to facilitate the exchange of information between Customs and the department for the purpose of assisting the chief executive of the department to—
@@ -4191,11 +4192,12 @@ Nothing in this subpart limits, or prevents, the disclosure of information that 
     (iii) the identity of each person who accessed the database; and
   (c) every person who accesses a database for the purpose of this section complies with subsection (3).
 (5) In this section,—
-  - **benefit** has the meaning given to that term in section 3(1) of the Social Security Act 1964, and includes—
-    (a) a lump sum payable under section 61DB, 61DC, or 61DD of that Act:
-    (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)﻿(d) of that Act:
-    (c) an allowance established by regulations made under section 303 of the Education Act 1989
-  - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
+  - **benefit** means any of the following:
+    (a) a benefit as defined in Schedule 2 of the Social Security Act 2018:
+    (b) a funeral grant lump sum payable under section 90 of that Act:
+    (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
+    (d) an allowance established by regulations made under section 303 of the Education Act 1989
+  - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **specified person** —
     (a) means a person—
       (i) who has applied for a benefit:
