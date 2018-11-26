@@ -1,5 +1,5 @@
 # Minimum Wage Act 1983
-_Consolidation as at 2016-04-01_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend the law relating to minimum wages
 
@@ -47,8 +47,8 @@ This Act shall bind the Crown.
   (b) then must pay the worker no less than the minimum adult rate prescribed under section 4.
 (4) To avoid doubt, if more than 1 minimum starting-out rate prescribed under subsection (1) applies to a worker, only the higher or the highest rate applies.
 (5) For the purposes of subsection (1)﻿(c)﻿(i), a worker is to be treated as having been continuously paid a specified social security benefit—
-  (a) whether or not the benefit has been reduced due to any sanction imposed under the Social Security Act 1964 or for any other reason:
-  (b) during any period when the benefit was suspended under the Social Security Act 1964 for any reason.
+  (a) whether or not the benefit has been reduced due to any sanction imposed under the Social Security Act 2018 or for any other reason:
+  (b) during any period when the benefit was suspended under the Social Security Act 2018 for any reason.
 (6) In this section,—
   - **continuous employment** , in relation to a worker,—
     (a) means a continuous period of employment starting on the worker's first day of work; and
@@ -56,7 +56,7 @@ This Act shall bind the Crown.
       (i) the worker turns 16:
       (ii) the commencement of the Minimum Wage (Starting-out Wage) Amendment Act 2013
   - **continuously paid 1 or more specified social security benefits** , in relation to a worker to whom an Order in Council made under subsection (1)﻿(c)﻿(i) applies, includes any time spent by the worker on 1 or more specified social security benefits before the worker reached the age defined in the order
-  - **specified social security benefit** means any of the following benefits paid or payable under the Social Security Act 1964:
+  - **specified social security benefit** means any of the following benefits paid or payable under the Social Security Act 1964 or the Social Security Act 2018:
     (a) domestic purposes benefit:
     (b) emergency benefit:
     (c) independent youth benefit:
