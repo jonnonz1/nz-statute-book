@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to the adoption of children
 
@@ -388,6 +388,15 @@ The enactments specified in Schedule 1 are hereby amended in the manner indicate
 (3) All applications, matters, and proceedings commenced under any such enactment and pending or in progress at the commencement of this Act may, at the discretion of the court, be continued and completed,—
   (a) under this Act; or
   (b) under the said enactments in all respects as if the said enactments continued in force and as if this Act had not been passed.
+
+### 31 References to Child Welfare Officer to be read as references to social workers, etc
+(1) Every reference in this Act and its amendments, as in force on or after 1 April 1972, to a Child Welfare Officer must be read as a reference to a social worker.
+(2) Subsection (1) applies—
+  (a) subject to the amendments made by section 23(1) to (3) of the Department of Social Welfare Act 1971; and
+  (b) unless the context otherwise requires.
+(3) This section does not affect the operation of section 23(4)﻿(a) of the Department of Social Welfare Act 1971 (which required references to the Superintendent of Child Welfare to be read as references to the Director-General of Social Welfare under that Act) at any time or times—
+  (a) on or after 1 April 1972; and
+  (b) before its repeal, on 1 April 1990, by section 36(6) of the Social Welfare (Transitional Provisions) Act 1990.
 
 ## Schedule 1 — Consequential amendments
 
