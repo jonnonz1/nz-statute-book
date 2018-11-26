@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -632,13 +632,11 @@ At any time, the total amount payable to the Commissioner by an aided person in 
 
 ### 41A Interpretation
 In this section and in sections 41B to 41J, unless the context otherwise requires,—
-  - **benefit** —
-    (a) means a benefit within the meaning of the Social Security Act 1964; but
-    (b) does not include—
-      (i) an orphan's benefit payable under section 28 of the Social Security Act 1964; or
-      (ii) an unsupported child's benefit payable under section 29 of that Act; or
-      (iii) a child disability allowance payable under section 39A of that Act; or
-      (iv) a disability allowance payable under section 69C of that Act
+  - **benefit** means a benefit as defined in Schedule 2 of the Social Security Act 2018 other than—
+    (a) an orphan’s benefit payable under section 43 of that Act:
+    (b) an unsupported child’s benefit payable under section 46 of that Act:
+    (c) a child disability allowance payable under section 78 of that Act:
+    (d) a disability allowance payable under section 85 of that Act
   - **deduction notice** means a notice issued under section 41B
   - **overdue amount** means an amount that has become due and payable to the Commissioner and that remains unpaid; and includes—
     (a) any part of an amount of that kind; and
@@ -1701,18 +1699,18 @@ In this schedule, unless the context otherwise requires,—
 ### 2 Meaning of income
 (1) In relation to an applicant for legal aid, income—
   (a) means the person's total gross income during the 12 months immediately before the application for legal aid, or during such other period of 12 months as the Commissioner considers appropriate in the circumstances; and
-  (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in section 3(1) of the Social Security Act 1964; and
-  (c) includes a benefit payable under any of Parts 1A to 1P of the Social Security Act 1964; but does not include—
-    (i) an orphan's benefit payable under section 28 of that Act; or
-    (ii) an unsupported child's benefit payable under section 29 of that Act; or
-    (iii) a child disability allowance payable under section 39A of that Act; or
-    (iv) an emergency benefit payable under section 61 of that Act; or
-    (v) an accommodation supplement payable under section 61EA of that Act; or
-    (va) a winter energy payment payable under Part 1KA of that Act; or
-    (vi) temporary additional support payable under section 61G of that Act; or
-    (vii) a disability allowance payable under section 69C of that Act; and
-  (ca) excludes a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004; and
-  (d) excludes any payment payable under a welfare programme approved by the Minister under section 124(1)﻿(d) of the Social Security Act 1964; but
+  (b) has the meaning given to it in clauses 3 to 7 of Schedule 3 of the Social Security Act 2018; and
+  (c) includes a benefit as defined in Schedule 2 of the Social Security Act 2018 other than—
+    (i) an orphan’s benefit payable under section 43 of that Act; or
+    (ii) an unsupported child’s benefit payable under section 46 of that Act:
+    (iii) an emergency benefit under section 63 of that Act; or
+    (iv) an accommodation supplement under section 65 of that Act; or
+    (v) a winter energy payment under section 72 of that Act; or
+    (vi) a child disability allowance payable under section 78 of that Act; or
+    (vii) a disability allowance payable under section 85 of that Act; or
+    (viii) temporary additional support under section 96 of that Act; and
+  (ca) excludes a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004 (as that section is saved by clause 19 of Schedule 1 of the Social Security Act 2018); and
+  (d) excludes any special assistance payable under a programme approved under section 100 or 101 of that Act; but
   (e) includes any tax credit or amount received under subparts MA to MF and MZ of the Income Tax Act 2007 or subpart KD of the Income Tax Act 2004 or subpart KD of the Income Tax Act 1994 or Part 11A of the Income Tax Act 1976.
 (2) Subclause (1) is subject to clauses 4 and 5.
 
