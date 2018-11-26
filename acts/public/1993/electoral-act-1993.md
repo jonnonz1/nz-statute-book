@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2018-10-04_
+_Consolidation as at 2018-11-26_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -4944,12 +4944,12 @@ At the conclusion of the trial of an election petition to which section 258 appl
   (e) the person’s preferred honorific (if known):
   (f) the date at which the information in paragraphs (a) to (e) held by the agency was last provided to the agency.
 (3) For the purposes of this section, a specified agency means—
-  (a) the department for the time being responsible for the administration of the Social Security Act 1964; and
+  (a) the department for the time being responsible for the administration of the Social Security Act 2018; and
   (b) the Registrar of Motor Vehicles; and
   (c) the New Zealand Transport Agency; and
   (d) the Department of Internal Affairs.
 (4) For the purposes of this section, any officer or employee or agent of a specified agency, authorised by the chief executive of that agency, may from time to time, at the request of the Electoral Commission, supply to the Electoral Commission any of the information described in subsection (2) held by that agency,—
-  (a) in the case of the department for the time being responsible for the administration of the Social Security Act 1964, in relation to any—
+  (a) in the case of the department for the time being responsible for the administration of the Social Security Act 2018, in relation to any—
     (i) beneficiary; or
     (ii) student; or
     (iii) borrower (as that term is defined in section 4(1) of the Student Loan Scheme Act 2011):
