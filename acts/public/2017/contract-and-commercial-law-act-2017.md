@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
