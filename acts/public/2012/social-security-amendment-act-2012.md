@@ -1,5 +1,5 @@
 # Social Security Amendment Act 2012
-_Consolidation as at 2012-02-24_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security Amendment Act 2012.
