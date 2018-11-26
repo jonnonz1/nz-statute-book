@@ -1,5 +1,5 @@
 # Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014
-_Consolidation as at 2014-07-07_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014.
@@ -19,7 +19,7 @@ This Act amends the Social Security Act 1964 (the principal Act).
 (2) Replace section 10A(1) with:
   (1) This section applies to a person and a decision both of which are specified in any 1 of the rows of the following table, but only if the decision is made by a decision maker in the exercise of any power, function, or discretion conferred on the decision maker by delegation:RowPersonDecision1An applicant or beneficiary affected by the decision (with beneficiary and affected having, in this row, the same meanings as in section 12J(1) read in the light of section 12J(4) and (5))A decision of the chief executive made under any enactment referred to in any of the paragraphs of section 12J(1) (but not being a decision referred to in section 12J(2) or (3))2An applicant or beneficiary or other personA decision of the chief executive made—3A beneficiary's spouse or partner A decision of the chief executive made—4The personal representative of a deceased beneficiaryA decision of the chief executive made—5The personal representative of a beneficiary's deceased spouse or partnerA decision of the chief executive made—6A beneficiary's spouse or partnerA decision of the chief executive made—
     (a) in relation to the applicant or beneficiary or other person; and
-    (b) using a power under section 19D(1)(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 (referred to in section 12J(7))
+    (b) using a power under section 19D(1)﻿(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990 (referred to in section 12J(7))
     (a) in relation to the beneficiary's spouse or partner; and
     (b) under section 86(3) (referred to in section 12J(8), and including the component decisions specified in section 12J(9))
     (a) in relation to the estate of the deceased beneficiary; and
@@ -36,19 +36,19 @@ This Act amends the Social Security Act 1964 (the principal Act).
 Replace section 12J with:Rights of appealDecisions or determinations under specified social assistance enactmentsDecisions under mutual assistance provisions in reciprocity agreementsDecisions under section 86(3) to recover excess amount from spouse or partnerDecisions under section 86(4) to recover excess amount from deceased beneficiary's estateDecisions under section 86(5) to recover excess amount from deceased spouse's or partner's estateDecisions under section 86AA to recover excess amount from spouse or partnerDebt recovery decisions include related decisions on deferral, rate, and methodsGeneral restriction on appeals under this sectionAuthority is not authorised to hear and determine certain appeals on medical or capacity grounds
   (1) Any applicant or beneficiary affected may appeal to the Appeal Authority against any decision or determination of the chief executive under—
     (a) any of the provisions of Parts 1A to 1P, Part 2, Part 4, or Part 5; or
-    (b) a welfare programme approved by the Minister under section 124(1)(d); or
+    (b) a welfare programme approved by the Minister under section 124(1)﻿(d); or
     (c) Part 6 of the War Pensions Act 1954; or
     (d) Part 1 of the New Zealand Superannuation and Retirement Income Act 2001; or
     (e) the Family Benefits (Home Ownership) Act 1964; or
     (f) any regulations in force under section 132A or 155 of this Act.
-  (2) No appeal lies under subsection (1)(a) against a decision under section 88I(2) or (7) against which an appeal lies under section 10B(1)(h) or (i) to the medical board.
-  (3) No appeal lies under subsection (1)(a) against a decision under section 116C(2)(a) against which an appeal lies under section 10B(1)(k) to the medical board.
+  (2) No appeal lies under subsection (1)﻿(a) against a decision under section 88I(2) or (7) against which an appeal lies under section 10B(1)﻿(h) or (i) to the medical board.
+  (3) No appeal lies under subsection (1)﻿(a) against a decision under section 116C(2)﻿(a) against which an appeal lies under section 10B(1)﻿(k) to the medical board.
   (4) Subsection (1) applies to a person in respect of whom a decision or determination is made under Part 4 or under regulations made under section 155 as if the person were a beneficiary.
   (5) For the purposes of subsection (1), an applicant or beneficiary is not affected by a decision or determination that relates only to all or any of the temporary deferral, rate, or method or methods, of debt recovery from another person.
   (6) A decision referred to in subsection (1), and that is a decision by the chief executive that section 83AA applies to a beneficiary in respect of a benefit apportioned under section 83(1) or (2), includes, without limitation, any component decisions that 1 or both of the following apply to some or all of the proportion of the benefit paid to the beneficiary's spouse or partner:
     (a) it is an amount in excess of the amount to which the spouse or partner is by law entitled or to which the spouse or partner has no entitlement; and
     (b) it is an amount obtained by fraud by the spouse or partner.
-  (7) An applicant or beneficiary or other person may appeal to the Appeal Authority against a decision that was made in relation to that person by the chief executive under the power conferred by section 19D(1)(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
+  (7) An applicant or beneficiary or other person may appeal to the Appeal Authority against a decision that was made in relation to that person by the chief executive under the power conferred by section 19D(1)﻿(a) of the Social Welfare (Reciprocity Agreements, and New Zealand Artificial Limb Service) Act 1990.
   (8) A beneficiary's spouse or partner may appeal to the Appeal Authority against a decision that was made by the chief executive under section 86(3) to recover from that spouse or partner (under sections 85A and 86(1)) an amount in excess of the amount to which the beneficiary was by law entitled.
   (9) A decision referred to in subsection (8), and made by the chief executive under section 86(3), includes, without limitation, the following component decisions:
     (a) the decision that, in the chief executive's opinion, the beneficiary's spouse or partner has made a false statement to or otherwise misled any officer engaged in the administration of this Act, in relation to any matter:
@@ -91,10 +91,10 @@ After section 83, insert:Apportionment of benefit between spouses or partners: o
       (ii) an amount obtained by fraud by B; and
       (iii) a debt referred to in section 85A due to the Crown, and subject to recovery under section 86(1), from B; and
     (d) B either knew, or ought to have known (even if B did not know), of the fraud by A.
-  (2) In the situation to which this section applies, B is jointly and severally liable for A's debt referred to in subsection (1)(b), and that amount is a debt referred to in section 85A due to the Crown, and subject to recovery under section 86(1), from B.
+  (2) In the situation to which this section applies, B is jointly and severally liable for A's debt referred to in subsection (1)﻿(b), and that amount is a debt referred to in section 85A due to the Crown, and subject to recovery under section 86(1), from B.
   (3) This section does not limit or affect any civil or criminal liability under any other law—
-    (a) of A for, or in respect of, the debt referred to in subsection (1)(b); or
-    (b) of B for, or in respect of, the debt referred to in subsection (1)(c).
+    (a) of A for, or in respect of, the debt referred to in subsection (1)﻿(b); or
+    (b) of B for, or in respect of, the debt referred to in subsection (1)﻿(c).
   (4) An amount is obtained by fraud by a person (whether A or B) for the purposes of this section if the person—
     (a) obtained that amount by fraud (and, for the purposes of this paragraph, fraud means that the person—
       (i) made any statement knowing it to be false in any material particular; or
@@ -111,14 +111,14 @@ In the heading to section 85A, after Crown, insert : general.
 After section 85A, insert:Payments that are debts due to the Crown: examples
   (1) Debts referred to in section 85A(a) (penalty) and (e) (debt due to the Crown) include a penalty under section 86(2) (recovery of penalty from beneficiary who obtains by fraud amount in excess of entitlement).
   (2) Debts referred to in section 85A(b) (conditional or provisional benefit that person is liable to repay) include the following:
-    (a) an amount directed to be repayable under section 60H(6)(b) (voluntary unemployment or loss of employment through misconduct, etc):
-    (b) an amount the person granted a benefit is liable to repay under section 61CC(2)(a) (granting of emergency benefits during epidemic in New Zealand), and to which section 85A(b) applies in accordance with section 61CC(2)(b):
+    (a) an amount directed to be repayable under section 60H(6)﻿(b) (voluntary unemployment or loss of employment through misconduct, etc):
+    (b) an amount the person granted a benefit is liable to repay under section 61CC(2)﻿(a) (granting of emergency benefits during epidemic in New Zealand), and to which section 85A(b) applies in accordance with section 61CC(2)﻿(b):
     (c) an amount recoverable under section 80BB(5) (delayed redundancy and retirement payments):
     (d) an amount recoverable under section 80BC(3) (seasonal workers made redundant after benefit commences):
     (e) an amount the person participating in approved activities is liable to repay under section 123B (effect of participation in certain activities on non-entitlement period).
   (3) Debts referred to in section 85A(b) (conditional or provisional benefit that person is liable to repay) and (e) (debt due to the Crown) include the following:
     (a) an amount recoverable under section 68A(5) (special provisions applying to insurance payments):
-    (b) an amount recoverable under section 71(1)(b) (special provisions where compensation or damages recoverable by applicant).
+    (b) an amount recoverable under section 71(1)﻿(b) (special provisions where compensation or damages recoverable by applicant).
   (4) Debts referred to in section 85A(e) (debt due to the Crown) include the following:
     (a) an excess amount recoverable under section 86(3) (recovery from spouse or partner who makes false statement to or otherwise misleads department of excess amount beneficiary obtained):
     (b) an excess amount recoverable under section 86(4) (recovery from estate of deceased beneficiary of excess amount beneficiary obtained):
@@ -128,7 +128,7 @@ After section 85A, insert:Payments that are debts due to the Crown: examples
     (a) an amount recoverable under section 86 or 86AA read (in the case of either section) together with section 124(2) and (2A):
     (b) amounts recoverable under section 86E(2) (deductions held in trust):
     (c) an amount recoverable under section 86I(3) (penalty for late deductions):
-    (d) an amount that regulations made under section 132AC(1)(i) provide is a debt due to the Crown under section 85A(f).
+    (d) an amount that regulations made under section 132AC(1)﻿(i) provide is a debt due to the Crown under section 85A(f).
   (6) This section does not limit the generality of section 85A.
 
 **Recovery of amounts in excess of entitlements and related penalties**
@@ -148,10 +148,10 @@ After section 85A, insert:Payments that are debts due to the Crown: examples
   (1BB) The method or methods of recovery that the chief executive may determine is or are to be used are as follows:
     (a) bring proceedings in the name of the chief executive:
     (b) deduct all or part of that debt from any amount payable to that person by the department as a benefit or a student allowance:
-    (c) for a debt referred to in section 85A(d) (recoverable special assistance money under an approved welfare programme), deduct all or part of that debt from any payment of a grant of special assistance under a welfare programme approved under section 124(1)(d).
-  (1BC) The Minister must give to the chief executive, and ensure that there are in force (as from time to time amended or replaced) at all times on and after the commencement of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014, directions for the purposes of subsection (1BA)(a) and (b), which, without limitation, may—
-    (a) identify for subsection (1BA)(a) considerations that differ, or that contemplate different rates of recovery, or methods of recovery, or both, for determinations in respect of different kinds of debts referred to in section 85A:
-    (b) identify for subsection (1BA)(b) different kinds of circumstances for different kinds of debts referred to in section 85A.
+    (c) for a debt referred to in section 85A(d) (recoverable special assistance money under an approved welfare programme), deduct all or part of that debt from any payment of a grant of special assistance under a welfare programme approved under section 124(1)﻿(d).
+  (1BC) The Minister must give to the chief executive, and ensure that there are in force (as from time to time amended or replaced) at all times on and after the commencement of the Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014, directions for the purposes of subsection (1BA)﻿(a) and (b), which, without limitation, may—
+    (a) identify for subsection (1BA)﻿(a) considerations that differ, or that contemplate different rates of recovery, or methods of recovery, or both, for determinations in respect of different kinds of debts referred to in section 85A:
+    (b) identify for subsection (1BA)﻿(b) different kinds of circumstances for different kinds of debts referred to in section 85A.
   (1BD) Directions under subsection (1BC)—
     (a) must as soon as practicable after they are given be published by the Minister in the Gazette, and are not legislative instruments for the purposes of the Legislation Act 2012; but
     (b) are disallowable instruments for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
@@ -171,7 +171,7 @@ After section 85A, insert:Payments that are debts due to the Crown: examples
 (13) After section 86(9B), insert:Approved welfare programmes: special assistance payments
   (9C) This section and section 86AA apply, in accordance with section 124(2A), to a payment to which section 124(2) applies—
     (a) as if it were made by way of benefit under Parts 1A to 1P; and
-    (b) as if the person to whom the payment was made were a beneficiary entitled to a benefit of the amount determined under section 124(2A)(b).
+    (b) as if the person to whom the payment was made were a beneficiary entitled to a benefit of the amount determined under section 124(2A)﻿(b).
 
 **Fraud measures: recovery of unapportioned excess amount obtained by fraud**
 
@@ -197,7 +197,7 @@ After section 86, insert:Recovery from spouse or partner of unapportioned excess
     (b) any other civil or criminal liability of the beneficiary, under any other laws, in respect of that excess amount.
   (7) Section 86(2) and this section apply, in accordance with section 124(2A), to a payment to which section 124(2) applies—
     (a) as if it were made by way of benefit under Parts 1A to 1P; and
-    (b) as if the person to whom the payment was made were a beneficiary entitled to a benefit of the amount determined under section 124(2A)(b).
+    (b) as if the person to whom the payment was made were a beneficiary entitled to a benefit of the amount determined under section 124(2A)﻿(b).
 
 **Recovery of amounts in excess of entitlements and related penalties**
 
@@ -213,15 +213,15 @@ After section 127, insert:Offences: spouse or partner benefiting from excess amo
     (b) benefits directly or indirectly from the amount or a part of it knowing that, or being reckless about whether, the amount or part is an amount or part—
       (i) in excess of the amount to which the beneficiary is by law entitled or to which the beneficiary has no entitlement; and
       (ii) obtained by the beneficiary by fraud.
-  (2) Subsection (1)(b) applies to the amount or part even if the spouse or partner—
+  (2) Subsection (1)﻿(b) applies to the amount or part even if the spouse or partner—
     (a) does not benefit from it knowingly; and
     (b) does not know at all or exactly its value; and
     (c) does not know, or (as the case requires) is not reckless about, the precise way in which it was obtained by the beneficiary by fraud.
   (3) The beneficiary obtains an excess amount for the purposes of subsection (1) if the beneficiary obtains any payment, or receives any credit or advance, referred to in section 85A in excess of the amount to which the beneficiary is by law entitled or to which the beneficiary has no entitlement.
   (4) The excess amount is obtained by the beneficiary by fraud for the purposes of subsection (1) if—
-    (a) the beneficiary obtained that amount by fraud (as defined in sections 83AA(4)(a) and 86AA(2)(a)); or
+    (a) the beneficiary obtained that amount by fraud (as defined in sections 83AA(4)﻿(a) and 86AA(2)﻿(a)); or
     (b) the beneficiary is convicted of a specified offence in respect of obtaining that amount.
-  (5) Specified offence, in subsection (4)(b), means an offence against section 127 (offences: false statements, misleading, or attempting to mislead, to receive or continue to receive benefits) of this Act, or an offence against all or any of the following provisions of the Crimes Act 1961:
+  (5) Specified offence, in subsection (4)﻿(b), means an offence against section 127 (offences: false statements, misleading, or attempting to mislead, to receive or continue to receive benefits) of this Act, or an offence against all or any of the following provisions of the Crimes Act 1961:
     (a) section 228 (dishonestly taking or using document):
     (b) sections 240 and 241 (obtaining by deception or causing loss by deception):
     (c) section 256(1) and (2) (forgery):
@@ -245,7 +245,7 @@ Replace section 3C with:Transitional and savings provisions relating to amendmen
   (2) The transitional and savings provisions relating to, or to the provisions of, the amendment Acts specified in the first column of the following table are set out in the Parts of Schedule 32 specified in the second column of that table:Amendment Act or provisions of itSchedule 32 PartSocial Security Amendment Act 2001Part 1Social Security (Benefit Categories and Work Focus) Amendment Act 2013Part 2Social Security (Fraud Measures and Debt Recovery) Amendment Act 2014Part 3
 
 ### 15 Section 12K amended (Procedure on appeal)
-Replace section 12K(1C)(a) with:.
+Replace section 12K(1C)﻿(a) with:.
   (a) the person to whom section 12J gives the right to appeal against the decision or determination; and
 
 ### 16 Section 60H amended (Voluntary unemployment or loss of employment through misconduct, etc)
@@ -255,7 +255,7 @@ In section 60H(7), replace may be recovered from the person under section 86(1) 
 In section 68A(5), replace may be recovered as a debt due to the Crown from the applicant or person or the person liable to make the payment with is a debt due to the Crown under section 85A(b) and (e), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A), from the applicant or person or the person liable to make the payment.
 
 ### 18 Section 71 amended (Special provisions where compensation or damages recoverable by applicant)
-In section 71(1)(b), replace may be recovered as a debt due to the Crown with is a debt due to the Crown under section 85A(b) and (e), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A),.
+In section 71(1)﻿(b), replace may be recovered as a debt due to the Crown with is a debt due to the Crown under section 85A(b) and (e), and subject to recovery under section 86(1) (chief executive's duty to recover debt referred to in section 85A),.
 
 ### 19 Section 80BB amended (Delayed redundancy and retirement payments)
 (1) In section 80BB(4), replace The chief executive may recover from the person, under section 86(1), with This subsection applies to.
@@ -299,7 +299,7 @@ In section 124(2A), replace and 86 with , 86, and 86AA.
 In the heading to section 127, after Offences, insert : false statements, misleading, or attempting to mislead, to receive or continue to receive benefits.
 
 ### 30 Section 132G amended (Regulations providing for remittance or suspension of debt)
-In section 132G(1)(a), replace section 86(1) to (1B) and (3) to (5) with sections 86(1) to (1B) and (3) to (5) and 86AA.
+In section 132G(1)﻿(a), replace section 86(1) to (1B) and (3) to (5) with sections 86(1) to (1B) and (3) to (5) and 86AA.
 
 ### 31 Section 151 amended (Conjugal status for purpose of means assessment)
 Replace section 151(1) and (2) with:
