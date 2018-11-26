@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2018-11-26_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -242,7 +242,7 @@ In this section and sections 22C to 22H, unless the context otherwise requires,â
   (a) any medical officer of a prison within the meaning of the Corrections Act 2004, for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
   (b) any probation officer within the meaning of the Corrections Act 2004, for the purposes of exercising or performing any of that person's powers, duties, or functions under any enactment:
   (c) a Social Worker or a Care and Protection Co-ordinator within the meaning of the Oranga Tamariki Act 1989, for the purposes of exercising or performing any of that person's powers, duties, or functions under that Act:
-  (d) any employee of the department for the time being responsible for the administration of the Social Security Act 1964, for the purposes of administering section 75 of the Social Security Act 1964:
+  (d) any employee of the department for the time being responsible for the administration of the Social Security Act 2018, for the purposes of administering sections 206 and 207 (factors affecting benefit: hospitalisation) of that Act:
   (e) any member of the New Zealand Defence Force, for the purposes of administering the Armed Forces Discipline Act 1971 or the Defence Act 1990:
   (f) any constable, for the purposes of exercising or performing any of that person's powers, duties, or functions:
   (g) any employee of the Ministry of Health, for the purposes ofâ€”
