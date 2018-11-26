@@ -1,5 +1,5 @@
 # Social Security Amendment Act 1983
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 > An Act to amend the Social Security Act 1964
 
