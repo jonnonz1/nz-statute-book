@@ -1,5 +1,5 @@
 # Social Security (Clothing Allowances for Orphans and Unsupported Children) Amendment Act 2015
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 This Act is the Social Security (Clothing Allowances for Orphans and Unsupported Children) Amendment Act 2015.
