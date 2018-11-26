@@ -1,5 +1,5 @@
 # Social Security (Long-term Residential Care) Amendment Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2018-11-26_
 
 ### 1 Title
 (1) This Act is the Social Security (Long-term Residential Care) Amendment Act 2004.
@@ -23,9 +23,9 @@ The purpose of this Act is to amend, consolidate, and clarify provisions relatin
 ## Part 2 — Amendments to principal Act
 
 ### 4 Minor amendments to principal Act relating to new Part 4
-(1) Section 61EA(4) is amended by repealing paragraph (c), and substituting the following paragraph:.
+(1) Section 61EA(4) is amended by repealing paragraph (c), and substituting the following paragraph:
   (c) is a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142; or.
-(2) Section 69C(5)(b) of the principal Act is amended by repealing subparagraph (ii), and substituting the following subparagraph:.
+(2) Section 69C(5)﻿(b) of the principal Act is amended by repealing subparagraph (ii), and substituting the following subparagraph:
   (ii) a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142; and
 (3) Section 75(3) of the principal Act is amended by omitting the words a person who is a patient in a hospital receiving residential care disability services that are wholly or partly funded under the New Zealand Public Health and Disability Act 2000, and whose financial means to pay for those services have been assessed under section 69F of this Act, and substituting the words a person who is a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142.
 
@@ -109,9 +109,9 @@ The principal Act is amended by inserting, after section 135, the following head
   (3) The chief executive must arrange for a means assessment to be conducted as soon as practicable after receiving an application.
   In this Part, date of means assessment means,—
     (a) in the case of a first means assessment conducted under this Part, the date on which the application for the means assessment is received:
-    (b) in the case of a review of a means assessment for which the person has applied under section 150(1)(a), the date on which the application for the review is received:
-    (c) in the case of a review under section 150(1)(b), the date of means assessment that applied to the earlier, apparently mistaken, means assessment:
-    (d) in the case of a review under section 150(1)(c), the date, determined by the chief executive, on which the person's circumstances changed:
+    (b) in the case of a review of a means assessment for which the person has applied under section 150(1)﻿(a), the date on which the application for the review is received:
+    (c) in the case of a review under section 150(1)﻿(b), the date of means assessment that applied to the earlier, apparently mistaken, means assessment:
+    (d) in the case of a review under section 150(1)﻿(c), the date, determined by the chief executive, on which the person's circumstances changed:
     (e) in the case of a review under section 150(2), the date on which the chief executive initiated the review.
   (1) The first stage of a means assessment is a means assessment as to assets, conducted under Part 2 of Schedule 27.
   (2) The means assessment as to assets must assess the value of the non-exempt assets of the person as at the date of means assessment and must determine whether those assets are above, equal to, or less than the applicable asset threshold.
@@ -134,7 +134,7 @@ The principal Act is amended by inserting, after section 135, the following head
     (c) the holder of an enduring power of attorney (given in accordance with Part 9 of the Protection of Personal and Property Rights Act 1988) who acts under the enduring power of attorney in relation to the property of the means tested person or the spouse or partner:
     (d) the provider who provides services to the person who has been means assessed.
   (3) Every funder is obliged to take all practicable steps to ensure that every resident assessed as requiring care—
-    (a) is advised of the right, under section 150(1)(a), to apply for a review of the person's means assessment; and
+    (a) is advised of the right, under section 150(1)﻿(a), to apply for a review of the person's means assessment; and
     (b) is notified whenever a change is made to the tests used in means assessments (such as an increase to applicable asset thresholds, or a change to the personal allowance) that might mean that, if the person's means assessment were reviewed, the result would be different from the result of the person's latest means assessment.
   (1) The chief executive must review a person's means assessment in each of the following circumstances:
     (a) the person applies for a review on a form provided for the purpose by the chief executive:
@@ -144,7 +144,7 @@ The principal Act is amended by inserting, after section 135, the following head
       (ii) the death of the spouse or partner; or
       (iii) the chief executive determining under section 63 that the conjugal status of the person's spouse or partner has changed for the purpose of this Part.
   (2) In the case only of a person who has been means assessed and been found to have assets above the applicable threshold, the chief executive may review the person's means assessment at any time if the chief executive considers that the person's assets have fallen, or are about to fall, to a level where they are equal to or less than the applicable asset threshold.
-  (3) Nothing in subsection (2) obliges the chief executive to conduct a review of a means assessment following a change in the tests used in means assessments (such as an increase to applicable asset thresholds or a change to the personal allowance) unless the person to whom the means assessment relates applies for a review under subsection (1)(a).
+  (3) Nothing in subsection (2) obliges the chief executive to conduct a review of a means assessment following a change in the tests used in means assessments (such as an increase to applicable asset thresholds or a change to the personal allowance) unless the person to whom the means assessment relates applies for a review under subsection (1)﻿(a).
   (4) A review must assess the assets and, if necessary, the income of the person as at the date of means assessment.
   (5) Section 147(4) applies if a review under this section determines that, as at the date of means assessment, the assets of the person were equal to or less than the applicable asset threshold.
   (1) The chief executive's discretion under section 63 to regard certain people as husband and wife, or as single, and to determine the date on which they may be so regarded, applies for the purposes of this Part to a resident assessed as requiring care as if the resident were an applicant for a benefit.
@@ -220,7 +220,7 @@ In this section and sections 8 to 11,—
   (3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person's spouse or partner under Part 4 of that Act.
 (3) Section 19 of the New Zealand Superannuation and Retirement Income Act 2001 is amended by repealing subsection (5), and substituting the following subsection:
   (5) Subsection (3) does not apply to a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964) who is a patient in a hospital and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142 of that Act.
-(4) Section 20(1)(b) of the New Zealand Superannuation and Retirement Income Act 2001 is amended by repealing subparagraph (ii), and substituting the following subparagraph:.
+(4) Section 20(1)﻿(b) of the New Zealand Superannuation and Retirement Income Act 2001 is amended by repealing subparagraph (ii), and substituting the following subparagraph:
   (ii) a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142 of that Act; and
 
 **Consequential amendments**
@@ -240,7 +240,7 @@ The following regulations are revoked:
 
 ### 1 Applicable asset thresholds
 (1) The table set out in subclause (2) lists the applicable asset thresholds that apply annually from 1 July 2005.
-(2) In the table—YearColumn AColumn B$$1 July 2005 to 30 June 2006150,00055,0001 July 2006 to 30 June 2007160,00065,0001 July 2007 to 30 June 2008170,00075,0001 July 2008 to 30 June 2009180,00085,0001 July 2009 to 30 June 2010190,00095,0001 July 2010 to 30 June 2011200,000105,0001 July 2011 to 30 June 2012210,000115,0001 July 2012 to 30 June 2013220,000125,0001 July 2013 to 30 June 2014230,000135,0001 July 2014 to 30 June 2015240,000145,0001 July 2015 to 30 June 2016250,000155,0001 July 2016 to 30 June 2017260,000165,0001 July 2017 to 30 June 2018270,000175,0001 July 2018 to 30 June 2019280,000185,0001 July 2019 to 30 June 2020290,000195,0001 July 2020 to 30 June 2021300,000205,0001 July 2021 to 30 June 2022310,000215,0001 July 2022 to 30 June 2023320,000225,0001 July 2023 to 30 June 2024330,000235,0001 July 2024 to 30 June 2025340,000245,0001 July 2025 to 30 June 2026350,000255,000
+(2) In the table—The following table is small in size and has 3 columns. Column 1 is headed Year. Column 2 is headed Column A. Column 3 is headed Column B.YearColumn AColumn B$$1 July 2005 to 30 June 2006150,00055,0001 July 2006 to 30 June 2007160,00065,0001 July 2007 to 30 June 2008170,00075,0001 July 2008 to 30 June 2009180,00085,0001 July 2009 to 30 June 2010190,00095,0001 July 2010 to 30 June 2011200,000105,0001 July 2011 to 30 June 2012210,000115,0001 July 2012 to 30 June 2013220,000125,0001 July 2013 to 30 June 2014230,000135,0001 July 2014 to 30 June 2015240,000145,0001 July 2015 to 30 June 2016250,000155,0001 July 2016 to 30 June 2017260,000165,0001 July 2017 to 30 June 2018270,000175,0001 July 2018 to 30 June 2019280,000185,0001 July 2019 to 30 June 2020290,000195,0001 July 2020 to 30 June 2021300,000205,0001 July 2021 to 30 June 2022310,000215,0001 July 2022 to 30 June 2023320,000225,0001 July 2023 to 30 June 2024330,000235,0001 July 2024 to 30 June 2025340,000245,0001 July 2025 to 30 June 2026350,000255,000
   (a) Column A applies to every resident assessed as requiring care—
     (i) who has no spouse or partner; or
     (ii) whose spouse or partner is also a resident assessed as requiring care; or
