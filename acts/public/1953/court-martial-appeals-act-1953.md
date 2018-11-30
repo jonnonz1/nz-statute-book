@@ -1,5 +1,5 @@
 # Court Martial Appeals Act 1953
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-30_
 
 > An Act to establish a Court Martial Appeal Court and to provide for appeals thereto from the Court Martial
 
@@ -25,6 +25,12 @@ _Consolidation as at 2017-03-01_
   - **rules of court** means rules of court made under section 26.
 (2) In this Act, the expression on active service, in relation to a person subject to service law, has the meaning assigned to it by section 5 of the Armed Forces Discipline Act 1971.
 (3)
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
+### 2B Act binds the Crown
+This Act binds the Crown.
 
 **The Court Martial Appeal Court**
 
@@ -190,19 +196,31 @@ On an appeal to the court against sentence, the court must—
 (5) Unless the court otherwise directs, the term of any sentence passed by it pursuant to subsection (2) shall begin to run from the time when it would have begun to run if passed on the date on which the finding appealed against was made.
 
 ### 9EA Appeal by accused against finding relating to fitness to stand trial
-(1) A person who has been found unfit to stand trial by the Court Martial may appeal against one or both of the following findings:
-  (a) that the evidence against the appellant is sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged:
-  (b) that the appellant is unfit to stand trial.
+(1) A person in relation to whom the Court Martial has made a finding as to fitness to stand trial may appeal against 1 or both of the following findings:
+  (a) that the evidence against the person is sufficient to establish that the person caused the act or omission that forms the basis of the offence with which the person is charged:
+  (b) that the person is, according to the finding, fit or unfit to stand trial.
 (2) For the purposes of an appeal under this section,—
   (a) the finding appealed against is to be regarded as a conviction; and
   (b) the provisions of this Act relating to appeals, so far as they are applicable and with any necessary modifications, apply to the appeal.
 (3) If the court is satisfied that the evidence presented against the appellant is not sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged, the court must quash the finding appealed against and direct that the appellant be discharged.
 (4) A discharge under subsection (3) does not amount to an acquittal.
-(5) In the case of an appeal against a finding relating to the appellant’s fitness to stand trial, the court must (except where the appellant has been discharged under subsection (3)) consider the evidence of 2 qualified medical practitioners (within the meaning of section 187(1) of the Armed Forces Discipline Act 1971), and confirm or quash the finding relating to the appellant’s mental impairment.
+(5) In the case of an appeal against a finding relating to the appellant’s fitness to stand trial, the court must (except where the appellant has been discharged under subsection (3)) consider the evidence of 2 health assessors (within the meaning of section 187(1) of the Armed Forces Discipline Act 1971), and confirm or quash the finding relating to the appellant’s mental impairment.
 (6) If the court is satisfied that the appellant is mentally impaired, the court must—
   (a) give the appellant and the respondent an opportunity to be heard and to present evidence as to whether the appellant is unfit to stand trial; and
   (b) confirm or quash the finding relating to the appellant’s fitness to stand trial.
 (7) If the result of the appeal is that the appellant is fit to stand trial, the court must give written notice of that fact to the Director of Military Prosecutions, who may then lay before the Registrar the charge sheet that, in accordance with section 101F(c) of the Armed Forces Discipline Act 1971, he or she has previously certified in respect of the appellant.
+
+### 9EB Appeal against order for detention, release, etc
+(1) This section applies to the following orders and decisions made under section 191 of the Armed Forces Discipline Act 1971 in respect of a person tried by the Court Martial:
+  (a) an order for the person’s detention under section 191(1) or (2)﻿(a) of that Act:
+  (b) an order for the person’s release under section 191(2)﻿(b) of that Act:
+  (c) a decision, made under section 191(2)﻿(c) of that Act, not to make an order.
+(2) The person and the Director of Military Prosecutions have the same right of appeal against the order or decision as they would have if the order or decision were a sentence.
+(3) The provisions of this Act, to the extent that they are applicable and with any necessary modifications, apply to the appeal.
+(4) The court may—
+  (a) dismiss the appeal:
+  (b) if the appeal is against an order, vary the order:
+  (c) cancel the order or decision and substitute another order or decision under section 191(1) or (2) of the Armed Forces Discipline Act 1971.
 
 ### 9F Powers of court to acquit on account of insanity on appeal against conviction
 (1) If in the case of an appeal against conviction it appears to the court that the appellant did or omitted the act constituting the offence for which he was convicted, but was at the time at which he did or omitted the act insane, the court shall—
@@ -393,3 +411,15 @@ The Governor-General may from time to time, by Order in Council, make regulation
 
 ### 27 Saving for prerogative of mercy
 Nothing in this Act shall affect Her Majesty’s Royal prerogative of mercy.
+
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Part 3 of Military Justice Legislation Amendment Act 2018
+
+### 1 Interpretation in this Part
+In this Part,—
+  - **amendment Act** means Part 3 of the Military Justice Legislation Amendment Act 2018
+  - **proceeding** has the meaning given in clause 1 of Schedule 1AA of the Armed Forces Discipline Act 1971.
+
+### 2 Application of amendments to proceedings
+The amendments made by sections 34 and 35 of the amendment Act do not apply in relation to a proceeding described in clause 4 of Schedule 1AA of the Armed Forces Discipline Act 1971.
