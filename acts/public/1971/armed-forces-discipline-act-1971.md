@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2018-11-30_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -173,7 +173,7 @@ _Consolidation as at 2017-09-01_
 (1A) The following provisions of the Sentencing Act 2002 apply to proceedings under this Act and to proceedings on appeal from any decision under this Act:
   (a) section 6 (which provides that penal enactments are not to have retrospective effect to the disadvantage of an offender):
   (b) sections 102 to 104 (which relate to the sentencing of offenders convicted of murder).
-(2) Where an accused charged with an offence against this Act relies for his defence on any excuse, exception, exemption, or qualification contained in the provision creating the offence, whether or not the excuse, exception, exemption, or qualification accompanies the description of the offence charged, the accused shall, in order to establish the defence, prove the excuse, exception, exemption, or qualification on a balance of probabilities; and this subsection shall apply notwithstanding that the charge contains an allegation negativing the excuse, exception, exemption, or qualification.
+(2)
 
 ### 4 Extraterritorial operation of this Act
 (1) This Act applies to all acts done or omitted whether in New Zealand or elsewhere.
@@ -191,6 +191,12 @@ _Consolidation as at 2017-09-01_
 (4) For the purposes of this section, the term active service order means an order of the Chief of Defence Force, or of an officer authorised by the Chief of Defence Force, for the purpose of—
   (a) posting a part of the Armed Forces or any member of the Armed Forces on active service; or
   (b) declaring that a part of the Armed Forces or any member of the Armed Forces has ceased to be on active service.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
+### 5B Act binds the Crown
+This Act binds the Crown.
 
 ## Part 1 — Jurisdiction
 
@@ -1088,10 +1094,11 @@ Where a person subject to this Act has been placed under arrest pursuant to this
   (a) grant bail to the person in service custody:
   (b) impose any conditions of bail that the Judge Advocate General thinks fit.
 (4) In determining whether to grant bail under this section, the Judge Advocate General—
-  (a) must take into account the considerations set out in section 8(1) and (4) of the Bail Act 2000 and all of the following considerations:
+  (a) must take into account the considerations set out in section 8(1) of the Bail Act 2000 and all of the following considerations:
     (i) the seriousness of the alleged offence:
     (ii) whether there are urgent and exceptional circumstances that favour the grant of bail:
     (iii) the effect on service discipline of remanding the person on bail; and
+  (aa) must take into account any views of a victim to which Part 10A applies that are conveyed in accordance with section 198D; and
   (b) may take into account the considerations set out in section 8(2) of the Bail Act 2000; and
   (c) must not grant bail unless satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
 
@@ -1198,6 +1205,17 @@ The Director of Military Prosecutions must, not later than 30 June in each year,
   (a) cause the allegation to be recorded in the form of a charge and to be investigated in the prescribed manner; or
   (b) cause the allegation to be referred to the appropriate civil authority for investigation.
 (2) In this Part, a matter or thing is done in the prescribed manner if it is done in accordance with, and in the manner prescribed by, this Part and the rules of procedure.
+
+### 102A Commanding officer must determine whether offence is specified offence
+(1) If the commanding officer of an accused causes an allegation to be recorded in the form of a charge, the commanding officer must determine whether the alleged offence has 1 or more victims.
+(2) If the commanding officer of the accused determines that the alleged offence has 1 or more victims, the commanding officer must determine whether the alleged offence is a specified offence.
+(3) If the commanding officer of the accused determines that the alleged offence is a specified offence,—
+  (a) the commanding officer of the accused must, for each victim,—
+    (i) advise the commanding officer of the victim and the Director of Military Prosecutions of that determination; and
+    (ii) if the victim does not have a commanding officer, appoint a member of the Defence Force to assist the victim; and
+  (b) Part 10A applies to the victim.
+(4) Part 10A and subsection (3)﻿(b) cease to apply if, and to the extent that, the Director of Military Prosecutions determines, under section 117ZIA, that a victim identified by the commanding officer of the accused is not a victim or that the alleged offence is not a specified offence.
+(5) In this section, specified offence and victim have the meanings given in section 198B.
 
 ### 103 Disposal of charges by commanding officers
 (1) Every commanding officer must investigate and dispose of a charge before him or her in the prescribed manner.
@@ -1717,6 +1735,14 @@ If a disciplinary officer is required to refer a charge against an accused to an
 ### 117ZI Director of Military Prosecutions may lay charge before Court Martial
 (1) If a charge is referred to the Director of Military Prosecutions under this Part, he or she may lay the charge before the Registrar of the Court Martial.
 (2) If the accused pleaded guilty under section 116 in relation to a charge referred to the Director of Military Prosecutions under this Part, that plea must not be taken into account by the Court Martial when making a finding on the charge.
+
+### 117ZIA Director to determine whether offence is specified offence
+(1) This section applies to a charge that is referred to the Director of Military Prosecutions under this Part.
+(2) The Director must determine whether the alleged offence—
+  (a) has 1 or more victims; and
+  (b) is a specified offence.
+(3) If, and to the extent that, the Director determines that a victim identified by the commanding officer is not a victim or that the alleged offence is not a specified offence, Part 10A and section 102A(3)﻿(b) do not apply.
+(4) In this section, specified offence and victim have the meanings given in section 198B.
 
 **Procedures for certain persons**
 
@@ -2240,13 +2266,39 @@ A person who is not subject to this Act commits a contempt of a military tribuna
 
 ### 155 Procedure for reconsideration
 (1) The Authority must give a service prisoner or detainee whose sentence is to be reconsidered at least 14 days’ written notice of the reconsideration.
+(1A) The Authority must take all reasonable steps to give every victim of the service prisoner or detainee prior written notice of the reconsideration.
+(1B) A victim of the service prisoner or detainee may—
+  (a) write to the Authority by a given date, making submissions on, or giving information relevant to, the reconsideration; and
+  (b) if the reconsideration relates to a prisoner who is subject to a long-term sentence, request information on the prisoner.
 (2) The service prisoner or detainee may—
   (a) request a hearing before the Authority; and
   (b) be legally represented at the hearing.
-(3) If the service prisoner or detainee requests a hearing under subsection (2)﻿(a), the Director of Military Prosecutions—
-  (a) must be given reasonable prior written notice of the date and time of the hearing; and
-  (b) may attend and be heard at the hearing (whether personally or through an agent).
+(3) If the service prisoner or detainee requests a hearing under subsection (2)﻿(a),—
+  (a) the Director of Military Prosecutions—
+    (i) must be given reasonable prior written notice of the date and time of the hearing; and
+    (ii) may attend and be heard at the hearing (whether personally or through an agent); and
+  (b) the Authority must make reasonable efforts to ensure that every victim of the service prisoner or detainee is given reasonable prior written notice of the date and time of the hearing.
+(3A) Every victim of the service prisoner or detainee is entitled—
+  (a) to appear and make oral submissions to the Authority for the purpose of assisting the Authority to reach a decision; and
+  (b) with the leave of the Authority, to be represented by counsel; and
+  (c) to be accompanied by 1 or more support persons (subject to any limitation on numbers imposed by the Authority), who may, with the leave of the Authority,—
+    (i) speak in support of the victim; and
+    (ii) with the permission of the victim, speak on behalf of the victim.
 (4) If the service prisoner or detainee does not request a hearing under subsection (2)﻿(a), the Authority must conduct the reconsideration of the sentence by way of a hearing on the papers.
+(5) In this section,—
+  - **long-term sentence** means a sentence of more than 2 years of imprisonment
+  - **victim** means, in relation to a service prisoner or detainee, a person who has asked for notice and who has given an address under section 198I.
+
+### 155A Information for victims
+(1) If a victim requests information under section 155(1B)﻿(b), the relevant person must prepare and send to the victim and the Authority all of the following:
+  (a) a list of any programmes that the service prisoner has attended since commencing the service prisoner’s sentence, and a list of any programmes that the service prisoner has completed:
+  (b) a statement of the service prisoner’s current security classification:
+  (c) a list of any offences that the service prisoner has been convicted of since commencing the service prisoner’s sentence:
+  (d) a statement that the purpose of providing the victim with information about the service prisoner is to assist the victim to make submissions, and that the information is not to be used for any other purpose.
+(2) The relevant person must prepare the information and send it to the victim and the Authority before every reconsideration hearing for the service prisoner.
+(3) In this section, relevant person means—
+  (a) if the service prisoner is detained in a prison, the chief executive of the Department of Corrections; or
+  (b) in every other case, the Director of Military Prosecutions.
 
 ### 156 Authority may call for written reports and hear evidence
 The Authority—
@@ -2303,7 +2355,7 @@ The Authority—
 [Repealed]
 
 ### 161 Purpose of Discipline Committee
-The purpose of the Discipline Committee is to produce sentencing guidelines for offences against this Act in order to ensure consistency in the sentencing practice of the Court Martial.
+The purpose of the Discipline Committee is to produce sentencing guidelines for offences against this Act in order to ensure consistency in sentencing practice.
 
 ### 162 Functions of Discipline Committee
 (1) The functions of the Discipline Committee are—
@@ -2538,11 +2590,12 @@ Subject to section 186A all fines imposed under this Act shall, when recovered, 
 ### 187 Interpretation of terms used in this Part
 (1) In this Part, unless the context otherwise requires,—
   - **compulsory treatment order** means a compulsory treatment order made under Part 2 of the Mental Health (Compulsory Assessment and Treatment) Act 1992
+  - **health assessor** means a person who is—
+    (a) a practising psychiatrist who is a medical practitioner; or
+    (b) a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology; or
+    (c) in the case of a trial in the Court Martial held overseas, a person approved by the Judge
   - **mentally disordered** has the same meaning as it has in the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **patient** means a person who is, or is deemed to be, subject to a compulsory treatment order
-  - **qualified medical practitioner** —
-    (a) means a medical practitioner; and
-    (b) in the case of a trial in the Court Martial held overseas, includes a person approved by the Judge.
 (1A) For the purposes of this Part, unfit to stand trial—
   (a) means an inability of the accused, due to mental impairment, to conduct a defence or to instruct counsel, or the member of the Armed Forces who is to defend the accused, to do so; and
   (b) includes an inability of the accused, due to mental impairment, to do any 1 or more of the following:
@@ -2551,20 +2604,25 @@ Subject to section 186A all fines imposed under this Act shall, when recovered, 
     (iii) to communicate adequately, for the purposes of conducting a defence, with counsel or the member of the Armed Forces who is to defend the person.
 (2) Where any person is ordered or directed under the provisions of this Act to be detained as a special patient or as a patient, the provisions of the Mental Health (Compulsory Assessment and Treatment) Act 1992 shall, subject to section 192 of this Act, apply to that person as if that person were a special patient or a patient within the meaning of that Act.
 
+### 187A Court Martial to act through Judge alone
+(1) The Court Martial must act through the Judge alone when exercising any power or performing any function or duty under this Part.
+(2) Subsection (1) is subject to sections 190(2A) and 194(1B).
+
 ### 188 When Court may find accused unfit to stand trial
 (1) The Court Martial may, at any time before or during a trial, determine in accordance with section 188A whether an accused is unfit to stand trial.
-(2) The Court may not make a finding on whether the accused is unfit to stand trial unless the Court is satisfied, on the balance of probabilities, that the evidence presented by the prosecution is sufficient to establish that the accused caused the act or omission that forms the basis of the offence with which the accused is charged.
-(3) If the question whether the accused is unfit to stand trial is to be determined before the trial, a special hearing must be held to ascertain whether the Court is satisfied of the matter specified in subsection (2).
-(4) If the Court is not satisfied of the matter specified in subsection (2), the Court must record a finding to that effect and dismiss the charge.
+(2)
+(3)
+(4)
 (5)
-(6) If the Court is satisfied of the matter specified in subsection (2), the Court must record a finding to that effect, and proceed to determine the matters specified in section 188A.
+(6)
 
 ### 188A Determining if accused unfit to stand trial
-(1) If the Court Martial records a finding of the kind specified in section 188(6), the Court must receive the evidence of at least 1 qualified medical practitioner as to whether the accused is mentally impaired.
+(1) In order to determine whether an accused is unfit to stand trial, the Court Martial must receive the evidence of at least 2 health assessors as to whether the accused is mentally impaired.
 (2) If the Court is satisfied on the evidence given under subsection (1) that the accused is mentally impaired, the Court must record a finding to that effect and—
   (a) give the prosecutor and the accused an opportunity to be heard and to present evidence as to whether the accused is unfit to stand trial; and
   (b) find whether the accused is unfit to stand trial; and
   (c) record the finding made under paragraph (b).
+(3) If the Court records a finding under subsection (2) that the accused is fit to stand trial, the Court must continue the proceedings.
 (3)
 (4) The standard of proof required for a finding under this section is the balance of probabilities.
 (5) The jurisdiction conferred on the Court Martial by this section and by section 188 may be exercised by the Court in the absence of the accused if the Court is satisfied by medical evidence that the accused is too mentally impaired to be brought before the Court Martial.
@@ -2572,6 +2630,26 @@ Subject to section 186A all fines imposed under this Act shall, when recovered, 
 ### 188B Court Martial may postpone finding as to unfitness to stand trial
 (1) The Court Martial may, if in its opinion it is in the interests of the accused to do so, postpone a finding as to whether the accused is unfit to stand trial until any time up to the stage at which all the evidence is concluded.
 (2) In any case where a finding is postponed under subsection (1), the Court may not make a finding on the matter if the accused is acquitted of every offence with which he or she is charged.
+
+### 188C Inquiry before trial into accused’s involvement in offence
+(1) This section applies if, before trial, the accused is found unfit to stand trial.
+(2) The Court Martial must decide whether the Court is satisfied, on the balance of probabilities, that the evidence against the accused is sufficient to establish that the accused caused the act or omission that forms the basis of the offence with which the accused is charged.
+(3) A special hearing must be held to ascertain whether the Court Martial is satisfied of the matter specified in subsection (2).
+
+### 188D Inquiry during trial into accused’s involvement in offence
+(1) This section applies if, during a trial, the accused is found unfit to stand trial.
+(2) The Court Martial must decide whether the Court is satisfied, on the balance of probabilities, that the evidence against the accused is sufficient to establish that the accused caused the act or omission that forms the basis of the offence with which the accused is charged.
+(3) For the purposes of subsection (2), the Court Martial may (whether on the application of a party or on the Court's own initiative) do either or both of the following:
+  (a) consider any evidence presented at the trial:
+  (b) hear any new evidence.
+
+### 188E Outcome of consideration of accused’s involvement
+(1) If the Court Martial is not satisfied of the matter specified in section 188C(2) or 188D(2),—
+  (a) the Court must record a finding of not guilty on the charge:
+  (b) the finding that the accused is unfit to stand trial is deemed for all legal purposes to have been quashed.
+(2) If the Court Martial is satisfied of the matter specified in section 188C(2) or 188D(2), the Court must—
+  (a) record a finding to that effect; and
+  (b) proceed to deal with the accused under section 191.
 
 ### 189 When plea of not guilty may be substituted for plea of guilty
 [Repealed]
@@ -2583,13 +2661,14 @@ Subject to section 186A all fines imposed under this Act shall, when recovered, 
   (b) the prosecution agrees that the only reasonable verdict is not guilty on account of insanity; and
   (c) the Court Martial is satisfied on the basis of expert evidence that the accused was insane within the meaning of section 23 of the Crimes Act 1961 at the time of the commission of the offence.
 (2) If, on the trial by the Court Martial of any person charged with an offence, the accused person pleads insanity and the Court finds him not guilty, the Court shall be required to declare whether or not it has acquitted the accused person on account of his insanity.
+(2A) Section 55 of the Court Martial Act 2007 applies to a finding under this section.
 (3) Nothing in this section shall limit or affect the power of the Judge to leave to the military members the question of whether an accused person was insane (within the meaning of section 23 of the Crimes Act 1961) notwithstanding that the accused person has not pleaded insanity nor put the question of his sanity in issue, where it appears in evidence that he may have been insane at the time of the commission of the offence.
 
 ### 191 Order to be made if person unfit to stand trial or insane
 (1) Subject to subsections (2) and (4), if any person tried by the Court Martial (whether in New Zealand or elsewhere)—the Court shall make an order that he be detained in a hospital as a special patient.
   (a) is found unfit to stand trial; or
   (b) is acquitted on account of his insanity,—
-(2) In any case to which subsection (1) applies, the Court, having regard to all the circumstances of the case, and being satisfied, after hearing medical evidence, that it would be safe in the interests of the public, or of any person or class of person who may be affected by the Court’s decision, to make an order under this subsection, may, instead of making an order under subsection (1),—
+(2) In any case to which subsection (1) applies, the Court, having regard to all the circumstances of the case, and being satisfied, after hearing the evidence of 1 or more health assessors, that it would be safe in the interests of the public, or of any person or class of person who may be affected by the Court’s decision, to make an order under this subsection, may, instead of making an order under subsection (1),—
   (a) make an order that the person be detained in a hospital as a patient; or
   (b) make an order for his immediate release; or
   (c) if the person is subject to a sentence of imprisonment or detention (whether imposed under this Act or otherwise) decide not to make an order under this section.
@@ -2629,9 +2708,10 @@ Subject to section 186A all fines imposed under this Act shall, when recovered, 
 (1) If the Court Martial (whether in New Zealand or elsewhere) convicts a person of an offence that is punishable by imprisonment, the Court may, if satisfied of the matters specified in subsection (1A),—
   (a) sentence the person to a term of imprisonment and also order that the person be detained in a hospital as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
   (b) instead of passing sentence, order that the person be treated as a patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992.
-(1A) For the purposes of subsection (1), the Court must be satisfied, by a certificate of 1 qualified medical practitioner,—
+(1A) For the purposes of subsection (1), the Court must be satisfied, on the evidence of 1 or more health assessors,—
   (a) that the person is mentally disordered; and
   (b) that the person’s mental impairment requires that the person should be detained either in the person’s interest or for the safety of the public or for the safety of a person or class of person.
+(1B) A sentence passed or an order made under subsection (1) is a sentence of the Court Martial, and section 61 of the Court Martial Act 2007 applies to both a sentence and an order under that subsection.
 (2) No order shall be made under this section in respect of a person who is, at the time of the conviction, subject to a sentence of imprisonment or detention.
 (2A) An order made under subsection (1)﻿(b) shall be deemed for the purposes of the Mental Health (Compulsory Assessment and Treatment) Act 1992 to be a compulsory treatment order, and the provisions of that Act shall apply accordingly.
 (3) Every such person shall be removed to a hospital as soon as practicable thereafter.
@@ -2641,13 +2721,150 @@ Subject to section 186A all fines imposed under this Act shall, when recovered, 
 
 ### 196 Insanity of certain persons while serving sentences of imprisonment under this Act
 (1) Notwithstanding anything to the contrary in the Mental Health (Compulsory Assessment and Treatment) Act 1992, every service penal establishment in New Zealand shall be deemed to be a prison for the purposes of section 45 of that Act.
-(2) If a person under sentence of imprisonment or detention under this Act who is serving his sentence outside New Zealand becomes mentally disordered, then, without prejudice to any other provision for dealing with him, the Attorney-General may, on a certificate to that effect by a qualified medical practitioner, order his removal to a hospital in New Zealand; and every such order shall have effect for the purposes of the Mental Health (Compulsory Assessment and Treatment) Act 1992 as if it were a compulsory treatment order under that Act.
+(2) If a person under sentence of imprisonment or detention under this Act who is serving his sentence outside New Zealand becomes mentally disordered, then, without prejudice to any other provision for dealing with him, the Attorney-General may, on a certificate to that effect by a health assessor, order his removal to a hospital in New Zealand; and every such order shall have effect for the purposes of the Mental Health (Compulsory Assessment and Treatment) Act 1992 as if it were a compulsory treatment order under that Act.
 
 ### 197 Substitution of finding and quashing of sentence where accused was insane
 [Repealed]
 
 ### 198 Powers of reviewing authority if person found unfit to stand trial
 [Repealed]
+
+## Part 10A — Victims’ rights
+
+### 198A Application of this Part
+(1) This Part applies to a victim of a specified offence.
+(2) Subsection (1) is subject to sections 102A(4) and 117ZIA(3).
+
+### 198B Interpretation of terms used in this Part
+In this Part, unless the context otherwise requires,—
+  - **address** has the meaning given in section 4 of the Victims’ Rights Act 2002
+  - **Director** means the Director of Military Prosecutions
+  - **immediate family** has the meaning given in section 4 of the Victims’ Rights Act 2002
+  - **specified offence** has the meaning given in section 29 of the Victims’ Rights Act 2002
+  - **support person** has the meaning given in section 4 of the Victims’ Rights Act 2002
+  - **victim** has the meaning given in section 4 of the Victims’ Rights Act 2002
+  - **victim support officer** means the victim’s commanding officer or, if the victim does not have a commanding officer, the member of the Defence Force appointed to assist the victim under section 102A(3)﻿(a)﻿(ii).
+
+### 198C Rights to be accorded to victim of specified offence
+The victim support officer and the Director must make all reasonable efforts to ensure that a victim of a specified offence is accorded the rights set out in this Part.
+
+**Victim’s views about release on bail of accused or offender**
+
+### 198D Victim’s views about release on bail of accused or offender
+(1) This section applies if—
+  (a) the victim is a victim of a specified offence; and
+  (b) the Judge Advocate General or a Judge of the Court Martial is required to determine whether to grant bail to the person who is accused of the offence.
+(2) If this section applies, the Director must—
+  (a) make all reasonable efforts to ascertain any views that the victim has about the accused being released on bail; and
+  (b) inform the Judge Advocate General or (as the case requires) a Judge of the Court Martial of any views ascertained under paragraph (a).
+
+**Right to receive notice of certain matters and to appoint representative**
+
+### 198E Right to receive notice of certain matters and to appoint representative
+(1) A victim of a specified offence has a right to receive notice of the matters described in sections 198J to 198N.
+(2) The victim support officer must inform a victim who is a victim of a specified offence—
+  (a) that the victim has the right to receive any notice under sections 198J to 198N (and to appoint a representative to receive notices on behalf of the victim); and
+  (b) that, if the victim wants to receive the notices, the victim (or, if a representative is appointed, the victim’s representative) must request the Director to ensure that the victim is given notice under sections 198J to 198N, and—
+    (i) the victim must give the Director the victim’s address; or
+    (ii) if a representative is appointed to receive the notices, the victim or the victim’s representative must give the Director the representative’s name and address; and
+  (c) that the name and address of the victim (or, if a representative is appointed, the name and address of the victim’s representative)—
+    (i) will be provided to the Judge Advocate General to ensure that the victim receives any notice given under section 20 of the Prisoners’ and Victims’ Claims Act 2005; and
+    (ii) may, if section 198N applies, be provided to the department of State that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Immigration Act 2009, to enable the victim to receive any notice under that section.
+(3) The Director may provide the name and address of the victim or the victim’s representative to—
+  (a) the Judge Advocate General for the purpose described in subsection (2)﻿(c)﻿(i):
+  (b) the department described in subsection (2)﻿(c)﻿(ii) for the purpose described in that subsection.
+(4) Subsection (5) applies if the Director knows, or ought reasonably to know, that the victim is not, or may not be, capable alone of either—
+  (a) asking for, receiving, or understanding a notice under any of sections 198J to 198N; or
+  (b) appointing a representative.
+(5) If this subsection applies, the Director must inform a support person of the victim that a representative of the victim may be appointed.
+
+**Provisions relating to giving and receiving of notices and appointment of representatives**
+
+### 198F Change of address of victim or representative
+(1) A victim may change the address given under section 198E(2)﻿(b) by notifying the Director in writing.
+(2) A victim or a victim’s representative may change the representative’s address given under section 198E(2)﻿(b) by notifying the Director in writing.
+(3) The Director must confirm receipt of a notification to the person who made the notification.
+
+### 198G Victim may opt out of receiving notices
+(1) A victim may notify the Director in writing that they no longer wish to receive notices under sections 198J to 198N.
+(2) The Director must confirm receipt of a notification to the person who made the notification.
+
+### 198H Sections 40 to 46 of Victims’ Rights Act 2002 apply
+(1) The following provisions of the Victims’ Rights Act 2002, with the modifications specified in subsection (2), apply in relation to a victim to whom this Part applies:
+  (a) sections 40 to 45 (relating to the appointment of a representative to receive notices on behalf of a victim):
+  (b) section 46 (specifying the ways in which notices may be given).
+(2) The modifications are—
+  (a) a reference to a notice under any of sections 34 to 39 of the Victims’ Rights Act 2002 is to be treated as a reference to a notice under any of sections 198J to 198N of this Act; and
+  (b) any other necessary modifications.
+
+**Sections 198J to 198N apply only to certain victims who request notice and give address**
+
+### 198I Application of sections 198J to 198N
+Sections 198J to 198N apply to a victim of a specified offence only if—
+  (a) the victim or the victim’s representative has requested the Director to ensure that the victim is given notice under sections 198J to 198N; and
+  (b) the victim or the victim’s representative has given the Director the victim’s address or the name and address of the victim’s representative.
+
+**Notice of certain matters to be given to victim**
+
+### 198J Notice of release on bail of accused or offender
+(1) The Director must, as soon as practicable, give notice of the matters specified in subsection (2) to a victim to whom this section applies.
+(2) The matters are—
+  (a) whether the person accused of the offence (or, as the case requires, the offender) has been released on bail; and
+  (b) if the person accused of the offence (or, as the case requires, the offender) has been released on bail, any terms or conditions of release imposed at any time that—
+    (i) relate to the safety and security of the victim, or of 1 or more members of the victim’s immediate family, or of both; or
+    (ii) require the accused or offender not to associate with, or not to contact, the victim, or 1 or more members of the victim’s immediate family, or both; and
+  (c) the details of any order made by the Court Martial or Judge Advocate General that varies, revokes, or substitutes any term or condition of release referred to in paragraph (b); and
+  (d) if an application for release on bail has been made and the hearing of that application has been adjourned, the date to which the hearing has been adjourned.
+(3) In this section, release on bail includes a release on bail—
+  (a) until the hearing of proceedings:
+  (b) during an adjournment of proceedings:
+  (c) until sentencing:
+  (d) until determination of an appeal against conviction or sentence.
+(4) However, nothing in this section requires or permits the Director to give notice of a matter contrary to any provision of or contrary to any order made under subpart 3 of Part 5 of the Criminal Procedure Act 2011.
+
+### 198K Notice of release or escape from custody, or of death, of accused or offender
+(1) The Director must give a victim to whom this section applies—
+  (a) reasonable prior notice of the accused’s or offender’s impending temporary or permanent release from custody:
+  (b) notice, as soon as practicable, of the accused’s or offender’s—
+    (i) escape from custody, unless the accused or offender sooner returns, or is returned to, the place of custody:
+    (ii) death in custody:
+  (c) notice, as soon as practicable, of the accused’s or offender’s death while on bail.
+(2) In this section, custody means any type of imprisonment or detention that is provided for in section 168.
+(3) If the release or escape is from, or the death occurs in, a prison, the chief executive of the Department of Corrections must give the Director notice of the matters described in subsection (1) in order that the Director can give notice to the victim in accordance with that subsection.
+
+### 198L Notice of breach of release or detention conditions
+The Director must, as soon as practicable, give a victim to whom this section applies notice of—
+  (a) the breach by the accused or offender of any terms or conditions of release of the type described in section 198J(2)﻿(b)﻿(i) and (ii):
+  (b) the conviction of the accused or offender for an offence against section 45 or 45A:
+  (c) the sentence imposed on the accused or offender in respect of a conviction referred to in paragraph (b).
+
+### 198M Notice of discharge, leave of absence, or escape or death of accused or offender who is compulsorily detained in hospital or facility
+(1) This section applies only if the accused or offender is liable to be detained in a hospital or facility in connection with the offence as a special patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992 in accordance with Part 10 of this Act.
+(2) The Director must give a victim to whom this section applies—
+  (a) reasonable prior notice of an impending discharge of the accused or offender from the hospital or facility; and
+  (b) reasonable prior notice of the first unescorted leave of absence from the hospital or facility granted to the accused or offender under a leave provision; and
+  (c) reasonable prior notice of the first unescorted overnight leave of absence granted to the accused or offender under a leave provision; and
+  (d) notice, as soon as practicable, of every escape by the accused or offender; and
+  (e) notice, as soon as practicable, of the death (whether within or outside a hospital or facility) of the accused or offender; and
+  (f) notice, as soon as practicable, of the accused or offender ceasing to be a special patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+(3) To avoid doubt, in subsection (2)﻿(b),—
+  - **facility** includes the land on which the facility is situated
+  - **hospital** includes the land on which the hospital is situated.
+(4) In this section, leave provision means section 31, 50, or 52 of the Mental Health (Compulsory Assessment and Treatment) Act 1992.
+(5) The Director-General of Health must give the Director notice of the matters described in subsection (2) in order that the Director can give notice to the victim in accordance with that subsection.
+
+### 198N Notice of proposal to cancel or suspend liability for deportation
+(1) A victim to whom this section applies is entitled to receive a notice in accordance with section 39 of the Victims’ Rights Act 2002 if—
+  (a) the offender is liable for deportation under the Immigration Act 2009 as a result of any criminal offending; and
+  (b) the Minister of Immigration is considering cancelling or suspending the offender’s liability for deportation or the offender appeals against the offender’s liability for deportation to the Immigration and Protection Tribunal.
+(2) Section 39(2), (3), (5), and (6) of the Victims’ Rights Act 2002 applies in relation to the victim with the following modifications:
+  (a) a reference to a specified person in that section must be treated as a reference to the Director; and
+  (b) any other necessary modifications.
+
+**Submissions on deportation of offender**
+
+### 198O Victim may make submission on consideration of cancellation or suspension of liability for deportation, or offender’s appeal against deportation
+A victim to whom this Part applies may make submissions to the Minister of Immigration and to the Immigration and Protection Tribunal, in accordance with sections 173 and 208 of the Immigration Act 2009.
 
 ## Part 11 — Miscellaneous provisions
 
@@ -2922,8 +3139,8 @@ The record of proceedings of a court of inquiry must not be disclosed to—
   (af) providing for the issue, revocation, suspension, expiry, and renewal of those certificates of competency:
   (ag) providing for the minimum standards for the issue of those certificates of competency (including standards relating to required competence, qualifications, and experience) that must be met for each class of certificate:
   (ah) providing for the terms and conditions subject to which certificates of competency are issued:
-  (b) providing for the attendance at trials by the Court Martial of officers attending the proceedings of the Court for the purpose of being instructed in the Court’s procedure:
-  (c) providing for the appointment of, and duties and functions that may be performed by, officers of the Court Martial:
+  (b) providing for the attendance at trials by the Court Martial of officers and warrant officers attending the proceedings of the Court for the purpose of being instructed in the Court’s procedure:
+  (c)
   (d) providing for the assembling and constitution of courts of inquiry:
   (e) providing for legal aid to be granted at public expense in respect of—
     (i) proceedings in the Court Martial (whether in New Zealand or elsewhere):
@@ -2950,6 +3167,31 @@ The record of proceedings of a court of inquiry must not be disclosed to—
 (3) All districts, offices, appointments, commissions, Proclamations, Orders in Council, regulations, orders, warrants, contracts, instruments, and all acts of authority that originated under or by virtue of any of the enactments repealed by this section, and are subsisting or in force at the commencement of this Act, shall continue for the purposes of this Act as fully and effectually as if they had originated under the corresponding provisions of this Act, and accordingly shall, where necessary, be deemed to have so originated; but so that in the case of current appointments for specified terms each such term shall be computed from the date of its commencement.
 (4) Notwithstanding the repeal of any enactment by subsection (2), all matters and proceedings commenced under any such enactment, and pending or in progress at the commencement of this Act, may be continued and completed under this Act.
 (5) The Naval Discipline Act 1957 of the Parliament of the United Kingdom, and all Acts amending or continuing that Act, and all rules and regulations made under that Act, shall at the commencement of this Act cease to have effect as part of the law of New Zealand.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Part 1 of Military Justice Legislation Amendment Act 2018
+
+### 1 Interpretation in this Part
+In this Part,—
+  - **amendment Act** means Part 1 of the Military Justice Legislation Amendment Act 2018
+  - **commencement** means the commencement of the amendment Act
+  - **other amendments** means the amendments made by sections 12 to 20 of the amendment Act
+  - **proceeding** means the disposal of a charge recorded under this Act, and includes any appeals
+  - **victims’ rights amendments** means the amendments made by sections 6 to 10 and 21 of the amendment Act.
+
+### 2 Burden of proof amendment
+(1) Despite its repeal by section 4 of the amendment Act, section 3(2) continues to apply in relation to a proceeding in which the accused has been arraigned in accordance with section 116 before commencement.
+(2) Despite subclause (1), if the accused in a proceeding described in that subclause is, after commencement, remanded for trial in the Court Martial, section 3(2) does not apply to the proceeding from the point at which the accused is remanded.
+
+### 3 Victims’ rights amendments
+(1) The victims’ rights amendments do not apply in relation to a proceeding in which the charge is recorded under section 102 before commencement.
+(2) Despite subclause (1), the victims’ rights amendments apply in relation to a proceeding described in that subclause if—
+  (a) any further charges for an offence arising from the same incident or series of incidents are recorded after commencement; or
+  (b) the charge is referred to the Director of Military Prosecutions under subpart 2 of Part 5 (whether before or after commencement) and the proceeding is not completed at the time of commencement.
+
+### 4 Other amendments
+The other amendments do not apply in relation to a proceeding in which the Director of Military Prosecutions has laid the charge before the Registrar of the Court Martial before commencement.
 
 ## Schedule 1 — Civilians subject to this Act
 
