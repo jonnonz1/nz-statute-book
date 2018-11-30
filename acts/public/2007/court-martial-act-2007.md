@@ -1,5 +1,5 @@
 # Court Martial Act 2007
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-11-30_
 
 ### 1 Title
 This Act is the Court Martial Act 2007.
@@ -49,6 +49,9 @@ The purpose of this Act is—
 (2) Unless the context otherwise requires, the provisions of the 1971 Act and any regulations made under that Act apply to the extent that they are applicable and with any necessary modifications.
 (3) However, if there is any inconsistency between the provisions of this Act and any provisions of the 1971 Act or any regulations made under that Act, this Act prevails.
 (4) This section applies in addition to, and does not limit, section 5(2).
+
+### 6A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 7 This Act binds the Crown
 This Act binds the Crown.
@@ -103,7 +106,7 @@ This Act binds the Crown.
 (2) Judges who are appointed under this section have seniority among themselves according to the dates of their appointment.
 
 ### 15 Notice requirement for appointment of Chief Judge, Deputy Chief Judges, or other Judges
-The Chief of Defence Force must arrange for notice of an appointment under any of sections 12 to 14 to be published in the Gazette as soon as practicable after the appointment.
+[Repealed]
 
 ### 16 Protection of Judges against removal from office
 (1) A Judge may not be removed from office except by the Sovereign or the Governor-General, acting upon the address of the House of Representatives.
@@ -197,16 +200,17 @@ A person is disqualified to sit as a military member if he or she—
 ### 26 Procedure for assigning military members
 (1) The Registrar must give written notice to—
   (a) each person who is assigned as a military member; and
-  (b) the accused in the proceedings.
+  (b) the accused in the proceedings; and
+  (c) the Director of Military Prosecutions.
 (2) The notice under subsection (1)﻿(a) must state that—
   (a) the person has been assigned as a military member; but
-  (b) the assignment is to be confirmed pending any objections made by the accused in accordance with section 27.
-(3) The notice under subsection (1)﻿(b) must—
+  (b) the assignment is to be confirmed pending any objections made by the accused or the Director of Military Prosecutions in accordance with section 27.
+(3) The notices under subsection (1)﻿(b) and (c) must—
   (a) set out the names and particulars of the persons who have been assigned as military members; and
-  (b) state that the accused has the right to object to the Registrar in accordance with section 27.
+  (b) state that the accused and the Director of Military Prosecutions have the right to object to the Registrar in accordance with section 27.
 
-### 27 Accused may object against assignment of person as military member
-(1) The accused may object to the Registrar about the assignment of any person as a military member on the ground that the person—
+### 27 Objections against assignment of person as military member
+(1) The accused or the Director of Military Prosecutions may object to the Registrar about the assignment of any person as a military member on the ground that the person—
   (a) might not act, or is not in a position to act, impartially; or
   (b) is not qualified to sit as a military member under section 22.
 (2) An objection under subsection (1) must—
@@ -221,23 +225,29 @@ A person is disqualified to sit as a military member if he or she—
   (a) assign another person (a substitute military member) in accordance with sections 22 to 26 and 28; and
   (b) give written notice of that assignment to—
     (i) the substitute military member; and
-    (ii) the person whose assignment was objected to by the accused (the impugned person); and
-    (iii) the accused.
+    (ii) the person whose assignment was objected to (the impugned person); and
+    (iii) the accused; and
+    (iv) the Director of Military Prosecutions.
 (5) To avoid doubt, the impugned person must be treated as if that person had retired from the Court Martial on the date on which the notice under subsection (4)﻿(b)﻿(ii) is given.
 (6) If the Registrar rejects the objection,—
   (a) the impugned person is confirmed as a military member; and
-  (b) the Registrar must give written notice of that fact to the impugned person and the accused.
+  (b) the Registrar must give written notice of that fact to the impugned person, the accused, and the Director of Military Prosecutions.
 
 ### 28 Substitute military members
-(1) The Registrar may assign—
+(1) The Registrar may, before the accused has entered a plea to the charge at the trial, assign—
   (a) an officer to act as a substitute military member for another officer; or
   (b) a warrant officer to act as a substitute military member for another warrant officer.
 (2) A substitute military member may be assigned to fill a vacancy in the military membership of the Court Martial if a military member—
-  (a) dies or becomes seriously ill before the beginning, or in the course, of the trial; or
+  (a) dies or becomes seriously ill; or
   (b) is absent or is found to be disqualified to sit as a military member; or
   (c) retires from the court as a result of an objection under section 27; or
   (d) is found guilty of contempt of the Court Martial under section 32.
-(3) The accused may object to the Registrar about the assignment of any person as a substitute military member and the provisions of section 27 apply, with all necessary modifications, to that substitute military member.
+(3) The accused or the Director of Military Prosecutions may object to the Registrar about the assignment of any person as a substitute military member and the provisions of section 27 apply, with all necessary modifications, to that substitute military member.
+(4) If, after the accused has entered a plea to the charge at the trial, a military member is unable to continue for one of the reasons specified in subsection (2), the Judge must discharge all of the military members and refer the charge back to the Director of Military Prosecutions.
+(5) The Director of Military Prosecutions may—
+  (a) decide not to proceed with the charge; or
+  (b) lay the charge sheet again, or an amended version of the charge sheet, before the Registrar.
+(6) If subsection (5)﻿(b) applies, the Registrar must assign new military members in accordance with sections 22 to 26 and, as the case may be, section 28.
 
 ### Subpart 4 — Duties of members of Court Martial
 
@@ -516,6 +526,7 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
     (i) the seriousness of the offence:
     (ii) whether there are urgent and exceptional circumstances that favour the granting of bail:
     (iii) the effect on service discipline of releasing the person on bail; and
+  (aa) must take into account any views of a victim to which Part 10A of the Armed Forces Discipline Act 1971 applies that are conveyed in accordance with section 198D of that Act; and
   (b) may take into account the considerations set out in section 8(2) of the Bail Act 2000; and
   (c) must not grant bail unless satisfied on the balance of probabilities that it would be in the interests of justice in the particular case to do so.
 (5) The onus is on the accused to show cause why bail should be granted.
@@ -843,6 +854,22 @@ Part 6 of the 1971 Act is repealed.
 
 ### 87 Consequential amendments to other enactments
 The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Part 2 of Military Justice Legislation Amendment Act 2018
+
+### 1 Interpretation in this Part
+In this Part,—
+  - **amendment Act** means Part 2 of the Military Justice Legislation Amendment Act 2018
+  - **proceeding** has the meaning given in clause 1 of Schedule 1AA of the Armed Forces Discipline Act 1971
+  - **victims’ rights amendments** has the meaning given in clause 1 of Schedule 1AA of the Armed Forces Discipline Act 1971.
+
+### 2 Victims’ rights amendments
+The amendments made by section 30 of the amendment Act do not apply in relation to a proceeding to which the victims’ rights amendments do not apply in accordance with clause 3 of Schedule 1AA of the Armed Forces Discipline Act 1971.
+
+### 3 Other amendments
+The amendments made by sections 27 to 29 of the amendment Act do not apply in relation to a proceeding described in clause 4 of Schedule 1AA of the Armed Forces Discipline Act 1971.
 
 ## Schedule 1 — Alternative offences under 1971 Act of which accused may be convicted by Court Martial
 
