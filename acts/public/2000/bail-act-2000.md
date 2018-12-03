@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2018-12-03_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -34,6 +34,10 @@ In this Act, unless the context otherwise requires,—
   - **electronic monitoring address** or means the address, specified by a judicial officer or Registrar or an EM assessor, where a defendant subject to an EM condition must remain
   - **electronic monitoring assessor** or means a person authorised under section 30E to act as an EM assessor
   - **electronic monitoring condition** or means a condition of bail imposed under section 30B
+  - **family relationship** has the same meaning as in section 12 of the Family Violence Act 2018
+  - **family violence offence** means an offence—
+    (a) against any enactment (including the Family Violence Act 2018); and
+    (b) involving family violence (as defined in section 9 of that Act)
   - **judicial officer** has the same meaning as in section 5 of the Criminal Procedure Act 2011
   - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
   - **medical officer** means—
@@ -44,6 +48,7 @@ In this Act, unless the context otherwise requires,—
   - **nurse** means a health practitioner who is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions
   - **Police bail** means bail granted by a Police employee under section 21(1)
   - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
+  - **protected person** , in relation to a protection order, has the same meaning as in section 8 of the Family Violence Act 2018
   - **psychoactive substance** has the same meaning as in section 9 of the Psychoactive Substances Act 2013
   - **Registrar** means any Registrar of the High Court or of the District Court, as the case may require; and includes a Deputy Registrar.
   - **relevant occupant** means,—
@@ -53,6 +58,9 @@ In this Act, unless the context otherwise requires,—
   - **testing** of a person for a controlled drug, a psychoactive substance, or alcohol includes, without limitation, the person’s permitting the collection for analysis of a bodily sample
   - **using** , in relation to a controlled drug and a person, excludes the person using the controlled drug as a prescription medication in accordance with section 8(2)﻿(c) or (d) of the Misuse of Drugs Act 1975
   - **working day** has the same meaning as in section 5 of the Criminal Procedure Act 2011.
+
+### 3AA References to Family Violence Act 2018
+A reference in this Act to the whole or a provision of the Family Violence Act 2018 is, until 1 July 2019, a reference to the whole or the corresponding provision of the Domestic Violence Act 1995.
 
 ### 3A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -70,7 +78,9 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
 
 ### 7 Rules as to granting bail
 (1) A defendant is bailable as of right who is charged with an offence that is not punishable by imprisonment.
-(2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment, unless the offence is one against section 194 of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female) or against section 49 of the Domestic Violence Act 1995 (which relate to contravention of a protection order).
+(2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years’ imprisonment, unless the offence is one against—
+  (a) section 194 of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female); or
+  (b) section 194A of the Crimes Act 1961 (which relates to assault on a person with whom the defendant is, or has been, in a family relationship).
 (3)
 (4) Despite anything in this section, a defendant who is charged with an offence punishable by imprisonment is not bailable as of right if the defendant has been previously convicted of an offence punishable by death or imprisonment.
 (5) Subject to sections 9 to 17, a defendant who is charged with an offence and is not bailable as of right must be released by a court on reasonable terms and conditions unless the court is satisfied that there is just cause for continued detention.
@@ -92,10 +102,15 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
   (g) the possibility of prejudice to the defence in the preparation of the defence if the defendant is remanded in custody:
   (h) any other special matter that is relevant in the particular circumstances.
 (3)
+(3A) In deciding, in relation to a defendant charged with a family violence offence, whether or not to grant bail to the defendant or to allow the defendant to go at large, the court’s primary consideration is the need to protect—
+  (a) the victim of the alleged offence; and
+  (b) any particular person or people in a family relationship with the victim.
+(3B) Subsection (3A) is subject to subsection (3C).
+(3C) In deciding, in relation to a defendant charged with an offence against section 112 of the Family Violence Act 2018, whether or not to grant bail to the defendant or allow the defendant to go at large, the court’s paramount consideration is the need to protect every person who, in relation to the protection order, is a protected person.
 (4) When considering an application for bail, the court must take into account any views of a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with section 30 of that Act.
 (4A) When considering an application for bail, the court must not take into account the fact that the defendant has provided, or may provide, information relating to the investigation or prosecution of any offence, including any offence committed or alleged to have been committed by the defendant.
 (4B) However, despite subsection (4A), the court may take into account the cooperation by the defendant with authorities in the investigation or prosecution of any offence if that cooperation is relevant to the court's assessment of the risk that the defendant will fail to appear in court, interfere with witnesses or evidence, or offend while on bail.
-(5) In deciding, in relation to a defendant charged with an offence against section 49 of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the court's paramount consideration is the need to protect the victim of the alleged offence.
+(5)
 
 ### 9 Restriction on bail if defendant charged with treason or espionage
 No defendant who is charged with a crime against section 73 or section 76 of the Crimes Act 1961 (which relate to treason) or against section 78 of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
@@ -255,7 +270,11 @@ A court may, having regard to the interests of the defendant or any other person
 ### 21 Police employee may grant bail
 (1) Any Police employee may, if he or she considers it prudent to do so, grant bail (Police bail) to a defendant who is charged with an offence and has been arrested without a warrant.
 (2) Subsection (1) does not apply in any case to which any of section 9, 9A, 10, 12, 16, or 17A applies.
-(3) In determining whether it is prudent to grant Police bail to a defendant charged with an offence against section 49 of the Domestic Violence Act 1995, the Police employee must make the need to protect the victim of the alleged offence the paramount consideration.
+(2A) In determining whether it is prudent to grant Police bail to a defendant charged with a family violence offence, the Police employee must make the primary consideration the need to protect—
+  (a) the victim of the alleged offence; and
+  (b) any particular person or people in a family relationship with the victim.
+(2B) Subsection (2A) is subject to subsection (3).
+(3) In determining whether it is prudent to grant Police bail to a defendant charged with an offence against section 112 of the Family Violence Act 2018, the Police employee must make the paramount consideration the need to protect every person who, in relation to the protection order, is a protected person.
 (4) Despite section 7, no person is entitled to be granted Police bail under this section as of right.
 
 ### 21A Notice of Police bail
@@ -280,20 +299,16 @@ A court may, having regard to the interests of the defendant or any other person
   (a) the time stated in the notice of Police bail for the appearance by the defendant before a court is less than 7 days from the date of that notice; or
   (b) the court that the defendant must attend will be closed for more than 7 consecutive days after the date of the defendant's arrest.
 
-### 22 Conditions of Police bail granted to defendant charged with domestic violence offence
-(1) In addition to the condition or conditions imposed under section 21B, a Police employee who grants Police bail to a defendant charged with a domestic violence offence may impose as a condition of the bail any condition that he or she considers reasonably necessary to protect—
+### 22 Conditions of Police bail granted to defendant charged with family violence offence
+A Police employee who grants Police bail to a defendant charged with a family violence offence may impose as a condition of the bail (in addition to the condition or conditions imposed under section 21B) any condition that the employee considers reasonably necessary to protect—
   (a) the victim of the alleged offence; and
-  (b) any particular person residing with the victim.
-(2) In this section,—
-  - **domestic relationship** has the same meaning as in section 4 of the Domestic Violence Act 1995
-  - **domestic violence offence** means an offence against any enactment if the offence involves the use of violence against a person with whom the offender is, or has been, in a domestic relationship
-  - **violence** has the same meaning as in section 3(2), (4), and (5) of the Domestic Violence Act 1995.
+  (b) any particular person residing, or in a family relationship, with the victim.
 
 ### 23 Bail and breach of protection order
-(1) If a person is arrested under section 50 of the Domestic Violence Act 1995 and charged with an offence against section 49 of that Act, the person must not be released on bail by a Police employee under section 21 during the 24 hours immediately following the arrest.
+(1) If a person is arrested under section 113 of the Family Violence Act 2018 and charged with an offence against section 112 of that Act, the person must not be released on bail by a Police employee under section 21 during the 24 hours immediately following the arrest.
 (2) Nothing in subsection (1) limits or affects the obligation of the Police to bring a person who is charged with an offence before a court as soon as possible.
 (3) If a person to whom subsection (1) applies is not brought before a court during the 24 hours immediately following the arrest, the person may, at the expiry of that period, be released on bail by a Police employee under section 21.
-(4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a Police employee under section 21 in respect of any of those offences during the 24 hours immediately following the arrest for an offence against section 49 of the Domestic Violence Act 1995.
+(4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a Police employee under section 21 in respect of any of those offences during the 24 hours immediately following the arrest for an offence against section 112 of the Family Violence Act 2018.
 
 ### 24 Failure to answer Police bail
 (1) A defendant commits an offence if he or she, having been released on Police bail under section 21,—
@@ -354,6 +369,11 @@ If the defendant is granted bail under section 27 but the defendant is not relea
   (b) submit to continuous monitoring of the defendant's compliance with the drug or alcohol condition through a drug or alcohol monitoring device connected to the defendant’s body:
   (c) contact an automated system, and undergo testing for a controlled drug, a psychoactive substance, or alcohol if required by a response notice given by the automated system.
 (4) To avoid doubt, this section does not apply to a defendant who has been granted Police bail with a drug or alcohol condition.
+
+### 30AAA Conditions of bail granted to defendant charged with family violence offence
+A judicial officer or Registrar who grants bail to a defendant charged with a family violence offence may impose as a condition of the bail (in addition to the condition or conditions imposed under section 30) any condition that the judicial officer or Registrar considers reasonably necessary to protect—
+  (a) the victim of the alleged offence; and
+  (b) any particular person residing, or in a family relationship, with the victim.
 
 **Electronic monitoring condition**
 
@@ -585,7 +605,7 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
 **Procedures after defendant granted bail**
 
 ### 31 Release of defendant granted bail
-(1) If a defendant is granted bail, the Registrar must prepare a notice of bail or a bail bond (whichever is applicable) setting out the conditions of bail imposed by or under section 30.
+(1) If a defendant is granted bail, the Registrar must prepare a notice of bail or a bail bond (whichever is applicable) setting out the conditions of bail imposed by or under section 30 or 30AAA.
 (1A) If electronic monitoring is a condition of bail, the notice of bail must—
   (a) state the EM address; and
   (b) list the defendant's obligations, set out in section 30L, under an EM condition.
