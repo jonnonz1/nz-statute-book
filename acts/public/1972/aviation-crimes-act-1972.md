@@ -1,5 +1,5 @@
 # Aviation Crimes Act 1972
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2018-12-03_
 
 > An Act to give effect to the provisions of the Hague Convention for the Suppression of Unlawful Seizure of Aircraft, the Montreal Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, the Montreal Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, and the Tokyo Convention on Offences and Certain Other Acts Committed on Board Aircraft, and for matters incidental thereto
 
@@ -11,8 +11,8 @@ _Consolidation as at 2013-07-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **act of violence** means an act which, if committed in New Zealand, would constitute—
-    (a) an assault as defined in any of sections 192, 193, 194, 196, or 202C of the Crimes Act 1961; or
-    (b) any of the crimes specified in sections 188, 189, 190, 191, 197, 198, 198A, 198B, 199, 200, 202, 203, or 209 of the Crimes Act 1961
+    (a) an assault as defined in any of sections 192, 193, 194, 194A, 196, or 202C of the Crimes Act 1961; or
+    (b) any of the crimes specified in sections 188, 189, 189A, 190, 191, 197, 198, 198A, 198B, 199, 200, 202, 203, or 209 of the Crimes Act 1961
   - **aircraft** has the same meaning as in the Civil Aviation Act 1990
   - **aviation security officer** means an aviation security officer within the meaning of the Civil Aviation Act 1990
   - **carrier and contract** in relation to any contract of carriage, have the same meanings as in section 91U of the Civil Aviation Act 1990, whether the contract of carriage is for international carriage or domestic carriage; and includes a person who has reported to a servant or agent of the carrier for the purpose of going on board an aircraft pursuant to a contract to carry him or her as a passenger
