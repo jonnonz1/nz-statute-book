@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2018-12-03_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -30,19 +30,19 @@ In this Act, unless the context otherwise requires,—
   - **conviction** —
     (a) means a conviction entered by a court in New Zealand for an offence, including a conviction for a traffic offence; and
     (b) does not include a conviction entered by the Court Martial of New Zealand or a disciplinary officer under the Armed Forces Discipline Act 1971 or resulting from an appeal from a decision under that Act
-  - **criminal record** means,—
-    (a) in relation to a question asked of an individual, any—
+  - **criminal record** ,—
+    (a) in relation to a question asked of an individual, means any—
       (i) charges laid against him or her that have resulted in conviction; and
       (ii) convictions entered against him or her; and
       (iii) sentences imposed on him or her; and
       (iv) orders imposed on him or her as a result of a conviction; and
     (b) in relation to a request for disclosure or an obligation to conceal,—
-      (i) any public record (including, without limitation, an electronic public record) that is kept by, or on behalf of, the Crown of—
+      (i) means any public record (including, without limitation, an electronic public record) that is kept by, or on behalf of, the Crown of—
         (A) charges that result in conviction; and
         (B) convictions entered (including, without limitation, any item on a list of previous convictions); and
         (C) sentences imposed (including, without limitation, any item on a list of previous sentences); and
         (D) orders imposed on an offender as a result of a conviction; but
-      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy recorded under section 60 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or any corresponding provision of an earlier enactment) or section 62F of that Act and included in the certificate under regulations made under section 88(1)﻿(b) of that Act
+      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy or coerced marriage or civil union recorded under section 60 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or any corresponding provision of an earlier enactment) or section 62F of that Act and included in the certificate under regulations made under section 88(1)﻿(b) of that Act
   - **custodial sentence** means a sentence of imprisonment imposed under the Sentencing Act 2002 or under any earlier corresponding enactment; and includes—
     (a) a sentence of corrective training; and
     (b) a sentence of preventive detention; and
