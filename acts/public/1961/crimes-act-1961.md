@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2018-12-03_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -100,7 +100,7 @@ Subject to the provisions of section 7, no act done or omitted outside New Zeala
 For the purpose of jurisdiction, where any act or omission forming part of any offence, or any event necessary to the completion of any offence, occurs in New Zealand, the offence shall be deemed to be committed in New Zealand, whether the person charged with the offence was in New Zealand or not at the time of the act, omission, or event.
 
 ### 7A Extraterritorial jurisdiction in respect of certain offences with transnational aspects
-(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002) or an offence against section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 243, section 298A, or section 298B—
+(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002) or an offence against section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 207A, section 243, section 298A, or section 298B—
   (a) if the person to be charged—
     (i) is a New Zealand citizen; or
     (ii) is ordinarily resident in New Zealand; or
@@ -139,7 +139,7 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
   (b) the application of section 8A.
 
 ### 7B Attorney-General's consent required where jurisdiction claimed under section 7A
-(1) Proceedings for an offence against section 98AA, section 98A, section 116, section 117, section 243, section 298A, or section 298B cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed by virtue of section 7A.
+(1) Proceedings for an offence against section 98AA, section 98A, section 116, section 117, section 207A, section 243, section 298A, or section 298B cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed by virtue of section 7A.
 (2) A person over whom jurisdiction is claimed by virtue of section 7A may be arrested for an offence against section 98AA, section 98A, section 116, section 117, or section 243, or a warrant for the person's arrest for the offence may be issued and executed, and the person may be remanded in custody or on bail, even though the Attorney-General's consent to the bringing of proceedings against the person has not been obtained.
 (3) Proceedings for an offence against this Act committed in the course of carrying out a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002) cannot be brought in a New Zealand court against a person without the Attorney-General's consent, if jurisdiction over the person is claimed solely by virtue of section 7A.
 
@@ -1692,6 +1692,11 @@ The provisions of section 183 to 186 shall apply whether or not the poison, drug
 (2) Every one is liable to imprisonment for a term not exceeding 5 years who, with intent to injure any one, or with reckless disregard for the safety of others, injures any person.
 (3)
 
+### 189A Strangulation or suffocation
+Everyone is liable to imprisonment for a term not exceeding 7 years who intentionally or recklessly impedes another person’s normal breathing, blood circulation, or both, by doing (manually, or using any aid) all or any of the following:
+  (a) blocking that other person’s nose, mouth, or both:
+  (b) applying pressure on, or to, that other person’s throat, neck, or both.
+
 ### 190 Injuring by unlawful act
 Every one is liable to imprisonment for a term not exceeding 3 years who injures any other person in such circumstances that if death had been caused he or she would have been guilty of manslaughter.
 
@@ -1717,6 +1722,13 @@ Every one is liable to imprisonment for a term not exceeding 3 years who, with i
 Every one is liable to imprisonment for a term not exceeding 2 years who—
   (a) assaults any child under the age of 14 years; or
   (b) being a male, assaults any female.
+
+### 194A Assault on person in family relationship
+(1) Everyone is liable to imprisonment for a term not exceeding 2 years who—
+  (a) assaults another person; and
+  (b) is, or has been, in a family relationship with that other person.
+(2) In subsection (1), family relationship has the same meaning as in section 12 of the Family Violence Act 2018.
+(3) The reference in subsection (2) to the meaning of family relationship in section 12 of the Family Violence Act 2018 is, until 1 July 2019, a reference to the meaning of domestic relationship in section 4 of the Domestic Violence Act 1995.
 
 ### 195 Ill-treatment or neglect of child or vulnerable adult
 (1) Every one is liable to imprisonment for a term not exceeding 10 years who, being a person described in subsection (2), intentionally engages in conduct that, or omits to discharge or perform any legal duty the omission of which, is likely to cause suffering, injury, adverse effects to health, or any mental disorder or disability to a child or vulnerable adult (the victim) if the conduct engaged in, or the omission to perform the legal duty, is a major departure from the standard of care to be expected of a reasonable person.
@@ -1849,7 +1861,7 @@ Where—the court shall impose a sentence of imprisonment (within the meaning of
 (4) It is no defence to a charge under subsection (2) or subsection (3) that the person on whom the act was done consented to that act, or that the person charged believed that such consent had been given.
 (5) No person shall be charged as a party to an offence committed in relation to her against subsection (2) or subsection (3).
 
-**Bigamy, feigned marriage**
+**Bigamy, and feigned or coerced marriage or civil union**
 
 ### 205 Bigamy defined
 (1) Bigamy is—
@@ -1871,17 +1883,25 @@ Where—the court shall impose a sentence of imprisonment (within the meaning of
 ### 206 Punishment of bigamy
 Every one who commits bigamy is liable to imprisonment for a term not exceeding 7 years:provided that if the Judge is satisfied that the person with whom the offender went through the form of marriage or with whom the offender entered into a civil union, knew, at the time when the offence was committed, that the marriage or civil union would be void, the offender is liable to imprisonment for a term not exceeding 2 years.
 
-### 207 Feigned marriage or feigned civil union
+### 207 Feigned marriage or civil union
 (1) Everyone is liable to imprisonment for a term not exceeding 7 years who goes through a form of marriage or civil union with any other person, knowing that the marriage or civil union will be void for any reason other than that one of the parties is already married or in a civil union.
 (2) Provided that if the Judge is satisfied that that other person knew, at the time when the offence was committed, that the marriage or civil union would be void, the offender is liable to imprisonment for a term not exceeding 2 years.
 
+### 207A Coerced marriage or civil union
+(1) Everyone is liable to imprisonment for a term not exceeding 5 years who, with intent to cause another person to enter into a marriage or civil union, uses coercion (for example, intimidation, threats, or violence) against that other person.
+(2) Subsection (1) applies even if the marriage or civil union—
+  (a) is not governed by New Zealand law:
+  (b) is an arrangement or a relationship (however described, and even if not legally binding) in the form of a marriage or civil union:
+  (c) is not solemnised or otherwise completed:
+  (d) is, or if solemnised or otherwise completed would be, void or not legally binding (for example, for lack of consent, absence of formality, or non-compliance with a legal requirement).
+
 **Abduction, kidnapping**
 
-### 208 Abduction for purposes of marriage or sexual connection
-Every one is liable to imprisonment for a term not exceeding 14 years who unlawfully takes away or detains a person without his or her consent or with his or her consent obtained by fraud or duress,—
-  (a) with intent to marry him or her; or
-  (b) with intent to have sexual connection with him or her; or
-  (c) with intent to cause him or her to be married to or to have sexual connection with some other person.
+### 208 Abduction for purposes of marriage or civil union or sexual connection
+Every one is liable to imprisonment for a term not exceeding 14 years who unlawfully takes away or detains a person (P) without P’s consent or with P’s consent obtained by fraud or duress,—
+  (a) with intent to go through a form of marriage or civil union with P; or
+  (b) with intent to have sexual connection with P; or
+  (c) with intent to cause P to go through a form of marriage or civil union, or to have sexual connection, with some other person.
 
 ### 209 Kidnapping
 Every one is liable to imprisonment for a term not exceeding 14 years who unlawfully takes away or detains a person without his or her consent or with his or her consent obtained by fraud or duress,—
