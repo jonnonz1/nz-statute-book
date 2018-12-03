@@ -1,5 +1,5 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2018-12-03_
 
 > Title
 
@@ -657,8 +657,16 @@ The Registrar-General shall record all information contained in a duplicate copy
   (a) any order described in subsection (1); or
   (b) any equivalent order or decree made under a former divorce enactment (that is to say an Act repealed by the Family Proceedings Act 1980 or by a former divorce enactment).
 
-### 60 Convictions for bigamy to be recorded
-Upon the conviction of any person for bigamy, the Registrar of the court concerned shall forthwith send to the Registrar-General a certificate of the conviction specifying in respect of each bigamous marriage the parties to the marriage, the date and place of the marriage, and the date of the conviction; and the Registrar-General shall, if information relating to the bigamous marriage has been recorded under this Act or a former Act, record as part of that information the information sent to the Registrar-General.
+### 60 Convictions for bigamy, and for coerced marriage, to be recorded
+(1) This section applies if a person who is a party to a marriage is convicted of bigamy or coerced marriage because the marriage is a bigamous or coerced marriage.
+(2) The Registrar of the court in which the conviction was entered must immediately send to the Registrar-General a certificate of the conviction specifying—
+  (a) the names of the parties to the bigamous or coerced marriage; and
+  (b) the date and place of the bigamous or coerced marriage; and
+  (c) the date of the conviction.
+(3) Subsection (4) applies if—
+  (a) information relating to the bigamous or coerced marriage has been recorded under this Act or a former Act; and
+  (b) information relating to the bigamous or coerced marriage is sent to the Registrar-General under subsection (2).
+(4) The Registrar-General must record, as part of the information relating to the bigamous or coerced marriage, the information sent under subsection (2).
 
 ### 61 Celebrants and Registrars to be notified
 [Repealed]
@@ -705,12 +713,16 @@ If the Registrar-General or a Registrar receives information that the parties to
   (c) an order declaring that a civil union is void ab initio.
 (2) The Registrar-General must record the information contained in a certificate received under subsection (1) as part of the information recorded under this Act relating to the civil union.
 
-### 62F Convictions for bigamy to be recorded
-(1) When a person who is a party to a civil union is convicted of bigamy, the Registrar of the court concerned must immediately send to the Registrar-General a certificate of the conviction specifying—
-  (a) the names of the parties to the bigamous marriage or civil union; and
-  (b) the date and place of the bigamous marriage or civil union; and
+### 62F Convictions for bigamy, and for coerced civil union, to be recorded
+(1) This section applies if a person who is a party to a civil union is convicted of bigamy or coerced civil union because the civil union is a bigamous or coerced civil union.
+(2) The Registrar of the court in which the conviction was entered must immediately send to the Registrar-General a certificate of the conviction specifying—
+  (a) the names of the parties to the bigamous or coerced civil union; and
+  (b) the date and place of the bigamous or coerced civil union; and
   (c) the date of the conviction.
-(2) If the information relating to a bigamous marriage or civil union is recorded under this Act, the Registrar-General must record the information received under subsection (1) as part of that information.
+(3) Subsection (4) applies if—
+  (a) information relating to the bigamous or coerced civil union has been recorded under this Act or a former Act; and
+  (b) information relating to the bigamous or coerced civil union is sent to the Registrar-General under subsection (2).
+(4) The Registrar-General must record, as part of the information relating to the bigamous or coerced civil union, the information sent under subsection (2).
 
 ### 62G Recording new names in relation to civil unions
 (1) Subsection (2) applies if, during the course of a civil union, a party to the civil union changes his or her name and the change is recorded in the person's birth information or name change information.
