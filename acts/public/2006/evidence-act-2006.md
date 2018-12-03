@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2018-12-03_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -47,10 +47,16 @@ This Act binds the Crown.
       (ii) a book, map, plan, graph, or drawing:
       (iii) a photograph, film, or negative; and
     (b) information electronically recorded or stored, and information derived from that information
-  - **domestic violence** has the same meaning as in section 3(1) of the Domestic Violence Act 1995
   - **enforcement agency** means the New Zealand Police or any body or organisation that has a statutory responsibility for the enforcement of an enactment
   - **expert** means a person who has specialised knowledge or skill based on training, study, or experience
   - **expert evidence** means the evidence of an expert based on the specialised knowledge or skill of that expert and includes evidence given in the form of an opinion
+  - **family violence** has the same meaning as in section 9 of the Family Violence Act 2018
+  - **family violence case** —
+    (a) means a criminal proceeding in which a person is charged with, or is waiting to be sentenced or otherwise dealt with for, a family violence offence; but
+    (b) does not include a sexual case
+  - **family violence offence** means an offence—
+    (a) against any enactment (including the Family Violence Act 2018); and
+    (b) involving family violence (as defined in section 9 of that Act)
   - **foreign country** means a country other than New Zealand
   - **give evidence** means to give evidence in a proceeding—
     (a) in the ordinary way, as described in section 83; or
@@ -78,6 +84,7 @@ This Act binds the Crown.
   - **opinion** , in relation to a statement offered in evidence, means a statement of opinion that tends to prove or disprove a fact
   - **opinion rule** means the rule described in section 23
   - **party** means a party to a proceeding
+  - **Police employee** has the same meaning as in section 4 of the Policing Act 2008
   - **previous consistent statements rule** means the rule described in section 35
   - **previous statement** means a statement made by a witness at any time other than at the hearing at which the witness is giving evidence
   - **proceeding** means—
@@ -110,6 +117,7 @@ This Act binds the Crown.
   - **voice identification evidence** means evidence that is an assertion by a person to the effect that a voice, whether heard first-hand or through mechanical or electronic transmission or recording, is the voice of a defendant or any other person who was connected with an act constituting direct or circumstantial evidence of the commission of an offence
   - **witness** means a person who gives evidence and is able to be cross-examined in a proceeding.
 (2) A hearing commences for the purposes of this Act when, at the substantive hearing of the issues that are the subject of proceedings, the party having the right to begin commences to state that party’s case or, having waived the right to make an opening address, calls that party’s first witness.
+(3) A reference in subsection (1) to the whole or a provision of the Family Violence Act 2018 is, until 1 July 2019, a reference to the whole or the corresponding provision of the Domestic Violence Act 1995.
 
 ### 5 Application
 (1) If there is an inconsistency between the provisions of this Act and any other enactment, the provisions of that other enactment prevail, unless this Act provides otherwise.
@@ -1034,8 +1042,8 @@ If a party in any proceeding cross-examines a witness who has the same, or subst
 In any proceeding, the party who calls a witness may, if the Judge determines that the witness is hostile and gives permission, cross-examine the witness to the extent authorised by the Judge.
 
 ### 95 Restrictions on cross-examination by parties in person
-(1) A defendant in a sexual case, or a defendant in or a party to criminal or civil proceedings concerning domestic violence or harassment, is not entitled to personally cross-examine—
-  (a) a complainant, or a party who has made allegations of domestic violence or harassment:
+(1) A defendant in a sexual case, or a defendant in or a party to criminal or civil proceedings concerning family violence or harassment, is not entitled to personally cross-examine—
+  (a) a complainant, or a party who has made allegations of family violence or harassment:
   (b) a child (other than a complainant) who is a witness, unless the Judge gives permission.
 (2) In a civil or criminal proceeding, a Judge may, on the application of a witness, or a party calling a witness, or on the Judge’s own initiative, order that a party to the proceeding must not personally cross-examine the witness.
 (3) An order under subsection (2) may be made on 1 or more of the following grounds:
@@ -1114,6 +1122,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 
 ### 102 Application
 Sections 103 to 106 (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
+  (aa) section 106A (which relates to family violence complainants):
   (a) sections 107 to 107B (which relate to child witnesses in criminal proceedings):
   (b) sections 108 and 109 (which relate to undercover Police officers):
   (c) sections 110 to 119 (which relate to anonymous witnesses).
@@ -1147,7 +1156,7 @@ Nothing in the Courts (Remote Participation) Act 2010 affects or limits the abil
     (i) the need to minimise the stress on the witness; and
     (ii) in a criminal proceeding, the need to promote the recovery of a complainant from the alleged offence; and
   (c) any other factor that is relevant to the just determination of the proceeding.
-(5) This section is subject to sections 107 to 107B, which apply to child witnesses in criminal proceedings.
+(5)
 
 ### 104 Chambers hearing before directions for alternative ways of giving evidence
 If an application for directions is made under section 103, before giving any directions about the way in which a witness is to give evidence in chief and be cross-examined, the Judge—
@@ -1184,6 +1193,30 @@ If an application for directions is made under section 103, before giving any di
 (7) The Judge may order to be excised from a video record offered as evidence any material that, if the evidence were given in the ordinary way, would or could be excluded in accordance with this Act.
 (8) The Judge may admit a video record that is recorded and offered as evidence substantially in accordance with the terms of any direction under this subpart and the terms of regulations referred to in subsection (2), despite a failure to observe strictly all of those terms.
 (9) To avoid doubt, subsections (3) to (4C) do not apply to any lawyer representing the Crown who may be given a copy of a video record (which may or may not be offered as an alternative way of giving evidence) at any time for the purpose of providing legal advice to the Police before a charging document is filed and for conducting the prosecution once proceedings have commenced.
+(10) In this section, a reference to a person being given a video record includes a reference to the person being given access to the video record, for example, being given access to an electronic copy of the video record through an Internet site.
+
+**Giving of evidence by family violence complainants**
+
+### 106A Giving of evidence by family violence complainants
+(1) This section applies to a complainant who is not a child and who is to give or is giving evidence in a family violence case (a family violence complainant).
+(2) A family violence complainant is entitled to give his or her evidence in chief by a video record made before the hearing.
+(3) The video record must be one recorded—
+  (a) by a Police employee; and
+  (b) no later than 2 weeks after the incident in which it is alleged a family violence offence occurred.
+(4) If a video record is to be or has been used as the complainant’s evidence in chief, a Judge must give a direction under section 103 about how the complainant will give the other parts of his or her evidence, including any further evidence in chief.
+(5) To avoid doubt, section 106 applies to a video record offered as the complainant’s evidence in chief under this section.
+(6) If the prosecution intends to use a video record as a complainant’s evidence in chief, the prosecution must provide the defendant and the court with a written notice stating that intention to do so.
+(7) Unless a Judge permits otherwise, the notice must be given no later than when a case management memorandum (for a Judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
+
+### 106B Application by defendant for family violence complainant to give evidence in ordinary way or different alternative way
+(1) Despite section 106A, a defendant may apply to a Judge for a direction that a family violence complainant give evidence or any part of his or her evidence in the ordinary way under section 83 or in a different alternative way under section 105.
+(2) Unless a Judge permits otherwise, the application must be made no later than when a case management memorandum (for a Judge-alone trial) or a trial callover memorandum (for a jury trial) is filed under the Criminal Procedure Act 2011.
+(3) Before giving a direction under this section, the Judge—
+  (a) must give each party an opportunity to be heard in chambers; and
+  (b) may call for and receive a report, from any person considered by the Judge to be qualified to advise, on the effect on the complainant of giving evidence in the ordinary way or any alternative way.
+(4) When considering whether to give a direction under this section, the Judge must have regard to—
+  (a) whether the interests of justice require a departure from the usual procedure under section 106A in the particular case; and
+  (b) the matters in section 103(3) and (4).
 
 **Giving of evidence by child witnesses**
 
