@@ -1,5 +1,5 @@
 # Maritime Crimes Act 1999
-_Consolidation as at 2018-05-27_
+_Consolidation as at 2018-12-03_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Maritime Crimes Act 1999.
@@ -16,8 +16,8 @@ The purpose of this Act is to give effect to the provisions of—
 In this Act, unless the context otherwise requires,—
   - **act against a specified terrorism convention** has the meaning given in section 4(1) of the Terrorism Suppression Act 2002
   - **act of violence** means an act which, if committed in New Zealand, would constitute—
-    (a) an assault as defined in any of sections 192, 193, 194, 196, or 202C of the Crimes Act 1961; or
-    (b) any of the offences specified in sections 188, 189, 190, 191, 197, 198, 198A, 198B, 199, 200, 202, 203, or 209 of the Crimes Act 1961
+    (a) an assault as defined in any of sections 192, 193, 194, 194A, 196, or 202C of the Crimes Act 1961; or
+    (b) any of the offences specified in sections 188, 189, 189A, 190, 191, 197, 198, 198A, 198B, 199, 200, 202, 203, or 209 of the Crimes Act 1961
   - **BCN weapon** means a biological weapon, a chemical weapon, or a nuclear weapon
   - **biological weapon** means—
     (a) a non-peaceful biological agent; or
