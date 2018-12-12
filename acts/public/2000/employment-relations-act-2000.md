@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2018-12-12_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -160,11 +160,16 @@ In this Act, unless the context otherwise requires,—
   - **prescribed** means prescribed by regulations made under this Act
   - **Registrar of the court** means any employee of the department designated under section 198 to act as the Registrar of the court
   - **Registrar of Unions** means the employee of the department appointed under section 27 to be the Registrar of Unions
+  - **reinstatement** is a remedy in a personal grievance raised by an employee that may be granted as described in section 123(1)﻿(a)
   - **relevant Acts** ,—
     (a) in sections 223A and 223B, means the Acts specified in section 223(1), except section 69LA of this Act:
     (b) in sections 223D to 223F, means the Acts specified in section 223(1), except Part 5 and section 69LA of this Act
   - **strike** has the meaning given to it by section 81
   - **union** means a union registered under Part 4
+  - **wages** includes amounts payable to an employee in respect of services provided to the employer—
+    (a) for time; or
+    (b) for piece work; or
+    (c) wholly or in part by way of commission
   - **wages and time record** means a wages and time record kept pursuant to section 130
   - **workplace** means a place where an employee works from time to time; and includes a place where an employee goes to do work.
 
@@ -257,7 +262,10 @@ The object of this Part is—
   (a) to recognise the role of unions in promoting their members' collective employment interests; and
   (b) to provide for the registration of unions that are accountable to their members; and
   (c) to confer on registered unions the right to represent their members in collective bargaining; and
-  (d) to provide representatives of registered unions with reasonable access to workplaces for purposes related to employment and union business.
+  (d) to provide representatives of registered unions with reasonable access to workplaces for purposes related to—
+    (i) the employment of the union’s members; and
+    (ii) the union’s business; and
+    (iii) the health and safety of employees who are not members of the union.
 
 **Registration of unions and related matters**
 
@@ -312,10 +320,10 @@ A union must deliver to the Registrar of Unions, not later than 1 June in each c
 For the purposes of sections 20 to 25, workplace does not include a dwellinghouse.
 
 ### 20 Access to workplaces
-(1) A representative of a union is entitled, in accordance with this section and sections 20A and 21, to enter a workplace—
-  (a) for purposes related to the employment of its members; or
-  (b) for purposes related to the union's business; or
-  (c) both.
+(1) A representative of a union is entitled, in accordance with this section and sections 20A and 21, to enter a workplace for 1 or more of the following purposes:
+  (a) purposes related to the employment of the union’s members:
+  (b) purposes related to the union’s business:
+  (c) purposes related to the health and safety of any employee on the premises who is not a member of the union, if the employee requests the assistance of a representative of the union on those matters.
 (2) The purposes related to the employment of a union's members include—
   (a) to participate in bargaining for a collective agreement:
   (b) to deal with matters concerning the health and safety of union members:
@@ -334,6 +342,13 @@ For the purposes of sections 20 to 25, workplace does not include a dwellinghous
 
 ### 20A Representative of union must obtain consent to enter workplace
 (1) Before entering a workplace under section 21, a representative of a union must request and obtain the consent of the employer or a representative of the employer.
+(1A) However, subsection (1) does not apply to a representative of a union if,—
+  (a) at the time of the representative’s entry into the workplace,—
+    (i) there is a collective agreement in force between the employer and the union; and
+    (ii) the coverage clause in the collective agreement covers the work done by employees at the workplace; or
+  (b) at the time of the representative’s entry into the workplace,—
+    (i) the union or the employer has initiated bargaining for a collective agreement; and
+    (ii) the intended coverage of the collective agreement, as set out in the notice given in accordance with section 42, covers the work done by employees at the workplace.
 (2) If a representative of a union makes a request under subsection (1),—
   (a) the employer or representative of the employer must not unreasonably withhold consent; and
   (b) the employer or representative of the employer must advise the representative of the union of the employer's or representative of the employer's decision as soon as is reasonably practicable but no later than the working day after the date on which the request was received; and
@@ -361,6 +376,7 @@ For the purposes of sections 20 to 25, workplace does not include a dwellinghous
   (b) the union the person is a representative of; and
   (c) the date and time of entry; and
   (d) the purpose or purposes of the entry.
+(5) Nothing in subsections (1) to (4) allows an employer to unreasonably deny a representative of a union access to a workplace.
 (5)
 
 ### 22 When access to workplaces may be denied
@@ -391,6 +407,7 @@ A representative of a union may be denied access to a workplace if—
 Every person is liable to a penalty, imposed by the Authority, who, without lawful excuse,—
   (a) contravenes section 20A(2)﻿(a) by unreasonably withholding consent in relation to a request by a representative of a union under section 20A(1) to enter a workplace; or
   (ab) fails to give reasons in writing for withholding consent to access to a workplace in accordance with section 20A(3); or
+  (ac) refuses to permit a representative of a union who is entitled to enter a workplace to enter the workplace; or
   (b) obstructs a representative of a union in entering a workplace or in doing anything reasonably necessary for or incidental to the purpose for entering the workplace; or
   (c) wilfully fails to comply with section 21.
 
@@ -551,10 +568,16 @@ The Authority or court may, in determining whether or not a union and an employe
 ### 41 When bargaining may be initiated
 (1) If there is no applicable collective agreement in force between a union and an employer, the union or the employer may initiate bargaining with the other at any time.
 (2) Subsection (1) applies subject to section 40(2).
-(3) If there is an applicable collective agreement in force, neither a union nor an employer may initiate bargaining earlier than 60 days before the date on which the collective agreement expires.
-(4) However, if there is more than 1 applicable collective agreement in force that binds 1 or more unions or 1 or more employers, or both, that are intended to be parties to the bargaining, then neither a union nor an employer may initiate bargaining before the later of the following dates:
-  (a) the date that is 120 days before the date on which the last applicable collective agreement expires; and
-  (b) the date that is 60 days before the date on which the first applicable collective agreement expires.
+(3) If there is an applicable collective agreement in force,—
+  (a) a union must not initiate bargaining earlier than 60 days before the date on which the collective agreement expires:
+  (b) an employer must not initiate bargaining earlier than 40 days before the date on which the collective agreement expires.
+(4) However, if there is more than 1 applicable collective agreement in force that binds 1 or more unions or 1 or more employers, or both, that are intended to be parties to the bargaining, then—
+  (a) a union must not initiate bargaining before the later of the following dates:
+    (i) the date that is 120 days before the date on which the last applicable collective agreement expires:
+    (ii) the date that is 60 days before the date on which the first applicable collective agreement expires:
+  (b) an employer must not initiate bargaining before the later of the following dates:
+    (i) the date that is 100 days before the date on which the last applicable collective agreement expires:
+    (ii) the date that is 40 days before the date on which the first applicable collective agreement expires.
 (5) For the purposes of this section, an applicable collective agreement is in force between a union and an employer if the agreement binds employees whose work is intended to come within the coverage clause in the collective agreement being bargained for.
 
 ### 42 How bargaining initiated
@@ -579,28 +602,13 @@ The Authority or court may, in determining whether or not a union and an employe
 (2) Consolidated bargaining for a single collective agreement under section 50 is initiated on the day by which all the unions concerned agree to the request from the employer to consolidate bargaining initiated by the unions.
 
 ### 44A Employer may opt out of bargaining for collective agreement, or for agreement to join collective agreement, involving 2 or more employers
-(1) This section applies to an employer that—
-  (a) is an intended party to bargaining—
-    (i) for a single collective agreement involving 2 or more employers; or
-    (ii) for an agreement for the employer to become a party to a concluded collective agreement involving 1 or more employers; and
-  (b) has received a notice initiating bargaining for the agreement.
-(2) The employer may, not later than 10 days after receiving the notice, opt out of bargaining for the agreement.
+[Repealed]
 
 ### 44B How to opt out
-(1) An employer that wishes to opt out of bargaining under section 44A must, within the time limit specified in section 44A(2), give notice (an opt-out notice) to all other intended parties identified in the notice initiating bargaining.
-(2) An opt-out notice must—
-  (a) be in writing and be signed by the employer or its duly authorised representative; and
-  (b) state that the employer has opted out of the bargaining in accordance with section 44A.
-(3) An opt-out notice takes effect on and from the date on which it is given to all other intended parties identified in the notice initiating bargaining (see section 42).
+[Repealed]
 
 ### 44C Effect of opting out
-(1) An employer that opts out of bargaining under section 44A ceases, on the date on which the opt-out notice takes effect under section 44B(3),—
-  (a) to be a party to bargaining for the agreement; and
-  (b) to have any further obligations under this Act in relation to that bargaining.
-(2) To avoid doubt,—
-  (a) an employer must opt out separately in relation to each notice given under section 42; and
-  (b) an employer that gives an opt-out notice may be included as an intended party in any subsequent notice given under section 42; and
-  (c) nothing in this section or section 44A or 44B prevents an employer from opting out of bargaining for a collective agreement involving 2 or more employers that is intended to replace a previous collective agreement that covered those employers.
+[Repealed]
 
 ### 45 One or more unions proposing to initiate bargaining with 2 or more employers for single collective agreement
 (1) This section applies to—
@@ -764,36 +772,10 @@ During facilitation, a party to bargaining for a collective agreement must deal 
 **Authority may determine that bargaining has concluded**
 
 ### 50K Authority may determine that bargaining has concluded
-(1) A party to bargaining for a collective agreement may apply to the Authority for a determination as to whether bargaining has concluded because of difficulties in concluding bargaining.
-(2) Where an application is made under subsection (1), the Authority—
-  (a) must consider whether an attempt has been made to resolve the difficulties by the use of—
-    (i) mediation or further mediation under section 159; or
-    (ii) facilitation under sections 50B to 50I; and
-  (b) may direct the parties to try to resolve the difficulties by mediation or further mediation; but
-  (c) if any of the grounds in section 50C(1) exist, must direct that facilitation be used before the Authority investigates the matter, unless the Authority considers that use of facilitation—
-    (i) will not contribute constructively to resolve the difficulties; or
-    (ii) will not, in all the circumstances, be in the public interest; or
-    (iii) will undermine the urgent nature of the process; or
-    (iv) will be otherwise impractical or inappropriate in the circumstances.
-(3) If the Authority determines that bargaining has concluded,—
-  (a) the Authority must make a declaration to that effect; and
-  (b) none of the parties to that bargaining may initiate further bargaining earlier than 60 days after the date of the declaration without the agreement of the other party or parties concerned.
-(4) If the Authority determines that bargaining has not concluded,—
-  (a) the Authority may make a recommendation as to the process that the parties should follow to resolve the difficulties; and
-  (b) none of the parties to that bargaining may make another application under subsection (1) in respect of that bargaining until the process recommended by the Authority has been followed.
-(5) If the Authority determines that bargaining has not concluded, but does not make a recommendation under subsection (4)﻿(a), none of the parties to that bargaining may make another application under subsection (1) in respect of that bargaining earlier than 60 days after the date of the determination without the agreement of the other party or parties concerned.
-(6) This section applies subject to section 50KA.
+[Repealed]
 
 ### 50KA Declaration or determination under section 50K not to be made if breach of duty of good faith by party seeking declaration
-(1) The Authority must dismiss an application made under section 50K(1) and must refuse to make a declaration or determination under section 50K(3) or (4) if the Authority is satisfied that the party seeking the declaration has failed to observe good faith as described in subsection (3).
-(2) However, the Authority is not precluded from making a declaration or determination if the party seeking the declaration has failed to observe good faith, but the Authority is satisfied that the party has rectified the failure.
-(3) The failures to observe good faith are as follows:
-  (a) a failure to comply with the duty of good faith in section 4, if the failure—
-    (i) relates to the collective bargaining in respect of which the declaration is sought; and
-    (ii) has undermined the collective bargaining:
-  (b) a failure to deal in good faith in any mediation or facilitation directed by the Authority under section 50K(2) (whether in relation to the Authority or the other party or parties to the collective bargaining).
-(4) To avoid doubt, for the purposes of subsection (3)﻿(a), a failure may relate to a matter before or after the application for the determination is made.
-(5) If the Authority is precluded by subsection (1) from making a declaration or a determination, the Authority may make orders or recommendations or issue directions about what steps the parties to the collective bargaining ought to or must take, including (but not limited to) how the party who has failed to observe good faith may rectify the failure.
+[Repealed]
 
 **Collective agreements**
 
@@ -817,13 +799,9 @@ During facilitation, a party to bargaining for a collective agreement must deal 
   (a) if subsection (2) is complied with; and
   (b) for the period specified in subsection (3).
 (2) This subsection is complied with if the union or the employer initiated collective bargaining before the collective agreement expired and for the purpose of replacing the collective agreement.
-(2A) However, a collective agreement that binds 2 or more employers continues in force in relation to an employer that has opted out of bargaining under section 44A, but only—
-  (a) if (after the employer's opt-out notice takes effect and before the collective agreement expires) the employer or the union initiated collective bargaining for the purpose of replacing the collective agreement; and
-  (b) for the period (not exceeding 12 months) during which bargaining continues for a collective agreement to replace the collective agreement that has expired.
+(2A)
 (3) The period is the period (not exceeding 12 months) during which bargaining continues for a collective agreement to replace the collective agreement that has expired.
-(4) However, for the purposes of calculating the period referred to in subsection (2A)﻿(b) or (3), the period referred to in section 50K(3)﻿(b) is to be disregarded if—
-  (a) the Authority or the court determines that the collective bargaining has concluded; and
-  (b) the determination has been successfully challenged or appealed against.
+(4)
 
 ### 54 Form and content of collective agreement
 (1) A collective agreement has no effect unless—
@@ -1054,6 +1032,8 @@ The object of this Part is—
 (3)
 (4) An employer who fails to comply with this section is liable, in an action brought by a Labour Inspector or the employee concerned, to a penalty imposed by the Authority.
 
+**Specific terms and conditions of employment**
+
 ### 65A Deduction of union fees
 (1) An individual employment agreement of an employee who is a member of a union is to be treated as if it contains a provision that requires the employee's employer to deduct, with the consent of the employee, the employee's union fee from the employee's salary or wages on a regular basis during the year.
 (2) An individual employment agreement may exclude or vary the effect of subsection (1).
@@ -1193,6 +1173,8 @@ An employee is entitled to refuse to perform work in addition to any guaranteed 
   (a) prohibit the employee from performing work for another person unless it is necessary having regard to the reasons for which the provision is included; or
   (b) restrict the employee from performing work for another person to a greater extent than is necessary having regard to the reasons for which the provision is included.
 (5) This section does not limit or affect the law relating to restraint of trade provisions.
+
+**Unfair bargaining**
 
 ### 68 Unfair bargaining for individual employment agreements
 (1) Bargaining for an individual employment agreement is unfair if—
@@ -2135,7 +2117,7 @@ The object of this Part is—
   (a) to recognise that the requirement that a union and an employer must deal with each other in good faith does not preclude certain strikes and lockouts being lawful (as defined in this Part); and
   (b) to define lawful and unlawful strikes and lockouts; and
   (ba) to provide notice requirements for all strikes and lockouts; and
-  (bb) to provide for specified pay deductions, and to specify how the amount of such deductions must be calculated; and
+  (bb)
   (c) to ensure that where a strike or lockout is threatened in an essential service, there is an opportunity for a mediated solution to the problem.
 
 **Interpretation**
@@ -2252,6 +2234,7 @@ Participation in a strike or lockout is lawful if the employees who strike have,
     (i) are members of a union that is a party to the bargaining; and
     (ii) are covered by the bargaining; and
     (iii) are employed in the relevant part of the workplace or at any particular place or places where the work is carried on.
+(3A) An omission or error in any information specified under subsection (2)﻿(b) or a failure to comply with subsection (3)﻿(a) does not affect the validity of the notice if the omission, error, or failure is minor and technical only.
 (4) To avoid doubt, this section does not apply if notice is required under any of the following provisions:
   (a) section 90 (strikes in essential services):
   (b) section 93 (procedure to provide public with notice before strike in certain passenger transport services):
@@ -2398,93 +2381,32 @@ Where the chief executive receives a notice of intention to strike or lock out u
 **Interpretation**
 
 ### 95A Meaning of partial strike and specified pay deduction
-In this Act,—
-  - **partial strike** —
-    (a) means an act of the employees who are a party to the strike in continuing to perform some work for their employer or employers during the strike instead of wholly discontinuing their employment during the strike, and includes without limitation—
-      (i) a partial discontinuance of work through a refusal or failure to accept engagement for work that forms part of the employees' normal duties:
-      (ii) a reduction in the employees' normal performance of work, normal output, or normal rate of work:
-    (b) means an act of the employees who are a party to the strike in breaking their employment agreement, whether or not the act involves any reduction in the employees' normal duties, normal performance of work, normal output, or normal rate of work
-  - **specified pay deduction** means a deduction—
-    (a) made, or to be made, from an employee's salary or wages in accordance with section 95B; and
-    (b) either—
-      (i) calculated in accordance with section 95D(1) and (2); or
-      (ii) imposed at a flat rate of 10% under section 95D(3).
+[Repealed]
 
 **Specified pay deductions in relation to partial strike**
 
 ### 95B Employer may make specified pay deductions in relation to partial strike
-(1) Where there is a partial strike, the employer may make specified pay deductions from the salary or wages of an employee who is a party to the strike.
-(2) However, the employer must not make a specified pay deduction—
-  (a) if the partial strike is lawful on the grounds referred to in section 84 (which relates to lawful strikes on the grounds of safety or health); or
-  (b) if—
-    (i) the employee is paid by piecework; and
-    (ii) the partial strike results in the employee reducing his or her normal output; or
-  (c) if the partial strike involves—
-    (i) a refusal to work overtime; or
-    (ii) a refusal to perform call-out work if the employee would otherwise receive a special payment for performing that work.
-(3) Before making any deduction, the employer must comply with the notice requirements in section 95C.
-(4) The amount of the deduction must be calculated in accordance with section 95D.
-(5) To avoid doubt,—
-  (a) deductions under this section may only relate to the employee's salary or wages that would have been payable for the work performed by that employee had the partial strike not occurred:
-  (b) an employer may make deductions under this section without having to suspend or lock out the employee.
+[Repealed]
 
 ### 95C Notice of specified pay deduction
-(1) Where an employer has received notice of a partial strike, and the employer intends to make specified pay deductions in relation to that strike, the employer must give notice to each employee who is a party to the strike that the employer will make those deductions.
-(2) A notice under subsection (1) must be in writing and must—
-  (a) be given—
-    (i) before the deduction is made; and
-    (ii) within the pay period during which the deduction or (if the deductions are to be ongoing) the first deduction is to be made; and
-  (b) specify the pay period or periods during which deductions will be made.
-(3) Where 2 or more of the employer's employees are parties to a partial strike, the employer may, instead of giving notice to each of those employees, give notice under this section by—
-  (a) providing a single notice to all those employees or their union; or
-  (b) providing a notice, with the same wording, to each of those employees.
-(4) To avoid doubt,—
-  (a) an employer may choose the method of giving notice under this section:
-  (b) the validity of a notice is not affected merely because it is also given to employees who are not subject to the specified pay deduction (for example, non-striking employees):
-  (c) where the partial strike continues over more than 1 pay period, the employer is not required to give notice more than once:
-  (d) a notice under this section is not required to specify the amount or proportion of the pay deduction.
+[Repealed]
 
 ### 95D Calculation of specified pay deduction
-(1) An employer must calculate the amount of a specified pay deduction by—
-  (a) identifying, for the employee or group of employees, the usual hours of work for the day of the partial strike; and
-  (b) identifying the work that the employee or employees will not be performing because of that strike (which must be by reference to the information contained in the relevant strike notice); and
-  (c) estimating how much time the employee or employees would, but for the strike, have spent performing the work referred to in paragraph (b) on the day of the strike; and
-  (d) calculating the time referred to in paragraph (c) as a percentage of the employee's or employees' usual hours of work (as identified for the purposes of paragraph (a)).
-(2) The percentage referred to in subsection (1)﻿(d) is the percentage of the employee's or employees' wages that may be deducted.
-(3) However, despite subsections (1) and (2), an employer may choose, instead of calculating and applying a deduction in accordance with those provisions, to impose a 10% deduction on the employee's or employees' wages, regardless of whether the amount of deduction calculated in accordance with subsection (1) would have been more or less than 10%.
-(4) An employer may make a specified pay deduction under subsection (1) or (3), as the case may be, in respect of a group of employees only if each member of the group performs work of the same, or a similar, nature.
+[Repealed]
 
 ### 95E Relationship between specified pay deduction and minimum wage
-(1) Section 6 of the Minimum Wage Act 1983 must be read as not applying to an employee who receives payment at less than the applicable minimum rate of wages prescribed under section 4, 4A, or 4B of that Act if the payment—
-  (a) is the result of a specified wage deduction; or
-  (b) is, in the case of an employee who is paid by piecework, the result of—
-    (i) the employee being party to a partial strike; and
-    (ii) the employee's normal output being reduced because of the employee being party to that partial strike.
-(2) Subsection (1)﻿(a) applies only in relation to a period during which deductions may be made under sections 95B to 95D.
+[Repealed]
 
 **Rights of union in relation to specified pay deductions**
 
 ### 95F Union may request information about specified pay deduction
-(1) Where an employee or a group of employees considers that the employer has incorrectly made a specified pay deduction in relation to that employee or those employees, the union representing that employee or those employees may request that the employer provide the union with information relied on to make the specified pay deduction under section 95D.
-(2) A request under subsection (1) must—
-  (a) be in writing; and
-  (b) be made as soon as is reasonably practicable after the pay day on which the deduction was first made.
-(3) To avoid doubt, this section does not permit an employee, or a group of employees, to request the information from the employee's, or employees', employer.
+[Repealed]
 
 ### 95G Employer must respond to request for information about specified pay deduction
-(1) Where an employer has received a request under section 95F, the employer must provide the union with—
-  (a) all information relied on by the employer to make the specified pay deduction under section 95D; and
-  (b) an explanation of how the calculation under section 95D(1) and (2), or the 10% deduction under section 95D(3), was applied to make the deduction from the employee's or employees' wages under section 95B.
-(2) The information and explanation required under subsection (1) must be provided—
-  (a) in writing; and
-  (b) as soon as is reasonably practicable after the employer receives the request.
+[Repealed]
 
 ### 95H Resolution of problem relating to specified pay deduction
-(1) Where, having considered the information and explanation provided under section 95G, the employee or group of employees is not satisfied that the specified pay deduction was made correctly, the union, on behalf of that employee or those employees, must give the employer notice of that fact, and the matter must be dealt with as an employment relationship problem.
-(2) The notice under subsection (1) must be provided—
-  (a) in writing; and
-  (b) as soon as is reasonably practicable after the union receives the information and explanation.
-(3) Where the employer and the union are unable to resolve the problem (including by way of mediation), the union may lodge an application with the Authority in accordance with section 158.
+[Repealed]
 
 **Employer's liability for wages during lockout**
 
@@ -2531,20 +2453,16 @@ If a strike or lockout occurs, the employer of the employees participating in th
 (1) The court has full and exclusive jurisdiction to hear and determine any proceedings issued for the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
   (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout; or
-  (c) to stop a specified pay deduction that is being, or is to be, made.
+  (c)
 (2) No other court has jurisdiction to hear and determine any action or proceedings seeking the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
   (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout; or
-  (c) to stop a specified pay deduction that is being, or is to be, made.
+  (c)
 (3) Where any action or proceedings seeking the grant of an injunction to stop a strike or lockout or to prevent a threatened strike or lockout are commenced in the court, and the court is satisfied that participation in the strike or lockout is lawful under section 83 or section 84,—
   (a) the court must dismiss that action or those proceedings; and
   (b) no proceedings seeking the grant of an injunction to stop that strike or lockout or to prevent that threatened strike or lockout may be commenced in the District Court or the High Court.
-(4) Subsection (5) applies where any action or proceedings seeking the grant of an injunction to stop a specified pay deduction that is being, or is to be, made are commenced in the court, and the court is satisfied that—
-  (a) notice has been given in accordance with section 95C; and
-  (b) the deduction has been correctly calculated in accordance with section 95D.
-(5) Where the court is satisfied of the matters specified in subsection (4)﻿(a) and (b),—
-  (a) the court must dismiss that action or those proceedings; and
-  (b) no proceedings seeking the grant of an injunction to stop that specified pay deduction being made may be commenced in the District Court or the High Court.
+(4)
+(5)
 
 ## Part 8A — Codes of employment practice and code of good faith for public health sector
 
@@ -2862,11 +2780,11 @@ Where the Authority or the court determines that an employee has a personal grie
   (a) consider the extent to which the actions of the employee contributed towards the situation that gave rise to the personal grievance; and
   (b) if those actions so require, reduce the remedies that would otherwise have been awarded accordingly.
 
-### 125 Remedy of reinstatement
+### 125 Reinstatement to be primary remedy
 (1) This section applies if—
-  (a) it is determined that the employee has a personal grievance; and
-  (b) the remedies sought by or on behalf of an employee in respect of a personal grievance include reinstatement (as described in section 123(1)﻿(a)).
-(2) The Authority may, whether or not it provides for any of the other remedies specified in section 123, provide for reinstatement if it is practicable and reasonable to do so.
+  (a) the remedies sought by, or on behalf of, an employee in respect of a personal grievance include reinstatement; and
+  (b) it is determined that the employee did have a personal grievance.
+(2) If this section applies, the Authority or court must provide for reinstatement wherever practicable and reasonable, irrespective of whether it provides for any other remedy as specified in section 123.
 
 ### 126 Provisions applying if reinstatement ordered
 Where the remedy of reinstatement is provided by the Authority or the court, the employee must be reinstated immediately or on such date as is specified by the Authority or the court and, despite any challenge to or appeal against the determination of the Authority or the court, the provisions for reinstatement remain in full force pending the outcome of those proceedings unless the Authority or the court otherwise orders.
@@ -3612,7 +3530,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (c) matters about whether a person is an employee (not being matters arising on an application under section 6(5)):
   (ca) facilitating bargaining under sections 50A to 50I:
   (cb) fixing the provisions of a collective agreement under section 50J:
-  (cba) determining whether bargaining has concluded under section 50K:
+  (cba)
   (cc) determining whether an employer has complied with section 69AAE:
   (d) matters alleged to arise under section 68 because a party to an individual employment agreement has bargained unfairly:
   (da) investigating bargaining under section 69O and, if necessary, determining redundancy entitlements under that section:
@@ -3625,7 +3543,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (j) matters about whether a person is entitled to be a member of a union:
   (k) matters related to a failure by a union to comply with its rules:
   (l) any proceedings related to a strike or lockout (other than those founded on tort or seeking an injunction):
-  (la) any proceedings related to the application of section 95D:
+  (la)
   (m) actions for the recovery of penalties—
     (i) under this Act for a breach of an employment agreement:
     (ii) under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the Authority):
@@ -3643,7 +3561,7 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (qc) determining whether an employer has complied with section 30D of the Parental Leave and Employment Protection Act 1987:
   (r) any other action (being an action that is not directly within the jurisdiction of the court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
   (s) determinations under such other powers and functions as are conferred on it by this or any other Act.
-(2) Except as provided in subsection (1)﻿(ca), (cb), (cba), (d), (da), and (f), the Authority does not have jurisdiction to make a determination about any matter relating to—
+(2) Except as provided in subsection (1)﻿(ca), (cb), (d), (da), and (f), the Authority does not have jurisdiction to make a determination about any matter relating to—
   (a) bargaining; or
   (b) the fixing of new terms and conditions of employment.
 (3) Except as provided in this Act, no court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the Authority.
@@ -4635,6 +4553,24 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2) Every document purporting to be in a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive certifies otherwise.
 
 ### 237A Amendments to Schedule 1A
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 1A to add, delete, or amend categories of employees.
+(2) The Minister may recommend the making of an Order in Council to amend Schedule 1A to add a category of employees only if the Minister is satisfied that the employees in the category of employees—
+  (a) are employed in a sector in which restructuring of an employer’s business occurs frequently; and
+  (b) have terms and conditions of employment that tend to be undermined by the restructuring of an employer’s business; and
+  (c) have little bargaining power.
+(3) The Minister may recommend the making of an Order in Council to amend Schedule 1A to amend a category of employees only if the Minister is satisfied that the employees in the category of employees (if the category is amended in accordance with the recommendation) will satisfy the criteria in subsection (2).
+(4) The Minister may recommend the making of an Order in Council to amend Schedule 1A to delete a category of employees only if the Minister is satisfied that the employees in the category of employees no longer satisfy the criteria in subsection (2).
+(5) Before recommending the making of an Order in Council to amend Schedule 1A, the Minister must—
+  (a) receive a request to add, amend, or delete a category of employees from a person or an organisation that—
+    (i) clearly identifies the category of employees to which the request relates; and
+    (ii) specifies the sector in which the category of employees provides service; and
+    (iii) includes evidence that the relevant employees satisfy or no longer satisfy (as applicable) the criteria in subsection (2); and
+  (b) receive a report from the department on whether the employees in the category of employees satisfy the criteria in subsection (2); and
+  (c) provide the report to, and consult, any employers, employees, representatives of employers or employees, or other persons or organisations as the Minister considers appropriate.
+(6) Nothing in subsection (5)﻿(c) requires the making available of information that could properly be withheld in accordance with the provisions of the Official Information Act 1982 if the information were requested under that Act.
+(7) In this section, restructuring has the same meaning as in section 69B.
+
+### 237A Amendments to Schedule 1A
 [Repealed]
 
 ### 237B Regulations providing for waiver, etc, of fees
@@ -4760,8 +4696,10 @@ The application, savings, and transitional provisions set out in Schedule 1AA, w
 
 ## Schedule 1AA — Application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013
 
+### Part 1 — Provisions relating to Employment Relations Amendment Act 2014, Employment Relations Amendment Act 2016, and Employment Relations Amendment Act (No 2) 2016
+
 ### 1 Interpretation
-In this schedule,—
+In this Part,—
   - **2014 Act** means the Employment Relations Amendment Act 2014
   - **2016 Act** means the Employment Relations Amendment Act 2016
   - **2016 (No 2) Act** means the Employment Relations Amendment Act (No 2) 2016.
@@ -4813,6 +4751,67 @@ Repeal of section 237A
 
 ### 4 Application, savings, and transitional provision arising from 2016 (No 2) Act
 A person holding office as a temporary Judge under section 207 immediately before the commencement of this clause continues to hold office on the same terms as if he or she were appointed as an acting Judge under section 207.
+
+### Part 2 — Provisions relating to Employment Relations Amendment Act 2018
+
+### 5 Interpretation
+In this Part, 2018 Act means the Employment Relations Amendment Act 2018.
+
+**Provisions relating to collective bargaining and unions**
+
+### 6 Duty to conclude applies to bargaining initiated before commencement
+Sections 31 to 33 of this Act (as amended by sections 12 to 14 of the 2018 Act) apply to all bargaining that has not concluded before the commencement of sections 12 to 14 of the 2018 Act, whether the bargaining was initiated before or on the commencement of sections 12 to 14 of the 2018 Act.
+
+### 7 Existing opt-out notice under section 44B continues to have effect
+Sections 44B(3), 44C, and 53(2A) (as they were immediately before they were repealed by sections 16 and 18 of the 2018 Act) continue to apply in relation to an opt-out notice given before the commencement of this clause in accordance with section 44B (as it was immediately before it was repealed by section 16 of the 2018 Act).
+
+### 8 Existing declarations or determinations under section 50K continue to have effect
+(1) The following continue to have effect as if sections 17, 18, and 35 of the 2018 Act had not come into force:
+  (a) any declaration or determination made by the Authority under section 50K(3) or (4) or 50KA(2) before the commencement of this clause:
+  (b) any orders or recommendations made by, or directions issued by, the Authority under section 50KA(5) before the commencement of this clause.
+(2) Sections 53(4) and 161(1)﻿(cba) (as they were immediately before they were repealed by sections 18 and 35 of the 2018 Act) continue to apply in relation to any declaration or determination made by the Authority under section 50K(3) before the commencement of this clause.
+(3) However, an application made under section 50K (as it was immediately before it was repealed by section 17 of the 2018 Act) that is not determined or dismissed before the commencement of this clause must be treated as if it had not been made.
+
+### 9 Requirement for collective agreement to include rates of wages or salary applies only to collective agreement concluded on or after commencement
+(1) Section 54 (as amended by section 19 of the 2018 Act) applies to a collective agreement concluded on or after the commencement of section 19 of the 2018 Act whether bargaining for the agreement was initiated before, on, or after the commencement of section 19 of the 2018 Act.
+(2) Section 54 (as it was immediately before it was amended by section 19 of the 2018 Act) continues to apply to a collective agreement concluded before the commencement of section 19 of the 2018 Act.
+
+### 10 Amendments relating to new employees apply to employees who enter into IEAs on or after commencement
+(1) Sections 62 and 62A of this Act (as inserted by section 22 of the 2018 Act) apply to a new employee who commences work with an employer, or signs an employment agreement with an employer, on or after the commencement of section 22 of the 2018 Act.
+(2) Section 63B of this Act (as inserted by section 24 of the 2018 Act) applies to an employer who is bargaining with an individual on or after the commencement of section 24 of the 2018 Act for terms and conditions of employment for the first 30 days of the individual’s employment under section 62 (as inserted by section 22 of the 2018 Act) whether the bargaining was initiated before, on, or after the commencement of section 22 of the 2018 Act.
+
+### 11 Union may provide information about role and functions of union for employer to pass on to new employees before commencement of section 24 of 2018 Act
+(1) If the union requests, on or after the commencement of section 11 of the 2018 Act but before the commencement of section 24 of the 2018 Act, that an employer provide certain specified information to new employees, the reference to section 63B(3)﻿(b) in section 30A (as inserted by section 11 of the 2018 Act) must be read as if section 63B(3)﻿(b) had already commenced.
+(2) However, an employer who receives information under section 30A before the commencement of section 24 of the 2018 Act is required to provide the information only on or after the commencement of section 63B(3)﻿(b) (as inserted by section 24 of the 2018 Act).
+
+### 12 Specified pay deductions must cease on commencement
+(1) An employer who is making specified pay deductions from the salary or wages of an employee under section 95B must cease the deductions on the commencement of sections 29 and 30 of the 2018 Act.
+(2) Sections 95F to 95H and section 100(1)﻿(c), (2)﻿(c), (4), and (5) (as they were immediately before they were repealed by sections 29 and 30 of the 2018 Act) continue to apply in relation to any specified pay deductions made before the commencement of this clause.
+
+**Provisions relating to trial periods of 90 days or less**
+
+### 13 Trial provisions contained in employment agreements entered into before commencement continue to apply
+A trial provision contained in an employment agreement entered into before the commencement of sections 36 and 37 of the 2018 Act in accordance with section 67A (as it was immediately before it was replaced by section 36) of the 2018 Act continues to apply as if sections 36 and 37 of the 2018 Act had not commenced.
+
+**Provision relating to rest breaks and meal breaks**
+
+### 14 Employees receiving compensatory measures before commencement of section 43 of 2018 Act
+(1) This provision applies to an employee who is receiving compensatory measures under sections 69ZEA and 69ZEB (as they were immediately before they were replaced by section 43 of the 2018 Act) (existing compensatory measures).
+(2) On the commencement of section 43 of the 2018 Act, if an exemption under section 69ZEA(1) applies to an employer providing existing compensatory measures,—
+  (a) the employer and employee may agree that any rest breaks and meal breaks are to be taken in a different manner (including the number and timing of breaks) than that specified in Part 6D; but
+  (b) if the employer and employee are unable to reach agreement under paragraph (a), the employee is entitled to, and the employee’s employer must provide the employee with, compensatory measures in accordance with section 69ZEB (as replaced by section 43 of the 2018 Act).
+(3) On the commencement of section 43 of the 2018 Act, if an exemption under section 69ZEA(1) does not apply to an employer providing existing compensatory measures, the employee is entitled to, and the employee’s employer must provide the employee with, rest breaks and meal breaks in accordance with sections 69ZD and 69ZE (as replaced by section 43 of the 2018 Act).
+(4) On and from the commencement of section 43 of the 2018 Act, the employee continues to be entitled to receive the existing compensatory measures until the earlier of the following:
+  (a) the coming into force of an agreement between the employer and the employee under subclause (2)﻿(a):
+  (b) the employer provides the employee with compensatory measures under subclause (2)﻿(b).
+(5) The provisions of this clause have effect despite any provision to the contrary in any contract or agreement.
+
+**Provision relating to remedy of reinstatement**
+
+### 15 Remedy of reinstatement in personal grievance proceedings
+(1) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal), but not finally determined or completed, before the commencement of this clause must be determined or completed under the law as it was at the time the proceedings were brought.
+(2) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal) on or after the commencement of this clause must be determined in accordance with section 125 as replaced by section 47 of the 2018 Act.
+(3) Subclause (2) applies irrespective of whether the action alleged to amount to a personal grievance occurred or came to the notice of the employee before, on, or after the commencement of section 47 of the 2018 Act.
 
 ## Schedule 1 — Essential services
 
