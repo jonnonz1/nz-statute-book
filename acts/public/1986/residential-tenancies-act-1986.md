@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2018-12-12_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -64,6 +64,12 @@ _Consolidation as at 2018-11-26_
     (d) the personal representative of a deceased landlord; and
     (e) an agent of a landlord
   - **letting agent** , in relation to a tenancy, means a person who, in the ordinary course of business, acts, or who holds himself or herself out to the public as ready to act, for reward as an agent in respect of the grant or assignment of tenancies, whether or not that person carries on any other business
+  - **letting fee** —
+    (a) means any fee or charge (however described) in respect of services rendered by the letting agent or any other person that relate to—
+      (i) the grant, continuance, extension, variation, or renewal of any tenancy agreement; or
+      (ii) the assignment of a tenant’s interest under any tenancy agreement; or
+      (iii) the subletting of the whole or any part of the premises by a tenant; but
+    (b) does not include any expenses recoverable under section 44(5)
   - **member of the landlord’s or owner’s family** means any of the following:
     (a) the landlord’s or owner’s spouse or civil union partner:
     (b) the landlord’s or owner’s de facto partner:
@@ -284,7 +290,7 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
   (j) the rent payable; and
   (k) the frequency of the rent payments; and
   (l) the place or bank account number where the rent is to be paid; and
-  (m) a statement (if applicable) that the tenant shall pay any fee or other charge for services rendered by any solicitor or letting agent relating to the grant or assignment of the tenancy; and
+  (m)
   (n)
   (o) a list of any chattels provided by the landlord; and
   (p) if the tenancy is a fixed-term tenancy, the date on which the tenancy will terminate.
@@ -380,8 +386,13 @@ Sections 13 to 13B (and, in the case of a boarding house tenancy, section 66C) d
 (4) Subsection (1) shall not apply to any of the following:
   (a) any sum required or received for an option to enter into a tenancy agreement if the sum does not exceed 1 week's rent payable under the agreement, and, upon the option being exercised, the sum is refunded or is applied toward the rent:
   (b) any sum that the landlord is authorised by any other provision of this Act to require or receive:
-  (c) any sum required to be paid by the tenant to or at the direction of the landlord in respect of any fee or other charge for services rendered by any solicitor or letting agent relating to the grant or assignment of the tenancy:
+  (c)
   (d) any payment of a prescribed class.
+
+### 17A Requiring letting fee prohibited
+(1) No letting agent or other person may require a tenant to pay a letting fee.
+(2) Nothing in subsection (1) limits or affects section 44(5) (which entitles a landlord to recover reasonable expenses on consenting to the tenant’s assigning, subletting, or parting with possession of the premises).
+(3) Any requirement to pay a letting fee in contravention of subsection (1) is an unlawful act.
 
 ### 18 Bonds to be no more than 4 weeks' rent
 (1) A landlord shall not require payment by way of bond of an amount greater than 4 weeks' rent lawfully payable under the tenancy agreement.
@@ -1520,6 +1531,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (5) Despite subsection (1), the Tribunal does not have jurisdiction to require any party to pay any sum, or to do any work to a value, or otherwise to incur any expenditure, in excess of $50,000.
 (6) Subsection (5) shall not prevent a party from abandoning so much of a claim as exceeds $50,000 in order to bring the claim within the jurisdiction of the Tribunal; and, in any such case, an order of the Tribunal under this Act in relation to the claim shall operate to discharge from liability in respect of the amount so abandoned any person against whom the claim and the subsequent order is made.
 (7) Subsection (5) does not affect a claim relating to a tenancy that is for a balance of not more than $50,000 that results from a set-off or any counterclaim in respect of the same tenancy, if the set-off or counterclaim is admitted by the claimant in the notice of claim.
+(7A) The Tribunal does not have jurisdiction to consent to a person charging a tenant a letting fee.
 (8) A cause of action shall not be divided into 2 or more claims for the purpose of bringing it within the jurisdiction of the Tribunal.
 
 ### 78 Orders of Tribunal
@@ -2504,6 +2516,15 @@ Other provisions
   (b) may be amended or revoked accordingly by regulations under subsection (1) of section 138B, as replaced by section 6 of the HHG Act.
 (3) In this clause, 2016 insulation regulations means the Residential Tenancies (Smoke Alarms and Insulation) Regulations 2016 to the extent that those regulations are regulations under section 138B disregarding the HHG Act.
 
+### Part Part 3 — Provision relating to Residential Tenancies (Prohibiting Letting Fees) Amendment Act 2018
+
+### 14 Application of section 17A (Requiring letting fee prohibited)
+Section 17A does not apply to—
+  (a) any fee or charge paid or payable before the date of commencement of that section; or
+  (b) any tenancy agreement entered into before that date (whether the tenancy agreement took effect before or takes effect on or after that date); or
+  (c) any assignment or subletting if the landlord consented to the assignment or subletting before that date (whether the assignment or subletting took effect before or takes effect on or after that date); or
+  (d) any amount that is charged in relation to a subletting, if the Tribunal consented to the charge before that date.
+
 ## Schedule 1 — Clauses for rent increases in fixed-term tenancy agreements
 
 ## Schedule 1A — Amounts for unlawful acts
@@ -2514,6 +2535,7 @@ Other provisions
 | 13A(1F) | (Non-compliance with section 13A(1A), etc) | 500 |
 | 16A(6) | (Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days) | 1,000 |
 | 17 | (Requiring key money) | 1,000 |
+| Section 17A | (Requiring letting fee) | 1,000 |
 | 18 | (Landlord requiring bond greater than amount permitted) | 1,000 |
 | 18A | (Requiring unauthorised form of security) | 1,000 |
 | 19(2) | (Breach of duties of landlord on receipt of bond) | 1,000 |
