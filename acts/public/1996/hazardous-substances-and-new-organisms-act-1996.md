@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-12-18_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -3182,6 +3182,8 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | Local ectoparasiticideInsecticideTermiticideTermiticide in buildings and damsTermiticide in roadsAdditive in plywood adhesives |  |
 | Chlordecone*CAS No: 143-50-0 | Production | None |
 | Use | None |  |
+| Decabromodiphenyl ether (BDE-209) present in commercial decabromodiphenyl ether CAS No: 1163-19-5 | Production | As allowed for the Parties listed in the Register |
+| Use | In accordance with Part IX of this Annex:Parts for use in vehicles specified in paragraph 2 of Part IX of this AnnexAircraft for which type approval has been applied for before December 2018 and has been received before December 2022 and spare parts for those aircraft Textile products that require anti-flammable characteristics, excluding clothing and toysAdditives in plastic housings and parts used for heating home appliances, irons, fans, immersion heaters that contain or are in direct contact with electrical parts or are required to comply with fire retardancy standards, at concentrations lower than 10 per cent by weight of the part Polyurethane foam for building insulation |  |
 | Dieldrin*CAS No: 60-57-1 | Production | None |
 | Use | In agricultural operations |  |
 | Endrin*CAS No: 72-20-8 | Production | None |
@@ -3210,6 +3212,8 @@ The enactments specified in Schedule 4 are hereby amended in the manner indicate
 | Use | Articles in use in accordance with the provisions of Part II of this Annex |  |
 | Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthalene | Production | Intermediates in production of polyfluorinated naphthalenes, including octafluoronaphthalene |
 | Use | Production of polyfluorinated naphthalenes, including octafluoronaphthalene |  |
+| Short-chain chlorinated paraffins (Alkanes, C10-13, chloro)+: straight-chain chlorinated hydrocarbons with chain lengths ranging from C10 to C13 and a content of chlorine greater than 48 per cent by weightFor example, the substances with the following CAS numbers may contain short-chain chlorinated paraffins:CAS No. 85535-84-8;CAS No. 68920-70-7;CAS No. 71011-12-6;CAS No. 85536-22-7;CAS No. 85681-73-8;CAS No. 108171-26-2. | Production | As allowed for the Parties listed in the Register |
+| Use | Additives in the production of transmission belts in the natural and synthetic rubber industrySpare parts of rubber conveyor belts in the mining and forestry industriesLeather industry, in particular fatliquoring in leatherLubricant additives, in particular for engines of automobiles, electric generators and wind power facilities, and for drilling in oil and gas exploration and petroleum refining to produce diesel oilTubes for outdoor decoration bulbsWaterproofing and fire-retardant paintsAdhesivesMetal processingSecondary plasticizers in flexible polyvinyl chloride, except in toys and children’s products |  |
 | Technical endosulfan*CAS No: 115-29-7 and its related isomers* CAS No: 959-98-8 and CAS No: 33213-65-9 | Production | As allowed for the parties listed in the Register of Specific Exemptions |
 | Use | Crop-pest complexes as listed in accordance with the provisions of Part VI of this Annex |  |
 | Tetrabromodiphenyl ether* andpentabromodiphenyl ether* | Production | None |
@@ -3253,6 +3257,31 @@ At its sixth ordinary meeting and at every second ordinary meeting thereafter th
 | Wheat | Aphids, termites, pink borer |
 | Groundnuts | Aphids |
 | Mustard | Aphids, gall midge |
+
+### 1.
+The production and use of decabromodiphenyl ether shall be eliminated except for Parties that have notified the Secretariat of their intention to produce and/or use it in accordance with Article 4.
+
+### 2.
+Specific exemptions for parts for use in vehicles may be available for the production and use of commercial decabromodiphenyl ether limited to the following:
+(a) Parts for use in legacy vehicles, defined as vehicles that have ceased mass production, and with such parts falling into one or more of the following categories:
+  (i) Powertrain and under-hood applications such as battery mass wires, battery interconnection wires, mobile air-conditioning (MAC) pipes, powertrains, exhaust manifold bushings, under-hood insulation, wiring and harness under hood (engine wiring, etc.), speed sensors, hoses, fan modules and knock sensors;
+  (ii) Fuel system applications such as fuel hoses, fuel tanks and fuel tanks under body;
+  (iii) Pyrotechnical devices and applications affected by pyrotechnical devices such as air bag ignition cables, seat covers/fabrics (only if airbag relevant) and airbags (front and side);
+  (iv) Suspension and interior applications such as trim components, acoustic material and seat belts.
+(b) Parts in vehicles specified in paragraphs 2 (a) (i)–(iv) above and those falling into one or more of the following categories:
+  (i) Reinforced plastics (instrument panels and interior trim);
+  (ii) Under the hood or dash (terminal/fuse blocks, higher-amperage wires and cable jacketing (spark plug wires));
+  (iii) Electric and electronic equipment (battery cases and battery trays, engine control electrical connectors, components of radio disks, navigation satellite systems, global positioning systems and computer systems);
+  (iv) Fabric such as rear decks, upholstery, headliners, automobile seats, head rests, sun visors, trim panels, carpets.
+
+### 3.
+The specific exemptions for parts specified in paragraph 2 (a) above shall expire at the end of the service life of legacy vehicles or in 2036, whichever comes earlier.
+
+### 4.
+The specific exemptions for parts specified in paragraph 2 (b) above shall expire at the end of the service life of vehicles or in 2036, whichever comes earlier.
+
+### 5.
+The specific exemptions for spare parts for aircraft for which type approval has been applied for before December 2018 and has been received before December 2022 shall expire at the end of the service life of those aircraft.
 
 #### Schedule Annex B — Restriction
 
@@ -3305,7 +3334,7 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 
 | Chemical |
 | --- |
-| Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthaleneHexachlorobenzene (HCB) (CAS No: 118-74-1)Pentachlorobenzene (PeCB) (CAS No: 608-93-5)Polychlorinated biphenyls (PCB) |
+| Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthaleneHexachlorobenzene (HCB) (CAS No: 118-74-1)Hexachlorobutadiene (CAS No: 87-68-3)Pentachlorobenzene (PeCB) (CAS No: 608-93-5)Polychlorinated biphenyls (PCB) |
 
 #### Schedule Annex D — Information requirements and screening criteria
 
@@ -3327,6 +3356,7 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 | ChlordaneCAS No: 57-74-9 |  |  |  |
 | ChlordeconeCAS No: 143-50-0 |  |  |  |
 | DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)CAS No: 50-29-3 |  |  |  |
+| Decabromodiphenyl ether (BDE-209) present in commercial decabromodiphenyl ether CAS No: 1163-19-5 | aparts for use in vehicles, including vehicles containing those parts:baircraft for which type approval has been applied for before December 2018 and has been received before December 2022 and spare parts for those aircraft:carticles where DecaBDE has been used as an additive in plastics (such as in electrical and electronic equipment, wires, cables, and pipes), in textiles (such as in carpets, upholstery, window blinds and curtains, and mattresses), and in adhesives, sealants, and coatings—present in New Zealand before 18 December 2018 |  | aend of the service life of vehicles or in 2036, whichever comes earlier:bend of the service life of those aircraft:c(no expiry date) |
 | DieldrinCAS No: 60-57-1 |  |  |  |
 | EndrinCAS No: 72-20-8 |  |  |  |
 | HeptachlorCAS No: 76-44-8 |  |  |  |
@@ -3339,10 +3369,11 @@ The provisions of note (iii) of Part I of Annex B shall not apply to these chemi
 | MirexCAS No: 2385-85-5 |  |  |  |
 | PentachlorobenzeneCAS No: 608-93-5 |  |  |  |
 | Pentachlorophenol and its salts and esters |  |  |  |
-| Perfluorooctane sulfonic acid (CAS No: 1763-23-1), its salts and perfluorooctane sulfonyl fluoride (CAS No: 307-35-7) |  |  |  |
+| Perfluorooctane sulfonic acid (CAS No: 1763-23-1), its salts, and any derivatives of the formula C8F17SO2X, where X = halide, amide, esters, and other derivatives including polymers |  |  |  |
 | Polychlorinated Biphenyls (PCB) | in accordance with an exemption—agranted under regulation 49I or regulation 49J of the Toxic Substances Regulations 1983; andbthat is in force immediately before the commencement of the Hazardous Substances and New Organisms (Stockholm Convention) Amendment Act 2003 |  | at the expiry of—athe exemption; orban extension of the expiry of the exemption (being not later than the close of 2016) granted by the Authority |
 | Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) |  |  |  |
 | Polychlorinated naphthalenes, including dichlorinated naphthalenes, trichlorinated naphthalenes, tetrachlorinated napthalenes, pentachlorinated napthalenes, hexachlorinated naphthalenes, heptachlorinated naphthalenes, octachlorinated naphthalene |  |  |  |
+| Short-chain chlorinated paraffins (Alkanes, C10-13, chloro): straight-chain chlorinated hydrocarbons with chain lengths ranging from C10 to C13 and a content of chlorine greater than 48 per cent by weight. The listing includes quantities of this chemical that occurs in mixtures at concentrations greater than or equal to 1 per cent by weight, as specified under note (vii) of Part 1 of Annex A of the Stockholm Convention | Articles where SCCPs have been used as additives in rubber and plastic goods, in adhesives and sealants, and as water-proofing and flame-retardant agents for textiles—present in New Zealand before 18 December 2018 |  | (no expiry date) |
 | Technical endosulfan (CAS No: 115-29-7) and its related isomers (CAS No: 959-98-8 and CAS No: 33213-65-9) |  |  |  |
 | Tetrabromodiphenyl ether and pentabromodiphenyl ether |  |  |  |
 | ToxapheneCAS No: 8001-35-2 |  |  |  |
