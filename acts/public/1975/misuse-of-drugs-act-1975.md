@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-12-18_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -11,6 +11,7 @@ _Consolidation as at 2018-10-01_
 (1) In this Act, unless the context otherwise requires,—
   - **approved laboratory** means a laboratory for the time being approved under section 5A
   - **carrier** includes every person engaged in carrying goods (including mail) for hire or reward by any means, and whether by land, water, or air
+  - **CBD product** has the meaning given in section 2A
   - **Class A controlled drug** means the controlled drugs specified or described in Schedule 1
   - **Class B controlled drug** means the controlled drugs specified or described in Schedule 2
   - **Class C controlled drug** means the controlled drugs specified or described in Schedule 3; and includes any controlled drug analogue
@@ -19,6 +20,7 @@ _Consolidation as at 2018-10-01_
     (a) any substance specified or described in Schedule 1 or Schedule 2 or Parts 1 to 6 of Schedule 3; or
     (b) any pharmacy-only medicine or prescription medicine or restricted medicine within the meaning of the Medicines Act 1981; or
     (c) an approved product within the meaning of the Psychoactive Substances Act 2013
+    (d) a non-psychoactive THC analogue
   - **cultivate** includes sow or plant; and has a corresponding meaning
   - **dentist** means a health practitioner who is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry
   - **dependent** means being in a state of periodic or chronic intoxication, produced by the repeated consumption, smoking, or other use of a controlled drug detrimental to the person in relation to whom the word is used, and involving a compulsive desire to continue consuming, smoking, or otherwise using the drug or a tendency to increase the dose of the drug; and has a corresponding meaning
@@ -27,6 +29,14 @@ _Consolidation as at 2018-10-01_
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** means the Minister of Health
+  - **non-psychoactive THC analogue** means a substance that—
+    (a) occurs naturally in cannabis; and
+    (b) is not capable of inducing more than a minor psychoactive effect, by any means, in a person; and
+    (c) has a structure substantially similar to that of—
+      (i) a tetrahydrocannabinol; or
+      (ii) an isomer, ester, or ether of a tetrahydrocannabinol; or
+      (iii) an ester or ether of an isomer of a tetrahydrocannabinol; or
+      (iv) a salt of any substance described in subparagraphs (i) to (iii)
   - **nurse practitioner** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing and whose scope of practice permits the performance of nurse practitioner functions; and
     (b) holds a current practising certificate
@@ -54,10 +64,29 @@ _Consolidation as at 2018-10-01_
   - **veterinarian** means a veterinarian or a specialist within the meaning of section 4 of the Veterinarians Act 2005
   - **Vienna Convention** means the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances adopted in Vienna on 19 December 1988.
 (1A) Any reference in this Act to an amount, level, or quantity at and over which a controlled drug is presumed to be for supply is a reference to the amount, level, or quantity specified in Schedule 5.
+(1B) In this Act, a person requires palliation if, in the opinion of a medical practitioner or nurse practitioner, the person has an advanced progressive life-limiting condition and is nearing the end of their life.
 (2) For the purposes of this Act, the things which a person has in his possession include any thing subject to his control which is in the custody of another.
 (3) In calculating for the purposes of this Act the percentage of any substance present in a preparation, the percentage in the case of a liquid preparation shall, unless otherwise prescribed, be calculated on the basis that a preparation containing 1 part percent of any substance means a preparation in which 1 gram of the substance, if a solid, or 1 millilitre of the substance, if a liquid, is contained in every 100 millilitres of the preparation and so in proportion for any greater or less percentage.
 (4) In calculating for the purposes of this Act the percentage of morphine present in a preparation it shall be calculated as in respect of anhydrous morphine.
 (5) For the purposes of this Act, a salt of any controlled drug shall be deemed to contain that drug.
+
+### 2A Meaning of CBD product
+(1) CBD product means a product that—
+  (a) contains cannabidiol; and
+  (b) either—
+    (i) does not contain a specified substance; or
+    (ii) contains specified substances in an amount that is no more than 2% of the sum of the amount of cannabidiol and the amount of specified substances in the product; and
+  (c) does not contain any other controlled drug; and
+  (d) does not contain any other psychoactive substance (as defined in section 9 of the Psychoactive Substances Act 2013).
+(2) In this section, specified substance means a substance that—
+  (a) naturally occurs in cannabis; and
+  (b) is—
+    (i) a tetrahydrocannabinol; or
+    (ii) an isomer, ester, or ether of a tetrahydrocannabinol; or
+    (iii) an ester or ether of an isomer of a tetrahydrocannabinol; or
+    (iv) a salt of any substance described in subparagraphs (i) to (iii); or
+    (v) a substance that has a structure substantially similar to that of any substance described in subparagraphs (i) to (iv); and
+  (c) for substances listed in paragraph (b)﻿(ii) to (v), is capable of inducing more than a minor psychoactive effect, by any means, in a person.
 
 ### 3 Act to bind the Crown
 (1) Subject to subsection (2), this Act shall bind the Crown.
@@ -210,7 +239,8 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (3) In any proceedings for an offence against this section in respect of the possession of a controlled drug, in which it is proved that the defendant had a controlled drug in his possession, it shall be a defence for him to prove—
   (a) that, knowing or suspecting it to be a controlled drug, he took possession of it for the purpose of preventing another from committing or continuing to commit an offence in connection with that drug and that as soon as possible after taking possession of it he took all reasonable steps to destroy the drug or to deliver it into the possession of a person lawfully entitled to have possession of it; or
   (b) that, knowing or suspecting it to be a controlled drug, he took possession of it for the purpose of delivering it into the possession of a person lawfully entitled to have possession of it and that as soon as possible after taking possession of it he took all reasonable steps to deliver it into the possession of such a person.
-(4) Nothing in subsection (3) shall prejudice any defence which it is open to a person charged with an offence against this section to raise apart from that subsection.
+(3A) In any proceedings for an offence against subsection (1)﻿(a) in respect of possessing or using any plant or plant material of the genus Cannabis or any cannabis preparation, the defendant has a defence if, at the time of the possession or use, the defendant had been diagnosed by a medical practitioner or nurse practitioner as requiring palliation.
+(4) Nothing in subsection (3) or (3A) shall prejudice any defence which it is open to a person charged with an offence against this section to raise apart from that subsection.
 
 ### 8 Exemptions from sections 6 and 7
 (1) Despite sections 6 and 7,—
@@ -244,6 +274,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (a) section 22; or
   (b) any prohibitions, limitations, restrictions, or conditions imposed under that section; or
   (c) any other enactment.
+(6A) Despite section 7(1)﻿(a), a person who has a certificate from a medical practitioner or nurse practitioner certifying that the person requires palliation may procure, possess, consume, smoke, or otherwise use any plant or plant material of the genus Cannabis or any cannabis preparation.
 (7) In this section,—
   (a) a reference to a person of any of the following descriptions is a reference to that person acting in the course of his or her practice or employment:
     (i) medical practitioner:
@@ -465,6 +496,7 @@ Defence
     (iii) other than a needle or syringe that he or she obtained in accordance with any regulations made under section 37 that regulate the sale, exchange, or supply of needles or syringes; or
     (iv) other than a needle or syringe that the acquirer obtained on his or her behalf in accordance with any regulations made under section 37 that regulate the sale, exchange, or supply of needles or syringes; or
   (b) except as may be provided by regulations made under this Act, has in his possession the seed or fruit (not in either case being a controlled drug) of any prohibited plant which he is not authorised under this Act to cultivate.
+(1A) However, in any proceedings for an offence against subsection (1)﻿(a) of possessing a pipe or other utensil (not being a needle or syringe) for the purpose of possessing or using any plant or plant material of the genus Cannabis or any cannabis preparation, the defendant has a defence if, at the time of possessing the pipe or other utensil, the defendant had been diagnosed by a medical practitioner or nurse practitioner as requiring palliation.
 (2) Subsection (4) of section 9 shall apply in relation to a charge under paragraph (b) of subsection (1) of this section as if, in the said subsection (4), a reference to the seed or fruit of a prohibited plant were substituted for the reference to the prohibited plant.
 (2A) No pharmacist, pharmacy employee, approved medical practitioner, or authorised representative commits an offence by selling or supplying any needle or syringe in accordance with any regulations made under section 37 that regulate the sale, exchange, or supply of needles or syringes.
 (3) Every person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $500 or to both.
@@ -774,6 +806,18 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
     (iii) the Vienna Convention; or
   (b) that the Government of any country is or is not, or was or was not, at any material time, responsible for the international relations of any territory,—
 
+**Review of certain provisions**
+
+### 35E Review and report on operation of sections 7(3A), 8(6A), and 13(1A)
+(1) The Minister must, not later than 2 years after the commencement of this section, require the Ministry of Health—
+  (a) to commence a review of the operation of sections 7(3A), 8(6A), and 13(1A) since the commencement of those subsections; and
+  (b) to prepare a report on the review for the Minister.
+(2) The review and report required under subsection (1) must be completed within 12 months of the review commencing.
+(3) As soon as practicable after receiving the report, the Minister must present a copy of it to the House of Representatives.
+(4) The report on the review must include recommendations to the Minister on—
+  (a) the implementation of the exception and defences provided by sections 7(3A), 8(6A), and 13(1A) for people who require palliation; and
+  (b) whether any amendments to those provisions are necessary or desirable.
+
 ### 36 Application of Customs and Excise Act 2018
 (1) Sections 176, 178, 191, 199, 205, 206, 210, 211, 212, 213, 214, 215, 220, 221, 224, 225, 227, 231, 237, 244, 245, 247, 248, 249, and 252 of the Customs and Excise Act 2018 apply in relation to the controlled drugs and precursor substances referred to in subsection (2) as if they were prohibited imports or exports under that Act.
 (2) The controlled drugs and precursor substances are—
@@ -810,6 +854,17 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
 (2) Any regulations made under subsection (1) may—
   (a) be expressed to apply to controlled drugs generally, or to particular controlled drugs or classes of controlled drugs specified or described in the regulations, and may make different provision for different controlled drugs or classes of controlled drugs so specified or described:
   (b) provide for depriving persons of any rights, privileges, or exemptions, conferred on any class of person to which those persons belong, by any such regulations.
+
+### 37A Regulations setting minimum quality standards
+(1) Without limiting section 37, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to prescribe the minimum quality standard that must be met by a product or class of product—
+  (a) that contains a controlled drug; and
+  (b) that may be cultivated, manufactured, produced, imported, or supplied under a licence granted under this Act.
+(2) Regulations made under this section may prescribe minimum quality standards for the product or for the processes by which the product is cultivated, manufactured, produced, imported, or supplied.
+(3) Regulations made under this section may—
+  (a) apply generally to a product or class of products; or
+  (b) apply to a product or class of products only if specified criteria are met.
+(4) Regulations made under this section that relate to products that contain any part of any plant of the genus Cannabis, cannabis fruit, or cannabis seed must not require that the variety of plant contained in the product was brought into New Zealand with authorisation, if the variety is established in New Zealand at the time the product is manufactured or produced.
+(5) The Minister must, no later than 1 year after the date on which the Misuse of Drugs (Medicinal Cannabis) Amendment Act 2018 comes into force, recommend the making of regulations under this section that relate to products that contain any part of any plant of the genus Cannabis, cannabis fruit, or cannabis seed.
 
 ### 38 Effect on Poisons Act 1960
 [Repealed]
@@ -887,21 +942,21 @@ Substances containing any proportion of a substance mentioned in clause 1, claus
 - **25C-NBOMe** (2-(4-chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)
 - **25I-NBOMe** (2-(4-iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine)
 - **Amphetamine** (2-amino-1-phenylpropane)
-- **Cannabis** preparations: that is, any preparation containing any tetrahydrocannabinols, including cannabis resin (commonly known as hashish) and cannabis oil (commonly know as hash oil), produced by subjecting cannabis plant material to any kind of processing
+- **Cannabis** preparations: that is, any preparation containing any tetrahydrocannabinols, including cannabis resin (commonly known as hashish) and cannabis oil (commonly know as hash oil), produced by subjecting cannabis plant material to any kind of processing (but does not include a CBD product)
 - **MDMA** (2-methylamino-1-(3,4-methylenedioxyphenyl) propane)
 - **Methcathinone**
 - **Morphine**
 - **Opium**
-- **Tetrahydrocannabinols** , except when contained in a Class C controlled drug.
+- **Tetrahydrocannabinols** , except when contained in a Class C controlled drug or a CBD product.
 
 ### 2
-The isomers of the substances mentioned in clause 1 whenever the existence of such isomers is possible within the specific chemical designation.
+The isomers of the substances mentioned in clause 1 whenever the existence of such isomers is possible within the specific chemical designation, except for isomers of tetrahydrocannabinols if the isomers naturally occur in cannabis and are not capable of inducing more than a minor psychoactive effect, by any means, in a person.
 
 ### 3
-The esters and ethers of the substances mentioned in clause 1 and the esters and ethers of the isomers mentioned in clause 2 whenever the existence of such esters or ethers is possible.
+The esters and ethers of the substances mentioned in clause 1 and the esters and ethers of the isomers mentioned in clause 2 whenever the existence of such esters or ethers is possible, except for esters and ethers of tetrahydrocannabinols or of isomers of tetrahydrocannabinols if the esters and ethers naturally occur in cannabis and are not capable of inducing more than a minor psychoactive effect, by any means, in a person.
 
 ### 4
-The salts of the substances mentioned in clause 1 and the salts of the isomers, esters, and ethers mentioned in clause 2 or clause 3.
+The salts of the substances mentioned in clause 1 and the salts of the isomers, esters, and ethers mentioned in clause 2 or clause 3, except for the salts of tetrahydrocannabinols or the salts of the substances excluded from clauses 2 and 3 if the salts naturally occur in cannabis and are not capable of inducing more than a minor psychoactive effect, by any means, in a person.
 
 ### 5
 Substances containing any proportion of a substance mentioned in clause 1, clause 2, clause 3, or clause 4.
