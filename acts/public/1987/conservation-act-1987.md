@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-12-19_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -348,8 +348,10 @@ As soon as practicable after 30 June in every year, every Board shall furnish th
   (d) 1 member appointed by the Minister on the recommendation of the Waiohua Tāmaki rōpū entity (as defined in section 8(1) of the Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014).
 (4B) Subsection (3) does not apply to the appointments made by the Minister to the Board whose jurisdiction is described in subsection (4A).
 (5) The Board whose area of jurisdiction includes the Tongariro National Park shall consist of—
-  (a) not more than 11 persons appointed under subsection (2); and
-  (b) the paramount chief for the time being of the Ngati Tuwharetoa Tribe of the Maori race, if that chief is a lineal descendant of Te Heuheu Tukino, the donor on behalf of his associated Chiefs of the Tribe of certain Maori land included in the area of the park, or, if the paramount chief for the time being of that tribe is not a lineal descendant of Te Heuheu Tukino, a lineal descendant of Te Heuheu Tukino appointed by the Minister.
+  (a) not more than 10 persons appointed under subsection (2); and
+  (b) the paramount chief for the time being of the Ngati Tuwharetoa Tribe of the Maori race, if that chief is a lineal descendant of Te Heuheu Tukino, the donor on behalf of his associated Chiefs of the Tribe of certain Maori land included in the area of the park, or, if the paramount chief for the time being of that tribe is not a lineal descendant of Te Heuheu Tukino, a lineal descendant of Te Heuheu Tukino appointed by the Minister; and
+  (c) 1 person nominated by the trustees of Te Kotahitanga o Ngāti Tūwharetoa.
+(5A) The Minister must, before making an appointment under subsection (2) to the Board whose area of jurisdiction includes Tongariro National Park, also have regard to any endorsement by the trustees of Te Kotahitanga o Ngāti Tūwharetoa of a person to be a member of the Board.
 (6) The Board whose area of jurisdiction includes the Egmont National Park shall consist of—
   (a) not more than 11 persons appointed under subsection (2); and
   (b) 1 person to be appointed by the Minister on the recommendation of the Taranaki Maori Trust Board.
