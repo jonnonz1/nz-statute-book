@@ -1,5 +1,5 @@
 # Subordinate Legislation Confirmation Act 2018
-_Consolidation as at 2018-06-19_
+_Consolidation as at 2018-12-19_
 
 ### 1 Title
 This Act is the Subordinate Legislation Confirmation Act 2018.
