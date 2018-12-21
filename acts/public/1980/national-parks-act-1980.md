@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-12-21_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -39,6 +39,10 @@ In this Act, unless the context otherwise requires,—
   - **foreshore** means any land covered and uncovered by the flow and ebb of the tide at mean spring tides
   - **guide dog** means a dog certified by the Royal New Zealand Foundation of the Blind as being a guide dog or a dog under training as a guide dog
   - **indigenous animal** means a native animal
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence in subpart 1 of Part 7A; or
+    (b) an offence against bylaws made under this Act that is declared by regulations to be an infringement offence
   - **land district** means a land district constituted under section 22 of the Land Act 1948
   - **lease** —and has a corresponding meaning
     (a) means—
@@ -691,10 +695,18 @@ Any local authority may from time to time make contributions out of its general 
     (i) where, under the Protected Objects Act 1975, it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with his consent, kept in the custody of the Director-General:
     (ii) in any other case, it shall be delivered to the person who is entitled to its custody under the Protected Objects Act 1975:
   (c) in the case of any other item, it shall be forfeited to the Crown.
+(4A) Subsection (4) applies as if a person were convicted of an offence if an infringement notice is issued to the person or a charging document is filed against the person in relation to an infringement offence and any of the following occurs:
+  (a) the infringement fee for the offence is paid:
+  (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months after the time when the offence is alleged to have been committed:
+  (c) the informant and the person enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the person to pay the relevant infringement fee by instalments:
+  (d) the person is found guilty, or admits the commission, of the infringement offence.
 (5) All buildings, signs, hoardings, fences, or apparatus erected in any park without the written consent of the Minister shall be forfeited to the Crown.
 (6) Any chainsaw, firearm, trap, net, or other like item found in the unlawful possession of any person in any park, and any item found in the possession of any person in any park and used in committing an offence in the park, may be seized by any ranger.
 (7) Subject to subsection (3), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply.
-(8) Where proceedings are taken against the person from whom the item was seized within 6 months of the seizure of the item, the item must, when the proceedings are completed, be returned to that person, unless the court, if it enters a conviction, directs that the item must be forfeited to the Crown.
+(8) A court may direct that an item seized under subsection (6) be forfeited to the Crown if—
+  (a) proceedings for an offence are taken against the person from whom the item was seized within 6 months after the seizure and the court enters a conviction against the person; or
+  (b) proceedings for an infringement offence are commenced against the person from whom the item was seized by filing a charging document within 6 months after the seizure and the person is found guilty, or admits the commission, of an infringement offence.
+(8A) If proceedings are not commenced within 6 months after the seizure, or if the court does not direct that the item be forfeited to the Crown, the item must be returned to the person from whom it was seized.
 (9) Every item that is forfeited to the Crown under this section shall be returned to the park or sold or otherwise disposed of in such manner as the Minister directs.
 (10) The proceeds of the sale or disposal of anything sold or otherwise disposed of under this section shall be dealt with under section 57 as if it were money received under this Act.
 
@@ -716,12 +728,18 @@ Any local authority may from time to time make contributions out of its general 
 ### 63 Offences in respect of rangers
 Every person commits an offence against this Act who—
   (a) wilfully obstructs a ranger while acting in the execution of any of the functions, powers, or duties conferred or imposed on him by this Act:
-  (b) after being found offending against this Act or any bylaw made under this Act and being required to disclose his true name and address by a ranger refuses to disclose his true name and address:
+  (b) fails to state information or produce evidence required under section 64A:
   (c) not being a ranger, represents himself to be a ranger.
 
-### 64 Powers of rangers
+### 64 Power to interfere to prevent offending
 (1) Any ranger may summarily interfere to prevent any offence against this Act or any bylaw made under this Act, and may require any person found offending to desist from the offence.
 (2) If any person when required to desist from an offence against this Act continues the offence, he commits a further offence against this Act.
+
+### 64A Power to require information
+(1) This section applies if a ranger believes on reasonable grounds that a person has committed or is committing an offence against this Act or any bylaws made under this Act.
+(2) The ranger may require the person to—
+  (a) state the person’s full name, residential address, and date of birth; and
+  (b) provide evidence, as soon as practicable, of the person’s full name, residential address, and date of birth.
 
 ### 65 Ranger may stop and search boats, vehicles, premises, and possessions in park
 (1) Any ranger may, in the exercise of his functions, powers, and duties within any park, at any time that is reasonable in the circumstances,—
@@ -786,7 +804,7 @@ Every person who commits an offence against this Act for which no penalty is pre
   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
 
 ### 70A Sentence of community work
-A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+A court may sentence any individual who is convicted of an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 71 Removal and disposal of abandoned boats and vehicles, and vehicles parked in prohibited places
 (1) Any officer or employee of the Department who has reasonable cause to believe that any boat or vehicle has been abandoned in a park may remove it or cause it to be removed to any place authorised by the Minister for that purpose.
@@ -806,6 +824,113 @@ A court may sentence any individual who commits an offence against this Act to a
 (7) The proceeds of the sale of any vehicle sold in accordance with this section shall be the property of the Crown and shall be paid into a Crown Bank Account and applied under section 57 as if it were money received under this Act.
 (8) For the purposes of this section, and without limiting the meaning of the term abandoned, a boat or vehicle shall be deemed to have been abandoned if it is left unused for a period of more than 1 month without the approval of the Minister.
 (9) In this section expressions defined in the Land Transport Act 1998 have, in relation to any motor vehicle, the meanings so defined.
+
+## Part 7A — Infringement offences
+
+### 71A Relationship with other offences
+Nothing in this Part prevents the prosecution of, and conviction for, an offence in any other Part of this Act (instead of proceeding under this Part).
+
+### Subpart 1 — Infringement offences
+
+### 71B Specially protected areas
+(1) A person must not—
+  (a) enter or remain in a specially protected area, except under the authority of a permit issued under section 13; or
+  (b) fail to comply with a condition contained in a permit.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 71C Control of dogs
+(1) An owner or a person in charge of a dog must not—
+  (a) allow the dog to be in a national park in contravention of section 56A; or
+  (b) fail to comply with a condition of a dog control permit.
+(2) A person who is authorised by or under this Act to take a dog into a national park must keep a dog that the person takes into a national park under proper control.
+(3) For the purposes of subsection (2), a dog is deemed not to be under proper control if it is found at large in a national park.
+(4) Subsection (3) does not limit subsection (2).
+(5) A person who fails to comply with this section commits an infringement offence.
+
+### 71D Unauthorised actions in parks
+(1) A person must not, without being authorised by the Minister or by a bylaw made under this Act,—
+  (a) cause or allow any animal owned by the person or under the person’s control to enter any park; or
+  (b) liberate any animal in any park; or
+  (c) plant any plant, or sow or scatter the seed of any plant, or introduce any substance that is injurious to plant or animal life, in any park; or
+  (d) remove or damage any, or any part of any, plant, stone, mineral, gravel, kauri gum, protected New Zealand object, or relic in any park; or
+  (e) dig, cut, excavate, or damage the turf in any park; or
+  (f) occupy or use any land in a park for cultivation or any other purpose; or
+  (g) damage or deface any fence, building, or apparatus in any park; or
+  (h) take, destroy, injure, disturb, or interfere with any native animal, or the nest or eggs of any native animal, in any park; or
+  (i) erect any building, sign, hoarding, or apparatus in any park; or
+  (j) in any way interfere with or damage the natural or historic features of any park; or
+  (k) contravene or fail to comply with a term or condition imposed by the Minister under section 51A.
+(2) A person must not, without being authorised by the Minister, be in possession of any chainsaw or any firearm, trap, net, or other similar object in a park.
+(3) A person must not—
+  (a) conduct in any park any activity for which a concession is required under this Act without the required concession; or
+  (b) do or cause to be done any act, matter, or thing for which a right or authority is required by this Act without the required right or authority.
+(4) A person who fails to comply with this section commits an infringement offence.
+
+### 71E Using or receiving items removed unlawfully from park
+(1) A person must not use, receive, or dispose of an item removed from a park in contravention of section 71D(1)﻿(d) or (h).
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 71F Altering boundary marks or items issued by Minister or Department
+(1) A person must not unlawfully alter, obliterate, deface, pull up, remove, interfere with, or destroy any boundary marks, or any stamp, mark, sign, poster, intentions book, concession, or other right or authority issued by the Minister or the Department.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 71G Failure to remove animal, vehicle, aircraft, or boat
+(1) An owner or a person in control of an animal must comply with a notice from the Minister or Director-General requiring the person to remove the animal from a park.
+(2) A driver of any vehicle or the pilot of any aircraft or the person in charge of any boat that is illegally in a park must remove the vehicle, aircraft, or boat from the park when required to do so by a ranger.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 71H Littering
+(1) A person must not deposit litter in a park.
+(2) A person who fails to comply with this section commits an infringement offence.
+(3) In this section,—
+  - **deposit** has a corresponding meaning to the meaning of depositing in section 2(1) of the Litter Act 1979
+  - **litter** has the meaning given in section 2(1) of the Litter Act 1979.
+
+### Subpart 2 — Procedural matters
+
+### 71I Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 71K.
+(2) If an infringement notice has been issued under section 71K, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 71J Who may issue infringement notices
+The Director-General may authorise a ranger, in writing, to issue infringement notices under this Act.
+
+### 71K Infringement notices
+(1) A ranger authorised under section 71J may issue an infringement notice to a person if the ranger believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The ranger may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 71L Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 71M Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 71N Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
+
+### Subpart 3 — Regulations
+
+### 71O Regulations relating to infringement offences
+The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) prescribing infringement offences for the contravention of bylaws made under this Act:
+  (b) prescribing penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
+  (c) prescribing information to be included in infringement notices and reminder notices.
 
 ## Part 8 — Miscellaneous provisions
 
