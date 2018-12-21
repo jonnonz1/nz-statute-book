@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2018-12-21_
 
 > An Act to reform the administration of education
 
@@ -8468,8 +8468,8 @@ The Teaching Council must register an applicant under section 352 if satisfied t
   (c) is satisfactorily trained to teach; and
   (d) meets the criteria for teacher registration established under section 382(1)﻿(e); and
   (e) either—
-    (i) has not been convicted of a specified offence as defined in section 23(1) of the Vulnerable Children Act 2014; or
-    (ii) has been granted an exemption under section 35 of the Vulnerable Children Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act.
+    (i) has not been convicted of a specified offence as defined in section 23(1) of the Children’s Act 2014; or
+    (ii) has been granted an exemption under section 35 of the Children’s Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act.
 
 ### 354 Determining whether training satisfactory
 (1) In determining whether a person is satisfactorily trained to teach, the Teaching Council may take into account any relevant matters.
@@ -8622,8 +8622,8 @@ The purpose of granting a limited authority to teach is to enable employers to h
 (4) In this section, suitable disposition, in relation to an applicant, means the applicant—
   (a) is of good character and fit to hold a limited authority to teach; and
   (b) either—
-    (i) has not been convicted of a specified offence as defined in section 23(1) of the Vulnerable Children Act 2014; or
-    (ii) has been granted an exemption under section 35 of the Vulnerable Children Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act.
+    (i) has not been convicted of a specified offence as defined in section 23(1) of the Children’s Act 2014; or
+    (ii) has been granted an exemption under section 35 of the Children’s Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act.
 
 ### 367 Cancellation of limited authority to teach
 (1) The Teaching Council must cancel a person's limited authority to teach if—
