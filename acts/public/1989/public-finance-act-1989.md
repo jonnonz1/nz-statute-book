@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2018-09-28_
+_Consolidation as at 2018-12-21_
 
 > Title
 
@@ -460,8 +460,14 @@ Except as otherwise provided by a resolution of the House of Representatives, th
   (c) the amount of the capital injection.
 (2) Subsection (1) does not apply to a capital injection to an intelligence and security department.
 
+### 15EA Main Appropriation Bill: supporting information relating to child poverty
+(1) The supporting information for the main Appropriation Bill must include a report on child poverty.
+(2) The report must—
+  (a) discuss any progress made, in the most recent completed financial year, in reducing child poverty consistent with the targets under the Child Poverty Reduction Act 2018; and
+  (b) indicate whether and, if so, to what extent, measures in or related to that Bill will affect child poverty.
+
 ### 15F Minister may present further supporting information
-The Minister may, in addition to the information referred to in sections 15 to 15E, include in the supporting information for the main Appropriation Bill any further information that the Minister considers necessary or desirable.
+The Minister may, in addition to the information referred to in sections 15 to 15EA, include in the supporting information for the main Appropriation Bill any further information that the Minister considers necessary or desirable.
 
 ### 16 Supplementary Estimates and supporting information must be presented with Supplementary Appropriation Bill
 (1) The Minister must present to the House of Representatives the Supplementary Estimates on the day of the introduction of an Appropriation Bill that is other than—
@@ -510,7 +516,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 ### 18 Minister must consult on proposal to change format or content of information presented with Appropriation Bills
 (1) This section applies if the Minister proposes to significantly change the format or content of—
   (a) the Estimates (see section 14); or
-  (b) the supporting information for a main Appropriation Bill (see sections 15 to 15E); or
+  (b) the supporting information for a main Appropriation Bill (see sections 15 to 15EA); or
   (c) the Supplementary Estimates (see section 17); or
   (d) the supporting information for a supplementary Appropriation Bill (see sections 17A and 17B).
 (2) Before giving effect to the proposal, the Minister must—
@@ -522,7 +528,7 @@ The Minister may, in addition to the information referred to in sections 15 to 1
 ### 19 Power of Secretary to obtain information
 (1) The Secretary may request a department, a departmental agency, or an entity referred to in section 27(3)﻿(a) to (f), or an entity that manages an asset or liability of the Crown, to supply to the Secretary any information that is necessary to enable the preparation of—
   (a) the Estimates; or
-  (b) the supporting information for a main Appropriation Bill (see sections 15 to 15E); or
+  (b) the supporting information for a main Appropriation Bill (see sections 15 to 15EA); or
   (c) the Supplementary Estimates (see section 17); or
   (d) the supporting information for a supplementary Appropriation Bill (see sections 17A and 17B).
 (2) A request under subsection (1)—
@@ -2250,6 +2256,14 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 
 ### 9 Transitional provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
 [Repealed]
+
+### Part 3 — Provision relating to Child Poverty Reduction Act 2018
+
+### 10 Report on child poverty: required for and after Budget for 2019/20
+(1) The report on child poverty required by section 15EA is required only for the main Appropriation Bill for—
+  (a) the financial year commencing on 1 July 2019; or
+  (b) a later financial year.
+(2) Despite subclause (1), the report on child poverty required by section 15EA for the main Appropriation Bill for the financial year commencing on 1 July 2019 is required to comply with section 15EA(2)﻿(a) only if, and after, the first targets are set under the Child Poverty Reduction Act 2018.
 
 ## Schedule 2 — Enactments repealed
 
