@@ -1,5 +1,5 @@
 # Trade in Endangered Species Act 1989
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-12-21_
 
 > An Act to further the protection and conservation of endangered species of wild fauna and flora by regulating the export and import of such species and any product derived from those species
 
@@ -15,6 +15,7 @@ The object of this Act is to enable New Zealand to fulfil its obligations under 
   - **aerodrome** means any defined area of land or water intended or designed to be used either wholly or partly for the landing, departure, movement, and servicing of aircraft, and includes any buildings, installations, and equipment on or adjacent to any such area used in connection with the aerodrome or its administration
   - **aircraft** means any machine that can derive support in the atmosphere from the reaction of the air
   - **animal** means any member of the animal kingdom, including without limitation any mammal, fish, bird, amphibian, reptile, mollusc, arthropod, or other invertebrate, but does not include human beings
+  - **border infringement offence** means an infringement offence specified as a border infringement offence by regulations made under this Act
   - **Convention** means the Convention on International Trade in Endangered Species of Wild Fauna and Flora signed at Washington, DC, on 3 March 1973
   - **cruel treatment** , in relation to any animal, means the infliction upon the animal of pain or suffering that in its kind or degree, or in its object, or in the circumstances in which it is inflicted, is unreasonable or unnecessary
   - **Department** means the Department of Conservation
@@ -24,6 +25,10 @@ The object of this Act is to enable New Zealand to fulfil its obligations under 
   - **exploited species** means any species exploited by trade, being the species specified in Schedule 3
   - **export** means the shipment of any specimen in any vehicle to a country outside New Zealand; but does not include the re-export of any specimen or the shipment in transit of any specimen outside New Zealand
   - **import** means the shipment of any specimen in any vehicle into the territorial limits of New Zealand; but does not include the introduction from the sea of any specimen or the shipment in transit of any specimen into the territorial limits of New Zealand
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence in section 50A; or
+    (b) an offence against regulations made under this Act that is declared by regulations to be an infringement offence
   - **introduce from the sea** means introduce into New Zealand a specimen from any marine environment not under the jurisdiction of any country
   - **management authority** means,—
     (a) in relation to New Zealand, the Director-General; and
@@ -348,6 +353,12 @@ The Director-General may, after (if necessary) consultation with the appropriate
 (3) A search warrant is also required pursuant to subsection (2) in the case of entry to any other land or premises for the purpose of the exercise of the power under section 37(1)﻿(d).
 (4) The provisions of Part 4 of the Search and Surveillance Act 2012 apply.
 
+### 38AA Power to require information
+(1) This section applies if an officer believes on reasonable grounds that a person has committed an offence against this Act.
+(2) The officer may require the person to—
+  (a) state the person’s full name, residential address, and date of birth; and
+  (b) provide evidence, as soon as practicable, of the person’s full name, residential address, and date of birth.
+
 ### 38A Application of Customs and Excise Act 2018
 Sections 210, 211, 214, 251, and 252 of the Customs and Excise Act 2018 apply in relation to the importation or exportation of any endangered, threatened, or exploited species as if the endangered, threatened, or exploited species were a prohibited import or prohibited export within the meaning of that Act.
 
@@ -431,13 +442,15 @@ Subject to subsection (1) of section 39 and subsections (1) and (2) of section 4
 (1) It is the duty of all officers and employees of every postal operator within the meaning of the Postal Services Act 1998 to assist in carrying out the provisions of this Part and to prevent the import into and export from New Zealand of any specimen of an endangered, threatened, or exploited species otherwise than in accordance with this Act.
 (2) Where any postal article (within the meaning of the Postal Services Act 1998) is delivered, pursuant to section 10(2)﻿(c) of that Act, to the Director-General or to such other person as the Director-General has directed, the provisions of this Act, so far as applicable and with all necessary modifications, apply as if the postal article had been seized, pursuant to subsection (2) or subsection (3) of section 39 of this Act (whichever subsection is applicable), on the date of that delivery.
 
-## Part 4 — Miscellaneous provisions
+## Part 4 — Offences and infringement offences
 
 ### 43A Taking and analysis of samples of specimens
 (1) Where, in any application made under this Act, a question arises as to whether a specimen of any animal has been bred in captivity and the Director-General has reasonable cause to suspect that the specimen has not been bred in captivity, the Director-General may, prior to making a decision on the application, require that any specimen be subject to the taking of such samples for the purpose of such analysis as the Director-General considers necessary to determine whether the specimen concerned has been bred in captivity.
 (2) Subject to subsection (3), such samples are to be taken by and under the supervision of such person or persons as the Director-General specifies.
 (3) Every such sample from a live animal must be taken by a veterinary surgeon where requested by the owner or person in charge of the animal.
 (4) The Director-General may require an applicant to bear the cost of taking and analysis of samples required pursuant to this section.
+
+**Offences**
 
 ### 44 Trading in endangered, threatened, or exploited species without permit or certificate
 (1) Every person commits an offence who—
@@ -480,8 +493,10 @@ Subject to subsection (1) of section 39 and subsections (1) and (2) of section 4
   (b) recklessly makes a statement that is false in a material particular.
 (2) Every person who commits an offence against subsection (1) is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $5,000.
 
-### 48 Obstructing or hindering officer
-Every person commits an offence against this Act who intentionally obstructs or hinders any officer in the performance of his or her duty under this Act.
+### 48 Obstructing or hindering officer and refusing to give information
+A person commits an offence if the person—
+  (a) intentionally obstructs or hinders any officer in the performance of the officer’s duty under this Act; or
+  (b) refuses to give information or provide evidence required under section 38AA.
 
 ### 49 General offence
 Every person who commits an offence against this Act for which no penalty is provided otherwise than in this section is liable, on conviction, to a fine not exceeding $2,000.
@@ -489,15 +504,97 @@ Every person who commits an offence against this Act for which no penalty is pro
 ### 50 Onus of proof in respect of certain offences
 Where any person is charged with an offence against this Act arising out of his or her doing, without a permit or certificate, any action for which a permit or certificate is required, the onus shall be on that person to prove that at the relevant time he or she held the required permit or certificate.
 
-### 51 Forfeiture of property on conviction
-(1) Subject to subsection (2), on the conviction of any person for any offence against this Act,—whether or not they have been seized, taken possession of, or detained under section 39, shall be forfeit to the Crown, and disposed of,—
+**Infringement offences**
+
+### 50A Infringement offences
+(1) A person must not—
+  (a) trade in any specimen of an endangered species without the appropriate permit or certificate granted under any of sections 13 to 16; or
+  (b) trade in any specimen of a threatened species without the appropriate permit or certificate granted under any of sections 17 to 20; or
+  (c) trade in any specimen of an exploited species without the appropriate permit or certificate granted under any of sections 21 to 24; or
+  (d) possess, or have under the person’s control although under the custody of another person, any specimen of an endangered, threatened, or exploited species that has been imported or introduced from the sea into New Zealand otherwise than in accordance with this Act; or
+  (e) fail to comply with any of the conditions specified by the Director-General in respect of any permit or certificate granted to the person under Part 1.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 50B Relationship between infringement offences and other offences
+Nothing in section 50A prevents the prosecution of, and conviction for, an offence in any other section of this Act (instead of proceeding under section 50A).
+
+### 50C Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 50E.
+(2) If an infringement notice has been issued under section 50E, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 50D Who may issue infringement notices
+The Director-General may authorise an officer or a warranted officer under the Conservation Act 1987, in writing, to issue infringement notices under this Act.
+
+### 50E Infringement notices
+(1) An officer authorised under section 50D may issue an infringement notice to a person if the officer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The officer may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 50F Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 50G Accelerated procedure for border infringement offences
+(1) This section applies if an infringement notice has been issued to a person for a border infringement offence.
+(2) Any employee of the Department (not necessarily the officer who issued the infringement notice) may serve the infringement notice on the person by—
+  (a) delivering the notice (or a copy of it) to the person personally; or
+  (b) sending the notice (or a copy of it) to the person by post addressed to the defendant’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2)﻿(b) is to be treated as having been served on that person when it was posted.
+(4) If the infringement notice is served by delivering it to the person at a port, the person may choose to immediately pay the infringement fee in the manner specified in the notice.
+(5) An employee of the Department may, after a period of 14 days from the date the infringement notice was delivered or posted to the person, provide particulars of an infringement notice in accordance with section 21(4) and (4A) of the Summary Proceedings Act 1957 if—
+  (a) the person has not paid the infringement fee for the offence; and
+  (b) the person has not requesting a hearing in respect of the offence.
+(6) In an infringement notice has been served under this section, the Summary Proceedings Act 1957 applies as if that notice were a reminder notice served under section 21(2) of that Act, and the provisions of that Act apply, with all necessary modifications, to the alleged offence as if—
+  (a) the reference in section 21(1)﻿(b) to providing particulars of a reminder notice were a reference to providing particulars of the infringement notice under subsection (5) of this section; and
+  (b) section 21(3) were replaced with subsection (5) of this section; and
+  (c) the reference in section 21(3A) to the particulars of a reminder notice not having been provided under section 21(3) were a reference to the particulars of the infringement notice not having been provided under subsection (5) of this section; and
+  (d) every reference in section 21(4), (4A), and (4B) to particulars of a reminder notice were a reference to the particulars of an infringement notice and every reference to the contents of a reminder notice were a reference to the contents of an infringement notice; and
+  (e) the reference in section 21(4)﻿(a) to parts of the reminder notice were a reference to parts of the infringement notice; and
+  (f) the reference in section 21(4C) to particulars of a reminder notice were a reference to particulars of an infringement notice; and
+  (g) the reference in section 21(4C) to the reminder notice were a reference to the infringement notice; and
+  (h) the reference in section 21(5) to the verification of particulars of a reminder notice provided under section 21(3) were a reference to the verification of particulars of an infringement notice provided under subsection (5) of this section; and
+  (i) the references in section 21(6)﻿(b) and (10)﻿(a) to a period of 28 days after the service of a reminder notice were references to the period of 14 days after the service of the infringement notice; and
+  (j) each reference in sections 21A and 78B to a reminder notice were a reference to an infringement notice and each reference in sections 21A and 78B to the reminder notice were a reference to the infringement notice; and
+  (k) the references to reminder notices in the definition of defendant in section 2(1), section 212, and any other relevant provisions of that Act or regulations made under that Act were references to the infringement notice.
+
+### 50H Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 50I Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
+
+**Forfeiture**
+
+### 51 Forfeiture of property
+(1AA) This section applies if—
+  (a) a person is convicted of an offence against this Act; or
+  (b) an infringement notice is issued to the person or a charging document filed against the person in relation to an infringement offence and any of the following occurs:
+    (i) the infringement fee for the offence is paid:
+    (ii) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months after the time when the offence is alleged to have been committed:
+    (iii) the informant and the person enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the person to pay the relevant infringement fee by instalments:
+    (iv) the person is found guilty, or admits the commission, of the infringement offence.
+(1) Subject to subsection (2), if this section applies,—whether or not they have been seized, taken possession of, or detained under section 39, shall be forfeit to the Crown, and disposed of,—
   (a) any specimen of an endangered, threatened, or exploited species in respect of which the offence has been committed; and
   (b) any container, packing case, crate, box, or any other form of receptacle (not being a bulk cargo container or a pallet) used in relation to the commission of the offence,—
   (c) in the case of a specimen, in accordance with section 42:
   (d) in the case of a receptacle, as the Director-General directs.
 (2) Notwithstanding the conviction of any person for any offence against this Act, no specimen shall be forfeited or disposed of until proceedings are finally determined.
-(3) Any person whose receptacle has been forfeit to the Crown under subsection (1) or any person having a legal or equitable interest in such property may apply to the Minister within 30 days of conviction for the release of the property so forfeited; and the Minister may order the release of such property on payment to the Crown of such amount as the Minister thinks appropriate, being an amount not exceeding the amount the items otherwise forfeited are estimated by the Director-General to realise if sold by public auction in New Zealand.
+(3) Any person whose receptacle has been forfeit to the Crown under subsection (1) or any person having a legal or equitable interest in such property may apply to the Minister within 30 days of the forfeiture for the release of the property so forfeited; and the Minister may order the release of such property on payment to the Crown of such amount as the Minister thinks appropriate, being an amount not exceeding the amount the items otherwise forfeited are estimated by the Director-General to realise if sold by public auction in New Zealand.
 (4) Any forfeiture directed or redemption payment imposed pursuant to this section shall be in addition to, and not in substitution for, any other penalty that may be imposed by the court or by this Act.
+
+## Part 5 — Miscellaneous provisions
 
 ### 52 Protection of officers and others
 A person who does any act in pursuance or intended pursuance of any of the functions conferred on that person by or under this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or on any other ground, unless the person has acted, or omitted to act, in bad faith or without reasonable cause.
@@ -517,6 +614,13 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) regulating the breeding in captivity, in the case of an animal, and the artificial propagation, in the case of a plant, of any specimen of endangered, threatened, or exploited species:
   (ea) specifying requirements with respect to taking and analysis of samples of specimens where such taking and analysis is authorised for any purpose under this Act:
   (f) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and prescribing fines not exceeding $2,000 in respect of any such offence:
+  (fa) prescribing infringement offences for the contravention of regulations made under this Act:
+  (fb) specifying that an infringement offence is a border infringement offence (either always, or only if committed in certain places or circumstances):
+  (fc) prescribing penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence; and
+    (iii) may be prescribed at different levels for the same offence based on whether the offence relates to endangered, threatened, or exploited species; and
+  (fd) prescribing information to be included in infringement notices and reminder notices, including any additional particulars required in an infringement notice for a border infringement offence:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 55 Consequential amendment
