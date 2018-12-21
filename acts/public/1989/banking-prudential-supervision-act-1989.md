@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-12-21_
 
 > Title
 
@@ -18,6 +18,8 @@ _Consolidation as at 2018-11-12_
 (1) In this Act, unless the context otherwise requires,—
   - **bank note** or means any negotiable instrument used or circulated, or intended for use or circulation, as currency
   - **banking group** has the meaning given to it in the Orders in Council made under section 81
+  - **charter** means a charter issued under this Act (see section 63F and clauses 5 to 7 of Schedule 1)
+  - **code of conduct** means a code of conduct for members of the MPC that is approved under this Act (see section 63J and clause 8 of Schedule 1)
   - **debt security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **Deputy Chief Executive** means, if 1 person is appointed under this Act as the Deputy Governor of the Bank, that person, and if 2 persons are appointed under this Act as Deputy Governors of the Bank, the Deputy Governor designated by the Board as the Deputy Chief Executive
   - **Deputy Governor** means, if 1 person is appointed under this Act as the Deputy Governor of the Bank, that person, and if 2 persons are appointed under this Act as Deputy Governors, each of those persons
@@ -55,6 +57,7 @@ _Consolidation as at 2018-11-12_
   - **licensed insurer** has the same meaning as in section 6(1) of the Insurance (Prudential Supervision) Act 2010
   - **managed investment scheme** has the same meaning as in section 9 of the Financial Markets Conduct Act 2013
   - **Minister** means the Treasurer, or other Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or particular provisions of this Act
+  - **MPC** or means the committee of the Bank that is established under section 63A
   - **net income** , in relation to a financial year, means the total revenue of the Bank reported in its statement of financial performance for that year calculated after deducting all expenses incurred by the Bank in that year
   - **New Zealand chief executive officer** , in relation to an overseas incorporated registered bank, means—
     (a) the most senior officer of that bank who is ordinarily resident in New Zealand; or
@@ -88,6 +91,8 @@ _Consolidation as at 2018-11-12_
     (d) the power to control the acquisition or disposition of the specified security by another person; or
     (e) the powers referred to in paragraphs (b) to (d) under, or by virtue of, any trust, agreement, arrangement, or understanding relating to the specified security
   - **registered bank** means a person whose name is entered in the register maintained under section 69 or who continues to be a registered bank by virtue of the provisions of section 76
+  - **remit** means a remit issued under this Act (see sections 10 and 13, clauses 2 to 4 of Schedule 1, and clause 6 of Schedule 2)
+  - **remit advice** means the advice given by the Bank under clause 2 of Schedule 2
   - **Reserve Bank** or means the Reserve Bank of New Zealand constituted under this Act
   - **restricted word** —
     (a) means the words “bank”, “banker”, and “banking”; and
@@ -130,6 +135,9 @@ _Consolidation as at 2018-11-12_
 For the purposes of this Act, a reference to information or data that is false or misleading includes a reference to information or data that is false or misleading by reason of—
   (a) the form or context in which it is published or supplied; or
   (b) the omission of any other information that is material in the form and context in which it is published or supplied.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 4 Act to bind the Crown
 This Act shall bind the Crown.
@@ -3146,7 +3154,75 @@ Every reference in any other Act to the expression “trading bank” shall be r
 ### 192 Transitional provision in relation to accounts of Bank
 The provisions of sections 40 to 45 and section 46 of the Reserve Bank of New Zealand Act 1964 shall, notwithstanding the repeal of that Act by section 186(1), continue in force in relation to the financial year of the Bank ending on 31 March 1990.
 
-## Schedule 1 — Enactments amended
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Reserve Bank of New Zealand (Monetary Policy) Amendment Act 2018
+
+### 1 Interpretation
+(1) In this Part, unless the context otherwise requires, references to provisions are references to provisions as inserted or amended by the 2018 Act.
+(2) In this Part, unless the context otherwise requires,—
+  - **2018 Act** means the Reserve Bank of New Zealand (Monetary Policy) Amendment Act 2018
+  - **date of the Royal assent** means the date of the Royal assent of the 2018 Act
+  - **main commencement** means the commencement of the rest of the 2018 Act under section 2(2) of that Act.
+(3) If a provision that is applied for the purposes of this Part comes into force on the main commencement, that provision applies for those purposes as if it were in force.
+
+### 2 First remit for MPC
+(1) Despite section 10(1), the first remit is to be issued in accordance with clause 3 or 4.
+(2) The following apply with all necessary modifications to the first remit (whether issued under clause 3 or 4):
+  (a) section 10(2) to (4):
+  (b) clauses 4, 6, and 7 of Schedule 2.
+(3) Clause 5 of Schedule 2 applies with all necessary modifications to a first remit issued under clause 3.
+(4) The first remit comes into force on the main commencement.
+
+### 3 First remit issued with agreement
+(1) The Minister must issue the first remit after reaching agreement on the contents of the remit with the Governor.
+(2) The Minister and the Governor must take all reasonable steps to ensure that the remit is issued before the expiry of the 2-month period that starts on the date of the Royal assent.
+(3) Subclause (1) ceases to apply if the first remit is, instead, issued under clause 4.
+
+### 4 First remit issued without agreement
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue the first remit.
+(2) The Minister may make a recommendation if the Minister is satisfied that the Minister and the Governor have not agreed on the content of the first remit before the expiry of the 2-month period that starts on the date of the Royal assent.
+
+### 5 First charter
+(1) The first charter is to be issued in accordance with clause 6 or 7.
+(2) Sections 63D(2), 63E, 63F, 63H, and 63I apply with all necessary modifications to the first charter (whether issued under clause 6 or 7).
+(3) The first charter comes into force on the main commencement.
+
+### 6 First charter issued with agreement
+(1) The first charter must be issued by agreement between the Minister and the Governor (rather than between the Minister and the MPC).
+(2) The Minister and the Governor must take all reasonable steps to ensure that the first charter is agreed before the expiry of the 2-month period that starts on the date of the Royal assent.
+(3) Subclause (1) ceases to apply if the first charter is, instead, issued under clause 7.
+
+### 7 First charter issued without agreement
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue the first charter.
+(2) The Minister may make a recommendation if the Minister is satisfied that the Minister and the Governor have not agreed on the first charter before the expiry of the 2-month period that starts on the date of the Royal assent.
+
+### 8 First code of conduct
+(1) The Bank must—
+  (a) prepare the first code of conduct for the members of the MPC; and
+  (b) submit that code to the Board for approval before the expiry of the 1-month period that starts on the date of the Royal assent.
+(2) The Board may give its approval only if it is satisfied that the first code adequately addresses the matters in section 63K.
+(3) The Bank and the Board must take all reasonable steps to ensure that the first code of conduct is prepared, approved, and in force before the expiry of the 2-month period that starts on the date of the Royal assent.
+(4) Sections 63J(4), 63K, and 63L apply with all necessary modifications to the first code of conduct.
+
+### 9 First appointment of external and internal members
+(1) The first internal and external members of the MPC may be appointed by the Minister before the main commencement (with the appointment in each case to take effect on that commencement).
+(2) Section 63C and clauses 1, 8 to 13, and 15 of Schedule 2 apply for that purpose with all necessary modifications.
+
+### 10 First Treasury observer
+(1) The first Treasury observer may be nominated by the Secretary to the Treasury before the main commencement (with the nomination to take effect on that commencement).
+(2) Clause 23 of Schedule 2 applies for that purpose with all necessary modifications.
+
+### 11 Minimum number of meetings of MPC
+A requirement in this Act to have at least 4 meetings of the MPC each year does not apply to the year in which this clause comes into force.
+
+### 12 Transitional provisions for office holders
+(1) The person holding office at the commencement of this clause—
+  (a) as Governor must be treated as continuing to hold that office for the balance of the term for which that person was appointed:
+  (b) as Deputy Governor must be treated as continuing to hold that office for the balance of the term for which that person was appointed (and may be reappointed under section 43 at the end of that term for 1 further term of up to 5 years):
+  (c) as chairperson or deputy chairperson of the Board must be treated as continuing to hold that office for the balance of the term for which that person was appointed.
+(2) This clause does not limit any provision of this Act under which a person referred to in subclause (1) may be removed from office or under which that person otherwise ceases to hold office.
+(3) Section 44(1) (as in force after the main commencement) is subject to subclause (1)﻿(b).
 
 ## Schedule 2 — Enactments repealed
 
