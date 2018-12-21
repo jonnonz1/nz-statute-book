@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2018-12-19_
+_Consolidation as at 2018-12-21_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -79,6 +79,10 @@ _Consolidation as at 2018-12-19_
   - **historic resource** means a historic place within the meaning of the Heritage New Zealand Pouhere Taonga Act 2014; and includes any interest in a historic resource
   - **hunting weapon** means a weapon within the meaning of the Trespass Act 1980
   - **indigenous fish** means any freshwater fish that is indigenous to New Zealand
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence in subpart 1 of Part 6A; or
+    (b) an offence against regulations made under this Act that is declared by regulations to be an infringement offence
   - **interest** , in relation to any land, includes an estate in, and a right over or in respect of, the land; but does not include any right under or in respect of any covenant registered against land
   - **lake** means a body of fresh water whose bed has an area of 8 hectares or more and which is entirely or nearly surrounded by land
   - **lease** —and has a corresponding meaning
@@ -1465,8 +1469,23 @@ The New Zealand Fish and Game Council shall operate a personnel policy that comp
 (1) The New Zealand Fish and Game Council is, for the purposes of subpart 2 of Part 5 of the Public Finance Act 1989, an organisation named or described in Schedule 4 of that Act.
 (2) The Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
+### 26HA National fish and game compliance and law enforcement policy
+(1) The New Zealand Fish and Game Council may, in accordance with section 26C(1)﻿(a), develop a national policy that relates to—
+  (a) the authorisation of fish and game rangers to issue infringement notices under section 51W(2); and
+  (b) the issuing of infringement notices by those fish and game rangers; and
+  (c) the exercise of other powers of fish and game rangers used to enforce, or ensure compliance with, this Act or the Wildlife Act 1953 (including any regulations made under those Acts).
+(2) The Minister may, by notice in the Gazette, approve a policy developed under subsection (1).
+(3) If the Minister has not approved a policy under subsection (2),—
+  (a) the Director of the New Zealand Fish and Game Council may not authorise a fish and game ranger to issue infringement notices under this Act (see section 51W(4)﻿(b)); and
+  (b) sections 26I(1A), 26R(2A), and 26X(1A) do not apply.
+
 ### 26I Annual report
 (1) The New Zealand Fish and Game Council shall, as soon as practicable after the end of each financial year, furnish to the Minister a report on its operations for that financial year.
+(1A) If the Minister has approved a policy under section 26HA(2), the annual report must—
+  (a) summarise what powers have been exercised during the year by fish and game rangers to enforce, or ensure compliance with, this Act or the Wildlife Act 1953 (including any regulations made under those Acts); and
+  (b) identify any complaints that have been received in relation to the exercise of those powers; and
+  (c) summarise the actions taken in response to any complaints; and
+  (d) specify whether any powers were exercised in a manner inconsistent with the policy.
 (2) The Minister must present a copy of the report to the House of Representatives in accordance with section 150(3) of the Crown Entities Act 2004.
 
 ### 26J Chairperson of New Zealand Fish and Game Council
@@ -1554,6 +1573,7 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 ### 26R Fish and Game Council responsibilities
 (1) In the performance of their responsibilities, Fish and Game Councils shall abide by the requirements of this Act and the Wildlife Act 1953 and any regulations made under either of those Acts.
 (2) Except as provided in section 26Q(1), Fish and Game Councils shall not, within their areas of jurisdiction, engage in any activity that has as its predominant purpose the making of a commercial gain from that activity.
+(2A) Fish and Game Councils must comply with any policy approved by the Minister under section 26HA(2).
 (3) The following provisions apply to Anglers Notices:
   (a) Fish and Game Councils shall prepare such notices:
   (b) Fish and Game Councils shall, through the New Zealand Fish and Game Council, recommend such notices for approval by the Minister:
@@ -1608,6 +1628,11 @@ Except as otherwise provided by this Act or any regulations made under it, no me
 
 ### 26X Annual report
 (1) Each Fish and Game Council shall, as soon as practicable after the end of each financial year, furnish to the Minister a report on its operations for that financial year.
+(1A) If the Minister has approved a policy under section 26HA(2), the annual report must—
+  (a) summarise what powers have been exercised during the year by the Fish and Game Council to enforce, or ensure compliance with, this Act or the Wildlife Act 1953 (including any regulations made under those Acts); and
+  (b) identify any complaints that have been received in relation to the exercise of those powers; and
+  (c) summarise the actions taken in response to any complaints; and
+  (d) specify whether any powers were exercised in a manner inconsistent with the policy.
 (2) The Minister must present a copy of the report to the House of Representatives in accordance with section 150(3) of the Crown Entities Act 2004.
 
 ### 26Y Eligibility to vote
@@ -2176,6 +2201,12 @@ A local authority may make contributions out of its general fund or account for 
 (6) In the case of every warranted officer, the provisions of this section are subject to any restrictions or limitations specified in the warrant issued to that person under section 59.
 (7) The provisions of Part 4 of the Search and Surveillance Act 2012 (except for subpart 3) apply.
 
+### 40A Power to require information
+(1) This section applies if a warranted officer or a fish and game ranger believes on reasonable grounds that a person has committed or is committing an offence against this Act or regulations made under this Act.
+(2) The warranted officer or fish and game ranger may require the person to—
+  (a) state the person’s full name, residential address, and date of birth; and
+  (b) provide evidence, as soon as practicable, of the person’s full name, residential address, and date of birth.
+
 ### 41 Offences in respect of warranted officers and fish and game rangers
 Every person commits an offence who—
   (a) resists or obstructs any warranted officer or fish and game ranger in the execution of powers or duties conferred by this Act, or any person lawfully acting under the officer's or ranger's orders or in the officer's or ranger's aid; or
@@ -2239,7 +2270,7 @@ Every person who commits an offence against this Act for which no penalty is pre
   (c) in any case, where the offence is a continuing one, a further fine not exceeding $10,000 for every day on which the offence continues.
 
 ### 44A Sentence of community work
-A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+A court may sentence any individual who is convicted of an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 45 Offenders liable for loss or damage
 (1) Every person convicted of an offence against this Act shall be liable for any loss or damage or expenses arising from or caused by the act constituting the offence in addition to the penalty for the offence; and the amount payable in respect of the loss or damage or expense may be awarded by the court in fixing the penalty and may be recovered as a fine.
@@ -2263,6 +2294,18 @@ A court may sentence any individual who commits an offence against this Act to a
   (a) the forfeited property shall be disposed of by the Minister to that Council for the purposes of sale and may be sold by that Council, and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council:
   (b) subject to section 73(2) of the Public Finance Act 1989, all fines imposed and recovered in proceedings taken by a Fish and Game Council for any breach of this Act or any regulations or notice made under this Act shall be paid to the Council of the region or district in which the fines were received, for the purpose of the distribution, rearing, cultivation, and protection of fish in the region or district of that Council.
 (8) Any forfeiture directed, or redemption payment imposed, under this section shall be in addition to, and not in substitution for, any other penalty that may be imposed.
+
+### 46A Forfeiture of property for infringement offence
+(1) Subsection (2) applies if—
+  (a) proceedings in respect of an infringement offence are commenced by the filing of a charging document under the Criminal Procedure Act 2011; and
+  (b) the person is found guilty, or admits the commission, of the infringement offence.
+(2) Section 46 applies as if a person were convicted of an offence against this Act.
+(3) Subsection (4) applies if an infringement notice is issued to the person in respect of an infringement offence and any of the following occurs:
+  (a) the infringement fee for the offence is paid:
+  (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months after the time when the offence is alleged to have been committed:
+  (c) the informant and the person enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the person to pay the relevant infringement fee by instalments:
+  (d) the person is found guilty, or admits the commission, of the infringement offence.
+(4) Section 46, except for section 46(5)﻿(a), applies as if a person were convicted of an offence against this Act.
 
 ### 47 Information leading to conviction
 (1) The Director-General may make any payments the Director-General thinks fit to any person or persons who have supplied information that has led to the conviction for an offence against this Act or who has procured or assisted in procuring any such conviction.
@@ -2354,6 +2397,19 @@ A court may sentence any individual who commits an offence against this Act to a
   (g) provide for such matters as may be necessary or desirable to achieve compliance with the regulations:
   (h) prescribe offences for the breach of the regulations and for the imposition of fines not exceeding $10,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences.
 
+### 48C Regulations relating to infringement offences
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) prescribing infringement offences for the contravention of regulations made under this Act:
+  (b) prescribing penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
+  (c) prescribing information to be included in infringement notices and reminder notices.
+(2) An offence prescribed under subsection (1)﻿(a) may apply to conduct that—
+  (a) is also punishable by an offence made under section 48(1)﻿(n) that is not an infringement offence; or
+  (b) is similar to that conduct.
+(3) Subsection (2) does not limit subsection (1)﻿(a).
+(4) In the circumstances described in subsection (2), the infringement offence does not prevent the prosecution of, and conviction for, the offence referred to in subsection (2)﻿(a).
+
 ### 49 Public notice and rights of objection
 (1) Where this Act requires any thing to be publicly notified, the Minister shall publish a notice of the thing in some newspaper circulating in the area in which the subject matter of the notice is situated and at least once in each of 4 daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively; but if satisfied that the thing is of local or regional interest only, the Minister may limit the publication of the notice to a newspaper or newspapers circulating throughout the locality or region in which the subject matter is situated.
 (2) Where the Minister gives public notice of intention to exercise any power conferred by this Act or gives public notice of an application for a concession—
@@ -2381,6 +2437,204 @@ A court may sentence any individual who commits an offence against this Act to a
   (a) to enforce any conditions of the arrangement, approval, authority, concession, concurrence, consent, easement, decision, lease, licence, order, permission, permit, waiver, or other similar actions:
   (b) in respect of any breaches of the conditions:
   (c) in respect of any act or omission contrary to the terms upon which the arrangement, approval, concession, concurrence, consent, easement, lease, licence, decision, order, permission, permit, waiver or other action was given, granted, issued, made or reached.
+
+## Part 6A — Infringement offences
+
+### 51A Relationship with other offences
+Nothing in this Part prevents the prosecution of, and conviction for, an offence in any other Part of this Act (instead of proceeding under this Part).
+
+### Subpart 1 — Infringement offences
+
+**Fisheries**
+
+### 51B Taking sports fish in contravention of Anglers Notice
+(1) A person must not take sports fish from any waters in contravention of an Anglers Notice in force in respect of those waters.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51C Taking sports fish without licence
+(1) A person must not take sports fish from any freshwater unless the person holds a licence under this Act that permits the taking of the fish.
+(2) Subsection (1) does not apply to the taking of sports fish for the purposes of scientific investigation or data collection if the fish are taken—
+  (a) under a permit or an authority granted under this Act; and
+  (b) in accordance with any conditions imposed by the permit or authority.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 51D Possessing sports fish taken unlawfully
+(1) A person must not have in the person’s possession any sports fish that was taken in contravention of section 51C(1).
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51E Establishing, managing, or operating fish hatchery in breach of regulations
+(1) A person must not establish, manage, or operate a fish hatchery for sports fish unless the person is authorised to do so by regulations made under this Act.
+(2) This section does not apply in relation to the management or operation of any hatchery for sports fish that was already established or was being established as at 10 April 1990.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 51F Offences relating to spawning fish
+(1) A person must not, without a permit or an authority under this Act, or in contravention of a condition of a permit or an authority,—
+  (a) disturb or damage the spawning ground of any freshwater fish; or
+  (b) disturb or injure the eggs or larvae of any freshwater fish; or
+  (c) have in the person’s possession the eggs or larvae of any freshwater fish; or
+  (d) take, with a spear, gaff, speargun, net, trap, or similar device, any sports fish from a river or stream where sports fish are congregating or have congregated for spawning; or
+  (e) while in the vicinity of any river or stream where sports fish are congregating or have congregated for spawning, have possession or control of any spear, gaff, speargun, net, trap, or similar device or material suitable for the taking of any sports fish, in circumstances likely to result in the taking of sports fish.
+(2) Subsection (1)﻿(a) to (c) does not apply to the taking of freshwater fish subsequently found to contain eggs or larvae.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 51G Failure to comply with restrictions on fishing
+(1) A person must not contravene a prohibition, restriction, or condition imposed by a notice given under section 26ZL(1).
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51H Transfer or release of live aquatic life
+(1) A person must not transfer live aquatic life or release live aquatic life into any freshwater, except in accordance with section 26ZM.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51I Fishing in closed season
+(1) A person must not, during the period of a closed season for a species of fish determined under section 26ZP, take, have in the person’s possession, or in any way injure or disturb a fish of that species.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51J Buying or selling fish for purpose of sale contrary to Act
+(1) A person must not—
+  (a) buy or sell sports fish taken in New Zealand; or
+  (b) buy or sell any freshwater fish that was taken in New Zealand in contravention of Part 5B or of any regulation made or notice given under this Act.
+(2) Section 26ZQ(2) and (3) applies for the purpose of this section.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 51K Possessing certain kinds of fish without approval
+(1) A person must not have in the person’s possession restricted fish, unless the person has approval to do so under section 26ZM(2) or (3) or 26ZQA(2).
+(2) A person who fails to comply with this section commits an infringement offence.
+(3) In this section, restricted fish has the meaning given in section 26ZQA(1).
+
+### 51L Using hazardous substances, etc, to take or destroy fish
+(1) A person must not, for the purpose of taking or destroying freshwater fish, use in any water a hazardous substance, narcotic substance, or electric fishing device.
+(2) Subsection (1) does not apply to actions taken by—
+  (a) a warranted officer or a fish and game ranger; or
+  (b) a person authorised in writing for the purpose by the Director-General, the Director, or the appropriate Fish and Game Council.
+(3) A person who fails to comply with this section commits an infringement offence.
+(4) In this section, hazardous substance has the meaning given in section 2(1) of the Hazardous Substances and New Organisms Act 1996.
+
+**Control of dogs**
+
+### 51M Offences relating to controlled dog areas and open dog areas
+(1) An owner or a person in charge of a dog must not allow the dog to enter or remain in any part of a controlled dog area, unless the person—
+  (a) is allowed to do so by a dog control permit issued under section 26ZZH; and
+  (b) complies with the permit.
+(2) A person in charge of a dog in a controlled dog area must keep the dog under the person’s control.
+(3) An owner or a person in charge of a dog in a controlled dog area or an open dog area must not contravene any condition imposed in relation to that controlled dog area or open dog area under section 26ZU(c).
+(4) A person who fails to comply with this section commits an infringement offence.
+
+### 51N Dogs causing serious injury to protected wildlife
+(1) An owner or a person in charge of a dog in a controlled dog area or an open dog area must ensure that the dog does not attack protected wildlife and cause—
+  (a) the death of protected wildlife; or
+  (b) injury to protected wildlife so that it becomes necessary to destroy the wildlife to end its suffering.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+**Conservation areas**
+
+### 51O Hunting and other activities without, or not in compliance with, permit
+(1) A person must not, without a permit issued under section 26ZZH or 38(1), or in contravention of a condition of such a permit,—
+  (a) discharge any hunting weapon in, into, or over any conservation area; or
+  (b) molest or pursue any animal in a conservation area; or
+  (c) capture, kill, poison, tranquillise, trap, or immobilise by any means an animal in a conservation area; or
+  (d) have in the person’s possession an animal or animal product in a conservation area; or
+  (e) whether or not any animal product is taken, take or use, in or over a conservation area, an aircraft, dog, hunting weapon, net, poison, ship, snare, or vehicle to molest, pursue, capture, kill, poison, tranquillise, trap, or immobilise, by any means, an animal in the conservation area; or
+  (f) take any animal product while in a conservation area; or
+  (g) take or use, in or over a conservation area, an aircraft, dog, net, ship, or vehicle to take any animal product from the conservation area; or
+  (h) enter a conservation area with a hunting weapon, net, trap, or snare, or with poison; or
+  (i) set a net, trap, or snare in a conservation area; or
+  (j) allow an animal that the person is in charge of to molest, pursue, or kill any animal in a conservation area.
+(2) A person who fails to comply with this section commits an infringement offence.
+(3) For the purpose of subsection (1), animal does not include fish.
+
+### 51P Disposing of animal product
+(1) A person must not use, receive, sell, or otherwise dispose of an animal or animal product that was taken in breach of section 51O(1).
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51Q Taking plants
+(1) A person must not take a plant into or from a conservation area except—
+  (a) with the authority of and in accordance with a concession under Part 3B; or
+  (b) in accordance with an access arrangement under the Crown Minerals Act 1991; or
+  (c) in accordance with a lease or licence granted before the commencement of this Act; or
+  (d) in accordance with section 24H(5) (if the person is the manager of a marginal strip) or 24H(6)﻿(a) or (b) (if the person holds a Crown forestry licence under the Crown Forest Assets Act 1989); or
+  (e) in accordance with an authorisation given by the Director-General under section 30(2).
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51R Littering
+(1) A person must not deposit litter in a conservation area.
+(2) A person who fails to comply with this section commits an infringement offence.
+(3) In this section,—
+  - **deposit** has a corresponding meaning to the meaning of depositing in section 2(1) of the Litter Act 1979
+  - **litter** has the meaning given in section 2(1) of the Litter Act 1979.
+
+### 51S Other offences in respect of conservation areas
+(1) A person must not, without the authority of the Minister or the Director-General,—
+  (a) enter or remain in a conservation area declared closed by the Minister under section 13; or
+  (b) enter a conservation area with a vehicle, ship, or aircraft in breach of a prohibition or restriction imposed under this Act; or
+  (c) contravene or fail to comply with section 17O(2), which requires a person to be authorised by a concession in order to carry out certain activities in conservation areas; or
+  (d) contravene or fail to comply with section 17ZF, which relates to operating aircraft in conservation areas; or
+  (e) liberate an animal in a conservation area; or
+  (f) cause or allow an animal to enter a conservation area; or
+  (g) plant a plant, or sow or scatter the seed of a plant, or introduce a substance likely to be injurious to plants or animals, in a conservation area; or
+  (h) interfere with or damage historic or natural features of or in a conservation area; or
+  (i) erect a building, sign, hoarding, or structure in a conservation area; or
+  (j) construct an apparatus in a conservation area; or
+  (k) conduct an activity for which a concession is required under this Act in a conservation area without the required concession; or
+  (l) take or remove gravel, sand, stone, clay, limestone, or other similar natural resource other than as allowed by a concession under this Act or by another enactment.
+(2) A person must not dispose of a contaminant—
+  (a) into or onto a conservation area; or
+  (b) that spills, drifts, or blows into or onto or percolates or washes into or onto a conservation area.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+**Miscellaneous infringement offences**
+
+### 51T Management of marginal strips
+(1) A manager of a marginal strip must not—
+  (a) damage, or cause to be damaged, the marginal strip or any part of it; or
+  (b) use the marginal strip for any purpose contrary to a provision of, or a requirement imposed under, Part 4A.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 51U Failure to produce permits, etc, on demand
+(1) A person who does any act that, under this Act, requires a permit, concession, right, or other authority must produce the appropriate authority if requested to do so by a warranted officer.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### Subpart 2 — Procedural matters
+
+### 51V Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 51X.
+(2) If an infringement notice has been issued under section 51X, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 51W Who may issue infringement notices
+(1) The Director-General may authorise a warranted officer, in writing, to issue infringement notices under this Act.
+(2) The Director of the New Zealand Fish and Game Council may authorise a fish and game ranger, in writing, to issue infringement notices under this Act.
+(3) The Director of the New Zealand Fish and Game Council must not authorise an honorary fish and game ranger to issue infringement notices under this Act.
+(4) The Director of the New Zealand Fish and Game Council—
+  (a) must, in exercising the power in subsection (2), comply with the national compliance and enforcement policy approved by the Minister under section 26HA; and
+  (b) may not exercise the power in subsection (2) if no such policy has been approved.
+(5) The Director of the New Zealand Fish and Game Council must not delegate the power in subsection (2).
+(6) In this section, honorary fish and game ranger means a person appointed in an honorary capacity under section 26FA(2).
+
+### 51X Infringement notices
+(1) A warranted officer or fish and game ranger authorised under section 51W (an issuer) may issue an infringement notice to a person if the issuer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The issuer may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 51Y Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 51Z Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 51ZA Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
 
 ## Part 7 — Administration
 
