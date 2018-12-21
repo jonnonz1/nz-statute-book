@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2018-12-21_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -367,6 +367,7 @@ A coroner is not required to view any body.
   (c) all risks to the security of the body:
   (d) whether suitable staff are available to supervise visitors to the mortuary or morgue where the body is kept:
   (e) all risks of visitors to that mortuary or morgue being contaminated, infected, or otherwise harmed by exposure to or contact with the body:
+  (ea) the ethnic origins, social attitudes or customs, or spiritual beliefs of the person who is, or of a person who is suspected to be, the dead person, or of an immediate family member of that person, that customarily require viewing, touching, or remaining with or near the body (for example, the customary requirement that immediate family members be able to view, touch, or remain with or near the body according to tikanga Māori):
   (f) whether suitable rooms and facilities for family or whānau are available at that mortuary or morgue:
   (g) the need to ensure compliance with all applicable legal requirements relating to health and safety:
   (h) any other matters the coroner considers relevant.
