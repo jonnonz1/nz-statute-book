@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2018-12-21_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -133,7 +133,7 @@ This Act binds the Crown.
 ## Part 2 — Clean slate scheme
 
 ### 6 Application of clean slate scheme
-(1) The clean slate scheme applies (except as provided in section 31(3) of the Vulnerable Children Act 2014) to every question asked about, and every request made for the disclosure of, an eligible individual's criminal record or information about an eligible individual's criminal record whether asked or made on or after the commencement of this Act.
+(1) The clean slate scheme applies (except as provided in section 31(3) of the Children’s Act 2014) to every question asked about, and every request made for the disclosure of, an eligible individual's criminal record or information about an eligible individual's criminal record whether asked or made on or after the commencement of this Act.
 (2) The clean slate scheme applies—
   (a) to all sentences, whether imposed before or on or after the commencement of this Act; and
   (b) to all specified orders, whether made before or on or after the commencement of this Act.
