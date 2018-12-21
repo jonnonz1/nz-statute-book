@@ -1,5 +1,5 @@
 # Marine Reserves Act 1971
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2018-12-21_
 
 > An Act to provide for the setting up and management of areas of the sea and foreshore as marine reserves for the purpose of preserving them in their natural state as the habitat of marine life for scientific study
 
@@ -20,6 +20,10 @@ In this Act, unless the context otherwise requires,—
   - **Department** means the Department of Conservation
   - **Director-General** means the Director-General of Conservation
   - **firearm** means anything from which any shot, bullet, missile, or other projectile can be discharged (whether or not by force of explosive); and includes any firearm as defined in section 2 of the Arms Act 1983; and has a corresponding meaning
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence against section 21; or
+    (b) an offence against regulations made under this Act that is declared by regulations to be an infringement offence
   - **marine life** means any species of the plant or animal kingdoms which at any time of the life of the species inhabits the sea or foreshore; and includes any specimen of the species whether alive or dead, and any part of any specimen, and the seed, spores, eggs, spawn, young, fry, and offspring of the species; but does not include wildlife within the meaning of the Wildlife Act 1953
   - **marine reserve** or means a marine reserve constituted under section 4
   - **mining interest** means—
@@ -168,7 +172,7 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
 ### 18 General powers of rangers
 (1) Every ranger may, in the exercise of his or her duty and upon production of his or her warrant of appointment (if so required),—
   (a) require any person whom he or she reasonably believes to have committed or to be committing or about to commit an offence against this Act or any regulations made under this Act to refrain or desist from that act:
-  (b) require any person whom he or she reasonably believes to have committed or to be committing or about to commit an offence against this Act or any regulations made under this Act to give his or her full name and residential address and to produce evidence of those particulars:
+  (b) require any person whom he or she reasonably believes to have committed or to be committing or about to commit an offence against this Act or any regulations made under this Act to give the person’s full name, residential address, and date of birth and to produce evidence of those particulars:
   (c) pursue and apprehend, without warrant, any person whom he or she reasonably believes to have committed or to be committing an offence against this Act or any regulations made under this Act:
   (d) stop any vessel, vehicle, or other conveyance, or any aircraft while on the ground or on the water, or any other device for carriage or transportation, or stop in transit any parcel, package, case, bag, luggage, or other container that is or that he or she reasonably believes to be in the possession of the owner or of any other person (including any carrier or forwarding agent, whether by land, sea, or air), if he or she reasonably believes that any breach of this Act or of any regulation made under this Act has been committed by the owner or by the person in possession thereof or by any other person, and, in the presence of the owner or other person or of any servant of any of them, enter and search any such vessel, vehicle, other conveyance, aircraft, or other device, and in such presence open and search any such parcel, package, case, bag, luggage, or other container.
 (2) The powers of a ranger under this Act shall be exercisable within any marine reserve; and if a ranger is in fresh pursuit of an offender the ranger may, without warrant, apprehend the offender outside a marine reserve and may exercise any power conferred on a ranger by this Act.
@@ -214,15 +218,35 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
   (c) any proceeds from the sale of such marine life under section 18A(2)—
 (3) No person may be discharged without conviction in respect of any offence against section 18I unless the court for special reasons relating to the offence thinks fit to order that the property, marine life, or proceeds not be forfeit.
 (4) If any property is forfeit to the Crown under this section, the property shall thereupon vest in the Crown absolutely and free of all encumbrances.
-(5) Before disposing of any seized property under this Act, the Director-General shall give the owner notice of the Crown's intention to dispose of the property and if, as at the expiration of 90 days commencing on the date of that notice, the owner has not lodged an appeal against the intended disposal, the Director-General may then dispose of the property; but, if the seized property is perishable, the Director-General may dispose of the property at any time during that 90-day period and hold the proceeds until the expiration of that period.
+(5)
+
+### 18GA Forfeiture of property for infringement offence
+(1) Any marine life in respect of which an infringement offence is committed (whether or not seized under section 18A) and any proceeds from the sale of marine life under section 18A(2) are forfeited to the Crown if—
+  (a) the infringement fee for the offence is paid; or
+  (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months after the time when the offence is alleged to have been committed; or
+  (c) the informant and the person alleged to have committed the offence enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the person to pay the relevant infringement fee by instalments; or
+  (d) the person is found guilty, or admits the commission, of the infringement offence.
+(2) In addition, the court may order that any property used in respect of the commission of the infringement offence (whether or not seized under section 18A), including any vessel or vehicle or other conveyance, be forfeited to the Crown if—
+  (a) proceedings in respect of the infringement offence are commenced by the filing of a charging document under the Criminal Procedure Act 2011; and
+  (b) the person is found guilty, or admits the commission, of the infringement offence.
+(3) Property that is forfeited to the Crown under this section vests in the Crown absolutely and free of all encumbrances.
+
+### 18GB Disposal of seized property
+(1) Before disposing of any property seized under this Act, the Director-General must give the owner of the property notice of the Crown’s intention to dispose of the property.
+(2) If the owner has not lodged an appeal against the disposal by 90 days after the date on which the notice is given, the Director-General may dispose of the property.
+(3) However, if the property is perishable,—
+  (a) the Director-General may dispose of the property at any time after giving notice; but
+  (b) the Director-General must hold the proceeds (if any) of the disposal until the later of—
+    (i) 90 days after the date on which the notice is given; and
+    (ii) the date on which an appeal against the disposal, lodged within 90 days after the date on which the notice is given, is resolved.
 
 ### 18H Provisions relating to forfeit property
 (1) In this section, unless the context otherwise requires,—
-  - **forfeit property** means any—forfeit to the Crown under section 18G
+  - **forfeit property** means any—forfeit to the Crown under section 18G or 18GA
     (a) marine life and any proceeds from the sale of marine life; or
     (b) property—
   - **interest** means a legal or equitable interest in that forfeit property that existed at the time of the forfeiture; but does not include any interest (including ownership) in any foreign vessel or foreign-owned New Zealand fishing vessel or a foreign-operated fish carrier.
-(2) The Director-General shall, within 10 working days after the date of any forfeiture under section 255, publicly notify the details of the forfeit property and the rights of persons to apply under this section.
+(2) The Director-General shall, within 10 working days after the date of any forfeiture under section 18G or 18GA, publicly notify the details of the forfeit property and the rights of persons to apply under this section.
 (3) Any person claiming an interest in any forfeit property may, within 35 working days after the date of the forfeiture, apply to the District Court for relief from the effect of forfeiture on that interest.
 (4) Every application under subsection (2) shall contain sufficient information to identify the interest and the property in which it is claimed, and shall include—
   (a) a full description of the forfeit property in which the interest is claimed, including reference to any registration or serial number; and
@@ -237,7 +261,7 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
 (6) The court shall, in respect of every application made under subsection (3),—
   (a) determine the value of the forfeit property, being the amount the property would realise if sold at public auction in New Zealand:
   (b) determine the nature, extent, and, if possible, the value of any applicant's interest in the property:
-  (c) determine the cost to the Department of the prosecution of the offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the forfeit property, including the court proceedings in respect of that seizure, holding, and disposal.
+  (c) determine the cost to the Department of the prosecution of the offence or pursuance of the infringement offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the forfeit property, including any court proceedings in respect of that seizure, holding, and disposal.
 (7) Having determined the matters specified in subsection (6), the court may, after having regard to—and, subject to subsections (8) and (9), make an order or orders providing relief (either in whole or part) from the effect of forfeiture on any of the interests determined under subsection (6).
   (a) the purpose of this Act; and
   (b) the effect of the offence from which the forfeiture arose on the marine reserve; and
@@ -251,8 +275,8 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
   (j) the cost to the Department of the prosecution of the offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the property, including the court proceedings in respect of that seizure, holding, and disposal; and
   (k) such other matters as the court thinks relevant,—
 (8) No order shall be made under subsection (7), unless it is necessary to avoid manifest injustice.
-(9) If the owner of the forfeit property was the person convicted of the offence in respect of which the property was forfeit, no order made under subsection (7) in respect of that forfeit property shall have effect to the extent that it, together with any other order made under that subsection in respect of the same forfeit property, has the effect of allowing less than 40% of the value of the forfeit property to remain forfeit to the Crown.
-(10) Subsection (9) does not prevent the return of up to 100% of the value of any forfeit property to any owner of property other than the person convicted of the offence in respect of which the property was forfeit.
+(9) If the owner of the forfeit property was the person who committed the offence in respect of which the property was forfeit, no order made under subsection (7) in respect of that forfeit property shall have effect to the extent that it, together with any other order made under that subsection in respect of the same forfeit property, has the effect of allowing less than 40% of the value of the forfeit property to remain forfeit to the Crown.
+(10) Subsection (9) does not prevent the return of up to 100% of the value of any forfeit property to any owner of property other than the person who committed the offence in respect of which the property was forfeit.
 (11) Without limiting subsection (7), any order under that subsection may order 1 or more of the following:
   (a) the retention of the forfeit property by the Crown:
   (b) the return of some or all of the forfeit property to the owner at the time of forfeiture, with or without the prior payment to the Crown of a sum of money:
@@ -261,7 +285,7 @@ The New Zealand Conservation Authority shall bring to the attention of the Direc
   (e) the reinstatement (notwithstanding the forfeiture) of any interest that was forfeit or cancelled as a result of a forfeiture.
 (12) This section does not require the Crown to pay, or secure the payment of, any sum of money to any person claiming an interest in forfeit property, other than the net proceeds of sale of forfeit property under a court order made under subsection (7).
 (13) For the purpose of assisting the court in determining any application for relief, the Director-General and any employee or agent of the Ministry is entitled to appear before the court and be heard.
-(14) Any forfeiture under section 18G, or any payment of a sum of money or delivery of property under subsection (7), to persons claiming an interest, shall be in addition to, and not in substitution for, any other penalty that may be imposed by the court or by this Act.
+(14) Any forfeiture under section 18G or 18GA, or any payment of a sum of money or delivery of property under subsection (7), to persons claiming an interest, shall be in addition to, and not in substitution for, any other penalty that may be imposed by the court or by this Act.
 
 ### 18I Offences
 (1) Every person commits an offence against this Act and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $250,000, or to both, who, without lawful authority or reasonable excuse, takes or removes from a marine reserve for commercial purposes any marine life.
@@ -300,6 +324,55 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 ### 21 Penalties
 [Repealed]
 
+### 21 Infringement offences
+(1) A person must not—
+  (a) discharge or cause to be discharged or deposit, directly or indirectly, in or into a marine reserve any toxic substance or pollutant or other substance or article of any kind injurious to marine life; or
+  (b) introduce any living organism in or into a marine reserve; or
+  (c) damage or injure any marine life, or damage the foreshore or seabed or any of the natural features in a marine reserve; or
+  (d) fish for marine life in a marine reserve; or
+  (e) erect any structure in or over a marine reserve; or
+  (f) interfere with or disturb in a marine reserve any marine life, foreshore, or seabed or any of the natural features in a marine reserve; or
+  (g) deposit or throw any rubbish in or into a marine reserve, except in a place or receptacle approved and provided by the Director-General; or
+  (h) use, dispose of, or be in possession of any marine life, mineral, gravel, sand, or other substance or thing that has been removed unlawfully from a reserve.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 21A Relationship between infringement offences and other offences
+Nothing in section 21 prevents the prosecution of, and conviction for, an offence in any other section of this Act (instead of proceeding under section 21).
+
+### 21B Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 21D.
+(2) If an infringement notice has been issued under section 21D, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 21C Who may issue infringement notices
+The Director-General may authorise a ranger, in writing, to issue infringement notices under this Act.
+
+### 21D Infringement notices
+(1) A ranger authorised under section 21C may issue an infringement notice to a person if the ranger believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The ranger may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 21E Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 21F Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 21G Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
+
 ### 22 Boundaries of marine reserves to be marked
 (1) Subject to subsection (2), the Director-General may cause to be marked and at all times to be kept marked, by means of such beacons, lights, buoys, or marks as the Director-General considers may be necessary, the boundaries of the marine reserve.
 (2) The Director-General shall act under this section only with the concurrence of the Secretary for Transport.
@@ -316,7 +389,12 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (c) authorise the Director-General to exclude the public from any specified part or parts of any reserve:
   (d) prescribe the conditions on which persons shall have access to or be excluded from any reserve or part of any reserve:
   (e) prescribe the conditions on which persons may remain within any reserve:
-  (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fines that may be imposed on conviction in respect of any such offences, which fines shall be an amount not exceeding $2,500.
+  (f) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fines that may be imposed on conviction in respect of any such offences, which fines shall be an amount not exceeding $2,500:
+  (g) prescribe infringement offences for the contravention of regulations made under this Act:
+  (h) prescribe penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
+  (i) prescribe information to be included in infringement notices and reminder notices.
 
 ### 25 Consequential amendment
 [Repealed]
