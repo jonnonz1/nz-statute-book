@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2018-12-21_
 
 > Title
 
@@ -54,6 +54,14 @@ _Consolidation as at 2018-11-26_
     (ha) section 105C of the Credit Contracts and Consumer Finance Act 2003; or
     (hb) section 400 of the Customs and Excise Act 2018; or
     (i) section 162 of the Animal Welfare Act 1999; or
+    (ia) section 51X of the Conservation Act 1987; or
+    (ib) section 27E of the Marine Mammals Protection Act 1978; or
+    (ic) section 21D of the Marine Reserves Act 1971; or
+    (id) section 71K of the National Parks Act 1980; or
+    (ie) section 105L of the Reserves Act 1977; or
+    (if) section 50E of the Trade in Endangered Species Act 1989; or
+    (ig) section 31I of the Wild Animal Control Act 1977; or
+    (ih) section 70W of the Wildlife Act 1953; or
     (j) section 357 of the Gambling Act 2003; or
     (jaa) section 235A of the Employment Relations Act 2000; or
     (ja) section 74 of the Psychoactive Substances Act 2013; or
