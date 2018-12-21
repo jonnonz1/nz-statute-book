@@ -1,5 +1,5 @@
 # Marine Mammals Protection Act 1978
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-12-21_
 
 > An Act to make provision for the protection, conservation, and management of marine mammals within New Zealand and within New Zealand fisheries waters
 
@@ -30,6 +30,10 @@ _Consolidation as at 2018-10-01_
   - **fishing-related mortality** means the accidental death or incidental death of any marine mammal in the course of fishing
   - **hovercraft** means a machine designed to be supported in the atmosphere, wholly or partly by air expelled from the machine to form a cushion extending beneath the machine to the surface of any ground, water, or other portion of the earth's surface
   - **human-induced mortality** means the death of any marine mammal that can be attributed directly or indirectly to any human activity
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence against section 27A; or
+    (b) an offence against regulations made under this Act that is declared by regulations to be an infringement offence
   - **international agreement** means any bilateral or multilateral treaty, convention, or agreement, to which New Zealand is a party, and any understanding concluded by the Government of New Zealand and the Government of any other country
   - **marine mammal** includes—
     (a) any mammal which is morphologically adapted to, or which primarily inhabits, any marine environment; and
@@ -337,16 +341,73 @@ Where any person is charged with an offence under this Act arising out of his ta
 Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, proceedings may be taken under this Act against any person for an offence committed at sea or beyond the outer limits of New Zealand fisheries waters at any time within 12 months from the date on which that person first lands in New Zealand after the commission of the offence or, for an offence committed in New Zealand, within 12 months after the date of the commission of the offence.
 
 ### 26 Defences in respect of certain offences
-(1) Where any person (not being a New Zealand citizen) is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters or, not being an offence concerning the importing of any marine mammal or marine mammal product, relates only to marine mammals taken beyond those outer limits.
-(2) Where any New Zealand citizen is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under section 28 or by any other enactment.
-(3) Where any person is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place in circumstances of stress or emergency and was necessary for the preservation, protection, or maintenance of human life.
-(4) Where any person is charged with killing or injuring any marine mammal contrary to the provisions of this Act or any regulations made under it and the provisions of subsection (1) or subsection (2) or subsection (3) do not apply in the circumstances of the case, it shall be a defence to the charge if the defendant proves that the death of or injury to the marine mammal was accidental, or incidental, and that the requirements of section 16 were complied with.
+(1) Where any person (not being a New Zealand citizen) is proceeded against in respect of any offence under this Act, it shall be a defence to the proceedings if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters or, not being an offence concerning the importing of any marine mammal or marine mammal product, relates only to marine mammals taken beyond those outer limits.
+(2) Where any New Zealand citizen is proceeded against in respect of any offence under this Act, it shall be a defence to the proceedings if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under section 28 or by any other enactment.
+(3) Where any person is proceeded against in respect of any offence under this Act, it shall be a defence to the proceedings if the defendant proves that the act or omission constituting the offence took place in circumstances of stress or emergency and was necessary for the preservation, protection, or maintenance of human life.
+(4) Where any person is proceeded against in respect of killing or injuring any marine mammal contrary to the provisions of this Act or any regulations made under it and the provisions of subsection (1) or subsection (2) or subsection (3) do not apply in the circumstances of the case, it shall be a defence to the proceedings if the defendant proves that the death of or injury to the marine mammal was accidental, or incidental, and that the requirements of section 16 were complied with.
 
 ### 26A Sentence of community work
-A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+A court may sentence any individual who is convicted of an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 27 Liability for causing officer to incur expense
 Where any person causes an officer to incur any expense that he would not otherwise have incurred, by failing to comply with or acting in contravention of any provision of this Act or any regulations made under it, or by failing to comply with or acting in contravention of any order or direction or requirement or conditions reasonably and properly given or imposed in accordance with this Act or any such regulations, that person shall reimburse the Crown for the amount of any such expense that is reasonably and properly incurred, and that amount shall be recoverable from that person as a debt due to the Crown.
+
+### 27A Infringement offences
+(1) A person must not—
+  (a) take, possess, export, import, have on board any vessel, vehicle, aircraft, or hovercraft, or have control of any marine mammal otherwise than under this Act or a permit; or
+  (b) fail to give the Director-General information that the person is required to give under section 10(1); or
+  (c) except under the authority of any enactment, place or leave any structure or trap or chemical or other substance in any place where a marine mammal is or is likely to be and that injures or harms, or is likely to injure or harm, any marine mammal; or
+  (d) use any vehicle, vessel, aircraft, or hovercraft to herd or harass any marine mammal; or
+  (e) contravene or fail to comply with any notice, direction, restriction, requirement, or condition given, made, or imposed under this Act or under any regulations made under this Act.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 27B Relationship between infringement offences and other offences
+Nothing in section 27A prevents the prosecution of, and conviction for, an offence in any other section of this Act (instead of proceeding under section 27A).
+
+### 27C Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 27E.
+(2) If an infringement notice has been issued under section 27E, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 27D Who may issue infringement notices
+The Director-General may authorise a warranted officer, in writing, to issue infringement notices under this Act.
+
+### 27E Infringement notices
+(1) A warranted officer authorised under section 27D may issue an infringement notice to a person if the warranted officer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The warranted officer may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 27F Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 27G Forfeiture for infringement offence
+(1) A marine mammal in respect of which an infringement offence is committed is forfeited to the Crown if—
+  (a) the infringement fee for the offence is paid:
+  (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months after the time when the offence is alleged to have been committed:
+  (c) the informant and the person enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the person to pay the relevant infringement fee by instalments:
+  (d) the person is found guilty, or admits the commission, of the infringement offence.
+(2) In addition, the court may order that any vessels, vehicles, aircraft, hovercraft, gear, nets, tackle, equipment, or apparatus used in respect of the commission of the infringement offence be forfeited to the Crown if—
+  (a) proceedings in respect of an infringement offence against section 27A(1)﻿(a) are commenced by the filing of a charging document under the Criminal Procedure Act 2011; and
+  (b) a person is found guilty, or admits the commission, of the infringement offence.
+(3) Items that are forfeited to the Crown may be disposed of as the Minister thinks fit.
+
+### 27H Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 27I Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
 
 ### 28 Regulations
 (1) The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
@@ -359,6 +420,11 @@ Where any person causes an officer to incur any expense that he would not otherw
   (g) giving effect to the terms of any international agreement to which New Zealand is a party:
   (h) regulating, prohibiting, or restricting the sale, distribution, custody, carriage, packaging, handling, or use of any marine mammal, marine mammal product, or any product containing anything derived from a marine mammal:
   (i) regulating, prohibiting, or restricting the keeping of any marine mammal, marine mammal product, or any product containing anything derived from a marine mammal:
+  (ia) prescribing infringement offences for the contravention of regulations made under this Act:
+  (ib) prescribing penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
+  (ic) prescribing information to be included in infringement notices and reminder notices:
   (j) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) The Governor-General may, from time to time by Order in Council, make such regulations as the Governor-General in Council thinks necessary or expedient for the protection, conservation, or management of any marine mammal.
 (3) Any regulations under this section may apply generally throughout New Zealand or New Zealand fisheries waters or may be made to apply only within such area or areas as may be specified in the regulations.
