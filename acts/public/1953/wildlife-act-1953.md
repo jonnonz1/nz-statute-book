@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-12-21_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -57,6 +57,10 @@ _Consolidation as at 2018-10-01_
   - **game licence** means a licence to hunt or kill game issued by the Department or a Fish and Game Council under regulations made under this Act
   - **human-induced mortality** means the death of any marine wildlife that can be attributed directly or indirectly to any human activity
   - **hunt or kill** , in relation to any wildlife, includes the hunting, killing, taking, trapping, or capturing of any wildlife by any means; and also includes pursuing, disturbing, or molesting any wildlife, taking or using a firearm, dog, or like method to hunt or kill wildlife, whether this results in killing or capturing or not; and also includes every attempt to hunt or kill wildlife and every act of assistance of any other person to hunt or kill wildlife
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence in sections 70B to 70T; or
+    (b) an offence against regulations made under this Act that is declared by regulations to be an infringement offence
   - **lease** —and has a corresponding meaning
     (a) means—
       (i) a grant of an interest in land that—
@@ -959,10 +963,10 @@ Every person who, without lawful authority, breaches or fails to comply with any
 (3)
 
 ### 66A Offenders to give identifying information
-(1) A ranger or an authorised person who believes on reasonable grounds that a person has committed, is committing, or is about to commit an offence against this Act or any regulations made under this Act may require the person to give information or produce evidence as follows:The following table is small in size and has 2 columns. Column 1 is headed Type of ranger or authorised person. Column 2 is headed Information or evidence that ranger or authorised person may require.Type of ranger or authorised personInformation or evidence that ranger or authorised person may requireAuthorised person who is not a rangerThe person’s full name and residential addressHonorary fish and game ranger, honorary fishery officer, or ranger appointed under section 38(2)The person’s full name and residential addressFish and game ranger, other than an honorary fish and game rangerThe person’s full name, residential address, and date of birthAll other rangersThe person’s full name, residential address, and date of birth, and evidence of that information
+(1) A ranger or an authorised person who believes on reasonable grounds that a person has committed, is committing, or is about to commit an offence against this Act or any regulations made under this Act may require the person to give information or produce evidence as follows:The following table is small in size and has 2 columns. Column 1 is headed Type of ranger or authorised person. Column 2 is headed Information or evidence that ranger or authorised person may require.Type of ranger or authorised personInformation or evidence that ranger or authorised person may requireAuthorised person who is not a rangerThe person’s full name and residential addressHonorary fish and game ranger, honorary fishery officer, or ranger appointed under section 38(2)The person’s full name and residential addressAll other rangersThe person’s full name, residential address, and date of birth, and evidence of that information
 (2) A person who is required to give information or produce evidence under subsection (1) must—
   (a) give the information:
-  (b) produce the evidence within a reasonable time.
+  (b) produce the evidence as soon as practicable.
 (3) A person who contravenes subsection (2) commits an offence and is liable on conviction to the penalty set out in section 67F(5).
 (4) In this section,—
   - **authorised person** has the meaning given in section 61(3)
@@ -1090,7 +1094,7 @@ A person convicted of an offence under section 40(1) (which relates to obstructi
   (c) section 64 (which relates to acts committed in wildlife sanctuaries).
 
 ### 67G Sentence of community work
-A court may sentence any person who commits an offence against this Act to a sentence of community work and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+A court may sentence any person who is convicted of an offence against this Act to a sentence of community work and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 67H Offenders also liable for loss or damage
 (1) A person convicted of an offence against this Act is liable, in addition to the penalty for the offence, for any loss or damage or expenses arising from or caused by the act constituting the offence.
@@ -1150,7 +1154,205 @@ Notwithstanding anything to the contrary in section 25 of the Criminal Procedure
 (1) Any animal or any part of any animal or any egg or nest of any animal that has been unlawfully caught or killed or taken or unlawfully had in possession is hereby declared to be forfeited to Her Majesty.
 (2) It shall be the duty of every ranger or constable or other authorised person who has seized or otherwise obtained possession of any such animal or part of any animal or egg or nest of any such animal to forward immediate notification thereof to the Director-General (or, in the case of any such animal or part of any animal or egg or nest seized by a fish and game ranger, to the Director), who, on the conviction of any person for unlawfully catching, hunting, killing, or taking the same or having the same in his possession, or, if no such person can be traced within 6 months after the seizure or taking possession, shall, in order to give effect to the forfeiture as aforesaid, give such orders as he thinks fit for the disposal of the thing seized, and those orders shall immediately on receipt thereof be carried out by the person to whom they are given.
 (3) In the case of all other property lawfully seized or taken into possession under this Act, the property shall be retained by the Director-General or the Director, as the case may be, pending the trial of any person for the offence in respect of which the property was seized or taken into possession. If no such person can be traced within 6 months after the seizure or taking into possession, the property shall be deemed to be forfeited to the Crown, and shall be disposed of as the Director-General or the Director, as the case may be, directs. Where proceedings are taken against any person in respect of the offence, the property seized or taken into possession shall, when the proceedings are completed, be returned to the person last in possession of the property, unless the court, where it enters a conviction, directs that the property or any part of it be forfeited to the Crown, in which case the property or part thereof, as the case may be, shall be deemed to be forfeited to the Crown accordingly, and shall be disposed of as the Director-General or the Director, as the case may be, directs.
+(3A) Subsection (3) applies as if a person were convicted of an offence against this Act if—
+  (a) proceedings in respect of an infringement offence are commenced by the filing of a charging document under the Criminal Procedure Act 2011; and
+  (b) the person is found guilty, or admits the commission, of the infringement offence.
 (4) Notwithstanding anything in the Public Finance Act 1977, the power conferred on the Director-General or the Director by subsection (3) to direct the disposal of any property forfeited to the Crown under that subsection shall, in any case where the prosecution was commenced by an officer of a Fish and Game Council, include power to dispose of the property to that Council, without consideration, for the purposes of sale; and the property shall be sold by the Council and the proceeds of sale shall be paid into its funds and applied for the purposes of the Council.
+
+**Infringement offences**
+
+### 70A Relationship between infringement offences and other offences
+Nothing in sections 70B to 70T prevents the prosecution of, and conviction for, an offence in any other section of this Act (instead of proceeding under sections 70B to 70T).
+
+### 70B Hunting during close season
+(1) A person must not hunt or kill any game during a close season.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70C Hunting without licence during open season
+(1) A person must not hunt or kill game of any species during an open season in any area, unless the person holds a licence under this Act to hunt or kill game of the relevant species in the relevant area during the open season.
+(2) However, the occupier of any land may, without a licence, hunt or kill any game on the land that may be hunted or killed under a licence.
+(3) In subsection (2), occupier has the same meaning as in section 19, but includes a spouse, civil union partner, de facto partner, or child of the occupier.
+(4) A person who is appointed as an occupier by a notice signed under section 19(4)﻿(b) and endorsed under section 19(5) must produce the notice if an authorised person (as defined in section 61(3)) demands that the person do so.
+(5) A person who fails to comply with this section commits an infringement offence.
+
+### 70D Contravening terms of open season notification
+(1) A person must not, during an open season, hunt or kill game, or have in the person’s possession any game, in contravention of the terms of the notice declaring the open season.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70E Hunting wildlife in contravention of conditions prescribed by Minister
+(1) This section applies to a person who hunts, kills, or has in the person’s possession any wildlife that is the subject of a notification under section 6(1).
+(2) The person must not contravene a condition prescribed by the Minister under section 6(2).
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 70F Failure to produce licence on demand
+(1) This section applies to a person if—
+  (a) the person is found, in any area where any species of wildlife is usually prevalent, in possession of or in control of a firearm, net, trap, decoy, or other instrument or device capable of being used for the purpose of hunting or killing the relevant species of wildlife; and
+  (b) a licence to hunt or kill the relevant species of wildlife is required under this Act; and
+  (c) an authorised person demands that the person produce the person’s licence.
+(2) A person to whom this section applies must produce the person’s licence to the authorised person.
+(3) A person who fails to comply with this section commits an infringement offence.
+(4) In this section, authorised person has the meaning given in section 61(3).
+
+### 70G Taking protected wildlife or game
+(1) A person must not, without lawful authority,—
+  (a) hunt or kill any absolutely protected or partially protected wildlife or any game; or
+  (b) buy, dispose of, or have in the person’s possession—
+    (i) any absolutely protected or partially protected wildlife or any game; or
+    (ii) any skin, feathers, or other portion, or any egg, of any absolutely protected or partially protected wildlife or of any game; or
+  (c) rob, disturb, destroy, or have in the person’s possession the nest of any absolutely protected or partially protected wildlife or of any game.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70H Taking game in contravention of Act or notification
+(1) A person must not, if not expressly authorised by this Act or a notification given by the Minister,—
+  (a) trap game in any manner or take game by any means; or
+  (b) erect or set any trap, net, snare, or other device for the purpose of taking game; or
+  (c) spread oil on any water for the purpose of hunting or killing any game or for the purpose of preventing game from alighting on that water; or
+  (d) use, for the purposes of hunting any game,—
+    (i) any light; or
+    (ii) a live decoy; or
+    (iii) a cylinder, mudhole, or similar device in any lake, lagoon, pond, river, estuary, or other open water (whether natural or artificially constructed) unless the sides of the cylinder, mudhole, or device project 60 centimetres or more above the surface of the water; or
+    (iv) any aircraft, motor vehicle, or other vehicle propelled by mechanical power; or
+    (v) on any lake, lagoon, pond, river, estuary, or other water (whether natural or artificially constructed) any vessel (other than a row boat) in driving, chasing, unduly disturbing, putting to flight, or stalking game; or
+    (vi) any unmoored floating stand, hide, shelter, maimai, or louvre, or any unmoored boat artificially dressed or covered in any way.
+(2) Subsection (1)﻿(d)﻿(iv) and (v) does not apply to—
+  (a) the use of a vehicle or vessel for the purpose of travelling to or from a place where the person intends to hunt game; or
+  (b) the use of a vessel for the purposes of—
+    (i) camping; or
+    (ii) retrieving game that has been killed or wounded; or
+    (iii) in the case of a moored vessel, shooting from the vessel (unless prohibited by another provision of this Act).
+(3) A person who fails to comply with this section commits an infringement offence.
+(4) In this section, decoy, row boat, and vessel have the meanings given in section 18(2).
+
+### 70I Failure to comply with condition of authority to take or kill wildlife
+(1) This section applies—
+  (a) to a person to whom the Director-General gives an authority under section 53; and
+  (b) if an authority is given to a Fish and Game Council under section 53, to an officer or employee of the Council and any other person exercising the powers of the Council under the authority.
+(2) A person to whom this section applies must comply with any condition on which the authority was granted.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 70J Liberating wildlife or exporting animals or animal products
+(1) A person must not, without the prior written authority of the Director-General,—
+  (a) liberate wildlife; or
+  (b) capture, attempt to capture, or possess wildlife for the purpose of liberating the wildlife; or
+  (c) export from New Zealand—
+    (i) any bat, bird (other than a domestic bird), reptile, or amphibian, or any animal listed in Schedule 7; or
+    (ii) any skin, feathers, egg, flesh, or other part of an animal listed in subparagraph (i).
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70K Transporting wildlife without proper information on container
+(1) This section applies to a person who consigns or sends by carrier, forwarding agent, or any other means any parcel, package, case, bag, luggage, or other container (a container) containing—
+  (a) any absolutely protected wildlife (whether alive or dead); or
+  (b) any part of any absolutely protected wildlife or any eggs of any absolutely protected wildlife.
+(2) A person to whom this section applies must ensure that the outside of the container is plainly marked with—
+  (a) a list and description of its contents; and
+  (b) the name and address of the consignor and consignee.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 70L Farming or breeding certain unprotected animals
+(1) A person must not—
+  (a) farm or breed wildlife specified in Schedule 8; or
+  (b) for the purposes of farming or breeding, capture, convey, or keep in captivity wildlife specified in Schedule 8.
+(2) This section does not apply if the activity undertaken by the person is authorised by the Minister under section 41 or by any regulations made under this Act.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 70M Failure to report accidental or incidental death or injury
+(1) A person who accidentally or incidentally kills or injures any marine wildlife must report the event and provide any particulars in the manner required by section 63B.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70N Interfering with items on land under section 59
+(1) A person must not, without being authorised by the Director-General,—
+  (a) take away, be in possession of, remove, destroy, displace, or move the position of any tent or other structure, or any service, convenience, or amenity erected or provided on any land under section 59; or
+  (b) remove, injure, or damage in any way any vehicle, animal, equipment, or supplies brought onto any land under section 59.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70O Littering
+(1) A person must not deposit litter in a wildlife refuge or wildlife sanctuary.
+(2) A person who fails to comply with this section commits an infringement offence.
+(3) In this section,—
+  - **deposit** has a corresponding meaning to the meaning of depositing in section 2(1) of the Litter Act 1979
+  - **litter** has the meaning given in section 2(1) of the Litter Act 1979.
+
+### 70P Acting without required licence, permit, etc
+(1) A person must not do or cause to be done any act, matter, or thing for which a licence, permit, concession, or other right or authority is required by this Act or by any regulations under this Act without the required licence, permit, concession, or other right or authority.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70Q Contravening instruments made under this Act
+(1) A person must not contravene—
+  (a) a notification made under section 7(1); or
+  (b) an Order in Council made under section 9; or
+  (c) a Proclamation or notice made under section 14(1A); or
+  (d) a Proclamation issued under section 14A.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 70R Infringement offences relating to wildlife refuges
+(1) A person must not, while in a wildlife refuge,—
+  (a) hunt, kill, molest, capture, disturb, harry, or worry wildlife in the wildlife refuge; or
+  (b) take, destroy, or disturb the nests, eggs, or spawn of wildlife in the wildlife refuge; or
+  (c) possess a firearm or an explosive; or
+  (d) have in the person’s control any dog or cat; or
+  (e) do anything that causes any wildlife to leave the wildlife refuge.
+(2) This section does not apply if the person’s action is authorised by—
+  (a) section 5(2); or
+  (b) section 14(2) or (2A); or
+  (c) an authority granted under section 53 or 54.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 70S Infringement offences relating to waterfowl
+(1) A person must not, without the consent of the Minister, hunt or kill waterfowl during an open season for game in a designated area where, during the open season or within 30 days immediately before the open season, any food has been cast, thrown, placed, or planted.
+(2) A person must not hunt or kill waterfowl during an open season for game in a designated area—
+  (a) in which, during the open season for game or within 30 days immediately before the open season, the waters were artificially formed; or
+  (b) in which, or in the near vicinity of which, there is a notice under section 17(5) erected or affixed during that open season or within 30 days immediately before the open season; or
+  (c) in respect of which the occupier of the land has informed the person that food has been cast, thrown, placed, or planted, or that the waters have been artificially formed, during the open season or within the 30 days immediately before the open season.
+(3) A person must not destroy, deface, or tamper with a notice erected or affixed under section 17(5).
+(4) An occupier of land who is served with a written notice under section 17(5) must comply with the notice.
+(5) A person who fails to comply with this section commits an infringement offence.
+(6) In this section, designated area, food, waterfowl, and waters have the meanings given in section 17(1).
+
+### 70T Infringement offences relating to homing pigeons
+(1) A person must not hunt, kill, disable, or otherwise injure, ensnare, or detain a homing pigeon belonging to any other person.
+(2) A person must not, without lawful authority, disturb, open, or in any way tamper with any cage or other receptacle that is being used to carry homing pigeons.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 70U Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 70W.
+(2) If an infringement notice has been issued under section 70W, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 70V Who may issue infringement notices
+(1) The Director-General may authorise a ranger, in writing, to issue infringement notices under this Act.
+(2) The Director of the New Zealand Fish and Game Council may authorise a fish and game ranger, in writing, to issue infringement notices under this Act.
+(3) The Director of the New Zealand Fish and Game Council must not authorise an honorary fish and game ranger to issue infringement notices under this Act.
+(4) The Director of the New Zealand Fish and Game Council—
+  (a) must, in exercising the power in subsection (2), comply with the national compliance and enforcement policy approved by the Minister under section 26HA of the Conservation Act 1987; and
+  (b) may not exercise the power in subsection (2) if no such policy has been approved.
+(5) The Director of the New Zealand Fish and Game Council must not delegate the power in subsection (2).
+(6) In this section, honorary fish and game ranger means a person appointed in an honorary capacity under section 26FA(2) of the Conservation Act 1987.
+
+### 70W Infringement notices
+(1) A ranger authorised under section 70V may issue an infringement notice to a person if the ranger believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The ranger may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 70X Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 70Y Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 70Z Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
 
 **Miscellaneous**
 
@@ -1194,7 +1396,13 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
   (wc) prescribing the procedure in respect of applications to the Board for grants and prescribing the criteria to be applied by the Board in considering such applications; and authorising the Board to make any grant subject to conditions imposed by the Board:
   (wd) providing for the collection and disposal of revenue from game bird habitat stamps and associated products:
   (we) prescribing a fee or a scale of fees payable in respect of game bird habitat stamps and the basis on which such fees are payable; and prescribing the persons or bodies to whom such fees are payable:
-  (x) prescribing fines not exceeding $5,000 for a breach of any such regulation.
+  (x) prescribing fines not exceeding $5,000 for a breach of any such regulation:
+  (y) prescribing infringement offences for the contravention of regulations made under this Act:
+  (z) prescribing penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence; and
+    (iii) may be prescribed at different levels for the same offence based on whether the offence relates to absolutely protected, partially protected, or unprotected wildlife:
+  (za) prescribing information to be included in infringement notices and reminder notices.
 (2A) Without limiting the power to make regulations under subsections (1) and (2), the Governor-General may from time to time, by Order in Council, make regulations for the following purposes:
   (a) for preventing the pollution of any waters by casting or throwing into, or discharging or causing to be put or discharged into, or placing on the bank or margin of, or placing in a position where it is likely to fall or descend or be washed or percolate into, any such waters, any sawdust or sawmill refuse, lime (other than agricultural or slaked lime), sheep dip, flaxmill refuse, oil, chlorinated hydrocarbon pesticide, or any other substance poisonous or injurious to wildlife, the habitat of wildlife, or the food of wildlife:
   (b) prescribing offences for breaches of any such regulations, and prescribing—
