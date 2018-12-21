@@ -1,5 +1,5 @@
 # Wild Animal Control Act 1977
-_Consolidation as at 2017-10-18_
+_Consolidation as at 2018-12-21_
 
 > An Act to make better provision for the control of harmful species of introduced wild animals and the means of regulating the operations of recreational and commercial hunters, including wild animal recovery hunting using aircraft, so as to achieve concerted action and effective wild animal control, and to consolidate and amend the Noxious Animals Act 1956
 
@@ -35,6 +35,10 @@ This Act may be cited as the Wild Animal Control Act 1977.
     (c) taking or using any dog, firearm, vehicle, vessel, aircraft, net, snare, trap, poison, or like method while engaged in hunting any such animal, whether or not this results in capturing or killing any such animal:
     (d) attempting to hunt or capture or kill any such animal while engaged in recreational, commercial, or guided hunting or hunting to capture live wild animals for export, farming, sale, breeding, exchange, public display, scientific, or other purposes:
     (e) engaging in a wild animal recovery operation
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence in subpart 1 of Part 4A; or
+    (b) an offence against regulations made under this Act that is declared by regulations to be an infringement offence
   - **keep in captivity** , in relation to any wild animal, means to enclose, restrain, or otherwise detain or harbour the animal by any means whatsoever; and includes the transport of the animal in a secure conveyance to a duly authorised place of captivity or to a ship or an aircraft for export from New Zealand; but does not include temporary immobilisation for the purpose of marking; and has a corresponding meaning
   - **land** means land of any tenure
   - **liberate** , in relation to any wild animal, means to set at liberty or release or allow to go at large, whether or not the act is deliberate or is a result of negligence or lack of care by the person having the wild animal in his ownership or care
@@ -308,7 +312,7 @@ The Minister shall administer and manage wild animals in accordance with—
   (h) require, by notice in writing, the owner or manager of any domestic animals, or any wild animals held under permit issued under this Act or regulations made under this Act, to remove any such domestic or wild animals from the land where they are normally held or are present, as the case may be, for a specified period and from a specified date where:provided that, where any domestic animals may be affected by any requirement under this paragraph, notice in writing in respect thereof shall be given, at least 10 days before the requirement is to take effect, to the owner and manager of any animal to which the requirement relates and (if applicable) every owner or occupier of the land where the animals are normally held or are present, as the case may be.
     (i) the domestic animals are trespassing on Crown-owned land over which wild animal control operations are planned or are under way; or
     (ii) the wild animals are causing or are liable to cause damage to the land, soils, vegetation, natural water, or wildlife on the land, or are liable to encourage the spread of any animal disease:
-(2) Where any article or animal used in the commission of an offence is seized by a warranted officer it shall be retained by the Director-General pending the trial of the person from whom it was seized for the offence in respect of which it was seized. If proceedings are not taken within 12 months against the person from whom the article or animal was seized, it shall, at the expiry of that period, be returned to him. Where proceedings are so taken against the aforesaid person, the article or animal shall, when the proceedings are completed, be returned to that person unless the court, where it enters a conviction, directs that the article or animal or any other article, animal, or aircraft used in the commission of the offence but not seized by a warranted officer be forfeited to the Crown, in which case the article or animal shall be forfeited to the Crown accordingly, and shall be disposed of as the Minister directs.
+(2)
 (3) Where a wild animal is seized or removed from any place, it may be held in any convenient place as the property of the Crown pending the prosecution of any person in respect of an offence against this Act; and any expenses incurred in holding the animal may be awarded by the court in fixing the penalty for the offence and may be recovered as a fine.
 (3A) Notwithstanding subsection (3) and section 39(4), where the carcass of any wild animal is seized or removed from any place, it may be sold. The net proceeds received from the sale shall be paid into the Department Deposit Account and shall be dealt with in accordance with subsection (2) as if those proceeds and not the carcass had been the article seized.
 (4) Where any wild animal or its carcass is sold or disposed of under paragraph (g) of subsection (1), all proceeds from the sale or disposition shall belong to the Crown.
@@ -450,6 +454,84 @@ Notwithstanding anything to the contrary in any other Act, any local authority m
 (1) Every local authority, before taking any action for the destruction of wild animals in its district, shall prepare and submit its plans in that behalf to the Minister for his approval.
 (2) The Minister may approve any such plans subject to such conditions as he in his discretion thinks fit, or may require the local authority to modify the plans.
 
+## Part 4A — Infringement offences
+
+### 31A Relationship with other offences
+Nothing in this Part prevents the prosecution of, and conviction for, an offence in any other Part of this Act (instead of proceeding under this Part).
+
+### Subpart 1 — Infringement offences
+
+### 31B Hunting without authority of land owner
+(1) A person must not hunt, kill, or possess a wild animal on any land without the express authority of the owner or occupier of that land.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 31C Selling, delivering, or receiving carcass without ears attached
+(1) Subsection (2) applies to—
+  (a) a person who kills a wild animal of a kind that may be farmed under any Act; and
+  (b) the person’s agent or employer.
+(2) A person to whom this subsection applies must not sell or deliver the carcass of the wild animal to a game depot or game packing house without the ears attached to the hide.
+(3) A licensee of a game depot or game packing house must not receive a carcass that has been sold or delivered in contravention of subsection (2).
+(4) A person who fails to comply with this section commits an infringement offence.
+
+### 31D Inadequate fencing
+(1) A person who keeps deer in captivity on a regulated deer farm for the purposes of farming must maintain the enclosures on the land so as to—
+  (a) prevent the escape of the deer; or
+  (b) maintain compliance with any prescribed specifications.
+(2) A person who keeps an animal in captivity in a safari park must maintain the enclosures on the land so as to—
+  (a) prevent the escape of the animal; or
+  (b) maintain compliance with any prescribed specifications.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 31E Interfering with items on land under section 16
+(1) A person must not, without being authorised by the Director-General,—
+  (a) take away, be in possession of, occupy, fail to vacate, remove, destroy, displace, or move the position of any tent or other structure, or any service, convenience, vehicle, vessel, aircraft, amenity, or notice erected or provided on any land under section 16; or
+  (b) remove, injure, or damage in any way any vessel, aircraft, vehicle, animal, equipment, or supplies brought onto or used on or present on any land under section 16.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 31F Failure to provide Crown with proceeds from sale of animal or carcass
+(1) A person must pay to the Crown any money paid to the person in respect of an animal (or the carcass of an animal) taken or killed during the commission of an offence against—
+  (a) this Act; or
+  (b) the Trespass Act 1980; or
+  (c) the Civil Aviation Act 1990; or
+  (d) any other Act or bylaw relating to the land, the natural waters of the land, or the flora or fauna of the land on which the offence was committed.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### Subpart 2 — Procedural matters
+
+### 31G Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 31I.
+(2) If an infringement notice has been issued under section 31I, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 31H Who may issue infringement notices
+The Director-General may authorise a warranted officer, in writing, to issue infringement notices under this Act.
+
+### 31I Infringement notices
+(1) A warranted officer authorised under section 31H may issue an infringement notice to a person if the warranted officer believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The warranted officer may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 31J Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 31K Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
+
+### 31L Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
+
 ## Part 5 — General provisions
 
 ### 32 Protection of officers and others
@@ -462,10 +544,23 @@ No matter or thing done by any person in good faith in the exercise of his power
   (c) by affixing a written or painted or printed notice, which bears the symbol of the Department and the name or designation of the Minister or the Director-General or any Conservator of Forests or warranted officer, as is appropriate, at or on some other conspicuous or frequented place on the land of the person, or on any place where it will be seen by the person should he frequent the land.
 (2) Nothing in this section shall affect section 71 of the Maori Affairs Amendment Act 1974.
 
-### 34 Offenders to give name and address to officers, etc
-(1) Where any person is found offending against or acting in contravention of this Act or any regulations or notification under this Act, it shall be lawful for any warranted officer or officer or employee of the Department to require the offender forthwith to desist from so doing and also to give his real first name, surname, and place of abode and to show for identification purposes his driving licence, his firearm serial number, his dog registration number, or any other means of identification.
-(1A) If the person fails to comply with a lawful requirement of a warranted officer or officer or employee of the Department, the warranted officer (if he is a constable) or any constable may caution the person and, if the person persists in such failure to comply, may arrest him without warrant.
-(2) If the person, after being so required, fails to give his real first name or surname or place of abode, or to give a means of identification when called upon to do so, or gives a false name or address, or gives such a description of his place of abode as is illusory for the purpose of discovery, or wilfully continues the offence or contravention, he commits an offence, or (as the case may be) a further offence against this Act.
+### 34 Power to require person to stop offending
+(1) This section applies if a warranted officer or an officer or employee of the Department (an officer) believes on reasonable grounds that a person is committing an offence against this Act or any regulations made under this Act.
+(2) The officer may require the person to stop doing the act that constitutes the offence.
+(3) A person who continues an act after being required to stop commits a further offence.
+
+### 34AA Power to require information
+(1) This section applies if a warranted officer or an officer or employee of the Department (an officer) believes on reasonable grounds that a person has committed an offence against this Act or regulations made under this Act.
+(2) The officer may require the person to—
+  (a) state the person’s full name, residential address, and date of birth; and
+  (b) provide evidence, as soon as practicable, of the person’s full name, residential address, and date of birth.
+(3) A person commits an offence if the person—
+  (a) refuses or fails to give information required under subsection (2)﻿(a); or
+  (b) refuses or fails to produce evidence required under subsection (2)﻿(b) as soon as practicable.
+
+### 34AB Constable may arrest person who fails to comply with section 34 or 34AA
+(1) A constable may caution a person who fails to comply with a requirement under section 34 or 34AA.
+(2) If, after being cautioned, the person continues to fail to comply with a requirement, the constable may arrest the person without warrant.
 
 ### 34A Owner or hirer of aircraft to give information as to identity of pilot, etc
 (1) On being informed of any offence alleged to have been committed against this Act by the pilot of or any shooter carried by an aircraft, and on being requested to do so by a warranted officer, whether the request is made orally or in writing, the owner of the aircraft or the person legally entitled to possession of that aircraft, and, in the case of an aircraft let on hire, the person to whom it is let on hire, shall, within 14 days after the receipt of the request, give to the warranted officer or the Director-General all information in his possession or obtainable by him which may lead to the identification and apprehension of the pilot and any such shooter.
@@ -516,7 +611,7 @@ No matter or thing done by any person in good faith in the exercise of his power
   (f) section 36(1)﻿(d), which relates to impeding, obstructing, or threatening officers:
   (g) section 36(3), which relates to engaging in wild animal recovery operations without a concession.
 (2A)
-(3) Every person who commits an offence against any regulations made under this Act for which no penalty is provided elsewhere than in this subsection is liable,—
+(3) Every person who commits an offence against any regulations made under this Act for which no penalty is provided elsewhere than in this subsection is liable on conviction,—
   (a) in the case of an individual,—
     (i) to a fine not exceeding $5,000; and
     (ii) if the offence is a continuing one, to a further fine not exceeding $500 for every day on which the offence continues:
@@ -530,7 +625,7 @@ No matter or thing done by any person in good faith in the exercise of his power
 (4) Any wild animal taken or killed during the commission of any offence against this Act, the Trespass Act 1980, the Civil Aviation Act 1990, or any other Act or bylaw relating to the land or the natural waters of the land or the flora or fauna of the land whereon the offence was committed, and any part of the carcass of any wild animal so taken or killed during the commission of any offence against any of the said Acts, shall be deemed to be unlawfully taken or killed, and shall remain the property of the Crown, and any money paid in respect of the animal or its carcass shall be paid to the Department for credit to a Crown Bank Account, or shall be recoverable from the person who sold the animal or carcass as a debt due to the Crown, and every person who fails to comply with this subsection commits an offence against this Act.
 
 ### 39A Sentence of community work
-A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+A court may sentence any individual who is convicted of an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 39B Penalties for offences committed for commercial gain or reward
 (1) If a person is convicted of an offence against this Act and, on sentencing for that offence, the court is satisfied beyond reasonable doubt that the offence was committed for the purpose of commercial gain or reward (whether or not any gain or reward is realised), the person is liable instead of any penalty otherwise prescribed to,—
@@ -538,6 +633,23 @@ A court may sentence any individual who commits an offence against this Act to a
   (b) in the case of a body corporate, a fine not exceeding $300,000:
   (c) in any case, where the offence is a continuing one, a further fine not exceeding $20,000 for every day on which the offence continues.
 (2) Subsection (1) overrides every other provision of this Act to the contrary.
+
+### 39C Return and forfeiture of seized items
+(1) This section applies if an article or animal used in the commission of an offence is seized from a person by a warranted officer.
+(2) The Director-General must retain the article or animal pending proceedings against the person for the offence.
+(3) If proceedings are not commenced against the person within 12 months after the seizure, the Director-General must return the article or animal to the person.
+(4) The court may order that the article or animal be forfeited to the Crown,—
+  (a) in the case of an offence that is not an infringement offence, if the court enters a conviction against the person for the offence; or
+  (b) in the case of an infringement offence, if the person is found guilty, or admits the commission, of the infringement offence.
+(5) In this section, proceedings does not include the issue of an infringement notice.
+
+### 39D Forfeiture of other items
+The court may order that an article, animal, or aircraft used in the commission of an offence be forfeited to the Crown (even if it has not been seized),—
+  (a) in the case of an offence that is not an infringement offence, if the court enters a conviction against a person for the offence; or
+  (b) in the case of an infringement offence, if a person is found guilty, or admits the commission, of the infringement offence.
+
+### 39E Disposal of forfeited items
+Items that are forfeited to the Crown may be disposed of as the Minister directs.
 
 ### 40 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -550,6 +662,11 @@ A court may sentence any individual who commits an offence against this Act to a
   (g) providing for the setting apart and control of specified hunting areas defined under this Act, and for the prohibition or restriction of the use of vehicles or vessels of any description or aircraft in a defined hunting area, and for the conditions on which they may be used in such an area:
   (h) providing for the prescribing and revocation of any charges, fees, conditions, permits, or licences in respect of the hunting or killing of wild animals as a commercial operator, hunting guide, or recreational hunter, and for the refusal of the issue of licences:
   (i) prescribing procedures and fees in connection with appeals under this Act:
+  (ia) prescribing infringement offences for the contravention of regulations made under this Act:
+  (ib) prescribing penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
+  (ic) prescribing information to be included in infringement notices and reminder notices:
   (j) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Regulations made under this Act may be so made as to apply generally throughout New Zealand or within any specified part or parts thereof.
 
