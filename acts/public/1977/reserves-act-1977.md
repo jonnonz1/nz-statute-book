@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2018-12-21_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -43,6 +43,10 @@ _Consolidation as at 2018-11-12_
   - **foreshore** means all land lying between the high-water mark of the sea at ordinary spring tides and its low-water mark at ordinary spring tides
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
   - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
+  - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
+  - **infringement offence** means—
+    (a) an offence in sections 105B to 105I; or
+    (b) an offence against regulations or bylaws made under this Act that is declared by regulations to be an infringement offence
   - **Land Settlement Board** means the Land Settlement Board established by the Land Act 1948
   - **lease** , in relation to a reserve vested in the Crown,—and has a corresponding meaning
     (a) means—
@@ -1176,10 +1180,10 @@ The administering body, in the case of a reserve vested in that administering bo
 
 ### 93 Powers of constables, rangers, and other officers
 (1) Any officer may summarily interfere to prevent any actual or attempted breach of this Act or of any regulation or bylaw thereunder, and he or she may require any person found offending to desist from the offence. If any person when so required continues the offence, he or she commits a further offence against this Act.
-(2) It shall be lawful for an officer to require any person found offending against this Act or any regulation or bylaw made under this Act to disclose his or her true first name, surname, and place of abode, and if that person, when so required,—he commits an offence against this Act, and may be arrested without warrant by any constable.
-  (a) refuses to disclose his or her true first name, surname, or place of abode; or
-  (b) gives a false name or address; or
-  (c) gives a description of his or her place of abode that is illusory for the purpose of discovery,—
+(2) It shall be lawful for an officer to require any person found offending against this Act or any regulation or bylaw made under this Act to disclose the person’s full name, residential address, and date of birth, and to provide evidence, as soon as practicable, of those particulars, and if that person, when so required,—the person commits an offence against this Act, and may be arrested without warrant by any constable.
+  (a) refuses or fails to disclose information required under this subsection; or
+  (b) refuses or fails to provide evidence required under this subsection as soon as practicable,—
+  (c)
 (3) Any person arrested under subsection (2) shall be brought before a court, as soon as possible, to be dealt with according to law.
 (4) The production by any officer of his or her warrant, instrument of appointment, or other written evidence of identification shall be sufficient evidence of the authority of that officer to exercise the powers conferred by this section.
 (5) In this section, officer means—
@@ -1236,11 +1240,20 @@ The administering body, in the case of a reserve vested in that administering bo
     (i) where pursuant to the Protected Objects Act 1975 it is the property of the Crown, it shall be delivered to the Secretary for Internal Affairs or, with the consent of the Secretary for Internal Affairs, retained in the custody of the Director-General:
     (ii) in any other case, it shall be delivered to the person who is entitled to its custody pursuant to the Protected Objects Act 1975:
   (c) in the case of any other property, it shall be deemed to be forfeited to the administering body, or to the Crown if there is no administering body, and shall be disposed of as the administering body or, if there is no administering body, the Commissioner, directs.
+(3A) Subsection (3) applies as if a person were convicted of an offence if an infringement notice is issued to the person or a charging document is filed against the person in relation to an infringement offence and any of the following occurs:
+  (a) the infringement fee for the offence is paid:
+  (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months after the time when the offence is alleged to have been committed:
+  (c) the informant and the person enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the person to pay the relevant infringement fee by instalments:
+  (d) the person is found guilty, or admits the commission, of the infringement offence.
 (4) Where any person is convicted of an offence against this Act, the court may order that any animal or bird or the nest or egg of any bird or the body of any animal or bird, or any part thereof, taken by the defendant in the course of committing the offence and still in his or her possession or in the possession of any other person on his or her behalf shall—
   (a) in the case of any protected wildlife or the nest or egg of any protected wildlife or the body of any protected wildlife, or any part thereof, be forfeited to the Crown, and the property shall be deemed to be forfeited to the Crown accordingly and shall forthwith be delivered to the Director-General by the defendant or person holding it on his or her behalf, and shall be dealt with pursuant to the Wildlife Act 1953:
   (b) in the case of any other property, be forfeited to the administering body, or to the Crown if there is no administering body, and the property shall be deemed to be forfeited to the administering body or to the Crown, as the case may be, accordingly, and shall forthwith be delivered to the administering body, or, if there is no administering body, to the Commissioner, by the defendant or person holding it on his or her behalf, and shall be disposed of as the administering body or the Commissioner directs.
 (5) All buildings, signs, hoardings, or apparatus erected on any reserve without the consent in writing of the Minister or the administering body shall be deemed to be forfeited to the Crown or, as the case may be, the administering body, and shall be disposed of by the Commissioner or that body in such manner as he or she or it thinks fit.
 (6) Any firearm, trap, net, or other like object found illegally in the possession of any person in any reserve, and any tool or instrument or other equipment found in the possession of any person in any reserve and used in committing an offence in the reserve may be seized by any officer (within the meaning of section 93(5)).
+(6AA) A court may direct that an item seized under subsection (6) be forfeited to the Crown if—
+  (a) proceedings for an offence are taken against the person from whom the item was seized within 6 months after the seizure and the court enters a conviction against the person; or
+  (b) proceedings for an infringement offence are commenced against the person from whom the item was seized by filing a charging document within 6 months after the seizure and the person is found guilty, or admits the commission, of an infringement offence.
+(6AB) If proceedings are not commenced within 6 months after the seizure, or if the court does not direct that the item be forfeited to the Crown, the item must be returned to the person from whom it was seized.
 (6A) Subject to subsection (2), the provisions of Part 4 of the Search and Surveillance Act 2012 (except subpart 3) apply in respect of the seizure of any thing under this section.
 (7) The proceeds of the sale or disposal of anything sold or otherwise disposed of under this section shall, where it is sold or disposed of by the Commissioner, be paid into the Public Account to the credit of the Trust Account, and may be applied, as directed by the Minister, in purchasing, taking on lease, managing, administering, maintaining, protecting, improving, and developing reserves or as consideration for conservation covenants, and, where it is sold or disposed of by an administering body, shall form part of the funds of that body.
 (8) In this section the term protected wildlife means wildlife that pursuant to section 3 of the Wildlife Act 1953 is absolutely protected throughout New Zealand.
@@ -1341,12 +1354,111 @@ Every person who commits a breach of any bylaw under this Act commits an offence
   (b) where the offence is a continuing one, a further fine not exceeding $500 for every day on which the offence continues.
 
 ### 104A Sentence of community work
-A court may sentence any individual who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
+A court may sentence any individual who is convicted of an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002 apply with all necessary modifications.
 
 ### 105 Application of fines
 Subject to section 73 of the Public Finance Act 1989, all fines recovered under this Act shall—provided that any money awarded by a court in respect of loss or damage or the costs of extinguishing any fire or awarded under subsection (5) or subsection (6) of section 94 and recovered as a fine shall be paid or applied in the manner aforesaid, but without any deduction being made.
   (a) in the case of a fine recovered in respect of a charging document filed in the name of the principal administrative officer or chief executive of the administering body of any reserve (other than a Minister of the Crown) or of any person appointed in that behalf by the administering body of any reserve (other than a Minister of the Crown), be paid into and form part of the general funds of the administering body; and
   (b) in the case of a fine recovered in respect of a charging document filed in the name of the Commissioner or of any Minister of the Crown (where there is no administering body other than a Minister of the Crown) or of any person appointed in that behalf by the Commissioner or by any Minister of the Crown (where there is no administering body other than a Minister of the Crown), shall be paid into the Public Account to the credit of the Trust Account, and shall be applied towards the purchasing or taking on lease, managing, administering, maintaining, protecting, improving, or developing of reserves, or as consideration for conservation covenants, as the Minister of Conservation directs:
+
+**Infringement offences**
+
+### 105A Relationship between infringement offences and other offences
+Nothing in sections 105B to 105I prevents the prosecution of, and conviction for, an offence in any other section of this Act (instead of proceeding under sections 105B to 105I).
+
+### 105B Unauthorised actions in reserves
+(1) A person must not, without being authorised by the Minister, the Commissioner, or the administering body (as the case may require),—
+  (a) light a fire in a reserve except in a fireplace in a camping ground or picnic place established by the Minister, the Commissioner, or the administering body; or
+  (b) cause or allow any animal owned by the person or under the person’s control to enter any reserve; or
+  (c) liberate any animal in any reserve; or
+  (d) plant any tree, shrub, or plant of any kind in any reserve; or
+  (e) sow or scatter the seed of any tree, shrub, or plant of any kind in any reserve; or
+  (f) introduce any substance injurious to plant life in any reserve; or
+  (g) break or damage any fence, building, apparatus, or erection in any reserve; or
+  (h) remove or damage any, or any part of any, wood, tree, shrub, fern, plant, stone, mineral, gravel, kauri gum, furniture, utensil, tool, protected New Zealand object, relic, or thing of any kind, in any reserve; or
+  (i) dig, cut, or excavate the sod in any reserve; or
+  (j) occupy or use any land in a reserve for cultivation or any other purpose (unless the person is the lessee, licensee, or concessionaire of the land occupied or used); or
+  (k) take, destroy, injure, disturb, or interfere with any animal, or the nest or egg of any bird, on any reserve; or
+  (l) erect any building, sign, hoarding, or apparatus in any reserve; or
+  (m) carry on any trade, business, or occupation within any reserve vested in an administering body; or
+  (n) use any vehicle, boat, aircraft, or hovercraft in any reserve in breach of any prohibition under this Act; or
+  (o) in any way interfere with a reserve or damage the recreational, scenic, historic, scientific, or natural features or the flora and fauna within a reserve; or
+  (p) be in possession of any firearm, weapon, trap, net, or other similar object in a reserve.
+(2) A person must not—
+  (a) conduct in any park any activity for which a concession is required under section 59A without the required concession; or
+  (b) do or cause to be done any act, matter, or thing for which a lease, licence, permit, or other right or authority is required by this Act or by any regulations under this Act without the required lease, licence, permit, or other right or authority.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 105C Littering
+(1) A person must not deposit litter in a reserve.
+(2) A person who fails to comply with this section commits an infringement offence.
+(3) In this section,—
+  - **deposit** has a corresponding meaning to the meaning of depositing in section 2(1) of the Litter Act 1979
+  - **litter** has the meaning given in section 2(1) of the Litter Act 1979.
+
+### 105D Using or receiving items removed unlawfully from reserve
+(1) A person must not use, receive, or dispose of any wood, timber, bark, flax, mineral, gravel, kauri gum, protected New Zealand object, relic, or other substance removed unlawfully from any reserve.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 105E Altering boundary marks or items issued by Minister, Department, or administering body
+(1) A person must not unlawfully alter, obliterate, deface, pull up, remove, interfere with, or destroy any boundary marks, or any stamp, mark, sign, poster, licence, lease, permit, or other right or authority issued by the Minister, the Commissioner, or an administering body.
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 105F Failure to remove animal, vehicle, aircraft, or boat
+(1) An owner or a person in control of an animal must comply with a notice from the Minister, the Commissioner, or an administering body requiring the person to remove the animal from a reserve.
+(2) A driver of any vehicle, the pilot of any aircraft, or the person in charge of any boat that is illegally in a reserve must remove the vehicle, aircraft, or boat from the reserve when required to do so by an officer (as defined in section 93(5)).
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 105G Unauthorised entry
+(1) A person must not enter any nature reserve in breach of section 20(2)﻿(c), or in breach of any condition imposed in any permit granted or notice given under section 57.
+(2) A person must not enter any scientific reserve (or part of a scientific reserve) subject to a notice under section 21(2)﻿(b) prohibiting entry without a permit issued under section 59 or in breach of any condition imposed in any permit granted under section 59.
+(3) This section does not apply to an officer of the Department or a ranger who is acting in the course of the officer’s or ranger’s official duties.
+(4) A person who fails to comply with this section commits an infringement offence.
+
+### 105H Anchoring or mooring of boat in breach of notice or permit
+(1) A person in charge of a boat must not anchor or moor the boat—
+  (a) in breach of a notice given under section 57(3) or 59(3); or
+  (b) in breach of any permit granted under section 57(7) or 59(7).
+(2) A person who fails to comply with this section commits an infringement offence.
+
+### 105I Damage by fire
+(1) A person must not, without being authorised by the Minister, the Commissioner, or the administering body (as the case may require), light or permit to be lit on any land (including the foreshore, a public road, or a highway) a fire that spreads into and destroys any bush or natural growth in the reserve or damages the reserve in any way.
+(2) A lessee or licensee of any land in a reserve must not without being authorised by the Minister, the Commissioner, or the administering body (as the case may require), light or permit to be lit on that land a fire that destroys any bush or natural growth in the reserve or damages the reserve in any way.
+(3) A person who fails to comply with this section commits an infringement offence.
+
+### 105J Proceedings for infringement offences
+(1) A person who is alleged to have committed an infringement offence may either—
+  (a) be proceeded against by filing a charging document under section 14 of the Criminal Procedure Act 2011; or
+  (b) be served with an infringement notice under section 105L.
+(2) If an infringement notice has been issued under section 105L, proceedings for the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957, and in that case the provisions of that section apply with all necessary modifications.
+
+### 105K Who may issue infringement notices
+The Director-General or the chief executive of a local authority may authorise a ranger, in writing, to issue infringement notices under this Act.
+
+### 105L Infringement notices
+(1) A ranger authorised under section 105K may issue an infringement notice to a person if the ranger believes on reasonable grounds that the person is committing, or has committed, an infringement offence.
+(2) The ranger may deliver the infringement notice (or a copy of it) in person to the person alleged to have committed an infringement offence or send the notice by post addressed to that person’s last known place of residence or business.
+(3) An infringement notice (or a copy of it) sent by post to a person under subsection (2) is to be treated as having been served on that person when it was posted.
+(4) An infringement notice must be in the prescribed form and must contain the following particulars:
+  (a) such details of the alleged infringement offence as are sufficient to fairly inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) any other particulars that may be prescribed.
+
+### 105M Reminder notices
+A reminder notice must be in the prescribed form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
+
+### 105N Payment of infringement fees
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account or a local authority bank account.
+
+### 105O Penalties for infringement offences
+A person who commits an infringement offence is liable on conviction to—
+  (a) the infringement fee prescribed in regulations for that offence; or
+  (b) a fine imposed by a court not exceeding the maximum fine prescribed in regulations for that offence.
 
 **Bylaws**
 
@@ -1502,6 +1614,14 @@ Where under any provision of this Act the consent or approval of the Minister is
   (a) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration:
   (b) prescribing offences in respect of the contravention of or non-compliance with the regulations, and prescribing penalties for such offences not exceeding a fine of $5,000 and, where the offence is a continuing one, a further fine not exceeding $500 for every day on which the offence has continued.
 (2) Without limiting the general authority to make regulations conferred by subsection (1), regulations may be made under that subsection providing for the expulsion from reserves of persons acting thereon in contravention of any Act relating to betting or gaming.
+
+### 123A Regulations relating to infringement offences
+The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) prescribing infringement offences for the contravention of regulations or bylaws made under this Act:
+  (b) prescribing penalties for infringement offences, which,—
+    (i) in the case of infringement fees, must not be more than $1,000; and
+    (ii) in the case of maximum fines, must not be more than twice the amount of the infringement fee for the offence:
+  (c) prescribing information to be included in infringement notices and reminder notices.
 
 ### 124 Amendments
 (1) Unless the context otherwise requires, every reference in any other Act or in any regulation, rule, order, Proclamation, agreement, deed, instrument, application, notice, lease, licence, or other document whatsoever in force at the commencement of this Act—
