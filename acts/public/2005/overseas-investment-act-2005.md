@@ -1,5 +1,5 @@
 # Overseas Investment Act 2005
-_Consolidation as at 2018-10-22_
+_Consolidation as at 2018-12-30_
 
 ### 1 Title
 This Act is the Overseas Investment Act 2005.
@@ -315,11 +315,11 @@ An overseas investment in sensitive land is the acquisition by an overseas perso
 (1) An overseas investment in significant business assets is—
   (a) the acquisition by an overseas person, or an associate of an overseas person, of rights or interests in securities of a person (A) if—
     (i) as a result of the acquisition, the overseas person or the associate (either alone or together with its associates) has a 25% or more ownership or control interest in A or an increase in an existing 25% or more ownership or control interest in A; and
-    (ii) the value of the securities or consideration provided, or the value of the assets of A or A and its 25% or more subsidiaries, exceeds $100 million; or
+    (ii) the value of the securities or consideration provided, or the value of the assets of A or A and its 25% or more subsidiaries, exceeds $100 million or an alternative monetary threshold that applies in accordance with regulations made under section 61A; or
   (b) the establishment by an overseas person, or an associate of an overseas person, of a business in New Zealand (either alone or with any other person) if—
     (i) the business is carried on for more than 90 days in any year (whether consecutively or in aggregate); and
-    (ii) the total expenditure expected to be incurred, before commencing the business, in establishing that business exceeds $100 million; or
-  (c) the acquisition by an overseas person, or an associate of an overseas person, of property (including goodwill and other intangible assets) in New Zealand used in carrying on business in New Zealand (whether by 1 transaction or a series of related or linked transactions) if the total value of consideration provided exceeds $100 million.
+    (ii) the total expenditure expected to be incurred, before commencing the business, in establishing that business exceeds $100 million or an alternative monetary threshold that applies in accordance with regulations made under section 61A; or
+  (c) the acquisition by an overseas person, or an associate of an overseas person, of property (including goodwill and other intangible assets) in New Zealand used in carrying on business in New Zealand (whether by 1 transaction or a series of related or linked transactions) if the total value of consideration provided exceeds $100 million or an alternative monetary threshold that applies in accordance with regulations made under section 61A.
 (2) However, an overseas person that was lawfully carrying on business in New Zealand on 15 January 1996 (which was when the Overseas Investment Regulations 1995 came into force) does not require consent for an overseas investment in significant business assets described in subsection (1)﻿(b) if the investment requires consent only because it comes within that paragraph.
 
 **Criteria for consent**
@@ -1035,7 +1035,7 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
   (f) prescribing maximum bonds to be charged under section 25, a means by which bonds may be calculated or ascertained, or a rate at which bonds may be calculated or ascertained, for the purpose of meeting estimated reasonable costs of Ministers and the regulator in monitoring compliance with a condition or conditions of consent or exemption, and providing for the payment, and repayment if conditions are met, of those bonds:
   (g) prescribing maximum administrative penalties to be charged by the regulator, a means by which administrative penalties may be calculated or ascertained, or a rate at which administrative penalties may be calculated or ascertained, for the purposes of sections 52 and 53:
   (h) exempting or providing for exemptions from, or waivers, refunds, or discounting of, fees, charges, amounts, or administrative penalties:
-  (i) implementing obligations that have entered into force for New Zealand before the commencement of section 46 of the Overseas Investment Amendment Act 2018 under any international agreements to which New Zealand is a party and that relate to either or both of overseas investments in sensitive land and overseas investments in significant business assets:
+  (i) implementing obligations that have entered into force for New Zealand before the commencement of section 46 of the Overseas Investment Amendment Act 2018 under any international agreements to which New Zealand is a party and that relate to overseas investments in sensitive land:
   (j) specifying types of overseas persons for the purposes of clauses 4(2)﻿(d) and 7 of Schedule 2 where necessary to implement obligations that have entered into force for New Zealand before the commencement of section 46 of the Overseas Investment Amendment Act 2018 under any international agreements to which New Zealand is a party and that relate to overseas investments in sensitive land:
   (ja) prescribing, for the purposes of clauses 7 and 8 of Schedule 2,—
     (i) the process for considering whether a person remains committed to residing in New Zealand, including relevant factors (which may be non-exhaustive):
@@ -1047,6 +1047,21 @@ The court must not refuse to make an order under sections 47 to 51 on the ground
   (m) providing for transitional provisions:
   (n) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations under this Act (including regulations for prescribing fees, charges, bonds, or administrative penalties) may make different provisions for different cases on any differential basis.
+
+### 61A Regulations regarding alternative monetary thresholds for overseas investments in significant business assets
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations in order to implement obligations in all or any of the following international agreements in respect of certain overseas investments in New Zealand in significant business assets by certain investors:
+  (aaa) the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018:
+  (a) the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016:
+  (b) the Free Trade Agreement between New Zealand and the Republic of Korea done at Seoul on 23 March 2015:
+  (c) the Agreement between New Zealand and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Cooperation done at Wellington on 10 July 2013:
+  (d) the Protocol on Investment to the New Zealand–Australia Closer Economic Relations Trade Agreement done at Wellington on 16 February 2011:
+  (e) the New Zealand–Hong Kong, China Closer Economic Partnership Agreement done at Hong Kong on 29 March 2010:
+  (f) the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008:
+  (g) the Trans-Pacific Strategic Economic Partnership Agreement, done at Wellington on 18 July 2005.
+(2) Regulations made under subsection (1) may provide for alternative monetary thresholds under section 13 that apply, on terms and conditions (if any), to 1 or more classes of transactions, persons, interests, rights, and assets.
+(3) The Minister must be satisfied, before making a recommendation under this section, that the regulations do not provide for an alternative monetary threshold that is higher than the amount provided for in the relevant international agreement referred to in subsection (1), but the text of the regulations may otherwise differ from the text of an agreement.
+(4) Regulations made under subsection (1) may incorporate by reference any provisions of an international agreement referred to in that subsection.
+(5) Regulations made under subsection (1) may be made only to implement obligations in an international agreement that has entered into force for New Zealand.
 
 ### 61B Purpose of exemptions
 The purpose of sections 61C and 61D is to—
@@ -1307,6 +1322,17 @@ Section 61G may apply to a condition regardless of whether the condition came in
   (b) prepare a report on that review, including the Minister’s recommendations for amendments to this Act (if any); and
   (c) present the report to the House of Representatives as soon as practicable after it has been prepared.
 (2) The review must be started within 2 years after the commencement of this clause.
+
+### Part 2 — Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
+
+### 11 Application
+The amendments to the Act made by the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018, and the regulations made under section 61A, apply only to the acquisition of rights or interests in securities or of other property, or the establishment of any business, after the commencement of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
+
+### 12 No refunds
+No person is entitled to a refund of any fee or charge paid to the regulator for a matter under Schedule 2 of the Overseas Investment Regulations 2005 on the ground that regulations made under section 61A mean that the matter is no longer relevant (for example, that a consent that had been applied for is no longer required).
+
+### 13 Validation of exemptions for Australian investors
+Nothing in the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018 affects the validity of the Overseas Investment (Australia) Amendment Regulations 2013, which are also declared to have been lawfully made and to be and always have been valid.
 
 ## Schedule 1 — Sensitive land
 
