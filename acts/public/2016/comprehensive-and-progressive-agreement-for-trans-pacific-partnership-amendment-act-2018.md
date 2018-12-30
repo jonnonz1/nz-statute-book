@@ -1,5 +1,5 @@
 # Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
-_Consolidation as at 2018-10-26_
+_Consolidation as at 2018-12-30_
 
 ### 1 Title
 (1) This Act is the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
