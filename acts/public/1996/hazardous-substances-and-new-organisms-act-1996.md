@@ -1,5 +1,5 @@
 # Hazardous Substances and New Organisms Act 1996
-_Consolidation as at 2018-12-18_
+_Consolidation as at 2018-12-30_
 
 > An Act to restate and reform the law relating to the management of hazardous substances and new organisms
 
@@ -1299,6 +1299,12 @@ Any information withheld from any person in accordance with section 9(2)﻿(b) o
 (5) Subject to subsection (4), the Authority may at any time extend or reduce any time limit under this Act whether or not—but in all cases must ensure the matter is carried out as promptly as is reasonable in the circumstances.
   (a) an application has been made under this section; or
   (b) that time limit has expired,—
+(6) If the relevant CPTPP or TPP provision applies to an application to which subsection (1)﻿(c) applies, the Authority must act under subsection (5) to extend (or further extend) the time limit given by subsection (1)﻿(c) as the Authority considers appropriate to give effect to the relevant CPTPP or TPP provision.
+(7) An extension given for the purposes of subsection (6) applies for all submissions.
+(8) In subsection (6), relevant CPTPP or TPP provision means—
+  (a) Article 8.7.14 of the Trans-Pacific Partnership Agreement (done at Auckland on 4 February 2016) (technical barriers to trade: transparency: periods to comment on proposals):
+  (b) that provision as incorporated into the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018, by Article 1.1 of that agreement.
+(9) Subsection (4) does not apply where the Authority is acting under subsection (5) for the purposes of subsection (6).
 
 ### 60 Obligation to hold hearing
 A hearing of any application need not be held unless—
