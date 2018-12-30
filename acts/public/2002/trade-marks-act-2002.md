@@ -1,5 +1,5 @@
 # Trade Marks Act 2002
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-12-30_
 
 ### 1 Title
 This Act is the Trade Marks Act 2002.
@@ -838,9 +838,12 @@ If the licensee commences proceedings under section 103,—
 **Types of relief available for infringement**
 
 ### 106 Types of relief available for infringement of registered trade mark
-If an application is made to the court for relief, the relief that the court may grant includes—
+(1) If an application is made to the court for relief, the relief that the court may grant includes—
   (a) an injunction on any terms that the court thinks fit:
   (b) either damages or an account of profits.
+(2) If an application is made to the court for relief, the court may grant such additional damages as the justice of the case requires, having regard to all the circumstances and, in particular, to—
+  (a) the flagrancy of the infringement; and
+  (b) any benefit accruing to the defendant by reason of the infringement.
 
 ### 107 Damages for infringement of collective trade mark
 In claiming damages for infringement of a collective trade mark, the collective association that owns the collective trade mark (or the member or members taking action on behalf of that collective association) may take into account any damage or loss of profits sustained or incurred by any members as a result of the infringement.
@@ -852,6 +855,9 @@ In claiming damages for infringement of a collective trade mark, the collective 
 (2) If an order under subsection (1) is not complied with, or it appears to the court likely that the order would not be complied with, the court may order that the infringing goods, infringing material, or infringing object be delivered to any person whom the court may direct—
   (a) to erase, remove, or obliterate the offending sign from the infringing goods, infringing material, or infringing object; or
   (b) if it is not reasonably practicable to erase, remove, or obliterate, the offending sign, to destroy the infringing goods, infringing material, or infringing object.
+(3) Despite subsections (1) and (2), if any infringing goods are counterfeit goods (as defined in section 135), the court must, unless the court is satisfied that there are exceptional circumstances, make an order that requires the person who has infringed to—
+  (a) destroy the goods; or
+  (b) deliver the goods to any person the court may direct (being a person who will destroy the goods).
 
 **Orders for delivery up in civil proceedings**
 
@@ -1382,12 +1388,41 @@ In this subpart and section 204, unless the context otherwise requires,—
   - **chief executive** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
   - **claimant** means a person who gives a notice under section 137
   - **control of the Customs** is to be read in accordance with the definition of subject to the control of Customs in section 6 of the Customs and Excise Act 2018
+  - **counterfeit goods** means, in relation to a registered trade mark, infringing goods that bear a sign—
+    (a) that is identical with the registered trade mark and that is used in relation to any goods in respect of which the trade mark is registered; or
+    (b) that is similar to the registered trade mark and that is used in relation to any goods in respect of which the trade mark is registered, if use of the sign would be likely to deceive
   - **Customs** means the New Zealand Customs Service
   - **Customs officer** has the same meaning as in section 5(1) of the Customs and Excise Act 2018
+  - **exporter** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
+  - **importer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **infringing sign** means a sign that is—
     (a) identical with a trade mark in respect of which a notice has been given under section 137 and is used on or in physical relation to goods that are identical with goods in respect of which the trade mark is registered; or
     (b) identical with such a trade mark and is used on or in physical relation to goods that are similar to goods in respect of which the trade mark is registered, if that use would be likely to deceive or confuse; or
-    (c) similar to such a trade mark and is used on or in physical relation to goods that are identical with or similar to goods in respect of which the trade mark is registered, if such use would be likely to deceive or confuse.
+    (c) similar to such a trade mark and is used on or in physical relation to goods that are identical with or similar to goods in respect of which the trade mark is registered, if such use would be likely to deceive or confuse
+  - **specified goods** means goods imported, or to be exported, other than for private and domestic use.
+
+**Detention of goods suspected of bearing infringing sign**
+
+### 135A Detention of goods suspected of bearing infringing sign
+(1) Any goods in the control of the Customs may be detained in the custody of the chief executive or a Customs officer if a Customs officer has reasonable cause to suspect that the goods are goods on or in physical relation to which an infringing sign is used.
+(2) The chief executive must, as soon as is reasonably practicable after the goods are detained, take reasonable steps to notify the detention to—
+  (a) the owner of the trade mark (to enable that person to consider whether to give a notice under section 137); and
+  (b) the importer or exporter from whom the goods have been detained, if that person is identified but was not present when the detention took place.
+(3) The detention of any goods under subsection (1) is not rendered illegal by a failure to serve notice under subsection (2)﻿(a) or (b).
+
+### 135B Release of goods
+(1) The goods are no longer detained under section 135A(1) if—
+  (a) no notice under section 137 is given in respect of the goods within 3 working days after the date on which notice was given under section 135A(2)﻿(a); or
+  (b) a notice under section 137 is given in respect of the goods within 3 working days after the date on which notice was given under section 135A(2)﻿(a) and—
+    (i) the notice given under section 137 is subsequently accepted under section 139 and the goods are subsequently detained under section 149; or
+    (ii) the notice given under section 137 is subsequently declined under section 139; or
+  (c) the chief executive considers that it is not reasonably practicable for notice to be given under section 135A(2)﻿(a); or
+  (d) the chief executive considers that there is no longer a reason to detain the goods.
+(2) The chief executive must release any goods no longer detained under section 135A(1) to the person entitled to them.
+(3) However, the chief executive may release goods under subsection (2) only if the goods are not detained under section 149 and if—
+  (a) every legal requirement as to the importation or exportation of the goods is satisfied; and
+  (b) every requirement made under any regulations that require the deposit of a security is satisfied; and
+  (c) the release of the goods is not contrary to law.
 
 **Notice of infringing sign**
 
@@ -1457,12 +1492,12 @@ The chief executive may reinstate an accepted notice suspended under section 139
 **Investigation where notice of infringing sign**
 
 ### 142 Application of sections 143 to 146
-Nothing in sections 143 to 146 applies to goods that have been imported for private and domestic use.
+Sections 143 to 146 apply only to specified goods.
 
 ### 143 Determination to conduct investigation
 The chief executive may conduct an investigation in order to establish whether or not the goods appear to be goods to which the notice relates if—
   (a) a notice that has been accepted under section 139 is in force; and
-  (b) the chief executive considers that any imported goods that are in the control of Customs may be goods to which the notice relates.
+  (b) the chief executive considers that any goods that are in the control of Customs may be goods to which the notice relates.
 
 ### 144 Claimant to provide information for investigation
 For the purpose of an investigation under section 143, the chief executive may require the claimant or any other person appearing to the chief executive to have an interest in the goods to provide, within 10 working days of being required to do so, any information required by the chief executive.
@@ -1488,23 +1523,23 @@ The detention of any goods under section 149 is not rendered illegal by a failur
 **Detention of goods bearing infringing sign**
 
 ### 149 Detention of goods bearing infringing sign
-(1) If the chief executive considers that any imported goods that are in the control of the Customs may be goods to which a notice accepted under section 139 relates, those goods must be detained in the custody of the chief executive or any Customs officer until—
+(1) If the chief executive considers that any goods that are in the control of the Customs may be goods to which a notice accepted under section 139 relates, those goods must be detained in the custody of the chief executive or any Customs officer until—
   (a) the chief executive is served with an order made in proceedings under section 152 that the notice be discharged; or
   (b) the chief executive is served with an order made in proceedings under section 152 that the goods be released; or
-  (c) any proceedings under section 153 in respect of those goods (including any appeal) are determined by a decision that the goods are not goods on or in physical relation to which an infringing sign is used that have been imported other than for private and domestic use; or
+  (c) any proceedings under section 153 in respect of those goods (including any appeal) are determined by a decision that the goods are not specified goods on or in physical relation to which an infringing sign is used; or
   (d) any proceedings under section 153 in respect of those goods, including any appeal, are abandoned; or
-  (e) 10 working days have elapsed since notice was served under section 147 and the chief executive has not been served with notice of proceedings brought under section 153 by a person other than the importer or consignee.
+  (e) 10 working days have elapsed since notice was served under section 147 and the chief executive has not been served with notice of proceedings brought under section 153 by a person other than the importer or exporter.
 (2) Subject to section 150, on the occurrence of any of the matters specified in subsection (1)﻿(a) to (e), the goods must be released to the person entitled to them.
 (3) The chief executive may, in any particular case, extend the period referred to in subsection (1)﻿(e) to 20 working days if he or she considers it appropriate to do so in all the circumstances.
 
 ### 150 When detained goods may be released
 The chief executive or any Customs officer must release any goods under section 149 if—
-  (a) every legal requirement as to importation of the goods is satisfied; and
+  (a) every legal requirement as to importation or exportation of the goods is satisfied; and
   (b) every requirement made under any regulations that require the deposit of a security to be satisfied; and
   (c) the release of the goods is not contrary to law.
 
 ### 151 Forfeiture of goods by consent
-(1) If goods have been detained in the custody of the chief executive or a Customs officer, the importer or consignee of the goods may, by notice in writing to the chief executive, consent to the goods being forfeited to the Crown.
+(1) If goods have been detained in the custody of the chief executive or a Customs officer, the importer or exporter of the goods may, by notice in writing to the chief executive, consent to the goods being forfeited to the Crown.
 (2) On the giving of a notice under subsection (1), the goods are forfeited to the Crown.
 
 **Proceedings relating to goods bearing infringing sign**
@@ -1515,7 +1550,7 @@ The court may, on an application by any person, make an order that—
   (b) goods detained under section 149 be released.
 
 ### 153 Proceedings to determine whether goods bear infringing sign
-(1) The court may, on an application by any person, make a decision whether or not goods to which a determination under section 146 relates are goods on, or in physical relation to, which an infringing sign is used that have been imported other than for private and domestic use.
+(1) The court may, on an application by any person, decide whether goods to which a determination under section 146 relates are specified goods on or in physical relation to which an infringing sign is used.
 (2) Notice of proceedings under subsection (1) must be served on the chief executive.
 (3) In proceedings under subsection (1),—
   (a) the court must issue directions as to the service of notice on every person who has an interest in goods to which the proceedings relate; and
@@ -1527,7 +1562,7 @@ The court may, on an application by any person, make an order that—
   (b) on the final determination or abandonment of the proceeding on appeal (if notice of the appeal is given before the end of that period notice).
 
 ### 154 Powers of court
-(1) If, in proceedings under section 153, the court decides that any goods that are the subject of a determination made under section 146 are goods on or in physical relation to which an infringing sign is used, that have been imported other than for private and domestic use, the court must make an order that the goods be—
+(1) If, in proceedings under section 153, the court decides that any goods that are the subject of a determination made under section 146 are specified goods on or in physical relation to which an infringing sign is used, the court must make an order that the goods be—
   (a) forfeited to the Crown; or
   (b) destroyed; or
   (c) otherwise dealt with as the court thinks fit.
@@ -1537,7 +1572,10 @@ The court may, on an application by any person, make an order that—
 (3) If more than 1 person is interested in goods, the court may—
   (a) direct that the goods be sold or otherwise dealt with, and the proceeds divided; and
   (b) make any other order it thinks fit.
-(4) If, in proceedings under section 153, the court decides that goods to which a determination under section 146 relates are not goods on or in physical relation to which an infringing sign is used, that have been imported other than for private and domestic use, the court may make an order that a person who is a party to the proceedings pay compensation in such amount as the court thinks fit to the importer, consignee, or the owner of goods.
+(3A) Despite subsections (1) to (3), if the goods are counterfeit goods, the court must, unless the court is satisfied that there are exceptional circumstances, make an order that the goods be—
+  (a) destroyed; or
+  (b) delivered to any person the court may direct (being a person who will destroy the goods).
+(4) If, in proceedings under section 153, the court decides that goods to which a determination under section 146 relates are specified goods but that no infringing sign is used on or in physical relation to the goods, the court may make an order that a person who is a party to the proceedings pay compensation in such amount as the court thinks fit to the importer, exporter, or owner of the goods.
 
 **Inspection of goods that bear infringing sign**
 
@@ -1677,7 +1715,7 @@ A Customs officer to whom any document is produced for inspection under an order
   (c) continues in force according to its tenor, until revoked, even if the chief executive by whom it was made has ceased to hold office, and continues to have effect as if made by the successor in office of the chief executive.
 
 ### 157 Protection of persons acting under authority of Act
-(1) The Crown, the chief executive, or any Customs officer is not under any criminal or civil liability in respect of anything done or omitted to be done for the purposes of any of sections 146 to 156 or any regulations made for the purposes of those sections.
+(1) The Crown, the chief executive, or any Customs officer is not under any criminal or civil liability in respect of anything done or omitted to be done for the purposes of any of sections 135A, 135B, and 146 to 156 or any regulations made for the purposes of those sections.
 (2) Subsection (1) does not apply if the Crown, the chief executive, or the Customs officer has acted in bad faith.
 
 ### Subpart 4 — Miscellaneous
