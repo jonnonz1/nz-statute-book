@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2018-12-30_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -24,6 +24,7 @@ The purposes of this Act are—
     (ii) inconsistencies and overlaps are removed:
     (iii) obsolete and redundant provisions are repealed:
     (iv) expression, style, and format are modernised and made consistent:
+  (ea) to provide for the publishing, to help meet international transparency obligations, of copies of and links to certain subordinate legislation:
   (f) to enable certain kinds of subordinate legislation to incorporate material by reference in reliance on this Act, subject to compliance with consultation and other requirements:
   (g) to replace the Statutes Drafting and Compilation Act 1920 with modern legislation that continues the Parliamentary Counsel Office as a separate statutory office and facilitates the drafting and publishing of high-quality legislation.
 
@@ -41,7 +42,7 @@ In this Act, unless the context otherwise requires,—
       (i) an Order in Council that the empowering Act requires to be published in the Gazette:
       (ii) an Order in Council that relates exclusively to an individual:
     (b) an instrument made by a Minister of the Crown that amends an Act or defines the meaning of a term used in an Act:
-    (c) an instrument that an Act requires to be published under this Act:
+    (c) an instrument that an Act requires to be published under Part 2:
     (d) resolutions of the House of Representatives that—
       (i) revoke a disallowable instrument in whole or in part; or
       (ii) amend a disallowable instrument; or
@@ -50,7 +51,7 @@ In this Act, unless the context otherwise requires,—
   - **PCO** means the Parliamentary Counsel Office continued by section 58
   - **reprint** means a version of legislation that—
     (a) states, as at the date at which it is stated to be reprinted, the law enacted or made by the legislation reprinted and by the amendments (if any) to that legislation; and
-    (b) is published under this Act.
+    (b) is published under Part 2.
 
 ### 4A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -121,9 +122,9 @@ A copy of every legislative instrument made after the commencement of this secti
   (e) the places at which copies of the legislative instrument may be purchased:
   (f) any other information the Chief Parliamentary Counsel considers appropriate.
 
-### 13 Complying with requirement to publish or notify in Gazette by publishing and notifying under this Act
+### 13 Complying with requirement to publish or notify in Gazette by publishing and notifying under this Part
 (1) This section applies if an Act requires that an instrument be published or notified in the Gazette.
-(2) It is sufficient compliance with the requirement to publish or notify the instrument in the Gazette if the instrument is published under this Act and notified in the Gazette under section 12.
+(2) It is sufficient compliance with the requirement to publish or notify the instrument in the Gazette if the instrument is published under this Part and notified in the Gazette under section 12.
 
 **Other instruments**
 
@@ -353,6 +354,89 @@ In this subpart, unless the context otherwise requires,—
 (2) The 6-year period is the period of 6 years that starts on 1 July 2014 and ends with the close of 30 June 2020.
 (3) The Attorney-General must ensure that the persons and organisations that he or she thinks appropriate are consulted during the preparation of the report about the matters to be considered in the report.
 (4) The Attorney-General must present a copy of the report to the House of Representatives as soon as practicable after he or she receives the report.
+
+## Part 2A — Publishing, for international transparency, of copies of and links to certain subordinate legislation
+
+**Purpose, overview, and definitions**
+
+### 36A Purpose of this Part
+The purpose of this Part is to help New Zealand meet its international transparency obligations.
+
+### 36B Overview of this Part
+(1) This Part applies to instruments if—
+  (a) they are made under an enactment by a Minister of the Crown or a central government entity, and have a significant legislative effect; and
+  (b) they are not published (under Part 2) as, or as if they were, legislative instruments; and
+  (c) publication under this Part of copies of them, and links to them, would help New Zealand meet its international transparency obligations.
+(2) This Part—
+  (a) requires copies of the instruments to be published on the maker’s website, if no other enactment requires that; and
+  (b) requires to be in or with the copies, as so published, all the details necessary or desirable for meeting all applicable international transparency obligations; and
+  (c) requires links to them, as so published, to be forwarded to the Chief Parliamentary Counsel, and published on the central website.
+(3) This section is only a general guide to this Part.
+
+### 36C Instrument, and other terms, defined
+(1) Instrument, in this Part, means an instrument—
+  (a) that is made under an enactment by a Minister of the Crown or a central government entity (even if the Minister or entity is performing a statutorily independent function); and
+  (b) that has, or a portion of which has, under section 39 (read with the related sections 37 and 40), a significant legislative effect; and
+  (c) that is related to international transparency obligations (because the publishing under this Part of copies of and links to the instrument would help meet those obligations); and
+  (d) that is not, and is not an instrument published (under section 14, or another enactment) as if it were, a legislative instrument.
+(2) In this Part, unless the context otherwise requires,—
+  - **central government entity** means any of the following (or a decision-making person or body in or related to, or acting through or for, any of the following):
+    (a) a government department named in Schedule 1 of the State Sector Act 1988, including any departmental agency that, under section 27A and Schedule 1A of that Act, is part of that department:
+    (b) a Crown entity (as defined in section 7(1) of the Crown Entities Act 2004, but excluding a school board of trustees and a tertiary education institution):
+    (c) the Reserve Bank of New Zealand:
+    (d) any other instrument of the Crown prescribed, for the purposes of this paragraph, by an order made under subsection (3)
+  - **central website** means an Internet site maintained by or on behalf of the New Zealand Government
+  - **details** , for an instrument at any time, means all information necessary or desirable for meeting, for that instrument at that time, all applicable international transparency obligations
+  - **international transparency obligations** means obligations—
+    (a) under paragraph 5 of Article 26.2 (publication) of Chapter 26 (transparency and anti-corruption) of the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016; or
+    (b) under that provision as incorporated into the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018, by Article 1.1 of that agreement
+  - **links** , in relation to an instrument at any time, means all information necessary or desirable to enable a user at that time to access, using the central website, the instrument as published and made available on the maker’s website
+  - **maker** , in relation to an instrument, means the person empowered to make the instrument
+  - **maker’s website** , in relation to an instrument, means an Internet site (other than the central website) maintained by or on behalf of the maker
+  - **published and made available** , for copies of or links to an instrument and an Internet site, means that the copies or links are published electronically on, and so far as practicable able to accessed at, or downloaded from, the site.
+(3) The Governor-General may, by Order in Council, prescribe any other instrument of the Crown for the purposes of paragraph (d) of the definition of central government entity in subsection (2).
+
+**Duty to publish and make available copies on maker’s website**
+
+### 36D Maker must ensure instrument is published and made available
+(1) This section applies to an instrument—
+  (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018; and
+  (b) unless an enactment other than this section requires a copy of the instrument to be published and made available on the maker’s website.
+(2) The maker must ensure that a copy of the instrument is as soon as practicable published and made available on the maker’s website.
+
+**Duty to ensure details are in or with copies as on maker’s website**
+
+### 36E Maker must ensure details are in or with instrument
+(1) This section applies to an instrument—
+  (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018; and
+  (b) a copy of which is published and made available on the maker’s website.
+(2) The maker must ensure that the instrument’s details are in or with a copy of the instrument as published and made available on the maker’s website.
+(3) However, details of an instrument are taken to be in or with a copy of the instrument as published and made available on the maker’s website if—
+  (a) the instrument amends (without also replacing wholly) a principal instrument; and
+  (b) the details relate to the amendments the instrument makes to the principal instrument; and
+  (c) the details are in or with a compilation of the principal instrument published and made available on the maker’s website.
+(4) The Chief Parliamentary Counsel must give all or any makers, and ensure there is or are in force for all instruments, a direction or directions setting out, in general terms, the nature of their details.
+(5) A direction given under this section—
+  (a) must as soon as practicable be published and made available on the central website:
+  (b) is not a legislative instrument, or a disallowable instrument, for the purposes of this Act, and does not have to be presented to the House of Representatives under section 41.
+(6) The maker must, if required to do so by a document given by the Chief Parliamentary Counsel, republish a copy of the instrument promptly on the maker’s website in a form that complies with this section.
+
+**Links to be forwarded and made available on central website**
+
+### 36F Links to be forwarded as directed
+(1) This section applies to an instrument—
+  (a) made after the commencement of Part 5 (amendments to Legislation Act 2012) of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018; and
+  (b) a copy of which is published and made available on the maker’s website.
+(2) The maker must forward the instrument’s links to the Chief Parliamentary Counsel, without delay and in line with all applicable directions given under this section.
+(3) The Chief Parliamentary Counsel must give all or any makers, and ensure there is or are in force for all instruments, a direction or directions setting out, in general terms, the nature of their links and the form and manner in which they are to be forwarded.
+(4) A direction given under this section—
+  (a) must as soon as practicable be published and made available on the central website:
+  (b) is not a legislative instrument, or a disallowable instrument, for the purposes of this Act, and does not have to be presented to the House of Representatives under section 41.
+
+### 36G Links forwarded and other instruments must be published and made available
+The Chief Parliamentary Counsel must ensure that the following are as soon as practicable published and made available on the central website:
+  (a) links forwarded under section 36F:
+  (b) legislative instruments published under section 6 (including instruments published under section 14).
 
 ## Part 3 — Subordinate legislation: Disallowable instruments, confirmable instruments, and incorporation of material by reference
 
@@ -674,6 +758,7 @@ Nothing in this subpart affects the application of sections 29 to 32 of the Stan
   (d) to arrange for the printing and publication of Acts, legislative instruments, and reprints of legislation in electronic form and printed form (as provided in Part 2):
   (e) to undertake reprints of Acts, regulations, and legislative instruments (as provided in Part 2):
   (f) to revise Acts in accordance with the current revision programme (as provided in Part 2):
+  (fa) to arrange for the publication, to help meet international transparency obligations, of copies of and links to certain subordinate legislation (as provided in Part 2A):
   (g) to advise departments and agencies on the drafting of disallowable instruments that are not drafted by the PCO:
   (h) to examine all local Bills and private Bills, and to examine the Members' Bills that the Attorney-General directs be examined, and to report to the Attorney-General on the effect of Bills examined, in particular on whether they affect the rights of the Crown or the public, and on their relationship to other legislation:
   (i) to advise on and assist with the drafting of all local Bills and private Bills, and to draft Members' Bills that the Attorney-General directs be drafted by the PCO:
@@ -683,7 +768,7 @@ Nothing in this subpart affects the application of sections 29 to 32 of the Stan
     (i) Orders in Council that are required by their empowering Act to be published in the Gazette:
     (ii) Orders in Council that relate exclusively to an individual:
   (b) instruments made by a Minister that amend an Act or define the meaning of a term used in an Act:
-  (c) instruments that are required by an Act to be published under this Act (other than resolutions of the House of Representatives referred to in paragraph (d) of the definition of legislative instrument in section 4):
+  (c) instruments that are required by an Act to be published under Part 2 (other than resolutions of the House of Representatives referred to in paragraph (d) of the definition of legislative instrument in section 4):
   (d) other instruments that the Attorney-General or the Chief Parliamentary Counsel directs in writing be drafted by the PCO.
 
 ### 60 Power to authorise drafting and printing of Government Bills by Inland Revenue Department
@@ -1117,6 +1202,7 @@ Every matter approved or prescribed under this Act that is required to be publis
 | Climate Change Response Act 2002 | 202(1) |
 | Commodity Levies Act 1990 | 4 (apart from, or with, section 305 of the Fisheries Act 1996, or section 111 of the Wine Act 2003) |
 | Contract and Commercial Law Act 2017 | 239(2)—restriction: only if the order makes an addition to Schedule 5 |
+| Copyright Act 1994 | 234(1)﻿(qa) and (qb) |
 | Criminal Procedure Act 2011 | 387(1)﻿(i) |
 | Criminal Procedure Act 2011 | 387(1)﻿(j) |
 | Customs and Excise Act 2018 | 96(1) |
