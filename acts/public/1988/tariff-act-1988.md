@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2018-12-30_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -13,6 +13,7 @@ _Consolidation as at 2018-10-01_
   - **AANZFTA** means the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009
   - **ASEAN** means the Association of South East Asian Nations
   - **chief executive** , in any provision, means the chief executive of the department responsible for the administration of that provision
+  - **CPTPP** means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Santiago, Chile, on 8 March 2018
   - **Customs** or has the meaning given to Customs by section 5(1) of the Customs and Excise Act 2018
   - **Customs value** or has the meaning given to Customs value by section 5(1) of the Customs and Excise Act 2018
   - **duty** means any duty imposed on goods under any of the provisions of this Act
@@ -33,7 +34,9 @@ _Consolidation as at 2018-10-01_
   - **shipment** includes loading into an aircraft; and and cognate expressions have corresponding meanings
   - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on 14 July 1980; and includes any modification or amendment of it made after that day
   - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(a) to be a specified AANZFTA party for the purposes of this Act
+  - **specified CPTPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(baa) to be a specified CPTPP party for the purposes of this Act
   - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(b) to be a specified TPA party for the purposes of this Act
+  - **specified TPP party** means a country that is for the time being declared by Order in Council under section 7A(1)﻿(ba) to be a specified TPP party for the purposes of this Act
   - **Standard Tariff** means Standard Tariff comprised in Part 1 of the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **statistical key** means the code number and unit identified by 2 numeric and 1 alphabetical digits shown under the heading Statistical Key in the Standard Tariff and includes all the descriptions shown beside such numbers preceded by dots
   - **Tariff** —
@@ -43,6 +46,7 @@ _Consolidation as at 2018-10-01_
   - **Tariff item** means a Tariff item of the Standard Tariff identified by 8 digits; and includes a heading thereto so identified
   - **Tariff subheading** , or , means a subheading appearing in the Standard Tariff and identified by 6 digits or not identified by any number
   - **TPA** means the Trans-Pacific Strategic Economic Partnership Agreement that was opened for signature by Brunei Darussalam, Chile, New Zealand, and Singapore on 15 June 2005
+  - **TPP** means the Trans-Pacific Partnership Agreement done at Auckland on 4 February 2016
   - **Working Tariff Document** means the document maintained under that name by the person holding office under the State Sector Act 1988 as the Chief Executive of the New Zealand Customs Service.
 (2)
 
@@ -50,12 +54,13 @@ _Consolidation as at 2018-10-01_
 This Act binds the Crown.
 
 ### 3 The Tariff
-(1) Duties must be levied, collected, and paid in accordance with the Tariff, or with a transitional safeguard measure or a provisional transitional safeguard measure, as the case may require, on goods to which this subsection applies.
+(1) Duties must be levied, collected, and paid in accordance with the Tariff, or with a transitional safeguard measure, an emergency action measure, or a provisional transitional safeguard measure, as the case may require, on goods to which this subsection applies.
 (2) Subsection (1) applies to goods that, after the commencement on 1 December 1988 of this Act, are—
   (a) imported into New Zealand; or
   (b) entered therein for home consumption; or
   (c) entered therein for delivery to a manufacturing area.
 (3) Subsection (1) is subject to the provisions of this Act.
+(4) In this section, transitional safeguard measure, emergency action measure, and provisional transitional safeguard measure have the same meanings as in section 15A.
 
 ### 3A Removal of all tariff duties by no later than 1 July 2006
 [Repealed]
@@ -89,12 +94,14 @@ Subject to this Act, the duty (if any) payable under the Normal Tariff shall be 
   (b) declare a country to be a specified TPA party for the purposes of this Act if the country—
     (i) is a party to the TPA; or
     (ii) is provisionally applying the terms of the TPA:
+  (baa) declare a country that is a party to the CPTPP to be a specified CPTPP party for the purposes of this Act:
+  (ba) declare a country that is a party to the TPP to be a specified TPP party for the purposes of this Act:
   (c) declare a country to be, or not to be, a least developed country for the purposes of this Act:
   (d) declare a country to be, or not to be, a less developed country for the purposes of this Act.
 (2) The Governor-General may, by an Order in Council making a declaration under subsection (1) about a country or any other Order in Council relating to that country,—
   (a) declare that, in relation to any specified Tariff items, any rate of duty or exemption from duty otherwise applicable to that country is not to apply to that country:
   (b) modify, in whole or in part, the Tariff rates of duty applicable to goods from that country.
-(3) No modification under subsection (2)﻿(b) relating to a specified TPA party or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
+(3) No modification under subsection (2)﻿(b) relating to a specified TPA party, a specified CPTPP party, a specified TPP party, or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
   (a) necessary or advisable in the public interest; and
   (b) consistent with New Zealand's international obligations.
 (4) No modification under subsection (2)﻿(b) relating to a less developed country or a least developed country may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff.
@@ -253,12 +260,16 @@ For the purposes of this Act—
 In this section and sections 15B to 15H, unless the context otherwise requires,—
   - **China FTA** means the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008
   - **directly competitive goods** , in relation to any goods, means goods that, as a matter of fact and commercial common sense, are substitutable for imported goods
+  - **emergency action investigation** means an emergency action investigation started under section 15B(1A)
+  - **emergency action measure** means an emergency action measure applied under section 15F
   - **free trade agreement** means—
     (a) the Thai FTA; or
     (b) the China FTA; or
     (c) the AANZFTA and AANZFTA side instruments that relate to safeguards; or
     (d) the Malaysia FTA; or
-    (e) the Republic of Korea FTA
+    (e) the Republic of Korea FTA; or
+    (f) the CPTPP; or
+    (g) the TPP
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
@@ -270,23 +281,27 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
   - **Republic of Korea FTA** means the Free Trade Agreement between New Zealand and the Republic of Korea done at Seoul on 23 March 2015
   - **serious injury** means a significant overall impairment in the position of a domestic industry
   - **Thai FTA** means the New Zealand–Thailand Closer Economic Partnership Agreement done at Bangkok on 19 April 2005
+  - **transitional safeguard investigation** means a transitional safeguard investigation started under section 15B(1)
   - **transitional safeguard measure** means a transitional safeguard measure applied under section 15F.
 
-### 15B Chief executive may undertake transitional safeguard investigation
+### 15B Chief executive may undertake transitional safeguard or emergency action investigation
 (1) The chief executive may undertake a transitional safeguard investigation to ascertain whether goods that have been subject to tariff reduction or removal after the entry into force of a free trade agreement—
   (a) are being imported in increased quantities (in absolute terms or relative to domestic production); and
   (b) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good.
-(2) The chief executive may undertake a transitional safeguard investigation—
+(1A) The chief executive may undertake an emergency action investigation to ascertain whether textile or apparel goods that have been subject to tariff reduction or removal after the entry into force of the CPTPP or the TPP—
+  (a) are being imported in increased quantities (in absolute terms or relative to the domestic market); and
+  (b) are causing, or threatening to cause, serious damage to an industry producing a like or directly competitive good.
+(2) The chief executive may undertake a transitional safeguard investigation or an emergency action investigation—
   (a) either—
     (i) after receiving a written request by or on behalf of an industry concerned, if the chief executive is satisfied that the request contains evidence to justify the investigation; or
     (ii) on his or her own initiative; and
-  (b) only if the relevant free trade agreement provides for the application of a transitional safeguard measure.
+  (b) only if the relevant free trade agreement provides for the application of a transitional safeguard measure or an emergency action measure.
 
 ### 15C Investigative procedures
-(1) Before any transitional safeguard investigation, the chief executive must specify administrative procedures for the conduct of transitional safeguard investigations that—
+(1) Before any transitional safeguard investigation or emergency action investigation, the chief executive must specify administrative procedures for the conduct of the investigation that—
   (a) are consistent with New Zealand's international obligations; and
   (b) include the following matters:
-    (i) the provision of public notice of the investigation; and
+    (i) the provision of public notice of the investigation, which must, in the case of an emergency action investigation, include the criteria for a finding of serious damage or a threat of serious damage; and
     (ii) an opportunity for interested parties to respond to submissions of other parties; and
     (iii) the treatment of confidential material provided by interested parties.
 (2) The chief executive may amend the procedures specified under subsection (1).
@@ -294,11 +309,18 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
 (4) The chief executive must publish the procedures, and any amendments to the procedures, in the Gazette.
 
 ### 15D Matters to be taken into account by chief executive
-When the chief executive is investigating, for the purposes of section 15B, whether the importation of goods subject to tariff reduction or removal is causing or threatens to cause serious injury to an industry, he or she must evaluate the following matters:
+(1) When the chief executive is investigating, for the purposes of section 15B(1), whether the importation of goods subject to tariff reduction or removal is causing or threatens to cause serious injury to an industry, he or she must evaluate the following matters:
   (a) the rate and amount of the increase in the volume of imports of the goods, in absolute terms and relative to domestic production; and
   (b) the economic impact of the increased importation of the goods on the industry, including actual decline in output, sales, market share, profits, productivity, employment, and utilisation of production capacity; and
   (c) factors other than the imports that have injured, or are injuring, the industry; and
   (d) any other factors considered relevant to New Zealand's international obligations.
+(2) When the chief executive is investigating, for the purposes of section 15B(1A), whether the importation of textile or apparel goods subject to tariff reduction or removal is causing or threatens to cause serious damage to an industry, he or she—
+  (a) must evaluate the following matters:
+    (i) the rate and amount of the increase in the volume of imports of the goods, in absolute terms or relative to the domestic market; and
+    (ii) the economic impact of the increased importation of the goods on the industry, including changes in output, market share, profits, productivity, employment, utilisation of capacity, inventories, exports, wages, domestic prices, and investment; and
+    (iii) factors other than the imports that have damaged, or are damaging, the industry; and
+    (iv) any other factors considered relevant to New Zealand’s international obligations; but
+  (b) must not consider changes in technology or consumer preference in New Zealand as factors supporting a determination that importation of textile or apparel goods subject to tariff reduction or removal is causing or threatens to cause serious damage to an industry.
 
 ### 15E Publication of investigation results
 (1) As soon as practicable after completing an investigation under section 15B, the chief executive must publish, in accordance with subsection (2), a report setting out the findings and conclusions of the investigation.
@@ -306,26 +328,31 @@ When the chief executive is investigating, for the purposes of section 15B, whet
   (a) make copies of the report available, free of charge, on the Internet; and
   (b) give notice in the Gazette stating that the report is available on the Internet, free of charge, and the website address.
 
-### 15F Application of transitional safeguard measure
+### 15F Application of transitional safeguard or emergency action measure
 (1) The Minister may decide to apply a transitional safeguard measure if he or she makes a determination, as a result of the investigation by the chief executive under section 15B, that goods—
   (a) are being imported in increased quantities (in absolute terms or relative to domestic production); and
   (b) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good.
-(2) A transitional safeguard measure applies on and from—
+(1A) The Minister may decide to apply an emergency action measure if he or she makes a determination, as a result of the investigation by the chief executive under section 15B, that textile or apparel goods—
+  (a) are being imported in increased quantities (in absolute terms or relative to the domestic market); and
+  (b) are causing, or threatening to cause, serious damage to an industry producing a like or directly competitive good.
+(2) A transitional safeguard or emergency action measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
-  (b) if no date is specified in the measure, the date on which the determination is made under subsection (1).
-(3) A transitional safeguard measure expires—
+  (b) if no date is specified in the measure, the date on which the determination is made under subsection (1) or (1A).
+(3) A transitional safeguard or emergency action measure expires—
   (a) on the date specified in the measure; or
   (b) at an earlier date (if any) specified by the Minister by notice in the Gazette.
 (4) The Minister must ensure that—
   (a) any transitional safeguard measure is applied only to the extent necessary to prevent or remedy serious injury and facilitate adjustment; and
-  (b) the nature, rate, extent, and duration of the transitional safeguard measure is consistent with New Zealand's international obligations as a party to the relevant free trade agreement; and
-  (c) any transitional safeguard measure is consistent with the provisions of the relevant free trade agreement; and
-  (d) any transitional safeguard measure is not inconsistent with New Zealand's other international obligations.
-(5) The Minister's decision to apply a transitional safeguard measure must be published as soon as practicable in the Gazette.
-(6) A transitional safeguard measure, in the form of a duty, applied under subsection (5) is due and payable on the demand of the Customs on and from the date on which the measure applies under subsection (2).
+  (aa) any emergency action measure is applied only to the extent necessary to prevent or remedy serious damage and facilitate adjustment; and
+  (b) the nature, rate, extent, and duration of the transitional safeguard or emergency action measure is consistent with New Zealand's international obligations as a party to the relevant free trade agreement; and
+  (c) any transitional safeguard or emergency action measure is consistent with the provisions of the relevant free trade agreement; and
+  (d) any transitional safeguard or emergency action measure is not inconsistent with New Zealand's other international obligations.
+(5) The Minister's decision to apply a transitional safeguard or emergency action measure must be published as soon as practicable in the Gazette.
+(6) A transitional safeguard or emergency action measure, in the form of a duty, applied under subsection (5) is due and payable on the demand of the Customs on and from the date on which the measure applies under subsection (2).
+(7) If the Minister applies an emergency action measure under this section, the chief executive must, in respect of each year or part of a year that the measure remains in force, provide a report to the affected CPTPP or TPP party, as the case may be, on the action.
 
-### 15G Extension of transitional safeguard measure
-The Minister may extend a transitional safeguard measure applied under section 15F if the extension is—
+### 15G Extension of transitional safeguard or emergency action measure
+The Minister may extend a transitional safeguard or emergency action measure applied under section 15F if the extension is—
   (a) consistent with the provisions of the relevant free trade agreement; and
   (b) not inconsistent with New Zealand's other international obligations.
 
@@ -354,6 +381,7 @@ The Minister may extend a transitional safeguard measure applied under section 1
 (7) The circumstances referred to in subsection (6)﻿(b) are—
   (a) if an investigation under section 15B concludes that no serious injury has been caused to an industry; or
   (b) in any other case, to the extent (if any) that the Minister requires the duty to be refunded.
+(8) No provisional transitional safeguard measure may be applied under the CPTPP or the TPP.
 
 ### 16 General provisions as to Orders in Council
 Without limiting the Acts Interpretation Act 1924, no Order in Council under this Act shall be invalid because it leaves any matter to the discretion of the Minister or any other person, or because it authorises the Minister or any other person to give a consent or approval on or subject to conditions to be imposed or approved by the Minister.
