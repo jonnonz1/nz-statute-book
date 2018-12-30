@@ -1,5 +1,5 @@
 # Patents Act 2013
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2018-12-30_
 
 ### 1 Title
 This Act is the Patents Act 2013.
@@ -185,6 +185,11 @@ An invention, so far as claimed in a claim, involves an inventive step if it is 
     (iii) the publication of any description of the invention in consequence of its display or use at a specified exhibition as referred to in subparagraph (i) or (ii); or
     (iv) the use of the invention, after it has been displayed or used at a specified exhibition as referred to in subparagraphs (i) and (ii) and during the period of the exhibition, by any person without the consent of the inventor:
   (e) that disclosure was due to, or made in consequence of, the invention being publicly worked, at any time during the 1-year period immediately preceding the filing date of the patent application, by any of the following persons if the working was effected for the purpose of reasonable trial only and if it was reasonably necessary, having regard to the nature of the invention, that the working for that purpose should be effected in public:
+    (i) the patentee or nominated person:
+    (ii) any person from whom the patentee or nominated person derives title:
+    (iii) any person with the consent of the patentee or nominated person:
+    (iv) any person with the consent of any person from whom the patentee or nominated person derives title.
+  (f) that disclosure occurred during the 1-year period immediately preceding the patent date and the disclosure was made by any of the following persons:
     (i) the patentee or nominated person:
     (ii) any person from whom the patentee or nominated person derives title:
     (iii) any person with the consent of the patentee or nominated person:
@@ -2550,6 +2555,11 @@ Clause 9.2 to 9.7 of the Arrangement applies to persons in New Zealand.
 ### 3 Existing disciplinary proceedings
 (1) Despite section 8 of the Patents (Trans-Tasman Patent Attorneys and Other Matters) Amendment Act 2016, the disciplinary regime under section 102 of the Patents Act 1953 continues to apply after the commencement of Part 6 for actions and behaviours of patent attorneys in New Zealand before the commencement of Part 6.
 (2) The Commissioner must advise the designated manager if a New Zealand court determines that a person should not practise as a patent attorney in New Zealand.
+
+### Part 2 — Transitional and savings provisions arising from Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
+
+### 4 New 1-year grace period applies only to public disclosures that occur on or after commencement
+Section 9(1)﻿(f) applies only to disclosures that occur on or after the commencement of section 72 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
 
 ## Schedule  — Consequential amendments
 
