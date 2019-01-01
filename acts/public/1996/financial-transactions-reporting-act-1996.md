@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-01-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -84,7 +84,7 @@ _Consolidation as at 2018-10-01_
   (d)
   (e)
   (f)
-  (g) a real estate agent, but only to the extent that the real estate agent receives funds in the course of that person's business for the purpose of settling real estate transactions:
+  (g)
   (h)
   (ha)
   (i)
