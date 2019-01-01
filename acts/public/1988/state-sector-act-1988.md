@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2018-10-31_
+_Consolidation as at 2019-01-01_
 
 > Title
 
@@ -1339,6 +1339,7 @@ Every award and every agreement relating to the terms and conditions of employme
 
 | Departmental agency | Host department |
 | --- | --- |
+| Office for Māori Crown Relations—Te Arawhiti | Ministry of Justice |
 | Social Investment Agency | State Services Commission |
 
 ## Schedule 2 — State enterprises
