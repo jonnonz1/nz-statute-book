@@ -1,5 +1,5 @@
 # Climate Change Response Act 2002
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-01-01_
 
 ### 1 Title
 This Act is the Climate Change Response Act 2002.
@@ -14,7 +14,7 @@ This Act comes into force on a date to be appointed by the Governor-General by O
   (a) does not apply to that person unless—
     (i) the Part or subpart in Schedule 3 or 4 in which the activity is listed applies; and
     (ii) the person, if carrying out an activity listed in subpart 2 or 4 of Part 5 of Schedule 3, falls within a class of persons prescribed in an Order in Council that applies that subpart; and
-  (b) applies subject to sections 2C(3), 217 to 221, and 63A, 64A, 178A, and 178B.
+  (b) applies subject to sections 2C(3), 217 to 221, 178A, and 178B.
 (2) Part 1 of Schedule 3 and Part 1 of Schedule 4 apply on and after 1 January 2008.
 (2A) Part 3 of Schedule 4 applies on and after 1 July 2013.
 (3) Subpart 1 of Part 2 of Schedule 3 and Part 4 of Schedule 4 apply on and after 1 January 2009.
@@ -1465,14 +1465,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (3) Subsection (1) is subject to section 191(1)﻿(c).
 
 ### 63A Modification of liability to surrender units to cover certain emissions
-(1) This section applies to a person who—
-  (a) carries out an activity listed in any of Parts 2 to 6 of Schedule 3; or
-  (b) is a participant in relation to an activity listed in Part 3 or 4 of Schedule 4.
-(2) Despite anything in this Act, a person to whom this section applies is liable to surrender, and may surrender, only the following for emissions from the activity:
-  (a) for the period ending on 31 December 2016, 1 unit for each 2 whole tonnes of emissions:
-  (b) for the year starting on 1 January 2017, 1 unit for each 1.5 whole tonnes of emissions:
-  (c) for the year starting on 1 January 2018, 1 unit for each 1.2 whole tonnes of emissions.
-(3) This section is repealed on 1 January 2019.
+[Repealed]
 
 ### 64 Entitlement to receive New Zealand units for removal activities
 (1) A participant is entitled to receive 1 New Zealand unit for each whole tonne of removals from the participant’s removal activities, as calculated in accordance with this Act.
@@ -1482,14 +1475,7 @@ A participant must, in respect of each activity listed in Schedule 3 or 4 that i
 (5)
 
 ### 64A Modification of entitlement to receive New Zealand units for removal activities
-(1) This section applies to a person who—
-  (a) is a participant in respect of an activity listed in Part 2 of Schedule 4; and
-  (b) is entitled to receive New Zealand units under section 64.
-(2) Despite section 64, a participant to whom this section applies is entitled to receive only the following for removals from the activity:
-  (a) for the period ending on 31 December 2016, 1 New Zealand unit for each 2 whole tonnes of removals:
-  (b) for the year starting on 1 January 2017, 1 New Zealand unit for each 1.5 whole tonnes of removals:
-  (c) for the year starting on 1 January 2018, 1 New Zealand unit for each 1.2 whole tonnes of removals.
-(3) This section is repealed on 1 January 2019.
+[Repealed]
 
 ### 65 Annual emissions returns
 (1) In the period beginning on 1 January and ending on 31 March in each year, a participant—
@@ -1841,14 +1827,7 @@ Subject to section 82, an eligible person is entitled to a provisional allocatio
 (5) Section 83(7) applies to the repayment of units under this section as if the units were required to be repaid under section 83.
 
 ### 84A Temporary suspension of allocation entitlement for eligible industrial activities
-(1) The purpose of this section is to suspend temporarily the allocation entitlement of an eligible person in respect of an eligible industrial activity until the relevant participants face full surrender obligations.
-(2) This section applies to the allocation entitlement (including the provisional allocation entitlement) of an eligible person in respect of an eligible industrial activity calculated under sections 81 to 84.
-(3) Despite anything in this Act, an eligible person who carries out an eligible industrial activity is entitled to be allocated, in respect of an application made under section 86, only the following:
-  (a) for the period starting on 1 January 2013 and ending on 31 December 2016, one-half of the person’s allocation entitlement:
-  (b) for the year starting on 1 January 2017, two-thirds of the person’s allocation entitlement:
-  (c) for the year starting on 1 January 2018, five-sixths of the person’s allocation entitlement.
-(4) This section is repealed on 1 January 2019.
-(5)
+[Repealed]
 
 ### 85 Allocation of New Zealand units in relation to agriculture
 (1) A person is eligible for an allocation of New Zealand units for an eligible agricultural activity in respect of a year if the person carries out the activity at any time in the year.
@@ -4362,37 +4341,25 @@ Section 30H(1) and (3) do not apply to any regulations that—
 (2) However, the methodology prescribed by regulations made under section 233(4)﻿(a) in the transitional period ceases to apply on and from the end of the transitional period.
 
 ### 235 Temporary suspension of levy set by section 233
-(1) This section applies to suspend temporarily the operation of section 233 in relation to the calculation of the levy.
-(2) Despite anything in section 233, the operation of that section is suspended for the period starting on 1 January 2013 and ending on 31 December 2018.
-(3) Instead, subsection (4) applies to the calculation of the levy rate while the operation of section 233 is suspended.
-(4) The levy rate that applies to a class of leviable motor vehicles or an item or a class of leviable goods in a levy year must be calculated in accordance with the following formula:R = A × B × GWP × Cwhere—
-  (a) items A, B, GWP, and R have the same meanings as in section 233(1); and
-  (aa) item C means—
-    (i) one-half, for the period starting on 1 January 2013 and ending on 31 December 2016:
-    (ii) two-thirds, for the levy year starting on 1 January 2017:
-    (iii) five-sixths, for the levy year starting on 1 January 2018; and
-  (b) section 233(4) applies to the calculation of item B.
-(5) This section is repealed on 1 January 2019.
-(6)
-(7)
+[Repealed]
 
 ### 236 Maximum price of carbon for purpose of levy calculation
-(1) This section applies to the calculation of item B of the formula set out in section 233(1) or 235(4) (as applicable) for the period—
+(1) This section applies to the calculation of item B of the formula set out in section 233(1) for the period—
   (a) beginning on the date on which this section comes into force; and
   (b) ending on the close of the date specified for the purpose of this section as the closure date by the Governor-General by Order in Council made on the recommendation of the Minister.
 (2) If, during the period specified in subsection (1), the application of the methodology prescribed under section 233(4)﻿(a) results in a carbon price that is higher than $25, the regulations made under section 233(4)﻿(b) must prescribe a carbon price of $25.
 (3) Before the Minister may make a recommendation under subsection (1)﻿(b), the Minister must be satisfied that a person does not meet his or her obligation to surrender, repay, or reimburse units by paying $25 for each unit in accordance with section 178A.
-(4) This section overrides sections 233 and 235.
+(4) This section overrides section 233.
 
 ### 237 Levy rate exclusive of GST
-A levy rate calculated in accordance with section 233 or 235 is exclusive of goods and services tax.
+A levy rate calculated in accordance with section 233 is exclusive of goods and services tax.
 
 ### 238 Levy rate for period from 1 July 2013 to 31 December 2013
-The levy rate calculated in accordance with section 235(4) applies for the period starting on 1 July 2013 and ending with the close of 31 December 2013.
+[Repealed]
 
 ### 239 Levy rate to apply for single calendar year on and after 1 January 2014
 (1) A levy rate applies for 1 levy year.
-(2) Subsection (1) is subject to section 238.
+(2)
 (3) If no rate is set before the beginning of a levy year, the levy rate for that year is the same as it was for the preceding levy year.
 (4) However, if a levy rate is set for a levy year after the beginning of the levy year, the new levy rate applies from the beginning of the quarter of the levy year following the date on which the levy rate was set until the close of the levy year.
 (5) For the purposes of this section and section 241,—
