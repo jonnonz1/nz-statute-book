@@ -1,5 +1,5 @@
 # Ngā Mana Whenua o Tāmaki Makaurau Collective Redress Act 2014
-_Consolidation as at 2014-07-31_
+_Consolidation as at 2019-01-17_
 
 ## Preamble
 (1) The iwi and hapū constituting the collective known as Ngā Mana Whenua o Tāmaki Makaurau have claims to Tāmaki Makaurau based on historical breaches of the Treaty of Waitangi (Te Tiriti o Waitangi) by the Crown:
@@ -526,93 +526,22 @@ The chief executive of the Ministry of Justice must make copies of the collectiv
 ### Subpart 2 — Vesting of Maungauika
 
 ### 33 Maungauika
-(1) The reservation of Maungauika (being North Head Historic Reserve) as a historic reserve subject to the Reserves Act 1977 is revoked.
-(2) The fee simple estate in Maungauika then vests in the trustee.
-(3) Maungauika is then declared a reserve and classified as a historic reserve subject to section 18 of the Reserves Act 1977.
-(4) Subsections (1) to (3) do not take effect until the trustee has provided Watercare Services Limited with a registrable easement in gross on the terms and conditions set out in part 6 of the documents schedule.
-(5) The easement—
-  (a) is enforceable in accordance with its terms despite—
-    (i) the provisions of the Reserves Act 1977, the Property Law Act 2007, or any other enactment; and
-    (ii) any rule of law; and
-  (b) is to be treated as having been granted in accordance with the Reserves Act 1977.
-(6) Despite the vesting under subsection (2), the Reserves Act 1977 applies to Maungauika as if the maunga were vested in the Crown.
-(7) To avoid doubt, as a result of subsection (6),—
-  (a) Maungauika is not vested in, or managed and controlled by, an administering body; and
-  (b) the Crown continues to administer, control, and manage Maungauika; and
-  (c) the Crown continues to retain all income, and be responsible for all liabilities, in relation to Maungauika; and
-  (d) Maungauika continues to form part of the Hauraki Gulf Marine Park established under section 33 of the Hauraki Gulf Marine Park Act 2000.
-(8) Until the integrated management plan comes into effect, the Crown must administer, control, and manage the reserve in accordance with the North Head Historic Reserve Conservation Management Plan (1999).
+[Repealed]
 
 ### 34 Ownership of improvements
-(1) This section applies to improvements attached to Maungauika—
-  (a) on the vesting of the maunga in the trustee under section 33; and
-  (b) despite the vesting.
-(2) An improvement that is governed by an interest to which section 42(1) applies is vested, or remains vested, in accordance with the enactment or agreement by or under which the interest was created.
-(3) The improvements specified in part 4.2(a) of the property redress schedule vest in the trustee.
-(4) The improvement specified in part 4.2(b) of the property redress schedule vests in the trustee.
-(5) Any other improvements vest in accordance with subsections (6) to (9).
-(6) Improvements owned by the Crown immediately before the vesting remain vested in the Crown.
-(7) Improvements owned by the Auckland Council immediately before the vesting remain vested in the Auckland Council.
-(8) An improvement to which subsection (6) or (7) applies—
-  (a) no longer forms part of Maungauika; and
-  (b) must be treated as personal property and not as land or an interest in land; and
-  (c) may remain attached to Maungauika without the consent of, and without charge by, the trustee or the Crown.
-(9) Any other improvement attached to Maungauika with the consent of the Crown at the time of its attachment is vested in—
-  (a) the person or body who attached the improvement; or
-  (b) if the person or body is deceased, dissolved, or otherwise no longer exists, or the person or body no longer has an interest in the improvement, the person or body who, immediately before the vesting of the maunga, would have had a proprietary right to the improvement were the improvement to be treated as personal property.
-(10) Subsections (6) to (9) apply subject to any other enactment that governs the ownership of the improvement concerned.
-(11) To avoid doubt, subsection (9)—
-  (a) relates only to the ownership of an improvement to which that subsection applies; and
-  (b) does not affect or limit any rights in relation to Maungauika that may arise from the ownership of the improvement.
-(12) The trustee is not liable for an improvement for which it would, apart from this section, be liable by reason of its ownership of Maungauika.
+[Repealed]
 
 ### 35 Improvements: exercise of rights, use, access, etc
-(1) For the purposes of administering Maungauika under the Reserves Act 1977, the Crown is responsible for any decisions in respect of any matter that may arise from a person exercising, or purporting to exercise, a right in relation to any improvement attached to Maungauika.
-(2) Subsection (1) is subject to subsections (3) to (11) and any other enactment that governs the use of the improvement concerned.
-(3) On and from the vesting of Maungauika in the trustee under section 33, the Crown must provide the trustee with access to the improvements specified in part 4.2(a) of the property redress schedule for the purpose of the trustee maintaining the improvements.
-(4) The Crown must not require the payment of any rent, fee, royalty, or other charge from the trustee for the trustee’s use of land over which access is provided for the purposes of subsection (3).
-(5) On and from the vesting of Maungauika in the trustee under section 33, the trustee must allow the Crown to use the improvement specified in part 4.2(b) of the property redress schedule as an interpretation centre, without charge for access to or the use or occupation of the land on which the improvement is sited, until the Crown no longer wishes to use the improvement for that purpose.
-(6) The Crown is responsible for maintaining the improvement during this time.
-(7) The Crown must provide the trustee with access to the improvement described in subsection (5)—
-  (a) on and from the date that the Crown notifies the trustee in writing that it no longer wishes to use the improvement as an interpretation centre; and
-  (b) for the purpose of the trustee maintaining the improvement.
-(8) Subsections (3) and (7) apply subject to any terms and conditions agreed between the Crown and the trustee.
-(9) The Crown must not require the payment of any rent, fee, royalty, or other charge from the trustee for the trustee’s use of land over which access is provided for the purposes of subsection (7).
-(10) Despite section 17Y of the Conservation Act 1987, the Minister of Conservation must not require the payment of any rent, royalty, fee, levy, or other charge from the trustee in respect of any interest or arrangement granted to the trustee under the Reserves Act 1977 or the Conservation Act 1987 and that relates to—
-  (a) the use by the trustee of the improvements described in part 4.2(a) or (b) of the property redress schedule; or
-  (b) the use by the trustee of the land over which access is provided to those improvements.
-(11) An improvement described in section 34(6) or (7)—
-  (a) may be accessed, used, occupied, repaired, or maintained at any time without the consent of, and without charge by, the trustee; and
-  (b) may be removed or demolished at any time without the consent of, and without charge by, the trustee; but,—
-    (i) before doing so, the trustee must be given not less than 15 working days' written notice of the intended removal or demolition; and
-    (ii) after the removal or demolition, the owner of the improvement must ensure that the land is left in a clean and tidy condition.
-(12) Subsection (11)﻿(b) is subject to section 36 in relation to the improvements described in subsections (1) and (4) of that section.
-(13) In subsections (3) and (7), trustee includes 1 or more members of Ngā Mana Whenua o Tāmaki Makaurau authorised by the trustee.
-(14) To avoid doubt, nothing in subsection (11)﻿(b) limits or affects the requirements of the Reserves Act 1977 and any other enactment that may apply to the removal or demolition of an improvement to which that subsection applies.
+[Repealed]
 
 ### 36 Trustee right of first refusal over certain Crown improvements
-(1) Subsections (2) and (3) apply if the Crown decides that it no longer wishes to own and occupy the buildings located on that part of Maungauika identified as Area C1 on deed plan OTS-115-12.
-(2) The Crown must offer the buildings to the trustee for purchase on any terms the Crown thinks fit. However, the Crown may sell the buildings to the trustee only if the trustee can demonstrate that it is able to secure the right to use the buildings for a purpose compatible with the reserve classification under the Reserves Act 1977 that applies to Maungauika on the proposed date of sale.
-(3) If the trustee declines to purchase the buildings, the buildings must remain vested in the Crown and sections 34 and 35 continue to apply to the buildings accordingly.
-(4) Subsections (5) and (6) apply if the Crown decides that it no longer wishes to own and occupy the buildings located on that part of Maungauika identified as Area C2 on deed plan OTS-115-12.
-(5) The Crown must offer the buildings to the trustee for purchase on any terms the Crown thinks fit. However, the Crown may sell the buildings to the trustee only if the trustee can demonstrate that it is able to secure the right to use the buildings for a purpose compatible with the reserve classification under the Reserves Act 1977 that applies to Maungauika on the proposed date of sale.
-(6) If the trustee declines to purchase the buildings, the Crown must remove or demolish the buildings, after complying with the requirements of section 35(11)﻿(b)﻿(i) and (ii) and any other relevant enactment.
-(7) To avoid doubt, the consent of the trustee is not required for the removal or demolition of the buildings, nor may the trustee charge for their removal or demolition.
-(8) An offer made by the Crown under subsection (2) or (5) expires on the 40th working day after the trustee receives notice of the offer.
+[Repealed]
 
 ### 37 Crown must allow access to improvements to which section 36 applies if purchased by trustee
-(1) Subsection (2) applies if the trustee purchases, in accordance with section 36, the buildings located on that part of Maungauika identified as Area C1 or C2 on deed plan OTS-115-12.
-(2) On and from the date that the purchase settles, the Crown must unconditionally authorise the following:
-  (a) the trustee to have access over Maungauika to the buildings as is reasonably required for the occupation and use of the buildings for the purpose referred to in section 36(2) or (5) and, for the purposes of this paragraph, use of the land, and any remaining improvements, in Area C1 or C2 as is reasonably required; and
-  (b) 24-hour vehicular access for the trustee to the buildings over the route shown dotted in red on deed plan OTS-115-12 and, for that purpose, 24-hour vehicular access over and use of the land, and any remaining improvements owned by the Crown, in Area C1 or C2 as is reasonably required.
+[Repealed]
 
 ### 38 Order in Council triggering different arrangements for administration of Maungauika
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, declare that on the date specified in the order section 164(3) and Schedule 6 come into force.
-(2) The Minister of Conservation may recommend the making of an order only if—
-  (a) a computer freehold register for the fee simple estate in Maungauika in the name of the trustee has been created under section 43; and
-  (b) the Minister has consulted the Minister of Local Government; and
-  (c) the Auckland Council, after consulting the Maunga Authority, has provided notice in writing to the Minister of Conservation that the Council has agreed to be responsible for the routine management of Maungauika in the same manner as for other maunga under section 61.
-(3) Despite subsection (2), if the Crown has made an offer to the trustee under section 36(2) or (5), the Minister of Conservation may recommend the making of an order only if he or she is also satisfied that the consequences of the making of the offer under section 36 have been fully dealt with under the relevant remaining provisions of that section.
+[Repealed]
 
 ### Subpart 3 — Vesting of Rarotonga / Mount Smart
 
@@ -718,7 +647,7 @@ The chief executive of the Ministry of Justice must make copies of the collectiv
 (4) The permission of a council under section 348 of the Local Government Act 1974 is not required for laying out, forming, granting, or reserving a private road, private way, or right of way required to fulfil the terms of the collective deed in relation to the maunga.
 
 ### 47 Application of Reserves Act 1977
-(1) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to the maunga (other than Maungauika and Rarotonga / Mount Smart) despite sections 48A(6), 114(5), and 115(6) of that Act.
+(1) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to the maunga (other than Rarotonga / Mount Smart) despite sections 48A(6), 114(5), and 115(6) of that Act.
 (2) Sections 48A, 114, and 115 of the Reserves Act 1977 apply to Rarotonga / Mount Smart despite—
   (a) sections 48A(6), 114(5), and 115(6) of that Act; and
   (b) section 4 of the Mount Smart Regional Recreation Centre Act 1985.
@@ -733,7 +662,7 @@ The chief executive of the Ministry of Justice must make copies of the collectiv
 (2) Subsection (3) applies to the land, or the part of the land, in any other maunga that, immediately before the vesting of the maunga under subpart 1 or 3 of this Part, was all or part of a Crown protected area.
 (3) The official geographic name is discontinued in respect of the land, or the part of the land, and the Geographic Board must amend the Gazetteer accordingly.
 (4) A maunga is not a Crown protected area, despite anything in the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008.
-(5) Subsection (4) does not apply to Maungauika.
+(5)
 (6) The Minister of Conservation must not name or change the name of a maunga under section 16(10) of the Reserves Act 1977 without the written consent of the trustee, and section 16(10A) of that Act does not apply to the proposed name or change.
 (7) Subsection (6) does not apply to Rarotonga / Mount Smart.
 (8) The Auckland Council must not change the name of Rarotonga / Mount Smart under section 16(10) of the Reserves Act 1977 without the written consent of the trustee, and section 16(10A) of that Act does not apply to the proposed change.
@@ -819,18 +748,18 @@ In this subpart, administered lands means administered lands as that term is def
 ### Subpart 6 — Care, management, maintenance, etc, of maunga and administered lands
 
 ### 57 Meaning of maunga in this subpart
-In this subpart, maunga does not include Maungauika or Rarotonga / Mount Smart.
+In this subpart, maunga does not include Rarotonga / Mount Smart.
 
 ### 58 Integrated management plan
 (1) The Maunga Authority must prepare and approve an integrated management plan—
   (a) that applies to the following land:
     (i) the maunga; and
-    (ii) Maungauika; and
+    (ii)
     (iii) the administered lands; and
     (iv) any land for which any other enactment requires the Maunga Authority to be the administering body; and
   (b) that complies with the requirements of section 59.
 (2) Despite subsection (1),—
-  (a) the part of the plan relating to Maungauika must also be approved by the Minister of Conservation; and
+  (a)
   (b) the Maunga Authority must make the entire plan available for inspection by the Minister of Conservation whenever the Minister requires.
 (3) Section 41 of the Reserves Act 1977 applies to a plan prepared under this section—
   (a) with any necessary modifications; but
@@ -991,7 +920,7 @@ In this Act, authorised cultural activity means—
 (6) The trustee, a representative entity, or a rōpū entity must give the Maunga Authority notice, in writing or electronically, of an activity for which it has granted approval under subsection (1).
 (7) Notice must be given as soon as possible, but not later than 5 working days before the day, or the first day, on which the activity is to be carried out.
 (8) If the trustee, a representative entity, or a rōpū entity grants approval to carry out an authorised cultural activity under this section, any permission or other authorisation required under the Reserves Act 1977 from the Maunga Authority in respect of the carrying out of the activity is deemed to have been granted.
-(9) In this section, maunga does not include Maungauika or Rarotonga / Mount Smart.
+(9) In this section, maunga does not include Rarotonga / Mount Smart.
 
 ### Subpart 8 — Vesting and vesting back of motu
 
