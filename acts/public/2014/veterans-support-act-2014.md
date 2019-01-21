@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-01-21_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -74,11 +74,14 @@ This Act is the Veterans' Support Act 2014.
   (a) is only a guide to the general scheme and effect of this Act; and
   (b) does not limit or affect the other provisions of this Act.
 
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
+
 ### 5 Act to bind the Crown
 This Act binds the Crown.
 
 ### 6 Application of provisions of this Act
-Schedule 1 contains application, transitional, and savings provisions that affect this Act's other provisions as from time to time amended, repealed, or repealed and replaced (see section 277).
+[Repealed]
 
 ### Subpart 2 — Interpretation and related matters
 
@@ -1875,7 +1878,7 @@ The explanatory note of an Order in Council made under section 190(2) must indic
 (4) This subsection applies to a person—
   (a) who, on or after the date this subsection comes into force, makes an application to be paid a veteran’s pension in a specified Pacific country; and
   (b) who is resident in the Cook Islands, Niue, or Tokelau on the date of the application; and
-  (c) who, before he or she left New Zealand to reside in one of the countries or in the territory specified in paragraph (b), met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c) of the New Zealand Superannuation and Retirement Income Act 2001; and
+  (c) who has met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c) of the New Zealand Superannuation and Retirement Income Act 2001; and
   (d) who is resident in a specified Pacific country when each payment of the veteran’s pension is due to be paid to him or her.
 (5) If subsection (4) applies, an application to be paid a veteran’s pension in a specified Pacific country must be made in addition to an application to be paid a veteran’s pension under section 297 (and regulations made under section 438) of the Social Security Act 2018.
 (6) The applications referred to in subsection (5) may be made together or separately, and may be made—
@@ -2523,7 +2526,7 @@ VANZ must provide the resources and administrative support necessary to enable t
   (37) section 240 (procedure of appeal board):
   (38) section 247 (procedure of advisory board):
   (39) section 254 (procedure of advisory panel):
-  (40) Schedule 1 (application, savings, and transitional provisions):
+  (40) Schedule 1 (transitional, savings, and related provisions):
   (41) Schedule 2 (entitlements).
 (2) The Governor-General may, by Order in Council, make regulations for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
@@ -2664,7 +2667,7 @@ A person who commits an offence against this Act or any regulations made under i
 The War Pensions Act 1954 (1954 No 54) and the Veterans' Affairs Act 1999 (1999 No 76) are repealed.
 
 ### 277 Application, savings, and transitional provisions
-The application, savings, and transitional provisions set out in Schedule 1 have effect for the purposes of this Act.
+[Repealed]
 
 ### 278 Consequential amendments
 Amend the enactments specified in Schedule 4 as set out in that schedule.
@@ -2697,9 +2700,11 @@ Amend the enactments specified in Schedule 4 as set out in that schedule.
   (c) report his or her findings to the Minister.
 (2) As soon as practicable after receiving the report, the Minister must present a copy of the report to the House of Representatives.
 
-## Schedule 1 — Application, savings, and transitional provisions
+## Schedule 1 — Transitional, savings, and related provisions
 
-### Part 1 — Savings
+### Part 1 — Provisions relating to this Act as enacted
+
+**Savings relating to this Act as enacted**
 
 ### 1 Allowances for services of attendant in certain cases
 Section 29 of the War Pensions Act 1954 continues in force, as if this Act had not been passed, but only for the persons who (immediately before the commencement of this Act) were receiving allowances under that section.
@@ -2717,8 +2722,6 @@ Any review or appeal under the War Pensions Act 1954 instituted but not conclude
 ### 5 Rights of review and appeal
 Any right of review or appeal under the War Pensions Act 1954 that existed but which had not been exercised at the commencement of this Act may be exercised and the review or appeal continued and concluded as if this Act had not been passed.
 
-### Part 2 — Transitional provisions
-
 ### 6 War disablement pension
 (1) A veteran who is receiving a war disablement pension under Part 2 of the War Pensions Act 1954 immediately before the commencement of Part 3 of this Act is entitled to continue receiving the pension as if it were payable under Part 3 of this Act.
 (2) A veteran to whom subclause (1) applies may apply for a disablement pension under Part 3 of this Act and is entitled to receive a disablement pension in respect of any injury or illness for which a war disablement pension was granted to the veteran under Part 2 of the War Pensions Act 1954.
@@ -2729,6 +2732,8 @@ Any right of review or appeal under the War Pensions Act 1954 that existed but w
 (7) Subclause (2) does not preclude a rate of payment being adjusted if the rate of payment a veteran was receiving immediately before the commencement of Part 3 of this Act—
   (a) was not a rate of payment to which the veteran was entitled under the War Pensions Act 1954; or
   (b) is no longer a rate of payment to which the veteran is entitled under this Act.
+
+**Transitional provisions relating to this Act as enacted**
 
 ### 7 Terminal conditions
 (1) This clause applies to a veteran who, under clause 6, is entitled to continue to receive a war disablement pension as if it were payable under Part 3 of this Act.
@@ -2794,6 +2799,19 @@ Any right of review or appeal under the War Pensions Act 1954 that existed but w
 
 ### 15 Continuation of veteran’s pension
 A person who is receiving a veteran’s pension under the War Pensions Act 1954 immediately before the commencement of Part 6 of this Act is entitled to continue receiving a veteran’s pension under Part 6 of this Act.
+
+### Part 2 — Provisions relating to Social Assistance (Residency Qualification) Legislation Act 2018
+
+### 16 Interpretation
+In this Part,—
+  - **2001 Act** means the New Zealand Superannuation and Retirement Income Act 2001
+  - **2018 Act** means the Social Assistance (Residency Qualification) Legislation Act 2018.
+
+### 17 Application of section 8(c) of the New Zealand Superannuation and Retirement Income Act 2001
+(1) This clause applies to a person who, on or after the date on which the 2018 Act comes into force, applies for a veteran’s pension.
+(2) In determining for the purposes of section 161(1)﻿(b) or (2)﻿(a), 162(1)﻿(b) or (2)﻿(a), or 163(1)﻿(a) or (2)﻿(a) of this Act whether the person is eligible to receive New Zealand superannuation and, specifically whether he or she meets the residential qualification under section 8(c) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
+(3) In determining for the purposes of section 163(1)﻿(c) of this Act whether a veteran, had he or she not died, would have been eligible to receive New Zealand superannuation and, specifically whether the veteran would have met the residential qualification under section 8(c) of the 2001 Act, the veteran’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
+(4) In determining for the purposes of section 191(4)﻿(c) whether a person has met the residential qualification for New Zealand superannuation under section 8(c) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 
 ## Schedule 2 — Entitlements
 
