@@ -1,5 +1,5 @@
 # Social Assistance (Residency Qualification) Legislation Act 2018
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-01-21_
 
 ### 1 Title
 This Act is the Social Assistance (Residency Qualification) Legislation Act 2018.
