@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-01-21_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -77,6 +77,9 @@ In Part 4 and in Schedule 6, unless the context otherwise requires,—
   - **Government** means the Executive Government of New Zealand
   - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, responsible for the administration of Part 4.
 
+### 5B Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 6 Act binds the Crown
 This Act binds the Crown.
 
@@ -93,7 +96,11 @@ This Act binds the Crown.
 No person is entitled to New Zealand superannuation unless the person—
   (a) is ordinarily resident in New Zealand on the date of application for New Zealand superannuation, unless section 31(4) of this Act or section 191(4) of the Veterans’ Support Act 2014 applies; and
   (b) has been both resident and present in New Zealand for a period or periods aggregating not less than 10 years since attaining the age of 20 years; and
-  (c) has also been both resident and present in New Zealand for a period or periods aggregating not less than 5 years since attaining the age of 50 years.
+  (c) has also been both resident and present for a period or periods aggregating not less than 5 years since attaining the age of 50 years in any 1 or more of—
+    (i) New Zealand:
+    (ii) the Cook Islands:
+    (iii) Niue:
+    (iv) Tokelau.
 
 ### 9 Periods of absence that are not counted
 (1) In determining the period an applicant has been present in New Zealand, no account is taken of,—
@@ -335,7 +342,7 @@ The explanatory note of an Order in Council made under section 30(2) must indica
 (4) This subsection applies to a person—
   (a) who, on or after the date this subsection comes into force, makes an application to be paid New Zealand superannuation in a specified Pacific country; and
   (b) who is resident in the Cook Islands, Niue, or Tokelau on the date of the application; and
-  (c) who, before he or she left New Zealand to reside in one of the countries or in the territory specified in paragraph (b), met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c); and
+  (c) who has met the residential qualifications for New Zealand superannuation set out in section 8(b) and (c); and
   (d) who is resident in a specified Pacific country when each payment of New Zealand superannuation is due to be paid to him or her.
 (5) If subsection (4) applies, an application to be paid New Zealand superannuation in a specified Pacific country must be made in addition to an application to be paid New Zealand superannuation under section 297 (and regulations made under section 438) of the Social Security Act 2018.
 (6) The applications referred to in subsection (5) may be made together or separately, and may be made—
@@ -761,6 +768,22 @@ The provisions in Schedule 6 apply to the Commissioner.
 
 ### 89 References to New Zealand Superannuation Act 2001
 Unless the context otherwise requires, any reference to the New Zealand Superannuation Act 2001 in any enactment, rule, order, agreement, deed, or document of any other kind in force on the commencement of this section must be read as a reference to the New Zealand Superannuation and Retirement Income Act 2001.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Transitional, savings, and related provisions relating to Act as enacted or as amended prior to 2018
+
+### 1 Transitional, savings, and related provisions in body of Act
+In addition to the transitional, savings, and related provisions set out in this Schedule, other transitional, savings, and related provisions apply as set out in the body of this Act.
+
+### Part 2 — Provisions relating to Social Assistance (Residency Qualification) Legislation Act 2018
+
+### 2 Interpretation
+In this Part, 2018 Act means the Social Assistance (Residency Qualification) Legislation Act 2018.
+
+### 3 Application of section 8(c)
+(1) This clause applies to a person who, on or after the date on which the 2018 Act comes into force, applies for New Zealand superannuation.
+(2) In determining whether the person has met the residential qualification in section 8(c), the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 
 ## Schedule 1 — New Zealand superannuation entitlements
 
