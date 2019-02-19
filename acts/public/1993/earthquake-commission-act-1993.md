@@ -1,5 +1,5 @@
 # Earthquake Commission Act 1993
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-02-19_
 
 > An Act to make provision with respect to the insurance of residential property against damage caused by certain natural disasters
 
@@ -63,6 +63,9 @@ _Consolidation as at 2018-11-12_
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 1 — Earthquake Commission
 
@@ -272,6 +275,22 @@ Where there is expressed or implied in any mortgage, lease, instrument, or docum
 
 ## Part 3 — Miscellaneous provisions
 
+### 31A Collection and disclosure of information
+(1) The Commission may collect information for any of the following purposes:
+  (a) administering this Act:
+  (b) performing its functions:
+  (c) facilitating natural disaster preparedness, response, or recovery (including settlement of insurance claims by insurance companies).
+(2) Information collected by the Commission for any of the purposes referred to in subsection (1) is taken to have been collected—
+  (a) for all of those purposes; and
+  (b) if it is property-related information, for the purpose of making the information available (including to the public).
+(3) The Commission may make available any information in its possession if it believes on reasonable grounds that doing so is necessary to prevent or lessen a serious threat to public health or public safety or to the life or health of any individual.
+(4) This section does not limit the Privacy Act 1993 or any other right the Commission may have to collect or disclose information.
+(5) In this section,—
+  - **property-related information** means information about property (whether generally or in relation to 1 or more identified properties), including information about—
+    (a) natural disaster damage to the property; and
+    (b) any claims made under this Act in relation to the property (including information about the assessed cost of replacing or reinstating damaged property, reinstatement methods, and settlement amounts)
+  - **serious threat** has the same meaning as in section 2(1) of the Privacy Act 1993.
+
 ### 32 Power to inspect property, obtain information, and enter land
 (1) For the purpose of obtaining any information that may be reasonably required by the Commission for the purposes of this Act, any person specifically or generally authorised in writing in that behalf by the Commission may from time to time—
   (a) inspect and examine any property and any books, accounts, vouchers, records, or documents:
@@ -393,6 +412,17 @@ Where there is expressed or implied in any mortgage, lease, instrument, or docum
     (ii) constitutes the main access way or part of the main access way to the building from the boundary of the land holding or is land supporting such access way or part; and
   (d) all bridges and culverts situated within any area specified in paragraphs (a) to (c); and
   (e) all retaining walls and their support systems within 60 metres, in a horizontal line, of the building which are necessary for the support or protection of any property referred to in any of paragraphs (a) to (c).
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Earthquake Commission Amendment Act 2019
+
+### 1 Collection and disclosure of information
+Information collected by the Commission before section 5 of the Earthquake Commission Amendment Act 2019 comes into force is taken to have been collected for all of the purposes referred to in section 31A(1) and (2).
+
+### 2 Reporting of claims
+(1) Clauses 7 and 13 of Schedule 3, as in force before the commencement date, continue to apply in relation to a claim relating to natural disaster damage that occurred before that date.
+(2) In this clause, commencement date means the date on which section 7 of the Earthquake Commission Amendment Act 2019 comes into force.
 
 ## Schedule 1 — Provisions relating to board
 
@@ -560,11 +590,21 @@ Subject to clauses 4 and 5, on the payment by the Commission of any amount for a
 
 ### 7 Reporting of claims
 (1) On the occurrence of any natural disaster damage to any property insured under this Act, the insured person shall at his or her own expense—
-  (a) within 30 days (or such longer time as may be prescribed by regulations made under this Act) give notice thereof, either orally or in writing, to the Commission; and
+  (a) within the time allowed by subclause (2) give notice thereof, either orally or in writing, to the Commission; and
   (b) as soon as practicable deliver to the Commission—
     (i) a claim in writing for the natural disaster damage, including, in particular, such account as is reasonably practicable of all property lost or damaged, and of the respective amounts claimed in respect of each such item of property, having regard to their value at the time of the natural disaster damage; and
     (ii) particulars in writing of all other insurances covering that property (if any).
-(2) Notwithstanding subclause (1), if natural disaster damage is not immediately apparent, or if the insured person is unable by his or her absence or incapacity, or by other disability suffered by him or her and proved to the satisfaction of the Commission, to give notice, or deliver a claim to the Commission, at or within the required time, it shall be sufficient compliance with this clause for notice to be given to the Commission as soon as the natural disaster damage is apparent or the insured person is able to do so, so long as the notice is given within 3 months (or such longer time as may be prescribed by regulations made under this Act) after the natural disaster damage has taken place, and the Commission is not prejudiced by the lapse of time.
+(2) The notice under subclause (1)﻿(a) must be given to the Commission—
+  (a) not more than 3 months after the damage occurred (or any longer period prescribed by regulations made under this Act); or
+  (b) subject to subclause (2B), after the period set out in paragraph (a) has expired but not more than 2 years after the damage occurred (or any longer period prescribed by regulations made under this Act).
+(2A) However, the regulations may permit the Commission to accept notice given after the time limit applying under subclause (2)﻿(b) if—
+  (a) either or both of the following apply:
+    (i) the natural disaster damage could not reasonably have been discovered in time to enable the insured person (acting reasonably promptly) to give notice within the time limit applying under subclause (2)﻿(b):
+    (ii) the insured person is unable to give notice within the time limit applying under subclause (2)﻿(b) because of absence, incapacity, or other disability; and
+  (b) the notice is given—
+    (i) as soon as is reasonably practicable after the natural disaster damage is discovered or as soon as the insured person is reasonably able to give notice; and
+    (ii) in any event, within the time specified in the regulations.
+(2B) If notice is given after the time limit applying under subclause (2)﻿(a), the Commission may decline the claim if the lapse of time before the notice was given materially prejudices the Commission’s ability to assess the claim.
 (3) The insured person shall, at his or her own expense, give to the Commission—which relate to a claim and the origin and cause of the natural disaster damage, and the circumstances under which the damage occurred, as may be reasonably required by the Commission.
   (a) such particulars, plans, specifications, books, vouchers, invoices, duplicates, or copies thereof; and
   (b) such documents, proof, and information—
