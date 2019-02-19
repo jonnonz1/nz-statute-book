@@ -1,5 +1,5 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2019-02-19_
 
 > Title
 
@@ -283,7 +283,7 @@ The chief executive has the following functions under this Act:
 ### 8 Restrictions on prospecting or exploring for, or mining, Crown owned minerals
 (1) No person may prospect or explore for, or mine, Crown owned minerals in land unless the person—
   (a) is the holder of a permit granted under this Act which authorises the holder to do so, or is authorised to do so by the holder of such a permit in accordance with the permit, or is otherwise authorised to do so under this Act; and
-  (b) complies with sections 49, 50, 51, 53, and 54.
+  (b) complies with sections 49, 50, 51, 53, 54, and 54A.
 (2) Subsection (1)﻿(a) does not apply to the taking by any person of—
   (a) any Crown owned mineral that—for use for any reasonable agricultural, pastoral, domestic, roadmaking, or building purpose on land of which the person is an owner or occupier; or
     (i) exists in a natural state in land of which the person is an owner or occupier; and
@@ -374,8 +374,9 @@ The Minister must, as soon as practicable, prepare a draft minerals programme fo
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue a minerals programme or a change to a minerals programme.
 (2) Before recommending the making of an order, the Minister must satisfy those requirements of sections 15 to 18 relevant to the order.
 (3) A minerals programme—
-  (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
-  (b) must be presented to the House of Representatives under section 41 of that Act.
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 20 of this Act); and
+  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 (4) A minerals programme or a change to a minerals programme takes effect on and from the date specified in the order approving it, which must not be earlier than the date on which the order is made.
 
 ### 20 Notification of minerals programmes
@@ -479,18 +480,24 @@ Where, in respect of any application for a prospecting permit, the Minister cons
   (b) there exists, at the time of the application, substantial interest in exploring for or mining the mineral in all or part of the land to which the application relates,—
 
 ### 28A Declaration that permits not to be issued or extended for specified land for specified period
-(1) The Minister may, by notice in the Gazette, declare that specified kinds of permits will not be granted, or extended, in respect of specified land during a specified period if he or she believes the declaration is necessary to better meet the purpose of the Act.
-(2) A notice under subsection (1)—
+(1) The Minister may declare that, during a specified period, specified kinds of permits—
+  (a) will not be granted in respect of specified land; and
+  (b) will not have the area of land that those permits apply to extended to include any of that specified land.
+(1A) For the purposes of subsection (1),—
+  (a) the declaration may be made only if the Minister believes that the declaration is necessary to better meet the purpose of this Act:
+  (b) the declaration must be made by notice in the Gazette.
+(2) A notice under subsection (1A)﻿(b)—
   (a) must specify the kind or kinds of permits to which it applies:
   (b) must specify the land to which it applies:
   (c) may apply to different minerals, to minerals that occur in a particular state, place, phase, or stratum, or to minerals that are to be explored for or mined by a particular method:
   (d) has effect until the close of the earlier of the following periods:
     (i) the period specified in the notice:
     (ii) 3 years from the date on which the notice is published in the Gazette.
-(3) The Minister must not accept a permit application that is contrary to a notice under subsection (1) while the notice has effect, unless the application relates to a subsequent permit referred to in subsection (4)﻿(c).
-(4) A notice under subsection (1) does not affect any—
+(3) The Minister must not accept a permit application that is contrary to a notice under subsection (1A)﻿(b) while the notice has effect, unless the application relates to a subsequent permit referred to in subsection (4)﻿(c).
+(4) A notice under subsection (1A)﻿(b) does not affect any—
   (a) application received by the Minister before the notice is published in the Gazette; or
   (b) permit granted before the notice is published in the Gazette; or
+  (ba) power to extend the duration of a permit; or
   (c) right under section 32 of the holder of a permit described in paragraph (b) to be granted a subsequent permit.
 
 ### 29 Minister may require survey to be done
@@ -749,19 +756,29 @@ The Minister may—
     (i) a condition of the permit; or
     (ii) this Act or the regulations; or
   (b) in any case where a condition relates to payment of money to the Crown under the permit, this Act, or the regulations, payment has not been made within 90 days after the due date for the payment.
+(1A) The Minister may also revoke a permit—
+  (a) as referred to in section 41A(7); or
+  (b) in accordance with section 41AF (but, in this case, subsections (2) to (4) of this section do not apply).
 (2) Before deciding whether to revoke or transfer a permit, the Minister must serve on the permit holder written notice of his or her intention to revoke or transfer the permit that—
   (a) sets out the grounds on which the Minister intends to revoke or transfer the permit; and
   (b) gives the holder 40 working days after the date on which the notice is served to—
     (i) remove the grounds for the revocation or transfer; or
     (ii) provide reasons why the permit should not be revoked or transferred.
-(3) The Minister may, by serving written notice on the permit holder, revoke or transfer the permit with effect on the date that is 41 working days after the date on which the notice under subsection (2) is served if—
+(2A) In the case of an intention to revoke a permit under section 41A(7)﻿(b) where the change of control has been notified in accordance with section 41A(2), the Minister may only serve a notice under subsection (2) within 3 months after the later of the following:
+  (a) the date on which the permit participant notifies the Minister of the change of control in accordance with section 41A(2):
+  (b) the date by which the permit participant provides to the Minister all of the information and documents requested under section 41A(5) (if any).
+(3) The Minister may, by serving written notice on the permit holder, revoke or transfer the permit with effect on the date that is specified in the notice if—
   (a) the grounds for revocation or transfer have not been removed; or
   (b) after having considered reasons provided in accordance with subsection (2)﻿(b)﻿(ii), the Minister still considers there are grounds for revoking or transferring the permit.
+(3A) In the case of section 41A(7)﻿(a), the following applies:
+  (a) the Minister may, by serving written notice on the permit holder, revoke the permit with effect on the date specified in the notice if the Minister is satisfied that the permit should be revoked:
+  (b) the Minister may be so satisfied even if the Minister becomes satisfied of the matter set out in section 41A(7)﻿(b) (for example, the Minister may be satisfied that the permit should be revoked because there is no good reason to excuse the contravention of section 41A(2)).
+(3B) The notice under subsection (3) or (3A) may be served only on or after the date that is 40 working days after the date on which the notice under subsection (2) is served.
 (4) If the Minister transfers a permit in accordance with subsection (3),—
   (a) the permit is automatically transferred into the name of the Minister; and
   (b) the consent of the Minister under section 41 is not required to transfer the permit to, or from, the Minister; and
   (c) the Minister may exercise the rights granted by the permit, or offer it or any share in it for sale by public tender or otherwise.
-(5) A permit holder who is served with written notice under subsection (3) may, not later than 20 working days after the date on which the notice is served, appeal against the Minister's decision to the High Court, but only on the ground that the decision is erroneous in point of law.
+(5) A permit holder who is served with written notice under subsection (3) or (3A) may, not later than 20 working days after the date on which the notice is served, appeal against the Minister's decision to the High Court, but only on the ground that the decision is erroneous in point of law.
 (6) Pending the determination of an appeal under subsection (5), the permit in respect of which the appeal is made continues in force for all purposes unless it sooner expires.
 (6A) The Minister must record any revocation or transfer of a permit on the register of permits, but need not record the reasons for the revocation or transfer.
 (7) The revocation of a permit or the transfer of a permit to the Minister under this section shall not release the permit holder from any liability in respect of—
@@ -813,30 +830,109 @@ The Minister may—
 (6) Before granting consent, the Minister must be satisfied that the transferee is likely to be able to comply with the conditions of, and give proper effect to, the permit.
 (7) The chief executive must record the transfer of any participating interest consented to by the Minister under this section on the permit concerned and the transfer is effective, for the purposes of the permit, this Act, and the regulations from the date of the Minister's consent.
 
-### 41A Change of control of permit participants
-(1) For the purposes of this section, a corporate body undergoes a change of control if—
+### 41AA Meaning of change of control of permit participant or guarantor
+(1) In sections 41AB to 41A, a corporate body undergoes a change of control if—
   (a) a person (person A) obtains the power (whether directly or indirectly) to exercise, or control the exercise of, 50% or more of the voting rights in the corporate body; or
   (b) a person (person A) obtains, together with 1 or more specified persons, the power (whether directly or indirectly) to exercise, or control the exercise of, 50% or more of the voting rights in the corporate body.
+(2) In subsection (1)﻿(b), a specified person, in relation to person A, means—
+  (a) a person who is acting or will act jointly or in concert with person A in respect of exercising, or controlling the exercise of, the voting rights of the permit participant; or
+  (b) a person who acts, or is accustomed to acting, in accordance with the wishes of person A.
+
+### 41AB Change of control of permit operator of Tier 1 permit
+(1) This section applies if a corporate body that is a permit operator of a Tier 1 permit undergoes a change of control.
+(2) Every person who obtains the power referred to in section 41AA(1) contravenes this subsection if the change of control is made without the prior consent of the Minister (see sections 41AC to 41AE, which relate to obtaining that consent).
+(3) A contravention of subsection (2) by a person may result in either or both of the following:
+  (a) the revocation of the permit under section 41AF:
+  (b) an offence under section 100(2A) if, before the power referred to in section 41AA(1) is obtained, the person knows, or ought reasonably to know, that the person will obtain the power.
+(4) The permit operator must notify the Minister in accordance with subsection (6) if—
+  (a) subsection (2) is contravened; and
+  (b) the permit operator knows, or ought reasonably to know, that it has undergone a change of control.
+(5) Subsection (4) does not apply in the case of a contravention referred to in section 41AC(3)﻿(c).
+(6) For the purposes of subsection (4), the notification must—
+  (a) be given as soon as is reasonably practicable, but in any event not later than 3 months after the permit operator becomes aware, or ought reasonably to have become aware, that it has undergone a change of control; and
+  (b) be accompanied by a copy of any agreement or other document that specifies the change of control.
+
+### 41AC Application for consent for change of control
+(1) An application for consent referred to in section 41AB(2) must—
+  (a) be made—
+    (i) by the relevant person; or
+    (ii) if there is more than 1 relevant person, by all of the relevant persons; and
+  (b) be made at least 3 months before the date on which the proposed change of control takes effect; and
+  (c) include the following information:
+    (i) the name of each relevant person:
+    (ii) if a relevant person is a corporate body, the name of each director of the body and of each shareholder or member of the body referred to in subsection (4):
+    (iii) particulars about how the change of control is proposed to be undertaken:
+    (iv) particulars about when the change of control is proposed to take effect; and
+  (d) be accompanied by—
+    (i) a copy of any agreement or other document that specifies the change of control; and
+    (ii) information or documents that show how the test in section 41AE(1) is satisfied.
+(2) If the Minister is satisfied that there are compelling reasons why a relevant person could not comply with subsection (1)﻿(b), the Minister may receive an application by a later date agreed by the Minister (which date must not be later than the date on which the proposed change of control takes effect).
+(3) The following applies if an application is properly made in accordance with this section (including subsection (1)﻿(b) or (2)) but the application is still being considered by the Minister when the change of control takes effect:
+  (a) section 41AB(2) is not contravened while the application is being considered by the Minister; and
+  (b) if the Minister gives his or her consent, section 41AB(2) is not contravened; but
+  (c) if the Minister declines to give his or her consent, section 41AB(2) must be treated as being contravened from the date of the Minister’s decision.
+(4) For the purposes of subsection (1)﻿(c)﻿(ii), the shareholders or members of the corporate body that must be named are,—
+  (a) if the body has equity securities quoted on a stock exchange,—
+    (i) the shareholders or members who hold the 10 largest numbers of equity securities; or
+    (ii) if there is more than 1 class of equity securities, the persons holding the 10 largest numbers of equity securities in each class:
+  (b) in any other case, all of the shareholders or members.
+(5) In this section and sections 41AD and 41AE,—
+  - **director** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
+  - **equity security** has the same meaning as in section 8(2) of the Financial Markets Conduct Act 2013
+  - **relevant person** means a person referred to in section 41AA(1) who is proposed to obtain the power referred to in that subsection
+  - **stock exchange** has the same meaning as in section 2(1) of the Companies Act 1993.
+
+### 41AD Minister may require information or documents to be supplied
+(1) A permit participant, or a relevant person, must, if requested to do so, provide to the Minister information or documents relevant to the matters referred to in section 41AE(1).
+(2) Subsection (1) applies to a permit participant whether or not that participant is the permit operator.
+
+### 41AE When Minister may consent to change of control of permit operator
+(1) The Minister may consent to the change of control of a permit operator for the purposes of section 41AB only if the Minister is satisfied that—
+  (a) the permit holder, given the proposed change in control,—
+    (i) has the financial capability to meet its obligations under the permit; and
+    (ii) is likely to comply with, and give proper effect to, the work programme for the permit; and
+    (iii) is likely to comply with the relevant obligations under this Act or the regulations in respect of reporting and the payment of fees and royalties; and
+  (b) in the case of a Tier 1 permit for exploration or mining, the permit operator, after undergoing the change of control, has, or is likely to have by the time the relevant work in the permit is undertaken, the capability and systems that are likely to be required to meet the health and safety requirements of the Health and Safety at Work Act 2015 for the types of activities to be carried out under the permit.
+(2) Section 29A(3) and (4) applies for the purposes of subsection (1)﻿(b), with all necessary modifications.
+
+### 41AF Revocation of permit if change of control made without consent
+(1) This section applies if section 41AB(2) is contravened.
+(2) The Minister may serve on the permit holder written notice of his or her intention to revoke the permit. The notice must—
+  (a) refer to this section; and
+  (b) state, with reasons, that the Minister considers that section 41AB(2) has been contravened; and
+  (c) give the holder 40 working days after the date on which the notice is served to—
+    (i) show that section 41AB(2) has not been contravened; or
+    (ii) provide reasons why the permit should not be revoked (including showing why the Minister should be satisfied of the matters set out in section 41AE and why the contravention should be excused).
+(3) A notice under subsection (4) may be served on or after the date that is 40 working days after the date on which the notice under subsection (2) is served.
+(4) After considering any thing provided under subsection (2)﻿(c), the Minister may, by serving written notice on the permit holder, revoke the permit with effect on a date specified in the notice if the Minister is satisfied that—
+  (a) section 41AB(2) has been contravened; and
+  (b) the permit should be revoked.
+(5) The Minister may be satisfied under subsection (4)﻿(b) even if the Minister becomes satisfied of the matters set out in section 41AE (for example, the Minister may be satisfied that the permit should be revoked because there is no good reason to excuse the contravention of section 41AB(2)).
+(6) Section 39(5) to (7) applies to a revocation under this section, with all necessary modifications.
+
+### 41A Change of control of permit participants (other than operators of Tier 1 permits)
+(1)
 (2) A permit participant must notify the Minister in accordance with subsection (3) if—
-  (a) the permit participant is a corporate body and undergoes a change of control; or
-  (b) a corporate body that has provided a guarantee for the permit participant's obligations under the permit (guarantor) undergoes a change of control.
-(3) The notification must be given within 3 months of the change of control and be accompanied by—
+  (a) the permit participant—
+    (i) is a corporate body; and
+    (ii) knows, or ought reasonably to know, that it has undergone a change of control; or
+  (b) the permit participant knows, or ought reasonably to know, that a corporate body that has provided a guarantee for the permit participant’s obligations under the permit (a guarantor) has undergone a change of control.
+(2A) However, this section does not apply to a change of control of a permit participant who is a permit operator of a Tier 1 permit (see instead sections 41AB to 41AF).
+(3) The notification must be given within 3 months after the permit participant becomes aware, or ought reasonably to have become aware, of the matters referred to in subsection (2) and must be accompanied by—
   (a) a copy of any agreement or document that specifies the change of control; and
   (b) a statement from the permit participant that it has the financial capability to meet its obligations under the permit; and
   (c) in the case of a change of control of a guarantor, a statement from the guarantor that it has the financial capability to meet its obligations under the guarantee.
 (4) A statement for the purposes of subsection (3)﻿(b) or (c) must be signed,—
   (a) if the permit participant or guarantor is a company, on behalf of all the directors by at least 2 directors of the company or, if the company has only 1 director, by that director; or
   (b) if the permit participant or guarantor is not a company, by a person responsible for the management of the permit participant or guarantor.
-(5) If required to do so, a permit participant must provide to the Minister information or documents relevant to the financial capability of the person A concerned, which may be—
+(5) If required to do so, a permit participant must provide to the Minister information or documents relevant to the financial capability of the person A concerned (as referred to in section 41AA(1)), which may be—
   (a) general information about that person's financial capability; or
   (b) information specific to the matters referred to in subsection (3)﻿(b) and (c).
 (6) However, the permit participant must do so only if the Minister requests the information or documents no later than 3 months from the date on which the permit participant notifies the Minister of the change of control in accordance with this section.
-(7) The Minister may revoke the permit in accordance with the procedure set out in section 39 if the Minister—
-  (a) is not satisfied that, following the change of control, the permit holder has the financial capability to meet its obligations under the permit; and
-  (b) revokes the permit no later than 3 months from the date on which the permit participant notifies the change of control in accordance with this section.
-(8) In subsection (1)﻿(b), a specified person, in relation to person A, means—
-  (a) a person who is acting or will act jointly or in concert with person A in respect of exercising, or controlling the exercise of, the voting rights of the permit participant; or
-  (b) a person who acts, or is accustomed to acting, in accordance with the wishes of person A.
+(7) The Minister may revoke the permit in accordance with the procedure set out in section 39 if—
+  (a) subsection (2) is contravened; or
+  (b) the Minister is not satisfied that, following the change of control, the permit holder has the financial capability to meet its obligations under the permit.
+(8)
 
 ### 41B Dealings
 (1) A permit participant may enter into a dealing.
@@ -866,7 +962,7 @@ The Minister may—
     (ii) has advised the chief executive that it is so satisfied.
 
 ### 41D General provisions relating to transfers, dealings, and changes of permit operator
-(1) The Minister may grant consent under section 41, 41B, or 41C, subject to any conditions that the Minister thinks fit.
+(1) The Minister may grant consent under section 41, 41AE, 41B, or 41C, subject to any conditions that the Minister thinks fit.
 (2) All conditions of the Minister’s consent are, for the purposes of this Act, deemed to be conditions of the permit concerned.
 (3) If, as a result of the transfer of a participating interest in a permit, a person ceases to have an interest in the permit, that person ceases to have any rights or obligations under the permit except in respect of any contravention of the conditions of the permit that occurred before the date of transfer of the participating interest.
 (4) Subsection (3) is subject to—
@@ -878,7 +974,9 @@ It shall be a condition of every current mining permit that the Minister may at 
 
 ### 42A Authorisation of geophysical surveys on adjacent land
 (1) The Minister may, subject to such conditions as the Minister thinks fit to impose, grant written authorisation to a permit holder to carry out geophysical surveys on land adjacent to the land to which the permit relates if another permit is not in force in relation to that adjacent land.
-(2) Any authorisation granted under this section shall be subject to the provisions of this Act as if the authorisation were a prospecting permit.
+(2) An authorisation granted under this section—
+  (a) is subject to the provisions of this Act as if the authorisation were a permit of the same type as the permit held by the permit holder and referred to in subsection (1); but
+  (b) does not authorise any activity other than the carrying out of geophysical surveys.
 
 **Work programmes in respect of subsequent permits**
 
@@ -992,20 +1090,23 @@ Where a permit holder or other person authorised to enter on land under section 
   (b) determined by an arbitrator in accordance with this Act.
 (3) Subsection (2) does not apply if the permit relates to—
   (a) land in the continental shelf; or
-  (b) land in the common marine and coastal area, but if the permit relates to land described in Schedule 4, the permit holder may exercise the permit only—
-    (i) in respect of land that is not subject to a customary marine title order or agreement; and
-    (ii) in accordance with an access arrangement agreed in writing between the permit holder, the Minister, and the appropriate Minister in relation to an activity set out in section 61(1A)﻿(a) to (e).
+  (b) land in the common marine and coastal area.
 
 ### 54 Access to land for minerals other than petroleum
 (1) This section shall not apply to minimum impact activities.
-(2) The holder of a permit in respect of a mineral (other than petroleum) shall not prospect, explore, or mine in land to which his or her permit relates otherwise than in accordance with an access arrangement—
+(2) The holder of a permit in respect of a mineral (other than petroleum) shall not prospect, explore, or mine on or in land to which his or her permit relates otherwise than in accordance with an access arrangement—
   (a) agreed in writing between the permit holder and each owner and occupier of the land; or
   (b) determined by an arbitrator in accordance with this Act.
 (3) Subsection (2) does not apply if the permit relates to—
   (a) land in the continental shelf; or
-  (b) land in the common marine and coastal area, but if the permit relates to land described in Schedule 4, the permit holder may exercise the permit only—
-    (i) in respect of land that is not subject to a customary marine title order or agreement; and
-    (ii) in accordance with an access arrangement agreed in writing between the permit holder and the appropriate Minister in relation to an activity set out in section 61(1A)﻿(a) to (e).
+  (b) land in the common marine and coastal area.
+
+### 54A Access to Schedule 4 land in common marine and coastal area
+Despite sections 53 and 54, if a permit relates to land in the common marine and coastal area that is described in Schedule 4, the permit holder may exercise the permit only—
+  (a) in respect of land that is not subject to a customary marine title order or agreement; and
+  (b) in accordance with an access arrangement agreed in writing—
+    (i) between the permit holder, the Minister, and the appropriate Minister in relation to an activity set out in section 61(1A)﻿(a) to (e) (if the permit is in respect of petroleum):
+    (ii) between the permit holder and the appropriate Minister in relation to an activity set out in section 61(1A)﻿(a) to (e) (if the permit is in respect of a mineral other than petroleum).
 
 ### 55 Restrictions on determination of access arrangements by arbitrators
 (1) Subject to section 66, or to any agreement between each owner and occupier of the land and the person desiring access, an arbitrator shall not be entitled to determine an access arrangement in respect of prospecting or exploration for, or mining of, a mineral other than petroleum.
@@ -1023,7 +1124,7 @@ Where a permit holder or other person authorised to enter on land under section 
 Where an owner or occupier has entered into an access arrangement, the arrangement shall be binding on the owner or occupier and, subject to the requirements of section 83 having been met, on all successors in title to the owner and occupier.
 
 ### 57 Meaning of entry on land
-For the purposes of sections 53 and 54, prospecting, exploration, or mining carried out below the surface of any land shall not constitute prospecting, exploration, or mining on or in land if it—
+For the purposes of sections 53 to 54A, prospecting, exploration, or mining carried out below the surface of any land shall not constitute prospecting, exploration, or mining on or in land if it—
   (a) will not or is not likely to cause any damage to the surface of the land or any loss or damage to the owner or occupier of the land; or
   (b) will not or is not likely to have any prejudicial effect in respect of the use and enjoyment of the land by the owner or occupier of the land; or
   (c) will not or is not likely to have any prejudicial effect in respect of any possible future use of the surface of the land.
@@ -1032,7 +1133,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
 (1) If any dispute arises as to whether or not—a party to the dispute may apply to the District Court for that court to determine the matter.
   (a) any land is included in a class of land referred to in section 55; or
   (b) any activity is a minimum impact activity; or
-  (c) prospecting, exploration, or mining carried out below the surface of any land constitutes prospecting, exploration, or mining on or in land for the purposes of section 53 or section 54—
+  (c) prospecting, exploration, or mining carried out below the surface of any land constitutes prospecting, exploration, or mining on or in land for the purposes of any of sections 53 to 54A—
 (2) At least 10 days' notice in writing of any such application shall be given by the applicant to every other party to the dispute.
 (3) On the receipt of any such application, the Registrar of the District Court shall give notice of the time and place fixed for the hearing of the application to the applicant and every other party to the dispute.
 (4) The applicant and every other party to the dispute shall be entitled to be present and to be heard at the hearing of the application.
@@ -1062,11 +1163,11 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
 (2) In considering whether to agree to an access arrangement, an owner or occupier of land (other than Crown land) may have regard to such matters as he or she considers relevant.
 
 ### 61 Access arrangements in respect of Crown land and land in common marine and coastal area
-(1) The appropriate Minister may, by agreement with the permit holder concerned, enter into the following arrangements in respect of Crown land or, subject to sections 53(3) and 54(3), the common marine and coastal area:
+(1) The appropriate Minister may, by agreement with the permit holder concerned, enter into the following arrangements in respect of Crown land or, subject to section 54A, the common marine and coastal area:
   (a) an initial access arrangement in relation to a Tier 2 permit:
   (b) a variation to an existing access arrangement in relation to a Tier 2 permit:
   (c) a variation to an existing access arrangement in relation to a Tier 1 permit, except if the variation is to allow access for the purpose of significant exploration or mining activities.
-(1AA) The Minister and the appropriate Minister may, by agreement with the permit holder concerned, enter into the following arrangements in respect of Crown land or, subject to sections 53(3) and 54(3), the common marine and coastal area:
+(1AA) The Minister and the appropriate Minister may, by agreement with the permit holder concerned, enter into the following arrangements in respect of Crown land or, subject to section 54A, the common marine and coastal area:
   (a) an initial access arrangement in relation to a Tier 1 permit:
   (b) a variation to an existing access arrangement in relation to a Tier 1 permit if the variation is to allow access for the purpose of significant exploration or mining activities.
 (1AAB) The appropriate Minister must determine whether or not activities are significant exploration or mining activities for the purposes of this section and, in doing so, must have regard to—
@@ -1074,7 +1175,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
   (b) the effects the activities are likely to have on other activities on the land; and
   (c) the activities' net impact on the land, either while the activities are taking place or after their completion; and
   (d) any other matters that the appropriate Minister considers relevant to achieving the purpose of this Act.
-(1A) The Minister of Conservation or the Minister and the Minister of Conservation, as the case may be, must not accept any application for an access arrangement, or variation to an access arrangement, or enter into any access arrangement, or variation to an access arrangement, relating to any Crown owned mineral in any Crown owned land or internal waters or land of the common marine and coastal area described in Schedule 4, except in relation to any activities as follows:
+(1A) The appropriate Minister (in the case of subsection (1)) or the Minister and the appropriate Minister (in the case of subsection (1AA)) must not accept any application for an access arrangement, or variation to an access arrangement, or enter into any access arrangement, or variation to an access arrangement, relating to any Crown owned mineral in any Crown owned land or internal waters or land of the common marine and coastal area described in Schedule 4, except in relation to any activities as follows:
   (a) that are necessary for the construction, use, maintenance, or rehabilitation, of an emergency exit or service shaft for an underground mining operation, where these cannot safely be located elsewhere, provided that it does not result in—
     (i) any complete stripping of vegetation over an area exceeding 100 square metres; or
     (ii) any permanent adverse impact on the profile or surface of the land which is not a necessary part of any such activity:
@@ -1084,14 +1185,14 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
   (c) a minimum impact activity:
   (d) gold fossicking carried out in an area designated as a gold fossicking area under section 98 or 98A:
   (e) any special purpose mining activity carried out in accordance with a mining permit.
-(2) In considering whether to agree to an access arrangement, or variation to an access arrangement, in respect of Crown land, the appropriate Minister, or the Minister and the appropriate Minister, as the case may be, shall have regard to—
+(2) In considering whether to agree to an access arrangement, or variation to an access arrangement, in respect of Crown land, the appropriate Minister (in the case of subsection (1)) or the Minister and the appropriate Minister (in the case of subsection (1AA)) shall have regard to—
   (a) the objectives of any Act under which the land is administered; and
   (b) any purpose for which the land is held by the Crown; and
   (c) any policy statement or management plan of the Crown in relation to the land; and
   (d) the safeguards against any potential adverse effects of carrying out the proposed programme of work; and
   (da) the direct net economic and other benefits of the proposed activity in relation to which the access arrangement is sought; and
   (db) if section 61C(3) applies, the recommendation of the Director-General of Conservation and summary referred to in that subsection; and
-  (e) such other matters as the appropriate Minister considers, or the Minister and the appropriate Minister, as the case may be, consider relevant.
+  (e) any other matters that that Minister or those Ministers consider relevant.
 (3) Where a permit holder has secured the right, under the Resource Management Act 1991, to exclusive occupation of Crown land in the coastal marine area (as defined in section 2(1) of that Act), it shall not be necessary for the permit holder to enter into an access arrangement in respect of that land.
 (4) Subject to subsections (6) to (9), the Governor-General may from time to time, by Order in Council made on the recommendation of the Minister and the Minister of Conservation, amend Schedule 4.
 (5) Before making any recommendation for the purposes of subsection (4), the Minister and the Minister of Conservation must consult to the extent that is reasonably practicable, having regard to all the circumstances of the particular case, those persons the Ministers have reason to believe are representative of interests likely to be substantially affected by the Order in Council or representative of some aspect of the public interest.
@@ -1106,7 +1207,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
   (d) Korapuki Island,—
 (9) No Order in Council may be made under subsection (4) that results in land within a category of land described in clauses 1 to 8 of Schedule 4 of this Act being excluded from that schedule.
 (10) To avoid doubt, subsection (9) does not limit or affect—
-  (a) any provision of any other enactment that has the effect of excluding land from clauses 1 to 8 of Schedule 4; or
+  (a) any provision of any other enactment that has the effect of excluding land from clauses 1 to 8 of Schedule 4 ; or
   (b) any action taken under a provision of any other enactment that has the effect of excluding land from clauses 1 to 8 of Schedule 4.
 
 ### 61A Access to Crown land where mineral not property of the Crown
@@ -1625,6 +1726,10 @@ Every permit holder must—
   (b) section 49(5), which relates to entering land and carrying out an activity other than minimum impact activity:
   (c) section 77, which relates to contravening the conditions of a right of access:
   (d) section 94, which relates to persons administering this Act holding a pecuniary interest in a mining permit.
+(2A) Every person commits an offence against this Act who contravenes, or permits a contravention of,—
+  (a) section 41AB(2) (which relates to obtaining prior consent for a change of control of a permit operator of a Tier 1 permit) if, before the power referred to in section 41AA(1) is obtained, the person knows, or ought reasonably to know, that the person will obtain the power; or
+  (b) section 41AB(4) (which relates to notifying the Minister of a change of control of a permit operator of a Tier 1 permit); or
+  (c) section 41A(2) (which relates to notifying the Minister of a change of control of certain permit participants).
 (3) Every person commits an offence against this Act who wilfully obstructs, hinders, resists, or deceives any person in the execution of any powers conferred on that person by or under this Act.
 (3A) Every person commits an offence against this Act who knowingly provides altered, false, incomplete, or misleading information (including royalty returns) to the chief executive or any other person in respect of a matter or thing under this Act or the regulations.
 (4) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against subsection (1) ends on the date that is 12 months after the date on which the contravention giving rise to the charge first became known, or should have become known, to the Secretary.
@@ -1632,6 +1737,10 @@ Every permit holder must—
 ### 101 Penalties
 (1) Every person who commits an offence against section 100(1) is liable on conviction to imprisonment for a term not exceeding 2 years or a fine not exceeding $400,000, and, if the offence is a continuing one, to a further fine not exceeding $20,000 for every day or part of a day during which the offence continues.
 (2) Every person who commits an offence against section 100(2) is liable on conviction to a fine not exceeding $20,000, and, if the offence is a continuing one, to a further fine not exceeding $2,000 for every day or part of a day during which the offence continues.
+(2A) Every person who commits an offence against section 100(2A) is liable on conviction to the following:
+  (a) in the case of section 100(2A)﻿(a), a fine not exceeding $800,000:
+  (b) in the case of section 100(2A)﻿(b), a fine not exceeding $200,000:
+  (c) in the case of section 100(2A)﻿(c), a fine not exceeding $50,000.
 (3) Every person who commits an offence against section 100(3) is liable on conviction to a fine not exceeding $3,000.
 (3A) Every person who commits an offence against section 100(3A) is liable on conviction to a fine not exceeding $800,000.
 (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
@@ -1951,7 +2060,11 @@ In Part 1 of this schedule,—
 (7) The Governor-General may by Order in Council issue a minerals programme that comes into force on the same date as the Amendment Act commences, and any such minerals programme must be treated for all purposes as if it were issued under new section 19(1) and all the requirements of that section had been satisfied.
 
 ### 4 Provisions about royalties
-(1) Despite anything in clause 3, new section 105A, or regulations made under new section 105A, any royalties to be calculated under a permit or a subsequent permit that is granted in exchange for an existing permit must continue to be calculated in accordance with the minerals programme that applied when the existing permit (or, if the existing permit is a subsequent permit, the initial permit to that subsequent permit) was granted.
+(1) Despite anything in clause 3, new section 105A, or regulations made under new section 105A, any royalties to be calculated under a permit or a subsequent permit that is granted in exchange for an existing permit must continue to be calculated in accordance with—
+  (a) the minerals programme that applied when the existing permit (or, if the existing permit is a subsequent permit, the initial permit to that subsequent permit) was granted; or
+  (b) the minerals programme for minerals (excluding petroleum) that came into force on 1 February 2008 if the permit holder opted into that programme in accordance with clause 1.7(2) of that minerals programme and old section 22(1)﻿(a).
+(1A) Subclause (1) applies on and after 24 May 2013 (the date on which this schedule was replaced by the Amendment Act).
+(1B) The chief executive, on application by a permit holder who opted in as referred to in subclause (1)﻿(b), may refund an overpaid royalty, or reduce a royalty amount payable, for a reporting period that applied (in whole or in part) on or after 24 May 2013 until the commencement of this subclause (so that the royalty that is paid or payable is consistent with subclause (1)﻿(b)).
 (2) Despite subclause (1), the period in relation to which the royalty calculations are made must be that specified in the current regulations made under new section 105A.
 (3) Subclause (1) applies even if the minerals programme that applied when the existing permit was granted is replaced.
 (4) However, if an existing permit is changed to cover a different mineral, royalties in respect of that mineral must be calculated in accordance with regulations made under new section 105A as those regulations apply when the change to the permit takes effect.
@@ -2016,6 +2129,7 @@ This subpart applies to existing privileges in replacement of all provisions con
   (e) the Environment Court and any other body having any function, power, or duty connected with the determination of any dispute under the Act which applied to the privilege before that date continued to have those functions, powers, and duties; and
   (f) all persons continue to have the same rights to compensation, to make objections, and to appeal as they would have had if the principal Act had not been enacted.
 (2) Despite subclause (1), sections 63 and 64 of the Petroleum Act 1937 do not apply in respect of any pipeline to which an authorisation granted under Part 2 of that Act relates.
+(2A) Despite subclause (1), the prohibition in section 240A of the Mining Act 1971 on a Minister delegating a power conferred by section 145 of that Act no longer applies to an existing privilege.
 (3) Despite subclause (1), if, after the commencement of the Amendment Act, a holder of an existing privilege makes an application to which section 77 of the Mining Act 1971 or section 48 of the Coal Mines Act 1979 would apply, then—
   (a) the Act does not apply in respect of the application; and
   (b) the principal Act as amended by the Amendment Act applies instead in respect of the application as if the existing privilege were a prospecting permit, exploration permit, or mining permit, as the case may be.
@@ -2166,6 +2280,19 @@ The proceedings in the High Court between Greymouth Gas Turangi Limited and the 
 
 ### 29 Changes to minerals programme
 Nothing in sections 17 and 18 applies to a change to a minerals programme if the change inserts information into the programme to explain the effect of the amendments made to this Act by the Amendment Act.
+
+### Part 3 — Provisions relating to Crown Minerals Amendment Act 2019
+
+### 30 Consequential amendments to minerals programme
+Nothing in section 17 or 18 of this Act applies to any change to a minerals programme if the change that is made is consequential to the amendments made to this Act by the Crown Minerals Amendment Act 2019 (including any change to remove inconsistencies between the minerals programme and this Act as amended).
+
+### 31 Existing transactions not affected
+(1) The amendments made by sections 7 to 10, 18, and 19 of the Crown Minerals Amendment Act 2019 (to the extent that they relate to transactions) apply only to transactions entered into on or after commencement (and this Act, as in force immediately before commencement, continues to apply to a transaction entered into before commencement as if the Crown Minerals Amendment Act 2019 had not been enacted).
+(2) In this clause, a transaction must be treated as being entered into before commencement even if, immediately before commencement, the transaction is subject to a condition precedent.
+(3) In this clause,—
+  - **change of control** means a change of control (within the meaning of section 41A(1) and (8) of this Act (as in force immediately before commencement)
+  - **commencement** means the commencement of the Crown Minerals Amendment Act 2019
+  - **transaction** means a contract or an arrangement that has or will have the effect of a corporate body undergoing a change of control.
 
 ## Schedule 2 — Regulations revoked
 
