@@ -951,7 +951,7 @@ Replace section 138 with:Registrar to comply with directions of Board
 
 ### 135 Section 140 amended (Notice of restrictions or conditions imposed on registration or practising certificate)
 (1) In the heading to section 140, delete restrictions or.
-(2) In section 140, delete restrictions or.
+(2) In section 140, delete restriction or.
 
 ### 136 Section 140 replaced (Notice of conditions imposed on registration or practising certificate)
 Replace section 140 with:Notice of conditions in individual scope of practice
