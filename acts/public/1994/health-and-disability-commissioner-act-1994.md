@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2019-02-28_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—ato secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbto provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner’s functions and powers; andcto provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddto provide for the promulgation of a Code of Health and Disability Services Consumers’ Rights; andeto provide for matters incidental thereto
 
@@ -44,8 +44,8 @@ _Consolidation as at 2018-02-21_
     (b) includes—
       (i) a former health practitioner within the meaning of that section; and
       (ii) a person who was conditionally or unconditionally registered, or has held a certificate of registration, under a former health registration enactment; and
-      (iii) a person who is receiving training or gaining experience under the supervision of a health practitioner
-      (iii) a registered social worker within the meaning of the Social Workers Registration Act 2003
+      (iii) a person who is receiving training or gaining experience under the supervision of a health practitioner; and
+      (iv) a social worker within the meaning of the Social Workers Registration Act 2003
   - **health services** —
     (a) means—
       (i) services to promote health:
