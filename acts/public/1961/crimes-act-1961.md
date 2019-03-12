@@ -1,12 +1,12 @@
 # Crimes Act 1961
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2019-03-12_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
 ### 1 Short Title, commencement, etc
 (1) This Act may be cited as the Crimes Act 1961.
 (2) This Act shall come into force on 1 January 1962.
-(3) This Act is divided into Parts, as follows:Part 1—Jurisdiction (sections 5 to 12)Part 2—Punishments (sections 13 to 19)Part 3—Matters of justification or excuse (sections 20 to 65)Part 4—Parties to the commission of offences (sections 66 to 72)Part 5—Crimes against public order (sections 73 to 98F)Part 6—Crimes affecting the administration of law and justice (sections 99 to 122)Part 7—Crimes against religion, morality, and public welfare (sections 123 to 150)Part 8—Crimes against the person (sections 150A to 210A)Part 9—Crimes against reputation (sections 211 to 216)Part 9A—Crimes against personal privacy (sections 216A to 216N)Part 10—Crimes against rights of property (sections 217 to 305)Part 11—Threatening, conspiring, and attempting to commit offences (sections 306 to 312)Part 12—Procedure (sections 313 to 378F)Part 13—Appeals (sections 379 to 399)Part 14—Miscellaneous provisions (sections 400 to 415)
+(3) This Act is divided into Parts, as follows:Part 1—Jurisdiction (sections 5 to 12)Part 2—Punishments (sections 13 to 19)Part 3—Matters of justification or excuse (sections 20 to 65)Part 4—Parties to the commission of offences (sections 66 to 72)Part 5—Crimes against public order (sections 73 to 98F)Part 6—Crimes affecting the administration of law and justice (sections 99 to 122)Part 7—Crimes against morality and decency, sexual crimes, and crimes against public welfare (sections 124 to 150)Part 8—Crimes against the person (sections 150A to 210A)Part 9—Crimes against reputation (sections 211 to 216)Part 9A—Crimes against personal privacy (sections 216A to 216N)Part 10—Crimes against rights of property (sections 217 to 305)Part 11—Threatening, conspiring, and attempting to commit offences (sections 306 to 312)Part 12—Procedure (sections 313 to 378F)Part 13—Appeals (sections 379 to 399)Part 14—Miscellaneous provisions (sections 400 to 415)
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -86,6 +86,9 @@ For the purposes of this Act, a person shall be deemed to be ordinarily resident
   (a) his or her home is in New Zealand; or
   (b) he or she is residing in New Zealand with the intention of residing therein indefinitely; or
   (c) having resided in New Zealand with the intention of establishing his or her home therein, or with the intention of residing in New Zealand indefinitely, he or she is outside New Zealand but has an intention to return to establish his or her home therein or to reside in New Zealand indefinitely.
+
+### 4A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 1 — Jurisdiction
 
@@ -521,7 +524,7 @@ A person is capable of conspiring with his or her spouse or civil union partner 
 
 ### 71 Accessory after the fact
 (1) An accessory after the fact to an offence is one who, knowing any person to have been a party to the offence, receives, comforts, or assists that person or tampers with or actively suppresses any evidence against him or her, in order to enable him or her to escape after arrest or to avoid arrest or conviction.
-(2) No person whose spouse or civil union partner has been a party to an offence becomes an accessory after the fact to that offence by doing any act to which this section applies in order to enable the spouse or civil union partner, or the spouse, civil union partner, and any other person who has been a party to the offence, to escape after arrest or to avoid arrest or conviction.
+(2)
 
 ### 72 Attempts
 (1) Every one who, having an intent to commit an offence, does or omits an act for the purpose of accomplishing his or her object, is guilty of an attempt to commit the offence intended, whether in the circumstances it was possible to commit the offence or not.
@@ -1136,15 +1139,12 @@ Every one is liable to imprisonment for a term not exceeding 5 years who—
   (a) rescues any person who is ordered to be detained as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 while that person is being taken to or from a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, or any other place; or
   (b) being a constable, an officer of a prison, a security officer within the meaning of section 3(1) of the Corrections Act 2004, or an officer of or employee in any hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and who has in his or her custody any person lawfully detained as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, voluntarily and intentionally permits that person to escape from custody, whether while the person is being taken to or from any of the places specified in paragraph (a) or otherwise.
 
-## Part 7 — Crimes against religion, morality, and public welfare
+## Part 7 — Crimes against morality and decency, sexual crimes, and crimes against public welfare
 
 **Crime against religion**
 
 ### 123 Blasphemous libel
-(1) Every one is liable to imprisonment for a term not exceeding 1 year who publishes any blasphemous libel.
-(2) Whether any particular published matter is or is not a blasphemous libel is a question of fact.
-(3) It is not an offence against this section to express in good faith and in decent language, or to attempt to establish by arguments used in good faith and conveyed in decent language, any opinion whatever on any religious subject.
-(4) No one shall be prosecuted for an offence against this section without the leave of the Attorney-General, who before giving leave may make such inquiries as he or she thinks fit.
+[Repealed]
 
 **Crimes against morality and decency**
 
@@ -1523,10 +1523,7 @@ Homicide is the killing of a human being by another, directly or indirectly, by 
 [Repealed]
 
 ### 162 Death must be within a year and a day
-(1) No one is criminally responsible for the killing of another unless the death takes place within a year and a day after the cause of death.
-(2) The period of a year and a day shall be reckoned inclusive of the day on which the last unlawful act contributing to the cause of death took place.
-(3) Where the cause of death is an omission to fulfil a legal duty, the period shall be reckoned inclusive of the day on which such omission ceased.
-(4) Where death is in part caused by an unlawful act and in part by an omission, the period shall be reckoned inclusive of the day on which the last unlawful act took place or the omission ceased, whichever happened last.
+[Repealed]
 
 ### 163 Killing by influence on the mind
 No one is criminally responsible for the killing of another by any influence on the mind alone, except by wilfully frightening a child under the age of 16 years or a sick person, nor for the killing of another by any disorder or disease arising from such influence, except by wilfully frightening any such child as aforesaid or a sick person.
@@ -2159,14 +2156,17 @@ In this Part, unless the context otherwise requires,—
 (3) This section applies whether or not the person was required to deliver over the identical property received or in the person's possession or control.
 (4) For the purposes of subsection (1), it is a question of law whether the circumstances required any person to account or to act in accordance with any requirements.
 
-### 221 Theft of animals
+### 220A Theft of livestock and other animals
+A person commits theft and is liable to imprisonment for a term not exceeding 7 years if they steal any livestock or any other animal that is the property of any other person.
+
+### 221 Theft of parts of killed animals
 Every one commits theft if he or she kills any animal that is the property of any other person with intent to steal the carcass, skin, or plumage, or any other part, of the animal.
 
 ### 222 Theft by spouse or partner
 A person may be convicted of theft of another person's property even though those persons were married to, or in a civil union or a de facto relationship with, each other at the time of the theft.
 
 ### 223 Punishment of theft
-Every one who commits theft is liable as follows:
+Every one who commits theft (except under section 220A) is liable as follows:
   (a) in the case of any offence against section 220, to imprisonment for a term not exceeding 7 years; or
   (b) if the value of the property stolen exceeds $1,000, to imprisonment for a term not exceeding 7 years; or
   (c) if the value of the property stolen exceeds $500 but does not exceed $1,000, to imprisonment for a term not exceeding 1 year; or
@@ -2229,6 +2229,16 @@ Every person is liable to imprisonment for a term not exceeding 3 years who, wit
 (3) For the purposes of this section and section 232,—
   (a) entrance into a building or ship is made as soon as any part of the body of the person making the entrance, or any part of any instrument used by that person, is within the building or ship; and
   (b) every one who gains entrance to a building or ship by any threat or artifice used for that purpose is to be treated as having entered without authority.
+
+### 231A Entry onto agricultural land with intent to commit imprisonable offence
+(1) A person commits an offence and is liable to imprisonment for a term not exceeding 10 years if they enter onto any land used for agricultural purposes, without authority and with intent to commit an imprisonable offence relating to any building or structure, livestock, animal, or machinery on that land.
+(2) For the purpose of this section,—
+  (a) entry onto land occurs as soon as any part of the body of the person entering onto the land, or any part of any instrument used by that person, is within the boundaries of the land; and
+  (b) everyone who gains entry onto land by any threat or artifice used for that purpose is to be treated as having entered without authority.
+(3) Sections 232 and 233 apply to this section with any necessary modifications.
+(4) For the purpose of this section,—
+  - **agricultural purposes** includes (without limitation) the farming of livestock or crops, horticulture (including growing fruit, berries, or vegetables), viticulture, bee-keeping, and forest cultivation
+  - **land** does not include a building within the meaning given in section 231.
 
 ### 232 Aggravated burglary
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who,—
@@ -3358,6 +3368,18 @@ Section 414 applies if—
 
 ### 415 Inconsistency with other enactment or rule of law
 If sections 413 and 414 are inconsistent with any other enactment or rule of law, sections 413 and 414 prevail over that enactment or rule of law.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Crimes Amendment Act 2019
+
+### 1 Immunity for spouses and civil union partners from prosecution as accessory after the fact
+(1) For the purpose of this clause, repeal date means the date on which the Crimes Amendment Act 2019 comes into force.
+(2) The immunity in section 71(2) continues to apply on and after the repeal date if an act to which section 71(1) would otherwise apply was done before the repeal date.
+
+### 2 Limitation on prosecution for killing person if period between cause of death and death is more than a year and a day
+(1) For the purpose of this clause, repeal date means the date on which the Crimes Amendment Act 2019 comes into force.
+(2) The limitation on prosecution in section 162 continues to apply on and after the repeal date if an act to which section 162 applies is done, or an omission to which section 162 applies occurs, before the repeal date (irrespective of when the resulting death occurs).
 
 ## Schedule 1 — Carrying out of sentence of death
 
