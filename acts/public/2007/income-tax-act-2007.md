@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-03-17_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -5777,6 +5777,12 @@ Meaning of minister of religion
 
 ### CZ 34 Income arising from tax accounting provision for aircraft engine overhauls
 Income arising for a person under section DZ 23(2)﻿(b) (Aircraft maintenance: tax accounting provisions for expenditure incurred after 2016–17 income year) is income of the person.
+
+### CZ 35 Amounts derived by Te Kōwhatu Tū Moana
+Exempt income
+(1) Income derived by Te Kōwhatu Tū Moana (the trust) is exempt income of the trustees and beneficiaries of the trust if it is derived by the trust in the 6-month period starting on 17 March 2019.
+Meaning
+(2) In this section, Te Kōwhatu Tū Moana has the meaning given in section 4 of the New Plymouth District Council (Waitara Lands) Act 2018.
 
 ## Part D — Deductions
 
