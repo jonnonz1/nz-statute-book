@@ -1,5 +1,5 @@
 # Te Atiawa Claims Settlement Act 2016
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2019-03-17_
 
 ### 1 Title
 This Act is the Te Atiawa Claims Settlement Act 2016.
@@ -1278,22 +1278,7 @@ This subpart does not limit the ability of the Crown, or a Crown body, to sell o
 ### Subpart 3 — Waitara endowment land
 
 ### 117 Waitara endowment land
-(1) This section applies to any Waitara endowment land transferred under any agreement that—
-  (a) is entered into by the trustees and the Council; and
-  (b) includes a statement to the effect that this section applies to the transfer of Waitara endowment land under the agreement.
-(2) Sections 140 and 141 of the Local Government Act 2002 (which relate to the disposal of endowment land) do not apply.
-(3) The reservation of any land as a reserve subject to the Reserves Act 1977 is revoked and sections 24 and 25 of that Act (which relate to the revocation of reserves) do not apply to the revocation.
-(4) Immediately before registration of the transfer of the land from the Council to the trustees,—
-  (a) the Waitara Borough Reserves Vesting Act 1909 ceases to apply to the land; and
-  (b) the Waitara Harbour Act 1940 ceases to apply to the land and to any proceeds from the sale of the land.
-(5) The transfer instrument must include a statement that the land is no longer subject to the Acts referred to in subsection (4).
-(6) The Registrar-General must, upon registration of the transfer, remove from the computer freehold register for the land any memorial stating that the land is subject to an Act referred to in subsection (4).
-(7) This section is repealed on the same day that the Waitara Harbour Act 1940 and the Waitara Borough Reserves Vesting Act 1909 are repealed.
-(8) In this section,—
-  - **Council** means the New Plymouth District Council
-  - **Waitara endowment land** means the fee simple estate in any land that is vested in the Council by—
-    (a) the Waitara Harbour Act 1940:
-    (b) the Waitara Borough Reserves Vesting Act 1909.
+[Repealed]
 
 ## Part 4 — Governance reorganisation and taxation provisions
 
