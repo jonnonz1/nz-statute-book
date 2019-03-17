@@ -1,5 +1,5 @@
 # Local Legislation Act 1952
-_Consolidation as at 2003-07-01_
+_Consolidation as at 2019-03-17_
 
 > An Act to confer certain powers on certain public bodies and to validate certain transactions.
 
@@ -177,8 +177,7 @@ Whereas doubt exists as to whether certain streets in the Town District of Johns
 **Harbour Board**
 
 ### 36 Section 7 of Waitara Harbour Act 1940 repealed
-(1) Section 7 of the Waitara Harbour Act 1940 is hereby repealed and the lands thereby vested in the New Plymouth Harbour Board are hereby declared to be reverted to Her Majesty the Queen.
-(2) The District Land Registrar of the Land Registration District of Taranaki is hereby authorised and directed to make such entries in the register books and to do all such other things as may be necessary to give effect to the provisions of this section.
+[Repealed]
 
 **Electric Power Board**
 
