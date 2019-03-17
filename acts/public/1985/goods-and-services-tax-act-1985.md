@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-03-17_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -2737,6 +2737,10 @@ Where—the supplier may increase the consideration for the supply by an amount 
 (2) For the purpose of calculating the amount of tax payable, or input tax deductible, on or after 31 December 2012 by KiwiRail Holdings Limited in respect of, or in relation to, a Railways asset or a Railways liability, KiwiRail Holdings Limited and New Zealand Railways Corporation are treated as if they were the same person in respect of the period up to and including 31 December 2012, subject to subsection (1).
 (3) If it is necessary for a tax invoice, a credit note, or a debit note (the document) to be issued by or to New Zealand Railways Corporation in respect of a supply made by or to New Zealand Railways Corporation on or before 31 December 2012, the document may be issued by or to KiwiRail Holdings Limited if the supply was in respect of or in relation to Railways assets and liabilities. New Zealand Railways Corporation and KiwiRail Holdings Limited are treated as if, in relation to that supply, they were the same person for the purposes of any requirement that New Zealand Railways Corporation holds, has previously been issued with, or has issued to a person, a tax invoice, a debit note, or a credit note for the supply.
 (4) If a document purporting to be a tax invoice, a credit note, or a debit note (the issued document) is issued by or to New Zealand Railways Corporation in respect of a supply that is made by or to KiwiRail Holdings Limited on or after 31 December 2012, the issued document is treated as if it is a tax invoice, a credit note, or a debit note, as appropriate, that is issued by or to KiwiRail Holdings Limited, if the supply is in respect of or in relation to Railways assets and liabilities.
+
+### 78H Land in Waitara vested in Te Kōwhatu Tū Moana to be zero-rated
+(1) On the day on which land in Waitara vests in Te Kōwhatu Tū Moana under subpart 2 of Part 2 of the New Plymouth District Council (Waitara Lands) Act 2018, the vesting is treated as being a taxable supply that is charged with tax at the rate of 0%.
+(2) In this section, Te Kōwhatu Tū Moana has the meaning given in section 4 of the New Plymouth District Council (Waitara Lands) Act 2018.
 
 ### 79 Disclosure of information
 (1) No obligation as to secrecy or other restriction upon the disclosure of information imposed by any enactment or otherwise shall prevent either—from disclosing to each other information obtained for revenue-gathering purposes and which is required to be disclosed by the persons authorised by this subsection for the same purpose to give effect to the provisions of this Act.
