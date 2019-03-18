@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2019-03-18_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018.
@@ -67,10 +67,14 @@ In section BF 1, in the list of defined terms, delete withdrawal tax.
   (f) in subsection (4), replace 2 years with 5 years:
   (g) in the heading to subsection (4B), replace 2-year with 5-year.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 7 Section CB 16A amended (Main home exclusion for disposal within 2 years)
 (1) In section CB 16A, in the heading, replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 8 Section CB 32C amended (Dividend income for first year of look-through company)
 (1) Replace section CB 32C(5)﻿(b) with:
@@ -440,12 +444,16 @@ In section CZ 9(1)﻿(a), replace those provisions were repealed with that provi
   (a) in the heading, replace 2 years with 5 years:
   (b) in subsection (1), replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 46 Section DB 18AB amended (Deduction cap: disposal of residential land within 2 years to associated persons)
 (1) In section DB 18AB,—
   (a) in the heading, replace 2 years with 5 years:
   (b) in subsection (1)﻿(a), replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 47 New section DB 23B inserted (Revenue account property: certain intra-group transactions)
 (1) After section DB 23, insert:Revenue account property: certain intra-group transactionsWhen this section appliesNo deduction for expenditure incurredNo deduction for closing value Link with subpart DAamalgamation, amount, arrangement, cancellation, company, consolidated group, deduction, excepted financial arrangement, excluded income, general permission, income, income year, liquidation, revenue account property
@@ -777,6 +785,8 @@ In section EX 73, in the list of defined terms, delete non-attributing active FI
 ### 93 Section FB 3A amended (Residential land)
 (1) In section FB 3A(1), replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 94 Section FC 2 amended (Transfer at market value)
 In section FC 2(3), after Sections, insert ED 2B (Transfers to shareholders by ASX-listed Australian company of shares in subsidiary) and.
@@ -784,6 +794,8 @@ In section FC 2(3), after Sections, insert ED 2B (Transfers to shareholders by A
 ### 95 Section FC 9 amended (Residential land transferred to executor, administrator, or beneficiary on death of person)
 (1) In section FC 9(2), replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 96 Section FC 10 amended (Transfers from person to Official Assignee under Insolvency Act 2006)
 After section FC 10(6), insert:
@@ -830,6 +842,8 @@ In section FN 4(2)﻿(a), replace are part of with are part of or would be part 
 ### 107 Section FO 10 amended (When property passes on resident’s restricted amalgamation)
 (1) In section FO 10(6), replace 2-year with 5-year.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 108 Section FO 17 amended (Land)
 (1) In section FO 17,—
@@ -837,6 +851,8 @@ In section FN 4(2)﻿(a), replace are part of with are part of or would be part 
   (b) in the heading to subsection (3), replace 2-year with 5-year:
   (c) in subsection (3), replace 2-year with 5-year in each place where it appears.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 109 New cross-heading and section GB 49B inserted
 After section GB 49, insert:Arrangements involving employee share schemesEmployee share schemesWhen this section appliesReconstructionarrangement, Commissioner, employee share scheme, share, share scheme taxing date
@@ -846,10 +862,14 @@ After section GB 49, insert:Arrangements involving employee share schemesEmploye
 ### 110 Section GB 52 amended (Arrangements involving residential land: companies’ shares)
 (1) In section GB 52(1)﻿(a), replace in sections CB 6A(1)﻿(a) or (b) (Disposal within 2 years: bright-line test for residential land) is within 2 years with in section CB 6A(1)﻿(a) or (b) (Disposal within 5 years: bright-line test for residential land) is within 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 111 Section GB 53 amended (Arrangements involving residential land: trusts)
 (1) In section GB 53 (1)﻿(c), replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 112 Section HA 19 amended (Credit accounts and dividend statements)
 In section HA 19(3)﻿(a), replace section 67(1) with section 25G.
@@ -1161,7 +1181,7 @@ In section LD 3(2)﻿(ac), replace entity, if the gift is made in a tax year tha
 
 ### 158 Section LD 4 amended (Tax credits for payroll donations)
 (1) In section LD 4(1)﻿(a)﻿(i) replace files by electronic means an employer monthly schedule and a PAYE income payment form with provides employment income information by electronic means.
-(2) In section LD 4(7) replace 24Q with 15ZB.
+(2)
 (3) In section LD 4, in the list of defined terms,—
   (a) insert employment income information:
   (b) delete employer monthly schedule and PAYE income payment form.
@@ -1375,9 +1395,7 @@ In section RC 19(2)﻿(a), replace of that Act with of the Goods and Services Ta
 (2) Subsection (1) applies for the 2018–19 and later income years.
 
 ### 186 Section RD 2 amended (PAYE rules and their application)
-(1) In section RD 2(1)﻿(e), replace sections 15C to 15M with sections 15C to 15F, 15J to 15L.
-(2) Replace section RD 2(1)﻿(e) with:
-  (e) sections 15C to 15F, 15J to 15L, 22AA, subparts 3C and 3D, section 133, Part 9, sections 167 to 169, and schedules 4 and 5 of the Tax Administration Act 1994.
+[Repealed]
 
 ### 187 Section RD 3B amended (Shareholders who are employees, for some companies: income other than PAYE)
 (1) In section RD 3B(1), replace if with if the person elects to apply this section and.
@@ -1612,9 +1630,7 @@ In section RD 51(1)﻿(a), replace income to which section RD 3(2) or (4) applie
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 215 Section RD 64 amended (ESCT rules and their application)
-(1) In section RD 64(1)﻿(c), replace sections 15C to 15M with sections 15C to 15F, 15J to 15L.
-(2) Replace section RD 64(1)﻿(c) with:
-  (c) sections 15C to 15F, 15J to 15L, 22AA, subparts 3C and 3D, section 47, Part 9, and schedules 4 and 5 of the Tax Administration Act 1994.
+[Repealed]
 
 ### 216 Section RD 65 amended (Employer’s superannuation cash contributions)
 In section RD 65(3), replace section RD 22(3) with RD 4(2).
@@ -1735,6 +1751,8 @@ In section RF 2B(1), replace sections RF 2C, and with sections RF 2C and.
 ### 231 Section RL 1 amended (Residential land withholding tax)
 (1) In section RL 1(2)﻿(a), replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 232 Section RL 4 amended (How much RLWT?)
 (1) In section RL 4(8)﻿(b), replace NBDT, as defined in section 4 of the Non-bank Deposit Takers Act 2013 with non-bank deposit taker.
@@ -1783,7 +1801,7 @@ Replace section RP 8 with:Information for PAYE intermediariesemployer, PAYE inte
   An employer must provide the information sought by a PAYE intermediary within the time agreed by the employer and intermediary.
 
 ### 240 Section RP 14 amended (Collection, payment, and information requirements)
-(1) In section RP 14(ab), replace section 24Q with section 15ZB.
+(1)
 (2) Replace section RP 14(b) with:
   (b) provide the relevant employment income information to the Commissioner under subpart 3C of that Act in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
 (3) Repeal section RP 14(c).
@@ -1911,7 +1929,7 @@ After section RZ 13, insert:Listed PAYE intermediaries: transitional provisionam
   - **normal retiring age** is defined in section CW 26E (Meaning of normal retiring age) for the purposes of section CW 26C (Meaning of exempt ESS)
 (50) In the definition of offered or was offered or entered into, replace in sections EY 12 (Meaning of life reinsurance) and EY 48 (Non-resident life insurers with life insurance policies in New Zealand) with in sections CR 3B, EY 12, EY 48, and YD 8B (which relate to life insurance and life reinsurance).
 (51) In the definition of offshore RLWT person, paragraph (c), in the words before the subparagraphs, replace a person with a person, other than a statutory trustee company.
-(52) In the definition of pay, in paragraph (bb), replace section 24Q with section 15ZB.
+(52)
 (53) Insert, in appropriate alphabetical order:
   - **payday** has the meaning given in section 3(1) of the Tax Administration Act 1994
 (54) Repeal the definitions of PAYE income payment form and PAYE income payment form period.
@@ -1969,6 +1987,8 @@ After section RZ 13, insert:Listed PAYE intermediaries: transitional provisionam
 (89) Subsection (9) applies for the 2017–18 and later income years.
 (90) Subsections (8), (12), (27), (31), (32), (39), (40), (57), (58), (61), (62), (63), (80), and (87) apply for the 2018–19 and later income years.
 (91) Subsections (4), (11), (16), (59), and (71) apply to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(92) Despite subsection (91), subsections (4), (11), (16), (59), and (71) do not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(93) Despite subsection (91), subsections (4), (11), (16), (59), and (71) do not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 244 New section YA 5 inserted (General rule: capacity of trustees)
 After section YA 4, insert:General rule: capacity of trusteesTrustees acting in separate capacityOther capacitiesagent, trustee
@@ -2139,24 +2159,23 @@ In section 14G, insert as subsection (2):
   (2) For the purposes of the delivery of income information, a person’s contact address is the address described in subsection (1)﻿(a) to (c).
 
 ### 263 Section 15C amended (PAYE intermediaries and listed PAYE intermediaries)
-(1) In section 15C, replace the section heading with PAYE intermediaries.
-(2) Repeal section 15C(2).
+[Repealed]
 
 ### 264 Section 15F amended (Fitness of applicants)
 In section 15F(2), replace ; or with ; and in each place where it appears.
 
 ### 265 Sections 15G, 15H, and 15I repealed
-Repeal sections 15G, 15H, and 15I.
+[Repealed]
 
 ### 266 Section 15J amended (Employers’ arrangements with PAYE intermediaries)
-Repeal section 15J(4).
+[Repealed]
 
 ### 267 Section 15L amended (Amended monthly schedules)
 (1) In section 15L, replace the section heading with Amended employment income information.
 (2) In section 15L, replace make an amended monthly schedule relating to the employee and a pay period with provide the amended employment income information relating to the employee and a payday.
 
 ### 268 Section 15M repealed (Subsidy claim forms)
-Repeal section 15M.
+[Repealed]
 
 ### 269 New subpart heading inserted (Commissioner’s powers to obtain information)
 Replace the cross-heading before section 16 with Subpart 3A—Commissioner’s powers to obtain information.
@@ -2165,7 +2184,7 @@ Replace the cross-heading before section 16 with Subpart 3A—Commissioner’s p
 Replace the cross-heading before section 21B with Subpart 3B—Taxpayers’ obligations to keep records.
 
 ### 271 Section 22 amended (Keeping of business and other records)
-In section 22(2)﻿(ke), replace section 24Q with section 15ZB.
+[Repealed]
 
 ### 272 New section 22AA inserted (Records to be kept by employers and PAYE intermediaries)
 After section 22, insert:Records to be kept by employers and PAYE intermediaries
@@ -2397,14 +2416,14 @@ Repeal the cross-heading before section 24J and section 24J.
 Repeal sections 24L, 24LB, 24LC, 24M, 24N, and 24P.
 
 ### 283 Cross-heading and section 24Q amended
-Renumber section 24Q as section 15ZB and insert the cross-heading Payroll donations before it.
+[Repealed]
 
 ### 284 New heading inserted (RWT rates, certificates, and records)
 Replace the cross-heading before section 25A with Subpart 3E—RWT rates, certificates, and records.
 
 ### 285 Section 25A amended (Use of inconsistent RWT rates)
 (1) Renumber section 25A as section 26B.
-(2) In section 26B(2), replace for the person. with for the person. If the Commissioner notifies the payer of the inconsistent rate, the Commissioner must notify the payee at the same time.
+(2)
 
 ### 286 Section 25 amended (RWT withholding certificates)
 (1) In section 25(2), replace the tax deduction certificate with the RWT withholding certificate.
@@ -2693,6 +2712,8 @@ Repeal sections 51, 52, 53, and 54.
 ### 321 Section 54C amended (Information in relation to payment of RLWT)
 (1) In section 54C(1), in the words before the paragraphs, replace 2 years with 5 years.
 (2) Subsection (1) applies to a person’s disposal of residential land if the date that the person first acquires an estate or interest in the residential land is on or after the date on which the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 receives the Royal assent.
+(3) Despite subsection (2), subsection (1) does not apply to a person’s disposal of a freehold estate in residential land that the person acquired as the owner of a leasehold estate with a perpetual right of renewal, if the person was granted the leasehold estate before 29 March 2018.
+(4) Despite subsection (2), subsection (1) does not apply to a person’s disposal of an estate or interest in residential land that the person acquired as the result of the completion of a land development or subdivision, if before 29 March 2018 the person entered into the agreement under which they acquired the estate or interest upon the completion of the land development or subdivision.
 
 ### 322 Section 55 amended (Consequence of inability to provide tax file numbers)
 In section 55(a), replace in accordance with section 52 or section 53 or section 54 with under the reporting requirements in sections 25F to 25I and 25N.
