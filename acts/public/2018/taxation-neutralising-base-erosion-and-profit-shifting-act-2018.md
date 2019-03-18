@@ -1,5 +1,5 @@
 # Taxation (Neutralising Base Erosion and Profit Shifting) Act 2018
-_Consolidation as at 2018-06-27_
+_Consolidation as at 2019-03-18_
 
 ### 1 Title
 This Act is the Taxation (Neutralising Base Erosion and Profit Shifting) Act 2018.
@@ -601,7 +601,7 @@ In section DB 7(3)﻿(bb), replace (Life reinsurance outside New Zealand) with (
 (2) Subsection (1) applies for income years beginning on or after 1 July 2018, subject to subsections (3) and (4).
 (3) Sections FH 3 and FH 4, as inserted by subsection (1), do not apply for a payment—
   (a) under a financial instrument entered, on or before 6 September 2016, by a person who is—
-    (i) a member of the New Zealand banking group of a registered bank, on terms intended to allow the financial instrument to qualify as capital for the purposes of the regulatory capital requirements imposed by the Reserve Bank of New Zealand under the Reserve Bank of New Zealand Act 1989, or imposed under corresponding legislation of a country or territory outside New Zealand:
+    (i) a member of the New Zealand banking group of a registered bank, or a person who has a fixed establishment that is a member of the New Zealand banking group of a registered bank, on terms intended to allow the financial instrument to qualify as capital for the purposes of the regulatory capital requirements imposed by the Reserve Bank of New Zealand under the Reserve Bank of New Zealand Act 1989, or imposed under corresponding legislation of a country or territory outside New Zealand:
     (ii) a licensed insurer, or a person associated with a licensed insurer, for the direct or indirect purpose of complying with regulatory capital requirements imposed as a condition of licence under the Insurance (Prudential Supervision) Act 2010, or imposed under corresponding legislation of a country or territory outside New Zealand; and
   (b) before the first date on which the person has an unconditional right to call or otherwise cancel the financial instrument without penalty.
 (4) Section FH 11(2)﻿(b) and (4), as inserted by subsection (1), apply for a payment in an income year beginning on or after 1 January 2020.
