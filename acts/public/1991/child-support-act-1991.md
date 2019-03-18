@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-03-18_
 
 > Title
 
@@ -1380,7 +1380,7 @@ The Commissioner may, under this subpart, make a determination expressed to be r
 (4) Nothing in this section applies to the publication of any report in any publication that—
   (a) is of a bona fide professional or technical nature; and
   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
-(5) Nothing in section 81 of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this subpart—
+(5) Nothing in section 18(1) of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this subpart—
   (a) with the leave of the Commissioner or the Family Court; or
   (b) in accordance with subsection (4).
 
@@ -1659,7 +1659,7 @@ The Commissioner may, under this Part, make a determination expressed to be retr
 (4) Nothing in this section applies to the publication of any report in any publication that—
   (a) is of a bona fide professional or technical nature; and
   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
-(5) Nothing in section 81 of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part—
+(5) Nothing in section 18(1) of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part—
   (a) with the leave of the Commissioner or the Family Court; or
   (b) in accordance with subsection (4).
 
@@ -1790,7 +1790,7 @@ The Commissioner may, under this Part, make a determination expressed to be retr
 (4) Nothing in this section applies to the publication of any report in any publication that—
   (a) is of a bona fide professional or technical nature; and
   (b) is intended for circulation among members of the legal profession, employees of the Crown, relationship counsellors, mediators, or social workers.
-(5) Nothing in section 81 of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part—
+(5) Nothing in section 18(1) of the Tax Administration Act 1994 prevents the publication of a report of any proceedings under this Part—
   (a) with the leave of the Commissioner or the Family Court; or
   (b) in accordance with subsection (4).
 
@@ -3282,7 +3282,7 @@ For the purposes of this Part, unless the context otherwise requires,—
   (b) declare that the provisions of this Act and of the regulations and orders in force under this Act shall have effect subject to such modifications as may be required for the purpose of giving effect to the agreement or alteration:
   (c) amend or revoke any previous Order in Council which applied in respect of any such agreement which is no longer in force or which is intended to be no longer in force on the commencement of the Order in Council.
 (2) The Governor-General may, by the same or a subsequent Order in Council, specify the date on which any Order in Council made under subsection (1) is to come into force or cease to be in force, which in either case may be a date before or on or after the date on which the Order in Council is so made.
-(3) Where any agreement has effect under this section, the obligation as to secrecy imposed by any enactment, and in particular by section 81 of the Tax Administration Act 1994, shall not prevent the Commissioner or any authorised officer of the Inland Revenue Department from disclosing to any authorised officer of the government with which the agreement is made such information as is required to be disclosed under the agreement.
+(3) Where any agreement has effect under this section, the obligation as to secrecy imposed by any enactment, and in particular by section 18(1) of the Tax Administration Act 1994, shall not prevent the Commissioner or any authorised officer of the Inland Revenue Department from disclosing to any authorised officer of the government with which the agreement is made such information as is required to be disclosed under the agreement.
 
 ## Part 14 — General provisions
 
@@ -3555,7 +3555,7 @@ Every question of fact arising in any proceeding under this Act (not being crimi
 (8) Notwithstanding anything in any other Act, nothing shall prevent the Commissioner or any officer of the Inland Revenue Department from—
   (a) using information obtained under this Act for the purposes of carrying into effect the provisions of any of the Inland Revenue Acts; or
   (b) using information obtained under any of the Inland Revenue Acts for the purposes of carrying into effect the provisions of this Act.
-(9) Sections 81 to 87 of the Tax Administration Act 1994 shall not prevent officers of the Inland Revenue Department from advising persons who potentially are liable persons of the amount of child support that is likely to be payable by that person, based on the income of that person.
+(9) sections 18 to 18J of the Tax Administration Act 1994 shall not prevent officers of the Inland Revenue Department from advising persons who potentially are liable persons of the amount of child support that is likely to be payable by that person, based on the income of that person.
 (10)
 (11)
 
