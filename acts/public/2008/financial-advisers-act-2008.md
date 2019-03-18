@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2017-12-16_
+_Consolidation as at 2019-03-18_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -213,7 +213,7 @@ In this Act, unless the context otherwise requires,—
     (b) performing duties expressly conferred on that person by virtue of his or her office by an enactment; or
     (c) holding office as the chief executive of a Crown organisation
   - **Takeovers Code** means the takeovers code in force under the Takeovers Act 1993
-  - **tax agent** has the same meaning as in section 3(1) of the Tax Administration Act 1994
+  - **tax agent** has the same meaning as in section 3(1) of the Tax Administration Act 1994 and, for the purposes of this Act, includes a representative and nominated person as those terms are defined in section 3(1) of the Tax Administration Act 1994
   - **teacher** means a person in a teaching position in the general education system
   - **teaching position** has the same meaning as in section 120 of the Education Act 1989
   - **trust account records** —
