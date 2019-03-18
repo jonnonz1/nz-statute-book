@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2017-05-30_
+_Consolidation as at 2019-03-18_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -93,7 +93,7 @@ In this Act, unless the context otherwise requires,—
   - **related company** has the meaning given by section 2(3) of the Companies Act 1993
   - **retail client** has the meaning set out in section 49
   - **senior manager** means, in relation to a financial service provider, a person who is not a director but occupies a position that allows the person to exercise significant influence over the management or administration of that provider (for example, a chief executive or a chief financial officer)
-  - **tax agent** has the meaning given by section 3(1) of the Tax Administration Act 1994
+  - **tax agent** has the meaning given by section 3(1) of the Tax Administration Act 1994 and, for the purposes of this Act, includes a representative and nominated person as those terms are defined in section 3(1) of the Tax Administration Act 1994
   - **wholesale client** has the meaning set out in section 49.
 
 ### 5 Meaning of financial service
