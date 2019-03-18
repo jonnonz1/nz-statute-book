@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2019-03-18_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -1421,7 +1421,7 @@ The purpose of this subpart is to enable an intelligence and security agency to 
 
 ### 135 Meaning of restricted information
 In this subpart, restricted information means—
-  (a) information that an Inland Revenue officer must maintain, and must assist in maintaining, the secrecy of under section 81 of the Tax Administration Act 1994:
+  (a) information that a revenue officer must keep confidential under section 18(1) of the Tax Administration Act 1994:
   (b) information relating to national student numbers assigned by the Secretary of Education under section 343 of the Education Act 1989 to students enrolled with a tertiary education provider:
   (c) information relating to an adoption held by the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995:
   (d) photographic images used for driver licences that are stored under section 28(5) of the Land Transport Act 1998.
