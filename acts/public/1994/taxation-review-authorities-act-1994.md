@@ -1,5 +1,5 @@
 # Taxation Review Authorities Act 1994
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-03-18_
 
 > An Act to consolidate the law relating to Taxation Review Authorities
 
@@ -81,7 +81,7 @@ If any employee of the Crown is appointed as an Authority, that employee’s ser
 (2) The office of Registrar or Deputy Registrar or any other office may be held either separately or in conjunction with any other office in the Public Service.
 
 ### 12 Officers to maintain secrecy
-Every person (other than a person appointed as an Authority) engaged or employed in connection with the work of any Authority who is not also an officer of the Department, shall, for the purposes of section 81 of the Tax Administration Act 1994, be deemed to be an officer of the Department, and shall make the declaration of fidelity and secrecy referred to in that section, and that section shall in every respect apply to that person as if the person were an officer of the Department.
+Every person (other than a person appointed as an Authority) engaged or employed in connection with the work of any Authority who is not also an officer of the Department, shall, for the purposes of section 18(1) of the Tax Administration Act 1994, be deemed to be an officer of the Department, and shall make the declaration of fidelity and secrecy referred to in that section, and that section shall in every respect apply to that person as if the person were an officer of the Department.
 
 ### 13 Functions of an Authority
 The functions of an Authority are to sit as a judicial authority for hearing and determining objections and challenges—authorised by the Inland Revenue Acts.
