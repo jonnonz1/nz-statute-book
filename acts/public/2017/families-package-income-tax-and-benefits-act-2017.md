@@ -1,5 +1,5 @@
 # Families Package (Income Tax and Benefits) Act 2017
-_Consolidation as at 2017-12-20_
+_Consolidation as at 2019-03-18_
 
 ### 1 Title
 This Act is the Families Package (Income Tax and Benefits) Act 2017.
@@ -8,8 +8,8 @@ This Act is the Families Package (Income Tax and Benefits) Act 2017.
 (1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
 (2) Subpart 1 of Part 1 (Best Start tax credit) comes into force on 1 July 2018.
 (3) Section 46 is treated as coming into force on 29 May 2017.
-(4) Sections 48, 50, 52, 55, 56, and 58 come into force on 1 April 2018.
-(5) Sections 49, 51, and 57 come into force on 1 April 2019.
+(4) Sections 52, 55, 56, and 58 come into force on 1 April 2018.
+(5)
 (6) Subpart 1 of Part 2 (winter energy payment) comes into force on 1 July 2018.
 (7) Subpart 2 of Part 2 (rates of orphan’s benefit and unsupported child’s benefit) comes into force on 1 July 2018.
 (8) Subpart 3 of Part 2 (accommodation supplement areas (fixing as on 26 June 2017)) comes into force on the day after the date on which this Act receives the Royal assent.
@@ -305,36 +305,16 @@ Repeal the Taxation (Budget Measures: Family Incomes Package) Act 2017.
 Sections 48 to 57 amend the Income Tax Act 2007.
 
 ### 48 Section MD 3 amended (Calculation of family tax credit)
-(1) Replace section MD 3(4), other than the heading, with:
-  (4) Prescribed amount is the sum of the following amounts:
-    (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
-      (i) $5,614, if the child is younger than 16:
-      (ii) $5,734, if the child is 16 or older:
-      (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
-    (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
-      (i) $4,397, if the child is younger than 13:
-      (ii) $4,514, if the child is 13, 14, or 15:
-      (iii) $4,745, if the child is 16 or older:
-      (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
-      (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
-(2) This section applies for the 2018–19 and later tax years.
+[Repealed]
 
 ### 49 Section MD 3 amended (Calculation of family tax credit)
-(1) Replace section MD 3(4)﻿(a) and (b) with:
-  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, $5,878; and
-  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, $4,745.
-(2) In section MD 3(6), replace subsection (4)﻿(a)﻿(i) and (ii), and (b)﻿(i) to (iii) with subsection (4)﻿(a) and (b).
-(3) This section applies for the 2019–20 and later tax years.
+[Repealed]
 
 ### 50 Section MD 13 amended (Calculation of family credit abatement)
-(1) In section MD 13(3)﻿(a)﻿(i), replace $36,350, 22.5 cents with $41,116, 24.38 cents.
-(2) In section MD 13(3)﻿(a)﻿(ii), replace $36,350, 22.5 cents with $41,116, 24.38 cents.
-(3) This section applies for the 2018–19 and later tax years.
+[Repealed]
 
 ### 51 Section MD 13 amended (Calculation of family credit abatement)
-(1) In section MD 13(3)﻿(a)﻿(i), replace $41,116, 24.38 cents with $42,700, 25 cents.
-(2) In section MD 13(3)﻿(a)﻿(ii), replace $41,116, 24.38 cents with $42,700, 25 cents.
-(3) This section applies for the 2019–20 and later tax years.
+[Repealed]
 
 ### 52 Section ME 1 amended (Minimum family tax credit)
 (1) In section ME 1(3)﻿(a), replace $23,816 with $26,156.
@@ -412,10 +392,7 @@ Before section MF 5, insert:Calculation of instalments: 1 April 2018 to 30 June 
 (4) This section applies for the 2018–19 and later tax years.
 
 ### 57 Section MF 7 amended (Orders in Council)
-(1) In section MF 7(1)﻿(a), in the words before the subparagraphs, replace section MD 3(4)﻿(a)﻿(i) and (b)﻿(i) and (ii) with section MD 3(4)﻿(a) and (b).
-(2) Repeal section MF 7(1)﻿(ab).
-(3) Repeal section MF 7(2C).
-(4) This section applies for the 2019–20 and later tax years.
+[Repealed]
 
 ### 58 Taxation (Annual Rates and Budget Measures) Act 2011 amended
 Repeal sections 2(3), (4), and (5), 5(2), (3), and (4), and 14B of the Taxation (Annual Rates and Budget Measures) Act 2011.
