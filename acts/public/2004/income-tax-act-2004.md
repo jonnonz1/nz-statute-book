@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2018-03-29_
+_Consolidation as at 2019-03-18_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -14417,7 +14417,7 @@ Exemptions applying
   (a) holds an attributing interest in a FIF; and
   (b) either—
     (i) the interest ceases to be an attributing interest in a FIF because 1 of the exemptions in sections EX 32 to EX 37 starts to apply; or
-    (ii) the person ceases having FIF income or loss from the interest because they dispose of an attributing interest in a FIF and fall below the $50,000 threshold in sections CQ 5(1)﻿(d) or (db) (When FIF income arises) and DN 6(1)﻿(d) or (db) (When FIF loss arises).
+    (ii) the person ceases having FIF income or loss from the interest because they dispose of an attributing interest in a FIF and fall below the $50,000 threshold in sections CQ 5(1)﻿(d) or (db)(When FIF income arises) and DN 6(1)﻿(d) or (db) (When FIF loss arises).
 Market value for cost-based methods
 (6) If the person uses the comparative value method, the deemed rate of return method, the fair dividend rate method, or the cost method to calculate FIF income or loss from the interest for the period before the change, the person is treated as having—
   (a) disposed of the interest to an unrelated person immediately before the change; and
@@ -21158,7 +21158,7 @@ Despite section 92 of the Tax Administration Act 1994, a rebate of income tax un
 (5) Income from an activity satisfies this subsection if the income is—
   (a) a source deduction payment that is not—
     (i) described in paragraph (b)﻿(v), (viii), (ix), (xi), (xii), (xiii), (xiv), and (xv) of the definition of salary or wages:
-    (ii) a withholding payment of the kind specified in Part E of the Schedule of the Income Tax (Withholding Payments) Regulations 1979:
+    (ii) a withholding payment of the kind specified in Part Eof the Schedule of the Income Tax (Withholding Payments) Regulations 1979:
     (iii) paid as a result of an incapacity, suffered before 1 January 2006, due to personal injury by accident within the meaning of section 26 of the Injury Prevention, Rehabilitation, and Compensation Act 2001:
   (b) income to which section OB 2(2) applies:
   (c) income from a business carried on for profit.
@@ -21205,8 +21205,8 @@ Principal caregiver for eligible period for purposes of inwork payment
 
 ### KD 2AB Parental tax credit
 (1) The qualifying person for a dependent child that is born on or after 1 October 1999 is allowed a credit of tax, called the parental tax credit, for up to the first 56 days after the date of the dependent child's birth if—
-  (a) neither the person nor his or her spouse, civil union partner, or de facto partner receives a specified payment or has a suspended entitlement to an income-tested benefit at any time during that period (in this subpart called the entitlement period):
-  (b) neither the person nor his or her spouse, civil union partner, or de facto partner (within the meaning of the Parental Leave and Employment Protection Act 1987) receives a parental leave payment under Part 7A of that Act at any time in respect of the child.
+  (a) a person, their spouse, civil union partner, or de facto partner does not receive or have, for 1 or more days during the first 56 days after the date of the dependent child’s birth (in this subpart, the entitlement period), a specified payment or a suspended entitlement to an income-tested benefit; and
+  (b) a person, their spouse, civil union partner, or de facto partner does not receive, at any time in the parental entitlement period, a parental leave payment under Part 7A of the Parental Leave and Employment Protection Act 1987.
 (1A) Section 2B of the Parental Leave and Employment Protection Act 1987 applies for the purposes of subsection (1)﻿(b) if a person gives birth to 2 or more children as a result of 1 pregnancy or assumes the care of 2 or more children with a view to adoption.
 (2) A qualifying person continues to be entitled to the parental tax credit if the dependent child dies during the entitlement period and the person and their spouse, civil union partner, or de facto partner (if any) would otherwise meet the requirements of subsection (1).
 (3) The parental tax credit is to be paid to a qualifying person either—
@@ -23292,7 +23292,9 @@ In this subpart—
 ### MD 1 Refund of excess tax
 (1) Subject to sections MD 2, MD 2A, MD 2B, MD 3 and NH 4, and subsection (2), the Commissioner must refund an amount that a taxpayer has paid as tax if—
   (a) the Commissioner is satisfied that the amount represents an excess over the tax properly payable by the taxpayer; and
-  (b) the 4-year period referred to in section 108 of the Tax Administration Act 1994 has not ended.
+  (b) either—
+    (i) the amount has arisen on an original assessment; or
+    (ii) the amount has arisen on an amended assessment and the 4-year period under section 108(1) of the Tax Administration Act 1994 for amendment of an assessment has not ended.
 (1A) If, as a result of the issue of an income statement, the amount of tax paid in excess and required to be refunded is more than $50, or such greater amount as the Governor-General by Order in Council prescribes, the Commissioner must not refund the tax until the taxpayer has confirmed the income statement is correct.
 (1B) The Commissioner must not pay a refund under subsection (1) to the extent that the excess tax is applied to a nil period under either section MZ 5 or MZ 6.
 (2) Subject to sections MD 2, MD 2A, MD 2B, MD 3, and NH 4, the Commissioner must refund an amount that a taxpayer has paid as tax if—
@@ -23314,6 +23316,24 @@ In this subpart—
   (a) subpart KD (which relates to tax credits for families); or
   (b) section NF 7 (which relates to refunds of excess resident withholding tax); or
   (c) section NG 16 (which relates to refunds of excess non-resident withholding tax).
+
+### MD 1B Treatment of certain refunds made on income statements: 2005–06, 2006–07, and 2007–08 income years
+(1) This section applies for the period that includes the 2005–06, 2006–07, and 2007–08 income years when—
+  (a) an income statement has been provided to a person for a tax year and the result is that an amount of tax must be refunded to the person; and
+  (b) the person is a deceased person for whom no executor or administrator has been appointed; and
+  (c) the amount is—
+    (i) more than the confirmation threshold applying for the person at the time the income statement was provided; and
+    (ii) not more than $15,000.
+(2) The Commissioner may allow a person appearing on the list described in subsection (3) to confirm the correctness of the income statement on behalf of the person.
+(3) The Commissioner must publish a list of the classes of persons who are considered likely to have a relationship with a deceased person and that the Commissioner considers may be best placed to confirm an income statement of a deceased person.
+
+### MD 1C Treatment of certain refunds not paid within 4-year period: 2005–06, 2006–07, and 2007–08 income years
+(1) This section applies for the period that includes the 2005–06, 2006–07, and 2007–08 income years when—
+  (a) a person overpaid their tax for an income year that falls in the period and was entitled to a refund of tax; and
+  (b) the refund arose from the person’s return of income and not from an amended assessment; and
+  (c) the Commissioner was unable to make the refund within the 4-year period referred to in section 108(1); and
+  (d) after the expiry of the 4-year period, the refund could not be made under section RM 2 as it was before it was amended by section 87(1) of the Taxation (Livestock Valuation, Assets Expenditure, and Remedial Matters) Act 2013.
+(2) The Commissioner may pay the refund to the person.
 
 ### MD 2 Limit on refunds and allocations of tax
 (1) If an imputation credit account company becomes entitled at any time to a refund of income tax in accordance with section MD 1, or becomes entitled to make an allocation within a wholly-owned group in accordance with section MB 33, the refund to be paid to the company or the allocation to be made in accordance with section MB 33 must not exceed the credit balance (if any) of the company's imputation credit account at the later of—
@@ -28727,9 +28747,16 @@ For the purposes of this Act, unless the context otherwise requires,—annual im
     (b) for any other person, the tax year
   - **income year of transfer** , for a relationship agreement, means the income year in which the date of transfer falls
   - **income-tested benefit** —
-    (a)
+    (a) means any of the following benefits paid or payable under the Social Security Act 1964:
+      (i) domestic purposes benefit:
+      (ii) emergency benefit:
+      (iii) independent youth benefit:
+      (iv) invalids’ benefit:
+      (v) sickness benefit:
+      (vi) unemployment benefit:
+      (vii) widows’ benefit
     (b)
-    (c) does not include a supplement or benefit paid or payable under any of sections 61DB, 61DC, 61DD, 61DE, 61EA, 61G, and 69C of the Social Security Act 1964
+    (c)
   - **increase in savings** is defined in section KG 1(3) (Rebate for savings in special farm, fishing vessel, and home ownership accounts) for the purposes of that section
   - **indirect income interest** is defined in section EX 10 (Indirect income interests)
   - **initial period** means the period—
@@ -31123,7 +31150,7 @@ For the purposes only of the application of the credit account continuity provis
   (a) shares in a company or interests in a partnership held directly or indirectly by or for a company, partnership, or trust are deemed to be held proportionately by or for the shareholders, partners, or beneficiaries in the company, trust, or partnership; and
   (b) a person who is an individual is deemed to hold the shares in a company or the interests in a partnership which are held, or deemed to be held, by or for the person's relatives; and
   (c) shares in a company or interests in a partnership deemed to be held by a person by reason of the application of paragraph (a) are, for the purposes of applying paragraph (a) or (b), treated as being held directly by that person, but shares or interests deemed to be held by a person by reason of the application of paragraph (b) are not treated as being held by that person for the purpose of again applying paragraph (b) in order to make another person the deemed holder of those shares or interests.
-(3) In sections CX 6(1)﻿(b), CX 6B, DB 10, DS 4, DT 2, EC 10(4)﻿(b), EE 33 to EE 36, EE 50, EE 51, EW 45, EW 50, EZ 11, EZ 38, and FC 13, subpart FG, sections FH 1(2), GC 14B, GD 13, HK 11, HL 6, HL 9, KC 6, KH 2, and LC 1, subpart LF, and section NH 7, the definitions in section OB 1 of returning share transfer and share-lending arrangement, and sectionsOE 7, and OE 8, and in the international tax rules, associated persons or persons associated with each other are—50% or more, and for this purpose sections EX 8 to EX 10, EX 13, EX 17, EX 27, and GC 9 apply as if each reference to a CFC, controlled foreign company, or foreign company were a reference to a company and as if section GC 9(6) were omitted; or
+(3) In sections CX 6(1)﻿(b), CX 6B, DB 10, DS 4, DT 2, EC 10(4)﻿(b), EE 33 to EE 36, EE 50, EE 51, EW 45, EW 50, EZ 11, EZ 38, and FC 13, subpart FG, sections FH 1(2), GC 14B, GD 13, HK 11, HL 6, HL 9, KC 6, KH 2, and LC 1, subpart LF, and section NH 7, the definitions in section OB 1 of returning share transfer and share-lending arrangement, and sections OE 7, and OE 8, and in the international tax rules, associated persons or persons associated with each other are—50% or more, and for this purpose sections EX 8 to EX 10, EX 13, EX 17, EX 27, and GC 9 apply as if each reference to a CFC, controlled foreign company, or foreign company were a reference to a company and as if section GC 9(6) were omitted; or
   (a) any 2 companies where—
     (i) any group of persons—
       (A) has voting interests in each of those companies totalling in aggregate 50% or more; or
