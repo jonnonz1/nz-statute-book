@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2017-03-21_
+_Consolidation as at 2019-03-21_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -28,6 +28,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
 
 ### 4 Principles
 (1) The principles that this Act is designed to implement are the following:
+  (aa) representative and substantial electoral participation in local elections and polls:
   (a) fair and effective representation for individuals and communities:
   (b) all qualified persons have a reasonable and equal opportunity to—
     (i) cast an informed vote:
@@ -1894,7 +1895,7 @@ Sections 111 and 112 do not validate any use of public money that would otherwis
 **Term of membership of elected members**
 
 ### 115 When members come into office
-(1) Candidates at a triennial general election who are declared to be elected come into office on the day after the day on which the official result of the election is declared by public notice under section 86.
+(1) A candidate who is declared to be elected comes into office on the day after the day on which the official result of the election is declared by public notice under section 86.
 (2)
 (3) A person appointed to fill an extraordinary vacancy comes into office at the time of his or her appointment.
 
