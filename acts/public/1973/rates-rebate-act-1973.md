@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-03-21_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -23,12 +23,19 @@ _Consolidation as at 2018-11-26_
     (c) includes, in the case of a ratepayer who carries on any business as a self-employed person, the amount that would be the ratepayer's net income in the preceding tax year (within the meaning of the Income Tax Act 2007) if the only income for that year of the ratepayer was derived in carrying on that business; but
     (d) does not include—
       (i) any capital money received from any source:
-      (ii) any war widows' pensions or war disablement pension:
+      (ii) any payment made under the Veterans’ Support Act 2014 other than—
+        (A) weekly income compensation; or
+        (B) weekly compensation (whether for a veteran or the veteran’s family); or
+        (C) veteran’s pension; or
+        (D) retirement lump sum; or
+        (E) children’s pension; or
+        (F) dependant’s pension:
       (iii) any pension or periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) that the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 determines is analogous to a payment described in subparagraph (ii):
       (iv) any money received as a grant to meet funeral expenses:
       (v) any money paid in respect of any military decoration and received by the recipient of such decoration:
       (vi) any family tax credit payable under the Income Tax Act 2007:
-      (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the Social Security Act 2018 or a veteran's pension under Part 6 of the Veterans' Support Act 2014 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension
+      (vii) any salary or wages of a person in receipt of any supported living payment, sole parent support, or related emergency benefit under the Social Security Act 2018 or a veteran's pension under Part 6 of the Veterans' Support Act 2014 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension:
+      (viii) any winter energy payment received under the Social Security Act 2018
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **operator** has the same meaning as in section 5 of the Retirement Villages Act 2003
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
@@ -109,7 +116,7 @@ _Consolidation as at 2018-11-26_
 
 ### 7A Refund to resident of retirement village of contribution towards rates
 (1) This section applies to a resident of a retirement village—
-  (a) who has a residential unit in the retirement village that is not separately rated; and
+  (a) who has a residential unit in the retirement village but is not a ratepayer in respect of that unit; and
   (b) who contributes to the outgoings of the retirement village.
 (2) A resident may apply for a refund of the amount of the rates contribution that the resident would be entitled to receive as a rebate under section 3 if—
   (a) the residential unit were separately rated and the resident were the ratepayer; and
