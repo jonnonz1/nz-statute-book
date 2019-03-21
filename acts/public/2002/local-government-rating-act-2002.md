@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-03-21_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -242,7 +242,7 @@ Two or more rating units must be treated as 1 unit for setting a rate if those u
 (4) Notice under subsection (3)﻿(b) must include—
   (a) the information in relation to the rate that would otherwise have been required to be included in the local authority’s funding impact statement; and
   (b) a statement of the nature of the unforeseen and urgent need for revenue and the reasons why that need cannot reasonably be met by any other means, having regard to the manner in which the local authority has, in its long-term plan, allocated the costs of the activities or groups of activities to which the need for revenue relates.
-(5) The local authority must, within 20 working days after making a resolution, send a copy of it to the Secretary of Local Government.
+(5) A local authority must, within 20 working days after making a resolution, make the resolution publicly available on an Internet site maintained by it or on its behalf to which the public has free access.
 
 ### 24 Due date or dates for payment
 A local authority must state, in the resolution setting a rate,—
