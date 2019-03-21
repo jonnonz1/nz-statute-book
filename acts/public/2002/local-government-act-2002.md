@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-03-21_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -61,6 +61,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (a) in the case of a regional council, means the body described in section 41(1); and
     (b) in the case of a territorial authority, means the body described in section 41(2)
   - **group of activities** means 1 or more related activities provided by, or on behalf of, a local authority or council-controlled organisation
+  - **Internet site** , in relation to a local authority or other person or entity, means an Internet site that is maintained by, or on behalf of, the local authority, person, or entity and to which the public has free access
   - **land value** has the meaning set out in section 2 of the Rating Valuations Act 1998
   - **local authority** means a regional council or territorial authority
   - **local board** means—
@@ -93,11 +94,11 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **natural hazard** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **network infrastructure** has the meaning set out in section 197(2)
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
-  - **public notice** , in relation to a notice given by a local authority,—
-    (a) means a notice published in—
-      (i) 1 or more daily newspapers circulating in the region or district of the local authority; or
-      (ii) 1 or more other newspapers that have at least an equivalent circulation in that region or district to the daily newspapers circulating in that region or district; and
-    (b) includes any other public notice that the local authority thinks desirable in the circumstances
+  - **public notice** , in relation to a notice given by a local authority, means one that—
+    (a) is made publicly available, until any opportunity for review or appeal in relation to the matter notified has lapsed, on the local authority’s Internet site; and
+    (b) is published in at least—
+      (i) 1 daily newspaper circulating in the region or district of the local authority; or
+      (ii) 1 or more other newspapers that have a combined circulation in that region or district at least equivalent to that of a daily newspaper circulating in that region or district
   - **publicly available** , in relation to a document or other information, has the meaning set out in subsection (3)
   - **rating unit** means a rating unit for the purposes of the Rating Valuations Act 1998
   - **region** —
@@ -144,11 +145,10 @@ In order to recognise and respect the Crown's responsibility to take appropriate
       (i) reservoirs, dams, bores, tanks, and pipes; and
       (ii) buildings, machinery, and appliances
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
-    (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
-    (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
-    (c) if 1 January falls on a Friday, the following Monday; and
-    (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
+    (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
+    (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (c) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
+    (d) a day in the period commencing with 20 December in any year and ending with 10 January in the following year.
 (2) The meaning given to the term community by subsection (1) does not apply in relation to—
   (a) section 3; or
   (b) the definition of the term long-term plan; or
@@ -156,7 +156,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   (d) any of the provisions of Schedules 10 and 11; or
   (e) any other provisions of this Act in respect of which the context otherwise requires.
 (3) If a local authority or a council-controlled organisation is required under this Act to make a document or other information publicly available, it must take reasonable steps to—
-  (a) ensure that the document or other information or a copy of the document or other information is accessible to the general public in a manner appropriate to the purpose of the document or other information, including, where practicable, on an Internet site maintained by or on behalf of the local authority; and
+  (a) ensure that the document or other information or a copy of the document or other information is accessible to the general public in a manner appropriate to the purpose of the document or other information, including, where practicable, on the local authority’s Internet site; and
   (b) publicise, in a manner appropriate to the purpose and significance of the document or other information, both the fact that the document or other information is available and the manner in which the document or other information may be accessed.
 
 ### 6 Meaning of council-controlled organisation and council organisation
@@ -733,6 +733,7 @@ A local authority must act in accordance with the following principles in relati
   (b) providing advice to members of the local authority and to its community boards, if any; and
   (c) ensuring that all responsibilities, duties, and powers delegated to him or her or to any person employed by the local authority, or imposed or conferred by an Act, regulation, or bylaw, are properly performed or exercised; and
   (d) ensuring the effective and efficient management of the activities of the local authority; and
+  (da) facilitating and fostering representative and substantial elector participation in elections and polls held under the Local Electoral Act 2001; and
   (e) maintaining systems to enable effective planning and accurate reporting of the financial and service performance of the local authority; and
   (f) providing leadership for the staff of the local authority; and
   (g) employing, on behalf of the local authority, the staff of the local authority (in accordance with any remuneration and employment policy); and
@@ -1420,12 +1421,7 @@ A summary of the information contained in a statement of proposal must—
   (a) the provisions of sections 77, 78, 79, 80, 81, 82, 83, 84, 96, 97, and 101; and
   (b) the significance of any matter; and
   (c) the extent of the local authority's resources.
-(10) A local authority must, within 1 month after the adoption of its long-term plan,—
-  (a) make its long-term plan publicly available; and
-  (b) send copies of that plan to—
-    (i) the Secretary; and
-    (ii) the Auditor-General; and
-    (iii) the Parliamentary Library.
+(10) A local authority must, within 1 month after the adoption of its long-term plan, make the plan publicly available.
 
 ### 93A Use of special consultative procedure in relation to long-term plan
 (1) Where the special consultative procedure is used in relation to the adoption or amendment of a long-term plan under section 93—
@@ -1452,7 +1448,7 @@ The purpose of the consultation document is to provide an effective basis for pu
     (ii) the local authority's proposal, if any, for addressing the issue; and
     (iii) the likely consequences of proceeding with the proposal on the local authority's rates, debt, and levels of service; and
   (c) other matters of public interest relating to—
-    (i) the proposed content of the local authority’s financial strategy (under section 101A) including, without limitation, the quantified limits on rates, rates increases, and borrowing in that strategy; and
+    (i) the proposed content of the local authority’s financial strategy (under section 101A) including, without limitation, the quantified limits on rate increases and borrowing in that strategy; and
     (ii) the proposed content of the local authority’s infrastructure strategy (under section 101B); and
   (d) any significant changes that are proposed to the way the local authority funds its operating and capital expenditure requirements, including changes to the rating system described in clause 15(3) and (4) of Schedule 10; and
   (e) using graphs or charts, the direction and scale of changes to the local authority’s rates and debt levels that will result from the proposed content of the long-term plan; and
@@ -1465,7 +1461,7 @@ The purpose of the consultation document is to provide an effective basis for pu
     (ii) a full draft of any policy; or
     (iii) a full draft of the local authority’s financial strategy or infrastructure strategy; or
     (iv) any detailed information, whether described in Part 1 of Schedule 10 or otherwise, that is not necessary or desirable for the purposes of subsections (1) and (2); and
-  (c) must state where members of the public may obtain information adopted by the local authority under section 93G, which may include, for example, providing links or references to the relevant documents on an Internet site maintained by or on behalf of the local authority; and
+  (c) must state where members of the public may obtain information adopted by the local authority under section 93G, which may include, for example, providing links or references to the relevant documents on the local authority’s Internet site; and
   (d) may be given the title of the local authority’s choice, provided that the title or subtitle make reference to this being a consultation document for the proposed long-term plan for the relevant years.
 (4) The consultation document must contain a report from the Auditor-General on—
   (a) whether the consultation document gives effect to the purpose set out in section 93B; and
@@ -1530,12 +1526,7 @@ Before adopting a consultation document under section 93A, the local authority m
   (b) contain appropriate references to the long-term plan in which the local authority's activities for the financial year covered by the annual plan are set out; and
   (c) include the information required by Part 2 of Schedule 10.
 (6A) Except where subsection (5) requires otherwise, the local authority must comply with subsection (6)﻿(b) and (c) by means of reference to, rather than duplication of, the long-term plan.
-(7) A local authority must, within 1 month after the adoption of its annual plan,—
-  (a) make its annual plan publicly available; and
-  (b) send copies of that plan to—
-    (i) the Secretary; and
-    (ii) the Auditor-General; and
-    (iii) the Parliamentary Library.
+(7) A local authority must, within 1 month after the adoption of its annual plan, make the plan publicly available.
 
 ### 95A Purpose and content of consultation document for annual plan
 (1) The purpose of the consultation document under section 82A(3) is to provide a basis for effective public participation in decision-making processes relating to the activities to be undertaken by the local authority in the coming year, and the effects of those activities on costs and funding, as proposed for inclusion in the annual plan, by—
@@ -1554,7 +1545,7 @@ Before adopting a consultation document under section 93A, the local authority m
     (i) a draft of the annual plan as proposed to be adopted; or
     (ii) a full draft of any policy; or
     (iii) any detailed information, whether described in Part 2 of Schedule 10 or otherwise, that is not necessary or desirable for the purposes of subsections (1) and (2); and
-  (c) must state where members of the public may obtain the information held by the local authority that is relied on by the content of the consultation document, including by providing links or references to the relevant information on an Internet site maintained by or on behalf of the local authority; and
+  (c) must state where members of the public may obtain the information held by the local authority that is relied on by the content of the consultation document, including by providing links or references to the relevant information on the local authority’s Internet site; and
   (d) may be given the title of the local authority’s choice, provided that the title or subtitle make reference to this being a consultation document for the proposed annual plan for the relevant year.
 (4) The local authority must adopt the information that is relied on by the content of the consultation document, as referred to in subsection (3)﻿(c), before it adopts the consultation document.
 (5) For the purposes of this section, a difference, variation, or departure is material if it could, itself or in conjunction with other differences, influence the decisions or assessments of those reading or responding to the consultation document.
@@ -1594,10 +1585,7 @@ If a local authority carries out consultation in relation to an amendment to a l
   (a) its annual report; and
   (b) a summary of the information contained in its annual report.
 (5) The summary must represent, fairly and consistently, the information regarding the major matters dealt with in the annual report.
-(6) A local authority must, within 1 month after the adoption of its annual report, send copies of that report and of the summary prepared under subsection (4)﻿(b) to—
-  (a) the Secretary; and
-  (b) the Auditor-General; and
-  (c) the Parliamentary Library.
+(6) A local authority must, within 1 month after the adoption of its annual report, make the report and the summary prepared under subsection (4)﻿(b) publicly available.
 
 ### 99 Audit of information in annual report and summary
 (1) In addition to the information required by Part 3 of Schedule 10, the annual report must contain the Auditor-General's report on—
@@ -1648,7 +1636,7 @@ If a local authority carries out consultation in relation to an amendment to a l
     (ii) the expected capital expenditure on network infrastructure, flood protection, and flood control works that is required to maintain existing levels of service currently provided by the local authority; and
     (iii) other significant factors affecting the local authority's ability to maintain existing levels of service and to meet additional demands for services; and
   (b) include a statement of the local authority's—
-    (i) quantified limits on rates, rate increases, and borrowing; and
+    (i) quantified limits on rate increases and borrowing; and
     (ii) assessment of its ability to provide and maintain existing levels of service and to meet additional demands for services within those limits; and
   (c) specify the local authority's policy on the giving of securities for its borrowing; and
   (d) specify the local authority's objectives for holding and managing financial investments and equity securities and its quantified targets for returns on those investments and equity securities.
@@ -4138,7 +4126,7 @@ The purpose of rules made under section 261B is to provide standard performance 
   (d) consult any other persons or groups as the Secretary considers appropriate.
 (4) The Secretary must—
   (a) make copies of the rules available for purchase at a reasonable price; and
-  (b) make copies of the rules available free of charge, at all reasonable times, on an Internet site maintained by, or on behalf of, the Secretary; and
+  (b) make copies of the rules available free of charge, at all reasonable times, on the Secretary’s Internet site; and
   (c) give notice in the Gazette that—
     (i) the rules have been made; and
     (ii) copies of the rules may be purchased and the place at which they may be purchased; and
@@ -4177,7 +4165,7 @@ A rule made under section 261B is a disallowable instrument, but not a legislati
 (1) Before a rule is made under section 261B, the Secretary—
   (a) must make copies of any material proposed to be incorporated by reference in the rule (or the proposed amendment to, or replacement of, material incorporated by reference in the rule) (the proposed material) available for inspection, free of charge, during working hours at the offices of the Secretary; and
   (b) must make copies of the proposed material available for purchase at a reasonable price; and
-  (c) must make copies of the proposed material available, free of charge, on an Internet site maintained by or on behalf of the Secretary, unless doing so would infringe copyright; and
+  (c) must make copies of the proposed material available, free of charge, on the Secretary’s Internet site, unless doing so would infringe copyright; and
   (d) may make copies of the proposed material available in any way that the Secretary considers appropriate in the circumstances; and
   (e) must give notice in the Gazette stating—
     (i) that the proposed material is available for inspection during working hours and free of charge, the place at which it can be inspected, and the period during which it can be inspected; and
@@ -4192,7 +4180,7 @@ A rule made under section 261B is a disallowable instrument, but not a legislati
 (1) The Secretary—
   (a) must make the material referred to in subsection (2) available for inspection during working hours, free of charge, at the offices of the Secretary; and
   (b) must make copies of the incorporated material available for purchase at a reasonable price; and
-  (c) must make copies of the incorporated material available, free of charge, on an Internet site maintained by or on behalf of the Secretary, unless doing so would infringe copyright; and
+  (c) must make copies of the incorporated material available, free of charge, on the Secretary’s Internet site, unless doing so would infringe copyright; and
   (d) may make copies of the incorporated material available in any other way that the Secretary considers appropriate in the circumstances; and
   (e) must give notice in the Gazette stating—
     (i) that the material is incorporated in the rule and the date on which the rule was made; and
@@ -4205,6 +4193,23 @@ A rule made under section 261B is a disallowable instrument, but not a legislati
   (b) any amendment to, or replacement of, that material that is incorporated in the rule or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
   (c) if the material referred to in paragraph (a) is not in an official New Zealand language, as well as the material itself, an accurate translation of that material in an official New Zealand language.
 (3) A failure to comply with this section does not invalidate a rule that incorporates material by reference.
+
+**Rules establishing requirements of form**
+
+### 261I Secretary may make rules establishing requirements of form
+(1) The Secretary may make rules establishing requirements of form for information or documents that a local authority is required under this Act or any other Act to make publicly available or to provide to anyone.
+(2) The purposes for which rules may be made under subsection (1) are—
+  (a) to ensure that information or documents that a local authority is required to make publicly available are widely accessible, including to persons with disabilities:
+  (b) to ensure that information that a local authority is required to make publicly available is presented in a reusable format to facilitate collation or research.
+(3) Before making any such rules, the Secretary must—
+  (a) consult every local authority; and
+  (b) publish in the Gazette a notice of his or her intention to make the rules; and
+  (c) give interested persons a reasonable time, which must be specified in the notice, to make submissions on the proposal.
+(4) After making such rules, the Secretary must—
+  (a) make the rules available, at all reasonable times, on the Secretary’s Internet site; and
+  (b) give notice in the Gazette stating that the rules have been made and are available on the Secretary’s Internet site and specifying the Internet site address.
+(5) Rules made under this section are effective 28 days after the date on which the notice is given in the Gazette, or on any later date that is specified in the rules.
+(6) A rule made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ## Part 12 — Consequential amendments, repeals, revocations, transitional provisions, and savings
 
@@ -5965,7 +5970,7 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (b) Part 7 of the Local Government Official Information and Meetings Act 1987; and
   (c) the standing orders of the local authority.
 (4) A local authority must hold meetings at the times and places that it appoints.
-(5) Unless clause 22 applies, the chief executive must give notice in writing to each member of the time and place of a meeting—
+(5) Unless clause 22 or 22A applies, the chief executive must give notice in writing to each member of the time and place of a meeting—
   (a) not less than 14 days before the meeting; or
   (b) if the local authority has adopted a schedule of meetings, not less than 14 days before the first meeting on the schedule.
 (6) If a local authority adopts a schedule of meetings,—
@@ -5999,18 +6004,20 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (e) the election of the deputy mayor or deputy chairperson in accordance with clause 17.
 
 ### 22 Extraordinary meetings
-(1) Despite clause 19(4) to (6), if a resolution or requisition specifies the time and place at which the meeting is to be held and the general nature of the business to be brought before the meeting, a meeting may be called by—
+(1) Despite clause 19(4) to (6), an extraordinary meeting of a local authority may be called by—
   (a) a resolution of the local authority; or
-  (b) a requisition in writing delivered to the chief executive and signed by—
+  (b) requisition in writing delivered to the chief executive and signed by—
     (i) the mayor or chairperson; or
     (ii) not less than one-third of the total membership of the local authority (including vacancies).
-(2) Despite clause 19(4) to (6), if the business to be dealt with requires a meeting to be held at a time earlier than is allowed by the notice requirements specified in subclause (3), a meeting may be called by—
-  (a) the mayor or chairperson; or
-  (b) if the mayor or chairperson are unavailable, the chief executive.
-(3) Notice in writing of the time and place of the meeting called under subclause (1) and of the general nature of business must be given by the chief executive to each member of the local authority—
+(2) Notice in writing of the time and place of the meeting called under subclause (1) and of the general nature of business must be given by the chief executive to each member of the local authority—
   (a) at least 3 working days before the day appointed for the meeting; or
   (b) if the meeting is called by a resolution, within a lesser period of notice that is specified in the resolution, being not less than 24 hours.
-(4) Notice of the time and place of a meeting called under subclause (2) and of the matters in respect of which the meeting is being called must be given by the person calling the meeting or by another person on that person's behalf, by whatever means is reasonable in the circumstances, to each member of the local authority and to the chief executive at least 24 hours before the time appointed for the meeting.
+
+### 22A Emergency meetings
+(1) Despite clause 19(4) to (6), if the business to be dealt with requires a meeting to be held at a time earlier than is allowed by the notice requirements of clause 22(2)﻿(a) and it is not practicable to call the meeting by resolution, an emergency meeting may be called by—
+  (a) the mayor or chairperson; or
+  (b) if the mayor and chairperson are unavailable, the chief executive.
+(2) Notice of the time and place of an emergency meeting and of the matters in respect of which the emergency meeting is being called must be given by the person calling the meeting or by another person on that person’s behalf, by whatever means is reasonable in the circumstances, to each member of the local authority and to the chief executive at least 24 hours before the time appointed for the meeting.
 
 **Conduct of meetings**
 
@@ -6190,7 +6197,7 @@ For the purposes of clauses 32, 32A, and 32B, officer means—
   (g)
   (h) the power to adopt a remuneration and employment policy.
 (2) Nothing in this clause restricts the power of a local authority to delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority the power to do anything precedent to the exercise by the local authority (after consultation with the committee or body or person) of any power or duty specified in subclause (1).
-(3) A committee or other subordinate decision-making body, community board, or member or officer of the local authority may delegate any of its responsibilities, duties, or powers to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local authority or by the committee or body or person that makes the original delegation.
+(3) A committee or other subordinate decision-making body, community board, or member or officer of the local authority may delegate any of its responsibilities, duties, or powers to a subcommittee or to another committee or subordinate decision-making body, community board, or member or officer of the local authority, but, to avoid doubt, if doing so is itself a sub-delegation, the power to so delegate is subject to any conditions, limitations, or prohibitions imposed in connection with the primary delegation.
 (4) A committee, subcommittee, other subordinate decision-making body, community board, or member or officer of the local authority to which or to whom any responsibilities, powers, or duties are delegated may, without confirmation by the local authority or committee or body or person that made the delegation, exercise or perform them in the like manner and with the same effect as the local authority could itself have exercised or performed them.
 (5) A local authority may delegate to any other local authority, organisation, or person the enforcement, inspection, licensing, and administration related to bylaws and other regulatory matters.
 (6) A territorial authority must consider whether or not to delegate to a community board if the delegation would enable the community board to best achieve its role.
@@ -6488,7 +6495,7 @@ A long-term plan must include a local authority's revenue and financing policy a
 ### 11 Significance and engagement policy
 A long-term plan must contain—
   (a) a summary (or other description) of the local authority’s significance and engagement policy under section 76AA; and
-  (b) a reference to where the full policy can be found, which may be done by providing a link to the relevant document on an Internet site maintained by or on behalf of the local authority.
+  (b) a reference to where the full policy can be found, which may be done by providing a link to the relevant document on the local authority’s Internet site.
 
 ### 12 Forecast financial statements
 (1) A long-term plan must include, for each of the financial years covered by the plan, forecast financial statements for the local authority.
