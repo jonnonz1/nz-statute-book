@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-03-21_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2850,7 +2850,7 @@ Where a building-line restriction has been imposed under this Act or any former 
 (6) Subsections (2)﻿(b) and (3) to (5) do not apply to a declaration that gives effect to the provisions of an operative district plan under the Resource Management Act 1991.
 (7) Every person commits an offence who drives, rides, or parks any vehicle or rides any animal, or causes or permits any vehicle to be driven, ridden, or parked or any animal to be ridden, in contravention of a declaration (including a declaration modified by the Environment Court).
 (8) A declaration (including a modified declaration) may be revoked or varied by a subsequent declaration using the procedure in subsection (1), and that subsection applies with all necessary modifications.
-(9) For the purposes of subsection (1), the public notice required by section 83(1)﻿(e) of the Local Government Act 2002 must explain the right of appeal under subsection (3).
+(9) When the special consultative procedure is used for the purposes of subsection (1), the council must, in addition to the matters referred to in section 83(1)﻿(b)﻿(i) to (iii) of the Local Government Act 2002, ensure that an explanation of the right of appeal under subsection (3) is publicly available.
 (10) In this section,—
   - **parking** means the stopping or standing of a vehicle for any period
   - **road** does not include an access way
