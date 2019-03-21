@@ -1,5 +1,5 @@
 # Local Government Official Information and Meetings Act 1987
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-03-21_
 
 > An Act to make official information held by local authorities more freely available, to provide for proper access by each person to official information relating to that person which is held by local authorities, to provide for the admission of the public to meetings of local authorities, to protect official information held by local authorities and the deliberations of local authorities to the extent consistent with the public interest and the preservation of personal privacy, and to establish procedures for the achievement of those purposes
 
@@ -21,6 +21,7 @@ _Consolidation as at 2017-03-01_
       (i) any Act of Parliament; or
       (ii) any legislative instrument within the meaning of the Legislation Act 2012 made by Order in Council; and
     (b) in relation to section 54, includes any bylaw, standing order, or rule of procedure of any local authority
+  - **Internet site** , in relation to a particular local authority, means an Internet site that is maintained by, or on behalf of, the local authority and to which the public has free access
   - **local authority** —and, in both cases, includes—
     (a) for the purposes of Parts 1 to 6, means those local authorities and public bodies named or specified in Schedule 1; and
     (b) for the purposes of Parts 7 and 8, means those local authorities and public bodies named or specified in Schedule 1 or Schedule 2,—
@@ -42,14 +43,19 @@ _Consolidation as at 2017-03-01_
   - **personal information** means any official information held about an identifiable person
   - **prescribed amount** , in relation to any document or copy of any document provided pursuant to this Act, means the amount determined in accordance with regulations made under this Act
   - **presiding member** means the Chairman or presiding member of a local authority; and includes the Mayor of a borough; and also includes any person acting as the Chairman or presiding member of a local authority or of any committee or subcommittee of a local authority
-  - **publicly notified** means notified in some newspaper circulating in the district, or, where there is no such newspaper in general circulation, means notified on printed placards affixed to public places in the district
+  - **publicly notified** means made known by means of a notice that—
+    (a) is made publicly available, until any opportunity for review or appeal in relation to the matter notified has lapsed, on the local authority’s Internet site; and
+    (b) is published in at least—
+      (i) 1 daily newspaper circulating in the region or district of the local authority; or
+      (ii) 1 or more other newspapers that have a combined circulation in that region or district at least equivalent to that of a daily newspaper circulating in that region or district
   - **statutory officer** means a person—
     (a) holding or performing the duties of an office established by an enactment; or
     (b) performing duties expressly conferred on that person by virtue of that person's office by an enactment
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
-    (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
+    (b) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
+    (c) a day in the period commencing with 20 December in any year and ending with 10 January in the following year.
 (2)
 (3) Subject to subsection (4), information that is held by an officer or employee or member of a local authority in that person's capacity as such an officer or employee or member or in that person's capacity as a statutory officer shall be deemed to be held by the local authority of which that person is an officer or employee or member.
 (4) Nothing in subsection (3) applies in respect of any information that any officer or employee or member of a local authority would not hold but for that person's membership of, or connection with, a body other than a local authority, except where that membership or connection is in that person's capacity as such an officer or employee or member of that local authority or as a statutory officer.
@@ -509,8 +515,10 @@ The only provisions of this Part that apply to the following local authorities a
 ### 46 Meetings of local authorities to be publicly notified
 (1) Subject to subsection (2), every local authority shall, not more than 14 days and not less than 5 days before the end of every month, cause to be publicly notified a list of all meetings of that local authority scheduled to be held in the following month, together with the dates on which, and the times and places at which, those meetings are to be held.
 (2) Where any meeting of a local authority is to be held on or after the 21st day of any month, the local authority may, instead of causing that meeting to be publicly notified in accordance with subsection (1), cause that meeting to be publicly notified not more than 10 nor less than 5 working days before the day on which the meeting is to be held.
-(3) Where any extraordinary meeting of a local authority is called and notice of that meeting cannot be given in the manner required or permitted by this section, the local authority shall cause that meeting and the general nature of business to be transacted at that meeting to be publicly notified or otherwise advertised as soon as practicable before the meeting is to be held.
-(4) Where any extraordinary meeting of a local authority is called and notice of that meeting cannot be given in the manner required or permitted by subsection (3), the local authority or person calling the meeting must cause to be given such public notice of the meeting and the business to be transacted at the meeting as is reasonable in the circumstances.
+(3) If an extraordinary or emergency meeting of a local authority is called and cannot be publicly notified in the manner required or permitted by subsections (1) and (2), the local authority must cause that meeting and the general nature of business to be transacted at that meeting—
+  (a) to be publicly notified as soon as practicable before the meeting is to be held; or
+  (b) if it is not practicable to publish a notice in newspapers before the meeting, to be notified as soon as practicable on the local authority’s Internet site and in any other manner that is reasonable in the circumstances.
+(4)
 (5) No meeting of any local authority shall be invalid merely because that meeting was not publicly notified in accordance with this section.
 (6) Where a local authority becomes aware that any meeting of that local authority has not been publicly notified in accordance with this section, that local authority shall, as soon as practicable, give public notice that that meeting was not so notified, and shall, in that notice,—
   (a) state the general nature of the business transacted at that meeting; and
