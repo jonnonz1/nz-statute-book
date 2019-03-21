@@ -1,5 +1,5 @@
 # Dog Control Act 1996
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-03-21_
 
 > An Act—ato make better provision for the control of dogs; andbto make better provision in relation to damage caused by dogs; andcto repeal the Dog Control and Hydatids Act 1982 and its amendments
 
@@ -9,13 +9,7 @@ _Consolidation as at 2017-03-01_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **disability assist dog** means a dog certified by one of the following organisations as being a dog trained to assist (or as being a dog in training to assist) a person with a disability:
-    (a) Hearing Dogs for Deaf People New Zealand:
-    (b) Mobility Assistance Dogs Trust:
-    (c) New Zealand Epilepsy Assist Dogs Trust:
-    (d) Royal New Zealand Foundation of the Blind:
-    (e) Top Dog Companion Trust:
-    (f) an organisation specified in an Order in Council made under section 78D
+  - **disability assist dog** means a dog certified by one of the organisations listed in Schedule 5 as being a dog that has been trained (or is being trained) to assist a person with a disability
   - **district** means the district of a territorial authority
   - **dog control fee** means any fee prescribed under section 37
   - **dog control officer** means a dog control officer appointed under section 11; and includes a warranted officer exercising powers under section 17
@@ -194,12 +188,10 @@ All money received and retained by a territorial authority under this Act shall 
   (e) the number of infringement notices issued by the territorial authority:
   (f) the number of dog related complaints received by the territorial authority in the previous year and the nature of those complaints:
   (g) the number of prosecutions taken by the territorial authority under this Act.
-(3) The territorial authority must give public notice of the report—
-  (a) by means of a notice published in—
-    (i) 1 or more daily newspapers circulating in the territorial authority district; or
-    (ii) 1 or more other newspapers that have at least an equivalent circulation in that district to the daily newspapers circulating in that district; and
-  (b) by any means that the territorial authority thinks desirable in the circumstances.
-(4) The territorial authority must also, within 1 month after adopting the report, send a copy of it to the Secretary for Local Government.
+(3) The territorial authority must—
+  (a) give public notice, as defined in section 5(1) of the Local Government Act 2002, of the report; and
+  (b) make the report publicly available, as described in section 5(3) of that Act.
+(4)
 
 **Dog control officers and dog rangers**
 
@@ -1237,9 +1229,11 @@ Notwithstanding anything in section 73 of the Public Finance Act 1989, the court
   (e) the classification and experience of the breed or type in any other country; and
   (f) any other matters that the Minister considers relevant.
 
-### 78D Regulations authorising organisation to certify dogs as disability assist dogs
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, specify an organisation as an organisation that may certify dogs as disability assist dogs.
-(2) The Minister must not make a recommendation under subsection (1) unless he or she has consulted the Minister for Disability Issues.
+### 78D Regulations amending Schedule 5
+(1) The Governor-General may, by Order in Council, amend Schedule 5 by—
+  (a) adding or removing the name of an organisation that is authorised to certify a dog as being a dog that has been trained (or is being trained) to assist a person with a disability; or
+  (b) amending an item in that schedule referring to an organisation.
+(2) Regulations under this section may be made only on the recommendation of the Minister after the Minister has consulted the Minister for Disability Issues.
 
 ### 79 Consequential amendments
 The enactments specified in Schedule 2 are hereby amended in the manner indicated in that schedule.
@@ -1284,6 +1278,8 @@ The enactments specified in Schedule 3 are hereby repealed.
 ## Schedule 3 — Enactments repealed
 
 ## Schedule 4 — Breed and type of dog subject to ban on importation and muzzling
+
+## Schedule 5 — Organisations authorised to certify dogs as disability assist dogs
 
 ### 1 Title
 (1) This Act is the Dog Control Amendment Act 2003.
