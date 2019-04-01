@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2019-01-21_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -1654,7 +1654,7 @@ A veteran’s pension commences on the later of—
   - **average wage** means the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by Statistics New Zealand before 1 March in each year (after the deduction of standard tax and the earner levy payable on those earnings)
   - **CPI** means the Consumers Price Index All Groups published by Statistics New Zealand
   - **earner levy** means the levy payable under section 219(1) of the Accident Compensation Act 2001
-  - **standard tax** means the amount of tax, calculated on a weekly basis, that would be deductible in accordance with tax code M specified in section 24B of the Tax Administration Act 1994.
+  - **standard tax** means the amount of tax, calculated on a weekly basis, that would be deductible in accordance with tax code M specified in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994.
 (3) Subject to subsections (5) and (6), the relationship rate, the single living alone rate, and the single sharing accommodation rate must be adjusted upwards to reflect any percentage movement upwards in the CPI between—
   (a) the CPI for the quarter that ends on 31 December 1 year before the immediately preceding 31 December; and
   (b) the CPI for the quarter that ends on the immediately preceding 31 December.
