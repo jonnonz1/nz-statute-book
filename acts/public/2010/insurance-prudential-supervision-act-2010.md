@@ -1,5 +1,5 @@
 # Insurance (Prudential Supervision) Act 2010
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the Insurance (Prudential Supervision) Act 2010.
@@ -281,8 +281,8 @@ In achieving the purposes of this Act, the Bank must take into account the follo
 (2) Associated person has a corresponding meaning.
 (3) For the purposes of this Act, a person is another person's holding entity if, and only if, that other person is its subsidiary.
 
-### 11 Application of Act to friendly societies and credit unions
-This Act applies to a friendly society or a credit union (as those terms are defined in section 2 of the Friendly Societies and Credit Unions Act 1982) as if the friendly society or credit union were a body corporate.
+### 11 Application of Act to friendly societies
+This Act applies to a friendly society (as that term is defined in section 2 of the Friendly Societies and Credit Unions Act 1982) as if the friendly society were a body corporate.
 
 **Bank's functions**
 
