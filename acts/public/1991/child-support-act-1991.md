@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-04-01_
 
 > Title
 
@@ -484,9 +484,7 @@ A parent's income percentage, in relation to a qualifying child, is the percenta
 (3)
 (4)
 (5)
-(6) If a person's taxable income for a tax year has not been assessed, the Commissioner must determine the person's taxable income,—
-  (a) if an income statement has been issued, on that basis; and
-  (b) in any other case, on the basis of the income and any other particulars known to the Commissioner.
+(6) If a person’s taxable income for a tax year has not been assessed, the Commissioner must determine the person’s taxable income on the basis of the income and any other particulars known to the Commissioner.
 (7) This section is subject to—
   (a) sections 38 to 39A (which relate to ascertaining taxable income, etc); and
   (b) sections 40AA to 44A (which permit elections for adjusted taxable income to be assessed using estimated taxable income).
@@ -977,7 +975,7 @@ In making an assessment of child support or domestic maintenance payable in rela
 ### 81 Notification requirements of parent
 (1) The Commissioner may, for the purposes of assessing the amount of child support payable under a formula assessment, by written notice given to a person who is a parent of a qualifying child, require that person—
   (a) to notify the Commissioner, in writing, of information relating to that person's living circumstances; and
-  (b) where that person is a taxpayer who meets the requirements of section 33AA(1) of the Tax Administration Act 1994 in respect of the last relevant tax year, to either—
+  (b) where that person is a taxpayer who derives no income other than reportable income described in section 22D(3) of the Tax Administration Act 1994 in respect of the last relevant tax year, to either—
     (i) supply a return of income for the last relevant tax year; or
     (ii) supply an estimate of the income derived in the last relevant tax year; or
     (iii) supply an estimate of the income expected to be derived in the child support year.
@@ -2853,9 +2851,9 @@ Where a person is required by a deduction notice to make periodic deductions fro
 Any person making a deduction or payment pursuant to a deduction notice shall be deemed to have been acting under the authority of the liable person to whom the notice relates and of all other persons concerned and is hereby indemnified in respect of the deduction or payment.
 
 ### 163 Payment of deductions to Commissioner
-(1) A payer who has, in any month, made any deduction under this Part from any money payable to a liable person shall, not later than the 20th day of the following month,—
-  (a) pay to the Commissioner every sum so deducted to the credit of the liable person; and
-  (b) supply to the Commissioner, in the approved form, the particulars required by the form.
+(1) A payer who has made a deduction under this Part from money payable to a liable person must—
+  (a) pay to the Commissioner the sum deducted to the credit of the liable person by the date required by section RD 4 of the Income Tax Act 2007; and
+  (b) provide the Commissioner with the employment income information referred to in section RD 22 of that Act and sections 23E to 23H and 23J of the Tax Administration Act 1994 by the date set out in that section.
 (2) The Commissioner may, by notice in writing to the payer, vary, in such instances and to such extent as the Commissioner thinks fit, the requirements of this section.
 
 ### 164 Discharge of liable person's liability to Commissioner and payer's liability to liable person
