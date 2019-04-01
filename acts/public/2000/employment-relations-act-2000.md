@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2018-12-12_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1206,21 +1206,35 @@ An employee is entitled to refuse to perform work in addition to any guaranteed 
 
 ### 69AA Object of this Part
 The object of this Part is to—
-  (a) provide employees with a statutory right to request a variation of their working arrangements; and
+  (a) provide employees with a statutory right to make, or to have made on their behalf, a request for a variation of their working arrangements (other than a variation covered by Part 6AB (flexible working short-term for people affected by domestic violence)); and
   (b) require an employer to deal with a request as soon as possible but not later than 1 month after receiving it; and
   (c) provide that an employer may refuse a request only if it cannot be accommodated on certain grounds; and
   (d) if an employer does not deal with a request in accordance with the process specified in this Part, provide for reference of the matter to a Labour Inspector, then to mediation, and then to the Authority.
 
 ### 69AAA Interpretation
 In this Part, unless the context otherwise requires,—
+  - **additional terms that need variation** , in relation to an employee, means 1 or more of the following:
+    (a) the location of the employee’s workplace:
+    (b) the employee’s duties at work:
+    (c) the extent of the contact details that the employee must provide to the employer:
+    (d) any other term of the employee’s employment—
+      (i) that is not a term covered by paragraphs (a) to (c) of this definition or by paragraphs (a) to (c) of the definition in this section of working arrangements; and
+      (ii) that, in the employee's view, needs variation to enable the employee to deal with the effects of being a person affected by domestic violence
+  - **child** has the meaning given to it in section 2 of the Domestic Violence Act 1995
+  - **domestic violence** has the meaning given to it in section 3 of the Domestic Violence Act 1995
   - **mediation** means mediation provided under section 144
-  - **request** means a written request made—
-    (a) under this Part; and
-    (b) by an employee to his or her employer to vary the employee's terms and conditions of employment relating to the employee's working arrangements
+  - **person affected by domestic violence** means a person who is 1 or both of the following:
+    (a) a person against whom any other person inflicts, or has inflicted, domestic violence:
+    (b) a person with whom there ordinarily or periodically resides a child against whom any other person inflicts, or has inflicted, domestic violence
+  - **request** means a request made under this Part that—
+    (a) is written; and
+    (b) requests an employer to vary an employee's terms and conditions of employment relating to the employee's working arrangements (other than by making a variation that the employee can request under Part 6AB (flexible working short-term for people affected by domestic violence)); and
+    (c) is made by the employee or on the employee's behalf
   - **working arrangements** , in relation to an employee, means 1 or more of the following:
     (a) hours of work:
     (b) days of work:
-    (c) place of work (for example, at home or at the employee's place of work).
+    (c) place of work (for example, at home or at the employee's place of work):
+    (d) if the employee is a person affected by domestic violence, additional terms that need variation.
 
 **Employee's statutory right to make request**
 
@@ -1302,6 +1316,139 @@ An employee may not challenge his or her employer's refusal of a request, or fai
 
 ### 69AAL Review of operation of Part after 2 years
 [Repealed]
+
+## Part 6AB — Flexible working short-term for people affected by domestic violence
+
+### 69AB Object of this Part
+The object of this Part is to—
+  (a) provide employees who are people affected by domestic violence with a statutory right to make, or to have made on their behalf, a request for a short-term (2-month or shorter) variation of their working arrangements (including any additional terms that need variation), for the purpose of assisting the employees to deal with the effects on the employees of being people affected by domestic violence; and
+  (b) require an employer to deal with a request as soon as possible but not later than 10 working days after receiving it; and
+  (c) provide that an employer may refuse a request only if proof of domestic violence is required and not produced, or the request cannot be accommodated reasonably on certain non-accommodation grounds; and
+  (d) if an employer does not deal with a request in accordance with this Part, provide for reference of the matter to a Labour Inspector, mediation, or the Authority.
+
+### 69ABA Interpretation
+In this Part, unless the context otherwise requires,—
+  - **additional terms that need variation** , in relation to an employee, means 1 or more of the following:
+    (a) the location of the employee’s workplace:
+    (b) the employee’s duties at work:
+    (c) the extent of the contact details that the employee must provide to the employer:
+    (d) any other term of the employee’s employment—
+      (i) that is not a term covered by paragraphs (a) to (c) of this definition or by paragraphs (a) to (c) of the definition in this section of working arrangements; and
+      (ii) that, in the employee's view, needs variation to enable the employee to deal with the effects of being a person affected by domestic violence
+  - **child** has the meaning given to it in section 2 of the Domestic Violence Act 1995
+  - **domestic violence** has the meaning given to it in section 3 of the Domestic Violence Act 1995
+  - **mediation** means mediation provided under section 144
+  - **non-compliance with section 69ABE** includes, without limitation, making a wrong determination under 1 or both of section 69ABF(1)﻿(a) and (b)
+  - **person affected by domestic violence** means a person who is 1 or both of the following:
+    (a) a person against whom any other person inflicts, or has inflicted, domestic violence:
+    (b) a person with whom there ordinarily or periodically resides a child against whom any other person inflicts, or has inflicted, domestic violence
+  - **request** means a request made under this Part that—
+    (a) is written; and
+    (b) requests an employer to vary an employee's terms and conditions of employment relating to the employee's working arrangements; and
+    (c) is made by the employee or on the employee's behalf
+  - **working arrangements** , in relation to an employee, means 1 or more of the following:
+    (a) hours of work:
+    (b) days of work:
+    (c) place of work (for example, at home or at the employee’s place of work):
+    (d) additional terms that need variation.
+
+**Employee’s statutory right to make request**
+
+### 69ABB When and why employee may make request
+(1) An employee who is a person affected by domestic violence may make a request—
+  (a) at any time; and
+  (b) for the purpose of assisting the employee to deal with the effects on the employee of being a person affected by domestic violence.
+(2) Subsection (1) applies regardless of how long ago the domestic violence occurred, and even if the domestic violence occurred before the person became an employee.
+(3) A request made under this Part for a short-term (2-month or shorter) variation of the employee’s working arrangements (as defined in section 69ABA) does not prevent a request also being made under Part 6AA by or on behalf of the employee for a permanent, or fixed-period longer than 2 months, variation under that Part of the employee’s working arrangements (as defined in section 69AAA).
+
+### 69ABC Requirements relating to request
+A request must be in writing and—
+  (a) state—
+    (i) the employee’s name; and
+    (ii) the date on which the request is made; and
+    (iii) that the request is made under this Part; and
+  (b) specify the variation of the working arrangements requested and the period of time (which must be no longer than 2 months) for which the variation is requested; and
+  (c) specify the date on which the employee proposes that the variation take effect and the date on which it is proposed that the variation end; and
+  (d) specify how, in the employee's view, the variation will assist the employee to deal with the effects of being a person affected by domestic violence; and
+  (e) explain, in the employee’s view, what changes, if any, the employer may need to make to the employer's arrangements if the employee's request is approved.
+
+**Duties of employer**
+
+### 69ABE Employer must notify decision as soon as possible
+(1) An employer must deal with a request as soon as possible, but not later than 10 working days after receiving it, and must notify the employee in writing of whether his or her request has been approved or refused.
+(2) In or before giving the notification under subsection (1), the employer must provide the employee with information about appropriate specialist domestic violence support services.
+(3) If the employer refuses an employee’s request, the notification given under subsection (1) must—
+  (a) state that the request is refused because of 1 or both grounds specified in section 69ABF(1)﻿(a) and (b); and
+  (b) state the ground or grounds for refusal; and
+  (c) explain the reasons for that ground or those grounds.
+
+### 69ABEA Proof of domestic violence
+(1) An employer may require proof that an employee is a person affected by domestic violence to be produced—
+  (a) to the employer; and
+  (b) by or on behalf of an employee; and
+  (c) for the purposes of a request made by or on behalf of the employee; and
+  (d) as soon as practicable after that proof is required by the employer under this section; and
+  (e) within 10 working days after the employer receives the request.
+(2) However, the employer may require proof of that kind only if—
+  (a) the employer informs the employee as early as possible that the proof is required; and
+  (b) the employer requires the proof within 3 working days after the employer receives the request.
+
+### 69ABF Grounds for refusal of request by employer
+(1) An employer may refuse a request only if the employer determines 1 or both of the following:
+  (a) that proof required to be produced under section 69ABEA was not produced within 10 working days after the employer receives the request:
+  (b) that the request cannot be accommodated reasonably on 1 or more of the non-accommodation grounds specified in subsection (2).
+(2) The non-accommodation grounds are—
+  (a) inability to reorganise work among existing staff:
+  (b) inability to recruit additional staff:
+  (c) detrimental impact on quality:
+  (d) detrimental impact on performance:
+  (e) insufficiency of work during the periods the employee proposes to work:
+  (f) planned structural changes:
+  (g) burden of additional costs:
+  (h) detrimental effect on ability to meet customer demand.
+(3) An employer must not refuse a request just because—
+  (a) the request is from an employee who is bound by a collective agreement; and
+  (b) the request relates to working arrangements to which the collective agreement applies; and
+  (c) the employee’s working arrangements would be inconsistent with the collective agreement if the employer were to approve the request.
+
+**Resolving disputes**
+
+### 69ABG Employee has choice of procedure at initial stage
+(1) This section applies if an employee believes that the employee’s employer has not complied with section 69ABE.
+(2) The employee may do 1 of the following:
+  (a) refer the matter to a Labour Inspector who must, to the extent practicable in the circumstances, assist the employee and employer to resolve the matter; or
+  (b) refer the matter to mediation, at which the matter is treated as an employment relationship problem; or
+  (c) apply to the Authority for a determination as to whether the employer has complied with section 69ABE.
+(3) A reference or application under subsection (2)﻿(a), (b), or (c) must be made within 6 months after the relevant date.
+(4) In subsection (3), relevant date means,—
+  (a) if the employer notifies a refusal within 10 working days after receiving a request, the date on which the employer notifies the employee of the employer’s refusal; or
+  (b) in any other case, the date that is 10 working days after the employer receives the employee’s request.
+
+### 69ABH Mediation after initial reference to Labour Inspector
+(1) This section applies if the employee is dissatisfied with the result of the reference under section 69ABG(2)﻿(a) to a Labour Inspector.
+(2) The employee may refer the matter to mediation, at which the matter is treated as an employment relationship problem.
+(3) A reference under subsection (2) must be made within 6 months after the earlier of—
+  (a) the date when the result of the reference first became known to the employee; or
+  (b) the date when the result of the reference should reasonably have become known to the employee.
+
+### 69ABI Application to Authority after initial or later reference to mediation
+(1) This section applies if the employee is dissatisfied with the result of the reference under section 69ABG(2)﻿(b) or 69ABH(2) to mediation.
+(2) The employee may apply to the Authority for a determination as to whether the employer has complied with section 69ABE.
+(3) An application under subsection (2) must be made within 6 months after the earlier of—
+  (a) the date when the result of the reference first became known to the employee; or
+  (b) the date when the result of the reference should reasonably have become known to the employee.
+
+### 69ABJ Penalty
+(1) An employer who does not comply with section 69ABE is liable to a penalty under this Act imposed by the Authority.
+(2) The penalty is payable to the employee concerned.
+(3) For the purposes of the 6-month time limit in section 135(5), the date on which the cause of action for the recovery of the penalty first became known to the employee, or should reasonably have become known to the employee, must be taken to be a date after, as the case requires,—
+  (a) the relevant date under section 69ABG(3); or
+  (b) the applicable date under section 69ABI(3)﻿(a) or (b).
+
+### 69ABK Limitation on challenging employer
+An employee may challenge his or her employer’s refusal of a request, or failure to respond to a request, only—
+  (a) if the employee believes his or her employer has not complied with section 69ABE; and
+  (b) to the extent provided by sections 69ABG to 69ABJ.
 
 ## Part 6A — Continuity of employment if employees' work affected by restructuring
 
@@ -1604,7 +1751,7 @@ To avoid doubt, any failure by an employee's employer to comply with the obligat
 (1) The employment of an employee who elects to transfer to a new employer is to be treated as continuous, including for the purpose of service-related entitlements whether legislative or otherwise.
 (2) To avoid doubt, and without limiting subsection (1),—
   (a) in relation to an employee's entitlements under the Holidays Act 2003,—
-    (i) the period of employment of an employee with the employer that ends with the transfer must be treated as a period of employment with the new employer for the purpose of determining the employee's entitlement to annual holidays, sick leave, and bereavement leave; and
+    (i) the period of employment of an employee with the employer that ends with the transfer must be treated as a period of employment with the new employer for the purpose of determining the employee's entitlement to annual holidays, sick leave, bereavement leave, and domestic violence leave; and
     (ii) the employer must not pay the employee for annual holidays not taken before the date of transfer; and
     (iii) the new employer must recognise the employee's entitlement to—
       (A) any sick leave, including any sick leave carried over under section 66 of that Act, not taken before the date of transfer; and
@@ -2548,6 +2695,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (b) that the employee's employment, or 1 or more conditions of the employee's employment (including any condition that survives termination of the employment), is or are or was (during employment that has since been terminated) affected to the employee's disadvantage by some unjustifiable action by the employer; or
   (c) that the employee has been discriminated against in the employee's employment; or
   (d) that the employee has been sexually harassed in the employee's employment; or
+  (da) that the employee has been treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence; or
   (e) that the employee has been racially harassed in the employee's employment; or
   (f) that the employee has been subject to duress in the employee's employment in relation to membership or non-membership of a union or employees organisation; or
   (g) that the employee's employer has failed to comply with a requirement of Part 6A; or
@@ -2651,6 +2799,14 @@ An employee who believes that he or she has a personal grievance may pursue that
     (iii) physical behaviour of a sexual nature,—
 (2) For the purposes of sections 103(1)﻿(d) and 123(d), an employee is also sexually harassed in that employee's employment (whether by a co-employee or by a client or customer of the employer), if the circumstances described in section 117 have occurred.
 
+### 108A Adverse treatment in employment of people affected by domestic violence
+(1) For the purposes of sections 103(1)﻿(da) and 123(1)﻿(d), an employee is treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence if, on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence (as that term is defined in section 69ABA), that employee’s employer or a representative of that employer—
+  (a) dismisses that employee, in circumstances in which other employees employed by that employer on work of that description are not or would not be dismissed; or
+  (b) refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially the same qualifications, experience, or skills employed in the same or substantially similar circumstances; or
+  (c) subjects that employee to any detriment, in circumstances in which other employees employed by that employer on work of that description are not or would not be subjected to such detriment; or
+  (d) retires that employee, or requires or causes that employee to retire or resign.
+(2) Subsection (1) applies regardless of how long ago the domestic violence occurred or is suspected or assumed or believed to have occurred, and even if the domestic violence occurred or is suspected or assumed or believed to have occurred before the person became an employee.
+
 ### 109 Racial harassment
 For the purposes of sections 103(1)﻿(e) and 123(d), an employee is racially harassed in the employee's employment if the employee's employer or a representative of that employer uses language (whether written or spoken), or visual material, or physical behaviour that directly or indirectly—
   (a) expresses hostility against, or brings into contempt or ridicule, the employee on the ground of the race, colour, or ethnic or national origins of the employee; and
@@ -2690,7 +2846,7 @@ For the purposes of sections 103(1)﻿(e) and 123(d), an employee is racially ha
   (b) detriment includes anything that has a detrimental effect on the employee’s employment, job performance, or job satisfaction.
 
 ### 111 Definitions relating to personal grievances
-Each of the terms personal grievance, discrimination, sexual harassment, racial harassment, duress, and adverse conduct for prohibited health and safety reason have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 109, 110, and 110A unless the employment agreement gives an extended meaning to the term.
+Each of the terms personal grievance, discrimination, sexual harassment, adverse treatment in employment of people affected by domestic violence, racial harassment, duress, and adverse conduct for prohibited health and safety reason have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 108A, 109, 110, and 110A unless the employment agreement gives an extended meaning to the term.
 
 ### 112 Choice of procedures
 (1) Where the circumstances giving rise to a personal grievance by an employee are also such that that employee would be entitled to make a complaint under the Human Rights Act 1993, the employee may take 1, but not both, of the following steps:
@@ -2770,9 +2926,9 @@ Nothing in this Part or in any employment agreement prevents a finding that a pe
     (i) humiliation, loss of dignity, and injury to the feelings of the employee; and
     (ii) loss of any benefit, whether or not of a monetary kind, which the employee might reasonably have been expected to obtain if the personal grievance had not arisen:
   (ca) if the Authority or the court finds that any workplace conduct or practices are a significant factor in the personal grievance, recommendations to the employer concerning the action the employer should take to prevent similar employment relationship problems occurring:
-  (d) if the Authority or the court finds an employee to have been sexually or racially harassed in his or her employment, recommendations to the employer—
-    (i) concerning the action the employer should take in respect of the person who made the request or was guilty of the harassing behaviour, which action may include the transfer of that person, the taking of disciplinary action against that person, or the taking of rehabilitative action in respect of that person:
-    (ii) about any other action that it is necessary for the employer to take to prevent further harassment of the employee concerned or any other employee.
+  (d) if the Authority or the court finds an employee to have been sexually or racially harassed in the employee’s employment, or treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence, recommendations to the employer—
+    (i) concerning the action the employer should take in respect of the person who made the request referred to in section 108(1)﻿(a) or was guilty of the harassing behaviour or of the adverse treatment on that ground, which action may include the transfer of that person, the taking of disciplinary action against that person, or the taking of rehabilitative action in respect of that person:
+    (ii) about any other action that it is necessary for the employer to take to prevent further harassment, or adverse treatment on that ground, of the employee concerned or any other employee.
 (2) When making an order under subsection (1)﻿(b) or (c), the Authority or the court may order payment to the employee by instalments, but only if the financial position of the employer requires it.
 
 ### 124 Remedy reduced if contributing behaviour by employee
@@ -2901,7 +3057,7 @@ In determining an appropriate penalty for a breach referred to in section 133, t
 (4) In any claim for a penalty the Authority or the court may give judgment for the total amount claimed, or any amount, not exceeding the maximum specified in subsection (2), or the Authority or the court may dismiss the action.
 (4A) The Authority or the court may order payment of a penalty by instalments, but only if the financial position of the person paying the penalty requires it.
 (4B) In determining whether to give judgment for a penalty, and the amount of that penalty, the Authority or the court must consider whether the person against whom the penalty is sought has previously failed to comply with an improvement notice issued under section 223D.
-(5) An action for the recovery of a penalty under this Act must be commenced within 12 months after the earlier of—
+(5) An action for the recovery of a penalty under this Act must be commenced within 12 months or, for a penalty for non-compliance with section 69ABE, within 6 months after the earlier of—
   (a) the date when the cause of action first became known to the person bringing the action; or
   (b) the date when the cause of action should reasonably have become known to the person bringing the action.
 (6) Despite subsection (5), if a court refuses to make a pecuniary penalty order under section 142E, an action for the recovery of a penalty under this Act in relation to the same matter must be commenced within 3 months after the refusal.
@@ -2919,7 +3075,7 @@ The chief executive or a Labour Inspector may recover in the District Court as a
 (1) This section applies where any person has not observed or complied with—
   (a) any provision of—
     (i) any employment agreement; or
-    (ii) Parts 1, 3 to 6, 6A (except subpart 2), 6B, 6C, 6D, 7, and 9; or
+    (ii) Parts 1, 3 to 6, 6AB, 6A (except subpart 2), 6B, 6C, 6D, 7, and 9; or
     (iii) any terms of settlement or decision that section 151 provides may be enforced by compliance order; or
     (iiia) an enforceable undertaking that section 223C(1) provides may be enforced by compliance order; or
     (iiib) an improvement notice that section 223D(6) provides may be enforced by compliance order; or
@@ -3531,8 +3687,10 @@ If a matter before the Authority relates principally to an alleged breach of emp
   (ca) facilitating bargaining under sections 50A to 50I:
   (cb) fixing the provisions of a collective agreement under section 50J:
   (cba)
-  (cc) determining whether an employer has complied with section 69AAE:
+  (cc)
   (d) matters alleged to arise under section 68 because a party to an individual employment agreement has bargained unfairly:
+  (daa) determining whether an employer has complied with section 69AAE:
+  (dab) determining whether an employer has complied with section 69ABE (including, without limitation, whether the employer has avoided non-compliance with section 69ABE, as that term is defined in section 69ABA):
   (da) investigating bargaining under section 69O and, if necessary, determining redundancy entitlements under that section:
   (e) personal grievances:
   (f) matters about whether the good faith obligations imposed by this Act (including those that apply where a union and an employer bargain for a collective agreement) have been complied with in a particular case:
@@ -3806,11 +3964,11 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
   (b) under section 50J.
 (2) A party may not elect, under section 179(1), to have the matter heard by the court unless the matter is whether 1 or more of the grounds in section 50C(1) or section 50J(3) exist.
 
-### 179B Limitations on consideration by Employment Court of matters arising under Part 6AA
-(1) This section applies to an investigation by, or determination of, the Authority under Part 6AA.
-(2) The Authority may not refer a question of law to the court under section 177 if the question of law arises during an investigation of the Authority under Part 6AA.
-(3) No matter, or part of a matter, may be removed to the court under section 178 if the matter, or the part of the matter, arises under Part 6AA.
-(4) No party who is dissatisfied with a determination, or any part of a determination, of the Authority under Part 6AA may elect, under section 179, to have the matter heard by the court.
+### 179B Limitations on consideration by Employment Court of matters arising under Part 6AA or 6AB
+(1) This section applies to an investigation by, or determination of, the Authority under Part 6AA or 6AB.
+(2) The Authority may not refer a question of law to the court under section 177 if the question of law arises during an investigation of the Authority under Part 6AA or 6AB.
+(3) No matter, or part of a matter, may be removed to the court under section 178 if the matter, or the part of the matter, arises under Part 6AA or 6AB.
+(4) No party who is dissatisfied with a determination, or any part of a determination, of the Authority under Part 6AA or 6AB may elect, under section 179, to have the matter heard by the court.
 
 ### 179C Limitations on consideration by Employment Court of matters arising under section 30D of Parental Leave and Employment Protection Act 1987
 (1) This section applies to a reference to the Authority under section 30I of the Parental Leave and Employment Protection Act 1987 for a determination as to whether the employer has complied with section 30D of that Act.
@@ -4751,6 +4909,21 @@ Repeal of section 237A
 
 ### 4 Application, savings, and transitional provision arising from 2016 (No 2) Act
 A person holding office as a temporary Judge under section 207 immediately before the commencement of this clause continues to hold office on the same terms as if he or she were appointed as an acting Judge under section 207.
+
+### Part 1A — Provisions relating to Part 1 of Domestic Violence—Victims' Protection Act 2018
+
+### 4A Interpretation
+In this Part, 2018 Part means Part 1 of the Domestic Violence—Victims' Protection Act 2018.
+
+**Provisions relating to flexible working short-term for people affected by domestic violence**
+
+### 4B Application to pre-commencement domestic violence
+Part 6AB applies even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
+
+**Provisions relating to adverse treatment in employment of people affected by domestic violence**
+
+### 4C Application to pre-commencement domestic violence
+Sections 103(1)﻿(da), 108A, 111, and 123(1)﻿(d) apply even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
 
 ### Part 2 — Provisions relating to Employment Relations Amendment Act 2018
 
