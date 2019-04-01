@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018.
@@ -2104,7 +2104,7 @@ Part 3 amends the Tax Administration Act 1994.
 (3) Repeal the definition of dividend treated as interest.
 (4) In the definition of employee, replace section 46(7) with section 23L(6).
 (5) Insert, in appropriate alphabetical order:
-  - **employment income information** is defined in section 23C for the purposes of subpart 3C, sections 15L, 23, 36, 47, 80D, 139A, 139AA(4), 141AA, 141ED, 142, 142G, and 227C, and schedules 3 and 4
+  - **employment income information** is defined in section 23C for the purposes of subpart 3C, sections 23, 36, 47, 80D, 124Q, 139A, 139AA(4), 141AA, 141ED, 142, 142G, and 227C, and schedules 3 and 4
 (6) Insert, in appropriate alphabetical order:
   - **ESS deferral date** has the meaning given by section CE 2(9) of the Income Tax Act 2007
 (7) In the definition of exempt person, replace section 27(1) with section 27(2).
@@ -2171,8 +2171,8 @@ In section 15F(2), replace ; or with ; and in each place where it appears.
 [Repealed]
 
 ### 267 Section 15L amended (Amended monthly schedules)
-(1) In section 15L, replace the section heading with Amended employment income information.
-(2) In section 15L, replace make an amended monthly schedule relating to the employee and a pay period with provide the amended employment income information relating to the employee and a payday.
+(1) In section 124Q, replace the section heading with Amended employment income information.
+(2) In section 124Q, replace make an amended monthly schedule relating to the employee and a pay period with provide the amended employment income information relating to the employee and a payday.
 
 ### 268 Section 15M repealed (Subsidy claim forms)
 [Repealed]
