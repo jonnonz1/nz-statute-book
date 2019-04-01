@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2019-04-01_
 
 > An Act to reform the administration of education
 
@@ -7508,7 +7508,7 @@ In this Part of this Act, unless the context otherwise requires,—
 (3E) Every adjustment made under subsection (3B) comes into force, or is considered to have come into force, on 1 April of the calendar year in which it is made, and applies to student allowances payable on and after that date.
 (3F) In this section,—
   - **CPI** means the consumers price index-all groups published by Statistics New Zealand
-  - **standard tax** means the amount of tax reckoned on a weekly basis that would be withholdable in accordance with tax code M stated in section 24B of the Tax Administration Act 1994.
+  - **standard tax** means the amount of tax reckoned on a weekly basis that would be withholdable in accordance with tax code M stated in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994.
 (4) The power to make regulations under subsection (1) includes (and is deemed always to have included) power to make regulations—
   (a) authorising the Secretary, for the purposes of assessing the eligibility of any person for an allowance, to take into account the income of that person's parents or spouse or partner:
   (b) defining the terms parent, spouse, partner, and any related terms, for the purposes of the regulations:
