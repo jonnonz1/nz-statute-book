@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -38,7 +38,9 @@ _Consolidation as at 2019-03-18_
     (b) whose members—
       (i) typically provide trustee services in the course of their business activities:
       (ii) satisfy other criteria acceptable to the Commissioner; and
+    - **approved research and development cap** means the approved research and development cap described in section 68CD
     (c) that has been approved by the Commissioner for the purposes of this definition
+  - **approved research provider** means an approved research provider described in section 124ZH
   - **arrangement** —
     (a) means a contract, agreement, plan or understanding, whether enforceable or unenforceable, including all steps and transactions by which it is carried into effect:
     (b) for the purpose of Part 5A, includes facts that the Commissioner considers are material or relevant as background or context to a private or a product ruling
@@ -177,12 +179,14 @@ _Consolidation as at 2019-03-18_
   - **earnings as a shareholder-employee** is defined in schedule 7, part C, subpart 2, clause 42(3) for the purposes of that clause
   - **earnings-related compensation** is defined in schedule 7, part C, subpart 2, clause 41(9) for the purposes of that clause
   - **employee** —
-    (a) is defined in section 46(7) for the purposes of that section:
+    (a) is defined in section 23L(6) for the purposes of that section:
     (b) is defined in section 143E(5) for the purposes of that section
   - **employer** —
     (a) in section 47, has the same meaning as in paragraphs (c) and (d) of the definition of that term in section YA 1 of the Income Tax Act 2007:
     (b) is defined in schedule 7, part C, subpart 2, clause 42(3) for the purposes of that clause
+  - **employment income information** is defined in section 23C for the purposes of subpart 3C, sections 23, 36, 47, 80D, 124Q, 139A, 139AA(4), 141AA, 141ED, 142, 142G, and 227C, and schedules 3 and 4
   - **encumbrance** , in respect of an estate or interest in land, means any trust, contract, easement, condition, or contingency affecting the same, and any restriction, however imposed, on the owner's power of user, alienation, or disposition
+  - **ESS deferral date** has the meaning given by section CE 2(9) of the Income Tax Act 2007
   - **exceptional circumstance** —
     (a) is defined in section 89K(3) for the purposes of that section:
     (b) is defined in section 89L(3) for the purposes of that section:
@@ -194,6 +198,7 @@ _Consolidation as at 2019-03-18_
   - **family scheme** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **family trust** is defined in section 173M(5) for the purpose of that section
   - **FATCA agreement** means the Agreement between the Government of New Zealand and the Government of the United States of America to Improve International Tax Compliance and to Implement FATCA, commonly known as the intergovernmental agreement, which was brought into force for New Zealand by the Double Tax Agreements (United States of America—FATCA) Order 2014 (LI 2014/209), as amended from time to time
+  - **final account** , for an individual and a tax year, is defined in section 22D(6) for the purposes of Part 3, subpart 3B, sections 4A, 33, 37, 38, 42C, 89D, 106, 110, and 143, and the definitions of tax return and taxpayer’s tax position
   - **fines defaulter** is defined in schedule 7, part C, subpart 2, clause 43(8) for the purposes of that clause
   - **fines defaulter information** is defined in schedule 7, part C, subpart 2, clause 43(8) for the purposes of that clause
   - **first payment period** , in section 47 and 173, has the same meaning as in section YA 1 of the Income Tax Act 2007
@@ -203,7 +208,7 @@ _Consolidation as at 2019-03-18_
   - **full and complete inspection** —
     (a) includes use as evidence in court proceedings:
     (b) does not include removal to make copies under sections 17C and 17D
-  - **gift-exempt body** , in sections 32, 58, and 89, means—
+  - **gift-exempt body** , in sections 18K, 32, and 58, means—
     (a) any society, institution, association, organisation, trust, or fund specifically named in Schedule 32 of the Income Tax Act 2007; or
     (b) any other person issued with an RWT exemption certificate under section 32E as a result of an application made claiming the basis for exemption set out in section 32E(2)﻿(k) or (l), in relation to any tax year in which such person holds the certificate
   - **government agency** , in section 6, includes any department or Crown entity (as those terms are defined in the Public Finance Act 1989) and any public authority (as defined in the Income Tax Act 2007)
@@ -218,9 +223,10 @@ _Consolidation as at 2019-03-18_
   - **hearing authority** means—
     (a) a Taxation Review Authority; or
     (b) the High Court
-  - **income statement** means a statement issued by the Commissioner to a natural person that contains the information required by section 80E
+  - **income other than reportable income** , for the purposes of Part 3, subpart 3B and the definition of tax position, has the same meaning as other income
   - **income tax** is defined in section 157(10) for the purposes of that section
   - **incremental late payment penalty** means a late payment penalty imposed under section 139B(2)﻿(b)
+  - **individual** , for a person, is defined in section 22D(1) of the Tax Administration Act 1994 for the purposes of Part 3, subpart 3B, sections 22, 33, 37, 38, 42C, 89D, 92, 106, 110, 143, and 227G, and schedule 8, and the definitions of final account, pre-populated account, tax return, and taxpayer’s tax position
   - **inflation-indexed instrument** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **inform** , for a mode of communication, has the meaning set out in section 14B
   - **information** , for the purpose of Part 11B, includes a self-certification
@@ -273,6 +279,10 @@ _Consolidation as at 2019-03-18_
     (b) is treated by the Commissioner as a nominated person; and
     (c) does not later have their status as a nominated person disallowed by the Commissioner
   - **non-exempt person** is defined in section 53(1) for the purposes of that section and section 27
+  - **non-filing taxpayer** , for a person and a tax year, means—
+    (a) a person whose only income having a source in New Zealand for the tax year is a schedular payment derived in their capacity as a non-resident entertainer and who chooses not to file a return of income for the tax year; or
+    (b) a person who for the tax year, derives only non-resident passive income referred to in section RF 2(3) of the Income Tax Act 2007; or
+    (c) a person whose only income having a source in New Zealand for the tax year is a payment derived in their capacity as a non-resident seasonal worker
   - **non-qualifying objection** , for the purposes of Part 8 and in relation to a person, being a taxpayer, and to any assessment, means an objection made by the person, to the assessment, in accordance with section 126 where, and to the extent that, any ground of objection stated by the person is that—
     (a) the return of income furnished by the taxpayer or the other particulars supplied together with the return of income, being the return and the other particulars from and by reference to which the assessment has been made, is deficient or, as the case may be, are deficient or insufficient; or
     (b) the assessment has been made, under section 106, in the absence of the return of income or the particulars from or by reference to which, had that return of income or those particulars been furnished to the Commissioner, the assessment would have been made
@@ -300,6 +310,7 @@ _Consolidation as at 2019-03-18_
   - **on time** , for the purposes of performing a tax obligation, means—
     (a) except if paragraph (b) applies, on or before the relevant due date:
     (b) if the Commissioner sets a new due date for performing the tax obligation, on or before the new due date
+  - **other income** is defined in section 22D(4) for the purposes of Part 3, subpart 3B, and section 141JA, and schedule 8
   - **outstanding tax** , in sections 139BA, 176, 177, 177A, 177B and 177C, means tax that is payable before or after a due date
   - **parental leave** is defined in schedule 7, part C, subpart 2, clause 46(2) for the purposes of that clause
   - **passive income** , in the application of the CRS applied standard to a person or entity for a period, means an amount that is not income from a transaction entered into in the ordinary course of the business of a dealer in financial assets and that is—
@@ -313,8 +324,10 @@ _Consolidation as at 2019-03-18_
     (h) the amount by which gains from the foreign currency transactions in the period exceed losses from the transactions:
     (i) the amount by which gains from the swaps in the period exceed losses from the swaps:
     (j) an amount received under a cash value insurance contract
+  - **payday** in subpart 3C and schedule 4, means the day on which an employer makes a PAYE income payment to an employee
   - **PAYE period** means or , as applicable
   - **payment** , in sections 67 and 120U, has a corresponding meaning to paragraph (a) of the definition of pay in section YA 1 of the Income Tax Act 2007
+  - **payroll software** is defined in section 23P for the purposes of that section and section 23F
   - **period of deferral** , in respect of deferrable tax, means the period that starts on the later of—and ends at the expiry of the day that, in relation to the deferrable tax, is the day of determination of final liability
     (a) the day on which the notice of an assessment of tax, to which a competent objection is made under Part 8 or in relation to which proceedings challenging the assessment are issued under Part 8A, is given to the taxpayer or the Commissioner; and
     (b) the day that immediately succeeds the due date for payment of the tax,—
@@ -326,6 +339,7 @@ _Consolidation as at 2019-03-18_
     (a) a petroleum permit under section YA 1 of the Income Tax Act 2007:
     (b) a replacement permit under section YA 1 of that Act
   - **policyholder net loss** , in section 112 of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **pre-populated account** , for an individual and a tax year, is defined in section 22D(5) for the purposes of Part 3, subpart 3B, sections 4A, 80KM, and 106, and section CX 27 of the Income Tax Act 2007
   - **prescribed** means prescribed by regulations under this Act or the Income Tax Act 2007 or by the Commissioner
   - **primary employment earnings** , for an employee and for a pay period, means a PAYE income payment that is not a schedular payment or an extra pay, when the payment meets one of the following requirements:
     (a) the payment is derived by the employee in the pay period from 1 employer:
@@ -345,7 +359,8 @@ _Consolidation as at 2019-03-18_
     (a) whether a fact is correct or exists:
     (b) what is a person’s purpose or intention, for the purpose of any provision of the Income Tax Act 2007 that expressly refers to a person's purpose or intention:
     (c) what is the value of a thing:
-    (d) what is commercially acceptable practice, for the purposes of any provision of that Act that expressly refers to commercially acceptable practice
+    (d) what is commercially acceptable practice, for the purposes of any provision of that Act that expressly refers to commercially acceptable practice:
+    (e) a question related to research and development tax credits under subpart LY of the Income Tax Act 2007
   - **provider of digital services** means a person who provides digital services to enable another person who is a user of the services to communicate information to, and receive information from, the Commissioner
   - **provisional tax associate** is defined in section 120KBB(4) for the purposes of Part 7
   - **provisional tax interest avoidance arrangement** is defined in section 120KBB(4) for the purposes of Part 7
@@ -353,6 +368,7 @@ _Consolidation as at 2019-03-18_
   - **provisional tax payable** is defined in section 139C
   - **provisional taxpayer** means a person who is liable to pay provisional tax under section RC 3 of the Income Tax Act 2007
   - **public services** is defined in section 18E(5) for the purposes of that section and sections 16B and 18F
+  - **qualifying individual** is defined in section 22D(2) for the purposes of Part 3, subpart 3B, sections 4A, 22, and 120C, in the definition of date interest starts, paragraph (a), and schedule 8
   - **ratio instalment date** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **reconciliation statement** means a reconciliation statement under section 49
   - **record** —
@@ -368,6 +384,7 @@ _Consolidation as at 2019-03-18_
     (b) the taxpayer and 1 other person jointly own 50% or more of the shares:
     (c) the taxpayer is a shareholder-employee, and the company satisfies paragraphs (a) and (c) of the definition of close company in section YA 1 of the Income Tax Act 2007
   - **relinquishment** , in section 91, has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **reportable income** is defined in section 22D(3) for the purposes of this Act and the Income Tax Act 2007
   - **reportable unpaid tax** is defined in schedule 7, part C, subpart 1, clause 33(12) for the purposes of that clause
   - **representative** means a person who—
     (a) is eligible under section 124D(2) to act as a representative; and
@@ -375,7 +392,7 @@ _Consolidation as at 2019-03-18_
     (c) does not later have their approval of representative status disallowed by the Commissioner
   - **request** , for a mode of communication, has the meaning set out in section 14B
   - **resident foreign trustee** means a person who,—
-    (a) either alone or jointly with another person, acts as a trustee of a foreign trust that is not registered as a charitable entity under the Charities Act 2005; and
+    (a) either alone or jointly with another person, acts as a trustee of a foreign trust; and
     (b) is resident in New Zealand within the meaning of section YD 1, YD 2, or YD 3 (excluding section YD 2(2)) of the Income Tax Act 2007
   - **residual income tax** —
     (a) is defined in section 120KB(4) for the purposes of Part 7:
@@ -405,11 +422,12 @@ _Consolidation as at 2019-03-18_
   - **sex offence** is defined in schedule 7, part C, subpart 2, clause 44(6) for the purposes of that clause
   - **shortfall penalty** means a penalty imposed under any of sections 141AA to 141K for taking an incorrect tax position or for doing or failing to do anything specified or described in those sections
   - **social security agreement** is defined in schedule 7, part C, subpart 2, clause 45(7) for the purposes of that clause
-  - **special tax code certificate** means a special tax code certificate under section 24F(1B)﻿(b)
-  - **special tax code notification** means a special tax code notification under section 24IB
   - **standard-cost household service** means a service that is a standard-cost household service under a determination that is made by the Commissioner under section 91AA
   - **START tax type** means—
+    (aa) income tax:
     (a) GST:
+    (ab) WFF tax credits:
+    (ac) tax credits under section 41A:
     (b) FBT:
     (c) RWT:
     (d) NRWT:
@@ -440,7 +458,7 @@ _Consolidation as at 2019-03-18_
       (viii) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 that does not relate to a compulsory employer contribution:
       (ix) financial support (as defined in section 2(1) of the Child Support Act 1991):
       (x) an end-of-year repayment obligation or an overseas-based repayment obligation (as those terms are defined in section 4(1) of the Student Loan Scheme Act 2011):
-      (xi) a tax credit under section 41A:
+      (xi)
       (xii) is a tax prescribed in section 173D:
       (xiii) the amount of a subsidy payable under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary:
       (xiv) a fee described in section 226C:
@@ -452,8 +470,8 @@ _Consolidation as at 2019-03-18_
       (iii) contributions administered by the Commissioner under the KiwiSaver Act 2006:
     (ca) for the purpose of Part 10B, includes—
       (i) financial support, as defined in section 2(1) of the Child Support Act 1991; and
-      (ii) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011; and
-      (iii) a tax credit referred to in section 41A:
+      (ii) a repayment obligation, as defined in section 4(1) of the Student Loan Scheme Act 2011:
+      (iii)
     (cb) for the purposes of sections 156 to 165, includes a combined tax and earner-related payment:
     (d) for the purpose of sections 176, 177, and 177A to 177D, means—but does not include—
       (i) a tax, levy or duty of any type imposed by a tax law, regardless of how the tax, levy or duty is described:
@@ -478,8 +496,7 @@ _Consolidation as at 2019-03-18_
     (a) is eligible under section 124C(3) to be a tax agent; and
     (b) is listed by the Commissioner as a tax agent; and
     (c) is not later removed by the Commissioner from the list of tax agents
-  - **tax code certificate** means a tax code certificate under section 24I(2)
-  - **tax code notification** means a tax code notification under section 24I(1)
+  - **tax code** is defined in section 24B(1)
   - **tax contextual information** is defined in section 20F(3)
   - **tax file number** means an identification number that the Commissioner allocates to a person
   - **tax form** means a form or document a taxpayer is required by a tax law—
@@ -505,13 +522,14 @@ _Consolidation as at 2019-03-18_
     (j) the balance of a tax account or memorandum account of any type or description, or a debit or credit to such an account:
     (k) the estimation of the provisional tax payable:
     (kb) the use of the AIM method for provisional tax and the software product of an approved AIM provider:
-    (l) whether the taxpayer must request an income statement or respond to an income statement issued by the Commissioner:
-    (m) the application of section 33AA:
+    (l) whether the taxpayer must provide information to the Commissioner on the income other than reportable income that they derive for a tax year:
+    (m) the application of Part 3, subpart 3B:
     (n) a right to a tax credit:
     (o) the amount of a subsidy claimed under section RP 4 of the Income Tax Act 2007 to a listed PAYE intermediary
   - **tax recovery agreement** is defined in section 173B
   - **tax return** —
     (a) means a form or document that a taxpayer is required to complete and return to the Commissioner whether provided in relation to a period or not; and
+    (ab) includes an individual’s final account that is treated under section 22I(1)﻿(a) as a return of income; and
     (b) includes a tax form issued by another taxpayer that the taxpayer provides to the Commissioner; but
     (bb) does not include a report required by section 185N to be provided to the Commissioner; and
     (c) does not include the prescribed form or electronic format under section 185K
@@ -531,7 +549,7 @@ _Consolidation as at 2019-03-18_
   - **taxpayer's tax position** means—
     (a) a tax position taken by a taxpayer in or in respect of—
       (i) a tax return; or
-      (ii) an income statement; or
+      (ii) an individual’s final account that is treated under section 22I(1)﻿(a) as a return of income; or
       (iii) a due date
     (b)
   - **taxpayer's total tax figure** is defined in section 141B for the purposes of that section
@@ -575,7 +593,7 @@ Except where there is express provision to the contrary,—For example, a refere
     (ii) paying, deducting, or withholding, or not paying, not deducting, or not withholding, an amount of tax; or
     (iii) being placed in the tax position,—
   (c) a provision referring to a tax position taken in a tax return refers to a tax position taken explicitly or implicitly in the tax return:
-  (ca) a provision referring to a tax position taken in an income statement refers to a tax position taken explicitly or implicitly in the income statement, whether or not the tax position was included by the Commissioner in the income statement:
+  (ca) a provision referring to a tax position taken under Part 3, subpart 3B refers to a tax position taken explicitly or implicitly in an individual’s final account for a tax year, whether or not the tax position arises from information included by the Commissioner in the individual’s pre-populated account:
   (d) a provision referring to a taxpayer's obligation to pay an amount of tax refers to the taxpayer's obligation to pay tax to the Commissioner:
   (e) a provision referring to a taxpayer's obligation to provide a tax return refers to the taxpayer's obligation to complete and provide the tax return to the Commissioner:
   (f) a provision referring to a taxpayer's obligation to provide a tax form refers to the taxpayer's obligation to complete and provide the tax form to the person entitled to it:
@@ -780,7 +798,7 @@ There shall continue to be a department of State, to be known as the Inland Reve
 (8) For the purposes of this section and section 14G, delivery by electronic means does not include a communication to a fax number.
 
 ### 14G Contact addresses
-For the purposes of section 14F(2) and (4), a person’s contact address may be 1 of the following:
+(1) For the purposes of section 14F(2) and (4), a person’s contact address may be 1 of the following:
   (a) for delivery by electronic means to a person who is not a corporate body,—
     (i) an email or other electronic address that they have provided:
     (ii) their last known email or other electronic address:
@@ -794,6 +812,7 @@ For the purposes of section 14F(2) and (4), a person’s contact address may be 
     (ii) the street address of any of their usual or last known places of business; or
     (iii) any other address of the person, if they have notified the Commissioner that they accept delivery at the address:
   (d) for delivery by fax, a fax number that has been provided or is otherwise available.
+(2) For the purposes of the delivery of income information, a person’s contact address is the address described in subsection (1)﻿(a) to (c).
 
 ## Part 2A — Taxpayer's tax obligations
 
@@ -809,9 +828,9 @@ A taxpayer must do the following:
   (d) keep all necessary information (including books and records) and maintain all necessary accounts or balances required under the tax laws:
   (e) disclose to the Commissioner in a timely and useful way all information (including books and records) that the tax laws require the taxpayer to disclose:
   (f) to the extent required by the Inland Revenue Acts, co-operate with the Commissioner in a way that assists the exercise of the Commissioner's powers under the tax laws:
-  (g) comply with all the other obligations imposed on the taxpayer by the tax laws:
-  (h) if a natural person to whom section 80C applies, inform the Commissioner that the person has not received an income statement for a tax year, if the income statement is not received by the date prescribed in section 80C(2) or (3):
-  (i) if the taxpayer is a natural person, correctly respond to any income statement issued to the taxpayer.
+  (g) comply with all the other obligations imposed on the taxpayer by the tax laws.
+  (h)
+  (i)
 
 ## Part 2B — Intermediaries for PAYE, provisional tax, and resident passive income
 
@@ -828,7 +847,7 @@ A taxpayer must do the following:
 
 ## Part 3 — Information, record-keeping, and returns
 
-### Subpart 3A — Collection, use, and disclosure of revenue information
+### Subpart 3A — Commissioner’s powers to obtain information
 
 **Commissioner's powers to obtain information**
 
@@ -1484,6 +1503,8 @@ An information holder who is required to disclose information in relation to a p
 ### 21BA Information required to be provided by large multinational group
 [Repealed]
 
+### Subpart 3AC — Taxpayers’ obligations to keep records
+
 **Taxpayer's obligations to keep records**
 
 ### 21B Preparing financial statements
@@ -1520,8 +1541,8 @@ An information holder who is required to disclose information in relation to a p
   (cb) is a person to whom the RSCT rules apply and who makes a retirement scheme contribution to a retirement savings scheme:
   (d) makes, holds, or disposes of, for the purpose of deriving assessable income, any investment:
   (e) is an employer to whom the FBT rules apply or is a person who provides any fringe benefit to any person who, in relation to any employer to whom the FBT rules apply, is an employee:
-  (eb) has a tax credit under section LH 2 of the Income Tax Act 2007:
-  (ec) is a listed research provider under section LH 15 of that Act:
+  (eb) has a tax credit under subpart LY of the Income Tax Act 2007:
+  (ec) is an approved research provider:
   (ed) is an employer to whom section RD 13B of that Act applies in relation to the treatment of a tax credit for a payroll donation:
   (f) is a company that is an ICA company, a BETA person, a PCA company, or a PCA person:
   (fb) is a resident foreign trustee of a foreign trust in any income year:
@@ -1535,11 +1556,11 @@ An information holder who is required to disclose information in relation to a p
   (j)
   (k) every credit and debit to the person’s memorandum accounts (other than an ASC account), and the amount of a credit attached to a dividend or distribution paid by the person:
   (kb)
-  (kc) the amount of the person's tax credit under section LH 2 of the Income Tax Act 2007; and
-  (kd) the person's compliance with section LH 15(1) of that Act, if the person is a listed research provider under section LH 15 of that Act, to show—
-    (i) they meet the start-up requirements and the other continuing requirements; and
-    (ii) the amounts derived and incurred by them in performing the research and development activities on behalf of other persons; and
-  (ke) the transfer under section 24Q of an amount of an employee's payroll donation to the recipient of the donation; and
+  (kc) the amount of the person's tax credit under subpart LY of the Income Tax Act 2007; and
+  (kd) if the person is an approved research provider, the following matters:
+    (i) ongoing compliance with section 124ZH(4); and
+    (ii) amounts derived and incurred by the person performing research and development activities on behalf of other persons; and
+  (ke) the transfer under section 169B of an amount of an employee's payroll donation to the recipient of the donation; and
   (l) every employer's superannuation cash contribution, and the taxable value of that contribution, made by the person to any superannuation fund, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the employer's superannuation cash contribution, the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007; and
   (lb) every retirement scheme contribution, and the taxable value of that contribution, made by the person to any retirement savings scheme, those records to include, without limiting the generality of the preceding provisions of this paragraph, details of the recipient of the retirement scheme contribution and the occasion of making it; and
   (lc) the person’s compliance with Part 11B; and
@@ -1554,7 +1575,7 @@ An information holder who is required to disclose information in relation to a p
     (ii) the record is kept by a person authorised by the Commissioner under subsection (8) to keep records for taxpayers that include the taxpayer.
 (2B) A taxpayer referred to in subsection (2)﻿(e) who is required by subsection (2) to retain records is not required to retain those records for a period of more than 7 years after the end of the income year to which the records relate.
 (2C) If there are more than 1 resident foreign trustee of a foreign trust, the resident foreign trustees may appoint one of themselves as an agent for the purposes of keeping the records required by subsection (2).
-(3) A taxpayer who meets the requirements of section 33AA(1), or is issued an income statement or required to request or be issued an income statement, and who is required by subsection (2) to retain records of income of that taxpayer from which tax has been withheld or deducted at source need retain those records only until the expiry of 12 months after the end of the income year in which the income was received by the taxpayer.
+(3) A qualifying individual who is required by subsection (2) to retain records of their assessable income, must retain those records for a period of 12 months after the end of the income year in which the individual derived the income.
 (4) This section shall not require the retention of any records—
   (a) in respect of which the Commissioner has given notice that retention is not required:
   (b) of a company which has been liquidated:
@@ -1591,6 +1612,27 @@ An information holder who is required to disclose information in relation to a p
   (c) withdraw the authorisation, upon request by the person or after giving reasonable notice of the withdrawal:
   (d) give public notice of an action under subsection (8)﻿(b) or this subsection, in a publication chosen by the Commissioner.
 
+### 22AA Records to be kept by employers and PAYE intermediaries
+(1) An employer who makes a PAYE income payment to an employee must keep proper records in English relating to the payment, the amount of tax withheld for the payment, and the other items of information set out in schedule 3, table 1, as required under this Act, the Child Support Act 1991, the KiwiSaver Act 2006, or the Student Loan Scheme Act 2011.
+(2) A person acting as a PAYE intermediary for an employer must keep proper records relating to their activity as a PAYE intermediary in relation to an employee of the employer.
+(3) An employer or PAYE intermediary must take reasonable steps to ensure the safe-keeping of their records for a period of not less than 7 years after the making of the payments to which the records relate, except to the extent to which—
+  (a) the Commissioner has notified the employer or PAYE intermediary that retention is not required; or
+  (b) the employer or PAYE intermediary has delivered the records to the Commissioner as required by this Act or the Income Tax Act 2007.
+(4) On application by the person, the Commissioner may authorise the keeping of records under this section in a language other than English.
+
+### 22AAC Keeping of returns where information transmitted electronically
+(1) Where information contained in a taxpayer's return has been transmitted by electronic means in the prescribed electronic format in accordance with section 36, the taxpayer shall retain or cause to be retained—
+  (a) the return in the form of—
+    (i) a signed hard-copy transcript of the information transmitted:
+    (ii) an electronic form meeting the requirements of section 229 of the Contract and Commercial Law Act 2017; and
+  (b) for a period of—
+    (i) 7 years after the end of the income year to which the return relates; or
+    (ii) a greater period that the Commissioner requires under section 22 for other records of the taxpayer, if the Commissioner gives the taxpayer notice of a further retention period under section 22(5).
+(2) This section does not require the retention of—
+  (a) a return for which the Commissioner has given notice that retention is not required; or
+  (b) a return of a company that has been liquidated; or
+  (c) employment income information that has been provided to the Commissioner.
+
 ### 22A Records required under subpart EW of Income Tax Act 2007
 (1) A taxpayer who applies section EW 18 of the Income Tax Act 2007 and who does not use a market approved by the Commissioner under section 90AC(1)﻿(c) must keep, in English, records sufficient to enable the Commissioner to verify that the market value adopted is reliable.
 (2) A taxpayer who applies section EW 26(2) of the Income Tax Act 2007 must keep, in English, records sufficient to enable the Commissioner to verify that their reason for changing spreading methods was a sound commercial one.
@@ -1613,223 +1655,517 @@ An information holder who is required to disclose information in relation to a p
   (a) take all reasonable precautions for the safe custody of those records; and
   (b) retain those records for as long as the trust exists.
 
-### 23 Keeping of returns where information transmitted electronically
-(1) Where information contained in a taxpayer's return has been transmitted by electronic means in the prescribed electronic format in accordance with section 36, the taxpayer shall retain or cause to be retained—
-  (a) the return in the form of—
-    (i) a signed hard-copy transcript of the information transmitted:
-    (ii) an electronic form meeting the requirements of section 229 of the Contract and Commercial Law Act 2017; and
-  (b) for a period of—
-    (i) 7 years after the end of the income year to which the return relates; or
-    (ii) a greater period that the Commissioner requires under section 22 for other records of the taxpayer, if the Commissioner gives the taxpayer notice of a further retention period under section 22(5).
-(2) This section does not require the retention of any return—
-  (a) in respect of which the Commissioner has given notice that retention is not required; or
-  (b) of a company that has been liquidated; or
-  (c) that is an employer monthly schedule.
+### Subpart 3B — Reporting of income information by individuals
+
+### 22C Outline of subpart
+What this subpart does
+(1) This subpart provides the administrative settings that underpin an individual’s obligations under sections BB 2, BC 1 to BC 6, and BC 8 of the Income Tax Act 2007 to calculate and satisfy their income tax liability for a tax year. It sets out the requirements for the provision of information about an individual’s income, including—
+  (a) the obligations of individuals to provide certain income information to the Commissioner:
+  (b) what is meant by certain key terms such as reportable income, other income, pre-populated account, and final account:
+  (c) when and how information must be provided to the Commissioner:
+  (d) the treatment of an individual’s final account at the end of a tax year:
+  (e) when and how an individual’s assessment is made:
+  (f) when certain amounts of tax payable may be written off:
+  (g) how reporting errors in accounts may be corrected:
+  (h) the permitted de minimis amounts:
+  (i) the information particulars.
+Income types
+(2) For the purposes of this Act and the Income Tax Act 2007, income that an individual derives for a tax year is categorised as either—
+  (a) their reportable income; or
+  (b) their other income.
+Relationship with other provisions
+(3) For the provisions related to—
+  (a) returns of income, see sections 33 and 37:
+  (b) returns related to family assistance credits, see section 41:
+  (c) donations tax credits, see section 41A:
+  (d) disputes, see sections 89C(l) and 89D:
+  (e) assessments, see sections 92, 106, and 113:
+  (f) late filing penalties, see section 139A.
+Flowchart 1: Scheme of subpart 3B
+
+### 22D Key terms
+Meaning of individual
+(1) For the purposes of this subpart and sections 22, 33, 37, 38, 42C, 89D, 92, 106, 110, 143, and 227G, and schedule 8, individual—
+  (a) means a natural person; and
+  (b) includes a natural person who is non-resident, other than a person whose only income for the corresponding income year is non-residents’ foreign-sourced income; and
+  (c) excludes, from the date of their death, a deceased natural person.
+Meaning of qualifying individual
+(2) For the purposes of this subpart and sections 4A, 22, and 120C, definition of date interest starts, paragraph (a), and schedule 8, qualifying individual means—
+  (a) an individual who derives only reportable income for an income year; and
+  (b) has no other income information that must be provided to the Commissioner under this subpart for the income year.
+Meaning of reportable income
+(3) For the purposes of this Act and the Income Tax Act 2007, reportable income, for an individual and a tax year, means an amount of income paid or payable to the individual for the corresponding income year—
+  (a) that is—
+    (i) a PAYE income payment:
+    (ii) a payment of resident passive income:
+    (iii) a payment of non-resident passive income:
+    (iv) a benefit under an employee share scheme described in schedule 4, table 1, rows 4 and 7; and
+  (b) for which the person paying the amount has been provided the individual’s tax file number, however this requirement does not apply if the amount is income derived jointly with another person and the Commissioner is able to allocate an amount to the individual for the income year; and
+  (c) in relation to which information must be provided under this Act to the Commissioner by 31 May in the next tax year.
+Meaning of other income
+(4) For the purposes of this subpart and section 141JA and schedule 8, other income or income other than reportable income, for an individual and a tax year, means an amount of income paid or payable to, or treated as income of, the individual for the corresponding income year that is not their reportable income.
+Meaning of pre-populated account
+(5) For the purposes of this subpart, and sections 4A, 80KM, 106, and CX 27 of the Income Tax Act 2007, a pre-populated account, for an individual and a tax year, means the account—
+  (a) provided by the Commissioner for the tax year; and
+  (b) containing the income information held by the Commissioner, including any income information provided by the individual, quantifying—
+    (i) the amount of reportable income derived for the corresponding income year; and
+    (ii) any other amount that the Commissioner considers the individual has derived for the income year.
+Meaning of final account
+(6) For the purposes of this subpart, and sections 4A, 33, 37, 38, 42C, 89D, 106, 110, and 143, a final account, for an individual and a tax year, means a pre-populated account finalised under section 22H.
+
+### 22E Information included in pre-populated accounts
+Pre-populated accounts
+(1) The Commissioner must include in an individual’s pre-populated account for a tax year—
+  (a) all the income information held by the Commissioner for the tax year relating to an amount of reportable income derived for the corresponding income year; and
+  (b) all the income information on other amounts that the Commissioner considers the individual has derived for the income year, including any income information provided by the individual.
+Limits
+(2) Subsection (1) applies only to the extent to which the information—
+  (a) is available; and
+  (b) is relevant for the individual in making an assessment for the tax year.
+Accounts with zero balance
+(3) An individual who has no reportable income for a tax year may ask the Commissioner to make available a pre-populated account with a zero balance in order that they may provide their income information for the tax year.
+
+### 22F Information requirements
+Obligations for information on other income
+(1) Subject to section 22K(1), an individual must provide information to the Commissioner for a tax year on the total amount of assessable income that they derive for the corresponding income year to the extent to which the amount is not reportable income, see schedule 8, part A, table 1.
+Obligations for reportable income information
+(2) No obligation to provide information for a tax year arises in relation to an amount of reportable income that is not included in an individual’s pre-populated account for the tax year unless the individual knows, or might reasonably be expected to have known, that the amount should properly be included in their final account for the tax year.
+Additional amounts
+(3) An individual may provide information for a tax year on an amount set out in schedule 8, part A, table 2.
+Benefits under employee share schemes
+(4) Subsection (1) does not apply to an amount of income that is a benefit that a person receives under an employee share scheme to the extent to which their employer has included information relating to the benefit in their employment income information under section 23K and schedule 4, table 1, rows 4 and 7.
+Information provided on behalf of deceased individuals
+(5) In order to finalise the account of a deceased individual under section 22H, the Commissioner may allow a person appearing on the list described in subsection (6) to provide, to the best of their knowledge, income information on behalf of the deceased individual.
+List of classes of persons
+(6) The Commissioner must publish a list of the classes of persons who are considered likely to have a relationship with a deceased individual and that the Commissioner considers may be the sort of person who is best placed to provide income information on behalf of a deceased individual.
+
+### 22G Amending accounts for incorrect or missing information
+When this section applies
+(1) This section applies for an individual and a tax year when incorrect information relating to the individual has been provided to the Commissioner, or information relating to the individual is missing.
+Correction of pre-assessment errors by individuals
+(2) An individual may amend income information in their pre-populated account at any time before the account is finalised under section 22H.
+Correction of post-assessment errors by qualifying individuals
+(3) Despite subsection (2), a qualifying individual, or an individual who is treated as a qualifying individual, may amend the income information in their final account at any time before their terminal tax date for the tax year. Any earlier assessment for the tax year is regarded as not having been made.
+When amended information incorrect
+(4) Subsection (3) does not apply if the Commissioner has reason to believe that the amended information is incorrect. The Commissioner may decide not to accept all the information as correct and provide an assessment for the individual under section 106.
+Correction of pre-assessment errors by Commissioner
+(5) The Commissioner may amend information in the individual’s pre-populated account for the tax year to correct errors in the information. The Commissioner must notify the individual of the amendment.
+Correction of post-assessment errors by Commissioner: qualifying individuals
+(6) The Commissioner may amend information in a qualifying individual’s final account for the tax year to correct errors in the information at any time before the end of the period referred to in section 108(1), notifying the individual of the amendment.
+Correction of post-assessment errors by Commissioner: other individuals
+(7) If the Commissioner wishes to make an adjustment in relation to the information of an individual other than a qualifying individual, the Commissioner must issue a notice of proposed adjustment under section 89B subject to the exceptions set out in section 89C.
+Later requests for changes by individuals
+(8) After their terminal tax date, an individual may ask the Commissioner to amend information in their final account for the tax year under section 113.
+
+### 22H Finalising accounts
+Pre-populated accounts: qualifying individuals
+(1) If the Commissioner is satisfied that the income information of a qualifying individual for a tax year as set out in their pre-populated account correctly and completely records their income for the corresponding income year, the Commissioner may finalise the individual’s account for the tax year.
+Pre-populated accounts: other individuals
+(2) An individual other than a qualifying individual may, at any time before the date set out in subsection (4),—
+  (a) adjust their pre-populated account for the tax year by providing the income information required under section 22F(1) in relation to their other income; and
+  (b) correct any errors in their reportable income information; and
+  (c) finalise the account by confirming that the income information in the account as adjusted correctly and completely records their income for the corresponding income year.
+Requests for information from qualifying individuals
+(3) If the Commissioner requests income information from a qualifying individual in relation to their pre-populated account, the individual may—
+  (a) correct any errors in their reportable income information; and
+  (b) finalise the account by confirming that the income information in the account as adjusted correctly and completely records their income for the corresponding income year.
+Due dates
+(4) The date referred to in subsection (2) is—
+  (a) 7 July in the following tax year, as set out in section 37(1):
+  (b) for an individual who has, under section 37(3) to (5), an extension of time to file a return of income, by the later date in the next tax year.
+
+### 22I Returns and assessments
+Final account treated as return of income and assessment
+(1) In relation to their final account for a tax year, an individual is treated as having made—
+  (a) a return of income for the tax year under section 33; and
+  (b) an assessment under section 92 in relation to the return referred to in paragraph (a); and
+  (c) a statement of a taxpayer’s tax position for the tax year, unless the individual asks the Commissioner under section 22G(8) for an amendment to be made to the information in their final account.
+Date of assessment
+(2) For the purposes of subsection (1)﻿(b), the date on which an assessment is treated as being made is the date on which an individual’s pre-populated account for the tax year is finalised under section 22H.
+Date of default assessment
+(3) If an individual does not satisfy the Commissioner that the income information in their pre-populated account for the tax year correctly and completely records their income for the corresponding income year, the date on which the assessment is treated as being made is the date on which the Commissioner provides a default assessment under section 106.
+Notification requirements
+(4) The Commissioner must notify an individual affected when an assessment is treated as having been made under subsection (2) or (3).
+Flowchart 2: Process for writing off amounts of tax to pay
+
+### 22J Commissioner’s power in relation to certain amounts of tax payable
+When amounts written off
+(1) For the purposes of this subpart, the Commissioner may write off an amount of tax payable by a qualifying individual for a tax year if the requirements of schedule 8, part B are met.
+Reversing write offs
+(2) The Commissioner may reverse a write off made under this section if, for the tax year and the individual,—
+  (a) it is established through a reassessment that the requirements of schedule 8, part B are not met:
+  (b) during the tax year, the individual ceases to be a qualifying individual.
+Order in Council amending schedule 8
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend schedule 8 by—
+  (a) adding an item of information to, or omitting an item of information from, part A, table 1 or table 2:
+  (b) adding an amount of tax to, or omitting an amount of tax from, part B, clause 1:
+  (c) adding a type of income to, or omitting a type of income from, part B, clause 2.
+Consultation
+(4) Before the Minister makes a recommendation under subsection (3), a consultative process must be undertaken that includes the distribution of the proposed amendments to schedule 8 to persons or representatives of persons that it is considered reasonable to consult for the purposes of this section.
+
+### 22K No obligation to provide information: de minimis and certain other amounts
+Small amounts of income
+(1) No obligation to provide information for a tax year arises if an individual derives income other than reportable income for the corresponding income year of $200 or less.
+Other specific provisions may override this section
+(2) A specific provision in an Inland Revenue Act requiring an individual to provide information in a particular circumstance overrides this section.
+
+### 22L Information particulars
+Items of other income
+(1) The items of information related to amounts of an individual’s income other than reportable income are set out in the table in schedule 8, part A, table 1.
+What may be included in information
+(2) The information may include information on the items set out in schedule 8, part A, table 2.
+
+### 22M Setting electronic and non-electronic requirements
+Prescribing forms for, and means and modes of, delivery
+(1) For the delivery of information on an individual’s income other than reportable income, the Commissioner must prescribe—
+  (a) an electronic form and means of electronic communication:
+  (b) a form or mode of delivery other than by electronic means.
+Particular requirements and conditions
+(2) The requirements relating to a form, means, or mode of communication may relate to an individual, a class of individuals, or all individuals, and may be subject to the conditions specified by the Commissioner, whether generally or in a specific case.
+
+### Subpart 3C — Employment income information
+
+### 23B Employment income information: outline of provisions
+What this subpart does
+(1) This subpart sets out—
+  (a) what is meant by employment income information for reporting purposes:
+  (b) when employment income information must be provided to the Commissioner and how it must be delivered:
+  (c) the information that must be provided for new and departing employees:
+  (d) the rules for the correction of errors.
+PAYE intermediary included
+(2) For the purposes of this subpart, an employer includes a PAYE intermediary, as the context requires.
+Related provisions
+(3) For the provisions related to—
+  (a) the making of regulations, see section RA 21 of the Income Tax Act 2007:
+  (b) late filing penalties, see section 139A:
+  (c) non-electronic filing penalties, see section 139AA:
+  (d) employers’ withholding payment penalties, see section 141ED:
+  (e) the application of the penalties provisions to PAYE intermediaries, see section 141JB:
+  (f) the recovery of tax from employers or PAYE intermediaries, see sections 167 to 169.
+
+### 23C Meaning of employment income information
+Meaning of employment income information
+(1) Employment income information, for the purposes of the Inland Revenue Acts, means the items of information that are listed in schedule 4, tables 1 to 3, as applicable, and that—
+  (a) an employer to whom section RD 22 of the Income Tax Act 2007 applies, must provide to the Commissioner under sections 23E to 23M; or
+  (b) an employee to whom section RD 4(4) of that Act applies, must provide to the Commissioner under section 23I.
+Prescribing forms and means for delivery
+(2) The Commissioner must prescribe 1 or more electronic forms and 1 or more means of electronic communication by which employment income information must be delivered by an employer for the purposes of this subpart.
+Requirements
+(3) The requirements relating to a form or a means of communication may relate to an employer or a class of employers, and may be subject to the conditions specified by the Commissioner, whether generally or in a specific case.
+Requirements for twice-monthly delivery
+(4) For the purposes of the delivery of employment income information, a requirement to deliver the information twice-monthly means that, in determining the date on which the information may be delivered, a payment or benefit is treated as being paid or received on a day in or, at the latest, by the last day of—
+  (a) the first payment period in a month when the relevant day falls between the 1st and 15th days of the month; or
+  (b) the second payment period in a month when the relevant day falls between the 16th and last day of the month.
+
+### 23D Employers’ groups for delivery of information
+Groups
+(1) For the delivery of employment income information to the Commissioner, an employer is included in 1 of the following groups of employer, according to the circumstances applying to the employer:
+  (a) the online group; or
+  (b) the non-electronic group, if they meet the requirements of section 23F or have an exemption under section 23G; or
+  (c) the new group, if they meet the requirements of section 23H.
+Inclusions in online group
+(2) For the delivery of employment income information,—
+  (a) a PAYE intermediary is included in the online group:
+  (b) an employer who delivers employment income information electronically, whether through a service or platform provided by the Commissioner or through the use of payroll software, is included in the online group.
+Delivery before specified date
+(3) Despite sections 23E to 23H and 23L, an employer may deliver their employment income information at any time before the dates set out in those sections.
+Approval to deliver information in other ways
+(4) Despite subsections (1) and (2) and the means of delivery set out in sections 23E to 23H, 23J, and 23K, an employer may ask the Commissioner for approval to deliver employment income information in another way. For this purpose, the Commissioner may—
+  (a) give consent with terms and conditions:
+  (b) vary the terms and conditions:
+  (c) cancel the consent at any time.
+
+### 23E Online group of employers
+Online group
+(1) An employer is included in the online group if the employer is not included in—
+  (a) the non-electronic group; or
+  (b) the new group.
+Delivery of information
+(2) An employer in the online group must deliver their employment income information for a payday—
+  (a) in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (b) within 2 working days after payday.
+
+### 23F Non-electronic group of employers
+Non-electronic group
+(1) An employer is included in the non-electronic group if the employer—
+  (a) meets either of the requirements set out in subsection (5) or has an exemption under section 23G; and
+  (b) does not deliver their employment income information electronically, whether through a service or platform provided by the Commissioner or through the use of payroll software; and
+  (c) is not included in the new group.
+Delivery of information
+(2) An employer in the non-electronic group must deliver their employment income information for a payday—
+  (a) in a format prescribed by the Commissioner; and
+  (b) within 10 working days after payday.
+Elections for other dates
+(3) For the purposes of subsection (2)﻿(b), an employer in the non-electronic group may choose to treat the payday as—
+  (a) the day on which the employer makes a PAYE income payment to an employee; or
+  (b) 1 of the following, as applicable:
+    (i) for an amount paid or benefit provided between the 1st and 15th days of a month, the 15th of the month; and
+    (ii) for an amount paid or benefit provided between the 16th and last day of the month, the last day of the month.
+Delivery for twice-monthly option
+(4) An employer who chooses to use, as a payday, a day referred to in subsection (3)﻿(b)﻿(i) or (ii), must deliver the employment income information set out in schedule 4, table 1, rows 4 to 6 for each payment made or benefit provided in the relevant period.
+Requirements
+(5) The requirements are that, for a tax year and an amount of tax for a PAYE income payment and an employer’s superannuation cash contribution,—
+  (a) an employer other than an employer referred to in paragraph (b), must have gross amounts of tax payable for the preceding tax year that are below the threshold amount:
+  (b) a new employer must have total accumulated amounts of tax that are below the threshold amount.
+Threshold amount
+(6) The threshold amount referred to in subsection (5) is—
+  (a) $50,000; or
+  (b) the amount set by the Governor-General by Order in Council under subsection (8).
+When threshold reached
+(7) If the accumulated amount referred to in subsection (5)﻿(b) reaches the threshold amount during a tax year, the employer is included in the new group for the remaining months of the 6-month period referred to in section 23H(2) and, following that period, is included in the online group of employers.
+Orders in Council setting amount
+(8) The Governor-General may, on the recommendation of the Minister of Revenue, make an Order in Council setting or amending the threshold amount referred to in subsection (6)﻿(b). Before making the recommendation, the Minister must undertake consultation on the proposed amendment that is appropriate and reasonable for the purposes of this section.
+
+### 23G Exemption for certain employers in online group
+Exemption
+(1) The Commissioner may exempt an employer in the online group from the online group requirements if it is reasonable in the circumstances, taking into account—
+  (a) the nature and availability of digital services to the employer, including the reliability of those services for the purposes of the employer; and
+  (b) the capability of the employer relating to the use of computers; and
+  (c) the costs that the employer would incur in complying with the requirements if those costs would be unreasonable in the circumstances.
+Statement of reasons
+(2) The Commissioner must provide a statement of reasons for the exemption.
+Valid until cancellation
+(3) Subject to subsection (4), an exemption under this section remains valid until the Commissioner notifies the employer that the exemption is to be cancelled. The exemption expires on the date that is 6 months after that given in the Commissioner’s notice.
+Time limits
+(4) In making an exemption under this section, the Commissioner may set a time limit on the exemption, stating a start date and an end date, as applicable, for the exemption and the reason for setting the limit.
+Legislative treatment
+(5) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+
+### 23H New group of employers
+New group
+(1) An employer is included in the new group if the employer becomes an employer in a tax year.
+New-employer period
+(2) The new-employer period is the 6-month period that starts on the date in the tax year on which the employer starts employing employees.
+Delivery of information
+(3) An employer in the new group may choose to deliver their employment income information for a payday in the new-employer period—
+  (a) in a format prescribed by the Commissioner; and
+  (b) within 10 working days after payday.
+Elections for other dates
+(4) Despite subsection (3)﻿(b), if an employer in the new group meets the requirements of section 23F(1)﻿(a) and (b), they may choose to treat a payday in the way described in section 23F(3) and (4).
+When information delivered electronically
+(5) If an employer in the new group chooses to deliver their employment income information electronically, whether through a service or platform provided by the Commissioner or through the use of payroll software, the employer is immediately included in the online group.
+
+### 23I Employment income information requirements for employees
+An employee who is required to provide employment income information relating to a PAYE income payment to the Commissioner under section RD 21(1)﻿(a) of the Income Tax Act 2007 must deliver the information in the prescribed format within 10 working days after the end of the month in which the payment is made.
+
+### 23J Delivery of employment income information for certain special payments
+What this section applies to
+(1) This section applies for the purposes of sections 23E to 23H in relation to—
+  (a) a schedular payment described in section RD 8 of the Income Tax Act 2007:
+  (b) a payment made to a person on a shadow payroll:
+  (c) a payment that an employer makes to an employee outside the regular payment cycle for the employee’s employment income.
+Schedular payments
+(2) For a schedular payment referred to in subsection (1)﻿(a), an employer may deliver their employment income information relating to the payment either—
+  (a) on a payday basis under sections 23E to 23H, as applicable; or
+  (b) twice-monthly as described in section 23C(4), treating the payday as the relevant day.
+Shadow payrolls
+(3) For a payment referred to in subsection (1)﻿(b), a non-resident employer has 20 days after an amount is paid to the person before the requirement to provide employment income information arises. The employer may—
+  (a) treat the 20th day as the payday for the purposes of sections 23E to 23H, as applicable; or
+  (b) provide their employment income information relating to the payment twice-monthly as described in section 23C(4), treating the 20th day as the relevant day.
+Out-of-cycle payments
+(4) For an out-of-cycle payment referred to in subsection (1)﻿(c), an employer may deliver their employment income information relating to the payment either—
+  (a) on a payday basis under sections 23E to 23H, as applicable; or
+  (b) together with their information for the employer’s next regular reporting date for the delivery of information relating to the employee.
+When reporting date falls after end date
+(5) Despite subsection (4), if the next regular reporting date referred to in subsection (4)﻿(b) falls after the employer’s end date for the payment, as described in section RA 15(3)﻿(a) and (b) of the Income Tax Act 2007, and would mean that, for reconciliation purposes, the information relating to the payment and the employee would appear to be reported as if the payment related to a later period, the employer must treat the payment as if it were made on a date that is not later than the end date.
+Treatment of shadow payroll payments
+(6) For the purposes of subsection (1)﻿(b), a payment made to a person on a shadow payroll is a PAYE income payment paid by a non-resident employer to a person who undertakes employment services in New Zealand but who remains on the employer’s payroll system in a country or territory outside New Zealand.
+Relationship with section 23F
+(7) Section 23F(3)﻿(b) and (4) overrides this section.
+
+### 23K Employment income information requirements relating to employee share schemes
+When information required
+(1) For the purposes of sections 23E to 23H and a benefit under an employee share scheme, the employer may—
+  (a) treat the ESS deferral date as the payday; or
+  (b) provide their employment income information twice-monthly as described in section 23C(4), treating the ESS deferral date as the relevant day.
+Inclusions and exclusions
+(2) For reporting purposes,—
+  (a) employment income information does not include information on—
+    (i) a benefit under an employee share scheme received by a former employee if the employer has not chosen to withhold an amount of tax in relation to the benefit:
+    (ii) a benefit arising under an exempt ESS:
+  (b) for a benefit that an employee receives under an employee share scheme, employment income information includes the value of the benefit, and if the employer has chosen under section RD 7B of the Income Tax Act 2007 to withhold an amount of tax for the benefit, the amount of tax withheld.
+
+### 23L Employment income information for new and departing employees
+Employees starting employment
+(1) When an employee starts employment with an employer, the employer must provide the information referred to in schedule 4, table 2 to the Commissioner.
+Employees ending employment
+(2) When an employee’s employment ends, the employer must provide the information referred to in schedule 4, table 3 to the Commissioner.
+Delivery for new employees
+(3) The information referred to in subsection (1) about new employees must be delivered to the Commissioner by the date on which the employer is required to deliver employment information for the employee’s first payday or, if the employer chooses, at an earlier time.
+Delivery for departing employees
+(4) The information referred to in subsection (2) about departing employees must be delivered to the Commissioner by the date on which the employer is required to deliver employment income information for the payday on which the employee was last paid or, if the employer chooses, at an earlier time.
+Additional information required
+(5) Despite subsections (1) to (4), if information about the relevant employee is delivered to the Commissioner as part of electronic payday reporting that includes income information about the employee, the only additional information required from the employer is,—
+  (a) for a new employee, schedule 4, table 2, rows 5, 6, 7, and 10:
+  (b) for a departing employee, schedule 4, table 3, row 5.
+Inclusion as employees
+(6) In this section, employee includes a person who receives or is entitled to receive a payment that would, but for section RD 3B or RD 3C of the Income Tax Act 2007, be a PAYE income payment.
+
+### 23M Employment income information when employment ended
+An employer who stops employing employees, intending that the cessation is permanent, must notify the Commissioner that employment has ended within 30 working days after the date on which they stop employing employees.
+
+### 23N Correction of errors
+What this section does
+(1) This section provides a regulation-making power for matters relating to the correction of errors in employment income information and the manner in which corrections may be made.
+Regulations
+(2) The Governor-General may, by Order in Council on the recommendation of the Minister of Revenue, make regulations, providing—
+  (a) the nature and type of errors that are able to be corrected by an employer:
+  (b) the manner in which errors in employment income information may be corrected, and the specifications for the correction of particular errors in employment income information:
+  (c) the periods to which corrections may relate, including past periods and future periods.
+Consultation
+(3) Before making a recommendation under subsection (2), the Minister must undertake consultation on the proposed regulation that is appropriate and reasonable for the purposes of this section.
+
+### 23O Setting electronic and non-electronic filing requirements
+Prescribing means for delivery
+(1) For the delivery of employment income information by an employer or a class of employers, the Commissioner—
+  (a) must prescribe—
+    (i) an electronic form and means of electronic communication:
+    (ii) a form or mode of delivery other than by electronic means:
+  (b) may from time to time set specifications for payroll software for use in the delivery of that information.
+Processing requirements
+(2) To enable the processing of a payment made to the Commissioner by an employer in relation to an employee, the Commissioner may notify an employer, or a class of employers, that certain items of employment income information must accompany the payment.
+
+### 23P Employment income information: payroll software
+For the purposes of sections 23H(5) and 23O, payroll software means a commercially available payroll system or service, or another bespoke equivalent, that enables the calculation of amounts of salary or wages and amounts that are required to be withheld under the PAYE rules.
+
+### 23Q Employment income information: variation of requirements
+The Commissioner may vary the requirements set out in this subpart and schedule 4 for an employer or a class of employers, and the requirements apply as varied.
 
 **Other obligations to keep and provide records**
 
 ### 24 Records to be kept by employer or PAYE intermediary
-(1) An employer who makes a PAYE income payment to an employee must keep a proper record relating to the employee, showing the amount of the PAYE income payment before tax and the amount of the tax withheld from it, and the amount of any payroll donation, and must enter those amounts in the record at the time of making the PAYE income payment.
-(1B) For a pay period in which a person acts as a PAYE intermediary for an employer in relation to an employee—
-  (a) the person must keep a proper record of the person's actions as a PAYE intermediary in respect of the employee; and
-  (b) the employer must keep a proper record of the employer's payments to the person of salary or wages in respect of the employee.
-(2) Every employer or PAYE intermediary shall take all reasonable precautions for the safe custody of all records that the employer or the PAYE intermediary is required to keep under this section, and of all pay sheets, receipts for PAYE income payments, withholding certificates, tax code notifications, tax code certificates, and certificates of entitlement, and shall retain all such records, pay sheets, receipts, tax code declarations, tax code certificates, and certificates of entitlement for not less than 7 years after the making of the payments to which they relate except and to the extent that the employer or the PAYE intermediary is required by this Act or the Income Tax Act 2007 to deliver to the Commissioner or to any other person the signed withholding certificates, tax code notifications, tax code certificates, and any certificate of entitlement:
-  provided that this subsection shall not require retention of any records, pay sheets, receipts, tax code notifications, tax code certificates, or certificates of entitlement in respect of which the Commissioner has notified the employer or the PAYE intermediary that retention is not required.
+[Repealed]
 
 **Offshore persons’ bank accounts and tax file numbers**
 
 ### 24BA Offshore persons’ bank accounts and tax file numbers
 [Repealed]
 
+### Subpart 3D — Tax codes and tax rates for certain payments
+
 **PAYE tax codes**
 
 ### 24B PAYE tax codes
-(1) This section applies for the purposes of the PAYE rules to provide an employee with a tax code for a PAYE income payment. Subsection (2) overrides this subsection.
-(2) Subsection (1) does not apply to the following amounts:
-  (a) an extra pay:
-  (b) a schedular payment:
-  (c) a payment of an income-tested benefit.
-(3) Except as provided by subsection (3C), an employee must notify their employer that their tax code is 1 of the following:
-  (a) M for primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
-  (ab) ME for primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
-  (b)
-  (bb) SB for secondary employment earnings for an employee whose total PAYE income payments are not more than $14,000:
-  (c) S for secondary employment earnings for an employee whose total PAYE income payments are more than $14,000 but not more than $48,000:
-  (d) SH for secondary employment earnings for an employee whose total PAYE income payments are more than $48,000 but is not more than $70,000:
-  (e) ST for secondary employment earnings for an employee whose total PAYE income payments are more than $70,000:
-  (f) CAE for salary or wages for employment as a casual agricultural employee:
-  (g) EDW for salary or wages for employment as an election day worker:
-  (gb) NSW for salary or wages for employment as a non-resident seasonal worker.
-  (h)
-(3B) An employee has a no notification tax code if—
-  (a) an employee does not notify their employer of their tax code under subsection (3); and
-  (b) the Commissioner has not provided the employer with a—
-    (i) tax code notification; or
-    (ii) tax code certificate; or
-    (iii) special tax code notification; or
-    (iv) special tax code certificate.
-(3C) Despite subsections (3) and (3B), an employee who is a non-resident seasonal worker under the recognised seasonal employer (RSE) instructions has a tax code of NSW for the first month of a period of employment in New Zealand.
-(4) If another Act requires an employer to withhold the amount of tax for a PAYE income payment to an employee and pay the amount to the Commissioner, the tax code may be combined with another code applying under that Act.
+Meaning of tax code
+(1) For the purposes of the PAYE rules, a tax code means—
+  (a) a code applying to an employee’s earnings set out in the table in schedule 5, part A as notified by the employee under section 24C:
+  (b) a tax code provided by the Commissioner under section 24D:
+  (c) a tax code provided under schedule 5, part B, clause 3:
+  (d) a non-notified tax code under section 24E.
+What tax codes do not apply to
+(2) A tax code does not apply in relation to—
+  (a) a schedular payment, see sections 24F, 24G, and 24H, and schedule 5, part C:
+  (b) an extra pay, see sections RD 7 and RD 17 of the Income Tax Act 2007.
+Income-tested benefits
+(3) The amount of tax for a payment of an income-tested benefit is determined under section RD 11(3) of the Income Tax Act 2007.
+Basic tax rates
+(4) The basic tax rates for payments of salary or wages for particular tax codes, including a non-notified tax code, are set out in the Income Tax Act 2007, schedule 2, part A.
 
-### 24C Tax code for payment that includes income-tested benefits
-An employee who receives a PAYE income payment of an income-tested benefit and a PAYE income payment that does not consist of an income-tested benefit may choose, for their non-benefit income, a tax code set out in section 24B(3)﻿(bb), (c), (d), or (e) that is relevant to their circumstances.
+### 24C Notified tax codes
+Employees notifying employers
+(1) An employee must notify their employer of the tax code applicable to their circumstances or of a change in their tax code. The notification must be in a form authorised by the Commissioner.
+What this section does not apply to
+(2) This section does not apply in relation to—
+  (a) a tax code provided by the Commissioner to the employer under schedule 5, part A, clause 2(2):
+  (b) a tax code for a non-resident seasonal worker under schedule 5, part B, clause 3.
+
+### 24D Tax codes provided by Commissioner
+An employee may apply to the Commissioner for, or the Commissioner may recommend for the employee,—
+  (a) a tailored tax code under schedule 5, part B, clause 1 to apply to either—
+    (i) their New Zealand superannuation income or veteran’s pension income; or
+    (ii) their other employment income from 1 or more employers:
+  (b) a tax code under schedule 5, part B, clause 2 for their employment as a private domestic worker.
 
 ### 24D Tax code for parental leave payment
 [Repealed]
 
-### 24E Tax code for employment as private domestic worker
-An employee who wishes to have a tax code for their employment as a private domestic worker may provide their tax code notification to the Commissioner.
+### 24DB Use of unsuitable tax codes
+For the purposes of section 24D and schedule 5, if the Commissioner considers that a more suitable or more accurate tax code could be, or could have been, used in relation to a PAYE income payment to an employee, the Commissioner—
+  (a) may recommend a prospective change of tax code to the employee; and
+  (b) with the consent of the employee, notify the employer of the change.
 
-### 24F Special tax codes
-(1A) An employee may apply to the Commissioner for a special tax code.
-(1AB) When applying for a special tax code, an employee must ask the Commissioner for the special tax code to apply to either—
-  (a) their New Zealand superannuation income or veteran’s pension income; or
-  (b) their other employment income from 1 or more employers.
-(1) After an application is received under subsection (1A), the Commissioner may issue a special tax code for an employee, whether because the employee has 2 or more employments, or is entitled to have a net loss carried forward, or wishes to have a reduction applying to the amount of tax withheld, or for another reason.
-(1B) When a special tax code is issued for an employee under subsection (1), the Commissioner must—
-  (a) notify the department that is for the time being responsible for administration of the Social Security Act 2018 (the responsible department) under section 24IB, if the employee asks under subsection (1AB)﻿(a) for the special tax code to apply to their New Zealand superannuation income or veteran’s pension income; or
-  (b) give the employee a special tax code certificate that includes the information required under section 24F(2) and (3), if the employee asks under subsection (1AB)﻿(b) for the special tax code to apply to their other employment income from 1 or more employers.
-(2) The special tax code may—
-  (a) set out a tax code to apply to a payment of salary or wages to an employee by 1 or more of their employers for a period referred to in the certificate or notification:
-  (b) require that no amount of tax is withheld from, or a particular rate of tax applies to, a proportion of a PAYE income payment of the employee, as if it were the whole payment.
-(3) The Commissioner must calculate, for the PAYE income payments and period referred to in the certificate or notification, the amount of tax for the payments or the rate of tax applying to them, having regard to the amount of tax for the payments that would be required under sections RD 9 to RD 11 of the Income Tax Act 2007.
-(4) When an employee provides a special tax code certificate to their employer or the Commissioner provides a special tax code notification to the responsible department, the provisions of the certificate or notification override anything in this Act and the Income Tax Act 2007 other than—
-  (a) the employee’s duties under sections RA 8, RA 10, and RD 4(2) of the Income Tax Act 2007; and
-  (b) subsection (6) and sections 24G and 24H.
-(5) An employee’s entitlement under the family scheme is not taken into account in setting a special tax code.
-(5B) This section does not apply to an employee who is a non-resident seasonal worker.
-(6) The Commissioner may cancel a special tax code at any time, and upon cancellation, the Commissioner must notify the cancellation to—
-  (a) the employee, if the employee has been given a special tax code certificate under subsection (1B)﻿(b); or
-  (b) the employee and the responsible department, if a special tax code notification has been made under section 24IB.
-(7) If the circumstances in subsection (6)﻿(a) apply, the employee must—
-  (a) return the special tax code certificate to the Commissioner within 7 days; and
-  (b) notify their employer under section 24H that their entitlement to use the special tax code has ended.
+### 24E Non-notified tax codes
+When employees have non-notified tax codes
+(1) An employee, other than a person referred to in section 24D, has a non-notified tax code if—
+  (a) the employee has not notified their employer of—
+    (i) their name; and
+    (ii) their tax file number; and
+    (iii) their tax code; and
+  (b) the Commissioner has not provided the employer with a tax code or change in tax code under schedule 5, part A, clause 3; and
+  (c) the employee is not a non-resident seasonal worker referred to in schedule 5, part B, clause 3.
+Full names
+(2) For the purposes of subsection (1)﻿(a)﻿(i), a person’s name is their full name that is sufficient to enable the Commissioner to ascertain a correct tax file number for the person.
 
-### 24G Use of incorrect tax codes or tax rates
-(1) This section applies when the Commissioner considers that an employer or PAYE intermediary has used an incorrect tax code or tax rate in relation to a PAYE income payment to an employee.
-(2) The Commissioner may notify the employer or PAYE intermediary of the incorrect code or tax rate, and provide the correct tax code and tax rate, as required, that should apply to the PAYE income payment.
-(3) The employer or PAYE intermediary must use the tax code provided by the Commissioner in relation to a PAYE income payment made to the employee after the date of notification. But the tax code or tax rate does not apply if the employee notifies their employer that their circumstances have changed and, as a result, a different tax code or tax rate should apply.
+### 24F Rates of tax for schedular payments: standard, payee, and set rates
+Meaning of payer and payee
+(1) In this section, and sections 24G, 24H, and 24I, and in schedule 5, part C,—
+  (a) a person who is making a schedular payment is referred to as the payer:
+  (b) a person who is entitled to receive a schedular payment is referred to as the payee.
+Standard rates
+(2) The standard rates of tax for schedular payments are set out in schedule 4 of the Income Tax Act 2007.
+Payee rates
+(3) A payee may choose the rate of tax for the payment under schedule 5, part C, clause 3. Minimum rates apply, see clause 3(1).
+Set rates
+(4) If a payee has a liability under the Inland Revenue Acts that has not been met, the Commissioner may, from time to time, set a rate of tax for a schedular payment of the payee under schedule 5, part C, clause 4.
 
-### 24H When entitlement to use tax code ends
-(1) This section applies when an employee is no longer entitled to use a certain tax code.
-(2) The tax code does not apply to a PAYE income payment made to the employee after the date on which the entitlement ends, unless the payment is salary or wages for a current pay period.
-(3) If the circumstances in section 24F(6)﻿(b) do not apply, the employee must notify their employer that their entitlement has ended within the period of 4 days after the date on which they became aware that they are no longer entitled to use the tax code. If the employee provides the notification to the Commissioner, they must notify the Commissioner similarly.
-(4) For the purposes of subsection (3), the employee must give the reason why the tax code no longer applies and the date on which entitlement ended.
-(5) If the employee provides their employer with a tax code notification or tax code certificate within the period of 7 days after the date on which they become aware that they are no longer entitled to use a tax code, the tax code in the notification or certificate applies from the date on which the entitlement to use the earlier code ends.
-(6) When an employee’s entitlement to use a certain tax code ends, their employer is not liable for withholding a reduced amount of tax for a payment if they have not received notice that the entitlement has ended.
-(7)
+### 24G Special tax rates for schedular payments
+A payee, other than a non-resident entertainer, may apply to the Commissioner, under schedule 5, part C, clause 5, for a special rate of tax that applies to some or all of a schedular payment.
 
-### 24I PAYE tax code notification and certificate
-(1) If section 24IB does not apply, an employee who wishes to have the amount of tax for a PAYE income payment reduced may notify their employer of the applicable tax code. This subsection applies separately for each employment situation.
-(2) If an employee finds it difficult or impractical to notify their employer as described in subsection (1), they may notify the Commissioner who must then provide a tax code certificate to the employer setting out the applicable tax code. The employee may give the certificate to their employer.
-(3) The tax code notified or set out in a tax code certificate applies to a PAYE income payment made to an employee by their employer from—
-  (a) the first day of a pay period to which the payment relates up to the date on which the employee is no longer entitled to use the particular tax code if—
-    (i) the employer has no earlier tax code for the employee; or
-    (ii) the notification or certificate changes an earlier tax code for the employee and is provided before the date on which the employer calculates their payroll for the period:
-  (b) the first day of the pay period following that to which the payment relates if the notification or certificate changes an earlier tax code for the employee and is provided after the date on which the employer calculates their payroll for the period.
-(4) A tax code notification must provide for an employee’s statement of their entitlement under the Immigration Act 2009 to work for their employer.
-(5) A tax code notification or tax code certificate delivered to an employer before the start of the tax year but expressed to relate to the tax year, is treated as if it is delivered on 1 April in the tax year.
+### 24H Exempt schedular payments
+Notifying payee of exempt payment
+(1) The Commissioner may notify a payee under schedule 5, part C, clause 6 that 1 or more schedular payments that they are entitled to receive are payments for which no amount of tax is to be withheld.
+What this section does not apply to
+(2) This section does not apply to—
+  (a) a payment made to a non-resident entertainer:
+  (b) a payment described in schedule 4, part J of the Income Tax Act 2007 that is made to a payee who is a New Zealand resident.
 
-### 24IB Special tax code notification
-(1) This section applies when—
-  (a) an employee asks under section 24F(1AB)﻿(a) for a special tax code to apply to their New Zealand Superannuation income or veteran’s pension income; and
-  (b) the Commissioner issues a special tax code for the employee under section 24F(1).
-(2) The Commissioner must provide as soon as practicable a special tax code notification that includes the information required under section 24F(2) and (3) to an officer, employee, or agent of the department that is for the time being responsible for administration of the Social Security Act 2018 (the responsible department) whom the chief executive of the department authorises to receive the information.
-(3) Subject to section 24F(4), the responsible department must apply the special tax code notification in relation to a PAYE income payment of New Zealand superannuation income or veteran’s pension (a payment) made to the employee after the date the notification is provided to the responsible department.
-(4) If the special tax code notification is provided to the responsible department after the next payment has been calculated, the department must use the notification in relation to a payment that follows the next payment.
+### 24I Notification requirements
+Payees to notify payers: names and tax file numbers
+(1) A payee, other than a non-resident entertainer, must notify the payer of their name and tax file number. The notification must be in a form authorised by the Commissioner.
+Payees to notify payers: rates of tax
+(2) The payee must also notify the payer of the rate of tax applying to the payment if—
+  (a) they choose the rate of tax as described in section 24F(3):
+  (b) they are using a rate of tax set by the Commissioner under section 24F(4):
+  (c) they are using a special rate of tax referred to in section 24G.
+
+### 24IB Variation of requirements
+The Commissioner may vary the requirements of section 24B and schedule 5, part A, clause 4, for a person or class of persons at any time.
 
 **PAYE certificates, notification, and applications**
 
 ### 24J Proof of payment
-(1) An employer or PAYE intermediary who is required to withhold and pay to the Commissioner an amount of tax for a PAYE income payment must provide a PAYE payment form to the Commissioner by the applicable due date set out in section RA 15 of the Income Tax Act 2007.
-(2) If the PAYE payment form is not provided electronically, it must be signed by the employer or PAYE intermediary, as applicable.
-(3) The Commissioner may release an employer or a class of employers, or a PAYE intermediary or a class of PAYE intermediaries, from the requirement to provide a PAYE payment form if the information is contained in an employer monthly schedule.
-
-### 24K Certain information required in returns
-(1) This section applies for the purposes of section RE 24 of the Income Tax Act 2007 when an amount of tax for a taxable Maori authority distribution is treated as a Maori authority credit attached to the distribution.
-(2) The company paying the dividend and withholding the amount of tax under section RA 6(1) of that Act must provide to the Commissioner information in relation to the amount of tax in its annual ICA return under section 69.
-(3) For the purposes of subsection (2) and the payment of the dividend, the company must provide to the Commissioner information in relation to the dividend in—
-  (a) its dividend statement under section 67 if it is an ICA company; or
-  (b) if paragraph (a) does not apply, a form approved by the Commissioner, containing the information set out in section 67(a) to (c) and (f) and filed no later than 31 May after the end of the tax year.
-(4) The Maori authority making the distribution and withholding the amount of tax under section RA 6(1) of the Income Tax Act 2007 must provide to the Commissioner information in relation to the amount of tax in its annual Maori authority credit account return.
-(5) For the purposes of subsection (4) and the making of the distribution, the Maori authority must provide to the Commissioner information in relation to the distribution in the distribution statement prepared under section 68B.
+[Repealed]
 
 ### 24L Schedular notification
-(1) This section applies to a person who is entitled to receive a schedular payment described in section RD 8 of the Income Tax Act 2007.
-(2) Before the person (the payee) receives the schedular payment, the payee must give the person making the payment a notice that states—
-  (a) if the payee has elected a tax rate to be applied to the schedular payment, as provided by section 24LB, that elected tax rate:
-  (b) if the Commissioner has notified the payee that a different tax rate applies to the schedular payment, as provided by section 24LC, that different tax rate:
-  (c) the payee’s name and tax file number.
-(3) The notification referred to in subsection (2) must be in a form authorised by the Commissioner.
+[Repealed]
 
 ### 24LB Schedular tax rate elected by payee
-(1) A person who is entitled to receive a schedular payment (the payee) may choose the tax rate, to 1 decimal place, to be applied to the payment for the purposes of section RD 10B(3)﻿(a) of the Income Tax Act 2007 (the elected rate).
-(2) The elected rate must be a minimum of—
-  (a) 15% if the payee is—
-    (i) a non-resident:
-    (ii) a holder of a temporary entry class visa as defined in section 4 of the Immigration Act 2009; or
-  (b) 10% for all other payees.
-(3) Despite subsection (1), if the payee has notified a person making a schedular payment (the payer) of 2 different elected rates within 12 months of each other, then the last notified rate is the elected rate, and the payee may not choose another elected rate in relation to the payer within a 12 month period of the first notified rate.
-(4) Despite subsection (3), the payee may choose another elected rate under subsection (1) in relation to the payer in the 12 month period and notify it to the payer, if the payer and the payee agree that the payee may choose and notify that other rate.
+[Repealed]
 
 ### 24LC Schedular tax rate prescribed by Commissioner
-(1) Where a person who is entitled to receive a schedular payment (a payee) has not met a liability under the Inland Revenue Acts, the Commissioner may prescribe the tax rate to be applied to the payee’s schedular payments by notifying the rate to—
-  (a) the payee; or
-  (b) the payee and a person (a payer) making a schedular payment to the payee.
-(2) Upon the request of the payee, the Commissioner must rescind a rate prescribed and notified under subsection (1), by notifying the relevant persons described in subsection (1), if the Commissioner is satisfied that all liabilities under the Inland Revenue Acts have been met, and is reasonably satisfied that all liabilities under the Inland Revenue Acts will be met in the future.
-(3) The Commissioner may also prescribe and notify, at the same time as prescribing and notifying a tax rate under subsection (1), a percentage of the payee’s schedular payments that payers must—
-  (a) deduct or extract from schedular payments payable to the payee; and
-  (b) pay to the Commissioner.
-(4) Upon the request of the payee, the Commissioner must rescind a percentage prescribed and notified under subsection (3), by notifying the payer, if the Commissioner is satisfied that the payee has paid all tax due and payable.
-(5) The tax rate prescribed under subsection (1) and the percentage prescribed under subsection (3) must not total more than 50%.
-(6) An amount received by the Commissioner under subsection (3) is to the credit of the payee’s liabilities under the Inland Revenue Acts and is not a tax credit under part L of the Income Tax Act 2007.
-(7) The Commissioner may revoke or prescribe and notify a new tax rate under subsection (1) and percentage under subsection (3) from time to time.
-(8) The Commissioner does not have to notify the payee under subsection (1)﻿(b), if, after making reasonable inquiries, the Commissioner does not have a valid address for the payee.
+[Repealed]
 
 ### 24M Exemption certificates for schedular payments
-(1) The Commissioner may provide a person who is entitled to receive a schedular payment with an exemption certificate setting out the payments for a period for which no amount of tax is to be withheld.
-(2) Subsection (1) does not apply to a payment—
-  (a) to a non-resident entertainer:
-  (b) that is a payment, described in schedule 4, part J of the Income Tax Act 2007, to a New Zealand resident.
-(3) The Commissioner may cancel an exemption certificate at any time.
-(4) If the Commissioner cancels an exemption certificate, the person who was provided the certificate must return it within 7 days of the date of cancellation.
-(5) A person must not alter an exemption certificate.
-(6) A person must not use an exemption certificate that is not in force, or has been altered, to cause a person to refrain from withholding an amount of tax from a schedular payment.
-(7) A person who is provided with an exemption certificate before 1 April 2017 for a period ending on or after 1 April 2017 is treated as having a special rate certificate under section 24N with a 0% rate for schedular payments the person is entitled to receive, to the extent to which—
-  (a) the schedular payments—
-    (i) are received between 31 March 2017 and 1 April 2018; or
-    (ii) if the period set out in the certificate of exemption ends before 31 March 2018, are received before the end of that period; and
-  (b) the certificate of exemption is not in force on or after 1 April 2017 because of amendments made to this Act by the Taxation (Business Tax, Exchange of Information, and Remedial Matters) Act 2017.
+[Repealed]
 
 ### 24N Special tax rate certificates for schedular payments
-(1) The Commissioner may provide a person who is entitled to receive a schedular payment with a special tax rate certificate setting out the amount of tax for the payment, or the rate applying to the payment or a part of each payment as if it were the whole payment.
-(2) Subsection (1) does not apply to a payment to a non-resident entertainer.
-(3) The Commissioner may cancel a special tax rate certificate at any time. The Commissioner must give notice of the cancellation.
-(4) If the Commissioner cancels a special tax rate certificate, the person who was provided the certificate must return it within 7 days of the date of notification of the cancellation.
-(5) A person must not alter a special tax rate certificate.
-(6) A person must not use a special tax rate certificate that is not in force, or has been altered, to cause a person to refrain from withholding an amount of tax from a schedular payment.
+[Repealed]
 
 ### 24O Certain information required from agricultural, horticultural, or viticultural employers
 [Repealed]
 
 ### 24P Variation of requirements
-The Commissioner may vary the requirements set out in sections RD 22 of the Income Tax Act 2007, and 24B, 24H, 24I, and 24L for a person or a class of persons.
+[Repealed]
 
-**Payroll donations**
-
-### 24Q Transfer of payroll donations by employers
-(1) This section applies for a pay period and employer who agrees to offer payroll giving to their employees, when a person asks their employer to transfer an amount of a payroll donation from the person's pay to a donee organisation.
-(2) The employer or PAYE intermediary must transfer the amount to the recipient of the donation on or by the relevant date required by sections RA 15 and RD 4 of the Income Tax Act 2007 that occurs nearest to the expiry of 2 months after the end of the pay period. Until transferred to the recipient, the amount is held on trust for the person.
-(3) Before the transfer referred to in subsection (2) is made, the person must—
-  (a) ensure that the recipient of the donation is a donee organisation; and
-  (b) supply the employer with sufficient details of the recipient to enable the transfer to be made.
+### Subpart 3E — RWT rates, certificates, and records
 
 **RWT rates, certificates, and records**
 
-### 25A Use of inconsistent RWT rates
-(1) This section applies when the Commissioner considers that a person who receives a payment of resident passive income consisting of interest has had tax withheld at an RWT rate that is inconsistent with their marginal tax rate.
-(2) The Commissioner may notify the payer of the interest of the inconsistent rate and provide the payer with the RWT rate for the person.
-(3) The payer must use the RWT rate provided by the Commissioner in relation to the person as soon as reasonably practicable after the date of notification. However, if the person subsequently notifies the payer of a different RWT rate, the payer must apply the rate notified by the person.
+### 25A Use of unsuitable RWT rates
+(1) If the Commissioner considers that a more suitable or more accurate RWT rate could have been used in relation to a payment of resident passive income consisting of interest, the Commissioner—
+  (a) may recommend a prospective change of RWT rate to the payee; and
+  (b) with the consent of the payee, notify the payer of the change.
+(2) The payer must use the RWT rate provided by the Commissioner in relation to the payee as soon as reasonably practicable after the date of notification. However, if the payee subsequently notifies the payer of a different RWT rate, the payer must apply the rate notified by the payee.
 
 ### 25 RWT withholding certificates
 (1) Subsection (1B) applies when a person withholds RWT for resident passive income paid to or derived by any other person that is—
@@ -1928,6 +2264,8 @@ A person who gives a notice that the retirement scheme prescribed rate for the p
   (e) the equivalent of their tax file number in the country or territory where they reside for tax purposes, or a declaration if they are unable to provide this number:
   (f) their tax file number in New Zealand, if applicable.
 (2) The Commissioner may add to or change the list of information requirements set out in subsection (1) from time to time.
+
+### Subpart 3F — Statements, notices, and certificates
 
 ### 29 Shareholder dividend statement to be provided by company
 (1) A company that pays to a shareholder a dividend (not being a dividend treated as interest) from which RWT has been withheld, or a dividend with an imputation credit, must give to the shareholder a shareholder dividend statement in a form approved by the Commissioner, showing—
@@ -2196,70 +2534,21 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
 ### 32N Information requirements when payments for foreign dividends reduced
 [Repealed]
 
+### Subpart 3G — Returns
+
 **Returns, etc**
 
 ### 33 Returns of income
-(1) In each tax year, a taxpayer, other than a person who meets the requirements of section 33AA(1), or is issued an income statement or required to request or be issued an income statement, or a multi-rate PIE that calculates income tax using the exit calculation or quarterly calculation option under sections HM 42 and HM 43 of the Income Tax Act 2007, must furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed.
+(1) In each tax year, a person must file a return of income for a tax year in the form and with the particulars prescribed by the Commissioner.
 (1B) In an income year, a trust, society or institution to which section CW 41 or CW 42 of the Income Tax Act 2007 applies, may furnish to the Commissioner a return of income in the prescribed form for the preceding tax year, together with such other particulars as may be prescribed if the trust, society or institution receives a taxable Maori authority distribution.
 (1C) A multi-rate PIE or a proxy for an investor in the entity that calculates income tax using the exit calculation or quarterly calculation options under sections HM 42 and HM 43 of that Act must provide returns for which the entity is responsible under section 57B.
+(1D) An individual must provide information to the Commissioner on their assessable income for a tax year under Part 3, subpart 3B. The individual is treated as having made a return of income in their final account for the tax year under section 22I(1).
 (2) A return must contain a notice of the assessment required to be made under section 92.
 (3) Subsection (2) does not apply if subsection (1B) applies.
 (4) The nominated company for a consolidated group is treated as a taxpayer for the purposes of this section. A company that is a member of a consolidated group in a tax year must not provide a separate return for a tax year, but this restriction applies only to a tax year, or a part of a tax year, in which the company is part of the group.
 
 ### 33AA Exceptions to requirement for return of income
-(1) A natural person is not required to furnish a return of income for a tax year if, for the corresponding income year, the person—
-  (a) derives no assessable income other than income meeting the requirements of subsection (2); and
-  (b) derives no income from employment for which an amount of tax that is withheld or deducted is determined under a special tax code issued under section 24F; and
-  (c) derives from schedular payments a total amount of $200 or less, not including an amount or proportion of an amount for which the Commissioner has made a determination under section RD 8(3) of the Income Tax Act 2007; and
-  (d) derives no beneficiary income or has assessable income of $200 or less; and
-  (e) derives no income for providing personal services to a claimant under the Accident Compensation Act 2001 or meets the requirements of section 33C; and
-  (f) is at all times—
-    (i) a New Zealand resident:
-    (ii) a non-resident deriving no income with a source in New Zealand other than non-resident passive income referred to in section RF 2(3) of the Income Tax Act 2007; and
-  (g) is not a provisional taxpayer; and
-  (h) is a cash basis person; and
-  (i) has no tax loss balance or tax loss component, other than a tax loss component under section LE 2 of the Income Tax Act 2007; and
-  (j) has no loss balance; and
-  (k) has not carried forward to the tax year a tax credit under section LE 3 of the Income Tax Act 2007; and
-  (l) at no time holds an RWT exemption certificate under section 32E; and
-  (lb) for an inflation-indexed instrument, derives no interest payment for which RWT is capped by the application of section RE 18B(1)﻿(a) of the Income Tax Act 2007; and
-  (m) is not required under section 44 to furnish a return of income; and
-  (n) is not considered by the Commissioner to be a person who should furnish a return of income; and
-  (o) is not issued a family notice of entitlement for any part of the tax year; and
-  (p) is not living in a marriage, civil union, or de facto relationship, with a person who—
-    (i) is issued with a family notice of entitlement for any part of the tax year:
-    (ii) is paid by the chief executive of the administering department a family assistance credit for which the amount of family credit abatement under section MD 13 of the Income Tax Act 2007 is greater than zero.
-(2) A person’s assessable income meets the requirements of this subsection if the assessable income,—
-  (a) except for a total of $200 or less, consists of—
-    (i) income from employment that is subject to the PAYE rules:
-    (ii) interest or a dividend that is subject to the RWT rules:
-    (iii) interest or a dividend that does not have a New Zealand source:
-    (iv) a taxable Maori authority distribution:
-    (v) a schedular payment; and
-  (b) includes a total of $200 or less of amounts referred to in subsection (3).
-(3) The amounts relevant to subsection (2)﻿(b) for a person and an income year are—
-  (a) an amount of income for which the obligations under the PAYE rules of the person are not met:
-  (b) an amount of income from which the combined tax and earner-related payment is not withheld correctly:
-  (c) an amount of interest or a dividend that is resident passive income to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies, other than interest for which an RWT withholding certificate was not required under section 25(7), and from which RWT is withheld at a rate other than—
-    (i) 0.175, if the person's annual gross income is more than $14,000 and not more than $48,000; or
-    (ii) 0.300, if the person's annual gross income is more than $48,000 and not more than $70,000; or
-    (iii) 0.330, if the person's annual gross income is more than $70,000:
-  (d) an amount of income from employment that is an extra pay from which tax is withheld at a rate other than—
-    (i) 0.175, if the person's annual gross income is more than $14,000 and not more than $48,000; or
-    (ii) 0.300, if the person's annual gross income is more than $48,000 and not more than $70,000; or
-    (iii) 0.330, if the person's annual gross income is more than $70,000:
-  (e) an amount of income from employment that is secondary employment earnings from which tax is withheld at a rate other than—
-    (i) 0.175, if the person's annual gross income is more than $14,000 and not more than $48,000; or
-    (ii) 0.300, if the person's annual gross income is more than $48,000 and not more than $70,000; or
-    (iii) 0.330, if the person's annual gross income is more than $70,000:
-  (f) a taxable Maori authority distribution if the person's annual gross income is more than $48,000:
-  (g) an amount of interest, a dividend, or a taxable Maori authority distribution if the person is required to pay financial support in the tax year under the Child Support Act 1991:
-  (h) an amount of interest or a dividend that does not have a New Zealand source and is not resident passive income to which section RE 3(1)﻿(c) of the Income Tax Act 2007 applies:
-  (i) an amount of salary or wages from employment as an election day worker, if the worker has used the EDW tax code:
-  (j) an amount of salary or wages from employment as casual agricultural employee, if the worker has used the CAE tax code.
-(4)
-(5)
-(6)
+[Repealed]
 
 ### 33A Annual returns of income not required
 [Repealed]
@@ -2268,14 +2557,15 @@ For the purposes of section 32E(2)﻿(i), when the person is part of a group of 
 [Repealed]
 
 ### 33C Return not required for certain providers of personal services
-A natural person who derives income in an income year for providing personal services to a person who is a claimant under the Accident Compensation Act 2001 is not required to furnish a return of income for the corresponding tax year if—
-  (a) a personal service rehabilitation payment is made for the claimant and for the personal services; and
-  (b) the taxable income of the person does not exceed $14,000 for the tax year; and
-  (c) tax is withheld at the rate of 10.5% from the personal service rehabilitation payment; and
-  (d) the person meets the requirements of section 33AA(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
+[Repealed]
 
 ### 33D Return not required for non-resident seasonal worker
-A person who is a non-resident seasonal worker in an income year corresponding to a tax year is not required to furnish a return of income for the tax year and will not receive an income statement from the Commissioner for the year.
+[Repealed]
+
+### 33E Research and development tax credits: supplementary return
+A person who is entitled to a research and development tax credit must file a research and development supplementary return for a tax year in an electronic format prescribed by the Commissioner on or before the day that is 30 days after—
+  (a) the due date on which they are required to file a return of income for the tax year under section 37; or
+  (b) the due date on which they would be required to file a return under section 37, if they had assessable income.
 
 ### 34 Presumption as to authority of person making return
 A return purporting to be made by or on behalf of any person shall for all purposes be deemed to have been made by that person or by that person's authority, as the case may be, unless the contrary is proved.
@@ -2306,37 +2596,13 @@ A return purporting to be made by or on behalf of any person shall for all purpo
 (4)
 
 ### 36A Electronic format of employer monthly schedule and PAYE payment form
-(1) The Commissioner must prescribe 1 or more electronic formats in which an employer monthly schedule must be furnished by an employer or a PAYE intermediary that is required to furnish that schedule in an electronic format.
-(2) The Commissioner may prescribe 1 or more electronic formats in which a PAYE payment form must be furnished by an employer or a PAYE intermediary that has elected to furnish that payment form in electronic format.
-(2B) An employer or PAYE intermediary to whom section RD 22(1) of the Income Tax Act 2007 applies must provide their employer monthly schedules and PAYE income payment forms to the Commissioner by electronic means and in the required format. But the requirement to file electronically does not apply if the employer—
-  (a) is not a new employer and has gross amounts of tax for PAYE income payments and employer's superannuation contributions payable for the preceding tax year of less than $100,000:
-  (b) is a new employer but only in relation to the months in the income year for which the total amounts of tax for PAYE income payments and employer's superannuation contributions remain under the $100,000 threshold:
-  (c) is authorised under section 36B to provide the schedule and form in a format other than an electronic format.
-(3) A format prescribed under subsection (1) or (2) may relate to an employer, a class of employers, a PAYE intermediary, or a class of PAYE intermediaries and is subject to the conditions specified by the Commissioner, whether generally or in a particular case.
+[Repealed]
 
 ### 36AB Electronic return requirements for multi-rate PIEs
 The Commissioner must prescribe 1 or more electronic formats in which a return required under section 57B must be provided by a multi-rate PIE or a proxy for an investor in the PIE. The Commissioner may specify conditions relating to the format, either general or in a particular case.
 
 ### 36B Other formats of employer monthly schedule
-(1) Despite section 36A(1), the Commissioner may authorise an employer that is required to furnish the employer monthly schedule in electronic format to furnish the schedule in a format that is not electronic if the employer's accounting system is incapable of providing the employer monthly schedule in a prescribed electronic format.
-(2) For the purpose of subsection (1), an employer's accounting system is incapable of providing the employer monthly schedule in a prescribed electronic format if the Commissioner considers the cost likely to be incurred by the employer in furnishing it is material, having regard to—
-  (a) the likely costs incurred by other employers in providing an employer monthly schedule in a prescribed electronic format; and
-  (b) the additional administrative costs that are likely to be incurred by the Commissioner in processing an employer monthly schedule that is not provided in a prescribed electronic format; and
-  (c) whether in the preceding tax year, the employer employed, on average, 50 or fewer employees on each day in the year; or
-  (d) if the employer was not an employer in the preceding tax year, whether the employer employs, on average, 50 or fewer employees on each day in the current tax year.
-(3) For the purpose of subsection (2)﻿(c) and (d), if during a tax year an employer ceases one business and commences a new business or operates 2 or more businesses simultaneously, the number of employees of the employer is calculated as the total of the employees in all the businesses.
-(4) If an amalgamating company ceases to exist on an amalgamation, subsection (2)﻿(c) and (d) apply from the date of the amalgamation as though the number of employees employed by the amalgamating company is the same as in the preceding year.
-(5) In subsection (2), the average number of employees must be calculated on the basis—
-  (a) that an employee for part of a day is employed for the whole of that day; and
-  (b) of the number of employees employed on each day of the tax year, or part tax year if section 36B(2)﻿(d) applies.
-(6) An authorisation under section 36B(1) is valid until the Commissioner gives notice cancelling it.
-(7) An authorisation cancelled by the Commissioner applies until the later of—
-  (a) 1 April following the year in which cancellation is notified; or
-  (b) 6 months after the date cancellation is notified.
-(8) If the Commissioner is satisfied that the number of employees of an employer did not or will not exceed the number provided in subsection (2)﻿(c) or (d), an employer does not have to make the calculation under subsection (2)﻿(c) or (d).
-(9) If an employer is authorised not to furnish an employer monthly schedule electronically and employed an average of more than 50 employees but not more than 100 employees in the 1999–2000 tax year,—
-  (a) subsection (7) does not apply; and
-  (b) the authorisation under this section expires on the last day of the 1999–2000 tax year.
+[Repealed]
 
 ### 36BB Electronic format for details required for tax pooling intermediaries
 The Commissioner may prescribe 1 or more electronic formats in which details that must be provided under sections RP 17 to RP 21 of the Income Tax Act 2007, and sections 15N to 15S may be provided by electronic means.
@@ -2358,29 +2624,36 @@ The Commissioner may prescribe 1 or more electronic formats in which details tha
 (6) In making an exemption under this section, the Commissioner may set a time limit on the exemption, stating a start date and an end date, as applicable, for the exemption and the reason for setting the limit.
 (7) An exemption under subsection (3) is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
 
+### 36BE Research and development tax credits: electronic formats
+(1) The Commissioner must prescribe 1 or more electronic formats in which a research and development supplementary return under section 33E must be filed.
+(2) The Commissioner may, from time to time, set specifications for software for use in populating the research and development supplementary return, and related criteria for the use of specified software.
+
 ### 36C Particulars furnished in electronic format
-(1) In the application of any of sections 35, 36, 36A, 36AB, 36B, 36BB, 36BC, or 36BD, information that is required to be furnished electronically is not in a prescribed format unless it is furnished in an electronic format certified by the Commissioner as being the prescribed electronic format.
+(1) In the application of any of sections 33E, 35, 36, 36A, 36AB, 36B, 36BB, 36BC, 36BD, or 36BE, information that is required to be furnished electronically is not in a prescribed format unless it is furnished in an electronic format certified by the Commissioner as being the prescribed electronic format.
 (2) The production by the Commissioner of a document purporting to be a printed copy of a specification of an electronic format or a part of that specification, in all courts and in all proceedings (including proceedings before a Taxation Review Authority), is sufficient evidence that the electronic format was prescribed.
 
 ### 36CA Electronic filing exemption for new businesses
-(1) An employer who begins business after 1 April 1999 and who is required to furnish an employer monthly schedule electronically may furnish an employer monthly schedule on the form prescribed by the Commissioner for the first 6 months of business.
-(2) The first 6 months of business begins on the date on which the employer begins business.
+[Repealed]
 
 ### 36D Non-electronic filing of employer monthly schedule
-An employer must furnish the particulars required to be included in an employer monthly schedule on the form supplied by the Commissioner if the employer—
-  (a) is not required to furnish an employer monthly schedule in a prescribed electronic format; and
-  (b) has not elected to do so under section 36E.
+[Repealed]
 
 ### 36E Election available to other employers
-An employer that is not required to furnish an employer monthly schedule electronically may elect to furnish that schedule in an electronic format prescribed by the Commissioner.
+[Repealed]
+
+**Returns and return dates**
 
 ### 37 Dates by which annual returns to be furnished
 (1) The annual returns of income required under this Act shall be furnished to the Commissioner as follows:
   (a)
   (b) in the case of any taxpayer with a late balance date, not later than the seventh of the month which is the fourth month after the end of the taxpayer's corresponding income year:
   (c) in all other cases, not later than 7 July in each year.
+(1B) For the purposes of this section, an annual return of income for an individual to whom Part 3, subpart 3B applies, means a final account described in section 22D(6) containing the income information of the individual for the tax year.
 (2) The Commissioner shall give public notice of the days by which the returns are required to be furnished by publishing the notice in such manner as the Commissioner thinks fit; but the omission to give any such notice shall not affect the liability of any person to furnish any return within the time prescribed by this section in that behalf.
 (3) Subject to subsection (5), where any taxpayer satisfies the Commissioner that the taxpayer is unable to furnish the required return by the due date required under this section, the Commissioner, upon application by or on behalf of the taxpayer on or before that date, or within such further period as the Commissioner may allow in any case or class of cases, may extend the time for furnishing the required return to such date as the Commissioner thinks proper in the circumstances.
+(3B) Subject to subsection (5), an extension of time to a date advised by the Commissioner is available to a person or a class of persons if—
+  (a) a systems issue arises for an Inland Revenue digital platform resulting in a person or class of persons being prevented from, or being otherwise hindered or disadvantaged in, providing the required return or income information; and
+  (b) a proportionate extension of time is considered proper in the circumstances.
 (4) Subject to subsection (5), the Commissioner may extend a tax agent's time for furnishing a return of income for any taxpayer to a date the Commissioner thinks proper in the circumstances, if the Commissioner is satisfied that—
   (a) the tax agent is unable to furnish the return of income on or before the date set by subsection (1); or
   (b) it would be unreasonable, having regard to the circumstances of the tax agent preparing the return, to require the return to be furnished on or before the date set by subsection (1).
@@ -2397,8 +2670,9 @@ An employer that is not required to furnish an employer monthly schedule electro
 (6)
 
 ### 38 Returns to annual balance date
-(1) Instead of furnishing a tax year return under section 33 on the basis of a corresponding income year that ends on 31 March, a taxpayer (other than a person who meets the requirements of section 33AA(1), or is issued an income statement or required to request or be issued an income statement,) may, with the consent of the Commissioner, elect to furnish a return based on a corresponding income year that ends with the date of the annual balance of the taxpayer's accounts.
+(1) Instead of furnishing a tax year return under section 33 on the basis of a corresponding income year that ends on 31 March, a taxpayer (other than an individual referred to in subsection (1C)) may, with the consent of the Commissioner, elect to furnish a return based on a corresponding income year that ends with the date of the annual balance of the taxpayer's accounts.
 (1B) A multi-rate PIE that does not calculate and pay tax using the provisional tax calculation option under section HM 44 of the Income Tax Act 2007 must not make an election under subsection (1).
+(1C) The person is an individual whose final account for the tax year is treated under section 22I(1)﻿(b) as an assessment under section 92.
 (2)
 (3) Any election made by a taxpayer for the purposes of this section shall continue in force unless and until it is altered by the taxpayer with the prior notified approval of the Commissioner.
 
@@ -2455,7 +2729,7 @@ An employer that is not required to furnish an employer monthly schedule electro
 (3) Subsection (4) applies if, apart from this section, a person is not required to furnish a return of income for a tax year and—
   (a) for the whole or part of the tax year the person is issued with a family notice of entitlement under the family scheme; or
   (b) after the end of the income year, the person applies to the Commissioner for a tax credit under the family scheme for that tax year.
-(4) Whether or not the person derived income in the tax year, the person must furnish to the Commissioner a return for the tax year, in the form prescribed by the Commissioner, providing—
+(4) Whether or not the person derived income in the tax year and despite the application of Part 3, subpart 3A, the person must furnish to the Commissioner a return for the tax year, in the form prescribed by the Commissioner, providing—
   (a) details of each family assistance credit paid to the person in the tax year; and
   (b) the information relevant to the calculation of the person's family scheme income for the tax year; and
   (c) other information required by the Commissioner.
@@ -2469,17 +2743,23 @@ An employer that is not required to furnish an employer monthly schedule electro
     (iii) the date allowed by the Commissioner on application.
 (8) An application under subsection (7)﻿(b)﻿(iii) for an extension of time to make an election is treated as if it were an application under section 37 in relation to a return of income for the later of the tax years referred to in subsection (7)﻿(b)﻿(i) and (ii).
 
-### 41A Returns by persons with tax credits for charitable or other public benefit gifts
-(1) A person who has a tax credit under sections LD 1 to LD 3 of the Income Tax Act 2007 may apply to the Commissioner for 1 or more refunds.
+### 41A Returns in relation to charitable or other public benefit gifts
+(1) A person who has a tax credit under sections LD 1 to LD 3 of the Income Tax Act 2007 may apply for a refund by—
+  (a) providing the information on the total amount of the charitable or other public benefit gifts they have made for a tax year with the information provided under Part 3, subpart 3B:
+  (b) notifying the Commissioner by electronic means in relation to an amount of charitable or other public benefit gift that they have made during the tax year to which the application relates:
+  (c) completing the form prescribed by the Commissioner.
 (2) The total amount refunded, including a refund made on an application under subsection (7), must be no more than the annual amount of the tax credits.
 (3) The sum of the charitable or other public benefit gifts under sections LD 1 to LD 3 of that Act made by a person must be no more than their taxable income in the tax year in which the gift is made.
 (4) If subsection (3) applies, the Commissioner must reduce the total amount of charitable or other public benefit gifts so that the total is no more than the person’s taxable income in the tax year in which the gift is made.
-(5) An application under subsection (1) must be made in the manner required by the Commissioner, be signed by the person, and be accompanied by any information the Commissioner requires, including—
+(5) An application under subsection (1) must be made in the manner required by the Commissioner, and be accompanied by any information the Commissioner requires, including—
   (a)
   (b) the amount of a charitable or other public benefit gift to which sections LD 1 to LD 3 of that Act apply.
 (6) A taxpayer may apply for a refund for the tax year in which the gift is made in the 4-year period beginning with—
   (a) the 1 April following the end of the taxpayer's income year corresponding to the tax year, if the taxpayer has a standard balance date or an earlier balance date; or
   (b) the day after the end of the taxpayer's income year corresponding to the tax year, if the taxpayer has a late balance date.
+(6B) For the purposes of section 108(1),—
+  (a) the payment of a refund under this section is treated as an assessment; and
+  (b) the 4-year period starts at the end of the tax year in which the person applies for the refund.
 (7) Despite subsection (6), the Commissioner may, in special circumstances, accept an application for a refund before the end of the tax year to which the application relates.
 (8) For the purpose of subsection (7), special circumstances include—
   (a) the person leaving New Zealand, permanently or for a significant length of time:
@@ -2529,14 +2809,14 @@ An employer that is not required to furnish an employer monthly schedule electro
 (3) There is no assessment of the company, but each owner must make a separate return of income under section 33 taking into account the amounts in subsection (2). Each owner is assessed separately.
 
 ### 42C Income tax returns by undischarged bankrupt
-A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives an amount of income in an income year while being a bankrupt must make a return of income for the income year, if not relieved of the requirement by section 33AA.
+A person who is adjudicated bankrupt under the Insolvency Act 2006 and derives an amount of income in an income year while being a bankrupt must make a return of income for the income year, unless the person is an individual whose final account for the tax year is treated under section 22I(1)﻿(b) as an assessment under section 92.
 
 ### 43 Income tax returns and assessments by executors or administrators
 (1) The executor or administrator of a deceased taxpayer must furnish the same returns of income and make the same assessments that the taxpayer was required to furnish or make, or would have been required to furnish or make, if the taxpayer had remained alive.
 (2) The Commissioner may from time to time require the executor or administrator to furnish such further returns of income for the deceased taxpayer as the Commissioner considers necessary.
 (3) Income tax assessed in respect of a deceased taxpayer, whether or not under subsection (1), is to be treated as a liability incurred by the deceased taxpayer during their lifetime, and the executor or administrator of the taxpayer is liable for the same accordingly.
-(4) The executor or administrator of a deceased taxpayer must request the Commissioner to issue an income statement if the taxpayer would have been required under section 80D(2) to apply for an income statement if the taxpayer had remained alive and the Commissioner has not issued an income statement.
-(5) The executor or administrator of a deceased taxpayer may request the Commissioner to issue an income statement if the taxpayer would have met the requirements of section 33AA(1) if the taxpayer had remained alive.
+(4)
+(5)
 
 ### 43A Non-active companies may be excused from filing returns
 (1) A company is not required to furnish a return of income in respect of any tax year if the company—
@@ -2650,39 +2930,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 [Repealed]
 
 ### 46 Employers to make returns as to employees
-(1) An employer must furnish an employer monthly schedule containing particulars of the persons employed by the employer in a month and of all salaries, wages, and other emoluments received in that month by each person employed.
-(2) The Commissioner may vary the requirements to provide particulars of the commencement or cessation of employment in an employer monthly schedule, in relation to any employer or class of employer, and in the cases and to the extent that the Commissioner considers fit, and the requirements apply as varied.
-(3) No variation made by the Commissioner under subsection (2) may impose a more onerous requirement on an employer than is imposed by the employer monthly schedule.
-(4) An employer must consolidate into 1 employer monthly schedule the particulars that must be included in an employer monthly schedule for an employee who receives, between 1 April 1999 and 31 March 2000, a payment listed under subsection (5).
-(5) Subsection (4) applies to a payment of—
-  (a) New Zealand superannuation; or
-  (b) a veteran's pension; or
-  (c) an income-tested benefit; or
-  (d) weekly compensation or compensation for loss of potential earning capacity payable under the Accident Rehabilitation and Compensation Insurance Act 1992; or
-  (da) all payments of weekly compensation made by the Accident Compensation Corporation under the Accident Insurance Act 1998; or
-  (db) payments of compensation for loss of earnings or loss of potential earning capacity in so far as the payments relate to a work-related personal injury and are made by the Accident Compensation Corporation under a policy of personal accident or sickness insurance to which section 188(1)﻿(a) of the Accident Insurance Act 1998 applies; or
-  (e) an allowance paid under regulations made under section 303 of the Education Act 1989; or
-  (f) a credit of tax paid under subparts MA to MF and MZ of the Income Tax Act 2007.
-(5A) The employer must furnish the Commissioner with the consolidated employer monthly schedule on or before 5 April 2000.
-(5B) The particulars required under subsection (4) do not include the name, tax file number, or any other particular relating to child support deductions made, or salary or wage deductions made under the Student Loan Scheme Act 2011.
-(6) Nothing in the employer monthly schedule requires information in relation to—
-  (a) any period referred to in subsection (2) where no person commences or ceases in that period to be an employee of the employer; or
-  (b) the commencement or cessation of—specified by the Commissioner as not requiring to be included in a certificate under this section.
-    (i) any class or description of employment; or
-    (ii) the employment of any class or description of employee; or
-    (iii) the employment of employees by any class or description of employer,—
-  (c)
-(6B) For the purposes of subsection (1), other emoluments—
-  (a) includes a benefit that an employee receives under section CE 1(1)﻿(d) of the Income Tax Act 2007 in relation to which the employer has not made an election under section RD 7B of that Act to withhold an amount of income tax:
-  (b) does not include—
-    (i) a benefit under a employee share scheme received by a former employee:
-    (ii) a benefit arising under a share purchase scheme approved by the Commissioner on meeting the criteria set out in sections DC 13 and DC 14 of that Act.
-(7) In this section, employee includes any person who receives or is entitled to receive a payment that would, but for section RD 3B or RD 3C of the Income Tax Act 2007, be a PAYE income payment.
-(8) For the purposes of the new rules relating to the delivery of employment income information set out in section 275 of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018, the Governor-General may, by Order in Council, on the recommendation of the Minister of Revenue, make regulations providing—
-  (a) the nature and type of errors that are able to be corrected by an employer or PAYE intermediary:
-  (b) the manner in which errors in employment income information may be corrected and the specifications for the correction of particular errors in employment income information:
-  (c) the periods to which corrections may relate, including past periods and future periods.
-(9) Before making a recommendation under subsection (8), the Minister must undertake consultation on the proposed regulation that is appropriate and reasonable for the purposes of this section.
+[Repealed]
 
 ### 46A Accident Rehabilitation and Compensation Insurance Corporation to provide information as to recipients of weekly compensation
 (1) The purpose of this section is to facilitate the exchange of information between the Corporation and the department for the purpose of verifying entitlement to the child tax credit.
@@ -2739,10 +2987,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 
 ### 47 ESCT statements provided by employers and others
 (1) This section applies when an employer, person, or PAYE intermediary withholds in a period an amount of ESCT from an employer's superannuation cash contribution.
-(2) The employer or PAYE intermediary must deliver to the Commissioner a PAYE payment form showing the amount of employer’s superannuation contribution, the amount of ESCT relating to the contribution, and any other particulars required by the Commissioner as follows:
-  (a) when the employer or PAYE intermediary has withheld the ESCT during the first payment period, no later than the 20th of the month during which the ESCT was withheld:
-  (b) when the employer or PAYE intermediary has withheld the ESCT during the second payment period, no later than the 5th of the month following the month in which the ESCT was withheld:
-  (c) despite paragraphs (a) and (b), if the employer or PAYE intermediary is required to pay an amount of tax to the Commissioner under section RD 4(1)﻿(a) of the Income Tax Act 2007, no later than the 20th of the following month in which the amount was withheld.
+(2) The employer, person, or PAYE intermediary must deliver their employment income information to the Commissioner by the relevant dates set out in sections 23E to 23H, 23J, and 23K showing the amount of the employer’s superannuation cash contribution, the amount of ESCT relating to the contribution, and any other particulars required by the Commissioner.
 
 ### 47B RSCT statements provided by retirement scheme contributor or retirement savings scheme
 (1) This section applies when a retirement scheme contributor or retirement savings scheme withholds an amount of RSCT from a retirement scheme contribution other than a contribution made by way of an imputation credit or Maori authority credit.
@@ -2750,12 +2995,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
 (3) The statement must be provided no later than the 20th of the month after the month in which the amount was withheld.
 
 ### 48 Special arrangements for supply of information by employer or PAYE intermediary to Commissioner
-(1) Notwithstanding anything in this Act and the Income Tax Act 2007, with the prior consent of the Commissioner, any requirement under this Act or the Income Tax Act 2007 for the delivery by an employer or a PAYE intermediary of any reconciliation, or return to the Commissioner or an employee may be satisfied by submitting the information required in any manner approved by the Commissioner.
-(2) Any information submitted under subsection (1) may, with the prior consent of the Commissioner, relate to more than 1 employer or PAYE intermediary.
-(3) For the purposes of this section, the Commissioner may—
-  (a) give consent under this section upon such terms and conditions as the Commissioner thinks fit:
-  (b) vary those terms and conditions and revoke any such consent at any time:
-  (c) prescribe forms for the purposes of this section.
+[Repealed]
 
 ### 48B Reconciliation statement for retirement scheme contribution withholding tax
 (1) If a retirement scheme contributor has made a retirement scheme contribution to a retirement savings scheme for a person in an income year, the retirement scheme contributor, or the retirement savings scheme acting on behalf of the retirement scheme contributor, must deliver to the Commissioner a reconciliation statement for the income year showing the information required by—
@@ -2965,6 +3205,15 @@ Where any person at any time—that person shall, notwithstanding any other prov
 
 ### 56 Returns of special accounts
 [Repealed]
+
+### 56B Certain information required in returns
+(1) This section applies for the purposes of section RE 24 of the Income Tax Act 2007 when an amount of tax for a taxable Maori authority distribution is treated as a Maori authority credit attached to the distribution.
+(2) The company paying the dividend and withholding the amount of tax under section RA 6(1) of that Act must provide to the Commissioner information in relation to the amount of tax in its annual ICA return under section 69.
+(3) For the purposes of subsection (2) and the payment of the dividend, the company must provide to the Commissioner information in relation to the dividend in—
+  (a) its dividend statement under section 67 if it is an ICA company; or
+  (b) if paragraph (a) does not apply, a form approved by the Commissioner, containing the information set out in section 67(a) to (c) and (f) and filed no later than 31 May after the end of the tax year.
+(4) The Maori authority making the distribution and withholding the amount of tax under section RA 6(1) of the Income Tax Act 2007 must provide to the Commissioner information in relation to the amount of tax in its annual Maori authority credit account return.
+(5) For the purposes of subsection (4) and the making of the distribution, the Maori authority must provide to the Commissioner information in relation to the distribution in the distribution statement prepared under section 68B.
 
 ### 57 Maori authority to make returns of income
 (1) Every year a Maori authority must furnish a return in the prescribed form that is a complete statement of the Maori authority's taxable income for the preceding year.
@@ -3179,6 +3428,53 @@ A company or person apportioning its interest expenditure under section FE 6B of
   (b)
 (4) The fund provider may claim an amount of a tax credit under section MK 1(1) of the Income Tax Act 2007 for the person if the provider meets the requirements of subsections (2)﻿(b) and (c), and is satisfied that the amount of tax credit has not previously been claimed. A claim under this subsection may be supplementary to or included in a claim under subsection (3), and must be in the form prescribed under subsection (3).
 
+**Research and development**
+
+### 68CB Research and development tax credits: general approval 2019–20 income year pilot
+(1) This section applies in accordance with section LY 3(1)﻿(d) of the Income Tax Act 2007, for the purpose of instituting an in-year approval pilot for a representative group of taxpayers for the 2019–20 income year. For a taxpayer to be part of the in-year approval pilot, the taxpayer and the Commissioner must agree that they are part of it.
+(2) A person’s research and development activities are approved for the income year, if the Commissioner approves the activities, as provided by subsections (3) to (7), and—
+  (a) the person’s application for approval does not contain a material omission or misrepresentation; and
+  (b) the person complies with any conditions in the Commissioner’s approval; and
+  (c) there is no material change in the provisions in subpart LY of that Act and any associated provisions.
+(3) The Commissioner may, in accordance with this section, approve a person’s research and development activities for the 2019–20 income year, if the person makes an application in accordance with subsection (4) on or before the date prescribed by the Commissioner for the purpose of the pilot approval scheme.
+(4) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
+  (a) the activities the person wants the Commissioner to approve; and
+  (b) any other information required by the Commissioner.
+(5) The Commissioner may only approve a person’s activities to the extent to which, in the opinion of the Commissioner, the relevant activity is a core research and development activity or a supporting research and development activity.
+(6) If the Commissioner approves a person’s activities for the income year, the Commissioner must notify the person what activities of the person the Commissioner approves of as core research and development activities or supporting research and development activities, and any conditions upon which the approval is made.
+(7) The Commissioner must notify the person of the intention to decline the application before the application is declined.
+
+### 68CC Research and development tax credits: greater than $2 million approval 2019–20 income year pilot
+(1) This section applies in accordance with section LY 3(1)﻿(d) of the Income Tax Act 2007, for the purpose of instituting an in-year approval pilot for a representative group of taxpayers for the 2019–20 income year. For a taxpayer to be part of the in-year approval pilot, the taxpayer and the Commissioner must agree that they are part of it.
+(2) This section applies ignoring, for purposes of this subsection only, sections HB 1 and HG 2 of the Income Tax Act 2007 (which relate to entity transparency) and substituting as the relevant person the person’s partnership or look-through company, if a person chooses to apply this section, and—
+  (a) has, or reasonably estimates that the person, together with any joint venture of which the person is a member, will have eligible research and development expenditure greater than $2 million for an income year; or
+  (b) is a member of a group of companies that has, or reasonably estimates that they will have, eligible research and development expenditure greater than $2 million for an income year.
+(3) A person is approved for the income year to the extent to which the Commissioner approves the person’s criteria and methodologies, as provided by subsections (4) to (8), and—
+  (a) the person’s application for approval does not contain a material omission or misrepresentation; and
+  (b) the person complies with any conditions in the Commissioner’s approval; and
+  (c) there is no material change in the provisions in subpart LY of the Income Tax Act 2007 and any associated provisions.
+(4) The Commissioner may, in accordance with this section, approve a person’s criteria and methodologies for the 2019–20 income year, if the person makes an application in accordance with subsection (5) on or before the date prescribed by the Commissioner for the purposes of the pilot.
+(5) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner, including—
+  (a) the criteria and methodologies the person wants the Commissioner to approve; and
+  (b) any other information required by the Commissioner.
+(6) The Commissioner may approve—
+  (a) appropriate criteria and methodologies for determining whether an activity is a core research and development activity, a supporting research and development activity, or not a research and development activity at all:
+  (b) appropriate criteria and methodologies for determining whether an amount of expenditure or loss is or is not an amount of eligible research and development expenditure.
+(7) If the Commissioner approves a person’s criteria and methodologies for the income year, the Commissioner must notify to the person those criteria and methodologies of the person that the Commissioner approves of, and any conditions upon which the approval is made.
+(8) The Commissioner must notify the person of the intention to decline the application before the application is declined.
+(9) The Commissioner may revoke an approval, with effect from the beginning of the income year in which the revocation is made, if the Commissioner considers that the person has classified an activity, or an expenditure or loss, in such a way so as to defeat the purpose and application of subpart LY of the Income Tax Act 2007.
+
+### 68CD Research and development tax credits: approved research and development cap
+(1) For the purposes of section LY 4 of the Income Tax Act 2007, the Commissioner may, in accordance with this section, approve for a person an amount greater than $120 million as the person’s approved research and development cap for an income year.
+(2) A person may request approval for an approved research and development cap by providing information to the Commissioner in the prescribed form on or before the 7th day of the 2nd month after the end of the income year.
+(3) The Commissioner must not approve an approved research and development cap for a person unless—
+  (a) the relevant research and development activities give rise to substantial net benefit for New Zealand; and
+  (b) the Commissioner has first consulted with the chief executive of the Ministry of Business, Innovation and Employment.
+
+### 68CE Research and development tax credits: publication of details
+(1) The Commissioner must publish, in a publication chosen by the Commissioner, the names of people who have received a research and development tax credit under subpart LY of the Income Tax Act 2007 and where the amount of their research and development tax credit falls for a tax year, using appropriate dollar bands.
+(2) The names and bands must not be published before 2 years elapse after the end of the tax year to which the relevant tax credit relates.
+
 ### 68D Statements in relation to research and development tax credits: single persons
 [Repealed]
 
@@ -3337,98 +3633,31 @@ In addition to the returns mentioned in sections 33, 41 to 44, 63, and 79, every
 ## Part 3A — Income statements
 
 ### 80A Application
-(1) This Part applies to a natural person who derives income from employment, or receives interest and dividends, and who—
-  (a) is a person who—
-    (i) is not exempted under section 33AA from the requirement to furnish an annual return of income; and
-    (ii) meets the requirements of section 33AA(1)(k) to (p); or
-  (b) is a person exempted under section 33AA from the requirement to furnish an annual return of income or to be issued an income statement and who asks the Commissioner to issue an income statement under section 80C; or
-  (c) is a person exempted under section 33AA from the requirement to furnish an annual return of income and is a person to whom an income statement is not required to be issued but who has been issued an income statement under section 80D(2).
-(2) This Part applies to the 1999–2000 and subsequent tax years.
+[Repealed]
 
 ### 80B Notification required that taxpayer not subject to this Part
-(1) A natural person who receives an income statement and who is not subject to this Part in a tax year because the person does not meet the requirements of section 33AA(1), must inform the Commissioner that the person is not (for that tax year) subject to this Part.
-(2) The information required must be received by the Commissioner no later than the person's terminal tax date for the tax year to which the income statement relates.
-(3)
-(4) An income statement to which section 80B(1) refers is to be regarded as not having been issued.
+[Repealed]
 
 ### 80C Requests for income statements
-A person who meets the requirements of section 33AA(1) may, at any time after the end of the person's tax year, request the issue of an income statement relating to that year.
+[Repealed]
 
 ### 80D Commissioner must issue income statement
-(1) For each income year, the Commissioner must issue an income statement to a person who the Commissioner considers—
-  (a) derived in the tax year income that was—
-    (i) income from employment:
-    (ii) interest:
-    (iii) dividends; and
-  (b) did not derive in the tax year any income that is not referred to in paragraph (a); and
-  (c) is a person—
-    (i)
-    (ii) who meets the requirements of section 33AA(1) and who requests the Commissioner to issue an income statement:
-    (iii) who meets the requirements of section 33AA(1) and who, because the person’s employer is not required to withhold an amount of tax for a PAYE income payment to the person, is required by section RD 4(2) of the Income Tax Act 2007 to provide to the Commissioner an employer monthly schedule relating to a PAYE income payment that the person derived in the tax year.
-(2) Despite subsection (1), the Commissioner may issue an income statement to a person, or require a person to apply for an income statement, at any time if the Commissioner considers the person has received income in a tax year.
-(3) The Commissioner may issue more than 1 income statement in respect of a tax year to a person.
+[Repealed]
 
 ### 80E Particulars to be included in income statement
-(1) An income statement issued under this Part must contain the information specified in subsection (2) to the extent that the information is both available and applicable to the person's circumstances.
-(2) The information is—
-  (a) the amount of a natural person's annual gross income for the tax year that the Commissioner considers was derived from employment, or interest, or dividends; and
-  (b) the sources of the annual gross income for the tax year in paragraph (a); and
-  (c) the amounts of the tax withheld for PAYE income payments and other income made in relation to the annual gross income for the tax year; and
-  (d) the amount of earner premium or earner levy deducted in respect of the person; and
-  (e) a calculation of the income tax liability of the person, including any tax payable or refund due; and
-  (ea) for a person to whom a notice of entitlement has been given under section 80KD, particulars relating to Working for Families tax credits; and
-  (f) any further particulars the Commissioner considers necessary.
-(3) Information required under subsection (2)﻿(ea) may be placed on a separate form and still remain part of the income statement.
+[Repealed]
 
 ### 80F Taxpayer obligations and assessment on receipt of income statement
-(1) Unless subsection (4) applies, a person who receives an income statement that the person considers is incorrect must notify the Commissioner, not later than the date prescribed in subsection (2), of the reasons why the person considers the income statement is incorrect and provide the information the taxpayer considers necessary to correct the income statement.
-(2) A person must notify the Commissioner by the later of—
-  (a) the person's terminal tax date for the tax year to which the income statement relates; and
-  (b) the date that occurs 2 months after the date the income statement is issued.
-(3)
-(4) A person is not required to notify the Commissioner of an amount of annual gross income for the tax year from employment, interest, or dividends that is not included in the income statement unless the total amount is more than $200.
-(5) For the purpose of subsection (4), the amount of annual gross income for the tax year from interest must not include an amount of interest in relation to which there was no requirement to prepare a RWT withholding certificate under section 25(7).
-(6) If the Commissioner accepts as correct the information given by the person under subsection (1), the Commissioner must issue another income statement that incorporates that information.
-(6A) Subsection (6) does not apply if—
-  (a) the taxpayer receives an income statement due to incorrect information held by the Commissioner; and
-  (b) the taxpayer meets the requirements of section 33AA(1); and
-  (c) the taxpayer has not requested an income statement.
-(7) If the Commissioner does not accept as correct all the information given by the person under subsection (1), the Commissioner may issue to the person a further income statement or an assessment that includes those particulars in section 80E that the Commissioner accepts as being applicable to the person.
+[Repealed]
 
 ### 80G Income statement deemed return
-(1) This section applies to a person to whom—
-  (a) an income statement is required to be issued and who considers that the income statement correctly summarises the particulars listed in section 80E(2) that apply to that person:
-  (b) an income statement is issued and who does not notify the Commissioner of the reasons why the person considers that the income statement is incorrect.
-(2) Except in section 37, an income statement issued to a person to whom subsection (1) applies is deemed to be a return of income furnished by the person under section 33 and to contain a notice of assessment signed by the person.
-(3) Unless a taxpayer responds in the manner required under section 80F, each tax position taken in an income statement issued by the Commissioner is deemed to be a taxpayer's tax position.
+[Repealed]
 
 ### 80H Income statement deemed assessment
-(1) A person is treated as having made an assessment under section 92 in respect of an income statement that is deemed to be a return of income under section 80G(2).
-(2)
-(3) Unless subsection (4) or (6) applies, an assessment under subsection (1) is treated as being made on the earliest of—
-  (a)
-  (ab)
-  (b) the person's terminal tax date for the tax year to which the income statement relates; or
-  (c) the 15th day after the date of issue of an income statement if the statement shows an amount of tax is overpaid and that amount does not exceed the amount specified in section RM 5 of the Income Tax Act 2007; or
-  (d) the date on which the person confirms that the income statement is correct under section RM 5 of the Income Tax Act 2007.
-(4) An assessment under subsection (1) is treated as being made on the date that is 2 months after the date an income statement is issued if the income statement is issued not more than 2 months before the person's terminal tax date.
-(5)
-(6) If a person is first issued with an income statement for a tax year after their terminal tax date, an assessment under subsection (1) is—
-  (a) treated as having been made on the date that is 2 months after the date the first income statement is issued; and
-  (b) treated as reflecting the tax position taken in the last income statement issued by the Commissioner in that 2-month period.
+[Repealed]
 
 ### 80I Deemed matters
-(1) This section applies to matters that are deemed to occur under this Part and to the tax year in which the matters are deemed to occur.
-(2) A statement by the Commissioner that—is conclusive of whether an event referred to in this Part has occurred.
-  (a) a return of income is deemed to be furnished; or
-  (b) a return of income is deemed to have been signed by a taxpayer; or
-  (c) an assessment is deemed to have been made—
-(3) A matter referred to in subsection (2) may not be called into question in any challenge or other proceedings on the basis that—
-  (a) a return of income has not been furnished; or
-  (b) a taxpayer has not furnished a return of income; or
-  (c) a taxpayer has not signed a return of income; or
-  (d) the assessment is not final.
-(4) A matter required to be done or provided within the time limit for furnishing a return of income is deemed to be required to be done or provided within the time limit for responding to an income statement.
+[Repealed]
 
 ## Part 3B — Credits of tax
 
@@ -3587,7 +3816,7 @@ A notice of entitlement issued under section 80KD—
   (b) any other information prescribed by the Commissioner.
 (3) The Commissioner must provide the summary—
   (a) for a non-filing taxpayer, on or before 20 May next following the last day of the tax year in which the payment is made; and
-  (b) for a filing taxpayer, on the same date that the Commissioner issues the person with an income statement for the tax year in which the payment is made.
+  (b) for a filing taxpayer, on the date that the Commissioner provides a pre-populated account for the person under section 22E for the tax year in which the payment is made.
 
 **Payments of tax credit by chief executive**
 
@@ -3632,16 +3861,9 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
 
 ### 80KT Details of payments of tax credits
 (1) This section applies when the chief executive pays under section 80KN a tax credit to a person.
-(2) The chief executive must, for each month in which a payment is made, give the Commissioner details of the payment in an employer monthly schedule.
-(3) The chief executive must, not later than 20 April next following the last day of the tax year in which the payment is made, give the person—
-  (a) a summary—
-    (i) signed by the chief executive; and
-    (ii) in a form authorised by the Commissioner; and
-    (iii) showing the total of all of the tax credits paid; and
-  (b) any other information required by the Commissioner.
-(4) The chief executive must, not later than 31 May in the tax year in which the summary is provided under subsection (3), give the Commissioner—
-  (a) a copy of every summary given by the chief executive under subsection (3)﻿(a); and
-  (b) any other information required by the Commissioner.
+(2) The chief executive must, for each month in which a payment is made, provide details of the payment at a time and in a manner agreed by the chief executive and the Commissioner.
+(3)
+(4)
 
 **When Commissioner takes over payment of tax credit from chief executive**
 
@@ -3848,7 +4070,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (j) the taxpayer is entitled to issue a notice of proposed adjustment in respect of a tax return provided by the taxpayer, and has done so; or
   (k) the assessment corrects a tax position taken by the taxpayer or an associated person as a consequence or result of an incorrect tax position taken by another taxpayer, and, at the time the Commissioner makes the assessment, the Commissioner has made, or is able to make, an assessment for that other taxpayer for the correct amount of tax payable by that other taxpayer; or
   (ka) the assessment corrects a tax position taken by the taxpayer in relation to a tax position taken by a look-through company in a return of income under section 42B, and the Commissioner and the company have completed the disputes process for that return of income and that tax position; or
-  (l) the assessment results from an income statement under Part 3A; or
+  (l) the assessment results from an amendment made under section 22G(6); or
   (lba) the assessment is of a penalty under section 142H or 142I; or
   (lb) the assessment extinguishes all or part of a taxpayer's tax loss in accordance with section 177C(5); or
   (m) the assessment includes a calculation by the Commissioner of a tax credit under the family scheme.
@@ -3859,7 +4081,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
   (b) has not previously issued a notice of proposed adjustment to the taxpayer in respect of the assessment, whether or not in breach of section 89C,—
 (2) A taxpayer who has not furnished a return of income for an assessment period may dispute the assessment made by the Commissioner only by furnishing a return of income for the assessment period.
 (2A) For the purpose of subsection (2), section 33(2) does not apply.
-(2B) A taxpayer to whom section 80F applies who has not furnished an amended income statement for an assessment period may dispute a deemed assessment under section 80H only by furnishing an amended income statement for the assessment period.
+(2B) For a taxpayer who is an individual, when an assessment for a tax year is made as described in section 22I(3), the taxpayer may dispute the assessment only by making an adjustment to their final account for the tax year.
 (2C) A taxpayer who has not provided a GST tax return for a GST return period may not dispute the assessment made by the Commissioner other than by providing a GST return for the GST return period.
 (2D) For the purpose of subsection (2C), section 16(6) of the Goods and Services Tax Act 1985 does not apply.
 (2E) If the Commissioner makes an assessment of an amount of research and development credit, a taxpayer who has not provided a statement under section 68D or 68E in relation to an assessment period may dispute the assessment only by providing a statement for the period within the time allowed under section 68D or 68E, as applicable.
@@ -3872,6 +4094,7 @@ The Commissioner must issue a notice of proposed adjustment before the Commissio
 ### 89DA Taxpayer may issue notice of proposed adjustment for taxpayer assessment
 (1) A taxpayer may issue a notice of proposed adjustment in respect of an assessment made by the taxpayer for a tax year or a GST return period except,—
   (a) to the extent to which the assessment takes into account amounts arising under subpart HB of the Income Tax Act 2007:
+  (ab) to the extent to which the assessment relates to an amount of research and development tax credit and the taxpayer has not filed a research and development supplementary return in relation to the credit within the time allowed under section 33E:
   (b) if the Commissioner has previously issued a notice of proposed adjustment to the taxpayer in respect of the assessment.
 (2) A notice of proposed adjustment under this section is not effective unless it is issued within the response period for the notice.
 (3) A taxpayer who makes an assessment of an amount of research and development credit but does not provide a statement under section 68D or 68E in relation to the tax year referred to in subsection (1), may dispute the assessment only by providing a statement for the tax year within the time allowed under section 68D or 68E, as applicable.
@@ -4639,11 +4862,10 @@ In this Part—
   (e) section 22AAB:
   (f) section 22A:
   (g) section 22B:
-  (h) section 24:
-  (i) section 26:
-  (j) section 32:
-  (k) section 87:
-  (l) section 152.
+  (h) section 26:
+  (i) section 32:
+  (j) section 87:
+  (k) section 152.
 (2) The Commissioner may also make a binding ruling on how the Commissioner will exercise his or her discretion under a provision specified in subsection (1).
 (3) The Commissioner may not make a binding ruling on a provision that authorises or requires the Commissioner to—
   (a) impose or remit a penalty; or
@@ -4985,12 +5207,13 @@ Before the Commissioner makes a product ruling, the Commissioner must give the a
 **Rulings generally**
 
 ### 91G Effect of legislative change on binding ruling
-A binding ruling does not apply from the date a taxation law is repealed or amended to the extent that the repeal or amendment changes the way the taxation law applies in the ruling.
+A binding ruling does not apply from the date a taxation law is repealed or amended to the extent that the repeal or amendment changes the way the taxation law applies in the ruling. For a limited purpose and period, section 100(2) of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 overrides this section.
 
 ### 91GA Applying for ruling on effect of change in legislation
 (1) A person who applied for a private ruling made under section 91E, may apply to the Commissioner for a ruling on whether the amendment or repeal of a taxation law that is stated as applying in the private ruling has changed the way that the law applies in the ruling.
 (2) A person who applied for a product ruling made under section 91F, may apply to the Commissioner for a ruling on whether the amendment or repeal of a taxation law that is stated as applying in the product ruling has changed the way that the law applies in the ruling.
 (3) A ruling made under subsection (1) or (2) is a status ruling.
+(4) For a limited purpose and period, section 100(2) of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 overrides this section.
 
 ### 91GB Commissioner to make status rulings on application
 (1) The Commissioner must make a status ruling on whether the amendment or repeal of a taxation law that is stated as applying in a private or a product ruling has changed the way that the law applies in the ruling.
@@ -5055,6 +5278,7 @@ The fact that there has been an application for a private ruling or a product ru
 ### 92 Taxpayer assessment of income tax
 (1) A taxpayer who is required to furnish a return of income for a tax year must make an assessment of the taxpayer's taxable income and income tax liability and, if applicable for the tax year, the net loss, terminal tax or refund due.
 (2) An assessment under this section is made on the date on which the taxpayer's return of income is received at an office of the department.
+(2B) For the purposes of subsections (1) and (2), an assessment of a taxpayer who is an individual to whom Part 3, subpart 3B applies is treated as made under section 22I(1)﻿(b) on the relevant date set out in section 22I(2).
 (3)
 (4)
 (5)
@@ -5246,9 +5470,9 @@ Any assessment or determination made by the Commissioner for the purposes of any
 
 ### 106 Assessment where default made in furnishing returns
 (1) If any person makes default in furnishing any return, or if the Commissioner is not satisfied with the return made by any person, or if the Commissioner has reason to suppose that any person, although the person has not made a return, is a taxpayer, the Commissioner may make an assessment of the amount on which in the Commissioner's judgment tax ought to be imposed and of the amount of that tax, and that person shall be liable to pay the tax so assessed, save so far as the person establishes on objection or in proceedings challenging the assessment that the assessment is excessive or that the person is not chargeable with tax.
-(1A) Despite Part 3A, if the Commissioner considers an income statement incorrectly summarises the particulars required by section 80E(2), the Commissioner may make an assessment of the amount on which the Commissioner considers tax ought to be imposed and of the amount of that tax.
-(1B) Tax assessed under subsection (1A) in respect of a person is payable by the person unless the person disputes the assessment and complies with the requirements of section 89D.
-(1C) Subsection (1A) applies if a person to whom an income statement is issued does not notify the Commissioner of the reasons why the person considers the income statement is incorrect and provide the information the person considers necessary to correct the income statement by the date prescribed in section 80F.
+(1A) If the Commissioner considers that the information provided in an individual’s final account for a tax year is not likely to be correct, the Commissioner may make an assessment of the amount on which the Commissioner considers tax ought to be imposed and of the amount of that tax.
+(1B) Tax assessed under subsection (1A) in relation to an individual is payable by the individual unless the individual disputes the assessment and complies with the requirements of section 89D.
+(1C) Subsection (1A) applies if the individual to whom Part 3, subpart 3B applies considers an error has arisen in a pre-populated or final account but does not notify the Commissioner of the reasons why the individual does not consider the account correct or provide the information necessary to correct the account.
 (1D) If a person who is required to provide a GST tax return for a GST return period does not provide a GST tax return for the return period, or provides a GST tax return with which the Commissioner is not satisfied, the Commissioner may make an assessment of the GST payable by the person for the return period.
 (1E) A person who is assessed under subsection (1D) is liable to pay the GST assessed unless the person establishes in proceedings challenging the assessment that the assessment is excessive, or that the person is not chargeable with GST.
 (2) An assessment made under this section shall not be invalidated by virtue of the fact that it is made automatically by a computer or other electronic means in response to or as a result of information entered or held in the computer or other electronic medium.
@@ -5267,19 +5491,16 @@ Where, whether before or after the commencement of this Act,—the validity of t
 (1) Except as specified in this section or in section 108B, if—the Commissioner may not amend the assessment so as to increase the amount assessed or decrease the amount of a net loss.
   (a) a taxpayer furnishes an income tax return and an assessment has been made; and
   (b) 4 years have passed from the end of the tax year in which the taxpayer provides the tax return,—
-(1A) Unless subsection (2) or section 108B applies, the Commissioner must not issue an income statement under Part 3A if 4 years have passed since the end of the tax year that follows the tax year to which the income statement would apply.
-(1B) Despite subsection (1), the Commissioner may not amend an assessment so as to increase an amount of research and development tax credit under section LH 2 of the Income Tax Act 2007 if—
-  (a) a taxpayer furnishes an income tax return for the 2008–09 or a later tax year; and
-  (b) 2 years have passed from the latest date to provide a return of income for the relevant tax year and, for a member of an internal software development group to which section 68E applies, the latest date means the latest date for any member of the group; and
-  (c) the taxpayer—
-    (i) has not issued a notice of proposed adjustment to the Commissioner for an amount of a tax credit for research and development expenditure for the relevant tax year within the relevant response period; and
-    (ii) has not asked for an assessment to be amended under section 113, having provided a detailed research and development statement under section 68D or 68E, as applicable, within the time limit referred to in paragraph (b).
+(1A)
+(1B)
 (1C) The Commissioner may not amend an assessment so as to increase an amount assessed when—
-  (a) a taxpayer furnishes—
-    (i) a return for an amount of ancillary tax for a period which, for the purposes of this section, is treated as the making of an assessment of the amount of the tax by the taxpayer:
-    (ii) a statement in relation to approved issuer levy payable under section 86K of the Stamp and Cheque Duties Act 1971 for a period which, for the purposes of this section, is treated as the making of an assessment of the levy by the taxpayer; and
-  (b) 4 years have passed from the end of the period in which the taxpayer furnished the return or statement, as applicable.
+  (a) a taxpayer—
+    (i) provides a return for an amount of ancillary tax for a period which, for the purposes of this section, is treated as the making of an assessment of the amount of the tax by the taxpayer:
+    (ii) provides a statement in relation to approved issuer levy payable under section 86K of the Stamp and Cheque Duties Act 1971 for a period which, for the purposes of this section, is treated as the making of an assessment of the levy by the taxpayer:
+    (iii) makes an application for a refund made under section 41A in relation to a tax credit for a charitable or other public benefit gift; and
+  (b) 4 years have passed from the end of the period in which the taxpayer provided the return or statement, or made the application, as applicable.
 (1D) For the purposes of the time bar in subsection (1C)﻿(b), a taxpayer who furnishes a statement referred to in subsection (1C)﻿(a)﻿(ii) is treated as having met the requirements for furnishing a tax return for non-resident withholding tax.
+(1E) Despite subsection (1), the Commissioner may not amend an assessment so as to increase an amount of research and development tax credit if 1 year has passed from the latest date to provide a return of income for the relevant tax year.
 (2) If the Commissioner is of the opinion that a tax return provided by a taxpayer—the Commissioner may amend the assessment at any time so as to increase its amount.
   (a) is fraudulent or wilfully misleading; or
   (b) does not mention income which is of a particular nature or was derived from a particular source, and in respect of which a tax return is required to be provided,—
@@ -5301,7 +5522,7 @@ Where, whether before or after the commencement of this Act,—the validity of t
 
 ### 108B Extension of time bars
 (1) The application of a time bar that is referred to in subsection (3) may be delayed for a taxpayer by a waiver—
-  (a) for not more than 12 months from the time at which the time bar would otherwise apply if—
+  (a) for 12 months from the time at which the time bar would otherwise apply if—
     (i) the taxpayer and the Commissioner agree to the waiver; and
     (ii) their agreement is recorded in a document; and
   (b) for a further 6 months from the end of the 12-month period referred to in paragraph (a), by notice given by the taxpayer.
@@ -5312,7 +5533,7 @@ Where, whether before or after the commencement of this Act,—the validity of t
   (a) the time bar occurring under section 25 of the Income Tax Act 1976 after the period of 4 years from the end of the year in which the notice of original assessment was issued; and
   (b) the time bar occurring under section 107A after the period of 4 years from the end of the year in which the notice of original assessment was issued; and
   (c) the time bar occurring under section 108 (as that section applied before it was amended by section 29 of the Tax Administration Amendment Act (No 2) 1996) after the period of 4 years from the end of the year in which the notice of original assessment was issued; and
-  (d) the time bar occurring under section 108(1), (1A), (1B), and (1C) (as amended by section 29 of the Tax Administration Amendment Act (No 2) 1996) after the period of 4 years from the end of the tax year in which the taxpayer provides a return of income; and
+  (d) the time bar occurring under section 108(1), (1B), and (1C) (as amended by section 29 of the Tax Administration Amendment Act (No 2) 1996) after the period of 4 years from the end of the tax year in which the taxpayer provides a return of income; and
   (e) the time bar occurring under the former section 31 of the Goods and Services Tax Act 1985 (as that section applied on 30 September 1996) after the period of 4 years from the end of the month in which the GST return was provided or, as the case may be, the assessment made; and
   (f) the time bar occurring under section 108A(1) after the period of 4 years from the end of the GST return period in which the GST tax return was provided.
   (g)
@@ -5326,22 +5547,23 @@ Except in objection proceedings under Part 8 or a challenge under Part 8A,—
 A notice of assessment issued on or after 1 April 1995 and relating to return periods before that date shall be deemed to have been made under the Tax Administration Act 1994.
 
 ### 110 Evidence of returns and assessments
-(1) The production of any document under the hand of the Commissioner or an officer of the department purporting to be a copy of or extract from any return, income statement, or assessment shall in all courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the original, and the production of the original shall not be necessary, and all courts and Taxation Review Authorities shall in all proceedings take judicial notice of the signature of the Commissioner or an officer of the department either to the original or to any such copy or extract.
-(2) The production of any document under the hand of the Commissioner or an officer of the department purporting to be a hard copy transcript of all or any information transmitted by electronic means in accordance with section 36, or section 36A, or any other provision of this Act or of any of the other Inland Revenue Acts or the Goods and Services Tax Act 1985 shall in all courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the information electronically transmitted, and all courts and Taxation Review Authorities shall in all proceedings take judicial notice of the signature of the Commissioner or an officer of the department to any such hard copy transcript.
+(1) The production of any document under the hand of the Commissioner or an officer of the department purporting to be a copy of or extract from any return or assessment shall in all courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the original, and the production of the original shall not be necessary, and all courts and Taxation Review Authorities shall in all proceedings take judicial notice of the signature of the Commissioner or an officer of the department either to the original or to any such copy or extract.
+(1B) For the purposes of subsection (1), a return or assessment includes the final account of an individual relating to the information that is held by the Commissioner on their assessable income.
+(2) The production of any document under the hand of the Commissioner or an officer of the department purporting to be a hard copy transcript of all or any information transmitted by electronic means in accordance with section 36 or any other provision of this Act or of any of the other Inland Revenue Acts or the Goods and Services Tax Act 1985 shall in all courts and in all proceedings (including proceedings before a Taxation Review Authority) be sufficient evidence of the information electronically transmitted, and all courts and Taxation Review Authorities shall in all proceedings take judicial notice of the signature of the Commissioner or an officer of the department to any such hard copy transcript.
 
 ### 111 Commissioner to give notice of assessment to taxpayer
 (1) As soon as conveniently may be after making an assessment the Commissioner shall cause notice of the assessment to be given to the taxpayer:provided that where—it shall not be necessary to set forth in the notice of the assessment any particulars other than particulars as to the amount of tax to be paid by the taxpayer or the amount of tax to be refunded.
   (a) the taxpayer has, in the taxpayer's return to which the assessment relates, calculated the amount on which tax is payable or the amount of the tax; or
   (b) the assessment has been made on default by the taxpayer in furnishing any return for the year to which the assessment relates; or
-  (ba) the assessment is made after a failure by the taxpayer to comply with the taxpayer's obligations under section 80F; or
-  (bb) an assessment is deemed to be made under Part 3A; or
+  (ba) the assessment is made after a failure by the taxpayer to comply with their obligations under Part 3, subpart 3B; or
+  (bb) an assessment is deemed to be made under Part 3, subpart 3B; or
   (c) the Commissioner causes a separate statement in relation to the assessment to be given to the taxpayer setting forth the amount on which tax is payable and the amount of the tax,—
 (2)
 (3)
 (4)
 (5)
 (6) Omitting to give a notice under this section does not invalidate the assessment or in any manner affect the operation of the assessment.
-(7) If requested to do so, the Commissioner must give a notice of assessment to a taxpayer who accepts under section 80F an income statement as correct.
+(7) If requested to do so, the Commissioner must give a notice of assessment to a taxpayer who confirms the amount of their income tax liability under section 22H.
 (8) If the Commissioner makes an assessment in relation to goods that are treated under section 5(2) of the Goods and Services Tax Act 1985 as being supplied by a person, the Commissioner must send a copy of the notice referred to in subsection (1) to whichever of the person whose goods were sold and the person selling the goods is the person who is not assessed.
 
 ### 112 Commissioner to make determination of life insurer's policyholder net loss
@@ -5375,8 +5597,13 @@ A notice of assessment issued on or after 1 April 1995 and relating to return pe
 [Repealed]
 
 ### 113D Amended assessments for research and development tax credits
-(1) If a taxpayer has issued a notice of proposed adjustment for their claim for an amount of research and development tax credit under section LH 2 of the Income Tax Act 2007 within the relevant response period, the Commissioner may not amend an assessment so as to increase the amount of tax credit by more than the adjustment proposed in the notice of proposed adjustment.
-(2) If a taxpayer asks for an assessment to be amended under section 113, having provided a detailed research and development statement under section 68D or 68E, as applicable, within the time limit referred to in section 108(1B)﻿(b), the Commissioner may not increase the amount of the credit by more than the amount set out in the taxpayer's request.
+[Repealed]
+
+### 113E Amended assessments: research and development tax credits
+(1) A person may only—
+  (a) issue 1 notice of proposed adjustment in relation to an increase in the amount of a person’s research and development tax credit for a tax year within 1 year after the due date to provide a return of income for the tax year; or
+  (b) make 1 request under section 113 in relation to an increase in the amount of a person’s research and development tax credit for a tax year within 1 year after the due date to provide a return of income for the tax year.
+(2) A person must not make a request under section 113 in relation to research and development tax credits for a tax year unless they have filed a research and development supplementary return under section 33E for the year.
 
 ### 114 Validity of assessments
 An assessment made by the Commissioner is not invalidated—
@@ -5461,14 +5688,15 @@ Nothing in this Part applies to—
       (i) if a taxpayer pays too little tax by a due date—
         (A) the day after the due date for payment of the tax; or
         (B) where the due date is a new due date or, in the case of GST, a later due date for payment of the tax, the day after the original due date for payment of the tax:
-      (ii) if the Commissioner refunds or applies tax which should be kept and taken into account in respect of satisfying a taxpayer's tax liability at a due date, the day after the day the Commissioner refunds or applies the tax; and
+      (ii) if the Commissioner refunds or applies tax that should be kept and taken into account in satisfying a taxpayer’s tax liability at a due date, the day after the day on which the Commissioner refunds or applies the tax, unless subparagraph (iib) applies to the taxpayer; and
+      (iib) for a qualifying individual, if the Commissioner refunds, amends the amount of a refund, or applies tax that should be kept and taken into account in satisfying the individual’s tax liability at a due date, the day after the due date for payment of the tax; and
       (iii) for a provisional taxpayer to whom section 120KE(7) applies, the day after whichever dates of instalments B, D, and F for their corresponding income year occur 30 days after their last ratio instalment date; and
     (b) for overpaid tax, other than a GST refund provided by section 19C(8) or 20(5) of the Goods and Services Tax Act 1985, or FBT for the final quarter of a tax year, means the later of the following days—
       (i) if a taxpayer pays too much tax by or after a due date and subparagraph (iv) does not apply—
         (A) the day after the later of the due date for payment of the tax and the date the payment is made; or
         (B) where the due date is a new due date, the day after the later of the original due date for payment of the tax and the date on which the payment is made; and
       (ii) if a tax return is also to be provided in respect of the tax, the day after the tax return is provided; and
-      (iii) for a taxpayer to whom section 80D applies, the date on which the initial income statement is issued; and
+      (iii) for a taxpayer whose assessment for a tax year is made under Part 3, subpart 3B, the date on which their assessment arises under section 22I(2) or (3); and
       (iv) for a provisional taxpayer other than one to whom section 120KE(1) or (3) applies, the first day of the income year; and
       (v) for a provisional taxpayer to whom section 120KE(6) applies, the later of—
         (A) the day after the date set out in section RC 18(3) of the Income Tax Act 2007:
@@ -5667,8 +5895,10 @@ on 8 May 2008 on $9,750 ($12,750 − $3,000) (s 120C(2)﻿(b)).
 
 ### 120L Meaning of unpaid tax and overpaid tax for provisional tax purposes
 (1) For the purposes of determining amounts of unpaid tax and overpaid tax in respect of instalment dates for a tax year, a taxpayer's residual income tax is to be calculated in accordance with the definition of that term in section 120KB(4).
-(2) If a taxpayer makes a payment and does not specify how the payment is to be applied, the Commissioner must apply the payment towards the provisional tax that is due on an instalment date to which the Commissioner considers the payment relates
-(3) If the taxpayer makes a payment and specifies that it is made to meet their provisional tax due on an instalment date, the Commissioner must apply the payment towards the provisional tax specified by the taxpayer.
+(2) If the taxpayer makes a payment in relation to provisional tax before the due date for instalment F, the Commissioner must apply the payment towards the provisional tax that is due on an instalment date that—
+  (a) is specified by the taxpayer, if the taxpayer specifies an instalment; or
+  (b) the Commissioner considers the payment relates to, if the taxpayer does not specify an instalment.
+(3) Subsection (2) does not apply for provisional tax payable for the AIM method under section RC 9(4B) of the Income Tax Act 2007.
 
 ### 120LB Meaning of unpaid tax and overpaid tax for certain transferees under AIM method
 (1) This section applies for the purposes of section RC 35B of the Income Tax Act 2007 when a provisional taxpayer who uses the AIM method to calculate and pay a provisional tax liability asks the Commissioner to transfer an overpayment of provisional tax to a shareholder who is an employee of the taxpayer.
@@ -5778,6 +6008,9 @@ No interest shall be payable by the Commissioner under section 120D(3) on an amo
 
 ### 120VC Interest on some provisional tax
 No interest shall be payable by the Commissioner under section 120D(3) on an amount of provisional tax prior to the last instalment if section 120KBB applies for the provisional tax.
+
+### 120VD Interest on tax credits for charitable or other public benefit gifts
+No interest shall be payable by the Commissioner under section 120D(3) on an amount of tax credit calculated under section LD 1 of the Income Tax Act 2007.
 
 ### 120W Commissioner's official opinions
 (1) A taxpayer that, but for this section, is liable to pay interest on unpaid tax to the Commissioner, is not liable to pay that interest to the extent to which it arises because they relied on a Commissioner's official opinion.
@@ -6002,8 +6235,8 @@ The Commissioner may revoke the listing of a listed PAYE intermediary if—
 ### 124P Privacy requirements
 The PAYE intermediary must operate and maintain systems to protect the personal information and payment details that they acquire in running the systems.
 
-### 124Q Amended monthly schedules
-The PAYE intermediary may make an amended monthly schedule relating to the employee and a pay period, and is then responsible for the accuracy of the amendments.
+### 124Q Amended employment income information
+The PAYE intermediary may provide the amended employment income information relating to the employee and a payday, and is then responsible for the accuracy of the amendments.
 
 ### 124R Subsidy claim forms
 (1) A listed PAYE intermediary must file a subsidy claim form within 1 month of the date of filing an employer monthly schedule to which the form relates.
@@ -6114,7 +6347,42 @@ For the purposes of section RC 5(5B)﻿(c)﻿(ii) of the Income Tax Act 2007, th
   (a) the date set out in the notice of cancellation:
   (b) the date on which the Commissioner receives a notice of cancellation.
 
+**Payroll donations**
+
+**Payroll donations**
+
+### 124ZG Transfer of payroll donations by employers
+(1) This section applies for a pay period and employer who agrees to offer payroll giving to their employees, when a person asks their employer to transfer an amount of a payroll donation from the person's pay to a donee organisation.
+(2) The employer or PAYE intermediary must transfer the amount to the recipient of the donation on or by the relevant date required by sections RA 15 and RD 4 of the Income Tax Act 2007 that occurs nearest to the expiry of 2 months after the end of the pay period. Until transferred to the recipient, the amount is held on trust for the person.
+(3) Before the transfer referred to in subsection (2) is made, the person must—
+  (a) ensure that the recipient of the donation is a donee organisation; and
+  (b) supply the employer with sufficient details of the recipient to enable the transfer to be made.
+
+**Research and development**
+
+### 124ZH Approved research providers
+(1) A person is an approved research provider, if the Commissioner approves the person, as provided by subsections (2) to (7), and the person keeps records in accordance with section 22(2)﻿(kd).
+(2) The Commissioner may, in accordance with this section, approve a person, if the person makes an application in accordance with subsection (3).
+(3) A person must apply to the Commissioner for approval in the form prescribed by the Commissioner.
+(4) The Commissioner may only approve a person if, in the opinion of the Commissioner, the person—
+  (a) is capable of performing research and development activities on behalf of other persons; and
+  (b) has in New Zealand the facilities needed to perform research and development activities; and
+  (c) is available to perform research and development activities on behalf of other persons not associated with them; and
+  (d) performs or will perform research and development activities on behalf of other persons for market value consideration.
+(5) A person may apply for approval as an approved research provider by providing information to the Commissioner in the prescribed form. They may also apply for a revocation of approval.
+(6) If the Commissioner approves a person, the Commissioner must notify the person and publish the approval, in a publication chosen by the Commissioner.
+(7) The Commissioner may, at the Commissioner’s discretion, revoke approval as an approved research provider. The Commissioner must give the person reasons for the exercise of the Commissioner’s discretion, and specify the date from which the revocation takes effect.
+
 ## Part 8 — Objections
+
+### 125A Application of Part 8
+(1) Despite section 1(2), this Part applies to—
+  (a) every notice of assessment or reassessment issued by the Commissioner under a provision of the Inland Revenue Acts after 1 April 1995 and before 1 October 1996 for a particular item or matter, irrespective of the period to which the assessment or reassessment relates; and
+  (b) every notice of assessment issued by the Commissioner under a provision of the Inland Revenue Acts on or after 1 October 1996, if before that date, a taxpayer has made a competent objection to a notice of assessment that precedes the notice of reassessment for the same particular item or matter.
+(2) The Commissioner may, after being notified that the taxpayer agrees, specify that a notice of assessment or reassessment—
+  (a) issued before 1 October 1996, is to be treated as if it had been issued on or after that date (in which case the provisions of Parts 4A and 8A are to apply to the notice); and
+  (b) issued on or after 1 October 1996, is to be treated as if it had been issued before that date (in which case the provisions of Part 8 are to continue to apply to the notice).
+(3) Despite section 1(2), Part 3 of the Income Tax Act 1976 does not apply to a notice of assessment or reassessment issued on or after 1 April 1995.
 
 ### 125 Certain rights of objection not conferred
 Except so far as may be expressly provided to the contrary in this Act or the Income Tax Act 2007, this Part shall not confer any right of objection with respect to—
@@ -6133,18 +6401,9 @@ Except so far as may be expressly provided to the contrary in this Act or the In
   (j) any matter which by any provision in—is left to the discretion, judgment, opinion, approval, consent, or determination of the Commissioner; or
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
-    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2, RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A and 184 of this Act:
-    (iv) any of sections 21 to 23, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89M, 92, 106, 107, 108, 108A, 108B, 109, 110, 111, 113 to 116, 118, 120A to 120U, 131, 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act,—
+    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2, RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 18K, 33, 92A and 184 of this Act:
+    (iv) any of sections 17F, 17G, 18I, 21B to 23, 23B to 23Q, 36 to 44D, 58, 62, 63, 78B, 78C, 80, 89C, 89K, 89M, 92, 106, 107, 108, 108A, 108B, 109, 110, 111, 113 to 116, 118, 120A to 120U, 131, 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act,—
   (k) any matter in respect of which it is expressly provided that there shall be no right of objection or challenge to the decision or determination of the Commissioner.
-
-### 125A Application of Part 8
-(1) Despite section 1(2), this Part applies to—
-  (a) every notice of assessment or reassessment issued by the Commissioner under a provision of the Inland Revenue Acts after 1 April 1995 and before 1 October 1996 for a particular item or matter, irrespective of the period to which the assessment or reassessment relates; and
-  (b) every notice of assessment issued by the Commissioner under a provision of the Inland Revenue Acts on or after 1 October 1996, if before that date, a taxpayer has made a competent objection to a notice of assessment that precedes the notice of reassessment for the same particular item or matter.
-(2) The Commissioner may, after being notified that the taxpayer agrees, specify that a notice of assessment or reassessment—
-  (a) issued before 1 October 1996, is to be treated as if it had been issued on or after that date (in which case the provisions of Parts 4A and 8A are to apply to the notice); and
-  (b) issued on or after 1 October 1996, is to be treated as if it had been issued before that date (in which case the provisions of Part 8 are to continue to apply to the notice).
-(3) Despite section 1(2), Part 3 of the Income Tax Act 1976 does not apply to a notice of assessment or reassessment issued on or after 1 April 1995.
 
 ### 126 Procedure for objections to assessments
 (1) Any person who has been assessed for income tax may object to that assessment by delivering to the Commissioner a notice of objection stating shortly the grounds of the person's objection, within such time as may be specified in that behalf in the notice of assessment, not being less than 14 days after the date on which that notice of assessment is given, or within such extended time as the Commissioner may allow on the application of the person made before the expiry of—
@@ -6302,8 +6561,8 @@ If an objection is not wholly allowed by the Commissioner, the objector may, wit
 ### 138A Application of this Part
 (1) Despite section 1(2), this Part applies to—
   (a) every notice of disputable decision issued by the Commissioner under a provision of the Inland Revenue Acts on or after 1 October 1996, irrespective of the period to which the notice of disputable decision relates; and
-  (b) any assessment, reassessment, or determination of the Commissioner if a notice of assessment or reassessment to which section 124A(2)﻿(a) applies has been issued before 1 October 1996, irrespective of the period to which the notice of assessment or reassessment relates.
-(2) This Part does not apply to any assessment or reassessment or determination or decision of the Commissioner to which Part 8 applies by virtue of subsection (1) or subsection (2)﻿(b) of section 124A.
+  (b) any assessment, reassessment, or determination of the Commissioner if a notice of assessment or reassessment to which section 125A(2)﻿(a) applies has been issued before 1 October 1996, irrespective of the period to which the notice of assessment or reassessment relates.
+(2) This Part does not apply to any assessment or reassessment or determination or decision of the Commissioner to which Part 8 applies by virtue of subsection (1) or subsection (2)﻿(b) of section 125A.
 
 ### 138B When disputant entitled to challenge assessment
 (1) A disputant is entitled to challenge an assessment by commencing proceedings in a hearing authority if—
@@ -6351,8 +6610,8 @@ A disputant is entitled to challenge a disputable decision that is not an assess
   (e) a matter which by a provision in—is left to the discretion, judgment, opinion, approval, consent, or determination of the Commissioner; or
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
-    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
-    (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C, 80, 88, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
+    (iii) any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 8, and RM 10 of the Income Tax Act 2007 and sections 18K, 33, 92A, 139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
+    (iv) any of sections 17F, 17G, 18I, 21B to 23, 36 to 46, 58, 62, 63, 78B, 78C, 80, 89C, 89K, 89L, 89M, 89N(1)﻿(c)﻿(viii) and (3), 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 124ZH, Part 7B, 138I(2B), 138N, 139B, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D, 183A, 183D, 183F, and 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
   (ea) the Commissioner's interpretation of how a taxation law applies to a person, whether or not the person has come into legal existence, and to an arrangement, whether or not a single or a recurring arrangement, as set out in a binding ruling made under Part 5A; or
@@ -6481,7 +6740,7 @@ The purposes of this Part are—
 **Civil penalties**
 
 ### 139A Late filing penalty for certain returns
-(1) This section applies to tax returns required to be furnished under sections 33, 41 to 44, and 79 (in this Part, annual tax returns), the annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the reconciliation statement required to be provided under regulation 3 of the Accident Rehabilitation and Compensation Insurance (Earnings Definitions) Regulations 1992 or regulation 15 of the Accident Insurance (Premium Payment Procedures) Regulations 1999 or any successor to that regulation made under the Accident Compensation Act 2001, the statement required to be provided under section 54B of this Act, and the employer monthly schedule required to be provided under section RD 22(1) to (5) of the Income Tax Act 2007.
+(1) This section applies to tax returns required to be furnished under sections 33, 41 to 44, and 79 (in this Part, annual tax returns), the annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the reconciliation statement required to be provided under regulation 3 of the Accident Rehabilitation and Compensation Insurance (Earnings Definitions) Regulations 1992 or regulation 15 of the Accident Insurance (Premium Payment Procedures) Regulations 1999 or any successor to that regulation made under the Accident Compensation Act 2001, the statement required to be provided under section 54B of this Act, and the employment income information required to be provided under sections 23E to 23J.
 (2) A taxpayer is liable to pay a late filing penalty if—
   (a) the taxpayer does not complete and provide on time—
     (i) an annual tax return:
@@ -6489,21 +6748,27 @@ The purposes of this Part are—
     (iii) a reconciliation statement:
     (iiib) a return required to be furnished under section 57B:
     (iiic) a statement for payment of RLWT required to be provided under section 54B:
-    (iv) an employer monthly schedule; and
+    (iv) their employment income information; and
   (b) the Commissioner notifies the taxpayer that the penalty is payable.
 (3) The late filing penalty for an annual tax return for a taxpayer with net income—
   (a) below $100,000, is $50;
   (b) between $100,000 and $1,000,000 (both figures inclusive), is $250;
   (c) above $1,000,000, is $500.
-(4) The late filing penalty for an annual ICA return or reconciliation statement or employer monthly schedule or statement for RLWT is $250.
-(5) Except in the case of a late filing penalty resulting from an employer monthly schedule or from a tax return required under sections 16 to 18 of the Goods and Services Tax Act 1985, the Commissioner must, not less than 30 days before imposing a late filing penalty,—
+(4) The late filing penalty for an annual ICA return or reconciliation statement or employment income information or statement for RLWT is $250.
+(5) Except in the case of a late filing penalty resulting from employment income information or from a tax return required under sections 16 to 18 of the Goods and Services Tax Act 1985, the Commissioner must, not less than 30 days before imposing a late filing penalty,—
   (a) send notice to a taxpayer that a late filing penalty may be imposed if a return specified in the notice is not filed; or
   (b) publicly notify that a late filing penalty may be imposed on taxpayers who omit to file the required return.
-(6) In the case of a late filing penalty for failing to file an employer monthly schedule by the due date, the Commissioner must—
-  (a) give notice to the taxpayer that a late filing penalty will be payable for a further failure to file an employer monthly schedule on time, if the taxpayer has filed on time all employer monthly schedules due for filing in the period—
-    (i) beginning with the later of 1 April 1999 and the day 12 months before the due date; and
-    (ii) ending before the due date; or
-  (b) give notice to the taxpayer that the penalty is payable, if the taxpayer has not filed on time all employer monthly schedules due for filing in the period referred to in paragraph (a).
+(6) Subsections (7) to (9) apply in relation to a late filing penalty when a taxpayer fails to provide employment income information to the Commissioner by a due date when, for the 12-month period before the due date, the taxpayer has delivered on time all the required income information.
+(7) Subject to subsection (9), the Commissioner must notify the taxpayer,—
+  (a) first, that a late filing penalty will be payable for a further failure to provide income information on time:
+  (b) secondly, that the penalty is payable when a further failure occurs after the notice referred to in paragraph (a) has been given.
+(8) For employment income information, the maximum penalty that may be imposed in relation to a month, regardless of the number of failures to provide employment income information, is $250.
+(9) Despite subsection (7), a taxpayer is not liable to pay a late filing penalty in relation to employment income information if the Commissioner considers that, in a particular case or class of cases, a penalty should not be imposed. However, the Commissioner’s discretion may be exercised only if—
+  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue software platforms; and
+  (b) the taxpayer’s non-compliance is not serious or unreasonable.
+(10) Despite subsection (2)﻿(a)﻿(i), a taxpayer is not liable to pay a late filing penalty if the Commissioner considers that, in a particular case or class of cases, a penalty should not be imposed. However the Commissioner’s discretion may be exercised only if—
+  (a) it is necessary because of resource constraints imposed on the Commissioner during the period of co-existence of 2 Inland Revenue software platforms; and
+  (b) the taxpayer’s non-compliance is not serious or unreasonable.
 
 ### 139AAA Late filing penalty for GST returns
 (1) This section applies to a tax return (a GST return) required to be furnished by a registered person under sections 16 to 18 of the Goods and Services Tax Act 1985.
@@ -6524,14 +6789,14 @@ The purposes of this Part are—
 
 ### 139AA Non-electronic filing penalty
 (1) This section applies to—
-  (a) an employer who must comply, in a prescribed electronic format, with section RD 22(2) and (2B) of the Income Tax Act 2007; and
+  (a) an employer who must comply, in a prescribed electronic format, with section 23E; and
   (ab) a portfolio investment entity; and
   (ac) a portfolio investor proxy; and
   (ad) a registered person; and
   (b) a PAYE intermediary.
 (2) The person is liable to a non-electronic filing penalty if the person furnishes a return required to be in electronic format in a format that is not prescribed.
-(3) Subsection (2) does not apply if the employer is authorised under section 36B(1) to furnish the employer monthly schedule in a format that is not prescribed.
-(4) The non-electronic filing penalty is the greater of $250 or $1 for each employee employed at any time during the month to which the employer monthly schedule relates.
+(3) Subsection (2) does not apply if the employer is authorised under sections 23D(4) and 23G to provide their employment income information in a format that is not prescribed.
+(4) For employment income information, the maximum penalty that may be imposed in relation to a month, regardless of the number of failures to provide employment income information, is the greater of $250 or $1 for each employee whose employment income information is not in the prescribed electronic form or delivered by the prescribed means of electronic communication at any time in the month.
 (5) For GST purposes, the non-electronic filing penalty is $250.
 
 ### 139AB Penalty for member of large multinational group failing to provide information
@@ -6721,11 +6986,11 @@ For the purposes of determining a person’s liability to pay a late payment pen
   (b) the amount of provisional tax payable on that instalment date as determined by the estimate applying as at that instalment date.
 
 ### 141AA Shortfall penalty if non-resident contractor relieved from all liability to pay tax on contract payment
-(1) If a person makes a schedular payment that is a contract payment to a person who is a non-resident contractor and the non-resident contractor is not liable to pay income tax on the contract payment, whether because of a double tax agreement or otherwise, the person who makes the contract payment to the non-resident contractor is liable to pay a shortfall penalty of $250 for each return period—
-  (a) for which the person is required to deliver to the Commissioner an employer monthly schedule; and
+(1) If a person makes a schedular payment that is a contract payment to a person who is a non-resident contractor and the non-resident contractor is not liable to pay income tax on the contract payment, whether because of a double tax agreement or otherwise, the person who makes the contract payment to the non-resident contractor is liable to pay a shortfall penalty of $250 for each month—
+  (a) for which the person is required to deliver to the Commissioner employment income information; and
   (b) in which the person fails to withhold an amount of tax that is required from a contract payment to the non-resident contractor.
 (2) A person who is liable to pay a shortfall penalty under subsection (1) is not liable to pay a shortfall penalty based on the tax shortfall that, but for this section, would be calculated under section 141 in relation to the amount of tax required to be withheld.
-(3) The liability under subsection (1) of a person is limited to a total of $1,000 for each return period for which the person is required to deliver to the Commissioner an employer monthly schedule.
+(3) The liability under subsection (1) of a person is limited to a total of $1,000 for each month for which the person is required to deliver to the Commissioner employment income information.
 
 ### 141A Not taking reasonable care
 (1) A taxpayer is liable to pay a shortfall penalty if the taxpayer does not take reasonable care in taking a taxpayer's tax position (referred to as not taking reasonable care) and the taking of that tax position by that taxpayer results in a tax shortfall.
@@ -6841,34 +7106,35 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
 
 ### 141EC Definition of promoter
 (1) In sections 91FC, 91FD, and 141EB, promoter of an arrangement means—
-  (a) a person who is a party to, or is significantly involved in formulating, a plan or programme from which an arrangement is offered; or
-  (b) a person who is aware of material and relevant aspects of the arrangement and who sells, issues or promotes the selling or issuing of, the arrangement, whether or not for remuneration.
+  (a) a person who is a party to, or is significantly involved in formulating, a plan, software, or programme from which an arrangement is offered:
+  (b) a person who is aware of material and relevant aspects of the arrangement and who sells, issues or promotes the selling or issuing of, the arrangement, whether or not for remuneration:
+  (c) a person who provides services on a contingency fee basis in relation to research and development tax credit claims.
 (2) For the purpose of subsection (1), promoter does not include a person whose involvement with the arrangement is limited to providing legal, accounting, clerical or secretarial services to a promoter.
 
-### 141ED Not paying employer monthly schedule amount
-(1) A taxpayer is liable to pay a shortfall penalty (referred to as a penalty for not paying employer monthly schedule amount) if—
+### 141ED Penalty for unpaid amounts of employers’ withholding payments
+(1) A taxpayer is liable to pay a shortfall penalty (the employers’ withholding payment penalty) if—
   (a) the taxpayer—
-    (i) completes an employer monthly schedule showing an amount of tax (the returned amount) payable by the taxpayer to the Commissioner for the return period; and
-    (ii) provides the employer monthly schedule to the Commissioner; and
-    (iii) fails to pay to the Commissioner by the due date an amount owing to the Commissioner (the unpaid amount) of the returned amount; and
-  (b) the Commissioner, after the due date for the returned amount, gives to the taxpayer a notice (the Commissioner's notice)—
-    (i) that the taxpayer is liable to pay a penalty for failing to pay the unpaid amount by the due date and how the penalty is calculated; and
-    (ii) of the circumstances in which further penalties will be imposed and how a further penalty will be calculated; and
+    (i) provides employment income information to the Commissioner under subpart 3C; and
+    (ii) is required to pay to the Commissioner an amount of tax (the required amount) under section RD 4(1) of the Income Tax Act 2007; and
+    (iii) fails to pay some or all of the required amount (the unpaid amount) to the Commissioner by the due date; and
+  (b) the Commissioner, after the due date for the payment of the required amount, gives the taxpayer notice (the Commissioner’s notice)—
+    (i) that the taxpayer is liable to pay a penalty for failing to pay the unpaid amount by the due date and of how the penalty is calculated; and
+    (ii) of the circumstances in which further penalties will be imposed and of how a further penalty will be calculated; and
     (iii) of actions that the taxpayer may take to avoid the imposition of further penalties; and
   (c) subsection (3) does not apply to the taxpayer.
-(2) Before giving to the taxpayer the first Commissioner's notice in relation to the returned amount, the Commissioner must give to the taxpayer a notice that a penalty may be imposed under this section if the unpaid amount is not paid.
-(3) A taxpayer is not liable to pay a penalty for not paying employer monthly schedule amount in relation to an unpaid amount if—
+(2) Before giving to the taxpayer the first Commissioner's notice in relation to the required amount, the Commissioner must give to the taxpayer a notice that a penalty may be imposed under this section if the unpaid amount is not paid.
+(3) A taxpayer is not liable to pay an employers’ withholding payment penalty in relation to an unpaid amount if—
   (a) the taxpayer is a receiver or liquidator—
-    (i) appointed after the end of the return period referred to in subsection (1)﻿(a); and
+    (i) appointed after the end of the month in which the employment income information is provided to the Commissioner; and
     (ii) having insufficient funds available to pay the unpaid amount:
   (ab) during the period, the taxpayer is negotiating an instalment arrangement with the Commissioner to pay the unpaid amount:
   (b) the taxpayer—
     (i) agrees with the Commissioner, before the penalty date under subsection (4) for the due amount, to an instalment arrangement (the instalment arrangement), of the same type as an instalment arrangement referred to in section 177B, to pay the unpaid amount; and
     (ii) pays the unpaid amount under the instalment arrangement.
-(4) A penalty payable for not paying employer monthly schedule amount in relation to an unpaid amount has a due date (the penalty date) that is—
-  (a) the date of the Commissioner's notice, if the penalty is the first penalty in relation to the returned amount; or
+(4) An employers’ withholding payment penalty payable in relation to an unpaid amount has a due date (the penalty date) that is—
+  (a) the date of the Commissioner's notice, if the penalty is the first penalty in relation to the required amount; or
   (b) 1 month after the penalty date for the preceding penalty, if paragraph (a) does not apply.
-(5) The amount of the penalty for not paying employer monthly schedule amount in relation to an unpaid amount is—
+(5) The amount of the employers’ withholding payment penalty in relation to an unpaid amount is—
   (a) 10% of the unpaid amount on the day before the penalty date, if the taxpayer—
     (i) fails to agree to an instalment arrangement with the Commissioner before the day that is 1 month after the penalty date; and
     (ii) fails to pay the unpaid amount before the day that is 1 month after the penalty date; or
@@ -6878,10 +7144,10 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
   (c) 5% of the unpaid amount on the day before the penalty date, if—
     (i) the taxpayer pays the unpaid amount, or agrees to an instalment arrangement with the Commissioner, after the penalty date and before the day that is 1 month after the penalty date; and
     (ii) paragraph (b) does not apply.
-(5B) For the purposes of subsection (5), if the returned amount is varied or corrected by the taxpayer or the Commissioner in the period that starts on the date when the employer monthly schedule is provided to the Commissioner and ends on the day before the penalty date, the amount of the penalty that relates to the unpaid amount is based on the varied or corrected amount.
+(5B) For the purposes of subsection (5), if the required amount is varied or corrected by the taxpayer or the Commissioner in the period that starts on the date when the employment income information is provided to the Commissioner and ends on the day before the penalty date, the amount of the penalty that relates to the unpaid amount is based on the varied or corrected amount.
 (5C) An amount paid by the taxpayer or applied by the Commissioner on account of the taxpayer in relation to the taxpayer's liability to pay unpaid tax and a penalty under this section must first be applied towards payment of the penalty.
-(6) A taxpayer may be liable to pay more than 1 penalty for not paying employer monthly schedule amount arising from an employer monthly schedule.
-(7) The maximum amount of penalties under this section that may be imposed is 150% of the returned amount that is unpaid when the first penalty is imposed under this section.
+(6) A taxpayer may be liable to pay more than 1 employers’ withholding payment penalty arising from the employment income information.
+(7) The maximum amount of penalties under this section that may be imposed is 150% of the required amount that is unpaid when the first penalty is imposed under this section.
 (8) If the penalty date for a penalty would, in the absence of this subsection, be a date in a month that does not exist in the month, the penalty date is the date of the last day in the month.
 
 ### 141F Commissioner to determine portions in which shortfall penalty payable by taxpayer and officers of taxpayer
@@ -7008,8 +7274,8 @@ Despite sections 141A to 141E, a provisional taxpayer who uses a GST ratio in a 
 
 ### 141JA Application of Part 9 to non-filing taxpayers
 Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if the person—
-  (a) is an employee to whom section RD 4(2) of the Income Tax Act 2007 applies in the year; and
-  (b) receives an income statement that the person considers is incorrect and notifies the Commissioner in the way required by section 80F.
+  (a) is an employee to whom section RD 4(4) of the Income Tax Act 2007 applies in the year; and
+  (b) is required to provide information under Part 3, subpart 3B on their other income, and the Commissioner considers that the information is likely to be correct.
 
 ### 141JB Application of Part 9 to PAYE intermediaries
 (1) The provisions relating to the late filing penalty, the late payment penalty and shortfall penalties apply to a person acting as a PAYE intermediary for an employer in relation to an employee and a pay period as if the person were the employer, unless the employer has failed for the pay period to—
@@ -7029,20 +7295,18 @@ Part 9 does not apply to a person who is a non-filing taxpayer for a tax year if
 (2) The Minister shall, as soon as practicable, lay a copy of that report before the House of Representatives.
 
 ### 142 Due date for payment of late filing penalty
-(1) Except in the case of an employer monthly schedule or a return required by sections 16 to 18 of the Goods and Services Tax Act 1985, the due date for payment of a late filing penalty is the later of a date specified by the Commissioner (being a date not less than 30 days after the day on which the Commissioner notifies the taxpayer that the penalty is payable), and—
+(1) Except in the case of employment income information or a return required by sections 16 to 18 of the Goods and Services Tax Act 1985, the due date for payment of a late filing penalty is the later of a date specified by the Commissioner (being a date not less than 30 days after the day on which the Commissioner notifies the taxpayer that the penalty is payable), and—
   (a) the terminal tax date for the tax year to which the annual tax return relates; or
   (b)
   (c) for the reconciliation statement that is required by regulation 3 of the Accident Rehabilitation and Compensation Corporation Insurance (Earnings Definitions) Regulations 1992 or regulation 15 of the Accident Insurance (Premium Payment Procedures) Regulations 1999 or any successor to that regulation made under the Accident Compensation Act 2001, the date by which the employer is required to furnish the reconciliation statement; or
   (d) for an annual ICA return required to be furnished under section 69(1) and (2)﻿(a) by an Australian ICA company that is not required to furnish a return of income for a tax year, the date by which the company is required to furnish the annual ICA return.
   (e)
-(1A) The due date for the payment of a late filing penalty in respect of an employer monthly schedule is—
-  (a) the 5th day of the month next following the month in which the employer was required to furnish the employer monthly schedule for an employer to which section RD 22(2B) of the Income Tax Act 2007 applies; and
-  (b) the 20th day of the month next following the month in which the employer was required to furnish the employer monthly schedule for an employer to which section RD 22(3) or (4) of that Act applies.
+(1A) The due date for the payment of a late filing penalty for failing to provide employment income information is 30 days after the end of the month in which the employer is required to deliver their employment income information to the Commissioner.
 (1B) The due date for the payment of a late filing penalty for a return required by sections 16 to 18 of the Goods and Services Tax Act 1985 for a taxable period is—
   (a) the 28th day of the second month following the end of the taxable period, if paragraphs (b) and (c) do not apply; or
   (b) the 15th day of February, if the month following the end of the taxable period is December; or
   (c) the 7th day of June, if the month following the end of the taxable period is April.
-(2) In subsection (1), annual tax return, employer monthly schedule, and reconciliation statement have the meanings given to them in section 139A.
+(2) In subsection (1), annual tax return and reconciliation statement have the meanings given to them in section 139A.
 
 ### 142A New due date for payment of tax that is not a penalty
 (1A) This section applies for the transitional period described in subsection (10).
@@ -7138,9 +7402,10 @@ The due date for payment of an amount payable by an officer under section 141F i
 ### 142F Due date for payment of deferrable tax
 Deferrable tax is due and payable on the day which is the 30th day after the last day of the relevant period of deferral.
 
-### 142G Due date for payment of non-electronic filing penalty
-(1) A non-electronic filing penalty under section 139AA is due and payable on the 5th day of the month following the month in which the employer was required to furnish an employer monthly schedule in a prescribed electronic format.
-(2) For GST purposes, a non-electronic filing penalty is due and payable 30 days after the end of the month in which the registered person is required to provide the GST information to the Commissioner.
+### 142G Due date for payment of non-electronic filing penalties
+A non-electronic filing penalty under section 139AA is due and payable,—
+  (a) for employment income information, 30 days after the end of the month in which the employer is required to provide to the Commissioner the information in the prescribed electronic form or by means of the prescribed electronic communication:
+  (b) for GST purposes, 30 days after the end of the month in which the registered person is required to provide to the Commissioner the GST information in the prescribed electronic form or by means of the prescribed electronic communication.
 
 ### 142GB Due date for payment of penalty by member of large multinational group
 The due date for payment, by a member of a large multinational group, of a penalty under section 139AB is the date that the Commissioner specifies in the notice of assessment for the penalty, which must be 30 days or more after the date on which the notice of assessment is issued.
@@ -7204,7 +7469,7 @@ The due date for payment, by a member of a large multinational group, of a penal
   (a) the first time the person is convicted in relation to a particular type of offence, to a fine not exceeding $4,000:
   (b) the second time the person is convicted of the same type of offence, to a fine not exceeding $8,000:
   (c) on every other occasion the person is convicted of the same type of offence, to a fine not exceeding $12,000.
-(4) In this section and in sections 143A and 143B, tax return includes an income statement.
+(4) In this section and in sections 143A and 143B, tax return includes an individual’s final account under Part 3, subpart 3B.
 
 ### 143A Knowledge offences
 (1) A person commits an offence against this Act if the person—
@@ -7562,7 +7827,7 @@ In any proceedings against a person for refusing or failing to provide a tax ret
     (a) income tax payable under the Income Tax Act 2007 and the Income Tax Act 2004 and the Income Tax Act 1994 and the Income Tax Act 1976:
     (b) an amount of tax withheld, or combined tax and earner-related payment, to which section RD 4(1) of the Income Tax Act 2007 applies, or a tax deduction or combined tax and earner premium deduction or combined tax and earner levy deduction to which section NC 15 of the Income Tax Act 2004 or of the Income Tax Act 1994 and, where applicable, section 115 of the Accident Rehabilitation and Compensation Insurance Act 1992 or section 285 of the Accident Insurance Act 1998 or section 221 of the Accident Compensation Act 2001 applies or a tax deduction to which section 353 of the Income Tax Act 1976 applied:
     (bb) amounts paid to an intermediary in accordance with sections RP 17 to RP 21 of the Income Tax Act 2007 or subpart MBA of the Income Tax Act 2004:
-    (c) an amount to which section RD 4(2)﻿(a) of the Income Tax Act 2007 or section NC 16(b) of the Income Tax Act 2004 or of the Income Tax Act 1994 applies or section 355(b) of the Income Tax Act 1976 applied:
+    (c) an amount to which section RD 4(4) of the Income Tax Act 2007 or section NC 16(b) of the Income Tax Act 2004 or of the Income Tax Act 1994 applies or section 355(b) of the Income Tax Act 1976 applied:
     (d) an amount which, under section 168 of this Act or section 366 of the Income Tax Act 1976, constitutes a debt payable to the Commissioner:
     (e) an amount that under sections RA 10 and RD 70 of the Income Tax Act 2007 or section NE 5 of the Income Tax Act 2004 or of the Income Tax Act 1994 or section 336ZF of the Income Tax Act 1976 constitutes a debt payable to the Commissioner:
     (f) an amount of unpaid tax subject to Part 10A:
@@ -7812,7 +8077,9 @@ In this Part—
     (ii) the day after the end of the GST return period in which the refund arose:
   (b) when the taxpayer files their return on the due date, the day after the end of the GST period in which the refund arose:
   (c) when the taxpayer files their return after the due date, the day after the date on which the return is filed.
-(3) Despite subsection (2)﻿(b) and (bb), a taxpayer who has an early balance date must, for tax withheld or deducted on their behalf or a tax credit for expenditure on research and development, choose a day after the end of the tax year in which the amount was withheld or deducted or the tax year corresponding to the accounting year to which the credit relates.
+(3) Despite subsection (2)﻿(b) and (bb),—
+  (a) a taxpayer who has an early balance date must, for tax withheld or deducted on their behalf or a tax credit for expenditure on research and development, choose a day after the end of the tax year in which the amount was withheld or deducted or the tax year corresponding to the accounting year to which the credit relates:
+  (b) a taxpayer who has excess tax withheld or deducted on their behalf and has filed a tax return for the tax year in which the excess tax arises before the end of that tax year must, for the excess tax, choose the day on or after the date that the return is filed.
 
 ### 173M Transfer of excess tax to another taxpayer
 (1) A taxpayer or their agent may request that the Commissioner transfer an amount of the excess to another taxpayer. If the date chosen under subsection (4) is after the start of the requested period for the other taxpayer, the maximum amount that the Commissioner may transfer is the total of—
@@ -8108,10 +8375,10 @@ An amount that is interest under section 120D, or a late payment penalty relatin
   (f) Maori authority distribution penalty tax imposed by section 140CB:
   (g) a shortfall penalty imposed by section 141AA:
   (h) a civil penalty imposed under section 215 of the KiwiSaver Act 2006:
-  (i) a penalty for not paying employer monthly schedule amount imposed by section 141ED.
+  (i) an employers’ withholding payment penalty imposed by section 141ED.
 (1A) The Commissioner may remit the penalty if the Commissioner is satisfied that—
   (a) a penalty to which this section applies arises as a result of an event or circumstance beyond the control of a taxpayer; and
-  (b) as a consequence of that event or circumstance the taxpayer has a reasonable justification or excuse for not furnishing the tax return or an employer monthly schedule, or not furnishing an employer monthly schedule in a prescribed electronic format, or not paying the tax on time; and
+  (b) as a consequence of that event or circumstance the taxpayer has a reasonable justification or excuse for not furnishing the tax return or their employment income information, or not furnishing their employment income information in a prescribed electronic format, or not paying the tax on time; and
   (c) the taxpayer corrected the failure to comply as soon as practicable.
 (2) Without limiting the Commissioner's discretion under subsection (1), an event or circumstance may include—
   (a) an accident or a disaster; or
@@ -8216,7 +8483,7 @@ An amount that is interest under section 120D, or a late payment penalty relatin
   (b) a late payment penalty; and
   (bb) a shortfall penalty imposed by section 141AA; and
   (bc) a civil penalty imposed under section 215 of the KiwiSaver Act 2006; and
-  (bd) a penalty for not paying employer monthly schedule amount imposed by section 141ED; and
+  (bd) an employers’ withholding payment penalty imposed by section 141ED; and
   (c) interest under Part 7—
 (2) In the application of this section, the Commissioner must have regard to the importance of the penalty, and interest under Part 7, in promoting compliance, especially voluntary compliance, by all taxpayers and other persons with the Inland Revenue Acts.
 (3) The Commissioner must not consider a taxpayer's financial position when applying this section.
@@ -8230,7 +8497,7 @@ The Commissioner shall remit interest if—
 (1) Despite any other provision in this Act,—
   (a) a taxpayer is not liable to pay a late payment penalty if an amount of tax that remains outstanding after the due date is $100 or less:
   (b) a taxpayer is not liable to pay interest under Part 7 if an amount of tax that remains outstanding after the due date is $100 or less:
-  (c) a taxpayer is not liable to pay a penalty for not paying an employer monthly schedule amount if the unpaid amount on the day before the date of the Commissioner's notice under section 141ED(1)﻿(b) is $100 or less:
+  (c) a taxpayer is not liable to pay an employers’ withholding payment penalty if the unpaid amount on the day before the date of the Commissioner's notice under section 141ED(1)﻿(b) is $100 or less:
   (d) the Commissioner is not liable to pay interest under Part 7 on overpaid tax of $100 or less.
 (2) An amount specified in subsection (1) may be varied from time to time by the Governor-General by Order in Council.
 
@@ -8268,11 +8535,12 @@ If a double tax agreement exempts from tax any income derived before the date of
 
 ### 184A Refund of tax paid in excess made by direct credit to bank account
 (1) Unless subsection (3) applies, a refund of tax paid in excess must be made by direct credit to a bank account nominated by the taxpayer entitled to the refund.
-(2) When a taxpayer claims a refund, the taxpayer must provide to the Commissioner the particulars of a bank account in New Zealand to which a direct credit of the amount of the refund is to be made.
+(2) To enable a payment to be made by direct credit under this section, a taxpayer must provide to the Commissioner the particulars of a bank account in New Zealand to which a direct credit of the amount of the refund is to be made.
 (3) If the Commissioner is satisfied that the application of subsections (1) and (2) would result in undue hardship to a taxpayer, or is not practicable, a refund of tax paid in excess may be made by other means acceptable to the Commissioner.
 (4) In this section, bank account means an account with a bank that is a registered bank or a private savings bank or a credit union or a Building Society or the Public Service Investment Society Limited.
 (5) In this section, tax means—
   (a) an amount defined as tax in section 3(1)﻿(a):
+  (ab) an amount of income tax:
   (b) a refund allowed under section 41A:
   (c)
   (d)
@@ -8780,6 +9048,18 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
   (a) apply the provisions in the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 in relation to the tax treatment of the benefit; and
   (b) provide their employment income information in relation to the benefit under the provisions in subpart 3C rather than including the information in the employer monthly schedule and PAYE income payment form.
 
+### 227E Transitional provision: application of investment income information provisions
+(1) This section applies for the purposes of this Act and the Income Tax Act 2007 to a person who pays an amount of investment income in the period that starts on 1 April 2019 and ends on 31 March 2020 (the transitional period).
+(2) Despite the commencement provisions in the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018 (the amendment Act) for the provision of investment income information, a person may choose to apply the provisions of the amendment Act relating to the delivery of investment income information under subpart 3E and the correction of errors under section 25O for the transitional period or a part of it.
+(3) A person who makes an election under subsection (2) may not revert to the provisions in this Act and the Income Tax Act 2007 relating to the returns of income, and must continue to apply the relevant provisions of the amendment Act for the remainder of the transitional period, unless the person and Commissioner agree otherwise.
+
+### 227EB Transitional provisions: publication requirements related to RWT-exempt status and certain exemption certificates
+(1) For the transitional period referred to in section 227E(1), the Commissioner may—
+  (a) create an electronic register of persons who hold an RWT exemption certificate for the purposes of establishing their RWT-exempt status; and
+  (b) publish a person’s tax file number and the start date and, if applicable, the end date recorded on the person’s RWT exemption certificate.
+(2) A reference in a document to an RWT exemption certificate or to a person holding an RWT exemption certificate is to be read as including a reference to RWT-exempt status or to the person having RWT-exempt status, as applicable, to the extent necessary to reflect sensibly the intent of the document.
+(3) A reference in a document to an exemption certificate for a schedular payment or to the provision of a copy of an exemption certificate is to be read as including a reference to a notice of the Commissioner under schedule 5, part C, clause 6 that a person is entitled to receive payment for which no amount of tax is to be withheld or to the provision of evidence of the notice, as applicable, to the extent necessary to reflect sensibly the intent of the document.
+
 ### 227F Transitional provisions related to information disclosures
 (1) Subpart 3A, sections 16 to 17K are sections 16 to 19, 21 and 21BA of the Tax Administration Act 1994 in rewritten form and are intended to have the same effect. Subsection (3) overrides this subsection.
 (2) Unless a limit in subsection (3) applies, in circumstances where the meaning of a taxation law that comes into force at the commencement of this Act (the new law) is unclear or gives rise to absurdity,—
@@ -8787,6 +9067,9 @@ The Governor-General may, from time to time, by Order in Council, amend Schedule
   (b) it can be assumed that a corresponding old law provision exists for each new law provision.
 (3) Subsections (1) and (2) do not apply in the case of a new law that is amended after the commencement of this Act, with effect from the date on which the amendment comes into force.
 (4) For the avoidance of doubt, in relation to permitted disclosures under schedule 7, the authorisation of a specific disclosure under an exception set out in the schedule does not affect the general rule that confidentiality, as set out in section 18, applies only to sensitive revenue information.
+
+### 227G Transitional provision related to individuals’ income information
+For income years in the period from the 2000–01 income year to the 2019–20 income year, an individual who may have or may have had an entitlement under the family scheme under sections MD 1 and ME 1 of the Income Tax Act 2007, and the equivalent provisions in the Income Tax Act 2004 and the Income Tax Act 1994, but who was not required to provide a return of income for a tax year in that period, may, despite section 108, choose to file a return of income for the tax year.
 
 ### 228 Commissioner and department
 The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue is deemed to have been appointed Commissioner of Inland Revenue under section 6A.
@@ -8806,6 +9089,200 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
 ## Schedule 1 — Inland Revenue Acts
 
 ## Schedule 2 — Application of CRS standard
+
+## Schedule 3 — Record-keeping requirements
+
+| Row | Records |
+| --- | --- |
+| 1 | The amount of a PAYE income payment |
+| 2 | The amount of tax for a PAYE income payment |
+| 3 | The amount of an advance pay |
+| 4 | The amount of a payroll donation |
+| 5 | The amount of employer’s superannuation contribution |
+| 6 | The amount of a benefit under an employee share scheme |
+| 7 | The amount of personal service rehabilitation payment |
+| 8 | The amount of tax credits under section LD 4 of the Income Tax Act 2007 |
+| 9 | The amount of child support deductions |
+| 10 | The amount of salary or wage deductions under the Student Loan Scheme Act 2011 |
+| 11 | The amount of employer KiwiSaver contributions made under the KiwiSaver Act 2006 |
+| 12 | The amount of employee KiwiSaver contribution deductions under the KiwiSaver Act 2006 |
+| 13 | The name, tax file number, tax code, date of birth, and contact addresses of every person who derives or receives an amount in rows 1 to 11 |
+| 14 | The records, receipts, certificates, notifications, declarations relating to the items in rows 1 to 13 |
+
+| Row | Records |
+| --- | --- |
+| 1 | The name of every person who derives or is paid resident passive income or non-resident passive income |
+| 2 | The tax file number of every person who derives or is paid resident passive income or non-resident passive income |
+| 3 | The contact address of every person who derives or is paid resident passive income or non-resident passive income |
+| 4 | The date of birth of every person who derives or is paid resident passive income or non-resident passive income, if supplied by them |
+| 5 | The type and amount of resident passive income and the amount of RWT withheld |
+| 6 | The tax rate applying to the resident passive income |
+| 7 | The date on which RWT was withheld, and if there is more than 1 instance, the year in which the amounts were withheld |
+| 8 | The type and amount of non-resident passive income and the amount of NRWT withheld |
+| 9 | The tax rate applying to the non-resident passive income |
+| 10 | The date on which NRWT was withheld, and if there is more than 1 instance, the year in which the amounts were withheld |
+| 11 | The details of all financial arrangements under which interest has been paid, including any number used to identify the financial arrangement |
+| 12 | Other information required by the Commissioner |
+
+## Schedule 4 — Reporting of employment income information
+
+| Row | Items |  |
+| --- | --- | --- |
+| 1 | The name of the employer |  |
+| 2 | The tax file number of the employer |  |
+| 3 | The date of the applicable payday |  |
+| 4 | Particulars of the following for every person who is an employee of the employer and who receives a PAYE income payment or benefit under an employee share scheme: |  |
+|  | a | the name |
+|  | b | the tax file number, if supplied to the employer |
+|  | c | the tax code for a PAYE income payment that is not an extra pay |
+|  | d | the amount of gross earnings, including the value of a benefit arising under an employee share scheme |
+|  | e | the name of every person who is an employee who receives an extra pay at a rate less than the rate set out in schedule 2, part B, table 1, row 2 of the Income Tax Act 2007 |
+|  | f | the total amount of tax withheld before any tax credits are taken into account |
+|  | g | the amount of earnings not liable to the earner levy, including the value of a benefit arising under an employee share scheme |
+| 5 | Particulars of the following amounts for every person who is an employee, as applicable: |  |
+|  | a | the amount of any tax credit under section LD 4 of the Income Tax Act 2007 |
+|  | b | the amount of child support deductions |
+|  | c | the amount of salary or wage deductions made under the Student Loan Scheme Act 2011 |
+|  | d | the amount of employer KiwiSaver contributions made under the KiwiSaver Act 2006, part 3, subpart 3 less ESCT |
+|  | e | the amount of employee KiwiSaver contribution deductions under the KiwiSaver Act 2006, part 3, subpart 1 |
+| 6 | The amount of ESCT payable |  |
+| 7 | Particulars of the following for every former employee who receives a benefit under an employee share scheme when the employer has chosen under section RD 7B of the Income Tax Act 2007 to withhold an amount of tax for the benefit: |  |
+|  | a | the name of the employee |
+|  | b | the tax file number, if supplied to the employer |
+|  | c | the value of the benefit |
+|  | d | the amount of tax withheld |
+| 8 | Other particulars as the Commissioner requires |  |
+
+| Row | Items |
+| --- | --- |
+| 1 | The name of the employer |
+| 2 | The tax file number of the employer |
+| 3 | The contact address of the employer, as required |
+| 4 | The full name of the employee |
+| 5 | The contact address of the employee, as required |
+| 6 | The date of birth of the employee, if supplied to the employer |
+| 7 | The date on which the employee starts being an employee of the employer |
+| 8 | The tax file number of the employee, if supplied to the employer |
+| 9 | The tax code supplied by the employee |
+| 10 | The KiwiSaver status of the employee under section 22 of the KiwiSaver Act 2006 |
+
+| Row | Items |
+| --- | --- |
+| 1 | The name of the employer |
+| 2 | The tax file number of the employer |
+| 3 | The contact address of the employer |
+| 4 | The name of the employee |
+| 5 | The date on which the employee stops being an employee of the employer |
+| 6 | The tax file number of the employee, if supplied to the employer |
+
+## Schedule 5 — Certain tax codes and rates
+
+### Part A — PAYE tax codes for general use
+
+### 1 Tax codes generally
+(1) The basic tax rates for PAYE income payments are set out in schedule 2 of the Income Tax Act 2007.
+(2) The table in clause 4 lists the tax codes from which an employee must choose the code that applies to their circumstances unless they have a tailored tax code under part B, clauses 1 to 3.
+(3) An employee who receives a PAYE income payment of an income-tested benefit and a PAYE income payment that does not consist of an income-tested benefit may choose, for their non-benefit income, a secondary tax code set out in the table in clause 4, rows 3 to 6, that applies to their circumstances.
+(4) If another Act requires an employer to withhold the amount of tax for a PAYE income payment to an employee and pay the amount to the Commissioner, the tax code may be combined with another code applying under that Act.
+
+### 2 Changes to tax codes
+(1) An employee must inform their employer of a change in their tax code, including in the information, their name and tax file number, unless the Commissioner has provided a code to the employer under clause 3.
+(2) If an employee finds it difficult or impractical to inform their employer of a change in their tax code, they may notify the Commissioner who must then notify the employer of the employee’s new tax code.
+(3) The employee’s new tax code under subclause (1) or (2) applies to a PAYE income payment that the employer pays to the employee from—
+  (a) the first day of a pay period to which the payment relates until the date on which the employee is no longer entitled to use the tax code if—
+    (i) the employer has no earlier tax code for the employee; or
+    (ii) the change to the tax code is provided before the date on which the employer calculates their payroll for the period:
+  (b) the first day of the pay period following that to which the payment relates if the change to the tax code is provided after the date on which the employer calculates their payroll for the period.
+
+### 3 Use of incorrect tax codes
+(1) If the Commissioner considers that an employer or PAYE intermediary has used an incorrect tax code in relation to a PAYE income payment made to an employee, the Commissioner may—
+  (a) notify the employee of the incorrect tax code; and
+  (b) notify the employer or PAYE intermediary of the incorrect code; and
+  (c) provide the tax code that should apply to the PAYE income payment.
+(2) The employer or PAYE intermediary must use the tax code provided by the Commissioner after being notified. However, the tax code does not apply if the employee notifies their employer that their circumstances have changed and, as a result, a different tax code should apply.
+
+### 4 When entitlement to use tax code ends
+(1) If an employee is no longer entitled to use a particular tax code, they must notify their employer within 4 days after the date on which they become aware that they are no longer entitled to use the code. The employee must give the reason why the tax code no longer applies and the date on which their entitlement to use the tax code ended.
+(2) The tax code does not apply to a PAYE income payment made to the employee after the date on which the entitlement ends, unless the payment is salary or wages for a current pay period.
+(3) For the purposes of subclause (1), if the employee notifies the Commissioner that their entitlement has ended, they must similarly provide the reason and the date described in that subclause to the Commissioner.
+(4) If an employer has not received notice that the employee’s entitlement to use the tax code has ended, the employer is not required to change the amount of tax withheld from a payment made to an employee. Tax code tableThe following table is small in size and has 3 columns. Column 1 is headed Row. Column 2 is headed Tax Code. Column 3 is headed Circumstances for use of tax code.RowTax codeCircumstances for use of tax code1Mfor primary employment earnings when the employee is not entitled to a tax credit under section LC 13 of the Income Tax Act 20072MEfor primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 20073SBfor secondary employment earnings for an employee whose total PAYE income payments are not more than $14,0004Sfor secondary employment earnings for an employee whose total PAYE income payments are more than $14,000 but not more than $48,0005SHfor secondary employment earnings for an employee whose total PAYE income payments are more than $48,000 but not more than $70,0006STfor secondary employment earnings for an employee whose total PAYE income payments are more than $70,0007CAEfor salary or wages for employment as a casual agricultural employee8EDWfor salary or wages for employment as an election day worker9NSWfor salary or wages for employment as a non-resident seasonal worker
+
+### Part B — Special and particular tax codes
+
+### 1 Tailored tax codes
+(1) On application by an employee, the Commissioner may provide a tailored tax code for either—
+  (a) their New Zealand superannuation income or veteran’s pension income; or
+  (b) their other employment income from 1 or more employers.
+(2) A tailored tax code may—
+  (a) set out a tax code for a payment of salary or wages to an employee by 1 or more of their employers for a stated period:
+  (b) require that no amount of tax is withheld from, or a particular rate of tax applies to, a proportion of a PAYE income payment of the employee, as if it were the whole payment.
+(3) The Commissioner must calculate, for the PAYE income payments and the period to which the tax code applies, the amount of tax for the payments or the rate of tax applying to them,—
+  (a) having regard to the amount of tax for the payments that would be required under sections RD 9 to RD 11 of the Income Tax Act 2007:
+  (b) disregarding an entitlement under the family scheme.
+(4) For a tailored tax code under subclause (1)﻿(a), the Commissioner must, as soon as practicable, notify the responsible department of the tailored tax code together with the information described in subclauses (2) and (3). The department must use the tailored tax code for a PAYE income payment made to the employee after the date on which the department is notified, or if that payment has already been calculated, for the next payment.
+(5) A tailored tax code overrides the provisions of this Act and the Income Tax Act 2007 other than the employee’s duties under sections RA 8, RA 10, and RD 4(2) of that Act and subclause (6) and part A, clauses 3 and 4.
+(6) The Commissioner may cancel a tailored tax code at any time, notifying the employee, the employer, or responsible department, as applicable. If the employee is notified, they must then notify their employer that their entitlement to use a tailored tax code has ended.
+
+### 2 Tax codes for private domestic workers
+An employee may notify the Commissioner that they wish to have a tax code for their employment as a private domestic worker.
+
+### 3 Tax codes for non-resident seasonal workers
+A non-resident seasonal worker under the recognised seasonal employer (RSE) instructions has a tax code set out in the table in part A, row 9, for the first month of a period of employment in New Zealand.
+
+### Part C — Rates of tax for schedular payments
+
+### 1 Rates of tax for schedular payments
+(1) Clauses 2 to 7 apply to determine the rate of tax to be applied to a schedular payment to which sections RD 8 and RD 10B of the Income Tax Act 2007 apply. See also sections 24F, 24G, and 24H.
+(2) The rates of tax applying to schedular payments are—
+  (a) the standard rate:
+  (b) a payee’s elected rate:
+  (c) a rate set by the Commissioner, applying in certain circumstances:
+  (d) a special rate provided by the Commissioner.
+(3) In this schedule,—
+  (a) a person who is making a schedular payment is referred to as the payer:
+  (b) a person who is entitled to receive a schedular payment is referred to as the payee.
+
+### 2 Standard rates of tax
+The standard rates of tax for schedular payments are set out in schedule 4 of the Income Tax Act 2007.
+
+### 3 Elected rates of tax
+(1) A payee, other than a non-resident entertainer, may choose a rate of tax that is to apply to a schedular payment for the purposes of section RD 10B(2)﻿(a) of the Income Tax Act 2007. The minimum rates that a payee may choose are—
+  (a) for a payee who is a non-resident or a holder of a temporary entry class visa as defined in section 4 of the Immigration Act 2009, 15%:
+  (b) for all other payees, 10%.
+(2) If a payee notifies a payer of 2 different rates of tax within a 12-month period, the last notified rate is the elected rate that must be applied to the payment. The payee may not change their rate of tax in relation to the same payer within a 12-month period unless both the payer and payee agree.
+(3) For the purposes of this clause, the rate of tax must be a percentage counted to no more than 1 decimal place.
+
+### 4 Rates of tax or percentages set by Commissioner
+(1) If a payee has a liability under the Inland Revenue Acts that has not been met, the Commissioner may set a rate of tax to be applied to the payee’s schedular payments by notifying the payer and, subject to subclause (7), the payee.
+(2) The payee may ask the Commissioner to cancel the rate referred to in subclause (1), and the Commissioner must cancel the rate and notify the payee of the cancellation, if—
+  (a) the Commissioner is satisfied that all the payee’s liabilities under the Inland Revenue Acts have been met; and
+  (b) the Commissioner is reasonably satisfied that all the payee’s liabilities under the Inland Revenue Acts will be met in the future.
+(3) In addition to setting a rate under subclause (1), the Commissioner may set a percentage of the amount of 1 or more schedular payments made by a payer to a payee, and the payer must—
+  (a) apply the percentage to the schedular payment; and
+  (b) subtract the amount that is the percentage from the schedular payment; and
+  (c) pay the amount to the Commissioner.
+(4) An amount paid to the Commissioner under subclause (3) is credited against the payee’s liabilities under the Inland Revenue Acts and is not a tax credit under Part L of the Income Tax Act 2007.
+(5) The payee may ask the Commissioner to cancel the percentage set under subclause (3). The Commissioner must cancel the percentage and notify the payee of the cancellation if the Commissioner is satisfied that the payee has paid all tax that is due and payable by them.
+(6) For a payee and a schedular payment, a rate of tax or percentage set under this section must not result in an amount that is more than 50% of the amount of the schedular payment.
+(7) For the purposes of subclauses (1) and (3), the requirement to notify the payee does not have to be met if, after making reasonable inquiries, the Commissioner can find no contact address as described in section 14G for the payee.
+
+### 5 Special rates of tax
+(1) A payee, other than a non-resident entertainer, may apply to the Commissioner for a special rate of tax applying to some or all of a schedular payment, see section 24G.
+(2) The Commissioner may cancel the payee’s entitlement to use a special rate at any time. The Commissioner must notify the payee of the cancellation.
+
+### 6 Exempt schedular payments
+(1) The Commissioner may notify a payee, in relation to 1 or more schedular payments, that they are entitled to receive payment for which no amount of tax is to be withheld, see section 24H.
+(2) Subclause (1) does not apply in relation to—
+  (a) a payment made to a non-resident entertainer:
+  (b) a payment referred to in schedule 4, part J of the Income Tax Act 2007 made to a payee who is a New Zealand resident.
+(3) The Commissioner may revoke the exemption at any time. The Commissioner must notify the payee of the revocation.
+
+### 7 Use of incorrect rates of tax
+(1) If the Commissioner considers that a payer has used an incorrect rate of tax for a schedular payment made to a payee, the Commissioner may—
+  (a) notify the payee of the incorrect rate; and
+  (b) notify the payer of the incorrect rate; and
+  (c) provide the rate that should apply to the schedular payment.
+(2) After being notified, the payer must use the rate provided by the Commissioner. However, the rate does not apply if the payee notifies the payer that their circumstances have changed and, as a result, a different rate should apply.
 
 ## Schedule 7 — Disclosure rules
 
@@ -9061,14 +9538,10 @@ Section 18 does not prevent the Commissioner communicating to a person’s fund 
 (1) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of Callaghan Innovation, information for the purpose of administering subpart MX of the Income Tax Act 2007.
 (2) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Research, Science, and Technology Act 2010, information for the purpose of administering subpart MX of the Income Tax Act 2007.
 
-### 39 Agencies for Australian wine producer rebate
-(1) The purpose of this clause is to facilitate the exchange of information between the Commissioner and the Australian Taxation Office and the New Zealand Customs Service for the purpose of administering the entitlements of New Zealand resident wine producers to Australian wine producer rebates.
-(2) Section 18 does not prevent the Commissioner providing all information referred to in subclause (3) to a person who is—
-  (a) an officer, employee, or agent of the Australian Taxation Office or the New Zealand Customs Service; and
-  (b) authorised to receive the information by the chief executive officer of the Australian Taxation Office or the New Zealand Customs Service.
-(3) The information that may be provided under subclause (2) is all information relevant to—
-  (a) the claim by a New Zealand resident wine producer for payment of an Australian wine producer rebate in respect of wine produced in New Zealand that is sold in Australia:
-  (b) the approval or verification of the entitlement of a New Zealand resident wine producer to a payment of an Australian wine producer rebate.
+### 39 Agencies for research and development
+(1) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of the Treasury (as defined in section 2 of the Public Finance Act 1989), of Callaghan Innovation, of the Ministry of Business, Innovation and Employment, or of a state sector entity responsible for any function related to research and development advice or incentives, information reasonably necessary for that person to perform their work in relation to evaluating (in accordance with section LY 10 of the Income Tax Act 2007), administering, statistical reporting on, and policy formation for, tax credits provided in subparts LY and MX of that Act.
+(2) Section 18 does not prevent the Commissioner communicating to an officer, employee, or agent of Callaghan Innovation or of the Ministry of Business, Innovation and Employment, information reasonably necessary for that person to perform their work in relation to offering research and development advice and incentives.
+(3) Section 18 does not prevent the Commissioner allowing an officer, employee, or agent of Callaghan Innovation access to information reasonably necessary for that person to perform their work in relation to administering tax credits provided in subparts LY and MX of the Income Tax Act 2007.
 
 #### Subpart 2 — Disclosures in provisions related to exchanges of information
 
@@ -9235,6 +9708,45 @@ Section 18 does not prevent the Commissioner communicating any information to an
 
 ### 49 Arrangements for relief of double taxation
 Section 18 does not prevent the Commissioner disclosing such information as is required to be disclosed under a double tax agreement or tax recovery agreement to a person authorised to receive such information under the law of the territory in relation to which the double tax agreement or tax recovery agreement has been made.
+
+## Schedule 8 — Reporting of income information by individuals and treatment of certain amounts
+
+### Part A — Reporting of income information by individuals
+
+|  |  | Table 1—Information on other income that must be reported |
+| --- | --- | --- |
+| Row | Items |  |
+| 1 | Income from a New Zealand estate or trust |  |
+| 2 | A foreign-sourced amount |  |
+| 3 | Income from a partnership |  |
+| 4 | Income from a look-through company |  |
+| 5 | Income from rents |  |
+| 6 | Income from self employment |  |
+| 7 | A benefit under an employee share scheme in relation to an amount that is not reportable or exempt income |  |
+| 8 | Other income, including income from a disposal of property that is not otherwise included in reportable income |  |
+
+|  |  | Table 2—Additional information |
+| --- | --- | --- |
+| Row | Items |  |
+| 1 | A deduction |  |
+| 2 | A tax credit carried forward under section LE 3 of the Income Tax Act 2007 |  |
+| 3 | A tax loss balance, or tax loss component, other than a tax loss component under section LE 2 of the Income Tax Act 2007 |  |
+| 4 | A donations tax credit |  |
+| 5 | An amount of income protection insurance |  |
+
+### Part B — Treatment of certain amounts
+
+###  Writing off certain amounts of tax payable
+(1) Subject to clause 2, the Commissioner must write off the following amounts under section 22J:
+  (a) an amount of tax relating to income derived for a tax year by a qualifying individual, is equal to or less than $50:
+  (b) an amount of tax relating to reportable income derived for a tax year by an individual solely from—
+    (i) an income-tested benefit:
+    (ii) an education grant:
+    (iii) a payment of New Zealand superannuation:
+    (iv) a veteran’s pension.
+
+###  Exclusion
+(2) An amount of tax does not qualify for a write off under clause 1(b) if the amount is derived by an individual who has been assessed in the tax year as receiving an entitlement and a tax credit under the family scheme under subparts MA to MG and MZ of the Income Tax Act 2007.
 
 ### 1 Short Title
 This Act may be cited as the Tax Administration Amendment Act (No 2) 1996, and shall be read together with and deemed part of the Tax Administration Act 1994 (in this Act referred to as the principal Act).
