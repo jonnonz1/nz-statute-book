@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions Act 1982
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-04-01_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -19,14 +19,17 @@ In this Act, unless the context otherwise requires,—
     (b) in the case of credit unions, under section 127
   - **applicable auditing and assurance standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
   - **applicable financial reporting standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
-  - **association** means an association of credit unions registered as such under Part 3
+  - **association** means an association of credit unions incorporated under Part 3 in accordance with section 146
   - **bank** means a person carrying on in New Zealand the business of banking; and includes the Reserve Bank of New Zealand, the Post Office Bank Limited, any private savings bank company's successor under the Private Savings Banks (Transfer of Undertakings) Act 1992, and any trustee bank's successor company constituted under the Companies Act 1993
   - **benevolent society** means a society of the kind specified in section 11(1)﻿(b)
   - **branch** means any number of the members of a society, under the control of a central body, having a separate fund administered by themselves or by a committee or officers appointed by themselves, and bound to contribute to a fund under the control of a central body; and includes a branch of a branch of a society
   - **central body** means a body of persons which has the control of the fund or funds to which a branch of a society is bound to contribute, and which also has responsibilities under this Act in relation to that branch
-  - **committee** and mean the directing body of a society or branch, by whatever name that body is known
-  - **credit union** means any society or body of persons registered or deemed to be registered as a credit union under Part 3; and, unless otherwise provided by this Act and with any necessary modifications, includes an association of credit unions
+  - **committee** and mean the directing body of a society or branch or a credit union, by whatever name that body is known
+  - **credit union** —
+    (a) means a credit union incorporated under Part 3 in accordance with section 100B; and
+    (b) subject to section 146(8) and with any necessary modifications, includes an association of credit unions incorporated under Part 3 in accordance with section 146
   - **document** includes all instruments by way of security and title, membership and other registers, and all documents and records; but does not include accounting records
+  - **financial product** has the meaning given in section 7(1) of the Financial Markets Conduct Act 2013
   - **financial statements** has the same meaning as in section 6 of the Financial Reporting Act 2013
   - **financial year** means the financial year of every registered society or branch or credit union, being a period of 12 months ending with 1 December or such other day as may be provided in the rules of the society, branch, or credit union
   - **friendly society** means a society of the kind specified in section 11(1)﻿(a)
@@ -36,19 +39,25 @@ In this Act, unless the context otherwise requires,—
   - **meeting** includes (where the rules of a society or branch so allow) a meeting of delegates appointed by members
   - **Minister** means the Minister of the Crown having for the time being charge of the administration of this Act
   - **non-GAAP standard** has the same meaning as in section 5 of the Financial Reporting Act 2013
-  - **officer** , in relation to a registered society or branch or credit union, includes any trustee, treasurer, secretary, or member of the committee of management of the society, branch, or credit union, and any person appointed by the society or branch or credit union to sue and be sued on its behalf
+  - **officer** ,—
+    (a) in relation to a registered society or branch, includes any trustee, treasurer, secretary, or member of the committee of management of the society or branch, and any person appointed by the society or branch to sue and be sued on its behalf; and
+    (b) in relation to a credit union, means a person who—
+      (i) is a member of the credit union’s committee of management; or
+      (ii) holds any other office provided for in the credit union’s rules
   - **persons claiming through a member** includes the nominee of the member where nomination is allowed
   - **property** means all property, whether real or personal (including accounting records and all documents)
   - **qualified auditor** has the same meaning as in section 35 of the Financial Reporting Act 2013
-  - **registered** means received by the Registrar and sealed with his seal of office
+  - **registered** means registered in a register maintained by the Registrar for the purposes of this Act
   - **registered society or branch** means a society or branch registered or deemed to be registered under Part 2
   - **Registrar** means the Registrar of Friendly Societies and Credit Unions, and, where a Deputy Registrar of Friendly Societies and Credit Unions is lawfully acting, includes that Deputy Registrar
-  - **Revising Barrister** means the Solicitor-General; and includes any Crown Counsel in the Crown Law Office
   - **share** , in relation to a credit union, means a share in the capital of that credit union
   - **specially authorised society** means a society of a kind authorised by the Minister pursuant to section 11(1)﻿(d); but does not include a credit union
   - **special resolution** , where required under this Act, means a resolution passed in the manner prescribed by section 82
   - **trustee company** means a trustee company within the meaning of the Trustee Companies Act 1967
   - **working men's club** means a society of the kind specified in section 11(1)﻿(c).
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ## Part 1 — Registrar and officers
 
@@ -67,9 +76,19 @@ In this Act, unless the context otherwise requires,—
 ### 5 Registry Office and registers
 (1) The Registrar shall have a Registry Office, and all documents, or information required by or pursuant to this Act to be sent to the Registrar shall be sent to the Registry Office.
 (2) All documents or information required by or pursuant to this Act to be sent to the Registrar shall be deposited with the rules of the society, branch, or credit union to which the documents respectively relate and, together with such observations thereon as he thinks fit, shall be registered or recorded by the Registrar.
+(2A) Any register may—
+  (a) be an electronic register; or
+  (b) be kept in any other manner that the Registrar thinks fit.
+(2B) The Registrar may amend any register if—
+  (a) a society, branch, or credit union informs the Registrar of information that is different from the information entered on the register; or
+  (b) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar.
 (3) The following documents or information contained in any register shall be open to inspection by the public during ordinary office hours on payment of the prescribed fee (if any):
   (a) in respect of any registered society or branch, the rules and any amendments, notices of change of registered office and of the appointment of new trustees, annual returns, actuarial reports (except those requested by the Registrar pursuant to section 74(4)), notices of change of name and of special resolutions, and any order or award of the Registrar relating to the dissolution or suspension of any business, or the cancellation or suspension of registration of the society or branch:
-  (b) in respect of any credit union, the rules and any amendments, notices of change of registered office and of the appointment of new trustees, annual returns, notices of change of name and of special resolutions, and any order or award of the Registrar relating to the dissolution or suspension of any business, or the cancellation or suspension of registration of the credit union.
+  (b) in respect of any credit union,—
+    (i) the rules and any amendments, notices of change of registered office and of the appointment of officers, annual returns, and notices of change of name and of special resolutions:
+    (ii) details of any action taken by the Registrar under section 139 in relation to the credit union:
+    (iii) if the credit union is removed from the register under section 140, the notice of the removal issued by the Registrar:
+    (iv) if the credit union is restored to the register under section 140H, the notice of the restoration issued by the Registrar.
 (4) On payment of the prescribed fee (if any), there shall be sent to any person requesting it in writing a copy of any specified document, except the rules or any amendments, which that person would otherwise be able to inspect pursuant to subsection (3).
 (5) The Governor-General may from time to time, by Order in Council, extend or restrict the range of accounting records and documents that are open to inspection by the public.
 
@@ -154,9 +173,7 @@ A society which is neither a benevolent society nor a working men's club shall n
 (2) The Registrar may, in writing, exempt wholly or in part from the requirements of subsection (1) any society or branch transacting business in respect of which he thinks those requirements to be inapplicable, and may from time to time review, vary, or revoke any exemption so given.
 
 ### 16 Revising Barrister may examine rules
-(1) On receiving the copy of the rules under section 12 or section 19, the Registrar may, if he thinks fit, refer a copy to the Revising Barrister.
-(2) If the Revising Barrister is of the opinion that the objects of the society and the rules comply with the requirements of this Act, he shall advise the Registrar accordingly.
-(3) If the Revising Barrister is of opinion that the objects of the society, or any of them, or any of the rules do not comply with the requirements of this Act, he shall notify his opinion in writing to the Registrar, specifying in what particulars the rules or other matters do not so comply; and the Registrar shall then return the rules to the secretary of the society, with a copy of the opinion of the Revising Barrister, and the society may submit amended rules to the Registrar, signed as required under section 12.
+[Repealed]
 
 ### 17 Acknowledgment of registration
 (1) On being satisfied that the society or branch has complied with the provisions of this Part as to registration, the Registrar shall—
@@ -195,19 +212,22 @@ A society which is neither a benevolent society nor a working men's club shall n
 An acknowledgment of the registration of a society or branch under section 17 shall also constitute an acknowledgment, and be conclusive evidence, of the registration of the rules of the society or branch in force at the date of the registration of the society or branch.
 
 ### 23 Amendment of rules
-(1) Subject to subsection (2), any amendment of the rules of a society or branch as for the time being registered under this Act shall not be valid until the amendment has been so registered, and for this purpose a copy of the amendment, signed by 3 members and the secretary of the society or of the branch, as the case may be, shall be sent to the Registrar.
+(1) An amendment of the rules of a registered society or branch has no effect until the amendment is registered.
+(1A) For the purposes of subsection (1), the following, signed by 3 members and the secretary of the registered society or branch, must be sent to the Registrar:
+  (a) a copy of the amendment:
+  (b) a copy of the rules as amended.
 (2) Subsection (1) shall not apply to a change in the situation of the registered office of a society or branch; but—
-  (a) notice of any change in the situation of the registered office of a society or branch shall be sent to the Registrar and, in the case of a change in the situation of the registered office of a branch, shall be sent to the Registrar through the secretary of the society of which the branch forms part; and
+  (a) notice of any change in the situation of the registered office of a society or branch, and a copy of the rules as amended, shall be sent to the Registrar and, in the case of a change in the situation of the registered office of a branch, shall be sent to the Registrar through the secretary of the society of which the branch forms part; and
   (b) where notice of such a change is sent to the Registrar under paragraph (a), he shall register it as an amendment of the rules of the society or branch concerned.
 (3) No amendment of the rules of a society or branch shall be registered unless the rules as amended contain all the provisions that would be required, in accordance with Schedule 2 or Schedule 3 or any model rules produced by the Registrar, as the case may be, on an application for the registration of the society or branch.
 (4) No amendment of the rules of a branch shall be registered if the objects of the branch thereby cease to be identical with or comprised in the objects of the society of which the branch forms a part.
 
-### 24 Revising Barrister or actuary may examine amendments
-(1) All amendments of rules sent to the Registrar may be submitted by him for the perusal of the Revising Barrister in the manner provided by section 16 as to rules sent to the Registrar upon an application for the registration of a society, and the Revising Barrister shall consider the amendments in the same manner and give his opinion accordingly.
+### 24 Actuary may examine amendments
+(1)
 (2) If in the opinion of the Registrar any amendment of a rule may adversely affect the financial soundness of the society or branch or alters the rates of contribution certified pursuant to section 15(1), the amendment shall not be registered until an actuary has certified in writing that the amendment does not adversely affect the financial soundness of the society or branch or that the altered rates of contributions are appropriate for the business to which they relate.
 
-### 25 Acknowledgment of registration of amendment of rules
-On being satisfied that any amendment of the rules of a registered society or branch complies with and is not contrary to the provisions of this Part, the Registrar shall issue to the society or branch, in respect of that amendment, an acknowledgment of registration which shall be conclusive evidence that the amendment is duly registered.
+### 25 Registration of amendment of rules
+On being satisfied that any amendment of the rules of a registered society or branch complies with and is not contrary to the provisions of this Part, the Registrar must register the amendment.
 
 ### 26 Amendment of rules by Registrar
 (1) Without limiting the responsibilities of any registered society or branch to comply with the provisions of this Act, the Registrar may, if he thinks the rules of a registered society or branch should be amended to comply with any provision of this Act, by notice in writing, require the society or branch within the period specified in the notice to amend the rules in the manner so specified or otherwise in a manner approved by the Registrar.
@@ -387,6 +407,7 @@ Sections 67B to 67E of the Life Insurance Act 1908 shall, with all necessary mod
 ### 51 Borrowing powers, overdrafts
 (1) Except as provided in this Act and notwithstanding anything to the contrary in the rules of a society or branch, no registered society or branch shall be entitled to borrow money nor shall any person lend money to any registered society or branch.
 (2) Any bank carrying on business in New Zealand may grant, and any registered society or branch may receive, accommodation by way of overdraft in aid of any account established with that bank by that society or branch, and that account may be overdrawn accordingly for a term not exceeding 6 months at any one time unless a longer term or an extension of an existing term is authorised in writing by the Registrar.
+(3) This section does not limit what may be done under section 58A.
 
 ### 52 Investment powers
 Subject to this Act, a trustee may invest the funds of a registered society or branch in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
@@ -427,6 +448,46 @@ A registered society or branch may (if its rules so provide) out of any surplus 
   (b) rules of the society or branch are being, or have been, made for the purpose.
 (2) Public Trust or the trustee company shall invest, in accordance with the rules, any funds so transferred and shall pay the interest on any stocks, shares, or securities acquired by or transferred pursuant to this section to the trustees of the society or branch, and shall, where the trustees so require, transfer the capital of the stocks, shares, or securities to them, or realise the same and transfer the proceeds to them.
 (3) Public Trust or the trustee company shall not be under any liability in relation to any stock, shares, or securities held under this section, and no action shall lie against Public Trust or the trustee company in respect of any such stock, shares, or securities where it acts in accordance with the provisions of this section.
+
+**Friendly society securities**
+
+### 58A Registered friendly society that is licensed insurer may offer friendly society securities
+(1) If authorised by, and in accordance with its rules, a registered friendly society that is a licensed insurer may offer friendly society securities to members for subscription.
+(2) Friendly society securities—
+  (a) are transferable only between members; and
+  (b) confer no voting rights upon holders.
+(3) In the event of a registered friendly society being wound up, claims for friendly society securities must not be paid until all creditors’ claims have been paid.
+(4) In the event of a registered friendly society incurring losses that exceed its retained earnings and reserves, the value of friendly society securities issued by it must be written down accordingly.
+(5) The following provisions of the Financial Markets Conduct Act 2013 apply for the purposes of that Act in relation to a registered friendly society and any friendly society securities that it issues as they apply in relation to a credit union and any financial products that it issues:
+  (a) paragraph (a) of the definition of special resolution in section 6(1):
+  (b) section 120(1)﻿(c).
+(6) A registered friendly society may, in relation to friendly society securities issued or to be issued by it, appoint a supervisor and sign or amend a trust deed for the purposes of subpart 1 of Part 4 of the Financial Markets Conduct Act 2013.
+(7) Subsection (6) applies regardless of anything to the contrary in the rules of the registered friendly society.
+
+### 58B Meaning of distribution
+(1) In sections 58C to 58E, unless the context otherwise requires, distribution, in relation to a distribution by a registered friendly society to a member, means—
+  (a) the direct or indirect transfer of money or property to or for the benefit of the member; or
+  (b) the incurring of a debt to or for the benefit of the member.
+(2) For the purposes of subsection (1),—
+  (a) the distribution must relate to friendly society securities held by the member to whom the distribution is being made; and
+  (b) a transfer may be made, or a debt incurred, by means of a purchase of property, the redemption or other acquisition of friendly society securities, a distribution of indebtedness, or by some other means.
+
+### 58C Distribution must be authorised
+A distribution must be authorised in writing by the committee, or committee of management, as the case may be, of the registered friendly society.
+
+### 58D Distribution must not be authorised unless registered friendly society solvent
+The committee, or committee of management, as the case may be, of the registered friendly society must not authorise a distribution unless the committee is satisfied on reasonable grounds that, immediately after the distribution is made, the registered friendly society will be solvent.
+
+### 58E Solvency test
+(1) A registered friendly society is solvent for the purposes of the payment of a distribution if—
+  (a) the registered friendly society is able to pay its debts as they become due in the normal course of business; and
+  (b) the value of the registered friendly society’s assets is greater than its liabilities, including its contingent liabilities.
+(2) In determining whether the value of the registered friendly society’s assets is greater than its liabilities, the committee, or committee of management, as the case may be, of the registered friendly society—
+  (a) must have regard to all circumstances that the committee knows or ought to know affect, or may affect, the value of the registered friendly society’s assets and the value of its liabilities, including its contingent liabilities; and
+  (b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
+(3) In determining, for the purposes of this section, the value of a contingent liability, account may be taken of—
+  (a) the likelihood of the contingency occurring; and
+  (b) any claim that the registered friendly society is entitled to make, and can reasonably expect to be met, to reduce or extinguish a contingent liability.
 
 **Accounting records and financial reporting**
 
@@ -814,46 +875,83 @@ Where a registered society or branch amalgamates or transfers its engagements pu
 
 ## Part 3 — Credit unions
 
-**Registration**
+**Incorporation**
 
-### 98 Credit unions to be registered
-(1) No person, society, or body of persons (whether corporate or unincorporate) shall trade or carry on business as a credit union unless registered as such under this Part.
+### 98 Credit unions to be incorporated under this Part
+(1) No person, other than a credit union incorporated under this Part in accordance with section 100B, may trade or carry on business as a credit union.
 (2) For the purposes of subsection (1), to trade or carry on business as a credit union means—
-  (a) administering a fund into which members of a group contribute money which is to be applied either wholly or principally in loans to those members:
-  (b) representing the person, society, or body of persons as being a credit union:
-  (c) using, in reference to the person, society, or body of persons, any name, title, or descriptive expression containing the words “credit union”, “money club”, “savings society”, or “loan society”, or any cognate term or any derivative of those words, when trading, carrying on business, or advertising for share capital, deposits, or loan funds.
+  (a) administering a fund into which members of a group contribute money that is to be applied wholly or principally—
+    (i) in loans to those members; or
+    (ii) in both of the following:
+      (A) loans to those members:
+      (B) loans of the kind referred to in section 110(1)﻿(b):
+  (b) representing the person as being a credit union:
+  (c) using, in reference to the person, any name, title, or descriptive expression containing the words “credit union”, “money club”, “savings society”, or “loan society”, or any cognate term or any derivative of those words, when trading, carrying on business, or advertising for share capital, deposits, or loan funds.
 (3) Nothing in subsection (2)﻿(c) shall apply to—
   (a) the use by an officer or employee of a credit union of a title or descriptive expression indicating his office or post with the credit union; or
   (b) the use with reference to an association of credit unions of a name which has been approved in writing by the Registrar.
 
-### 99 Exemptions from registration
+### 99 Exemptions from incorporation under this Part
 (1) Section 98 shall not apply to—
-  (a) any person, society, or body of persons (whether corporate or unincorporate) specified in Schedule 5; or
-  (b) any person, society, or body of persons (whether corporate or unincorporate) lawfully carrying on the business of banking; or
+  (a) any person specified in Schedule 5; or
+  (b) any person lawfully carrying on the business of banking; or
   (c) any building society registered under the Building Societies Act 1965; or
   (d)
   (e) the members of any fund in existence as at the commencement of this Act, being a fund which may otherwise be trading or carrying on business as a credit union but which is an integral part of an associated commercial or trading activity involving those members.
-(2) Schedule 5 may, from time to time by the Governor-General by Order in Council, be amended by adding, omitting, or amending the name of any person, society, or body of persons (whether corporate or unincorporate).
-(3) No person, society, or body of persons to which, by virtue of subsection (1), section 98 does not apply shall use, in reference to itself, any name, title, or descriptive expression containing the words “credit union”, “money club”, “savings society”, or “loan society”, or any cognate term or any derivative of those words:
-  provided that the prohibition effected by this subsection shall not apply to any person, society, or body of persons using the words “savings society” or “loan society” or any cognate term or derivative of those words in reference to itself as at the commencement of this Act.
+(2) Schedule 5 may, from time to time by the Governor-General by Order in Council, be amended by adding, omitting, or amending the name of any person.
+(3) No person to which, by virtue of subsection (1), section 98 does not apply shall use, in reference to itself, any name, title, or descriptive expression containing the words “credit union”, “money club”, “savings society”, or “loan society”, or any cognate term or any derivative of those words:
+  provided that the prohibition effected by this subsection shall not apply to any person using the words “savings society” or “loan society” or any cognate term or derivative of those words in reference to itself as at the commencement of this Act.
 
-### 100 Society may register as credit union
-Subject to this Act, a society may apply for registration as a credit union under this Part if—
-  (a) the society has no fewer than 21 members who are—
-    (i) adults; or
-    (ii) charitable entities as defined by the Charities Act 2005; or
-    (iii) incorporated societies registered under the Incorporated Societies Act 1908; and
-  (b) the rules of the society comply with section 104; and
-  (c) the Registrar is satisfied that the only objects of the society are those of a credit union specified in section 101; and
-  (d) the rules of the society specify a common bond (as defined in section 102).
+### 100 Persons eligible to incorporate credit union
+(1) Any 21 or more persons falling within subsection (2) may apply to the Registrar in accordance with section 100A for the incorporation of a credit union under this Part.
+(2) The persons referred to in subsection (1) are as follows:
+  (a) an adult:
+  (b) a charitable entity as defined by the Charities Act 2005:
+  (c) an incorporated society registered under the Incorporated Societies Act 1908.
+
+### 100A Application for incorporation of credit union
+(1) An application under section 100 for the incorporation of a credit union must—
+  (a) be signed by each of the applicants; and
+  (b) include a copy of the credit union’s proposed rules; and
+  (c) include a list of the names, addresses, and designations of the officers proposed for the credit union; and
+  (d) include such information or evidence as the Registrar may reasonably require in relation to any of the matters referred to in section 100B(1)﻿(a) to (f).
+(2) The credit union’s proposed rules must either—
+  (a) contain provisions in respect of the matters mentioned in Schedule 4; or
+  (b) accord with any model rules applicable to credit unions produced by the Registrar under section 9.
+
+### 100B Incorporation of credit union
+(1) Subsection (2) applies if an application is made under section 100 for the incorporation of a credit union and the Registrar is satisfied—
+  (a) that the credit union will have at least 21 members who fall within section 100(2); and
+  (b) that the credit union’s proposed rules comply with section 100A(2); and
+  (c) that the only objects of the credit union will be those of a credit union specified in section 101; and
+  (d) that the credit union will have a common bond as defined in section 102; and
+  (e) that the credit union’s name will comply with section 103; and
+  (f) that there is no reason to expect that the credit union will not be operated in accordance with its rules and this Part.
+(2) The Registrar must—
+  (a) register the credit union’s name; and
+  (b) issue a certificate of incorporation; and
+  (c) register the credit union’s rules (together with any other documents or information relating to the credit union that the Registrar thinks appropriate).
+(3) The credit union is, on and after the date of incorporation set out in the certificate of incorporation, a body corporate that has—
+  (a) perpetual succession; and
+  (b) the capacity, rights, powers, and privileges provided for in section 107B.
+(4) The credit union continues in existence until it is removed from the register under section 140.
+(5) The certificate of incorporation is conclusive evidence that—
+  (a) all the requirements of this Part as to incorporation have been complied with; and
+  (b) on and after the date of incorporation set out in the certificate, the credit union is registered and incorporated under this Part.
+(6) If the Registrar refuses to act under subsection (2) in relation to an application, the applicants may, within 3 months after the date on which they are notified of the refusal, appeal against the refusal to the High Court.
+(7) If the refusal is overruled on appeal, then, subject to such terms and conditions as the court may impose or otherwise in pursuance of the court order, the Registrar must act under subsection (2) as soon as practicable.
 
 ### 101 Objects of credit union
+(1AA) A credit union is to operate, on the basis of this Act, for the mutual benefit and assistance of its members.
 (1) The objects of a credit union shall be—
   (a) the promotion of thrift among its members by the accumulation of their savings; and
-  (b) the use and control of the members' savings for their mutual benefit; and
+  (b) the use and control of the members’ savings for their mutual benefit, including—
+    (i) for making loans to members; and
+    (ii) if authorised by the credit union’s rules, for making loans under section 110(1)﻿(b); and
+  (ba) if authorised by, and in accordance with, the credit union’s rules, the provision of products or services under section 110(2); and
   (c) the training and education of the members in the wise use of money and in the management of their financial affairs; and
   (d) at the discretion of the credit union and as a minor adjunct to the other objects set out in this subsection, the welfare of its members and the making of donations for charitable, cultural, benevolent, or philanthropic purposes.
-(2) A credit union shall have no power to take any action or do anything unless that action or thing is directly in pursuance of its objects or incidental to them and is authorised by its rules or this Act.
+(2)
 
 ### 102 Qualifications for admission to membership of credit union
 (1) For the purposes of this Act, a credit union has a common bond if the qualification for membership is—
@@ -861,7 +959,7 @@ Subject to this Act, a society may apply for registration as a credit union unde
   (b) residing in a particular locality or particular localities:
   (c) being employed in a particular locality or particular localities:
   (d) being employed by a particular employer or particular employers:
-  (e) being a member of a bona fide organisation or bona fide organisations or being otherwise associated with members of the organisation or organisations for a purpose other than that of forming a society to be registered as a credit union:
+  (e) being a member of a bona fide organisation or bona fide organisations or being otherwise associated with members of the organisation or organisations for a purpose other than that of incorporating a credit union:
   (f) any other qualification that can be objectively determined:
   (g) a mixture of any qualifications in paragraphs (a) to (f).
 (2) For the purposes of subsection (1), a qualification can be objectively determined if it—
@@ -874,22 +972,27 @@ Subject to this Act, a society may apply for registration as a credit union unde
   (b) any lineal ancestor, lineal descendant, brother, sister, uncle, aunt, nephew, niece, or first cousin of the person or of any current or former spouse, civil union partner, or de facto partner of the person; and
   (c) any current or former spouse, civil union partner, or de facto partner of any person referred to in paragraph (b).
 
-### 103 Name to contain words “credit union”
-Except where otherwise authorised in writing by the Registrar in the circumstances of any case, the name of every society registered as a credit union shall contain the words “credit union”.
+### 103 Name of credit union
+(1) Except where otherwise authorised in writing by the Registrar in the circumstances of any case, the name of every credit union shall contain the words “credit union”.
+(2) A credit union’s name must not—
+  (a) be identical, or almost identical, to that of—
+    (i) any other credit union; or
+    (ii) any other body corporate established or registered in New Zealand or carrying on activities in New Zealand; or
+  (b) be, in the Registrar’s opinion, likely to mislead the credit union’s members or the public as to the credit union’s nature or identity; or
+  (c) be, in the Registrar’s opinion, offensive; or
+  (d) be a name the use of which by the credit union contravenes any other enactment.
+(3) If, at any time, a credit union’s name contravenes (through inadvertence or otherwise) this section,—
+  (a) the Registrar may by notice to the credit union require the credit union to change its name so that the name does not contravene this section; and
+  (b) if the Registrar does so, the credit union must change its name accordingly within the period of 4 weeks from the date on which it receives the Registrar’s notice or within such longer period as the Registrar may allow.
 
 ### 104 Registration and rules of credit union
-(1) The provisions of sections 12, 16, 17, 18, 22, 23, 24(1), 25, 26, 27, and 28 shall, as far as they are applicable and with any necessary modification, apply in respect of credit unions as if—
-  (a) the references to societies and Schedule 2 or Schedule 3 were references to credit unions and Schedule 4 respectively; and
-  (b) the reference in section 12(1) to 7 adult members were a reference to 21 members and each of the 21 members is—
-    (i) an adult; or
-    (ii) a charitable entity as defined by the Charities Act 2005; or
-    (iii) an incorporated society registered under the Incorporated Societies Act 1908; and
-  (c) the designation referred to in section 17(1)﻿(a) were that of a credit union.
-(2) On any application for registration of a credit union or its rules or an amendment to its rules, the Registrar may require from the applicant such information or evidence as may be reasonable to show that the applicant will be or is bona fide carrying on the business of a credit union in accordance with this Part.
-(3) Except where there is a change in the situation of the registered office of a credit union or a change to the rules effected by the Registrar pursuant to section 26 or a change of name, the rules of a credit union shall be amended only by special resolution.
+[Repealed]
 
 ### 105 Effect of rules on members of credit union
-(1) The rules of a credit union shall bind the credit union and its members and all persons claiming through them respectively to the same extent as if each member had subscribed his name, and there were in such rules a covenant on the part of himself, his executors, and administrators to conform to such rules subject to the provisions of this Act.
+(1) The rules of a credit union are binding, in accordance with their terms, as between—
+  (a) the credit union and each member; and
+  (b) each member.
+(1A) Subsection (1) is subject to the rest of this Act.
 (2) Subject to subsection (3), all money payable by a member to a credit union shall be deemed to be a debt due from the member to the credit union, and shall be recoverable as such.
 (3) A member of a credit union shall not, without his consent in writing having been first obtained, be bound by any amendment of the credit union's rules registered after he became a member, if and so far as that amendment requires him to take or subscribe for more shares than the number held by him at the date of registration of the amendment, or to pay upon the shares so held any sum exceeding the amount unpaid upon them at that date, or in any other way increases the liability of that member to contribute to the share capital of the credit union.
 (4) Fees for admission to membership, or levies, or charges for management or other services are payable by a member to a credit union only if the rules of the credit union set out—
@@ -898,7 +1001,8 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
 
 ### 106 Membership of credit union, voting rights
 (1) An individual, a charitable entity as defined by the Charities Act 2005, or an incorporated society registered under the Incorporated Societies Act 1908 can be a member of a credit union, except that—
-  (a) section 39 (which relates to the membership of minors) applies to any credit union as if it were a society registered under Part 2; and
+  (a) section 39(1) and (2) (which relates to the membership of minors) applies to any credit union as if it were a society registered under Part 2; and
+  (aa) no person under the age of 18 years can be an officer of a credit union; and
   (b) no charitable entity as defined by the Charities Act 2005 or incorporated society registered under the Incorporated Societies Act 1908 can be an officer of a credit union.
 (2) Members need have no more than $10 in fully paid-up shares, although a credit union's rules may allow for a deposit of more or less than $10 in fully paid-up shares.
 (3)
@@ -906,10 +1010,35 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
   provided that, where the rules of the credit union so provide, a member shall not cease to fulfil the qualifications for membership by reason merely of retirement from following a particular occupation or employment with a particular employer.
 (5) The number of non-qualifying members of a credit union shall not at any time exceed 10% of the total membership of the credit union.
 (6) Non-qualifying members of a credit union shall be left out of account in determining for any purpose whether a common bond exists between the members of the credit union.
-(7) A non-qualifying member of a credit union shall be entitled, except so far as the rules of the credit union may otherwise provide, to purchase shares and to receive loans.
+(7)
 (8) Subject to any provision in the rules of a credit union as to voting by a chairman who has a casting vote or to voting by delegates at any conference or meeting relating to credit unions, on every matter which is determined by a vote of members of a credit union every member shall be entitled to vote and shall have 1 vote only.
+(9) Section 82 (special resolutions) applies in relation to a credit union with any necessary modifications.
 
-**Operation of credit union**
+### 106A Members not liable for obligations of credit union
+(1) A member of a credit union is not liable for an obligation of the credit union by reason only of being a member.
+(2) Subsection (1) does not affect—
+  (a) section 141; or
+  (b) any liability that a member of a credit union has to the credit union—
+    (i) under its rules or a contract; or
+    (ii) for any tort, breach of a fiduciary duty, or other actionable wrong committed by the member.
+
+### 106B Amendment of credit union’s rules
+(1) A credit union’s rules may be amended by a resolution of a majority of its members entitled to vote and voting on the matter.
+(2) Section 26 (which permits the Registrar to amend rules) applies (with any necessary modifications) to a credit union’s rules as it applies to a registered society’s rules.
+(3) An amendment of a credit union’s rules has no effect until the amendment is registered.
+(4) For the purposes of subsection (3), the following, signed by 3 members, must be sent to the Registrar for registration (unless the amendment is made by the Registrar under section 26):
+  (a) a copy of the amendment:
+  (b) a copy of the rules as amended.
+(5) Subsections (3) and (4) do not apply to a change in the situation of a credit union’s registered office, but notice of the change, and a copy of the rules as amended, must be sent promptly to the Registrar for registration.
+(6) An amendment of a credit union’s rules may be registered only if the rules as amended either—
+  (a) contain provisions in respect of the matters mentioned in Schedule 4; or
+  (b) accord with any model rules applicable to credit unions produced by the Registrar under section 9.
+(7) Before registering an amendment of a credit union’s rules, the Registrar may require from the credit union such information or evidence as may be reasonable to show that, after the amendment takes effect, the credit union will be operated in accordance with its rules and this Part.
+
+### 106C Credit union to supply copy of rules
+A credit union must deliver to any person on request, on payment of any reasonable charge imposed by the credit union, a copy of the rules of the credit union.
+
+**Shares and securities**
 
 ### 107 Credit union to have shares
 (1) Every credit union shall have shares, which shall all rank equally and be of a fixed amount of $1 denomination and may, subject to the rules of the credit union, be subscribed for either in full or by periodical or other subscriptions; but no share shall be allotted to a member until it has been fully paid in cash.
@@ -921,7 +1050,7 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
   (b) in any other case, the withdrawal shall be permitted only at the discretion of the committee of management of the credit union.
 
 ### 107A Credit union may offer credit union securities
-(1) A credit union may, if authorised by and in accordance with its rules and trust deed, offer credit union securities to members for subscription.
+(1) A credit union may, if authorised by and in accordance with its rules, offer credit union securities to members for subscription.
 (2) Credit union securities—
   (a) are transferable only between members; and
   (b) confer no voting rights upon holders.
@@ -929,82 +1058,122 @@ Except where otherwise authorised in writing by the Registrar in the circumstanc
 (4) In the event of a credit union incurring losses that exceed its retained earnings and reserves, the value of the credit union securities must be written down accordingly.
 (5) To avoid doubt, credit union securities do not include shares under section 107.
 
+**Capacity, powers, and validity of actions**
+
+### 107B Capacity and powers of credit union
+(1) A credit union has, both within and outside New Zealand,—
+  (a) full capacity to carry on or undertake any business or activity, to do any act, or to enter into any transaction, if the carrying on or undertaking of the business or activity, the doing of the act, or the entering into the transaction—
+    (i) is directly in pursuance of the credit union’s objects or is incidental to the credit union’s objects; and
+    (ii) is authorised by this Act or the credit union’s rules; and
+  (b) for the purposes of paragraph (a), full rights, powers, and privileges.
+(2) Subsection (1) is subject to this Act, any other enactment, and the general law.
+(3) The credit union’s rules may contain the following provisions:
+  (a) provisions giving authority for the purposes of subsection (1)﻿(a)﻿(ii):
+  (b) provisions restricting the capacity, rights, powers, or privileges that the credit union would otherwise have.
+
+### 107C Validity of actions
+(1) An act of a credit union or the transfer of property to or by a credit union is not invalid merely because the credit union did not have the capacity, right, or power to do the act or to transfer or take a transfer of the property.
+(2) Subsection (1) does not limit—
+  (a) section 107F or 118; or
+  (b) any proceedings that may otherwise be taken—
+    (i) by a member of a credit union against the credit union or an officer of the credit union to prevent an act of, or a transfer of property to or by, the credit union that would be invalid apart from subsection (1); or
+    (ii) by a credit union or a member or former member of a credit union against an officer or a former officer of the credit union in relation to an act of, or a transfer of property to or by, the credit union that would have been invalid apart from subsection (1).
+(3) The fact that an act is not, or would not be, in the best interests of a credit union does not affect the capacity of the credit union to do the act.
+
+### 107D Dealings between credit union and other persons
+(1) A credit union may not assert against a person dealing with the credit union that—
+  (a) this Act has not, or the credit union’s rules have not, been complied with; or
+  (b) a person named as an officer of the credit union in any register—
+    (i) is not an officer of the credit union; or
+    (ii) has not been duly appointed; or
+    (iii) does not have authority to exercise a power that, given the nature of the credit union, an officer customarily has authority to exercise; or
+  (c) a person held out by the credit union as an officer, employee, or agent of the credit union—
+    (i) has not been duly appointed; or
+    (ii) does not have authority to exercise a power that, given the nature of the credit union, a person appointed to that capacity customarily has authority to exercise; or
+  (d) a person held out by the credit union as an officer, employee, or agent of the credit union does not have the authority to exercise a power that the credit union holds the person out as having; or
+  (e) a document issued on behalf of the credit union by an officer, employee, or agent of the credit union with actual or usual authority to issue the document is not valid or not genuine.
+(2) However, a credit union may assert any of the matters referred to in subsection (1)﻿(a) to (e) against a person dealing with the credit union if that person had, or ought to have had, by virtue of the person’s position with or relationship to the credit union, knowledge of those matters.
+(3) Subsection (1) applies even though a person of a kind referred to in subsection (1)﻿(b) to (e) acts fraudulently or forges a document that appears to have been signed on behalf of the credit union, unless the person dealing with the credit union has actual knowledge of the fraud or forgery.
+(4) In this section, person dealing—
+  (a) means, in the case of a transaction with a credit union, the other party to the transaction; and
+  (b) includes a person who has acquired property, rights, or interests from a credit union.
+
+### 107E No constructive notice
+A person is not affected by, or deemed to have notice or knowledge of the contents of, the rules of, or any other document relating to, a credit union merely because—
+  (a) the rules are, or the document is,—
+    (i) registered; or
+    (ii) available to the public under section 5(3) or (4); or
+    (iii) available for inspection at an office of the credit union; or
+  (b) in the case of the rules, a copy of them can be requested under section 106C.
+
+### 107F High Court may restrain credit union from acting contrary to Act or credit union’s rules
+(1) The High Court may, on an application by a person listed in subsection (2), make an order restraining a credit union from acting contrary to this Act or the credit union’s rules.
+(2) The application may be made by—
+  (a) a member of the credit union; or
+  (b) the Registrar; or
+  (c) the Reserve Bank of New Zealand, but only if the credit union is an NBDT as defined in section 5 of the Non-bank Deposit Takers Act 2013.
+
 ### 108 General prohibition on taking deposits
 [Repealed]
 
 ### 109 Power of credit union to borrow money
-A credit union may borrow money if the borrowing is authorised by, and in accordance with, its rules and trust deed.
+[Repealed]
 
 ### 109A Power of credit union to appoint supervisor for debt securities
-(1) A credit union may appoint a supervisor and sign or amend a trust deed for the purposes of subpart 1 of Part 4 of the Financial Markets Conduct Act 2013.
-(2) This section applies regardless of anything to the contrary in the rules of a credit union.
+[Repealed]
 
-### 110 Credit union may make loans to members
-A credit union may make loans to members for such purposes and upon such security (or without security) and conditions as the rules of the credit union may provide either generally or specifically.
+### 110 Credit union may make loans to members and enterprises related to members, etc
+(1) A credit union may make loans (with or without security) as follows:
+  (a) to members:
+  (b) to enterprises in cases where—
+    (i) the enterprise (when the loan is made)—
+      (A) is related to a member; and
+      (B) has no more than 19 full-time equivalent employees; and
+    (ii) the loan is to be used for the purposes of a business being, or to be, carried on by the enterprise.
+(2) A credit union may provide products or services as follows:
+  (a) to members:
+  (b) to enterprises which have loans with the credit union under subsection (1)﻿(b):
+  (c) to enterprises in cases where—
+    (i) the enterprise (when the product or service is provided)—
+      (A) is related to a member; and
+      (B) has no more than 19 full-time equivalent employees; and
+    (ii) the product or service is for the purposes of a business being, or to be, carried on by the enterprise.
+(3) In this section, enterprise means any of the following:
+  (a) a body corporate:
+  (b) a firm under the Partnership Act 1908:
+  (c) the trustee or trustees of a trust.
+(4) For the purposes of this section, an enterprise is related to a member (M) if—
+  (a) the enterprise is a body corporate and M has the power, directly or indirectly, to exercise, or to control the exercise of, the rights to vote attaching to 25% or more of the voting products (as defined in section 6(1) of the Financial Markets Conduct Act 2013) of the body corporate; or
+  (b) the enterprise is a firm under the Partnership Act 1908 in which M is a partner and—
+    (i) M’s share of the firm’s profits in accordance with the terms of the partnership is 25% or more; or
+    (ii) if M’s share of the firm’s profits cannot be determined in accordance with the terms of the partnership, M’s share of the most recent distribution of the firm’s profits was 25% or more; or
+  (c) the enterprise is the trustee or trustees of a trust and M has, or the members of M’s family (taken together) have, a beneficial entitlement to 25% or more of the trust’s assets.
+(5) For the purposes of subsection (4)﻿(c), the members of M’s family are—
+  (a) M; and
+  (b) any current or former spouse, civil union partner, or de facto partner of M; and
+  (c) any brother, sister, lineal ancestor, or lineal descendant of M; and
+  (d) any current or former spouse, civil union partner, or de facto partner of a person covered by paragraph (c).
 
 ### 111 Minister may fix maximum amount of loans to members
 [Repealed]
 
 ### 112 Credit union property to vest in trustees
-(1) All property belonging to a credit union shall vest in the trustees for the time being of the credit union for the use and benefit of its members, and of all persons claiming through the members according to the rules of the credit union.
-(1A) However, regardless of the rules of a credit union, if a supervisor has been appointed in respect of a debt security for the purposes of subpart 1 of Part 4 of the Financial Markets Conduct Act 2013, then that supervisor may exercise any rights it has under that Act in respect of the property of the credit union.
-(2) Upon the death, resignation, or removal of a trustee of a credit union the property vested in that trustee shall, without conveyance, transfer, or assignment, vest (subject to the same trusts) in the succeeding trustees of that credit union, either solely or together with any surviving or continuing trustees, and until the appointment of succeeding trustees pursuant to section 28(2) (as applied by section 104), in the surviving or continuing trustees only, or in the executors or administrators of the last surviving or continuing trustee.
-(3) For the purposes of this Part, the following provisions of this Act shall, as far as they are applicable and with any necessary modification, apply in respect of credit unions as if they were societies registered under Part 2:
-  (a) section 29(4) (which relates to the denoting of trustees by their official titles); and
-  (b) section 30 (which relates to trustees under a disability); and
-  (c) section 31 (which relates to the delegation of duties by a trustee); and
-  (d) section 32 (which requires the Registrar-General of Land to be advised of the names of trustees); and
-  (e) section 33 (which relates to dealing with land under the Land Transfer Act 2017).
+[Repealed]
 
 ### 113 Credit union may hold land
-(1) A credit union may, in the name of its trustees, if authorised by and in accordance with its rules and trust deed, purchase, hold, take on lease, or otherwise provide—
-  (a) any land, and may sell, exchange, mortgage, or lease any such land, and erect, equip, furnish, alter, and maintain, or pull down buildings on it:
-  (b) any building or part of a building, and equip, furnish, alter, and maintain, or pull down any such building.
-(2) A credit union shall have power to hold any interest in land so far as is necessary for the purpose of making loans to its members on the security of an interest in land and of enforcing any such security.
-(3)
-(4)
-(5)
-(6)
-(7) No purchaser, assignee, mortgagee, or tenant shall be bound to inquire as to the authority for any sale, exchange, mortgage, or lease by the trustees, and the receipt of the trustees shall be a discharge for all money arising from or in connection with the sale, exchange, mortgage, or lease.
-(8) Subject, in the case of an instrument affecting land under the Land Transfer Act 2017, to the provisions of section 33 (as applied by section 112(3)﻿(e)), every document to be executed by a credit union in the exercise of any powers conferred on it by this section may (if its rules so provide) be executed by a majority of the trustees in whom the property of the credit union is vested.
+[Repealed]
 
 ### 114 Officers of credit union to give security
-(1) Before taking upon himself the execution of his office, every officer of a credit union having the receipt or charge of money shall, notwithstanding any rule of the credit union to the contrary, give security in accordance with subsection (2) for his rendering a just and true account of all sums of money received and paid by him on account of the credit union at such times as its rules appoint, or as the credit union or its trustees or committee require him to do, and for the payment by him of all sums due from him to the credit union.
-(2) If an officer of a credit union is required to give security in accordance with subsection (1), the officer must do so by—
-  (a) becoming bound by 1 or more sureties in such sum as the credit union directs; or
-  (b) giving the security of a guarantee society in such sum as the credit union directs; or
-  (c) including a sum, agreed to by the credit union, within the risks insured by the insurance policy required under section 133.
-(3) In this section the term guarantee society means—
-  (a) any incorporated company carrying on the business of insurance in New Zealand; or
-  (b) any society registered under Part 2 as a specially authorised society and duly authorised to guarantee the fidelity of officers of societies or branches registered under the said Part 2 or credit unions; or
-  (c) an association of credit unions authorised under section 143(4)﻿(e) to offer fidelity insurance.
-(4) Where any registered friendly society makes provision by its rules in accordance with clause 8 of Schedule 1 for guaranteeing the performance of their duties by officers of the society or its branches and membership of that friendly society is the common bond for the membership of a credit union, then the society may resolve to extend the effect of the guarantee to cover officers of the credit union to the same extent as if they were officers of the society, and it shall be a sufficient compliance with this section if any officer of the society or of any branch thereof gives the security of the society in accordance with those rules as extended.
-(5)
+[Repealed]
 
 ### 115 Duty of officers of credit union to account
-(1) Every officer of a credit union having the receipt or charge of money shall—render such account as may be required by the credit union, or by the trustees or committee of management of the credit union; and shall, on demand or on notice as in paragraph (c), pay over all money and deliver all property in his hands or custody to such person as the credit union, or the trustees or the committee, may appoint.
-  (a) at such times as he is required to do so by the rules of the credit union; or
-  (b) on demand; or
-  (c) on notice in writing requiring him to do so given or left at his last or usual place of residence,—
-(2) In case of any neglect or refusal to deliver the account or to pay over the money or to deliver the property in accordance with subsection (1), the trustees or authorised officers of the credit union—
-  (a) may sue upon any bond or security given under section 114; or
-  (b) may apply to the District Court for an order requiring the officer to remedy that neglect or to comply with the provisions of subsection (1).
+[Repealed]
 
 ### 116 Priority on death, bankruptcy, etc, of officer
-The provisions of section 36 (which relates to the priority of claims on the death or bankruptcy of an officer of a society or branch registered under Part 2) shall, as far as they are applicable and with any necessary modification, apply in respect of officers of a credit union as if they were officers of a society registered under the said Part 2.
+[Repealed]
 
 ### 117 Investment of surplus funds
-(1) In this section surplus funds, in relation to a credit union, means funds not immediately required for its purposes.
-(2) The trustees of a credit union may invest its surplus funds if the investment is authorised by, and in accordance with, its rules and trust deed.
-(3) The trustees of a credit union may also invest its surplus funds by depositing them with any association of credit unions of which it is a component member pursuant to section 143.
-(4) Any surplus funds of a credit union which are not either—shall be kept by the credit union on current account with, or otherwise on loan to, any bank carrying on business in New Zealand.
-  (a) invested in accordance with subsection (2) or subsection (3); or
-  (b) kept in cash in the custody of officers of the credit union,—
-(5) Nothing in this section shall prevent a credit union from making a temporary loan to another credit union pursuant to section 109:
-  provided that no association of credit unions shall lend money to another association unless authorised by the rules of the credit union.
-(6) The provisions of section 49 (which relate to the duties of trustees in relation to investments) shall, as far as they are applicable and with any necessary modification, apply in respect of the trustees of a credit union as if they were the trustees of a society registered under Part 2.
-(7) Where the common bond of a credit union is membership of a society registered under Part 2 and the trustees and other officers of the credit union are the same persons as the trustees and other officers of the society, it shall be sufficient compliance with this section if the surplus funds of the credit union were treated together with and as part of the surplus funds of the society and were invested accordingly, but accounted for separately to the credit union.
-(8) Any credit union which contravenes or fails to comply with the provisions of this section commits an offence against this Act.
+[Repealed]
 
 **Distribution to members**
 
@@ -1080,18 +1249,18 @@ Where it appears to the Registrar to be necessary or desirable that the financia
 **Annual returns**
 
 ### 127 Annual return
-(1) Every credit union shall once in every year, within 3 months after the close of the financial year of the credit union or such extended period as the Registrar in any particular case may allow, send to the Registrar an annual return.
+(1) Every credit union shall once in every year, within 4 months after the close of the financial year of the credit union or such extended period as the Registrar in any particular case may allow, send to the Registrar an annual return.
 (2) Every annual return shall relate to the affairs of the credit union for the financial year preceding that in which the return is required to be sent, and, subject to subsection (3), shall be made in such form and contain such particulars as the Registrar may from time to time require.
 (3) Every annual return—
   (a) shall be made up for the financial year to which the return relates; and
   (b) must contain a copy of the financial statements that are prepared in relation to the credit union for the financial year; and
   (c)
-  (d) shall have attached a list containing the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the credit union; and
+  (d) must have attached a list containing the names, addresses, and designations of the officers of the credit union; and
   (e) shall be accompanied by a statement giving details of the total number of members in each category of member as recorded in the register kept pursuant to section 130.
 (4) The annual return sent to the Registrar must be accompanied by the auditor's report on the financial statements referred to in subsection (3)﻿(b).
 
 ### 128 Annual return by credit union under dissolution
-(1) Any credit union which is being terminated by an instrument of dissolution under section 94 or the award of the Registrar under section 95 (each section being as applied by section 140) shall make up its annual return to the date of that instrument of dissolution or that award.
+(1)
 (2) In the case of a credit union amalgamating or transferring its engagements pursuant to section 135, the Registrar may require an annual return made up to the date of such amalgamation or transfer of engagements, or to such other date as he may specify.
 
 ### 129 Annual return to be supplied to members
@@ -1118,52 +1287,172 @@ Where it appears to the Registrar to be necessary or desirable that the financia
 Every credit union must keep available for inspection (without charge), by a member or person interested in its funds, at its office during ordinary office hours a copy of the last financial statements completed and signed in accordance with the Financial Markets Conduct Act 2013 or any other Act, together with the auditor's report.
 
 ### 133 Credit union to be insured against fraud or other dishonesty
-(1) No society shall be registered as a credit union unless the Registrar is satisfied that, on registration, there will be in force in relation to that society a policy of insurance complying with the requirements of this section.
+(1) A credit union must have a policy of insurance that complies with the requirements of this section.
 (2) In order to comply with this section, a policy of insurance—
   (a) subject to such exceptions as may be prescribed, shall insure the credit union in respect of every description of loss suffered or liability incurred by reason of the fraud or other dishonesty of any of its officers or employees; and
   (b) shall so insure the credit union up to a limit of not less than such amount as may be prescribed in respect of any one claim, except that the liability of the insurer may be restricted to a prescribed amount in respect of the total of the claims made in any one year; and
   (c) shall not, except with the consent in writing of the Registrar, provide in relation to any claim for any amount greater than 1% of the limit referred to in paragraph (b) to be met by the credit union; and
   (d) shall comply with such other conditions as may be prescribed.
 (3) In this section, prescribed means prescribed from time to time by the Governor-General by Order in Council; and different exceptions, amounts, limits, and conditions may be prescribed in respect of different credit unions or classes of credit union.
-(4) Notwithstanding any amount prescribed for the purpose of subsection (2)﻿(b), a policy of insurance will still comply with this section if that prescribed amount is reduced by the amount the credit union has obtained as security in respect of the fidelity of its officers pursuant to section 114(2) or section 114(4).
+(4)
 (5) Every credit union which, at any time, fails to maintain in force a policy of insurance complying with the requirements of this section, and every member of the committee of management of such a credit union, commits an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-### 134 Guarantee funds
-(1) Subject to this section, a credit union, or any 2 or more credit unions, or any association of credit unions on behalf of its constituent members may enter into arrangements with a person carrying on the business of insurance, for the purpose of making funds available—
-  (a) to assist any credit union that is a party to the arrangements and which is in financial difficulties:
-  (b) to meet losses incurred by members of a credit union which is a party to the arrangements.
-(2) Any 2 or more credit unions together or any association of credit unions on behalf of its constituent members may enter into any other kind of arrangements for the purposes specified in subsection (1).
-(3) Subject to this section and notwithstanding anything to the contrary in this Act or a credit union's or association's rules, a credit union or association shall have power to make contributions, whether by instalments or not, under arrangements made in accordance with this section.
-(4) Arrangements under this section may provide for the vesting of a fund in trustees appointed under the arrangements.
-(5) Arrangements under this section may provide for the incorporation of a company under the Companies Act 1993; and a credit union or association shall have power to subscribe for or purchase shares in, or deposit money with, any company so incorporated whether by instalments or not.
-(6)
+### 133A Method of contracting
+(1) A contract or other enforceable obligation may be entered into by a credit union as follows:
+  (a) an obligation that, if entered into by a natural person, would, by law, be required to be by deed may be entered into on behalf of the credit union in writing signed under the name of the credit union by—
+    (i) 2 or more officers of the credit union; or
+    (ii) if the credit union’s rules so provide, an officer, or other person or class of persons, whose signature or signatures must be witnessed; or
+    (iii) 1 or more attorneys appointed by the credit union in accordance with section 133B:
+  (b) an obligation that, if entered into by a natural person, is, by law, required to be in writing may be entered into on behalf of the credit union in writing by a person acting under the credit union’s express or implied authority:
+  (c) an obligation that, if entered into by a natural person, is not, by law, required to be in writing may be entered into on behalf of the credit union in writing or orally by a person acting under the credit union’s express or implied authority.
+(2) A credit union may, in addition to complying with subsection (1), affix its common seal, if it has one, to the contract or document containing the enforceable obligation.
+(3) Subsection (1) applies to a contract or other obligation—
+  (a) whether or not that contract or obligation was entered into in New Zealand; and
+  (b) whether or not the law governing the contract or obligation is the law of New Zealand.
 
-### 135 Amalgamation of credit unions and transfer of engagements
-(1) Any 2 or more credit unions may, by special resolution of each of them, become amalgamated together as 1 credit union, with or without any dissolution or division of the funds of those credit unions or any of them.
-(2) A credit union may by special resolution transfer its engagements to any other credit union which may (by special resolution or in such other manner as may be authorised by its rules) undertake to fulfil the engagements of that credit union.
-(3) A credit union shall not amalgamate with or transfer its engagements to or accept a transfer of engagements from—and an association shall only amalgamate with or transfer its engagements to another association of credit unions.
-  (a) any society which is not a credit union:
-  (b) any association of credit unions,—
-(4) For the purposes of this section, section 83, as far as it is applicable and with any necessary modification, applies in respect of a credit union as if it were a society registered under Part 2.
-(4A) The Registrar must not register a special resolution under section 82 if the proposed amalgamation or transfer of engagements would result in a breach of any provision of this Act.
-(5) In this Part the term non-qualifying member, in relation to an amalgamated credit union or a credit union which has accepted a transfer of engagements, includes a person who does not fulfil the qualifications for admission to membership of that credit union but became a member of it by virtue of the amalgamation or transfer of engagements, having been immediately before the amalgamation or transfer a non-qualifying member of one of the amalgamating credit unions or, as the case may be, the credit union from which the transfer of engagements was made.
+### 133B Attorneys
+(1) A credit union may, by an instrument in writing executed in accordance with section 133A(1)﻿(a), appoint a person as its attorney either generally or in relation to a specified matter.
+(2) Subsection (1) is subject to the credit union’s rules.
+(3) An act of the attorney in accordance with the instrument binds the credit union.
+(4) Sections 19 to 21 of the Property Law Act 2007 apply, with all necessary modifications, in relation to a power of attorney executed by a credit union—
+  (a) to the same extent as if the credit union were a natural person; and
+  (b) as if the commencement of the liquidation of the credit union or, if there is no liquidation, the removal of the credit union from the register under section 140 were an event revoking the power of attorney within the meaning of those sections.
+
+### 134 Guarantee funds
+[Repealed]
+
+**Amalgamations and transfers of engagements**
+
+### 135 Amalgamation of credit unions and transfer of engagements of 1 credit union to another credit union
+(1) Two or more credit unions may, by special resolution of each of them, amalgamate as 1 credit union.
+(2) The amalgamated credit union may continue as—
+  (a) one of the amalgamating credit unions; or
+  (b) a new credit union.
+(3) A credit union may, by special resolution, transfer its engagements to any other credit union that, by special resolution or in any other manner that may be authorised by its rules, has undertaken to fulfil the engagements of that credit union.
+(4) A credit union, other than an association, must not—
+  (a) amalgamate with—
+    (i) an association; or
+    (ii) a body that is not a credit union; or
+  (b) transfer its engagements to, or accept a transfer of engagements from,—
+    (i) an association; or
+    (ii) a body that is not a credit union.
+(5) An association must not—
+  (a) amalgamate with a body that is not an association; or
+  (b) transfer its engagements to, or accept a transfer of engagements from, a body that is not an association.
+
+### 135A Members of credit union to be given information about proposed amalgamation or transfer of engagements
+(1) Before a credit union amalgamates, or transfers its engagements, information relating to the terms of the proposed amalgamation or transfer must be given to the credit union’s members by sending to each member, not less than 14 days before the date of the general meeting at which the resolution for the amalgamation or transfer is to be proposed, a notice the contents of which have been approved for the purpose by the Registrar.
+(2) For the purposes of subsection (1), the information to be given must relate, at the least, to the following:
+  (a) the financial position of the credit union and that of the other credit union concerned:
+  (b) the interest of the officers of the credit union, and of the officers of the other credit union concerned, in the amalgamation or transfer:
+  (c) the compensation or other consideration (if any) proposed to be paid to any officers referred to in paragraph (b):
+  (d) the payments (if any) to be made to the members of the credit union, and to the members of the other credit union concerned, in consideration of the amalgamation or transfer.
+
+### 135B Secured creditors and public notice
+Before a credit union amalgamates, transfers its engagements, or accepts a transfer of engagements from another credit union, the credit union must, at or before the prescribed time,—
+  (a) send to every secured creditor of the credit union the prescribed information relating to the proposed amalgamation or transfer; and
+  (b) give public notice of the proposed amalgamation or transfer in the prescribed manner and containing the prescribed information relating to the proposed amalgamation or transfer.
+
+### 135C Registration of special resolutions for amalgamation or transfer of engagements
+(1) Section 85 applies, with any necessary modifications, if a special resolution is passed for the amalgamation, or transfer of engagements, of a credit union.
+(2) Further, the Registrar must not register the special resolution unless satisfied that the requirements of section 100B(1)﻿(a) to (f) or 146(1)﻿(a) to (d) are met in relation to, as the case requires,—
+  (a) the amalgamated credit union; or
+  (b) the credit union to which the transfer of engagements is being made.
+(3) Once each special resolution relating to an amalgamation, or to a transfer of engagements, has been registered, the Registrar must,—
+  (a) in the case of an amalgamation,—
+    (i) issue a certificate of amalgamation; and
+    (ii) if the amalgamated credit union is one of the amalgamating credit unions, make any necessary changes to that credit union’s registration (for example, registering its new rules); and
+    (iii) if the amalgamated credit union is a new credit union, act under section 100B(2) or 146(2) in relation to that credit union (and section 100B(3) to (5) or 146(3) to (5) applies accordingly); and
+    (iv) remove from the register under section 140 any amalgamating credit union that is not the amalgamated credit union; or
+  (b) in the case of a transfer of engagements,—
+    (i) issue a certificate of transfer of engagements; and
+    (ii) make any necessary changes to the registration of the credit union to which the transfer is being made (for example, registering its new rules); and
+    (iii) remove the other credit union from the register under section 140.
+(4) On and after the date set out in the certificate of amalgamation or transfer of engagements,—
+  (a) in the case of an amalgamation,—
+    (i) the amalgamation is effective in accordance with its terms; and
+    (ii) the amalgamated credit union succeeds to all the property, rights, powers, and privileges of each of the amalgamating credit unions; and
+    (iii) the amalgamated credit union succeeds to all the liabilities and obligations of each of the amalgamating credit unions; and
+    (iv) proceedings pending by, or against, an amalgamating credit union may be continued by, or against, the amalgamated credit union; and
+    (v) a conviction, ruling, order, or judgment in favour of, or against, an amalgamating credit union may be enforced by, or against, the amalgamated credit union; or
+  (b) in the case of a transfer of engagements,—
+    (i) the transfer is effective in accordance with its terms; and
+    (ii) the credit union to which the transfer is made succeeds to all the property, rights, powers, and privileges of the other credit union; and
+    (iii) the credit union to which the transfer is made succeeds to all the liabilities and obligations of the other credit union; and
+    (iv) proceedings pending by, or against, the other credit union may be continued by, or against, the credit union to which the transfer is made; and
+    (v) a conviction, ruling, order, or judgment in favour of, or against, the other credit union may be enforced by, or against, the credit union to which the transfer is made.
+(5) The date set out in the certificate of amalgamation or transfer of engagements must be—
+  (a) the date immediately after the date on which it is issued; or
+  (b) if later, the date on which the amalgamation or transfer of engagements is to become effective in accordance with its terms.
+(6) In this Part, non-qualifying member,—
+  (a) in relation to an amalgamated credit union, includes a person who does not fulfil the qualifications for admission to membership of the credit union but became a member of it by virtue of the amalgamation, having been, immediately before the amalgamation became effective, a non-qualifying member of one of the amalgamating credit unions; and
+  (b) in relation to a credit union to which there is a transfer of engagements, includes a person who does not fulfil the qualifications for admission to membership of the credit union but became a member of it by virtue of the transfer, having been, immediately before the transfer became effective, a non-qualifying member of the credit union whose engagements are transferred.
+
+### 135D Other registers
+(1) The Registrar-General of Land, the Registrar of Deeds, or any other person charged with keeping any books or registers is not obliged to change the name of a transferor credit union to that of a transferee credit union in those books or registers or in any documents solely because an amalgamation or a transfer of engagements has been effected.
+(2) The presentation to a Registrar or any other person of a specified instrument is, in the absence of evidence to the contrary, sufficient evidence that the property to which the instrument relates has become the property of the transferee credit union.
+(3) In subsection (2), a specified instrument is an instrument that—
+  (a) is executed or purports to be executed by the transferee credit union; and
+  (b) relates to any property held immediately before the amalgamation or transfer of engagements by a transferor credit union; and
+  (c) states that the property has become the property of the transferee credit union by virtue of section 135C(4).
+(4) Subsection (5) applies if—
+  (a) any financial products issued by a person (A) or any rights or interests in property of a person (A) become, by virtue of section 135C(4), the property of a transferee credit union; and
+  (b) a certificate signed on behalf of the committee of management of the transferee credit union is presented to A, stating that those products, rights, or interests have by virtue of section 135C(4) become the property of the transferee credit union.
+(5) Despite subsections (1) and (2) and any other enactment or rule of law, A, on presentation of the certificate, must register the transferee credit union as the holder of the financial products or as the person entitled to the rights or interests.
+(6) Except as provided in this section, nothing in sections 135 to 135C derogates from the provisions of the Land Transfer Act 1952 or the Land Transfer Act 2017.
+(7) In this section,—
+  - **transferee credit union** ,—
+    (a) in relation to an amalgamation, means the amalgamated credit union:
+    (b) in relation to a transfer of engagements, means the credit union to which the transfer is made
+  - **transferor credit union** ,—
+    (a) in relation to an amalgamation, means an amalgamating credit union:
+    (b) in relation to a transfer of engagements, means the credit union from which the transfer is made.
+
+### 135E Powers of court in relation to proposed amalgamation or transfer of engagements
+(1) This section applies if a creditor of a relevant credit union, or any other person to whom a relevant credit union is under an obligation, believes that the creditor or other person would be unfairly prejudiced by a proposed amalgamation or transfer of engagements.
+(2) The creditor or other person may apply to the District Court for an order under subsection (3).
+(3) The court may, if it is satisfied that the creditor or other person would be unfairly prejudiced by the proposed amalgamation or transfer of engagements, make any order the court thinks fit in relation to the proposal, including—
+  (a) directing that effect must not be given to the proposal:
+  (b) modifying the proposal in any manner specified in the order:
+  (c) directing the relevant credit union or its committee of management to reconsider the proposal or any part of it.
+(4) An order may be made under subsection (3) on the conditions that the court thinks fit.
+(5) In this section, relevant credit union means,—
+  (a) in relation to a proposed amalgamation, an amalgamating credit union:
+  (b) in relation to a proposed transfer of engagements, the credit union making the transfer or the credit union to which the transfer would be made.
 
 ### 136 Registrar may approve amalgamations or transfers of engagements of credit unions
-(1) If, after notice has been given of a general meeting at which it is proposed to put a special resolution amalgamating or transferring the engagements of the credit union pursuant to section 135 the meeting lapses for want of the quorum specified in the rules of the credit union, the committee or trustees of the credit union may apply to the Registrar to confirm the amalgamation or transfer as if the special resolution had been properly passed.
+(1) If, after notice has been given of a general meeting at which it is proposed to put a special resolution amalgamating or transferring the engagements of the credit union pursuant to section 135 the meeting lapses for want of the quorum specified in the rules of the credit union, the committee of the credit union may apply to the Registrar to confirm the amalgamation or transfer as if the special resolution had been properly passed.
 (2) Notice of every such application shall be published by the credit union in the Gazette, and in such newspaper or newspapers as the Registrar may require.
 (3) Objections in writing may be made to the Registrar, and for this purpose the objection provisions of section 85 with any necessary modifications shall apply to the application as if it were a special resolution passed in respect of a friendly society and the date of publication of the application were the date the special resolution was received by the Registrar under subsection (3) of that section.
 
-**Inspection, liquidation, and suspension of business**
+**Inspection, liquidation, suspension of business, removal from register, and restoration to register**
 
 ### 137 Registrar may appoint inspectors or call special meeting
 Section 89 (which relates to the appointment of inspectors or the calling of special meetings) shall, as far as it is applicable and with any necessary modification, apply in respect of a credit union as if it were a society registered under Part 2.
 
-### 138 Registrar may apply to put credit union into liquidation
-On the application of the Registrar, the High Court may appoint a liquidator of a credit union for the liquidation of the credit union in accordance with the Companies Act 1993 if—
-  (a) the credit union is unable to pay sums due and payable to its members, or is able to pay such sums only by obtaining further subscriptions for shares or by defaulting in its obligations to creditors; or
+### 137A Members may resolve to put credit union into liquidation
+(1) A credit union may be put into liquidation by the appointment of a liquidator by the credit union’s members.
+(2) The liquidator must be appointed by a special resolution.
+(3) Part 16 of the Companies Act 1993 applies to the liquidation of a credit union under subsection (1), with all necessary modifications, as if the credit union were a company that has been put into liquidation under section 241(2)﻿(a) of that Act.
+
+### 138 High Court may put credit union into liquidation
+(1) On an application under this section, the High Court may appoint a liquidator of a credit union for the liquidation of the credit union if—
+  (a) the credit union is unable to pay its debts; or
+  (aa) the credit union has not commenced operations within 1 year of incorporation or has suspended its operations for more than 6 months; or
+  (ab) incorporation has been obtained for the credit union by fraud or mistake; or
+  (ac) the credit union exists for an illegal purpose; or
+  (ad) the requirement about membership in section 100B(1)﻿(a) is not met in relation to the credit union; or
   (b) there has been, in relation to that credit union, failure to comply with any provision of, or any direction given under, this Act; or
   (c) there is no longer a common bond between the members of the credit union; or
   (d) the liquidation of the credit union is in the public interest or is just and equitable having regard to the interests of all members of the credit union.
+(2) An application under this section may be made by any of the following:
+  (a) the credit union:
+  (b) a member of the credit union:
+  (c) a creditor of the credit union:
+  (d) the Registrar.
+(3) Part 16 of the Companies Act 1993 applies, with any necessary modifications,—
+  (a) to an application under this section as if the application were an application under section 241(2)﻿(c) of that Act; and
+  (b) to the liquidation as if the liquidator had been appointed under section 241(2)﻿(c) of that Act.
 
 ### 138A Transitional provisions applying to liquidation of credit unions
 [Repealed]
@@ -1179,33 +1468,113 @@ On the application of the Registrar, the High Court may appoint a liquidator of 
 (3) The Registrar shall consider any representations with respect to a notice under subsection (2) which may be made to him by the credit union within such period (being not less than 1 month) as he may allow from the date on which the credit union is given the notice or such further period as he may allow; and, if the credit union so requests, shall afford it an opportunity of being heard by him within that period or further period.
 (4) Where the Registrar gives a direction under subsection (1) he shall give the credit union notice in writing of it setting out his reasons for doing so; but he shall not give such a direction under the said subsection (1) unless all the reasons set out were those, or were among those, which were set out in the notice given to the credit union under subsection (2).
 (5) Notice of the giving of a direction under subsection (1) shall be published by the Registrar in the Gazette and in some newspaper in general circulation in the neighbourhood of the registered office of the credit union.
-(6) Nothing in any direction given under this section shall make it unlawful for a credit union to borrow from a bank under section 109(2) if the credit union has first obtained the consent in writing of the Registrar.
+(6) Nothing in any direction given under this section shall make it unlawful for a credit union to borrow from a bank if the credit union has first obtained the consent in writing of the Registrar.
 (7) For the purposes of this section and of any direction given under it, if any indebtedness of a member to a credit union is set off to any extent against the share capital credited to him, then, to that extent, the setting off shall be treated as a repayment of that share capital.
 (8) A direction given under this section may be revoked by the Registrar, and notice of the revocation shall be published in the same manner as notice of the giving of the direction.
 (9) Where a direction under this section is revoked, any obligation of any person to make a payment to the credit union which fell due at a time when the credit union was prohibited by the direction from accepting it shall be suspended for a period equal to the period for which the prohibition was in force.
 (10) Subject to subsection (9), any obligation to make to a credit union a payment which the credit union is prohibited from accepting by a direction under this section shall be wholly rescinded.
 (11) A credit union may, within 1 month after the date of publication of a direction in the Gazette under subsection (5), appeal to the High Court against the whole or any part of the direction; but, until the appeal is determined, the direction shall have effect according to its tenor.
 
-### 140 Cancellation or suspension of registration, and dissolution of credit union
-(1) The Registrar may suspend a credit union's registration for any term not exceeding 3 months, and may from time to time renew the suspension for any term not exceeding 3 months, or may cancel a credit union's registration if there is no longer a common bond between the credit union's members or the Registrar is satisfied that—
-  (a) registration has been obtained for the credit union by fraud or mistake; or
-  (b) the credit union exists for an illegal purpose; or
-  (c) the credit union has wilfully, and after notice from the Registrar, breached any of the provisions of this Act; or
-  (d) the credit union has not commenced business within 1 year of registration or has voluntarily suspended business for more than 6 months; or
-  (e) the credit union has fewer than 21 members; or
-  (f) the credit union has ceased to exist; or
-  (g) at the request of the credit union, there is good reason for the cancellation or suspension; or
-  (h) there has been a failure by the credit union to comply with any direction of the Registrar given under this Act.
-(1A) Subsection (1) is subject to the following provisions (as far as they are applicable and with any modifications necessary so that they apply to a credit union as if it were a society registered under Part 2):
-  (a) section 92(2) to (9):
-  (b) section 93(1):
-  (c) section 94(1) to (4) and (6):
-  (d) section 95:
-  (e) section 96.
-(2) Where the registration of a credit union is cancelled pursuant to this section, whether as a result of an award or by agreement or otherwise, every officer of the credit union holding office immediately before such cancellation commits an offence if, at the expiry of a period of 3 months after the date of such cancellation or such extended period as the Registrar may allow, there has not been lodged with the Registrar a certificate signed by the liquidator, secretary, or other officer of the credit union approved by the Registrar that all property vested in the credit union has been duly conveyed or transferred by the credit union to the persons entitled.
+### 140 Removal from register
+(1) A credit union is removed from the register when the Registrar, acting under subsection (2), registers a notice issued by the Registrar stating that the credit union is removed from the register.
+(2) The Registrar may remove a credit union from the register—
+  (a) in accordance with section 135C(3)﻿(a)﻿(iv) or (b)﻿(iii) on the date set out in the certificate of amalgamation or transfer of engagements; or
+  (b) if a request that the credit union be removed from the register on a ground specified in subsection (3) is given to the Registrar in accordance with the credit union’s rules; or
+  (c) if the credit union has been put into liquidation, and—
+    (i) no liquidator is acting; or
+    (ii) the documents referred to in section 257(1)﻿(a) of the Companies Act 1993 (as applied by section 137A or 138 of this Act) have not been sent or delivered to the Registrar within 6 months after the liquidation is completed; or
+  (d) if a liquidator sends or delivers to the Registrar—
+    (i) the documents referred to in section 257(1)﻿(a) of the Companies Act 1993 (as applied by section 137A or 138 of this Act); and
+    (ii) a copy of the notice referred to in section 140A(1)﻿(a).
+(3) A request may be made on the grounds—
+  (a) that the credit union has ceased to operate, has discharged in full its liabilities to all its known creditors, and has distributed its remaining assets to those persons entitled to them or otherwise in accordance with its rules; or
+  (b) that the credit union has no assets remaining after paying its debts in full or in part, and no creditor has applied to the High Court under section 138 for an order putting the credit union into liquidation.
+(4) A request must be made in the prescribed manner (if any).
+
+### 140A Notice of intention to remove from register
+(1) The Registrar may remove a credit union from the register under section 140(2)﻿(b) to (d) only if—
+  (a) the Registrar is satisfied that notice of the intention to remove the credit union from the register has been given in the prescribed manner to the public and all other prescribed persons (if any); and
+  (b) the Registrar—
+    (i) is satisfied that no person has objected to the removal under section 140B; or
+    (ii) if an objection to the removal has been received, has complied with sections 140C and 140D.
+(2) The notice under subsection (1)﻿(a) must specify the date by which an objection to the removal under section 140B must be delivered to the Registrar, which must be no less than the prescribed number of working days after the date of the notice.
+
+### 140B Objection to removal from register
+(1) If a notice is given under section 140A(1)﻿(a), any person may deliver to the Registrar, not later than the date specified in the notice, an objection to the removal on any of the following grounds:
+  (a) that the credit union is still operating or there is other reason for it to continue in existence:
+  (b) that the credit union is a party to a legal proceeding:
+  (c) that the credit union is in receivership or liquidation, or both:
+  (d) that the person is a creditor, or another person, who has an undischarged claim against the credit union:
+  (e) that, for any other reason, it would not be just and equitable to remove the credit union from the register.
+(2) Section 321(2) of the Companies Act 1993 applies for the purposes of subsection (1)﻿(d), with all necessary modifications, as if the credit union were a company.
+
+### 140C Objections under section 140B(1)﻿(a), (b), or (c)
+If an objection is made under section 140B(1)﻿(a), (b), or (c), the Registrar must not proceed with the removal unless the Registrar is satisfied that—
+  (a) the objection has been withdrawn; or
+  (b) any facts on which the objection is based are not, or are no longer, correct; or
+  (c) the objection is frivolous or vexatious.
+
+### 140D Objections under section 140B(1)﻿(d) or (e)
+(1) If an objection is made under section 140B(1)﻿(d) or (e), the Registrar may give notice to the person objecting that, unless notice of a specified application is given to the Registrar not later than 20 working days after the date of the notice, the Registrar intends to proceed with the removal.
+(2) In this section, specified application means an application under section 138 or 140F.
+(3) The Registrar may proceed with the removal if—
+  (a) notice of a specified application is not served on the Registrar; or
+  (b) the specified application is withdrawn; or
+  (c) on the hearing of the specified application, the court refuses to grant either an order putting the credit union into liquidation or an order that the credit union not be removed from the register.
+(4) Every person who makes a specified application must give the Registrar notice in writing of the decision of the court within 5 working days after the decision is given.
+
+### 140E Registrar must send information to person who requests removal
+The Registrar must send the following to a person who delivered a request under section 140(2)﻿(b) or a liquidator referred to in section 140(2)﻿(d):
+  (a) a copy of an objection under section 140B:
+  (b) a copy of a notice given by or to the Registrar under section 140D:
+  (c) if the credit union is removed from the register, notice of the removal.
+
+### 140F High Court may order that credit union not be removed
+(1) A person who gives a notice objecting to the removal of a credit union from the register on a ground specified in section 140B(1)﻿(d) or (e) may apply to the High Court for an order that the credit union is not to be removed from the register.
+(2) The court may, if it is satisfied that the credit union should not be removed from the register on any of the grounds in section 140B(1), make an order that the credit union is not to be removed from the register.
+
+### 140G Liability of officers, members, and others to continue
+The removal of a credit union from the register does not affect the liability of any former officer or member of the credit union or any other person in respect of any act or omission that took place before the credit union was removed from the register, and that liability continues and may be enforced as if the credit union had not been removed from the register.
+
+### 140H Restoration of credit union to register
+(1) A credit union is restored to the register when the Registrar, acting under section 140I or an order made under section 140K, registers a notice issued by the Registrar stating that the credit union is restored to the register.
+(2) A credit union that is restored to the register must be treated as having continued in existence as if it had not been removed from the register.
+
+### 140I Registrar may restore credit union to register
+(1) The Registrar must, on an application made in the prescribed manner, and may, on the Registrar’s own motion, restore a credit union to the register if the Registrar is satisfied that, at the time the credit union was removed from the register,—
+  (a) the credit union was still operating or another reason existed for the credit union to continue in existence; or
+  (b) the credit union was a party to a legal proceeding; or
+  (c) the credit union was in receivership or liquidation, or both.
+(2) This section does not limit section 140K.
+
+### 140J Notice of proposed restoration
+(1) Before the Registrar restores a credit union to the register under section 140I, the Registrar must be satisfied that notice of the intention to restore the credit union to the register has been given in the prescribed manner to the public and all other prescribed persons (if any).
+(2) The notice under subsection (1) must specify the date by which an objection to the restoration may be delivered to the Registrar, which must be no less than the prescribed number of working days after the date of the notice.
+(3) The Registrar must not restore a credit union to the register under section 140I if the Registrar receives an objection to the restoration within the period stated in the notice under subsection (1).
+
+### 140K High Court may order restoration of credit union
+(1) The High Court may, on the application of a person referred to in subsection (2), order that a credit union be restored to the register if it is satisfied that,—
+  (a) at the time the credit union was removed from the register,—
+    (i) the credit union was still operating or another reason existed for the credit union to continue in existence; or
+    (ii) the credit union was a party to a legal proceeding; or
+    (iii) the credit union was in receivership or liquidation, or both; or
+    (iv) the applicant was a creditor, or another person, who had an undischarged claim against the credit union; or
+  (b) for any other reason it is just and equitable to restore the credit union to the register.
+(2) The following persons may make an application:
+  (a) any person who is prescribed for the purposes of this subsection:
+  (b) the Registrar:
+  (c) with the leave of the court, any other person.
+
+### 140L Registrar or High Court may require provisions of this Act to be complied with
+The Registrar or the High Court may, before restoring a credit union to the register under section 140I or ordering its restoration to the register under section 140K, require any of the provisions of this Act to be complied with (being provisions with which the credit union had failed to comply before it was removed from the register).
+
+### 140M Other High Court orders
+(1) This section applies if a credit union is restored to the register under section 140I or its restoration to the register is ordered under section 140K.
+(2) The High Court may, on the application of the Registrar or the applicant for restoration or on its own motion, give any directions or make any orders that may be necessary or desirable for the purpose of placing the credit union and any other persons as nearly as possible in the same position as if the credit union had not been removed from the register.
+(3) However, a direction or an order may not require the return to the credit union of any assets that have been properly transferred in accordance with any provision of the credit union’s rules that falls within item 17 of Schedule 4.
 
 ### 141 Liability of members on winding up
-Where a credit union is wound up pursuant to section 138, the liability of a present or past member of the credit union to contribute for payment of the debts and liabilities of the credit union, the expenses of winding up, and the adjustment of the rights of contributories amongst themselves, shall be qualified as follows:
+Where a credit union is wound up pursuant to section 137A or 138, the liability of a present or past member of the credit union to contribute for payment of the debts and liabilities of the credit union, the expenses of winding up, and the adjustment of the rights of contributories amongst themselves, shall be as follows:
   (a) no person who ceased to be a member not less than 1 year before the beginning of the winding up shall be liable to contribute:
   (b) no person shall be liable to contribute in respect of any debt or liability contracted after he ceased to be a member:
   (c) no person who is not a member shall be liable to contribute unless it appears to the court that the contributions of the existing members are insufficient to satisfy the just demands on the credit union:
@@ -1223,47 +1592,50 @@ Where a credit union is wound up pursuant to section 138, the liability of a pre
 
 **Associations of credit unions**
 
-### 143 Associations of credit unions to be registered
-(1) No credit union shall be a member of a formal body, whose objects include any of the objects of an association under this section, unless that body is registered as an association under this Part.
-(2) An association of credit unions may be formed by 7 or more credit unions, in accordance with the provisions of this Part.
-(3) The objects of an association shall be such of the following, as may be authorised by the rules of the association—
-  (a) to promote the interests of and strengthen co-operation among credit unions:
-  (b) to render services to, and to act on behalf of, its component members in such ways as may be specified in or authorised by the rules of the association:
-  (c) to encourage the formulation, adoption, and observance by credit unions of standards and conditions governing the carrying on of their business:
-  (d) to supervise and examine the affairs of its component members, as may be provided for in the rules of the association:
-  (e) to provide any other services specified in subsection (4).
-(4) Specified services for the purposes of subsection (3)﻿(e) are—
-  (a) receiving deposits or subscriptions (other than subscriptions solely of an annual or periodic nature to be used for the association's purposes) from its component members for purposes specified in its rules:
-  (b) making loans to its component members:
-  (c) establishing and maintaining a central funding scheme for the benefit of its component members:
-  (d) levying its component members the amount or amounts for purposes and in the manner specified in its rules:
-  (e) providing, or administering any scheme providing, fidelity insurance, savings insurance, or loan protection insurance:
-  (f) undertaking training or education programmes for its component members or members of credit unions or the public:
-  (g) providing advisory services for its component members:
-  (h) arranging, providing, or co-ordinating data processing or computer services for its component members.
+### 143 Associations of credit unions may be incorporated under this Part
+(1)
+(2) Any 2 or more credit unions may apply to the Registrar in accordance with section 145 for the incorporation of an association of credit unions under this Part.
+(3) The objects of the association must be, or fall within, the objects set out in subsection (4).
+(4) The objects referred to in subsection (3) are as follows:
+  (a) to promote the interests of the association’s members:
+  (b) as authorised by the association’s rules,—
+    (i) to provide its members or other persons with products or services:
+    (ii) otherwise to carry out activities for the benefit or assistance of its members or other persons.
 
 ### 144 Membership of association
 (1) The members of an association shall be the credit unions by which the association is formed and any other credit unions that are admitted to membership of the association in accordance with its rules.
 (2) Where an association is formed by the amalgamation of 2 or more associations, the members of the association formed by the amalgamation shall be the members of the amalgamating associations and other members that are admitted in accordance with the rules of the association formed by the amalgamation.
 
-### 145 Application for registration of association
-(1) An application to register an association under this Part shall be signed on behalf of at least 7 of the credit unions agreeing to form the association by at least 1 representative of each of those credit unions, and shall be sent to the Registrar.
-(2) Together with an application under subsection (1), there shall be sent a copy of the rules of the association signed by those persons who signed that application and a list of the names, addresses, and designations of the committee of management, the secretary, treasurer, and other principal officers, the trustees, and those persons who are authorised to sue and be sued on behalf of the association.
+### 145 Application for incorporation of association
+(1) An application under section 143(2) for the incorporation of an association of credit unions must be signed by each of the applicants.
+(2) The application must include—
+  (a) a copy of the association’s proposed rules; and
+  (b) a list of the names, addresses, and designations of the officers proposed for the association.
 (3) Except where otherwise authorised in writing by the Registrar in the circumstances of any case, the name of every association of credit unions shall contain the words association of credit unions.
-(4) An association shall not be registered under a name identical with that under which any other existing association, credit union, or society is registered, or so nearly resembling that name as to be likely, or in any name likely, in the opinion of the Registrar, to deceive its component members or the public as to its nature or its identity or in any name which in his opinion is otherwise undesirable.
+(4)
 
-### 146 Registration of association
-(1) If, after receipt of an application for the registration of an association, the Registrar is satisfied—the Registrar shall issue to that association an acknowledgment of registration and publish, by notice in the Gazette, details of the registration.
-  (a) that the rules as submitted are not contrary to the provisions of this Act and are such as may be reasonably approved by him; and
-  (b) that there are reasonable grounds for believing that the association, if registered, will be able to carry out its objects successfully; and
-  (c) that there is no reasonable cause why the association and its rules should not be registered,—
-(2) Upon the issue of an acknowledgment of registration under subsection (1) in respect of any association, the association shall have the powers, rights, duties, and functions conferred, imposed, or prescribed by or under this Act and the rules of the association.
-(3) The following provisions of this Part shall not apply in respect of associations:
-  (a) sections 98 to 100, section 101(1), and sections 102 and 103:
-  (b) so much of section 104(1) as relates to section 12 (except subsection (6)), section 17, and section 23(3) and (4):
-  (c) section 104(1)﻿(a), (b), and (c), and (2):
-  (d) section 106 (except subsection (8)), and sections 107 and 108:
-  (e) section 142.
+### 146 Incorporation of association
+(1) Subsection (2) applies if an application is made under section 143(2) for the incorporation of an association of credit unions and the Registrar is satisfied—
+  (a) that the association will have at least 2 members; and
+  (b) that the rules as submitted are not contrary to the provisions of this Act and may be reasonably approved by the Registrar; and
+  (c) that there are reasonable grounds for believing that the association will be able to carry out its objects successfully; and
+  (d) that there is no reasonable cause why the association should not be incorporated.
+(2) The Registrar must—
+  (a) register the association’s name; and
+  (b) issue a certificate of incorporation; and
+  (c) register the association’s rules (together with any other documents or information relating to the association that the Registrar thinks appropriate).
+(3) The association is, on and after the date of incorporation set out in the certificate of incorporation, a body corporate that has—
+  (a) perpetual succession; and
+  (b) the capacity, rights, powers, and privileges provided for in section 107B.
+(4) The association continues in existence until it is removed from the register under section 140.
+(5) The certificate of incorporation is conclusive evidence that—
+  (a) all the requirements of this Part as to incorporation have been complied with; and
+  (b) on and after the date of incorporation set out in the certificate, the association is registered and incorporated under this Part.
+(6) If the Registrar refuses to act under subsection (2) in relation to an application, the applicants may, within 3 months after the date on which they are notified of the refusal, appeal against the refusal to the High Court.
+(7) If the refusal is overruled on appeal, then, subject to such terms and conditions as the court may impose or otherwise in pursuance of the court order, the Registrar must act under subsection (2) as soon as practicable.
+(8) Sections 98 to 102, 103(1), 106(1) to (6), 106B(6), 107, 107A, 138(1)﻿(c), and 142 do not apply in respect of associations.
+(9) Section 103(3) applies in respect of an association as if section 145(3) were in section 103.
+(10) If an association has only 2 members, section 106B(4) applies in respect of the association as if the reference to 3 members were to 2 members.
 
 ## Part 4 — Miscellaneous provisions
 
@@ -1303,7 +1675,7 @@ Any costs or expenses ordered or directed by the Registrar to be paid by any per
   (a) where this Act provides for an appeal to the High Court; or
   (b) where any person is aggrieved by the decision of the Registrar in relation to any matter or thing done by him pursuant to this Act,—
 (2) Except where otherwise provided by this Act, every such appeal shall be brought within 1 month after the date on which the appellant was notified of the decision appealed against, or within such further period as the court may allow.
-(3) Where a decision of the Registrar is to cancel or suspend any registration or suspend any business, then, except where this Act otherwise provides, that decision shall be of no effect until,—
+(3) Where a decision of the Registrar under Part 2 is to cancel or suspend any registration or suspend any business, then, except where this Act otherwise provides, that decision shall be of no effect until,—
   (a) where notice of an appeal against that decision has been given within the period specified in subsection (2), the appeal is determined; or
   (b) where no notice of an appeal against that decision has been given within that period, that period expires.
 (4) The court may receive in evidence any statement, document, information, or matter that may in its opinion assist it to deal effectually with the matters before it, whether or not that evidence would be otherwise admissible in a court of law.
@@ -1319,6 +1691,7 @@ The Governor-General may, from time to time by Order in Council, make regulation
   (a) prescribing fees payable in relation to any matter under this Act:
   (b) prescribing the proper allowances to be made by a credit union for contingent liability for loss in respect of any loan made by that credit union:
   (c) prescribing, in respect of any fund or funds held, arranged, or established by any registered society or branch undertaking insurance or by an association of credit unions, the amount or proportion of any such fund to be invested in New Zealand Government securities or local authority securities:
+  (ca) prescribing matters as referred to in section 135B, 140(4), 140A(1)﻿(a) or (2), 140I(1), 140J(1) or (2), or 140K(2)﻿(a):
   (d) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 153 Offences and penalties
@@ -1332,23 +1705,23 @@ The Governor-General may, from time to time by Order in Council, make regulation
 (4) Every person who commits an offence against this Act for which no other penalty is prescribed in this Act shall be liable on conviction to a fine not exceeding $750 and, in the case of a continuing offence, to a further fine not exceeding $50 for every week or part of a week during which the offence continues.
 (5) Despite anything to the contrary in section 25 of the Criminal Procedure Act 2011, the limitation period in respect of an offence against this Act ends on the date that is 12 months after the date on which the offence was actually brought to the knowledge of the Registrar; but no charging document may be filed after the expiration of 3 years after the date on which the offence was committed.
 
-### 154 Recovery of fines, etc, imposed on society, branch, or credit union
-When a fine has been imposed upon a registered society or branch, or credit union in any proceedings under this Act for an offence punishable on conviction, or where in any such proceedings any such society, branch, or credit union has been ordered to pay any costs, the payment of such fine or costs may be enforced and recovered in the same manner as if the society, branch, or credit union were a body corporate and as if all property vested in the trustees of the society, branch, or credit union were vested in the society, branch, or credit union itself for the estate or interest of the trustees therein.
+### 154 Recovery of fines, etc, imposed on society or branch
+When a fine has been imposed upon a registered society or branch in any proceedings under this Act for an offence punishable on conviction, or where in any such proceedings any such society or branch has been ordered to pay any costs, the payment of such fine or costs may be enforced and recovered in the same manner as if the society or branch were a body corporate and as if all property vested in the trustees of the society or branch were vested in the society or branch itself for the estate or interest of the trustees therein.
 
 ### 155 Status of trustees and officers for purposes of Crimes Act 1961
-(1) The trustees of a registered society or branch or credit union shall be deemed to be trustees within the meaning of section 229 of the Crimes Act 1961.
+(1) The trustees of a registered society or branch shall be deemed to be trustees within the meaning of section 229 of the Crimes Act 1961.
 (2)
 
 ### 156 Liability of officers and of members of committee on commission of offence
-Where a registered society or branch or credit union is guilty of an offence against this Act, every officer of the society or branch or credit union bound to fulfil any duty whereof the offence is a breach or, if there is no such officer, then every member of the committee (unless that member is proved to have been ignorant of or to have attempted to prevent the commission of the offence) shall be liable to the same penalty as if he had committed the offence.
+Where a registered society or branch is guilty of an offence against this Act, every officer of the society or branch bound to fulfil any duty whereof the offence is a breach or, if there is no such officer, then every member of the committee (unless that member is proved to have been ignorant of or to have attempted to prevent the commission of the offence) shall be liable to the same penalty as if he had committed the offence.
 
-### 157 Institution of legal proceedings by or against society or branch or credit union
-(1) The trustees of a registered society or branch or credit union, or any other authorised officer, may bring or defend, or cause to be brought or defended, any action or other legal proceeding in any court touching or concerning any property, right, or claim of the society or branch or credit union, and may sue and be sued in their proper names, without other description than the title of their office.
-(2) In legal proceedings brought under this Act by a member, or person claiming through a member, a registered society or branch or credit union may also be sued in the name, as defendant, of any officer or person who receives contributions or issues policies on behalf of the society or branch or credit union, with the addition of the words “on behalf of the (society) or (branch) or (credit union)”.
+### 157 Institution of legal proceedings by or against society or branch
+(1) The trustees of a registered society or branch, or any other authorised officer, may bring or defend, or cause to be brought or defended, any action or other legal proceeding in any court touching or concerning any property, right, or claim of the society or branch, and may sue and be sued in their proper names, without other description than the title of their office.
+(2) In legal proceedings brought under this Act by a member, or person claiming through a member, a registered society or branch may also be sued in the name, as defendant, of any officer or person who receives contributions or issues policies on behalf of the society or branch, with the addition of the words “on behalf of the (society) or (branch)”.
 (3) No legal proceeding shall abate or be discontinued by the death, resignation, or removal from office of any officer, or by any act of any such officer, after the commencement of the proceedings.
-(4) Any summons, writ, process, or other proceeding to be issued to or against the officer or other person sued on behalf of a registered society or branch or credit union shall be sufficiently served by personally serving that officer or other person, or by leaving a true copy at the registered office of the society or branch or credit union, or at any place of business of the society or branch or credit union.
-(5) Where the said summons, writ, process, or other proceeding is not served by means of such personal service, or by leaving a true copy at the registered office of the society or branch or credit union, a copy shall be sent in a registered letter addressed to the committee at the registered office of the society or branch or credit union, and posted at least 6 days before any further step is taken on the proceeding.
-(6) Where the person against whom the proceedings are to be taken is himself a trustee of a society or branch or credit union, the proceedings may be brought by the other trustees or trustee of the society or branch or credit union.
+(4) Any summons, writ, process, or other proceeding to be issued to or against the officer or other person sued on behalf of a registered society or branch shall be sufficiently served by personally serving that officer or other person, or by leaving a true copy at the registered office of the society or branch, or at any place of business of the society or branch.
+(5) Where the said summons, writ, process, or other proceeding is not served by means of such personal service, or by leaving a true copy at the registered office of the society or branch, a copy shall be sent in a registered letter addressed to the committee at the registered office of the society or branch, and posted at least 6 days before any further step is taken on the proceeding.
+(6) Where the person against whom the proceedings are to be taken is himself a trustee of a society or branch, the proceedings may be brought by the other trustees or trustee of the society or branch.
 
 ### 158 Proof of documents
 (1) Every instrument or document purporting to be sealed with the seal of the Registrar shall be received in evidence without further proof.
@@ -1381,6 +1754,140 @@ All fines imposed on a member by a registered society or branch pursuant to its 
   (a) regulations under the Friendly Societies Act 1909 made on 14 March 1910 and published in the Gazette on 21 March 1910 at page 873; and
   (b) regulations amending those regulations made on 2 June 1919 and published in the Gazette on 5 June 1919 at page 1750.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Friendly Societies and Credit Unions (Regulatory Improvements) Amendment Act 2018
+
+### 1 Interpretation
+(1) In this Part,—
+  - **application period** means the period of 6 months beginning with the main commencement date
+  - **existing credit union** means a credit union, or an association of credit unions, that is registered under Part 3 immediately before the main commencement date
+  - **incorporation provision** means the amendments to enactments made by the Friendly Societies and Credit Unions (Regulatory Improvements) Amendment Act 2018, except the amendments made by the following:
+    (a) sections 4(4), (6), and (7), 5, 6(1), 7, 8, 9, 10, 11, 12, and 52 of that Act:
+    (b) the Schedule of that Act
+  - **instrument** includes (without limitation),—
+    (a) whether in writing or not, contracts, agreements, guarantees, conveyances, deeds, leases, grants, licences, exemptions, approvals, securities, financial products, undertakings, consents, waivers, and notices:
+    (b) instruments that are made under, or for the purposes of, enactments
+  - **liabilities** means liabilities, debts, charges, duties, and obligations, whether present or future, whether actual or contingent, and whether payable in, or to be observed or performed in, New Zealand or elsewhere
+  - **main commencement date** means the date on which the Friendly Societies and Credit Unions (Regulatory Improvements) Amendment Act 2018 comes into force
+  - **property** means real or personal property in New Zealand or elsewhere, and includes—
+    (a) choses in action and money; and
+    (b) goodwill; and
+    (c) rights, interests, and claims in or to property, whether arising from or accruing under, or created or evidenced by, or the subject of, an instrument or otherwise, and whether liquidated or unliquidated, actual, contingent, or prospective
+  - **relevant post-commencement date** , in relation to an existing credit union, means the date of incorporation set out in the existing credit union’s certificate of incorporation in accordance with clause 3(7)
+  - **rights** means rights, powers, privileges, and immunities, whether actual, contingent, or prospective, and whether arising or conferred in New Zealand or elsewhere
+  - **specified date** means the date specified under subclause (2).
+(2) The Governor-General may, by Order in Council, specify a date as the specified date for the purposes of this Part.
+
+### 2 Application of incorporation provision to existing credit unions
+Except as provided for in clause 3, the incorporation provision applies to an existing credit union—
+  (a) only if a certificate of incorporation is issued for the existing credit union on an application for its incorporation sent to the Registrar in accordance with clause 3; and
+  (b) only on and after the relevant post-commencement date.
+
+### 3 Existing credit unions to apply for incorporation
+(1) An existing credit union must, during the application period, send to the Registrar an application for its incorporation.
+(2) The application must be made on behalf of the existing credit union by its committee of management.
+(3) The application must—
+  (a) be signed on behalf of the committee of management; and
+  (b) comply with, as the case may be,—
+    (i) section 100A(1)﻿(b) to (d) and (2) as inserted by the incorporation provision; or
+    (ii) section 145(2) as replaced by the incorporation provision.
+(4) The application (including the contents required by section 100A(1)﻿(b) to (d) or 145(2), as the case may be)—
+  (a) must be approved by a resolution of a majority of the existing credit union’s members entitled to vote and voting on the matter; and
+  (b) once it is so approved, may be sent to the Registrar despite—
+    (i) section 104(3) (as it continues to apply to the existing credit union after the main commencement date); or
+    (ii) any provision of the existing credit union’s rules.
+(5) Once the application is sent to the Registrar, it is to be—
+  (a) treated as an application under, as the case may be, section 100 or 143(2) as replaced by the incorporation provision; and
+  (b) then dealt with in accordance with this Act as amended by the incorporation provision.
+(6) For the purposes of section 100B(1)﻿(e) (if applicable), it is to be assumed that the existing credit union’s name immediately before the main commencement date complies with section 103.
+(7) If a certificate of incorporation is issued on the application, the date of incorporation set out in the certificate must be—
+  (a) the specified date; or
+  (b) if later, the date immediately after the date on which the certificate is issued.
+(8) At the beginning of the relevant post-commencement date, the rules registered by the Registrar under section 100B(2)﻿(c) or 146(2)﻿(c) become the existing credit union’s rules and its trust is terminated.
+
+### 4 Failure of existing credit union to apply for incorporation, etc
+(1) Subclause (2) applies if an existing credit union fails to send to the Registrar an application for its incorporation in accordance with clause 3.
+(2) The existing credit union’s registration is cancelled at the end of the application period.
+(3) Subclause (4) or (5) (as the case requires) applies if—
+  (a) an existing credit union sends an application to the Registrar for its incorporation in accordance with clause 3; and
+  (b) the Registrar refuses to act under section 100B(2) or 146(2).
+(4) If the Registrar’s refusal is not appealed against under section 100B(6) or 146(6), the existing credit union’s registration is cancelled at—
+  (a) the end of the application period; or
+  (b) if later, the end of the period of 3 months referred to in section 100B(6) or 146(6).
+(5) If the Registrar’s refusal is appealed against under section 100B(6) or 146(6) but the appeal is discontinued or the refusal is not overruled, the existing credit union’s registration is cancelled at—
+  (a) the end of the application period; or
+  (b) if later, the end of the day on which the appeal is discontinued or finally determined.
+(6) The cancellation of an existing credit union’s registration by this clause is to be treated as a cancellation by the Registrar under section 140 (as in force before its replacement by the incorporation provision) and this Act and all other relevant enactments apply accordingly (disregarding the incorporation provision), except that sections 92(2) to (6) and 151 of this Act do not apply to the cancellation.
+
+### 5 Vesting of existing credit union’s property, rights, and liabilities in body corporate, etc
+(1) This clause and clauses 6 to 12 apply to an existing credit union for which a certificate of incorporation is issued on an application for its incorporation that is sent to the Registrar in accordance with clause 3.
+(2) At the beginning of the relevant post-commencement date, the property, rights, and liabilities of the existing credit union, and of its trustees, belong to, and vest in, the body corporate established by section 100B(3) or 146(3).
+(3) Clauses 6 to 11 do not limit the generality of subclause (2) of this clause.
+
+### 6 Status of instruments
+(1) This clause applies to an instrument that—
+  (a) is entered into by the existing credit union or its trustees (whether alone or with another person) before the relevant post-commencement date; and
+  (b) is subsisting immediately before the relevant post-commencement date.
+(2) On and after the relevant post-commencement date, the instrument is binding on, enforceable by, against, or in favour of, or otherwise applicable to the existing credit union as the body corporate as if the body corporate had been the person who entered into the instrument before the relevant post-commencement date.
+(3) On and after the relevant post-commencement date, a reference (express or implied) to the existing credit union or its trustees in the instrument is a reference to the existing credit union as the body corporate.
+(4) In this clause, references to an instrument being entered into by a person include the instrument—
+  (a) being made by or with the person; or
+  (b) being issued, or given, to or by the person; or
+  (c) being addressed to the person; or
+  (d) being otherwise applicable to the person.
+
+### 7 Continuation of legal and other proceedings
+(1) This clause applies to a proceeding—
+  (a) that was pending or that existed by, against, in favour of, or otherwise in relation to, the existing credit union before the relevant post-commencement date; or
+  (b) to which the existing credit union was a party before the relevant post-commencement date.
+(2) The proceeding must be continued and enforced by, against, in favour of, or otherwise in relation to, the existing credit union as the body corporate or with the body corporate as the party.
+(3) It is not necessary to amend an application, notice, or other document to do so.
+(4) In subclause (1), references to the existing credit union include the following:
+  (a) its trustees:
+  (b) any authorised officer acting under section 157(1):
+  (c) any other person sued, or suing, on behalf of the existing credit union.
+(5) In this clause, proceeding includes action, arbitration, cause of action, conviction, judgment, liquidation, order, and ruling.
+
+### 8 Employees
+(1) At the beginning of the relevant post-commencement date, each employee of the existing credit union or its trustees becomes an employee of the existing credit union as the body corporate.
+(2) For the purposes of an enactment, rule of law, contract, or agreement relating to the employee, the contract of employment of the employee must be treated as unbroken and a period of service with the existing credit union or its trustees before the relevant post-commencement date must be treated as a period of service with the existing credit union as the body corporate.
+(3) The terms and conditions of employment of the employee must remain the same as the terms and conditions of his or her employment with the existing credit union or its trustees immediately before the relevant post-commencement date, but they may be varied in the same manner.
+(4) The employee is not entitled to receive a payment or benefit by reason only of the change in the employee’s employment status under this clause.
+
+### 9 Taxes and duties
+For the purposes of the Inland Revenue Acts (as that term is defined in section 3 of the Tax Administration Act 1994),—
+  (a) the existing credit union as the body corporate is the same person as the existing credit union and its trustees before the relevant post-commencement date; and
+  (b) a transaction entered into by, or an act of, the existing credit union or its trustees at a time (the relevant time) before the relevant post-commencement date must be treated—
+    (i) as having been entered into by, or as an act of, the existing credit union as the body corporate; and
+    (ii) as having been entered into, or as performed by, the existing credit union as the body corporate at the relevant time.
+
+### 10 Other registers
+(1) The Registrar-General of Land, the Registrar of Deeds, or any other person charged with keeping any books or registers is not obliged to make any changes to those books or registers or in any other documents solely because any property of the existing credit union or its trustees belongs to, and vests in, the body corporate at the beginning of the relevant post-commencement date.
+(2) The presentation to a Registrar or any other person of a specified instrument is, in the absence of evidence to the contrary, sufficient evidence that the property to which the instrument relates belongs to, and is vested in, the existing credit union as the body corporate.
+(3) In subclause (2), a specified instrument is an instrument that—
+  (a) is executed or purports to be executed by the existing credit union as the body corporate; and
+  (b) relates to any property of the existing credit union or its trustees before the relevant post-commencement date; and
+  (c) states that the property belongs to, and is vested in, the existing credit union as the body corporate by virtue of this Part.
+(4) Subclause (5) applies if—
+  (a) any financial products issued by a person (A) or any rights or interests in property of a person (A) belong to, and vest in, the body corporate at the beginning of the relevant post-commencement date; and
+  (b) a certificate signed on behalf of the committee of management of the existing credit union as the body corporate is presented to A, stating that those products, rights, or interests have become the property of the existing credit union as the body corporate.
+(5) Despite subclauses (1) and (2) and any other enactment or rule of law, A, on presentation of the certificate, must register the body corporate as the holder of the financial products or as the person entitled to the rights or interests.
+(6) Except as provided in this clause, nothing in this Part derogates from the provisions of the Land Transfer Act 1952 or the Land Transfer Act 2017.
+
+### 11 Effect of incorporation, etc
+Neither the incorporation of the existing credit union nor anything in or effected by, or done under, clauses 5 to 10—
+  (a) places any person in breach of, or otherwise in default under, an enactment, an instrument, a confidence, a trust, or any other rule of law or equity, or makes any person liable for a civil wrong; or
+  (b) entitles any person—
+    (i) to require the payment or performance of a liability not otherwise arising for payment or performance; or
+    (ii) to exercise a right not otherwise becoming exercisable; or
+  (c) invalidates or discharges an instrument or any provision of an instrument; or
+  (d) releases a surety from a liability.
+
+### 12 Termination of security provided under section 114
+(1) Despite clauses 5(2) and 6 to 11, any security provided under section 114 before the relevant post-commencement date terminates at the beginning of that date.
+(2) Subclause (1) does not prevent the body corporate from enforcing the security in relation to any failure or other event that occurs before the relevant post-commencement date.
+
 ## Schedule 1 — Purposes for which friendly societies may be established
 
 ## Schedule 2 — Matters to be provided for by the rules of societies registered under Part 2
@@ -1389,7 +1896,7 @@ All fines imposed on a member by a registered society or branch pursuant to its 
 
 ## Schedule 4 — Matters to be provided for in rules of credit unions
 
-## Schedule 5 — Persons, societies, or bodies of persons exempt from registration as a credit union
+## Schedule 5 — Persons exempt from incorporation as a credit union
 
 ## Schedule 6 — Enactments amended
 
