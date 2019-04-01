@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2018-04-01_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -27,7 +27,6 @@ This Act is the KiwiSaver Act 2006.
   - **complying superannuation fund** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **contribution** means any contribution to a KiwiSaver scheme, including an employer contribution and a Crown contribution
   - **contribution rate** , in relation to an employer and a particular employee, has the meaning given by section 64
-  - **contributions holiday** , in respect of an employee, means a period in respect of which the deduction of contributions is not required to be made from his or her salary or wages in accordance with subpart 4 of Part 3
   - **court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
   - **Crown** , for the avoidance of doubt, includes a Minister of the Crown, a government department, and the Commissioner
   - **Crown contribution** means—
@@ -54,8 +53,8 @@ This Act is the KiwiSaver Act 2006.
   - **employee** means a natural person who receives, or is entitled to receive, salary or wages
   - **employer** means,—
     (a) in relation to a person (person A) who is not a private domestic worker, the person (person B) who pays, or is liable to pay, salary or wages to person A:
-    (b) for the purposes of subparts 1 and 3 of Part 3, in relation to a private domestic worker who is liable to pay tax to the Commissioner under section RA 8, RA 10, or RD 4(2) of the Income Tax Act 2007, the private domestic worker, not person B:
-    (c) for the purposes of subpart 3A of Part 3, in relation to a private domestic worker who is liable to pay tax to the Commissioner under section RA 8, RA 10, or RD 4(2) of the Income Tax Act 2007, the private domestic worker, not person B, if the worker chooses to be the employer by applying subpart 3A of Part 3
+    (b) for the purposes of subparts 1 and 3 of Part 3, in relation to a private domestic worker who is liable to pay tax to the Commissioner under section RA 8, RA 10, or RD 4(4) of the Income Tax Act 2007, the private domestic worker, not person B:
+    (c) for the purposes of subpart 3A of Part 3, in relation to a private domestic worker who is liable to pay tax to the Commissioner under section RA 8, RA 10, or RD 4(4) of the Income Tax Act 2007, the private domestic worker, not person B, if the worker chooses to be the employer by applying subpart 3A of Part 3
   - **employer contribution** —
     (a) means an employer’s superannuation contribution made by an employer for an employee’s KiwiSaver scheme or complying superannuation fund; and
     (b) includes a compulsory employer contribution under subpart 3A of Part 3; and
@@ -65,10 +64,10 @@ This Act is the KiwiSaver Act 2006.
   - **employer contributor** , in relation to a KiwiSaver scheme, means an employer who—
     (a) contributes in respect of some or all of the employees of the employer who are members of the scheme; or
     (b) pays any of the administration costs or costs in relation to benefits to be provided under the scheme in respect of the employees of the employer who are members of the scheme
-  - **employer monthly schedule** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **employer’s chosen KiwiSaver scheme** means a KiwiSaver scheme chosen by an employer under section 47 to be the scheme of which the employer’s employees will become members if the employees do not choose their own KiwiSaver schemes
   - **employer’s superannuation contribution** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **employment** means employment (including the activities referred to in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007) for which salary or wages is payable
+  - **employment income information** has the meaning set out in section 23C of the Tax Administration Act 1994
   - **ESCT rules** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **exempt employer** means an employer—
     (a) who was approved as an exempt employer under section 30 (before its repeal), or who has been approved to succeed to exempt employer status under section 152; and
@@ -88,9 +87,16 @@ This Act is the KiwiSaver Act 2006.
   - **inactive account** , in relation to a member of a KiwiSaver scheme, means a member’s account in respect of which no contribution has been received for at least 2 years
   - **information pack** means an information pack that is supplied by the Commissioner under section 40 and contains the matters required by section 41
   - **investment manager** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
-  - **KiwiSaver deduction notice** means a notice given by an employee to his or her employer under section 22 or 34 that requires deductions of contributions to be made from his or her salary or wages
   - **KiwiSaver scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **KiwiSaver scheme rules** means the provisions implied in the trust deed of a KiwiSaver scheme under section 116 and Schedule 1
+  - **KiwiSaver status** means the information that an employee must give their employer in a form authorised by the Commissioner, as follows:
+    (a) whether or not they are a member of an existing KiwiSaver scheme or are choosing to opt in to a scheme:
+    (b) if they are an existing member,—
+      (i) their deduction rate:
+      (ii) whether they are on a contribution holiday:
+      (iii) whether they wish to cease deductions under section 112B(1) of the KiwiSaver Act 2006:
+      (iv) whether they have chosen to opt out of a scheme:
+    (c) if they are a new member, the information as required by the Commissioner, including the nomination of a contribution rate
   - **managed investment scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **manager** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **member** , in relation to a scheme, means a natural person who has been admitted to membership of the scheme and who is, or may become, entitled to benefits under the scheme
@@ -128,12 +134,12 @@ This Act is the KiwiSaver Act 2006.
   - **provider** has the meaning given by section 5
   - **provisionally allocated** means provisionally allocated to a KiwiSaver scheme under section 50
   - **register of managed investment schemes** means the register of managed investment schemes kept under Schedule 2 of the Financial Markets Conduct Act 2013
-  - **remittance certificate** means a PAYE payment form as defined in section YA 1 of the Income Tax Act 2007
   - **restricted scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **retirement scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **salary or wages** , in relation to any person, means salary or wages as defined in section RD 5(1)﻿(a) to (c) of the Income Tax Act 2007 (whether the salary or wages are primary or secondary employment earnings) except that, in this Act,—
     (a) it excludes—
-      (i) salary or wages described in section RD 5(4), (6)﻿(b) to (bc), (6)﻿(c), and (8) and RD 68 of the Income Tax Act 2007; and
+      (i) salary or wages described in section RD 5(4), (6)﻿(b) to (bc), (6)﻿(bh), and (8) and RD 68 of the Income Tax Act 2007; and
+      (iaa) salary or wages described in section RD 5(10) of the Income Tax Act 2007 if they are an overpayment of an amount of an employer’s superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 of that Act; and
       (ia) a payment under a Voluntary Bonding Scheme that is funded by the Ministry for Primary Industries, the Ministry of Health, or the Ministry of Education; and
       (ib)
       (ii) payments that are income under section CF1 (1)﻿(b) to (e), (g), or (h) of that Act; and
@@ -146,6 +152,7 @@ This Act is the KiwiSaver Act 2006.
     (b) it includes extra pay (as defined in section YA 1 of the Income Tax Act 2007), unless—
       (i) otherwise excluded under paragraph (a) of this definition; or
       (ii) the amount is a redundancy payment for the purposes of the Income Tax Act 2007
+  - **savings suspension** , in respect of an employee, means a period in respect of which the deduction of contributions is not required to be made from his or her salary or wages in accordance with subpart 4 of Part 3
   - **scheme** means any type or form of managed investment scheme
   - **superannuation scheme** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
   - **supervisor** has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013
@@ -277,7 +284,7 @@ Every employee to whom the automatic enrolment rules apply when starting new emp
   (b) the date on which the opt-out notice is—
     (i) accepted by the Commissioner, in the case of a notice given to the Commissioner; or
     (ii) received by the employer, in the case of a notice given to the employer.
-(5) An employer who receives an opt-out notice must give notice of that opt-out to the Commissioner no later than the time that the next employer monthly schedule is required to be delivered to the Commissioner under sections RA 5, RA 20, RD 2(3), RD 4(1), and RD 22 of the Income Tax Act 2007 and sections 24J and 24P of the Tax Administration Act 1994.
+(5) An employer who receives an opt-out notice must give notice of that opt-out to the Commissioner no later than the time the employer is next required to provide their employment income information for payday reporting to the Commissioner under section RD 22 of the Income Tax Act 2007 and sections 23E to 23I of the Tax Administration Act 1994.
 (6) For the purposes of sections 17 to 20, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
 
 ### 18 Extension of opt-out period
@@ -290,7 +297,7 @@ Every employee to whom the automatic enrolment rules apply when starting new emp
     (iv) events outside the control of the employee meant that the opt-out notice could not be given within the time limit and, in the opinion of the Commissioner, it is reasonable that a late opt-out notice be accepted; or
     (v) a mistake described in section 59A(b)﻿(i) has occurred.
 (2) The Commissioner may accept the opt-out notice, if it is received by the Commissioner or the employer in the period that ends 3 months after the date on which the Commissioner receives the first contribution in respect of the employee.
-(3) If an opt-out notice is received by the Commissioner outside the time limit in section 16, and the Commissioner does not exercise his or her discretion to accept it under this section, the Commissioner must treat the notice as if it were an application for a contributions holiday under section 102, if the person could have applied under that provision.
+(3) If an opt-out notice is received by the Commissioner outside the time limit in section 16, and the Commissioner does not exercise his or her discretion to accept it under this section, the Commissioner must treat the notice as if it were an application for a savings suspension under section 102, if the person could have applied under that provision.
 
 ### 19 Commissioner must give notice to employer of opting out
 The Commissioner must, as soon as practicable after accepting an opt-out notice from an employee, give notice to the employee’s employer in respect of the new employment that triggered the automatic enrolment rules stating that—
@@ -314,15 +321,15 @@ An opt-out notice given in respect of one employment terminates the application 
   (a) his or her name and address; and
   (b) his or her tax file number; and
   (c) whether or not he or she is already a member of a KiwiSaver scheme and, if that person is a member, must either—
-    (i) give to his or her employer a KiwiSaver deduction notice; or
-    (ii) give or show to his or her employer a copy of a notice given by the Commissioner under section 105 that grants a contributions holiday that has not yet ended; or
+    (i) notify his or her employer of their KiwiSaver status; or
+    (ii) give or show to his or her employer a copy of a notice given by the Commissioner under section 105 that grants a savings suspension that has not yet ended; or
     (iii) give his or her employer a non-deduction notice.
-(2) That information must be given as soon as practicable after the person starts the new employment.
-(3) A person who is in temporary employment and who is a member of a KiwiSaver scheme may give their temporary employer a KiwiSaver deduction notice.
+(2) That information must be given, in a form authorised by the Commissioner, as soon as practicable after the person starts the new employment.
+(3) A person who is in temporary employment and who is a member of a KiwiSaver scheme may notify their temporary employer of their KiwiSaver status.
 
 ### 23 Employers must give information to Commissioner
 (1) Every employer of a person who starts new employment must give notice to the Commissioner of the information referred to in section 22(1)﻿(a) and (b) that the employee gives the employer, if the employer is satisfied that the employee is subject to the automatic enrolment rules.
-(2) That information must be given no later than the time that the employer is next required to deliver an employer monthly schedule to the Commissioner under sections RA 5, RA 20, RD 2(3), RD 4(1), and RD 22 of the Income Tax Act 2007 and sections 24J and 24P of the Tax Administration Act 1994 after the information is given to the employer.
+(2) That information must be given no later than the time that the employer is next required to deliver their employment income information for payday reporting to the Commissioner under sections RA 5, RA 20, RD 2(3), RD 4(1), and RD 22 of the Income Tax Act 2007 and sections 23E to 23I of the Tax Administration Act 1994 after the information is given to the employer.
 
 ### 23A PAYE intermediaries
 For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
@@ -367,12 +374,12 @@ A person may opt in at any time provided—
 ### 34 Opting in by person 18 years or more
 (1) A person who is 18 years or more and who wishes to opt in may do either or both of the following:
   (a) contract directly with a provider of a KiwiSaver scheme to become a member of a KiwiSaver scheme:
-  (b) if the person is an employee, give his or her employer a KiwiSaver deduction notice.
-(2) A person who opts in by giving his or her employer a KiwiSaver deduction notice must give the employer—
+  (b) if the person is an employee, notify his or her employer of a change in their KiwiSaver status.
+(2) A person who opts in by notifying his or her employer of a change in their KiwiSaver status must give the employer—
   (a) his or her name and address; and
   (b) his or her tax file number.
 (3) The employer must give notice to the Commissioner of the information that the employee gives the employer under subsection (2), if the employer is satisfied that the employee is eligible to opt in under section 33.
-(4) That information must be given no later than the time that the employer is next required to deliver an employer monthly schedule to the Commissioner under sections RA 5, RA 20, RD 2(3), RD 4(1), and RD 22 of the Income Tax Act 2007 and sections 24J and 24P of the Tax Administration Act 1994.
+(4) That information must be given no later than the time that the employer is next required to deliver their employment income information for payday reporting to the Commissioner under sections RA 5, RA 20, RD 2(3), RD 4(1), and RD 22 of the Income Tax Act 2007 and sections 23E to 23I of the Tax Administration Act 1994.
 (5) For the purposes of sections 34 to 37, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
 
 ### 35 Opting in by persons under 18
@@ -456,7 +463,7 @@ Every information pack supplied by the Commissioner under this subpart must cont
 ### 42 Employer must supply information pack to certain employees
 (1) Every employer must supply an information pack to—
   (a) each employee who starts new employment with the employer and to whom the automatic enrolment rules apply, within 7 days of the employee starting the new employment; and
-  (b) each employee who opts in under section 34(1)﻿(b), within 7 days of the employee giving the employer the KiwiSaver deduction notice; and
+  (b) each employee who opts in under section 34(1)﻿(b), within 7 days of the employee notifying his or her employer of a change in their KiwiSaver status; and
   (c) each employee who requests an information pack in contemplation of opting in.
 (2) An employer is not liable for a penalty for a failure to supply an information pack under this section if the employer proves that—
   (a) the failure of the employer to supply the information pack was caused by the fact that the Commissioner had not given the employer enough information packs to enable the employer to meet its obligations under this Act; and
@@ -606,7 +613,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (c) give notice to the provider of the new scheme—
     (i) of the date on which the member first became a member of a KiwiSaver scheme, if the old scheme is a KiwiSaver scheme; and
     (ii) as to whether the member has made a withdrawal for the purpose of the purchase of a first home under clause 8 of the KiwiSaver scheme rules; and
-    (iii) of any contribution holidays in force; and
+    (iii) of any savings suspensions in force; and
     (iv) as to whether the Crown contribution under section 226 is included in the member’s accumulation transferred to the new scheme; and
     (v)
     (vi) of any information held by a provider of the old scheme that would be relevant to a provider of the new scheme making a claim under section 68C of the Tax Administration Act 1994, including information as to the periods for which claims have already been made.
@@ -737,7 +744,7 @@ This subpart applies when, because of a mistake,—
 ### 60 Application of subpart
 (1) This subpart applies to an employer in respect of any employee to whom 1 or more of the following applies:
   (a) the employee has started new employment with the employer and the automatic enrolment rules apply:
-  (b) the employee has given the employer a KiwiSaver deduction notice:
+  (b) the employee has notified his or her employer of their KiwiSaver status and of any changes in that status:
   (c) the Commissioner has given the employer a notice requiring the deduction of contributions from the employee’s salary or wages.
 (2) This subpart applies to all payments of salary or wages—
   (a) after the employee starts that new employment (in a case to which subsection (1)﻿(a) applies); or
@@ -749,7 +756,7 @@ The Commissioner may give a notice to an employer requiring the deduction of con
 ### 62 When subpart does not apply
 This subpart does not apply to an employer in respect of an employee, or to a payment of salary or wages,—
   (a) if section 20(2) has required the employer to stop making deductions after an opt-out; or
-  (b) if the employee has given or shown the employer a notice of a contributions holiday, or the Commissioner has notified the employer of a contributions holiday, that has been granted under subpart 4, for so long as the employer is satisfied that the employee is on that contributions holiday; or
+  (b) if the employee has given or shown the employer a notice of a savings suspension, or the Commissioner has notified the employer of a savings suspension, that has been granted under subpart 4, for so long as the employer is satisfied that the employee is on that savings suspension; or
   (bb) for the period that the employee has a valid non-deduction notice that they have given to their employer under section 112B; or
   (c) if, in accordance with the PAYE rules, no tax deduction is required to be made from the payment of salary or wages at the time the payment is made and the payment is not salary and wages for a private domestic worker.
 
@@ -769,7 +776,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
     (iii) the employee is on a 2% contribution rate immediately before the first pay period that starts on or after 1 April 2013 because they chose 2% under subsection (2); or
   (ab) 4% of the employee's gross salary or wages, if section 60(1)﻿(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or
   (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.
-(2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, or 8% of their gross salary or wages by giving notice to their employer of the rate they choose.
+(2) Despite subsection (1), the employee may choose a contribution rate of 3%, 4%, 6%, 8%, or 10% of their gross salary or wages by giving notice to their employer of the rate they choose.
 (3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives that notice.
 (3B) For a contribution rate under subsection (1)﻿(a), when a change occurs to a rate in this Act, or in regulations made under this Act, affecting the contribution that must be deducted from a payment of salary or wages, the calculation of the amount of the contribution must be made at the rate applying on the day on which the salary or wages are paid.
 (4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 3 months apart unless the employer agrees.
@@ -804,7 +811,7 @@ The employer must make deductions of contributions from each payment of the empl
   (d) every reference to an amount required to be deducted under the PAYE rules were a reference to an amount required to be deducted under this Act.
 (2) Every employer and employee must comply with the requirements of the PAYE rules to the extent to which those rules apply under this section.
 (3) However, the following do not apply to any amount required to be deducted under this subpart:
-  (a) sections BC 1, LA 6, RA 2, RD 9, RD 10, RD 10B, RD 13, RD 16, RD 17, and RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994; and
+  (a) sections BC 1, LA 6, RA 2, RD 9, RD 10, RD 10B, RD 13, RD 16, RD 17, and RD 18 of the Income Tax Act 2007 and subpart 3D and schedule 5 of the Tax Administration Act 1994; and
   (b) sections 139C, 140 to 140DB, 141FD, 141JA, 142E, 144, and 150B of the Tax Administration Act 1994.
 (4) Any deduction made under this subpart is not part of or included in any amount of tax withheld under the PAYE rules on account of income tax.
 (5) The deductions made under this subpart are in addition to any amounts of tax required to be withheld under the PAYE rules.
@@ -847,12 +854,12 @@ Any amount that is held by the Commissioner under section 70(2) is treated, for 
 ### 73 Deductions entered in and paid out of holding account
 (1) This section applies to any amount—
   (a) that the Commissioner is satisfied has been deducted from salary or wages under this Act; and
-  (b) that is shown on an employer monthly schedule delivered under section RD 4 of the Income Tax Act 2007 as a deduction made from an employee’s salary or wages under subpart 1.
-(2) As soon as practicable after receiving that monthly schedule, the Commissioner must enter that amount in the holding account in respect of the person from whose salary or wages the deduction was made.
+  (b) that is included in employment income information provided under section RD 22 of the Income Tax Act 2007 as a deduction made from an employee’s salary or wages under subpart 1.
+(2) As soon as practicable after receiving that employment income information, the Commissioner must enter that amount in the holding account in respect of the person from whose salary or wages the deduction was made.
 (3) Subject to sections 75 to 77, as soon as practicable after entering an amount in the holding account under this section, the Commissioner must pay the amount to the provider of the relevant KiwiSaver scheme, without further authority than this section.
 (4) Money entered in the holding account under this section is not trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989.
 (5) This section is subject to sections 70 and 71.
-(6) The Commissioner is entitled, for the purpose of subsection (1)﻿(a), to assume, in the absence of information to the contrary, that amounts entered on an employer monthly schedule have been deducted from salary or wages.
+(6) The Commissioner is entitled, for the purpose of subsection (1)﻿(a), to assume, in the absence of information to the contrary, that amounts included in employment income information have been deducted from salary or wages.
 
 ### 74 Other contributions entered in and paid out of holding account
 (1) This section applies to any amount of contribution that is received by the Commissioner other than an amount referred to in section 73.
@@ -967,10 +974,10 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 
 ### 93 Employer contributions paid via Commissioner
 (1) An employer must pay all amounts of employer contributions to the Commissioner.
-(2) The payment of an amount of employer contribution must be accompanied by a PAYE payment form.
+(2) The payment of an amount of employer contribution must be accompanied by the relevant employment income information.
 (3) If the employer is not a private domestic worker, the contribution must be paid to the Commissioner within the time prescribed in section RA 15 of the Income Tax Act 2007 for the payment of amounts of tax withheld relating to the payment of salary or wages to which the contribution relates, as if the contribution were an amount of tax.
-(4) If the employer is a private domestic worker, the contribution must be paid to the Commissioner within the time prescribed in sections RA 8, RA 10, and RD 4(2) of that Act for the payment of tax relating to the payment of salary or wages to which the contribution relates, as if the contribution were tax.
-(5) The employer must include details of employer contributions paid in respect of each employee on the employer monthly schedule for the payments of salary or wages to which the contribution relates.
+(4) If the employer is a private domestic worker, the contribution must be paid to the Commissioner within the time prescribed in sections RA 8, RA 10, and RD 4(4) of that Act for the payment of tax relating to the payment of salary or wages to which the contribution relates, as if the contribution were tax.
+(5) The employer must include details of employer contributions paid in respect of each employee in their employment income information for the payments of salary or wages to which the contribution relates.
 (6) For the purposes of the Tax Administration Act 1994, to the extent to which an employer fails to comply with subsection (5) in respect of an amount of employer contribution that the employer must pay to the Commissioner, that amount is treated as a short payment for the PAYE period for which the failure occurs.
 
 ### 94 Employer must give notice that employer contributions to be paid via Commissioner
@@ -989,16 +996,16 @@ A person other than an employer (including a member of a KiwiSaver scheme) may m
 (2) The payments required under subsection (1) must be made net of ESCT payable under the ESCT rules (if any).
 
 ### 97 Commissioner must give notice if employer contributions not remitted
-(1) This section applies if—
-  (a) an employer, for a PAYE period, shows a payment of employer contribution under this subpart on either or both of a remittance certificate or an employer monthly schedule; and
-  (b) the payment is not received in full by the Commissioner by the time the Commissioner receives either or both of the remittance certificate or the employer monthly schedule for that PAYE period.
-(2) The Commissioner must give notice to the employer that the payment has not been received.
+(1) This section applies for a PAYE period when—
+  (a) an employer is required to provide a return in relation to an amount of employer contribution under this subpart, and includes a reference to the payment in their employment income information under the Tax Administration Act 1994; and
+  (b) the Commissioner does not receive the payment in full by the due date for the payment.
+(2) The Commissioner must notify the employer that the payment has not been received.
 
 ### 98 Short payments by employers if not enough money remitted to Commissioner to cover all of employees’ deductions and employer contributions
 (1) This section applies if—
-  (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart on either or both of a remittance certificate or an employer monthly schedule; and
-  (b) the total amount received by the Commissioner for that PAYE period by way of total deductions and employer contribution in respect of all of the employer’s employees is less than the amounts shown on either or both of the remittance certificate or employer monthly schedule in respect of those matters.
-(2) The amount of employer contribution (gross of any ESCT payable under the ESCT rules) that is treated as received by the Commissioner for the purpose of this subpart is so much of the payment that is actually received by the Commissioner that exceeds the amounts shown on the remittance certificate and employer monthly schedule in respect of total deductions.
+  (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart in their employment income information; and
+  (b) the total amount received by the Commissioner for that PAYE period by way of total deductions and employer contribution in respect of all of the employer’s employees is less than the amounts shown in the employment income information in respect of those matters.
+(2) The amount of employer contribution (gross of any ESCT payable under the ESCT rules) that is treated as received by the Commissioner for the purpose of this subpart is so much of the payment that is actually received by the Commissioner that exceeds the amounts shown in their employment income information in respect of total deductions.
 (3) In this section, total deductions means the total of the following:
   (a) the total amount of combined tax and earner-related payments (within the meaning of the Income Tax Act 2007); and
   (b) the total child support deductions; and
@@ -1009,16 +1016,16 @@ A person other than an employer (including a member of a KiwiSaver scheme) may m
 ### 98A Quantifying short payments for the purposes of Income Tax Act 2007 and Tax Administration Act 1994
 For the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994, an employer is treated as having an amount of short payment for a PAYE period equal to the difference between—
   (a) the amount of employer contribution that is treated as received by the Commissioner under section 98(2) of this Act for the PAYE period; and
-  (b) the amount, for the PAYE period, of employer contribution shown on either or both of a PAYE payment form and an employer monthly schedule in accordance with this subpart.
+  (b) the amount, for the PAYE period, of employer contribution included in their employment income information in accordance with this subpart.
 
 ### 99 Short payments if not enough employer contribution remitted to cover all employees
 (1) This section applies if—
-  (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart on a remittance certificate or employer monthly schedule in respect of more than 1 of the employer’s employees; and
-  (b) the total amount received by the Commissioner for that PAYE period in respect of employer contribution under this subpart is less than the amounts shown on the remittance certificate and employer monthly schedule in respect of all of those employees.
+  (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart in their employment income information in respect of more than 1 of the employer’s employees; and
+  (b) the total amount received by the Commissioner for that PAYE period in respect of employer contribution under this subpart is less than the amounts shown in the employment income information in respect of all of those employees.
 (2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any one employee is given by the following formula:a × b ÷ cwhere—
-  (a) is the total employer contributions received by the Commissioner under this subpart for all of the employer’s employees for the month to which the employer monthly schedule relates
-  (b) is the employer contribution shown on the employer monthly schedule for the relevant employee for the month to which the employer monthly schedule relates
-  (c) is the total employer contributions shown on either or both of the remittance certificate or employer monthly schedule for all of the employer’s employees for the month to which the employer monthly schedule relates.
+  (a) is the total employer contributions received by the Commissioner under this subpart for all of the employer’s employees for the month:
+  (b) is the employer contribution included in their employment income information for the relevant employee for the month referred to in item a:
+  (c) is the total employer contributions included in their employment income information for all the employer’s employees for the month referred to in item a.
 (3) Subsection (2) does not prevent the provider of a KiwiSaver scheme from crediting amounts on the basis provided for in the trust deed or other document governing employer contributions, rather than in accordance with the calculation under subsection (2).
 (4) For the purposes of this section, employer contribution does not include compulsory employer contribution to the extent of the employer’s entitlement to a tax credit under section MK 1(2) of the Income Tax Act 2007 in relation to the contribution.
 
@@ -1139,87 +1146,87 @@ For a payment of gross salary or wages to an employee, an employer does not have
 ### 101K Recovered amounts
 [Repealed]
 
-### Subpart 4 — Contributions holiday
+### Subpart 4 — Savings suspension
 
-**Applications for contributions holiday**
+**Applications for savings suspension**
 
-### 102 Who may apply for contributions holiday
-A person to whom subpart 1 (deductions of contributions from salary or wages) applies may apply to the Commissioner for a contributions holiday—
+### 102 Who may apply for savings suspension
+A person to whom subpart 1 (deductions of contributions from salary or wages) applies may apply to the Commissioner for a savings suspension—
   (a) at any time after the Commissioner receives the first contribution in respect of that person, if the person is suffering, or likely to suffer, financial hardship; or
   (b) at any time after 12 months have expired since the earlier of—
     (i) the date that the Commissioner received the first contribution in respect of that person; or
     (ii) the date that a provider received the first contribution in respect of that person’s membership of a KiwiSaver scheme; or
     (iii) the date that the person is first a member of a complying superannuation fund.
 
-### 103 How to apply for contributions holiday
-(1) An application for a contributions holiday may be made by any means that the Commissioner accepts.
+### 103 How to apply for savings suspension
+(1) An application for a savings suspension may be made by any means that the Commissioner accepts.
 (2) The application must tell the Commissioner—
   (a) the person’s name and address; and
   (b) the person’s tax file number; and
-  (c) the name and address of each of the person’s employers to whom the person intends that the holiday will apply; and
-  (d) the period of time for which the holiday is required; and
+  (c) the name and address of each of the person’s employers to whom the person intends that the suspension will apply; and
+  (d) the period of time for which the suspension is required; and
   (e) in the case of an application made under section 102(a), details of the financial hardship; and
   (f) any other information that the Commissioner requires.
 
-### 104 Granting of contributions holiday
-(1) The Commissioner must accept an application for a contributions holiday, and grant a contributions holiday, if the Commissioner is satisfied that the person meets the requirements of section 102, and the application is made in accordance with section 103.
-(2) A contributions holiday granted in respect of an application made under section 102(a) must be granted for a period of 3 months, unless the Commissioner agrees to a longer period.
-(3) A contributions holiday granted in respect of an application made under section 102(b) must be granted for—
+### 104 Granting of savings suspension
+(1) The Commissioner must accept an application for a savings suspension, and grant a savings suspension, if the Commissioner is satisfied that the person meets the requirements of section 102, and the application is made in accordance with section 103.
+(2) A savings suspension granted in respect of an application made under section 102(a) must be granted for a period of 3 months, unless the Commissioner agrees to a longer period.
+(3) A savings suspension granted in respect of an application made under section 102(b) must be granted for—
   (a) a minimum period of 3 months; and
   (b) a maximum period of whichever is the shorter of—
-    (i) 5 years; or
+    (i) 1 year; or
     (ii) the period specified in the application.
 
-### 105 Commissioner must give notice of grant of contributions holiday
-(1) The Commissioner must, as soon as practicable after granting a contributions holiday, give notice—
-  (a) to the person who applied for the holiday—
-    (i) that the holiday has been granted; and
-    (ii) of the date on which the holiday will end; and
+### 105 Commissioner must give notice of grant of savings suspension
+(1) The Commissioner must, as soon as practicable after granting a savings suspension, give notice—
+  (a) to the person who applied for the suspension—
+    (i) that the suspension has been granted; and
+    (ii) of the date on which the suspension will end; and
   (b) to each relevant employer—
-    (i) that a contributions holiday has been granted in respect of the person; and
+    (i) that a savings suspension has been granted in respect of the person; and
     (ii) that the employer must stop making deductions of contributions from the salary or wages of the person; and
   (c) to the provider of the person’s KiwiSaver scheme—
-    (i) that a contributions holiday has been granted in respect of the person; and
+    (i) that a savings suspension has been granted in respect of the person; and
     (ii) of the names of the relevant employers; and
-    (iii) that deductions of contributions may not be made from the salary or wages paid to the person by the relevant employers during the period of the holiday.
-(2) In this section, relevant employer means each employer to whom the person stated, in the application for the contributions holiday, that the contributions holiday was intended to apply.
+    (iii) that deductions of contributions may not be made from the salary or wages paid to the person by the relevant employers during the period of the suspension.
+(2) In this section, relevant employer means each employer to whom the person stated, in the application for the savings suspension, that the savings suspension was intended to apply.
 
-### 106 When deductions stop at start of contributions holiday
+### 106 When deductions stop at start of savings suspension
 If an employer is notified under section 105, subpart 1 ceases to apply—
-  (a) to the employer in respect of the person who applied for the contributions holiday; and
+  (a) to the employer in respect of the person who applied for the savings suspension; and
   (b) with effect on the next payment of salary or wages that the employer calculates after the date on which the employer receives the notice.
 
-### 107 Employers to whom contributions holiday applies
-A contributions holiday granted under this subpart, while it is in force,—
-  (a) has effect, subject to section 108, in respect of each employer to whom the person stated, in the application for the contributions holiday, that the contributions holiday was intended to apply; and
+### 107 Employers to whom savings suspension applies
+A savings suspension granted under this subpart, while it is in force,—
+  (a) has effect, subject to section 108, in respect of each employer to whom the person stated, in the application for the savings suspension, that the savings suspension was intended to apply; and
   (b) may be used, if the person chooses, in respect of any other employer.
 
-### 108 Contributions holidays have 3-month minimum life
+### 108 Savings suspensions have 3-month minimum life
 (1) The purpose of this section is to prevent employees requesting employers to stop and start deductions of contributions too often.
-(2) No contributions holiday may be used in respect of an employer for less than 3 months unless the employer agrees.
+(2) No savings suspension may be used in respect of an employer for less than 3 months unless the employer agrees.
 
-**End of contributions holiday**
+**End of savings suspension**
 
-### 109 Commissioner must give notice before contributions holiday ends
-The Commissioner must give notice to a person who is on a contributions holiday before the holiday ends.
+### 109 Commissioner must give notice before savings suspensions ends
+The Commissioner must give notice to a person who is on a savings suspension before the suspension ends.
 
-### 110 Commissioner must give notice to employer of end of contributions holiday
-The Commissioner must give notice to each affected employer known to the Commissioner, as soon as practicable after the end of a contributions holiday,—
-  (a) of the date on which the contributions holiday ended; and
+### 110 Commissioner must give notice to employer of end of savings suspension
+The Commissioner must give notice to each affected employer known to the Commissioner, as soon as practicable after the end of a savings suspension,—
+  (a) of the date on which the savings suspension ended; and
   (b) that the employer must start making deductions of contributions from the salary or wages of the person.
 
-### 111 When deductions start at end of contributions holiday
-(1) If an employer is notified under section 110 about the end of a person’s contributions holiday, or under section 112 about the revocation of a person’s contributions holiday, subpart 1 applies—
+### 111 When deductions start at end of savings suspension
+(1) If an employer is notified under section 110 about the end of a person’s savings suspension, or under section 112 about the revocation of a person’s savings suspension, subpart 1 applies—
   (a) to the employer in respect of that person; and
   (b) with effect on the next payment of salary or wages that the employer calculates after the date on which the employer receives the notice.
-(2) This section is subject to any new contributions holiday that is granted under this subpart.
+(2) This section is subject to any new savings suspension that is granted under this subpart.
 
-**Revocation and reinstatement of contributions holiday**
+**Revocation and reinstatement of savings suspension**
 
-### 112 Revocation and reinstatement of contributions holiday
-(1) Subject to section 108, a person may at any time revoke his or her contributions holiday in respect of an employer by giving notice to the employer requiring the employer to start making deductions from salary or wages under subpart 1.
-(2) A person may at any time reinstate his or her contributions holiday in respect of an employer by giving notice to the employer requiring the employer to stop making deductions from salary or wages under subpart 1.
-(3) Sections 106 and 108 apply, with necessary modifications, as if the reinstatement of a contributions holiday were the granting of a contributions holiday.
+### 112 Revocation and reinstatement of savings suspension
+(1) Subject to section 108, a person may at any time revoke his or her savings suspension in respect of an employer by giving notice to the employer requiring the employer to start making deductions from salary or wages under subpart 1.
+(2) A person may at any time reinstate his or her savings suspension in respect of an employer by giving notice to the employer requiring the employer to stop making deductions from salary or wages under subpart 1.
+(3) Sections 106 and 108 apply, with necessary modifications, as if the reinstatement of a savings suspension were the granting of a savings suspension.
 
 ### 112B Non-deduction notices
 (1) A person who has passed the KiwiSaver end payment date described in Schedule 1, clause 4(2) may give to their employer a notice (a non-deduction notice) stating that the employer must stop making deductions of contributions from the person's salary or wages under subpart 1.
@@ -1243,9 +1250,9 @@ The Commissioner must give notice to each affected employer known to the Commiss
   (b) may direct that, despite subsection (5), the amount to be refunded under this section is limited to a specified amount that, in the Commissioner’s opinion, is required to alleviate the particular hardship.
 (7) The Commissioner must give notice of the refund to the provider of the relevant KiwiSaver scheme (if any).
 
-### 114 Refunds if employee loses, etc, contributions holiday notice
+### 114 Refunds if employee loses, etc, savings suspension notice
 (1) This section applies if—
-  (a) an employee has a contributions holiday that has not yet ended; and
+  (a) an employee has a savings suspension that has not yet ended; and
   (b) the employee starts new employment, but cannot comply with section 22(1)﻿(c)﻿(ii).
 (2) The employer may, at any time after the employee complies with section 22(1)﻿(c)﻿(ii), refund to the employee any contributions that were deducted from the employee’s salary or wages before the employee complied.
 (3) The Commissioner may refund that money to the employee if the money is held by the Commissioner.
@@ -2221,6 +2228,12 @@ Non-compliance with either financial markets legislation, as defined in section 
     (ii) the issuer takes reasonable steps to ensure that copies of the investment statement that are distributed on or after 22 July 2015 by or on behalf of the issuer include or are accompanied by written notice of the effect of the enactment of the KiwiSaver Budget Measures Act 2015; or
   (c) relates to a product disclosure statement under the Financial Markets Conduct Act 2013 and the period of the non-compliance ends before 22 July 2015.
 
+### 241 Protection from non-compliance: Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019
+Non-compliance with an enactment related to securities is ignored if the non-compliance—
+  (a) results from the enactment of sections 242, 289, 309 to 318, 320, and 321 of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019; and
+  (b) relates to a product disclosure statement, or to information lodged on the relevant disclosure register, under the Financial Markets Conduct Act 2013; and
+  (c) the period of the non-compliance ends before 1 September 2019.
+
 ## Schedule 1 — KiwiSaver scheme rules
 
 ### 1 Application
@@ -2261,7 +2274,7 @@ The KiwiSaver scheme rules apply to all KiwiSaver schemes.
 
 ### 3 Minimum contribution for employee member
 (1) For each pay period, an employee member must contribute to the KiwiSaver scheme at least the minimum contribution rate of that employee’s salary or wages in accordance with sections 64 to 68.
-(2) Subclause (1) does not apply if the employee is taking a contributions holiday or for the period that the employee has a valid non-deduction notice under section 112B that they have given to their employer.
+(2) Subclause (1) does not apply if the employee is taking a savings suspension or for the period that the employee has a valid non-deduction notice under section 112B that they have given to their employer.
 (3) For the purposes of this clause, a member does not contribute to the KiwiSaver scheme, if the contributions are made for a purpose other than—
   (a) to enable the payment of future benefits to the member under the KiwiSaver scheme; or
   (b) to enable the payment of fees in respect of the KiwiSaver scheme.
@@ -2442,8 +2455,8 @@ If a member dies, the manager must,—
   (a) provide to the Commissioner of Inland Revenue, in a form satisfactory to the Commissioner, the details of any withdrawal made by a member under subclause (1); and
   (b) if payment to a person other than the member is possible, pay to the Commissioner the amount of the withdrawal.
 
-### 15 Contributions holiday
-An employee member may, at any time, take a contributions holiday in accordance with subpart 4 of Part 3.
+### 15 Savings suspension
+An employee member may, at any time, take a savings suspension in accordance with subpart 4 of Part 3.
 
 ### 16 Transfer of members
 (1) A member may, at any time during that person’s membership of a KiwiSaver scheme, on application to the manager, apply to have the manager transfer the member’s accumulation to another KiwiSaver scheme.
