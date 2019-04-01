@@ -1,5 +1,5 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-04-01_
 
 > An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
@@ -93,7 +93,7 @@ _Consolidation as at 2018-11-26_
   - **sitting day** means a sitting day of the House of Representatives
   - **social housing** means HNZ housing or community housing
   - **social housing provider** means HNZ or a registered community housing provider
-  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in section 24B of the Tax Administration Act 1994
+  - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994
   - **State housing assets** means State housing land within the meaning of section 2(1) of the Housing Act 1955; and includes—
     (a) all buildings, vehicles, plant, equipment, machinery, and chattels belonging to the Crown and relating to State housing land (as so defined) and any rights therein:
     (b) all rights of the Crown of any kind relating to State housing land (as so defined) including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights; and
