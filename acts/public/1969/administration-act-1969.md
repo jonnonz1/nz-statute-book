@@ -1,5 +1,5 @@
 # Administration Act 1969
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-04-01_
 
 > An Act to consolidate and amend certain enactments relating to the administration of the estates of deceased persons
 
@@ -468,7 +468,7 @@ In every case where a caveat has been lodged and has neither lapsed nor been wit
 (1) In this section,—
   - **bank** means a person carrying on in New Zealand the business of banking; and includes the Reserve Bank of New Zealand and Post Office Bank Limited
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
-  - **society** means any building society within the meaning of the Building Societies Act 1965, any industrial and provident society registered or deemed to be registered under the Industrial and Provident Societies Act 1908, or any friendly society or branch thereof or credit union registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982
+  - **society** means any building society within the meaning of the Building Societies Act 1965, any industrial and provident society registered or deemed to be registered under the Industrial and Provident Societies Act 1908, or any friendly society or branch thereof or credit union registered, deemed to be registered, or incorporated under the Friendly Societies and Credit Unions Act 1982
   - **trustees of a superannuation fund** means the trustees or administering body of any pension plan or superannuation fund; and includes the Government Superannuation Fund Authority and the Board of Trustees of the National Provident Fund.
 (2) In the event of the death of any person to whom any sum of money not exceeding the prescribed amount is payable by the trustees of a superannuation fund, a society, a bank, an employer of the deceased person at or within 6 months before the date of his or her death, a local authority, a trustee corporation, Housing New Zealand Corporation, the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018, or the Crown respectively, whether the death occurred before or after the commencement of this section, it shall be lawful for the trustees of the superannuation fund, society, bank, employer, local authority, trustee corporation, Housing New Zealand Corporation, the Accident Compensation Corporation, the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018, or the Crown, as the case may be, without requiring administration of the estate of that deceased person to be obtained in New Zealand, and on receiving such evidence as it considers satisfactory that the person has died and that administration of his or her estate has not been obtained in New Zealand, to pay the sum or any part thereof to any of the following persons:provided that no payment shall be made to any person unless he or she applies for or consents to receive that payment.
   (a) the widow, widower, surviving civil union partner, or children of the deceased person:
