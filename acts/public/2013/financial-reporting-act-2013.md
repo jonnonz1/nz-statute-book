@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -60,7 +60,7 @@ The purpose of this Act is to—
     (c) a trust, a partnership, or an association of persons, whether incorporated or not:
     (d) a scheme or fund:
     (e) a retirement village (within the meaning of the Retirement Villages Act 2003):
-    (f) a society, a branch of a society, or a credit union registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982:
+    (f) a society or a branch of a society registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982:
     (g) the Crown, a department, or an office of Parliament (within the meaning of those terms in section 2(1) of the Public Finance Act 1989) or an organisation named or described in Schedule 4 of that Act:
     (h) a Crown entity (within the meaning of section 7 of the Crown Entities Act 2004):
     (i) a local authority (within the meaning of section 5(1) of the Local Government Act 2002)
