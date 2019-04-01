@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -523,13 +523,13 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 ### 34 Repayment codes for New Zealand-based borrowers who derive salary or wages
 (1) For the purpose of the application of the PAYE rules under section 70, the repayment code of all New Zealand-based borrowers who derive salary or wages is either—
   (a) SL; or
-  (b) STC.
+  (b) TTC.
 (2) The repayment code STC applies to a borrower if—
-  (a) the employer is issued with a special tax code certificate under section 24F of the Tax Administration Act 1994; or
+  (a) the employer is issued with a tailored tax code certificate under section 24D(a) and schedule 5, part B, clause 1 of the Tax Administration Act 1994; or
   (b) the Commissioner requires or permits its use in any other case.
 (3) If another Act requires an employer to withhold an amount of tax for a PAYE income payment to a borrower and pay the amount to the Commissioner,—
   (a) the repayment code SL may be combined with another code under that Act; and
-  (b) the repayment code STC may be combined into another code under that Act.
+  (b) the repayment code TTC may be combined into another code under that Act.
 
 ### 35 Borrowers with SL repayment code must notify employers
 (1) A borrower whose repayment code is SL must notify his or her employer in a manner acceptable to the Commissioner.
@@ -537,7 +537,7 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
   (a) after the later of—
     (i) the time at which the borrower becomes an employee of the employer; and
     (ii) the time at which the borrower becomes a borrower; and
-  (b) if an STC repayment code ceases to apply to the borrower.
+  (b) if an TTC repayment code ceases to apply to the borrower.
   (c)
 
 **Salary or wage deductions**
@@ -546,7 +546,7 @@ This subpart applies to New Zealand-based borrowers who derive salary or wages.
 (1) This section applies if—
   (a) a borrower has notified his or her employer under section 35; or
   (b) the Commissioner has notified a borrower's employer or PAYE intermediary that the repayment code that should be applied to the borrower's salary or wages is SL; or
-  (c) a borrower's employer has been notified in writing that an STC repayment code applies to the borrower.
+  (c) a borrower's employer has been notified in writing that an TTC repayment code applies to the borrower.
 (2) Each time the employer or PAYE intermediary pays an amount to the borrower that is salary or wages for a pay period, the employer or PAYE intermediary must make a deduction from that amount in accordance with section 37(1) or (2).
 
 ### 37 Deduction rates that apply to standard deductions from salary or wages
@@ -752,7 +752,7 @@ Upon receiving a declaration that complies with section 55 from a borrower, the 
 
 ### 57 Consequences of exemption from standard deductions
 (1) If a borrower's employer is notified in writing that an exemption from standard deductions has been granted to the borrower, then—
-  (a) the repayment codes SL or STC, as applicable, cease to apply to the borrower; and
+  (a) the repayment codes SL or TTC, as applicable, cease to apply to the borrower; and
   (b) nothing in sections 34 to 37 or 40 applies in relation to the borrower.
 (2) Subsection (1)﻿(a) and (b) apply from the later of—
   (a) the start date of the exemption period specified in the notice issued in accordance with section 56(b); and
@@ -780,7 +780,7 @@ A borrower may withdraw a declaration under section 55 by—
   (c) the date of a change of circumstances as notified to the Commissioner by the borrower under section 59(1) and (3):
   (d) the date of a change of circumstances as notified to the borrower by the Commissioner under section 59(2) and (3).
 (2) From the date on which section 57 ceases to apply in relation to a borrower,—
-  (a) the repayment code SL or STC, as applicable, applies to the borrower; and
+  (a) the repayment code SL or TTC, as applicable, applies to the borrower; and
   (b) sections 34 to 37 and 40 apply in relation to the borrower.
 
 **Information and determinations**
@@ -1925,7 +1925,7 @@ The Commissioner must, as soon as practicable,—
   (b) alter any information (other than the details of a loan advance made or charged to the borrower) provided or made available to a borrower under section 19 in accordance with a decision of the Commissioner under subpart 5 of Part 4.
 
 ### 202 Provisions of Tax Administration Act 1994 and Income Tax Act 2007 to apply to this Act
-Sections 15B, 21, 24B, 24F, 24H, 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106 to 108, 108B to 111, 113, and 114 of the Tax Administration Act 1994 and sections LC 10, RM 2, and RM 4, and paragraph (b) of the definition of basic tax rate in section YA 1 of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if—
+Sections 15B, 21, 24B, section 24D(a), 33, 34, 35, 36 to 39, 42 to 44, 79, 80, 92, 92A, 106 to 108, 108B to 111, 113, 114, and schedule 5, part A, clause 4 and part B, clause 1 of the Tax Administration Act 1994 and sections LC 10, RM 2, and RM 4, and paragraph (b) of the definition of basic tax rate in section YA 1 of the Income Tax Act 2007 apply, as far as applicable and with all necessary modifications, for the purposes of this Act as if—
   (a) every reference to a taxpayer or a person were a reference to a borrower; and
   (b) every reference to the assessment and levy of income tax or tax were a reference to the assessment and levy of a repayment obligation; and
   (c) every reference to income tax were a reference to a repayment obligation; and
