@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2019,6 +2019,17 @@ Income
   (g) any other benefit in money.
 Benefit of accommodation
 (1B)
+Unrepaid overpayments
+(1C) A person who receives an amount that is an unrepaid PAYE income overpayment is treated as deriving the amount in connection with their employment or service—
+  (a) for the income year in which they receive the amount, if paragraph (b) does not apply; or
+  (b) on the payday for which the employment income information of the employer who paid the amount to the person includes an upwards adjustment for the amount under regulations made under section 23N of the Tax Administration Act 1994.
+Repaid overpayments
+(1D) An amount received by a person that is a PAYE-related overpayment is not income of the person to the extent to which—
+  (a) the amount has been repaid to the employer who paid the amount to the person:
+  (b) the amount is repayable to that employer by the person under an agreement between them and none of the following apply:
+    (i) the person breaches the agreement and does not remedy the breach within 2 months:
+    (ii) that employer considers that the person will not comply with the agreement in the future:
+  (c) the amount is recoverable under section 248 of the Accident Compensation Act 2001.
 Meaning of accommodation
 (2) For the purposes of this section, and sections CE 1B to CE 1E, CW 16B to CW 16F, CW 17CB, CZ 23, CZ 29, and CZ 30 (which relate to accommodation provided in connection with employment), accommodation—
   (a) includes—
@@ -2035,6 +2046,8 @@ Meaning of employer
     (i) provides accommodation for the employee at a distant workplace; or
     (ii) pays an amount for the employee's accommodation at a distant workplace:
   (b) in sections CW 16B to CW 16F, CZ 29, and CZ 30, includes a company that is part of the same group of companies as the employer.
+Persons on shadow payrolls
+(3B) A PAYE income payment that is paid by a non-resident employer to a person who undertakes employment services in New Zealand but who remains on the employer’s payroll system in a country or territory outside New Zealand is treated as derived by the person on the 20th day after payment when the employer chooses to deliver their employment income information under section 23J(3) of the Tax Administration Act 1994.
 Amendment of exclusions by Order in Council
 (4) For the purposes of subsection (2), the Governor-General may by Order in Council make regulations to add to the types of accommodation that are excluded by paragraph (b) of the definition of accommodation from the rules relating to accommodation provided in connection with employment.
 Application of Order in Council
@@ -2145,11 +2158,11 @@ Definition of items in formula
     (i) the first date used to measure the person’s right in relation to the vesting of shares or relevant rights:
     (ii) the first date that the person has a right in relation to the vesting of shares or relevant rights.
 When subsection (8) applies
-(7) Subsection (8) applies when an employer to whom section RD 22(2B) (Returns for amounts of tax paid to Commissioner) and section 46(1) of the Tax Administration Act 1994 apply—
-  (a) has made an election under section RD 7B (Treatment of certain benefits under employee share schemes) to withhold and pay an amount of tax in relation to a benefit received by an employee share scheme beneficiary under this section; or
-  (b) is required to furnish an employer monthly schedule under section 46(6B) of the Tax Administration Act 1994 in relation to a benefit received by an employee share scheme beneficiary under this section.
+(7) Subsection (8) applies when an employer is required to provide employment income information under sections RD 22(3) (Providing employment income information to Commissioner) and 23E to 23H of the Tax Administration Act 1994, as modified by section 23K of that Act, in relation to a benefit received under an employee share scheme.
 Deferral of income recognition
-(8) Despite section CE 1(1)﻿(d), the employee share scheme beneficiary is treated as deriving employment income in relation to the benefit in the PAYE income payment form period after the 1 in which they receive the benefit.
+(8) Despite section CE 1(1)﻿(d), the employee share scheme beneficiary is treated as deriving employment income in relation to the benefit on the ESS deferral date.
+Meaning of ESS deferral date
+(9) For the purposes of this section and sections RD 6 and RD 7B (which relate to employee share schemes), the ESS deferral date is the 20th day after the share scheme taxing date for the employee share scheme beneficiary.
 
 ### CE 3 Restrictions on disposal of shares under share purchase agreements
 [Repealed]
@@ -4423,7 +4436,7 @@ Exclusion: council-controlled organisation income
   (a) a council-controlled organisation, other than a council-controlled organisation operating a hospital as a charitable activity:
   (b) a local authority from a council-controlled organisation, other than from a council-controlled organisation operating a hospital as a charitable activity on behalf of the local authority.
 Definition
-(5) In this section and sections CW 42 and CW 43, tax charity means,—
+(5) Tax charity means,—
   (a) a trustee, a society, or an institution, registered as a charitable entity under the Charities Act 2005:
   (b) a trustee, a society, or an institution (the entity), that—
     (i) has started, before 1 July 2008, to take reasonable steps in the process of preparing an application for registering the entity as a charitable entity under the Charities Act 2005; and
@@ -4890,6 +4903,7 @@ Exclusions
 (2) Subsection (1) does not apply to a loan made—
   (a) as an employee share loan:
   (b) under a share purchase scheme:
+  (bb) as an amount that is a PAYE-related overpayment:
   (c)
   (d) as an advance of salary and wages, if,—
     (i) in the period for which the employer is required to forward a return to the Commissioner under sections RD 25 to RD 63 (which relate to fringe benefit tax), the total outstanding of such advances to the employee is no more than $2,000; and
@@ -5078,7 +5092,10 @@ Meaning of short-term charge facilities
 A benefit received by an employee is not a fringe benefit to the extent to which it is received in a quarter or in an income year in which they derive 1 or more pay-as-you-earn (PAYE) income payments, all of which are not liable for income tax.
 
 ### CX 27 Assistance with tax returns
-An employer’s assistance with the preparation of an employee’s income statement or return of income is not a fringe benefit when the expenditure incurred in providing the assistance is expenditure for which the employee would have been allowed a deduction, if it had been incurred by the employee, under section DB 3 (Determining tax liabilities).
+Not fringe benefit
+(1) An employer’s assistance with the preparation of an employee’s return of income is not a fringe benefit when the expenditure incurred in providing the assistance is expenditure for which the employee would have been allowed a deduction, if it had been incurred by the employee, under section DB 3 (Determining tax liabilities).
+Employees’ returns of income
+(2) For the purposes of this section, an employee’s return of income includes the income information held by the Commissioner and set out in the employee’s pre-populated account referred to in section 22D(5) of the Tax Administration Act 1994.
 
 ### CX 28 Accommodation
 The value of accommodation that an employer provides to an employee in connection with the employment or services is not a fringe benefit.
@@ -5398,9 +5415,11 @@ An amount that a person derives in an income year as a taxable distribution from
 
 ### CX 60 Intra-group transactions
 When this section applies
-(1) This section applies for the purposes of section FM 8 (Transactions between group companies: income) when a company that is part of a consolidated group derives an amount from a transaction or arrangement with another company that is part of the same group and the amount would not be income if the group were 1 company.
+(1) This section applies when a company that is part of a consolidated group derives an amount referred to in section FM 8(3) (Transactions between group companies: income) from a transaction or arrangement with another company that is part of the same group and the amount would not be income if the group were 1 company.
 Excluded income
-(2) The amount is excluded income of the company.
+(1B) An amount that is referred to in section FM 8(2) and not in section FM 8(3) is excluded income.
+Excluded income
+(2) To the extent to which the amount is not an amount referred to in section FM 8(3)﻿(d), the amount is excluded income of the company.
 
 ### CX 61 Avoidance arrangements
 An amount is excluded income if it is treated as excluded income under—
@@ -11661,7 +11680,8 @@ Other person treated as owner
 Description
 (1) Depreciable property is property that, in normal circumstances, might reasonably be expected to decline in value while it is used or available for use—Subsections (2) to (4) expand on this subsection.
   (a) in deriving assessable income; or
-  (b) in carrying on a business for the purpose of deriving assessable income.
+  (b) in carrying on a business for the purpose of deriving assessable income; or
+  (c) in deriving exempt income, and it is used in performing research and development activities.
 Property: tangible
 (2) An item of tangible property is depreciable property if—
   (a) it is described by subsection (1); and
@@ -22072,7 +22092,7 @@ Meaning
 (1) In this subpart, for a New Zealand group, total group debt means the sum of the outstanding balances of—
   (a) financial arrangements entered into by a natural person, or an excess debt entity, or another member of the New Zealand group, if the financial arrangement—
     (i) provides funds to the natural person, the entity, or another member of the group; and
-    (ii) gives rise to an amount for which the natural person, the entity, or another member of the group, would have a deduction; and:
+    (ii) gives rise to an amount for which the natural person, the entity, or another member of the group, would have a deduction; and
     (iii) the deduction is not denied under section FH 3 (Payments under financial instruments producing deduction without income) as an unrecognised amount under section FH 3(2) or under section FH 7 or FH 11 (which provide for the matching of deductions and income from multi-jurisdictional arrangements):
   (b) fixed-rate foreign equity or fixed-rate shares that are—
     (i) issued by the entity or another member of the New Zealand group; and
@@ -23306,7 +23326,8 @@ Exclusion of certain amounts
   (b) an amount arising under section EW 31 (Base price adjustment formula) from—
     (i) the disposal of a financial arrangement to which the financial arrangements rules apply; or
     (ii) the remission of a financial arrangement to which the financial arrangements rules apply, if the parties were not consolidated group companies for the whole term of the arrangement; or
-  (c) a dividend under section CD 4(1) (Transfers of value generally) between group companies arising from the release of an obligation to repay money lent before the companies are treated under section FM 35 as part of the consolidated group.
+  (c) a dividend under section CD 4(1) (Transfers of value generally) between group companies arising from the release of an obligation to repay money lent before the companies are treated under section FM 35 as part of the consolidated group; or
+  (d) the amount of a dividend derived by a local authority from an entity referred to in section CW 10(3) (Dividend within New Zealand wholly-owned group).
 
 ### FM 9 Amounts that are company’s income
 When this section applies
@@ -25121,6 +25142,20 @@ Activities attributed to permanent establishment
 (2) The non-resident is treated as having a permanent establishment in New Zealand—
   (a) through which the non-resident makes the facilitated supply in the course of a business carried on in New Zealand; and
   (b) to which activities of the facilitator referred to in subsection (1)﻿(b) are attributed.
+
+### GB 55 Arrangements involving tax credits for charitable or other public benefit gifts
+When this section applies
+(1) This section applies when—
+  (a) a person enters into an arrangement; and
+  (b) the arrangement has a purpose or effect of defeating the intent and application of section LD 1 (Tax credits for charitable or other public benefit gifts).
+Credit reduced
+(2) A tax credit under section LD 1 is reduced to the amount that the Commissioner considers would have arisen had the arrangement not occurred.
+
+### GB 56 Arrangements involving research and development tax credits
+When this section applies
+(1) This section applies when an arrangement has a purpose or effect, not being a merely incidental purpose or effect, of defeating the intent and application of subpart LY (Research and development tax credits).
+Credit reduced
+(2) A person’s entitlement to a research and development tax credit is reduced to the amount that the Commissioner thinks appropriate, whether or not the person is a party to the arrangement.
 
 ### Subpart GC — Market value substituted
 
@@ -27753,7 +27788,7 @@ Same investments
 (3) The investments must be the same for all investors in the group.
 Similar proportionate entitlement
 (4) Each investor’s interest in the investment as a proportion of the value of their entitlement must not differ from the average value for the group and the investment by 2.5% or more unless—
-  (a) the investment is an arrangement under which the PIE is assured of receiving sufficient proceeds from the investments to repay each investor in the group an amount contributed to it; and:
+  (a) the investment is an arrangement under which the PIE is assured of receiving sufficient proceeds from the investments to repay each investor in the group an amount contributed to it; and
   (b) the excess in any difference between the proportion for the investor and the average value for the group arises from differences between the notified investor rates of those investors in the group.
 Supplementary dividends
 (5) For the purposes of this section, the payment of a supplementary dividend that is attributed to a notified foreign investor, or would be attributed to them in the absence of section HM 44B(2), is disregarded.
@@ -29085,29 +29120,29 @@ Information
 ### HR 12 Non-exempt charities: treatment of tax-exempt accumulations
 Who this section applies to
 (1) This section applies to—
-  (a) a person (person A) who—
+  (a) a person who—
     (i) is registered on the register of charitable entities under the Charities Act 2005 for a period; and
     (ii) derives exempt income under section CW 41 or CW 42 (which relate to charities) in the same period; and
     (iii) is deregistered as a charitable entity on the end date:
-  (b) a person (person B) who derives exempt income under section CW 42 for a period that comes to an end on the end date.
+  (b)
 When this section does not apply
 (2) This section does not apply if—
-  (a) for person A, they are re-registered on the register of charitable entities within 1 year of the end date:
-  (b) for person B, they meet the requirements of section CW 42(1) within 1 year of the end date.
+  (a) the person is re-registered on the register of charitable entities within 1 year of the end date:
+  (b) the person’s end date arises because they are a company and shares in them are disposed of, and the disposal is for market value consideration:
+  (c) the person would, but for this paragraph, have $10,000 or less income under this section on their end date.
 Treatment of income
-(3) Person A or person B, as applicable, has an amount of income derived on the day that is 1 year after the end date that is equal to the value of assets that the person held on the end date less the liabilities of the person on that date, but ignoring—
+(3) The person has an amount of income derived on the day that is 1 year after the end date that is equal to the current market value, on the end date, of assets that the person has on the end date less the current market value, on the end date, of liabilities that the person has on the end date, but ignoring:
   (a) assets that are disposed of or transferred within 1 year of the end date, together with any rights and obligations, to another person—
     (i) for charitable purposes:
-    (ii) in accordance with the person’s rules described in subsection (4):
+    (ii) in accordance with the person’s rules set out in the register of charitable entities immediately before the person’s removal from the register:
   (b) assets received from the Crown—
     (i) to settle a Treaty of Waitangi claim:
     (ii) in accordance with the Maori Fisheries Act 2004:
-  (c) assets other than money gifted or left to the person when they met the requirements to derive exempt income under section CW 41 or CW 42:
-  (d) assets that are land set apart in a Maori reservation for the purposes of a marae or meeting place under Part 17 of the Te Ture Whenua Maori Act 1993.
+  (c) assets that are not money and are gifted or bequeathed to the person when they met the requirements to derive exempt income under section CW 41 or CW 42:
+  (d) assets that are land set apart in a Maori reservation for the purposes of a marae or meeting place under Part 17 of the Te Ture Whenua Maori Act 1993:
+  (e) assets that are shares in companies, if this section applies to the companies and their end dates are the same as the person’s end date.
 Person’s rules
-(4) In subsection (3)﻿(a)﻿(ii), the person’s rules are, as appropriate—
-  (a) for person A, the person’s rules set out in the register of charitable entities immediately before the person’s removal from the register:
-  (b) for person B, the governing instrument that applies immediately before the end date.
+(4)
 Negative amounts
 (5) For the purposes of the calculation in subsection (3), if the amount is negative, it is treated as zero.
 References to assets and liabilities
@@ -29116,10 +29151,14 @@ References to assets and liabilities
   (b) include—
     (i) all assets of any kind; and
     (ii) all liabilities, including debts, charges, duties, contracts, or other obligations, whether present, future, actual, contingent, payable, or to be observed or performed in New Zealand or elsewhere.
-Meaning of end date
-(7) In this section, end date means—
-  (a) for person A, the day of final decision:
-  (b) for person B, the day on which the requirements of section CW 42(1) are no longer met.
+Definitions
+(7) In this section,—
+  - **end date** means, for a person, the day of final decision
+  - **current market value** means—
+    (a) for an asset or liability for which section HR 11 gives a value for the purposes of this Act, that value:
+    (b) for an asset or liability for which section HR 11 does not give a value for the purposes of this Act,—
+      (i) the market value of the asset or liability; but
+      (ii) if the person uses the Public Benefit Entity International Not-for-Profit Accounting Standard 17 (the standard), the fair value of the asset or liability under the standard.
 
 ### HR 13 Lloyd’s of London: life insurance
 What this section applies to
@@ -29399,13 +29438,13 @@ When tax loss cannot be used
 
 ### IA 4 Using loss balances carried forward to tax year
 Priority uses
-(1) A person’s loss balance carried forward under section IA 3(4) to a tax year, and a person’s unused specified activity net loss, must—
+(1) A person’s loss balance carried forward under section IA 3(4) to a tax year, must—
   (a) first, be subtracted from their net income, so far as it extends, for the tax year; and
-  (b) secondly, to the extent of a remaining loss balance carried forward under section IA 2(2), or the amount of unused specified activity net loss referred to in section IA 2(4)﻿(g), be included in their tax loss for the tax year.
+  (b) secondly, to the extent of a remaining loss balance carried forward under section IA 2(2), be included in their tax loss for the tax year.
 Unused specified activity net losses subtracted before loss balance
-(1B) In subsection (1)﻿(a), the unused specified activity net loss is subtracted from net income before the loss balance.
+(1B)
 Order for unused specified activity net losses
-(1C) In subsection (1)﻿(a), the unused specified activity net loss is subtracted in the order in which it arose. The order in which it arose is to be determined by applying section IA 9(4) to the unused specified activity net loss as if it were a tax loss component referred to in that section.
+(1C)
 Relationship with other provisions in this subpart
 (2) Sections IA 5 and IA 8 to IA 10 override this section.
 
@@ -30292,7 +30331,9 @@ Satisfied income tax liability
   (a) first, a non-refundable tax credit:
   (b) second, a tax credit for a supplementary dividend:
   (c) third, a tax credit for an imputation credit:
-  (d) fourth, a refundable tax credit.
+  (cb) fourth, a research and development tax credit under section LY 1(3)﻿(b):
+  (cc) fifth, a research and development tax credit under section LY 1(3)﻿(a):
+  (d) sixth, a refundable tax credit.
 Remaining tax credits
 (2) A person who has satisfied their income tax liability under subsection (1) must deal with their remaining tax credits for the tax year under section LA 5.
 
@@ -30305,6 +30346,14 @@ Credits for supplementary dividends
 (3) A person uses a tax credit for a supplementary dividend by applying section LP 3 (Use of remaining credits).
 Credits for imputation credits
 (4) A person uses a tax credit for an imputation credit by applying section LE 2, LE 2B, or LE 3 (which relate to the use of remaining tax credits).
+Research and development tax credits
+(4B) A person’s research and development tax credit is used by—
+  (a) first, the Commissioner refunding the tax credit up to a maximum of $255,000, by treating it as a refundable tax credit and applying section LA 6(2), if the person—
+    (i) meets the corporate eligibility criteria in section MX 2 (Corporate eligibility criteria); and
+    (ii) meets the wage intensity criteria in section MX 3 (Wage intensity criteria); and
+    (iii) does not derive exempt income, ignoring exempt income under sections CW 9 and CW 10 (which relate to income from dividends); and
+    (iv) is not associated with a person that derives exempt income, ignoring exempt income under sections CW 9 and CW 10:
+  (b) secondly, applying section LY 8 (Carry forward for remaining research and development tax credits), to the extent to which paragraph (a) does not apply to the tax credit.
 Refundable credits
 (5) The Commissioner refunds a refundable tax credit by applying section LA 6, LA 7, or LA 8.
 
@@ -30377,16 +30426,16 @@ An amount is a tax credit of a person if it is their tax credit under a provisio
 
 ### LB 1 Tax credits for PAYE income payments
 When this section applies
-(1) This section applies in a tax year when an employer provides the Commissioner with an employer monthly schedule that shows an amount of tax withheld from a PAYE income payment of a person who is an employee.
+(1) This section applies in a tax year when an employer provides the Commissioner with employment income information that shows an amount of tax withheld from a PAYE income payment of a person who is an employee.
 Amount of credit
 (2) The person has a tax credit for the tax year equal to the amount of tax shown as withheld.
 Application to close companies
 (3) Despite subsection (2), the amount of the tax credit must be no more than the amount of tax paid to the Commissioner if—
   (a) the employer is a close company; and
   (b) the employer and the person are associated persons, or the employer and the spouse, civil union partner, or de facto partner of the person are associated persons; and
-  (c) the employer withheld the amount of tax for the PAYE income payment shown in the employer monthly schedule.
+  (c) the employer withheld the amount of tax for the PAYE income payment shown in their employment income information.
 Exclusions
-(4) The person's credit is extinguished if the Commissioner does not receive an employer monthly schedule for the relevant amount of tax, or when the relevant particulars of the schedule are incorrect. However, the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had not been made.
+(4) The person's credit is extinguished if the Commissioner does not receive employment income information for the relevant amount of tax, or when the relevant particulars of the schedule are incorrect. However, the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had not been made.
 
 ### LB 1B Treatment of tax credits of certain companies with shareholders who are employees
 When this section applies
@@ -30606,7 +30655,7 @@ Description of organisations
 Who this section applies to
 (1) This section applies to a person who—
   (a) is an employee whose employer—
-    (i) files by electronic means an employer monthly schedule and a PAYE income payment form with particulars relating to the person's PAYE income payments for a pay period; and
+    (i) provides employment income information by electronic means with particulars relating to the person's PAYE income payments for a pay period; and
     (ii) agrees to offer payroll giving to their employees; and
   (b) chooses to make a payroll donation in the pay period from an amount derived as pay.
 Amount of credit
@@ -30620,7 +30669,7 @@ Non-refundable credits
 No refunds for donations
 (6) A person who has a tax credit under this section may not make an application under section 41A of the Tax Administration Act 1994 for any refund relating to the amount of a payroll donation.
 Meaning of pay for payroll donation purposes
-(7) For the purposes of this section, and sections LD 8(1) and 24Q of the Tax Administration Act 1994, pay, for a person,—
+(7) For the purposes of this section, and sections LD 8(1) and 124ZG of the Tax Administration Act 1994, pay, for a person,—
   (a) means an amount referred to in section RD 5(1)﻿(a) or (b)﻿(i) (Salary or wages); and
   (b) includes any similar amount earned by an employee in the normal course of their employment; and
   (c)
@@ -30630,7 +30679,7 @@ Employer's responsibility
 (1) The employer of a person who makes a payroll donation in a pay period must calculate the amount of the person's tax credit for the pay period under section LD 4, and include the amount in the particulars described in section LD 4(1)﻿(a).
 Credit extinguished
 (2) The tax credit is extinguished if—
-  (a) the Commissioner does not receive an employer monthly schedule and PAYE income payment form for the relevant payroll donation:
+  (a) the Commissioner does not receive the employment income information relating to the relevant payroll donation:
   (b) the relevant particulars filed are incorrect.
 When matters corrected
 (3) Despite subsection (2), the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had never been made.
@@ -31561,6 +31610,194 @@ Nature of tax credit
 Relationship with other sections
 (10) Subsection (8) overrides sections IA 2 and IA 7 (which relate to losses generally) and IS 1, IS 2, and IS 6 (which relate to tax losses for mineral mining).
 
+### Subpart LY — Research and development tax credits
+
+### LY 1 Research and development tax credits
+Purpose
+(1) The purpose of this subpart is to—
+  (a) provide a tax credit (a research and development tax credit) as an incentive to a person for performing, or contracting for the performance of, activities to create new knowledge, or new or improved processes, services, or goods; and
+  (b) ensure that activities, expenditure and losses do not inappropriately qualify for research and development tax credits.
+General structure of this subpart
+(2) In this subpart—
+  (a) research and development activity is defined in section LY 2, along with other key terms:
+  (b) section LY 3 provides when this subpart applies:
+  (c) the amount of a person’s research and development tax credit for a tax year is calculated under section LY 4 by reference to their expenditure or loss in relation to their research and development activities. Sections LY 5, LY 6, and LY 7 provide detailed rules as to what is eligible expenditure:
+  (d) section LY 8 provides for the carry forward of unused research and development tax credits from the current tax year:
+  (e) section LY 9 provides an empowering provision for the Governor-General to make Orders in Council to maintain the lists in schedules 21 and 21B (which relate to activities and expenditure or loss for the research and development tax credit):
+  (f) section LY 10 provides for a 5-yearly evaluation of the research and development tax credit regime.
+Tax credit
+(3) A person has a tax credit for the tax year equal to the total of—
+  (a) their credit calculated under section LY 4; and
+  (b) their credit carried forward and credited to the year, as provided by section LY 8.
+Tax credit: joint venturers’ apportionment
+(4) Despite subsection (3), a person who is a member of a joint venture in relation to research and development activities has a tax credit for the tax year equal to their proportion of their interest in the income of the joint venture.
+Anti-avoidance
+(5) Section GB 56 (Arrangements involving research and development tax credits) provides a specific anti-avoidance provision.
+Expenditure or loss: GST
+(6) For the purposes of calculating the amount of a person’s expenditure or loss, section DB 2 (Goods and services tax) is applied to the amounts.
+
+### LY 2 Key terms
+Meaning of core research and development activity
+(1) Core research and development activity—
+  (a) means an activity that—
+    (i) is conducted using a systematic approach; and
+    (ii) has a material purpose of creating new knowledge, or new or improved processes, services, or goods; and
+    (iii) has a material purpose of resolving scientific or technological uncertainty; but
+  (b) does not include an activity, if knowledge required to resolve the uncertainty, described in paragraph (a)﻿(iii), is—
+    (i) publicly available:
+    (ii) deducible by a competent professional in the relevant scientific or technological field; and
+  (c) does not include an activity to the extent to which it is performed outside New Zealand; and
+  (d) does not include an activity to the extent to which it is described in schedule 21, part A.
+Meaning of research and development activity
+(2) Research and development activity, for a person, means an activity that is—
+  (a) a core research and development activity:
+  (b) a supporting research and development activity.
+Meaning of supporting research and development activity
+(3) Supporting research and development activity—
+  (a) means an activity that has the only or main purpose of, is required for, and integral to, conducting a person’s core research and development activity; but
+  (b) does not include an activity to the extent to which it is described in schedule 21, part B.
+
+### LY 3 When this subpart applies
+When this subpart applies
+(1) This subpart applies for a person for an income year, if—
+  (a) the person or a joint venture of which the person is a member performs a core research and development activity in New Zealand, or, if the person does not perform a core research and development activity in New Zealand, a research and development contractor performs a core research and development activity in New Zealand on behalf of the person as part of a business that the contractor carries on in New Zealand through a fixed establishment in New Zealand; and
+  (b) the person or a joint venture of which the person is a member carries on a business in New Zealand through a fixed establishment in New Zealand; and
+  (c) the person or a joint venture of which the person is a member may use the results of the relevant core research and development activity and any related supporting research and development activities for no consideration, or the results of the relevant core research and development activity and any related supporting research and development activity are—
+    (i) owned by the person:
+    (ii) if the person is a company, owned by another company that is resident in New Zealand or in a country with which New Zealand has a double tax treaty, and the other company is in the same group of companies as the person:
+    (iii) owned by a joint venture of which the person is a member; and
+  (d) where the person is part of the in-year approval pilot under section 68CB or 68CC of the Tax Administration Act 1994, the relevant research and development activity and the person, as applicable, are approved under those sections. If the Commissioner declines to approve the relevant research and development activity or the person under the in-year approval pilot, the person may choose to ignore this paragraph.
+When this subpart does not apply
+(2) Despite subsection (1), this subpart does not apply for a person, for an income year,—
+  (a) if they fail to file a return of income for the income year on or before the date that is 1 year after the latest date for them to file the return of income for the year under section 37 of the Tax Administration Act 1994:
+  (b) if they receive a Callaghan Innovation Growth Grant, or they are directly or indirectly controlled by, or associated with, a recipient of a Callaghan Innovation Growth Grant:
+  (c) to the extent to which the person is a research and development contractor for another person (person B) in relation to a research and development activity, if person B carries on a business in New Zealand through a fixed establishment in New Zealand:
+  (d) if the person is, or is directly or indirectly controlled by, or is associated with,—
+    (i) a Crown research institute:
+    (ii) a district health board:
+    (iii) a tertiary education organisation:
+  (e) if the person is a member of a joint venture or a partner in a partnership or has owner’s interests for a look-through company, and the person is not resident in New Zealand in the tax year.
+Exception: carry forward
+(3) Despite subsection (1), sections LY 1(3)﻿(b) and LY 8 may apply to carry forward a person’s research and development tax credit.
+Special rule: non-business researcher
+(4) For the purposes of subsection (1), a person that is a non-business researcher is treated as carrying on a business in New Zealand through a fixed establishment in New Zealand.
+
+### LY 4 Calculation of tax credit
+When this section applies: thresholds
+(1) This section applies for a tax year and a person, ignoring, for purposes of this subsection only, sections HB 1 and HG 2 (which relate to entity transparency) and substituting as the relevant person the person’s partnership or look-through company, when—
+  (a) the person’s eligible research and development expenditure, together with eligible research and development expenditure for any joint venture of which the person is a member, is $50,000 or more for the year:
+  (b) the person has, for the year, eligible research and development expenditure for an approved research provider performing a research and development activity on behalf of the person.
+Calculation of tax credit
+(2) A person’s research and development tax credit for a tax year is calculated using the formula—0.15 × total eligible R & D expenditure.
+Definition of item in formula
+(3) In the formula, total eligible R & D expenditure means the lesser of—
+  (a) $120 million, or the person’s approved research and development cap if the person has an approved research and development cap:
+  (b) the total amount of the person’s eligible research and development expenditure for the corresponding income year.
+
+### LY 5 Eligible research and development expenditure
+Eligible research and development expenditure
+(1) For the purposes of this subpart, eligible research and development expenditure—
+  (a) means expenditure or loss, described in schedule 21B, part A, to the extent to which the expenditure or loss is incurred on a research and development activity for the income year; but
+  (b) does not include expenditure or loss, to the extent to which the expenditure or loss is described in schedule 21B, part B:
+  (c) does not include expenditure or loss that would have been incurred in the absence of the research and development activity, if—
+    (i) the research and development activity is performed in the course of commercial production; and
+    (ii) the expenditure or loss is not in relation to an employee’s contribution to a research and development activity.
+Modification of eligible research and development expenditure
+(2) Despite subsection (1), for an amount that is otherwise eligible research and development expenditure,—
+  (a) an amount that is for a research and development contractor to perform research and development activities for the person is only eligible research and development expenditure to the extent to which section LY 6 provides:
+  (b) an amount that is incurred on a research and development activity performed outside New Zealand, or is a payment of salary or wages to a non-resident, or is a payment for a service performed by a non-resident is only eligible research and development expenditure to the extent to which section LY 7 provides.
+No double dip for contractors and others
+(3) A person does not have eligible research and development expenditure to the extent to which the relevant expenditure or loss is eligible research and development expenditure of another person.
+
+### LY 6 Contracted research and development expenditure
+When this section applies
+(1) This section applies for a person for the purposes of section LY 5(2)﻿(a) if the person has an amount of expenditure or loss (contracted research and development expenditure) for a research and development contractor to perform research and development activities for them.
+Calculation of eligible research and development expenditure: contracted research and development expenditure
+(2) For the purposes of section LY 5(2)﻿(a), eligible research and development expenditure includes an amount of contracted research and development expenditure, described in subsection (1), to the extent of the amount calculated using the formula—contract amount − ineligible expenditure.
+Definition of items in formula
+(3) In the formula,—
+  (a) contract amount means the amount of consideration paid or payable by the person to a contractor to perform research and development activities:
+  (b) ineligible expenditure means the contractor’s expenditure or loss in relation to performing the research and development activity, to the extent to which the expenditure or loss is not eligible research and development expenditure under section LY 5(1), treating the contractor as the relevant person for the purposes of that section.
+Relationship with subject matter
+(4) If an amount of contracted research and development expenditure, described in subsection (1), is also foreign research and development expenditure, described in section LY 7(1), then section LY 7 overrides this section in relation to that amount.
+
+### LY 7 Foreign research and development expenditure
+When this section applies
+(1) This section applies for a person for the purposes of section LY 5(2)﻿(b) if the person has an amount of expenditure or loss (foreign research and development expenditure) that—
+  (a) is incurred on a supporting research and development activity performed outside New Zealand:
+  (b) is a payment of salary or wages to a non-resident person, and the non-resident performs the relevant activity in New Zealand:
+  (c) is a payment for a service performed by a non-resident person, and the non-resident performs the relevant activity in New Zealand.
+Calculation of eligible research and development expenditure: foreign research and development expenditure
+(2) For the purposes of section LY 5(2)﻿(b), eligible research and development expenditure includes an amount of foreign research and development expenditure, described in subsection (1), to the extent the amount is less than or equal to the lesser of—
+  (a) the amount given by the formula in subsection (3):
+  (b) the amount given by the formula in subsection (5).
+Actual overseas expenditure amount
+(3) For the purposes of subsection (2)﻿(a), the amount is calculated using the formula—contract amount − ineligible expenditure + foreign in-house amount.
+Definition of items in formula
+(4) In the formula in subsection (3),—
+  (a) contract amount means the amount of foreign research and development expenditure, described in subsection (1)﻿(a) and (c), for another person (a foreign contractor) to perform research and development activities on behalf of the person:
+  (b) ineligible expenditure means the foreign contractor’s expenditure or loss in relation to performing the research and development activities, to the extent to which the expenditure or loss is not eligible research and development expenditure under section LY 5(1), treating the foreign contractor as the relevant person for the purposes of that section:
+  (c) foreign in-house amount means the amount of foreign research and development expenditure, described in subsection (1), under section LY 5(1) but ignoring amounts for a foreign contractor to perform research and development activities for the person.
+Capped overseas expenditure amount
+(5) For the purposes of subsection (2)﻿(b), the amount is calculated using the formula—0.1 × total NZ R & D expenditure ÷ 0.9.
+Definition of item in formula
+(6) In the formula in subsection (5), total NZ R & D expenditure means the amount of eligible research and development expenditure under section LY 5, but excluding any amount in relation to foreign research and development expenditure, described in subsection (1).
+
+### LY 8 Carry forward for remaining research and development tax credits
+Carry forward
+(1) For the purposes of section LA 5(4B) (Treatment of remaining credits), a person’s remaining research and development tax credit for a tax year is carried forward to the next tax year and credited under section LY 1(3)﻿(b) for that next tax year.
+Carry forward: exception
+(2) Despite subsection (1), if the person is a company, the remaining tax credit is extinguished and must not be carried forward and credited, unless the continuity rules in subsection (3) are met.
+Continuity rules
+(3) For a company, the remaining tax credit is carried forward and credited if a group of persons exists that has, for the continuity period,—
+  (a) minimum voting interests in the company that total 49% or more; and
+  (b) when a market value circumstance exists for the company in the continuity period, minimum market value interests in the company that total 49% or more.
+Some definitions
+(4) In this section,—
+  - **continuity period** means the period that starts on the first day of the income year that corresponds to the tax year in which the research and development tax credit first arises and ends on the last day of the income year that corresponds to the tax year to which the credit is being carried forward and credited to:
+  - **minimum market value interest** means the lowest market value interest that a person has in the company for the continuity period:
+  - **minimum voting interest** means the lowest voting interest that a person has in the company for the continuity period.
+Credits for earlier income years
+(5) Despite a breach of continuity under subsection (3), a person’s remaining research and development tax credit for an earlier tax year is carried forward to a tax year (year A) and credited under section LY 1(3)﻿(b) to the extent to which—
+  (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year of the company that corresponds to year A; and
+  (b) the company provides the Commissioner with adequate financial statements relating to the continuity period, calculating the amount of the person’s income tax liability for the relevant part of the corresponding income year.
+Credits for year of breach
+(6) Despite a breach of continuity under subsection (3), a person’s remaining research and development tax credit is carried forward to the tax year (year B) from year A and credited under section LY 1(3)﻿(b) to the extent to which—
+  (a) the requirements for continuity of ownership would be met if the continuity period included only part of the income year of the company that corresponds to year A; and
+  (b) the company provides the Commissioner with adequate financial statements relating to the continuity period, calculating the amount of the person’s research and development tax credit for the relevant part of the corresponding income year.
+
+### LY 9 Orders in Council
+Purpose
+(1) The purpose of subsection (2) is to provide a power to maintain the intent of the research and development tax credit regime in accordance with its stated purpose in section LY 1(1).
+Order in Council
+(2) The Governor-General may, by Order in Council made on the joint recommendation of the Minister of Revenue and the Minister of Research, Science, and Innovation,—
+  (a) add the description of an activity or of an expenditure or loss, as applicable, to—
+    (i) schedule 21:
+    (ii) schedule 21B:
+  (b) remove the description of an activity or of an expenditure or loss, as applicable, from—
+    (i) schedule 21:
+    (ii) schedule 21B.
+Recommendation
+(3) Before making a recommendation referred to in subsection (2), the Ministers must be satisfied that—
+  (a) they have consulted with persons they consider to be appropriate in light of the relevant addition or removal; and
+  (b) they have had regard to—
+    (i) the purpose in section LY 1(1) and maintaining the intent of the definitions of research and development activity and eligible research and development expenditure; and
+    (ii) the effect of the recommendation on the creation of new scientific or technological knowledge; and
+    (iii) the fiscal impact of the recommendation.
+Application for future tax years
+(4) An addition or removal by Order in Council under this section must apply for the income year corresponding to the tax year after the tax year in which it is made, and subsequent income years.
+Sunset
+(5) An Order in Council under this section expires on the date that is 3 years after the last day of the tax year that the Order first applies for.
+
+### LY 10 Evaluation
+The Minister of Research, Science and Innovation will lay a report before the House of Representatives as soon as practicable after the end of the 2023–24 tax year, and every 5 years subsequent, objectively and independently evaluating the research and development tax credit regime in terms of all of the following:
+  (a) the delivery of the policy intent of the regime:
+  (b) the stimulation of spending on research and development activities:
+  (c) the compliance costs of the regime:
+  (d) the administration of the regime:
+  (e) the compliance with the legal requirements of the regime by taxpayers:
+  (f) any other criteria specified by the Minister of Research, Science and Innovation.
+
 ### Subpart LZ — Terminating provisions
 
 ### LZ 1 Low tax jurisdiction companies
@@ -32360,7 +32597,7 @@ Formula
 (2) The formula is—(prescribed amount − net family scheme income) × weekly periods ÷ 52.
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $26,156:
+  (a) prescribed amount is $26,572:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -32465,6 +32702,10 @@ How to calculate instalment: amount
 (3) The Commissioner must calculate the amount of the instalment using—
   (a) a value for family scheme income as directed by section MF 3(2)﻿(c); and
   (b) the amounts of family tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, minimum family tax credit, Best Start tax credit, and Best Start credit abatement set out in sections MD 3, MD 4, MD 11, MD 12, MD 13, ME 1, MG 2, and MG 3.
+Adjustments to instalment amount: abating WFF tax credit and minimum family tax credit
+(3B) Despite subsection (3), when the Commissioner expects that the total of the parts of the instalments paid and still to be paid to a person for a tax year that relate to the person’s estimated tax credit under sections MD 1 and ME 1 for the tax year will differ from the person’s entitlement to a tax credit under sections MD 1 and ME 1 for the tax year if the Commissioner were, for the remaining instalments for the tax year, to pay to the person the part of the amount of the instalment calculated under subsection (3) that relates to amounts of family tax credit, in-work tax credit, child tax credit, parental tax credit, family credit abatement, and minimum family tax credit set out in sections MD 3, MD 4, MD 11, MD 12, MD 13, and ME 1, the Commissioner may—
+  (a) decrease the amount of the person’s remaining instalments for the tax year to offset all or part of the expected excess; or
+  (b) increase the amount of the person’s remaining instalments for the tax year to offset all or part of the expected shortfall.
 Instalment shown in complete dollars
 (4) The instalment is to be shown in a notice of entitlement in complete dollars.
 
@@ -33280,6 +33521,7 @@ No credit
   (e)
   (eb)
   (f) income tax paid by a tax credit under subpart LP (Tax credits for supplementary dividends); or
+  (fb) income tax paid by crediting a research and development tax credit against income tax liability; or
   (g) further income tax applied under section OB 69 to pay income tax or provisional tax; or
   (gb)
   (h)
@@ -33353,6 +33595,14 @@ Table reference
 (2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 7B (attributed PIE income with imputation credit).
 Credit date
 (3) The credit date is the day the amount is attributed.
+
+### OB 9C ICA credit for research and development tax credit
+Credit
+(1) An ICA company has an imputation credit for the amount of research and development tax credit it is entitled to.
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 7C (Research and development tax credits).
+Credit date
+(3) The credit date is the date the company files its return of income for the income year.
 
 ### OB 10 ICA dividend derived with FDP credit
 [Repealed]
@@ -34981,6 +35231,7 @@ No credit
   (a) income tax paid for a tax year before the 2004–05 tax year; or
   (b) income tax paid for income derived when the Maori authority was not a Maori authority; or
   (c) income tax paid by a credit under section LE 1 (Tax credits for imputation credits); or
+  (cb) income tax paid by crediting a research and development tax credit against income tax liability; or
   (cb)
   (d) further income tax applied under section OK 23 to pay income tax or provisional tax.
 Credit date
@@ -35028,6 +35279,14 @@ Table reference
 (2) The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 6B (attributed PIE income with imputation credit).
 Credit date
 (3) The credit date is the day the amount is attributed.
+
+### OK 6C MACA research and development tax credit
+Credit
+(1) A Maori authority has a Maori authority credit for the amount of research and development tax credit it is entitled to.
+Table reference
+(2) The Maori authority credit in subsection (1) is referred to in table O17: Maori authority credits, row 6C (Research and development tax credits).
+Credit date
+(3) The credit date is the date the Maori authority files its return of income for the income year.
 
 ### OK 7 MACA dividend derived with FDP credit
 [Repealed]
@@ -35302,7 +35561,7 @@ Particular credits
 (2) The credit referred to in subsection (1) is a credit under the following sections and described in the following rows of table O19: imputation credits of consolidated imputation groups:
   (a) section OP 7, row 2 (payment of tax):
   (b) section OP 8, row 3 (deposit in tax pooling account):
-  (bb)
+  (bb) section OP 11C, row 6C (Research and development tax credits):
   (c) section OP 12, row 7 (dividend derived with imputation credit).
   (d)
   (e)
@@ -35370,6 +35629,7 @@ No credit
   (f)
   (fb)
   (g) income tax paid by crediting an amount under subpart LP (Tax credits for supplementary dividends); or
+  (gb) income tax paid by crediting a research and development tax credit against income tax liability; or
   (h) further income tax applied under section OB 65 or OB 66 (which relate to further income tax) to pay income tax or provisional tax; or
   (i) income tax paid by crediting further income tax under section OB 69(3) (Further income tax paid satisfying liability for income tax).
 Credit date
@@ -35413,6 +35673,14 @@ Credit date
 
 ### OP 11B Consolidated ICA expenditure on research and development
 [Repealed]
+
+### OP 11C Consolidated ICA credit for research and development tax credit
+Credit
+(1) A consolidated imputation group has an imputation credit for the amount of research and development tax credit that a group company is entitled to.
+Table reference
+(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 6C (Research and development tax credits).
+Credit date
+(3) The credit date is the date the group company files its return of income for the income year.
 
 ### OP 12 Consolidated ICA dividend derived with imputation credit
 Credit
@@ -36409,7 +36677,7 @@ Columns G and H
 (2) For the purposes of subsection (1), the month in schedule 3, part A, column G or H, for the person’s corresponding income year is—
   (a) the month in column H, if—
     (i) the person’s return of income for the income year was linked to a tax agent as described in subsection (4); or
-    (ii) the person has asked for an income statement under section 80C of the Tax Administration Act 1994 or has been sent an income statement under section 80D of that Act, and the Commissioner has been notified that a tax agent will respond to the income statement sent to the person; or
+    (ii)
   (b) the month in column G in any other case.
 First occurrence of month
 (3) For the purposes of subsection (1),—
@@ -36600,8 +36868,8 @@ Threshold or election
 Exclusions
 (2) Despite subsection (1), the following persons do not pay provisional tax:
   (a) a company that does not have a fixed establishment in New Zealand and is not treated as resident in New Zealand:
-  (b) a person who meets the requirements of section 33AA(1) of the Tax Administration Act 1994:
-  (c) a non-resident contractor who has not been given an exemption certificate by the Commissioner for the tax year:
+  (b)
+  (c) a non-resident contractor who has not been given an exemption by the Commissioner for the tax year:
   (d) a multi-rate PIE that does not choose to calculate and pay tax using the provisional tax calculation option under section HM 44 (Provisional tax calculation option).
 No obligation
 (3) A person has no obligation to pay provisional tax for a tax year if their residual income tax for the preceding tax year is $2,500 or less.
@@ -36633,7 +36901,9 @@ Estimation method
 (5) The person may estimate their provisional tax liability for the tax year under section RC 7.
 AIM method
 (5B) A person must use the AIM method under section RC 7B to determine their provisional tax liability for the tax year (the current tax year), other than a transitional year, if the person—
-  (a) has chosen to use the AIM method for the current tax year on or before the first instalment date for them under the AIM method, and the current tax year is not a transitional year; and
+  (a) has chosen to either—
+    (i) use the AIM method for the current tax year on or before their first instalment date under the AIM method; or
+    (ii) change part-year to use the AIM method for their remaining instalment dates under the AIM method for the current tax year, and they use either the standard method or GST ratio method at the beginning of the current tax year and, before changing to use the AIM method, they met all of their provisional tax obligations under the relevant method, from the beginning of the current tax year; and
   (b) has an AIM-capable accounting system that is up-to-date for relevant tax law for the corresponding income year and for determinations under section 91AAX of the Tax Administration Act 1994 for the corresponding income year; and
   (c) has—
     (i) annual gross income of $5,000,000 or less for the tax year before the current tax year:
@@ -36778,6 +37048,8 @@ AIM method
   (a) if the person is not registered for GST, or has a 6-month taxable period under section 15 of the Goods and Services Tax Act 1985, on the 6 instalment dates in the months set out in schedule 3, part A, columns A, B, C, D, E, and F for their balance date. The amount of each instalment is provided by section RC 10B; or
   (b) if the person has a 2-month taxable period under section 15 of the Goods and Services Tax Act 1985, on the group of 6 instalment dates in the months set out in either schedule 3, part A, columns A, B, C, D, E, and F or in schedule 3, part A, columns A1, B1, C1, D1, E1, and F1 that corresponds to the due dates for their GST returns. The amount of each instalment is provided by section RC 10B; or
   (c) if the person has a 1-month taxable period under section 15 of the Goods and Services Tax Act 1985, on the 12 instalment dates in the months set out in schedule 3, part A, columns A to F1 for their corresponding income year. The amount of each instalment is provided by section RC 10B.
+Part-year change into AIM
+(4C) A person who chooses to change to the AIM method under section RC 5(5B)﻿(a)﻿(ii) must use the relevant remaining instalment dates for them under the AIM method. The amount of each relevant instalment is calculated under section RC 10B.
 Provisional tax when GST paid on 6-monthly basis
 (5) A person liable to pay provisional tax who pays GST on a 6-monthly basis must pay provisional tax on the 2 interest instalment dates for the tax year in the months set out in schedule 3, part A, columns C and F for their corresponding income year. This subsection applies to a person with an initial provisional tax liability other than 1 who pays GST on a 6-monthly basis and starts a taxable activity within 30 days before the date of instalment C.
 Provisional tax determined using GST ratio
@@ -36824,7 +37096,12 @@ Instalment amounts after change in balance date or taxable period
 (4) If a change occurs to the balance date or cycle of a person’s taxable periods, the calculation of the amount of an instalment is made under this section, applying the updated figures to the items in the formula.
 
 ### RC 10B Calculating amount of instalment for periods using AIM method
-For a person who uses the AIM method, the amount of provisional tax payable on an instalment date for a tax year is the amount calculated using an AIM-capable accounting system for the 2-monthly or monthly period given by schedule 3, part AB (Payment of provisional tax and terminal tax) for the applicable instalment date.
+Calculating amount for full-year AIM method
+(1) For a person who uses the AIM method, the amount of provisional tax payable on an instalment date for a tax year is the amount calculated using an AIM-capable accounting system for the 2-monthly or monthly period given by schedule 3, part AB (Payment of provisional tax and terminal tax) for the applicable instalment date.
+Calculating amount when part-year change into AIM method
+(2) For a person who chooses to change to the AIM method under section RC 5(5B)﻿(a)﻿(ii), the amount of provisional tax payable on a remaining instalment date for a tax year is given by subsection (1), except for the first remaining instalment date. Subsection (3) provides the calculation for the first remaining instalment date.
+Calculating when part-year change into AIM method: first remaining instalment
+(3) For the purposes of subsection (2), the amount of provisional tax payable for the first remaining instalment date is the total amount, year to date including the firstRD remaining instalment date, that would have been payable if the person had used the AIM method from the beginning of the tax year, less the amount of provisional tax the person has paid, before the change, under the relevant non-AIM method for the tax year.
 
 ### RC 11 Calculating amount of instalment using GST ratio
 Calculation
@@ -37297,7 +37574,7 @@ Meaning
   (b) sections LA 6, LB 1, and LD 4 (which relate to tax credits); and
   (c) sections RD 3 to RD 24; and
   (d) sections RP 2 to RP 16 (which relate to PAYE intermediaries); and
-  (e) sections 24, 24B to 24P, 48, 124H to 124R, 133, Part 9, and sections 167 to 169 of the Tax Administration Act 1994.
+  (e) subparts 3C and 3D, sections 22AA, 124H to 124R, 133, Part 9, sections 167 to 169, and schedules 4 and 5 of the Tax Administration Act 1994.
 Application
 (2) The PAYE rules apply to a person who makes or is required to make a PAYE income payment and, in certain circumstances, to the person to whom the PAYE income payment is made.
 Deceased employers
@@ -37347,16 +37624,34 @@ Income other than PAYE
 (4) All amounts described in subsection (1)﻿(b) paid to the person in the income year and in later income years in their capacity as employee of the company are treated as income other than from a PAYE income payment.
 
 ### RD 4 Payment of amounts of tax to Commissioner
-Payments monthly or fortnightly
-(1) An employer or PAYE intermediary who withholds an amount of tax for a PAYE income payment must pay the amount to the Commissioner as follows
-  (a) on a monthly basis, if they are an employer to whom section RD 22(3) or (4) applies:
+Payments monthly or twice-monthly
+(1) An employer or PAYE intermediary who withholds an amount of tax for a PAYE income payment must pay the amount to the Commissioner as follows:
+  (a) on a monthly basis, if they are an employer to whom subsection (2) applies:
   (b) for 2 payment periods in a month, if paragraph (a) does not apply.
+Monthly payments
+(2) For the purposes of subsection (1)﻿(a), an employer must pay the amount of tax withheld by the 20th day of the month following the month in which the PAYE income payment is made if they are—
+  (a) an employer who—
+    (i) is not a new employer; and
+    (ii) has, for the preceding tax year, gross amounts of tax of less than $500,000 withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes):
+  (b) a new employer who has, for the current tax year, gross amounts of tax withheld under section RA 5(1)﻿(a) and (c) that total less than $500,000.
+Twice-monthly payments
+(3) An employer to whom subsection (1)﻿(b) applies must pay the amount of tax withheld to the Commissioner by the dates referred to in section RA 15(2) (Payment dates for interim and other tax payments).
 Liability when amount not withheld
-(2) If some or all of the amount of tax for a PAYE income payment is not withheld under subsection (1), the employee in relation to whom the payment is made must—
-  (a) pay an amount equal to the amount of tax to the Commissioner by the 20th day of the month following that in which the PAYE income payment was made; and
-  (b) provide an employer monthly schedule to the Commissioner by the date described in paragraph (a).
-When taxable activity ends
-(3) Section RA 17 (Payment date when RWT exemption certificate expires) overrides subsection (1).
+(4) If some or all of the amount of tax for a PAYE income payment is not withheld under subsection (1), the employee in relation to whom the payment is required to have been made must pay to the Commissioner under section RD 21 an amount equal to the amount of tax by the 20th day of the month following the month in which the PAYE income payment was made.
+Amounts aggregated for threshold purposes
+(5) For the purposes of determining whether a threshold referred to in subsection (2)﻿(a)﻿(ii) and (b) is reached, if the employer ends their business and starts a new business, or operates 2 or more businesses at the same time, all amounts of tax withheld must be aggregated.
+Persons treated as single employers
+(6) For the purposes of this section, the following are treated as 1 employer:
+  (a) 2 or more companies if they are part of a group of companies at a time in the relevant tax year:
+  (b) all partners in a partnership:
+  (c) all persons in whom property has become vested, or to whom the control of property has passed in the case of—
+    (i) an estate of a deceased person; or
+    (ii) a trustee of a trust; or
+    (iii) a company in liquidation; or
+    (iv) an assigned estate; or
+    (v) another fiduciary relationship.
+Threshold changes by Order in Council
+(7) The Governor-General may, on the recommendation of the Minister of Revenue, make an Order in Council amending the threshold amount referred to in subsection (2). Before making the recommendation, the Minister must undertake consultation on the proposed amendment that is appropriate and reasonable for the purposes of this section.
 
 **Types of PAYE income payments**
 
@@ -37366,7 +37661,7 @@ Meaning
   (a) means a payment of salary, wages, or allowances made to a person in connection with their employment; and
   (b) includes—
     (i) a bonus, commission, gratuity, overtime pay, or other pay of any kind; and
-    (ii) a payment described in subsections (2) to (8); and
+    (ii) a payment described in subsections (2) to (10); and
     (iii) an accident compensation earnings-related payment; and
     (iiib) a payment of earnings compensation under the Compensation for Live Organ Donors Act 2016; and
     (iv)
@@ -37404,6 +37699,7 @@ Certain benefits and grants
   (be) weekly income compensation paid under Part 3, subpart 4 of the Veterans’ Support Act 2014:
   (bf) weekly compensation paid under Part 4, subpart 5 of the Veterans’ Support Act 2014:
   (bg) weekly compensation or aggregated payments, as applicable, paid under schedule 2, part 4, clause 54, 55, 58, or 59 of the Veterans’ Support Act 2014:
+  (bh) the amount of an honorarium that is paid by the Fire and Emergency New Zealand to a volunteer as defined in section CW 62B(4):
   (c) a basic grant and independent circumstances grant made under regulations made under section 193 of the Education Act 1964, section 303 of the Education Act 1989, or an enactment substituted for those sections.
 Parental leave and preterm baby payments
 (7) A parental leave payment or preterm baby payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
@@ -37411,6 +37707,8 @@ Accommodation benefits
 (8) A benefit treated as income under section CE 1(1)﻿(bb) (Amounts derived in connection with employment) is included in salary or wages.
 Cash contributions
 (9) An amount of an employer's superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 is included in salary or wages.
+Unrepaid PAYE income overpayments
+(10) An unrepaid PAYE income overpayment that is treated as salary or wages under section RD 8B(2)﻿(a) is included in salary or wages.
 
 ### RD 6 Certain benefits and payments
 When this section applies
@@ -37422,19 +37720,24 @@ When this section applies
     (ii) a pension:
     (iii) a retiring or other allowance:
     (iv) an annuity; or
-  (d) a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B.
+  (d) a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B; or
+  (e) a payment made to them as a person on a shadow payroll.
 Value or amount included in salary or wages
 (2) For the purposes of subsection (1)﻿(a) to (c), the value of the benefit or amount of the payment is treated as—
   (a) accruing from day to day; and
   (b) included in the employee’s salary or wages for the pay period or, as applicable, as part of their salary or wages for the pay period.
 When non-cash benefit treated as paid
 (3) If the employee receives the benefit otherwise than in cash, the value is treated as paid—
-  (a) for a benefit referred to in subsection (1)﻿(d),—
-    (i) for an employer described in section CE 2(7) (Benefits under employee share schemes), on the first day of the PAYE income payment form period in which the employee derives the benefit under section CE 2(8); or
-    (ii) for employers not described in section CE 2(7), on the date the benefit vests in the employee:
+  (a) for a benefit referred to in subsection (1)﻿(d), on the ESS deferral date on which the employee is treated as deriving the benefit under section CE 2(8) (Benefits under employee share schemes); or
   (ab)
   (b) for a benefit referred to in subsection (1)﻿(a) to (c) that constitutes the only salary or wages of the employee, on the last day of the pay period:
   (c) for a benefit that paragraphs (a) and (b) do not apply to, when the last amount of salary or wages for the pay period is paid.
+Employees on shadow payrolls
+(4) For the purposes of the PAYE rules, a payment referred to in subsection (1)﻿(e) is treated as paid to the employee—
+  (a) on the day that the amount is paid by the non-resident employer, that is the payday for the purposes of sections 23E to 23H and 23J(2) of the Tax Administration Act 1994:
+  (b) on the 20th day after the amount is paid by the non-resident employer, that is the 20th day referred to in section 23J(3) of that Act.
+Meaning of payment to person on shadow payroll
+(5) For the purposes of this section, a payment made to a person on a shadow payroll is a PAYE income payment paid by a non-resident employer to a person who undertakes employment services in New Zealand but who remains on the employer’s payroll system in a country or territory outside New Zealand.
 
 ### RD 7 Extra pay
 Meaning
@@ -37451,6 +37754,7 @@ Meaning
     (iv) as a result of a retrospective increase in salary or wages, but only to the extent to which it accrues from the start of the increase until the start of the first pay period in which the increase is included in salary or wages; and
   (bb) includes a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to which the employer has made an election under section RD 7B to withhold an amount of tax; and
   (c) includes an amount of income that a person derives under section CE 9 (Restrictive covenants) or CE 10 (Exit inducements) if the income is derived in connection with an employment relationship between the person and the person who paid the amount; and
+  (cb) includes an unrepaid PAYE income overpayment that is treated as all or part of an amount of extra pay under section RD 8B(2)﻿(b); and
   (d) does not include a payment of exempt income.
 Limit on retrospective increase in salary or wages
 (2)
@@ -37474,8 +37778,8 @@ What this section does not apply to
 Withholding amounts of tax
 (3) The employer may choose, in relation to the employee share scheme, to withhold and pay an amount of tax for the benefit. The employer makes the election by—
   (a) calculating the amount of tax that must be withheld and paying the amount to the Commissioner as described in section RD 4(1); and
-  (b) including the amount of the benefit in their employer monthly schedule under section RD 22(1); and
-  (c) making the disclosure referred to in paragraph (b) within the time required under section RD 6(3)﻿(a).
+  (b) including the value of the benefit in their employment income information under subpart 3C of the Tax Administration Act 1994.
+  (c)
 
 ### RD 8 Schedular payments
 Meaning
@@ -37483,17 +37787,53 @@ Meaning
   (a) means—
     (i) a payment of a class set out in schedule 4 (Standard rates of tax for schedular payments); and
     (ii) in relation to a sale, the net amount paid after subtracting from the purchase price all commission, insurance, freight, classing charges and other expenses incurred by the seller in connection with the sale; and
+  (ab) includes an unrepaid PAYE income overpayment that is treated as all or part of a schedular payment under section RD 8B(2)﻿(c); and
   (b) does not include—
     (i) salary or wages; or
     (ii) an extra pay; or
     (iii) a payment for services provided by a public authority, a local authority, a Maori authority, or a company, other than a non-resident contractor, a non-resident entertainer, a company in relation to a payment described in schedule 4, part J or part W, or an agricultural, horticultural, or viticultural company; or
-    (iv) a payment covered by an exemption certificate provided under section 24M of the Tax Administration Act 1994; or
+    (iv) an exempt payment referred to in section 24H and schedule 5, part C, clause 6 of the Tax Administration Act 1994 applies; or
     (v) a payment for services provided by a non-resident contractor who has full relief from tax under a double tax agreement, and is present in New Zealand for 92 or fewer days in a 12-month period; or
     (vi) a contract payment for a contract activity or service of a non-resident contractor when the total amount paid for those activities to the contractor or another person on their behalf is $15,000 or less in a 12-month period.
 Protected payments
 (2) The fact that a schedular payment may be protected against assignment or charge does not override a person’s obligation to withhold the amount of tax for the payment.
 Determination of expenditure incurred
 (3) The Commissioner may determine from time to time the amount or proportion of expenditure that a person incurs in deriving a particular schedular payment or class of schedular payments.
+
+### RD 8B Treatment of PAYE-related overpayments
+When this section applies
+(1) This section applies when an employer pays an amount (a PAYE-related overpayment) to an employee and—
+  (a) the amount is paid—
+    (i) in error, to the extent to which the employee is not beneficially entitled to the amount; or
+    (ii) as an advance payment, to the extent to which the employee does not become beneficially entitled to the amount; and
+  (b) the amount is, at the time of payment, treated by the employer as all or part of—
+    (i) a payment of salary or wages; or
+    (ii) an extra pay; or
+    (iii) a schedular payment.
+Treatment of amount
+(2) To the extent to which the amount is an unrepaid PAYE income overpayment, the amount is treated as follows:
+  (a) as salary or wages, if the amount is treated as described in subsection (1)﻿(b)﻿(i):
+  (b) as all or part of an amount of extra pay, as applicable, if the amount is treated as described in subsection (1)﻿(b)﻿(ii):
+  (c) as all or part of a schedular payment, as applicable, if the amount is treated as described in subsection (1)﻿(b)﻿(iii).
+Meaning of unrepaid PAYE income overpayment
+(3) An unrepaid PAYE income overpayment—
+  (a) means an amount that—
+    (i) is a PAYE-related overpayment; and
+    (ii) has not been repaid to the employer; and
+    (iii) is not repayable to the employer by the employee under an agreement between them; and
+    (iv) is not recoverable under section 248 of the Accident Compensation Act 2001; and
+  (b) does not include an amount of exempt income.
+Amounts repayable under breached repayment agreements
+(4) For the purposes of subsection (3)﻿(a)﻿(iii), an amount that is repayable to the employer by the employee under an agreement (the agreement) between them is treated as an amount that is not repayable to the employer by the employee under an agreement between them if—
+  (a) the employee breaches the agreement and does not remedy the breach within 2 months:
+  (b) the employer considers that the employee will not comply with the agreement in the future.
+Exclusions
+(5) An amount referred to in subsection (1) does not include—
+  (a) an amount that is income of the employee under section CB 32 (Property obtained by theft):
+  (b) an amount that is an overpayment of a benefit or grant referred to in section RD 5(6)﻿(a) to (c):
+  (c) an employer’s superannuation contribution other than an overpayment of an amount of an employer’s superannuation cash contribution that an employee chooses to have treated as salary or wages under section RD 68 (Choosing to have amount treated as salary or wages).
+Employers who use PAYE intermediaries
+(6) In this section, employer includes a PAYE intermediary.
 
 **Calculating amounts of tax**
 
@@ -37511,7 +37851,7 @@ Choosing rate for extra pay
 Relationship with section RD 17
 (2B) Despite subsection (2), a person must not choose a rate set out in schedule 2, part B, table 1 that is lower than the rate that would apply to the amount of extra pay under section RD 17.
 Rates for extra pays: non-resident seasonal workers
-(2C) The amount of tax for an extra pay that is paid to a non-resident seasonal worker is calculated at the rate set out in schedule 2, part B, table 1, row 1B (Basic tax rates for PAYE income payments). This rate applies for both a worker who has notified their employer under section 24B of the Tax Administration Act 1994 of their tax code under schedule 2, part A, clause 8, and a worker to whom section 24B(3C) of that Act applies. This subsection overrides subsection (2).
+(2C) The amount of tax for an extra pay that is paid to a non-resident seasonal worker is calculated at the rate set out in schedule 2, part B, table 1, row 1B (Basic tax rates for PAYE income payments). This rate applies for both a worker who has notified their employer under section 24C of the Tax Administration Act 1994 of their tax code under schedule 2, part A, clause 8, and a worker to whom schedule 5, part B, clause 3 of that Act applies. This subsection overrides subsection (2).
 Rates for extra pays: non-notified tax codes
 (2D) The amount of tax for an extra pay that is paid to an employee who has not notified their employer of their tax code is calculated at the rate set out in schedule 2, part B, table 1, row 5.
 Schedular payments
@@ -37526,17 +37866,17 @@ Tax tables
 ### RD 10B Amounts of tax for schedular payments
 When this section applies
 (1) This section applies to determine the amount of tax for a schedular payment for the purposes of section RD 10(3)﻿(a).
-Rate when no notification
-(2) The person making the schedular payment must withhold, as tax,—
-  (a) 45% of the schedular payment, if the person has not been notified of the payee’s name and tax file number under section 24L of the Tax Administration Act 1994 and paragraph (b) does not apply:
-  (b) 20% of the schedular payment, if the person has not been notified of the payee’s name and tax file number under section 24L of the Tax Administration Act 1994 and the payee is a company that is a non-resident contractor.
 Basic rates
-(3) If the person making the schedular payment has been notified of the payee’s name and tax file number under section 24L of the Tax Administration Act 1994, the tax rate that applies to a schedular payment is—
-  (a) the payee’s elected rate under section 24LB of the Tax Administration Act 1994, if the payee chooses an elected rate under that section and paragraph (c) of this subsection does not apply:
-  (b) the relevant rate set out in schedule 4 (Standard rates of tax for schedular payments), if the payee does not choose an elected rate under section 24LB of the Tax Administration Act 1994 and paragraph (c) of this subsection does not apply:
-  (c) if the Commissioner has provided the payee with a special tax rate certificate under section 24N of the Tax Administration Act 1994, the tax rate set out in the certificate.
-Commissioner prescribed tax rate and deduction amount
-(4) Despite subsection (3), if the person making the schedular payment has been notified of an applicable tax rate prescribed by the Commissioner under section 24LC(1) of the Tax Administration Act 1994, the person must use that prescribed and notified tax rate for the payment. The person must also deduct or extract from schedular payments payable to the payee, the amount prescribed under section 24LC(3) of that Act and pay it to the Commissioner.
+(2) When the person making the schedular payment has been notified under section 24I of the Tax Administration Act 1994 of the payee’s name and tax file number, the person must withhold an amount of tax for the payment at—
+  (a) the payee’s elected rate, for a payee, other than a payee referred to in paragraph (b), who chooses a tax rate under section 24F(3) of that Act:
+  (b) the special tax rate set by the Commissioner, for a payee who has been provided with a special tax rate under section 24G of that Act:
+  (c) in other cases, the applicable tax rate set out in schedule 4 (Standard rates of tax for schedular payments).
+Rates set by Commissioner
+(3) Despite subsection (2), if the person making the schedular payment has been notified of a rate under section 24F(4) of that Act, the person must use that rate in relation to the payment, subtracting the amount notified or the amount equal to the percentage prescribed, as applicable, and paying the amount to the Commissioner.
+Default rates
+(4) When the person making the schedular payment has not been notified of the payee’s name and tax file number under section 24I, the person must withhold an amount of tax for the payment that is—
+  (a) for a payee that is a company that is non-resident, 20% of the amount of the payment:
+  (b) in all other cases, 45% of the amount of the payment.
 Non-resident entertainer rate
 (5) Despite subsections (2), (3), and (4), the tax rate, if the payee is a non-resident entertainer, is 0.20.
 
@@ -37557,13 +37897,11 @@ When Commissioner makes determination under section RD 8(3)
 
 ### RD 12 Multiple payments of salary or wages
 When this section applies
-(1) This section applies when an employee receives more than 1 payment of salary or wages in a week or part of a week that ends on a Saturday. The employment may relate to 1 or more employment situations.
-When this section does not apply
-(2) This section does not apply—
-  (a) when an employee leaves regular full-time employment before engaging in another regular full-time employment; or
-  (b) to salary or wages from employment as a casual agricultural employee, election day worker, or non-resident seasonal worker.
+(1) This section applies when an employee receives more than 1 payment of salary or wages from their employer in a week or part of a week. The employment may relate to 1 or more employment situations with that employer.
+What this section does not apply to
+(2) This section does not apply to salary or wages from employment as a casual agricultural employee, election-day worker, or non-resident seasonal worker.
 Treatment as 1 payment
-(3) The total amount of tax for all payments of salary or wages is the amount that would be required to be withheld if all the payments were treated as 1 payment made by 1 employer for the week.
+(3) The total amount of tax for all payments of salary or wages is the amount that would be required to be withheld if all the payments were treated as 1 payment made by the employer for the week.
 
 ### RD 13 Advance payments
 When this section applies
@@ -37595,7 +37933,7 @@ Calculating amounts of tax for salary or wages
 When this section applies
 (1) This section applies when an employee makes a payroll donation for a pay period for which they have a tax credit under section LD 4 (Tax credits for payroll donations).
 Subtracting amount of tax credit
-(2) The employer or PAYE intermediary must subtract the amount of the tax credit from the amount of tax for the employee's PAYE income payment for the pay period and record the information in the relevant employer monthly schedule.
+(2) The employer or PAYE intermediary must subtract the amount of the tax credit from the amount of tax for the employee's PAYE income payment for the pay period and include in their employment income information the items described in schedule 4, table 1, row 5(a) of the Tax Administration Act 1994.
 
 ### RD 14 Changes to tax rates for salary or wages
 [Repealed]
@@ -37624,7 +37962,7 @@ When this section applies
     (ii) is not for a business carried on by the employer, or an occupation or calling of the employer; and
     (iii) is not regular full-time employment.
 No amount of tax withheld
-(2) No amount of tax is required to be withheld for a PAYE income payment relating to the person’s employment as a private domestic worker when sections RA 8 (Liability of persons receiving payments or benefits) and RD 4(2) apply.
+(2) No amount of tax is required to be withheld for a PAYE income payment relating to the person’s employment as a private domestic worker when sections RA 8 (Liability of persons receiving payments or benefits) and RD 4(4) apply.
 
 ### RD 17 Payment of extra pay with other PAYE income payments
 When this section applies
@@ -37635,10 +37973,10 @@ Calculating annualised value
 (1B) For the purposes of calculating the amount that is the annualised value referred to in subsection (1)﻿(b), the amount of the extra pay referred to in subsection (1)﻿(a) and of extra pays paid to the employee in the period referred to in subsection (1)﻿(b) is excluded.
 Exclusion: non-resident seasonal workers and non-notified tax codes
 (1C) This section does not apply to—
-  (a) a non-resident seasonal worker who—
-    (i) has a tax code under section 24B(3C) of the Tax Administration Act 1994; or
-    (ii) has notified their employer of their tax code under section 24B(3)﻿(gb) of that Act:
-  (b) an employee who has a no notification tax code under section 24B(3B) of that Act.
+  (a) a non-resident seasonal worker—
+    (i) who has notified their employer of their tax code, for which see section RD 10(2C):
+    (ii) to whom schedule 5, part B, clause 3 of the Tax Administration Act 1994 applies:
+  (b) an employee who has a non-notified tax code referred to in schedule 2, part A, clause 3.
 Rates applying
 (2) For the sum of the amounts referred to in subsection (1) listed in the following paragraphs, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in the relevant row of schedule 2, part B, table 1 (Basic tax rates for PAYE income payments):
   (a) if the sum of the amounts is $14,000 or less, the amount determined by applying row 1:
@@ -37646,7 +37984,7 @@ Rates applying
   (c) if the sum of the amounts is more than $48,000 but not more than $70,000, the amount determined by applying row 3:
   (d) if the sum of the amounts is more than $70,000, the amount determined by applying row 4.
 When secondary tax codes apply
-(3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under section 24B(3)﻿(bb), (c), (d), or (e) of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula—extra pay + annualised amount + low threshold amount.
+(3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under schedule 5, part A, clause 4, rows 3 to 6 of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula—extra pay + annualised amount + low threshold amount.
 Definition of items in formula
 (4) In the formula,—
   (a) extra pay is the amount of the employee's extra pay:
@@ -37679,46 +38017,26 @@ Obligation to retain amount
 ### RD 21 When amounts of tax not withheld or payment insufficient
 Employees’ obligations
 (1) If, for any reason, some or all of the amount of tax for a PAYE income payment is not withheld at the time it is paid to an employee, the employee must—
-  (a) provide an employer monthly schedule with the relevant details; and
+  (a) provide the relevant employment income information under section 23I of the Tax Administration Act 1994 to the Commissioner; and
   (b) pay the amount of the deficiency.
 When person exempt or not liable to pay
 (2) Subsection (1)﻿(b) does not apply if the employee is exempt from paying the amount or is not liable for the amount of tax.
 When payment less than amount of tax
-(3) If the amount of money included in a PAYE income payment is less than the amount of tax for the payment, the employee must pay the amount of the deficiency to their employer or PAYE intermediary. If the employee does not pay the amount of the deficiency to their employer or PAYE intermediary, they must pay the amount to the Commissioner under section RD 4(2).
+(3) If the amount of money included in a PAYE income payment is less than the amount of tax for the payment, the employee must pay the amount of the deficiency to their employer or PAYE intermediary. If the employee does not pay the amount of the deficiency to their employer or PAYE intermediary, they must pay the amount to the Commissioner under section RD 4(4).
 
-### RD 22 Returns for amounts of tax paid to Commissioner
-Paying amount withheld with returns
-(1) An employer or a PAYE intermediary who withholds an amount of tax from a PAYE income payment must pay the amount to the Commissioner under section RD 4 and provide an employer monthly schedule and a PAYE income payment form in relation to the amount.
-General rule
-(2) The employer or PAYE intermediary must provide the PAYE income payment form referred to in subsection (1) by—
-  (a) the 20th day of the month in which they withhold an amount of tax for a PAYE income payment in a first payment period described in section RA 15(3) (Payment dates for interim and other tax payments):
-  (b) the 5th day of the month following that in which they withhold an amount of tax for a PAYE income payment in a second payment period described in section RA 15(3), or if the month is December, by the 15th day of January.
-Employer monthly schedule
-(2B) The employer or PAYE intermediary must provide the employer monthly schedule referred to in subsection (1) by the 5th day of the month following that in which they withhold an amount of tax for a PAYE income payment, or if the month is December, by the 15th day of January.
-Returns when gross amounts of tax are less than $500,000
-(3) Despite subsections (2) and (2B), an employer who meets the requirements of subsection (3B) must provide the employer monthly schedule and the PAYE income payment form by the 20th day of the month following that in which an amount of tax is withheld.
-Requirements
-(3B) For the purposes of subsection (3), the employer must—
-  (a) not be a new employer; and
-  (b) have gross amounts of tax of less than $500,000 withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for both—
-    (i) PAYE income payments:
-    (ii) employer's superannuation cash contributions.
-New employers
-(4) Despite subsections (2) and (2B), an employer who is a new employer must provide the employer monthly schedule and the PAYE income payment form by the 20th day of the month following that in which an amount of tax is withheld until their gross amounts of tax for PAYE income payments and employer's superannuation cash contributions payable for the tax year are more than $500,000.
-Thresholds
-(5) For the purposes of determining whether the threshold referred to in subsections (3) and (4) is reached, if the employer ends their business and starts a new business, or operates 2 or more businesses at the same time, all amounts of tax withheld must be aggregated.
-When business ended
-(6) In addition to the requirements of subsections (2) to (4), if the employer stops carrying on a business in relation to which an amount of tax for a PAYE income payment has been withheld, they must notify the Commissioner of the cessation by the 15th day of the second month following the month in which the business is ended.
-Single employer
-(7) For the purposes of subsections (3) and (4), the following are treated as 1 employer:
-  (a) 2 or more companies if they were a group of companies at a time in the relevant tax year:
-  (b) all partners in a partnership:
-  (c) all persons in whom property has become vested, or to whom the control of property has passed in the case of—
-    (i) an estate of a deceased person; or
-    (ii) a trust; or
-    (iii) a company in liquidation; or
-    (iv) an assigned estate; or
-    (v) another fiduciary relationship.
+### RD 22 Providing employment income information to Commissioner
+Employment income information
+(1) An employer or PAYE intermediary who withholds an amount of tax for a PAYE income payment must provide the relevant employment income information to the Commissioner under sections 23E to 23H and 23J of the Tax Administration Act 1994 by the dates set out in those provisions.
+Tailored tax code or rates of tax
+(2) Subsection (1) also applies to require an employer or PAYE intermediary to deliver employment income information in relation to an employee who has—
+  (a) a tailored tax code of zero provided by the Commissioner under section 24D of the Tax Administration Act 1994:
+  (b) a special tax rate of zero provided by the Commissioner under section 24G of that Act.
+Benefits under employee share schemes
+(3) For a benefit that an employee or former employee of an employer receives under an employee share scheme, the employer or PAYE intermediary must provide the relevant employment income information to the Commissioner under sections 23E to 23H of that Act as modified by section 23K of that Act.
+Exception
+(4) Subsection (3) does not apply—
+  (a) when the employee share scheme beneficiary is a former employee for whom the employer has not chosen under section RD 7B to withhold an amount of tax:
+  (b) to a benefit under an exempt ESS.
 
 ### RD 23 Bonds given by employers of certain non-resident employees
 When this section applies
@@ -37728,8 +38046,8 @@ Providing bond
 Consequences of acceptance of bond
 (3) If the Commissioner accepts the bond or security referred to in subsection (2),—
   (a) the employer or PAYE intermediary must not withhold the amount of tax for a PAYE income payment to the employee; and
-  (b) information concerning the employee must not be included in an employer monthly schedule; and
-  (c) the no notification rate referred to in section 24B(3B) of the Tax Administration Act 1994 must not be used in relation to the PAYE income payment.
+  (b) information concerning the employee must not be included in employment income information; and
+  (c) a non-notified tax code under section 24E of the Tax Administration Act 1994 must not be used in relation to the PAYE income payment.
 When subsection (3) no longer applies
 (4) If the employee later becomes liable to pay income tax because of an event provided for in an arrangement made under section BH 1 (Double tax agreements) or CW 19, the application of subsection (3) ends, and the employer or PAYE intermediary must withhold the amount of tax for a PAYE income payment made to the employee.
 Employee’s liability
@@ -37737,14 +38055,14 @@ Employee’s liability
 Treatment of amount paid under subsection (5)
 (6) An amount paid to the Commissioner under subsection (5) is treated as the amount of tax for a PAYE income payment made on the date of the Commissioner’s notice. Section 120U of the Tax Administration Act 1994 overrides this subsection.
 
-### RD 24 Exemption certificates for non-resident contractors
+### RD 24 Exemptions for non-resident contractors
 When this section applies
 (1) This section applies when—
   (a) a non-resident contractor derives an amount from a contract activity or service that is not income, whether because of a double tax agreement or for another reason; or
   (b) the contractor provides a bond or other security for the payment of any income tax payable on an amount derived by them from a contract activity or service; or
   (c) the contractor has in the period of 24 months before the date of the application referred to in subsection (2) paid all income tax payable by them and complied with their obligations under the Inland Revenue Acts, and the Commissioner is satisfied that the contractor will continue to do this.
-Exemption certificate
-(2) The non-resident contractor may apply to the Commissioner to provide them with an exemption certificate under section 24M of the Tax Administration Act 1994 for a contract payment made to them or another person acting on their behalf in relation to a contract activity or service set out in the certificate for which no amount of tax is to be withheld.
+Exemptions
+(2) The non-resident contractor may apply to the Commissioner to provide them with an exemption under section 24H of the Tax Administration Act 1994 for a contract payment made to them or another person acting on their behalf in relation to a contract activity or service set out in the certificate for which no amount of tax is to be withheld.
 
 **Introductory provisions**
 
@@ -37914,7 +38232,7 @@ Value of benefit
 Using method for 2 income years
 (3) Having made an election under subsection (1), the employer must use the method for the income year to which the election relates and for the next income year.
 Notifying Commissioner of change to method
-(4) An employer may not change the method of calculating the value of the benefit for an income year unless the employer notifies the Commissioner of the proposed change at least 1 year before the start of the income year in which the change is to occur.
+(4) An employer may not change the method of calculating the value of the benefit for an income year, other than from a method given by a paragraph of subsection (5) to the method given by the other paragraph of subsection (5), unless the employer notifies the Commissioner of the proposed change at least 1 year before the start of the income year in which the change is to occur.
 Effectiveness of election in some cases
 (4B) Despite subsections (3) and (4), the method chosen by an employer described in subsection (1)﻿(b) takes effect for the first quarter beginning after the Commissioner receives the election, if the employer—
   (a) is not in the business of lending money; and
@@ -37924,10 +38242,15 @@ Effectiveness of election in some cases
 Minimum period of use for method in some cases
 (4C) Despite subsections (3) and (4), if subsection (4B) applies to the employer’s chosen method, the employer must use the method for a period beginning with the start of the first quarter to which the election applies under subsection (4B) and ending with the finish of the income year following the income year that includes the start of the first quarter.
 Market interest
-(5) In this section, market interest means the amount of interest calculated at the interest rate that would apply to a borrower belonging to a group of persons to whom a loan of the kind provided to the employee is offered when the group meets the following requirements:
-  (a) the group has a comparable credit risk to the group to which the employee belongs; and
-  (b) membership of the group arises from a factor or factors that do not include a connection between a member and the employer; and
-  (c) the group is sufficient in number to ensure a transaction on an arm’s-length basis.
+(5) In this section, market interest means the amount of interest calculated at the rate of interest that—
+  (a) would apply to a borrower belonging to a group of persons to whom a loan of the kind provided to the employee is offered when—
+    (i) the group has a comparable credit risk to the group to which the employee belongs; and
+    (ii) membership of the group arises from a factor or factors that do not include a connection between a member and the employer; and
+    (iii) the group is sufficient in number to ensure a transaction on an arm’s length basis; or
+  (b) is the lowest rate of interest for a loan, of the kind provided to the employee, that is provided by the lender—
+    (i) to customers for which the characteristics that are treated by the lender as relevant to the rate of interest for a loan are similar to those of the employee; and
+    (ii) in the ordinary course of business; and
+    (iii) during the quarter (the loan quarter) in which the loan is provided to the employee, or during the preceding quarter if calculating the rate for the loan quarter is impracticable.
 Calculating amount of interest
 (6) For the purposes of subsection (5), the amount of interest is the amount accrued on the loan during the quarter or tax year calculated on the daily balance of the loan at the rate referred to in the subsection.
 
@@ -38346,7 +38669,7 @@ Determining amount of contribution
   (a) the amount of the contribution received by the superannuation fund or, for a contribution paid to the Commissioner under the KiwiSaver Act 2006, received by the Commissioner for payment to the superannuation fund; and
   (b) the amount of tax withheld for the employer’s superannuation contribution.
 Payment of amount of tax
-(3) An employer or person who makes an employer's superannuation cash contribution on behalf of an employee or past employee must pay to the Commissioner the amount of tax for the contribution. The amount is payable in 2 payment periods in a month as set out in section RA 15 (Payment dates for interim and other tax payments) unless they are an employer to whom section RD 22(3) applies.
+(3) An employer or person who makes an employer's superannuation cash contribution on behalf of an employee or past employee must pay to the Commissioner the amount of tax for the contribution. The amount is payable in 2 payment periods in a month as set out in section RA 15 (Payment dates for interim and other tax payments) unless they are an employer to whom RD 4(2) applies.
 Contributions to KiwiSaver schemes and complying superannuation funds
 (4)
 Formula: subsection (4)﻿(b)﻿(i)
@@ -38466,7 +38789,7 @@ Exclusions from dividends
   (e) a dividend that is non-resident passive income:
   (f) a dividend derived by a non-resident other than a dividend that has a source in New Zealand:
   (fb) a dividend paid by a company and derived by another company, if the dividend is fully imputed and the paying company chooses to exclude the dividend from being resident passive income:
-  (g) a dividend paid by a company and derived by another company when both are part of the same group of companies at the time of the payment:
+  (g) a dividend paid by a company and derived by another company when both are part of the same group of companies at the time of the payment, other than a dividend referred to in section CW 10(3):
   (gb) an amount treated as a dividend under section CB 32C (Dividend income for first year of look-through company):
   (h) a dividend that is excluded income under section CX 50B (Contributions to retirement savings schemes) or would be excluded income under that section in the absence of subsection (2)﻿(a) and (b):
   (i) a dividend other than a non-cash dividend that—
@@ -39577,14 +39900,7 @@ Refunds arising from mistakes
 (2)
 
 ### RM 5 Overpayment on income statements
-When this section applies
-(1) This section applies when an income statement has been provided to a person and the result is that an amount of tax must be refunded to the person. For the purposes of this section, the amount of tax must be more than $600.
-Refundable credits
-(1B) An amount of tax under subsection (1) includes an amount of a refundable tax credit to which section LA 5(5) (Treatment of remaining credits) applies.
-Refund on confirmation of correctness
-(2) The Commissioner may refund the amount of tax only after the person has confirmed that the income statement is correct.
-Threshold amount
-(3) The Governor-General may make an Order in Council increasing the amount set out in subsection (1).
+[Repealed]
 
 ### RM 6 Refunds after 4-year period ends
 [Repealed]
@@ -39861,10 +40177,18 @@ For a period in which a person remains a listed PAYE intermediary, they must—
 
 ### RP 4 Payment of subsidies to certain PAYE intermediaries
 Requirements for payment of subsidy
-(1) The Commissioner may pay a subsidy to a listed PAYE intermediary for a payroll service that they provide to an employer to whom section RD 22(3) or (4) (PAYE income payment forms for amounts of tax paid to Commissioner) applies if the listed PAYE intermediary—
+(1) The Commissioner may pay a subsidy to a listed PAYE intermediary for a payroll service that they provide to an employer to whom subsection (1B) applies if the listed PAYE intermediary—
   (a) has a contract with the employer to provide the services; and
   (b) has met their obligations under sections RP 13 to RP 16; and
   (c) files a correct subsidy claim form under section 124R of the Tax Administration Act 1994.
+Requirements for employers
+(1B) For the purposes of subsection (1), the employer must have, for the preceding tax year, a total gross amount of tax of less than $50,000 withheld under section RA 5(1)﻿(a) and (c) (Tax obligations for employment-related taxes) for—
+  (a) PAYE income payments:
+  (b) employer’s superannuation cash contributions.
+New employers
+(1C) For the purposes of the threshold amount in subsection (1B), an employer who is a new employer may estimate whether the total gross amount of tax for the tax year is likely to be less than the threshold amount.
+Commissioner’s discretion
+(1D) Despite subsection (1B), the Commissioner may regard the employer as continuing to meet the requirements of that subsection even though the total gross amount of tax exceeds the threshold amount if the excess relates to an amount that is not a recurring amount, for example, a redundancy payment or a payment on retirement.
 Notification requirements
 (2) If a subsidy under subsection (1) is paid to a listed PAYE intermediary, the Commissioner must notify the intermediary of the following matters within 14 days of the date of the payment:
   (a) the amount of the subsidy paid in relation to each employer; and
@@ -39874,7 +40198,7 @@ Calculating amount of subsidy
 (3) The listed PAYE intermediary must calculate the amount of the subsidy in the manner provided by regulations made under this section.
 Paying amount of subsidy
 (4) The Commissioner must pay the amount of the subsidy within 30 days of receiving the last of—
-  (a) the employer monthly schedule to which the subsidy claim form relates:
+  (a) the employment income information to which the subsidy claim form relates:
   (b) the payment of the amounts of tax for a PAYE income payment to which the subsidy claim form relates:
   (c) the subsidy claim form.
 Bank accounts
@@ -39922,14 +40246,8 @@ PAYE liabilities
 ESCT liabilities
 (3) If the PAYE intermediary assumes the employer’s obligations under the ESCT rules, the employer is not liable under the ESCT rules in relation to the employee and the pay period. However, the employer remains liable for the payment to the employee of the employer's superannuation cash contribution made on the employee's behalf.
 
-### RP 8 Information required from employers
-An employer must—
-  (a) keep a record of—
-    (i) the gross salary or wages of an employee for a pay period; and
-    (ii) the amounts of tax withheld by the employer for the pay period; and
-    (iii) the amount of any payroll donations for the pay period; and
-    (iv) the amount of any tax credit under section LD 4 (Tax credits for payroll donations); and
-  (b) provide information a PAYE intermediary seeks in the time agreed by the employer and PAYE intermediary.
+### RP 8 Information for PAYE intermediaries
+An employer must provide the information sought by a PAYE intermediary within the time agreed by the employer and intermediary.
 
 ### RP 9 Authorised transfers from accounts
 When this section applies
@@ -39967,10 +40285,10 @@ No liability as employer
 ### RP 14 Collection, payment, and information requirements
 A PAYE intermediary must—
   (a) calculate and withhold the amount of tax for a payment of salary or wages, and pay the amount to the Commissioner by electronic means and in the format required; and
-  (ab) transfer the amount of any payroll donation to the relevant recipient within the period described in section 24Q of the Tax Administration Act 1994; and
-  (b) provide an employer monthly schedule to the Commissioner by electronic means and in the format required; and
-  (c) provide a PAYE income payment form to the Commissioner if required; and
-  (d) keep the records referred to in section 24 of the Tax Administration Act 1994.
+  (ab) transfer the amount of any payroll donation to the relevant recipient within the period described in section 124ZG of the Tax Administration Act 1994; and
+  (b) provide the relevant employment income information to the Commissioner under subpart 3C of that Act in electronic form and by means of an electronic communication as prescribed by the Commissioner; and
+  (c)
+  (d) keep the records referred to in section 22AA of that Act.
 
 ### RP 15 When employers have authorised transfers from accounts
 If a PAYE intermediary has been given an authorisation by an employer under section RP 2(1), the intermediary must direct that, at or before the time of the transfer of the payment of salary or wages, an amount equal to the amount of tax for the payment required under the PAYE rules and ESCT rules is transferred to—
@@ -40002,7 +40320,8 @@ Use of funds in tax pooling accounts
   (a) provisional tax other than under the AIM method:
   (b) terminal tax:
   (c) an increased amount of tax described in subsection (3):
-  (d) interest under Part 7 of the Tax Administration Act 1994 on an increased amount of tax described in subsection (3).
+  (d) interest under Part 7 of the Tax Administration Act 1994 on an increased amount of tax described in subsection (3):
+  (e) interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax described in subsection (4).
 When original liability increased
 (3) For the purposes of this section, an increased amount of tax—
   (a) arises when a person's previous assessed liability is increased after—
@@ -40023,7 +40342,7 @@ When original liability increased
     (iii) the Commissioner and the person enter the agreement on or after the date on which the Taxation (Annual Rates for 2015–16, Research and Development, and Remedial Matters) Act 2016 receives the Royal assent:
   (c) does not include the amount of the previous assessment or the amount that was previously payable under paragraph (ab) or (ac), as applicable.
 Transfers for provisional tax or terminal tax
-(4) A person who chooses to use funds in a tax pooling account to satisfy an obligation for provisional tax other than under the AIM method or terminal tax for a tax year may ask the tax pooling intermediary to arrange the transfer of an amount to their tax account with the Commissioner as follows:
+(4) A person who chooses to use funds in a tax pooling account to satisfy an obligation for provisional tax (other than under the AIM method) for a tax year, terminal tax for a tax year, or interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax may ask the tax pooling intermediary to arrange the transfer of an amount to their tax account with the Commissioner as follows:
   (a) on or before the date that is 75 days after their terminal tax date for the tax year unless paragraph (b) or (c) applies:
   (b) on or before the date that is 76 days after their terminal tax date for the tax year if—
     (i) the person's balance date falls at the end of October, November, or December; and
@@ -40037,7 +40356,9 @@ Transfer within 60 days for deferrable tax, agreed delay tax, and use of money i
 (6) If a person chooses to use funds in a tax pooling account to satisfy an obligation for deferrable tax under subsection (3)﻿(b), for agreed delay tax referred to in subsection (3)﻿(bb), or for interest under Part 7 of the Tax Administration Act 1994 on deferrable tax or agreed delay tax, the tax pooling intermediary must apply to the Commissioner within 60 days from the date on which the court proceedings are finally determined to transfer the amount to the person's tax account with the Commissioner. For the purposes of this subsection, court proceedings include proceedings before the Taxation Review Authority.
 Maximum amount of transfer
 (7) The maximum amount that a person may ask a tax pooling intermediary to transfer to meet an obligation to pay tax is—
-  (a) for a transfer under subsection (4)﻿(a) or (b), the amount payable:
+  (a) for a transfer under subsection (4)﻿(a) or (b), the total of—
+    (i) the provisional tax or terminal tax payable:
+    (ii) interest under Part 7 of the Tax Administration Act 1994 on the provisional tax or terminal tax:
   (b) for a transfer under subsection (4)﻿(c), the amount of the funds deposited by the person under section RP 18:
   (c) for a transfer under subsection (5), the total of—
     (i) the increased amount of tax payable:
@@ -40094,10 +40415,10 @@ Transferring amounts
 (1) A tax pooling intermediary may apply to the Commissioner to transfer an amount in their tax pooling account to the tax account of a person who is their client or to another intermediary.
 Treatment of transferred amounts
 (1B) An amount transferred and credited to the tax account of a person for provisional tax or terminal tax is treated as follows:
-  (a) for an amount credited on or before the person's terminal tax date for a tax year, as income tax paid to meet a provisional tax obligation under the provisional tax rules:
-  (b) for an amount credited after the person's terminal tax date for a tax year,—
+  (a) for an amount credited on or before the date that is, or would have been, the person’s final instalment date for a tax year, as income tax paid to meet a provisional tax obligation under the provisional tax rules:
+  (b) for an amount credited after the date that is, or would have been, the person’s final instalment date for a tax year,—
     (i) first, as applied under section 120F of the Tax Administration Act 1994 to pay interest that the person is liable to pay; and
-    (ii) secondly, as income tax paid to meet the person's provisional tax obligation.
+    (ii) secondly, as income tax paid to meet the person’s provisional tax obligation.
 Credited on date of deposit or later
 (2) The intermediary may apply to the Commissioner that the amount of a transfer under subsection (1) is credited in the person's tax account or the account of another intermediary on the date on which the amount was deposited in the tax pooling account or on some later date.
 Credit date
@@ -40131,7 +40452,7 @@ Effective date of transfer
 Refunds
 (5) If an overpayment arises as a result of a transfer under this section, the amount of the overpayment is treated as follows:
   (a) first, the amount is transferred to meet a liability of the person for—
-    (i) provisional tax and terminal tax referred to in section RP 17B(4)﻿(a) or (b):
+    (i) provisional tax (other than under the AIM method), terminal tax, and interest under Part 7 of the Tax Administration Act 1994, referred to in section RP 17B(4)﻿(a) or (b):
     (ii) an amount referred to in section RP 17B(5) consisting of an increased amount of tax and interest payable under Part 7 of the Tax Administration Act 1994 on the increased amount of tax:
     (iii) an amount referred to in section RP 17B(6) consisting of deferrable tax, or agreed delay tax, and interest payable under Part 7 of the Tax Administration Act 1994 on the deferrable tax or agreed delay tax:
   (b) secondly, the amount is transferred with an effective date that is no earlier than the date on which the Commissioner received the later application:
@@ -40523,6 +40844,8 @@ In this Act, unless the context requires otherwise,—
   - **apply** , for a mode of communication, has the meaning set out in section 14C of the Tax Administration Act 1994
   - **approved AIM provider** means a person that the Commissioner has approved as an approved AIM provider under section 15U of the Tax Administration Act 1994, if the approval has not been revoked under section 15V of that Act
   - **approved issuer** means a person for whom an approval under section 32M of the Tax Administration Act 1994 is in force
+  - **approved research and development cap** is defined in section 3(1) of the Tax Administration Act 1994
+  - **approved research provider** is defined in section 3(1) of the Tax Administration Act 1994
   - **arm's length amount** , for an arrangement that is a cross-border arrangement under section GC 6 (Purpose and application of rules and nature of arrangements) means an arm's length amount of consideration under section GC 13 (Calculation of arm's length amounts)
   - **arrangement** means an agreement, contract, plan, or understanding, whether enforceable or unenforceable, including all steps and transactions by which it is carried into effect
   - **arrangement for assistance entered into by the government of New Zealand** is defined in section CW 22(3) (Amounts derived by overseas experts and trainees in New Zealand by government arrangement) for the purposes of that section
@@ -40848,7 +41171,8 @@ In this Act, unless the context requires otherwise,—
   - **continental shelf** is defined in the Continental Shelf Act 1964
   - **continuity period** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of that section:
-    (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
+    (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section:
+    (c) is defined in section LY 8(4) (Carry forward for remaining research and development tax credits) for the purposes of that section
   - **continuity provisions** means—
     (a) section GB 3 (Arrangements for carrying forward loss balances: companies); and
     (b) section GB 4 (Arrangements for grouping tax losses: companies); and
@@ -40857,6 +41181,7 @@ In this Act, unless the context requires otherwise,—
     (d) section IA 5 (Restrictions on companies’ loss balances carried forward); and
     (e) section IC 1 (Company A making tax loss available to company B); and
     (f) section LP 3(4) (Use of remaining credits); and
+    (fba) section LY 8 (Carry forward for remaining research and development tax credits); and
     (fb) section MX 7 (Reinstatement of R&D tax losses and R&D repayment tax); and
     (g) section OB 41 (ICA debit for loss of shareholder continuity); and
     (h)
@@ -40921,6 +41246,7 @@ In this Act, unless the context requires otherwise,—
   - **co-operative company** does not include a statutory producer board
   - **copyright in a sound recording** means the copyright in the version of the recording of which copies have been sold or offered for sale to the public
   - **core acquisition price** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
+  - **core research and development activity** is defined in section LY 2 (Key terms)
   - **core technology** means technology which is used as a basis for research or development
   - **corpus** is defined in section HC 4 (Corpus of trust)
   - **corresponding income year** , for a tax year, means an income year that ends in the period starting on 1 October in the tax year and ending on 30 September immediately after the tax year
@@ -40989,6 +41315,7 @@ In this Act, unless the context requires otherwise,—
   - **CTR ratio**
   - **CTRA**
   - **current accounting year**
+  - **current market value** is defined in section HR 12 (Non-exempt charities: treatment of tax-exempt accumulations) for the purposes of that section
   - **current value** is defined in section HR 3(4) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **date of acquisition** is defined in section CB 6A (Disposal within 5 years: bright-line test for residential land) for the purposes of that section, section CB 16A (Main home exclusion for disposal within 5 years), and section 54C of the Tax Administration Act 1994
   - **date of transfer** , in subpart FB (Transfers of relationship property), and in the definitions of , for property transferred under a relationship agreement, means the date on which the property was transferred
@@ -41207,6 +41534,7 @@ In this Act, unless the context requires otherwise,—
   - **elective attributing FIF** for an interest holder and an accounting period, means a FIF for which the interest holder uses the attributable FIF income method and has made an election under section EX 73 (Election that CFC not non-attributing active CFC or FIF not non-attributing active FIF) that is effective for the accounting period
   - **electronic format** means the format and the electronic means by which a return or particulars that are filed electronically are provided
   - **eligible hedge** is defined in section EM 8 (Some definitions) for the purposes of subpart EM (Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests)
+  - **eligible research and development expenditure** is defined in section LY 5 (Eligible research and development expenditure)
   - **emergency call** is defined in section CX 34 (Meaning of emergency call)
   - **emergency event**
   - **emigrating company** is defined in section FL 1(1) (What this subpart does)
@@ -41247,23 +41575,7 @@ In this Act, unless the context requires otherwise,—
     (db) is defined in section CE 1(3)﻿(a) (Amounts derived in connection with employment) for the purposes of that section and sections CE 1B, and CW 16B to CW 16F (which relate to accommodation provided in connection with employment):
     (e) for an employee, means the employer of the employee
   - **employer contribution** has the same meaning as in the KiwiSaver Act 2006
-  - **employer monthly schedule** means a form that an employer must provide to the Commissioner in manual format or in electronic format, or that a PAYE intermediary must provide to the Commissioner in electronic format, showing—
-    (a) the name and tax file number of the employer; and
-    (b) the name of every person who was an employee of the employer at any time during the period to which the employer monthly schedule relates; and
-    (c) if supplied to the employer, the tax file number of each employee to whom paragraph (b) refers; and
-    (d) the tax code of each employee to whom a PAYE income payment that is not an extra pay is made; and
-    (e) for each employee in the month to which the schedule relates,—
-      (i) the amount of gross earnings:
-      (ii) the total amount of tax withheld:
-      (iii) the total amount of tax credits under section LD 4 (Tax credits for payroll donations):
-      (iv) the amount of earnings not liable to the earner premium; and
-    (f) if applicable, particulars of child support deductions made, and salary or wage deductions made under the Student Loan Scheme Act 2011; and
-    (g) for each employee in the month to which the schedule relates, if applicable, the amount of total KiwiSaver contribution deductions made under Part 3, subpart 1 of the KiwiSaver Act 2006; and
-    (h) for each employee in the month to which the schedule relates, if applicable, the amount of employer's superannuation cash contributions, less any ESCT payable under the ESCT rules; and
-    (i) in the month in which an employee starts, the date on which they started to be an employee of the employer; and
-    (j) in the month in which an employee ceases, the date on which they ceased to be an employee of the employer; and
-    (k) the identity of each employee who received an extra pay at a rate less than the rate set out in schedule 2, part B, table 1, row 3 (Basic tax rates for PAYE income payments); and
-    (l) other particulars required by the Commissioner for a class of employer
+  - **employer monthly schedule**
   - **employer-sourced superannuation savings** means—
     (a) employer's superannuation cash contributions under section RA 5(1)﻿(c) (Tax obligations for employment-related taxes) made on or after 1 April 2000 other than—
       (i) those that are treated as salary and wages under section RD 68 (Choosing to have amount treated as salary or wages); or
@@ -41283,6 +41595,7 @@ In this Act, unless the context requires otherwise,—
   - **employment income** means an amount that is income under section CE 1 (Amounts derived in connection with employment), and includes—
     (a) salary or wages to which section RD 3B or RD 3C (which relate to income other than PAYE) applies:
     (b) income, other than from a PAYE income payment, to which section RD 3B or RD 3C applies
+  - **employment income information** is defined in section 23C of the Tax Administration Act 1994
   - **employment limitation** is defined in section DA 2(4) (General limitations)
   - **employment-related loan** means a loan that is a fringe benefit
   - **end date** —
@@ -41311,6 +41624,7 @@ In this Act, unless the context requires otherwise,—
       (i) salary or wages that the employer estimates will be derived by the employee in the tax year in which the contribution is paid; and
       (ii) the gross amount of employer’s superannuation contributions before ESCT is withheld that the employer estimates that they will pay on behalf of the employee in the tax year in which the contribution is paid
   - **ESCT rules** means the provisions listed in section RD 64 (ESCT rules and their application)
+  - **ESS deferral date** is defined in section CE 2(9) (Benefits under employee share schemes) for the purposes of that section and sections RD 6 and RD 7B (which relate to amounts of tax for benefits under employee share schemes)
   - **established activity**
   - **estate** in relation to land, in relation to land, , , , and similar terms—
     (a) mean an estate or interest in the land, whether legal or equitable, and whether vested or contingent, in possession, reversion, or remainder; and
@@ -41381,7 +41695,7 @@ In this Act, unless the context requires otherwise,—
     (e) payable for bonus bonds or Post Office bonus bonds (as each of those terms is defined in section 2 of the Post Office Bank Act 1987); or
     (f) payable on an overpaid levy under section 173 of the Accident Compensation Act 2001; or
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
-  - **exemption certificate** means a certificate provided by the Commissioner under section 24M of the Tax Administration Act 1994
+  - **exemption certificate**
   - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
   - **existing farmer**
   - **existing privilege** is defined in section 2(1) of the Crown Minerals Act 1991, and includes mining privilege and mining licence under the Mining Act 1971 and prospecting licence or mining licence under the Petroleum Act 1937
@@ -41677,7 +41991,7 @@ In this Act, unless the context requires otherwise,—
       (i) an agreement that is a conditional or an unconditional agreement to acquire or dispose of property, or obtain or supply services, if the agreement can be settled without the property being delivered or the services being performed:
       (ii) an agreement that is a conditional or an unconditional agreement to acquire or dispose of foreign exchange or a financial arrangement:
     (b) in the old financial arrangements rules, is defined in section EZ 48 (Definitions)
-  - **friendly society** means a society or credit union or association of credit unions registered or treated as registered under the Friendly Societies and Credit Unions Act 1982
+  - **friendly society** means a society or credit union or association of credit unions registered, treated as registered, or incorporated under the Friendly Societies and Credit Unions Act 1982
   - **fringe benefit** is defined in section CX 2 (Meaning of fringe benefit)
   - **fringe benefit tax** means fringe benefit tax payable under section RD 26 (Liability for FBT), and has the same meaning
   - **fringe benefit tax rules** means the provisions listed in section RD 25 (FBT rules and their application) and has the same meaning
@@ -41722,7 +42036,7 @@ In this Act, unless the context requires otherwise,—
       (ii) carrying on a business for the purposes of deriving assessable income
   - **geothermal well** means a bore or well solely for the purpose of investigating or exploiting geothermal energy in New Zealand
   - **gifting settlor** is defined in section EX 46(12) (Limits on choice of calculation methods)
-  - **goods** , in subpart MX (Tax credits for R&D tax losses), in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), EA 3 (Prepayments), GB 54 (Arrangements involving establishments), and YD 4B (Meaning of permanent establishment), and in the definitions of , , and , is defined in section 2 of the Goods and Services Tax Act 1985
+  - **goods** , in subparts LY (Research and development tax credits) and MX (Tax credits for R&D tax losses), in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), EA 3 (Prepayments), GB 56 (Arrangements involving research and development tax credits), GB 54 (Arrangements involving establishments), and YD 4B (Meaning of permanent establishment), and in the definitions of , , and , is defined in section 2 of the Goods and Services Tax Act 1985
   - **government screen production payment**
   - **government stock** is defined in section DZ 11(3) (Film reimbursement scheme on or before 30 June 2001) for the purposes of that section
   - **Government Superannuation Fund** means the fund established under the Government Superannuation Fund Act 1956
@@ -41889,7 +42203,7 @@ In this Act, unless the context requires otherwise,—
   - **income interest** ,—
     (a) for a foreign company, is defined in sections EX 8 to EX 13 (which relate to the calculation of a person’s income interest):
     (b) in subparts FE (Interest apportionment on thin capitalisation) and OE (Branch equivalent tax accounts (BETA)), and in the imputation rules, means an income interest of 10% or greater under the rules in sections EX 14 to EX 17 (which relate to the 10% threshold and variations in the income interest level)
-  - **income statement** means a statement issued by the Commissioner to a natural person that contains the information required by section 80E of the Tax Administration Act 1994
+  - **income statement**
   - **income tax** means income tax imposed under section BB 1 (Imposition of income tax) except to the extent to which it has a different meaning under section YA 2 (Meaning of income tax varied)
   - **income tax liability** —
     (a) means, for a person,—
@@ -41919,6 +42233,15 @@ In this Act, unless the context requires otherwise,—
     (b) section 75 of the Copyright Act 1994 provides for a special exception from copyright protection for the copyright in the artistic work; and
     (c) the relevant period for the special exception, in section 75(1)﻿(c) to (e) of the Copyright Act 1994, has not started
   - **industry research co-operative**
+  - **ineligible internal software development** —
+    (a) means software development for the purpose of the internal administration of a person’s business or an associate’s business; but
+    (b) does not include software development if and to the extent to which—
+      (i) the software development is for the main purpose of disposing of the software or a right to use the software to recipients who are not associated with the person:
+      (ii) the software is an integral part of goods that the person disposes of in the ordinary course of business:
+      (iii) the software is developed for the purpose of providing services, and the main reason why the recipients of the services use the services is not the use of the person’s computer technology or software itself, but rather the services themselves
+  - **ineligible technology expenditure** —
+    (a) means, for a person, expenditure or loss that is incurred to acquire the right to use technology upon which a core research and development activity is based:
+    (b) includes expenditure or loss that is incurred to acquire the right to use technology, if the relevant research and development activities to which the technology relates are an extension, continuation, development, or completion of the activities that produced that technology
   - **inflation-indexed instrument** means an instrument under which a person lends money and an amount payable for the money lent is determined by a fixed relationship to 1 or more indices of general price inflation in New Zealand
   - **inform** , for a mode of communication, has the meaning set out in section 14B of the Tax Administration Act 1994
   - **initial period** is defined in section FZ 3(4) (Income of lessor under specified lease) for the purposes of that section
@@ -41980,6 +42303,11 @@ In this Act, unless the context requires otherwise,—
   - **intermediary** means a person described in section RP 2 or RP 17 (which relate to PAYE intermediaries and tax pooling intermediaries) for the purposes of subpart RP (Intermediaries)
   - **internal software development**
   - **internal software development controller**
+  - **internal software development expenditure** —
+    (a) means, for a person, expenditure or loss that is incurred on developing software for the purpose of providing services, and the main reason why the recipients of the services use the services is not the use of the person’s computer technology or software itself, but rather the services themselves; but
+    (b) does not include expenditure or loss that is incurred for the purpose of developing software, if—
+      (i) the person’s main purpose is disposing of the software or a right to use the software to recipients who are not associated with the person:
+      (ii) the software is an integral part of goods that the person disposes of in the ordinary course of business
   - **internal software development group**
   - **international aircraft** is defined in section EE 67 (Other definitions)
   - **international organisation** is defined in section CW 22(3) (Amounts derived by overseas experts and trainees in New Zealand by government arrangement) for the purposes of that section
@@ -42406,11 +42734,13 @@ In this Act, unless the context requires otherwise,—
   - **minimum family tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MG and MZ (which relate to tax credits for families)
   - **minimum market value interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
-    (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
+    (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section:
+    (c) is defined in section LY 8(4) (Carry forward for remaining research and development tax credits) for the purposes of that section
   - **minimum QC interest** is defined in section HA 6(5) (Corporate requirements) for the purposes of that section
   - **minimum voting interest** —
     (a) is defined in section IA 5(6) (Restrictions on companies’ loss balances carried forward) for the purposes of Part I (Treatment of tax losses):
-    (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section
+    (b) is defined in section LP 4(3) (Continuity rules for carrying credits forward) for the purposes of that section:
+    (c) is defined in section LY 8(4) (Carry forward for remaining research and development tax credits) for the purposes of that section
   - **mining company**
   - **mining development expenditure** is defined in section DU 11 (Meaning of mining development expenditure)
   - **mining exploration expenditure** is defined in section DU 10 (Meaning of mining exploration expenditure)
@@ -42550,6 +42880,9 @@ In this Act, unless the context requires otherwise,—
   - **nominee** , in sections RE 7 and RE 8 (which relate to resident passive income paid to trustees and nominees) means a person described in section YB 21(2) (Transparency of nominees)
   - **non-attributing active CFC** is defined in section EX 21B (Non-attributing active CFCs)
   - **non-attributing Australian CFC** is defined in section EX 22 (Non-attributing Australian CFCs)
+  - **non-business researcher** means—
+    (a) a tax charity:
+    (b) an industry organisation to which a levy is payable under New Zealand statute
   - **non-cash dividend** means a dividend to the extent to which it does not consist of—
     (a) an unconditional payment in money; or
     (b) an unconditional credit in money to the balance of a shareholder’s current or other form of account with the company
@@ -42561,13 +42894,10 @@ In this Act, unless the context requires otherwise,—
   - **non-creditable dividend**
   - **non-discretionary trust** is defined in section HC 16(8) (Ordering rule for distributions from non-complying and foreign trusts) for the purposes of that section
   - **non-executive director** is defined in section CD 20(4) (Benefits of shareholder-employees or directors)
-  - **non-filing taxpayer** means—
-    (a) a person who meets the requirements of section 33AA(1) or 33D of the Tax Administration Act 1994 and to whom 1 of the following applies:
-      (i) they do not receive an income statement for a tax year; or
-      (ii) the Commissioner is not required to send them an income statement for a tax year; or
-      (iii) the Commissioner is prohibited from sending them an income statement for a tax year; or
-    (b) a person whose only income having a source in New Zealand is schedular payments derived in the person's capacity as a non-resident entertainer and who chooses not to file a return for the relevant tax year; or
-    (c) a person who, in the relevant tax year, derives only non-resident passive income referred to in section RF 2(3) (Non-resident passive income)
+  - **non-filing taxpayer** , for a person and a tax year, means—
+    (a) a person whose only income having a source in New Zealand for the tax year is a schedular payment derived in their capacity as a non-resident entertainer and who chooses not to file a return of income for the tax year; or
+    (b) a person who, for the tax year, derives only non-resident passive income referred to in section RF 2(3) (Non-resident passive income); or
+    (c) a person whose only income having a source in New Zealand for the tax year is a payment derived in their capacity as a non-resident seasonal worker
   - **non-IFRS designated FX hedge** means a forward contract for the sale or purchase of foreign currency—
     (a) for which a person uses Determination G14B: forward contracts for foreign exchange and commodities: an expected value approach under the financial arrangements rules; and
     (b) entered into by the person after the start of the first income year for which an election described in section EW 33B(2)﻿(b) (Foreign ASAPs: designated FX hedges) applies; and
@@ -42768,24 +43098,15 @@ In this Act, unless the context requires otherwise,—
       (ii) to credit them for the amount:
       (iii) to deal with the amount in their interest or on their behalf, in some other way:
     (b) for a dividend that is a bonus issue, means to issue shares or to give credit for the shares comprising the bonus issue:
-    (bb) is defined in section LD 4(7) (Tax credits for payroll donations) for the purposes of that section and section LD 8(1) (Meaning and ranking of payroll donation) and for section 24Q of the Tax Administration Act 1994:
+    (bb) is defined in section LD 4(7) (Tax credits for payroll donations) for the purposes of that section and section LD 8(1) (Meaning and ranking of payroll donation) and for section 124ZG of the Tax Administration Act 1994:
     (c) is defined in section RD 51(6) (Calculation of all-inclusive pay) for the purposes of that section:
     (d) has the meaning set out in section RF 12E (When non-resident financial arrangement income treated as paid) for the purposes of the NRWT rules
   - **pay period** , for an employee receiving regular payments of salary or wages, means the period for which any such payment is payable
+  - **payday** has the meaning given in section 3(1) of the Tax Administration Act 1994
   - **PAYE** means pay-as-you-earn and refers to an amount payable as income tax under the PAYE rules
   - **PAYE income payment** is defined in section RD 3 (PAYE income payments)
-  - **PAYE income payment form** , for an employer, means a form authorised by the Commissioner that shows—
-    (a) the period to which the form relates; and
-    (b) the name of the employer; and
-    (c) the tax file number of the employer; and
-    (d) the total amounts of tax withheld and paid; and
-    (e) the total amount of child support payments; and
-    (f) the total amount of salary or wage deductions made under the Student Loan Scheme Act 2011; and
-    (g) the total KiwiSaver contribution deductions made under the KiwiSaver Act 2006, Part 3, subpart 1; and
-    (h) the amount of an employer's superannuation cash contribution and the amount of ESCT withheld and paid; and
-    (i) the amount of an employer's superannuation cash contribution and the amount of tax withheld and paid, other than that described in paragraph (h); and
-    (j) other similar information that the Commissioner may require
-  - **PAYE income payment form period** means the payment period for which an employer must provide a PAYE income payment form under section RD 22(2) (Returns for amounts of tax paid to Commissioner)
+  - **PAYE income payment form**
+  - **PAYE income payment form period**
   - **PAYE intermediary** , for an employer, means—
     (a) a person who—
       (i) is accredited as a PAYE intermediary by the Commissioner under section 124I of the Tax Administration Act 1994; and
@@ -42794,6 +43115,7 @@ In this Act, unless the context requires otherwise,—
     (b) a person who—
       (i) no longer meets the requirements of paragraph (a); and
       (ii) has responsibilities under section RP 2(3) (PAYE intermediaries)
+  - **PAYE-related overpayment** means an amount described in section RD 8B(1) (Treatment of PAYE-related overpayments)
   - **PAYE rules** means the provisions listed in section RD 2(1) (PAYE rules and their application)
   - **payer** , in the RWT rules, means a person who makes a payment of resident passive income
   - **payment relating to incapacity for work** is defined in section CW 34(2) (Compensation payments) for the purposes of that section
@@ -43261,7 +43583,12 @@ In this Act, unless the context requires otherwise,—
   - **required interest**
   - **research** is defined in section DB 35 (Some definitions) for the purposes of that section, section DB 34, and subpart MX (which relate to research and development)
   - **research and development activities**
+  - **research and development activity** is defined in section LY 2 (Key terms)
+  - **research and development contractor** —
+    (a) means, for a research and development activity and a person (person A), another person (the contractor) that performs the research and development activity on behalf of person A:
+    (b) does not include a non-business researcher described in the definition of non-business researcher, paragraph (b)
   - **research and development project**
+  - **research and development tax credit** means a tax credit under section LY 1 (Research and development tax credits)
   - **resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
   - **resident group member** is defined in section IQ 2B(9) (Effect of attributed CFC net loss and some FIF net loss from before first affected year) for the purposes of that section and section LK 5B (Credits from tax year before first affected year)
   - **resident imputation subgroup** has the meaning given in section FN 8(2) (Trans-Tasman imputation groups and resident imputation subgroups)
@@ -43309,6 +43636,7 @@ In this Act, unless the context requires otherwise,—
       (vii) section LK 1 (Tax credits relating to attributed CFC income):
       (viii) section LK 6 (Use of tax credits by group companies):
       (ix) section LO 1 (Tax credits for Maori authority credits):
+      (x) section LY 1 (Research and development tax credits):
     (c) the amount of any credit allowed against the income tax liability arising under subpart LP (Tax credits for supplementary dividends), other than through section LP 3(3) (Use of remaining credits)
     (d)
     (e)
@@ -43420,8 +43748,8 @@ In this Act, unless the context requires otherwise,—
     (b)
   - **separated person** , in subparts MA to MG and MZ (which relate to tax credits for families), and in the definitions of and , means a person who is separated and living apart from their spouse or civil union partner, whether under an agreement for separation, or under a court order, or otherwise
   - **services** ,—
-    (a) in sections CD 5 (What is a transfer of value?) and EA 3 (Prepayments), and subpart MX (Tax credits for R&D tax losses), means anything that is not goods, money, or a chose in action:
-    (b) in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), and GB 54 (Arrangements involving establishments), in subpart MX, in section YD 4B (Meaning of permanent establishment), and in the definitions of R&D expenditure and R&D material, means anything that is not goods or money, as each of those terms is defined in section 2 of the Goods and Services Tax Act 1985
+    (a) in sections CD 5 (What is a transfer of value?) and EA 3 (Prepayments) means anything that is not goods, money, or a chose in action:
+    (b) in sections CX 1 (Goods and services tax), DB 2 (Goods and services tax), and GB 54 (Arrangements involving establishments), GB 56 (Arrangements involving research and development tax credits), subparts LY and MX, and section YD 4B (Meaning of permanent establishment), and in the definitions of R&D expenditure and R&D material, means anything that is not goods or money, as each of those terms is defined in section 2 of the Goods and Services Tax Act 1985
   - **settlement** —
     (a) means—
       (i) an act or failure to act on the part of a person that has the effect of making the person a settlor; or
@@ -43679,6 +44007,7 @@ In this Act, unless the context requires otherwise,—
   - **supplementary dividend holding company**
   - **supply** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6, GC 9 and GC 10 (which relate to transfer pricing arrangements)
   - **supporting asset base** is defined in section EY 17 (Policyholder base income: profit participation policies)
+  - **supporting research and development activity** is defined in section LY 2 (Key terms)
   - **surplus assessable income** is defined in section FH 15(1) (Definitions)
   - **surrender** , for an emissions unit, means surrender as defined in section 4(1) of the Climate Change Response Act 2002
   - **surrender value** means the amount paid (the surrender amount) when a life insurance policy is cancelled before it reaches the maturity or expiry date contracted for under the policy, excluding an amount that is the repayment of unexpired premiums. There is no netting off against the surrender amount of unpaid premiums, outstanding loans, or interest balances (the debt obligations) owed by an insured unless the policy is terminated by the insurer and the debt obligations are greater than the surrender amount
@@ -43702,7 +44031,7 @@ In this Act, unless the context requires otherwise,—
     (a) has tax avoidance as its purpose or effect; or
     (b) has tax avoidance as 1 of its purposes or effects, whether or not any other purpose or effect is referable to ordinary business or family dealings, if the tax avoidance purpose or effect is not merely incidental
   - **tax-base property** is defined in section FC 1(2) (Disposals to which this subpart applies) for the purposes of subpart FC (Distribution, transmission, and gifts of property)
-  - **tax charity** is defined in section CW 41(5) for the purposes of that section and sections CW 42 and CW 43
+  - **tax charity** is defined in section CW 41(5)
   - **tax code** , for an employee, means the employee’s tax code under section 24B of the Tax Administration Act 1994
   - **tax credit** —
     (a) is defined in section LA 10 (Meaning of tax credit):
@@ -43916,6 +44245,7 @@ In this Act, unless the context requires otherwise,—
   - **unlisted trust** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **unlisted widely-held trust** means a widely-held trust the units or interests in which are not quoted on the official list of a recognised exchange
   - **unpriced aircraft engine** , for a person and an aircraft, means an aircraft engine that the person acquires with the aircraft and that does not have, for the person, a price identified separately from the rest of the aircraft
+  - **unrepaid PAYE income overpayment** is defined in section RD 8B(3) (Treatment of PAYE-related overpayments)
   - **unused specified activity net loss** is the amount of specified activity net loss, under section IZ 1 as that section was immediately before its repeal by section 148 of the Taxation (Annual Rates for 2017–18, Employment and Investment Income, and Remedial Matters) Act 2018, that—
     (a) existed at the close of the 2017–18 income year; and
     (b) had not been included in the tax loss for the 2017–18 tax year or for an earlier tax year
@@ -45221,31 +45551,31 @@ The basic tax rate amount for a payment of salary or wages is set by applying th
   (b) the employee has notified their employer that the employee’s tax code is M or ME under section 24B(3) of the Tax Administration Act 1994.
 
 ### 2 M and ME tax codes: payments for pay periods longer than a week
-If an employee has notified their employer that the employee’s tax code is M or ME under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—(total payment ÷ weekly portion of payment) × weekly PAYE table amount.
+If an employee has notified their employer that the employee’s tax code is M or ME referred to in schedule 5, part A, clause 4, row 1 of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—(total payment ÷ weekly portion of payment) × weekly PAYE table amount.
   (a) total payment means the payment of salary or wages to which this clause applies:
   (b) weekly portion of the payment means the portion of the payment that is attributable to the part of the pay period that is for a week if it is assumed that the payment accrued at a uniform daily rate throughout the pay period:
   (c) weekly PAYE table amount means the amount that results from applying the Commissioner’s weekly PAYE table to the weekly portion of the payment (described in paragraph (b)) using the employee’s tax code, as if the weekly portion is a payment for a weekly pay period.
 
-### 3 No notification tax code
-If an employee’s tax code under section 24B(3B) of the Tax Administration Act 1994 is no notification, the basic tax rate amount for a payment of salary or wages is set by applying the rate of 0.45 for each dollar of the payment.
+### 3 Non-notified tax code
+If an employee’s tax code is a non-notified tax code under section 24E of the Tax Administration Act 1994, the basic tax rate amount for a payment of salary or wages is set by applying the rate of 0.45 for each dollar of the payment.
 
 ### 4 S tax code
-If an employee has notified their employer that the employee’s tax code is S under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.175 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is S under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.175 for each dollar of the payment.
 
 ### 5 SH tax code
-If an employee has notified their employer that the employee’s tax code is SH under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.300 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is SH under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.300 for each dollar of the payment.
 
 ### 6 ST tax code
-If an employee has notified their employer that the employee’s tax code is ST under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.330 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is ST under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.330 for each dollar of the payment.
 
 ### 7 CAE or EDW tax code
-If an employee has notified their employer that the employee’s tax code is CAE or EDW under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a casual agricultural employee or an election day worker (as applicable) is set by applying the rate of 0.175 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is CAE or EDW under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a casual agricultural employee or an election day worker (as applicable) is set by applying the rate of 0.175 for each dollar of the payment.
 
 ### 8 NSW tax code
-If an employee has notified their employer that the employee's tax code is NSW under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a non-resident seasonal worker is set by applying the rate of 0.105 for each dollar of the payment.
+If an employee has notified their employer that the employee's tax code is NSW under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a non-resident seasonal worker is set by applying the rate of 0.105 for each dollar of the payment.
 
 ### 9 “SB” tax code
-If an employee has notified their employer that the employee's tax code is SB under section 24B(3)﻿(bb) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.105 for each dollar of the payment.
+If an employee has notified their employer that the employee's tax code is SB under section 24C of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.105 for each dollar of the payment.
 
 | Row | Condition | Tax rate |
 | --- | --- | --- |
@@ -45916,7 +46246,19 @@ expenditure related to the acquisition of land
 | 11 | construction on the land of fences, including the purchase of wire or wire netting for the purpose of making new or existing fences rabbit-proof | 10 |
 | 12 | erection on the land of electric power lines or telephone lines | 10 |
 
+## Schedule 21 — Excluded activities for research and development activities tax credits
+
+### Part A — Activities that are excluded from the definition of core research and development activity
+
+### Part B — Activities that are excluded from the definition of supporting research and development activity
+
 ## Schedule 21 — Expenditure and activities related to research and development
+
+## Schedule 21B — Expenditure or loss for research and development tax credits
+
+### Part A — Eligible expenditure or loss for research and development tax credits
+
+### Part B — Ineligible expenditure or loss for research and development tax credits
 
 ## Schedule 22 — Proscribed R&D activities
 
