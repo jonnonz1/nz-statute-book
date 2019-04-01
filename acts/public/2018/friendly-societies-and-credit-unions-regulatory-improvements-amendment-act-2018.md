@@ -1,5 +1,5 @@
 # Friendly Societies and Credit Unions (Regulatory Improvements) Amendment Act 2018
-_Consolidation as at 2018-07-04_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the Friendly Societies and Credit Unions (Regulatory Improvements) Amendment Act 2018.
