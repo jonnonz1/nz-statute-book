@@ -1,5 +1,5 @@
 # New Zealand Business Number Act 2016
-_Consolidation as at 2019-03-30_
+_Consolidation as at 2019-04-01_
 
 ### 1 Title
 This Act is the New Zealand Business Number Act 2016.
@@ -51,7 +51,7 @@ In this Act, unless the context otherwise requires,—
     (f) in the case of a trust,—
       (i) if the trust has only 1 trustee, the trustee acting in his, her, or its capacity as trustee; and
       (ii) if the trust has more than 1 trustee, the trustees acting jointly in their capacity as trustees:
-    (g) a society, a branch of a society, or a credit union registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982:
+    (g) a society or a branch of a society registered or deemed to be registered under the Friendly Societies and Credit Unions Act 1982:
     (h) a thing that regulations declare to be an entity for the purposes of this Act, either generally or in specified circumstances
   - **government agency** means—
     (a) a Crown entity under section 7 of the Crown Entities Act 2004:
