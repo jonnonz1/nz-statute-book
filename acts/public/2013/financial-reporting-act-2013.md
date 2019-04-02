@@ -1,5 +1,5 @@
 # Financial Reporting Act 2013
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-04-02_
 
 ### 1 Title
 This Act is the Financial Reporting Act 2013.
@@ -808,24 +808,7 @@ The Governor-General may, by Order in Council, on the recommendation of the Mini
 ### Subpart 3 — Transitional provisions
 
 ### 55 Financial Reporting Act 1993 continues to apply to issuers
-(1) This section—
-  (a) applies to—
-    (i) every person who, immediately before the commencement of this section, was an issuer within the meaning of sections 4 to 6 of the Financial Reporting Act 1993; and
-    (ii) every person who, after the commencement of this section, makes an offer of securities under the Securities Act 1978 (whether under Part 1 of Schedule 4 of the Financial Markets Conduct Act 2013 or otherwise) and who, if the Financial Reporting Act 1993 had not been repealed, would have been an issuer under section 4(1)﻿(a) to (b) of that Act; and
-    (iii) every person who, after the commencement of this section, becomes a person referred to in section 4(1)﻿(ba) of the Financial Reporting Act 1993 as a result of an offer referred to in subparagraph (ii); and
-    (iv) every person who, after the commencement of this section, becomes a person referred to in section 4(1)﻿(c) of the Financial Reporting Act 1993; but
-  (b) does not apply to either of the following:
-    (i) an operator referred to in section 4(1)﻿(e) of the Financial Reporting Act 1993 (unless the operator would otherwise be an issuer under that section):
-    (ii) any other person of a prescribed class.
-(2) The directors of a person to whom this section applies (A) must, in respect of A, continue to comply with the Financial Reporting Act 1993 as if that Act had not been repealed by this Act (and as if A continued to be an issuer) in relation to every accounting period of A.ExampleABC Limited is an issuer under section 4(1)﻿(a) of the Financial Reporting Act 1993 by virtue of an offer of securities to the public.The directors of ABC Limited must continue to prepare and register financial statements and group financial statements for ABC Limited and to have those statements audited in accordance with the Financial Reporting Act 1993. The duty ceases in respect of accounting periods that commence on or after a prescribed date. After the prescribed date, the company may have financial reporting duties under the Financial Markets Conduct Act 2013 or the Companies Act 1993. In addition, the duty under this section will not apply if ABC Limited is required to prepare financial statements under Part 7 of the Financial Markets Conduct Act 2013.
-(3) Subsection (2) ceases to apply to accounting periods that commence on or after a date to be prescribed by, or determined in accordance with, regulations made for the purposes of this subsection.
-(4) The Financial Reporting Act 1993 (including sections 36 to 42, which relate to offences) and the Financial Reporting (Fees and Forms) Regulations 2007 continue to apply for the purposes of subsection (2) as if they had not been repealed or revoked by this Act.
-(5) Despite subsections (1) to (4), nothing in the Financial Reporting Act 1993 applies to an FMC reporting entity in relation to an accounting period if financial statements or group financial statements of the FMC reporting entity are required to be prepared for that period under Part 7 of the Financial Markets Conduct Act 2013.
-(6) Despite subsections (1) to (4), if, after this section comes into force, a person to whom this section applies ceases to be an issuer within the meaning of sections 4 to 6 of the Financial Reporting Act 1993 (applied as if that Act were still in force),—
-  (a) section 5 of that Act applies; and
-  (b) subsection (2) does not apply to a subsequent accounting period after the accounting period referred to in section 5 of that Act (unless the person becomes an issuer again as referred to in subsection (1)﻿(a)﻿(ii) to (iv)).
-(7) See clause 20 of Schedule 4 of the Financial Markets Conduct Act 2013 (which provides for Part 7 of that Act to apply on and after an effective date for a security).
-(8) This section is repealed on the close of the date that is 5 years after the date on which this section comes into force.
+[Repealed]
 
 ### 56 Former law for FMC reporting entities generally continues to apply to accounting periods that commence before commencement of section
 (1) This section applies to an entity if—
