@@ -49,7 +49,7 @@ After section 73A, insert:Electoral officer may abandon voting method
 (1) In section 89(3), after subsection (2), insert or section 102C.
 (2) In section 89(3)﻿(a)﻿(ii), after for a recount, insert or an inquiry.
 (3) In section 89(4), after subsection (2), insert or section 102C.
-(4) In section 89(4)﻿(a)﻿(b), after in accordance with, insert section 102G(2)﻿(b) or.
+(4) In section 89(4)﻿(b), after in accordance with, insert section 102G(2)﻿(b) or.
 (5) In section 89(5), after In this section, insert and in section 102C.
 
 ### 9 Cross-heading above section 93 amended
