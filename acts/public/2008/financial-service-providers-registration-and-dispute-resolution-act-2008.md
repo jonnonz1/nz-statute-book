@@ -1,5 +1,5 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-04-09_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
@@ -576,9 +576,16 @@ Unless the High Court orders otherwise, a decision or direction appealed against
 ### 44 Regulations under Part 1 and this Part
 (1) The Governor-General may, by Order in Council on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (aa) declaring a class of contract to be a contract of insurance for the purposes of this Act:
-  (a) prescribing a financial service for the purposes of section 5(1)(n):
+  (a) prescribing a financial service for the purposes of section 5(1)﻿(ma) or (n):
+  (aaa) prescribing circumstances for the purposes of section 7A(1)﻿(d):
+  (aab) prescribing a threshold or thresholds for the purposes of section 7A(2)﻿(c) and the circumstances in which that paragraph does not apply:
   (ab) exempting any service or person or class of service or persons from the application of this Act, and prescribing the terms and conditions (if any) of the exemption:
-  (b) specifying information or documents to be included in, or provided with, applications, and requiring documents to be signed by specified persons:
+  (ac) providing for the circumstances in which section 12A applies and prescribing terms and conditions for the purposes of that section:
+  (b) specifying information or documents to be included in, or provided with, applications or other documents required under this Act, and requiring documents to be signed by specified persons:
+  (ba) prescribing information to be provided under section 16(1A), the time or times at which that information must be provided, and other matters relating to the manner in which the information is provided:
+  (bb) specifying warnings or other information about, or in connection with, the registration of a financial service provider that must be included in advertising for the service, in information or documents provided to persons who receive or may receive the service, or otherwise in information or documents of the classes specified in the regulations (for example, a warning that registration does not mean that the provider is subject to active regulation or oversight):
+  (bc) prescribing the circumstances in which the duty referred to in paragraph (bb) applies and the manner in which the duty must be carried out:
+  (bd) providing for matters referred to in section 22D(4):
   (c) prescribing procedures, requirements, and other matters, not inconsistent with this Part or with the purposes described in section 26, relating to the register, including matters that relate to—
     (i) the operation of the register:
     (ii) the information or documents to be contained in the register:
@@ -590,10 +597,22 @@ Unless the High Court orders otherwise, a decision or direction appealed against
     (ii) an overseas agency that is the equivalent of the Registrar or of a body referred to in section 34(4)﻿(a) to (c) for the purposes of section 34:
   (e) prescribing fees payable to the Registrar in respect of any matter under this Act or the manner in which fees may be calculated:
   (f) providing for any other matters contemplated by Part 1 or by this Part, necessary for its administration, or necessary for giving it full effect.
+(1AA) The Minister must, before making a recommendation under subsection (1)﻿(aaa), be satisfied that the regulations are necessary or desirable—
+  (a) to promote 1 or more of the purposes of this Act as specified in section 2A, 9, or 47; and
+  (b) to protect, or prevent damage to, the integrity or reputation of—
+    (i) New Zealand’s financial markets; or
+    (ii) New Zealand’s law or regulatory arrangements for regulating those markets.
 (1A) The Minister must, in relation to a recommendation under subsection (1)﻿(ab),—
   (a) before making a recommendation, have regard to New Zealand's obligations under the FATF Recommendations; and
   (b) not make the recommendation unless the Minister is satisfied that the costs of compliance with this Act would be unreasonable or not justified by the benefit of compliance.
-(2) Without limiting subsection (1)﻿(b), information or documents may be prescribed under that subsection for the purpose of assisting any person with the person’s powers, functions, or duties as a licensing authority under the relevant enactment identified in Schedule 2 (regardless of whether or not that information or documentation is collected for the purposes of this Part).
+(2) Information or documents may be prescribed under subsection (1)﻿(b) or (c)﻿(ii) for either or both of the following purposes (whether or not that information or documentation is collected or contained in the register for the purposes of this Part):
+  (a) the purpose of assisting any person in the exercise of the person’s powers or the performance of the person’s functions or duties under this Act or any other relevant legislation:
+  (b) the purpose of assisting a Minister, a department of State, or the Reserve Bank of New Zealand in administering this Act or any other relevant legislation.
+(2A) In subsection (2), other relevant legislation means any of the following:
+  (a) any licensing enactment:
+  (b) any financial markets legislation:
+  (c) the Credit Contracts and Consumer Finance Act 2003.
+(2B) Subsection (2) does not limit subsection (1)﻿(b) or (c).
 (3) The Registrar may refuse to perform a function or exercise a power until a prescribed fee or levy is paid.
 (4) Any Order in Council made under subsection (1)﻿(e) may—
   (a) prescribe the method of payment of a fee; and
@@ -962,6 +981,7 @@ The person responsible for an approved dispute resolution scheme must make copie
   (ca) prescribing matters for the purposes of section 63(1)﻿(g)﻿(ii) and (s):
   (cb) prescribing provisions to be implied into rules about approved dispute resolution schemes:
   (d) prescribing rules for a class of approved dispute resolution scheme or for all approved dispute resolution schemes in the event that approval of those schemes is withdrawn:
+  (da) prescribing matters for the purposes of section 67(1)﻿(f), including the circumstances in which information must be provided under that paragraph, the information that must be provided, and to whom and the manner in which it must be provided:
   (e) prescribing the information that must be included in every annual report supplied in accordance with section 68, which must include—
     (i) information about any independent review that occurred within the previous 12 months; and
     (ii) information about a scheme’s operation (including complaints received):
