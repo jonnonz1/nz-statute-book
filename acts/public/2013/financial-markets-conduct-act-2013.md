@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2018-09-15_
+_Consolidation as at 2019-04-09_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -449,7 +449,7 @@ This Act has the following additional purposes:
   (b) includes—
     (i) a security commonly referred to in the financial markets as a debenture, bond, or note; and
     (ii) a convertible note; and
-    (iii) a redeemable share in an entity that would otherwise be an equity security (except a share redeemable only at the option of the entity); but
+    (iii) a redeemable share in an entity that would otherwise be an equity security (except a share redeemable only at the option of the entity or a redeemable share in an industrial and provident society); but
   (c) does not include—
     (i) a share in a co-operative company that is issued or transferred to a transacting shareholder and that is, or may become, subject to the right of a transacting shareholder to surrender the share under section 20 of the Co-operative Companies Act 1996; or
     (ii) a derivative of the kind referred to in subsection (4)﻿(b); or
@@ -575,6 +575,11 @@ This Act has the following additional purposes:
 ### 14 Status of examples
 (1) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
 (2) If an example and a provision to which it relates are inconsistent, the provision prevails.
+
+**Transitional, savings, and related provisions**
+
+### 14A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 4 have effect according to their terms.
 
 **Act binds the Crown**
 
@@ -3947,6 +3952,10 @@ The FMA may issue a licence in accordance with this subpart.
 
 ### 395 Application for licence
 (1) A person may apply for a licence in the manner that is specified by the FMA.
+(1A) The FMA may—ExampleIn order to facilitate the orderly and efficient processing of applications, the FMA specifies that if a particular type of provider wants a licence by a particular date or for a particular purpose, the provider must apply by some other date. A different date may apply to different classes of provider.
+  (a) specify any of the matters referred to in section 548(1)﻿(p)﻿(i) to (iv); and
+  (b) specify different matters for different classes of applicant or other circumstances (including specifying time frames within which different classes of applicant must make an application for a licence); and
+  (c) refuse to consider the application if the person does not apply for the licence in the specified manner.
 (2) The application may be for a licence to cover 1 or more market services (or 1 or more classes of services, if the FMA specifies, on its Internet site, classes into which a market service is divided).
 (3) An applicant must provide to the FMA the information that is required by the FMA to assist it in determining the application.
 
@@ -5443,7 +5452,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (i) prescribing financial products for the purposes of the definition of specified financial products in clause 8(2) of Schedule 1:
   (j) prescribing schemes for the purposes of clause 11(3)﻿(a) of Schedule 1:
   (k) prescribing markets and persons for the purposes of clause 20(4) of Schedule 1:
-  (l) prescribing kinds of category 2 products or currency forwards for the purposes of clause 21(c) or (d) of Schedule 1:
+  (l) prescribing kinds of financial products or currency forwards for the purposes of clause 21(a), (c), or (d) or 38(4)﻿(a) of Schedule 1:
   (la) prescribing circumstances for the purposes of section 453(b)﻿(ii):
   (lb) prescribing circumstances for the purposes of clause 27A of Schedule 1:
   (m) prescribing circumstances for the purposes of clause 31(1)﻿(c)﻿(ii) or (2)﻿(d)﻿(ii) or 34(1)﻿(d)﻿(ii) of Schedule 1:
@@ -5534,20 +5543,22 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 (3) Before making a recommendation in relation to subsection (1)﻿(l) or (m), the Minister must have regard to the matters set out in section 308.
 
 ### 546 Regulations for purposes of Part 6 (market services)
-(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Issue of licencesConditions of licencesReportingDisclosure obligationsClient agreementsDiscretionary investment management servicesMiscellaneous
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Issue of licencesConditions of licencesReportingDisclosure obligationsClient agreementsFinancial advice services and client money or property servicesDiscretionary investment management servicesMiscellaneous
   (a) prescribing matters relating to the issue of market services licences, including—
-    (i) eligibility criteria for licences and for the purposes of section 400 (including requirements relating to competence, qualifications, and experience, prudential requirements, and requirements relating to the business, operation, or management of an applicant and, for the purposes of section 400, a related body corporate):
+    (i) eligibility criteria for licences and for the purposes of section 400 (including requirements relating to competence, qualifications, and experience, prudential requirements, and requirements relating to the business, operation, or management of an applicant and, for the purposes of section 400, a related body corporate or an entity referred to in section 400(1A)):
     (ii) requirements that the applicant's directors, senior managers, and proposed directors and senior managers must satisfy:
     (iii) matters that the FMA must have regard to:
     (iv) persons or classes of persons whom the FMA must consult:
     (v) information for the purposes of section 401(2)﻿(e):
     (vi) eligibility criteria to be met by a DIMS licensee before a custodian of investor money or investor property is, subject to conditions imposed, under paragraph (d)﻿(iii), permitted to be an associated person of the DIMS licensee:
   (b) prescribing overseas markets and circumstances for the purposes of section 389(1)﻿(c):
-  (c) exempting (on terms and conditions, if any) services from the licensing requirement for providers of discretionary investment management services for the purposes of section 389(2)﻿(c):
+  (c) exempting (on terms and conditions, if any) services from the licensing requirement for providers of financial advice services for the purposes of section 389(2)﻿(b):
+  (ca) exempting (on terms and conditions, if any) services from the licensing requirement for providers of discretionary investment management services for the purposes of section 389(3)﻿(b):
   (d) prescribing conditions that market services licences are subject to, the kinds of conditions that the FMA may impose on those licences, or matters to which conditions imposed by the FMA may relate, including (without limitation) providing for—
     (i) conditions that regulate the manner in which licensed market services must be carried out under the licence:
     (ii) conditions that impose prudential requirements on licensees or authorised bodies or otherwise regulate the business, operation, or management of licensees or authorised bodies (for example, requirements to have a credit rating or to maintain a minimum amount of capital, requirements relating to margins, or requirements relating to the receipt of money and property from clients):
     (iii) in the case of a DIMS licensee, the conditions subject to which a custodian of investor money or investor property is permitted to be an associated person of the DIMS licensee:
+    (iv) in the case of a licence relating to a financial advice service, conditions of a kind described in section 403(4):
   (e) stating whether a condition imposed on a market services licence by the regulations is a Part 6 services provision that gives rise to civil liability under section 449(4):
   (f) prescribing matters relating to reports or other disclosure under subpart 3 of Part 6, including the times and events referred to in that subpart and the information that must be contained in the reports (including prescribing the manner in which the information is to be presented, calculated, or prepared):
   (g) prescribing the information that must, or must not, be contained in disclosure statements for the purposes of subpart 4 of Part 6 (including prescribing the manner in which the information is to be presented, calculated, or prepared):
@@ -5560,13 +5571,34 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (kc) prescribing conditions for the purposes of section 427(3)﻿(b) (for example, requiring a corrective statement or a warning notice to be provided to an investor or requiring some other specified action to be taken to avoid or mitigate any actual or potential adverse effects of making the defective disclosure as referred to in section 427(1)):
   (l) prescribing the matters that must be contained in a client agreement required for the purposes of subpart 5 of Part 6:
   (m) prescribing provisions to be implied in a client agreement (see subsection (3)):
+  (ma) prescribing kinds of financial planning for the purposes of section 431C(1)﻿(d):
+  (mb) prescribing eligibility criteria for the purposes of section 431I:
+  (mc) prescribing the information that must be made available under section 431O, and when and the manner in which it must be made available:
+  (md) prescribing the information that must be disclosed under section 431X and the manner in which it must be disclosed (including prescribing the manner in which the information is to be presented, calculated, or prepared):
+  (me) prescribing documents or information the giving of which does not constitute the giving of financial advice under clause 7(f) of Schedule 5:
+  (mf) prescribing activities for the purposes of clause 7(g) of Schedule 5 (activities that are not giving financial advice):
+  (mg) prescribing occupations for the purposes of clause 8(2) or 19(1) of Schedule 5:
+  (mh) prescribing circumstances in which financial advice is not regulated financial advice for the purposes of clause 17 of Schedule 5:
+  (mi) prescribing circumstances in which a client money or property service is not a regulated client money or property service for the purposes of clause 22 of Schedule 5:
+  (mj) providing for any or all of sections 431ZC to 431ZH to apply to wholesale clients and the extent to which and the circumstances in which they so apply:
+  (mk) prescribing the duties and obligations of providers of client money or property services in relation to client money and client property:
+  (ml) prescribing entities for the purposes of section 431ZC:
+  (mm) specifying who may be a related body corporate for the purposes of section 431ZC:
+  (mn) prescribing circumstances for the purposes of section 431ZC(3)﻿(a):
+  (mo) providing for the matters referred to in section 431ZC(3)﻿(b):
+  (mp) regulating the establishment and operation of a trust account under subpart 5B of Part 6 and the receipt, handling, and application of client money and client property by a provider of client money or property services (including prescribing requirements relating to the investment of money that is held in trust and providing for how interest or other income from that investment is to be paid, retained, or otherwise dealt with):
+  (mq) regulating the keeping, retention, reconciliation, inspection, and audit or review of trust account records and other records and procedures of providers of client money or property services:
+  (mr) prescribing any other requirements necessary or desirable to ensure that trust accounts are duly kept and that persons on whose behalf client money and client property are held by providers are informed of the client money and client property held and of the transactions made in connection with it (including prescribing what confirmation information must be made available and any other matters for the purposes of section 431ZF):
+  (ms) prescribing matters to regulate the delivery of client money or client property to the person on whose behalf they are held, and other steps to be taken or provisions to apply, in connection with the termination of any client money or property service:
   (n) prescribing matters relating to the reporting of limit breaks:
   (o) prescribing circumstances for the purposes of section 445:
+  (oa) prescribing the procedure of the code committee:
+  (ob) prescribing the procedure of the disciplinary committee:
   (p) prescribing persons or classes of persons to whom notices under Part 6 must be given:
   (q) prescribing the circumstances referred to in section 424(3) or 426(1):
   (r) prescribing overseas schemes, benefits, interests, or transactions for the purposes of section 441(b) and (d):
   (s) prescribing the form or contents of any certificate or other document referred to in Part 6, and the manner in which it may be made or given.
-(2) Subsection (1)﻿(b), (c), and (o) is subject to section 550 (which provides for certain procedural requirements relating to regulations made under that paragraph).
+(2) Subsection (1)﻿(b), (c), (ca), (me), (mf), (mg), (mh), (mi), (mn), and (o) is subject to section 550 (which provides for certain procedural requirements relating to regulations made under that paragraph).
 (3) A provision prescribed for the purposes of subsection (1)﻿(m) may, without limitation, specify the duties of the licensee or authorised body under the client agreement (including to supplement, or to add to, any duties prescribed by this Act).
 
 ### 547 Transitionals, savings, and orderly implementation of Act and related enactments
@@ -5574,14 +5606,16 @@ Nothing in this Act limits or diminishes any liability that any person may incur
 
 ### 548 Other regulations
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister in accordance with section 549, make regulations for all or any of the following purposes:Part 2 fair dealingDefinitionsExcluded circumstances relating to when directors are treated as having contravened provisionsSchedule 3 schemesRegistersGiving of information and other service requirementsEnforcementFees and chargesPrescribed mannerGeneral
-  (a) declaring financial products (within the meaning of section 5 of the Financial Advisers Act 2008) as financial products for the purposes of any provision of Part 2 or section 464:
+  (a) declaring financial advice products as financial products for the purposes of any provision of Part 2 or section 464:
   (b) prescribing circumstances for the purposes of section 34(2)﻿(e):
   (c) prescribing kinds of entities for the purposes of the definition of co-operative in section 34(4):
   (d) providing for matters relating to terms defined in this Act and related matters, including the following:
     (i) excluding dealing from being dealing in financial products for the purposes of this Act:
+    (ia) declaring products to be financial advice products:
     (ii) declaring classes of services not to be financial services for the purposes of any provision of this Act:
     (iii)
     (iv) prescribing services for the purposes of the definition of prescribed intermediary services and applying subpart 4 or 5 of Part 6 (or both) to those services:
+    (iva) specifying persons as product providers for the purposes of the definition of product provider in section 6(1):
     (v) declaring interests or rights not to be securities for the purposes of this Act:
     (vi) prescribing circumstances for the purposes of section 6(3) (whether in relation to the redemption date, the interest rate, or both):
     (vii) prescribing matters for the purposes of section 8(4)﻿(a)﻿(ii):
@@ -5591,6 +5625,7 @@ Nothing in this Act limits or diminishes any liability that any person may incur
   (h) prescribing circumstances for the purposes of section 534(2):
   (i) prescribing the information that must be prepared and provided under clause 6 of Schedule 3, the times or events referred to in that clause, and the manner of providing the information (including prescribing the manner in which the information is to be presented, calculated, or prepared):
   (j) prescribing provisions to be implied in a trust deed of a Schedule 3 scheme (which may, without limitation, specify duties under the trust deed, including by supplementing, or adding to, any duties prescribed by this Act):
+  (ja) prescribing criteria, requirements, or both for the purposes of clause 2(1)﻿(b)﻿(iv) of Schedule 3:
   (k) prescribing procedures, requirements, and other matters, not inconsistent with this Act, for any register kept under this Act, including matters that relate to—
     (i) the operation of the register:
     (ii) the form of the register:
@@ -5625,13 +5660,15 @@ The Minister must consult the FMA before making a recommendation under this subp
 (1) The Minister must, before making a recommendation in relation to a provision referred to in—
   (a) subsection (2), have regard to the main and additional purposes of this Act set out in sections 3 and 4; and
   (b) subsection (2)﻿(a), (b), or (e), be satisfied that the extent to which requirements are disapplied is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
-  (c) subsection (2)﻿(c), (d), and (f), be satisfied that the extent of the exemption or exclusion is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
+  (c) subsection (2)﻿(c), (d), (da), (db), and (f), be satisfied that the extent of the exemption or exclusion is not broader than is reasonably necessary to address the matters that gave rise to the regulations; and
   (d) subsection (2)﻿(g), be satisfied that the extent to which the application of section 534 is reduced is not broader than is reasonably necessary to address the matters that gave rise to the regulations.
 (2) The provisions are—
   (a) sections 543(1)﻿(a)﻿(v) and (x), and (f), and 548(1)﻿(b) (regulations may prescribe circumstances in which requirements do not apply):
   (b) section 544(1)﻿(k), (o), (r), (s), and (v)﻿(iii), (iv), (via), and (ix) (regulations may prescribe circumstances in which requirements do not apply):
   (c) section 545(1)﻿(a), (g), (j), and (m) (regulations may provide for exemptions from certain requirements):
-  (d) section 546(1)﻿(b) and (c) (regulations may prescribe exemptions relating to requirement to be licensed):
+  (d) section 546(1)﻿(b), (c), and (ca) (regulations may prescribe exemptions relating to requirement to be licensed):
+  (da) section 546(1)﻿(me), (mf), (mg), (mh), and (mi) (regulations may prescribe matters in relation to exclusions from definitions of financial advice, regulated financial advice, and regulated client money or property service):
+  (db) section 546(1)﻿(mn) (regulations may prescribe circumstances in which requirements do not apply):
   (e) section 546(1)﻿(o) (regulations may prescribe circumstances in which requirements do not apply):
   (f) section 548(1)﻿(d)﻿(i), (ii), and (v) (regulations relating to definitions):
   (g) section 548(1)﻿(h) (regulations may prescribe circumstances in which section 534 does not apply).
@@ -5717,8 +5754,19 @@ The breach of a term or condition of an exemption granted under this subpart is 
   (d) declare that an offer of financial products that would not otherwise require disclosure under Part 3 because of an exclusion under Part 1 of Schedule 1 does require disclosure under Part 3:ExampleA small offer is generally excluded from requiring disclosure (see clause 12 of Schedule 1).However, an offer of a particular kind may involve significant risks for investors that may otherwise be undisclosed to investors.The FMA may declare that disclosure under Part 3 is required despite the exclusion (and, accordingly, the offer is a regulated offer).
   (e) declare that an offer of financial products for sale that would not otherwise require disclosure under Part 3 does require disclosure under Part 3 (see section 563(1)﻿(c)):ExampleOffers of financial products for sale generally require disclosure only in limited circumstances (see Part 2 of Schedule 1).However, an issuer could structure an offer with a view to circumventing, evading, or defeating the disclosure provisions of this Act.The FMA may declare that disclosure of the offer under Part 3 is required despite the fact that the provisions in Part 2 of Schedule 1 do not apply.
   (f) declare, in relation to a managed investment product or if a declaration is made under paragraph (a) or (b) declaring that a security or financial product is a managed investment product, that a scheme is, or is to become, a managed investment scheme in relation to that managed investment product:
-  (g) if a declaration is made under paragraph (a), (b), or (f), declare that a person or type of person is, or is to become, the issuer or offeror of the relevant financial products:
-  (h) declare a person, service, or conduct to be not exempt under any exemption that would otherwise apply under section 389(2) (and accordingly the licensing requirement under this Act applies):
+  (g) if a declaration is made under paragraph (a), (b), or (f), declare that a person or class of person is, or is to become, the issuer or offeror of the relevant financial products:
+  (ga) declare that a person or class of person that would otherwise be a wholesale investor or a wholesale client is, or is to become, a retail investor or a retail client:
+  (gb) declare that advice—
+    (i) that would not otherwise be financial advice is financial advice; or
+    (ii) that would otherwise be financial advice is not financial advice; or
+    (iii) that would not otherwise be regulated financial advice is regulated financial advice; or
+    (iv) that would otherwise be regulated financial advice is not regulated financial advice:
+  (gc) declare that a service—
+    (i) that would not otherwise be a financial advice service is a financial advice service; or
+    (ii) that would otherwise be a financial advice service is not a financial advice service:
+  (h) declare a person, service, or conduct to be not exempt under any exemption that would otherwise apply under any of the following provisions (and accordingly the licensing requirement under this Act applies):
+    (i) section 389(2):
+    (ii) section 389(3):
   (i) declare a person, service, or conduct to be not exempt under any exemption or exclusion that would otherwise apply under section 238(1)﻿(a) to (h) (in relation to either subpart 5 or 6 of Part 5), or under section 285, 287, or 309.
 (2) A declaration may specify terms and conditions relating to—
   (a) the circumstances in which the declaration applies, including (without limitation) by reference to any person or class of persons or any transaction or class of transactions:
@@ -5732,6 +5780,7 @@ The breach of a term or condition of an exemption granted under this subpart is 
   (a) it is satisfied that the declaration is necessary or desirable in order to promote either or both of the main purposes of this Act specified in section 3 or any of the additional purposes specified in section 4; and
   (b) in the case of section 562(1)﻿(a) to (d), it has had regard to the economic substance of the relevant security; and
   (c) in the case of section 562(1)﻿(e), it is satisfied that the offer or class of offers has, or would have, a purpose or an effect of circumventing, evading, or defeating any of the purposes referred to in paragraph (a) (having regard to the economic substance of the offer or offers); and
+  (ca) in the case of section 562(1)﻿(gb), (gc), or (h)﻿(i), it is satisfied that the declaration is necessary or desirable in order to promote the additional purpose specified in section 431B; and
   (d) it has consulted the persons or representatives of the persons that the FMA considers will be substantially affected by the declaration.
 (2) A failure to comply with subsection (1)﻿(d) does not affect the validity of the declaration.
 
@@ -5824,6 +5873,9 @@ This subpart applies to the following instruments:
     (b) does not include an exemption granted under that subpart in relation to—
       (i) a particular person or transaction; or
       (ii) persons associated with, or transactions involving, a particular person.
+
+### 571A Deferral of obligations to publish, notify, and make available non-class exemptions
+The FMA may defer complying with section 571(3) in relation to an exemption granted under subpart 2 if the FMA is satisfied on reasonable grounds that it is proper to do so on the ground of commercial confidentiality.
 
 ### 572 Variation and revocation
 The FMA may vary or revoke an instrument to which this subpart applies in the same way as it may make the instrument (with the provisions relating to the making of the instrument applying with all necessary modifications).
@@ -5980,7 +6032,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
   (c) the service of notice of registration of those judgments:
   (d) other requirements for the way in which those judgments may be registered (for example, the currency of registrations and the registration of partly satisfied judgments).
 
-### Subpart 8 — Transitional and miscellaneous provisions
+### Subpart 8 — Miscellaneous provisions
 
 ### 595 Registers
 The provisions in Schedule 2 apply to the keeping of registers under this Act.
@@ -5989,7 +6041,7 @@ The provisions in Schedule 2 apply to the keeping of registers under this Act.
 The FMA may approve, or withdraw an approval of, a scheme as a Schedule 3 scheme under Schedule 3, and the provisions of that schedule apply to a Schedule 3 scheme.
 
 ### 597 Transitional provisions
-The transitional provisions in Schedule 4 have effect for the purposes of this Act.
+[Repealed]
 
 ## Schedule 1 — Provisions relating to when disclosure is required and exclusions for offers and services
 
@@ -6207,7 +6259,7 @@ An offer of managed investment products does not require disclosure under Part 3
   (b) the financial products are of the same class as quoted financial products that have been quoted on a licensed market at all times during the 3-month period before the time of the offer; and
   (c) trading in that class of financial products on the licensed market on which they are quoted was not suspended for more than a total of 5 trading days during the 3-month period referred to in paragraph (b); and
   (d) in the case of an offer by way of issue, it is a term of the offer that the issuer will take any necessary steps to ensure that the financial products are, immediately after the issue, quoted; and
-  (e) in the case of an offer by way of sale, the financial products are quoted at the time of the offer and the offeror has reasonable grounds to believe that the financial products will, immediately after the sale, remain quoted; and
+  (e) in the case of an offer by way of sale, the offeror has reasonable grounds to believe that the financial products will, immediately after sale, be quoted; and
   (f) the market rules of the licensed market on which the financial products are quoted contain continuous disclosure provisions.
 (1A) An offer of options to acquire, by way of issue, financial products (and the offer of those option underlyings) does not require disclosure under Part 3 of this Act if—
   (a) the options and option underlyings are equity securities, debt securities, or managed investment products; and
@@ -6726,7 +6778,7 @@ The trustees of an approved Schedule 3 scheme must, at the prescribed times or o
 (1) The trust deed of an approved Schedule 3 scheme is treated as containing any provision that is implied into it under this Act.
 (2) The trust deed has no effect to the extent that it contravenes, or is inconsistent with, any implied provision.
 
-## Schedule 4 — Transitional provisions
+## Schedule 4 — Transitional, savings, and related provisions
 
 ### 1 Overview
 (1) This schedule provides for transitional provisions as follows:
@@ -6734,7 +6786,8 @@ The trustees of an approved Schedule 3 scheme must, at the prescribed times or o
   (b) Part 2 provides for the former law to continue to apply to securities allotted under the Securities Act 1978 until an effective date, at which point ongoing requirements of this Act may apply:
   (c) Part 3 provides for miscellaneous transitional provisions relating to the enactment of this Act (for example, provisions relating to the licensing of financial product markets):
   (d) Part 4 provides for a transitional provision relating to the Regulatory Systems (Commercial Matters) Amendment Act 2017:
-  (e) Part 5 provides for transitional provisions relating to the Financial Markets Conduct Regulations 2014.
+  (e) Part 5 provides for transitional provisions relating to the Financial Markets Conduct Regulations 2014:
+  (f) Part 6 provides for transitional provisions relating to the Financial Services Legislation Amendment Act 2019.
 (2) Subclause (1) is only a guide to the general scheme and effect of this schedule.
 
 ### 2 Transitional provisions subject to transitional regulations and exemptions
@@ -7273,3 +7326,118 @@ In clauses 65 to 70, Regulations means the Financial Markets Conduct Regulations
 
 ### 70 Certain superannuation schemes that elect to be treated as registered
 If, immediately before the revocation of clause 30A of Schedule 1 of the Regulations, that clause applies to a scheme and to the interests in the scheme, that clause continues to apply to the scheme and the interests on and after that revocation.
+
+### Part 6 — Transitional provisions relating to Financial Services Legislation Amendment Act 2019
+
+#### Subpart 1 — Transitional licences
+
+### 71 FMA may issue transitional licence
+(1) The FMA may issue a transitional licence that covers the service of acting as a provider of a financial advice service.
+(2) A transitional licence must be treated as being a licence issued under subpart 2 of Part 6 of this Act (subject to the provisions of this subpart).
+(3) Section 395(1), (1A), and (3) (application for licence) applies to a transitional licence.
+(4) However,—
+  (a) an application for a transitional licence must be made before the commencement of section 16 of the Financial Services Legislation Amendment Act 2019 (which amends section 388 to make acting as a provider of a financial advice service a market service for which a licence is required); and
+  (b) a transitional licence may not cover a type of market service other than a financial advice service.
+(5) Subclause (4)﻿(a) does not limit section 395(1A) (which allows the FMA to specify time frames within which applications must be made).
+(6) This clause does not prevent a licensee from holding both a transitional licence and 1 or more other licences that cover the service referred to in subclause (1) (but see clause 72(2)).
+
+### 72 Duration and coverage of transitional licence
+(1) A transitional licence continues in force until the close of the date that is 2 years after the commencement of section 16 of the Financial Services Legislation Amendment Act 2019 unless it is sooner cancelled.
+(2) However, a transitional licence no longer covers a type of regulated financial advice if—
+  (a) another licence is issued to the licensee under subpart 2 of Part 6 of this Act; and
+  (b) that other licence covers that type of regulated financial advice.
+(3) Subclause (2)—
+  (a) applies regardless of what conditions are imposed on the other licence (for example, new limits or restrictions on the regulated financial advice that may be provided):
+  (b) does not limit the FMA’s power under section 408.
+
+### 73 When transitional licence must be issued
+The FMA must, after receiving an application for a transitional licence, issue the licence if the FMA is satisfied that—
+  (a) the eligibility criteria (if any) that are prescribed by the regulations for transitional licences are satisfied; and
+  (b) the applicant’s directors and senior managers are fit and proper persons to hold their respective positions and otherwise satisfy the requirements that are prescribed by the regulations for transitional licences (if any); and
+  (c) there is no reason to believe that the applicant is likely to contravene the market services licensee obligations; and
+  (d) the applicant is, or will be, registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 on and from commencing to provide the service.
+
+### 74 Licence may cover authorised bodies
+(1) A transitional licence may, in its conditions, authorise 1 or more named entities to provide the market service covered by the licence if the FMA is satisfied that—
+  (a) there is no reason to believe that the entity is likely to contravene the market services licensee obligations; and
+  (b) the entity is, or will be, registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 on and from commencing to provide that service; and
+  (c) the entity meets the eligibility criteria and other requirements prescribed by the regulations for the purposes of this clause (if any).
+(2) The entity must be treated as being an authorised body that is authorised under section 400(1A).
+(3) This clause does not apply if the licensee is an individual.
+
+### 75 Certain transitional licence holders may not engage nominated representatives
+(1) A transitional licence is subject to a condition that the licensee or an authorised body may nominate an individual as a nominated representative of the licensee or body under section 431T only if, immediately before the commencement of this clause, the licensee or body (as the case may be) was any of the following:
+  (a) a qualifying financial entity (QFE) or a member of a QFE group under the Financial Advisers Act 2008:
+  (b) an entity that—
+    (i) is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 in respect of a financial adviser service; and
+    (ii) engages 1 or more individuals, who are not registered under that Act, to provide on its behalf a class service (within the meaning of section 5 of the Financial Advisers Act 2008 as in force before its repeal).
+(2) If the licensee or authorised body (as the case may be) is an entity referred to in subclause (1)﻿(b) (and is not a person referred to in subclause (1)﻿(a)), the transitional licence is also subject to a condition that a nominated representative must not provide, on behalf of the licensee or body, a personalised service (within the meaning of section 5 of the Financial Advisers Act 2008 as in force before its repeal).
+
+### 76 Transitional licence may authorise entity to be engaged
+(1) This clause applies if—
+  (a) a person (P) is a licensee or an authorised body under a transitional licence (P’s licence); and
+  (b) another person (E) holds a transitional licence or is an authorised body under P’s licence; and
+  (c) immediately before the commencement of this clause, P and E are parties to an agreement under which either or both of the following occurs:
+    (i) P engages E to give financial advice to P’s retail clients on P’s behalf:
+    (ii) P engages E, who engages 1 or more individuals to give financial advice to P’s retail clients on P’s behalf.
+(2) P’s licence is subject to a condition that authorises P and E to continue the conduct that is the subject of the agreement referred to in subclause (1)﻿(c) (see section 431F(1)﻿(b)).
+(3) This clause is subject to any other conditions on P’s licence (which may, for example, impose limits or restrictions on the type of advice that may be given).
+
+### 77 Application of Part 6 of Act, etc
+(1) Part 6 of this Act applies in relation to transitional licences with all necessary modifications including the following:
+  (a) references in sections 397 and 398 to a decision under section 396 must be treated as references to a decision under clause 73:
+  (b) sections 396, 397(1)﻿(b) and (c), 399, 403(3)﻿(c), and 407 do not apply:
+  (c) references to the requirements of section 396 or 400 in section 403(3)﻿(b) or subpart 3 of Part 6 of this Act must be treated as references to the requirements of clause 73 or 74.ExampleSubpart 3 of Part 6 provides for certain consequences if the licensing requirements in section 396 are not, or are no longer, satisfied. These include a duty for the licence holder to report matters to the FMA (see section 412) and the FMA could suspend or cancel the licence (see section 414(3)).ABC Limited satisfies the licensing requirements in clause 73 and is granted a transitional licence. However, a change occurs that means that ABC Limited no longer satisfies a requirement.Under paragraph (c), the ordinary monitoring and enforcement consequences apply to the transitional licence as if the references to licensing requirements in section 396 were references to the licensing requirements in clause 73.ABC Limited must, therefore, report the matter to the FMA and the FMA may exercise a power under subpart 3 of Part 6.
+(2) However, a transitional licence must be disregarded for the purposes of section 397(1)﻿(b) when the FMA is considering an application for another licence.
+(3) Matters may be prescribed under section 546(1)﻿(a) for the purposes of clauses 73(a) and (b) and 74(1)﻿(c).
+(4) A decision of the FMA under this subpart may be appealed under subpart 9 of Part 8 of this Act as if it were a decision under Part 6 of this Act.
+
+### 78 FMA may refuse to consider application made before specified time, event, or circumstance
+(1) This clause applies to an application for—
+  (a) a transitional licence; or
+  (b) a licence under subpart 2 of Part 6 of this Act that covers the service of acting as a provider of a financial advice service.
+(2) The FMA may, under section 395(1A), refuse to consider the application if it is made—
+  (a) before a date specified by the FMA; or
+  (b) before an event specified by the FMA has occurred; or
+  (c) before circumstances specified by the FMA have been satisfied.
+(3) This clause does not limit section 395(1A).
+(4) This clause ceases to apply on the close of the date that is 2 years after the commencement of section 16 of the Financial Services Legislation Amendment Act 2019.
+
+#### Subpart 2 — Renewal of financial adviser authorisation and QFE status not required in transitional period
+
+### 79 Renewal of financial adviser authorisation and QFE status not required in transitional period
+(1) This clause applies to a person (A) if,—
+  (a) immediately before the commencement of this clause, A is an authorised financial adviser or has QFE status (within the meaning of the Financial Advisers Act 2008); but
+  (b) A’s period of authorisation or period of a grant of QFE status would, but for this clause, terminate under section 57(1)﻿(a) or 75A(1)﻿(a) of that Act after that commencement.
+(2) Despite sections 57(1)﻿(a) and 75A(1)﻿(a) of the Financial Advisers Act 2008, A’s authorisation or QFE status must be treated as continuing until the commencement of section 97(1) of the Financial Services Legislation Amendment Act 2019 (which repeals the Financial Advisers Act 2008).
+(3) However, subclause (2) ceases to apply if—
+  (a) A’s authorisation or QFE status terminates under section 57(1)﻿(b) to (d) or 75A(1)﻿(b) to (d) of the Financial Advisers Act 2008; or
+  (b) an application for the renewal of A’s authorisation or QFE status is made before the commencement of this clause but is declined by the FMA after that commencement.
+
+#### Subpart 3 — Preparation of code
+
+### 80 Code may be prepared before commencement
+(1) Any action taken by or on behalf of the body of persons appointed by the Minister and known as the code working group in preparing the code of conduct must be treated as having been validly taken by the code committee under, and for the purposes of, clauses 32 to 39 of Schedule 5.
+(2) For the purposes of subclause (1), a reference in clauses 32 to 39 of Schedule 5 to the code committee includes a reference to the code working group.
+(3) The Minister may exercise or perform a power or duty under Schedule 5 before that schedule comes into force.
+(4) Subclauses (1) and (3) apply regardless of whether the action is taken before or after the Financial Services Legislation Amendment Act 2019 is enacted.
+(5) The Minister must ensure that the code comes into force no later than the date on which subpart 5A of Part 6 comes into force.
+(6) If Schedule 5 requires the code or any other information to be published on an Internet site maintained by or on behalf of the code committee, the code or information may instead, before the commencement of that schedule, be published on an Internet site maintained by or on behalf of the department of State that is responsible for the administration of this Act.
+
+#### Subpart 5 — Transitional and savings regulations
+
+### 90 Transitional and savings regulations
+(1) The Governor-General may, by Order in Council, on the recommendation of the Minister made in accordance with section 549, make regulations for any of the following purposes:
+  (a) providing that, subject to any conditions stated in the regulations, transitional or savings provisions prescribed by the regulations that relate to the implementation of the amending Act (in addition to, or in substitution for, any provisions in this Part or Part 1 of Schedule 1AA of the Financial Service Providers (Registration and Dispute Resolution) Act 2008) apply during the whole or any part of the period ending on the 3-year date:
+  (b) providing that, during the whole or any part of the period ending on the 3-year date and subject to any conditions stated in the regulations, specified provisions of this Act, of the Financial Service Providers (Registration and Dispute Resolution) Act 2008, or of other enactments amended, revoked, or repealed by the amending Act—
+    (i) do not apply; or
+    (ii) continue to apply; or
+    (iii) apply with modifications or additions, or both.
+(2) The Minister must not recommend the making of regulations under this clause unless the Minister is satisfied that the regulations—
+  (a) are necessary or desirable for the orderly implementation of the amending Act; and
+  (b) are consistent with the purposes of this Act and the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as amended by the amending Act.
+(3) This clause is repealed on the close of the 3-year date.
+(4) Any regulations made under this clause that are in force on the 3-year date are revoked on the close of that day.
+(5) In this clause,—
+  - **3-year date** means the date that is 3 years after the commencement of section 16 of the amending Act
+  - **amending Act** means the Financial Services Legislation Amendment Act 2019.
