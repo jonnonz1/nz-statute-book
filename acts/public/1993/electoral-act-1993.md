@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-04-09_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1878,7 +1878,10 @@ For the purposes of sections 111C to 111F,—
     (ii) a list of electors of Maori descent; or
   (b) for the purposes of research being conducted by that person on a topic that relates to human health,—
     (i) a list of electors whose birthdays fall within a period of 12 months; or
-    (ii) a list of electors of Maori descent.
+    (ii) a list of electors of Maori descent; or
+  (c) without limiting paragraph (a), for the purposes of research by that person that relates to elector participation in an election, a by-election, or a poll conducted under this Act or the Local Electoral Act 2001,—
+    (i) a list of electors in a particular age group as defined in section 114(9); or
+    (ii) a list of electors of Māori descent.
 (2) Every list supplied pursuant to a request under subsection (1) shall specify, in relation to each elector on that list, his or her name, postal address, residential address, occupation (if any), preferred honorific (if any), and meshblock.
 (3) Any request made under subsection (1) may seek information about electors appearing to be entitled to vote in—but shall not include any request for a random sample of electors.
   (a) 1 or more named electoral districts; or
@@ -1886,7 +1889,8 @@ For the purposes of sections 111C to 111F,—
   (c) 1 or more named regions or constituencies of a region; or
   (d) 1 or more named territorial authority districts; or
   (e) 1 or more named wards; or
-  (f) 1 or more named community board areas;—
+  (f) 1 or more named community board areas; or
+  (g) 1 or more named local board areas;—
 (4) Every list supplied following a request under subsection (1) may be supplied in the form of a computer-compiled list or in electronic form.
 (5) The Electoral Commission shall comply with a request under subsection (1) if—
   (a) the person requesting the list pays the prescribed fee; and
@@ -1928,7 +1932,11 @@ For the purposes of sections 111C to 111F,—
     (ii) territorial authority district; or
     (iii) ward; or
     (iv) community board area; or
+    (iva) local board area; or
     (v) other local authority and, where appropriate, local authority subdivision,—
+(11) However, if a local authority has resolved to adopt, for an election, a by-election, or a poll, a voting method to which section 141(3) of the Local Electoral Act 2001 applies,—
+  (a) the electoral official of the local authority is also entitled to obtain the elector’s date of birth under subsection (1); and
+  (b) for that purpose, subsections (1) to (5) apply as if the date of birth of an elector described in subsection (10) were also specified information.
 
 ### 114 Supply of electoral information to candidates, political parties, and members of Parliament
 (1) The Electoral Commission must supply to a person specified in subsection (2), on a request made in accordance with this section by that person,—
