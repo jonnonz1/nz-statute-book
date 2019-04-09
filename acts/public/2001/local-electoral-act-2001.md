@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2019-03-21_
+_Consolidation as at 2019-04-09_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -112,7 +112,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
     (a) the method of voting commonly known as booth voting:
     (b) the method of voting commonly known as postal voting:
     (c) any form of electronic voting:
-    (d) any method of voting involving a combination of more than 1 of the methods of voting referred to in paragraphs (a) to (c):
+    (d) any method of voting involving a combination of or choice between more than 1 of the methods of voting referred to in paragraphs (a) to (c):
     (e) any other method of voting (however described)
   - **voting period** , in relation to an election or poll, means—
     (a) if booth voting is the method of voting used at the election or poll, the period between 9 am and 7 pm on polling day and any earlier prescribed period:
@@ -955,9 +955,15 @@ Sections 27 to 31 do not apply if—
   (b) if 2 or more elections or 2 or more polls are to be conducted within the district of a territorial authority separately from any election of that territorial authority, and, as a consequence of the operation of subsection (1) or subsection (2), those elections and polls are required to be conducted using different voting methods,—
     (i) the local authorities concerned must determine which of those voting methods must be used to conduct the elections and polls; and
     (ii) if no agreement is reached under subparagraph (i), those elections and polls must be conducted by postal voting.
+(4) Subsection (5) applies if—
+  (a) regulations authorise the use of a voting method, for the purpose of conducting a trial of that method, by a specified class of elector in any specified class of election or poll or in any specified election or poll; and
+  (b) the local authority adopts that voting method for the specified class by resolution in accordance with those regulations.
+(5) The voting method to be used by the specified class of elector in the election or poll must be the method adopted by resolution under subsection (4).
+(6) If, under subsection (5), any election or poll of 1 or more territorial authorities in which a voting method is to be used by a specified class of elector is to be conducted in conjunction with 1 or more other elections or polls, that voting method is to be used by the specified class of elector in each of the elections or polls.
+(7) If subsection (5) or (6) (or both) apply to an election or a poll, the voting method or methods to be used for other electors in the election or poll must be determined in accordance with subsections (1) to (3).
 
 ### 37 Consultation
-(1) Before passing any resolution under section 36(1) that will apply to elections or polls conducted for any other local authority, the local authority concerned must consult that local authority.
+(1) Before passing any resolution under section 36(1) or (4) that will apply to elections or polls conducted for any other local authority, the local authority concerned must consult that local authority.
 (2) In determining what resolution is to be adopted under section 36, the local authority concerned must have regard to the results of any consultation under subsection (1).
 
 **Electoral rolls**
@@ -1349,6 +1355,23 @@ Any 10 or more electors who are in favour of or opposed to any one proposal at a
   (b) this Act and any regulations made under this Act apply to the election with any necessary modifications.
 (8) The electoral officer must, as soon as practicable, give public notice of every change of date made by the Order in Council, and may give any other notice that the electoral officer considers desirable.
 
+### 73B Electoral officer may abandon voting method
+(1) The electoral officer may abandon a voting method if, at any time during the voting period, the electoral officer has reasonable grounds to consider that the method has failed or been compromised.
+(2) Without limiting subsection (1), a voting method fails or is compromised if—
+  (a) a system or facility used for the method fails or malfunctions with the effect that some or all of the votes cast using the method are destroyed or otherwise irretrievable:
+  (b) a system or facility used for the method has been manipulated with the effect that it is not possible for the electoral officer to be satisfied, for some or all of the votes cast using the method, that the votes are recorded accurately.
+(3) If the voting method involves a combination of or choice between methods, the decision to abandon a method applies only to (and affects only votes cast using) the method that has failed or been compromised.
+(4) If the electoral officer abandons a voting method,—
+  (a) any votes cast using the method must be disregarded (including for the purpose of section 83(2)); and
+  (b) an elector whose vote is disregarded may vote again—
+    (i) using another method of voting (if subsection (3) applies); or
+    (ii) by casting a special vote; and
+  (c) if the public notice under subsection (5)﻿(a) is given less than 14 days before the close of voting, the electoral officer must adjourn the close of voting to the date that is 14 days after the public notice is given.
+(5) The electoral officer must, as soon as is reasonably practicable,—
+  (a) give public notice that the method has been abandoned and of the matters described in subsection (4); and
+  (b) if it is possible to identify electors whose votes have been disregarded, take all reasonable steps to notify those electors that the method has been abandoned and of the matters described in subsection (4).
+(6) The electoral officer may give any other notice that the electoral officer considers desirable.
+
 **Voting, processing, and counting of votes**
 
 ### 74 Electoral officer to maintain security and secrecy at election or poll
@@ -1524,15 +1547,15 @@ In every case to which section 88B or section 88C applies, the period of 21 days
 ### 89 Electoral records
 (1) As soon as practicable after the completion of the count, the electoral officer must secure all voting documents and specified materials in the prescribed manner.
 (2) The voting documents and materials referred to in subsection (1) must be deposited with the Registrar of the District Court that, in the opinion of the electoral officer, is nearest to the principal office of the local authority.
-(3) The Registrar of the District Court must ensure that the voting documents and materials received under subsection (2)—
+(3) The Registrar of the District Court must ensure that the voting documents and materials received under subsection (2) or section 102C—
   (a) are kept securely—
     (i) for a period of 21 days after public notice is given declaring the result of the election or poll; or
-    (ii) in a case where an application is made for a recount or a petition demanding an inquiry is filed, until the completion of the recount or inquiry; and
+    (ii) in a case where an application is made for a recount or an inquiry or a petition demanding an inquiry is filed, until the completion of the recount or inquiry; and
   (b) are then destroyed.
-(4) Access to the voting documents and materials received under subsection (2) must not be given to any person except—
+(4) Access to the voting documents and materials received under subsection (2) or section 102C must not be given to any person except—
   (a) on the order of a court of competent jurisdiction; or
-  (b) in accordance with regulations made under this Act.
-(5) In this section, specified materials means those documents or records specified in regulations made under this Act as materials to which this section applies.
+  (b) in accordance with section 102G(2)﻿(b) or regulations made under this Act.
+(5) In this section and in section 102C, specified materials means those documents or records specified in regulations made under this Act as materials to which this section applies.
 
 ## Part 4 — Disputed elections and polls
 
@@ -1558,7 +1581,7 @@ In every case to which section 88B or section 88C applies, the period of 21 days
 (3) If, on the recount, the District Court Judge finds that the public declaration was incorrect, the Judge must order the electoral officer to give an amended declaration under section 86 of the result of the election.
 (4) The District Court Judge may make any order as to the costs of, and incidental to, the recount that the Judge considers just and, subject to any order, must direct the deposit made under section 90 to be returned to the person who made it.
 
-**Inquiry into election or poll**
+**Petition for inquiry into election or poll**
 
 ### 93 Petition for inquiry
 (1) Any candidate or any 10 electors with a complaint about the conduct of an election or poll may file a petition in the District Court demanding—
@@ -1641,6 +1664,73 @@ The District Court Judge must determine whether,—
   (b) specified kinds of amendments or additions or deletions be made to that roll; or
   (c) an updated version of that roll be prepared incorporating 1 or more of the changes authorised under paragraphs (a) or (b).
 (6) The only persons eligible to be nominated as candidates at the new election are the persons who were qualified to be nominated as candidates at the void election.
+
+**Application by electoral officer for inquiry into election or poll**
+
+### 102A Application by electoral officer for inquiry
+(1) An electoral officer who has reasonable grounds to believe that an irregularity of the type described in section 102G(1)﻿(a) has occurred in relation to an election or poll for which the electoral officer is responsible may apply to the District Court for an inquiry into the election or poll.
+(2) The application may be made jointly with 1 or more electoral officers responsible for affected elections or polls.
+(3) The application must—
+  (a) be filed after the close of voting and before the official results are declared, but in any case not more than 21 days after the close of voting; and
+  (b) be served on the electoral officer responsible for any affected election or poll that is not a subject of the application; and
+  (c) be heard and determined by a District Court Judge.
+(4) For the purposes of this section, an election or poll is affected if the outcome of the election or poll is to be determined (to any extent) by votes cast in any election or poll conducted in conjunction with an election or poll described in subsection (1).
+
+### 102B Preliminary or official results not to be announced or declared
+(1) After an application for an inquiry has been made in respect of an election or poll, the electoral officer must not, despite sections 85 and 86,—
+  (a) make any announcement (or any further announcement) of the preliminary results of the election or poll; or
+  (b) declare the official result of the election or poll.
+(2) Subsection (1) applies subject to section 102G(2) and to any order of the District Court.
+
+### 102C Deposit of electoral records
+(1) As soon as practicable after an application for an inquiry has been made,—
+  (a) the electoral officer must secure all voting documents and specified materials in the prescribed manner; and
+  (b) the voting documents and materials must be deposited with the District Court.
+(2) See section 89.
+
+### 102D Notice of application
+(1) As soon as practicable after an application for an inquiry has been made, the electoral officer must—
+  (a) give public notice of the application; and
+  (b) if the application concerns an election, give written notice of the application to each candidate.
+(2) The notice must specify the elections and polls in respect of which the application is made and state the grounds for the application.
+(3) If the application for an inquiry is made jointly, the electoral officers may give public notice under this section jointly.
+
+### 102E Who may be respondent
+(1) A notice of an intention to oppose an application for an inquiry may be filed by—
+  (a) any candidate or any 10 electors, if the application concerns an election; or
+  (b) any 10 electors, if the application concerns a poll.
+(2) A person who files a notice under subsection (1) is a respondent to the application.
+
+### 102F Time for holding inquiry
+An inquiry must be commenced within 14 days after the filing of an application for an inquiry, and not less than 7 days’ public notice must be given of the time and place at which the inquiry will be held.
+
+### 102G Result of inquiry
+(1) The District Court Judge conducting the inquiry must determine whether—
+  (a) an irregularity occurred that has—
+    (i) materially affected the result of the election or poll (which may include, for example, an irregularity resulting in an insufficient number of votes being capable of being counted or relied upon for there to be confidence in any result); or
+    (ii) directly or indirectly severely undermined public confidence in the integrity of the election or the validity of the results (or both); and
+  (b) as a result of the irregularity, the election or poll is void.
+(2) If the District Court Judge determines that the election or poll is not void,—
+  (a) the electoral officer must, as soon as practicable after the determination,—
+    (i) give public notice of the determination; and
+    (ii) subject to any direction of the Judge, take any other steps necessary to complete the electoral officer’s functions in relation to the election or poll in accordance with this Act:
+  (b) if the electoral officer requires the voting documents and materials deposited with the District Court under section 102C(1) for the purpose of paragraph (a)﻿(ii), the voting documents and materials must be provided to the electoral officer.
+(3) A determination under this section that an election or poll is not void does not preclude, or determine an inquiry on, a petition under section 93.
+
+### 102H Provisions that apply to inquiry
+The following provisions apply to the inquiry:
+  (a) section 97 (which relates to the powers of the District Court Judge conducting the inquiry):
+  (b) section 99 (which provides that elections or polls must not be declared void on the ground of certain irregularities):
+  (c) section 100(1)﻿(a), (2), and (3) (which relates to the costs of an inquiry).
+
+### 102I New election or poll if election or poll declared void
+(1) Section 102 (which provides for a new election or poll to be held or taken if an election or poll is declared void) applies to the inquiry, subject to the modifications described in subsections (2) and (3).
+(2) If an election or poll is declared void as a result of an irregularity in the operation of a voting method, the District Court Judge may order that the new election or poll be conducted—
+  (a) using a different voting method; or
+  (b) using the same method, subject to specified modifications.
+(3) A District Court Judge who makes an order under subsection (2) may also, if the Judge considers it necessary, postpone the date by which the new election or poll must be held or taken beyond the date provided for in section 102(2).
+
+**Order to be final**
 
 ### 103 Order to be final
 (1) Every determination or order under this Part is final and may not be removed into the High Court by any procedure.
@@ -2112,7 +2202,7 @@ In any proceedings for an offence in relation to any voting documents or other o
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing the powers and duties of electoral officers or other electoral officials, either generally or in relation to any specified class of election or poll or in relation to any specified election or specified poll:
   (b) authorising the use of one or both electoral systems in elections and polls, or any specified class of election or poll, or any specified election or poll, describing each authorised electoral system, and prescribing conditions, standards, performance measures, and forms for the operation of that system:
-  (c) authorising the use of 1 or more voting methods in elections and polls, or any specified class of election or poll, or any specified election or poll, describing each authorised voting method, and prescribing conditions, standards, performance measures, and forms for the operation of that method:
+  (c) authorising the use of 1 or more voting methods in elections and polls, or any specified class of election or poll, or any specified election or poll (or, for the purpose of conducting a trial of a voting method, by a specified class of elector or by all electors in any specified class of election or poll or in any specified election or poll), describing each authorised voting method, and prescribing conditions, standards, performance measures, and forms for the operation of that method:
   (d) prescribing conditions, standards, performance measures, procedures, and forms for the operation of special voting:
   (e) authorising the use of special procedures for the casting of votes by any specified class of person, including (without limitation) persons with specified disabilities, and persons living or travelling overseas or living in remote locations:
   (f) prescribing standards, performance measures, procedures, and forms for the purposes of enrolment or the compilation and use of electoral rolls, authorising the creation and use of electoral rolls for the purpose of any specified class of election or poll or for any specified election or poll or any other specified purpose, and regulating the use of electoral rolls generally:
@@ -2144,21 +2234,30 @@ Regulations made under section 139(1)﻿(b) may include (without limitation) pro
   (e) imposing conditions or restrictions in relation to the use of any such counting program or other computer program for the purposes of an election or poll under this Act.
 
 ### 141 Voting methods
-Regulations made under section 139(1)﻿(c) may include (without limitation) provisions prohibiting or regulating the use of the same or different voting methods for different elections or polls, or elections and polls,—
+(1) Regulations made under section 139(1)﻿(c) may include (without limitation) provisions prohibiting or regulating the use of the same or different voting methods for different elections or polls, or elections and polls,—
   (a) that are conducted—
     (i) at the same or similar times; or
     (ii) in the same or in similar local government areas; or
     (iii) by the same electoral officer:
   (b) using the same or different electoral systems.
+(2) Regulations made under section 139(1)﻿(c) may specify a class of elector by reference to—
+  (a) a local government area or subdivision in which the specified class of electors is eligible to vote; or
+  (b) any other characteristic that makes a voting method suitable for the specified class of electors (for example, in relation to an electronic method of voting, the members of the specified class may reside overseas or in remote locations, or have a relevant disability).
+(3) If regulations made under section 139(1)﻿(c) prescribe as part of a voting method the use of electors’ date of birth information,—
+  (a) the regulations must also prescribe—
+    (i) measures to prevent unauthorised access to, or use of, electors’ date of birth information; and
+    (ii) the manner in which documents or records containing electors’ date of birth information must be secured after the completion of the count (in accordance with section 89(1)):
+  (b) any document or record containing an elector’s date of birth must be treated as specified material for the purpose of section 89(5).
 
 ### 142 Electoral rolls
-Regulations made under section 139(1)﻿(f) may include (without limitation)—
+(1) Regulations made under section 139(1)﻿(f) may include (without limitation)—
   (a) provision for different forms of electoral rolls for different classes of local government areas, including (without limitation) divided local government areas, and local government areas containing 1 or more local board areas or communities:
   (b) requirements for residential electors or ratepayer electors, or any class of residential elector or ratepayer elector, to complete and deliver specified information (whether as a condition of enrolment or otherwise):
   (c) requirements for the Electoral Commission to supply specified information in the prescribed manner to an electoral officer, or other electoral official, or any other class of person (with or without fee or on payment of a reasonable charge):
   (d) requirements concerning the procedures for enrolment of ratepayer electors:
   (e) provisions regulating the method and form of nomination of ratepayer electors for enrolment by organisations, bodies, societies or associations, or other persons (whether corporate or unincorporate):
   (f) provisions regulating the inspection, copying by and use of electoral rolls by local authorities, electoral officials, members of the public or any class of persons, either generally or for any specified purposes.
+(2) Despite subsection (1) and section 139(1)﻿(f), regulations made under section 139(1)﻿(f) must not provide for any electoral roll to include an elector’s date of birth.
 
 ### 143 Conduct of elections and polls
 (1) Regulations made under section 139(1)﻿(h) may include (without limitation)—
