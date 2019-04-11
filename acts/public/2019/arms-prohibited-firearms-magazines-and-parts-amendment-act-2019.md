@@ -367,7 +367,7 @@ Replace section 51(1) with:
 
 ### 54 New section 51A inserted (Presenting prohibited firearm at other person)
 After section 51, insert:Presenting prohibited firearm at other person
-  (1) Every person commits an offence and is liable on conviction to imprisonment for a term of not exceeding 7 years who, unless for some lawful purpose, presents at any other person—
+  (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, unless for some lawful purpose, presents at any other person—
     (a) a prohibited firearm; or
     (b) anything that, in the circumstances, is likely to lead that person to believe it to be a prohibited firearm.
   (2) For the purposes of an offence against subsection (1)﻿(a), it does not matter whether the prohibited firearm is loaded or capable at the time of the offence of discharging any shot, bullet, missile, or other projectile.
@@ -483,7 +483,7 @@ Replace sections 74A and 74B with:Order in Council relating to definitions of pr
 Repeal section 77.
 
 ### 72 Schedule replaced
-Replace the Schedule with the Schedule 1 set out in the Schedule of this Act.
+Replace the Schedule with the Schedule 1 set out in Schedule 1 of this Act.
 
 ## Part 2 — Consequential amendments and revocation
 
