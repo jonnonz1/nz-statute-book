@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -414,7 +414,14 @@ The Corporation must treat the earnings of a private domestic worker as earnings
     (iii) a person who is a spouse or a partner, child, or other dependant of any person referred to in subparagraph (i) or (ii), and who generally accompanies the person referred to in the subparagraph.
 (2) A person does not have a permanent place of residence in New Zealand if he or she has been and remains absent from New Zealand for more than 6 months or intends to be absent from New Zealand for more than 6 months. This subsection overrides subsection (3) but is subject to subsection (4).
 (3) A person has a permanent place of residence in New Zealand if he or she, although absent from New Zealand, has been personally present in New Zealand for a period or periods exceeding in the aggregate 183 days in the 12-month period immediately before last becoming absent from New Zealand. (A person personally present in New Zealand for part of a day is treated as being personally present in New Zealand for the whole of that day.)
-(4) A person does not cease to have a permanent place of residence in New Zealand because he or she is absent from New Zealand primarily in connection with the duties of his or her employment, the remuneration for which is treated as income derived in New Zealand for New Zealand income tax purposes, or for 6 months following the completion of the period of employment outside New Zealand, so long as he or she intends to resume a place of residence in New Zealand.
+(4) A person must be treated as having New Zealand as the person’s permanent place of residence if—
+  (a) the person—
+    (i) intends to resume a place of residence in New Zealand; and
+    (ii) is absent from New Zealand primarily in connection with the person’s employment duties (the remuneration for which is treated as income derived in New Zealand for New Zealand income tax purposes) or for up to 6 months following the completion of the person’s period of employment outside New Zealand; or
+  (b) the person—
+    (i) intends to resume (or assume) a place of residence in New Zealand; and
+    (ii) is the spouse or partner, child, or other dependant of a person described in paragraph (a) and generally accompanies that person; and
+    (iii) is outside New Zealand during the period of employment of the person described in paragraph (a) or for up to 6 months following the completion of it.
 (5) A person is not ordinarily resident in New Zealand if he or she is in New Zealand unlawfully within the meaning of the Immigration Act 2009. Any period during which a person is in New Zealand unlawfully is not counted as time spent in New Zealand for the purposes of subsection (3).
 
 ### 18 Spouse (and spouse in relation to deceased claimant)
@@ -3655,10 +3662,10 @@ A person who commits an offence against this Act or any regulations made under i
   (b) has effect as if it were prescribed by regulations made under subsection (1); and
   (c) lapses on the expiration of the period for which the approval is given.
 
-### 324A Annual review of amounts prescribed by regulations made under section 324
-(1) The Corporation must conduct an annual review of the amounts, prescribed by regulations made under section 324, that the Corporation is liable to pay for the entitlement of rehabilitation.
+### 324A Biennial review of certain amounts
+(1) The Corporation must conduct a review in 2020, and in every second year after that, of the amounts prescribed by regulations made under section 324 that the Corporation is liable to pay for the entitlement of rehabilitation.
 (2) The purpose of the review is to assess whether adjustment to any of the amounts is required to take into account changes in costs of rehabilitation.
-(3) The Corporation must, by 1 December each year,—
+(3) The Corporation must, by 1 December of each year in which a review is conducted,—
   (a) provide a report on the results of the review to the Minister; and
   (b) include in that report any recommendations for change that it may have.
 
@@ -3740,7 +3747,7 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
 
 ### 329 Regulations relating to levies
 (1) For the purposes of Part 6, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
-  (a) specifying, in relation to levies, the maximum amounts and deemed minimum amounts of earnings for levy purposes:
+  (a) specifying, in relation to levies, the maximum amounts or deemed minimum amounts of earnings for levy purposes or methods for calculating any of those amounts:
   (b) prescribing earnings deemed,—
     (i) for the purposes of section 169(1), to have been paid by an employer to the employer's employees or earned by a self-employed person; or
     (ii) for the purposes of section 169(1), to have been earned as a private domestic worker:
@@ -4330,6 +4337,9 @@ Section 447 of the Accident Insurance Act 1998 continues to apply in respect of 
 (1) Part 9 of the Accident Compensation Act 1982 continues in force in order to apply to any decision made by the Corporation—
   (a) under the Accident Compensation Act 1972 or the Accident Compensation Act 1982; or
   (b) under either of those Acts, as applied by section 453 of the Accident Insurance Act 1998 or as applied by this Act.
+(1A) Subsection (1) is subject to the following qualifications:
+  (a) any appeal to which subsection (1) applies that is commenced on or after the date on which this subsection comes into force must be made to the District Court and not to the Accident Compensation Appeal Authority; and
+  (b) to the extent practicable, the procedure for such an appeal is to be the same as the procedure for appeals under Part 5.
 (2) Part 6 of the Accident Rehabilitation and Compensation Insurance Act 1992 continues in force in order to apply to an application for a review or an appeal about a decision made by the Corporation, if—
   (a) the application was made or the appeal was filed before 1 July 1999; and
   (b) subsection (1) does not apply.
@@ -4403,7 +4413,15 @@ From the commencement of this Act,—
 (1) Unless the context otherwise requires, all references in any enactment or document to premiums or levies paid or payable under any former Act must be read as including a reference to levies paid or payable under this Act.
 (2) Unless the context otherwise requires, all references in any enactment or document to levies paid or payable under this Act must be read as including a reference to premiums or levies paid or payable under any former Act.
 
-## Schedule 1AA — Transitional and savings provisions relating to amendments to this Act made by Accident Compensation Amendment Act 2015
+**Disestablishment of Accident Compensation Appeal Authority**
+
+### 402 Disestablishment of Accident Compensation Appeal Authority
+(1) The Accident Compensation Appeal Authority that was established by section 155 of the Accident Compensation Act 1972 and continued by section 103 of the Accident Compensation Act 1982 is disestablished.
+(2) No member or employee of the Authority before its disestablishment is entitled to any payment or compensation for any loss arising out of the disestablishment.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Accident Compensation Amendment Act 2015
 
 ### 1 Transitional provision relating to risk adjustment of Work Account levies
 (1) This clause applies to any employer or self-employed person if the Work Account levy payable by that person immediately before the commencement of this schedule has been adjusted down in accordance with regulations made for the purposes of section 175(1).
@@ -4426,6 +4444,41 @@ From the commencement of this Act,—
   (a) the accredited employers programme framework is amended or revoked; or
   (b) this clause is repealed.
 (3) This clause is repealed on 30 June 2019.
+
+### Part 2 — Provisions relating to Accident Compensation Amendment Act 2019
+
+### 3 Interpretation
+In this Part, 2019 Act means the Accident Compensation Amendment Act 2019.
+
+### 4 Retrospective application of amended section 17(4)
+Section 17(4) (as amended by the 2019 Act) applies between 1 July 1999 and the commencement of this clause as if it were in force during that time.
+
+### 5 Certain claimants may elect rules of former scheme
+(1) This clause applies on and after the commencement of section 10 of the 2019 Act.
+(2) In this clause, former provisions means clauses 52(6) to (9) and 53 of Schedule 1 as they read immediately before the commencement of section 10 of the 2019 Act.
+(3) This clause applies to a claimant who first became entitled to weekly compensation—
+  (a) under the former provisions; and
+  (b) while the claimant was 64 years of age or older but not yet 65 years of age.
+(4) The claimant may make an election under clause 52(8) of the former provisions in accordance with clause 53 of the former provisions, and, if the claimant does so, the former provisions continue to apply to the claimant.
+
+### 6 Certain other dependants may elect rules of former scheme
+(1) This clause applies on and after the commencement of section 10 of the 2019 Act.
+(2) In this clause, former provisions means clauses 72(6) to (9) and 73 of Schedule 1 as they read immediately before the commencement of section 10 of the 2019 Act.
+(3) This clause applies to any other dependant who first became entitled to weekly compensation—
+  (a) under the former provisions; and
+  (b) while the other dependant was 64 years of age or older but not yet 65 years of age.
+(4) The other dependant may make an election under clause 72(8) of the former provisions in accordance with clause 73 of the former provisions, and, if the other dependant does so, the former provisions continue to apply to the other dependant.
+
+### 7 Completion of matters-in-process by Accident Compensation Appeal Authority
+(1) In this clause, matter-in-process means a matter before the Accident Compensation Appeal Authority immediately before the commencement of this clause and includes—
+  (a) an appeal that had been lodged with the Authority but not finally determined by it; and
+  (b) an application to the Authority for leave to appeal to the High Court, including any made under—
+    (i) section 168 of the Accident Compensation Act 1972; or
+    (ii) section 111 of the Accident Compensation Act 1982.
+(2) The Authority must complete any matter-in-process.
+(3) For the limited purpose of completing all matters-in-process, the Authority is deemed to continue, and the Authority’s powers and capacities continue in effect for that purpose.
+(4) A member of the Authority is entitled to be paid reasonable remuneration, fees, or salary for the member’s work in completing a matter-in-process, and any related allowances and expenses.
+(5) The Ministry of Justice must continue to provide support services to the Authority to the extent that those services are required to complete the matters-in-process.
 
 ## Schedule 1 — Entitlements
 
