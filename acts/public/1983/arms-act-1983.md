@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-04-12_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -22,6 +22,7 @@ _Consolidation as at 2018-10-01_
   - **arms office** means any Police station or Police office appointed as such by the Commissioner
   - **cluster munition** has the meaning given to it by section 6 of the Cluster Munitions Prohibition Act 2009
   - **Commissioner** means the Commissioner of Police
+  - **exempt person** means a person listed in section 4A(1)
   - **explosive** —
     (a) means any substance or mixture or combination of substances which in its normal state is capable either of decomposition at such rapid rate as to result in an explosion or of producing a pyrotechnic effect; and
     (b) without limiting paragraph (a), includes gunpowder, nitroglycerine, dynamite, gun-cotton, blasting powder, fulminate of mercury or of other metals, coloured flares, fog signals, fuses, rockets, percussion caps, detonators, cartridges, and ammunition of all descriptions; and
@@ -39,29 +40,21 @@ _Consolidation as at 2018-10-01_
   - **kea gun** means a single shot pistol that is chambered for a ﻿.﻿410 inch shot cartridge
   - **licensed dealer** means a holder of a dealer's licence issued under this Act
   - **member of the Police** means a Police employee within the meaning of section 4 of the Policing Act 2008
-  - **military style semi-automatic firearm** means a firearm (other than a pistol) that is—
-    (a) a semi-automatic firearm having 1 or more of the following features:
-      (i) a folding or telescopic butt:
-      (ii) a magazine designed to hold 0.22-inch rimfire cartridges that—
-        (A) is capable of holding more than 15 cartridges; or
-        (B) is detachable, and by its appearance indicates that it is capable of holding more than 15 cartridges:
-      (iii) a magazine (other than one designed to hold 0.22-inch rimfire cartridges) that—
-        (A) is capable of holding more than 7 cartridges; or
-        (B) is detachable, and by its appearance indicates that it is capable of holding more than 10 cartridges:
-      (iv) bayonet lugs:
-      (v) a flash suppressor:
-      (vi) a component of a kind defined or described by an order under section 74A as a pistol grip for the purposes of this definition; or
-    (b) a semi-automatic firearm of a make and model declared by an order under section 74A to be a military style semi-automatic firearm for the purposes of this Act; or
-    (c) a semi-automatic firearm of a description declared by an order under section 74A to be a military style semi-automatic firearm for the purposes of this Act; or
-    (d) a semi-automatic firearm that has a feature of a kind defined or described in an order under section 74A as a feature of military style semi-automatic firearms for the purposes of this Act
   - **part** —
-    (a) in relation to a pistol, restricted weapon, or military style semi-automatic firearm, includes any thing, such as a butt, stock, magazine, silencer, or sight, which, while not essential for the discharge by a pistol, restricted weapon, or military style semi-automatic firearm of any shot, bullet, missile, or other projectile, is designed or intended to be an integral part of a pistol, restricted weapon, or military style semi-automatic firearm; and
-    (b) in relation to any other firearm, means the action for that firearm
+    (a) in relation to a pistol or a restricted weapon, includes any thing, such as a butt, stock, magazine, silencer, or sight, that, although not essential for the discharge by a pistol or a restricted weapon of any shot, bullet, missile, or other projectile, is designed to be, or is intended to be, an integral part of the pistol or restricted weapon; and
+    (b) in relation to a prohibited firearm, includes any thing, such as a butt, stock, magazine (other than a prohibited magazine), silencer, or sight, that, although not essential for the discharge by the prohibited firearm of any shot, bullet, missile, or other projectile, is designed to be, or is intended to be, an integral part of the prohibited firearm; and
+    (c) in relation to any firearm (other than a pistol, restricted weapon, or prohibited firearm), means the action for that firearm and, if relevant, includes the upper receiver and lower receiver, whether together or individually; and
+    (d) in relation to any firearm, includes any thing, such as bolt carrier group parts, trigger group parts, lower parts kits, barrel, gas block, gas tube, folding or telescoping stock, magazine loader, sub-calibre conversion kits, and carbine stock
   - **pistol** means any firearm that is designed or adapted to be held and fired with 1 hand; and includes any firearm that is less than 762 millimetres in length
+  - **prohibited ammunition** has the meaning given in section 2D
+  - **prohibited firearm** has the meaning given in section 2A
+  - **prohibited item** means a prohibited firearm, a prohibited magazine, a prohibited part, or any or all of those things, as the case requires
+  - **prohibited magazine** has the meaning given in section 2B
+  - **prohibited part** has the meaning given in section 2C
   - **public place** has the meaning given to it by section 2 of the Summary Offences Act 1981
   - **restricted airgun** means an airgun that,—
-    (a) without any of the attachments with which it is customarily used, has the appearance of being a pistol, a restricted weapon, or a military style semi-automatic firearm; or
-    (b) with some or all of the attachments with which it is customarily used, has the appearance of being a pistol, a restricted weapon, or a military style semi-automatic firearm; or
+    (a) without any of the attachments with which it is customarily used, has the appearance of being a pistol, prohibited firearm, or restricted weapon; or
+    (b) with some or all of the attachments with which it is customarily used, has the appearance of being a pistol, prohibited firearm, or restricted weapon; or
     (c) is designed for use in airsoft or paintball sports and,—
       (i) without any of the attachments with which it is customarily used, has the appearance of being a firearm capable of full automatic fire; or
       (ii) with some or all of the attachments with which it is customarily used, has the appearance of being a firearm capable of full automatic fire
@@ -77,11 +70,39 @@ _Consolidation as at 2018-10-01_
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (ab) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
-(2) For the purposes of the definition of restricted airgun in subsection (1), an airgun can have the appearance of a pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire without having the appearance of any particular model of pistol, restricted weapon, military style semi-automatic firearm, or firearm capable of full automatic fire.
+(2) For the purposes of the definition of restricted airgun in subsection (1), an airgun can have the appearance of a pistol, restricted weapon, prohibited firearm, or firearm capable of full automatic fire without having the appearance of any particular model of pistol, restricted weapon, prohibited firearm, or firearm capable of full automatic fire.
+
+### 2A Meaning of prohibited firearm
+In this Act, unless the context otherwise requires, prohibited firearm—
+  (a) means any of the following firearms:
+    (i) a semi-automatic firearm (except a pistol), other than—
+      (A) a semi-automatic firearm that is capable of firing only 0.22 calibre or lower rimfire cartridges and that has a magazine, whether or not detachable or otherwise externally fed, that is capable of holding no more than 10 cartridges commensurate with that firearm’s chamber size:
+      (B) a semi-automatic shotgun with a non-detachable tubular magazine or magazines that are capable of holding no more than 5 cartridges commensurate with that firearm’s chamber size:
+    (ii) a pump-action shotgun that is capable of being used with a detachable magazine:
+    (iii) a pump-action shotgun that has a non-detachable tubular magazine or magazines that are capable of holding more than 5 cartridges commensurate with that firearm’s chamber size:
+  (b) includes any other firearm declared by Order in Council made under section 74A to be a prohibited firearm for the purposes of this Act.
+
+### 2B Meaning of prohibited magazine
+In this Act, unless the context otherwise requires, prohibited magazine,—
+  (a) in relation to a shotgun, means a magazine, whether or not detachable, that is capable of holding more than 5 cartridges commensurate with that shotgun’s chamber size:
+  (b) in relation to any other firearm (except a pistol),—
+    (i) means any detachable magazine—
+      (A) that is capable of holding 0.22 calibre or lower rimfire cartridges and that is capable of holding more than 10 of those cartridges:
+      (B) that is capable of holding more than 10 cartridges and being used with a semi-automatic or fully automatic firearm:
+    (ii) means any other magazine, whether or not detachable, that is capable of holding more than 10 cartridges:
+  (c) includes any other magazine declared by Order in Council made under section 74A to be a prohibited magazine for the purposes of this Act.
+
+### 2C Meaning of prohibited part
+In this Act, unless the context otherwise requires, prohibited part means—
+  (a) a part of a prohibited firearm:
+  (b) a component that can be applied to enable, or take significant steps towards enabling, a firearm to be fired with, or near to, a semi-automatic or automatic action.
+
+### 2D Meaning of prohibited ammunition
+In this Act, prohibited ammunition means any ammunition declared by the Governor-General by Order in Council made under section 74A to be prohibited ammunition for the purposes of this Act.
 
 ### 3 Act to bind the Crown
 (1) Subject to subsections (2) and (3), this Act binds the Crown.
-(2) Nothing in this Act renders unlawful the carriage or possession of firearms, airguns, pistols, restricted weapons, ammunition, or explosives—
+(2) Nothing in this Act renders unlawful the carriage or possession of firearms, airguns, pistols, magazines, parts, restricted weapons, ammunition, or explosives—
   (a) by any person in the course of that person's duties as—
     (i) a member of the New Zealand Defence Force or a member of the Cadet Forces; or
     (ia) a member of a visiting force under the Visiting Forces Act 2004; or
@@ -93,10 +114,13 @@ _Consolidation as at 2018-10-01_
     (vi) an employee of the body that, immediately before the commencement of the Arms Amendment Act 2000 was known as the Institute of Environmental Science and Research Ltd; or
     (vii) a person working in any forensic laboratory or facility that provides forensic services to the Police:
   (ab) by a member of the New Zealand Defence Force or a member of the Police in the course of exercising any power or performing any function under the Customs and Excise Act 2018:
-  (b) by any other person authorised pursuant to regulations made under this Act to carry or possess firearms, airguns, pistols, restricted weapons, ammunition, or explosives belonging to the Crown.
+  (b) by any other person authorised pursuant to regulations made under this Act to carry or possess firearms, airguns, pistols, magazines, parts, restricted weapons, ammunition, or explosives belonging to the Crown.
 (3) Nothing in this Act renders unlawful—
-  (a) the importation by the Crown of firearms, airguns, pistols, restricted weapons, ammunition, or explosives; or
-  (b) the sale or supply by the Crown or to the Crown of firearms, airguns, pistols, restricted weapons, ammunition, or explosives.
+  (a) the importation by the Crown of firearms, airguns, pistols, magazines, parts, restricted weapons, ammunition, or explosives; or
+  (b) the sale or supply by the Crown or to the Crown of firearms, airguns, pistols, magazines, parts, restricted weapons, ammunition, or explosives.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 4 Power to declare weapons to be restricted weapons or specially dangerous airguns
 (1) For the purposes of this Act, the Governor-General may from time to time, by Order in Council, declare—
@@ -105,19 +129,46 @@ _Consolidation as at 2018-10-01_
 (2) Any Order in Council made under this section may relate to any weapon or airgun specified by its name or trade name, or to any class of weapons or airguns identified by a description of that class.
 (3) An Order in Council made under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
+### 4A Persons who may apply to import, sell, supply, possess, or use prohibited items
+(1) Only the following persons may apply to import, sell, supply, possess, or use a prohibited item in accordance with the provisions of this Act and in their capacity as—
+  (a) a licensed dealer or an employee or agent of a licensed dealer:
+  (b) a bona fide collector of firearms:
+  (c) a person to whom the prohibited item has special significance as an heirloom or a memento:
+  (d) a director or curator of a bona fide museum:
+  (e) an approved employee or approved member referred to in section 29(2)﻿(e):
+  (f) a person who is employed or engaged by the Department of Conservation and involved in operations for the purpose of controlling wild animals or animal pests in accordance with a specified Act (subject to prescribed limits, if any):
+  (g) a person who is the holder of a concession granted by the Minister of Conservation to undertake wild animal recovery operations in accordance with a specified Act (subject to prescribed limits, if any):
+  (h) a person who is employed or engaged by a management agency as defined in section 100 of the Biosecurity Act 1993 and involved in operations for the purpose of controlling wild animals or animal pests in accordance with that Act (subject to prescribed limits, if any):
+  (i) a person whose sole business, or a substantial part of whose business, is providing services to control any prescribed wild animals or animal pests, or a person employed or engaged by that person for that purpose (subject to prescribed limits, if any).
+(2) In subsection (1)﻿(f) and (g), specified Act means—
+  (a) the Wildlife Act 1953:
+  (b) the Wild Animal Control Act 1977:
+  (c) the Conservation Act 1987:
+  (d) the Biosecurity Act 1993.
+
 **Licensed dealers**
 
 ### 5 Dealers to be licensed
-(1) No person shall—unless he is the holder of a dealer's licence issued to him under this Act by a commissioned officer of Police.
-  (a) in the way of his business, sell any firearm, airgun, pistol, or restricted weapon; or
-  (b) manufacture for sale any firearm, airgun, pistol, or restricted weapon,—
+(1) No person may, unless they hold a dealer’s licence under this Act issued by a commissioned officer of the Police,—
+  (a) in the way of business sell any firearm, prohibited magazine, prohibited part, airgun, pistol, or restricted weapon; or
+  (b) manufacture for sale any firearm, prohibited magazine, prohibited part, airgun, pistol, or restricted weapon.
 (2) Every application for a dealer's licence shall be made on a form provided by a member of the Police.
-(3) A dealer's licence shall be issued if the commissioned officer of Police to whom the application is made is satisfied that the applicant is a fit and proper person to carry on the business of a dealer in, or manufacturer for sale of, firearms, airguns, pistols, and restricted weapons.
+(3) A dealer's licence shall be issued if the commissioned officer of Police to whom the application is made is satisfied that the applicant is a fit and proper person to carry on the business of a dealer in, or manufacturer for sale of, firearms, prohibited magazines, airguns, pistols, and restricted weapons.
 (3A) Despite subsections (1) to (3), no dealer's licence is to be issued for the carrying on of business as a dealer in, or manufacturer for sale of, anti-personnel mines or cluster munitions.
+(3B) Despite subsections (1) to (3), no dealer’s licence may be issued for the manufacture for sale of prohibited items.
 (4) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $1,000 who contravenes subsection (1).
 
 ### 6 Dealer's licence to be personal to holder
 A dealer's licence shall be personal to the person to whom it is issued, and shall not be transferable or vest by operation of law in any person other than the person to whom it is issued.
+
+### 6A Conditions of dealer’s licence
+(1) Every dealer’s licence is issued subject to the conditions that any person who is in possession of a pistol, restricted weapon (other than an air pistol), prohibited firearm, or prohibited magazine by virtue of that licence must—
+  (a) produce that pistol, restricted weapon (other than an air pistol), prohibited firearm, or prohibited magazine to any member of the Police on demand; and
+  (b) permit the member of the Police to inspect the pistol, restricted weapon (other than an air pistol), prohibited firearm, or prohibited magazine and the place where it is kept, and, for that purpose, to enter at all reasonable times upon the premises where the place is situated.
+(2) It is the duty of every member of the Police exercising any power conferred by subsection (1)—
+  (a) to identify themselves to the person in possession of the pistol, restricted weapon, prohibited firearm, or prohibited magazine; and
+  (b) to tell the person in possession of the pistol, restricted weapon, prohibited firearm, or prohibited magazine that the power is being exercised under subsection (1); and
+  (c) if they are not in uniform, to produce on initial entry, and, if requested, at any subsequent time, evidence that they are a member of the Police.
 
 ### 7 Place of business
 A dealer's licence shall be issued in respect of 1 place of business only.
@@ -136,95 +187,116 @@ A dealer's licence, unless sooner revoked under section 9, shall continue in for
 ### 9 Revocation of dealer's licence
 A dealer's licence may be revoked at any time by the Commissioner.
 
-### 10 Restriction on possession of pistol or restricted weapon by licensed dealer
-(1) No licensed dealer shall take a pistol or restricted weapon into his possession for sale unless he obtains it—
-  (a) pursuant to a permit issued for the purposes of section 16(1) or under section 35; and
+### 10 Restriction on possession of pistol, prohibited items, or restricted weapon by licensed dealer
+(1) No licensed dealer may take a pistol, prohibited firearm, prohibited magazine, or restricted weapon into their possession for sale unless the licensed dealer obtains it—
+  (a) pursuant to a permit issued for the purposes of section 16(1) or under section 35 or 35A; and
   (b) either—
-    (i) from a holder of a firearms licence that bears an endorsement made under section 30; or
-    (ii) from a licensed dealer.
-(2) Notwithstanding anything in subsection (1), a licensed dealer does not contravene that subsection if, on obtaining possession of any pistol or restricted weapon from any person, the licensed dealer immediately surrenders the pistol or restricted weapon to the nearest Arms Office for inspection and inquiries.
-(3) Every person commits an offence against this Act and is liable on conviction to a fine not exceeding $2,000 who contravenes subsection (1).
+    (i) from a holder of a firearms licence that bears an endorsement made under section 30 or 30B; or
+    (ii) from another licensed dealer.
+(2) No licensed dealer may take a prohibited part into their possession for sale unless the licensed dealer obtains it—
+  (a) from a holder of a firearms licence that bears an endorsement made under section 30B; or
+  (b) pursuant to a permit issued for the purposes of section 16(1); or
+  (c) from another licensed dealer.
+(3) Every person who contravenes subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding $2,000.
+(4) Subsection (3) is subject to section 59A(1).
 
 ### 11 Dealers and their employees and agents to hold firearms licences
-(1) No natural person, being—shall sell any firearm, airgun, pistol, or restricted weapon unless he is the holder of a firearms licence.
+(1) No natural person, being—shall sell any firearm, airgun, pistol, prohibited item, or restricted weapon unless he is the holder of a firearms licence.
   (a) a licensed dealer; or
   (b) an employee or agent of a licensed dealer,—
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1).
 
 ### 12 Record of dealings by licensed dealers
-(1) Every licensed dealer shall keep at the place of business referred to in his licence a book in which he shall record such particulars as may be prescribed by regulations made under this Act, relating to the receipt, sale, or manufacture by him of any firearms, airguns, pistols, or restricted weapons.
+(1) Every licensed dealer shall keep at the place of business referred to in his licence a book in which he shall record such particulars as may be prescribed by regulations made under this Act, relating to the receipt, sale, or manufacture by him of any firearms, airguns, pistols, prohibited items, or restricted weapons.
 (2) Every licensed dealer shall at all times—
   (a) permit any member of the Police to inspect and make copies of any entries in the book so kept by him pursuant to subsection (1); and
-  (b) afford, on demand, to any member of the Police all further information in his possession with respect to any dealings by him relating to firearms, airguns, pistols, or restricted weapons; and
+  (b) afford, on demand, to any member of the Police all further information in his possession with respect to any dealings by him relating to firearms, airguns, pistols, prohibited items, or restricted weapons; and
   (c) permit any member of the Police to inspect—
-    (i) any firearms, airguns, pistols, or restricted weapons in his possession; and
-    (ii) the premises in which, and the conditions under which, his stock of firearms, airguns, pistols, or restricted weapons is kept.
+    (i) any firearms, airguns, pistols, prohibited items, or restricted weapons in his possession; and
+    (ii) the premises in which, and the conditions under which, his stock of firearms, airguns, pistols, prohibited items, or restricted weapons is kept.
 (3) Every licensed dealer commits an offence and is liable on conviction to a fine not exceeding $500 who acts in contravention of subsection (1) or subsection (2).
+(4) Subsection (3) is subject to section 59A(2).
 
-### 13 Seizure of firearms, ammunition, airguns, pistols, and restricted weapons held by licensed dealers
-(1) Any member of the Police may, on being authorised to do so by warrant under the hand of the Commissioner, seize and take possession of all or any firearms, ammunition, airguns, pistols, or restricted weapons in the possession of or under the control of a licensed dealer.
-(2) For the purpose of executing a warrant issued under subsection (1), the member of the Police authorised by that warrant may enter into or upon any land or building in or upon which any such firearms, ammunition, airguns, pistols, or restricted weapons may be, and in so doing may use such force as may be necessary.
+### 13 Seizure of firearms, ammunition, airguns, pistols, prohibited items, and restricted weapons held by licensed dealers
+(1) Any member of the Police may, on being authorised to do so by warrant under the hand of the Commissioner, seize and take possession of all or any firearms, ammunition, airguns, pistols, prohibited items, or restricted weapons in the possession of or under the control of a licensed dealer.
+(2) For the purpose of executing a warrant issued under subsection (1), the member of the Police authorised by that warrant may enter into or upon any land or building in or upon which any such firearms, ammunition, airguns, pistols, prohibited items, or restricted weapons may be, and in so doing may use such force as may be necessary.
 (3) It is the duty of everyone executing a warrant issued under subsection (1)—
   (a) to have it with him; and
   (b) to produce it on initial entry and, if requested, at any subsequent time; and
   (c) if he is not in uniform, to produce on initial entry and, if requested, at any subsequent time, evidence that he is a member of the Police.
-(4) Subject to section 14, all firearms, ammunition, airguns, pistols, or restricted weapons seized under this section may be detained by the Police for such period as the Commissioner thinks fit, or may, in the discretion of the Minister of Police, become the property of the Crown, free and discharged from all right, title, estate, or interest possessed in respect thereof by any other person.
-(5) Where any firearms, ammunition, airguns, pistols, or restricted weapons have become the property of the Crown pursuant to subsection (4), the Minister of Finance shall pay compensation therefor out of a Crown Bank Account.
+(4) Subject to section 14, all firearms, ammunition, airguns, pistols, prohibited items, or restricted weapons seized under this section may be detained by the Police for such period as the Commissioner thinks fit, or may, in the discretion of the Minister of Police, become the property of the Crown, free and discharged from all right, title, estate, or interest possessed in respect thereof by any other person.
+(5) Where any firearms, ammunition, airguns, pistols, prohibited items, or restricted weapons have become the property of the Crown pursuant to subsection (4), the Minister of Finance shall pay compensation therefor out of a Crown Bank Account.
 
-### 14 Disposal of firearms, ammunition, airguns, pistols, and restricted weapons of dealer whose licence is revoked
-Where a dealer's licence is revoked under section 9, the dealer may, within 3 months thereafter or within such longer period as the Commissioner may allow, sell, or otherwise dispose of, to persons approved for the purpose by a commissioned officer of Police the firearms, ammunition, airguns, pistols, and restricted weapons in his possession or under his control at the date of the revocation of the licence.
+### 14 Disposal of firearms, ammunition, airguns, pistols, prohibited items, and restricted weapons of dealer whose licence is revoked
+Where a dealer's licence is revoked under section 9, the dealer may, within 3 months thereafter or within such longer period as the Commissioner may allow, sell, or otherwise dispose of, to persons approved for the purpose by a commissioned officer of Police the firearms, ammunition, airguns, pistols, prohibited items, and restricted weapons in his possession or under his control at the date of the revocation of the licence.
 
 ### 15 Offence for licensed dealer to carry on business following revocation of his licence
-(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, being a person whose dealer's licence has been revoked under section 9,—any firearm, ammunition, airgun, pistol, or restricted weapon.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, being a person whose dealer's licence has been revoked under section 9,—any firearm, ammunition, airgun, pistol, prohibited item, or restricted weapon.
   (a) sells by way of business; or
   (b) has any business interest in—
 (2) Nothing in subsection (1) applies in respect of—
-  (a) any firearms, ammunition, airguns, pistols, or restricted weapons being sold or otherwise disposed of in accordance with section 14; or
+  (a) any firearms, ammunition, airguns, pistols, prohibited items, or restricted weapons being sold or otherwise disposed of in accordance with section 14; or
   (b) any person who, after the revocation or the last revocation, as the case may be, of his dealer's licence, has again been issued with a dealer's licence.
 
-**Importation of firearms**
+**Importation of firearms and ammunition**
 
-### 16 Offence to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons without permit
-(1) A person must not, otherwise than pursuant to a permit issued to the person by a member of the Police, bring or cause to be brought or sent into New Zealand—
-  (a) a firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon; or
-  (b) any part of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon.
+### 16 Offence to import firearms, etc, without permit
+(1) A person must have a permit to bring or cause to be brought or sent into New Zealand any of the following items:
+  (a) a firearm (other than a prohibited firearm), pistol, starting pistol, restricted airgun, or restricted weapon:
+  (b) any part of a firearm (other than a prohibited firearm), pistol, starting pistol, or restricted weapon:
+  (c) a prohibited item.
 (2) In this section New Zealand does not include the harbours and other territorial waters of New Zealand.
-(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000 or to both who acts in contravention of subsection (1).
+(3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $2,000 or to both who acts in contravention of subsection (1)﻿(a) or (b).
+(4) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who acts in contravention of subsection (1)﻿(c).
+
+### 16A Offence to import prohibited ammunition
+(1) A person must not, without reasonable excuse, bring or cause to be brought or sent into New Zealand any prohibited ammunition.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who acts in contravention of subsection (1).
 
 ### 17 Burden of proof
-In any proceedings against any person in respect of any offence against section 16 of this Act in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, starting pistol, or restricted weapon) which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
+In any proceedings against any person in respect of any offence against section 16(1)﻿(a) or (b) in which it is proved that he did any act in relation to a firearm, pistol, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, starting pistol, or restricted weapon) which would have amounted to an offence if that act were not done pursuant to a permit issued to him by a member of the Police, the burden of proving that he did that act pursuant to any such permit shall lie on him.
 
-### 18 Issue of permits to import firearms, parts of firearms, or restricted airguns
-(1) Any member of the Police to whom application is made for the issue of a permit for the purposes of section 16(1)—
-  (a) may require the applicant to produce for examination and testing such samples of any firearms, pistols, military style semi-automatic firearms, starting pistols, restricted airguns, or restricted weapons of any kind referred to in the application as the member of the Police may consider necessary; and
-  (b) may, in the discretion of that member of the Police, refuse to grant the permit with respect to—
-    (i) any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon of any kind; or
-    (ii) any parts of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon of any kind.
-(2) Without limiting the discretion conferred by subsection (1)﻿(b), no application for a permit for the purposes of section 16(1) in respect of—shall be granted otherwise than by the Commissioner who shall first be satisfied that there are special reasons why the pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon or parts to which the application relates should be allowed into New Zealand.
-  (a) a pistol, military style semi-automatic firearm, restricted airgun, or restricted weapon; or
-  (b) parts of a pistol, military style semi-automatic firearm, or restricted weapon,—
+### 18 Issue of permit to import
+(1) A member of the Police to whom an application is made for the issue of a permit for the purposes of section 16(1) may require the applicant to produce for examination and testing samples of any firearms, pistols, starting pistols, restricted airguns, prohibited magazines, prohibited parts, or restricted weapons of any kind referred to in the application that the member of the Police considers necessary.
+(2) A member of the Police may grant an application for the issue of a permit for the purposes of section 16(1) in respect of the following items:
+  (a) any firearm (other than a firearm referred to in subsection (2A)) or starting pistol; or
+  (b) any part of an item described in paragraph (a).
+(2A) The Commissioner may grant an application for the issue of a permit for the purposes of section 16(1) in respect of the following items:
+  (a) a pistol, prohibited item, restricted airgun, or restricted weapon; or
+  (b) any part of a pistol or restricted weapon.
+(2B) The Commissioner may issue a permit under subsection (2A) only if—
+  (a) the Commissioner is satisfied that there are special reasons why the item should be allowed into New Zealand; and
+  (b) in case of an application by—
+    (i) a licensed dealer in respect of a prohibited item, the Commissioner is satisfied that the dealer is acting as an agent for a person who is the holder of a firearms licence that bears an endorsement made under section 30B that permits the person to possess the prohibited item; or
+    (ii) a person other than a licensed dealer in respect of a prohibited item, the person is the holder of a firearms licence that bears an endorsement under section 30B that permits the person to possess the prohibited item.
+(2C) If the application for the issue of a permit for the purposes of section 16(1) is in relation to a prohibited part that may be used by a licence holder on or with a firearm that is not a prohibited firearm (a non-prohibited firearm), the Commissioner—
+  (a) must be satisfied that the part will only be used by the licence holder with or on a non-prohibited firearm; and
+  (b) may impose conditions on the permit that enable the Police to verify the use of that part.
 (3) Any permit issued for the purposes of section 16(1) is personal to the person to whom it is issued and may not be transferred to any other person.
 (4) Any permit issued for the purposes of section 16(1) may be at any time revoked by a commissioned officer of Police.
 (5) A permit for the purposes of section 16(1) is in no case to be granted in respect of an anti-personnel mine or a cluster munition.
 
-### 18A Expiration of permits to import firearms, starting pistols, restricted airguns, or restricted weapons, or parts of firearms, starting pistols, or restricted weapons
+### 18A Expiry of permits to import
 Unless sooner revoked under section 18(4), a permit issued for the purposes of section 16(1) shall expire 12 months after the date on which that permit was issued.
 
 ### 18B Samples
-(1) Where an applicant is, pursuant to a requirement made under section 18(1)﻿(a) by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
-(2) Where any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon which is brought into New Zealand pursuant to a permit issued for the purposes of section 16(1) and which is required by its description in that permit to correspond with a sample produced to a member of the Police does not so correspond and is not otherwise approved for importation into New Zealand, the person who brought the firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon into New Zealand or caused it to be brought or sent into New Zealand shall, within 12 months after being informed in writing by a member of the Police that it does not so correspond and that it is not otherwise approved for importation into New Zealand, export it, or cause it to be exported, from New Zealand.
-(3) If any firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon to which subsection (2) relates is not exported from New Zealand within the period of 12 months specified in that subsection, that firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon may be disposed of in such manner as the Commissioner may direct.
+(1) Where an applicant is, pursuant to a requirement made under section 18(1)﻿(a) by a member of the Police, required to produce for examination and testing a sample of any firearm, pistol, prohibited item, starting pistol, restricted airgun, or restricted weapon, the applicant shall, as soon as practicable, produce that sample in accordance with that requirement and shall ensure that the sample has not been modified in any way before it is so produced.
+(2) Where any firearm, pistol, prohibited item, starting pistol, restricted airgun, or restricted weapon which is brought into New Zealand pursuant to a permit issued for the purposes of section 16(1) and which is required by its description in that permit to correspond with a sample produced to a member of the Police does not so correspond and is not otherwise approved for importation into New Zealand, the person who brought the firearm, pistol, prohibited item, starting pistol, restricted airgun, or restricted weapon into New Zealand or caused it to be brought or sent into New Zealand shall, within 12 months after being informed in writing by a member of the Police that it does not so correspond and that it is not otherwise approved for importation into New Zealand, export it, or cause it to be exported, from New Zealand.
+(3) If any firearm, pistol, prohibited item, starting pistol, restricted airgun, or restricted weapon to which subsection (2) relates is not exported from New Zealand within the period of 12 months specified in that subsection, that firearm, pistol, prohibited item, starting pistol, restricted airgun, or restricted weapon may be disposed of in such manner as the Commissioner may direct.
 
 ### 19 Seizure of illegally imported items
-A member of the Police or officer of the Customs who suspects on reasonable grounds that a firearm, pistol, military style semi-automatic firearm, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, military style semi-automatic firearm, starting pistol, or restricted weapon) has been brought into New Zealand in breach of section 16(1), or has been brought into the harbours or other territorial waters of New Zealand and is intended to be brought into New Zealand in breach of section 16(1),—
+(1) A member of the Police or officer of the Customs who suspects on reasonable grounds that a firearm, pistol, prohibited item, starting pistol, restricted airgun, or restricted weapon (or a part of a firearm, pistol, prohibited item, starting pistol, or restricted weapon) has been brought into New Zealand in breach of section 16(1), or has been brought into the harbours or other territorial waters of New Zealand and is intended to be brought into New Zealand in breach of section 16(1),—
   (a) may seize and detain it; and
   (b) in effecting its seizure, may use any reasonably necessary force.
+(2) A member of the Police or an officer of the New Zealand Customs Service who suspects on reasonable grounds that any prohibited ammunition has been brought or sent into New Zealand in breach of section 16A—
+  (a) may seize and detain the prohibited ammunition; and
+  (b) in effecting the seizure, may use any reasonably necessary force.
 
 **General restrictions on possession of firearms and airguns**
 
 ### 20 Restrictions on possession of firearms
 (1) Except as provided in this Act or as otherwise provided in regulations made under this Act, no person shall have a firearm in his possession unless he is of or over the age of 16 years and is the holder of a firearms licence.
-(2) The holding of a firearms licence shall not in itself entitle any person to have a pistol or a military style semi-automatic firearm or a restricted weapon in that person's possession.
+(2) The holding of a firearms licence shall not in itself entitle any person to have a pistol, prohibited item, or restricted weapon in that person's possession.
 (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
 
 ### 21 Restrictions on possession of airguns
@@ -249,7 +321,7 @@ A member of the Police or officer of the Customs who suspects on reasonable grou
   (b) any antique firearm; or
   (c) any other make, type, or manufacture of firearm exempted from the provisions of section 20 or section 21 by regulations made under this Act.
 (2) It is a good defence to a prosecution for an offence against section 20 or section 21 if the defendant proves,—
-  (a) in the case of a prosecution relating to the possession of a firearm (not being a pistol or a restricted weapon) by any person,—
+  (a) in the case of a prosecution relating to the possession of a firearm (not being a pistol, prohibited firearm, or restricted weapon) by any person,—
     (i) that the firearm was in the possession of that person for use under the immediate supervision of the holder of a firearms licence; and
     (ii) that at all times while that person was in possession of the firearm, that person was under the immediate supervision of the holder of a firearms licence; or
   (b) in the case of a prosecution relating to the possession of an airgun (not being a specially dangerous airgun),—
@@ -302,10 +374,10 @@ Without limiting the generality of sections 24 and 27, it is hereby declared tha
   (b) that such an order is in force under that Act in respect of that person.
 
 ### 28 Effect of revocation or surrender of firearms licence
-(1) On the revocation or surrender of a firearms licence, the person who was the holder of that licence shall, on demand, deliver every firearm, pistol, or restricted weapon in his possession or under his control to a member of the Police.
-(2) Any person whose firearms licence is revoked or surrendered may, at any time within 3 months thereafter or such longer period as the Commissioner may allow, sell or otherwise dispose of any firearm, pistol, or restricted weapon owned by him to a person approved for the purpose by a member of the Police.
-(3) Subject to subsection (2), all firearms, pistols, or restricted weapons delivered to a member of the Police pursuant to this section may be detained for such period as the Commissioner thinks fit, or may, in the discretion of the Minister of Police, become the property of the Crown, free and discharged from all right, title, or interest possessed in respect thereof by any other person.
-(4) The Minister of Finance shall pay out of a Crown Bank Account compensation for the value of all firearms, pistols, or restricted weapons delivered to a member of the Police under this section and which have become the property of the Crown as hereinbefore provided.
+(1) On the revocation or surrender of a firearms licence, the person who was the holder of that licence shall, on demand, deliver every firearm, pistol, prohibited magazine, prohibited part, or restricted weapon in his possession or under his control to a member of the Police.
+(2) Any person whose firearms licence is revoked or surrendered may, at any time within 3 months thereafter or such longer period as the Commissioner may allow, sell or otherwise dispose of any firearm, pistol, prohibited magazine, prohibited part, or restricted weapon owned by him to a person approved for the purpose by a member of the Police.
+(3) Subject to subsection (2), all firearms, pistols, prohibited magazines, prohibited parts, or restricted weapons delivered to a member of the Police pursuant to this section may be detained for such period as the Commissioner thinks fit, or may, in the discretion of the Minister of Police, become the property of the Crown, free and discharged from all right, title, or interest possessed in respect thereof by any other person.
+(4) The Minister of Finance shall pay out of a Crown Bank Account compensation for the value of all firearms, pistols, prohibited magazines, prohibited parts, or restricted weapons delivered to a member of the Police under this section and which have become the property of the Crown as hereinbefore provided.
 (5) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who contravenes subsection (1).
 
 ### 29 Application for endorsements in respect of pistol or restricted weapon
@@ -326,29 +398,61 @@ Without limiting the generality of sections 24 and 27, it is hereby declared tha
 (4) Every application under subsection (1) or subsection (2) shall be made on a form provided by a member of the Police.
 
 ### 30 Power to make endorsement in respect of pistols or restricted weapons
-On receiving an application under section 29, a member of the Police may, subject to any direction from the Commissioner, make the endorsement applied for if he is satisfied—
+(1) On receiving an application under section 29, a member of the Police may, subject to any direction from the Commissioner, make the endorsement applied for if he is satisfied—
   (a) that the applicant is a fit and proper person to be in possession of the pistol or restricted weapon to which the application relates; and
   (b) that the applicant should, on grounds or in a capacity specified in section 29, be permitted to have possession of the pistol or restricted weapon to which the application relates; and
   (c) in the case of an application under section 29(2)﻿(e), that possession of the pistol or restricted weapon by the employee or member is necessary for the purpose of—
     (i) making a broadcast; or
     (ii) producing or staging a play; or
     (iii) filming a cinematic production or television film or making a video recording.
+(2) A person whose firearms licence bears an endorsement made under this section is not entitled to lawfully possess a pistol or restricted weapon until—
+  (a) the person is issued with a permit for the purposes of section 16(1) to bring or cause to be brought or sent into New Zealand a pistol or restricted weapon; or
+  (b) the endorsement is made specific to the pistol or restricted weapon in respect of which a permit has been issued under section 35.
 
-### 30A Application for endorsement in respect of military style semi-automatic firearm
-(1) Any person, being of or over the age of 18 years and being an applicant for a firearms licence or the holder of a firearms licence, may apply at an Arms Office to a member of the Police for an endorsement permitting that person to have possession of a military style semi-automatic firearm.
+### 30A Application for endorsement in respect of prohibited firearm or prohibited magazine
+(1) An exempt person who is of or over the age of 18 years, and who is a holder of a firearms licence or is applying for a firearms licence, may apply for an endorsement on their licence permitting them to possess a prohibited firearm or prohibited magazine in their capacity as an exempt person.
 (2) Every application under subsection (1) shall be made on a form provided by a member of the Police.
+(2A) An application must state in which capacity referred to in section 4A(1) the applicant is an exempt person.
 (3) Every applicant shall permit a member of the Police to take, or to cause to be taken, for the purposes of the application, a photograph or photographs of the applicant.
 
-### 30B Power to make endorsement in respect of military style semi-automatic firearm
-On receiving an application under section 30A, a member of the Police may, subject to any direction from the Commissioner, make the endorsement applied for if that member is satisfied that the applicant is a fit and proper person to be in possession of the military style semi-automatic firearm to which that application relates.
+### 30B Power to make endorsement in respect of prohibited firearm or prohibited magazine
+(1) On receiving an application under section 30A, a member of the Police may, subject to any direction of the Commissioner, make an endorsement on the applicant’s firearms licence permitting the applicant to possess a prohibited firearm or prohibited magazine if the member of the Police is satisfied that—
+  (a) the applicant is a fit and proper person to possess a prohibited firearm or prohibited magazine to which the application relates; and
+  (b) it is appropriate for the applicant, in their capacity as an exempt person, to possess a prohibited firearm or prohibited magazine.
+(2) In the case of an application made by an exempt person described in section 4A(1)﻿(c), the member of the Police must, before making an endorsement, be satisfied—
+  (a) of the matters in subsection (1)﻿(a); and
+  (b) that in all the circumstances it is reasonable to grant the endorsement.
+(3) In the case of an application made by an exempt person described in section 4A(1)﻿(e), the member of the Police must, before making an endorsement, be satisfied—
+  (a) of the matters in subsection (1); and
+  (b) that the possession of a prohibited firearm or prohibited magazine by the applicant is required for the purpose of—
+    (i) making a broadcast; or
+    (ii) producing or staging a play; or
+    (iii) filming a cinematic production or television film or making a video recording.
+(4) In the case of an application made by an exempt person described in section 4A(1)﻿(f), (g), (h), or (i), the member of the Police must, before making an endorsement, be satisfied—
+  (a) of the matters in subsection (1); and
+  (b) that the exempt person has a genuine need to possess the prohibited firearm or prohibited magazine; and
+  (c) that the prohibited firearm or prohibited magazine will be used by the exempt person solely for the purpose of controlling wild animals or animal pests; and
+  (d) that that purpose cannot effectively be achieved by the use of a non-prohibited firearm or non-prohibited magazine.
+(5) A person whose firearms licence bears an endorsement made under this section is not entitled to lawfully possess a prohibited firearm or prohibited magazine until—
+  (a) the person is issued with a permit for the purposes of section 16(1) to bring or cause to be brought or sent into New Zealand a prohibited firearm or prohibited magazine; or
+  (b) the endorsement is made specific to the prohibited firearm or prohibited magazine in respect of which a permit has been issued under section 35A.
 
-### 31 Possession of firearm, pistol, military style semi-automatic firearm, or restricted weapon for stage, film, or television purposes
-Notwithstanding anything in this Act, a person who is not entitled under this Act to have possession of a firearm or pistol or military style semi-automatic firearm or restricted weapon may have possession of that firearm or pistol or military style semi-automatic firearm or restricted weapon for the purpose of making a broadcast or producing or staging a play or filming a cinematic production or television film if—
-  (a) that person is under the immediate supervision of a person who is entitled under this Act to have possession of that firearm or pistol or military style semi-automatic firearm or restricted weapon; and
-  (b) that person has possession of that firearm or pistol or military style semi-automatic firearm or restricted weapon only during the broadcast or the production or staging of the play or the filming of the cinematic production or television film; and
-  (c) that person is not in possession of any ammunition (other than blank ammunition) for the firearm or pistol, or military style semi-automatic firearm or restricted weapon.
+### 31 Possession of firearm, pistol, prohibited item, or restricted weapon for stage, film, or television purposes
+Notwithstanding anything in this Act, a person who is not entitled under this Act to have possession of a firearm or pistol or prohibited item or restricted weapon may have possession of that firearm or pistol or prohibited item or restricted weapon for the purpose of making a broadcast or producing or staging a play or filming a cinematic production or television film if—
+  (a) that person is under the immediate supervision of a person who is entitled under this Act to have possession of that firearm or pistol or prohibited item or restricted weapon; and
+  (b) that person has possession of that firearm or pistol or prohibited item or restricted weapon only during the broadcast or the production or staging of the play or the filming of the cinematic production or television film; and
+  (c) that person is not in possession of any ammunition (other than blank ammunition) for the firearm or pistol, or prohibited item or restricted weapon.
 
-### 32 Conditions of endorsements
+### 31A Conditions of endorsements
+(1) Every endorsement is granted subject to the conditions that any person who is in possession of a pistol, restricted weapon (other than an air pistol), prohibited firearm, or prohibited magazine by virtue of that endorsement must—
+  (a) produce that pistol, restricted weapon, prohibited firearm, or prohibited magazine to any member of the Police on demand; and
+  (b) permit the member of the Police to inspect the pistol, restricted weapon, prohibited firearm, or prohibited magazine and the place where it is kept, and, for that purpose, to enter at all reasonable times upon the premises where the place is situated.
+(2) It is the duty of every member of the Police exercising any power conferred by subsection (1)—
+  (a) to identify themselves to the person in possession of the pistol, restricted weapon, prohibited firearm, or prohibited magazine; and
+  (b) to tell the person in possession of the pistol, restricted weapon, prohibited firearm, or prohibited magazine that the power is being exercised under subsection (1); and
+  (c) if they are not in uniform, to produce on initial entry, and, if requested, at any subsequent time, evidence that they are a member of the Police.
+
+### 32 Further conditions of endorsements in respect of pistols and restricted weapons
 (1) It is a condition of every endorsement made under section 30 that the holder of the firearms licence—
   (a) observes, in respect of every pistol or restricted weapon or part of a restricted weapon in his possession, such security precautions as are required by regulations made under this Act; and
   (b) ensures that every restricted weapon in his possession is both rendered inoperable by the removal of a vital part and maintained, by reason of the removal of a vital part, in an inoperable condition.
@@ -364,20 +468,29 @@ Notwithstanding anything in this Act, a person who is not entitled under this Ac
 (3) On the revocation of an endorsement pursuant to this section the holder of the firearms licence shall cease to be entitled to have possession of a pistol or a restricted weapon, as the case may require, whether or not the firearms licence is surrendered pursuant to subsection (1).
 (4) The provisions of this section are in addition to the provisions of sections 27 and 28.
 
-### 33A Conditions of endorsement in respect of military style semi-automatic firearms
-(1) It is a condition of every endorsement made under section 30B that the holder of the firearms licence observes, in respect of every military style semi-automatic firearm or part thereof in that holder's possession, such security precautions as are required by regulations made under this Act.
-(2) Any member of the Police may, on the direction of the Commissioner, impose, as conditions of an endorsement made by that member of the Police under section 30B, such conditions with regard to the use or custody of a military style semi-automatic firearm (being conditions additional to that specified in subsection (1)) as that member of the Police thinks fit.
+### 33A Further conditions of endorsement in respect of prohibited firearm or prohibited magazine
+(1) An endorsement on a firearms licence in respect of a prohibited firearm or prohibited magazine made under section 30B is subject to the following conditions:
+  (a) the holder of the firearms licence may only possess and use the prohibited firearm or prohibited magazine in their capacity as an exempt person; and
+  (b) the holder of the firearms licence must observe in respect of every prohibited firearm or prohibited magazine in their possession all security precautions required by regulations made under this Act; and
+  (c) the holder of the firearms licence who is an exempt person under section 4A(1)﻿(b), (c), (d), or (e) must—
+    (i) not use live ammunition in the prohibited firearm in their possession; and
+    (ii) ensure that the prohibited firearm is—
+      (A) rendered inoperable by removal of a vital part; and
+      (B) maintained, by reason of the removal of the vital part, in an inoperable condition; and
+    (iii) ensure that the removed vital part is kept at a separate address from the prohibited firearm; and
+  (d) any other conditions regarding the use and custody of the prohibited item in their possession that the Commissioner thinks necessary.
+(2) In subsection (1)﻿(c)﻿(iii), separate address means an address approved by a member of the Police.
 
-### 33B Revocation of endorsement in respect of military style semi-automatic firearms
+### 33B Revocation of endorsement in respect of prohibited firearm or prohibited magazine
 (1) If, in the opinion of a commissioned officer of Police, any person whose licence bears an endorsement made under section 30B—that commissioned officer may, by notice in writing signed by that commissioned officer, revoke that endorsement, and that person shall upon demand surrender that person's firearms licence to a member of the Police for cancellation of the endorsement.
   (a) would not, on an application made under section 30A, be entitled to have that endorsement made on that person's firearms licence; or
   (b) has failed to observe any condition of that endorsement,—
-(2) On the revocation of an endorsement pursuant to this section, the holder of the firearms licence shall cease to be entitled to have possession of a military style semi-automatic firearm, whether or not the firearms licence is surrendered pursuant to subsection (1).
+(2) On the revocation of an endorsement pursuant to this section, the holder of the firearms licence shall cease to be entitled to have possession of a prohibited firearm or prohibited magazine, whether or not the firearms licence is surrendered pursuant to subsection (1).
 (3) The provisions of this section are in addition to the provisions of sections 27 to 28.
 
 ### 34 Notification of change of address
 (1) Every holder of a firearms licence who changes his address shall, within 30 days after doing so, give notice in writing thereof to the Arms Office nearest to his new address.
-(2) Every holder of a firearms licence, being a licence that bears an endorsement permitting the holder to have possession of a pistol, military style semi-automatic firearm, or restricted weapon, who intends to change his address, shall notify an Arms Office of the arrangements made for the safe custody of the pistol, military style semi-automatic firearm, or restricted weapon during its shift to the new address.
+(2) Every holder of a firearms licence, being a licence that bears an endorsement permitting the holder to have possession of a pistol, prohibited firearm, prohibited magazine, or restricted weapon, who intends to change his address, shall notify an Arms Office of the arrangements made for the safe custody of the pistol, prohibited firearm, prohibited magazine, or restricted weapon during its shift to the new address.
 (3) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1) or subsection (2).
 
 **Photographs**
@@ -393,16 +506,27 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
   (a) has wilfully failed to comply with any requirements imposed by or under this Act in relation to the affixing to dealers' licences or firearms licences of photographs of licence holders or to the imaging into such licences of such photographs; or
   (b) has, on having his or her firearms licence called in by the Commissioner under section 33 of the Arms Amendment Act 1992, wilfully failed to deliver his or her firearms licence to an Arms Office in accordance with a notice given to that licence holder under that section.
 
-**Permits to procure pistols and restricted weapons**
+**Permits to possess pistols, restricted weapons, prohibited firearms, and prohibited magazines**
 
-### 35 Issue of permit to procure pistol, military style semi-automatic firearm, or restricted weapon
-(1) A permit to procure a pistol, military style semi-automatic firearm, or restricted weapon may be issued only by a member of the Police acting under a direction of the Commissioner.
-(2) A permit to procure a pistol, military style semi-automatic firearm, or restricted weapon may be issued if the member of the Police to whom the application is made is satisfied—
+### 35 Issue of permit to possess pistol or restricted weapon
+(1) A permit to possess a pistol or restricted weapon may be issued only by a member of the Police acting under a direction of the Commissioner.
+(2) A permit to possess a pistol or restricted weapon may be issued if the member of the Police to whom the application is made is satisfied—
   (a) that the person to whom it is issued is a licensed dealer; or
-  (b) that the person to whom it is issued is the holder of a firearms licence that bears an endorsement made under section 30 or section 30B and that, by virtue of that licence and its endorsement, that person is permitted to have possession of the pistol, military style semi-automatic firearm, or restricted weapon, as the case may be.
+  (b) that the person to whom it is issued is the holder of a firearms licence that bears an endorsement made under section 30 and that, by virtue of that licence and its endorsement, that person is permitted to have possession of the pistol or restricted weapon, as the case may be.
 (3) Every permit issued under this section shall, unless sooner revoked, remain in force for such period, not exceeding 1 month, as may be specified in the permit.
 (4) Any permit issued under this section may at any time during its currency be revoked by a commissioned officer of Police.
 (5) No permit is to be issued under this section in respect of an anti-personnel mine or a cluster munition.
+
+### 35A Issue of permit to possess prohibited firearm or prohibited magazine
+(1) A permit to possess a prohibited firearm or prohibited magazine may be issued only by a member of the Police acting under a direction of the Commissioner.
+(2) A permit to possess a prohibited firearm or prohibited magazine may be issued if—
+  (a) the applicant is the holder of a dealer’s licence; or
+  (b) the applicant is not the holder of a dealer’s licence, but—
+    (i) is the holder of a firearms licence; and
+    (ii) that licence bears an endorsement made under section 30B that permits the applicant to possess a prohibited firearm or prohibited magazine; and
+    (iii) the member of the Police to whom the application is made is satisfied that it is appropriate for the applicant to possess the prohibited firearm or prohibited magazine.
+(3) Unless sooner revoked, a permit issued under this section remains in force for the period specified in the permit, which must not exceed 1 month.
+(4) A permit may at any time be revoked by a commissioned officer of Police.
 
 ### 36 Offence to carry pistol or restricted weapon without authority
 (1) No person shall carry a pistol or restricted weapon in any place beyond the curtilage of his dwelling, save under and in accordance with the conditions endorsed on his firearms licence by a member of the Police.
@@ -427,20 +551,23 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
   (a) that the person claiming compensation has acquired the weapon or parts lawfully; and
   (b) if he has brought the weapon or parts into New Zealand, that he has done so lawfully.
 
-### 38 Removal of pistol, military style semi-automatic firearm, or restricted weapon out of New Zealand
-(1) Every holder of a firearms licence who intends to remove any pistol, military style semi-automatic firearm, or restricted weapon out of New Zealand shall give not less than 4 days' notice of the intended removal to an Arms Office and shall deliver to that office his firearms licence for amendment of the endorsement.
+### 38 Removal of pistol, prohibited firearm, prohibited magazine, or restricted weapon out of New Zealand
+(1) Every holder of a firearms licence who intends to remove any pistol, prohibited firearm, prohibited magazine, or restricted weapon out of New Zealand shall give not less than 4 days' notice of the intended removal to an Arms Office and shall deliver to that office his firearms licence for amendment of the endorsement.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1).
 
-**Miscellaneous obligations in respect of firearms, airguns, pistols, and restricted weapons**
+**Miscellaneous obligations**
 
 ### 39 Loss, theft, or destruction
-(1) Whenever a firearm, pistol, or restricted weapon is lost or stolen, or a pistol or restricted weapon is destroyed, the owner—
-  (a) shall forthwith give notice in writing thereof to a Police station; and
-  (b) shall give all information in his possession relating to the loss, theft, or destruction.
+(1) This section applies if—
+  (a) a firearm, pistol, prohibited magazine, prohibited part, or restricted weapon is lost or stolen; or
+  (b) a firearm, pistol, prohibited magazine, prohibited part, or restricted weapon is destroyed.
+(1A) The owner of the firearm, pistol, prohibited magazine, prohibited part, or restricted weapon must—
+  (a) immediately give written notice of the loss, theft, or destruction to a member of the Police; and
+  (b) give all information in their possession relating to the loss, theft, or destruction to a member of the Police.
 (2) Every person commits an offence and is liable on conviction to a fine not exceeding $500 who contravenes subsection (1).
 
-### 40 On demand by Police person in possession of firearm, airgun, pistol, or restricted weapon to give name, address, and date of birth
-(1) Every person in possession of any firearm, airgun, pistol, or restricted weapon shall, on demand, give his full name, address, and date of birth to any member of the Police who is in uniform or who produces evidence that he is a member of the Police.
+### 40 Person in possession of firearm, etc, must give identifying information to Police
+(1) Every person in possession of any firearm, airgun, pistol, prohibited magazine, prohibited part, or restricted weapon shall, on demand, give his full name, address, and date of birth to any member of the Police who is in uniform or who produces evidence that he is a member of the Police.
 (2) If any person refuses to give his name, address, or date of birth or gives false particulars thereof, any member of the Police—may arrest him without warrant.
   (a) may caution that person; and
   (b) if that person persists in such refusal or fails or continues to fail to give the correct particulars,—
@@ -470,19 +597,24 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
 
 ### 43 Selling or supplying firearm or airgun to unlicensed person
 (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who—
-  (a) sells or supplies a firearm (other than a pistol, military style semi-automatic firearm, or restricted weapon) to any person who is not the holder of a firearms licence or a dealer's licence or a permit issued for the purposes of section 16(1); or
+  (a) sells or supplies a firearm (other than a pistol, prohibited item, or restricted weapon) to any person who is not the holder of a firearms licence or a dealer's licence or a permit issued for the purposes of section 16(1); or
   (b) sells or supplies an airgun to any natural person who is under the age of 18 years and is not the holder of a firearms licence.
 (2) In any prosecution for an offence against subsection (1) in which it is proved,—
   (a) in the case of a prosecution for an offence against paragraph (a) of that subsection, that the defendant sold or supplied a firearm to any person, the burden of proving that that person was the holder of a firearms licence shall lie on the defendant; and
   (b) in the case of a prosecution for an offence against paragraph (b) of that subsection, that the defendant sold or supplied an airgun (not being a specially dangerous airgun) to a person under the age of 18 years, the burden of proving that that person was the holder of a firearms licence shall lie on the defendant.
 (3) It is a good defence to a prosecution for an offence against paragraph (a) or paragraph (b) of subsection (1) if the defendant proves,—
-  (a) in the case of a prosecution relating to the possession of a firearm (not being a pistol, military style semi-automatic firearm, or restricted weapon) by any person,—
+  (a) in the case of a prosecution relating to the possession of a firearm (not being a pistol, prohibited item, or restricted weapon) by any person,—
     (i) that the firearm was in the possession of that person for use under the immediate supervision of the holder of a firearms licence; and
     (ii) that at all times while that person was in possession of the firearm, that person was under the immediate supervision of the holder of a firearms licence; or
   (b) in the case of a prosecution relating to the possession of an airgun (not being a specially dangerous airgun),—
     (i) that the airgun was in the possession of that person for use under the immediate supervision of either a person of or over the age of 18 years or the holder of a firearms licence; and
     (ii) that at all times while that person was in possession of the airgun, that person was under the immediate supervision of either a person of or over the age of 18 years or the holder of a firearms licence.
 (4) A defendant may, in the case of a prosecution relating to the sale or supply of a firearm or airgun to any person, discharge the burden of proof placed on him by subsection (2) by proving that he took reasonable steps to ascertain whether that person was the holder of a firearms licence or was of or over the age of 18 years, as the case may require.
+
+### 43AA Possessing, selling, or supplying prohibited ammunition
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years who, without reasonable excuse,—
+  (a) possesses prohibited ammunition; or
+  (b) sells or supplies prohibited ammunition.
 
 ### 43A Mail order sale of firearm or ammunition
 (1) Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who sells by mail order a firearm or any ammunition for a firearm or restricted weapon otherwise than pursuant to a written order—
@@ -491,7 +623,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
     (i) has inspected the purchaser's firearms licence; and
     (ii) is satisfied that the purchaser is a fit and proper person to purchase that firearm or ammunition.
 (2) Nothing in this section applies in relation to—
-  (a) any pistol, restricted weapon, or military style semi-automatic firearm; or
+  (a) any pistol, restricted weapon, or prohibited item; or
   (b) any ammunition for a firearm to which paragraph (a) or paragraph (b) or paragraph (c) of section 22(1) applies.
 
 ### 43B Restriction on sales of ammunition
@@ -509,25 +641,33 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
   (b) a licensed dealer.
 (5) Nothing in this section applies in relation to any ammunition for a firearm to which paragraph (a) or paragraph (b) or paragraph (c) of section 22(1) applies.
 
-### 44 Selling or supplying pistol, military style semi-automatic firearm, or restricted weapon to person who does not hold permit to import or to procure
-(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who sells or supplies a pistol, military style semi-automatic firearm, or restricted weapon to any person other than a person who is authorised—
-  (a) by a permit issued for the purposes of section 16(1) to bring or cause to be brought or sent into New Zealand that pistol, military style semi-automatic firearm, or restricted weapon; or
-  (b) by a permit issued under section 35 to procure that pistol, military style semi-automatic firearm, or restricted weapon.
-(2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant sold or supplied a pistol or a military style semi-automatic firearm or a restricted weapon to any person, the burden of proving that that person was the holder of—shall lie on the defendant.
-  (a) a permit which was issued for the purposes of section 16(1) and which authorised that person to bring or cause to be brought or sent into New Zealand that pistol, military style semi-automatic firearm, or restricted weapon; or
-  (b) a permit which was issued under section 35 and which authorised that person to procure that pistol, military style semi-automatic firearm, or restricted weapon,—
+### 44 Selling or supplying pistol or restricted weapon to person who does not hold permit to possess
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who sells or supplies a pistol or restricted weapon to any person other than a person who is authorised—
+  (a) by a permit issued for the purposes of section 16(1) to bring or cause to be brought or sent into New Zealand that pistol or restricted weapon; or
+  (b) by a permit issued under section 35 to procure that pistol or restricted weapon.
+(2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant sold or supplied a pistol or a restricted weapon to any person, the burden of proving that that person was the holder of—shall lie on the defendant.
+  (a) a permit which was issued for the purposes of section 16(1) and which authorised that person to bring or cause to be brought or sent into New Zealand that pistol or restricted weapon; or
+  (b) a permit which was issued under section 35 and which authorised that person to procure that pistol or restricted weapon,—
 (3) It is a good defence to a prosecution for an offence against subsection (1) if the defendant proves, in the case of a prosecution relating to the supply of a pistol to any person,—
   (a) that the pistol was supplied to that person for use both—
     (i) on the range of an incorporated pistol shooting club for the time being recognised by the Commissioner for the purposes of section 29; and
     (ii) under the immediate supervision of the holder of a firearms licence bearing an endorsement permitting that person to have possession of that pistol or a pistol of that kind; and
   (b) that at all times while that person was in possession of the pistol he was both on such a range and under the immediate supervision of the holder of such a firearms licence.
-(4) A defendant may, in the case of a prosecution relating to the sale or supply of a pistol, military style semi-automatic firearm, or restricted weapon to any person, discharge the burden of proof placed on him by subsection (2) by proving that he took reasonable steps to ascertain whether that person was the holder of a permit of the kind described in paragraph (a) or paragraph (b) of subsection (1).
+(4) A defendant may, in the case of a prosecution relating to the sale or supply of a pistol or restricted weapon to any person, discharge the burden of proof placed on him by subsection (2) by proving that he took reasonable steps to ascertain whether that person was the holder of a permit of the kind described in paragraph (a) or paragraph (b) of subsection (1).
 
-### 45 Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose
-(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 4 years or to a fine not exceeding $5,000 or to both who, except for some lawful, proper, and sufficient purpose,—any firearm, airgun, pistol, restricted weapon, or explosive.
+### 44A Offence to sell or supply prohibited firearm or prohibited magazine
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who, without reasonable excuse, sells or supplies a prohibited firearm or prohibited magazine to a person other than a person who holds—
+  (a) a permit issued for the purposes of section 16(1) to bring or cause to be brought or sent into New Zealand that prohibited firearm or prohibited magazine; or
+  (b) a permit issued under section 35A to possess that prohibited firearm or prohibited magazine.
+
+### 44B Offence to sell or supply prohibited part
+Every person commits an offence and is liable to imprisonment for a term not exceeding 2 years who, without reasonable excuse, sells or supplies a prohibited part to a person other than a person who holds an endorsement to possess a prohibited firearm.
+
+### 45 Carrying or possessing firearms, etc, except for lawful, proper, and sufficient purpose
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 4 years or to a fine not exceeding $5,000 or to both who, except for some lawful, proper, and sufficient purpose,—any firearm, airgun, pistol, prohibited magazine, restricted weapon, or explosive.
   (a) carries; or
   (b) is in possession of—
-(2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant was carrying or in possession of any firearm, airgun, pistol, restricted weapon, or explosive, as the case may require, the burden of proving the existence of some lawful, proper, and sufficient purpose shall lie on the defendant.
+(2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant was carrying or in possession of any firearm, airgun, pistol, prohibited magazine, restricted weapon, or explosive, as the case may require, the burden of proving the existence of some lawful, proper, and sufficient purpose shall lie on the defendant.
 
 ### 46 Carrying of imitation firearm, except for lawful, proper, and sufficient purpose
 (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $4,000 or to both who, except for some lawful, proper, and sufficient purpose, carries an imitation firearm.
@@ -554,16 +694,16 @@ Every person commits an offence and is liable on conviction to imprisonment for 
   (i) a miniature cannon.
 (2) In any prosecution for an offence against subsection (1) in which it is proved that the defendant used, discharged, or carried a firearm of a kind described in that subsection, the burden of proving the existence of some lawful, proper, and sufficient purpose shall lie on the defendant.
 
-### 49A Unlawful possession of firearm or airgun after revocation of firearms licence
-Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $4,000 or to both who, being a person whose firearms licence has been revoked, is in possession of a firearm or airgun at a time when that person is not the holder of a firearms licence, and is not a person authorised, expressly or by implication, by or pursuant to this Act, to be in possession of that firearm or airgun.
+### 49A Unlawful possession of firearm, prohibited magazine, prohibited part, or airgun after revocation of firearms licence
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 1 year or to a fine not exceeding $4,000 or to both who, being a person whose firearms licence has been revoked, is in possession of a firearm, prohibited magazine, prohibited part, or airgun at a time when that person is not the holder of a firearms licence, and is not a person authorised, expressly or by implication, by or pursuant to this Act, to be in possession of that firearm, prohibited magazine, prohibited part, or airgun.
 
-### 50 Unlawful possession of pistol, military style semi-automatic firearm, or restricted weapon
+### 50 Unlawful possession of pistol or restricted weapon
 (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who—
   (a) is in possession of a pistol and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that pistol; or
-  (b) is in possession of a restricted weapon and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that restricted weapon; or
-  (c) is in possession of a military style semi-automatic firearm and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that military style semi-automatic firearm.
+  (b) is in possession of a restricted weapon and is not a person authorised or permitted, expressly or by implication, by or pursuant to this Act, to be in possession of that restricted weapon.
+  (c)
 (2) It is not an offence against this section to be in possession of a pistol that is an antique firearm.
-(3) In any prosecution for an offence against subsection (1) in which it is proved that the defendant was in possession of a pistol, military style semi-automatic firearm, or restricted weapon, the burden of proving that the defendant was authorised or permitted, expressly or by implication, by or pursuant to this Act to be in possession of that pistol, military style semi-automatic firearm, or restricted weapon shall lie on the defendant.
+(3) In any prosecution for an offence against subsection (1) in which it is proved that the defendant was in possession of a pistol or restricted weapon, the burden of proving that the defendant was authorised or permitted, expressly or by implication, by or pursuant to this Act to be in possession of that pistol or restricted weapon shall lie on the defendant.
 (4) It is a good defence to a prosecution for an offence against subsection (1)﻿(a) if the defendant proves—
   (a) that he is the holder of a firearms licence; and
   (b) that he has owned the firearm to which the charge relates since before 16 May 1969; and
@@ -575,15 +715,37 @@ Every person commits an offence and is liable on conviction to imprisonment for 
     (ii) under the immediate supervision of the holder of a firearms licence bearing an endorsement permitting that person to have possession of that pistol or a pistol of that kind; and
   (b) that at all times while the defendant was in possession of the pistol he was both on such a range and under the immediate supervision of such a person.
 
+### 50A Unlawful possession of prohibited firearm
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who—
+  (a) is in possession of a prohibited firearm; and
+  (b) is not authorised or permitted expressly by or pursuant to this Act to be in possession of that prohibited firearm.
+
+### 50B Unlawful possession of prohibited magazine
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years who—
+  (a) is in possession of a prohibited magazine; and
+  (b) is not authorised or permitted expressly by or pursuant to this Act to be in possession of that prohibited magazine.
+
+### 50C Unlawful possession of prohibited part
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 2 years who without reasonable excuse is in possession of a prohibited part and who is not authorised by an endorsement made under section 30B to possess a prohibited firearm.
+
+### 50D Unlawfully carrying or possessing prohibited firearm in public place
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, without lawful purpose, carries or possesses a prohibited firearm in a public place.
+
 ### 51 Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon
-(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or a fine not exceeding $4,000 or to both who, except for some lawful purpose,—any firearm, airgun, pistol, ammunition, explosive, or restricted weapon.
-  (a) carries in a public place; or
-  (b) has in his possession in any public place—
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years, or a fine not exceeding $4,000, or both, who, without lawful purpose,—
+  (a) carries a firearm (other than a prohibited firearm), an airgun, a pistol, a restricted weapon, ammunition, or an explosive in a public place; or
+  (b) possesses a firearm (other than a prohibited firearm), an airgun, a pistol, a restricted weapon, ammunition, or an explosive in a public place.
 (2) In any prosecution for an offence against subsection (1), in which it is proved that the defendant was carrying in any public place or had in his possession in any public place any firearm, airgun, pistol, ammunition, explosive, or restricted weapon, the burden of proving the existence of some lawful purpose shall lie on the defendant.
 
+### 51A Presenting prohibited firearm at other person
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, unless for some lawful purpose, presents at any other person—
+  (a) a prohibited firearm; or
+  (b) anything that, in the circumstances, is likely to lead that person to believe it to be a prohibited firearm.
+(2) For the purposes of an offence against subsection (1)﻿(a), it does not matter whether the prohibited firearm is loaded or capable at the time of the offence of discharging any shot, bullet, missile, or other projectile.
+
 ### 52 Presenting firearm, airgun, pistol, or restricted weapon at other person
-(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful and sufficient purpose, presents a firearm, airgun, pistol, or restricted weapon (whether or not the firearm, airgun, pistol, or restricted weapon is loaded or capable at the time of the offence of discharging any shot, bullet, missile, or other projectile) at any other person.
-(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful or sufficient purpose, presents at any person anything which, in the circumstances, is likely to lead that person to believe that it is a firearm, airgun, pistol, or restricted weapon.
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful and sufficient purpose, presents a firearm (other than a prohibited firearm), airgun, pistol, or restricted weapon (whether or not the firearm, airgun, pistol, or restricted weapon is loaded or capable at the time of the offence of discharging any shot, bullet, missile, or other projectile) at any other person.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who, except for some lawful or sufficient purpose, presents at any person anything which, in the circumstances, is likely to lead that person to believe that it is a firearm (other than a prohibited firearm), airgun, pistol, or restricted weapon.
 
 ### 53 Careless use of firearm, airgun, pistol, or restricted weapon
 (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who causes bodily injury to or the death of any person by carelessly using a firearm, airgun, pistol, or restricted weapon.
@@ -591,14 +753,34 @@ Every person commits an offence and is liable on conviction to imprisonment for 
 (3) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 years or to a fine not exceeding $4,000 or to both who, without reasonable cause, discharges or otherwise deals with a firearm, airgun, pistol, or restricted weapon in a manner likely to injure or endanger the safety of any person or with reckless disregard for the safety of others.
 (4) It shall be no defence to the crime of manslaughter that the guilty act or omission proved against the person charged is an act or omission constituting an offence against this section.
 
-### 54 Use or attempted use of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive to resist or prevent arrest or commit offence
+### 53A Use or attempted use of prohibited firearm to resist or prevent arrest or commit offence
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 10 years who makes, or attempts to make, any use whatsoever of any prohibited firearm with intent to resist or prevent the lawful arrest or lawful detention of—
+  (a) themselves:
+  (b) any other person.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who, at the time of committing an offence punishable by imprisonment for a term of 3 years or more, possesses a prohibited firearm.
+(3) It is a defence to a prosecution for an offence against subsection (2) if the defendant proves that they possessed the prohibited firearm for a lawful purpose.
+
+### 54 Use or attempted use of firearm, etc, to resist or prevent arrest or commit offence
 (1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who makes or attempts to make any use whatsoever of any restricted weapon, imitation firearm, ammunition, or explosive with intent to resist or prevent the lawful arrest or detention of himself or another person.
-(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who, at the time of his committing an offence punishable by imprisonment for a term of 3 years or more, has in his possession any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive.
+(2) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who, at the time of his committing an offence punishable by imprisonment for a term of 3 years or more, has in his possession any firearm (other than a prohibited firearm), airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive.
 (3) It is a good defence to a prosecution for an offence against subsection (2) if the defendant proves that he had the firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive in his possession for a lawful purpose.
 
-### 55 Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent
-(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who has with him any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, with intent to commit an offence punishable by imprisonment for a term of 3 years or more or to resist arrest or prevent the arrest of another person, in either case while he has the firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with him.
-(2) In a prosecution for an offence against subsection (1), proof that the defendant had any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with him and intended to commit an offence, or to resist or prevent arrest, is evidence that he intended to have it with him while doing so.
+### 54A Carrying prohibited firearm with criminal intent
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 7 years who carries any prohibited firearm with intent to commit an offence.
+
+### 55 Carrying firearm, etc, with criminal intent
+(1) Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who has with him any firearm (other than a prohibited firearm), airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, with intent to commit an offence punishable by imprisonment for a term of 3 years or more or to resist arrest or prevent the arrest of another person, in either case while he has the firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with him.
+(2) In a prosecution for an offence against subsection (1), proof that the defendant had any firearm (other than a prohibited firearm), airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with him and intended to commit an offence, or to resist or prevent arrest, is evidence that he intended to have it with him while doing so.
+
+### 55A Offence to assemble prohibited firearm
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 5 years who, without lawful purpose,—
+  (a) assembles a prohibited firearm; or
+  (b) converts a firearm into a prohibited firearm.
+
+### 55B Offence of failing to produce firearm, etc, on demand or to permit inspection of firearm, etc
+Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $1,000, or both, who, having a dealer’s licence or firearms licence endorsed under section 30 or 30B, fails to—
+  (a) produce a pistol, restricted weapon, prohibited firearm, or prohibited magazine in their possession to any member of the Police upon demand; or
+  (b) permit any member of the Police to inspect the pistol, restricted weapon, prohibited firearm, or prohibited magazine, or the place where it is kept, or to enter that place.
 
 ### 56 Obstruction of member of Police
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 or to both who obstructs a member of the Police in the exercise of any right of entry, search, seizure, or detention conferred by this Act.
@@ -621,6 +803,16 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 (4) Every owner of a firearm or pistol commits an offence and is liable on conviction to a fine not exceeding $500 who fails to comply with a notice given to him under subsection (2) in respect of that firearm or pistol.
 (5) Nothing in this section applies in respect of an antique firearm.
 
+**Surrender or delivery of firearms, etc**
+
+### 59A Surrender by licensed dealer of firearms, etc
+(1) A licensed dealer does not contravene section 10 if, on obtaining possession of any pistol, restricted weapon, or prohibited item from any person, the licensed dealer immediately surrenders the pistol, restricted weapon, or prohibited item to the nearest Arms Office for inspection and inquiries.
+(2) A licensed dealer does not contravene section 12 if the licensed dealer does not record the particulars of a firearm that is received by that dealer and, within 5 working days, surrenders it to the nearest Arms Office for inspection and inquiries.
+
+### 59B Voluntary delivery to Police of firearms, etc
+(1) If any firearm, airgun, restricted weapon, prohibited item, or prohibited ammunition is delivered to the Police by a person who is not authorised to be in possession of it, it is affirmed that the Police have the discretion not to prosecute where the offence is considered to be one of possession only and there is no public interest in proceeding with the prosecution.
+(2) See also Schedule 1 (which contains amnesty provisions).
+
 **Search and seizure of firearms**
 
 ### 60 Search of suspected persons and seizure of firearms, airguns, pistols, imitation firearms, restricted weapons, ammunition, or explosives
@@ -636,20 +828,22 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 
 ### 62 Right of appeal from official decisions
 (1) This subsection applies to—
-  (a) a person who is affected by a determination by the Commissioner that a firearm is a military style semi-automatic firearm; and
+  (a)
   (b) a person whose application for 1 of the following has been refused:
     (i) a dealer's licence:
     (ii) consent under section 7A:
     (iii) a permit for the purposes of section 16(1):
     (iv) a firearms licence:
     (v) an endorsement under section 30, 30B, or 36:
-    (vi) a permit under section 35 to procure a pistol, military style semi-automatic firearm, or restricted weapon; and
+    (vi) a permit under section 35 to possess a pistol or restricted weapon:
+    (vii) a permit under section 35A to possess a prohibited item; and
   (c) a person who has had 1 of the following issued subject to conditions imposed by a member of the Police or revoked:
     (i) a dealer's licence:
     (ii) a permit for the purposes of section 16(1):
     (iii) a firearms licence:
     (iv) an endorsement under section 30, 30B, or 36:
-    (v) a permit under section 35 to procure a pistol, military style semi-automatic firearm, or restricted weapon; and
+    (v) a permit under section 35 to possess a pistol or restricted weapon:
+    (vi) a permit under section 35A to possess a prohibited item; and
   (d) a person who has been served with a notice under section 41 or 59.
 (1A) A person to whom subsection (1) applies may, by way of originating application, appeal to a District Court Judge from the determination, refusal, imposition of conditions, revocation, or service.
 (2) On the hearing of an appeal under subsection (1A), the District Court Judge may, subject to subsection (3), confirm, vary, or reverse the decision appealed against.
@@ -661,7 +855,7 @@ When an offence against this Act punishable by imprisonment (whether or not it i
 (6) No person shall be excused from complying with any of the provisions of this Act on the ground that an appeal is pending under this section.
 
 ### 63 Appeal to District Court Judge in respect of compensation
-The amount of compensation payable under any of the provisions of this Act in respect of any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, explosive, or other property shall not in any case exceed the actual market value thereof, and in case of dispute shall be determined, upon application by way of originating application by a District Court Judge, whose decision, subject to section 64, shall be final.
+The amount of compensation payable under any of the provisions of this Act in respect of any firearm, airgun, pistol, imitation firearm, prohibited magazine, prohibited part, restricted weapon, ammunition, explosive, or other property shall not in any case exceed the actual market value thereof, and in case of dispute shall be determined, upon application by way of originating application by a District Court Judge, whose decision, subject to section 64, shall be final.
 
 ### 64 Appeal on a question of law
 (1) Where any party to any appeal under section 62 or to any application under section 63 is dissatisfied with the decision of the District Court Judge as being erroneous in point of law, he may appeal to the High Court on the question of law only.
@@ -670,7 +864,7 @@ The amount of compensation payable under any of the provisions of this Act in re
 **Restoration of articles seized**
 
 ### 65 Restoration of articles seized
-On application by way of originating application, a District Court Judge may make such order as he thinks just and expedient for the restoration of any firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive seized and detained in pursuance of the right of search, seizure, or detention conferred by this Act.
+On application by way of originating application, a District Court Judge may make such order as he thinks just and expedient for the restoration of any firearm, airgun, pistol, imitation firearm, restricted weapon, prohibited magazine, ammunition, or explosive seized and detained in pursuance of the right of search, seizure, or detention conferred by this Act.
 
 **Foreign personal protection officers**
 
@@ -705,8 +899,8 @@ On application by way of originating application, a District Court Judge may mak
 
 **Miscellaneous provisions**
 
-### 66 Occupier of premises or driver of vehicle deemed to be in possession of firearm, airgun, pistol, imitation firearm, restricted weapon, or explosive found therein
-For the purposes of this Act every person in occupation of any land or building or the driver of any vehicle on which any firearm, airgun, pistol, imitation firearm, restricted weapon, or explosive is found shall, though not to the exclusion of the liability of any other person, be deemed to be in possession of that firearm, airgun, pistol, imitation firearm, restricted weapon, or explosive, unless he proves that it was not his property and that it was in the possession of some other person.
+### 66 Occupier of premises or driver of vehicle deemed to be in possession of firearm, airgun, pistol, imitation firearm, restricted weapon, prohibited magazine, or explosive found therein
+For the purposes of this Act every person in occupation of any land or building or the driver of any vehicle on which any firearm, airgun, pistol, imitation firearm, restricted weapon, prohibited magazine, or explosive is found shall, though not to the exclusion of the liability of any other person, be deemed to be in possession of that firearm, airgun, pistol, imitation firearm, restricted weapon, prohibited magazine, or explosive, unless he proves that it was not his property and that it was in the possession of some other person.
 
 ### 67 Liability of principal for acts of agent, etc
 Where an offence is committed against this Act or against any regulation made under this Act by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
@@ -715,14 +909,14 @@ Where an offence is committed against this Act or against any regulation made un
 Section 25 of the Criminal Procedure Act 2011 shall have no application to prosecutions for offences against this Act.
 
 ### 69 Forfeitures
-(1) When any person is convicted of using, carrying, or being in possession of any firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive in breach of this Act, the convicting court may, as part of the conviction, order that any such firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive shall be forfeited to the Crown.
-(2) Any firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive ordered, under subsection (1) to be forfeited to the Crown—
+(1) When any person is convicted of using, carrying, or being in possession of any firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, ammunition, or explosive in breach of this Act, the convicting court may, as part of the conviction, order that any such firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, ammunition, or explosive shall be forfeited to the Crown.
+(2) Any firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, ammunition, or explosive ordered, under subsection (1) to be forfeited to the Crown—
   (a) shall thereupon become forfeited to the Crown accordingly; and
   (b) may be disposed of in such manner as the Commissioner directs.
 
 ### 70 Authorising disposal of firearms, etc, detained by Police
-(1) Without limiting the operation of any other provisions of this Act as to the disposal of any firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive seized or detained under this Act, any such firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive that has been detained for not less than 12 months may be disposed of in such manner as the Commissioner may direct.
-(2) Nothing in this section limits the authority of a District Court Judge to make an order for the restoration of any such firearm, airgun, pistol, restricted weapon, imitation firearm, ammunition, or explosive on application made under section 65.
+(1) Without limiting the operation of any other provisions of this Act as to the disposal of any firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, ammunition, or explosive seized or detained under this Act, any such firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, ammunition, or explosive that has been detained for not less than 12 months may be disposed of in such manner as the Commissioner may direct.
+(2) Nothing in this section limits the authority of a District Court Judge to make an order for the restoration of any such firearm, airgun, pistol, restricted weapon, imitation firearm, prohibited magazine, prohibited part, ammunition, or explosive on application made under section 65.
 
 ### 71 Protection of persons acting under authority of this Act
 No action, claim, or demand whatsoever shall lie or be made or allowed by or in favour of any person against the Crown, or any Minister of the Crown, or any person acting in good faith in the execution or intended execution of this Act, save only in respect of any compensation that is payable in accordance with the express provisions of this Act.
@@ -754,8 +948,8 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
 
 ### 73 Savings in respect of carriers and persons authorised to exercise powers of seizure
 (1) Notwithstanding anything in this Act, but subject to any prohibitions, limitations, restrictions, or conditions imposed by or pursuant to any regulations made under this Act,—
-  (a) any carrier may have possession of a firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive in the course of carriage under a contract of carriage:
-  (b) any person who seizes any article, being a firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive, in the exercise of a power conferred on him by any Act may have possession of that article so long as he is acting in the exercise of that power and in connection with his official duties.
+  (a) any carrier may have possession of a firearm, an airgun, a pistol, an imitation firearm, a restricted weapon, a prohibited magazine, a prohibited part, ammunition, or an explosive in the course of carriage under a contract of carriage:
+  (b) any person who seizes any article, being a firearm, an airgun, a pistol, an imitation firearm, a restricted weapon, a prohibited magazine, a prohibited part, ammunition, or an explosive, in the exercise of a power conferred on him by any Act may have possession of that article so long as he is acting in the exercise of that power and in connection with his official duties.
 (2) In subsection (1)﻿(a), carrier includes any postal operator within the meaning of the Postal Services Act 1998.
 
 ### 74 Regulations
@@ -765,36 +959,57 @@ No action, claim, or demand whatsoever shall lie or be made or allowed by or in 
   (ba) providing for photographs of licence holders to be affixed to or imaged into dealers’ licences or firearms licences or both and prescribing requirements in relation to those photographs:
   (c) providing for applicants for firearms licences to pass theoretical and practical tests as to their ability to handle firearms safely or to undergo courses of training designed to teach them to handle firearms safely:
   (d) exempting applicants or classes of applicants for firearms licences from passing tests prescribed under paragraph (c):
-  (e) prescribing conditions to which permits, licences, and endorsements shall be subject:
+  (e) prescribing conditions to which permits, licences, and endorsements shall be subject, or authorising the Commissioner to prescribe conditions of that kind:
   (f) prescribing or providing for the fixing of fees payable in respect of any licence, application, or other matter under this Act, the manner of assessing any such fee, and the other matters in respect of which fees are to be payable:
   (g) prescribing forms of applications, permits, licences, endorsements, registers, notices, and other documents required for the purposes of this Act, or authorising the Commissioner to prescribe or approve such forms, and requiring the use of such forms:
   (h) prescribing the particulars to be recorded by licensed dealers:
-  (i) making provision for the security of any premises at which a licensed dealer carries on business and prescribing precautions to be taken to prevent the theft or misuse of firearms, airguns, pistols, restricted weapons, ammunition, and explosives in the possession of licensed dealers:
-  (j) making provision for the security of premises at which any firearm or class of firearm is kept, and prescribing precautions to be taken to prevent the theft or misuse of firearms, airguns, pistols, restricted weapons, ammunition, and explosives in the possession of any person or class of persons:
+  (ha) making provision for the secure storage of a vital part removed from a prohibited firearm or restricted weapon to render it inoperable and prescribing precautions to be taken to prevent the theft or misuse of vital parts in the possession of any person or class of persons:
+  (i) making provision for the security of any premises at which a licensed dealer carries on business and prescribing precautions to be taken to prevent the theft or misuse of firearms, airguns, pistols, prohibited items, restricted weapons, ammunition, and explosives in the possession of licensed dealers:
+  (j) making provision for the security of premises at which any firearm or class of firearm is kept, and prescribing precautions to be taken to prevent the theft or misuse of firearms, airguns, pistols, prohibited items, restricted weapons, ammunition, and explosives in the possession of any person or class of persons:
   (k) specifying for the purposes of section 29 classes of persons who may be permitted to obtain endorsements permitting them to have possession of pistols or restricted weapons:
-  (l) making provision for the marking of firearms with identifying marks before the issue of a licence or permit:
+  (l) making provision for the marking of firearms, magazines, and parts with identifying marks before the issue of a licence or permit:
   (la) declaring any firearm to be an antique firearm for the purposes of this Act:
+  (lb) prescribing limits for the purposes of section 4A(1)﻿(f) to (i):
+  (lc) prescribing wild animals or animal pests for the purposes of section 4A(1)﻿(i):
   (m) defining firearms either generally or for the purposes of any particular provisions of this Act:
   (n) applying any of the provisions of this Act to rifles, guns, or pistols of any calibre that are not firearms properly so called:
   (o) excluding any firearms or ammunition or parts of firearms or restricted weapons from any of the provisions of this Act:
   (p) enabling the Commissioner to direct that only certain members of the Police may issue permits or licences or grant endorsements under this Act:
   (q) conferring or providing for exemptions from any provision of any regulation made under this Act:
   (r) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $400:
+  (ra) providing, for the purposes of the orderly implementation of any Order in Council made under section 74A, for—
+    (i) any exemptions from any provisions of this Act or the regulations made under this Act (subject to terms or conditions, if any); and
+    (ii) any other transitional or savings matters:
   (s) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (2) Notwithstanding the provisions of any regulations made under this Act, the Commissioner may dispense with the payment of any fee payable under any such regulations.
 
-### 74A Orders relating to military style semi-automatic firearms
-The Governor-General may by Order in Council do any or all of the following things:
-  (a) describe a kind of component as a pistol grip for the purposes of the definition in section 2 of military style semi-automatic firearm:
-  (b) declare semi-automatic firearms (other than pistols) of a stated make and model to be military style semi-automatic firearms for the purposes of this Act:
-  (c) declare semi-automatic firearms (other than pistols) of a stated description to be military style semi-automatic firearms for the purposes of this Act:
-  (d) define or describe features of a semi-automatic firearm (other than a pistol) as features of a military style semi-automatic firearm for the purposes of this Act.
+### 74A Order in Council relating to definitions of prohibited firearm and prohibited magazine, and declaring prohibited ammunition
+The Governor-General may, by Order in Council made on the recommendation of the Minister of Police,—
+  (a) amend the description in section 2A of a semi-automatic firearm (except a pistol) or pump-action shotgun that is a prohibited firearm:
+  (b) amend the description in section 2B of a magazine that is a prohibited magazine:
+  (c) declare any semi-automatic firearm (except a pistol) or pump-action shotgun of a stated name or description to be a prohibited firearm for the purposes of this Act:
+  (d) declare any magazine of a stated name or description to be a prohibited magazine for the purposes of this Act:
+  (e) declare any ammunition to be prohibited ammunition for the purposes of this Act.
 
-### 74B Certain orders relating to military style semi-automatic firearms are confirmable instruments
-The explanatory note of an order made under section 74A(b), (c), or (d) must indicate that—
+### 74B Orders under section 74A are confirmable instruments
+The explanatory note of an Order in Council made under section 74A must indicate that—
   (a) it is a confirmable instrument under section 47B of the Legislation Act 2012; and
   (b) it is revoked at a time stated in the note, unless earlier confirmed by an Act of Parliament; and
   (c) the stated time is the applicable deadline under section 47C(1)﻿(a) or (b) of that Act.
+
+### 74C Regulations providing for transitional matters
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Police, make regulations—
+  (a) providing transitional and savings provisions concerning the coming into force of the amendment Act that may be in addition to the transitional and savings provisions in Schedule 1:
+  (b) providing that (subject to any conditions specified in the regulations) during a specified transitional period,—
+    (i) specified provisions of this Act (including definitions or transitional and savings provisions) do not apply (or apply with modifications or additions):
+    (ii) specified provisions repealed or amended by the amendment Act continue to apply (or continue to apply with modifications or additions):
+    (iii) conditions for the possession and use of a prohibited item apply during the amnesty period (as defined in clause 1 of Schedule 1).
+(2) The Minister may recommend the making of regulations under this section only if the Minister is satisfied that the regulations are necessary or desirable for the orderly implementation of the amendment Act.
+(3) On the close of 31 December 2020,—
+  (a) this section is repealed; and
+  (b) any regulations made under it are revoked.
+(4) To avoid doubt, regulations 28E and 28F (and the cross-heading above regulation 28E) of the Arms Regulations 1992, as inserted by section 74 and Schedule 3 of the amendment Act, may be amended or revoked by regulations made under this section as if they had been inserted by regulation.
+(5) In this section, amendment Act means the Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019.
 
 ### 75 Consequential amendment to Summary Proceedings Act 1957
 Amendment(s) incorporated in the Act(s).
@@ -803,7 +1018,7 @@ Amendment(s) incorporated in the Act(s).
 Amendment(s) incorporated in the Act(s).
 
 ### 77 Repeals
-The enactments specified in the Schedule are hereby repealed.
+[Repealed]
 
 ### 78 Transitional provisions
 (1) Every dealer's licence which is issued under the Arms Act 1958 and which is in force immediately before the commencement of this Act shall, until the close of 31 March 1985, continue and have effect as if it had been issued under this Act; and any such licence may be revoked or renewed under this Act.
@@ -821,7 +1036,73 @@ The enactments specified in the Schedule are hereby repealed.
   (c) as if certain conditions were not, immediately before the commencement of this Act, conditions of his licence or permit.
 (9) The Acts Interpretation Act 1924 shall apply subject to this section.
 
-## Schedule  — Enactments repealed
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019
+
+### 1 Interpretation
+In this Part,—
+  - **Act** means the Arms Act 1983
+  - **amendment Act** means the Arms (Prohibited Firearms, Magazines, and Parts) Amendment Act 2019
+  - **amnesty period** means the period—
+    (a) beginning at 3 pm on 21 March 2019; and
+    (b) ending on—
+      (i) the date that is 6 months after the first date on which regulations made under clause 7 come into force; or
+      (ii) any later date prescribed by Order in Council
+  - **commencement** means the date on which the amendment Act comes into force.
+
+### 2 Permits to import issued for purposes of section 16(1) of Act before commencement are revoked
+(1) A permit issued for the purposes of section 16(1) of this Act (as in force immediately before commencement) is revoked to the extent that it authorises the importation of a firearm, magazine, or part that,—
+  (a) after commencement, is a prohibited item; and
+  (b) before commencement, has not been brought or sent into New Zealand.
+(2) This clause does not apply to permits issued for the purposes of enabling persons referred to in section 3(2) of this Act to carry out their duties.
+
+### 3 Prohibited items subject to the control of Customs at commencement
+(1) This clause applies to a prohibited item that is subject to the control of the New Zealand Customs Service at commencement.
+(2) The prohibited item is to be treated as a prohibited good under section 98 of the Customs and Excise Act 2018 and the chief executive of the New Zealand Customs Service may, under section 85(1)﻿(b) of that Act, authorise the delivery of the prohibited item to the Police.
+(3) At the time of that delivery, the prohibited item ceases to be subject to the control of Customs.
+(4) In this clause, subject to the control of Customs has the same meaning as in section 6 of the Customs and Excise Act 2018.
+
+### 4 Endorsements issued under section 30B of Act before commencement are revoked
+(1) An endorsement issued under section 30B of this Act (as in force immediately before commencement) is revoked.
+(2) However, subclause (1) does not limit clause 5.
+
+### 5 Temporary amnesty for persons possessing prohibited items before commencement
+(1) This clause applies to a person who, before commencement, possesses a prohibited item.
+(2) The person does not commit an offence under section 50A, 50B, or 50C of this Act for the continued possession of the prohibited item.
+(3) Subclause (2)—
+  (a) ceases to have effect at the end of the amnesty period; and
+  (b) is subject to any other conditions (if any) set by regulations.
+(4) See also the provisions governing surrender and voluntary delivery of prohibited items in sections 59A and 59B of this Act.
+
+### 6 Compensation for prohibited items delivered to Police
+(1) This clause applies in respect of a prohibited item that, after 3 pm on 21 March 2019, is delivered or otherwise surrendered to a member of the Police.
+(2) The prohibited item becomes the property of the Crown, free and discharged from all right, title, or interest possessed by any person in respect of that item.
+(3) Compensation may be paid in respect of the prohibited item in accordance with any regulations made under clause 7.
+(4) However, nothing in this Act or the amendment Act otherwise confers any right to compensation, or is to be relied on in any proceedings as a basis for a claim to compensation, except and to the extent authorised by regulations made under clause 7.
+
+### 7 Regulations establishing compensation for delivery of prohibited items to Police
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Police, make regulations establishing 1 or more schemes for the purpose of paying compensation in respect of prohibited items that, during the amnesty period or any other specified period or periods, are delivered or otherwise surrendered to a member of the Police.
+(2) Regulations made under subclause (1) may—
+  (a) apply to 1 or more classes of licence holders or other persons who, before commencement, lawfully possessed prohibited items:
+  (b) apply to 1 or more classes of prohibited items:
+  (c) confer the right to compensation only if specified criteria or conditions are met:
+  (d) limit the right to compensation in specified circumstances (for example, the maximum number of prohibited magazines for which compensation may be paid to a person):
+  (e) provide for the Commissioner to determine the amount of compensation to be paid for a prohibited item or a class of prohibited items (whether that item or class of items is of a specified type, make, model, description, or condition, or a combination of these), including—
+    (i) by the issuing of a schedule of those amounts:
+    (ii) by determining the method by which the amount of compensation to be paid for a prohibited item is calculated, which may include—
+      (A) the maximum amount of compensation payable in respect of an item:
+      (B) the minimum amount of compensation payable in respect of an item:
+      (C) the proportion of a specified amount of compensation payable in respect of an item:
+  (f) impose conditions on any payment of compensation:
+  (g) specify the criteria that may be applied by the Commissioner when determining or assessing the compensation payable in respect of a prohibited item:
+  (h) confer and make any provisions with respect to rights of review or appeal against any compensation determined or assessed in respect of a prohibited item.
+(3) Regulations made under subclause (1) may make different provision with respect to different persons, prohibited items, or circumstances or different classes of persons, prohibited items, or circumstances.
+(4) To avoid doubt, regulations made under subclause (1) need not include compensation for—
+  (a) any economic loss; or
+  (b) any consequential loss; or
+  (c) any loss for business interruption; or
+  (d) any loss attributable to intrinsic or sentimental value.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Arms Amendment Act 1992, and shall be read together with and deemed part of the Arms Act 1983 (hereinafter referred to as “the principal Act”).
