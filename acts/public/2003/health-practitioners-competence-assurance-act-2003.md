@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2017-03-07_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -75,7 +75,6 @@ This Act is the Health Practitioners Competence Assurance Act 2003.
   - **health service** means a service provided for the purpose of assessing, improving, protecting, or managing the physical or mental health of individuals or groups of individuals
   - **layperson** means a person who is neither registered nor qualified to be registered as a health practitioner
   - **medical officer of health** has the same meaning as in section 2(1) of the Health Act 1956
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) as a practitioner of the profession of medicine
   - **mental or physical condition** means any mental or physical condition or impairment; and includes, without limitation, a condition or impairment caused by alcohol or drug abuse
   - **Minister** means the Minister of Health
   - **oversight** means professional support and assistance provided to a health practitioner by a professional peer for the purposes of professional development
@@ -96,6 +95,9 @@ This Act is the Health Practitioners Competence Assurance Act 2003.
   - **Tribunal** means the Health Practitioners Disciplinary Tribunal established by section 84.
 (2) A reference in this Act to an authority responsible for a profession is a reference to the authority that is appointed in respect of the profession concerned.
 (3) In Parts 4 and 5, health practitioner includes a former health practitioner.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -167,6 +169,8 @@ This Act binds the Crown.
   (e) experience in the provision of health services of a particular kind, including, without limitation, the provision of such services at a nominated institution or class of institution, or under the supervision or oversight of a nominated health practitioner or class of health practitioner.
 (3) A notice under subsection (1) may state that 1 or more qualifications or experience of 1 or more kinds, or both, is required for each scope of practice that the authority describes under section 11.
 (4) An authority must monitor every New Zealand educational institution that it accredits for the purpose of subsection (2)﻿(a), and may monitor any overseas educational institution that it accredits for that purpose.
+(5) An authority may, at any time, give notice to an educational institution accredited under subsection (2)﻿(a) that the institution’s accreditation is revoked.
+(6) The revocation of an educational institution’s accreditation does not affect the registration of a health practitioner who qualified to practise within a scope of practice on the basis of having a degree or diploma from that institution.
 
 ### 13 Principles guiding the prescribing of qualifications
 In prescribing qualifications under section 12, each authority must be guided by the following principles:
@@ -176,6 +180,7 @@ In prescribing qualifications under section 12, each authority must be guided by
 
 ### 14 Provisions relating to notices under sections 11 and 12
 (1) An authority may at any time, by notice in the Gazette, amend, revoke, or replace a notice under section 11 or section 12.
+(1A) The amendment, revocation, or replacement of a notice published under section 12 does not affect the registration of a health practitioner who qualified to practise within a scope of practice on the basis of having had a prescribed qualification for that scope of practice under the notice before the notice was amended, revoked, or replaced.
 (2) Before an authority publishes a notice under section 11 or section 12 or under this section, the authority must have consulted about its proposal for the contents of the notice—
   (a) with persons who the authority considers are able to represent the views of health practitioners, or of classes of health practitioner, registered with the authority; and
   (b) with organisations—
@@ -230,10 +235,16 @@ No applicant for registration may be registered as a health practitioner of a he
   (a) ascertain whether the Registrar is able to consider and determine the application under a delegation given to the Registrar under clause 17 of Schedule 3; or
   (b) if that is not the case, submit the application to the authority for its consideration.
 (4) If any fine imposed on a health practitioner under section 101, or any costs payable under an order made under that section, or any costs or expenses payable under an order made under section 92(4), remains unpaid, the Registrar may decline to do any act, or to permit any act to be done, in relation to the registration of that health practitioner until the fine or costs or expenses are paid.
-(5) If, in accordance with subsection (4), the Registrar declines to do any act, or to permit any act to be done, in relation to the registration of a health practitioner, that health practitioner may, by application in writing made to the authority, request the authority to review the Registrar's decision, and, on any such application,—
+(4A) If any fine, costs, or expenses imposed on a former health practitioner by or under a former registration Act remain unpaid, the Registrar may decline to do any act, or to permit any act to be done, in relation to the registration of that health practitioner until the fine, costs, or expenses are paid.
+(5) If, in accordance with subsection (4) or (4A), the Registrar declines to do any act, or to permit any act to be done, in relation to the registration of a health practitioner, that health practitioner may, by application in writing made to the authority, request the authority to review the Registrar's decision, and, on any such application,—
   (a) the authority must, as soon as practicable, review the Registrar's decision, and must either confirm or revoke that decision; and
   (b) the Registrar's decision has effect, or ceases to have effect, accordingly.
-(6) Subsection (4) overrides subsection (3).
+(6) Subsections (4) and (4A) override subsection (3).
+(7) In subsection (4A),—
+  - **former health practitioner** means an applicant who, at any time, has been—
+    (a) registered under a former registration Act; or
+    (b) deemed to be registered under a former registration Act
+  - **former registration Act** has the meaning given to it by section 178(1).
 
 ### 18 Applications for re-registration
 If, under section 102, the Tribunal has imposed any conditions that must be satisfied by a person before he or she may apply to have his or her name restored to the register, the authority may not authorise the registration of that person unless the authority is satisfied that the person has satisfied those conditions.
@@ -338,7 +349,7 @@ If an authorisation of a scope of practice requires the inclusion in the scope o
 (2) In order to satisfy the criterion stated in subsection (1), the authority may include new conditions in the applicant's scope of practice or may vary existing conditions in that scope of practice.
 (3) The authority, after considering any application for an annual practising certificate, may decide that the applicant should be issued with an annual practising certificate, either with changes, determined under subsection (2), to the applicant's scope of practice or without such changes.
 (4) As soon as practicable after the authority makes a decision under subsection (3), the Registrar must—
-  (a) issue the certificate to the applicant; and
+  (a) issue the certificate to the applicant electronically or in hard copy form; and
   (b) notify the applicant in writing of the reasons for any conditions included in the health practitioner's scope of practice; and
   (c) make any necessary amendments to the registration of the health practitioner's scope of practice.
 (5) The authority, after considering an application for an annual practising certificate, may decide that—
@@ -353,7 +364,7 @@ If an authorisation of a scope of practice requires the inclusion in the scope o
 (3) Every health practitioner who has submitted an application, accompanied by the fee (if any) set by the authority, for a renewal of an annual practising certificate under section 26(1) is to be treated as the holder of that certificate from the date when the authority receives the application until the date it is issued or he or she is sooner notified by the Registrar that it will not be issued.
 
 ### 31 Interim practising certificate
-(1) If, under section 29(7), an authority authorises the issue of an interim practising certificate, the Registrar must, on payment by the applicant of the fee (if any) set by the authority, issue the interim practising certificate, which—
+(1) If, under section 29(7), an authority authorises the issue of an interim practising certificate, the Registrar must, on payment by the applicant of the fee (if any) set by the authority, issue the interim practising certificate (electronically or in hard copy form), which—
   (a) is in force for a period stated in the certificate that may not be longer than 12 months after the date of its issue or any extension; and
   (b) is subject to any conditions that the authority specifies.
 (2) The authority may at any time authorise the extension of an issued interim certificate by a further period stated in the certificate that may not be longer than 12 months after the date on which the interim certificate was originally issued.
@@ -366,12 +377,13 @@ If an authorisation of a scope of practice requires the inclusion in the scope o
 The Registrar must endorse on every annual practising certificate or interim practising certificate issued to a health practitioner the health practitioner's scope of practice.
 
 ### 33 Surrender of practising certificate
-(1) This subsection applies to a person who is a health practitioner or a former health practitioner and—
-  (a) whose name is removed from the register; or
-  (b) whose registration or practising certificate is suspended; or
-  (c) whose practising certificate is required for endorsement by the Registrar under section 32.
-(2) A person to whom subsection (1) applies must, within 14 days after the date on which notice of the removal, suspension, or requirement for endorsement is given to him or her, deliver to the Registrar any current annual practising certificate or interim practising certificate that he or she holds.
-(3) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being required to comply with subsection (2), fails to comply with that subsection.
+(1) This section applies to a health practitioner who receives notice that his or her—
+  (a) name is removed from the register; or
+  (b) registration or practising certificate is suspended; or
+  (c) practising certificate is required to be endorsed by the Registrar under section 32.
+(2) If the practitioner’s practising certificate was issued electronically, the practitioner must, within 14 days after receiving the notice, send to the Registrar an acknowledgement of receipt of the notice.
+(3) If the practitioner’s practising certificate was issued in hard copy form, the practitioner must, within 14 days after receiving the notice, send to the Registrar his or her practising certificate.
+(4) Every person commits an offence and is liable on conviction to a fine not exceeding $2,000 who, being required to comply with subsection (2) or (3), fails to comply with that subsection.
 
 ## Part 3 — Competence, fitness to practise, and quality assurance
 
@@ -397,6 +409,7 @@ The Registrar must endorse on every annual practising certificate or interim pra
   (a) a notice of a professional conduct committee's recommendation under section 80(2)﻿(a) or section 79(b), so far as that recommendation relates to competence; or
   (b) a notice given under section 34.
 (3) Subsection (1) does not apply if the authority has reason to believe that a notice given under section 34 by a health practitioner is frivolous or vexatious.
+(3A) An authority that receives a notice under section 34(1) or (2) must inform the person from whom the notice was received as to whether it has decided to conduct a review of the competence of the health practitioner who is the subject of the notice.
 (4) The responsible authority may at any time review the competence of a practitioner who holds a current practising certificate, whether or not—
   (a) there is reason to believe that the practitioner's competence may be deficient; or
   (b) the authority receives a notice of the kind described in subsection (2).
@@ -417,13 +430,8 @@ The Registrar must endorse on every annual practising certificate or interim pra
   (c) that the health practitioner sit an examination or undertake an assessment specified in the order:
   (d) that the health practitioner be counselled or assisted by 1 or more nominated persons.
 (2) If the authority is unable to conduct or complete a review of a health practitioner under section 36 because of the health practitioner's failure to respond adequately to a notice under section 37, the authority has, for the purposes of subsection (1), reason to believe that the health practitioner fails to meet the required standard of competence.
-(3) The Registrar of the authority must ensure that, after the making of an order under subsection (1),—
-  (a) a copy of the order is given within 5 working days after the making of the order to—
-    (i) the health practitioner concerned; and
-    (ii) any employer of the practitioner; and
-    (iii) any person who works in partnership or association with the practitioner; and
-  (b) all administrative steps are taken to give effect to the order.
-(4) An order made under subsection (1) takes effect on a date stated in the order, which, if the order is sent to the health practitioner by post, may not be earlier than 4 days after it is posted.
+(3) If an order is made under this section following receipt of a notice given under section 34(1) or (2), the Registrar of the authority must, as soon as practicable after the making of the order, inform the person from whom the notice was received that an order under subsection (1)﻿(a), (b), (c), or (d), as the case may be, has been made.
+(4)
 
 ### 39 Interim suspension of practising certificate or inclusion of conditions in scope of practice pending review or assessment
 (1) This subsection applies to a health practitioner if—
@@ -437,7 +445,7 @@ The Registrar must endorse on every annual practising certificate or interim pra
 (3) The authority may not make an order under subsection (2) unless it has first—
   (a) informed the health practitioner concerned why it is considering making the order; and
   (b) given the health practitioner a reasonable opportunity to make written submissions and be heard on the question, either personally or by his or her representative.
-(4) An order made under subsection (2) takes effect from the day on which the health practitioner receives a copy of the order or from any later date stated in the order.
+(4) If an order is made under this section following a review conducted on receipt of a notice given under section 34(1) or (2), the Registrar of the responsible authority must, as soon as practicable after the making of the order, inform the person from whom the notice was received that an order under subsection (2)﻿(a), (b)﻿(i) or (ii), as the case may be, has been made.
 (5) An order under subsection (2) ceases to have effect on the later of—
   (a) the completion of the review; or
   (b) the attainment of a pass in any examination or assessment specified in the order under section 38(1)﻿(c).
@@ -527,65 +535,60 @@ An authority that is reviewing the competence of a health practitioner or that h
 On receiving a notice given under section 45, the Registrar must take all reasonable steps to have the notice considered by the authority as soon as reasonably practicable.
 
 ### 48 Interim suspension of practising certificate or inclusion of conditions in scope of practice in cases of suspected inability to perform required functions due to mental or physical condition
-(1) This section applies to a health practitioner if the authority considers that the health practitioner may be unable to perform the functions required for the practice of his or her profession because of some mental or physical condition.
+(1) This section applies to a health practitioner if the authority considers (whether or not as a result of a notice given under section 45 or of a recommendation made under section 79) that the health practitioner may be unable to perform the functions required for the practice of his or her profession because of some mental or physical condition.
 (2) If subsection (1) applies to a health practitioner, the responsible authority may order that for a period of not more than 20 working days from the date that a copy of the order is given to the health practitioner under subsection (6)—
   (a) the practising certificate of the health practitioner be suspended; or
   (b) the health practitioner's scope of practice be altered—
     (i) by changing any health services that the practitioner is permitted to perform; or
     (ii) by including any condition or conditions that the authority considers appropriate.
-(3) The authority may order that the period of an order made under subsection (1) be extended by a further period of not more than 20 working days if that extension is necessary for any examination or testing required under section 49.
+(3) The authority may order that the period of an order made under subsection (2) be extended by a further period of not more than 20 working days if that extension is necessary for any examination or testing required under section 49.
 (4) The authority is not obliged to give the health practitioner notice that the authority intends to make an order under this section.
-(5) Every order made under this section must—
-  (a) be in writing; and
-  (b) contain a statement of the reasons on which it is based; and
-  (c) be signed by the Registrar.
-(6) The Registrar must ensure that a copy of an order made under this section is promptly given to the health practitioner concerned.
+(5) If an order is made under this section following receipt of a notice given under section 45, the Registrar of the authority must, as soon as practicable after the making of the order, inform the person from whom the notice was received that an order under subsection (2)﻿(a), (b)﻿(i) or (ii), as the case may be, has been made.
+(6)
 
-### 49 Power to order medical examination
-(1) If the responsible authority considers (whether or not as a result of a notice given under section 45 or of a recommendation made under section 79) that a health practitioner may be unable to perform the functions required for the practice of his or her profession because of some mental or physical condition, the authority may, by notice given to the health practitioner, require him or her to submit himself or herself for examination or testing by a medical practitioner at the expense of the authority.
+### 49 Power to order examination or testing
+(1) If the responsible authority considers (whether or not as a result of a notice given under section 45 or of a recommendation made under section 79) that a health practitioner may be unable to perform the functions required for the practice of his or her profession because of some mental or physical condition, the authority may, by notice given to the health practitioner, require him or her to submit himself or herself for examination or testing by an assessor at the expense of the authority.
 (2) Every notice given under this section must—
   (a) specify—
     (i) the mental or physical condition that may make the health practitioner unable to perform the functions required for the practice of his or her profession; and
-    (ii) the name and address of the medical practitioner who is to conduct the examination or test; and
+    (ii) the name and address of the assessor who is to conduct the examination or test; and
     (iii) a date by which the examination or test is to be conducted, being a date that is not less than 5 working days after the date on which the notice is given to the health practitioner, to submit himself or herself for examination or testing; and
   (b) be signed by the Registrar.
-(3) Before giving a notice under this section, the authority must endeavour to consult with the health practitioner about the medical practitioner who is to conduct the examination or test.
-(4) A health practitioner who is required by a notice given under this section to submit himself or herself for examination or testing by a medical practitioner may have another person chosen by him or her attend the examination or testing as an observer.
-(5) A medical practitioner who conducts an examination or test under this section may consult any other health practitioner who the medical practitioner considers is able to assist in the completion of the examination or test.
-(6) When a medical practitioner has examined or tested a health practitioner under this section, he or she must, as soon as reasonably practicable after the examination or test, make a written report to the Registrar of the responsible authority on whether or not the practitioner has the mental or physical condition stated under subsection (2) and, if that is the case, the extent, if any, to which that condition affects the practitioner's ability to perform the functions required for the practice of his or her profession.
+(3) Before giving a notice under this section, the authority must endeavour to consult with the health practitioner about the assessor who is to conduct the examination or test.
+(4) A health practitioner who is required by a notice given under this section to submit himself or herself for examination or testing by an assessor may have another person chosen by him or her attend the examination or testing as an observer.
+(5) An assessor who conducts an examination or a test under this section may consult any other practitioner who the assessor considers is able to assist in the completion of the examination or test.
+(6) When an assessor has examined or tested a health practitioner under this section, he or she must, as soon as reasonably practicable after the examination or test, make a written report to the Registrar of the responsible authority on whether or not the practitioner has the mental or physical condition stated under subsection (2) and, if that is the case, the extent, if any, to which that condition affects the practitioner's ability to perform the functions required for the practice of his or her profession.
 (7) The Registrar must, promptly after receiving a report under subsection (6), send a copy to the health practitioner to whom the report relates.
+(8) In this section and section 50, assessor means a medical practitioner or any other health practitioner.
 
 ### 50 Restrictions may be imposed in case of inability to perform required functions
 (1) Subsection (2) applies if a health practitioner has been given a notice under section 49; and
   (a) either—
-    (i) the health practitioner has not, by the time specified in the notice, submitted himself or herself for examination or testing by the medical practitioner named in the notice; or
-    (ii) the Registrar of the responsible authority has received a written report in respect of the health practitioner from the medical practitioner named in the notice; and
+    (i) the health practitioner has not, by the time specified in the notice, submitted himself or herself for examination or testing by the assessor named in the notice; or
+    (ii) the Registrar of the responsible authority has received a written report in respect of the health practitioner from the assessor named in the notice; and
   (b) the authority has given the health practitioner a reasonable opportunity to make written submissions and be heard on the matter, either personally or by his or her representative.
 (2) The authority must consider the report (if any) and all the relevant circumstances of the case.
 (3) The authority may order that the health practitioner's registration be suspended if the authority has considered the case of the health practitioner and the authority is satisfied that—
   (a) the health practitioner is unable to perform the functions required for the practice of his or her profession because of some mental or physical condition; or
   (b) the health practitioner has not submitted himself or herself for examination or testing in accordance with a notice under section 49.
 (4) The authority may order that conditions be included in the practitioner's scope of practice if the authority has considered the case of the practitioner and the authority is satisfied that the practitioner is able to perform the functions required for the practice of his or her profession, but only if those conditions are observed.
-(5) Every order made under subsection (3) or subsection (4) must—
-  (a) be in writing; and
-  (b) contain a statement of the reasons on which it is based; and
-  (c) be signed by the chairperson of the authority or by a person authorised by the chairperson.
-(6) The Registrar of the authority must ensure that, after an order under subsection (3) or subsection (4) is made,—
-  (a) a copy of the order is given to the health practitioner concerned within 5 working days after the making of the order; and
-  (b) all administrative steps are taken to give effect to the order.
-(7) An order made under subsection (3) or subsection (4) takes effect from the day on which a copy of the order is given under subsection (6) to the health practitioner concerned, or a later date specified in the order.
+(5) If an order is made under subsection (3) or (4) following receipt of a notice given under section 45, the Registrar of the authority must, as soon as practicable after the making of the order, inform the person from whom the notice was received that an order under subsection (3) or (4), as the case may be, has been made.
+(6)
+(7)
 
 ### 51 Revocation of suspension or conditions
-(1) An authority may at any time make an order revoking any suspension that it has imposed under section 39 or section 50 if it is satisfied that the health practitioner concerned is again able to practise the health practitioner's profession satisfactorily.
-(2) The authority may at any time make an order revoking any conditions or changes imposed under section 39 or section 50 if it is satisfied that those conditions or changes are no longer necessary.
-(3) The authority may make an order varying a condition imposed under section 39 or section 50 if it is satisfied that the variation should have been part of the original order or is required by a change in circumstances.
+(1) An authority may at any time make an order revoking any suspension that it has imposed under section 39, 48, 50, or 67A if it is satisfied that the health practitioner concerned is again able to practise the health practitioner's profession satisfactorily.
+(2) The authority may at any time make an order revoking any conditions or changes imposed under section 39, 48, 50, 67A, or 69A if it is satisfied that those conditions or changes are no longer necessary.
+(3) The authority may make an order varying a condition imposed under section 39, 48, 50, 67A, or 69A if it is satisfied that the variation should have been part of the original order or is required by a change in circumstances.
 (4) The authority may not make an order under subsection (3) otherwise than in accordance with an application from the health practitioner concerned unless it has first—
   (a) informed the health practitioner why it may vary the condition; and
   (b) given the health practitioner a reasonable opportunity to make written submissions on the proposed variation, and be heard on the question, either personally or by his or her representative.
 (5) An order under this section may be made on the application of the health practitioner or on the authority's own initiative.
-(6) The Registrar of the responsible authority must ensure that, after an order under this section is made,—
-  (a) a copy of the order is given to the health practitioner concerned within 5 working days after the making of the order; and
-  (b) all administrative steps are taken to give effect to the order.
+(6) If an order is made under this section, the Registrar of the responsible authority must, as soon as practicable after the making of the order,—
+  (a) ensure that a copy of the order is given to any person who,—
+    (i) under section 39(4), has received a copy of an order made under section 39 to which the revocation relates; or
+    (ii) under section 48(5) or 50(5), has received a copy of an order made under section 48 or 50 to which the revocation relates; and
+  (b) take all administrative steps necessary to give effect to the order.
 (7) An order under this section takes effect immediately.
 
 **Quality assurance activities**
@@ -668,7 +671,7 @@ A quality assurance activity ceases to be a protected quality assurance activity
   (b) on the 31st working day after the day on which the vacancy occurred, the vacancy has not been filled under section 55(2).
 
 ### 58 Reporting requirements
-(1) Within 2 months after the expiry of each period of 6 months (the reporting period) that follows the date of a notice under section 54 declaring a quality assurance activity to be protected, the person for the time being appointed to be responsible for the activity must give each provider of health services (the provider) who has, or whose employees or agents have, been assessed in the reporting period through the activity a report relating to the reporting period that sets out information on the following matters:
+(1) Within 2 months after the expiry of each period of 1 year (the reporting period) that follows the date of a notice under section 54 declaring a quality assurance activity to be protected, the person for the time being appointed to be responsible for the activity must give each provider of health services (the provider) who has, or whose employees or agents have, been assessed in the reporting period through the activity a report relating to the reporting period that sets out information on the following matters:
   (a) any problems or issues concerning the operations of the provider that have been identified in the course of the activity:
   (b) any action that has been taken, as a result of the activity, to resolve or address the problems or issues stated under paragraph (a):
   (c) any recommendations that have been, or are to be, made to the provider as a result of the activity:
@@ -733,6 +736,7 @@ A notice issued under section 54, and an amendment or revocation of a notice iss
 ### 65 Response to complaints referred by Health and Disability Commissioner
 (1) When the Health and Disability Commissioner refers a complaint to the responsible authority under section 34(1)﻿(a) of the Health and Disability Commissioner Act 1994, the authority must promptly assess the complaint and consider, in light of the nature and circumstances of the complaint, the action or actions that the authority should take to respond to the complaint.
 (2) Without limiting the generality of subsection (1), the authority may decide to refer the complaint to a professional conduct committee.
+(3) If the authority decides to refer a complaint to a professional conduct committee, it must do so as soon as is reasonably practicable after it makes that decision.
 
 ### 66 Health and Disability Commissioner must notify authority of pending complaint
 The Health and Disability Commissioner must, under section 42(1) of the Health and Disability Commissioner Act 1994, notify the responsible authority of any investigation under that Act that directly concerns a health practitioner.
@@ -754,13 +758,37 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
     (xi) the Misuse of Drugs Act 1975; or
     (xii) the Radiation Safety Act 2016.
 
-### 68 Referral of complaints and notices of conviction to professional conduct committee
-(1) If the responsible authority decides, under section 65(2), to refer a complaint to a professional conduct committee, it must do so as soon as practicable after it makes that decision.
-(2) When a notice of conviction is given under section 67 to the authority, the authority must, as soon as reasonably practicable after receiving the notice, refer the notice to a professional conduct committee.
-(3) If the responsible authority considers that information in its possession raises 1 or more questions about the appropriateness of the conduct or the safety of the practice of a health practitioner, it may refer any or all of those questions to a professional conduct committee.
-(4) If at any time, while a matter concerning a health practitioner is under consideration by a professional conduct committee, the responsible authority thinks that a further matter concerning that practitioner should form part of the committee's consideration, the authority may refer the further matter to the committee.
+### 67A Action to be taken by authority on receipt of notice of conviction
+(1) This section applies if a responsible authority receives a notice of conviction—
+  (a) given under section 67(a); or
+  (b) given under section 67(b) and the conviction to which the notice relates—
+    (i) is for an offence punishable by imprisonment or a fine of or exceeding $1,000; or
+    (ii) is otherwise an offence that the authority considers raises concerns about the appropriateness of the conduct or about the safety of the practice of the health practitioner.
+(2) If this section applies, the responsible authority must, as soon as is reasonably practicable,—
+  (a) refer the notice of conviction to a professional conduct committee; or
+  (b) order the health practitioner to—
+    (i) undergo any specified medical examination and treatment; or
+    (ii) undergo any specified psychological or psychiatric examination, counselling, or therapy; or
+    (iii) attend any specified course of treatment or therapy for alcohol or drug abuse.
+(3) The responsible authority may not make an order under subsection (2)﻿(b) unless the health practitioner consents—
+  (a) to the examination, treatment, counselling, or therapy concerned; and
+  (b) to the provision to the responsible authority of a report on the outcome of the examination, treatment, counselling, or therapy.
+(4) An order made under subsection (2)﻿(b) must specify—
+  (a) the date by which the examination, treatment, counselling, or therapy is to be conducted, being a date that is not earlier than the date on which the order is, under section 156, to be treated as having been received by the health practitioner concerned; and
+  (b) the date by which the person who has examined, treated, counselled, or provided therapy to the health practitioner must report to the responsible authority the outcome of that examination, treatment, counselling, or therapy.
+(5) After receiving a report referred to in subsection (4)﻿(b), the responsible authority must promptly—
+  (a) arrange for a copy of the report to be sent to the health practitioner to whom the report relates; and
+  (b) consider the report.
+(6) After considering a report, the responsible authority may—
+  (a) take no further action in respect of the notice of conviction; or
+  (b) order that conditions be included in the health practitioner’s scope of practice if the authority is satisfied that the practitioner is able to perform the functions required for the practice of his or her profession, but only if those conditions are observed; or
+  (c) refer the notice of conviction to a professional conduct committee.
 
-### 69 Interim suspension of practising certificate pending prosecution or investigation
+### 68 Referral of information to professional conduct committee
+(1) If the responsible authority considers that information in its possession raises 1 or more questions about the appropriateness of the conduct or the safety of the practice of a health practitioner, it may refer the information and any or all of those questions to a professional conduct committee.
+(2) If at any time while a matter concerning a health practitioner is under consideration by a professional conduct committee the responsible authority thinks that a further matter concerning that practitioner should form part of the committee’s consideration, the authority may refer the further matter to the committee.
+
+### 69 Inclusion of conditions in health practitioner’s scope of practice or interim suspension of practising certificate pending prosecution or investigation if appropriateness of practitioner’s conduct in doubt
 (1) This section applies if a practitioner is alleged to have engaged in conduct that—
   (a) is relevant to—
     (i) a criminal proceeding that is pending against the practitioner; or
@@ -772,12 +800,30 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
 (3) The authority may not make an order under subsection (2) unless it has first—
   (a) informed the health practitioner concerned why it may make an order under that subsection in respect of the health practitioner; and
   (b) given the health practitioner a reasonable opportunity to make written submissions and be heard on the question, either personally or by his or her representative.
-(4) The authority must revoke an order under subsection (2) as soon as practicable after—
+(4) The authority must order the revocation of an order under subsection (2) as soon as practicable after—
   (a) the authority is satisfied that the appropriateness of the practitioner's conduct in his or her professional capacity is no longer in doubt; or
   (b) the criminal proceeding on which the practitioner's suspension is based is disposed of otherwise than by his or her conviction; or
   (c) if the criminal proceeding on which the practitioner's suspension is based results in his or her conviction, the authority is satisfied that no disciplinary action is to be taken or continued in respect of that conviction under the Health and Disability Commissioner Act 1994 or under this Act; or
   (d) if the investigation on which the practitioner's suspension is based has been completed, the authority is satisfied that the practitioner will not be charged as a result of the investigation.
-(5) An order under subsection (2) or subsection (4) takes effect immediately, and the authority must ensure that the practitioner is notified as soon as practicable.
+(5) An order made under subsection (4) takes effect immediately.
+
+### 69A Interim suspension of practising certificate pending prosecution or investigation if risk of harm to public
+(1) This section applies if a practitioner is alleged to have engaged in conduct that—
+  (a) is relevant to—
+    (i) a criminal proceeding that is pending against the practitioner; or
+    (ii) an investigation about the practitioner that is pending under this Act or the Health and Disability Commissioner Act 1994; and
+  (b) in the opinion of the responsible authority held on reasonable grounds, poses a risk of serious harm to the public.
+(2) If this section applies, the responsible authority may order that the health practitioner’s practising certificate be suspended.
+(3) The responsible authority is not obliged to give the health practitioner notice that the authority intends to make an order under this section.
+(4) The responsible authority must ensure that the health practitioner concerned is given the opportunity to—
+  (a) make written submissions on the matter; and
+  (b) be heard on the matter, either personally or by his or her representative, within 20 working days of the making of the order.
+(5) The responsible authority must revoke an order made under subsection (2) as soon as practicable after—
+  (a) the authority is satisfied that the conduct of the health practitioner does not pose a risk of serious harm to the public; or
+  (b) the criminal proceeding on which the practitioner’s suspension is based is disposed of otherwise than by his or her conviction; or
+  (c) if the criminal proceeding on which the practitioner’s suspension is based results in the health practitioner being convicted, the authority is satisfied that no disciplinary action in respect of that conviction is to be taken or continued under this Act or the Health and Disability Commissioner Act 1994; or
+  (d) if the investigation on which the practitioner’s suspension is based has been completed, the authority is satisfied that the practitioner will not be charged as a result of the investigation.
+(6) When revoking an order under subsection (5), the responsible authority may order that 1 or more conditions be included in the health practitioner’s scope of practice.
 
 ### 70 No action to be taken while matter under investigation by Health and Disability Commissioner
 (1) When, in accordance with section 64, an authority notifies the Health and Disability Commissioner of a complaint or, in accordance with section 66, the Health and Disability Commissioner notifies an authority of an investigation, the authority may not take any action under this Part concerning the complaint or the subject matter of the investigation until—
@@ -983,10 +1029,22 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
 (3) Every notice given to a health practitioner must require the practitioner to notify the Tribunal in writing, not later than on a specified date (being not less than 10 working days after the date on which the notice is received by the practitioner), whether or not he or she wishes to be heard by the Tribunal, either personally or by his or her representative.
 (4) If a practitioner fails to notify the Tribunal as required by the notice, the practitioner is entitled to appear and be heard at the hearing only on any conditions as to payment of costs and expenses or otherwise that the Tribunal thinks fit to order.
 
+### 92A Chairperson may prohibit publication of names pending hearing of charge
+(1) At any time after a notice has been given to a health practitioner under section 92(1), the parties to the proceedings may jointly apply to the chairperson of the Tribunal for an order prohibiting the publication of the name, or any particulars of the affairs, of—
+  (a) the health practitioner; or
+  (b) any other person; or
+  (c) the health practitioner and any other person.
+(2) If, after having regard to the interests of any person (including, without limitation, the privacy of any complainant) and to the public interest, the chairperson of the Tribunal is satisfied that it is desirable to do so, the chairperson may make the order sought.
+(3) An order continues in force until whichever of the following occurs first:
+  (a) the expiry of any period specified in the order:
+  (b) the order is revoked by the chairperson of the Tribunal:
+  (c) the charge against the health practitioner is heard by the Tribunal.
+(4) A person who contravenes an order without reasonable excuse commits an offence and is liable on conviction to a fine not exceeding $10,000.
+
 ### 93 Interim suspension of registration or imposition of restrictions on practice
-(1) At any time after a notice has been given to a health practitioner under section 92(1), the Tribunal may, if it is satisfied that it is necessary or desirable to do so, having regard to the need to protect the health or safety of members of the public, order that, until the charge to which that notice related has been disposed of,—
-  (a) the registration of that health practitioner be suspended; or
-  (b) the health practitioner may practise as a health practitioner only in accordance with conditions stated in the order.
+(1) Subsections (1A) and (1B) apply at any time after a notice has been given to a health practitioner under section 92(1).
+(1A) If, in the opinion of the Tribunal held on reasonable grounds, the conduct in which the health practitioner is alleged to have engaged poses a risk of serious harm to the public, the Tribunal may order that, until the charge to which the notice relates has been disposed of, the registration of the practitioner be suspended.
+(1B) If the Tribunal is satisfied that it is necessary or desirable to do so, having regard to the need to protect the health or safety of members of the public, the Tribunal may order that, until the charge to which the notice relates has been disposed of, the health practitioner may practise as a health practitioner only in accordance with conditions stated in the order.
 (2) The Tribunal may make an order under this section on the recommendation of the Director of Proceedings or a professional conduct committee, or on its own initiative.
 (3) The Tribunal does not have to give the health practitioner notice that it intends to make the order.
 (4) The order must—
@@ -994,18 +1052,22 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
   (b) state the reasons for it; and
   (c) state clearly the health practitioner's right to apply to the Tribunal to have it revoked; and
   (d) be signed by the chairperson or a deputy chairperson of the Tribunal.
-(5) The appropriate executive officer of the Tribunal must also ensure that the health practitioner, any employer of the health practitioner, and the responsible authority are promptly given a copy of the order.
-(6) The order takes effect from the day on which the copy is given to the health practitioner.
+(5) The appropriate executive officer of the Tribunal must ensure that a copy of the order is promptly given to—
+  (a) the health practitioner concerned; and
+  (b) the responsible authority; and
+  (c) any employer of the practitioner.
+(6) If so directed, the responsible authority must ensure that a copy of the order is promptly given to any other persons specified by the Tribunal.
+(7) On receiving a copy of an order under subsection (5)﻿(b), the Registrar of the responsible authority must take all administrative steps necessary to give effect to the order.
 
 ### 94 Health practitioner may apply for revocation of order
-(1) A health practitioner may at any time apply to the Tribunal for the variation or revocation of an order under section 93(1).
+(1) A health practitioner may at any time apply to the Tribunal for the variation or revocation of an order under section 93(1A) or (1B).
 (2) The application must be in writing and delivered to the appropriate executive officer of the Tribunal.
 (3) The Tribunal—
   (a) must hear the application within 10 working days after it is received by the appropriate executive officer of the Tribunal; and
   (b) may, as it thinks fit,—
     (i) grant or refuse the application; or
-    (ii) in the case of conditions imposed under section 93(1)﻿(b), amend or replace the conditions.
-(4) The Tribunal may also revoke or vary an order under section 93(1) on its own initiative.
+    (ii) in the case of conditions imposed under section 93(1B), amend or replace the conditions.
+(4) The Tribunal may also revoke or vary an order under section 93(1A) or (1B) on its own initiative.
 (5) The appropriate executive officer of the Tribunal must ensure that the health practitioner, any employer of the health practitioner, and the responsible authority are promptly given notice of the Tribunal's decision.
 (6) The Tribunal's decision takes effect immediately.
 
@@ -1022,7 +1084,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
 (6) An order made under this section continues in force—
   (a) until a time specified in it; or
   (b) if no time is specified, until it is revoked under section 99.
-(7) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who contravenes an order made under subsection (2).
+(7) Every person commits an offence and is liable on conviction to a fine not exceeding $10,000 who, without reasonable excuse, contravenes an order made under subsection (2).
 
 ### 96 Clarifications concerning section 95
 (1) Section 95 does not prevent the Tribunal from deliberating in private as to its decision, or as to any question arising in the course of a hearing.
@@ -1124,15 +1186,18 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
   (b) the amount of any fine.
 
 ### 102 Orders limiting restoration of registration
-(1) When making an order that the registration of a health practitioner be cancelled, the Tribunal may impose 1 or more conditions that he or she must satisfy before he or she may apply for registration again.
-(2) The conditions may include any or all of the following:
+(1) When making an order that the registration of a health practitioner be cancelled, the Tribunal may do either or both of the following:
+  (a) fix a date before which the person may not apply for registration again:
+  (b) impose 1 or more conditions that the person must satisfy before the person may apply for registration again.
+(2) The conditions imposed under subsection (1)﻿(b) may include any or all of the following:
   (a) a condition that the person undertake a specified course of education or training:
   (b) a condition that the person undergo—
     (i) any specified medical examination and treatment; or
     (ii) any specified psychological or psychiatric examination, counselling, or therapy:
   (c) a condition that the person attend any specified course of treatment or therapy for alcohol or drug abuse:
   (d) any other condition designed to address the matter that gave rise to the cancellation of the person's registration.
-(3) The Tribunal must not impose a condition under subsection (2)﻿(b) or (c) unless the person consents to the examination, treatment, counselling, or therapy concerned.
+(3) The Tribunal must not impose a condition of the kind specified in subsection (2)﻿(b) or (c) unless the person consents to the examination, treatment, counselling, or therapy concerned.
+(3A) If the Tribunal fixes a date before which the person may not apply for registration again, no application for registration may be made by the person before that date.
 (4) Subsection (2) does not limit subsection (1).
 
 ### 103 Orders of Tribunal
@@ -1140,27 +1205,48 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
   (a) be in writing; and
   (b) contain a statement of the reasons for the order; and
   (c) be signed by the chairperson or a deputy chairperson of the Tribunal.
+(1A) The appropriate executive officer of the Tribunal must ensure that a copy of an order made under section 92(4) is given to the health practitioner concerned.
 (2) The appropriate executive officer of the Tribunal must ensure that a copy of an order under section 95 or section 98 or section 101 is given to—
   (a) the Director of Proceedings or the professional conduct committee that laid the charge; and
   (b) the health practitioner concerned; and
   (c) any complainant; and
   (d) the responsible authority.
-(3) An order made by the Tribunal takes effect on a date stated in the order, which, if the order is sent to the health practitioner by post, may not be earlier than 4 days after it is posted.
-(4) The appropriate executive officer of the Tribunal must ensure that a copy of an order made under section 92(4) is given to the health practitioner concerned.
+(2A) If the Tribunal makes any 1 or more of the orders authorised by section 101(1)﻿(a) to (d) against a health practitioner who is an employee, the appropriate executive officer must, if so directed by the Tribunal, ensure that a copy of each order is given to the health practitioner's employer.
+(3)
+(4)
 
 **Funding of Tribunal and recovery of costs and fines**
 
-### 104 Resourcing of Tribunal and nomination of executive officers
+### 103A Resourcing Tribunal’s administration costs
+(1) The responsible authorities must pay the Tribunal’s general administration costs.
+(2) Each responsible authority must pay to the Tribunal at the beginning of each financial year a proportion of the Tribunal’s estimated general administration costs for that financial year, with the proportion being determined—
+  (a) by the Tribunal; and
+  (b) by reference to the number of health practitioners registered with the authority who at the beginning of the financial year hold a current practising certificate.
+(3) If the Tribunal’s estimated general administration costs for any financial year exceed the Tribunal’s actual general administration costs for that year, the Tribunal must—
+  (a) refund to the authorities, on a proportional basis, the amount of the excess; and
+  (b) determine the proportion payable to each authority by reference to the amount paid by the authority toward the estimated costs.
+(4) If the Tribunal’s estimated general administration costs for any financial year are less than the Tribunal’s actual general administration costs for that year, the Tribunal may at any time (whether or not the year has ended)—
+  (a) require the authorities to pay, on a proportional basis, the shortfall in costs; and
+  (b) determine the proportion payable by each authority by reference to the amount paid by the authority toward the estimated costs.
+(5) The Tribunal must provide to each responsible authority at the end of each financial year a statement showing a full breakdown of its general administration costs for that financial year.
+(6) In this section, general administration costs means all expenses payable by or on behalf of the Tribunal in connection with the administration of the Tribunal that are not payable in respect of any proceeding under section 104(1)﻿(a) or (b) (including, without limitation, insurance costs and member training costs).
+
+### 104 Resourcing costs of proceedings and nomination of executive officers
 (1) For each proceeding against a health practitioner, the responsible authority must—
   (a) pay the fees payable in respect of the proceeding to the members of the Tribunal; and
   (b) pay any actual and reasonable expenses incurred by or on behalf of the Tribunal in respect of the proceeding; and
-  (c) make available to the Tribunal, at the authority's expense, suitable premises, the person nominated under subsection (2), and secretarial support.
+  (c) make available to the Tribunal for the purpose of the proceeding, at the authority's expense, suitable premises, the person nominated under subsection (2), and secretarial support.
 (2) Each authority appointed in respect of a profession must nominate 1 person who is to be the Tribunal's executive officer for the purpose of proceedings brought against health practitioners of that profession.
 (3) An authority may at any time revoke its nomination under subsection (2) by nominating another person under that subsection.
 (4) Before an authority nominates a person under subsection (2), the authority must consult the chairperson of the Tribunal.
 (5) An authority is not entitled to direct a person whom it has nominated under subsection (2) as to the discharge of the person's duties as executive officer.
 
-### 105 Recovery of fines and costs
+### 104A Recovery of costs, fees, and expenses
+The following are recoverable in any court of competent jurisdiction by the Tribunal from an authority as a debt due to the Tribunal:
+  (a) all costs payable by an authority under section 103A; and
+  (b) all fees and expenses payable by an authority under section 104(1)﻿(a) and (b).
+
+### 105 Recovery of costs and expenses of Health and Disability Commissioner or Director of Proceedings
 (1) All costs and expenses of the Health and Disability Commissioner or Director of Proceedings ordered to be paid, under section 101(1)﻿(f)﻿(i) or (iii), by a health practitioner are recoverable in any court of competent jurisdiction from the health practitioner by the Health and Disability Commissioner as a debt due to the Health and Disability Commissioner.
 (2) All other fines, costs, and expenses ordered to be paid, under section 101(1), are recoverable in any court of competent jurisdiction by the responsible authority as a debt due to the authority.
 
@@ -1268,6 +1354,52 @@ Before making a recommendation under section 115(1), the Minister must, after co
     (ii) the standards that any class or classes of providers of those health services are expected to meet; and
     (iii) the competencies for scopes of practice for those health services.
 
+**Amalgamation of authorities**
+
+### 116A Authorities may be amalgamated
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+  (a) amalgamate an existing authority with 1 or more other existing authorities; and
+  (b) either—
+    (i) continue the existing authorities as one of the existing authorities; or
+    (ii) continue the existing authorities as a new authority; and
+  (c) provide for any arrangement to complete the amalgamation and provide for the subsequent management and operation of the amalgamated authority; and
+  (d) amend any enactment (for example, this Act) to reflect and give effect to the amalgamation effected by the order.
+(2) The Minister may recommend that an Order in Council be made only if—
+  (a) the Minister has consulted—
+    (i) the authorities concerned; and
+    (ii) any other organisations that the Minister considers will be affected by the amalgamation; and
+  (b) the Minister is satisfied that it is in the public interest that the order be made.
+(3) An Order in Council is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+### 116B Effect of amalgamation
+On the date on which existing authorities amalgamate,—
+  (a) the amalgamated authority succeeds to all the property, rights, powers, and privileges of each of the amalgamating authorities; and
+  (b) the amalgamated authority succeeds to all the liabilities and obligations of each of the amalgamating authorities; and
+  (c) proceedings pending by, or against, an amalgamating authority may be continued by, or against, the amalgamated authority; and
+  (d) a conviction, ruling, order, or judgment in favour of, or against, an amalgamating authority may be enforced by, or against, the amalgamated authority.
+
+### 116C Final report of authority
+(1) As soon as practicable after an authority (A) has been amalgamated under section 116A, the amalgamated authority must prepare and forward to the Minister a final report on A’s operations.
+(2) The final report must be for the period (the report period)—
+  (a) commencing at the start of the financial year in which A was amalgamated; and
+  (b) ending with the close of the day immediately preceding the date on which A was amalgamated.
+(3) The final report must include audited financial statements for the report period.
+(4) The Minister must present a copy of the final report to the House of Representatives within 16 sitting days after receiving it.
+(5) In this section, financial year has the same meaning as in section 134.
+
+### 116D Members not entitled to compensation for loss of office
+No member of an authority is entitled to any compensation for loss of office resulting from an Order in Council made under section 116A.
+
+**List of authorities**
+
+### 116E Director-General of Health to publish list of responsible authorities
+(1) The Director-General of Health must—
+  (a) maintain a list of responsible authorities appointed by or under this Act and the health professions in respect of which each of those authorities is appointed; and
+  (b) publish that list in the Gazette.
+(2) The Director-General of Health must republish the list if an Order in Council is made under—
+  (a) section 115; or
+  (b) section 116A.
+
 **Status and functions of authorities**
 
 ### 117 Status and capacity of authorities
@@ -1285,11 +1417,12 @@ The functions of each authority appointed in respect of a health profession are 
   (c) to consider applications for annual practising certificates:
   (d) to review and promote the competence of health practitioners:
   (e) to recognise, accredit, and set programmes to ensure the ongoing competence of health practitioners:
-  (f) to receive and act on information from health practitioners, employers, and the Health and Disability Commissioner about the competence of health practitioners:
+  (f) to receive information from any person about the practice, conduct, or competence of health practitioners and, if it is appropriate to do so, act on that information:
   (g) to notify employers, the Accident Compensation Corporation, the Director-General of Health, and the Health and Disability Commissioner that the practice of a health practitioner may pose a risk of harm to the public:
   (h) to consider the cases of health practitioners who may be unable to perform the functions required for the practice of the profession:
-  (i) to set standards of clinical competence, cultural competence, and ethical conduct to be observed by health practitioners of the profession:
+  (i) to set standards of clinical competence, cultural competence (including competencies that will enable effective and respectful interaction with Māori), and ethical conduct to be observed by health practitioners of the profession:
   (j) to liaise with other authorities appointed under this Act about matters of common interest:
+  (ja) to promote and facilitate inter-disciplinary collaboration and co-operation in the delivery of health services:
   (k) to promote education and training in the profession:
   (l) to promote public awareness of the responsibilities of the authority:
   (m) to exercise and perform any other functions, powers, and duties that are conferred or imposed on it by or under this Act or any other enactment.
@@ -1320,6 +1453,7 @@ The functions of each authority appointed in respect of a health profession are 
   (b) consider every nomination received by the stated date in response to the notice.
 (4) Regulations made under this Act may provide that 1 or more health practitioners appointed, under subsection (1), as members of an authority must be practitioners (in this section referred to as elected practitioners) who have been elected in an election conducted by the authority in accordance with those regulations.
 (5) If an elected practitioner ceases to hold office before the expiry of his or her term, the Minister may, by notice in the Gazette, appoint a person who has not been elected as a member of the authority for the remainder of the term of that elected practitioner.
+(6) If an authority is established by Order in Council under section 115(1)﻿(b)﻿(i), then, for a period not exceeding 3 months commencing on the day the order is made, subsection (2)﻿(a) must be read as if the reference in that subsection to health practitioners were a reference to persons who are proposing to apply for registration as health practitioners with that authority.
 
 ### 121 Term of office
 (1) Each member of an authority takes office from a date specified for that purpose in the notice appointing the member or, if no date is specified in the notice, from the date on which the notice is published in the Gazette.
@@ -1340,6 +1474,34 @@ The functions of each authority appointed in respect of a health profession are 
 (3) Any member of an authority may be removed from office by the Minister, by notice given to the member, on the grounds of inability to perform the duties of the office, neglect of duty, or misconduct, proved to the satisfaction of the Minister.
 (4) A member of an authority may be removed from office by the Minister, with the concurrence of the authority, by notice given to the member, on the ground that the member's performance on the authority is inadequate.
 (5) The powers of an authority are not affected by any vacancy in its membership.
+
+**Performance reviews of authorities**
+
+### 122A Performance reviews
+(1) From time to time, there must be conducted in respect of each authority a review of how effectively and efficiently the authority is performing its functions (a performance review).
+(2) The first performance review must be conducted within 3 years after the commencement of this section.
+(3) Subsequent performance reviews must be conducted at intervals that are no more than 5 years apart.
+(4) For each performance review to be conducted in respect of an authority, the Ministry of Health must, in consultation with the authority,—
+  (a) appoint an independent person to conduct the review (a reviewer); and
+  (b) set the terms of reference for the review.
+(5) Before setting the terms of reference for a review, the Ministry of Health may, but is not obliged to, consult any other person, organisation, or group about the terms of reference.
+(6) A reviewer must, as soon as practicable after conducting a review,—
+  (a) prepare a written report on the conclusions reached and of any recommendations; and
+  (b) give a copy of the report to—
+    (i) the Minister; and
+    (ii) the authority.
+(7) On receipt of a report under subsection (6)﻿(b)﻿(ii), an authority must, as soon as practicable, publish the report on its Internet site.
+(8) The costs of conducting a performance review in respect of an authority must be met by the authority.
+
+### 122B Information about implementation of recommendations to be included in annual report
+(1) If a performance review has been completed in respect of any authority during the first 6 months of the authority’s financial year and the report prepared under section 122A(6)﻿(a) in respect of that review contains recommendations, the authority must include in its annual report for that financial year delivered to the Minister under section 134 the information specified in subsection (3).
+(2) If a performance review has been completed in respect of any authority during the last 6 months of the authority’s financial year and the report prepared under section 122A(6)﻿(a) in respect of that review contains recommendations, the authority must include in its annual report for the following financial year delivered to the Minister under section 134 the information specified in subsection (3).
+(3) The information referred to in subsections (1) and (2) is—
+  (a) which of the recommendations the authority—
+    (i) proposes to implement; and
+    (ii) does not propose to implement; and
+  (b) the time frame for implementing the recommendations identified under paragraph (a)﻿(i); and
+  (c) the reason for not implementing the recommendations identified under paragraph (a)﻿(ii).
 
 **Powers of Minister**
 
@@ -1456,10 +1618,27 @@ The functions of each authority appointed in respect of a health profession are 
 (5) For the purposes of this section, fine does not include a fine imposed in respect of the commission of an offence against a provision of this Act.
 
 ### 134 Annual report
-(1) As soon as practicable after the end of each financial year, each authority must deliver to the Minister a report on the operation of the authority during that financial year, and every report to the Minister must include the audited financial statements of the authority for that financial year.
+(1) As soon as is reasonably practicable after the end of each financial year, each authority must deliver to the Minister a report on the operation of the authority during that financial year, and every report to the Minister must include—
+  (a) the audited financial statements of the authority for that financial year; and
+  (b) any information that section 122B may require to be included in the report.
 (2) In subsection (1), financial year, in relation to an authority, means a period ending in each calendar year on a balance date adopted by the authority.
 (3) An authority that is established by this Act need not adopt a balance date in the calendar year in which it is established as long as its first balance date is not later than 15 months after the date on which it is established.
 (4) Within 16 sitting days of receiving the annual report from an authority, the Minister must present a copy of the report to the House of Representatives.
+
+**Information about health practitioners**
+
+### 134A Authority to provide to Director-General of Health information about health practitioners
+(1) Each authority must provide to the Director-General of Health (the Director-General) information held by the authority that—
+  (a) relates to health practitioners who are registered with the authority and who hold current practising certificates; and
+  (b) is of a kind specified for the purpose of this section by the Director-General after consultation with the authority (including, without limitation, a health practitioner’s name, date of birth, ethnicity, gender, employer, place or places of work, and the average weekly number of hours worked by the health practitioner at each place of work).
+(2) The Director-General may use the information only for the purpose of supporting the Ministry of Health’s responsibilities for workplace planning and development.
+(3) The information must be provided—
+  (a) annually, on a date set by the Director-General after consultation with the authority; and
+  (b) in a form or manner set by the Director-General.
+(4) Information that is provided to the Director-General under this section and that is not publicly available must not be published or disclosed by the Director-General in a manner that—
+  (a) identifies any health practitioner to whom the information relates; or
+  (b) could reasonably be expected to identify any health practitioner to whom the information relates.
+(5) This section overrides provisions in contracts, deeds, documents, and other enactments that are inconsistent with this section.
 
 **Corporate and administrative matters governed by Schedule 3**
 
@@ -1498,9 +1677,11 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
   (b) stating that it is all the current information then entered in the register in relation to the person; and
   (c) that is signed and dated by the Registrar.
 
-### 140 Health practitioners must notify Registrar of address
-(1) A health practitioner who is first registered with an authority must ensure that the Registrar has the practitioner's current postal address, current residential address, and (if applicable) current work address.
-(2) A health practitioner must promptly give the Registrar of the responsible authority written notice of any change in the practitioner's postal address, residential address, and (if applicable) work address.
+### 140 Health practitioners must notify Registrar of addresses for service
+(1) A health practitioner must provide to the Registrar of the authority the health practitioner is registered with—
+  (a) a postal address for service; and
+  (b) an electronic address for service.
+(2) A health practitioner may change any address for service by notifying the Registrar of the change.
 
 ### 141 Changes of name
 (1) If satisfied that a health practitioner has changed his or her name, or that it is wrongly entered in the register, the Registrar of the responsible authority must correct the entry in the register relating to the health practitioner.
@@ -1537,12 +1718,12 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
 (3) If no appeal against a direction under subsection (1) has been made within the time provided by this Act, the authority may direct the Registrar to notify the cancellation in any publications the authority directs.
 
 ### 147 Removal of qualifications, or cancellation of registration, overseas
-(1) The responsible authority may review the registration of a health practitioner who is registered by virtue of an overseas qualification if satisfied that—
-  (a) the educational establishment that gave him or her the overseas qualification has cancelled or suspended it (or taken action equivalent to cancelling or suspending it); or
+(1) The responsible authority may review the registration of a health practitioner if the authority is satisfied that—
+  (a) the health practitioner is registered by virtue of an overseas qualification and the educational establishment that gave the practitioner the qualification has cancelled or suspended it (or taken action equivalent to cancelling or suspending it); or
   (b) an overseas authority that maintains a register of people registered or licensed as health professionals has, as a result of disciplinary action taken against the health practitioner,—
-    (i) removed his or her name from that register; or
-    (ii) suspended his or her registration; or
-    (iii) taken action equivalent to removing his or her name from that register or suspending his or her registration.
+    (i) removed the practitioner’s name from the register; or
+    (ii) suspended the practitioner’s registration; or
+    (iii) taken action equivalent to removing the practitioner’s name from the register or suspending the practitioner’s registration.
 (2) The authority must take all reasonably practicable steps to ensure that the health practitioner is given—
   (a) written notice containing sufficient detail to inform him or her clearly of the substance of the grounds on which the authority has decided to carry out the review; and
   (b) any information in the authority's possession relating to the cancellation, suspension, or removal concerned; and
@@ -1623,10 +1804,27 @@ Nothing in this Act requires an authority to make available to an individual inf
 (1) Unless this Act provides otherwise, if a provision of this Act requires or authorises any notice or other document, or any notification, to be given to a person, the notice, document, or notification must be given in writing to the person—
   (a) by delivering it personally or by an agent (such as a courier) to the person; or
   (b) by sending it by pre-paid post addressed to the person at the person's usual or last known place of residence or business; or
-  (c) in any other manner a District Court Judge directs.
-(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)﻿(b) must be treated as having been given to the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
+  (c) by sending it to the electronic address provided by the person as an address for service.
+(2) In the absence of proof to the contrary, a notice, document, or notification sent by post to a person in accordance with subsection (1)﻿(b) must be treated as having been received by the person when it would have been delivered in the ordinary course of the post; and, in proving the delivery, it is sufficient to prove that the letter was properly addressed and posted.
+(2A) A notice, document, or notification sent to a person’s electronic address must be treated as having been received by the person on the working day after the date on which it was sent, and in proving service it is sufficient to prove that the notice, document, or notification was properly sent.
 (3) If a person is absent from New Zealand, a notice, document, or notification given to the person's agent in New Zealand in accordance with subsection (1) must be treated as having been given to him or her.
 (4) If a person has died, the notice, document, or notification may be given, in accordance with subsection (1), to his or her personal representative.
+
+### 156A Orders of authority
+(1) An order made by a responsible authority must—
+  (a) be in writing; and
+  (b) state the reasons why it was made; and
+  (c) state clearly the health practitioner’s right to appeal to the District Court against the order; and
+  (d) be signed by the Registrar of the authority.
+(2) The Registrar of a responsible authority must, as soon as practicable after an order is made by the authority,—
+  (a) ensure that a copy of the order is given to—
+    (i) the health practitioner concerned; and
+    (ii) any employer of the health practitioner; and
+    (iii) any person who works in partnership or association with the practitioner; and
+  (b) take all administrative steps necessary to give effect to the order.
+
+### 156B When orders of authority or Tribunal take effect
+Unless otherwise provided in this Act, an order made by an authority or the Tribunal takes effect on the day on which, under section 156, the order is to be treated as having been received by the health practitioner concerned, or any later date specified in the order.
 
 ### 157 Publication of orders
 (1) An authority may publish in any publication a notice setting out—
@@ -1645,6 +1843,58 @@ Nothing in this Act requires an authority to make available to an individual inf
   (a) any order of the Tribunal under section 95; and
   (b) any order of the court.
 (5) In this section, the term health practitioner includes a former health practitioner.
+
+### 157A Meaning of naming policy
+In sections 157B to 157I, naming policy means a policy issued by an authority relating to the naming of a health practitioner in a notice published by the authority under section 157(1).
+
+### 157B Authorities to issue naming policies
+(1) Each authority must issue a naming policy not later than 12 months after this section comes into force.
+(2) The purpose of the naming policy is to—
+  (a) enhance public confidence in the health professions for which the authority is responsible and their disciplinary procedures by providing transparency about their decision-making processes; and
+  (b) ensure that health practitioners whose conduct has not met expected standards may be named where it is in the public interest to do so; and
+  (c) improve the safety and quality of health care.
+(3) A naming policy must set out—
+  (a) the class or classes of health practitioners in respect of whom the naming policy applies; and
+  (b) the circumstances in which a health practitioner may be named; and
+  (c) the general principles that will guide the authority’s naming decisions; and
+  (d) the criteria that the authority must apply when making a naming decision; and
+  (e) the requirement to have regard to the consequences for the health practitioner of being named, including the likely harm to the health practitioner’s reputation; and
+  (f) the procedures that the authority must follow when making a naming decision; and
+  (g) the information the authority may disclose when naming a health practitioner; and
+  (h) the means by which a health practitioner may be named.
+
+### 157C Consultation on naming policies
+Before issuing its naming policy, an authority must consult, and take into account any comments received from, the following persons:
+  (a) the health practitioners registered with the authority; and
+  (b) the Privacy Commissioner; and
+  (c) the Director-General of Health; and
+  (d) the Health and Disability Commissioner.
+
+### 157D Naming policies to be available on Internet
+Immediately after issuing a naming policy, an authority must make its naming policy available on an Internet site maintained by or on behalf of the authority.
+
+### 157E When naming policies come into force
+A naming policy comes into force on the day after the date on which it is issued.
+
+### 157F Review of naming policies
+(1) An authority must review its naming policy within 3 years after the policy comes into force, and then at intervals of not more than 3 years.
+(2) Sections 157B to 157E apply with all necessary modifications to the review of a naming policy.
+
+### 157G Naming policies to be consistent with law
+A naming policy must be consistent with—
+  (a) this Act; and
+  (b) the information privacy principles in section 6 of the Privacy Act 1993; and
+  (c) the general law (including natural justice rights).
+
+### 157H Status of naming policies
+A naming policy is—
+  (a) not—
+    (i) a legislative instrument for the purposes of the Legislation Act 2012; or
+    (ii) a disallowable instrument for the purposes of the Legislation Act 2012; and
+  (b) not required to be presented to the House of Representatives under section 41 of the Legislation Act 2012.
+
+### 157I Authority naming health practitioner in accordance with naming policy protected by qualified privilege
+For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any notice published by an authority under section 157(1) that names a health practitioner in accordance with a naming policy issued by the authority must be treated as an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
 ### 158 Application of Trans-Tasman Mutual Recognition Act 1997
 Except as otherwise provided in Schedule 4 of the Trans-Tasman Mutual Recognition Act 1997, that Act prevails over this Act.
@@ -2064,6 +2314,25 @@ Any competence review, competence programme, or recertification programme commen
 ### 227 Dissolution of Pharmaceutical Society, old Dental Council, and Dental Technicians Board
 On the date that this section comes into force, the Pharmaceutical Society, the old Dental Council, and the Dental Technicians Board are each dissolved.
 
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Health Practitioners Competence Assurance Amendment Act 2019
+
+### 1 Interim suspension of registration or imposition of restrictions on practice
+(1) Section 93(1), as in force immediately before the commencement date, continues to apply as if the amendment Act had not been enacted in any case where the alleged conduct that is the subject of the charge against a health practitioner occurred—
+  (a) before the commencement date; or
+  (b) before the commencement date and continued after the commencement date.
+(2) In this clause,—
+  - **amendment Act** means the Health Practitioners Competence Assurance Amendment Act 2019
+  - **commencement date** means the date on which the amendment Act comes into force.
+
+### 2 Effect of amalgamation on registration and practice
+(1) A health practitioner who is, or is deemed to be, registered with an amalgamating authority is to be treated, from the date of the amalgamation, as being registered with the amalgamated authority.
+(2) An annual practising certificate issued by the Registrar of an amalgamating authority must be treated, from the date of the amalgamation, as being issued by the Registrar of the amalgamated authority.
+(3) In this clause,—
+  - **amalgamated authority** means the authority under which the amalgamating authorities are continued from the date of the amalgamation
+  - **amalgamating authority** means an authority that, under section 116A, is amalgamating with 1 or more other authorities.
+
 ## Schedule 1 — Provisions applying to Health Practitioners Disciplinary Tribunal
 
 ### 1 Deputy chairperson
@@ -2109,7 +2378,7 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 (2) Subclause (1) is subject to clause 5(3).
 (3) The Tribunal may take evidence on oath, and for that purpose any member or officer of the Tribunal may administer an oath.
 (4) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
-(5) The Evidence Act 1908 applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
+(5) The Evidence Act 2006 applies to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
 (6) Subclause (5) is subject to subclauses (1) to (3).
 
 ### 7 Powers of investigation
@@ -2324,7 +2593,10 @@ Each authority may from time to time appoint 1 or more committees of the authori
   (c) each authority may at any time discharge, alter, or reconstitute any committee that it has appointed.
 
 ### 17 Delegation by authorities
-(1) Each authority may from time to time, by written notice, delegate any of its functions, duties, or powers (other than any power under section 69 or section 71) to a committee appointed under clause 16 or to its Registrar.
+(1) An authority may from time to time, by written notice, delegate any of its functions, duties, or powers to a committee appointed under clause 16 or to its Registrar.
+(1A) However, an authority may not delegate—
+  (a) any power under section 69 to a committee appointed under clause 16:
+  (b) any power under section 69 or 71 to its Registrar.
 (2) A delegation under this clause may be subject to any conditions stated in the delegation.
 (3) The Registrar of an authority may not under a delegation under this clause—
   (a) exercise a power of decision in respect of any matter that the Registrar is required to submit or refer to the authority; or
