@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -4452,6 +4452,8 @@ Amend the enactments listed in Schedule 10 as indicated in that schedule.
 
 ## Schedule 1 — Transitional, savings, and related provisions
 
+### Part 1 — Provisions relating to Act as enacted
+
 **Interpretation**
 
 ### 1 Changeover and saved defined
@@ -4930,6 +4932,22 @@ In section 169, replace 167 with 168.
   (a) may provide to MSD any information to which subclause (1) applies and that the chief executive of the Ministry of Education considers—
     (i) may facilitate the provision by MSD of services of a kind described in section 365(1)﻿(a); or
     (ii) is required for the assessment of the young people’s risk of long-term welfare dependency; and
+
+### Part 2 — Provisions relating to Social Security (Winter Energy Payment) Amendment Act 2019
+
+### 77 Purported winter energy payment for winter period for 2018 calendar year: payments contrary to section 61FG(2)﻿(c) and (d) of Social Security Act 1964
+A purported winter energy payment made for the winter period for the 2018 calendar year is as authorised as if section 61FG(2)﻿(c) and (d) of the Social Security Act 1964 (as in force after 30 June 2018 and until 26 November 2018) were replaced with a section 61FG(2)﻿(c), (ca), and (d) (in force for that period and) that read as follows:
+  (“(c)) the person is aged 65 years or over, is an eligible person as defined in section 136, and is under section 139(1) and (3) liable to pay an amount towards the cost of long-term residential care provided to them in a hospital or rest home that is less than the maximum contribution (as defined in section 136); or
+  (“(ca)) the person is aged 50 to 64 years, is single, and has no dependent children, is an eligible person, and is under section 143 required to pay only a contribution based on income towards the cost of the long-term residential care provided to them in a hospital or rest home that is less than the maximum contribution (as defined in section 136); or
+  (“(d)) neither paragraph (c) nor paragraph (ca) applies to the person, and the person is—
+    (“(i)) receiving, in relation to the person’s disability or long-term chronic health condition, residential care services that are partly funded under the New Zealand Public Health and Disability Act 2000; and
+    (“(ii)) contributing to the cost of those services by a payment redirected under section 82(3)﻿(a) (but only to the extent that it refers to a payment to or on account of some other person authorised by the beneficiary), section 82(3)﻿(b)﻿(i), or sections 179(4)﻿(a), (5), and (6) and 180, of this Act; or”.
+
+### 78 Purported winter energy payment for winter period for 2018 calendar year: payments contrary to section 61FJ(2) of Social Security Act 1964
+A purported winter energy payment made for the winter period for the 2018 calendar year is as authorised as if section 61FJ(2) of the Social Security Act 1964 (as in force after 30 June 2018 and until 26 November 2018) read as follows:
+(“(2)) The winter energy payment is payable to a beneficiary for up to a maximum of 28 days of any 1 or more absences (however long each absence lasts in total) of the beneficiary from New Zealand during the winter period if—
+  (a) the payment would be payable to the beneficiary were it not for those days of those absences; and
+  (b) the chief executive is satisfied that those days of those absences do not affect the beneficiary’s eligibility for the payment under section 61FG.”
 
 ## Schedule 2 — Dictionary
 
