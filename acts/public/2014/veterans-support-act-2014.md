@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -129,7 +129,7 @@ In this Act, unless the context otherwise requires,—
   - **general manager** means the General Manager of VANZ appointed under section 200
   - **health practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **impairment** means a loss or abnormality of psychological, physiological, or anatomical function or structure
-  - **medical practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member of the armed forces** means a person who is or has been a member of a New Zealand armed force raised by the Governor-General on behalf of the Sovereign,—
     (a) whether in New Zealand or elsewhere; and
     (b) whether before or after the passing of this Act
