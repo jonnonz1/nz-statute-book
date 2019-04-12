@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -39,7 +39,7 @@ In this Act, unless the context otherwise requires,—
   - **layperson** means a person other than a veterinarian, a registered person, or a person entitled to be registered under this Act
   - **limited registration** means limited registration under section 14
   - **medical assessment** means a medical assessment conducted under section 55
-  - **medical practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member** means a member of the Council
   - **mental or physical condition** includes, without limitation,—
     (a) any mental or physical impairment; and
