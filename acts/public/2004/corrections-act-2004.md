@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -1256,7 +1256,7 @@ A parenting agreement to which section 81A(2)﻿(c) relates must include, withou
 ### 86 Possession, carriage, and use of firearms restricted
 (1) No officer or staff member may possess, carry, or use any firearm within a prison except as provided under subsection (3).
 (2) This section does not limit the powers of a constable under any other enactment.
-(3) The chief executive may, in writing, authorise an officer or staff member to possess, carry, or use a firearm within a prison, but only in a specified area of the prison for 1 or more of the following purposes:
+(3) The chief executive may, in writing, authorise an officer or staff member to possess, carry, or use a firearm (other than a prohibited firearm) within a prison, but only in a specified area of the prison for 1 or more of the following purposes:
   (a) for the purpose of any specified prison industry:
   (b) for the purpose of humanely killing sick or injured animals:
   (c) for the purpose of pest control.
