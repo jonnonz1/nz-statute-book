@@ -1,5 +1,5 @@
 # Substance Addiction (Compulsory Assessment and Treatment) Act 2017
-_Consolidation as at 2017-07-14_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Substance Addiction (Compulsory Assessment and Treatment) Act 2017.
@@ -57,7 +57,7 @@ In this Act, unless the context otherwise requires,—
     (e) a social worker who is registered with the Social Workers Registration Board or who is a member of a body corporate designated under section 96(2)
   - **mail** means any letter, package, parcel, or article sent or delivered to or by a patient
   - **manager** , in relation to a treatment centre, means the person who is in charge of the treatment centre, by whatever name called
-  - **medical practitioner** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of Health
   - **nominated person** means a person nominated by a patient under section 49
   - **party** has the meaning given by section 69
