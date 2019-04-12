@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2018-12-30_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -1190,9 +1190,11 @@ Every matter approved or prescribed under this Act that is required to be publis
 | Agricultural Compounds and Veterinary Medicines Act 1997 | 81E |
 | Animal Products Act 1999 | 118 |
 | Antarctica (Environmental Protection) Act 1994 | 55(2) |
+| Arms Act 1983 | 74A(a) |
 | Arms Act 1983 | 74A(b) |
 | Arms Act 1983 | 74A(c) |
 | Arms Act 1983 | 74A(d) |
+| Arms Act 1983 | 74A(e) |
 | Biosecurity Act 1993 | 100L |
 | Biosecurity Act 1993 | 100ZB |
 | Biosecurity Act 1993 | 137 |
