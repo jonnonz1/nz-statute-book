@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -176,7 +176,7 @@ In this Act, unless the context otherwise requires,—
   - **tenant** , in relation to any dwellinghouse, includes any person—
     (a) whose tenancy of that dwellinghouse has expired or been determined; and
     (b) who is for the time being deemed, under any enactment or rule of law, to continue to be the tenant of the dwellinghouse
-  - **weapon** means any firearm, airgun, pistol, restricted weapon, ammunition, or explosive, as those terms are defined in the Arms Act 1983.
+  - **weapon** means any firearm, airgun, pistol, prohibited magazine, prohibited part, restricted weapon, ammunition, or explosive, as those terms are defined in the Arms Act 1983.
 
 ### 9 Meaning of family violence
 (1) In this Act, family violence, in relation to a person, means violence inflicted—
