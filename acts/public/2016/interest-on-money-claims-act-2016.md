@@ -1,5 +1,5 @@
 # Interest on Money Claims Act 2016
-_Consolidation as at 2016-10-17_
+_Consolidation as at 2019-04-12_
 
 ### 1 Title
 This Act is the Interest on Money Claims Act 2016.
@@ -207,7 +207,7 @@ Unless the contract expressly provides otherwise, a provision in the contract as
   (c) prescribing rules or requirements governing the establishment or operation of the Internet site calculator:
   (d) prescribing the rate of interest for the purposes of section 24(2)﻿(b)﻿(i):
   (e) prescribing when a judgment debt or an instalment of a judgment debt is paid or deemed to be paid for the purposes of any provision of this Act:
-  (f) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect:
+  (f) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
 (2) Regulations for the purposes of subsection (1)﻿(e) may make different provision for different methods of payment, and for different circumstances relating to a payment or method of payment (including, without limitation, circumstances concerning the location of persons involved in a payment and any regulatory requirement, limitation, or other matter that may affect when, how, by whom, or the time within which a payment may be made).
 (3) The Minister may recommend the making of regulations under subsection (1)﻿(a) or (b) only if the Minister is satisfied that the change to the interest rate in section 12(3) that would result is for the purpose of achieving the following objectives:
   (a) simple, accessible, and predictable law:
