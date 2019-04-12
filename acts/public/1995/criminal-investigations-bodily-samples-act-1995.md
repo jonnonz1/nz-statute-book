@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Act 1995
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-04-12_
 
 > An Act—ato make provision for the taking of bodily samples for use in criminal investigations; andbto authorise—ithe establishment of a databank of information derived from the analysis of bodily samples taken from certain persons; andiithe use of information from that databank in criminal investigations; andcto provide for matters incidental thereto
 
@@ -1734,11 +1734,16 @@ The amendments made to this Act by the Criminal Investigations (Bodily Samples) 
 | Wilful ill-treatment of animals | section 28 |
 | Reckless ill-treatment of animals | section 28A |
 |  | Arms Act 1983 |
-| Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose | section 45 |
+| Carrying or possessing firearms, etc, except for lawful, proper, and sufficient purpose | section 45 |
 | Unlawful possession of pistol or restricted weapon | section 50 |
-| Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, explosive, or restricted weapon | section 51 |
-| Possession of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive at time of committing offence | section 54(2) |
-| Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent | section 55 |
+| Unlawful possession of prohibited firearm | section 50A |
+| Unlawful possession of prohibited magazine | section 50B |
+| Unlawfully carrying or possessing prohibited firearm in public place | section 50D |
+| Unlawful carriage or possession in public place of firearm, airgun, pistol, ammunition, or explosive | section 51(1) |
+| Use or attempted use of prohibited firearm to resist or prevent arrest or commit offence | section 53A(2) |
+| Use or attempted use of firearm, etc, to resist or prevent arrest or commit offence | section 54(2) |
+| Carrying prohibited firearm with criminal intent | section 54A |
+| Carrying firearm, etc, with criminal intent | section 55 |
 |  | Crimes Act 1961 |
 | Indecent act in public place | section 125 |
 | Indecent act with intent to insult or offend | section 126 |
