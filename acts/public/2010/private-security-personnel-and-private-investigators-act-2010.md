@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-05-01_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -236,7 +236,7 @@ Nothing in this Act—
 
 ### 24 Application for licence: individual applicant
 (1) An application by an individual for a licence must be made to a Licensing Authority in the manner prescribed by regulations made under this Act and must—
-  (a) be in the prescribed form; and
+  (a) be in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
   (b) be accompanied by a photograph of the applicant, authenticated in accordance with any prescribed requirements; and
   (c) be accompanied by the prescribed fee (if any).
 (2) The application must specify—
@@ -253,7 +253,7 @@ Nothing in this Act—
 
 ### 25 Application for licence: company applicant
 (1) An application by a company for a licence must be made to a Licensing Authority in the manner prescribed by regulations made under this Act and must—
-  (a) be in the prescribed form; and
+  (a) be in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
   (b) specify the names of the officers of the company and be accompanied by a statement by each of those officers as to whether any ground of disqualification applies to him or her and, if so, which ground; and
   (c) be accompanied by the prescribed fee (if any).
 (2) The application must specify—
@@ -275,7 +275,7 @@ Nothing in this Act—
 
 ### 27 Notice of application for licence
 (1) A Licensing Authority must serve on the Police a notice of every application for a licence and the information contained in it.
-(2) Every applicant for a licence must publish a notice of the applicant's intention to make the application in the prescribed form (if any) and in the prescribed manner.
+(2) Every applicant for a licence must publish a notice of the applicant's intention to make the application in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities (if any) and in the prescribed manner.
 (3) The application must not be heard before the expiry of 20 working days after subsections (1) and (2) have been complied with.
 
 **Objections**
@@ -342,7 +342,7 @@ If an application relates to more than 1 class of private security business a Li
 **Issue, duration, etc, of licence**
 
 ### 34 Issue of licence
-(1) If a Licensing Authority grants an application in whole or in part under section 33, the Licensing Authority must issue a licence in the prescribed form specifying—
+(1) If a Licensing Authority grants an application in whole or in part under section 33, the Licensing Authority must issue a licence in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities specifying—
   (a) the class or, if more than 1, each class of business in respect of which the Authority has granted the application; and
   (b) the registered office or the principal place of business, as the case may be, of the applicant; and
   (c) the places from which the applicant is authorised to carry on each class of business to which the licence relates; and
@@ -391,7 +391,7 @@ A Licensing Authority must, after issuing a licence, notify the Commissioner of 
 ### 40 Persons not to act as officers of licensed company without consent of Licensing Authority
 (1) In the case of a licensee that is a company, unless with the prior approval of a Licensing Authority, no person who is not an officer of the company at the time when the application for the licence is granted may subsequently act as an officer of the company.
 (2) A licensee may at any time apply in writing to a Licensing Authority for approval of any person under subsection (1).
-(3) An application for approval of any person must be in the prescribed form and accompanied by the prescribed fee (if any).
+(3) An application for approval of any person must be in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities and accompanied by the prescribed fee (if any).
 (4) A Licensing Authority must not give its approval under subsection (1) in respect of a person unless the Licensing Authority is satisfied that—
   (a) the officer is of or over the age of 18 years; and
   (b) no ground of disqualification under section 62 applies to the officer or, if 1 or more grounds do apply, that this does not make the company unsuitable to hold the licence.
@@ -450,7 +450,7 @@ A Licensing Authority must, after issuing a licence, notify the Commissioner of 
 
 ### 46 Application for certificate of approval
 (1) An application for a certificate of approval must be made to a Licensing Authority in the manner prescribed by regulations made under this Act and must—
-  (a) be in the prescribed form; and
+  (a) be in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
   (b) be accompanied by a photograph of the applicant, authenticated in accordance with any prescribed requirements; and
   (c) be accompanied by the prescribed fee (if any).
 (2) The application must specify—
@@ -523,7 +523,7 @@ If an application relates to more than 1 class of responsible employee, a Licens
 **Issue, duration, etc, of certificate of approval**
 
 ### 54 Issue of certificate of approval
-(1) If a Licensing Authority grants an application in whole or in part under section 53, the Licensing Authority must issue a certificate of approval in the prescribed form specifying—
+(1) If a Licensing Authority grants an application in whole or in part under section 53, the Licensing Authority must issue a certificate of approval in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities specifying—
   (a) the class or, if more than 1, each class of responsible employee in respect of which the Authority has granted the application; and
   (b) any other prescribed matter.
 (2) A certificate of approval must contain a photograph of the certificate holder.
