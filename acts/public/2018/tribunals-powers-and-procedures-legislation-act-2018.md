@@ -1,5 +1,5 @@
 # Tribunals Powers and Procedures Legislation Act 2018
-_Consolidation as at 2018-11-13_
+_Consolidation as at 2019-05-01_
 
 ### 1 Title
 This Act is the Tribunals Powers and Procedures Legislation Act 2018.
