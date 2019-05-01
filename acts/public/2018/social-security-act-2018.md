@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2019-05-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -715,8 +715,11 @@ In this subpart, section 220, and Part 8 of Schedule 4, unless the context other
 (2) However, the person is not entitled to a winter energy payment for 1 or more days during the winter period if, for those days,—
   (a) the qualifying benefit is payable at a rate prescribed in respect of a person who is in a relationship, and MSD has determined under subsection (3) that the person’s spouse or partner is entitled to a winter energy payment; or
   (b) the rate of the person’s qualifying benefit is required by section 206(2) to be reduced to the rate payable to long-term hospital patients, and the payment has been reviewed under section 304 and terminated under section 75 (see also section 309); or
-  (c) the person is receiving long-term residential care in a hospital or rest home, and that care is funded, in whole or in part, under the New Zealand Public Health and Disability Act 2000; or
-  (d) the person is receiving residential care services, and those services are funded, in whole or in part, under the New Zealand Public Health and Disability Act 2000; or
+  (c) the person is aged 65 years or over, is a qualifying person as defined in section 12 of the Residential Care and Disability Support Services Act 2018, and must under section 17 of that Act pay a contribution based on income towards the cost of that person’s LTR contracted care that is less than the maximum contribution (as defined in section 15(2) of that Act); or
+  (ca) the person is aged 50 to 64 years, is a 50+ single person as defined in section 21 of the Residential Care and Disability Support Services Act 2018, and is under section 22 of that Act liable to make a contribution based on income towards the cost of the person’s LTR contracted care that is less than the maximum contribution (as defined in section 15(2) of that Act); or
+  (d) neither paragraph (c) nor paragraph (ca) applies to the person, and the person is—
+    (i) receiving, in relation to the person’s disability or long-term chronic health condition, residential care services that are partly funded under the New Zealand Public Health and Disability Act 2000; and
+    (ii) contributing to the cost of those services by a payment redirected under section 339(1)﻿(a) or (c)﻿(i), or sections 341 and 344, of this Act; or
   (e) the person has made, and not revoked, an election not to receive the payment (see section 73).
 (3) If the qualifying benefit is payable at a rate prescribed in respect of a person who is in a relationship, MSD must determine which 1 of the spouses or partners is (as only 1 of them can be) entitled to a winter energy payment.
 
@@ -2087,9 +2090,9 @@ In section 213,—
 
 ### 220 Special absence rule: winter energy payment
 (1) The winter energy payment is not payable for 1 or more days while a beneficiary is absent from New Zealand unless it is so payable under subsection (2).
-(2) The winter energy payment is payable to a beneficiary for 1 or more days during any 1 or more absences of the beneficiary from New Zealand so long as each such absence is equal to or shorter than 4 weeks during the winter period (as defined in section 71) and—
-  (a) the payment would, but for those 1 or more absences, be payable to the beneficiary; and
-  (b) the chief executive is satisfied that the 1 or more absences do not affect the beneficiary’s eligibility for the payment under section 72.
+(2) The winter energy payment is payable to a beneficiary for up to a maximum of 28 days of any 1 or more absences (however long each absence lasts in total) of the beneficiary from New Zealand during the winter period (as defined in section 71) if—
+  (a) the payment would be payable to the beneficiary were it not for those days of those absences; and
+  (b) MSD is satisfied that those days of those absences do not affect the beneficiary’s eligibility for the payment under section 72.
 (3) Sections 219 and 436 do not apply to the winter energy payment.
 
 **Factors affecting benefit: additional dependent child**
