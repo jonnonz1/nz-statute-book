@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2017-05-11_
+_Consolidation as at 2019-05-08_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -20,7 +20,7 @@ This Act is the Fire and Emergency New Zealand Act 2017.
   (b) section 200 (which repeals certain provisions of the Local Government Act 2002):
   (c) clause 39 of Schedule 1 (which relates to transitional provisions concerning the removal of fire hazards).
 (5) Sections 80 to 140 (which relate to levies) come into force on a date, not earlier than 1 July 2018, appointed by the Governor-General by Order in Council.
-(6) If sections 80 to 140 are not previously brought into force under subsection (5), those sections come into force on 1 July 2019.
+(6) If sections 80 to 140 are not previously brought into force under subsection (5), those sections come into force on 1 July 2024.
 (7) The rest of this Act comes into force on 1 July 2017.
 
 ## Part 1 — Fire and Emergency New Zealand
@@ -1534,7 +1534,7 @@ Interest payable to FENZ under this subpart is payable immediately and without t
 ### Subpart 7 — Regulations relating to levy
 
 ### 141 Levy regulations
-(1) For the purpose of this Part, the Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing a levy in respect of property that is insured against physical loss or damage.
+(1) For the purpose of this Part, the Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 142 and 143, make regulations prescribing a levy in respect of property that is insured against physical loss or damage.
 (2) The regulations must,—
   (a) for every motor vehicle that is insured against physical loss or damage, prescribe an annual rate of levy per vehicle:
   (b) for all other property that is insured against physical loss or damage, prescribe an annual rate of levy as a proportion of the amount insured.
@@ -1569,26 +1569,29 @@ Interest payable to FENZ under this subpart is payable immediately and without t
 (4) Before making a recommendation for the making of regulations relating to an exemption or a waiver under subsection (3)﻿(e) or (f), the Minister must have regard to—
   (a) the purpose set out in section 80; and
   (b) the likely effect of the exemption or waiver on the cost-effectiveness and efficiency of the administration of the levy and this Part.
+(4A) Regulations prescribing a rate of levy under subsection (2) or (3)﻿(a) or prescribing a maximum amount of levy under subsection (3)﻿(b) must not come into force earlier than 4 months after the date on which they are published.
 (5) If the Minister recommends the making of regulations under subsection (3)﻿(e) or (f), the Minister’s reasons must be published together with the regulations.
 
 ### 142 Procedure for levy regulations
-(1) The Minister must, in at least every third financial year, estimate the amount of FENZ’s net costs for the next period of 3 financial years (the period).
+(1) The Minister must, in at least every third financial year, estimate the amount of FENZ’s net costs for an upcoming period specified by the Minister (the period).
 (2) For the purposes of subsection (1), FENZ’s net costs in a period are—
   (a) its estimated direct and indirect costs of performing functions and duties and exercising powers under this Act, regulations made under this Act, or any other enactment that will arise in the period; less
   (b) any estimated income that FENZ will receive in the period from any source other than the levy.
 (3) The Minister must then determine the portion of FENZ’s net costs for the period that are to be met by levies.
-(4) The Minister must then recommend the making of regulations under section 141 to recover, in each year of the period, one-third of the portion of FENZ’s net costs for the period that the Minister has determined are to be met by levies.
-(5) In making a recommendation, the Minister must take into account the following (in addition to the purpose of this Part):
+(4) In making a determination, the Minister must take into account the following (in addition to the purpose of this Part):
   (a) an estimate of the total number of motor vehicles in respect of which the levy is payable and the likelihood of any change in that number:
   (b) an estimate of the total amount insured for insured properties and the likelihood of any change in that amount:
-  (c) an estimate of the total amount of exemptions and waivers from the payment of levy that are expected to apply in relation to the period:
-  (d) the benefit of maintaining the stability of each rate of the levy in the long term.
+  (c) an estimate of the total amount of exemptions and waivers from the payment of the levy that are expected to apply in relation to the period:
+  (d) any amount by which actual levy income received in a preceding period exceeded FENZ’s actual net costs in a preceding period:
+  (e) any amount by which actual levy income received in a preceding period was less than FENZ’s actual net costs in a preceding period:
+  (f) the benefit of maintaining the stability of each rate of the levy in the long term.
+(5) The Minister must then recommend the making of regulations under section 141 to recover, in each year of the period, the annual portion of FENZ’s net costs for the period that the Minister has determined are to be met by levies.
 (6) The Minister may recommend the amendment of the regulations in the period to which they apply if the Minister is satisfied that—
   (a) actual net costs in the period are likely to vary significantly from the estimate of net costs under subsection (2) on which the regulations were based; and
   (b) the persons likely to be substantially affected by the amendment, or their representatives, have been consulted.
 
 ### 143 Consultation about levy regulations
-(1) The Minister must be reasonably satisfied that subsections (2) to (4) have been complied with before the Minister makes a recommendation under section 142(4).
+(1) The Minister must be reasonably satisfied that subsections (2) to (4) have been complied with before the Minister makes a determination under section 142(3).
 (2) FENZ must consult levy payers, policyholders, and any other persons that FENZ considers are likely to be substantially affected, or their representatives, about—
   (a) the proposed regulations; and
   (b) the activities that FENZ proposes to undertake in the period to which the proposed regulations relate.
@@ -1601,7 +1604,7 @@ Interest payable to FENZ under this subpart is payable immediately and without t
     (ii) the rates of levy.
 (4) FENZ must consider any comments received under subsection (3).
 (5) Regulations made under section 141 are not invalid on the grounds that—
-  (a) subsections (2) to (4) were not complied with before the Minister recommended the making of the regulations; or
+  (a) subsections (2) to (4) were not complied with before the Minister made a determination under section 142(3); or
   (b) the consultation carried out was about a specific rate or specific rates of levy that differ from the rate or rates set in the regulations.
 
 ## Part 4 — Miscellaneous and enforcement provisions
