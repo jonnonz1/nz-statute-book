@@ -1,5 +1,5 @@
 # Arbitration Act 1996
-_Consolidation as at 2018-01-01_
+_Consolidation as at 2019-05-08_
 
 > An Act to reform the law relating to arbitration
 
@@ -318,6 +318,7 @@ Any court having jurisdiction may perform any function conferred on a court by t
 (1) The arbitral tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement. For that purpose, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure (necessarily) the invalidity of the arbitration clause.
 (2) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence. A party is not precluded from raising such a plea by the fact that that party has appointed, or participated in the appointment of, an arbitrator. A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.
 (3) The arbitral tribunal may rule on a plea referred to in paragraph (2) either as a preliminary question or in an award on the merits. If the arbitral tribunal rules on such a plea as a preliminary question, any party may request, within 30 days after having received notice of that ruling, the High Court to decide the matter, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
+(4) To avoid doubt, it is declared that the failure to pursue a request made under paragraph (3) in a timely manner operates as a waiver of any right to later object to a ruling of the arbitral tribunal as to its jurisdiction.
 
 ### 17 Interpretation
 In this Chapter, unless the context otherwise requires,—
@@ -515,7 +516,7 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
     (i) a party to the arbitration agreement was under some incapacity, or the said agreement is not valid under the law to which the parties have subjected it, or, failing any indication on that question, under the law of New Zealand; or
     (ii) the party making the application was not given proper notice of the appointment of an arbitrator or of the arbitral proceedings or was otherwise unable to present that party’s case; or
     (iii) the award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, only that part of the award which contains decisions on matters not submitted to arbitration may be set aside; or
-    (iv) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this schedule from which the parties cannot derogate, or, failing such agreement, was not in accordance with this schedule; or
+    (iv) the composition of the arbitral tribunal or the arbitral procedure was not in accordance with the agreement of the parties, unless such agreement was in conflict with a provision of this Act from which the parties cannot derogate, or, failing such agreement, was not in accordance with this Act; or
   (b) the High Court finds that—
     (i) the subject matter of the dispute is not capable of settlement by arbitration under the law of New Zealand; or
     (ii) the award is in conflict with the public policy of New Zealand.
@@ -561,19 +562,14 @@ In arbitral proceedings with more than 1 arbitrator, any decision of the arbitra
 ## Schedule 2 — Additional optional rules applying to arbitration
 
 ### 1 Default appointment of arbitrators
-(1) For the purposes of article 11 of Schedule 1, the parties shall be taken as having agreed on the procedure for appointing the arbitrator or arbitrators set out in subclauses (2) to (5), unless the parties agree otherwise.
+(1) For the purposes of article 11 of Schedule 1, the parties shall be taken as having agreed on the procedure for appointing the arbitrator or arbitrators set out in subclauses (2) and (3), unless the parties agree otherwise.
 (2) In an arbitration with 3 arbitrators and 2 parties, each party shall appoint 1 arbitrator, and the 2 arbitrators thus appointed shall appoint the third arbitrator.
 (3) In an arbitration with—the parties shall agree on the person or persons to be appointed as arbitrator.
   (a) a sole arbitrator; or
   (b) 2 or 4 or more arbitrators; or
   (c) 3 arbitrators and more than 2 parties,—
-(4) Where, under subclause (2) or subclause (3), or any other appointment procedure agreed upon by the parties,—any party may, by written communication delivered to every such party, arbitrator or third party, specify the details of that person’s default and propose that, if that default is not remedied within the period specified in the communication (being not less than 7 days after the date on which the communication is received by all of the persons to whom it is delivered), a person named in the communication shall be appointed to such vacant office of arbitrator as is specified in the communication, or the arbitral tribunal shall consist only of the person or persons who have already been appointed to the office of arbitrator.
-  (a) a party fails to act as required under such procedure; or
-  (b) the parties, or the arbitrators, are unable to reach an agreement expected of them under such procedure; or
-  (c) a third party, including an institution, fails to perform any function entrusted to it under such procedure,—
-(5) If the default specified in the communication is not remedied within the period specified in the communication,—
-  (a) the proposal made in the communication shall take effect as part of the arbitration agreement on the day after the expiration of that period; and
-  (b) the arbitration agreement shall be read with all necessary modifications accordingly.
+(4)
+(5)
 
 ### 2 Consolidation of arbitral proceedings
 (1) Where arbitral proceedings all have the same arbitral tribunal,—
