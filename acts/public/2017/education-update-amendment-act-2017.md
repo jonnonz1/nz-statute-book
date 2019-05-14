@@ -1,5 +1,5 @@
 # Education (Update) Amendment Act 2017
-_Consolidation as at 2018-10-24_
+_Consolidation as at 2019-05-14_
 
 ### 1 Title
 This Act is the Education (Update) Amendment Act 2017.
@@ -8,12 +8,11 @@ This Act is the Education (Update) Amendment Act 2017.
 (1) Sections 124, 126, 127, 128(1), 129(1), 136, 156(2), and 161(2) come into force on 1 July 2017.
 (2) Sections 9, 10, 30(1) and (3), and 156(3) come into force on 3 July 2017.
 (3) Sections 128(2) and 129(2) come into force on 1 January 2018.
-(4) Sections 5(4) to (6), 11, 20(2) and (3), 22, 25 to 29, 30(2), 32 to 34, 36(2), 38, 39(3), 52, 67, 70, 71, 72(1), (3), and (4), 98, 100(1), 107, 120, 122(2), 125, 131 to 135, 140, 131, 142, 156(4) and 161(3) come into force on the earlier of—
-  (a) a date appointed by the Governor-General by Order in Council; or
-  (b) 31 December 2019.
-(5) Sections 39(4), 41(2) and (5), 43, 60, 68, 95, and 158(2) come into force on the earlier of—
-  (a) a date appointed by the Governor-General by Order in Council; or
-  (b) 1 January 2020.
+(4) Sections 22, 25, and 98 come into force on the date that section 20 of the Education Amendment Act 2019 comes into force.
+(5) Sections 39(4), 41(2) and (5), 43, 60, 68, and 158(2) come into force on the earlier of—
+  (a) a date appointed by the Governor-General by Order in Council:
+  (b) 1 January 2023.
+(5A) Section 95 comes into force on the date that section 20 of the Education Amendment Act 2019 comes into force.
 (6) One or more orders may be made under subsections (4) and (5) bringing different provisions into force on different dates.
 (7) The rest of this Act comes into force on 19 May 2017.
 
@@ -59,16 +58,9 @@ After section 1, insert:Early childhood and compulsory education: statement of N
     (b) has been established as a State integrated school under section 421
 (2) In section 2(1), definition of enrolment scheme, after under section 11H, insert or developed under section 11IA.
 (3) In section 2(1), definition of registered school, after State school,, insert a State integrated school,.
-(4) In section 2(1), after Parts 2, 3,, insert 3A,.
-(5) In section 2(1), repeal the definition of correspondence school.
-(6) In section 2(1), insert in their appropriate alphabetical order:
-  - **community of online learning** means—
-    (a) an enrolling community of online learning; or
-    (b) a supplementary community of online learning
-  - **enrolling community of online learning** means a registered school or other body corporate that has been accredited to enrol students in full-time online education
-  - **online education** means primary or secondary education delivered wholly or substantially through the Internet
-  - **supplementary community of online learning** means a registered school or other body corporate that has been accredited to provide online education to students enrolled at another school or an enrolling community of online learning
-  - **tertiary education provider** has the same meaning as in section 159(1)
+(4)
+(5)
+(6)
 
 ### 6 New section 2A inserted (Transitional, savings, and related provisions)
 After section 2, insert:Transitional, savings, and related provisions
@@ -116,7 +108,7 @@ After section 5, insert:Cohort entry policyDetermining term start dates under co
   (3) A board must take all reasonable steps to give notice of at least 1 term to the Secretary and the persons described in subsection (1) before a cohort entry policy takes effect or ceases to have effect.
 
 ### 11 Sections 7 and 7A repealed
-Repeal sections 7 and 7A.
+[Repealed]
 
 ### 12 Section 11B amended (Interpretation)
 In section 11B, definition of reasonably convenient school, paragraph (b), replace an integrated school with a State integrated school.
@@ -163,8 +155,8 @@ In section 11M(1), after adopted an enrolment scheme, insert or implemented an e
 
 ### 20 Section 16 amended (Secretary’s powers when excluded student younger than 16)
 (1) In section 16(1)﻿(b), replace an integrated school with a State integrated school.
-(2) In section 16(1)﻿(ba), delete ; or.
-(3) Repeal section 16(1)﻿(c).
+(2)
+(3)
 
 ### 21 Section 17 amended (Board’s powers when suspended student 16 or older)
 In section 17(3), replace any of paragraphs (a) to (c) of subsection (1) with subsection (1)﻿(a) to (c).
@@ -181,46 +173,30 @@ In section 17D(3), replace an integrated school with a State integrated school.
 In section 18AA(3), replace clause 8 with clause 40 in each place.
 
 ### 25 Section 20 replaced (New Zealand citizens and residents between 6 and 16 to go to school)
-Replace section 20 with:New Zealand citizens and residents between 6 and 16 must be enrolled at registered school or enrolling community of online learning
-  (1) Every person who is a New Zealand citizen or resident must, during the period beginning on the person’s sixth birthday and ending on the person’s 16th birthday, be enrolled at—
-    (a) a registered school; or
-    (b) an enrolling community of online learning.
+Replace section 20 with:New Zealand citizens and residents between 6 and 16 must be enrolled at registered school
+  (1) Every person who is a New Zealand citizen or resident must, during the period beginning on the person’s sixth birthday and ending on the person’s 16th birthday, be enrolled at a registered school.
   (2) Before a child’s seventh birthday, the child is not required to be enrolled at any school more than 3 kilometres walking distance from the child’s residence.
   (3) Subsections (1) and (2) do not apply to international students.
   (4) This section is subject to anything else in this Act.
 
 ### 26 Section 21 amended (Long term exemptions from enrolment)
-(1) In section 21(1)﻿(b)﻿(i), after registered school, insert or enrolling community of online learning.
-(2) Replace section 21(8A) and (9) with:
-  (8A) A certificate in force under subsection (1) or (3) expires when whichever of the following happens first:
-    (a) the person to whom it applies turns 16:
-    (b) the person to whom it applies enrols in a registered school:
-    (c) the person to whom it applies enrols in an enrolling community of online learning.
-  (9) A certificate in force under subsection (1) or (3) does not expire when the person to whom it applies receives tuition from a supplementary community of online learning.
+[Repealed]
 
 ### 27 Section 22 amended (Secretary may exempt from enrolment)
-In section 22(1)﻿(b)﻿(iii), after schools, insert or enrolling communities of online learning.
+[Repealed]
 
 ### 28 Section 23 amended (Effect of exemption)
-(1) In section 23(a), after school, insert or enrolling community of online learning.
-(2) In section 23(b), after school, insert or enrolling community of online learning.
+[Repealed]
 
 ### 29 Section 24 amended (Penalty for failure to enrol)
-Replace section 24(1) with:
-  (1) The parent of a person required by this Act to be enrolled at a registered school or enrolling community of online learning who fails or refuses to ensure that the person is enrolled at a registered school or enrolling community of online learning—
-    (a) commits an offence; and
-    (b) is liable on conviction to a fine not exceeding $3,000.
+[Repealed]
 
 ### 30 Section 25 amended (Students required to enrol must attend school)
 (1) Replace section 25(1) with:
   (1) Except as provided in this Act, every student of a registered school who fits into either or both of the following categories is required to attend the school whenever it is open:
     (a) a student who is required by section 20 to be enrolled at a registered school:
     (b) a student who is aged 4 or 5 and is enrolled at a registered school.
-(2) Replace section 25(1) with:
-  (1) Except as provided in this Act, every student of a registered school (other than a student enrolled in an enrolling community of online learning) who fits into either or both of the following categories is required to attend the school whenever it is open:
-    (a) a student who is required by section 20 to be enrolled at a registered school:
-    (b) a student who is aged 4 or 5 and is enrolled at a registered school.
-  (1A) Every student enrolled in, or receiving tuition from, a community of online learning must meet the attendance requirements prescribed in regulations made under section 35ZN.
+(2)
 (3) After section 25(3), insert:
   (3A) Despite subsections (1) to (3), if a child is aged 4 or 5 and is enrolled at a registered school,—
     (a) the child’s parents, the principal, and the Secretary may agree a plan to help the transition of the child to school, depending on the particular needs of the child; and
@@ -230,24 +206,13 @@ Replace section 24(1) with:
 In section 25A(1B), replace an integrated school with a State integrated school.
 
 ### 32 Section 28 replaced (Secretary may require parents of certain children to enrol them at correspondence school)
-Replace section 28 with:Secretary may require parents of certain children to enrol them at enrolling community of online learning
-  (1) The Secretary, by notice in writing to the parent of a student who has a certificate of exemption under section 26(1)﻿(b)﻿(i) or (ii), may call on the parent to—
-    (a) have the student enrolled at an enrolling community of online learning specified in the notice; and
-    (b) ensure that the student meets the attendance requirements prescribed in regulations made under section 35ZN.
-  (2) Enrolment under subsection (1) must be—
-    (a) for the period of exemption, in the case of a student exempted under section 26(1)﻿(b); and
-    (b) until the student turns 16, or for a shorter period specified in the notice, in every other case.
-  (3) A parent who fails to comply with a notice under subsection (1) to have a student enrolled at an enrolling community of online learning—
-    (a) commits an offence; and
-    (b) is liable on conviction to a fine not exceeding $3,000.
+[Repealed]
 
 ### 33 Section 29 amended (Penalty for irregular attendance)
-Replace section 29(1)﻿(b) with:
-  (b) while enrolled at an enrolling community of online learning, does not meet the attendance requirements prescribed in regulations made under section 35ZN,—
+[Repealed]
 
 ### 34 Section 30 amended (Employment of school-age children)
-(1) In section 30(1)﻿(b), replace a correspondence school with an enrolling community of online learning.
-(2) In section 30(1)﻿(d)﻿(ii), replace a correspondence school with an enrolling community of online learning.
+[Repealed]
 
 ### 35 New section 35GA and cross-heading inserted
 After section 35G, insert:Statement of National Education and Learning PrioritiesManager must have regard to statement of National Education and Learning Priorities
@@ -257,7 +222,7 @@ After section 35G, insert:Statement of National Education and Learning Prioritie
 
 ### 36 Section 35Q amended (Suspensions and expulsions of students from private schools to be notified to Secretary)
 (1) In section 35Q(2)﻿(b), replace an integrated school with a State integrated school.
-(2) In section 35Q(2)﻿(c), replace a correspondence school with an enrolling community of online learning.
+(2)
 
 ### 37 New section 35S and cross-heading inserted
 After section 35R, insert:Powers of entry and inspectionEntry where private school suspected of being unregistered1989 No 80 s 78B
@@ -275,180 +240,13 @@ After section 35R, insert:Powers of entry and inspectionEntry where private scho
     (b) whenever subsequently reasonably required to do so by that occupier.
 
 ### 38 New Part 3A inserted
-After section 35S (as inserted by section 37 of this Act), insert:Communities of online learningAccreditation and review of communities of online learningProvisional accreditation of communities of online learningDuration of provisional accreditation of communities of online learning and renewal of accreditationReview of provisionally accredited communities of online learningFull accreditation of communities of online learningConditions on accreditation of communities of online learningReview of accredited communities of online learningActions by Minister or Secretary in respect of communities of online learningApplication of interventions in communities of online learningMinister’s actions in regard to accredited communities of online learningCancellation of accreditation in particular casesSuspension of accreditation if welfare of students may be at riskOperation of communities of online learningDuties of communities of online learningEnrolment at enrolling communities of online learningFees for enrolment or tuition at communities of online learningSuspensions and expulsions of students from enrolling communities of online learning to be notified to SecretaryProvision by community of online learning for students enrolled at enrolling community of online learning or State schoolGrants, record keeping, and provision of accountsGrants for communities of online learningRecord keeping in relation to grants made to communities of online learningProviding accounts for communities of online learning to SecretaryRegister of communities of online learning, ceasing operation as community of online learning, and regulationsSecretary must publish register of accredited communities of online learningCommunities of online learning must advise Secretary if ceasing operationRegulations relating to communities of online learning
-  (1) Any of the following bodies may apply to the Minister for provisional accreditation as an enrolling community of online learning or a supplementary community of online learning:
-    (a) a registered school:
-    (b) a body corporate:
-    (c) a tertiary education provider.
-  (2) The Minister may, by written notice to the applicant, provisionally accredit the body as a community of online learning if the Minister is satisfied that it meets, or is likely to meet, the criteria in section 35W(2).
-  (3) The Minister may set conditions on provisional accreditation under section 35X.
-  (4) The Minister has absolute discretion to refuse to provisionally accredit any body.
-  (1) Provisional accreditation of a community of online learning continues—
-    (a) for 12 months (unless it is cancelled earlier under section 35ZB); or
-    (b) until the expiry of any period specified by the Minister under subsection (2).
-  (2) The Minister may renew the provisional accreditation only once, for a period specified by the Minister, if he or she is satisfied that—
-    (a) exceptional circumstances exist in relation to the community of online learning; and
-    (b) the community is likely to meet the criteria for full accreditation during that period.
-  (3) Renewal of provisional accreditation may be made subject to conditions under section 35X.
-  (1) As soon as practicable after the Minister provisionally accredits a community of online learning, the Secretary must inform the Chief Review Officer of the provisional accreditation.
-  (2) The Chief Review Officer must ensure that a review officer reviews any community of online learning that is provisionally accredited either—
-    (a) between 6 and 12 months after the provisional accreditation; or
-    (b) earlier, by agreement with the community of online learning.
-  (3) The Minister may request a further review of a community of online learning that has its provisional registration renewed under section 35U(2).
-  (4) The Chief Review Officer must ensure that a review officer who conducts a review under this section prepares a written report in relation to the review and gives copies of it to the Secretary and the community of online learning.
-  (5) A review officer’s written report on a review under this section must include the following information:
-    (a) whether the community meets the criteria for full accreditation as an enrolling or a supplementary community of online learning, as the case may be:
-    (b) if it does not meet the criteria, the areas in which improvement is required:
-    (c) whether the community is complying with conditions imposed on its provisional accreditation.
-  (6) In addition to the requirements of this section, the Chief Review Officer must ensure that a provisionally accredited community of online learning is reviewed in accordance with Part 28.
-  (1) The Minister may, by written notice to a provisionally accredited community of online learning, fully accredit the community if he or she is satisfied, having considered any report under section 35V(4) and any other information, that the community meets the criteria for full accreditation as an enrolling or a supplementary community of online learning in subsection (2).
-  (2) A community of online learning must have—
-    (a) a learning environment and processes that are safe and secure for its students; and
-    (b) an appropriate curriculum for teaching, learning, and assessment, and a tuition standard, suitable to the age range and level of its students; and
-    (c) the capacity to meet its pastoral care and student well-being responsibilities; and
-    (d) a system and processes to safely and securely collect, manage, and store student information, including achievement and enrolment information; and
-    (e) equipment that is suitable for the curriculum being delivered, or to be delivered, and for the mode of online education delivery; and
-    (f) directors or managers who are fit and proper persons; and
-    (g) sound financial practices; and
-    (h) premises, whether owned or leased, that are suitable for a community of online learning of its type.
-  (1) The Minister may set conditions on the provisional or full accreditation of a community of online learning, including conditions that—
-    (a) specify who may be enrolled at the community and the enrolment process; and
-    (b) specify the outcomes for student achievement that must be met; and
-    (c) set a maximum roll; and
-    (d) specify the year levels that may be taught; and
-    (e) specify, for enrolling communities that are not registered schools, the number or percentage of teaching positions that must be filled by people holding a practising certificate or limited authority to teach.
-  (2) Conditions may be set for any or all of the following:
-    (a) all communities of online learning:
-    (b) a type of community of online learning:
-    (c) a particular community of online learning.
-  (3) The Minister may amend or revoke conditions or impose new conditions, with the agreement of the community of online learning.
-  (4) The Minister may amend or revoke conditions or impose new conditions, without the agreement of the community of online learning only if the Minister has first——
-    (a) given written notice to the community of the Minister’s intention; and
-    (b) given the community a reasonable opportunity to respond to the notice; and
-    (c) considered any submissions made by the community in response to the notice.
-  (5) The Minister must give written notice to the community of online learning of any changes to conditions made under subsection (4).
-  (1) The Chief Review Officer must ensure that a review officer reviews any community of online learning that is accredited under section 35W, in accordance with this section.
-  (2) The Chief Review Officer must ensure that a review officer who conducts a review under this section prepares a written report in relation to the review and gives copies of it to the Secretary and the community of online learning.
-  (3) The report must include the following information:
-    (a) whether the community meets the criteria for full accreditation:
-    (b) if it does not meet the criteria, the areas in which improvement is required:
-    (c) whether the community is complying with conditions imposed on its accreditation.
-  (4) In addition to the requirements of this section, the Chief Review Officer must ensure that a community accredited under section 35W is reviewed in accordance with Part 28.
-  (1) The following interventions are available in respect of a community of online learning:
-    (a) the Minister may require information:
-    (b) the Minister may require that the community engage specialist help:
-    (c) the Minister may require that the community prepare and carry out an action plan:
-    (d) the Minister may require that the community comply with a performance notice issued by the Minister.
-  (2) The Minister may apply any of the interventions described in subsection (1) if he or she has reasonable grounds to believe that there is a risk to the operation of the community of online learning, or to the welfare or educational performance of its students.
-  (3) When applying an intervention, the Minister must apply whichever intervention he or she considers is reasonable to deal with the risk without intervening more than necessary.
-  (4) The application of any intervention does not preclude the application of any other intervention, either simultaneously or at any other time.
-  (5) The interventions in this section are in addition to any other interventions available under this Act.
-  (1) The Minister may take action in regard to a provisionally or fully accredited community of online learning if—
-    (a) the Minister considers that the community is not meeting all or any of the criteria for provisional or full accreditation, as the case may be; or
-    (b) a review conducted under section 35V or 35Y indicates that the community does not, or is likely not to, meet all or any of the criteria for its accreditation; or
-    (c) the community has breached or is breaching its statutory duties in relation to the community under this or any other enactment; or
-    (d) the Minister has reasonable grounds to believe that unlawful activity is occurring in the community of online learning.
-  (2) If the Minister decides to take action, the Minister may do 1 or more of the following:
-    (a) issue the community of online learning with a notice to comply:
-    (b) require the community to inform parents of the community’s students that it is not meeting the criteria for accreditation as a community of online learning:
-    (c) impose conditions on the provisional or full accreditation of the community:
-    (d) cancel the provisional or full accreditation of the community.
-  (3) Any action taken by the Minister under subsection (2) must be proportionate to the seriousness of the situation of the community of online learning.
-  (1) The Minister may cancel the provisional or full accreditation of a community of online learning if he or she has reasonable grounds to believe that it is necessary to do so because—
-    (a) the community no longer meets 1 or more of the criteria for provisional or full accreditation, as the case may be; or
-    (b) the community is not complying with 1 or more of the conditions of its provisional or full accreditation, is not performing any relevant duties, or is not fulfilling its obligations under this Act; or
-    (c) there is a risk to the operation of the community or the educational performance or welfare of the students.
-  (2) The Minister must, before cancelling accreditation under subsection (1), by written notice to the community, give 28 days’ notice of the cancellation and set out the reasons for the cancellation.
-  (3) Before cancelling the accreditation, the Minister must consider any responses received from the community within the 28-day notice period.
-  The Secretary may suspend the provisional or full accreditation of a community of online learning if he or she has reasonable grounds to believe that the welfare of the students of the community of online learning is at risk, and—
-    (a) that it is unlikely that the risk can be managed by any practicable means other than by suspension of the accreditation; or
-    (b) that, although the risk could be managed by means other than by suspension of the accreditation, the amount of time necessary to do so is likely, in the opinion of the Secretary, to be excessive.
-  (1) A community of online learning must perform its functions and exercise its powers in such a way as to ensure that every student at the community is able to attain his or her highest possible standard in educational achievement.
-  (2) An enrolling community of online learning must also take all reasonable steps to ensure that—
-    (a) students get good guidance and counselling; and
-    (b) students in form 1 and above are provided with appropriate career education and guidance that is designed to prepare them to join the workforce or undertake further education or training when they leave secondary education; and
-    (c) a student’s parents are told of matters that, in the opinion of the leader of the community of online learning,—
-      (i) are preventing or slowing the student’s progress through the school; or
-      (ii) are harming the student’s relationships within the community of online learning; and
-    (d) it provides a safe emotional learning environment for its students.
-  (3) An enrolling community of online learning has overall responsibility for the programmes for its students and the students’ progress.
-  (4) A community of online learning operated by—
-    (a) a State school must, when complying with subsection (1), have particular regard to any statement of National Education and Learning Priorities issued under section 1A:
-    (b) a partnership school kura hourua, a school registered under section 35A, a body corporate, or a tertiary education provider must, when complying with subsection (1), have regard to any statement of National Education and Learning Priorities issued under section 1A.
-  (5) In subsection (2), leader has the meaning given to professional leader in section 348 and, in respect of a community of online learning not covered by that definition, means the person appointed by the community of online learning to undertake the responsibilities in subsection (2)﻿(c).
-  (1) A person must not be enrolled at an enrolling community of online learning unless the person’s enrolment is in accordance with any conditions set by the Minister on accreditation of the community.
-  (2) A person who is enrolled at an enrolling community of online learning that is operated by a tertiary education provider is not, by reason only of the person’s enrolment in the community, also enrolled in the tertiary education provider.
-  A community of online learning may charge fees to the categories of students specified in regulations made under section 35ZN.
-  (1) As soon as practicable after a student has been suspended from attendance at, or expelled from, an enrolling community of online learning that is not a registered school, the community must give the Secretary—
-    (a) written notice of—
-      (i) the student’s name and last known address; and
-      (ii) the day on which the student was suspended or expelled or, if the student was first suspended and later expelled, the days on which the student was suspended and expelled, and the length of the suspension; and
-    (b) a written statement of the reasons for the student’s suspension or expulsion.
-  (2) Unless the student is within a reasonable time reinstated or enrolled at another community of online learning or a registered school, the Secretary must (if the student is younger than 16) and may (if the student is 16 or older)—
-    (a) arrange for the student to be enrolled at some other reasonably convenient registered school that the student can attend; or
-    (b) direct the board of a State school that is not an integrated school to enrol the student at the school; and, in that case, the board must do so; or
-    (c) direct a parent of the student to have the student enrolled at another community of online learning.
-  (3) The Secretary must not give a direction under subsection (2) unless he or she has made all reasonable attempts to consult the student, the student’s parents, the board, and any other person or organisation that, in the opinion of the Secretary, may be interested in, or able to advise on or help with, the student’s education or welfare.
-  (4) A direction under subsection (2)﻿(b) overrides section 11P and the provisions of any enrolment scheme the school may have in place.
-  (1) Subject to subsections (2) to (4) of this section,—
-    (a) students may,—
-      (i) if enrolled at an enrolling community of online learning, receive tuition from another community of online learning or from, or at, a State school; or
-      (ii) if enrolled at a State school, receive tuition from a community of online learning; and
-    (b) the enrolling community of online learning or the board of the State school at which the students are enrolled may pay for the tuition.
-  (2) The arrangements described in subsection (1)—
-    (a) may be entered into only by agreement between the communities of online learning involved or the community of online learning and the school involved, as the case may be; and
-    (b) are subject to any conditions on the accreditation of the communities of online learning concerned.
-  (3) A community of online learning that is delivering tuition to a student enrolled at another community of learning or a State school may terminate that delivery before the end of the programme only if the student—
-    (a) commits a serious breach of behaviour standards specified in the community’s conditions of accreditation; or
-    (b) significantly fails to meet the course requirements specified in the community’s conditions of accreditation.
-  (4) Before a community of online learning terminates the tuition it must—
-    (a) provide the parents and student (if applicable) with the reasons for the proposed action and provide a reasonable opportunity for them to respond; and
-    (b) inform the enrolling school or enrolling community of online learning.
-  (1) The Minister may make grants to fully and provisionally accredited communities of online learning out of money appropriated by Parliament for the purpose.
-  (2) The Minister must determine the amount of each grant made.
-  (3) A grant may be made unconditionally or subject to conditions determined by the Minister.
-  (4) A community of online learning to which a grant is made subject to conditions must take all reasonable steps to ensure that the conditions are complied with.
-  (1) This section applies to a community of online learning that is not a State school or a tertiary education provider.
-  (2) A community of online learning to which this section applies and to which a grant has been made under section 35ZI must ensure that records are kept—
-    (a) in respect of the year in which the grant was made and the year after; and
-    (b) in a manner approved by the Minister.
-  (3) The records must—
-    (a) show fully and correctly all the financial transactions, assets, liabilities, and funds of the community of online learning; and
-    (b) show that the conditions of the grant (if any) have been complied with; and
-    (c) be available for inspection at all reasonable times by any employee of the Ministry approved by the Secretary for the purpose.
-  (4) For the purposes of this section and section 35ZK, the financial year of a community of learning ends—
-    (a) at the close of the day specified by the Minister for the purpose; or
-    (b) at the close of 30 June, if the Minister has not specified a day for the purpose.
-  As soon as practicable after the end of each financial year during which a community of online learning is required by section 35ZJ to keep records, it must—
-    (a) prepare an income and expenditure account that shows all financial transactions of the community of online learning for that year; and
-    (b) have the account audited by a qualified auditor (within the meaning of section 35 of the Financial Reporting Act 2013); and
-    (c) give the Secretary copies of the account and the audit report on it.
-  The Secretary must publish and maintain on the Ministry’s website a register that shows, in relation to each community of online learning, the following information:
-    (a) its name and address:
-    (b) whether it—
-      (i) is an enrolling community of online learning or a supplementary community of online learning; and
-      (ii) has provisional or full accreditation; and
-    (c) any conditions on accreditation.
-  A community of online learning that intends to cease to operate as a community of online learning must inform the Secretary—
-    (a) that it will cease to operate; and
-    (b) of the date on which it will cease to operate.
-  The Governor-General may, by Order in Council, make regulations for communities of online learning, and the regulations may prescribe any or all of the following matters:
-    (a) details about the application of the accreditation criteria, and the process for the application of the criteria, for provisional and full accreditation, which may be different for different types of body that apply and for enrolling and supplementary communities of online learning:
-    (b) criteria for enrolment at an enrolling community, and different criteria may be fixed for all or any of the following:
-      (i) different communities:
-      (ii) communities of different classes or descriptions:
-      (iii) early childhood, primary, and secondary classes at communities:
-    (c) the categories of communities of online learning that may charge, and the categories of students that may be charged, fees for enrolment and tuition:
-    (d) requirements for attendance in sections 20 and 25:
-    (e) planning and reporting requirements:
-    (f) any other matters contemplated by, or necessary for giving full effect to, the provisions of this Part.
+[Repealed]
 
 ### 39 Section 60 amended (Interpretation)
 (1) In section 60, repeal the definitions of board staff, Chief Review Officer, domestic student, international student, national education guidelines, review officer, and Teachers Council.
 (2) In section 60, insert in its appropriate alphabetical order:
   - **community of learning** means a community of learning approved by the Minister in accordance with section 71C
-(3) In section 60, insert in its appropriate alphabetical order:
-  - **community of online learning** has the meaning given in section 2(1)
+(3)
 (4) In section 60, repeal the definition of charter.
 
 ### 40 New cross-heading above section 60A inserted
@@ -550,10 +348,7 @@ After section 77A, insert:Regulations
 After section 78, insert:Powers of entry and inspection
 
 ### 52 Section 78A amended (Powers of entry and inspection)
-(1) In section 78A(1)﻿(a), after school, insert or community of online learning.
-(2) In section 78A(1)﻿(b), after school, insert or community.
-(3) In section 78A(1A), after school, insert or community in each place.
-(4) In section 78A(5), after school, insert or community of online learning.
+[Repealed]
 
 ### 53 Section 78B repealed (Entry where private school suspected of being unregistered)
 Repeal section 78B.
@@ -664,7 +459,7 @@ In section 78R, replace sections 78J(1), 78K(1), 78L(1), 78M(1), or 78N(1) or (3
 In the Part 8 heading, after Financial, insert matters, assets, and property.
 
 ### 67 Section 81A repealed (Grants for correspondence schools)
-Repeal section 81A.
+[Repealed]
 
 ### 68 Section 87 replaced (Annual reports)
 Replace section 87 with:Statements of variance and annual reports
@@ -699,22 +494,16 @@ After section 87A, insert:Annual report to be made available
   A board must ensure that its annual report is available to the public on an Internet site maintained by or on behalf of the board.
 
 ### 70 Section 91A amended (Interpretation)
-In section 91A(1), insert in its appropriate alphabetical order:
-  - **enrolling community of online learning** has the same meaning as in section 2(1)
+[Repealed]
 
 ### 71 Section 91B replaced (Application)
-Replace section 91B with:Application
-  Section 91C applies to every State school other than an enrolling community of online learning.
+[Repealed]
 
 ### 72 Section 92 amended (Interpretation)
-(1) In section 92(1), repeal the definition of correspondence school.
+(1)
 (2) In section 92(1), repeal the definition of integrated.
-(3) In section 92(1), definition of special institution, repeal paragraph (b).
-(4) In section 92(1), insert in their appropriate alphabetical order:
-  - **community of online learning** has the same meaning as in section 2(1)
-  - **enrolling community of online learning** has the same meaning as in section 2(1)
-  - **online education** has the same meaning as in section 2(1)
-  - **supplementary community of online learning** has the same meaning as in section 2(1)
+(3)
+(4)
 (5) In section 92(1), insert in its appropriate alphabetical order:
   - **integrated** has the same meaning as in section 2(1)
 
@@ -931,7 +720,7 @@ Repeal section 141.
   (1AAA) The Secretary may, by written notice that complies with subsection (1AAB), require any of the following individuals or bodies to provide information:
     (a) the board of any State school (within the meaning of section 2(1)):
     (b)
-    (c) a community of online learning:
+    (c)
     (d) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup:
     (e) the managers of any school registered under section 35A.
   (1AAB) The notice must specify the information required and the time period within which it must be provided.
@@ -946,7 +735,7 @@ Before section 145, insert:Purpose of Part
     (c) recognise the role of diversity in the provision of schooling, including the provision of Māori medium education.
 
 ### 100 Section 145 amended (Interpretation)
-(1) In section 145(1), repeal the definition of correspondence school.
+(1)
 (2) In section 145(1), repeal the definition of integrated school.
 (3) In section 145(1), insert in its appropriate alphabetical order:
   - **State integrated school** has the same meaning as in section 2(1)
@@ -972,7 +761,7 @@ In section 150(1), replace section 33 of the Private Schools Conditional Integra
 In section 151, replace section 33 of the Private Schools Conditional Integration Act 1975 with Part 33.
 
 ### 107 Section 152 repealed (Correspondence schools)
-Repeal section 152.
+[Repealed]
 
 ### 108 Section 153 amended (Minister may change class of school)
 (1) After section 153(1A), insert:
@@ -1065,8 +854,7 @@ In section 156AC(1) and (4), replace section 105A with section 98A.
   (3A) Subsection (3)﻿(f) and (g) does not apply if the relevant boards have already been consulted on a closure or merger option as part of a review of the provision of schooling in a particular area.
 
 ### 120 Section 158A amended (Interpretation)
-In section 158A, insert in its appropriate alphabetical order:
-  - **enrolling community of online learning** has the same meaning as in section 2(1)
+[Repealed]
 
 ### 121 Section 158G amended (Sponsor’s duties)
 After section 158G(b), insert:
@@ -1074,7 +862,7 @@ After section 158G(b), insert:
 
 ### 122 Section 158R amended (Secretary’s powers when student younger than 16 is excluded from partnership school kura hourua)
 (1) In section 158R(1)﻿(b), replace an integrated school with a State integrated school.
-(2) In section 158R(1)﻿(d), replace a correspondence school with an enrolling community of online learning.
+(2)
 
 ### 123 Section 158U amended (Application of this Act to partnership schools kura hourua)
 (1) In section 158U(1), after 78CD,, insert 139AC to 139AE,.
@@ -1085,10 +873,7 @@ After section 158G(b), insert:
 In section 159AAA(2), replace the Commission, the Qualifications Authority, and Careers New Zealand with the Commission, and the Qualifications Authority.
 
 ### 125 Section 159 amended (Interpretation)
-(1) In section 159(1), insert in its appropriate alphabetical order:
-  - **enrolling community of online learning** has the same meaning as in section 2(1)
-(2) In section 159(1), replace the definition of private training establishment with:
-  - **private training establishment** means an establishment, other than an institution, that provides post-school education or vocational training and includes an establishment that is accredited as a community of online learning
+[Repealed]
 
 ### 126 Section 159AB amended (Importance of tertiary education strategy)
 In section 159AB, replace the Commission, the Qualifications Authority, and Careers New Zealand with the Commission, and the Qualifications Authority.
@@ -1145,25 +930,19 @@ After section 159F, insert:Offers of employment in equivalent positions for Care
   (2) This section is repealed on 2 January 2018.
 
 ### 131 Section 192 amended (Powers of institutions)
-After section 192(2)﻿(ab), insert:
-  (ac) in the case of an institution that is accredited to be a community of online learning, functions characteristic of a body that is a community of online learning; or
+[Repealed]
 
 ### 132 Section 238D amended (Interpretation)
-In section 238D, definition of provider, after paragraph (a), insert:
-  (aa) an enrolling community of online learning; or
+[Repealed]
 
 ### 133 Section 238I amended (Purpose and administration of export education levy)
-In section 238I(1A) and (1B), after establishment, insert or enrolling community of online learning in each place.
+[Repealed]
 
 ### 134 Section 246 amended (Interpretation)
-(1) In section 246, definition of relevant school, after paragraph (c), insert:
-  (ca) a community of online learning; or
-(2) In section 246, insert in its appropriate alphabetical order:
-  - **community of online learning** has the meaning given by section 2(1)
+[Repealed]
 
 ### 135 Section 253 amended (Rules)
-After section 253(1)﻿(gb), insert:
-  (gc) prescribing quality assurance requirements that must be met by communities of online learning:
+[Repealed]
 
 ### 136 Part 22 repealed
 Repeal Part 22.
@@ -1178,10 +957,7 @@ In section 319(1)﻿(a), after health and safety,, insert practices in relation 
 In section 319J(1)﻿(b), replace section 70B of the Education Act 1989 with clause 36 of Schedule 6.
 
 ### 140 Section 342 amended (Interpretation)
-(1) In section 342, insert in its appropriate alphabetical order:
-  - **community of online learning** has the same meaning as in section 2(1)
-(2) In section 342, definition of education provider, after paragraph (b), insert:
-  (ba) a community of online learning; and
+[Repealed]
 
 ### 141 New section 350A inserted (Special provision for chief executive of correspondence school)
 After section 350, insert:Special provision for chief executive of correspondence school
@@ -1189,9 +965,7 @@ After section 350, insert:Special provision for chief executive of correspondenc
   (2) This section overrides sections 349 and 350.
 
 ### 142 Section 350A replaced (Special provision for chief executive of correspondence school)
-Replace section 350A with:Special provision for chief executive of enrolling community of online learning that was correspondence school
-  (1) The chief executive of the enrolling community of online learning that was a correspondence school immediately before the commencement of this section is not required to be registered.
-  (2) This section overrides sections 349 and 350.
+[Repealed]
 
 ### 143 Section 357 amended (Cancellation of registration as a teacher)
 (1) In section 357(1)﻿(c), after cancelled, insert ; or.
@@ -1544,7 +1318,7 @@ After Part 32, insert:State integrated schoolsInterpretation1975 No 129 s 2Part 
 ### 156 New Schedule 1 inserted
 (1) Insert the Schedule 1 set out in Schedule 1 of this Act as the first schedule to appear after the last section of the principal Act.
 (2) In Schedule 1, after Part 3, insert:Provisions relating to Careers New ZealandInterpretationDissolutionAssets and liabilitiesTransfer of informationProceedingsReferences to Careers New ZealandRepeal of clauses 6 to 9 and this clause
-  In this schedule, unless the context otherwise requires,—
+  In this Part, unless the context otherwise requires,—
     - **assets** has the same meaning as in clause 2 of Schedule 20
     - **Careers New Zealand** means the Service that was continued under section 279 (as it read immediately before the commencement of this clause)
     - **Commission** means the Tertiary Education Commission established under section 159C
@@ -1571,11 +1345,7 @@ After Part 32, insert:State integrated schoolsInterpretation1975 No 129 s 2Part 
   (1) This clause applies for the 2018 school year.
   (2) The Minister may, before 1 August 2017, prescribe the mid-term dates for 2018.
   (3) This clause overrides section 5B(3) and (4).
-(4) After Part 5 of Schedule 1, insert:Provisions relating to communities of online learningTransitional provisions relating to communities of online learning
-  (1) A school that was, immediately before the commencement of this clause, a correspondence school is to be treated as fully accredited as an enrolling community of online learning.
-  (2) A school that was, immediately before the commencement of this clause, a correspondence school offering early childhood education classes may continue to offer such classes.
-  (3) Every person who is lawfully enrolled at a correspondence school immediately before the commencement of this clause and who is entitled under section 3 to a free education at a State school is to be treated as having been enrolled at that school.
-  (4) In this clause, enrolling community of online learning has the same meaning as in section 2(1).
+(4)
 
 ### 157 Schedule 5A amended
 In the heading to Schedule 5A, replace s 65H with Schedule 6 cl 26.
@@ -1587,10 +1357,10 @@ In the heading to Schedule 5A, replace s 65H with Schedule 6 cl 26.
     (a) a strategic plan, for each 3-year period or for a shorter period determined by the Secretary, that sets out the board’s strategy for achieving (or making progress towards achieving) its objectives (as set out in clause 5) during that period; and
     (b) an annual implementation plan for each year that sets out how the board intends to implement that strategy during the year.
   (2) A board must prepare its first strategic plan and annual implementation plan when required by regulations made under section 118A to do so.
-  (2A) If, at the commencement of this clause, a board has a charter in effect for the 2019 year, the charter will be treated as the board’s first strategic plan.
-  (2B) If a board’s strategic plan is its 2019 school charter, the statement of variance is not required to include a comparison with an annual implementation plan.
-  (2C) However, a board with a 2019 school charter as its strategic plan must continue to update the annually updated sections of its charter until its first annual implementation plan is required under regulations made under section 118A.
-  (2D) The annually updated sections of a 2019 school charter must be updated no later than a date fixed by the Secretary.
+  (2A) If, at the commencement of this clause, a board has a charter in effect for the 2022 year, the charter will be treated as the board’s first strategic plan.
+  (2B) If a board’s strategic plan is its 2022 school charter, the statement of variance is not required to include a comparison with an annual implementation plan.
+  (2C) However, a board with a 2022 school charter as its strategic plan must continue to update the annually updated sections of its charter until its first annual implementation plan is required under regulations made under section 118A.
+  (2D) The annually updated sections of a 2022 school charter must be updated no later than a date fixed by the Secretary.
   (3) A board that has been accredited as a community of online learning must fulfil any requirements specified in regulations made under section 35ZN.
   (1) A board must prepare a draft strategic plan for every 3-year period, or for a shorter period determined by the Secretary, and submit it to the Secretary in accordance with regulations made under section 118A.
   (2) The draft strategic plan must comply with any regulations made under section 118A relating to the form and content of strategic plans.
@@ -1618,7 +1388,7 @@ In the heading to Schedule 5A, replace s 65H with Schedule 6 cl 26.
   (2) Before approving an amendment, the Secretary may require the board to consult the school community, staff, students, or any other person or body the Secretary considers should be consulted.
   (3) The Secretary may require a board to amend its strategic plan.
   (1) A strategic plan expires 3 years after the plan takes effect.
-  (2) However, a 2019 school charter (which is a document that is to be treated as a board’s first strategic plan) expires when replaced by a strategic plan adopted in accordance with regulations made under section 118A.
+  (2) However, a 2022 school charter (which is a document that is to be treated as a board’s first strategic plan) expires when replaced by a strategic plan adopted in accordance with regulations made under section 118A.
   (3) If there is no new plan to replace the expired plan, the expired plan will continue to apply for a period approved by the Secretary.
   (1) A board must prepare an annual implementation plan.
   (2) The plan must—
@@ -1645,7 +1415,7 @@ The Private Schools Conditional Integration Act 1975 (1975 No 129) is repealed.
 ### 161 Consequential amendments to other enactments
 (1) Amend the enactments specified in Part 1 of Schedule 3 as set out in that Part.
 (2) Amend the enactments specified in Part 2 of Schedule 3 as set out in that Part.
-(3) Amend the enactments specified in Part 3 of Schedule 3 as set out in that Part.
+(3)
 
 ## Schedule 1 — New Schedule 1 inserted
 
