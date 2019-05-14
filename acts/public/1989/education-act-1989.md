@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-05-14_
 
 > An Act to reform the administration of education
 
@@ -245,6 +245,10 @@ The Minister may, by notice in the Gazette, exempt international students of a p
   (d) parents of prospective students of the school.
 (2) When considering whether to revoke a cohort entry policy, a board must take all reasonable steps to discover and consider the views of the persons described in subsection (1) as to whether the policy should be revoked.
 (3) A board must take all reasonable steps to give notice of at least 1 term to the Secretary and the persons described in subsection (1) before a cohort entry policy takes effect or ceases to have effect.
+
+### 5D Publication of mid-term dates
+(1) The Minister must, before 1 July in any year, publish in the Gazette (by reference to specific dates) the mid-term start dates for the following year.
+(2) A mid-term start date must be the Monday that is closest to the date that is halfway between the first and last dates of a term.
 
 ### 6 Restrictions on enrolment at secondary school
 No person who, in the opinion of the Secretary,—shall in any year be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school, unless the person turned 13 before 1 April in the previous year.
@@ -577,14 +581,14 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 (3) The Secretary may at any time rescind an exemption given under subsection (2), and may require the board to conduct a review of its enrolment scheme within a period specified by the Secretary.
 
 ### 11PB Enrolment schemes of certain State schools
-(1) Sections 11A to 11PA apply to Kura Kaupapa Maori, designated character schools, State integrated schools, State schools that are accredited as enrolling communities of online learning, and special schools, and to their enrolment schemes, subject to the following modifications:
+(1) Sections 11A to 11PA apply to Kura Kaupapa Maori, designated character schools, State integrated schools, and special schools, and to their enrolment schemes, subject to the following modifications:
   (a) all references to overcrowding or the likelihood of overcrowding must be read as if they were references to there being, or being likely to be, more applicants for enrolments at the school than there are places available; and
   (b) the enrolment scheme need not define a home zone for the school, nor provide for balloting of applicants who live outside any home zone, but must accord priority to applicants for whom the school is a reasonably convenient school; and
   (c) section 11J is modified as follows:
     (i) subsection (1) applies as if paragraph (a) read a general description of the enrolment scheme; and
     (ii) subsection (2) applies as if paragraphs (a) to (c) were replaced with the words the likely number of places available and the significant pre-enrolment dates and procedures that will apply; and
     (iii) subsection (3)﻿(b) does not apply; and
-  (ca) in the case of an enrolling community of online learning operated by a State school, the application of the sections must not result in inconsistency with conditions set by the Minister under section 35X; and
+  (ca)
   (d) in the case of a Kura Kaupapa Maori, the application of the sections must not result in inconsistency with section 156; and
   (e) in the case of a designated character school, the application of the sections must not result in inconsistency with the school's charter or section 156; and
   (f) in the case of a State integrated school, the application of the sections must not result in inconsistency with the school's integration agreement or Part 33.
@@ -668,7 +672,9 @@ Sections 14 to 18AA (and any rules made under section 18AA) apply only in relati
 (3) The purpose of the programme referred to in subsection (2) is to facilitate the return of a student to school and to minimise the educational disadvantages that occur from absence from school.
 
 ### 17B Who may attend board meeting concerning suspensions
-If a student has been suspended, the student, the student's parents, and their representatives are entitled to attend at least 1 meeting of the board and speak at that meeting, and to have their views considered by the board before it decides whether to lift or extend the suspension or exclude or expel the student (whether under section 15 or section 17).
+(1) If a student has been suspended, the student, the student's parents, and their representatives are entitled to attend at least 1 meeting of the board and speak at that meeting, and to have their views considered by the board before it decides whether to lift or extend the suspension or exclude or expel the student (whether under section 15 or section 17).
+(2) Instead of attending and speaking at a meeting of the board in person, the student, the student’s parents, and their representatives may attend and speak by way of telephone conference or video link.
+(3) A telephone conference or video link may be used only if the student and his or her parents have requested the use of a telephone conference or video link (as the case may be).
 
 ### 17C Effect of suspension on school register
 (1) The name of a student younger than 16 who has been suspended from a school under section 14 or excluded from a school under section 15(1)﻿(c) must stay on the school's register until the earliest of the following days:
@@ -749,9 +755,11 @@ If a student has been suspended, the student, the student's parents, and their r
 
 ## Part 3 — Enrolment and attendance of students
 
-### 20 New Zealand citizens and residents between 6 and 16 to go to school
-(1) Except as provided in this Act, every person who is not an international student is required to be enrolled at a registered school at all times during the period beginning on the person's sixth birthday and ending on the person's 16th birthday.
-(2) Before a child's seventh birthday, the child is not required to be enrolled at any school more than 3 kilometres walking distance from the child's residence.
+### 20 New Zealand citizens and residents between 6 and 16 must be enrolled at registered school
+(1) Every person who is a New Zealand citizen or resident must, during the period beginning on the person’s sixth birthday and ending on the person’s 16th birthday, be enrolled at a registered school.
+(2) Before a child’s seventh birthday, the child is not required to be enrolled at any school more than 3 kilometres walking distance from the child’s residence.
+(3) Subsections (1) and (2) do not apply to international students.
+(4) This section is subject to anything else in this Act.
 
 ### 21 Long term exemptions from enrolment
 (1) An employee of the Ministry designated by the Secretary for the purpose (in this section and section 26 referred to as a designated officer) may, by certificate given to a person's parent, exempt the person from the requirements of section 20,—
@@ -1075,7 +1083,8 @@ The criteria for registration as a private school under section 35A are that the
   (d) has equipment that is suitable for the curriculum being delivered or to be delivered at the school; and
   (e) has a curriculum for teaching, learning, and assessment and makes details of the curriculum and its programme for delivery available for parents; and
   (f) has suitable tuition standards, as described in section 35F; and
-  (g) has managers who are fit and proper persons (as described in section 35G) to be managers of a private school.
+  (g) has managers who are fit and proper persons (as described in section 35G) to be managers of a private school; and
+  (h) is a physically and emotionally safe place for students.
 
 ### 35D Suitable premises
 (1) Suitable premises for a school registered under section 35A are premises that are suitable for a school of its description and the number of students at the school.
@@ -1156,17 +1165,13 @@ The managers of a school registered under section 35A that is about to cease to 
   (b) is in addition to any fine incurred or other penalty imposed under section 35R or under any other enactment.
 
 ### 35K Suspension of registration if welfare of students may be at risk
-The Secretary may at any time suspend the registration of a school registered under section 35A if he or she has reasonable grounds to believe that the welfare of the students at the school is at risk, and—
-  (a) that it is unlikely that the risk can be managed by any practicable means other than by suspension of the registration; or
-  (b) that, although the risk could be managed by means other than by suspension of the registration, the amount of time necessary to do so is likely, in the opinion of the Secretary, to be excessive.
+[Repealed]
 
 ### 35L Duration of suspension
 (1) Suspension under section 35J(2)﻿(d) continues until the Secretary—
   (a) is satisfied that the managers of the school have complied with all requirements imposed by him or her under any of paragraphs (a) to (c) of section 35J(2); or
   (b) cancels the school's registration under section 35M.
-(2) Suspension under section 35K continues until the Secretary—
-  (a) is satisfied that the welfare of the students at the school is no longer at risk; or
-  (b) cancels the school's registration under section 35M, after taking action under section 35J(2).
+(2)
 
 ### 35M Process for cancellation of registration
 (1) The Secretary may cancel the registration of a school if, following an action by him or her taken under any of paragraphs (a) to (d) of section 35J(2),—
@@ -2702,6 +2707,30 @@ The provisions set out in Schedule 6 apply to boards.
   (c) require a person who has chosen or been restricted to 1 election to continue to be restricted to elections of the kind concerned if elections are later held to fill casual vacancies.
 (3) No person who has been nominated for election to a board is eligible to be appointed returning officer for the election.
 
+### 118A Regulations about planning, implementation, monitoring, and reporting
+(1) The Governor-General may, by Order in Council, make regulations that make provision for 1 or more of the following:
+  (a) the development of school strategic plans and annual implementation plans under clauses 7 to 10 of Schedule 6; and
+  (b) the monitoring of and reporting of a board’s performance under clause 11 of Schedule 6; and
+  (c) the monitoring of and reporting on the performance of a school’s students under section 62; and
+  (d) the preparation and delivery of statements of variance and annual reports under section 87.
+(2) Without limiting subsection (1), the regulations may make provision in relation to 1 or more of the following:
+  (a) the form of plans:
+  (b) matters that must be dealt with in plans:
+  (c) when plans must be prepared or submitted:
+  (d) requirements for consultation in the development and implementation of plans:
+  (da) requirements for how and when plans are amended or expire:
+  (e) the information that must be included in a statement of variance under section 87(1)﻿(a):
+  (f) the form of statements of variance:
+  (g) the information that must be included in an annual report under section 87(2)﻿(a):
+  (h) the form and contents of annual reports, including financial statements:
+  (i) the form of reports on the performance of a school’s students:
+  (j) the information that must be included in reports on the performance of a school’s students:
+  (k) any other matters contemplated by, or necessary for giving full effect to, any of the following provisions:
+    (i) section 60A(1)﻿(c):
+    (ii) section 62:
+    (iii) sections 87 to 87AB:
+    (iv) clauses 7 to 11 of Schedule 6.
+
 ### 119 Savings
 Every reference in any—to the school committee, committee of management, or board of governors of a primary, secondary, composite, or special school shall be read as a reference to the school's board.
   (a) Act, regulation, or other enactment; or
@@ -3169,17 +3198,20 @@ Nothing in section 139AAA or 139AAB limits or affects any power to search any lo
   (b) any contract, agreement, deed, instrument, application, licence, notice, or other document entered into, made, granted, given, or executed before that commencement,—
 
 ### 144A Secretary may require information for proper administration of Act
-(1) The Secretary may, by written notice to—require the board, service provider, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the board, service provider, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
-  (a) the board of any State school (within the meaning of section 2(1)); or
-  (ab)
-  (b) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup; or
-  (c) the managers of any school registered under section 35A,—
+(1AAA) The Secretary may, by written notice that complies with subsection (1AAB), require any of the following individuals or bodies to provide information:
+  (a) the board of any State school (within the meaning of section 2(1)):
+  (b)
+  (c)
+  (d) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup:
+  (e) the managers of any school registered under section 35A.
+(1AAB) The notice must specify the information required and the time period within which it must be provided.
+(1) The individual or body concerned must, within the specified time period, provide all information required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
 (1A) Information required by the Secretary under this section that identifies individuals may be used only for the following purposes:
   (a) statistical purposes:
   (b) ensuring that institutions and students receive relevant resourcing:
   (c) monitoring, and ensuring students' rights in respect of, enrolment and attendance.
 (2) For the purposes of the provisions of this Act relating to the registration and inspection of private schools, the following information is relevant to the question of whether or not a school meets the criteria for registration as a private school:
-  (a) information that is required under subsection (1) to be given to the Secretary; and
+  (a) information that is required under this section to be given to the Secretary; and
   (b) information that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
 
 ### 144B Purpose of sections 144C to 144E
@@ -4447,7 +4479,11 @@ The object of the provisions of this Act relating to institutions is to give the
     (iia) a specialist college is characterised by teaching and (if relevant) research of a specialist nature that maintains, enhances, disseminates, and assists in the application of knowledge and expertise:
     (iii) a university is characterised by a wide diversity of teaching and research, especially at a higher level, that maintains, advances, disseminates, and assists the application of, knowledge, develops intellectual independence, and promotes community learning:
     (iv) a wananga is characterised by teaching and research that maintains, advances, and disseminates knowledge and develops intellectual independence, and assists the application of knowledge regarding ahuatanga Maori (Maori tradition) according to tikanga Maori (Maori custom).
-(5) The Minister may, on the recommendation of the council of the institution concerned, change the name of an institution by notice published in the Gazette.
+(5) In the case of a college of education, polytechnic, specialist college, or wananga, the Minister may, on the recommendation of its council, change the name of the college of education, polytechnic, specialist college, or wananga by notice published in the Gazette.
+(6) In the case of a university, its name may be changed if the procedure set out in subsections (7) to (9) is followed.
+(7) The university must give written notice to the Minister of the proposed name change.
+(8) If notice is given, the Minister must present the proposal to the House of Representatives.
+(9) If the House of Representatives, by resolution, accepts the proposed name change, the Minister must change the name of the university by notice published in the Gazette.
 
 ### 163 Constitution of institutions
 (1) Each body referred to in paragraph (b) or paragraph (c) of section 162(1) shall consist of its governing body, the chief executive, the teaching staff, general staff, the graduates and students, and such other people as the governing body may from time to time determine.
@@ -8797,7 +8833,15 @@ The collective and individual duties of members of the Teaching Council are set 
   (c) to identify and disseminate best practice in teaching and leadership and foster the education profession’s continued development in light of research, and evidence of changes in society and technology:
   (d) to carry out the functions under Part 31 relating to teacher registration:
   (e) to establish and maintain any criteria for teacher registration under Part 31 that the Teaching Council considers necessary or desirable:
+  (ea) to review, at any time, the criteria for teacher registration established under paragraph (e) and, after consultation with the Minister,—
+    (i) vary, delete, or replace 1 or more of the criteria; or
+    (ii) add 1 or more criteria; or
+    (iii) delete all of the criteria and substitute new criteria:
   (f) to establish and maintain standards for qualifications that lead to teacher registration:
+  (fa) to review, at any time, the standards for qualifications established under paragraph (f) and, after consultation with the Minister,—
+    (i) vary, delete, or replace 1 or more of the standards; or
+    (ii) add 1 or more standards; or
+    (iii) delete all of the standards and substitute new standards:
   (g) to conduct, in conjunction with quality assurance agencies, approvals of teacher education programmes:
   (h) to establish and maintain—
     (i) standards for ongoing practice; and
@@ -8812,6 +8856,18 @@ The collective and individual duties of members of the Teaching Council are set 
   (p) to perform any other functions conferred on it by this Act or any other enactment.
 (2) The functions specified in subsection (1)﻿(e) and (h) must be performed as soon as practicable but no later than 2 years after the date of commencement of this section.
 (3) When performing its functions and exercising its powers, the Teaching Council must act in accordance with the rules of natural justice.
+
+### 382A Issue of statement of Government policy relating to Teaching Council’s functions
+(1) The Minister may, at any time, issue a statement of Government policy relating to 1 or more of the Teaching Council’s functions specified in section 382(1).
+(2) Before issuing a statement of Government policy, the Minister must consult the Teaching Council.
+(3) Every statement of Government policy must be—
+  (a) given in writing to the Teaching Council; and
+  (b) published in the Gazette; and
+  (c) presented to the House of Representatives.
+(4) A statement of Government policy comes into effect on the date specified in the Gazette notice, which date must be on or after the date of the notice and is to be treated as the date on which the statement is issued.
+(5) When performing its functions, the Teaching Council must have regard to any relevant statement of Government policy.
+(6) A statement of Government policy may be amended, revoked, or replaced in the same way as it is given.
+(7) A statement of Government policy issued under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012, and does not have to be presented to the House of Representatives under section 41 of that Act.
 
 ### 383 Powers of Teaching Council
 (1) The Teaching Council may, by notice in the Gazette, fix fees for all or any of the following:
@@ -9735,6 +9791,29 @@ Neither the Crown nor a council is liable to compensate a member of the council 
 (1) During the transition period, the Minister may, by written notice to the chief executive of the institution concerned, give any directions the Minister thinks reasonably necessary to ensure that the council can deal effectively with business before it after the close of the transition period.
 (2) The council must comply with the directions.
 (3) The Minister must consult the council before giving the directions.
+
+### Part 8 — Provisions relating to Education Amendment Act 2019
+
+### 24A Interpretation
+In this Part,—
+  - **amendment Act** means the Education Amendment Act 2019
+  - **commencement date** means the date on which this clause comes into force
+  - **transition period** means the period beginning on the commencement date and ending on the date that is 6 months after the commencement date.
+
+### 24B Transitional provision in relation to criteria for registration as private school
+(1) A school that is provisionally or fully registered as a private school under section 35A before the commencement date—
+  (a) is to be treated as having met the criterion specified in section 35C(h) during the transition period; and
+  (b) must be able to show, after the expiry of the transition period, that it meets that criterion.
+(2) Despite subclause (1), a school that is provisionally registered under section 35A must meet the criterion specified in section 35C(h) if—
+  (a) the school’s provisional registration is being renewed under section 35A(4); or
+  (b) the school is being reviewed pursuant to a request made under section 35A(5); or
+  (c) the school is being fully registered under section 35A(6).
+(3) An application to be registered as a private school made under section 35A before the commencement date, but not determined by that date, is to be treated as an application received on or after the commencement date.
+
+### 25 Transitional provision in relation to suspension of private school
+(1) Any process for the suspension of a school commenced before the commencement date is to be completed under this Act as if the amendment Act had not been enacted.
+(2) A suspension resulting from the process specified in subsection (1) is to be dealt with under this Act as if the amendment Act had not been enacted.
+(3) A complaint made under this Act before the commencement date, but not determined by that date, is to be dealt with under this Act as if the amendment Act had not been enacted.
 
 ## Schedule 2 — Administrative provisions applying to Board continued by section 37
 
