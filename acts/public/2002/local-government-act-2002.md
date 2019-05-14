@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2019-05-14_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -15,7 +15,7 @@ The purpose of this Act is to provide for democratic and effective local governm
   (a) states the purpose of local government; and
   (b) provides a framework and powers for local authorities to decide which activities they undertake and the manner in which they will undertake them; and
   (c) promotes the accountability of local authorities to their communities; and
-  (d) provides for local authorities to play a broad role in meeting the current and future needs of their communities for good-quality local infrastructure, local public services, and performance of regulatory functions.
+  (d) provides for local authorities to play a broad role in promoting the social, economic, environmental, and cultural well-being of their communities, taking a sustainable development approach.
 
 ### 4 Treaty of Waitangi
 In order to recognise and respect the Crown's responsibility to take appropriate account of the principles of the Treaty of Waitangi and to maintain and improve opportunities for Māori to contribute to local government decision-making processes, Parts 2 and 6 provide principles and requirements for local authorities that are intended to facilitate participation by Māori in local authority decision-making processes.
@@ -45,7 +45,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **community** means, subject to subsection (2), a community constituted under Schedule 6
   - **community board** means a community board established under section 49
   - **community facilities** has the meaning set out in section 197(2)
-  - **community outcomes** means the outcomes that a local authority aims to achieve in meeting the current and future needs of communities for good-quality local infrastructure, local public services, and performance of regulatory functions
+  - **community outcomes** means the outcomes that a local authority aims to achieve in order to promote the social, economic, environmental, and cultural well-being of its district or region in the present and for the future
   - **council-controlled organisation** has the meaning set out in section 6
   - **council-controlled trading organisation** has the meaning set out in section 6
   - **council organisation** has the meaning set out in section 6
@@ -56,7 +56,10 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
   - **financial year** means a period of 12 months ending on 30 June
   - **generally accepted accounting practice** has the same meaning as in section 8 of the Financial Reporting Act 2013
-  - **good-quality** , in relation to local infrastructure, local public services, and performance of regulatory functions, has the meaning given in section 10(2)
+  - **good-quality** , in relation to local infrastructure, local public services, and performance of regulatory functions, means infrastructure, services, and performance that are—
+    (a) efficient; and
+    (b) effective; and
+    (c) appropriate to present and anticipated future circumstances
   - **governing body** ,—
     (a) in the case of a regional council, means the body described in section 41(1); and
     (b) in the case of a territorial authority, means the body described in section 41(2)
@@ -110,7 +113,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **resource consent** has the meaning set out in section 197(2)
   - **Secretary** means the Secretary for Local Government
   - **significance** , in relation to any issue, proposal, decision, or other matter that concerns or is before a local authority, means the degree of importance of the issue, proposal, decision, or matter, as assessed by the local authority, in terms of its likely impact on, and likely consequences for,—
-    (a) the district or region:
+    (a) the current and future social, economic, environmental, or cultural well-being of the district or region:
     (b) any persons who are likely to be particularly affected by, or interested in, the issue, proposal, decision, or matter:
     (c) the capacity of the local authority to perform its role, and the financial and other costs of doing so
   - **significant** , in relation to any issue, proposal, decision, or other matter, means that the issue, proposal, decision, or other matter has a high degree of significance
@@ -240,11 +243,8 @@ This Part—
 ### 10 Purpose of local government
 (1) The purpose of local government is—
   (a) to enable democratic local decision-making and action by, and on behalf of, communities; and
-  (b) to meet the current and future needs of communities for good-quality local infrastructure, local public services, and performance of regulatory functions in a way that is most cost-effective for households and businesses.
-(2) In this Act, good-quality, in relation to local infrastructure, local public services, and performance of regulatory functions, means infrastructure, services, and performance that are—
-  (a) efficient; and
-  (b) effective; and
-  (c) appropriate to present and anticipated future circumstances.
+  (b) to promote the social, economic, environmental, and cultural well-being of communities in the present and for the future.
+(2)
 
 ### Subpart 2 — Role of local authorities and related matters
 
@@ -254,12 +254,7 @@ The role of a local authority is to—
   (b) perform the duties, and exercise the rights, conferred on it by or under this Act and any other enactment.
 
 ### 11A Core services to be considered in performing role
-In performing its role, a local authority must have particular regard to the contribution that the following core services make to its communities:
-  (a) network infrastructure:
-  (b) public transport services:
-  (c) solid waste collection and disposal:
-  (d) the avoidance or mitigation of natural hazards:
-  (e) libraries, museums, reserves, and other recreational facilities and community amenities.
+[Repealed]
 
 ### 12 Status and powers
 (1) A local authority is a body corporate with perpetual succession.
@@ -291,7 +286,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
   (c) when making a decision, a local authority should take account of—
     (i) the diversity of the community, and the community's interests, within its district or region; and
     (ii) the interests of future as well as current communities; and
-    (iii) the likely impact of any decision on the interests referred to in subparagraphs (i) and (ii):
+    (iii) the likely impact of any decision on each aspect of well-being referred to in section 10:
   (d) a local authority should provide opportunities for Māori to contribute to its decision-making processes:
   (e) a local authority should actively seek to collaborate and co-operate with other local authorities and bodies to improve the effectiveness and efficiency with which it achieves its identified priorities and desired outcomes; and
   (f) a local authority should undertake any commercial transactions in accordance with sound business practices; and
@@ -300,10 +295,10 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
     (ii) satisfy itself that the expected returns are likely to outweigh the risks inherent in the investment or activity; and
   (g) a local authority should ensure prudent stewardship and the efficient and effective use of its resources in the interests of its district or region, including by planning effectively for the future management of its assets; and
   (h) in taking a sustainable development approach, a local authority should take into account—
-    (i) the social, economic, and cultural interests of people and communities; and
+    (i) the social, economic, and cultural well-being of people and communities; and
     (ii) the need to maintain and enhance the quality of the environment; and
     (iii) the reasonably foreseeable needs of future generations.
-(2) If any of these principles conflict in any particular case, the local authority should resolve the conflict in accordance with the principle in subsection (1)﻿(a)﻿(i).
+(2) If any of these principles, or any aspects of well-being referred to in section 10, are in conflict in any particular case, the local authority should resolve the conflict in accordance with the principle in subsection (1)﻿(a)﻿(i).
 
 ### Subpart 3 — Co-ordination of responsibilities of local authorities
 
@@ -1623,7 +1618,7 @@ If a local authority carries out consultation in relation to an amendment to a l
     (iii) the period in or over which those benefits are expected to occur; and
     (iv) the extent to which the actions or inaction of particular individuals or a group contribute to the need to undertake the activity; and
     (v) the costs and benefits, including consequences for transparency and accountability, of funding the activity distinctly from other activities; and
-  (b) the overall impact of any allocation of liability for revenue needs on the community.
+  (b) the overall impact of any allocation of liability for revenue needs on the current and future social, economic, environmental, and cultural well-being of the community.
 
 ### 101A Financial strategy
 (1) A local authority must, as part of its long-term plan, prepare and adopt a financial strategy for all of the consecutive financial years covered by the long-term plan.
@@ -2806,10 +2801,9 @@ All persons exercising duties and functions under this subpart must take into ac
 (2) In this Act, unless the context otherwise requires,—
   - **accommodation units** means units, apartments, rooms in 1 or more buildings, or cabins or sites in camping grounds and holiday parks, for the purpose of providing overnight, temporary, or rental accommodation
   - **community facilities** means reserves, network infrastructure, or community infrastructure for which development contributions may be required in accordance with section 199
-  - **community infrastructure** means the following assets when owned, operated, or controlled by a territorial authority:
-    (a) community centres or halls for the use of a local community or neighbourhood, and the land on which they are or will be situated:
-    (b) play equipment that is located on a neighbourhood reserve:
-    (c) toilets for use by the public
+  - **community infrastructure** —
+    (a) means land, or development assets on land, owned or controlled by the territorial authority for the purpose of providing public amenities; and
+    (b) includes land that the territorial authority will acquire for that purpose
   - **development agreement** means a voluntary contractual agreement made under sections 207A to 207F between 1 or more developers and 1 or more territorial authorities for the provision, supply, or exchange of infrastructure, land, or money to provide network infrastructure, community infrastructure, or reserves in 1 or more districts or a part of a district
   - **development contribution** means a contribution—
     (a) provided for in a development contribution policy of a territorial authority; and
@@ -2845,11 +2839,7 @@ All persons exercising duties and functions under this subpart must take into ac
   - **chief executive** has the meaning given to it in section 7 of the Building Act 2004.
 
 ### 198A Restrictions on power to require contributions for reserves
-(1) Despite section 198(1), a territorial authority may not require a development contribution to be made to the territorial authority for the provision of any reserve—
-  (a) if the development is non-residential in nature; or
-  (b) for the non-residential component of a development that has both a residential component and a non-residential component.
-(2) For the purpose of subsection (1), accommodation units are deemed to be residential.
-(3) In this section, reserve does not include land that forms or is to form part of any road or is used or is to be used for stormwater management purposes.
+[Repealed]
 
 ### 199 Basis on which development contributions may be required
 (1) Development contributions may be required in relation to developments if the effect of the developments is to require new or additional assets or assets of increased capacity and, as a consequence, the territorial authority incurs capital expenditure to provide appropriately for—
@@ -2986,6 +2976,16 @@ A territorial authority must supply all secretarial and administrative services 
     (vi) regional fuel tax; or
   (b) a person required to make the development contribution is also a ratepayer in the territorial authority’s district or has paid or will pay fees or charges in respect of the facilities.
 (4) Despite subsection (1)﻿(ba), a territorial authority may require another development contribution to be made for the same purpose if the further development contribution is required to reflect an increase in the scale or intensity of the development since the original contribution was required.
+(5) Subsection (6) applies if a territorial authority or a council-controlled organisation has entered a funding agreement with the New Zealand Transport Agency under which—
+  (a) a specified amount of additional financial assistance is to be provided from the national land transport fund to the territorial authority or the council-controlled organisation to fund a specified network infrastructure project; and
+  (b) that specified amount of additional financial assistance is to be offset by reduced funding for 1 or more other projects or programmes.
+(6) If this subsection applies, the specified amount of additional financial assistance must not be treated as third-party funding for the purposes of subsection (1)﻿(c).
+(7) Subsection (8) applies if a funding agreement referred to in subsection (5)—
+  (a) provides for some or all of the specified amount of additional financial assistance to be offset by the provision of a reduced amount of financial assistance for 1 or more other network infrastructure projects; and
+  (b) specifies the amount of financial assistance for each other network infrastructure project that would otherwise have been provided.
+(8) If this subsection applies, to the extent that a network infrastructure project receives a reduced amount of financial assistance, subsection (1)﻿(c) applies as if the amount of financial assistance provided for that project were the amount that would otherwise have been provided, and not the reduced amount.
+(9) In this section, additional financial assistance means an amount of financial assistance for a network infrastructure project that is greater than the amount (if any) that would otherwise be provided from the national land transport fund in respect of that project.
+(10) Subsections (5) to (9) prevail over subsection (1)﻿(c).
 
 **Development contributions policy**
 
@@ -4472,7 +4472,9 @@ The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local G
   (a) for the purposes of sections 169, 239, and 240, to be a bylaw made under Part 8; and
   (b) for the purpose of section 170, to be a bylaw made under section 147.
 
-## Schedule 1AA — Application, savings, and transitional provisions relating to amendments to this Act made by the Local Government Act 2002 Amendment Act 2014
+## Schedule 1AA — Application, savings, and transitional provisions
+
+### Part 1 — Provisions relating to Local Government Act 2002 Amendment Act 2014
 
 ### 1 Transitional provision relating to triennial agreements
 (1) A triennial agreement that is in force on the date of commencement of section 9 of the Local Government Act 2002 Amendment Act 2014—
@@ -4511,20 +4513,7 @@ The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local G
 (2) The application must be dealt with, and any development contribution must be required, collected, and paid, as if the Local Government Act 2002 Amendment Act 2014 had not been enacted.
 
 ### 8 Transitional provision regarding development contributions for community infrastructure
-(1) This clause applies to any work or programme that—
-  (a) was within the definition of community infrastructure as it was immediately before the commencement of section 51 of the Local Government Act 2002 Amendment Act 2014, but is not within that definition as it was immediately after the commencement of section 51 of the Local Government Act 2002 Amendment Act 2014; and
-  (b) in relation to which development contributions were authorised by a development contributions policy in force immediately before the commencement of section 51 of the Local Government Act 2002 Amendment Act 2014.
-(2) In relation to a resource consent, building consent, certificate of acceptance, or authorisation for service connection for which an application is submitted on or after the commencement of this clause, a territorial authority may require and collect development contributions in relation to the work or programme if, and only if,—
-  (a) immediately before the commencement of this clause,—
-    (i) the work or programme had been completed; or
-    (ii) substantial progress or effort had been made to complete the work or programme; and
-  (b) the development contributions are authorised by the development contributions policy in force at the time the application is made.
-(3) If development contributions are required under subclause (2),—
-  (a) the work or programme must be separately identified in the schedule required by section 201A; and
-  (b) for each work or programme separately identified, the following must be identified in that schedule, in addition to the matters described in section 201A(1):
-    (i) the amount of the total cost of capital expenditure that is still to be recovered through development contributions (at the time the schedule is updated); and
-    (ii) the date by which the territorial authority expects to complete recovery of that cost.
-(4) If subclause (2) does not apply, the territorial authority must not require a development contribution in relation to that work or programme.
+[Repealed]
 
 ### 9 Transitional provision relating to development contributions policy
 (1) Until 30 June 2015 a development contributions policy that was in force immediately before the commencement of this clause is not invalid solely because it is inconsistent with this Act as amended by the specified provisions.
@@ -4554,6 +4543,25 @@ The repeal of section 684(1)﻿(38) to (40) and of section 684(2) of the Local G
 
 ### 13 Transitional provision relating to annual reports
 The amendments to Schedule 10 made by the 10th to 13th items in Schedule 5 of the Local Government Act 2002 Amendment Act 2014 apply only to annual reports for the period commencing on 1 July 2013 and ending on 30 June 2014 and subsequent annual reports.
+
+### Part 2 — Provisions relating to Local Government (Community Well-being) Amendment Act 2019
+
+### 14 Interpretation in this Part
+In this Part, 2019 Act means the Local Government (Community Well-being) Amendment Act 2019.
+
+### 15 Transitional provision relating to development contributions for certain community infrastructure
+(1) This clause applies to any work or programme that—
+  (a) was not within the definition of community infrastructure as it was immediately before the commencement of section 11 of the 2019 Act, but is within the definition of community infrastructure immediately after the commencement of that section; and
+  (b) was completed on or after 8 August 2014 and before the commencement of section 11 of the 2019 Act.
+(2) If a territorial authority amends its development contribution policy to require development contributions in relation to any work or programme described in subclause (1),—
+  (a) the work or programme must be separately identified in the schedule required by section 201A; and
+  (b) for each work or programme separately identified, instead of the matters specified in section 201A(1)﻿(c) and (d), the schedule must list—
+    (i) the proportion of the capital cost of the work or programme that the territorial authority would have proposed to recover through development contributions had it been possible to recover development contributions in respect of all developments that meet the criteria in the amended policy; and
+    (ii) the proportion of the capital cost of the work or programme that the territorial authority would have proposed to recover from other sources had it been possible to recover development contributions in respect of all developments that meet the criteria in the amended policy; and
+    (iii) based on the proportion specified under subparagraph (i), the amount that would have been recoverable in respect of resource consents granted, building consents granted, and service connections granted before the date on which the amendment to the development contribution policy came into effect (and which therefore cannot be recovered through development contributions); and
+    (iv) after taking into account the territorial authority’s inability to recover the amount specified in subparagraph (iii) from development contributions,—
+      (A) the adjusted proportion of the capital cost that the territorial authority proposes to recover through development contributions; and
+      (B) the adjusted proportion of the capital cost that the territorial authority proposes to recover from other sources.
 
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
@@ -6436,7 +6444,7 @@ A long-term plan must, to the extent determined appropriate by the local authori
 (1) A long-term plan must, in relation to each group of activities of the local authority,—
   (a) identify the activities within the group of activities:
   (b) identify the rationale for delivery of the group of activities (including the community outcomes to which the group of activities primarily contributes):
-  (c) outline any significant negative effects that any activity within the group of activities may have on the local community:
+  (c) outline any significant negative effects that any activity within the group of activities may have on the social, economic, environmental, or cultural well-being of the local community:
   (d) include the information specified in clauses 4 and 5—
     (i) in detail in relation to each of the first 3 financial years covered by the plan; and
     (ii) in outline in relation to each of the subsequent financial years covered by the plan.
@@ -6633,7 +6641,7 @@ An annual report must, in relation to each group of activities of the local auth
   (a) identify the activities within the group of activities; and
   (b) identify the community outcomes to which the group of activities primarily contributes; and
   (c) report the results of any measurement undertaken during the year of progress towards the achievement of those outcomes; and
-  (d) describe any identified effects that any activity within the group of activities has had on the community.
+  (d) describe any identified effects that any activity within the group of activities has had on the social, economic, environmental, or cultural well-being of the community.
 
 ### 24 Capital expenditure for groups of activities
 (1) An annual report must, in relation to each group of activities, include an audited statement comparing the capital expenditure budgeted by the local authority (as set out in the long-term plan or annual plan for the financial year) with the amount spent.
