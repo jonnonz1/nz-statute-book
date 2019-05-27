@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2019-02-28_
+_Consolidation as at 2019-05-27_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -1276,9 +1276,9 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
 
 ### 106 Membership
 (1) The Board comprises—
-  (a) 6 registered social workers (not being registered social workers whose registration is suspended); and
-  (b) 4 other people.
-(2) Before the transition day, the references in subsection (1)﻿(a) and clause 37 of Schedule 1 to registered social workers must be read as references to people engaged or employed as a social worker.
+  (a) 4 social workers (not being social workers whose registration or practising certificate is suspended); and
+  (b) 3 other people.
+(2)
 (3) Members of the Board are the board for the purposes of the Crown Entities Act 2004.
 
 ### 107 Additional information in annual report
