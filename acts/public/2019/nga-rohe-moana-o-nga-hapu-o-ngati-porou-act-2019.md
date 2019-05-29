@@ -1045,7 +1045,7 @@ A customary marine title hapū may not charge for the exercise of its rights und
   (d) the Minister for Māori Development; and
   (e) the chief executive of the Ministry of Justice; and
   (f) the chief executive of Land Information New Zealand; and
-  (g) the chief executive of the Department of Conservation.
+  (g) the Director-General.
 (5) The notice published in the Gazette—
   (a) is a disallowable instrument for the purposes of the Legislation Act 2012; and
   (b) must be presented to the House of Representatives under section 41 of that Act.
@@ -1076,7 +1076,7 @@ The following activities cannot be recognised as protected customary activities:
   (b) an activity that is a commercial aquaculture activity (within the meaning of section 4 of the Maori Commercial Aquaculture Claims Settlement Act 2004):
   (c) an activity that involves the exercise of—
     (i) any commercial Māori fishing right or interest, being a right or an interest declared by section 9 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 to be settled; or
-    (ii) any non-commercial Māori fishing right or interest, being a right or an interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992: or
+    (ii) any non-commercial Māori fishing right or interest, being a right or an interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992:
   (d) an activity that relates to—
     (i) wildlife within the meaning of the Wildlife Act 1953, or any animals specified in Schedule 6 of that Act; or
     (ii) marine mammals within the meaning of the Marine Mammals Protection Act 1978.
