@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2019-05-31_
 
 > Title
 
@@ -2299,6 +2299,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | Crown Infrastructure Partners Limited |  |  |  |  |  |
 | Education Payroll Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Health Benefits Limited | ✓ | ✓ | ✓ | ✓ |  |
+| New Zealand Green Investment Finance Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Ōtākaro Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Predator Free 2050 Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Research and Education Advanced Network New Zealand Limited | ✓ | ✓ | ✓ | ✓ |  |
