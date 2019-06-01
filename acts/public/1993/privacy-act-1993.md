@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2019-05-20_
+_Consolidation as at 2019-06-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1820,6 +1820,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Arts Council of New Zealand Toi Aotearoa Act 2014 | Section 12 |
 | Auditor Regulation Act 2011 | Section 38 |
 | Births, Deaths, Marriages, and Relationships Registration Act 1995 | Sections 5, 7(2), 8, 21B, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62A, and 62C |
+| Brokering (Weapons and Related Items) Control Act 2018 | Section 43 |
 | Building Act 2004 | Sections 216, 273, and 298 |
 | Building Societies Act 1965 | Section 121A |
 | Chartered Professional Engineers of New Zealand Act 2002 | Sections 16 to 19 |
