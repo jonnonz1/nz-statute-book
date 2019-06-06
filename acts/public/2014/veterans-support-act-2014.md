@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2019-06-06_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -2812,6 +2812,20 @@ In this Part,—
 (2) In determining for the purposes of section 161(1)﻿(b) or (2)﻿(a), 162(1)﻿(b) or (2)﻿(a), or 163(1)﻿(a) or (2)﻿(a) of this Act whether the person is eligible to receive New Zealand superannuation and, specifically whether he or she meets the residential qualification under section 8(c) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 (3) In determining for the purposes of section 163(1)﻿(c) of this Act whether a veteran, had he or she not died, would have been eligible to receive New Zealand superannuation and, specifically whether the veteran would have met the residential qualification under section 8(c) of the 2001 Act, the veteran’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 (4) In determining for the purposes of section 191(4)﻿(c) whether a person has met the residential qualification for New Zealand superannuation under section 8(c) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
+
+### Part 4 — Provision relating to Social Assistance Legislation (Budget 2019 Welfare Package) Amendment Act 2019
+
+### 21 Exercise of powers after enactment and before 1 April 2020
+(1) This clause applies to a power conferred by section 265(1)﻿(29A) (as that section is to be inserted by the Social Assistance Legislation (Budget 2019 Welfare Package) Amendment Act 2019).
+(2) The power may be exercised after the enactment of that Act and before the commencement on 1 April 2020 of that section.
+(3) If this clause is to be, or has been, relied on to exercise a power,—
+  (a) all other enactments relevant to the power’s exercise, and that have not yet commenced, must be treated as if they had commenced; and
+  (b) a legal position that would be conferred or imposed by an enactment relevant to the power’s exercise, and that has not yet commenced, must be treated as if it has accrued or been imposed.
+(4) Anything that results from the exercise of the power may take effect only on or after 1 April 2020.
+(5) However, that limit does not apply if the exercise of the power is necessary or desirable—
+  (a) to bring the power, and all other enactments relevant to the power’s exercise, into operation; or
+  (b) in connection with bringing the power, and all other enactments relevant to the power’s exercise, into operation; or
+  (c) to amend, revoke, or replace anything previously done in reliance on this clause.
 
 ## Schedule 2 — Entitlements
 
