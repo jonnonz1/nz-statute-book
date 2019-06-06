@@ -1,5 +1,5 @@
 # New Zealand Business Number Act 2016
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-06-06_
 
 ### 1 Title
 This Act is the New Zealand Business Number Act 2016.
@@ -323,13 +323,49 @@ If the Registrar makes any of the decisions referred to in section 34(1) and (2)
   (d) prescribing requirements for the purposes of section 13(2)﻿(b):
   (e) prescribing how notices and other information may or must be given to, or provided to, any person under this Act and other matters relating to that procedure (including when the information is treated as received, given, or provided, for the purposes of this Act and the regulations):
   (f) prescribing periods of time for the purpose of giving notices or other information, or within which any matter or thing must be done:
-  (g) specifying fees and charges payable, or the manner in which fees and charges payable may be calculated, for providing information to third parties under section 26:
+  (g)
   (h) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The Minister must, before making a recommendation in relation to—
   (a) subsection (1)﻿(a), (b), or (c), have regard to the advantages and disadvantages of enabling entities to readily ascertain their status for the purposes of this Act; and
   (b) subsection (1)﻿(c), in addition to the requirement under paragraph (a),—
     (i) consult the Registrar; and
     (ii) be satisfied that the declaration is necessary or desirable in order to uphold the integrity of the register.
+
+### 37A Regulations relating to fees and charges
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing fees and charges that the Registrar may require to be paid to the Registrar (or the rate at which, or the method by which, fees and charges are to be calculated) in connection with the performance or exercise by the Registrar of any function, power, or duty conferred by or under this Act.
+(2) The regulations may—
+  (a) prescribe the method of payment of a fee or charge; and
+  (b) authorise the Registrar to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee or charge in relation to any person or class of persons.
+(3) The Registrar may refuse to perform or exercise a function, power, or duty until the prescribed fee or charge is paid.
+(4) Any fee or charge payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Registrar.
+
+### 37B Regulations relating to levy
+(1) Every NZBN entity, or every NZBN entity that is included in a prescribed class of NZBN entities, must pay to the Crown, or a prescribed person on behalf of the Crown, a levy prescribed by regulations.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations providing for the levies.
+(3) Levies must be prescribed on the basis that the following costs should be met fully out of the levies:
+  (a) a portion of the costs of the Registrar in performing or exercising the Registrar’s functions, powers, and duties under this Act, where the size of the portion to be met by levies under this Act is determined by the Minister; and
+  (b) the costs of collecting the levy money.
+(4) Levies may be prescribed on the basis that any actual cost that could have been, but has not been, recovered as a levy shortfall for a year may be recovered (along with any financing charge) over any period of up to 5 years.
+(5) The regulations may—
+  (a) specify the class or classes of NZBN entities that are required to pay a levy:
+  (b) specify the amount of levies, or method of calculating or ascertaining the amount of levies:
+  (c) include in levies, or provide for the inclusion in levies of, any shortfall in recovering the actual costs:
+  (d) refund, or provide for refunds of, any over-recovery of the actual costs:
+  (e) provide for the payment and collection of levies:
+  (f) provide different levies for different classes of NZBN entity:
+  (g) specify the financial year or part financial year to which a levy applies, and apply that levy to that financial year or part financial year and each subsequent financial year until the levy is revoked or replaced:
+  (h) require payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
+  (i) provide for waivers or refunds of the whole or any part of a levy for any case or class of cases.
+(6) If an entity is in 2 or more classes of NZBN entities in respect of which different levies have been prescribed, the entity must pay each of those levies (unless the regulations provide otherwise).
+(7) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Registrar, or to any other person prescribed for the purposes of this subsection, on behalf of the Crown.
+
+### 37C Minister must consult about fee, charge, or levy regulations
+(1) Before recommending the making of regulations under section 37A or 37B, the Minister must consult—
+  (a) the persons that the Minister considers are able to represent the views of the NZBN entities that will be liable to pay a fee, charge, or levy under the proposed regulations; and
+  (b) any other representatives of persons who the Minister believes will be significantly affected by the proposed regulations.
+(2) Regulations made under section 37A or 37B are not invalid on the grounds that—
+  (a) subsection (1) was not complied with before the Minister recommended the making of the regulations; or
+  (b) the consultation carried out was about a specific rate or amount of a fee, charge, or levy that differs from the rate or amount set in the regulations.
 
 ### 38 Giving documents and doing other things in manner determined by Registrar
 (1) If this Act requires a document or notification to be given to the Registrar, or a thing to be done in a manner determined by the Registrar, that document or notification may be given and that thing may be done in the manner specified by the Registrar, who, for example, may require notification by electronic means or may specify any of the following matters:
