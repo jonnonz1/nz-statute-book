@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-06-06_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6083,13 +6083,16 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 
 ### 372 Fees
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing—
-  (a) fees or other amounts payable to the Registrar in respect of the performance of functions and the exercise of powers under this Act:
+  (a) fees or other amounts payable to the Registrar in respect of the performance or exercise of the Registrar’s functions, powers, and duties under this Act:
   (b) amounts payable to the Registrar by way of penalty for failure to deliver a document to the Registrar within the time prescribed by this Act:
   (c) fees or other amounts payable to the Registrar in respect of any other matter under this Act.
-(2) The Registrar may refuse to perform a function or exercise a power until the prescribed fee or amount is paid.
+(2) The Registrar may refuse to perform or exercise a function, power, or duty until the prescribed fee or amount is paid.
 (3) Any Order in Council made under subsection (1) may authorise the Registrar to waive, in whole or in part and on such conditions as may be prescribed, payment of any amount referred to in paragraph (b) of that subsection.
 (3A) If the Registrar declines to reserve a name or revokes the reservation of a name under section 22, the Registrar may remit the fee payable in respect of a subsequent application on behalf of the company to reserve a name.
 (3B) If the Registrar, under section 24(1), requires a company to change its name, no fee is payable in respect of an application for the reservation of a name or an application to change the name of the company.
+(3C) Regulations made under this section may authorise a fee, or a portion of a fee, payable under this section to be used to recover the costs, or a share of the costs, of the Registrar of New Zealand Business Numbers in the performance or exercise of the Registrar’s functions, powers, and duties under the New Zealand Business Number Act 2016.
+(3D) The costs recovered in accordance with subsection (3C), and the functions, powers, and duties in relation to which those costs were incurred, need not be related, directly or indirectly, to the company or companies from which the fee is collected.
+(3E) Subsections (3C) and (3D) and this subsection are repealed on 1 July 2023.
 (4) Any fee or amount payable to the Registrar is recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
 
 ## Part 21 — Offences and penalties
@@ -6603,6 +6606,13 @@ Amendment(s) incorporated in the Act(s).
 ### 401 References to companies incorporated under Companies Act 1955
 A reference in any enactment to a company incorporated under the Companies Act 1955 or to which that Act applies must, unless the context otherwise requires, be read as including a company registered under this Act or to which this Act applies.
 
+### 402 Validation of fee used to recover costs of Registrar of New Zealand Business Numbers
+(1) This section applies to a fee—
+  (a) payable or purportedly payable on or before 30 June 2019 in accordance with the Companies Act 1993 Regulations 1994; but
+  (b) that was (or is or will be) used (in whole or in part) to recover the costs, or a share of the costs, of the Registrar of New Zealand Business Numbers in the performance or exercise of a function, power, or duty conferred by or under the New Zealand Business Number Act 2016.
+(2) The fee is and always has been validly imposed by regulations made under section 372.
+(3) Money received by the Registrar of Companies in payment of the fee is and always has been lawfully collected and applied.
+
 ## Schedule 1AA — Transitional, savings, and related provisions
 
 ### Part 1 — Provisions relating to Regulatory Systems (Commercial Matters) Amendment Act 2017
@@ -7028,118 +7038,3 @@ The court may appoint a liquidator of an association under section 241 if the co
 The liquidator may enforce a liability of a person to pay or contribute to—
   (a) any debt or liability of an association; or
   (b) any amount for the adjustment of the rights of members of the association among themselves.
-
-### 1 Title
-This Act is the Companies Amendment Act 2006.
-
-### 2 Commencement
-This Act comes into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
-
-### 3 Principal Act amended
-This Act amends the Companies Act 1993.
-
-**Qualifications and supervision of liquidators**
-
-### 24 Qualifications of liquidators
-((1)–(4)) Amendment(s) incorporated in the Act(s).
-(5) Nothing in this section affects the qualification of a liquidator in office when this section came into force.
-
-**Voidable transactions**
-
-### 27 Transactions having preferential effect
-((1)–(4)) Amendment(s) incorporated in the Act(s).
-(5) Nothing in this section makes voidable a transaction that was completed before this section came into force, if that transaction would not have been voidable if this section had not come into force.
-
-**Schedule 7**
-
-### 40 Schedule 7 substituted
-(1) Amendment(s) incorporated in the Act(s).
-(2) If a liquidator is appointed to a company before this section comes into force, the property of the company must be applied in accordance with the priorities stated in Schedule 7 as if this section had not come into force.
-
-### 1 Title
-This Act is the Companies Amendment Act (No 2) 2006.
-
-### 2 Commencement
-(1) Sections 4(3), 5 to 13, 16, and 17, and the Schedule come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made bringing different provisions into force on different dates.
-(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act amended
-This Act amends the Companies Act 1993.
-
-### 5 Qualifications of directors
-(1) Amendment(s) incorporated in the Act(s).
-(2) If, immediately before the commencement of this section, a person is a director of a company and is subject to an order or notice of a kind referred to in section 151(2)﻿(eb) of the principal Act (as inserted by this section), the person is not disqualified from being a director of that company under that paragraph by reason of that order or notice.
-
-### 1 Title
-This Act is the Financial Reporting (Amendments to Other Enactments) Act 2013.
-
-### 2 Commencement
-(1) This Act comes into force on a date appointed by the Governor-General by Order in Council; and 1 or more orders may be made appointing different dates for different provisions and for different purposes.
-(2) To the extent that it is not previously brought into force under subsection (1), the rest of this Act comes into force on 1 April 2017.
-(3) In this section, provision includes any item, or any part of an item, in any of the schedules.
-
-**Amendments to Companies Act 1993**
-
-### 23 Principal Act
-Sections 24 to 43 amend the Companies Act 1993 (the principal Act).
-
-### 44 Transitional provision
-(1) The Companies Act 1993, as amended by sections 24 to 43, applies to a company or an overseas company in relation to accounting periods that commence on or after the commencement of this section.
-(2) The Companies Act 1993 and the Financial Reporting Act 1993 (and the regulations and order referred to in section 54(2) and (3)), as in force before the commencement of this section, continue to apply to a company or an overseas company in relation to accounting periods that commenced before the commencement of this section as if this Act and the Financial Reporting Act 2013 had not been enacted.
-(3) Unless the context otherwise requires, a reference to financial statements or group financial statements in the Companies Act 1993 (other than sections 200 to 207O) includes financial statements or group financial statements prepared under the Financial Reporting Act 1993 (whether under section 55 of the Financial Reporting Act 2013 or otherwise).
-(4) This section is subject to sections 55 and 56 of the Financial Reporting Act 2013 (which require issuers, on a transitional basis, to continue complying with the Financial Reporting Act 1993 and provide transitional rules for FMC reporting entities).
-
-### 1 Title
-This Act is the Companies Amendment Act 2014.
-
-### 2 Commencement
-(1) Except as provided in subsection (2), Parts 2 and 4 come into force 365 days after the date on which this Act receives the Royal assent unless they are earlier brought into force on a date appointed by the Governor-General by Order in Council.
-(2) Sections 58 and 59 and Schedule 2 come into force on a date appointed by the Governor-General by Order in Council.
-(3) For the purpose of subsection (2),—
-  (a) 1 or more orders may be made bringing different provisions into force on different dates and for different purposes; and
-  (b) provision includes any item, or any part of an item, in Schedule 2.
-(4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act amended
-This Act amends the Companies Act 1993.
-
-## Part 2 — One or more directors to live in New Zealand and other measures
-
-**Transitional provision relating to requirement for 1 or more directors to live in New Zealand, etc**
-
-### 25 Transitional provision relating to requirement for 1 or more directors to live in New Zealand, etc
-(1) Before the close of the 180th day after the commencement of this section, section 10(d)﻿(i) and (ii) of the principal Act do not apply to a company incorporated before the commencement of this section.
-(2) A company incorporated before the commencement of this section that does not comply with the requirements in section 10(d)﻿(i) or (ii) of the principal Act must, before the close of the 180th day after the commencement of this section, do the following in order to comply with those requirements:
-  (a) arrange for a director who complies with the requirements in section 10(d)﻿(i) or (ii) of the principal Act; and
-  (b) in the manner required by the Registrar, notify the Registrar of the following:
-    (i) that a director complies with the requirements in section 10(d)﻿(i) or (ii) of the principal Act; and
-    (ii) the information required under section 12(2)﻿(b)﻿(i) to (iii) in relation to that director.
-(3) If a company fails to comply with subsection (2), the company does not comply with section 10 of the principal Act (see section 318(1)﻿(aaa) of the principal Act).
-
-**Transitional provision relating to directors' date and place of birth information and company's ultimate holding company information**
-
-### 26 Transitional provision relating to directors' date and place of birth information and company's ultimate holding company information
-(1) A company incorporated before the commencement of this section must provide the Registrar with the following information (at the time and in the manner required by the Registrar):
-  (a) the date and place of birth of each director; and
-  (b) the company's ultimate holding company information.
-(2) If a company fails to comply with subsection (1),—
-  (a) the company commits an offence and is liable on conviction to the penalty set out in section 373(2) of the principal Act; and
-  (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2) of the principal Act.
-(3) Sections 373(2), 374(2), and 375 to 380 of the principal Act apply as if this section were a section of the principal Act.
-
-## Part 3 — Arrangements and amalgamations of code companies
-
-**Transitional provision relating to amendments to Part 13 of principal Act**
-
-### 29 Transitional provision relating to amendments to Part 13 of principal Act
-(1) An amalgamation proposal involving 1 or more code companies that has been approved by the boards of all amalgamating companies in accordance with section 221(1) of the principal Act before the commencement of section 28 of this Act is to be continued as if section 28 of this Act had not been enacted, except if the amalgamation takes effect on or after the 180th day after the commencement of section 28 of this Act.
-(2) Section 28 of this Act applies to both—
-  (a) an amalgamation described in subsection (1) that takes effect on or after the 180th day after the commencement of section 28; and
-  (b) any other amalgamation proposal that has not been approved by the boards of all companies in accordance with section 221(1) of the principal Act before the commencement of section 28.
-(3) In this section, takes effect, in respect of an amalgamation, means the date when the amalgamation takes effect in accordance with sections 224 and 225 of the principal Act.
-
-**Transitional provision relating to amendments to Part 15 of principal Act**
-
-### 34 Transitional provision relating to amendments to Part 15 of principal Act
-(1) An application for an order under section 236(1) of the principal Act that has been made before the commencement of section 30 of this Act is to be continued and determined as if section 30 of this Act had not been enacted.
-(2) Section 236A of the principal Act, as inserted by section 30 of this Act, applies to any application for an order under section 236(1) of the principal Act that is made after the commencement of section 30 of this Act.
