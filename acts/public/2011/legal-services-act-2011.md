@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-06-10_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -26,7 +26,7 @@ The purpose of this Act is to promote access to justice by establishing a system
     (a) as defined in Schedule 1; or
     (b) as defined in regulations if the person is charged with or convicted of a prescribed offence
   - **civil proceedings** includes—
-    (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Domestic Violence Act 1995, the Care of Children Act 2004, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
+    (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Domestic Violence Act 1995, the Care of Children Act 2004, the Canterbury Earthquakes Insurance Tribunal Act 2019, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
     (b) proceedings under the Oranga Tamariki Act 1989, other than proceedings in respect of an offence; and
     (c) despite paragraph (b), proceedings under Part 2 of the Oranga Tamariki Act 1989 on the ground specified in section 14(1)﻿(e) of that Act
   - **Commissioner** means the Legal Services Commissioner appointed under section 70
@@ -159,6 +159,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (n) any proceedings or application under or in relation to the Immigration Act 1987 for which legal aid could have been granted under any of paragraphs (j), (k), (l), and (m) of section 7(1) of the Legal Services Act 2000 as in force before their repeal by the Immigration Act 2009:
   (o) all applications, submissions, and appeals under the Resource Management Act 1991 or to the Environment Court under any other Act:
   (p) all applications, submissions, and appeals to any Council or body in any case where an appeal in relation to its decision lies to the Environment Court:
+  (pa) proceedings before the tribunal under the Canterbury Earthquakes Insurance Tribunal Act 2019:
   (q) proceedings before the tribunal under the Weathertight Homes Resolution Services Act 2006:
   (r) proceedings before a Tribunal under subpart 2 of Part 2 of the Prisoners' and Victims' Claims Act 2005 in respect of 1 or more victims' claims under that subpart.
 (2) To avoid any doubt, subsection (1)﻿(e)﻿(v) applies, without limitation, to the following proceedings:
