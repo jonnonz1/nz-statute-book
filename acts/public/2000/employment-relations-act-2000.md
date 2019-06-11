@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2019-05-06_
+_Consolidation as at 2019-06-11_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -2745,7 +2745,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (b) did not result in the employee being treated unfairly.
 
 ### 104 Discrimination
-(1) For the purposes of section 103(1)﻿(c), an employee is discriminated against in that employee's employment if the employee's employer or a representative of that employer, by reason directly or indirectly of any of the prohibited grounds of discrimination specified in section 105, or involvement in the activities of a union in terms of section 107,—
+(1) For the purposes of section 103(1)﻿(c), an employee is discriminated against in that employee's employment if the employee's employer or a representative of that employer, by reason directly or indirectly of any of the prohibited grounds of discrimination specified in section 105, or the employee’s union membership status or involvement in union activities in terms of section 107,—
   (a) refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially similar qualifications, experience, or skills employed in the same or substantially similar circumstances; or
   (b) dismisses that employee or subjects that employee to any detriment, in circumstances in which other employees employed by that employer on work of that description are not or would not be dismissed or subjected to such detriment; or
   (c) retires that employee, or requires or causes that employee to retire or resign.
@@ -2794,9 +2794,11 @@ An employee who believes that he or she has a personal grievance may pursue that
   (a) anything done or omitted for any of the reasons set out in paragraph (a) or paragraph (b) of section 73(1) of the Human Rights Act 1993 (which relate to measures to ensure equality); or
   (b) preferential treatment granted by reason of any of the reasons set out in paragraph (a) or paragraph (b) of section 74 of the Human Rights Act 1993 (which relate to pregnancy, childbirth, or family responsibilities); or
   (c) retiring an employee or requiring or causing an employee to retire at a particular age that has effect by virtue of section 149(2) of the Human Rights Act 1993 (which is a savings provision in relation to retirement ages specified in certain employment contracts).
+(4) Despite section 104, an employee is not discriminated against in that employee’s employment simply because the employee’s employment agreement or terms and conditions of employment are different from those of another employee employed by the same employer by reason of the employee being a member of a union.
+(5) Section 104 must be read subject to section 9(3).
 
-### 107 Definition of involvement in activities of union for purposes of section 104
-(1) For the purposes of section 104, involvement in the activities of a union means that, within 12 months before the action complained of, the employee—
+### 107 Definition of union membership status or involvement in union activities for purposes of section 104
+(1) For the purposes of section 104, involvement in union activities means that, within the 18 months before the action complained of, the employee—
   (a) was an officer of a union or part of a union, or was a member of the committee of management of a union or part of a union, or was otherwise an official or representative of a union or part of a union; or
   (b) had acted as a negotiator or representative of employees in collective bargaining; or
   (ba) had participated in a strike lawfully; or
@@ -2805,6 +2807,9 @@ An employee who believes that he or she has a personal grievance may pursue that
   (e) had submitted another personal grievance to that employee's employer; or
   (f) had been allocated, had applied to take, or had taken any employment relations education leave under this Act; or
   (g) was a delegate of other employees in dealing with the employer on matters relating to the employment of those employees.
+(2) For the purposes of section 104, union membership status means that, within the 18 months before the action complained of, the employee—
+  (a) was a member of a union; or
+  (b) intended to join a union.
 (2)
 
 ### 108 Sexual harassment
@@ -2923,7 +2928,7 @@ Where a personal grievance involves allegations of sexual harassment, no account
 ### 119 Presumption in discrimination cases
 (1) Subsection (2) applies if, in any matter before the Authority or the court,—
   (a) the employee establishes that the employer or the employer's representative took any action or omitted any action as described in any of paragraphs (a) to (c) of section 104(1) in relation to that employee; and
-  (b) if it is a case where the employee alleges that the discrimination was by reason directly or indirectly of the employee's involvement in the activities of a union, the employee establishes that he or she was a person described in section 107.
+  (b) if it is a case where the employee alleges that the discrimination was by reason directly or indirectly of the employee's union membership status or involvement in union activities, the employee establishes that he or she was a person described in section 107.
 (2) If this subsection applies, there is a rebuttable presumption that the employer or representative of the employer discriminated against the employee on the grounds, or for the reason, specified in section 104(1) and alleged by the employee.
 
 ### 120 Statement of reasons for dismissal
