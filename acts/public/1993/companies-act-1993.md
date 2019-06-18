@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2019-06-06_
+_Consolidation as at 2019-06-18_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6574,10 +6574,14 @@ A requirement imposed by any provision of this Act that directors of a company m
   (ca) prescribing countries, States, or territories outside New Zealand for the purposes of section 151(2)﻿(eb):
   (caa) prescribing countries, States, or territories outside New Zealand for the purposes of section 151(2)﻿(ec):
   (cb) prescribing requirements for the preparation of concise annual reports:
+  (cba) prescribing information that must be contained in a report or statement for the purpose of—
+    (i) section 239ACZB(3), 243A(2), 255(2)﻿(c)﻿(ii), 255(2)﻿(d), 257(1)﻿(a), or 257(1)﻿(c); or
+    (ii) section 24(3) or 24A(2) of the Receiverships Act 1993, in relation to a receivership under that Act:
   (cc) prescribing countries, States, or territories outside New Zealand for the purposes of section 343A:
   (cd) prescribing classes of information or documents for the purposes of section 343A:
   (d) providing for such other matters as are contemplated by or necessary for giving effect to the provisions of this Act and for its due administration.
 (2) Different forms for the purposes of this Act may be prescribed for different classes of persons.
+(3) Regulations made under this section may provide for different regulations to apply in respect of different kinds or classes of persons or circumstances.
 
 ### 396 Summary Proceedings Act 1957 amended
 Amendment(s) incorporated in the Act(s).
