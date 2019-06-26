@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-06-26_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -235,6 +235,7 @@ _Consolidation as at 2019-04-01_
   - **initial late payment penalty** means a late payment penalty imposed under section 139B(2)﻿(a)
   - **Inland Revenue Acts** means the Acts specified in Schedule 1 of this Act, and includes any Acts (whether repealed or not) that before the commencement of this Act were specified in Schedule 1 of the Inland Revenue Department Act 1974
   - **instalment date** , in sections 120KB to 120KE, has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **integrity of the tax system** is defined in section 6(2)
   - **interest concession provisional taxpayer** is defined in section 120KBB(4) for the purposes of Part 7
   - **interest instalment date** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **interest liability period** is defined in section 121 for the purposes of that section
@@ -295,6 +296,7 @@ _Consolidation as at 2019-04-01_
   - **notify** —
     (a) means to give notice; and
     (b) for a mode of communication, has the meaning set out in section 14C or 14D, as appropriate
+  - **obvious error** is defined in section 6G for the purposes of Part 2, subpart 2B
   - **officer** , for the purposes of sections 89C, 141F, 141G, 142C, and 147 and the definition of taxpayer in section 157(10), in relation to a corporate body, includes—
     (a) a director or secretary or other statutory officer of the corporate body:
     (b) a receiver or a manager of any property of the corporate body, or a person having powers or responsibilities, similar to those of such a receiver or manager, in relation to the corporate body:
@@ -631,34 +633,164 @@ Except where there is express provision to the contrary,—For example, a refere
 
 ## Part 2 — Commissioner and department
 
+### Subpart 2A — Commissioner and department
+
 ### 5 Inland Revenue Department
 There shall continue to be a department of State, to be known as the Inland Revenue Department, which shall be the same department as the Inland Revenue Department continued under the Inland Revenue Department Act 1974.
 
-### 6 Responsibility on Ministers and officials to protect integrity of tax system
-(1) Every Minister and every officer of any government agency having responsibilities under this Act or any other Act in relation to the collection of taxes and other functions under the Inland Revenue Acts are at all times to use their best endeavours to protect the integrity of the tax system.
+### 5B Commissioner of Inland Revenue
+The person appointed as chief executive of the department under the State Sector Act 1988 is designated the Commissioner of Inland Revenue.
+
+### Subpart 2B — Care and management of tax system
+
+**Responsibilities and duties**
+
+### 6 Responsibility of Ministers and officials to protect integrity of tax system
+Best endeavours to protect integrity of tax system
+(1) Every Minister and every officer of any government agency having responsibilities under this Act or any other Act in relation to the collection of tax and for the other functions under the Inland Revenue Acts must at all times use their best endeavours to protect the integrity of the tax system.
+Meaning of integrity of tax system
 (2) Without limiting its meaning, the integrity of the tax system includes—
-  (a) taxpayer perceptions of that integrity; and
-  (b) the rights of taxpayers to have their liability determined fairly, impartially, and according to law; and
-  (c) the rights of taxpayers to have their individual affairs kept confidential and treated with no greater or lesser favour than the tax affairs of other taxpayers; and
-  (d) the responsibilities of taxpayers to comply with the law; and
-  (e) the responsibilities of those administering the law to maintain the confidentiality of the affairs of taxpayers; and
+  (a) the public perception of that integrity; and
+  (b) the rights of persons to have their liability determined fairly, impartially, and according to law; and
+  (c) the rights of persons to have their individual affairs kept confidential and treated with no greater or lesser favour than the tax affairs of other persons; and
+  (d) the responsibilities of persons to comply with the law; and
+  (e) the responsibilities of those administering the law to maintain the confidentiality of the affairs of persons; and
   (f) the responsibilities of those administering the law to do so fairly, impartially, and according to law.
 
-### 6A Commissioner of Inland Revenue
-(1) The person appointed as chief executive of the department under the State Sector Act 1988 is designated the Commissioner of Inland Revenue.
-(2) The Commissioner is charged with the care and management of the taxes covered by the Inland Revenue Acts and with such other functions as may be conferred on the Commissioner.
-(3) In collecting the taxes committed to the Commissioner's charge, and notwithstanding anything in the Inland Revenue Acts, it is the duty of the Commissioner to collect over time the highest net revenue that is practicable within the law having regard to—
+### 6A Commissioner’s duty of care and management
+Care and management
+(1) The Commissioner is charged with the care and management of the taxes covered by the Inland Revenue Acts and with such other functions as may be conferred on the Commissioner.
+Highest net revenue practicable within the law
+(2) In collecting the taxes committed to the Commissioner’s charge, and despite anything in the Inland Revenue Acts, it is the duty of the Commissioner to collect over time the highest net revenue that is practicable within the law having regard to—
   (a) the resources available to the Commissioner; and
-  (b) the importance of promoting compliance, especially voluntary compliance, by all taxpayers with the Inland Revenue Acts; and
-  (c) the compliance costs incurred by taxpayers.
+  (b) the importance of promoting compliance, especially voluntary compliance, by all persons with the Inland Revenue Acts; and
+  (c) the compliance costs incurred by persons.
 
 ### 6B Directions to Commissioner
-(1) The Governor-General may by Order in Council, and with due regard to sections 6 and 6A of this Act and the provisions of the State Sector Act 1988 and the Public Finance Act 1989, issue directions to the Commissioner in relation to the administration of the Inland Revenue Acts.
-(2) Subsection (1) does not authorise the giving of directions concerning the tax affairs of individual taxpayers or the interpretation of tax law.
-(3) Every order made under subsection (1) shall as soon as practicable after it is made—
-  (a) be published in the Gazette; and
+Order for directions
+(1) The Governor-General may, by Order in Council and with due regard to this subpart and the provisions of the State Sector Act 1988 and the Public Finance Act 1989, issue directions to the Commissioner in relation to the administration of the Inland Revenue Acts.
+Limitations
+(2) Subsection (1) does not authorise the giving of directions concerning the tax affairs of individual persons or the interpretation of tax law.
+Order published
+(3) Every order made under subsection (1) must, as soon as practicable after it is made,—
+  (a) be published in a publication chosen by the Commissioner; and
   (b) be laid before the House of Representatives together with any accompanying statement of the reasons for the order and any advice of the Commissioner in relation to it.
+Binding after 7 days
 (4) An order made under subsection (1) becomes binding on the Commissioner on the 7th day after the date on which it is made.
+
+**Remedial powers**
+
+### 6C Powers to modify provisions of Inland Revenue Acts
+Nature of remedial powers
+(1) Sections 6D to 6G set out remedial powers that provide for modifications to, and exemptions from, provisions of the Inland Revenue Acts to apply in certain circumstances and for a limited time. The powers are in addition to sections 6 and 6A.
+Purpose of remedial powers
+(2) The purpose of sections 6D to 6G is to provide flexibility to temporarily remedy or mitigate the effect of a provision of the Inland Revenue Acts by making a modification or granting an exemption when it is reasonably necessary—
+  (a) due to an obvious error in the provision:
+  (b) to give effect to the intended purpose or object of the provision, to resolve ambiguity, or to reconcile inconsistencies.
+General application
+(3) A modification or exemption applies generally unless it is expressly stated that it applies only to a particular class of persons or circumstances.
+Optional application
+(4) Despite subsection (3), a person to whom a modification or exemption is available may choose whether or not to apply the modification or exemption by the means set out in the modification or exemption under section 6D or 6E, as applicable.
+Effect of not applying modification or exemption
+(5) If a person chooses not to apply a modification or exemption, the law applies as if the modification or exemption did not exist in relation to the person.
+
+### 6D Modifications made by Order in Council
+Orders in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Revenue, modify the application of the Inland Revenue Acts by providing that a provision of the Inland Revenue Acts does not apply or applies with conditions.
+Content of modifications
+(2) A modification made under subsection (1)—
+  (a) must specify a period for which the modification applies; and
+  (b) must, despite section 6C(3), allow a person to whom the modification is available to choose whether or not to apply the modification by means set out in the modification; and
+  (c) may—
+    (i) be subject to terms and conditions:
+    (ii) state whether the modification applies generally or is limited to a particular class of persons or circumstances:
+    (iii) provide for transitional, savings, and related matters; and
+  (d) may be made by—
+    (i) stating an alternative means of complying with the provision:
+    (ii) substituting a discretionary power to be exercised by the Commissioner.
+Application periods for modifications
+(3) For the purposes of subsection (2)﻿(a), a period for which a modification applies—
+  (a) must end no later than the end of the second income year after the income year corresponding to the tax year in which the modification comes into force; and
+  (b) may include a period before the date on which the modification comes into force, but any period of retrospective application must not extend back more than 5 income years before the income year corresponding to the tax year in which the modification comes into force; and
+  (c) subject to paragraph (b), may include a period before the date on which this section comes into force.
+Opt-out or opt-in modifications permitted
+(4) For the purposes of subsection (2)﻿(b), a modification may provide that it applies to a person to whom it is available—
+  (a) unless the person chooses not to apply it; or
+  (b) only if the person chooses to apply it.
+Minister’s recommendations
+(5) Before making a recommendation referred to in subsection (1), the Minister of Revenue must be satisfied that—
+  (a) the modification is reasonably necessary to do 1 or more of the following:
+    (i) to remedy or mitigate the effect of an obvious error in a provision of the Inland Revenue Acts:
+    (ii) to give effect to the intended purpose or object of a provision of the Inland Revenue Acts, or to resolve ambiguity:
+    (iii) to reconcile an inconsistency between certain provisions of the Inland Revenue Acts, or between the relevant provision and an administrative practice of the Commissioner; and
+  (b) the modification does not materially affect the intended scope or effect of the provisions to which it applies; and
+  (c) the modification is not inconsistent with the intended purpose or object of the relevant provision; and
+  (d) the modification is the most appropriate way of addressing or resolving the issue at the time; and
+  (e) the extent of the modification is not broader than is reasonably necessary to address or resolve the issue that gave rise to it; and
+  (f) for a modification that applies to a person unless they choose not to apply it, the person has a reasonable opportunity to choose not to apply it; and
+  (g) a consultative process has been undertaken as described in section 6F, unless the Minister has dispensed with the consultative process under section 6F(3); and
+  (h) making the modification will not, in substance, have the effect of extending the period for which a modification previously made under this section, or an exemption previously granted under section 6E, applies.
+Publication of modifications
+(6) The Minister’s reasons for recommending a modification, and an explanation of the way in which the modification complies with this section, must be published together with the modification.
+
+### 6E Exemptions granted by Commissioner
+Exemptions
+(1) Subject to subsection (2), the Commissioner may grant an exemption from a provision of the Inland Revenue Acts if the Commissioner is satisfied that the exemption is reasonably necessary to do 1 or more of the following:
+  (a) to remedy or mitigate the effect of an obvious error in a provision of the Inland Revenue Acts:
+  (b) to give effect to the intended purpose or object of a provision of the Inland Revenue Acts, or to resolve ambiguity:
+  (c) to reconcile an inconsistency between certain provisions of the Inland Revenue Acts, or between the relevant provision and an administrative practice of the Commissioner.
+Limitations
+(2) The Commissioner may grant the exemption only if the Commissioner is satisfied that—
+  (a) the exemption—
+    (i) does not materially affect the intended scope or effect of the provisions to which it applies; and
+    (ii) is not inconsistent with the intended purpose or object of the relevant provision; and
+    (iii) has no, or has only negligible, fiscal implications for the Crown; and
+    (iv) is the most appropriate way of addressing or resolving the issue at the time; and
+  (b) the extent of the exemption is not broader than is reasonably necessary to address or resolve the issue that gave rise to it; and
+  (c) for an exemption that applies to a person unless they choose not to apply it, the person has a reasonable opportunity to choose not to apply it; and
+  (d) a consultative process has been undertaken as described in section 6F, unless the Commissioner has dispensed with the consultative process under section 6F(3); and
+  (e) granting the exemption will not, in substance, have the effect of extending the period for which a modification previously made under section 6D, or an exemption previously granted under this section, applies.
+Content of exemptions
+(3) An exemption made under subsection (1)—
+  (a) must specify a period for which the exemption applies; and
+  (b) must, despite section 6C(3), allow a person to whom the exemption is available to choose whether or not to apply the exemption by means set out in the exemption; and
+  (c) may—
+    (i) include terms and conditions as the Commissioner thinks fit:
+    (ii) state whether the exemption applies generally or is limited to a particular class of persons or circumstances:
+    (iii) provide for transitional, savings, and related matters.
+Application periods for exemptions
+(4) For the purposes of subsection (3)﻿(a), a period for which an exemption applies—
+  (a) must end no later than the end of the second income year after the income year corresponding to the tax year in which the exemption comes into force; and
+  (b) may include a period before the date on which the exemption comes into force, but any period of retrospective application must not extend back further than the start of the income year corresponding to the tax year in which the exemption comes into force; and
+  (c) subject to paragraph (b), may include a period before the date on which this section comes into force.
+Opt-out or opt-in exemptions permitted
+(5) For the purposes of subsection (3)﻿(b), an exemption may provide that it applies to a person to whom it is available—
+  (a) unless the person chooses not to apply it; or
+  (b) only if the person chooses to apply it.
+Publication of exemptions
+(6) The Commissioner’s reasons for granting an exemption, and an explanation of the way in which the exemption complies with this section, must be published together with the exemption.
+Status of exemptions
+(7) An exemption is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012, and must be presented to the House of Representatives under section 41 of that Act.
+
+### 6F Consultation on proposed modifications and exemptions
+Consultative process
+(1) Before the Minister of Revenue recommends that a modification be made under section 6D, or the Commissioner grants an exemption under section 6E, a consultative process must be undertaken that includes the distribution, to persons or representatives of persons that it is considered reasonable to consult for the particular purpose, of—
+  (a) the proposed modification or exemption, as applicable; and
+  (b) an explanation of the way in which, as applicable,—
+    (i) the modification would comply with the requirements of section 6D(5):
+    (ii) the exemption would comply with the requirements of section 6E(2).
+Period of consultation
+(2) The consultative process must provide a period of consultation of at least 6 weeks.
+Cases of urgency
+(3) Despite subsections (1) and (2), the Minister or Commissioner, as applicable, may, if satisfied that a case of urgency exists, either reduce the period of consultation or dispense with the consultative process in relation to a modification or an exemption.
+
+### 6G Meaning of obvious error
+For the purposes of this subpart, obvious error means an error of a type that arises only if—
+  (a) the intended purpose or object of the relevant provision is clear; and
+  (b) the intended purpose or object cannot be carried into effect by the relevant provision; and
+  (c) the substance of the provision that Parliament would have made, had the error become known or had the circumstances been allowed for, is clear.
+
+### Subpart 2C — Functions and powers of Commissioner
 
 ### 7 Delegation of powers by Commissioner
 (1) The Commissioner may delegate in accordance with sections 41 and 42 of the State Sector Act 1988 any of the Commissioner's functions or powers under this Act or any other Act (including functions or powers delegated to the Commissioner under this Act or any other Act), except that—
@@ -722,6 +854,8 @@ There shall continue to be a department of State, to be known as the Inland Reve
 ### 13C Annual report
 (1) The Commissioner shall, as soon as practicable after the close of each financial year, furnish to the Minister a report on the administration of the Inland Revenue Acts during the financial year.
 (2) Every such report shall be laid before Parliament as soon as practicable after it has been received by the Minister.
+
+### Subpart 2D — Modes of communication
 
 ### 14 Modes of communication: general provisions
 (1) Sections 14B to 14E apply for the purposes of this Act, the Income Tax Act 2007, and the Goods and Services Tax Act 1985, unless the context requires otherwise, to set out what is meant when a person (person A) gives information to, or communicates with, another person (person B) by—
@@ -918,7 +1052,7 @@ Meaning of sensitive revenue information
   (a) means revenue information that relates to the affairs of a person or entity—
     (i) that identifies, or is reasonably capable of being used to identify, the person or entity, whether directly or indirectly; or
     (ii) that might reasonably be regarded as private, commercially sensitive, or otherwise confidential; or
-    (iii) the release of which could result in loss, harm, or prejudice to a person to whom or to which it relates:
+    (iii) the release of which could result in loss, harm, or prejudice to a person to whom, or an entity to which, it relates:
   (b) does not include aggregate or statistical data that may contain information about the person or entity to the extent to which the information does not meet the requirements of paragraph (a).
 Meaning of revenue officer
 (4) For the purposes of this subpart and schedule 7, a revenue officer—
@@ -1011,7 +1145,7 @@ Warrants for removal of documents
 Exercising warrants
 (4) A person exercising the power of entry conferred by a warrant issued under subsection (2) or a warrant for removal of a document under subsection (3) must produce the warrant and evidence of their identity on first entering the private dwelling or the place and whenever subsequently reasonably required to do so.
 Relationship with Search and Surveillance Act 2012
-(5) For the purposes of this section, and in section 17(3), the provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of that Act, other than sections 102, 103(3)﻿(b)﻿(ii), 103(4)﻿(g), 103(7), 115(1)﻿(b), 118, 119, and 130(4) apply.
+(5) For the purposes of this section, and of sections 17 and 17C(1)﻿(d), (3), (5), and (6), the provisions of subparts 1, 3, 4, 7, 9, and 10 of Part 4 of that Act, other than sections 102, 103(3)﻿(b)﻿(ii), 103(4)﻿(g), 103(7), 115(1)﻿(b), 118, 119, and 130(4) apply.
 Definition for this section
 (6) In this section, issuing officer has the meaning given in section 3 of that Act.
 
@@ -1023,7 +1157,7 @@ Non-residents
     (ii) is a controlled foreign company and is associated with the New Zealand resident:
   (b) a law of a foreign country that relates to the secrecy of information is ignored.
 Large multinational groups
-(2) For the purposes of sections 17B(1), 139AB, 143(2), and 143A(2), information or a document is treated as being in the knowledge, possession, or control of a member of a large multinational group in an income year, disregarding any law of a foreign country relating to the secrecy of information, if the information or document is relevant to the taxation of the large multinational group and is in the knowledge, possession, or control of the member or another member of the large multinational group.
+(2) For the purposes of sections 17B(1) and 139AB, information or a document is treated as being in the knowledge, possession, or control of a member of a large multinational group in an income year, disregarding any law of a foreign country relating to the secrecy of information, if the information or document is relevant to the taxation of the large multinational group and is in the knowledge, possession, or control of the member or another member of the large multinational group.
 
 **Particular information demands and inquiries**
 
@@ -1569,7 +1703,7 @@ An information holder who is required to disclose information in relation to a p
   (m) the financial position of the foreign trust; and
   (n) adjusted net income under the Student Loan Scheme Act 2011,—
 (2BA) A taxpayer required by subsection (2) to keep and retain a record must keep and retain the record—
-  (a) in English, or in a language in which the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record; and
+  (a) in English or te reo Maori, or in a language in which the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record; and
   (b) at a place in New Zealand, or at a place outside New Zealand where—
     (i) the Commissioner authorises the taxpayer under subsection (8) to keep the record or the type of record:
     (ii) the record is kept by a person authorised by the Commissioner under subsection (8) to keep records for taxpayers that include the taxpayer.
@@ -1600,7 +1734,7 @@ An information holder who is required to disclose information in relation to a p
   (e) for the purposes of subsection (2)﻿(kc), other documents evidencing research and development activities.
 (8) The Commissioner may, upon application by the taxpayer or person, authorise for the purposes of subsection (2BA),—
   (a) a taxpayer to keep and retain a record or type of record—
-    (i) in a language other than English:
+    (i) in a language other than English or te reo Maori:
     (ii) at a place outside New Zealand:
   (b) a person to hold, for taxpayers, records—
     (i) at places outside New Zealand; and
@@ -1634,8 +1768,8 @@ An information holder who is required to disclose information in relation to a p
   (c) employment income information that has been provided to the Commissioner.
 
 ### 22A Records required under subpart EW of Income Tax Act 2007
-(1) A taxpayer who applies section EW 18 of the Income Tax Act 2007 and who does not use a market approved by the Commissioner under section 90AC(1)﻿(c) must keep, in English, records sufficient to enable the Commissioner to verify that the market value adopted is reliable.
-(2) A taxpayer who applies section EW 26(2) of the Income Tax Act 2007 must keep, in English, records sufficient to enable the Commissioner to verify that their reason for changing spreading methods was a sound commercial one.
+(1) A taxpayer who applies section EW 18 of the Income Tax Act 2007 and who does not use a market approved by the Commissioner under section 90AC(1)﻿(c) must keep, in English or te reo Maori, records sufficient to enable the Commissioner to verify that the market value adopted is reliable.
+(2) A taxpayer who applies section EW 26(2) of the Income Tax Act 2007 must keep, in English or te reo Maori, records sufficient to enable the Commissioner to verify that their reason for changing spreading methods was a sound commercial one.
 (3) A taxpayer required to retain records must—
   (a) take all reasonable precautions for the safe custody of those records; and
   (b) retain those records for 7 years after the end of the year that the records relate to, unless:
@@ -1648,7 +1782,7 @@ An information holder who is required to disclose information in relation to a p
   (b) the Commissioner intends to conduct an audit or investigation before the expiry of the retention period as extended, or is actively considering an audit or investigation.
 
 ### 22B Further records required
-(1) A trustee to whom either section EW 44 or EZ 39 of the Income Tax Act 2007 applies must keep, in English, records of—
+(1) A trustee to whom either section EW 44 or EZ 39 of the Income Tax Act 2007 applies must keep, in English or te reo Maori, records of—
   (a) the amounts of debt forgiven by creditors; and
   (b) amounts distributed to the trust's beneficiaries.
 (2) A trustee required to retain records must—
@@ -1854,8 +1988,8 @@ Requirements
 (3) The requirements relating to a form or a means of communication may relate to an employer or a class of employers, and may be subject to the conditions specified by the Commissioner, whether generally or in a specific case.
 Requirements for twice-monthly delivery
 (4) For the purposes of the delivery of employment income information, a requirement to deliver the information twice-monthly means that, in determining the date on which the information may be delivered, a payment or benefit is treated as being paid or received on a day in or, at the latest, by the last day of—
-  (a) the first payment period in a month when the relevant day falls between the 1st and 15th days of the month; or
-  (b) the second payment period in a month when the relevant day falls between the 16th and last day of the month.
+  (a) the first payment period in a month when the relevant day falls in the period that starts on the 1st day of the month and ends on the 15th day of the month; or
+  (b) the second payment period in a month when the relevant day falls in the period that starts on the 16th day of the month and ends on the last day of the month.
 
 ### 23D Employers’ groups for delivery of information
 Groups
@@ -1899,8 +2033,8 @@ Elections for other dates
 (3) For the purposes of subsection (2)﻿(b), an employer in the non-electronic group may choose to treat the payday as—
   (a) the day on which the employer makes a PAYE income payment to an employee; or
   (b) 1 of the following, as applicable:
-    (i) for an amount paid or benefit provided between the 1st and 15th days of a month, the 15th of the month; and
-    (ii) for an amount paid or benefit provided between the 16th and last day of the month, the last day of the month.
+    (i) for an amount paid or benefit provided in the period that starts on the 1st day of a month and ends on the 15th day of the month, the 15th of the month; and
+    (ii) for an amount paid or benefit provided in the period that starts on the 16th day of the month and ends on the last day of the month, the last day of the month.
 Delivery for twice-monthly option
 (4) An employer who chooses to use, as a payday, a day referred to in subsection (3)﻿(b)﻿(i) or (ii), must deliver the employment income information set out in schedule 4, table 1, rows 4 to 6 for each payment made or benefit provided in the relevant period.
 Requirements
@@ -2205,21 +2339,21 @@ The Commissioner may vary the requirements of section 24B and schedule 5, part A
 (11) In this section, a dividend that is resident passive income paid by an RWT proxy as described in section RE 3(1)﻿(c) of the Income Tax Act 2007 is treated as being interest.
 
 ### 26 Records to be kept for RWT purposes
-(1) Every person required, in accordance with the RWT rules, to pay RWT for resident passive income paid to or derived (as applicable) by any other person shall keep in English proper records sufficient to enable the Commissioner to ascertain readily at any time the following information in relation to each amount of resident passive income:
+(1) Every person required, in accordance with the RWT rules, to pay RWT for resident passive income paid to or derived (as applicable) by any other person shall keep in English or te reo Maori proper records sufficient to enable the Commissioner to ascertain readily at any time the following information in relation to each amount of resident passive income:
   (a) the amount of the resident passive income before withholding RWT:
   (b) the amount of RWT withheld:
   (c) the date on which the RWT was required to be withheld:
   (d) the full name and last known address of the recipient of the payment or the person deriving the resident passive income, as applicable:
   (e) in the case of a payment of interest, any number used by the person to identify the financial arrangement in relation to which the interest was paid:
   (f) such other information as the Commissioner may require.
-(2) Every person liable under the Income Tax Act 2007 to pay RWT for an amount of resident passive income paid to or derived (as applicable) by any other person had that other person not held an RWT exemption certificate given under section RE 27 of that Act shall keep in English proper records in relation to such amount sufficient to enable the Commissioner to ascertain readily at any time the following information in relation to each such amount:
+(2) Every person liable under the Income Tax Act 2007 to pay RWT for an amount of resident passive income paid to or derived (as applicable) by any other person had that other person not held an RWT exemption certificate given under section RE 27 of that Act shall keep in English or te reo Maori proper records in relation to such amount sufficient to enable the Commissioner to ascertain readily at any time the following information in relation to each such amount:
   (a) the amount and the date upon which the payment of RWT would have been required; and
   (b) the full name and last known address of the other person; and
   (c) the other person's tax file number.
 (3) Every person required to keep records by virtue of the application of subsections (1) and (2) shall record at the end of each year, in relation to each recipient to whom interest or dividends treated as interest were paid by that person during that year, sufficient information to enable the Commissioner to ascertain readily—
   (a) the total amount of interest and dividends treated as interest paid; and
   (b) details of all other financial arrangements under which interest has been paid by that person to that recipient at any time during that year.
-(4) Every person required by section 52 or section 54 to provide information to the Commissioner shall keep in English proper records to allow verification readily by the Commissioner of such information.
+(4) Every person required by section 52 or section 54 to provide information to the Commissioner shall keep in English or te reo Maori proper records to allow verification readily by the Commissioner of such information.
 (5) Every person required by this section to retain records shall—
   (a) take all reasonable precautions for the safe custody of all records that the person is required to keep under this section; and
   (b) retain those records for not less than 7 years after the end of the year in which were made the payments to which they relate, except to the extent that—
@@ -2227,7 +2361,7 @@ The Commissioner may vary the requirements of section 24B and schedule 5, part A
     (ii) those records are required by law to be delivered to any other person; or
     (iii) the person is a company which has been liquidated; and
   (c) where the Commissioner so notifies the person in accordance with subsection (7), retain such of those records as may be specified by the Commissioner for such further period as the Commissioner may specify under that subsection.
-(6) The Commissioner may, on application made in that behalf, authorise any person, by notice, to keep such records required by this section as the Commissioner determines in a language other than English.
+(6) The Commissioner may, on application made in that behalf, authorise any person, by notice, to keep such records required by this section as the Commissioner determines in a language other than English or te reo Maori.
 (7) The Commissioner may, by notice given before the expiry of the 7-year retention period specified in subsection (5), require a person to retain any records specified by the Commissioner for a further period not exceeding 3 years following the expiry of the 7-year period where—
   (a) the affairs of the person are or have been under audit or investigation by the Commissioner; or
   (b) the affairs of any person to whom the records relate are or have been under audit or investigation by the Commissioner; or
@@ -3014,7 +3148,7 @@ A person that uses the AIM method as described in section RC 5(5B) of the Income
   (j) the amount of Maori authority credits used to meet the liability for RSCT on the retirement scheme contribution; and
   (k) the amount of RSCT remaining owing on the retirement scheme contribution after the use of imputation credits and Maori authority credits; and
   (l) the amount of RSCT on the retirement scheme contribution paid other than by the use of imputation credits and Maori authority credits; and
-  (m) the tax file number, if a rate of less than 39% is used to calculate the RSCT on a retirement scheme contribution; and
+  (m) the tax file number, if a rate of less than 33% is used to calculate the RSCT on a retirement scheme contribution; and
   (n) the amount of the imputation credits or Maori authority credits attached to the retirement scheme contribution that are not used to meet the liability for RSCT; and
   (o) the total amount of NRWT payable on retirement scheme contributions; and
   (p) the amount of each retirement scheme contribution that is non-resident passive income; and
@@ -4886,12 +5020,12 @@ In this Part—
   (e) whether a person is a unit trust:
   (f) whether a person is a portfolio investment entity.
 (2) The Commissioner may make a binding ruling on whether an item of property is—
-  (a) trading stock as that term is defined in section YA 1 of that Act:
+  (a) trading stock as that term is defined in section YA 1 of the Income Tax Act 2007:
   (b) revenue account property as that term is defined in section YA 1 of that Act.
 (3) The Commissioner may make a binding ruling as to whether—
-  (a) an amount that a person derives from disposing of personal property is income of the person under section CB 4 of that Act:
+  (a) an amount that a person derives from disposing of personal property is income of the person under section CB 4 of the Income Tax Act 2007:
   (b) an amount that a person derives from disposing of land is income of the person under section CB 6 or CB 7 of that Act:
-  (c) despite paragraph (b) of the definition of proscribed question, the test of principal purpose of making taxable supplies in sections 5(13A), 10(3A), 20A(4), and 21HB(1) of the Goods and Services Tax Act 1985 is met.
+  (c)
 (4) Despite sections 91E to 91EJ, and 91F to 91FK, a binding ruling made under this section does not require a reference to an arrangement in order for the application of the ruling to be effective.
 
 ### 91CC Binding rulings on certain determination matters
@@ -5008,6 +5142,7 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
   (b) only for the period or tax year for which the ruling applies.
 (2) A private ruling does not apply to a person in relation to a tax type for an arrangement, to the extent to which, in relation to the tax type—
   (a) the arrangement is materially different from the arrangement identified in the ruling; or
+  (ab) the circumstances are materially different from the circumstances described in the ruling; or
   (b) there was a material omission or misrepresentation in, or in connection with, the application for the ruling; or
   (c) the private ruling states an assumption that the Commissioner made about a future event or other matter, and the assumption subsequently proves to be materially incorrect; or
   (d) the Commissioner stipulates a condition that is not satisfied.
@@ -7530,8 +7665,10 @@ The due date for payment, by a member of a large multinational group, of a penal
   (c) both.
 
 ### 143C Offences related to disclosure of sensitive revenue information by revenue officers
-(1) A person who knowingly acts in contravention of a provision of section 18(1) or discloses revenue information in the circumstances described in section 18(3) commits an offence against this Act.
-(2) A person who is convicted of an offence under subsection (1) is liable to—
+(1) A revenue officer commits an offence against this Act if they—
+  (a) knowingly act in contravention of section 18(1):
+  (b) disclose revenue information knowing that it may adversely affect the integrity of the tax system or prejudice the maintenance of the law.
+(2) A revenue officer who is convicted of an offence under subsection (1) is liable to—
   (a) imprisonment for a term not exceeding 6 months; or
   (b) a fine not exceeding $15,000; or
   (c) both.
@@ -8666,10 +8803,10 @@ The information in section 185I(1)﻿(a) and (b) must be provided to the New Zea
 
 ### 185O Application of Common Reporting Standard
 (1) This section provides for the application of the CRS standard in determining the requirements for a person or entity under the Inland Revenue Acts.
-(2) The CRS standard is modified for the purposes of determining the requirements for a person or entity under the Inland Revenue Acts in the ways specified in Schedule 2.
+(2) The CRS standard is modified for the purposes of determining the requirements for a person or entity under the Inland Revenue Acts in the ways specified in Schedule 2, part 1.
 (3) The CRS standard is treated as applying at a time—
   (a) as modified by subsection (2); and
-  (b) consistently with the Commentary on the CRS standard contained in Part IIIB of the CRS publication, as amended at the time.
+  (b) consistently with the Commentary on the CRS standard contained in Part IIIB of the CRS publication, as amended at the time and as modified and clarified in the ways specified in schedule 2, part 2.
 (4) In the application of the CRS standard at a time, a term defined in the CRS standard and used in the Inland Revenue Acts has the meaning that it has at the time under the CRS standard, as modified by subsection (2).
 (5) A person or entity may make an election that is consistent with the CRS standard if the election is not contrary to the Inland Revenue Acts.
 (6) A person or entity that makes an election referred to in subsection (5) must meet the requirements of the CRS applied standard consistently with the election.
@@ -9090,6 +9227,10 @@ The person who, on 1 April 1995, holds office as Commissioner of Inland Revenue 
 
 ## Schedule 2 — Application of CRS standard
 
+### Part 1 — Items modifying CRS standard
+
+### Part 2 — Items modifying and clarifying Commentary on the CRS standard
+
 ## Schedule 3 — Record-keeping requirements
 
 | Row | Records |
@@ -9297,9 +9438,9 @@ This schedule contains the following parts:
 
 ### 2 Disclosures for purpose of carrying into effect revenue laws
 Section 18 does not prevent the disclosure of sensitive revenue information—
-  (a) for the purpose of carrying into effect a revenue law, or performing or supporting a function lawfully conferred on the Commissioner under a revenue law; and
-  (b) to a person or entity specified in clauses 3 to 13 about the matter described in the provision; and
-  (c) subject to any conditions set out in the provision.
+  (a) for the purpose of carrying into effect a revenue law:
+  (b) to a person or entity specified in clauses 3 to 13 for the purpose and about the matter described in the provision, subject to any conditions set out in the provision.
+  (c)
 
 ### 3 Tax advisors or persons acting as tax agents
 (1) Despite section 18, the Commissioner may supply information to an approved advisor group about an action or omission—
@@ -9454,7 +9595,7 @@ Section 18 does not prevent the Commissioner communicating to the Financial Mark
   (c) information arising from the performance of the Commissioner’s duties or functions, or the exercise of the Commissioner’s powers, in relation to the KiwiSaver Act 2006 or a provision of an Inland Revenue Act that is relevant to the KiwiSaver Act 2006.
 
 ### 31 Land Information New Zealand
-Section 18 does not prevent the Commissioner communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 156J of the Land Transfer Act 1952 any information specified in subsection (1) of that section for the purpose set out in that subsection.
+Section 18 does not prevent the Commissioner communicating to the chief executive, or an authorised employee, of Land Information New Zealand under section 86 of the Land Transfer Act 2017 any information specified in subsection (1) of that section for the purpose set out in that subsection.
 
 ### 32 Registrars of courts
 Section 18 does not prevent the Commissioner communicating to any Registrar, in accordance with section 104A of the Summary Proceedings Act 1957, any information required under subsection (1) of that section.
