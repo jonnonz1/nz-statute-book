@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2019-05-31_
+_Consolidation as at 2019-06-26_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -540,7 +540,7 @@ When this section does not apply
   (a) the exclusion has been used by the person 2 or more times within the 2 years immediately preceding the bright-line date for the residential land:
   (b) the person has engaged in a regular pattern of acquiring and disposing of residential land described in subsection (1).
 A definition
-(3) In this section, principal settlor means, for a trust, a settlor whose settlements for the trust are the greatest or greatest equal, by market value.
+(3) In this section and section EL 9 (Main home exclusion), principal settlor means, for a trust, a settlor whose settlements for the trust are the greatest or greatest equal, by market value.
 
 ### CB 16 Residential exclusion from sections CB 6 to CB 11
 Exclusion
@@ -2600,7 +2600,9 @@ Timing of income
 When this section applies
 (1) This section applies when a person receives an amount of insurance, indemnity, or compensation for an interruption or impairment of business activities resulting from an event.
 Income
-(2) The part of the insurance, indemnity, or compensation attributable to income (the replaced income) that the person would have derived if not for the event is income of the person.
+(2) The amount is income of the person to the extent to which it is attributable to income (the replaced income) that—
+  (a) the person would have derived if not for the event:
+  (b) another person, who assigned the right to receive the amount to the person, would have derived if not for the event.
 Timing of income
 (3) The income is allocated to the later of—
   (a) the income year to which the replaced income relates:
@@ -3407,10 +3409,7 @@ Definitions
   - **wine** has the meaning given in section 31-1 of A New Tax System (Wine Equalisation Tax) Act 1999 (Aust) and regulations made under that Act.
 
 ### CV 9 Supplementary dividend holding companies
-When this section applies
-(1) This section applies to a supplementary dividend holding company that derives a dividend and related supplementary dividend in an income year when, but for section LP 8 (Relationship with exempt income rules), both dividends would be exempt income under section CW 10 (Dividend within New Zealand wholly-owned group).
-Income
-(2) The amount calculated under section LP 8(2) is assessable income of the supplementary dividend holding company.
+[Repealed]
 
 ### CV 10 Foreign dividend payment account companies or conduit tax relief companies
 [Repealed]
@@ -4324,7 +4323,7 @@ Exempt income
   (b) they pay an amount to another person for providing them in the income year or in an earlier income year a key aspect of social rehabilitation referred to in the definition of personal service rehabilitation payment; and
   (c) the amount paid is equal to or more than the amount of personal service rehabilitation payment for the income year or an earlier income year after taking into account any amount of tax withheld.
 Meaning of reimbursement payment
-(2) For the purposes of this section, sections CZ 35, DF 4, and LB 7, reimbursement payment means a personal service rehabilitation payment that—
+(2) For the purposes of this section, sections CZ 36, DF 4, and LB 7, reimbursement payment means a personal service rehabilitation payment that—
   (a) relates to a key aspect of social rehabilitation that is provided to a person in an income year; and
   (b) is paid to them in an income year that is later than the income year in which they were provided the rehabilitation.
 
@@ -5325,6 +5324,9 @@ Excluded income
 ### CX 54 Share-lending collateral under share-lending arrangements
 An amount of share-lending collateral derived by a person under a share-lending arrangement is excluded income of the person.
 
+### CX 54B Transfers of emissions units under certain excepted financial arrangements
+An amount that relates to the market value of an emissions unit and is derived by a person in a transfer of the emissions unit under an arrangement that is an excepted financial arrangement under section EW 5(11C) (What is an excepted financial arrangement?) is excluded income of the person.
+
 ### CX 55 Proceeds from disposal of investment shares
 What this section applies to
 (1) This section applies in an income year to the following entities unless the entity is assured, under an arrangement with another person, of having a gain on the disposal:
@@ -5419,7 +5421,7 @@ When this section applies
 Excluded income
 (1B) An amount that is referred to in section FM 8(2) and not in section FM 8(3) is excluded income.
 Excluded income
-(2) To the extent to which the amount is not an amount referred to in section FM 8(3)﻿(d), the amount is excluded income of the company.
+(2) The amount, except to the extent to which it is described in section FM 8(3) (Transactions between group companies: income), is excluded income of the company.
 
 ### CX 61 Avoidance arrangements
 An amount is excluded income if it is treated as excluded income under—
@@ -5929,19 +5931,22 @@ Meaning of minister of religion
 Income arising for a person under section DZ 23(2)﻿(b) (Aircraft maintenance: tax accounting provisions for expenditure incurred after 2016–17 income year) is income of the person.
 
 ### CZ 35 Treatment of backdated payments for social rehabilitation: 2008–09 to 2017–18 income years
-When this section applies
-(1) This section applies for income years from the 2008–09 income year to the 2017–18 income year when—
-  (a) a person is paid an amount as a personal service rehabilitation payment; and
-  (b) the person pays an amount to another person for providing them a key aspect of social rehabilitation, referred to in the definition of personal service rehabilitation payment, in an income year; and
-  (c) the payment referred to in paragraph (a) that is paid in relation to the service referred to in paragraph (b) is made in an income year that is later than the income year in which the service is provided to the person.
-Treatment of payment
-(2) If the Commissioner is satisfied that the tax obligations relating to the personal service rehabilitation payment have been met, the payment is treated as exempt income for the income year in which the person derives the payment.
+[Repealed]
 
 ### CZ 35 Amounts derived by Te Kōwhatu Tū Moana
 Exempt income
 (1) Income derived by Te Kōwhatu Tū Moana (the trust) is exempt income of the trustees and beneficiaries of the trust if it is derived by the trust in the 6-month period starting on 17 March 2019.
 Meaning
 (2) In this section, Te Kōwhatu Tū Moana has the meaning given in section 4 of the New Plymouth District Council (Waitara Lands) Act 2018.
+
+### CZ 36 Treatment of backdated payments for social rehabilitation: 2008–09 to 2017–18 income years
+When this section applies
+(1) This section applies for income years from the 2008–09 income year to the 2017–18 income year when—
+  (a) a person is paid an amount as a personal service rehabilitation payment; and
+  (b) the person pays an amount to another person for providing them with a key aspect of social rehabilitation, referred to in the definition of personal service rehabilitation payment, in an income year; and
+  (c) the payment referred to in paragraph (a) that is paid in relation to the service referred to in paragraph (b) is made in an income year that is later than the income year in which the service is provided to the person.
+Treatment of payment
+(2) If the Commissioner is satisfied that the tax obligations relating to the personal service rehabilitation payment have been met, the payment is treated as exempt income for the income year in which the person derives the payment.
 
 ## Part D — Deductions
 
@@ -6261,6 +6266,9 @@ A person is allowed a deduction for—
   (a) the amount of expenditure incurred as a replacement payment under a share-lending arrangement:
   (b) the amount of imputation credit attached under sections OB 64 (Replacement payments) and RE 25 (When amount of tax treated as imputation credit) to the replacement payment.
 
+### DB 17B Transfers of emissions units under certain excepted financial arrangements
+A person is denied a deduction for an amount of expenditure that relates to the market value of an emissions unit and is incurred by a person in a transfer of the emissions unit under an arrangement that is an excepted financial arrangement under section EW 5(11C) (What is an excepted financial arrangement?).
+
 ### DB 18AA Square metre rate method
 When this section applies
 (1) A person may choose to apply this section to determine the amount of a deduction, in an income year, for the proportion of business use of a premises (the premises) that is used partly for business purposes and partly for other purposes.
@@ -6278,28 +6286,10 @@ Setting square metre rates
 (5) For the purposes of this section, the Commissioner must from time to time set and publish square metre rates.
 
 ### DB 18A Ring-fenced allocations: disposal of residential land within 5 years
-When this section applies
-(1) This section applies to an amount of a person’s deductions (bright-line deductions) under section DB 23, for an income year, that relate to residential land for which the person derives income solely under section CB 6A (Disposal within 5 years: bright-line test for residential land).
-Basis for allocation of deductions: formula
-(2) The amount of bright-line deductions allocated to an income year, including an amount that has been carried forward and allocated under subsection (4), is no more than the amount calculated by the formula—bright-line income + land net income.
-Definition of items in formula
-(3) In the formula,—
-  (a) bright-line income is income derived solely under section CB 6A:
-  (b) land net income is the amount of net income for the year that the person would have if the only income they derived was from the disposal of land under sections CB 6 to CB 14 (which relate to income from land).
-Excess allocations: carried forward and reinstated next year
-(4) Any excess deductions not allocated to the income year because of subsection (2) are carried forward and treated as—
-  (a) deductions under section DB 23 that relate to residential land for which the person derives income solely under section CB 6A; and
-  (b) allocated to the next income year.
-Restriction on reinstating excess allocations: continuity for companies
-(5) Despite subsection (3), the excess is not allocated to the next income year, and no deduction is allowed or allocated to any income year for the excess, if sections IA 5 and IP 3 (which relate to the carrying forward of tax losses for companies) would not have allowed the excess to be carried forward to that next income year in a loss balance, treating the excess as a tax loss component arising on the last day of the income year.
+[Repealed]
 
 ### DB 18AB Deduction cap: disposal of residential land within 5 years to associated persons
-When this section applies
-(1) This section applies to a person (person A) if, for an income year,—
-  (a) person A derives income solely under section CB 6A (Disposal within 5 years: bright-line test for residential land) from disposing of residential land to an associated person; and
-  (b) person A has deductions for expenditure or loss in relation to the disposal of the land (residential land deductions).
-Deduction cap for person A and transfer to associated person
-(2) The total residential land deductions that person A is allowed are no more than the amount of income they derive under section CB 6A from the disposal of the land. Deductions not allowed to person A under this section are treated as expenditure that the associated person has in relation to acquiring the land.
+[Repealed]
 
 ### DB 18 Transaction costs: leases
 Deduction
@@ -7527,8 +7517,8 @@ The 2 methods that may be used to calculate the proportion of business use of a 
 ### DE 4 Default method for calculating proportion of business use
 When this section applies
 (1) This section applies when—
-  (a) a person has not maintained actual records to show the proportion of business use of a motor vehicle; or
-  (b) a period is not a term to which a proportion of business use of a motor vehicle established by a logbook applies; or
+  (a) a person has not maintained actual records to show the proportion of business use of a motor vehicle; and
+  (b) a period is not a term to which a proportion of business use of a motor vehicle established by a logbook applies; and
   (c) the person has not elected to use the kilometre rate method for the motor vehicle.
 Amount of deduction
 (2) The deduction under section DE 2 for expenditure or loss incurred is limited to the lesser of—
@@ -9677,7 +9667,7 @@ Link with subpart DA
 
 ### DV 18 Statutory producer boards and co-operative companies
 When this section applies
-(1) This section applies for the purposes of sections OB 73 and OB 78 (which relate to imputation credits attached to cash distributions by statutory producer boards and co-operative companies) when a producer board or co-operative company chooses to treat a distribution as a dividend.
+(1) This section applies for the purposes of sections OB 73, OB 78, and OB 78B (which relate to imputation credits attached to cash distributions by statutory producer boards and co-operative companies) when a producer board or co-operative company chooses to treat a distribution as a dividend.
 No deduction
 (2) The producer board or co-operative company making the distribution is denied a deduction for the amount of the distribution.
 Link with subpart DA
@@ -12995,7 +12985,7 @@ Some definitions
 Description
 (1) An income equalisation scheme allows a person to reduce their net income for a tax year by making a deposit with the Commissioner for the corresponding income year.
 Two schemes
-(2) The 3 income equalisation schemes are—
+(2) The 2 income equalisation schemes are—
   (a) the main income equalisation scheme, described in sections EH 3 to EH 36:
   (b)
   (c) the thinning operations income equalisation scheme, described in sections EH 63 to EH 79.
@@ -14621,6 +14611,274 @@ Definition of items in formula
 Meaning of environmental restoration account
 (3) In this subpart, environmental restoration account, for a person, means the account that the Commissioner keeps in the person’s name under section EK 4.
 
+### Subpart EL — Allocation of deductions for excess residential land expenditure
+
+### EL 1 Outline of subpart: general
+General outline
+(1) The provisions in this subpart, in general,—
+  (a) limit a person’s deductions for expenditure incurred in relation to residential land to income derived from the land; and
+  (b) suspend deductions for the excess expenditure for the income year in which the expenditure is incurred; and
+  (c) provide that the excess amounts are carried forward to later income years in which the person derives residential income; and
+  (d) release the excess amounts on fully-taxed disposals of land.
+Allocation rules
+(2) Separate allocation rules apply for—
+  (a) residential rental property, see the outline in section EL 2(1) to (6):
+  (b) bright-line disposals of residential land, see the outline in section EL 2(7).
+
+### EL 2 Outline of subpart: specific provisions
+Residential rental property
+(1) Sections EL 4 to EL 8 apply when a person owns a residential rental property and has expenditure or loss that relates to the property for which they are allowed a deduction. For this purpose, the expenditure does not include an amount that is a cost of revenue account property.
+Application by portfolio or on property-by-property basis
+(2) The rules in sections EL 4 to EL 8 apply—
+  (a) to a person’s residential portfolio:
+  (b) by election, on a property-by-property basis.
+Portfolios plus particular properties
+(3) A person may choose to apply the rules on a property-by-property basis for an income year to 1 or more properties while applying the rules on a portfolio basis in relation to other properties owned by them.
+Use of amounts
+(4) If a person has excess expenditure under section EL 4, they may use the amount in later income years in which they derive residential income. In certain cases, the amounts are released from the application of the rules.
+Exclusions
+(5) The following sections set out the properties that are excluded from the definition of residential rental property:
+  (a) section EL 9: the person’s main home:
+  (b) section EL 10: property held by the person on revenue account:
+  (c) section EL 11: property held by certain persons and entities:
+  (d) section EL 12: property to which subpart DG (Expenditure related to use of certain assets) applies:
+  (e) section EL 13: property provided as employee accommodation.
+Rules for certain entities
+(6) The following sections modify the general rules in this subpart:
+  (a) section EL 14 relating to the continuity rules for companies:
+  (b) section EL 15 relating to transfers between companies in wholly-owned groups:
+  (c) sections EL 16 to EL 19 relating to deductions for interest expenditure when a person borrows to invest in a residential land-rich entity.
+Bright-line disposals of residential land
+(7) Section EL 20 applies when a person sells residential land within the bright-line period and has expenditure that relates to the land for which they are allowed a deduction as a cost of revenue account property. The section also provides for the treatment of the expenditure when the sale is made to an associated person.
+
+### EL 3 Definitions for this subpart
+In this subpart,—
+  - **land sales provisions** means sections CB 6A to CB 14 (which relate to amounts derived from disposals of land)
+  - **residential income** means the following amounts that a person derives for an income year in relation to residential land:
+    (a) rental income which is the amount of income the person derives under sections CC 1 to CC 2 (which relate to amounts derived from the use of land) for the income year in relation to their residential portfolio:
+    (b) depreciation recovery income which is the amount that the person derives under section CG 1 (Amount of depreciation recovery income) for the income year in relation to their residential portfolio:
+    (c) an amount of net income that the person would have for the corresponding tax year if their only income were income under the land sales provisions from a disposal of property in their residential portfolio:
+    (d) an amount of net income that the person would have for the corresponding tax year if their only income were income referred to in paragraphs (a) and (b) in relation to residential land to which section EL 4 does not apply because it is held on revenue account and falls within the exclusion set out in section EL 10
+  - **residential land-rich entity** means—
+    (a) a close company, partnership, or look-through company if more than 50% of its assets by value are residential land, whether the land is owned directly or indirectly, see section EL 19:
+    (b) a trustee of a trust whose property includes residential rental property if more than 50% of the trust’s assets by value are residential land, whether the land is owned directly or indirectly, see section EL 19
+  - **** residential portfolio—
+    (a) means 1 or more residential rental properties that a person holds in a portfolio for an income year; and
+    (b) includes a residential rental property that the person has included in their portfolio, whether or not they retain ownership of the property, in the period that—
+      (i) starts at the beginning of the income year in which they first acquire a residential rental property that is included in their portfolio; and
+      (ii) ends on the last day of the income year in which they dispose of the last of the residential rental properties included in their portfolio; and
+    (c) does not include a residential rental property in relation to which a person is applying the rules on a property-by-property basis under section EL 6
+  - **residential rental property** —
+    (a) means residential land for which a person who owns the land is allowed a deduction relating to the use or disposal of the land; and
+    (b) includes land that, for a time in an income year, is residential land.
+
+### EL 4 Allocation of deductions for loss-making residential rental properties
+When this section applies
+(1) This section applies for an income year when a person is allowed a deduction for expenditure or loss incurred in relation to 1 or more properties in their residential portfolio, excluding any amount of a deduction under section DB 23 (Cost of revenue account property).
+Limited allocation
+(2) The amount of the deduction that may be allocated to the income year must be no more than the amount of the person’s residential income for the income year.
+Excess amounts carried forward
+(3) To the extent to which the amount of the person’s deduction is more than their residential income, the excess amount is—
+  (a) suspended as a deduction for the income year; and
+  (b) carried forward to a later income year in which the person derives residential income; and
+  (c) added to the amount of the deduction for expenditure or loss referred to in subsection (1) for the later income year.
+Relationship with sections EL 5, EL 6, and EL 7
+(4) The application is modified by—
+  (a) section EL 6 when a person chooses to apply the rules in this subpart on a property-by-property basis:
+  (b) sections EL 5 and EL 7 when a person disposes of their residential portfolio or residential rental property, as applicable.
+
+### EL 5 When residential portfolios sold
+When this section applies
+(1) This section applies for an income year (the current income year) when a person—
+  (a) disposes of the last of the properties in their residential portfolio; and
+  (b) has an unused excess amount under section EL 4(3) relating to their portfolio.
+Disposal of fully-taxed portfolio: excess amounts released
+(2) If the person derives income under the land sales provisions for the current income year or for an earlier income year from the disposal of each of the properties in their residential portfolio, any unused excess amount relating to the portfolio is released from the application of the limited allocation rule in section EL 4(2) for the current income year. However, this subsection does not apply in relation to an unused excess amount transferred from another property, see section EL 8.
+Disposal of incompletely-taxed portfolios: excess amounts carried forward
+(3) If the person does not derive income under the land sales provisions for the current income year or for an earlier income year from the disposal of each of the properties in their residential portfolio, any unused excess amount relating to the portfolio—
+  (a) is an amount to which section EL 4(3) continues to apply for income years in which the person derives residential income; and
+  (b) is treated as a deduction referred to in section EL 4(1) that is transferred to another residential rental property for an income year in which the person derives residential income.
+Basis of allocation
+(4) For the purposes of subsection (3)﻿(b), it does not matter whether the allocation of the transferred amount is made on a portfolio basis or on a property-by-property basis.
+
+### EL 6 Choosing to apply rules on property-by-property basis
+Choosing other basis for calculation
+(1) For the purposes of section EL 4, and despite the references there and in the definition of residential income in section EL 3 to residential portfolios, a person may choose to determine the amount of the deduction that may be allocated for an income year under section EL 4(2) in relation to a single property (property A), whether or not—
+  (a) they own residential rental properties other than property A:
+  (b) those other properties are included in a residential portfolio.
+Property A: income and expenditure
+(2) For the purposes of section EL 4(3), both the income derived by the person and the expenditure or loss to which the deduction relates must relate solely to property A and to no other property of the person.
+Property A: excess amounts carried forward
+(3) An excess amount arising under section EL 4(3) in relation to property A is—
+  (a) suspended as a deduction for the income year; and
+  (b) carried forward to a later income year in which the person derives residential income from property A; and
+  (c) added to the amount of the deduction for expenditure or loss referred to in section EL 4(1) for the later income year.
+Election requirements
+(4) A person makes an election under subsection (1) by taking a tax position on that basis in their return of income for the income year in which the property becomes their residential rental property.
+Effect of changes in tax positions
+(5) The election remains in effect for income years in which the person continues to take the tax position but if the person changes their tax position, property A becomes a property included in a residential portfolio.
+Transitional rule for property acquired before 2019–20 income year
+(6) For the purposes of subsection (4), for residential rental property held at the start of the 2019–20 income year, the person must make the election referred to in subsection (1) in the return of income for that income year.
+
+### EL 7 When property A sold
+When this section applies
+(1) This section applies for an income year when a person—
+  (a) has chosen to apply the rules in this subpart on a property-by-property basis under section EL 6 to a particular property (property A); and
+  (b) disposes of property A, whether or not it is residential rental property for the person at the time of the disposal; and
+  (c) has an unused excess amount under section EL 4(3) relating to property A.
+Taxed disposal of property A: excess amounts released
+(2) If the person derives income under the land sales provisions from the disposal of property A, any unused excess amount relating to property A is released from the application of the limited allocation rule in section EL 4(3) for the income year. However, this subsection does not apply in relation to an unused excess amount transferred from another property, see section EL 8.
+Non-taxed disposal of property A: excess amounts carried forward
+(3) If the person disposes of property A but does not derive income under the land sales provisions from the disposal, any unused excess amount relating to property A—
+  (a) is an amount to which section EL 4(3) continues to apply for income years in which the person derives residential income; and
+  (b) is treated as a deduction referred to in section EL 4(1) that is transferred to another residential rental property for an income year in which the person derives residential income.
+Basis of allocation
+(4) For the purposes of subsection (3)﻿(b), it does not matter whether the allocation of the transferred amount is made on a portfolio basis or on a property-by-property basis.
+
+### EL 8 Treatment of previously transferred amounts on fully-taxed disposals
+When this section applies: transfers to portfolio properties
+(1) This section applies when—
+  (a) an unused excess amount relating to a residential rental property or residential portfolio is treated as transferred under section EL 5(3)﻿(b) or EL 7(3)﻿(b) to a property that is included in another residential portfolio of a person; and
+  (b) the person disposes of the last of the properties in their portfolio, having derived income from each disposal.
+When this section also applies: transfers to properties
+(2) This section also applies when—
+  (a) an unused excess amount relating to a residential rental property or residential portfolio is treated as transferred under section EL 5(3)﻿(b) or EL 7(3)﻿(b) for use in relation to another of a person’s residential rental properties (property B) in relation to which the person has chosen under section EL 6 to apply the rules on a property-by-property basis; and
+  (b) the person disposes of property B, whether or not it is residential rental property for the person at the time of the disposal, and derives income for the income year from its disposal.
+Treatment of transferred excess amounts
+(3) The amount that would otherwise be released under section EL 5(2) or EL 7(2) is reduced by an amount equal to the total unused excess amount transferred.
+
+**Exclusions from rules**
+
+### EL 9 Main home exclusion
+General rule
+(1) Section EL 4 does not apply to residential land of a person for an income year if more than 50% of the land is used for most of the income year by the person as their main home.
+Beneficiaries
+(2) Subsection (1) applies to trust property when—
+  (a) more than 50% of the land is used for most of the income year by a beneficiary of the trust as their main home; and
+  (b) a principal settlor of the trust does not have a separate main home.
+
+### EL 10 Exclusion for land held on revenue account
+Land acquired for purposes of business relating to land
+(1) Section EL 4 does not apply to residential land of a person that, when disposed of, will give rise to income of the person under section CB 7 (Disposal: land acquired for purposes of business relating to land).
+Income under land sales rules
+(2) Section EL 4 does not apply to residential land of a person that, when disposed of, will give rise to income of the person under the land sales provisions other than section CB 7, regardless of when the disposal occurs.
+Notification
+(3) In order for land to be excluded under subsection (2), the person must—
+  (a) notify the Commissioner that the land is held on revenue account by the date for filing their return of income for the later of—
+    (i) the income year in which they acquire the land:
+    (ii) the income year in which the land becomes land that, when disposed of, will give rise to income under the land sales provisions:
+    (iii) for land that is held at the start of the 2019–20 income year and is land that, when disposed of, will give rise to income under the land sales provisions, the 2019–20 income year:
+  (b) be able to identify separately the deductions relating to the land.
+When separate identification not required
+(4) Subsection (3)﻿(b) does not apply to a person if all of their residential land, other than land excluded under subsection (1) and sections EL 9, EL 12, and EL 13,—
+  (a) has given rise to income of the person under the land sales provisions:
+  (b) will give rise to income under the land sales provisions, regardless of when the disposal occurs, and they have notified the Commissioner as described in subsection (3)﻿(a).
+
+### EL 11 Exclusion for property held by certain persons and entities
+Section EL 4 does not apply to residential land owned by—
+  (a) a company other than a close company:
+  (b) a person or entity listed in schedule 36 (Government enterprises).
+
+### EL 12 Exclusion for mixed-use assets
+Section EL 4 does not apply to residential land of a person for an income year when the land is an asset referred to in section DG 3 (Meaning of asset for this subpart).
+
+### EL 13 Exclusion for property provided as employee accommodation
+Accommodation connected with employment or service
+(1) Section EL 4 does not apply to residential land of a person that is property that a person provides to their employees or other workers for accommodation in connection with their employment or service.
+Associated employees or workers
+(2) Subsection (1) does not apply if the employees or other workers are associated with the person, unless it is necessary for the person to provide the accommodation because of the nature or remoteness of a business carried on by them.
+
+**Application of rules by certain entities**
+
+### EL 14 Continuity rules for companies
+Despite sections EL 4, EL 5, EL 7, and EL 16, a company may not allocate an unused excess amount to a later income year if sections IA 5 and IP 3 (which relate to tax losses carried forward) would apply to restrict the carrying forward of the amount to the later income year, treating the amount as if it were an unused tax loss component.
+
+### EL 15 Transfers between companies in wholly-owned groups
+Transferring unused amounts
+(1) If a company (company A) that is part of a wholly-owned group of companies has an unused excess amount carried forward under section EL 4(3), EL 5(3), or EL 7(3) for an income year, the company may transfer some or all of the excess amount to another company (company B) in the group.
+Company B’s deduction
+(2) The amount transferred is treated as a deduction for expenditure or loss referred to in section EL 4(1) of company B in relation to a residential rental property of company B for an income year in which company B derives residential income.
+When transfers made
+(3) The transfer of an excess amount is treated as made when both company A and company B take tax positions on that basis in their returns of income for the relevant income year.
+
+**Interposed entities**
+
+### EL 16 Interests in residential land-rich entities
+When this section applies
+(1) This section applies when a person—
+  (a) has borrowed money and used it to acquire an interest in an entity that is, for an income year, a residential land-rich entity; and
+  (b) has interest expenditure for the income year in relation to the amount borrowed for which they are allowed a deduction.
+Excess amounts carried forward
+(2) To the extent to which the portion of the person’s interest expenditure calculated under section EL 17(1) is more than their share of net residential income calculated under section EL 17(3), the excess amount is—
+  (a) suspended as a deduction for the income year; and
+  (b) carried forward to a later income year in which the person derives income that is—
+    (i) residential income:
+    (ii) a distribution from the entity to the extent to which the distribution relates to residential land; and
+  (c) added to the amount of the interest expenditure referred to in subsection (1)﻿(b) for the later income year.
+Modifications
+(3) The application of this section and section EL 17 is modified by section EL 18 when the entity is a partnership or a look-through company.
+
+### EL 17 Calculations for section EL 16
+Calculation of interest expenditure
+(1) For the purposes of section EL 16(2), the person’s interest expenditure is calculated using the formula—applied capital percentage × interest on borrowings.
+Definition of items
+(2) In the formula in subsection (1),—
+  (a) applied capital percentage is the percentage of the entity’s capital, as at the end of the income year, that it has used to acquire residential rental property:
+  (b) interest on borrowings is the amount of expenditure on interest that the person has incurred for the income year in relation to the amount borrowed.
+Calculation of share of net residential income
+(3) For the purposes of section EL 16(2), the person’s share of net residential income is calculated using the formula—person’s interest × entity’s net residential income.
+Definition of items
+(4) In the formula in subsection (3),—
+  (a) person’s interest is, as applicable,—
+    (i) when the entity is a company, the person’s voting interest in the company measured at the end of the income year:
+    (ii) when the entity is the trustee of a trust, the value of the person’s interest in residential rental property that is trust property as a percentage of the trust’s assets, measured at the end of the income year:
+  (b) entity’s net residential income is the amount of the net income for the corresponding tax year that the entity would have in the absence of section EL 4, if the only income derived by the entity were residential income.
+
+### EL 18 Modifications when entities transparent
+For the purposes of sections EL 16 and EL 17, if the entity is a partnership or a look-through company,—
+  (a) the person’s residential income for the income year is treated as their share of net residential income under section EL 17(3) unless paragraph (b)﻿(ii) applies to modify the calculation of net residential income:
+  (b) when the entity has chosen under section EL 6 to apply the rules in this subpart on a property-by-property basis for a particular property (property A), the formulas in section EL 17 are modified as follows:
+    (i) the item applied capital percentage in section EL 17(2)﻿(a) is read as if the residential rental property were property A; and
+    (ii) the residential income derived by the person for the income year from property A is treated as their share of net residential income under section EL 17(3).
+
+### EL 19 Valuation of assets
+Methods of valuation
+(1) For the purposes of section EL 17 and the definition of residential land-rich entity in section EL 3, an asset of a person or entity is valued at the end of an income year using,—
+  (a) for land, including an improvement to land, the amount set out in subsection (2):
+  (b) for property with an adjusted tax value, its adjusted tax value:
+  (c) for other property, its market value.
+Valuation of land
+(2) For the purposes of subsection (1)﻿(a), the value of land is the following amount, as applicable:
+  (a) the amount established by the later of—
+    (i) the land’s most recent capital value or annual value as set by a local authority; or
+    (ii) either the cost of the land on acquisition or, if the transaction involves an associated person, its market value:
+  (b) for a leasehold estate in land, the market value of the land which the person may establish through a valuation made by a registered valuer no more than 3 years before the end of the income year.
+
+### EL 20 Allocation of deductions related to bright-line disposals of residential land
+When this section applies
+(1) This section applies for an income year when a person—
+  (a) derives income under section CB 6A (Disposal within 5 years: bright-line test for residential land); and
+  (b) is allowed a deduction under section DB 23 (Cost of revenue account property) in relation to the land.
+Limited allocation
+(2) The amount of the deduction that may be allocated to the income year must be no more than the amount calculated using the formula—bright-line income + net income from land.
+Definition of items in formula
+(3) In the formula,—
+  (a) bright-line income is the amount of income that the person derives for the income year under section CB 6A:
+  (b) net income from land is the amount of net income that the person would have for the corresponding tax year if their only income were income under sections CB 6 to CB 14 (which relate to amounts derived from the disposals of land).
+Excess amounts carried forward
+(4) To the extent to which the amount of the person’s deduction is more than the amount calculated under subsection (2), the excess amount is—
+  (a) suspended as a deduction for the income year; and
+  (b) carried forward to a later income year in which the person derives—
+    (i) income referred to in subsection (1)﻿(a):
+    (ii) income under sections CB 6 to CB 14; and
+  (c) added to the amount of the deduction referred to in subsection (1)﻿(b) for the later income year.
+Disposals to associated persons
+(5) Subsections (6) and (7) apply when a person disposes of land described in subsection (1)﻿(a) to an associated person.
+Limited allocation for associated disposals
+(6) Despite subsection (2), the amount of the person’s deduction for the income year of the disposal must be no more than the amount of the bright-line income referred to in subsection (3)﻿(a) that they derive from the disposal.
+Expenditure of associated persons
+(7) To the extent to which the amount of the person’s deduction under subsection (6) is more than the bright-line income derived by the person, the excess amount is treated as expenditure of the associated person incurred in acquiring the land.
+
 ### Subpart EM — Hedging of currency movements in Australian non-attributing shares and attributing FDR method interests
 
 ### EM 1 Australian non-attributing shares and attributing FDR method interests
@@ -14862,6 +15120,8 @@ Partnership or joint venture
 (11) An interest in a partnership or a joint venture is an excepted financial arrangement.
 Look-through companies
 (11B) A look-through interest for a look-through company is an excepted financial arrangement.
+Assignment and return of emissions units as part of loan
+(11C) An arrangement for the assignment of a pre-1990 forest land emissions unit by the holder to a person who is not an associated person (the lender) and for the later assignment of the same or another New Zealand emissions unit by the lender to the holder, as part of a financial arrangement that is a loan to the holder by the lender, is an excepted financial arrangement that is subject to section EW 52B.
 Share-lending arrangement
 (12) A share-lending arrangement is an excepted financial arrangement.
 Share or option
@@ -15916,6 +16176,33 @@ Treatment of acquisition of replacement share
   (a) the identical share is the share that the person acquired under the original financial arrangement; and
   (b) the person continued to own the identical share until the time that the person acquired the replacement share.
 
+### EW 52B Excepted financial arrangements involving pre-1990 forest land emissions units
+When this section applies
+(1) This section applies to an arrangement that is an excepted financial arrangement under section EW 5(11C) and under which—
+  (a) the holder (the unit holder) of a pre-1990 forest land emissions unit (the original unit) is required to make an assignment of the original unit (the security assignment) to a person who is not an associated person (the lender); and
+  (b) the lender is required to make a later assignment (the security return) of a New Zealand emissions unit (the returned unit) to the unit holder.
+Unit holder treated as continuing to hold pre-1990 forest land emissions unit
+(2) The unit holder is treated as continuing to hold a pre-1990 forest land emissions unit for the period beginning with the day on which the arrangement begins and ending with the day given by subsection (3) for the security assignment, subject to subsections (4) and (5).
+Timely security return
+(3) Subsection (4) applies if the security return occurs on or before the day that is the earlier of—
+  (a) the day on which the security return is required under the arrangement:
+  (b) the day on which the arrangement comes to an end.
+Effect of timely security return
+(4) If the unit holder receives a returned unit under the arrangement on or before the day given by subsection (3),—
+  (a) the returned unit is treated as being the original unit; and
+  (b) the unit holder is treated as continuing to hold the original unit for the period beginning with the day on which the arrangement begins and ending with the day of the security return; and
+  (c) the original unit and the returned unit are treated as having a value for the unit holder equal to the cost of the original unit for the unit holder immediately before the arrangement begins; and
+  (d) the original unit and the returned unit are treated as having a value for the lender of—
+    (i) the cost of the original unit for the unit holder immediately before the arrangement begins, for the security assignment and the security return:
+    (ii) zero, for an assignment of the original unit other than the security return.
+Effect of failure to make timely security return
+(5) If the unit holder does not receive a returned unit under the arrangement on or before the day given by subsection (3),—
+  (a) the original unit is treated as being assigned to the lender on the day of the security assignment; and
+  (b) the unit holder is treated as ceasing to hold the original unit from the day of the security assignment; and
+  (c) the original unit is treated as having a value for the unit holder and the lender at the time of the security assignment equal to the market value of the original unit for the unit holder immediately before the arrangement begins.
+Relationship with section ED 1
+(6) Subsections (4)﻿(c) and (d) and (5)﻿(c) override sections EA 1(4)﻿(c) and ED 1 (which relate to the valuation of excepted financial arrangements).
+
 ### EW 53 Adjustment required
 When this section applies
 (1) This section applies when—
@@ -16432,7 +16719,7 @@ Arrangement
   (b) a derivative instrument—
     (i) that is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
     (ii) that is not entered in the ordinary course of a business of the CFC:
-    (iii) to the extent to which the income is from a hedging relationship, of a type referred to in NZIAS 39, with income of the CFC referred to in subsection (3) or paragraph (a) or with a transaction producing such income of the CFC.
+    (iii) to the extent to which the income is from a hedging relationship, of a type referred to in IFRS 9, with income of the CFC referred to in subsection (3) or paragraph (a) or with a transaction producing such income of the CFC.
 Apportioned funding income
 (4B) Apportioned funding income is,—
   (a) if the CFC is an entity carrying on a business of banking or insurance or is directly or indirectly controlled by such an entity, zero:
@@ -17012,17 +17299,17 @@ Reported passive
   (c) income from a royalty:
   (d) income from rent:
   (e) income, other than rent or interest, from a finance lease or operating lease:
-  (f) income or loss from a financial asset, other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, in the form of—
+  (f) income or loss from a financial asset, other than a derivative as defined in IFRS 9 or a share that is not revenue account property, in the form of—
     (i) a change in the reported fair value of the asset:
-    (ii) a gain or loss on the derecognition, as defined in NZIAS 39, of the asset:
+    (ii) a gain or loss on the derecognition, as defined in IFRS 9, of the asset:
     (iii)
   (fb) a foreign exchange gain or loss on—
-    (i) a financial asset other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, if subparagraph (ii) does not apply; or
-    (ii) a financial asset or financial liability other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
-  (g) income or loss from a derivative instrument, as defined in NZIAS 39, and included in the CFC's statement of income—
+    (i) a financial asset other than a derivative as defined in IFRS 9 or a share that is not revenue account property, if subparagraph (ii) does not apply; or
+    (ii) a financial asset or financial liability other than a derivative as defined in IFRS 9 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
+  (g) income or loss from a derivative instrument, as defined in IFRS 9, and included in the CFC's statement of income—
     (i) if the instrument is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
     (ii) if the instrument is not entered in the ordinary course of a business of the CFC:
-    (iii) to the extent to which the income or loss is from a hedging relationship, of a type referred to in NZIAS 39, with an amount that would change the numerator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
+    (iii) to the extent to which the income or loss is from a hedging relationship, of a type referred to in IFRS 9, with an amount that would change the numerator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
   (h) income or gains from a business of insurance, including income or gains from property used to back insurance assets.
 Added passive
 (8) Added passive is the total of amounts not included in the item reported passive for the accounting period that are 1 or more of the following:
@@ -17049,17 +17336,17 @@ Reported revenue
     (ii) revenue, if subparagraph (i) does not apply:
   (ab) income from rent:
   (b) income, other than rent, from a finance lease or operating lease:
-  (c) a gain or loss on a financial asset, other than a derivative as defined in NZIAS 39 or a share not on revenue account, in the form of—
+  (c) a gain or loss on a financial asset, other than a derivative as defined in IFRS 9 or a share not on revenue account, in the form of—
     (i) a change in the reported fair value of the asset:
-    (ii) a gain or loss on the derecognition, as defined in NZIAS 39, of the asset:
+    (ii) a gain or loss on the derecognition, as defined in IFRS 9, of the asset:
     (iii)
   (cb) a foreign exchange gain or loss on—
-    (i) a financial asset other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, if subparagraph (ii) does not apply; or
-    (ii) a financial asset or financial liability other than a derivative as defined in NZIAS 39 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
-  (d) a gain or loss from a derivative instrument, as defined in NZIAS 39, and included in the CFC's statement of income—
+    (i) a financial asset other than a derivative as defined in IFRS 9 or a share that is not revenue account property, if subparagraph (ii) does not apply; or
+    (ii) a financial asset or financial liability other than a derivative as defined in IFRS 9 or a share that is not revenue account property, for a CFC for which foreign exchange gains and losses from financial assets are not readily distinguishable by an interest holder from foreign exchange gains and losses from financial liabilities:
+  (d) a gain or loss from a derivative instrument, as defined in IFRS 9, and included in the CFC's statement of income—
     (i) if the derivative instrument is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
     (ii) if the derivative instrument is not entered in the ordinary course of a business of the CFC:
-    (iii) to the extent to which the gain or loss is from a hedging relationship, of a type referred to in NZIAS 39, with an amount that would change the denominator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
+    (iii) to the extent to which the gain or loss is from a hedging relationship, of a type referred to in IFRS 9, with an amount that would change the denominator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
   (e) income or a gain from a business of insurance, including from property used to back insurance assets, if the applicable accounting standard is not former generally accepted accounting practice without IFRS.
 Added revenue
 (11) Added revenue is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are not included in the item reported revenue for the accounting period and are either or both of the following:
@@ -17074,7 +17361,7 @@ Removed revenue
   (c) income from a supply of personal services that is included in the item reported revenue, and in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(h):
   (d) income or loss from a share that is not revenue account property under this Act in the form of—
     (i) a change in the reported fair value of the share:
-    (ii) income or loss on the derecognition, as defined in NZIAS 39, of the share:
+    (ii) income or loss on the derecognition, as defined in IFRS 9, of the share:
     (iii) a foreign exchange gain or loss on the share:
   (db) income that is derived from a fixed establishment by a member of the test group and is not an attributable CFC amount, if the member is included in the test group under subsection (2)﻿(b)﻿(ii):
   (e) income derived from another CFC that—
@@ -17523,11 +17810,11 @@ Certain non-ordinary shares
   (b) a non-participating redeemable share:
   (c) an interest in a non-resident holding directly or indirectly assets of which 80% or more by value at a time in the income year—
     (i) consist of fixed-rate foreign equities, or financial arrangements providing funds to a person; and
-    (ii) are denominated in New Zealand dollars or, under NZIAS 39, are hedged items having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
+    (ii) are denominated in New Zealand dollars or, under IFRS 9, are hedged items having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
   (cb) an interest in a non-resident if—
     (i) the non-resident holds directly or indirectly assets of which 80% or more by value at a time in the income year consist of fixed-rate foreign equities or financial arrangements providing funds to a person ignoring financial arrangements between the non-resident and other members of a group of companies that it is a member of; and
     (ii) the non-resident is not listed on a recognised exchange or is listed on a recognised exchange but is a foreign PIE equivalent, ignoring section HL 10(4) (Further eligibility requirements relating to investments) for the purposes of this subparagraph; and
-    (iii) the interest is, under NZIAS 39, a hedged item having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
+    (iii) the interest is, under IFRS 9, a hedged item having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
   (d) a share that involves an obligation—
     (i) of another person to provide to the investor, directly or indirectly through an arrangement, an amount that is more than the issue price of the share; and
     (ii) that is non-contingent or subject to a contingency that is sufficiently remote to be immaterial:
@@ -17592,16 +17879,16 @@ Modifications to method of calculating net attributable CFC income or loss
   (d) section EX 20B(12)﻿(a) required that the financial arrangement or agreement be an agreement by the CFC to lend money to a foreign company meeting the requirements of section EX 50(4C):
   (e) section EX 21C(2)﻿(a) required—
     (i) the interest holder or other person to have accounts that include the accounts of the CFC, including by proportionate consolidation under NZIAS 31:
-    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the CFC under NZIAS 39, or include amounts recognised under the equity method in NZIAS 28 or NZIAS 31, and the CFC to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the CFC under IFRS 9, or include amounts recognised under the equity method in NZIAS 28 or NZIAS 31, and the CFC to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
   (f) section EX 21C(3)﻿(a) required—
     (i) the interest holder or other person to have accounts that include the accounts of the members of the test group, including by proportionate consolidation under NZIAS 31:
-    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the members under NZIAS 39, or include amounts recognised under the equity method in NZIAS 28 or NZIAS 31, and the members to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the members under IFRS 9, or include amounts recognised under the equity method in NZIAS 28 or NZIAS 31, and the members to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
   (g) section EX 21C(4)﻿(a) required—
     (i) the interest holder or other person to have accounts that include the accounts of the CFC, including by proportionate consolidation under the IFRSE corresponding to NZIAS 31:
-    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the CFC under the IFRSE corresponding to NZIAS 39, or include amounts recognised under the equity method in the IFRSE corresponding to NZIAS 28 or NZIAS 31, and the CFC to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the CFC under the IFRSE corresponding to IFRS 9, or include amounts recognised under the equity method in the IFRSE corresponding to NZIAS 28 or NZIAS 31, and the CFC to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
   (h) section EX 21C(5)﻿(a) required—
     (i) the interest holder or other person to have accounts that include the accounts of the members of the test group, including by proportionate consolidation under the IFRSE corresponding to NZIAS 31:
-    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the members under the IFRSE corresponding to NZIAS 39, or include amounts recognised under the equity method in the IFRSE corresponding to NZIAS 28 or NZIAS 31, and the members to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
+    (ii) the interest holder or other person to have accounts that include dividends and net fair value changes in relation to the members under the IFRSE corresponding to IFRS 9, or include amounts recognised under the equity method in the IFRSE corresponding to NZIAS 28 or NZIAS 31, and the members to have accounts that are prepared under United States generally accepted accounting principles and meet the requirements of section EX 21C(8) for accounts prepared under those principles in the United States of America:
   (i) section EX 21D(1)﻿(a) required that none of the other companies in the test group be a CFC:
   (j) section EX 21D(1)﻿(b) required that the CFC hold a voting interest of more than 50% in each of the other companies in the test group:
   (k) section EX 21D(3)﻿(b) were omitted:
@@ -17609,12 +17896,12 @@ Modifications to method of calculating net attributable CFC income or loss
   (m) section EX 21E(2)﻿(c) required that the CFC hold a voting interest of more than 50% in each of the other companies in the test group:
   (n) section EX 21E(2)﻿(d) were omitted:
   (o) section EX 21E(4)﻿(c) were omitted:
-  (p) the references in section EX 21E(7)﻿(f) and (g) to NZIAS 39 were to whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
+  (p) the references in section EX 21E(7)﻿(f) and (g) to IFRS 9 were to whichever is appropriate of IFRS 9, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
   (q) section EX 21E(9)﻿(a) required that an amount in the category be a dividend that is—
     (i) not included in the attributable CFC amount for the accounting period under section EX 20B(3)﻿(a) to (c); and
     (ii) paid by a company other than 1 from which the person does not have additional FIF income or loss under subsection (6) because of the application of subsection (7B)﻿(b):
-  (r) the references in section EX 21E(10)﻿(c) and (d) to NZIAS 39 were to whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
-  (s) the references in section EX 21E(12)﻿(d) to NZIAS 39 were to whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
+  (r) the references in section EX 21E(10)﻿(c) and (d) to IFRS 9 were to whichever is appropriate of IFRS 9, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
+  (s) the references in section EX 21E(12)﻿(d) to IFRS 9 were to whichever is appropriate of IFRS 9, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles:
   (t) the reference in section EX 21E(12)﻿(g) to NZIAS 32 were a reference to whichever is appropriate of NZIAS 32, an equivalent IFRSE, and an equivalent standard or principle included in United States generally accepted accounting principles.
 Requirements for foreign company making payments to FIF
 (4C) A foreign company making payments to a FIF meets the requirements of this subsection if—
@@ -17649,7 +17936,7 @@ Requirements for test under subsection (7B)﻿(b)
   (a) the amounts required to be included in the items are—
     (i) amounts recognised in profit and loss under the equity method under whichever is appropriate of NZIAS 28, NZIAS 31, an equivalent IFRSE, and an equivalent standard or principle in the generally accepted accounting principles in the United States of America:
     (ii) amounts recognised in profit or loss under proportionate consolidation under whichever is appropriate of NZIAS 31, an equivalent IFRSE, and an equivalent standard or principle in the generally accepted accounting principles in the United States of America:
-    (iii) dividends and net fair value changes recognised in profit or loss in relation to investments accounted for under whichever is appropriate of NZIAS 39, an equivalent IFRSE, and an equivalent standard or principle in the generally accepted accounting principles in the United States of America; and
+    (iii) dividends and net fair value changes recognised in profit or loss in relation to investments accounted for under whichever is appropriate of IFRS 9, an equivalent IFRSE, and an equivalent standard or principle in the generally accepted accounting principles in the United States of America; and
   (b) an interest holder must not use the result of the test applied to the FIF and a foreign company as a member of a grouping of foreign companies if the interest holder uses for the period a result of the test applied to the FIF and a different grouping of foreign companies.
 Application of CFC rules tax credit rules
 (8) The rules in sections LK 1 to LK 7 (which relate to tax credits for attributed CFC income) apply to allow the person to claim foreign tax credits but on the basis of the assumptions made in subsection (9). The rules in those sections allow foreign tax credits relating to attributed CFC income but apply a jurisdictional ring-fencing approach to the use of tax credits.
@@ -19089,15 +19376,20 @@ Requirements and periods for which this section applies
   (a) for a life insurance policy for which only 1 premium is ever payable, or for which the amount of each premium is the same, the period that—
     (i) starts on the grandparenting start day; and
     (ii) finishes on the day that the policy ceases to be in force:
-  (b) for a life insurance policy for which the premium is set for a continuous period beginning before the grandparenting start day and for which the premium does not go up in that period (the continuous rate period) ignoring any increase directly linked to the percentage change in the consumer price index if that increase was the subject of agreement before the grandparenting start day, the period that starts on the grandparenting start day and ends on the later of the following:
-    (i) the day that is the last day of the continuous rate period:
-    (ii) whichever day described in paragraph (c)﻿(i) and (ii) is earlier:
+  (b) for a life insurance policy for which the premium is set for a continuous period (the continuous rate period) beginning before the grandparenting start day, and for which there is no increase in the premium during the continuous rate period other than an increase meeting the requirements of subsection (5BA), the period that—
+    (i) starts on the grandparenting start day; and
+    (ii) ends on the later of the day that is the last day of the continuous rate period and whichever day described in paragraph (c)﻿(i) and (ii) is earlier:
   (c) for a life insurance policy for which the premium may vary each year, the period that starts on the grandparenting start day and ends on the earlier of the following:
     (i) the day that the policy expires:
     (ii) the day that is before the 5 years anniversary of the grandparenting start day:
   (d) for a life insurance policy for which the premium may vary each year, the period that starts on the grandparenting start day and ends on the earlier of the following:
     (i) the day that the policy expires:
     (ii) the day that is before the 3 years anniversary of the grandparenting start day.
+Requirements under subsection (5)﻿(b) for premium increase
+(5BA) The requirements referred to in subsection (5)﻿(b) for an increase in the premium under a life insurance policy in a year in the continuous rate period are that—
+  (a) the increase is made under an agreement entered into before the grandparenting start day; and
+  (b) the increase arises from a policy benefit that produces an increase, under a formula in the agreement, in the sum assured under the policy; and
+  (c) the increase in the sum assured under the policy during the year does not exceed the greater of 3% and the percentage change in the consumer price index during the period consisting of the last 4 quarters preceding the year.
 When this section does not apply: life insurance cover increase for whole cover review period
 (5B) This section does not apply for a policy for the whole of an income year if a cover review period finishes in the year and, for that cover review period, there has been an increase in the amount of life insurance cover as described in subsection (2)﻿(c) or (3)﻿(e) and the life insurer has not made an election for measuring within the cover review period under those subsections.
 When this section does not apply: continuity
@@ -21752,7 +22044,7 @@ Definitions
     (a) meets the requirements of section FE 2 in the income year; and
     (b) is not, at any time in the income year, a reporting bank for a New Zealand banking group, or part of a New Zealand banking group; and
     (c) is not a natural person
-  - **excess debt outbound company** for an income year is an excess debt entity that meets the requirements of section FE 2(1)﻿(e) or (f), and none of the requirements of section FE 2(1)﻿(a) to (d)
+  - **excess debt outbound company** for an income year is an excess debt entity that meets the requirements of section FE 2(1)﻿(e) or (f), and none of the requirements of section FE 2(1)﻿(a) to (db)
   - **linked trustee** , for a person, is a trustee to whom the person has provided money under a settlement or arrangement
   - **natural person** , for an income year, is a natural person who meets the requirements of section FE 2 in the income year
   - **reporting bank** for a New Zealand banking group is a person who—
@@ -28177,7 +28469,7 @@ Reasonable estimation
   (a) explaining why and when the income is likely to be derived or the expense is likely to be incurred, as applicable; and
   (b) providing the calculation method and actual calculations used to determine the amount, with details showing why the method is appropriate.
 Credit impairment provisions
-(4) A multi-rate PIE may take account of a credit impairment provision under this section but only if the provision is counted as a credit impairment provision under NZIAS 39. However, the time limit set out in subsection (2)﻿(b)﻿(i) does not apply in relation to a credit impairment provision.
+(4) A multi-rate PIE may take account of a credit impairment provision under this section but only if the provision is counted as a credit impairment provision under IFRS 9. However, the time limit set out in subsection (2)﻿(b)﻿(i) does not apply in relation to a credit impairment provision.
 
 ### HM 35C Determining amounts for notified foreign investors
 When this section applies
@@ -30516,7 +30808,9 @@ When this section applies
     (ii) pays another person (a provider) for providing the key aspect to them for the period; or
   (b) the Accident Compensation Corporation pays a provider a personal service rehabilitation payment for a period for providing a key aspect of social rehabilitation to the person.
 Tax credit
-(2) The provider has a tax credit for the tax year corresponding to the income year in which the period falls.
+(2) For the tax year corresponding to the income year in which the payment falls,—
+  (a) the provider has a tax credit if the payment is not a reimbursement payment referred to in subsection (5):
+  (b) the recipient of the payment has a tax credit if the payment is a reimbursement payment referred to in subsection (5).
 Amount
 (3) The amount of the tax credit is calculated using the formula—amount paid × tax rate ÷ (1 − tax rate).
 Definition of items in formula
@@ -32152,6 +32446,17 @@ Definitions of items in formula
 
 ### MB 12 Family scheme income from non-residents' foreign-sourced income
 The family scheme income of a person for an income year includes the non-residents' foreign-sourced income for the income year of the person's spouse, civil union partner, or de facto partner.
+
+### MB 12B Family scheme income from trusts, not being beneficiary income, and where recipient not settlor
+When this section applies
+(1) This section applies for the purpose of determining the amount that represents the family scheme income of a person for an income year when—
+  (a) the person receives a payment from a trust in the income year; and
+  (b) the payment is not beneficiary income of the person; and
+  (c) the person is not the settlor of the trust.
+Amounts included in family scheme income
+(2) The amount of the payment is included in the family scheme income of the person for the income year.
+Exclusion
+(3) Despite subsection (2), the Commissioner may determine the circumstances in which a payment from a trust should be excluded for the purposes of calculating family scheme income. If a person receives a payment from a trust in circumstances in which the Commissioner has determined that a payment should be excluded for the purposes of calculating family scheme income, the amount of the payment is not included in the family scheme income of the person for the income year.
 
 ### MB 13 Family scheme income from other payments
 (1) The family scheme income of a person for an income year includes the value of payments—
@@ -34599,6 +34904,34 @@ When co-operative company chooses not to have deduction
 Relationship with section OZ 15
 (8) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (3).
 
+### OB 78B Co-operative companies attaching imputation credits to cash distributions to groups
+Election
+(1) On meeting the requirements of subsection (2), a co-operative company that is an ICA company may choose, for an income year, to attach an imputation credit to a cash distribution paid to the members of a group of the company’s shareholders and be denied a deduction for the payment by section DV 18 (Statutory producer boards and co-operative companies).
+Requirements
+(2) A co-operative company may make an election under subsection (1) if—
+  (a) the company is registered under the Co-operative Companies Act 1996; and
+  (b) the distribution is made to all the persons who are members of a group of shareholders at a time during the income year; and
+  (c) the company’s constitution permits a distribution to be made to the members of the group; and
+  (d) the amount of the distribution to a member of the group is based on the payments for the income year to or by the member for produce transactions as a proportion of the total amount of payments for the income year to or by the members of the group for all produce transactions; and
+  (e) the company would, in the absence of this section, have a deduction for some or all of the distribution under subpart HE and section DV 19 (which relate to mutual associations) or another provision of the Act; and
+  (f) no other election for a cash distribution is made in the income year; and
+  (g) the company notifies the Commissioner of the election as required by section OB 82(3).
+Total credit attached
+(3) The total amount of imputation credit attached to the distribution is calculated using the formula—total net dividend × tax rate ÷ (1 − tax rate).
+Definition of items in formula
+(4) In the formula in subsection (3),—
+  (a) total net dividend is the total amount of the distribution excluding the amount of imputation credit:
+  (b) tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year.
+Shareholder’s credit
+(5) The amount of a shareholder’s share of the imputation credit attached as described in subsection (3) is calculated using the formula—shareholder’s distribution ÷ total distribution × total imputation credit attached.
+Definition of items in formula
+(6) In the formula in subsection (5),—
+  (a) shareholder’s distribution is the amount that is the shareholder’s share of the distribution, excluding the amount of imputation credit:
+  (b) total distribution is the amount of the total distribution paid, excluding the amount of imputation credit:
+  (c) total imputation credit attached is the total amount of imputation credit attached to the distribution calculated under subsection (3).
+Relationship with section OZ 15
+(7) Section OZ 15 (Attaching imputation credits and notional distributions: modifying amounts) may apply to modify subsection (3).
+
 ### OB 79 Co-operative companies attaching imputation credits to notional distributions
 Election
 (1) On meeting the requirements of subsection (2), a co-operative company that is an ICA company may choose, for an income year, to attach an imputation credit to a notional distribution, as a result of which a member derives a dividend of an amount calculated under section OB 80.
@@ -34633,7 +34966,7 @@ Relationship with section OZ 15
 
 ### OB 82 When and how co-operative company makes election
 One a year
-(1) A co-operative company may make an election under section OB 78 or OB 79 in relation to a distribution for—
+(1) A co-operative company may make an election under section OB 78, OB 78B, or OB 79 in relation to a distribution for—
   (a) only 1 cash distribution during the income year:
   (b) only 1 notional distribution during the income year.
 Timing
@@ -34641,7 +34974,7 @@ Timing
   (a) after the income year in relation to which the distribution is made; but
   (b) no later than 6 months after the end of the income year in relation to which the distribution is made.
 Notice
-(3) A co-operative company must notify the Commissioner of an election referred to in subsection (1)﻿(a) no later than the time allowed for the company to file a return of income for the tax year corresponding to the income year in relation to which the distribution is made.
+(3) A co-operative company must notify the Commissioner of an election referred to in subsection (1)﻿(a) or (b) no later than the time allowed for the company to file a return of income for the tax year corresponding to the income year in relation to which the distribution is made.
 
 ### OB 83 Group companies transferring imputation credits with transfer of tax loss
 Election
@@ -36527,7 +36860,7 @@ Statutory producer boards' imputation credits
 Statutory producer boards' notional distributions
 (3) In the calculation under section OB 75(2) (Statutory producer boards' notional distributions that are dividends), the board may choose to treat item tax rate in the formula as 30%.
 Co-operative companies' imputation credits
-(4) In the calculation under section OB 78(3) (Co-operative companies attaching imputation credits to cash distributions), the company may choose to treat item tax rate in the formula as 30%. This subsection does not apply to a Maori authority.
+(4) In the calculation under sections OB 78(3) and OB 78B(3) (which relate to co-operative companies making cash distributions), the company may choose to treat item tax rate in the formula as 30%. This subsection does not apply to a Maori authority.
 Co-operative companies' notional distributions
 (5) In the calculation under section OB 80(2) (Co-operative companies' notional distributions that are dividends), the company may choose to treat item tax rate in the formula as 30%. This subsection does not apply to a Maori authority.
 
@@ -37770,16 +38103,22 @@ Meaning of employment agreement
   (a) it includes an individual employment contract continued in force by section 242(1) of that Act; and
   (b) it excludes a contract for services described in paragraph (b) of the definition.
 
-### RD 7B Treatment of certain benefits under employee share schemes
+### RD 7B Treatment of employee share schemes
 When this section applies
-(1) This section applies for an employee or a former employee who receives a benefit under section CE 1(1)﻿(d) (Amounts derived in connection with employment) in relation to an employee share scheme.
-What this section does not apply to
-(2)
-Withholding amounts of tax
-(3) The employer may choose, in relation to the employee share scheme, to withhold and pay an amount of tax for the benefit. The employer makes the election by—
-  (a) calculating the amount of tax that must be withheld and paying the amount to the Commissioner as described in section RD 4(1); and
-  (b) including the value of the benefit in their employment income information under subpart 3C of the Tax Administration Act 1994.
-  (c)
+(1) This section applies for employees or a former employee in relation to benefits under an employee share scheme, if—
+  (a) an employer has irrevocably chosen to withhold and pay tax for a benefit for an employee under the scheme in accordance with subsection (3); or
+  (b) an employer chooses to withhold and pay tax for a benefit for an employee under the scheme in accordance with subsection (4).
+Irrevocable obligation
+(2) An employer who has made an irrevocable election described in subsections (1)﻿(a) and (3) must comply with subsection (4)﻿(a) to (c) for—
+  (a) the relevant benefit and employee under the scheme:
+  (b) benefits offered or provided to the employee in replacement of the relevant benefit.
+Irrevocable obligation: form
+(3) For the purposes of subsection (1)﻿(a), an employer has irrevocably chosen to withhold and pay tax for a benefit for an employee, if it is a term of the offer of the benefit, or of the scheme under which the benefit is provided, that the employer must withhold and pay tax under this section.
+Withholding and paying
+(4) For the purposes of subsection (1)﻿(b), an employer chooses to withhold and pay tax for some benefits for some employees by—
+  (a) calculating the amounts of tax that must be withheld for the relevant benefits and employees, and paying the amounts to the Commissioner as described in section RD 4(1); and
+  (b) including the amounts in the employer’s employment income information under subpart 3C of the Tax Administration Act 1994, treating the relevant ESS deferral date as the relevant payday; and
+  (c) making the disclosure referred to in paragraph (b) within the time required under section RD 6(3)﻿(a).
 
 ### RD 8 Schedular payments
 Meaning
@@ -38655,7 +38994,7 @@ Meaning
 (1) The ESCT rules means—
   (a) section CX 49 (Employer’s superannuation contributions); and
   (b) sections RD 65 to RD 71; and
-  (c) subparts 3C and 3D, sections 22AA, 47, 124H to 124K, 124O to 124Q, Part 9, and schedules 4 and 5 of the Tax Administration Act 1994.
+  (c) subparts 3C and 3D, sections 22AA, 47, 124H to 124R, Part 9, and schedules 4 and 5 of the Tax Administration Act 1994.
 Application
 (2) The ESCT rules apply to an employer or a person who makes an employer's superannuation cash contribution.
 
@@ -39119,9 +39458,9 @@ A person who is required under the RWT rules to withhold RWT must pay the amount
 ### RE 21 Basis for payment of RWT
 When this section applies
 (1) Subsections (2) to (5) apply for the purposes of section RA 6(1) (Withholding and payment obligations for passive income) to a person who is required under the RWT rules to withhold RWT for resident passive income consisting of interest.
-Interest of more than $500 in total
-(2) If the person estimates for a tax year that they will be required to withhold more than $500 in total for each month of the tax year, they must pay the amount of tax to the Commissioner on a monthly basis.
-Interest of less than $500 in total
+RWT of $500 or more in total
+(2) If the person estimates for a tax year that they will be required to withhold $500 or more in total for each month of the tax year, they must pay the amount of tax to the Commissioner on a monthly basis.
+RWT of less than $500 in total
 (3) If the person estimates for a tax year that they will be required to withhold less than $500 in total for each month of the tax year, they must pay the amount of tax to the Commissioner in 2 instalments as described in section RA 15 (Payment dates for interim and other tax payments).
 When subsection (5) applies
 (4) Subsection (5) applies when the person has withheld more than $500 in total amounts of tax for a 2 month-period from the start of 1 month in a tax year to the end of the month following that month.
@@ -39870,12 +40209,12 @@ This subpart establishes and measures a person’s entitlement to a refund for a
 Amounts arising on original assessments
 (1A) The Commissioner must refund an amount of tax that a person has paid if—
   (a) the amount is more than the tax required to be paid by the person under this Part; and
-  (b) the amount has arisen on an original assessment; and
+  (b) the amount has arisen on an original assessment or an amended assessment referred to in subsection (3); and
   (c) the Commissioner is satisfied, or has received notice, that the person is entitled to the refund.
 Amount more than required
 (1) The Commissioner must refund an amount of tax that a person has paid if—
   (a) the amount is more than the tax required to be paid by the person under this Part; and
-  (ab) the amount has arisen on an amended assessment; and
+  (ab) the amount has arisen on an amended assessment other than an amended assessment referred to in subsection (3); and
   (b) the Commissioner is satisfied, or receives notice, that the person is entitled to the refund before the end of—
     (i) for income tax, the 4-year period under section 108(1) of the Tax Administration Act 1994 for amendment of an assessment, if subparagraphs (ic) and (ii) do not apply; or
     (ib) for an ancillary tax or approved issuer levy, the 4-year period under section 108(1C) of that Act for amendment of an assessment, if subparagraphs (ic) and (ii) do not apply; or
@@ -39885,6 +40224,8 @@ Refundable credits
 (1B) An amount of tax under subsection (1) includes an amount of a refundable tax credit to which section LA 5(5) (Treatment of remaining credits) applies.
 Refunds arising on amended assessments
 (2)
+Amounts arising on treatment of some backdated payments as exempt income
+(3) Subsection (1A) applies for an amended assessment arising from the treatment of a payment as being exempt income under section CZ 36 (Treatment of backdated payments for social rehabilitation: 2008–09 to 2017–18 income years).
 
 ### RM 3 Refunds for overpaid FDP
 [Repealed]
@@ -41444,7 +41785,7 @@ In this Act, unless the context requires otherwise,—
   - **discontinuance profit formula** means the formula in section EY 37 (Discontinuance profit formula (existing policies)) or the formula in section EY 38 (Discontinuance profit formula (new policies))
   - **discount payment date** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under Accident Insurance Act 1998) for the purposes of that section
   - **dispose** ,—
-    (a) in sections CB 6A to CB 16, CB 18, CB 19, CB 21, and CB 22 (which relate to the disposal of land), for land, includes—
+    (a) in sections CB 6A to CB 16, CB 18, CB 19, CB 21, CB 22, and subpart EL (which relate to the disposal of land), for land, includes—
       (i) compulsory acquisition under any Act by the Crown, a local authority, or a public authority:
       (ii) if there is a mortgage secured on the land, a disposal by or for the mortgagee as a result of the mortgagor’s defaulting under the mortgage:
     (b) in sections CB 24 (Disposal of timber or right to take timber), CB 25 (Disposal of land with standing timber), DP 10 (Cost of acquiring timber or right to take timber: other cases), DP 11 (Cost of timber), and GC 2 (Disposals of timber rights or standing timber), includes—
@@ -42137,7 +42478,7 @@ In this Act, unless the context requires otherwise,—
     (c) includes a sale and loan arrangement under which—
       (i) a person lends money on the security of goods that have been bought or are to be bought at retail if some or all of the purchase price is paid out of the proceeds of the loan; and
       (ii) the loan is made by the seller or by a third party, arranged by the seller, who is engaged in the business of lending money or who habitually lends money in the course of the third party’s business, in which case the arrangement is a hire purchase agreement made at the time the loan is made; and
-    (d) does not include an agreement under which property in the goods passes absolutely to the person who agrees to purchase them at the time of the agreement or on or at any time before delivery of the goods, unless the agreement is of a kind described in paragraph (a)﻿(i) or (a)﻿(ii); and
+    (d) does not include an agreement of a kind described in paragraph (a)﻿(i) or (ii) under which property in the goods passes absolutely, to the person who agrees to purchase the goods, at the time of the agreement or at the time of delivery of the goods or at any time before delivery of the goods; and
     (e) does not include an agreement made otherwise than at retail; and
     (f) does not include an agreement to the extent to which the property that is the subject of the agreement is livestock or bloodstock
   - **hire purchase asset** means the personal property that is the subject of a hire purchase agreement
@@ -42163,6 +42504,7 @@ In this Act, unless the context requires otherwise,—
   - **identical share** means a share that confers the same rights and imposes the same obligations on a holder as an original share
   - **IFRS** means a New Zealand Equivalent to International Financial Reporting Standard, in effect under the Financial Reporting Act 2013, and as amended from time to time or an equivalent standard issued in its place
   - **IFRS 4** means the IFRS, numbered NZ IFRS 4, that relates to insurance contracts
+  - **IFRS 9** means the IFRS, numbered 9, that relates to financial reporting of financial assets and financial liabilities
   - **IFRS designated FX hedge** means a FX hedge that is designated, under IFRS rules, as a hedge for a foreign ASAP for which section EW 32(2B) (Consideration for agreement for sale and purchase (ASAP) of property or services, hire purchase agreement, specified option, or finance lease) applies
   - **IFRSE** means an International Financial Reporting Standard approved by the International Accounting Standards Board, as amended from time to time
   - **impaired credit adjustment** is defined in section EW 15D(3) (IFRS financial reporting method) for the purposes of that section.
@@ -42387,6 +42729,7 @@ In this Act, unless the context requires otherwise,—
     (bbab) section EE 67 (Other definitions):
     (bb) section EI 4B (Consideration for agreement to grant, renew, extend, or transfer leasehold estate or licence):
     (c) sections FB 3 to FB 5 (which relate to the transfer of land on a settlement of relationship property)
+  - **land sales provisions** is defined in section EL 3 (Definitions for this subpart) for the purposes of subpart EL (Allocation of deductions for excess residential land expenditure)
   - **LAQC**
   - **large budget film grant** means a payment that—
     (a) is in the nature of a large budget screen production grant or post-production digital and visual effects grant; and
@@ -42985,7 +43328,7 @@ In this Act, unless the context requires otherwise,—
   - **NZIAS 28** means New Zealand Equivalent to International Accounting Standard 28 in effect under the Financial Reporting Act 2013 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 31** means New Zealand Equivalent to International Accounting Standard 31 in effect under the Financial Reporting Act 2013 and as amended from time to time, or an equivalent standard issued in its place
   - **NZIAS 32** means New Zealand Equivalent to International Accounting Standard 32, in effect under the Financial Reporting Act 2013 and as amended from time to time, or an equivalent standard issued in its place
-  - **NZIAS 39** means New Zealand Equivalent to International Accounting Standard 39, in effect under the Financial Reporting Act 2013 and as amended from time to time, or an equivalent standard issued in its place
+  - **NZIAS 39**
   - **NZIAS 41** is defined in section EB 6(3) (Cost) for the purposes of that section
   - **OECD transfer pricing guidelines** means guidelines published by the Organisation for Economic Co-operation and Development as OECD 2017, OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations 2017, OECD Publishing, Paris
   - **offered or entered into in New Zealand** , for an insurance contract, a reinsurance contract, and a life insurance policy, means a contract or policy offered or entered into in New Zealand, whether or not—
@@ -43328,7 +43671,7 @@ In this Act, unless the context requires otherwise,—
     (c) in sections RD 42 and RD 43 (which relate to goods provided with staff discount), for a registered person who may claim input tax for goods provided to an employee, means the GST-inclusive price
   - **primary producer co-operative company** is defined in section CZ 7(4) (Primary producer co-operative companies: 1987–88 income year) for the purposes of that section
   - **principal caregiver** is defined in section MC 10 (Principal caregiver) for the purposes of the child tax credit, WFF tax credit, in-work tax credit, and parental tax credit
-  - **principal settlor** is defined in section CB 16A (Main home exclusion for disposal within 5 years) for the purposes of that section
+  - **principal settlor** is defined in section CB 16A (Main home exclusion for disposal within 5 years) for the purposes of that section and section EL 9 (Main home exclusion)
   - **private domestic worker** means a person employed by any other person if—
     (a) the employer is the occupier, or 1 of the occupiers, of a dwellinghouse or other premises used exclusively for residential purposes; and
     (b) the employment is for the performance of work in or about the dwellinghouse or premises or the garden or grounds belonging to the dwellinghouse or premises; and
@@ -43598,6 +43941,7 @@ In this Act, unless the context requires otherwise,—
   - **resident passive income** —
     (a) is defined in section RE 2(1) (Resident passive income); and
     (b) unless the context otherwise requires, includes RWT required to be withheld under the RWT rules
+  - **residential income** is defined in section EL 3 (Definitions for this subpart) for the purposes of subpart EL (Allocation of deductions for excess residential land expenditure)
   - **residential land** ,—
     (a) means—
       (i) land that has a dwelling on it:
@@ -43607,8 +43951,11 @@ In this Act, unless the context requires otherwise,—
       (i) used predominantly as business premises:
       (ii) farmland
   - **residential land purchase amount** means, in relation to residential land located in New Zealand, an amount paid or payable for the disposal of the land, but excludes a deposit or part payment (the ) if deposits and part payments, including the part-amount, total, in aggregate, less than 50% of the purchase price for the land
+  - **residential land-rich entity** is defined in section EL 3 (Definitions for this subpart) for the purposes of sections EL 16 to EL 19 (which relate to the calculation of interests in interposed entities)
   - **residential mortgage backed security**
+  - **residential portfolio** is defined in section EL 3 (Definitions for this subpart) for the purposes of subpart EL (Allocation of deductions for excess residential land expenditure)
   - **residential purposes** is defined in section CB 18(3) (Residential exclusion from section CB 14) for the purposes of that section
+  - **residential rental property** is defined in section EL 3 (Definitions for this subpart) for the purposes of subpart EL (Allocation of deductions for excess residential land expenditure)
   - **resident’s restricted amalgamation** is defined in section FO 3(1) (Resident’s restricted amalgamations) for the purposes of the amalgamation rules
   - **residual expenditure** means—
     (a) expenditure for which a person is allowed a deduction under section DB 33 (Scientific research):
