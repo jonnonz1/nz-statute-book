@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 2011
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-06-26_
 
 ### 1 Title
 This Act is the Student Loan Scheme Act 2011.
@@ -354,11 +354,12 @@ A student loan establishment fee of $60 (or any other amount prescribed by regul
 (4) This section is intended as a guide only.
 
 ### 22 Meaning of New Zealand-based
-(1) The following persons are treated as being New Zealand-based:
-  (a) a borrower who is physically in New Zealand, or treated as being physically in New Zealand under section 25(1), for a period of 183 consecutive days:
-  (b) a borrower who—
-    (i) is physically absent from New Zealand for a period, or aggregated periods, of no more than 31 days during a period of 183 consecutive days; but
-    (ii) is physically in New Zealand, or treated as being physically in New Zealand under section 25(1), for the balance of that 183-day period, including the first day of that period.
+(1) A borrower is New Zealand-based if—
+  (a) the borrower is physically in New Zealand for a period of 183 consecutive days; or
+  (b) the borrower is treated as being physically in New Zealand for a period of 183 consecutive days because—
+    (i) the borrower is physically absent from New Zealand for a period, or aggregated periods, of no more than 31 days during a period of 183 consecutive days; and
+    (ii) the borrower is physically in New Zealand for the first day of that 183-day period.
+(1A) A day on which a borrower is treated as being physically in New Zealand under section 24 or 25 counts in the same way as a day on which the borrower is actually physically in New Zealand.
 (2) A period of 183 consecutive days may include any days before the day on which a person becomes a borrower.
 (3) For the purposes of subsection (1), a borrower is treated as being New Zealand-based—
   (a) from the later of—
@@ -368,12 +369,14 @@ A student loan establishment fee of $60 (or any other amount prescribed by regul
 (4) A borrower ceases to be New Zealand-based if that borrower becomes overseas-based.
 
 ### 23 Meaning of overseas-based
-(1) The following persons are treated as being overseas-based:
-  (a) a borrower who is not treated as being New Zealand-based under section 22:
+(1) The following persons are overseas-based:
+  (a) a borrower who is not New Zealand-based under section 22:
   (b) a New Zealand-based borrower who is physically absent from New Zealand for a period of 184 consecutive days:
-  (c) a New Zealand-based borrower who—
-    (i) is physically in New Zealand, or treated as being physically in New Zealand under section 25(1), for a period, or aggregated periods, of 31 days or less during a period of 184 consecutive days; and
-    (ii) is physically absent from New Zealand for the balance of that 184-day period, including the first day of that period.
+  (c) a New Zealand-based borrower who is treated as physically absent from New Zealand for a period of 184 consecutive days because—
+    (i) the borrower is physically in New Zealand for a period, or aggregated periods, of 31 days or less during a period of 184 consecutive days; and
+    (ii) the borrower is physically absent from New Zealand for the first day of that 184-day period.
+(1A) A borrower must not be treated as being physically absent from New Zealand for any day on which that borrower is treated as being physically in New Zealand under section 22(1)﻿(b).
+(1B) A day on which a borrower is treated as being physically in New Zealand under section 24 or 25 counts in the same way as a day on which the borrower is actually physically in New Zealand.
 (2) A period of 184 consecutive days may include any days before the day on which a person becomes a borrower.
 (3) For the purposes of subsection (1), a borrower is treated as being overseas-based—
   (a) from the later of—
