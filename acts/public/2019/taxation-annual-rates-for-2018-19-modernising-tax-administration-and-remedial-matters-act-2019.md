@@ -1,5 +1,5 @@
 # Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-06-26_
 
 ### 1 Title
 This Act is the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019.
@@ -35,7 +35,7 @@ This Act is the Taxation (Annual Rates for 2018–19, Modernising Tax Administra
 (28) Sections 46, 48, 57(4), 60, 193, 194, 195, 196, 197, 198, 199, 200, 204, 206, 207, 233, 234, 238, 239, 241, 279, 285, 301(1), and 355 come into force on 1 July 2018.
 (29) Section 291(2) is treated as coming into force on 4 September 2018.
 (30) Sections 104, 133, 158, 159, 162, 183, 278(14), (20), (27), (28), and (37), and 287 come into force on 1 January 2019.
-(31) Sections 5(21), (24), (25), (26), (27), (36), (38), (43), (50), (51), (54), (61), (62), (64), (65), and (66), 6, 8, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 31, 32, 36, 37, 38, 39(1), (2), (3), and (4), 40, 41, 43, 45, 47, 51, 52, 54(4), 70, 71, 72, 73, 74, 75, 77, 81, 82, 89, 92, 93, 94, 98, 99, 102, 103, 104, 105, 107, 108, 109, 111(b), 132, 140, 143, 144, 146, 205, 226(1) to (6) and (8) to (11), 232, 240, 245, 246, 247, 248, 249, 250, 251(2), 194, 252, 253, 254, 255, 257, 258, 266, 271, 272, 273, 274, 278(7), (11), (15), (21), (24), (26), (39), and (40), 308, 314, 317, 319, 321, 323, 324, 325, 328, 329, 330, 331, 332, 333, 350, 351, 354, and 365 come into force on 1 April 2019.
+(31) Sections 5(21), (24), (25), (26), (27), (36), (38), (43), (50), (51), (54), (61), (62), (64), (65), and (66), 6, 8, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 31, 32, 36, 37, 38, 39(1), (2), (3), and (4), 40, 41, 43, 45, 47, 51, 52, 54(4), 70, 71, 72, 73, 74, 75, 77, 81, 82, 89, 92, 93, 94, 98, 99, 102, 103, 104, 105, 107, 108, 109, 111(b), 132, 140, 143, 144, 146, 205, 226(1) to (6) and (8) to (11), 232, 240, 245, 246, 247, 248, 249, 250, 251(2), 252, 253, 254, 255, 257, 258, 266, 271, 272, 273, 274, 278(7), (11), (15), (21), (24), (26), (39), and (40), 308, 314, 317, 319, 321, 323, 324, 325, 328, 329, 330, 331, 332, 333, 350, 351, 354, and 365 come into force on 1 April 2019.
 (32) Sections 242, 289, 309, 310, 311, 312, 313, 315, 316, 318, and 320(1) come into force on 1 July 2019.
 (33) Sections 5(10), (47), and (59), 56, 58, 63, 375, 376, and 377 come into force on 1 October 2019.
 (34) Sections 160 and 161 come into force on 1 January 2020.
@@ -2420,11 +2420,11 @@ In section MK 2(1)﻿(c), replace clause 4(3) with clause 4.
   (b) relating to the transfer, after a company becomes a member of a consolidated imputation group, of imputation credits arising in the imputation credit account of the company, before the company becomes a member of the consolidated imputation group, to the imputation credit account of the consolidated imputation group; and
   (c) relying on section OP 22 as it was before the date on which the amendments made by subsections (1) and (2) came into force; and
   (d) to the extent to which the amount of the imputation credits referred to in paragraph (b) that are transferred to the imputation credit account of the consolidated imputation group does not exceed the amount of the debit referred to in section OP 22(1)﻿(b) arising in the imputation credit account of the consolidated imputation group immediately before the transfer.
-(4) To the extent to which the amendments made by subsections (1) and (2), together with the effect of subsection (3), give rise to a debit balance in an imputation credit account at the end of—
-  (a) a tax year before the 2020–21 tax year, a company is not liable for further income tax arising under section OB 65, or imputation additional tax arising under section OB 72, or imputation penalty tax arising under section 140B of the Tax Administration Act 1994, for the debit balance:
-  (b) the 2020–21 tax year, a company is—
-    (i) liable for further income tax arising under section OB 65 for the debit balance with a due date for payment that is 60 days after the date on which this Act receives the Royal assent, despite section OB 65(3):
-    (ii) not liable for imputation additional tax arising under section OB 72, or imputation penalty tax arising under section 140B of the Tax Administration Act 1994, for the debit balance.
+(4) If the amendments made by subsections (1) and (2), together with the effect of subsection (3), give rise to a debit balance, or an increase in a debit balance, (the adjustment debit amount) in an imputation credit account of a company at the end of a tax year (the adjustment year) before the 2019–20 tax year,—
+  (a) the company is not liable for further income tax arising under section OB 65, or imputation additional tax arising under section OB 72, or imputation penalty tax arising under section 140B of the Tax Administration Act 1994, for an adjustment debit amount and an adjustment year before the 2018–19 tax year:
+  (b) a company that has an adjustment debit amount and has a debit balance (the resulting debit balance) in the imputation credit account at the end of the 2018–19 tax year is—
+    (i) liable for further income tax arising under section OB 65 for the resulting debit balance, to the extent that the resulting debit balance arises from adjustment debit amounts, with a due date for payment that is 7 March 2020, despite section OB 65(3):
+    (ii) not liable for imputation additional tax arising under section OB 72, or imputation penalty tax arising under section 140B of the Tax Administration Act 1994, for the resulting debit balance to the extent that the resulting debit balance arises from the adjustment debit amounts.
 
 ### 245 Section RA 13 amended (Payment dates for terminal tax)
 (1) Repeal section RA 13(2)﻿(a)﻿(ii).
@@ -3248,7 +3248,7 @@ In regulation 36(5) of the Taxation Review Authorities Regulations 1998, replace
 Sections 375 to 378 amend the Tax Administration (Binding Rulings) Regulations 1999.
 
 ### 375 Regulation 2 amended (Interpretation)
-In regulation 2 of the Tax Administration (Binding Rulings) Regulations 1991, insert, in appropriate alphabetical order:
+In regulation 2 of the Tax Administration (Binding Rulings) Regulations 1999, insert, in appropriate alphabetical order:
   - **short-process ruling** means a ruling of the Commissioner under section 91EK of the Act
 
 ### 376 Regulation 3 amended (Fees)
