@@ -463,7 +463,7 @@ After section 85B, insert:Certain contracts entered into before 1 December 2019
 ## Part 3 — Amendments to other enactments
 
 ### 43 Income Tax Act 2007 amended
-Sections 43 to 104 amend the Income Tax Act 2007.
+Sections 44 to 80 amend the Income Tax Act 2007.
 
 ### 44 Section CB 16A amended (Main home exclusion for disposal within 5 years)
 In section CB 16A(3), replace section with section and section EL 9 (Main home exclusion).
@@ -863,7 +863,7 @@ In section RF 2C, in the list of defined terms, delete approved issuer.
 The Income Tax Act 2007 is amended as set out in schedule 1.
 
 ### 81 Tax Administration Act 1994 amended
-Sections 82 to 105 amend the Tax Administration Act 1994.
+Sections 82 to 106 amend the Tax Administration Act 1994.
 
 ### 82 Section 3 amended (Interpretation)
 (1) This section amends section 3(1).
