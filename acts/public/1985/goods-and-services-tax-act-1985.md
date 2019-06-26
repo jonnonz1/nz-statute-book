@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-06-26_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -238,7 +238,7 @@ _Consolidation as at 2019-03-18_
     (i) person A is associated with another person (the relative) under paragraph (c); and
     (ii) the relative is associated with the trustee under paragraph (f):
   (d) a partnership and a partner in the partnership:
-  (e) a partnership and a person if the person is associated with a partner in the partnership:
+  (e)
   (f) a trustee of a trust and a person who has benefited or is eligible to benefit under the trust, except if, in relation to a supply of goods and services,—
     (i) the trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes and the supply is made in carrying out these purposes; or
     (ii) the person is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes and the supply enables them to carry out these purposes:
@@ -252,8 +252,8 @@ _Consolidation as at 2019-03-18_
     (iii) has not benefited from the trust; and
     (iv) is not eligible to benefit from the trust:
   (i) a person (person A) and another person (person B) if—
-    (i) person B is associated with a third person (person C) under any one of paragraphs (a) to (h); and
-    (ii) person C is associated with person A under any one of paragraphs (a) to (h).
+    (i) person B is associated with a third person (person C) under any one of paragraphs (a) to (hb); and
+    (ii) person C is associated with person A under any one of paragraphs (a) to (hb).
 (2) For the purpose of subsection (1)﻿(a), group of persons has the meaning set out in section YA 1 of the Income Tax Act 2007.
 (3) For the purpose of subsection (1)﻿(a) and (1)﻿(b)—
   (a) market value circumstance has the meaning set out in section YA 1 of the Income Tax Act 2007, as if the reference to this Act in paragraph (e) of the definition were to the Goods and Services Tax Act 1985:
@@ -880,6 +880,7 @@ This Act shall bind the Crown.
   (jb) the services are the arranging of underlying services that—
     (i) are physically performed outside New Zealand; and
     (ii) are not remote services supplied to a New Zealand resident who is not a registered person; or
+  (jbb) the services are the arranging of underlying services that are supplied directly in connection with moveable personal property, other than choses in action, situated outside New Zealand when the services are performed; or
   (jc) the services are a supply of services to which section 60(1C)﻿(a) applies, being a supply from an underlying supplier to an operator of a marketplace; or
   (k) subject to subsection (2), the services are supplied to a person who is a non-resident and who is outside New Zealand at the time the services are performed, not being services which are—
     (i) supplied directly in connection with land situated in New Zealand, or with an improvement to such land, or are supplied in connection with such land or improvement and are intended to enable or assist a change in the physical condition, or ownership or other legal status, of the land or improvement; or
@@ -1021,7 +1022,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
     (iii) a licence to occupy:
   (ca) the supply of leasehold land by way of rental (not being a grant or sale of the lease of that land) to the extent that that land is used for the principal purpose of accommodation in a dwelling erected on that land:
   (cb) the supply of property by way of lease that is to be used for the principal purpose of accommodation in a dwelling by any person, other than a registered person in the course or furtherance of a taxable activity:
-  (d) the supply, being a sale, by any registered person in the course or furtherance of any taxable activity of—that has been used by the registered person for a period of 5 years or more before the date of the supply exclusively for the making of any supply or supplies referred to in paragraph (c) or paragraph (ca):
+  (d) the supply, being a sale, by any registered person in the course or furtherance of any taxable activity of—that has been used by the registered person for a period of 5 years or more before the date of the supply exclusively for the making of any supply or supplies referred to in paragraph (c), (ca), or (cb):
     (i) any dwelling; or
     (ii) the reversionary interest in the fee simple estate of any leasehold land,—
   (e) the supply of any fine metal, not being a supply which, but for this paragraph, would be charged with tax at the rate of 0% pursuant to section 11.
@@ -1413,8 +1414,8 @@ If a person makes a return that includes a figure for the value of supplies char
 (1) A registered person who uses an asset described in section DG 3 of the Income Tax Act 2007 for making taxable supplies has a deduction under section 20(3)﻿(hb) of an amount calculated using the formula—input tax for asset × total income-earning days ÷ (total income-earning days + total private days).
 (2) In the formula,—
   (a) input tax for asset is the input tax on expenditure that the person incurs in relation to the use of the asset, other than expenditure that is—
-    (i) related solely to the income-earning use of the asset as described in section DG 7 of that Act; or
-    (ii) related solely to the private use of the asset, as that term is defined in section DG 4 of that Act:
+    (i) related solely to the taxable use of the asset; or
+    (ii) related solely to the non-taxable use of the asset:
   (b) total income-earning days is the total number of days in the period on which the person supplies the asset for use and derives consideration for the supply, whether at, above, or below market value as that term is defined in section DG 3(5) of that Act, including any days on which—
     (i) the use made of the asset is described in section DG 4(3) to (5) of that Act:
     (ii) the asset has become unavailable for use because another person who had earlier reserved the asset for their own use, subsequently did not take advantage of that reservation:
@@ -1431,11 +1432,14 @@ If a person makes a return that includes a figure for the value of supplies char
 (8) For the purposes of this section, a registered person does not include a widely-held company, as that term is defined in section YA 1 of the Income Tax Act 2007.
 
 ### 20H Goods and services tax incurred in making financial services for raising funds
-(1) A registered person who principally makes taxable supplies and who makes supplies of financial services in the course of an activity of raising funds that are intended for use by the registered person for expenditure in a taxable activity has a deduction under section 20(3)﻿(hd) of input tax for the supplies of financial services, if the financial services—
-  (a) are not referred to in section 11A(1)﻿(q) and (r); and
-  (b) do not give rise to a deduction under section 20(3) for the registered person in the absence of this section; and
-  (c) are the issue or allotment of a debt security or equity security, the renewal of a debt security or equity security, the payment of an amount of interest, principal, or dividend for a debt security or equity security, or the provision or variation of a guarantee of the performance of obligations in the issue, allotment, or renewal, of a debt security or equity security; and
-  (d) fail to raise the funds or do raise funds that are used by the registered person for expenditure in the taxable activity.
+(1) A registered person who makes supplies of financial services referred to in paragraph (a), and is, or intends to be, principally making supplies that would be taxable supplies in the absence of the supplying of the financial services, has a deduction under section 20(3)﻿(hd) of input tax for the supplies that are used in making the supplies of the financial services, if—
+  (a) the supplies of the financial services (the funding support services) are made in the course of raising funds that are intended to be used in a taxable activity, or to be a replacement for funds used in a taxable activity, of the registered person or of a person (the group company) in the same group of companies under the Income Tax Act 2007; and
+  (b) the funding support services are not referred to in section 11A(1)﻿(q) and (r); and
+  (c) the supplies used in making the supplies of funding support services do not give rise to a deduction under section 20(3) for the registered person or the group company in the absence of this section; and
+  (d) the funding support services are the issue or allotment of a debt security or equity security, the renewal of a debt security or equity security, the payment of an amount of interest, principal, or dividend for a debt security or equity security, or the provision or variation of a guarantee of the performance of obligations in the issue, allotment, or renewal of a debt security or equity security; and
+  (e) the funding support services fail to raise the funds or do raise funds that are used, or that replace funds that are used, by the registered person or the group company for expenditure in the taxable activity; and
+  (f) the supplies used in making the supplies of funding support services would give rise to a deduction under section 20(3) if used in the taxable activity in which the funds are intended to be used.
+(1B) If a registered person makes supplies of financial services in the course of raising funds that are or would have been used by the registered person or a group company in both a taxable activity and an activity that is not a taxable activity (the funded activities), the deduction for input tax under subsection (1) is limited to the input tax from a fraction of the total expenditure incurred in supplying the financial services, where the fraction equals the fraction of the total value of supplies made in the course or furtherance of the funded activities that consists of taxable supplies.
 (2) A non-resident person who is registered under section 54B does not have a deduction of input tax under subsection (1).
 
 ### 21 Adjustments for apportioned supplies
@@ -1607,6 +1611,7 @@ For the purposes of section 21A(b),—
 (2) Input tax in relation to the acquisition referred to in subsection (3) may be deducted under section 20(3C) to the extent to which a deduction has not been made under the old apportionment rules.
 (3) The person must treat the goods or services as acquired on 1 April 2011 at the original cost of the supply.
 (4) A person may choose that a supply of accommodation in premises not be a taxable supply if the premises—
+  (aa) were acquired by the person before 1 April 2011; and
   (a) met the requirements of the definition of dwelling immediately before section 4(3) and (4) of the Taxation (GST and Remedial Matters) Act 2010 amended the definitions of commercial dwelling and dwelling; and
   (b) do not meet the requirements of the definition of dwelling because of the amendments referred to in paragraph (a).
 (5) Subsection (4) does not apply if the value of the person’s supplies of accommodation in premises affected by the amendments exceeds the threshold value given by section 51(1)﻿(a).
@@ -1768,7 +1773,7 @@ A registered person who receives a supply of services that is treated by section
 (1) This section shall apply where, in relation to the supply of goods and services by any registered person,—and the supplier has—
   (a) that supply of goods and services has been cancelled; or
   (aa) the nature of that supply of goods and services has been fundamentally varied or altered; or
-  (aab) section 8(4) was incorrectly applied to the treatment of the supply, so that the services were treated as having been supplied in New Zealand when they should have been treated as being supplied outside New Zealand, for a supply—
+  (aab) section 8(4D) was incorrectly applied to the treatment of the supply, so that the services were treated as having been supplied in New Zealand when they should have been treated as being supplied outside New Zealand, for a supply—
     (i) made by a non-resident supplier of services to which section 8(3)﻿(c) applies; and
     (ii) for which no election was subsequently made under section 24(5B); or
   (ab) section 11(1)﻿(mb) was incorrectly applied to the treatment of the supply, so that the supply was either zero-rated when it should not have been, or not zero-rated when it should have been; or
@@ -2447,7 +2452,7 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
   (c) any list required to be prepared in accordance with section 19B(3) or section 78B(7).
 (3) Subject to subsections (4) to (7), every registered person must keep, for a period of at least 7 years after the end of the taxable period to which they relate, the records listed in subsection (2) and records that are sufficient to enable ready ascertainment by the Commissioner or an officer authorised by the Commissioner of the registered person's liability to tax.
 (3BA) A registered person required by subsection (3) to keep and retain a record must keep and retain the record—
-  (a) in English, or in a language in which the Commissioner authorises the person under subsection (6) to keep the record or the type of record; and
+  (a) in English or te reo Maori, or in a language in which the Commissioner authorises the person under subsection (6) to keep the record or the type of record; and
   (b) at a place in New Zealand, or at a place outside New Zealand where—
     (i) the Commissioner authorises the registered person under subsection (6) to keep the record or the type of record:
     (ii) the record is kept by a person authorised by the Commissioner under subsection (6) to keep records for persons that include the registered person.
@@ -2460,7 +2465,7 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
 (3D) The requirements of subsection (3B)﻿(a) and (b) are met if the supplier maintains sufficient records to enable the particulars of the name, and address, and registration number or tax file number, as applicable of the agent to be ascertained.
 (3E) The agent must maintain sufficient records in relation to the undisclosed principal to enable the name, address, and, if the principal is a registered person or expects to be a registered person, the registration number of the principal to be ascertained.
 (3F) Subsection (3BA) does not apply to require a non-resident supplier whose only supplies are supplies of remote services to which section 8(3)﻿(c) applies, to keep and retain records—
-  (a) in English or in a language authorised by the Commissioner; or
+  (a) in English or te reo Maori or in a language authorised by the Commissioner; or
   (b) at a place in New Zealand or at a place outside New Zealand authorised by the Commissioner.
 (4) This section shall not require the retention of any records—
   (a) in respect of which the Commissioner has given notice that retention is not required:
@@ -2470,7 +2475,7 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
   (b) the Commissioner intends to conduct such an audit or investigation before the expiry of the retention period as so extended, or is actively considering any such audit or investigation.
 (6) The Commissioner may, upon application by a registered person or another person, authorise for the purposes of subsection (3BA),—
   (a) a registered person to keep and retain a record or a type of record—
-    (i) in a language other than English:
+    (i) in a language other than English or te reo Maori:
     (ii) at a place outside New Zealand:
   (b) a person to hold, for a registered person, records—
     (i) at places outside New Zealand; and
@@ -2481,6 +2486,7 @@ Section HD 15 of the Income Tax Act 2007, with any necessary modifications, appl
   (b) reasonably vary the conditions on the authorisation:
   (c) withdraw the authorisation, upon request by the person or after giving reasonable notice of the withdrawal:
   (d) give public notice of an action under subsection (6)﻿(b) or this subsection, in a publication chosen by the Commissioner.
+(8) A registered person who is required under this section to keep and maintain records that are in a language other than English must comply with the requirements of sections 24, 24BA, and 25 relating to English words that must appear on a tax invoice, or a debit note or credit note, provided by the registered person.
 
 ### 75B General rules for giving information or communicating matters
 (1) Sections 14 to 14G of the Tax Administration Act 1994 apply for the purposes of this Act, unless the context requires otherwise, when a person gives information to, or communicates with, another person by—
