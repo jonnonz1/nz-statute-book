@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-06-27_
 
 > Title
 
@@ -1386,11 +1386,13 @@ The Commissioner may, under this subpart, make a determination expressed to be r
 
 ### 89Y Application for exemption on grounds relating to sex offence
 (1) A liable parent may, by notice in writing to the Commissioner, apply for an exemption from the payment of child support in relation to a particular child if—
-  (a) either—
-    (i) another person has been convicted of a sex offence; or
-    (ii) another person has been proved to have committed a sex offence before the Youth Court; and
+  (a) any of the following apply:
+    (i) another person has been convicted of a sex offence:
+    (ii) another person has been proved before the Youth Court to have committed a sex offence:
+    (iii) the liable parent believes that another person has committed a sex offence; and
   (b) the liable parent is the victim of that sex offence; and
   (c) the liable parent believes that the child was conceived as a result of that sex offence.
+(1A) A liable parent may apply under subsection (1)﻿(a)﻿(iii) even if the liable parent is unable to name the other person referred to in that subparagraph.
 (2) For the purposes of this subpart,—
   - **sex offence** means an offence under sections 127 to 144C of the Crimes Act 1961
   - **victim** means, in relation to a sex offence, the person against whom the offence is committed by another person.
@@ -1398,33 +1400,34 @@ The Commissioner may, under this subpart, make a determination expressed to be r
 ### 89Z Grant of exemption to victim of sex offence
 (1) The Commissioner must, as soon as practicable after receiving an application under section 89Y in respect of a liable parent and a particular child, exempt the person from the payment of child support in relation to that child if—
   (a) the application is made in accordance with that section; and
-  (b) the Commissioner is satisfied that the liable parent is a victim of a sex offence; and
-  (c) the Commissioner is satisfied that either—
-    (i) another person has been convicted of that sex offence; or
-    (ii) another person has been proved to have committed that sex offence before the Youth Court; and
+  (b) any of the following apply:
+    (i) the Commissioner is satisfied that another person has been convicted of a sex offence:
+    (ii) the Commissioner is satisfied that another person has been proved before the Youth Court to have committed a sex offence:
+    (iii) in the opinion of the Commissioner, it is likely that another person has committed a sex offence; and
+  (c) the Commissioner is satisfied that the liable parent is a victim of that sex offence; and
   (d) in the opinion of the Commissioner, it is likely that the child was conceived as a result of that sex offence.
+(1A) The Commissioner may act under subsection (1)﻿(b)﻿(iii) even if the other person has been acquitted of the sex offence.
 (2) If the Commissioner grants an exemption under subsection (1), the period of exemption commences on the day on which the Commissioner received the application for the exemption.
-(3) However, the period of exemption commences on the day on which the Commissioner receives a properly completed application for formula assessment under Part 1 in relation to the child if—
-  (a) that application for formula assessment was made on or after the day on which the person referred to in subsection (1)﻿(c) was convicted of the sex offence or was proved to have committed the sex offence before the Youth Court; and
-  (b) the liable parent made the application for the exemption under this subpart within 28 days after the date on which notice of the decision under section 17(1) was given by the Commissioner to the liable parent.
+(3) However, the period of exemption may commence on a day determined by the Commissioner that is earlier than the day on which the Commissioner received the application for exemption if the Commissioner is satisfied that it is—
+  (a) just and equitable as regards the child, the receiving carer, the liable parent, and any other child, carer, or parent that may be affected by the Commissioner’s decision; and
+  (b) otherwise proper.
 (4) The Commissioner may, for the purpose of determining whether a person is eligible for an exemption under this section, obtain information from the Ministry of Justice, the New Zealand Police, or both in accordance with section 85K of the Tax Administration Act 1994.
 
-### 89ZA Exemption is void if conviction quashed or finding is reversed or set aside
+### 89ZA Exemption is void in certain circumstances
 (1) An exemption granted under section 89Z(1) is void from the beginning if,—
   (a) in the case of an application that is based on a conviction for a sex offence, that conviction is quashed on appeal; or
-  (b) in the case of an application that is based on a finding of the Youth Court that a sex offence has been proved to have been committed, that finding is reversed or set aside.
-(2) Subsection (1) does not prevent a liable parent from making a new application under section 89Y if, in the case of a conviction that is quashed,—
-  (a) a court has directed a retrial in relation to the matter; and
-  (b) a person has subsequently been convicted of the sex offence.
-(3) If, following that new application, an exemption is granted under section 89Z(1),—
-  (a) the exemption commences on the date of conviction in relation to the retrial if the new application is received within 28 days after the date of conviction in relation to the retrial; or
-  (b) in any other case, the exemption commences on the date the Commissioner received the new application for the exemption.
+  (b) in the case of an application that is based on a finding of the Youth Court that a sex offence has been proved to have been committed, that finding is reversed or set aside; or
+  (c) in the case where the Commissioner relies on section 89Z(1)﻿(b)﻿(iii) when granting the exemption, the Commissioner is no longer of the opinion that it is likely that another person has committed the sex offence.
+(2) Subsection (1) does not prevent a liable parent from making a new application under section 89Y.
+(3) If, following a new application, an exemption is granted under section 89Z(1), the exemption commences on—
+  (a) the date on which the Commissioner received the new application for the exemption; or
+  (b) an earlier date under section 89Z(3).
 
 ### Subpart 5 — Miscellaneous provisions concerning exemptions
 
 ### 89ZB Commissioner must give effect to exemption and may take changes into account
 (1) The Commissioner must, as soon as practicable after granting an exemption under this Part, take the action that is necessary to give effect to the exemption (whether by revoking any assessment or otherwise).
-(2) The Commissioner must, as soon as practicable after being notified or otherwise becoming aware that an exemption under this Part does not apply for the whole or a part of a period for which the exemption was granted, take the action that is necessary to take that matter into account (whether by issuing or amending any assessment, amending any exemption, or otherwise).
+(2) The Commissioner must, as soon as practicable after being notified or otherwise becoming aware, or deciding, that an exemption under this Part does not apply for the whole or a part of a period for which the exemption was granted, take the action that is necessary to take that matter into account (whether by issuing or amending any assessment, amending any exemption, or otherwise).
 (3) Subsection (4) applies if 1 or more of the following applies:
   (a) the Commissioner has acted under section 89I(2) and the Commissioner is no longer satisfied that the estimates referred to in section 89I(2)﻿(a) are fair and reasonable:
   (b) the Commissioner has acted under section 89I(2) and the Commissioner is no longer satisfied that the assumptions referred to in section 89I(2)﻿(b) are reasonable in the circumstances of the case:
@@ -2767,7 +2770,7 @@ In any case where—
 ### 152A Relief in case of exemption granted to liable person
 (1) The Commissioner must write off the whole of a debt, and may make alterations in the assessment that are necessary for that purpose, if the debt—
   (a) is an amount that is repayable by the payee to the Commissioner under section 151 or 151AA; and
-  (b) arises solely as a result of the liable person being granted an exemption under subpart 2 of Part 5A.
+  (b) arises solely as a result of the liable person being granted an exemption under subpart 2 or 4 of Part 5A.
 (2) The Commissioner must, if the debt has been paid in whole or in part, refund to the payee the part of the debt that has been paid.
 (3) Any refund made under this section must be paid out of a Crown Bank Account without further appropriation than this section.
 
@@ -3936,6 +3939,15 @@ The amendments made by sections 43, 44, 50, and 51 of the Taxation (Annual Rates
 ### 11 Insertion of sections 180A and 180C (Writing off of child support debt)
 (1) In relation to child support in respect of a child support year ending before 1 April 2015, section 180A(1)﻿(a) applies as if the reference to the receiving carer were to the qualifying custodian.
 (2) In relation to child support in respect of a child support year ending before 1 April 2015 (including any penalty referred to in section 180D(a) to (c) relating to such child support), section 180C(a) applies as if the reference to the receiving carer were to the qualifying custodian.
+
+### Part 3 — Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019
+
+### 12 Exemption for victim of sex offence may take effect on or after 26 September 2006
+(1) An application may be made, and an exemption may be granted, under subpart 4 of Part 5A (as in force after commencement) in respect of—
+  (a) a sex offence that was committed (or is alleged to have been committed) before or after commencement:
+  (b) periods before or after commencement.
+(2) However, a day determined under section 89Z(3) (as in force after commencement) as the date on which the period of exemption commences may only be a date on or after 26 September 2006.
+(3) In this clause, commencement means the commencement of section 113 of the Taxation (Annual Rates for 2019–20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019.
 
 ## Schedule 2 — Care cost percentage
 
