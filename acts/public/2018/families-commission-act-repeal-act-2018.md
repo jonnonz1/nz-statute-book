@@ -1,5 +1,5 @@
 # Families Commission Act Repeal Act 2018
-_Consolidation as at 2018-05-28_
+_Consolidation as at 2019-06-30_
 
 ### 1 Title
 This Act is the Families Commission Act Repeal Act 2018.
