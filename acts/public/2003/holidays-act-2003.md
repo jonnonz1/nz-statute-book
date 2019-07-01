@@ -1,5 +1,5 @@
 # Holidays Act 2003
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Holidays Act 2003.
@@ -16,7 +16,7 @@ The purpose of this Act is to promote balance between work and other aspects of 
   (b) public holidays for the observance of days of national, religious, or cultural significance:
   (c) sick leave to assist employees who are unable to attend work because they are sick or injured, or because someone who depends on the employee for care is sick or injured:
   (d) bereavement leave to assist employees who are unable to attend work because they have suffered a bereavement:
-  (e) domestic violence leave to assist employees to deal with the effects on the employees of being people affected by domestic violence.
+  (e) family violence leave to assist employees to deal with the effects on the employees of being people affected by family violence.
 
 ### 4 Overview
 (1) This Act replaces the Holidays Act 1981.
@@ -27,7 +27,7 @@ The purpose of this Act is to promote balance between work and other aspects of 
     (iii) the application of the Act:
     (iv) the relationship between the Act and employment agreements:
   (b) Part 2—
-    (i) confers minimum entitlements to annual holidays, public holidays, sick leave, bereavement leave, and domestic violence leave:
+    (i) confers minimum entitlements to annual holidays, public holidays, sick leave, bereavement leave, and family violence leave:
     (ii) contains provisions dealing with how holiday pay and leave pay is calculated in various circumstances and when it must be paid:
   (c) Part 3 deals with the enforcement of an employee’s entitlements and other matters, including—
     (i) who can enforce entitlements in addition to the employee:
@@ -48,12 +48,12 @@ The purpose of this Act is to promote balance between work and other aspects of 
     (b) does not include a payment that the employer is bound, by the employee's employment agreement, to pay the employee, even though—
       (i) the amount to be paid is not specified in that employment agreement and the employer may determine the amount to be paid; or
       (ii) the employer is required under that employment agreement to make the payment only if certain conditions are met
-  - **domestic violence** has the meaning given to it in section 3 of the Domestic Violence Act 1995
-  - **domestic violence leave** means paid domestic violence leave provided under subpart 5 of Part 2
   - **employee** has the same meaning as in section 6 (except subsection (1)﻿(b)﻿(ii)) of the Employment Relations Act 2000
   - **existing collective agreement** means a collective agreement that was entered into before 1 April 2004
   - **existing employment agreement** means an employment agreement that is entered into before 1 April 2004
   - **existing individual employment agreement** means an individual employment agreement that was entered into before 1 April 2004
+  - **family violence** has the meaning given to it in section 9 of the Family Violence Act 2018
+  - **family violence leave** means paid family violence leave provided under subpart 5 of Part 2
   - **former Act** , in relation to the Accident Compensation Act 2001, has the same meaning as in section 6(1) of that Act
   - **gross earnings** has the meaning given to it by section 14
   - **holiday** —
@@ -68,11 +68,11 @@ The purpose of this Act is to promote balance between work and other aspects of 
   - **in advance** ,—
     (a) in relation to an annual holiday, means an annual holiday taken by an employee before the entitlement to the holiday has arisen under section 16:
     (b) in relation to sick leave or bereavement leave, means any sick leave or bereavement leave taken by the employee before the entitlement to the leave has arisen under section 63:
-    (c) in relation to domestic violence leave, means any domestic violence leave taken by the employee before the entitlement to the leave has arisen under section 72C
-  - **leave pay** means pay for sick leave, bereavement leave, or domestic violence leave
+    (c) in relation to family violence leave, means any family violence leave taken by the employee before the entitlement to the leave has arisen under section 72C
+  - **leave pay** means pay for sick leave, bereavement leave, or family violence leave
   - **ordinary weekly pay** has the meaning given to it by section 8
   - **partner** , in the phrase spouse or partner and in related contexts, means civil union partner or de facto partner
-  - **person affected by domestic violence** has the meaning given to it by section 72B
+  - **person affected by family violence** has the meaning given to it by section 72B
   - **public holiday** —
     (a) means a day specified in section 44(1); and
     (b) if there is a written agreement under section 44A or 44B,—
@@ -123,18 +123,18 @@ This Act—
 (3) However, an employment agreement may specify a special rate of ordinary weekly pay for the purpose of calculating annual holiday pay if the rate is equal to, or greater than, what would otherwise be calculated under subsection (1) or subsection (2).
 
 ### 9 Meaning of relevant daily pay
-(1) In this Act, unless the context otherwise requires, relevant daily pay, for the purposes of calculating payment for a public holiday, an alternative holiday, sick leave, bereavement leave, or domestic violence leave,—
+(1) In this Act, unless the context otherwise requires, relevant daily pay, for the purposes of calculating payment for a public holiday, an alternative holiday, sick leave, bereavement leave, or family violence leave,—
   (a) means the amount of pay that the employee would have received had the employee worked on the day concerned; and
   (b) includes—
     (i) productivity or incentive-based payments (including commission) if those payments would have otherwise been received had the employee worked on the day concerned:
     (ii) payments for overtime if those payments would have otherwise been received had the employee worked on the day concerned:
     (iii) the cash value of any board or lodgings provided by the employer to the employee; but
   (c) excludes any payment of any employer contribution to a superannuation scheme for the benefit of the employee.
-(2) However, an employment agreement may specify a special rate of relevant daily pay for the purpose of calculating payment for a public holiday, an alternative holiday, sick leave, bereavement leave, or domestic violence leave if the rate is equal to, or greater than, the rate that would otherwise be calculated under subsection (1).
+(2) However, an employment agreement may specify a special rate of relevant daily pay for the purpose of calculating payment for a public holiday, an alternative holiday, sick leave, bereavement leave, or family violence leave if the rate is equal to, or greater than, the rate that would otherwise be calculated under subsection (1).
 (3) To avoid doubt, if subsection (1)﻿(a) is to be applied in the case of a public holiday, the amount of pay does not include any amount that would be added by virtue of section 50(1)﻿(a) (which relates to the requirement to pay time and a half).
 
 ### 9A Average daily pay
-(1) An employer may use an employee's average daily pay for the purposes of calculating payment for a public holiday, an alternative holiday, sick leave, bereavement leave, or domestic violence leave if—
+(1) An employer may use an employee's average daily pay for the purposes of calculating payment for a public holiday, an alternative holiday, sick leave, bereavement leave, or family violence leave if—
   (a) it is not possible or practicable to determine an employee's relevant daily pay under section 9(1); or
   (b) the employee's daily pay varies within the pay period when the holiday or leave falls.
 (2) The employee's average daily pay must be calculated in accordance with the following formula:The following table is small in size and contains a formula.abwhere—ais the employee's gross earnings for the 52 calendar weeks before the end of the pay period immediately before the calculation is madebis the number of whole or part days during which the employee earned those gross earnings, including any day on which the employee was on a paid holiday or paid leave; but excluding any other day on which the employee did not actually work.
@@ -164,7 +164,7 @@ For the purposes of sections 8, 9, and 14, the ordinary weekly pay, relevant dai
 **Determination of what would otherwise be working day**
 
 ### 12 Determination of what would otherwise be working day
-(1) This section applies for the purpose of determining an employee’s entitlements to a public holiday, an alternative holiday, to sick leave, to bereavement leave, or to domestic violence leave.
+(1) This section applies for the purpose of determining an employee’s entitlements to a public holiday, an alternative holiday, to sick leave, to bereavement leave, or to family violence leave.
 (2) If it is not clear whether a day would otherwise be a working day for the employee, the employer and employee must take into account the factors listed in subsection (3), with a view to reaching agreement on the matter.
 (3) The factors are—
   (a) the employee’s employment agreement:
@@ -173,8 +173,8 @@ For the purposes of sections 8, 9, and 14, the ordinary weekly pay, relevant dai
     (i) whether the employee works for the employer only when work is available:
     (ii) the employer’s rosters or other similar systems:
     (iii) the reasonable expectations of the employer and the employee that the employee would work on the day concerned.
-  (d) whether, but for the day being a public holiday, an alternative holiday, or a day on which the employee was on sick leave or bereavement leave or domestic violence leave, the employee would have worked on the day concerned.
-(3A) If the public holiday, alternative holiday, or day on which the employee was on sick leave or bereavement leave or domestic violence leave falls during a closedown period, the factors listed in subsection (3) must be taken into account as if the closedown period were not in effect.
+  (d) whether, but for the day being a public holiday, an alternative holiday, or a day on which the employee was on sick leave or bereavement leave or family violence leave, the employee would have worked on the day concerned.
+(3A) If the public holiday, alternative holiday, or day on which the employee was on sick leave or bereavement leave or family violence leave falls during a closedown period, the factors listed in subsection (3) must be taken into account as if the closedown period were not in effect.
 (4) For the purposes of public holidays, if an employee would otherwise work any amount of time on a public holiday, that day must be treated as a day that would otherwise be a working day for the employee.
 
 ### 13 Labour Inspector may determine what would otherwise be working day
@@ -187,7 +187,7 @@ In this Act, unless the context otherwise requires, gross earnings, in relation 
   (a) means all payments that the employer is required to pay to the employee under the employee’s employment agreement, including, for example—
     (i) salary or wages:
     (ii) allowances (except non-taxable payments to reimburse the employee for any actual costs incurred by the employee related to his or her employment):
-    (iii) payment for an annual holiday, a public holiday, an alternative holiday, sick leave, bereavement leave, or domestic violence leave taken by the employee during the period:
+    (iii) payment for an annual holiday, a public holiday, an alternative holiday, sick leave, bereavement leave, or family violence leave taken by the employee during the period:
     (iv) productivity or incentive-based payments (including commission):
     (v) payments for overtime:
     (vi) the cash value of any board or lodgings provided by the employer as agreed or determined under section 10:
@@ -219,11 +219,11 @@ The purpose of this subpart is to—
 (1) After the end of each completed 12 months of continuous employment, an employee is entitled to not less than 4 weeks’ paid annual holidays.
 (2) For the purposes of subsection (1), the 12 months of continuous employment—
   (a) includes any period during which the employee was—
-    (i) on paid holidays or leave under this Act (for example, domestic violence leave); or
+    (i) on paid holidays or leave under this Act (for example, family violence leave); or
     (ii) on parental leave under the Parental Leave and Employment Protection Act 1987; or
     (iii) on volunteers leave within the meaning of the Volunteers Employment Protection Act 1973; or
     (iv) receiving weekly compensation under the Accident Compensation Act 2001 or former Act as well as, or instead of, payment from the employer; or
-    (v) on unpaid sick leave or unpaid bereavement leave or unpaid domestic violence leave; or
+    (v) on unpaid sick leave or unpaid bereavement leave or unpaid family violence leave; or
     (vi) on unpaid leave for any other reason for a period of no more than 1 week; but
   (b) unless otherwise agreed, does not include any other unpaid leave, being leave other than that referred to in paragraph (a)﻿(v) and (vi).
 (3) If, for the purposes of subsection (2)﻿(b), an employer and employee agree that any period of unpaid leave of more than 1 week is to be included in the employee’s 12 months of continuous employment, the divisor of 52 to be used for the purposes of calculating the employee’s average weekly earnings must be reduced by the number of whole or part weeks greater than 1 week that the employee was on the unpaid leave.
@@ -426,30 +426,30 @@ To avoid doubt, an employer may have different closedown periods for each separa
 (1) This section applies to an employee who is taking annual holidays under this subpart and who then suffers a bereavement as described in section 69(2).
 (2) The employer must allow the employee to take any period related to a bereavement that he or she would otherwise take as an annual holiday as bereavement leave.
 
-### 37A Employer must allow employee taking annual holidays to take domestic violence leave
-(1) This section applies to an employee who is taking annual holidays under this subpart and who then becomes entitled to take domestic violence leave under section 72C.
-(2) The employer must allow the employee to take any period related to the effects on the employee of domestic violence that the employee would otherwise take as an annual holiday as domestic violence leave.
+### 37A Employer must allow employee taking annual holidays to take family violence leave
+(1) This section applies to an employee who is taking annual holidays under this subpart and who then becomes entitled to take family violence leave under section 72C.
+(2) The employer must allow the employee to take any period related to the effects on the employee of family violence that the employee would otherwise take as an annual holiday as family violence leave.
 
-### 38 Sickness, injury, bereavement, or domestic violence arising before scheduled annual holidays
+### 38 Sickness, injury, bereavement, or family violence arising before scheduled annual holidays
 (1) This section applies if—
   (a) an employee has been allowed to take annual holidays under this subpart; and
   (b) before taking those holidays, the employee—
     (i) becomes sick or injured; or
     (ii) has a spouse or partner or dependant who becomes sick or injured; or
     (iii) suffers a bereavement as described in section 69(2); or
-    (iv) becomes entitled to take domestic violence leave under section 72C.
+    (iv) becomes entitled to take family violence leave under section 72C.
 (2) The employer must allow the employee to take—
   (a) any period of sickness or injury that the employee would otherwise take as an annual holiday as sick leave:
   (b) any period related to the bereavement that the employee would otherwise take as an annual holiday as bereavement leave:
-  (c) any period related to the effects on the employee of domestic violence that the employee would otherwise take as an annual holiday as domestic violence leave.
+  (c) any period related to the effects on the employee of family violence that the employee would otherwise take as an annual holiday as family violence leave.
 
-### 39 Employer may allow employee to take annual holidays if sick leave, bereavement leave, or domestic violence leave exhausted
+### 39 Employer may allow employee to take annual holidays if sick leave, bereavement leave, or family violence leave exhausted
 (1) This section applies if—
   (a) an employee has exhausted his or her entitlement to sick leave under subpart 4, but then—
     (i) becomes or remains sick or injured; or
     (ii) has a spouse or partner or dependant who becomes or remains sick or injured; or
   (b) an employee requires more leave for a bereavement than he or she is entitled to under subpart 4; or
-  (c) an employee requires more leave to assist the employee to deal with the effects on the employee of being a person affected by domestic violence than he or she is entitled to under subpart 5.
+  (c) an employee requires more leave to assist the employee to deal with the effects on the employee of being a person affected by family violence than he or she is entitled to under subpart 5.
 (2) The employer—
   (a) must not require the employee to take any leave in the circumstances set out in subsection (1) as annual holidays; but
   (b) may agree, if requested by the employee, to the leave being taken as annual holidays to which the employee is entitled.
@@ -683,15 +683,15 @@ An employer must pay an employee for a public holiday in the pay that relates to
 
 **Relationship between public holidays and other entitlements**
 
-### 61A Sickness, injury, bereavement, or domestic violence on public holiday
+### 61A Sickness, injury, bereavement, or family violence on public holiday
 (1) This section applies to an employee who is required, or has agreed, to work on a public holiday but who does not work on the day because—
   (a) the employee—
     (i) becomes or remains sick or injured; or
     (ii) has a spouse or partner or dependant who becomes or remains sick or injured; or
   (b) the employee suffers or has suffered a bereavement as described in section 69(2); or
-  (c) the employee becomes entitled to take domestic violence leave under section 72C.
+  (c) the employee becomes entitled to take family violence leave under section 72C.
 (2) If this section applies,—
-  (a) the public holiday must continue to be treated as a public holiday and not as sick leave, bereavement leave, or domestic violence leave for the employee; and
+  (a) the public holiday must continue to be treated as a public holiday and not as sick leave, bereavement leave, or family violence leave for the employee; and
   (b) to avoid doubt, the employee—
     (i) must be paid for the day in accordance with section 49 and is not entitled to be paid at time and a half in accordance with section 50(1)﻿(a); and
     (ii) is not entitled to an alternative holiday under section 56.
@@ -797,31 +797,31 @@ An employee is not entitled to be paid for any sick leave that has not been take
 (1) An employer must pay an employee for sick leave or bereavement leave in the pay that relates to the pay period in which the leave is taken.
 (2) However, if an employee is required to provide proof of sickness or injury under section 68 and fails, without reasonable excuse, to do so, the employer is not required to pay the employee for any sick leave in respect of which the proof is required until the employee complies with that requirement.
 
-### Subpart 5 — Domestic violence leave
+### Subpart 5 — Family violence leave
 
 ### 72A Purpose of this subpart
-The purpose of this subpart is to provide employees who are people affected by domestic violence with a minimum entitlement to paid leave for the purpose of assisting the employees to deal with the effects on the employees of being people affected by domestic violence.
+The purpose of this subpart is to provide employees who are people affected by family violence with a minimum entitlement to paid leave for the purpose of assisting the employees to deal with the effects on the employees of being people affected by family violence.
 
-### 72B Meaning of person affected by domestic violence
-(1) In this subpart, a person affected by domestic violence means a person who is 1 or both of the following:
-  (a) a person against whom any other person is inflicting, or has inflicted, domestic violence:
-  (b) a person with whom there ordinarily or periodically resides a child against whom any other person is inflicting, or has inflicted, domestic violence.
-(2) In this section, child has the meaning given to it in section 2 of the Domestic Violence Act 1995.
+### 72B Meaning of person affected by family violence
+(1) In this subpart, a person affected by family violence means a person who is 1 or both of the following:
+  (a) a person against whom any other person is inflicting, or has inflicted, family violence:
+  (b) a person with whom there ordinarily or periodically resides a child against whom any other person is inflicting, or has inflicted, family violence.
+(2) In this section, child has the meaning given to it in section 8 of the Family Violence Act 2018.
 
-**Entitlement to domestic violence leave**
+**Entitlement to family violence leave**
 
-### 72C Entitlement to domestic violence leave
-An employee may take domestic violence leave—
-  (a) if the employee is a person affected by domestic violence (regardless of how long ago the domestic violence occurred, and even if the domestic violence occurred before the person became an employee); and
+### 72C Entitlement to family violence leave
+An employee may take family violence leave—
+  (a) if the employee is a person affected by family violence (regardless of how long ago the family violence occurred, and even if the family violence occurred before the person became an employee); and
   (b) in accordance with sections 72D and 72H.
 
-### 72D When entitlement to domestic violence leave arises
-(1) An employee is entitled to domestic violence leave—
+### 72D When entitlement to family violence leave arises
+(1) An employee is entitled to family violence leave—
   (a) after the employee has completed 6 months’ current continuous employment with the employer; or
   (b) if, in the case of an employee to whom subsection (1)﻿(a) does not apply, the employee has, over a period of 6 months, worked for the employer for—
     (i) at least an average of 10 hours a week during that period; and
     (ii) no less than 1 hour in every week during that period or no less than 40 hours in every month during that period.
-(2) Domestic violence leave must be provided—
+(2) Family violence leave must be provided—
   (a) to an employee to whom subsection (1)﻿(a) applies, for—
     (i) the 12-month period of continuous employment beginning at the end of the 6-month period specified in that subsection; and
     (ii) each subsequent 12 months of current continuous employment:
@@ -829,38 +829,38 @@ An employee may take domestic violence leave—
     (i) the 12-month period of employment beginning at the end of the 6-month period specified in that subsection; and
     (ii) each subsequent 12-month period of employment as long as the circumstances referred to in subparagraphs (i) and (ii) of that subsection continue to apply.
 (3) However, an employer and employee may agree that—
-  (a) the employee may take domestic violence leave in advance; and
-  (b) in the case of domestic violence leave taken in advance, the amount of leave taken is to be deducted from the employee’s entitlement under this section.
+  (a) the employee may take family violence leave in advance; and
+  (b) in the case of family violence leave taken in advance, the amount of leave taken is to be deducted from the employee’s entitlement under this section.
 
-### 72E Employee must notify employer of intention to take domestic violence leave
-An employee who intends to take domestic violence leave must notify the employer of that intention—
-  (a) as early as possible before the employee is due to start work on the day that is intended to be taken as domestic violence leave; or
+### 72E Employee must notify employer of intention to take family violence leave
+An employee who intends to take family violence leave must notify the employer of that intention—
+  (a) as early as possible before the employee is due to start work on the day that is intended to be taken as family violence leave; or
   (b) if that is not practicable, as early as possible after that time.
 
-### 72F Domestic violence leave need not be paid out
-An employee is not entitled to be paid for any domestic violence leave that has not been taken before the date on which the employee’s employment ends.
+### 72F Family violence leave need not be paid out
+An employee is not entitled to be paid for any family violence leave that has not been taken before the date on which the employee’s employment ends.
 
-### 72G Proof of domestic violence
-An employer may require proof that an employee is a person affected by domestic violence to be produced for domestic violence leave taken under section 72C.
+### 72G Proof of family violence
+An employer may require proof that an employee is a person affected by family violence to be produced for family violence leave taken under section 72C.
 
-### 72H Duration of domestic violence leave
+### 72H Duration of family violence leave
 An employee—
-  (a) may take up to 10 days' domestic violence leave in each of the 12-month periods specified in section 72D(2); and
-  (b) cannot carry forward any domestic violence leave not taken in any of those 12-month periods.
+  (a) may take up to 10 days' family violence leave in each of the 12-month periods specified in section 72D(2); and
+  (b) cannot carry forward any family violence leave not taken in any of those 12-month periods.
 
-**Payment for domestic violence leave**
+**Payment for family violence leave**
 
-### 72I Payment for domestic violence leave
-(1) An employer must pay an employee an amount that is equivalent to the employee’s relevant daily pay or average daily pay for each day of domestic violence leave taken by the employee that would otherwise be a working day for the employee.
+### 72I Payment for family violence leave
+(1) An employer must pay an employee an amount that is equivalent to the employee’s relevant daily pay or average daily pay for each day of family violence leave taken by the employee that would otherwise be a working day for the employee.
 (2) Despite subsection (1), an employer is not required to pay an employee for any time for which the employee is paid weekly compensation under the Accident Compensation Act 2001 or former Act.
-(3) An employer must not require an employee to take as domestic violence leave any time for which the employee is being paid—
+(3) An employer must not require an employee to take as family violence leave any time for which the employee is being paid—
   (a) first week compensation by the employer under section 97 of the Accident Compensation Act 2001 or former Act; or
   (b) weekly compensation for a work-related injury within the meaning of that Act or former Act.
-(4) However, if an employer pays the difference between the employee’s first week compensation or weekly compensation and ordinary weekly pay, the employer may agree with the employee that the employer may deduct from the employee’s domestic violence leave entitlement 1 day for every 5 whole days that the employer makes that payment.
+(4) However, if an employer pays the difference between the employee’s first week compensation or weekly compensation and ordinary weekly pay, the employer may agree with the employee that the employer may deduct from the employee’s family violence leave entitlement 1 day for every 5 whole days that the employer makes that payment.
 
-### 72J When payment for domestic violence leave must be made
-(1) An employer must pay an employee for domestic violence leave in the pay that relates to the pay period in which the leave is taken.
-(2) However, if an employee is required to provide proof under section 72G and fails, without reasonable excuse, to do so, the employer is not required to pay the employee for any domestic violence leave in respect of which the proof is required until the employee complies with that requirement.
+### 72J When payment for family violence leave must be made
+(1) An employer must pay an employee for family violence leave in the pay that relates to the pay period in which the leave is taken.
+(2) However, if an employee is required to provide proof under section 72G and fails, without reasonable excuse, to do so, the employer is not required to pay the employee for any family violence leave in respect of which the proof is required until the employee complies with that requirement.
 
 ## Part 3 — Enforcement and other matters
 
@@ -881,7 +881,7 @@ An employee—
   (c) a representative of a union of which the employee is a member:
   (d) an employer:
   (e) a Labour Inspector.
-(2) An employee’s entitlement to annual holidays, public holidays, sick leave, bereavement leave, or domestic violence leave that are in addition to entitlements under this Act may be enforced only by the persons listed in subsection (1)﻿(a) to (c).
+(2) An employee’s entitlement to annual holidays, public holidays, sick leave, bereavement leave, or family violence leave that are in addition to entitlements under this Act may be enforced only by the persons listed in subsection (1)﻿(a) to (c).
 
 ### 75 Penalty for non-compliance
 (1) An employer who fails to comply with any of the provisions listed in subsection (2), and every person who is involved in the failure to comply, is liable,—
@@ -893,7 +893,7 @@ An employee—
   (ba) sections 28A and 28B (which relate to a request by an employee for a portion of his or her annual holidays to be paid out and payment for that portion):
   (c) section 46, sections 49 to 56, section 60, and section 61(3) (which relate to an employee’s entitlement to, and payment for, public holidays and alternative holidays):
   (d) section 63, section 65, and sections 69 to 72 (which relate to an employee’s entitlement to, and payment for, sick leave and bereavement leave):
-  (da) sections 72C and 72H to 72J (which relate to an employee’s entitlement to, and payment for, domestic violence leave):
+  (da) sections 72C and 72H to 72J (which relate to an employee’s entitlement to, and payment for, family violence leave):
   (e) section 81 (which relates to an employer’s obligation to keep a holiday and leave record):
   (f) section 82 (which relates to requests for access to a holiday and leave record).
 (3) For the purposes of subsection (1), a person is involved in a failure to comply if the person would be treated as a person involved in a breach within the meaning of section 142W of the Employment Relations Act 2000.
@@ -959,8 +959,8 @@ Before making a determination under this Act, a Labour Inspector must—
   (d) the employee’s current entitlement to annual holidays:
   (e) the date on which the employee last became entitled to annual holidays:
   (f) the employee’s current entitlement to sick leave:
-  (g) the dates on which any annual holiday, sick leave, bereavement leave, or domestic violence leave has been taken:
-  (h) the amount of payment for any annual holiday, sick leave, bereavement leave, or domestic violence leave that has been taken:
+  (g) the dates on which any annual holiday, sick leave, bereavement leave, or family violence leave has been taken:
+  (h) the amount of payment for any annual holiday, sick leave, bereavement leave, or family violence leave that has been taken:
   (ha) the portion of any annual holidays that have been paid out in each entitlement year (if applicable):
   (hb) the date and amount of payment, in each entitlement year, for any annual holidays paid out under section 28B (if applicable):
   (i) the dates of, and payments for, any public holiday on which the employee worked:
@@ -998,14 +998,14 @@ Before making a determination under this Act, a Labour Inspector must—
 ### 83 Failure to keep or provide access to holiday and leave record
 (1) Evidence that an employer has failed to comply with section 81 or section 82 may be given in an action before the Authority—
   (a) to recover holiday pay or leave pay from an employer; or
-  (b) to enforce an entitlement to annual holidays, public holidays, sick leave, bereavement leave, or domestic violence leave against an employer.
+  (b) to enforce an entitlement to annual holidays, public holidays, sick leave, bereavement leave, or family violence leave against an employer.
 (2) To avoid doubt, for the purposes of subsection (1), an action before the Authority includes the determination of an objection to—
   (a) an improvement notice issued under section 223D of the Employment Relations Act 2000 that relates to holiday pay; or
   (b) a demand notice served under section 224 of the Employment Relations Act 2000 that relates to holiday pay.
 (3) If, after hearing the evidence, the Authority is satisfied that the employer failed to comply with section 81 or section 82 and that the failure prevented the claimant from bringing an accurate claim, the Authority may make a finding to that effect.
 (4) If a finding under subsection (3) is made, then the Authority may accept as proved, in the absence of evidence to the contrary, statements made by the employee about—
   (a) holiday pay or leave pay actually paid to the employee:
-  (b) annual holidays, public holidays, sick leave, bereavement leave, or domestic violence leave actually taken by the employee.
+  (b) annual holidays, public holidays, sick leave, bereavement leave, or family violence leave actually taken by the employee.
 
 ### Subpart 2 — Other matters
 
@@ -1073,10 +1073,10 @@ The amendments made by the 2016 Act do not apply to conduct that occurred before
 ### 3 Interpretation
 In this Part, 2018 Part means Part 2 of the Domestic Violence—Victims' Protection Act 2018.
 
-**Provisions relating to domestic violence leave**
+**Provisions relating to family violence leave**
 
-### 4 Application to pre-commencement domestic violence
-Subpart 5 of Part 2 applies even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
+### 4 Application to pre-commencement family violence
+Subpart 5 of Part 2 applies even if all or any of the family violence occurred before the commencement of the 2018 Part.
 
 ## Schedule 1 — Modifications to subpart 1 of Part 2 to increase minimum entitlement to annual holidays from 1 April 2007
 
