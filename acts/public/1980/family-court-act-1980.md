@@ -1,5 +1,5 @@
 # Family Court Act 1980
-_Consolidation as at 2018-08-14_
+_Consolidation as at 2019-07-01_
 
 > Title
 
@@ -181,7 +181,7 @@ For the purposes of section 11B, vulnerable person means—
   (e) a person who is a proposed patient, patient, or restricted patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
   (f) a person who has applied to the Family Court for the issue of a declaration under section 28 of the Births, Deaths, and Marriages Registration Act 1995:
   (g) a person who is a proposed care recipient or care recipient within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
-  (h) a person who has applied for a protection order under the Domestic Violence Act 1995, or in respect of whom a protection order has been made under that Act:
+  (h) a person who has applied for a protection order under the Family Violence Act 2018, or in respect of whom a protection order has been made under that Act:
   (i) a person whom the court considers likely for any other reason to be particularly susceptible to any adverse consequences associated with the publication of a report of the proceedings that contains identifying information.
 
 ### 12 Proceedings to be brought and dealt with under Family Court Rules
@@ -196,8 +196,9 @@ While any Family Court Rules are in force, all proceedings in the Family Court (
   (b) Care of Children Act 2004:
   (c) Child Support Act 1991:
   (d) Oranga Tamariki Act 1989:
-  (e) Domestic Violence Act 1995:
+  (e)
   (f) Family Proceedings Act 1980:
+  (fa) Family Violence Act 2018:
   (g) Property (Relationships) Act 1976:
   (h) Protection of Personal and Property Rights Act 1988:
   (i) Civil Union Act 2004:
@@ -207,6 +208,7 @@ While any Family Court Rules are in force, all proceedings in the Family Court (
   (b) the District Court having concurrent jurisdiction with the Family Court:
   (c) the District Court acting under section 15:
   (d) the District Court hearing a proceeding under section 151 of the Oranga Tamariki Act 1989:
+  (da) the District Court hearing a proceeding under Part 3 (Police safety orders) of the Family Violence Act 2018:
   (e) any other court hearing a proceeding that is—
     (i) under an Act specified in subsection (2); and
     (ii) not a criminal proceeding; and
@@ -253,9 +255,10 @@ Notwithstanding anything in section 11, the District Court may—
   (d) the Oranga Tamariki Act 1989:
   (da) the Civil Union Act 2004:
   (e) the Domestic Actions Act 1975:
-  (f) the Domestic Violence Act 1995:
+  (f)
   (g) the Family Proceedings Act 1980:
   (h) the Family Protection Act 1955:
+  (ha) the Family Violence Act 2018:
   (i) the Care of Children Act 2004:
   (j) the Law Reform (Testamentary Promises) Act 1949:
   (k) the Marriage Act 1955:
@@ -300,8 +303,10 @@ Fees and expenses for lawyers for child and lawyers to assist court
     (i) section 7 of the Care of Children Act 2004:
     (ii) section 226 of the Child Support Act 1991:
     (iii) section 159 of the Oranga Tamariki Act 1989:
-    (iv) section 81(1)﻿(b) of the Domestic Violence Act 1995:
+    (iv)
     (v) section 162 of the Family Proceedings Act 1980:
+    (va) section 166(1)﻿(b) of the Family Violence Act 2018:
+    (vb) section 166(1)﻿(c) of the Family Violence Act 2018:
     (vi) section 37A of the Property (Relationships) Act 1976:
     (vii) section 20(1) of the Civil Union Act 2004:
     (viii) section 19(1) of the Marriage Act 1955; or
@@ -309,8 +314,9 @@ Fees and expenses for lawyers for child and lawyers to assist court
     (i) section 130 of the Care of Children Act 2004:
     (ii) section 226A of the Child Support Act 1991:
     (iii) section 160 of the Oranga Tamariki Act 1989:
-    (iv) section 81(1)﻿(a) of the Domestic Violence Act 1995:
+    (iv)
     (v) section 162A of the Family Proceedings Act 1980:
+    (va) section 166(1)﻿(a) of the Family Violence Act 2018:
     (vi) section 65A of the Protection of Personal and Property Rights Act 1988:
     (vii) section 20(2) of the Civil Union Act 2004:
     (viii) section 19(2) of the Marriage Act 1955.
