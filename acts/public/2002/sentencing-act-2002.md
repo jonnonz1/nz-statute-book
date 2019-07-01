@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -171,6 +171,9 @@ In sentencing or otherwise dealing with an offender the court—
   (a) that the offence involved actual or threatened violence or the actual or threatened use of a weapon:
   (b) that the offence involved unlawful entry into, or unlawful presence in, a dwelling place:
   (c) that the offence was committed while the offender was on bail or still subject to a sentence:
+  (ca) that the offence was a family violence offence (as defined in section 123A) committed—
+    (i) while the offender was subject to a protection order (as defined in section 8 of the Family Violence Act 2018, or that was made under section 123B of this Act); and
+    (ii) against a person who, in relation to the protection order, was a protected person (as so defined):
   (d) the extent of any loss, damage, or harm resulting from the offence:
   (e) particular cruelty in the commission of the offence:
   (f) that the offender was abusing a position of trust or authority in relation to the victim:
@@ -326,8 +329,8 @@ If a court is lawfully entitled under this or any other enactment to impose a fi
   (a) provides a presumption in favour of or against imposing a sentence of home detention in relation to a particular offence; or
   (b) requires a court to impose a sentence of imprisonment in relation to a particular offence.
 
-### 15B Limitation on sentence of home detention for person under 17 years
-(1) No court may impose a sentence of home detention on an offender in respect of a particular offence, other than a category 4 offence, or a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years, if, at the time of the commission of the offence, the offender was under the age of 17 years.
+### 15B Limitation on sentence of home detention for person under 18 years
+(1) No court may impose a sentence of home detention on an offender in respect of a particular offence, other than a category 4 offence, or a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years, if, at the time of the commission of the offence, the offender was under the age of 18 years.
 (2)
 
 ### 16 Sentence of imprisonment
@@ -343,8 +346,8 @@ If a court is lawfully entitled under this or any other enactment to impose a fi
 ### 17 Imprisonment may be imposed if offender unlikely to comply with other sentences
 Nothing in this Part limits the discretion of a court to impose a sentence of imprisonment on an offender if the court is satisfied on reasonable grounds that the offender is unlikely to comply with any other sentence that it could lawfully impose and that would otherwise be appropriate.
 
-### 18 Limitation on imprisonment of person under 17 years
-(1) No court may impose a sentence of imprisonment on an offender in respect of a particular offence, other than a category 4 offence, or a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years, if, at the time of the commission of the offence, the offender was under the age of 17 years.
+### 18 Limitation on imprisonment of person under 18 years
+(1) No court may impose a sentence of imprisonment on an offender in respect of a particular offence, other than a category 4 offence, or a category 3 offence for which the maximum penalty available is or includes imprisonment for life or for at least 14 years, if, at the time of the commission of the offence, the offender was under the age of 18 years.
 (2)
 
 **Permitted combinations of sentences**
@@ -2686,43 +2689,79 @@ If an offender who is subject to a non-association order (whether or not it is c
 
 **Protection orders**
 
-### 123A Interpretation of terms used in this section and sections 123B to 123G
-In this section and sections 123B to 123G, unless the context otherwise requires,—
-  - **child** has the meaning given to it by section 2 of the Domestic Violence Act 1995
-  - **domestic relationship** has the meaning given to it by section 4 of the Domestic Violence Act 1995
-  - **domestic violence offence** means an offence against any enactment (other than the Domestic Violence Act 1995) involving the use of violence against a person, other than a child, with whom the offender is, or has been, in a domestic relationship
-  - **domestic violence proceedings** means proceedings in the Family Court or the District Court under the Domestic Violence Act 1995 that relate wholly or partly to an application for a protection order
-  - **victim of the offence** means the person against whom the offence was committed by the offender
-  - **violence** has the meaning given to it by section 3(2), (4), and (5) of the Domestic Violence Act 1995.
+### 123A Interpretation of terms used in this section and sections 123B to 123H
+In this section and sections 123B to 123H, unless the context otherwise requires,—
+  - **child** has the meaning given to it by section 8 of the Family Violence Act 2018
+  - **family relationship** has the meaning given to it by section 12 of the Family Violence Act 2018
+  - **family violence offence** means an offence—
+    (a) against any enactment (including the Family Violence Act 2018); and
+    (b) involving family violence (as defined in section 9 of that Act)
+  - **family violence proceedings** means proceedings in the Family Court under the Family Violence Act 2018 that relate wholly or partly to an application for a protection order
+  - **victim of the offence** means the person against whom the offence was committed by the offender.
 
 ### 123B Protection order
 (1) This section applies if—
-  (a) an offender is convicted of a domestic violence offence; and
-  (b) there is not currently in force a protection order against the offender made under the Domestic Violence Act 1995 for the protection of the victim of the offence.
+  (a) an offender is convicted of a family violence offence; and
+  (b) there is not currently in force a protection order against the offender made under the Family Violence Act 2018 for the protection of the victim of the offence.
 (2) The court may make a protection order against the offender if—
   (a) it is satisfied that the making of the order is necessary for the protection of the victim of the offence; and
   (b) the victim of the offence does not object to the making of the order.
 (3) A protection order may be made under this section in addition to imposing a sentence or making any other order.
-(4) An order may be made under subsection (2) even though domestic violence proceedings have been filed by the victim of the offence against the offender, and those proceedings have not yet been determined.
-(5) If an order is made under subsection (2) in the circumstances described in subsection (4), the domestic violence proceedings, in so far as they relate to an application for a protection order against the offender, end.
+(4) An order may be made under subsection (2) even though family violence proceedings have been filed by the victim of the offence against the offender, and those proceedings have not yet been determined.
+(5) If an order is made under subsection (2) in the circumstances described in subsection (4), the family violence proceedings, in so far as they relate to an application for a protection order against the offender, end.
 
 ### 123C Provisions applying to protection order made under section 123B
-(1) Subject to the modifications set out in subsection (2), the following provisions apply so far as applicable to a protection order made under section 123B as if that order were a final protection order made under the Domestic Violence Act 1995:
-  (a) sections 16(1), 19 (except subsection (3)), 20 (except subsection (5)), 21 (except subsections (2)﻿(a), (4), and (5)), 24(3), 25(1) (except paragraph (a)), 26(1), 28 (except subsection (6)), 51D, and 51L of the Domestic Violence Act 1995; and
-  (b) section 27 of the Domestic Violence Act 1995, except that the court may not impose a condition relating to the matters set out in subsection (2) of that section.
-(2) The modifications referred to in subsection (1) are as follows:
-  (a) every reference to protection order or final order must be read as a reference to an order made under section 123B:
+(1) A protection order made under section 123B is subject to the following provisions of the Family Violence Act 2018, and those provisions apply (so far as applicable, and subject to the modifications in subsection (2)) to that order as if it were a final protection order made under the Family Violence Act 2018:
+  (a) section 86(1):
+  (b) sections 90 to 96:
+  (c) sections 98 to 100 (except section 99(1)﻿(a)):
+  (d) section 103:
+  (e) section 104 (except for section 97 as applied by section 104(2)):
+  (f) section 163(3):
+  (g) section 164(1) (except paragraph (a)):
+  (h) section 165(1):
+  (i) Part 7 of that Act.
+(2) The modifications are—
+  (a) every reference to a protection order or a final order must be read as a reference to an order made under section 123B:
   (b) every reference to the respondent must be read as a reference to the offender:
-  (c) every reference to the applicant or protected person must be read as a reference to the victim of the offence.
+  (c) every reference to the applicant or protected person must be read as a reference to the victim of the offence:
+  (d) the court cannot impose a condition relating to the matters set out in section 103(2) of the Family Violence Act 2018.
+
+### 123CA Disclosure of documents to assessor and service provider
+(1) This section applies to a court that makes—
+  (a) a protection order under section 123B; and
+  (b) a direction under section 188 (directions for assessments, non-violence programme, and prescribed standard services) or 198 (about a direction to engage with a prescribed non-standard service) of the Family Violence Act 2018 (as applied by section 123C(1)﻿(i)).
+(2) The court, when it makes the order or direction, must consider making under this section a direction requiring disclosure or sharing—
+  (a) of specified court documents relating to the offender, every protected person for the order, or both (see section 123CB); and
+  (b) to or with relevant assessors and service providers (see section 123CC); and
+  (c) to help those assessors and service providers perform all or any of their functions under the Family Violence Act 2018.
+
+### 123CB Court documents for section 123CA
+(1) For the purposes of section 123CA, the specified court documents relating to the offender may be or include copies of the following:
+  (a) the relevant charging document:
+  (b) the offender’s contact details:
+  (c) the offender’s criminal conviction history:
+  (d) the court’s decision to make the protection order under section 123B:
+  (e) a copy of that order:
+  (f) any current notice of bail or bail bond document.
+(2) For the purposes of section 123CA, the specified court documents relating to every protected person for the order may be or include copies of the documents specified in subsection (1), except for the offender’s contact details.
+
+### 123CC Assessors and service providers for section 123CA
+For the purposes of section 123CA, the relevant assessors and service providers include any undertaking or providing all or any of the following assessments, programmes, or services:
+  (a) a safety programme to a protected person (under section 187 of the Family Violence Act 2018, as applied by section 123C(1)﻿(i)):
+  (b) an assessment undertaken of the offender (under a direction made under section 188(1)﻿(a) or (3)﻿(a) of the Family Violence Act 2018):
+  (c) a non-violence programme to the offender (under a direction made under section 188(1)﻿(b) of the Family Violence Act 2018):
+  (d) a prescribed standard service to the offender (under a direction made under section 188(3)﻿(b) of the Family Violence Act 2018, as so applied):
+  (e) a prescribed non-standard service to the offender (under a direction made under section 198 of the Family Violence Act 2018, as so applied).
 
 ### 123D Explanation of protection order
 (1) On making a protection order, the Judge or Registrar must explain to the offender—
   (a) the effect of—
     (i) the order; and
-    (ii) any direction to attend a programme made under section 51D of the Domestic Violence Act 1995 (as applied by section 123C(1)﻿(a)); and
+    (ii) any direction to attend a programme or engage with prescribed services made under section 188(1)﻿(b) or (3)﻿(b) of the Family Violence Act 2018 (as applied by section 123C(1)﻿(i)); and
   (b) the consequences that may follow if the offender fails to—
     (i) comply with the terms of the order; or
-    (ii) attend any session of a programme that he or she has been directed to attend; and
+    (ii) attend any session of a programme that he or she has been directed to attend or engage with any prescribed services that he or she has been directed to engage with; and
   (c) the means by which the order can be varied or discharged.
 (2) Failure to give the explanation required by subsection (1) does not affect the validity of the order made.
 
@@ -2737,9 +2776,33 @@ In this section and sections 123B to 123G, unless the context otherwise requires
 (2) On receipt of a copy of an order under subsection (1), the Registrar of the Family Court must enter the order in the records of the Family Court.
 
 ### 123G Protection order treated as if made by Family Court
-As soon as an order has been entered in the records of the Family Court under section 123F(2),—
-  (a) the order is to be treated as if it were a final protection order made by that court under the Domestic Violence Act 1995; and
-  (b) sections 22(2)﻿(b) and (6), 23, 45(2), 46(1), 47(1), 48, 49, 50, 51C, 51G, 51H, 51L to 51T, 82, and 88 to 95 of the Domestic Violence Act 1995 apply to the order accordingly.
+(1) This section applies to an order entered, as soon as it has been entered, in the records of the Family Court under section 123F(2).
+(2) The order is to be treated as if it were a final protection order made by that court under the Family Violence Act 2018 (except that an appeal against the order is, under section 123H of this Act, an appeal against a sentence).
+(3) The order is, accordingly, subject to the following provisions of the Family Violence Act 2018 (see also section 123H(7) and (8)):
+  (a) section 107(2):
+  (b) section 108(1):
+  (c) section 109(1):
+  (d) sections 111, 112, and 113:
+  (e) section 157:
+  (f) sections 160(1)﻿(b) and 162:
+  (g) section 169:
+  (h) section 174:
+  (i) section 175:
+  (j) section 176:
+  (k) sections 177 to 181:
+  (l) Part 7.
+
+### 123H Appeal against decision to make or refuse to make protection order under section 123B is appeal against sentence
+(1) An appeal against a decision to make or refuse to make a protection order under section 123B is an appeal under subpart 4 of Part 6 of the Criminal Procedure Act 2011 against the sentence imposed for an offence (and the decision cannot be appealed against under sections 177 to 181 of the Family Violence Act 2018).
+(2) If a notice of appeal or notice of an application for leave to appeal under Part 6 of the Criminal Procedure Act 2011 is filed in a court in respect of a protection order made under section 123B, the court must send a copy to the Family Court nearest to where the victim of the offence resides.
+(3) No protection order made under section 123B is suspended just because a person files a notice of appeal or notice of an application for leave to appeal under Part 6 of the Criminal Procedure Act 2011, unless the appeal court expressly directs that the protection order be suspended (see section 343 of that Act).
+(4) If, on an appeal under subpart 4 of Part 6 of the Criminal Procedure Act 2011, a court suspends, varies, or discharges, or makes, a protection order made under section 123B (or the appeal is withdrawn or otherwise finally determined), the court must send a copy of the order (or a notice of the withdrawal or other final determination of the appeal) to the Family Court nearest to where the victim of the offence resides.
+(5) Subsection (4) does not prevent the appeal court (whether the appeal is a first, or a further, appeal) remitting the sentence to the court that imposed it, and directing that court to take any action, under section 251(2)﻿(c) and (3), 257(2), or 259(5)﻿(b) of the Criminal Procedure Act 2011.
+(6) On receipt of a copy of an order or a notice under subsection (4), the Registrar of the Family Court must enter the order or notice in the records of the Family Court.
+(7) This section does not prevent a protection order made under section 123B from being varied, discharged, or enforced under any of sections 108(1), 109(1), 111, 112, and 113 of the Family Violence Act 2018 (as applied by section 123G(3) of this Act), or a decision made under any of those sections (as so applied) from being appealed against under sections 177 to 181 of that Act (as so applied).
+(8) However, a court that varies or discharges under subsection (7) a protection order made under section 123B must copy the variation or discharge to the appeal court under the Criminal Procedure Act 2011 if—
+  (a) the Family Court has been sent under this section a notice of appeal or notice of an application for leave to appeal under Part 6 of the Criminal Procedure Act 2011 in respect of the order; and
+  (b) the records of the Family Court contain no entry under this section of a notice of the withdrawal or final determination of the appeal under the Criminal Procedure Act 2011 against the order.
 
 **Disqualification from driving**
 
@@ -3589,6 +3652,28 @@ In this Part,—
 (2) On and from the commencement date, sections 80ZO to 80ZU and 96A, and any rules made under section 80ZT, apply in respect of the offender—
   (a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
   (b) as if the court had complied with section 80ZN(3) in respect of the condition.
+
+### Part 3 — Provisions relating to Oranga Tamariki Legislation Act 2019
+
+### 10 Interpretation
+In this Part,—
+  - **2019 Act** means the Oranga Tamariki Legislation Act 2019
+  - **commencement date** means the date on which sections 54 and 55 of the 2019 Act come into force
+  - **proceeding** —
+    (a) means a proceeding that has been commenced by—
+      (i) the filing of a charging document; or
+      (ii) the filing of a notice of hearing under, or in accordance with, section 21(8) of the Summary Proceedings Act 1957; and
+    (b) includes an appeal against conviction or sentence.
+
+### 11 Proceeding under way on commencement date against defendant aged 17 years
+(1) This clause applies to any defendant aged 17 years in a proceeding that is under way in the District Court or the High Court on the commencement date.
+(2) The defendant must be dealt with by the court under this Act as if sections 54 and 55 of the 2019 Act had not come into force.
+
+### 12 Proceeding commenced on or after commencement date for offence committed before commencement date
+(1) This clause applies to any defendant aged 17 years in a proceeding that—
+  (a) is commenced on or after the commencement date; and
+  (b) is for an offence, or an alleged offence, that was committed before the commencement date when the defendant was 17 years of age.
+(2) The defendant must be dealt with by the court under this Act as amended by sections 54 and 55 of the 2019 Act.
 
 ## Schedule 1 — Amendments to other enactments
 
