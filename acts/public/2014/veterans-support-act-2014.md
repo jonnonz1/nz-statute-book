@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2019-06-25_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -690,26 +690,16 @@ Schedule 1 contains transitional provisions relating to veterans who are receivi
 (1) A veteran who has cover under the Accident Compensation Act 2001 is not entitled to weekly income compensation under this subpart and under the Accident Compensation Act 2001.
 (2) However, the veteran is entitled to receive from VANZ the difference between the weekly income compensation payable under this subpart and under the Accident Compensation Act 2001.
 
-### 65 Relationship between weekly income compensation and New Zealand superannuation or veteran's pension
+### 65 Relationship between weekly income compensation and New Zealand superannuation or veteran’s pension
 (1) Subsection (2) applies to a veteran who—
   (a) first becomes entitled to weekly income compensation before reaching New Zealand superannuation qualification age; and
   (b) has been entitled to it for 24 months or longer before reaching that age.
-(2) Such a veteran loses his or her entitlement to weekly income compensation on reaching that age.
-(3) Subsections (4) and (5) apply to a veteran who first becomes entitled to weekly income compensation 12 months or more, but less than 24 months, before reaching New Zealand superannuation qualification age.
-(4) Such a veteran is entitled to weekly income compensation for 24 months from the date of entitlement to the compensation.
-(5) However, the veteran's entitlement to the compensation is dependent on his or her making an election to be entitled, after reaching New Zealand superannuation qualification age, to the compensation, rather than to New Zealand superannuation or a veteran's pension under Part 6.
-(6) Subsections (7) and (8) apply to a veteran who first becomes entitled to weekly income compensation—
-  (a) within 12 months before reaching New Zealand superannuation qualification age; or
+(2) The veteran loses entitlement to weekly income compensation on reaching that age.
+(3) Subsection (4) applies to a veteran who first becomes entitled to weekly income compensation—
+  (a) less than 24 months before reaching New Zealand superannuation qualification age; or
   (b) on or after reaching New Zealand superannuation qualification age.
-(7) Such a veteran is entitled to the weekly income compensation for a period of 12 months following the later of—
-  (a) the date of reaching New Zealand superannuation qualification age; or
-  (b) the date of entitlement to weekly income compensation.
-(8) The veteran is then entitled to the weekly income compensation for the next 12 months, if he or she makes an election to be entitled, during those 12 months, to the compensation, rather than to New Zealand superannuation or the veteran's pension under Part 6.
-(9) Nothing in this section entitles a veteran to weekly income compensation if he or she is not otherwise entitled to it under this Act.
-(10) A veteran must make an election under subsection (5) or (8) within the period that is the later of the following:
-  (a) within 1 month before the date on which the election would take effect; or
-  (b) within 1 month after the veteran has been notified of the amount of the weekly income compensation by VANZ, the review officer, or the appeal board, whichever is applicable in the veteran's case.
-(11) VANZ may allow a veteran to exercise or revoke an election under subsection (5) or (8) after the period specified in subsection (10) has ended, but only if VANZ is satisfied that the veteran's circumstances have changed significantly since the end of the period.
+(4) The veteran is entitled to weekly income compensation for 24 months from the date of entitlement to the compensation.
+(5) Nothing in this section entitles a veteran to weekly income compensation if the veteran is not otherwise entitled to it under this Act.
 
 ### Subpart 5 — Spouses, partners, children, and dependants of veterans
 
@@ -999,26 +989,16 @@ A veteran (whether resident in New Zealand or overseas) is entitled to weekly co
 ### 103 Weekly compensation is income for purposes of Income Tax Act 2007
 Schedule 4 contains a consequential amendment to the Income Tax Act 2007 that makes payments of weekly compensation under this subpart income for the purposes of that Act.
 
-### 104 Relationship between weekly compensation and New Zealand superannuation or veteran's pension
+### 104 Relationship between weekly compensation and New Zealand superannuation or veteran’s pension
 (1) Subsection (2) applies to a veteran who—
-  (a) first becomes entitled to weekly compensation before reaching the New Zealand superannuation qualification age; and
+  (a) first becomes entitled to weekly compensation before reaching New Zealand superannuation qualification age; and
   (b) has been entitled to it for 24 months or longer before reaching that age.
-(2) Such a veteran loses his or her entitlement to weekly compensation on reaching that age.
-(3) Subsections (4) and (5) apply to a veteran who first becomes entitled to weekly compensation 12 months or more, but less than 24 months, before reaching New Zealand superannuation qualification age.
-(4) Such a veteran is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
-(5) However, the veteran's entitlement to the compensation is dependent on his or her making an election to be entitled, after reaching New Zealand superannuation qualification age, to the compensation, rather than to New Zealand superannuation or a veteran's pension under Part 6.
-(6) Subsections (7) and (8) apply to a veteran who first becomes entitled to weekly compensation—
-  (a) within 12 months before reaching New Zealand superannuation qualification age; or
+(2) The veteran loses entitlement to weekly compensation on reaching that age.
+(3) Subsection (4) applies to a veteran who first becomes entitled to weekly compensation—
+  (a) less than 24 months before reaching New Zealand superannuation qualification age; or
   (b) on or after reaching New Zealand superannuation qualification age.
-(7) Such a veteran is entitled to the weekly compensation for a period of 12 months following the later of—
-  (a) the date of reaching New Zealand superannuation qualification age; or
-  (b) the date of entitlement to weekly compensation.
-(8) The veteran is then entitled to the weekly compensation for the next 12 months, if he or she makes an election to be entitled, during those 12 months, to the compensation, rather than to New Zealand superannuation or a veteran's pension under Part 6.
-(9) Nothing in this section entitles a veteran to weekly compensation if he or she is not otherwise entitled to it under this Act.
-(10) A veteran must make an election under subsection (5) or (8) within the period that is the later of the following:
-  (a) within 1 month before the date on which the election would take effect; or
-  (b) within 1 month after the veteran has been notified of the amount of the weekly compensation by VANZ, the review officer, or the appeal board, whichever is applicable in the veteran's case.
-(11) VANZ may allow a veteran to exercise or revoke an election under subsection (5) or (8) after the period specified in subsection (10) has ended, but only if VANZ is satisfied that the veteran's circumstances have changed significantly since the end of the period.
+(4) The veteran is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
+(5) Nothing in this section entitles a veteran to weekly compensation if the veteran is not otherwise entitled to it under this Act.
 
 ## Part 5 — Entitlements common to Scheme One and Scheme Two
 
@@ -2823,6 +2803,29 @@ In this Part,—
 (3) In determining for the purposes of section 163(1)﻿(c) of this Act whether a veteran, had he or she not died, would have been eligible to receive New Zealand superannuation and, specifically whether the veteran would have met the residential qualification under section 8(c) of the 2001 Act, the veteran’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 (4) In determining for the purposes of section 191(4)﻿(c) whether a person has met the residential qualification for New Zealand superannuation under section 8(c) of the 2001 Act, the person’s residence and presence in any of the countries or the territory before the 2018 Act came into force must be taken into account.
 
+### Part 3 — Provisions relating to Accident Compensation Amendment Act 2019
+
+### 18 Certain veterans may elect rules of former scheme: weekly income compensation
+(1) In this clause, former provisions means subsections (6) to (11) of section 65 of this Act as they read immediately before the commencement of this clause.
+(2) This clause applies to a veteran who first became entitled to weekly income compensation—
+  (a) under the former provisions; and
+  (b) while the veteran was 64 years of age or older but not yet 65 years of age.
+(3) The veteran may make an election under subsection (8) of the former provisions in accordance with subsection (10) of the former provisions, and, if the veteran does so, the former provisions continue to apply to the veteran.
+
+### 19 Certain veterans may elect rules of former scheme: weekly compensation
+(1) In this clause, former provisions means subsections (6) to (11) of section 104 of this Act as they read immediately before the commencement of this clause.
+(2) This clause applies to a veteran who first became entitled to weekly compensation—
+  (a) under the former provisions; and
+  (b) while the veteran was 64 years of age or older but not yet 65 years of age.
+(3) The veteran may make an election under subsection (8) of the former provisions in accordance with subsection (10) of the former provisions, and, if the veteran does so, the former provisions continue to apply to the veteran.
+
+### 20 Certain other dependants may elect rules of former scheme
+(1) In this clause, former provisions means clauses 60(6) to (9) and 61 of Schedule 2 as they read immediately before the commencement of this clause.
+(2) This clause applies to any other dependant who first became entitled to weekly compensation—
+  (a) under the former provisions; and
+  (b) while the other dependant was 64 years of age or older but not yet 65 years of age.
+(3) The other dependant may make an election under clause 60(8) of the former provisions in accordance with clause 61 of the former provisions, and, if the other dependant does so, the former provisions continue to apply to the other dependant.
+
 ### Part 4 — Provision relating to Social Assistance Legislation (Budget 2019 Welfare Package) Amendment Act 2019
 
 ### 21 Exercise of powers after enactment and before 1 April 2020
@@ -3511,25 +3514,10 @@ For the purposes of this Part, any child of a veteran who is born within 12 mont
 (5) If VANZ provides aggregated payments to a spouse or partner in accordance with the option chosen by the spouse or partner, VANZ must not provide weekly compensation to the spouse or partner under clause 54.
 
 ### 56 Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation
-(1) Subclause (2) applies to a surviving spouse or partner who—
-  (a) is entitled to weekly compensation immediately before reaching the New Zealand superannuation qualification age; and
-  (b) has been entitled to it for 12 months or longer before reaching that age.
-(2) Such a surviving spouse or partner is entitled to the weekly compensation if he or she makes an election to be entitled to it, rather than to New Zealand superannuation.
-(3) Subclauses (4) and (5) apply to a surviving spouse or partner who becomes entitled to weekly compensation—
-  (a) within 12 months before reaching New Zealand superannuation qualification age; or
-  (b) on or after reaching the New Zealand superannuation qualification age.
-(4) Such a surviving spouse or partner is entitled to the weekly compensation for a period of 12 months following the later of—
-  (a) the date of reaching the New Zealand superannuation qualification age; or
-  (b) the date of entitlement to weekly compensation.
-(5) The surviving spouse or partner then continues to be entitled to the weekly compensation if he or she makes an election to be entitled to it, rather than to New Zealand superannuation.
-(6) Nothing in this clause entitles a surviving spouse or partner to weekly compensation if he or she is not otherwise entitled to it under this schedule.
+[Repealed]
 
 ### 57 Election for purposes of clause 56
-(1) A surviving spouse or partner must make an election under clause 56(2) or (5) within the period that is the latest of the following:
-  (a) within 1 month before the date on which the election would take effect; or
-  (b) within 1 month after the surviving spouse or partner has been notified of the amount of the weekly compensation by VANZ, the reviewer, or the Appeal Board, whichever is applicable in the surviving spouse's or partner's case; or
-  (c) before 1 month before the surviving spouse or partner reaches the New Zealand superannuation qualification age.
-(2) VANZ may allow a surviving spouse or partner to exercise or revoke an election under clause 56(2) or (5) after the period specified in subclause (1) has ended, but only if VANZ is satisfied that the surviving spouse's or partner's circumstances have changed significantly since the end of the period.
+[Repealed]
 
 ### 58 Weekly compensation for child
 (1) VANZ is responsible for paying weekly compensation to a child of a deceased veteran.
@@ -3553,29 +3541,19 @@ For the purposes of this Part, any child of a veteran who is born within 12 mont
   (a) the other dependant has or will have, over a period of 12 months, average earnings per week greater than the rate specified under clause 37(3):
   (b) if clause 60 applies to the other dependant, the event occurs under that clause that ends the other dependant's entitlement to weekly compensation.
 
-### 60 Relationship between other dependant's weekly compensation and New Zealand superannuation
+### 60 Relationship between other dependant’s weekly compensation and New Zealand superannuation
 (1) Subclause (2) applies to any other dependant who—
-  (a) is entitled to weekly compensation immediately before reaching the New Zealand superannuation qualification age; and
+  (a) is entitled to weekly compensation immediately before reaching New Zealand superannuation qualification age; and
   (b) has been entitled to it for 24 months or longer before reaching that age.
-(2) Such a dependant loses his or her entitlement to weekly compensation on reaching that age.
-(3) Subclauses (4) and (5) apply to any other dependant who becomes entitled to weekly compensation 12 months or more, but less than 24 months, before reaching the New Zealand superannuation qualification age.
-(4) Such a dependant is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
-(5) However, the other dependant's entitlement to the compensation is dependent on his or her making an election to be entitled to the compensation, rather than to New Zealand superannuation, after reaching the New Zealand superannuation qualification age.
-(6) Subclauses (7) and (8) apply to any other dependant who becomes entitled to weekly compensation—
-  (a) within 12 months before reaching the New Zealand superannuation qualification age; or
-  (b) on or after reaching the New Zealand superannuation qualification age.
-(7) Such a dependant is entitled to the weekly compensation for a period of 12 months following the later of—
-  (a) the date of reaching the New Zealand superannuation qualification age; or
-  (b) the date of entitlement to weekly compensation.
-(8) The other dependant is then entitled to the weekly compensation for the next 12 months, if he or she makes an election to be entitled to the compensation, rather than to New Zealand superannuation, for those next 12 months.
-(9) Nothing in this clause entitles any other dependant to weekly compensation if he or she is not otherwise entitled to it under this schedule.
+(2) The dependant loses entitlement to weekly compensation on reaching that age.
+(3) Subclause (4) applies to any other dependant who first becomes entitled to weekly compensation—
+  (a) less than 24 months before reaching New Zealand superannuation qualification age; or
+  (b) on or after reaching New Zealand superannuation qualification age.
+(4) The dependant is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
+(5) Nothing in this clause entitles any other dependant to weekly compensation if the dependant is not otherwise entitled to it under this Act.
 
 ### 61 Election for purposes of clause 60
-(1) The other dependant must make an election under clause 60(5) or (8) within the period that is the latest of the following:
-  (a) within 1 month before the date on which the election would take effect; or
-  (b) within 1 month after the other dependant has been notified of the amount of the weekly compensation by VANZ, the reviewer, or the Appeal Board, whichever is applicable in the other dependant's case; or
-  (c) before 1 month before the other dependant reaches New Zealand superannuation qualification age.
-(2) VANZ may allow any other dependant to exercise or revoke an election under clause 60(5) or (8) after the period specified in subclause (1) has ended, but only if VANZ is satisfied that the other dependant's circumstances have changed significantly since the end of the period.
+[Repealed]
 
 ### 62 Maximum payments
 (1) The total amount of weekly compensation payable under clauses 54 to 61 must not exceed the weekly compensation for loss of earnings to which the veteran would have been entitled at the end of 5 weeks of incapacity, had he or she lived but been totally incapacitated.
