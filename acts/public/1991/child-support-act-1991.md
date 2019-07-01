@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2019-06-27_
+_Consolidation as at 2019-07-01_
 
 > Title
 
@@ -234,7 +234,7 @@ The objects of this Act are—
 (7) In order to ensure the enforcement of section 192 of the Social Security Act 2018, the Commissioner may notify the chief executive of the department responsible for the administration of that Act if any social security beneficiary who is described in section 192(1)﻿(a) and (b) of that Act fails to comply with his or her obligations under this section, or if his or her application for a formula assessment is not properly completed.
 (8) In this section,—
   - **sole parent** has the same meaning as in Schedule 2 of the Social Security Act 2018
-  - **violence** has the same meaning as in section 3 of the Domestic Violence Act 1995.
+  - **violence** has the same meaning as in section 9 of the Family Violence Act 2018.
 
 ### 10 Form of application
 (1) An application for formula assessment must be in an approved form and be accompanied by the documents (if any) specified in the form.
