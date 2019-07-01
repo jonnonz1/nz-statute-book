@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2017-08-22_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -16,9 +16,9 @@ The purpose of this Act is to improve provisions for the treatment and rights of
 In this Act, unless the context otherwise requires,—
   - **accused** or , in relation to a victim, means a person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of the offence that affected the victim
   - **address** , in relation to a victim or representative, means the address to which notices may be sent by post or electronic means (including by fax or email) and received by the victim or representative
-  - **child** means a boy or girl under the age of 14 years
-  - **domestic violence** has the meaning given in section 3 of the Domestic Violence Act 1995
+  - **child** means a person under the age of 14 years
   - **facility** has the same meaning as in section 9 of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and includes a secure facility within the meaning of that section
+  - **family violence** has the meaning given in section 9 of the Family Violence Act 2018
   - **hospital** has the same meaning as in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **immediate family** , in relation to a victim,—
     (a) means a member of the victim's family, whanau, or other culturally recognised family group, who is in a close relationship with the victim at the time of the offence; and
@@ -67,13 +67,13 @@ In this Act, unless the context otherwise requires,—
     (b) for the purposes only of sections 7 and 8, includes—
       (i) a person who, through, or by means of, an offence committed by another person, suffers any form of emotional harm; and
       (ii) a parent or legal guardian of a child, or of a young person, who falls within subparagraph (i), unless that parent or guardian is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the offence concerned; and
-      (iii) a person who has experienced domestic violence; and
+      (iii) a person who has experienced family violence; and
       (iv) a child or young person residing with a person who falls within subparagraph (iii); and
     (c) despite paragraphs (a) and (b), if an offence is committed by a person, does not include another person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of, or convicted or found guilty of, or who pleads guilty to,—
       (i) that offence; or
       (ii) an offence relating to the same incident or series of incidents as that crime or offence
   - **victim of a specified offence** means a victim of an offence that the Commissioner of Police determines, under section 29A, is a specified offence
-  - **young person** means a boy or girl of or over the age of 14 years but under 17 years; but does not include a person who is or has been married or in a civil union.
+  - **young person** means a person of or over the age of 14 years but under 18 years.
 
 ### 5 Directions about members of immediate family
 (1) This section applies when an offence committed by a person results in the death of another person (person A) or in that other person being incapable.
