@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -117,7 +117,7 @@ This Act binds the Crown.
   - **voice identification evidence** means evidence that is an assertion by a person to the effect that a voice, whether heard first-hand or through mechanical or electronic transmission or recording, is the voice of a defendant or any other person who was connected with an act constituting direct or circumstantial evidence of the commission of an offence
   - **witness** means a person who gives evidence and is able to be cross-examined in a proceeding.
 (2) A hearing commences for the purposes of this Act when, at the substantive hearing of the issues that are the subject of proceedings, the party having the right to begin commences to state that party’s case or, having waived the right to make an opening address, calls that party’s first witness.
-(3) A reference in subsection (1) to the whole or a provision of the Family Violence Act 2018 is, until 1 July 2019, a reference to the whole or the corresponding provision of the Domestic Violence Act 1995.
+(3)
 
 ### 5 Application
 (1) If there is an inconsistency between the provisions of this Act and any other enactment, the provisions of that other enactment prevail, unless this Act provides otherwise.
