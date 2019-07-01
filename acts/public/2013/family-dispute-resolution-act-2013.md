@@ -1,5 +1,5 @@
 # Family Dispute Resolution Act 2013
-_Consolidation as at 2014-03-31_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Family Dispute Resolution Act 2013.
@@ -18,13 +18,13 @@ The purposes of this Act are—
 ### 4 Interpretation
 In this Act,—
   - **approved dispute resolution organisation** means a dispute resolution organisation that is approved by the Secretary under section 6
-  - **domestic violence** has the meaning given to it in the Domestic Violence Act 1995
   - **family dispute** means a dispute that will require an application described in section 46F(1) of the Care of Children Act 2004 if a party to the dispute wants a court to resolve it
   - **family dispute resolution** means family dispute resolution provided by a family dispute resolution provider for the purposes of—
     (a) assisting parties to a family dispute to resolve the dispute without having to pursue court proceedings; and
     (b) ensuring that the parties' first and paramount consideration in reaching a resolution is the welfare and best interests of the children
   - **family dispute resolution form** means a form approved by the Secretary that is described in section 12(2), (4), (6), or (8)
   - **family dispute resolution provider** or means a person who is appointed as a family dispute resolution provider under section 9
+  - **family violence** has the meaning given to it in section 9 of the Family Violence Act 2018
   - **Secretary** means the Chief Executive of the Ministry of Justice.
 
 ### 5 Act binds the Crown
@@ -74,7 +74,7 @@ This Act binds the Crown.
 ### 12 Family dispute resolution forms
 (1) Subsection (2) applies when an FDR provider decides that it is inappropriate to start or continue family dispute resolution for a family dispute because—
   (a) at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution; or
-  (b) at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to domestic violence by one of the other parties to the dispute; or
+  (b) at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to family violence by one of the other parties to the dispute; or
   (c) a situation exists that gives the FDR provider reasonable grounds for deciding that family dispute resolution is inappropriate for the parties to the family dispute.
 (2) The FDR provider must give each of the parties to the family dispute a form that states that family dispute resolution is inappropriate for the dispute.
 (3) Subsection (4) applies when an FDR provider decides that it is inappropriate to start or continue with family dispute resolution for a family dispute because 1 of the parties to the family dispute refuses to attend or to continue to attend family dispute resolution.
@@ -89,7 +89,7 @@ This Act binds the Crown.
 (8) The FDR provider must give each of the parties to the family dispute a form that states—
   (a) all of the matters on which resolution has been reached; and
   (b) the agreement reached in respect of those matters.
-(9) An FDR provider cannot be required to attend court to explain the opinion of the FDR provider given under subsection (6)(b).
+(9) An FDR provider cannot be required to attend court to explain the opinion of the FDR provider given under subsection (6)﻿(b).
 
 ### 13 Provision of family dispute resolution forms to court
 (1) If the parties have attended family dispute resolution pursuant to a direction made under section 46F of the Care of Children Act 2004, the FDR provider must send to the court a copy of the form given to the parties under section 12(2), (4), (6), or (8).
