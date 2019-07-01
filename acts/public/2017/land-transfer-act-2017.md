@@ -1,5 +1,5 @@
 # Land Transfer Act 2017
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Land Transfer Act 2017.
@@ -418,7 +418,7 @@ A paper instrument that creates, transfers, or otherwise affects an estate or in
 (3) The copies referred to in subsection (1) may be provided in electronic form if the chief executive so determines.
 (4) A determination under subsection (3) may be made subject to specified conditions.
 (5) This section is subject to—
-  (a) section 41, Part 6 of the Domestic Violence Act 1995, and any other enactment under which information may be withheld; and
+  (a) section 41, Part 9 of the Family Violence Act 2018, and any other enactment under which information may be withheld; and
   (b) the Public Records Act 2005.
 
 ### 41 Registrar may withhold information for person’s safety
@@ -887,7 +887,7 @@ On registration of a transfer instrument that transfers or assigns an estate or 
   (a) the frequency with which the information must be supplied; and
   (b) the form in which the information must be supplied; and
   (c) the method by which the information must be supplied.
-(3) Subsection (1) applies despite anything in the Domestic Violence Act 1995.
+(3) Subsection (1) applies despite anything in the Family Violence Act 2018.
 
 ### 83 Other provisions concerning use of tax information
 The chief executive may release the information specified in section 79(1)﻿(d), (e), (f), and (g), (2)﻿(b), and (c)﻿(i) and (ii) that is held by Land Information New Zealand, or give that information to any person as soon as practicable after receiving a request in writing from the person, provided that information is given—
