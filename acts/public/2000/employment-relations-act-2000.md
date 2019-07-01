@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2019-06-11_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -1299,7 +1299,7 @@ An employee is entitled to refuse to perform work in addition to any guaranteed 
 
 ### 69AA Object of this Part
 The object of this Part is to—
-  (a) provide employees with a statutory right to make, or to have made on their behalf, a request for a variation of their working arrangements (other than a variation covered by Part 6AB (flexible working short-term for people affected by domestic violence)); and
+  (a) provide employees with a statutory right to make, or to have made on their behalf, a request for a variation of their working arrangements (other than a variation covered by Part 6AB (flexible working short-term for people affected by family violence)); and
   (b) require an employer to deal with a request as soon as possible but not later than 1 month after receiving it; and
   (c) provide that an employer may refuse a request only if it cannot be accommodated on certain grounds; and
   (d) if an employer does not deal with a request in accordance with the process specified in this Part, provide for reference of the matter to a Labour Inspector, then to mediation, and then to the Authority.
@@ -1312,22 +1312,22 @@ In this Part, unless the context otherwise requires,—
     (c) the extent of the contact details that the employee must provide to the employer:
     (d) any other term of the employee’s employment—
       (i) that is not a term covered by paragraphs (a) to (c) of this definition or by paragraphs (a) to (c) of the definition in this section of working arrangements; and
-      (ii) that, in the employee's view, needs variation to enable the employee to deal with the effects of being a person affected by domestic violence
-  - **child** has the meaning given to it in section 2 of the Domestic Violence Act 1995
-  - **domestic violence** has the meaning given to it in section 3 of the Domestic Violence Act 1995
+      (ii) that, in the employee's view, needs variation to enable the employee to deal with the effects of being a person affected by family violence
+  - **child** has the meaning given to it in section 8 of the Family Violence Act 2018
+  - **family violence** has the meaning given to it in section 9 of the Family Violence Act 2018
   - **mediation** means mediation provided under section 144
-  - **person affected by domestic violence** means a person who is 1 or both of the following:
-    (a) a person against whom any other person inflicts, or has inflicted, domestic violence:
-    (b) a person with whom there ordinarily or periodically resides a child against whom any other person inflicts, or has inflicted, domestic violence
+  - **person affected by family violence** means a person who is 1 or both of the following:
+    (a) a person against whom any other person inflicts, or has inflicted, family violence:
+    (b) a person with whom there ordinarily or periodically resides a child against whom any other person inflicts, or has inflicted, family violence
   - **request** means a request made under this Part that—
     (a) is written; and
-    (b) requests an employer to vary an employee's terms and conditions of employment relating to the employee's working arrangements (other than by making a variation that the employee can request under Part 6AB (flexible working short-term for people affected by domestic violence)); and
+    (b) requests an employer to vary an employee's terms and conditions of employment relating to the employee's working arrangements (other than by making a variation that the employee can request under Part 6AB (flexible working short-term for people affected by family violence)); and
     (c) is made by the employee or on the employee's behalf
   - **working arrangements** , in relation to an employee, means 1 or more of the following:
     (a) hours of work:
     (b) days of work:
     (c) place of work (for example, at home or at the employee's place of work):
-    (d) if the employee is a person affected by domestic violence, additional terms that need variation.
+    (d) if the employee is a person affected by family violence, additional terms that need variation.
 
 **Employee's statutory right to make request**
 
@@ -1410,13 +1410,13 @@ An employee may not challenge his or her employer's refusal of a request, or fai
 ### 69AAL Review of operation of Part after 2 years
 [Repealed]
 
-## Part 6AB — Flexible working short-term for people affected by domestic violence
+## Part 6AB — Flexible working short-term for people affected by family violence
 
 ### 69AB Object of this Part
 The object of this Part is to—
-  (a) provide employees who are people affected by domestic violence with a statutory right to make, or to have made on their behalf, a request for a short-term (2-month or shorter) variation of their working arrangements (including any additional terms that need variation), for the purpose of assisting the employees to deal with the effects on the employees of being people affected by domestic violence; and
+  (a) provide employees who are people affected by family violence with a statutory right to make, or to have made on their behalf, a request for a short-term (2-month or shorter) variation of their working arrangements (including any additional terms that need variation), for the purpose of assisting the employees to deal with the effects on the employees of being people affected by family violence; and
   (b) require an employer to deal with a request as soon as possible but not later than 10 working days after receiving it; and
-  (c) provide that an employer may refuse a request only if proof of domestic violence is required and not produced, or the request cannot be accommodated reasonably on certain non-accommodation grounds; and
+  (c) provide that an employer may refuse a request only if proof of family violence is required and not produced, or the request cannot be accommodated reasonably on certain non-accommodation grounds; and
   (d) if an employer does not deal with a request in accordance with this Part, provide for reference of the matter to a Labour Inspector, mediation, or the Authority.
 
 ### 69ABA Interpretation
@@ -1427,14 +1427,14 @@ In this Part, unless the context otherwise requires,—
     (c) the extent of the contact details that the employee must provide to the employer:
     (d) any other term of the employee’s employment—
       (i) that is not a term covered by paragraphs (a) to (c) of this definition or by paragraphs (a) to (c) of the definition in this section of working arrangements; and
-      (ii) that, in the employee's view, needs variation to enable the employee to deal with the effects of being a person affected by domestic violence
-  - **child** has the meaning given to it in section 2 of the Domestic Violence Act 1995
-  - **domestic violence** has the meaning given to it in section 3 of the Domestic Violence Act 1995
+      (ii) that, in the employee's view, needs variation to enable the employee to deal with the effects of being a person affected by family violence
+  - **child** has the meaning given to it in section 8 of the Family Violence Act 2018
+  - **family violence** has the meaning given to it in section 9 of the Family Violence Act 2018
   - **mediation** means mediation provided under section 144
   - **non-compliance with section 69ABE** includes, without limitation, making a wrong determination under 1 or both of section 69ABF(1)﻿(a) and (b)
-  - **person affected by domestic violence** means a person who is 1 or both of the following:
-    (a) a person against whom any other person inflicts, or has inflicted, domestic violence:
-    (b) a person with whom there ordinarily or periodically resides a child against whom any other person inflicts, or has inflicted, domestic violence
+  - **person affected by family violence** means a person who is 1 or both of the following:
+    (a) a person against whom any other person inflicts, or has inflicted, family violence:
+    (b) a person with whom there ordinarily or periodically resides a child against whom any other person inflicts, or has inflicted, family violence
   - **request** means a request made under this Part that—
     (a) is written; and
     (b) requests an employer to vary an employee's terms and conditions of employment relating to the employee's working arrangements; and
@@ -1448,10 +1448,10 @@ In this Part, unless the context otherwise requires,—
 **Employee’s statutory right to make request**
 
 ### 69ABB When and why employee may make request
-(1) An employee who is a person affected by domestic violence may make a request—
+(1) An employee who is a person affected by family violence may make a request—
   (a) at any time; and
-  (b) for the purpose of assisting the employee to deal with the effects on the employee of being a person affected by domestic violence.
-(2) Subsection (1) applies regardless of how long ago the domestic violence occurred, and even if the domestic violence occurred before the person became an employee.
+  (b) for the purpose of assisting the employee to deal with the effects on the employee of being a person affected by family violence.
+(2) Subsection (1) applies regardless of how long ago the family violence occurred, and even if the family violence occurred before the person became an employee.
 (3) A request made under this Part for a short-term (2-month or shorter) variation of the employee’s working arrangements (as defined in section 69ABA) does not prevent a request also being made under Part 6AA by or on behalf of the employee for a permanent, or fixed-period longer than 2 months, variation under that Part of the employee’s working arrangements (as defined in section 69AAA).
 
 ### 69ABC Requirements relating to request
@@ -1462,21 +1462,21 @@ A request must be in writing and—
     (iii) that the request is made under this Part; and
   (b) specify the variation of the working arrangements requested and the period of time (which must be no longer than 2 months) for which the variation is requested; and
   (c) specify the date on which the employee proposes that the variation take effect and the date on which it is proposed that the variation end; and
-  (d) specify how, in the employee's view, the variation will assist the employee to deal with the effects of being a person affected by domestic violence; and
+  (d) specify how, in the employee's view, the variation will assist the employee to deal with the effects of being a person affected by family violence; and
   (e) explain, in the employee’s view, what changes, if any, the employer may need to make to the employer's arrangements if the employee's request is approved.
 
 **Duties of employer**
 
 ### 69ABE Employer must notify decision as soon as possible
 (1) An employer must deal with a request as soon as possible, but not later than 10 working days after receiving it, and must notify the employee in writing of whether his or her request has been approved or refused.
-(2) In or before giving the notification under subsection (1), the employer must provide the employee with information about appropriate specialist domestic violence support services.
+(2) In or before giving the notification under subsection (1), the employer must provide the employee with information about appropriate specialist family violence support services.
 (3) If the employer refuses an employee’s request, the notification given under subsection (1) must—
   (a) state that the request is refused because of 1 or both grounds specified in section 69ABF(1)﻿(a) and (b); and
   (b) state the ground or grounds for refusal; and
   (c) explain the reasons for that ground or those grounds.
 
-### 69ABEA Proof of domestic violence
-(1) An employer may require proof that an employee is a person affected by domestic violence to be produced—
+### 69ABEA Proof of family violence
+(1) An employer may require proof that an employee is a person affected by family violence to be produced—
   (a) to the employer; and
   (b) by or on behalf of an employee; and
   (c) for the purposes of a request made by or on behalf of the employee; and
@@ -1720,7 +1720,7 @@ To avoid doubt, any failure by an employee's employer to comply with the obligat
 (1) The employment of an employee who elects to transfer to a new employer is to be treated as continuous, including for the purpose of service-related entitlements whether legislative or otherwise.
 (2) To avoid doubt, and without limiting subsection (1),—
   (a) in relation to an employee's entitlements under the Holidays Act 2003,—
-    (i) the period of employment of an employee with the employer that ends with the transfer must be treated as a period of employment with the new employer for the purpose of determining the employee's entitlement to annual holidays, sick leave, bereavement leave, and domestic violence leave; and
+    (i) the period of employment of an employee with the employer that ends with the transfer must be treated as a period of employment with the new employer for the purpose of determining the employee's entitlement to annual holidays, sick leave, bereavement leave, and family violence leave; and
     (ii) the employer must not pay the employee for annual holidays not taken before the date of transfer; and
     (iii) the new employer must recognise the employee's entitlement to—
       (A) any sick leave, including any sick leave carried over under section 66 of that Act, not taken before the date of transfer; and
@@ -2715,7 +2715,7 @@ An employee who believes that he or she has a personal grievance may pursue that
   (b) that the employee's employment, or 1 or more conditions of the employee's employment (including any condition that survives termination of the employment), is or are or was (during employment that has since been terminated) affected to the employee's disadvantage by some unjustifiable action by the employer; or
   (c) that the employee has been discriminated against in the employee's employment; or
   (d) that the employee has been sexually harassed in the employee's employment; or
-  (da) that the employee has been treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence; or
+  (da) that the employee has been treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by family violence; or
   (e) that the employee has been racially harassed in the employee's employment; or
   (f) that the employee has been subject to duress in the employee's employment in relation to membership or non-membership of a union or employees organisation; or
   (g) that the employee's employer has failed to comply with a requirement of Part 6A; or
@@ -2824,13 +2824,13 @@ An employee who believes that he or she has a personal grievance may pursue that
     (iii) physical behaviour of a sexual nature,—
 (2) For the purposes of sections 103(1)﻿(d) and 123(d), an employee is also sexually harassed in that employee's employment (whether by a co-employee or by a client or customer of the employer), if the circumstances described in section 117 have occurred.
 
-### 108A Adverse treatment in employment of people affected by domestic violence
-(1) For the purposes of sections 103(1)﻿(da) and 123(1)﻿(d), an employee is treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence if, on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence (as that term is defined in section 69ABA), that employee’s employer or a representative of that employer—
+### 108A Adverse treatment in employment of people affected by family violence
+(1) For the purposes of sections 103(1)﻿(da) and 123(1)﻿(d), an employee is treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by family violence if, on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by family violence (as that term is defined in section 69ABA), that employee’s employer or a representative of that employer—
   (a) dismisses that employee, in circumstances in which other employees employed by that employer on work of that description are not or would not be dismissed; or
   (b) refuses or omits to offer or afford to that employee the same terms of employment, conditions of work, fringe benefits, or opportunities for training, promotion, and transfer as are made available for other employees of the same or substantially the same qualifications, experience, or skills employed in the same or substantially similar circumstances; or
   (c) subjects that employee to any detriment, in circumstances in which other employees employed by that employer on work of that description are not or would not be subjected to such detriment; or
   (d) retires that employee, or requires or causes that employee to retire or resign.
-(2) Subsection (1) applies regardless of how long ago the domestic violence occurred or is suspected or assumed or believed to have occurred, and even if the domestic violence occurred or is suspected or assumed or believed to have occurred before the person became an employee.
+(2) Subsection (1) applies regardless of how long ago the family violence occurred or is suspected or assumed or believed to have occurred, and even if the family violence occurred or is suspected or assumed or believed to have occurred before the person became an employee.
 
 ### 109 Racial harassment
 For the purposes of sections 103(1)﻿(e) and 123(d), an employee is racially harassed in the employee's employment if the employee's employer or a representative of that employer uses language (whether written or spoken), or visual material, or physical behaviour that directly or indirectly—
@@ -2871,7 +2871,7 @@ For the purposes of sections 103(1)﻿(e) and 123(d), an employee is racially ha
   (b) detriment includes anything that has a detrimental effect on the employee’s employment, job performance, or job satisfaction.
 
 ### 111 Definitions relating to personal grievances
-Each of the terms personal grievance, discrimination, sexual harassment, adverse treatment in employment of people affected by domestic violence, racial harassment, duress, and adverse conduct for prohibited health and safety reason have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 108A, 109, 110, and 110A unless the employment agreement gives an extended meaning to the term.
+Each of the terms personal grievance, discrimination, sexual harassment, adverse treatment in employment of people affected by family violence, racial harassment, duress, and adverse conduct for prohibited health and safety reason have in any employment agreement the meanings given to those terms by sections 103, 104, 105, 106, 107, 108, 108A, 109, 110, and 110A unless the employment agreement gives an extended meaning to the term.
 
 ### 112 Choice of procedures
 (1) Where the circumstances giving rise to a personal grievance by an employee are also such that that employee would be entitled to make a complaint under the Human Rights Act 1993, the employee may take 1, but not both, of the following steps:
@@ -2951,7 +2951,7 @@ Nothing in this Part or in any employment agreement prevents a finding that a pe
     (i) humiliation, loss of dignity, and injury to the feelings of the employee; and
     (ii) loss of any benefit, whether or not of a monetary kind, which the employee might reasonably have been expected to obtain if the personal grievance had not arisen:
   (ca) if the Authority or the court finds that any workplace conduct or practices are a significant factor in the personal grievance, recommendations to the employer concerning the action the employer should take to prevent similar employment relationship problems occurring:
-  (d) if the Authority or the court finds an employee to have been sexually or racially harassed in the employee’s employment, or treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by domestic violence, recommendations to the employer—
+  (d) if the Authority or the court finds an employee to have been sexually or racially harassed in the employee’s employment, or treated adversely in the employee’s employment on the ground that the employee is, or is suspected or assumed or believed to be, a person affected by family violence, recommendations to the employer—
     (i) concerning the action the employer should take in respect of the person who made the request referred to in section 108(1)﻿(a) or was guilty of the harassing behaviour or of the adverse treatment on that ground, which action may include the transfer of that person, the taking of disciplinary action against that person, or the taking of rehabilitative action in respect of that person:
     (ii) about any other action that it is necessary for the employer to take to prevent further harassment, or adverse treatment on that ground, of the employee concerned or any other employee.
 (2) When making an order under subsection (1)﻿(b) or (c), the Authority or the court may order payment to the employee by instalments, but only if the financial position of the employer requires it.
@@ -4940,15 +4940,15 @@ A person holding office as a temporary Judge under section 207 immediately befor
 ### 4A Interpretation
 In this Part, 2018 Part means Part 1 of the Domestic Violence—Victims' Protection Act 2018.
 
-**Provisions relating to flexible working short-term for people affected by domestic violence**
+**Provisions relating to flexible working short-term for people affected by family violence**
 
-### 4B Application to pre-commencement domestic violence
-Part 6AB applies even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
+### 4B Application to pre-commencement family violence
+Part 6AB applies even if all or any of the family violence occurred before the commencement of the 2018 Part.
 
-**Provisions relating to adverse treatment in employment of people affected by domestic violence**
+**Provisions relating to adverse treatment in employment of people affected by family violence**
 
-### 4C Application to pre-commencement domestic violence
-Sections 103(1)﻿(da), 108A, 111, and 123(1)﻿(d) apply even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
+### 4C Application to pre-commencement family violence
+Sections 103(1)﻿(da), 108A, 111, and 123(1)﻿(d) apply even if all or any of the family violence occurred before the commencement of the 2018 Part.
 
 ### Part 2 — Provisions relating to Employment Relations Amendment Act 2018
 
