@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -302,7 +302,7 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
       (ii) a designated non-financial business or profession:
       (iii) a financial institution:
       (iv) a high-value dealer:
-      (v) the New Zealand Racing Board; and
+      (v) the Racing Industry Transition Agency; and
     (b) includes—
       (i) a person or class of persons declared by regulations to be a reporting entity for the purposes of this Act; and
       (ii) any other person that is required by any enactment to comply with this Act as if it were a reporting entity; but
@@ -362,12 +362,12 @@ This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 
   (a) does not apply to a law firm, a conveyancing practitioner, or an incorporated conveyancing firm until 1 July 2018 or an earlier date set by the Governor-General by Order in Council:
   (b) does not apply to an accounting practice until 1 October 2018 or an earlier date set by the Governor-General by Order in Council:
   (c) does not apply to a real estate agent until 1 January 2019 or an earlier date set by the Governor-General by Order in Council:
-  (d) does not apply to the New Zealand Racing Board or a high-value dealer until 1 August 2019 or an earlier date set by the Governor-General by Order in Council:
+  (d) does not apply to the Racing Industry Transition Agency or a high-value dealer until 1 August 2019 or an earlier date set by the Governor-General by Order in Council:
   (e) in the case of a trust and company service provider that immediately before the commencement of this section was a reporting entity under regulation 17 of the Anti-Money Laundering and Countering Financing of Terrorism (Definitions) Regulations 2011, applies on and after the date on which this section comes into force:
   (f) in the case of a trust or company service provider to which paragraph (e) does not apply, applies on 1 July 2018 or an earlier date set by the Governor-General by Order in Council.
 (4) This Act applies to a reporting entity only to the extent that,—
   (a) in the case of a reporting entity that is a financial institution, the financial activities undertaken by that entity fall within the activities described in the definition of financial institution in section 5(1):
-  (b) in the case of the New Zealand Racing Board, it carries out the following:
+  (b) in the case of the Racing Industry Transition Agency, it carries out the following:
     (i) the conduct of betting under section 50 of the Racing Act 2003:
     (ii) the operation of accounts or provision of vouchers:
   (c) in the case of a law firm, conveyancer, incorporated conveyancing firm, accounting practice, real estate agent, or other designated non-financial business or profession, the activities carried out by that reporting entity are activities described in the definition of designated non-financial business or profession in section 5(1):
@@ -1567,7 +1567,7 @@ In this subpart, unless the context otherwise requires,—
   (a) for registered banks, life insurers, and non-bank deposit takers, the Reserve Bank of New Zealand (Reserve Bank) is the relevant AML/CFT supervisor:
   (b) for persons referred to in subsection (1A) (other than banks, life insurers, and non-bank deposit takers), the Financial Markets Authority is the relevant AML/CFT supervisor:
   (c) for designated non-financial businesses or professions and high-value dealers, the Department of Internal Affairs, or another AML/CFT supervisor prescribed for the purpose, is the relevant AML/CFT supervisor:
-  (d) for the New Zealand Racing Board, casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraphs (a) to (c), the Department of Internal Affairs is the relevant AML/CFT supervisor.
+  (d) for the Racing Industry Transition Agency, casinos, non-deposit-taking lenders, money changers, and other reporting entities that are not covered by paragraphs (a) to (c), the Department of Internal Affairs is the relevant AML/CFT supervisor.
 (1A) For the purposes of subsection (1)﻿(b), the persons are any of the following:
   (a) persons registered, or required to be registered, under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 by virtue of providing any of the services referred to in—
     (i) section 5(1)﻿(a), (ab), (d), or (i) to (id) of that Act; or
