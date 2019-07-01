@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -5848,6 +5848,9 @@ Building work in connection with any internal linings or finishes of any wall, c
 Building work in connection with the installation of thermal insulation in an existing building other than in—
   (a) an external wall of the building; or
   (b) an internal wall of the building that is a fire separation wall (also known as a firewall).
+
+### 13A Ground moisture barrier
+Building work in connection with the installation in an existing building’s subfloor space of a ground moisture barrier.
 
 ### 14 Penetrations
 (1) Building work in connection with the making of a penetration not exceeding 300 millimetres in diameter to enable the passage of pipes, cables, ducts, wires, hoses, and the like through any existing dwelling or outbuilding and any associated building work, such as weatherproofing, fireproofing, or sealing, provided that—
