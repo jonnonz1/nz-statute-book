@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2019-03-12_
+_Consolidation as at 2019-07-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1725,7 +1725,7 @@ Every one is liable to imprisonment for a term not exceeding 2 years who—
   (a) assaults another person; and
   (b) is, or has been, in a family relationship with that other person.
 (2) In subsection (1), family relationship has the same meaning as in section 12 of the Family Violence Act 2018.
-(3) The reference in subsection (2) to the meaning of family relationship in section 12 of the Family Violence Act 2018 is, until 1 July 2019, a reference to the meaning of domestic relationship in section 4 of the Domestic Violence Act 1995.
+(3)
 
 ### 195 Ill-treatment or neglect of child or vulnerable adult
 (1) Every one is liable to imprisonment for a term not exceeding 10 years who, being a person described in subsection (2), intentionally engages in conduct that, or omits to discharge or perform any legal duty the omission of which, is likely to cause suffering, injury, adverse effects to health, or any mental disorder or disability to a child or vulnerable adult (the victim) if the conduct engaged in, or the omission to perform the legal duty, is a major departure from the standard of care to be expected of a reasonable person.
