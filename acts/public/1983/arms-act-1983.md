@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2019-07-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -368,10 +368,11 @@ Unless sooner revoked under section 18(4), a permit issued for the purposes of s
 (2) Any person may at any time surrender a firearms licence held by him.
 (3) Where a licence is revoked under subsection (1) or surrendered under subsection (2), the person to whom the licence has been issued shall cease to be licensed to possess firearms, airguns, pistols, or restricted weapons by virtue of that licence or any endorsement on it.
 
-### 27A Domestic violence and firearms licences
-Without limiting the generality of sections 24 and 27, it is hereby declared that a commissioned officer of Police may, under either or both of those sections, decide that a person is not a fit and proper person to be in possession of a firearm or airgun if that commissioned officer of Police is satisfied—
-  (a) that there are grounds under the Domestic Violence Act 1995 for the making against that person of an application for a protection order; or
+### 27A Family violence and firearms licences
+(1) A commissioned officer of Police may, under either or both of sections 24 and 27, decide that a person is not a fit and proper person to be in possession of a firearm or airgun if that commissioned officer of Police is satisfied—
+  (a) that there are grounds under the Family Violence Act 2018 for the making against that person of an application for a protection order; or
   (b) that such an order is in force under that Act in respect of that person.
+(2) Subsection (1) declares the effect of, and does not limit, sections 24 and 27.
 
 ### 28 Effect of revocation or surrender of firearms licence
 (1) On the revocation or surrender of a firearms licence, the person who was the holder of that licence shall, on demand, deliver every firearm, pistol, prohibited magazine, prohibited part, or restricted weapon in his possession or under his control to a member of the Police.
