@@ -1,5 +1,5 @@
 # Victims' Orders Against Violent Offenders Act 2014
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Victims' Orders Against Violent Offenders Act 2014.
@@ -17,7 +17,7 @@ This Act—
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
   - **associate** means a person against whom a final non-contact order applies pursuant to a direction made under section 12
-  - **child** means a boy or girl under the age of 14 years
+  - **child** means a person under the age of 14 years
   - **court** means the District Court, and includes a District Court Judge
   - **encourage** includes to incite, counsel, or procure
   - **final non-contact order** means a non-contact order referred to in section 9(4)
@@ -49,7 +49,7 @@ In this Act, unless the context otherwise requires,—
       (ii) is charged with the commission of, or convicted or found guilty of, an offence relating to the same incident or series of incidents as that offence
   - **violent offence** has the meaning given to serious violent offence by section 86A of the Sentencing Act 2002
   - **violent offender** or has the meaning given to it by section 5
-  - **young person** means a boy or girl of or over the age of 14 years but under 17 years, but does not include a person who is or has been married or is in a civil union.
+  - **young person** means a person of or over the age of 14 years but under 18 years.
 
 ### 5 Meaning of violent offender or offender
 (1) In this Act, violent offender or offender, in relation to a victim, means a person who at any time—
@@ -69,12 +69,12 @@ This Act binds the Crown.
 ### 7 Application for non-contact order
 (1) A victim of a violent offence may make an application to the court for a non-contact order against a violent offender at any time after the offender has been sentenced in respect of the offence.
 (2) However, a victim may not make an application under subsection (1) if—
-  (a) there is in force a protection order against the offender made under the Domestic Violence Act 1995 and the victim is a protected person under that order; or
+  (a) there is in force a protection order against the offender made under the Family Violence Act 2018 and the victim is a protected person under that order; or
   (b) there is in force a restraining order against the offender made under the Harassment Act 1997 for the protection of the victim.
 (3) An application under subsection (1) may be made—
   (a) without notice, if the court is satisfied that the delay that would be caused by proceeding on notice would or might entail undue hardship for the victim; or
   (b) on notice.
-(4) For the purposes of subsection (2), protected person has the meaning given to it by section 2 of the Domestic Violence Act 1995.
+(4) For the purposes of subsection (2), protected person has the meaning given to it by section 8 of the Family Violence Act 2018.
 
 ### 8 Disclosure of offender's address
 (1) This section applies if—
