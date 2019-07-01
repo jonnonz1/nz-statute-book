@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -30,7 +30,8 @@ This Act is the Immigration Act 2009.
     (i) enable immigration officers to gather information in relation to visa holders, employers, and education providers to determine compliance with obligations in respect of the system; and
     (ii) prescribe the system for the deportation of people who are not New Zealand citizens and who fail to comply with immigration requirements, commit criminal offences, or are considered to pose a threat or risk to security; and
   (f) establishes a specialist tribunal to consider appeals against decisions made under this Act and to consider humanitarian appeals; and
-  (g) supports the settlement of migrants, refugees, and protected persons.
+  (g) supports the settlement of migrants, refugees, and protected persons; and
+  (h) enables a levy to be charged to fund, or contribute to the funding of, costs associated with conservation or tourism.
 
 ### 4 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -85,6 +86,7 @@ In this Act, unless the context otherwise requires,—
     (a) provided at any primary, intermediate, composite, secondary, or special school (within the meaning of the Education Act 1989), whether state, private, or integrated (within the meaning of section 2(1) of that Act); and
     (b) provided to a person at any time during the period beginning on the person’s fifth birthday and ending on 1 January following the person’s 19th birthday
   - **conditions** include conditions precedent as well as conditions subsequent (whether imposed by an immigration officer, the Minister, or the Tribunal)
+  - **conservation** has the meaning given to it in section 2(1) of the Conservation Act 1987
   - **contact address** has the meaning given to it by section 387A
   - **Convention Against Torture** means the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment done at New York on 10 December 1984
   - **counsel assisting the court** means a person appointed as counsel assisting the court under section 269
@@ -147,10 +149,11 @@ In this Act, unless the context otherwise requires,—
   - **imprisonment** means any form of detention or custody whereby a person is deprived of liberty for a continuous period, including home detention, detention or custody in a psychiatric institution or hospital, and military custody; but does not include detention or custody under this Act
   - **infringement fee** , in relation to an infringement offence, means the fee set in respect of that offence by regulations made under section 400
   - **infringement offence** has the meaning given to it by section 359
+  - **international visitor conservation and tourism levy** means a levy imposed by regulations under section 400 for the purposes of section 399A
   - **invitation to apply** means an invitation to apply for a visa, as described in section 94
   - **leave New Zealand** means, except in the circumstances specified in section 121, leave New Zealand for a destination in another country
   - **mass arrival group** has the meaning given to it by section 9A
-  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **Minister** , in relation to a provision of, or made under, this Act (or to such a provision for particular purposes), means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the provision (or for its administration for those purposes)
   - **New Zealand** means any land territory within the territorial limits of New Zealand; and includes—
     (a) the internal waters of New Zealand (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977); and
     (b) the Ross Dependency (including any ice shelf); and
@@ -601,6 +604,8 @@ A person who is unlawfully in New Zealand may not—
 (3) Conditions imposed on visas granted by an automated electronic system may only be conditions that are specified in immigration instructions for a visa of the relevant class or type.
 (4) However, nothing in this section prevents an immigration officer or the Minister from imposing further conditions, or varying or cancelling conditions under any of sections 50 to 55, on or in relation to a visa granted by way of an automated electronic system.
 (5) Where a decision to grant or refuse to grant a visa or entry permission, or to issue or refuse to issue an invitation to apply for a visa, is made by way of an automated electronic system, that decision must for all purposes be treated as a decision of an immigration officer who is authorised to make the decision under this Act.
+(6) An automated electronic system may be used by the Department to process, accept, or refuse a request by a person seeking to rely on a visa waiver.
+(7) Where a decision to accept or refuse a request is made under subsection (6) by way of an automated electronic system, that decision must for all purposes be treated as a decision of an immigration officer who is authorised to make the decision under this Act.
 
 ### 29 Automated decision making in advance passenger processing
 The chief executive may make a decision under section 97(1) or 97A(1) by means of an automated electronic system that analyses the information (if any) about a person that is held by the chief executive or to which the chief executive has access using criteria predetermined by the chief executive.
@@ -5572,6 +5577,30 @@ Sections 386A to 387A are default rules that apply subject to any other provisio
 (8) On and after the commencement date,—
   (a) a relevant person is not liable to pay, in respect of an application for a visa made before the commencement date, the immigration levy imposed by regulations that apply after the commencement date; but
   (b) if the relevant person is granted a visa on the basis of that application, he or she is liable to pay the migrant levy that would have been payable if section 102 of the Immigration Amendment Act 2015 had not come into force.
+
+### 399A International visitor conservation and tourism levy
+(1) Regulations made under section 400 may provide for the imposition and collection of an international visitor conservation and tourism levy on—
+  (a) applicants for a temporary entry class visa:
+  (b) persons seeking to rely on a waiver under section 69 of the requirement to hold a temporary entry class visa permitting travel to New Zealand.
+(2) The purpose of the levy is to fund, or contribute to the funding of,—
+  (a) conservation:
+  (b) infrastructure used for tourism (including the cost of operating the infrastructure):
+  (c) other initiatives related to tourism.
+(3) Regulations made for the purposes of this section may—
+  (a) specify the categories or classes of person who are liable to pay the levy:
+  (b) prescribe the amount or method of calculation of the levy:
+  (c) prescribe different amounts or methods of calculation of the levy in respect of different categories or classes of person:
+  (d) provide for exemptions from, or refunds of, all or part of the levy in any class of case:
+  (e) provide for the manner of collection of the levy, including provision for the relevant amount of levy to be deposited with the chief executive.
+(4) The Minister may, by special direction,—
+  (a) exempt any person or persons from the obligation to pay all or part of the levy; or
+  (b) refund all or part of a levy paid.
+(5) All levy money collected under this section must be paid into a Crown Bank Account.
+
+### 399B International visitor conservation and tourism levy: consultation and review
+(1) Before recommending the making of regulations for the purposes of section 399A, the Minister must consult any persons and organisations that the Minister considers appropriate.
+(2) However, the requirement to consult persons and organisations does not apply to the first regulations made for those purposes.
+(3) At intervals of no more than 5 years following the commencement of section 399A, the Department must review the amount or method of calculation of any international visitor conservation and tourism levy.
 
 **Regulations**
 
