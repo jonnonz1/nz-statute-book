@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2018-12-12_
+_Consolidation as at 2019-07-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -53,9 +53,7 @@ _Consolidation as at 2018-12-12_
   - **the Fund** means the Residential Tenancies Fund established by section 127
   - **goods** means goods, baggage, and chattels of any description; and includes animals and plants; and also includes money, documents, and all other things of value
   - **guarantor** , in relation to a tenancy, means a person who guarantees the performance of the tenant’s obligations, or who indemnifies the landlord against loss that he or she may incur in respect of the tenancy, or who assumes liability for the performance of the obligations of the tenant, and has a corresponding meaning
-  - **income-related rent tenancy** means a tenancy, other than a boarding house tenancy,—
-    (a) that commences before 1 July 2016 and in relation to which section 72(1) or 92(1) of the Housing Restructuring and Tenancy Matters Act 1992 applies at the beginning of 1 July 2016; or
-    (b) that commences on or after 1 July 2016 and in relation to which section 72(1) or 92(1) of the Housing Restructuring and Tenancy Matters Act 1992 applies at its commencement
+  - **healthy homes standards** means the standards provided for in regulations under section 138B(1)
   - **key money** means any sum of money demanded by way of fine, premium, foregift, reimbursement of expenses, administration charges, or otherwise as consideration for the grant, continuance, extension, variation, or renewal of a tenancy agreement, or for consent to the surrender or disposition of the tenant's interest under a tenancy agreement or to a subletting by the tenant; but does not include any sum payable or paid by way of rent or bond
   - **landlord** , in relation to any residential premises that are the subject of a tenancy agreement, means the grantor of a tenancy of the premises under the agreement; and, where appropriate, includes—
     (a) a prospective landlord; and
@@ -79,7 +77,6 @@ _Consolidation as at 2018-12-12_
     (f) any other person who is related (whether by blood or marriage) to the landlord or owner or to any person referred to in paragraph (a) or (b) and is residing, or is to reside, in the landlord’s or owner’s premises in accordance with an arrangement between that person and the landlord or the owner of a predominantly domestic or family nature rather than a predominantly commercial nature
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **minor** means any person who is not an adult
-  - **New Zealand Standard** has the meaning given in section 4(1) of the Standards and Accreditation Act 2015
   - **officer of the Tribunal** means an officer of the department or the Ministry of Justice who is for the time being acting in the service of the Tribunal; and includes a Tenancy Mediator
   - **order** , in relation to the Tribunal, means any order, decision, determination, consent, approval, or ruling given or made by the Tribunal; and includes an order by the Tribunal dismissing an application
   - **periodic tenancy** means a residential tenancy other than a fixed-term tenancy
@@ -113,7 +110,9 @@ _Consolidation as at 2018-12-12_
   - **witness summons** means a summons issued under section 98 requiring the person named in the summons to attend at a specified time and place and to give evidence or to produce any document or thing
   - **work order** —
     (a) means an order by the Tribunal to carry out any repairs to any premises or to any chattels, or to rectify any deficiency in the performance of any services, by doing such work or attending to such matters (including the replacement of chattels) as may be specified in the order; and
-    (b) includes (without limiting the generality of paragraph (a)), an order by the Tribunal requiring a party to carry out any work, as specified in the order, for the purpose of complying with any requirement in respect of smoke alarms or insulation imposed on the party by regulations made under section 138A or 138B
+    (b) includes (without limiting paragraph (a)) an order by the Tribunal requiring—
+      (i) a party to carry out any work, or to attend to any matters, as specified in the order for the purpose of complying with any requirement in respect of smoke alarms imposed on the party by regulations made under section 138A; or
+      (ii) the landlord to carry out any work, or to attend to any matters, as specified in the order for the purpose of complying with the healthy homes standards
   - **working day** means any day other than—
     (a) a Saturday, a Sunday, Waitangi Day, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
@@ -297,17 +296,24 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
 (1A) The landlord must include in the tenancy agreement a statement, made and signed by the landlord, that provides the following information to the tenant (subject to subsections (1B) and (1C)):
   (a) whether or not there is, as at the date of the tenancy agreement, any insulation installed in connection with any ceilings, floors, or walls that are at the premises:
   (b) details of the location, type, and condition of all insulation that is, as at the date of the tenancy agreement, installed in connection with any ceilings, floors, or walls that are at the premises:
-  (c) if the tenancy is, or will be, an income-related rent tenancy and requirements in respect of insulation are imposed on the landlord as referred to in section 45(1)﻿(bb), an explanation of how the landlord will comply with those requirements.
+  (c)
 (1B) Subsection (1C) applies if, despite making all reasonable efforts to do so, the landlord has not been able to obtain some or all of the information required by subsection (1A)﻿(a) or (b) in respect of a particular location (for example, above a ceiling, under a floor, or in a wall).
 (1C) The landlord’s statement under subsection (1A) does not have to provide the information that the landlord has not been able to obtain in respect of the particular location, so long as the statement instead—
   (a) describes the information that the landlord has not been able to obtain in respect of the particular location; and
   (b) explains why the landlord has not been able to obtain that information; and
   (c) confirms that the landlord has made all reasonable efforts to obtain that information.
-(1D) The requirement that the landlord’s statement under subsection (1A) be signed by the landlord is in addition to the requirement under section 13(1) that the landlord sign the tenancy agreement.
-(1E) The landlord’s statement under subsection (1A) does not affect the landlord’s duties in respect of insulation under section 45(1) or 66I(1) or otherwise.
+(1CA) The landlord must also include in the tenancy agreement a statement, made and signed by the landlord,—
+  (a) that, on and after the commencement of the tenancy, the landlord will comply with the healthy homes standards as required by section 45(1)﻿(bb) or 66I(1)﻿(bb) (as the case may be); and
+  (b) including the information (if any) prescribed by regulations under section 138B(5).
+(1CB) If there is a written variation or renewal of the tenancy agreement in accordance with section 13B(1), the landlord must include in the written variation or renewal a statement, made and signed by the landlord,—
+  (a) that, on and after the time when the variation or renewal takes effect, the landlord will comply with the healthy homes standards as required by section 45(1)﻿(bb) or 66I(1)﻿(bb) (as the case may be); and
+  (b) including the information (if any) prescribed by regulations under section 138B(5).
+(1D) The requirement that the landlord’s statement under subsection (1A) or (1CA) be signed by the landlord is in addition to the requirement under section 13(1) that the landlord sign the tenancy agreement.
+(1DA) The requirement that the landlord’s statement under subsection (1CB) be signed by the landlord is in addition to the requirement under section 13B(1) that the landlord sign the variation or renewal.
+(1E) The landlord’s statement under subsection (1A), (1CA), or (1CB) does not affect the landlord’s duties in respect of insulation or the healthy homes standards under section 45(1) or 66I(1) or otherwise.
 (1F) The landlord commits an unlawful act if—
-  (a) the landlord fails to comply with subsection (1A); or
-  (b) the landlord’s statement under subsection (1A) includes anything that the landlord knows to be false or misleading.
+  (a) the landlord fails to comply with subsection (1A), (1CA), or (1CB); or
+  (b) the landlord’s statement under subsection (1A), (1CA), or (1CB) includes anything that the landlord knows to be false or misleading.
 (2)
 
 ### 13AB Address for service
@@ -749,11 +755,8 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (a) provide the premises in a reasonable state of cleanliness; and
   (b) provide and maintain the premises in a reasonable state of repair having regard to the age and character of the premises and the period during which the premises are likely to remain habitable and available for residential purposes; and
   (ba) comply with all requirements in respect of smoke alarms imposed on the landlord by regulations made under section 138A; and
-  (bb) if the tenancy is an income-related rent tenancy, comply with all requirements in respect of insulation imposed on the landlord by regulations made under section 138B; and
-  (bc) if the tenancy is not an income-related rent tenancy, comply with any requirement imposed on the landlord by regulations made under section 138B that provides (generally or in specified circumstances)—
-    (i) for the prohibition of any insulation (or any material or other item related to insulation) of a specified description; or
-    (ii) that any work, or other activity, of a specified description that is carried out during the tenancy must be carried out in accordance with a specified New Zealand Standard or a specified provision of a New Zealand Standard; or
-    (iii) that specified requirements in relation to thermal resistance (as defined in the regulations) must be met where any work, or other activity, of a specified description is carried out during the tenancy; and
+  (bb) comply with the healthy homes standards; and
+  (bc)
   (c) comply with all requirements in respect of buildings, health, and safety under any enactment so far as they apply to the premises; and
   (ca) if the premises do not have a reticulated water supply, provide adequate means for the collection and storage of water; and
   (d) compensate the tenant for any reasonable expenses incurred by the tenant in repairing the premises where—
@@ -761,11 +764,8 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
     (ii) the tenant has given the landlord notice of the state of disrepair or made a reasonable attempt to do so; and
   (e) take all reasonable steps to ensure that none of the landlord's other tenants causes or permits any interference with the reasonable peace, comfort, or privacy of the tenant in the use of the premises.
 (1A) Failure by the landlord to comply with any of paragraphs (a) to (ca) of subsection (1) is declared to be an unlawful act.
-(1B) The landlord in relation to an income-related rent tenancy that commences on or after 1 July 2016 but before 1 July 2019 is not required to comply with the requirements imposed on the landlord as referred to in subsection (1)﻿(bb) until the 90th day after the date of commencement of the tenancy.
-(1C) Subsection (1B) does not apply to a requirement that provides (generally or in specified circumstances)—
-  (a) for the prohibition of any insulation (or any material or other item related to insulation) of a specified description; or
-  (b) that any work, or other activity, of a specified description that is carried out during the tenancy must be carried out in accordance with a specified New Zealand Standard or a specified provision of a New Zealand Standard; or
-  (c) that specified requirements in relation to thermal resistance (as defined in the regulations) must be met where any work, or other activity, of a specified description is carried out during the tenancy.
+(1B)
+(1C)
 (2) The landlord shall not interfere with the supply of gas, electricity, water, telephone services, or other services to the premises, except where the interference is necessary to avoid danger to any person or to enable maintenance or repairs to be carried out.
 (2A) A contravention by the landlord of subsection (2) is declared to be an unlawful act.
 (3) The provisions of subsection (1) shall apply notwithstanding that the tenant has notice of the state of the premises at the time at which the tenancy agreement is entered into.
@@ -791,7 +791,8 @@ The landlord shall take all reasonable steps to ensure that, at the commencement
   (c) for the purpose of determining whether or not—at any time between 8 o'clock in the morning and 7 o'clock in the evening on any day (after the expiry of the period allowed for the work) specified in a notice given to the tenant not less than 48 hours nor more than 14 days before the intended entry; or
     (i) the tenant has, within the period allowed by the landlord, completed satisfactorily any work required by the landlord to be done by the tenant to remedy any breach by the tenant of any of the provisions of the tenancy agreement or of this Act; or
     (ii) the tenant has, within the agreed period, completed satisfactorily any work agreed to be done by the tenant,—
-  (ca) for the purpose of complying, or preparing to comply, with any requirements in respect of smoke alarms or insulation imposed, or prospectively imposed, on landlords by regulations made under section 138A or 138B, at any time between 8 o’clock in the morning and 7 o’clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
+  (ca) for the purpose of complying, or preparing to comply, with any requirements in respect of smoke alarms imposed, or prospectively imposed, on landlords by regulations made under section 138A, at any time between 8 o’clock in the morning and 7 o’clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
+  (cb) for the purpose of complying, or preparing to comply, with the healthy homes standards (including any prospective requirements of those standards), at any time between 8 o’clock in the morning and 7 o’clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
   (d) for the purpose of carrying out necessary repairs to or necessary maintenance of, the premises, at any time between 8 o'clock in the morning and 7 o'clock in the evening of any day, after giving to the tenant notice of the intended entry and the reason for it at least 24 hours before the intended entry; or
   (da) for the purpose of providing services agreed to under the tenancy agreement, but only if the entry complies with any conditions specified in the tenancy agreement; or
   (e) pursuant to an order of the Tribunal.
@@ -1188,10 +1189,7 @@ A boarding house tenancy is not assignable by a tenant.
   (a) ensure that the facilities of the premises are in a reasonable state of cleanliness; and
   (b) ensure that the premises are in a reasonable state of repair, having regard to the age and character of the premises and the period during which the premises are likely to remain habitable and available for residential purposes; and
   (ba) comply with all requirements in respect of smoke alarms imposed on the landlord by regulations made under section 138A; and
-  (bb) comply with any requirement imposed on the landlord by regulations made under section 138B that provides (generally or in specified circumstances)—
-    (i) for the prohibition of any insulation (or any material or other item related to insulation) of a specified description; or
-    (ii) that any work, or other activity, of a specified description that is carried out during the tenancy must be carried out in accordance with a specified New Zealand Standard or a specified provision of a New Zealand Standard; or
-    (iii) that specified requirements in relation to thermal resistance (as defined in the regulations) must be met where any work, or other activity, of a specified description is carried out during the tenancy; and
+  (bb) comply with the healthy homes standards; and
   (c) comply with all requirements in respect of buildings, health, and safety under any enactment so far as they apply to the premises; and
   (d) ensure that there are sufficient locks or similar devices to ensure that the premises are reasonably secure; and
   (e) ensure that the tenant has access at all times to his or her room and to toilet and bathroom facilities in the premises; and
@@ -1300,7 +1298,8 @@ If a landlord or tenant breaches any provision of the tenancy agreement, the oth
   (a) to show the room to a prospective tenant:
   (b) to show the room to a prospective buyer or lender, or to a registered valuer, real estate agent, or an expert engaged in appraising or evaluating the boarding house, if the boarding house is to be sold or used as security:
   (c) where entry to the room is necessary to enable the landlord to fulfil his or her obligations under this Act:
-  (ca) without limiting paragraph (c), to comply, or to prepare to comply, with any requirements in respect of smoke alarms or insulation imposed, or prospectively imposed, on landlords by regulations made under section 138A or 138B:
+  (ca) without limiting paragraph (c), to comply, or to prepare to comply, with any requirements in respect of smoke alarms imposed, or prospectively imposed, on landlords by regulations made under section 138A:
+  (cb) without limiting paragraph (c), to comply, or to prepare to comply, with the healthy homes standards (including any prospective requirements of those standards):
   (d) where the landlord has reasonable grounds to believe that a tenant of the room has failed to comply with his or her obligations as a tenant under this Act:
   (e) the landlord wishes to confirm whether or not a tenant of the room has abandoned the tenancy:
   (f) the landlord wishes to inspect the room and no entry for that purpose has been made within the last 4 weeks:
@@ -1552,7 +1551,7 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
   (b) may, where the order is made by consent,—
 (2AA) Subsection (2) does not apply if the work order, or any part of the work order, relates to any of the following:
   (a) smoke alarms:
-  (b) insulation:
+  (b) a failure to comply with the healthy homes standards:
   (c) a failure to comply with a standard of fitness or other requirement applying by virtue of section 120C of the Health Act 1956:
   (d) a failure to comply with any other requirement relating to health or safety under any enactment.
 (2AAB) A work order may include a provision authorising the party in whose favour the order is made—
@@ -2135,6 +2134,7 @@ The chief executive is responsible for the general administration of this Act.
   (a) the investigation of, and the conduct of research into, any matters generally affecting or that may affect the interests of parties to tenancy agreements, or any such matters arising in any particular case:
   (b) the publication of reports, the dissemination of information, and the taking of such steps as the chief executive thinks proper for informing members of the public of the rights and obligations of parties to tenancy agreements and of the general operation of this Act:
   (c) the giving of opinions and advice to persons on any provisions of this Act or of any other enactment or rule of law relating to tenancy agreements:
+  (ca) the monitoring and assessment of compliance by landlords with the healthy homes standards:
   (d) the investigation, whether on the complaint of a party or not, of any alleged breach of this Act, or of any tenancy agreement, and the taking of such action, whether involving prosecution or other proceedings, negotiation, or arbitration, as the chief executive thinks proper:
   (da) to supervise the operations of the office of the Tribunal and to work in close co-operation with the Registrar to ensure that disputes arising within the jurisdiction of the Tribunal are dealt with efficiently and expeditiously:
   (db) the publication of comments about particular persons who are, or have been, landlords:
@@ -2146,6 +2146,7 @@ The chief executive is responsible for the general administration of this Act.
   (a) the tenancy agreement and any variations or renewals of it (or copies):
   (b) any reports of inspections of the premises carried out by or for the landlord during the tenancy (or copies):
   (c) records of any maintenance or repair work carried out at the premises by or for the landlord during the tenancy (or copies):
+  (ca) the records or other documents that relate to the landlord’s compliance with the healthy homes standards and that are prescribed by regulations under section 138B(5):
   (d) any notices or letters, emails, or other forms of correspondence between the landlord (or a person acting on the landlord’s behalf) and the tenant (or a person acting on the tenant’s behalf) in relation to the tenancy (or copies).
 (2) The chief executive may by notice in writing require a landlord to produce to the chief executive any specified documents, or any documents of a specified class, that the landlord is required to retain under subsection (1)﻿(b) to (d).
 (3) A notice under subsection (2)—
@@ -2167,6 +2168,9 @@ The chief executive is responsible for the general administration of this Act.
 If a document is produced to the chief executive under section 123A or 123B, the chief executive may—
   (a) inspect and make records of the document; and
   (b) take copies of the document or extracts from it.
+
+### 123CA Programmes of inspections to monitor and assess compliance with healthy homes standards
+The chief executive may, for the purposes of the chief executive’s function under section 123(1)﻿(ca), prepare and implement programmes for inspecting premises (including fixtures, fittings, and chattels in them) or facilities.
 
 ### 123D Power of entry to inspect premises
 (1) An authorised person may, at any reasonable time, enter any premises that are the subject of a tenancy to inspect the premises, and any fixtures, fittings, and chattels in the premises, if—
@@ -2202,7 +2206,9 @@ If a document is produced to the chief executive under section 123A or 123B, the
 (2) The Tribunal may make an order authorising the inspection if it is satisfied that the chief executive has reasonable grounds for believing—
   (a) that there has been a breach of the tenancy agreement or a breach of this Act in relation to the tenancy; and
   (b) that the inspection is reasonably necessary for the purposes of the chief executive’s functions or powers under this Act in relation to the breach.
-(3) The Tribunal’s authorisation may be given subject to conditions, which must be set out in the order.
+(2A) The chief executive may, for the purpose of implementing a programme of inspections prepared under section 123CA, apply to the Tribunal for an order authorising an inspection under section 123D.
+(2B) The Tribunal may make an order authorising the inspection if it is satisfied that the chief executive has reasonable grounds for believing that the order is reasonably necessary for the purpose of implementing the programme.
+(3) The Tribunal’s authorisation under subsection (2) or (2B) may be given subject to conditions, which must be set out in the order.
 
 ### 124 Chief executive may take or defend proceedings on behalf of any party
 (1) Subject to subsection (3), the chief executive may, on being satisfied that there is a cause of action and that it is in the public interest to do so, on behalf of any party to a tenancy agreement do all or any of the following:
@@ -2385,16 +2391,36 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (c) requirements about the numbers, locations, condition, types, or technical specifications of smoke alarms that are installed at premises and requirements about methods of installation.
 (4) However, the requirements that may be imposed on tenants by regulations under this section are limited to requirements in respect of the replacement of worn-out batteries contained in smoke alarms.
 
-### 138B Regulations in respect of insulation
-(1) The Governor-General may, by Order in Council, make regulations imposing on landlords requirements in respect of insulation for the purposes of section 45(1)﻿(bb) or (bc) or 66I(1)﻿(bb).
-(2) Regulations under this section may do the following:
-  (a) impose different requirements for different descriptions of landlords, premises, areas in New Zealand, or other circumstances:
-  (b) impose requirements on all landlords or requirements that apply only for particular descriptions of landlords, premises, areas in New Zealand, or other circumstances:
-  (c) impose requirements that are subject to exceptions.
-(3) The requirements that may be imposed by regulations under this section include the following (for example):
-  (a) requirements that insulation (or any material or other item related to insulation) be installed in connection with ceilings, floors, or walls that are at premises:
-  (b) requirements about the inspection, maintenance, or replacement of insulation (or any material or other item related to insulation) that is installed in connection with ceilings, floors, or walls that are at premises:
-  (c) requirements about the quantities, locations, condition, types, or technical specifications of insulation (or any material or other item related to insulation) that is installed in connection with ceilings, floors, or walls that are at premises and requirements about methods of installation.
+### 138B Healthy homes standards
+(1) The Governor-General may, by Order in Council, make regulations that provide for, in accordance with this section, standards (the healthy homes standards) with which landlords must comply for the purposes of section 45(1)﻿(bb) or 66I(1)﻿(bb).
+(2) The healthy homes standards may include any of the following:
+  (a) standards about the indoor temperatures that must be capable of being achieved in the premises:
+  (b) standards about other outcomes (for example, levels of moisture or humidity) that must be capable of being achieved in the premises and that may be affected by any of the things referred to in paragraph (c)﻿(i) to (vii):
+  (c) standards imposing requirements in relation to any of the following:
+    (i) heating:
+    (ii) insulation:
+    (iii) ventilation:
+    (iv) moisture ingress:
+    (v) draught stopping:
+    (vi) drainage:
+    (vii) any material or other thing relating to a thing referred to in subparagraphs (i) to (vi).
+(3) The requirements that may be imposed by standards under subsection (2)﻿(c) include the following (for example):
+  (a) requirements that things be installed or provided at the premises:
+  (b) requirements about the inspection, maintenance, or replacement of things that are installed or provided at the premises:
+  (c) requirements about the quantities, locations, condition, types, or technical specifications of things that are installed or provided at the premises and requirements about methods of installing or providing things at the premises.
+(4) Regulations under subsection (1) may—
+  (a) specify methods for determining whether standards have been complied with (including any assumptions that may be made for the purpose):
+  (b) include exceptions to standards.
+(5) The Governor-General may, by Order in Council, make regulations—
+  (a) prescribing information relating to the healthy homes standards that must be included in a landlord’s statement for the purposes of section 13A(1CA)﻿(b) or (1CB)﻿(b):
+  (b) prescribing the records or other documents that must be retained by a landlord for the purposes of section 123A(1)﻿(ca) (which may include records or other documents relating to work or other things done before the commencement of the tenancy).
+(6) Regulations under this section may—
+  (a) make different provisions for different descriptions of landlords, premises, areas in New Zealand, or other circumstances:
+  (b) make provisions applying to all landlords or provisions that apply only to particular descriptions of landlords, premises, areas in New Zealand, or other circumstances.
+(7) In this section, premises, in relation to a tenancy that is not a boarding house tenancy, includes facilities.
+
+### 138C Powers to make regulations under sections 138A and 138B not limited by other enactments
+To avoid doubt, nothing in the Building Act 2004, or in any other enactment relating to buildings, health, or safety, limits the provision that may be made by regulations under section 138A or 138B.
 
 ### 139 Regulations relating to accommodation brokers
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -2532,7 +2558,7 @@ Section 17A does not apply to—
 | Section |  | Amount ($) |
 | --- | --- | --- |
 | 12 | (Unlawful discrimination) | 4,000 |
-| 13A(1F) | (Non-compliance with section 13A(1A), etc) | 500 |
+| 13A(1F) | (Non-compliance with section 13A(1A), (1CA), or (1CB), etc) | 500 |
 | 16A(6) | (Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days) | 1,000 |
 | 17 | (Requiring key money) | 1,000 |
 | Section 17A | (Requiring letting fee) | 1,000 |
@@ -2551,7 +2577,7 @@ Section 17A does not apply to—
 | 40(3A)﻿(d) | (Harassment of tenant or neighbour) | 2,000 |
 | 40(3A)﻿(e) | (Tenant failing to ensure number of residents does not exceed maximum allowed) | 1,000 |
 | 44(2A) | (Assigning or subletting a tenancy when prohibited to do so or without the landlord’s written consent) | 1,000 |
-| 45(1A) | (Landlord’s failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, insulation, or building, or health and safety requirements) | 4,000 |
+| 45(1A) | (Landlord’s failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) | 4,000 |
 | 45(2A) | (Landlord interfering with supply of services to premises) | 1,000 |
 | 46(3) | (Altering locks without consent of other party) | 1,000 |
 | 48(4)﻿(a) | (Unlawful entry by landlord) | 1,000 |
@@ -2559,7 +2585,7 @@ Section 17A does not apply to—
 | 54(3) | (Retaliatory notice of termination) | 4,000 |
 | 61(5) | (Abandonment of premises without reasonable excuse) | 1,000 |
 | 66G(4) | (Harassment of tenant in boarding house) | 2,000 |
-| 66I(4) | (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, insulation, or building, or health and safety requirements) | 4,000 |
+| 66I(4) | (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) | 4,000 |
 | 66J(4) | (Landlord of boarding house interfering with services or failing to advise that premises on the market) | 1,000 |
 | 66K(2)﻿(b) | (Interference, etc, with means of escape from fire) | 3,000 |
 | 66K(4)﻿(b) | (Using or permitting premises to be used for unlawful purposes) | 1,000 |
