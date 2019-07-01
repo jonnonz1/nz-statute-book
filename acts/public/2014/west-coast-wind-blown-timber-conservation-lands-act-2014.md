@@ -1,5 +1,5 @@
 # West Coast Wind-blown Timber (Conservation Lands) Act 2014
-_Consolidation as at 2014-07-02_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the West Coast Wind-blown Timber (Conservation Lands) Act 2014.
@@ -162,4 +162,4 @@ The Director-General may prescribe fees and charges—
 
 ### 21 Amendment to Conservation Act 1987
 (1) This section amends the Conservation Act 1987.
-(2) In Schedule 1, insert in its appropriate alphabetical order:West Coast Wind-blown Timber (Conservation Lands) Act 2014.
+(2) In Schedule 1, insert in its appropriate alphabetical order:West Coast Wind-blown Timber (Conservation Lands) Act 2014
