@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -89,7 +89,9 @@ This Act binds the Crown.
 
 ### 7 Age qualification for New Zealand superannuation
 (1) Every person is entitled to receive New Zealand superannuation who attains the age of 65 years.
-(2) However, a person is not entitled to receive New Zealand superannuation in respect of any period for which he or she has made an election under any of clause 52 or clause 68 or clause 72 of Schedule 1 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 to be entitled to weekly compensation under that Act rather than to New Zealand superannuation.
+(2) However, a person is not entitled to receive New Zealand superannuation in respect of the period for which the person has made an election, as contemplated by any of the following provisions, to be entitled to weekly compensation rather than to New Zealand superannuation:
+  (a) clauses 5(4) and 6(4) of Schedule 1AA of the Accident Compensation Act 2001:
+  (b) clause 16(3) or 17(3) of Schedule 1 of the Veterans’ Support Act 2014.
 (3) Subsection (1) applies subject to the provisions of this Part and of the Social Security Act 2018 or the Residential Care and Disability Support Services Act 2018.
 
 ### 8 Residential qualification for New Zealand superannuation
