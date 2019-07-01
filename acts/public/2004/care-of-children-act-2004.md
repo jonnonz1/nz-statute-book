@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -41,25 +41,33 @@ This Act comes into force on 1 July 2005.
 
 ### 5 Principles relating to child's welfare and best interests
 The principles relating to a child's welfare and best interests are that—
-  (a) a child's safety must be protected and, in particular, a child must be protected from all forms of violence (as defined in section 3(2) to (5) of the Domestic Violence Act 1995) from all persons, including members of the child's family, family group, whānau, hapū, and iwi:
+  (a) a child's safety must be protected and, in particular, a child must be protected from all forms of violence (as defined in sections 9(2), 10, and 11 of the Family Violence Act 2018) from all persons, including members of the child's family, family group, whānau, hapū, and iwi:
   (b) a child's care, development, and upbringing should be primarily the responsibility of his or her parents and guardians:
   (c) a child's care, development, and upbringing should be facilitated by ongoing consultation and co-operation between his or her parents, guardians, and any other person having a role in his or her care under a parenting or guardianship order:
   (d) a child should have continuity in his or her care, development, and upbringing:
   (e) a child should continue to have a relationship with both of his or her parents, and that a child's relationship with his or her family group, whānau, hapū, or iwi should be preserved and strengthened:
   (f) a child's identity (including, without limitation, his or her culture, language, and religious denomination and practice) should be preserved and strengthened.
 
-### 5A Domestic violence to be taken into account
+### 5A Family violence to be taken into account
 (1) This section applies if—
   (a) an application is made to the court for—
     (i) a guardianship order under section 19 or 27; or
     (ii) a direction under section 46R in relation to a guardianship dispute; or
-    (iii) a parenting order under section 48; or
-    (iv) a variation of a parenting order under section 56; and
-  (b) a final protection order made under section 14 of the Domestic Violence Act 1995 is, or at any time has been, in force against 1 or more parties to the application.
+    (iii) a parenting order under section 48 (whether an interim parenting order or a final parenting order); or
+    (iv) a variation of a parenting order, under section 56; and
+  (b) 1 or both of the following kinds of orders made under section 79 of the Family Violence Act 2018 is or are, or at any time has or have been, in force against 1 or more parties to the application:
+    (i) a temporary protection order:
+    (ii) a final protection order.
 (2) In taking into account the principle in section 5(a), the court must have regard in particular to the following matters:
-  (a) whether the protection order is still in force:
-  (b) the circumstances in which the protection order was made:
-  (c) any written reasons given by the Judge who made the protection order for his or her decision.
+  (a) whether a temporary protection order, or final protection order, is still in force:
+  (b) the circumstances in which that order was made:
+  (c) any written reasons, given by the Judge who made that order, for that Judge’s decision to make that order.
+(3) In taking into account the principle in section 5(a), the court must, if practicable, have regard in particular to—
+  (a) all relevant convictions (if any), of 1 or more parties to the application, for an offence against section 112 of the Family Violence Act 2018 (breaching a protection order or related property order), or for any other family violence offence:
+  (b) all relevant safety concerns (if any) that an assessor or a service provider has notified or advised under section 185 or 204 of the Family Violence Act 2018.
+(4) In this section, family violence offence means an offence—
+  (a) against any enactment (including the Family Violence Act 2018); and
+  (b) involving family violence (as defined in section 9 of that Act).
 
 ### 6 Child’s views
 (1) This subsection applies to proceedings involving—
@@ -259,12 +267,12 @@ For the purposes of this Act, guardianship of a child means having (and therefor
   (a) has a testamentary guardian appointed by the court under section 26(3); or
   (b) has a court-appointed guardian because of an appointment under section 27; or
   (c) is or has been involved in proceedings under Part 2 of the Oranga Tamariki Act 1989; or
-  (d) is or has been an applicant for, or the subject of, a protection order under the Domestic Violence Act 1995.
+  (d) is or has been an applicant for, or the subject of, a protection order under the Family Violence Act 2018.
 (2) No appointment of an additional guardian of a child may be made under section 23 if a parent authorised by section 21 to make the appointment—
   (a) has already appointed an additional guardian for the child under section 23; or
   (b) has been deprived of his or her guardianship by an order under section 29; or
   (c) is or has been involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or Part 2 of the Oranga Tamariki Act 1989; or
-  (d) is or has been a respondent or associated respondent in proceedings under the Domestic Violence Act 1995.
+  (d) is or has been a respondent or associated respondent in proceedings under the Family Violence Act 2018.
 (3) No appointment of an additional guardian of a child may be made under section 23 unless the child, or a parent of the child, is either a New Zealand citizen or a person who is ordinarily resident in New Zealand.
 (4) No appointment of an additional guardian of a child may be made under section 23 if any of the statutory declarations required by section 23(5) cannot be made in the affirmative.
 (5) An appointment of an additional guardian under section 23 is void if the proposed additional guardian is disqualified under section 23(2)﻿(d), even though the relevant statutory declarations under section 24(d)﻿(i) were all made in the affirmative.
@@ -277,9 +285,9 @@ For the purposes of this Act, guardianship of a child means having (and therefor
 (2) A spouse or partner of a parent is an eligible spouse or partner of a parent in relation to a parent of a child and an appointment under this section only if the parent is making the appointment (either alone, or with the other parent, or a guardian, of the child) and the spouse or partner—
   (a) shares responsibility for the child’s day-to-day care, and has done so for not less than 1 year; and
   (b) is not, and has never been, involved in proceedings concerning a child under this Act, a former Act corresponding to this Act, or Part 2 of the Oranga Tamariki Act 1989; and
-  (c) is not, and has never been, either a respondent or an associated respondent in proceedings under the Domestic Violence Act 1995; and
+  (c) is not, and has never been, either a respondent or an associated respondent in proceedings under the Family Violence Act 2018; and
   (d) has never been convicted of an offence involving harm to a child, including (without limitation),—
-    (i) an offence involving violence (that is, physical abuse or sexual abuse), ill-treatment, abuse, neglect, or deprivation in relation to a child; or
+    (i) an offence involving family violence (as defined in section 9 of the Family Violence Act 2018), ill-treatment, abuse, neglect, or deprivation in relation to a child; or
     (ii) an offence against the Films, Videos, and Publications Classification Act 1993 involving a child pornography publication.
 (3) Child pornography publication means a publication that is objectionable (as those terms are defined in section 2 of the Films, Videos, and Publications Classification Act 1993)—
   (a) because it promotes or supports, or tends to promote or support, the exploitation of children, or young persons, or both, for sexual purposes; or
@@ -593,7 +601,7 @@ In sections 46E and 46F, family dispute resolution, family dispute resolution fo
   (e) relates to a child who is the subject of proceedings already begun under Part 2 of the Oranga Tamariki Act 1989; or
   (f) is accompanied by an affidavit that provides evidence of either of the following matters:
     (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
-    (ii) that at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to domestic violence by one of the other parties to the dispute.
+    (ii) that at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to family violence by one of the other parties to the dispute.
 (5) A Registrar may refuse to accept for filing an application that is accompanied by an affidavit of the kind referred to in subsection (4)﻿(f) if the affidavit does not provide sufficient evidence of either of the matters set out in subparagraphs (i) and (ii) of that paragraph.
 (6) A Registrar who is unsure, under subsection (5), whether to refuse to accept an application for filing may refer that application and accompanying affidavit to a Judge, and the Judge must determine whether the affidavit provides sufficient evidence of either of the matters set out in subsection (4)﻿(f).
 
@@ -776,7 +784,7 @@ The purpose of a settlement conference is to enable a Family Court Judge to—
 ### 51 Court must consider protective conditions in certain cases
 (1) This section applies to a parenting order when—
   (a) the order provides for a person (person A) to have contact with a child; and
-  (b) the court is satisfied that person A has physically or sexually abused the child or a person (person B) who has the role of providing day-to-day care for the child.
+  (b) the court is satisfied that person A has inflicted family violence (as defined in section 9 of the Family Violence Act 2018) against the child or a person (person B) who has the role of providing day-to-day care for the child.
 (2) The court must consider whether the order should be subject to conditions imposed for the purpose of protecting the safety of person B while person A’s contact with the child takes place (including while the child is being collected from, or returned to, person B).
 (3)
 
@@ -828,6 +836,21 @@ If a court proposes to make a parenting order that does not give a parent the ro
   (b) state that all persons affected by the final parenting order (other than children) agree to the proposed variation; and
   (c) be signed by all parties.
 (4) On the filing of a consent memorandum, the Registrar may make and seal an order varying the final parenting order in terms of the proposed variation set out in the memorandum.
+
+**Incidental temporary protection orders**
+
+### 57A Power to make incidental temporary protection order
+(1) This section applies if—
+  (a) an application has been made to the court for any of the following in respect of a child:
+    (i) a guardianship order under section 19 or 27:
+    (ii) a direction under section 46R in relation to a guardianship dispute:
+    (iii) a parenting order under section 48 (whether an interim parenting order or a final parenting order):
+    (iv) a variation of a parenting order, under section 56; and
+  (b) no application has been made to the court for, but the court is satisfied that had an application been made to it for the purpose the court would have made, a protection order (whether a temporary protection order or a final protection order) made under the Family Violence Act 2018 in respect of all or any of—
+    (i) the child, or a parent or any other person who has the role of providing day-to-day care for, or who may have contact with, the child; and
+    (ii) a party to the application (in paragraph (a)) for the order or direction under this Act.
+(2) The court may make a temporary protection order under section 79 of the Family Violence Act 2018 if satisfied that any orders or directions made under this Act will not, by themselves, provide enough protection for all or any of the people specified in subsection (1)﻿(b).
+(3) Sections 76 to 78 of the Family Violence Act 2018 apply to a temporary protection order made under this section as if the order were one made on an application without notice, and with all other necessary modifications.
 
 **Supervised contact**
 
@@ -1334,7 +1357,7 @@ Every application under section 102 or section 112 in respect of a child must be
   (a) makes an application under section 102 or section 103 or section 105 or section 112 or section 113; but
   (b) has not appointed a lawyer to act for the applicant for the purposes of the application.
 (2) The Authority must, if the circumstances so require, appoint a lawyer to act for the applicant for the purposes of the application, including (in the case of an application under section 103 or section 105) any proceedings under section 105.
-(3) Sections 7(4), 131, 137(1)﻿(c), and 147(2)﻿(c) apply, so far as applicable and with all necessary modifications, to a lawyer appointed under subsection (2) as if the lawyer were appointed under section 7(1).
+(3) Sections 131 and 137(1)﻿(c) of this Act and sections 9B(4) and 16D of the Family Court Act 1980 apply, so far as applicable and with all necessary modifications, to a lawyer appointed under subsection (2) as if the lawyer were appointed under section 7.
 
 ### 117 Preventing concealment of whereabouts of child
 (1) A District Court Judge or Family Court Judge may issue a warrant of the kind referred to in subsection (2) if—
