@@ -1,5 +1,5 @@
 # Domestic Violence Amendment Act 2012
-_Consolidation as at 2012-02-24_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Domestic Violence Amendment Act 2012.
@@ -11,7 +11,7 @@ This Act comes into force on the day after the date on which it receives the Roy
 This Act amends the Domestic Violence Act 1995.
 
 ### 4 Interpretation
-(1) Section 124A is amended by inserting the following definition in its appropriate alphabetical order:.
+(1) Section 124A is amended by inserting the following definition in its appropriate alphabetical order:
   - **District Court** includes a Justice or Justices, or a Community Magistrate or Community Magistrates, presiding over a District Court; but does not include a Registrar
 (2) Section 124A is amended by adding the following definition:
   - **Registrar** means any Registrar of a District Court; and includes a Deputy Registrar.
