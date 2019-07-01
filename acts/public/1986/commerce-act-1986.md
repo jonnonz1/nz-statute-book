@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2018-10-26_
+_Consolidation as at 2019-07-01_
 
 > Title
 
@@ -1337,17 +1337,25 @@ The time frames specified in sections 53S and 53T may, with the agreement of the
 ### 53ZE Levies
 (1) Every supplier of regulated goods or services (or prescribed class of suppliers of regulated goods or services) must pay to the Minister the levy determined in accordance with regulations made under subsection (2).
 (2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
-  (a) specifying the amount of levies, or method of calculating or ascertaining the amount of levies, on the basis that the estimated costs of performing the Commission's functions, powers, and duties under this Part, and of collecting the levy money, should be met fully out of levies:
+  (a) specifying the amount of levies, or method of calculating or ascertaining the amount of levies, on the basis that the estimated costs for an appropriation period of performing the Commission's functions, powers, and duties under this Part, and of collecting the levy money, should be met fully out of levies:
   (b) including, or providing for the inclusion, in levies of any shortfall in recovering those actual costs:
   (c) refunding, or providing for refunds of, any over-recovery of those actual costs:
   (d) providing different levies for different classes of suppliers or goods or services:
-  (e) specifying the financial year or part financial year to which those levies apply, and applying to that financial year or part financial year and each subsequent financial year until revoked or replaced:
+  (e) specifying the appropriation period or part appropriation period to which those levies apply, and applying to that appropriation period or part appropriation period and each subsequent appropriation period until revoked or replaced:
   (f) providing for the payment and collection of those levies:
-  (g) for the first financial year to which the levy applies to a supplier or class of suppliers, including in the levy amount or method costs incurred by the Commission in connection with preparing itself to perform, and performing, its functions, powers, and duties under this Part, irrespective of the fact—
-    (i) that the regulations are made and come into effect after that year; or
+  (g) for the first appropriation period to which the levy applies to a supplier or class of suppliers, including in the levy amount or method costs incurred by the Commission in connection with preparing itself to perform, and performing, its functions, powers, and duties under this Part, irrespective of the fact—
+    (i) that the regulations are made and come into effect after that period; or
     (ii) that the goods or services become regulated after the costs were incurred (for example, costs incurred by the Commission in preparing input methodologies):
-  (h) requiring payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
+  (h) requiring payment of a levy for an appropriation period or a part appropriation period, irrespective of the fact that the regulations may be made after that appropriation period has commenced:
   (i) exempting or providing for exemptions from, and providing for waivers of, the whole or any part of the levy for any case or class of cases.
+(2A) In subsection (2), appropriation period, in relation to any estimated costs, means—
+  (a) a financial year; or
+  (b) if the estimated costs will be incurred under the authority of a multi-year appropriation or of a multi-year appropriation proposed in any Estimates, the financial years to which the multi-year appropriation applies.
+(2B) In subsection (2A)﻿(b),—
+  - **Estimates** —
+    (a) has the meaning given in section 2(1) of the Public Finance Act 1989; and
+    (b) includes Supplementary Estimates as defined in section 2(1) of that Act
+  - **multi-year appropriation** means an appropriation authorised to apply for more than 1 financial year (see section 10 of the Public Finance Act 1989).
 (3) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
 (4) The Minister must consult with the suppliers of regulated goods or services, or representatives of those suppliers, before making a recommendation for the purposes of subsection (2).
 
@@ -3280,42 +3288,3 @@ Material incorporated by reference in a Part 4 determination that expires, is re
 | TAG Oil (NZ) Limited | Sidewinder Production Station—Vector 300 Line at Durham Road Upper |
 | Cheal Petroleum Limited | Cheal Gas Export Pipeline |
 | Contact Energy Limited | Ahuroa Gas Storage Facility—Taranaki Combined Cycle and Stratford Peaker power stations gas pipeline |
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Commerce Amendment Act 1990 and shall be read together with and deemed part of the Commerce Act 1986 (hereinafter referred to as “the principal Act”).
-(2) Except as provided in subsection (3), this Act shall come into force on 1 July 1990.
-(3) Sections 2(1), (3), (4), (5), and (6), 17, 18, 23, 25, 26 (except subsection (1)﻿(b)), 27, 29, 30, 31, 32, 33, 44, 46, 47, and 48 shall come into force on 1 January 1991.
-
-### 48 Transitional provisions in relation to mergers and takeovers
-(1) Notwithstanding the repeals and amendments effected by this Act,—
-  (a) the provisions of the principal Act that were in force immediately before 1 January 1991 shall apply in relation to every notice given under section 66 or section 67 of that Act as in force immediately before that date and to every clearance given or authorisation granted in relation to the proposal to which the notice relates as if this Act had not been passed:
-  (b) without limiting paragraph (a), every clearance given and every authorisation granted under section 66 or section 67 of the principal Act as in force immediately before 1 January 1991 or as continued in force by virtue of paragraph (a) is deemed to be a clearance or an authorisation to which section 69 of the principal Act (as inserted by section 23) applies.
-(2) Nothing in section 27 or section 47 of the principal Act (as enacted by section 18) shall apply in relation to the acquisition of assets or shares if—
-  (a) the acquisition results from a proposal that was not a merger or takeover proposal under Part 3 of the Commerce Act 1986 (as in force immediately before the commencement of this Act) by reason of section 47(2) of that Act (as so in force); and
-  (b) the acquisition gives effect to a written agreement made before the commencement of this Act whether or not the parties to the acquisition and the agreement are the same persons.
-
-### 1 Title
-(1) This Act is the Commerce (Clearance Validation) Amendment Act 2001.
-(2) In this Act, the Commerce Act 1986 is called “the principal Act”.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Consideration of notices applying for clearance made before 26 May 2001
-(1) This section applies to a notice under section 66(1) of the principal Act seeking clearance for the acquisition of the assets of a business, or shares if it—
-  (a) was given to the Commission before the commencement of section 11 of the Commerce Amendment Act 2001; and
-  (b) had not been finally disposed of before that commencement.
-(2) The principal Act applies to a notice (other than the notice seeking clearance for the proposed acquisition that was the subject of the proceedings Foodstuffs (Auckland) Limited v Commerce Commission and Progressive Enterprises Limited (CA 163/01, 19 September 2001)) to which this section applies as if section 11 of the Commerce Amendment Act 2001 had not been enacted.
-(3) Every action of the Commission before the commencement of this Act must for all purposes be treated as being as valid and effectual as it would have been if this Act had come into force on the commencement of section 11 of the Commerce Amendment Act 2001.
-(4) This section is for the avoidance of doubt.
-
-### 1 Title
-(1) This Act is the Commerce Amendment Act 2004.
-(2) In this Act, the Commerce Act 1986 is called “the principal Act”.
-
-### 2 Commencement
-This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Associate members
-(1) Amendment(s) incorporated in the Act(s).
-(2) For the avoidance of doubt, any appointment made before the commencement of this Act under section 11 of the principal Act is valid and effective whether or not it relates to a matter or class of matters under an Act other than the principal Act.
