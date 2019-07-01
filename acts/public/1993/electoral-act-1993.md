@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2019-04-09_
+_Consolidation as at 2019-07-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -1983,7 +1983,7 @@ If the Electoral Commission is required in accordance with this Act to supply in
   (b) the name and particulars of that person shall not be available for inspection under section 110(3)﻿(c); and
   (c) the application for registration of that person shall not be available for inspection under section 110(3)﻿(d).
 (2) Without limiting the discretion conferred on the Electoral Commission by subsection (1), the Electoral Commission may on the production of—exercise in respect of that person’s name, and without further evidence or inquiry, the power conferred on the Electoral Commission by that subsection.
-  (a) a protection order that is in force under the Domestic Violence Act 1995 in respect of any person; or
+  (a) a protection order that is in force under the Family Violence Act 2018 in respect of any person; or
   (aa) a restraining order that is in force under the Harassment Act 1997 in respect of any person; or
   (b) a statutory declaration from a constable to the effect that he or she believes that the personal safety of a person or of a person’s family could be prejudiced by the publication of that person’s name,—
 
@@ -3385,7 +3385,7 @@ In this Part, unless the context otherwise requires,—
   (a) a party secretary:
   (b) a candidate:
   (c) a registered promoter:
-  (d) an unregistered promoter who does not incur advertising expenses exceeding $13,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
+  (d) an unregistered promoter who does not incur advertising expenses exceeding $13,200 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) in relation to election advertisements published during the regulated period.
 (2) The amount in subsection (1)﻿(d) is inclusive of goods and services tax.
 (3) Every person who wilfully promotes an election advertisement without being entitled to do so under subsection (1) is guilty of an illegal practice.
 
@@ -3578,8 +3578,8 @@ Every person is guilty of—
 
 ### 205C Maximum amount of candidate's total election expenses
 (1) The total election expenses of a candidate in respect of any regulated period must not exceed—
-  (a) $27,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
-  (b) $54,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
+  (a) $27,500 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a general election; and
+  (b) $54,900 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A), in the case of a candidate at a by-election.
 (2) The amounts in subsection (1) are inclusive of goods and services tax.
 
 ### 205D Apportionment of advertising expenses for publication of candidate advertisement both before and during regulated period
@@ -3717,9 +3717,9 @@ Every person is guilty of—
 
 ### 206C Maximum amount of party's total election expenses
 (1) If a party is listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed—
-  (a) $1,152,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
-  (b) $27,100 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
-(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $27,100 for each electoral district contested by a candidate for the party.
+  (a) $1,169,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A); and
+  (b) $27,500 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A) for each electoral district contested by a candidate for the party.
+(2) If a party is not listed in the part of the ballot paper that relates to the party vote, the total election expenses of that party in respect of any regulated period must not exceed $27,500 for each electoral district contested by a candidate for the party.
 (3) The amounts in subsections (1) and (2) are inclusive of goods and services tax.
 
 ### 206CA Apportionment of advertising expenses for publication of party advertisement both before and during regulated period
@@ -3899,7 +3899,7 @@ Every person is guilty of—
   (b) an illegal practice who contravenes section 206T in any other case.
 
 ### 206V Maximum amount of registered promoter's total election expenses
-(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $325,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
+(1) The total election expenses of a registered promoter in respect of any regulated period must not exceed $330,000 (or such other amount as is prescribed by the Governor-General by Order in Council under section 266A).
 (2) The amount in subsection (1) is inclusive of goods and services tax.
 
 ### 206W Apportionment of advertising expenses for publication of election advertisement promoted by registered promoter both before and during regulated period
