@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2019-06-26_
+_Consolidation as at 2019-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4287,7 +4287,7 @@ Exempt income
     (iii) a funeral grant:
     (iv) a survivor’s grant:
     (v) a childcare payment:
-  (ba) a payment under section 363 of the Oranga Tamariki Act 1989:
+  (ba) a payment under section 363, 386AAG, or 386B of the Oranga Tamariki Act 1989:
   (c) a participation allowance under regulations made under section 429 of the Social Security Act 2018:
   (d) a disabled workshop payment:
   (e) an amount derived by a trustee of a trust created for the benefit of persons harmed by thalidomide, or a distribution to a beneficiary from the trust:
@@ -4575,7 +4575,7 @@ An amount of income derived by a club, society, association, or trustee or trust
 ### CW 47 TAB and racing clubs
 Exempt income: racing organisations
 (1) An amount of income derived by any of the following bodies is exempt income:
-  (a) the New Zealand Racing Board:
+  (a) the Racing Industry Transition Agency:
   (b) New Zealand Thoroughbred Racing:
   (c) Harness Racing New Zealand:
   (d) the New Zealand Greyhound Racing Association (Incorporated).
@@ -27106,7 +27106,7 @@ Trusts excluded from application of minor beneficiary rule
   (b) a person who is a relative, guardian, or a person associated with a relative or guardian, if—
     (i) the settlor is acting as agent of the minor and has received the property from a person other than a relative, guardian, or their associate:
     (ii) the settlor is required by a court order to pay damages or compensation to the minor:
-    (iii) the minor is a protected person, as defined in section 2 of the Domestic Violence Act 1995, in relation to a protection order, and the settlement, whether made jointly with another person or not, is made before the protection order is made or during the time the order is in force.
+    (iii) the minor is a protected person, as defined in section 8 of the Family Violence Act 2018, in relation to a protection order, and the settlement, whether made jointly with another person or not, is made before the protection order is made or during the time the order is in force.
 When some settlements do not meet requirements
 (2) Subsection (3) applies when more than 1 settlement is made on a trust, and 1 or more but not all settlements meet the requirements of subsection (1) or section HC 37(1).
 Small additional settlements permitted
@@ -32488,6 +32488,7 @@ Payments and benefits excluded from family scheme income
   (j) compensation for a loss other than a loss of income:
   (k) lump sum compensation under the Accident Compensation Act 2001:
   (kb) a payment of a foster care allowance under section 363 of the Oranga Tamariki Act 1989:
+  (kc) a payment under section 386AAG or 386B of the Oranga Tamariki Act 1989:
   (l) a monetary benefit under the Social Security Act 2018 that is exempt income:
   (m) a pension or allowance under the Veterans’ Support Act 2014 that is exempt income:
   (n) a payment that is exempt income under section CW 33(1)﻿(c), (e), or (f) (Allowances and benefits):
@@ -33239,7 +33240,7 @@ Requirements for person
 (1) For the purposes of section MK 1(1), the requirements for the person for the year described in section MK 1(3) are the following:
   (a) they must be 18 years or older; and
   (b) they must have a creditable membership of a complying superannuation fund or a KiwiSaver scheme; and
-  (c) they must not be entitled under schedule 1, clause 4(3) of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
+  (c) they must not be entitled under schedule 1, clause 4 of the KiwiSaver Act 2006 or an equivalent provision to withdraw an amount from the scheme or fund; and
   (d) they must reside mainly in New Zealand, or otherwise they must—
     (i) be an employee of the State services under the State Sector Act 1988 serving outside New Zealand; or
     (ii) work overseas as a volunteer or for token payment for a charity (within the meaning of section 4(1) of the Student Loan Scheme Act 2011) and the work meets 1 or more of the requirements in schedule 1, clause 2(1) of that Act.
