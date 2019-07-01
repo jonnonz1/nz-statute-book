@@ -1,5 +1,5 @@
 # Gaming Duties Act 1971
-_Consolidation as at 2016-06-02_
+_Consolidation as at 2019-07-01_
 
 > An Act to consolidate and amend the law relating to totalisator duty and lottery duty
 
@@ -15,7 +15,7 @@ _Consolidation as at 2016-06-02_
 
 ### 3 Interpretation
 In this Act, unless the context otherwise requires,—Terms defined in sections 12B and 12M have the meanings so defined.
-  - **Board** means the New Zealand Racing Board established by section 7 of the Racing Act 2003
+  - **Agency** has the same meaning as in section 5(1) of the Racing Act 2003
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
   - **fixed-odds racing betting** means betting conducted by the Board or its agents under section 50 of the Racing Act 2003
   - **New Zealand lottery** has the meaning set out in section 4(1) of the Gambling Act 2003
@@ -32,8 +32,8 @@ In this Act, unless the context otherwise requires,—Terms defined in sections 
 ## Part 1 — Totalisator duty
 
 ### 4 Totalisator duty
-(1) A totalisator duty is payable to the Crown at the rate of 4% of betting profits.
-(2) Betting profits for totalisator racing betting, sports betting, and fixed-odds racing betting is calculated in accordance with the formula:amounts − refunds − winning dividendswhere—amountsis the total of all amounts received by the Board or its agents (including the net return from bets laid off) for—refundsis the amount of refunds paidwinning dividendsis the amount of all winning dividends paid out in respect of amounts described above.
+(1) A totalisator duty is payable to the Crown at the rate of 2.67% of betting profits.
+(2) Betting profits for totalisator racing betting, sports betting, and fixed-odds racing betting is calculated in accordance with the formula:amounts − refunds − winning dividendswhere—amountsis the total of all amounts received by the Agency or its agents (including the net return from bets laid off) for—refundsis the amount of refunds paidwinning dividendsis the amount of all winning dividends paid out in respect of amounts described above.
   (a) totalisator racing betting:
   (b) sports betting:
   (c) fixed-odds racing betting
@@ -229,7 +229,7 @@ Sections 12G, 12H, 12HA, 12K, and 12L (except section 12K(2)), as far as they ar
 ## Part 3 — Miscellaneous provisions
 
 ### 13 Refund of duty or interest paid in error or in excess
-(1) Where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that any duty or interest payable under this Act or any previous Act imposing totalisator duty or lottery duty has been paid in error or excess, he may refund the amount paid in error or the excess to the person entitled.
+(1) Where, at any time within 8 years after the date of payment, or if application for the refund is made in writing within that period, the Commissioner is satisfied that any duty or interest payable under this Act or any previous Act imposing totalisator duty or lottery duty has been paid in error or excess, the Commissioner may refund the amount paid in error or the excess to the person entitled.
 (2) All money payable under this section by way of refund of duty or interest shall be paid out of a Crown Bank Account without further appropriation than this Act.
 (3) A refund under this section must be made in accordance with the requirements of section 184A of the Tax Administration Act 1994.
 
