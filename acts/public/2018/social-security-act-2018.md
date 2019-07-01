@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2019-06-06_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -1831,7 +1831,7 @@ MSD may, in accordance with regulations made under section 434, enter into an ar
   (c) the beneficiary or any of the beneficiary's children would be at risk of violence if the beneficiary did or took steps to do any of the things referred to in section 192(2); or
   (d) the child was conceived as a result of incest or sexual violation; or
   (e) there is some other compelling circumstance for the beneficiary’s failure or refusal to do any of the things referred to in section 192(2) and in any event there is no real likelihood of child support being collected in the foreseeable future from the other parent or the other parent’s estate.
-(2) In subsection (1)﻿(c), violence has the same meaning as in section 3 of the Domestic Violence Act 1995.
+(2) In subsection (1)﻿(c), violence has the same meaning as in sections 9(2), 10, and 11 of the Family Violence Act 2018.
 
 ### 194 Additional reduction in certain cases
 (1) This section applies where MSD has reduced a benefit under section 192(2).
