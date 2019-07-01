@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -1099,7 +1099,7 @@ Any money paid to the chief executive under section 67 to the credit of a prison
 
 ### 73 Entitlement to private visitors
 (1) A prisoner is entitled to receive at least 1 private visitor each week for a minimum duration of 30 minutes.
-(2) Subsection (1) is subject to any regulations made under this Act that regulate the visiting of prisoners.
+(2) Subsection (1) is subject to any regulations made under this Act that regulate the visiting of prisoners, and to directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011.
 (3) Subsection (1) does not limit visits to a prisoner—
   (a) by his or her legal adviser under section 74; or
   (b) by a statutory visitor who is authorised by any enactment to visit the prisoner or by a specified visitor; or
@@ -1123,7 +1123,7 @@ Any money paid to the chief executive under section 67 to the credit of a prison
 ### 76 Prisoners may send and receive mail
 (1) A prisoner may send and receive as much mail as the prisoner wishes.
 (2) Subsection (1) is subject to—
-  (a) sections 105 and 108; and
+  (a) sections 105 and 108 of this Act, and directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011; and
   (b) any restrictions relating to the manner in which mail is received or sent, the provision of materials for writing letters, and the payment of postage contained in regulations made under this Act.
 
 **Telephone calls**
@@ -1135,6 +1135,7 @@ Any money paid to the chief executive under section 67 to the credit of a prison
 (4) The entitlement in subsection (3) is in addition to any telephone call made to—
   (a) an official agency; or
   (b) the prisoner's legal adviser.
+(4A) The entitlement in subsection (3) is overridden by directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011.
 (5) The chief executive (in the case of a corrections prison) or the Commissioner of Police (in the case of a Police jail) may impose conditions on, and maintain records of, the use of telephone facilities by prisoners.
 (6) Every prisoner who makes an outgoing telephone call must meet the cost of that call, except where this Act, or any regulations made under this Act, provide otherwise.
 
@@ -1521,7 +1522,7 @@ No prisoner at any prison may send mail to another prisoner without first notify
     (iii) pose a threat to the security of the prison; or
     (iv) promote or encourage the commission of an offence, or involve, or facilitate the commission or possible commission of, an offence; or
     (v) prejudice the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences, and the right to a fair trial); or
-    (vi) breach an order or direction of any court or constitute contempt of court.
+    (vi) breach an order or direction of any court (for example, a direction given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011) or constitute contempt of court.
 (2) If mail or an unauthorised item found in any mail is withheld, the prisoner to or from whom the mail was directed must be informed that the mail or item, as the case may be, has been withheld, unless it is to be forwarded to an enforcement officer.
 (3) This section is subject to sections 109 and 110.
 
@@ -1607,6 +1608,7 @@ In this section and in sections 112 to 122, unless the context otherwise require
   (c) prosecute, convict, and punish—
     (i) prisoners who commit offences, or who help or encourage other people to commit offences; and
     (ii) people who commit offences for the benefit of, or with the help or encouragement of, prisoners; and
+  (ca) detect and prevent non-compliance with directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011; and
   (d) prevent and discourage escapes from prisons.
 (2) Monitoring prisoner calls also has the purpose of making it easier to—
   (a) maintain the security, good order, and discipline of prisons; and
