@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -70,7 +70,7 @@ The purpose of this Act is to—
       (iv) laying or offering odds:
       (v) offering to bet with more than 1 person; but
     (b) does not include—
-      (i) the activities of the New Zealand Racing Board or a racing club under the Racing Act 2003; or
+      (i) the activities of the Racing Industry Transition Agency or a racing club under the Racing Act 2003; or
       (ii) private gambling; or
       (iii) casino gambling
   - **broadcaster** and have the same meanings as in section 2(1) of the Broadcasting Act 1989
@@ -419,7 +419,7 @@ A person must not increase the opportunities for casino gambling.
   (c) an increase in total player space at table games unless the increase is accompanied by a reduction in other opportunities for casino gambling that the Gambling Commission believes is proportionate.
 (3) Opportunities for casino gambling are not increased—
   (a) by increases, in the Auckland casino, that comply with the Order for the Variation of Conditions of Casino Premises Licence dated 6 December 2002:
-  (b) by gambling conducted by the New Zealand Racing Board referred to in section 120.
+  (b) by gambling conducted by the Racing Industry Transition Agency referred to in section 120.
 
 ### 13 No compensation
 No compensation is payable by the Crown to any person for any loss or damage arising from the enactment or operation of sections 10 to 12.
@@ -622,17 +622,17 @@ Class 4 gambling may be conducted only by a corporate society that holds—
 (2) A site approval held on the commencement of this section becomes, and must be treated as if it were, a class 4 venue licence (and expires on the same date as the relevant operator’s licence).
 (3) For the purposes of sections 56, 57, 72, and 73, the Secretary may treat a corporate society as the holder of a class 4 operator’s licence or class 4 venue licence if the Secretary is satisfied that it is the same, or substantially the same, entity as the society that held an existing gaming machine licence on the commencement of this section.
 
-### 33 Status of New Zealand Racing Board and racing clubs
-(1) The New Zealand Racing Board and societies that are racing clubs under the Racing Act 2003 must be treated as corporate societies—
+### 33 Status of Racing Industry Transition Agency and racing clubs
+(1) The Racing Industry Transition Agency and societies that are racing clubs under the Racing Act 2003 must be treated as corporate societies—
   (a) for the purposes of—
     (i) a class 4 operator's licence or class 4 venue licence; or
     (ii) an application for, or the renewal or amendment of, either licence; and
   (b) that, for the purposes of a class 4 operator's licence or a class 4 venue licence, apply net proceeds from class 4 gambling to an authorised purpose.
-(1A) Despite subsection (1)﻿(b) and to avoid doubt, section 52A does not apply to the New Zealand Racing Board or a racing club.
-(2) A class 4 venue licence may be issued to the New Zealand Racing Board or a racing club to conduct class 4 gambling only at—
-  (a) a venue owned or leased by the New Zealand Racing Board and used mainly for racing betting or sports betting; or
+(1A) Despite subsection (1)﻿(b) and to avoid doubt, section 52A does not apply to the Racing Industry Transition Agency or a racing club.
+(2) A class 4 venue licence may be issued to the Racing Industry Transition Agency or a racing club to conduct class 4 gambling only at—
+  (a) a venue owned or leased by the Racing Industry Transition Agency and used mainly for racing betting or sports betting; or
   (b) a racecourse.
-(3) However, a class 4 venue licence may not be issued to the New Zealand Racing Board or a racing club if another corporate society (other than the New Zealand Racing Board or that racing club)—
+(3) However, a class 4 venue licence may not be issued to the Racing Industry Transition Agency or a racing club if another corporate society (other than the Racing Industry Transition Agency or that racing club)—
   (a) holds a class 4 venue licence for the venue; or
   (b) held a class 4 venue licence for the venue at any time during the 5-year period immediately before the date on which the application for the licence is made.
 
@@ -643,7 +643,7 @@ In this Act, casino gambling—
     (ii) that satisfies those game rules; and
     (iii) which is conducted in accordance with those game rules; and
     (iv) to which both a casino venue licence and casino operator’s licence apply; but
-  (b) does not include gambling conducted by the New Zealand Racing Board referred to in section 120.
+  (b) does not include gambling conducted by the Racing Industry Transition Agency referred to in section 120.
 
 ### Subpart 3 — Licensing of class 3 gambling
 
@@ -1135,7 +1135,7 @@ A class 4 operator’s licence is not transferable.
 (3) The application must also be accompanied by a class 4 venue agreement unless the Secretary is satisfied that the applicant is a club that intends to operate gambling equipment at a non-commercial class 4 venue that—
   (a) it owns or leases; and
   (b) is mainly for the use of club members.
-(4) Despite subsection (3), an application by the New Zealand Racing Board or a racing club is not required to be accompanied by a venue agreement.
+(4) Despite subsection (3), an application by the Racing Industry Transition Agency or a racing club is not required to be accompanied by a venue agreement.
 (5) The Secretary may return an incomplete application, and the accompanying documents and any fee, to an applicant.
 (6) The Secretary may request from the applicant any further information that the Secretary considers necessary to consider the application properly.
 
@@ -1175,8 +1175,8 @@ A class 4 operator’s licence is not transferable.
   (k) the class 4 venue is not used mainly for operating gaming machines; and
   (l) if the application relates to a venue for which a class 4 venue licence was not held at the time of commencement of this section, the class 4 venue is not to be part of a place at which another class 4 venue or a casino is located; and
   (m) for an application that is required under section 65(3) to be accompanied by a class 4 venue agreement, no person will be both a key person in relation to the relevant class 4 operator’s licence and a key person in relation to the class 4 venue licence; and
-  (n) if the New Zealand Racing Board is the applicant, the class 4 venue is either—
-    (i) owned or leased by the New Zealand Racing Board and used mainly for racing betting or sports betting; or
+  (n) if the Racing Industry Transition Agency is the applicant, the class 4 venue is either—
+    (i) owned or leased by the Racing Industry Transition Agency and used mainly for racing betting or sports betting; or
     (ii) a racecourse; and
   (o) if the applicant is a racing club, the class 4 venue is a racecourse; and
   (p) the risk of problem gambling at the class 4 venue is minimised; and
@@ -1224,7 +1224,7 @@ A corporate society that holds a class 4 venue licence must, in relation to clas
   (c) the corporate society does not operate any gambling equipment that is financed by the manufacturer, distributor, or vendor of the equipment; and
   (d) all gambling equipment operated at the venue meets relevant minimum standards; and
   (e) the venue is not used mainly for operating gaming machines; and
-  (f) if the New Zealand Racing Board is the licensee, the venue is used mainly for racing betting or sports betting; and
+  (f) if the Racing Industry Transition Agency is the licensee, the venue is used mainly for racing betting or sports betting; and
   (g) the risk of problem gambling is minimised.
 
 ### 70 Content and conditions of class 4 venue licence
@@ -1919,8 +1919,8 @@ A casino may be operated only by a person who holds a casino operator’s licenc
   (b) if the casino operator has an approved casino venue agreement with another person who holds a casino venue licence.
 
 ### 120 Racing betting and sports betting in casinos
-(1) Racing betting or sports betting in a casino that is conducted by the New Zealand Racing Board and that is authorised by, and complies with, the Racing Act 2003 must not be treated as casino gambling and, accordingly, is not subject to this subpart.
-(2) A casino licence holder must notify the Secretary within 10 working days after the licence holder enters into an agreement with the New Zealand Racing Board that allows the New Zealand Racing Board to conduct racing betting or sports betting in a casino.
+(1) Racing betting or sports betting in a casino that is conducted by the Racing Industry Transition Agency and that is authorised by, and complies with, the Racing Act 2003 must not be treated as casino gambling and, accordingly, is not subject to this subpart.
+(2) A casino licence holder must notify the Secretary within 10 working days after the licence holder enters into an agreement with the Racing Industry Transition Agency that allows the Racing Industry Transition Agency to conduct racing betting or sports betting in a casino.
 
 ### 121 Casino branding
 (1) Only the following persons may use in their branding the word casino, or any other word or get-up, in a way that conveys the impression that a place is a casino and accessible to the public:
@@ -3740,7 +3740,7 @@ Every holder of a class 4 venue licence or casino operator’s licence must,—
     (i) at least 1 representative of corporate societies licensed to operate gaming machines in commercial venues; and
     (ii) at least 1 representative of corporate societies licensed to operate gaming machines in non-commercial venues; and
     (iii) at least 1 representative of casino licence holders; and
-    (iv) the New Zealand Racing Board; and
+    (iv) the Racing Industry Transition Agency; and
     (v) the New Zealand Lotteries Commission; and
     (vi) representatives of the providers of problem gambling services; and
     (vii) any other groups it believes are likely to be affected significantly by the proposed strategy.
@@ -3780,16 +3780,16 @@ The explanatory note of regulations made under section 319(1) must indicate that
 (2) The following formula is to be used to assist in estimating the proposed levy rates payable by gambling operators:levy rate = ({[(A × W1) + (B × W2)] × C} ± R) ÷ Dwhere—Ais the estimated current player expenditure in a sector divided by the total estimated current player expenditure in all sectors subject to the levyBis the customer presentations to problem gambling services that can be attributed to gambling in a sector divided by total customer presentations to problem gambling services in which a sector that is subject to the levy can be identifiedCis the funding requirement for the period for which the levy is payableDis the forecast player expenditure in a sector for the period during which the levy is payableRis the estimated under-recovery or over-recovery of levy from a sector in previous levy periodsW1 and W2are weights, the sum of which is 1.
 (3) In this section,—
   (a) player expenditure,—
-    (i) for the New Zealand Racing Board, has the same meaning as betting profits in section 4(2) and (3) of the Gaming Duties Act 1971; and
-    (ii) for a gaming machine operator (including the New Zealand Racing Board), has the same meaning as gaming machine profits in section 104(5); and
+    (i) for the Racing Industry Transition Agency, has the same meaning as betting profits in section 17A(3) of the Racing Act 2003; and
+    (ii) for a gaming machine operator (including the Racing Industry Transition Agency), has the same meaning as gaming machine profits in section 104(5); and
     (iii) for a casino operator, has the same meaning as casino win in section 12M of the Gaming Duties Act 1971; and
     (iv) for the Lotteries Commission, means turnover less prizes paid and payable:
   (b) the proposed amounts of A and B, and the periods to which they apply, must take into account the latest, most reliable, and most appropriate sources of information from—
-    (i) the Inland Revenue Department or the department responsible for the administration of this Act on expenditure; and
+    (i) the Inland Revenue Department, the Racing Industry Transition Agency (or its successor organisation), or the department responsible for the administration of this Act on expenditure; and
     (ii) the department responsible for the integrated problem gambling strategy on customer presentations to problem gambling services:
   (c) the proposed amount of C must take into account the approximate cost to Government of the integrated problem gambling strategy in the 3-year period for which the levy is payable:
   (d) the proposed amount of D must take into account—
-    (i) the latest, most reliable, and most appropriate sources of information on past expenditure available from the Inland Revenue Department or the department responsible for the administration of this Act; and
+    (i) the latest, most reliable, and most appropriate sources of information on past expenditure available from the Inland Revenue Department, the Racing Industry Transition Agency (or its successor organisation), or the department responsible for the administration of this Act; and
     (ii) advice from the Secretary on an appropriate forecasting method:
   (e) the values of W1 and W2 must be specified in the regulations.
 (4) The problem gambling levy payable by a gambling operator is calculated by multiplying player expenditure by the levy rate calculated for that operator.
