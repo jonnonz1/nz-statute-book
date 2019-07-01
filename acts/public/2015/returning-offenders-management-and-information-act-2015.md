@@ -1,5 +1,5 @@
 # Returning Offenders (Management and Information) Act 2015
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Returning Offenders (Management and Information) Act 2015.
@@ -312,3 +312,14 @@ In this Part,—
 (2) On and from the commencement date, sections 16B to 16E, 71A, 72A, 74A, and 74B, and any rules made under section 74A, of the Parole Act apply in respect of the returning offender—
   (a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
   (b) as if the court had complied with section 16A(3) of the Parole Act in respect of the condition.
+
+### Part 3 — Provisions relating to Oranga Tamariki Legislation Act 2019
+
+### 4 Commencement
+This Part comes into force on the date on which section 39 of the Oranga Tamariki Legislation Act 2019 comes into force.
+
+### 5 Application of Part 1 of Schedule 1AA of Criminal Investigations (Bodily Samples) Act 1995 to certain returning offenders
+(1) For the purpose stated in section 14(1) of this Act, Part 1 of Schedule 1AA of the 1995 Act applies to a person aged 17 years—
+  (a) with all necessary modifications; and
+  (b) subject to the exclusions in subclause (2).
+(2) Clauses 4(1)﻿(a) and (b), 7, 8, 10, 11, and 12 of Schedule 1AA of the 1995 Act are excluded from the application of subclause (1).
