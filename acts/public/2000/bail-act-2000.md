@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2018-12-03_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -60,7 +60,7 @@ In this Act, unless the context otherwise requires,—
   - **working day** has the same meaning as in section 5 of the Criminal Procedure Act 2011.
 
 ### 3AA References to Family Violence Act 2018
-A reference in this Act to the whole or a provision of the Family Violence Act 2018 is, until 1 July 2019, a reference to the whole or the corresponding provision of the Domestic Violence Act 1995.
+[Repealed]
 
 ### 3A Transitional, savings, and related provisions
 The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
@@ -116,14 +116,17 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
 No defendant who is charged with a crime against section 73 or section 76 of the Crimes Act 1961 (which relate to treason) or against section 78 of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
 
 ### 9A Restriction on bail if defendant charged with murder
-(1) This section applies to a defendant of or over the age of 17 years who is charged with murder under section 167 or 168 of the Crimes Act 1961.
+(1) This section applies to a defendant who is charged with murder under section 167 or 168 of the Crimes Act 1961 and who is—
+  (a) of or over the age of 18 years; or
+  (b) aged 17 years and charged with the offence in the High Court.
 (2) No defendant to whom this section applies may be granted bail or allowed to go at large except by order of a High Court Judge or a District Court Judge.
 (3) No defendant to whom this section applies may be granted bail or allowed to go at large unless the defendant satisfies the Judge that bail or remand at large should be granted.
 (4) In particular (but without limiting any other matters in respect of which the defendant must satisfy the Judge under subsection (3)), the defendant must satisfy the Judge on the balance of probabilities that the defendant will not, while on bail or at large, commit any offence involving violence against, or danger to the safety of, any other person.
 (5) In deciding whether or not to grant bail to a defendant to whom this section applies or to allow the defendant to go at large, the need to protect the safety of the public and, where appropriate, the need to protect the safety of any particular person or persons are the primary considerations.
 
 ### 10 Restriction on bail if defendant with previous conviction for specified offence charged with further specified offence
-(1) This section applies to a defendant of or over the age of 17 years who is charged with a specified offence (as defined in subsection (2)), and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences).
+(1) This section applies to a defendant of or over the age of 18 years who is charged with a specified offence (as defined in subsection (2)), and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences).
+(1A) This section also applies to a defendant aged 17 years who is charged in the District Court or the High Court with a specified offence and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences).
 (2) In this section, specified offence means any offence against any of the following provisions of the Crimes Act 1961:
   (a) section 128B (sexual violation):
   (b) section 132 (sexual conduct with child under 12):
@@ -149,19 +152,29 @@ No defendant who is charged with a crime against section 73 or section 76 of the
 (6) In deciding whether or not to grant bail to a defendant to whom this section applies or allow the defendant to go at large, the need to protect the safety of the public and, where appropriate, the need to protect the safety of the victim or victims of the alleged offending, are primary considerations.
 
 ### 11 Restriction on bail if defendant with previous conviction for specified offence found guilty or pleads guilty to further specified offence
-No defendant of or over the age of 17 years who is found guilty of, or pleads guilty to, a specified offence (as defined in section 10(2)) and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences) may, while waiting to be sentenced or otherwise dealt with for the first-mentioned specified offence, be granted bail or allowed to go at large.
+(1) No defendant of or over the age of 18 years who is found guilty of, or pleads guilty to, a specified offence (as defined in section 10(2)) and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences) may, while waiting to be sentenced or otherwise dealt with for the first-mentioned specified offence, be granted bail or allowed to go at large.
+(2) No defendant aged 17 years who is found guilty of, or pleads guilty to, a specified offence in the District Court or the High Court and who has 1 or more previous convictions for a specified offence (whether those convictions were for the same specified offence or for different specified offences) may, while waiting to be sentenced or otherwise dealt with for the first-mentioned specified offence, be granted bail or allowed to go at large.
 
 ### 12 Further restriction on bail in certain cases
 (1) This section applies to a defendant if—
-  (a) the defendant is of or over the age of 17 years and—
+  (a) the defendant is of or over the age of 18 years and—
     (i) is charged with an offence under the Crimes Act 1961 that carries a maximum sentence of 3 or more years' imprisonment; and
     (ii) at the time of the alleged commission of the offence was remanded at large or on bail awaiting trial for another offence under the Crimes Act 1961 that carries a maximum sentence of 3 or more years' imprisonment; and
     (iii) has at any time previously received a sentence of imprisonment (within the meaning of that term in section 4(1) of the Sentencing Act 2002); or
-  (b) the defendant is of or over the age of 17 years and—
+  (b) the defendant is of or over the age of 18 years and—
     (i) is charged with an offence that carries a maximum sentence of 3 or more years' imprisonment; and
     (ii) has previously received 14 or more sentences of imprisonment (within the meaning of that term in section 4(1) of the Sentencing Act 2002); and
     (iii) has previously been convicted of an offence that was committed while the defendant was remanded at large or on bail and that carries a maximum sentence of 3 or more years' imprisonment (whether or not the conviction resulted in any of the sentences of imprisonment referred to in subparagraph (ii)).
-(2) For the purposes of subsection (1), a sentence of imprisonment is counted whether or not it was served concurrently with any other 1 or more sentences.
+(1A) This section also applies to a defendant if—
+  (a) the defendant is aged 17 years and—
+    (i) is charged in the District Court or the High Court with an offence under the Crimes Act 1961 that carries a maximum sentence of 3 or more years’ imprisonment; and
+    (ii) at the time of the alleged commission of the offence was remanded at large or on bail awaiting trial in the District Court or the High Court for another offence under the Crimes Act 1961 that carries a maximum sentence of 3 or more years’ imprisonment; and
+    (iii) has at any time previously received a sentence of imprisonment (within the meaning of that term in section 4(1) of the Sentencing Act 2002); or
+  (b) the defendant is aged 17 years and—
+    (i) is charged in the District Court or the High Court with an offence that carries a maximum sentence of 3 or more years’ imprisonment; and
+    (ii) has previously received 14 or more sentences of imprisonment (within the meaning of that term in section 4(1) of the Sentencing Act 2002); and
+    (iii) has previously been convicted of an offence that was committed while the defendant was remanded at large or on bail and that carries a maximum sentence of 3 or more years’ imprisonment (whether or not the conviction resulted in any of the sentences of imprisonment referred to in subparagraph (ii)).
+(2) For the purposes of subsections (1) and (1A), a sentence of imprisonment is counted whether or not it was served concurrently with any other 1 or more sentences.
 (3) No defendant to whom this section applies may be granted bail or allowed to go at large except by order of a High Court Judge or a District Court Judge.
 (4) No defendant to whom this section applies may be granted bail or allowed to go at large unless the defendant satisfies the Judge that bail or remand at large should be granted.
 (5) In particular (but without limiting any other matters in respect of which the defendant must satisfy the Judge under subsection (4)), the defendant must satisfy the Judge on the balance of probabilities that the defendant will not, while on bail or at large, commit—
@@ -203,13 +216,20 @@ No defendant of or over the age of 17 years who is found guilty of, or pleads gu
 
 **Special provision as to bail of young persons remanded**
 
-### 15 Granting of bail to defendant who is 17 years of age
+### 15 Granting of bail to defendant who is 18 years of age or younger
 (1) A court that remands a defendant at any stage of the proceedings for the offence with which the defendant is charged, including for sentence, must release the defendant on bail or otherwise subject to such conditions as it thinks fit if—
-  (a) the defendant appears to the court to be 17 years of age; and
+  (a) the defendant appears to the court to be 18 years of age; and
   (b) the defendant has not previously been sentenced to imprisonment.
 (2) Subsection (1) is subject to—but no other enactment.
   (a) sections 7 (except subsection (5)), 9 to 12, and 16 to 17A; and
   (b) section 175 of the Criminal Procedure Act 2011,—
+(2A) A court that remands a defendant at any stage of the proceedings for the offence with which the defendant is charged, including for sentence, must release the defendant on bail or otherwise subject to such conditions as it thinks fit if—
+  (a) the defendant is 17 years old; and
+  (b) the defendant is charged with, or convicted of, any offence in the District Court or the High Court; and
+  (c) the defendant has not previously been sentenced to imprisonment.
+(2B) Subsection (2A) is subject to—
+  (a) sections 7 (except subsection (5)), 9 to 12, and 16 to 17A; and
+  (b) section 175 of the Criminal Procedure Act 2011.
 (3) Subject to sections 171(1) and 172(1) of the Criminal Procedure Act 2011 and to the Oranga Tamariki Act 1989, this section applies in respect of a defendant who is under the age of 17 years and who is charged with or convicted of any offence in the District Court or the High Court.
 
 **Special provisions in respect of bail for drug dealing offences**
@@ -221,7 +241,9 @@ A defendant who is charged with or convicted of a drug dealing offence may be gr
 [Repealed]
 
 ### 17A Restriction on bail if defendant charged with serious Class A drug offence
-(1) This section applies to a defendant of or over the age of 17 years who is charged with a serious Class A drug offence.
+(1) This section applies to a defendant who is charged with a serious Class A drug offence and who is—
+  (a) of or over the age of 18 years; or
+  (b) aged 17 years and is charged with the offence in the District Court or the High Court.
 (2) No defendant to whom this section applies may be granted bail or allowed to go at large unless the defendant satisfies the Judge that bail or remand at large should be granted.
 (3) In particular (but without limiting any other matters in respect of which the defendant must satisfy the Judge under subsection (2)), the defendant must satisfy the Judge on the balance of probabilities that the defendant will not, while on bail or at large, commit any drug dealing offence.
 (4) In this section, serious Class A drug offence means—
@@ -652,7 +674,10 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
   (a) must surrender himself or herself to Police custody if, for any reason (including the withdrawal of the consent of a relevant occupant), he or she is unable to remain at the EM address and no suitable temporary EM address is available; and
   (b) may surrender himself or herself to Police custody pending determination of an application under section 33 or 34 to vary the EM address or revoke the EM condition.
 (2) The Police must bring a defendant on bail with an EM condition who surrenders himself or herself to Police custody before a judicial officer at the earliest opportunity.
-(3) If a defendant on bail with an EM condition who is under the age of 17 years surrenders himself or herself to Police custody, sections 234(c), 235, and 236 of the Oranga Tamariki Act 1989 apply with any necessary modifications.
+(3) If a defendant on bail with an EM condition who is under the age of 18 years surrenders himself or herself to Police custody, sections 234(c), 235, and 236 of the Oranga Tamariki Act 1989 apply with any necessary modifications.
+(4) However, subsection (3) does not apply to a defendant aged 17 years who—
+  (a) is charged with, or convicted of, any offence in the District Court or the High Court; and
+  (b) is on bail with an EM condition for the offence or the alleged offence.
 
 ### 35 Defendant on bail may be arrested without warrant in certain circumstances
 (1) Any constable may arrest without warrant a defendant who has been released on bail by a court or Registrar or Police employee if the constable believes on reasonable grounds that—
@@ -665,6 +690,10 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
 (4) After a defendant has been arrested under subsection (1), the defendant cannot be bailed as of right and is bailable only under section 7(5).
 (5) This section does not apply if section 36 applies.
 (6) Nothing in this section prevents a constable from seeking a warrant to arrest a defendant under section 37.
+(7) Sections 215 to 232 of the Oranga Tamariki Act 1989 apply to a defendant aged 17 years who—
+  (a) has been charged with, or convicted of, any offence (except a drug dealing offence) in the District Court or the High Court; and
+  (b) has been released on bail for the offence, or the alleged offence, by a court, a Registrar, or a Police employee; and
+  (c) is arrested without warrant under subsection (1).
 
 ### 36 Arrest of defendant charged with drug dealing offence
 (1) If a defendant has been released on bail under section 16, any constable may arrest the defendant without warrant if—
@@ -682,6 +711,10 @@ Nothing in this Act prevents a defendant, who has previously applied for bail wi
   (a) the surety consents in writing to the release; or
   (b) a fresh bail bond is issued.
 (7) Nothing in this section prevents a constable from seeking a warrant to arrest a defendant under section 37.
+(8) Sections 215 to 232 of the Oranga Tamariki Act 1989 apply to a defendant aged 17 years who—
+  (a) has been charged with, or convicted of, a drug dealing offence in the District Court or the High Court; and
+  (b) has been released on bail for the offence, or the alleged offence, by a District Court Judge or a High Court Judge; and
+  (c) is arrested without warrant under subsection (1).
 
 ### 36A Offence to refuse authorised person entry to EM address
 (1) A person (A) commits an offence who refuses or fails, without reasonable excuse, to allow an authorised person to enter an EM address for the purpose of servicing or inspecting any electronic monitoring equipment at that address.
@@ -986,7 +1019,7 @@ Despite the repeal of any enactment by this Act, where any notice of appeal has 
 ### Part 1 — Provisions relating to Bail (Drug and Alcohol Testing) Amendment Act 2016
 
 ### 1 Interpretation
-In this schedule,—
+In this Part,—
   - **commencement date** means the date on which the Bail (Drug and Alcohol Testing) Amendment Act 2016 comes into force
   - **pre-commencement drug or alcohol condition** means a condition—
     (a) that is imposed before the commencement date under section 30(4) (alone or with any of sections 40(4), 53(4), and 54(4)); and
@@ -1000,6 +1033,43 @@ In this schedule,—
 (2) On and from the commencement date, sections 30T to 30X, 73AA, and 73AAB, and any rules made under section 73AA, apply in respect of the defendant—
   (a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a judicial officer or Registrar on or after the commencement date; and
   (b) as if the judicial officer or Registrar had complied with section 30AA(3) in respect of the condition.
+
+### Part 2 — Provisions relating to Oranga Tamariki Legislation Act 2019
+
+### 3 Interpretation
+In this Part,—
+  - **2019 Act** means the Oranga Tamariki Legislation Act 2019
+  - **commencement date** means the date on which subpart 1 of Part 2 of the 2019 Act comes into force
+  - **proceeding** —
+    (a) means a proceeding that has been commenced by—
+      (i) the filing of a charging document; or
+      (ii) the filing of a notice of hearing under, or in accordance with, section 21(8) of the Summary Proceedings Act 1957; and
+    (b) includes an appeal against conviction or sentence.
+
+### 4 Proceeding under way on commencement date against defendant aged 17 years
+(1) This clause applies to any defendant aged 17 years in a proceeding that is under way in the District Court or the High Court on the commencement date.
+(2) The defendant must be dealt with by the court under this Act as if subpart 1 of Part 2 of the 2019 Act had not come into force.
+(3) This clause is subject to clauses 6 and 7.
+
+### 5 Proceeding commenced on or after commencement date for offence committed before commencement date
+(1) This clause applies to any defendant aged 17 years in a proceeding that—
+  (a) is commenced on or after the commencement date; and
+  (b) is for an offence, or an alleged offence, that was committed before the commencement date when the defendant was 17 years of age.
+(2) The defendant must be dealt with by the court under this Act as amended by subpart 1 of Part 2 of the 2019 Act.
+
+### 6 Arrest of person aged 17 years without warrant under section 35(1)
+Section 35(7) applies to a person aged 17 years if—
+  (a) the person—
+    (i) is a defendant in a proceeding for any offence (except a drug dealing offence), or any alleged offence, that is under way in the District Court or the High Court on the commencement date; and
+    (ii) is released on bail (before, on, or after the commencement date) for the offence, or the alleged offence, by a court, a Registrar, or a Police employee; and
+  (b) any of the circumstances set out in section 35(1) apply to the person so as to empower the arrest without warrant of the person on or after the commencement date.
+
+### 7 Arrest of person aged 17 years without warrant under section 36(1)
+Section 36(8) applies to a person aged 17 years if—
+  (a) the person—
+    (i) is a defendant in a proceeding for a drug dealing offence, or an alleged drug dealing offence, that is under way in the District Court or the High Court on the commencement date; and
+    (ii) is released on bail (before, on, or after the commencement date) for the offence, or the alleged offence, by a District Court Judge or a High Court Judge; and
+  (b) any of the circumstances set out in section 36(1) apply to the person so as to empower the arrest without warrant of the person on or after the commencement date.
 
 ## Schedule 1 — Modifications of Part 3 where appeal is from District Court presided over by Community Magistrate or Community Magistrates to District Court presided over by District Court Judge
 
