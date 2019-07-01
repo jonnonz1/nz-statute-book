@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -261,8 +261,8 @@ The automatic rules apply to an employee who—
   (b) must become a member of a KiwiSaver scheme under subpart 2 of this Part.
 (2) The employee must continue to be a member of a KiwiSaver scheme until the earliest of—
   (a) an opt-out notice taking effect; or
-  (b) the KiwiSaver end payment date referred to in clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds); or
-  (c) the provider terminating the employee’s membership of a KiwiSaver scheme under clause 4(5) of the KiwiSaver scheme rules (which relates to zero account balances); or
+  (b) the date the employee may withdraw an amount from the scheme under clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds); or
+  (c) the provider terminating the employee’s membership of a KiwiSaver scheme under clause 4(3) of the KiwiSaver scheme rules (which relates to zero account balances); or
   (d) the date of withdrawal or transfer to a foreign scheme in the case of permanent emigration under clause 14 of the KiwiSaver scheme rules.
 (3) The employee continues to be liable for automatic deduction of contributions in accordance with subsection (1)﻿(a) in respect of salary or wages until the earliest of—
   (a) the dates referred to in subsection (2); or
@@ -367,7 +367,7 @@ For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning 
 
 ### 33 Certain persons may opt in
 A person may opt in at any time provided—
-  (a) the person is less than the New Zealand superannuation qualification age; and
+  (a)
   (b) the person is not already a member of a KiwiSaver scheme; and
   (c) the person is not subject to the automatic enrolment rules.
 
@@ -409,8 +409,8 @@ A person may opt in at any time provided—
   (b) must become a member of a KiwiSaver scheme under subpart 2 of this Part.
 (1B) If an employee to whom subsection (1)﻿(a)﻿(i) applies has more than 1 employer who pays salary or wages to them, then, despite subsection (1)﻿(a)﻿(i), they may choose 1 or more employers who must make deductions of contributions from salary or wages in accordance with subpart 1 of Part 3.
 (2) The employee must continue to be a member of a KiwiSaver scheme until the earliest of—
-  (a) the KiwiSaver end payment date referred to in clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds); or
-  (b) the provider terminating the employee’s membership of a KiwiSaver scheme under clause 4(5) of the KiwiSaver scheme rules (which relates to zero account balances); or
+  (a) the date the employee may withdraw an amount from the scheme under clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds); or
+  (b) the provider terminating the employee’s membership of a KiwiSaver scheme under clause 4(3) of the KiwiSaver scheme rules (which relates to zero account balances); or
   (c) the date of withdrawal or transfer to a foreign scheme in the case of permanent emigration under clause 14 of the KiwiSaver scheme rules.
 (3) The employee continues to be liable for automatic deduction of contributions in accordance with subsection (1)﻿(a) in respect of salary or wages until the earliest of—
   (a) the dates referred to in subsection (2); or
@@ -655,14 +655,14 @@ This subpart applies when, because of a mistake,—
   (b) the automatic enrolment rules have been applied to a person who, at the time, does not meet the requirements of—
     (i) 1 or more of section 10(a), (b), and (c)﻿(ii):
     (ii) section 10(c)﻿(i):
-  (c) the rule in section 33 allowing opt-in has been applied to a person who, at the time, does not meet the requirements of section 33(a):
+  (c)
   (d) the rule in section 34 allowing opt-in has been applied to a person who, at the time, does not meet the requirements of section 10(c)﻿(i).
 
 ### 59B Initial back-dated validation
 (1) As soon as practicable after anyone discovers the mistake, they must notify the Commissioner or the relevant KiwiSaver scheme provider.
-(2) The person described in section 59A is treated as a person who meets the requirements of section 6, the requirements for the application of the automatic enrolment rules, the age requirement for the application of the opt-in rule in section 34, or the requirement of section 33(a), for a period—
+(2) The person described in section 59A is treated as a person who meets the requirements of section 6, the requirements for the application of the automatic enrolment rules, or the age requirement for the application of the opt-in rule in section 34, for a period—
   (a) starting on the earliest day on which this Act applies, the automatic enrolment rules, or the rule allowing opt-in were applied to the person because of the mistake described in section 59A; and
-  (b) for a person referred to in section 59A(a), (b)﻿(i), (c), and (d), ending on the earlier of—
+  (b) for a person referred to in section 59A(a), (b)﻿(i), and (d), ending on the earlier of—
     (i) 3 months after the mistake is discovered by the person’s KiwiSaver scheme provider:
     (ii) 3 months after the mistake is notified to the provider by the Commissioner or another person:
     (iii) the day the provider pays the amount of the member's accumulation, less the amount that was transferred from an Australian complying superannuation scheme for the person to the Commissioner; and
@@ -1065,7 +1065,7 @@ If an employee opts out after an employer contribution is paid to the Commission
 For the purposes of section 101A(1), the requirements are that the employee—
   (a) is paid salary or wages from which the employer deducts or is required to deduct an amount for the employee’s KiwiSaver scheme or complying superannuation fund; and
   (b) is aged 18 or over; and
-  (c) is not entitled to withdraw an amount from a fund or scheme under clause 4(3) of the KiwiSaver scheme rules (which relates to lock-in of funds) or a rule the same as that clause; and
+  (c) is not entitled to withdraw an amount from a fund or scheme under clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds) or a rule the same as that clause; and
   (d) is not a defined benefit scheme member.
 
 ### 101D Compulsory employer contribution amount: general rule
@@ -1129,8 +1129,8 @@ For a payment of gross salary or wages to an employee, an employer does not have
 ### 101G Rules: providers
 (1) A provider must use the contribution allocation for a member to credit the amount of compulsory employer contribution they receive across the investment products to which a member has subscribed or has been allocated.
 (2) The contribution vests in the member immediately after it is paid to the provider, despite any provision to the contrary.
-(3) If a member of a KiwiSaver scheme will be entitled within 2 months to withdraw an amount from the fund or scheme under clause 4(3) of the KiwiSaver scheme rules (which relates to lock-in of funds), the provider must send a notice to the Commissioner stating the date on which the member will be entitled to withdraw. The Commissioner may notify the member’s employer of the date, for the purposes of the employer applying this subpart.
-(4) If a member of a complying superannuation fund will be entitled within 2 months to withdraw an amount from the fund under a rule the same as clause 4(3) of the KiwiSaver scheme rules, the provider must send a notice to the member's employer stating the date on which the member will be entitled to withdraw.
+(3) If a member of a KiwiSaver scheme will be entitled within 2 months to withdraw an amount from the fund or scheme under clause 4 of the KiwiSaver scheme rules (which relates to lock-in of funds), the provider must send a notice to the Commissioner stating the date on which the member will be entitled to withdraw. The Commissioner may notify the member’s employer of the date, for the purposes of the employer applying this subpart.
+(4) If a member of a complying superannuation fund will be entitled within 2 months to withdraw an amount from the fund under a rule the same as clause 4 of the KiwiSaver scheme rules, the provider must send a notice to the member's employer stating the date on which the member will be entitled to withdraw.
 
 **Complying superannuation funds**
 
@@ -1229,7 +1229,7 @@ The Commissioner must give notice to each affected employer known to the Commiss
 (3) Sections 106 and 108 apply, with necessary modifications, as if the reinstatement of a savings suspension were the granting of a savings suspension.
 
 ### 112B Non-deduction notices
-(1) A person who has passed the KiwiSaver end payment date described in Schedule 1, clause 4(2) may give to their employer a notice (a non-deduction notice) stating that the employer must stop making deductions of contributions from the person's salary or wages under subpart 1.
+(1) A person who may withdraw an amount from a fund or scheme under clause 4 of the KiwiSaver rules or a rule the same as that clause may give to their employer a notice (a non-deduction notice) stating that the employer must stop making deductions of contributions from the person's salary or wages under subpart 1.
 (2) The non-deduction notice is valid, for the purposes of section 62(bb), for the first payment of salary or wages after the non-deduction notice is given to the person's employer. It is valid for subsequent payments of salary or wages, until the person revokes that non-deduction notice by giving to the employer another notice (a revocation notice), in accordance with subsection (3), stating that the employer must start making deductions of contributions from the person's salary or wages under subpart 1.
 (3) A person must not give a revocation notice to the employer within 3 months of giving a non-deduction notice to them, unless the employer agrees to receive the revocation notice within those 3 months.
 
@@ -2279,21 +2279,26 @@ The KiwiSaver scheme rules apply to all KiwiSaver schemes.
   (a) to enable the payment of future benefits to the member under the KiwiSaver scheme; or
   (b) to enable the payment of fees in respect of the KiwiSaver scheme.
 
-### 4 Lock-in of funds to KiwiSaver end payment date
-(1) Subject to other permitted withdrawals, a member may not make a withdrawal from the KiwiSaver scheme until the KiwiSaver end payment date or a date after that date.
-(2) For the purposes of subclause (1), the KiwiSaver end payment date is the later of—
-  (a) the date on which the member reaches the New Zealand superannuation qualification age; or
-  (b) the 5 year qualification date.
-  (c)
-(3) A member is entitled to withdraw an amount not more than the member’s accumulation on the later date referred to in subclause (2).
-(4) Nothing in this clause requires a member to withdraw from the KiwiSaver scheme on the date specified in subclause (2).
-(5) A person ceases, at the option of the provider of the KiwiSaver scheme, to be a member of the KiwiSaver scheme if—
+### 4 Withdrawal age
+(1) Subject to other permitted withdrawals, a member is not permitted to withdraw amounts from their KiwiSaver scheme before the date on which the member reaches the New Zealand superannuation qualification age.
+(2) Subject to subclauses (4) to (6), a member is permitted to withdraw amounts, not totalling more than the member’s accumulation, from their KiwiSaver scheme on and after the date on which the member reaches the New Zealand superannuation qualification age.
+(3) A person ceases, at the option of the provider of the KiwiSaver scheme, to be a member of the KiwiSaver scheme if—
   (a) the balance in all of the member’s accounts reaches zero; and
   (b) the provider gives notice to the member that the person’s membership is terminated.
-(6) For the purposes of these rules, 5 year qualification date means the earliest of—
-  (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
-  (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member; or
-  (c) the date that is 5 years after the day on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund.
+(4) Despite subclause (2) and subject to other permitted withdrawals (other than under subclause (2)), a person is not permitted to make a withdrawal from their KiwiSaver scheme before the grandparented end payment date, if the person is a grandparented member.
+(5) On and after the date on which a grandparented member reaches the grandparented end payment date, the member is permitted to withdraw amounts from their KiwiSaver scheme, not totalling more than the member’s accumulation.
+(6) For the purposes of these rules,—
+  - **5-year grandparenting date** means the earliest of—
+    (a) the date that is 5 years after the day on which the member first became a member of a KiwiSaver scheme; or
+    (b) the date that is 5 years after the day, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member; or
+    (c) the date that is 5 years after the day on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund
+  - **grandparented end payment date** means the later of—
+    (a) the date on which the member reaches the New Zealand superannuation qualification age:
+    (b) the 5-year grandparenting date
+  - **grandparented member** means a member for whom 1 of the following dates is before 1 July 2019:
+    (a) the date on which the member first became a member of a KiwiSaver scheme:
+    (b) the date, under section 85, on which the Commissioner first received a contribution for a KiwiSaver scheme in relation to the member:
+    (c) the date on which the member first became a member of a complying superannuation fund, if the member has become a member of the KiwiSaver scheme as a result of a transfer from a complying superannuation fund.
 
 ### 4A No external financial advantages from funds
 (1) The manager must ensure that the entire value, benefit, or other return derived in respect of the member's accumulation is credited to the member's accumulation and is not received as an external financial advantage.
