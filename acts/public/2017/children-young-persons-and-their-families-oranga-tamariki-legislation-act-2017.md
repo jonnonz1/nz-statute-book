@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017
-_Consolidation as at 2017-07-13_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017.
@@ -478,7 +478,7 @@ Replace section 66 with:Information sharingPurpose of information sharing and pr
       (iv) disclosure will breach legal professional privilege; or
       (v) disclosure will be contrary to the express wishes of the child or young person (expressed either directly or through their representative) and disclosure is not in the best interests of the child or young person.
   An authorised child welfare and protection agency or an authorised independent person who declines a request under section 66G must give the requestor notice of the decision to decline the request and the reasons for the decision.
-  If an authorised child welfare and protection agency or an authorised independent person proposes to disclose information under section 66C or 66H, the agency or person must, if it is practicable and appropriate to do so,—
+  If a child welfare and protection agency or an independent person proposes to disclose information under section 66C, or an authorised child welfare and protection agency or an authorised independent person proposes to disclose information under section 66H, the agency or person must, if it is practicable and appropriate to do so,—
     (a) inform the child or young person concerned, or their representative, about the proposed disclosure, including the purposes and likely recipients of any disclosure; and
     (b) provide the child or young person or their representative any reasonable assistance necessary to—
       (i) understand the nature of the proposed disclosure; and
@@ -568,7 +568,7 @@ In section 74(1), replace declaration under section 67 with care or protection o
 (1) In the heading to section 78, after proceedings, insert or in urgent cases.
 (2) In section 78(1), replace an order with an interim order.
 (3) After section 78(1), insert:
-  (1A) Even if there are no other proceedings under this Part in relation to a child or a young person, the court may, on application by a person entitled to make an application under section 68 (the applicant) or a lawyer representing the child or young person, or on its own motion, if it is satisfied that subsection (1B) applies, make an interim custody order in relation to the child or young person.
+  (1A) Even if there are no other proceedings under this Part in relation to a child or a young person, the court may, on application by a person entitled to make an application under section 68 (the applicant), if it is satisfied that subsection (1B) applies, make an interim custody order in relation to the child or young person.
   (1B) This subsection applies if—
     (a) it is in the best interests of the child or young person that an interim custody order be made as a matter of urgency; or
     (b) it is in the public interest that an interim custody order be made in respect of a child or young person and the grounds on which the order is sought relate to offending or alleged offending by the child or young person.
@@ -577,7 +577,7 @@ In section 74(1), replace declaration under section 67 with care or protection o
   (d) if an application has been made for a care or protection order and the court has adjourned the proceedings pending their disposition:
 (6) After section 78(3), insert:
   (4) An order under subsection (1A) remains in force—
-    (a) for the period specified in the order (not exceeding 28 days) unless it is earlier cancelled by the court on application by the applicant or a lawyer representing the child or young person or on its own motion under subsection (1A); or
+    (a) for the period specified in the order (not exceeding 28 days) unless it is earlier discharged by the court on application under section 125; or
     (b) until a later date (specified by the court in the order) that the court considers allows sufficient time for a family group conference to be held and, if necessary, an application for another care or protection order to be made.
 
 ### 51 Cross-heading above section 83 replaced
@@ -606,15 +606,15 @@ Replace the cross-heading above section 83 with:Care or protection orders
 In section 86A, replace declaration under section 67 in relation to with care or protection order in respect of.
 
 ### 56 Section 87 amended (Restraining orders)
-In section 87(1), replace Where the court makes a declaration under section 67 in relation to a child or young person with If, on an application under section 68, the court is satisfied that a child or young person is in need of care or protection.
+In section 87(1), replace Where the court makes a declaration under section 67 in relation to a child or young person, it may, on or at any time after making that declaration, with If, on an application under section 68, the court is satisfied that a child or young person is in need of care or protection, it may.
 
 ### 57 Section 88 amended (Interim restraining orders)
 (1) In section 88, replace declaration under section 67 in relation to with care or protection order in respect of.
 (2) In section 88, insert as subsections (2) to (4):
-  (2) Even if there are no other proceedings under this Part in relation to a child or young person, the court may, on application by a person entitled to make an application under section 68 (the applicant) or a lawyer representing the child or young person, or on its own motion, if it is satisfied that subsection (3) applies, make any order that it is empowered to make under section 87.
+  (2) Even if there are no other proceedings under this Part in relation to a child or young person, the court may, on application by a person entitled to make an application under section 68 (the applicant), if it is satisfied that subsection (3) applies, make any order that it is empowered to make under section 87.
   (3) This subsection applies if it is in the best interests of the child or young person that an interim restraining order be granted as a matter of urgency.
   (4) An order under subsection (2) remains in force—
-    (a) for the period specified in the order (not exceeding 28 days), unless it is earlier cancelled by the court, on application by the applicant or a lawyer representing the child or young person or on its own motion under subsection (2); or
+    (a) for the period specified in the order (not exceeding 28 days), unless it is earlier discharged by the court on application under section 125; or
     (b) until a later date (specified by the court in the order) that the court considers allows sufficient time for a family group conference to be held and, if necessary, an application for another care or protection order to be made.
 
 ### 58 Section 91 amended (Support orders)
@@ -650,10 +650,10 @@ After section 110, insert:Interim guardianship orders
     (b) make a final order under section 110; or
     (c) make any other order referred to in section 83(1) or 84(1) that the court considers appropriate; or
     (d) dismiss the application.
-  (5) Even if there are no other proceedings under this Part in relation to a child or young person, the court may, on application by a person entitled to make an application under section 68 (the applicant) or a lawyer representing the child or young person, or on its own motion, if it is satisfied that subsection (6) applies, make an interim guardianship order.
+  (5) Even if there are no other proceedings under this Part in relation to a child or young person, the court may, on application by a person entitled to make an application under section 68 (the applicant), if it is satisfied that subsection (6) applies, make an interim guardianship order.
   (6) This subsection applies if it is in the best interests of the child or young person that an interim guardianship order be made as a matter of urgency.
   (7) An order under subsection (5) remains in force—
-    (a) for the period specified in the order (not exceeding 28 days) unless it is earlier cancelled by the court, on application by the applicant or a lawyer representing the child or young person or on its own motion under subsection (5); or
+    (a) for the period specified in the order (not exceeding 28 days) unless it is earlier discharged by the court on application under section 125; or
     (b) until a later date (specified by the court in the order) that the court considers allows sufficient time for a family group conference to be held and, if necessary, an application for another care or protection order to be made.
 
 ### 66 Section 110A amended (Application for change of guardianship order)
@@ -715,8 +715,8 @@ In section 143, delete or section 141 or section 142.
 (3) In section 145(1)﻿(d), after a care and protection co-ordinator, insert (or if section 261 applies, a youth justice co-ordinator).
 (4) In section 145(1)﻿(d)﻿(iii), replace objects with purposes.
 (5) In section 145(1)﻿(d)﻿(iii), replace sections 4, 5, 6, and 13 with sections 4, 4A(1), 5, and 13.
-(6) In section 145(2)﻿(a), delete or section 141 or section 142.
-(7) Repeal section 145(2)﻿(b).
+(6) In section 145(2)﻿(a), (b), and (c), delete , 141(2), or 142(2).
+(7)
 
 ### 80 Section 146 amended (Form and terms of agreements)
 (1) In section 146(1), delete or section 141 or section 142.
@@ -1199,11 +1199,11 @@ This subpart amends the Criminal Procedure Act 2011.
 
 ### 143 Section 175 amended (Remand of defendants aged 17 to 20 years)
 (1) After section 175(1), insert:
-  (1A) Despite section 15 of the Bail Act 2000, if the person is aged 17 years, the court may remand that person in custody, and if the court does so,—
+  (1A) Despite section 15 of the Bail Act 2000, if the person is aged 17 years and is charged with, or convicted of, any offence in the District Court or the High Court, the court may remand that person in custody, and if the court does so,—
     (a) the person must be remanded in the custody of the chief executive of the department responsible for the administration of the Oranga Tamariki Act 1989, unless that chief executive and the chief executive of the Department of Corrections agree on the matter in subsection (1B):
     (b) if the 2 chief executives agree on the matter in subsection (1B), the person may instead be remanded in custody in a youth unit of a prison.
   (1B) The matter that must be agreed by the 2 chief executives is that detention in a youth unit of a prison is necessary to ensure the safety of a young person (as defined in section 2(1)) who is in the custody of the chief executive.
-(2) In section 175(2), replace Despite section 15 of the Bail Act 2000,, with If the person is aged 18 to 20 years,.
+(2) In section 175(2), replace Despite section 15 of the Bail Act 2000, with Despite section 15 of the Bail Act 2000, if the person appears to the court to be aged 18 or 19 years,.
 
 ### 144 New section 380A inserted (Transfer of proceedings commenced in Youth Court back to Youth Court in certain circumstances)
 After section 380, insert:Transfer of proceedings commenced in Youth Court back to Youth Court in certain circumstances
