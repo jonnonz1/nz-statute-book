@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -28,7 +28,7 @@ In this Act, unless the context otherwise requires,—
   - **account** means the victims’ claims trust bank account established under section 54
   - **accused** , in relation to any person who is alleged to be the victim of an offence, means a person charged (whether as a principal or party or an accessory after the fact or otherwise) with the commission of that offence
   - **action** means any proceeding in a court or tribunal other than a criminal proceeding
-  - **child** means a boy or girl under the age of 14 years
+  - **child** means a person under the age of 14 years
   - **civil custody** has the same meaning as in section 2(1) of the Armed Forces Discipline Act 1971
   - **community-based sentence** means—
     (a) a community-based sentence as defined in section 4(1) of the Sentencing Act 2002; and
@@ -120,7 +120,7 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to a victim’s claim filed under section 28, means the particular Victims’ Special Claims Tribunal to which the claim has been referred under section 30
   - **victim** has the meaning given to it in section 8
   - **victim’s claim** has the meaning given to it in section 9
-  - **young person** means a boy or girl of or over the age of 14 years but under 17 years; but does not include a person who is or has been married or in a civil union.
+  - **young person** means a person of or over the age of 14 years but under 18 years.
 
 ### 5 Offender
 (1) In this Act, offender, in relation to a victim, means—
