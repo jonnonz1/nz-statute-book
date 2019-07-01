@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2019-06-10_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -26,7 +26,7 @@ The purpose of this Act is to promote access to justice by establishing a system
     (a) as defined in Schedule 1; or
     (b) as defined in regulations if the person is charged with or convicted of a prescribed offence
   - **civil proceedings** includes—
-    (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Domestic Violence Act 1995, the Care of Children Act 2004, the Canterbury Earthquakes Insurance Tribunal Act 2019, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
+    (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Family Violence Act 2018, the Care of Children Act 2004, the Canterbury Earthquakes Insurance Tribunal Act 2019, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
     (b) proceedings under the Oranga Tamariki Act 1989, other than proceedings in respect of an offence; and
     (c) despite paragraph (b), proceedings under Part 2 of the Oranga Tamariki Act 1989 on the ground specified in section 14(1)﻿(e) of that Act
   - **Commissioner** means the Legal Services Commissioner appointed under section 70
@@ -95,7 +95,7 @@ The purpose of this Act is to promote access to justice by establishing a system
       (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)﻿(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board’s leave; or
       (iii) any victims' claims proceedings; or
     (f) to enable—
-      (i) a person to apply for a protection order under Part 2 of the Domestic Violence Act 1995, or an order relating to property under Part 3 of that Act; or
+      (i) a person to apply for a protection order under Part 4 of the Family Violence Act 2018, or an order relating to property under Part 5 of that Act; or
       (ii) a person who has applied for an order described in subparagraph (i) to appeal, or respond to an appeal, against the determination of the person's application; or
     (g) in respect of a proceeding under Part 2 or 3A of the Oranga Tamariki Act 1989; or
     (h) in respect of a proceeding that is specified in section 7(1)﻿(j) to (n) and that involves, or is connected with, the recognition of a person as a refugee or protected person
@@ -256,7 +256,7 @@ Legal aid may be granted in respect of the following criminal matters:
 (5) The Commissioner may refuse to grant legal aid to an applicant in respect of any original proceeding under an enactment specified in Schedule 2 if the Commissioner considers that the grant of legal aid is not justified.
 (6) In determining under subsection (5) whether a grant of legal aid is not justified, the Commissioner must have regard to—
   (a) any previous proceedings in the matter to which the application relates; and
-  (b) any personal protection issues such as (without limitation) any orders relating to domestic violence, protection of personal property rights, compulsory treatment, or compulsory care; and
+  (b) any personal protection issues such as (without limitation) any orders relating to family violence (as defined in section 9 of the Family Violence Act 2018), protection of personal property rights, compulsory treatment, or compulsory care; and
   (c)
   (d) whether there are any complex factual, legal, or evidential matters that require the determination of a court; and
   (e) whether it is in the public interest that legal aid be granted.
@@ -393,11 +393,11 @@ If the Commissioner has declined an application for legal aid under this Act, th
   (c) an application for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section.
 (5) A grant of legal aid is also within subsection (4) if it is made on an application for matters referred to in that subsection as well as for other matters.
 
-### 19 Special provisions about conditions on grants to persons involved in proceedings under Domestic Violence Act 1995
-(1) In this section, person A means a person who is a party to proceedings (which includes appeals) that in any way relate to, or arise out of, an application by or on behalf of, or a grant in favour of, the person for a protection order under Part 2, or an order relating to property under Part 3, of the Domestic Violence Act 1995.
+### 19 Special provisions about conditions on grants to persons involved in proceedings under Family Violence Act 2018
+(1) In this section, person A means a person who is a party to proceedings (which includes appeals) that in any way relate to, or arise out of, an application by or on behalf of, or a grant in favour of, the person for a protection order under Part 4, or an order relating to property under Part 5, of the Family Violence Act 2018.
 (2) A grant of legal aid made to person A is not subject, and may not be made subject, to any of the conditions referred to in subsection (1), (2), or (3) of section 18, unless subsection (3) or (4) of this section applies.
 (3) The Commissioner may impose any of the conditions in subsection (1), (2), or (3) of section 18 on a grant of legal aid made to person A if the Commissioner considers there are exceptional circumstances that justify the imposition of 1 or more of those conditions.
-(4) If a grant of legal aid to person A is in respect of proceedings that involve matters in addition to proceedings under the Domestic Violence Act 1995, then the Commissioner may impose conditions on the part of the grant that relates to those additional matters.
+(4) If a grant of legal aid to person A is in respect of proceedings that involve matters in addition to proceedings under the Family Violence Act 2018, then the Commissioner may impose conditions on the part of the grant that relates to those additional matters.
 (5) If the Commissioner proposes to impose conditions under subsection (4), he or she must—
   (a) consider any representations by person A concerning the proportion of the grant that should not be subject to conditions; and
   (b) determine what proportion of the grant is subject to conditions, and what those conditions are; and
@@ -1740,7 +1740,7 @@ In this schedule, unless the context otherwise requires,—
   (b) any parent, foster parent, or step-parent with whom the applicant is living.
 (5) Where an application for legal aid for a civil matter is made by a minor, the Commissioner may include in his or her resources any sum paid or payable, under any agreement or court order, to any person for the purpose of maintaining the minor.
 (6) Without limiting the ways in which persons may have a contrary interest in a matter, person A and person B have a contrary interest in a matter if—
-  (a) person A applies for or is granted legal aid in connection with proceedings against person B under the Domestic Violence Act 1995; and
+  (a) person A applies for or is granted legal aid in connection with proceedings against person B under the Family Violence Act 2018; and
   (b) either—
     (i) person A is a minor and person B is person A's parent; or
     (ii) person A is the spouse or partner of person B.
