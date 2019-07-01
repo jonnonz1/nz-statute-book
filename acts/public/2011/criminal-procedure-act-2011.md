@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -152,6 +152,9 @@ In this Act, unless the context otherwise requires,—
 (2) Except as expressly provided in the Armed Forces Discipline Act 1971, this Act does not apply to proceedings under that Act, or to proceedings on appeal from any decision under that Act.
 (3) Except as expressly provided in the Oranga Tamariki Act 1989, this Act does not apply to proceedings in the Youth Court or to proceedings on appeal from any decision of the Youth Court.
 
+### 7A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+
 ### 8 Act binds the Crown
 This Act binds the Crown.
 
@@ -226,6 +229,18 @@ Any person may commence a proceeding.
     (i) the name of the prosecuting organisation; and
     (ii) the particulars of an appropriate contact person in relation to the prosecution; and
   (f) any other information required by rules of court.
+
+### 16A Specifying that offence charged is, or that conviction entered is for, family violence offence
+(1) The charging document may specify that the offence charged is a family violence offence.
+(2) The court may, at any time after a charging document is filed and before the delivery of the verdict or decision of the court, amend the document to add, confirm, or remove a specification that the offence charged is a family violence offence.
+(3) The power in subsection (2)—
+  (a) is exercisable on the court’s own motion or on the application of the defendant or the prosecutor:
+  (b) is exercisable by the Registrar, if both the defendant and the prosecutor agree:
+  (c) does not limit the powers in section 133.
+(4) If the defendant is convicted (even if the charging document does not specify that the offence charged is a family violence offence), the court may enter in the permanent court record of the proceeding a specification that the conviction is for a family violence offence.
+(5) In this section, family violence offence means an offence—
+  (a) against any enactment (including the Family Violence Act 2018); and
+  (b) involving family violence (as defined in section 9 of that Act).
 
 ### 17 Content of charge
 (1) A charge must relate to a single offence.
@@ -1671,6 +1686,37 @@ The court may if it thinks fit, on its own motion or at the request of any party
   (c) pending the defendant being brought up for sentence and during his or her sentencing.
 (5) If a Registrar adjourns a proceeding and the defendant or the prosecutor are not present, the Registrar must notify the absent party in writing.
 
+### 168A No-contact conditions if family violence offence defendant remanded in custody
+(1) This section applies to a defendant—
+  (a) who is charged with an offence that is (even if the charging document does not under section 16A specify that the offence is) a family violence offence; and
+  (b) who is, or is to be, remanded in custody under section 168(1)﻿(c) (dealing with a defendant on an adjournment).
+(2) A judicial officer may give a direction imposing on the defendant 1 or more conditions requiring the defendant, while remanded in custody under section 168(1)﻿(c), to have no contact (except as the judicial officer specifies) with the victim of the offence, any other person specified by the judicial officer, or both.
+(3) The power in subsection (2) is exercisable—
+  (a) on the judicial officer’s own motion or on the application of the defendant or the prosecutor:
+  (b) by the Registrar, if the prosecutor agrees.
+(4) In this section and section 168B,—
+  - **contact** , by a defendant with a person, means contact or communication that is—
+    (a) direct (that is, face-to-face), or indirect (regardless of the means of contact or communication used); and
+    (b) initiated, or brought about, by the defendant; and
+    (c) with the person
+  - **family violence offence** means an offence—
+    (a) against any enactment (including the Family Violence Act 2018); and
+    (b) involving family violence (as defined in section 9 of that Act).
+
+### 168B Provisions about compliance with no-contact conditions
+(1) A direction given under section 168A must be copied to the defendant and to the manager of the prison in which the defendant is held in custody on remand, and overrides any entitlement of the defendant under enactments in, or made under, the Corrections Act 2004 (for example, under the following sections of that Act:
+  (a) section 73 (entitlement to private visitors):
+  (b) section 76 (prisoners may send and receive mail):
+  (c) section 77 (outgoing telephone calls)).
+(2) The manager of the prison in which the defendant is held in custody on remand, or any other person, may use relevant powers of that manager or person under sections 103A to 110C (about opening and reading of mail and withholding of correspondence) of the Corrections Act 2004, or under sections 111 to 122 (about monitoring of telephone calls) of that Act, to detect and prevent non-compliance by the defendant with conditions imposed by the direction.
+(3) After becoming aware of a breach of those conditions, the manager of the prison in which the defendant is held in custody on remand, or the Police, must take all reasonable steps to notify it promptly to the Registrar.
+(4) The Registrar, on being notified, must bring the matter to the attention of a judicial officer, who may reconsider the conditions of remand and any exceptions specified under section 168A(2), and must direct the Registrar that the nature of the condition and the breach be entered in the permanent court record.
+(5) Despite subsection (4), the judicial officer may decide not to direct that those matters be entered in the permanent court record if satisfied that—
+  (a) the defendant had a reasonable excuse for the breach; or
+  (b) the breach is so minor in nature that it should not be recorded and able to be considered in a later application for bail made by that defendant.
+(6) A breach entered under this section in the permanent court record may be considered in a later application for bail made by that defendant over his or her lifetime (whether or not the defendant is charged with a family violence offence).
+(7) A direction given under this section by a judicial officer that the breach of the condition be entered in the permanent court record may be appealed against by the defendant under sections 51 and 52 of the Bail Act 2000 (which apply with all necessary modifications).
+
 ### 169 Order for detention of defendant in hospital or secure facility
 (1) Despite section 168(4), the court may, instead of issuing a warrant under that subsection, make an order for the defendant's detention in a hospital or secure facility pending the defendant's trial if the court is satisfied of the matters in subsection (2).
 (2) Before making an order under subsection (1), the court must be satisfied, on the production of a certificate or certificates by 2 health assessors, that—
@@ -1682,7 +1728,10 @@ The court may if it thinks fit, on its own motion or at the request of any party
   (c) secure facility has the same meaning as in section 9(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
 
 ### 170 Defendant in custody may be brought up before expiry of period of adjournment
-A defendant who has been remanded in custody on any charge may be brought before a court at any time to be dealt with on that charge, even if the period for which the defendant was remanded in custody has not expired.
+(1) This section applies to a defendant who has been remanded in custody on any charge, even if the period for which the defendant was remanded in custody has not expired.
+(2) The defendant may at any time be brought before—
+  (a) a judicial officer, for the consideration or giving of a direction under section 168A (no-contact conditions if family violence offence defendant remanded in custody):
+  (b) a court, to be dealt with on that charge.
 
 **Special provisions applying to defendants under the age of 20 pending hearing or sentence**
 
@@ -1711,11 +1760,11 @@ A defendant who has been remanded in custody on any charge may be brought before
 (3) If a person is remanded in the custody of the chief executive, that person may, until he or she is brought up for hearing or sentence, be placed in any residence under the Oranga Tamariki Act 1989, or under the care of any suitable person pursuant to this Act.
 (4) This section is subject to the Oranga Tamariki Act 1989.
 
-### 174 Remand of defendant under 17 years for assessment report
-(1) Any court may remand a defendant who is under 17 years in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 for the purposes of an assessment report under section 38 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 if—
+### 174 Remand of defendant under 18 years for assessment report
+(1) Any court may remand a defendant who is under 18 years in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 for the purposes of an assessment report under section 38 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 if—
   (a) the court is satisfied that the chief executive is able and willing to keep the defendant in custody for the purpose of the assessment report for any period, not exceeding 14 days, that the court thinks fit; and
-  (b) the court would (in the absence of section 171 or 172) have remanded the defendant to a prison in accordance with section 38(2)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 for the purposes of the assessment report.
-(2) If, in any case to which section 38(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies, the defendant is under the age of 17 years, the provisions of section 38(2)﻿(c) to (4) and sections 40 to 44 of that Act must be read as if—
+  (b) the court would (in the absence of section 171 or 172 or 175) have remanded the defendant to a prison in accordance with section 38(2)﻿(b) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 for the purposes of the assessment report.
+(2) If, in any case to which section 38(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003 applies, the defendant is under the age of 18 years, the provisions of section 38(2)﻿(c) to (4) and sections 40 to 44 of that Act must be read as if—
   (a) any reference to remand to a prison were a reference to remand to the custody of the chief executive; and
   (b) any reference to the manager of a prison were a reference to the chief executive; and
   (c) any reference to penal custody were a reference to the custody of the chief executive.
@@ -1723,7 +1772,11 @@ A defendant who has been remanded in custody on any charge may be brought before
 
 ### 175 Remand of defendants aged 17 to 20 years
 (1) This section applies to a person who is remanded pending hearing or sentence and who appears to the court to be of or over the age of 17 years but under the age of 20 years.
-(2) Despite section 15 of the Bail Act 2000, the court may—
+(1A) Despite section 15 of the Bail Act 2000, if the person is aged 17 years and is charged with, or convicted of, any offence in the District Court or the High Court, the court may remand that person in custody, and if the court does so,—
+  (a) the person must be remanded in the custody of the chief executive of the department responsible for the administration of the Oranga Tamariki Act 1989, unless that chief executive and the chief executive of the Department of Corrections agree on the matter in subsection (1B):
+  (b) if the 2 chief executives agree on the matter in subsection (1B), the person may instead be remanded in custody in a youth unit of a prison.
+(1B) The matter that must be agreed by the 2 chief executives is that detention in a youth unit of a prison is necessary to ensure the safety of a young person (as defined in section 2(1)) who is in the custody of the chief executive.
+(2) Despite section 15 of the Bail Act 2000, if the person appears to the court to be aged 18 or 19 years, the court may—
   (a) remand the defendant in the custody of the chief executive of the department for the time being responsible for the administration of the Oranga Tamariki Act 1989 if—
     (i) in the court's opinion it is desirable to do so by reason of special circumstances; and
     (ii) the court is satisfied that the chief executive of that department is able and willing to keep the person in custody in accordance with this section; or
@@ -3411,6 +3464,9 @@ No charging document, summons, conviction, sentence, order, bond, warrant, or ot
 (3) On the application of either party, a retrial of the charge may be granted under section 177.
 (4) If, at the time appointed for the retrial, the defendant is still a child or young person within the meaning of the Oranga Tamariki Act 1989, the court must remit the proceedings to the Youth Court to be dealt with in that court.
 
+### 380A Transfer of proceedings commenced in Youth Court back to Youth Court in certain circumstances
+Proceedings commenced in the Youth Court and transferred to the District Court or High Court under section 275 or 276AB(1) of the Oranga Tamariki Act 1989 must, if the circumstances described in section 276A of that Act arise and the requirements of that section are met, be transferred back to the Youth Court.
+
 ### 381 Payment of fees, fines, etc
 (1) Section 208 of the Summary Proceedings Act 1957 applies to all fees, fines, reparation, costs, and other money payable on any proceedings commenced by the filing of a charging document.
 (2) Section 364 and this section override every enactment other than the Diplomatic Privileges and Immunities Act 1968 and the Consular Privileges and Immunities Act 1971 (whether passed before or after the commencement of this section) having the effect of granting people of any description, or the holders of stated offices or positions, protection or immunity from criminal or civil liability (or both).
@@ -3475,6 +3531,10 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
     (iii) who may discharge courts' obligations to maintain the permanent court record:
     (iv) procedures for ensuring the accuracy of the permanent court record:
     (v) procedures for correcting the permanent court record:
+    (va) if a protection order is made under section 123B of the Sentencing Act 2002 on sentencing or otherwise dealing with an offender for a family violence offence, authorise disclosure to, or sharing with, an assessor or a service provider (as those terms are defined in section 184 of the Family Violence Act 2018)—
+      (i) of specified court documents relating to the offender, every protected person for the order, or both; and
+      (ii) for the purposes of all or stated provisions of that Act; and
+      (iii) by the court concerned or under its authority or direction:
   (u) prescribe the manner in which a record of oral evidence is to be authenticated:
   (v) provide for the establishment, form, and maintenance of registers of notices of appeal and judgments, and provide for the registers to be available for inspection by members of the public in accordance with the rules:
   (w) provide for any other matters in respect of which rules are contemplated by this Act.
@@ -3493,7 +3553,7 @@ A Judge or Registrar may, subject to any terms or conditions that the Judge or R
   (e) prescribing the court fees to be paid in respect of any proceedings or any processes to which this Act applies:
   (f) prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
   (g) prescribing the solicitors' fees payable by parties in proceedings to which this Act applies:
-  (h) providing for information about proceedings under this Act to be transferred between courts, where that information is relevant to proceedings under the Domestic Violence Act 1995, the Harassment Act 1997, or the Victims' Orders Against Violent Offenders Act 2014, including (without limitation) provision for such information to be transferred between—
+  (h) providing for information about proceedings under this Act to be transferred between courts, where that information is relevant to proceedings under the Care of Children Act 2004, the Family Violence Act 2018, the Harassment Act 1997, or the Victims' Orders Against Violent Offenders Act 2014, including (without limitation) provision for such information to be transferred between—
     (i) different courts; or
     (ii) different divisions of the same court; or
     (iii) courts exercising civil jurisdiction and courts exercising criminal jurisdiction; or
@@ -3675,6 +3735,33 @@ The Criminal Justice Regulations 1985 (SR 1985/232) are revoked.
 
 ### 413 Amendments to other enactments
 The enactments set out in Schedule 3 are amended in the manner set out in that schedule.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provisions relating to Oranga Tamariki Legislation Act 2019
+
+### 1 Interpretation
+In this Part,—
+  - **2017 Act** means the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017
+  - **2019 Act** means the Oranga Tamariki Legislation Act 2019
+  - **commencement date** means the date on which section 7(4) of the 2017 Act comes into force
+  - **proceeding** —
+    (a) means a proceeding that has been commenced by—
+      (i) the filing of a charging document; or
+      (ii) the filing of a notice of hearing under, or in accordance with, section 21(8) of the Summary Proceedings Act 1957; and
+    (b) includes an appeal against conviction or sentence.
+
+### 2 Proceeding under way on commencement date against defendant aged 17 years
+(1) This clause applies to any defendant aged 17 years in a proceeding that is under way in the District Court or the High Court on the commencement date.
+(2) The defendant must be dealt with by the court under this Act as if section 7(4) of the 2017 Act had not come into force.
+
+### 3 Proceeding commenced on or after commencement date for offence committed before commencement date
+(1) This clause applies to any defendant aged 17 years in a proceeding that—
+  (a) is commenced on or after the commencement date; and
+  (b) is for an offence, or an alleged offence, that was committed before the commencement date when the defendant was 17 years of age.
+(2) The defendant must be dealt with by the court under this Act—
+  (a) as amended by subpart 1 of Part 2 of the 2017 Act; and
+  (b) as further amended by sections 35 and 46 of the 2019 Act.
 
 ## Schedule 1 — Category 4 offences
 
