@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-07-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -79,7 +79,7 @@ The primary objectives of a court on an application for the exercise of its juri
 (2) If the court is satisfied that the person in respect of whom the application is made is a person in relation to whom it has jurisdiction under this Part in accordance with section 6, the court shall determine whether or not it should make an order under section 10 or section 11 or section 12, and (if so) what kind of order or orders, having regard to the primary objectives specified in section 8.
 
 ### 10 Kinds of order
-(1) On an application for the exercise of a court's jurisdiction under this Part in respect of any person, the court may, subject to subsection (2), make any 1 or more of the following orders:
+(1) On an application for the exercise of a court's jurisdiction under this Part in respect of any person, the court may make any 1 or more of the following orders:
   (a)
   (b) an order that any parent of the person make suitable arrangements for the personal care of the person after the parent's death:
   (c) an order that the arrangements made by any parent of the person for the personal care of the person after the parent's death be observed, or be varied in any particular specified in the order:
@@ -88,10 +88,13 @@ The primary objectives of a court on an application for the exercise of its juri
   (f) an order that the person be provided with medical advice or treatment of a kind specified in the order:
   (g) an order that the person be provided with educational, rehabilitative, therapeutic, or other services of a kind specified in the order:
   (h) an order that the person shall not leave New Zealand without the permission of the court, or shall leave New Zealand only on conditions specified in the order:
-  (i) an order appointing a person named in the order as next friend or guardian ad litem for the person for the purposes of any proceedings in the District Court:
+  (i) an order appointing a person named in the order as next friend or guardian ad litem for the person for the purposes of any proceedings in the District Court or the Family Court:
   (j) an order under section 11 that a person named in the order administer any item of property specified in the order:
   (k) an order under section 12 appointing a welfare guardian for the person.
+(1A) Subsection (1) is subject to subsections (2) and (2B).
 (2) No person (other than the person in respect of whom the application is made) shall be bound by a personal order unless that person is a party to the proceedings in which the order is made.
+(2A) No order under section 10(1)﻿(i) may be applied for by any person, or made by the court, solely for the purpose of the commencement of proceedings under the Family Violence Act 2018.
+(2B) Subsection (2A) overrides any contrary provisions of this Act.
 (3) In any order made under any of paragraphs (a) to (i) of subsection (1), the court may specify a date by which the order is to be reviewed by the court; and, if it does so, the court shall also specify in the order the person or persons who is or are to be responsible for applying to the court for a review of the order before the specified date.
 (4) Where a court makes any personal order, it may also make such other orders and give such directions as may be necessary or expedient to give effect, or better effect, to the personal order.
 
