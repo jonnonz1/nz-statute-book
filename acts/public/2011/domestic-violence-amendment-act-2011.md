@@ -1,5 +1,5 @@
 # Domestic Violence Amendment Act 2011
-_Consolidation as at 2011-08-16_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Domestic Violence Amendment Act 2011.
@@ -20,7 +20,7 @@ The purpose of this Act is to strengthen the objects and implementation of the p
   (f) allowing a lawyer appointed to act for a child under the Care of Children Act 2004 to attend the hearing of proceedings under the principal Act.
 
 ### 5 Interpretation
-Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 2 is amended by inserting the following definitions in their appropriate alphabetical order:
   - **day-to-day care** has the meaning given to it by section 8 of the Care of Children Act 2004
   - **parenting order** has the meaning given to it by section 8 of the Care of Children Act 2004
 
@@ -67,7 +67,7 @@ Section 36 is amended by repealing subsections (2) and (3) and substituting the 
   (2) Where this section applies,—
     (a) the direction does not take effect until 10 working days after a copy of the direction is served on the person to whom it relates; and
     (b) that person may, within those 10 days, notify the Court that he or she objects to the direction.
-  (3) Where the respondent or associated respondent notifies the Court, in accordance with subsection (2)(b), that he or she objects to the direction,—
+  (3) Where the respondent or associated respondent notifies the Court, in accordance with subsection (2)﻿(b), that he or she objects to the direction,—
     (a) the Registrar must, if the respondent or associated respondent wishes to be heard, assign a hearing date, which must be—
       (i) as soon as practicable; and
       (ii) unless there are special circumstances, in no case later than 42 days after receipt of the notice of objection; and
@@ -101,19 +101,19 @@ The following section is inserted after section 79:Review of contact arrangement
     (g) any other persons whom the Family Court Judge permits to be present.
   (4) If both the applicant and the respondent attend or are represented at the review, the Judge may—
     (a) make an interim order relating to contact under section 28B:
-    (b) impose any condition under section 27 relating to the matter set out in subsection (2)(a) of that section:
+    (b) impose any condition under section 27 relating to the matter set out in subsection (2)﻿(a) of that section:
     (c) give any directions that the Judge considers necessary.
   (5) The provisions of this section, so far as applicable and with the necessary modifications, apply to an associated respondent as if the person were a respondent.
 
 ### 14 Procedure where hearing required
-Section 80(1) is amended by repealing paragraph (b) and substituting the following paragraph:.
+Section 80(1) is amended by repealing paragraph (b) and substituting the following paragraph:
   (b) make the temporary order a final order (whether with or without variation); or
 
 ### 15 New section 80A inserted
 The following section is inserted after section 80:Temporary order discharged when made final order under section 80(1)
-  (1) When a temporary order becomes a final order pursuant to section 80(1)(b), the temporary order is automatically discharged.
-  (2) Where the part of a temporary order not already a final order is confirmed under section 80(1)(c)(i) or (ii), the temporary order is automatically discharged.
+  (1) When a temporary order becomes a final order pursuant to section 80(1)﻿(b), the temporary order is automatically discharged.
+  (2) Where the part of a temporary order not already a final order is confirmed under section 80(1)﻿(c)﻿(i) or (ii), the temporary order is automatically discharged.
 
 ### 16 Conduct of proceedings
-Section 83(1) is amended by inserting the following paragraph after paragraph (d):.
+Section 83(1) is amended by inserting the following paragraph after paragraph (d):
   (da) any lawyer appointed under section 7(1) of the Care of Children Act 2004 to act for a child who in proceedings under this Act is a child of the applicant's family:
