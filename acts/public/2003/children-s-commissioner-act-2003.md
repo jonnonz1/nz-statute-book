@@ -1,5 +1,5 @@
 # Children's Commissioner Act 2003
-_Consolidation as at 2017-09-28_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Children's Commissioner Act 2003.
@@ -70,7 +70,7 @@ In performing or exercising the Commissioner's functions or powers under this Ac
   (a) the Convention:
   (b) the principle that the Commissioner should give serious consideration to the views of children and take those views into account:
   (c) the principle that the Commissioner should recognise the diversity of children in New Zealand:
-  (d) the principles stated in sections 5 and 6 of the Oranga Tamariki Act 1989, so far as they are applicable and with all necessary modifications.
+  (d) the principles stated in sections 4A and 5 of the Oranga Tamariki Act 1989, so far as they are applicable and with all necessary modifications.
 
 ### 12 General functions of Commissioner
 (1) The general functions of the Commissioner are—
