@@ -1,5 +1,5 @@
 # Fire and Emergency New Zealand Act 2017
-_Consolidation as at 2019-05-08_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Fire and Emergency New Zealand Act 2017.
@@ -2421,6 +2421,9 @@ This subpart—
 ### 24 Interpretation in this subpart
 (1) In this subpart, unless the context otherwise requires,—
   - **2017/18 financial year** means the period beginning on 1 July 2017 and ending on 30 June 2018
+  - **archive** has the meaning given in clause 25A(2)
+  - **cultural heritage body** has the meaning given in clause 25A(2)
+  - **cultural heritage items** has the meaning given in clause 25A(2)
   - **personal property** has the meaning given in section 2(1) of the Earthquake Commission Act 1993
   - **residential building** has the meaning given in section 2(1) of the Earthquake Commission Act 1993
   - **transitional period** means the period beginning on 1 July 2017 and ending with the close of the day before the date on which sections 80 to 140 commence (in accordance with section 2).
@@ -2430,6 +2433,25 @@ This subpart—
 
 ### 25 Levy for transitional period payable in respect of property insured against fire
 Every insurance company with which any property is insured against fire under any contract of fire insurance made in New Zealand must pay a levy to FENZ in accordance with this subpart.
+
+### 25A Art and items in collections exempt from levy
+(1) Despite clause 25, a levy is not payable for art or items that—
+  (a) are insured against fire under any contract of fire insurance made in New Zealand; and
+  (b) are in a collection of a cultural heritage body (whether or not the art or items are currently present in or on that body’s premises).
+(2) In this clause,—
+  - **archive—**
+    (a) includes Archives New Zealand (Te Rua Mahara o te Kāwanatanga) and the National Library of New Zealand Te Puna Mātauranga o Aotearoa; and
+    (b) includes specialist archival units (for example, an archival unit within a general university library such as the Hocken Collections—Uare Taoka o Hākena); but
+    (c) does not include a library
+  - **cultural heritage body** means a museum/whare taonga, archive, or art gallery that—
+    (a) is a permanent non-profit-making body whose primary purpose is to exhibit or conserve cultural heritage items in perpetuity to enable public education, public enjoyment, or the preservation of those cultural heritage items; and
+    (b) exhibits or conserves its collection or collections in or on premises that are not a private residence and that are usually open to the public or a class of the public
+  - **cultural heritage items** means property (tangible or intangible) that is significant from a scientific, historical, artistic, or cultural perspective.
+
+### 25B New Zealand Defence Force property exempt from levy
+Despite clause 25, a levy is not payable for property that is insured—
+  (a) against fire under any contract of fire insurance made in New Zealand; and
+  (b) by, and for the purposes of, the New Zealand Defence Force.
 
 ### 26 Certain provisions of Fire Service Act 1975, and Fire Service Regulations 2003, continue to apply for transitional period
 (1) For the purpose of the levy for the transitional period, the following provisions of the Fire Service Act 1975 continue to apply, despite their repeal by section 195(a) of this Act, subject to the modifications set out in subclause (2):
