@@ -1,5 +1,5 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-07-01_
 
 > Title
 
@@ -983,6 +983,9 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 ### 28D Effect of furniture orders
 (1) The person in whose favour an order is made under section 28B or section 28C is entitled, to the exclusion of the person against whom the order is made, to the possession of the furniture, household appliances, and household effects to which the order relates for as long as the order is in force.
 (2) An order to which this section applies has effect and may be enforced as if it were an order of the court for delivery of chattels granted in favour of the person for whose benefit the order is made.
+
+### 28E Family Violence Act 2018 does not limit or affect powers to make orders
+The Family Violence Act 2018 does not limit or affect the power of a court to make an order (including an order made on an application without notice) under section 27 or section 28 or section 28B or section 28C or section 33 of this Act.
 
 **Hire purchase agreements**
 
