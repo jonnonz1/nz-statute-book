@@ -1,5 +1,5 @@
 # Parental Leave and Employment Protection Act 1987
-_Consolidation as at 2018-07-01_
+_Consolidation as at 2019-07-01_
 
 > Title
 
@@ -1089,16 +1089,16 @@ A person is not entitled to a parental leave payment in respect of a child if—
 
 ### 71M Amount of parental leave payment
 (1) The rate of parental leave payment payable to any eligible employee is the lesser of—
-  (a) $564.38 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $585.80 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the employee's ordinary weekly pay before the commencement of the parental leave payments; and
     (ii) 100% of the employee's average weekly income from work.
 (1A) The rate of parental leave payment payable to any eligible self-employed person is the lesser of—
-  (a) $564.38 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
+  (a) $585.80 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O); and
   (b) the greater of—
     (i) 100% of the self-employed person's average weekly income from work; and
     (ii) the minimum amount of parental leave payment for a self-employed person set under section 71N(4).
-(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $564.38 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
+(1B) The rate of parental leave payment payable to a person who is eligible for a parental leave payment as an employee and also as a self-employed person may not exceed $585.80 per week (or any adjusted amount set under section 71N(1) or any other amount set under section 71O), despite subsections (1) and (1A).
 (2)
 
 ### 71N Annual adjustment of parental leave payment rates
