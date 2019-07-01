@@ -1,5 +1,5 @@
 # Domestic Violence Amendment Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 (1) This Act is the Domestic Violence Amendment Act 2003.
@@ -9,6 +9,6 @@ _Consolidation as at 2007-09-03_
 This Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 3 Regulations
-Section 127(a) of the principal Act is amended by inserting, after subparagraph (iv), the following subparagraphs:.
+Section 127(a) of the principal Act is amended by inserting, after subparagraph (iv), the following subparagraphs:
   (iva) providing for the review of a decision to refuse an application for approval:
   (ivb) providing for the review of a decision to cancel an approval:
