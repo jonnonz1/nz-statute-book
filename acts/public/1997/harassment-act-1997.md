@@ -1,5 +1,5 @@
 # Harassment Act 1997
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-07-01_
 
 > An Act to provide criminal and civil remedies in respect of harassment
 
@@ -87,7 +87,7 @@ An act is done to a person (person A), for the purposes of this Act, if that act
   (b) ensuring that there is adequate legal protection for all victims of harassment.
 (2) This Act aims to achieve its object by—
   (a) making the most serious types of harassment criminal offences:
-  (b) empowering the court to make orders to protect victims of harassment who are not covered by domestic violence legislation:
+  (b) empowering the court to make orders to protect victims of harassment who are not covered by family violence legislation:
   (c) providing effective sanctions for breaches of the criminal and civil law relating to harassment.
 (3) Any court which, or any person who, exercises any power conferred by or under this Act must be guided in the exercise of that power by the object specified in subsection (1).
 
@@ -116,8 +116,8 @@ This Act binds the Crown.
 (1) Subject to subsection (4), any person who is being or has been harassed by another person may apply to the court for a restraining order in respect of that other person.
 (2) If the person who is eligible to apply for a restraining order is a minor under 16 years of age, the application must be made by a representative in accordance with section 11(2).
 (3) If the person who is eligible to apply for a restraining order is unable or unwilling, in the circumstances specified in section 13(1)﻿(b), to make the application personally, a representative appointed in accordance with section 13 may make an application on that person's behalf.
-(4) A person who is or has been in a domestic relationship with another person may not apply under this Act for a restraining order in respect of that other person.
-(5) For the purposes of subsection (4), domestic relationship has the same meaning as it has in the Domestic Violence Act 1995.
+(4) A person who is or has been in a family relationship with another person may not apply under this Act for a restraining order in respect of that other person.
+(5) For the purposes of subsection (4), family relationship has the same meaning as it has in the Family Violence Act 2018.
 
 ### 10 Contents of application
 Any application for a restraining order may seek a direction under section 18 that the order apply against a particular person, being a person whom the respondent has encouraged or is encouraging to do any specified act to the applicant.
