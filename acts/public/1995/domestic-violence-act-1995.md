@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-07-01_
 
 > An Act to provide greater protection from domestic violence
 
