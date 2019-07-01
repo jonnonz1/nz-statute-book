@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2018-02-21_
+_Consolidation as at 2019-07-01_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -83,10 +83,10 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
   (a) the defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the violent offender may lead to a charge being brought against him or her under this section; and
   (b) every warning under paragraph (a) in respect of an association with a violent offender is given not more than 7 years after the date of that violent offender's last conviction for an offence involving violence.
 (3) This section does not apply in respect of any habitual association between 2 persons in either of the following circumstances:
-  (a) where a protection order is in force under the Domestic Violence Act 1995, and that order is for the benefit of one of those 2 persons and applies against the other of those 2 persons:
+  (a) where a protection order is in force under the Family Violence Act 2018, and that order is for the benefit of one of those 2 persons and applies against the other of those 2 persons:
   (b) where—
-    (i) both persons are, or have been, in a domestic relationship (as defined by section 4 of that Act) with each other; and
-    (ii) the offences involving violence, the commission of which can reasonably be inferred from that association, are offences that will be committed by one of those persons against the other person, or by one of those persons against a third person who is in a domestic relationship (as so defined) with the other person.
+    (i) both persons are, or have been, in a family relationship (as defined by section 12 of that Act) with each other; and
+    (ii) the offences involving violence, the commission of which can reasonably be inferred from that association, are offences that will be committed by one of those persons against the other person, or by one of those persons against a third person who is in a family relationship (as so defined) with the other person.
 (4) To avoid any doubt, if a person who is a violent offender habitually associates with another violent offender in the circumstances specified in subsection (1), this section does not prevent one or both of those persons from being charged with an offence under this section.
 (5) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 (6) In this section violent offender means a person who has been convicted on at least 2 separate occasions of an offence involving violence.
