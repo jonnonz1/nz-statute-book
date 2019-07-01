@@ -1,5 +1,5 @@
 # Search and Surveillance Act 2012
-_Consolidation as at 2019-06-26_
+_Consolidation as at 2019-07-01_
 
 ### 1 Title
 This Act is the Search and Surveillance Act 2012.
@@ -244,7 +244,7 @@ A constable may, without a warrant, enter and search a vehicle that is in a publ
   (b) he or she, by reason of his or her physical or mental condition (however caused),—
     (i) is incapable of having proper control of the arms; or
     (ii) may kill or cause bodily injury to any person; or
-  (c) that, under the Domestic Violence Act 1995,—
+  (c) that, under the Family Violence Act 2018,—
     (i) a protection order or a police safety order is in force against the person; or
     (ii) there are grounds to make an application against him or her for a protection order.
 (3) A constable may, without a warrant, enter a place or vehicle, search it, seize any arms or any licence under the Arms Act 1983 found there, and detain the arms or licence if he or she has reasonable grounds to suspect that there are arms in the place or vehicle—
