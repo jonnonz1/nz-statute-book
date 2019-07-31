@@ -97,7 +97,7 @@ He aumihi, he tūtohutanga
   (b) ko te tūmanako o Ngāti Rangi ka ū tonu ngā whanaungatanga o Ngāti Rangi ki te Karauna, heoi, kāore ēnei tūmanako i tutuki; otirā
   (c) kua ū a Ngāti Rangi ki te whakatakoto i āna nawe ki mua tonu i te Karauna, heoti anō rā, he nui ngā wā i takahia e te Karauna te Tiriti me ōna mātāpono. Kua pā mai te nui o te mamae ki ngā whakatupuranga o Ngāti Rangi nā te korenga o te Karauna i aro ki ngā nawe o te iwi. Nā konei, e whakaae ana te Karauna ki ēnei kupu e whai ake nei.
 Te Tiriti o Waitangi
-(2) E whakaae ana te Karauna i te wā i waitohutia e ngā rangatira o Ngāti Rangi te Tiriti o Waitangi he whakaū tērā i tō rātou mana motuhake me te tino rangatiranga. E whakaae ana te Karauna e whai ana a Ngāti Rangi ki te whakaū i tōna mana motuhake me te whiri i ngā taura here ki te Karauna, engari, kāore te Karauna i ū ki te whakahōnore i taua whanaungatanga, nā konei, i takahia ngā mōtika o Ngāti Rangi i raro i te Tiriti o Waitangi.
+(2) E whakaae ana te Karauna i te wā i waitohutia e ngā rangatira o Ngāti Rangi te Tiriti o Waitangi he whakaū tērā i tō rātou mana motuhake me te tino rangatiratanga. E whakaae ana te Karauna e whai ana a Ngāti Rangi ki te whakaū i tōna mana motuhake me te whiri i ngā taura here ki te Karauna, engari, kāore te Karauna i ū ki te whakahōnore i taua whanaungatanga, nā konei, i takahia ngā mōtika o Ngāti Rangi i raro i te Tiriti o Waitangi.
 Ngā Ture Hoia
 (3) E whakaae ana te Karauna i whāia ngā ture hoia i te tau 1847 i te wā i hāmenetia ngā taitamariki Māori mō te kōhuru i tētehi whānau Pākehā te take. Āpiti atu, ko te utu nui a Ngāti Rangi, i te tukunga a tō rātou rangatira, a Winiata Te Pūhaki, i tana tamaiti, i a Te Awahuri ki te Karauna. He tohu tēnei o te ngākau pono ki te Karauna.
 1848 Te Hokonga o Whanganui
@@ -1187,8 +1187,8 @@ Statement of purpose
 
 ### 98 Appointments
 (1) Two members of Te Pae Ao must be appointed by the trustees and 2 members must be appointed by the Director-General.
-(2) A member is not appointed unless the appointer gives written notice to the other appointer—
-  (a) of the members proposed for the committee, with the full name, address, and other contact details of each person proposed; and
+(2) A member is not appointed unless the appointer gives written notice to the other appointer of—
+  (a) the members proposed for the committee, with the full name, address, and other contact details of each person proposed; and
   (b) the date on which the appointment takes effect, which must not be earlier than the date of the notice.
 (3) A member may,—
   (a) at the discretion of the appointer, be appointed or reappointed to office, or may be discharged from office:
@@ -1412,7 +1412,7 @@ For the purposes of the Conservation Act 1987, when the Minister of Conservation
   (b) must not be discharged unless all of the appointing organisations agree to the discharge.
 (4) In this subpart, joint committee means a joint committee within the meaning of clause 30(1)﻿(b) of Schedule 7 of the Local Government Act 2002.
 
-### 115 Purpose of Ngā Wai Tōtā
+### 115 Purposes of Ngā Wai Tōtā
 The purposes of Ngā Wai Tōtā are to—
   (a) provide strategic leadership—
     (i) to promote Te Mana Tupua and Ngā Toka Tupua; and
@@ -2398,9 +2398,9 @@ Each relevant local authority must ensure that Te Tāhoratanga is available for 
   (a) approval of the first Te Tāhoratanga; or
   (b) the completion of the previous review of Te Tāhoratanga.
 (3) If Ngā Wai Tōtā considers, as a result of the review, that Te Tāhoratanga should be amended in a material way, the amendment must be prepared and approved in accordance with clauses 2 and 3, with all necessary modifications, as if the review of the document were the preparation of the draft Te Tāhoratanga.
-(4) If Ngā Wai Tōtā considers that Te Tāhoratanga should be amended in a way that is not material, Ngā Wai Tōtā—
-  (a) may approve the amendment; and
-  (b) give public notice of the amendment in accordance with clause 4(1).
+(4) If Ngā Wai Tōtā considers that Te Tāhoratanga should be amended in a way that is not material, Ngā Wai Tōtā may—
+  (a) approve the amendment; and
+  (b) give public notice of the amendment in accordance with clause 4.
 
 ## Schedule 8 — Te Waiū-o-Te-Ika catchment register
 
