@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-07-31_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -309,7 +309,8 @@ Where, in any proceedings before the Tribunal, any party contends that this Act 
   (a) that, on and after the time when the variation or renewal takes effect, the landlord will comply with the healthy homes standards as required by section 45(1)﻿(bb) or 66I(1)﻿(bb) (as the case may be); and
   (b) including the information (if any) prescribed by regulations under section 138B(5).
 (1D) The requirement that the landlord’s statement under subsection (1A) or (1CA) be signed by the landlord is in addition to the requirement under section 13(1) that the landlord sign the tenancy agreement.
-(1DA) The requirement that the landlord’s statement under subsection (1CB) be signed by the landlord is in addition to the requirement under section 13B(1) that the landlord sign the variation or renewal.
+(1DA) However, the landlord’s statements under subsections (1A) and (1CA) can be combined, with the landlord signing once to confirm both statements (in addition to the landlord signing the tenancy agreement).
+(1DB) The requirement that the landlord’s statement under subsection (1CB) be signed by the landlord is in addition to the requirement under section 13B(1) that the landlord sign the variation or renewal.
 (1E) The landlord’s statement under subsection (1A), (1CA), or (1CB) does not affect the landlord’s duties in respect of insulation or the healthy homes standards under section 45(1) or 66I(1) or otherwise.
 (1F) The landlord commits an unlawful act if—
   (a) the landlord fails to comply with subsection (1A), (1CA), or (1CB); or
@@ -2419,8 +2420,38 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
   (b) make provisions applying to all landlords or provisions that apply only to particular descriptions of landlords, premises, areas in New Zealand, or other circumstances.
 (7) In this section, premises, in relation to a tenancy that is not a boarding house tenancy, includes facilities.
 
-### 138C Powers to make regulations under sections 138A and 138B not limited by other enactments
-To avoid doubt, nothing in the Building Act 2004, or in any other enactment relating to buildings, health, or safety, limits the provision that may be made by regulations under section 138A or 138B.
+### 138C Regulations in respect of contaminants and contaminated premises
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing substances, or classes of substances, as contaminants for the purposes of this Act.
+(2) Before making a recommendation for the purposes of subsection (1), the Minister must be satisfied that the substance may be harmful to the health of persons.
+(3) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) prescribing maximum acceptable levels, or a means of calculating maximum acceptable levels, of contaminants for premises for the purposes of the definition of contaminated:
+  (b) prescribing maximum inhabitable levels of contaminants for premises for the purpose of section 59B:
+  (c) imposing on landlords requirements in respect of contaminants for the purposes of section 45(1)﻿(bd) or 66I(1)﻿(bc):
+  (d) prescribing methods for carrying out tests for the presence of contaminants in premises (including for testing premises, taking samples for testing, testing of samples, establishing levels of contaminants present in premises, and who is authorised to carry out the tests or parts of the tests):
+  (e) prescribing decontamination processes (which may extend to pre-decontamination and post-decontamination assessment, sampling, and testing, and may include who is authorised to carry out processes or parts of processes):
+  (f) prescribing, for the purposes of section 45(1AAB)﻿(b) or 66I(1B)﻿(b), additional rules about how decontamination of premises is to be carried out while the landlord continues to provide the premises to the tenant (for example, periods (or means of calculating periods) within which processes or parts of processes must be begun or completed):
+  (g) prescribing processes and duties for the purposes of section 62(3A) (which relates to abandoned goods on contaminated premises).
+(4) Regulations under this section may make different provision for different cases on any differential basis, including—
+  (a) contaminants or classes of contaminants:
+  (b) spaces, materials, or other aspects of premises or goods, or for different descriptions of premises or goods:
+  (c) levels of contamination:
+  (d) without limiting paragraph (b), ways in which premises or goods, or spaces or materials or other aspects (for example, surfaces) of premises or goods, may have or may become contaminated.
+(5) The requirements that may be imposed by regulations under subsection (3)﻿(c) include the following (for example):
+  (a) requirements to test premises for the presence of contaminants in certain circumstances:
+  (b) requirements to use the methods prescribed, or parts of those prescribed methods, for carrying out tests or parts of tests for the presence of contaminants in premises, in all or in certain circumstances:
+  (c) requirements to use prescribed decontamination processes if decontaminating premises.
+(6) Requirements under subsection (5)﻿(a) may apply to, or may be different for, different stages of tenancies (for example, at the commencement of or during a tenancy).
+(7) Regulations under this section, including requirements imposed by regulations under this section, may be subject to exceptions.
+(8) Regulations under subsection (3)﻿(g) may—
+  (a) require compliance with, or otherwise incorporate, sections 62(3) and 62A to 62D—
+    (i) in whole or in part; and
+    (ii) with modifications, additions, or variations specified in the regulations; and
+  (b) without limiting the generality of the above, permit the landlord to decontaminate abandoned goods and deduct from the proceeds of sale the costs of decontaminating the goods that were reasonably incurred by the landlord.
+(9) In this section, premises includes facilities.
+
+### 138D Powers to make regulations under sections 138A to 138C not limited by other enactments, etc
+(1) To avoid doubt, nothing in the Building Act 2004, or in any other enactment relating to buildings, health, or safety, limits the provision that may be made by regulations under section 138A, 138B, or 138C.
+(2) Regulations under section 138B(1) may provide that a provision of any regulations in force under section 120C of the Health Act 1956 that relates to any matter referred to in section 138B(2) does not apply in relation to premises (read in accordance with section 138B(7)) that are subject to tenancies.
 
 ### 139 Regulations relating to accommodation brokers
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -2550,6 +2581,52 @@ Section 17A does not apply to—
   (b) any tenancy agreement entered into before that date (whether the tenancy agreement took effect before or takes effect on or after that date); or
   (c) any assignment or subletting if the landlord consented to the assignment or subletting before that date (whether the assignment or subletting took effect before or takes effect on or after that date); or
   (d) any amount that is charged in relation to a subletting, if the Tribunal consented to the charge before that date.
+
+### Part 4 — Provisions relating to Residential Tenancies Amendment Act 2019
+
+### 15 Interpretation
+In this Part,—
+  - **2019 Amendment Act** means the Residential Tenancies Amendment Act 2019
+  - **amendment** means an amendment to this Act made by a provision of the 2019 Amendment Act
+  - **commencement date** , in relation to an amendment, means the date on which the provision of the 2019 Amendment Act that makes the amendment comes into force
+  - **tenancy** includes a tenancy to which this Act applies as a result of section 4(2) of the 2019 Amendment Act (which replaces the definition of residential premises in section 2(1)) and that subsists on the date on which that amendment came into force.
+
+### 16 Existing tenancies, etc
+(1) An amendment applies to a tenancy whether the tenancy commences before, on, or after the commencement date.
+(2) This clause is subject to clause 19.
+
+### 17 New unlawful acts
+An amendment that creates a new unlawful act does not apply to acts or omissions before the commencement date.
+
+### 18 Proceedings that have commenced
+An amendment does not apply to proceedings commenced before the Tribunal before the commencement date.
+
+### 19 Application of insurance and tenant liability provisions to social housing provider tenancies under existing Property Law Act 2007 leases
+(1) This clause applies only in circumstances where—
+  (a) Housing New Zealand Corporation or a registered community housing provider (a housing provider) is the landlord of residential premises that are the subject of a tenancy agreement; and
+  (b) the housing provider is a lessee of those premises under a lease—
+    (i) to which the Property Law Act 2007 applies; and
+    (ii) that was entered into before the date on which section 5 of the 2019 Amendment Act came into force (and including any renewal term commencing on or after that date if the right of renewal existed in the lease before that date); and
+  (c) the housing provider has no legally enforceable right to require the lessor under that lease to provide the housing provider with the information that the housing provider would need to possess in order to be able to comply with the insurance information sections.
+(2) If this clause applies,—
+  (a) the insurance information sections do not apply to the housing provider; and
+  (b) for the purpose of determining the tenant’s liability under section 49B(2), the premises are treated as not insured against the destruction or damage (so that the applicable limit in section 49B(3)﻿(b) applies).
+(3) In this clause,—
+  - **insurance information sections** means—
+    (a) section 13A(2) to (4) (as inserted by section 5 of the 2019 Amendment Act); and
+    (b) section 45(2B) to (2D) (as inserted by section 7 of the 2019 Amendment Act); and
+    (c) section 66J(5) to (7) (as inserted by section 15 of the 2019 Amendment Act)
+  - **registered community housing provider** has the same meaning as in section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992.
+
+### 20 Transitional provision for continuing tenancy agreement when circumstances in clause 19 cease applying
+(1) This clause applies if clause 19 ceases to apply but the tenancy agreement is continuing, and the tenancy agreement was entered into on or after the date on which section 13A(2) (as inserted by section 5 of the 2019 Amendment Act) came into force.
+(2) For the purpose of section 13A(3), the tenancy agreement is treated as having been entered into before section 13A(2) came into force.
+
+### 21 Application of section 56A(1) to existing tenancies
+Section 56A(1) (as inserted by section 12 of the 2019 Amendment Act) applies to a tenant of a tenancy of premises that are unlawful residential premises immediately after the commencement of section 56A(1) as if the tenancy had started on commencement of that section.
+
+### 22 Application of section 78A to certain work orders
+Section 78A (as inserted by section 19 of the 2019 Amendment Act) does not apply to subsequent proceedings taken for enforcement of a work order made in a matter for which proceedings commenced before the Tribunal before the date on which that section comes into force.
 
 ## Schedule 1 — Clauses for rent increases in fixed-term tenancy agreements
 
