@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2018-12-19_
+_Consolidation as at 2019-08-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -12007,19 +12007,6 @@ This Act amends the Resource Management Act 1991.
   (a) a rule in a proposed plan, if the proposed plan was notified under clause 5 of Schedule 1 of the principal Act before 1 October 2009; and
   (b) a rule in a change, if the change was notified under clause 26(b) of Schedule 1 of the principal Act before 1 October 2009.
 (2) The legal effect of the rule must be determined as if the amendments made by this Act had not been made.
-
-### 152 Existing rules providing for protection of trees
-(1) On 1 January 2012, an existing rule or part of a rule in a district plan or proposed district plan that prohibits or restricts the felling, damaging, or removal of any tree, or group of trees, in an urban environment is revoked without further authority than this section.
-(2) On the commencement of this section, an existing rule or part of a rule in a district plan or proposed district plan that prohibits or restricts the trimming of any tree, or group of trees, in an urban environment is revoked without further authority than this section.
-(3) Subsections (1) and (2) apply unless the rule relates to a tree, or group of trees,—
-  (a) specifically identified in the plan or proposed plan; or
-  (b) located within an area in the district that—
-    (i) is a reserve (within the meaning of section 2(1) of the Reserves Act 1977); or
-    (ii) is subject to a conservation management plan or conservation management strategy prepared in accordance with the Conservation Act 1987 or the Reserves Act 1977.
-(4) Each local authority must, before 1 January 2012,—
-  (a) amend any rule in its plan or proposed plan to which subsection (1) applies; and
-  (b) use the Schedule 1 procedure in the principal Act to make the amendment.
-(5) In this section, urban environment has the meaning given in section 76(4B) of the principal Act.
 
 ### 153 National environmental standards
 The amendments made by this Act apply to a national environmental standard whether the standard was in force before or after the commencement of this section.
