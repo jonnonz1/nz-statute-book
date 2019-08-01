@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-08-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -685,12 +685,12 @@ The local authority shall cause printed copies of all its bylaws under this Act 
 
 ### 69C Application of sections 69S to 69ZC generally
 (1) A drinking-water supplier who, on or after 1 July 2009 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council, commences supplying drinking water using a new drinking-water supply that is a large, medium, minor, small, neighbourhood, or rural agricultural drinking-water supply, must comply with sections 69S to 69ZC in respect of that drinking-water supply, on and after the commencement of supply.
-(2) A networked supplier or operator of a designated port or airport who uses a large drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2009 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
-(3) A networked supplier or operator of a designated port or airport who uses a medium drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2010 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
-(4) A networked supplier or operator of a designated port or airport who uses a minor drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2011 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
-(5) A networked supplier or operator of a designated port or airport who uses a small drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2012 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
-(6) A networked supplier or operator of a designated port or airport who uses a neighbourhood drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2013 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
-(7) Despite subsections (2) to (6), a networked supplier or operator of a designated port or airport who uses a rural agricultural drinking-water supply must comply with sections 69S to 69ZC in respect of that supply on the latest of the following dates:
+(2) A networked supplier who uses a large drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2009 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
+(3) A networked supplier who uses a medium drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2010 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
+(4) A networked supplier who uses a minor drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2011 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
+(5) A networked supplier who uses a small drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2012 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
+(6) A networked supplier who uses a neighbourhood drinking-water supply must comply with sections 69S to 69ZC in respect of that supply, on and after 1 July 2013 or any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
+(7) Despite subsections (2) to (6), a networked supplier who uses a rural agricultural drinking-water supply must comply with sections 69S to 69ZC in respect of that supply on the latest of the following dates:
   (a) 1 July 2013:
   (b) the date on which the drinking-water standards are amended to make specific provision in respect of rural agricultural drinking-water supplies:
   (c) any later date appointed for the purposes of this subsection by the Governor-General by Order in Council.
@@ -702,12 +702,12 @@ The local authority shall cause printed copies of all its bylaws under this Act 
 A bulk supplier must comply with sections 69S to 69ZC in respect of each supply of water made by that supplier to another drinking-water supplier, on and after the date on which any drinking-water supplier to whom the supply is made is required to comply with those sections in respect of their own supply.
 
 ### 69E Application of sections 69S to 69ZC to water carriers
-(1) A water carrier who supplies water provided by a networked supplier or operator of a designated port or airport from a drinking-water supply must comply with sections 69S to 69ZC on and after the date on which the supplier who operates the supply is required to comply with those sections, in respect of that supply.
-(2) A water carrier who provides water from a drinking-water supply operated by a person other than a networked supplier or operator of a designated port or airport must comply with sections 69S to 69ZC on and after a date determined by the medical officer of health and notified in writing to the water carrier.
+(1) A water carrier who supplies water provided by a networked supplier from a drinking-water supply must comply with sections 69S to 69ZC on and after the date on which the supplier who operates the supply is required to comply with those sections, in respect of that supply.
+(2) A water carrier who provides water from a drinking-water supply operated by a person other than a networked supplier must comply with sections 69S to 69ZC on and after a date determined by the medical officer of health and notified in writing to the water carrier.
 
-### 69F Bulk suppliers, networked suppliers, water carriers, and designated ports or airports may elect earlier compliance
-(1) Any bulk supplier, networked supplier, water carrier, or designated port or airport may, by notice in writing to the Director-General, elect to comply with all the provisions of this Part before that person would be required to comply with those provisions under any of sections 69C to 69E.
-(2) If any notice is given to the Director-General under subsection (1) the provisions of this Part apply to the bulk supplier, networked supplier, water carrier, or designated port or airport concerned on and after the date on which the notice is received.
+### 69F Bulk suppliers, networked suppliers, and water carriers may elect earlier compliance
+(1) Any bulk supplier, networked supplier, or water carrier may, by notice in writing to the Director-General, elect to comply with all the provisions of this Part before that person would be required to comply with those provisions under any of sections 69C to 69E.
+(2) If any notice is given to the Director-General under subsection (1) the provisions of this Part apply to the bulk supplier, networked supplier, or water carrier concerned on and after the date on which the notice is received.
 
 **Interpretation**
 
@@ -729,11 +729,10 @@ In this Part, unless the context otherwise requires,—
       (i) a networked supplier to a water carrier; or
       (ii) a water carrier to a networked supplier; or
       (iii) a bulk supplier to a networked supplier; or
-      (iv) a networked supplier to any other networked supplier; or
-      (v) a networked supplier to a designated port or airport; or
-      (vi) any designated port or airport to any networked supplier or to any water carrier
+      (iv) a networked supplier to any other networked supplier
+      (v)
+      (vi)
   - **designated officer** means a person designated under section 7A as a medical officer of health, or as a health protection officer
-  - **designated port or airport** means a port or airport for the time being approved under section 37(1) of the Biosecurity Act 1993 or treated as designated under section 184 of that Act, as a place of first arrival for all craft or craft of specified kinds or descriptions
   - **determinand** means—
     (a) a substance or organism in water in circumstances where the extent to which any water contains that substance or organism may be determined or estimated reasonably accurately; or
     (b) a characteristic or possible characteristic of water in circumstances where the extent to which any water exhibits that characteristic may be determined or estimated reasonably accurately
@@ -754,7 +753,7 @@ In this Part, unless the context otherwise requires,—
       (i) any bottled water that is covered by those standards; or
       (ii) any bottled water that is exported; and
     (c) to avoid doubt, does not include any water used by animals or for irrigation purposes that does not enter a dwellinghouse or other building in which water is drunk by people or in which other domestic and food preparation use occurs
-  - **drinking-water assessor** means a drinking-water assessor appointed under section 69ZK; and includes, in the case of a drinking-water assessor that is an agency, an employee or a contractor of that agency engaged in carrying out the functions of a drinking-water assessor
+  - **drinking-water assessor** means an individual appointed under section 69ZK as a drinking-water assessor
   - **drinking-water emergency declaration** means a declaration under section 69ZZA
   - **drinking-water register** means the register of drinking-water suppliers and supplies maintained under section 69J
   - **drinking-water standards** means—
@@ -765,7 +764,7 @@ In this Part, unless the context otherwise requires,—
     (b) includes (without limitation)—
       (i) a networked supplier; and
       (ii) a water carrier; and
-      (iii) every person who operates a designated port or airport; and
+      (iii)
       (iv) a bulk supplier; and
       (v) any person or class of person declared by regulations made under section 69ZZY to be a drinking-water supplier for the purposes of this Part (a prescribed supplier); but
     (c) does not include—
@@ -777,7 +776,6 @@ In this Part, unless the context otherwise requires,—
     (b) includes, without limitation, a networked reticulation system, a well, a reservoir, or a tanker
   - **large drinking-water supply** means a drinking-water supply that is used to supply drinking water to more than 10 000 people for at least 60 days per year
   - **maximum acceptable value** , in relation to a determinand, means a value stated in the drinking-water standards as the maximum extent to which drinking water may contain or exhibit that determinand without being likely to present a significant risk to an average person consuming that water over a lifetime
-  - **medical officer of health** includes any medical officer of health whose health district includes any place to which any intended action or other thing relates (whether or not the action or thing also has effect in another health district)
   - **medium drinking-water supply** means a drinking-water supply that is used to supply drinking water to between 5 001 and 10 000 people (inclusive) for at least 60 days per year
   - **minor drinking-water supply** means a drinking-water supply that is used to supply drinking water to between 501 and 5 000 people (inclusive) for at least 60 days per year
   - **neighbourhood drinking-water supply** means a drinking-water supply that is used to supply drinking water to—
@@ -816,9 +814,9 @@ In this Part, unless the context otherwise requires,—
       (iii) water that has not entered any pipe, tank, or cistern leading from a source of raw water
   - **rural agricultural drinking-water supply** means—
     (a) a large, medium, minor, small, or neighbourhood drinking-water supply from which 75% or more of the water supplied—
-      (i) is used for the purposes of commercial agriculture; and
+      (i) is used for the purposes of agriculture; and
       (ii) does not enter a dwellinghouse or other building in which water is drunk by people or other domestic and food preparation use occurs; but
-    (b) does not include a drinking-water supply using a single connection to provide water to—
+    (b) does not include that part of a drinking-water supply that uses a single connection to provide water to—
       (i) a town; or
       (ii) a village or other place with a permanent population of 50 people or more that is used primarily for residential purposes
   - **self-supplier** means a person who owns a drinking-water supply that is exclusively used to supply water to—
@@ -854,21 +852,19 @@ In this Part, unless the context otherwise requires,—
   - **working day** has the same meaning as in section 5(1) of the Local Government Act 2002.
 
 ### 69H All practicable steps
-(1) In this Part, all practicable steps, in relation to the achievement of any particular result by a person, means all steps to achieve that result that it is reasonably practicable to take in the circumstances,—
-  (a) having particular regard to—
-    (i) their availability; and
-    (ii) subject to subsection (3), their affordability, in light of the person's financial position; and
-  (b) having regard to—
-    (i) the nature and severity of the harm that may be suffered if the result is not achieved; and
-    (ii) the current state of knowledge about the likelihood that harm of that nature and severity will be suffered if the result is not achieved; and
-    (iii) the current state of knowledge about harm of that nature; and
-    (iv) the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each.
+(1) In this Part, all practicable steps, in relation to the achievement of any particular result by a person, means all steps to achieve that result that it is reasonably practicable to take in the circumstances, taking into account and weighing up all relevant matters, including—
+  (a) the nature and severity of the harm that may be suffered if the result is not achieved; and
+  (b) the current state of knowledge about the likelihood that harm of that nature and severity will be suffered if the result is not achieved; and
+  (c) the current state of knowledge about harm of that nature; and
+  (d) the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each; and
+  (e) their availability; and
+  (f) their affordability, in light of the person’s financial position.
 (2) To avoid doubt, a person required by this Part to take all practicable steps is required to take those steps only in respect of circumstances that the person knows or ought reasonably to know about.
-(3) A person who wishes to rely on subsection (1)﻿(a)﻿(ii) as a reason for not taking any step or steps to achieve a result—
-  (a) must keep a full and complete record of that person's financial position and those of any associated person (as defined in section YA 1 of the Income Tax Act 2007); and
-  (b) if a drinking-water assessor or designated officer asks why the person has failed to take that step or steps, must, as soon as practicable and in any event not more than 28 days later,—
-    (i) tell the assessor or officer that the step or steps are not affordable in light of the person's financial position; and
-    (ii) give a copy of the records referred to in paragraph (a) to the officer or assessor.
+(3) A person who wishes to rely on subsection (1)﻿(f) as a reason for not taking any step or steps to achieve a result—
+  (a) must keep a full and complete record of that person’s financial position and those of any associated person (as defined in section YA 1 of the Income Tax Act 2007); and
+  (b) must, as soon as practicable and in any event not more than 28 days after being so requested by a drinking-water assessor or designated officer,—
+    (i) produce evidence that the step or steps are not affordable, including a copy of the records referred to in paragraph (a); and
+    (ii) justify to the assessor or officer why it was not practicable to take the step or steps.
 
 ### 69I Part binds the Crown
 (1) This Part binds the Crown except as provided in subsection (2).
@@ -880,7 +876,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 69J Drinking-water register
 (1) The Director-General must maintain a register of persons who are—
-  (a) networked suppliers, bulk suppliers, water carriers, operators of designated ports or airports, or prescribed suppliers (specified drinking-water suppliers); or
+  (a) networked suppliers, bulk suppliers, water carriers, or prescribed suppliers (specified drinking-water suppliers); or
   (b) self-suppliers who supply water to community-purpose buildings owned by them (specified self-suppliers).
 (2) The purpose of the register is—
   (a) to enable members of the public to know who is registered as a specified drinking-water supplier or a specified self-supplier and to provide information about their supplies or sources of water; and
@@ -891,7 +887,7 @@ In this Part, unless the context otherwise requires,—
   (b) the nature of the person's drinking-water supply and the maximum daily volume it is capable of delivering:
   (c) the date on which the supplier was registered:
   (d) the source or sources of water used for drinking-water purposes:
-  (e) in the case of a drinking-water supplier, whether that person is a networked supplier, bulk supplier, the operator of a designated port or airport, or a prescribed supplier:
+  (e) in the case of a drinking-water supplier, whether that person is a networked supplier, bulk supplier, or a prescribed supplier:
   (f) any other particulars that may be required by or under this Part or regulations made under section 69ZZY.
 (4) The following particulars must be recorded in the register in respect of every drinking-water supplier registered as a water carrier:
   (a) the name and contact address (including the electronic address, if available) of the carrier:
@@ -909,7 +905,7 @@ In this Part, unless the context otherwise requires,—
   (a) register the person as a specified drinking-water supplier, or a specified self-supplier, and in the case of a person registered as a specified drinking-water supplier, also as—
     (i) a networked supplier; or
     (ii) a water carrier; or
-    (iii) a designated port or airport; or
+    (iii)
     (iv) a bulk supplier; or
     (v) a prescribed supplier; and
   (b) show the date of registration on the register; and
@@ -961,14 +957,14 @@ In this Part, unless the context otherwise requires,—
   (h) any other matters relating to raw water or drinking water that may affect public health.
 (3) Standards issued or adopted under this section—
   (a) may include guideline values for aesthetic determinands for avoiding adverse aesthetic effects in drinking water; and
-  (b) may contain different provisions for different categories of bulk supplier, networked supplier, designated port or airport, or water carrier, or different provisions for each class of drinking-water supplier; but
+  (b) may contain different provisions for different categories of bulk supplier, networked supplier, or water carrier, or different provisions for each class of drinking-water supplier; but
   (c) must not include any requirement that fluoride be added to drinking water.
 (4) Despite section 28 of the State Sector Act 1988, the Minister may not delegate any of the powers conferred by subsection (1).
 (5) Standards issued or adopted under subsection (1) are a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 69P Minister must consult before issuing, adopting, or amending drinking-water standards
-(1) The Minister must not issue, adopt, or amend drinking-water standards unless the Minister is satisfied that adequate consultation has been carried out over a period of at least 3 years with respect to the proposed standards or proposed amendments, including (without limitation)—
-  (a) adequate and appropriate notice of the intention to issue, adopt, or amend the standards published in a daily newspaper in each of the cities of Auckland, Wellington, Christchurch, and Dunedin; and
+(1) The Minister must not issue, adopt, or amend drinking-water standards unless the Minister is satisfied that adequate consultation has been carried out with respect to the proposed standards or proposed amendments, including (without limitation)—
+  (a) adequate and appropriate notice of the intention to issue, adopt, or amend the standards published in accordance with subsection (3); and
   (b) a reasonable opportunity for interested persons to make submissions; and
   (c) appropriate consideration of any submissions received.
 (2) Despite subsection (1), the Minister is not required to consult anyone if the Minister is satisfied that—
@@ -976,6 +972,10 @@ In this Part, unless the context otherwise requires,—
     (i) urgently; or
     (ii) to deal with transitional issues; or
   (b) the amendment is minor and will not adversely and substantially affect the interest of any person.
+(3) The notice under subsection (1)﻿(a) must be published—
+  (a) on an Internet site to which the public has free access; or
+  (b) in 1 or more newspapers circulating in the area likely to be affected by the matter to which the notice relates.
+(4) The Minister may also publish the notice in any other way the Minister considers desirable.
 
 ### 69Q Drinking-water standards must be notified and made available
 (1) As soon as practicable after drinking-water standards are issued, adopted, or amended, the Minister must ensure that a notice is published in the Gazette that—
@@ -985,14 +985,12 @@ In this Part, unless the context otherwise requires,—
 (3) The Director-General must ensure that current copies of drinking-water standards are available for inspection by members of the public free of charge.
 
 ### 69R Commencement of drinking-water standards
-Drinking-water standards (and any amendments to those standards) come into force on a day specified in a notice under section 69Q(1) that is,—
-  (a) unless paragraph (b) applies, at least 2 years after the date of publication of that notice in the Gazette; or
-  (b) if section 69P(2) applies to the standards or amendments, at least 28 days after the date of publication of that notice in the Gazette.
+Drinking-water standards (and any amendments to those standards) come into force on a day specified in a notice under section 69Q(1) that is at least 28 days after the date of publication of that notice in the Gazette.
 
 **Duties of drinking-water suppliers and temporary drinking-water suppliers**
 
 ### 69S Duty of suppliers in relation to provision of drinking water
-(1) Every networked supplier, bulk supplier, and water carrier must take all practicable steps to ensure that an adequate supply of drinking water is provided to each point of supply to which that supplier supplies drinking water.
+(1) Every networked supplier, bulk supplier, and water carrier must ensure that an adequate supply of drinking water is provided to each point of supply to which that supplier supplies drinking water.
 (2) Subsection (1) does not—
   (a) require a networked supplier or a bulk supplier to ensure the uninterrupted provision of drinking water to all points of supply at all times; or
   (b) prevent a networked supplier or a bulk supplier restricting or interrupting the provision of drinking water to any point of supply, if, in the opinion of the supplier, such action is necessary for the purposes—
@@ -1022,16 +1020,11 @@ If any drinking-water supplier considers that its ability to maintain an adequat
   (b) protect from contamination all raw water used by that drinking-water supplier.
 (2) Every drinking-water supplier who is a bulk supplier or a networked supplier must take reasonable steps to protect from pollution all aspects of the drinking-water supply system of that drinking-water supplier.
 (3) Every drinking-water supplier who is a water carrier must take reasonable steps to protect from contamination or pollution all aspects of the water supply operation of that water carrier.
-(4) Examples of things that may, depending on the circumstances, constitute, or contribute towards, the taking of reasonable steps under subsection (1) include—
-  (a) the making of submissions on—
-    (i) processes governed by the Resource Management Act 1991 (including discussion papers, and draft proposed and notified regional and district plans, in relation to issues that may affect drinking water); and
-    (ii) where notified, resource consent applications relating to issues that may affect drinking water; and
-  (b) the making of submissions on community outcomes and sanitary services assessments under the Local Government Act 2002 in relation to issues that may affect drinking water; and
-  (c) contributing, directly or indirectly, to improved catchment management whether by planting of trees, promoting and assisting the use of integrated water resources management, or through other means.
+(4)
 
-### 69V Duty to take all practicable steps to comply with drinking-water standards
-(1) Every drinking-water supplier must take all practicable steps to ensure that the drinking water supplied by that supplier complies with the drinking-water standards.
-(2) A drinking-water supplier complies with subsection (1) if the supplier implements those provisions of the supplier's approved water safety plan relating to the drinking-water standards.
+### 69V Duty to comply with drinking-water standards
+(1) Every drinking-water supplier must ensure that the drinking water supplied by that supplier complies with the drinking-water standards.
+(2) A drinking-water supplier complies with subsection (1) if the supplier implements those provisions of the supplier's approved water safety plan relating to the drinking-water standards to the satisfaction of a drinking-water assessor.
 (3) Subsection (2) does not limit the ways in which a drinking-water supplier is able to comply with subsection (1).
 (4) Subsection (1) applies to each drinking-water supplier subject to any exemption or variation that has been granted to that supplier under section 69ZZD(2)﻿(k).
 (5) Subsection (1) does not apply to those drinking-water standards that are identified in those standards as guideline values for aesthetic determinands for avoiding adverse aesthetic effects in drinking water.
@@ -1084,7 +1077,10 @@ Before connecting a new source of raw water to the drinking-water supply, a drin
 (7) If a drinking-water assessor does not approve a water safety plan, the assessor must notify the drinking-water supplier and give reasons for the non-approval.
 (8) Every drinking-water supplier must—
   (a) take all practicable steps to ensure that the supplier's water safety plan is approved under subsection (5) within a 12-month period after the date on which this section begins to apply to the supplier (excluding any specified period referred to in subsection (5)﻿(a)﻿(ii) or (iii)):
-  (b) start to implement a water safety plan within 1 month after the date on which that risk management plan is approved under subsection (5).
+  (b) start to implement a water safety plan within 1 month after the date on which that plan is approved under subsection (5):
+  (c) take all reasonable steps to—
+    (i) comply with the timetable set out in the supplier’s water safety plan in accordance with subsection (2)﻿(a)﻿(v) and (b)﻿(iv); and
+    (ii) manage and control the critical points identified in the supplier’s water safety plan.
 (9) This section does not apply to a drinking-water supplier who supplies drinking water from a small drinking-water supply or a neighbourhood drinking-water supply.
 
 ### 69ZA Medical officer of health may require preparation and implementation of water safety plan
@@ -1151,9 +1147,10 @@ Every drinking-water supplier who receives a complaint about the quality (includ
   (b) if the complaint relates to a failure to meet the drinking-water standards and is upheld, take the appropriate remedial action specified in section 69ZF.
 
 ### 69ZF Duty to take remedial action if drinking-water standards breached
-Every drinking-water supplier who becomes aware that the drinking water supplied by that supplier, or, as the case requires, transported by that supplier in the supplier's capacity as a water carrier, is not meeting the drinking-water standards must—
+(1) Every drinking-water supplier who becomes aware that the drinking water supplied by that supplier, or, as the case requires, transported by that supplier in the supplier's capacity as a water carrier, is not meeting the drinking-water standards must—
   (a) take all practicable steps to carry out the appropriate remedial action set out in the drinking-water standards to correct the problem; or
   (b) if no remedial action is set out in the drinking-water standards, take all practicable steps to correct the problem.
+(2) If a drinking-water supplier implementing provisions of an approved water safety plan for the purpose of section 69V(2) becomes aware of a risk to the drinking-water supply, the supplier must take all practicable steps to correct the problem.
 
 ### 69ZG Duty to provide reasonable assistance to drinking-water assessors, designated officers, and medical officers of health
 (1) Every drinking-water supplier must, at all reasonable times, provide—
@@ -1188,13 +1185,13 @@ Every drinking-water supplier who becomes aware that the drinking water supplied
 **Drinking-water assessors and designated officers**
 
 ### 69ZK Director-General may appoint drinking-water assessors
-(1) The Director-General may appoint 1 or more persons or agencies as drinking-water assessors on any terms and conditions that the Director-General considers appropriate (including, without limitation, terms enabling the Director-General to suspend or revoke the appointment in any specified circumstances).
-(2) Before appointing a person or agency as a drinking-water assessor, the Director-General must be satisfied that the person or agency—
+(1) The Director-General may appoint 1 or more individuals as drinking-water assessors on any terms and conditions that the Director-General considers appropriate (including, without limitation, terms enabling the Director-General to suspend or revoke the appointment in any specified circumstances).
+(2) Before appointing an individual as a drinking-water assessor, the Director-General must be satisfied that the individual—
   (a) has the experience, technical competence, and other qualifications to undertake the functions of a drinking-water assessor; and
-  (b) is accredited to internationally accepted standards for inspection bodies to perform the functions specified in section 69ZL; and
+  (b)
   (c) has in place effective arrangements to avoid or manage any conflicts of interest that may arise.
-(3) A drinking-water assessor that is an agency carries out the functions of a drinking-water assessor through those of its employees and contractors who are accredited in the manner referred to in subsection (2)﻿(b), and those employees and contractors have all the powers of a drinking-water assessor.
-(4) No person appointed by the Director-General under subsection (1) to be a drinking-water assessor is, because of that appointment, employed in the Public Service for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
+(3)
+(4) No individual appointed by the Director-General under subsection (1) to be a drinking-water assessor is, because of that appointment, employed in the Public Service for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956.
 
 ### 69ZL Functions of drinking-water assessors
 (1) The functions of a drinking-water assessor are—
@@ -1250,7 +1247,7 @@ The functions of designated officers are—
 
 ### 69ZP Powers of drinking-water assessors and designated officers
 (1) For the purpose of performing any function as a drinking-water assessor or designated officer, a drinking-water assessor or designated officer may—
-  (a) enter any land, building, vehicle, vessel, or rail wagon that is owned, occupied, or used by any drinking-water supplier, or any land that is a catchment for a source of water used by a drinking-water supplier, at any reasonable time, for the purpose of exercising any of the powers set out in this section; and
+  (a) exercise the powers in sections 128 and 128A for that purpose in their own right (whether or not they hold any office or authorisation referred to in section 128), as long as they comply with sections 69ZR (which restricts the exercise of their powers) and 69ZS (which requires a warrant to enter a dwellinghouse); and
   (b) inspect, at all reasonable times, all records and documents of every description in the possession or control of a drinking-water supplier that are required to be kept under section 69ZD, and make copies of, or take extracts from, those records and documents; and
   (c) require a drinking-water supplier to supply any information or answer any question relating to that drinking-water supplier's—
     (i) compliance with this Part; and
@@ -1284,7 +1281,7 @@ The functions of designated officers are—
   (b) must not exercise any power conferred by section 69ZP(1)﻿(g) unless he or she takes all practicable steps to ensure that—
     (i) the power is exercised in the presence of a representative of the drinking-water supplier concerned; and
     (ii) a duplicate sample is given to that representative or left at the premises; and
-  (c) must not, in the case of a drinking-water assessor or designated officer who is not a medical officer of health, exercise any power conferred by section 69ZP(1)﻿(a), unless that assessor or officer has obtained, in respect of the particular exercise of the power, the written approval of a medical officer of health; and
+  (c) must not, in the case of a drinking-water assessor, exercise any power conferred by section 69ZP(1)﻿(a), unless that assessor has obtained, in respect of the particular exercise of the power, the written approval of a medical officer of health; and
   (d) must, if a large drinking-water supplier considers that a proposed exercise of any power under section 69ZP will place its water supply at risk and advises the assessor or officer of that opinion in writing, consult with an expert nominated for the purpose by the Director-General, before exercising the power; and
   (e) in a case where the assessor or officer proposes to exercise the power conferred by section 69ZP to enter a dwellinghouse, must not exercise that power unless he or she has obtained a warrant under section 69ZS.
 (2) Despite section 69ZP, neither a drinking-water assessor nor a designated officer may enter any land or building that is a defence area (within the meaning of section 2(1) of the Defence Act 1990) except in accordance with a written agreement between the Director-General and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
@@ -1330,13 +1327,13 @@ If any thing is seized by a drinking-water assessor or designated officer under 
 (3) The Director-General must, after seeking any advice that he or she considers necessary, confirm, vary, or reverse the decision of the drinking-water assessor.
 
 ### 69ZX Register of drinking-water assessors
-(1) The Director-General must maintain a register of agencies who have been appointed as drinking-water assessors.
-(2) The following particulars must be recorded in the register in respect of every agency registered as a drinking-water assessor:
-  (a) the agency's name and business contact details; and
-  (b) the date and term of the agency's appointment; and
-  (c) any conditions on the agency's appointment; and
+(1) The Director-General must maintain a register of individuals who have been appointed as drinking-water assessors.
+(2) The following particulars must be recorded in the register in respect of every individual registered as a drinking-water assessor:
+  (a) the individual’s name and any business contact details; and
+  (b) the date and term of the individual’s appointment; and
+  (c) any conditions on the individual’s appointment; and
   (d) any other particulars that may be required by or under this Part or regulations made under section 69ZZY.
-(3) The register may also include any other information relevant to an agency's appointment as a drinking-water assessor that the Director-General considers appropriate.
+(3) The register may also include any other information relevant to an individual’s appointment as a drinking-water assessor that the Director-General considers appropriate.
 
 **Recognised laboratories**
 
@@ -1674,7 +1671,7 @@ Despite anything to the contrary in section 25 of the Criminal Procedure Act 201
 (3) The Director-General must supply to any person a copy of all or part of any register that is required to be kept under this Part, on request, and on payment of a reasonable charge for the production of the copy.
 
 ### 69ZZZB Director-General must publish annual report
-(1) The Director-General must prepare and publish a report on drinking water before 1 July in each year.
+(1) The Director-General must ensure that a report on drinking water is prepared and published, by or on behalf of the Director-General, before 1 July in each year.
 (2) A report under subsection (1) must include information about—
   (a) the quality of drinking water supplied by each drinking-water supplier (other than neighbourhood drinking-water suppliers), including whether that drinking water is potable; and
   (b) the compliance or non-compliance of those drinking-water suppliers with this Part and the drinking-water standards.
