@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-08-01_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Criminal Proceeds (Recovery) Act 2009, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -88,7 +88,7 @@ _Consolidation as at 2019-07-01_
   (h)
   (ha)
   (i)
-  (j) the Racing Industry Transition Agency continued by section 7 of the Racing Act 2003.
+  (j)
   (k)
   (l)
   (la)
