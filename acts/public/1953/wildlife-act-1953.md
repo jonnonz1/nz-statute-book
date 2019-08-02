@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2019-08-02_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -1441,9 +1441,9 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 |  | Paradise shelduck (Tadorna variegata) |
 | Partridge: |  |
 |  | Grey partridge (Perdix perdix): except on Chatham Islands |
-|  | Red-legged partridge (Alectoris rufa rufa): except on Chatham Islands |
+|  | Red-legged partridge (Alectoris rufa rufa), except—aon Chatham Islands; andbwithin the areas (commonly known as upland game preserves) specified in Part 2 of Schedule 3 |
 | Pheasant: |  |
-|  | any bird, not being a domestic bird, of the genus Phasianus and any cross of any such bird with any other species, variety, or kind of pheasant: except on Chatham Islands |
+|  | any bird, not being a domestic bird, of the genus Phasianus and any cross of any such bird with any other species, variety, or kind of pheasant, except—aon Chatham Islands; and bwithin the areas (commonly known as upland game preserves) specified in Part 2 of Schedule 3 |
 | Pukeko (Porphyrio melanotus): except on Chatham Islands |  |
 | Quail: |  |
 |  | Bobwhite quail (Colinus virginianus): except on Chatham Islands |
@@ -1453,6 +1453,8 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 ## Schedule 2 — Partially protected wildlife
 
 ## Schedule 3 — Wildlife that may be hunted or killed subject to Minister's notification
+
+### Part 1 — Wildlife that may be hunted or killed subject to conditions
 
 | Australasian harrier (harrier hawk) (Circus approximans) |  |
 | --- | --- |
@@ -1464,11 +1466,11 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 |  | Mallard duck (Anas platyrhynchos) and any cross of that species with any other species, variety, or kind of duck (on Chatham Islands only) |
 | Grey-faced petrel (northern mutton bird) (Pterodroma macroptera) |  |
 | Mute swan (Cygnus olor) |  |
-| Partridge— |  |
+| Partridge: |  |
 |  | Grey partridge (Perdix perdix): on Chatham Islands only |
-|  | Red-legged partridge (Alectoris rufa rufa): on Chatham Islands only |
-| Pheasant— |  |
-|  | any bird, not being a domestic bird, of the genus Phasianus and any cross of any such bird with any other species, variety, or kind of pheasant: on Chatham Islands only |
+|  | Red-legged partridge (Alectoris rufa rufa)—aon Chatham Islands; andbwithin the areas (commonly known as upland game preserves) specified in Part 2 of this schedule |
+| Pheasant: |  |
+|  | any bird, not being a domestic bird, of the genus Phasianus and any cross of any such bird with any other species, variety, or kind of pheasant—aon Chatham Islands; and bwithin the areas (commonly known as upland game preserves) specified in Part 2 of this schedule |
 | Pukeko (Porphyrio melanotus): on Chatham Islands only |  |
 | Quail— |  |
 |  | Bobwhite quail (Colinus virginianus): on Chatham Islands only |
@@ -1482,6 +1484,8 @@ Except where this Act otherwise provides, nothing in this Act shall derogate fro
 | Weka— |  |
 |  | South Island weka (Gallirallus): on Chatham Islands only |
 |  | Stewart Island weka (Gallirallus): on islets off Stewart Island and in Foveaux Strait only |
+
+### Part 2 — Specified areas (commonly known as upland game preserves) where certain wildlife may be hunted or killed subject to conditions
 
 ## Schedule 4 — Wildlife not protected, except in areas and during periods specified in Minister's notification
 
