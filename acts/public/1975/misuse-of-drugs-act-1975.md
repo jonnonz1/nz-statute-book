@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2018-12-18_
+_Consolidation as at 2019-08-13_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -14,8 +14,8 @@ _Consolidation as at 2018-12-18_
   - **CBD product** has the meaning given in section 2A
   - **Class A controlled drug** means the controlled drugs specified or described in Schedule 1
   - **Class B controlled drug** means the controlled drugs specified or described in Schedule 2
-  - **Class C controlled drug** means the controlled drugs specified or described in Schedule 3; and includes any controlled drug analogue
-  - **controlled drug** means any substance, preparation, mixture, or article specified or described in Schedule 1, Schedule 2, or Schedule 3; and includes any controlled drug analogue
+  - **Class C controlled drug** means the controlled drugs specified or described in Schedule 3; and includes any temporary class drug and any controlled drug analogue
+  - **controlled drug** means any substance, preparation, mixture, or article specified or described in Schedule 1, Schedule 2, or Schedule 3; and includes any temporary class drug and any controlled drug analogue
   - **controlled drug analogue** means any substance, such as the substances specified or described in Part 7 of Schedule 3, that has a structure substantially similar to that of any controlled drug; but does not include—
     (a) any substance specified or described in Schedule 1 or Schedule 2 or Parts 1 to 6 of Schedule 3; or
     (b) any pharmacy-only medicine or prescription medicine or restricted medicine within the meaning of the Medicines Act 1981; or
@@ -61,6 +61,7 @@ _Consolidation as at 2018-12-18_
     (b) holds a current practising certificate
   - **standing order** has the same meaning as it has in section 2(1) of the Medicines Act 1981
   - **supply** includes distribute, give, and sell
+  - **temporary class drug** means any substance, preparation, mixture, or article specified as a temporary class drug by an order made under section 4C
   - **veterinarian** means a veterinarian or a specialist within the meaning of section 4 of the Veterinarians Act 2005
   - **Vienna Convention** means the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances adopted in Vienna on 19 December 1988.
 (1A) Any reference in this Act to an amount, level, or quantity at and over which a controlled drug is presumed to be for supply is a reference to the amount, level, or quantity specified in Schedule 5.
@@ -153,14 +154,54 @@ The classification of a drug under this Act is based on the risk of harm the dru
   (b) the amount, level, or quantity at and over which the drug is presumed to be for supply in other jurisdictions; and
   (c) any other matters that the Minister considers relevant.
 
+### 4C Temporary class drug order
+(1) The Minister may, by an order published in the Gazette, specify any substance, preparation, mixture, or article as a temporary class drug.
+(2) The Minister must not make an order if the substance, preparation, mixture, or article is already a Class A controlled drug, a Class B controlled drug, a Class C controlled drug (except a controlled drug analogue), or a precursor substance.
+(3) The Minister must not make an order unless satisfied that the substance, preparation, mixture, or article that is to be specified in the order—
+  (a) poses, or may pose, a risk of harm to individuals or to society; and
+  (b) has not been classified under this Act, except as a controlled drug analogue.
+(4) An order may describe the substance, preparation, mixture, or article by either or both of the following:
+  (a) its chemical name, or one of its chemical names:
+  (b) a description of the substance, preparation, mixture, or article, in the form that the Minister considers appropriate for the purposes of the order.
+(5) An order must state the date on which the order comes into force, and that date must not be earlier than the day after the date of the publication of the order in the Gazette.
+
 ### 4C Temporary class drug notice
 [Repealed]
+
+### 4D Effect of temporary class drug order
+(1) This section applies to every temporary class drug while it remains subject to a temporary class drug order.
+(2) The temporary class drug must be treated for all purposes as if the drug were a controlled drug that is specified or described in Part 1 of Schedule 3.
+(3) See section 7(5) for a prosecutorial discretion that applies to possession and use offences for all controlled drugs (including temporary class drugs).
+(4) A substance that has a structure substantially similar to the temporary class drug must not be treated as a controlled drug analogue just because of that similarity.
 
 ### 4D Effect of temporary class drug notice
 [Repealed]
 
+### 4E Further action relating to temporary class drugs
+(1) While a temporary class drug order is in place, the Minister must seek advice, as the Minister considers appropriate, under section 5 or 5AA (or both) about the temporary class drug and its appropriate classification (if any, including as a precursor substance) under this Act.
+(2) As soon as possible after the publication of a temporary class drug order in the Gazette, the Director-General of Health must ensure that, while the order remains in force, both the order and information about its effects are available—
+  (a) on the Ministry of Health's Internet site, in an electronic form that is publicly accessible; and
+  (b) in any other way that the Director-General considers appropriate in the circumstances.
+
 ### 4E Duration of temporary class drug notice
 [Repealed]
+
+### 4F Duration of temporary class drug order
+(1) A temporary class drug order expires at the earliest of—
+  (a) the close of the day that is 1 year after the date on which the order came into force; and
+  (b) the date on which the substance, preparation, mixture, or article is—
+    (i) classified as a Class A controlled drug; or
+    (ii) classified as a Class B controlled drug; or
+    (iii) classified as a Class C controlled drug; or
+    (iv) added to Schedule 4 as a precursor substance; and
+  (c) its revocation by the Minister by order in the Gazette.
+(2) A temporary class drug order may be renewed by the Minister—
+  (a) before the date of its expiry as calculated under subsection (1); and
+  (b) on 1 occasion only; and
+  (c) only for the purpose of allowing sufficient time for the Minister to obtain the advice that is to be sought under section 4E(1).
+
+### 4G Status of temporary class drug order
+A temporary class drug order is a disallowable instrument but not a legislative instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 5 Advisory and technical committees
 (1) The Minister may from time to time appoint such advisory or technical committees as he thinks fit to advise him for any of the purposes of this Act, and may from time to time determine the functions of any such committee.
@@ -241,6 +282,8 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (b) that, knowing or suspecting it to be a controlled drug, he took possession of it for the purpose of delivering it into the possession of a person lawfully entitled to have possession of it and that as soon as possible after taking possession of it he took all reasonable steps to deliver it into the possession of such a person.
 (3A) In any proceedings for an offence against subsection (1)﻿(a) in respect of possessing or using any plant or plant material of the genus Cannabis or any cannabis preparation, the defendant has a defence if, at the time of the possession or use, the defendant had been diagnosed by a medical practitioner or nurse practitioner as requiring palliation.
 (4) Nothing in subsection (3) or (3A) shall prejudice any defence which it is open to a person charged with an offence against this section to raise apart from that subsection.
+(5) To avoid doubt, it is affirmed that there is a discretion to prosecute for an offence against subsection (1)﻿(a), and a prosecution should not be brought unless it is required in the public interest.
+(6) When considering whether a prosecution is required in the public interest, in addition to any other relevant matters, consideration should be given to whether a health-centred or therapeutic approach would be more beneficial to the public interest.
 
 ### 8 Exemptions from sections 6 and 7
 (1) Despite sections 6 and 7,—
@@ -887,6 +930,8 @@ Amendment(s) incorporated in the Act(s).
 
 ### 1 The following substances, namely:
 - **Acetorphine** (03-acetyl-7,8-dihydro-7 α-[1 (R)-hydroxy-1-methylbutyl]-06-methyl-6,14-endoethenomorphine)
+- **5F-ADB** Methyl (2S)-2-{[1-(5-fluoropentyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate
+- **AMB-FUBINACA** Methyl (2S)-2-({1-[(4-fluorophenyl)methyl]-1H-indazole-3-carbonyl}amino)-3-methylbutanoate
 - **Bufotenine** (3-(2-dimethylaminoethyl)-5-hydroxyindole)
 - **Cantharidin** (hexahydro-3a,7a-dimethyl-4,7-epoxyisobenzofuran-1,3-dione)
 - **Cocaine** (methyl ester of benzoylecgonine), except when contained in a Class C controlled drug
