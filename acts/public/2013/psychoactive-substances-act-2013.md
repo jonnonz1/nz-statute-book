@@ -1,5 +1,5 @@
 # Psychoactive Substances Act 2013
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-08-13_
 
 ### 1 Title
 This Act is the Psychoactive Substances Act 2013.
@@ -147,6 +147,7 @@ In this Act, unless the context otherwise requires,—
 (3) Despite subsections (1) and (2), psychoactive substance does not include—
   (a) a controlled drug specified or described in Schedule 1, 2, or 3 of the Misuse of Drugs Act 1975:
   (b) a precursor substance specified or described in Schedule 4 of the Misuse of Drugs Act 1975:
+  (ba) a substance, preparation, mixture, or article specified by an order made under section 4C of the Misuse of Drugs Act 1975 as a temporary class drug:
   (c) a medicine within the meaning of section 3 of the Medicines Act 1981 or a related product within the meaning of section 94 of that Act:
   (d) a herbal remedy (within the meaning of section 2(1) of the Medicines Act 1981):
   (e) a dietary supplement (within the meaning of regulation 2A of the Dietary Supplements Regulations 1985):
