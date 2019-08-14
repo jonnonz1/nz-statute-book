@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-08-14_
 
 > Title
 
@@ -544,6 +544,8 @@ For the purposes of section 38,—
   (c) during a period of 6 months immediately before the supplier so acted, the supplier became aware of a matter or circumstance capable of constituting a reason referred to in section 37(3)﻿(d) or (e),—
 (2) Nothing in subsection (1) applies in respect of terms imposed by a supplier that are disadvantageous or treatment that is less favourable than the supplier accords other persons if the terms or treatment consists only of a requirement by the supplier as to the time at which, or the form in which, payment was to be made or as to the giving of security to secure payment.
 
+**Exceptions to Part 2**
+
 ### 43 Statutory exceptions
 (1) Nothing in this Part applies in respect of any act, matter, or thing that is, or is of a kind, specifically authorised by any enactment or Order in Council made under any Act.
 (2) For the purposes of subsection (1), an enactment or Order in Council does not provide specific authority for an act, matter, or thing if it provides in general terms for that act, matter, or thing, notwithstanding that the act, matter, or thing requires or may be subject to approval or authorisation by a Minister of the Crown, statutory body or a person holding any particular office, or, in the case of a rule made or an act, matter, or thing done pursuant to any enactment, approval or authorisation by Order in Council.
@@ -565,10 +567,39 @@ For the purposes of section 38,—
 (1A) Nothing in this Part (except sections 36 and 36A) applies to—
   (a) the entering into of a contract or arrangement, or arriving at an understanding, or the giving or requiring the giving of a covenant, if the only parties, or (in the case of a covenant or proposed covenant) the only persons who are or would be respectively bound by, or entitled to the benefit of, the covenant or proposed covenant, are, or would be, interconnected bodies corporate:
   (b) any act done to give effect to a provision of a contract, arrangement, or understanding, or to a covenant referred to in paragraph (a).
-(2) Nothing in this Part applies—
-  (a) to the entering into of a contract, or arrangement, or arriving at an understanding in so far as it contains a provision exclusively for the carriage of goods by sea from a place in New Zealand to a place outside New Zealand or from a place outside New Zealand to a place in New Zealand; or
-  (b) to any act done to give effect to a provision of a contract, arrangement, or understanding referred to in paragraph (a).
-(3) For the purposes of subsection (2), a provision of a contract, arrangement, or understanding is not a provision exclusively for the carriage of goods by sea if it relates to the carriage of goods to or from a ship or the loading or unloading of a ship.
+(2)
+(3)
+
+### 44A Exceptions in relation to international liner shipping services
+(1) Nothing in section 27(1) applies to a person in relation to a provision of a contract, arrangement, or understanding if, at the time of entering into or arriving at the contract, arrangement, or understanding, the circumstances in subsection (6) apply.
+(2) Nothing in section 27(2) applies to a person in relation to a provision of a contract, arrangement, or understanding if, at the time of giving effect to the provision, the circumstances in subsection (6) apply.
+(3) Nothing in section 27(4) affects the enforceability of a provision in any contract to which subsection (1) or (2) applies.
+(4) Nothing in section 30(a) applies to a person in relation to a cartel provision that has the effect, or likely effect, of restricting output or market allocating if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision, the circumstances in subsection (6) apply.
+(5) Nothing in section 30(b) applies to a person in relation to a cartel provision that has the effect, or likely effect, of restricting output or market allocating if, at the time of giving effect to the provision, the circumstances in subsection (6) apply.
+(6) The circumstances are that—
+  (a) the person and all other parties to the contract, arrangement, or understanding that contains the provision are supplying an international liner shipping service in co-operation with each other; and
+  (b) the co-operation improves the service supplied to owners or consignors of goods carried at sea; and
+  (c) the provision relates to—
+    (i) a specified activity carried out for the purposes of the co-operation; or
+    (ii) an activity ancillary to a specified activity that is reasonably necessary for the purposes of the co-operation.
+(7) For the purposes of subsection (6)﻿(a), parties to the contract, arrangement, or understanding excludes persons who are parties only because section 30B(a) applies.
+(8) In this section,—
+  - **specified activity** means any of the following:
+    (a) the co-ordination of schedules and the determination of port calls:
+    (b) the exchange, sale, hire, or lease (including the sublease) of space on a ship:
+    (c) the pooling of ships to operate a network:
+    (d) the sharing or exchanging of equipment such as containers:
+    (e) capacity adjustments in response to fluctuations in supply and demand for international liner shipping services.
+
+### 44B Further exception in relation to international liner shipping services (price fixing in relation to space on ship)
+(1) Nothing in section 30(a) applies to a person in relation to a cartel provision that has the effect, or likely effect, of price fixing if, at the time of entering into or arriving at the contract, arrangement, or understanding that contains the provision, the circumstances in subsection (3) apply.
+(2) Nothing in section 30(b) applies to a person in relation to a cartel provision that has the effect, or likely effect, of price fixing if, at the time of giving effect to the provision, the circumstances in subsection (3) apply.
+(3) The circumstances are that—
+  (a) the person and all other parties to the contract, arrangement, or understanding that contains the cartel provision are supplying an international liner shipping service in co-operation with each other; and
+  (b) the co-operation improves the service supplied to owners or consignors of goods carried at sea; and
+  (c) the provision relates to the exchange, sale, hire, or lease (including the sublease) of space on a ship between the person and 1 or more parties to the contract, arrangement, or understanding; and
+  (d) the exchange, sale, hire, or lease (including the sublease) is carried out for the purposes of the co-operation.
+(4) For the purposes of subsection (3)﻿(a), parties to the contract, arrangement, or understanding excludes persons who are parties only because section 30B(a) applies.
 
 ### 45 Exceptions in relation to intellectual property rights
 (1) Nothing in this Part, except sections 36, 36A, 37, and 38, applies—
@@ -3141,12 +3172,7 @@ For the purposes of this Act, the Commission may from time to time prescribe for
 Section 58A(1) and (2) applies to an authorisation that is given either before or after section 12 of the Amendment Act 2017 comes into force.
 
 ### 4 Transitional provision relating to amendments to Shipping Act 1987
-(1) This clause applies to a contract, arrangement, or understanding, or to a proposed contract, arrangement, or understanding, in so far as it contains a provision to which the exception in section 44(2) applies.
-(2) At any time before section 33 of the Amendment Act 2017 comes into force, any carrier (as defined in section 2 of the Shipping Act 1987) who is a party to the contract, arrangement, or understanding may apply to the Commission for the following:
-  (a) an authorisation under section 58, in which case the Commission may grant the authorisation in accordance with that section:
-  (b) a clearance under section 65A, in which case the Commission may grant the clearance in accordance with that section, except that the clearance may be granted in respect of a contract, arrangement, or understanding that has already been entered into or arrived at (and not just in relation to proposed contracts, arrangements, or understandings).
-(3) This clause is repealed at the close of the day immediately before section 33 of the Amendment Act 2017 comes into force.
-(4) Despite the repeal of this clause, any application made pursuant to subclause (2) before its repeal may continue to be dealt with by the Commission as if the clause had not been repealed.
+[Repealed]
 
 ### 5 Transitional provision for offences and contraventions under repealed or amended provisions
 (1) This clause applies to an offence committed under, or a contravention of, any provision of this Act repealed or amended by the Amendment Act 2017 before the commencement of the provision that repealed or amended that provision.
