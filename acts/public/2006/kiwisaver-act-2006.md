@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-08-27_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -32,9 +32,6 @@ This Act is the KiwiSaver Act 2006.
   - **Crown contribution** means—
     (a) the contribution made by the Crown under section 226:
     (b) the amount of tax credit under section MK 1 of the Income Tax Act 2007 that is treated as a Crown contribution for a member under section MK 5 of that Act
-  - **CYPFA guardian** , of a person, means any other person—
-    (a) appointed by an order under section 110(1)﻿(a) to (d) of the Oranga Tamariki Act 1989 as the sole guardian, or as a guardian of the person in addition to any other guardians (whether or not guardians by virtue of that Act), of the person; or
-    (b) whose sole guardianship of the person arises under section 119 of that Act (about the death of a guardian appointed under section 110(1)﻿(e) of that Act who, on his or her death, was the person's sole guardian)
   - **deduction rate** means the rate at which deductions must be made under section 66 or 66A, as the case may be
   - **default investment product** , in relation to a default KiwiSaver scheme, means the investment product specified as the default investment product of the scheme under an instrument of appointment to which section 132 applies
   - **default KiwiSaver provider** means a manager that is appointed under section 132 as the provider of a default investment product of a default KiwiSaver scheme
@@ -82,7 +79,7 @@ This Act is the KiwiSaver Act 2006.
     (d) does not include a fee referred to in section 67 of the Financial Markets Authority Act 2011 or charged under regulations made under section 228(1)﻿(a) except in the context of those provisions
   - **FMA** means the Financial Markets Authority established under Part 2 of the Financial Markets Authority Act 2011
   - **gross salary or wages** means salary or wages before the deduction of tax (as tax is defined in section 3(1) of the Tax Administration Act 1994)
-  - **guardian** has the same meaning as in the Care of Children Act 2004, but excludes a CYPFA guardian
+  - **guardian** has the same meaning as in the Care of Children Act 2004, but excludes a Oranga Tamariki guardian
   - **holding account** means the Inland Revenue KiwiSaver Holding Account established by the Commissioner under section 72
   - **inactive account** , in relation to a member of a KiwiSaver scheme, means a member’s account in respect of which no contribution has been received for at least 2 years
   - **information pack** means an information pack that is supplied by the Commissioner under section 40 and contains the matters required by section 41
@@ -122,6 +119,10 @@ This Act is the KiwiSaver Act 2006.
   - **opt in** means to opt in to the overall KiwiSaver scheme as provided in sections 33 to 39
   - **opt out** means to opt out of the overall KiwiSaver scheme as provided in sections 16 to 21
   - **opt-out notice** means a notice given under section 17
+  - **Oranga Tamariki guardian** , of a person (B), means any person—
+    (a) appointed by an order under section 110 of the Oranga Tamariki Act 1989 as the sole guardian of B or as a guardian of B in addition to any other guardians of B; or
+    (b) appointed by an order under section 113A of that Act as a special guardian of B; or
+    (c) whose sole guardianship of B arises under section 119 of that Act (about the death of a guardian appointed under section 110(1)﻿(e) of that Act who, on his or her death, was B’s sole guardian)
   - **participation agreement** means an agreement or any instrument in writing related to an arrangement between an employer and a provider of a scheme that determines some of the conditions on which the employer’s employees may be members of the scheme as amended from time to time
   - **pay period** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **PAYE period** means, as applicable, a first payment period as defined in the Income Tax Act 2007, a second payment period as defined in that Act, or a month in which PAYE is withheld in relation to an employee
@@ -388,18 +389,18 @@ A person may opt in at any time provided—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017; and
   (c) opting in under section 34(1)﻿(a).
-(3) A person who is 16 or 17 years old with a guardian or a CYPFA guardian may opt in if the person and 1 of their guardians or CYPFA guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
+(3) A person who is 16 or 17 years old with a guardian or an Oranga Tamariki guardian may opt in if the person and 1 of their guardians or Oranga Tamariki guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017; and
   (c) opting in under section 34(1)﻿(a).
 (4) A person who is 16 or 17 years old with no guardian may opt in if the person contracts directly with a provider. If the provider accepts the person, then the person is treated as—
   (a) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017:
   (b) opting in under section 34(1)﻿(a).
-(5) A person who is less than 16 years with a CYPFA guardian may opt in if the CYPFA guardian (independently from the person, and from all other, if any, CYPFA guardians, guardians, or both, of the person) contracts directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
+(5) A person who is less than 16 years with an Oranga Tamariki guardian may opt in if 1 of the person’s Oranga Tamariki guardians (independently from the person, and from all other, if any, Oranga Tamariki guardians, guardians, or both, of the person) contracts directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as—
   (a) contracting directly with the provider; and
   (b) 18 years for the purposes of subpart 6 of Part 2 of the Contract and Commercial Law Act 2017; and
   (c) opting in under section 34(1)﻿(a).
-(6) If a person who is less than 16 years with a CYPFA guardian is a member of a KiwiSaver scheme (whether opted into before or while the CYPFA guardian's guardianship has effect), the CYPFA guardian has for the purposes of this Act authority (instead of all guardians, if any, of the person, and independently from the person, and from all other, if any, CYPFA guardians of the person) to make decisions (for example, voluntary transfer decisions), or to take other steps, in respect of the person's membership of the scheme.
+(6) If a person who is less than 16 years with a Oranga Tamariki guardian is a member of a KiwiSaver scheme (whether opted into before or while the Oranga Tamariki guardian's guardianship has effect), the Oranga Tamariki guardian has for the purposes of this Act authority (instead of all guardians, if any, of the person, and independently from the person, and from all other, if any, Oranga Tamariki guardians of the person) to make decisions (for example, voluntary transfer decisions), or to take other steps, in respect of the person's membership of the scheme.
 
 ### 36 Effect of opting in by employees
 (1) An employee who opts in under section 34(1)﻿(a) or (b)—
@@ -705,6 +706,7 @@ This subpart applies when, because of a mistake,—
   (a) in relation to whom no mistake described in section 59A(b)﻿(ii) or 59A(d) was made; and
   (b) who, at the time, met the requirements of the automatic enrolment rules or the age requirement for the application of the opt-in rule in section 34.
 (9) If the person does not opt out under subsection (3), the relevant provider does not pay the member’s accumulation for the person to the Commissioner.
+(10) References in this section to a guardian include an Oranga Tamariki guardian.
 
 ### 59D No confirmed backdated validation
 (1) This section applies when—
@@ -2233,6 +2235,11 @@ Non-compliance with an enactment related to securities is ignored if the non-com
   (a) results from the enactment of sections 242, 289, 309 to 318, 320, and 321 of the Taxation (Annual Rates for 2018–19, Modernising Tax Administration, and Remedial Matters) Act 2019; and
   (b) relates to a product disclosure statement, or to information lodged on the relevant disclosure register, under the Financial Markets Conduct Act 2013; and
   (c) the period of the non-compliance ends before 1 September 2019.
+
+### 242 Protection from non-compliance: KiwiSaver (Oranga Tamariki Guardians) Amendment Act 2019
+Non-compliance with financial markets legislation, as defined in section 6(1) of the Financial Markets Conduct Act 2013, or the Fair Trading Act 1986 is ignored if the non-compliance results from the enactment of the KiwiSaver (Oranga Tamariki Guardians) Amendment Act 2019 and—
+  (a) the non-compliance does not continue on or after the expiry of the 2-month period that starts on the date of Royal assent of that Act; or
+  (b) the non-compliance relates to a product disclosure statement under the Financial Markets Conduct Act 2013 and the period of the non-compliance ends before the expiry of the 4-month period that starts on the date of Royal assent of the KiwiSaver (Oranga Tamariki Guardians) Amendment Act 2019.
 
 ## Schedule 1 — KiwiSaver scheme rules
 
