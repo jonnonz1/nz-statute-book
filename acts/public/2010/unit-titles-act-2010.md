@@ -1,5 +1,5 @@
 # Unit Titles Act 2010
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-08-27_
 
 ### 1 Title
 This Act is the Unit Titles Act 2010.
@@ -1665,6 +1665,7 @@ The owner of a future development unit in a unit title development to which this
 ### 176 Certain provisions of Residential Tenancies Act 1986 to apply
 (1) Part 3 of the Residential Tenancies Act 1986 applies with all necessary modifications in respect of the hearing and determination of a unit title dispute by a Tenancy Tribunal except the following sections:
   (a) section 77 (which relates to the Tribunal’s jurisdiction):
+  (aa) section 78A (which relates to orders of the Tribunal relating to unlawful residential premises):
   (b) section 106 (which relates to the enforcement of possession orders):
   (c) section 109 (which relates to unlawful acts and claims for exemplary damages).
 (2) Without limiting subsection (1), every reference in Part 3 of the Residential Tenancies Act 1986 to this Act is to be read as a reference to the Unit Titles Act 2010.
