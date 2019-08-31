@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-08-31_
 
 > Title
 
@@ -1837,7 +1837,105 @@ Subject to section 142, every statutory manager of a registered bank shall compl
     (i) is provided under the rules of the designated settlement system; and
     (ii) has been granted to secure, or to assist in securing, the due performance, by that registered bank, of obligations entered into by that registered bank under those rules.
 (9) For the purpose of subsection (8), netted balance and netting have the meanings set out in section 156L.
+(9A) Nothing in subsection (1) limits or prevents the exercise of any rights to enforce a security interest over collateral to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative if—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before the exercise of the rights, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the enforcing counterparty; or
+    (ii) another person (who is not the grantor) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing; and
+  (c) the rights are exercised after the specified time.
+(9B) See sections 122A to 122E for definitions and other matters relating to subsection (9A).
 (10) Subsection (1) is subject to section 139J(1) to (3).
+
+### 122A Definitions of terms relating to qualifying derivatives
+(1) For the purposes of sections 122(9A), 122B, 122C, 122D, and 122E,—
+  - **collateral** means any 1 or more of the following:
+    (a) a financial product:
+    (b) gold, silver, or platinum:
+    (c) a document of title, a chattel paper, an investment security, money, a negotiable instrument, or an intangible (with terms and expressions used in this paragraph having the same meanings as in section 16(1) of the Personal Property Securities Act 1999):
+    (d) if a person (an intermediary) maintains an account to which interests in property, or rights to payment or delivery of property, of a kind specified in any of paragraphs (a) to (c) may be credited or debited, the rights of a person in whose name the intermediary maintains the account, to the extent that those rights relate to the interests in that property or the rights to payment or delivery of that property:
+    (e) the proceeds of property of a kind specified in any of paragraphs (a) to (d)
+  - **default time** means the close of the day after the date on which the statutory management commenced
+  - **derivative** means a derivative within the meaning of section 8(4) of the Financial Markets Conduct Act 2013 (but disregarding any declaration referred to in section 8(5)﻿(b) of that Act)
+  - **intermediated collateral** means collateral of the kind referred to in paragraph (d) of the definition of collateral in this subsection
+  - **overseas person** means—
+    (a) a natural person who is not ordinarily resident in New Zealand; or
+    (b) an entity (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013) that is incorporated or established outside New Zealand
+  - **possession** includes possession within the meaning of section 18 of the Personal Property Securities Act 1999 (subject to section 122B and regulations made under section 173(1)﻿(fc) and (fd))
+  - **proceeds** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999 but applied with all necessary modifications, including treating references to collateral in the definition in that section as references to property of a kind specified in any of paragraphs (a) to (d) of the definition of collateral in this subsection
+  - **qualifying counterparty** means—
+    (a) a registered bank; or
+    (b) the Accident Compensation Corporation (as continued by section 259 of the Accident Compensation Act 2001); or
+    (c) the Guardians of New Zealand Superannuation established under section 48 of the New Zealand Superannuation and Retirement Income Act 2001; or
+    (d) a specified operator; or
+    (e) any prescribed entity; or
+    (f) any other entity of a prescribed class
+  - **qualifying derivative** , in relation to enforcing a security interest over collateral, means a derivative to which both of the following apply:
+    (a) the derivative is subject to—
+      (i) a netting agreement to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply; or
+      (ii) netting under the rules of a designated settlement system; and
+    (b) the enforcing counterparty’s interest in the collateral is evidenced in writing
+  - **security interest** has the same meaning as in section 17 of the Personal Property Securities Act 1999
+  - **specified time** means—
+    (a) the default time; or
+    (b) an earlier or a later time specified by the Bank in a notice issued under section 122C.
+(2) For the purposes of the definition of overseas person, a natural person is ordinarily resident in New Zealand if that person—
+  (a) is domiciled in New Zealand; or
+  (b) is living in New Zealand and the place where that person usually lives, and has been living for the immediately preceding 12 months, is in New Zealand, whether or not that person has on occasions been away from New Zealand during that 12-month period.
+
+### 122B Matters relating to possession or control of collateral
+(1) For the purposes of section 122(9A)﻿(b),—
+  (a) collateral must be taken not to be in the possession or under the control of the enforcing counterparty if,—
+    (i) under the security interest, the grantor is free to deal with the collateral in the ordinary course of business until the enforcing counterparty’s interest in the collateral becomes fixed and enforceable; or
+    (ii) regulations made under section 173(1)﻿(fc) so provide:
+  (b) intermediated collateral must be taken to be in the possession of the enforcing counterparty if that counterparty is the person in whose name the intermediary maintains the account:
+  (c) intermediated collateral must be taken to be under the control of the enforcing counterparty if subsection (3) applies:
+  (d) collateral must be taken to be in the possession or under the control of the enforcing counterparty if regulations made under section 173(1)﻿(fc) so provide.
+(2) Subsection (1)﻿(a)﻿(i) applies even if the enforcing counterparty’s interest in the collateral becomes fixed and enforceable before the enforcement of the security interest over that collateral.
+(3) For the purposes of subsection (1)﻿(c), this subsection applies if—
+  (a) the intermediary is not the grantor (but may be the enforcing counterparty or any other person); and
+  (b) there is an agreement in force between the intermediary and 1 or more other persons, 1 of which is the enforcing counterparty or the grantor; and
+  (c) the agreement has 1 or more of the following effects:
+    (i) the person in whose name the intermediary maintains the account is not able to transfer or otherwise deal with the collateral:
+    (ii) the intermediary must not comply with instructions given by the grantor in relation to the collateral without seeking the consent of the enforcing counterparty (or a person who has agreed to act on the instructions of the enforcing counterparty):
+    (iii) the intermediary must comply, or must comply in 1 or more specified circumstances, with instructions (including instructions to debit the account) given by the enforcing counterparty in relation to the collateral without seeking the consent of the grantor (or any person who has agreed to act on the instructions of the grantor).
+(4) Subsections (1)﻿(a)﻿(i), (b), and (c), (2), and (3) and the definition of possession in section 122A(1) are subject to regulations made under section 173(1)﻿(fc) and (fd).
+(5) The fact that a grantor retains a right of 1 or more of the following kinds does not by itself stop section 122(9A)﻿(b) from being satisfied:
+  (a) a right to receive and withdraw income in relation to the collateral:
+  (b) a right to receive notices in relation to the collateral:
+  (c) a right to vote in relation to the collateral:
+  (d) a right to substitute other collateral that the parties agree is of equivalent value for the collateral:
+  (e) a right to withdraw excess collateral:
+  (f) a right to determine the value of collateral.
+
+### 122C Bank may reduce or extend stay on exercise of rights to enforce security interest over collateral
+(1) This section and section 122D apply for the purposes of section 122(9A) in respect of a registered bank that is in statutory management (A).
+(2) The Reserve Bank may, before the default time, issue a notice that states that the rights referred to in section 122(9A) may only be exercised on and after a time specified in the notice.
+(3) The time that is specified may be—
+  (a) before the default time; or
+  (b) after the default time if the Bank is satisfied of all of the matters set out in section 122D.
+(4) The notice may relate to all rights referred to in section 122(9A) in respect of A’s property or to a class or classes of those rights.
+(5) Despite section 140(2)﻿(b), this section applies to an associated person or a subsidiary of a registered bank only if the associated person or subsidiary is itself a registered bank.
+
+### 122D Matters Bank must be satisfied of under section 122C(3)﻿(b)
+The matters referred to in section 122C(3)﻿(b) are that—
+  (a) A is able to meet all of the following liabilities as and when those liabilities become due and payable:
+    (i) A’s liabilities under all netting agreements to which sections 310A to 310O of the Companies Act 1993 or sections 255 to 263 of the Insolvency Act 2006 apply:
+    (ii) A’s liabilities in respect of security interests over collateral to the extent that the security interests secure payment or performance of obligations under or in relation to qualifying derivatives:
+    (iii) A’s liabilities that are subject to netting under the rules of a designated settlement system; and
+  (b) A is able to pay its debts as they become due in the normal course of business; and
+  (c) either—
+    (i) A complies with the minimum capital requirements (if any) to which it is subject under conditions imposed under section 74; or
+    (ii) there are satisfactory arrangements in place to ensure that A meets all of its liabilities referred to in paragraph (a) as and when those liabilities become due and payable and those arrangements will remain in place until A complies with the requirements referred to in subparagraph (i) or the statutory management is terminated, whichever occurs first.
+
+### 122E Publication and status of notice under section 122C
+(1) The Bank must, as soon as practicable,—
+  (a) publish any notice issued under section 122C on an Internet site maintained by, or on behalf of, the Bank; and
+  (b) notify the issue of the notice in the Gazette.
+(2) The notice may take effect at any time after it is published under subsection (1)﻿(a).
+(3) The notice is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.
+(4) The notice cannot be varied or revoked.
 
 ### 123 Statutory manager may incorporate company under Companies Act 1993 to acquire business of branch of foreign institution
 (1) Where a registered bank, which is a branch of a body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand, is declared to be subject to statutory management, the statutory manager may—
@@ -1928,8 +2026,18 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (6) The kind of security interest referred to in this section is a security interest that—
   (a) is over all or any part of the bank's or body corporate's (as the case may be) accounts receivable and inventory or all or any part of either of them; and
   (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
-  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the registered bank was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the registered bank was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+  (d) is not a security interest referred to in subsection (8).
 (7) In this section, account receivable, inventory, new value, purchase money security interest, proceeds, and security interest have the same meanings as in the Personal Property Securities Act 1999.
+(8) For the purposes of subsection (6)﻿(d), the security interest is a security interest over accounts receivable, inventory, or both to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative and—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before the exercise of rights to enforce the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the enforcing counterparty; or
+    (ii) another person (who is not the grantor) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
+(9) Terms and expressions defined in section 122A and used in subsection (8) have in that subsection the same meanings as in that section.
+(10) Section 122B applies with all necessary modifications for the purposes of subsection (8)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) as references to subsection (8)﻿(b) of this section).
 
 ### 135 Proof of transactions
 (1) The presentation to any Registrar of Deeds, or the Registrar-General of Land, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a registered bank or any shares in, or property or assets of, any company incorporated pursuant to section 132(2)﻿(a)—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
@@ -3215,7 +3323,7 @@ If there is any conflict between this Act and the provisions of the Banking Act 
 An obligation or limitation imposed on a person by any other Act or instrument or by any trust or agreement shall not prevent or excuse that person from complying with any provision of this Act or any regulation made under it or with any direction, notice, requirement or condition given or imposed under that provision.
 
 ### 173 Regulations
-The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for such matters as are necessary to enable the Minister or the Bank to exercise any powers and functions conferred on the Minister or the Bank by this Act or by any regulations made for any of the purposes of this Act:
   (b) providing for the granting, refusal, and revocation of consents, permissions, and exemptions in respect of any matters to which any regulations made under this Act relate; and authorising the imposition, variation, and revocation of conditions subject to which such consents, permissions, and exemptions may be granted:
   (c) providing for the furnishing of information and the production of books or documents to the Minister or the Bank or any other person for any of the purposes of any such regulations (whether or not the effect of doing so may be to require the furnishing of information, or the production of books or documents, that will reveal the identity or affairs of any particular person); and providing for the verification of any such information; and providing that any such books or documents may be copied, and may be retained or impounded, by any person or persons to whom they are produced:
@@ -3223,11 +3331,26 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (e) providing for the delegation of any of the powers or functions of the Minister (including the power of delegation) or the Bank under any such regulations:
   (f) providing for and regulating the issue, registration, transfer, control, and redemption of any financial products issued by the Bank:
   (fa) prescribing information for the purposes of section 69(2A)﻿(c):
+  (fb) prescribing entities and classes of entities for the purposes of the definition of qualifying counterparty in section 122A:
+  (fc) providing for when collateral must or must not be taken to be in the possession or under the control of a person for the purposes of section 122(9A)﻿(b) or any enactment that applies section 122B (and those matters may be specified with reference to different kinds of collateral or any other circumstances):
+  (fd) providing that section 122B(1)﻿(a)﻿(i), (b), or (c) does not apply to specified kinds of collateral or in any other specified circumstances:
   (g) pescribing forms for the purposes of this Act or of any such regulations, in any case where a form is not prescribed by this Act:
   (h) providing for and regulating the giving or service of notices for the purposes of this Act or of any such regulations, and the effect of such notices:
   (i) prescribing fees to be charged by the Bank in respect of any matter under this Act:
   (j) prescribing offences against any such regulations, and prescribing fines not exceeding in respect of any such offence $5,000 and, in the case of a continuing offence, $200 for every day on which the offence has continued:
   (k) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) Regulations under subsection (1)﻿(fb) to (fd) must be made on the recommendation of—
+  (a) the Minister; and
+  (b) the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is responsible for the administration of the Companies Act 1993.
+(3) The Ministers may make a recommendation under subsection (2) only if the Ministers have—
+  (a) had regard to the matters set out in subsection (4); and
+  (b) consulted the persons (or representatives of the persons) that the Ministers consider will be substantially affected by the regulations, and those persons have had the opportunity to comment to the Ministers.
+(4) The Ministers must have regard to the following under subsection (3)﻿(a):
+  (a) the purposes of this Act, the Companies Act 1993, the Corporations (Investigation and Management) Act 1989, the Personal Property Securities Act 1999, the Property Law Act 2007, and the Receiverships Act 1993:
+  (b) the effect of the regulations on—
+    (i) the maintenance of a sound and efficient financial system; and
+    (ii) the creditors of qualifying counterparties; and
+    (iii) the integrity of statutory management, corporate insolvency, and personal property securities law.
 
 ### 174 Consents under regulations
 (1) If a transaction is entered into or an instrument is executed without the prior consent of the Minister or the Bank required by any regulations made under this Act, the Minister or the Bank, as the case may be, may, at any time, consent to the entry into the transaction or the execution of the instrument.
@@ -3401,6 +3524,13 @@ A requirement in this Act to have at least 4 meetings of the MPC each year does 
   (c) as chairperson or deputy chairperson of the Board must be treated as continuing to hold that office for the balance of the term for which that person was appointed.
 (2) This clause does not limit any provision of this Act under which a person referred to in subclause (1) may be removed from office or under which that person otherwise ceases to hold office.
 (3) Section 44(1) (as in force after the main commencement) is subject to subclause (1)﻿(b).
+
+### Part 2 — Provision relating to Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
+
+### 13 Provision relating to enforcing security interest over collateral for qualifying derivative
+The amendments made by subpart 1 of Part 1 of the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019 apply to—
+  (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
+  (b) a qualifying derivative entered into on or after the commencement of this clause.
 
 ## Schedule 2 — Remit and monetary policy committee
 
