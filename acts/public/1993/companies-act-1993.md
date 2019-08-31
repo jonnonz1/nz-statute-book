@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2019-06-18_
+_Consolidation as at 2019-08-31_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -3494,6 +3494,23 @@ In this subpart, unless the context otherwise requires,—
   (a) in the exercise of a power of the secured creditor as secured creditor; or
   (b) in the performance or exercise of a function or power of the receiver or other person.
 
+### 239ABMA Enforcement of security interest over collateral for qualifying derivative
+(1) Nothing in sections 239ABC, 239ABD, 239ABE, and 239ABG limits or prevents any person referred to in subsection (2) from enforcing a security interest over collateral to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative if—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before enforcement, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the secured creditor; or
+    (ii) another person (who is not the company that granted the security interest) on behalf of the secured creditor, under the terms of an arrangement evidenced in writing.
+(2) The persons are—
+  (a) the secured creditor:
+  (b) a receiver or person appointed as mentioned in paragraph (a), (b), or (d) of the definition of enforce in section 239ABK as that definition applies in relation to the security interest, or any of the security interests (even if appointed after the decision period).
+(3) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (1) have in that subsection the same meanings as in that section.
+(4) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (1)﻿(b), and those modifications include—
+  (a) treating references to section 122(9A)﻿(b) of that Act as references to subsection (1)﻿(b) of this section; and
+  (b) treating references to the enforcing counterparty as references to the secured creditor; and
+  (c) treating references to the grantor as references to the company that granted the security interest.
+
 ### 239ABN Charge over perishable property
 (1) This section applies if perishable property of a company in administration is subject to a charge.
 (2) Nothing in section 239ABC prevents the secured creditor, a receiver, or a person appointed (at any time) as mentioned in paragraph (a), (b), or (d) of the definition of enforce in section 239ABK from enforcing the charge, so far as it is a charge over perishable property.
@@ -6642,6 +6659,13 @@ Section 231(1A) (as inserted by section 29 of the Regulatory Systems (Commercial
   (a) applies to a bilateral netting agreement whether made before or after the commencement of section 310D(2) and (3); but
   (b) does not apply if the liquidation of the company began before the commencement of section 310D(2) and (3).
 
+### Part 2 — Provision relating to Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
+
+### 5 Provision relating to enforcing security interest over collateral for qualifying derivative
+The amendments made by subpart 2 of Part 1 of the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019 apply to—
+  (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
+  (b) a qualifying derivative entered into on or after the commencement of this clause.
+
 ## Schedule 1 — Proceedings at meetings of shareholders
 
 ### 1 Chairperson
@@ -6923,9 +6947,19 @@ Except as provided in this schedule and in any regulations made under this Act, 
       (A) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
       (B) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
       (C) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the commencement of the liquidation and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+      (D) is not a security interest referred to in subclause (3A); and
     (ii) must be paid accordingly out of any accounts receivable or inventory subject to that security interest (or their proceeds).
-(2) For the purposes of subclause (1)﻿(b), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
+(2) For the purposes of subclauses (1)﻿(b) and (3A), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 (3) To the extent that the claims to which subclause (1) applies are paid out of assets referred to in paragraph (b) of that subclause, the amount so paid is an unsecured debt due by the company to the secured party.
+(3A) For the purposes of subclause (1)﻿(b)﻿(i)﻿(D), the security interest is a security interest over accounts receivable, inventory, or both to the extent that that security interest secures payment or performance of an obligation under or in relation to a qualifying derivative and—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before enforcement of the interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the enforcing counterparty; or
+    (ii) another person (who is not the company that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
+(3B) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subclause (3A) have in that subclause the same meanings as in that section.
+(3C) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subclause (3A)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subclause (3A)﻿(b) of this clause and treating references to the grantor as references to the company that granted the security interest).
 (4) Clause 9 of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 
 ### 3 Provisions concerning preferential payments to employees
