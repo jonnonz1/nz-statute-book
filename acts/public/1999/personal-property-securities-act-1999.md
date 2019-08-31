@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2017-09-01_
+_Consolidation as at 2019-08-31_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -297,6 +297,9 @@ Registration of a financing statement is not constructive notice or knowledge of
 (3) If an example and the provision to which it relates are inconsistent, the provision prevails.
 
 **Application**
+
+### 21A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 22 Act to bind the Crown
 This Act binds the Crown.
@@ -906,6 +909,20 @@ A perfected security interest in crops is not extinguished or prejudicially affe
     (b) includes an operator of a designated settlement system if the designation under section 156N(3)﻿(b) of the Reserve Bank of New Zealand Act 1989 so provides
   - **rules** means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in section 156M of the Reserve Bank of New Zealand Act 1989.
 (7) In this section, designated settlement system and settlement have the meanings given to them by section 2(1) or 156M of the Reserve Bank of New Zealand Act 1989.
+
+**Priority of interests under qualifying derivatives**
+
+### 103B Priority of interests under qualifying derivatives
+(1) The security interest of a person (the enforcing counterparty) in collateral that is personal property, to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative, has priority over any security interest (including a purchase money security interest) in the same personal property if—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before the enforcement of the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the enforcing counterparty; or
+    (ii) another person (who is not the debtor that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
+(2) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in this section (including the definitions of collateral and possession) have in this section the same meanings as in section 122A.
+(3) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of this section (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (1)﻿(b) of this section and treating references to the grantor as references to the debtor that granted the security interest).
+(4) This section overrides anything in this Act to the contrary (other than section 103A).
 
 ## Part 9 — Enforcement of security interests
 
@@ -1589,6 +1606,15 @@ During the transitional period,—
   (a) priority between a prior security interest and a prior third party interest will be determined by the prior law:
   (b) priority between a prior security interest and a third party interest that arose on or after the commencement of this Act will be determined by this Act:
   (c) priority between a security interest that is not a prior security interest and a prior third party interest will be determined by this Act.
+
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
+
+### 1 Provision relating to security interest over collateral for qualifying derivative
+The amendments made by subpart 4 of Part 1 of the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019 apply to—
+  (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
+  (b) a qualifying derivative entered into on or after the commencement of this clause.
 
 ## Schedule 1 — Acts amended
 
