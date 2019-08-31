@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2019-04-01_
+_Consolidation as at 2019-08-31_
 
 > An Act to reform the law relating to receivers
 
@@ -73,6 +73,9 @@ _Consolidation as at 2019-04-01_
   (b) in at least 1 issue of a newspaper circulating in the area in which is situated—
     (i) the place of business in New Zealand of the grantor; or
     (ii) if the grantor has more than 1 place of business in New Zealand, the principal place of business in New Zealand of the grantor.
+
+### 3A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 4 Application
 (1) This Act applies—
@@ -305,12 +308,14 @@ A person to whom a report must be sent in accordance with section 26 is entitled
 (1) This section applies to a receiver of the property of a grantor that is a company, other than a company in liquidation at the time of the receiver's appointment, and who was appointed under a security agreement that created or provided for a security interest that—
   (a) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
   (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
-  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+  (d) is not a security interest referred to in subsection (6).
 (2) A receiver to whom this section applies must apply accounts receivable and inventory that are subject to the security interest or their proceeds—
   (a) first, to reimburse the receiver for his or her expenses and remuneration; and
   (b) secondly, to pay the claims of any person who has—
     (i) a purchase money security interest over all or any of those assets, that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999:
     (ii) a security interest over all or any of those assets, that has been perfected under the Personal Property Securities Act 1999 at the time of the receiver's appointment and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+    (iii) a security interest referred to in subsection (6) that is over all or any of those assets; and
   (c) thirdly, to pay preferential claims to the extent and in the order of priority specified in Schedule 7 (except clauses 1(1) and 2(1)﻿(b)) of the Companies Act 1993.
 (2A) The receiver must apply the accounts receivable and inventory as set out in subsection (2) before paying the claims of any person under a security interest, other than a security interest referred to in subsection (2)﻿(b).
 (2B) For the purposes of subsection (2)﻿(a), if an amount of an expense or of remuneration—
@@ -330,6 +335,15 @@ A person to whom a report must be sent in accordance with section 26 is entitled
   (e) the reference to before, or because of, the commencement of the liquidation in clause 1(2)﻿(b) and (c) is to be read as a reference to before the expiry of 14 days after the date of appointment of the receiver, or because notice of the termination of that employee's employment is lawfully given to the employee within 14 days after the date of appointment of the receiver or by any later date to which the period for giving notice is extended under section 32(3) of the Receiverships Act 1993.
 (4)
 (5) The provisions of this section, as in force immediately before the commencement of the Personal Property Securities Act 1999, continue to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
+(6) For the purposes of subsections (1)﻿(d) and (2)﻿(b)﻿(iii), the security interest is a security interest over accounts receivable, inventory, or both to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative and—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before enforcement of the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the enforcing counterparty; or
+    (ii) another person (who is not the company that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
+(7) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (6) have in that subsection the same meanings as in that section.
+(8) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (6)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (6)﻿(b) of this section and treating references to the grantor as references to the company that granted the security interest).
 
 ### 30A Extinguishment of subordinate security interests
 (1) If property has been disposed of by a receiver, all security interests in the property and its proceeds that are subordinate to the security interest of the person in whose interests the receiver was appointed are extinguished on the disposition of the property.
@@ -526,7 +540,7 @@ Subject to the Personal Property Securities Act 1999, and without limiting any o
 
 ### 40C Powers and duties of receivers
 (1) A receiver of any asset of a local authority is, as the circumstances and the context permit, affected by the restrictions and responsibilities which by law affect a receiver of a company or of an asset or property or rights of a company as if the local authority were a company.
-(2) The provisions of this Act are, in their application to a receiver of an asset of a local authority, subject to the modifications and exceptions set out in the Schedule.
+(2) The provisions of this Act are, in their application to a receiver of an asset of a local authority, subject to the modifications and exceptions set out in Schedule 1.
 (3) If the assets subject to a charge to which this section applies comprise rates or other revenues, then, for the purposes of this section, from the date of the appointment of the receiver and until such time as the appointment terminates,—
   (a) the rates or other revenues so charged vest in the receiver; and
   (b) all powers necessary for the recovery of rates levied under section 115 of the Local Government Act 2002 or other revenues are conferred on, and may be exercised by, the receiver.
@@ -572,7 +586,16 @@ Subject to the Personal Property Securities Act 1999, and without limiting any o
   - **Aircraft Protocol** has the same meaning as in section 104(1) of the Civil Aviation Act 1990
   - **Cape Town Convention** has the same meaning as in section 104(1) of the Civil Aviation Act 1990.
 
-## Schedule  — Modifications and exceptions that apply in relation to receivers of assets of local authorities
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
+
+### 1 Provision relating to security interest over collateral for qualifying derivative
+The amendments made by subpart 6 of Part 1 of the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019 apply to—
+  (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
+  (b) a qualifying derivative entered into on or after the commencement of this clause.
+
+## Schedule 1 — Modifications and exceptions that apply in relation to receivers of assets of local authorities
 
 ### 1 Application of modifications and exceptions
 The modifications and exceptions to the provisions of this Act that are set out in this schedule are the modifications and exceptions referred to in section 40C(2).
