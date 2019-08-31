@@ -1,5 +1,5 @@
 # Insolvency Practitioners Regulation (Amendments) Act 2019
-_Consolidation as at 2019-06-17_
+_Consolidation as at 2019-08-31_
 
 ### 1 Title
 This Act is the Insolvency Practitioners Regulation (Amendments) Act 2019.
@@ -690,8 +690,10 @@ The following heading and sections are inserted after section 296:Voidable dispo
 
 ### Subpart 2 — Consequential amendments and transitional provisions
 
-### 57 New Part 2 added to Schedule 1AA
-Schedule 1AA is amended by adding the Part 2 set out in Schedule 1 of this Act.
+### 57 New Part added to Schedule 1AA
+In Schedule 1AA,—
+  (a) insert the Part set out in Schedule 1 of this Act as the last part in Schedule 1AA; and
+  (b) make all necessary consequential amendments.
 
 ### 58 Consequential amendments
 The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
@@ -710,9 +712,8 @@ This Part amends the Receiverships Act 1993.
 (2) Section 2 is amended by adding the following subsection:
   (3) A requirement in this Act for a person to provide a notice or other document may be satisfied by the person providing the notice or other document by electronic means in accordance with Part 4 of the Contract and Commercial Law Act 2017.
 
-### 61 New sections 3A and 3B inserted
-The following sections are inserted after section 3:Transitional, savings, and related provisionsAct binds the Crown
-  The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
+### 61 New section 3B inserted
+The following section is inserted after section 3A:Transitional, savings, and related provisionsAct binds the Crown
   This Act binds the Crown.
 
 ### 62 New section 5 substituted
@@ -858,8 +859,10 @@ Section 36 is repealed and the following section substituted:Meaning of failure 
 ### 75 Powers and duties of receivers
 Section 40C(2) is amended by omitting the Schedule and substituting Schedule 1.
 
-### 76 New Schedule 1AA inserted
-The Schedule 1AA set out in Schedule 3 of this Act is inserted as the first schedule to appear after the last section of the principal Act.
+### 76 New Part inserted in Schedule 1AA
+In Schedule 1AA,—
+  (a) insert the Part set out in Schedule 3 of this Act as the last part in Schedule 1AA; and
+  (b) make all necessary consequential amendments.
 
 ### 77 Schedule amended
 (1) The heading to the Schedule is amended by omitting Schedule and substituting Schedule 1.
@@ -895,11 +898,9 @@ In this Part,—
 
 ## Schedule 2 — Consequential amendments
 
-## Schedule 3 — New Schedule 1AA inserted
+## Schedule 3 — New Part inserted in Schedule 1AA
 
-### Schedule 1AA — Transitional, savings, and related provisions
-
-#### Part 1 — Provisions relating to Part 2 of Insolvency Practitioners Regulation (Amendments) Act 2019
+### Part 1 — Provisions relating to Part 2 of Insolvency Practitioners Regulation (Amendments) Act 2019
 
 ### 1 Interpretation
 In this Part,—
