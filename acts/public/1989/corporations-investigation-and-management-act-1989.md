@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-08-31_
 
 > An Act to enable the Registrar of Companies and the Financial Markets Authority to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -29,6 +29,9 @@ This Act may be cited as the Corporations (Investigation and Management) Act 198
   (d) the corporation owns directly or indirectly 20% or more of the issued shares of that person, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital.
 (3) For the purposes of Part 1 an associated person of a corporation also includes a person who is substantially indebted to the corporation.
 (4) Where a body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand, carries on business or has assets in New Zealand, the provisions of this Act shall apply in respect of that business or those assets as if the business were carried on, or the assets were held, by a separate person.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1 have effect according to their terms.
 
 ### 3 Act to bind the Crown
 This Act shall bind the Crown.
@@ -358,6 +361,15 @@ The FMA shall not make a recommendation under section 38 in respect of an associ
     (ii) has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under those rules.
 (8A) Subsection (1) is subject to section 139J(1) to (3) of the Reserve Bank of New Zealand Act 1989.
 (9) For the purpose of subsection (8), netted balance, netting, and rules have the meanings set out in section 156M of the Reserve Bank of New Zealand Act 1989.
+(10) Nothing in subsection (1) limits or prevents the exercise of any rights to enforce a security interest over collateral to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative if—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before the exercise of the rights, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the enforcing counterparty; or
+    (ii) another person (who is not the corporation that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
+(11) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (10) have in that subsection the same meanings as in that section.
+(12) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (10)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (10)﻿(b) of this section and treating references to the grantor as references to the corporation that granted the security interest).
 
 ### 43 Prohibition against removal of assets
 (1) Where a corporation is declared to be subject to statutory management, no person shall, except with the consent of the statutory manager, transfer, or remove from New Zealand, any property or assets of the corporation.
@@ -420,16 +432,29 @@ Subject to this Part, a statutory manager of a corporation shall, for the purpos
   (b) claims in respect of preferential payments made under section 312 of the Companies Act 1993 (as applied by section 55), in the case of—
     (i) proceeds of an account receivable that is subject to a security interest that—
       (A) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+      (AB) is not a security interest referred to in subsection (8); and
       (B) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
-    (ii) proceeds of inventory that are subject to a security interest that is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999.
+    (ii) proceeds of inventory that are subject to a security interest that—
+      (A) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+      (B) is not a security interest referred to in subsection (8).
 (3) Where a statutory manager of a corporation sells or otherwise disposes of any property or assets of that corporation to any body corporate formed and registered pursuant to section 50(2)﻿(a), being property or assets subject to a security in favour of any other person, the property or those assets shall continue to be subject to that security.
 (4) If a statutory manager of a corporation sells or otherwise disposes of any shares in a body corporate formed and registered under section 50(2)﻿(a), any property or assets of which are subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the shares.
 (5) If a statutory manager of a corporation sells or otherwise disposes of any property or assets of a body corporate formed and registered under section 50(2)﻿(a), being property or assets subject to a security interest, other than a security interest of the kind described in subsection (6), the person entitled to the security interest must be paid out of the proceeds of sale or other disposition in priority to all other claims other than the costs of the statutory manager in selling or disposing of the property or assets.
 (6) The kind of security interest referred to in this subsection is a security interest that—
   (a) is over all or any part of the corporation's accounts receivable and inventory or all or any part of either of them; and
   (b) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
-  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation).
+  (c) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+  (d) is not a security interest referred to in subsection (8).
 (7) In this section, account receivable, inventory, new value, non-purchase money security interest, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
+(8) For the purposes of subsections (2)﻿(b)﻿(i)﻿(AB) and (ii)﻿(B) and (6)﻿(d), the security interest is a security interest over accounts receivable, inventory, or both to the extent that the security interest secures payment or performance of an obligation under or in relation to a qualifying derivative and—
+  (a) the counterparties to the derivative are—
+    (i) 2 qualifying counterparties; or
+    (ii) a qualifying counterparty and an overseas person; and
+  (b) before the exercise of rights to enforce the security interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+    (i) the enforcing counterparty; or
+    (ii) another person (who is not the corporation that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
+(9) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (8) have in that subsection the same meanings as in that section.
+(10) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (8)﻿(b) (and those modifications include treating references to section 122(9A)﻿(b) of that Act as references to subsection (8)﻿(b) of this section and treating references to the grantor as references to the corporation that granted the security interest).
 
 ### 52 Liquidation of corporations
 (1) Subject to this Part, a statutory manager of a corporation may,—
@@ -592,7 +617,7 @@ Every person who commits an offence against this Act for which no penalty is pro
 (2) The presentation to any Registrar of Deeds, or the Registrar-General of Land, or any other person charged with the keeping of any books or registers, of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a corporation subject to statutory management, or any body corporate formed and registered pursuant to section 50(2)﻿(a), as the case may be, has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
 
 ### 73 Repeal of Companies Special Investigations Act 1958
-The Acts specified in the Schedule are hereby consequentially repealed.
+[Repealed]
 
 ### 74 Savings
 (1) Notwithstanding the repeal, by section 73, of the Companies Special Investigations Act 1958,—
@@ -619,4 +644,11 @@ The Acts specified in the Schedule are hereby consequentially repealed.
   - **Aircraft Protocol** has the same meaning as in section 104(1) of the Civil Aviation Act 1990
   - **Cape Town Convention** has the same meaning as in section 104(1) of the Civil Aviation Act 1990.
 
-## Schedule Schedule — Enactments repealed
+## Schedule 1 — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
+
+### 1 Provision relating to enforcing security interest over collateral for qualifying derivative
+The amendments made by subpart 3 of Part 1 of the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019 apply to—
+  (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
+  (b) a qualifying derivative entered into on or after the commencement of this clause.
