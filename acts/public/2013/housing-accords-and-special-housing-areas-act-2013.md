@@ -1,5 +1,5 @@
 # Housing Accords and Special Housing Areas Act 2013
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-09-17_
 
 ### 1 Title
 This Act is the Housing Accords and Special Housing Areas Act 2013.
@@ -171,28 +171,10 @@ Schedule 3 contains application, savings, and transitional provisions that affec
 **Special housing areas**
 
 ### 16 Process for establishing special housing areas
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare an area within a scheduled region or district to be a special housing area for the purposes of this Act.
-(2) Before making a recommendation under this section, the Minister must have regard to existing geographic boundaries, the relevant district plan, and any relevant proposed district plan to ensure that the boundaries of the proposed special housing area are clearly defined in the Order in Council and easily identifiable in practice.
-(3) The Minister must not recommend the making of an Order in Council under this section unless the Minister is satisfied that—
-  (a) adequate infrastructure to service qualifying developments in the proposed special housing area either exists or is likely to exist, having regard to relevant local planning documents, strategies, and policies, and any other relevant information; and
-  (b) there is evidence of demand to create qualifying developments in specific areas of the scheduled region or district; and
-  (c) there will be demand for residential housing in the proposed special housing area.
-(4) The Minister must not recommend the making of an Order in Council under this section where—
-  (a) the proposed special housing area will fall within the district of an accord territorial authority, unless—
-    (i) the Minister's recommendation is made on the recommendation of the accord territorial authority under section 17; or
-    (ii) public notice of the intention to terminate the housing accord has been given in accordance with section 13; or
-  (b) there is no housing accord between the Minister and the territorial authority for the district in which the proposed special housing area will fall, unless—
-    (i) the territorial authority and the Minister have been parties to a housing accord and the accord has been terminated; or
-    (ii) the Minister, after endeavouring to negotiate in good faith with the territorial authority in an attempt to conclude a housing accord, has been unable to reach an agreement with that territorial authority.
-(4A) For the purpose of defining the boundaries of a special housing area, an Order in Council under this section may incorporate a map, plan, or similar document prepared or issued by any person or body.
-(4B) Sections 52 to 55 of the Legislation Act 2012 apply in relation to material incorporated under subsection (4A) as if it were incorporated under section 49 of that Act.
-(5) The Minister has no obligation to recommend the making of an Order in Council under this section, even if the Minister is satisfied that all criteria for making a recommendation are met.
-(6) The chief executive must, as soon as practicable after an Order in Council is made under this section, notify each local authority in whose district or region the special housing area falls of the making of the Order in Council.
+[Repealed]
 
 ### 17 Establishing special housing areas in district covered by housing accord
-(1) An accord territorial authority may, at any time, recommend to the Minister that 1 or more areas within the district of the accord territorial authority be established as special housing areas.
-(2) An accord territorial authority, when recommending to the Minister that a special housing area be established, may recommend that the Order in Council declaring the special housing area prescribe 1 or more of the criteria referred to in section 15(1) and (3) for qualifying developments in the special housing area or a part of the special housing area (see section 15(7)).
-(3) An accord territorial authority may also, at any time after a special housing area is declared, recommend to the Minister that an Order in Council be made prescribing 1 or more of the criteria referred to in section 15(1) and (3) for qualifying developments in the special housing area or part of the special housing area.
+[Repealed]
 
 ### 18 Disestablishing special housing areas
 (1) A special housing area is disestablished,—
