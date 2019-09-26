@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2018-10-31_
+_Consolidation as at 2019-09-26_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1965,6 +1965,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Museum of New Zealand Te Papa Tongarewa Board |  |  |  |  |  |
 | New Zealand Artificial Limb Service |  |  |  |  |  |
 | New Zealand Film Commission |  |  |  |  | ✓ |
+| New Zealand Infrastructure Commission/Te Waihanga |  |  |  |  |  |
 | New Zealand Lotteries Commission | ✓ |  |  |  | ✓ |
 | New Zealand Symphony Orchestra |  |  |  |  |  |
 | Public Trust | ✓ | ✓ | ✓ | ✓ |  |
