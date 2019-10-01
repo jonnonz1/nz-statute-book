@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -412,7 +412,7 @@ _Consolidation as at 2019-07-01_
     (i) any payment of a benefit paid under the Social Security Act 2018; or
     (ii) subject to paragraph (a)﻿(ii), any other payment made to a person where the payment is for the personal use and benefit of the person or, as the case may be, a relative (as defined in paragraphs (c) and (d) of the definition of that term in section YA 1 of the Income Tax Act 2007) of the person; or
     (iii) any payment of a kind that is declared by the Governor-General by Order in Council not to be a taxable grant or subsidy for the purposes of subsection (6D).
-(6F) For the purposes of this Act, the amount payable by the Crown or the agency under the Housing Restructuring and Tenancy Matters Act 1992 under a reimbursement agreement or a tailored agreement under that Act for the provision of accommodation in social housing is treated as consideration for the supply of accommodation in a dwelling by way of hire.
+(6F) For the purposes of this Act, the amount payable by the Crown or the agency under the Public and Community Housing Management Act 1992 under a reimbursement agreement or a tailored agreement under that Act for the provision of accommodation in social housing is treated as consideration for the supply of accommodation in a dwelling by way of hire.
 (7) For the purposes of this Act—
   (a) every local authority is deemed to supply goods and services to any person where any amount of rates is payable by that person to that local authority:
   (b) the Chatham Islands Council is treated as supplying goods and services to a person if an amount of council dues, as defined in section 2 of the Chatham Islands Council Act 1995, is payable by the person to the Chatham Islands Council.
