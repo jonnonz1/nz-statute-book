@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2019-08-31_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -2697,10 +2697,11 @@ A covenant for the benefit of 2 or more covenantees binds the covenantor to perf
   (b) people with special housing needs; or
   (c) people whose disabilities mean that they need support or supervision in their housing.
 (2) Without limiting the covenants that are void under subsection (1), covenants to the following effect are void:
-  (a) a covenant that the transferee will not directly or indirectly convey the land to Housing New Zealand Corporation, any other central or local government body, or a private body that may facilitate the occupation of housing on the land by people selected by the corporation or the body:
-  (b) a covenant that the transferee will not directly or indirectly convey the land to Housing New Zealand Corporation, a subsidiary company of Housing New Zealand Corporation, any other central or local government body, or a private body that provides housing to tenants on a subsidised basis:
+  (a) a covenant that the transferee will not directly or indirectly convey the land to Kāinga Ora–Homes and Communities, any other central or local government body, or a private body that may facilitate the occupation of housing on the land by people selected by the corporation or the body:
+  (b) a covenant that the transferee will not directly or indirectly convey the land to Kāinga Ora–Homes and Communities, a subsidiary company of Kāinga Ora–Homes and Communities, any other central or local government body, or a private body that provides housing to tenants on a subsidised basis:
   (c) a covenant that the transferee will not directly or indirectly convey the land to a central or local government body or a private body for the purposes of public or institutional housing.
 (3) This section applies only to covenants entered into on or after the day on which this section comes into force.
+(4) In this section, Kāinga Ora–Homes and Communities means Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019.
 
 ### 278 Covenants persons made with themselves
 (1) A covenant that a person made with himself, herself, or itself is enforceable in the same way as a covenant that that person made with 1 or more people, none of whom is that person.
