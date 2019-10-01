@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2019-07-08_
+_Consolidation as at 2019-10-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -71,6 +71,7 @@ _Consolidation as at 2019-07-08_
   - **binding ruling** means any—
     (a) public ruling made under section 91D:
     (b) private ruling made under section 91E:
+    (bb) short-process ruling made under section 91EK:
     (c) product ruling made under section 91F:
     (d) status ruling made under section 91GA
   - **business** is defined in section 152(18) for the purposes of that section
@@ -359,7 +360,7 @@ _Consolidation as at 2019-07-08_
     (b) the way the Commissioner proposes to treat differently a tax position or tax positions taken by a disputant in 1 or more tax returns,—
   - **proscribed question** means—
     (a) whether a fact is correct or exists:
-    (b) what is a person’s purpose or intention, for the purpose of any provision of the Income Tax Act 2007 that expressly refers to a person's purpose or intention:
+    (b) what is a person’s purpose or intention, for the purpose of any provision of the Income Tax Act 2007 that expressly refers to a person’s purpose or intention, other than in relation to the test of principal purpose of making taxable supplies as described in section 91CB(3)﻿(c):
     (c) what is the value of a thing:
     (d) what is commercially acceptable practice, for the purposes of any provision of that Act that expressly refers to commercially acceptable practice:
     (e) a question related to research and development tax credits under subpart LY of the Income Tax Act 2007
@@ -422,6 +423,7 @@ _Consolidation as at 2019-07-08_
   - **sensitive revenue information** is defined in section 16C(3) for the purposes of Part 3, subpart 3A and schedule 7
   - **serious threat** is defined in section 18J(2) for the purposes of that section
   - **sex offence** is defined in schedule 7, part C, subpart 2, clause 44(6) for the purposes of that clause
+  - **short-process ruling** means a short-process ruling under sections 91EK to 91ET
   - **shortfall penalty** means a penalty imposed under any of sections 141AA to 141K for taking an incorrect tax position or for doing or failing to do anything specified or described in those sections
   - **social security agreement** is defined in schedule 7, part C, subpart 2, clause 45(7) for the purposes of that clause
   - **standard-cost household service** means a service that is a standard-cost household service under a determination that is made by the Commissioner under section 91AA
@@ -5012,7 +5014,7 @@ In this Part—
   (c) whether an activity meets the requirements of the definition of research and development activities in section LH 7 of that Act.
 
 ### 91CB Binding rulings on certain matters
-(1) The Commissioner may make a private ruling on whether a person meets the requirements of the Income Tax Act 2007 or the Goods and Services Tax Act 1985 that affect or define the status of a person for the purposes of either or both those Acts. Examples include—
+(1) The Commissioner may make a private ruling or a short-process ruling on whether a person meets the requirements of the Income Tax Act 2007 or the Goods and Services Tax Act 1985 that affect or define the status of a person for the purposes of either or both those Acts. Examples include—
   (a) whether a person carries on business through a permanent establishment or a fixed establishment:
   (b) whether a person is resident or non-resident:
   (c) whether 2 persons are associated:
@@ -5134,6 +5136,7 @@ The Commissioner may at any time make a public ruling on how a taxation law appl
   (a) a private ruling on a taxation law applies to a person in relation to an arrangement and a tax type for an arrangement; and
   (b) the person applies the taxation law for the tax type in the way stated in the ruling,—
 (1A) Subsection (1) does not apply if a taxpayer has issued the Commissioner with a notice of proposed adjustment to change the effect of a ruling previously applied by the taxpayer.
+(1B) For the purposes of a ruling under section 91CB, the Commissioner must apply the taxation law in relation to the status of a person, item, or matter in accordance with the ruling.
 (2)
 
 ### 91EB Application of a private ruling
@@ -5211,6 +5214,85 @@ Before the Commissioner makes a private ruling, the Commissioner must give the a
 (2) Despite subsection (1), the Commissioner,—
   (a) as part of the process of making a private ruling, may, but does not have to, inquire into the correctness or existence of the facts contained in the information supplied before making the private ruling:
   (b) is not stopped by the process of making the private ruling or by the use of the information as the basis of the private ruling from denying, outside the process of making the ruling or subsequent to making the ruling, the correctness or existence of the facts contained in the information supplied.
+
+**Short-process rulings**
+
+### 91EK Commissioner may make short-process rulings
+(1) The Commissioner may make a short-process ruling on how a taxation law applies, or would apply, to a person in relation to their particular circumstances.
+(2) The Commissioner may decline to make a short-process ruling if it is considered that the question asked, because of its nature or in the circumstances set out in the application, make it inappropriate for a response under a shortened process, for example, when an application—
+  (a) raises an issue involving an apparent gap or deficiency in policy settings:
+  (b) is directly in opposition to an existing policy of the Commissioner or technical position taken by the Commissioner:
+  (c) raises an issue that has, or would have, significant implications or wide effect as a precedent:
+  (d) fails to provide sufficient information:
+  (e) raises a question that is better answered by the Commissioner through another process.
+(3) The Commissioner may also decline to make a short-process ruling for a reason set out in section 91E(3), (3B), (4), and (4A).
+
+### 91EL Applying for short-process ruling
+(1) A person who meets the requirements of subsection (3) may apply, in their own right or on behalf of a person who is yet to come into legal existence, to the Commissioner for a short-process ruling on how a taxation law applies, or would apply, to the person in relation to a particular set of circumstances and a tax type to which the circumstances relate.
+(2) Two or more persons may apply jointly for a short-process ruling under subsection (1).
+(3) The requirements are—
+  (a) the person’s annual gross income for the tax year before that in which the application is made is $20,000,000 or less; and
+  (b) the person is seeking the ruling on a matter concerning a tax (other than provisional tax), duty, or levy that is expected to amount to less than $1,000,000.
+(4) For the purposes of subsection (3)﻿(a),—
+  (a) if the person applying is part of a group of companies, the group must meet the threshold requirement:
+  (b) if persons apply jointly for a short-process ruling, each person must meet the threshold requirement:
+  (c) if a person applies for a short-process ruling on behalf of another person, the other person must meet the threshold requirement:
+  (d) if the person applying is not yet in legal existence, the person must have a reasonable expectation of meeting the threshold requirement for the tax year to which the ruling relates.
+(5) For the purposes of subsection (3)﻿(b), if the expected amount is unknown, the person must state this fact in the application, and the Commissioner may then consider under section 91EK(2) whether a short-process ruling is appropriate in the circumstances.
+(6) The application must meet the requirements of section 91EO.
+(7) The person may withdraw the application at any time by notifying the Commissioner.
+(8) The amounts specified in subsection (3)﻿(a) and (b) may be varied from time to time by the Governor-General by Order in Council.
+
+### 91EM Effect of short-process ruling
+(1) This section applies, despite anything in another Act, when—
+  (a) a short-process ruling on a taxation law applies to a person in relation to a particular set of circumstances and a tax type to which the circumstances relate; and
+  (b) the person applies the taxation law for the tax type in the way stated in the ruling.
+(2) The Commissioner must apply the taxation law in relation to the person, the particular circumstances, and the tax type as provided in the ruling.
+(3) Subsection (2) does not apply if a person has issued the Commissioner with a notice of proposed adjustment to change the effect of a ruling that the person has previously applied.
+
+### 91EN Application of short-process ruling
+(1) A short-process ruling on a taxation law applies to a person in relation to a particular set of circumstances and a tax type to which the circumstances relate only for—
+  (a) the taxation law expressly referred to in the ruling; and
+  (b) the period or the tax year for which the ruling applies.
+(2) A short-process ruling does not apply to a person in relation to the particular circumstances and the related tax type to the extent to which—
+  (a) the circumstances are materially different to the circumstances described in the ruling; or
+  (b) a material omission or misrepresentation was made in connection with the application for the ruling; or
+  (c) the ruling is based on an express understanding about a future event or other matter, and the understanding subsequently proves to be materially incorrect; or
+  (d) the Commissioner stipulates a condition that is not met.
+
+### 91EO Disclosure requirements
+An application for a short-process ruling must—
+  (a) identify the person applying for the ruling; and
+  (b) describe the circumstances on which the ruling is sought; and
+  (c) disclose all relevant facts and documents relating to the circumstances described; and
+  (d) state the general tax outcome in relation to which the ruling is sought.
+
+### 91EP Commissioner may request further information
+The Commissioner may at any time request further relevant information from a person applying for a short-process ruling.
+
+### 91EQ Conditions on which short-process ruling based
+(1) If the Commissioner considers that the correctness of a short-process ruling would depend on conditions stipulated about a future event or other matter, the Commissioner may—
+  (a) state the conditions on which the Commissioner bases the ruling; or
+  (b) decline to make the ruling.
+(2) The Commissioner may stipulate conditions about the answer to a proscribed question, and stipulating those conditions is treated as not determining the proscribed question for the purposes of section 91E(4)﻿(a).
+
+### 91ER Right to consultation
+Before the Commissioner makes a short-process ruling, the Commissioner must give the person applying for the ruling a reasonable opportunity to be consulted if the content of the proposed ruling differs from that for which the application is made.
+
+### 91ES Content and notification of short-process ruling
+(1) A short-process ruling must state—
+  (a) that it is a short-process ruling made under section 91EK; and
+  (b) the identity of the person, the taxation law, and the particular set of circumstances to which the ruling applies; and
+  (c) how the taxation law applies to the person, the circumstances, and the related tax type; and
+  (d) the period or tax year for which the ruling applies; and
+  (e) any conditions stipulated by the Commissioner.
+(2) The Commissioner must notify the person who applied for the ruling of the content of the ruling by sending a copy of the ruling to the person.
+
+### 91ET Treatment of information
+(1) Information supplied to the Commissioner by the applicant for a short-process ruling is the factual basis on which the Commissioner makes the ruling.
+(2) Despite subsection (1), the Commissioner—
+  (a) may, as part of the process of making the ruling, inquire into the correctness or existence of the facts contained in the information supplied before making the ruling:
+  (b) is not stopped by the process of making the ruling or by the use of the information as the basis of the ruling from denying, outside the process of making the ruling or after making the ruling, the correctness or existence of the facts contained in the information supplied.
 
 **Product rulings**
 
