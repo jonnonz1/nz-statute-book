@@ -1,5 +1,5 @@
 # Housing Corporation (Social Housing Reform) Amendment Act 2016
-_Consolidation as at 2016-02-24_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Housing Corporation (Social Housing Reform) Amendment Act 2016.
