@@ -1,5 +1,5 @@
 # Child Protection (Child Sex Offender Government Agency Registration) Act 2016
-_Consolidation as at 2017-03-08_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Child Protection (Child Sex Offender Government Agency Registration) Act 2016.
@@ -466,7 +466,7 @@ The Commissioner must ensure that any information in the register about a person
   (a) the Police:
   (b) the Department of Corrections:
   (c) the Ministry of Social Development:
-  (d) Housing New Zealand Corporation:
+  (d) Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019:
   (e) the Department of Internal Affairs:
   (f) the New Zealand Customs Service:
   (g) any public sector agency (as that term is defined in section 2 of the Privacy Act 1993) that the Minister, after consultation with the Privacy Commissioner, identifies as a specified agency by notice in the Gazette.
