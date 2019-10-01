@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble
 
@@ -109,7 +109,7 @@ In this Act, unless the context otherwise requires,—
   - **road** has the same meaning as in section 315 of the Local Government Act 1974
   - **State Loan Department** means—
     (a) Public Trust:
-    (b) Housing New Zealand Corporation:
+    (b) Kāinga Ora–Homes and Communities:
     (c) the Māori Trustee
   - **subdivision consent** has the same meaning as in section 2(1) of the Resource Management Act 1991 and includes a certificate of compliance as defined in that Act
   - **Surveyor-General** has the meaning given to that term by section 2 of the Survey Act 1986
