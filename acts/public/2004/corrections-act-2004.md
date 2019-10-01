@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -2468,7 +2468,7 @@ The information referred to in section 180A(1) is, for each prisoner detained in
 For the purposes of section 182A, specified agency means—
   (a) the Department of Corrections:
   (b) the department responsible for administering the Oranga Tamariki Act 1989:
-  (c) Housing New Zealand Corporation:
+  (c) Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019:
   (d) the Ministry of Social Development:
   (e) the New Zealand Police:
   (f) any public sector agency (as that term is defined in section 2 of the Privacy Act 1993) that the Minister of Justice, after consultation with the Privacy Commissioner, identifies as a specified agency by notice in the Gazette.
