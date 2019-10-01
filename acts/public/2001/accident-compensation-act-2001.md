@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -50,15 +50,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (a) means a business, industry, profession, trade, undertaking of an employer, a self-employed person, or a private domestic worker; and
     (b) includes ancillary or subservient functions relating to the activity, such as administration, management, marketing and distribution, technical support, maintenance, and product development; and
     (c) in the case of a self-employed person, refers to the nature of his or her work rather than the context or business in which he or she is working
-  - **acupuncturist** means—
-    (a) a member of the New Zealand Register of Acupuncturists Incorporated; or
-    (b) a member of the New Zealand Acupuncture Standards Authority Incorporated who—
-      (i) is a qualified health professional registered to practise in some other medical discipline in New Zealand who holds a recognised postgraduate qualification in acupuncture of a minimum of 120 credits (1 year full time) at Level 8 or above on the New Zealand Register of Quality Assured Qualifications; or
-      (ii) holds a National Diploma in Acupuncture (Level 7) or equivalent according to the criteria for the New Zealand Register of Quality Assured Qualifications
   - **acute treatment** has the meaning set out in section 7
-  - **audiologist** —
-    (a) means a member of the New Zealand Audiological Society; but
-    (b) does not include a member when he or she is acting in the course of employment by a supplier of hearing aids or acting as a supplier of hearing aids
   - **Board** means the Board of the Corporation
   - **child** , in relation to a deceased claimant,—
     (a) means his or her natural child; and
@@ -68,14 +60,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (ii) acted as a parent of the child; but
     (d) does not include an other dependant of the claimant
   - **child care** means personal care or supervisory care of a child in New Zealand
-  - **chiropractor** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Chiropractic Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of chiropractic; and
-    (b) holds a current practising certificate
   - **claim** means a claim under section 48
   - **claimant** , in relation to a deceased claimant, includes the spouse or partner, any child, and any other dependants of the deceased claimant
-  - **clinical dental technician** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of clinical dental technology; and
-    (b) holds a current practising certificate
   - **close company** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **Code** —
     (a) means the Code of ACC Claimants' Rights approved under section 44; and
@@ -95,12 +81,6 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (e) a decision about the level of any entitlements to be provided:
     (f) a decision relating to the levy payable by a particular levy payer:
     (g) a decision made under the Code about a claimant's complaint
-  - **dental technician** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dental technology; and
-    (b) holds a current practising certificate
-  - **dentist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Dental Council established by section 114(2) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of dentistry; and
-    (b) holds a current practising certificate
   - **district health board or other provider** means a DHB or provider, as defined in section 6 of the New Zealand Public Health and Disability Act 2000
   - **earner** —
     (a) means a natural person who engages in employment, whether or not as an employee; and
@@ -156,19 +136,10 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **individual rehabilitation plan** —
     (a) means a plan under section 75 that provides for a claimant to receive rehabilitation that will assist in accordance with section 70 in restoring the claimant's health, independence, and participation to the maximum practicable extent; and
     (b) includes an individual rehabilitation programme or individual rehabilitation plan entered into under a former Act
-  - **medical laboratory technologist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Sciences Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science; and
-    (b) holds a current practising certificate
   - **medical practitioner** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
     (b) holds a current practising certificate
-  - **medical radiation technologist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Medical Radiation Technologists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical radiation technology; and
-    (b) holds a current practising certificate
   - **mental injury** has the meaning set out in section 27
-  - **midwife** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery; and
-    (b) holds a current practising certificate
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **moped** has the meaning given to it in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
@@ -182,22 +153,8 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (b) for any other person, means the age specified in section 7 of the New Zealand Superannuation and Retirement Income Act 2001,—
   - **non-earner** means a natural person who is not an earner
   - **Non-Earners' Account** means the Account described in section 227
-  - **nurse** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of general nursing functions; and
-    (b) holds a current practising certificate
-  - **nurse practitioner** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Nursing Council of New Zealand continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of nursing whose scope of practice permits the performance of nurse practitioner functions; and
-    (b) holds a current practising certificate
-  - **occupational therapist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Occupational Therapy Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of occupational therapy; and
-    (b) holds a current practising certificate
-  - **optometrist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Optometrists and Dispensing Opticians Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of optometry; and
-    (b) holds a current practising certificate
+  - **nurse practitioner** has the meaning given to it in regulations made under this Act
   - **ordinarily resident in New Zealand** has the meaning set out in section 17
-  - **osteopath** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Osteopathic Council established by section 114(4) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of osteopathy; and
-    (b) holds a current practising certificate
   - **other dependant** means a person who has all the following characteristics immediately before a deceased claimant's death:
     (a) because of his or her physical or mental condition, he or she is financially dependent on the deceased claimant:
     (b) he or she is deriving average earnings per week of less than the minimum weekly earnings as determined under clause 42(3) of Schedule 1:
@@ -220,12 +177,6 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **pharmaceutical** means—
     (a) a prescription medicine, a restricted medicine, or a pharmacy-only medicine, as listed in Parts 1, 2, and 3 of Schedule 1 of the Medicines Regulations 1984; or
     (b) a controlled drug as defined in the Misuse of Drugs Act 1975
-  - **pharmacist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Pharmacy Council established by section 114(5) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of pharmacy; and
-    (b) holds a current practising certificate
-  - **physiotherapist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Physiotherapy Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of physiotherapy; and
-    (b) holds a current practising certificate
   - **place of education** —
     (a) means—
       (i) a composite school or a secondary school as defined by section 2(1) of the Education Act 1989 or a secondary school registered under section 35A of that Act; and
@@ -236,9 +187,6 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (a) occupied for the purposes of employment; or
     (b) to which a person has access because of his or her employment; or
     (c) attended by a person for a course of education or training for the purposes of his or her current employment, if he or she receives earnings from that employment for his or her attendance
-  - **podiatrist** means a health practitioner who—
-    (a) is, or is deemed to be, registered with the Podiatrists Board continued by section 114(1)﻿(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of podiatry; and
-    (b) holds a current practising certificate
   - **potential earner** means a claimant who either—
     (a) suffered personal injury before turning 18 years; or
     (b) suffered personal injury while engaged in full-time study or training that began before the claimant turned 18 years and continued uninterrupted until after the claimant turned 18 years
@@ -258,10 +206,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
       (iv) the employment is not regular full-time employment; and
     (b) to whom section RD 4 of the Income Tax Act 2007 (obligation to make own tax deductions) applies
   - **public health acute services** means services (as defined in regulations made under section 322(2)) that are purchased through the Minister of Health and provided by a publicly funded provider
-  - **registered health professional** —
-    (a) means a chiropractor, clinical dental technician, dental technician, dentist, medical laboratory technologist, medical practitioner, medical radiation technologist, midwife, nurse, nurse practitioner, occupational therapist, optometrist, pharmacist, physiotherapist, or podiatrist; and
-    (b) includes any person referred to in paragraph (a) who holds an interim practising certificate but only when acting in accordance with any conditions of such interim certificate; and
-    (c) includes a member of any occupational group included in the definition of registered health professional by regulations made under section 322
+  - **registered health professional** means a registered health professional of a type defined in regulations made under this Act
   - **Registrar** , in relation to an appeal to the District Court under Part 5, means a Registrar of a specified registry; and includes a Deputy Registrar of a specified registry
   - **rehabilitation** —
     (a) means a process of active change and support with the goal of restoring, to the extent provided under section 70, a claimant's health, independence, and participation; and
@@ -272,7 +217,6 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
   - **shareholder-employee** means a natural person who is a shareholder in, and an employee of, a close company
   - **specified maximum** , in relation to earnings, means the relevant prescribed maximum amount of earnings on which a levy is payable by or in respect of any person
   - **specified registry** , in relation to an appeal under Part 5, means a registry of the District Court that is for the time being specified in regulations made under this Act for the purposes of sending or filing notices of appeal
-  - **speech therapist** means a member of the New Zealand Speech Language Therapists Association (Incorporated)
   - **spouse** has the meaning set out in section 18(1) to (3); and, in relation to a deceased claimant, has the meaning set out in section 18(4) to (6)
   - **suffers** is affected in its interpretation by—
     (a) section 36 and clause 55 of Schedule 1, when it is used in relation to mental injury:
@@ -286,9 +230,7 @@ The transitional, savings, and related provisions set out in Schedule 1AA have e
     (c) an examination for the purpose of providing a certificate including the provision of the certificate
   - **treatment injury** has the meaning set out in section 32
   - **Treatment Injury Account** means the Account described in section 228
-  - **treatment provider** —
-    (a) means an acupuncturist, audiologist, chiropractor, counsellor, dentist, medical laboratory technologist, nurse, nurse practitioner, occupational therapist, optometrist, osteopath, physiotherapist, podiatrist, medical practitioner, or speech therapist; and
-    (b) includes a member of any occupational group included in the definition of treatment provider by regulations made under section 322
+  - **treatment provider** means a treatment provider of a type defined in regulations made under this Act
   - **vocational independence** , in relation to a claimant, means the claimant's capacity, as determined under section 107, to engage in work—
     (a) for which he or she is suited by reason of experience, education, or training, or any combination of those things; and
     (b) for 30 hours or more a week
@@ -3603,8 +3545,9 @@ A person who commits an offence against this Act or any regulations made under i
   (b) defining counsellor for the purposes of this Act:
   (c) defining impairment for the purposes of this Act:
   (d) prescribing a place of education for the purposes of this Act:
-  (e) adding an occupational group, or part of an occupational group, to the definition of registered health professional in section 6(1), and defining that group or part by reference to membership of or registration with a particular body or in some other way:
-  (f) adding an occupational group, or part of an occupational group, to the definition of treatment provider in section 6(1), and defining that group or part by reference to membership of or registration with a particular body or in some other way.
+  (e) defining a type or types of registered health professional for the purposes of this Act:
+  (f) defining a type or types of treatment provider for the purposes of this Act:
+  (fa) defining a health occupational group or part of a health occupational group for the purposes of this Act.
   (g)
 (2) The Governor-General may, on the recommendation of the Minister and the Minister of Health, by Order in Council, make regulations defining public health acute services for the purposes of this Act.
 (3) The Minister may not make any recommendation under subsection (1) or subsection (2) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject matter of the proposed regulations.
