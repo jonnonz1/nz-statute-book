@@ -1,5 +1,5 @@
 # Major Events Management Act 2007
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Major Events Management Act 2007.
@@ -679,9 +679,13 @@ The Flags, Emblems, and Names Protection Act 1981 is amended by repealing sectio
 | --- |
 | (as depicted below, or in black) |
 
-| THE FIVE RING OLYMPIC SYMBOL WITH A FERN LEAF |
+| NEW ZEALAND OLYMPIC COMMITTEE OLYMPIC LOGO WITH FIVE RING OLYMPIC SYMBOL WITH A FERN LEAF |
 | --- |
-| (as depicted below, or in black, with or without the words New Zealand or New Zealand Olympic Committee or any abbreviation or combination of those words) |
+| (as depicted below, or in black, with or without the words New Zealand Olympic Committee or any abbreviation or combination of those words) |
+
+| NZ TEAM OLYMPIC LOGO WITH FIVE RING OLYMPIC SYMBOL WITH A FERN LEAF |
+| --- |
+| (as depicted below, or in black, with or without the words NZ Team or any abbreviation or combination of those words) |
 
 | GOLDIE THE OFFICIAL NEW ZEALAND OLYMPIC MASCOT |
 | --- |
@@ -711,6 +715,8 @@ The Flags, Emblems, and Names Protection Act 1981 is amended by repealing sectio
 
 ### 1 Comité International Olympique
 Commonwealth Games
+Commonwealth Games Federation
+Commonwealth Youth Games
 Five Ring Olympic symbol
 Five Ring Olympic symbol with a Fern Leaf
 International Olympic Committee
@@ -721,10 +727,12 @@ New Zealand Olympic and Commonwealth Games Association Incorporated
 New Zealand Olympic Committee Incorporated
 New Zealand Olympic Team
 New Zealand Youth Olympic Festival Team
+New Zealand Youth Olympic Summer Team
 New Zealand Youth Olympic Team
 New Zealand Youth Olympic Winter Team
 Olympic Games
 Olympic Gold
+Youth Olympic Games
 
 ### 2 Any abbreviation, extension, or derivation of the names in clause 1.
 [Repealed]
@@ -736,30 +744,33 @@ Olympic Gold
 
 | Column A | Column B |
 | --- | --- |
-| Commonwealth | Rio de Janeiro |
-| Games | Rio |
-| Olympiad | Buenos Aires |
-| Olympian | Gold Coast |
-| Olympic | PyeongChang |
-| Olympics | Tokyo |
-| Winter Olympics | 2016 |
-|  | 2018 |
+| Commonwealth | Beijing |
+| Games | Dakar |
+| Olympiad | Lausanne |
+| Olympian | Birmingham |
+| Olympic | Paris |
+| Olympics | Los Angeles |
+| Winter Olympics | LA |
+|  | Tokyo |
 |  | 2020 |
-|  | II |
-|  | 2nd |
-|  | Second |
+|  | 2022 |
+|  | 2024 |
+|  | 2028 |
 |  | III |
 |  | 3rd |
 |  | Third |
-|  | XXI |
-|  | 21st |
-|  | Twenty-first |
-|  | XXIII |
-|  | 23rd |
-|  | Twenty-third |
-|  | XXXI |
-|  | 31st |
-|  | Thirty-first |
+|  | IV |
+|  | 4th |
+|  | Fourth |
+|  | XXIV |
+|  | 24th |
+|  | Twenty-fourth |
 |  | XXXII |
 |  | 32nd |
 |  | Thirty-second |
+|  | XXXIII |
+|  | 33rd |
+|  | Thirty-third |
+|  | XXXIV |
+|  | 34th |
+|  | Thirty-fourth |
