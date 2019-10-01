@@ -1,5 +1,5 @@
 # Family Benefits (Home Ownership) Act 1964
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-10-01_
 
 > An Act to consolidate and amend the law relating to the making of advances for housing purposes against the capitalised value of family benefits
 
@@ -18,6 +18,7 @@ This Act may be cited as the Family Benefits (Home Ownership) Act 1964.
   - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **dwelling** includes all necessary outbuildings and appurtenances in connection with a dwelling
   - **family benefit** means the benefit of that name that was, until 31 March 1991, payable under the Social Security Act 1964 in respect of a child under 16 years of age
+  - **Kāinga Ora–Homes and Communities** means Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019
   - **land** includes any estate or interest, whether freehold or chattel, in real property
   - **Minister** means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **pay period** , in relation to any family benefit, means a period of 4 complete weeks for which pursuant to the Social Security Act 1964 the benefit was payable.
@@ -62,7 +63,7 @@ Subject to the provisions of this Act, and notwithstanding anything in the Socia
   (b) no such advance shall be made of an amount which, together with the amount of any previous advance or advances under this Act or under the Family Benefits (Home Ownership) Act 1958, is less than 200 pounds.
 
 ### 6A Cessation of advances for housing purposes
-(1) Notwithstanding anything in section 6 or in any other provision of this Act, no advance under section 6 shall be made to any applicant who has been granted an advance by Housing New Zealand Corporation as a Homestart loan and designated as such by the Corporation.
+(1) Notwithstanding anything in section 6 or in any other provision of this Act, no advance under section 6 shall be made to any applicant who has been granted an advance by Housing New Zealand Corporation or Kāinga Ora–Homes and Communities as a Homestart loan and designated as such by the Corporation or Kāinga Ora–Homes and Communities.
 (2) Notwithstanding anything in section 10 or in any other provision of this Act, no certificate of eligibility shall be issued under section 10, and no renewal of any such certificate of eligibility shall be made, in respect of any application received by the chief executive, on or after 1 October 1986.
 
 ### 7 Land in respect of which advance may be made
@@ -78,7 +79,7 @@ Subject to the provisions of this Act, and notwithstanding anything in the Socia
 (1) Every application for an advance shall be made by the beneficiary on a form provided for the purpose by the chief executive, and shall be lodged in an office of the department.
 (2) Every beneficiary applying for an advance shall supply in writing such information in support of his application as the chief executive requires, and shall declare that the contents of his application are true and correct in every material point.
 (3) Where the beneficiary is married, the chief executive may require the application to be made jointly by the beneficiary and the spouse of the beneficiary.
-(4) It shall be the duty of every person to make true answers to all questions put to him by any member of the Commission or by a Registrar of the department or by any authorised officer or agent of the department or of Housing New Zealand Corporation or of Te Puni Kōkiri in respect of any application for an advance or other matter arising under this Act or any regulations under this Act, and without requiring the payment of any fee, to furnish in writing such certificates and information as may be required for the purposes of this Act or of any such regulations.
+(4) It shall be the duty of every person to make true answers to all questions put to him by any member of the Commission or by a Registrar of the department or by any authorised officer or agent of the department or of Kāinga Ora–Homes and Communities or of Te Puni Kōkiri in respect of any application for an advance or other matter arising under this Act or any regulations under this Act, and without requiring the payment of any fee, to furnish in writing such certificates and information as may be required for the purposes of this Act or of any such regulations.
 
 ### 9 Declarations
 Any declaration required to be made for the purpose of this Act may be made before—
@@ -112,7 +113,7 @@ Subject to the limits specified in section 6, an advance for any housing purpose
 (1) The amount of an advance shall be a charge upon the land in respect of which it is made, and the charge may be registered against the land in the manner prescribed by section 14.
 (2) Every charge created under this section shall be taken—
   (a) in favour of Her Majesty the Queen in any case where a loan on the security of the land has been granted or applied for under the Maori Housing Act 1935 or the Maori Trustee Act 1953:
-  (b) in favour of Housing New Zealand Corporation as agent for the chief executive in every other case.
+  (b) in favour of Kāinga Ora–Homes and Communities as agent for the chief executive in every other case.
 (3) Notwithstanding anything in any other Act, where the amount of any advance is applied in discharging or partially discharging any registered encumbrance existing on the land, the charge created by this section shall, when registered under the Land Transfer Act 1952 or other appropriate Act, have priority over all registered encumbrances over which the encumbrances so discharged or partially discharged had priority, subject to the registration before the registration of the charge of a discharge or partial discharge, as the case may be, of the encumbrances so wholly or partially discharged.
 (4) Where an advance is applied in payment or partial payment of purchase money owing under a registered agreement for sale and purchase of land or under a registered lease or licence under which the beneficiary or the beneficiary and the spouse of the beneficiary are purchasing the fee simple of the land, the charge securing the repayment of the advance shall charge the interest of the beneficiary or, as the case may be, of the beneficiary and the spouse of the beneficiary in the agreement or lease or licence (or the fee simple, if the advance is applied in payment in full of the purchase money), and shall rank immediately before all other encumbrances registered against the agreement or lease or licence or, where the advance is applied in payment in full of the purchase money, immediately before all encumbrances to which the agreement or lease or licence was subject immediately before the acquisition of the fee simple by the beneficiary or by the beneficiary and the spouse of the beneficiary:provided that the charge holder may agree to accept a lower ranking in order of priority.
 (5) For the purposes of section 461 of the Maori Affairs Act 1953, a charge under this Act shall be deemed to be a mortgage.
@@ -123,7 +124,7 @@ Subject to the limits specified in section 6, an advance for any housing purpose
 (7A) In particular, and without limiting the generality of subsection (7), there is implied in the charge,—
   (a) on the part of the person giving it, the covenants by the mortgagor specified in Part 1 of Schedule 2 of the Property Law Act 2007; and
   (b) in favour of the charge holder, the powers and conditions specified in that schedule.
-(8) Where the land over which any such charge in favour of Housing New Zealand Corporation as agent for the chief executive is taken is a tenure of any of the kinds referred to in section 27 of the Housing Corporation Act 1974, the provisions of that section, as far as they are applicable and with the necessary modifications, shall apply as if the advance was a loan granted by the chief executive and as if references in that section to a mortgage and to the mortgagor were references to the charge and the person giving the charge respectively.
+(8)
 (9) Every such charge in favour of Her Majesty the Queen may be enforced, sued upon, varied, or released on behalf of Her Majesty by any person for the time being authorised by the Board of Maori Affairs under section 30 of the Maori Housing Amendment Act 1938 or section 10 of the Maori Affairs Act 1953 to take proceedings or execute documents for the purposes of the Maori Housing Act 1935.
 (10) Nothing in section 11 of the Maori Housing Amendment Act 1938 shall apply with respect to any charge created by this section.
 
