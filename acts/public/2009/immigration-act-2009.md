@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -3402,7 +3402,7 @@ The persons and bodies who may be required by certificate under section 274 to p
     (iv) New Zealand Police:
     (v) Land Transport New Zealand:
     (vi) Department of Building and Housing:
-    (vii) Housing New Zealand Corporation:
+    (vii) Kāinga Ora–Homes and Communities:
     (viii) Department of Corrections:
     (ix) any government agency established in substitution for, or set up to take over any relevant function of, the departments and agencies listed in subparagraphs (i) to (viii):
   (b) education providers, in relation only to enrolled students not in compulsory education:
