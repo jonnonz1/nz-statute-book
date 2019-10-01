@@ -1,5 +1,5 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-01_
 
 > Title
 
