@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -150,8 +150,8 @@ Legal aid may be granted in respect of the following criminal matters:
   (f) proceedings before the Waitangi Tribunal:
   (g) proceedings before the Social Security Appeal Authority:
   (h) proceedings before the Tenancy Tribunal:
-  (i) proceedings before a body established under section 63(1)﻿(a)﻿(i) of the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under section 62 of that Act:
-  (ia) proceedings before any body established under the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under sections 132 to 135 of that Act or proceedings before any body established under that Act to hear appeals under sections 183 to 188 of that Act:
+  (i) proceedings before a body established under section 63(1)﻿(a)﻿(i) of the Public and Community Housing Management Act 1992 to hear appeals under section 62 of that Act:
+  (ia) proceedings before any body established under the Public and Community Housing Management Act 1992 to hear appeals under sections 132 to 135 of that Act or proceedings before any body established under that Act to hear appeals under sections 183 to 188 of that Act:
   (j) proceedings before the Immigration and Protection Tribunal, as established by the Immigration Act 2009, in respect of appeals against decisions to decline to grant recognition as a refugee or a protected person, or decisions to cease to recognise a person as a refugee or a protected person, as provided in sections 194(1) and 195 of that Act, or against liability for deportation arising under section 162 of that Act:
   (k) the processing, under Part 5 of the Immigration Act 2009, of any claim for recognition as a refugee or a protected person:
   (l) any proceedings before the District Court or High Court following an application made under section 316 or 324 of the Immigration Act 2009:
