@@ -1,5 +1,5 @@
 # Financial Markets Conduct Act 2013
-_Consolidation as at 2019-04-09_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Financial Markets Conduct Act 2013.
@@ -6296,7 +6296,7 @@ An offer of financial products does not require disclosure under Part 3 of this 
   (a) the Crown; or
   (b) the Board of Trustees of the National Provident Fund continued under the National Provident Fund Restructuring Act 1990; or
   (c) the Reserve Bank; or
-  (d) Housing New Zealand Corporation established by the Housing Corporation Act 1974; or
+  (d) Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019; or
   (e) the Māori Trustee, but in relation only to money constituted in the common fund of the Māori Trustee that is entitled to the protection against deficiency afforded by section 27 of the Māori Trustee Act 1953; or
   (f) Public Trust, but in relation only to money constituted in the common fund of Public Trust that is entitled to the protection against deficiency afforded by section 52 of the Public Trust Act 2001.
 (2) An offer of an interest in the Government Superannuation Fund does not require disclosure under Part 3 of this Act.
