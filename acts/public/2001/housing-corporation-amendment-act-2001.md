@@ -1,5 +1,5 @@
 # Housing Corporation Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 (1) This Act is the Housing Corporation Amendment Act 2001.
@@ -139,7 +139,7 @@ The principal Act is amended by repealing section 20, and substituting the follo
     (a) the Crown must pay to the Corporation all or part of that price (as the case requires); and
     (b) if the policy is for the Corporation to provide housing and related services to persons who are to be required to pay income-related rents rather than market rents for the housing, the agreement or notice concerned must state that the services are to be provided in return for the payment by the Crown to the Corporation of the difference between the amounts of market rents for the housing and the income-related rents charged.
   (2) If, because its statement of intent requires it to do so, the Corporation provides services that it cannot provide on normal business terms, the Crown may wholly or partly recompense it for doing so.
-  (3) In subsection (1)(b), income-related rents and market rents have the meanings given to those terms by section 42(1) of the Housing Restructuring Act 1992.
+  (3) In subsection (1)﻿(b), income-related rents and market rents have the meanings given to those terms by section 42(1) of the Housing Restructuring Act 1992.
   (4) After the vesting day in relation to HNZ, every agreement between the Crown and HNZ entered into by virtue of a requirement under section 7 of the Housing Restructuring Act 1992 (or under that section as applied by section 65 of that Act) has effect as if it were an agreement entered into under a requirement under section 20(1).
   (5) Nothing in this section limits or affects the generality of section 20.
   Sections 20 to 20B apply to subsidiaries as if every reference to the Corporation were a reference to a subsidiary.
@@ -256,7 +256,7 @@ The principal Act is amended by inserting, after Part 5, the following Parts:Res
     (a) every reference to the existing company concerned in any contract, lease, notice, order, proceedings, regulations, or other document has effect as a reference to the Corporation; and
     (b) to the extent that the order concerned vests an asset or liability of the Crown in the Corporation, every reference to the Crown (whether as Her Majesty, the Crown, or a Minister of the Crown) in any contract, lease, notice, order, proceedings, regulations, or other document relating to the asset or liability (being a reference to the Crown by virtue of its status as owning the asset or being liable for the liability) has effect as a reference to the Corporation; and
     (c) the Corporation has all the rights, obligations, privileges, and immunities of the existing company concerned (and of any officer or employee of that company acting as an officer or employee of that company), and all the rights, obligations, privileges, and immunities of the Crown as aforesaid (other than rights, obligations, privileges, and immunities that the Crown has only by virtue of being the Crown), in relation to all appeals, applications, objections, and other proceedings before any authority, court, tribunal, or person acting judicially, relating to any asset or liability vested by the order concerned.
-  (1) Except as provided in section 53(1)(c), neither the Registrar-General of Land nor any other person charged with the keeping of any records or registers is obliged solely by reason of any provision of this Part to change any name in those records or registers or in any document.
+  (1) Except as provided in section 53(1)﻿(c), neither the Registrar-General of Land nor any other person charged with the keeping of any records or registers is obliged solely by reason of any provision of this Part to change any name in those records or registers or in any document.
   (2) An order under section 53 is sufficient notice to all persons of its effect (and of any effect of section 54); and no specific notice needs to be given to any person or authority.
   (3) In the absence of evidence to the contrary, it is sufficient proof that any asset or liability is vested in the Corporation if a person presents to a registrar or any other person an instrument, whether or not comprising an instrument of transfer,—
     (a) executed or purporting to be executed by or on behalf of the Corporation; and
@@ -268,7 +268,7 @@ The principal Act is amended by inserting, after Part 5, the following Parts:Res
     (c) the company must be treated as an amalgamating company; and
     (d) the company must be treated as having ceased to exist on the vesting day.
   (2) If the assets and liabilities of an existing company vest in the Corporation under section 53,—
-    (a) subparagraphs (v) and (vi) of section FE 6(5)(a) and subparagraphs (iv) and (v) of section FE 7(1)(a) of the Income Tax Act 1994 must be treated as having been satisfied; and
+    (a) subparagraphs (v) and (vi) of section FE 6(5)﻿(a) and subparagraphs (iv) and (v) of section FE 7(1)﻿(a) of the Income Tax Act 1994 must be treated as having been satisfied; and
     (b) for the purposes of section FE 10 of that Act, the company must be treated as having been solvent immediately before the vesting day.
   (3) For the purposes of the Financial Reporting Act 1993, the vesting of the assets and liabilities of an existing company under section 53 is an amalgamation under the Companies Act 1993 of the company and the Corporation.
   (4) Subsections (1) to (3) apply as if the Corporation were a company within the meaning of the Companies Act 1993.
@@ -463,7 +463,7 @@ The following persons are disqualified from being appointed or from holding offi
   (a) consistently with the Corporation's objectives, functions, powers, and duties; and
   (b) efficiently and effectively; and
   (c) consistently with a spirit of service to the public; and
-  (d) in a financially responsible manner in accordance with paragraphs (a)(iv) and (b) of subclause (2).
+  (d) in a financially responsible manner in accordance with paragraphs (a)﻿(iv) and (b) of subclause (2).
 
 ### 10 Liability of members and committee members
 (1) A member, and a member of any committee of the Corporation, is not personally liable, in an action taken against him or her, for any liability of the Corporation, or for any act done or omitted to be done by the Corporation or by any person acting under a delegation of the Corporation's functions and powers, provided the member acted in good faith in pursuance or intended pursuance of the functions or powers of the Corporation.
@@ -663,7 +663,7 @@ All resolutions of the Corporation must be decided by a majority of the votes ca
   (b) whether or not the law governing the contract or obligation is the law of New Zealand.
 
 ### 39 Attorneys
-(1) The Corporation may, by an instrument in writing executed in accordance with clause 38(2)(a), appoint a person as its attorney either generally or in relation to a specified matter.
+(1) The Corporation may, by an instrument in writing executed in accordance with clause 38(2)﻿(a), appoint a person as its attorney either generally or in relation to a specified matter.
 (2) An act of the attorney in accordance with the instrument binds the Corporation.
 
 ### 40 Ability for Corporation to delegate functions and powers
@@ -678,7 +678,7 @@ All resolutions of the Corporation must be decided by a majority of the votes ca
   (b) a person of a specified class; or
   (c) the holder for the time being of a stated office or appointment; or
   (d) the holders for the time being of offices or appointments of a stated class.
-(3) Subclause (1)(a) is subject to clause 24(2).
+(3) Subclause (1)﻿(a) is subject to clause 24(2).
 
 ### 41 Certain powers must not be delegated
 (1) The Corporation must not delegate—
