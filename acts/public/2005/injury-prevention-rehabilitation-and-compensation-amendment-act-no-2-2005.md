@@ -1,5 +1,5 @@
 # Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 (1) This Act is the Injury Prevention, Rehabilitation, and Compensation Amendment Act (No 2) 2005.
@@ -121,7 +121,7 @@ The principal Act is amended by inserting, after section 21, the following secti
   (5) Section 38 describes how the date on which the person suffers the personal injury referred to in subsection (4)﻿(c) is determined.
 
 ### 10 Accident
-(1) Section 25(1) of the principal Act is amended by repealing paragraph (a), and substituting the following paragraph:
+(1) Section 25(1) is amended by repealing paragraph (a), and substituting the following paragraph:
   (a) a specific event or a series of events, other than a gradual process, that—
     (i) involves the application of a force (including gravity), or resistance, external to the human body; or
     (ii) involves the sudden movement of the body to avoid a force (including gravity), or resistance, external to the body; or
