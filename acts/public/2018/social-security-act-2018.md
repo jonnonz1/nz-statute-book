@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -642,12 +642,13 @@ MSD may grant a young parent payment to a young person (P) who meets all of the 
 
 ### 66 Social housing exclusion
 (1) A person is ineligible for an accommodation supplement (on the ground of the social housing exclusion) if the person’s accommodation costs (as defined in section 65) include—
-  (a) rent paid in respect of premises let by or on behalf of Housing New Zealand Corporation; or
+  (a) rent paid in respect of premises let by or on behalf of Kāinga Ora–Homes and Communities; or
   (b) rent paid in respect of premises let by or on behalf of a registered community housing provider (but only if that person has been allocated those premises as social housing); or
-  (c) payments, required to be made under a mortgage security to Housing New Zealand Corporation or the Crown in right of Te Puni Kōkiri, that MSD believes are required to be made at a concessionary rate.
+  (c) payments, required to be made under a mortgage security to Kāinga Ora–Homes and Communities or the Crown in right of Te Puni Kōkiri, that MSD believes are required to be made at a concessionary rate.
 (2) In this section,—
-  - **registered community housing provider** has the same meaning as in section 2 of the Housing Restructuring and Tenancy Matters Act 1992
-  - **social housing** has the same meaning as in section 2 of the Housing Restructuring and Tenancy Matters Act 1992.
+  - **Kāinga Ora–Homes and Communities** means Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019
+  - **registered community housing provider** has the same meaning as in section 2 of the Public and Community Housing Management Act 1992
+  - **social housing** has the same meaning as in section 2 of the Public and Community Housing Management Act 1992.
 (3) In this section and section 68,—
   - **premises** , in relation to a person,—
     (a) means the place that the person occupies as a home; and
@@ -3722,7 +3723,7 @@ An applicant or beneficiary or other person may appeal to the appeal authority a
 
 ### 402 Act does not affect appeals to authority under other enactments
 This Act does not affect appeals under other enactments to the appeal authority (or appeals in respect of determinations by the appeal authority of those appeals), for example,—
-  (a) appeals under section 133, and in accordance with regulations made under section 136, of the Housing Restructuring and Tenancy Matters Act 1992; or
+  (a) appeals under section 133, and in accordance with regulations made under section 136, of the Public and Community Housing Management Act 1992; or
   (b) appeals provided for by regulations made, or deemed to have been made, under section 92(3)﻿(d) of the New Zealand Public Health and Disability Act 2000.
 
 **Procedure**
@@ -5044,7 +5045,7 @@ A person’s income excludes the following payments:
   (h) any money paid in respect of any military decoration and received by the person as a recipient of that decoration:
   (i) any money received by the person by way of an independence allowance under section 54 of the Accident Rehabilitation and Compensation Insurance Act 1992 or Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, or any impairment lump sum received under Schedule 1 of the Accident Compensation Act 2001:
   (j) any money received by the person under the Oranga Tamariki Act 1989 in respect of the care of a child or young person (as those terms are defined in that Act), including financial assistance received by a young person (including a young adult), a caregiver, or other person under section 386AAG or 386B of that Act:
-  (k) any income-related rent (within the meaning of the Housing Restructuring and Tenancy Matters Act 1992):
+  (k) any income-related rent (within the meaning of the Public and Community Housing Management Act 1992):
   (l) any tax credit or amount received by the person under—
     (i) subparts MA to MG and MZ of the Income Tax Act 2007; or
     (ii) subpart KD of the Income Tax Act 2004; or
