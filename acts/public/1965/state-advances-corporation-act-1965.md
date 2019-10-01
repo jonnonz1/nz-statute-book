@@ -1,5 +1,5 @@
 # State Advances Corporation Act 1965
-_Consolidation as at 1974-10-14_
+_Consolidation as at 2019-10-01_
 
 > An Act to consolidate and amend the State Advances Corporation Act 1934–35 and its amendments
 
