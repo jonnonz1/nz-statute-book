@@ -1,5 +1,5 @@
 # Home Ownership Savings Act 1974
-_Consolidation as at 2017-06-03_
+_Consolidation as at 2019-10-01_
 
 > An Act to encourage saving for home ownership
 
