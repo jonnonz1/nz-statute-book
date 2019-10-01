@@ -1,5 +1,5 @@
 # Land Act 1948
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the lands of the Crown in New Zealand
 
@@ -1157,7 +1157,7 @@ In every case of the forfeiture of a lease or licence, the lessee or licensee sh
 (1) Where a lease or licence is declared to be forfeited, the Board shall, as soon as possible after the date of the forfeiture or after recovering possession of the land, cause a valuation to be made in such manner as the Board directs of the improvements effected or purchased by the former lessee or licensee.
 (2) Subject to the provisions of section 151, as soon as possible after the valuation referred to in the last preceding subsection is made, the land shall be offered for acquisition in accordance with the provisions of this Act, weighted with the value of the improvements effected or purchased by the former lessee or licensee as determined by the said valuation.
 (3) Where the Board is of opinion that the disposal of any land is being hindered by reason of the value of the improvements as provided in the last preceding subsection being excessive, the Board may in its discretion from time to time reduce the value of the improvements and again offer the land for acquisition. No claim shall lie against Her Majesty, or the Board, or any Land Settlement Committee, or the Commissioner by reason of any such reduction of valuation.
-(4) The provisions of subsections (1) and (3) shall be read subject to the provisions of subsection (5) of section 27 of the Housing Corporation Act 1974 in every case where the lease or licence forfeited is subject to a mortgage to which that section applies.
+(4)
 
 ### 150 Improvements to be purchased by incoming lessee or licensee
 (1) Where land offered for acquisition as provided in the last preceding section is acquired by an incoming lessee or licensee, the value of the improvements shall be paid by him in cash before he is admitted into possession of the land:provided that the Board may in its discretion allow the value of the said improvements to be paid by instalments over a period of years, subject to such conditions as to the payment of interest and otherwise as the Board thinks fit:provided also that in any case where the former lessee or licensee or any other person is entitled as hereinafter provided to receive payment of any amount in respect of the whole or any part of the value of the said improvements, the Board may, with the prior consent of the person entitled to receive the payment, allow the amount to be secured by way of mortgage to that person. Any such mortgage shall contain such provisions as to payment of interest and otherwise as the Board thinks fit.
