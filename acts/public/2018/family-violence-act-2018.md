@@ -1,5 +1,5 @@
 # Family Violence Act 2018
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Family Violence Act 2018.
@@ -304,8 +304,8 @@ In this Part, unless the context otherwise requires,—
     (c) Ministry of Education:
     (d) Ministry of Health:
     (e) any DHB (that is, an organisation established as a district health board by or under section 19 of the New Zealand Public Health and Disability Act 2000):
-    (f) Housing New Zealand Corporation:
-    (g) every registered community housing provider (as defined in section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992):
+    (f) Kāinga Ora–Homes and Communities established by the Kāinga Ora–Homes and Communities Act 2019:
+    (g) every registered community housing provider (as defined in section 2(1) of the Public and Community Housing Management Act 1992):
     (h) the part of the Ministry of Business, Innovation, and Employment referred to as Immigration New Zealand:
     (i) Ministry of Justice:
     (j) New Zealand Police:
