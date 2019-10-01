@@ -1,10 +1,10 @@
-# Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2019-04-01_
+# Public and Community Housing Management Act 1992
+_Consolidation as at 2019-10-01_
 
-> An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
+> Title
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Housing Restructuring and Tenancy Matters Act 1992.
+### 1 Title and commencement
+(1) This Act is the Public and Community Housing Management Act 1992.
 (2) Except as provided in subsections (3) and (4), this Act shall come into force on the date on which it receives the Royal assent.
 (3) Section 38 shall be deemed to have come into force on 31 March 1989.
 (4) Section 41 shall come into force on a date to be appointed by the Governor-General by Order in Council.
@@ -25,7 +25,6 @@ _Consolidation as at 2019-04-01_
   - **assessable assets** has the meaning given to that term by the calculation mechanism
   - **assessable income** has the meaning given to that term by section 108
   - **authority** means the authority appointed under section 159 to perform the functions and exercise the powers of the regulatory authority under Part 10
-  - **board** means the board of directors of the company
   - **calculate** includes ascertain
   - **calculation mechanism** ,—
     (a) before the commencement of the regulations first made under section 114, means sections 107 to 113 and the provisions of Schedule 2; and
@@ -34,45 +33,31 @@ _Consolidation as at 2019-04-01_
     (a) in relation to information that may be required under section 80, means the code of conduct issued under section 86:
     (b) in relation to information that may be required under section 125, means the code of conduct issued under section 138
   - **community housing** means any premises that are let or to be let by or on behalf of a registered community housing provider for occupation by any person as a place of residence (whether or not the premises are owned by the provider or any other person)
-  - **community housing provider** means a housing provider (other than HNZ or the Corporation) that has, as 1 of its objects, the provision of one or both of the following types of housing:
+  - **community housing provider** means a housing provider (other than Kāinga Ora–Homes and Communities) that has, as 1 of its objects, the provision of one or both of the following types of housing:
     (a) social rental housing:
     (b) affordable rental housing
-  - **company** ,—
-    (a) before the day on which the order under section 53 of the Housing Corporation Act 1974 relating to it comes into force, means the company the shares in which—
-      (i) on 30 June 2001 were owned by the responsible Minister (as that term was then defined by this section) and the Minister of Finance, having been acquired under the former section 9; and
-      (ii) on 1 July 2001 vested in the Corporation under section 52(1) of the Housing Corporation Act 1974; but
-    (b) on and after that day, must be read as a reference to the Corporation as that company's successor
   - **contributions** , in relation to an additional resident of any social housing, means all payments made by the resident, and the value of all goods or services provided or paid for by the resident,—
     (a) as a contribution towards the costs and expenses incurred by the applicable persons in residing there; or
     (b) in consideration of goods or services provided by the applicable persons while the resident is residing there; or
     (c) in consideration of the resident being allowed to reside there; or
     (d) for 2 or all of those reasons
-  - **Corporation** means the Housing New Zealand Corporation established under section 3 of the Housing Corporation Act 1974
-  - **Corporation assets** means any real or personal property of any kind belonging to the Corporation, whether or not subject to rights; and, without limiting the generality of the foregoing, includes—
-    (a) any estate or interest in any land belonging to the Corporation, including all rights of occupation of land or buildings:
-    (b) all buildings, vehicles, plant, equipment, and machinery belonging to the Corporation, and any rights therein:
-    (c) all financial products within the meaning of the Financial Markets Conduct Act 2013 belonging to the Corporation:
-    (d) all rights of any kind belonging to the Corporation, including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights:
-    (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights whether enforceable by Act or rule of law belonging to the Corporation:
-    (f) goodwill and any business undertaking of the Corporation
-  - **Corporation liabilities** means liabilities of the Corporation
-  - **HNZ** means the company
-  - **HNZ housing** means premises (whether owned by the Crown, HNZ, or any other person) let or to be let by or on behalf of HNZ for occupation by any person as a place of residence
   - **income-related purpose** has the same meaning as in Schedule 2 of the Social Security Act 2018
   - **income-related rent** ,—
-    (a) in relation to a tenant of HNZ housing, means a rent that the agency has—
+    (a) in relation to a tenant of Kāinga Ora housing, means a rent that the agency has—
       (i) calculated for the tenant under the calculation mechanism or Schedule 3; and
-      (ii) notified to HNZ; or
+      (ii) notified to Kāinga Ora–Homes and Communities; or
     (b) in relation to a tenant of a registered community housing provider, means a rent that the agency has—
       (i) calculated for the tenant under the calculation mechanism; and
       (ii) notified to the provider
   - **joint Ministers** means the Minister of Finance, the Minister of Housing, and the Minister for Social Development
+  - **Kāinga Ora–Homes and Communities** means Kāinga Ora–Homes and Communities established under the Kāinga Ora–Homes and Communities Act 2019, and includes any subsidiary of Kāinga Ora–Homes and Communities
+  - **Kāinga Ora housing** means premises (whether owned by the Crown, Kāinga Ora–Homes and Communities, or any other person) let or to be let by or on behalf of Kāinga Ora–Homes and Communities for occupation by any person as a place of residence
   - **liabilities** includes—
     (a) liabilities and obligations under any Act or agreement; and
     (b) deposits and other debt securities within the meaning of the Financial Markets Conduct Act 2013; and
     (c) contingent liabilities
   - **market rent** ,—
-    (a) in relation to HNZ housing, means the rent for the time being determined by HNZ or the Tenancy Tribunal (under the Residential Tenancies Act 1986) as the market rent for that housing; or
+    (a) in relation to Kāinga Ora housing, means the rent for the time being determined by Kāinga Ora–Homes and Communities or the Tenancy Tribunal (under the Residential Tenancies Act 1986) as the market rent for that housing; or
     (b) in relation to housing provided by a registered community housing provider, means the rent for the time being determined by that provider or the Tenancy Tribunal (under the Residential Tenancies Act 1986) as the market rent for that housing
   - **notification** means notification by the agency under sections 103 or 106
   - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (), a person who is A's civil union partner or de facto partner
@@ -89,17 +74,9 @@ _Consolidation as at 2019-04-01_
   - **reimbursement agreement** means an agreement referred to in section 85(1) or an agreement under section 98(1)
   - **rent period** , in relation to any social housing, means a period in respect of which the tenant is required by the tenancy agreement to pay rent for the housing
   - **rights** includes powers, privileges, interests, licences, approvals, consents, benefits, and equities of any kind, whether actual, contingent, or prospective
-  - **security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability, and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
-  - **sitting day** means a sitting day of the House of Representatives
-  - **social housing** means HNZ housing or community housing
-  - **social housing provider** means HNZ or a registered community housing provider
+  - **social housing** means Kāinga Ora housing or community housing
+  - **social housing provider** means Kāinga Ora–Homes and Communities or a registered community housing provider
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in schedule 5, part A, clause 4, table row 1 of the Tax Administration Act 1994
-  - **State housing assets** means State housing land within the meaning of section 2(1) of the Housing Act 1955; and includes—
-    (a) all buildings, vehicles, plant, equipment, machinery, and chattels belonging to the Crown and relating to State housing land (as so defined) and any rights therein:
-    (b) all rights of the Crown of any kind relating to State housing land (as so defined) including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights; and
-    (c) all securities belonging to the Crown and relating to State housing land (as so defined)
-  - **State housing liabilities** means all liabilities of the Crown relating to State housing land within the meaning of section 2(1) of the Housing Act 1955
-  - **statement of corporate intent** means the current statement of corporate intent for the company prepared pursuant to section 15
   - **study grant** means a basic grant or independent circumstances grant under regulations under section 303 of the Education Act 1989 (or an allowance, award, bursary, grant, or scholarship that the agency considers to have been established under that section in place of a basic grant or independent circumstances grant)
   - **tailored agreement** means an agreement under section 137A
   - **tenant** ,—
@@ -108,7 +85,7 @@ _Consolidation as at 2019-04-01_
       (ii) includes a prospective tenant; and
     (b) in relation to any particular social housing, means the person or people to whom it is let or to be let.
 (2) In this Act, a reference to transfer, authorise, or grant includes entering into an agreement to transfer, authorise, or grant, as the case may be.
-(3) References in this Act to State housing land within the meaning of subsection (1) of section 2 of the Housing Act 1955 shall be construed as references to State housing land within the meaning of that subsection and nothing in subsection (2) of that section shall apply.
+(3)
 (4) References in this Act to person include an agency and any person who is an officer or employee in the service of the Crown in a government department or public body (other than as an officer of a court, in his or her official capacity).
 
 ### 3 Act to bind the Crown
@@ -129,7 +106,7 @@ This Act is subject to Schedule 4, which provides for transitional and savings p
 [Repealed]
 
 ### 7 Contracts for provision of services
-The Crown may, from time to time, require the company to enter into agreements for the provision by the company of housing and related services to any persons in return for the payment by the Crown of the whole or part of the price thereof and, in any such case, the company shall enter into such agreements with the Crown.
+[Repealed]
 
 ### 8 Collective agreements
 [Repealed]
@@ -180,147 +157,64 @@ The Crown may, from time to time, require the company to enter into agreements f
 ## Part 4 — Vesting of State housing assets and liabilities and Corporation assets and liabilities in company
 
 ### 22 Agreements in relation to vesting of State housing assets and liabilities and Corporation assets and liabilities
-(1) Notwithstanding any Act, rule of law, or agreement, the shareholding Ministers may, from time to time, do any 1 or more of the following:
-  (a) enter into an agreement with the company on such terms and conditions as the shareholding Ministers and the company think fit that identifies the State housing assets or liabilities or Corporation assets or liabilities that the shareholding Ministers and the company agree should be vested in the company and that states the consideration for such vesting:
-  (b) authorise the company to act on behalf of the Crown or the Corporation in providing housing services or in managing State housing assets or liabilities or Corporation assets or liabilities:
-  (c) grant to the company leases, licences, easements, permits, or rights of any kind in respect of State housing assets or liabilities or Corporation assets or liabilities.
-(2) Any agreement entered into under subsection (1) may apply to State housing assets or liabilities or Corporation assets or liabilities separately or as a group or class and, for the purposes of this subsection, a class of State housing assets or liabilities or Corporation assets or liabilities may comprise—
-  (a) all or any State housing assets or liabilities or Corporation assets or liabilities:
-  (b) all or any State housing assets or liabilities or Corporation assets or liabilities other than State housing assets or liabilities or Corporation assets or liabilities identified separately or as a group or class.
-(3) The responsible Minister shall lay before the House of Representatives any contract or other document entered into pursuant to subsection (1) within 12 sitting days after the date of that contract or document.
+[Repealed]
 
 ### 23 Assets relating to land and interests in land may be dealt with separately
-The shareholding Ministers and the company may agree pursuant to section 22 that any State housing assets or Corporation assets that are fixed to, or are under or over, any land may be vested in the company whether or not the land is also vested in the company and, in any such case, for the purposes of this Part, the assets and the land shall be regarded as separate assets each capable of separate ownership.
+[Repealed]
 
 ### 24 Vesting of State housing assets and liabilities and Corporation assets and liabilities in company
-(1) The Governor-General may from time to time, by Order in Council, appoint a date on which, by virtue of this Act, State housing assets or liabilities and Corporation assets or liabilities referred to in any agreement entered into between the shareholding Ministers and the company, being an agreement specified in the order, shall vest in the company.
-(2) The vesting of State housing assets and liabilities and Corporation assets and liabilities pursuant to this Part shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the Land Act 1948, the Reserves Act 1977, the Public Works Act 1981, the Resource Management Act 1991, or any other enactment relating to land.
-(3) An Order in Council under this section is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+[Repealed]
 
 ### 25 Additional provisions relating to vesting
-(1) Nothing in this Part—
-  (a) shall be regarded as placing the Crown, the company, the Corporation, or any other person in breach of contract or confidence or as otherwise making any of them guilty of a civil wrong; or
-  (b) shall be regarded as giving rise to a right for any person to terminate or cancel any contract or arrangement or to accelerate the performance of any obligation; or
-  (c) shall be regarded as placing the Crown, the company, the Corporation, or any other person in breach of any enactment or rule of law or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property or the disclosure of any information; or
-  (d) shall release any surety from any obligation; or
-  (e) shall invalidate or discharge any contract or security.
-(2) The Registrar-General of Land or any other person charged with the keeping of books or registers is hereby authorised to make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any State housing assets or liabilities and Corporation assets or liabilities in the company under this Part.
-(3) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that land described in the certificate, or described in any document on which the certificate appears, is land vested in the company pursuant to this Part shall be sufficient evidence, in the absence of proof to the contrary, that the land was so vested.
-(4) Where State housing assets or liabilities or Corporation assets or liabilities vest in the company pursuant to this Part,—
-  (a) the publication under the Acts and Regulations Publication Act 1989 or the Legislation Act 2012 of any Order in Council made under section 24 of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
-  (b) the Crown or the Corporation, as the case may be, shall remain liable to any third party as if the asset or liability had not been vested but shall be indemnified by the company in respect of any liability to any third party:
-  (c) any satisfaction or performance by the company in respect of the asset or liability shall be deemed to be also satisfaction or performance by the Crown or the Corporation, as the case may be:
-  (d) any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the company shall be deemed to be also to the benefit of the Crown or the Corporation, as the case may be.
+[Repealed]
 
 ### 26 Vesting of assets where certain terms and conditions prescribed by statute
-(1) Where—the goods or services shall, to the extent that those terms and conditions are not already contained in contracts between the Crown or the Corporation, as the case may be, and third parties, from the date of vesting be deemed to be provided pursuant to contracts between the company and the third parties (whether or not the Act is repealed).
-  (a) rights or obligations to provide goods or services to third parties are vested in the company pursuant to this Part; and
-  (b) those goods or services have previously been provided by the Crown or the Corporation, as the case may be, on terms and conditions wholly or partly prescribed by any Act; and
-  (c) the Governor-General has, by Order in Council, declared that this subsection shall apply in respect of those goods or services,—
-(2) Each such contract shall be deemed to include such of the terms and conditions contained in that Act (with all necessary modifications) as are specified in the Order in Council.
-(3) Where any land that is subject to any lease, licence, permit, or right, created on terms and conditions wholly or partly set out in any Act has been vested in the company pursuant to this Part, the Governor-General may, by Order in Council, declare that such of the provisions of that Act as are specified in the order shall continue to apply in relation to the land and such lease, licence, permit, or right.
-(4) Where an Order in Council is made under subsection (3), the provisions of the Act referred to in the order shall, with all necessary modifications, continue to apply in relation to the land and the terms or conditions of the lease, licence, permit, or right subject to any agreement to—made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit, or right.
-  (a) amend or revoke any such term or condition; or
-  (b) revoke any such term or condition and substitute another term or condition for it—
+[Repealed]
 
 ### 27 Provisions relating to vesting of land
-(1) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948 shall be vested in the company pursuant to this Part.
-(2) Notwithstanding any other provision of this Act, no land for the time being administered by the Department of Conservation under the Conservation Act 1987 or under any enactment specified in Schedule 1 to that Act shall be vested in the company pursuant to this Part.
-(3) All land that is subject to the Housing Act 1955 and that is vested in the company pursuant to this Part shall cease to be subject to that Act from the date of that vesting unless otherwise expressly provided by this Act or any other Act.
-(4) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the vesting of land in the company pursuant to this Part.
-(4A) To avoid doubt, sections 40 to 42 of the Public Works Act 1981 do not apply (and have never applied) to the sale or disposal by the company of land vested in the company pursuant to this Part.
-(5) Nothing in this Part or in any vesting of land in the company pursuant to this Part shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
+[Repealed]
 
 ### 28 Title to land vested in company
-(1) The Registrar-General of Land must, on written application by any person authorised by either of the shareholding Ministers and on payment of any prescribed fee,—
-  (a) register the company as the owner, in substitution for the Crown, of the estate or the interest of the Crown in land that is incorporated in the register or otherwise registered and that is vested in the company pursuant to this Part; and
-  (b) register the company as the owner, in substitution for the Corporation, of the estate or the interest of the Corporation in land that is incorporated in the register or otherwise registered and that is vested in the company pursuant to this Part.
-(2) The powers conferred by subsection (1) may be exercised in respect of any estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or been determined.
-(3) The Registrar-General of Land must, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a record of title for land, other than land that is registered under the Land Transfer Act 2017, that is vested in the company pursuant to this Part.
-(4) The Registrar-General of Land must, on written application by a person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a record of title for land that is subject to the Land Transfer Act 2017 but for which no record of title has been issued and that is vested in the company pursuant to this Part.
-(5) Every application under subsection (1) must—
-  (a) state that the land has been vested in the Corporation under this Act; and
-  (b) contain a description of the land that is sufficient to identify it; and
-  (c) in the case of land that has not previously been registered under the Land Transfer Act 2017, be accompanied by a certificate from the Surveyor-General in the form required by section 29(1).
-(6) Where land is vested in the company pursuant to this Part and at any time before 1 October 1991 (being the date of the coming into force of Part 10 of the Resource Management Act 1991), in relation to a proposed subdivision of the land, either the Crown or the Corporation held an approval under the Local Government Act 1974 (being an approval that expired before that date) or no approval under that Act or any other Act was required, as the case may be,—
-  (a) any person authorised by either of the shareholding Ministers may, notwithstanding the Resource Management Act 1991, lodge for deposit by a District Land Registrar a survey plan in respect of the land and, in any such case, the District Land Registrar shall, notwithstanding that Act but subject to the provisions of any other applicable enactment,—
-    (i) deposit any such plan; and
-    (ii) on written application by any such person, issue a certificate of title for any land that is shown as a separate allotment on the plan as so deposited:
-  (b) a District Land Registrar shall, notwithstanding the Resource Management Act 1991, on written application by a person authorised by either of the shareholding Ministers, issue a certificate of title for any land that is shown as a separate allotment on any survey plan in respect of the land that was deposited before 1 October 1991.
-(7) For the purposes of subsection (6), the expressions allotment, subdivision, and survey plan shall have the same meanings as in the Resource Management Act 1991.
+[Repealed]
 
 ### 29 Land certification
-(1) Before the Registrar-General of Land issues a record of title in respect of any land, other than land that is registered under the Land Transfer Act 2017, that is vested in the company pursuant to this Part, the Registrar-General of Land must either receive under the hand of, or request from, the chief executive within the meaning of section 4 of the Cadastral Survey Act 2002 or the Surveyor-General a certificate in a form substantially similar to the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the Registrar-General of Land considers appropriate.
-(2) A certificate referred to in subsection (1) must be recorded by the Registrar-General of Land in the register and is conclusive evidence to the Registrar-General of Land of the matters required to be stated in it.
+[Repealed]
 
 ### 30 Certification of easements
-(1) Where land is vested in the company pursuant to this Part subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 2017, the chief executive within the meaning of section 4 of the Cadastral Survey Act 2002 or the Surveyor-General must include in the certificate given under section 29(1) of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching to it.
-(2) The Registrar-General of Land shall enter a memorial of the easement upon the relevant record of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
-(3) Where a memorial of an easement is entered upon the relevant record of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 2017.
+[Repealed]
 
 ### 31 Orders in Council relating to vesting of State housing assets and liabilities and Corporation assets and liabilities
-For the purpose of facilitating the vesting of State housing assets or liabilities and Corporation assets or liabilities in the company pursuant to this Part, the Governor-General may, from time to time, by Order in Council, do any one or more of the following:
-  (a) declare that a reference to the Crown or a Minister, officer, employee, department, or instrument of the Crown or to the Corporation or an officer or employee of the Corporation, as the case may be, in any or all regulations, orders, notices, or documents shall be deemed to be or to include a reference to the company:
-  (b) declare that the company shall assume or continue to have the rights and obligations of the Crown or a Minister, officer, employee, department, or instrument of the Crown or of the Corporation or an officer or employee of the Corporation, as the case may be, in respect of applications for rights, objections, or proceedings before any court, authority, or other person, being rights and obligations that have been vested in the company pursuant to this Part:
-  (c) declare, in respect of any State housing assets or liabilities or Corporation assets or liabilities vested in the company pursuant to this Part, that the company shall be deemed to have specified rights or obligations in respect of those assets or liabilities, being rights or obligations that are required in respect of those assets or liabilities as a result of the change of ownership or responsibility from the Crown or the Corporation, as the case may be, to the company:
-  (d) declare that any Order in Council made under this section shall be deemed to be notice to all persons, and that specific notice need not be given to any authority or other person:
-  (e) direct any authority or other person to register or record any such vesting or declaration.
+[Repealed]
 
 ### 32 Books and documents to remain evidence
-(1) Any document, matter, or thing, which if this Act had not been passed would have been admissible in evidence in respect of any matter relating to State housing assets or liabilities or Corporation assets or liabilities vested in the company pursuant to this Part for or against the Crown or the Corporation, as the case may be, shall, on and after the date on which those assets or liabilities vest in the company, be admissible in evidence in respect of the same matter for or against the company.
-(2) In this section document has the same meaning as in section 2(1) of the Evidence Amendment Act (No 2) 1980.
+[Repealed]
 
 ### 33 Application of Housing Act 1955 to company
-(1) The Housing Act 1955 shall have effect in respect of State housing land within the meaning of section 2(1) of the Housing Act 1955 vested in the company pursuant to this Part where at the date of vesting there is a lease, licence, permit, agreement, or tenancy in respect of that land to which all or any of the following provisions of the Housing Act 1955 (or any corresponding provisions of any former Housing Act, as the case may be) apply, and those provisions shall continue to apply to that lease, licence, permit, agreement, or tenancy (and any renewal thereof pursuant to a right expressly conferred thereby or by any Act) as if the land were still State housing land subject to the Housing Act 1955 and every reference in those provisions to the Minister of Housing or the Corporation included a reference to the company:
-  (a) section 17 (which relates to the issue of licences to occupy):
-  (b) section 18 (which relates to the registration of agreements for sale and licences to occupy):
-  (c) section 22 (which relates to the acceptance of money after the rescission of an agreement for sale):
-  (d) section 23 (which relates to the recovery of possession of land):
-  (e) section 37 (which relates to the registration of dealings with agreements registered under section 18 of the Housing Act 1955).
-(2) Without limiting subsection (1), section 18 of the Housing Act 1955 shall apply in relation to every licence to occupy land that is issued by the company under section 17 of that Act as applied by subsection (1) of this section.
-(3) Without limiting the powers of the company, the provisions of sections 25 to 30 of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of section 2(1) of the Housing Act 1955 that has been vested in the company pursuant to this Part, whether or not the land remains vested in the company, as if the land continued to be State housing land subject to that Act and as if the references to the Crown and to the Corporation included a reference to the company.
-(4) Section 36(5) of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of section 2(1) of the Housing Act 1955 vested in the company pursuant to this Part as if the land continued to be State housing land and as if the references to the Minister of Housing and the Corporation included a reference to the company.
-(5) Section 3 of the Housing Amendment Act 1956 shall have effect as if—
-  (a) the references to the Corporation and the Minister of Housing included references to the company; and
-  (b) the reference in subsection (2) to State housing land included a reference to land vested in the company pursuant to this Part.
+[Repealed]
 
 ### 34 Acquisition of land under Public Works Act 1981
-Where, before the vesting of any land in the company pursuant to this Part, any negotiations or action had been commenced by the Crown or the Corporation in respect of the taking or acquisition or setting apart of the land under the Public Works Act 1981, the taking or acquisition or setting apart may be continued and concluded as if the land were required for a public work.
+[Repealed]
 
 ### 35 Return of assets or liabilities by company to the Crown
-(1) The Governor-General may, from time to time, by Order in Council, vest in the Crown, on a date specified in the order, any assets or liabilities specified in the order, being assets or liabilities that were State housing assets or liabilities vested in the company pursuant to this Part and that the shareholding Ministers and the company agree should be vested in the Crown.
-(2) Where, pursuant to an Order in Council under subsection (1), assets or liabilities vest in the Crown,—
-  (a) the provisions of sections 24(2) and 25 shall apply, with such modifications as may be necessary:
-  (b) the company shall remain liable to any third party in respect of any liability in relation to the assets or liabilities incurred on or after the vesting of the assets or liabilities in the company under this Part but shall be indemnified by the Crown in respect of that liability to that third party:
-  (c) any satisfaction or performance by the Crown in relation to the assets or liabilities shall be deemed to be also satisfaction or performance by the company:
-  (d) any satisfaction or performance in respect of the assets or liabilities by any third party to the benefit of the Crown shall be deemed to be also to the benefit of the company.
-(3) Where land taken or acquired by the Crown under the Public Works Act 1981 before it was vested in the company pursuant to this Part is vested in the Crown pursuant to an Order in Council under this section, the provisions of that Act shall apply to the land as if the land continued to be land taken or acquired under that Act.
+[Repealed]
 
 ### 36 Title to land vested in the Crown
-(1) The Registrar-General of Land must, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee, register the Crown as the owner, in substitution for the company, of the estate or interest of the company in any land that is incorporated in the register or otherwise registered and that is vested in the Crown pursuant to an Order in Council made under section 35.
-(2) Every application under this section shall—
-  (a) state that the land has been vested in the Crown under section 35; and
-  (b) contain a description of the land that is sufficient to identify it.
+[Repealed]
 
 ### 37 Application of Housing Act 1955
-Where land is vested in the Crown pursuant to an Order in Council made under section 35, the Housing Act 1955 shall apply in relation to the land in the same way as it applied before it was vested in the company.
+[Repealed]
 
 ### 38 Amendment to section 34 of Housing Act 1955
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 39 Amendment to Maori Housing Act 1935
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 40 Application of Government Superannuation Fund Act 1956
-(1) For the purposes of the Government Superannuation Fund Act 1956, a person who, at any time within 9 months after the prescribed date, became or becomes an employee of a specified company and who, immediately before becoming such an employee, was an officer or employee of the Corporation and was a contributor to the Government Superannuation Fund under that Act shall, so long as that person was or continues to be employed by that company, be deemed to have been or to be employed in the government service and that Act shall be deemed to have applied or to apply, as the case may be, to that person as if service with the company were government service.
-(2) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (1) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
-(3) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (1), to a person who is in the service of the company and is a contributor to the Government Superannuation Fund the term controlling authority, in relation to that person, means the chief executive of the company.
-(4) In this section—
-  (a) prescribed date means a date (whether or not it is a date that is earlier than the date on which this Act comes into force) declared by the responsible Minister by notice in the Gazette to be the prescribed date for the purposes of this section:
-  (b) specified company means a company declared by the responsible Minister by notice in the Gazette to be a specified company for the purposes of this section.
+[Repealed]
 
 ### 41 Amendments to other Acts
-The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
+[Repealed]
 
 ## Part 5 — Income-related rents, housing eligibility, and other matters
 
@@ -511,45 +405,43 @@ In this Part, unless the context otherwise requires,—
     (b) a funeral grant lump sum payable under section 90 of that Act:
     (c) any special assistance payable under a programme approved under section 100 or 101 of that Act:
     (d) an allowance established by regulations made under section 303 of the Education Act 1989
-  - **Corporation** , despite section 2(1), includes the company
-  - **Corporation housing** means premises (whether owned by the Crown, the Corporation, or any other person) let or to be let by or on behalf of the Corporation for occupation by any person as a place of residence
   - **department** means the department for the time being responsible for the administration of the Social Security Act 2018
   - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (A), a person—
     (a) who is A's civil union partner or de facto partner; and
-    (b) who is not, in the Corporation's opinion, living apart from A.
+    (b) who is not, in the opinion of Kāinga Ora–Homes and Communities, living apart from A.
 
 ### 67 Purpose of section 68
-The purpose of section 68 is to facilitate the disclosure of information by the Corporation to the department for the purpose of helping the department to—
+The purpose of section 68 is to facilitate the disclosure of information by Kāinga Ora–Homes and Communities to the department for the purpose of helping the department to—
   (a) verify the entitlement or eligibility of any person to or for any benefit; and
   (b) verify the amount of any benefit to which any person is or was entitled or to which any person is or was eligible; and
   (c) recover debts due to the Crown (acting by and through the department) in respect of benefits.
 
 ### 68 Disclosure of tenancy information for benefit purposes
-(1) For the purpose stated in section 67, the chief executive of the department may from time to time request the Corporation to supply, in respect of persons who are tenants in relation to Corporation housing, or were tenants of that kind on or after the commencement of the Housing Restructuring and Tenancy Matters (Information Matching) Amendment Act 2006,—
-  (a) the biographical information held by the Corporation that is sufficient to identify those persons, including their addresses; and
-  (b) the details of the tenancies of those persons held by the Corporation that are necessary for the purpose stated in section 67.
-(2) A request under subsection (1) must be made in accordance with arrangements made from time to time between the chief executive of the department and the Corporation.
-(3) On receipt of a request under subsection (1), the Corporation may supply the information requested to any person who is an officer or employee or agent—
+(1) For the purpose stated in section 67, the chief executive of the department may from time to time request Kāinga Ora–Homes and Communities to supply, in respect of persons who are tenants in relation to Kāinga Ora housing, or were tenants of Housing New Zealand Corporation or Housing New Zealand Limited on or after 1 July 2006,—
+  (a) the biographical information held by Kāinga Ora–Homes and Communities that is sufficient to identify those persons, including their addresses; and
+  (b) the details of the tenancies of those persons held by Kāinga Ora–Homes and Communities that are necessary for the purpose stated in section 67.
+(2) A request under subsection (1) must be made in accordance with arrangements made from time to time between the chief executive of the department and Kāinga Ora–Homes and Communities.
+(3) On receipt of a request under subsection (1), Kāinga Ora–Homes and Communities may supply the information requested to any person who is an officer or employee or agent—
   (a) of the chief executive of the department; and
   (b) authorised for the purpose by that chief executive.
-(4) Information supplied under a request under subsection (1) may be supplied in a form determined by agreement between the Corporation and the chief executive of the department.
+(4) Information supplied under a request under subsection (1) may be supplied in a form determined by agreement between Kāinga Ora–Homes and Communities and the chief executive of the department.
 
 ### 69 Information and details to be disclosed
 Examples of the information and details referred to in section 68(1)﻿(a) and (b) are, for every tenant or former tenant,—
   (a) his or her full name, any other names used by him or her, and his or her date of birth; and
   (b) the full name, any other names used by, and the date of birth of, his or her spouse or partner (if any) and the full names, any other names used by, and the dates of birth of, any dependent children of the tenant or his or her spouse or partner (if any); and
-  (c) the physical address of the Corporation housing that is the subject of the tenancy; and
+  (c) the physical address of Kāinga Ora–Homes and Communities housing that is the subject of the tenancy; and
   (d) the start date, end date (if any), and weekly rent of the tenancy; and
-  (e) his or her income, and the components of it, as advised by him or her on any form or forms, or in any other information, supplied to the Corporation for the purposes of enabling it to determine his or her rental, and the period or periods to which that income, or a component of it, relates; and
-  (f) any address or other details supplied to the Corporation for the purposes of enabling it to contact him or her after the tenancy has ended.
+  (e) his or her income, and the components of it, as advised by him or her on any form or forms, or in any other information, supplied to Kāinga Ora–Homes and Communities for the purposes of enabling it to determine his or her rental, and the period or periods to which that income, or a component of it, relates; and
+  (f) any address or other details supplied to Kāinga Ora–Homes and Communities for the purposes of enabling it to contact him or her after the tenancy has ended.
 
-## Part 7 — HNZ housing
+## Part 7 — Kāinga Ora housing
 
 ### 70 Purpose of this Part and Parts 8 to 10
 (1) The purpose of this Part and Parts 8 to 10 is to reform the provision of social housing by establishing a framework for a multiple-provider social housing market.
 (2) This Part and Parts 8 to 10—
   (a) enable the assessment of need and eligibility for social housing, and eligibility for an income-related rent, and associated functions (such as providing advice, managing applications for social housing, carrying out investigations, and referring and allocating prospective tenants and tenants to social housing providers), to be performed by 1 or more government agencies that are independent of the agency that provides state housing:
-  (b) align Housing New Zealand Corporation's role to the provision of social housing in a multiple-provider environment:
+  (b) define the role of Kāinga Ora–Homes and Communities in the provision of social housing in a multiple-provider environment:
   (c) facilitate the growth of the community housing sector by enabling the extension, on terms and conditions set by the joint Ministers, of an income-related rent subsidy to registered community housing providers and an income-related rent to their tenants:
   (ca) provide flexibility for the social housing agency and social housing providers to enter into tailored agreements for the provision of social housing and any related services, subject to ministerial direction:
   (d) enable the appointment of a government agency as a regulatory authority for registered community housing providers, with associated objectives, functions, and powers to monitor and enforce compliance with regulatory standards:
@@ -559,115 +451,97 @@ Examples of the information and details referred to in section 68(1)﻿(a) and (
 
 ### 71 Interpretation of terms used in this Part
 In this Part, unless the context otherwise requires,—
-  - **financial product** means a financial product administered by HNZ or the Corporation and—
-    (a) includes a loan or grant; but
-    (b) does not include income-related rent
-  - **prospective tenant for HNZ housing** means a person—
+  - **prospective tenant for Kāinga Ora housing** means a person—
     (a) who—
       (i) is eligible to be allocated social housing; and
-      (ii) is not a person to whom any HNZ housing is let; and
-      (iii) has been referred or allocated to HNZ to be allocated, assigned, or let HNZ housing; or
+      (ii) is not a person to whom any Kāinga Ora housing is let; and
+      (iii) has been referred or allocated to Kāinga Ora–Homes and Communities to be allocated, assigned, or let Kāinga Ora housing; or
     (b) who—
-      (i) is already a person to whom HNZ housing is let; but
-      (ii) has applied to HNZ (alone or together with some other person or people) to become a tenant of some other HNZ housing and has not yet had the application accepted or declined, or withdrawn it
+      (i) is already a person to whom Kāinga Ora housing is let; but
+      (ii) has applied to Kāinga Ora–Homes and Communities (alone or together with some other person or people) to become a tenant of some other Kāinga Ora housing and has not yet had the application accepted or declined, or withdrawn it
   - **tenant** ,—
-    (a) in relation to HNZ housing in general,—
-      (i) means any person or people to whom any HNZ housing is let or to be let; and
-      (ii) includes a prospective tenant for HNZ housing; and
-    (b) in relation to any particular HNZ housing, means the person or people to whom it is let or to be let.
+    (a) in relation to Kāinga Ora housing in general,—
+      (i) means any person or people to whom any Kāinga Ora housing is let or to be let; and
+      (ii) includes a prospective tenant for Kāinga Ora housing; and
+    (b) in relation to any particular Kāinga Ora housing, means the person or people to whom it is let or to be let.
 
 ### 72 Income-related rent
-(1) This subsection applies to HNZ housing and a tenant if—
+(1) This subsection applies to Kāinga Ora housing and a tenant if—
   (a) an income-related rent has been calculated for the tenant under Part 9, the calculation mechanism, or under Schedule 3; and
   (b) the agency has notified under section 106 the income-related rent calculated for the tenant; and
   (c) that notification of the income-related rent has not been replaced by a notification from the agency to the effect that the tenant must pay market rent.
-(2) If subsection (1) applies to any HNZ housing and a tenant, the rent for the housing must be the income-related rent for the time being notified by the agency, subject to subsections (4) and (5).
-(3) If subsection (1) does not apply to any HNZ housing and a tenant, the rent for the housing must be its market rent for the time being.
-(4) The income-related rent for any HNZ housing must not exceed its market rent for the time being.
-(5) If satisfied that special circumstances justify its doing so, HNZ may, in its absolute discretion, set for and accept from a tenant of any HNZ housing a rent lower than the rent otherwise required by subsection (2) or (3) to be paid for the housing by the tenant.
+(2) If subsection (1) applies to any Kāinga Ora housing and a tenant, the rent for the housing must be the income-related rent for the time being notified by the agency, subject to subsections (4) and (5).
+(3) If subsection (1) does not apply to any Kāinga Ora housing and a tenant, the rent for the housing must be its market rent for the time being.
+(4) The income-related rent for any Kāinga Ora housing must not exceed its market rent for the time being.
+(5) If satisfied that special circumstances justify its doing so, Kāinga Ora–Homes and Communities may, in its absolute discretion, set for and accept from a tenant of any Kāinga Ora housing a rent lower than the rent otherwise required by subsection (2) or (3) to be paid for the housing by the tenant.
 (6) Subsections (2) to (5) are subject to section 73.
 
 ### 73 Changes in rent
-(1) This section applies to an existing tenant of HNZ housing if HNZ—
+(1) This section applies to an existing tenant of Kāinga Ora housing if Kāinga Ora–Homes and Communities—
   (a) is required by section 72 or 74 to change the rent for the housing; or
   (b) is empowered by section 72 to change the rent for the housing, and decides to do so.
-(2) HNZ must, in accordance with section 136 of the Residential Tenancies Act 1986, give a tenant to whom subsection (1) applies written notice of the change in rent stating—
+(2) Kāinga Ora–Homes and Communities must, in accordance with section 136 of the Residential Tenancies Act 1986, give a tenant to whom subsection (1) applies written notice of the change in rent stating—
   (a) the date on which it takes effect; and
   (b) the matters referred to in paragraphs (j) and (k) of section 13A of that Act.
 (3) In the case of a reduction in rent, the notice has effect as a variation of the tenancy agreement for the housing whether or not the tenant signs it.
 (4) In the case of an increase in rent, the notice must comply with section 24 of the Residential Tenancies Act 1986 except to the extent that section 74 of this Act provides otherwise.
 
 ### 74 Increase in rent due to change in tenant's circumstances
-(1) If HNZ receives a notification from the agency under section 106 of an increase in an income-related rent due to a change in the tenant’s circumstances or the circumstances of an applicable person in relation to the tenant,—
-  (a) HNZ must, subject to subsection (4), give the tenant written notice, in accordance with section 73(2), stating the date on which the increased income-related rent takes effect (the effective date); and
+(1) If Kāinga Ora–Homes and Communities receives a notification from the agency under section 106 of an increase in an income-related rent due to a change in the tenant’s circumstances or the circumstances of an applicable person in relation to the tenant,—
+  (a) Kāinga Ora–Homes and Communities must, subject to subsection (4), give the tenant written notice, in accordance with section 73(2), stating the date on which the increased income-related rent takes effect (the effective date); and
   (b) the effective date must be a date no earlier than 61 days after the date (as stated in the agency's notification) that the change in circumstances occurred; and
-  (c) HNZ must give the notice to the tenant at least 2 weeks before the effective date.
-(2) The income-related rent notified under subsection (1)﻿(a) for any HNZ housing must not exceed the market rent for the time being for that housing.
+  (c) Kāinga Ora–Homes and Communities must give the notice to the tenant at least 2 weeks before the effective date.
+(2) The income-related rent notified under subsection (1)﻿(a) for any Kāinga Ora housing must not exceed the market rent for the time being for that housing.
 (3) The agency may recover from the tenant as a debt due to the Crown, the difference (if any) between—
   (a) the higher income-related rent calculated by the agency for the tenant for the housing in respect of the period commencing on the date that is 61 days after the change in circumstances occurred and ending on the day before the effective date (capped at the market rent); and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing and set out in its previous notification.
-(4) HNZ must change the rent charged following receipt of a notification from the agency unless, in HNZ’s opinion, it would not result in a material difference to the rent charged for the housing concerned.
+(4) Kāinga Ora–Homes and Communities must change the rent charged following receipt of a notification from the agency unless, in the opinion of Kāinga Ora–Homes and Communities, it would not result in a material difference to the rent charged for the housing concerned.
 (5) Section 24(1)﻿(c) to (h) and 24(1A) and (2) of the Residential Tenancies Act 1986 do not apply to the increase in rent.
-(6) Amounts recoverable under subsection (3) are not rent in arrear for the purpose of the Residential Tenancies Act 1986.ExampleMary is a tenant of HNZ and is paying an income-related rent to HNZ. On 1 March, Mary returned to full-time employment but did not tell the agency of her change in circumstances.Several months later, the agency becomes aware that Mary’s circumstances had changed on 1 March. The agency calculates an increased income-related rent for Mary, and notifies HNZ accordingly. The increased income-related rent does not exceed the market rent for the housing.On 1 October that same year, HNZ notifies Mary that she must pay an increased income-related rent (in accordance with the agency’s notification) from the rent period beginning on 21 October (the effective date).The agency is entitled to recover from Mary, as a debt due to the Crown, the difference between—
+(6) Amounts recoverable under subsection (3) are not rent in arrear for the purpose of the Residential Tenancies Act 1986.ExampleMary is a tenant of Kāinga Ora–Homes and Communities and is paying an income-related rent to Kāinga Ora–Homes and Communities. On 1 March, Mary returned to full-time employment but did not tell the agency of her change in circumstances.Several months later, the agency becomes aware that Mary’s circumstances had changed on 1 March. The agency calculates an increased income-related rent for Mary, and notifies Kāinga Ora–Homes and Communities accordingly. The increased income-related rent does not exceed the market rent for the housing.On 1 October that same year, Kāinga Ora–Homes and Communities notifies Mary that she must pay an increased income-related rent (in accordance with the agency’s notification) from the rent period beginning on 21 October (the effective date).The agency is entitled to recover from Mary, as a debt due to the Crown, the difference between—
   (a) the higher income-related rent for the housing (as set out in the agency’s notification), in respect of the period commencing on 1 May (61 days after the change in circumstances) and ending on 20 October; and
   (b) the income-related rent applying to that period that the agency had calculated for the tenant for the housing (as set out in the agency's previous notification).
 
-### 75 HNZ may review placement
-(1) HNZ may—
-  (a) allocate a prospective tenant for HNZ housing to particular HNZ housing:
-  (b) review the eligibility of a tenant to be or to continue to be allocated, assigned, or let particular HNZ housing:
-  (c) require a tenant to transfer to different HNZ housing (being housing that is appropriate for the tenant’s housing needs) if HNZ considers that the transfer is necessary or desirable for any reason.
+### 75 Kāinga Ora–Homes and Communities may review placement
+(1) Kāinga Ora–Homes and Communities may—
+  (a) allocate a prospective tenant for Kāinga Ora housing to particular Kāinga Ora housing:
+  (b) review the eligibility of a tenant to be or to continue to be allocated, assigned, or let particular Kāinga Ora housing:
+  (c) require a tenant to transfer to different Kāinga Ora housing (being housing that is appropriate for the tenant’s housing needs) if Kāinga Ora–Homes and Communities considers that the transfer is necessary or desirable for any reason.
 (2) Nothing in this section limits or affects—
   (a) a tenant’s rights under the Residential Tenancies Act 1986:
-  (b) HNZ’s rights as a landlord under the Residential Tenancies Act 1986, including its rights to terminate a tenancy in accordance with that Act:
-  (c) HNZ’s functions and powers under this Act or any other Act.
+  (b) the rights of Kāinga Ora–Homes and Communities as a landlord under the Residential Tenancies Act 1986, including its rights to terminate a tenancy in accordance with that Act:
+  (c) the functions and powers of Kāinga Ora–Homes and Communities under this Act or any other Act.
 
-### 76 Limits on obligations of HNZ
-Nothing in this Act requires HNZ to provide any housing or particular housing to a tenant referred or allocated to HNZ by the agency.
+### 76 Limits on obligations of Kāinga Ora–Homes and Communities
+Nothing in this Act requires Kāinga Ora–Homes and Communities to provide any housing or particular housing to a tenant referred or allocated to Kāinga Ora–Homes and Communities by the agency.
 
-**Financial products**
+**Information**
 
 ### 77 HNZ may investigate circumstances of applicant for financial product
-HNZ may investigate the circumstances of—
-  (a) an applicant for, or a recipient of, a financial product; or
-  (b) any person who, at the time of application, is the spouse or partner of the applicant.
+[Repealed]
 
 ### 78 HNZ may ask questions, take actions, etc
-(1) For the purpose of any investigation conducted under section 77, HNZ—
-  (a) may ask any person whose circumstances it may investigate any relevant questions it thinks fit; and
-  (b) may ask any person whose circumstances it may investigate to verify by statutory declaration—
-    (i) any information he or she has given when answering questions asked under paragraph (a); or
-    (ii) any other information that he or she has at any time given to HNZ; or
-    (iii) any information within his or her personal knowledge that has at any time been given to HNZ by the spouse or partner of the person.
-(2) HNZ may take the actions stated in subsection (3) if—
-  (a) any person whose circumstances it may investigate—
-    (i) fails or refuses to answer (or, in HNZ's opinion, fails or refuses to answer fully) any question asked under subsection (1)﻿(a); or
-    (ii) fails or refuses to verify any information by statutory declaration when asked to do so under subsection (1)﻿(b); or
-  (b) it believes on reasonable grounds that any person whose circumstances it may investigate under section 77 has deliberately given a false or misleading answer to any question asked under subsection (1)﻿(a).
-(3) The actions are to—
-  (a) assess the eligibility of an applicant for, or recipient of, a financial product on the basis of HNZ's own understanding of the circumstances:
-  (b) treat the applicant or recipient as not or as no longer eligible for that financial product.
+[Repealed]
 
-### 79 HNZ may seek information
-(1) For the purposes of a review under section 75 or an investigation under section 77, HNZ may request any person to—
+### 79 Kāinga Ora–Homes and Communities may seek information
+(1) For the purposes of a review under section 75 or an investigation under section 16 of the Kāinga Ora–Homes and Communities Act 2019, Kāinga Ora–Homes and Communities may request any person to—
   (a) answer questions; or
-  (b) allow HNZ to inspect any document or other written information; or
-  (c) give HNZ—
+  (b) allow Kāinga Ora–Homes and Communities to inspect any document or other written information; or
+  (c) give Kāinga Ora–Homes and Communities—
     (i) a copy of any document or other written information; or
     (ii) a printout of any information stored digitally.
 (2) The person does not have to comply with the request but (for the purposes of section 7(1) of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
 
-### 80 HNZ may require information for certain purposes
-(1) HNZ may by written notice require information from any person for any 1 or more of the following purposes:
-  (a) for the purpose of any investigation under section 77:
+### 80 Kāinga Ora–Homes and Communities may require information for certain purposes
+(1) Kāinga Ora–Homes and Communities may by written notice require information from any person for any 1 or more of the following purposes:
+  (a) for the purpose of any investigation under section 16 of the Kāinga Ora–Homes and Communities Act 2019:
   (b) for the purpose of detecting whether a person has committed or is committing an offence under section 82 or 83:
   (c) for the purpose of determining and detecting the cost of fraud under section 82 or 83:
-  (d) for the purpose of ascertaining whether a person has failed or refused to answer fully, or has deliberately given a false or misleading answer, to any question asked under section 78(1)﻿(a).
-(2) HNZ when requiring any information under subsection (1) must do so in accordance with the code of conduct.
-(3) HNZ may in writing require any person to advise whether any information provided under subsection (1) is accurate.
+  (d) for the purpose of ascertaining whether a person has failed or refused to answer fully, or has deliberately given a false or misleading answer, to any question asked under section 17(1)﻿(a) of the Kāinga Ora–Homes and Communities Act 2019.
+(2) Kāinga Ora–Homes and Communities when requiring any information under subsection (1) must do so in accordance with the code of conduct.
+(3) Kāinga Ora–Homes and Communities may in writing require any person to advise whether any information provided under subsection (1) is accurate.
 (4) A person from whom information is required under subsection (1) or advice is required under subsection (3) must comply with the requirement—
   (a) no later than 5 working days after the notice was given; and
-  (b) in the manner specified in the notice, without charge to HNZ.
+  (b) in the manner specified in the notice, without charge to Kāinga Ora–Homes and Communities.
 (5) This subsection authorises (for the purposes of section 7(1) of the Privacy Act 1993) any person who is required to provide information under subsection (1) or advice under subsection (3) to make personal information available in response to the requirement.
 (6) Subsection (1) does not—
   (a) require any person to provide any information or produce any document that would be privileged in a court of law:
@@ -678,27 +552,27 @@ HNZ may investigate the circumstances of—
     (ii) investment receipts (being receipts arising or accruing from any money lodged at any time with a lawyer for investment) of any person or persons (whether the lawyer, his or her client, or any other person or persons); and
   (b) is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared by or kept in connection with a trust account of the lawyer.
 (8) If a person refuses to disclose any information or document on the ground that it is privileged under subsection (6)﻿(a) or (b),—
-  (a) HNZ or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and
+  (a) Kāinga Ora–Homes and Communities or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and
   (b) for the purposes of determining that application, the Judge may require the information or document to be produced to the court.
 (9) In this section,—
   - **lawyer** means a barrister or solicitor of the High Court, and includes a firm or an incorporated law firm (within the meaning of the Lawyers and Conveyancers Act 2006) in which the lawyer is, or is held out to be, a partner, director, or shareholder
   - **trust account** , in relation to a lawyer, has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006.
 
-**Placement in HNZ housing**
+**Placement in Kāinga Ora housing**
 
-### 81 Placement in HNZ housing
-(1) The matters to which HNZ may have regard in doing any of the things stated in subsection (2) may include criteria that have, or are capable of having, the effect that tenants, people who are or might be applicable persons in relation to those tenants, and other people who are or might be residing in the housing concerned are treated differently on the basis of—
+### 81 Placement in Kāinga Ora housing
+(1) The matters to which Kāinga Ora–Homes and Communities may have regard in doing any of the things stated in subsection (2) may include criteria that have, or are capable of having, the effect that tenants, people who are or might be applicable persons in relation to those tenants, and other people who are or might be residing in the housing concerned are treated differently on the basis of—
   (a) their marital status, disability or absence of disability, age, or family status (as the terms marital status, disability, age, and family status are defined in paragraphs (b), (h), (i), and (l) of section 21(1) of the Human Rights Act 1993); or
   (b) whether or not they are resident, or ordinarily resident, or permanently resident, or lawfully resident, in New Zealand; or
   (c) their incomes; or
   (d) their property; or
   (e) 2 or more of those factors.
-(2) The things are any thing that HNZ does in the course of allocating, assigning, and letting HNZ housing to tenants, and in administering and terminating tenancies, and include—
-  (a) allocating, assigning, and letting, or continuing to let, HNZ housing to a tenant; and
-  (b) reviewing the eligibility of a tenant to be or to continue to be allocated, assigned, or let particular HNZ housing; and
+(2) The things are any thing that Kāinga Ora–Homes and Communities does in the course of allocating, assigning, and letting Kāinga Ora housing to tenants, and in administering and terminating tenancies, and include—
+  (a) allocating, assigning, and letting, or continuing to let, Kāinga Ora housing to a tenant; and
+  (b) reviewing the eligibility of a tenant to be or to continue to be allocated, assigned, or let particular Kāinga Ora housing; and
   (c) terminating a tenancy; and
-  (d) reallocating or reassigning HNZ housing to a tenant; and
-  (e) retaining the current allocation, assignment, or letting of particular HNZ housing to a tenant.
+  (d) reallocating or reassigning Kāinga Ora housing to a tenant; and
+  (e) retaining the current allocation, assignment, or letting of particular Kāinga Ora housing to a tenant.
 (3) Nothing in this section affects the application of the New Zealand Bill of Rights Act 1990.
 
 **Offences**
@@ -712,71 +586,66 @@ HNZ may investigate the circumstances of—
   (b) provides false or misleading information in response to the requirement.
 (3) A person who commits an offence against this section is liable on conviction to a fine not exceeding $2,000.
 
-### 83 Offence to mislead HNZ for certain purposes or results
+### 83 Offence to mislead Kāinga Ora–Homes and Communities for certain purposes or results
 (1) A person commits an offence who, for the purpose described in subsection (2) or with the result described in subsection (3),—
   (a) makes any statement knowing it to be false in any material particular; or
-  (b) deliberately does or says anything for the purpose of misleading or attempting to mislead HNZ; or
-  (c) when required to provide information under section 80, deliberately omits to do or say anything for the purpose of misleading or attempting to mislead HNZ.
+  (b) deliberately does or says anything for the purpose of misleading or attempting to mislead Kāinga Ora–Homes and Communities; or
+  (c) when required to provide information under section 80, deliberately omits to do or say anything for the purpose of misleading or attempting to mislead Kāinga Ora–Homes and Communities.
 (2) The purpose is—
-  (a) for that person or another person to be or continue to be allocated, assigned, or let particular HNZ housing, or to be allocated, assigned, or let some other HNZ housing:
-  (b) for that person or another person to receive or continue to receive a financial product.
-(3) The result is that person, or another person, whether or not entitled to it under this Act,—
-  (a) is or continues to be allocated, assigned, or let particular HNZ housing:
-  (b) is allocated, assigned, or let some other HNZ housing:
-  (c) receives or continues to receive a financial product.
+  (a) for that person or another person to be or continue to be allocated, assigned, or let particular Kāinga Ora housing, or to be allocated, assigned, or let some other Kāinga Ora housing:
+  (b) for that person or another person to receive or continue to receive home-related financial assistance under the Kāinga Ora–Homes and Communities Act 2019.
+(3) The result is that person, or another person, whether or not entitled to it,—
+  (a) is or continues to be allocated, assigned, or let particular Kāinga Ora housing:
+  (b) is allocated, assigned, or let some other Kāinga Ora housing:
+  (c) receives or continues to receive home-related financial assistance under the Kāinga Ora–Homes and Communities Act 2019.
 (4) A person who commits an offence against this section is liable on conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000, or both.
 
 **Delegations**
 
 ### 84 Delegation of powers under this Part
-(1) HNZ—
-  (a) may not delegate a power under section 78(1)﻿(b), (2), or (3), except to the Corporation, the agency, the chief executive of the agency, or to an employee of HNZ or the Corporation; and
-  (b) may not delegate any other power under this Part except to—
-    (i) the Corporation; or
-    (ii) an employee of HNZ or the Corporation; or
-    (iii) a person engaged by HNZ or the Corporation under a contract for services providing for the person to exercise that power; or
-    (iv) the agency or chief executive of the agency.
-(2) If a power has been delegated to the Corporation under subsection (1), the Corporation may, with the consent of HNZ, subdelegate that power to an employee of the Corporation or of HNZ.
-(3) An employee to whom a power has been delegated by HNZ in accordance with subsection (1) may, with the consent of HNZ, subdelegate that power to another employee of the Corporation or of HNZ.
-(4) The agency or the chief executive of the agency to whom a power has been delegated by HNZ in accordance with subsection (1), may with the consent of HNZ, subdelegate that power to an employee of the agency.
-(5) If HNZ delegates a power under this Part (not being a power referred to in subsection (1)﻿(a)) to a body corporate engaged by HNZ or the Corporation under a contract for services,—
+(1) Kāinga Ora–Homes and Communities may not delegate any power under this Part except to—
+  (a) an employee of Kāinga Ora–Homes and Communities; or
+  (b) a person engaged by Kāinga Ora–Homes and Communities under a contract for services providing for the person to exercise that power; or
+  (c) the agency or chief executive of the agency.
+(2)
+(3) An employee to whom a power has been delegated by Kāinga Ora–Homes and Communities in accordance with subsection (1) may, with the consent of Kāinga Ora–Homes and Communities, subdelegate that power to another employee of Kāinga Ora–Homes and Communities.
+(4) The agency or the chief executive of the agency to whom a power has been delegated by Kāinga Ora–Homes and Communities in accordance with subsection (1) may subdelegate that power to an employee of the agency.
+(5) If Kāinga Ora–Homes and Communities delegates a power under this Part to a body corporate engaged by Kāinga Ora–Homes and Communities under a contract for services,—
   (a) the body corporate cannot subdelegate the power except to a person who is an employee of the body corporate; and
   (b) an employee of the body corporate to whom the power is subdelegated cannot subdelegate it further.
 (6) Subsections (1) to (5) override section 130(1) of the Companies Act 1993.
 
 **Reimbursement**
 
-### 85 Reimbursement agreements with HNZ
-(1) Section 7 has effect as if—
-  (a) this Part, the calculation mechanism, and Schedule 3 were a requirement by the Crown for HNZ to enter into agreements (as the circumstances from time to time require) for the provision by HNZ of housing and related services to persons who pay income-related rents rather than market rents for the housing, in return for the payment by the Crown of the price to HNZ of doing so; and
-  (b) that price were the difference between the amounts of market rents for the housing and the income-related rents charged.
-(2) However, subsection (1) does not apply to the extent (if any) that a tailored agreement covers the provision by HNZ of housing and related services to persons who pay income-related rents rather than market rents for the housing. (See section 137A.)
+### 85 Reimbursement agreement with Kāinga Ora–Homes and Communities
+(1) Kāinga Ora–Homes and Communities must, if required by the Crown, enter into 1 or more agreements for the provision by Kāinga Ora–Homes and Communities of housing and related services to persons who pay income-related rents rather than market rents for the housing, in return for the payment by the Crown of the difference between the amounts of market rents for the housing and the income-related rents charged.
+(2) However, subsection (1) does not apply to the extent (if any) that a tailored agreement covers the provision by Kāinga Ora–Homes and Communities of housing and related services to persons who pay income-related rents rather than market rents for the housing. (See section 137A.)
 
 **Code of conduct**
 
 ### 86 Code of conduct applying to obtaining information required under section 80
-(1) HNZ, in consultation with the Privacy Commissioner, must, within 3 months after the commencement of this section, issue a code of conduct that applies in respect of any requirement for information under section 80.
+(1) Kāinga Ora–Homes and Communities, in consultation with the Privacy Commissioner, must, within 3 months after the commencement of this section, issue a code of conduct that applies in respect of any requirement for information under section 80.
 (2) The code of conduct—
   (a) must include the matters specified in section 90; and
   (b) may include restrictions on obtaining—
     (i) specified classes of information; and
     (ii) information from specified classes of persons or from persons in specified relationships; and
   (c) must specify procedures applying to the obtaining of information under section 80.
-(3) HNZ may from time to time, in consultation with the Privacy Commissioner, amend the code of conduct, or revoke the code of conduct and issue a new code of conduct.
-(4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993 that applies to the information required under section 80, and HNZ, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by section 88.
-(5) As soon as practicable after issuing any code of conduct and any amendment to it under this section, HNZ must arrange for it to be published on an Internet site that is publicly available at all reasonable times or published in a form that is otherwise accessible to the public.
+(3) Kāinga Ora–Homes and Communities may from time to time, in consultation with the Privacy Commissioner, amend the code of conduct, or revoke the code of conduct and issue a new code of conduct.
+(4) Nothing in the code of conduct may derogate from any code of practice issued by the Privacy Commissioner under Part 6 of the Privacy Act 1993 that applies to the information required under section 80, and Kāinga Ora–Homes and Communities, in consultation with the Privacy Commissioner, must amend the code of conduct to conform with any such code of practice. This subsection is affected by section 88.
+(5) As soon as practicable after issuing any code of conduct and any amendment to it under this section, Kāinga Ora–Homes and Communities must arrange for it to be published on an Internet site that is publicly available at all reasonable times or published in a form that is otherwise accessible to the public.
 (6) The code of conduct that, before the commencement of this section, was issued under Part 5 is, on the commencement of this section, deemed to be issued under this section.
 
 ### 87 Who must comply with code of conduct
 The following persons must comply with the code of conduct when requiring information under section 80:
-  (a) HNZ and every employee of HNZ:
-  (b) the Corporation and every employee of the Corporation:
+  (a) Kāinga Ora–Homes and Communities and every employee of Kāinga Ora–Homes and Communities:
+  (b)
   (c) the agency and every employee and the chief executive of the agency:
-  (d) every person or body corporate engaged by HNZ under a contract for services providing for the person to exercise the power to require such information:
+  (d) every person or body corporate engaged by Kāinga Ora–Homes and Communities under a contract for services providing for the person to exercise the power to require such information:
   (e) every employee of a person or body corporate referred to in paragraph (d).
 
 ### 88 Regulations authorising information to be obtained
-(1) The Governor-General may, on the advice of the joint Ministers given after consultation with the Privacy Commissioner, by Order in Council, make regulations authorising HNZ to obtain pursuant to a requirement under section 80—
+(1) The Governor-General may, on the advice of the joint Ministers given after consultation with the Privacy Commissioner, by Order in Council, make regulations authorising Kāinga Ora–Homes and Communities to obtain pursuant to a requirement under section 80—
   (a) any specified class of information; or
   (b) information from any specified class of persons; or
   (c) information in any specified manner.
@@ -788,15 +657,15 @@ The following persons must comply with the code of conduct when requiring inform
 
 ### 90 Matters to be included in code of conduct
 (1) The code of conduct issued under section 86 must contain the following matters:
-  (a) provisions requiring the information to be first sought, as the case may require, except where compliance with such provision would prejudice the maintenance of the law, from the applicant for or recipient of a financial product or the spouse or partner of the applicant or recipient:
-  (b) provisions allowing a person referred to in paragraph (a) the time that is specified in the code to provide the information before HNZ requires that information or confirmation of that information from another person or agency, except where compliance with such provision would prejudice the maintenance of the law:
+  (a) provisions requiring the information to be first sought, as the case may require, except where compliance with such provision would prejudice the maintenance of the law, from the applicant for or recipient of home-related financial assistance under the Kāinga Ora–Homes and Communities Act 2019 or the spouse or partner of the applicant or recipient:
+  (b) provisions allowing a person referred to in paragraph (a) the time that is specified in the code to provide the information before Kāinga Ora–Homes and Communities requires that information or confirmation of that information from another person or agency, except where compliance with such provision would prejudice the maintenance of the law:
   (c) a provision prohibiting a requirement under section 80 being made in respect of a person referred to in paragraph (a) to any other person (not being a financial institution, a lawyer, employer, or former employer of the person referred to in paragraph (a), and not being a department, departmental agency, Crown entity), unless there is reasonable cause to make a requirement under that section:
   (d) a provision prohibiting a requirement under section 80 being made to an employer in respect of any information that relates solely to the marital or relationship status of an employee or a former employee of that employer:
   (e) provisions otherwise restricting requirements under section 80 being made to an employer to information specified in the code relating to the employment and the address of an employee or a former employee of that employer.
 (2) In subsection (1)﻿(c), reasonable cause includes—
   (a) cause to suspect that the person—
     (i) has committed an offence under this Part; or
-    (ii) has obtained by fraud any financial product:
+    (ii) has obtained by fraud any home-related financial assistance under the Kāinga Ora–Homes and Communities Act 2019:
   (b) the fact that the person has failed, within the time specified in the code, or has refused, to provide information in accordance with a requirement made to that person under a provision referred to in subsection (1)﻿(a).
 
 ## Part 8 — Community housing
@@ -822,7 +691,7 @@ In this Part, unless the context otherwise requires,—
   (a) the tenant is an eligible tenant who—
     (i) has been allocated or referred to a registered community housing provider by the agency; or
     (ii) immediately before becoming a tenant of a registered community housing provider—
-      (A) was a tenant or prospective tenant of HNZ housing; and
+      (A) was a tenant or prospective tenant of Kāinga Ora housing; and
       (B) had not been assessed by the agency as being no longer eligible for social housing; and
   (b) an income-related rent has been calculated for the tenant under Part 9 and the calculation mechanism; and
   (c) the agency has notified under section 106 the income-related rent calculated for the tenant; and
@@ -917,11 +786,11 @@ The functions of the agency include the following:
     (iii) reviewing the eligibility of tenants to continue to be allocated social housing and reviewing their housing needs:
     (iv) operating a waiting list or waiting lists of prospective tenants who have been assessed as being eligible for social housing, but who have yet to be allocated, assigned, or let social housing:
     (v) referring or allocating prospective tenants to social housing providers:
-    (vi) providing the results of its assessments of eligibility and housing needs to HNZ or registered community housing providers; and
+    (vi) providing the results of its assessments of eligibility and housing needs to Kāinga Ora–Homes and Communities or registered community housing providers; and
   (c) any other functions of the agency set out in this Act and any other functions under Part 7 that are delegated to the agency.
 
 ### 102 Ministerial directions to agency
-(1) The joint Ministers and, if applicable, any other Minister responsible for the agency may give to the agency directions setting out the terms and conditions on which the funding by way of payments under reimbursement agreements and tailored agreements must be made available to registered community housing providers and HNZ, including—
+(1) The joint Ministers and, if applicable, any other Minister responsible for the agency may give to the agency directions setting out the terms and conditions on which the funding by way of payments under reimbursement agreements and tailored agreements must be made available to registered community housing providers and Kāinga Ora–Homes and Communities, including—
   (a) the type of housing units that may be funded during any specified period of time; or
   (b) the number of housing units that may be funded during any specified period of time; or
   (c) the location of housing units that may be funded during any specified period of time.
@@ -1032,7 +901,7 @@ The assessable income of an applicable person is the agency's estimate of the pe
 ### 109 Certain amounts included in weekly income
 (1) For the purposes of section 108, a person's weekly income includes—
   (a) the appropriate weekly proportion of any periodical payment, whether capital or not, made to the person on a regular basis by any other person for income-related purposes and used by the person for income-related purposes; and
-  (b) the appropriate weekly proportion of the value of any goods, service, transport, or accommodation (other than accommodation provided by HNZ or a registered community housing provider) supplied to the person on a regular basis by any other person.
+  (b) the appropriate weekly proportion of the value of any goods, service, transport, or accommodation (other than accommodation provided by Kāinga Ora–Homes and Communities or a registered community housing provider) supplied to the person on a regular basis by any other person.
 (2) A person's weekly income includes contributions from additional residents to the extent only required by the calculation mechanism.
 (3) Subsection (1) does not limit section 108.
 (4) Subsection (2) overrides subsection (1) and section 108.
@@ -1181,7 +1050,7 @@ For the purpose of any investigation conducted under section 119, 120, or 121, t
     (ii) calculate the income-related rent for the tenant as being equal to the market rent from time to time for the social housing:
   (b) to the extent that the tenant is a prospective tenant only,—
     (i) suspend the process of determining whether the tenant is eligible to be allocated social housing; or
-    (ii) suspend the process of determining whether the tenant is eligible to be referred or allocated to HNZ or any registered community housing provider; or
+    (ii) suspend the process of determining whether the tenant is eligible to be referred or allocated to Kāinga Ora–Homes and Communities or any registered community housing provider; or
     (iii) decline the tenant's application to become a tenant of social housing:
   (c) to the extent that the tenant is an existing tenant only,—
     (i) treat the tenant as having had a change in circumstances (and the date of change in circumstances) on the basis of its own understanding of the circumstances; or
@@ -1264,7 +1133,7 @@ For the purpose of section 74(3), 94(2), or 127(2), if the agency is the Ministr
   (b) assessing the eligibility of prospective tenants to be allocated social housing:
   (c) reviewing the eligibility of tenants to be or continue to be allocated social housing, or reviewing the eligibility of a tenant under section 117 or the housing needs of a tenant under section 118:
   (d) operating a waiting list of tenants who have been assessed as being eligible for social housing, but who have yet to be allocated, assigned, or let social housing or particular social housing:
-  (e) providing the results of its assessments of eligibility and housing needs to HNZ or registered community housing providers:
+  (e) providing the results of its assessments of eligibility and housing needs to Kāinga Ora–Homes and Communities or registered community housing providers:
   (f) referring or allocating prospective tenants to social housing providers.
 (3) Nothing in this section affects the application of the New Zealand Bill of Rights Act 1990.
 
@@ -1355,11 +1224,11 @@ If the agency is not the Ministry and regulations under section 136(1)﻿(a) est
   (b) may not delegate any other power under this Part, the calculation mechanism, or Schedule 3, except to a person who is—
     (i) an employee of the agency; or
     (ii) engaged by the agency under a contract for services providing for the person to exercise that power.
-(2) Despite subsection (1), if the agency is a department, it may delegate any power under this Part to the chief executive of another department, HNZ, or the Corporation, or to an employee of the department, in accordance with section 41 of the State Sector Act 1988.
+(2) Despite subsection (1), if the agency is a department, it may delegate any power under this Part to the chief executive of another department or Kāinga Ora–Homes and Communities, or to an employee of the department, in accordance with section 41 of the State Sector Act 1988.
 (3) A power that has been delegated in accordance with subsection (2) may, with the consent of the agency, be delegated,—
   (a) by the chief executive of a department, to a departmental agency or an employee of that department or departmental agency:
-  (b) by HNZ, to the Corporation, or an employee of HNZ or the Corporation:
-  (c) by the Corporation, to an employee of the Corporation:
+  (b) by Kāinga Ora–Homes and Communities, to an employee of Kāinga Ora–Homes and Communities:
+  (c)
   (d) by an employee of the agency, to another employee of the agency.
 (4) If the agency delegates a power under this Part, the calculation mechanism, or Schedule 3 (not being a power referred to in subsection (1)﻿(a)) to a body corporate engaged by the agency under a contract for services,—
   (a) the body corporate cannot subdelegate it except to a person who is an employee of the body corporate; and
@@ -1543,7 +1412,7 @@ In any case where a third party deducts, under a deduction notice, any money pay
 **Transitional matters**
 
 ### 156 Transitional arrangements for certain tenants
-(1) This section and Schedule 3 apply to a tenant of HNZ if, but for the provisions of that schedule,—would be greater than—
+(1) This section and Schedule 3 apply to a tenant of Kāinga Ora–Homes and Communities if, but for the provisions of that schedule,—would be greater than—
   (a) the rent that the tenant would be required to pay for the first rent period commencing on or after the appointed day—
   (b) the rent, after the deduction of any accommodation assistance (within the meaning of clause 1 of Schedule 3) to which the tenant was entitled, that the tenant was required to pay for the last rent period commencing before the appointed day.
 (2) Schedule 3 overrides section 104.
@@ -1552,7 +1421,7 @@ In any case where a third party deducts, under a deduction notice, any money pay
 For the purposes of section 156 and Schedule 3,—
   (a) the agency may, with the consent of the applicable persons concerned, give the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 2018 details of—
     (i) those persons' assessable incomes and the components of those incomes, and their cash assets, as supplied—
-      (A) to the company under section 43(1); or
+      (A)
       (B) to the agency for the purpose of section 104(1); and
     (ii) the weekly market rent in relation to the housing; and
     (iii) the dates of the beginning and end of the rent period in respect of the housing that commenced immediately prior to the appointed day; and
@@ -2002,24 +1871,24 @@ For the purposes of section 110(1)﻿(b), a person's weekly income does not incl
 ### 12 Period for estimating income
 The period of 52 weeks is prescribed for the purposes of section 113.
 
-## Schedule 3 — Transitional matters relating to certain HNZ tenants
+## Schedule 3 — Transitional matters relating to certain Kāinga Ora–Homes and Communities tenants
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
-  - **55+ rent protection programme** means the programme for the protection of rents applied by the company on and after 1 July 1995 to any tenant of HNZ housing who on that day—
+  - **55+ rent protection programme** means the programme for the protection of rents applied by Kāinga Ora–Homes and Communities on and after 1 July 1995 to any tenant of Kāinga Ora housing who on that day—
     (a) did not qualify for the tenure protection allowance; and
     (b) had been a tenant of that housing continuously since at least 30 July 1991; and
     (c) either was, or had a spouse or partner who was, aged 55 or more
-  - **accommodation assistance** , in relation to any HNZ housing, means accommodation benefit, accommodation supplement, tenure protection allowance, or special transfer allowance, payable in respect of that housing
+  - **accommodation assistance** , in relation to any Kāinga Ora housing, means accommodation benefit, accommodation supplement, tenure protection allowance, or special transfer allowance, payable in respect of that housing
   - **accommodation benefit** means an accommodation benefit under regulation 9 of the Student Allowances Regulations 1998
   - **accommodation supplement** means an accommodation supplement under section 65 of the Social Security Act 2018
-  - **affected tenant** means a tenant of HNZ housing to whom this schedule (by virtue of section 156(1)) applies
+  - **affected tenant** means a tenant of Kāinga Ora housing to whom this schedule (by virtue of section 156(1)) applies
   - **special transfer allowance** means an amount payable by way of special assistance under the special transfer allowance programme approved under section 124(1)﻿(d) of the Social Security Act 1964 (as that programme is saved by section 11 and clause 21 of Schedule 1 of the Social Security Act 2018)
   - **tenure protection allowance** means the tenure protection allowance formerly payable under the sections 61FC and 61FD of the Social Security Act 1964.
 
 ### 2 Saving in respect of tenure protection allowance and special transfer allowance
 (1) This clause applies to an affected tenant who, immediately before the appointed day, was receiving in respect of the housing a tenure protection allowance or special transfer allowance that the tenant was entitled to receive.
-(2) The income-related rent for any HNZ housing occupied immediately before the appointed day by an affected tenant to whom subclause (1) applies must be calculated by deducting from the rent otherwise payable under the calculation mechanism (capped at the market rent for the housing) the appropriate rebate (if any) calculated under subclause (3).
+(2) The income-related rent for any Kāinga Ora housing occupied immediately before the appointed day by an affected tenant to whom subclause (1) applies must be calculated by deducting from the rent otherwise payable under the calculation mechanism (capped at the market rent for the housing) the appropriate rebate (if any) calculated under subclause (3).
 (3) The rebate is the amount (if any) by which—exceeds—
   (a) the weekly income-related rent for the housing calculated in accordance with the calculation mechanism—
   (b) the weekly market rent for the housing immediately before the appointed day (after the deduction of the sum of—
@@ -2028,7 +1897,7 @@ In this schedule, unless the context otherwise requires,—
 
 ### 3 Saving in respect of 55+ rent protection programme
 (1) This clause applies to an affected tenant who, immediately before the appointed day, was receiving, and was entitled to receive, the protection of the 55+ rent protection programme.
-(2) The income-related rent for any HNZ housing occupied immediately before the appointed day by an affected tenant to whom subclause (1) applies must be calculated by deducting from the rent otherwise payable under the calculation mechanism (capped at the market rent for the housing) the appropriate rebate (if any)—
+(2) The income-related rent for any Kāinga Ora housing occupied immediately before the appointed day by an affected tenant to whom subclause (1) applies must be calculated by deducting from the rent otherwise payable under the calculation mechanism (capped at the market rent for the housing) the appropriate rebate (if any)—
   (a) calculated under subclause (3); and
   (b) where appropriate, reduced under subclause (4).
 (3) The rebate is the amount (if any) by which—exceeds—
@@ -2042,7 +1911,7 @@ In this schedule, unless the context otherwise requires,—
 (1) The following provisions apply to an affected tenant who is not and has never been entitled to a rebate under clause 2 or clause 3:
   (a) the income-related rent for the housing must be calculated by applying the calculation mechanism (capped at the market rent for the housing), if—
     (i) not all the applicable persons have consented for the purposes of section 157; or
-    (ii) the company is satisfied that the tenant is an affected tenant because of receiving more than the amount of accommodation assistance to which the tenant was entitled:
+    (ii) Kāinga Ora–Homes and Communities is satisfied that the tenant is an affected tenant because of receiving more than the amount of accommodation assistance to which the tenant was entitled:
   (b) in any other case, the income-related rent for the housing must be calculated by deducting from the rent otherwise payable under the calculation mechanism (capped at the market rent for the housing) the appropriate rebate (if any)—
     (i) calculated under subclause (2); and
     (ii) where appropriate, reduced under subclause (3).
@@ -2055,15 +1924,15 @@ In this schedule, unless the context otherwise requires,—
 
 ### 5 Ending of rebates
 (1) Clauses 2 to 4 cease to apply to a tenant who—
-  (a) ceases to occupy the HNZ housing in respect of which the rebate applied (otherwise than by beginning to occupy replacement social housing); or
+  (a) ceases to occupy the Kāinga Ora housing in respect of which the rebate applied (otherwise than by beginning to occupy replacement social housing); or
   (b) in the case of a sole tenant, dies.
-(2) In subclause (1)﻿(a), replacement social housing, in relation to any HNZ housing in respect of which a rebate applied, means any HNZ housing a tenancy of which replaced—
+(2) In subclause (1)﻿(a), replacement social housing, in relation to any Kāinga Ora housing in respect of which a rebate applied, means any Kāinga Ora housing a tenancy of which replaced—
   (a) a tenancy of that housing; or
-  (b) a tenancy of some other HNZ housing that was replacement HNZ housing in relation to that housing.
+  (b) a tenancy of some other Kāinga Ora housing that was replacement Kāinga Ora housing in relation to that housing.
 
-## Schedule 4 — Transitional and savings provisions relating to Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013
+## Schedule 4 — Transitional, savings, and related provisions
 
-### Part 1 — Transitional and savings provisions
+### Part 1 — Transitional and savings provisions relating to Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013
 
 ### 1 Interpretation of this Part
 In this Part, unless the context otherwise requires,—
@@ -2156,7 +2025,7 @@ The definition of income in section 3(1) of the Social Security Act 1964, as it 
 (1) HNZ may continue any prosecution started by HNZ before the transfer date as if the 2013 Amendment Act had not been passed.
 (2) For the purpose of any such prosecution, the functions, powers, and duties of HNZ immediately before the transfer date continue to apply.
 
-### Part 2 — Transitional provisions relating to transfer of employees of Corporation to agency
+### Part 2 — Transitional provisions relating to transfer of employees of Corporation to agency: Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013
 
 ### 16 Transfer of employees of Corporation to agency
 (1) The chief executive of the Corporation must identify and consult the employees of the Corporation—
@@ -2196,7 +2065,7 @@ The definition of income in section 3(1) of the Social Security Act 1964, as it 
 ### 19 No claims for breach of contract
 No claim for breach of contract lies against HNZ, the Corporation, the agency, or any of their employees in respect of any information, knowledge, intellectual property, or goods to which the agency has gained access or has acquired as a result of the transfer of functions of HNZ and the Corporation to the agency.
 
-### Part 3 — Transitional and savings regulations
+### Part 3 — Transitional and savings regulations relating to Social Housing Reform (Housing Restructuring and Tenancy Matters Amendment) Act 2013
 
 ### 20 Transitional and savings regulations
 (1) The Governor-General may, by Order in Council made on the Minister's recommendation, make regulations prescribing transitional provisions, savings provisions, or both, for either or both of the following purposes:
@@ -2210,6 +2079,11 @@ No claim for breach of contract lies against HNZ, the Corporation, the agency, o
   (b) provide that, for a transitional period, in any circumstances, or subject to any conditions, specified in the regulations, 1 or more provisions repealed, amended, or revoked by those amendments to this Act are to continue to apply, or apply with modifications or additions, as if they had not been repealed, amended, or revoked:
   (c) provide for any other matter necessary for either or both of the purposes in subclause (1)﻿(a) and (b).
 (4) No regulations made under this clause may be made, or continue in force, after the close of 14 April 2017.
+
+### Part 4 — Transitional, savings, and related provision relating to Kāinga Ora–Homes and Communities Act 2019
+
+### 21 References to Housing Restructuring and Tenancy Matters Act 1992
+Every reference in any enactment and in any document to the Housing Restructuring and Tenancy Matters Act 1992 must, unless the context otherwise provides, be read as a reference to the Public and Community Housing Management Act 1992.
 
 ### 1 Title
 This order may be cited as the Housing New Zealand Limited Vesting Order 1993.
