@@ -1,5 +1,5 @@
 # Prohibition of Gang Insignia in Government Premises Act 2013
-_Consolidation as at 2013-08-12_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Prohibition of Gang Insignia in Government Premises Act 2013.
@@ -65,7 +65,7 @@ In this Act, unless the context otherwise requires,—
     (c) includes the grounds of—
       (i) any public hospital or health facility that is owned by, or is under the control of, a district health board; and
       (ii) any public swimming pool or aquatic centre that is owned by, or is under the control of, a local authority; but
-    (d) excludes any residential dwelling that is owned by, or is under the control of, Housing New Zealand Corporation or a local authority
+    (d) excludes any residential dwelling that is owned by, or is under the control of, Kāinga Ora–Homes and Communities or a local authority
   - **integrated school** has the same meaning as in section 145(1) of the Education Act 1989
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **Police** has the same meaning as in section 4 of the Policing Act 2008
