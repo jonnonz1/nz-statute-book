@@ -1,5 +1,5 @@
 # Maori Affairs Restructuring Act 1989
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-01_
 
 > An Act to provide for the restructuring of the Department of Maori Affairs to form the Iwi Transition Agency, to abolish the Board of Maori Affairs and transfer its programmes to the General Manager of the Iwi Transition Agency, and to transfer the administration of the Maori Land Courts to the Department of Justice
 
@@ -514,7 +514,7 @@ Nothing in this Part shall prevent the chief executive from receiving, from the 
 (7) On deposit for registration of the order of the court constituting the title to any land, the Registrar-General of Land must cancel the registration of the certificate given by the Registrar of the court and must issue a record of title (which may be a record of title qualified as described in section 17(1)﻿(a) of the Land Transfer Act 2017), and transfer to the record of title all entries and memorials then appearing in the register in respect of land comprised in the order of the court.
 (8) For the purposes of this section, the term State Loan Department means any of the following:
   (a) Public Trust:
-  (b) Housing New Zealand Corporation:
+  (b) Kāinga Ora–Homes and Communities:
   (c) the Māori Trustee.
 
 ### 87 Authorising establishment and maintenance of Kokiri Centres
