@@ -1,5 +1,5 @@
 # Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008
-_Consolidation as at 2008-06-27_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008.
