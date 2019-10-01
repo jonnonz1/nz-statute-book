@@ -1,5 +1,5 @@
 # Maori Housing Act 1935
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2019-10-01_
 
 > An Act to make better provision for the housing of the Maori people
 
@@ -59,7 +59,7 @@ No moneys advanced under the provisions of this Act shall, unless the chief exec
 (3) All such mortgages, chattels, and other securities shall be taken in the name of Her Majesty the Queen.
 
 ### 10 Rate of interest on advances
-The rate of interest to be charged on advances made under this Act shall be such rate as the chief executive determines, but not in excess of the rate fixed under the Housing Corporation Act 1974 in respect of similar loans made by Housing New Zealand Corporation.
+The rate of interest to be charged on advances made under this Act shall be such rate as the chief executive determines, but not in excess of the rate in respect of similar loans made by Kāinga Ora–Homes and Communities.
 
 ### 11 Borrowers to conform to the directions of the chief executive
 All persons to whom or on whose behalf advances have been made under the provisions of this Act shall in all respects conform to the directions of the chief executive or his or her officers in all matters pertaining to the cost, nature, and dimensions of the dwelling proposed to be erected or improved, the approval of plans and specifications therefor, the tender or price for the erection or improvement thereof to be accepted, the application of the moneys to be advanced, the supervision of the erection or improvement, and generally as to all other matters incidental to the erection or improvement of a dwellinghouse and its conveniences and appurtenances, including fencing.
