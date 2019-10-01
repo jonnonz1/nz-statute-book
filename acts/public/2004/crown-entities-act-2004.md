@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2019-09-26_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1937,7 +1937,7 @@ New sections 150(3), (5), and (6) and 151(1)﻿(f), as inserted on the commencem
 | Health Promotion Agency |  |  |  |  |  |
 | Health Quality and Safety Commission |  |  |  |  |  |
 | Health Research Council of New Zealand |  |  |  |  |  |
-| Housing New Zealand Corporation |  |  |  |  |  |
+| Kāinga Ora–Homes and Communities |  |  |  |  |  |
 | Maritime New Zealand |  |  |  |  | ✓ |
 | New Zealand Antarctic Institute |  |  |  |  |  |
 | New Zealand Blood Service |  |  |  |  |  |
