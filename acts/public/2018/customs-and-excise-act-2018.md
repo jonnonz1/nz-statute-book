@@ -1,5 +1,5 @@
 # Customs and Excise Act 2018
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-10-01_
 
 ### 1 Title
 This Act is the Customs and Excise Act 2018.
@@ -5844,11 +5844,7 @@ A notice issued under section 9 of the 1996 Act that is in force immediately bef
 (2) An order to which subclause (1) applies is revoked at the time at which, apart from this Act, it would have expired under section 55 or 57 of the 1996 Act (unless the order is revoked earlier).
 
 ### 8 Prohibited imports: goods prohibited under Schedule 1 of 1996 Act
-(1) This clause applies to any goods that are specified in Schedule 1 of the 1996 Act immediately before the specified date unless the importation of the goods—
-  (a) is prohibited (conditionally or unconditionally) under section 95 or 96 of this Act; or
-  (b) is absolutely prohibited by a notice issued under section 22(1A) of the Misuse of Drugs Act 1975.
-(2) The importation of the goods is prohibited and the goods are prohibited imports for the purposes of this Act.
-(3) This clause is repealed at the close of the 12-month period that starts with the specified date.
+[Repealed]
 
 ### 9 Duty in respect of goods imported or manufactured in New Zealand before specified date
 Imported goods
