@@ -1,5 +1,5 @@
 # Maori Housing Amendment Act 1938
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2019-10-01_
 
 > An Act to amend the Maori Housing Act 1935
 
@@ -46,7 +46,7 @@ Any dwelling disposed of by way of sale under this Act shall be sold at a price 
 (2) Where the purchase money is payable by instalments the purchaser shall pay interest on the amount of the purchase money from time to time outstanding at a rate to be determined by the chief executive, not exceeding in any case the current rate fixed under section 10 of the principal Act in respect of advances under that Act.
 (3) The chief executive may from time to time, in the chief executive's discretion, and either unconditionally or upon or subject to such conditions as he or she thinks fit, extend the time allowed by any agreement under this section for the payment of the whole or any part of the purchase money, interest, or other money payable thereunder.
 (4) For the purpose of securing the payment of any purchase money, interest, or other money payable pursuant to any agreement under this section the chief executive may require the purchaser to give such orders or assignments as the chief executive thinks fit over any money payable or to become payable to him, whether as the proceeds of the alienation of any land, or as the proceeds of the sale of the produce of any land or stock, or otherwise howsoever.
-(5) The provisions of section 18 of the Housing Act 1955 shall apply to agreements under this section in all respects as if references in the said section 18 to the Corporation were references to the chief executive or to the Crown, as the case may require, the reference in subsection (5) to that section to regulations were a reference to regulations under this Act, and the reference in that subsection to section 37 of the Housing Act 1955 were a reference to section 11 of this Act.
+(5) The provisions of section 18 of the Housing Act 1955 shall apply to agreements under this section in all respects as if references in the said section 18 to Kāinga Ora–Homes and Communities were references to the chief executive or to the Crown, as the case may require, the reference in subsection (5) to that section to regulations were a reference to regulations under this Act, and the reference in that subsection to section 37 of the Housing Act 1955 were a reference to section 11 of this Act.
 
 ### 9 Value of improvements effected during currency of agreement to be added to price
 (1) If during the currency of an agreement to purchase any dwelling the chief executive alters, enlarges, repairs, rebuilds, or otherwise improves the dwelling pursuant to the chief executive's powers in that behalf, the value of the work so done as fixed by the chief executive shall be a debt to the Crown due by the purchaser, and shall be recoverable accordingly, or may be added by the chief executive to the amount of the purchase money for the time being owing under the agreement to purchase.
@@ -103,7 +103,7 @@ The provisions of Part 13 of the Land Act 1924 and of Part 12 of [the Maori Land
 ## Part  — Miscellaneous
 
 ### 19
-(1) This subsection inserted subsection (3)(e) and (f) of the principal Act.
+(1) This subsection inserted subsection (3)﻿(e) and (f) of the principal Act.
 (2) No advance shall be made under the said section 3 for the purchase of a dwelling except upon a valuation approved by the chief executive.
 
 ### 20
