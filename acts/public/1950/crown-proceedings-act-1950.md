@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-10-01_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -260,8 +260,8 @@ Amendment(s) incorporated in the Act(s).
   (i)
   (j) affect any liability imposed on the Māori Trustee or on a Crown Bank Account by the Māori Trustee Act 1953; or
   (k) affect any liability imposed on the Government Insurance Commissioner, the Government Insurance Department, or on a Crown Bank Account by the Government Life Insurance Act 1908; or
-  (l) affect any liability imposed on the State Fire Insurance General Manager or the State Fire Insurance Department or on the public revenues of New Zealand by the State Fire Insurance Act 1908 or by the Government Life Insurance Act 1908; or
-  (m) affect any liability imposed on the Housing New Zealand Corporation or on a Crown Bank Account by the Housing Corporation Act 1974.
+  (l) affect any liability imposed on the State Fire Insurance General Manager or the State Fire Insurance Department or on the public revenues of New Zealand by the State Fire Insurance Act 1908 or by the Government Life Insurance Act 1908.
+  (m)
 (3) A certificate of the Attorney-General—shall, for the purposes of this Act, be conclusive as to the matter so certified.
   (a) to the effect that any alleged liability of the Crown arises otherwise than in respect of the Sovereign's Government in New Zealand; or
   (b) to the effect that any proceedings by the Crown are proceedings otherwise than in right of the Sovereign's Government in New Zealand,—
