@@ -1,5 +1,5 @@
 # Public Works Act 1981
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-01_
 
 > An Act to consolidate and amend the law relating to public works
 
@@ -1902,7 +1902,7 @@ For the purposes of sections 209 to 212, interest shall be calculated at yearly 
 (15) A certificate under the hand of the Controller and Auditor-General shall, until the contrary is proved, be sufficient evidence of the amount in respect of which default has been so made and of the date on which it was payable.
 (16) Without prejudice to the provisions of subsections (14) and (15), the Minister, for the purposes of recovering any amount due and payable by a local authority under any agreement entered into under this section, may appoint a receiver with power from time to time to make, levy, and collect a rate on all the rateable property in the whole or any specified part or parts of the district of the local authority in default, and for that purpose the receiver has all the powers of a receiver appointed under section 40B of the Receiverships Act 1993 and the provisions of sections 40B to 40D of that Act, with the necessary modifications, apply accordingly.
 (17) Agreements may be made under this section in respect of any undertaking that has been completed or partially completed as well as in respect of any undertaking not commenced.
-(18) Housing New Zealand Corporation or the New Zealand Transport Agency may be a party to an agreement with any local authority under this section in relation to any undertaking which, in the opinion of the Minister of Finance and any other Minister, is of both national and local importance in the same manner and to the same effect as if the Corporation or the Agency were a Minister of the Crown.
+(18) Kāinga Ora–Homes and Communities or the New Zealand Transport Agency may be a party to an agreement with any local authority under this section in relation to any undertaking which, in the opinion of the Minister of Finance and any other Minister, is of both national and local importance in the same manner and to the same effect as if Kāinga Ora–Homes and Communities or the Agency were a Minister of the Crown.
 (19) Notwithstanding anything to the contrary in this Act, any land taken, acquired, or used for any undertaking in respect of which an agreement has been made under this section may be transferred or leased to any party to the agreement, or sold or otherwise disposed of, and the proceeds thereof shared or distributed, in accordance with the provisions of the agreement.
 (20) For the purposes of any agreement under this section, any party to the agreement which is a requiring authority within the meaning of the Resource Management Act 1991, in his or its own name or on behalf of all parties, may make any requirement under Part 8 of the Resource Management Act 1991, and make an application under any statutory provision for consent, authorisation, permission, a licence, a permit, a right, or any other type of approval.
 
