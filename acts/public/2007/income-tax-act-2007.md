@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2019-09-26_
+_Consolidation as at 2019-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -4512,7 +4512,7 @@ Exempt income
 (1) An amount of income derived by a community housing entity is exempt income.
 Definition
 (2) In this section and section LD 3 (Meaning of charitable or other public benefit gift), community housing entity means a trustee or company (the entity) whose activities involve the provision of housing or housing assistance (the activities), and—
-  (aa) the entity is a registered community housing provider under the Housing Restructuring and Tenancy Matters Act 1992; and
+  (aa) the entity is a registered community housing provider under the Public and Community Housing Management Act 1992; and
   (a) the activities are not carried on for the private pecuniary profit of any individual; and
   (b) all profit is retained by the entity, or distributed or applied to—
     (i) community housing entities that meet the requirements to derive exempt income under this section:
