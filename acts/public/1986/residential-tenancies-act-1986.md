@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2019-08-27_
+_Consolidation as at 2019-10-01_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -573,7 +573,7 @@ If the parties to a tenancy agree that, during a specified period or until the o
   (a) the date of the commencement of the tenancy or (in the case of a tenancy that was subsisting immediately before commencement of this Act) the date of the commencement of this Act; or
   (b) the date of the last review of rent,—
 (2A) Despite subsection (2), a tenant who is a party to a fixed term tenancy of premises held in a stratum estate under the Unit Titles Act 2010 may apply under subsection (1) within 3 months after the tenant is notified of a change or otherwise becomes aware of a change in the body corporate operational rules made under that Act, if that change affects the tenant.
-(3) For the purposes of this Act, the market rent for any tenancy shall be the rent that, without regard to the personal circumstances of the landlord or the tenant, a willing landlord might reasonably expect to receive and a willing tenant might reasonably expect to pay for the tenancy, taking into consideration the general level of rents (other than income-related rents within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992) for comparable tenancies of comparable premises in the locality or in similar localities and such other matters as the Tribunal considers relevant.
+(3) For the purposes of this Act, the market rent for any tenancy shall be the rent that, without regard to the personal circumstances of the landlord or the tenant, a willing landlord might reasonably expect to receive and a willing tenant might reasonably expect to pay for the tenancy, taking into consideration the general level of rents (other than income-related rents within the meaning of section 2(1) of the Public and Community Housing Management Act 1992 for comparable tenancies of comparable premises in the locality or in similar localities and such other matters as the Tribunal considers relevant.
 (4) An order made under this section shall take effect on and from a date to be specified in the order, which may be the date of the order or any earlier or later date, but being no earlier than the date of the application for the order and no later than 30 days after the date of the order.
 
 ### 26 Duration of order determining market rent
