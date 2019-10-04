@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2019-05-31_
+_Consolidation as at 2019-10-04_
 
 > Title
 
@@ -2302,6 +2302,7 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 | New Zealand Green Investment Finance Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Ōtākaro Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Predator Free 2050 Limited | ✓ | ✓ | ✓ | ✓ |  |
+| Provincial Growth Fund Limited |  | ✓ |  | ✓ |  |
 | Research and Education Advanced Network New Zealand Limited | ✓ | ✓ | ✓ | ✓ |  |
 | Southern Response Earthquake Services Limited | ✓ | ✓ |  | ✓ |  |
 | Tāmaki Redevelopment Company Limited | ✓ | ✓ | ✓ | ✓ |  |
