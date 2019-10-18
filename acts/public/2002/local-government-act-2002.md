@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2019-05-14_
+_Consolidation as at 2019-10-18_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -4572,7 +4572,7 @@ In this Part, 2019 Act means the Local Government (Community Well-being) Amendme
 | Bay of Plenty Regional Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Canterbury Regional Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
 | Hawke's Bay Regional Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
-| Manawatu–Wanganui Regional Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
+| Manawatū–Whanganui Regional Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Northland Regional Council | Local Government (Northland Region) Reorganisation Order 1989, Gazette 1989, p 2391 |
 | Otago Regional Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Southland Regional Council | Local Government (Southland Region) Reorganisation Order 1989, Gazette 1989, p 2430 |
