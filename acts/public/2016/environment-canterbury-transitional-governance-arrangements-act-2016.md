@@ -1,5 +1,5 @@
 # Environment Canterbury (Transitional Governance Arrangements) Act 2016
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-10-19_
 
 ### 1 Title
 This Act is the Environment Canterbury (Transitional Governance Arrangements) Act 2016.
