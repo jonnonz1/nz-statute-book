@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-22_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -4483,6 +4483,13 @@ Subsections (2A) to (2C) of section 209 expire and are repealed with the close o
 (1) A notice required to be given to a person for the purposes of this Act, or a request in writing under section 118, may be given or made by causing it to be delivered to that person, or to be left at the person's usual or last known place of residence or business or at the address specified by the person in any application or other document under this Act or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or to be posted in a letter addressed to the person at that place of residence or business or address.
 (2) If any such notice or request is sent to a person by post, then, unless the contrary is shown, it is to be treated as having been delivered to him or her when it would have been delivered in the ordinary course of post, and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
 (3) This section does not apply to an infringement notice or a copy of the notice.
+
+### 210A Transfer of responsibilities between regional councils and territorial authorities
+(1) A regional council may transfer 1 or more of its responsibilities under this Act to a territorial authority under section 17 of the Local Government Act 2002.
+(2) A territorial authority may transfer 1 or more of its responsibilities under this Act to a regional council under section 17 of the Local Government Act 2002.
+(3) In this section, responsibility means any responsibility, duty, or legal obligation under this Act and includes—
+  (a) a responsibility that has previously been transferred under section 17 of the Local Government Act 2002; and
+  (b) any powers associated with the responsibility, duty, or legal obligation.
 
 ### 211 Commissioner to provide traffic accident reports
 (1) A person may apply to the Commissioner for a copy of any traffic accident report and is, on payment of the prescribed fee (if any), entitled to obtain a copy of the report.
