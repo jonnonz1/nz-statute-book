@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2019-10-18_
+_Consolidation as at 2019-10-22_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -51,6 +51,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **council organisation** has the meaning set out in section 6
   - **development contribution** has the meaning set out in section 197(2)
   - **development contribution policy** has the meaning set out in section 197(2)
+  - **discretionary function** means any activity or service that a local authority is not specifically authorised or required to undertake or provide by or under an enactment but that is instead provided by the local authority in accordance with its discretionary power under section 12(2)
   - **district** means the district of a territorial authority
   - **enforcement officer** means a person appointed by a local authority to exercise the powers of an enforcement officer in relation to offences against, and infringement offences under, this Act, including enforcement of the bylaws of the local authority
   - **equity security** has the same meaning as in section 8 of the Financial Markets Conduct Act 2013
@@ -97,6 +98,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **natural hazard** has the meaning given to it in section 2(1) of the Resource Management Act 1991
   - **network infrastructure** has the meaning set out in section 197(2)
   - **operating expenses** and have the same meaning as under generally accepted accounting practice
+  - **permanent committee** means a committee of 1 or more local authorities that is established or continued by an enactment and that cannot be disestablished or discharged by the local authority or local authorities
   - **public notice** , in relation to a notice given by a local authority, means one that—
     (a) is made publicly available, until any opportunity for review or appeal in relation to the matter notified has lapsed, on the local authority’s Internet site; and
     (b) is published in at least—
@@ -109,6 +111,8 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (b) includes the district of a territorial authority, if the territorial authority is a unitary authority
   - **regional council** means a regional council named in Part 1 of Schedule 2
   - **remuneration and employment policy** means a policy adopted by a local authority under clause 36A of Schedule 7
+  - **reorganisation implementation scheme** has the meaning set out in clause 2 of Schedule 3
+  - **reorganisation plan** has the meaning set out in clause 2 of Schedule 3
   - **reserve fund** means money set aside by a local authority for a specific purpose
   - **resource consent** has the meaning set out in section 197(2)
   - **Secretary** means the Secretary for Local Government
@@ -127,7 +131,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
       (ii) an airport company within the meaning of the Airport Authorities Act 1966
   - **unitary authority** means a territorial authority that has the responsibilities, duties, and powers of a regional council conferred on it under—
     (a) the provisions of any Act; or
-    (b) an Order in Council giving effect to a reorganisation scheme
+    (b) an Order in Council giving effect to a reorganisation plan
   - **wastewater** has the meaning given to wastewater services in section 124
   - **water race** means the land occupied by a water channel (other than a main river)—
     (a) constructed—
@@ -187,7 +191,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
 (3) If a council organisation is not a company, references in this Act, in relation to the council organisation, to—
   (a) equity securities include any form of voting rights in that organisation; and
   (b) the directors and the board include trustees, managers, or office holders (however described in that organisation); and
-  (c) shareholders include any partners, joint venture partners, members, or other persons holding equity securities in relation to that organisation; and
+  (c) shareholders include any persons with an interest or right in the entity that is comparable to the rights of a shareholder in a company, for example, partners, joint venture partners, members, or other persons holding equity securities in relation to that organisation; and
   (d) the constitution include any rules or other documents constituting that organisation or governing its activities; and
   (e) subsidiaries include any entity that would be a council-controlled organisation if the references to local authority or local authorities in subsection (1) read council-controlled organisation or council-controlled organisations.
 (4) The following entities are not council-controlled organisations:
@@ -325,7 +329,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
   (b) a regional council-controlled organisation proposes to undertake a significant new activity; and
   (c) in either case, 1 or more territorial authorities in the region of the regional council—
     (i) are already undertaking the significant new activity; or
-    (ii) have notified their intention to do so in their long-term plans or their annual plans.
+    (ii) have notified their intention to do so in their long-term plans.
 (2) When this section applies, the regional council—
   (a) must advise all the territorial authorities within its region and the Minister of the proposal and the reasons for it; and
   (b) must include the proposal in the consultation document referred to in section 93A.
@@ -345,15 +349,12 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
   (a) a proposal by a regional council to establish, own, or operate a park for the benefit of its region; or
   (b) a proposal to transfer responsibilities; or
   (c) a proposal to transfer bylaw-making powers; or
-  (d) a reorganisation application under Schedule 3; or
+  (d) a reorganisation under Schedule 3; or
   (e) a proposal to undertake an activity or enter into an undertaking jointly with the Crown.
 (9) For the purposes of this section,—
   - **affected territorial authority** means a territorial authority—
     (a) the district of which is wholly or partly in the region of a regional council; and
-    (b) that undertakes, or has notified in its long-term plan or annual plan its intention to undertake, the significant new activity
-  - **annual plan** —
-    (a) means a report adopted under section 223D of the Local Government Act 1974; and
-    (b) includes such a report that section 281 applies to
+    (b) that undertakes, or has notified in its long-term plan its intention to undertake, the significant new activity
   - **new activity** —
     (a) means an activity that, before the commencement of this section, a regional council was not authorised to undertake; but
     (b) does not include an activity authorised by or under an enactment
@@ -371,15 +372,30 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
 (1) A regional council may transfer 1 or more of its responsibilities to a territorial authority in accordance with this section.
 (2) A territorial authority may transfer 1 or more of its responsibilities to a regional council in accordance with this section.
 (3) A transfer of responsibilities under this section must be made by agreement between the local authorities concerned and may be on the terms and conditions that are agreed between them.
+(3A) The terms and conditions agreed under subsection (3) must ensure effective provision for any affected co-governance or co-management arrangements that are established by legislation (including Treaty of Waitangi claim settlement legislation) and that are between local authorities and iwi or Māori organisations.
 (4) A local authority may not agree to transfer a responsibility or agree to accept a transfer of a responsibility under this section unless it is satisfied, following consultation in accordance with section 82, that the benefits of the proposed transfer to its district or region will outweigh any negative impacts of the proposal.
+(4A) In assessing, for the purposes of subsection (4), the benefits and negative impacts of a proposed transfer, a local authority must have regard to the following matters:
+  (a) whether the transfer will promote—
+    (i) better fulfilment of the purpose of local government:
+    (ii) productivity improvements within local authorities and districts or regions:
+    (iii) efficiencies and cost savings:
+    (iv) assurance that the local authorities concerned have the resources necessary to enable them to effectively perform or exercise their responsibilities, duties, and powers:
+    (v) effective responses to the opportunities, needs, and circumstances of the affected area:
+    (vi) enhanced effectiveness, efficiency, and sustainability of local government services:
+    (vii) better support for the ability of local and regional economies to develop and prosper:
+    (viii) enhanced ability of local government to meet the changing needs of communities for governance and services into the future:
+  (b) the scale and probability of the potential benefits of the transfer to users of local government services:
+  (c) the financial, disruption, and opportunity costs of implementing the proposed transfer at the proposed time:
+  (d) the consequences and risks of not implementing the proposed transfer at the proposed time:
+  (e) existing communities of interest, and the extent to which the proposed transfer will maintain linkages between communities (including iwi and hapū) and sites and resources of significance to them.
 (5) A local authority must notify the Minister of its intention to transfer a responsibility or accept a transfer of responsibility under this section.
 (6) From the time a transfer takes effect, the responsibilities and powers of the local authority receiving the transfer are extended as necessary to enable the local authority to undertake, exercise, and perform the transferred responsibilities.
 (7) If a transfer of responsibilities has been made, either local authority that was a party to the transfer may, through the process set out in subsections (3) to (6), initiate—
   (a) a variation of the terms of the transfer; or
   (b) the reversal of the transfer.
-(8) In this section, responsibility means any responsibility, duty, or legal obligation except a responsibility, duty, or legal obligation conferred by or under any other Act, and includes—
-  (a) a responsibility that has previously been transferred under this section; and
-  (b) any powers associated with the responsibility, duty, or legal obligation.
+(8) In this section, responsibility—
+  (a) means any responsibility, duty, or legal obligation (including a responsibility, duty, or legal obligation that has previously been transferred under this section and a discretionary function), and any powers associated with that responsibility, duty, or legal obligation; but
+  (b) does not include a responsibility, duty, or legal obligation conferred by or under any other Act, unless that Act provides that the responsibility, duty, or legal obligation may be transferred in accordance with this section.
 (9) Nothing in this section limits the ability of a local authority to—
   (a) delegate the exercise of any responsibility to another local authority; or
   (b) enter into a contractual agreement with another local authority for the performance of any activity or function.
@@ -467,10 +483,8 @@ This Part—
 
 ### Subpart 2 — Reorganisation of local authorities
 
-### 24AA Purpose of local government reorganisation
-The purpose of the local government reorganisation provisions of this Act is to improve the effectiveness and efficiency of local government by—
-  (a) providing communities with the opportunity to initiate, and participate in considering, alternative local government arrangements for their area; and
-  (b) requiring the Commission, in consultation with communities, to identify, develop, and implement in a timely manner the option that best promotes good local government.
+### 24AA Purpose of local government reorganisation provisions
+The purpose of the local government reorganisation provisions of this Act is to promote good local government by enabling and facilitating improvements to local governance.
 
 ### 24 Scope of local government reorganisation
 (1) Local government reorganisation may provide for 1 or more of the following matters:
@@ -478,20 +492,26 @@ The purpose of the local government reorganisation provisions of this Act is to 
   (b) the constitution of a new district or region, including the constitution of a new local authority for that district or region:
   (c) the abolition of a district or region, including the dissolution or abolition of the local authority for that district or region:
   (d) the alteration of the boundaries of any district or region:
-  (e) the transfer of a statutory obligation from one local authority to another:
-  (f) the assumption by a territorial authority of the powers of a regional council:
-  (g) the establishment of a local board area, including the establishment of a local board for that local board area:
-  (h) in relation to a local board, other than a local board established under the Local Government (Auckland Council) Act 2009,—
+  (e) the transfer from one local authority to another of—
+    (i) a responsibility, duty, or power conferred by an enactment; or
+    (ii) a discretionary function:
+  (f) the assumption by a territorial authority of the responsibilities, duties, and powers of a regional council as a unitary authority:
+  (g) the performance and exercise by a local authority of both—
+    (i) the responsibilities, duties, and powers of a regional council in respect of a region; and
+    (ii) the responsibilities, duties, and powers of a territorial authority in respect of a district that constitutes a part only of that region:
+  (h) the establishment of 1 or more joint committees and the delegation of responsibilities, duties, and powers to those committees:
+  (i) the establishment of a local board area, including the establishment of a local board for that area:
+  (j) in relation to a local board, other than a local board established under the Local Government (Auckland Council) Act 2009,—
     (i) the means by which the chairperson is elected; and
     (ii) whether the local board may include appointed members:
-  (i) the abolition of a local board area:
-  (j) the alteration of the boundaries of a local board area:
-  (k) the union of 2 or more local board areas.
+  (k) the abolition of a local board area:
+  (l) the alteration of the boundaries of a local board area:
+  (m) the union of 2 or more local board areas.
 (2) Schedule 3 applies in relation to local government reorganisation.
 
-### 24A Transitional modification or suspension of certain statutory requirements after issue of final proposal for reorganisation
-(1) The purpose of this section is to authorise the extension or postponement of certain statutory requirements after public notice of a final proposal relating to local government reorganisation is given under clause 22 of Schedule 3, but before the fate of the final proposal is known.
-(2) This section applies to a final reorganisation proposal only if the proposal provides for any of the matters specified in section 24(1)﻿(a), (b), (c), or (f).
+### 24A Transitional modification or suspension of certain statutory requirements after issue of reorganisation plan
+(1) The purpose of this section is to authorise the extension or postponement of certain statutory requirements after public notice of a reorganisation plan is given under clause 13 of Schedule 3 if a poll of electors on that plan is to be held under clause 25 of that schedule.
+(2) This section applies to a reorganisation plan only if the plan provides for any of the matters specified in clause 23(1) of Schedule 3.
 (3) The Governor-General may, by Order in Council, in relation to an affected local authority,—
   (a) extend, for a period not exceeding 12 months, the time by which the local authority would otherwise have to complete, within the specified period, any action relating to the preparation or adoption of any plan, policy, or strategy required by or under any enactment:
   (b) extend the time by which the local authority would otherwise have to complete anything relating to, and dependent or consequential on, the action in relation to which the period has been extended under paragraph (a):
@@ -508,56 +528,72 @@ The purpose of the local government reorganisation provisions of this Act is to 
     (ii) the Commission.
 (6) In this section,—
   - **specified period** means the period—
-    (a) beginning on the date on which public notice is given of the final proposal under clause 22 of Schedule 3; and
-    (b) ending on the close of the date that is 9 months after the day on which public notice is given under clause 22 of Schedule 3.
+    (a) beginning on the date on which public notice is given of the reorganisation plan under clause 13 of Schedule 3; and
+    (b) ending on the close of the date that is 6 months after the date on which that public notice is given.
 
-### 25 Order in Council to give effect to final proposals and reorganisation schemes
-(1) A final proposal—
-  (a) is given effect to by Order in Council; and
-  (b) has effect on and from the date specified for this purpose by Order in Council.
-(2) An Order in Council made under subsection (1)—
-  (a) must establish and provide for 1 or more transition bodies in accordance with—
+### 25 Order in Council to give effect to reorganisation plan
+(1) A reorganisation plan to which clause 22C(5) or 33 of Schedule 3 applies—
+  (a) is given effect to by Order in Council made on the recommendation of the Minister; and
+  (b) has effect on and from the date or dates specified for that purpose by that Order in Council (as required by subsection (3)﻿(a)).
+(2) The Minister must recommend the making of an Order in Council under subsection (1) unless the Minister is satisfied, on reasonable grounds, that—
+  (a) the process followed in developing the reorganisation plan was not in accordance with the requirements of this Act; or
+  (b) the development of the reorganisation plan failed to give proper weight to the relevant principles, considerations, and criteria set out in this Act.
+(3) An Order in Council made under subsection (1)—
+  (a) must specify the date or dates on which its provisions come into effect; and
+  (b) must establish and provide for 1 or more transition bodies in accordance with—
     (i) clauses 33 to 40 of Schedule 3; and
-    (ii) the provisions in the final proposal relating to transitional matters; and
-  (b) may, with the agreement of the Commission, suspend any statutory requirement that an affected local authority would otherwise be subject to before a final proposal comes into effect, but only if the coming into effect of the final proposal would make compliance with the statutory requirement unnecessary or inappropriate.
-(3) An Order in Council made under subsection (1) may, if appropriate, amend Part 1 or 2 of Schedule 2.
-(4) A reorganisation scheme—
-  (a) is given effect to by Order in Council; and
-  (b) has effect on and from the date specified by Order in Council made under subsection (1)﻿(a).
-(5) An Order in Council giving effect to a final proposal or reorganisation scheme is not invalid because it is inconsistent with the provisions of the final proposal or scheme if the inconsistency relates—
-  (a) to corrections of clerical, grammatical, or typographical errors; or
-  (b) to matters of a format or referential nature that do not alter the substance or effect of the final proposal or scheme.
-(6) If a reorganisation scheme does not specifically provide for a matter that the Secretary considers to be necessary, desirable, or incidental as a consequence of the scheme,—
-  (a) the Secretary must consult with the Commission, and each affected local authority, about the inclusion of the matter in the Order in Council under subsection (4); and
-  (b) the matter may be included in the Order in Council if considered appropriate by the Governor-General in Council.
-(7) Clauses 45 and 46 of Schedule 3 apply in respect of each reorganisation scheme that is given effect to by Order in Council, except to the extent that the reorganisation scheme provides that the clauses are—
-  (a) amended in their application by the reorganisation scheme; or
-  (b) declared not to apply.
-(8) Clauses 47 to 54 of Schedule 3 apply to each reorganisation scheme that is given effect to by Order in Council.
-(9) In this section,—
-  - **final proposal** means a final proposal to which clause 33 of Schedule 3 applies
-  - **reorganisation scheme** means a reorganisation scheme prepared and issued under clause 41(2) of Schedule 3.
+    (ii) the provisions in the reorganisation plan relating to transitional matters; and
+  (c) may, with the agreement of the Commission, suspend any statutory requirement that an affected local authority would otherwise be subject to if the reorganisation would make compliance with the statutory requirement unnecessary or inappropriate.
+(4) An Order in Council made under subsection (1) may, if appropriate, amend Part 1 or 2 of Schedule 2.
+(5) An Order in Council giving effect to a reorganisation plan is not invalid merely because it is inconsistent with the provisions of the reorganisation plan if the inconsistency relates to—
+  (a) corrections of clerical, grammatical, or typographical errors; or
+  (b) the inclusion of provisions that are necessary to give legal effect to the reorganisation plan; or
+  (c) the omission of explanatory material or other material that is not necessary to give legal effect to the reorganisation plan; or
+  (d) matters of a format or referential nature that do not alter the substance or effect of the reorganisation plan.
 
-### 26 Power to amend reorganisation schemes
-(1) The Commission may issue a determination amending a reorganisation scheme if satisfied that—
-  (a) some further or other provision is necessary to enable, or better enable, the intention of the scheme; or
-  (b) some provision of the scheme is no longer relevant or appropriate to the intention of the scheme.
-(2) A determination issued under subsection (1) has effect on and from the date specified for this purpose by Order in Council.
-(3) In this section, reorganisation scheme means—
-  (a) a reorganisation scheme prepared under Schedule 3 and given effect to by Order in Council:
-  (b) a reorganisation scheme prepared and given effect to under the Local Government Act 1974.
+### 25A Order in Council to give effect to reorganisation implementation scheme
+(1) A reorganisation implementation scheme prepared and issued under clause 41(2) of Schedule 3—
+  (a) is given effect to by Order in Council made on the recommendation of the Minister; and
+  (b) has effect on and from the date or dates specified for that purpose by that Order in Council (as required by subsection (2)﻿(a)).
+(2) An Order in Council made under subsection (1) must specify—
+  (a) the date or dates on which its provisions come into effect; and
+  (b) the date on which the local government reorganisation described in the order takes effect (the implementation date for the purposes of the provisions of Schedule 3).
+(3) An Order in Council giving effect to a reorganisation implementation scheme is not invalid merely because it is inconsistent with the provisions of the reorganisation plan or the reorganisation implementation scheme if the inconsistency relates to—
+  (a) corrections of clerical, grammatical, or typographical errors; or
+  (b) the inclusion of provisions that are necessary to give legal effect to the reorganisation implementation scheme; or
+  (c) the omission of explanatory material or other material that is not necessary to give legal effect to the reorganisation implementation scheme; or
+  (d) matters of a format or referential nature that do not alter the substance or effect of the reorganisation implementation scheme.
+(4) If a reorganisation implementation scheme does not specifically provide for a matter that the Secretary considers to be necessary, desirable, or incidental as a consequence of the scheme,—
+  (a) the Secretary must consult the Commission, and each affected local authority, about the inclusion of the matter in the Order in Council under subsection (1); and
+  (b) the matter may be included in the Order in Council if the Minister considers the inclusion is appropriate.
+(5) Clauses 45 and 46 of Schedule 3 apply in respect of each reorganisation implementation scheme that is given effect to by Order in Council, except to the extent that the Order in Council provides that the clauses are—
+  (a) amended in their application; or
+  (b) declared not to apply.
+(6) Clauses 47 to 60A of Schedule 3 apply to each reorganisation implementation scheme that is given effect to by Order in Council.
+
+### 26 Power to amend reorganisation plans and reorganisation implementation schemes
+(1) A reorganisation plan may be amended by a further reorganisation plan that is developed and adopted in accordance with this Act and that is given effect by an Order in Council under section 25.
+(2) A reorganisation implementation scheme may be amended by a further reorganisation implementation scheme that is developed and adopted in accordance with this Act and that is given effect by an Order in Council under section 25A.
 
 ### 26A Duties of local authorities in relation to local government reorganisation
 (1) It is the duty of every local authority to co-operate with, give reasonable assistance to, and provide information to the Commission to enable it to perform its functions and exercise its powers in relation to local government reorganisation.
-(2) Without limiting subsection (1), an affected local authority must comply with any lawful request by the Commission for information held or reasonably available to the local authority that may be relevant to a proposed reorganisation or to the development of a reorganisation scheme.
-(3) An affected local authority must not make a decision described in subsection (4) at any time after an Order in Council giving effect to a final proposal is made under section 25, without first consulting the Commission.
+(2) Without limiting subsection (1), an affected local authority must comply with any lawful request by the Commission for information held or reasonably available to the local authority that may be relevant to a reorganisation investigation or to the development of a reorganisation implementation scheme.
+(3) An affected local authority must not make a decision described in subsection (4) at any time after an Order in Council giving effect to a reorganisation plan is made under section 25, without first consulting the Commission.
 (4) Subsection (3) applies to any decision of an affected local authority that may, directly or because of its consequences,—
-  (a) significantly prejudice the implementation of the final proposal; or
+  (a) significantly prejudice the implementation of the reorganisation plan; or
   (b) significantly constrain the powers or capacity of any local authority to be established or changed under the final proposal, or any subsidiary of any such local authority, following the implementation of the final proposal; or
   (c) have a significant negative impact on the assets or liabilities that may be transferred to any local authority in the implementation of the final proposal.
+(5) A local authority that receives a report or recommendation from the Commission under clause 9 of Schedule 3 must—
+  (a) make the report or recommendation publicly available; and
+  (b) consider and respond to the Commission in relation to the report or recommendation; and
+  (c) make the response publicly available.
+(6) A local authority must comply with subsection (5)—
+  (a) within 30 working days after receiving the report or recommendation; or
+  (b) by a later date specified by the Commission in the report or recommendation.
+(7) Nothing in this section requires a local authority to make publicly accessible any information that may be properly withheld if a request for that information were made under the Local Government Official Information and Meetings Act 1987.
 
 ### 27 Application to be called city council or district council
-(1) A territorial authority that wishes to be called a city council or a district council may, instead of making a reorganisation application under Schedule 3, apply to the Local Government Commission.
+(1) A territorial authority that wishes to be called a city council or a district council may apply to the Local Government Commission.
 (2) The Commission may refer the application to the Minister for the preparation of an Order in Council to give effect to it, if the Commission considers that—
   (a) the application should be approved; and
   (b) in the case of a territorial authority wishing to be called a city council, the district of the territorial authority meets the criteria specified in clause 16 of Schedule 3.
@@ -582,6 +618,7 @@ There continues to be a Local Government Commission.
 (2) For the purpose of performing its functions, the Commission has—
   (a) full capacity to carry on or undertake any activity, do any act, or enter into any transaction; and
   (b) for the purposes of paragraph (a), full rights, powers, and privileges.
+(3) The Commission is a public office for the purposes of the Public Records Act 2005.
 
 ### 30 Functions and powers of Commission
 (1) The Commission has the functions, duties, and powers conferred on it by this Act or any other enactment.
@@ -591,7 +628,7 @@ There continues to be a Local Government Commission.
 
 ### 31 Report to Minister on matters relating to local government
 (1) The Commission may consider, report on, and make recommendations to the Minister and any relevant local authority on matters relating to a local authority or local government considered appropriate by the Commission.
-(1A) The Commission may consider, report on, and make recommendations to the Minister or any relevant local authority, or both, on any matter arising in the performance of its functions and exercise of its powers under Schedule 3.
+(1A)
 (2) The Commission must consider, report on, and make recommendations to the Minister and any relevant local authority on matters relating to a local authority or local government that are referred to the Commission by the Minister.
 (3) If the Minister refers any matter to the Commission under subsection (2), the Minister must immediately publish the terms of reference in the Gazette.
 (4) A local authority that receives a report or recommendation from the Commission under subsection (1) or subsection (2) must consider and respond to the Commission in relation to the report or recommendation.
@@ -600,17 +637,18 @@ There continues to be a Local Government Commission.
   (b) if the Commission does not specify a date, within 20 working days after receiving a report or recommendation.
 
 ### 31A Minister's expectations of Commission in relation to local government reorganisation
-(1) The Minister may, by notice in writing to the Commission, specify measures and expectations relating to the Commission's performance of its functions and exercise of its powers under Schedule 3.
+(1) The Minister may, by notice in writing to the Commission, specify expectations relating to the Commission's performance of its functions and exercise of its powers under Schedule 3.
+(1A) The Minister must state in the notice the Minister’s objectives in respect of the expectations specified in the notice.
 (2) Without limiting subsection (1), the Minister may specify—
   (a) the time frames within which the Commission is expected to complete specified matters:
   (b) which reorganisation applications are to be regarded by the Commission as having a higher priority.
-(3) Before specifying measures and expectations under this section, the Minister—
+(3) Before specifying expectations under this section, the Minister—
   (a) must consult the Commission; and
   (b) may consult any other persons or organisations that the Minister considers appropriate to consult.
 (4) The Commission must publish, on its Internet site,—
-  (a) any measures and expectations given to it by the Minister under subsection (1); and
-  (b) a statement of the impact that meeting those measures and expectations will have on the performance of its functions and exercise of its powers under Schedule 3.
-(5) The Commission must, in its report to the Minister under clause 31 of Schedule 4, describe how and the extent to which it has met the measures and expectations specified under subsection (1).
+  (a) any expectations given to it by the Minister under subsection (1); and
+  (b) a statement of the impact that meeting those expectations will have on the performance of its functions and exercise of its powers under Schedule 3.
+(5) The Commission must, in its report to the Minister under clause 31 of Schedule 4, describe how and the extent to which it has met the expectations specified under subsection (1).
 
 ### 32 Review of operation of Act and Local Electoral Act 2001
 (1) The Commission must—
@@ -624,23 +662,41 @@ There continues to be a Local Government Commission.
 (4) The Commission must, no later than 1 July 2005, present a report to the Minister if it considers that amendments should be made to this Act or the Local Electoral Act 2001 before the triennial general election of members of local authorities in 2007.
 
 ### 33 Membership of Commission
-(1) The Commission consists of 3 members appointed by the Minister.
-(2) One member of the Commission—
-  (a) must have a knowledge of tikanga Māori; and
-  (b) is to be appointed after consultation with the Minister of Māori Affairs.
+(1) The Commission consists of a minimum of 1 member and a maximum of 3 members appointed by the Minister.
+(2) If the Commission consists of 2 members or 3 members,—
+  (a) 1 member—
+    (i) must have a knowledge of tikanga Māori; and
+    (ii) must be appointed by the Minister after consultation with the Minister for Māori Development; and
+  (b) 1 member—
+    (i) must have experience as an elected member or the chief executive of a local authority; and
+    (ii) must be appointed by the Minister after consultation with the New Zealand Local Government Association Incorporated.
+(2A) If the Commission consists of 1 member, that member must be appointed by the Minister, who must—
+  (a) take into consideration whether the member has a knowledge of tikanga Māori or experience as an elected member or the chief executive of a local authority; and
+  (b) consult with—
+    (i) the Minister for Māori Development; and
+    (ii) the New Zealand Local Government Association Incorporated.
 (3) The powers of the Commission are not affected by any vacancy in its membership.
 (4) No person is to be treated as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the State Sector Act 1988 because the person is a member of the Commission.
 (5) In this section, tikanga Māori means Māori custom and practice.
 
-### 34 Commission is Commission of Inquiry
-(1) The Commission is to be treated as a Commission of Inquiry under the Commissions of Inquiry Act 1908 and, subject to this Act, the provisions of that Act (except sections 2, 4A, and 11 to 15), as far as they are applicable, apply accordingly.
-(2) The chairperson of the Commission, or any other person (being a member of the Commission or an officer of the Public Service) purporting to act by direction or with the authority of the chairperson, may—
-  (a) issue summonses requiring the attendance of witnesses before the Commission or the production of documents; and
-  (b) do any other act preliminary or incidental to the investigation or consideration of any matter by the Commission.
+### 34 Additional powers of Commission
+(1) For the purposes of performing its functions under this Act, the Commission—
+  (a) has the powers of the District Court exercising its civil jurisdiction in respect of citing parties and conducting and maintaining order at any meeting or hearing; and
+  (b) is to be treated as an inquiry for the purposes of sections 14, 19 to 27, 29, 30, and 34 of the Inquiries Act 2013.
+(2) The chairperson of the Commission, or any other person (being a member of the Commission or an officer of the Public Service) acting by direction or with the authority of the chairperson, may do any act preliminary or incidental to the investigation or consideration of any matter by the Commission.
 
 ### 35 Evidence before Commission
 (1) The Evidence Act 2006 applies to the Commission and its members, and to all proceedings before the Commission, in the same manner as if the Commission were a court within the meaning of that Act.
 (2) However, the Commission may receive as evidence any statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matter being dealt with, whether or not the same would be admissible in a court of law.
+
+### 35A Application of Official Information Act 1982
+(1) This section applies to information created or received by the Commission in the course of—
+  (a) the consideration of any matter under section 31:
+  (b) a reorganisation investigation under Part 1 of Schedule 3:
+  (c) the review of a local authority-led reorganisation application under clause 22C of Schedule 3:
+  (d) the resolution of a dispute by the Commission under this Act or another enactment:
+  (e) the determination of an appeal or objection under section 19R of the Local Electoral Act 2001.
+(2) Information to which this section applies is not official information for the purposes of the Official Information Act 1982 until the consideration, investigation, resolution, review, or determination has been completed.
 
 ### 36 Further provisions relating to Commission and its proceedings
 Schedule 4 applies in respect of the Commission and its proceedings.
@@ -1089,6 +1145,7 @@ This Part establishes—
 (2) A local authority may appoint a person to be a director of a council organisation only if the person has, in the opinion of the local authority, the skills, knowledge, or experience to—
   (a) guide the organisation, given the nature and scope of its activities; and
   (b) contribute to the achievement of the objectives of the organisation.
+(3) When identifying the skills, knowledge, and experience required of directors of a council-controlled organisation, the local authority must consider whether knowledge of tikanga Māori may be relevant to the governance of that council-controlled organisation.
 
 ### 58 Role of directors of council-controlled organisations
 (1) The role of a director of a council-controlled organisation is to assist the organisation to meet its objectives and any other requirements in its statement of intent.
@@ -1107,6 +1164,9 @@ All decisions relating to the operation of a council-controlled organisation mus
   (a) its statement of intent; and
   (b) its constitution.
 
+### 60A Significant decisions of council-controlled organisations affecting land or water
+Before a council-controlled organisation makes a decision that may significantly affect land or a body of water, it must take into account the relationship of Māori and their culture and traditions with their ancestral land, water, sites, wāhi tapu, valued flora and fauna, and other taonga.
+
 ### 61 Activities undertaken on behalf of local authorities
 Nothing in this Part restricts or limits the application of section 17A to any arrangement or agreement under which a council-controlled organisation undertakes any responsibility on behalf of a local authority, irrespective of whether the local authority is a shareholder of the council-controlled organisation.
 
@@ -1116,17 +1176,48 @@ A local authority must not give any guarantee, indemnity, or security in respect
 ### 63 Restriction on lending to council-controlled trading organisation
 A local authority must not lend money, or provide any other financial accommodation, to a council-controlled trading organisation on terms and conditions that are more favourable to the council-controlled trading organisation than those that would apply if the local authority were (without charging any rate or rate revenue as security) borrowing the money or obtaining the financial accommodation.
 
-**Statements of intent**
+**Council-controlled organisation planning**
 
 ### 64 Statements of intent for council-controlled organisations
-(1) A council-controlled organisation must have a statement of intent that complies with clauses 9 and 10 of Schedule 8.
-(2)
-(3)
-(4) Schedule 8 applies to statements of intent of council-controlled organisations.
-(5) A statement of intent—
-  (a) must not be inconsistent with the constitution of a council-controlled organisation; and
+(1) Every council-controlled organisation must prepare and adopt a statement of intent in accordance with Part 1 of Schedule 8.
+(2) The purpose of a statement of intent is to—
+  (a) state publicly the activities and intentions of the council-controlled organisation for the year and the objectives to which those activities will contribute; and
+  (b) provide an opportunity for shareholders to influence the direction of the organisation; and
+  (c) provide a basis for the accountability of the directors to their shareholders for the performance of the organisation.
+(3) The statement of intent—
+  (a) must not be inconsistent with the constitution of the council-controlled organisation; and
   (b) may include and apply to 2 or more related council-controlled organisations.
-(6) Despite this section, an organisation that becomes a council-controlled organisation not more than 6 months before the end of a financial year is not required to prepare a statement of intent for that financial year.
+(4) Every statement of intent of a council-controlled organisation must comply with Part 2 of Schedule 8.
+(5) Every statement of intent of a council-controlled trading organisation must comply with Part 3 of Schedule 8.
+(6) Every statement of intent of a council-controlled organisation that is not a council-controlled trading organisation must comply with Part 4 of Schedule 8.
+(7) All information that is included in a statement of intent under this section must be prepared in accordance with generally accepted accounting practice if that information is of a form or nature for which generally accepted accounting practice has developed standards.
+(8) Despite this section, an organisation that becomes a council-controlled organisation not more than 6 months before the end of a financial year is not required to prepare a statement of intent for that financial year.
+(9) Each shareholding local authority must publish the adopted statement of intent on an Internet site maintained by or on behalf of the local authority within 1 month of adopting it, and must maintain the statement on that site for a period of no less than 7 years.
+(10) A failure by a council-controlled organisation to comply with any requirement of this section, or with any statement in the organisation’s statement of intent, does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by that organisation.
+
+### 64A Shareholders may require additional plans
+(1) The shareholders of a council-controlled organisation may require the organisation to prepare and deliver additional plans, including—
+  (a) an asset management plan:
+  (b) a long-term plan:
+  (c) 1 or more thematic plans (for example, a climate change mitigation plan).
+(2) A requirement to provide a plan must be notified to the council-controlled organisation in writing and must specify—
+  (a) the date by which the plan must be delivered to the shareholders; and
+  (b) the matters to be addressed in the plan; and
+  (c) the time period that the plan is to cover.
+(3) A requirement to provide a plan may also specify a date or dates by which, or intervals at which, the organisation must report on its progress against the plan.
+(4) The board of a council-controlled organisation must deliver plans, and reports against those plans, in accordance with the terms of the requirement.
+
+### 64B Statement of expectations
+(1) The shareholders in a council-controlled organisation may prepare a statement of expectations that—
+  (a) specifies how the organisation is to conduct its relationships with—
+    (i) shareholding local authorities; and
+    (ii) the communities of those local authorities, including any specified stakeholders within those communities; and
+    (iii) iwi, hapū, and other Māori organisations; and
+  (b) requires the organisation to act consistently with—
+    (i) the statutory obligations of the shareholding local authorities; and
+    (ii) the shareholders’ obligations pursuant to agreements with third parties (including with iwi, hapū, or other Māori organisations).
+(2) A statement of expectations may include other shareholder expectations, such as expectations in relation to community engagement and collaboration with shareholders and others in the delivery of services.
+(3) A statement of expectations must be published on an Internet site maintained by or on behalf of each local authority that is a shareholder of the organisation.
 
 **Monitoring and reporting**
 
@@ -1137,18 +1228,28 @@ A local authority must not lend money, or provide any other financial accommodat
   (c) the overall aims and outcomes of the local authority.
 (2) A local authority must, as soon as practicable after a statement of intent of a council-controlled organisation is delivered to it,—
   (a) agree to the statement of intent; or
-  (b) if it does not agree, take all practicable steps under clause 5 of Schedule 8 to require the statement of intent to be modified.
+  (b) if it does not agree, take all practicable steps under clause 6 of Schedule 8 to require the statement of intent to be modified.
 
-### 66 Half-yearly report
-(1) Within 2 months after the end of the first half of each financial year, the board of a council-controlled organisation must deliver to the shareholders a report on the organisation's operations during that half year.
-(2) The report must include the information required to be included by its statement of intent.
+### 66 Half-yearly or quarterly reports
+(1) During each financial year, the board of a council-controlled organisation must report on the organisation’s operations to—
+  (a) its shareholders; and
+  (b) in the case of an organisation that is indirectly controlled by 1 or more local authorities (for example, a subsidiary of a holding company owned by a local authority), to each local authority that indirectly controls the organisation.
+(2) A half-yearly report must be delivered within 2 months after the end of the first half of each financial year.
+(3) If the shareholders of the council-controlled organisation notify the organisation that they require quarterly reporting, quarterly reports must also be delivered within 2 months after the end of the first and third quarters of each financial year.
+(4) Each report must include the information required to be included by the council-controlled organisation’s statement of intent.
+(5) Each local authority that receives a report under this section must publish the report on an Internet site maintained by or on behalf of the local authority within 1 month of receiving it and must maintain the report on that site for a period of no less than 7 years.
 
 ### 67 Annual report
-(1) Within 3 months after the end of each financial year, the board of a council-controlled organisation must deliver to the shareholders, and make available to the public, a report on the organisation's operations during that year.
+(1) Within 3 months after the end of each financial year, the board of a council-controlled organisation must—
+  (a) complete a report on the organisation’s operations during that year; and
+  (b) deliver the report to its shareholders and, in the case of an organisation that is indirectly controlled by 1 or more local authorities (for example, a subsidiary of a holding company owned by a local authority), to each local authority that indirectly controls the organisation; and
+  (c) make the report available to the public.
 (2) The report must include the information required to be included by—
   (a) sections 68 and 69; and
   (b) its statement of intent.
 (3)
+(3) If a council-controlled organisation has undertaken to obtain or has obtained compensation from its shareholders in respect of any activity, the undertaking or the amount of compensation obtained must be recorded in the annual report of the council-controlled organisation.
+(4) Each local authority that receives an annual report under this section must publish the annual report on an Internet site maintained by or on behalf of the local authority within 1 month of receiving it, and must maintain the report on that site for a period of no less than 7 years.
 
 ### 68 Content of reports on operations of council-controlled organisations
 A report on the operations of a council-controlled organisation under section 67 must—
@@ -1169,7 +1270,7 @@ A report on the operations of a council-controlled organisation under section 67
 Despite sections 207P to 207V of the Companies Act 1993, a council-controlled organisation or a subsidiary of a council-controlled organisation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 
 ### 71 Protection from disclosure of sensitive information
-Nothing in this Act requires the inclusion in any statement of intent, annual report, financial statement, or half-yearly report required to be produced under this Act by a council-controlled organisation of any information that may be properly withheld if a request for that information were made under the Local Government Official Information and Meetings Act 1987.
+Nothing in this Act requires the inclusion in any statement of intent, annual report, financial statement, half-yearly report, or quarterly report required to be produced under this Act by a council-controlled organisation of any information that may be properly withheld if a request for that information were made under the Local Government Official Information and Meetings Act 1987.
 
 ### 71A Application of Part to listed companies
 (1) This section applies to a council-controlled organisation if the shares of any of the following are quoted on a licensed market (within the meaning of section 6(1) of the Financial Markets Conduct Act 2013):
@@ -1178,7 +1279,7 @@ Nothing in this Act requires the inclusion in any statement of intent, annual re
   (c) controlling companies of the council-controlled organisation.
 (2) If subsection (1) applies, the council-controlled organisation is not required to—
   (a) have a statement of intent under section 64:
-  (b) deliver a half-yearly report under section 66:
+  (b) deliver a half-yearly report or quarterly report under section 66:
   (c) deliver an annual report under section 67.
 (3) In this section,—
   - **controlling companies** means 2 or more companies whose degree of control over a council-controlled organisation, if exercisable by one notional company, would make the notional company a holding company of the council-controlled organisation
@@ -1566,7 +1667,10 @@ If a local authority carries out consultation in relation to an amendment to a l
 (2) A local authority must not make a decision to which this section relates unless—
   (a) the decision is explicitly provided for in its long-term plan; and
   (b) the proposal to provide for the decision was included in a consultation document in accordance with section 93E.
-(3) Nothing in this section applies to a decision of a local authority to fund a capital project by lump sum contributions if the local authority has complied with section 117B(3)﻿(c)﻿(i) of the Local Government (Rating) Act 2002.
+(3) Nothing in this section applies to a decision of a local authority—
+  (a) to adopt a local authority-led reorganisation plan under clause 22A of Schedule 3; or
+  (b) that is required in order to implement a reorganisation in accordance with an Order in Council under section 25 or 25A; or
+  (c) to fund a capital project by lump sum contributions, if the local authority has complied with section 117B(3)﻿(c)﻿(i) of the Local Government (Rating) Act 2002.
 
 ### Subpart 2 — Reporting
 
@@ -4003,7 +4107,7 @@ The Minister must notify any change in the membership of a Ministerial body by n
   (b) prescribing infringement fees (not exceeding $1,000) for infringement offences:
   (c) prescribing infringement notice forms:
   (d) prescribing forms to be used—
-    (i) in petitions and polls in relation to final proposals for local government reorganisation under Schedule 3:
+    (i) in polls in relation to reorganisation plans under Schedule 3:
     (ii) for any other matter for which forms are required under this Act:
   (da) prescribing matters, not inconsistent with generally accepted accounting practice, that must be specified in a financial statement and the manner in which they must be specified:
   (db) prescribing forms for the funding impact statements to be included in the long-term plan, annual plan, and annual report:
@@ -4563,6 +4667,60 @@ In this Part, 2019 Act means the Local Government (Community Well-being) Amendme
       (A) the adjusted proportion of the capital cost that the territorial authority proposes to recover through development contributions; and
       (B) the adjusted proportion of the capital cost that the territorial authority proposes to recover from other sources.
 
+### Part 3 — Provisions relating to Local Government Act 2002 Amendment Act 2019
+
+**Transitional provision relating to reporting and publication requirements**
+
+### 16 Delayed effective date for certain reporting and publication requirements
+(1) Despite sections 64(9), 64B(3), 66(5), and 67(4), a local authority is not required to publish a council-controlled organisation’s statement of intent, statement of expectations, half-yearly or quarterly report, or annual report on an Internet site maintained by the local authority before the date that is 3 months after the date of commencement of the Local Government Act 2002 Amendment Act 2019.
+(2) Despite sections 66 and 67(1)﻿(b), a council-controlled organisation is not required to deliver a report to a local authority that indirectly controls the organisation before the date that is 3 months after the date of commencement of the Local Government Act 2002 Amendment Act 2019.
+
+**Transitional provisions relating to scope of local government reorganisations**
+
+### 17 Interpretation
+In this Part,—
+  - **relevant amendments** means the amendments to subpart 2 of Part 3 and to Schedule 3 made by sections 8 to 14 and 31 of the Local Government Act 2002 Amendment Act 2019
+  - **relevant provisions** means the provisions in subpart 2 of Part 3 and Schedule 3.
+
+### 18 Relevant amendments do not apply if final proposal notified before commencement
+The relevant amendments do not apply to a local government reorganisation for which a final proposal was publicly notified under clause 22 of Schedule 3 before the repeal of that clause and the commencement of the relevant amendments. The relevant provisions continue to apply as if the relevant amendments had not been made.
+
+**Reorganisation applications made before 4 April 2019**
+
+### 19 Process if notice of proposal given, but decision not made, before commencement of relevant amendments
+(1) Subclause (2) applies if,—
+  (a) before 4 April 2019, the Local Government Commission received a reorganisation application under clause 3 of Schedule 3; and
+  (b) before the commencement of the relevant amendments, the Commission—
+    (i) had given notice of a draft proposal under clause 20 of Schedule 3; but
+    (ii) had not made a decision under clause 21(1) of that schedule in respect of that draft proposal.
+(2) If this subclause applies,—
+  (a) the relevant provisions, as amended by the relevant amendments, apply to consideration of the draft proposal as if it were a reorganisation investigation under subpart 2 of Part 1 of Schedule 3; but
+  (b) the Commission must complete the consultation required by clause 20 of Schedule 3 as if that clause had not been repealed, before taking any action under Part 2 of Schedule 3.
+
+### 20 Process if decision to assess application notified before commencement of relevant amendments, but draft proposal not completed
+(1) Subclause (2) applies if,—
+  (a) before 4 April 2019, the Local Government Commission received a reorganisation application under clause 3 of Schedule 3; and
+  (b) before the commencement of the relevant amendments, the Commission—
+    (i) had notified its decision to assess an application under clause 6 of Schedule 3; but
+    (ii) had not completed a draft proposal for the affected area under clause 14 of that schedule.
+(2) If this subclause applies,—
+  (a) the relevant provisions, as amended by the relevant amendments, apply to the application, and to any alternative applications relating to the application received under clause 10 of Schedule 3, as if each application were a reorganisation initiative under subpart 1 of Part 1 of Schedule 3; but
+  (b) the Commission must undertake 1 or more investigations covering the proposals in the application or applications, and clause 5 of Schedule 3 does not apply.
+
+**Reorganisation applications made after 4 April 2019**
+
+### 21 Process if reorganisation application made between 4 April 2019 and date of commencement of relevant amendments
+(1) Subclauses (2) to (4) apply if the Commission received a reorganisation application under clause 3 of Schedule 3 in the period starting on 4 April 2019 and ending immediately before the commencement of the relevant amendments.
+(2) If the reorganisation application was made by a person, body, or group, other than a local authority or the Minister, the Commission must determine whether the application was made on behalf of a group that comprises at least 10% of electors in the affected area.
+(3) If the Commission determines that the application was not made on behalf of a group that comprises at least 10% of electors in the affected area,—
+  (a) the Commission must not assess or continue to assess the application; and
+  (b) the Commission must notify the person who submitted the application that—
+    (i) the application will not be assessed; but
+    (ii) the person may propose a reorganisation initiative or make an investigation request in accordance with subpart 1 of Part 1 of Schedule 3.
+(4) If the Commission determines that the application was made on behalf of a group that comprises at least 10% of electors in the affected area, the application must be progressed as follows:
+  (a) in accordance with clause 19(2), if the circumstances described in clause 19(1)﻿(b) apply; and
+  (b) in accordance with clause 20(2), if the circumstances described in clause 20(1)﻿(b) apply.
+
 ## Schedule 1 — Acts under which responsibilities, powers, and duties are conferred or imposed on Minister of Local Government and Secretary for Local Government
 
 ## Schedule 2 — Local authorities
@@ -4695,242 +4853,245 @@ If, immediately before the commencement of this Act, a territorial authority has
 (2) Clause 2 contains definitions of terms used in this schedule.
 (3) Part 1 contains 2 subparts, as follows:
   (a) subpart 1—
-    (i) provides that any person, body, or group may make a reorganisation application to the Commission; and
-    (ii) prohibits the making of a reorganisation application in certain circumstances; and
-    (iii) specifies what a reorganisation application must contain; and
+    (i) provides that a reorganisation initiative or an investigation request may be submitted to the Commission by—
+      (A) 1 or more affected local authorities; or
+      (B) a group comprising at least 10% of electors in the affected area; or
+      (C) the Minister; and
+    (ii) specifies what a reorganisation initiative and an investigation request must contain; and
+    (iii) empowers the Commission to decide whether to undertake an investigation in response to a reorganisation initiative or an investigation request; and
   (b) subpart 2—
-    (i) requires the Commission to decide whether to assess a reorganisation application; and
-    (ii) specifies the grounds on which an application may be declined; and
-    (iii) requires the Commission to be satisfied that an application has demonstrable community support; and
-    (iv) if it has, requires the Commission to give public notice inviting alternative applications; and
-    (v) then requires the Commission to identify the reasonably practicable options for local government of the affected area and select the option that best promotes good local government (the preferred option).
-(4) Part 2 contains 3 subparts, as follows:
-  (a) subpart 1—
-    (i) requires the Commission to develop the preferred option into a draft proposal; and
-    (ii) provides for consultation by the Commission on the draft proposal; and
-    (iii) then provides for the Commission to issue and notify a final proposal; and
-  (b) subpart 2 provides for petitions requiring a poll on a final proposal and for the holding of a poll if required; and
-  (c) subpart 3 places restrictions on advertising by a local authority to promote or oppose a final proposal in the period from the issue of the final proposal to when a poll is held (if required) or the close of the day for receiving a petition. This subpart contains an exception for publication of material that is factual or referential.
+    (i) authorises the Commission to develop, document, and publish the process for an investigation; and
+    (ii) authorises the Commission to issue reports, with recommendations to which a local authority must respond, in the course of an investigation.
+(4) Part 2 contains 5 subparts, as follows:
+  (a) subpart 1 empowers the Commission to develop and adopt reorganisation plans; and
+  (b) subpart 1A—
+    (i) prescribes what a reorganisation plan may contain; and
+    (ii) provides for the Commission to issue and notify a reorganisation plan; and
+  (c) subpart 1B empowers 1 or more local authorities to—
+    (i) develop and publicly consult on a reorganisation plan; and
+    (ii) submit the reorganisation plan to the Commission for approval; and
+  (d) subpart 2 provides for the holding of a poll on plans for major reorganisations; and
+  (e) subpart 3 places restrictions on advertising by a local authority to promote or oppose a reorganisation plan in the period from the issue of the plan to when a poll is held. This subpart contains an exception for publication of material that is factual or referential.
 (5) Part 3 provides for the establishment of transition bodies and related matters.
-(6) Part 4 contains 3 subparts, as follows:
-  (a) subpart 1 requires the Commission to prepare a reorganisation scheme if no poll is required on a final proposal or a poll has been held and has not defeated the final proposal; and
-  (b) subpart 2 specifies the matters the Commission must and may include in a reorganisation scheme; and
-  (c) subpart 3 contains provisions that apply to a reorganisation scheme unless amended or declared not to apply by the scheme.
+(6) Part 4 contains 4 subparts, as follows:
+  (a) subpart 1 requires the Commission to prepare a reorganisation implementation scheme if no poll is required on a reorganisation plan, or if a poll has been held and has not defeated the reorganisation plan; and
+  (b) subpart 2 specifies the matters the Commission must and may include in a reorganisation implementation scheme; and
+  (c) subpart 3 contains provisions that apply to a reorganisation unless amended or declared not to apply to that reorganisation by a reorganisation order; and
+  (d) subpart 4 contains provisions that establish the tax treatment of assets transferred in a reorganisation.
 
 ### 2 Interpretation
 In this schedule, unless the context otherwise requires,—
-  - **affected area** , in relation to a reorganisation application, draft proposal, or final proposal, means—
-    (a) an area that would be included in the district or region of a new or different local authority if local government in relation to the area were to be reorganised in accordance with the reorganisation application, draft proposal, or final proposal:
-    (b) an area that remains in the district or region of a local authority, but the local authority's responsibilities would be changed if local government in relation to the area were to be reorganised in accordance with the reorganisation application, draft proposal, or final proposal:
-    (c) the area comprising the whole district or region of an affected local authority if the Commission has declared it to be an affected area because the operational scale, scope, or capability of the local authority would be materially affected if local government were to be reorganised in accordance with the reorganisation application, draft proposal, or final proposal:
-    (d) in the case of a local board reorganisation application, or a draft proposal or final proposal resulting from such an application, the area comprising the whole district of the affected unitary authority
+  - **affected area** ,—
+    (a) in relation to a reorganisation investigation, means an area affected, or potentially affected, by 1 or more of the matters to be investigated; and
+    (b) in relation to a reorganisation initiative or plan (other than an initiative or plan that relates solely to 1 or more matters described in section 24(1)﻿(i) to (m)), means—
+      (i) an area that would be included in the district or region of a new or different local authority if local government in relation to the area were to be reorganised in accordance with the initiative or plan:
+      (ii) an area that would remain in the district or region of a local authority with changed responsibilities, duties, or powers if local government in relation to the area were to be reorganised in accordance with the initiative or plan:
+    (c) in relation to a reorganisation initiative or plan that relates solely to 1 or more matters described in section 24(1)﻿(i) to (m) (which relates to local board areas),—
+      (i) for the purposes of any of clauses 3(1)﻿(b), 4(1)﻿(b)﻿(i), 4(1)﻿(c)﻿(ii), and 5(1)﻿(a), means the area of the local board or proposed local board; and
+      (ii) for all other purposes, means the area comprising the district of the unitary authority; and
+    (d) in the case of a plan to which clause 23(1)﻿(e) applies (which relates to the transfer from one local authority to another of responsibilities, duties, and powers under the Resource Management Act 1991 or in relation to water services or transport services) means the districts or regions of both local authorities
   - **affected elector** means—
     (a) a person who is a residential elector (within the meaning of section 23 of the Local Electoral Act 2001), if the address in respect of which the person is registered is in an affected area:
     (b) a person who is a ratepayer elector (within the meaning of section 24 of the Local Electoral Act 2001), if the person is qualified as a ratepayer elector in respect of a rating unit in an affected area
+  - **affected iwi or hapū** means an iwi or a hapū with interests within the affected area, and includes any entity or organisation identified by Te Puni Kōkiri as representing those interests
   - **applicant** means the person making a reorganisation application
-  - **implementation date** means the date specified in an Order in Council made under section 25(1)﻿(b) as the date on which the local government reorganisation described in the final proposal takes effect
-  - **local board reorganisation application** means a reorganisation application that does not propose changes other than 1 or more of the changes described in section 24(1)﻿(g) to (k) within the district of a unitary authority
-  - **public notice** , in relation to a notice of a reorganisation application, draft proposal, or final proposal given by the Commission,—
+  - **implementation date** means the date specified in an Order in Council made under section 25A(1) as the date on which the local government reorganisation described in the order takes effect
+  - **investigation request** means a request to the Commission by a group comprising at least 10% of electors in an affected area, a local authority, or the Minister, in accordance with clause 3, to conduct a reorganisation investigation into an issue or a matter but without proposing a particular reorganisation
+  - **public notice** , in relation to a notice of a reorganisation investigation or reorganisation plan given by the Commission,—
     (a) means a notice published—
       (i) in 1 or more newspapers circulating in the affected area; and
       (ii) on the Internet site of the Commission; and
     (b) includes any other notice that the Commission thinks desirable in the circumstances
-  - **reorganisation application** means an application under clause 3 or 10 proposing local government reorganisation and dealing with 1 or more of the matters specified in section 24.
+  - **reorganisation implementation scheme** means a scheme prepared under Parts 3 and 4 of this schedule to give effect to a reorganisation plan
+  - **reorganisation initiative** or means a request to the Commission by a group comprising at least 10% of electors in an affected area, a local authority, or the Minister, to consider a proposed reorganisation
+  - **reorganisation investigation** or means an investigation by the Commission under Part 1 of this schedule, in response to a reorganisation initiative or an investigation request, that may result in the development and adoption of a reorganisation plan
+  - **reorganisation order** means an Order in Council made under section 25 or 25A
+  - **reorganisation plan** means a plan that includes 1 or more of the matters in section 24 and that is—
+    (a) adopted by the Commission, during or after an investigation; or
+    (b) adopted by 1 or more local authorities in accordance with clause 22A.
 
-### Part 1 — Reorganisation applications
+### Part 1 — Reorganisation investigations
 
-#### Subpart 1 — Making reorganisation applications
+#### Subpart 1 — Reorganisation initiatives and investigation requests
 
-### 3 Who may make reorganisation application
-(1) A reorganisation application may be made to the Commission by any person, body, or group, including (but not limited to)—
-  (a) 1 or more affected local authorities; or
-  (b) the Minister.
-(2) A reorganisation application must be made to the chief executive officer of the Commission.
+### 3 Who may propose reorganisation initiative or make investigation request
+(1) A reorganisation initiative may be proposed, or an investigation request may be made, to the Commission by—
+  (a) 1 or more affected local authorities:
+  (b) a group of at least 10% of electors in the affected area:
+  (c) the Minister.
+(2) The reorganisation initiative or investigation request must be submitted to the chief executive officer of the Commission.
 
-### 4 Prohibition on making certain reorganisation applications
-No person may make a reorganisation application if—
-  (a) the application relates to a local authority that has been the subject of local government reorganisation; and
-  (b) the application relates to a matter specified in section 24 in respect of which the Commission has specified a period under clause 21 and that period has not ended.
-
-### 5 Contents of reorganisation application
-(1) A reorganisation application must include the following:
-  (a) the name and address of the person making the application; and
-  (b) if more than 1 person is making the application, the name and address of the person who is the representative of the applicants; and
-  (c) a description of the proposed changes, including (but not limited to)—
+### 4 Contents of reorganisation initiative or investigation request
+(1) A reorganisation initiative or an investigation request must include the following:
+  (a) the name and address of the person submitting the initiative or request; and
+  (b) if the initiative or request is submitted by a group of electors under clause 3(1)﻿(b),—
+    (i) evidence that the group comprises at least 10% of electors in the affected area; and
+    (ii) the name and address of the person who is the representative of those persons; and
+  (c) in the case of an initiative, a description of the proposed changes, including (but not limited to)—
     (i) which of the matters listed in section 24(1) is being sought; and
     (ii) a plan or other description sufficient to identify the affected area or affected areas concerned; and
-  (d) a full and detailed explanation of what the proposed changes are seeking to achieve and how the changes would be achieved by the approach proposed in the application; and
-  (e) a description of the potential improvements that would result from the proposed changes and how they would promote good local government as described in clause 12; and
-  (f) information that demonstrates that the application has community support in the district of each affected territorial authority.
-(2) A reorganisation application may include—
+    (iii) an explanation of the outcome that the proposed changes are seeking to achieve; and
+  (d) in the case of an investigation request, a description of the matter, issue, problem, or opportunity to be investigated.
+(2) A reorganisation initiative may include—
   (a) any information requested or recommended in any guidelines issued by the Commission; and
-  (b) any other information that the applicant considers relevant to the Commission's consideration of the application.
-(3) A reorganisation application may be accompanied by a petition of affected electors for the purposes of clause 8(2).
-(4) If a reorganisation application is accompanied by a petition, each elector who signed the petition must state, against his or her signature, the person's name and address in sufficient detail to enable the person to be identified as an elector.
+  (b) any other information that demonstrates that the initiative has community support in the affected area; and
+  (c) any other information that the person submitting the initiative considers relevant to the Commission’s consideration of the initiative.
 
-#### Subpart 2 — Commission to decline or assess reorganisation application
+### 5 Action on receipt of reorganisation initiative or investigation request
+(1) As soon as practicable after receiving a reorganisation initiative or an investigation request, the Commission must,—
+  (a) if the initiative or request was submitted by a group of electors, confirm that the group comprises at least 10% of electors in the affected area (and, if not, notify the person who submitted the initiative or request that the Commission will not undertake an investigation); and
+  (b) decide whether to undertake an investigation, having regard to the factors listed in clause 6; and
+  (c) notify the person who submitted the initiative or request, or that person’s representative, of its decision; and
+  (d) if the Commission decides not to undertake an investigation, explain the reasons for that decision in the notice under paragraph (c); and
+  (e) if the Commission decides to undertake an investigation, notify the affected local authorities of that decision.
+(2) Before making a decision under subclause (1)﻿(b), the Commission must consult the local authorities that would be affected by the reorganisation initiative or the requested investigation.
 
-### 6 Action on receipt of application
-As soon as practicable after receiving a reorganisation application, the Commission must—
-  (a) decide whether to assess the application; and
-  (b) notify the applicant of its decision; and
-  (c) if the Commission decides to decline to assess the application, in the notice to the applicant specify the ground or grounds in clause 7 on which the application is declined and explain why the ground or grounds apply; and
-  (d) if the Commission decides to assess the application, notify the affected local authorities of its decision.
+#### Subpart 2 — Reorganisation investigations
 
-### 7 When Commission may decline to assess reorganisation application
-The Commission may decline to assess a reorganisation application on 1 or more of the following grounds:
-  (a) the application is frivolous:
-  (b) the application does not contain the information required by clause 5(1):
-  (c) the application does contain the information required by clause 5(1), but not in sufficient detail for the Commission to assess the application:
-  (d) 1 or more of the aspects that would be essential if the application were implemented are inconsistent with this Act or any other enactment:
-  (e) changes substantially similar to those proposed in the application have been considered by the Commission but were not considered to constitute a reasonably practicable option, and the grounds for that decision continue to apply:
-  (f) the Commission is not or is not likely to be in a position to assess the application during the period in which the information in the application is timely and reliable:
-  (g) the application is received after the date specified under clause 9 as the deadline for the receipt of alternative applications, but before a final decision on a reorganisation of the affected area is made:
-  (h) it is not in the public interest to assess the application.
+### 6 Factors Commission must have regard to when deciding whether to undertake reorganisation investigation
+When deciding whether to undertake a reorganisation investigation under clause 5(1)﻿(b), the Commission must have regard to—
+  (a) the purpose of reorganisation set out in section 24AA; and
+  (b) the potential scale and scope of improvements to local governance and services that might result from the investigation; and
+  (c) the potential costs, disruption, and other negative effects on affected local authorities and their communities that may be caused by the investigation; and
+  (d) any time or other constraints that apply to the opportunity to achieve potential improvements to local governance and services; and
+  (e) the need for urgent resolution of any problem identified by the Commission, or in the investigation request or reorganisation initiative; and
+  (f) the resources available to the Commission to undertake the investigation in a timely manner; and
+  (g) the likelihood of significant community opposition to any reorganisation that might result from the investigation.
 
-### 8 Community support
-(1) If the Commission decides to assess a reorganisation application, the Commission must first be satisfied that there is demonstrable community support in the district of each affected territorial authority for local government reorganisation in the affected area.
-(2) The matters the Commission may consider for the purposes of subclause (1) include (but are not limited to)—
-  (a) a petition or petitions of affected electors:
-  (b) questionnaires or surveys of ratepayers or residents:
-  (c) submissions or other correspondence about existing or proposed local government arrangements:
-  (d) meetings with community members or their representatives in which views on the existing or proposed local government arrangements are expressed.
-(3) To avoid doubt, for the purposes of subclause (1),—
-  (a) the Commission may use information that is reasonably available and does not have to (but may) make its own inquiries and conduct its own investigations:
-  (b) the Commission does not need to determine whether the persons who support local government reorganisation are a majority of the persons in an affected area.
-(4) If the reorganisation application is accompanied by a petition,—
-  (a) the chief executive officer of the Commission must refer the application to the electoral officers of the affected local authority or local authorities to confirm the names and addresses of electors who signed the petition; and
-  (b) the electoral officers must advise the Commission of the number of qualified electors of each territorial authority district who—
-    (i) were entitled to sign the petition; and
-    (ii) have signed the petition.
-(5) If the Commission is not satisfied about community support as required by subclause (1), the Commission must—
-  (a) decline the application without completing the assessment of it; or
-  (b) require the applicant to provide further evidence of community support; or
-  (c) undertake any other investigations it considers appropriate to determine community support for the application.
+### 7 Commission must adopt reorganisation investigation process
+(1) As soon as practicable after it makes a decision under clause 5(1)﻿(b) to undertake a reorganisation investigation, the Commission must determine and adopt a process for the investigation and record that process in writing.
+(2) The process document must set out how the Commission intends to undertake the investigation, including—
+  (a) the matters to be investigated; and
+  (b) the affected area and the local authorities affected by the investigation; and
+  (c) the procedure and timetable for the investigation; and
+  (d) each affected iwi or hapū, and how and when they will be given an opportunity to engage with the investigation; and
+  (e) the key stakeholders, and how and when they will be given an opportunity to engage with the investigation; and
+  (f) how and when members of the public will be consulted on the investigation and any proposed recommendations or reorganisation plans that may result; and
+  (g) any other matter that the Commission considers relevant.
+(3) In determining the matters referred to in subclause (2), and in undertaking an investigation, the Commission must have regard to the following principles:
+  (a) early information should be available to the public and stakeholders about the issues to be investigated, the process to be followed, and the opportunities for public input; and
+  (b) the process should be in proportion to the scale, scope, and potential impact of the identified issues and of any reorganisation plan that may result from the investigation; and
+  (c) the process should recognise the relevant evidence and information that the Commission already holds; and
+  (d) the process should recognise and reflect the nature and extent of the interests of affected iwi or hapū in the outcome of the investigation; and
+  (e) the process should provide persons, entities, and organisations who wish to have their views on the subject matter of the investigation considered by the Commission with a reasonable opportunity to present those views to the Commission; and
+  (f) the extent and nature of public and stakeholder engagement should—
+    (i) reflect the degree of public interest (including of each affected iwi or hapū) in the issues and in any reorganisation plan that may result from the investigation; and
+    (ii) reflect the importance of—
+      (A) stakeholder input; and
+      (B) community engagement; and
+      (C) public acceptance of the process and the potential outcome; and
+    (iii) appropriately balance the costs and benefits of different processes.
+(4) Before adopting a process document under subclause (1), the Commission must—
+  (a) consult affected local authorities on the proposed process or amendment; and
+  (b) consult all affected iwi or hapū about whether, and how, the proposed reorganisation investigation, or any reorganisation plan that may result from the investigation, may affect their relationship with their ancestral land, water, sites, wāhi tapu, valued flora and fauna, and other taonga, or affect their relationships with local authorities.
+(5) The Commission may adopt an amendment to a process document under subclause (1) at any time and must do so if there is a significant departure from the process.
+(6) The Commission must, as soon as practicable after adopting or amending a process document,—
+  (a) publish the process document in full on its Internet site; and
+  (b) give public notice within the affected area of the publication and location of the process document; and
+  (c) notify all affected local authorities, affected iwi or hapū, and key stakeholders identified by the Commission of the publication and location of the process document.
 
-### 9 Commission to seek alternative applications
-(1) If the Commission is satisfied about community support, as required by clause 8, the Commission must give—
-  (a) public notice; and
-  (b) notice to—
-    (i) the affected local authorities; and
-    (ii) each local authority whose district or region adjoins the district or region of an affected local authority; and
-    (iii) any other person, body, or group that the Commission considers should be notified.
-(2) A notice given under subclause (1) must—
-  (a) state that a reorganisation application has been received by the Commission; and
-  (b) describe the type of reorganisation proposed, the affected local authorities, and the extent of the affected area; and
-  (c) indicate where further information about the application can be obtained; and
-  (d) invite persons, bodies, and groups to submit, by a date specified in the notice, alternative applications in relation to the affected area; and
-  (e) indicate that any alternative applications received after the date specified under paragraph (d) may be declined.
-(3) The date specified by the Commission under subclause (2)﻿(d) for the receipt of alternative applications must not be earlier than 20 working days after the last notice given under subclause (1).
-(4) In the case of a local board reorganisation application, the Commission—
-  (a) must give notice under subclause (1) to any community boards and local boards within the district of the affected local authority; and
-  (b) must, in every notice under subclause (1), outline the limitation on the scope of alternative applications set out in clause 10(2); but
-  (c) is not required to give notice under subclause (1)﻿(b)﻿(ii).
+### 8 Commission may require assistance and undertake inquiries when conducting investigations and preparing reorganisation plan
+(1) In conducting an investigation or preparing a reorganisation plan, the Commission may require a local authority that is affected by the investigation or the plan to provide information to assist the Commission.
+(2) In conducting an investigation or preparing a reorganisation plan, the Commission may undertake inquiries and consultation in relation to the investigation or plan with any persons, bodies, and groups that it considers appropriate.
 
-### 10 Alternative applications
-(1) An alternative application must comply with clause 5 as if it were a reorganisation application.
-(2) However, an alternative application is not required to comply with clause 5(1)﻿(f) in relation to a district of a territorial authority in which community support has been demonstrated in the reorganisation application received under clause 3.
-(3) In the case of a local board reorganisation application, an alternative application may not propose the abolition or union of the affected local authority, or any changes to the boundaries or functions of that local authority.
+### 9 Commission may issue report
+(1) The Commission may, at any time during a reorganisation investigation, or at the completion of the investigation, issue a report and make recommendations to any local authority on any matter arising in the course of, or ancillary to, the investigation.
+(2) Section 26A applies to a report and recommendations under this clause.
 
-### 11 Commission to determine preferred option
-(1) As soon as practicable after the deadline for the receipt of alternative applications, the Commission must, in accordance with this clause, determine its preferred option for local government of the affected area.
-(2) The Commission must first identify the reasonably practicable options for local government of the affected area.
-(3) In deciding the extent to which it identifies the reasonably practicable options, the Commission must have regard to—
-  (a) the scale and scope of the changes proposed; and
-  (b) the degree of community support for relevant applications that has been demonstrated to the Commission; and
-  (c) the potential benefits of considering other options; and
-  (d) the desirability of early certainty about local government arrangements for the affected area.
-(4) The reasonably practicable options—
-  (a) must include the existing arrangements for local government; and
-  (b) may include—
-    (i) the proposals in the application made under clause 3; or
-    (ii) the proposals in an alternative application made under clause 10; or
-    (iii) options, other than those referred to in paragraph (a) and subparagraphs (i) and (ii), formulated by the Commission; or
-    (iv) a combination of aspects derived from 2 or more of the options referred to in paragraph (a) and subparagraphs (i) to (iii).
-(5) The Commission must be satisfied that any local authority proposed to be established or changed under a reasonably practicable option will—
-  (a) have the resources necessary to enable it to carry out effectively its responsibilities, duties, and powers; and
-  (b) have a district or region that is appropriate for the efficient performance of its role as specified in section 11; and
-  (c) contain within its district or region 1 or more communities of interest, but only if they are distinct communities of interest; and
-  (d) in the case of a regional council or unitary authority, enable catchment-based flooding and water management issues to be dealt with effectively by the regional council or unitary authority.
-(6) For the purposes of subclause (5), the Commission must have regard to—
-  (a) the area of impact of the responsibilities, duties, and powers of the local authorities concerned; and
-  (b) the area of benefit of services provided; and
-  (c) the likely effects on a local authority of the exclusion of any area from its district or region; and
-  (d) any other matters that it considers appropriate.
-(6A) If the application made under clause 3 is a local board reorganisation application,—
-  (a) subclauses (5) and (6) do not apply; and
-  (b) the reasonably practicable options must not include any proposed change to the boundaries or functions of the affected local authority; and
-  (c) the Commission must be satisfied that the governance arrangements proposed under a reasonably practicable option will—
-    (i) enable democratic local decision making by, and on behalf of, communities throughout the affected area; and
-    (ii) provide fair and effective representation for individuals and communities throughout the affected area; and
-    (iii) enable equitable provision to be made for the current and future well-being of all the communities within the affected area.
-(7) In deciding whether any proposed changes are reasonably practicable, the Commission may—
-  (a) request further information from applicants and affected local authorities; and
-  (b) undertake any investigations and make any inquiries that the Commission considers appropriate.
-(8) If the Commission identifies 2 or more reasonably practicable options, the Commission must determine its preferred option, having regard to—
-  (a) the criteria in clause 12(2), if subclause (6A) applies; or
-  (b) the criteria in clause 12(1) in any other case.
+### 10 Objectives that Commission must consider in reorganisation investigation
+In assessing the desirability of options for the reorganisation of local government within the affected area, the Commission must take into account how best to achieve—
+  (a) better fulfilment of the purpose of local government as specified in section 10; and
+  (b) productivity improvements within the affected local authorities; and
+  (c) efficiencies and cost savings; and
+  (d) assurance that any local authority established or changed has the resources necessary to enable it to effectively perform or exercise its responsibilities, duties, and powers; and
+  (e) effective responses to the opportunities, needs, and circumstances of the affected areas; and
+  (f) enhanced effectiveness, efficiency, and sustainability of local government services; and
+  (g) better support for the ability of local and regional economies to develop and prosper; and
+  (h) enhanced ability of local government to meet the changing needs of communities for governance and services into the future; and
+  (i) effective provision for any co-governance and co-management arrangements that are established by legislation (including Treaty of Waitangi claim settlement legislation) and that are between local authorities and iwi or Māori organisations.
+
+### 11 Completion of investigation
+As soon as practicable after completing an investigation, the Commission must—
+  (a) give public notice of the completion of the investigation; and
+  (b) notify all affected local authorities, affected iwi or hapū, and key stakeholders of the completion of the investigation; and
+  (c) record the completion of the investigation on its Internet site.
 
 ### 12 Promotion of good local government
-(1) For the purposes of clause 11(8), the Commission must be satisfied that its preferred option—
-  (a) will best promote, in the affected area, the purpose of local government as specified in section 10; and
-  (b) will facilitate, in the affected area, improved economic performance, which may (without limitation) include—
-    (i) efficiencies and cost savings; and
-    (ii) productivity improvements, both within the local authorities and for the businesses and households that interact with those local authorities; and
-    (iii) simplified planning processes within and across the affected area through, for example, the integration of statutory plans or a reduction in the number of plans to be prepared or approved by a local authority.
-(2) For the purposes of clause 11(8)﻿(a), the Commission must be satisfied that its preferred option—
-  (a) will best promote, in the affected area, the purpose of local government as specified in section 10; and
-  (b) will best promote the interests of the communities in the district in terms of—
-    (i) the benefits to all communities of a consistent or co-ordinated approach in the district; and
-    (ii) the benefits to particular communities of reflecting the particular needs and preferences of each community.
+[Repealed]
 
 ### 13 Procedure after preferred option determined
-(1) After determining the preferred option under clause 11, the Commission must—
-  (a) give notice of its determination and the reasons for it to—
-    (i) each applicant; and
-    (ii) every affected local authority; and
-  (b) proceed under clause 14 to develop a draft reorganisation proposal to give effect to the preferred option.
-(2) However, subclause (1)﻿(b) does not apply if the Commission's preferred option, under clause 11, is the existing arrangements for local government.
+[Repealed]
 
-### Part 2 — Reorganisation proposals
+### Part 2 — Reorganisation plans
 
-#### Subpart 1 — Preparation of proposals
+#### Subpart 1 — Adoption and notification of reorganisation plan
 
-### 14 Development of proposal
-(1) This clause applies to a draft reorganisation proposal developed by the Commission to give effect to its preferred option (draft proposal).
-(2) A draft proposal must describe, for each affected local authority proposed to continue in existence,—
+### 12 Commission may adopt reorganisation plan
+(1) The Commission may, during or at the completion of a reorganisation investigation,—
+  (a) develop 1 or more reorganisation plans; and
+  (b) adopt 1 or more reorganisation plans that meet the requirements of subpart 1A of this Part.
+(2) In deciding whether to adopt a reorganisation plan, the Commission must have regard to—
+  (a) the scale of the potential benefits of the proposed changes in terms of the objectives set out in clause 10 and the likelihood of those benefits being realised; and
+  (b) the financial, disruption, and opportunity costs of implementing the proposed changes at the proposed time; and
+  (c) the risks and consequences of not implementing the proposed changes at the proposed time; and
+  (d) existing communities of interest and the extent to which the proposed changes will maintain linkages between communities (including iwi and hapū) and sites and resources of significance to them; and
+  (e) the degree and distribution of demonstrable public support for the proposed changes within communities in the affected area; and
+  (f) the degree and distribution of any public opposition to the proposed changes within communities in the affected area.
+(3) The Commission must not adopt a reorganisation plan under this clause that affects the application of any Act that establishes co-governance or co-management arrangements between local authorities and iwi or Māori organisations (including Treaty of Waitangi claim settlement legislation), without first consulting all iwi or Māori organisations to whom that Act applies, the Attorney-General, and the Minister for Treaty of Waitangi Negotiations.
+(4) A reorganisation plan to which subclause (3) applies must provide for the same level and scope of participation in decision making by iwi or Māori organisations as the arrangement specified in the Act referred to in that subclause.
+
+### 13 Notification of reorganisation plan
+(1) As soon as practicable after adopting a reorganisation plan, the Commission must—
+  (a) give public notice of the plan and, in the notice, specify where copies of the plan may be inspected; and
+  (b) take any other action that it considers necessary to inform persons, bodies, and groups that the Commission identifies as having an interest in the plan.
+(2) The Commission must attach to the reorganisation plan a full and detailed statement that—
+  (a) explains how the plan will achieve the objectives set out in clause 10; and
+  (b) provides a balanced assessment of the reorganisation plan and outlines the advantages and disadvantages of the proposal including, but not limited to, the advantages and disadvantages of—
+    (i) the creation or alteration of any district or region; and
+    (ii) the exclusion of any remaining area of a district or region affected by the proposal; and
+    (iii) any changes to the responsibilities of each affected local authority; and
+    (iv) any change to how a local government service is managed and provided.
+
+#### Subpart 1A — Content of reorganisation plans
+
+### 14 Content of reorganisation plan
+(1) Before adopting a reorganisation plan under clause 12, the Commission must ensure that the plan complies with the requirements in this clause.
+(2) The reorganisation plan must describe, for each affected local authority proposed to be continued,—
   (a) the type of local authority; and
   (b) the name of the district or region of the local authority; and
   (c) the nature and extent of any proposed changes to—
     (i) the boundaries of the district or region; and
     (ii) the representation arrangements of the local authority; and
-    (iii) the extent to which the areas of interest of iwi and hapū are included in the district or region; and
-    (iv) any communities and any community boards of the local authority; and
-    (v) the statutory obligations of the local authority; and
+    (iii) the extent to which the areas of interest of affected iwi or hapū are included in the district or region; and
+    (iv) in the case of a unitary authority, any local board areas and any local boards of the local authority; and
+    (v) any communities and any community boards of the local authority; and
+    (vi) the committees of the local authority; and
+    (vii) the statutory obligations of the local authority; and
+    (viii) any constraints imposed on the local authority's exercise of the discretion conferred by section 12(2); and
   (d) any other matters the Commission considers necessary or desirable.
-(3) A draft proposal must describe, for each local authority proposed to be established,—
+(3) The reorganisation plan must describe, for each local authority proposed to be established,—
   (a) the type of local authority; and
   (b) the name of the district or region of the local authority; and
   (c) the boundaries of the district or region; and
   (d) the representation arrangements of the local authority; and
-  (e) the names and areas of interest of iwi and hapū in the district or region; and
-  (ea) any local board areas and any local boards of the local authority; and
-  (f) any communities and any community boards of the local authority; and
-  (g) any other matters the Commission considers necessary or desirable.
-(4) However, the Commission may decide, if it considers it more appropriate to do so, to defer including in a draft proposal the representation arrangements or community board arrangements, or both, and include them in the reorganisation scheme.
-(5) A draft proposal must also—
+  (e) the names and areas of interest of all affected iwi or hapū; and
+  (f) any local board areas and any local boards of the local authority; and
+  (g) any communities and any community boards of the local authority; and
+  (h) any other matters the Commission considers necessary or desirable.
+(4) However, the Commission may, if it considers it more appropriate to do so, defer including in a reorganisation plan the representation arrangements or community board arrangements, or both, and include them in the reorganisation implementation scheme.
+(5) The reorganisation plan must also—
   (a) contain information about the role, powers, and composition of the transition body, including—
-    (i) whether the transition body would include a transition board; and
-    (ii) if a transition board would be included in a transition body, how each affected local authority will be represented on the transition board and whether the transition board will include other persons; and
-  (b) have attached to it a full and detailed explanation of the advantages and disadvantages of the draft proposal and of how it will promote good local government.
-(6) In preparing a draft proposal, the Commission may require a local authority affected by the proposal to provide information to assist the Commission to prepare the proposal.
-(7) In preparing a draft proposal, the Commission may undertake inquiries and consultations in relation to the draft proposal with any persons, bodies, and groups it considers appropriate.
+    (i) whether the transition body will include a transition board; and
+    (ii) if a transition board will be included in a transition body, how each affected local authority will be represented on the transition board and whether the transition board will include other persons; and
+    (iii) whether an interim chief executive will be appointed for any local authority under clause 38; and
+    (iv) if an interim chief executive will be appointed, which of the powers listed in clause 39(1) may be exercised by the interim chief executive; and
+  (b) have attached to it a full and detailed explanation of the advantages and disadvantages of the plan and of how it will promote good local government.
 
 ### 15 Local boards
-(1) This clause applies if the Commission has determined, under clause 11, that the preferred option for local government of an area is a unitary authority.
-(2) In preparing a draft proposal in relation to the affected area, the Commission may include provisions for 1 or more local boards if it considers that good local government of the district of the unitary authority would be best promoted by providing for local boards in all or part of the district.
+(1) Before adopting a reorganisation plan under clause 12 that proposes the continuation or constitution of a unitary authority, the Commission must ensure that the plan complies with the requirements in this clause.
+(2) In preparing the reorganisation plan, the Commission may include provisions for 1 or more local boards if it considers that good local government of the district of the unitary authority would be best promoted by providing for local boards in all or part of the district.
 (3) Provisions for local boards must be consistent with subpart 1A of Part 4 of this Act.
-(4) A draft proposal must, in addition to the matters specified in clause 14, specify—
+(4) If a reorganisation plan includes provision for local boards, that plan must, in addition to the matters specified in clause 14, specify—
   (a) the number and names of local board areas within the district; and
   (b) the boundaries of—
     (i) each local board area; and
@@ -4946,123 +5107,142 @@ The Commission may decline to assess a reorganisation application on 1 or more o
     (ii) enable equitable provision to be made for the current and future well-being of all communities within the affected area; and
   (b) the boundaries of local board areas and any subdivisions of those areas coincide with boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
   (c) so far as is practicable, local board area boundaries coincide with ward boundaries.
-(6) Clause 14(4) does not apply to a draft proposal under subclause (2).
-(7) To avoid doubt, clauses 14(3)﻿(f) and 19 do not apply to any local board area included in a draft proposal under subclause (2).
+(6) Clause 14(4) does not apply to a reorganisation plan under subclause (2).
+(7) To avoid doubt, clauses 14(3)﻿(g) and 19 do not apply to any local board area included in a reorganisation plan under subclause (2).
 
 ### 16 Cities
-A draft proposal may not provide that a territorial authority is to be called a city council unless the district of the territorial authority—
+A reorganisation plan may not provide that a territorial authority is to be called a city council unless the district of the territorial authority—
   (a) has a population of not less than 50 000 persons; and
   (b) is predominantly urban; and
   (c) is a distinct entity and a major centre of activity.
 
 ### 17 Appropriate boundaries
-In determining boundaries for a draft proposal, the Commission must ensure that,—
+In determining boundaries for a reorganisation plan, the Commission must ensure that,—
   (a) if practicable, the boundaries of regions conform with catchment boundaries; and
   (b) if practicable, the boundaries of districts conform with the boundaries of regions; and
   (c) the boundaries of regions and the boundaries of districts conform with the boundaries of statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes.
 
 ### 18 Representation
-In determining the representation arrangements of a local authority for a draft proposal or (if clause 14(4) applies) a reorganisation scheme, the Commission must—
+In determining the representation arrangements of a local authority for a reorganisation plan or (if clause 14(4) applies) a reorganisation implementation scheme, the Commission must—
   (a) have regard to the existing electoral and representation arrangements of the affected local authorities; and
   (b) provide fair and effective representation for individuals and communities of the local authority; and
   (c) comply with the requirements of the Local Electoral Act 2001; and
   (d) take into account the responsibilities, duties, and powers of the local authority.
 
 ### 19 Communities
-When preparing a draft proposal or (if clause 14(4) applies) a reorganisation scheme, the Commission may consider whether good local government of any affected district would be best promoted by—
+When preparing a reorganisation plan or (if clause 14(4) applies) a reorganisation implementation scheme, the Commission may consider whether good local government of any affected district would be best promoted by—
   (a) a system of communities and the responsibilities, duties, and powers of the community boards in the district; or
   (b) an alternative to an existing system of communities; or
   (c) a change in the responsibilities, duties, and powers of the community boards in the district.
 
+### 19A Transfer of functions
+(1) Before adopting a reorganisation plan under clause 12 that proposes the transfer of a responsibility, duty, power, or discretionary function, the Commission must ensure that the plan complies with the requirements in this clause.
+(2) Without limiting section 24(1)﻿(e), a reorganisation plan may provide for the transfer of a responsibility, duty, power, or discretionary function—
+  (a) from a regional council to a territorial authority or from a territorial authority to a regional council; or
+  (b) from one regional council to another; or
+  (c) from one territorial authority to another.
+(3) The transfer of a responsibility, duty, power, or discretionary function may apply in respect of all or part of the region or territory of the transferring regional council or territorial authority.
+(4) Before adopting a reorganisation plan that provides for the transfer of a responsibility, duty, or power, the Commission must consult the Minister responsible for the enactment that confers the responsibility, duty, or power on the affected local authorities.
+(5) If a reorganisation plan includes the transfer of a discretionary function, the plan may—
+  (a) prohibit the local authority from which the discretionary function is to be transferred from undertaking any specified activity or incurring expenses for any specified purpose; and
+  (b) require the local authority to which the discretionary function is to be transferred to achieve specified service levels in the provision of that function.
+(6) If the reorganisation plan includes the transfer of a responsibility, duty, power, or discretionary function to a territorial authority or regional council outside the district or region to which the transferred matter relates, the plan must prescribe the constitution of committees or other governance arrangements that will ensure that—
+  (a) persons and communities in each district or region to which the responsibility, duty, power, or discretionary function relates are represented in decision making that relates to that responsibility, duty, power, or discretionary function; and
+  (b) the territorial authority or regional council is accountable to all persons and communities affected by the performance or exercise of the responsibility, duty, or power, or by the provision of the discretionary function.
+
+### 19B Committees and joint committees
+(1) Before adopting a reorganisation plan under clause 12 that proposes the establishment of 1 or more committees of a local authority, or 1 or more joint committees, the Commission must ensure that the plan complies with the requirements in this clause.
+(2) The reorganisation plan may provide for the establishment of 1 or more—
+  (a) committees and joint committees that are permanent committees; or
+  (b) committees and joint committees that must not be disestablished before a date specified in the plan.
+(3) The reorganisation plan may specify—
+  (a) the membership of a committee:
+  (b) the terms of reference of a committee:
+  (c) any delegations to the committee:
+  (d) when and how the matters in paragraphs (a) to (c) may be varied.
+(4) If the reorganisation plan provides for a joint committee of an affected local authority with 1 or more other local authorities or other public bodies, it may specify—
+  (a) the membership of the joint committee:
+  (b) the terms of reference of the joint committee:
+  (c) any delegations to the joint committee by the affected local authority:
+  (d) when and how the matters in paragraphs (a) to (c) may be varied:
+  (e) any other matter relating to the appointment, operation, or responsibilities of the joint committee.
+(5) The Commission must not adopt a reorganisation plan that includes provision for a joint committee without first obtaining the written agreement of every public body, other than an affected local authority, that is to be a party to the joint committee.
+
+### 19C Local authorities with joint roles
+(1) This clause applies if a reorganisation plan under clause 12 provides for the performance and exercise by a local authority of both—
+  (a) the responsibilities, duties, and powers of a regional council in respect of a region; and
+  (b) the responsibilities, duties, and powers of a territorial authority in respect of a district that constitutes a part only of that region.
+(2) Before adopting the reorganisation plan, the Commission must ensure that it prescribes the constitution of committees or other governance arrangements that will ensure that—
+  (a) persons and communities in the region and the district to which the roles relate are represented in the performance or exercise of the responsibilities, duties, and powers of the regional council and the territorial authority respectively; and
+  (b) the bodies performing and exercising the responsibilities, duties, and powers of the regional council and territorial authority respectively are each accountable to all affected persons and communities.
+
 ### 20 Consultation on proposal
-(1) As soon as practicable after completing a draft proposal, the Commission must—
-  (a) take the action that it considers necessary to ensure that the persons, bodies, and groups who may be interested in the draft proposal are informed of the proposal; and
-  (b) give public notice of the draft proposal, which must—
-    (i) specify the location where the draft proposal may be inspected or how a copy of the draft proposal may be obtained; and
-    (ii) invite submissions on the draft proposal; and
-    (iii) specify the date by which submissions must be made to the Commission; and
-    (iv) specify the manner in which submissions are to be made; and
-  (c) seek the views of—
-    (i) the affected local authorities; and
-    (ii) the applicant; and
-    (iii) the Auditor-General; and
-    (iv) the Parliamentary Commissioner for the Environment; and
-    (v) the Secretary; and
-    (vi) the Secretary for the Environment; and
-    (vii) the chief executive of Te Puni Kōkiri; and
-    (viii) the Commissioner of Inland Revenue; and
-    (ix) the chief executive of a department of State that—
-      (A) is responsible for administering legislation that confers the statutory obligations referred to in clause 14(2)﻿(c)﻿(v); or
-      (B) may, in the opinion of the Commission, have an interest in or be affected by the proposal; and
-    (x) any affected iwi and Māori organisations identified by Te Puni Kōkiri; and
-    (xi) each local authority whose district or region adjoins the district or region of an affected local authority; and
-    (xii) any local boards, council-controlled organisations, and community boards of affected local authorities; and
-    (xiii) any other persons, bodies, or groups that the Commission considers appropriate.
-(2) A person, body, or group that wishes to make a submission on a draft proposal must make the submission to the Commission in the manner and by the date specified by the Commission in the public notice.
-(3) The Commission must consider each submission received and may hold hearings of submissions or meet with the persons making submissions or their representatives.
-(4) The Commission must grant the opportunity to meet, and be heard by, the Commission on the draft proposal to—
-  (a) the affected local authorities; and
-  (b) each local authority whose district or region adjoins the district or region of an affected local authority; and
-  (c) the applicant.
-(5) The Commission may also undertake, in a manner that it thinks fit, inquiries and consultations in relation to the draft proposal with any other persons, bodies, and groups it considers appropriate.
+[Repealed]
 
 ### 21 Decisions on draft proposals
-(1) After complying with clause 20, the Commission must do 1 of the following:
-  (a) issue the draft proposal as a final proposal:
-  (b) issue a modified draft proposal as a final proposal:
-  (c) identify, under clause 11, another preferred option as the basis for a new draft proposal:
-  (d) decide not to issue a final proposal and give public notice of the decision and the reasons for it.
-(2) In making a decision about how to proceed under subclause (1), the Commission must—
-  (a) consider the submissions, views, and any other information received under clause 20; and
-  (b) have regard to—
-    (i) the matters specified in clause 12; and
-    (ii) the scale and scope of the changes proposed; and
-    (iii) the degree of community support for the draft proposal already demonstrated to the Commission; and
-    (iv) the potential benefits and disadvantages of modified proposals or alternative options; and
-    (v) the desirability of early certainty about local government organisation in the affected area.
-(3) The Commission must not issue a final proposal under subclause (1)﻿(b) unless the Commission is satisfied that it has sufficient information about the views of the persons referred to in clause 20(1)﻿(c).
-(4) A final proposal must comply with clauses 14(2), (3), (4), and (5)﻿(a) and 16 to 19 as if references in those provisions to a draft proposal were references to a final proposal.
-(5) A final proposal may, for the purposes of clause 4, specify a period or periods in relation to any or all of the matters specified in section 24.
-(6) Before deciding to issue a final proposal, the Commission must be satisfied that the final proposal is likely to have demonstrable community support in the district of each affected territorial authority.
-(7) For the purposes of subclause (6), clause 8(2) and (3)﻿(b) apply in relation to a final proposal.
+[Repealed]
 
 ### 22 Notification of final proposal
-(1) As soon as practicable after issuing a final proposal, the Commission must—
-  (a) give public notice of the final proposal and, in the notice, specify where copies of the proposal may be inspected; and
-  (b) take any other action that it considers necessary to inform the persons, bodies, and groups who made submissions or provided views under clause 20 of the final proposal.
-(2) The Commission must attach to a final proposal a full and detailed statement that—
-  (a) explains how the final proposal will promote the purpose of local government and facilitate economic performance, as described in clause 12; and
-  (b) provides a balanced assessment of the final proposal, outlining the advantages and disadvantages of the proposal in respect of—
-    (i) a proposed new or altered district or region; and
-    (ii) any remaining area of a district or region affected by the proposal; and
-    (iii) any changes to the responsibilities of each affected local authority.
+[Repealed]
+
+#### Subpart 1B — Local authority-led reorganisation applications
+
+### 22A Local authorities may develop and adopt reorganisation plan
+(1) One or more local authorities may develop and adopt a reorganisation plan in accordance with this clause.
+(2) Except as provided in subclause (3), subparts 1 and 1A of this Part apply to every reorganisation plan developed under subclause (1) as if references to the Commission in that clause and those subparts were references to the local authority or local authorities developing the plan.
+(3) Clause 14(4) does not apply to a reorganisation plan under this clause.
+(4) A local authority intending to develop a reorganisation plan under this clause must ensure that written notice of that intention is given to the Commission as soon as is reasonably practicable.
+
+### 22B Application to Commission
+(1) One or more local authorities may submit a reorganisation plan adopted under clause 22A to the Commission in accordance with this clause (a local authority-led reorganisation application).
+(2) The reorganisation plan must be accompanied by—
+  (a) a statement that complies with clause 13(2); and
+  (b) a report from each affected local authority, adopted by that local authority, that records—
+    (i) that local authority’s unconditional support for the plan; and
+    (ii) the public consultation undertaken by that local authority; and
+    (iii) the themes and outcomes of that consultation.
+
+### 22C Commission review of local authority-led reorganisation application
+(1) As soon as practicable after receiving a local authority-led reorganisation application submitted in accordance with clause 22B, the Commission must review that application.
+(2) The Commission must approve the reorganisation plan to which the local authority-led reorganisation application relates unless—
+  (a) the reorganisation plan is not accompanied by the documentation required by clause 22B; or
+  (b) the Commission considers, on reasonable grounds, that—
+    (i) the provisions in subparts 1 and 1A of this Part were not complied with in developing the plan, as required by clause 22A(2); or
+    (ii) the plan does not have the support of affected communities.
+(3) The Commission must not approve the reorganisation plan to which the local authority-led reorganisation application relates if subclause (2)﻿(a) or (b) applies.
+(4) If the Commission approves a reorganisation plan under this clause,—
+  (a) subparts 2 and 3 of this Part do not apply; and
+  (b) Parts 3 and 4 of this schedule apply as if the plan had been adopted under clause 12.
+(5) As soon as practicable after the Commission approves a reorganisation plan under this clause,—
+  (a) the Commission must notify each affected local authority of its decision; and
+  (b) the Minister must determine whether to recommend the making of an Order in Council under section 25.
+(6) If the Commission does not approve a reorganisation plan under this clause, the Commission—
+  (a) must notify each affected local authority of its decision and the reasons for it; and
+  (b) may undertake an investigation into any matter related to the content of the local authority-led reorganisation application.
 
 #### Subpart 2 — Polls
 
 ### 23 Application of this subpart
-This subpart applies to a final proposal that provides for any of the matters specified in section 24(1)﻿(a), (b), (c), and (f).
+(1) This subpart applies to a reorganisation plan adopted under clause 12 that provides for any of the following matters:
+  (a) the union of districts or regions:
+  (b) the constitution of a new district or region, including the constitution of a new local authority for that district or region:
+  (c) the abolition of a district or region, including the dissolution or abolition of the local authority for that district or region:
+  (d) the assumption by a territorial authority of the powers of a regional council as a unitary authority:
+  (e) the transfer from one local authority to another of—
+    (i) responsibilities, duties, and powers in relation to water services or transport services; or
+    (ii) responsibilities, duties, and powers under the Resource Management Act 1991.
+(2) Despite subclause (1)﻿(e), this subpart does not apply to a transfer of responsibilities, duties, and powers described in that subclause if the Commission is satisfied, on reasonable grounds, that the transfer—
+  (a) is not a major transfer; or
+  (b) has the support of all affected local authorities.
+(3) For the purposes of subclause (2), a transfer of responsibilities, duties, and powers is a major transfer if the responsibilities, duties, or powers to be transferred—
+  (a) represent 50% or more of the transferring local authority’s operational expenditure, or assets, or staff, in respect of water services, transport services, or resource management functions (as the case may be); or
+  (b) include responsibility for preparing a policy statement, plan, variation, or plan change under the Resource Management Act 1991.
 
 ### 24 Petition to require poll
-(1) If a final proposal has been issued under clause 21(1)﻿(a) or (b), affected electors may demand a poll to determine whether or not the final proposal is to proceed and become a reorganisation scheme.
-(2) A poll may be demanded under subclause (1) by a petition of 10% or more of affected electors enrolled in the district of a territorial authority.
-(3) A petition must be in the prescribed form (if any).
-(4) The Commission must, in the public notice of a final proposal under clause 22(1)﻿(a), advise electors of—
-  (a) the opportunity to demand a poll under this clause; and
-  (b) the requirements relating to the submission of a petition under this clause; and
-  (c) the date by which a petition must be received by the Commission, being the close of the 60th working day after the first publication of the notice under clause 22(1)﻿(a); and
-  (d) the affected area.
-(5) Each person who signs a petition must state, against his or her signature, the person's name and address in sufficient detail to enable the person to be identified as an elector.
-(6) The chief executive officer of the Commission must send a copy of the petition to the electoral officer of each affected territorial authority, and the electoral officers must advise the Commission, within the time frame required by the Commission, of—
-  (a) the number of affected electors enrolled as eligible to vote in the district of the territorial authority; and
-  (b) the number of those electors who have signed the petition; and
-  (c) whether the number of those electors who signed the petition constitute 10% or more of the affected electors enrolled in the district of the territorial authority.
-(7) To avoid doubt, a petition may not be started before a final proposal is issued.
-(8) For the purposes of this subpart, petition means 1 or more petitions submitted to the Commission that relate to the same final proposal.
+[Repealed]
 
 ### 25 Poll to be held
-(1) A poll of electors must be held in the affected area if the Commission is satisfied that the petition—
-  (a) is made in accordance with clause 24; and
-  (b) relates to the final proposal.
+(1) A poll of electors on the reorganisation plan must be held in the affected area.
 (2) Except as otherwise provided in this Part, a poll under this clause must be held under the Local Electoral Act 2001 and the provisions of that Act apply, with any necessary modifications, to the conduct of the poll.
 (3) The Commission must ensure that 1 electoral officer is designated to conduct the poll and to declare the official result of the poll under clause 27.
 (4) The costs of the poll are to be apportioned among the affected local authorities on the basis of the number of affected electors on the electoral rolls of the affected local authorities.
@@ -5073,7 +5253,7 @@ This subpart applies to a final proposal that provides for any of the matters sp
 (3) The Commission must, as soon as practicable after complying with subclause (2), give written notice of the date determined under subclause (1) to the Secretary, to the chief executive of each affected local authority, and to the electoral officer required to conduct the poll.
 (4) The electoral officer who receives written notification under subclause (3) must, within 7 days after receiving the notification, give public notice of—
   (a) the poll; and
-  (b) the place or places at which the final proposal and the explanatory statement may be inspected.
+  (b) the place or places at which the reorganisation plan and the explanatory statement may be inspected.
 (5) The date determined under subclause (1) for the conduct of the poll must,—
   (a) if written notice under subclause (3) is to be given on or after 28 September and before 21 November in any year, be a day not earlier than 17 February and not later than 24 February in the following year; and
   (b) if written notice under subclause (3) is to be given on or after 21 November and before 16 December in any year, be a day not earlier than 14 March and not later than 21 March in the following year; and
@@ -5087,9 +5267,9 @@ The electoral officer must,—
     (ii) the total number of valid votes cast:
   (b) as soon as practicable after declaring the result, notify the Secretary, the chief executive of each affected local authority, and the Commission of the result.
 
-### 28 Fate of proposal after poll
-(1) If more than 50% of the valid votes cast in the poll are for a final proposal then clause 41 applies.
-(2) In every other case, the final proposal must not proceed.
+### 28 Fate of reorganisation plan after poll
+(1) If more than 50% of the valid votes cast in the poll are for a reorganisation plan then clause 41 applies.
+(2) In every other case, the reorganisation plan must not proceed.
 
 #### Subpart 3 — Advertising
 
@@ -5110,31 +5290,29 @@ In this subpart, unless the context otherwise requires,—
       (x) incorporating in a device for use with a computer:
       (xi) inserting in a film or video; but
     (b) excludes addressing 1 or more persons face to face
-  - **specified period** means,—
-    (a) if a poll is required to be held under clause 25, the period commencing on the day after the date on which public notice of the final proposal is first given and ending with the close of the day on which the poll is held:
-    (b) if a poll is not required to be held under clause 25, the period commencing on the day after the date on which public notice of the final proposal is given and ending with the close of the day specified by the Commission for the purposes of clause 24(4)﻿(c).
+  - **specified period** means the period commencing on the day after the date on which public notice of the plan is first given under clause 13 and ending with the close of the day on which the poll is held.
 
 ### 30 Advertising in relation to polls
-(1) A local authority affected by a final proposal may not, at any time in a specified period, do anything (including publishing any advertising) that—
+(1) A local authority affected by a reorganisation plan may not, at any time in a specified period, do anything (including publishing any advertising) that—
   (a) involves the expenditure of the authority's money or use of the authority's resources; and
-  (b) promotes or opposes the implementation of the final proposal or a provision of the final proposal.
+  (b) promotes or opposes the implementation of the reorganisation plan or a provision of the reorganisation plan.
 (2) This clause does not apply to—
-  (a) any investigations or research undertaken by, or on behalf of, the local authority that relate to the final proposal or its effects; or
+  (a) any investigations or research undertaken by, or on behalf of, the local authority that relate to the reorganisation plan or its effects; or
   (b) the making of submissions or other representations to the Commission by the local authority; or
-  (c) the publication of any news or comment relating to the final proposal or the poll in any medium by any person other than the local authority; or
+  (c) the publication of any news or comment relating to the reorganisation plan or the poll in any medium by any person other than the local authority; or
   (d) anything done to comply with the requirements of Part 7 of the Local Government Official Information and Meetings Act 1987.
 
 ### 31 Provision of referential information
-(1) Clause 30 does not preclude a local authority affected by a final proposal from publishing material that—
-  (a) does not expressly or impliedly promote or oppose the final proposal; but
+(1) Clause 30 does not preclude a local authority affected by a reorganisation plan from publishing material that—
+  (a) does not expressly or impliedly promote or oppose the reorganisation plan; but
   (b) contains factual or referential material presented—
     (i) in a balanced way; and
-    (ii) to assist electors considering promoting or signing a petition for the purposes of subpart 2 or voting in a poll to make a better-informed decision.
+    (ii) to assist electors considering voting in a poll to make a better-informed decision.
 (2) A local authority may (but does not have to) seek a ruling from the Commission that material proposed to be published by the local authority under subclause (1) complies with that subsection.
 (3) If the Commission provides a ruling that the material complies with subclause (1), then publication of the material by the local authority is to be treated as published in accordance with subclause (1).
 
 ### 32 Authorisation of advertising
-(1) A person may not publish advertising that promotes or opposes the implementation of the final proposal or a provision of the final proposal unless the advertising contains a statement setting out the name and address of the person who initiated or instigated the publication of the advertising.
+(1) A person may not publish advertising that promotes or opposes the implementation of the reorganisation plan or a provision of the reorganisation plan unless the advertising contains a statement setting out the name and address of the person who initiated or instigated the publication of the advertising.
 (2) In subclause (1), address means,—
   (a) in relation to an individual,—
     (i) the full street address of the place where the individual usually lives; or
@@ -5146,31 +5324,29 @@ In this subpart, unless the context otherwise requires,—
 ### Part 3 — Transition bodies
 
 ### 33 Application
-This subpart applies to a final proposal that is issued under clause 21 and notified under clause 22 and in relation to which—
+This subpart applies to a reorganisation plan that is adopted under clause 12 and notified under clause 13 and in relation to which—
   (a) a poll, under clause 25,—
-    (i) has not been held because—
-      (A) the reorganisation proposal does not include any of the matters specified in section 24(1)﻿(a), (b), (c), or (f); or
-      (B) the requirements for a petition under clause 24 have not been met; or
-    (ii) has been held and more than 50% of the valid votes cast in the poll are for the final proposal; and
-  (b) an Order in Council giving effect to the final proposal is to be made under section 25(1).
+    (i) has not been held because subpart 2 of Part 2 of this schedule does not apply to the reorganisation plan; or
+    (ii) has been held and more than 50% of the valid votes cast in the poll are for the reorganisation plan; and
+  (b) an Order in Council giving effect to the reorganisation plan has been made under section 25(1).
 
 ### 34 Establishment and purpose of transition body
-(1) This clause applies to a transition body established by an Order in Council giving effect to a final proposal under section 25(1).
+(1) This clause applies to a transition body established by an Order in Council giving effect to a reorganisation plan under section 25(1).
 (2) The purpose of a transition body is to—
-  (a) work with the Commission on, and facilitate local input into, the development of the reorganisation scheme to complete the final proposal; and
-  (b) provide advice to the Commission and affected local authorities, as appropriate, on practical matters relating to the reorganisation scheme; and
-  (c) do anything else requested by the Commission in relation to the development and implementation of the reorganisation scheme.
+  (a) work with the Commission on, and facilitate local input into, the development of the reorganisation implementation scheme to complete the reorganisation plan; and
+  (b) provide advice to the Commission and affected local authorities, as appropriate, on practical matters relating to the reorganisation implementation scheme; and
+  (c) do anything else requested by the Commission in relation to the development and implementation of the reorganisation implementation scheme.
 (3) The transition body is established and continues in existence during the following periods:
-  (a) between the day on which a final reorganisation proposal is given effect to by Order in Council under section 25(1) and the day on which the reorganisation scheme is given effect to by Order in Council under section 25(4) (phase 1); and
-  (b) between the day on which the reorganisation scheme is given effect to and the implementation date (phase 2).
+  (a) between the day on which a reorganisation plan is given effect to by Order in Council under section 25(1) and the day on which the reorganisation implementation scheme is given effect to by Order in Council under section 25A(1) (phase 1); and
+  (b) between the day on which the reorganisation implementation scheme is given effect to and the implementation date (phase 2).
 (4) To avoid doubt, different arrangements for the roles, functions, membership, and accountability of the transition body may apply during phase 1 and phase 2.
 
 ### 35 Composition and membership of transition body
 (1) A transition body—
   (a) must include an implementation team; and
   (b) may include a transition board.
-(2) In developing a draft proposal, the Commission must determine whether or not a transition board is required by the type and scale of the changes proposed to be made by the reorganisation.
-(3) However, a transition body must include a transition board if the final proposal involves—
+(2) In developing a reorganisation plan, the Commission must determine whether or not a transition board is required by the type and scale of the changes proposed to be made by the reorganisation.
+(3) However, a transition body must include a transition board if the reorganisation plan involves—
   (a) the establishment of 1 or more new local authorities; or
   (b) a significant change to 1 or more of the affected local authorities.
 (4) A transition body must be broadly representative of the affected area.
@@ -5246,25 +5422,25 @@ This subpart applies to a final proposal that is issued under clause 21 and noti
     (ii) the appointment and employment of the interim chief executive; and
   (b) the costs referred to in clause 39(4).
 
-### Part 4 — Reorganisation schemes
+### Part 4 — Reorganisation implementation schemes
 
-#### Subpart 1 — Preparation of reorganisation schemes
+#### Subpart 1 — Preparation of reorganisation implementation schemes
 
-### 41 Preparation of reorganisation scheme
-(1) This clause applies in relation to a final proposal that is given effect to by an Order in Council under section 25(1).
-(2) The Commission must prepare and issue a reorganisation scheme that—
-  (a) completes the final proposal; and
-  (b) is consistent with the final proposal, this Act, and any other enactment; and
+### 41 Preparation of reorganisation implementation scheme
+(1) This clause applies in relation to a reorganisation plan that is given effect to by an Order in Council under section 25(1).
+(2) The Commission must prepare and issue a reorganisation implementation scheme that—
+  (a) sets out the detail of the reorganisation described in the reorganisation plan and describes how it is to be implemented; and
+  (b) is consistent with the reorganisation plan, this Act, and any other enactment; and
   (c) promotes good local government in a way that meets the needs and preferences of affected communities.
-(3) In preparing a reorganisation scheme, the Commission—
+(3) In preparing a reorganisation implementation scheme, the Commission—
   (a) must consult the Secretary; and
   (b) may consult or make inquiries of any other persons, bodies, or groups that it thinks fit.
-(4) The Commission may delegate, wholly or in part, to a transition body the responsibility for preparing a reorganisation scheme, but the Commission retains responsibility for ensuring, before the Commission issues it, that the reorganisation scheme complies with subclause (2)﻿(a) to (c).
+(4) The Commission may delegate, wholly or in part, to a transition body the responsibility for preparing a reorganisation implementation scheme, but the Commission retains responsibility for ensuring, before the Commission issues it, that the reorganisation implementation scheme complies with subclause (2)﻿(a) to (c).
 
-#### Subpart 2 — Contents of and provisions that apply to reorganisation schemes
+#### Subpart 2 — Contents of and provisions that apply to reorganisation implementation schemes
 
-### 42 Provisions for inclusion in reorganisation schemes
-(1) In preparing a reorganisation scheme, the Commission—
+### 42 Provisions for inclusion in reorganisation implementation scheme
+(1) In preparing a reorganisation implementation scheme, the Commission—
   (a) must set out again the matters specified in clause 14(2) and (3); and
   (b) must include the provisions that are necessary to give effect to the scheme and, in particular, must include—
     (i) the provisions specified in clause 43 that are considered necessary or desirable as a consequence of the scheme; and
@@ -5281,16 +5457,21 @@ This subpart applies to a final proposal that is issued under clause 21 and noti
       (A) by a territorial authority of any statutory obligation conferred on regional councils by any Act; or
       (B) by a regional council of any statutory obligation conferred on territorial authorities by any Act; and
   (e) may make provision for any arrangements the Commission considers necessary or desirable for the purposes of the reorganisation; and
-  (f) may incorporate any other matters that it considers necessary or appropriate to give effect to the proposal.
-(2) If the Commission has, under clause 14(4), deferred including representation arrangements or community board arrangements, or both, in a proposal, the Commission must include the representation arrangements or community board arrangements, or both, in the reorganisation scheme.
+  (f) may incorporate any other matters that it considers necessary or appropriate to give effect to the reorganisation plan.
+(2) If the Commission has, under clause 14(4), deferred including representation arrangements or community board arrangements, or both, in a reorganisation plan, the Commission must include the representation arrangements or community board arrangements, or both, in the reorganisation implementation scheme.
 
-### 42A Content of reorganisation schemes in respect of local boards
-Without limiting clause 42, a reorganisation scheme in respect of a final proposal to which clause 15(2) applies must make an initial allocation of decision-making responsibility for the non-regulatory activities of the unitary authority within each local board area between the authority's governing body and the local board in accordance with section 48L.
+### 42A Content of reorganisation implementation scheme in respect of local boards
+Without limiting clause 42, a reorganisation implementation scheme in respect of a reorganisation plan to which clause 15(2) applies—
+  (a) must make, in accordance with section 48L, an initial allocation between the unitary authority’s governing body and the local board of decision-making responsibility for the non-regulatory activities of the unitary authority within each local board area; and
+  (b) may specify delegations to any local board in accordance with clause 36C of Schedule 7.
 
 ### 43 Provisions to be included if necessary or desirable
-(1) If considered necessary or desirable, the following provisions may be included in a reorganisation scheme:
+(1) If considered necessary or desirable, the following provisions may be included in a reorganisation implementation scheme:
   (a) provisions necessary for the first or any election or appointment of members of a local authority or community board affected by the scheme:
-  (b) provisions that are necessary for the effective transition and future carrying out of responsibilities that are to be transferred from one local authority to another local authority:
+  (b) provisions that are necessary for the effective transition and future carrying out of responsibilities, duties, powers, or discretionary functions that are to be transferred—
+    (i) from one local authority to another local authority; or
+    (ii) from 1 or more local authorities to a joint committee; or
+    (iii) from a joint committee to 1 or more local authorities:
   (c) provisions dealing with the requirements and application of long-term plans, annual plans, and annual reports as provided for under this enactment:
   (d) provisions dealing with the requirements in any enactment that relate to plans, programmes, and strategies, including (but not limited to) regional land transport programmes and regional land transport strategies under the Land Transport Management Act 2003:
   (e) provisions dealing with—
@@ -5320,7 +5501,7 @@ Without limiting clause 42, a reorganisation scheme in respect of a final propos
     (iii) specify the basis on which rates may be set and assessed within the district or region between the date the order takes effect and the date specified under subparagraph (i), which may include the use of different rating systems for specified rates, or for specified rates in different parts of the district or region; and
     (iv) make such other provision for the transition to, or implementation of, the single integrated rating system as the Commission considers desirable:
   (l) if a district or region is abolished and the whole or any part of it is included in the district or region of another local authority, provisions for the representation of the district or region being abolished or part of it on the other local authority until the next triennial general election of members of the other local authority.
-(2) The Commission must not include provision for a joint committee in a reorganisation scheme without the written agreement of—
+(2) The Commission must not include provision for a joint committee in a reorganisation implementation scheme without the written agreement of—
   (a) every local authority, other than an affected local authority, that is to be a party to the joint committee; and
   (b) every other public body that is to be a party to the joint committee.
 
@@ -5328,12 +5509,12 @@ Without limiting clause 42, a reorganisation scheme in respect of a final propos
 
 ### 44 Application
 (1) This subpart applies—
-  (a) in relation to a reorganisation scheme on and from the date the scheme is given effect to by an Order in Council under section 25(4); and
-  (b) to the extent that the matters in this subpart have not already been provided for in an Order in Council made under section 25(1) giving effect to a final proposal.
-(2) In this subpart, reorganisation order means an Order in Council made under section 25(4).
+  (a) in relation to a reorganisation on and from the implementation date; and
+  (b) to the extent that the matters in this subpart have not already been provided for in an Order in Council made under section 25(1) giving effect to a reorganisation plan.
+(2)
 
-### 45 Provisions that apply to reorganisation scheme unless modified or excluded
-The following provisions apply to a reorganisation scheme unless amended by the reorganisation scheme or declared by the reorganisation scheme not to apply:
+### 45 Provisions that apply to reorganisation unless modified or excluded
+The following provisions apply to a reorganisation unless amended by a reorganisation order or declared by a reorganisation order not to apply:
   (a) the local authority that assumes, under the scheme, jurisdiction over an area formerly comprising or forming part of a separate district or region, or that takes over the responsibilities of a local authority, has, and may exercise, and is responsible for,—
     (i) all the powers, duties, acts of authority, and responsibilities that were previously exercised by the former local authority, or that would have been exercised by it if it had remained in existence or in control of that area:
     (ii) all the liabilities, obligations, engagements, and contracts that were previously the responsibility of the former local authority, or that would have been its responsibility if it had remained in existence or in control of that area:
@@ -5350,7 +5531,7 @@ The following provisions apply to a reorganisation scheme unless amended by the 
   (i) except in the circumstances specified in clause 1, 2, 4, or 5 of Schedule 7, if part of a district or region is excluded from that district or region and included in another district or region, the members of the local authority of the first-mentioned district or region continue to be members of that district or region as if that part had not been excluded from the district or region.
 
 ### 46 Bylaws
-(1) The provisions of this clause apply unless amended by a reorganisation scheme or declared by the reorganisation scheme not to apply.
+(1) The provisions of this clause apply unless amended by a reorganisation order or declared by the reorganisation order not to apply.
 (2) Subclauses (3) to (8) apply to bylaws if—
   (a) they are in force in all or part of a district or region that, under a reorganisation order, is included in the jurisdiction of a local authority other than the local authority that made them; and
   (b) they are in force immediately before the implementation date; and
@@ -5369,7 +5550,7 @@ The following provisions apply to a reorganisation scheme unless amended by the 
   (c) a provision within an individual bylaw.
 
 ### 47 No compensation payable if responsibility transferred
-(1) If provision is made in a reorganisation order for a responsibility to be transferred to, or assumed by, a local authority, provision may not be made for the payment of compensation to the local authority from which that responsibility is transferred or assumed.
+(1) If provision is made in a reorganisation order for a responsibility, duty, power, or discretionary function to be transferred to, or assumed by, a local authority or joint committee, provision may not be made for the payment of compensation to the local authority from which that responsibility, duty, power, or discretionary function is transferred or assumed.
 (2) This clause applies subject to clauses 48 and 53.
 
 ### 48 Payment if trading undertaking transferred
@@ -5380,8 +5561,8 @@ The following provisions apply to a reorganisation scheme unless amended by the 
 
 ### 49 Employees
 (1) This clause applies where—
-  (a) a local authority (local authority A) ceases to exist under a reorganisation scheme and its district or region is included in the district or region of another local authority (local authority B); or
-  (b) a reorganisation scheme provides, under clause 43(j) for the transfer of employees from a local authority (local authority A) to another local authority (local authority B).
+  (a) a local authority (local authority A) ceases to exist under a reorganisation and its district or region is included in the district or region of another local authority (local authority B); or
+  (b) a reorganisation implementation scheme provides, under clause 43(j) for the transfer of employees from a local authority (local authority A) to another local authority (local authority B).
 (2) On and from the implementation date, a person who was, immediately before that date, an employee of local authority A becomes an employee of local authority B.
 (3) For the purposes of every enactment law, award, determination, contract, and agreement relating to the employment of the person,—
   (a) his or her employment agreement is unbroken; and
@@ -5425,6 +5606,59 @@ A reorganisation order does not—
 (2) If agreement under subclause (1) cannot be reached within 3 months after the date on which the reorganisation order comes into force, any of those local authorities may apply to the Commission for an order determining the matter in accordance with clause 53(2) to (5).
 (3) An agreement under subclause (1), or an order under subclause (2), applies only to the end of the first financial year that commences after the date on which the reorganisation order comes into force.
 
+#### Subpart 4 — Tax treatment of assets transferred in reorganisation
+
+### 55 Application
+(1) This subpart applies for the purposes of the Inland Revenue Acts when, in a reorganisation described in section 24 of this Act,—
+  (a) the assets and liabilities of a terminating entity (the transferring entity) become the assets and liabilities of a receiving entity (the receiving entity):
+  (b) some or all of the assets and liabilities of a continuing entity (the transferring entity) become the assets and liabilities of another entity (the receiving entity):
+  (c) the voting interests and market value interests of a notional single person in a local authority (the transferring entity) become the voting interests and market value interests of a notional single person in another entity (the receiving entity).
+(2) In this clause and in clauses 56 to 61,—
+  - **date of transfer** means the date on which assets and liabilities, or voting interests and market value interests, of a transferring entity become assets and liabilities, or voting interests and market value interests, of a receiving entity
+  - **Inland Revenue Acts** has the meaning given by section 3(1) of the Tax Administration Act 1994
+  - **transfer** means a method of conveying assets and liabilities, or voting interests and market value interests, to a receiving entity so that the assets and liabilities, or voting interests and market value interests, that the transferring entity has before the date on which the conveyance takes place become the assets and liabilities, or voting interests and market value interests, of the receiving entity on and after that date.
+(3) In this subpart, terms defined in the Inland Revenue Acts have the meanings given by those Acts.
+(4) If there is a conflict between a provision of this subpart and clause 6 of Schedule 9, the provision in this subpart prevails.
+
+### 56 General treatment
+For tax purposes, and in relation to a transfer,—
+  (a) a receiving entity is treated from the date of transfer as the same person as the transferring entity:
+  (b) a thing done by a transferring entity before the date of transfer is treated as done by the receiving entity on the date on which it was done by the transferring entity:
+  (c) a receiving entity is treated as having held the voting interests and market value interests without interruption from the date on which the transferring entity acquired them.
+
+### 57 Income and expenditure
+An amount of income derived or expenditure incurred by a transferring entity before the date of transfer does not become income or expenditure of the receiving entity merely because the assets and liabilities of the transferring entity have become the assets and liabilities of the receiving entity.
+
+### 58 Holding companies
+(1) When an asset other than shares of a transferring entity becomes the asset of a receiving entity, the difference between the market value of the asset and any attributed liability is available subscribed capital of the receiving entity.
+(2) An amount arising from a sale or transfer of shares of a transferring entity is not assessable income of the receiving entity when—
+  (a) the shares have become the asset of the receiving entity through a reorganisation under section 24; and
+  (b) the receiving entity—
+    (i) sells the shares and distributes the proceeds to or through a holding company of the entity; or
+    (ii) transfers the shares to a holding company of the entity.
+
+### 59 Valuation of assets
+(1) For an asset that is a financial arrangement, trading stock, or revenue account property, the value is established as follows:
+  (a) if income derived from the asset is exempt income of a transferring entity and is not exempt income of a receiving entity, the receiving entity is treated as having acquired the asset on the date of transfer at its market value on that date:
+  (b) if income derived from the asset is not exempt income of a transferring entity and is exempt income of a receiving entity, the transferring entity is treated as having disposed of the asset on the date of transfer at its market value on that date.
+(2) For an asset that is an item of depreciable property, the value is established as follows:
+  (a) if income derived from the asset is exempt income of a transferring entity and is not exempt income of a receiving entity, the receiving entity is treated as having acquired the property on the date of transfer at its accounting carrying value on that date:
+  (b) if income derived from the asset is not exempt income of a transferring entity and is exempt income of a receiving entity, the transferring entity is treated as having disposed of the property on the date of transfer at its adjusted tax value on that date.
+
+### 60 Apportionment on transfers to multiple receiving entities
+(1) This clause applies when the assets and liabilities of, or interests in, a transferring entity are transferred to more than 1 receiving entity. For these purposes, a transferring entity that continues in existence after the date of the transfer is treated as a receiving entity.
+(2) A tax loss, loss balance, or credit in a memorandum account of the transferring entity is apportioned among the receiving entities on the basis of the percentage of assets or interests, as applicable, that are transferred to each receiving entity, measured on the date of transfer.
+(3) In relation to the grouping of tax losses and credits, the tax loss, loss balance, or credit is treated as arising on the date of transfer.
+
+### 61 Goods and services tax
+(1) When the assets and liabilities of a transferring entity become the assets and liabilities of a receiving entity, the transfer is treated as a taxable supply of the assets and liabilities that is charged with tax at the rate of 0%.
+(2) For the purposes of calculating the amount of output tax to be charged or input tax deductible on the date of transfer, the transferring entity and receiving entity are treated for the period up to the date of transfer as if they were the same person.
+(3) If, in relation to a supply of the assets and liabilities of a transferring entity, it is necessary for a tax invoice, credit note, or debit note to be issued before the date of transfer by or to the transferring entity, the invoice or note may be issued by or to a receiving entity. For this purpose, the transferring entity and the receiving entity are treated as if they were the same person in relation to any requirement that the transferring entity holds, has previously been issued with, or has issued to a person an invoice or note for the supply.
+(4) If, in relation to a supply of the assets and liabilities of a transferring entity, a document purporting to be a tax invoice, credit note, or debit note is issued by or to a transferring entity in relation to a supply made by or to a receiving entity on or after the date of transfer, the document is treated as if it were a tax invoice, credit note, or debit note, as applicable, that is issued by or to the receiving entity.
+
+### 62 Associated persons
+A person is not associated with another person for the purposes of sections CB 6A to CB 15 of the Income Tax Act 2007 merely through the application of this subpart.
+
 ## Schedule 4 — Provisions relating to Local Government Commission and its proceedings
 
 ### 1 Interpretation
@@ -5444,7 +5678,11 @@ In this schedule, unless the context otherwise requires,—
   (b) the member's successor is appointed; or
   (c) the member is informed in writing by the Minister that he or she is not to be reappointed; or
   (d) the member resigns his or her office by sending a written notice to the Minister.
-(2) A member may, at any time, be removed from office by written notice from the Minister for inability to perform the functions of office, legal incapacity, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Minister.
+(2) A member may, at any time, be removed from office, by written notice from the Minister, for any reason that, in the Minister’s opinion, justifies the removal.
+(2A) The notice referred to in subclause (2) must—
+  (a) state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received; and
+  (b) state the reasons for the removal.
+(2B) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice under subclause (2).
 (3) If a member dies, resigns, or is removed from office, his or her office becomes vacant.
 (4) A vacancy under this clause is an extraordinary vacancy, and must be filled in the manner in which the appointment to the vacant office was made.
 (5) A person appointed to fill an extraordinary vacancy must be appointed for the residue of the term for which the vacating member was appointed.
@@ -5622,7 +5860,7 @@ A delegation—
 (1) Proceedings before the Commission are not invalid for want of form and, except as provided in this schedule, no appeal lies from any decision of the Commission.
 (2) Nothing in subclause (1)—
   (a) prohibits or restricts the High Court from exercising a supervisory jurisdiction over the Commission on questions of law; or
-  (b) restricts the power of the Commission to refer any disputed question of law to the High Court for decision under section 10 of the Commissions of Inquiry Act 1908.
+  (b) restricts the power of the Commission to refer any disputed question of law to the High Court for decision under section 34 of the Inquiries Act 2013.
 
 ### 2 Appeal to High Court
 (1) If a party to proceedings before the Commission or the Minister is dissatisfied with a decision of the Commission in the proceedings as being erroneous in point of law, the party or the Minister may appeal to the High Court on the question of law.
@@ -5837,7 +6075,7 @@ In deciding whether or not to constitute a community, the territorial authority 
 (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
 (6) Clause 7A applies to determinations made under this clause.
 (7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(8) In this clause, local boards has the meaning given in section 4(1) of the Local Government (Auckland Council) Act 2009.
+(8)
 
 ### 7 Mandatory criteria for Remuneration Authority
 (1) In determining remuneration under clause 6, the Remuneration Authority must have regard to the need to—
@@ -6173,7 +6411,10 @@ An act or proceeding of a local authority or committee, or of a person acting as
     (ii) the procedure by which the chairperson or deputy chairperson may be removed from that office:
     (iii) whether a quorum must include 1 or more members appointed by each party, or any party:
     (iv) the extent to which the standing orders of any local authority or public body apply to meetings of the joint committee.
-(7) Nothing in this clause applies to a joint committee constituted or continued by, or required to be constituted or continued by, an enactment other than this Act.
+(6A) For the purposes of subclause (6)﻿(b), a mayor who is a member of the committee solely by operation of section 41A(5) is not counted as a member of the committee for the purposes of determining—
+  (a) the number of members required to constitute a quorum; or
+  (b) whether a quorum exists at a meeting.
+(7) Nothing in subclauses (1) to (4) applies to a joint committee constituted or continued by, or required to be constituted or continued by, an enactment other than this Act.
 
 ### 31 Membership of committees and subcommittees
 (1) A local authority may appoint or discharge any member of a committee or a subcommittee.
@@ -6331,73 +6572,84 @@ A territorial authority within whose district the community of a community board
 (2) The territorial authority may fix a limit within which expenditure may be incurred under subclause (1), and no community board may incur expenditure in excess of any limit so fixed without the prior approval of the territorial authority.
 (3) This clause does not apply in respect of any expenditure for which any rate has been made and levied within the community.
 
-## Schedule 8 — Statements of intent
+## Schedule 8 — Statements of intent for council-controlled organisations
 
-### 1 Purpose of statement of intent
-The purpose of a statement of intent is to—
-  (a) state publicly the activities and intentions of a council-controlled organisation for the year and the objectives to which those activities will contribute; and
-  (b) provide an opportunity for shareholders to influence the direction of the organisation; and
-  (c) provide a basis for the accountability of the directors to their shareholders for the performance of the organisation.
+### Part 1 — Adoption of statement of intent
 
-### 2 Statements of intent for council-controlled organisations
-The board of a council-controlled organisation must deliver to its shareholders a draft statement of intent on or before 1 March each year.
+### 1 Draft statement of intent
+(1) The board of a council-controlled organisation must deliver a draft statement of intent—
+  (a) to its shareholders; and
+  (b) in the case of an organisation that is indirectly controlled by 1 or more local authorities (for example, a subsidiary of a holding company owned by a local authority), to each local authority that indirectly controls the organisation.
+(2) The draft statement of intent must be delivered on or before 1 March in the year preceding the financial year to which the draft statement of intent relates.
 
-### 3 Completion of statements of intent
-The board must—
-  (a) consider any comments on the draft statement of intent that are made to it within 2 months of 1 March by the shareholders or by any of them; and
-  (b) deliver the completed statement of intent to the shareholders on or before 30 June each year.
+### 2 Consideration of shareholder comments
+The board must consider any comments on the draft statement of intent that are made by the shareholders, and by local authorities with indirect control, or by any of them, on or before 1 May in the year preceding the year to which the draft statement relates.
 
-### 4 Modifications of statements of intent by board
+### 3 Final statement of intent
+The board must deliver the completed statement of intent to the shareholders before the commencement of the financial year to which it relates.
+
+### 4 Shareholding local authority may extend deadlines by up to 1 month
+The shareholders of a council-controlled organisation may, by written notice, extend a deadline specified in clause 1(2), 2, or 3 for a period or periods not exceeding in total 1 calendar month.
+
+### 5 Modifications of statements of intent
 The board may, by written notice, modify a statement of intent at any time if the board has first—
   (a) given written notice to the shareholders of the proposed modification; and
   (b) considered any comments made on the proposed modification by the shareholders or by any of them within—
     (i) 1 month after the date on which the notice under paragraph (a) was given; or
     (ii) any shorter period that the shareholders may agree.
 
-### 5 Modifications of statements of intent by resolution of shareholders
-(1) Despite any other provision of the Act or of the constitution of any council-controlled organisation, the shareholders of a council-controlled organisation may, by resolution, require the board to modify the statement of intent by including or omitting any provision or provisions of the kind referred to in clause 9(1)﻿(a) to (i), and any board to whom notice of the resolution is given must comply with the resolution.
-(2) Before giving notice of the resolution to the board, the shareholders must consult the board concerned as to the matters to be referred to in the notice.
+### 6 Modifications of statements of intent by resolution of shareholders
+(1) The shareholders of a council-controlled organisation may, by resolution, require the board to modify the statement of intent in the manner specified in the resolution.
+(2) Every modification that is required by a resolution under subclause (1) must be—
+  (a) consistent with the objectives of the constitution; and
+  (b) lawful.
+(3) Before making a resolution under subclause (1), the shareholders must consult the board as to the proposed content of the resolution.
+(4) As soon as practicable after receiving a resolution that complies with subclause (2), the board must—
+  (a) prepare and adopt a modified statement of intent that incorporates the modifications in the resolution; and
+  (b) deliver the modified statement of intent to each shareholder within 1 month of the date of its adoption; and
+  (c) make the modified statement of intent publicly available within 1 month of the date of its adoption.
+(5) Subclause (1) applies despite any other provision of this Act or of the constitution of the council-controlled organisation.
 
-### 6 Statement of intent required if exemption granted under section 7 revoked
-If an exemption granted under section 7 is revoked, the council-controlled organisation must,—
-  (a) if there is more than 6 months remaining in the financial year, prepare a statement of intent for that financial year; or
-  (b) if there is not more than 6 months remaining in the financial year, prepare a statement of intent for the following financial year.
+### Part 2 — Content of statements of intent: all council-controlled organisations
 
-### 7 Obligation to make statements of intent available
-A completed statement of intent and each modification that is adopted to a statement of intent must be made available to the public by the board within 1 month after the date on which it is delivered to the shareholders or adopted, as the case may be.
-
-### 8 Savings of certain transactions
-A failure by a council-controlled organisation to comply with any provision of this schedule or with any provision in a statement of intent does not affect the validity or enforceability of any deed, agreement, right, or obligation entered into, obtained, or incurred by that organisation.
-
-### 9 Contents of statements of intent
-(1) A statement of intent must, to the extent that is appropriate given the organisational form of the council-controlled organisation, specify for the group comprising the council-controlled organisation and its subsidiaries (if any), and in respect of the financial year immediately following the financial year in which it is required by clause 3(b) to be delivered and each of the immediately following 2 financial years, the following information:
+### 7 Content of statement of intent
+(1) The statement of intent for a council-controlled organisation must include the information described in subclause (2)—
+  (a) for the group comprising the council-controlled organisation and its subsidiaries (if any); and
+  (b) in respect of the financial year to which it relates and each of the immediately following 2 financial years.
+(2) The information required by subclause (1) is—
   (a) the objectives of the group; and
-  (b) a statement of the board's approach to governance of the group; and
+  (b) a statement of the board’s approach to the governance of the group; and
   (c) the nature and scope of the activities to be undertaken by the group; and
-  (d) the ratio of consolidated shareholders' funds to total assets, and the definitions of those terms; and
-  (e) the accounting policies of the group; and
-  (f) the performance targets and other measures by which the performance of the group may be judged in relation to its objectives; and
-  (g) an estimate of the amount or proportion of accumulated profits and capital reserves that is intended to be distributed to the shareholders; and
-  (h) the kind of information to be provided to the shareholders by the group during the course of those financial years, including the information to be included in each half-yearly report (and, in particular, what prospective financial information is required and how it is to be presented); and
-  (i) the procedures to be followed before any member or the group subscribes for, purchases, or otherwise acquires shares in any company or other organisation; and
-  (j) any activities for which the board seeks compensation from any local authority (whether or not the local authority has agreed to provide the compensation); and
-  (k) the board's estimate of the commercial value of the shareholders' investment in the group and the manner in which, and the times at which, that value is to be reassessed; and
-  (l) any other matters that are agreed by the shareholders and the board.
-(2) If a council-controlled organisation has undertaken to obtain or has obtained compensation from its shareholders in respect of any activity, this undertaking or the amount of compensation obtained must be recorded in—
-  (a) the annual report of the council-controlled organisation; and
-  (b) the annual report of the local authority.
-(3) Any financial information, including (but not limited to) forecast financial information, must be prepared in accordance with generally accepted accounting practice.
+  (d) the non-financial performance targets and other measures by which the performance of the group may be judged in relation to its objectives; and
+  (e) any additional information that is required to be included in the statement of intent.
 
-### 10 Additional content of statements of intent
-(1) This clause applies to a council-controlled organisation that provides services in relation to the following groups of activities:
+### 8 Additional content of statement of intent
+(1) This clause applies to a council-controlled organisation that provides services, other than under a contract or similar arrangement, in relation to the following groups of activities:
   (a) water supply:
   (b) sewerage and the treatment and disposal of sewage:
   (c) stormwater drainage:
   (d) flood protection and control works:
   (e) the provision of roads and footpaths.
-(2) The council-controlled organisation's statement of intent must, in relation to each group of activities described in subclause (1), include a statement of the intended levels of service provision that complies with clause 4(a) and (c) of Schedule 10 as if—
-  (a) the reference to a long-term plan were a reference to the statement of intent; and
-  (b) the reference to a local authority were a reference to a council-controlled organisation.
+(2) The council-controlled organisation’s statement of intent must state the matters in subclause (3) in relation to each group of activities described in subclause (1).
+(3) The matters required by subclause (2) are—
+  (a) any performance measures specified in a rule made under section 261B in relation to a group of activities described in subclause (1); and
+  (b) the performance target or targets of the council-controlled organisation for each performance measure.
+
+### Part 3 — Additional content of statements of intent of council-controlled trading organisations
+
+### 9 Additional content of statement of intent of council-controlled trading organisations
+The statement of intent for a council-controlled trading organisation must include, as well as the information required by Part 2 of this schedule, the following information:
+  (a) the major accounting policies of the organisation or group; and
+  (b) the ratio of consolidated shareholders’ funds to total assets, and the definitions of those terms; and
+  (c) an estimate of the amount or proportion of accumulated profits and capital reserves that is intended to be distributed to the shareholders; and
+  (d) the board’s estimate of the commercial value of the shareholders’ investment in the group and the manner in which, and the times at which, that value is to be reassessed.
+
+### Part 4 — Additional content of statements of intent of council-controlled organisations that are not trading organisations
+
+### 10 Additional content of statement of intent of council-controlled organisations that are not trading organisations
+The statement of intent for a council-controlled organisation that is not a council-controlled trading organisation must include, as well as the information required by Part 2 of this schedule, the following information:
+  (a) the major accounting policies of the organisation or group; and
+  (b) forecast financial statements of the organisation for the financial year to which the statement of intent relates, and each of the 2 following financial years.
 
 ## Schedule 9 — Council-controlled organisations and transfer of undertakings
 
@@ -6484,7 +6736,7 @@ A long-term plan for a territorial authority must identify and explain any signi
   (b) waste management and minimisation plans adopted under section 43 of the Waste Minimisation Act 2008.
 
 ### 7 Council-controlled organisations
-A long-term plan must, in relation to each council-controlled organisation,—
+A long-term plan must, in relation to each council-controlled organisation in which the local authority is a shareholder,—
   (a) name the council-controlled organisation and any subsidiary of the council-controlled organisation; and
   (b) identify—
     (i) the local authority's significant policies and objectives in relation to ownership and control of the organisation; and
@@ -6673,7 +6925,7 @@ An annual report must include an audited statement that—
   (c) the amount of interest (if any) paid in relation to the internal borrowing.
 
 ### 28 Council-controlled organisations
-An annual report must include, in relation to each council-controlled organisation,—
+An annual report must include, in relation to each council-controlled organisation in which the local authority is a shareholder,—
   (a) a report on the extent to which the local authority's significant policies and objectives in regard to ownership and control of the organisation (as set out in the relevant long-term plan or annual plan) have been implemented or attained in the year to which the report relates; and
   (b) a comparison between the nature and scope of the activities intended to be provided by the organisation in the year to which the report relates (as set out in the relevant long-term plan or annual plan) and the nature and scope of the activities actually provided by the organisation in that year; and
   (c) a comparison between actual performance and the key performance targets and other measures set out in the relevant long-term plan or annual plan.
