@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2019-10-22_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -48,6 +48,7 @@ _Consolidation as at 2018-12-21_
   - **Crown land** has the same meaning as in the Land Act 1948
   - **customary marine title area** has the meaning given in section 9(1) of the Marine and Coastal Area (Takutai Moana) Act 2011
   - **day** means a period of 24 hours beginning at midnight and ending with the following midnight
+  - **declared spawning area** means an area declared under section 26ZJA
   - **Department** means the Department of Conservation
   - **Deputy Director-General** means a Deputy Director-General of Conservation
   - **Director** means the manager of the New Zealand Fish and Game Council
@@ -70,7 +71,14 @@ _Consolidation as at 2018-12-21_
     (b) all waters of estuaries or coastal lagoons:
     (c) all other fresh or estuarine waters where freshwater fish indigenous to or introduced into New Zealand are found:
     (d) all waters in the mouth of every river or stream, and the mouth of every river and stream shall be deemed to include every outlet thereof and the seashore between those outlets and the waters of the sea or lying within a distance of 500 metres from any place where at low tide the waters of a river or stream meet the waters of the sea
-  - **freshwater fish** includes all species of finfish of the Classes Agnatha and Osteichthyes, and all shellfish of the Classes Mollusca and Crustacea, that must, at any time in the life history of the species, inhabit fresh water; and includes any part thereof and such finfish and shellfish that seasonally migrate into or out of freshwater
+  - **freshwater fish** means—
+    (a) all species of Anguillidae Anguilla, Cyprinidae, Eleotridae Gobiomorphus, Galaxiidae, Ictaluridae, Percidae, Poeciliidae, Retropinnidae, and Salmonidae:
+    (b) all species of Echyridella:
+    (c) all species of Paranephrops:
+    (d) Cheimarrichthyidae Cheimarrichthys fosteri:
+    (e) Geotridae Geotria australis:
+    (f) Gobiidae Acentrogobius pflaumii:
+    (g) Microdesmidae Parioglossus marginalis
   - **freshwater fisheries management plan** means a freshwater fisheries management plan approved under section 17K
   - **game** has the same meaning as in the Wildlife Act 1953
   - **game bird habitat stamp** means a stamp in a form approved under section 19A of the Wildlife Act 1953
@@ -78,7 +86,7 @@ _Consolidation as at 2018-12-21_
   - **guide dog** means a dog certified by the Royal New Zealand Foundation of the Blind as being a guide dog or a dog under training as a guide dog
   - **historic resource** means a historic place within the meaning of the Heritage New Zealand Pouhere Taonga Act 2014; and includes any interest in a historic resource
   - **hunting weapon** means a weapon within the meaning of the Trespass Act 1980
-  - **indigenous fish** means any freshwater fish that is indigenous to New Zealand
+  - **indigenous freshwater fish** means any freshwater fish that is indigenous to New Zealand
   - **infringement fee** , in relation to an infringement offence, means the infringement fee for the offence prescribed in regulations made under this Act
   - **infringement offence** means—
     (a) an offence in subpart 1 of Part 6A; or
@@ -107,6 +115,7 @@ _Consolidation as at 2018-12-21_
   - **Maori land** has the same meaning as in Te Ture Whenua Maori Act 1993
   - **marginal strip** means any strip of land reserved or deemed to be reserved by section 24 or section 24E(3) or section 24G for the purposes specified in section 24C; and includes any part of any such strip
   - **Minister** means the Minister of Conservation
+  - **national park** means a national park constituted under the National Parks Act 1980
   - **natural resources** means—and includes any interest in a natural resource
     (a) plants and animals of all kinds; and
     (b) the air, water, and soil in or on which any plant or animal lives or may live; and
@@ -168,6 +177,7 @@ _Consolidation as at 2018-12-21_
     (a) in relation to any plant, includes the breaking, cutting, destroying, digging up, gathering, plucking, pulling up, and removing, of the plant; and to take has a corresponding meaning:
     (b) in relation to any fish, means fishing; and takes and to take have a corresponding meaning
   - **Taupo Fishery** means the fishery to which section 14 of the Maori Land Amendment and Maori Land Claims Adjustment Act 1926 relates
+  - **Treaty settlement legislation** means an Act that settles the historical claims of iwi or other Māori groups under the Treaty of Waitangi and includes any regulations, bylaws, or other legislative instruments made under that Act
   - **vehicle** has the same meaning as in the Land Transport Act 1998; but includes any vehicle from which any wheels have been removed
   - **warranted officer** means a person—
     (a) who—
@@ -639,13 +649,13 @@ The following provisions shall apply to the preparation and approval of draft co
 (5) When amending any part of a conservation management strategy, the Director-General must take into account the matters set out in any planning documents lodged with the Director-General under section 90 of the Marine and Coastal Area (Takutai Moana) Act 2011 that are relevant to the strategy.
 
 ### 17J Freshwater fisheries management plans
-(1) The purpose of a freshwater fisheries management plan is to implement general policies and establish detailed objectives for the management of freshwater fisheries within any area or areas.
+(1) The purpose of a freshwater fisheries management plan is to implement general policies and establish detailed objectives for the management of freshwater fisheries within any area or areas or throughout all New Zealand.
 (2) The Director-General may prepare for approval by the Minister such freshwater fisheries management plans as are necessary for the management of all freshwater fisheries other than sports fisheries.
 (3) Nothing in any freshwater fisheries management plan shall derogate from—
   (a) any provision in this Act or any other Act; or
   (b) any policy approved under this Act or any other Act in respect of the area to which the plan relates, or any part of that area; or
   (c) any provision in any conservation management strategy or conservation management plan.
-(4) Any freshwater fisheries management plan may apply to any 1 or more freshwater fish species within any area.
+(4) Any freshwater fisheries management plan may apply to any 1 or more freshwater fish species within any area or throughout all New Zealand.
 (5) In preparing any freshwater fisheries management plan, the Director-General shall have regard to any sports fish and game management plan having effect in that area.
 
 ### 17K Procedure for preparation, approval, review, and amendment of freshwater fisheries management plans
@@ -1695,9 +1705,11 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
 (2) Nothing in this Part shall apply to—
   (a) any person using a landing net to secure freshwater fish lawfully taken with a rod and line; or
   (b) any person who, having unintentionally taken any freshwater fish contrary to the provisions of this Act or any regulations made under it, immediately returns the fish with as little injury as possible, to the water; or
-  (c) the taking, holding, possession, sale, or disposal of freshwater fish under the authority of—
-    (i) the Fisheries Act 1983, the Marine Farming Act 1971, or any regulations made under either of those Acts; or
-    (ii) the registration of a fish farmer under Part 9A of the Fisheries Act 1996.
+  (c) the taking, holding, possession, sale, or disposal of freshwater fish by—
+    (i) a person who is specifically authorised under the Fisheries Act 1996 or any regulations made under that Act; or
+    (ii) a person who is specifically authorised under any regulations made under section 48B of this Act; or
+    (iii) a person acting under the authority of a registration of a fish farmer under Part 9A of the Fisheries Act 1996; or
+    (iv) a person who is specifically authorised by or under Treaty settlement legislation.
 (3) To avoid doubt, subsection (2) does not limit or affect section 26ZI or section 26ZM.
 
 **Maori fishing rights**
@@ -1705,6 +1717,40 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
 ### 26ZH Maori fishing rights unaffected by this Part
 (1) Nothing in this Part shall affect any Maori fishing rights.
 (2) Subsection (1) does not apply to customary Māori fishing rights with respect to freshwater fisheries within South Island fisheries waters, in respect of which regulations have been made under section 48B, for so long as such regulations remain in force.
+
+**Indigenous freshwater fish**
+
+### 26ZHA Approval under specified Acts to access public land is not approval for recreational fishing of indigenous freshwater fish
+(1) An approval under this Act or an Act listed in Schedule 1 that enables access to public land for recreation purposes is not of itself an approval for recreational fishing of indigenous freshwater fish in any fisheries water on that land.
+(2) In subsection (1), an approval under an Act includes an approval under any instrument made under that Act.
+
+### 26ZHB Prohibitions and restrictions on taking of indigenous freshwater fish
+(1) A person must not take any indigenous freshwater fish from a conservation area except in accordance with an authorisation given under section 26ZHC(1)﻿(a) or 26ZHD.
+(2) A person may take indigenous freshwater fish from freshwater that is not a conservation area or part of a conservation area only if—
+  (a) the person takes the fish in accordance with an authorisation given under section 26ZHC(1)﻿(b) or 26ZHD; or
+  (b) the person takes the fish—
+    (i) primarily as food for human consumption, including for sale as food for human consumption; and
+    (ii) in accordance with any regulations or notice made under this Act; or
+  (c) the person—
+    (i) takes the fish from the waters in a manner that does not lead to its injury or death; and
+    (ii) returns the fish to those waters as soon as practicable after taking it; and
+    (iii) at all times until the fish is returned, keeps the fish in close proximity to the waters, the person, and any fishing device used to take the fish.
+(3) A person who contravenes subsection (1) or (2) commits an offence and is liable on conviction to a fine not exceeding $5,000.
+
+### 26ZHC Director-General may authorise taking of indigenous fish on application
+(1) The Director-General may, on application, give a person written authorisation to take indigenous freshwater fish—
+  (a) from a conservation area if the Director-General is satisfied that the activity is consistent with the purpose for which the land is held and any requirements in regulations have been met; or
+  (b) from a freshwater area that is not a conservation area or part of a conservation area if the Director-General is satisfied that the activity is consistent with the management of freshwater fisheries in that area and any requirements in regulations have been met.
+(2) An authorisation may be subject to any conditions or restrictions specified by the Director-General.
+
+### 26ZHD Director-General may authorise taking of indigenous fish by Gazette notice
+(1) The Director-General may, by notice in the Gazette, give authorisation for the taking of indigenous freshwater fish from an area other than a national park.
+(2) The notice must specify—
+  (a) the kind of indigenous fish that may be taken; and
+  (b) the area from which the fish may be taken; and
+  (c) the manner in which the fish may be taken.
+(3) An authorisation may be subject to any conditions or restrictions specified by the Director-General.
+(4) A notice under this section is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 **Sports fisheries**
 
@@ -1716,23 +1762,49 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
 (3) Every person commits an offence and is liable to a fine not exceeding $5,000 who establishes, manages, or operates any fish hatchery for sports fish except pursuant to regulations made under this Act; but nothing in this subsection shall apply in relation to any hatchery for sports fish that is established or is being established at the commencement of this Part.
 (4) No person shall establish, manage, or operate a fish farm for trout.
 
+**Spawning fish**
+
 ### 26ZJ Offences relating to spawning fish
 (1) Every person commits an offence who—
-  (a) disturbs or damages the spawning ground of any freshwater fish:
-  (b) disturbs or injures the eggs or larvae of any freshwater fish:
-  (c) is in possession of the eggs or larvae of any freshwater fish:
-  (d) with any spear, gaff, speargun, net, trap, or similar device takes any sports fish from any river or stream where sports fish are congregating or have congregated for spawning:
-  (e) while in the vicinity of any river or stream where sports fish are congregating or have congregated for spawning, has possession or control of any spear, gaff, speargun, trap, or similar device or material suitable for the taking of any sports fish, in circumstances likely to result in the taking of sports fish.
-(2) Nothing in subsection (1) shall apply to—
-  (a) the taking of freshwater fish or the eggs or larvae of such fish for the purposes of scientific investigation or data collection, under a permit or authority under this Act, and in accordance with any conditions imposed by such permit or authority:
-  (b) the taking of freshwater fish subsequently found to contain eggs or larvae.
+  (a) contravenes section 26ZJA(3):
+  (b) without authorisation, disturbs or injures the eggs or larvae of any freshwater fish:
+  (c) without authorisation, takes or has possession of the eggs or larvae of any freshwater fish:
+  (d) disturbs any sports fish that are congregating or have congregated to spawn:
+  (e) with any spear, gaff, speargun, net, trap, or similar device takes any sports fish from any river or stream where sports fish are congregating or have congregated for spawning:
+  (f) while in the vicinity of any river or stream where sports fish are congregating or have congregated for spawning, has possession or control of any spear, gaff, speargun, trap, or similar device or material suitable for the taking of any sports fish, in circumstances likely to result in the taking of sports fish.
+(2) Subsection (1)﻿(a) to (c) does not apply to the taking of freshwater fish subsequently found to contain eggs or larvae.
+(3) Subsection (1)﻿(d) to (f) does not apply to actions taken by a fish and game ranger.
+(4) In this section, authorisation means an authorisation given under section 26ZJA(4) or (5).
+
+### 26ZJA Director-General may declare spawning area
+(1) The Director-General may, by notice in the Gazette, declare an area to be a spawning area if the Director-General has reasonable grounds to believe that the area—
+  (a) is being used for the spawning of freshwater fish; or
+  (b) is suitable for the spawning of freshwater fish.
+(2) Without limiting subsection (1), the Director-General may make a notice declaring a spawning area under that subsection on the recommendation of the New Zealand Fish and Game Council in relation to the spawning of sports fish in the area.
+(3) A person must not carry out an activity in a declared spawning area that disturbs or is reasonably likely to disturb the area unless—
+  (a) the Director-General has given authorisation under subsection (4) or (5) for the activity to be carried out; and
+  (b) the person complies with any conditions or restrictions specified in the authorisation.
+(4) The Director-General may, by notice in the Gazette, give authorisation for a specified activity to be carried out in a declared spawning area that disturbs or is reasonably likely to disturb the area, if the Director-General is satisfied that—
+  (a) the activity would have no more than a minor effect on the suitability of the area for the spawning of freshwater fish; or
+  (b) the activity is necessary for the restoration of the area; or
+  (c) the purpose of the activity outweighs any adverse effect it may have on the spawning of freshwater fish in the area.
+(5) The Director-General may, on application, give a person written authorisation to carry out a specified activity in a declared spawning area that disturbs or is reasonably likely to disturb the area if the Director-General is satisfied that—
+  (a) subsection (4)﻿(a), (b), or (c) applies to the activity; and
+  (b) any requirements in regulations have been met.
+(6) An authorisation under subsection (4) or (5) may be subject to any conditions or restrictions specified by the Director-General in the authorisation.
+(7) In this section, an activity disturbs a declared spawning area if it—
+  (a) disturbs the spawning of freshwater fish in the area; or
+  (b) makes the area less suitable for the spawning of freshwater fish in the area.
+(8) A notice under subsection (4) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+
+**Various restrictions relating to fishing and aquatic life**
 
 ### 26ZK Fishing competitions relating to sports fish
 No competition involving the taking of sports fish shall be held unless it conforms in all respects with any regulations made under this Act.
 
 ### 26ZL Restrictions on fishing
 (1) The Director-General, by a notice published on at least 2 consecutive Saturdays in 1 or more daily newspapers circulating in the area concerned, for such period as may be specified in the notice, may, notwithstanding that it is otherwise lawful under this Act,—
-  (a) declare any specified waters to be spawning grounds for freshwater fish, and prohibit or impose restrictions and conditions on entry into any such waters or on to any land within a specified distance of any such waters:
+  (a)
   (b) prohibit or impose restrictions and conditions on entry into any waters within a specified distance of any device erected in those waters for the purpose of preventing or controlling the movement of fish upstream or downstream or on entry to any land within a specified distance of any such device:
   (c) prohibit or impose restrictions or conditions on fishing in any waters or in any specified part or parts thereof, or on the taking of any species of fish therein, or on the methods of fishing in such waters:
   (d) in the case of freshwater fish (other than sports fish) exempt communities either wholly, partially, or conditionally, or in respect of any specified waters, from the operation of any such prohibition, restriction, or other condition in the notice.
@@ -1743,15 +1815,19 @@ No competition involving the taking of sports fish shall be held unless it confo
 ### 26ZM Transfer or release of live aquatic life
 (1) No person shall transfer live aquatic life or release live aquatic life into any freshwater, except in accordance with this section.
 (2) The prior approval of the Minister of Fisheries shall be required for the following:
-  (a) the movement of live aquatic life between sites where the species already exists:
+  (a) the movement of live aquatic life between locations where the species already exists:
   (b) the movement of live aquatic life between the islands of New Zealand.
 (3) The prior approval of the Minister of Conservation shall be required for the following:
   (a) the transfer of live aquatic life to or the release of live aquatic life in a new location where the species does not already exist (including the transfer of a new species to or the release of a new species in an existing or a new fish farm):
   (b) the transfer of a species of live aquatic life to any land or water managed or administered under this Act or any other Act specified in Schedule 1.
 (4) The following provisions shall apply where the approval of the Minister of Conservation is required under subsection (3):
-  (a) the applicant shall advertise, on at least 2 consecutive Saturdays in at least 1 newspaper circulating in the area concerned, the intention to transfer or release live aquatic life:
+  (a) the applicant must, unless subsection (4A) applies, advertise, on at least 2 consecutive Saturdays in at least 1 newspaper circulating in the area concerned, the intention to transfer or release live aquatic life:
   (b) every advertisement under paragraph (a) shall state that submissions or objections in respect of its subject matter should be sent to the Director-General within 20 working days after the date specified in the advertisement for that purpose (being a date that is not earlier than the date on which the advertisement is first published):
-  (c) the Director-General may require an applicant to provide an environmental impact assessment report before granting approval.
+  (c) the Director-General may require an applicant to provide an environmental impact assessment report before granting approval:
+  (d) if the live aquatic life that is to be transferred or released is a species of sports fish, at least 10 working days before the Minister decides whether to give approval,—
+    (i) the Director-General must give written notice to the Fish and Game Council for the region or regions in which the transfer or release of the sports fish is to take place; and
+    (ii) the Minister must have regard to any comments provided by the Fish and Game Council within the time frame specified in that notice.
+(4A) The Director-General may, at the request of the applicant, determine that compliance with subsection (4) is not required if satisfied that the proposed activity is unlikely to have an adverse effect on the freshwater fishery concerned.
 (5) Every person commits an offence and is liable to a fine not exceeding $5,000 who contravenes or fails to comply with subsection (1).
 (5A) Nothing in this section applies to the transfer of any live aquatic life to an existing fish farm where the species is already present.
 (6) Except where the Director-General or the Director-General of Agriculture and Fisheries requires it to comply with this section, nothing in this section shall apply to the transfer by a Fish and Game Council of sports fish to another location within the same island in New Zealand where the species is already present.
@@ -1772,11 +1848,19 @@ No competition involving the taking of sports fish shall be held unless it confo
 **Miscellaneous provisions**
 
 ### 26ZP Determination of closed seasons for fishing
-(1) In respect of any freshwater fish other than sports fish, the Director-General may, from time to time, by a notice published on at least 2 consecutive Saturdays in 1 or more daily newspapers circulating in the area concerned, determine a closed season for the whole or any part or parts of the area for such period or periods in any year, month, week, or day that may be most suitable.
-(2) The Director-General may, in like manner, extend or vary any closed season so determined or vary any closed season so extended.
-(3) During the period of any closed season determined, varied, or extended pursuant to this section for any species of fish it shall be unlawful for any person to take or have in possession any such fish, or in any way injure or disturb any such fish, and every person so doing commits an offence against this Act.
+(1) The Director-General may, by notice,—
+  (a) determine a closed season for fishing 1 or more species of freshwater fish (other than sports fish) in an area for a period not exceeding 5 years; or
+  (b) extend or vary a determination or vary a determination that has been extended so long as the total period of the closed season does not exceed 5 years.
+(2) A notice—
+  (a) must state the purpose of the closed season, the species of fish and the area to which the closed season applies, and the duration of the closed season; and
+  (b) does not take effect until the Director-General has published the notice for at least 2 consecutive Saturdays in 1 or more of the daily newspapers circulating in the area concerned.
+(3) A person commits an offence who, without authorisation under this section, takes, possesses, or in any way injures or disturbs a fish to which a closed season applies.
 (4) Every person who commits an offence against this section is liable to a fine not exceeding $5,000, and to a further fine not exceeding $20 in respect of every fish in relation to which the offence was committed.
-(5) Any person who, during any closed season, is found in possession of any sports fish shall be deemed to have taken or obtained that fish during such closed season until the contrary is proved.
+(5) Any person who, during any closed season, is found in possession of any fish shall be deemed to have taken or obtained that fish during such closed season until the contrary is proved.
+(6) The Director-General may, on application, give a person written authorisation to take fish to which a closed season applies if satisfied that—
+  (a) the taking of the fish is consistent with the purpose of the closed season; and
+  (b) the person has met the requirements (if any) set out in regulations.
+(7) An authorisation may be subject to any conditions or restrictions specified by the Director-General or in regulations.
 
 ### 26ZQ Buying, selling, or possessing fish, contrary to Act
 (1) Every person commits an offence who buys, sells, or has in his or her possession for the purpose of sale any freshwater fish taken in New Zealand in contravention of this Part, or any regulation made or notice given under this Act.
@@ -1806,7 +1890,7 @@ No competition involving the taking of sports fish shall be held unless it confo
 ### 26ZR Using hazardous substances to catch or destroy fish
 (1) Every person commits an offence who, for the purpose of taking or destroying any freshwater fish, uses in any water any hazardous substance, narcotic substance, or any electric fishing device.
 (2) Subsection (1) does not apply to actions taken by—
-  (a) a warranted officer or a fish and game ranger; or
+  (a) a fish and game ranger or an employee or a contractor of the Department; or
   (b) any person authorised in writing for the purpose by the Director-General, the Director, or the appropriate Fish and Game Council.
 (3) In this section, the term hazardous substance has the same meaning as in section 2 of the Hazardous Substances and New Organisms Act 1996.
 
@@ -2313,8 +2397,8 @@ A court may sentence any individual who is convicted of an offence against this 
 
 ### 48 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing forms of application and the conditions and mode of applying for leases, licences, or permits to be issued under this Act:
-  (b) providing for any proceedings, forms of leases, licences, or permits and other instruments, and for the execution of any other matter or thing arising under and not inconsistent with this Act, and not expressly provided for in it:
+  (a) prescribing forms of application and the conditions and mode of applying for leases, licences, or permits to be issued or authorisations to be given under this Act:
+  (b) providing for any proceedings, forms of leases, licences, permits, or authorisations and other instruments, and for the execution of any other matter or thing arising under and not inconsistent with this Act, and not expressly provided for in it:
   (c) regulating the protection of natural or historic resources or conservation areas, or conservation areas of any class or description, and the prevention of fires in them:
   (d) in fulfilment of the conditions of the deed of cession of Stewart Island dated 29 June 1864, and after consultation with the Maori owners, securing to the Maori the Titi Islands and other islands adjacent to Stewart Island mentioned in the deed, and protecting the islands from trespassers, and the birds frequenting them from destruction:
   (e) providing for the care, management, and protection of any natural or historic resource or any conservation area or areas:
@@ -2333,7 +2417,7 @@ A court may sentence any individual who is convicted of an offence against this 
   (b) prescribe specific fees or levies for specific purposes:
   (c) prescribe a scale of fees or levies or a rate based on the time involved in carrying out the work or services:
   (d) provide for the refund or waiver of any fee or levy by the Minister or the Director-General, in whole or in part, in any specified case or class of cases.
-(3) Regulations made under this section may apply to all conservation areas, conservation areas of a specified class or description, or any specified conservation area or conservation areas or any specified part of any conservation area.
+(3) Regulations made under this section that relate to a conservation area may apply to all conservation areas, conservation areas of a specified class or description, or any specified conservation area or conservation areas or any specified part of any conservation area.
 (4) For the purposes of this section, the term conservation organisation includes the New Zealand Conservation Authority, any Conservation Board, the New Zealand Fish and Game Council, and any Fish and Game Council.
 
 ### 48AA Regulations prescribing time limits for applications for concessions
@@ -2347,13 +2431,15 @@ A court may sentence any individual who is convicted of an offence against this 
 (2) In this section, prescribed time limit means a time limit prescribed by regulations made under this section.
 
 ### 48A Special regulations relating to freshwater fisheries
-(1) Without limiting section 48, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
+(1) Without limiting section 48, the Governor-General may from time to time, by Order in Council, on the recommendation of the Minister, make regulations for all or any of the following purposes:
   (a) providing for the establishment of an advisory user group for the Taupo Fishery, and prescribing its functions, powers, proceedings, and other necessary matters:
   (b) prescribing a total allowable catch in respect of any freshwater fish, freshwater fishery, or method of fishing for freshwater fish:
   (c) prescribing the forms and classes of licences to fish for freshwater fish or sports fish and licences to operate as a sports fishing guide, and providing for the issue of such licences and for the disposal of fees for such licences and of fines recovered under this Act:
   (d) providing for the Minister to appoint agents and authorise such agents and Fish and Game Councils to issue, on such conditions as may be prescribed in the regulations, licences authorising the holder to fish for sports fish and licences authorising the holder to operate as a sports fishing guide, and providing for licence fees to be paid to such agents and such Councils:
   (e) prescribing the scope and effect of licences to fish for freshwater fish or sports fish and licences to operate as a sports fishing guide or any specified class of licences, and providing for licences issued in respect of any region to be available in any other region or regions or in all regions:
-  (f) regulating or prohibiting the taking or use or possession or sale of any specified freshwater fish:
+  (f) regulating or prohibiting—
+    (i) the taking of any specified freshwater fish, including any method of taking that fish; and
+    (ii) the use, possession, or sale of any specified freshwater fish:
   (g) providing for the issue, refusal, renewal, suspension, revocation, modification, and imposition by the regulations or the Director-General of conditions on licences for persons who wish to acquire or be in possession in prescribed circumstances of fish taken for the purposes of sale:
   (h) providing for the recognition of licences granted under any other Act as licences for the purposes of this Act:
   (i) providing for the variation, renewal, and revocation of licences to fish for freshwater fish or sports fish and licences to operate as a sports fishing guide and for the refusal of the issue of licences in certain cases:
@@ -2369,9 +2455,19 @@ A court may sentence any individual who is convicted of an offence against this 
       (C) the withdrawal of any such authorisation:
   (m) regulating, restricting, or imposing conditions on the canning, smoking, freezing, or other preserving of trout or other specified freshwater fish and the possession thereof when canned, smoked, frozen, or otherwise preserved; and providing for the inspection of canneries, smokehouses, freezing chambers, refrigerating works, and any premises (not being a dwellinghouse) where freshwater fish are canned, smoked, frozen, preserved, treated, dressed, or stored:
   (n) requiring and authorising the provision of devices and facilities to permit or control the passage of freshwater fish or sports fish through or around any dam or other structure impeding the natural movement of fish upstream or downstream:
+  (na) prohibiting, restricting, or regulating any structure or alteration to a water body that could impede or affect the passage of freshwater fish or specified freshwater fish (see clause 6 of Schedule 1AA):
   (o) authorising the establishment of fish hatcheries by Fish and Game Councils, or the Department, and regulating the management and operation of such establishments:
   (p) to prohibit or impose conditions and restrictions on the possession, or the retention in captivity, or the transfer to or release into any waters, of any live aquatic life:
-  (q) prescribing conditions and rentals payable in respect of fishing competitions generally; and authorising the Director-General to prescribe such conditions and rentals in respect of the Taupo Fishery; and authorising Fish and Game Councils to prescribe such conditions and rentals in respect of waters under their respective jurisdictions.
+  (q) prescribing conditions and rentals payable in respect of fishing competitions generally; and authorising the Director-General to prescribe such conditions and rentals in respect of the Taupo Fishery; and authorising Fish and Game Councils to prescribe such conditions and rentals in respect of waters under their respective jurisdictions:
+  (r) in relation to indigenous freshwater fish,—
+    (i) specifying activities that are reasonably likely to injure or kill specified indigenous freshwater fish; and
+    (ii) regulating, restricting, or imposing conditions on those specified activities that are reasonably necessary to prevent the killing or injuring of those fish; and
+    (iii) specifying indigenous freshwater fish that are endangered and restricting or prohibiting the taking of those fish:
+  (s) specifying any requirements that must be met by a person seeking an authorisation under section 26ZHD, 26ZJA(5), or 26ZP(6):
+  (t) imposing conditions or restrictions that apply to an authorisation under section 26ZP:
+  (u) specifying freshwater fish that are noxious fish and providing for their control, regulation, or prohibition:
+  (v) imposing reporting requirements relating to the taking, injuring, killing, use, possession, or sale of specified freshwater fish.
+(1A) Before making any recommendation under subsection (1), the Minister must consult any person or organisation that the Minister considers is likely to be substantially affected by, or will be representative of the interests of people likely to be substantially affected by, the regulations.
 (2) Any such regulations—
   (a) may apply generally throughout New Zealand or New Zealand freshwaters or be made to apply only within such area or areas as may be defined in that behalf:
   (b) may apply special conditions or confer special rights in relation to fishing by specified communities.
@@ -2383,6 +2479,10 @@ A court may sentence any individual who is convicted of an offence against this 
 (2B) A notice in the Gazette made under subsection (2A) is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (3) Subject to subsection (4), for the purpose of ensuring compliance with the requirements of any regulations made under subsection (1)﻿(j), any person authorised in that behalf by the Controller and Auditor-General may, during the usual working hours of the Council, enter upon the premises of any Fish and Game Council and there inspect any books or papers belonging to or in the possession of the Council.
 (4) Before entering any premises pursuant to subsection (3), a person referred to in that section shall produce evidence of his or her appointment, if requested to do so by the person appearing to be in charge of those premises.
+(5) Subsection (6) applies if there is inconsistency between—
+  (a) a provision relating to indigenous freshwater fish in regulations made under subsection (1)﻿(b), (f), or (i); and
+  (b) a provision in Treaty settlement legislation, or a provision in regulations relating to Māori fishing rights made under the Fisheries Act 1996.
+(6) If this subsection applies, a provision described in subsection (5)﻿(b) prevails over a provision described in subsection (5)﻿(a).
 
 ### 48B Special regulations relating to South Island freshwater fisheries
 (1) The Governor-General may from time to time, by Order in Council, make regulations providing for customary Māori fishing rights with respect to freshwater fisheries within South Island fisheries waters.
@@ -2469,10 +2569,11 @@ Nothing in this Part prevents the prosecution of, and conviction for, an offence
 
 ### 51F Offences relating to spawning fish
 (1) A person must not, without a permit or an authority under this Act, or in contravention of a condition of a permit or an authority,—
-  (a) disturb or damage the spawning ground of any freshwater fish; or
+  (a) disturb a declared spawning area within the meaning of section 26ZJA(7); or
   (b) disturb or injure the eggs or larvae of any freshwater fish; or
-  (c) have in the person’s possession the eggs or larvae of any freshwater fish; or
-  (d) take, with a spear, gaff, speargun, net, trap, or similar device, any sports fish from a river or stream where sports fish are congregating or have congregated for spawning; or
+  (c) take or have in the person’s possession the eggs or larvae of any freshwater fish; or
+  (ca) disturb any sports fish that are congregating or have congregated to spawn; or
+  (d) with any spear, gaff, speargun, net, trap, or similar device, take any sports fish from a river or stream where sports fish are congregating or have congregated for spawning; or
   (e) while in the vicinity of any river or stream where sports fish are congregating or have congregated for spawning, have possession or control of any spear, gaff, speargun, net, trap, or similar device or material suitable for the taking of any sports fish, in circumstances likely to result in the taking of sports fish.
 (2) Subsection (1)﻿(a) to (c) does not apply to the taking of freshwater fish subsequently found to contain eggs or larvae.
 (3) A person who fails to comply with this section commits an infringement offence.
@@ -2939,6 +3040,24 @@ Where, immediately before the commencement of this Act, there was in existence a
 ### 1 Pending applications for concessions
 (1) All pending applications for a concession under section 17R must be dealt with and determined as if this Act had not been amended by Part 4 of the Resource Legislation Amendment Act 2017.
 (2) In this clause, an application is pending if it was received by the Minister before the commencement of Part 4 of the Resource Legislation Amendment Act 2017 and, as at that commencement, it had not been finally determined.
+
+### Part 2 — Provisions relating to Conservation (Indigenous Freshwater Fish) Amendment Act 2019
+
+### 2 Interpretation
+In this Part, commencement date means the commencement date of the Conservation (Indigenous Freshwater Fish) Amendment Act 2019.
+
+### 3 Taking of fish in accordance with prior authorisations not affected
+Section 26ZHB does not affect the taking of fish by a person in accordance with an authorisation or permit that was granted under this Act before the commencement date and that is still in force.
+
+### 4 Application of section 26ZHB(1) to whitebait fishing in conservation areas delayed
+(1) Until the date that the first notice under section 26ZHD authorising the taking of whitebait comes into force, section 26ZHB(1) does not apply to a person who fishes for whitebait from a conservation area in accordance with the Whitebait Fishing Regulations 1994 or Whitebait Fishing (West Coast) Regulations 1994.
+(2) The notice described in subclause (1) must not come into force on a date earlier than 2 years after the commencement date.
+
+### 5 Application of section 26ZHB to taking of fish in compliance with consent under Resource Management Act 1991
+Section 26ZHB does not affect a person who takes freshwater fish in order to comply with a condition of a consent that was granted under the Resource Management Act 1991 before the commencement date, if before that date, the person was not required to obtain any kind of authorisation or permit under this Act to take the fish.
+
+### 6 Application of regulations made under section 48A(1)﻿(na) to existing hydroelectricity dams
+Regulations made under section 48A(1)﻿(na) do not apply to any hydroelectricity dams constructed before the commencement date except where those regulations impose requirements that relate to the maintenance of any structure that could impede or affect the passage of freshwater fish or specified freshwater fish.
 
 ## Schedule 1 — Other enactments administered by Department
 
