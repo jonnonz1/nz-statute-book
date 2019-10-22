@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2019-03-21_
+_Consolidation as at 2019-10-22_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2664,12 +2664,14 @@ Without limiting the power to make regulations conferred by section 723, regulat
   (b)
 
 ### 318 Control and maintenance of boundary roads
-(1) Where a final reorganisation scheme under Part 1 contains provision whereby any road forms the boundary of 2 or more districts, whether that road is wholly within one or is partly within one and is partly within another of those districts, the Commission, if so requested by any territorial authority affected by the scheme, may determine—
-  (a) in which council or councils the road shall vest; and
-  (b) which council or councils shall control the road; and
-  (c) whether any other council shall contribute to the cost of the construction, maintenance, lighting, widening, reconstruction, or upgrading of that road, and if so, in what proportions.
-(2) Where the Commission determines, pursuant to subsection (1)﻿(c) that any council is liable to pay any proportion of the cost of construction, maintenance, lighting, widening, or reconstruction, or upgrading of a road, the amount of that proportion shall be recoverable from that council in any court of competent jurisdiction as a debt due to the council having control of the road.
-(3) On the commencement of this Part, all warrants made under section 120 of the Public Works Act 1928 before the commencement of this Part shall remain in force until such time as they are either revoked by the Minister, by notice in the Gazette, or amended by an Order in Council made under section 36 giving effect to a final reorganisation scheme.
+[Repealed]
+
+### 318A Transfer of responsibilities between regional councils and territorial authorities
+(1) A regional council may transfer 1 or more of its responsibilities under this Part to a territorial authority under section 17 of the Local Government Act 2002.
+(2) A territorial authority may transfer 1 or more of its responsibilities under this Part to a regional council under section 17 of the Local Government Act 2002.
+(3) In this section, responsibility means any responsibility, duty, or legal obligation under this Act and includes—
+  (a) a responsibility that has previously been transferred under section 17 of the Local Government Act 2002; and
+  (b) any powers associated with the responsibility, duty, or legal obligation.
 
 **Formation, alteration, stopping, and closing of roads**
 
