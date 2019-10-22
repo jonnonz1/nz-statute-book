@@ -1,5 +1,5 @@
 # Freedom Camping Act 2011
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-10-22_
 
 ### 1 Title
 This Act is the Freedom Camping Act 2011.
@@ -66,7 +66,7 @@ In this Act, unless the context requires another meaning,—
 (1) In this Act, local authority area—
   (a) means an area of land—
     (i) that is within the district or region of a local authority; and
-    (ii) that is controlled or managed by the local authority under any enactment; and
+    (ii) that is controlled or managed by or on behalf of the local authority under any enactment; and
   (b) includes any part of an area of land referred to in paragraph (a); but
   (c) does not include an area of land referred to in paragraph (a) or (b) that is permanently covered by water.
 (2) Despite subsection (1), in this Act, local authority area, in relation to the Auckland Council,—
