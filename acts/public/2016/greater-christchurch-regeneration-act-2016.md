@@ -1,5 +1,5 @@
 # Greater Christchurch Regeneration Act 2016
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-22_
 
 ### 1 Title
 This Act is the Greater Christchurch Regeneration Act 2016.
@@ -1183,7 +1183,7 @@ The provisions in Schedule 5 have effect in relation to Regenerate Christchurch.
 (2) The successor organisation must—
   (a) be a council-controlled organisation that is owned or controlled by Christchurch City Council; and
   (b) be nominated for the purpose by Christchurch City Council.
-(3) Section 56 of the Local Government Act 2002 does not apply to the establishment of the successor organisation.
+(3) Section 58 of the Local Government Act 2002 does not apply to the establishment of the successor organisation.
 
 ### 135 Regenerate Christchurch’s income exempt from income tax
 Income derived by Regenerate Christchurch is exempt income for the purposes of the Income Tax Act 2007.
