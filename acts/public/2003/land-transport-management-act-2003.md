@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-22_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -142,7 +142,10 @@ In order to recognise and respect the Crown’s responsibility to take appropria
     (b) when used in—
       (i) Parts 2 and 4, includes a unitary authority except the Auckland Council:
       (ii) Part 3, includes a unitary authority:
-      (iii) Part 5, includes Auckland Transport, a unitary authority except the Auckland Council, and any territorial authority to which the regional council has transferred the functions, powers, and duties of a regional council under that Part
+      (iii) Part 5, includes—
+        (A) Auckland Transport:
+        (B) a unitary authority except the Auckland Council:
+        (C) any territorial authority to which the regional council has transferred the functions, powers, and duties of a regional council under that Part
   - **regional land transport plan** means a regional land transport plan prepared under Part 2, as from time to time amended or varied
   - **regional public transport plan** means a regional public transport plan adopted under section 119, as from time to time varied or renewed
   - **regional transport committee** means—
@@ -214,6 +217,13 @@ This Act binds the Crown.
 (2) Sections 13 to 18H (which relate to regional land transport plans) apply with the necessary modifications to the Chatham Islands Council as if that council were a unitary authority to which paragraph (b)﻿(i) of the definition of regional council in section 5(1) applies, except that the Chatham Islands Council, rather than a regional transport committee, prepares and consults on a regional land transport plan for the Chatham Islands.
 (3)
 (4) Nothing in sections 105 to 107 (which relate to regional transport committees) applies to the Chatham Islands Council.
+
+### 7B Transfer of responsibilities between regional councils and territorial authorities
+(1) A regional council may transfer 1 or more of its responsibilities under this Act to a territorial authority under section 17 of the Local Government Act 2002.
+(2) A territorial authority may transfer 1 or more of its responsibilities under this Act to a regional council under section 17 of the Local Government Act 2002.
+(3) In this section, responsibility means any responsibility, duty, or legal obligation under this Act and includes—
+  (a) a responsibility that has previously been transferred under section 17 of the Local Government Act 2002; and
+  (b) any powers associated with the responsibility, duty, or legal obligation.
 
 ## Part 2 — Planning and funding of land transport system
 
