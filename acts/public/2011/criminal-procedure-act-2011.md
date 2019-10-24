@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -2178,6 +2178,7 @@ The duty of an appeal court to determine an appeal under subparts 2 to 10 is sub
   (a) making or refusing to make an order under section 79 (as to admissibility of evidence):
   (b) granting or refusing to grant permission under section 44 of the Evidence Act 2006 (which relates to the cross-examination of a complainant):
   (c) giving or refusing to give leave on an application under section 109(1)﻿(d) of the Evidence Act 2006 (which relates to the identity of a witness):
+  (ca) making or refusing to make a pre-trial witness anonymity order under section 110 of the Evidence Act 2006:
   (d) making or refusing to make a witness anonymity order under section 112 of the Evidence Act 2006.
 
 ### 216 Refusal to give leave to appeal under section 215
@@ -3425,11 +3426,12 @@ A Registrar who is also a constable has no jurisdiction to exercise any power or
 ### 375 Conviction not to be recorded for infringement offences
 (1) If a defendant is found guilty of, or pleads guilty to, an infringement offence (whether or not an infringement notice has been issued), the court—
   (a) must not convict the defendant; but
-  (b) may order the defendant to pay any fine and costs and may make any other order that the court would be authorised to order or make on convicting the defendant of that offence.
+  (b) may order the defendant to pay any fine and costs and may make any other order that the court would be authorised to order or make as if the court were able to convict a defendant of the offence.
 (2) Every reference in this or any other Act, or in any regulation or bylaw, to a conviction for an offence is, in relation to an infringement offence, deemed to be a reference to—
   (a) an order that the defendant pay a fine and costs under subsection (1)﻿(b); or
   (b) a deemed order that the defendant pay a fine and costs under section 21(5) or (5A) of the Summary Proceedings Act 1957.
 (3) However, sections 229, 244, and 246 do not apply to any deemed order that the defendant pay a fine and costs under section 21(5) or (5A) of the Summary Proceedings Act 1957.
+(3A) This section applies to every infringement offence whether or not there is an express reference to a conviction in the infringement offence provision or in any provision specifying the penalty for the infringement offence.
 (4) Subsection (1) overrides any other provision of this Act or any other Act.
 
 ### 376 Person sentenced, etc, deemed to be convicted
