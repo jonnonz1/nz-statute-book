@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2019-10-04_
+_Consolidation as at 2019-10-24_
 
 > Title
 
@@ -434,7 +434,10 @@ Except as otherwise provided by a resolution of the House of Representatives, th
   (c) who, in accordance with subsection (2), will provide information at the end of the financial year on what has been achieved with the appropriation; and
   (d) the document in which the end-of-year performance information will be presented to the House of Representatives.
 (2) End-of-year performance information on an appropriation must be provided,—
-  (a) for a multi-category appropriation, by the appropriation administrator; and
+  (a) for a multi-category appropriation,—
+    (i) by a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company if the resources from that appropriation are used by that entity, organisation, or company only; or
+    (ii) by a department if, in accordance with a direction under section 7C(2)﻿(c)﻿(i), the resources from that appropriation are used by that department only; or
+    (iii) by the appropriation administrator, in any other case; and
   (b) for an appropriation described in subsection (3), by the appropriation Minister; and
   (c) for any other appropriation, by a department, a departmental agency, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
 (3) Subsection (2)﻿(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a departmental agency, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
@@ -794,7 +797,7 @@ All financial statements and forecast financial statements included in reports a
 (2) The statement must—
   (a) relate to a period of at least 40 consecutive financial years commencing with the financial year in which the statement is prepared; and
   (b) be accompanied by—
-    (i) a statement of responsibility signed by the Secretary stating that the Treasury has, in preparing the statement under subsection (1), used its best professional judgments about the risks and the outlook; and
+    (i) a statement of responsibility signed by the Secretary stating that the Treasury has, in preparing the statement under subsection (1), used its best professional judgements about the risks and the outlook; and
     (ii) a statement of all significant assumptions underlying any projections included in the statement under subsection (1).
 
 **Investment statement**
@@ -923,7 +926,7 @@ Sections 26Q(2)﻿(b) and 26U(1) do not apply to a decision, circumstance, or st
     (ii) for the consistency with the requirements of this Part of the information contained in the update; and
     (iii) for the omission from the update under section 26V of any decision, circumstance, or statement.
 (3) The statement referred to in subsection (2)﻿(b) must be accompanied by a statement that the economic and fiscal update has been prepared by the Treasury—
-  (a) using its best professional judgments; and
+  (a) using its best professional judgements; and
   (b) on the basis of economic and fiscal information available to it before the day on which the contents of the update or the relevant aspect of the update were finalised.
 
 **Miscellaneous**
@@ -1381,6 +1384,17 @@ A department's annual report must include—
     (ii) the entity to whom those operations are transferred has not been exempted under section 45I; and
   (b) only if the Minister is satisfied that the inclusion of that information in the other entity's annual report in accordance with paragraph (a)﻿(i) does not unreasonably compromise accountability for the performance of those operations during that financial year.
 
+### Subpart 1A — Special requirements for end-of-year performance information
+
+### 45LA End-of-year performance information for newly established performance reporters
+(1) The Minister may (at the Minister’s discretion) exempt a performance reporter from the obligation to provide end-of-year performance information under section 19A if the performance reporter—
+  (a) was established during the last 4 months of a financial year; and
+  (b) is identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for the financial year.
+(2) A performance reporter that is exempted under subsection (1) must, after the end of the performance reporter’s first full financial year, provide the end-of-year performance information required by section 19C in respect of the period—
+  (a) starting from the date on which the performance reporter is established; and
+  (b) ending at the end of the performance reporter’s first full financial year.
+(3) In this section, performance reporter has the meaning given in section 19A(1).
+
 ### Subpart 2 — Application of Crown Entities Act 2004 to Schedule 4 organisations
 
 ### 45M Application of Crown Entities Act 2004 to Schedule 4 organisations
@@ -1406,7 +1420,7 @@ A department's annual report must include—
   (b) on any conditions that the Minister thinks fit.
 
 ### 45O Special provisions relating to Reserves Boards
-(1) Despite section 45M(2), section 150(3) and (4) of the Crown Entities Act 2004 does not apply to a Reserves Board (as defined by section 2 of the Reserves Act 1977) and accordingly, the Minister of Conservation is not required to present the annual financial statements of a Reserves Board to the House of Representatives.
+(1) Despite section 45M(1A), section 150(3) and (4) of the Crown Entities Act 2004 does not apply to a Reserves Board (as defined by section 2 of the Reserves Act 1977) and accordingly, the Minister of Conservation is not required to present the annual financial statements of a Reserves Board to the House of Representatives.
 (2) The Minister of Conservation must, in each year, send to each member of Parliament copies of the annual financial statements of a Reserves Board that manages a reserve in the member's electoral district.
 (3) The copies must be sent not later than 1 month after the date on which an audit report is provided by the Auditor-General on those financial statements.
 (4) The chief executive of the Department of Conservation must ensure that information about the financial performance of Reserves Boards is, in each year, included in the annual report of the Department of Conservation.
@@ -2271,23 +2285,23 @@ Despite clause 2, old section 45 must be read as if it included a requirement fo
 
 ## Schedule 4 — Organisations for the purposes of subpart 2 of Part 5
 
-| Name or description of organisation | SOI | Annual report | SP | Securities | Borrowing | Guarantees | Derivatives | Surplus |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | 139 | 150 | 153 | 161 | 162 | 163 | 164 | 165 |
-| Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |
-| Asia New Zealand Foundation |  |  |  |  |  |  |  |  |
-| Game Animal Council |  |  |  |  |  |  |  |  |
-| the Māori Trustee |  |  |  |  |  |  |  |  |
-| National Pacific Radio Trust |  |  |  |  |  |  |  |  |
-| New Zealand Fish and Game Council and Fish and Game Councils |  |  |  |  |  |  |  |  |
-| New Zealand Game Bird Habitat Trust Board |  |  |  |  |  |  |  |  |
-| New Zealand Government Property Corporation |  |  |  |  |  |  |  |  |
-| New Zealand Lottery Grants Board |  |  |  |  |  |  |  |  |
-| Ngai Tahu Ancillary Claims Trust |  |  |  |  |  |  |  |  |
-| Pacific Co-operation Foundation |  |  |  |  |  |  |  |  |
-| Pacific Island Business Development Trust |  |  |  |  |  |  |  |  |
-| Reserves Boards as defined in section 2 of the Reserves Act 1977 |  |  |  |  |  |  |  |  |
-| Te Ariki trust |  |  |  |  |  |  |  |  |
+| Name or description of organisation | SOI | SPE | Annual report | SP | Securities | Borrowing | Guarantees | Derivatives | Surplus |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 139 | 149C | 150 | 153 | 161 | 162 | 163 | 164 | 165 |
+| Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |  |
+| Asia New Zealand Foundation |  |  |  |  |  |  |  |  |  |
+| Game Animal Council |  |  |  |  |  |  |  |  |  |
+| the Māori Trustee |  |  |  |  |  |  |  |  |  |
+| National Pacific Radio Trust |  |  |  |  |  |  |  |  |  |
+| New Zealand Fish and Game Council and Fish and Game Councils |  |  |  |  |  |  |  |  |  |
+| New Zealand Game Bird Habitat Trust Board |  |  |  |  |  |  |  |  |  |
+| New Zealand Government Property Corporation |  |  |  |  |  |  |  |  |  |
+| New Zealand Lottery Grants Board |  |  |  |  |  |  |  |  |  |
+| Ngai Tahu Ancillary Claims Trust |  |  |  |  |  |  |  |  |  |
+| Pacific Co-operation Foundation |  |  |  |  |  |  |  |  |  |
+| Pacific Island Business Development Trust |  |  |  |  |  |  |  |  |  |
+| Reserves Boards as defined in section 2 of the Reserves Act 1977 |  |  |  |  |  |  |  |  |  |
+| Te Ariki trust |  |  |  |  |  |  |  |  |  |
 
 ## Schedule 4A — Non-listed companies in which Crown is majority or sole shareholder
 
