@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 2006
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Plumbers, Gasfitters, and Drainlayers Act 2006.
@@ -1369,6 +1369,9 @@ The Registrar must pay all infringement fees received into a Crown Bank Account.
 ### 135 Term of office
 (1) Each member takes office from a date specified for that purpose in the notice appointing the member or, if no date is specified in the notice, from the date on which the notice is published in the Gazette.
 (2) Each member is appointed for a term of 3 years or any shorter term as is specified in the notice of appointment, and may be reappointed from time to time, but no person is eligible to be a member for more than 9 consecutive years.
+(3) A member continues in office despite the expiry of his or her term of office until—
+  (a) a successor is appointed; or
+  (b) the member is reappointed.
 
 ### 136 Vacation of office
 (1) A member of the Board may at any time resign his or her office by giving a notice to that effect to the Minister.
@@ -1530,16 +1533,10 @@ The Board is a public entity as defined in section 4 of the Public Audit Act 200
 The Board must provide the annual report for a financial year to the Minister as soon as practicable after the end of the financial year.
 
 ### 153 Board to publish reports
-(1) The Board must, as soon as practicable after giving the annual report to the Minister under section 152,—
-  (a) publicly notify that the report has been given to the Minister and where copies of the report may be inspected and purchased; and
-  (b) make copies of the report available to the public at the place set out in the public notification, on request, for inspection free of charge and for purchase at a reasonable cost.
-(2) In this section, publicly notify means publish a notice—
-  (a) in 1 or more daily newspapers circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin; and
-  (b) in the Gazette; and
-  (c) on an Internet website maintained by or on behalf of the Board so that it is available at all reasonable times.
+As soon as practicable after giving a report to the Minister under section 152, the Board must make the report publicly available on an Internet site maintained by or on behalf of the Board.
 
 ### 154 Annual reports to be presented to House of Representatives
-The Minister must present a copy of the annual report given to him or her under section 152 to the House of Representatives no later than 12 sitting days after the date on which the Minister receives that report.
+The Minister must present a copy of the annual report given to him or her under section 152 to the House of Representatives no later than 10 sitting days after the date on which the Minister receives that report.
 
 ### 155 Power of Minister to require information relating to affairs of Board
 (1) The Board must supply to the Minister any information relating to the affairs of the Board that the Minister requests.
