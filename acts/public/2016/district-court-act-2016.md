@@ -1,5 +1,5 @@
 # District Court Act 2016
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the District Court Act 2016.
@@ -463,6 +463,10 @@ A person may be appointed as Chief Community Magistrate if he or she has held a 
 (2) Each Community Magistrate must be paid, out of public money, without further appropriation than this section,—
   (a) a salary, or a fee, or an allowance at the rate determined by the Governor-General by Order in Council; and
   (b) any additional allowances, such as travelling allowances or other incidental or minor allowances, as determined by the Governor-General by Order in Council.
+(2A) An Order in Council made under subsection (1)﻿(b) or (2), or a provision of any such order, may be made so as to come into force on a specified date that is—
+  (a) the date on which the order is made; or
+  (b) any other date, whether that date is before or after the date on which the order is made.
+(2B) If no date is specified under subsection (2A) for the coming into force of an Order in Council or a provision of any such order, the order or provision comes into force on the date on which the order is made.
 (3) An Order in Council made under subsection (1)﻿(b) or (2) is a legislative instrument, but not a disallowable instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 
 ### 61 Remuneration of acting Community Magistrate
@@ -1510,12 +1514,12 @@ A charging order has the following effect (subject, in the case of a charging or
     (i) from making, or concurring in making, or permitting any conveyance, transfer, assignment, or disposition of any estate, right, or interest, or of any share in a partnership or company, of the judgment debtor; or
     (ii) from paying over any income, interest, dividends, bonus, profits, or other money due or accruing due to the judgment debtor.
 
-### 187 Charging order in respect of land expires after 2 years
-(1) A charging order in respect of land expires 2 years from the date of the order.
+### 187 Expiry of charging order in respect of land
+(1)
 (2) A charging order expires on the earlier of the following dates:
   (a) the date that is the end of the period that is 2 years after the date on which the order was made:
   (b) when an instrument of transfer or deed of conveyance or assignment is registered following the execution of a sale order.
-(3) Despite subsection (1), the court may extend the period for which a charging order is in force beyond the 2-year period.
+(3) Despite subsection (2)﻿(a), the court may extend the period for which a charging order is in force beyond the 2-year period.
 
 ### 188 Registration of charging order over land or mining privilege
 (1) This section applies when a charging order is made in respect of the registered estate or interest of the judgment debtor in land.
@@ -1741,7 +1745,7 @@ If a person expects to be sued by 2 or more persons making adverse claims to the
 
 ### 214 Grounds for making section 213 order
 (1) A Judge may make a limited order under section 213 if, in civil proceedings about the same matter in the court, the Judge considers that at least 2 or more of the proceedings are or were totally without merit.
-(2) A Judge may make an extended order under section 213 if, in at least 2 proceedings about any matter in the court, the Judge considers that 2 or more of the proceedings are or were totally without merit.
+(2) A Judge may make an extended order under section 213 if, in at least 2 proceedings about any matter in the court, the Judge considers that the proceedings are or were totally without merit.
 (3) In determining whether the proceedings are or were totally without merit, the Judge may take into account the nature of any other interlocutory application, appeal, or criminal prosecution involving the party to be restrained, but is not limited to those considerations.
 (4) The proceedings concerned must be proceedings commenced or continued by the party to be restrained, whether against the same person or different persons.
 (5) For the purposes of this section and sections 215 and 216, an appeal in a civil proceeding must be treated as part of that proceeding and not as a distinct proceeding.
