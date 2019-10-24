@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -23,8 +23,8 @@ The purpose of this Act is to promote access to justice by establishing a system
       (ii) a person whose grant of legal aid has been withdrawn under section 30
   - **auditor** means a person employed or appointed by the Secretary for the purpose of conducting examinations or audits, or both
   - **capital** , in relation to a person, means that person's capital—
-    (a) as defined in Schedule 1; or
-    (b) as defined in regulations if the person is charged with or convicted of a prescribed offence
+    (a) as defined in Schedule 1
+    (b)
   - **civil proceedings** includes—
     (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Family Violence Act 2018, the Care of Children Act 2004, the Canterbury Earthquakes Insurance Tribunal Act 2019, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
     (b) proceedings under the Oranga Tamariki Act 1989, other than proceedings in respect of an offence; and
@@ -43,13 +43,13 @@ The purpose of this Act is to promote access to justice by establishing a system
     (c) proceedings for contempt under section 163 of the District Court Act 2016:
     (d) proceedings before a District Court Judge under the Extradition Act 1999 relating to the surrender to a foreign country of the person to whom the proceedings relate
   - **disposable capital** , in relation to a person, means that person's disposable capital—
-    (a) as defined in Schedule 1; or
-    (b) as defined in regulations if the person is charged with or convicted of a prescribed offence
+    (a) as defined in Schedule 1
+    (b)
   - **former Act** means the Legal Services Act 2000
   - **grant of legal aid** , and any similar expression, means a grant of legal aid under this Act, the former Act, or the Legal Services Act 1991; and includes any amendments to that grant
   - **income** , in relation to a person, means that person's income—
-    (a) as defined in Schedule 1; or
-    (b) as defined in regulations if the person is charged with or convicted of a prescribed offence
+    (a) as defined in Schedule 1
+    (b)
   - **interim repayment** means the amount that an aided person is required to pay to the Commissioner under section 18(1) as a condition of a grant of legal aid
   - **lawyer** has the meaning given to it in section 6 of the Lawyers and Conveyancers Act 2006
   - **lead provider** , in relation to a grant of legal aid, means the provider identified in the grant as the lead provider for that matter
@@ -71,7 +71,6 @@ The purpose of this Act is to promote access to justice by establishing a system
   - **offender** , in relation to a victim, means a person convicted of the crime or offence that affected the victim
   - **practice standards** means standards approved by the Secretary that relate to the delivery and provision of legal aid services and specified legal services
   - **prescribed manner** means the manner prescribed by the Secretary
-  - **prescribed offence** means an offence prescribed in regulations for the purposes of section 9
   - **prescribed repayment amount** is the amount, based on income and capital, set by regulations for the purposes of sections 20(1) and 21
   - **proceeds of proceedings** , in relation to civil proceedings for which legal aid has been granted, means—
     (a) any money or property to which the aided person is entitled under a judgment or out-of-court settlement relating to the proceedings; and
@@ -221,16 +220,7 @@ Legal aid may be granted in respect of the following criminal matters:
 (5) Despite subsection (1)﻿(a), the Commissioner may not grant legal aid to a child or a young person (as those terms are defined in section 2(1) of the Oranga Tamariki Act 1989) in respect of any proceedings against that child or young person for an offence, if those proceedings are heard in the Youth Court.
 
 ### 9 Prescribed offences
-(1) If an applicant is charged with or convicted of a prescribed offence, the Commissioner must determine, in the manner set out in regulations, whether the applicant has sufficient means to enable him or her to obtain legal assistance unless subsection (2) applies.
-(2) However, the Commissioner must determine or, if the case requires, redetermine the applicant's means in accordance with section 8(3) if—
-  (a) the Commissioner considers it possible that the cost of services for the grant may exceed the prescribed maximum grant:
-  (b) an application for an amendment to the grant is made that would result in the cost of services exceeding the prescribed maximum grant:
-  (c) the Commissioner considers that the cost of services exceeds the prescribed maximum grant:
-  (d) the Commissioner receives new information about the applicant's financial circumstances that would suggest that the applicant has sufficient means to enable him or her to obtain legal assistance:
-  (e) the application for the grant of legal aid is in respect of an appeal:
-  (f) any circumstances prescribed in regulations apply.
-(3) In this section, prescribed maximum grant means the maximum amount of legal aid prescribed in regulations that may be granted for a prescribed offence.
-(4) To avoid doubt, a redetermination under subsection (2) is not a new application for legal aid.
+[Repealed]
 
 ### 10 When legal aid may be granted: civil matters
 (1) The Commissioner must, subject to this section and sections 11 to 13, grant legal aid to an applicant in respect of proceedings to which section 7 applies (civil matters) if the applicant is—
@@ -378,8 +368,8 @@ If the Commissioner has declined an application for legal aid under this Act, th
   (a) applications for legal aid that come within any of paragraphs (a) to (e)﻿(ii) of the definition of specified application in section 4(1); or
   (b) applications for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
   (c) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section; or
-  (d) a grant made in the manner authorised by section 16A(1); or
-  (e) applications for legal aid by a person who is charged with or convicted of a prescribed offence and to whom section 9(2) does not apply.
+  (d) a grant made in the manner authorised by section 16A(1).
+  (e)
 
 ### 18A User charge payable by aided person
 (1) Every grant of legal aid for a civil matter, other than a grant to which subsection (4) applies, is subject to the condition that the aided person pay a user charge of the prescribed amount to the lead provider.
@@ -425,7 +415,7 @@ If the Commissioner has declined an application for legal aid under this Act, th
   (b) the prescribed repayment amount minus the amounts referred to in paragraph (a)﻿(i) and (ii).
 (5) The prescribed repayment amount referred to in subsection (2)﻿(a) is zero in respect of victims' claims proceedings.
 (6) Subsection (4) does not apply to victims' claims proceedings.
-(7) If an aided person was granted legal aid for a prescribed offence and the Commissioner is required by section 9(2) to redetermine the person's means, the cost of services for the purposes of calculating a repayment under subsection (4) includes the cost of services calculated under the grant before the aided person's means were redetermined.
+(7)
 
 ### 22 Lead providers
 If more than 1 provider provides services under a grant of legal aid, any obligation of the Commissioner to pay or to communicate with a person providing services under the grant is owed only to the lead provider, and not to any other provider.
@@ -1436,12 +1426,9 @@ Every provider or former provider commits an offence and is liable on conviction
     (ii) the performance review committee:
     (iii) the Review Authority:
   (r) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act in relation to the operation of the Tribunal, such as its administration and the procedure for reviews conducted by the Tribunal:
-  (s) prescribing the types of offences that are prescribed offences for the purposes of section 9:
-  (t) prescribing definitions of capital, income, and disposable capital to be applied for prescribed offences:
-  (u) in relation to a prescribed offence,—
-    (i) setting out the manner in which the Commissioner must determine whether the applicant has sufficient means for the purposes of section 9(1):
-    (ii) prescribing the maximum amount of legal aid that may be granted:
-    (iii) prescribing the circumstances in which the Commissioner must, under section 9(2), determine or redetermine an applicant's means in accordance with section 8(3):
+  (s)
+  (t)
+  (u)
   (v) prescribing transitional or savings provisions relating to the coming into force of this Act:
   (w) prescribing the time frame or time frames in which claims for payment for legal aid services or specified legal services may be made, and different time frames may be prescribed for different classes, stages, or levels of complexity of services provided:
   (x) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
