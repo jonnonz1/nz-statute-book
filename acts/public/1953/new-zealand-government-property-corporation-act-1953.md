@@ -1,5 +1,5 @@
 # New Zealand Government Property Corporation Act 1953
-_Consolidation as at 2005-01-25_
+_Consolidation as at 2019-10-24_
 
 > An Act to establish a corporation to hold New Zealand Government property within and outside New Zealand
 
@@ -9,7 +9,7 @@ This Act may be cited as the New Zealand Government Property Corporation Act 195
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **Corporation** means the New Zealand Government Property Corporation established by this Act
-  - **licence or authority** means any licence, permit, right, privilege, or authority which can be granted by Her Majesty or by any Government, or by any court, or by any public or local authority, or by any other person, whether in New Zealand or elsewhere; and includes any patent, copyright, trade mark, or registered design
+  - **licence or authority** means any licence, permit, right, privilege, or authority which can be granted by the Sovereign or by any Government, or by any court, or by any public or local authority, or by any other person, whether in New Zealand or elsewhere; and includes any patent, copyright, trade mark, or registered design
   - **Minister** means a Minister of the Crown who is a member of the Executive Council of New Zealand
   - **property** includes real and personal property, and any estate or interest in any real or personal property, and any debt, and any thing in action, and any licence or authority, and any other right or interest.
 
@@ -22,7 +22,7 @@ In this Act, unless the context otherwise requires,—
 ### 4 Powers of Corporation
 It shall be lawful for the Corporation—
   (a) to purchase, take on lease, be granted, accept, or acquire in any way any property required for any public purpose:
-  (b) to accept or acquire in any way any property vested in or held on behalf of Her Majesty the Queen in right of New Zealand, whether held in the name of Her Majesty, or the Crown, or the Government of New Zealand, or any Minister, or in any other name:
+  (b) to accept or acquire in any way any property vested in or held on behalf of the Sovereign in right of New Zealand, whether held in the name of the Sovereign, or the Crown, or the Government of New Zealand, or any Minister, or in any other name:
   (c) to hold, improve, manage, develop, alter, extend, equip, furnish, repair, and maintain any property vested in the Corporation:
   (d) to enter into any covenants or agreements in respect of any property vested or to be vested in the Corporation:
   (e) to sell, exchange, convey, transfer, assign, lease, dispose of, turn to account, or otherwise deal with any property vested in the Corporation:
@@ -30,25 +30,25 @@ It shall be lawful for the Corporation—
   (g) to do all such other things as are incidental or conducive to the exercise of the powers of the Corporation.
 
 ### 5 Power to vest New Zealand Government property in Corporation
-(1) Notwithstanding anything to the contrary in any Act, it shall be lawful for any property vested in or held on behalf of Her Majesty in right of New Zealand, whether held in the name of Her Majesty, or the Crown, or the Government of New Zealand, or any Minister, or in any other name, to be transferred, conveyed, or assigned to or otherwise vested in the Corporation, and for any property which can lawfully be vested in or granted to Her Majesty in right of New Zealand, or any person on behalf of Her Majesty in right of New Zealand, to be vested in or granted to the Corporation.
-(2) Without limiting the generality of subsection (1), it is hereby declared that it shall be lawful for the Corporation to transfer, convey, or assign to itself, or otherwise to vest in itself, any property outside New Zealand vested in or held on behalf of Her Majesty in right of New Zealand, whether held in the name of Her Majesty, or the Crown, or the Government of New Zealand, or any Minister, or in any other name. A document purporting to be executed by or on behalf of the Corporation pursuant to this subsection in relation to any property shall be deemed to have been duly executed on behalf of, and shall bind, Her Majesty and the legal owner of the property.
+(1) Notwithstanding anything to the contrary in any Act, it shall be lawful for any property vested in or held on behalf of the Sovereign in right of New Zealand, whether held in the name of the Sovereign, or the Crown, or the Government of New Zealand, or any Minister, or in any other name, to be transferred, conveyed, or assigned to or otherwise vested in the Corporation, and for any property which can lawfully be vested in or granted to the Sovereign in right of New Zealand, or any person on behalf of the Sovereign in right of New Zealand, to be vested in or granted to the Corporation.
+(2) Without limiting the generality of subsection (1), it is hereby declared that it shall be lawful for the Corporation to transfer, convey, or assign to itself, or otherwise to vest in itself, any property outside New Zealand vested in or held on behalf of the Sovereign in right of New Zealand, whether held in the name of the Sovereign, or the Crown, or the Government of New Zealand, or any Minister, or in any other name. A document purporting to be executed by or on behalf of the Corporation pursuant to this subsection in relation to any property shall be deemed to have been duly executed on behalf of, and shall bind, the Sovereign and the legal owner of the property.
 
 ### 6 Corporation may exercise powers of legal owner of Government property outside New Zealand
-(1) Where any property outside New Zealand is held by or on behalf of Her Majesty in right of New Zealand, whether held in the name of Her Majesty, or the Crown, or the Government of New Zealand, or any Minister, or in any other name other than the name of the Corporation, the Corporation may from time to time, on behalf of Her Majesty and the legal owner of the property, exercise any powers, functions, and rights (including any power of disposal) and undertake and perform any liabilities in respect of or in connection with the property which could be exercised, undertaken, or performed by Her Majesty or the legal owner of the property.
-(2) A document purporting to be executed by or on behalf of the Corporation pursuant to this section in relation to any property shall be deemed to have been duly executed on behalf of, and shall bind, Her Majesty and the legal owner of the property.
+(1) Where any property outside New Zealand is held by or on behalf of the Sovereign in right of New Zealand, whether held in the name of the Sovereign, or the Crown, or the Government of New Zealand, or any Minister, or in any other name other than the name of the Corporation, the Corporation may from time to time, on behalf of the Sovereign and the legal owner of the property, exercise any powers, functions, and rights (including any power of disposal) and undertake and perform any liabilities in respect of or in connection with the property which could be exercised, undertaken, or performed by the Sovereign or the legal owner of the property.
+(2) A document purporting to be executed by or on behalf of the Corporation pursuant to this section in relation to any property shall be deemed to have been duly executed on behalf of, and shall bind, the Sovereign and the legal owner of the property.
 
 ### 6A Power to borrow
-(1) The Corporation may, for the purpose of obtaining funds to be used in the exercise, in respect of property outside New Zealand, of any of the powers conferred on it by section 4 or section 6, borrow money outside New Zealand by way of overdraft or otherwise and issue debentures or other securities or mortgage or charge any of its property and any property in respect of which the Corporation has power under section 6 to execute a document binding Her Majesty and the legal owner of the property.
+(1) The Corporation may, for the purpose of obtaining funds to be used in the exercise, in respect of property outside New Zealand, of any of the powers conferred on it by section 4 or section 6, borrow money outside New Zealand by way of overdraft or otherwise and issue debentures or other securities or mortgage or charge any of its property and any property in respect of which the Corporation has power under section 6 to execute a document binding the Sovereign and the legal owner of the property.
 (2) The Minister of Finance may from time to time on behalf of the Crown give in respect of any advances made to the Corporation any guarantee, indemnity, or security on and subject to such terms and conditions as that Minister thinks fit.
 (3) Any money required to be paid by the Minister of Finance by virtue of any guarantee, indemnity, or security given by him under subsection (2) shall, without further appropriation than this section, be paid out of a Crown Bank Account.
 
 ### 7 Corporation to be a government department
 (1) The Corporation is hereby declared to be an instrument of the Executive Government of New Zealand, and a government department within the meaning of the Crown Proceedings Act 1950.
-(2) The Corporation shall not be bound by any Act that is not binding on Her Majesty in right of New Zealand, and shall be entitled to all rights, privileges, exemptions, and immunities of Her Majesty in right of New Zealand (including exemptions from taxation and rates).
+(2) The Corporation shall not be bound by any Act that is not binding on the Sovereign in right of New Zealand, and shall be entitled to all rights, privileges, exemptions, and immunities of the Sovereign in right of New Zealand (including exemptions from taxation and rates).
 
 ### 8 Merger
-(1) Where any estate or interest in any property is vested in the Corporation and any other estate or interest in the same property is held by or on behalf of Her Majesty, whether vested in the Corporation or not, there shall be no merger unless the contrary intention is expressed.
-(2) Any licence or authority granted by or on behalf of Her Majesty may lawfully be granted to or vested in the Corporation, notwithstanding that the Corporation is an instrument of the Executive Government; and where any such licence or authority is granted to or vested in the Corporation it shall not be deemed to be surrendered or relinquished by reason only of the Corporation being an instrument of the Executive Government.
+(1) Where any estate or interest in any property is vested in the Corporation and any other estate or interest in the same property is held by or on behalf of the Sovereign, whether vested in the Corporation or not, there shall be no merger unless the contrary intention is expressed.
+(2) Any licence or authority granted by or on behalf of the Sovereign may lawfully be granted to or vested in the Corporation, notwithstanding that the Corporation is an instrument of the Executive Government; and where any such licence or authority is granted to or vested in the Corporation it shall not be deemed to be surrendered or relinquished by reason only of the Corporation being an instrument of the Executive Government.
 
 ### 9 Contracts of Corporation
 (1) Any contract which, if made between private persons, must be by deed shall, if made by the Corporation, be in writing under the common seal of the Corporation.
@@ -60,7 +60,7 @@ It shall be lawful for the Corporation—
 (2) Any document which, if executed by a private person, would not require to be executed as a deed may be signed on behalf of the Corporation by a Minister or by any person authorized in that behalf by a Minister.
 
 ### 11 Execution of documents by attorney
-(1) The Corporation may, by writing under its common seal, empower any person, either generally or in respect of any specified matters, as its attorney, to execute documents on its behalf in any place outside New Zealand, including documents executed pursuant to section 6.
+(1) The Corporation may, by writing under its common seal, empower any person, either generally or in respect of any specified matters, as its attorney, to execute documents on its behalf, including documents executed pursuant to section 6.
 (2) A document executed by such an attorney on behalf of the Corporation shall bind the Corporation, and if executed as a deed shall have the same effect as if it were under the common seal of the Corporation.
 
 ### 12 Evidence of documents
