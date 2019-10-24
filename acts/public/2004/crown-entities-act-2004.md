@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1789,22 +1789,20 @@ The Archives Act 1957 applies to a Crown entity that is a government office for 
 **Transitional and savings provisions**
 
 ### 182 Existing members exempt from qualification requirements
-Every member of a statutory entity or Crown entity company or a Crown entity subsidiary in office at the commencement of this section may continue in office for the remainder of his or her current term of office as if sections 30 and 89 had not been enacted.
+[Repealed]
 
 ### 183 Term of office of existing members other than ex officio members
-Every member of a statutory entity (other than an ex officio member) in office at the commencement of this section may continue in office for the remainder of his or her current term of office as if section 32(1) had not been enacted.
+[Repealed]
 
 ### 184 Term of office of existing ex officio members
-(1) Every ex officio member of a statutory entity (other than the Secretary for Justice who is an ex officio member of the Electoral Commission) who is in office at the date of commencement of this section ceases to be a member on that date.
-(2) An ex officio member is not entitled to any compensation or other payment or benefit relating to his or her ceasing to be an ex officio member under this section.
-(3) In this section and sections 183, 185, and 186, an ex officio member is a member who holds office as a member because he or she is a representative of any part of the Public Service.
+[Repealed]
 
 ### 185 Term of office of existing chairpersons and deputy chairpersons
 Every chairperson and deputy chairperson of a statutory entity (other than an ex officio member) in office at the commencement of this section is not affected by any change in the method of appointment of the person under this Act.
 
 ### 186 Continuation of existing board committees
 (1) Every committee that exists at the commencement of this section continues in existence under this Act until it is disestablished under this Act.
-(2) Every member of the committee (other than an ex officio member) who is in office at that date continues in office under this Act until the person is removed under this Act or his or her term of office expires.
+(2) Every member of the committee (other than a member who holds office because the person is a representative of any part of the Public Service) who is in office at that date continues in office under this Act until the person is removed under this Act or his or her term of office expires.
 
 ### 187 Continuation of existing employment
 A person who is, at the commencement of this section, an employee of a statutory entity, does not cease to be an employee because of the coming into force of this Act.
@@ -1839,14 +1837,10 @@ Subpart 3 of Part 2 does not apply to any company that is a Crown entity subsidi
   (b) a date specified by the Minister of Finance by notice in the Gazette (if the notice is given within that 3 years).
 
 ### 195 Existing bank accounts
-There is a period of grace of 6 months after section 158 comes into force during which—
-  (a) a Crown entity must continue to comply with section 24 of the Public Finance Act 1989, and (or, as the case may be, or) its entity's Act (if relevant), as if this Act and the Public Finance Amendment Act 2004 had not been passed; and
-  (b) neither section 158, nor any amendment of an entity's Act in relation to bank accounts in Schedule 6 of this Act, apply to a Crown entity.
+[Repealed]
 
 ### 196 Existing law on securities, borrowing, guarantees, indemnities, and derivative transactions continues to apply until 1 April 2005
-(1) This section applies to the period between the date on which this section comes into force and the start of 1 April 2005 (which is the date on which the new rules in sections 160 to 164 relating to securities, borrowing, guarantees, indemnities, and derivative transactions apply) (the transitional period).
-(2) The rules relating to securities, borrowing, guarantees, indemnities, and derivative transactions that would have applied if this Act and the Public Finance Amendment Act 2004 had not been enacted continue to apply during the transitional period.
-(3) Therefore, for example, the Crown entity must comply, during the transitional period, with the rules relating to those things that were in the Public Finance Act 1989 or the entity's Act, as the case may be, immediately before the commencement of this section.
+[Repealed]
 
 ### 197 Continuation of pre-1 April 2005 securities, borrowing, guarantees, indemnities, and derivative transactions
 (1) This section applies to any security, borrowing, guarantee, indemnity, or derivative transaction that a Crown entity has lawfully acquired, given, or entered into before 1 April 2005 that the Crown entity would be restricted from having, acquiring, giving, or entering into under this Act after sections 160 to 164 apply.
