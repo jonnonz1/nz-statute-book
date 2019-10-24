@@ -1,5 +1,5 @@
 # Burial and Cremation Act 1964
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-24_
 
 > An Act to consolidate and amend the law relating to the burial and cremation of the dead
 
@@ -243,9 +243,10 @@ A local authority may expend such money as it thinks fit for the purposes of cle
   (a) in the case of a specified not-for-profit entity, generally accepted accounting practice; or
   (b) in any other case, either generally accepted accounting practice or a non-GAAP standard that applies for the purposes of this section.
 
-### 29B Financial statements must be audited
-(1) Trustees must ensure that the financial statements of the trustees are audited.
-(2) Trustees are public entities as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
+### 29B Audits
+(1) Subsection (2) applies, for a financial year, to trustees of cemeteries that have total operating expenditure for the financial year of $1 million or more.
+(2) Trustees must ensure that the financial statements for the financial year are audited.
+(3) Trustees are public entities as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
 
 ### 30 Bylaws made by trustees
 (1) No bylaw made by trustees under this Act shall take effect until it has been approved by the Minister and his approval has been publicly notified.
