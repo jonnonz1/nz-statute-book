@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2018-12-21_
+_Consolidation as at 2019-10-24_
 
 > Title
 
@@ -182,8 +182,8 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
 (2) Where—the informant may serve on the person or one of the persons served with the infringement notice, or a copy of the infringement notice, a reminder notice that contains the same or substantially the same particulars as the infringement notice.
   (a) an infringement notice has been issued in respect of an infringement offence; and
   (b) on the expiration of 28 days from the date of service of the notice, or a copy of the notice,—
-    (i) the infringement fee for the offence has not been paid to the informant at the address specified in the notice; and
-    (ii) the informant has not received at that address a notice requesting a hearing in respect of the offence,—
+    (i) the infringement fee for the offence has not been paid to the informant by a payment method specified in the notice; and
+    (ii) the informant has not received, at the address specified in the infringement notice, a notice requesting a hearing in respect of the offence,—
 (2AA) The reminder notice referred to in subsection (2) and subsection (3C) must,—
   (a) if a form has been prescribed in any other Act or in regulations made under any other Act for the relevant infringement offence or the relevant class of infringement offences, be in that form; or
   (b) if no form has been so prescribed, be in the general form prescribed in regulations made under this Act.
@@ -191,8 +191,8 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
 (3) The informant may provide particulars of the reminder notice in accordance with subsections (4) and (4A) if—
   (a) a reminder notice has been served under subsection (2); and
   (b) on the expiration of 28 days from the date of service of that notice,—
-    (i) the infringement fee for the offence has not been paid to the informant at the address specified in the notice; and
-    (ii) the informant has not received at that address a notice requesting a hearing in respect of the offence.
+    (i) the infringement fee for the offence has not been paid to the informant by a payment method specified in the notice; and
+    (ii) the informant has not received, at the address specified in the infringement notice, a notice requesting a hearing in respect of the offence.
 (3A) If—the informant may, but is not required to, enter into an arrangement allowing the infringement fee to be paid to the informant by instalments.
   (a) the informant has not provided particulars of a reminder notice under subsection (3), in accordance with subsections (4) and (4A); and
   (b) the informant has instituted the necessary management and accounting systems to allow the infringement fee to be paid to the informant by instalments,—
@@ -204,7 +204,7 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
   (b) serve on the defendant or 1 of the defendants served with the infringement notice, or a copy of the infringement notice, a reminder notice in the prescribed form containing the same or substantially the same particulars as the infringement notice.
 (3D) The informant may provide particulars of the reminder notice in accordance with subsections (4) and (4A) if—
   (a) a reminder notice has been served under subsection (3C)﻿(b); and
-  (b) on the expiration of 28 days from the date of service of that notice, the infringement fee for the infringement offence has not been paid to the informant at the address specified in the notice.
+  (b) on the expiration of 28 days from the date of service of that notice, the infringement fee for the infringement offence has not been paid to the informant by a payment method specified in the notice.
 (4) For the purposes of subsections (1), (3), and (3D) and subsections (4A) to (5A), the particulars of a reminder notice are—
   (a) the contents of the reminder notice, or such parts of the reminder notice that are prescribed as the particulars for the purposes of this subsection; and
   (b) any particulars relating to the service of the infringement notice and reminder notice that may be prescribed; and
@@ -236,12 +236,14 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
     (i) the Criminal Procedure Act 2011 and the Costs in Criminal Cases Act 1967 apply, with any necessary modifications:
     (ii) the notice of hearing is to be treated as if it were a charging document:
     (iii) a copy of the notice served on the defendant under paragraph (b) is to be treated as if it were a summons to the defendant:
-    (iv) a notice of the defendant filed in the court under paragraph (c) is to be treated as if it were a notice of the defendant pleading guilty to the offence under section 38 of the Criminal Procedure Act 2011.
+    (iv) a notice of the defendant filed in the court under paragraph (c) is to be treated as if it were a notice of the defendant pleading guilty to the offence under section 38(1) of the Criminal Procedure Act 2011, but—
+      (A) section 38(2) of the Criminal Procedure Act 2011 does not apply; and
+      (B) despite sections 117 and 118 of the Criminal Procedure Act 2011, the defendant is not required or entitled to appear before the court hearing the proceedings.
 (9) Where a defendant is found guilty of, or pleads guilty to, an infringement offence for which an infringement notice has been issued, the court shall order the defendant to pay costs of the prescribed amount in addition to the fine (if any) and other costs (if any) ordered by the court.
 (10) In any proceedings for an infringement offence for which an infringement notice has been issued—
-  (a) it shall be a defence if the defendant proves that the infringement fee for the offence has been paid to the informant at the address specified in the notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence:
+  (a) it shall be a defence if the defendant proves that the infringement fee for the offence has been paid to the informant by a payment method specified in the notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence:
   (b) it shall not be a defence that the infringement fee for the offence has been paid otherwise than as referred to in paragraph (a).
-(11) Where an infringement fee is paid to the informant at the address specified in the infringement notice but not within the time referred to in subsection (10)﻿(a), the amount paid may be held and applied towards any fine or costs that the defendant may become liable to pay in respect of the offence.
+(11) Where an infringement fee is paid to the informant by a payment method specified in the infringement notice but not within the time referred to in subsection (10)﻿(a), the amount paid may be held and applied towards any fine or costs that the defendant may become liable to pay in respect of the offence.
 (12) In any proceedings for an infringement offence for which an infringement notice has been issued it shall be presumed, unless the contrary is proved, that—
   (a) the infringement notice in respect of the offence has been duly issued, and the notice, or a copy of the notice, has been served on the defendant:
   (b) any reminder notice or copy of a notice of hearing required to have been served on the defendant has been duly served:
@@ -252,6 +254,11 @@ The transitional, savings, and related provisions set out in Schedule 1 have eff
 In any proceedings, a computer printout of the particulars of a reminder notice deemed to have been filed in a court under section 21(4C), sealed with the seal of the court and purporting to be signed and certified by the Registrar of that court as a printout that may be used for the purposes of this section, is, in all courts, in the absence of evidence to the contrary, sufficient evidence of—
   (a) those particulars having been provided and verified in accordance with section 21:
   (b) the reminder notice deemed to have been filed in a court and the order deemed to have been made as a consequence.
+
+### 21B Requirements for infringement notices regarding payment method
+If an Act provides that an infringement notice or a reminder notice must contain an address or a place at which an infringement fee may be paid, that requirement is, and always has been, satisfied if the infringement notice—
+  (a) specifies 1 or more methods (whether at a physical place or by post or electronic or other means) by which an infringement fee may be paid; or
+  (b) provides for the informant or other person who is entitled to issue the notice to specify in the notice the method or methods (whether at a physical place or by post or electronic or other means) by which an infringement fee may be paid.
 
 ### 22 To whom warrant to be directed and power of person executing warrant to enter premises
 [Repealed]
@@ -534,7 +541,7 @@ Where a document is served on any person who is a Maori within the meaning of Te
       (B) had made the request within a time that would reasonably enable the informant to respond before the earliest time at which the informant would be entitled to take action under section 21(3); and
       (C) believed on reasonable grounds that the informant had not refused to provide the requested information and that action would not be taken under section 21(3) before that information had been provided; and
       (D) was not provided with the information before action was taken under section 21(3); or
-    (viii) the defendant paid the infringement fee to the informant at the address specified in the infringement notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence to which the notice relates; or
+    (viii) the defendant paid the infringement fee to the informant by a payment method specified in the infringement notice before or within 28 days after service on the defendant of a reminder notice in respect of the offence to which the notice relates; or
   (b) the informant applies to a District Court Judge or Registrar to withdraw the reminder notice filed or deemed to have been filed under section 21.
 (1A) No more than 1 application, made in reliance on the ground stated in subsection (1)﻿(a)﻿(ii), may be granted in respect of the same defendant for the same infringement offence.
 (1B) An application under subsection (1) may be made—
