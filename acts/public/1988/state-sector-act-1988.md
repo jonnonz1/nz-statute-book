@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2019-01-01_
+_Consolidation as at 2019-10-24_
 
 > Title
 
@@ -541,7 +541,7 @@ The Governor-General may, by Order in Council, provide for savings and transitio
 (1) Every chief executive shall be appointed for a term of not more than 5 years.
 (2) Every chief executive shall be eligible for reappointment from time to time.
 (3) Except where specific conditions of employment for a chief executive are provided in this Act, the conditions of employment of a chief executive shall be determined in each case by agreement between the Commissioner and the chief executive, but the Commissioner must consult the Prime Minister and the Minister of State Services about the conditions of employment before finalising those conditions of employment with the chief executive.
-(4) In the case of the Government Statistician, the Commissioner shall not be required to obtain the agreement of the Prime Minister and the Minister of State Services before finalising the conditions of employment of the Government Statistician.
+(4) In the case of the Government Statistician, the Commissioner shall not be required to consult the Prime Minister and the Minister of State Services before finalising the conditions of employment of the Government Statistician.
 
 ### 39 Removal from office
 (1) The Commissioner may, with the agreement of the Governor-General in Council, for just cause or excuse, remove the chief executive of a department or departmental agency from office.
@@ -789,7 +789,7 @@ Where a chief executive of a department intends to fill a position that is vacan
     (iii) is in substantially the same general locality or a locality within reasonable commuting distance; and
     (iv) is on terms and conditions of employment (including redundancy and superannuation conditions) that are no less favourable; and
     (v) is on terms that treat service within the State services as if it were continuous service.
-(2) Sections 60, 61, and 65 do not apply in relation to the offer of an alternative position.
+(2) Sections 60, 61, and 65 do not apply in relation to either position described in subsection (1).
 (3) This section overrides Part 6A of the Employment Relations Act 2000.
 
 ### 61AB Transitional provision relating to restriction of redundancy payments
@@ -925,7 +925,7 @@ Except as otherwise provided in this Act, the Employment Relations Act 2000 appl
 (8) In this section and in sections 74AB to 74AD, Board of Trustees means a Board of Trustees constituted under Part 9 of the Education Act 1989, and includes any Commissioner appointed under that Act to act in place of the Board of Trustees.
 
 ### 74AB Boards of Trustees indemnified by Commissioner
-(1) If, in any claim or proceedings, a Board of Trustees becomes liable for costs or damages that arise from the exercise or purported exercise of any of the powers conferred on the Commissioner by section 74AA, the Commissioner must, out of money appropriated for the purpose by Parliament, indemnify the Board for those costs or damages.
+(1) If, in any claim or proceedings, a Board of Trustees becomes liable for costs or damages that arise from the exercise or purported exercise of any of the powers conferred on the Commissioner by section 74AA, the Commissioner must, out of an appropriation by Parliament, indemnify the Board for those costs or damages.
 (2) However, a Board of Trustees may not be indemnified for any costs or damages to the extent that those costs or damages arise out of conduct of the Board that, in the reasonable opinion of the Commissioner,—
   (a) is not in good faith; or
   (b) is engaged in without reasonable care.
@@ -1361,7 +1361,7 @@ This order is the State Sector (Ministry for Primary Industries) Order 2012.
 This order comes into force on 30 April 2012.
 
 ### 4 Application of consequential changes to references provisions
-Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period beginning on 30 April 2012 and ending on 30 June 2013, after the name of the Ministry of Agriculture and Forestry is changed to Ministry for Primary Industries.
+Sections 30H and 30I of the State Sector Act 1988 apply to things coming into force, entered into, or created during the transitional period beginning on 30 April 2012 and ending on 30 June 2020, after the name of the Ministry of Agriculture and Forestry is changed to Ministry for Primary Industries.
 
 ### 1 Title
 This order is the State Sector (Ministry of Business, Innovation, and Employment) Order 2012.
