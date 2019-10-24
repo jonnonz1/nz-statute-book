@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2018-11-30_
+_Consolidation as at 2019-10-24_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -48,7 +48,6 @@ _Consolidation as at 2018-11-30_
       (vi) the officer who is in command of a battalion or regiment:
       (vii) an officer of a force of another State that is declared to be serving together with a New Zealand force under section 23B of the Defence Act 1990, who is for the time being appointed or authorised to be a commanding officer for the purposes of this Act by a superior commander; but
     (b) does not include any midshipman or officer cadet or chaplain
-  - **Commonwealth force** means a naval, military, or air force raised in any part of the Commonwealth
   - **competent service authority** —
     (a) means every superior commander; and
     (ab) includes every Judge; and
@@ -106,10 +105,14 @@ _Consolidation as at 2018-11-30_
   - **president** means the president of a court of inquiry
   - **prison** means any prison established or deemed to be established under the Corrections Act 2004
   - **private** includes a gunner, trooper, sapper, signalman, driver, or craftsman
-  - **provost officer** —
-    (a) means a provost marshal, assistant provost marshal, or other officer of the Navy, the Army, or the Air Force duly appointed to exercise the functions conferred by this Act on a provost officer; and
-    (b) includes a person duly attached or lent as a provost officer to, or seconded for service or appointed for duty as a provost officer with, any part of the Armed Forces; but
-    (c) does not include any midshipman or officer cadet or chaplain
+  - **provost officer** means an officer who—
+    (a) is not a midshipman, an officer cadet, or a chaplain; and
+    (b) is any of the following:
+      (i) a provost marshal appointed in writing by or on behalf of the Chief of Defence Force:
+      (ii) an assistant provost marshal appointed in writing by or on behalf of the Chief of Defence Force or by a provost marshal:
+      (iii) any other officer of the Navy, the Army, or the Air Force appointed in writing as a provost officer by or on behalf of the Chief of Defence Force or by a provost marshal or an assistant provost marshal:
+      (iv) a person attached or lent as a provost officer, with approval in writing by or on behalf of the Chief of Defence Force or by a provost marshal or an assistant provost marshal, to any part of the Armed Forces:
+      (v) a person seconded for service or appointed for duty as a provost officer, with approval in writing by or on behalf of the Chief of Defence Force or by a provost marshal or an assistant provost marshal, with any part of the Armed Forces
   - **rank** , in relation to any member of the Armed Forces, means the rank held by him for the time being, whether substantive, temporary, acting, or honorary
   - **rating** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
   - **record officer** means any person who has custody of any records of any of the Armed Forces and whose duty it is to make or record entries in those records or to take extracts from them
@@ -3049,10 +3052,11 @@ For the purposes of section 200N(2)﻿(f), the president must take into account 
 
 ### 200T Record of proceedings not to be disclosed
 The record of proceedings of a court of inquiry must not be disclosed to—
-  (a) persons not subject to this Act without authority from a superior commander of the service concerned; and
-  (b) persons subject to this Act, unless those persons—
-    (i) need to be aware of the contents to enable them to perform their service duties; or
-    (ii) are entitled to a copy under the rules of procedure.
+  (a) people who are not members of the Defence Force (within the meaning of section 2(1) of the Defence Act 1990), unless the disclosure is authorised by a superior commander of the service concerned; or
+  (b) members of the Defence Force unless—
+    (i) the members need to be aware of the contents of the record to enable them to perform their service or employment duties; or
+    (ii) the members are entitled to a copy of the record under the rules of procedure; or
+    (iii) the disclosure is authorised by a superior commander of the service concerned.
 
 ### 201 Inquiry on absence of member of the Armed Forces
 (1) Where any member of the Armed Forces has been absent without leave for a period of 21 days, a court of inquiry shall be assembled to inquire in the prescribed manner into the fact of that absence, and the deficiency (if any) in the arms, ammunition, equipment, or clothing of that member, or in any other service property issued to him for his use or entrusted to his care for the purposes of the Armed Forces.
