@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -507,7 +507,7 @@ The following orders for disciplinary sanctions made by the Tribunal under secti
   (c) if any written representations are made by the licensee within the 10-working day period referred to in paragraph (b)﻿(ii), the Tribunal must take those representations into account in deciding whether or not to suspend the licence, or the period or duration of the suspension; and
   (d) the Tribunal must then decide whether or not to suspend the licence, and notify the licensee accordingly, as soon as practicable.
 (3) If the Tribunal decides to suspend the licence, the Tribunal must—
-  (a) include in the notice under subsection (1)﻿(d) the grounds for the decision, the date on which the suspension takes effect, and the period or duration of the suspension; and
+  (a) include in the notice under subsection (2)﻿(d) the grounds for the decision, the date on which the suspension takes effect, and the period or duration of the suspension; and
   (b) specify in the notice the right of the licensee to appeal to the District Court under section 81.
 
 ### 54 Appeal to Tribunal against determination by Registrar to reject complaint
