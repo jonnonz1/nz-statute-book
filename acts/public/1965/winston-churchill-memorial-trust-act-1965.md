@@ -1,10 +1,16 @@
 # Winston Churchill Memorial Trust Act 1965
-_Consolidation as at 2014-12-01_
+_Consolidation as at 2019-10-24_
 
-> An Act to establish the Winston Churchill Memorial Trust Fund, to constitute a Board to administer the Fund, and to make provision with respect to the Fund
+> Title
 
 ### 1 Short Title
 This Act may be cited as the Winston Churchill Memorial Trust Act 1965.
+
+### 1A Purpose
+The purpose of this Act is to establish and maintain a trust fund in order to benefit—
+  (a) occupations, callings, trades, businesses, and professions carried on (or intended to be carried on) in New Zealand:
+  (b) New Zealand generally:
+  (c) the Commonwealth as a beneficial influence in world affairs.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
@@ -87,6 +93,7 @@ No act or proceedings of the Board, or of any committee thereof, or of any perso
 (1) The general functions of the Board shall be—
   (a) to administer the Winston Churchill Memorial Trust Fund in accordance with this Act:
   (b) to consider applications for payments from the Fund and to determine those persons to whom grants, awards, or fellowships are to be made under this Act:
+  (ba) to increase public awareness of the Fund and to promote the other functions of the Board and the purpose of this Act:
   (c) to exercise such functions as may be lawfully conferred on it by or under this or any other Act or otherwise howsoever.
 (2) The Board shall have all such powers, rights, and authorities as may be necessary or expedient to enable it to carry out its functions.
 
@@ -120,8 +127,11 @@ Any local authority within the meaning of the Local Government Act 2002 or other
 (2) Any money, being income of the Fund within the meaning of section 16, may, at the discretion of the Board, from time to time be invested in accordance with the provisions of the Trustee Act 1956 as to the investment of trust funds.
 
 ### 18 Authorised expenditure
-(1) Subject to the provisions of this Act, the Board may apply the income of the fund in such manner beneficial to the community as the Board thinks fit for all or any of the following purposes:
+(1) Subject to the provisions of this Act, the Board may apply the income of the Fund in such manner beneficial to the community as the Board thinks fit for all or any of the following purposes:
   (a) the making of grants or awards or the provision of fellowships to qualified persons who will, in the opinion of the Board, contribute to the general advancement of any occupation, calling, trade, business, or profession carried on or intended to be carried on in New Zealand, or to the benefit in general of New Zealand, or to the maintenance or advancement of the Commonwealth as a beneficial influence in world affairs:
+  (aa) the payment of reasonable costs incurred in—
+    (i) increasing public awareness of the Fund; and
+    (ii) promoting the functions of the Board and the purpose of this Act:
   (b) the payment of the costs of administration of the affairs of the Board, including its committees and agencies and the provision of office accommodation.
 (2) No person shall be qualified to receive any benefit under paragraph (a) of subsection (1) unless he is—
   (a) a New Zealand citizen; or
@@ -177,10 +187,10 @@ The Board shall be exempt from the payment of land tax and income tax.
 
 ### 24 Travelling allowances
 (1) The Board is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
-(2) There may be paid to the members of the Board and of any committee appointed by the Board out of the funds of the Board, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951.
+(2) There may be paid to the members of the Board and of any committee appointed by the Board out of the Fund travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951.
 
 ### 25 Unauthorised expenditure
-The Board may, in any financial year, expend out of its funds for purposes not authorised by this or any other Act any sum or sums not amounting in the whole to more than 100 pounds.
+The Board may, in any financial year, expend out of the Fund for purposes not authorised by this or any other Act any sum or sums not amounting in the whole to more than 100 pounds.
 
 **Miscellaneous provisions**
 
