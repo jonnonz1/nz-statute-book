@@ -1,5 +1,5 @@
 # Chartered Professional Engineers of New Zealand Act 2002
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Chartered Professional Engineers of New Zealand Act 2002.
@@ -382,18 +382,20 @@ The Council must exercise its powers only for the purpose of performing its func
 (2) The board of the Council has all the powers necessary for carrying out its role under subsection (1).
 
 ### 49 Composition of board
-The Council's board must have at least 6, but no more than 8, members appointed by the Governor-General on the recommendation of the Minister.
+The Council's board must have at least 6, but no more than 8, members appointed by the Minister.
 
 ### 50 Criteria for appointment
-(1) The Minister must recommend for appointment as members of the Council—
+(1) The Minister must appoint as members of the Council—
   (a) 3 persons nominated by the Institution of Professional Engineers of New Zealand Incorporated; and
   (b) 1 person nominated by the Association of Consulting Engineers of New Zealand; and
-  (c) 1 person nominated by the Minister whom the Minister considers to be representative of consumers; and
-  (d) 1 to 3 other persons nominated by the Minister.
-(2) The Minister must—
-  (a) recommend persons under subsection (1)﻿(a), (b), and (d) who are knowledgeable about professional engineering; and
-  (b) in recommending persons under subsection (1)﻿(a), (b), and (d), have regard to the aim that the members collectively represent the range of engineering practices and disciplines; and
-  (c) not recommend a person who is a member of the governing body of the Registration Authority or an employee of the Registration Authority.
+  (c) 1 person whom the Minister considers to be representative of consumers; and
+  (d) 1 to 3 other persons.
+(2) The Minister—
+  (a) must only appoint as a member of the Council a person who, in the Minister’s opinion, is qualified for appointment,—
+    (i) having regard to the functions, duties, and powers of the Council; and
+    (ii) because of that person’s knowledge, experience, or expertise; and
+    (iii) having regard to the aim that the members collectively represent the range of engineering practices and disciplines; and
+  (b) must not appoint a person who is a member of the governing body of the Registration Authority or an employee of the Registration Authority.
 
 ### 51 Further provisions as to Council and its board in Schedule 1
 Schedule 1 applies to the Council and its board.
@@ -442,10 +444,7 @@ Schedule 1 applies to the Council and its board.
 The Council must provide the annual report to the Minister as soon as practicable after receiving the audit report.
 
 ### 58 Council to publish reports
-(1) As soon as practicable after giving a report to the Minister under section 53 or section 57, the Council must—
-  (a) publicly notify that the report has been given to the Minister and where copies of the report may be inspected and purchased; and
-  (b) make copies of the report available to the public at the place set out in the public notification, on request, for inspection free of charge and for purchase at a reasonable cost of providing the copy.
-(2) In this section, publicly notify means notify to the public in writing by at least 1 electronic and 1 non-electronic medium that is widely available to the public in at least Auckland, Hamilton, Wellington, Christchurch, and Dunedin.
+As soon as practicable after giving a report to the Minister under section 53 or 57, the Council must make the report publicly available on an Internet site maintained by or on behalf of the Council.
 
 ### 59 Annual reports to be presented to House of Representatives
 The Minister must present a copy of each report given to him or her under sections 53 and 57 to the House of Representatives no later than 10 parliamentary working days after the date on which the Minister receives that report.
@@ -565,10 +564,11 @@ On the end of the transitional period, the enactments specified in Schedule 2 ar
 **Appointment, term, resignation, and removal of members**
 
 ### 1 Method of appointment
-(1) The Governor-General appoints a member by sending written notice to the member (with a copy to the Council).
+(1) The Minister appoints a member by sending written notice to the member (with a copy to the Council).
 (2) The notice of appointment must—
   (a) state the date on which the appointment takes effect; and
   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under clauses 13 to 16 at the time of the certificate.
+(3) When a member of the Council is appointed, the Minister must publish a notice in the Gazette confirming the appointment.
 
 ### 2 Restrictions on persons who may be members
 The following persons are disqualified from being a member:
@@ -586,7 +586,7 @@ The following persons are disqualified from being a member:
   (c) continues in office despite the expiry of his or her term of office until—
     (i) the member is reappointed; or
     (ii) the member's successor is appointed; or
-    (iii) the Governor-General informs the member by written notice (with a copy to the Council) that the member is not to be reappointed and no successor is to be appointed.
+    (iii) the Minister informs the member by written notice (with a copy to the Council) that the member is not to be reappointed and no successor is to be appointed.
 (2) This section is subject to clause 8.
 
 ### 4 Concurrent offices
@@ -602,12 +602,12 @@ The acts of a person as a member are valid even if—
 (2) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice.
 
 ### 7 Removal from office
-(1) The Governor-General may, on the advice of the Minister given after consultation with the Attorney-General, remove a member from office by written notice to the member (with a copy to the Council) at any time for any of the following reasons proved to the satisfaction of the Governor-General:
+(1) The Minister may, after consultation with the Attorney-General, remove a member from office by written notice to the member (with a copy to the Council) at any time for any of the following reasons proved to the satisfaction of the Minister:
   (a) breach of the member's duties or the board's collective duties under this schedule; or
   (b) failure or inability to perform, or inadequate performance of, the member's duties and responsibilities as a member; or
   (c) misconduct by the member; or
   (d) any other just cause.
-(2) Before giving advice to the Governor-General, the Minister must give the member a reasonable opportunity to make written submissions or be heard on the proposal to remove him or her.
+(2) Before removing the member, the Minister must give the member a reasonable opportunity to make written submissions or be heard on the proposed removal.
 (3) The notice of removal must state the reason for the removal.
 (4) A member is not entitled to any compensation or other payment or benefit relating to his or her removal from office.
 
