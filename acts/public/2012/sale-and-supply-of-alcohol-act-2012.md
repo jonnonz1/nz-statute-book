@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2019-08-31_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -1380,11 +1380,13 @@ The licensing committee may decide an application for renewal of a licence on th
 (1) A licensing committee may, on the application of a person who appears to the committee to have any right, title, estate, or interest in any premises, or any business conducted in any premises, for which an on-licence or off-licence is in force, make an order authorising the applicant (or some suitable person nominated by the applicant) to carry on the sale and supply of alcohol for a period, not exceeding 3 months, stated in the order.
 (2) The application must be made in the prescribed form and manner and be accompanied by the prescribed fee.
 (3) The committee may hear and determine the application without notice, or direct that notice of the application and the time and place fixed for any hearing be served on any persons and in any manner the committee specifies.
-(4) On making an order, the committee—
+(4) On making an order, the committee or the chair (as the case may be)—
   (a) must impose any conditions that this Act requires an on-licence or off-licence (as the case requires) to be issued subject to; and
   (b) may impose any conditions that this Act enables an on-licence or off-licence (as the case requires) to be issued subject to; and
   (c) may impose any other reasonable conditions it thinks fit.
+(4A) Despite subsection (1), if the application is uncontested, the chair of the committee may make an order instead of the committee.
 (5) The person authorised by the order has for the purposes of this Act the same duties, obligations, and liabilities as the holder of the on-licence or off-licence concerned.
+(6) For the purposes of this section, if the chair of the committee makes an order instead of the committee, a reference to the committee in any other relevant provision of this Act is to be treated as a reference to the chair.
 
 ### Subpart 4 — Licensing process: special licences
 
