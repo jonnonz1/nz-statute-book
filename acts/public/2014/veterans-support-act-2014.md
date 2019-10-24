@@ -1,5 +1,5 @@
 # Veterans' Support Act 2014
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Veterans' Support Act 2014.
@@ -168,6 +168,7 @@ In this Act, unless the context otherwise requires,—
   - **working day** means a day of the week other than—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
+    (ba) the day observed in the appropriate area as the anniversary of the province of which the area forms a part; and
     (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
 
 ### 8 Meaning of different types of service
@@ -436,6 +437,7 @@ The production in proceedings of a statement of principles or an amendment of a 
   (j) the maximum amount payable for funeral expenses for a veteran whose death is attributable to qualifying service (section 153):
   (k) the maximum amount payable for funeral expenses for a veteran whose death is not attributable to qualifying service (section 154):
   (l) the lump sum payment to a surviving spouse or partner of a veteran receiving the veteran’s pension (section 174):
+  (la) the rates of annuities or allowances payable under section 29A of the War Pensions Act 1954 and Part 5A of the War Pensions Regulations 1956 (see clause 2 of Schedule 1 of this Act):
   (m) the survivor’s grant (clause 53 of Schedule 2):
   (n) child care payments for children of deceased veterans (clause 64 of Schedule 2).
 (2) VANZ may adjust in the manner specified in subsection (3) any costs, amounts, or limits on costs that are not required to be adjusted under section 30 or subsection (1) of this section.
@@ -2619,7 +2621,7 @@ VANZ must provide the resources and administrative support necessary to enable t
 
 ### 271 Offence not to provide earnings information to VANZ
 (1) This section applies to a person who is receiving any of the following entitlements:
-  (a) first week compensation:
+  (a)
   (b) weekly compensation:
   (c) weekly income compensation:
   (d) a veteran's pension under—
@@ -2701,6 +2703,7 @@ Section 29 of the War Pensions Act 1954 continues in force, as if this Act had n
 
 ### 2 Additional payments for decorations awarded
 (1) Section 29A of the War Pensions Act 1954 and Part 5A of the War Pensions Regulations 1956 continue in force as if this Act had not been passed, but only for the persons who (immediately before the commencement of this Act) were receiving or entitled to receive an annuity or allowance in addition to his or her pension.
+(1A) However, the rates of annuities or allowances payable under subclause (1) must be adjusted in accordance with section 31(1)﻿(la) of this Act (and may not be prescribed under section 29A(3) of the War Pensions Act 1954).
 (2) This clause applies subject to Part 2.
 
 ### 3 Continuation of allowances, grants, concessions, and loans
