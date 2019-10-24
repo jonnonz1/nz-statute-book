@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -535,7 +535,7 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
   (d) the name and signature of the person who conducted the transaction on behalf of the licensed pawnbroker:
   (e) the redemption date:
   (f) the amount of money advanced on the goods:
-  (g) the interest to be charged:
+  (g) the redemption fee to be charged:
   (h) the total redemption price payable at the redemption date, and whether any lesser amount is payable if the goods are redeemed before that date:
   (i) either—
     (i) the date on which the goods are redeemed, and the amount for which they are redeemed; or
@@ -585,8 +585,8 @@ A pawnbroker may enter into a pawnbroking contract only at pawnbroking business 
 ### 57 Redemption price
 (1) The redemption price of any pawned goods is—
   (a) the amount of money advanced on the goods; plus
-  (b) the total interest payable by the pledger on redemption of the goods.
-(2) A pawnbroker may charge only interest, and not any other fee or charge (however described), as part of the redemption price of pawned goods.
+  (b) the redemption fee payable by the pledger on redemption of the goods.
+(2) A pawnbroker may charge only a redemption fee, and not any other fee or charge (however described), as part of the redemption price of pawned goods.
 (3) A pawnbroker may advance only money, and not any other thing, on a pledge.
 
 ### 58 Redemption date
