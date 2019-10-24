@@ -1,5 +1,5 @@
 # Resource Management Amendment Act 2005
-_Consolidation as at 2017-04-19_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 (1) This Act is the Resource Management Amendment Act 2005.
@@ -1319,11 +1319,7 @@ The principal Act is amended by repealing section 293, and substituting the foll
     (b) is inconsistent with a relevant regional plan or water conservation order.
 
 ### 108 No review of decisions unless right of appeal or reference to inquiry exercised
-(1) Section 296 of the principal Act is amended by omitting the heading, and substituting the heading No review of certain decisions.
-(2) Section 296 of the principal Act is amended by adding, as subsection (2), the following subsection:
-  (2) In relation to whether a decision made by a consent authority under section 93 or section 94 to notify or not to notify an application for a resource consent was unauthorised or otherwise invalid,—
-    (a) no application for review under the Judicial Review Procedure Act 2016 may be made; and
-    (b) no proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, may be heard by the High Court.
+[Repealed]
 
 ### 109 Notice of appeal
 (1) Section 300(2) of the principal Act is amended by omitting the words at Wellington.
