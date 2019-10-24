@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-24_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -335,7 +335,16 @@ Where a request made in accordance with section 12 is refused, the department or
 (3) The giving of access to any official information to which subsection (2) applies shall be subject to the provisions of any regulations made under this Act.
 
 ### 22 Right of access to internal rules affecting decisions
-(1) Subject to section 6(a) to (d), section 7, section 9(2)﻿(a), (b), (ba), (i), and (j), and section 10 and to subsections (2) and (6), every person has a right to and shall, on request made under this section, be given access to any document (including a manual) which is held by a department or Minister of the Crown or organisation and which contains policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in his or its personal capacity.
+(1) On a request made under this section, a person has a right to, and must be given access to, any document (including a manual) that—
+  (a) is held by a department, a Minister of the Crown, or an organisation; and
+  (b) contains policies, principles, rules, or guidelines in accordance with which decisions or recommendations are made in respect of any person or body of persons in their personal capacity.
+(1A) Subsection (1) is subject to—
+  (a) subsection (2):
+  (b) subsection (6):
+  (c) section 6(a) to (d):
+  (d) section 7:
+  (e) section 9(2)﻿(a), (b), (ba), (i), and (j) (to the extent that there is no countervailing public interest in making the information available):
+  (f) section 10.
 (2) The right conferred by subsection (1) may be exercised only by—
   (a) a New Zealand citizen; or
   (b) a permanent resident of New Zealand; or
@@ -343,8 +352,8 @@ Where a request made in accordance with section 12 is refused, the department or
   (d) a body corporate which is incorporated in New Zealand; or
   (e) a body corporate which is incorporated outside New Zealand but which has a place of business in New Zealand.
 (3) Sections 12(2) and (3), 13 to 15A, and 19 shall apply, with all necessary modifications, to a request made under subsection (1).
-(4) Where, by virtue of any of the provisions of section 6(a) to (d), section 7, section 9(2)﻿(a), (b), (ba), (i), and (j), there is good reason for withholding some of the information contained in a document to which subsection (1) relates, the department or Minister of the Crown or organisation shall, unless it is impracticable to do so, either—
-  (a) make a copy of that document available with such deletions or alterations as are necessary; or
+(4) If there is good reason under subsection (1A)﻿(c), (d), or (e) for withholding some of the information contained in a document referred to in subsection (1), the department, Minister of the Crown, or organisation must, unless it is impracticable to do so,—
+  (a) make a copy of that document available with any deletions or alterations that are necessary; or
   (b) provide another document stating the substance and effect of the document except as it relates to the information withheld.
 (5) Where a document is made available under subsection (4), the department or Minister of the Crown or organisation shall, subject to section 10, give to the applicant—
   (a) the reason for withholding the information; and
