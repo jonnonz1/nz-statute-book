@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-24_
 
 > Title
 
@@ -2565,7 +2565,7 @@ Notwithstanding clause 2, every member of the Board whose term of office has exp
 (3) Every member of the Board who becomes ineligible for appointment to the Board under the provision of section 150 under which the member was appointed shall cease to be a member of the Board.
 (4) If a member dies, resigns, is removed from office, or ceases to be a member in accordance with subclause (3), the vacancy so created shall be deemed to be an extraordinary vacancy.
 (5) An extraordinary vacancy may be filled by the appointment of a person by the Minister.
-(6) Every person appointed to fill an extraordinary vacancy shall be appointed for the residue of the term for which the vacating member was appointed.
+(6) Every person appointed to fill an extraordinary vacancy shall be appointed for a term determined by the Minister, not exceeding 3 years.
 
 ### 5 Proceedings not invalidated through vacancy in membership
 No act or proceeding of the Board, or of any person acting as a member of the Board, shall be invalidated because there was a vacancy in the membership of the Board at the time of the act or proceeding, or because of the subsequent discovery that there was a defect in the appointment of a person so acting, or that the person was incapable of being, or had ceased to be, a member.
@@ -2620,7 +2620,7 @@ The Board shall have a seal, which shall be judicially noticed in all courts and
 
 ### 16 Annual report
 (1) The Board shall in each year furnish to the Minister a report on the operation of the Board in that year.
-(2) A copy of every annual report of the Board shall be laid before the House of Representatives not later than 6 sitting days after the date on which it is received by the Minister.
+(2) A copy of every annual report of the Board shall be laid before the House of Representatives not later than 10 sitting days after the date on which it is received by the Minister.
 
 ### 17 Members not personally liable
 No member of the Board shall be personally liable for any act or default done or made by the Board, or by any member of the Board, in good faith in the course of the operations of the Board.
