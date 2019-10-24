@@ -1,5 +1,5 @@
 # Disputes Tribunal Act 1988
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title and commencement
 (1) This Act is the Disputes Tribunal Act 1988.
@@ -554,7 +554,7 @@ Notwithstanding section 219 of the District Court Act 2016, no filing fee shall 
   (a) where an order has been made under section 18(8); or
   (b) where an order has been made under section 46(2) or section 47(3)﻿(b), or a term of an agreed settlement has been varied under section 47(3)﻿(a), and, in all such cases, shall be limited to rehearing the enforcement proceedings taken under those sections; or
   (c) where an agreed settlement has been approved by the Tribunal under section 18(3) and, after the hearing, a party to the settlement discovers facts directly relevant to the dispute that could not, with reasonable diligence, have been obtained before the hearing and that, if known at the time, would have had a bearing on whether that party agreed to the settlement.
-(3) Every application for a rehearing shall be made within 28 days after the Tribunal's order (or, in the case of an agreed settlement, the Tribunal's approval of the settlement or the variation of a term of that settlement under section 47(3)﻿(a), as the case may require) or within such further time as the Tribunal may, on application, allow, and shall be served upon the other parties to the proceedings.
+(3) Every application for a rehearing shall be made within 20 working days after the Tribunal's order (or, in the case of an agreed settlement, the Tribunal's approval of the settlement or the variation of a term of that settlement under section 47(3)﻿(a), as the case may require) or within such further time as the Tribunal may, on application, allow, and shall be served upon the other parties to the proceedings.
 (4) Upon a rehearing being granted,—
   (a) a Registrar shall notify all parties to the proceedings of the making of the order and of the time and place appointed for the rehearing; and
   (b) the order or approval or variation made or given by the Tribunal upon the first hearing shall cease to have effect.
