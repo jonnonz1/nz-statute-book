@@ -1,5 +1,5 @@
 # Food Act 2014
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Food Act 2014.
@@ -3391,7 +3391,7 @@ A court may make an order under any of sections 269 to 273 in addition to, or in
     (iv) in classes of advertisements:
   (c) the performance or non-performance of any function or duty imposed on any person by this Act or any regulations made under this Act.
 (3) The statement is protected by qualified privilege.
-(4) The chief executive must not delegate the power in this section.
+(4)
 (5) This section does not limit—
   (a) any other enactment or rule of law; or
   (b) the functions of the chief executive or of any other person or body.
