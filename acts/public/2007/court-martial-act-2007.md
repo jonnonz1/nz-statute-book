@@ -1,5 +1,5 @@
 # Court Martial Act 2007
-_Consolidation as at 2018-11-30_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Court Martial Act 2007.
@@ -522,7 +522,7 @@ Section 42 applies to any proceedings under the 1971 Act (a case involving sexua
   (a) grant bail to the accused:
   (b) impose any conditions of bail that the Judge thinks fit.
 (4) In determining whether to grant bail under this section, the Judge—
-  (a) must take into account the considerations set out in section 8(1) and (3) of the Bail Act 2000 and all of the following considerations:
+  (a) must take into account the considerations set out in section 8(1) and (4) of the Bail Act 2000 and all of the following considerations:
     (i) the seriousness of the offence:
     (ii) whether there are urgent and exceptional circumstances that favour the granting of bail:
     (iii) the effect on service discipline of releasing the person on bail; and
@@ -667,8 +667,8 @@ When sentencing an offender, the Court Martial must pass a sentence that is cons
   (b) any sentence passed by the court.
 (2) The Judge must give reasons for the sentence (if any) passed by the court.
 (3) Subsection (4) applies if the Court Martial sentences a person—
-  (a) to be dismissed from Her Majesty's service; or
-  (b) to a term of imprisonment involving dismissal from Her Majesty's service.
+  (a) to be dismissed from His Majesty's service; or
+  (b) to a term of imprisonment involving dismissal from His Majesty's service.
 (4) In delivering a sentence, the Judge must state that the dismissal does not take effect—
   (a) until the expiration of the period for lodging an appeal to the Court Martial Appeal Court against the conviction or sentence; or
   (b) if an appeal to that court, the Court of Appeal, or the Supreme Court is pending, until the appeal is determined.
@@ -722,7 +722,7 @@ No proceedings before the Court Martial may—
 (9) A copy of any entry or document (including the signature of any person who has signed it) forming part of a service record and purporting to be certified to be a true copy by the officer or record officer stated in the certificate to have the custody of the record is evidence of that entry or document.
 (10) A certificate purporting to be signed by the commanding officer of any accused, or signed by any other officer authorised by that commanding officer to give the certificate, and stating the contents of any Defence Force Order, or any general, standing, daily, or routine order, or any part of the order, made in respect of any service, force, command, or formation, or any defence area or ship, or any unit, detachment, or other part of the Armed Forces, is, in the proceedings against the accused, evidence of the matters stated in the certificate.
 (11) A certificate purporting to be signed by the commanding officer of any accused, or signed by any other officer authorised by that commanding officer to give the certificate, and stating the contents of any part of any Defence Manual, is, in the proceedings against the accused, evidence of the matters stated in the certificate.
-(12) If the issue or one of the issues in the proceedings relates to the navigation of one of Her Majesty's New Zealand ships, a navigation report prepared by a competent officer or officers appointed in accordance with the rules of procedure is evidence of the matters stated in the report.
+(12) If the issue or one of the issues in the proceedings relates to the navigation of one of His Majesty's New Zealand ships, a navigation report prepared by a competent officer or officers appointed in accordance with the rules of procedure is evidence of the matters stated in the report.
 
 ### 73 Limits on application of section 71: evidence of custody at police station
 (1) Despite section 71, subsections (2) and (3) apply with respect to evidence in all proceedings under this Act or the 1971 Act against a member of the Armed Forces who has been arrested by, or who has surrendered to, the New Zealand Police.
@@ -814,7 +814,7 @@ The Court Martial is to have a seal, which is to be judicially noticed by all co
   (a) any function, power, or duty delegated to the Registrar by the Chief Judge; and
   (b) this power of delegation.
 (2) A delegation—
-  (a) must be in writing; and
+  (a)
   (b) may be made subject to any restrictions and conditions that the Chief Judge or the Registrar thinks fit; and
   (c) is revocable at any time, in writing; and
   (d) does not prevent the performance or exercise of a function, duty, or power by the Registrar.
