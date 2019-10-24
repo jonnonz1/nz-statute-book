@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -728,7 +728,7 @@ Information obtained by a third party conducting customer due diligence under se
   (b) without lawful justification or reasonable excuse, set up a facility for a customer under a false customer name.
 (2) Subsection (1) does not apply to a facility—
   (a) that has a number or other identifier allocated to it and the customer and any person who is authorised to act on behalf of the customer in respect of the facility has had their identity verified in accordance with the relevant customer due diligence requirements; or
-  (b) that has been set up for the Commissioner or for the New Zealand Security Intelligence Service for law enforcement purposes.
+  (b) that has been set up for the Commissioner or for the New Zealand Security Intelligence Service or for the Government Communications Security Bureau for law enforcement purposes.
 
 ### 39 Prohibition on establishing or continuing business relationship involving shell bank
 (1) A reporting entity must not establish or continue a business relationship with, or allow an occasional transaction or activity to be conducted through it by,—
@@ -1683,6 +1683,7 @@ An AML/CFT supervisor may only use information obtained under section 137 if the
   (f) the Financial Markets Authority Act 2011:
   (g) the Financial Markets Conduct Act 2013:
   (h) Parts 1 to 7 of the Intelligence and Security Act 2017:
+  (ha) the Financial Service Providers (Registration and Dispute Resolution) Act 2008:
   (i) the Financial Transactions Reporting Act 1996:
   (j) the Gambling Act 2003:
   (k) the Goods and Services Tax Act 1985:
