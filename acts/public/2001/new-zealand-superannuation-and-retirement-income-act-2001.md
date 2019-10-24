@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -556,6 +556,15 @@ Schedule 3 applies to the board and its members.
 (3) Interests in Fund investment vehicles are Fund investments and part of the Fund.
 (4) To avoid doubt, the Official Information Act 1982 and the Ombudsmen Act 1975 do not apply to Fund investment vehicles, but the Official Information Act 1982 applies to the Guardians in respect of information held by the Guardians about Fund investment vehicles.
 (5) Subsection (1) applies despite anything to the contrary in the Crown Entities Act 2004, this Act, or any other enactment.
+
+### 59B Fund investment vehicles not required to prepare statements or annual reports
+(1) A Fund investment vehicle is not required to do either of the following:
+  (a) prepare financial statements or group financial statements that are separate from those prepared for the Fund under section 66:
+  (b) have financial statements or group financial statements audited.
+(2) If a Fund investment vehicle is a company, the board of the company is not required to prepare an annual report.
+(3) Subsections (1) and (2) apply despite anything to the contrary in the Companies Act 1993, the Limited Partnerships Act 2008, or the Public Audit Act 2001.
+(4) This section does not limit sections 59A(3) and 66 to 68.
+(5) In this section, annual report and board have the meanings given in section 2(1) of the Companies Act 1993.
 
 ### 60 Establishment of investment policies, standards, and procedures
 (1) The Guardians must establish, and adhere to, investment policies, standards, and procedures for the Fund that are consistent with their duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
