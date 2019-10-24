@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-24_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -289,9 +289,7 @@ No charging document for an offence against any of sections 11 to 15 may be file
 Where any association (whether incorporated or unincorporated) is guilty of an offence against this Act, every officer or other person concerned in the management of the association shall be guilty of a like offence if it is proved that the act that constituted the offence took place with his authority, permission, or consent, or that he knew the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
 ### 26A Power to amend Schedule 2A
-The Governor-General may, from time to time, by Order in Council,—
-  (a) amend Schedule 2A by adding, omitting, or amending the specification or description of any emblem, word, or name:
-  (b) revoke Schedule 2A or a Part of Schedule 2A and substitute a new Schedule 2A or a new Part of Schedule 2A.
+[Repealed]
 
 ### 27 Amendments and repeals
 (1) The enactments specified in Schedule 4 are hereby amended in the manner specified in that schedule.
