@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2019-08-01_
+_Consolidation as at 2019-10-24_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -1065,7 +1065,7 @@ The Minister may not give a direction under section 103 of the Crown Entities Ac
   (a) summarise all advice concerning the proposal received from iwi authorities under the relevant provisions of Schedule 1; and
   (b) summarise the response to the advice, including any provisions of the proposal that are intended to give effect to the advice.
 (5) The person who must have particular regard to the evaluation report must make the report available for public inspection—
-  (a) as soon as practicable after the proposal is made (in the case of a standard or regulation); or
+  (a) as soon as practicable after the proposal is made (in the case of a standard, regulation, national policy statement, or New Zealand coastal policy statement); or
   (b) at the same time as the proposal is notified.
 (6) In this section,—
   - **objectives** means,—
@@ -1876,7 +1876,7 @@ A national direction may incorporate material by reference under Schedule 1AA.
 
 ### 48 Public notification of proposal for national direction and inquiry
 (1) As soon as practicable after its appointment, a board of inquiry must ensure that—
-  (a) public notice of the proposed national policy statement and inquiry is given; and
+  (a) public notice of the proposed national direction and inquiry is given; and
   (b) a copy of the short summary of the notice referred to in section 2AB(1)﻿(b), along with details of the Internet site where the notice can be accessed, is published in a daily newspaper in each of the cities of Auckland, Wellington, Christchurch, and Dunedin.
 (2) Every notice for the purposes of this section shall be in the prescribed form and shall state—
   (a) a description of the proposed national direction; and
@@ -2140,7 +2140,7 @@ In this subpart and Schedule 1,—
     (a) have agreed to participate in a Mana Whakahono a Rohe; and
     (b) have agreed the order in which negotiations are to be conducted
   - **relevant iwi authority** means an iwi authority whose area of interest overlaps with, or is adjacent to, the area of interest of an initiating iwi authority
-  - **relevant local authority** means a district or regional council whose area of interest overlaps with, or is adjacent to, the area of interest represented by the initiating iwi authority.
+  - **relevant local authority** means a local authority whose area of interest overlaps with, or is adjacent to, the area of interest represented by the initiating iwi authority.
 
 **Purpose and guiding principles**
 
@@ -2217,8 +2217,8 @@ If an invitation is initiated under section 58O(1), the participating authoritie
 (2) The dispute resolution process recorded under subsection (1)﻿(c)﻿(vi) must—
   (a) set out the extent to which the outcome of a dispute resolution process may constitute an agreement—
     (i) to alter or terminate a Mana Whakahono a Rohe (see subsection (5)):
-    (ii) to conclude a Mana Whakahono a Rohe at a time other than that specified in section 58Q:
-    (iii) to complete a Mana Whakahono a Rohe at a later date (see section 58T(2)):
+    (ii)
+    (iii) to complete the review of a local authority’s policies and processes (to ensure that they are consistent with a Mana Whakahono a Rohe) at a later date (see section 58T(2)):
     (iv) jointly to review the effectiveness of a Mana Whakahono a Rohe at a later date (see section 58T(3)):
     (v) to undertake any additional reporting (see section 58T(5)); and
   (b) require each of the participating authorities to bear its own costs for any dispute resolution process undertaken.
@@ -3023,7 +3023,7 @@ In this Act, the term resource consent means any of the following:
   (c) a rule in a proposed plan describes the activity as a prohibited activity and the rule has not become operative.
 (2) Prospecting, exploring, or mining for Crown owned minerals in the internal waters (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) of the Coromandel Peninsula must be treated as a prohibited activity.
 (3) Subsection (2) does not apply to prospecting, exploring, or mining activities set out in section 61(1A) of the Crown Minerals Act 1991.
-(4)
+(4) Any mining whose main purpose is to mine mercury must be treated as a prohibited activity.
 
 ### 87BA Boundary activities approved by neighbours on infringed boundaries are permitted activities
 (1) A boundary activity is a permitted activity if—
@@ -9178,7 +9178,7 @@ All rents, royalties, and other sums of money which the holders of resource cons
   (hq) provide that, despite sections 68(2) and 76(2), a more stringent rule in a plan prevails over a regulation made under paragraph (hn):
   (i) providing for any other such matters as are contemplated by, or necessary for giving full effect to, this Act and for its due administration.
 (2) Any regulations may apply generally or may apply or be applied from time to time by the Minister by notice in the Gazette, within any specified district or region of any local authority or within any specified part of New Zealand, or to any specified class or classes of persons.
-(2AA) Any consultation undertaken before the commencement of subsection (1)﻿(bb), (hn), or (ho), in relation to a regulation made under those paragraphs, satisfies the consultation requirements in relation to that regulation.
+(2AA)
 (2A) No regulation shall be made under any of paragraphs (ha) to (he) of subsection (1) except on the recommendation of the Minister after consultation with the Minister of Transport and the Minister of Conservation.
 (2B) The Minister shall not recommend the making of any regulation under any of paragraphs (ha) to (hd) of subsection (1) unless, after having consulted with the Minister of Transport and the Minister of Conservation, the Minister is of the opinion that—
   (a) it is necessary or desirable to do so for all or any of the following purposes:
@@ -10495,7 +10495,7 @@ A local authority is not required to comply with clause 3 to the extent that any
   (a) any person representing a relevant aspect of the public interest; and
   (b) any person that has an interest in the proposed policy statement or plan greater than the interest that the general public has; and
   (c) the local authority itself.
-(1A) However, in the case of submissions on a proposed change to a policy statement or plan, the only persons (in addition to the relevant local authority) who may make a further submission are—
+(1A) However, in the case of submissions on a proposed change to a policy statement or plan for which limited notification has been given under clause 5A, the only persons (in addition to the relevant local authority) who may make a further submission are—
   (a) the persons given limited notification under clause 5A(3); and
   (b) the persons given a copy of the proposed change under clause 5A(8).
 (2) A further submission given under subclause (1) or (1A) must be limited to a matter in support of or in opposition to the relevant submission made under clause 6 or 6A.
