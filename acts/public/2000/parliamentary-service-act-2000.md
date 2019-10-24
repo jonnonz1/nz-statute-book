@@ -1,5 +1,5 @@
 # Parliamentary Service Act 2000
-_Consolidation as at 2016-12-17_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Parliamentary Service Act 2000.
@@ -16,6 +16,7 @@ In this Act, unless the context otherwise requires,—
   - **Bowen House lease** or means all agreements, authorities, and instruments under which, immediately before the commencement of this Act, the Parliamentary Service Commission held interests, licences, or rights in or in respect of—
     (a) the building known as Bowen House situated on the corner of Lambton Quay and Bowen Street in Wellington; or
     (b) any land adjoining that building
+  - **Chief Executive** means the Chief Executive of the Parliamentary Service
   - **department** has the same meaning as in section 2 of the State Sector Act 1988
   - **Deputy Speaker** means—
     (a) the Deputy Speaker of the House of Representatives; or
@@ -26,7 +27,6 @@ In this Act, unless the context otherwise requires,—
     (b) an advertisement of the kind described in section 3B(2)﻿(b); and
     (c) an advertisement of the kind described in section 3B(2)﻿(c)
   - **funding entitlements for parliamentary purposes** has the meaning given to it by section 3B
-  - **General Manager** means the General Manager of the Parliamentary Service
   - **government initiated referendum** means a binding or indicative referendum initiated by the Government
   - **Leader of the House** means the Leader of the House of Representatives
   - **Parliamentary Corporation** or means the body corporate established by section 27
@@ -111,7 +111,7 @@ Every determination made by the Remuneration Authority under section 17 of the M
 ### 4 Purposes of this Act
 The purposes of this Act are as follows:
   (a) to establish mechanisms for providing services and funding entitlements for parliamentary purposes:
-  (b) to provide for the governance arrangements of the Parliamentary Service, in particular, by making the General Manager of the Parliamentary Service responsible to the Speaker:
+  (b) to provide for the governance arrangements of the Parliamentary Service, in particular, by making the Chief Executive of the Parliamentary Service responsible to the Speaker:
   (c) to reconstitute the Parliamentary Service Commission as a policy body:
   (d) to provide for regular and independent reviews of the amounts appropriated in Appropriation Acts for services and funding to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
   (e) to provide for the ownership and control of land and other assets held for parliamentary purposes.
@@ -164,21 +164,21 @@ The principal duties of the Parliamentary Service are—
 ### 9D Speaker to take into account advice and recommendations of Commission
 [Repealed]
 
-**General Manager of Parliamentary Service**
+**Chief Executive of Parliamentary Service**
 
-### 10 General Manager of Parliamentary Service
-The General Manager is the administrative head of the Parliamentary Service.
+### 10 Chief Executive of Parliamentary Service
+The Chief Executive is the administrative head of the Parliamentary Service.
 
-### 11 Principal responsibilities of General Manager
-(1) The General Manager is responsible to the Speaker for each of the following matters:
+### 11 Principal responsibilities of Chief Executive
+(1) The Chief Executive is responsible to the Speaker for each of the following matters:
   (a) the carrying out of the duties and functions of the Parliamentary Service:
   (b) the tendering of advice to the Speaker and to the Parliamentary Service Commission:
   (c) the general conduct of the Service:
   (d) the efficient, effective, and economical management of the activities of the Service.
-(2) In addition to the responsibilities in subsection (1), the General Manager must—
+(2) In addition to the responsibilities in subsection (1), the Chief Executive must—
   (a) ensure that information is provided in accordance with section 19 of the Members of Parliament (Remuneration and Services) Act 2013; and
-  (b) perform the functions conferred on the General Manager by that Act, and under any procedures prescribed by the Remuneration Authority in accordance with that Act.
-(3) The General Manager is responsible to the Remuneration Authority for the matters referred to in subsection (2).
+  (b) perform the functions conferred on the Chief Executive by that Act, and under any procedures prescribed by the Remuneration Authority in accordance with that Act.
+(3) The Chief Executive is responsible to the Remuneration Authority for the matters referred to in subsection (2).
 
 **Further provisions relating to Parliamentary Service**
 
@@ -197,7 +197,7 @@ There is a commission called the Parliamentary Service Commission.
   (a) to advise the Speaker on the nature of the services to be provided to the House of Representatives, members of Parliament, parties, and qualifying electoral candidates (other than services in respect of members participating in the official inter-parliamentary relations programme):
   (b) to advise the Speaker on proposed directions relating to the allocation and administration of funding appropriated in Appropriation Acts to support the parliamentary operations of members of Parliament, parties, and qualifying electoral candidates:
   (c) to recommend to the Speaker persons who are suitable to be members of a review committee.
-(2) The Commission may at any time require the Speaker or the General Manager to report on, or inquire into, matters relating to the administration of this Act or the exercise or performance of any function, duty, or power under this Act.
+(2) The Commission may at any time require the Speaker or the Chief Executive to report on, or inquire into, matters relating to the administration of this Act or the exercise or performance of any function, duty, or power under this Act.
 (3) The Commission has any other function or power conferred on it by or under any enactment.
 (4) The Commission does not have a role in relation to—
   (a) business transacted at meetings of the House of Representatives or meetings of committees of the House of Representatives; or
@@ -288,8 +288,8 @@ The land described in Schedule 3 is declared—
 ### 24 Leased premises in Bowen House
 (1) On the commencement of this Act, the interests, licences, and rights of the Parliamentary Service Commission under the Bowen House lease cease to be vested in the Parliamentary Service Commission, and vest instead in the Parliamentary Corporation.
 (2) No person is entitled to terminate, alter, or otherwise affect in any way the interests, licences, and rights vested in the Parliamentary Corporation by subsection (1), simply because of the vesting under that subsection.
-(3) The General Manager must keep a copy of the lease at the General Manager's office.
-(4) As long as any land or premises that are subject to the lease continue to be part of the parliamentary precincts, any person may send to the General Manager a written application to inspect the lease; and in that case the General Manager must give the applicant a reasonable opportunity to inspect the lease during ordinary business hours at the General Manager's office.
+(3) The Chief Executive must keep a copy of the lease at the Chief Executive’s office.
+(4) As long as any land or premises that are subject to the lease continue to be part of the parliamentary precincts, any person may send to the Chief Executive a written application to inspect the lease; and in that case the Chief Executive must give the applicant a reasonable opportunity to inspect the lease during ordinary business hours at the Chief Executive’s office.
 
 ### 25 House of Representatives may add land to parliamentary precincts
 (1) The House of Representatives may from time to time, by resolution,—
@@ -319,7 +319,7 @@ The Parliamentary Corporation has the following functions:
 ### 29 Membership of Parliamentary Corporation
 (1) The Parliamentary Corporation consists of the following:
   (a) the Speaker:
-  (b) the General Manager:
+  (b) the Chief Executive:
   (c) 2 members of the Parliamentary Service Commission (other than the Speaker) appointed by the Commission.
 (2) A member of the Corporation who holds office under subsection (1)﻿(c) ceases to be a member if one of the following events occurs:
   (a) the Parliamentary Service Commission revokes the appointment of the member or appoints, instead of that member, another person:
@@ -397,10 +397,10 @@ Amendment(s) incorporated in the Act(s).
 
 ## Schedule 1 — Provisions applying in respect of Parliamentary Service
 
-**General Manager and Acting General Manager**
+**Chief Executive and Acting Chief Executive**
 
-### 1 Appointment of General Manager
-(1) The General Manager of the Parliamentary Service is appointed by the Governor-General on the recommendation of a committee consisting of—
+### 1 Appointment of Chief Executive
+(1) The Chief Executive of the Parliamentary Service is appointed by the Governor-General on the recommendation of a committee consisting of—
   (a) the Speaker, who chairs the committee constituted under this clause:
   (b) a member of the Parliamentary Service Commission appointed for the purpose by the Leader of the House:
   (c) a member of the Parliamentary Service Commission appointed for the purpose by the Leader of the Opposition:
@@ -415,23 +415,23 @@ Amendment(s) incorporated in the Act(s).
   (b) may, except as otherwise specified in this clause, regulate its own procedure.
 
 ### 2 Obligation to advertise vacancies
-No person may be appointed as the General Manager of the Parliamentary Service unless the vacancy has been notified in a manner that the Speaker thinks sufficient to enable suitably qualified persons to apply for the position.
+No person may be appointed as the Chief Executive of the Parliamentary Service unless the vacancy has been notified in a manner that the Speaker thinks sufficient to enable suitably qualified persons to apply for the position.
 
 ### 3 Remuneration and conditions of employment
-(1) The remuneration of the General Manager is determined from time to time by the Remuneration Authority under the Remuneration Authority Act 1977.
-(2) The terms and conditions of employment of the General Manager (other than remuneration) are determined from time to time by the State Services Commissioner with the agreement of the Speaker.
+(1) The remuneration of the Chief Executive is determined from time to time by the Remuneration Authority under the Remuneration Authority Act 1977.
+(2) The terms and conditions of employment of the Chief Executive (other than remuneration) are determined from time to time by the State Services Commissioner with the agreement of the Speaker.
 
 ### 4 Term of office
-(1) The General Manager is appointed for a term of 5 years; but is eligible for reappointment from time to time.
-(2) When the term for which a person has been appointed as General Manager expires, that person, unless sooner vacating or removed from office under clause 5, continues to hold office until—
+(1) The Chief Executive is appointed for a term of 5 years; but is eligible for reappointment from time to time.
+(2) When the term for which a person has been appointed as Chief Executive expires, that person, unless sooner vacating or removed from office under clause 5, continues to hold office until—
   (a) that person is reappointed; or
   (b) a successor to that person is appointed.
 
-### 5 Removal of General Manager from office
-The State Services Commissioner may, with the agreement of the Speaker, for just cause or excuse, remove the General Manager from office.
+### 5 Removal of Chief Executive from office
+The State Services Commissioner may, with the agreement of the Speaker, for just cause or excuse, remove the Chief Executive from office.
 
-### 6 Acting General Manager of Parliamentary Service
-(1) When there is a vacancy in the position of General Manager or when the General Manager is (for whatever reason) absent from duty, the functions, duties, and powers of the General Manager must be exercised or performed by a person whom the Speaker directs to exercise those functions, duties, and powers.
+### 6 Acting Chief Executive of Parliamentary Service
+(1) When there is a vacancy in the position of Chief Executive or when the Chief Executive is (for whatever reason) absent from duty, the functions, duties, and powers of the Chief Executive must be exercised or performed by a person whom the Speaker directs to exercise those functions, duties, and powers.
 (2) A person whom the Speaker directs must be an employee of the Parliamentary Service or an employee of a department.
 (3) The Speaker may give a direction before the occurrence of any vacancy or absence referred to in subclause (1) or while the vacancy or absence continues.
 (4) No direction and no act done by a person acting under a direction given under this clause may, in a proceeding, be questioned on the ground that the occasion for the direction had not arisen or had ceased or on the ground that the person had not been appointed to a position to which the direction relates.
@@ -441,28 +441,28 @@ The State Services Commissioner may, with the agreement of the Speaker, for just
 ### 7 Application of State Sector Act 1988
 (1) The provisions of Parts 5, 6, and 8 of the State Sector Act 1988 apply in respect of employment within the Parliamentary Service as if—
   (a) the Service were a department; and
-  (b) all references to the chief executive were references to the General Manager.
+  (b) the Chief Executive of the Service were the chief executive of that department.
 (2) Nothing in any other Part of the State Sector Act 1988 applies in respect of the Service or persons employed in the Service.
 (3) Subclause (2) is subject to clause 15.
-(4) Despite section 68 of the State Sector Act 1988, the General Manager is responsible for negotiating a collective agreement under the Employment Relations Act 2000 and the General Manager must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
+(4) Despite section 68 of the State Sector Act 1988, the Chief Executive is responsible for negotiating a collective agreement under the Employment Relations Act 2000 and the Chief Executive must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
 
-### 8 Delegation of powers by General Manager
-(1) The General Manager may delegate to a specified employee, or to employees of a specified class, of the Parliamentary Service any function, duty, or power (other than this power of delegation) that the General Manager can exercise—
+### 8 Delegation of powers by Chief Executive
+(1) The Chief Executive may delegate to a specified employee, or to employees of a specified class, of the Parliamentary Service any function, duty, or power (other than this power of delegation) that the Chief Executive can exercise—
   (a) under an enactment; or
   (b) under a delegation made under an enactment.
-(2) A delegation must be in writing and signed by the General Manager.
+(2) A delegation must be in writing and signed by the Chief Executive.
 (3) A delegate must exercise or perform the functions, duties, or powers delegated—
-  (a) in accordance with any condition attaching to the delegation and any general or special direction given by the General Manager; but
+  (a) in accordance with any condition attaching to the delegation and any general or special direction given by the Chief Executive; but
   (b) otherwise in the same manner and with the same effect as if they had been conferred or imposed on the delegate directly by this Act.
 (4) Every person appearing to act under a delegation is, in the absence of proof to the contrary, to be regarded as acting in accordance with the terms of the delegation.
 
 ### 9 Status of delegations
-(1) The General Manager is not prevented from exercising or performing any function, duty, or power delegated under clause 8.
-(2) The General Manager may revoke a delegation at any time by written notice to the delegate.
+(1) The Chief Executive is not prevented from exercising or performing any function, duty, or power delegated under clause 8.
+(2) The Chief Executive may revoke a delegation at any time by written notice to the delegate.
 (3) A delegation continues in force according to its tenor until it is revoked.
-(4) If the person who made the delegation ceases to hold office as General Manager, the delegation continues to have effect as if made,—
-  (a) until the appointment of the next General Manager, by the person acting as General Manager; and
-  (b) after that appointment, by the next General Manager.
+(4) If the person who made the delegation ceases to hold office as Chief Executive, the delegation continues to have effect as if made,—
+  (a) until the appointment of the next Chief Executive, by the person acting as Chief Executive; and
+  (b) after that appointment, by the next Chief Executive.
 
 ### 10 Superannuation
 For the purposes of the Government Superannuation Fund Act 1956, service as an employee of the Parliamentary Service is Government service.
@@ -473,7 +473,7 @@ For the purposes of the Government Superannuation Fund Act 1956, service as an e
 The Parliamentary Library forms part of the Parliamentary Service.
 
 ### 12 Functions of Parliamentary Library
-(1) The general function of the Parliamentary Library is to provide to the persons specified in subclause (2) the library, information, research, and reference services required by the General Manager.
+(1) The general function of the Parliamentary Library is to provide to the persons specified in subclause (2) the library, information, research, and reference services required by the Chief Executive.
 (2) The Parliamentary Library must provide the services referred to in subclause (1) to the following persons:
   (a) members of Parliament:
   (b) officers of the House of Representatives:
@@ -484,8 +484,8 @@ The Parliamentary Library forms part of the Parliamentary Service.
 
 ### 13 Parliamentary Librarian
 (1) The head of the Parliamentary Library (called the Parliamentary Librarian) is an employee of the Parliamentary Service.
-(2) Before appointing a person to the position of Parliamentary Librarian, the General Manager must consult with any committee, established under clause 8 of Schedule 2, that is responsible for providing advice on the Parliamentary Library.
-(3) The holder of the position of Parliamentary Librarian is responsible to the General Manager.
+(2) Before appointing a person to the position of Parliamentary Librarian, the Chief Executive must consult with any committee, established under clause 8 of Schedule 2, that is responsible for providing advice on the Parliamentary Library.
+(3) The holder of the position of Parliamentary Librarian is responsible to the Chief Executive.
 
 **Audits and reviews of Parliamentary Service**
 
@@ -497,7 +497,7 @@ The Parliamentary Service Commission is a public entity as defined in section 4 
 (1A) The State Services Commissioner must exercise functions requested by the Speaker in accordance with subsection (1) consistently with the role of the Parliamentary Service and its separation from the executive government.
 (2) For the purposes of this clause, section 6 of the State Sector Act 1988 applies, with all necessary modifications, as if—
   (a) the Service were a department; and
-  (b) the General Manager of the Service were the chief executive of that department.
+  (b) the Chief Executive of the Service were the chief executive of that department.
 
 **Assets of Parliamentary Corporation notionally owned by Parliamentary Service**
 
@@ -594,15 +594,15 @@ As soon as practicable after the end of each year ending with 30 June, the Parli
 (1) The Speaker is the chairperson of the Corporation.
 (2) When there is a vacancy in the office of Speaker, or when the Speaker is (for whatever reason) absent from duty, the Deputy Speaker is the chairperson of the Corporation.
 
-### 2 Chief executive and Secretary
-(1) The General Manager is the chief executive of the Corporation.
+### 2 Chief executive and Secretary of Corporation
+(1) The Chief Executive is the chief executive of the Corporation.
 (2) The chief executive may appoint an employee of the Parliamentary Service to be the Secretary of the Corporation.
 
 ### 3 Meetings
 (1) Meetings of the Corporation are held at times and places appointed by the Corporation or by the chairperson of the corporation.
 (2) Every meeting of the Corporation requires the presence of—
   (a) the chairperson or a deputy appointed, under clause 5, by the chairperson; and
-  (b) the General Manager or a deputy appointed, under clause 5, by the General Manager; and
+  (b) the Chief Executive or a deputy appointed, under clause 5, by the Chief Executive; and
   (c) 1 member appointed under section 29(1)﻿(c) or a deputy appointed, under clause 5, by such a member.
 
 ### 4 Person presiding
@@ -633,7 +633,7 @@ Subject to the provisions of this Act, the Corporation may regulate its procedur
 (1) The Corporation must provide for the safe custody of the common seal of the Corporation, which must be in a form that the Corporation decides.
 (2) The common seal may be used only by the authority of a resolution of the Corporation, and each document to which the seal is affixed must, subject to subclauses (3) and (4), be signed by 2 members of the Corporation.
 (3) A member of Parliament may sign, in the place of the Speaker, a document to which the common seal is affixed if that member is authorised by a delegation, given under section 34, to sign the document or documents of that kind.
-(4) An employee of the Parliamentary Service may sign, in the place of the General Manager, a document to which the common seal is affixed if that employee is authorised by a delegation, given under clause 8 of Schedule 1, to sign the document or documents of that kind.
+(4) An employee of the Parliamentary Service may sign, in the place of the Chief Executive, a document to which the common seal is affixed if that employee is authorised by a delegation, given under clause 8 of Schedule 1, to sign the document or documents of that kind.
 (5) The seal of the Corporation must be judicially noticed in all courts and for all purposes.
 
 ### 10 Contracts
