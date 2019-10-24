@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -67,9 +67,6 @@ This Act binds the Crown.
       (iv) any other particulars that the Comptroller of Customs considers relevant to the purpose set out in section 120
   - **director** has the meaning set out in section 126 of the Companies Act 1993
   - **Disputes Tribunal** means a Motor Vehicle Disputes Tribunal established under section 82(1)
-  - **existing licence application** means an application for a motor vehicle dealer's licence, or an application for the renewal of a motor vehicle dealer's licence, under the former Act that—
-    (a) had been received by the Board before the date of commencement of this Act; and
-    (b) had not been granted, refused, or withdrawn before that date
   - **finance company** includes any person who carries on a business (except the business of motor vehicle trading) and who, in the course of that person's ordinary business,—
     (a) buys, exchanges, or takes by way of assignment any motor vehicle for any of the following purposes:
       (i) letting or hiring it to any other person under a hire purchase agreement:
@@ -138,9 +135,6 @@ This Act binds the Crown.
   - **trailer** —
     (a) means a vehicle without motive power that is drawn or propelled or is capable of being drawn or propelled by a motor vehicle from which it is readily detachable; and
     (b) includes a sidecar for a motor cycle
-  - **transitional period** means a period that expires at—
-    (a) the end of 3 months after the date of commencement of this Act; or
-    (b) a later date fixed by Order in Council
   - **used motor vehicle** —
     (a) means a motor vehicle that has, at any time before being offered or displayed for sale,—
       (i) been registered under—
@@ -341,16 +335,12 @@ An individual is disqualified from registration if he or she is—
   (a) under 18 years of age; or
   (b) a banned person; or
   (c) an undischarged bankrupt; or
-  (d) a person whose motor vehicle dealer's licence has been cancelled, or who has been suspended as a licensee, under the former Act within,—
-    (i) in the case of a cancellation, the preceding 5 years; or
-    (ii) in the case of a suspension, the preceding 12 months; or
-  (e) a person whose salesman's registration or certificate of approval has been cancelled, or who has been suspended as a salesman, under the former Act within,—
-    (i) in the case of a cancellation, the preceding 5 years; or
-    (ii) in the case of a suspension, the preceding 12 months; or
+  (d)
+  (e)
   (f) a person who is an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager and—
     (i) in respect of whom the approval of the Board under section 20 or section 21 or section 57(2) of the former Act has been cancelled; or
     (ii) who has been suspended under the former Act; or
-  (g) a person who held a motor vehicle dealer's licence under the former Act and who is also a person against whom the Institute may exercise its right of subrogation under section 42 of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
+  (g)
   (h) a person whose registration as a motor vehicle trader has been cancelled under section 42 within the preceding 5 years; or
   (i) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993; or
   (j) a person who has been convicted of a crime involving dishonesty within the preceding 5 years; or
@@ -361,10 +351,8 @@ An individual is disqualified from registration if he or she is—
 ### 25 Persons disqualified from registration: companies
 A company is disqualified from registration if—
   (a) the company is a banned person; or
-  (b) the company's motor vehicle dealer's licence has been cancelled, or the company has been suspended as a licensee, under the former Act within,—
-    (i) in the case of a cancellation, the preceding 5 years; or
-    (ii) in the case of a suspension, the preceding 12 months; or
-  (c) the company is a licensee under the former Act and is also a person against whom the Institute may exercise its right of subrogation under section 42 of that Act in relation to any payment out of the Fund arising from a claim against the Fund within the preceding 5 years for any act or thing done or omitted to be done by that person; or
+  (b)
+  (c)
   (d) the company is in liquidation; or
   (e) the name of the company has been removed from the register of companies kept under section 360(1)﻿(a) of the Companies Act 1993; or
   (f) a person concerned in the management of the company is disqualified from registration in his or her own right under section 24; or
@@ -1381,77 +1369,37 @@ The Crown is not liable to make a payment to, or otherwise compensate, any perso
 **Transitional provisions for existing licence applications**
 
 ### 148 Existing licence applications must be treated as applications for registration under this Act in certain cases
-(1) An existing licence application must be treated as if it were an application for registration as a motor vehicle trader made under this Act; and the provisions relating to applications for registration under this Act apply with any necessary modifications.
-(2) Subsection (1) applies only if, within 20 working days after receiving the notice referred to in section 150, the applicant—
-  (a) gives written notice to the Registrar that the applicant wishes to have the application determined under this Act; and
-  (b) provides the Registrar with the information or other matters that are required to ensure that the application complies with sections 31 and 32.
+[Repealed]
 
 ### 149 What happens if applicant does not meet requirements of section 148(2)
-(1) An existing licence application must be taken to have lapsed and is of no effect if the applicant fails to meet all or any of the requirements of section 148(2).
-(2) An applicant to which subsection (1) applies is not entitled to be refunded, in whole or in part, any prescribed fee paid under the former Act in relation to an existing licence application.
+[Repealed]
 
 ### 150 Registrar's requirements for processing existing licence applications
-As soon as practicable after the date of commencement of this Act, the Registrar must—
-  (a) give written notice to every applicant who made an existing licence application; and
-  (b) describe the status of the applicant's application and the effect of sections 148 and 149 in that notice.
+[Repealed]
 
 ### 151 Payment of prescribed application fee under former Act sufficient for purpose of processing existing licence application
-An applicant who has already paid, under the former Act, the prescribed fee for an existing licence application is not required to pay the prescribed fee that would have otherwise been payable under section 31(2)﻿(b).
+[Repealed]
 
 **Transitional provisions for registration**
 
 ### 152 Certain persons to be treated as registered on commencement of Act
-(1) The following persons are to be treated as motor vehicle traders registered under this Act:
-  (a) a person who, immediately before the date of commencement of this Act, held a motor vehicle dealer's licence that was in force under the former Act:
-  (b) a person who, immediately before the date of commencement of this Act, applied for the renewal of that person's motor vehicle dealer's licence under the former Act and whose—
-    (i) application for renewal had not been determined before that date; and
-    (ii) licence would have expired before that date if not for the application of section 18(10) of the former Act:
-  (c) a person who, immediately before the date of commencement of this Act, was not required to be licensed under the former Act but, with the commencement of this Act, must be registered as a motor vehicle trader under this Act.
-(2) A person referred to in subsection (1)﻿(a) must, within 20 working days after receiving a written notice from the Registrar, comply with that notice.
-(3) For the purposes of subsection (2), the Registrar must, as soon as practicable after the commencement of this Act, request every person referred to in subsection (1)﻿(a), by written notice, to provide the Registrar with the information and other matters required under sections 31 and 32 (except the prescribed application fee referred to in section 31(2)﻿(b)).
+[Repealed]
 
 ### 153 When registration under section 152 ceases
-Unless a person referred to in section 152(1) earlier registers under this Act, the registration under that section ceases,—
-  (a) in the case of a person referred to in section 152(1)﻿(a),—
-    (i) if that person complies with section 152(2), on the later of the following dates:
-      (A) the expiry of the balance of the term of the motor vehicle dealer's licence held by that person immediately before the date of commencement of this Act; or
-      (B) the expiry of the transitional period; or
-    (ii) if that person does not comply with section 152(2), on the earlier of the following dates:
-      (A) the expiry of the balance of the term of the motor vehicle dealer's licence held by that person immediately before the date of commencement of this Act; or
-      (B) the expiry of the transitional period:
-  (b) in every other case, on the expiry of the transitional period.
+[Repealed]
 
 **Transitional provisions for Board**
 
 ### 154 Continuation of Board
-(1) Despite the repeal of the former Act, the Board continues to exist until a date that the Governor-General may fix by Order in Council made on the recommendation of the Minister.
-(2) The Governor-General may fix a date only if the Board has certified that—
-  (a) the Board has completed its functions in accordance with section 155; and
-  (b) all disciplinary proceedings before the Board have been completed; and
-  (c) all appeals relating to those proceedings have been determined.
-(3) However, the Governor-General may, at any time, fix a date if the Governor-General is satisfied, at the time of the making of the Order in Council, that—
-  (a) a reasonable period of time has elapsed since the commencement of this Act to enable the Board to certify to the Governor-General under subsection (2); and
-  (b) the matters set out in that subsection will not be unduly prejudiced by the abolition of the Board.
+[Repealed]
 
 ### 155 Board must deliver certain records to Registrar
-As soon as practicable after the commencement of this Act, the Board must deliver to the Registrar a copy of—
-  (a) every existing licence application received by the Board; and
-  (b) the Register of Motor Vehicle Dealers maintained under section 6N of the former Act; and
-  (c) any information or documents held by the Board relating to the matters referred to in sections 24(d) to (f) and 25(b); and
-  (d) any other information or documents held by the Board relating to the licensing of motor vehicle dealers under the former Act that the Registrar may, by written notice, request from the Board.
+[Repealed]
 
 **Transitional provisions for disciplinary proceedings under former Act**
 
 ### 156 Transitional provisions for disciplinary proceedings under former Act
-(1) In this section and section 154,—
-  - **Authority** means the Motor Vehicle Salesmen Registration Authority constituted under section 63 of the former Act
-  - **disciplinary proceeding** means a proceeding under the former Act that relates to—
-    (a) any application to the Board under section 112 of the former Act for an order cancelling a motor vehicle dealer's licence or suspending a licensee; or
-    (b) any application to the Authority under section 116 of the former Act for an order cancelling a salesman's registration or suspending a salesman; or
-    (c) any application to the Board under section 117 of the former Act for an order cancelling a salesman's certificate of approval or suspending a salesman; or
-    (d) any application under section 118A of the former Act in respect of an officer of a licensee company, a chief executive officer of a licensee company, or a branch manager.
-(2) If a disciplinary proceeding has been commenced, but not completed, before the date of commencement of this Act, the disciplinary proceeding must be continued and completed in all respects under the former Act, including any appeal under Part 9 of that Act relating to the proceeding, as if this Act had not been passed.
-(3) The Board or the Authority must adopt procedures that are necessary for the expeditious conduct of any disciplinary proceeding before it.
+[Repealed]
 
 **Transitional provisions for licensees' obligations**
 
@@ -1464,26 +1412,16 @@ As soon as practicable after the commencement of this Act, the Board must delive
 **Transitional provisions for Fund**
 
 ### 158 Purpose of section 159
-The purpose of section 159 is to ensure that the Institute is able to carry out its functions and duties in relation to the Fund during the period of 12 months beginning with the date of commencement of this Act.
+[Repealed]
 
 ### 159 Membership of Institute to continue despite repeal of former Act
-(1) This section applies to every person who, immediately before the date of commencement of this Act,—
-  (a) held a motor vehicle dealer's licence that was in force under the former Act; and
-  (b) was a member of the Institute.
-(2) Despite the repeal of the former Act, a person to whom this section applies must be treated as a member of the Institute during the period of 12 months beginning with the date of commencement of this Act unless the person resigns from that membership.
+[Repealed]
 
 ### 160 Claims against Fund
-(1) No person is entitled to make any claim against the Fund for any act or thing done or omitted to be done after the commencement of this Act.
-(2) No person is entitled to make any claim against the Fund for any act or thing done or omitted to be done before the commencement of this Act unless notice of the claim is given in writing to the Institute within the period of 12 months beginning with the date of the commencement of this Act.
-(3) All provisions of Part 3 of the former Act (except section 35) continue to apply until all claims received in accordance with the provisions of that Part have been fully dealt with.
-(4) Until all claims against the Fund have been fully dealt with, every registered motor vehicle trader who has previously held a motor vehicle dealer's licence under the former Act must pay to the Institute for payment into the Fund the contribution that the Institute, with the concurrence of the Minister, considers sufficient to satisfy its liabilities under the Fund.
+[Repealed]
 
 ### 161 Registrar must cancel registration for non-payment of contribution to Fund
-(1) If a registered motor vehicle trader referred to in section 160(4) fails to pay a contribution to the Fund within the time specified by the Institute, the Institute must give written notice of that fact to the Registrar.
-(2) As soon as practicable after receiving a notice under subsection (1), the Registrar must cancel the registration of the person who is the subject of the notice in accordance with the process for cancellation set out in section 43.
-(3) A cancellation under this section must be treated as if it were a cancellation under section 42, and the provisions relating to the cancellation of registration under this Act apply with any necessary modifications.
-(4) If the person whose registration has been cancelled pays the contribution to the Fund, that person may apply for re-registration despite, as the case may be, section 24(h) or section 25(g).
-(5) An application for re-registration under subsection (4) must be treated as if it were a new application for registration, and the provisions relating to applications for registration under this Act apply with any necessary modifications.
+[Repealed]
 
 ### 162 Winding up of Fund
 (1) At any time after all the claims against the Fund have been received and fully dealt with, the Institute may, by notice in the Gazette, specify a date (being not less than 1 month after the date of the publication of the notice in the Gazette) on which the Fund is to be wound up.
@@ -1493,11 +1431,7 @@ The purpose of section 159 is to ensure that the Institute is able to carry out 
 **Review of Act**
 
 ### 163 Review of operation of Act
-(1) The Ministry must, no later than 2 years from the date of commencement of this Act,—
-  (a) review the operation of this Act since its commencement; and
-  (b) prepare for the Minister a report of the review that includes recommendations on whether any amendments to this Act are necessary or desirable.
-(2) In preparing the report, the Ministry must consult with interested parties, including representatives of consumer interests in relation to motor vehicle sales.
-(3) As soon as practicable after receiving the report from the Ministry, the Minister must present a copy of it to the House of Representatives.
+[Repealed]
 
 ## Schedule 1 — Procedure of Disputes Tribunals
 
