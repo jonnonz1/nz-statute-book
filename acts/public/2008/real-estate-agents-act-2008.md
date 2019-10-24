@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -777,7 +777,7 @@ If, under section 91(a), a Committee lays before the Disciplinary Tribunal a cha
     (i) to rectify, at his or her or its own expense, any error or omission; or
     (ii) where it is not practicable to rectify the error or omission, to take steps to provide, at his or her or its own expense, relief, in whole or in part, from the consequences of the error or omission:
   (g) order the licensee to pay to the Authority a fine not exceeding $10,000 in the case of an individual or $20,000 in the case of a company:
-  (h) order the licensee, or the agent for whom the person complained about works, to make his or her or its business available for inspection or take advice in relation to management from persons specified in the order:
+  (h) order the licensee, or the agent for whom the person complained about works, to make his or her or its business (including any records, accounts, and assets) available for inspection or take advice in relation to management from persons specified in the order:
   (i) order the licensee to pay the complainant any costs or expenses incurred in respect of the inquiry, investigation, or hearing by the Committee.
 (2) An order under this section may be made on and subject to any terms and conditions that the Committee thinks fit.
 
