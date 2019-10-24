@@ -1,5 +1,5 @@
 # Registered Architects Act 2005
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Registered Architects Act 2005.
@@ -372,14 +372,14 @@ The Board’s functions are—
 
 ### 52 Composition of Board
 (1) The Board must have at least 6, but no more than 8, members.
-(2) A member must be appointed by the Governor-General on the recommendation of the Minister.
-(3) The Minister must recommend for appointment as members of the Board—
+(2) A member must be appointed by the Minister.
+(3) The Minister must appoint as members of the Board—
   (a) a maximum of 4 people nominated by the New Zealand Institute of Architects; and
   (b) a maximum of 4 other persons.
 (4) The Minister may accept nominations for membership of the Board, but each member is appointed to undertake the functions and duties of a member rather than to represent the interests of any person.
 
 ### 53 Criteria for appointment
-The Minister may only recommend a person for appointment as a member of the Board who, in the Minister’s opinion, is qualified for appointment,—
+The Minister may only appoint a person as a member of the Board who, in the Minister’s opinion, is qualified for appointment,—
   (a) having regard to the functions, duties, and powers of the Board; and
   (b) because of that person’s knowledge, experience, or expertise.
 
@@ -619,10 +619,11 @@ Amendment(s) incorporated in the Act(s).
 **Appointment, term, resignation, and removal of members**
 
 ### 1 Method of appointment
-(1) The Governor-General appoints a member by sending written notice to the member (with a copy to the Board).
+(1) The Minister appoints a member by sending written notice to the member (with a copy to the Board).
 (2) The notice of appointment must—
   (a) state the date on which the appointment takes effect; and
   (b) be given only after the person to be appointed has consented in writing to being a member, certified in writing that he or she is not disqualified from being a member, and disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under clauses 13 to 16 at the time of the certificate.
+(3) When a member of the Board is appointed, the Minister must publish a notice in the Gazette confirming the appointment.
 
 ### 2 Restrictions on persons who may be members
 The following persons are disqualified from being members:
@@ -640,7 +641,7 @@ The following persons are disqualified from being members:
   (c) continues in office despite the expiry of his or her term of office until—
     (i) the member is reappointed; or
     (ii) the member’s successor is appointed; or
-    (iii) the Governor-General informs the member by written notice (with a copy to the Board) that the member is not to be reappointed and no successor is to be appointed.
+    (iii) the Minister informs the member by written notice (with a copy to the Board) that the member is not to be reappointed and no successor is to be appointed.
 (2) This clause is subject to clause 8.
 
 ### 4 Concurrent offices
@@ -656,12 +657,12 @@ The acts of a person as a member are valid even if—
 (2) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice.
 
 ### 7 Removal from office
-(1) The Governor-General may, on the advice of the Minister given after consultation with the Attorney-General, remove a member from office by written notice to the member (with a copy to the Board) at any time for any of the following reasons proved to the satisfaction of the Governor-General:
+(1) The Minister may, after consultation with the Attorney-General, remove a member from office by written notice to the member (with a copy to the Board) at any time for any of the following reasons proved to the satisfaction of the Minister:
   (a) breach of the member’s duties or the Board’s collective duties under this schedule; or
   (b) failure or inability to perform, or inadequate performance of, the member’s duties and responsibilities as a member; or
   (c) misconduct by the member; or
   (d) any other just cause.
-(2) Before giving advice to the Governor-General, the Minister must give the member a reasonable opportunity to make written submissions or be heard on the proposal to remove him or her.
+(2) Before removing the member, the Minister must give the member a reasonable opportunity to make written submissions or be heard on the proposal to remove him or her.
 (3) The notice of removal must state the reason for the removal.
 (4) A member is not entitled to any compensation or other payment or benefit relating to his or her removal from office.
 
