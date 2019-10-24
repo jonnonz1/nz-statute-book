@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -742,7 +742,7 @@ If an appeal by any person against the making of an instrument forfeiture order 
 ### 82 Discharge of assets forfeiture order by Official Assignee
 (1) If a court makes an assets forfeiture order, the Official Assignee must, as soon as practicable after the expiry of the specified period (as described in subsection (2)), dispose of the property specified in the order and apply the money resulting from the disposal as follows:
   (a) first, by paying the costs recoverable by the Official Assignee under section 87:
-  (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
+  (b) secondly, by paying to the Legal Services Commissioner the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
   (c) thirdly, by paying, in the order of priority set out in section 86E of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
     (i) any amount of reparation (as defined in section 79 of the Summary Proceedings Act 1957):
     (ii) any offender levy (as defined in section 79 of the Summary Proceedings Act 1957):
@@ -760,7 +760,7 @@ If an appeal by any person against the making of an instrument forfeiture order 
 ### 83 Discharge of profit forfeiture order by Official Assignee
 (1) If the High Court makes a profit forfeiture order, the Official Assignee must, as soon as practicable after the expiry of the specified period (as described in subsection (2)), dispose of the property specified in the order and apply the money resulting from the disposal as follows:
   (a) first, by paying the costs recoverable by the Official Assignee under section 87:
-  (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
+  (b) secondly, by paying to the Legal Services Commissioner the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
   (c) thirdly, by paying, in the order of priority set out in section 86E of the Summary Proceedings Act 1957, any of the following amounts imposed on the former interest holder:
     (i) any amount of reparation (as defined in section 79 of the Summary Proceedings Act 1957):
     (ii) any offender levy (as defined in section 79 of the Summary Proceedings Act 1957):
@@ -791,7 +791,7 @@ If an appeal by any person against the making of an instrument forfeiture order 
 ### 85 Discharge of instrument forfeiture order by Official Assignee
 If a court makes an instrument forfeiture order, the Official Assignee must, as soon as practicable after the expiry of the relevant appeal period (defined in section 73(3)), dispose of the property specified in the order and apply the money resulting from the disposal as follows:
   (a) first, by paying the costs recoverable by the Official Assignee under section 87:
-  (b) secondly, by paying to the Secretary for Justice the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
+  (b) secondly, by paying to the Legal Services Commissioner the amount (if any) payable by way of legal aid granted to the former interest holder (less any contributions paid by the former interest holder):
   (c) thirdly, by paying, in the order of priority set out in section 86E of the Summary Proceedings Act 1957, any of the following outstanding amounts imposed on the former interest holder:
     (i) any amount of reparation (as defined in section 79 of the Summary Proceedings Act 1957):
     (ii) any offender levy (as defined in section 79 of the Summary Proceedings Act 1957):
