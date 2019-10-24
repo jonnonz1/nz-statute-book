@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -106,10 +106,10 @@ In this Act, unless the context otherwise requires,—
   - **departure hall** means a place licensed under section 59 of the Customs and Excise Act 2018 for the processing of persons departing from New Zealand
   - **dependent child** , in relation to any person, means a child under 18 years of age who is not married or in a civil union and who is dependent on that person, whether or not the child is a child of that person
   - **deportation liability notice** means a notice that states the matters referred to in section 171, and, for the purposes of serving a notice, includes a copy of the notice
-  - **deportation order** —
-    (a) means an order containing the information described in section 176 that, when served on a person in accordance with section 175, authorises the person's deportation to be executed; and
-    (ab) for the purposes of serving or executing an order described in paragraph (a), includes a copy of the order; and
-    (b) includes an Order in Council made under section 163
+  - **deportation order** means—
+    (a) an order that contains the information described in section 176 and that, when served on a person in accordance with section 175, authorises the person’s deportation to be executed:
+    (b) an Order in Council made under section 163:
+    (c) a copy of the order specified in paragraph (a) or (b)
   - **designated agency** means the agency designated by the Prime Minister under section 264(1) for the purpose of recognising lawyers as special advocates
   - **disembarkation** means the process of physically leaving a craft, whether onto land or otherwise
   - **education provider** means a provider of a course of study, and—
@@ -2208,15 +2208,17 @@ A deportation liability notice must be signed by the Minister or an immigration 
 
 ### 172 Minister may cancel or suspend liability for deportation
 (1) The Minister may at any time, by written notice, cancel a person’s liability for deportation.
-(2) The Minister may at any time, by written notice, suspend a residence class visa holder's liability for deportation—
+(2) The Minister may at any time, by written notice (a suspension notice), suspend a residence class visa holder's liability for deportation—
   (a) for a period not exceeding 5 years; and
   (b) subject to the visa holder complying with any conditions stated in the notice (which take effect from the date specified in the notice, being a date not earlier than the date of notification).
 (2A) The Minister may exercise his or her powers under this section whether or not the person who is liable for deportation—
   (a) has given good reason under section 155(2), 156(2)﻿(b), or 157(2) why the person should not be deported; or
   (b) has purported to apply to the Minister for any other reason.
-(3) Where a person fails to comply with the conditions stated in a notice under subsection (2),—
-  (a) the Minister may reactivate the person's liability for deportation by causing a deportation liability notice to be served on the person that sets out the grounds of the reactivation; and
-  (b) subject to section 175A(4), the person has 28 days from the date the deportation liability notice is served to leave New Zealand.
+(3) Where a person fails to comply with the conditions stated in a suspension notice,—
+  (a) the Minister may reactivate the person's liability for deportation by causing a deportation liability notice (a reactivation notice) to be served on the person that sets out the grounds of the reactivation; and
+  (b) subject to section 175A(4), the person has 28 days from the date on which the reactivation notice is served to—
+    (i) lodge an appeal with the Tribunal on the grounds specified in section 155, 156, 158, 159, 160, 161, or 162, if the person deferred lodging an appeal under section 173A(2); or
+    (ii) leave New Zealand.
 (4) In the case of a person who has appealed against his or her liability for deportation, the Minister must notify the Tribunal if the person’s liability for deportation is cancelled, suspended, or reactivated under subsection (1), (2), or (3)﻿(a).
 (5) The decision to cancel or suspend a person’s liability for deportation is in the absolute discretion of the Minister.
 (6) In the case of a person in imprisonment, the period referred to in subsection (2) commences on the date of the person’s release.
@@ -2229,6 +2231,14 @@ A deportation liability notice must be signed by the Minister or an immigration 
 (4) Despite subsections (2) and (3), the Minister may withhold from the person and every lawyer or agent (if any) acting for the person any part of the victim’s written submissions if, in the Minister’s opinion, the withholding of that part is necessary to protect the physical safety or security of the victim concerned.
 (5) Despite subsection (1), the Minister must not have regard to any part of the victim’s submissions that is withheld under subsection (4).
 (6) In this section, victim means a victim of an offence of a kind referred to in section 29 of the Victims’ Rights Act 2002.
+
+### 173A Person may defer lodging appeal against liability for deportation
+(1) This section applies to a residence class visa holder who is—
+  (a) liable for deportation under section 155, 156, 158, 159, 160, 161, or 162; and
+  (b) entitled to appeal to the Tribunal on the grounds specified in any one of those provisions; and
+  (c) served with a suspension notice under section 172(2).
+(2) The person may defer lodging an appeal with the Tribunal against their liability for deportation until the person is served with a reactivation notice under section 172(3).
+(3) If the person chooses to lodge an appeal with the Tribunal after being served with a reactivation notice, the time periods specified in sections 155(4), 156(3), 158(3), 159(2), 160(3), 161(2), and 162(2) do not apply to that person.
 
 ### 174 Effect of suspension
 (1) Where a person’s liability for deportation is suspended by the Minister under section 172, during the period of the suspension—
@@ -2781,8 +2791,8 @@ If the Tribunal decides that an appeal against liability for deportation should 
 (1) This section applies if the Minister suspends a person’s liability for deportation, and the person has lodged an appeal under this Part against that liability.
 (2) If the person does not withdraw the appeal, the Tribunal may, on the application of the person, adjourn any appeal on humanitarian grounds lodged by the person.
 (3) If the person’s liability for deportation is cancelled under section 172 or 174(2), the Tribunal may dispense with its consideration of any aspects of the appeal that have not been determined at that point.
-(4) If the person is served with a deportation liability notice under section 172(3), the Tribunal must then continue to determine any aspects of the person’s appeal that have not yet been determined.
-(5) To avoid doubt, a suspension of liability for deportation does not affect any time limit by which an appeal must be lodged under this Act.
+(4) If the person is served with a reactivation notice under section 172(3), the Tribunal must then continue to determine any aspects of the person’s appeal that have not yet been determined.
+(5)
 
 ### 215 Tribunal may reduce or remove period of prohibited entry under deportation order
 (1) On declining an appeal against liability for deportation, the Tribunal may in its absolute discretion order the reduction, or removal altogether, of the period of any prohibition on entry to New Zealand that would otherwise apply under section 179 following the person’s deportation from New Zealand.
@@ -2975,7 +2985,7 @@ For the purposes of assisting the Tribunal to determine an appeal or matter, the
 In any proceedings in which more than 1 appeal or matter is heard together, the Tribunal may issue a single decision in respect of the appeals or matters.
 
 ### 236 Appeals against deportation liability where person serving prison sentence
-(1) Where a person appealing against his or her liability for deportation is serving a sentence of imprisonment in a prison, the Tribunal must, with a view to determining the appeal before the person’s release, consider and determine any appeal on humanitarian grounds as close as practicable to the date of the person’s parole eligibility date or (in the case of a person serving a short-term sentence) statutory release date.
+(1) Where a person appealing against his or her liability for deportation is serving a sentence of imprisonment in a prison, the Tribunal must, with a view to determining the appeal before the person’s release, consider and determine any appeal on humanitarian grounds as soon as practicable after the appeal is lodged but before the person’s parole eligibility date or (in the case of a person serving a short-term sentence) before the person’s statutory release date.
 (2) In this section, parole eligibility date, short-term sentence, and statutory release date have the meanings given in section 4 of the Parole Act 2002.
 
 ### 237 Procedure
