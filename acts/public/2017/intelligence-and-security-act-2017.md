@@ -1,5 +1,5 @@
 # Intelligence and Security Act 2017
-_Consolidation as at 2019-03-18_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Intelligence and Security Act 2017.
@@ -3337,9 +3337,10 @@ A Commissioner may be removed from office by the Governor-General, on address fr
 ### 3 Remuneration and expenses
 (1) A Commissioner must be paid, out of public money and without further appropriation than this clause,—
   (a) a salary at the rate determined by the Remuneration Authority; and
-  (b) allowances (if any) determined by the Remuneration Authority.
+  (b) allowances (if any) determined by the Remuneration Authority; and
+  (c) in respect of time spent travelling in the performance of the Commissioner’s functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951.
 (2) The rate of salary and the allowances (if any) determined by the Remuneration Authority must be those applicable to an Acting High Court Judge.
-(3) A Commissioner is entitled to receive, in respect of time spent travelling in the performance of his or her functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly as if a Commissioner were a member of a statutory board and the travelling were in the service of a statutory board.
+(3) The Fees and Travelling Allowances Act 1951 applies as if a Commissioner were a member of a statutory board and the travelling were in the service of a statutory board.
 
 ### 4 Protection of Commissioners
 A Commissioner has all the immunities of a Judge of the High Court.
