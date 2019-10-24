@@ -1,5 +1,5 @@
 # Engineering Associates Act 1961
-_Consolidation as at 2017-03-01_
+_Consolidation as at 2019-10-24_
 
 > An Act to provide for the registration and control of certain persons associated with or employed in engineering work, and for the encouragement of better qualification in that work
 
@@ -26,6 +26,10 @@ In this Act, unless the context otherwise requires,—
   (b) 1 member of each association which has not less than 50 members registered or eligible for registration under this Act, which member shall be appointed by the Minister on the nomination of that association:
   (c) 2 other members appointed by the Minister.
 (3) Except as provided in section 10, every member of the Board shall hold office for a term of 2 years but may from time to time be reappointed.
+(3A) A member continues in office despite the expiry of the member’s term of office until—
+  (a) a successor is appointed; or
+  (b) the member is reappointed.
+(3B) When a member of the Board is appointed, the Minister must publish a notice in the Gazette confirming the appointment.
 (4) The Minister may appoint any member of an association nominated as such by that association to be the deputy of that association's member on the Board to act in the event of the absence from any meeting of the Board of the member whose deputy he is.
 (5) Where any member (being an employee of the Government service and not being a nominee of an association) is absent from any meeting he may authorise any other officer of his Department to attend the meeting in his stead. While any person is attending any meeting of the Board pursuant to this subsection, he shall be deemed for all purposes to be a member of the Board.
 
@@ -64,9 +68,27 @@ Except as expressly provided in this Act or in any regulations made under this A
 ### 10 Extraordinary vacancies on Board and Committee
 (1) Any member of the Board or of the Investigation Committee may at any time be removed from office by the Minister for inability to perform the functions of the office, bankruptcy, neglect of duty, or misconduct, proved to the satisfaction of the Minister, or may at any time resign his office by writing addressed to the Registrar.
 (2) If any member of the Investigation Committee becomes a member of the Board, his office as a member of the Committee shall be thereby vacated.
-(3) If any member of the Board or Committee dies or is removed from office or resigns, the vacancy so created shall, as soon as practicable, be filled in the manner in which the appointment to the vacant office was originally made. Every person so appointed shall be appointed for the residue of the term for which his predecessor was appointed.
+(3) If any member of the Board or Committee dies or is removed from office or resigns, the vacancy so created shall, as soon as practicable, be filled in the manner in which the appointment to the vacant office was originally made. Every person so appointed shall be appointed for a term determined by the Minister, not exceeding 2 years.
 (4) Unless he sooner vacates his office as provided in the foregoing provisions of this section, every member of the Board and of the Committee shall continue in office until his successor comes into office, notwithstanding anything to the contrary in this Act.
 (5) The powers of the Board and of the Committee shall not be affected by any vacancy in the membership thereof.
+
+**Reporting by Board**
+
+### 10A Board to prepare annual report
+The Board must prepare an annual report on its operations for each period ending with 31 March in each year.
+
+### 10B Form and content of annual report
+(1) An annual report must include all the information that is necessary to enable an informed assessment to be made of the Board’s performance during the year.
+(2) An annual report must be in writing, and be dated and signed on behalf of the Board by 2 members.
+
+### 10C Board to give annual report to Minister
+The Board must give the annual report to the Minister as soon as practicable after 31 March in each year.
+
+### 10D Board to publish reports
+As soon as practicable after giving a report to the Minister, the Board must make the report publicly available on an Internet site maintained by or on behalf of the Board.
+
+### 10E Annual reports to be presented to House of Representatives
+The Minister must present a copy of the annual report to the House of Representatives no later than 10 sitting days after the date on which the Minister receives the report.
 
 **Registration**
 
