@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2018-09-29_
+_Consolidation as at 2019-10-24_
 
 > Title
 
@@ -177,7 +177,7 @@ There shall from time to time be appointed by the chief executive of the Departm
     (i) the Prime Minister:
     (ii) the Speaker of the House of Representatives:
     (iii) the leader of the official Opposition:
-    (iv) the General Manager of the Parliamentary Service; and
+    (iv) the Chief Executive of the Parliamentary Service; and
   (b) by publishing it in the Gazette not later than 14 days after the date on which a copy of it is given to the Prime Minister.
 (2) A determination to which subsection (1) applies is a legislative instrument for the purposes of the Legislation Act 2012 but is not required to be presented to the House of Representatives under section 41 of that Act and is not a disallowable instrument for the purposes of that Act.
 
