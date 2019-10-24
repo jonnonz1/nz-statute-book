@@ -1,5 +1,5 @@
 # Members of Parliament (Remuneration and Services) Act 2013
-_Consolidation as at 2018-09-29_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Members of Parliament (Remuneration and Services) Act 2013.
@@ -46,6 +46,7 @@ In this Act, unless the context otherwise requires,—
   - **allowance** has the meaning given to it by section 2 of the Remuneration Authority Act 1977
   - **Assistant Speaker** means a person who holds the office of Assistant Speaker in accordance with the Standing Orders of the House of Representatives
   - **authorised person** has the meaning set out in section 46
+  - **Chief Executive** means the Chief Executive of the Parliamentary Service
   - **corrupt practice** has the meaning set out in section 40
   - **declaration day** has the meaning set out in section 40
   - **department responsible for Ministerial Services** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of Ministerial Services
@@ -60,7 +61,6 @@ In this Act, unless the context otherwise requires,—
     (a) a spouse or partner of the person:
     (b) a child or stepchild of the person, if that child or stepchild is under 18 years of age:
     (c) a dependent child of the person
-  - **General Manager** means the General Manager of the Parliamentary Service
   - **Minister** includes every member of the Executive Council
   - **Minister Responsible for Ministerial Services** means the Minister of the Crown who is, with the authority of the Prime Minister, for the time being responsible for Ministerial Services
   - **ordinary member of Parliament** means a member of Parliament who is not an office holder
@@ -97,7 +97,7 @@ Sections 8(3) to (7), 9, 21(1), 25(1) and (3), and 29 of the Remuneration Author
 
 ### 9 How salaries and allowances determined
 (1) The salaries and allowances under section 8 must be determined under section 12 of the Remuneration Authority Act 1977, and the relevant sections of that Act apply accordingly (see, for example, sections 16 and 17A to 19).
-(2) The General Manager must ensure that a copy of the Remuneration Authority's determination under section 8 is publicly available as soon as practicable after the General Manager receives it from the Remuneration Authority in accordance with section 16(1)﻿(a)﻿(iv) of the Remuneration Authority Act 1977.
+(2) The Chief Executive must ensure that a copy of the Remuneration Authority's determination under section 8 is publicly available as soon as practicable after the Chief Executive receives it from the Remuneration Authority in accordance with section 16(1)﻿(a)﻿(iv) of the Remuneration Authority Act 1977.
 
 ### 10 Period for which salaries and allowances of members of Parliament payable
 (1) The salary and allowance of each member of Parliament are payable for the period—
@@ -222,7 +222,7 @@ Despite anything in this Part, if a person receives a salary as head of mission 
 
 ### 19 Remuneration Authority may require information and obtain independent advice
 The Remuneration Authority may, at any time in the course of preparing a determination under this Part,—
-  (a) require the Clerk of the House of Representatives, the General Manager, the chief executive of the department responsible for Ministerial Services, any party, or any member of Parliament to provide information that it considers necessary for the purposes of making its determination:
+  (a) require the Clerk of the House of Representatives, the Chief Executive, the chief executive of the department responsible for Ministerial Services, any party, or any member of Parliament to provide information that it considers necessary for the purposes of making its determination:
   (b) obtain advice from any professional adviser or other person whose background or experience the Authority considers may assist it in making its determination.
 
 ### 20 Publication of Remuneration Authority's determinations
@@ -232,19 +232,19 @@ The Remuneration Authority may, at any time in the course of preparing a determi
   (c) the Leader of the Opposition:
   (d) the Minister Responsible for Ministerial Services:
   (e) the chief executive of the department responsible for Ministerial Services:
-  (f) the General Manager.
-(2) The General Manager must ensure that a copy of every determination made under section 17 is publicly available as soon as practicable after the General Manager receives it.
+  (f) the Chief Executive.
+(2) The Chief Executive must ensure that a copy of every determination made under section 17 is publicly available as soon as practicable after the Chief Executive receives it.
 
 ### 21 Resolution of issues about Remuneration Authority's determinations
 (1) The Remuneration Authority must prescribe procedures for resolving issues that arise about how any provision of a determination made under section 17 is to be interpreted or applied or is to operate, including—
-  (a) procedures that provide for the participation of the General Manager, in respect of issues concerning entitlements of members of Parliament, qualifying electoral candidates, or family members of those persons; and
+  (a) procedures that provide for the participation of the Chief Executive, in respect of issues concerning entitlements of members of Parliament, qualifying electoral candidates, or family members of those persons; and
   (b) procedures that provide for the participation of the chief executive of the department responsible for Ministerial Services or the person nominated by the chief executive as his or her representative for the purposes of this section, in respect of issues concerning entitlements of Ministers or family members of Ministers; and
   (c) procedures that are required to be followed before any issue may be referred to the Authority for final determination under subsection (3).
 (2) If it is not possible to resolve an issue by agreement under the resolution procedures prescribed under subsection (1), that issue may be referred to the Remuneration Authority for final determination.
 (3) On receiving a referral under subsection (2), the Remuneration Authority must—
   (a) satisfy itself that all procedures for resolving that issue have been followed in accordance with subsection (1) and that it has not been possible to resolve the issue by agreement under those procedures; and
   (b) make a final determination on the issue about how the provision of the determination is to be interpreted or applied or is to operate; and
-  (c) as soon as practicable, communicate that determination to the General Manager.
+  (c) as soon as practicable, communicate that determination to the Chief Executive.
 (4) This section is subject to section 3E of the Parliamentary Service Act 2000.
 
 ### 22 Permanent appropriations for services determined by Remuneration Authority
@@ -275,17 +275,17 @@ Before issuing directions under section 23, the Speaker must—
   (d) consult the Commissioner of Inland Revenue about the taxation consequences of the proposed directions.
 
 ### 25 Publication of Speaker's directions
-The General Manager must ensure that a copy of all directions issued by the Speaker under section 23 are publicly available as soon as practicable after they are issued.
+The Chief Executive must ensure that a copy of all directions issued by the Speaker under section 23 are publicly available as soon as practicable after they are issued.
 
 ### 26 Resolution of issues about Speaker's directions
 (1) The Speaker must prescribe procedures for resolving issues that arise about how any provision of the directions issued under section 23 is to be interpreted or applied or is to operate, including—
-  (a) procedures that provide for the participation of the General Manager; and
+  (a) procedures that provide for the participation of the Chief Executive; and
   (b) procedures that are required to be followed before an issue may be referred to the Speaker for final determination under subsection (3).
 (2) If it is not possible to resolve an issue by agreement under the resolution procedures prescribed under subsection (1), that issue may be referred to the Speaker for final determination.
 (3) On receiving a referral under subsection (2), the Speaker must—
   (a) satisfy himself or herself that all procedures for resolving that issue have been followed in accordance with subsection (1) and that it has not been possible to resolve the issue by agreement under those procedures; and
   (b) make a final determination on the issue about how the provision of the directions is to be interpreted or applied or is to operate; and
-  (c) as soon as practicable, communicate that determination to the General Manager.
+  (c) as soon as practicable, communicate that determination to the Chief Executive.
 (4) This section is subject to section 3E of the Parliamentary Service Act 2000.
 
 **Services determined by Minister Responsible for Ministerial Services**
@@ -318,11 +318,11 @@ The chief executive of the department responsible for Ministerial Services must 
 (1) This section applies if, in respect of a particular activity,—
   (a) a member of Parliament is entitled to an accommodation service under a determination made by the Remuneration Authority under section 17(1)﻿(a) or a family member of a member of Parliament is entitled to a travel service under a determination made by the Authority under section 17(1)﻿(c); and
   (b) the cost of doing the activity in a different way is less than the cost of the entitlement under that determination.
-(2) If this section applies, the General Manager may, at the request of the member of Parliament, approve the conversion of the entitlement into a right to receive a service costing a lesser amount.
-(3) Before granting approval under subsection (2), the General Manager must be satisfied that the service costing the lesser amount is for a parliamentary purpose and that the cost of the service represents a fair value for the service provided.
-(4) The General Manager must inform the Remuneration Authority in writing of any conversion relating to a service determined by the Authority under section 17(1)﻿(a) or (c) that the General Manager approves under this section.
+(2) If this section applies, the Chief Executive may, at the request of the member of Parliament, approve the conversion of the entitlement into a right to receive a service costing a lesser amount.
+(3) Before granting approval under subsection (2), the Chief Executive must be satisfied that the service costing the lesser amount is for a parliamentary purpose and that the cost of the service represents a fair value for the service provided.
+(4) The Chief Executive must inform the Remuneration Authority in writing of any conversion relating to a service determined by the Authority under section 17(1)﻿(a) or (c) that the Chief Executive approves under this section.
 (5) Subsections (1) to (4) apply, with all necessary modifications, to—
-  (a) entitlements to accommodation services of Ministers and travel services of family members of Ministers under a determination made by the Remuneration Authority under section 17(1)﻿(b) or (c) and entitlements to travel services of Ministers under a determination made by the Minister Responsible for Ministerial Services under section 27 as if, for every reference to the General Manager, there were substituted a reference to the chief executive of the department responsible for Ministerial Services or the person nominated by the chief executive as his or her representative for the purposes of this section; and
+  (a) entitlements to accommodation services of Ministers and travel services of family members of Ministers under a determination made by the Remuneration Authority under section 17(1)﻿(b) or (c) and entitlements to travel services of Ministers under a determination made by the Minister Responsible for Ministerial Services under section 27 as if, for every reference to the Chief Executive, there were substituted a reference to the chief executive of the department responsible for Ministerial Services or the person nominated by the chief executive as his or her representative for the purposes of this section; and
   (b) entitlements to services under directions issued by the Speaker under section 23.
 
 ### 32 Frequency of adjustments
@@ -339,7 +339,7 @@ The chief executive of the department responsible for Ministerial Services must 
   (b) to ensure the adequacy of the travel, administrative, and support services for members of Parliament, parties, and qualifying electoral candidates, or, as the case may be, travel services for Ministers.
 
 ### 33 Quarterly reports on travel and accommodation expenses
-(1) The General Manager must, as soon as practicable after the end of each quarter, prepare and make publicly available a report setting out, in respect of each member of Parliament and each party,—
+(1) The Chief Executive must, as soon as practicable after the end of each quarter, prepare and make publicly available a report setting out, in respect of each member of Parliament and each party,—
   (a) the total expenses incurred against the appropriation in section 22(1) to provide each category of travel service and accommodation service determined by the Remuneration Authority under section 17; and
   (b) the total expenses incurred to provide each category of travel service directed by the Speaker under section 23(1)﻿(a); and
   (c) the total expenses incurred to provide the travel services directed by the Speaker under section 23(1)﻿(f); and
@@ -425,13 +425,13 @@ The Minister Responsible for Ministerial Services must consult the Commissioner 
 
 ### 41 Issues concerning former member travel entitlements to be determined by Remuneration Authority
 (1) The Remuneration Authority must prescribe procedures for resolving issues that arise about a person's eligibility for travel entitlements under section 39 or how any provision of Schedule 2 is to be interpreted or applied or is to operate, including—
-  (a) procedures that provide for the participation of the General Manager; and
+  (a) procedures that provide for the participation of the Chief Executive; and
   (b) procedures that are required to be followed before any issue may be referred to the Authority for final determination under subsection (3).
 (2) If it is not possible to resolve an issue by agreement under the resolution procedures prescribed under subsection (1), that issue may be referred to the Remuneration Authority for final determination.
 (3) The Remuneration Authority must,—
   (a) on receiving a referral under subsection (2), satisfy itself that all procedures for resolving that issue have been followed in accordance with subsection (1) and that it has not been possible to resolve the issue by agreement under those procedures; and
   (b) make a final determination on the issue about the person's eligibility for travel entitlements or how the provision of Schedule 2 is to be interpreted or applied or is to operate; and
-  (c) as soon as practicable, communicate that determination to the General Manager.
+  (c) as soon as practicable, communicate that determination to the Chief Executive.
 
 ### 42 Reporting on expenses for travel entitlements of former members of Parliament
 A statement setting out, in respect of each former member of Parliament and his or her spouse or partner, the total expenses incurred to provide each type of travel entitlement set out in Schedule 2 must be included in the annual financial statements of the Parliamentary Service, in addition to the requirements of section 45B(2) of the Public Finance Act 1989.
@@ -479,7 +479,7 @@ A statement setting out, in respect of each former member of Parliament and his 
   (b) if so, the proportion of the annuity or payment payable to each person entitled to it.
 (2) In this section, authorised person means,—
   (a) in relation to an annuity under section 43(1)﻿(b), a person who has been authorised to make decisions under this section by the Minister Responsible for Ministerial Services; and
-  (b) in relation to a payment made under section 45(2) or (3), the General Manager.
+  (b) in relation to a payment made under section 45(2) or (3), the Chief Executive.
 (3) An authorised person must pay, or arrange for the payment of, an annuity or payment referred to in this section in accordance with any decision made by the authorised person under subsection (1).
 (4) If more than 1 person is entitled to an annuity or payment, the total annuity or payment paid to the persons entitled to it must not exceed the amount that would have been paid if only 1 person were entitled to it.
 (5) If a person who claims to be entitled to an annuity or payment referred to in this section is dissatisfied with a decision made by an authorised person under subsection (1), he or she may appeal against the decision to the High Court.
