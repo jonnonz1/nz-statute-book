@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2018-08-14_
+_Consolidation as at 2019-10-24_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -80,7 +80,7 @@ This Act binds the Crown.
 
 ### 6 Citizenship by birth
 (1) Subject to subsection (2), a person is a New Zealand citizen by birth if—
-  (a) the person was born in New Zealand on or after l January 1949 and before 1 January 2006; or
+  (a) the person was born in New Zealand on or after 1 January 1949 and before 1 January 2006; or
   (b) the person was born in New Zealand on or after 1 January 2006, and, at the time of the person's birth, at least one of the person's parents was—
     (i) a New Zealand citizen; or
     (ii) entitled in terms of the Immigration Act 2009 to be in New Zealand indefinitely, or entitled to reside indefinitely in the Cook Islands, Niue, or Tokelau.
@@ -113,7 +113,7 @@ This Act binds the Crown.
   (a) his or her mother or father was a New Zealand citizen otherwise than by descent; or
   (b) his or her mother or father was a New Zealand citizen by descent, and the person would otherwise be stateless.
 (2) A person who is a New Zealand citizen by virtue of subsection (1) may apply for his or her citizenship status to be registered in accordance with regulations made under this Act.
-(3) For the purposes of this section, the Secretary may issue a certificate stating a person's status under this section and, in the absence of evidence to the contrary, a certificate to such effect signed by the Secretary, or by a person authorised for the purpose by the Secretary, shall be sufficient evidence of the matters stated in the certificate.
+(3) For the purposes of this section, the Secretary may issue a certificate stating a person's status under this section and, in the absence of evidence to the contrary, a certificate to such effect shall be sufficient evidence of the matters stated in the certificate.
 (4) The citizenship of any New Zealand citizen by descent that has lapsed before the commencement of the Citizenship Amendment Act 2000 is reinstated with effect from the time it lapsed.
 
 ### 8 Citizenship by grant
