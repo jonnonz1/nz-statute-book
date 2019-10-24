@@ -1,5 +1,5 @@
 # Te Arawa Lakes Settlement Act 2006
-_Consolidation as at 2014-05-20_
+_Consolidation as at 2019-10-24_
 
 ## Preamble
 (1) Recitals (2) to (12) of this Preamble present, in summary form, the background to the Te Arawa lakes claims that is set out in Part 7 of the deed of settlement:
@@ -61,7 +61,7 @@ This Act binds the Crown.
     (i) a statement of the effect of the settlement on the jurisdiction of a court, tribunal, or other judicial body to consider the Te Arawa lakes historical claims and the Te Arawa lakes remaining annuity issues; and
     (ii) provision for consequential amendments to the Treaty of Waitangi Act 1975; and
     (iii) miscellaneous matters relating to the settlement, namely, the exclusion of the law against perpetuities and the timing of actions or matters provided for in this Act.
-(4) Part 2 provides cultural redress for Te Arawa by vesting 13 Te Arawa lakebeds in the Trustees, and includes provisions relating to—
+(4) Part 2 provides cultural redress for Te Arawa by vesting 14 Te Arawa lakebeds in the Trustees, and includes provisions relating to—
   (a) the revocation of the statutory status of areas of the Te Arawa lakebeds and of a statutory appointment; and
   (b) the vesting of the fee simple estate of each Te Arawa lakebed in trust in the Trustees; and
   (c) the rights and obligations attaching to ownership of the Te Arawa lakebeds; and
@@ -184,6 +184,7 @@ In this Act, unless the context otherwise requires,—
   (b) the streams and rivers flowing into the Te Arawa lakes, to the extent specifically provided for in clauses 6 to 8 of the fisheries protocol
   - **Heritage New Zealand Pouhere Taonga** means the Crown entity established by section 9 of the Heritage New Zealand Pouhere Taonga Act 2014
   - **included species** has the meaning set out in section 72(1)
+  - **inclusion date** means the date that is 20 business days after the date on which Part 44 of the Statutes Amendment Act 2019 comes into force
   - **initial trustees** means the members of the Arawa Māori Trust Board holding office at the date of the trust deed
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **member of Te Arawa** means an individual referred to in section 12(1)﻿(b)
@@ -229,7 +230,7 @@ In this Act, unless the context otherwise requires,—
   - **statutory acknowledgement** has the meaning set out in section 59
   - **statutory area** has the meaning set out in section 59
   - **statutory plan** has the meaning set out in section 59
-  - **submerged land** means land that, at the settlement date,—
+  - **submerged land** means land that, at the settlement date or the inclusion date (as the case may be),—
     (a) would be covered by the waters of the relevant lake—
       (i) at that lake’s highest level without exceeding its margin, in the case of a lake not controlled by artificial means; or
       (ii) at that lake’s maximum operating level, as prescribed from time to time by any resource consent or rule of a regional plan or proposed plan, in the case of a lake controlled by artificial means; and
@@ -238,7 +239,7 @@ In this Act, unless the context otherwise requires,—
   - **Te Arawa** has the meaning set out in section 12(1)
   - **Te Arawa ancestor** and mean an individual who, at any time after 6 February 1840, exercised customary rights in relation to the Te Arawa lakes by reason of being descended from a recognised ancestor of an iwi or hapū of Te Arawa
   - **Te Arawa fisheries area** has the meaning set out in section 72(1)
-  - **Te Arawa lakebed** means, in respect of each Te Arawa lake except Lake Ōkaro, the stratum comprising the land defined by the legal description for that lakebed, as set out in the second column of Schedule 1, including the subsoil beneath that land and plants attached to that land, but excluding—
+  - **Te Arawa lakebed** means, in respect of each Te Arawa lake, the stratum comprising the land defined by the legal description for that lakebed, as set out in the second column of Schedule 1, including the subsoil beneath that land and plants attached to that land, but excluding—
     (a) the Crown stratum; and
     (b) any submerged land not owned by the Crown; and
     (c) any land that is not submerged land, whether or not owned by the Crown, including any island in the relevant lake; and
@@ -366,8 +367,9 @@ In this Act, Te Arawa lakes remaining annuity issues—
 **Date when actions or matters occur or take effect**
 
 ### 19 Timing of actions or matters
-(1) Subject to subsection (2), actions or matters occurring under this Act occur or take effect on and from the settlement date.
-(2) If a provision of this Act requires an action or matter to occur or take effect on a date other than the settlement date, that action or matter occurs or takes effect on and from that other date.
+(1) Subject to subsections (1A) and (2), actions or matters occurring under this Act occur or take effect on and from the settlement date.
+(1A) In respect of the Lake Ōkaro lakebed, actions or matters occurring under this Act occur or take effect on and from the inclusion date.
+(2) If a provision of this Act requires an action or matter to occur or take effect on a date other than the settlement date or the inclusion date (as the case may be), that action or matter occurs or takes effect on and from that other date.
 
 ## Part 2 — Cultural redress: Vesting of Te Arawa lakebeds
 
@@ -384,6 +386,7 @@ In this Act, Te Arawa lakes remaining annuity issues—
 (2) Before a part of a reserve site referred to in subsection (1) vests in the Trustees of the Te Arawa Lakes Trust,—
   (a) that part vests in the Crown as Crown land under the Land Act 1948, subject to section 82(1) of the Reserves Act 1977; and
   (b) the Minister of Conservation may direct that the payment for that part be paid and applied in the manner provided for in section 82(1) of the Reserves Act 1977 as if the direction had been given under section 82(1)﻿(a) of that Act.
+(3) However, subsection (2) does not apply to Lake Okaro Recreation Reserve.
 
 ### 22 Status of conservation areas
 Any part of a Te Arawa lakebed or the Crown stratum that is a conservation area under the Conservation Act 1987 ceases to be a conservation area.
@@ -441,12 +444,13 @@ The Trustees of the Te Arawa Lakes Trust are not liable under any enactment or r
 
 ### 29 Registration of ownership
 (1) This section applies to the fee simple estate in a Te Arawa lakebed vested by section 23.
-(2) On receiving the written application of a person authorised by the chief executive of Land Information New Zealand, the Registrar-General must, in accordance with the application, create 1 or more computer freehold registers for the fee simple estate in land that forms all or part of a Te Arawa lakebed in the names of the Trustees of the Te Arawa Lakes Trust as at the settlement date, subject to, and, where applicable, with the benefit of, the encumbrances that are registrable or notifiable and that are described in the written application.
+(2) On receiving the written application of a person authorised by the chief executive of Land Information New Zealand, the Registrar-General must, in accordance with the application, create 1 or more computer freehold registers for the fee simple estate in land that forms all or part of a Te Arawa lakebed in the names of the Trustees of the Te Arawa Lakes Trust as at the settlement date or the inclusion date (as the case may be), subject to, and, where applicable, with the benefit of, the encumbrances that are registrable or notifiable and that are described in the written application.
 (3) Subsection (2) applies subject to completing any survey necessary to create a computer freehold register.
 (4) When issuing a computer freehold register under this section, the Registrar-General must record on the register that the land is subject to the provisions of sections 24 to 46.
-(5) Written application must be made for a computer freehold register as soon as is reasonably practicable after the settlement date, but no later than—
-  (a) 24 months after the Te Arawa lakebeds vest in the Trustees of the Te Arawa Lakes Trust by section 23; or
-  (b) a later date that is agreed in writing between the Trustees and the Crown.
+(5) Written application must be made for a computer freehold register as soon as is reasonably practicable after the settlement date or the inclusion date (as the case may be), but no later than—
+  (a) 24 months after the Te Arawa lakebeds (except the Lake Ōkaro lakebed) vest in the Trustees of the Te Arawa Lakes Trust by section 23; or
+  (b) in respect of the Lake Ōkaro lakebed, 24 months after the inclusion date.
+(6) Despite subsection (5)﻿(a) or (b), the Trustees and the Crown may agree in writing a later date for the application.
 
 **Boundaries**
 
@@ -484,7 +488,7 @@ The common law right of navigation applies in, on, or over each Te Arawa lakebed
 **Existing structures**
 
 ### 33 Existing structures on Te Arawa lakebeds
-(1) In this section, in the definition of Te Arawa lakebed in section 11, and in sections 34, 35, 40, and 45, existing structure means a structure in or on a Te Arawa lakebed, to the extent that it is in or on a Te Arawa lakebed and exists on the settlement date, regardless of whether the structure, at any time before the settlement date,—
+(1) In this section, in the definition of Te Arawa lakebed in section 11, and in sections 34, 35, 40, and 45, existing structure means a structure in or on a Te Arawa lakebed, to the extent that it is in or on a Te Arawa lakebed and exists on the settlement date or the inclusion date (as the case may be), regardless of whether the structure, at any time before the settlement date or the inclusion date (as the case may be),—
   (a) complied with—
     (i) the Resource Management Act 1991 or any equivalent prior legislation; or
     (ii) a relevant district plan, regional plan, or proposed plan; or
@@ -508,7 +512,7 @@ The Trustees of the Te Arawa Lakes Trust are not liable for an existing structur
 **Existing commercial activities**
 
 ### 36 Existing commercial activities
-(1) In this section and sections 40 and 45, existing commercial activity means a commercial activity that, immediately before the settlement date, is or may have been capable of being conducted lawfully in or on, or so as otherwise to affect, the relevant Te Arawa lakebed (whether or not it was in fact conducted at any time before the settlement date)—
+(1) In this section and sections 40 and 45, existing commercial activity means a commercial activity that, immediately before the settlement date or the inclusion date (as the case may be), is or may have been capable of being conducted lawfully in or on, or so as otherwise to affect, the relevant Te Arawa lakebed (whether or not it was in fact conducted at any time before the settlement date or the inclusion date (as the case may be))—
   (a) including, but not limited to, an activity of a kind described in subpart C of Part 1 of the Cultural Redress Schedule; but
   (b) not including the modification or erection of a structure in or on a Te Arawa lakebed, or the attachment of a structure to a lakebed.
 (2) The definition of existing commercial activity applies to an activity whether or not, at any time, that activity may require or have required—
@@ -560,7 +564,7 @@ If a public utility authority has a right or authorisation by or under an enactm
 **New commercial activities and new structures**
 
 ### 41 New commercial activities and new structures require written consent of Trustees
-(1) Unless the Trustees of the Te Arawa Lakes Trust first give their written consent as the owners of the Te Arawa lakebeds, no person may, on or after the settlement date,—
+(1) Unless the Trustees of the Te Arawa Lakes Trust first give their written consent as the owners of the Te Arawa lakebeds, no person may, on or after the settlement date or the inclusion date (as the case may be),—
   (a) perform a commercial activity that, under an enactment or rule of law, requires the consent of the owners of a Te Arawa lakebed; or
   (b) erect or modify a structure in or on, or attach a structure to, a Te Arawa lakebed.
 (2) However, subsection (1) does not apply if—
@@ -599,11 +603,11 @@ If a public utility authority has a right or authorisation by or under an enactm
 (1) Subsection (2) applies to—
   (a) existing structures:
   (b) existing commercial activities:
-  (c) public utilities that exist in or on a Te Arawa lakebed on the settlement date.
+  (c) public utilities that exist in or on a Te Arawa lakebed on the settlement date or the inclusion date (as the case may be).
 (2) The Crown is liable for rates payable under the Local Government (Rating) Act 2002 in respect of the interests listed in subsection (1) and for which the Trustees of the Te Arawa Lakes Trust would otherwise be liable as the owners of the Te Arawa lakebeds.
 
 ### 46 Liability of public utility authority for rates assessed
-A public utility authority must reimburse the Trustees of the Te Arawa Lakes Trust for rates assessed under the Local Government (Rating) Act 2002 in respect of a public utility that did not exist in or on a Te Arawa lakebed on the settlement date if the Trustees are—
+A public utility authority must reimburse the Trustees of the Te Arawa Lakes Trust for rates assessed under the Local Government (Rating) Act 2002 in respect of a public utility that did not exist in or on a Te Arawa lakebed on the settlement date or the inclusion date (as the case may be) if the Trustees are—
   (a) liable for the rates assessed as the owners of the relevant Te Arawa lakebed; and
   (b) not otherwise able to require reimbursement of those rates by charging under an enactment, as provided for by section 38(3)﻿(b) or section 39(b).
 
@@ -714,7 +718,7 @@ In this subpart,—
   - **relevant consent authority** means the consent authorities of each region or district that contains, or is adjacent to, the statutory area
   - **statement of association** means the statement by Te Arawa of the particular cultural, spiritual, historical, and traditional association of Te Arawa with the statutory area
   - **statutory acknowledgement** means the acknowledgement made by the Crown under section 60 in relation to the statutory area, on the terms set out in this subpart
-  - **statutory area** means the Crown stratum above each Te Arawa lakebed
+  - **statutory area** means the Crown stratum above each Te Arawa lakebed, except the Lake Ōkaro lakebed
   - **statutory plan** —
     (a) means a district plan, proposed plan, regional coastal plan, regional plan, or regional policy statement as defined in section 2(1) of the Resource Management Act 1991; and
     (b) includes a proposed policy statement provided for by Schedule 1 of the Resource Management Act 1991.
@@ -1114,6 +1118,7 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 | Bed of Lake Ngāhewa | 8.8300 hectares, more or less, being Section 1 SO 338991 |  |
 | Bed of Lake Ngāpouri | 23.8700 hectares, more or less, being Section 2 SO 338993. Part Gazette 1988, page 2728 |  |
 | Bed of Lake Tutaeinanga | 3.9400 hectares, more or less, being Section 1 SO 338993. Part Gazette notice H. 641893 |  |
+| Bed of Lake Ōkaro | 31.4200 hectares, more or less, being Section 1 SO 458555. Part Gazette notice H. 694591 |  |
 
 ## Schedule 2 — Iwi and hapū of Te Arawa
 
@@ -1146,6 +1151,7 @@ Section 88(1) of the Maori Purposes Act 1931 does not apply to any Te Arawa lake
 | --- | --- | --- |
 | Lake Ngāpouri | Lake Ngapouri Wildlife Management Reserve | Gazette 1988, page 2728 |
 | Lake Ōkareka | Lake Okareka Scenic Reserve | Gazette 1930, page 3616 (noted on Gazette Notice H. 515184) |
+| Lake Ōkaro | Lake Okaro Recreation Reserve | Gazette 1986, page 4682 (registered as Gazette Notice H. 694591) |
 | Lake Ōkataina (parts) | Lake Okataina Scenic Reserve | Gazette 1931, page 1685 (registered as Proclamation 8001) |
 | Lake Rerewhakaaitu (part) | Lake Rerewhakaaitu Recreation Reserve | Gazette 1985, page 1237 (Part Gazette Notice H. 581685) |
 | Lake Rotomahana (parts) | Waimangu Scenic Reserve | Gazette 1910, page 3825 (Part Gazette Notice H. 306305) |
