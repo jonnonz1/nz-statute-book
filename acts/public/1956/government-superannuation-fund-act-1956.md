@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2018-09-08_
+_Consolidation as at 2019-10-24_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -2811,7 +2811,7 @@ Notwithstanding anything to the contrary in Part 2 or Part 3 of this Act or in s
   (b) the salaries of any contributors to the Fund are payable out of money that is not public money,—
   provided that, if the Minister of Finance so directs, the amount to be paid into the Government Superannuation Fund out of any such money in any specified financial year shall be such lesser amount as that Minister may specify.
 (3)
-(4) This section shall expire with the close of such date as may be appointed by the Governor-General by Order in Council.
+(4)
 
 ### 95AA Authority to incur certain expenses
 (1) The Crown may incur expenses relating to its liability under this Act in respect of contributors and beneficiaries.
