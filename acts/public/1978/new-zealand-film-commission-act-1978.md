@@ -1,5 +1,5 @@
 # New Zealand Film Commission Act 1978
-_Consolidation as at 2013-07-01_
+_Consolidation as at 2019-10-24_
 
 > An Act to establish the New Zealand Film Commission, and to define its functions, powers, and duties
 
@@ -12,6 +12,9 @@ In this Act, unless the context otherwise requires,—
   - **Commission** means the New Zealand Film Commission established by section 3
   - **film** includes a photographic film, or a recording on magnetic tape or on any other material, from which a series of images, with or without associated sounds, may be produced
   - **Minister** means the Minister who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act.
+
+### 2A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 **Constitution**
 
@@ -129,7 +132,7 @@ In this Act, unless the context otherwise requires,—
   (a) make advances with or without security, and at such rates of interest as it determines or free of interest; and
   (b) guarantee, with or without security and with or without making any charge, advances made by any person to any other person; and
   (c) with the consent of the Minister of Finance, establish endowments or create trusts, on such terms and conditions and for such objects within the purposes of this Act as the Commission thinks fit, and appoint trustees in respect of any such trusts.
-(3) Notwithstanding subsection (1) or subsection (2), in giving a guarantee or indemnity the Commission shall not undertake any liability that, by itself or in the aggregate with its liability under all other guarantees and indemnities for the time being given by it, exceeds an amount that is for the time being approved by the Minister of Finance.
+(3)
 (4) Any trustees appointed in respect of a trust established under subsection (1) shall keep the accounts of the trust in such manner as may be directed by the Commission and approved by the Auditor-General.
 (5) This section does not limit sections 16 and 17 of the Crown Entities Act 2004.
 
@@ -190,9 +193,16 @@ For the purposes of the Inland Revenue Acts (as defined in section 3 of the Tax 
 (4) In any criminal proceedings in which a person is charged with having contravened subsection (2), it shall be a defence to the charge if he proves that, either by himself or with any other person or persons, he has carried on business continuously under the name to which the charge relates since any date before 23 August 1978.
 
 ### 35 Application of other enactments
-The enactments specified in the Schedule are hereby amended in the manner indicated in that schedule.
+The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
 
 ### 36 Transitional provisions
 [Repealed]
 
-## Schedule Schedule — Enactments amended
+## Schedule 1AA — Transitional, savings, and related provisions
+
+### Part 1 — Provision relating to Part 25 of Statutes Amendment Act 2019
+
+### 1 Guarantees and indemnities given before repeal of section 19(3)
+No guarantee or indemnity given by the Commission before the repeal of section 19(3) is invalid solely as a result of a failure to comply with that subsection.
+
+## Schedule 1 — Enactments amended
