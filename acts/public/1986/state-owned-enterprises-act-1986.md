@@ -1,5 +1,5 @@
 # State-Owned Enterprises Act 1986
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-24_
 
 > An Act to promote improved performance in respect of Government trading activities and, to this end, to—aspecify principles governing the operation of State enterprises; andbauthorise the formation of companies to carry on certain Government activities and control the ownership thereof; andcestablish requirements about the accountability of State enterprises, and the responsibility of Ministers
 
@@ -365,9 +365,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (c) a company with a name specified in a schedule of this Act,—
 
 ### 31 Review of Ombudsmen Act 1975 and Official Information Act 1982 in relation to State enterprises
-The effect of the Ombudsmen Act 1975 and the Official Information Act 1982 on the operation of State enterprises shall be reviewed after 1 April 1989 by a select committee appointed by the House of Representatives for this purpose. The committee shall report to the House of Representatives before 1 April 1990, and shall state in its report—
-  (a) whether, in its view, either or both of those Acts should continue to apply to State enterprises; and
-  (b) if it considers that either or both Acts should so continue, the changes (if any) that should be made to either or both of those Acts so far as they apply to State enterprises.
+[Repealed]
 
 ### 32 Amendments and transitional provisions relating to new State enterprises
 (1) The enactments specified in Schedules 3 and 5 are hereby amended in the manner indicated in those schedules.
@@ -384,7 +382,7 @@ The effect of the Ombudsmen Act 1975 and the Official Information Act 1982 on th
 (7) Notwithstanding subsections (2) and (5), Part 3 of Schedule 4 shall continue to have effect after 31 December 1988 until the close of 30 June 1990.
 
 ### 33 Repeals
-The enactments specified in Schedule 6 are hereby repealed.
+[Repealed]
 
 ## Schedule 1 — State enterprises
 
