@@ -1,5 +1,5 @@
 # Contract and Commercial Law Act 2017
-_Consolidation as at 2018-11-26_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Contract and Commercial Law Act 2017.
@@ -2628,7 +2628,7 @@ A lien referred to in section 331 is discharged when—
 (3) In this section, relevant time means—
   (a) any time after the expiry of 90 days from the time when the goods are placed in A’s custody; or
   (b) if the goods are of a perishable nature, an earlier time that is fixed by—
-    (i) Lloyd’s agent (being the person appointed under section 210 of the Insurance (Prudential Supervision) Act 2010); or
+    (i) Lloyd’s agent; or
     (ii) any surveyor appointed by A.
 
 ### 337 Notices of sale to be given
