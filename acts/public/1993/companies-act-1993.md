@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2019-08-31_
+_Consolidation as at 2019-10-24_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -138,9 +138,13 @@ _Consolidation as at 2019-08-31_
   (b) in at least 1 issue of a newspaper circulating in the area in which is situated—
     (i) the place of business in New Zealand of the overseas company; or
     (ii) if the overseas company has more than 1 place of business in New Zealand, the principal place of business in New Zealand of the overseas company.
-(3) However, subsections (1) and (2) do not apply to the public notice required to be given by the Registrar under sections 319(1)﻿(c), 320(1), 328(3)﻿(a), 341(4)﻿(b), and 360A(2)﻿(b).
-(4) The public notice required to be given by the Registrar under the provisions referred to in subsection (3) must be given by publishing the notice in at least 1 issue of the Gazette.
+(3) However, subsections (1) and (2) do not apply to the public notice required to be given—
+  (a) by the Registrar under sections 319(1)﻿(c), 320(1), 328(3)﻿(a), 341(4)﻿(b)﻿, and 360A(2)﻿(b); and
+  (b) by the Secretary to the Treasury under section 324(3).
+(4) The public notice required to be given by the Registrar under the provisions referred to in subsection (3)﻿(a) must be given by publishing the notice in at least 1 issue of the Gazette.
 (5) The Registrar must ensure that a copy of the notice referred to in subsection (4) is available on an Internet site maintained by or on behalf of the Registrar, at all reasonable times, for a period of not less than 20 working days.
+(6) The public notice required to be given by the Secretary to the Treasury under the provision referred to in subsection (3)﻿(b) must be given by publishing the notice in at least 1 issue of the Gazette.
+(7) The Secretary to the Treasury must ensure that a copy of the notice referred to in subsection (6) is available on an Internet site maintained by or on behalf of the Treasury, at all reasonable times, for a period of not less than 20 working days.
 
 ### 4 Meaning of solvency test
 (1) For the purposes of this Act, a company satisfies the solvency test if—
@@ -5431,6 +5435,7 @@ A company is removed from the New Zealand register when a notice signed by the R
 (1) Property that, immediately before the removal of a company from the New Zealand register, had not been distributed or disclaimed, vests in the Crown with effect from the removal of the company from the register.
 (2) For the purposes of this section, property of the former company includes leasehold property and all other rights vested in or held on trust for the former company, but does not include property held by the former company on trust for any other person.
 (3) The Secretary to the Treasury must, forthwith on becoming aware of the vesting of the property, give public notice of the vesting, setting out the name of the former company and particulars of the property.
+(3A) However, subsection (3) does not apply to the extent that the property is rights under a security or charge and the Secretary to the Treasury is satisfied that all amounts and all other obligations secured by the security or charge are paid, performed, or otherwise discharged.
 (4) Where property is vested in the Crown under this section, a person who would have been entitled to receive all or part of the property, or payment from the proceeds of its realisation, if it had been in the hands of the company immediately before the removal of the company from the New Zealand register, or any other person claiming through that person, may apply to the court for an order—
   (a) vesting all or part of the property in that person; or
   (b) for payment to that person by the Crown of compensation of an amount not greater than the value of the property.
