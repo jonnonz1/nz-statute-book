@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -583,10 +583,10 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
     (ii) by another means (including, without limitation, by email or another similar means of communication) that may be agreed from time to time between that Commissioner and the financial institution or reporting entity, as the case may be, or person concerned.
 (2) However, if the urgency of the situation requires, a report under section 43 may be made orally to any constable authorised for the purpose by the Commissioner of Police, but in any case of that kind the financial institution or the reporting entity or other person must, as soon as practicable, forward to that Commissioner a report that complies with the requirements of subsection (1).
 (3) The Commissioner of Police may confer the authority to receive a report under subsection (2) on any specified constable or on constables of any specified level of position or class, or on any constable or constables for the time being holding any specified office or specified class of offices.
-(4) If a report under section 43 is made by or on behalf of a financial institution or reporting entity in respect of property that came into the possession or immediate control of the financial institution or reporting entity through a transaction conducted or proposed to be conducted through the financial institution or reporting entity, the financial institution or reporting entity need not make a suspicious transaction report in respect of the transaction or proposed transaction unless asked to do so by or on behalf of the Commissioner of Police.
+(4) If a report under section 43 is made by or on behalf of a financial institution or reporting entity in respect of property that came into the possession or immediate control of the financial institution or reporting entity through a transaction conducted or proposed to be conducted through the financial institution or reporting entity, the financial institution or reporting entity need not make a suspicious activity report in respect of the transaction or proposed transaction unless asked to do so by or on behalf of the Commissioner of Police.
 (5) In this section, section 47, and Schedule 5,—
-  (a) in the case of a financial institution to which the Financial Transactions Reporting Act 1996 applies, facility, financial institution, suspicious transaction report, and transaction have the meanings given to them in section 2(1) of that Act; and
-  (b) in the case of a reporting entity to which the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 applies, facility, reporting entity, suspicious transaction report, and transaction have the meanings given to them in section 5 of that Act.
+  (a) in the case of a financial institution to which the Financial Transactions Reporting Act 1996 applies, facility, financial institution, suspicious activity report, and transaction have the meanings given to them in section 2(1) of that Act; and
+  (b) in the case of a reporting entity to which the Anti-Money Laundering and Countering Financing of Terrorism Act 2009 applies, facility, reporting entity, suspicious activity report, and transaction have the meanings given to them in section 5 of that Act.
 
 ### 45 Privileged communication defined
 (1) For the purposes of section 43(3), a communication is a privileged communication only if—
