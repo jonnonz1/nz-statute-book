@@ -1,5 +1,5 @@
 # Standards and Accreditation Act 2015
-_Consolidation as at 2016-03-01_
+_Consolidation as at 2019-10-24_
 
 ### 1 Title
 This Act is the Standards and Accreditation Act 2015.
@@ -454,9 +454,7 @@ The Standards Regulations 2006 (SR 2006/327) are revoked.
   (a) stating the number of appointments the Minister intends to make; and
   (b) calling for nominations to be sent to the Minister; and
   (c) stating a date after which the Minister may decline to accept nominations, being a date not less than 28 days after the date of the first publication of the notice.
-(3) A notice under subclause (2)—
-  (a) must be published at least twice in a daily newspaper circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin; and
-  (b) may be published in any other media, and on any other occasions, that the Minister thinks appropriate.
+(3) A notice under subclause (2) may be published on an Internet site or in print media and for the period or with the frequency that the Minister thinks appropriate.
 
 ### 3 Method of appointment
 (1) The Minister appoints or reappoints a member of the Board, and a chairperson of the Board, by giving written notice to the member concerned.
@@ -492,7 +490,7 @@ The acts of a person as a member or chairperson of the Board are valid even thou
 ### 8 Resignation of Board member
 (1) A member of the Board may resign from office by written notice to the Minister (with a copy to the Board) signed by the member.
 (2) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice.
-(3) The Minister must notify the resignation in the Gazette as soon as practicable after receiving the notice.
+(3)
 
 ### 9 Chairperson of Board
 (1) The Minister must, by notice in the Gazette, appoint a member of the Board to be the chairperson of the Board for a term that the Minister specifies in the notice of appointment.
@@ -508,7 +506,7 @@ The chairperson of the Board holds that office until—
 ### 11 Resignation of chairperson of Board
 (1) The chairperson of the Board may, without resigning as a member, resign the office of chairperson by written notice to the Minister (with a copy to the Board).
 (2) The notice of resignation must state the date on which the resignation takes effect.
-(3) The Minister must notify the resignation in the Gazette as soon as practicable after receiving the notice.
+(3)
 
 ### 12 Removal of chairperson of Board
 (1) The Minister may, after consultation with the person concerned, remove a chairperson of the Board from that office with or without also removing that person as a member by written notice to the person (with a copy to the Board).
