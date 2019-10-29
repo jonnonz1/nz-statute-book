@@ -1,5 +1,5 @@
 # Legal Services Act 2011
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Legal Services Act 2011.
@@ -873,6 +873,17 @@ On receipt of an application for review, the chairperson of the Tribunal—
 (3) The Tribunal may receive and obtain from any person any submission, statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the review before it.
 (4) The review must be conducted on the papers, with all reasonable speed.
 
+### 55A Procedure
+(1) The Tribunal may regulate its procedures as it sees fit, subject to this Act, any regulations made under it, and any practice notes issued under section 65(2)﻿(b).
+(2) Forms for use in the Tribunal may be approved by the chief executive of the Ministry after consulting the Tribunal.
+
+### 55B Tribunal may strike out application for review
+The Tribunal may strike out, in whole or in part, an application for review if satisfied that it—
+  (a) discloses no reasonable cause of action; or
+  (b) is likely to cause prejudice or delay; or
+  (c) is frivolous or vexatious; or
+  (d) is otherwise an abuse of process.
+
 ### 56 Determination of review
 (1) The Tribunal may determine a review by confirming, modifying, or reversing the decision under review.
 (2) Every determination by the Tribunal must be accompanied by a brief summary of the reasons for it.
@@ -886,6 +897,12 @@ On receipt of an application for review, the chairperson of the Tribunal—
 ### 57A Suppression orders
 (1) The Tribunal may order that any part of any evidence given or the name of any witness not be published.
 (2) An order may be made subject to any conditions that the Tribunal considers appropriate.
+
+### 57B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry:
+  (a) information about the purpose of the Tribunal and how to bring proceedings:
+  (b) any requirements that must be met to bring proceedings:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 ### 58 Chairperson may direct publication of Tribunal decisions
 (1) The chairperson of the Tribunal may direct such publication of decisions of the Tribunal as the chairperson considers necessary or desirable in the public interest.
@@ -1160,6 +1177,22 @@ Part 3 of Schedule 3 contains further provisions that apply to the Review Author
 ### 87D Practice notes
 (1) The Review Authority may issue practice notes as he or she thinks fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of a Deputy Review Authority, officers of the Authority, and parties before the Authority.
+
+### 87E Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry:
+  (a) information about the purpose of the Review Authority and how to bring proceedings:
+  (b) any requirements that must be met to bring proceedings:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 87F Online publication of final written decisions
+(1) Every final written decision of the Review Authority must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 86A.
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, the Review Authority nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in the Review Authority.
 
 **Quality assurance checks**
 
@@ -1874,7 +1907,8 @@ Civil proceedings may not be brought against any person who supplies information
 (3) The Review Authority ceases to hold office if he or she is adjudged bankrupt under the Insolvency Act 2006.
 
 ### 25 Procedure
-The Review Authority may regulate his or her procedure as he or she thinks fit, subject to this Act, any regulations made under it, and any practice notes issued under section 87D.
+(1) The Review Authority may regulate his or her procedure as he or she thinks fit, subject to this Act, any regulations made under it, and any practice notes issued under section 87D.
+(2) Forms for use by the Review Authority may be approved by the chief executive of the Ministry after consulting the Review Authority.
 
 ### 26 Orderly and efficient operation
 (1) The Review Authority is responsible for making any arrangements that are practicable to ensure that he or she and any Deputy Authorities, perform their functions—
