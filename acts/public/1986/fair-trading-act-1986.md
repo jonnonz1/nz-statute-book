@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-10-29_
 
 > Title
 
@@ -722,7 +722,7 @@ The purpose of this Part is to set out in one place the rules applying to—
   (b) the price of the goods is to be paid by—
     (i) 3 or more instalments; or
     (ii) if the agreement specifies that it is a layby sale agreement, 2 or more instalments.
-(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $15,000 or, if greater, the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988.
+(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $30,000 or, if greater, the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988.
 (3) For the purposes of subsection (1)﻿(b), a deposit paid by the consumer for the goods is an instalment.
 (4) Despite section 7 of the Credit Contracts and Consumer Finance Act 2003, a layby sale agreement is not a credit contract for the purposes of that Act if no interest charges, and no credit fees, are payable under the layby sale agreement.
 (5) In subsection (4) and in this subsection,—
@@ -1268,9 +1268,9 @@ A person may apply to a court or the Disputes Tribunal for an order under sectio
 ### 43B Limits on jurisdiction of District Court and Disputes Tribunal to make orders under section 43
 (1) The District Court must not make an order under section 43 if a value or amount described in subsection (3) exceeds $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016.
 (2) The Disputes Tribunal must not make an order under section 43 if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
-  (a) $15,000:
-  (b) the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988:
-  (c) the amount specified in section 13(2) of the Disputes Tribunal Act 1988, if the jurisdiction of the Disputes Tribunal is extended by an agreement between the parties under section 13 of that Act.
+  (a) $30,000:
+  (b) the amount specified in section 10(1A)﻿(b) of the Disputes Tribunal Act 1988.
+  (c)
 (3) The values and amounts are as follows:
   (a) in the case of an order under section 43(3)﻿(a) or (c), the value of the consideration for the promise or act of any party to the contract or collateral arrangement referred to in that paragraph:
   (b) in the case of an order under section 43(3)﻿(e) directing a person to refund money or return property, the amount of money or the value of the property:
