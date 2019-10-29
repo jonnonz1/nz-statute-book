@@ -1,5 +1,5 @@
 # Criminal Procedure Act 2011
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Criminal Procedure Act 2011.
@@ -124,6 +124,9 @@ In this Act, unless the context otherwise requires,—
     (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) if Waitangi Day or Anzac Day falls on a Saturday or a Sunday, the following Monday; and
     (c) a day in the period commencing on 25 December in any year and ending with 15 January in the following year.
+
+### 5A Transitional, savings, and related provisions
+The transitional, savings, and related provisions set out in Schedule 1AA have effect according to their terms.
 
 ### 6 Categories of offence defined
 (1) In this Act,—
@@ -533,6 +536,7 @@ A judicial officer or Registrar may receive an election under section 50 to be t
   (a) whether the defendant intends to change his or her plea:
   (b) whether the prosecutor intends to seek leave to amend or withdraw any charges:
   (c) whether the prosecutor proposes to add a new charge or charges against the defendant:
+  (ca) whether any charges are to be heard together under section 138(1) (including together with charges heard against 1 or more other defendants):
   (d) whether the defendant requests a sentence indication under section 61:
   (e) whether the prosecutor or the defendant, or both, consider there is a matter (other than one in paragraph (a), (b), or (d)) that requires judicial intervention and, if so, the nature of that matter:
   (f) if the offence is a category 2 or 3 offence, whether the prosecutor considers that it is a protocol offence and,—
@@ -793,12 +797,15 @@ This subpart applies to a proceeding—
 ### 82 Requirements for formal statements
 (1) A formal statement is a statement recorded in any medium by a person who is a potential witness in a criminal proceeding where—
   (a) the statement contains the evidence of that witness; and
-  (b) the statement contains, or is accompanied by, a declaration by the witness that the statement is true and that the witness made it with the knowledge that it is to be used in court proceedings; and
-  (c) the statement complies with subsections (2) and (3) if applicable.
+  (b) the statement contains, or is accompanied by, a declaration by the witness that the statement is true and that the witness made it with the knowledge that it may be used in court proceedings; and
+  (c) the statement complies with subsection (2), (3), or (3A) if applicable.
 (2) If a formal statement under subsection (1) is made by a person aged under 18 years, the statement must specify the age of that person.
 (3) If a formal statement under subsection (1) or a declaration required by subsection (1)﻿(b) is made in written form by a person who cannot read it,—
   (a) the statement or declaration must be read to that person before the person authenticates it; and
   (b) the reader must attach to the statement or declaration an authenticated statement by that reader to the effect that the statement or declaration was read to the person and that the person to whom it was read appeared to understand its contents.
+(3A) Despite subsection (1)﻿(b), if a formal statement under subsection (1) is made by a person aged under 18 years or by a person who is incapable of making the declaration required by subsection (1)﻿(b), and is in the form of a video record, no declaration is required but the statement must—
+  (a) be made in the manner prescribed by regulations made under the Evidence Act 2006; and
+  (b) substantially comply with the requirements prescribed in those regulations (including any provisions in those regulations requiring the witness to tell the truth).
 (4) When filing a formal statement, the prosecutor may file, in addition to the statement itself, a summary of the parts of it that the prosecutor intends to rely on as evidence at the trial.
 (5) A formal written statement that satisfies the requirements of section 162 of the Summary Proceedings Act 1957 may be treated as a formal statement that satisfies the requirements of this section.
 
@@ -1337,6 +1344,23 @@ If a retrial or rehearing is ordered under section 125 or 126,—
   (a) adjourn the trial; or
   (b) postpone the trial and discharge the jury.
 
+### 136A Procedure if charge added during trial
+(1) During the trial, the court may, on the prosecutor’s application, grant leave to add a charge in the proceedings (the new charge).
+(2) Leave may be granted under subsection (1) only if the court is satisfied—
+  (a) that there is a variance between the proof and the existing charge or charges; and
+  (b) the new charge fits with the proof; and
+  (c) the time for filing a charging document under section 25 for the new charge has not expired; and
+  (d) that the defendant will not be, or has not been, misled or prejudiced in his or her defence by the addition of the new charge during the trial.
+(3) Subsection (4) applies if the court is satisfied that—
+  (a) the defendant will be, or has been, misled or prejudiced in his or her defence by the addition of the new charge during the trial; but
+  (b) the effect of that prejudice can be removed by adjourning or postponing the trial.
+(4) If this subsection applies, the court may grant leave to add the new charge and may—
+  (a) adjourn the trial; or
+  (b) postpone the trial and discharge the jury.
+(5) If the court grants leave to add a new charge under subsection (1) or (4),—
+  (a) a charging document is deemed to have been filed in accordance with section 14 in respect of the new charge; and
+  (b) leave is deemed to have been given under section 138(2) for the new charge to be added to the proceeding, and section 139 applies accordingly.
+
 **Proceedings conducted together**
 
 ### 137 Proceedings against parties to offences, accessories, and receivers
@@ -1351,19 +1375,19 @@ If a retrial or rehearing is ordered under section 125 or 126,—
 (4) If any property has been stolen or dishonestly obtained, any number of receivers at different times of that property, or of any part or parts of it, may be charged with substantive offences, and may be tried together.
 
 ### 138 Trial of different charges together
-(1) The prosecutor may—
-  (a) notify the court before which a proceeding is being conducted proposing that—
-    (i) 2 or more charges be heard together; or
-    (ii) the charges against 1 defendant be heard with charges against 1 or more other defendants:
-  (b) amend a notification given under paragraph (a).
-(2) Despite subsection (1), if the prosecutor seeks to give or amend a notification involving a charge in respect of which the proceeding has been adjourned after the entry of a not guilty plea, the prosecutor must seek the leave of the court.
-(3) Charges must be heard together in accordance with any notification given under subsection (1)﻿(a) or amended under subsection (1)﻿(b) unless the court—
-  (a) does not grant leave where the prosecutor seeks leave under subsection (2); or
-  (b) makes an order under subsection (4).
-(4) If the court before which the proceeding is being conducted thinks it is in the interests of justice to do so, it may, on its own motion or on the application of a defendant, order that 1 or more charges against the defendant be heard separately.
-(5) An order under subsection (4) may be made either before or during the trial, and,—
+(1) The prosecutor may, by notifying the court before which a proceeding is being heard, propose that—
+  (a) 2 or more charges against 1 defendant be heard together; or
+  (b) the charges against 1 defendant be heard with charges against 1 or more other defendants.
+(2) Despite subsection (1), the prosecutor must seek leave for the charges to be heard together if the notification involves a charge in respect of which the proceedings have been adjourned—
+  (a) for trial, if the trial procedure is the Judge-alone procedure; or
+  (b) for trial callover, if the trial procedure is the jury trial procedure.
+(3) Unless the court makes an order under subsection (4), charges must be heard together—
+  (a) in accordance with any notification given under subsection (1); or
+  (b) if leave is granted under subsection (2).
+(4) If the court before which the proceeding is being conducted considers it is in the interests of justice to do so, it may, on its own motion or on the application of the prosecutor or a defendant, order that 1 or more charges against the defendant be heard separately.
+(5) An order under subsection (4) may be made before or during the trial, and,—
   (a) if it is made during the course of a Judge-alone trial, the court must adjourn the trial of the charges in respect of which the trial is not to proceed; and
-  (b) if it is made during the course of a jury trial, the jury must be discharged from giving a verdict on the charges on which the trial is not to proceed.
+  (b) if it is made during the course of a jury trial, the jury must be discharged from giving a verdict on the charges in respect of which the trial is not to proceed.
 
 ### 139 Procedure if charges to be heard together
 (1) If, in accordance with section 138, 2 or more charges against a defendant are to be heard together—
@@ -1924,6 +1948,15 @@ When the Solicitor-General or a Crown prosecutor assumes responsibility for a Cr
   (b) dismiss the charges under section 147.
 (4) A charge is withdrawn under this section on the filing of a notice to withdraw the charge.
 (5) The withdrawal of a charge under this section is not a bar to any other proceeding in the same matter.
+
+### 192A Power of Solicitor-General or Crown prosecutor to join charge or charges
+(1) Without the leave of the court, the Solicitor-General or a Crown prosecutor may, on filing a notice under section 189 in relation to a proceeding, or before the trial and within any prescribed period after filing that notice, file in the court hearing the proceeding a notice that—
+  (a) 2 or more charges against 1 defendant are to be heard together:
+  (b) the charges against 1 defendant are to be heard with charges against 1 or more other defendants.
+(2) Subsection (1) overrides section 138(2).
+(3) Subsection (1) does not prevent—
+  (a) the Solicitor-General or a Crown prosecutor seeking the leave of the court under section 138(2) for charges to be heard together; or
+  (b) the court, on its own motion or on the application of the prosecutor or defendant, ordering under section 138(4) that 1 or more charges against a defendant be heard separately.
 
 ### 193 Independence of Solicitor-General and Crown prosecutors
 The Solicitor-General and every Crown prosecutor must, in conducting a Crown prosecution, act independently of the agency from which the Solicitor-General or Crown prosecutor assumed responsibility for the prosecution.
@@ -3764,6 +3797,11 @@ In this Part,—
 (2) The defendant must be dealt with by the court under this Act—
   (a) as amended by subpart 1 of Part 2 of the 2017 Act; and
   (b) as further amended by sections 35 and 46 of the 2019 Act.
+
+### Part 2 — Provision relating to Courts Matters Act 2018
+
+### 4 Declaration made under old law continues to be admissible
+A declaration containing the statement required by section 82(1)﻿(b) of the principal Act (as it read before the amendments made by section 32 of the Courts Matters Act 2018) continues to be admissible in proceedings on and after the commencement of section 32 of the Courts Matters Act 2018.
 
 ## Schedule 1 — Category 4 offences
 
