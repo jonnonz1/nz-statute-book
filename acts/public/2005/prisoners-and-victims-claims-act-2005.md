@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -687,6 +687,12 @@ A Tribunal may receive as evidence any statement, document, information, or matt
 ### 60A Practice notes
 (1) The Chief District Court Judge may issue practice notes as he or she thinks fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of the Tribunals, officers of Tribunals, and parties before Tribunals.
+
+### 60B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Tribunals and how to commence a claim:
+  (b) any requirements that must be met for a claim:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 ### 61 Proceedings of Tribunal not invalid for want of form
 Proceedings before a Tribunal must not be held invalid for want of form.
