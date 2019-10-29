@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -1438,7 +1438,8 @@ The Crown is not liable to make a payment to, or otherwise compensate, any perso
 **General**
 
 ### 1 Procedure generally
-Except as otherwise provided in this Act and subject to the rules of natural justice and any practice notes issued under clause 17, the procedure of a Disputes Tribunal is to be the procedure that the adjudicator thinks fit.
+(1) Except as otherwise provided in this Act and subject to the rules of natural justice and any practice notes issued under clause 17, the procedure of a Disputes Tribunal is to be the procedure that the adjudicator thinks fit.
+(2) Forms for use in the Disputes Tribunals may be approved by the chief executive of the Ministry of Justice after consulting all the adjudicators.
 
 ### 2 Sittings of Disputes Tribunal
 (1) Sittings of a Disputes Tribunal must be held at the times and places that the adjudicator appoints.
@@ -1459,7 +1460,7 @@ An adjudicator is responsible for making any arrangements that are practicable t
 **Application**
 
 ### 4 Filing of applications
-Proceedings before the Disputes Tribunal must be commenced by the filing of an application in the prescribed form, together with the prescribed filing fee (if any), at the office of the Disputes Tribunal.
+Proceedings before the Disputes Tribunal must be commenced by the filing of an application in a form approved by the chief executive of the Ministry of Justice after consultation with all adjudicators, together with the prescribed filing fee (if any), at the office of the Disputes Tribunal.
 
 ### 5 Procedure on receipt of application
 (1) On receipt of an application, the adjudicator must immediately—
@@ -1538,6 +1539,13 @@ Proceedings before the Disputes Tribunal must be commenced by the filing of an a
 (4) All evidence and information received or ascertained must be disclosed to every party, and every party must be given a reasonable opportunity to comment on it.
 (5) A Disputes Tribunal may receive and take into account any relevant evidence or information, whether or not that evidence or information would normally be admissible in a court of law.
 (6) On any charge of perjury, it is sufficient to prove that the oath or affirmation was administered, or the documents or information were verified, in accordance with this clause.
+
+### 9D Summons to witness
+(1) A Disputes Tribunal may, on its own initiative or at the request of a party, by a summons in a form approved by the chief executive of the Ministry after consulting all the adjudicators, summon any person—
+  (a) to attend before the Tribunal at the time and place specified in the summons; and
+  (b) to give evidence in the proceedings; and
+  (c) to produce to the Tribunal any documents in that person’s possession or control that are specified in the summons.
+(2) The power to issue a witness summons may be exercised by a Disputes Tribunal, an adjudicator, or any officer of a Tribunal purporting to act at the direction or with the authority of the Tribunal or an adjudicator.
 
 ### 9E Service of summons
 (1) Every summons issued under clause 9D must be served on the person to whom it is directed, either by personally delivering it to that person or, if that person refuses to accept it, by bringing it to that person’s attention, within a reasonable time before the time specified in the summons for that person’s attendance.
@@ -1636,5 +1644,11 @@ The Ministry of Justice must pay assessors the remuneration and allowances deter
 ### 17 Practice notes
 (1) All adjudicators acting together may issue practice notes, to apply to all Disputes Tribunals, as they think fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of the Tribunals, officers of the Tribunals, and parties before the Tribunals.
+
+### 18 Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of Disputes Tribunals and how to commence a claim:
+  (b) any requirements that must be met to bring a claim:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 ## Schedule 2 — Enactments amended
