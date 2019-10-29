@@ -1,5 +1,5 @@
 # Social Security Act 2018
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Social Security Act 2018.
@@ -3729,9 +3729,10 @@ This Act does not affect appeals under other enactments to the appeal authority 
 **Procedure**
 
 ### 403 How to begin, and procedure and powers for, appeal to authority
-The authority’s procedure, and the authority’s powers to deal with (for example, confirm, vary, revoke, or refer back to MSD for reconsideration) the decision appealed, on an appeal under this Act, are—
+(1) The authority’s procedure, and the authority’s powers to deal with (for example, confirm, vary, revoke, or refer back to MSD for reconsideration) the decision appealed, on an appeal under this Act, are—
   (a) as provided by this Act (and especially by sections 395 to 404 and Schedule 8) and regulations made under section 451; and
   (b) for matters not provided for by this Act or those regulations, or practice notes issued under clause 10D of Schedule 8, as the authority may determine.
+(2) Forms for use in the authority may be approved by the chief executive of the Ministry of Justice after consulting the chairperson of the authority.
 
 ### 404 Notice, and carrying into effect, of decision
 (1) On the determination of an appeal, the authority’s Secretary must send to the chief executive and to the appellant a memorandum of—
@@ -5752,6 +5753,12 @@ The hearing of a matter or any part of it may be conducted by telephone, audiovi
 ### 10D Practice notes
 (1) The authority’s chairperson may issue practice notes as he or she thinks fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of other members of the authority, officers of the authority, and parties before the authority.
+
+### 10E Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the authority and how to commence an appeal:
+  (b) any requirements that must be met for an appeal:
+  (c) guidelines on how and when parties may obtain information.
 
 ### 11 Publication of proceedings
 (1) No person may publish without the authority’s authorisation all or a part of any proceedings before the authority.
