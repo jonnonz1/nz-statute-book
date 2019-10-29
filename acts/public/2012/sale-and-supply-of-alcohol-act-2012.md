@@ -1,5 +1,5 @@
 # Sale and Supply of Alcohol Act 2012
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Sale and Supply of Alcohol Act 2012.
@@ -2642,7 +2642,7 @@ A District Court presided over by 1 or more Community Magistrates has jurisdicti
   (b) suspending the licence; or
   (c) cancelling the licence.
 (2) Every application for an order must—
-  (a) be made in the prescribed form and manner; and
+  (a) be in a form approved by the chief executive after consultation with the chairperson of the licensing authority and be made in the prescribed manner; and
   (b) contain the prescribed particulars; and
   (c) be made to the licensing authority.
 (3) The grounds on which an application for an order may be made are as follows:
@@ -2723,7 +2723,7 @@ A District Court presided over by 1 or more Community Magistrates has jurisdicti
   (a) suspending a manager's certificate; or
   (b) cancelling a manager's certificate.
 (2) Every application for an order under this section must—
-  (a) be made in the prescribed form and manner; and
+  (a) be in a form approved by the chief executive after consultation with the chairperson of the licensing authority and be made in the prescribed manner; and
   (b) contain the prescribed particulars; and
   (c) be made to the licensing authority.
 (3) The grounds on which an application for an order under this section may be made are as follows:
