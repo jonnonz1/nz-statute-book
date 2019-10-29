@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 > Title
 
@@ -1019,6 +1019,16 @@ The Crown is not liable to any person for any error, omission, or delay in apply
 (5) Subsection (2)﻿(a) does not apply if the only amount in default is an offender levy.
 (6) The powers conferred by this section may not be exercised by a Registrar who is a constable.
 
+### 87AAA Agreements to vary charge on land
+(1) If any land owned by a defendant is subject to a charge referred to in section 87(2A)﻿(b), a Registrar may, if he or she considers that it would be unjust or unreasonable to require immediate payment of the amount charged, enter into an agreement with the defendant for the release of all or part of the land from all or part of the charge.
+(2) The agreement may provide for all or part of the charge to attach to any other land owned by the defendant, and may be subject to conditions.
+(3) The agreement has the effect of—
+  (a) releasing from the charge any land agreed to be released from the charge; and
+  (b) subjecting any land agreed to be subject to a charge to the charge as agreed.
+
+### 87AAB Enforcement of charge on land
+A transfer or an act done with the intention, or having the effect, of defeating a charge referred to in section 87(2A) is void, except where the transfer or act is to, or in favour of, a purchaser in good faith for value who, at the time of the transfer or act, had no notice of the charge.
+
 ### 87AA Power to obtain information in respect of beneficiaries
 (1) If—the Registrar may require the chief executive of the department for the time being responsible for the administration of the Social Security Act 2018 (the chief executive) to provide the Registrar with the information specified in subsection (2) that is known to the chief executive.
   (a) the Registrar is—
@@ -1191,7 +1201,8 @@ If a defendant is arrested under a warrant for arrest issued for the purpose of 
 
 ### 88AE Powers of District Court Judge or Community Magistrate after considering report of Registrar under section 88(2)﻿(b) or 88AD(2)﻿(c)
 (1) After considering the report of the Registrar prepared under section 88(2)﻿(b) or 88AD(2)﻿(c) and the defendant's financial position (whether determined from a declaration of financial capacity prepared by the defendant or from other sources), a District Court Judge or Community Magistrate may—
-  (a) refer the matter to the Registrar with a direction that 1 or more of the enforcement actions referred to in section 87(2), as specified in the direction, be invoked; or
+  (a) refer the matter to the Registrar with a direction that 1 or more of the enforcement actions referred to in section 87(2) or (2A), as specified in the direction, be invoked; or
+  (ab) if the total amount of any fine or fines owed by the defendant is $50,000 or more and the District Court Judge or Community Magistrate is satisfied that a sale order will not cause undue hardship to the defendant or the dependants of the defendant, make a sale order in a form approved under section 209A authorising the District Court Judge, Community Magistrate, or Registrar, as the case requires, to sell some or all of the defendant’s property (including land under the Land Transfer Act 1952), and the proceeds of sale must be dealt with under section 100RA; or
   (b) subject to section 106E, direct that a warrant of commitment in the prescribed form be issued; or
   (c) subject to sections 80A to 80ZM of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to a sentence of home detention; or
   (d) subject to sections 69B to 80 of the Sentencing Act 2002 and section 106E of this Act, sentence the defendant to a sentence of community detention; or
@@ -1455,7 +1466,7 @@ A warrant of commitment issued under section 83(2)﻿(b) or section 88AE(1)﻿(b
 
 ### 97 Purposes of sections 98 to 100T
 The purposes of sections 98 to 100T are—
-  (a) to enable a fine or any fines in default to be collected more effectively through the seizure of property; and
+  (a) to enable a fine or any fines in default to be collected more effectively through the seizure and, where appropriate, sale of real and personal property; and
   (b) in cases where the fine or fines in default relate to traffic offending, to reduce opportunities for offending of that kind.
 
 ### 98 Warrant to seize property
@@ -1529,7 +1540,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (b) the rights that may be available to the person under sections 100H, 100J, and 100Q.
 
 ### 100E Release of property if fine and other costs paid or if certain appeals successful
-(1) Any property that has been seized and is retained by the Registrar may be returned to the person from whom it was seized or to the person apparently lawfully entitled to it if the following are paid:
+(1) Any property (whether real property or personal property) that has been seized and is retained by the Registrar may be returned to the person from whom it was seized or to the person apparently lawfully entitled to it if the following are paid:
   (a) the fine:
   (b) if the property is a motor vehicle that has been impounded under section 96 or 96A of the Land Transport Act 1998, any impoundment costs:
   (c) all costs incurred in seizing, transporting, and storing the property.
@@ -1545,7 +1556,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (b) does not apply if the motor vehicle has already been released to a lessor or secured party under section 100H or 100L(1)﻿(a) or been sold by the court under section 100P.
 
 ### 100F Release of property to certain owners
-(1) If satisfied that the defendant does not own the seized property, the Registrar or a District Court Judge must release the property to a person who satisfies the Registrar or the Judge that—
+(1) If satisfied that the defendant does not own the seized property (whether real property or personal property), the Registrar or a District Court Judge must release the property to a person who satisfies the Registrar or the Judge that—
   (a) the person is the owner of the property; and
   (b) in the case of a motor vehicle seized in respect of a traffic fine, the person is not a substitute for the defendant or a nominee for the defendant or the substitute.
 (2) If a person other than the defendant claims to own the property and the Registrar is not satisfied of the matters specified in subsection (1), the Registrar must issue a summons in a form approved under section 209A calling before the court the claimant and the defendant or, if applicable in the case of a motor vehicle seized in respect of a traffic fine, the substitute for the defendant.
@@ -1582,7 +1593,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 
 ### 100H Lessor may apply to Registrar
 (1) This section applies if—
-  (a) the property seized is subject to a lease; and
+  (a) the property seized (whether real property or personal property) is subject to a lease; and
   (b) the lessor is not the defendant; and
   (c) in the case of a motor vehicle seized in respect of a traffic fine, the lessor is not a substitute for the defendant or a nominee for the defendant or the substitute.
 (2) The lessor may apply to the court, at any time before the Registrar has sold the property, for the release of the property to the lessor as if the defendant or the substitute for the defendant or the nominee for the defendant or the substitute had breached the terms of the lease.
@@ -1594,20 +1605,25 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 ### 100I What happens if lessor does not apply to Registrar before property sold or disposed of
 (1) This section applies if—
   (a) section 100H applies; but
-  (b) the lessor does not apply to the court for the release of the property under section 100H(2) before it is sold or disposed of; and
+  (b) the lessor does not apply to the court for the release of the property (whether real property or personal property) under section 100H(2) before it is sold or disposed of; and
   (c) the proceeds of the sale have not been fully applied.
 (2) The lessor may apply to the court for the release of the proceeds of the sale of the property that have not been applied.
 (3) On an application under subsection (2), the Registrar or a District Court Judge may release the proceeds of the sale of the property in accordance with subsections (4) and (5).
-(4) The proceeds of the sale of the property must be applied in accordance with section 100R as if the definitions of security agreement and security interest in section 79 included a lease and the lessor were a secured party as defined in that subsection.
-(5) However, despite subsection (4), section 100R applies subject to the following modifications:
+(4) The proceeds of the sale of the property must be applied in accordance with section 100R or 100RA, as the case requires, as if the definitions of security agreement and security interest in section 79 included a lease and the lessor were a secured party as defined in that subsection.
+(5) However, despite subsection (4), if section 100R applies, it applies subject to the following modifications:
   (a) the proceeds of the sale of the property must be applied in payment to the lessor of the amount to which the lessor would, but for the sale, have been entitled under the lease; and
   (b) the proceeds of the sale of the property must be applied in the manner and order of priority set out in section 100R, except that,—
     (i) in the case of a lease for a term of 1 year or less, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 100R(1)﻿(a) and (b), but before they are applied for the remainder of the payments described in section 100R(1)﻿(c) to (j); and
     (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in section 100R(1)﻿(c), and section 100R(2) applied.
+(5A) Despite subsection (4), if section 100RA applies, it applies subject to the following modifications:
+  (a) the proceeds of the sale of the property must be applied in payment to the lessor of the amount to which the lessor would, but for the sale, have been entitled under the lease; and
+  (b) the proceeds of the sale of the property must be applied in the manner and order of priority set out in section 100RA, except that,—
+    (i) in the case of a lease for a term of 1 year or less, those proceeds must be applied for the payment to the lessor described in paragraph (a) after they are applied for the payments described in section 100RA(1)﻿(a), but before they are applied for the remainder of the payments described in section 100RA(1)﻿(b) to (g); and
+    (ii) in the case of a lease for a term of more than 1 year, those proceeds must be applied for the payment to the lessor described in paragraph (a) as if they were payments described in section 100RA(1)﻿(b), and section 100RA(2) applied.
 (6) On the release of the proceeds of the sale of the property to the lessor, the lease is cancelled.
 
 ### 100J Claims by secured parties
-(1) The Registrar or a District Court Judge must, on application or on his or her own initiative, recognise a security agreement in respect of seized property if satisfied that a person has rights over that property as a secured party.
+(1) The Registrar, a Community Magistrate, or a District Court Judge must, on application or on his or her own initiative, recognise a security agreement in respect of property to be sold (whether real property or personal property) if satisfied that a person has rights over that property as a secured party.
 (2) The rights of a secured party may not be recognised under subsection (1) if the secured party is—
   (a) the defendant; or
   (b) in the case of a motor vehicle seized in respect of a traffic fine, a substitute for the defendant or a nominee for the defendant or the substitute.
@@ -1639,7 +1655,7 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (6) In this section, fine status response has the same meaning as in section 92A.
 
 ### 100L Sale of secured property by secured party or by court
-(1) When the applicability of a default balance has been ascertained under section 100K, a District Court Judge or the Registrar may, if the property has not yet been sold,—
+(1) When the applicability of a default balance has been ascertained under section 100K, a District Court Judge or the Registrar may, if the property (whether real property or personal property) has not yet been sold,—
   (a) release the property to a secured party, at the request of the secured party, and direct the secured party to sell the property and account for the proceeds of sale in accordance with section 100N; or
   (b) order the sale of the property under section 100P.
 (2) If the Judge or Registrar takes action under subsection (1)﻿(a) and 2 or more secured parties have requested the taking of that action, then the Judge or Registrar must release the property to the secured party with the highest-ranking security interest under the order of priority determined by Part 7 or 8 of the Personal Property Securities Act 1999.
@@ -1669,15 +1685,15 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
   (a) the Registrar must issue, in a form approved by the chief executive, a warrant to recover property; and
   (b) the property may be recovered under that warrant as the property of the defendant or (if the property is a motor vehicle seized from a substitute of the defendant) the substitute for the defendant; and
   (c) section 98 applies in respect of the property with all necessary modifications.
-(2) As soon as practicable after the property is delivered into a Registrar’s custody under subsection (1), the Registrar must arrange for the sale of the property as if it were a sale under section 100P and apply the proceeds of sale in accordance with section 100R(1) or, as the case requires, in accordance with a direction under section 100R(5).
+(2) As soon as practicable after the property is delivered into a Registrar’s custody under subsection (1), the Registrar must arrange for the sale of the property as if it were a sale under section 100P and apply the proceeds of sale in accordance with section 100R(1) or 100RA(1) or, as the case requires, in accordance with a direction under section 100R(5) or 100RA(3).
 (3) A secured party who fails, in whole or in part, to pay into court the money required under section 100N(1)﻿(b) is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.
 
-### 100P Sale or disposal of property seized
-(1) If any fine in respect of which property has been seized under a warrant to seize property remains unpaid, a District Court Judge or the Registrar may, after the expiry of the relevant period specified in subsection (2), order—
+### 100P Sale or disposal of property
+(1) If any fine in respect of which property has been seized under a warrant to seize property or may be sold under a sale order remains unpaid, a District Court Judge or the Registrar may, after the expiry of the relevant period specified in subsection (2), order—
   (a) that the property be sold at public auction or in any other manner that the Judge or Registrar directs; or
   (b) in the case of a negotiable instrument, that the Registrar obtain payment under, assign, or otherwise dispose of the negotiable instrument; or
   (c) in the case of money, that the Registrar apply the money in accordance with section 100R.
-(2) The relevant period referred to in subsection (1) is 7 days after the day on which the property was seized or, if the property is a motor vehicle that was seized while impounded under section 96 or 96A of the Land Transport Act 1998, the later of—
+(2) The relevant period referred to in subsection (1) is 7 days after the day on which the property was seized or a sale order was issued or, if the property is a motor vehicle that was seized while impounded under section 96 or 96A of the Land Transport Act 1998, the later of—
   (a) the day after the close of the 28-day period for which the motor vehicle would otherwise be required to be impounded under that Act; or
   (b) the expiry of 8 days after the day on which the motor vehicle was seized.
 (3) A motor vehicle may be sold under this section even though it fails to comply in any respect with section 242 of the Land Transport Act 1998, and the purchaser of that motor vehicle—
@@ -1690,18 +1706,21 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (7) In any case where a motor vehicle has been seized while impounded under section 96 or 96A of the Land Transport Act 1998, the vehicle may be sold under this section (even if the fine and all costs incurred in seizing, towing, and storing the vehicle have been paid) if any impoundment costs are not paid within—
   (a) 7 days after the close of the 28-day period for which the vehicle would otherwise be required to be impounded under that Act; or
   (b) any longer period specified by the Registrar in writing.
+(7A) If real property is sold under this section, a District Court Judge or Community Magistrate must issue an order vesting the property in the person who bought it.
 (8) The sale of property by the Registrar is deferred by a pending claim in respect of the property only if the costs of storage have been paid under section 100Q or a deposit has been paid, or security has been provided, under section 100F.
 (9) However, the property may be sold and the proceeds of the sale must be held until the pending claim is determined if—
   (a) the costs of storage have not been paid under section 100Q; or
   (b) a deposit has not been paid, or security has not been provided, under section 100F.
-(10) The purchaser or assignee of property sold or disposed of under this section obtains, by virtue of this section, good title to the property free of all ownership interests and other proprietary interests held in the property before that sale or disposition.
+(10) The purchaser or assignee of property sold, or disposed of, under this section obtains as a consequence of this section,—
+  (a) in the case of personal property, good title to the property free of all ownership and other proprietary interests held in the property before that sale or disposition:
+  (b) in the case of real property, on registration, the estate or interests of the previous registered owner, freed of any registered mortgage, or charge.
 
 ### 100Q Registrar must defer sale if storage costs paid
 (1) Any person may pay into court the costs incurred by the court in storing any property and as long as those costs, and any recurring storage costs, are paid, the Registrar must defer the sale of the property.
 (2) A payment made under subsection (1) may not be less than the amount of the costs incurred in a period of 8 days.
 
-### 100R Application of proceeds of sale
-(1) When property is sold under section 100P, the proceeds of the sale must be applied in the following manner and order of priority:
+### 100R Application of proceeds of sale of personal property
+(1) When personal property is sold under section 100P, the proceeds of the sale must be applied in the following manner and order of priority:
   (a) if the property is a motor vehicle that has been impounded under section 96 or 96A of the Land Transport Act 1998, in payment of any impoundment costs:
   (b) in payment of the costs of the sale (including all costs incurred in seizing, transporting, and storing the property and in complying with the provisions of this Part preliminary to sale):
   (c) if 1 or more security agreements have been recognised under section 100J before the proceeds of the sale are fully applied, in payment to each secured party of the amount to which the secured party would, but for the extinguishment of the security interest concerned, have been entitled under that agreement less any applicable default balance certified, under section 100K, in respect of that agreement:
@@ -1716,6 +1735,18 @@ Consistent with the purposes stated in section 97, a motor vehicle may be seized
 (3) If any proceeds of sale are required to be applied to 2 or more default balances under subsection (1)﻿(g), those proceeds must be applied to those default balances in the order of the priority determined for the applicable security interests by Part 7 or 8 of the Personal Property Securities Act 1999.
 (4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the defendant or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (1), except that the payments described in paragraphs (d) to (f) of that subsection are limited to amounts imposed in respect of traffic offences committed by the defendant in a motor vehicle that, at the time of the commission of the offence, was owned by the substitute or in which the substitute had an interest.
 (5) The Judge may, on application or on his or her own initiative, give any directions as to the application of the proceeds of sale under this section.
+
+### 100RA Application of proceeds of sale of real property
+(1) When real property is sold under section 100P, following the making of a sale order under section 88AE(1)﻿(ab), the proceeds of the sale must be applied in the following manner and order of priority:
+  (a) in payment of the costs of the sale (including all costs incurred in selling the property and in complying with the provisions of this Part preliminary to sale):
+  (b) if 1 or more security agreements have been recognised under section 100J before the proceeds of the sale are fully applied, in payment to each secured party of the amount to which the secured party would, but for the extinguishment of the security interest concerned, have been entitled under that agreement less any applicable default balance certified, under section 100K, in respect of that agreement:
+  (c) in payment of any amount of reparation payable by the defendant:
+  (d) in payment of any offender levy:
+  (e) in payment of the fine specified in the order:
+  (f) in payment to any secured party or secured parties of the applicable default balance or the applicable default balances certified under section 100K and deducted under paragraph (b):
+  (g) to the defendant.
+(2) If any proceeds of sale are required to be applied to 2 or more mortgages under subsection (1)﻿(f), those proceeds must be applied in the order of the priority determined for those mortgages by section 185 of the Property Law Act 2007.
+(3) The Judge or a Community Magistrate may, on application or on his or her own initiative, give any directions as to the application of the proceeds of sale under subsection (1) or (2).
 
 ### 100S Remission of fine and costs of sale in certain cases involving motor vehicles
 (1) This section applies if the realisation under section 100N or 100P of any motor vehicle seized in respect of a fine does not result in a reduction of the defendant's fine by more than $100.
