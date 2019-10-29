@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2019-10-29_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -3883,11 +3883,12 @@ The Minister may make rules (ordinary rules) for all or any of the following pur
 (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
 (2) The Minister must have regard to the criteria specified in section 164(2) before making a recommendation under subsection (1).
 (3) Section 161(1)﻿(a) and (2) do not apply to an ordinary rule made by Order in Council under subsection (1).
-(4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as if the Minister had made the rule or the amendment to the rule.
+(4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must (despite section 161(3)) be notified and made available in accordance with section 161(3) as if the Minister had made the rule or the amendment to the rule.
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
-(6) An Order in Council made under subsection (1)—
+(6) An Order in Council under subsection (1)—
   (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
-  (b) is not a legislative instrument for the purposes of that Act.
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (4), and section 161(3) of this Act); and
+  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 
 ### 153 Rules concerning road user behaviour
 Without limiting the general power to make rules under section 152, ordinary rules may—
@@ -4018,7 +4019,9 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) prescribe, or provide for the approval of, forms, documents, and records for the purposes of the rules:
   (f) make transitional and savings provisions for the purposes of implementing any rule; and for the purposes of determining the expiry date of licences under section 23(4).
 (5) An ordinary rule may incorporate or apply, with any necessary modifications, a regulation or order or notice made or given under the Transport Act 1962 or Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or Part 17.
-(6) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An ordinary rule (except for an ordinary rule made by an Order in Council under section 152A(1))—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 161(3) of this Act).
 (7) If a bylaw of a local authority is inconsistent with or repugnant to any ordinary rules in force in the same locality, the rules override the bylaws.
 (8) Despite section 28 of the State Sector Act 1988, the Minister may not delegate his or her power to make ordinary rules under this Act.
 
@@ -4031,7 +4034,10 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (a) publish a notice of his or her intention to make the rule; and
   (b) give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
   (c) consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Minister in each case considers appropriate.
-(3) Every ordinary rule must be notified in the Gazette and be made available for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
+(3) If an ordinary rule (except for an ordinary rule made by an Order in Council under section 152A(1)) is made under this Act,—
+  (a) notice of the making of the rule must be given in the Gazette; and
+  (b) the rule must be made available for purchase by members of the public at a reasonable price; and
+  (c) the notice must specify a place where the rule is available for inspection free of charge and for purchase.
 (4)
 
 **Emergency rules**
@@ -4040,7 +4046,9 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (1) The Agency may from time to time, in accordance with section 163, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to a person, or of damage to property.
 (2) The Agency may not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules, or recommend that ordinary rules be made, to effectively alleviate or minimise the risk concerned.
 (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation must be notified as if it were an emergency rule.
-(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An emergency rule—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 163(2) to (4) of this Act).
 
 ### 163 Procedure for making emergency rules
 (1) Before making an emergency rule, the Agency must consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Agency in each case considers appropriate.
@@ -4095,7 +4103,8 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (e) the place where the material can be purchased; and
   (f) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
 (6) All material incorporated by reference under subsection (1) or (2) must be made available at the Agency for inspection by the public free of charge.
-(7) The Legislation Act 2012 does not apply to material incorporated by reference in a rule or to an amendment to, or a replacement of, that material.
+(7) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a rule, or to an amendment to, or a replacement of, that material.
+(8) Nothing in section 41 of the Legislation Act 2012 requires material that is incorporated by reference in a rule to be presented to the House of Representatives.
 (8)
 (9) Subsections (1) to (8) do not affect the application of sections 29 to 32 of the Standards and Accreditation Act 2015.
 
