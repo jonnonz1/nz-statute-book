@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2018-10-22_
+_Consolidation as at 2019-10-29_
 
 > An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
@@ -5473,6 +5473,7 @@ Without limiting the generality of section 297, the Governor-General may from ti
 (3) Each part of the new notice that has the same effect as a part of a revoked notice that was given under a particular provision of this Act must be treated as having been given under that provision.
 (4) Any prerequisites for publication of the new notice must be treated as having been satisfied, but only to the extent that the prerequisites for publication of the revoked notices were satisfied when they were published.
 (5) A revoked notice continues to have effect, as if it had not been revoked, on any matter in a period to which the revoked notice applied.
+(5A) A new notice is a disallowable instrument for the purposes of the Legislation Act 2012 (and must be presented to the House of Representatives under section 41 of that Act) only if the revoked notice is a disallowable instrument for the purposes of the Legislation Act 2012 under section 303 of this Act.
 (6) In this section, in any particular case,—
   - **new notice** means—
     (a) the notice published by the Minister under subsection (1) to replace the revoked notices; or
@@ -5481,12 +5482,19 @@ Without limiting the generality of section 297, the Governor-General may from ti
     (a) the 1 or more notices revoked by the Minister's new notice under subsection (1)﻿(a); or
     (b) the 1 or more notices revoked by the chief executive's new notice under subsection (2)﻿(a).
 
-### 303 Certain notices to have status of regulations
-(1) A notice given under this Act that is required to be published in the Gazette—
-  (a) is a regulation for the purposes of the Interpretation Act 1999; and
-  (b) is a legislative instrument for the purposes of the Legislation Act 2012, but is not a disallowable instrument for the purposes of that Act and does not have to be presented to the House of Representatives under section 41 of that Act.
-(2) Subsection (1) does not apply to any notice given under any of sections 11, 13, 14, 16, 20, 60, 186K, 186Q, 186ZE, 188, 265A, 283, 295, 296P, 307, 341, 368, and 369.
-(3) A notice given under section 11(4)﻿(b)﻿(i) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+### 303 Application of Legislation Act 2012 to instruments given by notice in Gazette
+An instrument that is required by or under this Act to be given by notice in the Gazette—
+  (a) is not a legislative instrument for the purposes of the Legislation Act 2012, unless this Act expressly provides otherwise; and
+  (b) is a disallowable instrument for the purposes of the Legislation Act 2012 (and must be presented to the House of Representatives under section 41 of that Act) only if it is made under 1 or more of the following sections of this Act:
+    (i) sections 11(4), 15(5), and 16(1) (which relate to sustainability measures under Part 3):
+    (ii) sections 17B(5), 18, 19(5), and 33(b) (which relate to the quota management system under Part 4):
+    (iii) section 113ZD(3) (which relates to high seas fishing under Part 6A):
+    (iv) sections 186A(1) and 186B(1) (which relate to taiapure-local fisheries and customary fishing under Part 9):
+    (v) section 186Q(4)﻿(b) (which relates to aquaculture matters under Part 9A):
+    (vi) section 192A(2) (which relates to restrictions on acquisitions of fish under Part 10):
+    (vii) section 271(1) (which relates to cost recovery under Part 14):
+    (viii) sections 307, 312(3), and 313(1) (which relate to miscellaneous matters under Part 16):
+    (ix) sections 368(6), 368A(5), 368A(8), 368A(11), and 369(6) (which relate to miscellaneous matters under Part 17).
 
 ### 304 Circulars
 (1) Regulations under this Act may provide for the promulgation from time to time by the chief executive of circulars specifying general criteria for the drawing up, accomplishment, demonstration, carrying on, or provision for any act, plan, proposal, matter, system, process, or thing.
@@ -7805,11 +7813,6 @@ This Act is the Overseas Investment Act 2005.
 ## Part 2 — Consent and conditions regime
 
 ### Subpart 7 — Transitional provisions and amendments to other enactments
-
-**Amendments to Fisheries Act 1996**
-
-### 73 New sections 56 to 58B substituted in Fisheries Act 1996
-Amendment(s) incorporated in the Act(s).
 
 **Transitional provisions**
 
