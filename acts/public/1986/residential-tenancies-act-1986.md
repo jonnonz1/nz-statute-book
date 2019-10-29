@@ -1,5 +1,5 @@
 # Residential Tenancies Act 1986
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-29_
 
 > An Act to reform and restate the law relating to residential tenancies, to define the rights and obligations of landlords and tenants of residential properties, to establish a tribunal to determine expeditiously disputes arising between such landlords and tenants, to establish a fund in which bonds payable by such tenants are to be held, and to repeal the Tenancy Act 1955 and the Rent Appeal Act 1973 and their amendments
 
@@ -860,10 +860,10 @@ Where any party to a tenancy agreement breaches any of the provisions of the agr
 (2) To the extent provided in subsection (3), the tenant is liable to the landlord for destruction of, or damage to, the premises that is caused by a careless act or omission of the tenant or of a person for whose actions the tenant is responsible under section 41 or 66L, other than an act or omission described in subsection (1).
 (3) The tenant’s liability under subsection (2) is limited,—
   (a) if the property is insured against the destruction or damage, to the lesser of the applicable excess under the insurance and whichever of the following is applicable:
-    (i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
+    (i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Public and Community Housing Management Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
     (ii) in any other case, the rent under the tenancy agreement for a period of 4 weeks; or
   (b) otherwise, to whichever of the following is applicable:
-    (i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
+    (i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Public and Community Housing Management Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
     (ii) in any other case, the rent under the tenancy agreement for a period of 4 weeks.
 (4) However,—
   (a) if any insurance moneys that would otherwise have been payable because of the destruction or damage are irrecoverable because of an act or omission of the tenant or of a person for whose actions the tenant is responsible under section 41 or 66L, for the purposes of subsection (3) the property is treated as not insured against the destruction or damage (and therefore subsection (3)﻿(b) sets out the limit of the tenant’s liability under subsection (2)); and
@@ -1527,6 +1527,17 @@ Every Tenancy Adjudicator, in the performance of the Tenancy Adjudicator's dutie
 (4) Notwithstanding anything in subsections (2) and (3), the fact that a Tenancy Adjudicator sits in any particular place shall be conclusive evidence of that Tenancy Adjudicator's authority to do so, and no exercise of any jurisdiction or power by any Tenancy Adjudicator shall be questioned on the ground that the Tenancy Adjudicator was not stationed at, or authorised to exercise the jurisdiction of the Tribunal in, the place where the Tenancy Adjudicator exercised the jurisdiction or power.
 (5) Sittings of the Tribunal for the dispatch of its business in any particular place shall, subject to any directions by the Principal Tenancy Adjudicator, be held on such days and at such times as may be appointed by the Tenancy Adjudicator, or one of the Tenancy Adjudicators, stationed at, and authorised to exercise the jurisdiction of the Tribunal in, that place.
 
+### 71A Delegation by Principal Tenancy Adjudicator
+(1) The Principal Tenancy Adjudicator may delegate any of his or her functions, duties, and powers to another Tenancy Adjudicator (including the Deputy Principal Tenancy Adjudicator) who holds the qualification described in section 67(2)﻿(a) and who the Principal Tenancy Adjudicator is satisfied has the necessary capability, skills, and experience to perform or exercise those functions, duties, and powers.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) must be to a named person; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the Principal Tenancy Adjudicator.
+(3) A person to whom any functions, duties, or powers are delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 69(1) for work undertaken in that capacity.
+
 ### 72 Registrars
 (1) Every Registrar, and every Deputy Registrar, of the District Court is a Registrar of the Tribunal.
 (2) In addition, employees of the Ministry of Justice who are not Registrars, or Deputy Registrars, of the District Court may be designated by the chief executive of the Ministry of Justice as Registrars of the Tribunal.
@@ -1951,6 +1962,7 @@ The Tribunal may strike out, in whole or in part, a proceeding if satisfied that
 (4) Every witness attending a hearing of the Tribunal pursuant to a witness summons shall be entitled to a sum for that witness's travelling allowances, travelling expenses, and fees at the rate for the time being prescribed, except that, in any particular case, the Tribunal may disallow the whole or any part of that sum if it considers it just to do so.
 (5) The allowances, travelling expenses, and fees payable to a witness pursuant to subsection (4) shall be paid by such party or parties to the proceedings as the Tribunal shall order or, if the Tribunal so decides, shall be paid out of money appropriated by Parliament for the purpose.
 (6) A witness summons may be set aside by the Tribunal or by the Principal Tenancy Adjudicator if the Tribunal or the Principal Tenancy Adjudicator considers that the summons relates to documents in respect of which any person may have a claim of privilege against disclosure, or that the summons is oppressive, whether because it is too wide or too uncertain or because of lack of time for the person served with the summons to have a reasonable opportunity to comply with it, or for any other reason.
+(6A) A witness summons must be in a form approved by the chief executive of the Ministry of Justice after consulting the Principal Tenancy Adjudicator.
 (7) Every witness summons shall include a statement informing the person summoned of the right to apply to the Tribunal under subsection (6) to have the summons set aside on the ground that it relates to privileged documents or that compliance with it would be oppressive to that person.
 
 ### 98A Other witness expenses
@@ -2176,6 +2188,24 @@ The chief executive must ensure that assistance is reasonably available from his
 
 ### 115 Principal Tenancy Adjudicator may issue practice directions
 For the purpose of ensuring that the application and administration of this Act is consistent throughout New Zealand, the Principal Tenancy Adjudicator may from time to time issue, for the guidance of other Tenancy Adjudicators, officers of the Tribunal, and parties before the Tribunal, any directions, notes, guidelines, or suggestions (not being inconsistent with this Act or any rules made under section 116) that the Principal Tenancy Adjudicator considers necessary or desirable.
+
+### 115A Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Tribunal and how to commence a proceeding:
+  (b) any requirements that must be met to bring a proceeding:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 115B Online publication of final written decisions
+(1) Every final written decision of the Tribunal must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 95(3).
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, the Tribunal nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in the Tribunal and is either of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers.
 
 ### 116 Rules of procedure
 (1) The Governor-General may from time to time, by Order in Council, make rules for all or any of the following purposes:
@@ -2733,7 +2763,7 @@ An amendment does not apply to proceedings commenced before the Tribunal before 
     (a) section 13A(2) to (4) (as inserted by section 5 of the 2019 Amendment Act); and
     (b) section 45(2B) to (2D) (as inserted by section 7 of the 2019 Amendment Act); and
     (c) section 66J(5) to (7) (as inserted by section 15 of the 2019 Amendment Act)
-  - **registered community housing provider** has the same meaning as in section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992.
+  - **registered community housing provider** has the same meaning as in section 2(1) of the Public and Community Housing Management Act 1992.
 
 ### 20 Transitional provision for continuing tenancy agreement when circumstances in clause 19 cease applying
 (1) This clause applies if clause 19 ceases to apply but the tenancy agreement is continuing, and the tenancy agreement was entered into on or after the date on which section 13A(2) (as inserted by section 5 of the 2019 Amendment Act) came into force.
