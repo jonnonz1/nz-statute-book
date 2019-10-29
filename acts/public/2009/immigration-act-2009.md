@@ -1,5 +1,5 @@
 # Immigration Act 2009
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
@@ -6337,7 +6337,7 @@ No member of the Tribunal is personally liable for any act done or omitted to be
 (4) This clause is subject to section 35(3).
 
 ### 11 Power to summon witnesses
-(1) For the purposes of its proceedings, the Tribunal may of its own motion, or on application, issue in writing a summons in the prescribed form requiring any person to attend at the time and place specified in the summons and to give evidence, and to produce any papers, documents, records, or things in that person’s possession or under that person’s control that are relevant to the subject of the proceedings.
+(1) For the purposes of its proceedings, the Tribunal may of its own motion, or on application, issue in writing a summons in a form approved by the chief executive of the Ministry of Justice after consultation with the chair of the Tribunal requiring any person to attend at the time and place specified in the summons and to give evidence, and to produce any papers, documents, records, or things in that person’s possession or under that person’s control that are relevant to the subject of the proceedings.
 (2) For the purposes of this Act, the power to issue summonses, or to do any other act preliminary or incidental to the hearing of any matter by the Tribunal, may be exercised by the Tribunal, by the chair or deputy chair of the Tribunal, or by an officer of the Tribunal purporting to act by direction or with the authority of the Tribunal or the chair or deputy chair of the Tribunal.
 (3) If a summons is issued by the Tribunal in respect of a person detained in custody, the manager or other person in charge of the relevant prison or other premises, or the other person having custody of the detained person, must produce or allow the production of the person as directed in the summons.
 (4) This clause is subject to section 35(3).
@@ -6383,6 +6383,12 @@ Any document relating to proceedings before the Tribunal may be served outside N
 
 ### 18A Use of electronic facilities to hear matters
 The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tribunal or the chair of the Tribunal considers it appropriate and the necessary facilities are available.
+
+### 18B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Tribunal and how to commence proceedings:
+  (b) any requirements that must be met to bring proceedings:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 ### 19 Publication of decisions
 (1) Subject to subclauses (2) and (4) and clause 18(4), the Tribunal must publish its decisions.
