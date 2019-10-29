@@ -1,5 +1,5 @@
 # Courts Matters Act 2018
-_Consolidation as at 2019-04-08_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Courts Matters Act 2018.
