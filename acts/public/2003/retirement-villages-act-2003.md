@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -916,10 +916,10 @@ In accordance with sections 76 to 83, the Disputes Tribunal established under se
   (d) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $350,000:
   (e) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $350,000.
 (2) In the exercise of its jurisdiction under section 82, the Disputes Tribunal must not—
-  (a) make an order under section 82(3)﻿(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $15,000:
-  (b) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $15,000:
-  (c) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $15,000.
-(3) Despite subsection (2), if, in respect of any proceedings properly before the Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunal Act 1988, subsection (2) must be read as if every reference in that subsection to $15,000 were a reference to $20,000.
+  (a) make an order under section 82(3)﻿(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $30,000:
+  (b) make an order under section 82(3)﻿(d) requiring a person to pay an amount exceeding $30,000:
+  (c) make an order under section 82(3)﻿(e) directing a person to supply services if the value of the services exceeds $30,000.
+(3)
 
 ### 84 General provisions relating to section 82 orders
 (1) An application under section 82(1) may be made at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
