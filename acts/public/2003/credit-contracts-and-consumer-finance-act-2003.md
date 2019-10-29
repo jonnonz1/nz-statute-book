@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -1651,15 +1651,15 @@ The High Court may hear and determine the following matters:
 (5) For the purposes of sections 86 to 88 of the District Court Act 2016, an application made to the District Court for an order under this Act is to be treated as a proceeding.
 
 ### 87 Jurisdiction of Disputes Tribunal
-(1) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 90, 93, 94A, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $15,000.
-(2) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the Tribunal, the unpaid balance under the consumer credit contract does not exceed $15,000.
+(1) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 90, 93, 94A, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $30,000.
+(2) The Disputes Tribunal established under section 4 of the Disputes Tribunal Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the Tribunal, the unpaid balance under the consumer credit contract does not exceed $30,000.
 (3) An order of the Disputes Tribunal under this Act must not—
-  (a) require a person to pay an amount exceeding $15,000:
-  (b) declare a person not liable to another person for an amount exceeding $15,000:
-  (c) vest any property exceeding $15,000 in value in any person:
-  (d) direct the transfer or assignment or delivery of possession of any property exceeding $15,000 in value.
+  (a) require a person to pay an amount exceeding $30,000:
+  (b) declare a person not liable to another person for an amount exceeding $30,000:
+  (c) vest any property exceeding $30,000 in value in any person:
+  (d) direct the transfer or assignment or delivery of possession of any property exceeding $30,000 in value.
 (4) An order of the Tribunal that exceeds any restriction specified in subsection (3) is entirely of no effect.
-(5) If, in respect of any proceedings properly before the Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunal Act 1988, subsections (1) to (3) are to be read as if every reference in those subsections to $15,000 were a reference to $20,000.
+(5)
 
 ### 87A Jurisdiction of dispute resolution schemes
 This subpart does not limit the jurisdiction of a dispute resolution scheme in respect of any statutory obligation under this Act (see section 63(1)﻿(g) of the Financial Service Providers (Registration and Dispute Resolution) Act 2008).
