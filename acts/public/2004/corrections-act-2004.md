@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2019-10-01_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -13,6 +13,10 @@ This Act is the Corrections Act 2004.
 
 ### 3 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **at-risk assessment** means, in relation to a prisoner, an assessment of the prisoner’s risk of self-harm made under section 49(2) or 61A
+  - **at-risk cell** means a cell that has been designated as an at-risk cell under section 61H
+  - **at-risk management plan** , in relation to a prisoner, means the plan established for that prisoner under section 61D
+  - **at-risk prisoner** means a prisoner who has received an at-risk assessment indicating that the prisoner is at risk of self-harm and the at-risk assessment has not been reversed or revoked
   - **attendance for judicial purposes** , in relation to any person, includes the attendance of that person, whether as a party or as a witness, before any of the following tribunals:
     (a) any court of justice:
     (b) the House of Representatives or any Committee of that House:
@@ -45,6 +49,7 @@ This Act is the Corrections Act 2004.
   - **courtroom custodial duty** means the custody, control, and supervision of a person while he or she is at any place at which the attendance of that person is required for judicial purposes
   - **courtroom custodial services** means the provision of persons to undertake courtroom custodial duties
   - **department** means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
+  - **Director-General of an intelligence and security agency** has the same meaning as in section 4 of the Intelligence and Security Act 2017
   - **disciplinary offence** means an offence against discipline under subpart 5 of Part 2
   - **disciplinary proceedings** means a hearing conducted by a hearing adjudicator or a Visiting Justice under subpart 5 of Part 2
   - **drug** means—
@@ -92,8 +97,10 @@ This Act is the Corrections Act 2004.
   - **Health and Disability Commissioner** includes any employee of the Commissioner
   - **health centre manager** means a person appointed as a health centre manager under section 19A and who is a medical practitioner or a nurse
   - **hearing adjudicator** means a person designated as a hearing adjudicator under section 15
+  - **imaging technology search** has the meaning given to that term in section 92B
   - **Independent Police Conduct Authority** includes any employee of the Authority
   - **inspector of corrections** or means a person appointed as an inspector of corrections under section 28
+  - **intelligence and security agency** has the same meaning as in section 4 of the Intelligence and Security Act 2017
   - **investigating officer** means an officer (within the meaning of section 2(1) of the Defence Act 1990) or other duly authorised person investigating a complaint under section 49 of that Act
   - **legal adviser** —
     (a) means a lawyer (within the meaning of the Lawyers and Conveyancers Act 2006) who represents a prisoner; and
@@ -168,13 +175,18 @@ This Act is the Corrections Act 2004.
   - **rehabilitative programme** —
     (a) means a programme designed to reduce reoffending by facilitating the rehabilitation of prisoners sentenced to imprisonment and their reintegration into society; and
     (b) includes any medical, psychological, social, therapeutic, cultural, educational, employment-related, rehabilitative, or reintegrative programme
+  - **rub-down search** has the meaning given to that term in section 89
+  - **scanner search** has the meaning given to that term in section 92A
+  - **scope of practice** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **security contract** means a contract entered into with the chief executive under section 166
   - **security contractor** means a person who is a party to a security contract under which that person is to provide escort services or courtroom custodial services, or both
   - **security monitor** means any person appointed under section 172
   - **security officer** means any person appointed or engaged under section 17
+  - **self-care unit** means accommodation of a residential style
   - **self-harm** , in relation to a prisoner, means harm inflicted by the prisoner on himself or herself
   - **sentence of imprisonment** has the same meaning as in section 4 of the Sentencing Act 2002
   - **service prisoner** means a service prisoner as defined in section 2(1) of the Armed Forces Discipline Act 1971
+  - **shared cell** means a cell shared by a prisoner with 1 or more other prisoners
   - **specified visitor** means—
     (a) a person or class of persons approved by the chief executive as an official visitor to 1 or more prisons:
     (b) a person (other than a staff member) approved by the prison manager as an official visitor to that prison for 1 or more prescribed purposes
@@ -200,6 +212,7 @@ This Act is the Corrections Act 2004.
     (l) a service authority nominated by the commanding officer of a prisoner who is a service prisoner for the purpose of visiting that prisoner; or
     (m) a consular representative; or
     (n) an investigating officer
+  - **strip search** has the meaning given to that term in section 90
   - **trust account** means a trust account operated under section 46
   - **unauthorised item** means—
     (a) any article that could, while in the possession of any prisoner, be harmful to that prisoner or to any other person:
@@ -311,6 +324,7 @@ Despite anything in sections 41 and 42 of the State Sector Act 1988 or in any ot
   (ea) the power to reconsider a prisoner's security classification under section 48(2); or
   (f) the powers conferred by section 58 or section 59(1)﻿(b) (which relate to the segregation of prisoners on the grounds of security, good order, or safety; or for the purpose of protective custody); or
   (g) the power to grant approvals under sections 66(5)﻿(a) and 66A(2) (which relate to the types and conditions of work in which prisoners will be employed); or
+  (gaa) the power under section 81AB to reconsider a decision refusing approval for a placement, or ending the placement, of a child; or
   (ga) the power to approve an employee for the purposes of any regulations made under this Act; or
   (h) the power to appoint security monitors under section 172; or
   (i) the power to issue guidelines or instructions under section 196; or
@@ -427,6 +441,12 @@ A hearing adjudicator has the following powers and functions:
 (2) A contractor must appoint a health centre manager for every contract prison managed by that contractor.
 (3) Each health centre manager must be a medical practitioner or a nurse.
 (4) Every health centre manager is responsible for ensuring the provision of health care and treatment to prisoners.
+
+### 19B Delegation of powers and functions of health centre managers
+(1) A health centre manager may, either generally or particularly, delegate any of the powers and functions of the health centre manager under this Act or regulations made under this Act to a person specified in subsection (2) or (3).
+(2) In the case of a health centre manager appointed to a corrections prison that is not a contract prison, the delegation may be made to a registered health professional who is an employee of the department.
+(3) In the case of a health centre manager appointed to a contract prison, the delegation may be made to a registered health professional who is an employee of the contractor (or subcontractor, within the meaning of section 199C) that manages the contract prison.
+(4) Section 13(2) and (5) to (7) applies to a delegation under this section, and any reference in those provisions to a prison manager is taken to be a reference to a health centre manager.
 
 ### 20 Medical officers
 (1) The chief executive must ensure that every prison (other than a Police jail) has a sufficient number of medical officers to meet prisoners' needs for medical care and medical treatment.
@@ -785,6 +805,7 @@ The chief executive must ensure that, as far as is practicable, every prisoner i
   (b) in custody for a continuous period of more than 2 months on remand.
 (2) The chief executive must ensure that an individual management plan is devised for every prisoner to whom this section applies.
 (3) Each plan must be prepared, and revised at regular intervals, in accordance with any prescribed requirements and any relevant instructions issued under section 196.
+(3A) A plan may comprise more than 1 document, and those documents may be kept in different physical or electronic locations.
 (4) Each plan must—
   (a) be based on an assessment of the needs, capacities, and disposition of the prisoner; and
   (b) make provision for the safe, secure, and humane containment of the prisoner; and
@@ -1137,7 +1158,10 @@ Any money paid to the chief executive under section 67 to the credit of a prison
   (b) the prisoner's legal adviser.
 (4A) The entitlement in subsection (3) is overridden by directions given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011.
 (5) The chief executive (in the case of a corrections prison) or the Commissioner of Police (in the case of a Police jail) may impose conditions on, and maintain records of, the use of telephone facilities by prisoners.
-(6) Every prisoner who makes an outgoing telephone call must meet the cost of that call, except where this Act, or any regulations made under this Act, provide otherwise.
+(6) Every prisoner who makes an outgoing telephone call may be required to—
+  (a) meet the cost of the call; or
+  (b) pay a fee set by the chief executive.
+(7) Despite subsection (6), a prisoner is not required to meet the cost of an outgoing telephone call or to pay a fee if this Act, or any regulations made under this Act, provides otherwise.
 
 ### 78 Information and education needs of prisoners
 (1) A prisoner is entitled—
@@ -1189,7 +1213,25 @@ The chief executive must ensure that in every corrections prison, so far as is r
 (5) The chief executive may end the child’s placement if the chief executive considers that—
   (a) subsection (2)﻿(b)﻿(i) or (ii) is not being met; or
   (b) the mother’s responsibilities under the parenting agreement are not being met.
-(6) In this section and sections 81B and 81C, unless the context otherwise requires, child’s placement or placement means the placement of a child with his or her mother in prison in accordance with this section.
+(5A) If the chief executive refuses approval for a child’s placement under subsection (1), or ends a placement under subsection (5), the chief executive must—
+  (a) provide reasons for the decision; and
+  (b) notify the prisoner in writing of the decision and the process for reconsideration of the decision.
+(6) In this section and sections 81AB to 81C, unless the context otherwise requires, child’s placement or placement means the placement of a child with his or her mother in prison in accordance with this section.
+
+### 81AB Reconsideration of decision relating to child’s placement
+(1) At the request of the prisoner, the chief executive must reconsider a decision (the decision) under section 81A—
+  (a) refusing approval for the child’s placement (see section 81A(2)); or
+  (b) ending the child’s placement (see section 81A(5)).
+(2) A request for reconsideration must be made within 14 days after the prisoner has been notified in writing of the decision.
+(3) The chief executive must reconsider the decision against the relevant criteria set out in section 81A, except that the chief executive is not required to repeat the steps set out in section 81A(4).
+(4) A decision is not suspended while it is being reconsidered.
+(5) On reconsideration of the decision, the chief executive may do any of the following:
+  (a) affirm it:
+  (b) amend it:
+  (c) rescind it and substitute a different decision.
+(6) The chief executive must—
+  (a) provide reasons for the outcome under subsection (5); and
+  (b) notify the prisoner in writing of the outcome.
 
 ### 81B Parenting agreements
 A parenting agreement to which section 81A(2)﻿(c) relates must include, without limitation, all of the following:
@@ -1219,6 +1261,15 @@ A parenting agreement to which section 81A(2)﻿(c) relates must include, withou
   (a) the items and facilities to be included in, or excluded from, accommodation of that type; and
   (b) the standards to be met by accommodation of that type.
 (2) This section does not apply to accommodation to which section 61 applies.
+
+### 82A Types of permitted accommodation
+Subject to any restrictions set out in this Act or regulations made under this Act, a prisoner may be accommodated in an individual cell, a shared cell, or a self-care unit.
+
+### 82B No legitimate expectation as to conditions, etc
+(1) To avoid doubt, a prisoner does not have any legitimate expectation of—
+  (a) being accommodated in, or of being provided with, the same or similar conditions during the whole term of his or her sentence, period of remand, or other period of detention; or
+  (b) being provided with the same or similar programmes or opportunities during the whole term of his or her sentence, period of remand, or other period of detention.
+(2) Subsection (1) does not affect any entitlement conferred on a prisoner by this Act or regulations made under it.
 
 ### Subpart 4 — Coercive powers
 
@@ -1277,15 +1328,16 @@ A parenting agreement to which section 81A(2)﻿(c) relates must include, withou
 (4) A mechanical restraint—
   (a) may not be used for any disciplinary purpose:
   (b) must be used in a manner that minimises harm and discomfort to the prisoner.
-(5) A prison manager may authorise the use of a mechanical restraint on a prisoner for more than 24 hours only if, in the opinion of a medical officer, continued restraint is necessary to protect the prisoner from self-harm.
-(5A) An authorisation under subsection (5) must—
+(5) A mechanical restraint must not be used on a prisoner for more than 24 hours at a time unless the use of the restraint for more than 24 hours—
+  (a) is authorised by the prison manager and is, in the opinion of a medical officer, necessary to protect the prisoner from self-harm; or
+  (b) is, in the case of a prisoner who has been temporarily removed to a hospital outside the prison for treatment, necessary to prevent the escape of the prisoner or to maintain public safety.
+(5A) An authorisation under subsection (5)﻿(a) must—
   (a) be in writing; and
   (b) specify the type of restraint to be used; and
   (c) specify the time during which the prisoner is to be kept under restraint; and
   (d) include a record of the medical officer's opinion that the restraint is necessary to protect the prisoner from self-harm.
-(6) Despite subsections (1) to (4), chains and irons may not be fitted or attached—
-  (a) to a prisoner's neck or torso, in any circumstances; or
-  (b) to a prisoner's leg unless, for medical reasons, any other form of restraint would be impractical.
+(6) Despite subsections (1) to (5), chains or irons must not be fitted or attached to a prisoner in any circumstances.
+(7) In subsection (6), chains or irons does not include handcuffs.
 
 ### 88 Reporting on use of force, weapons, and mechanical restraints
 Particulars of the use of force, non-lethal weapons, and mechanical restraints must, wherever required by regulations made under this Act,—
@@ -1323,21 +1375,52 @@ Particulars of the use of force, non-lethal weapons, and mechanical restraints m
   (b) does not authorise the insertion of any instrument, device, or thing into any orifice of those kinds.
 (4)
 
-### 91 Definition of scanner search
-For the purposes of this Act, a scanner search means a search of a person while he or she is fully clothed using an electronic device designed to identify the presence of unauthorised items.
+### 91 Definition of scanner search for purposes of Public Safety (Public Protection Orders) Act 2014
+For the purposes of the Public Safety (Public Protection Orders) Act 2014, a scanner search means a search of a person while he or she is fully clothed using an electronic device designed to identify the presence of unauthorised items.
 
-### 92 Definition of x-ray search
-(1) For the purposes of this Act, an x-ray search means the search of a fully or partially clothed person using an x-ray machine or other prescribed device that is designed to identify the presence of items that are internally concealed.
-(2) For the purpose of facilitating an x-ray search, the person conducting the search may require the person being searched to—
+### 92 Definition of x-ray search for purposes of Public Safety (Public Protection Orders) Act 2014
+(1) For the purposes of the Public Safety (Public Protection Orders) Act 2014, an x-ray search means the search of a fully or partially clothed person using an x-ray machine or other prescribed device that is designed to identify the presence of items that are internally concealed.
+(2) For the purpose of facilitating an x-ray search under that Act, the person conducting the search may require the person being searched to—
   (a) remove any item of clothing that needs to be removed in order to carry out the search:
   (b) comply with any other procedure that needs to be undertaken to carry out the search.
 
+### 92A Meaning of scanner search for purposes of this Act
+(1) For the purposes of this Act, scanner search means a search of a person and the person’s clothing or possessions using an electronic device (whether or not the device uses imaging technology) designed to identify the presence of unauthorised items that are concealed—
+  (a) in a person’s body:
+  (b) beneath or within clothing or possessions.
+(2) For the purpose of facilitating a scanner search under this Act, the person conducting the search may require the person being searched to—
+  (a) remove any item of outer clothing (including, without limitation, any jacket, jumper, or sweatshirt) that needs to be removed in order to carry out the search, except where the person being searched has no other clothing, or only underclothing, under that outer clothing:
+  (b) remove any head covering, gloves, footwear (including socks or stockings), belts, jewellery, or other accessories:
+  (c) comply with any other procedure that needs to be undertaken to carry out the search.
+
+### 92B Meaning of imaging technology search
+For the purposes of this Act, imaging technology search—
+  (a) means a scanner search that produces an image of the body or part of the body (whether external or internal) of the person being searched; and
+  (b) includes, without limitation, a search using an x-ray machine or a body scanner.
+
+### 92C Particular matters relating to imaging technology searches
+(1) An image produced as a result of an imaging technology search must,—
+  (a) so far as practicable, avoid showing a clear image of the body beneath clothing; and
+  (b) obscure the genitals or make them not easily distinguishable if they are included in the image.
+(2) An image produced as a result of an imaging technology search must be retained only as long as is necessary to determine the presence of an unauthorised item.
+(3) Despite anything to the contrary in another enactment, a person who conducts an imaging technology search must not, without reasonable excuse, photograph or copy the image or provide the image to another person.
+
+### 92D Particular restrictions when imaging technology search used as alternative to strip search
+(1) The restrictions in section 92C(1) do not apply where an imaging technology search is used as an alternative to a strip search under section 98(9).
+(2) However, an image that is produced using imaging technology—
+  (a) may be viewed only by an officer or a constable of the same sex as the person who is searched; and
+  (b) may not be viewed by another prisoner.
+
 ### 93 Restrictions on internal examinations
-Nothing in this Act authorises or permits the internal examination of any body orifice of any person by any officer, except as provided by sections 89, 90, and 92.
+Nothing in this Act authorises or permits the internal examination of any body orifice of any person by any officer, except as provided by sections 89, 90, and 92B.
 
 ### 94 Restrictions on searches
-(1) A rub-down search or strip search may be carried out only by a person of the same sex as the person to be searched, and no strip search may be carried out in view of any person who is not of the same sex as the person to be searched.
-(2) A person who carries out a scanner search, rub-down search, strip search, or x-ray search must conduct the search with decency and sensitivity and in a manner that affords to the person being searched the greatest degree of privacy and dignity consistent with the purpose of the search.
+(1) The following searches may be carried out only by a person of the same sex as the person to be searched:
+  (a) a rub-down search:
+  (b) a strip search:
+  (c) an imaging technology search that is used as an alternative to a strip search under section 98(9).
+(1A) A strip search must not be carried out in view of any person who is not of the same sex as the person to be searched.
+(2) A person who carries out a scanner search, rub-down search, or strip search must conduct the search with decency and sensitivity and in a manner that affords to the person being searched the greatest degree of privacy and dignity consistent with the purpose of the search.
 (3) No officer may conduct a strip search unless one of the following persons is also present:
   (a) another officer:
   (b) a constable.
@@ -1350,25 +1433,28 @@ Nothing in this Act authorises or permits the internal examination of any body o
 Authority conferred by this Act to search any person includes the authority to detain that person for the purposes of the search.
 
 ### 96 Authority to search property
-(1) Authority conferred by this Act to conduct a scanner search of any person includes the authority to search any item carried by, or in the possession of, that person.
+(1) Authority conferred by this Act to conduct a scanner search of any person includes the authority to search—
+  (a) any item carried by, or in the possession of, that person:
+  (b) any outer clothing removed for the purposes of the search:
+  (c) any head covering, gloves, footwear (including socks or stockings), belts, jewellery, or other accessories removed for the purposes of the search.
 (2) Authority conferred by this Act to conduct a rub-down search of any person includes the authority to search—
   (a) any item carried by, or in the possession of, that person:
   (b) any outer clothing removed, raised, lowered, or opened for the purposes of the search:
   (c) any head covering, gloves, or footwear (including socks or stockings) removed for the purposes of the search.
-(3) Authority conferred by this Act to conduct a strip search or x-ray search of any prisoner includes the authority to search—
+(3) Authority conferred by this Act to conduct a strip search of any prisoner includes the authority to search—
   (a) any item of clothing removed, raised, lowered, or opened for the purposes of the search:
   (b) any item carried by, or in the possession of, that prisoner.
 (4) Authority conferred by this Act to conduct a search of any cell or any place set aside for the exclusive use of a person in a prison includes the authority to search any item in that cell or place.
 (5) Authority conferred by this Act to conduct a search of any vehicle includes the authority to search any item in that vehicle.
 (6) Authority conferred by this Act to search any item includes the authority to use any force that is reasonable in the circumstances for the purpose of breaking open that item.
-(7) Authority to search any cell or other place, vehicle, or item, includes the authority to use an aid or aids such as a chemical substance or x-ray or imaging equipment or some other mechanical, electrical, or electronic device, or other similar aid.
+(7) Authority to search any cell or other place, vehicle, or item, includes the authority to use an aid or aids such as a chemical substance or imaging equipment or some other mechanical, electrical, or electronic device, or other similar aid.
 
 ### 97 Use of dogs for searching
 (1) In exercising any power of search conferred by this Act, any officer may have with him or her, and use for the purposes of searching, any dog.
 (2) Any dog used for searching may be under the control of—
   (a) the officer conducting the search; or
   (b) any other person (being a constable, an officer of Customs, or any member of the Armed Forces) who may accompany the officer for the purposes of the search.
-(3) While any officer is using a dog for the purposes of searching any person, the person who has control of the dog must not allow that dog to come into physical contact with the person being searched.
+(3) While any officer is using a dog for the purposes of searching any person, the officer who has control of the dog must take reasonable steps to prevent the dog from coming into physical contact with the person being searched.
 (4) Any officer who uses a dog for the purposes of searching any person must conduct the search with decency and sensitivity and in a manner that affords to the person being searched the greatest degree of dignity consistent with the purpose of the search.
 
 ### 98 Search of prisoners and cells
@@ -1416,7 +1502,7 @@ Authority conferred by this Act to search any person includes the authority to d
 (8) A prisoner who is required under section 124 (other than in the situation referred to in section 124(2)﻿(d)) to submit to a prescribed procedure for the purpose of detecting whether or not the prisoner has used drugs or consumed alcohol, or both, may, immediately before the prisoner supplies a sample in accordance with that procedure, be required to undergo a strip search conducted by an officer, but only if—
   (a) the nature of the prescribed procedure is such that there is a risk that the prisoner may dilute, contaminate, or otherwise tamper with the sample; and
   (b) a strip search is necessary to ensure that such dilution, contamination, or tampering does not occur.
-(9) An officer may conduct an x-ray search of a prisoner in the prescribed manner if the officer has reasonable grounds to believe that the prisoner has an unauthorised item concealed in or around the prisoner's body.
+(9) If a prisoner is required to undergo a strip search under this section, a scanner search may be undertaken as an alternative if the chief executive has approved the device as suitable for the purpose of replacing a strip search.
 
 ### 99 Search of persons other than prisoners
 (1) A person who wishes to enter a prison or to visit a prisoner may, before being admitted to the prison or before being allowed access to any prisoner, be required to undergo a scanner search conducted by an officer for the purpose of detecting any unauthorised item.
@@ -1425,6 +1511,7 @@ Authority conferred by this Act to search any person includes the authority to d
 (4) Any person who refuses to submit to a scanner search or a rub-down search before being admitted to a prison or any part of a prison or before being allowed access to a prisoner—
   (a) must be refused admission to the prison or that part of the prison or, as the case may be, refused access to that prisoner:
   (b) if the person is already inside the prison or visiting the prisoner, may be required to leave the prison or the other place where the prisoner is.
+(4A) Any person may be refused admission to a prison or part of the prison, refused access to a prisoner, or required to leave the prison or place where the prisoner is (as the case may be) if the person refuses to remove an item of outer clothing (on the grounds that the person has no other clothing, or only underclothing, under that outer clothing) for the purpose of a scanner search or a rub-down search.
 (5) A person who is in a prison or visiting a prisoner and who refuses to consent to a rub-down search in accordance with subsection (3) may be required to undergo a rub-down search, and reasonable force may be used for the purposes of carrying out that search.
 (6) A person may not be required to undergo a rub-down search under subsection (5) unless,—
   (a) in the case of a person in a prison, the prison manager approves the conduct of a search under subsection (5):
@@ -1492,7 +1579,10 @@ As far as practicable in the circumstances, staff members must take the followin
   (c) the need to maintain the security and order of the prison:
   (d) the need to prevent the commission of offences:
   (e) the need to ensure the safety of any person:
-  (f) the need to prevent the entry of unauthorised items into the prison.
+  (f) the need to prevent the entry of unauthorised items into the prison:
+  (g) the interests of victims:
+  (h) the potential impacts of the written material on persons beyond the intended recipient, including the potential for the sharing and publication of the material:
+  (i) the potential for messages to be disseminated through coded references.
 
 ### 105 Restriction on sending mail to other prisoners
 No prisoner at any prison may send mail to another prisoner without first notifying the prison manager of the prisoner's intentions.
@@ -1516,13 +1606,14 @@ No prisoner at any prison may send mail to another prisoner without first notify
   (a) the prisoner or the other person asks the manager to do so; or
   (b) the other person is under 16 years, and his or her guardian asks the manager to do so; or
   (c) the other person is a prisoner, and neither prisoner has first notified the prison manager of his or her intention to correspond; or
-  (d) it is correspondence that the manager believes on reasonable grounds is likely to—
-    (i) threaten or intimidate a person to whom it is being sent by the prisoner; or
+  (d) the manager believes on reasonable grounds that the correspondence may, directly or indirectly,—
+    (i) threaten or intimidate any person; or
     (ii) endanger the safety or welfare of any person; or
     (iii) pose a threat to the security of the prison; or
     (iv) promote or encourage the commission of an offence, or involve, or facilitate the commission or possible commission of, an offence; or
     (v) prejudice the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences, and the right to a fair trial); or
-    (vi) breach an order or direction of any court (for example, a direction given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011) or constitute contempt of court.
+    (vi) breach an order or direction of any court (for example, a direction given under section 168A (no-contact conditions if family violence offence defendant remanded in custody) of the Criminal Procedure Act 2011) or constitute contempt of court; or
+    (vii) promote or encourage hostility towards any group of persons on 1 or more of the grounds specified in section 21 of the Human Rights Act 1993.
 (2) If mail or an unauthorised item found in any mail is withheld, the prisoner to or from whom the mail was directed must be informed that the mail or item, as the case may be, has been withheld, unless it is to be forwarded to an enforcement officer.
 (3) This section is subject to sections 109 and 110.
 
@@ -1681,12 +1772,10 @@ The chief executive must take all practicable steps to ensure that—
 (4) An authorised person who is listening to a prisoner call may allow any eligible employee to listen to the call for the purpose of interpreting it.
 (5) An authorised person may allow any eligible employee to listen to a recording of a prisoner for the purpose of providing a transcript, a written translation, or both.
 (6) An authorised person may allow any eligible employee to read a transcript of a prisoner call for the purpose of providing a written translation.
-(7) In this section, intelligence and security agency means—
-  (a) the New Zealand Security Intelligence Service:
-  (b) the Government Communications Security Bureau.
+(7)
 
 ### 118 Restrictions on disclosure of information
-(1) An authorised person must not knowingly disclose a prisoner call otherwise than under section 117 or in accordance with the Privacy Act 1993.
+(1) An authorised person must not knowingly disclose a prisoner call otherwise than under section 117.
 (2) An authorised person who is listening to a prisoner call must not knowingly allow any other person to listen to it, except under section 117.
 (3) An eligible employee (other than an authorised person) who, under section 117, has been allowed to listen to a prisoner call or a recording of a prisoner call, or to read a transcript of a prisoner call, must not knowingly disclose the call except to an authorised person.
 (4) A person who, under section 115(2), has heard a prisoner call or a recording of a prisoner call, or read a transcript of a prisoner call, must not knowingly disclose the call except to an authorised person.
@@ -1706,8 +1795,9 @@ The Privacy Act 1993 applies to the monitoring of prisoner calls under sections 
 (2) Despite subsection (1), if the Privacy Commissioner has notified the chief executive in writing that a complaint has been made under the Privacy Act 1993 in relation to the recording, the recording must not be destroyed or erased in accordance with that subsection until the Privacy Commissioner has notified the chief executive in writing that the complaint has—
   (a) not been proceeded with; or
   (b) been finally disposed of.
-(3) The Commissioner of Police or, as the case may be, the chief executive of a department of State specified in Schedule 1 of the State Sector Act 1988 must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
-(4) Nothing in subsections (1) and (3) applies to any record of any information adduced in proceedings in any court or tribunal.
+(3) The Commissioner of Police or, as the case may be, the chief executive of a department of State specified in Schedule 1 of the State Sector Act 1988 (except an intelligence and security agency) must take all practicable steps to ensure that every recording of a prisoner call held by the Police or that department that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as it appears that no proceedings or disciplinary proceedings (or no further proceedings or disciplinary proceedings) will be taken in which any information contained in it would be likely to be required to be produced in evidence.
+(3A) The Director-General of an intelligence and security agency must ensure that every recording of a prisoner call held by the agency that was obtained by the monitoring of the call under this Act is destroyed, or completely erased, as soon as practicable if the recording is not required, or is no longer required, by the agency for the purpose of its functions.
+(4) Nothing in subsections (1), (3), and (3A) applies to any record of any information adduced in proceedings in any court or tribunal.
 (5) Subsection (6) applies if—
   (a) 2 or more recordings of prisoner calls are stored in such a way that it is not practicable to destroy or completely erase one without destroying or completely erasing the others; and
   (b) subsection (1) requires the destruction or complete erasure of 1 or more, but not all of them.
@@ -1796,7 +1886,11 @@ If, under section 124, a prisoner submits to a prescribed procedure, the prison 
     (ii) biometric information being collected from the prisoner:
     (iii) measurements being taken from the prisoner:
     (iv) any other prescribed procedure designed to create a record to enable the subsequent identification of the prisoner.
-  (n) being a prisoner who is temporarily removed from prison under section 62, is in breach of any condition imposed under section 64.
+  (n) being a prisoner who is temporarily removed from prison under section 62, is in breach of any condition imposed under section 64:
+  (o) tattoos another prisoner:
+  (p) receives a tattoo with his or her consent:
+  (q) tattoos himself or herself:
+  (r) contacts a person in breach of a court order or direction of any court.
 (2) If an allegation referred to in subsection (1)﻿(j) is against a staff member of a prison or a security officer,—
   (a) a charge alleging an offence under that provision may only be laid,—
     (i) in the case of a staff member, if the supervisor of that staff member or the prison manager gives his or her written approval to the laying of the charge:
@@ -1979,8 +2073,8 @@ Every person commits an offence and is liable on conviction to imprisonment for 
 ### 145 Failure to comply with direction or requirement under section 101(2)
 Every person commits an offence and is liable on conviction to a fine not exceeding $1,000 who, without reasonable excuse, fails to comply with any direction or requirement given or made by an officer under section 101(2).
 
-### 146 Contravention of section 110A or 118
-Every person who acts in contravention of section 110A or 118 commits an offence and is liable on conviction to a fine not exceeding $2,000.
+### 146 Offences in relation to mail, information, and images
+Every person who contravenes section 92C(3), 110A, or 118 commits an offence and is liable on conviction to a fine not exceeding $2,000.
 
 ### 147 Injuring, interfering with, or obstructing dog used for searching
 Every person commits an offence and is liable on conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 or to both who, without lawful excuse,—
@@ -2930,11 +3024,11 @@ Regulations made under section 200(1)﻿(c) may include (without limitation) pro
     (ii) any thing discovered as a result of any search conducted under this Act:
   (e) regulating the standards of accommodation to be provided to prisoners or any class of prisoner, and the facilities to be provided or not provided:
   (f) regulating the security classification of prisoners:
-  (g) regulating the conditions of prisoners whose opportunity to associate with other prisoners is restricted or denied under section 58 or section 59 or section 60:
+  (g) regulating the conditions of prisoners whose opportunity to associate with other prisoners is restricted or denied:
   (h) regulating the transfer of prisoners:
   (i) prescribing classes of prisoners who may be temporarily released from custody or temporarily removed from prison under section 62, prescribing the purposes for which prisoners may be released or removed under that section, and regulating the release and removal of prisoners under that section:
   (j) regulating the use and reporting of the use of force, authorising and regulating the use and reporting of the use of specified kinds of mechanical restraints in particular circumstances, and authorising and regulating the use of and reporting of the use of specified kinds of non-lethal weapons:
-  (k) regulating x-ray searches:
+  (k) regulating imaging technology searches:
   (l) prescribing 1 or more types of procedure to which a prisoner may be required to submit, under section 124, for the purpose of detecting whether or not the prisoner has used drugs, consumed alcohol, or both:
   (m) regulating those procedures, including (without limitation)—
     (i) prescribing how procedures may be carried out:
@@ -2953,6 +3047,7 @@ Regulations made under section 200(1)﻿(c) may include (without limitation) pro
 Regulations made under section 200(1)﻿(d) may include (without limitation) provisions—
   (a) requiring different regimes for different classes of prisoners (for example, provisions designed to ensure the safety and welfare of young persons in prisons or persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 2009):
   (b) requiring persons detained solely as a consequence of a warrant or other order issued under the Immigration Act 1987 to be treated as a prisoner on remand for the purposes of any specified provision:
+  (ba) prescribing matters that must be included in rehabilitative programmes, and different matters may be prescribed for different rehabilitative programmes and different classes of prisoners:
   (c) prescribing conditions relating to the care of children of female prisoners who are allowed to remain with or visit their mothers in prison:
   (d) regulating the appearance of prisoners (including the clothing to be worn by prisoners and the cutting of prisoners' hair):
   (e) regulating the employment of prisoners, including their hours of work and the application or payment of earnings:
