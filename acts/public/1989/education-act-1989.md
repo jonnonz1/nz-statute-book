@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2019-10-22_
+_Consolidation as at 2019-10-29_
 
 > An Act to reform the administration of education
 
@@ -7660,6 +7660,22 @@ An Authority is responsible for making any arrangements that are practicable to 
 ### 306AA Practice notes
 (1) All Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of an Authority, officers of an Authority, and parties before an Authority.
+
+### 306AB Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Authorities and how to commence an appeal:
+  (b) any requirements that must be met for an appeal:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 306AC Online publication of written decisions
+(1) Every written decision of an Authority must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 305(6).
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, an Authority nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, written decision means a written decision that determines, or substantially determines, the outcome of proceedings in an Authority.
 
 ### 306A Disclosure of enrolment information by secondary schools
 The provisions of section 226A apply to any secondary school as if such a school were an institution within the meaning of that section.
