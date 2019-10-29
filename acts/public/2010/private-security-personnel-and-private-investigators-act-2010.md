@@ -1,5 +1,5 @@
 # Private Security Personnel and Private Investigators Act 2010
-_Consolidation as at 2019-05-01_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Private Security Personnel and Private Investigators Act 2010.
@@ -609,6 +609,7 @@ The grounds of disqualification for an individual applicant for a licence, or an
     (vi) offence of dishonesty; or
     (vii) offence of violence; or
     (viii) offence under this Act of working while not holding a licence or relevant certificate of approval or employing or engaging a person without a relevant certificate of approval, or an offence under section 16, 34, or 52 of the Private Investigators and Security Guards Act 1974; or
+  (fa) is adjudged bankrupt, makes any assignment for the benefit of his or her creditors, or makes any composition with his or her creditors; or
   (g) holds a licence or certificate of approval that has been suspended; or
   (h) has, within the preceding 7 years, had a licence or certificate of approval cancelled under this Act or the Private Investigators and Security Guards Act 1974; or
   (i) does not meet the requirements prescribed in regulations made under section 114(1)﻿(h); or
@@ -712,29 +713,29 @@ A licensee or certificate holder or person who employs or engages any repossessi
 
 ### 73 Complaint against licensee
 (1) A constable may at any time file a written complaint with a Licensing Authority against a licensee.
-(2) A person other than a constable may at any time, with the leave of the Authority, file a written complaint with the Authority against a licensee.
+(2) A person other than a constable may at any time, with the leave of a Licensing Authority, file a written complaint with that Authority against a licensee.
 (3) The Authority must refuse leave under subsection (2) unless the Authority is satisfied that the complainant has an interest, greater than that of the public generally, in the subject matter of the complaint, and that the complaint is made in good faith and is not frivolous or vexatious.
 (4) No complaint may be made under this section except on 1 or more of the following grounds:
   (a) that 1 or more grounds of disqualification under section 62 or 63, as the case may be, now apply to the licensee:
   (b) that there are 1 or more grounds for cancelling the licence under section 80:
   (c) that the licensee has contravened any provision of this Act or regulations made under this Act:
-  (d) that the licensee or, if the licensee is a company, any officer of the company, has been guilty of misconduct or gross negligence in the course of the business to which the licence relates:
+  (d) that the licensee or, if the licensee is a company, any officer of the company, has been guilty of unsatisfactory conduct or misconduct or gross negligence:
   (e) that a false statement was made in the application for the licence.
 (5) The complaint must specify the grounds on which it is made.
-(6) The complainant must, within 7 days after filing the complaint with a Licensing Authority, serve a copy of the complaint on the licensee.
+(6) The complainant must, within 5 working days after filing the complaint with a Licensing Authority, serve a copy of the complaint on the licensee.
 
 ### 74 Complaint against certificate holder
 (1) A constable may at any time file a written complaint with a Licensing Authority against a certificate holder.
-(2) A person other than a constable may at any time, with the leave of the Authority, file a written complaint with the Authority against a certificate holder.
+(2) A person other than a constable may at any time, with the leave of a Licensing Authority, file a written complaint with that Authority against a certificate holder.
 (3) The Authority must refuse leave under subsection (2) unless the Authority is satisfied that the complainant has an interest, greater than that of the public generally, in the subject matter of the complaint, and that the complaint is made in good faith and is not frivolous or vexatious.
 (4) No complaint may be made under this section except on 1 or more of the following grounds:
   (a) that 1 or more grounds of disqualification under section 62 now apply to the certificate holder:
   (b) that there are 1 or more grounds for cancelling the certificate of approval under section 83:
   (c) that the certificate holder has contravened any provision of this Act or regulations made under this Act:
-  (d) that the certificate holder has been guilty of misconduct or gross negligence in the course of being a responsible employee:
+  (d) that the certificate holder has been guilty of unsatisfactory conduct or misconduct or gross negligence:
   (e) that a false statement was made in the application for the certificate of approval.
 (5) The complaint must specify the grounds on which it is made.
-(6) The complainant must, within 7 days after filing the complaint with a Licensing Authority, serve a copy of the complaint on the certificate holder.
+(6) The complainant must, within 5 working days after filing the complaint with a Licensing Authority, serve a copy of the complaint on the certificate holder.
 
 ### 75 Licensing Authority may refer matter to Police or to Complaints, Investigation, and Prosecution Unit
 (1) On receipt of a complaint from a person under section 73(2) or 74(2), a Licensing Authority may—
@@ -821,6 +822,15 @@ A licensee or certificate holder or person who employs or engages any repossessi
     (vi) fine the licensee any amount not exceeding $2,000:
     (vii) reprimand the licensee:
     (viii) if the Licensing Authority is satisfied in the case of a licensee that is a company that the grounds for disciplinary action relate to any conduct or omission by a particular officer of the company, make an order directing the licensee to terminate the employment of that officer within the time the Licensing Authority specifies in the order.
+(1A) If unsatisfactory conduct is proved, a Licensing Authority—
+  (a) must not take action under subsection (1) in relation to that conduct; but
+  (b) may take action under subsection (1B).
+(1B) If, after a hearing in accordance with section 77, a Licensing Authority is satisfied that unsatisfactory conduct has been proved on the complaint or under section 77(1)﻿(b), as the case may be, the Authority may do all or any of the following things that may be appropriate:
+  (a) order that the licensee undergo training:
+  (b) order that the licensee work under supervision for a period that the Authority specifies in the order:
+  (c) order that the licensee work subject to conditions and for a period that the Authority specifies in the order:
+  (d) reprimand the licensee:
+  (e) order that the licensee apologise to the complainant.
 (2) If, after the hearing, a Licensing Authority is not satisfied that the grounds for disciplinary action have been proved, the Authority must dismiss the matter.
 (3) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
 (4) While any order of suspension of a licence made under this section continues in force,—
@@ -851,6 +861,7 @@ A licensee or certificate holder or person who employs or engages any repossessi
 ### 80 Discretionary grounds for cancellation of licence
 (1) This section applies (and, under section 78, an Authority may cancel the licence) if—
   (a) a person specified in subsection (2) has breached a condition of the licence imposed under section 33(7):
+  (aa) the Licensing Authority determines that a person specified in subsection (2) is no longer suitable to carry on the class of business to which the licence relates because of the person’s character, circumstances, or background:
   (b) a person specified in subsection (2) has been convicted of an offence under any of the provisions specified in Schedule 1:
   (c) a person specified in subsection (2) in the course of carrying on the business to which the licence relates uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the Dog Control Act 1996:
   (d) a person specified in subsection (2), having been convicted of an offence against this Act is, within 3 years after the date of the conviction, again convicted of an offence against this Act:
@@ -880,6 +891,15 @@ A licensee or certificate holder or person who employs or engages any repossessi
     (v) bar the certificate holder from applying for a licence or certificate of approval for a period that the Licensing Authority specifies in the order or until certain conditions are met:
     (vi) fine the certificate holder any amount not exceeding $2,000:
     (vii) reprimand the certificate holder.
+(1A) If unsatisfactory conduct is proved, a Licensing Authority—
+  (a) must not take action under subsection (1) in relation to that conduct; but
+  (b) may take action under subsection (1B).
+(1B) If, after a hearing in accordance with section 77, a Licensing Authority is satisfied that unsatisfactory conduct has been proved on the complaint or under section 77(1)﻿(b), as the case may be, the Authority may do all or any of the following things that may be appropriate:
+  (a) order that the certificate holder undergo training:
+  (b) order that the certificate holder work under supervision for a period that the Authority specifies in the order:
+  (c) order that the certificate holder work subject to conditions and for a period that the Authority specifies in the order:
+  (d) reprimand the certificate holder:
+  (e) order that the certificate holder apologise to the complainant.
 (2) If, after a hearing, a Licensing Authority is not satisfied that the grounds for disciplinary action have been proved, the Authority must dismiss the matter.
 (3) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
 (4) While any order of suspension of a certificate of approval made under this section continues in force,—
@@ -895,12 +915,13 @@ A licensee or certificate holder or person who employs or engages any repossessi
 
 ### 82 Mandatory grounds for cancellation of certificate of approval
 This section applies (and, under section 81, cancellation of the certificate of approval is mandatory) if—
-  (a) the Licensing Authority is satisfied that 1 or more grounds of disqualification under section 62 now apply to the certificate holder and the Licensing Authority is satisfied that, because of this, the certificate holder is not suitable to hold a certificate; or
+  (a) a Licensing Authority is satisfied that 1 or more grounds of disqualification under section 62 apply to the certificate holder and the Authority is satisfied that, because of this, the certificate holder is not suitable to hold a certificate; or
   (b) a Licensing Authority is satisfied that the certificate was issued by mistake or by reason of fraud on the part of the applicant for the certificate.
 
 ### 83 Discretionary grounds for cancellation of certificate
 This section applies (and, under section 81, an Authority may cancel the certificate of approval) if—
   (a) the certificate holder has breached a condition of the certificate of approval imposed under section 53(7):
+  (ab) the Licensing Authority determines that the certificate holder is no longer suitable to carry on the class of business to which the certificate relates because of the person’s character, circumstances, or background:
   (b) the certificate holder has been convicted of an offence under any of the provisions specified in Schedule 1:
   (c) the certificate holder, in the course of carrying on the business to which the certificate relates, uses any dog and, in respect of that dog, is convicted of an offence against any of the provisions of the Dog Control Act 1996:
   (d) the certificate holder, having been convicted of an offence against this Act is, within 3 years after the date of the conviction, again convicted of an offence against this Act:
@@ -1017,6 +1038,25 @@ The chief executive of the responsible department must provide for the Licensing
 ### 96A Practice notes
 (1) All Licensing Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of a Deputy Licensing Authority, officers of a Licensing Authority, and parties before a Licensing Authority.
+
+### 96B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive:
+  (a) information about the purpose of the Licensing Authorities and how to make an application or a complaint:
+  (b) any requirements that must be met for an application or a complaint:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 96C Online publication of final written decisions
+(1) Every final written decision of a Licensing Authority must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 77B.
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, a Licensing Authority nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in a Licensing Authority and is any of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers:
+  (c) an oral decision transcribed by an official transcription service.
 
 **Registers**
 
