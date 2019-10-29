@@ -1,5 +1,5 @@
 # Maritime Transport Act 1994
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-29_
 
 > An Act—ato continue Maritime New Zealand; andbto enable the implementation of New Zealand’s obligations under international maritime agreements; andcto ensure that participants in the maritime transport system are responsible for their actions; anddto consolidate and amend maritime transport law; andefto protect the marine environment; andgto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to pollution of the marine environment; andhto regulate maritime activities in New Zealand and New Zealand waters; andito regulate maritime activities and the marine environment in the exclusive economic zone and on the continental shelf as permitted under international law
 
@@ -853,9 +853,11 @@ Port operators must not operate, maintain, or service a port, or cause or permit
 
 ### 36A Power of Governor-General to make maritime rules
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make maritime rules for any purpose for which the Minister may make maritime rules under this Part.
-(2) An Order in Council made under subsection (1)—
-  (a) is a regulation or an instrument for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(2) Any maritime rule or any amendment to a maritime rule made by Order in Council must (despite section 448(2)) be notified and made available in accordance with sections 448(2) and 449 as if the Minister had made the rule or the amendment to the rule.
+(2A) An Order in Council—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (2) and sections 448(2) and 449 of this Act); and
+  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 (3) To avoid doubt,—
   (a) the Governor-General may amend or revoke any maritime rule made by the Minister (as if the Governor-General had made the rule):
   (b) the Minister may amend or revoke any maritime rule made by the Governor-General (as if the Minister had made the rule).
@@ -4422,9 +4424,11 @@ The Minister may from time to time make marine protection rules for all or any o
 
 ### 390A Power of Governor-General to make marine protection rules
 (1) The Governor-General may, by Order in Council, on the recommendation of the Minister, make marine protection rules for any purpose for which the Minister may make marine protection rules under this Part.
-(2) An Order in Council made under subsection (1)—
-  (a) is a regulation or an instrument for the purposes of the Regulations (Disallowance) Act 1989; but
-  (b) is not a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
+(2) Any marine protection rule or any amendment to a marine protection rule made by Order in Council must (despite section 448(2)) be notified and made available in accordance with sections 448(2) and 449 as if the Minister had made the rule or the amendment to the rule.
+(2A) An Order in Council—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (2) and sections 448(2) and 449 of this Act); and
+  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 (3) To avoid doubt,—
   (a) the Governor-General may amend or revoke any marine protection rule made by the Minister (as if the Governor-General had made the rule):
   (b) the Minister may amend or revoke any marine protection rule made by the Governor-General (as if the Minister had made the rule).
@@ -4970,9 +4974,13 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (a) be signed by the Minister, Governor-General, or Director (as appropriate); and
   (b) contain a statement specifying the objective of the rule and the extent of any consultation under this Act; and
   (c) set out fully the requirements of the rule, except where by reason of size or length certain information is incorporated in the rule by reference under section 452.
-(2) Subject to section 449, notice of the making of a rule under this Act shall be given in the Gazette and the rule shall be made available by the Authority for purchase by members of the public at a reasonable price, and the notification shall specify a place where the rule is available for inspection free of charge and for purchase.
+(2) If a rule is made under this Act (except for a rule made by an Order in Council under section 36A(1) or 390A(1)),—
+  (a) notice of the making of the rule must be given by the Authority in the Gazette; and
+  (b) the rule must be made available by the Authority for purchase by members of the public at a reasonable price; and
+  (c) the notice must specify a place where the rule is available for inspection free of charge and for purchase.
 (3)
-(4) Subject to section 449, every rule made under section 37 or section 391 by the Director shall come into force on the date of its notification in the Gazette.
+(4) Every rule made under section 37 or section 391 by the Director shall come into force on the date of its notification in the Gazette.
+(5) Subsections (2) and (4) are subject to section 449.
 
 ### 449 Notification of emergency rules in certain circumstances
 (1) Where for reasons of safety, or because of the imminence of the threat to the marine environment, as the case may be, it is in the opinion of the Director impracticable to give notice in the Gazette under section 448(2) of a rule made under section 37 or section 391 by the Director, the Director may notify such persons as he or she considers appropriate of the making of the rule and such rule shall immediately upon such notification come into force in respect of any person or persons notified and in respect of that person or those persons only.
@@ -4994,8 +5002,10 @@ Before making any emergency rule under section 37 or section 391, the Director s
   (a) require or provide for a matter to be determined, undertaken, or approved by the Authority, the Director, or any other person; and
   (b) empower the Agency, the Director, or any other person to impose requirements or conditions as to the performance of an activity or activities.
 (5) No breach of any rule made under this Act shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act or is expressly specified by this Act to be an offence against this Act.
-(5A) A rule made by the Governor-General under this Act is a legislative instrument for the purposes of the Legislation Act 2012.
-(6) Any other rule made under this Act is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(5A)
+(6) A rule made under this Act (except for a rule made by an Order in Council under section 36A(1) or 390A(1))—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see sections 448(2) and 449 of this Act).
 (7) So far as the bylaws of any local authority are inconsistent with or repugnant to any rule in force in the same locality, the bylaws shall be construed subject to the rule.
 (8) Notwithstanding section 28 of the State Sector Act 1988, the Minister shall not delegate his or her power to make rules under this Act.
 
