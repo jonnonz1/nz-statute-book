@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -98,10 +98,10 @@ This Act binds the Crown.
 ### 8 Application for licence
 (1) An applicant for a licence must be either an individual or a company.
 (2) Every application must be—
-  (a) in a form approved by the Licensing Authority; and
+  (a) in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
   (b)
   (c) accompanied by any prescribed fee.
-(3) An application by an individual must be accompanied by 2 photographs of the applicant, authenticated in the prescribed manner, and must include the following information:
+(3) An application by an individual must be accompanied by a photograph of the applicant, authenticated in the prescribed manner, and must include the following information:
   (a) the applicant’s full name, residential address, and date of birth:
   (b) the name under which the applicant engages in business:
   (c) the street address of the principal place of business used by the applicant for business purposes (unless the applicant is or proposes to be an itinerant secondhand dealer) and the street address of every other place of business used by the applicant:
@@ -134,6 +134,10 @@ This Act binds the Crown.
   (a) has been convicted within the past 5 years of a specified offence; or
   (b) has had a licence cancelled within the past 5 years.
 (4) For the purpose of checking whether or not a company is disqualified from holding a licence, a Licensing Authority may seek information about the company’s criminal convictions.
+(5) Despite subsection (3)﻿(a), if the relevant conviction is for a minor offence, a Licensing Authority may waive the company’s disqualification and issue a licence to the company if the Authority is satisfied, on the basis of written material before him or her, that there are special reasons why the company should not be disqualified taking into account—
+  (a) the character, circumstances, and background of every person concerned in the management of the company; and
+  (b) the nature of the offence.
+(6) In this section, minor offence means an offence that is, or the consequences of which are, minor in nature.
 
 ### 11 Refusal to issue licence
 If a Licensing Authority declines an application, he or she must immediately notify the applicant in writing, and give reasons for the refusal.
@@ -162,8 +166,8 @@ If a Licensing Authority declines an application, he or she must immediately not
 (5) A renewed licence is to be treated for all purposes as a new licence issued under section 9 or section 10, as applicable.
 (6) A licence holder may, at any time, return his or her licence to a Licensing Authority, in which case the licence expires on the date on which the licence (and all certified copies) are received by the Licensing Authority.
 
-### 16 Cancellation of licences
-(1) A Licensing Authority must cancel a licence,—
+### 16 Cancellation or suspension of licences
+(1) A Licensing Authority must cancel or suspend a licence,—
   (a) in the case of a licence held by an individual, if the licence holder ceases to be eligible to hold a certificate; or
   (b) in the case of a licence held by a company,—
     (i) if any person concerned in the management of the company is not eligible, or ceases to be eligible, to hold a certificate; or
@@ -176,11 +180,20 @@ If a Licensing Authority declines an application, he or she must immediately not
   (c) either—
     (i) the Licensing Authority, has not yet determined whether or not the person is eligible to hold a certificate; or
     (ii) the Licensing Authority has advised the company, in writing, that the person is not eligible to hold a certificate, but less than 2 weeks has elapsed since the advice was sent.
-(4) A cancellation must be in writing, with reasons, and state the date on which the cancellation takes effect.
+(3A) If a Licensing Authority suspends a certificate,—
+  (a) the suspension must be for an initial fixed period of not more than 3 months; and
+  (b) at the end of that period, the Authority must, if, following the final determination of the complaint, he or she thinks it is appropriate,—
+    (i) extend the suspension for a further period specified by the Authority; or
+    (ii) lift the suspension; or
+    (iii) cancel the certificate.
+(4) A cancellation or suspension must be in writing, with reasons, and state the date on which the cancellation or suspension takes effect.
 (5) A licence holder commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to a Licensing Authority immediately upon cancellation of the licence.
 
 ### 17 Updating licence information
 (1) If any of the details that were included on the licence application change (for example, new places of business are added or a person concerned in the management of the company leaves), the licence holder must immediately advise a Licensing Authority of the change.
+(1A) The advice must be—
+  (a) in a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
+  (b) accompanied by any prescribed fee.
 (2) On receiving advice under subsection (1), a Licensing Authority must, if those details are reflected on the licence that has been issued, issue an amended licence (and certified copies, if applicable). An amended licence is not a new or renewed licence.
 (3) If an amended licence is issued, the licence holder must immediately return the old licence and any old certified copies of the licence to a Licensing Authority.
 (4) A licensed secondhand dealer and pawnbroker commits an offence, and is liable on conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
@@ -219,11 +232,11 @@ If a Licensing Authority declines an application, he or she must immediately not
 
 ### 21 Application for certificate
 (1) An application for a certificate must—
-  (a) be made to the Licensing Authority on a form approved by the Licensing Authority; and
-  (b) be accompanied by 2 photographs of the applicant, authenticated in the prescribed manner; and
-  (c) be accompanied by a statutory declaration by the applicant as to the truth of the information supplied in the application; and
-  (d) be accompanied by the prescribed fee.
-(2) The form approved by the Licensing Authority must, without limitation, require the following information to be supplied:
+  (a) be made to a Licensing Authority on a form approved by the chief executive of the Ministry of Justice after consultation with all Licensing Authorities; and
+  (b) be accompanied by a photograph of the applicant, authenticated in the prescribed manner; and
+  (c)
+  (d) be accompanied by any prescribed fee.
+(2) The approved form must, without limitation, require the following information to be supplied:
   (a) the applicant’s full name and date of birth:
   (b) the applicant’s contact address and prescribed contact details:
   (c) any other prescribed information.
@@ -244,11 +257,16 @@ A person is disqualified from holding a certificate if he or she—
 (1) A Licensing Authority may waive disqualification under section 22 if—
   (a) the disqualified person applies in writing to the Licensing Authority for a waiver; and
   (b) any prescribed fee is paid; and
-  (c) the disqualification is on 1 or more of the grounds set out in section 22(b) to (h); and
-  (d) the Licensing Authority is satisfied, on the basis of the written material before him or her, that there are special reasons why the person should not be disqualified from holding a certificate.
-(2) A person who wishes to seek a waiver of disqualification may do so only in connection with an application for a certificate or licence, or an application for renewal of a certificate or licence, or in connection with the cancellation or suspension of a certificate or the cancellation of a licence.
+  (c) 1 or both of the following apply to the disqualification:
+    (i) the disqualification is on the ground set out in section 22(a) and the relevant conviction is for a minor offence:
+    (ii) the disqualification is on 1 or more of the grounds set out in section 22(b) to (h); and
+  (d) the Licensing Authority is satisfied, on the basis of written material before him or her, that there are special reasons why the person should not be disqualified from holding a certificate taking into account—
+    (i) the person’s character, circumstances, and background; and
+    (ii) the nature of any offence relevant to the person’s disqualification.
+(2) A person who wishes to seek a waiver of disqualification may do so only in connection with an application for a certificate or licence, or an application for renewal of a certificate or licence, or in connection with the cancellation or suspension of a certificate or the cancellation or suspension of a licence.
 (3) A waiver expires on the expiry of any certificate or licence to which it relates.
 (4) A Licensing Authority may, at any time, cancel a waiver, by notice in writing (with reasons) to the person concerned, if satisfied on reasonable grounds that the waiver should no longer apply.
+(5) In this section, minor offence means an offence that is, or the consequences of which are, minor in nature.
 
 ### 24 Checks on applicants
 (1) Within 3 weeks of receiving an application for a certificate, a Licensing Authority must obtain a report on the applicant showing—
@@ -272,13 +290,17 @@ A person is disqualified from holding a certificate if he or she—
 ### 26 What happens if Police object to applicant
 (1) An applicant who receives a copy of a Police objection may—
   (a) request a hearing in person before a Licensing Authority on whether to dismiss or uphold the objection, in which case the request must be—
-    (i) in writing and accompanied by the prescribed fee (if any); and
-    (ii) received by the Licensing Authority within 3 weeks of the date on which the notice of objection was sent; or
-  (b) make written submissions to the Licensing Authority, in which case the submissions must be received by the Licensing Authority within 3 weeks of the date on which the notice of objection was sent.
+    (i) in writing and accompanied by any prescribed fee; and
+    (ii) received by the Licensing Authority within 15 working days of the date on which the notice of objection was sent; or
+  (b) make written submissions to a Licensing Authority, in which case the submissions must be received by the Licensing Authority within 15 working days of the date on which the notice of objection was sent.
 (2) If an applicant requests a hearing in person,—
   (a) if the applicant is also disqualified from holding a certificate, a Licensing Authority may not hold a hearing on the Police objection until after he or she has made a decision under section 23 on whether to waive the disqualification; and
-  (b) if the applicant is not disqualified from holding a certificate, a Licensing Authority must arrange a time and place for the hearing under section 27 and give the Commissioner of Police and the applicant at least 14 days’ written notice of it.
-(3) If an applicant sends written submissions to the Licensing Authority, or if the Licensing Authority has not heard from the applicant within 3 weeks of the date on which the notice of objection was sent, the Licensing Authority must, on the basis of the written material before him or her, determine whether to uphold or dismiss the Police objection.
+  (b) if the applicant is not disqualified from holding a certificate, a Licensing Authority must arrange a time and place for the hearing under section 27 and give the Commissioner of Police and the applicant at least 10 working days’ written notice of it.
+(3) If an applicant sends written submissions to a Licensing Authority, or if a Licensing Authority has not heard from the applicant within 15 working days of the date on which the notice of objection was sent, the Authority must, on the basis of the written material before him or her, determine whether to uphold or dismiss the Police objection.
+(4) If the applicant is not disqualified from holding a certificate and does not request a hearing in person, a Licensing Authority may require the applicant to attend a hearing in person.
+(5) If a Licensing Authority requires a hearing in person, it must—
+  (a) arrange a time and place for the hearing under section 27; and
+  (b) give the Commissioner of Police and the applicant at least 10 working days’ written notice of the hearing.
 
 ### 27 Hearing into Police objection
 (1) For the purpose of conducting a hearing into a Police objection, sections 4 to 12 of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if a Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
@@ -443,6 +465,13 @@ A person is disqualified from holding a certificate if he or she—
   (c) the name and signature of the person who conducted the transaction on behalf of the licensed secondhand dealer:
   (d) the date of the transaction:
   (e) any other prescribed information.
+(3A) The dealers record must show the following information with respect to any functioning motor vehicle acquired by a licensed secondhand dealer in the course of business as a secondhand dealer:
+  (a) the identity of the person from whom the vehicle is acquired, which must include the matters set out in subsection (2)﻿(a):
+  (b) the name and signature of the person who conducted the transaction on behalf of the licensed secondhand dealer:
+  (c) the date of the transaction:
+  (d) the vehicle’s vehicle identification number (VIN) or chassis number:
+  (e) the vehicle’s registration number, if available:
+  (f) any other prescribed information.
 (4) The information required to be shown in the dealers record must be added to the record as soon as practicable after the information is available.
 (5) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she—
   (a) fails without reasonable excuse to—
@@ -450,6 +479,9 @@ A person is disqualified from holding a certificate if he or she—
     (ii) record in it the information required by this section; or
     (iii) add information to it as soon as practicable after the information is available; or
   (b) makes a false entry in his or her dealers record.
+(6) In this section, functioning motor vehicle includes—
+  (a) a motor vehicle that will function if minor repairs are made to it, including the replacement or addition of a part:
+  (b) a motor vehicle that does not comply with any legal requirement that must be met for it to operate on the road.
 
 ### 43 Verifying identity
 (1) A licensed secondhand dealer must verify the identity of the person from whom an article is acquired, except in the circumstances set out in subsection (3).
@@ -469,7 +501,7 @@ A person is disqualified from holding a certificate if he or she—
   (a) at the secondhand dealer’s principal place of business; or
   (b) in the case of an itinerant secondhand dealer, in the possession of that dealer; or
   (c) if regulations provide that dealers records may also be kept elsewhere, in accordance with the regulations.
-(2) The information in the dealers record relating to any article or scrap metal must be kept for not less than 3 years from the date of the transaction relating to that article or scrap metal.
+(2) The information in the dealers record relating to any article, scrap metal, or functioning motor vehicle must be kept for not less than 3 years from the date of the transaction relating to that article, scrap metal, or functioning motor vehicle.
 (3) Every dealers record must be kept available for inspection (at any reasonable hour) on request by a constable.
 (4) A licensed secondhand dealer commits an offence, and is liable on conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to store his or her dealers record as required by this section.
 
@@ -817,6 +849,25 @@ The responsible Minister must ensure that the department that is authorised to p
 ### 77A Practice notes
 (1) All Licensing Authorities acting together may issue practice notes, to apply to all of them, as they think fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of a Deputy Licensing Authority, officers of a Licensing Authority, and parties before a Licensing Authority.
+
+### 77B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Licensing Authorities and how to make an application or a complaint:
+  (b) any requirements that must be met for an application or a complaint:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 77C Online publication of final written decisions
+(1) Every final written decision of a Licensing Authority must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 76C.
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, a Licensing Authority nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in a Licensing Authority and is either of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers:
+  (c) an oral decision transcribed by an official transcription service.
 
 **Registers**
 
