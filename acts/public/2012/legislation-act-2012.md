@@ -1,5 +1,5 @@
 # Legislation Act 2012
-_Consolidation as at 2019-04-12_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Legislation Act 2012.
@@ -79,20 +79,17 @@ This Act binds the Crown.
 (5) When an Act or a legislative instrument is amended after the commencement of this section, the Chief Parliamentary Counsel—
   (a) must arrange for a reprint of the Act or legislative instrument to be published in electronic form so that an up-to-date version of the legislation is available in accordance with section 9 as soon as practicable; and
   (b) may also arrange for the reprint to be published in printed form.
-(6) All copies and reprints of legislation published under this section must include a statement that they are published under the authority of the New Zealand Government.
+(6)
 (7) The Chief Parliamentary Counsel performs functions under this section subject to any directions given by the Attorney-General.
 (8) An Order in Council made under subsection (4) is a legislative instrument and a disallowable instrument for the purposes of this Act and must be presented to the House of Representatives under section 41.
 
 **Availability**
 
 ### 7 Designation of places where printed copies of legislation may be purchased
-(1) The Attorney-General must, by notice in the Gazette or in some other manner, designate places where printed copies of legislation that are published under section 6 are available for purchase by members of the public.
-(2) Copies may be made available for purchase by members of the public not only at the places designated under subsection (1) but also at other places.
+[Repealed]
 
 ### 8 Sale of copies of legislation
-(1) The Chief Parliamentary Counsel must ensure that printed copies of legislation that are published under section 6 are available for purchase by members of the public at the places designated under section 7(1).
-(2) The price of printed copies of legislation must be reasonable, having regard to the actual cost of printing and making the copies available for sale.
-(3) When the repeal or expiry of an Act or the revocation or expiry of regulations or a legislative instrument takes effect, subsection (1) ceases to apply to that legislation.
+[Repealed]
 
 ### 9 Availability of electronic versions of legislation
 (1) The Chief Parliamentary Counsel must ensure that, as far as practicable, official electronic versions of legislation issued under section 17 are at all times able to be accessed at, or downloaded from, an Internet site maintained by or on behalf of the New Zealand Government.
@@ -119,7 +116,7 @@ A copy of every legislative instrument made after the commencement of this secti
   (b) the date on which the legislative instrument was made:
   (c) the Act or other authority under which the legislative instrument was made:
   (d) the number allocated to the legislative instrument under section 11:
-  (e) the places at which copies of the legislative instrument may be purchased:
+  (e) information about ways that copies of the legislative instrument may be accessed or purchased:
   (f) any other information the Chief Parliamentary Counsel considers appropriate.
 
 ### 13 Complying with requirement to publish or notify in Gazette by publishing and notifying under this Part
@@ -243,6 +240,7 @@ In this subpart, unless the context otherwise requires,—
     (iv) errors in or arising out of an amendment, by another enactment, to the legislation reprinted:
     (v) any other errors of a similar nature:ExamplesIn the following provision, the word in bold can be omitted: The board of a company may make offers on on one or more stock exchanges.An Act consequentially repeals section 85(3) of another Act. The other Act does not contain a section 85, and it is obvious from the context that the intention was to repeal section 75(3). The error can be corrected.An Act contains amendments to section 6 of another Act. Before the first Act comes into force, the other Act is amended so that section 6 is replaced by section 6A in substantially similar terms. Section 6A can be amended to reflect the intent of the amendments to section 6.
   (k) changes may be made to the way numbers, dates, times, quantities, measurements, and similar matters, ideas, or concepts are referred to or expressed so as to be consistent with current drafting practice:ExampleA reference in a form to this [blank] day of [blank] 19… may be changed to [Date].
+  (ka) a reference to a method of setting or determining a date or time (for example, a commencement that is calculated on a specified number of months after Royal assent) may be replaced with an exact reference to that date or time (once it is set or determined):ExampleA commencement clause states that the Act commences 6 months after Royal assent. If Royal assent is on 1 March 2020, this statement can be replaced with a statement that the Act commences on 1 September 2020.
   (l) a provision in the nature of a savings, transitional, validation, or other similar provision that is contained in an amending enactment may be incorporated as a provision of the enactment it amends, and all necessary consequential amendments may be made:
   (m) changes may be made to show the effect of any amendment or repeal, and changes may be made that are purely consequential on any amendment made, by another enactment, to the legislation reprinted:ExampleThe heading to a section may be changed to reflect the effect of an amendment to the section.
   (n) changes may be made that are purely consequential on any other change authorised by this subpart.
@@ -293,6 +291,7 @@ In this subpart, unless the context otherwise requires,—
   (c) the revisions on which work is expected to continue during that period.
 (3) The Attorney-General must make the draft publicly available and invite submissions on the draft from interested persons and members of the public, allowing a reasonable time for those submissions to be made.
 (4) The Attorney-General must present a revision programme to the House of Representatives as soon as practicable after it is approved by the Government.
+(4A) The Attorney-General may amend, or replace, the 3-yearly revision programme if the Attorney-General complies with subsections (3) and (4) (applied as if the amendment or replacement were the draft or programme).
 (5) The PCO's annual report under section 43 of the Public Finance Act 1989 may (without limitation) make—
   (a) recommendations for the repeal of obsolete or redundant enactments or provisions of enactments, if their repeal is not suitable for inclusion in a revision; and
   (b) recommendations for changes to 1 or more of the following:
@@ -311,11 +310,20 @@ In this subpart, unless the context otherwise requires,—
   (f) include new or additional purpose provisions, outline or overview provisions, examples, diagrams, graphics, flowcharts, readers’ notes, lists of defined terms, and other similar devices to aid accessibility and readability:
   (g) include new or additional provisions alerting users of the revision to enactments that are not incorporated in the revision but are relevant to the subject matter of the revision:
   (h) correct typographical, punctuation, and grammatical errors, and other similar errors:
-  (i) make minor amendments to clarify Parliament's intent, or reconcile inconsistencies between provisions:
-  (j) update any monetary amount (other than an amount specified for the purpose of jurisdiction or an offence or penalty), having regard to movements in the Consumers Price Index over the relevant period, or provide for the amount to be prescribed by Order in Council:
-  (k) omit forms and schedules from the Acts or parts of Acts revised, and instead authorise the matters in those forms and schedules to be prescribed by or under regulations:
+  (i)
+  (j)
+  (k)
   (l) make consequential amendments to enactments that are not incorporated, or are incorporated only in part, in the revision:
   (m) include any necessary repeals, savings, and transitional provisions.
+(2A) A revision Bill may also—
+  (a) make minor amendments to clarify Parliament’s intent, to resolve ambiguity, or to reconcile inconsistencies between provisions (or to do all of those things):
+  (b) update any monetary amount (other than an amount specified for the purpose of jurisdiction or an offence or penalty), having regard to movements in the New Zealand Consumers Price Index over the relevant period, or provide for the amount to be prescribed by Order in Council:
+  (c) make minor amendments to update how provisions can be complied with, or operate, in a way that takes account of changes in technology if those amendments are consistent with the spirit and meaning of the law:
+  (d) for the purpose of enabling matters of general principle to be contained in Acts and matters of detail to be contained in secondary legislation,—
+    (i) omit forms, schedules, or other matters of detail from the Acts or parts of Acts revised, and instead authorise those matters to be prescribed by or under Orders in Council:
+    (ii) include matters currently prescribed by Order in Council made under the Acts or parts of Acts revised:
+    (iii) make any other change that is necessary for the purpose of implementing subparagraph (i) or (ii) or that is consequential on doing so.
+(2B) A revision Bill must not change the effect of the law, except as authorised by subsection (2A).
 (3) A revision Bill must not change the effect of the law, except as authorised by subsection (2)﻿(i) or (j).
 (4) To avoid doubt, the changes that may be made in a revision Bill include (without limitation) any of the changes that may be made in a reprint under subpart 2.
 
@@ -329,7 +337,7 @@ In this subpart, unless the context otherwise requires,—
 (2) The Chief Parliamentary Counsel must submit a revision Bill to the certifiers for certification under this section.
 (3) The certifiers may certify a revision Bill if they are satisfied that—
   (a) the revision powers set out in section 31 have been exercised appropriately in the preparation of the revision; and
-  (b) the revision Bill does not change the effect of the law, except as authorised by section 31(2)﻿(i) or (j).
+  (b) the revision Bill does not change the effect of the law, except as authorised by section 31(2A).
 (4) Before certifying a revision Bill, the certifiers may require the Chief Parliamentary Counsel to make whatever changes they consider necessary.
 (5) When a revision Bill has been certified, the Chief Parliamentary Counsel must give the revision Bill and certificate to the Attorney-General.
 
@@ -780,10 +788,13 @@ Nothing in this subpart affects the application of sections 29 to 32 of the Stan
 
 ### 61 Confidentiality
 (1) Confidential communications between a client of the PCO and the Chief Parliamentary Counsel (or between a client of the PCO and another counsel in the PCO) are subject to legal professional privilege, but nothing in this subsection limits or affects the Standing Orders of the House of Representatives.
-(2) In subsection (1), confidential communications includes (without limitation)—
-  (a) drafting instructions received by the PCO and communications between any client of the PCO and any counsel in the PCO that relate to the subject matter of the instructions:
-  (b) drafts of legislation prepared by or on behalf of the PCO.
-(3) In this section, client includes a Minister of the Crown, a member of Parliament, a government department, an instrument of the Crown, a judicial officer, and a promoter of a local or private Bill.
+(2) In this section,—
+  - **client** includes a Minister of the Crown, a member of Parliament, a government department, an instrument of the Crown, a judicial officer, and a promoter of a local or private Bill
+  - **confidential communications** includes (without limitation)—
+    (a) drafting instructions received by the PCO and communications between any client of the PCO and any counsel in the PCO that relate to the subject matter of the instructions:
+    (b) drafts of legislation prepared by or on behalf of the PCO
+  - **counsel** includes a person who holds a legal qualification referred to in section 68(2) and is working for the PCO as a contractor or secondee in relation to drafting of legislation.
+(3)
 
 **Powers of Chief Parliamentary Counsel**
 
@@ -871,6 +882,9 @@ The Chief Parliamentary Counsel must put in place a procedure that provides for�
   (a) notifying any vacancy or prospective vacancy in a manner sufficient to enable suitably qualified people to apply for the position, except where it is impracticable to do so; and
   (b) notifying PCO employees of every appointment (other than that of an acting, temporary, or casual employee) to a vacant position in the PCO; and
   (c) reviewing those appointments made to an advertised vacant position within the PCO that are the subject of any complaint by an employee of the PCO.
+
+### 75A Secondments from elsewhere in State services for developing senior leadership and management capability
+Sections 74 and 75 do not apply to any secondment arranged under section 49 of the State Sector Act 1988.
 
 ### 76 Protection from liability
 (1) This section applies to the Chief Parliamentary Counsel and every employee of the PCO.
