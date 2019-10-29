@@ -1,5 +1,5 @@
 # Civil Aviation Act 1990
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-10-29_
 
 > An Act—ato establish rules of operation and divisions of responsibility within the New Zealand civil aviation system in order to promote aviation safety; andbto ensure that New Zealand's obligations under international aviation agreements are implemented; andcto consolidate and amend the law relating to civil aviation in New Zealand
 
@@ -936,7 +936,9 @@ Any medical certificate issued under the rules before the commencement of this P
   (b) public notice to be given of the exercise of any powers; or
   (c) any other matter.
 (6) No breach of any ordinary rule shall constitute an offence against this Act unless that offence is prescribed in regulations made under this Act.
-(7) An ordinary rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) An ordinary rule (except for an ordinary rule made by an Order in Council under section 34A(1))—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 34(2) and (3) of this Act).
 (8) So far as the bylaws of any local authority are inconsistent with or repugnant to any ordinary rule made under this Act in force in the same locality, the bylaws shall be construed subject to the rules.
 (9) Notwithstanding section 28 of the State Sector Act 1988, the Minister shall not delegate his or her power to make ordinary rules under this Act.
 
@@ -1005,7 +1007,9 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (1) Subject to subsection (2), the Director may from time to time, in accordance with section 35, make such emergency rules as may be necessary to alleviate or minimise any risk of the death of or a serious injury to any person, or of damage to any property.
 (2) The Director shall not make emergency rules unless it is impracticable in the circumstances of the particular case for the Minister to make ordinary rules to effectively alleviate or minimise the risk concerned.
 (3) The Minister may revoke any emergency rule made under subsection (1), and the revocation shall be notified as if it were an emergency rule.
-(4) An emergency rule is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An emergency rule—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see section 35(2) to (4) and (5A) of this Act).
 
 ### 32 Procedures relating to rules
 (1) Every ordinary rule shall—
@@ -1044,7 +1048,10 @@ Without limiting the power conferred by section 28, the Minister may make ordina
   (b) consult—
     (i) the persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies; and
     (ii) the Environmental Protection Authority, established by section 7 of the Environmental Protection Authority Act 2011, about the contents of any rules that relate to the transportation of hazardous substances as defined in section 2(1) of the Hazardous Substances and New Organisms Act 1996.
-(2) Subject to subsection (3), every ordinary rule shall be notified in the Gazette and be made available by the Authority for purchase by members of the public at a reasonable price, and the notification shall specify a place where the rule is available for inspection free of charge and for purchase.
+(2) If an ordinary rule (except for an ordinary rule made by an Order in Council under section 34A(1)) is made under this Act, then subject to subsection (3),—
+  (a) notice of the making of the rule must be given in the Gazette; and
+  (b) the rule must be made available by the Authority for purchase by members of the public at a reasonable price; and
+  (c) the notice must specify a place where the rule is available for inspection free of charge and for purchase.
 (3) Where for reasons of security it is inappropriate to notify a rule under subsection (2), the Minister shall notify such persons as he or she considers appropriate or necessary in the circumstances and service of notification may be effected in such other manner as the Minister considers appropriate or necessary in the circumstances, and the rule shall apply only to each person so notified (with effect from service of the rule on the person).
 (4)
 
@@ -1052,9 +1059,12 @@ Without limiting the power conferred by section 28, the Minister may make ordina
 (1) Despite anything in this Part, the Governor-General may, by Order in Council, on the recommendation of the Minister, make, amend, or revoke an ordinary rule for any of the purposes for which the Minister may make, amend, or revoke an ordinary rule under this Part.
 (2) The Minister must have regard to the criteria specified in section 33(2) before making a recommendation under subsection (1).
 (3) Sections 32(1)﻿(a) and 34(1) do not apply to an ordinary rule made by Order in Council under subsection (1).
-(4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must be published as part of the rules as if the Minister had made the rule or the amendment to the rule.
+(4) An ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) must (despite section 34(2)) be notified and made available in accordance with section 34(2) and (3) as part of the rules as if the Minister had made the rule or the amendment to the rule.
 (5) The Minister may amend or revoke an ordinary rule or an amendment to an ordinary rule made by Order in Council under subsection (1) as if the Minister had made the ordinary rule or the amendment to the ordinary rule under this Part.
-(6) An Order in Council made under subsection (1) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An Order in Council—
+  (a) is a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act; but
+  (b) is not a legislative instrument for the purposes of the Legislation Act 2012 (see subsection (4) and section 34(2) and (3) of this Act); and
+  (c) is not to be drafted by the PCO under section 59(2)﻿(a) of the Legislation Act 2012.
 
 ### 35 Procedure for making emergency rules
 (1) Before making an emergency rule, the Director shall consult with such persons, representative groups within the aviation industry or elsewhere, government departments, and Crown agencies as the Director in each case considers appropriate.
