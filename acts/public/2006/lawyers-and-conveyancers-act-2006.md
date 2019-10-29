@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2018-11-14_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -2233,7 +2233,7 @@ In the case of the exercise by a Standards Committee (or by any person on its be
 
 ### 198 Applications for review
 Every application for a review under section 193 must—
-  (a) be in the prescribed form; and
+  (a) be in a form approved by the chief executive of the Ministry of Justice after consultation with the Legal Complaints Review Officer; and
   (b) be lodged with the Legal Complaints Review Officer within 30 working days after a copy or notice of the determination, requirement, or order made, or the direction given, or the performance or exercise of the function or power, by the Standards Committee (or by any person on its behalf or with its authority) is served on, given to, or otherwise brought to the attention of, the applicant for review (which, in the absence of proof to the contrary, is presumed to have occurred on the fifth working day after it is made, given, or performed or exercised); and
   (c) be accompanied by the prescribed fee (if any).
 
@@ -2321,6 +2321,7 @@ The Legal Complaints Review Officer may—
     (ii) that was provided later than requested or directed.
 (4) The Legal Complaints Review Officer may, subject to subsection (3) and section 206A, direct such publication of his or her decisions as he or she considers necessary or desirable in the public interest.
 (5) Subject to this Act, any rules made under this Act, and any practice notes issued under section 215A, the Legal Complaints Review Officer may regulate his or her procedure in such manner as he or she thinks fit.
+(6) Forms for use by the Legal Complaints Review Officer may be approved by the chief executive of the Ministry of Justice after consulting the Legal Complaints Review Officer.
 
 ### 206A Suppression orders
 (1) The Legal Complaints Review Officer may order that any part of any evidence given or the name of any witness not be published.
@@ -2404,6 +2405,12 @@ The Legal Complaints Review Officer may not, in any decision, direction, or orde
 ### 215A Practice notes
 (1) The Legal Complaints Review Officer may issue practice notes as he or she thinks fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it and are for the guidance of Deputy Legal Complaints Review Officers, persons making complaints, persons who are the subject of complaints, and parties before the Legal Complaints Review Officer.
+
+### 215B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Legal Complaints Review Officer and how to commence a review:
+  (b) any requirements that must be met to request a review:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
 
 **Cost recovery**
 
@@ -2618,6 +2625,25 @@ The Disciplinary Tribunal must, in performing and exercising its functions and p
 (3) The Disciplinary Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and verifying that statement by oath.
 (4) Subject to subsections (1) to (3), the Evidence Act 2006 applies to the Disciplinary Tribunal in the same manner as if the Disciplinary Tribunal were a court within the meaning of that Act.
 (5) A hearing before the Disciplinary Tribunal is a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
+
+### 239A Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Disciplinary Tribunal and how to bring proceedings:
+  (b) any requirements that must be met to bring proceedings:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 239B Online publication of final written decisions
+(1) Every final written decision of the Disciplinary Tribunal must be published on an Internet site as soon as practicable, unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 240.
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, the Disciplinary Tribunal nevertheless determines that the decision, or any part of it, should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in the Disciplinary Tribunal and is any of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers:
+  (c) an oral decision transcribed by an official transcription service.
 
 ### 240 Restrictions on publication
 (1) If the Disciplinary Tribunal is of the opinion that it is proper to do so, having regard to the interest of any person (including (without limitation) the privacy of the complainant (if any)) and to the public interest, it may make any 1 or more of the following orders:
@@ -4253,6 +4279,7 @@ No person holding office as the chairperson or deputy chairperson of the Discipl
   (b) to produce any papers, documents, records, or things in that person's possession or under that person's control that are relevant to the proceedings.
 (2) The Tribunal may require a person producing any of the things listed in subclause (1)﻿(b) to do so under oath or affirmation, by statutory declaration, or by other means.
 (3) The power to issue a witness summons may be exercised by the Tribunal, the chairperson, the deputy chairperson, the chairperson of a division, or any officer of the Tribunal purporting to act at the direction or with the authority of the Tribunal or any of those persons.
+(3A) A witness summons must be in a form approved by the chief executive of the Ministry of Justice after consulting the Tribunal.
 (4) The Tribunal may—
   (a) require a copy of anything that is produced to be provided to any person appearing at the hearing; and
   (b) impose any terms and conditions on the provision of copies and the use that can be made of them.
