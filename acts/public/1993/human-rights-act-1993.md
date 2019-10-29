@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2019-07-01_
+_Consolidation as at 2019-10-29_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
@@ -1048,7 +1048,7 @@ A settlement between parties to a complaint may be enforced by proceedings befor
 (7) Despite subsections (1) to (6), no proceedings may be brought under this section in respect of a complaint or relevant part of a complaint to which section 79(3) applies.
 
 ### 92BA Lodging of applications
-Proceedings before the Tribunal are to be commenced by the lodging of an application in the prescribed form.
+Proceedings before the Tribunal are to be commenced by the lodging of an application in a form approved by the chief executive of the Ministry of Justice after consultation with the Chairperson of the Tribunal.
 
 ### 92C Representation in civil proceedings arising from complaints
 (1) A party to proceedings before the Tribunal or related proceedings may appear and be heard—
@@ -1379,6 +1379,7 @@ The Chairperson of the Tribunal is responsible for making such arrangements as a
 (4B) Before doing so, the Tribunal or the Chairperson or a Deputy Chairperson must give the parties a reasonable opportunity to comment on whether the proceeding should be dealt with in that manner.
 (4C) The hearing of a matter or any part of it may be conducted by telephone, audiovisual link, or other remote access facility if the Tribunal or the Chairperson or a Deputy Chairperson considers it appropriate and the necessary facilities are available.
 (5) The Tribunal may regulate its procedure as it thinks fit, subject to this Act and any regulations made under it, and any practice notes issued under section 121A.
+(6) Forms for use in the Tribunal may be approved by the chief executive of the Ministry of Justice after consulting the Chairperson.
 
 ### 105 Substantial merits
 (1) The Tribunal must act according to the substantial merits of the case, without regard to technicalities.
@@ -1517,6 +1518,24 @@ No member of the Tribunal shall be personally liable for any act done or omitted
 ### 121A Practice notes
 (1) The Chairperson of the Tribunal may issue practice notes as he or she considers appropriate.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of the other members of the Tribunal, officers of the Tribunal, and parties before the Tribunal.
+
+### 121B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Tribunal and how to commence a proceeding:
+  (b) any requirements that must be met for a proceeding:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 121C Online publication of final written decisions
+(1) Every final written decision of the Tribunal must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 107(3).
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, the Tribunal nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in the Tribunal and is either of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers.
 
 ### 122 Stating case for High Court
 (1) The Tribunal may, at any time, before or during the hearing or before delivering its decision, on the application of any party to the proceedings or of its own motion, state a case for the opinion of the High Court on any question of law arising in any proceedings before the Tribunal.
