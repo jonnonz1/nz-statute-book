@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2018-12-30_
+_Consolidation as at 2019-10-29_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -1875,7 +1875,7 @@ The rights conferred by Part 4 are not assignable.
     (ii) if a valid challenge has been made to the enforcement notice, the last day on which the challenge could be rejected.
   (1) by the close of Monday, 15 March, no challenges have been received. The rights owner can apply to the Tribunal at any time after that, up until the close of Sunday, 4 April (end of quarantine period); or
   (2) on Monday, 15 March, a valid challenge is received. Whether or not the challenge is rejected, the rights owner cannot apply to the Tribunal until after Monday, 29 March (last day on which challenge could be rejected) and must do so before the close of Sunday, 4 April (end of quarantine period).
-(2) The application must be in the prescribed form and include or be accompanied by—
+(2) The application must be in a form approved by the chief executive of the Ministry of Justice after consultation with the chairperson of the Tribunal, and include or be accompanied by—
   (a) a copy of the enforcement notice as forwarded to the rights owner; and
   (b) evidence that the rights owner is the owner, or acts as agent for the owner, of the material in which copyright is alleged to be infringed; and
   (c) a statement of which of the alleged infringements identified in the enforcement notice the rights owner is seeking to enforce; and
@@ -1889,7 +1889,7 @@ The rights conferred by Part 4 are not assignable.
 (5) If an infringement notice expires, and the notice relates to an application made in accordance with subsection (1), the expiry does not affect the continuation and completion of any proceedings.
 
 ### 122K Notice of proceedings
-(1) The Tribunal must give notice of the proceedings, in the prescribed form, to the account holder and any parties that the Tribunal directs to be joined.
+(1) The Tribunal must give notice of the proceedings, in a form approved by the chief executive of the Ministry of Justice after consultation with the chairperson of the Tribunal, to the account holder and any parties that the Tribunal directs to be joined.
 (2) The notice of proceedings must—
   (a) identify all the infringements in relation to which the rights owner seeks an order; and
   (b) specify the amount sought; and
@@ -3653,6 +3653,17 @@ The Tribunal constituted by section 30 of the Copyright Act 1962 and known as th
 (3) The acting chairperson or acting member is, while acting in the position, to be treated as the chairperson or a member of the Tribunal.
 (4) No appointment of an acting chairperson or acting member, no act done by an acting chairperson or acting member, and no act done by the Tribunal may be questioned in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
 
+### 209A Delegation by chairperson of Tribunal
+(1) The chairperson of the Tribunal may delegate any of the chairperson’s functions, duties, and powers to a member of the Tribunal who holds the qualifications set out in section 206(2)﻿(b) and the chairperson is satisfied has the necessary capability, skills, and experience to perform or exercise those functions, duties, and powers.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) must be to a named person; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the chairperson.
+(3) A person to whom any functions, duties, or powers are delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with section 210 for work undertaken in that capacity.
+
 ### 210 Remuneration and travelling allowances
 (1) The Tribunal is hereby declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
 (2) There shall be paid to members of the Tribunal, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
@@ -3788,6 +3799,24 @@ The Tribunal shall have such functions as are conferred on it by this Act or any
 ### 224A Practice notes
 (1) The chairperson of the Tribunal may issue practice notes for any type of proceedings dealt with by the Tribunal as he or she thinks fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of other members of the Tribunal, officers of the Tribunal, and parties before the Tribunal.
+
+### 224B Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Tribunal and how to commence a proceeding:
+  (b) any requirements that must be met for a proceeding:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 224C Online publication of final written decisions
+(1) Every final written decision of the Tribunal must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subsections (1) and (2) are subject to section 213(5).
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subsection (1) in favour of publication, the Tribunal nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this section, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in the Tribunal and is either of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers.
 
 ## Part 11 — Miscellaneous provisions
 
