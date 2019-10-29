@@ -1,5 +1,5 @@
 # Biosecurity Act 1993
-_Consolidation as at 2018-10-01_
+_Consolidation as at 2019-10-29_
 
 > An Act to restate and reform the law relating to the exclusion, eradication, and effective management of pests and unwanted organisms
 
@@ -1554,7 +1554,7 @@ Directions
 (6) When the Minister has made appropriate changes to the proposal or decided to make no changes to it, the Minister must recommend the approval of the national policy direction to the Governor-General in Council.
 (7) The Governor-General in Council may approve the national policy direction.
 (8) As soon as practicable after the Governor-General in Council has approved the national policy direction, the Minister must—
-  (a) publish a notice in the Gazette stating that the Governor-General has approved the direction and the date on which the Governor-General approved it; and
+  (a) publish in the Gazette the Order in Council approving the direction; and
   (b) publicly notify the direction in whatever form he or she thinks appropriate; and
   (c) send a copy of the direction to every management agency and regional council.
 (9) The national policy direction is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
