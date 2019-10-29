@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2019-10-24_
+_Consolidation as at 2019-10-29_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -390,6 +390,17 @@ The functions of the Tribunal are—
 The chair of the Tribunal is responsible for making such arrangements as are practicable to ensure that he or she and each member performs his or her functions—
   (a) in an orderly and efficient manner; and
   (b) in a way that achieves the purposes of this Act.
+
+### 41B Delegation by chair of Tribunal
+(1) The chair of the Tribunal may delegate any of the chair’s functions, duties, and powers to a member of the Tribunal who he or she is satisfied has the necessary capability, skills, and experience to perform or exercise those functions, duties, and powers.
+(2) A delegation—
+  (a) must be in writing; and
+  (b) must be to a named person; and
+  (c) is revocable at any time, in writing; and
+  (d) does not prevent the performance or exercise of a function, duty, or power by the chair.
+(3) A person to whom any functions, duties, or powers are delegated may perform or exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(4) A person who appears to act under a delegation is presumed to be acting in accordance with its terms in the absence of evidence to the contrary.
+(5) A person to whom any functions, duties, or powers are delegated must be paid remuneration and expenses (if any) determined in accordance with clause 4 of the Schedule for work undertaken in that capacity.
 
 ### 42 Services for Tribunal
 The Ministry of Justice must furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
@@ -961,7 +972,7 @@ No person holding office as a member of the Tribunal is deemed by reason of his 
 
 ### 6 Witness summons
 (1) For the purposes of any matter before the Tribunal, the Tribunal may, on its own initiative or at the request of a party, issue a summons to any person requiring that person to attend before the Tribunal and give evidence.
-(2) The summons must be in the prescribed form, and may require the person to produce before the Tribunal any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the matter.
+(2) The summons must be in a form approved by the chief executive of the Ministry of Justice after consultation with the chair of the Tribunal, and may require the person to produce before the Tribunal any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the matter.
 (3) The power to issue a summons under this clause may be exercised by the Tribunal or the chair of the Tribunal or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or the chair of the Tribunal.
 
 ### 7 Witnesses' expenses
@@ -997,3 +1008,21 @@ The Tribunal must have a seal, which must be judicially noticed in all courts an
 ### 12 Practice notes
 (1) The chair of the Tribunal may issue practice notes as he or she thinks fit.
 (2) The practice notes must not be inconsistent with this Act or any regulations made under it, and are for the guidance of members of the Tribunal, officers of the Tribunal, and parties before the Tribunal.
+
+### 13 Online publication of information about procedures, time frames, and progress of decisions
+The following information must be published on an Internet site maintained by or on behalf of the chief executive of the Ministry of Justice:
+  (a) information about the purpose of the Tribunal and how to commence proceedings:
+  (b) any requirements that must be met to bring proceedings:
+  (c) guidelines on how and when parties may obtain information on the progress of their case and when a decision may be expected.
+
+### 14 Online publication of final written decisions
+(1) Every final written decision of the Tribunal must be published on an Internet site as soon as practicable unless there is good reason not to publish it.
+(2) A final written decision may be published in part if there is good reason for not publishing the full decision.
+(3) Subclauses (1) and (2) are subject to section 50A.
+(4) Good reason not to publish a decision, or part of it, includes the following:
+  (a) non-publication is necessary because of a suppression order or statutory requirement that affects publication or continued publication:
+  (b) the decision falls into a category of decisions that are of limited public value:
+  (c) taking into account the presumption in subclause (1) in favour of publication, the Tribunal nevertheless determines that the decision or any part of it should not be published because publication or the effect of publication would be contrary to the interests of justice.
+(5) In this clause, final written decision means a written decision that determines, or substantially determines, the outcome of proceedings in the Tribunal and is either of the following:
+  (a) a written reserved decision following an oral hearing:
+  (b) a written decision in any case considered on the papers.
