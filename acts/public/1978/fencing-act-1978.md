@@ -1,5 +1,5 @@
 # Fencing Act 1978
-_Consolidation as at 2018-11-12_
+_Consolidation as at 2019-10-29_
 
 > An Act to reform the law relating to the erection and repair of dividing fences, and in substitution for the Fencing Act 1908
 
@@ -190,14 +190,14 @@ Save as otherwise agreed or ordered by the court, the middle of a fence shall be
 (1) Subject to subsection (2), the Disputes Tribunal established under the Disputes Tribunal Act 1988 shall have jurisdiction to—
   (a) hear and determine all questions and disputes arising under this Act in relation to any of the matters specified in paragraphs (a) to (o) of subsection (1) of section 24; and
   (b) exercise the powers conferred by subsection (2) or subsection (3) of that section.
-(2) Subject to subsection (3), in the exercise of its jurisdiction under subsection (1) the Disputes Tribunal shall not—and an order or judgment of the Tribunal that exceeds any such restriction shall be entirely of no effect.
+(2) In the exercise of its jurisdiction under subsection (1), the Disputes Tribunal shall not—and an order or judgment of the Tribunal that exceeds any such restriction shall be entirely of no effect.
   (a) make an order under section 24(2)﻿(a)—
-    (i) requiring a person to pay an amount exceeding $15,000:
-    (ii) requiring a person to incur any expense that exceeds $15,000:
-    (iii) declaring a person not liable to another for an amount exceeding $15,000:
-    (iv) requiring a person to remove a fence where the value of the fence exceeds $15,000:
-  (b) enter judgment under section 24(2)﻿(b) for an amount exceeding $15,000—
-(3) Where, in respect of any proceedings under subsection (1), the jurisdiction of the Disputes Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunal Act 1988, subsection (2) shall be read as if every reference in that subsection to $15,000 were a reference to $20,000.
+    (i) requiring a person to pay an amount exceeding $30,000:
+    (ii) requiring a person to incur any expense that exceeds $30,000:
+    (iii) declaring a person not liable to another for an amount exceeding $30,000:
+    (iv) requiring a person to remove a fence where the value of the fence exceeds $30,000:
+  (b) enter judgment under section 24(2)﻿(b) for an amount exceeding $30,000—
+(3)
 
 ### 25 Power to come in and defend proceedings
 Where any proceedings have been commenced under this Act in relation to any fence, any person who may ultimately incur any liability in respect of the fence may come in and—
